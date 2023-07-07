@@ -53,6 +53,9 @@ Unlike rubber, Taban tree sap does not flow freely through the length of the tru
  
 It was only in the early 20th century that a successful system of tapping the Taban was devised: diagonal cuts were made at regular intervals up the length of the trunk using a ladder. The sap would then seep out and coagulate along the length of the cuts. The tapper would then roll the coagulated sap up. Being re-exposed, the cuts would bleed afresh and the process would be repeated until the available sap was exhausted. Besides being labour intensive, the tree also had to be given time to recover from the massive injuries suffered. This recovery period was said to be at least two years.
 
+<img src="/images/Vol%203%20Issue%202/Tapping%20History/diagonal%20tap%20marks.jpg" style="width:50%;"><div style="background-color: white;">
+Diagonal tap marks on the trunk of a Palaquium gutta (Taban Merah) tree in Taban Valley, Bukit Timah Nature Reserve.</div>
+
 The tree was not common in the rainforest but grew in scattered clumps. The result of the huge demand for Gutta Percha was the quick demise of Taban in Singapore. Just two years after Montgomerie introduced Gutta Percha to Europe, all of Singapore's big Taban trees had been felled and Thomas Oxley (1847) estimated that the 412 tons of Gutta Percha exported to Europe between 1845 and 1846 had resulted in 69,000 Taban trees being cut down.
 
 There is even a short article on "Rediscovery of the Gutta Percha Tree at Singapore" published in the *Kew Gardens' Bulletin of Miscellaneous Information* (1891). Because Taban Merah grows quickly when there is plenty of light, it is a suitable plantation crop. The only difficulty is that the young plants initially need to be shaded - only more mature plants benefit from direct sunlight. The Dutch were quick to export saplings from Singapore for starting plantations in Java and by the turn of the century had sizable plantations there.
