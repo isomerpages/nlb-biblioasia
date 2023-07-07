@@ -21,11 +21,11 @@ After Kosman Hassan volunteered to take his uncle’s place to work on the infam
 <br>([Spotify](https://open.spotify.com/episode/6COay7lTYYnZgd0xnUa0ss),&nbsp;[Apple Podcasts](https://podcasts.apple.com/us/podcast/taoist-folk-goddesses-of-singapore/id1688142751?i=1000617460019),&nbsp;[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MzFkNjBkMTktZjU5ZS00MmU0LTkwOWMtYWYwOGE5MjNjYTYx?sa=X&amp;ved=0CAUQkfYCahcKEwjQ656Prc__AhUAAAAAHQAAAAAQAQ))<br>
 
 **The Forgotten Murals of Paya Lebar Airport**<br>
-The enormous murals at the old Paya Lebar Airport were iconic landmarks for travellers. But after the air force took over, the murals vanished.
+The enormous murals at the old Paya Lebar Airport were iconic landmarks for travellers. But after the air force took over the airport, the murals vanished.
 <br>([Spotify](https://open.spotify.com/episode/7Gpzkdqb8ILfsRCTXYsQaj),&nbsp;[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-forgotten-murals-of-paya-lebar-airport/id1688142751?i=1000617459856),&nbsp;[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NGFlZWM5ODYtZWE5Mi00NWIzLTk5MjEtNmQ1MzcwZjg2MDZi?sa=X&amp;ved=0CAcQkfYCahcKEwjQ656Prc__AhUAAAAAHQAAAAAQDA))<br>
 
 **Belacan: Caviar or Vile?**<br>
-Even Munshi Abdullah wasn’t a fan of _belacan._ He referred to it as “makanan yang _busuk-busuk_” (smelly food). During the 19th century, people were fined for illegally storing _belacan_ in the city. Toffa Abdul Wahed sniffs out the condiment’s long history. 
+Even Munshi Abdullah wasn’t a fan of _belacan._ He referred to it as <i>makanan yang busuk-busuk</i> (smelly food). During the 19th century, people were fined for illegally storing _belacan_ in the city. Toffa Abdul Wahed sniffs out the condiment’s long history. 
 <br>([Spotify](https://open.spotify.com/episode/44jFPdoQ8w4HHltZ6WVxd8),&nbsp;[Apple Podcasts](https://podcasts.apple.com/us/podcast/belacan-caviar-or-vile/id1688142751?i=1000617460051),&nbsp;[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/N2IwOGNkM2UtNDRkNS00OTg2LTkyOWMtNjg0NDhlZGNkNmVi?sa=X&amp;ved=0CAcQkfYCahcKEwjQ656Prc__AhUAAAAAHQAAAAAQFA))<br>
 
 
@@ -49,7 +49,7 @@ People have been worshipping the shrines on Kusu Island since the mid-19th centu
 The Crescendos didn’t just rock the airways in Singapore in the 1960s. They changed the entire music recording industry, says sound archivist Ross Laird.<br>
 
 **8 August: Lest We Forget: Kranji War Cemetery**<br>
-Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so also are people like Cpl Raymond Lee and civilian fighter Sim Choo Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.<br>
+Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Choo Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.<br>
 
 **15 August: What’s Become of the Seafaring Orang Seletar?**<br>
 The Orang Seletar used to live on boats that plied the Johor Strait. They were here when Raffles landed in 1819. Today, however, they have settled in kampongs in Johore. Some of the older ones still remember playing in the waters around Seletar island, says writer and educator Ilya Katrinnada.
