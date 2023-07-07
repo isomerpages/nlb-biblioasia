@@ -2,11 +2,10 @@
 title: "Men in Blue: A History of the Singapore Police Force"
 date: 2015-10-01
 permalink: /vol-11/issue-3/oct-dec-2015/blue/
-breadcrumb: "Men in Blue"
+breadcrumb: Men in Blue
 third_nav_title: "Men in Blue: A History of the Singapore Police Force"
 image: \images\Vol-11-issue-3\blue\SikhsfromPunjab.jpg
 ---
-
 <style>
 table { 
 	background-color: #fce0e5;
@@ -21,7 +20,7 @@ table {
 #### The Singapore Police Force has made great strides – along with several changes in uniform – since its inception in 1819. **Ang Seow Leng** traces its history.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\Vol-11-issue-3\blue\SikhsfromPunjab.jpg">
 
 Sikhs from Punjab, India, were recruited to boost the strength of the police force. By August 1881, there were about 100 Sikh policemen in Singapore. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
@@ -46,7 +45,7 @@ As Singapore flourished, the police force became seriously understaffed; in 1831
 #### **Dawn of a New Era: 1840s to 1880s**
 With a large influx of immigrants arriving in Singapore, among them hardcore criminals whom the Chinese and Dutch governments wanted to be rid of, the 1830s and 1840s experienced a further deterioration in the crime situation. The colonial government appealed to the residents of Singapore to attend a meeting in February 1843 to “take into consideration the present state of the local police and other matters connected therewith… as the subject is one of much importance as regards the security of the Community both in their lives and persons.”
 
-In October 1843, Thomas Dunman was appointed to the office of the Deputy Magistrate and Superintendent of Police. He was then a commercial assistant with Martin Dyce & Company and was described as someone with an “intimate acquaintance with the manners and habits of the Natives”. Among the pressing issues that Dunman tried to resolve when he took office included frequent robberies and murders as well as violent clashes between rival Chinese secret societies.
+In October 1843, Thomas Dunman was appointed to the office of the Deputy Magistrate and Superintendent of Police. He was then a commercial assistant with Martin Dyce &amp; Company and was described as someone with an “intimate acquaintance with the manners and habits of the Natives”. Among the pressing issues that Dunman tried to resolve when he took office included frequent robberies and murders as well as violent clashes between rival Chinese secret societies.
 
 The few British administrators on the island were stretched thin and held multiple official positions. Dunman, who was also a deputy magistrate, was unable to devote his time fully to improve the police force. Fortunately, when the Police Act of 1856 was passed in 1857, the position of Commissioner of Police was separated from that of the Resident Councillor. Dunman continued with his full-time service as commissioner until his retirement in 1871, spending 28 years of his life improving the image, morale and efficiency of the force. In appreciation of his services in quelling the 1854 Hokkien-Teochew riots, Dunman received the commendation of the Governor-General-in-Council and was presented with a sword of honour from Governor William J. Butterworth.
 
@@ -63,10 +62,10 @@ William A. Pickering was appointed the first Protector of Chinese in Singapore o
 In 1881, Sikhs and Europeans were recruited to address the manpower shortage in the police force. But this did not create a huge impact; in 1884, Inspector-General S. Dunlop reported that police officers were overworked, and often received less than three-and-a-half hours of rest in between duty. Although the situation improved in subsequent years, in 1908, there were calls to reform the police force as there were only 1,024 police officers handling a population of around 200,000. The lack of policing made some of the districts and islands around Singapore unsafe, and the police force continued to struggle to find the right people to recruit.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\Vol-11-issue-3\blue\GroveEstate.jpg">
 
-A late 19th-century police post at Grove Estate, which was formerly a coconut planation located in the Tanjong Katong area. <i>Photographed by G. R. Lambert & Company. Courtesy of the National Museum of Singapore, National Heritage Board</i>.
+A late 19th-century police post at Grove Estate, which was formerly a coconut planation located in the Tanjong Katong area. <i>Photographed by G. R. Lambert &amp; Company. Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 
 </div>
 
@@ -84,7 +83,7 @@ During the immediate post-war years, the police suffered from the stigma of havi
 In October 1945, the Volunteer Special Constabulary (VSC) was formed to complement the police force, starting with 150 full-time officers who were paid a monthly salary. On 1 March 1949, Commissioner of Police R. E. Foulger recruited the first batch of female police officers – considered a major milestone in the history of the police force. Before this, the untrained wives of police constables were employed to “help check women accused” and were paid a dollar per search. The newly recruited women police officers were trained to handle female offenders, record the statements of victims of sexual offences, and counsel women and juveniles who were on the verge of turning to crime.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="\images\Vol-11-issue-3\blue\MembersoftheVolunteerSpecial.jpg">
 
 Members of the Volunteer Special Constabulary at the Police Training School, 1953. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
@@ -92,8 +91,8 @@ Members of the Volunteer Special Constabulary at the Police Training School, 195
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="\images\Vol-11-issue-3\blue\policewomen.jpg">
+<br>
+<img src="\images\Vol-11-issue-3\blue\Policewomen.jpg">
 
 Police women guarding the demolition of unauthorised hawker stalls in St Michael’s Estate, 1962. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 
@@ -114,7 +113,7 @@ The Gurkha forces were called to the frontlines during several major civil distu
 <b>MEN IN WHITE</b><br><br>The management of traffic on the roads developed in tandem with improvements in Singapore’s transport system. Within the first two years of Singapore’s founding in 1819, some 13 miles of roads were built to serve the harbour as well as the commercial and residential areas. The increased traffic led to the planning of the first road network in 1826 and over time, the mode of transportation evolved from bullock carts, horse-drawn carriages, jinrikishas, trishaws and steam trams to electric trams, motorbikes, cars and buses.<br><br>Since 1937, traffic policemen have been recognisable by their white uniforms and gloves that provide them with greater visibility on the roads. Information on the history of the traffic police force is limited but it gained prominence when its first mobile squad was dispatched in 1939 – comprising 11 motorcycles and two high-powered cars – to five rural and four town districts to reach out and educate the people on road safety.<br><br>Until traffic lights were installed in 1948, traffic policemen were a common sight on the roads, directing traffic and ensuring the road safety of users.  Today, the traffic police continue to play the same role with the help of new technologies like dashboard-mounted speed detectors, surveillance cameras, breath evidential analysers, laser speed detection systems and mobile communications systems.
 
 <div style="background-color: #fce0e5;">
-<br/>
+<br>
 <img src="\images\Vol-11-issue-3\blue\officersondutyhadrattanwings.png">
 
 From 1926 to just before World War II, traffic police officers on duty had rattan “wings” strapped onto their backs. The wings helped reduce arm fatigue as the policeman would merely turn on his feet and the wings would indicate the direction the traffic should flow. There are two wing models – the “tilt wing” model that enabled the traffic policeman to lower the wing to signal traffic on that side to move, and the “fixed wing” model. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore</i>.
@@ -148,7 +147,7 @@ In September 2006, the $276-million Home Team Academy officially opened in Choa 
 In the words of Assistant Superintendent Ryan Koh, the poster boy for the island-wide “stop crime” campaign, “true police work is not as action-packed and glamorous as it is on screen, and it involves a lot of hard work….” Today, the Singapore Police Force has evolved into a large and complex organisation, and it continues to maintain law and order, protect life and property, detect and prevent crime, and prosecute offenders. It has indeed come a long way since its first incarnation in 1819 under Francis James Bernard as its chief.
 
 <div style="background-color: white;">
-<br/>
+<br>
 
 <b>Ang Seow Leng</b> is a Senior Librarian with the National Library of Singapore. Her responsibilities include managing the National Library’s collections, developing content as well as providing reference and research services.
 
@@ -173,7 +172,7 @@ Chan, K.S. (2001, June 11). [When cops wore pompons and puttees](http://eresourc
 
 Cheung, S.W., et al. (Eds.). (2009). *[A place to remember, 1929–2005: Police Depot, Police Training School, Sekolah Latehan Pulis, Advanced Training School, Police Training School, Police Academy, Training Command](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13674662)*. Singapore: Singapore Police Force. (Call no.: RSING 363.2095957 PLA)
 
-Chong, Z.L., & Zakaria Zainal. (2014). *[The invisible force: Singapore Gurkhas](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200751892)*. Singapore: Ethos Books. (Call no.: RSING 355.359095957 CHO)
+Chong, Z.L., &amp; Zakaria Zainal. (2014). *[The invisible force: Singapore Gurkhas](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200751892)*. Singapore: Ethos Books. (Call no.: RSING 355.359095957 CHO)
 
 Comber, L. (2008). *[Malaya's secret police 1945–60: The role of the special branch in the Malayan Emergency](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676)*. Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute. (Call no.: RSING 363.283095951 COM)
 
@@ -195,7 +194,7 @@ Leathart, S. (1996). *[With the Gurkhas: India, Burma, Singapore, Malaya, Indone
 
 [Legislative Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18720706-1.2.12.aspx). (1872, July 6). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-Makepeace, W., Brooke, G.E., & Braddell, R.St.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)*. (Vol. 2). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+Makepeace, W., Brooke, G.E., &amp; Braddell, R.St.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)*. (Vol. 2). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
 
 Mesenas, C. (1971, June 19). [Police pay report is ready](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710619-1.2.31.aspx). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
@@ -213,7 +212,7 @@ National Library Board. (2014). *[Indonesia announces Konfrontasi (Confrontation
 
 [New cord will replace police lanyard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740111-1.2.17.8). (1974, January 11). *New Nation*, p. 3. Retrieved from NewspaperSG.
 
-Peer M. Akbur. (2002). *[Policing Singapore in the 19th & 20th centuries](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11732855)*. Singapore: Singapore Police Force. (Call no.: RSING 363.2095957 PEE)
+Peer M. Akbur. (2002). *[Policing Singapore in the 19th &amp; 20th centuries](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11732855)*. Singapore: Singapore Police Force. (Call no.: RSING 363.2095957 PEE)
 
 Rodriguez, D. (2015, March–April). Singapore’s most famous cop. *[Hey! The NTU Magazine](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14313647), 21*, 21. (Call no.: RSING 378.5957 H)
 
@@ -235,7 +234,7 @@ Straits Settlements. (1890). *[Indian acts passed during the period extending fr
 
 Teh, J. L. (2006, August 19). [Academy gives realistic edge to security training](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060819-1.2.3.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG. 
 
-Teow, M.B.K., & Wijeysingha, E. (2000). *[National Police Cadet Corps: Its origin, growth and development](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10756195)*. Singapore: National Police Cadet Corps. (Call no.: RSING q369.4095957 TEO)
+Teow, M.B.K., &amp; Wijeysingha, E. (2000). *[National Police Cadet Corps: Its origin, growth and development](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10756195)*. Singapore: National Police Cadet Corps. (Call no.: RSING q369.4095957 TEO)
 
 [“The Chicago of the East”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19290614-1.2.21.aspx). (1929, June 14). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
@@ -251,7 +250,7 @@ Wahab, G. (1856, March 11). [Singapore Municipal Committee](http://eresources.nl
 
 Wake, C.H. (1975). Raffles and the rajas: The founding of Singapore in Malayan and British colonial history. *Journal of the Malaysian Branch of the Royal Asiatic Society, 48* (1), 47–73, pp. 58–61. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website. 
 
-Wan, M.H., & Lau, J. (2009). *[Heritage places of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13220774)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 WAN)
+Wan, M.H., &amp; Lau, J. (2009). *[Heritage places of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13220774)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.57 WAN)
 
 Zakaria Zainal. (2012). *[Our Gurkhas: Singapore through their eyes](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14437777)*. Singapore: Wee Editions. (Call no.: RSING 355.35095957 ZAK)
 

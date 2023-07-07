@@ -1,6 +1,6 @@
 ---
 title: "Going Against the (Rice) Grain: The “Eat More Wheat” Campaign"
-permalink: /holding-area/wheat-test/
+permalink: /vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/
 description: The call for Singaporeans to switch from eating rice to eating
   wheat in 1967 did not take root despite best efforts by the government.
 ---
@@ -40,7 +40,7 @@ The message to the public – targeted mainly at housewives as most people ate a
 
 Among the biggest events were two nationwide wheat cooking competitions organised by Radio and Television Singapura, which attracted more than 2,000 participants. The competitions encouraged contestants to submit quick and economical recipes (with ingredients costing no more than $3 for the first competition and $2 for the second) using wheat flour as the main ingredient for breakfast, lunch and dinner. The recipes could be for Chinese, Malay, Indian or Western cuisine.[^12]
 
-![](/images/Vol%2019%20Issue%203/Wheat/image6.png)
+![](/images/Vol%2019%20Issue%203/Wheat/19980005442%20-%20img0104v2.jpg)
 <div style="background-color: white;">A contestant preparing the ingredients to cook at the finals of the nationwide cooking competition held at the Singapore Conference Hall, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 For the finals of the first competition held at the Singapore Conference Hall on 17 October 1967, 10 contestants were chosen from each category and made to cook their dishes for the judges who would then determine the winners. The first prize winners were domestic science teacher Mrs Theresa Teow for Malayan savoury pancakes (Malay), Mr G.P. Ponnusamy, a cook, for wheat *uppumaa* (Indian), Mrs Rita Fernando, also a domestic science teacher, for stuffed fried dough balls (Chinese) and housewife Mrs Clara Anciano for basic hot cake (Western).[^13]
@@ -51,10 +51,10 @@ The first prize winner of the Western section was domestic science teacher Mary 
 
 Subsequently, 120 winning entries from the two cooking competitions were compiled into a cookbook titled *“The Proof Is in the Eating” Recipe Book*, which was sold to the public at $1.[^17] The recipes were printed in English, Chinese, Malay and Tamil. 
 
-![](/images/Vol%2019%20Issue%203/Wheat/image5.png)
+![](/images/Vol%2019%20Issue%203/Wheat/image5b.png)
 <div style="background-color: white;">After the nationwide wheat cooking competitions in 1967 and 1968, 120 winning recipes were compiled into a cookbook titled <i>“The Proof Is in the Eating” Recipe Book. Image reproduced from RTS Enterprises (Singapore), “The Proof Is in the Eating” Recipe Book (Singapore: Printed by the Govt. Print. Off., 1969). (From National Library, Singapore, call no. RCLOS 641.6311 RTS).</i></div>
 
-![](/images/Vol%2019%20Issue%203/Wheat/image4.png)
+![](/images/Vol%2019%20Issue%203/Wheat/image4b.png)
 <div style="background-color: white;">The recipe for “Wheat Burger Ring” by Mrs Mariana Munir. <i>Image reproduced from RTS Enterprises (Singapore), “The Proof Is in the Eating” Recipe Book (Singapore: Printed by the Govt. Print. Off., 1969), 123. (From National Library, Singapore, call no. RCLOS 641.6311 RTS).</i></div>
 
 There were also cooking competitions in schools organised by the Ministry of Education,[^18] a wheat food exhibition by the Siglap Women’s Association,[^19] an “Eat More Flour” week by the Singapore Food Manufacturers’ Association,[^20] a cake-making competition and exhibition by the People’s Association,[^21] and a Christmas Fair where wheat products were sold.[^22]
@@ -83,7 +83,7 @@ substituting rice for wheat. A man said: “It’s just like asking us to give u
 
 The Singapore Medical Association criticised the government for not involving doctors who could have helped explain why wheat was better for health. “The campaign would have been a greater success if the medical profession had been alerted to the need for their participation,” said the association. “It is impossible to expect a few jingles over the air with one’s morning coffee to bring about a social revolution in the eating habits of the majority of the people in Singapore.”[^32]
 
-![](/images/Vol%2019%20Issue%203/Wheat/image2.png)
+![](/images/Vol%2019%20Issue%203/Wheat/image2b.png)
 <div style="background-color: white;">To reach out to the masses, advertisements with catchy slogans depict different races enjoying wheat products. <i>Image reproduced from “Page 5 Advertisements Column 2,” Eastern Sun, 11 November 1967, 5. (From NewspaperSG). </i></div>
 
 In Parliament in December 1967, Member of Parliament for Aljunied S.V. Lingam questioned the campaign’s target audience. “To whom are we to beam this campaign to? To the rich or to the poor?” he demanded to know. “[T]he campaign seems to me to be directed at the rich who ironically are already consumers of wheat and who could afford to pay for rice at ten times its present price.”[^33]

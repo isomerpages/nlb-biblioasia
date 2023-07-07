@@ -2,11 +2,10 @@
 title: "Triads, Coolies and Pimps: Chinatown in Former Times"
 date: 2015-10-01
 permalink: /vol-11/issue-3/oct-dec-2015/coolies/
-breadcrumb: "Triads, Coolies and Pimps"
+breadcrumb: Triads, Coolies and Pimps
 third_nav_title: "Triads, Coolies and Pimps: Chinatown in Former Times"
 image: \images\Vol-11-issue-3\coolies\chinatown_Shopfront.jpg
 ---
-
 <style>
 table { 
 	background-color: #fce0e5;
@@ -21,8 +20,8 @@ table {
 #### The Chinatown of yesteryear was a thriving hotbed of crime and secret societies. **Lim Tin Seng** unveils its less glamorous history.
 
 <div style="background-color: white;">
-<br/>
-<img src="\images\Vol-11-issue-3\coolies\chinatown_Shopfront.jpg"> 
+<br>
+<img src="\images\Vol-11-issue-3\Coolies\chinatown_Shopfront.jpg"> 
 
 A Chinatown shop front, c. 1870. <i>Nationaal Museum van Wereldculturen, Leiden, The Netherlands</i>.
 
@@ -40,18 +39,18 @@ Although the British leased or granted land parcels to these early immigrants fo
 The Ghee Hin, regarded as Singapore’s first secret society, began innocently enough as a mutual aid organisation for the Chinese in Chinatown. With its headquarters on Rochor Road, the society was established in the 1820s to provide accommodation, job opportunities and security for new Chinese immigrants. In its earlier guise, Ghee Hin even helped the police maintain law and order and turned in members who broke the law. 
 
 <div style="background-color: white;">
-<br/>
-<img src="\images\Vol-11-issue-3\coolies\ChineseSecretSociety_Censer.jpg">
+<br>
+<img src="\images\Vol-11-issue-3\Coolies\ChineseSecretSociety_Censer.jpg">
 
-(Left) Chinese secret society members in early 20th-century Singapore. <i>Courtesy of National Archives of Singapore</i>.<br>(Right) A censer of joss sticks used in the initiation altars of secret societies. <i>Image reproduced from Frost, M.R., & Balasingamchow, Y. (2009). Singapore: A Biography. Singapore: Editions Didier Millet. (Call no.: RSING 959.57 FRO-[HIS])</i>.
+(Left) Chinese secret society members in early 20th-century Singapore. <i>Courtesy of National Archives of Singapore</i>.<br>(Right) A censer of joss sticks used in the initiation altars of secret societies. <i>Image reproduced from Frost, M.R., &amp; Balasingamchow, Y. (2009). Singapore: A Biography. Singapore: Editions Didier Millet. (Call no.: RSING 959.57 FRO-[HIS])</i>.
 
 </div>
 
 As Ghee Hin grew in size and stature from the 1830s, it started to control the pepper and gambier plantations and rice trade, as well as the lucrative opium farms and vice industries. When rival groups by former Ghee Hin members as well as Chinese immigrants from dialect groups like the Teochews and Hakka emerged in the 1840s to challenge the dominance of Ghee Hin, bloody clashes broke out on the streets of Chinatown. 
 
 <div style="background-color: white;">
-<br/>
-<img src="\images\Vol-11-issue-3\coolies\GheeHinKongsi.jpg">
+<br>
+<img src="\images\Vol-11-issue-3\Coolies\GheeHinKongsi.jpg">
 
 A watercolour painting of the Ghee Hin Kongsi lodge, showing details of an initiation ceremony. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 
@@ -72,8 +71,8 @@ The merchants spread rumours that it was mandatory to use the new post office fo
 In 1877, the British set up the Chinese Protectorate to manage the secret societies and curb their activities through surveillance and control. One such measure was the registration of secret societies so that the government could obtain pertinent information such as the name, location, headman and members of each society. However, this move ran into trouble when the first Protector, the Chinese linguist William A. Pickering, was attacked by triads in 1887. 
 
 <div style="background-color: white;">
-<br/>
-<img src="\images\Vol-11-issue-3\coolies\William_A._Pickering.jpg">
+<br>
+<img src="\images\Vol-11-issue-3\Coolies\William_A._Pickering.jpg">
 
 William A. Pickering (1840–1907) was the first Protector of Chinese appointed by the British government to oversee the Chinese Protectorate in Singapore. <i>Retrieved from Wikimedia Commons</i>.
 
@@ -87,8 +86,8 @@ Chinatown was also synonymous with the coolie trade. Coolies were male labourer 
 Coolies could be distinguished by two types – “free coolies” and “credit coolies”. The former paid for their passage and decided where they went or what they would do upon reaching their destination. Credit coolies, on the other hand, were practically penniless. On arrival at their destination, credit coolies were required to sign binding contracts with their employers. 
 
 <div style="background-color: white;">
-<br/>
-<img src="\images\Vol-11-issue-3\coolies\Chinesecooliessharingameal.jpg">
+<br>
+<img src="\images\Vol-11-issue-3\Coolies\Chinesecooliessharingameal.jpg">
 
 Chinese coolies sharing a meal and enjoying the camaraderie, circa 1900. <i>Courtesy of National Archives of Singapore</i>.
 
@@ -97,8 +96,8 @@ Chinese coolies sharing a meal and enjoying the camaraderie, circa 1900. <i>Cour
 Coolies had been flooding Singapore’s shores since the arrival of the British. In 1830, Singapore received nearly 7,000 Chinese labourers during the junk season,[^3] which was almost the size of the entire Chinese population of the island at the time. In the subsequent decades, new coolies numbering between 5,000 and 7,000, would arrive in Singapore yearly, grossly overcrowding the Chinatown area. As the coolies were usually unskilled, they were employed as manual labour in almost every sector from construction to plantation work. They were also hired to take on back-breaking jobs such as rickshaw pullers and stevedores. During periods when labour supply was tight, coolies were highly sought after by plantation owners, merchants and port operators. However, during lull times, coolies were summarily regarded as “destitute and worthless”. 
 
 <div style="background-color: white;">
-<br/>
-<img src="\images\Vol-11-issue-3\coolies\Chinesecooliestransportinggoods.jpg">
+<br>
+<img src="\images\Vol-11-issue-3\Coolies\Chinesecooliestransportinggoods.jpg">
 
 Chinese coolies transporting goods along the Singapore River in 1948. Coolies were typically used for manual labour and back-breaking tasks. <i>Courtesy of National Archives of Singapore</i>.
 
@@ -117,8 +116,8 @@ Furthermore, the condition of their living quarters (or *coolie kengs* in Hokkie
 “The standard of living conditions prevalent in these older two and three storey houses were shocking to the extreme. Cubicles measuring only a few feet across were shared by several men, and sometimes even families, taking turn to rest and work. With little light and ventilation and even less provision for sanitary requirements, morbidity and mortality from communicable diseases… were common place.”
 
 <div style="background-color: white;">
-<br/>
-<img src="\images\Vol-11-issue-3\coolies\Cooliequarters.jpg">
+<br>
+<img src="\images\Vol-11-issue-3\Coolies\Cooliequarters.jpg">
 
 In the 1930s, coolie quarters were a common sight in Chinatown. The coolies lived in deplorable and unsanitary conditions with little light and poor ventilation. The cubicles were shared by several men and sometimes even families. <i>Courtesy of National Archives of Singapore</i>.
 
@@ -134,8 +133,8 @@ Opium-smoking, gambling and prostitution were the three biggest social ills that
 In 1848, there were 45 licensed opium shops; by 1900, this had grown to 550. Many were conveniently located in the heart of Chinatown on Pagoda Street, Trengganu Street, Duxton Road and Amoy Street. Similarly, there was an increase in the number of gambling dens throughout the 19th century despite being outlawed in 1829. In 1832, there were at least 20 gambling dens operating illegally on Church Street near Telok Ayer. By the end of the 19th century, this had grown to about 100 found in both the outskirts of the town centre and Chinatown. The number of brothels also increased, from 212 in 1877 to 353 in 1905, and many were located on Upper Hokkien Street, Chin Hin Street, Smith Street, Sago Street and Banda Street. 
 
 <div style="background-color: white;">
-<br/>
-<img src="\images\Vol-11-issue-3\coolies\Illustrationsofsideprofile.jpg">
+<br>
+<img src="\images\Vol-11-issue-3\Coolies\Illustrationsofsideprofile.jpg">
 
 Illustrations comparing the side profile of a non-opium smoker (left) and an opium smoker. <i>Image reproduced from Stirling, W.G. (1913). Opium Smoking Among the Chinese. Times of Malaya Press. (Microfilm no.: NL7462)</i>.
 
@@ -164,15 +163,15 @@ Fortunately, the Chinese Protectorate sought out victims of forced prostitution 
 Looking at the gentrified Chinatown of today, it is difficult to imagine its tainted past. The next time you walk past an old shophouse in Chinatown, now resplendently conserved and housing a stylish cafe or bar, take a moment to appreciate its history and pay homage to our forefathers who toiled behind those facades to make Singapore what it is today.
 
 <div style="background-color: white;">
-<br/>
-<img src="\images\Vol-11-issue-3\coolies\ChineseStreetHawker.jpg">
+<br>
+<img src="\images\Vol-11-issue-3\Coolies\ChineseStreetHawker.jpg">
 
 Chinese street hawkers plying their trade outside Telok Ayer Market, c. 1915. <i>Courtesy of Farish Noor</i>.
 
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 
 <b>Lim Tin Seng</b> is a Librarian with the National Library of Singapore. He is the co-editor of Roots: <i>Tracing Family Histories – A Resource Guide</i> (2013); <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He is also a regular contributor to <i>BiblioAsia</i>.
 
@@ -199,7 +198,7 @@ Lim, I. (1999). *[Secret societies in Singapore: Featuring the William Stirling 
 
 [Local](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18510221-1.2.7.aspx). (1851, February 21). *The Singapore Free Press and Mercantile Advertiser (1835–1869)*, p. 2. Retrieved from NewspaperSG.
 
-Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
+Savage, V.R., &amp; Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
 
 Saw, S.H. (2012). *[The population of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911)*. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
@@ -215,13 +214,13 @@ Tanjong Pagar Citizens' Consultative Committee. (1989). *[Tanjong Pagar: Singapo
 
 Trocki, C.A. (1990). *[Opium and empire: Chinese society in Colonial Singapore, 1800–1910](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5587400)*. New York: Cornell University Press. (Call no.: RSING 305.895105957 TRO)
 
-Trocki, C.A. (1993). The rise and fall of the Ngee Heng Kongsi in Singapore. In D. Ownby & M. S. F. Heidhues. (Eds.). *[“Secret societies” reconsidered: Perspectives on the social history of modern South China and Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6884658)*. Armonk, N.Y.: M.E. Sharpe. (Call no.: RSING 366 SEC)
+Trocki, C.A. (1993). The rise and fall of the Ngee Heng Kongsi in Singapore. In D. Ownby &amp; M. S. F. Heidhues. (Eds.). *[“Secret societies” reconsidered: Perspectives on the social history of modern South China and Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6884658)*. Armonk, N.Y.: M.E. Sharpe. (Call no.: RSING 366 SEC)
 
-Trocki, C.A. (2011). Singapore as a nineteenth century migration node. In D.R. Gabaccia & D. rHoerder. (Eds.). *[Connecting seas and connected ocean rims: Indian, Atlantic, and Pacific oceans and China seas migrations from the 1830s to the 1930s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14277585)*. Leiden; Boston: Brill. (Call no.: RSING 304.809034 CON)
+Trocki, C.A. (2011). Singapore as a nineteenth century migration node. In D.R. Gabaccia &amp; D. rHoerder. (Eds.). *[Connecting seas and connected ocean rims: Indian, Atlantic, and Pacific oceans and China seas migrations from the 1830s to the 1930s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14277585)*. Leiden; Boston: Brill. (Call no.: RSING 304.809034 CON)
 
 Turnbull, C.M. (2009). *[A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047)*. Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
 
-Wang, D.F., Ong, T.H., & Isralowitz, R.E. (1996). *[Substance use in Singapore: Illegal drugs, inhalants and alcohol](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7504072)*. Singapore: Toppan Company. (Call no.: RSING 362.29095957 ONG)
+Wang, D.F., Ong, T.H., &amp; Isralowitz, R.E. (1996). *[Substance use in Singapore: Illegal drugs, inhalants and alcohol](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7504072)*. Singapore: Toppan Company. (Call no.: RSING 362.29095957 ONG)
 
 Warren, J.F. (2003). *[Ah ku and karayuki-san: Prostitution in Singapore, 1870–1940](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)*. Singapore: Singapore University Press. (Call no.: RSING 306.74095957 WAR)
 
@@ -234,9 +233,6 @@ Yeoh, B. S. A. (2003). *[Contesting space in colonial Singapore: power relations
 
 ##### NOTES
 [^1]: The *catty* or *kati* is a traditional unit of mass measurement commonly used in Southeast Asia, where one catty is equivalent to 600 grams. See Hinkelman, E.G. (2005). *[Dictionary of international trade](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12675831)* (p. 243). Novato, Calif.: World Trade Press. (Call no.: RBUS q382.03 HIN) 
-[^2]: Due to conflicting interests among members, dissensions began to appear in Ghee Hin from the mid-1800s, splintering the secret society into various branches that were defined along dialect groups such as Hokkien, Teochew and Haka. See Trocki, C. A. (1993). The rise and fall of the Ngee Heng Kongsi in Singapore. In D. Ownby & M.S.F. Heidhues. (Eds.). *[“Secret societies” reconsidered: Perspectives on the social history of modern South China and Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6884658)* (p. 111). Armonk, N.Y.: M.E. Sharpe. (Call no.: RSING 366 SEC) 
+[^2]: Due to conflicting interests among members, dissensions began to appear in Ghee Hin from the mid-1800s, splintering the secret society into various branches that were defined along dialect groups such as Hokkien, Teochew and Haka. See Trocki, C. A. (1993). The rise and fall of the Ngee Heng Kongsi in Singapore. In D. Ownby &amp; M.S.F. Heidhues. (Eds.). *[“Secret societies” reconsidered: Perspectives on the social history of modern South China and Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6884658)* (p. 111). Armonk, N.Y.: M.E. Sharpe. (Call no.: RSING 366 SEC) 
 [^3]: Turnbull, C.M. (2009). *[A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13206047)* (p. 57). Singapore: NUS Press. (Call no.: RSING 959.57 TUR)
 [^4]: Wha Whey is the Hokkien name for the ancient Chinese 36-number game, where the numbers are based on the names of famous personalities in Chinese history. Operators released cryptic clues in the form of rhyming riddles to the winning number, and winnings could be as high as 30 times the original wager. The game is known as “Chee Fah” in Cantonese.
-
-
-

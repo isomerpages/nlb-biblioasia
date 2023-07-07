@@ -2,11 +2,10 @@
 title: "Money-making Bodies: Prostitution in Colonial Southeast Asia"
 date: 2015-10-01
 permalink: /vol-11/issue-3/oct-dec-2015/bodies/
-breadcrumb: "Money-making Bodies"
+breadcrumb: Money-making Bodies
 third_nav_title: "Money-making Bodies: Prostitution in Colonial Southeast Asia"
 image: /images/Vol-11-issue-3/bodies/ThreeMalaywomen.jpg
 ---
-
 <style>
 table { 
 	background-color: #fce0e5;
@@ -21,10 +20,10 @@ table {
 #### The oldest profession in the world took on a different complexion in Southeast Asia when the European colonial powers arrived. **Farish Noor** puts the pieces together.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-11-issue-3/bodies/ThreeMalaywomen.jpg">
 
-Three Malay women having their picture taken by G. R. Lambert & Company. Gustave Richard Lambert was a native of Dresden, Germany, who set up a photo studio in Singapore in 1867. His vast collection of prints depicting people and scenery provide a comprehensive photographic documentation of early Singapore. <i>Image reproduced from Fotoalbum Singapur (1890). Collection of the National Library, Singapore (Accession no.: B18975148J)</i>.
+Three Malay women having their picture taken by G. R. Lambert &amp; Company. Gustave Richard Lambert was a native of Dresden, Germany, who set up a photo studio in Singapore in 1867. His vast collection of prints depicting people and scenery provide a comprehensive photographic documentation of early Singapore. <i>Image reproduced from Fotoalbum Singapur (1890). Collection of the National Library, Singapore (Accession no.: B18975148J)</i>.
 
 </div>
 
@@ -38,7 +37,7 @@ But another aspect of Singapore’s past that has been forgotten is how internat
 Singapore was one of several cosmopolitan commercial centres that emerged during the colonial era, along with Georgetown (Penang) and Malacca in Malaya; Batavia (Jakarta), Medan and Surabaya in the Dutch East Indies (Indonesia); and Manila in the Philippines. These commercial-administrative centres were somewhat unique in the way they performed several functions at the same time: Singapore, Georgetown and Batavia were bustling ports and administrative centres as well as military bases, and developed rapidly as a result of mass migration that was brought about by the advances in communications technology and logistics.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-11-issue-3/bodies/eurasian.jpg">
 
 Unidentified upper-class 19th-century Eurasian family in Singapore. In the colonised Dutch East Indies (Indonesia), India, Philippines, Straits Settlements (Singapore, Penang and Malacca) and elsewhere, European men took on Asian wives, giving rise to a distinct race of Eurasians who enjoyed a privileged place in society. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</i>.
@@ -69,16 +68,16 @@ Yet, even in the case of the legalised sex trade then, racial hierarchies and di
 “Each of the districts with hundreds of brothels lining streets cheek by jowl had their local clients. During the first part of the [20th] century Europeans – diplomats, officials and planters – favoured the discreet Japanese women of Malay and Malabar streets. Foreign tourists, soldiers, and, especially Japanese sailors also sought their sexual favours by visiting the unregistered haunts of Malay and Eurasian women scattered in the side lanes and alleys of the city. Rickshawmen made regular journeys to the brothels in Chin Hin Street, Fraser Street, Sago Street, Smith Street, Tan Quee Lan Street and Upper Hokien Street.”
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-11-issue-3/bodies/malaystreet.jpg">
+<br>
+<img src="/images/Vol-11-issue-3/bodies/MalayStreet.jpg">
 
 Malay Street in the 1910s. The Japanese set up two brothels on Malay Street around 1877. Japanese prostitutes called <i>karayuki-san</i> were favoured by European diplomats and officials. <i>Courtesy of National Archives of Singapore</i>.
 
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-11-issue-3/bodies/yanzhen.jpg">
+<br>
+<img src="/images/Vol-11-issue-3/bodies/YanZhen.jpg">
 
 Yan Zhen, a Cantonese teahouse, used to be located at the corner of Trengganu and Smith streets. Smith Street was also a haunt for prostitutes in the early part of the 20th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 
@@ -89,7 +88,7 @@ The hapless women who worked in these brothels – both registered and unregiste
 Though our history books are wont to skip over the lurid details of the past, it cannot be denied that prostitution was an essential part of the colonial enterprise and that it was, in fact, regarded even by some enlightened souls as something both necessary and mundane. Appreciating this fact requires us to remember other aspects of the past which may seem alien to us now, such as the fact that up to the end of the 19th century, the notion that children are human beings endowed with the same rights as adults was likewise regarded as a foreign concept – proof of which could be found in the coal mines of Europe, where children laboured away for hours on end with no regard for their education or welfare, and whose situation invoked scant public protest.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-11-issue-3/bodies/chatting.jpg">
 
 Chinese women chatting along a street in Singapore’s Chinatown area, c. 1938. <i>Allen Goh Collection, courtesy of National Archives of Singapore</i>.
@@ -110,8 +109,8 @@ In the same way that prostitution was one of the negative by-products of raciali
 By the turn of the 20th century, much of the world was connected thanks to the communications architecture that had been laid down during the colonial era. The opening of the Suez Canal connecting the Mediterranean Sea with the Red Sea meant that travel between Europe and Asia was made easier, faster and safer. The days when European seafarers had to cope with the threat of privateers and corsairs were long since over; the seas were now swept clean of pirates thanks to the introduction of the Western gunboat. The transition from the age of sail to the age of steam, and later to fuel-powered vessels, meant that the time taken to travel by sea was shorter, while the volume of cargo and passengers increased considerably with the creation of larger iron-clad vessels. In time, the age of exploration gave way to the age of mass travel and tourism.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-11-issue-3/bodies/ewomen.jpg"> 
+<br>
+<img src="/images/Vol-11-issue-3/bodies/Ewomen.jpg"> 
 
 By the turn of the 20th century, travel had become much easier and faster, and as the number of European women in the colonies increased, Western men found it less expedient to seek out the company of Asian women. <i>Image reproduced from Liu, G. (1999). Singapore: A Pictorial History 1819–2000. Singapore: Archipelago Press in association with the National Heritage Board. (Call no.: RSING 959.57 LIU-[HIS])</i>.
 
@@ -124,10 +123,10 @@ As the number of European women in the colonies increased, the colonies themselv
 But as more and more Western women came to Asia – as a result of faster and safer travel that allowed entire families to be relocated – the number of European men seeking Asian brides declined accordingly. As a result, the character of the hybrid colonies of Southeast Asia began to change and the Dutch, British, French and Spanish colonial functionaries ceased their practice of adopting local customs and dress – in the Dutch East Indies for instance it was common for Dutch colonial officials to wear *batik sarong* at home, and eat local food cooked by their Indonesian wives.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-11-issue-3/bodies/bachelorskarayuki.jpg">
 
-(Left) European bachelors in Singapore took to wearing the <i>sarong</i> at home; some also took on Asian wives or engaged the services of prostitutes, c. 1909. <i>Edward William Newell Collection, courtesy of National Archives of Singapore</i>. (Right) Portrait of a Japanese prostitute taken by G. R. Lambert & Company in 1890. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
+(Left) European bachelors in Singapore took to wearing the <i>sarong</i> at home; some also took on Asian wives or engaged the services of prostitutes, c. 1909. <i>Edward William Newell Collection, courtesy of National Archives of Singapore</i>. (Right) Portrait of a Japanese prostitute taken by G. R. Lambert &amp; Company in 1890. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 
 </div>
 
@@ -145,7 +144,7 @@ The eventual demise of prostitution – to be replaced by other systems of socia
 Most of the women implicated in the trade were of humble origins, and although a few have left behind letters or diaries that can be studied in detail, there is a pressing need to seek sources of information that would shed more light into the grim realities that these women put up with during their lifetimes. For though these women have been largely forgotten and ignored in the official histories of many postcolonial states, theirs is a story of migration, settlement, exploitation and labour that is in every way as compelling and important as the history of male labourers and immigrants, and they too ought to be recognised as being among – the less fortunate – builders of the modern states of Asia today.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <b>Dr Farish A. Noor</b> is Associate Professor and Head of the Doctoral Programme at the S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore. He has written widely on subjects related to Southeast Asian history and society, and his latest work is about the colonial construction of the <i>idea</i> of Southeast Asia in 19th-century colonial-capitalist discourse.
 
 </div>
@@ -153,8 +152,8 @@ Most of the women implicated in the trade were of humble origins, and although a
 <a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
 #### REFERENCES
-Manderson, L. (1990). *Race, colonial mentality and public health in early twentieth century Malaya*. In P.J. Rimmer & L.M. Allen (Eds.), *[The underside of Malaysian history: Pullers, prostitutes, plantation workers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5661319)*. Singapore: Singapore University Press for Malaysia Society of the Asian Studies Association. (Call no.: RSING 305.56209595 UND) 
+Manderson, L. (1990). *Race, colonial mentality and public health in early twentieth century Malaya*. In P.J. Rimmer &amp; L.M. Allen (Eds.), *[The underside of Malaysian history: Pullers, prostitutes, plantation workers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5661319)*. Singapore: Singapore University Press for Malaysia Society of the Asian Studies Association. (Call no.: RSING 305.56209595 UND) 
 
 Steinberg, D.J., et al. (Eds.). (1985) *[In search of Southeast Asia: A modern history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3663254)*. Honolulu: University of Hawaii Press. (Call no.: RSING 959 IN)
 
-Warren, J.F. (1990). *Prostitution in Singapore society and the karayuki-san*. In P.J. Rimmer & L.M. Allen (Eds.), *[The underside of Malaysian history: Pullers, prostitutes, plantation workers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5661319)*. Singapore: Singapore University Press for Malaysia Society of the Asian Studies Association. (Call no.: RSING 305.56209595 UND)
+Warren, J.F. (1990). *Prostitution in Singapore society and the karayuki-san*. In P.J. Rimmer &amp; L.M. Allen (Eds.), *[The underside of Malaysian history: Pullers, prostitutes, plantation workers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5661319)*. Singapore: Singapore University Press for Malaysia Society of the Asian Studies Association. (Call no.: RSING 305.56209595 UND)

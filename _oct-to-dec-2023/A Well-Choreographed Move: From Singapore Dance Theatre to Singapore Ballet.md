@@ -124,7 +124,7 @@ Most importantly, under Schergen, the company began to address the critical ques
 The name change in December 2021 was thus long overdue, according to Schergen. “By the time three decades had passed, a confident maturity to SDT was now in place and the company had its own unique identity,” he said. “To reflect this and show this confident maturity of the nature of our organisation, a decision has been made to rename ourselves as Singapore Ballet.”[^34]
 
 ![](/images/Vol%2019%20Issue%203/image11.png)
-<div style="background-color: white;">Rehearsing for Timothy Rushton’s Quiver, 2022. Photo by Chang Zi Min. <i>Courtesy of Singapore Ballet..</i></div>
+<div style="background-color: white;">Rehearsing for Timothy Rushton’s <i>Quiver<i>, 2022. Photo by Chang Zi Min. <i>Courtesy of Singapore Ballet..</i></i></i></div><i><i>
 
 #### **Always En Pointe**
 
@@ -210,4 +210,4 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^34]: Dewi Nurjuwita, “Singapore Dance Theatre Unveils Its New Name,” *Timeout*, 13 December 2021, https://www.timeout.com/singapore/news/singapore-dance-theatre-unveils-its-new-name-121321.
 
-[^35]: “Singapore Ballet 2023 Season,” *Ballet Herald*, 17 December 2022, https://www.balletherald.com/singapore-ballet-2023-season/.
+[^35]: “Singapore Ballet 2023 Season,” *Ballet Herald*, 17 December 2022, https://www.balletherald.com/singapore-ballet-2023-season/.</i></i>
