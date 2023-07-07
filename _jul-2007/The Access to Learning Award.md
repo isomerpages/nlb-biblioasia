@@ -47,6 +47,29 @@ ATLA is helping to highlight innovation and success, and also points to the ongo
 
 Promoting the groundbreaking work of libraries to provide computers and the Internet is an important step in building greater access to these tools throughout the world. Ensuring that ATLA recipients and other similar organisations can sustain their work is a critical part of opening the information age to developing countries. Strong, visionary leadership at the local project level is vitally important to building and maintaining healthy technology programmes. As well, creative partnerships between private sector funders and experts, and local governments can provide effective support for information technology initiatives in the developing world. Ultimately, the success of free public technology programmes requires the long¬term commitment of governments, businesses, community groups, and libraries around the globe - a goal, which is paramount to the efforts of the Gates Foundation's Global Libraries initiative.
 
+#### **Bringing Information Resources to Rural China**
+
+The China Evergreen Rural Library Service Centre (CERLS), a 2004 ATLA recipient, is showing how local government collaboration can help ensure sustainability and strengthen free technology programmes.
+
+Two-thirds of China's 1.3 billion people live in rural areas with extremely limited access to information technology. These resources are even scarcer in western China, an area characterised by poverty and illiteracy that has not yet benefited from the growth and prosperity of the coastal region.
+
+To help address this need, the China Evergreen Rural Library Service Centre forms partnerships with school libraries to develop and computerise library collections, create computer labs for the entire community, and offer training workshops to students, teachers, librarians, and the public. Since its founding in 2001, CERLS has added 10 public school libraries to its network, serving a community of more than 1 million people.
+
+CERLS schools go out of their way to reach those least likely to seek out their services. One teacher travels to remote villages with a laptop computer to teach farmers about new agricultural techniques and environmental issues. Another school created a mobile library to reach herdsmen with information in both Tibetan and Chinese. CERLS also sets up service stations in places that locals gather, including cultural activity centres and fine art shops.t
+
+Having the support of everyone involved, from teachers to principals to county governors, has been key to the programme's success. While CERLS supplies the computer equipment, software, training, and books, schools provide the Internet access, librarians, staff, space, and furniture. Local and provincial governments and ministries also help out by providing extra computers and equipment.
+
+To further encourage local commitment to libraries, the organisation has used some of its ATLA funds to sponsor competitions and increase participation among students, provide scholarships for technology educational programmes, and organise skills workshops for librarians, teachers, and users. CERLS has also increased their outreach programmes to farmers and educated more rural workers about higher-yield crops. Thanks to the expansion of their programme, there is stronger community support and more visibility of the organisation's work both locally and abroad.
+
+#### **Continuing to Support Innovation Around the World**
+
+ATLA recipients show the world how access to knowledge and information can help build better lives and stronger communities. They are also expanding the value of traditional libraries by connecting them to larger individual and community development goals. In the end, ATLA recipients are leading development that starts in libraries, but spreads to entire villages, towns, and cities.
+
+To enhance the impact of the award, the Global Libraries initiative plans this year to strengthen the network of former and current ATLA recipients, so they can more effectively share their knowledge and experience not only with one another, but with others who are developing new ways to improve the lives of people most in need. Through better collaboration, ATLA recipients and others can exchange ideas for delivering free information technology programmes and address challenges like providing Internet connections in remote areas, or sustaining the services over the long term.
+
+In choosing future ATLA recipients, the foundation will continue to seek applicants that serve people in high-poverty environments, and will honour those that employ truly extraordinary approaches to providing free access to computers and the Internet. Fortunately, each year the foundation has seen a marked increase in applicants. It seems there is a growing tide of creativity within the field. Indeed, it appears ATLA recipients will continue to bring their legacy and value to the world, combining social ingenuity with a desire to improve people's lives.
+
+
 
 
 
