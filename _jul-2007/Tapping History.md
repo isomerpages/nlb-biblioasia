@@ -11,6 +11,8 @@ description: I've been through Taban Valley at Bukit Timah Nature Reserve many
 ---
 #### I've been through Taban Valley at Bukit Timah Nature Reserve many times and never realised until recently how historically important these unprepossessing trees are. To the uninitiated, they look like skinny durian trees with their dark green leaves. A century and a half ago, the Taban Merah (Pafaquium gutta), better known to the world as Gutta Percha, was at the centre of an earth-shaking infocomm revolution as great as the introduction of the Internet.
 
+<img src="/images/Vol%203%20Issue%202/Tapping%20History/palaquium%20gutta%202.jpg" style="width:80%;">
+
 #### **Discovery**
 
 Gutta Percha was traditionally used in this region to fashion handles for tools. However, it was unknown to the West except for a single specimen called 'mazer wood' in the collection of naturalist John Tradescant (1608–1652). The Tradescant collection grew to become Oxford's present Ashmolean Museum.
@@ -22,6 +24,9 @@ At this time, Jose d'Almeida who ran a dispensary at Commercial Square (today's 
 It was left to a fellow resident of Singapore, Dr William Morrtgomerie, to successfully introduce Gutta Percha to the world.
 
 Dr William Montgomerie is generally credited to be the first person to notice Gutta Percha in 1822 during his first tour of duty in Singapore (1819 to 1826). However, it was only when he became Senior Surgeon to the Straits Settlement  (1829 to 1844) that he investigated the substance more closely. He sent a letter to the Bengal Medical Board in 1843, recommending that Gutta Percha be developed for use in medical instruments. This was followed by samples to the Society of Arts in 1845 for which the Society awarded him a gold medal (the Society of Arts became the Royal Society of Arts only in 1847 when it was given a Royal Charter). More importantly, the Society exhibited the samples, which sparked off much experimentation with the substance.
+
+<img src="/images/Vol%203%20Issue%202/Tapping%20History/dentistry.jpg" style="width:80%;">
+ <div style="background-color: white;">Gutta Percha used in dentistry as root fillers.</div>
 
 Among other things Gutta Percha was found to be good for making golf balls, adhesives, and as root canal fillings in dentistry. Even today, if you are unfortunate enough to need root canal treatment, the dentist will probably use Gutta Percha for your root canal filling. Gutta Percha is one of the best substances for ensuring that the cavity is completely filled without leaving any microscopic space where bacteria can resume its attack. The secret behind its varied uses is its changeability- in hot water (around 69 to 65°C, depending on the purity), it becomes plastic and moldable while at room temperature it is firm enough to be made into furniture. Of course you might want to avoid serving a hot meal on a Gutta Percha dining table! 
 
