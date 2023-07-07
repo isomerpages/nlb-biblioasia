@@ -7,7 +7,7 @@ description: Crash helmets might save lives but getting people to wear them was
 #### Crash helmets might save lives but getting people to wear them was an uphill task.
 By Sharad Pandian
 
-_Header Photo_
+![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/crash_helmet_header.jpg)
 <div style="background-color: white;">Participants taking part in the crash helmet campaign rally starting from Trade Union House. The rally aimed to create safety awareness among motorcyclists in Singapore, 1968. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 These days, everyone on a motorcycle or scooter wears a crash helmet so we don’t give it a second thought. It might come as a surprise then to learn that until about 50 years ago, wearing a helmet while riding in Singapore was completely voluntary. As one might guess, this also meant that the vast majority of people did not bother with wearing any protective headgear at all. It was only in 1971 that the government passed a law that made helmets mandatory. The run-up to this law saw fierce public debate over the need for such legislation. Opponents of the law marshalled a number of arguments for their cause, ranging from the inconvenience of carrying around a helmet to more abstract concerns about individual liberty. Even after the law’s passing, many did not easily yield to the new order. “I have been happy riding a scooter without a crash helmet for the past 11 years”, wrote a reader to the _Singapore Herald_ in January 1971. But now that the law mandating helmets “was forced on us,” he declared that he would rather get rid of his motorbike rather than wear a helmet.[^1]
@@ -22,7 +22,7 @@ In 1960, the Automobile Association of Singapore, the Singapore Motor Club, and 
 
 Some members of the public agreed. Writing to the _Straits Times_ in March 1962, a reader urged the government to force riders to wear helmets. The reader noted that as wages improved and hire purchase options became increasingly available, more and more motorcycles and scooters would end up on the roads, and more deaths and injuries would result if the riders did not have protective headgear.[^7]
 
-_Buying scooter and motorcycle popular_
+![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/ch_life_on_two_wheels.jpg)
 <div style="background-color: white;">Scooters, which were described as light, manoeuvrable, economical and fashionable, became popular with women in Malaya in the 1960s. <i>Source: Straits Times, 20 May 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
  
 Apart from the personal cost to individuals and families, the high number of traffic accidents in Singapore in the 1950s and 1960s exacted an economic cost on the young nation as productive workers died or became severely injured. According to a United Nations safety expert, road accidents alone cost Singapore $130.[^8] million in 1970.8 “\[T\]he loss or damage to a productive life is not a mere loss to the individual involved but a loss of a factor of production to the nation,” noted a reader of the _Eastern Sun_ in 1969.[^9]
