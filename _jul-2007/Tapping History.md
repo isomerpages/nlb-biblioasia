@@ -53,8 +53,7 @@ Unlike rubber, Taban tree sap does not flow freely through the length of the tru
  
 It was only in the early 20th century that a successful system of tapping the Taban was devised: diagonal cuts were made at regular intervals up the length of the trunk using a ladder. The sap would then seep out and coagulate along the length of the cuts. The tapper would then roll the coagulated sap up. Being re-exposed, the cuts would bleed afresh and the process would be repeated until the available sap was exhausted. Besides being labour intensive, the tree also had to be given time to recover from the massive injuries suffered. This recovery period was said to be at least two years.
 
-<img src="/images/Vol%203%20Issue%202/Tapping%20History/diagonal%20tap%20marks.jpg" style="width:50%;"><div style="background-color: white;">
-Diagonal tap marks on the trunk of a Palaquium gutta (Taban Merah) tree in Taban Valley, Bukit Timah Nature Reserve.</div>
+<img src="/images/Vol%203%20Issue%202/Tapping%20History/diagonal%20tap%20marks.jpg" style="width:50%;">Diagonal tap marks on the trunk of a Palaquium gutta (Taban Merah) tree in Taban Valley, Bukit Timah Nature Reserve.
 
 The tree was not common in the rainforest but grew in scattered clumps. The result of the huge demand for Gutta Percha was the quick demise of Taban in Singapore. Just two years after Montgomerie introduced Gutta Percha to Europe, all of Singapore's big Taban trees had been felled and Thomas Oxley (1847) estimated that the 412 tons of Gutta Percha exported to Europe between 1845 and 1846 had resulted in 69,000 Taban trees being cut down.
 
@@ -72,9 +71,7 @@ He met with success on both fronts: he became seen as an invaluable ally to Gove
 
 In 1847, Logan published the first issue of his journal: *The Journal of the Indian Archipelago and Eastern Asia*. To most people, it is known simply as 'Logan's Journal'. In it, Thomas Oxley, Montgomerie's successor as Senior Surgeon to the Straits Settlements, described Gutta Percha, the history of its discovery by Europeans, and the uses he had found for it.
 
-![](/images/Vol%203%20Issue%202/Tapping%20History/mounted%20set.jpg)
-
-<img src="/images/Vol%203%20Issue%202/Tapping%20History/mounted%20set.jpg" style="width:50%;">
+<img src="/images/Vol%203%20Issue%202/Tapping%20History/mounted%20set.jpg" style="width:80%;">
  <div style="background-color: white;">Mounted set of Palaquium gutta leaves in the Botanic Gardens Herbarium collection that was probably collected sometime in the 1890s.
 The original label says that it was collected from the 'Pasir Panjang Factory' - probably the factory owned by the Netherland Gutta Percha Company.	</div>
 
