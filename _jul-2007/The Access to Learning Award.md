@@ -75,10 +75,12 @@ Information technology is a powerful driver of economic and social progress. Unf
 
 To help narrow this divide, the foundation's Global Libraries initiative helps public libraries provide free access to computers, the Internet, and training in the communities they serve. As a programme partner, Microsoft donates software. Public libraries are ideal partners in this initiative because of their tradition as publicly-funded learning centres that are open to everyone. Libraries also have staff members who receive training to help others learn to use these tools, resulting in communities that benefit from all the opportunities greater access to the Internet provides. Global Libraries has already forged successful partnerships in Chile and Mexico where the impact has been demonstrated clearly and measurably within a few years of implementing a programme. New partnerships with Botswana, Latvia, and Lithuania were announced in November 2006.
 
-**For more information about the Access to Learning Award, please visit:** <a href="https://www.gatesfoundation.org/">https://www.gatesfoundation.org/</a><a> 
+**For more information about the Access to Learning Award, please visit:** <a href="https://www.gatesfoundation.org/">https://www.gatesfoundation.org/</a>
+
+<div>
+<center><b>Martha Choe</b><br>Director<br>Global Libraries Initiative<br>Bill &amp; Melinda Gates Foundation<center> </center></center></div>
 	
 	
 
 
 
-</a>
