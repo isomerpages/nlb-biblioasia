@@ -63,7 +63,34 @@ Oxley said that *Palaquium gutta* quite resembled the *Durio* (durian) genus. I 
 
 **I would like to thank Serena Lee of the Botanic Gardens Herbarium for allowing me acess to photograph Ridley's specimens and Eunice Low and Shawn Lum for reading my draft and suggesting improvements to the article**.
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Timothy%20Pwee.jpg">
+<center> <b>Timothy Pwee</b><br>Senior Reference Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
 
+
+#### **REFERENCES**
+
+Carl A. Trocki, [_Prince of Pirates: The Temenggongs and the Development of Johor and Singapore, 1784–1885_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082016) (Singapore: Singapore University Press, 1979). (Call no. RSING&nbsp; 959.5142 TRO)
+
+Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Oxford University Press, 1984). (Call no. RSING 959.57 BUC). This book can also be found in the Singapore Heritage Collection of NLB’s eCollection at [https://www.nlb.gov.sg/main/home](https://www.nlb.gov.sg/main/home)
+
+Encyclopaedia Britannica, “Gutta-percha”, accessed 26 April 2007, [https://www.britannica.com/technology/gutta-percha](https://www.britannica.com/technology/gutta-percha).
+
+F. E. Kohler, _Kohler’s Medizinal-Pflanzen in Naturgetreuen Abbildungen MIT Kurz Erlauterndem Texte: Atlas Zur Pharmacopoea Germanica_ (Gera-Untermhaus, Fr. Eugen Kohler, \[1883–1914\])
+
+“Gutta-percha” in [_Pamphlets: Malayan Series_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982306), British Empire Exhibition London 1924 (Singapore: Fraser &amp; Neave, 1923). (Call no. RRARE 959.5 BRI; microfilm N12450)
+
+I. H. Burkill, [_A Dictionary of the Economic Products of the Malay Peninsula_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4121248), vol. 2. (London: Published on behalf of the Governments of the Straits Settlements and Federated Malay states by the Crown Agents for the Colonies, 1935). (Call no. RCLOS 634.909595 BUR)
+
+“Opening of the Lines to Java, Penang and Madras,” _Singapore Daily Times_, 6 January 1871. (Microfilm NL1977)
+
+“Rediscovery of Gutta Percha Tree at Singapore (Dichopsis Gutta, Benth),” _Bulletin of Miscellaneous Information (Royal Botanic Gardens, Kew)_ 1891, no. 57 (1891): 230–1. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+T. Oxley, “Gutta Percha,” [_The Journal of the Indian Archipelago and Eastern Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604) 1 (1847): 22–29. (Call no. RRARE 950.05 JOU; microfilm NL1889)
+
+W. H. M. Read, [_Play and Politics, Recollections of Malaya By An Old Resident_](https://eresources.nlb.gov.sg/printheritage/detail/ec58bf74-ae9f-454a-9653-e7d0dc4a0d09.aspx) (London: Wells Gardner, Darton &amp; Co., 1901). (From BookSG; call no. RRARE 959.503 REA; microfilm NL14075)
 
 
 
