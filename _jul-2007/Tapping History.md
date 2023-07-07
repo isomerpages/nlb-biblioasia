@@ -37,6 +37,27 @@ In 1850, the first undersea cable was laid between England and France, and 1858 
 
 The telegraph story would not be complete without mentioning when Singapore became connected to the world. Singapore's first telegraphic cable connection was to Batavia but the first line broke after the first message. it was only on 31 December 1870 that the British Australian Telegraph Company finished laying a telegraph line from Madras to Singapore. A few days later, on 6 January 1871, an advertisement appeared in the newspapers announcing the opening of the telegraph lines between Singapore, Penang, Java and Madras. This allowed telegraph messages to be sent to Europe and even to the Americas! The cost was not cheap though: a twenty-word message to London cost 24 Straits dollars and to New York, the princely sum of 53.60 Straits dollars!
 
+#### **Commercial Harvesting**
+
+Unlike rubber, Taban tree sap does not flow freely through the length of the trunk. It also hardens quickly on exposure to air. This means that making cuts in the trunk only collects a limited amount of sap. The initial method of collection was therefore to cut down the tree and make cuts along the trunk in order to milk out as much sap as possible. Early attempts at tapping only resulted in poor harvests and a reportedly high rate of diseased trees. The only 19th century advance in harvesting techniques was the invention of a process to extract sap from the leaves in order to maximise the sap harvested from each tree harvested. A leaf collecting system with leaf processing factories was established in several locations in Malaysia and Indonesia. However, it was soon found that collectors would cut down the young saplings in order to collect the leaves and leaf harvesting was discontinued.
+ 
+It was only in the early 20th century that a successful system of tapping the Taban was devised: diagonal cuts were made at regular intervals up the length of the trunk using a ladder. The sap would then seep out and coagulate along the length of the cuts. The tapper would then roll the coagulated sap up. Being re-exposed, the cuts would bleed afresh and the process would be repeated until the available sap was exhausted. Besides being labour intensive, the tree also had to be given time to recover from the massive injuries suffered. This recovery period was said to be at least two years.
+
+The tree was not common in the rainforest but grew in scattered clumps. The result of the huge demand for Gutta Percha was the quick demise of Taban in Singapore. Just two years after Montgomerie introduced Gutta Percha to Europe, all of Singapore's big Taban trees had been felled and Thomas Oxley (1847) estimated that the 412 tons of Gutta Percha exported to Europe between 1845 and 1846 had resulted in 69,000 Taban trees being cut down.
+
+There is even a short article on "Rediscovery of the Gutta Percha Tree at Singapore" published in the *Kew Gardens' Bulletin of Miscellaneous Information* (1891). Because Taban Merah grows quickly when there is plenty of light, it is a suitable plantation crop. The only difficulty is that the young plants initially need to be shaded - only more mature plants benefit from direct sunlight. The Dutch were quick to export saplings from Singapore for starting plantations in Java and by the turn of the century had sizable plantations there.
+
+#### **Personalities**
+
+In Singapore, the first person to plant Taban Merah was Thomas Oxley at his home on Oxley Rise. Then in the 1880s, specimens were planted at the Botanic Gardens and subsequently at Bukit Timah.
+
+Another person intimately involved with Gutta Percha was Temenggong Ibrahim. He had inherited the title of Temenggong but not any source of income: the British East India Company and the Dutch government had usurped taxation of trade in the region. Local rulers trying to levy charges on passing ships quickly found themselves being hunted down as pirates. In addition, the Temenggong had to assist Orang Laut coming in from the Riaus to seek his protection: British anti-piracy patrols there were attacking all perahus (Malay boats0. THe Temenggong moved to get involved in British anti-piracy efforts and also started opening Johor to agriculture.
+
+He met with success on both fronts: he became seen as an invaluable ally to Governor Bonham's anti-piracy campaign, leased out Johor land to Chinese pepper and gambier farmers, and became a major Gutta Percha exporter. William Read's 1901 book Play and Politics, records that a local merchant informed the Temenggong of Gutta Percha's potential. Perhaps this local merchant was Ker, a neighbour of his. Indeed, Ker, Rawson & Company sent the Termenggong's first shipment of Gutta Percha to Europe. The Temenggong quickly dedared a monopoly on Gutta Percha collection in Johor and set about organising a collection system in Johor, employing labourers to harvest the trees. By reinventing himself as a major agricultural player, the Temenggong quickly prospered in both wealth and status.
+
+
+
+
 
 
 
