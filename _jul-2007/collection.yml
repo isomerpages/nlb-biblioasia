@@ -2,6 +2,7 @@ collections:
   jul-2007:
     output: true
     order:
+      - The Access to Learning Award.md
       - Tapping History.md
       - Harun Aminurrishad.md
       - Director's Column.md
