@@ -19,6 +19,15 @@ sections:
       title: BiblioAsia+
       subtitle: A New Podcast on Singapore History
   - infopic:
+      title: "Going Against the  Grain: The “Eat More Wheat” Campaign"
+      subtitle: Food
+      description: The call for Singaporeans to switch from eating rice to eating
+        wheat in 1967 did not take root despite best efforts by the government.
+      button: WHEAT IS NEAT
+      url: /vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/
+      image: /images/Vol 19 Issue 3/Wheat/19980005442 - img0104v2.jpg
+      alt: Image alt text
+  - infopic:
       title: A Grand Piano's Chequered History
       subtitle: Arts
       description: A grand piano that was to be the pride of Singapore failed to
@@ -598,13 +607,4 @@ sections:
       url: /videos/from-book-to-cook
       image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
       alt: Singapore’s old recipes
-  - infopic:
-      title: " Going Against the  Grain: The “Eat More Wheat” Campaign"
-      subtitle: Food
-      description: The call for Singaporeans to switch from eating rice to eating
-        wheat in 1967 did not take root despite best efforts by the government.
-      button: WHEAT IS NEAT
-      url: /vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/
-      image: /images/Vol 19 Issue 3/Wheat/19980005442 - img0104v2.jpg
-      alt: Image alt text
 ---
