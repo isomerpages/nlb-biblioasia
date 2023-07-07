@@ -109,7 +109,7 @@ If you look up the Road Traffic Act today, you will encounter long blocks of leg
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/asrina_tanuri.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/sharad_pandian.png">
 	<b>Sharad Pandian</b> graduated from Nanyang Technological University with a degree in physics, and then pursued a Master of Philosophy in history and philosophy of science at the University of Cambridge as a Gates-Cambridge Scholar. Sharad is interested in the history of science and standardisation in Asia. He is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022–23).</div>
 
 #### **Notes**
