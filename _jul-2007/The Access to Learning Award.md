@@ -77,10 +77,31 @@ To help narrow this divide, the foundation's Global Libraries initiative helps p
 
 **For more information about the Access to Learning Award, please visit:** <a href="https://www.gatesfoundation.org/">https://www.gatesfoundation.org/</a>
 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>TO APPLY FOR THE ACCESS TO LEARNING AWARD</b><br><br> 
+Any public library or similar organisation outside the United States may apply for the Access to Learning Award if they allow all members of the public, from children to senior citizens, to use computers, the Internet, and their facilities free of charge. The foundation particularly encourages institutions in developing countries or those working with disadvantaged communities to apply, as preference is given to organisations that reach out to socially excluded groups, such as poor or disabled patrons, or those from minority communities.
+	
+The award is a one-time recognition or prize for organisations that have created programmes that are currently committed to providing free access to computers and the Internet. An international advisory committee made up of librarians, information technology experts, and foundation staff evaluates applications based on candidates' innovative efforts to make computers and Internet access free to the public, train the public in using technology and accessing information, educate staff on technology use, and reach out to underserved communities. The committee selects a list of final candidates for consideration by the Gates Foundation and, following an independent financial and organisational review of the finalists, the foundation selects the final award recipient.
+</div>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>ACCESS TO LEARNING AWARD RECIPIENTS</b><br><br>
+<b>2006:</b> Rural Education and Development (READ) Nepal<br>
+<a href="https://www.readglobal.org/read-offices/read-nepal/">https://www.readglobal.org/read-offices/read-nepal/</a>.
+
+<b>2005</b>: Bangladesh's Shidhulai Swanirvar Sangstha<br> <a href="https://www.shidhulai.org/">https://www.shidhulai.org/</a>.
+
+<b>2004:</b> Denmark's Aarhus Public Libraries<br><a href="http://www.aakb.dk/">http://www.aakb.dk/</a>.
+
+<b>2004:</b> China Evergreen Rural Library Service Centre<br><a href="http://www.evergreeneducation.org/">http://www.evergreeneducation.org/</a>.
+
+<b>2003:</b> Smart Cape Access Project<br>
+<a href="https://we-gov.org/catalog/?ckattempt=1&amp;mod=document&amp;uid=735">https://we-gov.org/catalog/?ckattempt=1&amp;mod=document&amp;uid=735/</a>.
+
+<b>2002:</b> BibloRed<br><a href="https://www.biblored.gov.co/">https://www.biblored.gov.co/</a>.
+
+<b>2001:</b> Proyecto Bibliotecas Guatemala (Probigua)<br> <a href="https://www.idealist.org/es/ong/334f322cd63a4b3f8717adfba0c9adb7-proyecto-bibliotecas-guatemala-probigua-la-antigua/">       https://www.idealist.org/es/ong/334f322cd63a4b3f8717adfba0c9adb7-proyecto-bibliotecas-guatemala-probigua-la-antigua/</a>.
+
+<b>2001:</b> Biblioteca del Congreso, Argentina<br> <a href="https://www.bcn.gob.ar/">https://www.bcn.gob.ar/</a>.
+</div>
+
+
 <div>
 <center><b>Martha Choe</b><br>Director<br>Global Libraries Initiative<br>Bill &amp; Melinda Gates Foundation<center> </center></center></div>
-	
-	
-
-
-
