@@ -40,7 +40,7 @@ The message to the public – targeted mainly at housewives as most people ate a
 
 Among the biggest events were two nationwide wheat cooking competitions organised by Radio and Television Singapura, which attracted more than 2,000 participants. The competitions encouraged contestants to submit quick and economical recipes (with ingredients costing no more than $3 for the first competition and $2 for the second) using wheat flour as the main ingredient for breakfast, lunch and dinner. The recipes could be for Chinese, Malay, Indian or Western cuisine.[^12]
 
-![](/images/Vol%2019%20Issue%203/Wheat/image6b.png)
+![](/images/Vol%2019%20Issue%203/Wheat/19980005442%20-%20img0104v2.jpg)
 <div style="background-color: white;">A contestant preparing the ingredients to cook at the finals of the nationwide cooking competition held at the Singapore Conference Hall, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 For the finals of the first competition held at the Singapore Conference Hall on 17 October 1967, 10 contestants were chosen from each category and made to cook their dishes for the judges who would then determine the winners. The first prize winners were domestic science teacher Mrs Theresa Teow for Malayan savoury pancakes (Malay), Mr G.P. Ponnusamy, a cook, for wheat *uppumaa* (Indian), Mrs Rita Fernando, also a domestic science teacher, for stuffed fried dough balls (Chinese) and housewife Mrs Clara Anciano for basic hot cake (Western).[^13]
