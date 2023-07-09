@@ -84,21 +84,14 @@ The award is a one-time recognition or prize for organisations that have created
 </div>
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>ACCESS TO LEARNING AWARD RECIPIENTS</b><br><br>
 <b>2006:</b> Rural Education and Development (READ) Nepal<br>
-<a href="https://www.readglobal.org/read-offices/read-nepal/">https://www.readglobal.org/read-offices/read-nepal/</a>.
-
-<b>2005</b>: Bangladesh's Shidhulai Swanirvar Sangstha<br> <a href="https://www.shidhulai.org/">https://www.shidhulai.org/</a>.
-
-<b>2004:</b> Denmark's Aarhus Public Libraries<br><a href="http://www.aakb.dk/">http://www.aakb.dk/</a>.
-
-<b>2004:</b> China Evergreen Rural Library Service Centre<br><a href="http://www.evergreeneducation.org/">http://www.evergreeneducation.org/</a>.
-
+<a href="https://www.readglobal.org/read-offices/read-nepal/">https://www.readglobal.org/read-offices/read-nepal/</a>.<br><br>
+<b>2005</b>: Bangladesh's Shidhulai Swanirvar Sangstha<br> <a href="https://www.shidhulai.org/">https://www.shidhulai.org/</a>.<br><br>
+<b>2004:</b> Denmark's Aarhus Public Libraries<br><a href="http://www.aakb.dk/">http://www.aakb.dk/</a>.<br><br>
+<b>2004:</b> China Evergreen Rural Library Service Centre<br><a href="http://www.evergreeneducation.org/">http://www.evergreeneducation.org/</a>.<br><br>
 <b>2003:</b> Smart Cape Access Project<br>
-<a href="https://we-gov.org/catalog/?ckattempt=1&amp;mod=document&amp;uid=735">https://we-gov.org/catalog/?ckattempt=1&amp;mod=document&amp;uid=735/</a>.
-
-<b>2002:</b> BibloRed<br><a href="https://www.biblored.gov.co/">https://www.biblored.gov.co/</a>.
-
-<b>2001:</b> Proyecto Bibliotecas Guatemala (Probigua)<br> <a href="https://www.idealist.org/es/ong/334f322cd63a4b3f8717adfba0c9adb7-proyecto-bibliotecas-guatemala-probigua-la-antigua/">       https://www.idealist.org/es/ong/334f322cd63a4b3f8717adfba0c9adb7-proyecto-bibliotecas-guatemala-probigua-la-antigua/</a>.
-
+<a href="https://we-gov.org/catalog/?ckattempt=1&amp;mod=document&amp;uid=735">https://we-gov.org/catalog/?ckattempt=1&amp;mod=document&amp;uid=735/</a>.<br><br>
+<b>2002:</b> BibloRed<br><a href="https://www.biblored.gov.co/">https://www.biblored.gov.co/</a>.<br><br>
+<b>2001:</b> Proyecto Bibliotecas Guatemala (Probigua)<br> <a href="https://www.idealist.org/es/ong/334f322cd63a4b3f8717adfba0c9adb7-proyecto-bibliotecas-guatemala-probigua-la-antigua/">       https://www.idealist.org/es/ong/334f322cd63a4b3f8717adfba0c9adb7-proyecto-bibliotecas-guatemala-probigua-la-antigua/</a>.<br><br>
 <b>2001:</b> Biblioteca del Congreso, Argentina<br> <a href="https://www.bcn.gob.ar/">https://www.bcn.gob.ar/</a>.
 </div>
 
