@@ -39,7 +39,7 @@ By 1957, the SFPA struggled to cope with demand for its clinical services and ap
 The paper announced the launch of the first five-year family planning programme with the slogan, “Family Planning for All”. It also revealed the twin objectives of improving the health and welfare of mother and child, and accelerating fertility decline to benefit the socioeconomic development of Singapore.[^9]
 
 In 1968, Prime Minister Lee Kuan Yew connected the issues of family planning, the growing population problem and the overall development for newly independent Singapore:[^10] 
-&gt; If we are to raise our standard of living, get away from poverty, filth and squalor, we must not only use modern science and technology to build the things we want. But also to prevent us from dragging ourselves to the ground by having too many in the family to care for.
+"If we are to raise our standard of living, get away from poverty, filth and squalor, we must not only use modern science and technology to build the things we want. But also to prevent us from dragging ourselves to the ground by having too many in the family to care for."
 
 In January 1966, the Singapore Family Planning and Population Board (SFPPB) was established to carry out all family planning and population matters in Singapore. It took over the family planning clinics managed by the SFPA, the majority of which were located within Maternal and Child Health (MCH) centres, and launched the National Family Planning and Population Programme that aimed to make family planning advice, supplies, and clinical services known and accessible to all.[^11]
 
