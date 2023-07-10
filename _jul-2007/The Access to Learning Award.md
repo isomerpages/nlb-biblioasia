@@ -17,6 +17,9 @@ ATLA recipients are models of how organisations and governments can work togethe
 
 Rural Education and Development (READ) Nepal, a non-profit organisation based in Kathmandu, received the Access to Learning Award in 2006 for its innovative work in building self-sustaining libraries to increase local community development.
 
+<img src="/images/Vol%203%20Issue%202/LearningAward/nepali%20women.jpg" style="width:80%;">
+ <div style="background-color: white;">Nepali women gather for a discussion at a community library.<i> Courtesy of the Bill &amp; Melinda Gates Foundation.</i></div>
+
 In Nepal, among the poorest and least developed countries in the world, nine out of 10 people live in rural areas, and one person in three live in extreme poverty. Just half of adult Nepalis can read or write. To address the country's educational, economic and social inequities, READ works with local communities to create rural libraries throughout the country that serve as centres for information and learning. Since 1991, READ has established 39 self-supporting community libraries throughout Nepal - touching the lives of half a million people.
 
 The organisation provides seed funding to design, build, furnish, and stock libraries, train librarians, and launch an income-generating enterprise in each community to help pay for the library over the long-term. To guarantee strong local commitment the community must contribute land and cover 20 percent of the library's start-up-costs. In one village, a man donated his former home. In another, an illiterate woman gave land so her grandchildren could learn to read. Some villagers participate by selling a handful of rice, which is often the most they can afford.
