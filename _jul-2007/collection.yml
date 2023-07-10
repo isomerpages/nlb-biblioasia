@@ -2,6 +2,8 @@ collections:
   jul-2007:
     output: true
     order:
+      - "Creating the Right Environment: Poster Collection at the Lee Kong Chian
+        Reference Library.md"
       - Director's Column.md
       - Harun Aminurrishad.md
       - Tapping History.md
