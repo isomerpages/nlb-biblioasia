@@ -7,8 +7,6 @@ description: There's more to firewalking than the public display of religious
   Temple.
 third_nav_title: Episode 7
 ---
-### Coming on 11 July
-
 There's more to firewalking than the public display of religious devotion. Independent curator Nalina Gopal tells us the stories behind the three-month rituals that precede the firewalking at Singapore's Sri Mariamman Temple.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UxxgjVs0_BE" height="315" width="560"></iframe>

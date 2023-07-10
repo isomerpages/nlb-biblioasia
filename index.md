@@ -9,15 +9,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /podcast/about
-      button: Listen now
+      url: /vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/
+      button: Public Bathhouses of the 1880s
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Podcast/ba herov7.jpg
-      title: BiblioAsia+
-      subtitle: A New Podcast on Singapore History
+      background: /images/Vol 19 Issue 1/Public Bathhouses/hero_img_public_bathhouse.jpg
+      title: Order and Cleanliness
+      subtitle: Singapore’s Public Bathhouses of the 1880s
   - infopic:
       title: "Going Against the  Grain: The “Eat More Wheat” Campaign"
       subtitle: Food
