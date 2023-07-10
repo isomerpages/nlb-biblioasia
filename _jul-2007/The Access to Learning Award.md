@@ -51,6 +51,9 @@ Using their ATLA funds, Shidhulai Swanirvar Sangstha recently helped introduce b
 
 ATLA is helping to highlight innovation and success, and also points to the ongoing challenges libraries and similar organisations still face in providing free access to computers and the Internet. Securing affordable and sufficient bandwidth is an enormous challenge for which no simple solutions exist. Improving staff training on advancing technologies and supporting a greater number of people using a library or organisation's services are both significant hurdles especially when they struggle to secure and keep funding to operate such pioneering operations.
 
+<img src="/images/Vol%203%20Issue%202/LearningAward/three%20young%20boys.jpg" style="width:50%;">
+ <div style="background-color: white;">Three young boys work on a library computer together provided by Proyecto Bibliotecas Guatemala.<i> Courtesy of the Bill &amp; Melinda Gates Foundation.</i></div>
+
 Promoting the groundbreaking work of libraries to provide computers and the Internet is an important step in building greater access to these tools throughout the world. Ensuring that ATLA recipients and other similar organisations can sustain their work is a critical part of opening the information age to developing countries. Strong, visionary leadership at the local project level is vitally important to building and maintaining healthy technology programmes. As well, creative partnerships between private sector funders and experts, and local governments can provide effective support for information technology initiatives in the developing world. Ultimately, the success of free public technology programmes requires the long-term commitment of governments, businesses, community groups, and libraries around the globe - a goal, which is paramount to the efforts of the Gates Foundation's Global Libraries initiative.
 
 #### **Bringing Information Resources to Rural China**
@@ -58,6 +61,9 @@ Promoting the groundbreaking work of libraries to provide computers and the Inte
 The China Evergreen Rural Library Service Centre (CERLS), a 2004 ATLA recipient, is showing how local government collaboration can help ensure sustainability and strengthen free technology programmes.
 
 Two-thirds of China's 1.3 billion people live in rural areas with extremely limited access to information technology. These resources are even scarcer in western China, an area characterised by poverty and illiteracy that has not yet benefited from the growth and prosperity of the coastal region.
+
+<img src="/images/Vol%203%20Issue%202/LearningAward/community%20members.jpg" style="width:80%;">
+ <div style="background-color: white;">Community members gather around a computer at a China Evergreen Rural Library Service Centre. <i>Courtesy of the Bill &amp; Melinda Gates Foundation.</i></div>
 
 To help address this need, the China Evergreen Rural Library Service Centre forms partnerships with school libraries to develop and computerise library collections, create computer labs for the entire community, and offer training workshops to students, teachers, librarians, and the public. Since its founding in 2001, CERLS has added 10 public school libraries to its network, serving a community of more than 1 million people.
 
