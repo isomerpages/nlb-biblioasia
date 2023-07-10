@@ -41,6 +41,8 @@ In promoting any campaign, logos, slogans and mascots are important visual symbo
 
 Speak Mandarin Campaign articulated Singapore's language policy in the 1980s. Launched in 1979, the Speak Mandarin Campaign was established to promote Mandarin as the lingua franca amongst Singaporean Chinese. It aimed firstly to improve communication and social cohesion among the various dialect groups, and secondly to create a Mandarin-speaking environment to support the country's bilingual education policy. Hence, early publicity blitzes emphasised the use of Mandarin over dialect. This policy is illustrated in posters like *More Mandarin. Less Dialect Make it a Way of Life, Start with Mandarin Not Dialect and Speak More Mandarin and Less Dialects*. The economic reasons for using Mandarin only grew in significance during the mid-1980s with the rise of China as an economic powerhouse. In 1991, the campaign entered a new phase when it began promoting Mandarin to the English-educated Singaporean Chinese. Research showed that Mandarin was fast losing ground amongst the English-educated Chinese. To counter this trend, Mandarin was marketed as a "cool" or hip language to the English-educated. Far from being an unfashionable or "cheena" language, Mandarin opens the door for the Singaporean Chinese to understand his culture and heritage, and equips him to do business with China. This approach is exemplified in posters like *Cool Conversation; Mandarin: Use It or Lose It, Nothing helps You Understand Chinese Culture the Way Mandarin Does, Speak Mandarin: It Helps; Mandarin for Chinese Singaporeans, More than a Language; Mandarin Helps Chinese Singaporeans in All Facets of Life; Family, Business and Social*.
 
+#### **Other Types of Posters**
+
 
 
 
