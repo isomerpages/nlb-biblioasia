@@ -242,4 +242,3 @@ Thank you, Jimmy, for allowing me the opportunity to talk about a festival that 
 
 Jimmy<br>  
 Well, to learn more about the rituals behind Theemithi, please check out [Nalina's article](/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/) on the BiblioAsia website at BiblioAsia.nlb.gov.sg. If you've enjoyed this episode, [subscribe to the podcast](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) and [BiblioAsia newsletter](https://form.gov.sg/#!/616799db4d9b61001398f79b). Thank you for joining me on BiblioAsia+.
-
