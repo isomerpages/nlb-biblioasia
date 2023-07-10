@@ -57,7 +57,12 @@ The Library attaches importance to the careful handling and proper maintenance o
 
 #### **Other Sources of Posters**
 
-In 1999, the National Library Board and then Ministry of Information and the Arts jointly produced a CD-ROM titled MITA Campaigns: 1979–1999. This CD-ROM, which is available in the Library's collection, features documents, songs, video clips and poster images from the Speak Mandarin, Courtesy and Nation-Building campaigns Besides the National Library Board, sources of posters may also be found in other government departments. The National Archives of Singapore (<a href="https://www.nas.gov.sg/archivesonline/">https://www.nas.gov.sg/archivesonline/</a>) allows users to view and order prints from its web catalogue. Agencies like the Health Promotion Board, National Environment Agency and the National Council Against Drug Abuse avail soft copies of their posters for download from their websites. 
+In 1999, the National Library Board and then Ministry of Information and the Arts jointly produced a CD-ROM titled MITA Campaigns: 1979–1999. This CD-ROM, which is available in the Library's collection, features documents, songs, video clips and poster images from the Speak Mandarin, Courtesy and Nation-Building campaigns Besides the National Library Board, sources of posters may also be found in other government departments. The National Archives of Singapore (<a href="https://www.nas.gov.sg/archivesonline/">https://www.nas.gov.sg/archivesonline/</a>) allows users to view and order prints from its web catalogue. Agencies like the Health Promotion Board, National Environment Agency and the National Council Against Drug Abuse avail soft copies of their posters for download from their websites.
+
+#### **How You Can Contribute**
+
+The poster collection at the Lee Kong Chian Reference Library is built largely through the act of legal deposit, gifts and donations. Though the collection currently stands at a modest 4,000 item, we continually seek to acquire and preserve historical and cultural documents of value to future generations of Singaporeans. As such, we welcome donations and gifts of Singapore posters of all kinds. These include campaign posters, event posters, movie posters, concert posters, play posters, dance posters, political posters and others. If you or your organisation would like to deposit your posters with us, please contact Ms Nazeerah Gopaul, Senior Librarian, Professional Services at nazeerah@nlb.gov.sg. For enquiries on our poster collection or other topics, you may contact our reference librarians at <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a>.
+
 
 
 
