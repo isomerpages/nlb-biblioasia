@@ -47,8 +47,17 @@ Besides the well-known campaign posters described above, the Library also carrie
 
 The cultural and performing arts posters in the Library's collection also shed interesting light on the literary and artistic life of Singapore. Quite a number of these posters pertain to reading and literacy. The oldest, dating back to 1969, features the first "Festival of Books" organised by the National Book Development Council. Other literacy posters relate to the National Reading Month, book launches and library promotions and programmes. The collection also contains a selection of posters by local theatre groups like TheatreWorks, The Necessary Stage, and the Third Stage, a nom defunct theatre group charged with Marxist conspiracy in 1987. The posters advertised plays like Robert Yeo's *The Eye of History and Hanish Sharma's Off Centre*. Closely related to the theatre posters are posters on playwriting and short-story writing competitions. The collection includes a poster on the first National Short Story Competition organised by the Ministry of Culture in 1982. Also documented through posters are the various festivals held in Singapore such as art festivals, film festivals, food festivals, and cultural festivals like the annual Chingay Parade and the River Hongbao event. Posters were also used to publicise commemorative events like the launch of new stamps, currency notes or the opening of MRT stations. Aside from campaign and event posters, the Library also carries a very small selection of election posters by the People's Action Party, United People's Front, and the Pertubohan Kebangsaan Melayu Singapura (Singapore Malay National Organisation). Together, these printed heritage enhance our appreciation of Singapore's social, cultural and pictorial history.
 
+#### **Accessing the Collection**
 
+The poster collection is a closed access collection and is available for consultation upon request at the Information Counter located at Level 11. Library patrons may search the poster collection through the Library's online catalogue at <a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a> using keywords such as title, author or subject.
 
+#### **Care of Collection**
+
+The Library attaches importance to the careful handling and proper maintenance of our poster collection. Besides managing access to the collection through the application process, each poster is digitised and then sealed in mylar to minimise damage from handling.
+
+#### **Other Sources of Posters**
+
+In 1999, the National Library Board and then Ministry of Information and the Arts jointly produced a CD-ROM titled MITA Campaigns: 1979–1999. This CD-ROM, which is available in the Library's collection, features documents, songs, video clips and poster images from the Speak Mandarin, Courtesy and Nation-Building campaigns Besides the National Library Board, sources of posters may also be found in other government departments. The National Archives of Singapore (<a href="https://www.nas.gov.sg/archivesonline/">https://www.nas.gov.sg/archivesonline/</a>) allows users to view and order prints from its web catalogue. Agencies like the Health Promotion Board, National Environment Agency and the National Council Against Drug Abuse avail soft copies of their posters for download from their websites. 
 
 
 
