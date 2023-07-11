@@ -607,4 +607,13 @@ sections:
       url: /videos/from-book-to-cook
       image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
       alt: Singapore’s old recipes
+  - infopic:
+      title: Beyond Firewalking
+      subtitle: Podcast
+      description: "There’s more to firewalking than the public display of religious
+        devotion. "
+      button: Stories behind the rituals.
+      url: "/podcast/firewalking/ "
+      image: /images/Podcast/ba ep7 nalina.jpg
+      alt: Image alt text
 ---
