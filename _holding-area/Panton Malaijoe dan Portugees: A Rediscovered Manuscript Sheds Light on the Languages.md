@@ -270,8 +270,7 @@ The research leading up to the publication of *Livro de Pantuns* was an initial 
 
 [^2]: For a fuller account of the manuscript’s history and characteristics, see Ivo Castro and Hugo C. Cardoso, “O Manuscrito de Lisboa,” in [_Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462), ed. Ivo Castro et al. (Lisbon: Imprensa Nacional, 2022), 95–114.
 
-[^3]: Hugo Schuchardt’s epistolar corpus is preserved at the University of Graz, and has been studied and digitised as part of a project led by Prof Bernhard Hurch. See “Hugo Schuchardt Archiv,” last accessed  
-2 June 2023, https://gams.uni-graz.at/context:hsa.
+[^3]: Hugo Schuchardt’s epistolar corpus is preserved at the University of Graz, and has been studied and digitised as part of a project led by Prof Bernhard Hurch. See “Hugo Schuchardt Archiv,” last accessed 2 June 2023, https://gams.uni-graz.at/context:hsa.
 
 [^4]: Hugo Schuchardt, “Kreolische Studien IX. Über das Malaioportugiesische von Batavia und Tugu,” _Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien, Philosophisch-historische Classe_ 122 (1890): 17.
 
