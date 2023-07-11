@@ -10,13 +10,21 @@ description: A 1607 map by Theodore de Bry shows a close-up view of Singapore
 
 Singapore was founded in 1819 by Sir Stamford Raffles. Was the name 'Singapore' in existence prior to 1819? Many ancient maps revealed that Singapore did exist as far back as the 16th century. It was then mentioned directly or indirectly in several non-English European ancient maps under different variations of the name, such as:<br><br>
 
-a) ***Cinca pula*** in Giacomo Gastaldi's map "*India Tercera Nova Tabula*" on Southeast Asia of 1548, which shows ***C Cinca Pula*** (Cape of Singapore);<br>
-b) ***Cim capula*** in G. B. Ramusio's map "*Terza Ostro Tavola*" on Southeast Asia of 1563, which indicates the location of ***C. de cim capula***; <br>
-c) ***Cincapura***, in Gerard Mercator's world map of 1569, and in Abraham Ortelius's map of Southeast Asia "*Indiae orientalis insularumque adiacientium typus*" of 1570;<br>
-d) ***Sincapura***, in Jan Huygen van Linschoten's 1595 map of Southeast Asia, China and Japan, "*Exacta et accurata delineatio cum orarum maritinarum*..", and in E.G. de Eredia's map, "*Discripsao chorogrpaphica dos estreitos de Sincapura e Sabbam Ano, 1604*";<br>
-e) ***Sincapour*** in S.R. Bellin's map, "*Carte reduite des Detroits de Malaca, Sincapour, et du Gouveneeur Dresse au Depost des Cartes et Plans de la Marine*" of 1755.  
+a) ***Cinca pula*** in Giacomo Gastaldi's map "*India Tercera Nova Tabula*" on Southeast Asia of 1548, which shows ***C Cinca Pula*** (Cape of Singapore);<br><br>
+b) ***Cim capula*** in G. B. Ramusio's map "*Terza Ostro Tavola*" on Southeast Asia of 1563, which indicates the location of ***C. de cim capula***; <br><br>
+c) ***Cincapura***, in Gerard Mercator's world map of 1569, and in Abraham Ortelius's map of Southeast Asia "*Indiae orientalis insularumque adiacientium typus*" of 1570;<br><br>
+d) ***Sincapura***, in Jan Huygen van Linschoten's 1595 map of Southeast Asia, China and Japan, "*Exacta et accurata delineatio cum orarum maritinarum*..", and in E.G. de Eredia's map, "*Discripsao chorogrpaphica dos estreitos de Sincapura e Sabbam Ano, 1604*";<br><br>
+e) ***Sincapour*** in S.R. Bellin's map, "*Carte reduite des Detroits de Malaca, Sincapour, et du Gouveneeur Dresse au Depost des Cartes et Plans de la Marine*" of 1755.
 
+The Portuguese, the Dutch and the Spaniards were the early explorers, colonisers and traders in Southeast Asia. They were also the early mapmakers of Southeast Asian maps from the West. As these maps were of small scale, Singapore was often marked as a dot at the southern tip of the Malay Peninsula.
 
+The early maps not only showed the geographical positions of the various countries, islands and oceans, but they also depicted the fauna and flora, mythical sea monsters, buildings, ships, sea-routes, events and battles fought in these places. However, not all places engraved on the ancient maps were accurately represented.
+
+Early larger scale maps of Singapore depicting it beyond a mere dot are extremely rare. The National Library recently acquired an early 17th century map of Theodore de Bry, published in 1607, which shows a close-up view of Singapore and its surrounding region. The map has no title. except for a long description in old German inserted into a large rectangular text box "*Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar*...". (*Chart of a skirmish between the Dutch and the Portuguese in the Balusabar River*).
+
+Possibly only E.G. de Eredia's maps and charts of Singapore and its surrounding region. such as the map "*Discripsao chorogrpaphica dos estreitos de Sincapura e Sabbam Ano. 1604*" (*Chorographic description of the Straits of Sincapura and Sabbam, 1604 A.D*) can equal the de Bry's 1607 map in terms of date of engraving/publishing and in map scale on Singapore.
+
+The 1607 map of de Bry is a double-page chart, measuring 324 x 255mm in size, uncoloured, block-printed on watermarked paper (paper size: 392 x 300rnm). It shows the southern coast of 'Sinca Pora (i.e. Singapore), "Straet van Sinca Pore (Straits of Singapore) and Valsch Sinca Pore (False Straits of Singapore). Other places shown in the map are Pedro Blanca (Pedra Branca), Carimon (Pulau Karimun), Bintam (Pulau Bintang), Oudt lor (Old Johore of Johore Lama), Rio Batasubar (Kota Tinggi River, i.e. Johore River), etc.
 
 
 
