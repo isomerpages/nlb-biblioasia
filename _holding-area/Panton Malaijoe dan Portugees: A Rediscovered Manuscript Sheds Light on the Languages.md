@@ -291,7 +291,7 @@ O Arqueólogo Português_ series V, 6/7 (2016–2017): 315–17, https://www.mus
 
 [^11]: Transcription and proposed translation reproduced from Castro et al., [_Livro de Pantuns_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462), 248–49.&nbsp;
 
-[^12]: Transcription and proposed translation reproduced from Castro et al., _Livro de Pantuns_, 310–11.
+[^12]: Transcription and proposed translation reproduced from Castro et al., [_Livro de Pantuns_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462), 310–11.
 
 [^13]: In his chapter in _Livro de Pantuns_ (p. 139), Gijs Koster identifies similarities between this text and _Syair Sinyor Kosta_, a poem that circulated widely in the Malay World in the early 19th century, four versions of which have been collated and studied. See A. Teeuw, R. Dumas, Muhammad Haji Salleh, R. Tol and M.J. van Yperen, eds., _A Merry Senhor in the Malay world: Four Texts of the Syair Sinyor Kosta_ (Leiden: KITLV Press, 2004). (From National Library, Singapore, call no. RSEA 899.281009 MER). As Koster notes, the manuscript’s version may actually be a much earlier attestation of this poem.
 
