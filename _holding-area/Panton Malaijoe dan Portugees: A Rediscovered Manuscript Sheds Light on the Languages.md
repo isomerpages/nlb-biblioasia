@@ -263,7 +263,7 @@ The research leading up to the publication of *Livro de Pantuns* was an initial 
 
 #### **Notes**
 
-[^1]: The data conveyed in this text is based on collaborative research conducted by Ivo Castro, Hugo Cardoso, Alan Baxter, Alexander Adelaar and Gijs Koster leading up to the publication of an edition and study of the manuscript. See Ivo Castro, Hugo C. Cardoso, Alan Baxter, Alexander Adelaar and Gijs Koster, eds., [*Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa* | *Book of Pantuns: An Asian Manuscript of the National Museum of Archeology, Lisbon*](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462) (Lisbon: Imprensa Nacional, 2022). (From National Library, Singapore, call no. RSEA 899.281 CAS)
+[^1]: The data conveyed in this text is based on collaborative research conducted by Ivo Castro, Hugo Cardoso, Alan Baxter, Alexander Adelaar and Gijs Koster leading up to the publication of an edition and study of the manuscript. See Ivo Castro, Hugo C. Cardoso, Alan Baxter, Alexander Adelaar and Gijs Koster, eds., [*Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa* | *Book of Pantuns: An Asian Manuscript of the National Museum of Archeology, Lisbon*](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462) (Lisbon: Imprensa Nacional, 2022). (From National Library, Singapore, call no. RSEA 899.281 CAS).
 
 [^2]: For a fuller account of the manuscript’s history and characteristics, see Ivo Castro and Hugo C. Cardoso, “O Manuscrito de Lisboa,” in [_Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462), ed. Ivo Castro et al. (Lisbon: Imprensa Nacional, 2022), 95–114.
 
