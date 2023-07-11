@@ -179,7 +179,6 @@ darie tanga Soeda Larie.*  <br>
 banting tangan banting kakie  <br>
 mana nonja bida darie  <br>
 nonja lari godong padrie*<br>
-<br>
 [...]  
 
   
