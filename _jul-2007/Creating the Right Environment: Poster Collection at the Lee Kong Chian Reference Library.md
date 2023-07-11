@@ -17,8 +17,14 @@ Between 1958 and 1995, there were reportedly over 200 national campaigns organis
 
 One of the most successful campaigns implemented during the 1960s–70s was the "Stop at Two" population policy. After World War II, Singapore faced severe shortages in food, housing and education. Hence voluntary family planning was introduced by the Family Planning Association of Singapore to ensure sustainable population growth. Anti-natalist policies continued right up to the 1960s when Singapore separated from Malaysia. Lacking in natural resources and cut off from it economic hinterland, the government advocated family planning to check against overpopulation and overstraining of resources.To this end, the Singapore Family Planning and Population Board was established in June 1966. The Board employed the use of publicity awareness programmes, and a combination of incentives and disincentives to discourage the formation of large families The incentives and disincentives affected the areas of housing allocation, priority in primary school admission exercises, tax reliefs, staggered fees for government maternity hospitals, and unrecorded paid leave for voluntary sterilisation.
 
+<img src="/images/Vol%203%20Issue%202/RightEnvironment/two%20is%20enough.JPG" style="width:50%;">
+ <div style="background-color: white;">Girl or Boy, Two is Enough.<i> Courtesy of Family Planning and Population Board.</i></div>
+
 The Board conducted successive public awareness programmes, which stressed the importance of family planning. Early campaign messages highlighted the need for family planning. This later shifted to the merits of having small families. In around 1972, campaign messages became more specific focusing first on the two-child family, followed by the two-child family regardless of the sex of the children. These changes documented in posters such as: *Small Families Have More to Eat*; *Small Families Have More to spend*; *Small Families Own More*; *Small Families Can Live Better*; *Small Families Enjoy Better Health*; *Happiness is a 2-child family*; *Enjoy Your Children, Help Them Grow*; *Girl or Boy, Two is Enough*.
 
+<img src="/images/Vol%203%20Issue%202/RightEnvironment/small%20families%20have%20more%20to%20eat.JPG" style="width:50%;">
+ <div style="background-color: white;">Small Families Have More to Eat.<i> Courtesy of Family Planning and Population Board.</i></div> 
+	
 So effective was the campaign in curbing population growth, subsequent campaigns had to be organised to address the problem of negative growth. By the 1980s, decline in population growth necessitated a change in policy. In 1987, inclusive pronatalist policies were implemented to encourage Singaporeans to have more children. The slogan "Have Three or More, If You Can Afford it" became a common catchphrase. Posters like *Children: Life Would be Empty Without Them* promoted the benefits of having children. Recent public awareness programmes have attempted to be less patent in its procreation drive. The appeal for more children is broached through subtler media messages that promote romance, love for children and family life.
 
 #### **The 1970s: Creating a Pleasant Physical Environment**
@@ -62,3 +68,38 @@ In 1999, the National Library Board and then Ministry of Information and the Art
 #### **How You Can Contribute**
 
 The poster collection at the Lee Kong Chian Reference Library is built largely through the act of legal deposit, gifts and donations. Though the collection currently stands at a modest 4,000 item, we continually seek to acquire and preserve historical and cultural documents of value to future generations of Singaporeans. As such, we welcome donations and gifts of Singapore posters of all kinds. These include campaign posters, event posters, movie posters, concert posters, play posters, dance posters, political posters and others. If you or your organisation would like to deposit your posters with us, please contact Ms Nazeerah Gopaul, Senior Librarian, Professional Services at <a href="nazeerah@nlb.gov.sg">nazeerah@nlb.gov.sg</a>. For enquiries on our poster collection or other topics, you may contact our reference librarians at <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a>.
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Gracie.jpg">
+<center><b>Gracie Lee</b><br>Reference Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
+	
+#### **REFERENCES**
+
+Arlene Bastion, “National Campaigns,” in [_Singapore in a Nutshell_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12831760) (Singapore: Pearson/Prentice Hall, 2007), 69–70. (Call no. RSING 959.57 BAS-\[HIS\])
+
+H. Pan, H. (2005). “National Campaigns - A Way of Life,” in [_Legacy of Singapore: 40th Anniversary Commemorative 1965–2005_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12629859) (Singapore: CR Media, 2005), 103–8. (Call no. RSING q959.57 LEG-\[HIS\])
+
+Lee Kuan Yew, “[The Launching of the National Courtesy Campaign](https://www.nas.gov.sg/archivesonline/speeches/record-details/7328ca90-115d-11e3-83d5-0050568939ad),” speech, Singapore Conference Hall, 1 June 1979, transcript, Ministry of Culture. (From National Archives of Singapore document no. lky19790601)
+
+Michelle M. Lazar, “Semiosis, Social Change and Governance: A Critical Semiotic Analysis of a National Campaign,” _Social Semiotics_ 13, no. 2 (2003): 201–21.
+
+Ministry of Environment, Singapore, [_Towards a Clean and Healthy Environment_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081733) (Singapore: Ministry of the Environment, 1973). (Call no. RSING 614.7 SIN)
+
+Peter Teo, “‘Clean and Green – That’s the Way We Like It’: A Critical Study of Singapore’s Environmental Campaigns,” accessed 2 May 2007, https://www.lancaster.ac.uk/.
+
+Peter Teo, “Mandarinising Singapore: A Critical Analysis of Slogans in Singapore’s ‘Speak Mandarin Campaign’,” accessed 2 May 2007, https://www.lancaster.ac.uk/.
+
+Saw Swee-Hock, “Population Control,” in [_The Population of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9570090) (Singapore: Institute of Southeast Asian Studies, 1999), 134–60. (Call no. RSING 304.6095957 SAW)
+
+“Singapore Kindness Movement,” Singapore Kindness Movement Council, accessed 2 May 2007, https://www.kindness.sg/.
+
+“Speak Mandarin Campaign,” Promote Mandarin Council, accessed 2 May 2007, [http://www.mandarin.org.sg](http://www.mandarin.org.sg).
+
+“[Welcome to Campaign Country](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20030525-1.2.53.11),” _Straits Times_, 25 May 2003, 27.29. (From NewspaperSG)
+
+[Whither Poster-ity?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19910804-1.2.50.3.1)” _Straits Times_, 4 August 1991, 1–3. (From NewspaperSG)
+
+
+
