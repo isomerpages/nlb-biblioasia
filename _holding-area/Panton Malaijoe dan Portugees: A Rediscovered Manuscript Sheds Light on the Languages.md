@@ -90,24 +90,24 @@ J - *Panton Dari Sitie Lela Maijan* (*Pantun About Siti Lela Mayang*): 29 stanza
 
 K - *Panton Joncker* (*Jonker Pantun*): 30 stanzas in Malay.
 
-Thematically, these texts are not dissimilar to the wider Southeast Asian genre of the pantun, while simultaneously establishing links with European literary traditions, including chivalric literature and medieval Portuguese love poetry.10 Love (whether licit or illicit, consummated or aspirational, joyous or painful) is the theme of several of them, as exemplified by the following excerpt from the opening sequence of Panton Malayo:11
+Thematically, these texts are not dissimilar to the wider Southeast Asian genre of the pantun, while simultaneously establishing links with European literary traditions, including chivalric literature and medieval Portuguese love poetry.10 Love (whether licit or illicit, consummated or aspirational, joyous or painful) is the theme of several of them, as exemplified by the following excerpt from the opening sequence of *Panton Malayo*:11
 
-\[...\]  
-Lihat anack tsina  
+[...]  
+*Lihat anack tsina  
 Toehan kie tsilmoele  
 rindo pada dieha  
-makan tida boole.  
+makan tida boole.*
   
-Lihat hanack tsina  
+*Lihat hanack tsina  
 bagú wida darie  
 roepa bage boenga  
-bangoen la camarie.  
+bangoen la camarie.*
   
-Soeda amba casie  
+*Soeda amba casie  
 djúwa dengan badangh  
 boehat la canda tie  
-bagi sooka toehan.<br>
-\[...\]
+bagi sooka toehan.*<br>
+[...]
 
 Behold the Chinese maiden,  
 The dainty little lady.  
@@ -127,23 +127,23 @@ To please you, my lady.
 Other texts have a moral undertone, using  
 various rhetoric strategies to reflect on society and human behaviour. The untitled sequence F is one such case. As seen in the excerpt below, the text is both metaphorical and explicit in denouncing the inescapability of social inequalities:12
 
-\[...\]  
-Neem: waka wincha chawalo  
+[...]  
+*Neem: waka wincha chawalo  
 neem: kawalo wieka waka  
 neem: parang: winca ispada  
-neem: matsado fúka waacha.  
+neem: matsado fúka waacha.*
   
-Neem: coobrie fúeka werro,  
+*Neem: coobrie fúeka werro,  
 neem: verro wúka coobriee,  
 âsie sauõ: os: riecoos  
-perra kom õ: homie poobrie.  
+perra kom õ: homie poobrie.*
   
-Ônde ā: ô somos: Riko,  
+*Ônde ā: ô somos: Riko,  
 alie nanõ: bale ôs: pobrie  
 por isso: pode noos: veer  
-que ô: ferro nanõ: fuka coobrie.
+que ô: ferro nanõ: fuka coobrie.*
 <br>
-\[...\]
+[...] 
 
   
 
@@ -164,23 +164,23 @@ That iron does not turn into copper.
 
 Some sequences have a narrative structure. In addition to the ones that recount historical events, others are (or appear to be) fictional. The sequence titled Panton Dari Sitie Lela Maijan – which, as Gijs Koster notes, shows similarities with other pantuns recorded elsewhere – tells the story of a married woman’s extramarital relationship with a young man identified by the name of Kosta, set in a place that may be recognised as the city of Batavia.13 The following section narrates Siti Lela Mayang’s escape to join Kosta:14
 
-\[...\]  
-ada satoe anack ôrangh  
+[...]  
+*ada satoe anack ôrangh  
 nama sitie lela maijangh  
 anak pego baroe datangh  
-goendik tjanko china qúijtangh  
+goendik tjanko china qúijtangh* 
   
-Poera poera pangeel kaka  
+*Poera poera pangeel kaka  
 ambeel gamparang pigie kalie  
 poera poera tjoetjie kakie  
-darie tanga Soeda Larie.  
+darie tanga Soeda Larie.*  
   
-Lakie china datang tjarie  
+*Lakie china datang tjarie  
 banting tangan banting kakie  
 mana nonja bida darie  
-nonja lari godong padrie
+nonja lari godong padrie*
 <br>
-\[...\]
+[...]  
 
   
 There was a young maiden  
