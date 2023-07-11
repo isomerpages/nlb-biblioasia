@@ -5,7 +5,7 @@ description: A grand piano that was to be the pride of Singapore failed to
   silence its critics. The odds, however, were always against it.
 ---
 #### A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it.
-By Bernard T. G. Tan
+By Bernard T.G. Tan
 
 ![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/irene%20kohler.jpg)
 <div style="background-color: white;">British pianist Irene Kohler, who played on the Chappell grand piano, photographed before her recital at the Victoria Memorial Hall, 1956. <i>Marjorie Doggett Collection, courtesy of National Archives of Singapore.</i></div>
@@ -141,7 +141,7 @@ The Chappell is currently being repaired and retuned. After it has been given a 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/bernard%20tan.png">
-	<b>Emeritus Professor Bernard T. G. Tan</b>  is a retired professor in physics from the National University of Singapore who also dabbles in music. Some of his compositions have been performed by the Singapore Symphony Orchestra.</div>
+	<b>Emeritus Professor Bernard T.G. Tan</b>  is a retired professor in physics from the National University of Singapore who also dabbles in music. Some of his compositions have been performed by the Singapore Symphony Orchestra.</div>
 
 #### **Notes**
 
