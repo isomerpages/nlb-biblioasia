@@ -8,6 +8,9 @@ description: A 1607 map by Theodore de Bry shows a close-up view of Singapore
 ---
 ####  A 1607 map by Theodore de Bry shows a close-up view of Singapore and the surrounding region. The map depicts the Dutch-Portuguese naval confrontation that took place in October 1603, in the eastern side of Singapore around the estuary of the Johor River.
 
+<img src="/images/Vol%203%20Issue%202/EarlyMaps/capture1.jpg" style="width:100%;">
+ <div style="background-color: white;"></div>
+
 Singapore was founded in 1819 by Sir Stamford Raffles. Was the name 'Singapore' in existence prior to 1819? Many ancient maps revealed that Singapore did exist as far back as the 16th century. It was then mentioned directly or indirectly in several non-English European ancient maps under different variations of the name, such as:<br><br>
 
 a) ***Cinca pula*** in Giacomo Gastaldi's map "*India Tercera Nova Tabula*" on Southeast Asia of 1548, which shows ***C Cinca Pula*** (Cape of Singapore);<br><br>
@@ -26,9 +29,21 @@ Possibly only E.G. de Eredia's maps and charts of Singapore and its surrounding 
 
 The 1607 map of de Bry is a double-page chart, measuring 324 x 255mm in size, uncoloured, block-printed on watermarked paper (paper size: 392 x 300rnm). It shows the southern coast of 'Sinca Pora (i.e. Singapore), "Straet van Sinca Pore (Straits of Singapore) and Valsch Sinca Pore (False Straits of Singapore). Other places shown in the map are Pedro Blanca (Pedra Branca), Carimon (Pulau Karimun), Bintam (Pulau Bintang), Oudt lor (Old Johore of Johore Lama), Rio Batasubar (Kota Tinggi River, i.e. Johore River), etc.
 
+![](/images/Vol%203%20Issue%202/EarlyMaps/capture3.jpg)
+<img src="/images/Vol%203%20Issue%202/EarlyMaps/capture3.jpg" style="width:50%;">
+ <div style="background-color: white;">Theodore de Bry's<i> "Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar</i>..." published in '1607'. The north is 'oriented' towards the left of the map. <i>'Sinca Pora'</i>and <i>'Straet van Sinca Pora'</i> (Straits of Singapore) are clearly marked on the map.</div>
+
 The map depicts the Dutch-Portuguese naval confrontation in October 1603, on the eastern side of Singapore around the estuary of the Johore River. The Portuguese blockaded Old Johore at the mouth of the Johore River. The Dutch vessels, which gave support to the Sultan of Johore, were engaged in a battle with the Portuguese fleet. The Dutch eventually defeated the Portuguese and crushed its blockade of Johore Lama. The naval vessels are marked from A to O. The Roman numerals at several places in the sea marked the depth of the water. A compass rose is located draw the Carimon island.
 
 Theodore de Bry (1528–1598) was born in the Flemish town of Liege, near Brussels. He was a cartographer, engraver and publisher based in Frankfort am Main. He illustrated the multi-volume set of work, *Grands et Petits Voyages*, with some of the volumes published by his family after his death. The 1607 map depictIng the Dutch-Portuguese naval battle near Singapore was one of the maps included in the set.
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Lai%20Yeen%20Pong.jpg">
+<center><b>Lai Yeen Pong</b><br>Consultant<br> Heritage and Asia<br> National Library</center></div>
+
+
 
 
 
