@@ -66,7 +66,7 @@ The Crescendos didn’t just rock the airways in Singapore in the 1960s. They ch
 
 **8 August: Lest We Forget: Kranji War Cemetery**<br>
 Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Choo Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.
-<img style="width: 35%" src="![](/images/Podcast/Photos_About/ep%2011%20(kranji%20by%20janice)v1.jpg)/images/Podcast/Photos_About/ep%204%20(belacan%20by%20toffa)-new%20v1.jpg" align="left"><br clear="all">
+<img style="width: 35%" src="/images/Podcast/Photos_About/ep%2011%20(kranji%20by%20janice)v1.jpg" align="left"><br clear="all">
 <br>
 
 **15 August: What’s Become of the Seafaring Orang Seletar?**<br>
