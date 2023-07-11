@@ -215,20 +215,20 @@ coza de ackel tempo  <br>
 de algoum troemento. <br>
 [...]
 
-Your love is so sweet  
-I cannot forget it,  
-It has tied us together  
-Because we like each other.  
+Your love is so sweet  <br>
+I cannot forget it,  <br>
+It has tied us together  <br>
+Because we like each other.  <br>
   
-If we like each other,  
-You must swear an oath,  
-Be mindful, my lady, be mindful  
-Of the suffering \[it may bring\].  
+If we like each other,  <br>
+You must swear an oath,  <br>
+Be mindful, my lady, be mindful  <br>
+Of the suffering [it may bring].  <br>
   
-Be mindful, my lady, be mindful  
-Of the things \[we did\] at that time.  
-My lady, don’t be afraid  
-Of the suffering \[it may bring\].&nbsp;
+Be mindful, my lady, be mindful  <br>
+Of the things [we did] at that time.  <br>
+My lady, don’t be afraid  <br>
+Of the suffering [it may bring].<br>
 
 Here, each quatrain is made up of alternating verses in Malay (transcribed here in italics) and verses in Portuguese Creole, interwoven in such a way that individual sentences, which often extend across several verses, combine both languages. Such a text would only have made sense to a group of people with command of both Malay and Portuguese Creole. In 17th- and 18th-century Batavia, only one community fitted the bill.
 
