@@ -307,4 +307,4 @@ O Arqueólogo Português_ series V, 6/7 (2016–2017): 315–17, https://www.mus
 
 [^19]: See for example Raan-Hann Tan, _Por-Tugu-Ese?: The Protestant Tugu Community of Jakarta, Indonesia_ (PhD diss., Instituto Universitário de Lisboa, 2016).
 
-[^20]: Examples and analysis from Alexander Adelaar, “Spelling and Language of the Malay Used in the _Livro de Pantuns_,” in _Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa_, ed. Ivo Castro et al. (Lisbon: Imprensa Nacional, 2022), 149–59.
+[^20]: Examples and analysis from Alexander Adelaar, “Spelling and Language of the Malay Used in the _Livro de Pantuns_,” in [_Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462), ed. Ivo Castro et al. (Lisbon: Imprensa Nacional, 2022), 149–59.
