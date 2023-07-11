@@ -25,3 +25,7 @@ The journey of the manuscript from a London bookshop to the Lisbon archive was m
 #### **The Manuscript Changes Hands**
 
 Interestingly, the initial protagonists of the manuscript’s recorded history were all Germans. The antique bookseller Quaritch was German, as was Rost, an orientalist specialising in Asian languages (such as Sinhala and Malay) and literature. Rost spent most of his career in England, where in addition to his position with the Royal Asiatic Society, he was also a librarian at the India Office.
+
+The other important German who played a central role was the eminent linguist Hugo Schuchardt, a prominent figure in the history of linguistics. He spent most of his career at the University of Graz in Austria and had an extraordinarily vast range of scientific interests encompassing Romance languages, the Basque language, and the dynamics and effects of language contact. To pursue all of these, Schuchardt developed a vast global network of correspondents from whom he obtained linguistic data and relevant sources. Rost was one of them.
+
+The correspondence between the two men reveals that Rost sent the manuscript to Schuchardt in 1885 as a loan and 10 years later, shortly before his death, turned that loan into a gift.3 Schuchardt, who
