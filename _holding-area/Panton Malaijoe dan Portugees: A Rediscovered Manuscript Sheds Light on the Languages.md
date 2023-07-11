@@ -288,7 +288,7 @@ O Arqueólogo Português_ series V, 6/7 (2016–2017): 315–17, https://www.mus
 
 [^10]: For a description of the Portuguese Creole sequences, see Baxter and Cardoso, “The ‘Panton Portugees’ of the Lisbon Manuscript,” 115–29. For a study of the Malay-language sequences, see Gijs Koster, “The Poems in Malay in the _Livro de Pantuns_: Some Social, Historical and Literary Contexts,” 131–47.
 
-[^11]: Transcription and proposed translation reproduced from Castro et al., [_Livro de Pantuns_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462), 248–49.&nbsp;
+[^11]: Transcription and proposed translation reproduced from Castro et al., [_Livro de Pantuns_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462), 248–49.
 
 [^12]: Transcription and proposed translation reproduced from Castro et al., [_Livro de Pantuns_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462), 310–11.
 
