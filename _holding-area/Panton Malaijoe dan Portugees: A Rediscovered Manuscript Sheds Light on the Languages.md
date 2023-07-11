@@ -259,3 +259,52 @@ The sudden discovery of this manuscript promised to shed some light on the Mardi
 exact composition of the community and how was it formed? How did the Mardijkers contribute to the cultural and linguistic mix of colonial Batavia? What were their daily lives like and who did they contact within the city? What were their takes on the prevailing social and political structures?
 
 The research leading up to the publication of Livro de Pantuns was an initial effort by the editors to tap into the manuscript’s ability to clarify these and other questions – in particular, from a linguistic and literary perspective. However, aware that its lessons were far from exhausted, the team worked towards making the manuscript available to the public in a format that would allow further exploration. Hopefully, its 39 folios will still teach us a great deal.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/sharad_pandian.png">
+	<b>Sharad Pandian</b> graduated from Nanyang Technological University with a degree in physics, and then pursued a Master of Philosophy in history and philosophy of science at the University of Cambridge as a Gates-Cambridge Scholar. Sharad is interested in the history of science and standardisation in Asia. He is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022–23).</div>
+
+#### **Notes**
+
+[^1]: The data conveyed in this text is based on collaborative research conducted by Ivo Castro, Hugo Cardoso, Alan Baxter, Alexander Adelaar and Gijs Koster leading up to the publication of an edition and study of the manuscript. See Ivo Castro, Hugo C. Cardoso, Alan Baxter, Alexander Adelaar and Gijs Koster, eds., _Livro de Pantuns_: _Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa_ | _Book of Pantuns: An Asian Manuscript of the National Museum of Archeology, Lisbo_n (Lisbon: Imprensa Nacional, 2022). (From National Library, Singapore, call no. RSEA 899.281 CAS)
+
+[^2]: For a fuller account of the manuscript’s history and characteristics, see Ivo Castro and Hugo C. Cardoso, “O Manuscrito de Lisboa,” in _Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa_, ed. Ivo Castro et al. (Lisbon: Imprensa Nacional, 2022), 95–114.
+
+[^3]: Hugo Schuchardt’s epistolar corpus is preserved at the University of Graz, and has been studied and digitised as part of a project led by Prof Bernhard Hurch. See “Hugo Schuchardt Archiv,” last accessed  
+2 June 2023, https://gams.uni-graz.at/context:hsa.
+
+[^4]: Hugo Schuchardt, “Kreolische Studien IX. Über das Malaioportugiesische von Batavia und Tugu,” _Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien, Philosophisch-historische Classe_ 122 (1890): 17.
+
+[^5]: The correspondence between Schuchardt and Vasconcelos is published in Ivo Castro and Enrique Rodrigues-Moura, eds., _Hugo Schuchardt / José Leite de Vasconcellos. Correspondência_ (Bamberg: University of Bamberg Press, 2015), https://fis.uni-bamberg.de/handle/uniba/39832.
+
+[^6]: The discovery was first reported in Ivo Castro, Hugo C. Cardoso, Gijs Koster, Alexander Adelaar and Alan Baxter, “The Lisbon Book of Pantuns,”_  
+O Arqueólogo Português_ series V, 6/7 (2016–2017): 315–17, https://www.museunacionalarqueologia.gov.pt/wp-content/uploads/Book-of-Pantuns.pdf.
+
+[^7]: An edition and study of these sources can be found in Philippe Maurer, _The Former Portuguese Creole of Batavia and Tugu (Indonesia)_ (London/Colombo: Battlebridge, 2011). (From National Library, Singapore, call no. RSEA 469.79968 MAU). For a linguistic analysis of the Portuguese Creole texts in the manuscript, see Alan Baxter and Hugo C. Cardoso, “The ‘Panton Portugees’ of the Lisbon Manuscript,” in _Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa,_ ed. Ivo Castro et al. (Lisbon: Imprensa Nacional, 2022), 115–29.
+
+[^8]: See Baxter and Cardoso, “The ‘Panton Portugees’ of the Lisbon Manuscript,” 119.
+
+[^9]: For a more detailed account, see Gijs Koster, “The Poems in Malay in the _Livro de Pantuns_: Some Social, Historical and Literary Contexts,” in _Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa_, ed. Ivo Castro et al. (Lisbon: Imprensa Nacional, 2022), 141–46.
+
+[^10]: For a description of the Portuguese Creole sequences, see Baxter and Cardoso, “The ‘Panton Portugees’ of the Lisbon Manuscript,” 115–29. For a study of the Malay-language sequences, see Gijs Koster, “The Poems in Malay in the _Livro de Pantuns_: Some Social, Historical and Literary Contexts,” 131–47.
+
+[^11]: Transcription and proposed translation reproduced from Castro et al., _Livro de Pantuns_, 248–49.&nbsp;
+
+[^12]: Transcription and proposed translation reproduced from Castro et al., _Livro de Pantuns_, 310–11.
+
+[^13]: In his chapter in _Livro de Pantuns_ (p. 139), Gijs Koster identifies similarities between this text and _Syair Sinyor Kosta_, a poem that circulated widely in the Malay World in the early 19th century, four versions of which have been collated and studied. See A. Teeuw, R. Dumas, Muhammad Haji Salleh, R. Tol and M.J. van Yperen, eds., _A Merry Senhor in the Malay world: Four Texts of the Syair Sinyor Kosta_ (Leiden: KITLV Press, 2004). (From National Library, Singapore, call no. RSEA 899.281009 MER). As Koster notes, the manuscript’s version may actually be a much earlier attestation of this poem.
+
+[^14]: Transcription and proposed translation reproduced from Castro et al., _Livro de Pantuns_, 334–35.
+
+[^15]: Transcription and proposed translation reproduced from Castro et al., _Livro de Pantuns_, 314–15.
+
+[^16]: For a fuller description of the Mardijker community, see Koster, “The Poems in Malay in the _Livro de Pantuns:_ Some Social, Historical and Literary Contexts,” 131–32; Maria Isabel Tomás, “The Role of Women in the Cross-pollination Process in the Asian-Portuguese Varieties,” _Journal of Portuguese Linguistics_ 8, no. 2 (December 2009): 49–64, https://jpl.letras.ulisboa.pt/article/id/5575/.
+
+[^17]: For an overview of the Portuguese-lexified creoles of Asia and the Pacific, see Alan Baxter, “Portuguese in the Pacific and Pacific Rim,” in _Atlas of Languages of Intercultural Communication in the Pacific, Asia, and the Americas_, vol. 2, ed. Stephen A. Wurm, P. Mühlhäusler and Darrell Tryon (Berlin/New York: Mouton de Gruyter, 1996), 299–338. (From National Library, Singapore, call no. RUR 402.23 ATL); Hugo C. Cardoso, “Contact and Portuguese-lexified Creoles,” _in The Handbook of Language Contact_, 2nd ed., ed. Raymond Hickey (Hoboken, NJ: Wiley-Blackwell, 2020), 469–88; João Oliveira, “Portugal’s Linguistic Legacy in Southeast Asia,” _BiblioAsia_ 19, no. 1 (April–June 2023): 40–47.
+
+[^18]: That is not to say that Portuguese was absent from colonial Batavia. In fact, the first Portuguese-language translation of the Bible, undertaken by João Ferreira de Almeida, was completed in Batavia in the late 17th century.
+
+[^19]: See for example Raan-Hann Tan, _Por-Tugu-Ese?: The Protestant Tugu Community of Jakarta, Indonesia_ (PhD diss., Instituto Universitário de Lisboa, 2016).
+
+[^20]: Examples and analysis from Alexander Adelaar, “Spelling and Language of the Malay Used in the _Livro de Pantuns_,” in _Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa_, ed. Ivo Castro et al. (Lisbon: Imprensa Nacional, 2022), 149–59.
