@@ -2,7 +2,9 @@ collections:
   jul-2007:
     output: true
     order:
-      - The Access to Learning Award.md
-      - Tapping History.md
-      - Harun Aminurrishad.md
+      - "Creating the Right Environment: Poster Collection at the Lee Kong Chian
+        Reference Library.md"
       - Director's Column.md
+      - Harun Aminurrishad.md
+      - Tapping History.md
+      - The Access to Learning Award.md
