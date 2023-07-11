@@ -66,7 +66,7 @@ It is also unclear whether the people who produced the manuscript were the ones 
 
 #### **The Collection of Pantun**
 
-Panton Malaijoe dan Portugees contains 11 discrete and different-sized sequences of quatrains (identified in our publication with letters A through K for ease of reference), most with their own title and an explicit indication of their endpoint:
+*Panton Malaijoe dan Portugees* contains 11 discrete and different-sized sequences of quatrains (identified in our publication with letters A through K for ease of reference), most with their own title and an explicit indication of their endpoint:
 
 A - Panton Malayo (Malay Pantun): 43 stanzas in Malay;
 
