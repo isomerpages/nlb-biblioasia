@@ -295,9 +295,9 @@ O Arqueólogo Português_ series V, 6/7 (2016–2017): 315–17, https://www.mus
 
 [^13]: In his chapter in [_Livro de Pantuns_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462) (p. 139), Gijs Koster identifies similarities between this text and _Syair Sinyor Kosta_, a poem that circulated widely in the Malay World in the early 19th century, four versions of which have been collated and studied. See A. Teeuw, R. Dumas, Muhammad Haji Salleh, R. Tol and M.J. van Yperen, eds., [_A Merry Senhor in the Malay world: Four Texts of the Syair Sinyor Kosta_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12474542) (Leiden: KITLV Press, 2004). (From National Library, Singapore, call no. RSEA 899.281009 MER). As Koster notes, the manuscript’s version may actually be a much earlier attestation of this poem.
 
-[^14]: Transcription and proposed translation reproduced from Castro et al., _Livro de Pantuns_, 334–35.
+[^14]: Transcription and proposed translation reproduced from Castro et al., [_Livro de Pantuns_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462), 334–35.
 
-[^15]: Transcription and proposed translation reproduced from Castro et al., _Livro de Pantuns_, 314–15.
+[^15]: Transcription and proposed translation reproduced from Castro et al., [_Livro de Pantuns_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462), 314–15.
 
 [^16]: For a fuller description of the Mardijker community, see Koster, “The Poems in Malay in the _Livro de Pantuns:_ Some Social, Historical and Literary Contexts,” 131–32; Maria Isabel Tomás, “The Role of Women in the Cross-pollination Process in the Asian-Portuguese Varieties,” _Journal of Portuguese Linguistics_ 8, no. 2 (December 2009): 49–64, https://jpl.letras.ulisboa.pt/article/id/5575/.
 
