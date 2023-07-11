@@ -38,6 +38,9 @@ In 1890, Schuchardt published a lengthy article about this particular Portuguese
 
 Sadly, this follow-up study never materialised. In the meantime, the manuscript caught the attention of another prominent scholar: the Portuguese doctor, philologist, ethnographer and archaeologist José Leite de Vasconcelos. He was another of Schuchardt’s regular correspondents and the two actually met in 1900 in Graz, where Vasconcelos was given the opportunity to consult the manuscript. He was intrigued by it and, a few years later, asked Schuchardt for a copy of its contents.
 
+![](/images/Vol%2019%20Issue%203/5%20Panton/image2.png)
+<div style="background-color: white;">José Leite de Vasconcelos was a doctor, philologist, ethnographer and archaeologist, c. 1900s. He established the Museu Etnológico Português (Portuguese Ethnological Museum), the predecessor of the modern Museu Nacional de Arqueologia, in 1893. <i>Image from Wikimedia Commons.</i></div>
+
 As we gather from their correspondence, this request was not well received by Schuchardt since he was still planning to publish a substantial study of *Panton Malaijoe dan Portugees*.[^5] However, he eventually decided to bequeath the document to Vasconcelos. After Schuchardt died in 1927, the manuscript was despatched to Lisbon. Even though Vasconcelos clearly intended to work on it, he never published a study on the document either. As a result, despite various references to the manuscript and the clear interest shown by some of the leading early scholars of language contact, its contents remained a mystery until very recently.
 
 #### **Panton Malaijoe dan Portugees Resurfaces**
