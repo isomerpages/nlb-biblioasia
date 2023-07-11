@@ -273,7 +273,7 @@ The research leading up to the publication of *Livro de Pantuns* was an initial 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/sharad_pandian.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/hugo_cardoso.png">
 	<b>Hugo C. Cardoso</b> is an Associate Professor of Linguistics at the University of Lisbon (Portugal) and a researcher of language contact involving Portuguese in Asia, with a particular focus on the Portuguese-lexified creoles of India and Sri Lanka.</div>
 
 #### **Notes**
