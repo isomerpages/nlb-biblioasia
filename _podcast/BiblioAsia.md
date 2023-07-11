@@ -55,13 +55,19 @@ How can an entire island appear and then disappear? Especially one that was said
 <br>
 
 **25 July: The Stories behind the Shrines on Kusu Island**<br>
-People have been worshipping the shrines on Kusu Island since the mid-19th century. The people said to be buried at Kusu Island, however, haven’t always stayed the same, according to writer and researcher William L. Gibson.<br>
+People have been worshipping the shrines on Kusu Island since the mid-19th century. The people said to be buried at Kusu Island, however, haven’t always stayed the same, according to writer and researcher William L. Gibson.  
+<img style="width: 35%" src="/images/Podcast/Photos_About/ep%209%20(shrines%20by%20william)v1.jpg" align="left"><br clear="all">
+<br>
 
 **1 August: The Recording Industry in Singapore, 1903 to 1985**<br>
-The Crescendos didn’t just rock the airways in Singapore in the 1960s. They changed the entire music recording industry, says sound archivist Ross Laird.<br>
+The Crescendos didn’t just rock the airways in Singapore in the 1960s. They changed the entire music recording industry, says sound archivist Ross Laird.  
+<img style="width: 35%" src="/images/Podcast/Photos_About/ep%2010%20(record%20by%20ross)v1.jpg" align="left"><br clear="all">
+<br>
 
 **8 August: Lest We Forget: Kranji War Cemetery**<br>
-Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Choo Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.<br>
+Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Choo Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.
+<img style="width: 35%" src="![](/images/Podcast/Photos_About/ep%2011%20(kranji%20by%20janice)v1.jpg)/images/Podcast/Photos_About/ep%204%20(belacan%20by%20toffa)-new%20v1.jpg" align="left"><br clear="all">
+<br>
 
 **15 August: What’s Become of the Seafaring Orang Seletar?**<br>
 The Orang Seletar used to live on boats that plied the Johor Strait. They were here when Raffles landed in 1819. Today, however, they have settled in kampongs in Johore. Some of the older ones still remember playing in the waters around Seletar island, says writer and educator Ilya Katrinnada.
