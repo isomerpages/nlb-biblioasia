@@ -80,7 +80,7 @@ E - C*antiga di Vooi Cada Noĳto Majinadoo* (*Song of [I] Went Every Night, Pond
 
 F - \[untitled\]: Eight stanzas in Portuguese Creole;
 
-G - Cantiga Malaijoo Mussurado Portigies (Malay Song Mixed With Portuguese): 19 stanzas combining Malay and Portuguese Creole;
+G - *Cantiga Malaijoo Mussurado Portigies* (*Malay Song Mixed With Portuguese*): 19 stanzas combining Malay and Portuguese Creole;
 
 H - Cantiga de Portugees Mais Mojeers os Omis Casadoe (Portuguese Song About Married Women and Men): 30 stanzas in Portuguese Creole;
 
