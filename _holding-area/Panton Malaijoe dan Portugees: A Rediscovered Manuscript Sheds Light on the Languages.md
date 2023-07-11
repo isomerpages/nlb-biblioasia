@@ -76,7 +76,7 @@ C - C*antiga de Amooris de Minha Manhonha* (*Love Song About My Wicked Lady*): 7
 
 D - *Cantiga de Tangerang mais Bantam* (*Song of&nbsp; Tangerang and Banten*): 29 stanzas in Portuguese Creole;
 
-E - C*antiga di Vooi Cada Noĳto Majinadoo* (Song of \[I\] Went Every Night, Pondering): 22 stanzas in Portuguese Creole;
+E - C*antiga di Vooi Cada Noĳto Majinadoo* (*Song of [I] Went Every Night, Pondering*): 22 stanzas in Portuguese Creole;
 
 F - \[untitled\]: Eight stanzas in Portuguese Creole;
 
