@@ -24,16 +24,13 @@ Suprajitno* investigates the predicament faced by Buddhism in Indonesia through 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-3/oct-dec-2011/malayan-cookery-book/">Malayan Cookery Books: The "Mems" Own Cookery Book (1929)</a><br> Senior Librarian *Bonny Tan* details and offers insights into the 1929 *The “Mem’s” Own Cookery Book*. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Malayan-Cookery.pdf)
 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-3/oct-dec-2011/traditional-chinese-medicine/">悠悠百年路 漫漫世纪情 – 传统中医药文化在新加坡</a><br>Senior Reference Librarian *Vicky Gao* highlights materials on Traditional Chinese Medicine available at the Lee Kong Chian Reference Library. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Chinese.pdf)
 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-3/oct-dec-2011/gotong-royong-kampung-life/">iremembersg: Gotong Royong in the Kampung Life</a><br>Singaporeans remember what life was like in their *kampung* days.[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_IRememberSg.pdf)
 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-3/oct-dec-2011/newspaper-press-screen/">Newspaper SG: From Press to Screen
+</a><br>Librarians *Michelle Heng*, *Ng Hui Ling* and *Mazelan Anuar* bring us up to speed on what’s new on NewspaperSG, a digital archive of Singapore and Malaya newspapers dating back to 1831. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_NewspaperSg.pdf)
 
+<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/">More Than Just a Flower: The Orchid's Manifold Faces</a><br>Senior Librarian *Ang Seow Leng* gives us a crash course in all things orchids and their special relationship with Singapore. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_OrchidManifold.pdf)
 
-**悠悠百年路 漫漫世纪情 – 传统中医药文化在新加坡**<br>Senior Reference Librarian *Vicky Gao* highlights materials on Traditional Chinese Medicine available at the Lee Kong Chian Reference Library. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Chinese.pdf)
-
-**iremembersg: Gotong Royong in the Kampung Life**<br>Singaporeans remember what life was like in their *kampung* days.[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_IRememberSg.pdf)
-
-**Newspaper SG: From Press to Screen**<br>Librarians *Michelle Heng*, *Ng Hui Ling* and *Mazelan Anuar* bring us up to speed on what’s new on NewspaperSG, a digital archive of Singapore and Malaya newspapers dating back to 1831. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_NewspaperSg.pdf)
-
-**More Than Just a Flower: The Orchid's Manifold Faces**<br>Senior Librarian *Ang Seow Leng* gives us a crash course in all things orchids and their special relationship with Singapore. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_OrchidManifold.pdf)
-
-**Wealthy Reserves in Natural Heritage: A Decade of Biodiversity Conservation and Discoveries in Singapore**<br>Senior Librarian *Sara Pek* shares more about “A Decade of Biodiversity Conservation and Discoveries in Singapore”, an exhibition marking Singapore’s commitment to biodiversity conservation. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_BiodiversityDiscoveries.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-3/oct-dec-2011/natural-heritage-wealthy-reserves/">Wealthy Reserves in Natural Heritage: A Decade of Biodiversity Conservation and Discoveries in Singapore</a><br>Senior Librarian *Sara Pek* shares more about “A Decade of Biodiversity Conservation and Discoveries in Singapore”, an exhibition marking Singapore’s commitment to biodiversity conservation. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_BiodiversityDiscoveries.pdf)
