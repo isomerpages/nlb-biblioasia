@@ -54,11 +54,11 @@ Since *Panton Malaijoe dan Portugees* is undated and makes no reference to a pla
 
 In principle, a collection of Malay and Portuguese Creole pantuns could also have been produced in other Dutch-controlled locations of Southeast Asia (such as Melaka), but Batavia emerges as the most likely source. This is evidenced by the abundance of references in the texts to Java, in the form of toponyms (such as Banten, Tangerang and Batavia itself), fruit, plant and food names, and even historical events.
 
-The language in the texts also has links with Java’s linguistic ecology. In the Malay-language texts, a few forms are more readily recognisable as reflections of Javanese words than Malay/Indonesian words, while the language of the Portuguese Creole texts is especially reminiscent of the Batavia and Tugu samples published by Schuchardt and recorded in a few other complementary sources.7
+The language in the texts also has links with Java’s linguistic ecology. In the Malay-language texts, a few forms are more readily recognisable as reflections of Javanese words than Malay/Indonesian words, while the language of the Portuguese Creole texts is especially reminiscent of the Batavia and Tugu samples published by Schuchardt and recorded in a few other complementary sources.[^7]
 
 Having established (with a fair amount of certainty) that colonial Java was the most likely setting for the production of the manuscript, we are still left with the issue of dating the document. In this respect, all we can say for sure is that the manuscript could not have been completed before 1690.
 
-This insight is based on two historical episodes referenced in the pantun. The Portuguese Creole text, *Cantiga de Tangerang mais Bantam* (*Song of Tangerang and Banten*), narrates the conflict between Sultan Abu'l-Fath 'abdu'l-Fattah (Ageng Tirtayasa) of Banten and his son, Abu Nasr Abdul Kahhar (Sultan Haji), which saw the involvement of the Dutch East Indies Company in 1682.8 Another pantun, the Malay-language *Panton Joncker* (*Jonker Pantun*), describes events relating to the presumed rebellion of Captain Jonker, an Ambonese serving in the Dutch colonial army, which took place in 1689, culminating in his death that year and the deportation of his children to Ceylon in 1690.9
+This insight is based on two historical episodes referenced in the pantun. The Portuguese Creole text, *Cantiga de Tangerang mais Bantam* (*Song of Tangerang and Banten*), narrates the conflict between Sultan Abu'l-Fath 'abdu'l-Fattah (Ageng Tirtayasa) of Banten and his son, Abu Nasr Abdul Kahhar (Sultan Haji), which saw the involvement of the Dutch East Indies Company in 1682.[^8] Another pantun, the Malay-language *Panton Joncker* (*Jonker Pantun*), describes events relating to the presumed rebellion of Captain Jonker, an Ambonese serving in the Dutch colonial army, which took place in 1689, culminating in his death that year and the deportation of his children to Ceylon in 1690.[^9]
 
 While it is impossible to tell how long after these events the texts were written, the amount of detail suggests their memory may have been fairly fresh. Therefore, it is quite possible that the manuscript was completed in the late 17th century or the early 18th century.
 
@@ -90,7 +90,7 @@ J - *Panton Dari Sitie Lela Maijan* (*Pantun About Siti Lela Mayang*): 29 stanza
 
 K - *Panton Joncker* (*Jonker Pantun*): 30 stanzas in Malay.
 
-Thematically, these texts are not dissimilar to the wider Southeast Asian genre of the pantun, while simultaneously establishing links with European literary traditions, including chivalric literature and medieval Portuguese love poetry.10 Love (whether licit or illicit, consummated or aspirational, joyous or painful) is the theme of several of them, as exemplified by the following excerpt from the opening sequence of *Panton Malayo*:11
+Thematically, these texts are not dissimilar to the wider Southeast Asian genre of the pantun, while simultaneously establishing links with European literary traditions, including chivalric literature and medieval Portuguese love poetry.[^10] Love (whether licit or illicit, consummated or aspirational, joyous or painful) is the theme of several of them, as exemplified by the following excerpt from the opening sequence of *Panton Malayo*:[^11]
 
 [...]  
 *Lihat anack tsina  
@@ -125,7 +125,7 @@ To fulfill his wish
 To please you, my lady.
 
 Other texts have a moral undertone, using  
-various rhetoric strategies to reflect on society and human behaviour. The untitled sequence F is one such case. As seen in the excerpt below, the text is both metaphorical and explicit in denouncing the inescapability of social inequalities:12
+various rhetoric strategies to reflect on society and human behaviour. The untitled sequence F is one such case. As seen in the excerpt below, the text is both metaphorical and explicit in denouncing the inescapability of social inequalities:[^12]
 
 [...]  
 *Neem: waka wincha chawalo  <br>
@@ -162,7 +162,7 @@ There the poor do not go.  <br>
 Hence we can see  <br>
 That iron does not turn into copper.<br>
 
-Some sequences have a narrative structure. In addition to the ones that recount historical events, others are (or appear to be) fictional. The sequence titled *Panton Dari Sitie Lela Maijan* – which, as Gijs Koster notes, shows similarities with other pantuns recorded elsewhere – tells the story of a married woman’s extramarital relationship with a young man identified by the name of Kosta, set in a place that may be recognised as the city of Batavia.13 The following section narrates Siti Lela Mayang’s escape to join Kosta:14
+Some sequences have a narrative structure. In addition to the ones that recount historical events, others are (or appear to be) fictional. The sequence titled *Panton Dari Sitie Lela Maijan* – which, as Gijs Koster notes, shows similarities with other pantuns recorded elsewhere – tells the story of a married woman’s extramarital relationship with a young man identified by the name of Kosta, set in a place that may be recognised as the city of Batavia.[^13] The following section narrates Siti Lela Mayang’s escape to join Kosta:[^14]
 
 [...]  
 *ada satoe anack ôrangh  <br>
@@ -197,7 +197,7 @@ He slapped his arms and slapped his legs:  <br>
 “Where is my wife, that heavenly nymph?  <br>
 Has she run off to the stone building of the fathers?<br>
 
-This very short tour of the contents of *Panton Malaijoe dan Portugees* reveals a poetic tradition of some thematic and rhetorical complexity. But whose tradition was it? The multilingual nature of this collection gives us some clues. In theory, different sequences could have been associated with different communities, and it can even be hypothesised that the Malay texts and the Portuguese Creole texts represent distinct traditional repertoires. However, the bilingual sequence G, *Cantiga Malaijoo Mussurado Portigies*, calls these possibilities into question. Consider the following excerpt:15
+This very short tour of the contents of *Panton Malaijoe dan Portugees* reveals a poetic tradition of some thematic and rhetorical complexity. But whose tradition was it? The multilingual nature of this collection gives us some clues. In theory, different sequences could have been associated with different communities, and it can even be hypothesised that the Malay texts and the Portuguese Creole texts represent distinct traditional repertoires. However, the bilingual sequence G, *Cantiga Malaijoo Mussurado Portigies*, calls these possibilities into question. Consider the following excerpt:[^15]
 
 Fos: amor: tanõ: dosu  <br>
 *tieda bole loepa*  <br>
@@ -238,16 +238,15 @@ Due to its centrality within the Dutch-controlled networks in Asia, early coloni
 Portuguese strongholds in different parts of the  
 continent (such as Melaka, Cochin and Ceylon) pass into Dutch hands. As a result, many inhabitants of those conquered locations converged onto Batavia, often in a condition of servitude.
 
-While associated with the Portuguese, these individuals were most likely Eurasian or Asian converts to Catholicism (as suggested by the Dutch moniker *Zwarte Portugesen*, translated as “Black Portuguese”).16 They carried along with them different previously formed Portuguese-lexified creole languages, out of which developed Java’s very own variety recorded in six of the pantuns in the manuscript.17
+While associated with the Portuguese, these individuals were most likely Eurasian or Asian converts to Catholicism (as suggested by the Dutch moniker *Zwarte Portugesen*, translated as “Black Portuguese”).[^16] They carried along with them different previously formed Portuguese-lexified creole languages, out of which developed Java’s very own variety recorded in six of the pantuns in the manuscript.[^17]
 
 As this group of people attained autonomy within the Dutch colonial society, they eventually came to be classified as Mardijkers – an ethnonym derived from the Sanskrit-derived Malay term *merdeka*, which means “free men” – and made up a big portion of the Batavian population. According to accounts from the 1670s, Mardijkers were the largest group within the city.
 
-Throughout the 17th and part of the 18th centuries, “Portuguese” was often described as one of the main languages used in Batavia but, more often than not, the term actually referred to the Portuguese-based creole developed by and associated with the Mardijkers.18 According to most accounts, the Portuguese Creole variety of Java lasted the  
-longest in Tugu (previously a discrete village near Batavia and currently integrated in Greater Jakarta), but is no longer used as a vital spoken language, despite being preserved in certain oral traditions.19 As such, virtually all the linguistic evidence available for this language is archival. *Panton Malaijoe dan Portugees* is thus particularly important as it considerably expands the set of data available for this language.
+Throughout the 17th and part of the 18th centuries, “Portuguese” was often described as one of the main languages used in Batavia but, more often than not, the term actually referred to the Portuguese-based creole developed by and associated with the Mardijkers.[^18] According to most accounts, the Portuguese Creole variety of Java lasted the longest in Tugu (previously a discrete village near Batavia and currently integrated in Greater Jakarta), but is no longer used as a vital spoken language, despite being preserved in certain oral traditions.[^19] As such, virtually all the linguistic evidence available for this language is archival. *Panton Malaijoe dan Portugees* is thus particularly important as it considerably expands the set of data available for this language.
 
 This particular Portuguese Creole is not the only language that *Panton Malaijoe dan Portugees* sheds light on. Assuming that the Malay-language texts of the manuscript stem from the same oral repertoire as the Portuguese Creole ones, this document provides a rare glimpse into the type of Malay – or, at any rate, *a* type of Malay – used by the Mardijker community of Batavia.
 
-In his study, Alexander Adelaar interprets the manuscript’s Malay-language pantun as a sample of Mardijker Malay and identifies a number of commonalities with contact varieties of Malay (known by many different names, including Bazaar Malay [Melayu Pasar], Low Malay or, in the linguistic literature, Vehicular Malay). These include, for instance, a possessive construction with *punya* (as in *kieta poenha nanje*, or “our song”) or a preposition *pigi* indicating the goal of movement (as in *Sieti jalang pigie pasaer*, or “Siti went to the market”).20
+In his study, Alexander Adelaar interprets the manuscript’s Malay-language pantun as a sample of Mardijker Malay and identifies a number of commonalities with contact varieties of Malay (known by many different names, including Bazaar Malay [Melayu Pasar], Low Malay or, in the linguistic literature, Vehicular Malay). These include, for instance, a possessive construction with *punya* (as in *kieta poenha nanje*, or “our song”) or a preposition *pigi* indicating the goal of movement (as in *Sieti jalang pigie pasaer*, or “Siti went to the market”).[^20]
 
 In addition, Adelaar also notes that certain phonetic characteristics of the manuscript’s Malay (such as the loss of the final *-h*, as in *roema* for *rumah*, meaning “house”, and of some final consonants, as in *banja* for *banyak*, meaning “much” or “many”) are especially reminiscent of forms of Vehicular Malay from eastern Indonesia, including in areas such as Maluku and Sulawesi. This observation underscores the relevance of eastern Indonesian communities and their varieties of Malay in colonial Batavia and their impact on the resident Mardijkers.
 
