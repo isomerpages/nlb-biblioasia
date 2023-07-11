@@ -50,9 +50,8 @@ Given the extent of the opposition to making helmets mandatory in Singapore, cre
 
 Subsequently, when the National Safety First Council of Singapore (NSFC) was formed in 1966 to coordinate road safety efforts, Tan was elected its first chairman.[^16] He carried on his campaign to make helmets mandatory, using the council as a platform. In May 1968, the council worked with the government to roll out a three-week-long awareness campaign with the slogan, “A crash helmet can save your life”. The campaign – publicised through television, radio, newspapers, Rediffusion, posters, pamphlets and banners – included an exhibition, a poster competition and a motorcycle procession.[^17]
 
-![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/ch_miltontan.jpg)
-<div style="background-color: white;">Milton Tan (left), chairman of the Automobile Association of Singapore, showing Yang 
-Di-Pertuan Negara Yusof Ishak around the Road Safety Photographic Exhibition at the Victoria Memorial Hall, 1963. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/img4-edited.png)
+<div style="background-color: white;">Milton Tan (left), chairman of the Automobile Association of Singapore, showing Yang Di-Pertuan Negara Yusof Ishak around the Road Safety Photographic Exhibition at the Victoria Memorial Hall, 1963. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
 
 Tan’s education campaign had critics, even among those who backed the idea. People complained that as it was not backed by legislation, it did not have teeth. “A great number of drivers of all kinds in Singapore are fiends who are converting its roads into devils’ highways and you won’t stop them with colourful floats and gentle persuasion,” wrote K.E. Hilborne to the _Straits Times_ in March 1968. “They will only respond to two things: money and force – in a word legislation.”[^18]
 
