@@ -199,21 +199,21 @@ Has she run off to the stone building of the fathers?
 
 This very short tour of the contents of *Panton Malaijoe dan Portugees* reveals a poetic tradition of some thematic and rhetorical complexity. But whose tradition was it? The multilingual nature of this collection gives us some clues. In theory, different sequences could have been associated with different communities, and it can even be hypothesised that the Malay texts and the Portuguese Creole texts represent distinct traditional repertoires. However, the bilingual sequence G, *Cantiga Malaijoo Mussurado Portigies*, calls these possibilities into question. Consider the following excerpt:15
 
-Fos: amor: tanõ: dosu  
-tieda bole loepa  
-jateem nôâ maradoe  
-carna sama soeka.  
+Fos: amor: tanõ: dosu  <br>
+*tieda bole loepa*  <br>
+jateem nôâ maradoe  <br>
+carna sama soeka.  <br>
   
-Jika sama soeka  
-vazu joeramento  
-jngaet nonjha Ingaet  
-de algoúm tromento.  
+*Jika sama soeka*  <br>
+vazu joeramento  <br>
+*jngaet nonjha Ingaet *  <br> 
+de algoúm tromento.  <br>
   
-Jngaet nonjha Jngaet  
-coza de ackel tempo  
-Jangan nonjha takoet  
-de algoum troemento.  
-\[...\]&nbsp;
+*Jngaet nonjha Jngaet*  <br>
+coza de ackel tempo  <br>
+*Jangan nonjha takoet*  <br>
+de algoum troemento. <br>
+[...]
 
 Your love is so sweet  
 I cannot forget it,  
