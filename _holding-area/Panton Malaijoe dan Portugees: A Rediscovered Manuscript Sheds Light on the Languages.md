@@ -10,7 +10,7 @@ description: A forgotten manuscript found in the archive of a Portuguese museum
 By Hugo C. Cardoso
 
 ![](/images/Vol%2019%20Issue%203/5%20Panton/image1.png)
-<div style="background-color: white;">Participants taking part in the crash helmet campaign rally starting from Trade Union House. The rally aimed to create safety awareness among motorcyclists in Singapore, 1968. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+<div style="background-color: white;">The front cover of <i>Panton Malaijoe dan Portugees. Courtesy of Museu Nacional de Arqueologia and Imprensa Nacional Casa da Moeda.</i></div>
 
 *Some time around 1865, in the storeroom of Bernard Quaritch’s antique bookshop in London, an employee rummages through stacks of documents in search of a manuscript to be delivered to Ernst Reinhold Rost, the secretary to the Royal Asiatic Society and a regular client. When the manuscript finally emerges, it does not look particularly distinctive. It is comparatively small in size (21 × 14.5 cm) and length (39 folios), and is encased in rough, undecorated paper bearing an intriguing handwritten title in Malay:* Panton Malaijoe dan Portugees (Malay and Portuguese Pantun). 
 
