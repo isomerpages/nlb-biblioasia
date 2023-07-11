@@ -19,6 +19,15 @@ sections:
       title: Order and Cleanliness
       subtitle: Singapore’s Public Bathhouses of the 1880s
   - infopic:
+      title: Beyond Firewalking
+      subtitle: Podcast
+      description: There’s more to firewalking than the public display of religious
+        devotion.
+      button: Stories behind the rituals.
+      url: /podcast/firewalking/
+      image: /images/Podcast/ba ep7 nalina.jpg
+      alt: Image alt text
+  - infopic:
       title: "Going Against the  Grain: The “Eat More Wheat” Campaign"
       subtitle: Food
       description: The call for Singaporeans to switch from eating rice to eating
@@ -607,13 +616,4 @@ sections:
       url: /videos/from-book-to-cook
       image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
       alt: Singapore’s old recipes
-  - infopic:
-      title: Beyond Firewalking
-      subtitle: Podcast
-      description: "There’s more to firewalking than the public display of religious
-        devotion. "
-      button: Stories behind the rituals.
-      url: "/podcast/firewalking/ "
-      image: /images/Podcast/ba ep7 nalina.jpg
-      alt: Image alt text
 ---
