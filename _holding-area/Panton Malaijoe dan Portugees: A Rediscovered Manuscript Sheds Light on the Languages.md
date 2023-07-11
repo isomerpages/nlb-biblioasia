@@ -107,7 +107,6 @@ Soeda amba casie
 djúwa dengan badangh  
 boehat la canda tie  
 bagi sooka toehan.
-
 \[...\]
 
 Behold the Chinese maiden,  
