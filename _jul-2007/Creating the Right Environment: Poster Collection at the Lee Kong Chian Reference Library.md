@@ -30,7 +30,8 @@ The Board conducted successive public awareness programmes, which stressed the i
 	
 So effective was the campaign in curbing population growth, subsequent campaigns had to be organised to address the problem of negative growth. By the 1980s, decline in population growth necessitated a change in policy. In 1987, inclusive pronatalist policies were implemented to encourage Singaporeans to have more children. The slogan "Have Three or More, If You Can Afford it" became a common catchphrase. Posters like *Children: Life Would be Empty Without Them* promoted the benefits of having children. Recent public awareness programmes have attempted to be less patent in its procreation drive. The appeal for more children is broached through subtler media messages that promote romance, love for children and family life.
 
-<img src="/images/Vol%203%20Issue%202/RightEnvironment/children%20life%20.jpg" style="width:50%;"> <div style="background-color: white;">Children. Life Would Be Empty Without Them. <i>Courtesy of Family Life Education Programme, Ministry of Community Development.</i></div>
+<img src="/images/Vol%203%20Issue%202/RightEnvironment/children%20life%20.jpg" style="width:50%;">
+<div style="background-color: white;">Children. Life Would Be Empty Without Them. <i>Courtesy of Family Life Education Programme, Ministry of Community Development.</i></div>
 
 #### **The 1970s: Creating a Pleasant Physical Environment**
 
