@@ -247,6 +247,9 @@ Here, each quatrain is made up of alternating verses in Malay (transcribed here 
 
 Due to its centrality within the Dutch-controlled networks in Asia, early colonial Batavia had a highly composite population. One of the most prominent groups residing in and around it in the 17th century was given different names, but consistently described in terms that highlighted its connection with the Portuguese. The Portuguese had preceded the Dutch as colonialists in Asia, and competition between the two throughout the 17th century saw several Portuguese strongholds in different parts of the continent (such as Melaka, Cochin and Ceylon) pass into Dutch hands. As a result, many inhabitants of those conquered locations converged onto Batavia, often in a condition of servitude.
 
+![](/images/Vol%2019%20Issue%203/5%20Panton/image6.png)
+<div style="background-color: white;">A Mardijker couple in Batavia. Mardijkers were the descendants of freed slaves of the Portuguese in India, Africa and the Malay Peninsula. They spoke a Portuguese-based creole. <i>Courtesy of Ian Burnet.</i></div>
+
 While associated with the Portuguese, these individuals were most likely Eurasian or Asian converts to Catholicism (as suggested by the Dutch moniker *Zwarte Portugesen*, translated as “Black Portuguese”).[^16] They carried along with them different previously formed Portuguese-lexified creole languages, out of which developed Java’s very own variety recorded in six of the pantuns in the manuscript.[^17]
 
 As this group of people attained autonomy within the Dutch colonial society, they eventually came to be classified as Mardijkers – an ethnonym derived from the Sanskrit-derived Malay term *merdeka*, which means “free men” – and made up a big portion of the Batavian population. According to accounts from the 1670s, Mardijkers were the largest group within the city.
