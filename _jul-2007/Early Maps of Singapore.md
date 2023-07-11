@@ -29,7 +29,6 @@ Possibly only E.G. de Eredia's maps and charts of Singapore and its surrounding 
 
 The 1607 map of de Bry is a double-page chart, measuring 324 x 255mm in size, uncoloured, block-printed on watermarked paper (paper size: 392 x 300rnm). It shows the southern coast of 'Sinca Pora (i.e. Singapore), "Straet van Sinca Pore (Straits of Singapore) and Valsch Sinca Pore (False Straits of Singapore). Other places shown in the map are Pedro Blanca (Pedra Branca), Carimon (Pulau Karimun), Bintam (Pulau Bintang), Oudt lor (Old Johore of Johore Lama), Rio Batasubar (Kota Tinggi River, i.e. Johore River), etc.
 
-![](/images/Vol%203%20Issue%202/EarlyMaps/capture3.jpg)
 <img src="/images/Vol%203%20Issue%202/EarlyMaps/capture3.jpg" style="width:50%;">
  <div style="background-color: white;">Theodore de Bry's<i> "Contrafactur des Scharmutz els der Hollender wider die Portigesen in dem Flus Balusabar</i>..." published in '1607'. The north is 'oriented' towards the left of the map. <i>'Sinca Pora'</i>and <i>'Straet van Sinca Pora'</i> (Straits of Singapore) are clearly marked on the map.</div>
 
@@ -42,9 +41,3 @@ Theodore de Bry (1528–1598) was born in the Flemish town of Liege, near Brusse
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Lai%20Yeen%20Pong.jpg">
 <center><b>Lai Yeen Pong</b><br>Consultant<br> Heritage and Asia<br> National Library</center></div>
-
-
-
-
-
-
