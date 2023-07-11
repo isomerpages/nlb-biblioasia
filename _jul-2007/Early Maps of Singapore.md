@@ -26,5 +26,10 @@ Possibly only E.G. de Eredia's maps and charts of Singapore and its surrounding 
 
 The 1607 map of de Bry is a double-page chart, measuring 324 x 255mm in size, uncoloured, block-printed on watermarked paper (paper size: 392 x 300rnm). It shows the southern coast of 'Sinca Pora (i.e. Singapore), "Straet van Sinca Pore (Straits of Singapore) and Valsch Sinca Pore (False Straits of Singapore). Other places shown in the map are Pedro Blanca (Pedra Branca), Carimon (Pulau Karimun), Bintam (Pulau Bintang), Oudt lor (Old Johore of Johore Lama), Rio Batasubar (Kota Tinggi River, i.e. Johore River), etc.
 
+The map depicts the Dutch-Portuguese naval confrontation in October 1603, on the eastern side of Singapore around the estuary of the Johore River. The Portuguese blockaded Old Johore at the mouth of the Johore River. The Dutch vessels, which gave support to the Sultan of Johore, were engaged in a battle with the Portuguese fleet. The Dutch eventually defeated the Portuguese and crushed its blockade of Johore Lama. The naval vessels are marked from A to O. The Roman numerals at several places in the sea marked the depth of the water. A compass rose is located draw the Carimon island.
+
+Theodore de Bry (1528–1598) was born in the Flemish town of Liege, near Brussels. He was a cartographer, engraver and publisher based in Frankfort am Main. He illustrated the multi-volume set of work, *Grands et Petits Voyages*, with some of the volumes published by his family after his death. The 1607 map depictIng the Dutch-Portuguese naval battle near Singapore was one of the maps included in the set.
+
+
 
 
