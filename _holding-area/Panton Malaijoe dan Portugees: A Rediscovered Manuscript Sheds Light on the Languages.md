@@ -34,7 +34,7 @@ In 1890, Schuchardt published a lengthy article about this particular Portuguese
 
 *Etwa aus derselben Zeit als die Meisterische Probe stammt eine handschriftliche Sammlung malaioportugiesischer und malaiischer Pantuns, die ich schon wegen ihres Umfanges für eine besondere Veröffentlichung aufsparen muss.*4  
   
-[From approximately the same period as Meister’s text, there exists a manuscript collection of Malayo-Portuguese and Malay Pantuns which, in view of its size, I am reserving for a separate publication.]
+[From approximately the same period as Meister’s text, there exists a manuscript collection of Malayo-Portuguese and Malay *Pantuns* which, in view of its size, I am reserving for a separate publication.]
 
 Sadly, this follow-up study never materialised. In the meantime, the manuscript caught the attention of another prominent scholar: the Portuguese doctor, philologist, ethnographer and archaeologist José Leite de Vasconcelos. He was another of Schuchardt’s regular correspondents and the two actually met in 1900 in Graz, where Vasconcelos was given the opportunity to consult the manuscript. He was intrigued by it and, a few years later, asked Schuchardt for a copy of its contents.
 
