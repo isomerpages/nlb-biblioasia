@@ -27,6 +27,9 @@ The Board conducted successive public awareness programmes, which stressed the i
 	
 So effective was the campaign in curbing population growth, subsequent campaigns had to be organised to address the problem of negative growth. By the 1980s, decline in population growth necessitated a change in policy. In 1987, inclusive pronatalist policies were implemented to encourage Singaporeans to have more children. The slogan "Have Three or More, If You Can Afford it" became a common catchphrase. Posters like *Children: Life Would be Empty Without Them* promoted the benefits of having children. Recent public awareness programmes have attempted to be less patent in its procreation drive. The appeal for more children is broached through subtler media messages that promote romance, love for children and family life.
 
+<img src="/images/Vol%203%20Issue%202/RightEnvironment/children%20life%20.jpg" style="width:50%;">
+ <div style="background-color: white;">Children. Life Would Be Empty Without Them. <i>Courtesy of Family Life Education Programme, Ministry of Community Development.</i></div>
+
 #### **The 1970s: Creating a Pleasant Physical Environment**
 
 With the campaign aiming to achieve sustainable population growth in place, the government turned its attention to improving the living conditions of its citizens during the 1970s. Launched on 1 October 1968 by former Prime Minister Lee Kuan Yew, the Keep Singapore Clean campaign was one of the nation's longest running public awareness programmes. At that time, littering was rampant and dogged drains as well as flies were common sights. Also, the Leland was still relying largely on the open refuse and night soil collection system. Even as the government set about to improve the sewage and waste disposal infrastructure, the month-long campaign sought to address the littering habits of Singaporeans by
@@ -100,6 +103,3 @@ Saw Swee-Hock, “Population Control,” in [_The Population of Singapore_](http
 “[Welcome to Campaign Country](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20030525-1.2.53.11),” _Straits Times_, 25 May 2003, 27.29. (From NewspaperSG)
 
 [Whither Poster-ity?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19910804-1.2.50.3.1)” _Straits Times_, 4 August 1991, 1–3. (From NewspaperSG)
-
-
-
