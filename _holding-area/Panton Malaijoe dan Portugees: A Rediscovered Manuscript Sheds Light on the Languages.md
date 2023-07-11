@@ -82,13 +82,13 @@ F - \[untitled\]: Eight stanzas in Portuguese Creole;
 
 G - *Cantiga Malaijoo Mussurado Portigies* (*Malay Song Mixed With Portuguese*): 19 stanzas combining Malay and Portuguese Creole;
 
-H - Cantiga de Portugees Mais Mojeers os Omis Casadoe (Portuguese Song About Married Women and Men): 30 stanzas in Portuguese Creole;
+H - *Cantiga de Portugees Mais Mojeers os Omis Casadoe* (*Portuguese Song About Married Women and Men*): 30 stanzas in Portuguese Creole;
 
-I - Pantoon Malayo Panhiboeran Hati Doeka Dan Piloô (Malay Pantun to Cheer Up the Sad and Melancholic Heart): 18 stanzas in Malay;
+I - *Pantoon Malayo Panhiboeran Hati Doeka Dan Piloô* (*Malay Pantun to Cheer Up the Sad and Melancholic Heart*): 18 stanzas in Malay;
 
-J - Panton Dari Sitie Lela Maijan (Pantun About Siti Lela Mayang): 29 stanzas in Malay; and
+J - *Panton Dari Sitie Lela Maijan* (*Pantun About Siti Lela Mayang*): 29 stanzas in Malay; and
 
-K - Panton Joncker (Jonker Pantun): 30 stanzas in Malay.
+K - *Panton Joncker* (*Jonker Pantun*): 30 stanzas in Malay.
 
 Thematically, these texts are not dissimilar to the wider Southeast Asian genre of the pantun, while simultaneously establishing links with European literary traditions, including chivalric literature and medieval Portuguese love poetry.10 Love (whether licit or illicit, consummated or aspirational, joyous or painful) is the theme of several of them, as exemplified by the following excerpt from the opening sequence of Panton Malayo:11
 
