@@ -68,15 +68,15 @@ It is also unclear whether the people who produced the manuscript were the ones 
 
 *Panton Malaijoe dan Portugees* contains 11 discrete and different-sized sequences of quatrains (identified in our publication with letters A through K for ease of reference), most with their own title and an explicit indication of their endpoint:
 
-A - Panton Malayo (Malay Pantun): 43 stanzas in Malay;
+A - *Panton Malayo* (*Malay Pantun*): 43 stanzas in Malay;
 
-B - Pantoon Malaijoo Naga Patanij (Malay Pantun from Naga Patani): 72 stanzas in Malay;
+B - *Pantoon Malaijoo Naga Patanij* (*Malay Pantun from Naga Patani*): 72 stanzas in Malay;
 
-C - Cantiga de Amooris de Minha Manhonha (Love Song About My Wicked Lady): 76 stanzas in Portuguese Creole;
+C - C*antiga de Amooris de Minha Manhonha* (*Love Song About My Wicked Lady*): 76 stanzas in Portuguese Creole;
 
-D - Cantiga de Tangerang mais Bantam (Song of&nbsp; Tangerang and Banten): 29 stanzas in Portuguese Creole;
+D - *Cantiga de Tangerang mais Bantam* (*Song of&nbsp; Tangerang and Banten*): 29 stanzas in Portuguese Creole;
 
-E - Cantiga di Vooi Cada Noĳto Majinadoo (Song of \[I\] Went Every Night, Pondering): 22 stanzas in Portuguese Creole;
+E - C*antiga di Vooi Cada Noĳto Majinadoo* (Song of \[I\] Went Every Night, Pondering): 22 stanzas in Portuguese Creole;
 
 F - \[untitled\]: Eight stanzas in Portuguese Creole;
 
