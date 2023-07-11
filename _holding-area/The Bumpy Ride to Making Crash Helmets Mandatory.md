@@ -186,7 +186,7 @@ If you look up the Road Traffic Act today, you will encounter long blocks of leg
 
 [^35]: “[Crash Helmet Was Murder Weapon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800726-1.2.87),” _Straits Times_, 26 July 1980, 18. (From NewspaperSG)
 
-[^36]: “[Ban on Visors, But This M-cycist Gave the Law the Slip](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750415-1.2.79),” _Straits Times_, 15 April 1975, 15; “[Malaysia Clamps Down on Those Visors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750419-1.2.48.11),” _Straits Times_, 19 April 1975, 10. (From NewspaperSG)
+[^36]: “[Ban on Visors, But This M-cyclist Gave the Law the Slip](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750415-1.2.79),” _Straits Times_, 15 April 1975, 15; “[Malaysia Clamps Down on Those Visors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750419-1.2.48.11),” _Straits Times_, 19 April 1975, 10. (From NewspaperSG)
 
 [^37]: “[M-cyclists Ask Govt. to Reconsider Decision](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750224-1.2.11.2),” _New Nation_, 24 February 1975, 4. (From NewspaperSG)
 
