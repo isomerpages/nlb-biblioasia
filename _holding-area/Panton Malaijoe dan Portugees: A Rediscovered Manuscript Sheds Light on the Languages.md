@@ -89,3 +89,111 @@ I - Pantoon Malayo Panhiboeran Hati Doeka Dan Piloô (Malay Pantun to Cheer Up t
 J - Panton Dari Sitie Lela Maijan (Pantun About Siti Lela Mayang): 29 stanzas in Malay; and
 
 K - Panton Joncker (Jonker Pantun): 30 stanzas in Malay.
+
+Thematically, these texts are not dissimilar to the wider Southeast Asian genre of the pantun, while simultaneously establishing links with European literary traditions, including chivalric literature and medieval Portuguese love poetry.10 Love (whether licit or illicit, consummated or aspirational, joyous or painful) is the theme of several of them, as exemplified by the following excerpt from the opening sequence of Panton Malayo:11
+
+\[...\]  
+Lihat anack tsina  
+Toehan kie tsilmoele  
+rindo pada dieha  
+makan tida boole.  
+  
+Lihat hanack tsina  
+bagú wida darie  
+roepa bage boenga  
+bangoen la camarie.  
+  
+Soeda amba casie  
+djúwa dengan badangh  
+boehat la canda tie  
+bagi sooka toehan.
+
+\[...\]
+
+Behold the Chinese maiden,  
+The dainty little lady.  
+I long for her,  
+Unable to eat.  
+  
+Behold the Chinese maiden,  
+Beautiful like a heavenly nymph.  
+Pretty like a flower  
+Get up and come here.
+
+Your servant has given  
+Body and soul  
+To fulfill his wish  
+To please you, my lady.
+
+Other texts have a moral undertone, using  
+various rhetoric strategies to reflect on society and human behaviour. The untitled sequence F is one such case. As seen in the excerpt below, the text is both metaphorical and explicit in denouncing the inescapability of social inequalities:12
+
+\[...\]  
+Neem: waka wincha chawalo  
+neem: kawalo wieka waka  
+neem: parang: winca ispada  
+neem: matsado fúka waacha.  
+  
+Neem: coobrie fúeka werro,  
+neem: verro wúka coobriee,  
+âsie sauõ: os: riecoos  
+perra kom õ: homie poobrie.  
+  
+Ônde ā: ô somos: Riko,  
+alie nanõ: bale ôs: pobrie  
+por isso: pode noos: veer  
+que ô: ferro nanõ: fuka coobrie.
+
+\[...\]&nbsp;
+
+  
+
+Neither will the cow turn into a horse  
+Nor will the horse turn into a cow;  
+Neither will the machete turn into a sword,  
+Nor will the axe turn into a knife.  
+  
+Neither will copper turn into iron,  
+Nor will iron turn into copper.  
+So are the rich  
+Towards the poor man.  
+  
+Where the rich are,  
+There the poor do not go.  
+Hence we can see  
+That iron does not turn into copper.
+
+Some sequences have a narrative structure. In addition to the ones that recount historical events, others are (or appear to be) fictional. The sequence titled Panton Dari Sitie Lela Maijan – which, as Gijs Koster notes, shows similarities with other pantuns recorded elsewhere – tells the story of a married woman’s extramarital relationship with a young man identified by the name of Kosta, set in a place that may be recognised as the city of Batavia.13 The following section narrates Siti Lela Mayang’s escape to join Kosta:14
+
+\[...\]  
+ada satoe anack ôrangh  
+nama sitie lela maijangh  
+anak pego baroe datangh  
+goendik tjanko china qúijtangh  
+  
+Poera poera pangeel kaka  
+ambeel gamparang pigie kalie  
+poera poera tjoetjie kakie  
+darie tanga Soeda Larie.  
+  
+Lakie china datang tjarie  
+banting tangan banting kakie  
+mana nonja bida darie  
+nonja lari godong padrie
+
+\[...\]&nbsp;
+
+  
+There was a young maiden  
+Whose name was Siti Lela Mayang.  
+She was a girl from Pegu who had just arrived,  
+The concubine of a Cantonese trader in jewelry.  
+  
+Pretending she went to call her older sister,  
+She took her wooden clogs and went to the river.Pretending she went to wash her feet,  
+She already started running on the stairs.  
+  
+When her Chinese husband came looking for her,  
+He slapped his arms and slapped his legs:  
+“Where is my wife, that heavenly nymph?  
+Has she run off to the stone building of the fathers?
