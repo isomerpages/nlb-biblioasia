@@ -13,6 +13,8 @@ BiblioAsia+ is a podcast about Singapore stories: some unfamiliar, others forgot
 Subscribe to get notified when the next episode drops:
 [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8). 
 
+<img style="width: 50%" src="/images/Podcast/Photos_About/ep%201%20(romusha%20by%20shirlene)v2.jpg" align="left"><br>
+
 **My Grandfather Was a Romusha**<br> 
 After Kosman Hassan volunteered to take his uncle’s place to work on the infamous Death Railway, no one heard from Kosman for three years. But his family never gave up hope.
 <br>([Spotify](https://open.spotify.com/episode/4D67FbUNy43fDHajMH606E),&nbsp;[Apple Podcasts](https://podcasts.apple.com/us/podcast/my-grandfather-was-a-r%C5%8Dmusha/id1688142751?i=1000617459997),&nbsp;[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZDBkYmQyMDItY2UwMy00NzFmLWIwYmEtM2E4ODBmMzE5MWM4?sa=X&amp;ved=0CAUQkfYCahcKEwiIwraqrc__AhUAAAAAHQAAAAAQAQ))<br>
