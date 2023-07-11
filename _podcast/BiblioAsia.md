@@ -71,6 +71,7 @@ Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are com
 
 **15 August: What’s Become of the Seafaring Orang Seletar?**<br>
 The Orang Seletar used to live on boats that plied the Johor Strait. They were here when Raffles landed in 1819. Today, however, they have settled in kampongs in Johore. Some of the older ones still remember playing in the waters around Seletar island, says writer and educator Ilya Katrinnada.
+<img style="width: 35%" src="/images/Podcast/Photos_About/ep%2012%20(orang%20seletar%20by%20ilya)v1.jpg" align="left"><br clear="all">
 
 #### **Credits** ####
 BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to the guests for coming on the show.
