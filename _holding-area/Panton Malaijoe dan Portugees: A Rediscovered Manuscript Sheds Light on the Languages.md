@@ -128,74 +128,74 @@ Other texts have a moral undertone, using
 various rhetoric strategies to reflect on society and human behaviour. The untitled sequence F is one such case. As seen in the excerpt below, the text is both metaphorical and explicit in denouncing the inescapability of social inequalities:12
 
 [...]  
-*Neem: waka wincha chawalo  
-neem: kawalo wieka waka  
-neem: parang: winca ispada  
-neem: matsado fúka waacha.*
+*Neem: waka wincha chawalo  <br>
+neem: kawalo wieka waka  <br>
+neem: parang: winca ispada  <br>
+neem: matsado fúka waacha.*<br>
   
-*Neem: coobrie fúeka werro,  
-neem: verro wúka coobriee,  
-âsie sauõ: os: riecoos  
-perra kom õ: homie poobrie.*
+*Neem: coobrie fúeka werro,  <br>
+neem: verro wúka coobriee,  <br>
+âsie sauõ: os: riecoos  <br>
+perra kom õ: homie poobrie.*<br>
   
-*Ônde ā: ô somos: Riko,  
-alie nanõ: bale ôs: pobrie  
-por isso: pode noos: veer  
+*Ônde ā: ô somos: Riko,  <br>
+alie nanõ: bale ôs: pobrie  <br>
+por isso: pode noos: veer  <br>
 que ô: ferro nanõ: fuka coobrie.*
 <br>
 [...] 
 
   
 
-Neither will the cow turn into a horse  
-Nor will the horse turn into a cow;  
-Neither will the machete turn into a sword,  
-Nor will the axe turn into a knife.  
+Neither will the cow turn into a horse  <br>
+Nor will the horse turn into a cow;  <br>
+Neither will the machete turn into a sword,  <br>
+Nor will the axe turn into a knife.  <br>
   
-Neither will copper turn into iron,  
-Nor will iron turn into copper.  
-So are the rich  
-Towards the poor man.  
+Neither will copper turn into iron,  <br>
+Nor will iron turn into copper.  <br>
+So are the rich  <br>
+Towards the poor man.  <br>
   
-Where the rich are,  
-There the poor do not go.  
-Hence we can see  
-That iron does not turn into copper.
+Where the rich are,  <br>
+There the poor do not go.  <br>
+Hence we can see  <br>
+That iron does not turn into copper.<br>
 
 Some sequences have a narrative structure. In addition to the ones that recount historical events, others are (or appear to be) fictional. The sequence titled *Panton Dari Sitie Lela Maijan* – which, as Gijs Koster notes, shows similarities with other pantuns recorded elsewhere – tells the story of a married woman’s extramarital relationship with a young man identified by the name of Kosta, set in a place that may be recognised as the city of Batavia.13 The following section narrates Siti Lela Mayang’s escape to join Kosta:14
 
 [...]  
-*ada satoe anack ôrangh  
-nama sitie lela maijangh  
-anak pego baroe datangh  
-goendik tjanko china qúijtangh* 
+*ada satoe anack ôrangh  <br>
+nama sitie lela maijangh  <br>
+anak pego baroe datangh  <br>
+goendik tjanko china qúijtangh* <br>
   
-*Poera poera pangeel kaka  
-ambeel gamparang pigie kalie  
-poera poera tjoetjie kakie  
-darie tanga Soeda Larie.*  
+*Poera poera pangeel kaka  <br>
+ambeel gamparang pigie kalie  <br>
+poera poera tjoetjie kakie  <br>
+darie tanga Soeda Larie.*  <br>
   
-*Lakie china datang tjarie  
-banting tangan banting kakie  
-mana nonja bida darie  
-nonja lari godong padrie*
+*Lakie china datang tjarie  <br>
+banting tangan banting kakie  <br>
+mana nonja bida darie  <br>
+nonja lari godong padrie*<br>
 <br>
 [...]  
 
   
-There was a young maiden  
-Whose name was Siti Lela Mayang.  
-She was a girl from Pegu who had just arrived,  
-The concubine of a Cantonese trader in jewelry.  
+There was a young maiden  <br>
+Whose name was Siti Lela Mayang.  <br>
+She was a girl from Pegu who had just arrived,  <br>
+The concubine of a Cantonese trader in jewelry.  <br>
   
-Pretending she went to call her older sister,  
-She took her wooden clogs and went to the river.Pretending she went to wash her feet,  
-She already started running on the stairs.  
+Pretending she went to call her older sister,  <br>
+She took her wooden clogs and went to the river.<br> Pretending she went to wash her feet,  <br>
+She already started running on the stairs.  <br>
   
-When her Chinese husband came looking for her,  
-He slapped his arms and slapped his legs:  
-“Where is my wife, that heavenly nymph?  
-Has she run off to the stone building of the fathers?
+When her Chinese husband came looking for her,  <br>
+He slapped his arms and slapped his legs:  <br>
+“Where is my wife, that heavenly nymph?  <br>
+Has she run off to the stone building of the fathers?<br>
 
 This very short tour of the contents of *Panton Malaijoe dan Portugees* reveals a poetic tradition of some thematic and rhetorical complexity. But whose tradition was it? The multilingual nature of this collection gives us some clues. In theory, different sequences could have been associated with different communities, and it can even be hypothesised that the Malay texts and the Portuguese Creole texts represent distinct traditional repertoires. However, the bilingual sequence G, *Cantiga Malaijoo Mussurado Portigies*, calls these possibilities into question. Consider the following excerpt:15
 
