@@ -7,7 +7,7 @@ description: Comprising more than 4,000 posters from the 1960s, the poster
 ---
 #### Comprising more than 4,000 posters from the 1960s, the poster collection covers a broad spectrum of topics relating to Singapore.
 
-<img src="/images/Vol%203%20Issue%202/RightEnvironment/presentation%205.jpg" style="width:80%;">
+<img src="/images/Vol%203%20Issue%202/RightEnvironment/presentation%205.jpg" style="width:100%;">
  <div style="background-color: white;"></div>
 
 The Library's poster collection comprises largely of national campaign posters. There are also many event and programme-related posters. These posters are in one or more of the four official languages.
