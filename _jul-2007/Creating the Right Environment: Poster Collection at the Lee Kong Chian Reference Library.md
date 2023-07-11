@@ -7,6 +7,9 @@ description: Comprising more than 4,000 posters from the 1960s, the poster
 ---
 #### Comprising more than 4,000 posters from the 1960s, the poster collection covers a broad spectrum of topics relating to Singapore.
 
+<img src="/images/Vol%203%20Issue%202/RightEnvironment/presentation%205.jpg" style="width:80%;">
+ <div style="background-color: white;"></div>
+
 The Library's poster collection comprises largely of national campaign posters. There are also many event and programme-related posters. These posters are in one or more of the four official languages.
 
 #### **National Campaign Posters**
@@ -77,7 +80,6 @@ The cultural and performing arts posters in the Library's collection also shed i
 
 <img src="/images/Vol%203%20Issue%202/RightEnvironment/make%20history.JPG" style="width:50%;">
  <div style="background-color: white;">Make History: Be One Of The First To Ride The MRT.<i> Courtesy of Mass Rapid Transit Corporation.</i></div>
-
 
 #### **Accessing the Collection**
 
