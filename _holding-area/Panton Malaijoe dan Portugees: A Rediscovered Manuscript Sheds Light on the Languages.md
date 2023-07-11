@@ -32,7 +32,7 @@ The correspondence between the two men reveals that Rost sent the manuscript to 
 
 In 1890, Schuchardt published a lengthy article about this particular Portuguese Creole language, titled *Über das Malaioportugiesische von Batavia und Tugu* (*On the Malayo-Portuguese of Batavia and Tugu*), in which he transcribed and analysed all the linguistic data he had collected *except* for that contained in *Panton Malaijoe dan Portugees*. The omission of the manuscript was not an oversight nor a belittlement of its relevance. Quite the opposite, in fact. In his published text, while discussing a dialogue transcribed in a 1692 work by George Meister, Schuchardt remarked:
 
-Etwa aus derselben Zeit als die Meisterische Probe stammt eine handschriftliche Sammlung malaioportugiesischer und malaiischer Pantuns, die ich schon wegen ihres Umfanges für eine besondere Veröffentlichung aufsparen muss.4  
+*Etwa aus derselben Zeit als die Meisterische Probe stammt eine handschriftliche Sammlung malaioportugiesischer und malaiischer Pantuns, die ich schon wegen ihres Umfanges für eine besondere Veröffentlichung aufsparen muss.*4  
   
 [From approximately the same period as Meister’s text, there exists a manuscript collection of Malayo-Portuguese and Malay Pantuns which, in view of its size, I am reserving for a separate publication.]
 
