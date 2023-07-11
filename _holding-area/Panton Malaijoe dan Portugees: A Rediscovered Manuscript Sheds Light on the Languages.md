@@ -106,7 +106,7 @@ bangoen la camarie.
 Soeda amba casie  
 djúwa dengan badangh  
 boehat la canda tie  
-bagi sooka toehan.
+bagi sooka toehan.<br>
 \[...\]
 
 Behold the Chinese maiden,  
@@ -142,8 +142,8 @@ perra kom õ: homie poobrie.
 alie nanõ: bale ôs: pobrie  
 por isso: pode noos: veer  
 que ô: ferro nanõ: fuka coobrie.
-
-\[...\]&nbsp;
+<br>
+\[...\]
 
   
 
@@ -179,8 +179,8 @@ Lakie china datang tjarie
 banting tangan banting kakie  
 mana nonja bida darie  
 nonja lari godong padrie
-
-\[...\]&nbsp;
+<br>
+\[...\]
 
   
 There was a young maiden  
