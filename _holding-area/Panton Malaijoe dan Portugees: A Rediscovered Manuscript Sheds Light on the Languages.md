@@ -196,3 +196,66 @@ When her Chinese husband came looking for her,
 He slapped his arms and slapped his legs:  
 “Where is my wife, that heavenly nymph?  
 Has she run off to the stone building of the fathers?
+
+This very short tour of the contents of Panton Malaijoe dan Portugees reveals a poetic tradition of some thematic and rhetorical complexity. But whose tradition was it? The multilingual nature of this collection gives us some clues. In theory, different sequences could have been associated with different communities, and it can even be hypothesised that the Malay texts and the Portuguese Creole texts represent distinct traditional repertoires. However, the bilingual sequence G, Cantiga Malaijoo Mussurado Portigies, calls these possibilities into question. Consider the following excerpt:15
+
+Fos: amor: tanõ: dosu  
+tieda bole loepa  
+jateem nôâ maradoe  
+carna sama soeka.  
+  
+Jika sama soeka  
+vazu joeramento  
+jngaet nonjha Ingaet  
+de algoúm tromento.  
+  
+Jngaet nonjha Jngaet  
+coza de ackel tempo  
+Jangan nonjha takoet  
+de algoum troemento.  
+\[...\]&nbsp;
+
+Your love is so sweet  
+I cannot forget it,  
+It has tied us together  
+Because we like each other.  
+  
+If we like each other,  
+You must swear an oath,  
+Be mindful, my lady, be mindful  
+Of the suffering \[it may bring\].  
+  
+Be mindful, my lady, be mindful  
+Of the things \[we did\] at that time.  
+My lady, don’t be afraid  
+Of the suffering \[it may bring\].&nbsp;
+
+Here, each quatrain is made up of alternating verses in Malay (transcribed here in italics) and verses in Portuguese Creole, interwoven in such a way that individual sentences, which often extend across several verses, combine both languages. Such a text would only have made sense to a group of people with command of both Malay and Portuguese Creole. In 17th- and 18th-century Batavia, only one community fitted the bill.
+
+#### **The Mardijkers of Batavia**
+
+Due to its centrality within the Dutch-controlled networks in Asia, early colonial Batavia had a highly composite population. One of the most prominent groups residing in and around it in the 17th century was given different names, but consistently described in terms that highlighted its connection with the Portuguese. The Portuguese had preceded the Dutch as colonialists in Asia, and competition between the two throughout the 17th century saw several  
+Portuguese strongholds in different parts of the  
+continent (such as Melaka, Cochin and Ceylon) pass into Dutch hands. As a result, many inhabitants of those conquered locations converged onto Batavia, often in a condition of servitude.&nbsp;
+
+While associated with the Portuguese, these individuals were most likely Eurasian or Asian converts to Catholicism (as suggested by the Dutch moniker Zwarte Portugesen, translated as “Black Portuguese”).16 They carried along with them different previously formed Portuguese-lexified creole languages, out of which developed Java’s very own variety recorded in six of the pantuns in the manuscript.17
+
+As this group of people attained autonomy within the Dutch colonial society, they eventually came to be classified as Mardijkers – an ethnonym derived from the Sanskrit-derived Malay term merdeka, which means “free men” – and made up a big portion of the Batavian population. According to accounts from the 1670s, Mardijkers were the largest group within the city.&nbsp;
+
+Throughout the 17th and part of the 18th centuries, “Portuguese” was often described as one of the main languages used in Batavia but, more often than not, the term actually referred to the Portuguese-based creole developed by and associated with the Mardijkers.18 According to most accounts, the Portuguese Creole variety of Java lasted the  
+longest in Tugu (previously a discrete village near Batavia and currently integrated in Greater Jakarta), but is no longer used as a vital spoken language, despite being preserved in certain oral traditions.19 As such, virtually all the linguistic evidence available for this language is archival. Panton Malaijoe dan Portugees is thus particularly important as it considerably expands the set of data available for this language.
+
+This particular Portuguese Creole is not the only language that Panton Malaijoe dan Portugees sheds light on. Assuming that the Malay-language texts of the manuscript stem from the same oral repertoire as the Portuguese Creole ones, this document provides a rare glimpse into the type of Malay – or, at any rate, a type of Malay – used by the Mardijker community of Batavia.&nbsp;
+
+In his study, Alexander Adelaar interprets the manuscript’s Malay-language pantun as a sample of Mardijker Malay and identifies a number of commonalities with contact varieties of Malay (known by many different names, including Bazaar Malay \[Melayu Pasar\], Low Malay or, in the linguistic literature, Vehicular Malay). These include, for instance, a possessive construction with punya (as in kieta poenha nanje, or “our song”) or a preposition pigi indicating the goal of movement (as in Sieti jalang pigie pasaer, or “Siti went to the market”).20
+
+In addition, Adelaar also notes that certain phonetic characteristics of the manuscript’s Malay (such as the loss of the final -h, as in roema for rumah, meaning “house”, and of some final consonants, as in banja for banyak, meaning “much” or “many”) are especially reminiscent of forms of Vehicular Malay from eastern Indonesia, including in areas such as Maluku and Sulawesi. This observation underscores the relevance of eastern Indonesian communities and their varieties of Malay in colonial Batavia and their impact on the resident Mardijkers.
+
+#### **An Open Book**
+
+Panton Malaijoe dan Portugees has travelled a long way, from Batavia in Asia to Lisbon in Europe, where it is a material reflection of the not-always-obvious historical links connecting Indonesia and Portugal. Its diverse, multilingual texts speak of certain undercurrents that carried people, languages and traditions across coastal Asia but remain poorly understood, as they are only very faintly recorded in primary sources.
+
+The sudden discovery of this manuscript promised to shed some light on the Mardijkers of Batavia and answer some pertinent questions: What was the  
+exact composition of the community and how was it formed? How did the Mardijkers contribute to the cultural and linguistic mix of colonial Batavia? What were their daily lives like and who did they contact within the city? What were their takes on the prevailing social and political structures?
+
+The research leading up to the publication of Livro de Pantuns was an initial effort by the editors to tap into the manuscript’s ability to clarify these and other questions – in particular, from a linguistic and literary perspective. However, aware that its lessons were far from exhausted, the team worked towards making the manuscript available to the public in a format that would allow further exploration. Hopefully, its 39 folios will still teach us a great deal.
