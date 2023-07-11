@@ -30,7 +30,7 @@ After Kosman Hassan volunteered to take his uncle’s place to work on the infam
 The enormous murals at the old Paya Lebar Airport were iconic landmarks for travellers. But after the air force took over the airport, the murals vanished.
 <br>([Spotify](https://open.spotify.com/episode/7Gpzkdqb8ILfsRCTXYsQaj),&nbsp;[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-forgotten-murals-of-paya-lebar-airport/id1688142751?i=1000617459856),&nbsp;[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NGFlZWM5ODYtZWE5Mi00NWIzLTk5MjEtNmQ1MzcwZjg2MDZi?sa=X&amp;ved=0CAcQkfYCahcKEwjQ656Prc__AhUAAAAAHQAAAAAQDA))<br>
 
-<img style="width: 35%" src="/images/Podcast/Photos_About/ep%204%20(belacan%20by%20toffa)-new%20v1.jpg" align="rlght"><br clear="right">
+<img style="width: 35%" src="/images/Podcast/Photos_About/ep%204%20(belacan%20by%20toffa)-new%20v1.jpg" align="rlght"><br clear="left">
 
 **Belacan: Caviar or Vile?**<br>
 Even Munshi Abdullah wasn’t a fan of _belacan._ He referred to it as <i>makanan yang busuk-busuk</i> (smelly food). During the 19th century, people were fined for illegally storing _belacan_ in the city. Toffa Abdul Wahed sniffs out the condiment’s long history. 
