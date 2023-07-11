@@ -162,7 +162,7 @@ There the poor do not go.
 Hence we can see  
 That iron does not turn into copper.
 
-Some sequences have a narrative structure. In addition to the ones that recount historical events, others are (or appear to be) fictional. The sequence titled Panton Dari Sitie Lela Maijan – which, as Gijs Koster notes, shows similarities with other pantuns recorded elsewhere – tells the story of a married woman’s extramarital relationship with a young man identified by the name of Kosta, set in a place that may be recognised as the city of Batavia.13 The following section narrates Siti Lela Mayang’s escape to join Kosta:14
+Some sequences have a narrative structure. In addition to the ones that recount historical events, others are (or appear to be) fictional. The sequence titled *Panton Dari Sitie Lela Maijan* – which, as Gijs Koster notes, shows similarities with other pantuns recorded elsewhere – tells the story of a married woman’s extramarital relationship with a young man identified by the name of Kosta, set in a place that may be recognised as the city of Batavia.13 The following section narrates Siti Lela Mayang’s escape to join Kosta:14
 
 [...]  
 *ada satoe anack ôrangh  
