@@ -171,6 +171,9 @@ There the poor do not go.  <br>
 Hence we can see  <br>
 That iron does not turn into copper.<br>
 
+![](/images/Vol%2019%20Issue%203/5%20Panton/image4.png)
+<div style="background-color: white;"><i>Cantiga Malaijoo Mussurado Portigies</i> (<i>Malay Song Mixed With Portuguese</i>) contains 19 stanzas combining Malay and Portuguese Creole. <i>Image reproduced from Panton Malaijoe dan Portugees. Courtesy of Museu Nacional de Arqueologia and Imprensa Nacional Casa da Moeda.</i></div>
+
 Some sequences have a narrative structure. In addition to the ones that recount historical events, others are (or appear to be) fictional. The sequence titled *Panton Dari Sitie Lela Maijan* – which, as Gijs Koster notes, shows similarities with other pantuns recorded elsewhere – tells the story of a married woman’s extramarital relationship with a young man identified by the name of Kosta, set in a place that may be recognised as the city of Batavia.[^13] The following section narrates Siti Lela Mayang’s escape to join Kosta:[^14]
 
 [...]  
