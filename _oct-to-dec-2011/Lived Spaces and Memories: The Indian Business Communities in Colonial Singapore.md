@@ -2,13 +2,13 @@
 title: "Lived Spaces and Memories: The Indian Business Communities in Colonial
   Singapore"
 permalink: /vol-7/issue-3/oct-dec-2011/singapore-indian-business-communities/
-description: "Visiting Research Fellow Jayati Bhattacharya offers a glimpse into
+description: Visiting Research Fellow Jayati Bhattacharya offers a glimpse into
   the socio-economic networks and exchanges of the Indian business community
   during the colonial era that have formed a strong foundation of present
   bilateral and multilateral interactions in Singapore and Southeast Asia and
-  will continue to do so in the future. "
+  will continue to do so in the future.
 ---
- #### Visiting Research Fellow _Jayati Bhattacharya_ offers a glimpse into the socio-economic networks and exchanges of the Indian business community during the colonial era that have formed a strong foundation of present bilateral and multilateral interactions in Singapore and Southeast Asia and will continue to do so in the future.
+#### Visiting Research Fellow _Jayati Bhattacharya_ offers a glimpse into the socio-economic networks and exchanges of the Indian business community during the colonial era that have formed a strong foundation of present bilateral and multilateral interactions in Singapore and Southeast Asia and will continue to do so in the future.
  
  Most voluntary transnational mobilities have been essentially associated with better economic opportunities articulated through the flows of people, capital and, knowledge. The model of exchanges in labour and capital has been shifted to the present-day transnational global networks and interactions like remittances, commercial networks, investments or philanthropic sponsorships, apart from socio-cultural bonding with the home country. In the changing trajectories of circulation of population, money, goods and information, the dynamics of the players and that of capital may have altered, but their interactions have assumed a significant place in the socioeconomic and political exchanges in the global context. This article will offer a glimpse of these socio-economic networks and exchanges during the colonial era which have formed a strong foundation of the present bi-lateral and multi-lateral interactions in Singapore and Southeast Asia and will continue to do so in the future.
  
@@ -48,12 +48,3 @@ The 1940s created new dynamics in migration from the Indian sub-continent. While
 The changing geo-political dynamism with the decline of colonialism in most of Asia and the subsequent emerging new nation-states with different political ideologies in the latter half of the 20th century brought in economic complexities that ushered in a transition in the composition and the components of trade among the ethnic Indian business communities. Singapore post-1965 brought forth a new trajectory of economic development in Singapore and renewed multi-cultural interactions. New domestic and foreign policies, rapid industrialisation, and urban restructuring brought about changes in architecture of lived-spaces and different dynamics in socioeconomic interactions. The visual images in both High Street and Market Street changed with the replacement of the shop-house structures by modern buildings. However, the Serangoon Road area still maintains most of its old world charm, though it had come a long way from being identified with a cattle rearing area.
 
 The spatial Indian identity and influence in colonial Singapore’s landscape remained as a part of colonial Singapore’s heritage in its multi-ethnic fabric. Although a minority, the Indians remain an important section of the population and continue to play a significant part in the city-state’s socioeconomic expansion in its subsequent years of development to come.
-
-
-
-
-
-
- 
- 
- 
