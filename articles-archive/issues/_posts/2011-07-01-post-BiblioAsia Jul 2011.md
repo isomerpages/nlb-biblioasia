@@ -21,7 +21,7 @@ description: ""
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-2/jul-2011/straits-chinese-magazine-malayan/">The Straits Chinese Magazine: A Malayan Voice</a><br>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-2/jul-2011/leong-yoon-pin-life-work/">耕耘半世纪·执着一辈子: 新加坡的音乐创作推手梁荣平</a><br>
+**耕耘半世纪·执着一辈子: 新加坡的音乐创作推手梁荣平**<br>
 Associate Librarian *Cheng Tee Yin* traces the life and work of the late Leong Yoon Pin and highlights resources on the composer and educator held by the National Library. [(PDF)](/files/pdf/vol-7/issue-2/v7-issue2_Chinese.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-2/jul-2011/masuri-legacy-passion-persistence/">The Masuri S.N. Collection: A Legacy Sown in Passion and Persistence</a><br>
