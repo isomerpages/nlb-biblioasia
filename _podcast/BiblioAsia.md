@@ -47,7 +47,7 @@ Archaeologists have found stone tools in Tanjong Tajam on Pulau Ubin and Tanjong
 **Beyond Firewalking**<br>
 The Hindu firewalking festival – Theemithi – draws massive crowds every year. But less well-known are the many important rituals that precede Theemithi, some very dramatic, like the sacrifice of Aravan, the <i>chakravarti kottai</i> and the <i>padukalam</i>. <br><br>
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%207%20(firewalking%20by%20nalina)v1.jpg" align="left"><br clear="all">
-<br>([Spotify](https://open.spotify.com/episode/5w9yBquKXj0K3RFPDkYx1W?si=U89wLdsIQea3ISeT8yZLpQ&amp;context=spotify%3Ashow%3A66PYiIthr1KqQhJ82XH4DN),&nbsp;[Apple Podcasts](https://podcasts.apple.com/sg/podcast/biblioasia/id1688142751?i=1000620602266),&nbsp;[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZmU5ZDI0ZTUtY2JiZS00NWMzLThlNTItN2U4ZDI0ODg3NjRl?sa=X&amp;ved=0CAUQkfYCahcKEwjYyPGKu4iAAxUAAAAAHQAAAAAQSw)<br>
+<br>([Spotify](https://open.spotify.com/episode/5w9yBquKXj0K3RFPDkYx1W?si=U89wLdsIQea3ISeT8yZLpQ&amp;context=spotify%3Ashow%3A66PYiIthr1KqQhJ82XH4DN),&nbsp;[Apple Podcasts](https://podcasts.apple.com/sg/podcast/biblioasia/id1688142751?i=1000620602266),&nbsp;[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZmU5ZDI0ZTUtY2JiZS00NWMzLThlNTItN2U4ZDI0ODg3NjRl?sa=X&amp;ved=0CAUQkfYCahcKEwjYyPGKu4iAAxUAAAAAHQAAAAAQSw))<br>
 
 **18 July: The Mystery of Sarong Island**<br>
 How can an entire island appear and then disappear? Especially one that was said to be Singapore’s first island resort? Librarian Lim Tin Seng solves the mystery of Sarong Island.<br><br>
