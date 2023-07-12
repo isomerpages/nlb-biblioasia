@@ -5,7 +5,7 @@ description: A grand piano that was to be the pride of Singapore failed to
   silence its critics. The odds, however, were always against it.
 ---
 #### A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it.
-By Bernard T. G. Tan
+By Bernard T.G. Tan
 
 ![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/irene%20kohler.jpg)
 <div style="background-color: white;">British pianist Irene Kohler, who played on the Chappell grand piano, photographed before her recital at the Victoria Memorial Hall, 1956. <i>Marjorie Doggett Collection, courtesy of National Archives of Singapore.</i></div>
@@ -126,7 +126,7 @@ On 7 January 1958, the *Singapore Standard* reported that two Steinway pianos co
 One important concert that took place at the Memorial Hall soon after the Adler concert was a recital on 31 May 1958 by Benno Moiseiwitsch, who had performed in Singapore in July 1933 on the old Steinway. Playing on the new Steinway grand, 
 Moiseiwitsch showed what a truly great romantic pianist he was. “With equal facility he was dramatically decisive in the stark staccato passages and as smooth and as soft as a rose petal in the pianissimo passages,” wrote the *Straits Times*.[^39]
 
-What of the fate of the Chappell after 1958? It can be assumed that the piano was moved as planned to the practice theatre, which was on the second level of the Victoria Memorial Hall, in the space between the Theatre and the Memorial Hall. As its name implies, this was a mini theatre with a stage and a small audience area, used by conductor Choo Hoey and the fledgling Singapore Symphony Orchestra for their initial rehearsals.
+What of the fate of the Chappell after 1958? It can be assumed that the piano was moved as planned to the practice theatre, which was on the second level of the Victoria Memorial Hall, in the space between the Victoria Theatre and the Memorial Hall. As its name implies, this was a mini theatre with a stage and a small audience area, used by conductor Choo Hoey and the fledgling Singapore Symphony Orchestra for their initial rehearsals.
 
 In 1983, the Chappell was moved to the Bukit Merah Branch Library (later renamed Bukit Merah Community Library and subsequently Bukit Merah Public Library) where it stayed for 35 years and was used for musical programmes. When the library closed in 2018, the piano was transferred to the National Archives of Singapore.[^40] In November 2022, the Chappell moved again, this time to the National Library Building on Victoria Street.
 
@@ -141,7 +141,7 @@ The Chappell is currently being repaired and retuned. After it has been given a 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/bernard%20tan.png">
-	<b>Emeritus Professor Bernard T. G. Tan</b>  is a retired professor in physics from the National University of Singapore who also dabbles in music. Some of his compositions have been performed by the Singapore Symphony Orchestra.</div>
+	<b>Emeritus Professor Bernard T.G. Tan</b>  is a retired professor in physics from the National University of Singapore who also dabbles in music. Some of his compositions have been performed by the Singapore Symphony Orchestra.</div>
 
 #### **Notes**
 

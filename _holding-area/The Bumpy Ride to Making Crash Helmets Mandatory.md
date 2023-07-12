@@ -10,7 +10,9 @@ By Sharad Pandian
 ![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/crash_helmet_header.jpg)
 <div style="background-color: white;">Participants taking part in the crash helmet campaign rally starting from Trade Union House. The rally aimed to create safety awareness among motorcyclists in Singapore, 1968. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
-These days, everyone on a motorcycle or scooter wears a crash helmet so we don’t give it a second thought. It might come as a surprise then to learn that until about 50 years ago, wearing a helmet while riding in Singapore was completely voluntary. As one might guess, this also meant that the vast majority of people did not bother with wearing any protective headgear at all. It was only in 1971 that the government passed a law that made helmets mandatory. The run-up to this law saw fierce public debate over the need for such legislation. Opponents of the law marshalled a number of arguments for their cause, ranging from the inconvenience of carrying around a helmet to more abstract concerns about individual liberty. Even after the law’s passing, many did not easily yield to the new order. “I have been happy riding a scooter without a crash helmet for the past 11 years”, wrote a reader to the _Singapore Herald_ in January 1971. But now that the law mandating helmets “was forced on us,” he declared that he would rather get rid of his motorbike rather than wear a helmet.[^1]
+These days, everyone on a motorcycle or scooter wears a crash helmet so we don’t give it a second thought. It might come as a surprise then to learn that until about 50 years ago, wearing a helmet while riding in Singapore was completely voluntary. As one might guess, this also meant that the vast majority of people did not bother with wearing any protective headgear at all. It was only in 1971 that the government passed a law that made helmets mandatory. 
+
+The run-up to this law saw fierce public debate over the need for such legislation. Opponents of the law marshalled a number of arguments for their cause, ranging from the inconvenience of carrying around a helmet to more abstract concerns about individual liberty. Even after the law’s passing, many did not easily yield to the new order. “I have been happy riding a scooter without a crash helmet for the past 11 years”, wrote a reader to the _Singapore Herald_ in January 1971. But now that the law mandating helmets “was forced on us,” he declared that he would rather get rid of his motorbike rather than wear a helmet.[^1]
 
 The push to have mandatory helmets dates back to the 1950s, when groups in Singapore and Malaya began lobbying for such a law following a heated debate in Britain over this issue. In 1941, British neurosurgeon Hugh Cairns – who dedicated his career to studying head injuries suffered by motorcyclists – convinced the British Army to mandate helmets for its riders. When this policy sharply reduced deaths, Cairns came to the conclusion that the universal adoption of crash helmets would “result in considerable saving of life”.[^2]
 
@@ -23,9 +25,9 @@ In 1960, the Automobile Association of Singapore, the Singapore Motor Club, and 
 Some members of the public agreed. Writing to the _Straits Times_ in March 1962, a reader urged the government to force riders to wear helmets. The reader noted that as wages improved and hire purchase options became increasingly available, more and more motorcycles and scooters would end up on the roads, and more deaths and injuries would result if the riders did not have protective headgear.[^7]
 
 ![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/ch_life_on_two_wheels.jpg)
-<div style="background-color: white;">Scooters, which were described as light, manoeuvrable, economical and fashionable, became popular with women in Malaya in the 1960s. <i>Source: Straits Times, 20 May 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">Scooters, which were described as light, manoeuvrable, economical and fashionable, became popular with women in Malaya in the 1960s. <i>Source: The Straits Times, 20 May 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
  
-Apart from the personal cost to individuals and families, the high number of traffic accidents in Singapore in the 1950s and 1960s exacted an economic cost on the young nation as productive workers died or became severely injured. According to a United Nations safety expert, road accidents alone cost Singapore $130.[^8] million in 1970.8 “\[T\]he loss or damage to a productive life is not a mere loss to the individual involved but a loss of a factor of production to the nation,” noted a reader of the _Eastern Sun_ in 1969.[^9]
+Apart from the personal cost to individuals and families, the high number of traffic accidents in Singapore in the 1950s and 1960s exacted an economic cost on the young nation as productive workers died or became severely injured. According to a United Nations safety expert, road accidents alone cost Singapore $130 million in 1970.[^8] “\[T\]he loss or damage to a productive life is not a mere loss to the individual involved but a loss of a factor of production to the nation,” noted a reader of the _Eastern Sun_ in 1969.[^9]
 
 #### **Crash Helmet Woes**
 
@@ -48,9 +50,8 @@ Given the extent of the opposition to making helmets mandatory in Singapore, cre
 
 Subsequently, when the National Safety First Council of Singapore (NSFC) was formed in 1966 to coordinate road safety efforts, Tan was elected its first chairman.[^16] He carried on his campaign to make helmets mandatory, using the council as a platform. In May 1968, the council worked with the government to roll out a three-week-long awareness campaign with the slogan, “A crash helmet can save your life”. The campaign – publicised through television, radio, newspapers, Rediffusion, posters, pamphlets and banners – included an exhibition, a poster competition and a motorcycle procession.[^17]
 
-![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/ch_miltontan.jpg)
-<div style="background-color: white;">Milton Tan (left), chairman of the Automobile Association of Singapore, showing Yang 
-Di-Pertuan Negara Yusof Ishak around the Road Safety Photographic Exhibition at the Victoria Memorial Hall, 1963. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/img4-edited.png)
+<div style="background-color: white;">Milton Tan (left), chairman of the Automobile Association of Singapore, showing Yang Di-Pertuan Negara Yusof Ishak around the Road Safety Photographic Exhibition at the Victoria Memorial Hall, 1963. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
 
 Tan’s education campaign had critics, even among those who backed the idea. People complained that as it was not backed by legislation, it did not have teeth. “A great number of drivers of all kinds in Singapore are fiends who are converting its roads into devils’ highways and you won’t stop them with colourful floats and gentle persuasion,” wrote K.E. Hilborne to the _Straits Times_ in March 1968. “They will only respond to two things: money and force – in a word legislation.”[^18]
 
@@ -97,7 +98,7 @@ Very quickly, helmets went from saving lives to also threatening them. In Decemb
 The ban in Singapore stirred up much debate in the press. In February 1975, a group of 30 motorcyclists appealed to the government to reconsider its ban on helmets with visors. They pointed out that the robbers had been wearing inexpensive full-face helmets not approved by SISIR, and so the government could simply stop the supply of these cheaper helmets. They also suggested banning motorcyclists from wearing helmets when not riding and banning only dark visors. After all, they argued, even without helmets, robbers would simply disguise themselves with sunglasses.[^37]
 
 ![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/ch_visors'.jpg)
-<div style="background-color: white;">Despite the ban on crash helmets with visors in effect from April 1975, some motorcyclists continued to wear them. <i>Source: Straits Times, 15 April 1975 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">Despite the ban on crash helmets with visors in effect from April 1975, some motorcyclists continued to wear them. <i>Source: The Straits Times, 15 April 1975 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 “Singapore takes one pace backwards on road safety,” bemoaned Jim Watkins, motoring editor of the _New Nation_. “It seems ironic, after a month-long safety campaign which succeeded in reducing casualties on the roads, that law and order should be cited as a reason for abandoning the pursuit of maximum safety.” He argued that riding without protecting one’s eyes was “stupidity of the first order” since insects, gravel fragments or grit from lorries could easily cause a loss of control and subsequently accidents.[^38]
 
@@ -138,7 +139,7 @@ If you look up the Road Traffic Act today, you will encounter long blocks of leg
 
 [^12]: H.A.K., “[Case Against Making Helmets a ‘Must’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670304-1.2.100.7),” _Straits Times_, 4 March 1967, 14. (From NewspaperSG)
 
-[^13]: S.T.K., “[Its My Bike or Wife](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701214-1.2.89.7),” _Straits Times_, 14 December 1970, 19. (From NewspaperSG)
+[^13]: S.T.K., “[It's My Bike or Wife](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701214-1.2.89.7),” _Straits Times_, 14 December 1970, 19. (From NewspaperSG)
 
 [^14]: Scooter Girl, “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640104-1.2.84.4),” _Straits Times_, 4 January 1964, 10. (From NewspaperSG)
 
@@ -158,7 +159,7 @@ If you look up the Road Traffic Act today, you will encounter long blocks of leg
 
 [^22]: “[Yong: New Set of Transport Laws](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690802-1.2.39),” _Straits Times_, 2 August 1969, 8. (From NewspaperSG)
 
-[^23]: “[Traffic Advisory Board Planned](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650520-1.2.91),” _Straits Times_, 20 May 1965, 11; “[Traffic Board To Have Twin Roles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650731-1.2.35),” _Straits Times_, 31 July 1965, 5. (From NewspaperSG)
+[^23]: “[Traffic Advisory Board Planned](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650520-1.2.91),” _Straits Times_, 20 May 1965, 11; “[Traffic Board to Have Twin Roles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650731-1.2.35),” _Straits Times_, 31 July 1965, 5. (From NewspaperSG)
 
 [^24]: “[Government to Continue to Encourage M-Cyclists to Wear Crash Helmets](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19681217-1.2.21.21),” _Eastern Sun_,” 17 December 1968, 3. (From NewspaperSG)
 
@@ -184,7 +185,7 @@ If you look up the Road Traffic Act today, you will encounter long blocks of leg
 
 [^35]: “[Crash Helmet Was Murder Weapon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800726-1.2.87),” _Straits Times_, 26 July 1980, 18. (From NewspaperSG)
 
-[^36]: “[Ban on Visors, But This M-cycist Gave the Law the Slip](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750415-1.2.79),” _Straits Times_, 15 April 1975, 15; “[Malaysia Clamps Down on Those Visors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750419-1.2.48.11),” _Straits Times_, 19 April 1975, 10. (From NewspaperSG)
+[^36]: “[Ban on Visors, But This M-cyclist Gave the Law the Slip](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750415-1.2.79),” _Straits Times_, 15 April 1975, 15; “[Malaysia Clamps Down on Those Visors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750419-1.2.48.11),” _Straits Times_, 19 April 1975, 10. (From NewspaperSG)
 
 [^37]: “[M-cyclists Ask Govt. to Reconsider Decision](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750224-1.2.11.2),” _New Nation_, 24 February 1975, 4. (From NewspaperSG)
 
