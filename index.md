@@ -25,7 +25,7 @@ sections:
         an uphill task.
       button: CRASH HELMET SHENANIGANS
       url: /vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/
-      image: /images/Vol 19 Issue 3/4 Crash Helmets/crash_helmet_header.jpg
+      image: /images/Vol 19 Issue 3/4 Crash Helmets/crash helmets homepage.jpg
       alt: Image alt text
   - infopic:
       title: Beyond Firewalking
