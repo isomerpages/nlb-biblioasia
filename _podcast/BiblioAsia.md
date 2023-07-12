@@ -45,32 +45,32 @@ Archaeologists have found stone tools in Tanjong Tajam on Pulau Ubin and Tanjong
 <br>([Spotify](https://open.spotify.com/episode/4HQaaXkCjvSGtOBeoh7m2v),&nbsp;[Apple Podcasts](https://podcasts.apple.com/us/podcast/stone-age-in-singapore/id1688142751?i=1000619152656),&nbsp;[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MGQ0OGNlM2UtOWExMi00ZjI2LTlmYTUtMGU2ODgzNjg2NGQ3?sa=X&amp;ved=0CAUQkfYCahcKEwiA993t6vP_AhUAAAAAHQAAAAAQAQ))<br>
 
 **11 July: Beyond Firewalking**<br>
-The Hindu firewalking festival – Theemithi – draws massive crowds every year. But less well-known are the many important rituals that precede Theemithi, some very dramatic, like the sacrifice of Aravan, the <i>chakravarti kottai</i> and the <i>padukalam</i>. 
+The Hindu firewalking festival – Theemithi – draws massive crowds every year. But less well-known are the many important rituals that precede Theemithi, some very dramatic, like the sacrifice of Aravan, the <i>chakravarti kottai</i> and the <i>padukalam</i>. </p><p>
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%207%20(firewalking%20by%20nalina)v1.jpg" align="left"><br clear="all">
 <br>
 
 **18 July: The Mystery of Sarong Island**<br>
-How can an entire island appear and then disappear? Especially one that was said to be Singapore’s first island resort? Librarian Lim Tin Seng solves the mystery of Sarong Island.
+How can an entire island appear and then disappear? Especially one that was said to be Singapore’s first island resort? Librarian Lim Tin Seng solves the mystery of Sarong Island.</p><p>
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%208%20(sarong%20island%20by%20tinseng)v1.jpg" align="left"><br clear="all">
 <br>
 
 **25 July: The Stories behind the Shrines on Kusu Island**<br>
-People have been worshipping the shrines on Kusu Island since the mid-19th century. The people said to be buried at Kusu Island, however, haven’t always stayed the same, according to writer and researcher William L. Gibson.  
+People have been worshipping the shrines on Kusu Island since the mid-19th century. The people said to be buried at Kusu Island, however, haven’t always stayed the same, according to writer and researcher William L. Gibson.  </p><p>
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%209%20(shrines%20by%20william)v1.jpg" align="left"><br clear="all">
 <br>
 
 **1 August: The Recording Industry in Singapore, 1903 to 1985**<br>
-The Crescendos didn’t just rock the airways in Singapore in the 1960s. They changed the entire music recording industry, says sound archivist Ross Laird.  
+The Crescendos didn’t just rock the airways in Singapore in the 1960s. They changed the entire music recording industry, says sound archivist Ross Laird.  </p><p>
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%2010%20(record%20by%20ross)v1.jpg" align="left"><br clear="all">
 <br>
 
 **8 August: Lest We Forget: Kranji War Cemetery**<br>
-Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Choo Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.
+Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Choo Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.</p><p>
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%2011%20(kranji%20by%20janice)v1.jpg" align="left"><br clear="all">
 <br>
 
 **15 August: What’s Become of the Seafaring Orang Seletar?**<br>
-The Orang Seletar used to live on boats that plied the Johor Strait. They were here when Raffles landed in 1819. Today, however, they have settled in kampongs in Johore. Some of the older ones still remember playing in the waters around Seletar island, says writer and educator Ilya Katrinnada.
+The Orang Seletar used to live on boats that plied the Johor Strait. They were here when Raffles landed in 1819. Today, however, they have settled in kampongs in Johore. Some of the older ones still remember playing in the waters around Seletar island, says writer and educator Ilya Katrinnada.</p><p>
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%2012%20(orang%20seletar%20by%20ilya)v1.jpg" align="left"><br clear="all">
 
 #### **Credits** ####
