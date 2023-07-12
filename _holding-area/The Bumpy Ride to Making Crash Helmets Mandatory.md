@@ -25,9 +25,9 @@ In 1960, the Automobile Association of Singapore, the Singapore Motor Club, and 
 Some members of the public agreed. Writing to the _Straits Times_ in March 1962, a reader urged the government to force riders to wear helmets. The reader noted that as wages improved and hire purchase options became increasingly available, more and more motorcycles and scooters would end up on the roads, and more deaths and injuries would result if the riders did not have protective headgear.[^7]
 
 ![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/ch_life_on_two_wheels.jpg)
-<div style="background-color: white;">Scooters, which were described as light, manoeuvrable, economical and fashionable, became popular with women in Malaya in the 1960s. <i>Source: Straits Times, 20 May 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">Scooters, which were described as light, manoeuvrable, economical and fashionable, became popular with women in Malaya in the 1960s. <i>Source: The Straits Times, 20 May 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
  
-Apart from the personal cost to individuals and families, the high number of traffic accidents in Singapore in the 1950s and 1960s exacted an economic cost on the young nation as productive workers died or became severely injured. According to a United Nations safety expert, road accidents alone cost Singapore $130.[^8] million in 1970.8 “\[T\]he loss or damage to a productive life is not a mere loss to the individual involved but a loss of a factor of production to the nation,” noted a reader of the _Eastern Sun_ in 1969.[^9]
+Apart from the personal cost to individuals and families, the high number of traffic accidents in Singapore in the 1950s and 1960s exacted an economic cost on the young nation as productive workers died or became severely injured. According to a United Nations safety expert, road accidents alone cost Singapore $130 million in 1970.[^8]“\[T\]he loss or damage to a productive life is not a mere loss to the individual involved but a loss of a factor of production to the nation,” noted a reader of the _Eastern Sun_ in 1969.[^9]
 
 #### **Crash Helmet Woes**
 
@@ -98,7 +98,7 @@ Very quickly, helmets went from saving lives to also threatening them. In Decemb
 The ban in Singapore stirred up much debate in the press. In February 1975, a group of 30 motorcyclists appealed to the government to reconsider its ban on helmets with visors. They pointed out that the robbers had been wearing inexpensive full-face helmets not approved by SISIR, and so the government could simply stop the supply of these cheaper helmets. They also suggested banning motorcyclists from wearing helmets when not riding and banning only dark visors. After all, they argued, even without helmets, robbers would simply disguise themselves with sunglasses.[^37]
 
 ![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/ch_visors'.jpg)
-<div style="background-color: white;">Despite the ban on crash helmets with visors in effect from April 1975, some motorcyclists continued to wear them. <i>Source: Straits Times, 15 April 1975 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">Despite the ban on crash helmets with visors in effect from April 1975, some motorcyclists continued to wear them. <i>Source: The Straits Times, 15 April 1975 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 “Singapore takes one pace backwards on road safety,” bemoaned Jim Watkins, motoring editor of the _New Nation_. “It seems ironic, after a month-long safety campaign which succeeded in reducing casualties on the roads, that law and order should be cited as a reason for abandoning the pursuit of maximum safety.” He argued that riding without protecting one’s eyes was “stupidity of the first order” since insects, gravel fragments or grit from lorries could easily cause a loss of control and subsequently accidents.[^38]
 
@@ -139,7 +139,7 @@ If you look up the Road Traffic Act today, you will encounter long blocks of leg
 
 [^12]: H.A.K., “[Case Against Making Helmets a ‘Must’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670304-1.2.100.7),” _Straits Times_, 4 March 1967, 14. (From NewspaperSG)
 
-[^13]: S.T.K., “[Its My Bike or Wife](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701214-1.2.89.7),” _Straits Times_, 14 December 1970, 19. (From NewspaperSG)
+[^13]: S.T.K., “[It's My Bike or Wife](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701214-1.2.89.7),” _Straits Times_, 14 December 1970, 19. (From NewspaperSG)
 
 [^14]: Scooter Girl, “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640104-1.2.84.4),” _Straits Times_, 4 January 1964, 10. (From NewspaperSG)
 
@@ -159,7 +159,7 @@ If you look up the Road Traffic Act today, you will encounter long blocks of leg
 
 [^22]: “[Yong: New Set of Transport Laws](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690802-1.2.39),” _Straits Times_, 2 August 1969, 8. (From NewspaperSG)
 
-[^23]: “[Traffic Advisory Board Planned](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650520-1.2.91),” _Straits Times_, 20 May 1965, 11; “[Traffic Board To Have Twin Roles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650731-1.2.35),” _Straits Times_, 31 July 1965, 5. (From NewspaperSG)
+[^23]: “[Traffic Advisory Board Planned](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650520-1.2.91),” _Straits Times_, 20 May 1965, 11; “[Traffic Board to Have Twin Roles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650731-1.2.35),” _Straits Times_, 31 July 1965, 5. (From NewspaperSG)
 
 [^24]: “[Government to Continue to Encourage M-Cyclists to Wear Crash Helmets](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19681217-1.2.21.21),” _Eastern Sun_,” 17 December 1968, 3. (From NewspaperSG)
 
