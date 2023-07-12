@@ -27,7 +27,7 @@ Some members of the public agreed. Writing to the _Straits Times_ in March 1962,
 ![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/ch_life_on_two_wheels.jpg)
 <div style="background-color: white;">Scooters, which were described as light, manoeuvrable, economical and fashionable, became popular with women in Malaya in the 1960s. <i>Source: The Straits Times, 20 May 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
  
-Apart from the personal cost to individuals and families, the high number of traffic accidents in Singapore in the 1950s and 1960s exacted an economic cost on the young nation as productive workers died or became severely injured. According to a United Nations safety expert, road accidents alone cost Singapore $130 million in 1970.[^8]“\[T\]he loss or damage to a productive life is not a mere loss to the individual involved but a loss of a factor of production to the nation,” noted a reader of the _Eastern Sun_ in 1969.[^9]
+Apart from the personal cost to individuals and families, the high number of traffic accidents in Singapore in the 1950s and 1960s exacted an economic cost on the young nation as productive workers died or became severely injured. According to a United Nations safety expert, road accidents alone cost Singapore $130 million in 1970.[^8] “\[T\]he loss or damage to a productive life is not a mere loss to the individual involved but a loss of a factor of production to the nation,” noted a reader of the _Eastern Sun_ in 1969.[^9]
 
 #### **Crash Helmet Woes**
 
