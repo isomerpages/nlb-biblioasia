@@ -616,4 +616,13 @@ sections:
       url: /videos/from-book-to-cook
       image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
       alt: Singapore’s old recipes
+  - infopic:
+      title: The Bumpy Ride to Making Crash Helmets Mandatory
+      subtitle: Governance
+      description: Crash helmets might save lives but getting people to wear them was
+        an uphill task.
+      button: CRASH HELMET SHENANIGANS
+      url: /vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/
+      image: /images/Vol 19 Issue 3/4 Crash Helmets/crash_helmet_header.jpg
+      alt: Image alt text
 ---
