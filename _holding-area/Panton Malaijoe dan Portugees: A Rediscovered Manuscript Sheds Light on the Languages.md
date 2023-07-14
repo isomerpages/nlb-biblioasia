@@ -217,7 +217,7 @@ carna sama soeka.  <br>
   
 *Jika sama soeka*  <br>
 vazu joeramento  <br>
-*jngaet nonjha Ingaet *  <br> 
+*jngaet nonjha Ingaet*  <br> 
 de algoúm tromento.  <br>
   
 *Jngaet nonjha Jngaet*  <br>
