@@ -27,3 +27,8 @@ Insert table
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
+
+
+Image too large so specify it's width<br>
+<img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden%20mile%201.jpg">
+<div style="background-color: white;text-align:center">From Nicoll Highway, Golden Mile Complex, with its unique stepped terraced design, resembles a giant typewriter, 2023.</div><br>
