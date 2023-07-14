@@ -32,3 +32,8 @@ Insert table
 Image too large so specify it's width<br>
 <img style="width:80%;" src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden%20mile%201.jpg">
 <div style="background-color: white;text-align:center">From Nicoll Highway, Golden Mile Complex, with its unique stepped terraced design, resembles a giant typewriter, 2023.</div><br>
+
+Instead of the usual
+
+![](/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden_mile_complex_3.png)
+<div style="background-color: white;">Golden Mile Complex with its unique stepped terraced design as seen from Nicoll Highway, 2022. The building next to it is Golden Mile Tower. <i>Photo by Darren Soh.</i></div>
