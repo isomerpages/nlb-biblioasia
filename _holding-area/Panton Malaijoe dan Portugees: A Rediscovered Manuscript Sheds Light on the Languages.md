@@ -288,7 +288,7 @@ The research leading up to the publication of *Livro de Pantuns* was an initial 
 
 [^5]: The correspondence between Schuchardt and Vasconcelos is published in Ivo Castro and Enrique Rodrigues-Moura, eds., _Hugo Schuchardt / José Leite de Vasconcellos. Correspondência_ (Bamberg: University of Bamberg Press, 2015), https://fis.uni-bamberg.de/handle/uniba/39832.
 
-[^6]: The discovery was first reported in Ivo Castro, Hugo C. Cardoso, Gijs Koster, Alexander Adelaar and Alan Baxter, “The Lisbon Book of Pantuns,”_ O Arqueólogo Português_ series V, 6/7 (2016–2017): 315–17, https://www.museunacionalarqueologia.gov.pt/wp-content/uploads/Book-of-Pantuns.pdf.
+[^6]: The discovery was first reported in Ivo Castro, Hugo C. Cardoso, Gijs Koster, Alexander Adelaar and Alan Baxter, “The Lisbon Book of Pantuns,” _O Arqueólogo Português_ series V, 6/7 (2016–2017): 315–17, https://www.museunacionalarqueologia.gov.pt/wp-content/uploads/Book-of-Pantuns.pdf.
 
 [^7]: An edition and study of these sources can be found in Philippe Maurer, [_The Former Portuguese Creole of Batavia and Tugu (Indonesia)_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14495821) (London/Colombo: Battlebridge, 2011). (From National Library, Singapore, call no. RSEA 469.79968 MAU). For a linguistic analysis of the Portuguese Creole texts in the manuscript, see Alan Baxter and Hugo C. Cardoso, “The ‘Panton Portugees’ of the Lisbon Manuscript,” in [_Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa,_](https://eservice.nlb.gov.sg/item_holding.aspx?id=206072462) ed. Ivo Castro et al. (Lisbon: Imprensa Nacional, 2022), 115–29.
 
