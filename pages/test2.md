@@ -22,3 +22,9 @@ Insert PDF [Belacan](/files/pdf/Vol%2019/Issue%201/1biblioasia_apr-jun2023-shrim
 
 Insert link [Apr-Jun 23](https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/)<br>
 
+Insert table 
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
