@@ -18,4 +18,7 @@ description: ""
 1. Number point
 2. Number point 2
 
-Insert image![](/images/The%20Singapore%20house.jpg)
+Insert image![](/images/The%20Singapore%20house.jpg)<br>
+ 
+Insert PDF [Belacan](/files/pdf/Vol%2019/Issue%201/1biblioasia_apr-jun2023-shrimp-paste3.pdf)<br>
+
