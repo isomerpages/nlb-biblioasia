@@ -68,5 +68,21 @@ The housing committee met up with the Advisory Committee on the Naming of Roads 
 <li><b>Tung Po Avenue</b> – Named after Su Shi (1037–1101) (also known by his pseudonym Su Tung Po), a poet, essayist, artist and public official who lived during the Song Dynasty.</li>
  </ul><br>	
 	
-	
 </i></i></div>
+
+#### Inserting hyperlink in a Text Box
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br>
+The housing committee met up with the Advisory Committee on the Naming of Roads and Streets and suggested that the roads in Teachers’ Estate be named after poets or people well-known in the education or literary fields.<br><br>
+	
+Hyperlink here: (see coding below)
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4826189"><i>Reclamation at Sentosa Island</i></a><br><br>
+	
+
+	
+	
+****Changing text box size and/or Font size****
+
+<div font-size="larger&quot;" style="background-colour:#fffce7; padding:10px; margin: 0px; font-size:110%; background: #fffce7"><b>Introduction </b><br><br>
+
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br></div></div></div>
