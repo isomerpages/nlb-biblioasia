@@ -98,31 +98,31 @@ K - *Panton Joncker* (*Jonker Pantun*): 30 stanzas in Malay.
 
 Thematically, these texts are not dissimilar to the wider Southeast Asian genre of the pantun, while simultaneously establishing links with European literary traditions, including chivalric literature and medieval Portuguese love poetry.[^10] Love (whether licit or illicit, consummated or aspirational, joyous or painful) is the theme of several of them, as exemplified by the following excerpt from the opening sequence of *Panton Malayo*:[^11]
 
-<table><tbody><tr><td>[...]</td><td>
-</td><td>*Lihat anack tsina </td> 
-<td>Toehan kie tsilmoele</td>   
-<td>rindo pada dieha</td>   
-<td>makan tida boole.*</td></tr><tr></tr></tbody></table><br><br>
-*Lihat hanack tsina  
-bagú wida darie  
-roepa bage boenga  
+[...]
+*Lihat anack tsina<br>
+Toehan kie tsilmoele <br>
+rindo pada dieha<br>
+makan tida boole.*<br><br>
+*Lihat hanack tsina  <br>
+bagú wida darie  <br>
+roepa bage boenga  <br>
 bangoen la camarie.*<br><br>
-*Soeda amba casie  
-djúwa dengan badangh  
-boehat la canda tie  
+*Soeda amba casie  <br>
+djúwa dengan badangh  <br>
+boehat la canda tie  <br>
 bagi sooka toehan.*<br>
-[...] 
-Behold the Chinese maiden,  
-The dainty little lady.  
-I long for her,  
+[...] <br><br>
+Behold the Chinese maiden,  <br>
+The dainty little lady.  <br>
+I long for her,  <br>
 Unable to eat.<br><br>
-Behold the Chinese maiden,  
-Beautiful like a heavenly nymph.  
-Pretty like a flower  
+Behold the Chinese maiden,  <br>
+Beautiful like a heavenly nymph.  <br>
+Pretty like a flower  <br>
 Get up and come here.<br><br>
-Your servant has given  
-Body and soul  
-To fulfill his wish  
+Your servant has given  <br>
+Body and soul  <br>
+To fulfill his wish  <br>
 To please you, my lady.
 
 
