@@ -25,20 +25,21 @@ parameters such as dress, food, the arts, religious and literary activities, and
 of the Baweanese community and sheds light on their social values and aspirations.
 [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_ShairSaudaraBoyan.pdf)
 
-**Women’s Perspectives on Malaya: Isabella Bird on the Chersonese** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/isabella-bird-chersonese-women/">Women’s Perspectives on Malaya: Isabella Bird on the Chersonese</a> <br>
 Senior Librarian *Bonny Tan* takes a closer look at Isabella Bird’s book *The Golden Chersonese*, which captures her travels through Malaya. [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_WomenPerspective.pdf)
 
-**Sastera Melayu Singapura Pasca 1965** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/singapura-sastera-melayu-pasca/">Sastera Melayu Singapura Pasca 1965</a> <br>
 Librarian *Juffri bin Supa’at* examines the growth and development of Singapore Malay Literature after 1965. [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_SasteraMelayu.pdf)
 
-**新加坡华文文学的 滥觞与进程: 馆藏华文文学史料选介** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/chinese-literature-historical-material/">新加坡华文文学的 滥觞与进程: 馆藏华文文学史料选介
+</a> <br>
 Associate Librarian *Cheng Tee Yin* highlights some of the significant works from the Singapore Chinese Literature Collection.[(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_ChineseLiterature.pdf)
 
 **சிங்கப்பூர்த் தேசிய நூலகத்தின் அரிய நூல்த் தொகுப்பு** <br>
 Librarian *Sundari Bala* spotlights rare Tamil materials found in the Rare Materials Collection at the National Library. [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_TamilRareMaterials.pdf)
 
-**Keeping Memories Alive: Reflection on the “When Nations Remember” Conference** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/memories-alive-reflection/">Keeping Memories Alive: Reflection on the “When Nations Remember” Conference</a> <br>
 Senior Library *Gracie Lee* shares her reflections on “When Nations Remember”, a two-day international conference on national memory and its preservation, display and access held in October 2009. [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_MemoriesAlive.pdf)
 
-**青年书局与新加坡国家图书馆 签署数字化合作协议书** <br>
-In September 2010, the National Library Board and The Youth Book Company (TYBC) signed a Memorandum of Understanding to digitise all TYBC publications — both past and future — and make them available for public access on the web. Consultant *Lai Yeen Pong* shares more. [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_YouthBookCompany.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/youth-book-memorandum-understanding/">青年书局与新加坡国家图书馆 签署数字化合作协议书</a> <br>
+	In September 2010, the National Library Board and The Youth Book Company (TYBC) signed a Memorandum of Understanding to digitise all TYBC publications — both past and future — and make them available for public access on the web. Consultant *Lai Yeen Pong* shares more. [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_YouthBookCompany.pdf)

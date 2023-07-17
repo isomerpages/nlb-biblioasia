@@ -1,10 +1,10 @@
 ---
-title: "Panton Malaijoe dan Portugees: A Rediscovered Manuscript Sheds Light on
-  the Languages"
+title: "Panton Malaijoe dan Portugees: A Rediscovered Manuscript"
 permalink: /holding-area/test-panton/
 description: A forgotten manuscript found in the archive of a Portuguese museum
   offers an insight into the languages and traditions of a unique community in
   the Dutch East Indies.
+image: /images/Vol 19 Issue 3/5 Panton/image1.png
 ---
 #### A forgotten manuscript found in the archive of a Portuguese museum offers insights into the languages and traditions of a unique community in the Dutch East Indies.  
 By Hugo C. Cardoso
@@ -47,7 +47,7 @@ As we gather from their correspondence, this request was not well received by Sc
 
 Vasconcelos was a leading figure in Portugal’s academic scene of the early 20th century, developing fundamental research and many initiatives that still resonate in the country to this day. One of these was the establishment in 1893 of the Museu Etnológico Português (Portuguese Ethnological Museum), the predecessor of the modern Museu Nacional de Arqueologia (MNA). Vasconcelos was the director of the museum for many decades, which explains why the MNA’s archive now holds part of his personal archive – a large collection of publications, letters, fieldwork documents and manuscripts.
 
-One of those manuscripts is *Panton Malaijoe dan Portugees*, but this was not confirmed until 2018 when Ivo Castro, a fellow professor at the University of Lisbon, and the MNA’s librarian, Lívia Coito, stumbled across it while rifling through a number of boxes in the archive.[^6] Aware of the history of the manuscript and of its scientific value, Castro shared the news with me and we invited three other specialists – Alan Baxter, Alexander Adelaar and Gijs Koster – to collaborate in a comprehensive study of the manuscript. Over the following three to four years, the team worked jointly and finally published *Livro de Pantuns* = *Book of Pantuns*, a bilingual (Portuguese and English) book dedicated to the manuscript.
+One of those manuscripts is *Panton Malaijoe dan Portugees*, but this was not confirmed until 2018 when Ivo Castro, a fellow professor at the University of Lisbon, and the MNA’s librarian, Lívia Coito, stumbled across it while rifling through a number of boxes in the archive.[^6] Aware of the history of the manuscript and of its scientific value, Castro shared the news with me and we invited three other specialists – Alan Baxter, Alexander Adelaar and Gijs Koster – to collaborate in a comprehensive study of the manuscript. Over the following three to four years, the team worked jointly and finally published *Livro de Pantuns* (*Book of Pantuns*), a bilingual (Portuguese and English) book dedicated to the manuscript.
 
 ![](/images/Vol%2019%20Issue%203/5%20Panton/image3.png)
 <div style="background-color: white;">Ivo Castro, Hugo C. Cardoso, Alan Baxter, Alexander Adelaar and Gijs Koster, eds., <i>Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa | Book of Pantuns: An Asian Manuscript of the National Museum of Archeology, Lisbon</i> (Lisbon: Imprensa Nacional, 2022). (From National Library, Singapore, call no. RSEA 899.281 CAS). </div>
@@ -98,43 +98,38 @@ K - *Panton Joncker* (*Jonker Pantun*): 30 stanzas in Malay.
 
 Thematically, these texts are not dissimilar to the wider Southeast Asian genre of the pantun, while simultaneously establishing links with European literary traditions, including chivalric literature and medieval Portuguese love poetry.[^10] Love (whether licit or illicit, consummated or aspirational, joyous or painful) is the theme of several of them, as exemplified by the following excerpt from the opening sequence of *Panton Malayo*:[^11]
 
-[...]  
-*Lihat anack tsina  
-Toehan kie tsilmoele  
-rindo pada dieha  
-makan tida boole.*
-  
-*Lihat hanack tsina  
-bagú wida darie  
-roepa bage boenga  
-bangoen la camarie.*
-  
-*Soeda amba casie  
-djúwa dengan badangh  
-boehat la canda tie  
-bagi sooka toehan.*<br>
 [...]
-
-Behold the Chinese maiden,  
-The dainty little lady.  
-I long for her,  
-Unable to eat.  
-  
-Behold the Chinese maiden,  
-Beautiful like a heavenly nymph.  
-Pretty like a flower  
-Get up and come here.
-
-Your servant has given  
-Body and soul  
-To fulfill his wish  
+*Lihat anack tsina<br>
+Toehan kie tsilmoele <br>
+rindo pada dieha<br>
+makan tida boole.*<br><br>
+*Lihat hanack tsina  <br>
+bagú wida darie  <br>
+roepa bage boenga  <br>
+bangoen la camarie.*<br><br>
+*Soeda amba casie  <br>
+djúwa dengan badangh  <br>
+boehat la canda tie  <br>
+bagi sooka toehan.*<br>
+[...] <br><br>
+Behold the Chinese maiden,  <br>
+The dainty little lady.  <br>
+I long for her,  <br>
+Unable to eat.<br><br>
+Behold the Chinese maiden,  <br>
+Beautiful like a heavenly nymph.  <br>
+Pretty like a flower  <br>
+Get up and come here.<br><br>
+Your servant has given  <br>
+Body and soul  <br>
+To fulfill his wish  <br>
 To please you, my lady.
+
 
 ![](/images/Vol%2019%20Issue%203/5%20Panton/image5.png)
 <div style="background-color: white;"><i>Panton Malayo</i> (<i>Malay Pantun</i>) has 43 stanzas in Malay. <i>Image reproduced from Panton Malaijoe dan Portugees. Courtesy of Museu Nacional de Arqueologia and Imprensa Nacional Casa da Moeda.</i></div>
 
-Other texts have a moral undertone, using  
-various rhetoric strategies to reflect on society and human behaviour. The untitled sequence F is one such case. As seen in the excerpt below, the text is both metaphorical and explicit in denouncing the inescapability of social inequalities:[^12]
+Other texts have a moral undertone, using various rhetoric strategies to reflect on society and human behaviour. The untitled sequence F is one such case. As seen in the excerpt below, the text is both metaphorical and explicit in denouncing the inescapability of social inequalities:[^12]
 
 [...]  
 *Neem: waka wincha chawalo  <br>
@@ -266,8 +261,7 @@ In addition, Adelaar also notes that certain phonetic characteristics of the man
 
 *Panton Malaijoe dan Portugees* has travelled a long way, from Batavia in Asia to Lisbon in Europe, where it is a material reflection of the not-always-obvious historical links connecting Indonesia and Portugal. Its diverse, multilingual texts speak of certain undercurrents that carried people, languages and traditions across coastal Asia but remain poorly understood, as they are only very faintly recorded in primary sources.
 
-The sudden discovery of this manuscript promised to shed some light on the Mardijkers of Batavia and answer some pertinent questions: What was the  
-exact composition of the community and how was it formed? How did the Mardijkers contribute to the cultural and linguistic mix of colonial Batavia? What were their daily lives like and who did they contact within the city? What were their takes on the prevailing social and political structures?
+The sudden discovery of this manuscript promised to shed some light on the Mardijkers of Batavia and answer some pertinent questions: What was the exact composition of the community and how was it formed? How did the Mardijkers contribute to the cultural and linguistic mix of colonial Batavia? What were their daily lives like and who did they contact within the city? What were their takes on the prevailing social and political structures?
 
 The research leading up to the publication of *Livro de Pantuns* was an initial effort by the editors to tap into the manuscript’s ability to clarify these and other questions – in particular, from a linguistic and literary perspective. However, aware that its lessons were far from exhausted, the team worked towards making the manuscript available to the public in a format that would allow further exploration. Hopefully, its 39 folios will still teach us a great deal.
 
