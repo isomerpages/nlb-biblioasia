@@ -4,7 +4,7 @@ permalink: /vol-7/issue-1/apr-2011/crossing-borders-connecting-ideas/
 description: Research Associate Yee Yeong Chong presents what was shared at the
   3rd Taiwan-Singapore-Thailand Workshop on Library and Information Research.
 ---
-#### Research Associate _Yee Yeong Chong_ presents what was shared at the 3rd Taiwan-Singapore-Thailand Workshop on Library and Information Research.
+#### Research Associate&nbsp;_Yee Yeong Chong_&nbsp;presents what was shared at the 3rd Taiwan-Singapore-Thailand Workshop on Library and Information Research.
 
 <img style="width:100%;" src="/images/Vol%207%20Issue%201/CrossingBorders/xing%20borders_maybe%20two%20pg.jpg">
  <div style="background-color: white;">Beyond intellectual debate, intercultural exchange is also important in building collaborative capacities for the advancement of LIS research in the region.
@@ -19,7 +19,7 @@ As a public institution committed to fostering vibrant learning communities, NLB
 
 #### **Reading, e-Learning and Education**
 
-Notable presentations included three separate analyses of inter-generational reading habits by Sujin Butdisuwan (Mahasarakham University), and two other research teams from Nanyang Technological University and Khon Kaen University. The use of other knowledge transmission mechanisms such as e-learning and social media tools as engines for the knowledge economy, were also discussed. In particular, the papers by Christopher Khoo & Chang YunKe (NTU) on digital repository of learning objects, as well as Cha-Fei Hung’s (National Taiwan Normal University) evaluation of open courseware usage by the university’s students. The world’s most popular social networking website, Facebook, was also the subject of inquiry in two different papers — one by Tranakchit Mangkang (Mahasarakham University), and the other by KungYing Lee (National Taiwan Normal University) — which discussed the evolution of pedagogy in Thai classrooms and the changing landscape of library services vis-à-vis social media respectively.
+Notable presentations included three separate analyses of inter-generational reading habits by Sujin Butdisuwan (Mahasarakham University), and two other research teams from Nanyang Technological University and Khon Kaen University. The use of other knowledge transmission mechanisms such as e-learning and social media tools as engines for the knowledge economy, were also discussed. In particular, the papers by Christopher Khoo &amp; Chang YunKe (NTU) on digital repository of learning objects, as well as Cha-Fei Hung’s (National Taiwan Normal University) evaluation of open courseware usage by the university’s students. The world’s most popular social networking website, Facebook, was also the subject of inquiry in two different papers — one by Tranakchit Mangkang (Mahasarakham University), and the other by KungYing Lee (National Taiwan Normal University) — which discussed the evolution of pedagogy in Thai classrooms and the changing landscape of library services vis-à-vis social media respectively.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/CrossingBorders/DSC_0252.jpg">
  <div style="background-color: white;">Academics and librarians sharing their thoughts and experiences on initiatives to promote reading in Asia.</div>
@@ -49,11 +49,9 @@ The diversity of positions has traditionally been recognised as the hallmark of 
 At the networking dinner following the first day’s proceedings, the Pod at the National Library was transformed into a pastiche of song, dance and musical performances as some delegates and members of the academic community took to the stage, while others enjoyed dinner and the panoramic view of the Singapore cityscape. With new friendships forged and old ones strengthened, the 3rd Taiwan-Singapore-Thailand Workshop renewed my confidence that the next such event would yield even greater collaborative results in the burgeoning field of Southeast Asian LIS research.
 
 To view paper abstracts and the workshop proceedings, Log on to <a href="ideapolis.sg">ideapolis.sg</a>. 
-</div>
-
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/P1110022.jpg" style="width: 100px; height: 100px;"/>
-<center><b>Yee Yeong Chong</b><br>Research Associate<br> Government & Business Information Services<br> National Library</center> </div>
+<br>
+<img src="/images/Authors/Yong%20Chong.jpg" style="width: 100px; height: 100px;">
+<center><b>Yee Yeong Chong</b><br>Research Associate<br> Government &amp; Business Information Services<br> National Library</center> </div>
