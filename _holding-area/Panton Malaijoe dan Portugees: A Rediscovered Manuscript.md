@@ -265,8 +265,7 @@ In addition, Adelaar also notes that certain phonetic characteristics of the man
 
 *Panton Malaijoe dan Portugees* has travelled a long way, from Batavia in Asia to Lisbon in Europe, where it is a material reflection of the not-always-obvious historical links connecting Indonesia and Portugal. Its diverse, multilingual texts speak of certain undercurrents that carried people, languages and traditions across coastal Asia but remain poorly understood, as they are only very faintly recorded in primary sources.
 
-The sudden discovery of this manuscript promised to shed some light on the Mardijkers of Batavia and answer some pertinent questions: What was the  
-exact composition of the community and how was it formed? How did the Mardijkers contribute to the cultural and linguistic mix of colonial Batavia? What were their daily lives like and who did they contact within the city? What were their takes on the prevailing social and political structures?
+The sudden discovery of this manuscript promised to shed some light on the Mardijkers of Batavia and answer some pertinent questions: What was the exact composition of the community and how was it formed? How did the Mardijkers contribute to the cultural and linguistic mix of colonial Batavia? What were their daily lives like and who did they contact within the city? What were their takes on the prevailing social and political structures?
 
 The research leading up to the publication of *Livro de Pantuns* was an initial effort by the editors to tap into the manuscript’s ability to clarify these and other questions – in particular, from a linguistic and literary perspective. However, aware that its lessons were far from exhausted, the team worked towards making the manuscript available to the public in a format that would allow further exploration. Hopefully, its 39 folios will still teach us a great deal.
 
