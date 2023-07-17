@@ -27,10 +27,10 @@ brings any good<br>The question
 persists, and this picture was made<br> 
 (Chen, 2010/Trans. Yeo, 2011)
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%201/Chen%20Chong%20Swee_%20Southern%20Islanders.jpg">
- <div style="background-color: white;">Chen Chong Swee, <i>Southern Islanders.</i> 1970. Chinese ink and colour on paper. 70 x 94 cm. Private collection.
+<img src="/images/Vol%207%20Issue%201/DryingFish/Chen%20Chong%20Swee_%20Southern%20Islanders.jpg" style="width:80%;">
+ <div style="background-color: white;">Chen Chong Swee, <i>Southern Islanders.</i> 1970. Chinese ink and colour on paper. 70 x 94 cm.<i> Private collection.</i>
 </div>
-
+	
 In another painting, *Fishing Village* (1981), the title in Chinese literally translates as “Happy Fishing Picture”; the first two characters “渔乐” （*yule*） have the same sound as the characters for recreation “娱乐”, a pun expressing Chen Chong Swee’s appreciation of the leisurely and relaxed pace of life in Kota Bahru. In the foreground fishes are laid out to dry.
 
 <img style="width:50%;" src="/images/Vol%207%20Issue%201/Chen%20Chong%20Swee_Fishing%20Village.jpg">
