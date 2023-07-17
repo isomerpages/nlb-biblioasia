@@ -56,7 +56,7 @@ Such was the state of the theatres catering to local entertainment that when The
 
 #### **Theatre Royal**
 
-<img src="/images/Vol-15-issue-4//theatres-of-bangsawan/cks.JPG" style="width: 300px; height: 300px;">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/cks.JPG" style="width: 300px; height: 300px;">
 <div style="background-color: white;">Cheong Koon Seng opened Theatre Royal in 1908.<i> Image reproduced from Geni.com</i></div>
 
 Located at the site now occupied by Raffles Hospital, Theatre Royal is believed to be the first “permanent” theatre for the so-called “native” form of entertainment.[^18] It was described as a “most substantial edifice of brick, iron and stone, with seating accommodation for about 1,300 people”.[^19]
@@ -78,8 +78,7 @@ The opening of Theatre Royal heralded the golden age of *bangsawan* in Singapore
 
 The increased demand for *bangsawan* also led to more venues for the performances. New theatres were mentioned in the papers, such as Beyrouth Theatre, which opened in 1921 opposite Geylang Police Station on Geylang Road. Beyrouth was home to Nahar Opera, a large *bangsawan* troupe comprising some 90 performers and 28 musicians.[^26]
 
-<img style="width: 450px; height: 300px;"
-src="/images/Vol-15-issue-4/theatres-of-bangsawan/bang2.JPG">
+<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/theatres-of-bangsawan/bang2.JPG">
 <div style="background-color: white;">Great World amusement park bounded by Kim Seng, River Valley and Zion roads, 1950s. It was the venue of regular bangsawan performances. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Amusement parks such as Great World in River Valley and Happy Valley in Tanjong Pagar also hosted regular *bangsawan* programmes. Zubir Said, composer of *Majulah Singapura*, the national anthem of Singapore, started out as a musician in the City Opera *bangsawan* troupe based in Happy Valley after arriving in Singapore in 1928. He recalled that the hall, as big as Victoria Theatre, was specially built for the performances, and that there were also living quarters on the park grounds for *bangsawan performers*.[^27]
@@ -147,7 +146,7 @@ Stories in <i>bangsawan</i> theatre were usually adapted from the<i>Sejarah Mela
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-15-issue-4//theatres-of-bangsawan/Tan%20Chui%20Huax.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/Tan%20Chui%20Huax.jpg" style="width: 100px; height: 100px;">
 <b>Tan Chui Hua</b>
 Researcher and writer Tan Chui Hua has worked on various projects documenting the heritage of Singapore, including a number of heritage trails and publications.
 </div>
