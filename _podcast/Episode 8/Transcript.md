@@ -285,11 +285,10 @@ Tin Seng <br>
 She's amazing. She's so good that she was published in Nat Geo magazine. And if you look through the newspaper articles on her photographs, you can see that everyone was just praising and praising her.
 
 Jimmy <br>
-Well, I'm really glad that BiblioAsia had a chance to publish your article and publish all the photos about Sarong Island and about Christina Lee. I just want to thank you once again, Tin Seng, for joining us. And we look forward to reading about your unnamed house and about Canberra House in issues to come. Thank you very much, Tin Seng. 
+Well, I'm really glad that BiblioAsia had a chance to publish your article and publish all the photos about [Sarong Island](/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/) and about Christina Lee. I just want to thank you once again, Tin Seng, for joining us. And we look forward to reading about your unnamed house and about Canberra House in issues to come. Thank you very much, Tin Seng. 
 
 Tin Seng <br>
 You're welcome. 
 
 Jimmy <br>
 If you've enjoyed this episode, [subscribe to the podcast]( https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) and [BiblioAsia newsletter]( https://form.gov.sg/616799db4d9b61001398f79b). Thank you for joining me on BiblioAsia+.
-
