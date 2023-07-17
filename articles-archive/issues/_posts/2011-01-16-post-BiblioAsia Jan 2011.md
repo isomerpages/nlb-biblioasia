@@ -7,10 +7,11 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba6-4.jpg)
 
-**Director’s Column**
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/director-column/">Director's Column</a>			 
 
-**Asian Confluence: Challenging Perceptions of European Hegemony in the Histories of Singapore and Modern Science** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/asian-confluence-history-science/">Asian Confluence: Challenging Perceptions of European Hegemony in the Histories of Singapore and Modern ScienceDirector's Column</a> <br>
 Visiting Senior Research Fellow at the Institute of Southeast Asian Studies Dr *Arun Bala* writes that recent studies have questioned the Eurocentric understanding of Singapore society and the science that drives it. These new approaches may be characterised as dialogical in contrast to traditional Eurocentric perspectives, suggesting that a confluence of different Eastern cultures, along with the Western tradition, gave birth to the Singapore and modern science that we know today.[(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_AsianConfluence.pdf)
+
 
 **The Case of Tras New Village and the Assasination of Henry Gurney During the Malayan Emergency** <br>
 Lee Kong Chian Research Fellow *Tan Teng Phee* examines the circumstances of the Tras New Village, the consequences borne by the community as a result of the assassination and its repercussions. [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_HenryGurney.pdf)
