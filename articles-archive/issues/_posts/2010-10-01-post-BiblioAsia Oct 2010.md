@@ -30,13 +30,11 @@ Senior Librarian *Bonny Tan* examines the *Willis’ Singapore Guide*, an early 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/brunei-malaysia-singapore-berita-treasury/">The Berita Database: An Online Treasury on Brunei, Malaysia and Singapore)</a><br>
 *Jeffrey L. Ferrier*, a curator at the Ohio University Libraries, introduces the Berita Database managed by the staff at Ohio University. [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_BeritaDatabase.pdf)
 
-
-
-**Business and Personal Credit Advisory Services at the National Library** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-3/oct-2010/national-library-business-credit-advisory/">Business and Personal Credit Advisory Services at the National Library</a><br>
 Newly launched at the National Library are business and personal credit advisory services offered by the National Library Board in partnership with DP Bureau Pte Ltd and Credit Bureau Singapore Pte Ltd. Senior Research Associate *Ronnie Tan* explains. [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CreditAdvisory.pdf)
 
-**方修: 新加坡文艺先驱的光辉** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-3/oct-2010/fang-xiu-literary-pioneer/">方修: 新加坡文艺先驱的光辉</a><br>
 Assistant Director *Law Lin Mui* writes about Singapore literary pioneer Fang Xiu and a commemorative public forum held on 23 May 2010 jointly organised by the National Library Board and the Tropical Literature &amp; Art Club in recognition of Fang Xiu's achievements and contributions. [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_FangXiu.pdf)
 
-**A Passion for Communication: Investigations into Different Cultures and Media** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-3/oct-2010/culture-media-communication/">A Passion for Communication: Investigations into Different Cultures and Media</a><br>
 Lee Kong Chian Research Fellow *Ross Laird* shares his interests, experiences and what he hopes to achieve as a Lee Kong Chian Research Fellow.[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CulturesMedia.pdf)
