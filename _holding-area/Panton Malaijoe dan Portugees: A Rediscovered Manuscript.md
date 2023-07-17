@@ -111,7 +111,7 @@ bangoen la camarie.*<br><br>
 djúwa dengan badangh  
 boehat la canda tie  
 bagi sooka toehan.*<br>
-[...]| Behold the Chinese maiden,  
+[...] | Behold the Chinese maiden,  
 The dainty little lady.  
 I long for her,  
 Unable to eat.<br><br>
