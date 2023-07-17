@@ -6,8 +6,6 @@ description: Librarian Lim Tin Seng rediscovers Singapore’s first island resor
   Island is now.
 third_nav_title: Episode 8
 ---
-### Coming on 18 July
-
 Librarian Lim Tin Seng rediscovers Singapore’s first island resort getaway and solves various mysterious surrounding it, including where Sarong Island is now.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/M-XFggJcMpI" height="315" width="560"></iframe>
