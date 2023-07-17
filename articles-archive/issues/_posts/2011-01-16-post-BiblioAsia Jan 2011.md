@@ -12,16 +12,15 @@ description: ""
 <a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/asian-confluence-history-science/">Asian Confluence: Challenging Perceptions of European Hegemony in the Histories of Singapore and Modern ScienceDirector's Column</a> <br>
 Visiting Senior Research Fellow at the Institute of Southeast Asian Studies Dr *Arun Bala* writes that recent studies have questioned the Eurocentric understanding of Singapore society and the science that drives it. These new approaches may be characterised as dialogical in contrast to traditional Eurocentric perspectives, suggesting that a confluence of different Eastern cultures, along with the Western tradition, gave birth to the Singapore and modern science that we know today.[(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_AsianConfluence.pdf)
 
-
-**The Case of Tras New Village and the Assasination of Henry Gurney During the Malayan Emergency** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/henry-gurney-assasination-malayan-emergency/">The Case of Tras New Village and the Assasination of Henry Gurney During the Malayan Emergency</a> <br>
 Lee Kong Chian Research Fellow *Tan Teng Phee* examines the circumstances of the Tras New Village, the consequences borne by the community as a result of the assassination and its repercussions. [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_HenryGurney.pdf)
 
-**Multiculturalism: A Study of Plurality and Solidarity in Colonial Singapore** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/singapore-multiculturalism-plurality-solidarity/">Multiculturalism: A Study of Plurality and Solidarity in Colonial Singapore</a> <br>
 Lee Kong Chian Research Fellow *Phyllis Ghim-Lian Chew* draws from the social and linguistic history of colonial Singapore, and proposes a plurality-solidarity cline with
 parameters such as dress, food, the arts, religious and literary activities, and rites of passage, as a means to study the processes of acculturation and assimilation.
 [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_PluralitySolidarity.pdf)
 
-**Shair Saudara Boyan: Menyingkap Sejarah Masyarakat Bawean** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/shair-saudara-boyan-bawean/">Shair Saudara Boyan: Menyingkap Sejarah Masyarakat Bawean</a> <br>
 *Shair Saudara Boyan* (Poem of the Baweanese, 1930) is a significant 49-page poetry collection written in Malay using Jawi script. Senior Librarian *Sundusia Rosdi* shows how it offers a portrait
 of the Baweanese community and sheds light on their social values and aspirations.
 [(PDF)](/files/pdf/vol-6/issue-4/v6-issue4_ShairSaudaraBoyan.pdf)
