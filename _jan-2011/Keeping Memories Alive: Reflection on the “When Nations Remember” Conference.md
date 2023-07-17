@@ -1,11 +1,11 @@
 ---
 title: "Keeping Memories Alive: Reflection on the “When Nations Remember” Conference"
 permalink: /vol-6/issue-4/jan-2011/memories-alive-reflection/
-description: "Senior Library Gracie Lee shares her reflections on “When Nations
+description: Senior Library Gracie Lee shares her reflections on “When Nations
   Remember”, a two-day international conference on national memory and its
-  preservation, display and access held in October 2009. "
+  preservation, display and access held in October 2009.
 ---
-#### Senior Library _Gracie Lee_ shares her reflections on “When Nations Remember”, a two-day international conference on national memory and its preservation, display and access held in October 2009.
+#### Senior Library&nbsp;_Gracie Lee_&nbsp;shares her reflections on “When Nations Remember”, a two-day international conference on national memory and its preservation, display and access held in October 2009.
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/MemoriesAlive/wnr_axeoil.jpg">
  <div style="background-color: white;">One of the parallel sessions designed was "Experiences on Singapore Brands", which included a visit to the Axe Oil Company</div>
@@ -57,6 +57,6 @@ memories.
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Gracie%20Lee.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Gracie.jpg" style="width: 100px; height: 100px;">
  <center><b>Gracie Lee</b><br>Senior Librarian<br>Professional Services<br>National Library </center></div>
