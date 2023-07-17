@@ -102,30 +102,23 @@ Thematically, these texts are not dissimilar to the wider Southeast Asian genre 
 *Lihat anack tsina  
 Toehan kie tsilmoele  
 rindo pada dieha  
-makan tida boole.*
-  
+makan tida boole.*<br><br>
 *Lihat hanack tsina  
 bagú wida darie  
 roepa bage boenga  
-bangoen la camarie.*
-  
+bangoen la camarie.*<br><br>
 *Soeda amba casie  
 djúwa dengan badangh  
 boehat la canda tie  
 bagi sooka toehan.*<br>
-[...]
-
-|
-Behold the Chinese maiden,  
+[...]| Behold the Chinese maiden,  
 The dainty little lady.  
 I long for her,  
-Unable to eat.  
-  
+Unable to eat.<br><br>
 Behold the Chinese maiden,  
 Beautiful like a heavenly nymph.  
 Pretty like a flower  
-Get up and come here.
-
+Get up and come here.<br><br>
 Your servant has given  
 Body and soul  
 To fulfill his wish  
