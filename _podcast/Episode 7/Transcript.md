@@ -4,6 +4,8 @@ permalink: /podcast/firewalking/transcript/
 description: ""
 third_nav_title: Episode 7
 ---
+[Music playing]
+
 Jimmy<br>  
 You're listening to BiblioAsia+, a podcast produced by the National Library of Singapore. At BiblioAsia, we tell stories about Singapore's past: some unfamiliar, others forgotten, all fascinating.
 
@@ -235,7 +237,7 @@ Nalina<br>
 I would say it's actually quite rewarding as a read. I always get to know things that I didn't know about enough. And things that I've always just heard about. I think it's quite rewarding that it's focused on a region that might otherwise be neglected. So I think it's quite an interesting read as well.
 
 Jimmy<br>  
-Thank you, Nalina<br>, for joining us on BiblioAsia+ today.
+Thank you, Nalina, for joining us on BiblioAsia+ today.
 
 Nalina<br>  
 Thank you, Jimmy, for allowing me the opportunity to talk about a festival that is so visible, yet not so widely known.
