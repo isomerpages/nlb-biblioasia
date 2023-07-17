@@ -1,17 +1,17 @@
 ---
 title: Sastera Melayu Singapura Pasca 1965
 permalink: /vol-6/issue-4/jan-2011/singapura-sastera-melayu-pasca/
-description: "Librarian Juffri bin Supa’at examines the growth and development
-  of Singapore Malay Literature after 1965. "
+description: Librarian Juffri bin Supa’at examines the growth and development of
+  Singapore Malay Literature after 1965.
 ---
-#### Librarian _Juffri bin Supa’at_ examines the growth and development of Singapore Malay Literature after 1965.
+#### Librarian&nbsp;_Juffri bin Supa’at_&nbsp;examines the growth and development of Singapore Malay Literature after 1965.
 
 <img style="width:50%;" src="/images/Vol%206%20issue%204/SasteraMelayu/Friday,%20Dec%2009,%202005%20(5a).jpg">
  <div style="background-color: white;">Contoh karya dalam bentuk stensilan, 1977.</div>
 
-<b>&emsp;&emsp;&emsp;&emsp;
-“*Sudahkah para penulis kita mengambil dan merakamkan isu-isu*<br>&emsp;&emsp;&emsp;&emsp;
- *atau masalah-masalah masyarakat yang paling penting dan hangat?*<br>&emsp;&emsp;&emsp;&emsp;*Adakah para penulis kita digerakkan oleh permasalahan dan*<br> &emsp;&emsp;&emsp;&emsp;*penderitaan masyarakatnya?*”</b><br>&emsp;Hadijah Rahmat, Sastera & Manusia Melayu, Kumpulan esei & wawancara, ms. 137
+<b>    
+“*Sudahkah para penulis kita mengambil dan merakamkan isu-isu*<br>    
+ *atau masalah-masalah masyarakat yang paling penting dan hangat?*<br>    *Adakah para penulis kita digerakkan oleh permasalahan dan*<br>     *penderitaan masyarakatnya?*”</b><br> Hadijah Rahmat, Sastera &amp; Manusia Melayu, Kumpulan esei &amp; wawancara, ms. 137
 
 Singapura pernah menjadi pusat perkembangan sastera Melayu moden. Ini dapat dilakukan dengan begitu berkesan sekali kerana Singapura ketika itu juga berfungsi sebagai pusat penerbitan dengan terdapatnya alat-alat percetakan moden yang dibawa masuk dari barat. Secara tidak langsung, menjadi daya tarikan kepada bakat-bakat dari seluruh rantau ini yang bercita-cita untuk mengembangkan dan meluaskan peluang penulisan mereka.
 
@@ -56,7 +56,7 @@ Pada dekad ini juga beberapa orang penulis yang mula bergiat pada awal 80-an tel
 <img style="width:80%;" src="/images/Vol%206%20issue%204/SasteraMelayu/Nazri_1.jpg">
  <div style="background-color: white;">(Left) Hak cipta terpelihara, Pustaka Melayu Publisher, 1998.<br>  (Right) Hak cipta terpelihara, Jahabersa, 2006.</div>
 
-Sayembara sastera yang sering dianjurkan pada dekaddekad kebelakangan ini juga merupakan satu dorongan untuk menggalakkan penghasilan karya seperti Sayembara Watan I & II serta Sayembara Novel Temasik. Novel-novel yang dihasilkan telah memaparkan berbagai isu masa kini yang menyentuh keadaan masyarakat, pendidikan dan ekonomi. Sayembara Novel Watan umpamanya telah menghasilkan lebih daripada 20 buah novel. Antara karyakarya yang ialah *Kesal* oleh Mohd Ikhlash Abdullah dan *Kuman* oleh Dehliez.
+Sayembara sastera yang sering dianjurkan pada dekaddekad kebelakangan ini juga merupakan satu dorongan untuk menggalakkan penghasilan karya seperti Sayembara Watan I &amp; II serta Sayembara Novel Temasik. Novel-novel yang dihasilkan telah memaparkan berbagai isu masa kini yang menyentuh keadaan masyarakat, pendidikan dan ekonomi. Sayembara Novel Watan umpamanya telah menghasilkan lebih daripada 20 buah novel. Antara karyakarya yang ialah *Kesal* oleh Mohd Ikhlash Abdullah dan *Kuman* oleh Dehliez.
 
 Kini, dengan pelbagai inisiatif untuk mengembangkan kesenian di Singapura, sudah tentu kita dapat menjangkakan hasil-hasil karya yang lebih menarik dan bermutu tinggi daripada para penulis kita pada masa hadapan. Mungkin juga terdapat ruang dan wadah untuk para penulis bereksperimen dan menggabungkan pelbagai media untuk melahirkan karya sastera yang lebih dinamik.
 
@@ -74,8 +74,8 @@ Although differing from other bodies of Malay literature in the region, Singapor
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Photo2_Juffri_small.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Juffri.jpg" style="width: 100px; height: 100px;">
 <center><b>Juffri Bin Supa’at</b><br> Librarian<br>Lee Kong Chian Reference Library<br>National Library</center> </div>
 
 #### **RUJUKAN**
@@ -85,7 +85,7 @@ A. R. Kemalawati. (1984, March 29). [Singapura main peranan](http://eresources.n
 
 Dehliez. (2002). [_Kuman_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11488468). Singapura: Pustaka Nasional. Call no.: RSING 899.283 DEH
 
-Hadijah Rahmat. (1998). _Sastera dan manusia Melayu baru_. Kumpulan esei & wawancara. Persatuan Wartawan Melayu Singapura.
+Hadijah Rahmat. (1998). _Sastera dan manusia Melayu baru_. Kumpulan esei &amp; wawancara. Persatuan Wartawan Melayu Singapura.
 
 Harun Aminurrashid. (1967). _Sultan Mahmud Shah Melaka_. Singapura: Pustaka Melayu.
 
@@ -115,7 +115,7 @@ Masuri S.N. (1967). [_Bunga pahit_](https://eservice.nlb.gov.sg/item_holding.asp
 
 Mohd Ikhlash Abdullah. (2002). [_Kesal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13225697). Singapura: Pustaka Nasional. Call no.: RCLOS 899.283 MOH
 
-Mohd Latiff Mohd & Gunawan Jasmin. (1977). [_Dua persimpangan: Satu antologi cerpen_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4140214). Singapura: Solo Enterprises. Call no.: RSING S899.2305 MUH
+Mohd Latiff Mohd &amp; Gunawan Jasmin. (1977). [_Dua persimpangan: Satu antologi cerpen_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4140214). Singapura: Solo Enterprises. Call no.: RSING S899.2305 MUH
 
 Mohd Latiff Mohd. (1982, December 14). [Dua penulis muda selepas 1965](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821214-1.2.142.6.1). _The Straits Times_, p. 24. Retrieved from NewspaperSG.
 
