@@ -114,7 +114,7 @@ djúwa dengan badangh
 boehat la canda tie  
 bagi sooka toehan.*<br>
 [...]
-
+|
 Behold the Chinese maiden,  
 The dainty little lady.  
 I long for her,  
