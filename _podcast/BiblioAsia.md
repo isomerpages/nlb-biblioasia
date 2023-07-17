@@ -57,8 +57,7 @@ Listen on: [Spotify](https://open.spotify.com/episode/5w9yBquKXj0K3RFPDkYx1W?si=
 **18 July: The Mystery of Sarong Island**<br>
 How can an entire island appear and then disappear? Especially one that was said to be Singapore’s first island resort? Librarian Lim Tin Seng solves the mystery of Sarong Island. 
 <br><img style="width: 35%" src="/images/Podcast/Photos_About/ep%208%20(sarong%20island%20by%20tinseng)v1.jpg" align="left"><br clear="all">
-Listen on: [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN),&nbsp;[Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751),&nbsp;[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8))
-
+Listen on: [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN),&nbsp;[Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751),&nbsp;[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8)
 
 **25 July: The Stories behind the Shrines on Kusu Island**<br>
 People have been worshipping the shrines on Kusu Island since the mid-19th century. The people said to be buried at Kusu Island, however, haven’t always stayed the same, according to writer and researcher William L. Gibson. <br>
