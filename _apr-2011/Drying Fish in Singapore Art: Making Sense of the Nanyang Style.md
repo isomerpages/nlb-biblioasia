@@ -5,9 +5,9 @@ description: The act of drying fish appears in many works of the Nanyang style.
   National Art Gallery’s Yeo Wei Wei explores this recurring motif suggests how
   it can help our understanding of “Nanyang”.
 ---
-#### The act of drying fish appears in many works of the Nanyang style. National Art Gallery’s _Yeo Wei Wei_ explores this recurring motif suggests how it can help our understanding of “Nanyang”.
+#### The act of drying fish appears in many works of the Nanyang style. National Art Gallery’s&nbsp;_Yeo Wei Wei_&nbsp;explores this recurring motif suggests how it can help our understanding of “Nanyang”.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%201/Chen%20Cheng%20Mei_Drying%20Fish.jpg">
+<img style="width:80%;" src="/images/Vol%207%20Issue%201/DryingFish/Chen%20Cheng%20Mei_Drying%20Fish.jpg">
  <div style="background-color: white;">Chen Cheng Mei (Tan Seah Boey), <i>Drying Fishes,</i> Kota Bahru. 1977. Oil on canvas. 76 x 117 cm. <i>Collection of family of Chen Cheng Mei.</i></div>
 
 #### **“Nanyang”: Nostalgia and Longing**
@@ -92,15 +92,15 @@ The writer wishes to thank Chen Cheng Mei, Chen Chi Sing, Tan Wee Lee, Cheong Le
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Yeo%20Wei%20Wei.jpg" style="width: 100px; height: 100px;"/><center> <b>Yeo Wei Wei</b><br>
+<br>
+<img src="/images/Authors/Yeo%20Wei%20Wei.jpg" style="width: 100px; height: 100px;"><center> <b>Yeo Wei Wei</b><br>
 Assistant Director<br> Publications And Resource Centre<br> National Art Gallery, Singapore</center> </div>
 
 #### **REFERENCES**
 
-Chen, W., Chen, Q. & Qihua, Z. Yuancheng & Huang, J. (Eds.). (2010). Huashishicao – Chenzongruitihuashi. Singapore: Chen Chi Sing.
+Chen, W., Chen, Q. &amp; Qihua, Z. Yuancheng &amp; Huang, J. (Eds.). (2010). Huashishicao – Chenzongruitihuashi. Singapore: Chen Chi Sing.
 
-Fang, X., & Kazuo, E. (Eds.). (1977). [_Notes on the history of Malayan Chinese new literature, 1920–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1428205). Tokyo: Centre for East Asian Cultural Studies. (Call no.: RSEA 895.1 FAN)
+Fang, X., &amp; Kazuo, E. (Eds.). (1977). [_Notes on the history of Malayan Chinese new literature, 1920–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1428205). Tokyo: Centre for East Asian Cultural Studies. (Call no.: RSEA 895.1 FAN)
 
 Liu, K. (2011). Eastern and Western Cultures and Art in Singapore. In S. Siew (Ed.), T. T. Tan (Trans.), [_Liu Kang: Essays on art and culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13735205) (pp. 111—20). Singapore: National Art Gallery. (Original work published in 1981). (Call no.: RSING 709.50904 LIU)
 
