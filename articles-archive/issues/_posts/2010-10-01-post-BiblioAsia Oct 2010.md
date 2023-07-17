@@ -7,15 +7,15 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba6-3.jpg)
 
-**Director’s Column**
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-3/oct-2010/director-column/">Director's Column</a>
 
-**Remembering Dr Goh Keng Swee (1918–2010)** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-3/oct-2010/remembering-goh-keng-swee/">Remembering Dr Goh Keng Swee (1918–2010)</a><br>
 *Kwa Chong Guan* from the S. Rajaratnam School of International Studies remembers the legacy, contributions, and impact of Dr Goh Keng Swee.[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_GohKengSwee.pdf)
 
-**Education for Living: Epitome of Civics Education?** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-3/oct-2010/education-living-epitome-civics/">Education for Living: Epitome of Civics Education?</a><br>
 Lee Kong Chian Research Fellow *Chia Yeow Tong* examines the reasons for the emergence of  Education for Living, regarded as the de facto civics education programme in 1970s Singapore, and why it was subsequently abandoned.[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CivicsEducation.pdf)
 
-**Physical Education and Sports in Singapore Schools (Part II): Developing National Sports Talents** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-3/oct-2010/singapore-physical-education-sports/">Physical Education and Sports in Singapore Schools (Part II): Developing National Sports Talents</a><br>
 Librarian *Wee Tong Bao* traces the journeys that schools embarked upon to re-establish inter-school sporting events after World War II, and comments on the initial forays into the international sporting arena. [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_PhysicalEducation.pdf)
 
 **The Educational Movement in Early 20th Century Batavia and its Connections with Singapore and China** <br>
@@ -34,7 +34,7 @@ Senior Librarian *Bonny Tan* examines the *Willis’ Singapore Guide*, an early 
 Newly launched at the National Library are business and personal credit advisory services offered by the National Library Board in partnership with DP Bureau Pte Ltd and Credit Bureau Singapore Pte Ltd. Senior Research Associate *Ronnie Tan* explains. [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CreditAdvisory.pdf)
 
 **方修: 新加坡文艺先驱的光辉** <br>
-Assistant Director *Law Lin Mui* writes about Singapore literary pioneer Fang Xiu and a commemorative public forum held on 23 May 2010 jointly organised by the National Library Board and the Tropical Literature & Art Club in recognition of Fang Xiu's achievements and contributions. [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_FangXiu.pdf)
+Assistant Director *Law Lin Mui* writes about Singapore literary pioneer Fang Xiu and a commemorative public forum held on 23 May 2010 jointly organised by the National Library Board and the Tropical Literature &amp; Art Club in recognition of Fang Xiu's achievements and contributions. [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_FangXiu.pdf)
 
 **A Passion for Communication: Investigations into Different Cultures and Media** <br>
 Lee Kong Chian Research Fellow *Ross Laird* shares his interests, experiences and what he hopes to achieve as a Lee Kong Chian Research Fellow.[(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_CulturesMedia.pdf)
