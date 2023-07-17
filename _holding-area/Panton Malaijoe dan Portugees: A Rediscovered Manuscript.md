@@ -133,8 +133,7 @@ To please you, my lady.
 ![](/images/Vol%2019%20Issue%203/5%20Panton/image5.png)
 <div style="background-color: white;"><i>Panton Malayo</i> (<i>Malay Pantun</i>) has 43 stanzas in Malay. <i>Image reproduced from Panton Malaijoe dan Portugees. Courtesy of Museu Nacional de Arqueologia and Imprensa Nacional Casa da Moeda.</i></div>
 
-Other texts have a moral undertone, using  
-various rhetoric strategies to reflect on society and human behaviour. The untitled sequence F is one such case. As seen in the excerpt below, the text is both metaphorical and explicit in denouncing the inescapability of social inequalities:[^12]
+Other texts have a moral undertone, using various rhetoric strategies to reflect on society and human behaviour. The untitled sequence F is one such case. As seen in the excerpt below, the text is both metaphorical and explicit in denouncing the inescapability of social inequalities:[^12]
 
 [...]  
 *Neem: waka wincha chawalo  <br>
