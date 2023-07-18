@@ -66,7 +66,7 @@ How can an entire island appear and then disappear? Especially one that was said
 <br>
 
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%208%20(sarong%20island%20by%20tinseng)v1.jpg" align="left"><br clear="all">
-Listen on: [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN),&nbsp;[Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751),&nbsp;[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8)
+Listen on: [Spotify](https://open.spotify.com/episode/5hjhacY4GSbiRJ86HKK4Qt),[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-mystery-of-sarong-island/id1688142751?i=1000621411676), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NmU0NWM4OGYtMDZjOS00MjFmLThiZDktMDk0MTI1NWE0YjQ1?sa=X&amp;ved=0CAUQkfYCahcKEwi4-au865aAAxUAAAAAHQAAAAAQAQ)
 
 **25 July: The Stories behind the Shrines on Kusu Island**<br>
 People have been worshipping the shrines on Kusu Island since the mid-19th century. The people said to be buried at Kusu Island, however, haven’t always stayed the same, according to writer and researcher William L. Gibson. <br>
