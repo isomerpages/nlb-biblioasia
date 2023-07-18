@@ -3,7 +3,7 @@ title: "Lee Kong Chian Research Fellow: Dr Julian Davison"
 permalink: /vol-5/issue-4/jan-2010/julian-davison-research-fellow/
 description: Meet Lee Kong Chian Research Fellow Dr Julian Davison.
 ---
-#### Meet Lee Kong Chian Research Fellow _Dr Julian Davison_.
+#### Meet Lee Kong Chian Research Fellow&nbsp;_Dr Julian Davison_.
 
 <img style="width:80%;" src="/images/Vol%205%20Issue%204/JulianDavison/Julian%20Davison%20and%20father1.jpg">
  <div style="background-color: white;">Julian with his father on the verandah of No. 1 Lynwood Grove, 1959.</div>
@@ -18,7 +18,7 @@ My father wanted to be an artist — I have a very lovely seascape in oil painte
 
 It was, however, always his ambition to return to Singapore and, in the early 1950s, he was happy to accept the offer of a job as an architect with the Singapore Improvement Trust (SIT), forerunner of today’s Housing Development Board (HDB). His father was dead by this time and other family members who had lived in Singapore before the war — there were aunts and uncles and cousins — had either retired or died (one of my great uncles was a high court judge who was lost at sea when his ship was torpedoed in the Indian Ocean), so my father was on his own.
 
-After a couple of years with the SIT, my father decided that he would like to go into private practice, which led him to return to England where he joined the architectural practice Raglan Squire & Partners in London. This is when he married my mother whom he had met during the war at the naval base in Haifa, in what was then Palestine. They were married in 1955 and it so happened that at that time, my father’s boss, Raglan Squire, or “Rag” as he was more popularly known, was engaged in a major project in Burma, today’s Myanmar, and was looking to set up a regional office in Southeast Asia. This was how my father, together with two other colleagues from the London office, came back to Singapore in 1956 and set up a local branch of Raglan Squire & Partners, better known today as RSP. The firm is currently completing the huge ION Orchard complex at the junction of Orchard and Paterson roads.
+After a couple of years with the SIT, my father decided that he would like to go into private practice, which led him to return to England where he joined the architectural practice Raglan Squire &amp; Partners in London. This is when he married my mother whom he had met during the war at the naval base in Haifa, in what was then Palestine. They were married in 1955 and it so happened that at that time, my father’s boss, Raglan Squire, or “Rag” as he was more popularly known, was engaged in a major project in Burma, today’s Myanmar, and was looking to set up a regional office in Southeast Asia. This was how my father, together with two other colleagues from the London office, came back to Singapore in 1956 and set up a local branch of Raglan Squire &amp; Partners, better known today as RSP. The firm is currently completing the huge ION Orchard complex at the junction of Orchard and Paterson roads.
 
 The year 1956 was also the year that I was born, in London, which is how I happen to be a British citizen (my father was, of course, a red passport holder by virtue of having been born here). As soon as I was old enough to travel (six weeks) my mother and I boarded the SS *Canto* and set sail for Singapore to join my father who had gone on ahead to set up the new office (coincidently the *Canton* was the same ship which brought the young (Minister Mentor) Lee Kuan Yew back from his studies in England, albeit a couple of years earlier).
 
@@ -49,11 +49,16 @@ Now I am looking forward very much to my six months at the National Library as a
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/JulianDavison/Julian%20Davison%20Signing.jpg">
  <div style="background-color: white;">Julian and Ms Ngian Lek Choh.</div>
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">Dr Julian Davison was awarded the Lee Kong Chian Research Fellowship by Ms Ngian Lek Choh, Director, National Library at a signing ceremony held on 14 October 2009. He has a PhD in Anthropology from the School of Oriental and African Studies, University of London. His research topic is Singapore in 1920s & 1930s/Early Modern.<br><br>The Lee Kong Chian Research Fellowship invites scholars, practitioners and librarians to undertake collection-related research and publish on the National Library of Singapore's donor and prized collections. The fellowship aims to position the National Library Board as the first stop for Asian collection services. It is open to both local and foreign applicants, who should preferably have an established record of achievement in their chosen field of research and the potential to excel further.<br><br>For information on the Lee Kong Chian Research Fellowship, please contact the Administrator at:<br>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">Dr Julian Davison was awarded the Lee Kong Chian Research Fellowship by Ms Ngian Lek Choh, Director, National Library at a signing ceremony held on 14 October 2009. He has a PhD in Anthropology from the School of Oriental and African Studies, University of London. His research topic is Singapore in 1920s &amp; 1930s/Early Modern.<br><br>The Lee Kong Chian Research Fellowship invites scholars, practitioners and librarians to undertake collection-related research and publish on the National Library of Singapore's donor and prized collections. The fellowship aims to position the National Library Board as the first stop for Asian collection services. It is open to both local and foreign applicants, who should preferably have an established record of achievement in their chosen field of research and the potential to excel further.<br><br>For information on the Lee Kong Chian Research Fellowship, please contact the Administrator at:<br>
 Email: LKCRF@nlb.gov.sg<br> Tel: 6332 3348<br> Fax: 6333 7990<br></div>
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Julian%20Davision1.jpg" style="width: 100px; height: 100px;"/>
-<center><b>Bonny Tan</b> <br> Lee Kong Chian Research Fellow <br>  National Library</center></div>
+<br>
+<img src="/images/Authors/Julian%20Davision1.jpg" style="width: 100px; height: 100px;">
+<center><b>Julian Davison</b> <br> Lee Kong Chian Research Fellow <br>  National Libr
+
+
+
+
+ary</center></div>
