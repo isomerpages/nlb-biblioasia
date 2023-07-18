@@ -7,12 +7,12 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba6-2.jpg)
 
-**Director’s Column**
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-2/jul-2010/director-column/">Director's Column</a>
 
-**Journey: A story About the Past and Future** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-2/jul-2010/journey-story-past-future/">Journey: A story About the Past and Future</a><br>
 An edited transcript of Minister George Yeo's opening speech at the launch of the exhibition and conference "Rihlah – Arabs in Southeast Asia" held on 10 April 2010.[(PDF)](/files/pdf/vol-6/issue-2/v6-issue2_JourneyPastFuture.pdf)
 
-**1872: The Fortune of War Tragedy: A Christmas Celebration in Tanjong Pagar Turns Violent** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-2/jul-2010/tanjong-pagar-war-tragedy/">1872: The Fortune of War Tragedy: A Christmas Celebration in Tanjong Pagar Turns Violent</a><br>
 Through news reports run in *Singapore Daily Times*, Lee Kong Chian Research Fellow *Erik Holmberg* pieces together the events leading up to the violence and bloodshed in a tavern during a 1872 Christmas celebration. [(PDF)](/files/pdf/vol-6/issue-2/v6-issue2_WarTragedy.pdf)
 
 **Physical Education and Sports in Singapore Schools Through the Last Millennium (Part I)** <br>
