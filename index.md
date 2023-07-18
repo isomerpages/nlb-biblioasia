@@ -10,14 +10,23 @@ notification: ""
 sections:
   - hero:
       url: /vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/
-      button: Public Bathhouses of the 1880s
+      button: Singapore’s Public Bathhouses of the 1880s
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 1/Public Bathhouses/hero_img_public_bathhouse.jpg
       title: Order and Cleanliness
-      subtitle: Singapore’s Public Bathhouses of the 1880s
+  - infopic:
+      title: The Mystery of Sarong Island
+      subtitle: podcast
+      description: Librarian Lim Tin Seng rediscovers Singapore’s first island resort
+        getaway and solves various mysterious surrounding it, including where
+        Sarong Island is now.
+      button: listen to the podcast
+      url: /podcast/sarong-island/
+      image: /images/Podcast/tinseng-sarong island.jpg
+      alt: Image alt text
   - infopic:
       title: The Bumpy Ride to Making Crash Helmets Mandatory
       subtitle: Governance
