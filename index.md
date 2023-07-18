@@ -19,6 +19,16 @@ sections:
       title: Order and Cleanliness
       subtitle: Singapore’s Public Bathhouses of the 1880s
   - infopic:
+      title: The Mystery of Sarong Island
+      subtitle: podcast
+      description: Librarian Lim Tin Seng rediscovers Singapore’s first island resort
+        getaway and solves various mysterious surrounding it, including where
+        Sarong Island is now.
+      button: listen to the podcast
+      url: /podcast/sarong-island/
+      image: /images/Podcast/tinseng-sarong island.jpg
+      alt: Image alt text
+  - infopic:
       title: The Bumpy Ride to Making Crash Helmets Mandatory
       subtitle: Governance
       description: Crash helmets might save lives but getting people to wear them was
