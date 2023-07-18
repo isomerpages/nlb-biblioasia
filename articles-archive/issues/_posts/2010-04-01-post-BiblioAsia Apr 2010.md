@@ -7,7 +7,7 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba6-1.jpg)
 
-<a style="text-decoration: none; font-weight: bold;" href="//vol-6/issue-1/apr-2010/director-column/">Director's Column</a>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-1/apr-2010/director-column/">Director's Column</a>
 
 **சிங்கப்பூரில் தமிழ் இலக்கிய வளர்ச்சி** <br>
 Singapore’s Tamil literary scene has over a hundred years’ history. Senior Librarian *Malarvele Ilangovan* traces its development. [(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_TamilLiterary.pdf)
