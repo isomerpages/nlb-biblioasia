@@ -20,8 +20,9 @@ sections:
   - infopic:
       title: "Panton Malaijoe dan Portugees: A Rediscovered Manuscript"
       subtitle: Literature
-      description: A forgotten manuscript offers insights into the languages and
-        traditions of a unique community in the Dutch East Indies.
+      description: A forgotten manuscript found in a Portuguese museum offers insights
+        into the languages and traditions of a unique community in the Dutch
+        East Indies.
       button: A book of Malay and Portuguese pantuns
       url: /vol-19/issue-3/oct-dec-2023/malay-portuguese-pantuns/
       image: /images/Vol 19 Issue 3/5 Panton/image4.png
