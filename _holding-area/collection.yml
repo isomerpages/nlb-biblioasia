@@ -2,5 +2,4 @@ collections:
   holding-area:
     output: true
     order:
-      - "Panton Malaijoe dan Portugees: A Rediscovered Manuscript.md"
       - Test page.md
