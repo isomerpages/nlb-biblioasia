@@ -634,4 +634,14 @@ sections:
       url: /videos/from-book-to-cook
       image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
       alt: Singapore’s old recipes
+  - infopic:
+      title: "Panton Malaijoe dan Portugees: A Rediscovered Manuscript"
+      subtitle: Literature
+      description: "A forgotten manuscript found in the archive of a Portuguese museum
+        s insights into the languages and traditions of a unique community in
+        the Dutch East Indies. "
+      button: A book of Malay and Portuguese pantuns
+      url: /vol-19/issue-3/oct-dec-2023/malay-portuguese-pantuns/
+      image: /images/Vol 19 Issue 3/5 Panton/image4.png
+      alt: Image alt text
 ---
