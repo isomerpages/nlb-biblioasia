@@ -31,7 +31,7 @@ sections:
       title: The Mystery of Sarong Island
       subtitle: podcast
       description: Librarian Lim Tin Seng rediscovers Singapore’s first island resort
-        getaway and solves various mysterious surrounding it, including where
+        getaway and solves various mysteries surrounding it, including where
         Sarong Island is now.
       button: listen to the podcast
       url: /podcast/sarong-island/
