@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - test2.md
       - Test page.md

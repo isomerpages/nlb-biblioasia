@@ -1,6 +1,6 @@
 ---
 title: test2
-permalink: /testing2/
+permalink: /holding-area/permalink/
 description: ""
 ---
 # Practice Here
