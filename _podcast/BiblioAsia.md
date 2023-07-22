@@ -1,5 +1,5 @@
 ---
-title: BiblioAsia+: A Podcast about Singapore History
+title: BiblioAsia+. A Podcast about Singapore History
 permalink: /podcast/about/
 description: ""
 image: /images/Podcast/podcast logo.jpg
