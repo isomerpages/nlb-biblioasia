@@ -65,6 +65,15 @@ sections:
       image: /images/Vol 19 Issue 3/Wheat/19980005442 - img0104v2.jpg
       alt: Image alt text
   - infopic:
+      title: Recreating a Recipe from the "Eat More Wheat" Campaign
+      subtitle: "video: From Book to Cook"
+      description: What does a 1969 Chinese recipe for noodles have to do with a
+        murukku press?
+      button: watch the video
+      url: /videos/eat-more-wheat-campaign/
+      image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
+      alt: Singapore’s old recipes
+  - infopic:
       title: A Grand Piano's Chequered History
       subtitle: Arts
       description: A grand piano that was to be the pride of Singapore failed to
@@ -635,13 +644,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: A cooking show that dishes out history from old recipes
-      subtitle: "video: From Book to Cook"
-      description: What does a 1969 Chinese recipe for noodles have to do with a
-        murukku press?
-      button: Singapore’s old recipes
-      url: /videos/from-book-to-cook
-      image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
-      alt: Singapore’s old recipes
 ---
