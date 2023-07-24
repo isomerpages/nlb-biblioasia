@@ -21,7 +21,7 @@ To mask the deep scratches on the black keys, I covered them with floral “baro
 
 Those were relatively easy to fix. What was a bigger challenge was repairing the piano’s action. The action is the mechanism that causes the hammers to strike the strings when a key is pressed. In the Chappell, it&nbsp;had deteriorated to the point that the keys were barely functioning.
 
-![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/keyboard.jpg)
+![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/keyboard1.jpg)
 <div style="background-color: white;text-align:center">The keyboard action before the restoration.</div>
 
 To restore the keys, I dismantled the entire action so that I could reach the parts inside to repair and lubricate. Once it was dismantled, I replaced all the felt strips and other felt parts inside the action. I also had to bring the friction levels of all the centre pins to about 4 gr. The centre pin forms the metal axis core of the wooden flange, which is the hinge of the hammer. If the friction is too great, the flange will not work and pressing the piano key will not result in any sound at all, or it will cause the key to remain depressed. I found that in some of the centre pins, the friction level was over 40 gr, which explains why some of the keys were not working initially.
