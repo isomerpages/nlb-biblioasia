@@ -10,13 +10,14 @@ notification: ""
 sections:
   - hero:
       url: /vol-19/issue-2/jul-sep-2023/golden-mile-complex/
-      button: "Golden Mile Complex: Five Decades of an Architectural Icon"
+      button: Five Decades of an Architectural Icon
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/Golden Mile
         Complex/golden_mile_complex_hero_image (below 500kb).jpg
+      title: Golden Mile Complex
   - infopic:
       title: "Panton Malaijoe dan Portugees: A Rediscovered Manuscript"
       subtitle: Literature
