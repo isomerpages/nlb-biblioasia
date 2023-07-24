@@ -57,9 +57,7 @@ I am happy to be given the opportunity to restore this unique instrument and giv
 ![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/restored%20v1.jpg)
 <div style="background-color: white;text-align:center">The restored Chappell grand in all its glory.</div>
 
-**All photos courtesy of Zhivko Girginov.**
+**All photos courtesy of Zhivko Girginov.**<br>
 
 <div style="background-color: white;">
-<br>
-<img style="width: 100px; height: 100px;" src="/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/author's%20profile%20photo.jpg">
-	<b>Zhivko Girginov</b> is a Bulgarian based in Singapore since 2009. He was conferred his degree in piano from the Academy of Music, Dance and Visual Arts “Prof. Asen Diamandiev” – Plovdiv, Bulgaria, and thereafter continued his education in film and media. His creative headway further developed simultaneously in musical and visual arts, often merging them into an organic entity as a cinematographer, TV news cameraman, film producer, lecturer in filmmaking, piano pedagogue, R&amp;D prototype creator and piano master artisan. .</div>
+<b>Zhivko Girginov</b> is a Bulgarian based in Singapore since 2009. He was conferred his degree in piano from the Academy of Music, Dance and Visual Arts “Prof. Asen Diamandiev” – Plovdiv, Bulgaria, and thereafter continued his education in film and media. His creative headway further developed simultaneously in musical and visual arts, often merging them into an organic entity as a cinematographer, TV news cameraman, film producer, lecturer in filmmaking, piano pedagogue, R&amp;D prototype creator and piano master artisan.</div>
