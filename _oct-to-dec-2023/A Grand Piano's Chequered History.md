@@ -136,7 +136,10 @@ In 1983, the Chappell was moved to the Bukit Merah Branch Library (later renamed
 <div style="background-color: white;">
 Zhivko Girginov, who holds a Bachelor’s Degree in Musical Pedagogy and Piano Performance at the Academy of Music and Dance Art Plovdiv, Bulgaria, carrying out repair and reconditioning works on the Chappell at the National Library Building, 2023. <i>Photos by Woo Pei Qi.</i></div>
 
-The Chappell is currently being repaired and retuned. After it has been given a new lease of life, anyone may sidle up and play on it, whether the piece is “Chopsticks” or Beethoven’s “Appassionata” sonata. As a public piano, the venerable and much-maligned Chappell may have finally found its true calling. 
+The Chappell is currently being repaired and retuned. After it has been given a new lease of life, anyone may sidle up and play on it, whether the piece is “Chopsticks” or Beethoven’s “Appassionata” sonata. As a public piano, the venerable and much-maligned Chappell may have 
+
+For the repair process by Zhivko Girginov, click [here](https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/chappell-piano-repair-zhivko-girginov/).
+
 
 <div style="background-color: white;">
 <br>
