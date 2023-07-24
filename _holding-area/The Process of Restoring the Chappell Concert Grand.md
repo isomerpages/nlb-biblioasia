@@ -49,12 +49,17 @@ The main thing that particularly surprised me was to find that the piano’s man
 
 Furthermore, bass keys with trichords tend to get out of tune more easily than keys with monochords. This helps to explain why the top master pianists at the time had so many complaints about the sound of the Chappell. The construction of the piano was inherently wrong from the start and cannot be reversed, unless all the trichords are replaced with monochords. If only I could travel back in the time to inform the manufacturer to use monochords for the bass notes, the fate of this glorious grand piano would probably have been very different.
 
-![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/scratches%20smoothening.jpg)
+![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/scratches%20smoothening1.jpg)
 <div style="background-color: white;text-align:center">Removing deep scratches and smoothening the surface of the piano before giving it a coat of paint.</div>
 
 I am happy to be given the opportunity to restore this unique instrument and give it a new lease of life. It is a precious piece of Singapore history and ought to be preserved in a playable condition so that it can continue to bring joy and pleasure to Singaporeans in the years ahead.
 
-![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/restored.jpg)
+![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/restored%20v1.jpg)
 <div style="background-color: white;text-align:center">The restored Chappell grand in all its glory.</div>
 
 **All photos courtesy of Zhivko Girginov.**
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/author's%20profile%20photo.jpg">
+	<b>Zhivko Girginov</b> is a Bulgarian based in Singapore since 2009. He was conferred his degree in piano from the Academy of Music, Dance and Visual Arts “Prof. Asen Diamandiev” – Plovdiv, Bulgaria, and thereafter continued his education in film and media. His creative headway further developed simultaneously in musical and visual arts, often merging them into an organic entity as a cinematographer, TV news cameraman, film producer, lecturer in filmmaking, piano pedagogue, R&amp;D prototype creator and piano master artisan. .</div>
