@@ -5,7 +5,7 @@ description: ""
 ---
 #### Repairing the National Library’s Chappell concert grand was no easy task. Zhivko Girginov describes the challenges he faced in repairing the instrument.
 
-![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/zhivko%20girginov%20.jpg)
+![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/zhivko%20girginov%201.jpg)
 <div style="background-color: white;text-align:center">Zhivko Girginov and the restored Chappell concert grand. </div>
 
 It took me three months to restore the National Library’s Chappell concert grand and I spent close to 400 hours altogether. During this process, I made some intriguing discoveries that I had not seen before in other historic pianos.
