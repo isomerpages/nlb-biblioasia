@@ -6,17 +6,17 @@ description: Writer and researcher William L. Gibson undertakes a pilgrimage
   of the main island of Singapore.
 third_nav_title: Episode 9
 ---
-Writer and researcher William L. Gibson undertakes a pilgrimage into the archives to uncover the history of the keramat on Kusu Island, south of the main island of Singapore.
+Writer and researcher William L. Gibson undertakes a pilgrimage into the archives to uncover the history of the *keramat* on Kusu Island, south of the main island of Singapore.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xkeIrbCQ1YA" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
+Available on [Spotify](https://open.spotify.com/episode/12nHrDUKtxEF8F5zup9xK3), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-stories-behind-the-shrines-on-kusu-island/id1688142751?i=1000622165192), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZTVkMDUxNzEtNjI0Yy00MThkLTk2NDctNmY0YzRjNGVjMWVl?sa=X&amp;ved=0CAUQkfYCahcKEwiIuI3DuaiAAxUAAAAAHQAAAAAQCg), and wherever you listen.
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
-Dr William L. Gibson is an author and researcher based in Southeast Asia since 2005. His research topic for the Lee Kong Chian Research Fellowship, awarded by the National Library Board in 2021, was an in-depth study of [keramat in Singapore](https://www.academia.edu/88697484/Complete_Catalog_of_Keramat_in_Singapore). His book [*Alfred Raquez and the French Experience of the Far East, 1898–1906*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205464044) (2021) is published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in *Signal to Noise*, PopMatters.com, *The Mekong Review*, *Archipel*, *History and Anthropology*, *Bulletin de l’École française d’Extrême-Orient* and *BiblioAsia*, among others.
+Dr William L. Gibson is an author and researcher based in Southeast Asia since 2005. His research topic for the Lee Kong Chian Research Fellowship, awarded by the National Library Board in 2021, was an in-depth study of [<i>keramat</i> in Singapore](https://www.academia.edu/88697484/Complete_Catalog_of_Keramat_in_Singapore). His book [*Alfred Raquez and the French Experience of the Far East, 1898–1906*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205464044) (2021) was published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in *Signal to Noise*, PopMatters.com, *The Mekong Review*, *Archipel*, *History and Anthropology*, *Bulletin de l’École française d’Extrême-Orient* and *BiblioAsia*, among others.
 
 #### **Resources** ####
 William Gibson, “[The Origin Stories of Keramat Kusu](https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/),” *BiblioAsia* 18, no. 4 (2023). 
