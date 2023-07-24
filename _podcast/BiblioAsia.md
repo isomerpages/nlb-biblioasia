@@ -72,7 +72,7 @@ Listen on: [Spotify](https://open.spotify.com/episode/5hjhacY4GSbiRJ86HKK4Qt),[A
 People have been worshipping the shrines on Kusu Island since the mid-19th century. The people said to be buried at Kusu Island, however, haven’t always stayed the same, according to writer and researcher William L. Gibson. <br>
 
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%209%20(shrines%20by%20william)v1.jpg" align="left"><br clear="all">
-<br>
+Listen on: [Spotify](https://open.spotify.com/episode/12nHrDUKtxEF8F5zup9xK3), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-stories-behind-the-shrines-on-kusu-island/id1688142751?i=1000622165192), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZTVkMDUxNzEtNjI0Yy00MThkLTk2NDctNmY0YzRjNGVjMWVl?sa=X&amp;ved=0CAUQkfYCahcKEwiIuI3DuaiAAxUAAAAAHQAAAAAQCg)
 
 **1 August: The Recording Industry in Singapore, 1903 to 1985**<br>
 The Crescendos didn’t just rock the airways in Singapore in the 1960s. They changed the entire music recording industry, says sound archivist Ross Laird.  <br>
