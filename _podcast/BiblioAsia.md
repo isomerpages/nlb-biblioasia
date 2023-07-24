@@ -74,7 +74,7 @@ People have been worshipping the shrines on Kusu Island since the mid-19th centu
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%209%20(shrines%20by%20william)v1.jpg" align="left"><br clear="all">
 Listen on: [Spotify](https://open.spotify.com/episode/12nHrDUKtxEF8F5zup9xK3), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-stories-behind-the-shrines-on-kusu-island/id1688142751?i=1000622165192), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZTVkMDUxNzEtNjI0Yy00MThkLTk2NDctNmY0YzRjNGVjMWVl?sa=X&amp;ved=0CAUQkfYCahcKEwiIuI3DuaiAAxUAAAAAHQAAAAAQCg)
 
-**1 August: The Recording Industry in Singapore, 1903 to 1985**<br>
+**1 August: The Recording Industry in Singapore, 1903–1985**<br>
 The Crescendos didn’t just rock the airways in Singapore in the 1960s. They changed the entire music recording industry, says sound archivist Ross Laird.  <br>
 
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%2010%20(record%20by%20ross)v1.jpg" align="left"><br clear="all">
