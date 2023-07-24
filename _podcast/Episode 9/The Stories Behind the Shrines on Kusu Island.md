@@ -6,8 +6,6 @@ description: Writer and researcher William L. Gibson undertakes a pilgrimage
   of the main island of Singapore.
 third_nav_title: Episode 9
 ---
-### Coming on 25 July
-
 Writer and researcher William L. Gibson undertakes a pilgrimage into the archives to uncover the history of the keramat on Kusu Island, south of the main island of Singapore.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xkeIrbCQ1YA" height="315" width="560"></iframe>
