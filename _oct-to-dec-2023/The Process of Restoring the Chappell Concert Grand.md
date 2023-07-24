@@ -16,7 +16,7 @@ I first used a sanding machine to strip off around 0.1 mm of the Ivoette to remo
 
 To mask the deep scratches on the black keys, I covered them with floral “baroque” design strips followed by two coats of polyurethane to achieve a hard and glossy surface. I applied the same floral design feature to other parts of the piano to create some visual accents, which breaks the monotony of the even black surfaces.
 
-![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/floral%20baroque%20design2.jpg)
+![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/floral%20baroque%20design3.jpg)
 <div style="background-color: white;text-align:center">The floral “baroque” design strips on the black keys, along the edges of the lid and on the legs. </div>
 
 Those were relatively easy to fix. What was a bigger challenge was repairing the piano’s action. The action is the mechanism that causes the hammers to strike the strings when a key is pressed. In the Chappell, it&nbsp;had deteriorated to the point that the keys were barely functioning.
