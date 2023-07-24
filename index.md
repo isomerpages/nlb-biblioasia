@@ -19,6 +19,15 @@ sections:
         Complex/golden_mile_complex_hero_image (below 500kb).jpg
       title: Golden Mile Complex
   - infopic:
+      title: The Stories Behind the Shrines on Kusu Island
+      subtitle: podcast
+      description: Researcher William L. Gibson undertakes a pilgrimage into the
+        archives to uncover the history of the <i>keramat</i> on Kusu Island.
+      button: listen to the podcast
+      url: /podcast/keramat-kusu/
+      image: /images/Podcast/william episode 9.jpg
+      alt: kusu island shrines
+  - infopic:
       title: "Panton Malaijoe dan Portugees: A Rediscovered Manuscript"
       subtitle: Literature
       description: A forgotten manuscript found in a Portuguese museum offers insights
