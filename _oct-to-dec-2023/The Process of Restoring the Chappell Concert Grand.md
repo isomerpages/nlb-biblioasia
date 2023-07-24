@@ -44,7 +44,7 @@ Today, we have special pliers with attached needles to prick the felt, which hel
 
 The main thing that particularly surprised me was to find that the piano’s manufacturer had mostly used trichords (three thin strings per key) in the lower bass register (notes below the Middle C) instead of a single thick string per key (monochords). Only the eight leftmost bass keys were monochords. Keys with three strings each will never produce a dense, long lasting and rich bass sound, compared to keys with a single string each, which are heavier and would vibrate much longer. 
 
-![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/removing%20rust%20from%20the%20strings%201.jpg)
+![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/removing%20rust%20from%20the%20strings%202.jpg)
 <div style="background-color: white;text-align:center">Removing rust from the strings of the keys.</div>
 
 Furthermore, bass keys with trichords tend to get out of tune more easily than keys with monochords. This helps to explain why the top master pianists at the time had so many complaints about the sound of the Chappell. The construction of the piano was inherently wrong from the start and cannot be reversed, unless all the trichords are replaced with monochords. If only I could travel back in the time to inform the manufacturer to use monochords for the bass notes, the fate of this glorious grand piano would probably have been very different.
