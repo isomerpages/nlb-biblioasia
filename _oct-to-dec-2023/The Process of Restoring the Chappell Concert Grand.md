@@ -54,7 +54,7 @@ Furthermore, bass keys with trichords tend to get out of tune more easily than k
 
 I am happy to be given the opportunity to restore this unique instrument and give it a new lease of life. It is a precious piece of Singapore history and ought to be preserved in a playable condition so that it can continue to bring joy and pleasure to Singaporeans in the years ahead.
 
-![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/restored%20v1.jpg)
+![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/restored%20piano1.jpg)<br>![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/restored%20piano2.jpg)
 <div style="background-color: white;text-align:center">The restored Chappell grand in all its glory.</div>
 
 **All photos courtesy of Zhivko Girginov.**<br>
