@@ -34,6 +34,9 @@ Rycena was introduced at the Singapore General Hospital in September and October
 
 Using more wheat in prisons and welfare homes would not make much of a dent in rice imports though. To achieve its goal, the government would have to get Singapore’s population to change their diets. To do this, the government began the large-scale promotion of wheat products through radio and TV advertisements. 
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/Gec6Y69wpTk" frameborder="0" allowfullscreen=""></iframe></div>
+
+
 #### **Publicity and Promotion**
 
 The message to the public – targeted mainly at housewives as most people ate at home – was that wheat was a better choice than rice due to its nutritional benefits and lower cost. The public promotion comprised exhibitions, cooking competitions and pop-up booths at events. 
