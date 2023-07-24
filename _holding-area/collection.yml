@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - The Process of Restoring the Chappell Concert Grand.md
       - test2.md
       - Test page.md
