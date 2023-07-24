@@ -39,7 +39,7 @@ William
 It's hard to say if it's the same saint kind of figure that's being replicated, because you do see names repeated. There's another Shaikh Ismail who shows up at several shrines throughout Singapore and Malaysia, Penang, Pulau Besar as well. As far as the mother figure, Nenek Ghalib... Ghalib is actually a male name in Arabic. But it's very, very close to the word <i>ghaib</i>, which means when a holy person takes himself from the earth, they occlude themselves from this foul planet and take themselves into a kind of occlusion. That word is <i>ghaib</i>. And there's a tradition of <i>ghaib</i> among <i>wali</i> and holy people.
 
 Jimmy  
-<i>Ghaib</i> is an Arabic word or? 
+<i>Ghaib</i> is an Arabic word? 
 
 William  
 I believe it's an Arabic origin word, but in local context it means to remove yourself like this. The name Ghalib given to the mother is a male name traditionally. So maybe there is a kind of very close relation between those two.
@@ -255,4 +255,4 @@ William
 Let the foreigner take the bullet, my friend.
 
 Jimmy  
-All right, William, thank you very much for joining us on BiblioAsia+. You can read William's article on [Keramat Kusu]( /vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/) and [German Girl Shrine]( /vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine/), and check out his great photos, on the BiblioAsia website at BiblioAsia.nlb.gov.sg. And if you want to read more about what William has been up to, you can go to his website, which is at WilliamLGibson.com. If you've enjoyed this episode, subscribe to the podcast and the BiblioAsia newsletter. Thank you for joining me on BiblioAsia+.
+All right, William, thank you very much for joining us on BiblioAsia+. You can read William's article on [Keramat Kusu]( /vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/) and [German Girl Shrine]( /vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine/), and check out his great photos, on the BiblioAsia website at BiblioAsia.nlb.gov.sg. And if you want to read more about what William has been up to, you can go to his website, which is at WilliamLGibson.com. If you've enjoyed this episode, [subscribe to the podcast](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) and the [BiblioAsia newsletter](https://form.gov.sg/616799db4d9b61001398f79b). Thank you for joining me on BiblioAsia+.
