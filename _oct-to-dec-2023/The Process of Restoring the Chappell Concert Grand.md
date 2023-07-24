@@ -39,7 +39,7 @@ Lacquer is commonly used to bring out a brighter and “shiny” sound during th
 
 Today, we have special pliers with attached needles to prick the felt, which helps. Besides pricking the felt, I also applied a special chemical softener liquid that penetrated and relaxed the wool fibres of the felt. This reduced the harshness of the sound somewhat.  
 
-![]![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/using%20a%20special%20plier%20with%20attached%20needles%202.jpg)(/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/using%20a%20special%20plier%20with%20attached%20needles%201.jpg)
+![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/using%20a%20special%20plier%20with%20attached%20needles%202.jpg)
 <div style="background-color: white;text-align:center">Using a special plier with attached needles to prick the felt surrounding the hammer head.</div>
 
 The main thing that particularly surprised me was to find that the piano’s manufacturer had mostly used trichords (three thin strings per key) in the lower bass register (notes below the Middle C) instead of a single thick string per key (monochords). Only the eight leftmost bass keys were monochords. Keys with three strings each will never produce a dense, long lasting and rich bass sound, compared to keys with a single string each, which are heavier and would vibrate much longer. 
