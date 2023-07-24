@@ -26,7 +26,7 @@ Those were relatively easy to fix. What was a bigger challenge was repairing the
 
 To restore the keys, I dismantled the entire action so that I could reach the parts inside to repair and lubricate. Once it was dismantled, I replaced all the felt strips and other felt parts inside the action. I also had to bring the friction levels of all the centre pins to about 4 gr. The centre pin forms the metal axis core of the wooden flange, which is the hinge of the hammer. If the friction is too great, the flange will not work and pressing the piano key will not result in any sound at all, or it will cause the key to remain depressed. I found that in some of the centre pins, the friction level was over 40 gr, which explains why some of the keys were not working initially.
 
-![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/old%20and%20worn-out%20felt%20strips%201.jpg)
+![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/old%20and%20worn-out%20felt%20strips%202.jpg)
 <div style="background-color: white;text-align:center">The old and worn-out felt strips along the top of the piano keys have been replaced.</div>
 
 ![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/gram-measuring%20gauge%20device%201.jpg)
