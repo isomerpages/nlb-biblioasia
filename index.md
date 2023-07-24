@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-19/issue-2/jul-sep-2023/golden-mile-complex/
-      button: Golden Mile Complex<br>Five Decades of an Architectural Icon
+      button: Golden Mile Complex:<br>Five Decades of an Architectural Icon
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
