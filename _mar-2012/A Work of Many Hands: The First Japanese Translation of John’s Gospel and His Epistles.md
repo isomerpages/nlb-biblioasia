@@ -118,7 +118,7 @@ On 6 October 2011, 120 people gathered for the 50th Memorial Service commemorati
 <br/>
 <img src="/images/Vol%207%20issue%204/JohnGospel/Tanaka1.jpg" style="width: 100px; height: 100px;"/>
 <b>Sachiko Tanaka</b><br>
-Professor Emeritus<br> Sugiyama Jogakuen University.
+Professor Emeritus<br> Sugiyama Jogakuen University
 </div></center>
 
 <center>
@@ -126,7 +126,7 @@ Professor Emeritus<br> Sugiyama Jogakuen University.
 <div style="background-color: white;">
 <br/>
 <img src="/images/Vol%207%20issue%204/JohnGospel/Irene.jpg" style="width: 100px; height: 100px;"/>
-<b>IIrene Lim</b><br>Senior Associate I<br> NL Heritage<br>National Library Board</div></center>
+<b>Irene Lim</b><br>Senior Associate <br> NL Heritage<br>National Library Board</div></center>
 
 	
 #### **REFERENCES**
