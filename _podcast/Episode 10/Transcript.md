@@ -4,6 +4,8 @@ permalink: /podcast/recording-industry/transcript/
 description: ""
 third_nav_title: Episode 10
 ---
+[Music playing]
+
 Jimmy  
 You're listening to BiblioAsia+, a podcast produced by the National Library of Singapore. At BiblioAsia, we tell stories about Singapore's past: some unfamiliar, others forgotten, all fascinating.
 
