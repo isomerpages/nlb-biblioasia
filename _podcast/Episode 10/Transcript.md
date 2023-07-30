@@ -33,7 +33,7 @@ He worked for EMI or originally for the Gramophone Company, that's HMV to most p
 Jimmy<br>
 EMI's reason for doing all these recordings was so that they could then record the music and sell it to these different markets subsequently?
 
-Ross<br>  
+Ross<br>
 Well, ironically the music was the secondary thing; the main thing they were interested in was selling their gramophones. They felt that in order to do that to the local people, they needed musical recordings in their own languages, and of things which they identify within their culture, like the Malay opera, for example. That way, people would buy the records, and then of course they needed a gramophone to play them on. The gramophone was the expensive item. So they actually tried to make the records relatively cheap to encourage people to invest in that, and then they would buy a gramophone. The gramophone company as it was at that time was one of the big multinational record companies. They started in London, but then they gradually spread out all the way through Europe, and then through the Middle East, just like a ripple in a pond. After five or 10 years, they were reaching the limits of what they'd already done in the areas closest to London. And now they were starting to look at markets ever further away, and that's how they got the idea to come out to Singapore and other parts of Asia.
 
 Jimmy<br>
