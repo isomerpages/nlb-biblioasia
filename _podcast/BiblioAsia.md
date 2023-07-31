@@ -78,7 +78,7 @@ Listen on: [Spotify](https://open.spotify.com/episode/12nHrDUKtxEF8F5zup9xK3), [
 The Crescendos didn’t just rock the airways in Singapore in the 1960s. They changed the entire music recording industry, says sound archivist Ross Laird.  <br>
 
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%2010%20(record%20by%20ross)v1.jpg" align="left"><br clear="all">
-<br>
+Listen on: [Spotify](https://open.spotify.com/episode/3dl1waKmiCYXXAQpdLJGrb), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-recording-industry-in-singapore-1903-1985/id1688142751?i=1000622945042), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NWQ3YzhkZDktYWRlOC00NGYwLThiZjEtOWUwZTFkZmQ0Njgx?sa=X&amp;ved=0CAUQkfYCahcKEwiQgq7phLqAAxUAAAAAHQAAAAAQCg)
 
 **8 August: Lest We Forget: Kranji War Cemetery**<br>
 Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Choo Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.<br>
