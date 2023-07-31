@@ -2,12 +2,12 @@
 title: "A Work of Many Hands: The First Japanese Translation of John’s Gospel
   and His Epistles"
 permalink: /vol-7/issue-4/mar-2012/japanese-translation-gospel/
-description: "The first Japanese translation of John’s Gospel and His Epistles
+description: The first Japanese translation of John’s Gospel and His Epistles
   was printed at a small printing press in 1837 in Singapore. Professor Emeritus
   Sachiko Tanaka and Senior Associate Irene Lim trace the path it took for this
-  book to be produced. "
+  book to be produced.
 ---
-#### The first Japanese translation of _John’s Gospel and His Epistles_ was printed at a small printing press in 1837 in Singapore. _Professor Emeritus Sachiko Tanaka_ and Senior Associate _Irene Lim_ trace the path it took for this book to be produced.
+#### The first Japanese translation of&nbsp;_John’s Gospel and His Epistles_&nbsp;was printed at a small printing press in 1837 in Singapore.&nbsp;_Professor Emeritus Sachiko Tanaka_&nbsp;and Senior Associate&nbsp;_Irene Lim_&nbsp;trace the path it took for this book to be produced.
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/JohnGospel/The%20Gospel.jpg">
  <div style="background-color: white;">The first Japanese translation of ‘The Gospel According To John’ by Dr Karl Gützlaff. (Source: The Japan Bible Society).</div>
@@ -44,7 +44,7 @@ A shipwreck that left three Japanese stranded and severely homesick in a foreign
 
 
 <img style="width:50%;" src="/images/Vol%207%20issue%204/JohnGospel/gutzlaff1.jpg">
- <div style="background-color: white;">Dr Karl Gützlaff. Journal of Three Voyages along the Coast of China in 1831, 1832, & 1833, with the notices of Siam, Corea, and the Loo-Choo Islands. 2nd version. 1834, London: Frederick Westley and A. H. Davis, Stationers’ Hall Court.
+ <div style="background-color: white;">Dr Karl Gützlaff. Journal of Three Voyages along the Coast of China in 1831, 1832, &amp; 1833, with the notices of Siam, Corea, and the Loo-Choo Islands. 2nd version. 1834, London: Frederick Westley and A. H. Davis, Stationers’ Hall Court.
 </div>
 
 Gutzlaff also wrote to the American Bible Society in January 1837 detailing how these hours were spent: “Whilst I have the original text before me, I translate sentence by sentence asking my native assistants how they understand this; and after having ascertained that they comprehend me, they put the phraseology into good Japanese without changing the sense. One of them writes this down, and we revise it afterwards jointly…” (ABS History, Essay #16, Part III-G, , Hills, date unknown, G-2, G-3). Admittedly, it was a rudimentary attempt at translation by modern-day standards. The three Japanese must have tried hard to understand Gutzlaff’s English and the new concepts of the Gospel message, and thereafter find suitable Japanese expressions for these with their limited vocabulary. After seven to eight months of intense interactions, Gutzlaff and the three Japanese completed the manuscript of the Japanese translation of John’s Gospel and his Epistles.
@@ -87,7 +87,7 @@ Thomsen subsequently built a very extensive printing works, whose mortgagor was 
 
 This may be regarded as the founding of the ABCFM mission in Singapore. Printing in Chinese was carried out by xylographic printing, with the Mission Press known in Chinese as 新嘉 坡：堅夏書院蔵板 . Alfred North (1807– 1866), having been trained as a printer by S. W. Williams’ father in America, was sent to Singapore in 1836 to supervise the mission press. In March 1836, Bridgman was able to announce that “a full printing establishment at Singapore had been purchased, consisted of two presses, of fonts of English, Arabic, Bugis, and Siamese type, and of other necessary equipment” (Latourette, 1917, p. 105, Note 120, quoting Bridgman’s letter to the Board on 1 March 1836).
 
-Given the printing capabilities available in Singapore, Bridgman therefore advised Gutzlaff to send his manuscript there to be cut in wood. Thus, on 3 December 1836, even before the seven Japanese castaways embarked on their homeward journey on the *Morrison*, Gutzlaff had sent the Japanese manuscript, together with his Chinese translation of the entire New Testament, Genesis and Exodus, to Singapore on the *Himmaleh*, an American merchant/Gospel ship owned by the Olyphant & Co. The ship left Macao for Celebes (now known as Sulawesi, a part of Indonesia) and Borneo island via Singapore and was expected to return by May or June with the printed books.[^20]
+Given the printing capabilities available in Singapore, Bridgman therefore advised Gutzlaff to send his manuscript there to be cut in wood. Thus, on 3 December 1836, even before the seven Japanese castaways embarked on their homeward journey on the *Morrison*, Gutzlaff had sent the Japanese manuscript, together with his Chinese translation of the entire New Testament, Genesis and Exodus, to Singapore on the *Himmaleh*, an American merchant/Gospel ship owned by the Olyphant &amp; Co. The ship left Macao for Celebes (now known as Sulawesi, a part of Indonesia) and Borneo island via Singapore and was expected to return by May or June with the printed books.[^20]
 
 Besides the limited printing capabilities, the language competence of the wood-carvers posed another challenge. The Chinese wood-carvers at the Mission Press had no knowledge of Japanese and thus produced the woodcuts for the manuscript based on the visual image of the Japanese characters. This is substantiated by the fact that the printed manuscript shows mistakes that would not have been made by one who had simple knowledge of Japanese. For example, ツ クル (‘to make’) was cut asツケル, and ヒトツモ (‘even one’) was cut asヒトツ七.
 
@@ -115,30 +115,30 @@ On 6 October 2011, 120 people gathered for the 50th Memorial Service commemorati
 <center>
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%207%20issue%204/JohnGospel/Tanaka1.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%207%20issue%204/JohnGospel/Tanaka1.jpg" style="width: 100px; height: 100px;">
 <b>Sachiko Tanaka</b><br>
-Professor Emeritus<br> Sugiyama Jogakuen University.
+Professor Emeritus<br> Sugiyama Jogakuen University
 </div></center>
 
 <center>
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%207%20issue%204/JohnGospel/Irene.jpg" style="width: 100px; height: 100px;"/>
-<b>IIrene Lim</b><br>Senior Associate I<br> NL Heritage<br>National Library Board</div></center>
+<br>
+<img src="/images/Vol%207%20issue%204/JohnGospel/Irene.jpg" style="width: 100px; height: 100px;">
+<b>Irene Lim</b><br>Senior Associate<br> NL Heritage<br>National Library Board</div></center>
 
 	
 #### **REFERENCES**
 
  
-Aichi Mihama & Friends of Otokichi Society. (Eds.). (2002, 2006). _Otokichi no Ashiato o Otte – Kusanone Katsudo no 15nen_ \[Footprints of Otokichi – 15 years of grassroots activities\]. Mihama: Town of Mihama.
+Aichi Mihama &amp; Friends of Otokichi Society. (Eds.). (2002, 2006). _Otokichi no Ashiato o Otte – Kusanone Katsudo no 15nen_ \[Footprints of Otokichi – 15 years of grassroots activities\]. Mihama: Town of Mihama.
 
 Aihara, R. (1954). _Tenpo Hachinen Beisen Morrison-gou Torai no Kenkyu_ \[A study of American Ship Morrison visiting to Japan in 1837\]. Tokyo: Yajin-sha.
 
 Akiyama, N. (2006). _Hon no Hanashi – Meijiki no Kirisutokyo-sho_ \[A story of books – Christian books in the Meihi Era\]. Tokyo: Shinkyo Publishing Co.
 
-Beasley, W.G. (1995). _Great Britain and the opening of Japan 1834–1858_. Kent: Japan Library. (First published in 1951 by Luzac & Co.)
+Beasley, W.G. (1995). _Great Britain and the opening of Japan 1834–1858_. Kent: Japan Library. (First published in 1951 by Luzac &amp; Co.)
 
 Byrd, C.H. (1970). [_Early printing in the Straits Settlement, 1806–1858_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081984). Singapore: National Library. (Call no.: RCLOS 686.2095957 BYR)
 
@@ -146,11 +146,11 @@ Haruna, A. (1979). _Nippon Otokichi Hyoryuki_ \[_A story of Otokichi’s drift_\
 
 Hawks, F. (Ed.). (1856). _Narrative of the expedition of an American squadron to the China seas and Japan, performed in the years 1852, 1853 and 1854, under the command of Commodore M.C. Perry, United States navy, by order of the Government of the United States_. Washington: Beverley Tucker, Senate Printer. (Not available in NLB holdings)
 
-Hills, M.T. (1965). ABS history, essay # 16, Part III-G, Text & Translation. G-2 \[Gutzlaff’s letter to ABS in January, 1837) and G-3 (Williams’ letter 31 January 1843, reporting how the money was used).
+Hills, M.T. (1965). ABS history, essay # 16, Part III-G, Text &amp; Translation. G-2 \[Gutzlaff’s letter to ABS in January, 1837) and G-3 (Williams’ letter 31 January 1843, reporting how the money was used).
 
-Hudson’s Bay Company Archives. (1973). C. 4/1, Fols. 15d.26 & C. 7/132. Winnipeg: Archives of Manitoba.
+Hudson’s Bay Company Archives. (1973). C. 4/1, Fols. 15d.26 &amp; C. 7/132. Winnipeg: Archives of Manitoba.
 
-King, C.W. & Lay, G.T. (1839). [_The Claims of Japan and Malaysia upon Christendom, exhibited in notes of voyages made in 1837 from Canton, in the ship Morrison and the Brig Himmaleh under the direction of the owners_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202657436) (2 vols.). New York: E. French. (Call no.: RRARE 266.0237305 CLA)
+King, C.W. &amp; Lay, G.T. (1839). [_The Claims of Japan and Malaysia upon Christendom, exhibited in notes of voyages made in 1837 from Canton, in the ship Morrison and the Brig Himmaleh under the direction of the owners_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202657436) (2 vols.). New York: E. French. (Call no.: RRARE 266.0237305 CLA)
 
 Latourette, K.S. (1917). _The History of early relations between the United States and China 1784–1844_. New Haven: Yale University Press.
 
@@ -160,15 +160,15 @@ Leong, F.M. (2005). [_The career of Otokichi_](https://eservice.nlb.gov.sg/item_
 
 Lim, I. (2008). [_Mission Press_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1074_2008-12-20.html). Retrieved from Singapore Infopedia website.
 
-Milne, W.C. (1820). [_Retrospect of the first ten years of the Protestant mission to China. (now, in connection with the Malay, denominated, the Ultra-Ganges missions); Accompanied with miscellaneous remarks on the literature, history, and mythology of China, & c_](https://eresources.nlb.gov.sg/printheritage/detail/176afa75-9aa1-4c37-9a62-3a805266accf.aspx). Malacca: Anglo-Chinese Press. Retrieved from BookSG.
+Milne, W.C. (1820). [_Retrospect of the first ten years of the Protestant mission to China. (now, in connection with the Malay, denominated, the Ultra-Ganges missions); Accompanied with miscellaneous remarks on the literature, history, and mythology of China, &amp; c_](https://eresources.nlb.gov.sg/printheritage/detail/176afa75-9aa1-4c37-9a62-3a805266accf.aspx). Malacca: Anglo-Chinese Press. Retrieved from BookSG.
 
-Ohmori, J., Higashida, M. & Tanaka, S. (2007). _Global drifters_. Nagoya: The Otokichi Association.
+Ohmori, J., Higashida, M. &amp; Tanaka, S. (2007). _Global drifters_. Nagoya: The Otokichi Association.
 
 O’Sullivan, l\\L. (1984). The London Missionary Society: A written record of missionaries and printing presses in the Straits Settlements, 1815–1847. _Journal of the Malaysian Branch of the Royal Asiatic Society, 57_ (2) (247), 61–104. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Parker, P. (1838, June). Journal of Mr Parker on a voyage to Japan. _Missionary Herald, 34_ (6), 203–208.
 
-Plan of the town of Singapore and its environs \[cartographic material\] (1854). Surveyed in 1842 by Government Surveyor, Singapore.  
+Plan of the town of Singapore and its environs \[cartographic material\] (1854). Surveyed in 1842 by Government Surveyor, Singapore. &nbsp;
 
 Proudfoot, I. (1994). [_The print threshold in Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7384005). Clayton: Centre of Southeast Asian Studies, Monash University. (Call no.: RSEA 070.509595 PRO)
 
@@ -235,25 +235,6 @@ Voyages of the Himmaleh and Morrison in 1837. (1876). _The Chinese Recorder and 
 
 [^20]:  _Missionary Herald_ for the year 1837, p. 456–461. Report from Canton, dated 7 March 1837. The detailed description on the trip of the _Himmaleh_, see the Preface, Vol. 1, by King and Lay, 1839.
 
-[^21]: Under the ‘Report of the Mission for the Year 1837’ on the print by blocks for Chinese printing it reads: “Blocks have been prepared for the Life of Christ, of Moses, Joseph, Daniel, John, and Paul, and two or three other tracts by Mr Gutzlaff; for a revised edition of Milne’s Village Sermons, Medhurst’s Harmony of Gospels, the Gospels and Epistles of John in Japanese”… (p. 419); Harvard-Yenching Misisonary Writings in Chinese Microfims, compiled by M. Poon (January 2006), also lists the title, translator’s name, the place and the year of publication, Retrieved from Chinsci bokee website.  
+[^21]: Under the ‘Report of the Mission for the Year 1837’ on the print by blocks for Chinese printing it reads: “Blocks have been prepared for the Life of Christ, of Moses, Joseph, Daniel, John, and Paul, and two or three other tracts by Mr Gutzlaff; for a revised edition of Milne’s Village Sermons, Medhurst’s Harmony of Gospels, the Gospels and Epistles of John in Japanese”… (p. 419); Harvard-Yenching Misisonary Writings in Chinese Microfims, compiled by M. Poon (January 2006), also lists the title, translator’s name, the place and the year of publication, Retrieved from Chinsci bokee website. &nbsp;
 
 [^22]: Nine copies exist outside Japan: ABCFM in Boston (3 copies, one of them used to belong to Ira Tracy, one to S.W. Williams). Harvard University Library, American Bible Society (2 copies), British Bible Society, British Library and Paris National Library. Seven copies exist in Japan: Tokyo Theological Seminary, Doshisha University (Kyoto), Japan Bible Society (2 copies), Meiji Gakuin University, Tenri Library (Nara) and one owned by an individual. The original copies of _John’s Epistles_ in Japanese exist only at two places: British Library and Paris National Library.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

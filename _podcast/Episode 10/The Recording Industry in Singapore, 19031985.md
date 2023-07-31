@@ -6,24 +6,22 @@ description: Singapore used to be a major recording centre in Southeast Asia,
   archivist Ross Laird, author of From Keroncong to Xinyao.
 third_nav_title: Episode 10
 ---
-### Coming on 1 August
-
-Singapore used to be a major recording centre in Southeast Asia, with over 10,000 local recordings made before 1960. Hear the story from sound archivist Ross Laird, author of *From Kronchong to Xinyao*.
+Singapore used to be a major recording centre in Southeast Asia, with over 10,000 local recordings made before 1960. Hear the story from sound archivist Ross Laird, author of *From Keronchong to Xinyao*.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0CjUWHrPAWQ" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
+Available on [Spotify](https://open.spotify.com/episode/3dl1waKmiCYXXAQpdLJGrb), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-recording-industry-in-singapore-1903-1985/id1688142751?i=1000622945042), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NWQ3YzhkZDktYWRlOC00NGYwLThiZjEtOWUwZTFkZmQ0Njgx?sa=X&amp;ved=0CAUQkfYCahcKEwiQgq7phLqAAxUAAAAAHQAAAAAQCg), and wherever you listen.
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
-Ross Laird was formerly a sound archivist with the National Film &amp; Sound Archive of Australia. He was awarded NLB’s Lee Kong Chian Research Fellowship in 2010, during which he conducted research into the history of the recording industry in Singapore. He is also the author of [*From Kronchong to Xinyao*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205959499), which is a history of Singapore’s recording industry.
+Ross Laird was formerly a sound archivist with the National Film &amp; Sound Archive of Australia. He was awarded NLB’s Lee Kong Chian Research Fellowship in 2010, during which he conducted research into the history of the recording industry in Singapore. He is also the author of [*From Keronchong to Xinyao*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205959499), which is a history of Singapore’s recording industry.
  
 #### **Resources** ####
 Ross Laird, "[Local Music Reaches a Crescendo: The Singapore Record Industry in the 1960s](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s/)," *BiblioAsia* 19, no. 2. 
 
-Ross Laird, [*From Kronchong to Xinyao: The Record Industry in Singapore, 1903–1985*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205959499) (Singapore: National Library Board, 2023). (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
+Ross Laird, [*From Keronchong to Xinyao: The Record Industry in Singapore, 1903–1985*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205959499) (Singapore: National Library Board, 2023). (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
 
 Joseph C. Pereira, [*Apache over Singapore: The Story of Singapore Sixties Music*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14220601), vol. 1 (Singapore: Select Publishing, 2011). (From National Library, Singapore, call no. RSING 781.64095957 PER)
 

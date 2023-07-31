@@ -88,7 +88,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 <div style="background-color: white;"> 
 <br>
-<img src="/images/Vol%2018%20Issue%201/Kamala%20Club/Vandana_Aggarwal.png" style="width: 100px; height: 100px;" />
+<img src="/images/Vol%2018%20Issue%201/Kamala%20Club/Vandana_Aggarwal.png" style="width: 100px; height: 100px;">
  <b>Vandana Aggarwal</b> is a teacher and a freelance journalist. An active citizen archivist for the National Archives of Singapore, she is the author of<i> Indian Women: The Kamala Club Singapore</i> (2018). She enjoys reading and researching about history.</div>
 
 #### **NOTES**
@@ -119,7 +119,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^13]:“[Indian and Ceylonese Ladies](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19310603-1.2.110),”
 
-[^14]:[Mrs Lakshmi Naidu](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2bab1e8a-115f-11e3-83d5-0050568939ad-OHC000110_008/web/html5/index.html), oral history interview by Tan Beng Luan, 17 December 1981, transcript and MP3 audio, Reel/Disc 8 of 11. (From National Archives of Singapore, Accession no. 000110)
+[^14]:[Mrs Lakshmi Naidu](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2bab1e8a-115f-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 17 December 1981, transcript and MP3 audio, Reel/Disc 8 of 11. (From National Archives of Singapore, Accession no. 000110)
 
 [^15]:R.R. Samy, “[Woman’s Corner](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19310718-1.2.3),”<i>Malaya Tribune</i>, 18 July 1931, 2. (From NewspaperSG)
 
@@ -133,7 +133,7 @@ The Kamala Club was officially declared open on 21 May 1951 and since then, the 
 
 [^20]:[The Lotus Club](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19341213-1.2.148),” <i>Malaya Tribune</i>, 13 December 1934, 16. (From NewspaperSG)
 
-[^21]:[Mrs Lakshmi Naidu](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f20c2067-115d-11e3-83d5-0050568939ad-OHC000110_009/web/html5/index.html), oral history interview by Tan Beng Luan, 24 February 1982, transcript and MP3 audio, Reel/Disc 9 of 11. (From National Archives of Singapore, Accession no. 000110)
+[^21]:[Mrs Lakshmi Naidu](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/f20c2067-115d-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 24 February 1982, transcript and MP3 audio, Reel/Disc 9 of 11. (From National Archives of Singapore, Accession no. 000110)
 
 [^22]: Britannica, The Editors of Encyclopaedia, “purdah,” <i>Encyclopedia Britannica</i>, 9 May 2008, https://www.britannica.com/topic/purdah.
 

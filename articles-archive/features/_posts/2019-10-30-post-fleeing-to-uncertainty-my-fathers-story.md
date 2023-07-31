@@ -4,7 +4,6 @@ date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/flee-to-uncertainty/
 layout: post
 ---
-
 #### Barely 13 years old then, K. Ramakanthan and his family escaped with their lives from Perak to Johor during the Japanese Occupation. **Aishwariyaa Ramakanthan** recounts her father’s harrowing journey.
 
 <img src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing1.JPG">
@@ -97,7 +96,7 @@ In the weeks and months that followed, we began the long and laborious journey t
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing7.jpg" style="width: 100px; height: 100px;">
-<b>Aishwariyaa Ramakanthan</b>is an English and Social Studies teacher. She graduated with a bachelor’s degree in English from the National University of Singapore and obtained her master’s in history from the University of San Diego, California. She also has a post-graduate Diploma in Education from the Institute of Education, Singapore.
+<b>Aishwariyaa Ramakanthan</b> is an English and Social Studies teacher. She graduated with a bachelor’s degree in English from the National University of Singapore and obtained her master’s in history from the University of San Diego, California. She also has a post-graduate Diploma in Education from the Institute of Education, Singapore.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
