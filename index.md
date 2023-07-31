@@ -20,12 +20,21 @@ sections:
   - infopic:
       title: The Recording Industry in Singapore, 1903-1985
       subtitle: podcast
-      description: "Singapore used to be a major recording centre in Southeast Asia,
-        with over 10,000 local recordings made before 1960. "
+      description: Singapore used to be a major recording centre in Southeast Asia,
+        with over 10,000 local recordings made before 1960.
       button: Listen to the podcast
       url: /podcast/recording-industry/
       image: /images/Podcast/ross ep10.jpg
       alt: Recording Industry
+  - infopic:
+      title: A Grand Piano's Chequered History
+      subtitle: Arts
+      description: A grand piano that was to be the pride of Singapore failed to
+        silence its critics. The odds, however, were always against it.
+      button: A New Lease of Life
+      url: /vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/
+      image: /images/Vol 19 Issue 3/2 Grand Piano/hungarian pianist.jpg
+      alt: Image alt text
   - infopic:
       title: The Stories Behind the Shrines on Kusu Island
       subtitle: podcast
@@ -91,15 +100,6 @@ sections:
       url: /videos/eat-more-wheat-campaign/
       image: "/images/Videos: From Book to Cook/Milk Noodle Soup pg 18-19.jpg"
       alt: Singapore’s old recipes
-  - infopic:
-      title: A Grand Piano's Chequered History
-      subtitle: Arts
-      description: A grand piano that was to be the pride of Singapore failed to
-        silence its critics. The odds, however, were always against it.
-      button: A New Lease of Life
-      url: /vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/
-      image: /images/Vol 19 Issue 3/2 Grand Piano/hungarian pianist.jpg
-      alt: Image alt text
   - infopic:
       title: Stone Tools in Singapore
       subtitle: Podcast
