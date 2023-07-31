@@ -22,7 +22,7 @@ sections:
       subtitle: podcast
       description: Singapore used to be a major recording centre in Southeast Asia,
         with over 10,000 local recordings made before 1960.
-      button: Listen to the podcast
+      button: Listen to BiblioAsia+
       url: /podcast/recording-industry/
       image: /images/Podcast/ross ep10.jpg
       alt: Recording Industry
@@ -40,7 +40,7 @@ sections:
       subtitle: podcast
       description: Researcher William L. Gibson undertakes a pilgrimage into the
         archives to uncover the history of the <i>keramat</i> on Kusu Island.
-      button: listen to the podcast
+      button: Listen to BiblioAsia+
       url: /podcast/keramat-kusu/
       image: /images/Podcast/william episode 9.jpg
       alt: kusu island shrines
@@ -60,7 +60,7 @@ sections:
       description: Librarian Lim Tin Seng rediscovers Singapore’s first island resort
         getaway and solves various mysteries surrounding it, including where
         Sarong Island is now.
-      button: listen to the podcast
+      button: Listen to BiblioAsia+
       url: /podcast/sarong-island/
       image: /images/Podcast/tinseng-sarong island.jpg
       alt: Image alt text
@@ -78,7 +78,7 @@ sections:
       subtitle: Podcast
       description: There’s more to firewalking than the public display of religious
         devotion.
-      button: Stories behind the rituals.
+      button: Stories behind the rituals
       url: /podcast/firewalking/
       image: /images/Podcast/ba ep7 nalina.jpg
       alt: Image alt text
@@ -90,7 +90,7 @@ sections:
       button: WHEAT IS NEAT
       url: /vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/
       image: /images/Vol 19 Issue 3/Wheat/19980005442 - img0104v2.jpg
-      alt: Image alt text
+      alt: eat more wheat
   - infopic:
       title: Recreating a Recipe from the "Eat More Wheat" Campaign
       subtitle: "video: From Book to Cook"
@@ -115,7 +115,7 @@ sections:
       description: As the history of the company shows, its new name is less about
         breaking away from the past as it is about leaping confidently into the
         future.
-      button: A WELL-CHOREOGRAPHED MOVE
+      button: history of Singapore Ballet
       alt: Singapore Ballet
       url: /vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/
       image: /images/ballet under the stars 2022 (resized).jpg
