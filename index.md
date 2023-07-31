@@ -18,6 +18,15 @@ sections:
       background: /images/Vol 19 Issue 2/Golden Mile
         Complex/golden_mile_complex_hero_image (below 500kb).jpg
   - infopic:
+      title: The Recording Industry in Singapore, 1903-1985
+      subtitle: podcast
+      description: "Singapore used to be a major recording centre in Southeast Asia,
+        with over 10,000 local recordings made before 1960. "
+      button: Listen to the podcast
+      url: /podcast/recording-industry/
+      image: /images/Podcast/ross ep10.jpg
+      alt: Recording Industry
+  - infopic:
       title: The Stories Behind the Shrines on Kusu Island
       subtitle: podcast
       description: Researcher William L. Gibson undertakes a pilgrimage into the
