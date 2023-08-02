@@ -3,7 +3,7 @@ title: "32 Binjai Park: The Modernist Home of an Architect"
 permalink: /vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/
 description: The house that Lee Kip Lin built has stood the test of time,
   reflecting its simple yet modern and clean design.
-image: /images/Vol 19 Issue 2/Brinjai/image_1.png
+image: /images/Vol 19 Issue 2/Binjai/image2.png
 ---
 #### The house that Lee Kip Lin built has stood the test of time, reflecting its simple yet modern and clean design. 
 By Lim Tin Seng and Lee Peng Hui
