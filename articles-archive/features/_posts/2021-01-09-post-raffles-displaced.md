@@ -4,9 +4,7 @@ permalink: /vol-16/issue-4/jan-mar-2021/raffles/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Raffles Displaced
 third_nav_title: Raffles Displaced
-
 ---
-
 <style>
 table { 
 	background-color: #d6dae9;
@@ -22,8 +20,8 @@ table {
 #### Raffles, once widely admired and revered as the founder of Singapore, has been portrayed in a more complicated light in recent years, as **Ng Yi-Sheng** tells us.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/RafflesDisplaced.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/RafflesDisplaced.jpg">
 <i>Raffles’ “Disappearance”</i> by Teng Kai Wei in partnership with the Singapore Bicentennial Office. On 31 December 2018, the polymarble Raffles statue along the Singapore River was painted over to give the optical illusion that it had been removed. <i>Courtesy of the Singapore Bicentennial Office</i>.
 </div>
 
@@ -38,9 +36,9 @@ Meanwhile, in Singapore, satirical Twitter account @Raffles_Statue reposted a vi
 This was just one of many voices in mid-2020 urging Singaporeans to consider the removal of the statue of Stamford Raffles. Dhevarajan Devadas, a research assistant at the Institute of Policy Studies, posted on Facebook that we should “finally acknowledge the impact of colonialism on the indigenous people of this region by vacating his place of honour”.[^2] Veteran journalist Jeevan Vasagar agreed, writing in a column for the *Nikkei Times* that “Raffles should disappear for good”.[^3]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/JamesThomson.jpg">
-An engraving of Stamford Raffles by James Thomson, 1824. National Portrait Gallery, London. <i>Image reproduced from Boulger, D.C. (1897). The Life of Sir Stamford Raffles. London: Horace Marshall & Son. Collection of the National Library, Singapore. (Accession no.: B03013459C)</i>.
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/JamesThomson.jpg">
+An engraving of Stamford Raffles by James Thomson, 1824. National Portrait Gallery, London. <i>Image reproduced from Boulger, D.C. (1897). The Life of Sir Stamford Raffles. London: Horace Marshall &amp; Son. Collection of the National Library, Singapore. (Accession no.: B03013459C)</i>.
 </div>
 
 How did this revolt against Raffles arise? One major stimulus was the publication of Tim Hannigan’s *Raffles and the British Invasion of Java* (2012).[^4] This non-fiction work details how Raffles instigated the British East India Company’s bloody invasion and subsequent occupation of Java between 1811 and 1815, ritually humiliating the royals and pillaging their treasure houses, and mismanaging funds and alienating his colleagues. He even allowed the local Javanese to be kidnapped for slavery, including sexual bondage, for his friend Alexander Hare’s colony in Banjarmasin, on the island of Borneo.[^5]
@@ -52,8 +50,8 @@ Artists and playwrights have been inspired by these polemics. Jimmy Ong, for ins
 Haresh Sharma’s play *Civilised* (2019) imagines Raffles and Farquhar still alive in the present day, collaborating as oppressors. Alfian Sa’at and Neo Hai Bin’s documentary theatre production *Merdeka* / 獨立 / சுதந்திரம் (2019) features re-enactments of key events in Singapore’s history, including Raffles’ callous treatment of Sultan Husain Shah in Singapore and the royal family in Yogyakarta.[^7]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/2019Theatre.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/2019Theatre.jpg">
 The 2019 theatre production of <i>Merdeka</i> / 獨立 / சுதந்திரம் by Alfian Sa’at and Neo Hai Bin re-enacts key events in Singapore’s history, including Stamford Raffles’ callous treatment of Sultan Husain Shah in Singapore and the royal family in Yogyakarta. <i>Courtesy of of W!ld Rice</i>.
 </div>
 
@@ -64,8 +62,8 @@ These revisionist depictions of Raffles represent only the latest in a series of
 The earliest artworks associated with Raffles arose not out of victory, but abject failure. In 1815, he was dismissed from Java, having failed to make the colony profitable for the East India Company. Back in London, he took pains to restore his reputation. In 1817, he wrote and published *The History of Java*[^8] and commissioned portraits of himself by George Francis Joseph and James Lonsdale, a marble bust by sculptor Francis Leggatt Chantrey, a miniature by Alfred Edward Chalon as well as a coat of arms to commemorate his knighthood.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/Francis.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/Francis.jpg">
 Plaster cast of Francis Leggatt Chantrey’s bust of Stamford Raffles. <i>Bastin Collection, National Library, Singapore. (Accession no.: B29029424J)</i>.
 </div>
 
@@ -96,8 +94,8 @@ In the years that followed, the statue suffered a number of indignities. During 
 Meanwhile, Raffles’ image proliferated in other media. In a 1927 poster produced for the Empire Marketing Board,[^16] Raffles stands alongside other colonists such as James Cook[^17] and Cecil John Rhodes[^18] in a group portrait. He also appears in *The Pageant of Empire: An Historical Epic*, held at the Empire Stadium (now Wembley Stadium) in London in 1924.[^19] The souvenir volume features an illustration titled *Singapore: Stamford Raffles’ Farewell* by Gerald Spencer Pryse, which shows a garlanded Raffles with local men and women kneeling before him as if in worship.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/Farewell.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/Farewell.jpg">
 Artwork of <i>Singapore: Stamford Raffles’ Farewell</i> by Gerald Spencer Pryse, 1924. It shows a garlanded Stamford Raffles with local men and women kneeling before him as if in worship. The illustration appears in the souvenir volume for <i>The Pageant of Empire: An Historical Epic</i> held in London in 1924. <i>Courtesy of National Archives of Singapore</i>.
 </div>
 
@@ -122,8 +120,8 @@ Writers, too, paid tribute. They retold Raffles’ story in works such as Herewa
 Perhaps the strangest of these texts is Janet Appleyard’s picture book series, *Explore Singapore* (1992–94). The first volume, *Raffles Finds a Friend*, is a standard biography of the man. But there is little exploration of history in the five subsequent titles: *Raffles by the River*, *Raffles Meets the Merlions*, *Raffles and the Elephant*, *Raffles at Raffles* and *Raffles Happy Birthday*.[^27] Instead, these books narrate the adventures of the two Raffles statues as they come to life at night and frolic around modern Singapore. 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/Book1+Book2.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/Book1+Book2.jpg">
 <i>Raffles Finds a Friend</i> is a standard biography of the man, while <i>Raffles by the River</i> narrates the adventures of the two Raffles statues as they come to life at night and frolic around modern Singapore. These two books are part of Janet Appleyard’s six-volume picture book series, <i>Explore Singapore. Collection of the National Library, Singapore. (Accession nos.: B04216016I; B04216015H)</i>.
 </div>
 
@@ -148,8 +146,8 @@ In Isa Kamari’s novel *Duka Tuan Bertakhta*[^33] (*His Majesty’s Sorrow*) (2
 Fyerool Darma’s installation, The *Most Mild-Mannered Men*, created for the fifth edition of the Singapore Biennale in 2016, captures the Malay perspective on Raffles. The work consists of two chalk-white pedestals: one bears a grotesquely bloated bust of Raffles, while the other stands empty, bearing only a plaque inscribed with the name of the Sultan who signed the treaty with him in 1819: “Hussein Mu’azzam Shah, 1776–1835”. Expressing fury towards the colonist is not the only part of an anti-colonial struggle; artists also seek to remember those who were colonised – not just the winners of history, but also the losers.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/FyeroolDrama.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/FyeroolDrama.jpg">
 Fyerool Darma’s installation, <i>The Most Mild-Mannered Men</i>, for the fifth edition of the Singapore Biennale, 2016. The work consists of two chalk-white pedestals: one bears a grotesquely bloated bust of Raffles, while the other stands empty, bearing only a plaque inscribed with the name of the Sultan who negotiated with him: “Hussein Mu’azzam Shah, 1776–1835”. <i>Courtesy of Fyerool Darma</i>.
 </div>
 
@@ -164,40 +162,40 @@ What is revolutionary, however, is the fact that Raffles and Lee are portrayed a
 We see similar gestures elsewhere: illustrator Shirley Eu imagines Raffles stripping down to his singlet and picking his nose on the cover of Catherine Lim’s *O Singapore!: Stories in Celebration* (1989);[^36] cartoonist Prudencio Miel has him speaking Singlish on the cover of *An Essential Guide to Singlish* (2003);[^37] and the Singapore Tourism Board’s advertising campaign *Let the Stars Guide You* (2017) shows him chowing down at food courts and buying clothes in Orchard Road.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/OSingapore.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/OSingapore.jpg">
 The cover illustration for Catherine Lim’s <i>O Singapore!: Stories in Celebration</i> by illustrator Shirley Eu shows Raffles stripping down to his singlet and picking his nose, 1989. <i>Image reproduced from Lim, C. (1989). O Singapore!: Stories in Celebration. Singapore: Times Books International. (Call no.: R S828 LIM)</i>.
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/EssentialGuide.jpg">
-The cover illustration for <i>An Essential Guide to Singlish</i> drawn by Prudencio Miel shows Stamford Raffles speaking in Singlish, 2003. <i>Image reproduced from Ma, M.P., & Hanna, S. (2003). An Essential Guide to Singlish. Singapore: Gartbooks. (Call no.: RSING 427.95957 ESS)</i>.
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/EssentialGuide.jpg">
+The cover illustration for <i>An Essential Guide to Singlish</i> drawn by Prudencio Miel shows Stamford Raffles speaking in Singlish, 2003. <i>Image reproduced from Ma, M.P., &amp; Hanna, S. (2003). An Essential Guide to Singlish. Singapore: Gartbooks. (Call no.: RSING 427.95957 ESS)</i>.
 </div>
 
 An especially memorable example is Colin Goh and Woo Yen Yen’s *Talking Cock: The Movie* (2002). In the comedy, he is portrayed as an object of utter ridicule. In one scene, Raffles bestows Singapore its name after a Malay woman screams “Singh kapuk!” (“The Sikh man has stolen something!”) and fantasises about a future mental institution full of young boys in tight shorts, which he will call Raffles Institution.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/BTSofCollin.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/BTSofCollin.jpg">
 A behind-the-scenes photo from Colin Goh and Woo Yen Yen’s <i>Talking Cock: The Movie</i>, 2002. In the comedy, Stamford Raffles is portrayed as an object of utter ridicule. <i>Courtesy of Colin Goh</i>.
 </div>
 
 There are, of course, works that attempt to seriously and sympathetically engage with Raffles. But increasingly, these stories have a more nuanced take, underscoring the fact that that he died in the prime of his life, in debt and dishonour, bereft of almost all his children.
 
-We see this in Charles Mandel’s horror thriller *Days of Sir Raffles* (1998),[^38] which imagines him unleashing and then suffering under an ancient curse. I conveyed the same message in my play *The Last Temptation of Stamford Raffles* (2008), which reconstructs the last 12 hours of Raffles’ life. In Kent Chan’s 2014 video work *To the Eastward (The Lines Divide)* and Brian Gothong Tan’s 2016 multimedia performance *Tropical Traumas: A Series of Cinematic Choreographies*, we not only hear of Raffles’ misfortunes, but see how he, and all other historical actors, are eclipsed by the majesty of the indigenous rainforest.
+We see this in Charles Mandel’s horror thriller *Days of Sir Raffles* (1998),[^38] which imagines him unleashing and then suffering under an ancient curse. I&nbsp;conveyed the same message in my play *The Last Temptation of Stamford Raffles* (2008), which reconstructs the last 12 hours of Raffles’ life. In Kent Chan’s 2014 video work *To the Eastward (The Lines Divide)* and Brian Gothong Tan’s 2016 multimedia performance *Tropical Traumas: A Series of Cinematic Choreographies*, we not only hear of Raffles’ misfortunes, but see how he, and all other historical actors, are eclipsed by the majesty of the indigenous rainforest.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/Play.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/Play.jpg">
 Ng Yi-Sheng’s play, <i>The Last Temptation of Stamford Raffles</i>, reconstructs the last 12 hours of Raffles’ life. It was staged by W!ld Rice in 2008. <i>Courtesy of W!ld Rice</i>.
 </div>
 
 Meanwhile, some artists have chosen to elevate the “common man” to stand as Raffles’ equal. Lee Wen’s installation *Untitled (Raffles)* (2000) consisted of a scaffold that visitors could climb to look the polymarble Raffles statue in the eye. Vertical Submarine’s *Foreign Talent* (2007) featured a statue of a foreign construction worker placed directly opposite Raffles’ statue.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/raffles/ForeignTalent.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Raffles/ForeignTalent.jpg">
 <i>Foreign Talent</i> by Vertical Submarine, 2007, featured a statue of a foreign construction worker placed directly opposite the statue of Stamford Raffles. <i>Courtesy of Vertical Submarine (Justin Loke and Joshua Yang)</i>.
 </div>
 
@@ -222,8 +220,8 @@ Panellist Faris Joraimi noted that much of the commentary assumed that those who
 |This article has its foundation in the author’s earlier essay, “Raffles Restitution: Artistic Responses to Singapore’s 1819 Colonisation”, first published in the *Journal of Southeast Asian Studies* (Volume 50, Issue 4, December 2019, pp. 599–631).|
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/NgYi-Sheng.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol-16-issue-4/authors/NgYi-Sheng.png" style="width: 100px; height: 100px;">
 <b>Ng Yi-Sheng</b> is a poet, fictionist, playwright and researcher. His books include his debut poetry collection last boy, which won the Singapore Literature Prize in 2008; the short story collection <i>Lion City</i>, which won the Singapore Literature Prize in 2020, and the performance lecture compilation <i>Black Waters, Pink Sands</i>.
 </div>
 
@@ -273,13 +271,13 @@ Panellist Faris Joraimi noted that much of the commentary assumed that those who
 
 [^21]: [Raffles](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690807-1.2.25). (1969, August 7). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^22]: Donald, M., & Donald, J. (1969). *[The first 150 years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081611)* (p. 1). Singapore: Donald Moore Press in association with the Singapore International Chamber of Commerce. (Call no.: RSING 959.57 MOR) 
+[^22]: Donald, M., &amp; Donald, J. (1969). *[The first 150 years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081611)* (p. 1). Singapore: Donald Moore Press in association with the Singapore International Chamber of Commerce. (Call no.: RSING 959.57 MOR) 
 
 [^23]: The institution anthem. Retrieved from RAMpage. 
 
 [^24]: Barley, N. (1991). *[The Duke of Puddle Dock: Travels in the footsteps of Stamford Raffles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7084914)*. London: Viking. (Call no.: RSING 325.31092 BAR)
 
-[^25]: Zhou, Y., & Goh, G. (2002). *[Stamford Raffles: Founder of modern Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203003849)*. Singapore: Asiapac Books. (Call no.: RCLOS 959.57092 ZHO-[JSB]) 
+[^25]: Zhou, Y., &amp; Goh, G. (2002). *[Stamford Raffles: Founder of modern Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203003849)*. Singapore: Asiapac Books. (Call no.: RCLOS 959.57092 ZHO-[JSB]) 
 
 [^26]: Glendinning, V. (2012). *[Raffles and the golden opportunity 1781–1826](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14482247)*. London: Profile Books. (Call no.: RSING 959.57021092 GLE-[HIS])
 
@@ -303,7 +301,7 @@ Panellist Faris Joraimi noted that much of the commentary assumed that those who
 
 [^36]: Lim, C. (1989). *[O Singapore!: Stories in celebration](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5215197)*. Singapore: Times Books International. (Call no.: R S828 LIM)
 
-[^37]: Ma, M.P., & Hanna, S. (2003). *[An essential guide to Singlish](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11927572)*. Singapore: Gartbooks. (Call no.: RSING 427.95957 ESS)
+[^37]: Ma, M.P., &amp; Hanna, S. (2003). *[An essential guide to Singlish](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11927572)*. Singapore: Gartbooks. (Call no.: RSING 427.95957 ESS)
 
 [^38]: Mandel, C. (1998). *[Days of Sir Raffles](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9160494)*. Singapore: Federal Publications. (Call no.: RSING 823 MAN) 
 
@@ -311,6 +309,6 @@ Panellist Faris Joraimi noted that much of the commentary assumed that those who
 
 [^40]: Aldgra, F. (2020, June 23). IPS research assistant receives abusive comments after former NMP Calvin Cheng beseech his FB followers to “tell him off”. *The Online Citizen*. Retrieved from The Online Citizen website.
 
-[^41]: Kwa, C.G., & Borschberg, P. (Eds). (2018). *[Studying Singapore before 1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203074612)*. Singapore: NUS Press. (Call no.: RSING 959.57 STU-[HIS])
+[^41]: Kwa, C.G., &amp; Borschberg, P. (Eds). (2018). *[Studying Singapore before 1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203074612)*. Singapore: NUS Press. (Call no.: RSING 959.57 STU-[HIS])
 
-[^42]: Kwa, C.G., Heng, D., Borschberg, P., & Tan, T.Y. (2019). *[Seven hundred years: A history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868733)* (p. 19). Singapore: National Library Board and Marshall Cavendish International. (Call no.: RSING 959.57 KWA-[HIS])
+[^42]: Kwa, C.G., Heng, D., Borschberg, P., &amp; Tan, T.Y. (2019). *[Seven hundred years: A history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868733)* (p. 19). Singapore: National Library Board and Marshall Cavendish International. (Call no.: RSING 959.57 KWA-[HIS])
