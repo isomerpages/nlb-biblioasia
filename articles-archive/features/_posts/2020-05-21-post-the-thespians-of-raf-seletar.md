@@ -1,11 +1,10 @@
 ---
-title: "The Thespians of RAF Seletar"
+title: The Thespians of RAF Seletar
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/thespians/
-third_nav_title: "The Thespians of RAF Seletar"
+third_nav_title: The Thespians of RAF Seletar
 image: /images/Vol-16-issue-1/Seletar/Seletar-title.jpg
 ---
-
 <style>
 table { 
 	background-color: #e5f1ee;
@@ -20,7 +19,7 @@ table {
 #### The RAF Seletar Theatre Club was a highly regarded amateur drama group in Singapore for more than 20 years. **Suriati Sani** provides a snapshot of the club’s history.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/Seletar/Seletar-title.jpg">
 
 Seletar Theatre Club’s production of <i>Meet Mr. Callaghan</i> in October 1954. <i>RAFSA Collection</i>, <i>courtesy of National Archives of Singapore</i>.
@@ -44,7 +43,7 @@ In the beginning, the club faced typical teething issues such as the lack of fun
 Some of these challenges were resolved when the inaugural theatre committee decided to open a clubhouse equipped with a bar, a rehearsal room and proper furnishings. “From that decision came the result that most members would spend the greater percentage of their spare time and interest whilst in Singapore, at the Theatre Club, living in almost a ‘family’ atmosphere.”[^5]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/Seletar/RAF-Seletar-Entrance.png">
 
 The main entrance of RAF Seletar airbase, 1930s. <i>RAFSA Collection, courtesy of National Archives of Singapore</i>.
@@ -66,7 +65,7 @@ In July 1963, the club completed a major reconstruction of the theatre’s stage
 Despite the setback, the club did not give up. Members used a temporary stage at the Junior RAF School in Seletar airbase to present Tennessee Williams' *Orpheus Descending* at the 1963 Inter-Services Drama Festival. The club also performed *The Laboratory* and *The Dear Departed*   in February 1964 on that same stage to raise funds for a new theatre. This money – along with the insurance payout, donations from the Nuffield Foundation[^12] and funds from other service stations – was used to construct a new theatre which opened in June 1964.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/Seletar/Lady-Wheeler-and-Mrs-Maisner.png">
 
 Lady Wheeler (centre), wife of the Commander of Britain’s Far East Air Force Air Marshal Neil Wheeler, and Mrs Maisner (left), wife of Station Commander and Group Captain Alec Maisner, visiting the RAF Seletar Theatre Club in 1971. They were briefed by R. J. Thompson. <i>RAFSA Collection, courtesy of National Archives of Singapore</i>.
@@ -80,7 +79,7 @@ During the two decades of its existence, the Seletar Theatre Club staged a total
 Pam Ayres, a writer, poet, broadcaster and entertainer, is one of those who attributes her success to the RAF Seletar Theatre Club.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/Seletar/Poker-sessession.png"> 
 
 Pam Ayres in a scene from <i>The Poker Secession</i>, 1968. <i>Retrieved from Seletar Theatre Club website</i>.
@@ -108,7 +107,7 @@ In the WAAF, she met and married Ken Goss, an engine fitter, and became a servic
 After three years in Singapore, the Gosses left on 19 April 1963 when Ken was posted to RAF Lyneham in Wiltshire, England. At RAF Lyneham, Goss joined the Lyneham Stage Club where she managed to persuade successive station commanders to agree to a purpose-built theatre for the club. It was constructed in 1969 and named The New Theatre. Following her death in 1977, the theatre was renamed Juliana Goss Theatre in her honour. The club continued to stage three shows a year until its closure in 2012 when the RAF withdrew from Lyneham.[^21]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/Seletar/Pantomine.jpg">
 
 RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i>
@@ -139,7 +138,7 @@ RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, 
 
 |Coward made another stopover in Singapore on 19 May, where he again stayed at RAF Seletar, before setting sail for Europe on 24 May.[^30] Alas, his two sojourns in 1935 did not involve any impromptu turns on the stage.|
 
-|<img src="/images/Vol-16-issue-1/seletar/noel-coward-at-yacht-club.jpg">|
+|<img src="/images/Vol-16-issue-1/Seletar/Noel-Coward-at-Yacht-Club.jpg">|
 
 |Noël Coward (back row, fifth from the right) at the RAF Seletar Yacht Club with RAF personnel in 1935. *RAFSA Collection, courtesy of National Archives of Singapore*.|
 
@@ -148,8 +147,8 @@ RAF Seletar Theatre Club’s pantomime performance, 1960s. <i>RAFSA Collection, 
 The club’s offerings were a class act, clinching the first prize in the Inter-Services Drama Festival not once but three times – for its productions of Archibald MacLeish’s Pulitzer Prize-winning play *J.B*. in 1962, Keith Waterhouse’s *Billy Liar* in 1966 and Trevor Peacock’s *Collapse of Stout Party* in 1967.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/seletar/programme-booklets.png">
+<br>
+<img src="/images/Vol-16-issue-1/Seletar/programme-booklets.png">
 
 (Left) Programme booklet for <i>Wanted One Body</i>, a Seletar Theatre Club production in August 1967 starring Pam Ayres. <i>RAFSA Collection, courtesy of National Archives of Singapore</i>.<br><br>(Right) The souvenir programme for Juliana Goss’ production of Archibald MacLeish’s <i>J.B.</i>, winner of the Inter-Services Drama Festival in 1962. <i>Retrieved from Seletar Theatre Club website</i>.
 
@@ -173,8 +172,8 @@ The second edition of the Festival of Drama was organised by the University of S
 |The association donated approximately 4,300 items comprising photographs, posters, slides, booklets and documents to the National Archives of Singapore in 2016. To access the RAFSA Collection, visit [www.nas.gov.sg/archivesonline/](http://www.nas.gov.sg/archivesonline/).|
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/authors/Suriati.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-1/authors/Suriati.png" style="width: 100px; height: 100px;">
 
 <b>Suriati Sani</b> is an Assistant Archivist with the National Archives of Singapore where she handles reference enquiries and helps researchers navigate archival materials. This essay combines her interests in history and theatre arts.
 
@@ -212,7 +211,7 @@ The second edition of the Festival of Drama was organised by the University of S
 [^27]: [Victoria Theatre](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300407-1.2.84). (1930, April 7). *The Straits Times*, p. 12. Retrieved from NewspaperSG. 
 [^28]: [No yachting for Noel Coward](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350423-1.2.60). (1935, April 23). *The Straits Times*, p. 12; *The Malaya Tribune*, 23 Apr 1935, p. 11. Retrieved from NewspaperSG.
 [^29]: [Shorrick](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200113889), 1968, p. 43. *[The Malaya Tribune](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19350423-1.2.69)*, 23 Apr 1935, p. 11. [Chat aboard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350429-1.2.18). (1935, April 29). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
-[^30]: [Noel Coward](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19350519-1.2.10). (1935, May 19). *The Sunday Tribune* (Singapore), p. 1; [Social & personal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350524-1.2.110). (1935, May 25). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
+[^30]: [Noel Coward](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19350519-1.2.10). (1935, May 19). *The Sunday Tribune* (Singapore), p. 1; [Social &amp; personal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350524-1.2.110). (1935, May 25). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 [^31]: [Plans to make festival of drama annual event](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690529-1.2.58). (1969, May 29). *The Straits Times*, p. 8; [First open drama festival makes its impact](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691112-1.2.70). (1969, November 12). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 [^32]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691112-1.2.70)*, 12 Nov 1969, p. 11. 
 [^33]: [Seletar’s 'Vigil' wins top award in festival](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691117-1.2.43). (1969, November 17). *The Straits Times*, p. 6. Retrieved from NewspaperSG. 
