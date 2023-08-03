@@ -16,8 +16,8 @@ In the beginning, these banks were established primarily for the China trade. Th
 
 When it came to dealingv with Chinese traders and merchants, each bank found it expedient to hire a local middleman known as the comprador (Portuguese for "buyer"). The banks lent money to Chinese merchants and traders through the comprador, who was responsible for every Chinese account opened. The comprador was also responsible for hiring and managing all local staff. In the early days, compradors were men with good connections and established family backgrounds.
 
-Until the beginning of the 20th century. the banking system in Sing"lX'~ CQniIisted manly of EUPOpe.Jn bIInk5. It ~s only at the bun of the 2ot" century thit. the fllSl: IociiI banks were e5bIbiished. Kwong Yikllank \_s the fm Chinese bank: It was set up in 1903 byWoog Ah Fook and sewrill Cantonese businessmen. "The blink's $I)f'o"i(t$ inck.ded banking faditi(!$, mortgages and loans. mel its client1!le was mainly Chinese. The $l)(X)nd Cnine$(! blink. Sze fili Tong BlInk. \_ set up in FeblUilry 1906. One of its directors, Tiln Swi Phiau, also held the important pclIition of comprador to Netherland5 India Commercial Bank.
-
+Until the beginning of the 20th century. the banking system in Singapore consisted mainly of European Banks. It was only at the turn of the 20th century that the first Iocal  banks were established. Kwong Yik Bank was the first Chinese bank: It was set up in 1903 by Wong Ah Fook and several  Cantonese businessmen. The bank's  services included banking facilities, mortgages and loans, and its clientele was mainly Chinese. The second Chinese bank, Sze Hai Tong, was set up in February 1906. One of its directors, Tan Swi Phiau, also held the important position of comprador to 
+Netherlands India Commercial Bank.
 
 
 
