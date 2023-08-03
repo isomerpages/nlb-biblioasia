@@ -23,6 +23,69 @@ A symptomatic reading of these Malayan textbooks from the 1930s will show the en
 
 English in Malaya served as an instrument of power as it did within all British colonies. Used to separate master from servant, colonial from colonised, citizen and subject, it was a language of the elite, a language of the colonial state. The better one spoke English, the more one could rise up within the colonial state mechanisms - hence, the British also considered English education in Malaya dangerous because they were afraid that educating too many natives in English would threaten the security of their privileged position in Malaya.
 
+Utilised by the British colonial state as a tool to structure and govern Malaya, English education in the 1920s became specifically reserved only for a distinctive elite class across the major" races of Malaya: the Malays, the Chinese and the Indians.
+
+Only this elite class were allowed to learn English, and this elite were usually aristocratic in origin - indeed, the English considered it highly dangerous to allow anybody but the native aristocracy to learn English as this would give them delusions of grandeur.
+
+The colonial administrator Frank Swettenham argued in his Annual Report on Perak in 1890: The one danger to be guarded against is to teach English indiscriminately. It could not be well taught except in a few schools, and I do not think it is at all advisable to give to the children of an agricultural population an indifferent knowedge of a language that to all but the very few would only unfit them for the duties of life and make them discontented with anything like manual labour. (Stevenson 57)
+
+Further, the British felt that educating the "masses" in English would cause the bulk of the "native" population to revolt against British rule. As an editorial in the Ipoh English language newspaper *The Times of Malaya* opined, giving the Malays in particular a higher education "would be to put in their hands an intellectual weapon whereby they might attempt our undoing." (Stevenson 58)
+
+As such, English education was something which was throughout the British empire reserved solely for the elite; for the bulk of the rest of the non-white population, Swettenham felt: "While we teach children to read and write and count in their own language, or in Malay, the 'lingua franca' of the Peninsula and the Archipelago, we are safe", and that "Beyond that I should like to see the boys taught useful industries, and the girls weaving, embroidery and mat making." (Stevenson 58)
+
+English was thus associated with the intellect, power and control- and only knowledge of English would allow one to access these three things within the colony; however, on the other side of the coin, non-white "vernacular" languages such as Malay. Chinese and Tamil. were institutionally linked with manual labour and low status within the colonial state and society.
+
+Hence. within the colonial state, English was institutionalised as a language of the elite - and only those who were elite were allowed to access this language.
+
+As English also became the language of the colonial state and the language of the administration and the bureaucracy, it became essential also for one to be able to navigate the rules of the society; not being able to speak English would also mean that one would be powerless against the judicial system, and not be able to understand how one would go about getting a job and starting a business.
+
+In this way, the British hoped to be able to control the nonwhite population, because educating them in English would allow them access to knowledge about the colonial system - and very possibly destabilise the privileges which the British accorded themselves through colonial state institutions.
+
+English, therefore, functioned as a central tool of colonial power - by keeping the language of the state out of reach of most non-white people in the colonies, this meant that it would necessarily keep them under control as they would not be able to access information and understand enough to be able to negotiate the system.
+
+Through making elite natives speak and think a certain way, this would help the colonial state to maintain its control over Malayan society. This was done through the normalisation of a certain way of thinking, through making these elite Malayan subjects believe that things worked in accordance to the laws of the colonial state - to engender a Anglophiliac sensibility, sensitive and compliant to British interests.
+
+For this purpose, again, English was extremely important. learning how to speak English in a particular way for the Malayan elite would also mean that they would learn to think like the British, to share British values and become more 'westernised' and hence naturally favour the outlook, desires and goals of the European colonials; in other words, learning how to speak English in a particular way would show them how to think and sympathise with the British through the absorption of Western values.
+
+Textbooks were thus specifically engineered to teach the colonised to recognise themselves in certain ways: <br><br>
+• The colonised were taught to recognise themselves as elite in class, to recognise themselves as masters over the other non-white natives;<br><br> • The textbooks tried to teach them their role as subordinate to the British, to teach them to accept the British as benevolent masters, to identify themselves as children vis-a-vis their colonial masters who were trying to uplift and civilise them;<br><br> • They taught the colonised elite to become Victorian English gentlemen through imbibing them with the sorts of Victorian upper-class distinctions that were endemic to the British public school system, such as notions of being from a "correct" background and the idea of team sports such as cricket, polo and notions of 'fair play' and being a 'good sport";<br><br> • The colonised were to understand the colony as being divided into races and to accept the truth of racial stereotypes and the importance of these racial stereotypes to good governance and rule over the colony.
+
+Ideological control of the non-white elite by the colonial state was specifically accomplished through the creation of a "Malayan-centred" education - so that when the Malayan elite subjects read these textbooks, they would be able to clearly identify themselves in the positions of the subjects of these textbooks, and would be more easily and more completely ideologically convinced.
+
+Furthermore, they would learn to identify with how the British understood Malaya, and understand themselves through how the British understood them rather than from their own cultures.
+
+Through reading stories written by what editors call "men of distinction" - who were either colonial administrators or travel writers - Malayan elite children were taught to have great respect for the European point of view, the European way of thinking, and the European way of considering Malaya.
+
+The textbooks taught these elite Malayan subjects to further recognise themselves in a role which the colonial state had clearly marked out for them: the role of the colonised elite - the intermediaries between the British and the native masses.
+
+As such, they had to make sure that their subjects knew who they were in terms of class, in terms of their being masters over the other poorer, non-aristocratic non-white subjects.
+
+The narratives that make up these textbooks all portray as the subjects of their stories bourgeois, middle-class children who live in houses replete with important fathers, with mothers who take them shopping and who "lunch", and with the requisite racialised amahs, garclerers, caretakers - all the underclass who labour happily to support the lifestyle of the westernized, bourgeois, elite child.
+
+In *Happy Days*, a textbook for Standard I or upper-primary school in contemporary terms, we are led through the life of the privileged child Rosie, her adventures in school and with her friends. Like a child of her class, Rosie has a Cook, a Gardener, a Chauffeur, an Amah - all of whom love and pet the child, and who the child is taught to take for granted should be serving her enthusiastically, so long as she is polite to them.
+
+ <i>"Saturday is the best day of the week. When Rosie wakes up in the morning, she is happy to think she can spend the whole day at home. She can do just as she likes all day. She can go to the kitchen and watch Coole. Rosie likes to see Cook working. He can do things so quickly and he knows where everything is. When he comes back from the market he puts what he has bought on the table and begins to prepare the meals. He brings meat rice, vegetables, lovely red chillies, and many kinds of fruit. Rosie looks to see if he has got her favourite fruit. Now, I am sure you can guess what that is. It is the mangosteen. Amah cuts the shell for her and she enjoys the juicy white part round the seeds inside. Mummy says it is vel)' good for her too. " (27–28) </i>
+
+Rosie's day is organised for her pleasure, and the servants in her house are assumed to be there also to provide her with innocent pleasure and amusement.
+
+Cook provides a visual, benign feast for Rosie with the exotic imagery of his shopping and his ritualistic preparation of the food. His shopping, of course, must be always mindful of the petted child, hence he buys her her favourite fruit, the mangosteen.
+
+Once Rosie is sated by the appealing visual performance of Cook - who is not even given a name, simply a job designation - her amah takes up the role of pleasing the child even further by knowing her place as a servant and proffering up the fruit to the child. Amah, additionally, is never given a name.
+
+In narratives such as this, therefore, the elite child is taught to assume that she or he should be served by the lower orders, and to be patronisingly respectful of them but that they should know their place vis-a-vis themselves. They are not taught to treat them as human, as equal to themselves because they are not individuals - they do not even have names.
+
+But it is important that they are painted as happy, enthusiastic and grateful to serve their elite masters, and thankful of gratitude their masters bestow onto them for their service.
+
+If the native elite are taught that they are superior to the rest of the non-white subjects of the British colony, they however also have to be taught to accept as natural their inferiority to the British and the Europeans more generally.
+
+This means concretely that these native elite were specifically taught to regard the British as benevolent rulers who were driven by a mission to civilise - to uplift them from their natural states of savagery and teach them to be "modern" - to teach them to industrialise themselves, have better values, and to have respect for humanity in European terms.
+
+They were also taught to naturalise European superiority in relation to themselves, and to valorise the British as rulers who were the most desirable to have, especially in comparison with their own native rulers.
+
+This can be clearly seen, for example, in this textbook for the Malayan Cambridge 0 levels, in a historical lesson on Raffles:
+
+<i>"In course of time the whole of the Malay Peninsula, from the British coastal colonies to the borders of Siam, became a British Protectorate. And the methods of this Protectorate have been as efficient and benignant as if Raffles himself had controlled it. Slavery, serfdom, piracy, rapine - all the worst miseries and savageries of that ancient land - have long died out. The deadly kris has lost its edge. Peace, order, justice are everywhere maintained. More than six hundred thousand schools have been established. Over a thousand miles of railway have been built and between two and three thousand miles of metalled roads. Tin mines have been opened up, and rubber plantations introduced. The material development of Malaya has been one of the economic wonders of the world. But the feature of the Protectorate which Raffles would observe with the deepest pride, were he alive is the happiness of the people. More prosperous than they have ever been, safe at last from the old haunting fears, the old perpetual insecurity, tyranny and wars, the Malays are unquestionably happy. Singapore, then, the Queen of British Malaya, is Raffles' true memorial. He has been forgotten at times in London; he has never been forgotten there. Raffles Quay. Raffles Place, Raffles Museum, Raffles Hotel, Rafffes Library, Raffles Institution, Rafffes College - everywhere the city cries out his name. And in the centre of Raffles Plain - in front of him the azure roadstead with its crowd of ships from all over the world, behind him the green peninsula with its millions of contented villagers, stands Raffles' statue, watching for all time over his child. There, if anywhere on earth, his spirit lingers at peace, his dream fulfilled." (219–221)</i>
+
 
 
 
