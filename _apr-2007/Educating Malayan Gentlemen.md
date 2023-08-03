@@ -111,3 +111,33 @@ The goals of this paper have been to flesh out some issues that indicate some of
 This sensibility had two aspects: that of allowing these elite subjects to recognise their privilege and the right ways to act" in relation to this privilege in their society; and to internalise their inferiority to the white man.
 
 The sort of distribution of power that resulted from this construction of an English-speaking elite sensibility, the sort of organisation of power in accordance to language - may go some way in indicating how colonial languages manage to manifest their power, even after the demise of the colonial state has long passed.
+
+<div>
+<center><b>Adeline Koh</b><br> PHD candidate in Comparative Literature at the University of Michigan</center></div>
+
+#### **REFERENCES**
+  
+**Primary Sources**
+
+H.R. Cheeseman and J.D. Joseph, “Introduction,” [_Nelson's Malayan Reader_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6533485), book 6 (Singapore: Malaya Publishing House, 1932), v–vi. (Call no. RCLOS 428.695951 CHE)
+
+R. O. Winstedt, R.O. –“Gula: A Portrait,” [_Nelson's Malayan Reader_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6533485), book 6 (Singapore: Malaya Publishing House, 1932), 114–9. (Call no. RCLOS 428.695951 CHE)
+
+Reverend W. Cross, “Stamford Raffles,” [_Nelson's Malayan Reader_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6533485), book 6 (Singapore: Malaya Publishing House, 1932), 9–42. (Call no. RCLOS 428.695951 CHE)
+
+Sisters of the Convent of the Holy Infant Jesus, Singapore, [_Happy Days_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200110251), book 1, MPH Supplementary Readers, Series 3 (Singapore, Malaya Publishing House, 1936). (Call no. RRARE 428.6 HAP)
+
+[_The MPH Malayan Primer: Now We Can Read_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200111942) (Singapore: Malaya Publishing House, 1932). (Call no. RRARE 428.6 MPH)
+
+**Secondary Sources**
+
+Frantz Fanon, [_Black Skin, White Masks_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=660706), trans. Charles Lam Markmann (New York: Grove Press, 1967). (Call no. RCLOS 306.896 FAN)
+
+Louis Althusser, “Ideology and Ideological State Apparatuses,” _Lenin and Philosophy and Other Essays_, trans. Ben Brewster (New York: Monthly Review Press, 1970). 127–86.
+
+“Macaulay's Minute on English Education,” History of English Studies Website, University of California, Santa Barbara, 1 January 2007.
+
+
+
+
+
