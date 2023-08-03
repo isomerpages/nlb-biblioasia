@@ -32,6 +32,9 @@ Only this elite class were allowed to learn English, and this elite were usually
 
 The colonial administrator Frank Swettenham argued in his Annual Report on Perak in 1890: The one danger to be guarded against is to teach English indiscriminately. It could not be well taught except in a few schools, and I do not think it is at all advisable to give to the children of an agricultural population an indifferent knowedge of a language that to all but the very few would only unfit them for the duties of life and make them discontented with anything like manual labour. (Stevenson 57)
 
+<img src="/images/Vol%203%20Issue%201/group%20photo.jpg" style="width:80%;">
+ <div style="background-color: white;"> <i>Picture reproduced from One Hundred Years' History of the Chinese in Singapore.  All rights reserved, Murrary, 1923.</i></div>
+
 Further, the British felt that educating the "masses" in English would cause the bulk of the "native" population to revolt against British rule. As an editorial in the Ipoh English language newspaper *The Times of Malaya* opined, giving the Malays in particular a higher education "would be to put in their hands an intellectual weapon whereby they might attempt our undoing." (Stevenson 58)
 
 As such, English education was something which was throughout the British empire reserved solely for the elite; for the bulk of the rest of the non-white population, Swettenham felt: "While we teach children to read and write and count in their own language, or in Malay, the 'lingua franca' of the Peninsula and the Archipelago, we are safe", and that "Beyond that I should like to see the boys taught useful industries, and the girls weaving, embroidery and mat making." (Stevenson 58)
