@@ -23,7 +23,7 @@ A symptomatic reading of these Malayan textbooks from the 1930s will show the en
 
 English in Malaya served as an instrument of power as it did within all British colonies. Used to separate master from servant, colonial from colonised, citizen and subject, it was a language of the elite, a language of the colonial state. The better one spoke English, the more one could rise up within the colonial state mechanisms - hence, the British also considered English education in Malaya dangerous because they were afraid that educating too many natives in English would threaten the security of their privileged position in Malaya.
 
-Utilised by the British colonial state as a tool to structure and govern Malaya, English education in the 1920s became specifically reserved only for a distinctive elite class across the major" races of Malaya: the Malays, the Chinese and the Indians.
+Utilised by the British colonial state as a tool to structure and govern Malaya, English education in the 1920s became specifically reserved only for a distinctive elite class across the "major" races of Malaya: the Malays, the Chinese and the Indians.
 
 Only this elite class were allowed to learn English, and this elite were usually aristocratic in origin - indeed, the English considered it highly dangerous to allow anybody but the native aristocracy to learn English as this would give them delusions of grandeur.
 
@@ -33,13 +33,13 @@ Further, the British felt that educating the "masses" in English would cause the
 
 As such, English education was something which was throughout the British empire reserved solely for the elite; for the bulk of the rest of the non-white population, Swettenham felt: "While we teach children to read and write and count in their own language, or in Malay, the 'lingua franca' of the Peninsula and the Archipelago, we are safe", and that "Beyond that I should like to see the boys taught useful industries, and the girls weaving, embroidery and mat making." (Stevenson 58)
 
-English was thus associated with the intellect, power and control- and only knowledge of English would allow one to access these three things within the colony; however, on the other side of the coin, non-white "vernacular" languages such as Malay. Chinese and Tamil. were institutionally linked with manual labour and low status within the colonial state and society.
+English was thus associated with the intellect, power and control- and only knowledge of English would allow one to access these three things within the colony; however, on the other side of the coin, non-white "vernacular" languages such as Malay, Chinese and Tamil, were institutionally linked with manual labour and low status within the colonial state and society.
 
-Hence. within the colonial state, English was institutionalised as a language of the elite - and only those who were elite were allowed to access this language.
+Hence, within the colonial state, English was institutionalised as a language of the elite - and only those who were elite were allowed to access this language.
 
 As English also became the language of the colonial state and the language of the administration and the bureaucracy, it became essential also for one to be able to navigate the rules of the society; not being able to speak English would also mean that one would be powerless against the judicial system, and not be able to understand how one would go about getting a job and starting a business.
 
-In this way, the British hoped to be able to control the nonwhite population, because educating them in English would allow them access to knowledge about the colonial system - and very possibly destabilise the privileges which the British accorded themselves through colonial state institutions.
+In this way, the British hoped to be able to control the non-white population, because educating them in English would allow them access to knowledge about the colonial system - and very possibly destabilise the privileges which the British accorded themselves through colonial state institutions.
 
 English, therefore, functioned as a central tool of colonial power - by keeping the language of the state out of reach of most non-white people in the colonies, this meant that it would necessarily keep them under control as they would not be able to access information and understand enough to be able to negotiate the system.
 
