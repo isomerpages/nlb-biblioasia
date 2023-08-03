@@ -26,8 +26,7 @@ Stamford Raffles envisioned Singapore as a commercial hub and a centre for learn
 “To collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs, and to publish and circulate in a correct form the most important of these… to raise the character of the institution and to be useful 
 or instructive to the people.”[^2]
 
-<img style="width: 450px; height: 300px;"
-src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a2.png">
+<img style="width: 450px; height: 300px;" src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a2.png">
 <div style="background-color: white;">In 1841 watercolour painting of the library floor plan at the Singapore Institution (later renamed as Raffles Institution) by J. A. Marsh. Singapore’s first library officially opened in 1837 as part of the school. <i>© The British Library Board, WD 2970.</i></div>
 
 The proposal was not acted upon until 1823 when Raffles convened a meeting to establish the Singapore Institution. At the recommendation of the missionary Robert Morrison, plans for a library, museum and printing press were included in the formation of the institution.[^3] However, its opening was delayed again for various reasons and deviated from Raffles’ original intent. Eventually, when the Singapore Free School moved into the building that was meant for the Singapore Institution at Bras Basah Road in 1837, it housed a small library that was available for public use for a small fee.
@@ -38,8 +37,7 @@ In response to appeals from residents for a proper public library that could be 
 
 Several items in the exhibition are rare editions of the earliest publications printed in Singapore. Interestingly, Singapore’s publishing history is closely intertwined with the proselytising activities of early Christian missionaries in the region. The earliest English, Chinese and Malay titles in the National Library are all outputs of printing presses in Singapore that were run by Protestant missions in the early years of the 19th century.
 
-<img style="width: 450px; height: 300px;"
-src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a1.png">
+<img style="width: 450px; height: 300px;" src="/images/vol-11-issue-4/Stories%20stack%20exhibition/a1.png">
 <div style="background-color: white;">A steam-powered lithographic printing machine, 1870. <i>fotolibra.</i></div>
 
 Christian missionaries followed the footsteps of Raffles and started work in Singapore soon after it was founded. The Reverend Samuel Milton of the London Missionary Society (LMS) came to Singapore from Malacca in October 1819 to start a station on the island. In 1822, fellow missionary Claudius Henry Thomsen arrived in Singapore and brought with him a printing press and a few workers. The following year, the first printing press in Singapore, the Mission Press, came into operation.[^4] Thomsen learnt Malay from the accomplished Muslim scholar, Abdullah bin Abdul Kadir (better known as Munshi Abdullah) and collaborated with the latter in the translation and publication of Christian gospels and literature into Malay.[^5]
@@ -76,13 +74,13 @@ One manifestation of this was *The Straits Chinese Magazine*, published between 
 There are too many publications of note in the exhibition to be highlighted in this article. Most are outlined in detail in this issue 
 of *BiblioAsia*. The earliest item on display in the exhibition is the first ever [English-Malay dictionary](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/first-english-malay-dictionary-thomas-bowrey) published in 1701 and the most recent is the first cookbook by a Singaporean author, Ellice Handy’s [*My Favourite Recipes* ](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/my-favourite-recipes-ellice-handy)(revised edition, 1960).
 
-The exhibits cover a wide array of topics, from politics, history, sociology, language and religion to current affairs, nature, travel, food and more. Some of the more novel items on display include a rare 1901 [photo album by G. R. Lambert & Co.](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/fotoalbum-singapur-gustave-richard-lambert) containing faded images of old Singapore, a [colonial cookbook of “420 tried and economical recipes”](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey) published in 1920 for British housewives struggling to run their households in Malaya, and what is probably the [first travel guidebook of Singapore](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/handbook-singapore-george-murray-reith), published in 1892.
+The exhibits cover a wide array of topics, from politics, history, sociology, language and religion to current affairs, nature, travel, food and more. Some of the more novel items on display include a rare 1901 [photo album by G. R. Lambert &amp; Co.](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/fotoalbum-singapur-gustave-richard-lambert) containing faded images of old Singapore, a [colonial cookbook of “420 tried and economical recipes”](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/mems-cookery-book-william-edward-kinsey) published in 1920 for British housewives struggling to run their households in Malaya, and what is probably the [first travel guidebook of Singapore](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/handbook-singapore-george-murray-reith), published in 1892.
 
 Look out also for the collection of delightful [English nursery rhymes translated into Malay](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/haji-malayan-nursery-rhymes) (1939); probably the first [Qu’ran printed in Singapore](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran) in 1869; a Baba Malay translation of the Chinese classic [*Romance of the Three Kingdoms*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/chrita-dahulu-kala-sam-kok); and a series of chilling cartoons on Japanese brutality and torture, going by the unlikely name of [*Chop Suey*](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/chop-suey-liu-kang) (1946).
 <br>
 <div style="background-color: white;">
-<img src="/images/vol-14-issue-2/the-stuff-of-dreams/dreams10.jpg" style="width: 100px; height: 100px;">
-	<b>Chung Sang Hong</b> is Assistant Director, Exhibitions & Curation, with the National Library of Singapore. His responsibilities include project management and the curation of exhibitions.
+<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreams10.jpg" style="width: 100px; height: 100px;">
+	<b>Chung Sang Hong</b> is Assistant Director, Exhibitions &amp; Curation, with the National Library of Singapore. His responsibilities include project management and the curation of exhibitions.
 </div>
 	
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
@@ -102,7 +100,7 @@ Look out also for the collection of delightful [English nursery rhymes translate
  
 [^7]:Singapore Christian Union. (1830). [*The first report of the Singapore Christian Union*](https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx) (pp. 10–11). Singapore: The Mission Press. Retrieved from BookSG.
   
-[^8]:Beijing tu shu guan [北京图书馆]. (2000). Beijing tu shu guan cang jia pu cong kan. Min yue (qiao xiang) juan ([北京图书馆藏家谱丛刊 – 闽粤（侨乡）卷](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10088407)) [*Collection of genealogies in the Beijing Library – Fujian & Guangdong Provinces*] (pp. 1, 423). [北京]: 北京图书馆出版社.(Call no.: Chinese RCO q929.10720512 BJT) 
+[^8]:Beijing tu shu guan [北京图书馆]. (2000). Beijing tu shu guan cang jia pu cong kan. Min yue (qiao xiang) juan ([北京图书馆藏家谱丛刊 – 闽粤（侨乡）卷](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10088407)) [*Collection of genealogies in the Beijing Library – Fujian &amp; Guangdong Provinces*] (pp. 1, 423). [北京]: 北京图书馆出版社.(Call no.: Chinese RCO q929.10720512 BJT) 
   
 [^9]:Lu Shicong [吕世聪]. (2015, October 25). Guyouxuan, Bendi Zuizao Huaren Yinwuguan ([古友轩 – 本地最早华人印务馆](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20151025-1.2.33.9.1)) [*Koh Yew Hean Press – the oldest Chinese printing press in Singapore*]. *Lianhe Zaobao* [*联合早报*], pp. 18–19. Retrieved from NewspaperSG. 
   
