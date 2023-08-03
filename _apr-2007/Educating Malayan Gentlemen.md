@@ -112,7 +112,9 @@ To top it all off, Raffles is posited as the benevolent founder to which these c
 
 As such, this elite is taught to be grateful to the British - and to their rule. The best sorts of natives, according to the colonial administrators, were ones who would know their place - meaning that they would want to be like the British but never challenge them.
 
-![](/images/Vol%203%20Issue%201/men%20sitting%20down.jpg)
+<img src="/images/Vol%203%20Issue%201/men%20sitting%20down.jpg" style="width:80%;">
+ <div style="background-color: white;"><i>Picture reproduced from One Hundred Years' History of the Chinese in Singapore.  All rights reserved, Murrary, 1923.</i></div>
+
 
 This sort of complaisance is reflected in a short story in one of the textbooks written by the colonial educationists, R.O. Winstedt. Called "Gula", about a Malay man Winstedt knew who was "so sweet he was like sugar", Gula's attitude is reflective of what a "real native" should be like.
 
