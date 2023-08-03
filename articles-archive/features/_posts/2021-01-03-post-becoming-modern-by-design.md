@@ -4,9 +4,7 @@ permalink: /vol-16/issue-4/jan-mar-2021/modern-by-design/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Becoming Modern By Design
 third_nav_title: Becoming Modern By Design
-
 ---
-
 <style>
 table { 
 	background-color: #d6dae9;
@@ -22,8 +20,8 @@ table {
 #### The now-defunct Baharuddin Vocational Institute was Singapore’s first formal school for design. **Justin Zhuang** looks at how the institute laid the foundation for the design industry here.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/modernbydesign/BecomingModernByDesign.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/ModernByDesign/BecomingModernByDesign.jpg">
 According to a manifesto by the editorial team of Baharuddin Vocational Institute’s 1971 commemorative magazine, the institute aimed to produce a “new breed of creative people”. <i>Image reproduced from Baharuddin Vocational Institute. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)</i>.
 </div>
 
@@ -32,7 +30,7 @@ In the 1960s, most school crests in Singapore probably involved some combination
 But Wee Chwee Beng, a pioneer teacher of Baharuddin Vocational Institute (BVI), ditched these hallmarks of Western heraldry when he designed a crest for the new institute in 1968. Instead of an illustrative approach, Wee abstracted the initials “BVI”  into two right-angled arrows. Each was assembled by combining the letters “V” and “I”, while one was enclosed to form a triangle-like “B”. The arrows were constructed into a larger right-angled triangle that was inversely mirrored to form a square crest, which looked identical regardless of which side it was viewed from.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/modernbydesign/DesignCrest.jpg">
 The design of the crest of Baharuddin Vocational Institute. The crest was an abstract combination of the letters “BVI”. <i>Image reproduced from Baharuddin Vocational Institute. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)</i>.
 </div>
@@ -40,7 +38,7 @@ The design of the crest of Baharuddin Vocational Institute. The crest was an abs
 This design was too radical, even for his colleagues at Baharuddin. They found the abstract logo too modern for their liking. “I felt strongly at that point in time that we should break away from the norm or what is expected because I am designing for the future, not for the present, not for the past,” Wee explained. “At a time when others were drawing tigers and lions [on school crests], people were a bit shocked. I kept on trying to tell them it will be acceptable even 30 to 40 years on. I was saying this [design] would be modern and contemporary whereas if you start to have lions and tigers you are going back [in time].”[^1]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/modernbydesign/magcover.jpg">
 The cover of the commemorative magazine to mark the official launch of Baharuddin Vocational Institute in 1971. <i>Image reproduced from Baharuddin Vocational Institute. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)</i>.
 </div>
@@ -68,24 +66,24 @@ Wee was one of those sent abroad. He went to Montreal, where he studied under a 
 Another Baharuddin teacher, Iskandar Jalil (who later became an eminent ceramist and winner of the Cultural Medallion for Visual Arts in 1988),[^7] was sent to Maharashtra, India, in 1966 under a Colombo Plan Scholarship to learn textile design. In 1972, he headed to Tajimi, Japan, where he received an education in ceramics engineering, also under the same scholarship. By the time BVI officially opened in 1971, nearly 40 percent of its teaching staff had been trained abroad.[^8]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/modernbydesign/MasterPotter.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/ModernByDesign/MasterPotter.jpg">
 Master potter Iskandar Jalil using his single-hand technique to create an artwork, 2007. The Cultural Medallion winner taught at the Baharuddin Vocational Institute and later at Temasek Polytechnic’s School of Design until his retirement in 1999. <i>Courtesy of Iskandar Jalil</i>. 
 </div>
 
 Besides sponsoring the training of staff, several countries also funded the physical set-up of the institute. The British government allocated some $2.25 million from its Special Aid Scheme to construct a new building for the BVI on Stirling Road and furnish it with $850,000 worth of equipment and furniture.[^9] The Federal Republic of Germany donated some $3.5 million worth of machinery and equipment, provided training fellowships and even sent a team of eight experts here to set up and run a department at BVI to teach students how to work in a commercial press.[^10]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/modernbydesign/Campus.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/ModernByDesign/Campus.jpg">
 The campus of Baharuddin Vocational Institute on Stirling Road, which opened in 1971. <i>Image reproduced from Baharuddin Vocational Institute. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)</i>.
 </div>
 
 At BVI’s official opening on 8 October 1971, then Minister for Home Affairs Wong Lin Ken acknowledged the international efforts in realising what was ultimately a nationalistic endeavour. “The Baharuddin Vocational Institute is also unique in that it is a multi-national effort,” he said. “In this way, our Republic will some day be able to depend entirely on our own designers and craftsmen in the field of advertising, handicraft souvenir, fashion, woodworking and printing trades.”[^11]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/modernbydesign/1975Cohort.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/ModernByDesign/1975Cohort.jpg">
 The 1975 cohort of the advertising art class. Seated second from the right is pioneer teacher Wee Chwee Beng, who designed the crest for the institute in 1968. The principal, Rashid Durai, is seated fourth from the right. <i>Courtesy of Collin Choo</i>.
 </div>
 
@@ -112,8 +110,8 @@ Such sentiments were reinforced by then Minister for Education Tay Eng Soon in 1
 Fortunately, he could point to the early success of BVI’s students, who were frequent winners of logo and poster design competitions – even beating professionals in the field. Companies and organisations used such competitions to select and commission the winning designs as their logo. Some examples include the logos for Keppel Shipyard (1968) by Sim Bee Ong and the Singapore Metrication Board (1971) by Lee Chee Kang. The institute also took on work for the government, including the 1974 branding for the Singapore Sports Council as well as designing displays for the temporary maritime museum on Sentosa that same year.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/modernbydesign/Logos.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/ModernByDesign/Logos.jpg">
 Logos designed by staff and students of Baharuddin Vocational Institute. The abstract designs that distilled letters into shapes were part of a popular international trend known as the modernist graphic design style. Clockwise from top left: Logos for Keppel Shipyard (1968), Singapore Metrication Board (1971), the Vocational Industrial and Training Board (1979) and the Singapore Sports Council (1974).
 </div>
 
@@ -156,8 +154,8 @@ In 1990, when Singapore’s education system was restructured, technical educati
 The design school continued operating out of BVI’s premises on Stirling Road until its campus officially opened in Tampines in 1995. At the same time, BVI’s other applied art offerings were absorbed into a new Institute of Technical Education, thereby marking the end of an era for an institute that had, for more than two decades, nurtured and produced some of Singapore’s best design pioneers.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/modernbydesign/BookCoverCollin.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/ModernByDesign/BookCoverCollin.jpg">
 Various book covers designed by former student Collin Choo for his assignments. <i>Courtesy of Collin Choo</i>.
 </div>
 
@@ -170,16 +168,16 @@ Its more enduring legacy is the generation of practitioners who helped pioneer S
 BVI’s graduates have also made their mark outside Singapore. Fashion stalwart Esther Tay started the fashion label Esta, which grew into a household name in the 1980s and even retailed in Japan. Today, she is better known for designing uniforms for corporations such as DBS, Singtel and NTUC Income. Product design graduates like Low Cheah Hwei currently heads the design team for Philips in Asia, while Nathan Yong has made a name designing furniture for international labels such as Design Within Reach and Ligne Roset.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/modernbydesign/DressMaking.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/ModernByDesign/DressMaking.jpg">
 Dressmaking students of Baharuddin Vocational Institute showcasing their designs in the institute’s 1971 commemorative magazine. <i>Image reproduced from Baharuddin Vocational Institute. (1971). Singapore: Baharuddin Vocational Institute. (Call no.: RCLOS 372.95957 BVI)</i>.
 </div>
 
 By making design education accessible to the man in the street, BVI was instrumental in laying the foundation for Singapore’s design industry. The establishment of a state-sponsored institute to groom and supply a design workforce showed the commitment of the government in developing such services that ultimately spurred the growth of the industry.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/JustinZhuang.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol-16-issue-4/authors/JustinZhuang.png" style="width: 100px; height: 100px;">
 <b>Justin Zhuang</b> is a writer and researcher who sees the world through design. He has written about the development of the design industry in Singapore, including <i>Independence: The History of Graphic Design in Singapore Since the 1960s</i> and <i>Fifty Years of Singapore Design</i>.
 </div>
 
@@ -247,6 +245,6 @@ By making design education accessible to the man in the street, BVI was instrume
 
 [^30]: [Ministry of Culture](https://www.nas.gov.sg/archivesonline/speeches/record-details/7244df85-115d-11e3-83d5-0050568939ad), 27 Nov 1979.
 
-[^31]: He, S. (2008, September 4). *[Oral history interview with Khor Ean Ghee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/759020e5-1161-11e3-83d5-0050568939ad?keywords=KHOR+Ean+Ghee&keywords-type=all)* [许延义] [MP3 recording no. 003343/12/08]. Retrieved from National Archives of Singapore website.
+[^31]: He, S. (2008, September 4). *[Oral history interview with Khor Ean Ghee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/759020e5-1161-11e3-83d5-0050568939ad?keywords=KHOR+Ean+Ghee&amp;keywords-type=all)* [许延义] [MP3 recording no. 003343/12/08]. Retrieved from National Archives of Singapore website.
 
 [^32]: Management Development Institute of Singapore. (2020). *MDIS Heritage 2000*. Retrieved from MDIS website.
