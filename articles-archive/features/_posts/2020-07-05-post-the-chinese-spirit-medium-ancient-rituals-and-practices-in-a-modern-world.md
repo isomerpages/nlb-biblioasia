@@ -6,7 +6,6 @@ breadcrumb: The Chinese Spirit-Medium
 third_nav_title: "The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World"
 image: /images/Vol-16-issue-2/medium/HeibaiWuchang.jpg
 ---
-
 <style>
 table { 
 	background-color: #d6dae9;
@@ -21,7 +20,7 @@ table {
 #### **Margaret Chan** examines the fascinating world of *tangki* worship and explains the symbolism behind its elaborate rituals.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/medium/HeibaiWuchang.jpg">
 
 A medium possessed by the hell deity Toa Ah Pek, 1978. Dressed in white, he is one half of the two deities known as Heibai Wuchang (黑白无常). Toa Ah Pek, the White Deity, is said to calculate the length of a person’s life. When it is time for the person to die, he orders his counterpart, the Black Deity, or Ji Ah Pek, to fetch that person’s soul to hell. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore</i>.
@@ -54,7 +53,7 @@ In preparation for the possession ritual, the *tangki* sits on a chair in the te
 imperceptibly, then faster and faster. His head sways from side to side, picking up speed, and the eyes roll back to show the whites. Suddenly, the *tangki* leaps up and freezes into a pose typical of the possessing god, such as the Monkey God for instance.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/medium/tangkimonkey.jpg">
 
 A <i>tangki</i> possessed by the Monkey God in a pose that demonstrates how the god can see far into the distance and can recognise demons even when they are in disguise. <i>Photo taken by Margaret Chan in Singapore, 1999. First used in Chan, M. (2006). Ritual is Theatre, and Theatre is Ritual: Tang-ki, Chinese Spirit-medium Worship. Singapore: SNP Reference. (Call no.: RSING 299.51 CHA)</i>
@@ -68,7 +67,7 @@ The dragon skirt is typically worn by the character of the military general in C
 *Tangki* are believed to be spirit warriors who can cure illnesses by vanquishing disease-causing demons and driving them out from the afflicted person. Devotees also believe that *tangki* bring good fortune when they defeat the spirits of misfortune.[^4] Popular *tangki* gods include Guangong (关公), the redfaced hero of the Three Kingdoms era;[^5] Sun Wukong (孙悟空) the Monkey God;[^6] and Nezha (哪吒), the child spirit-fighter who fought in the Zhou armies against the Shang empire.[^7] Even if the medium is possessed by Guanyin (观音) the Bodhisattva of Compassion, it would be in her manifestation as the one who subdues evil spirits.[^8]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/medium/guanyin500.jpg">
 
 Buddhist deities are popular in <i>tangki</i> worship. Shown here is a <i>tangki</i> of Guanyin, the Bodhisattva of Compassion or Goddess of Mercy. <i>Photo taken by Margaret Chan in Singapore, 1999. First used in Chan, M. (2006). Ritual is Theatre, and Theatre is Ritual: Tangki, Chinese Spirit-medium Worship. Singapore: SNP Reference. (Call no.: RSING 299.51 CHA)</i>
@@ -91,8 +90,8 @@ To combat the flood, Yu the Great performed a dance that traced this zig-zag pat
 While in a trance, the *tangki* performs the zig-zag stagger of the Yu Step. During the dance, the *tangki* steps out with one foot (say the right foot) and then moves his left foot forward, touching the toes of this foot against the heel of the right without any transfer of weight. The left foot then steps out, and the right foot is brought forward to meet it. The *Tangki* also sometimes hops on one foot.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-2/medium/Luoshu.jpg">
+<br>
+<img src="/images/Vol-16-issue-2/medium/luoshu.jpg">
 
 The Luoshu, or magic map of the seven stars, that Yu the Great found imprinted on the shell of a turtle emerging from the Luo River. The Luoshu sets out the Eight Trigrams surrounding a central number where all numbers connect into a pattern of zig-zag lines. To defeat the flood demons, Yu the Great danced according to this zigzag pattern for 13 years. While in a trance, the <i>tangki</i> performs this zig-zag dance choreography known as the Yu Step.
 
@@ -110,7 +109,7 @@ There is also symbolism in the various forms of self-mortification. Some *tangki
 The weapons can transmit the power of the five armies if they are topped with the carved wooden godheads of the five generals commanding these celestial forces. Bristling with pierced skewers and waving a sword or spear, the *tangki* goes around exorcising evil from the precinct.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/medium/CelestialArmy.jpg">
 
 The five skewers running through the back of the <i>tangki</i> represent the Celestial Armies of the Five Directions. <i>Photo courtesy of Victor Yue. First used in Chan, M. (2014). Tangki War Magic: The Virtuality of Spirit Warfare and the Actuality of Peace. Social Analysis, 58 (1), 25–46. Retrieved from Singapore Management University website</i>.
@@ -125,10 +124,10 @@ Born in Singapore in 1928, Tan became a medium in his early 20s, after the deity
 Tan was at the height of his powers in the 1960s and was regarded then as the “wisest, most powerful spirit-medium in the Singapore *tangki* community”. He was given the moniker “Tangki Ong”, the King of Spirit Mediums.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/medium/TanAhChoon1.jpg">
 
-Mr Tan Ah Choon (陈亚春) with a skewer through both cheeks, c. 1960s. Tan was regarded as the “Tangki King”, the most respected <i>tangki</i> in Singapore at one time. <i>Photo taken in Singapore and provided by his family. First used in Chan, M., & Yue, V. (2010, July). Tan Ah Choon: The Singapore ‘King of Spirit Mediums’ (1928–2010). South China Research Resource Station Newsletter, 60 (15), 1–4, p. 4. Retrieved from Singapore Management University website</i>.
+Mr Tan Ah Choon (陈亚春) with a skewer through both cheeks, c. 1960s. Tan was regarded as the “Tangki King”, the most respected <i>tangki</i> in Singapore at one time. <i>Photo taken in Singapore and provided by his family. First used in Chan, M., &amp; Yue, V. (2010, July). Tan Ah Choon: The Singapore ‘King of Spirit Mediums’ (1928–2010). South China Research Resource Station Newsletter, 60 (15), 1–4, p. 4. Retrieved from Singapore Management University website</i>.
 
 </div>
 
@@ -144,7 +143,7 @@ from individuals who purport to speak as gods. However, this does not preclude t
 While it might appear that *tangki* events are on the decline, compared with the situation decades ago, younger *tangki* are still appearing on the scene to take on the mantle (and skewers) of the older generation. They include people like Tan Eng Hing, a 51-year-old medium who started going into trances when he was just 16. When possessed, he channels Shan Cai Tong Zi (善才童子), the child god of wealth whose Sanskrit name is Sudhana.[^15] Tan holds his consultations at Chia Leng Kong Heng Kang Tian (正龙宫玄江殿) temple at 85 Silat Road. He is also an expert in Chinese astrology known as *bazi* (八字) and *fengshui* (风水).
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/medium/TanEngHing.jpg">
 
 Tan Eng Hing started going into trances when he was just 16. When possessed, he channels Shan Cai Tong Zi (善才童子), the child god of wealth whose Sanskrit name is Sudhana. <i>Photo taken by Victor Yue in Singapore, 2012</i>.
@@ -165,7 +164,7 @@ In Phuket, this festival has gained notoriety for the spectacular displays of *t
 Singkawang is the second-largest town in West Kalimantan on the island of Borneo. It is an enclave of descendants of Hakka immigrants who arrived in the 18th century to work as gold miners.[^17] On the 15th day of the Lunar New Year (known as Imlek in Indonesia), around 300 to 500 spirit-mediums will parade on the main streets of Singkawang. The spirit-mediums, known as *tatung*, or Lao Ye (老爷), are carried through the streets of the town on wooden palanquins with special chairs.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/medium/ChapGoMae.jpg">
 
 A <i>tatung</i> possessed by the spirit of a Chinese soldier rides on a knife palanquin. Walking alongside are other Chinese and Dayak mediums dressed as Malay, Dayak and Chinese spirit-warriors. <i>Photo taken by Margaret Chan in Singkawang, 2008</i>.
@@ -187,8 +186,8 @@ The elders of these Chinese temples enthusiastically put together processional p
 parades have become more important as a money-making venture rather than a religious practice.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-2/authors/MargaretChan.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-2/authors/MargaretChan.png" style="width: 100px; height: 100px;">
 <b>Dr Margaret Chan</b> is a retired associate professor of theatre and performance (studies) at the Singapore Management University, and has worked as a journalist and food critic. Also known as a stage and television actress, she played the titular role in the acclaimed play, <i>Emily of Emerald Hill</i>.
 
 </div>
@@ -209,9 +208,9 @@ parades have become more important as a money-making venture rather than a relig
 [^11]: The Eight Trigrams are eight symbols used in Daoist cosmology to understand the organisation of life and the universe.
 [^12]: The legend of Yu the Great is popular folklore. Researchers have linked the story with a great flood of 1920 BCE which occurred when an earthquake caused a dam on the Yellow River to break. See Wu, Q.L. et al. (2016, August 5). Outburst flood at 1920 BCE supports historicity of China’s Great Flood and the Xia dynasty. *Science, 353* (6299), 579–582.
 [^13]: Also see earlier explanation in Note 2 on Celestial Armies.
-[^14]: All information on Tan Ah Choon was obtained from Chan, M. & Yue, V. (2010, July). Tan Ah Choon: The Singapore ‘King of Spirit Mediums’ (1928–2010). *South China Research Resource Station Newsletter, 60* (15), 1–4, p. 4. Retrieved from Singapore Management University website. 
-[^15]: Sudhana is an acolyte of Guanyin, the Bodhisattva of Compassion or Goddess of Mercy. Sudhana is a pious Indian pilgrim whose story is told in the *Gandavyuha Sūtra*, a 4th-century Mahayana Buddhist text. [See Fontein, J. (1967). *The pilgrimage of Sudhana: A study of Gandavyuha illustrations in China, Japan and Java*. The Hague and Paris: Mouton & Co. (Not available in NLB holdings.] Sudhana should not to be mistaken for The Little Red Boy (红孩儿), a character in the Chinese classic *Journey to the West* (西游记). The Little Red Boy is a demon who is subdued by Guanyin who renames him Sudhana and makes him an acolyte. Because of the popularity of *Journey to the West*, Sudhana *tangki* often have to point out that the deity who possesses them is the holy pilgrim, and not The Little Red Boy.
+[^14]: All information on Tan Ah Choon was obtained from Chan, M. &amp; Yue, V. (2010, July). Tan Ah Choon: The Singapore ‘King of Spirit Mediums’ (1928–2010). *South China Research Resource Station Newsletter, 60* (15), 1–4, p. 4. Retrieved from Singapore Management University website. 
+[^15]: Sudhana is an acolyte of Guanyin, the Bodhisattva of Compassion or Goddess of Mercy. Sudhana is a pious Indian pilgrim whose story is told in the *Gandavyuha Sūtra*, a 4th-century Mahayana Buddhist text. [See Fontein, J. (1967). *The pilgrimage of Sudhana: A study of Gandavyuha illustrations in China, Japan and Java*. The Hague and Paris: Mouton &amp; Co. (Not available in NLB holdings.] Sudhana should not to be mistaken for The Little Red Boy (红孩儿), a character in the Chinese classic *Journey to the West* (西游记). The Little Red Boy is a demon who is subdued by Guanyin who renames him Sudhana and makes him an acolyte. Because of the popularity of *Journey to the West*, Sudhana *tangki* often have to point out that the deity who possesses them is the holy pilgrim, and not The Little Red Boy.
 [^16]: Khoo, S.N. (2009). Hokkien Chinese on the Phuket mining frontier: The Penang connection and the emergence of the Phuket Baba community. *Journal of the Malaysian Branch of the Royal Asiatic Society, 82* (2) (297), 81–112. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^17]: About the Chinese in Singkawang, see Heidhues, M.S. (2018). *Golddiggers, farmers, and traders in the “Chinese districts” of West Kalimantan, Indonesia*. Ithaca, NY: Cornell University Press. (Not available in NLB holdings)
-[^18]: Chan, M. (2009). Chinese New Year in West Kalimantan: Ritual theatre and political circus. *Chinese Southern Diaspora Studies*, 3, 106–142. Retrieved from Singapore Management University website; Chan, M. (2013). The spirit-mediums of Singkawang: Performing ‘peoplehood’. In S.M. Sai & C.Y. Hoon (Eds.), *[Chinese Indonesians reassessed: History, religion and belonging](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14551318)* (pp. 138–158). London, New York: Routledge. (Call no.: RSEA 305.89510598 CHI)
-[^19]: Huang, K.-W. (2016). The origin and evolution of the concept of *mixin* (superstition): A review of May Fourth scientific views. *Chinese Studies in History, 49* (2), 54–79. Retrieved from Taylor & Francis Online.
+[^18]: Chan, M. (2009). Chinese New Year in West Kalimantan: Ritual theatre and political circus. *Chinese Southern Diaspora Studies*, 3, 106–142. Retrieved from Singapore Management University website; Chan, M. (2013). The spirit-mediums of Singkawang: Performing ‘peoplehood’. In S.M. Sai &amp; C.Y. Hoon (Eds.), *[Chinese Indonesians reassessed: History, religion and belonging](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14551318)* (pp. 138–158). London, New York: Routledge. (Call no.: RSEA 305.89510598 CHI)
+[^19]: Huang, K.-W. (2016). The origin and evolution of the concept of *mixin* (superstition): A review of May Fourth scientific views. *Chinese Studies in History, 49* (2), 54–79. Retrieved from Taylor &amp; Francis Online.
