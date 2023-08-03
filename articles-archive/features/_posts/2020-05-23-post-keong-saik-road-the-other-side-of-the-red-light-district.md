@@ -5,7 +5,6 @@ permalink: /vol-16/issue-1/apr-jun-2020/keong-saik/
 third_nav_title: "Keong Saik Road: The Other Side of the Red-Light District"
 image: /images/Vol-16-issue-1/keong-saik-road/keong-saik-title.jpg
 ---
-
 <style>
 table { 
 	background-color: #e5f1ee;
@@ -20,7 +19,7 @@ table {
 #### **Charmaine Leung** relives the sights and sounds of Keong Saik Road – where she lived in the 1970s and 80s – and says it has more to offer than its former notoriety.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-title.jpg">
 
 The iconic Tong Ah Eating House at the junction of Keong Saik and Teck Lim roads. Watercolour painting by Don Low, 2014. <i>Courtesy of Don Low</i>.
@@ -43,8 +42,8 @@ Many of these unmarried women were in their 20s. Once they arrived in Singapore,
 Many of these hardworking and independent *majie* took vows of celibacy, pledging to remain unmarried for life. This ceremonial vow included a ritual known as *sor hei* in Cantonese (梳起; literally “comb up”) that involved styling their hair into a neat bun at the back of their head. For the *majie*, this hairstyle became an expression of their social maturity and celibate status, in contrast to girly styles such as plaiting their hair into two braids. Once the *majie* reached her 40s, it was common to adopt young daughters so that she would have someone to depend on in her old age. 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/keong-saik-road/ma-jie-daughter-so-hei-comb-up.png">
+<br>
+<img src="/images/Vol-16-issue-1/keong-saik-road/Ma-jie-daughter-so-hei-comb-up.png">
 
 (Left) A <i>majie</i>. and her adopted daughter. <i>Majie</i> were Cantonese women from the Pearl River Delta region in China's Guangdong province, who journeyed to Southeast Asia in the 1930s to work mainly as domestic servants for wealthy families. <i>Courtesy of Charmaine Leung</i>.<br><br>{Right) <i>Majie</i> took vows of celibacy. Image shows a ritual called <i>sor hei</i> (梳起; literally “comb up”) in which the women styled their hair into a neat bun at the back of their head. Photo by Yip Cheong Fun. <i>Courtesy of Andrew Yip</i>.
 
@@ -67,7 +66,7 @@ Nestled among the shophouses is Zhun Ti Gong (or Cundhi Gong) – a Chinese temp
 Today, this temple is especially popular with former residents of Chinatown. While many of these elderly devotees have since moved to newer housing estates with their children, many still return with younger family members to offer their prayers on the first and 15th days of the lunar month.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/keong-saik-road/zhun-ti-gong-temple.jpg">
 
 The Zhun Ti Gong Temple (or Cundhi Gong) at 13 Keong Saik Road, 2000. Built in 1928, the temple played an important role in the lives of <i>majie</i>. Many of the <i>sor hei</i> ceremonies by the <i>majie</i> took place at the temple. <i>Courtesy of Charmaine Leung</i>.
@@ -80,7 +79,7 @@ Apart from the predominantly Cantonese-speaking Chinese community who lived and 
 Keong Saik Road was home to a shophouse occupied by Indian coolies. Many were young bachelors working in Singapore, but some were older men who had left their families in India in search of greener pastures in Singapore. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/keong-saik-road/sri-layan-sithi-vinayagar-temple.jpg">
 
 Devotees at the Sri Layan Sithi Vinayagar Temple welcoming the silver
@@ -127,7 +126,7 @@ In 2013, the coffee shop moved across the street to number 35. The Chinese chara
 To the uninitiated, Keong Saik Road may be just another street in Singapore. But for those who are interested in the history of our country, Keong Saik is part of Singapore’s heritage, offering a glimpse into the lives of early Chinese immigrants. The eclectic mix of communities and businesses at the Keong Saik Road of yesteryear has given the place a unique identity.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/keong-saik-road/shophouses.jpg">
 
 Shophouses on Keong Saik Road, 1997. <i>Joanne
@@ -141,7 +140,7 @@ As I stroll along the Keong Saik area today, what I encounter now is very differ
 Although newness brings excitement, if we are not deliberate in preserving the spirit of our heritage beyond its physical structures, we may one day lose the intangible beauty of our past and heritage completely. I am grateful for the privilege to have lived in an iconic part of Singapore’s past and to have experienced the old Keong Saik Road and its community. As one of Singapore’s daughters, I can only hope that I have done my part in helping to preserve a little of Singapore’s heritage in my sharing about a street that was once my home.
 
 
-|<img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-book.png" style="width: 350px; height: 250px;" />|
+|<img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-book.png" style="width: 350px; height: 250px;">|
 
 |Charmaine Leung grew up on Keong Saik Road in the 1970s and 80s as the daughter of a brothel operator. After having lived overseas for almost 20 years, Charmaine returned to Singapore and discovered a vastly different Keong Saik Road.|
 
@@ -150,8 +149,8 @@ Although newness brings excitement, if we are not deliberate in preserving the s
 |Leung’s book, *17A Keong Saik Road* (2017) is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57004951 LEU and SING 959.57004951 LEU](https://www.nlb.gov.sg/biblio/202826932)) as well as for digital loan on [nlb.overdrive.com](https://nlb.overdrive.com/). The book also retails at major bookshops and ethosbooks.com.sg.|
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/authors/Charmaine_Leung.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-1/authors/Charmaine_Leung.png" style="width: 100px; height: 100px;">
 
 <b>Charmaine Leung</b> is the author of 17A <i>Keong Saik</i> Road, which was shortlisted for the Singapore Literature Prize in 2018. When she is not writing, Charmaine is a curious traveller who enjoys roaming the globe and seeking out off-the-beaten tracks to capture landscapes and communities through photography.
 
