@@ -86,6 +86,32 @@ This can be clearly seen, for example, in this textbook for the Malayan Cambridg
 
 <i>"In course of time the whole of the Malay Peninsula, from the British coastal colonies to the borders of Siam, became a British Protectorate. And the methods of this Protectorate have been as efficient and benignant as if Raffles himself had controlled it. Slavery, serfdom, piracy, rapine - all the worst miseries and savageries of that ancient land - have long died out. The deadly kris has lost its edge. Peace, order, justice are everywhere maintained. More than six hundred thousand schools have been established. Over a thousand miles of railway have been built and between two and three thousand miles of metalled roads. Tin mines have been opened up, and rubber plantations introduced. The material development of Malaya has been one of the economic wonders of the world. But the feature of the Protectorate which Raffles would observe with the deepest pride, were he alive is the happiness of the people. More prosperous than they have ever been, safe at last from the old haunting fears, the old perpetual insecurity, tyranny and wars, the Malays are unquestionably happy. Singapore, then, the Queen of British Malaya, is Raffles' true memorial. He has been forgotten at times in London; he has never been forgotten there. Raffles Quay. Raffles Place, Raffles Museum, Raffles Hotel, Rafffes Library, Raffles Institution, Rafffes College - everywhere the city cries out his name. And in the centre of Raffles Plain - in front of him the azure roadstead with its crowd of ships from all over the world, behind him the green peninsula with its millions of contented villagers, stands Raffles' statue, watching for all time over his child. There, if anywhere on earth, his spirit lingers at peace, his dream fulfilled." (219–221)</i>
 
+First of all, it is posited that the Malays are the original rulers of the land -the land is termed the 'Malay' Peninsula rather than the Malayan peninsula.
+
+Secondly, it is subtly and rhetorically argued that British control is unquestionably superior to former Malay control over the land. Malays are related to savagery - 'Slavery, serfdom, piracy, rapine' are interminably interlinked with the poignant imagery of the 'deadly kris' ,symbolic of Malay power. This 'deadly kris' has given way to the glories of European civilisation by the logic of moving towards what the British consider a higher order of humanity.
+
+"Peace, order and justice" are considered to be a European preserve. The reader goes through this passage and relates Malay rule with the "deadly *kris*", redolent with backwards, savage Oriental despotism, and European rule on the other hand with all the blessings of industry and modernity.
+
+The British are also considered to have given the people of Malaya education through schools, industry through mines and rubber plantations, infrastructure through metalled roads. And for this, the Malay people should be grateful that their own despotic sultans have been replaced by the benign paternalism of British rule.
+
+It is painted that it is so logical that the Malays should accept British rule because of the blessings the British see themselves having brought to them - hence, these colonised elite children are taught that "the Malays are unquestionably happy."
+
+To top it all off, Raffles is posited as the benevolent founder to which these colonised elite children should be grateful: hence, the city should" cry out his name. As he is portrayed as a god-like, benign figure, he watches over the city as his ghost rests, which these colonised elite children should pay homage to.
+
+As such, this elite is taught to be grateful to the British - and to their rule. The best sorts of natives, according to the colonial administrators, were ones who would know their place - meaning that they would want to be like the British but never challenge them.
+
+This sort of complaisance is reflected in a short story in one of the textbooks written by the colonial educationists, R.O. Winstedt. Called" Gula", about a Malay man Winstedt knew who was "so sweet he was like sugar", Gula's attitude is reflective of what a "real native" should be like.
+
+Winstedt's narrator asks Gula whether modernity has been good for him:
+
+"<i> 'Yes, Dato,' I laughed, 'but the old order has changed a lot - hasn't it? The Raja came here today in a motor-car; you came by train. Your grandson talks to me in English. Is the change for the worst?' The peaceful life brought by the white man is very sweet to a tired old fellow, Tuan; and the young men like the novelties of the day. As you say; my grandsons are clever. They talk English, and earn good wages, and make more money out of a good deal in rubber than my father ever possessed." (115)</i>
+
+The goals of this paper have been to flesh out some issues that indicate some of the trends in colonial education in Malaya in the 1930s: the historical role of English education in the colonial state of British Malaya, and the engendering of a specific type of elite sensibility that would cultivate a certain class of rulers who would be grateful for their privilege and at the same time be subservient to European rule.
+
+This sensibility had two aspects: that of allowing these elite subjects to recognise their privilege and the" right ways to act" in relation to this privilege in their society; and to internalise their inferiority to the white man.
+
+The sort of distribution of power that resulted from this construction of an English-speaking elite sensibility, the sort of organisation of power in accordance to language - may go some way in indicating how colonial languages manage to manifest their power, even after the demise of the colonial state has long passed.
+
 
 
 
