@@ -51,7 +51,7 @@ English, therefore, functioned as a central tool of colonial power - by keeping 
 
 Through making elite natives speak and think a certain way, this would help the colonial state to maintain its control over Malayan society. This was done through the normalisation of a certain way of thinking, through making these elite Malayan subjects believe that things worked in accordance to the laws of the colonial state - to engender a Anglophiliac sensibility, sensitive and compliant to British interests.
 
-For this purpose, again, English was extremely important. learning how to speak English in a particular way for the Malayan elite would also mean that they would learn to think like the British, to share British values and become more 'westernised' and hence naturally favour the outlook, desires and goals of the European colonials; in other words, learning how to speak English in a particular way would show them how to think and sympathise with the British through the absorption of Western values.
+For this purpose, again, English was extremely important. Learning how to speak English in a particular way for the Malayan elite would also mean that they would learn to think like the British, to share British values and become more "westernised" and hence naturally favour the outlook, desires and goals of the European colonials; in other words, learning how to speak English in a particular way would show them how to think and sympathise with the British through the absorption of Western values.
 
 Textbooks were thus specifically engineered to teach the colonised to recognise themselves in certain ways: <br><br>
 • The colonised were taught to recognise themselves as elite in class, to recognise themselves as masters over the other non-white natives;<br><br> • The textbooks tried to teach them their role as subordinate to the British, to teach them to accept the British as benevolent masters, to identify themselves as children vis-a-vis their colonial masters who were trying to uplift and civilise them;<br><br> • They taught the colonised elite to become Victorian English gentlemen through imbibing them with the sorts of Victorian upper-class distinctions that were endemic to the British public school system, such as notions of being from a "correct" background and the idea of team sports such as cricket, polo and notions of 'fair play' and being a 'good sport";<br><br> • The colonised were to understand the colony as being divided into races and to accept the truth of racial stereotypes and the importance of these racial stereotypes to good governance and rule over the colony.
@@ -87,6 +87,10 @@ If the native elite are taught that they are superior to the rest of the non-whi
 This means concretely that these native elite were specifically taught to regard the British as benevolent rulers who were driven by a mission to civilise - to uplift them from their natural states of savagery and teach them to be "modern" - to teach them to industrialise themselves, have better values, and to have respect for humanity in European terms.
 
 They were also taught to naturalise European superiority in relation to themselves, and to valorise the British as rulers who were the most desirable to have, especially in comparison with their own native rulers.
+
+<img src="/images/Vol%203%20Issue%201/group%20of%20men.jpg" style="width:80%;">
+ <div style="background-color: white;"> <i>Picture reproduced from One Hundred Years' History of the Chinese in Singapore.  All rights reserved, Murrary, 1923.</i></div>
+
 
 This can be clearly seen, for example, in this textbook for the Malayan Cambridge 0 levels, in a historical lesson on Raffles:
 
