@@ -112,7 +112,7 @@ To top it all off, Raffles is posited as the benevolent founder to which these c
 
 As such, this elite is taught to be grateful to the British - and to their rule. The best sorts of natives, according to the colonial administrators, were ones who would know their place - meaning that they would want to be like the British but never challenge them.
 
-<img src="/images/Vol%203%20Issue%201/men%20sitting%20down.jpg" style="width:80%;">
+<img src="/images/Vol%203%20Issue%201/men%20sitting%20down.jpg" style="width:50%;">
  <div style="background-color: white;"><i>Picture reproduced from One Hundred Years' History of the Chinese in Singapore.  All rights reserved, Murrary, 1923.</i></div>
 
 
