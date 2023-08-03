@@ -91,14 +91,12 @@ They were also taught to naturalise European superiority in relation to themselv
 <img src="/images/Vol%203%20Issue%201/group%20of%20men.jpg" style="width:80%;">
  <div style="background-color: white;"> <i>Picture reproduced from One Hundred Years' History of the Chinese in Singapore.  All rights reserved, Murrary, 1923.</i></div>
 
-
 This can be clearly seen, for example, in this textbook for the Malayan Cambridge 0 levels, in a historical lesson on Raffles:
 
 <i>"In course of time the whole of the Malay Peninsula, from the British coastal colonies to the borders of Siam, became a British Protectorate. And the methods of this Protectorate have been as efficient and benignant as if Raffles himself had controlled it. Slavery, serfdom, piracy, rapine - all the worst miseries and savageries of that ancient land - have long died out. The deadly kris has lost its edge. Peace, order, justice are everywhere maintained. More than six hundred thousand schools have been established. Over a thousand miles of railway have been built and between two and three thousand miles of metalled roads. Tin mines have been opened up, and rubber plantations introduced. The material development of Malaya has been one of the economic wonders of the world. But the feature of the Protectorate which Raffles would observe with the deepest pride, were he alive is the happiness of the people. More prosperous than they have ever been, safe at last from the old haunting fears, the old perpetual insecurity, tyranny and wars, the Malays are unquestionably happy. Singapore, then, the Queen of British Malaya, is Raffles' true memorial. He has been forgotten at times in London; he has never been forgotten there. Raffles Quay, Raffles Place, Raffles Museum, Raffles Hotel, Rafffes Library, Raffles Institution, Rafffes College - everywhere the city cries out his name. And in the centre of Raffles Plain - in front of him the azure roadstead with its crowd of ships from all over the world, behind him the green peninsula with its millions of contented villagers, stands Raffles' statue, watching for all time over his child. There, if anywhere on earth, his spirit lingers at peace, his dream fulfilled." (219–221)</i>
 
-<img src="images/Vol%203%20Issue%201/raffles%20statue.jpg" style="width:80%;">
+<img src="/images/Vol%203%20Issue%201/raffles%20statue.jpg" style="width:80%;">
  <div style="background-color: white;"><i>Image reproduced from The Souvenir of Singapore, 1914.</i></div>
-
 
 First of all, it is posited that the Malays are the original rulers of the land - the land is termed the "Malay" Peninsula rather than the Malayan peninsula.
 
@@ -113,6 +111,8 @@ It is painted that it is so logical that the Malays should accept British rule b
 To top it all off, Raffles is posited as the benevolent founder to which these colonised elite children should be grateful: hence, the city should "cry out his name." As he is portrayed as a god-like, benign figure, he watches over the city as his ghost rests, which these colonised elite children should pay homage to.
 
 As such, this elite is taught to be grateful to the British - and to their rule. The best sorts of natives, according to the colonial administrators, were ones who would know their place - meaning that they would want to be like the British but never challenge them.
+
+![](/images/Vol%203%20Issue%201/men%20sitting%20down.jpg)
 
 This sort of complaisance is reflected in a short story in one of the textbooks written by the colonial educationists, R.O. Winstedt. Called "Gula", about a Malay man Winstedt knew who was "so sweet he was like sugar", Gula's attitude is reflective of what a "real native" should be like.
 
