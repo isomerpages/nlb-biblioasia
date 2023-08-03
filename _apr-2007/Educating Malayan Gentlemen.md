@@ -9,6 +9,9 @@ description: The early part of the 20th century saw a conservative shift towards
 ---
 #### The early part of the 20th century saw a conservative shift towards the teaching of English to native subjects. This was contrary to the 19th century when the teaching of English was seen as an imperative civilising force – a tool for the enlightenment of the savage barbarians that the British ruled over in their colonies.
 
+<img src="/images/Vol%203%20Issue%201/man%20and%20child.jpg" style="width:80%;">
+ <div style="background-color: white;"> <i>Image reproduced from The Souvenir of Singapore, 1914.</i></div>
+
 The early part of the 20th century saw a huge shift in colonial educational policy across the British Empire, with the beginnings of a strict limitation on teaching English to native subjects.
 
 This starkly contrasted with previous attitudes within educational policy, where English would be taught - particularly in India - with the hope of "civilising" the natives. The English language in 19th century British imperial policy was conceived of as an imperative civilising force - a tool for the enlightenment of the savage barbarians the British ruled over in the tropical exploitation colonies.
@@ -136,8 +139,3 @@ Frantz Fanon, [_Black Skin, White Masks_](https://eservice.nlb.gov.sg/item_holdi
 Louis Althusser, “Ideology and Ideological State Apparatuses,” _Lenin and Philosophy and Other Essays_, trans. Ben Brewster (New York: Monthly Review Press, 1970). 127–86.
 
 “Macaulay's Minute on English Education,” History of English Studies Website, University of California, Santa Barbara, 1 January 2007.
-
-
-
-
-
