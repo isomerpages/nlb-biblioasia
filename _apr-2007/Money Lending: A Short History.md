@@ -19,6 +19,10 @@ When it came to dealingv with Chinese traders and merchants, each bank found it 
 Until the beginning of the 20th century. the banking system in Singapore consisted mainly of European Banks. It was only at the turn of the 20th century that the first Iocal  banks were established. Kwong Yik Bank was the first Chinese bank: It was set up in 1903 by Wong Ah Fook and several  Cantonese businessmen. The bank's  services included banking facilities, mortgages and loans, and its clientele was mainly Chinese. The second Chinese bank, Sze Hai Tong, was set up in February 1906. One of its directors, Tan Swi Phiau, also held the important position of comprador to 
 Netherlands India Commercial Bank.
 
+#### **The Rise of Agency Houses**
+Another source of finance for many businesses were agency houses such as Guthrie & Co. Established in the 19th century by colonial pioneers, these companies had started off as trading businesses, but later diversified into non-trading businesses such as banking and finance.
+
+Guthrie & Co., for instance, started off as an import-export establishment.  As the company accrued assets from the profits it made from trading activities, it decided to make good use of the surplus assets by providing finances for other people's business ventures, such as building factories and sawmills in Singapore.  It also provided loans to businesses such as ti-mining and rubber cultivation in the Malay states.
 
 
 
