@@ -43,9 +43,13 @@ By the late 19th century, the chettiars were among the wealthiest members of the
 
 "They were amongst the wealthiest members of the community, but they live in a very simply way. Their dress consists merely a strip of muslin cloth wound loosely round their limbs and a pair of leather sandals.  As an ornament they often wear a gold wire round the neck with a massive gold ornament attached to it.  They seldom or never purchase any of the luxuries of Western civilisation, but they spend large sums of money on the Hindu Temple which the attend." (Wright, 1908, p. 141)
 
-However, chettiars were at times criticised for usury and labelled as "Shylocks of the East" (Wright, 1908, p. 219). This was not helped by the fact that chettiars were not slow to bring people to court to enforce loan agreements. Indeed, it was a common saying that chettiars spent their time between the banks and the court.
+However, chettiars were at times criticised for usury and labelled as "Shylocks of the East" (Wright, 1908, p. 219). This was not helped by the fact that chettiars were not slow to bring people to court to enforce loan agreements. Indeed, it was a common 
+saying that chettiars spent their time between the banks and the court.
 
+#### **Arab, Chinese and Sikh Moneylenders**
+Apart from the chettiars, there were also Arab, Chinese and Sikh moneylenders. Chinese moneylenders ranged from wealthy businessmen to itinerant moneylenders such as shoph
 
+Apiirt from tfle che\\tilor$. there we'UlfCi ArJb. C~ltlttuna Sikh moneyiendeB. Chinest montyl.nd'l"II rang.-:l from wealthy businl!5Smen to ttiner.nt monll!ylend,rs UJd1 '$ shopkeepel1" who prwidId 1m • • owdt. n-mcnc,'Il" oftfln prcMded I sauro! ol c.1pillil for Chin"",. ImmIgl'lnu
 
 
 
