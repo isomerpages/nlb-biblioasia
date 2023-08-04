@@ -47,9 +47,34 @@ However, chettiars were at times criticised for usury and labelled as "Shylocks 
 saying that chettiars spent their time between the banks and the court.
 
 #### **Arab, Chinese and Sikh Moneylenders**
-Apart from the chettiars, there were also Arab, Chinese and Sikh moneylenders. Chinese moneylenders ranged from wealthy businessmen to itinerant moneylenders such as shoph
+Apart from the chettiars, there were also Arab, Chinese and Sikh moneylenders. Chinese moneylenders ranged from wealthy businessmen to itinerant moneylenders such as shopkeepers, who provided small credit.  These moneylenders often provided a source of capital for Chinese immigrants to set up small businesses, though not all business did well:
 
-Apiirt from tfle che\\tilor$. there we'UlfCi ArJb. C~ltlttuna Sikh moneyiendeB. Chinest montyl.nd'l"II rang.-:l from wealthy businl!5Smen to ttiner.nt monll!ylend,rs UJd1 '$ shopkeepel1" who prwidId 1m • • owdt. n-mcnc,'Il" oftfln prcMded I sauro! ol c.1pillil for Chin"",. ImmIgl'lnu
+"After completing their twelve months as *Sinkehs*, many get an advance of money from town shopkeepers, clear a piece of forest, land, plant vegetables, plaintains and indigo at first, and eventually gambier and pepper; under certain government regulations forest lands are thus cleared and cultivated, and a grant obtained in perpetuity from the state.  The returns are so slow, and the exactions of the money lenders so stringent, that in a few years the squatters are forced to sell their land to repay their creditors.  Hokkiens are often the purchasers." (Vaughn, 1879, p. 15)
+
+The Sikhs were first recruited from Punjab to go to Malaya to serve as policemen.  As the Sikh community in Singapore expanded, a number of them went into the business of moneylending, which was not a difficult trade to learn and offered good profits.
+
+Unlike Chinese and Sikh moneylenders, Arab moneylenders had to avoid Islamic prohibitions on interest dealings, and relied on other means, such as making use of real estate, for their moneylending activities.
+
+#### **The First Pawnshops**
+For the majority of the population, the most easily available lending facility in times of need was the pawnshop. The pawnbroking business, which had a long history in China, was brought to Singapore by Chinese immigrants. As the only banks available in the early days were European and most of the Chinese immigrants spoke no English, they naturally fell back on the traditional practice of pawnbroking.
+
+Since the early 19th century, pawnbroking activities had been widespread in Singapore. They served as a source of revenue for the British colonial administration, which had adopted the practice of revenue farming. This gave those holding the contracts of revenue farms the sole right to sell opium and spirits, and to manage gambling and pawnbroking businesses.
+
+However, in 1830, instead of issuing licences to individual pawnbrokers, the colonial administration decided to revert to the farming system by giving the pawnbroker farmer the exclusive right to run the pawnbroking business.  Describing the pawnbroking scene in Singapore, John Cameron, an editor of the The Straits Times in the 1860s, wrote that "in Singapore alone, where there are not 100,000 souls, the farmer can pay a premium of 450/ a month for a monopoly of the pawnshops." (Cameron, 1865, p. 218)
+
+The farming system offered a few advantages for the colonial administration.  Firstly, by giving the pawnbroker farmer the exclusive right to operate the pawnbroking business, it was able to avoid having to manage pawnbroking activities and collecting dues from pawnbrokers.
+
+Secondly, the farming system tended to bring about higher revenue, since interested pawnbrokers bidded highly to secure the pawnbroking farms.  However, this raised concerns that the system tended to result in high interest rates, because pawnbrokers naturally charged more to meet the high rents.  The issuing of licenses was seen as a better solution to keep interest rates low.
+
+This was perpetual dilemma for the colonial administration, and in the ensuing decades, it oscillated between revenue farming and regulation by licensing.  This continued until 1934, when the colonial government implemented a new system, in which pawnbrokers' licenses were granted in a tender system.
+
+The first pawnshop in Singapore was *Sheng He Dang*, set up by Lan Quishan and a few partners.  In 1878, *He Yuan Shi* obtained the first pawnbroking farm from the Straits Settlements government.  He operated eight pawnshops and paid an annual fee of $200 for each.  In the early days, the pawnbroking business was dominated by Hokkiens and Teochews, two of the largest dialect groups among the Chinese immigrants.  However, they were later superseded by the Hakkas. By 1941, there were 26 pawnshops, 24 of which were owned by Hakkas.
+
+At the beginning of the 20th century, many of the pawnbrokers also went into banking business.  For instances, when Kwong Yik Bank was first established in 1903, five of the bank's 11 directors were proprietors of pawnshops, including the managing director, Lam Wei Fong.
+
+
+
+
 
 
 
