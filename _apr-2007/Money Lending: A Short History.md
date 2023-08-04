@@ -72,9 +72,12 @@ The first pawnshop in Singapore was *Sheng He Dang*, set up by Lan Quishan and a
 
 At the beginning of the 20th century, many of the pawnbrokers also went into banking business.  For instances, when Kwong Yik Bank was first established in 1903, five of the bank's 11 directors were proprietors of pawnshops, including the managing director, Lam Wei Fong.
 
+Pawnshops remained an important source of lending for the community at large until recent years.  Unlike the affluent class, most people did not own land nor other recognised assets against which they could borrow from the banks. While they charged higher interest than any other forms of commercial credit, pawnshops enabled people without large assets to borrow money for weddings, funerals or festivals.
 
+#### **HUI**
+The *hui* was another popular source of lending among local Chinese. In Western terms, the *hui* was commonly referred to as "tontine", an annuity scheme named after Neapolitan banker Lorenzo Tonti, who started the scheme in France around 1653.
 
-
+Like the tontine, the *hui* was a form of loan association set up for mutual assistance.  Each member would pay a fixed amount to *hui* every month, and each month, a different member had the use of the total amount collected.  Those who wanted to use the money that month would bid for the privilege, with the member offering the highest interest, securing the loan.
 
 
 
