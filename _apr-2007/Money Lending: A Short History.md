@@ -20,9 +20,9 @@ Until the beginning of the 20th century. the banking system in Singapore consist
 Netherlands India Commercial Bank.
 
 #### **The Rise of Agency Houses**
-Another source of finance for many businesses were agency houses such as Guthrie & Co. Established in the 19th century by colonial pioneers, these companies had started off as trading businesses, but later diversified into non-trading businesses such as banking and finance.
+Another source of finance for many businesses were agency houses such as Guthrie &amp; Co. Established in the 19th century by colonial pioneers, these companies had started off as trading businesses, but later diversified into non-trading businesses such as banking and finance.
 
-Guthrie & Co., for instance, started off as an import-export establishment.  As the company accrued assets from the profits it made from trading activities, it decided to make good use of the surplus assets by providing finances for other people's business ventures, such as building factories 
+Guthrie &amp; Co., for instance, started off as an import-export establishment.  As the company accrued assets from the profits it made from trading activities, it decided to make good use of the surplus assets by providing finances for other people's business ventures, such as building factories 
 and sawmills in Singapore.  It also provided loans to businesses such as ti-mining and rubber cultivation in the Malay states.
 
 #### **Enter The Chettiars**
@@ -90,7 +90,43 @@ Despite the risks, the *hui* was a popular source of lending for local Chinese w
 
 For those with surplus assets, the *hui* acted like a "savings bank" that offered a higher rate of interest then banks.  The *hui* was reportedly very popular among the women folk, who saw it as a means to invest and increase their savings.  It was said that "nine out of every 10 amahs and three out of every 10 nonyas" were members of a *hui*. (Koh, 1938, p. xll)
 
-Among the local Indians, there was a loan association similar to the *hui* called *kutoo* or *Kuthu*. However, there was no interest and members' right to borrow was determined by casting lots. For Indian immigrants, the *kutoo* provided a means of securing capital to set up a small business, such as selling iced water or a cigarette stall in a corner shop.
+Among the local Indians, there was a loan association similar to the *hui* called *kutoo* or *Kuthu*. However, there was no interest and members' right to borrow was determined by casting lots. For Indian immigrants, the *kutoo* provided a means of 
+securing capital to set up a small business, such as selling iced water or a cigarette stall 
+in a corner shop.
+
+<div>
+ <center><b>Ong Eng Chuan</b><br>Reference Librarian<br>Lee Kong Chian Reference Library<br>National Library </center> </div>
+ 
+ #### **REFERENCES**
+   
+Arnold Wright and H.A. Cartwright, eds., [_Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202711817) (\[London\]: \[Lloyd's Greater Britain Publishing Company, Limited\], 1908). (Call no. RRARE 959.5103 TWE)
+
+C. Gamba, “Poverty, and Some Socio-Economic Aspects of Hoarding, Saving and Borrowing in Malaya,” [_Malayan Economic Review_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082174) 3, no. 2 (October 1958): 33–62. (Call no. RCLOS 330.9595 MER)
+
+Douglas Wong, [_HSBC: Its Malaysian Story_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12516709) (Kuala Lumpur: Editions Didier Millet, 2004). (Call no. RSING q332.1509595 WON)
+
+Hans-Dieter Evers and Jayarani Pavadarayan, “Religious Fervour and Economic Success: The Chettiars of Singapore,” in [_Indian Communities in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12803831), ed. K.S. Sandhu and A. Mani (Singapore: Institute of Southeast Asian Studies, 2006). (Call no. RSING 305.891411059 IND)
+
+He Qianxun 何谦训, _Xinjiapo dian dang ye zong heng tan_ [新加坡典当业纵横谈](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12611376) \[Talking about the pawnbroker industry in Singapore\] (Xinjiapo 新加坡: Xinjiapo Chayang (Dabu) hui guan, Xinjiapo dang shang gong hui 新加坡茶阳(大埔)会馆, 新加坡当商工会 2005). (Call no. Chinese RSING 332.34095957 HQX)
+
+J. D. Vaughan, [_The Manners and Customs, of the Chinese of the Straits Settlements_](https://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx) (Singapore: Printed at the Mission Press, 1879). (From BookSG; call no. RRARE 390.0951 VAU; microfilm NL2437)
+
+John Cameron, [_Our Tropical Possessions in Malayan India: Being a Descriptive Account of Singapore, Penang, Province Wellesley, and Malacca; Their Peoples, Products, Commerce, and Government_](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) (London: Smith, Elder and Co, 1865). (From BookSG; call no. RRARE 959.5 CAM; microfilm NL11224)
+
+Koh C. J., Hway, Chinese Loan Societies, [_Malayan Law Journal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4321633) 7, xi–xdl. (microfilm NL3493)
+
+Lal Harcharan Singh, [_Law of Moneylenders in Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12256069) (Malaysia: Sweet &amp; Maxwell Asia, 2003). (Call no. RSING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 346.5957073 SIN)
+
+Rajeswary Ampalavanar Brown, [_Capital and Entrepreneurship in South-East Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6894966) (Hampshire: The Macmillan Press Ltd., 1994). (Call no. RSING 338.040959 BRO)
+
+S. K. Das, “Nattukottai Chettiars in Malaya,” [_Malayan Law Journal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4321633) 24 (1958): xiv–xxii, xxvi–xxiii. (Call no. RCLOS 340.05 MLJ)
+
+Sjovald Cunyngham-Brown, [_The Traders: A Story of Britain’s South-East Asian Commercial Adventure_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4259493) (London: Newman Neame, 1971). (Call no. RSING 382.0959 CUN)
+
+T. J. Newbold, [_Political and Statistical Account of the British Settlements in the Straits of Malacca, Viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca_](https://eresources.nlb.gov.sg/printheritage/detail/8123f6c8-67a1-48c6-97a6-3357c3bc5966.aspx), vol 1. (London: J, Murray, 1839). (From BookSG; call no. RRARE 959.5 NEW; microfilm NL5141)
+
+Yasser Mattar, [_Ethnic Entrepreneurship: Towards an Ecological Perspective_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10085827) (Singapore: Dept. of Sociology, National University of Singapore, 2000). (Call no. RSING q338.04095957 MAT)
+
 
 
 
