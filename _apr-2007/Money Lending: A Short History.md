@@ -22,7 +22,32 @@ Netherlands India Commercial Bank.
 #### **The Rise of Agency Houses**
 Another source of finance for many businesses were agency houses such as Guthrie & Co. Established in the 19th century by colonial pioneers, these companies had started off as trading businesses, but later diversified into non-trading businesses such as banking and finance.
 
-Guthrie & Co., for instance, started off as an import-export establishment.  As the company accrued assets from the profits it made from trading activities, it decided to make good use of the surplus assets by providing finances for other people's business ventures, such as building factories and sawmills in Singapore.  It also provided loans to businesses such as ti-mining and rubber cultivation in the Malay states.
+Guthrie & Co., for instance, started off as an import-export establishment.  As the company accrued assets from the profits it made from trading activities, it decided to make good use of the surplus assets by providing finances for other people's business ventures, such as building factories 
+and sawmills in Singapore.  It also provided loans to businesses such as ti-mining and rubber cultivation in the Malay states.
+
+#### **Enter The Chettiars**
+
+Outside the realm of European banks and agency houses, the chettiars were the most prominent professional moneylenders.  They were an influential class of merchants from South India who had over time established a reputation in the field of commerce and finance. As the Europeans expanded their colonial influence in Southeast Asia in the 19th century, the chettiars had also extended their network throughout the region.
+
+By the end of the 19th century, the chettiars had become a formidable force in the business of moneylending  in Singapore, having large amounts of capital at their command.  Many chettiars were agents of wealthy men in India who were the main source of capital. They also made use of capital form local depositors and European banks, obtaining money from the basis on demand notes signed by two or more chettiars. The amounts advanced by the banks on the demand notes depended on the standing of the chettiars who signed them.
+
+In some cases, banks would insist on a personal guarantee from the chettiars own "shroff," or head cashier, as an additional precaution.  Nevertheless, so great was the business aptitude and reputation of the chettiars, that the losses incurred by the banks in dealing with them were relatively small (Wright, 1908, p. 141). The money obtained from banks was them lent out to others, such as Chinese traders, at higher rates of interest.
+
+The chettiar's loans operated in the following manner: The borrower would be required to sign a promissory note, and this was considered sufficient for small loans and loans granted withour collateral. For larger amounts, jewels, gold or land title deeds were held as collateral.
+
+The amount actually received by the borrower would be less than that stated on the promissory note. A rate of interest would be charged on the amount mentioned in the promissory.  If the borrower did not repay the principal and interest on the due date, the amount owed would be automatically adjusted to comprise the principal and accrued interest, and a higher interest would be charged.  
+
+By lending to the chettiars, the European banks were able to profit from the local credit market with a much reduced risk.  At the same time, local borrowers got access to capital from the European banks, which would otherwise have been unavailable. Most of the Chinese traders and merchants were illiterate, and hence turned to chettiars instead of banks, as it involved fewer formalities, less hassle and minimal documentation.
+
+By the late 19th century, the chettiars were among the wealthiest members of the community.  However, most of them led a simple lifestyle, as illustrated in the following description of chettiars in early 20th century Singapore.
+
+"They were amongst the wealthiest members of the community, but they live in a very simply way. Their dress consists merely a strip of muslin cloth wound loosely round their limbs and a pair of leather sandals.  As an ornament they often wear a gold wire round the neck with a massive gold ornament attached to it.  They seldom or never purchase any of the luxuries of Western civilisation, but they spend large sums of money on the Hindu Temple which the attend." (Wright, 1908, p. 141)
+
+However, chettiars were at times criticised for usury and labelled as "Shylocks of the East" (Wright, 1908, p. 219). This was not helped by the fact that chettiars were not slow to bring people to court to enforce loan agreements. Indeed, it was a common saying that chettiars spent their time between the banks and the court.
+
+
+
+
 
 
 
