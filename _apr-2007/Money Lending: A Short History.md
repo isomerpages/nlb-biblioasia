@@ -77,10 +77,20 @@ Pawnshops remained an important source of lending for the community at large unt
 #### **HUI**
 The *hui* was another popular source of lending among local Chinese. In Western terms, the *hui* was commonly referred to as "tontine", an annuity scheme named after Neapolitan banker Lorenzo Tonti, who started the scheme in France around 1653.
 
-Like the tontine, the *hui* was a form of loan association set up for mutual assistance.  Each member would pay a fixed amount to *hui* every month, and each month, a different member had the use of the total amount collected.  Those who wanted to use the money that month would bid for the privilege, with the member offering the highest interest, securing the loan.
+Like the tontine, the *hui* was a form of loan association set up for mutual assistance.  Each member would pay a fixed amount to *hui* every month, and each month, a different member had the use of the total amount collected.  Those who wanted to use the money that month would bid for the privilege, with the member offering the 
+highest interest, securing the loan.
 
+The membership size of a *hui* ranged from 10 tp 60.  Members met for the monthly "drawing", which was usually held at the beginning of the month at the organiser's residence.  At the meeting, members tendered for the loan by passing slips of paper to the organiser stating the rate of interest they offered. The cash was then collected and handed over to the highest bidder.
 
+The organiser often got a fee called *teh poh* for bringing the participants together.  In the early years, account books were rarely kept, as the organisers or managers were often illiterate.  They kept record of members' obligations and liabilities by "numerals, dots, circles and crosses (*tulisan ayam*)" (Koh, 1938, p. xi). Subsequently, it became a common practice to issue members with account books called *Wui Poh*, on which organisers would acknowledge the contributions received from members.
 
+However, the *hui* had its risks - advances were given without collateral, and participants were susceptible to risks such as the death or default of memebrs, or the failure of the headsman to pay up the subscription collected. Moreover, participants were not protected by law, even though written accounts could be presented by the organiser to the subscribers; the Societies Ordinance made by any loan association with 20 or more members unlawful if unregistered. 
+
+Despite the risks, the *hui* was a popular source of lending for local Chinese who had little access to banks or could not offer collateral.  The common folk relied on its as as source of lending to meet emergency or short-term needs, such as hospital bills or children's weddings, and small Chineses traders relied on it for their credit needs.
+
+For those with surplus assets, the *hui* acted like a "savings bank" that offered a higher rate of interest then banks.  The *hui* was reportedly very popular among the women folk, who saw it as a means to invest and increase their savings.  It was said that "nine out of every 10 amahs and three out of every 10 nonyas" were members of a *hui*. (Koh, 1938, p. xll)
+
+Among the local Indians, there was a loan association similar to the *hui* called *kutoo* or *Kuthu*. However, there was no interest and members' right to borrow was determined by casting lots. For Indian immigrants, the *kutoo* provided a means of securing capital to set up a small business, such as selling iced water or a cigarette stall in a corner shop.
 
 
 
