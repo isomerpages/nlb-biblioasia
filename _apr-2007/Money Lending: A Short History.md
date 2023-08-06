@@ -64,6 +64,10 @@ For the majority of the population, the most easily available lending facility i
 
 Since the early 19th century, pawnbroking activities had been widespread in Singapore. They served as a source of revenue for the British colonial administration, which had adopted the practice of revenue farming. This gave those holding the contracts of revenue farms the sole right to sell opium and spirits, and to manage gambling and pawnbroking businesses.
 
+<img src="/images/Vol%203%20Issue%201/MoneyLending/statement%20of%20revenue.jpg" style="width:100%;">
+ <div style="background-color: white;">Statement of Revenue of Singapore from 1823–24 to 1836–37.  <i>
+T. J. Newbold, Political and Statistical Account of the British Settlements in the Straits of Malacca, Viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca, vol 1. (London: J, Murray, 1839, p. 381). </i></div>
+
 However, in 1830, instead of issuing licences to individual pawnbrokers, the colonial administration decided to revert to the farming system by giving the pawnbroker farmer the exclusive right to run the pawnbroking business.  Describing the pawnbroking scene in Singapore, John Cameron, an editor of the *The Straits Times* in the 1860s, wrote that "in Singapore alone, where there are not 100,000 souls, the farmer can pay a premium of 450/ a month for a monopoly of the pawnshops." (Cameron, 1865, p. 218)
 
 The farming system offered a few advantages for the colonial administration.  Firstly, by giving the pawnbroker farmer the exclusive right to operate the pawnbroking business, it was able to avoid having to manage pawnbroking activities and collecting dues from pawnbrokers.
