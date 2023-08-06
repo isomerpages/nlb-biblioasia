@@ -80,6 +80,9 @@ The first pawnshop in Singapore was *Sheng He Dang*, set up by Lan Quishan and a
 
 At the beginning of the 20th century, many of the pawnbrokers also went into banking business.  For instances, when Kwong Yik Bank was first established in 1903, five of the bank's 11 directors were proprietors of pawnshops, including the managing director, Lam Wei Fong.
 
+<img src="/images/Vol%203%20Issue%201/MoneyLending/pawnbroker%20receipt.jpg" style="width:50%;">
+ <div style="background-color: white;">Pawnbroking receipt. <i>Koh Seow Chuan Collection.</i></div>
+
 Pawnshops remained an important source of lending for the community at large until recent years.  Unlike the affluent class, most people did not own land nor other recognised assets against which they could borrow from the banks. While they charged higher interest than any other forms of commercial credit, pawnshops enabled people without large assets to borrow money for weddings, funerals or festivals.
 
 #### **HUI**
