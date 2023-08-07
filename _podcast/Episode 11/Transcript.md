@@ -48,7 +48,7 @@ Jimmy <br>
 To put them all in the same cemetery. Clearly, in some ways, it's a very important cemetery. But to me, it doesn't seem to occupy a very large place in the Singapore imagination. Would you agree?
 
 Janice <br>
-I can't speak for everyone, but for myself personally as someone who grew up in the 1990s, and probably other people who grew up in that era – you remember *The Price of Peace*, right? That Channel 8 production which is very much about the suffering during the Japanese Occupation. I think many Singaporeans... The key thing that they relate most to, or that sticks in their mind, is the kind of violence and the suffering during the period of Japanese Occupation: the Sook Ching massacre and how people lost their family members. It's still a very painful experience, a very painful memory. But because the Kranji War Cemetery is more of like a military kind of cemetery, it commemorates the people who died in the Battle for Singapore.
+I can't speak for everyone, but for myself personally as someone who grew up in the 1990s, and probably other people who grew up in that era – you remember *The Price of Peace*, right? That Channel 8 production which is very much about the suffering during the Japanese Occupation. I think [for] many Singaporeans, the key thing that they relate most to, or that sticks in their mind, is the kind of violence and the suffering during the period of Japanese Occupation: the Sook Ching massacre and how people lost their family members. It's still a very painful experience, a very painful memory. But because the Kranji War Cemetery is more of like a military kind of cemetery, it commemorates the people who died in the Battle for Singapore.
 
 Jimmy <br>
 How many times did you go down to the cemetery?
@@ -90,7 +90,7 @@ Jimmy <br>
 How did you find out about her? She wasn't buried there.
 
 Janice <br>
-She survived the war, but her husband didn't. So I think for Madam Cheng... I think I read about her in the book by the architect, I think it's just a very compelling and very moving account that really demonstrates the kind of far-reaching effect of the war – that, yes, there were people who died, but then there were also the people who... The family members who survived and had to live on with the pain of that loss.
+She survived the war, but her husband didn't. I think I read about her [Madam Cheng] in the book by the architect, I think it's just a very compelling and very moving account that really demonstrates the kind of far-reaching effect of the war – that, yes, there were people who died, but then there were also the people who... The family members who survived and had to live on with the pain of that loss.
 
 Jimmy <br>
 Actually, you mentioned, I think, in your article that during the opening of the Kranji War Cemetery, that's how people got to know about her – because she broke down and started crying, right?
@@ -132,7 +132,7 @@ Jimmy <br>
 The bigger and the better known one, right? What happened in that operation?
 
 Janice <br>
-In 1942, a group of 14 commandos from this Special Z Unit conducted a mission to sabotage Japanese shipping in Singapore harbour. What they did was they actually captured Japanese fishing vessel and they used it to go undercover and they disguised themselves as fishermen. That fishing vessel travelled from Australia all the way to the Riau Islands where they set up a base, and from the base I think they tried to get as close as possible to the Singapore Harbour. They used kayaks to pedal into the harbour and then attached mines to Japanese ships. I think they managed to sink a couple of them, so it was a very incredible mission if you read about it. It's larger than life... I seem to remember that Operation Jaywick led to the Double Tenth incident. Yeah, because of course after the ships... The mines exploded and the ships sank, of course, the Japanese went around on a hunt for the culprits. And unfortunately they... I guess they thought that it must have been some people in in the prisons. So they tortured people to extract confessions and stuff like that. So unfortunately people lost their lives as a result.
+In 1942, a group of 14 commandos from this Special Z Unit conducted a mission to sabotage Japanese shipping in Singapore harbour. What they did was they actually captured Japanese fishing vessel and they used it to go undercover and they disguised themselves as fishermen. That fishing vessel travelled from Australia all the way to the Riau Islands where they set up a base, and from the base I think they tried to get as close as possible to the Singapore Harbour. They used kayaks to pedal into the harbour and then attached mines to Japanese ships. I think they managed to sink a couple of them, so it was a very incredible mission if you read about it. It's larger than life. I seem to remember that Operation Jaywick led to the Double Tenth incident. Yeah, because of course after the mines exploded and the ships sank, of course, the Japanese went around on a hunt for the culprits. I guess they thought that it must have been some people in in the prisons. So they tortured people to extract confessions and stuff like that. So unfortunately people lost their lives as a result.
 
 Jimmy <br>
 Again, as with many of them, some of the people involved in Operations Jaywick and Rimau were buried in Kranji, but I guess for others their bodies were never recovered. 
@@ -210,10 +210,10 @@ Jimmy <br>
 Okay, good. And the last question is: BiblioAsia is...
 
 Janice <br>
-I'm looking at the editor of BiblioAsia right now and he's asking me...
+I'm looking at the editor of BiblioAsia right now and he's asking me.
 
 Jimmy<br>
-Just don't say “boring”. 
+Just don't say boring. 
 
 Janice <br>
 I'm not saying boring. I'm going to say it's dynamic because, you know, a lot of things are changing.
