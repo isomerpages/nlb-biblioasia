@@ -6,11 +6,10 @@ image: /images/Vol-15-issue-4/trial-by-firing-squad/Trial1.JPG
 layout: post
 description: ""
 ---
-
 #### In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion. **Umej Bhatia** recreates the final moments of the mutineers as they pay the ultimate price for their actions.
 
 <img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial1.JPG">
-<div style="background-color: white;">The public execution of convicted sepoy mutineers at the Singapore Criminal Prison on Outram Road, March 1915. <i>Image reproduced from James, L. (1987). Mutiny in the British and Commonwealth Forces, 1797–1956. London: Buchan & Enright, Publishers.(Call no.: RSING 355.1334 JAM).</i></div>
+<div style="background-color: white;">The public execution of convicted sepoy mutineers at the Singapore Criminal Prison on Outram Road, March 1915. <i>Image reproduced from James, L. (1987). Mutiny in the British and Commonwealth Forces, 1797–1956. London: Buchan &amp; Enright, Publishers.(Call no.: RSING 355.1334 JAM).</i></div>
 
 *On 15 February 1915, a mutiny broke out among sepoys (Indian soldiers) of the 5th Light Infantry Regiment based in Singapore. The mutiny lasted almost a week and claimed the lives of 44 people – British soldiers and civilians, as well as Chinese and Malay civilians. More than 200 sepoys were tried by court martial and received varying sentences, while more than 47 were publicly executed at Outram Prison. Initially portrayed as a minor event confined to Singapore, Umej Bhatia’s recently published book Our Name is Mutiny argues that the event was part of a larger movement rebelling against the British Raj. This abridged extract is from the first chapter of Bhatia’s book, which deliberately uses a novel-like narrative to recount the events.*
 
@@ -104,7 +103,7 @@ With little fanfare, the doomed men are strapped to the five-foot timber stakes 
 <br><br>
 It was a century-old map of Singapore discovered in a London bookshop about 10 years ago that launched my quest. The topographical map showed intriguing features of a settlement in Singapore and its infrastructure, formed between now-levelled hills and drained swamps, with a port that was already the world’s seventh busiest in 1914. I was intrigued by a prominently marked German prisoners camp, setting me off on a journey to find the “lost treasure” of Singapore’s neglected history just before, during and after the First World War.
 <br><br>
-<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial8.JPG">Umej Bhatia’s <i>Our Name is Mutiny: The Global Revolt Against the Raj and the Hidden History of the Singapore Mutiny, 1907–1915</i> retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.5703 BHA-[HIS] and SING 959.5703 BHA](http://eservice.nlb.gov.sg/item_holding.aspx?bid=204007984)).
+<img style="width: 200px; height: 300px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial8.jpg">Umej Bhatia’s <i>Our Name is Mutiny: The Global Revolt Against the Raj and the Hidden History of the Singapore Mutiny, 1907–1915</i> retails at major bookshops and is also available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.5703 BHA-[HIS] and SING 959.5703 BHA](http://eservice.nlb.gov.sg/item_holding.aspx?bid=204007984)).
 <br><br>
 The result is my book, <i>Our Name is Mutiny: The Global Revolt against the Raj and the Hidden History of the Singapore Mutiny, 1907–1915</i>, which focuses on an event usually known as the Sepoy Mutiny of 1915. The sepoys were Indian soldiers who turned against their British officers and marauded through Singapore on the eve of their departure for Hong Kong. The account in my book differs from the conventional historical narrative in that I uncover and tease out the globetrotting ideas and the rolling-stone revolutionaries chased by imperial policemen who played their part in influencing, seducing and subverting the sepoys to mutiny. Crucially, the mutiny was not just a local affair but a revolt and insurgency with a global flavour, one of a number of planned uprisings under the banner of a wider Mutiny movement.
 <br><br>
@@ -117,7 +116,7 @@ The Singapore mutiny of 1915 provided the canvas to sketch out a broader story o
 With this book, I hope to show that the history of Singapore, and even its present and certainly its future, is driven by its location and its positionality as a global city. Our understanding of Singapore is enriched by interpreting events and episodes of its history by carefully tracing the contours of its global links and connections, with all the opportunities, challenges and threats that come with this globalism. And telling that story creatively while staying true to the facts with the demanding but rewarding long form of narrative non-fiction is all part of a universal story of what happens when the unstoppable force of revolt meets the immovable object of power.
 </div>
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial7.JPG" style="width: 100px; height: 100px;">
 <b>Umej Bhatia</b> is the author of <i>Our Name is Mutiny: The Global Revolt Against the Raj and the Hidden History of the Singapore Mutiny, 1907–1915</i> (2019). He is a career diplomat from Singapore and is currently based there. His first book is on Muslim memories of the Crusades.
 </div>

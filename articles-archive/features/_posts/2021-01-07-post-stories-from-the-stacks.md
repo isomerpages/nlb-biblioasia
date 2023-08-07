@@ -4,9 +4,7 @@ permalink: /vol-16/issue-4/jan-mar-2021/stacks/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Stories From the Stacks
 third_nav_title: Stories From the Stacks
-
 ---
-
 <style>
 table { 
 	background-color: #d6dae9;
@@ -22,7 +20,7 @@ table {
 #### A book of football rules in Jawi, a colonial-era compilation of Tamil names and the 19th-century version of a 600-year-old Chinese map showing Temasek are among the items showcased in *Stories from the Stacks*, the latest book published by the National Library, Singapore.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/stacks/StoriesFromTheStacks.jpg">
 </div>
 
@@ -36,8 +34,8 @@ The title, author, publisher and printer of the booklet are stated on the front 
 With the exception of the fold-out plan and a glossary of terms where the corresponding English explanations such as “off-side” and “free kick” appear next to the Jawi phrases, everything else in *Risalat Peraturan Bola Sepak* is written in Jawi.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/stacks/BottomCoverPage.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Stacks/BottomCoverPage.jpg">
 At the bottom of the cover page of <i>Risalat Peraturan Bola Sepak</i> is a line indicating that the booklet is registered under Chapter Five of the Book Register Ordinance 1886. <i>Collection of the National Library, Singapore</i>.
 </div>
 
@@ -50,8 +48,8 @@ To make the text clearer, he used basic English terms that Malay players were al
 Another key person involved in the publication was Haji Muhammad Siraj bin Haji Salih. He was an accomplished copyist-editor, a prolific printer and the biggest bookseller of Muslim publications in Singapore in the late 19th century. As the Honorary Secretary of Dar al-Adab, Haji Muhammad Siraj was instrumental in engaging the services of the American Mission Press to print Mahmud’s work.[^2] Copies of the booklet were sold at Haji Muhammad Siraj’s shop at 43 Sultan Road.[^3] When he passed away in 1909, *The Straits Times* described him as “one of the best known of the Malays of Singapore”.[^4]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/stacks/Booklet.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Stacks/Booklet.jpg">
 The booklet includes a fold-out plan with positions of players labelled in Jawi on the diagram of a football field. <i>Collection of the National Library, Singapore</i>.
 </div>
 
@@ -64,8 +62,8 @@ Interestingly, the British regarded football as a tool to “civilise” the “
 It is debatable whether football had any civilising effect on the “men of different races” in Singapore. What is more certain is that *Risalat Peraturan Bola Sepak* was helpful in teaching Malay youths the basic rules of the game.[^9] More than a century after its publication, the sport remains hugely popular, not just among Malays in Singapore, but for all communities.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/stacks/Football.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Stacks/Football.jpg">
 Football (or soccer) in the form played today can be traced to mid-19th-century England, although the actual history of the game goes back more than 2,000 years. <i>Image reproduced from Shearman, M. (1887). Athletics and Football (p. 345). London: Longmans, Green, and Co. Retrieved from Wikimedia Commons</i>.
 </div>
 
@@ -80,12 +78,12 @@ One such document used by colonial officials to transcribe Tamil names[^10] is t
 The Indian subcontinent is home to numerous ethno-linguistic groups. Of these, South Indians formed the largest segment of the Indian immigrant population in British Malaya, particularly from the late 19th century onwards. The Tamils, most of whom were employed as labourers in plantations, the harbour, and transportation and municipal sectors, constituted the majority of these migrants,[^11] with smaller groups of Malayalees and Telugus.[^12] This explains why the British saw the need to commission a book of specifically Tamil names.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/stacks/Glimpse.jpg">
 A glimpse of the personal and caste names used by the Tamil community in British Malaya. The list was collated by colonial officer Alfred Vanhouse Brown and A. Swaminatha Pillai, an intrepreter of Tamil and Hindi languages from Perak. Interestingly, some caste names in the booklet, such as “Nayidu” and “Reddi”, are typically associated with the Telugu community, rather than Tamils. <i>Collection of the National Library, Singapore</i>.
 </div>
 
-Alfred Vanhouse Brown, an officer with the Federated Malay States Civil Service who was based in Kuala Lumpur, compiled the list with the assistance of A. Swaminatha Pillai, an interpreter of Indian languages from Batu Gajah, Perak.[^13]
+Alfred Vanhouse Brown, an officer with the Federated Malay States Civil Service who was based in Kuala Lumpur, compiled the list with the assistance of A.&nbsp;Swaminatha Pillai, an interpreter of Indian languages from Batu Gajah, Perak.[^13]
 
 Brown was educated at the Merchant Taylor’s School in London and Queen’s College in Oxford, graduating with a Bachelor of Arts degree in 1896. That year, he was appointed to serve in the Eastern Cadetships, specifically the civil service in the Federated Malay States. He undertook several positions there until 1906, when he was appointed Superintendent of Posts and Telegraphs in Selangor, Negri Sembilan and Pahang. In the same year, Brown also served as the Acting District Officer and Indian Immigration Agent in Perak.[^14]
 
@@ -96,7 +94,7 @@ Page 1 (unnumbered) to page 45 of the book contain the romanised spellings of co
 On the last page of the book is a list of 19 caste names, most of which belong to those from the upper castes, including widely recognised names such as “Chetti” and “Pillai”.[^16] The former, for instance, refers to the Chettiar community, a Tamil trading caste of businessmen and moneylenders. The Chettiars who migrated to British Malaya consisted mainly of the Nattukottai Chettiars, a subgroup involved principally in moneylending,[^17] and who later became a key fixture of the business landscape in British Malaya.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/stacks/Chettiar.jpg">
 A Chettiar moneylender, c. 1890. Originally from South India, the Chettiars started coming to Singapore during the 19th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
@@ -115,13 +113,13 @@ The Mao Kun Map (茅坤图) is the collective name for a set of navigational map
 
 Also known as Zheng He’s Navigation Map (郑和航海图) or the Wu Bei Zhi Chart, the map is believed to have been drawn between 1425 and 1430, although scholars have offered differing views of its exact date of origin.[^19] The term Mao Kun Map, as coined by the Dutch sinologist Jan Julius Lodewijk Duyvendak (1889–1954), is the most commonly used name today for this set of Chinese navigational maps.
 
-The Mao Kun Map was first published in the late-Ming publication *Wu Bei Zhi* (武备志).[^20] It was compiled in 1621 by Mao Yuanyi (茅元仪; 1594–1640), who served as a strategist in the Ming court, and published in 1628. Mao’s grandfather, Mao Kun (茅坤; 1512–1601), owned a large and distinguished personal library, and it is believed that this map was part of his collection. Given that three generations of the Mao family had served in the Ming dynasty’s imperial service – either in a military or naval capacity – it is not surprising that the map ended up in their possession.
+The Mao Kun Map was first published in the late-Ming publication *Wu&nbsp;Bei&nbsp;Zhi* (武备志).[^20] It was compiled in 1621 by Mao Yuanyi (茅元仪; 1594–1640), who served as a strategist in the Ming court, and published in 1628. Mao’s grandfather, Mao Kun (茅坤; 1512–1601), owned a large and distinguished personal library, and it is believed that this map was part of his collection. Given that three generations of the Mao family had served in the Ming dynasty’s imperial service – either in a military or naval capacity – it is not surprising that the map ended up in their possession.
 
-Originally drawn as a scroll measuring 20.5 cm by 560 cm (in the manner of traditional Chinese paintings), which no longer exists today, the Mao Kun Map was recast into 40 pages – essentially an atlas format – for publication in the 240-chapter *Wu Bei Zhi*. The map is featured in the final chapter of the *Wu Bei Zhi*, in the “Geographical Surveys” section, which covers astronomical observations and geographical surveys for military operations. After more than 250 years of obscurity, the Mao Kun Map was made known to the rest of the world around 1885–86 in a journal article by George Phillips (1836–96).[^21]
+Originally drawn as a scroll measuring 20.5 cm by 560 cm (in the manner of traditional Chinese paintings), which no longer exists today, the Mao Kun Map was recast into 40 pages – essentially an atlas format – for publication in the 240-chapter *Wu&nbsp;Bei&nbsp;Zhi*. The map is featured in the final chapter of the *Wu Bei Zhi*, in the “Geographical Surveys” section, which covers astronomical observations and geographical surveys for military operations. After more than 250 years of obscurity, the Mao Kun Map was made known to the rest of the world around 1885–86 in a journal article by George Phillips (1836–96).[^21]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/stacks/MaoKunMap.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Stacks/MaoKunMap.jpg">
 The Mao Kun Map is believed to be based on the naval expeditions of the early 15th-century Ming admiral, Zheng He, who made several voyages from China to Southeast Asia and across the Indian Ocean. The pages shown here depict the return route between Melaka and China through the Strait of Singapore. The name Temasek (淡马锡), is marked on a hill on the right page. Pedra Branca (白礁) appears on the same page, whereas Melaka (满剌加) is labelled at the top left of the left page. <i>Collection of the National Library, Singapore</i>.
 </div>
 
@@ -142,16 +140,16 @@ In order to achieve this feat, the people living along the coasts of the Indian 
 Of interest is the fact that the name Temasek (淡马锡) appears at the top centre of page 27, while Melaka (满剌加) appears at the top left of page 28. Other familiar places on page 27 as identified by scholar J.V.G. Mills include Pulau Sakijang Pelepah[^22] (琵琶屿), Pulau Tembakul[^23] (官屿/龟屿岛), Pulau Satumu[^24] (长腰屿) and Pedra Branca[^25] (白礁).
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/stacks/OverlayMaoKun.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Stacks/OverlayMaoKun.jpg">
 Overlay of six pages from the Mao Kun Map over a contemporary map of the Malay Peninsula. <i>Image overlay provided by Mok Ly Yng</i>.
 </div>
 
 The sailing directions radiating from Melaka depict the homeward journey from Melaka to China across the South China Sea. The route passes through Karimun (吉利门) and to the South China Sea via Longyamen (龙牙门), or Dragon’s Teeth Gate, which was a significant navigational landmark in those days. Longyamen as indicated on the map refers to the main Strait of Singapore.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/stacks/DragonTeeth.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Stacks/DragonTeeth.jpg">
 A depiction of Longyamen (Dragon’s Teeth Gate) by an unknown artist, c. 1848.
 </div>
 
@@ -160,25 +158,25 @@ The Mao Kun Map is of great significance to Singapore as it is the only known ca
 What is certain from the Mao Kun Map is that the Singapore Strait was used as a sailing route between the Indian Ocean and China in the 15th century, testifying to the importance of Singapore’s location in the regional trade network during this period.
 
 <div class="infobox"> 
-<img src="/images/Vol-16-issue-4/stacks/StoriesfromtheStacks.png" style="width: 350px; height: 200px;"/>
+<img src="/images/Vol-16-issue-4/Stacks/StoriesfromtheStacks.png" style="width: 350px; height: 200px;">
 These extracts are reproduced from <i>Stories from the Stacks: Selections from the Rare Materials Collection, National Library Singapore</i>. This recently published book features a small selection of some 19,000 items that form the library’s Rare Materials Collection. Spanning five centuries, with a special focus on Singapore and Southeast Asia, the collection comprises books, manuscripts, maps, photographs, letters, documents and other paper-based artefacts that offer invaluable insights into the history of Singapore and the region. Published by the National Library Board, Singapore, and Marshall Cavendish Editions, the book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205258180">Call nos.: RSING 016.95957 SIN-[LIB] and SING 016.95957 SIN</a>) as well as for digital loan at nlb.overdrive.com. It is also available for sale at major bookshops in Singapore.
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/Mazelan_Anuar.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-4/authors/Mazelan_Anuar.png" style="width: 100px; height: 100px;">
 <b>Mazelan Anuar</b> is a Senior Librarian with the National Library, Singapore, whose research interests are in early Malay publishing and digital librarianship.
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/Liviniyah.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-4/authors/Liviniyah.png" style="width: 100px; height: 100px;">
 <b>Liviniyah P.</b> is a former Associate Librarian with the National Library, Singapore, working with the Singapore and Southeast Asia collections.
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/MokLyYng.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-4/authors/MokLyYng.png" style="width: 100px; height: 100px;">
 <b>Mok Ly Yng</b> is a map research consultant with more than 20 years of experience. He has provided mapping consultancy to several map exhibitions, books and heritage projects.
 </div>
 
@@ -198,11 +196,11 @@ These extracts are reproduced from <i>Stories from the Stacks: Selections from t
 
 [^6]: [The Darul Adab Cup](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19001008-1.2.67). (1900, October 8). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^7]: Cho, Y., & Little, C. (Eds.). (2015). *[Football in Asia: History, culture and business](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201179720)* (p. 19). Abingdon, Oxon: Routledge. (Call no.: RSEA 796.334095 FOO)
+[^7]: Cho, Y., &amp; Little, C. (Eds.). (2015). *[Football in Asia: History, culture and business](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201179720)* (p. 19). Abingdon, Oxon: Routledge. (Call no.: RSEA 796.334095 FOO)
 
 [^8]: [Selangor in 1894](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18950715-1.2.21). (1895, July 15). *The Singapore Free Press*, p. 3. Retrieved from NewspaperSG.
 
-[^9]: [Cho & Little](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201179720), 2015, p. 19.
+[^9]: [Cho &amp; Little](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201179720), 2015, p. 19.
 
 [^10]: Sandhu, K.S. (2010). *[Indians in Malaya: Immigration and settlement (1786–1957)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684574)* (p. 15). Cambridge: Cambridge University Press. (Call no.: RSEA 325.25409595 SAN)
 
@@ -212,7 +210,7 @@ These extracts are reproduced from <i>Stories from the Stacks: Selections from t
 
 [^13]: Brown, A.V. (1904). *[List of Tamil proper names](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12522757)* (title page). Kuala Lumpur: Government Printing Office. (Call no.: RRARE 929.4 BRO; Accession no.: B16331012F)
 
-[^14]: The Civil Services of Ceylon, the Straits Settlements and Hong Kong were collectively referred to as the Eastern Cadetships. See Mills, L.A. (2012). *Ceylon under British rule 1795–1932* (p. 90). Routledge. (Not available in NLB holdings). For details about Alfred Vanhouse Brown, see *The Directory & Chronicle of China, Japan, Straits Settlements, Malaya, Borneo, Siam, the Philippines, Korea, Indo-China, Netherlands Indies, etc*. (1906). (p. 1192). Cambridge: Harvard University. (Not available in NLB holdings); Wright, A., & Cartwright, H.A. (1908). *[Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591)* (p. 328). London: Lloyd’s Greater Britain Publishing Company, Limited. (Call no.: RCLOS 959.5103 TWE)
+[^14]: The Civil Services of Ceylon, the Straits Settlements and Hong Kong were collectively referred to as the Eastern Cadetships. See Mills, L.A. (2012). *Ceylon under British rule 1795–1932* (p. 90). Routledge. (Not available in NLB holdings). For details about Alfred Vanhouse Brown, see *The Directory &amp; Chronicle of China, Japan, Straits Settlements, Malaya, Borneo, Siam, the Philippines, Korea, Indo-China, Netherlands Indies, etc*. (1906). (p. 1192). Cambridge: Harvard University. (Not available in NLB holdings); Wright, A., &amp; Cartwright, H.A. (1908). *[Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591)* (p. 328). London: Lloyd’s Greater Britain Publishing Company, Limited. (Call no.: RCLOS 959.5103 TWE)
 
 [^15]: [Brown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12522757), 1904, “Note”.
 
@@ -222,7 +220,7 @@ These extracts are reproduced from <i>Stories from the Stacks: Selections from t
 
 [^18]: Vijaya, M., et al. (2007). A study on Telugu-speaking immigrants of Tamil Nadu, South India. *International Journal of Human Genetics, 7* (4), 303–306. Retrieved from Pennsylvania State University’s CiteSeerX website.
 
-[^19]: 徐玉虎. (2005). 郑和下西洋航海图考. In《[郑和下西洋研究文选 (1905–2005)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12730596)》(p. 530). Beijing: China Ocean Press. (Call no.: Chinese R q951.06092 ZHX); 巩珍 & 向达. (2000).《[西洋番国志](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322041)》. Beijing: Zhonghua Shu Ju. (Call no.: Chinese RSEA 959 GZ); 马欢 & 万明. (2005).《明钞本瀛涯胜览校注》. Beijing: China Ocean Press (Not available in NLB holdings); Ma, H. (1997). *[Ying Yai Sheng Lan: ‘The overall survey of the ocean’s shores’ [1433]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10312770)*. (Translated from the Chinese text edited by Feng Chʻeng-Chün with introduction, notes and appendices by J.V.G. Mills). Bangkok, Thailand: White Lotus Press. (Call no.: R 915.04 MA)
+[^19]: 徐玉虎. (2005). 郑和下西洋航海图考. In《[郑和下西洋研究文选 (1905–2005)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12730596)》(p. 530). Beijing: China Ocean Press. (Call no.: Chinese R q951.06092 ZHX); 巩珍 &amp; 向达. (2000).《[西洋番国志](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322041)》. Beijing: Zhonghua Shu Ju. (Call no.: Chinese RSEA 959 GZ); 马欢 &amp; 万明. (2005).《明钞本瀛涯胜览校注》. Beijing: China Ocean Press (Not available in NLB holdings); Ma, H. (1997). *[Ying Yai Sheng Lan: ‘The overall survey of the ocean’s shores’ [1433]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10312770)*. (Translated from the Chinese text edited by Feng Chʻeng-Chün with introduction, notes and appendices by J.V.G. Mills). Bangkok, Thailand: White Lotus Press. (Call no.: R 915.04 MA)
 
 [^20]: Translated by J.V.G. Mills as Records of Military Preparations.
 

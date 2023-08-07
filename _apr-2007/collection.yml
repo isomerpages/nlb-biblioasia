@@ -1,0 +1,7 @@
+collections:
+  apr-2007:
+    output: true
+    order:
+      - "Money Lending: A Short History.md"
+      - Educating Malayan Gentlemen.md
+      - Director's Column.md

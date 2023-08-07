@@ -7,7 +7,7 @@ third_nav_title: The Extraordinary Life of Kunnuck Mistree
 ---
 #### Indian convicts contributed much to the early infrastructural development of Singapore but their voices have rarely been heard. **Vandana Aggarwal** uncovers the story of one convict who made good.
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/iiaiyKOK-Yw" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/iiaiyKOK-Yw" frameborder="0" allowfullscreen=""></iframe></div>
 
 
 It is no exaggeration to say that Singapore was built on the backs of Indian convicts. These men –  and they were mainly but not exclusively men –  laid roads, cleared forests and were involved in the construction of buildings like Sri Mariamman Temple, St Andrew’s Church (now Cathedral), Horsburgh Lighthouse and Government House (today’s Istana). In addition to manual labour, some also worked as hospital attendants, gardeners and domestic servants.
@@ -18,7 +18,7 @@ Kunnuck Mistree was 38 years old when he arrived in Singapore in 1825. Once here
 
 #### **From Calcutta to Bencoolen**
 
-<img src="/images/Vol-16-issue-4/kunnuck/TheExtraordinaryLifeOfKunnuck.jpg">
+<img src="/images/Vol-16-issue-4/Kunnuck/TheExtraordinaryLifeOfKunnuck.jpg">
 A general monthly muster of convicts at the Bras Basah convict jail, Singapore, 1860–99. <i>The National Archives of the UK, ref. CO 1069/484 (29)</i>.
 
 Nothing is known of Mistree’s early life and neither do we have an image of him. What we know of him dates back to 1818 when he was convicted of larceny – a category which includes housebreaking, burglary and dacoity (gang robbery)  –  in Calcutta (now Kolkata) and was shipped to Bencoolen in Sumatra:
@@ -52,9 +52,9 @@ Just before leaving for Singapore, Mistree was given a character certificate tha
 On arrival, Mistree and the other convicts were housed in temporary *attap* huts in the Temenggong’s village (later called Kampong Bencoolen), located at the mouth of the Singapore River. Not all convicts were automatically given jobs similar to what they did in Bencoolen or enjoyed the same freedom. They were also not placed in the same convict class as before.[^17]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kunnuck/convicthuts.jpg">
-Convicts arriving in Singapore were first placed in an open shed before being housed in these temporary huts near the Bras Basah Canal. A permanent prison, the Bras Basah convict jail, was completed only in 1860. <i>Image reproduced from McNair, J.F.A., & Bayliss, W.D. (1899). Prisoners Their Own Warders: A Record of the Convict prison at Singapore Established 1825, Discontinued 1873, Together with a Cursory History of the Convict Establishments at Bencoolen, Penang and Malacca from the Year 1797. Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)</i>.
+<br>
+<img src="/images/Vol-16-issue-4/kunnuck/Convicthuts.jpg">
+Convicts arriving in Singapore were first placed in an open shed before being housed in these temporary huts near the Bras Basah Canal. A permanent prison, the Bras Basah convict jail, was completed only in 1860. <i>Image reproduced from McNair, J.F.A., &amp; Bayliss, W.D. (1899). Prisoners Their Own Warders: A Record of the Convict prison at Singapore Established 1825, Discontinued 1873, Together with a Cursory History of the Convict Establishments at Bencoolen, Penang and Malacca from the Year 1797. Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)</i>.
 </div>
 
 Mistree was assigned the job of a dresser at the Pauper Hospital, possibly due to his prior experience and the connections he had built up in Bencoolen.[^18] He was likely categorised as a second-class convict, one level down from his convict status in Bencoolen. This may account for the many letters of recommendation he received between 1827 and 1828, when he was nearing the completion of three years of service in Singapore.
@@ -78,18 +78,18 @@ In 1845, under the newly formulated guidelines for the management of convicts, M
 Convict lines were residential quarters specially constructed for convicts. Ironically, convict labour was more often than not used to build them. The convicts in Singapore lived in open prisons in dedicated areas although they could also live in temporary buildings near their place of work. Mistree might have been allotted quarters near the hospital where he worked or, allowed to live as he pleased. All that was expected of him was to stay on the right side of the law and attend muster when required.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/kunnuck/Map.jpg">
-A plan of the Bras Bash convict jail. The jail was built entirely by convict labour and was completed in 1860. The convicts soon realised that “an open campong, or village, had become a closed cage”. <i>Image reproduced from McNair, J.F.A., & Bayliss, W.D. (1899). Prisoners Their Own Warders: A Record of the Convict Prison at Singapore Established 1825, Discontinued 1873, Together with a Cursory History of the Convict Establishments at Bencoolen, Penang and Malacca from the Year 1797. Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)</i>.
+A plan of the Bras Bash convict jail. The jail was built entirely by convict labour and was completed in 1860. The convicts soon realised that “an open campong, or village, had become a closed cage”. <i>Image reproduced from McNair, J.F.A., &amp; Bayliss, W.D. (1899). Prisoners Their Own Warders: A Record of the Convict Prison at Singapore Established 1825, Discontinued 1873, Together with a Cursory History of the Convict Establishments at Bencoolen, Penang and Malacca from the Year 1797. Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)</i>.
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kunnuck/Prisoners.jpg">
-Prisoners in the Bras Bash convict jail, c. 1900. The jail was built by convict labour and was completed in 1860. <i>Photo by G.R. Lambert & Co. Illustrated London News Collection, courtesy of National Archives of Singapore</i>.
+<br>
+<img src="/images/Vol-16-issue-4/Kunnuck/Prisoners.jpg">
+Prisoners in the Bras Bash convict jail, c. 1900. The jail was built by convict labour and was completed in 1860. <i>Photo by G.R. Lambert &amp; Co. Illustrated London News Collection, courtesy of National Archives of Singapore</i>.
 </div>
 
-A letter by Senior Surgeon Thomas Oxley on 14 September 1846 certified that “Connak Mistery having a Ticket of leave to provide for himself & being desirous of quitting his situation of Dresser in the Paupers Hospital… leave it now at his own request”.[^29] A formal certificate bearing the official seal of Resident Councillor Thomas Church validates this information.[^30]
+A letter by Senior Surgeon Thomas Oxley on 14 September 1846 certified that “Connak Mistery having a Ticket of leave to provide for himself &amp; being desirous of quitting his situation of Dresser in the Paupers Hospital… leave it now at his own request”.[^29] A formal certificate bearing the official seal of Resident Councillor Thomas Church validates this information.[^30]
 
 According to John Frederick Adolphus McNair, Executive Engineer and Superintendent of Convicts, convicts who were released from imprisonment with a ticket of leave were “absorbed innoxiously into the native community, and again contributed to the advantage of the place in the various occupations they had recourse to, in order to obtain an honest livelihood”. He added that the convicts “very rarely a second time came under the cognisance of the police, but peaceably merged into the population, and earned their livelihood by honest means”.[^31]
 
@@ -108,8 +108,8 @@ It wasn’t until two years later that a petition was submitted by Mistree’s s
 The petition is the most detailed source of the key highlights of Mistree’s life since being sent to Bencoolen. It laid down several reasons why Mistree should be pardoned, mentioning his age (70 years) and the fact that he had already served banishment for 38 years.[^37]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kunnuck/Petition.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Kunnuck/Petition.jpg">
 A petition in 1857 from Kunnuck Mistree’s solicitor to the Lieutenant-Governor of Bengal, laying down his case for a free pardon. The document is the most detailed source of the key highlights of Mistree’s life since being sent to Bencoolen. Attached to the petition were copies of certificates vouching for his conduct, character references as well as his employment history. Mistree was granted a full pardon in January 1858. <i>Collection of the National Archives of Singapore. (Media no.: SSR/S026_00750)</i>.
 </div>
 
@@ -126,8 +126,8 @@ Around 1858, Mistree is known to have donated a piece of land for “religious p
 Subsequently, Mistree made a donation of 1,100 rupees towards a bathing area, earning for himself a mention in the *Straits Government Gazette* of 4 March 1859. It lists “Kunuck Mistry” alongside other generous donors such as Tan Kim Seng[^43] “to whom the Government of the Straits Settlements is indebted for liberal contributions towards works for public utility or charity, during the Years 1857 and 1858”.[^44] The fact that Mistree appears on the same list as the likes of prominent businessman and philanthropist Tan Kim Seng speaks volumes.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kunnuck/Donation.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/Kunnuck/Donation.jpg">
 Kunnuck Mistree’s donation of Rs 1,100 towards a bathing area was announced in the Straits Government Gazette of 4 March 1859. It mentions “Kunuck Mistry” alongside other donors such as Tan Kim Seng. <i>Image reproduced from Straits Settlements. (1859, March 4). Straits Settlements Government Gazette, 2 (9). Singapore: Mission Press. Collection of the National Library, Singapore. (Accession no.: B02969339H)</i>.
 </div>
 
@@ -140,7 +140,7 @@ On 27 July 1865, a death notice published in *The Singapore Free Press and Merca
 “Kanakay Maistry, a liberated Bengallee convict of considerable wealth, died on the 24th inst. at Campong Bencoolen; his estate which is worth about 50,000 dollars has been divided among his sons.”[^47] 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/kunnuck/deathad.jpg">
 Kunnuck Mistree’s death on 24 July 1865 was published in the press. <i>The Singapore Free Press and Mercantile Advertiser, 27 July 1865, p. 2. Retrieved from NewspaperSG</i>.
 </div>
@@ -150,8 +150,8 @@ The amount of his estate was considered substantial at the time, and is even mor
 As part of their punishment, all life convicts had their name, crime and date of sentence tattooed on their foreheads in the vernacular before being transported from India. To hide this, former convicts would wear a headgear that was pulled down to cover their foreheads.[^48] Although Mistree would have borne this permanent mark, he did not let his convict past define him. Instead, he rose above his challenging circumstances and became a man of substance. It is possible that Mistree’s descendants still live in Singapore today, unaware of his remarkable and inspiring story.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/kunnuck/IndianConvict.png">
+<br>
+<img src="/images/Vol-16-issue-4/Kunnuck/IndianConvict.png">
 Indian convicts were tattooed on the forehead with the crime they had committed. Shown here is a convict branded on the forehead with “Doomga”, which means “murder” in Hindustani. <i>Image reproduced from Marryat, F. (1848). Borneo and the Indian Archipelago: With drawings of Costume and Scenery (p. 215). London: Longman, Brown, Green and Longmans. Collection of the National Library, Singapore. (Accession no.: B03013523F)</i>.
 </div>
 
@@ -160,8 +160,8 @@ I first came across Kunnuck Mistree’s name in 2015 while transcribing the Stra
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/VandanaAggarwal.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol-16-issue-4/authors/VandanaAggarwal.png" style="width: 100px; height: 100px;">
 <b>Vandana Aggarwal</b> is a teacher and a freelance journalist. An active citizen archivist for the National Archives of Singapore, she is the author of <i>Voice of Indian Women: The Kamala Club Singapore</i> (2018). She enjoys reading and researching about history.
 </div>
 
@@ -169,87 +169,87 @@ I first came across Kunnuck Mistree’s name in 2015 while transcribing the Stra
 
 #### **NOTES**
 
-[^1]: McNair, J.F.A., & Bayliss, W.D. (1899). *[Prisoners their own warders: A record of the convict prison at Singapore established 1825, discontinued 1873, together with a cursory history of the convict establishments at Bencoolen, Penang and Malacca from the Year 1797](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815)* (pp. 38–39). Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)
+[^1]: McNair, J.F.A., &amp; Bayliss, W.D. (1899). *[Prisoners their own warders: A record of the convict prison at Singapore established 1825, discontinued 1873, together with a cursory history of the convict establishments at Bencoolen, Penang and Malacca from the Year 1797](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815)* (pp. 38–39). Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)
 
-[^2]: Kunnuck Mistree was most likely illiterate and left it to the writer to spell his name as he wished. National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6403&collectionId=44)* [Media no.: SSR/S026_00650]; Konnuckram Mittre. National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6410&collectionId=44)* [Media no.: SSR/S026_00720]; Kanak Mittery. National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6430&collectionId=44)* [Media no.: SSR/S026_00920]. Retrieved from National Archives of Singapore website.
+[^2]: Kunnuck Mistree was most likely illiterate and left it to the writer to spell his name as he wished. National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6403&amp;collectionId=44)* [Media no.: SSR/S026_00650]; Konnuckram Mittre. National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6410&amp;collectionId=44)* [Media no.: SSR/S026_00720]; Kanak Mittery. National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6430&amp;collectionId=44)* [Media no.: SSR/S026_00920]. Retrieved from National Archives of Singapore website.
 
-[^3]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6413&collectionId=44)* [Media no.: SSR/S026_00750]. Retrieved from National Archives of Singapore website. 
+[^3]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6413&amp;collectionId=44)* [Media no.: SSR/S026_00750]. Retrieved from National Archives of Singapore website. 
 
-[^4]: [National Archives of Singapore The Citizen Archivist Project](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6413&collectionId=44), 1858, SSR/S026_00750; National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6413#collection)* [Media no.: SSR/S026_00750]. Retrieved from National Archives of Singapore website.
+[^4]: [National Archives of Singapore The Citizen Archivist Project](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6413&amp;collectionId=44), 1858, SSR/S026_00750; National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&amp;itemId=6413#collection)* [Media no.: SSR/S026_00750]. Retrieved from National Archives of Singapore website.
 
-[^5]: Kunnuck Mistree’s application for a free pardon submitted in 1857 puts his age at 70 years. National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6416)* [Media no.: SSR/S026_00780]. Retrieved from National Archives of Singapore website.
+[^5]: Kunnuck Mistree’s application for a free pardon submitted in 1857 puts his age at 70 years. National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&amp;itemId=6416)* [Media no.: SSR/S026_00780]. Retrieved from National Archives of Singapore website.
 
 [^6]: Raffles, S. (1830). *[Memoir of the life and public services of Sir Thomas Stamford Raffles: Particularly in the government of Java 1811–1816, and of Bencoolen and its dependencies, 1817–1824: With details of the commerce and resource of the Eastern Archipelago, and selections from his correspondence](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx)* (p. 298). London, J. Murray. Retrieved from BookSG.
 
-[^7]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 6.
+[^7]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 6.
 
 [^8]: For the definitions of the convict classes, see Tan, B. (2015, October–December). [Convict labour in colonial Singapore](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/convict). *BiblioAsia, 11* (3), 36–41, p. 40. Retrieved from BiblioAsia website. 
 
-[^9]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6425#collection)* [Media no.: SSR/S026_00870]. Retrieved from National Archives of Singapore website; [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, p. 299.
+[^9]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&amp;itemId=6425#collection)* [Media no.: SSR/S026_00870]. Retrieved from National Archives of Singapore website; [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, p. 299.
 
-[^10]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 1–2, 8.
+[^10]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 1–2, 8.
 
-[^11]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 9.
+[^11]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 9.
 
 [^12]: Anderson, C. (2018). The British Indian Empire, 1789–1939 (p. 213).  In C. Anderson (Eds.), *A global history of convicts and penal colonies*. London: Bloomsbury Academic. (Not available in NLB holdings)
 
 [^13]: Raffles Museum and Library. (1824, November–1825, February). *[Singapore: Letters from Bengal to the Resident](https://www.nas.gov.sg/archivesonline/private_records/record-details/6d29b654-a817-11e3-927b-0050568939ad)* [SSR/NL060/M3]. Retrieved from National Archives of Singapore website.
 
-[^14]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6415)* [Media no.: SSR/S026_00770]. Retrieved from National Archives of Singapore website. [Note: In his petition, Kunnuck Mistree explains that most of the convicts undergoing sentence at Fort Marlborough “received a Pardon on the condition of their not returning again to the continent of India being free however to reside and live in any part of the Islands of the Eastern Archipelago”. Since Mistree was a life convict, he did not have the option to return to India but could have lived on in Bencoolen as a free citizen.]
+[^14]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&amp;itemId=6415)* [Media no.: SSR/S026_00770]. Retrieved from National Archives of Singapore website. [Note: In his petition, Kunnuck Mistree explains that most of the convicts undergoing sentence at Fort Marlborough “received a Pardon on the condition of their not returning again to the continent of India being free however to reside and live in any part of the Islands of the Eastern Archipelago”. Since Mistree was a life convict, he did not have the option to return to India but could have lived on in Bencoolen as a free citizen.]
 
-[^15]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6426)* [Media no.: SSR/S026_00880]. Retrieved from National Archives of Singapore website.
+[^15]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&amp;itemId=6426)* [Media no.: SSR/S026_00880]. Retrieved from National Archives of Singapore website.
 
-[^16]: National Archives of Singapore The Citizen Archivist Project. (1855). *[M4: Singapore: Letters from Bengal to the Resident](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=46281&collectionId=174)* [Media no.: SSR/M004_0233]. Retrieved from National Archives of Singapore website.
+[^16]: National Archives of Singapore The Citizen Archivist Project. (1855). *[M4: Singapore: Letters from Bengal to the Resident](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=46281&amp;collectionId=174)* [Media no.: SSR/M004_0233]. Retrieved from National Archives of Singapore website.
 
-[^17]: Tyers, R. K. (1993). *[Ray Tyers’ Singapore: Then and now](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235)* (p. 24). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE-[HIS]); Edwards, N., & Keys, P. (1988). *[Singapore: A guide to buildings, streets, places](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 283). Singapore: Times Books International. (Call no.: RSING 915.957 EDW-[TRA]); Cornelius-Takahama, V. (2016). *[Bencoolen Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_174_2005-01-25.html)*. Retrieved from Singapore Infopedia, National Library Singapore; [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, p. 299.
+[^17]: Tyers, R. K. (1993). *[Ray Tyers’ Singapore: Then and now](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235)* (p. 24). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE-[HIS]); Edwards, N., &amp; Keys, P. (1988). *[Singapore: A guide to buildings, streets, places](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 283). Singapore: Times Books International. (Call no.: RSING 915.957 EDW-[TRA]); Cornelius-Takahama, V. (2016). *[Bencoolen Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_174_2005-01-25.html)*. Retrieved from Singapore Infopedia, National Library Singapore; [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, p. 299.
 
-[^18]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6427&collectionId=44)* [Media no.: SSR/S026_00890]. Retrieved from National Archives of Singapore website.
+[^18]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6427&amp;collectionId=44)* [Media no.: SSR/S026_00890]. Retrieved from National Archives of Singapore website.
 
-[^19]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6420#collection)* [Media no.: SSR/S026_00820]. Retrieved from National Archives of Singapore website. 
+[^19]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&amp;itemId=6420#collection)* [Media no.: SSR/S026_00820]. Retrieved from National Archives of Singapore website. 
 
-[^20]: [National Archives of Singapore The Citizen Archivist Project](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6427&collectionId=44), 1858, SSR/S026_00890.
+[^20]: [National Archives of Singapore The Citizen Archivist Project](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6427&amp;collectionId=44), 1858, SSR/S026_00890.
 
-[^21]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6428#collection)* [SSR/S026_00900]. Retrieved from National Archives of Singapore website.
+[^21]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&amp;itemId=6428#collection)* [SSR/S026_00900]. Retrieved from National Archives of Singapore website.
 
-[^22]: National Archives of Singapore The Citizen Archivist Project. (1828). *[Q2: Singapore Miscellaneous](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=22061&collectionId=102)* [SSR/Q002_00750]. Retrieved from National Archives of Singapore website.
+[^22]: National Archives of Singapore The Citizen Archivist Project. (1828). *[Q2: Singapore Miscellaneous](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=22061&amp;collectionId=102)* [SSR/Q002_00750]. Retrieved from National Archives of Singapore website.
 
 [^23]: Information courtesy of Mr Charles Goh who found this land deed and shared it with me.
 
-[^24]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 41.
+[^24]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 41.
 
 [^25]: Yang, A.A. (2003, June). Indian convict workers in Southeast Asia in the late eighteenth and early nineteenth centuries. *Journal of World History, 14* (2), 179–208, p.18. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
-[^26]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 41–42.
+[^26]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 41–42.
 
-[^27]: Makepeace, W., Brooke, G.E., & Braddell, R.St.J. (Eds.). (1921). *[One hundred years of Singapore: Being some account of the capital of the Straits Settlements from its foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132)* (Vol. II, p. 488). London: John Murray. (Call no.: RCLOS 959.51 MAK)
+[^27]: Makepeace, W., Brooke, G.E., &amp; Braddell, R.St.J. (Eds.). (1921). *[One hundred years of Singapore: Being some account of the capital of the Straits Settlements from its foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132)* (Vol. II, p. 488). London: John Murray. (Call no.: RCLOS 959.51 MAK)
 
 [^28]: [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18470722-1.2.10). (1847, July 22). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 
-[^29]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6429&collectionId=44)* [SSR/S026_00910]. Retrieved from National Archives of Singapore website.
+[^29]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6429&amp;collectionId=44)* [SSR/S026_00910]. Retrieved from National Archives of Singapore website.
 
-[^30]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6418&collectionId=44)* [SSR/S026_00800]. Retrieved from National Archives of Singapore website.
+[^30]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6418&amp;collectionId=44)* [SSR/S026_00800]. Retrieved from National Archives of Singapore website.
 
-[^31]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. viii, 161–162.
+[^31]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. viii, 161–162.
 
-[^32]: [National Archives of Singapore The Citizen Archivist Project](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6416#collection), 1858, SSR/S026_00780.
+[^32]: [National Archives of Singapore The Citizen Archivist Project](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&amp;itemId=6416#collection), 1858, SSR/S026_00780.
 
 [^33]: [Page 1 advertisements column 2](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18460305-1.2.2.2). (1846, March 5). *The Singapore Free Press*, p. 1; *[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18650727-1.2.3)*. (1865, July 27). *The Singapore Free Press*, p. 2. Retrieved from NewspaperSG.
 
-[^34]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6410&collectionId=44)* [Media no.: SSR/S026_00720]. Retrieved from National Archives of Singapore website.
+[^34]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6410&amp;collectionId=44)* [Media no.: SSR/S026_00720]. Retrieved from National Archives of Singapore website.
 
-[^35]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6402)* [Media no.: SSR/S026_00640]. Retrieved from National Archives of Singapore website.
+[^35]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&amp;itemId=6402)* [Media no.: SSR/S026_00640]. Retrieved from National Archives of Singapore website.
 
-[^36]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6415)* [Media no.: SSR/S026_00770]. Retrieved from National Archives of Singapore website.
+[^36]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&amp;itemId=6415)* [Media no.: SSR/S026_00770]. Retrieved from National Archives of Singapore website.
 
-[^37]: [National Archives of Singapore The Citizen Archivist Project](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6416#collection), 1858, SSR/S026_00780.
+[^37]: [National Archives of Singapore The Citizen Archivist Project](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&amp;itemId=6416#collection), 1858, SSR/S026_00780.
 
-[^38]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6417&collectionId=44)* [Media no.: SSR/S026_00790]. Retrieved from National Archives of Singapore website.
+[^38]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6417&amp;collectionId=44)* [Media no.: SSR/S026_00790]. Retrieved from National Archives of Singapore website.
 
-[^39]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6419&collectionId=44)* [Media no.: SSR/S026_00810]. Retrieved from National Archives of Singapore website. 
+[^39]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6419&amp;collectionId=44)* [Media no.: SSR/S026_00810]. Retrieved from National Archives of Singapore website. 
 
-[^40]: [National Archives of Singapore The Citizen Archivist Project](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6403&collectionId=44), 1858, SSR/S026_00650.
+[^40]: [National Archives of Singapore The Citizen Archivist Project](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6403&amp;collectionId=44), 1858, SSR/S026_00650.
 
-[^41]: National Archives of Singapore The Citizen Archivist Project. (1858). *[Z36 Singapore: Letters from Governor](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=71&itemId=15680)* [Media no.: SSR/Z036_00240]. Retrieved from National Archives of Singapore website.
+[^41]: National Archives of Singapore The Citizen Archivist Project. (1858). *[Z36 Singapore: Letters from Governor](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=71&amp;itemId=15680)* [Media no.: SSR/Z036_00240]. Retrieved from National Archives of Singapore website.
 
 [^42]: Sri Sivan Temple was demolished in 1983 to make way for the construction of Dhoby Ghaut MRT station. It was relocated next to Sri Srinivasa Perumal Temple on Serangoon Road, before it was consecrated at its present site in Geylang East on 30 May 1993.
 
@@ -259,8 +259,8 @@ I first came across Kunnuck Mistree’s name in 2015 while transcribing the Stra
 
 [^45]: Yeoh, B.S.A. (2003). *[Contesting space in colonial Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061)* (p. 32). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO); [Page 1 advertisements column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18571119-1.2.2.1). (1857, November 19). *The Singapore Free Press*, p. 1. Retrieved from NewspaperSG.
 
-[^46]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 9. 
+[^46]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 9. 
 
 [^47]: *[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18650727-1.2.3)*, 27 Jul 1865, p. 2. 
 
-[^48]: Anderson, C. (2003, August 1). The execution of Rughobursing: The political economy of convict transportation and penal labour in early colonial Mauritius. *Studies in History, 19* (2), 185–197, p. 5. Retrieved from SAGE Journals; Anderson, C. (n.d.). *Asia and Mauritius: Penal transportation in East India co.*, 1787–1863. Retrieved from convictvoyages.org; [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 12.
+[^48]: Anderson, C. (2003, August 1). The execution of Rughobursing: The political economy of convict transportation and penal labour in early colonial Mauritius. *Studies in History, 19* (2), 185–197, p. 5. Retrieved from SAGE Journals; Anderson, C. (n.d.). *Asia and Mauritius: Penal transportation in East India co.*, 1787–1863. Retrieved from convictvoyages.org; [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 12.

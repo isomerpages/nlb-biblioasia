@@ -5,7 +5,6 @@ permalink: /vol-16/issue-1/apr-jun-2020/doggett/
 third_nav_title: "Marjorie Doggett: Photographer of Singapore"
 image: /images/Vol-16-issue-1/marjorie/Majorie-title.png
 ---
-
 <style>
 table { 
 	background-color: #e0dde8;
@@ -20,7 +19,7 @@ table {
 #### **Edward Stokes** reflects on *Characters of Light* by Marjorie Doggett, first published in 1957, and on his own recent book, *Marjorie Doggett’s Singapore*, which portrays her life and work here.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/marjorie/Majorie-title.png">
 
 Montage showing the important logbook that Marjorie Doggett used to document her negatives (featuring two pages from the year 1955). The three portraits are of Marjorie at different stages of her life. The camera pictured – a medium-format Rolleicord – is similar to the one that Marjorie used to capture the images of Singapore for her 1957 photo book, <i>Characters of Light</i>.
@@ -54,7 +53,7 @@ In the 1950s, Marjorie set out to create a photographic record of Singapore’s 
 Marjorie shot most of the photographs in *Characters of Light* in 1955 and 1956, using a medium-format Rolleicord camera mounted on a tripod. She then developed the photos using a bedroom in her home on Amber Road as an improvised darkroom. The room was blacked out so that the prints could be developed and then washed in the nearby bathroom. Her son Nicholas recalls that she would “develop and print in the mornings, then open all the windows and doors to ventilate the bedroom”.[^5] 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/marjorie/Characters-of-light-mockups.png">
 
 There are two editions of <i>Characters of Light</i>. The first in 1957 (left) features the Cathedral of the Good Shepherd on the cover. The cover of the second edition (right), published in 1985, shows “Joshua”, a mansion in Katong that was built around 1890.
@@ -67,14 +66,14 @@ In addition to being a pioneering work, *Characters of Light* also stands out fo
 After it was published, *The Straits Times* wrote that *Characters of Light* was “exactly the book of its kind that unknowingly we have been waiting for”.[^7] Meanwhile the *Sunday Standard* described the book as a “highly distinguished picture chronicle with clarity and simplicity”. The paper also suggested that, perhaps, Penang and Melaka should consider asking Marjorie to record their buildings as well.[^8]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/marjorie/marjorie-and-victor.jpg">
+<br>
+<img src="/images/Vol-16-issue-1/marjorie/Marjorie-and-Victor.jpg">
 
 Marjorie and Victor Doggett at their Amber Road home in 1956, a year before the publication of <i>Characters of Light</i>.
 
 </div>
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 
 </div>
@@ -88,21 +87,21 @@ Marjorie and Victor Doggett at their Amber Road home in 1956, a year before the 
 |Two Doggett oral history recordings are also held by the NAS. These are the recollections of Victor Doggett, recorded in June 1990 with Daniel Chew, for the archives’ Oral History Centre; and the memories of Nick Doggett, primarily concerning his parents, recorded in November 2018 by Edward Stokes. The former is available online at www.nas.gov.sg/archivesonline/.|
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/Marjorie/St-Andrew-1956.jpg">
+<br>
+<img src="/images/Vol-16-issue-1/marjorie/St-Andrew-1956.jpg">
 
 This photo of St Andrew’s Cathedral was taken in 1956 from a point near Coleman Street. Completed in 1861, the Anglican cathedral was designed by Ronald MacPherson and built by Indian convict labour. The original church on this site was designed by George D. Coleman and was completed in 1836. However, after two lightning strikes, it was demolished and replaced by this neo-Gothic structure. St Andrew’s Cathedral was gazetted as a national monument in 1973.
 
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/Marjorie/Clifford-Pier-1957.jpg">
+<br>
+<img src="/images/Vol-16-issue-1/marjorie/clifford-pier-1957.jpg">
 
 Taken in 1957 from Clifford Pier, Marjorie Doggett frames the Fullerton Building within one of the arches of the pier. The Fullerton Building was designed by government architects Major Percy Hubert Keys and Frank Dowdeswell. It was completed in 1928 and became synonymous with the General Post Office, a major and long-time tenant. Other tenants occupied the building for a time until its reopening in 2001 as The Fullerton Hotel Singapore. The restoration saw its Palladian-style architecture and grand Doric columns preserved and the introduction of modern interiors. In 2015, the building was gazetted as a national monument.
 
@@ -115,8 +114,8 @@ Marjorie Doggett had taken her photographs none too soon. Between 1947, when she
 Following the 1966 Land Acquisition Act, Marjorie took a leading role in various architectural heritage debates. Noting Singapore’s recent achievements, in 1968 she wrote with genuine sympathy to *The Straits Times* concerning the planned demolition of the former Raffles Institution building in Bras Basah. Notwithstanding the anti-British sentiments of the time, Margaret foresaw that later generations of Singaporeans would come to cherish the city’s colonial-era buildings. She ended the letter with these words: “Our city will be poor indeed if, amongst all its dynamic modern environment and recreational activity, there is no place for the thinkers and ‘dreamers of dreams’.”[^9]  Unfortunately, the school building was torn down in 1972.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/Marjorie/Raffles-Institution-1955.jpg">
+<br>
+<img src="/images/Vol-16-issue-1/marjorie/Raffles-Institution-1955.jpg">
 
 The former Raffles Institution in Bras Basah, 1955. The building was originally designed by Lieutenant Philip Jackson with later extensions designed by George D. Coleman. It was demolished in 1972 and the site is currently occupied by the Raffles City complex. In 1968, Marjorie Doggett wrote to <i>The Straits Times</i> unsuccessfully calling for the school building to be preserved.
 
@@ -125,8 +124,8 @@ The former Raffles Institution in Bras Basah, 1955. The building was originally 
 By the mid-1980s however, while Marjorie continued to maintain an interest in the preservation of historic buildings, her main focus was animal welfare work. She was a founding member of the Royal Society for the Prevention of Cruelty to Animals in 1954 (today known as the Society for the Prevention of Cruelty to Animals, Singapore). In 1982, she became an advisor to the World Society for the Protection of Animals and the secretary of the International Primate Protection League.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/Marjorie/Yin-Fo-Fui-Kun-1955.jpg">
+<br>
+<img src="/images/Vol-16-issue-1/marjorie/Yin-Fo-Fui-Kun-1955.jpg">
 
 A side view of Yin Fo Fui Kun with a five-footway, 1955. This is a Hakka clan house located at the junction of Cross Street and Telok Ayer Street. It was built around 1882. Light and shadows cast by the window rain canopies and shelters play off each other on the building’s off-white chunam walls. The building was gazetted as a national monument in 1998.
 
@@ -145,8 +144,8 @@ Soon after, I sought out Marjorie’s son Nick by telephone and we met in Januar
 Nick and I developed a shared resolve: to create a record of Marjorie’s life and work in book form and to have her materials donated to the National Archives of Singapore. With the donation to the archives completed in 2016, the next goal was to prepare and publish *Marjorie Doggett’s Singapore*.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/Marjorie/photo-Majorie-and-dogs.png">
+<br>
+<img src="/images/Vol-16-issue-1/marjorie/photo-Majorie-and-dogs.png">
 
 Marjorie Doggett in the late 1990s with the family’s mongrel Wurst (front) and a neighbour’s dog. In 1954, she became a founding member of the Royal Society for the Prevention of Cruelty to Animals. In some ways, Marjorie's advocacy work for animal rights has eclipsed her career as a photographer.
 
@@ -158,13 +157,13 @@ The heart of *Marjorie Doggett’s Singapore* are the photographs from *Characte
 
 *All photos by and of Marjorie Doggett © National Archives of Singapore*.
 
-|<img src="/images/Vol-16-issue-1/marjorie/Magorie-Doggett-Book.png" style="width: 500px; height: 300px;" /> |
+|<img src="/images/Vol-16-issue-1/marjorie/Magorie-Doggett-Book.png" style="width: 500px; height: 300px;"> |
 
 |**MARJORIE DOGGETT’S SINGAPORE**<br><br>*Marjorie Doggett’s Singapore: A Photographic Record* was published in November 2019. It was originated by The Photographic Heritage Foundation and co-published with Ridge Books, an imprint of NUS Press. The work was supported by funding from Ng Teng Fong Charitable Foundation.<br><br>The book and this essay were put together based on the Marjorie Doggett Collection held by the National Archives of Singapore. The photos in the collection portray Marjorie Doggett’s life and work, as well as Singapore’s urban setting and architecture in the 1950s.<br><br>*Marjorie Doggett’s Singapore* is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.5704 DOG-[HIS] and SING 959.5704 DOG-[HIS]](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203895402)). It also retails at major bookshops in Singapore.|
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/authors/Edward_Stokes.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-1/authors/Edward_Stokes.png" style="width: 100px; height: 100px;">
 
 <b>Edward Stokes</b> is an Australian photographer and writer. He has a special interest in the photographic history of Asia. The founder and publisher of The Photographic Heritage Foundation, Edward’s many books about Hong Kong and Australia have been widely praised for blending photographs with illuminating historical texts. He was educated at Magdalen College, Oxford.
 
@@ -178,8 +177,7 @@ The heart of *Marjorie Doggett’s Singapore* are the photographs from *Characte
 [^3]: *Characters of Light* was reissued in 1985 as an expanded edition by Times Books International with 138 pages and 107 photos. It used glossy paper and kept most of the images featured in the 1957 publication, with the addition of 38 new photos. The captions were lengthened as well. Notably, given Singapore’s urban transformation since 1957, Marjorie Doggett’s texts made stronger comments on heritage and architectural preservation. See Doggett, M. (1985). *[Characters of light: Early buildings of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4141304)*. Singapore: Times Books International. (Call no.: RSING 722.4095957 DOG)
 [^4]: Kong, L. (2011). *[Conserving the past, creating the future: Urban heritage in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13816245)* (p. 30). Singapore: Urban Redevelopment Authority. (Call no.: RSING 363.69095957 KON)
 [^5]: Stokes, E. (2019). *[Marjorie Doggett’s Singapore: A photographic record](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203895402)* (p. 25). Singapore: Ridge Books: The Photographic Heritage Foundation. (Call no.: RSING 959.5704 DOG-[HIS])
-[^6]: Teo, S.E., & Savage, V.R. (1991). Singapore landscape: A historical overview of housing image (p. 336). In E.C.T. Chew & E. Lee (Eds), *[A history of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5914108)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 HIS-[HIS])
+[^6]: Teo, S.E., &amp; Savage, V.R. (1991). Singapore landscape: A historical overview of housing image (p. 336). In E.C.T. Chew &amp; E. Lee (Eds), *[A history of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5914108)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 HIS-[HIS])
 [^7]: [Enduring epitaphs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570603-1.2.122.2). (1957, June 3). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 [^8]: [A picture chronicle of S’pore buildings](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19570630-1.2.127.5). (1957, June 30). *Sunday Standard*, p. 23. Retrieved from NewspaperSG.
 [^9]: Doggett, M. (1968, July 13). [Preserving Singapore history](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680713-1.2.50.5). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
-
