@@ -7,7 +7,9 @@ description: Singapore is today a well-developed financial centre with many
 ---
 #### Singapore is today a well-developed financial centre with many banks and other financial institutions offering a suite of banking products and services. But it was a completely different scene during the colonial era.
 
-
+<img src="/images/Vol%203%20Issue%201/MoneyLending/merchant%20bank.jpg" style="width:80%;">
+ <div style="background-color: white;">The Merchant Bank of India, Ltd. Singapore.
+<i>Arnold Wright and H.A. Cartwright, eds., Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources.([London]: [Lloyd's Greater Britain Publishing Company, Limited], 1908, p. 145).</i></div>
 
 #### **Singapore's First Banks**
 In the early 19th century, when Stamford Raffles first set foot on Singapore, it was  essentially a small fishing village whose residents relied mainly on barter trade for goods and services. Soon after Raffles established Singapore as an entrepot port, trading activities expanded rapidly, and there naturally arose a need for banking facilities to support the growing number of traders and merchants on the island.
