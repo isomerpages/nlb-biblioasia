@@ -1,7 +1,9 @@
 ---
 title: The Process of Restoring the Chappell Concert Grand
 permalink: /vol-19/issue-3/oct-dec-2023/chappell-piano-repair-zhivko-girginov/
-description: ""
+description: Repairing the National Library’s Chappell concert grand was no easy
+  task. Zhivko Girginov describes the challenges he faced.
+image: /images/Vol 19 Issue 3/Piano Repair Process/zhivko girginov 1.jpg
 ---
 #### Repairing the National Library’s Chappell concert grand was no easy task. Zhivko Girginov describes the challenges he faced.
 

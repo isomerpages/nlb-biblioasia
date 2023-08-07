@@ -3,6 +3,7 @@ title: "Going Against the (Rice) Grain: The “Eat More Wheat” Campaign"
 permalink: /vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/
 description: The call for Singaporeans to switch from eating rice to eating
   wheat in 1967 did not take root despite best efforts by the government.
+image: /images/Vol 19 Issue 3/Wheat/image1.png
 ---
 #### The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government. 
 By Jacqueline Lee

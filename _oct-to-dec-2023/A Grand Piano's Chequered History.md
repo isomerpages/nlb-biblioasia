@@ -3,6 +3,7 @@ title: A Grand Piano's Chequered History
 permalink: /vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/
 description: A grand piano that was to be the pride of Singapore failed to
   silence its critics. The odds, however, were always against it.
+image: /images/Vol 19 Issue 3/2 Grand Piano/hungarian-man.jpg
 ---
 #### A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it.
 By Bernard T.G. Tan

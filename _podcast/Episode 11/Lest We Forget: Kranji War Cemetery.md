@@ -7,15 +7,13 @@ description: The Kranji War Cemetery and the Singapore Memorial commemorate
   defence of Singapore.
 third_nav_title: Episode 11
 ---
-### Coming on 8 August
-
 The Kranji War Cemetery and the Singapore Memorial commemorate those who died while fighting the Japanese during World War II. Librarian Janice Loo looks at the lives of the people who paid the ultimate price in the defence of Singapore.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Xm0Wj7N_fns" height="315" width="560"></iframe>
 
 
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), and wherever you listen.
+Available on [Spotify](https://open.spotify.com/episode/33nzTeq4iXdGFXLQcuJiVc), [Apple Podcasts](https://podcasts.apple.com/us/podcast/lest-we-forget-kranji-war-cemetery/id1688142751?i=1000623701177), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NWU5YzdkMGQtMWYwNS00NjE0LWIzY2QtYjU0NGJjYTMwYzk4?sa=X&amp;ved=0CAUQkfYCahcKEwiA442U1cuAAxUAAAAAHQAAAAAQAQ), and wherever you listen.
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 

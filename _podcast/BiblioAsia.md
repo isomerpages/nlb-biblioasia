@@ -81,10 +81,11 @@ The Crescendos didn’t just rock the airways in Singapore in the 1960s. They ch
 Listen on: [Spotify](https://open.spotify.com/episode/3dl1waKmiCYXXAQpdLJGrb), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-recording-industry-in-singapore-1903-1985/id1688142751?i=1000622945042), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NWQ3YzhkZDktYWRlOC00NGYwLThiZjEtOWUwZTFkZmQ0Njgx?sa=X&amp;ved=0CAUQkfYCahcKEwiQgq7phLqAAxUAAAAAHQAAAAAQCg)
 
 **8 August: Lest We Forget: Kranji War Cemetery**<br>
-Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Choo Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.<br>
+Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Chin Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.<br>
 
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%2011%20(kranji%20by%20janice)v1.jpg" align="left"><br clear="all">
-<br>
+Listen on:
+[Spotify](https://open.spotify.com/episode/33nzTeq4iXdGFXLQcuJiVc), [Apple Podcasts](https://podcasts.apple.com/us/podcast/lest-we-forget-kranji-war-cemetery/id1688142751?i=1000623701177), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NWU5YzdkMGQtMWYwNS00NjE0LWIzY2QtYjU0NGJjYTMwYzk4?sa=X&amp;ved=0CAUQkfYCahcKEwiA442U1cuAAxUAAAAAHQAAAAAQAQ)
 
 **15 August: What’s Become of the Seafaring Orang Seletar?**<br>
 The Orang Seletar used to live on boats that plied the Johor Strait. They were here when Raffles landed in 1819. Today, however, they have settled in kampongs in Johore. Some of the older ones still remember playing in the waters around Seletar island, says writer and educator Ilya Katrinnada.<br>
