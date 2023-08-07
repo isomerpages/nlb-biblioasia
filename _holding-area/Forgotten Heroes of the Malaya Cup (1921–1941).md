@@ -50,11 +50,11 @@ Any list of Singapore’s best footballers will be a subjective one of course. O
 Kota Raja Football Club (1926)
 
 Topping our list is Abdul Fattah, usually 
-referred to as Dolfattah. He played for Kota Raja Football Club and was known as Singapore’s Dixie Dean, the English footballer regarded by some as the greatest centre-forward of all time.[^4] Playing as the attacking inside-left in the replayed Malaya Cup final at Anson Road Stadium in 1930, Dolfattah helped Singapore win 3–0. (That year, the final in Kuala Lumpur had to be aborted because of torrential rain and the game was replayed in Singapore.) Dolfattah was also on the winning side in 1931 (in Kuala Lumpur) and 1932 (in Singapore). On all three occasions, Singapore defeated traditional rival Selangor.5
+referred to as Dolfattah. He played for Kota Raja Football Club and was known as Singapore’s Dixie Dean, the English footballer regarded by some as the greatest centre-forward of all time.[^4] Playing as the attacking inside-left in the replayed Malaya Cup final at Anson Road Stadium in 1930, Dolfattah helped Singapore win 3–0. (That year, the final in Kuala Lumpur had to be aborted because of torrential rain and the game was replayed in Singapore.) Dolfattah was also on the winning side in 1931 (in Kuala Lumpur) and 1932 (in Singapore). On all three occasions, Singapore defeated traditional rival Selangor.[^5]
 
-Dolfattah holds the record for the most appearances in the Malaya Cup final (nine in total). But for a suspension in 1934 for accepting payment for participating in a tour to Java, it would have been a perfect 10. This was the year that no Malay players participated in the Malaya Cup. He was reinstated in August 1935.6
+Dolfattah holds the record for the most appearances in the Malaya Cup final (nine in total). But for a suspension in 1934 for accepting payment for participating in a tour to Java, it would have been a perfect 10. This was the year that no Malay players participated in the Malaya Cup. He was reinstated in August 1935.[^6]
 
-One of his most memorable game moments was in August 1929 when he scored all five goals against a hapless Melaka team.7 In total, 
+One of his most memorable game moments was in August 1929 when he scored all five goals against a hapless Melaka team.[^7] In total, 
 Dolfattah scored 35 goals in 23 Malaya Cup games between 1927 and 1933 – a strike rate of approximately 1.5 goals per game.
 
 #### **Abdul Rahman Haji Ali**
@@ -62,14 +62,14 @@ Dolfattah scored 35 goals in 23 Malaya Cup games between 1927 and 1933 – a str
 7 appearances in the Malaya Cup final (5 wins)
 <br>Malaya Cup (1933- 41)<br>
 
-Playing at full back (a full back does not always receive the credit he deserves), Abdul Rahman Haji Ali was one of the most reliable and steadfast of defenders. He grew up in the same neighbourhood in Kampong Glam as Dolfattah, and the latter was one of his first coaches. Abdul Rahman began his football career at age 15 as captain of the Victoria Bridge School football team, and led the team from 1927 to 1929.8
+Playing at full back (a full back does not always receive the credit he deserves), Abdul Rahman Haji Ali was one of the most reliable and steadfast of defenders. He grew up in the same neighbourhood in Kampong Glam as Dolfattah, and the latter was one of his first coaches. Abdul Rahman began his football career at age 15 as captain of the Victoria Bridge School football team, and led the team from 1927 to 1929.[^8]
 
-After leaving school, he played for the Malay Football Association second team in 1929 and 1930, and was promoted to the first eleven in 1931. He received his lucky break in 1933 when he was selected to represent Singapore in the Malaya Cup final against Selangor (Singapore won 8–2).9
+After leaving school, he played for the Malay Football Association second team in 1929 and 1930, and was promoted to the first eleven in 1931. He received his lucky break in 1933 when he was selected to represent Singapore in the Malaya Cup final against Selangor (Singapore won 8–2).[^9]
 
 In 1934, along with Dolfattah and Mohamed Noor Kassim (Mat Noor), Abdul Rahman was suspended for receiving payment for participating in a tour to Java. He continued playing in the 1935 Malaya Cup final, but could not play a single game in 1936 due to ill health. One of his career highlights was the visit to Singapore in January 1938 by the 
-Islington Corinthians, an amateur English team based in London that was on a world tour. Abdul Raman was in the team that played against the visitors.10
+Islington Corinthians, an amateur English team based in London that was on a world tour. Abdul Raman was in the team that played against the visitors.[^10]
 
-Like Chua Boon Lay, Abdul Rahman was a champion athlete at school and won the individual championship in the All-Muslim Jubilee sports in 1935. He was also an excellent rugby player, representing the Singapore Asiatic team from 1935. After 1938, Abdul Rahman was appointed captain of the Malay Football Association team.11
+Like Chua Boon Lay, Abdul Rahman was a champion athlete at school and won the individual championship in the All-Muslim Jubilee sports in 1935. He was also an excellent rugby player, representing the Singapore Asiatic team from 1935. After 1938, Abdul Rahman was appointed captain of the Malay Football Association team.[^11]
 
 #### **Chee Ah Hui**
 
@@ -81,10 +81,9 @@ Siong Boo Athletic Association (1929–33)
 <br>Singapore Chinese Football Association (1927–33)<br>
 Shanghai Chinese (1934)
 
-Born in Amoy (present-day Xiamen) in China, Chee Ah Hui came to Singapore in 1924 as a 16-year-old. He represented the Singapore Chinese Football Association in 1928, and one year later, he was in the Malayan Chinese Football Association team lineup. Known for his energetic and aggressive style as a half 
-back, Chee played in the 1930 Malaya Cup final in Kuala Lumpur, which was aborted due to heavy rain, and was then surprisingly omitted for the replay in Singapore three weeks later.12
+Born in Amoy (present-day Xiamen) in China, Chee Ah Hui came to Singapore in 1924 as a 16-year-old. He represented the Singapore Chinese Football Association in 1928, and one year later, he was in the Malayan Chinese Football Association team lineup. Known for his energetic and aggressive style as a half back, Chee played in the 1930 Malaya Cup final in Kuala Lumpur, which was aborted due to heavy rain, and was then surprisingly omitted for the replay in Singapore three weeks later.[^12]
 
-Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Shanghai, and joined the Canton Air Force in 1934.13 His greatest achievement was representing China at the 1936 Olympic Games in Berlin, playing against Great Britain. Enroute to Berlin, the Chinese team transited in Singapore where they played a match against the Singapore Amateur Football Association team, winning 4–0. Playing at centre-half, he apparently caught everyone’s attention.14
+Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Shanghai, and joined the Canton Air Force in 1934.[^13] His greatest achievement was representing China at the 1936 Olympic Games in Berlin, playing against Great Britain. Enroute to Berlin, the Chinese team transited in Singapore where they played a match against the Singapore Amateur Football Association team, winning 4–0. Playing at centre-half, he apparently caught everyone’s attention.[^14]
 
 #### **Choo Seng Quee**
 
@@ -95,9 +94,9 @@ Singapore Chinese Football Association (1933–39)
 
 Choo Seng Quee, best remembered as one of Singapore’s most respected coaches, retired in 1981. He represented Singapore before the war, and was part of the team that defeated Selangor 2–1 in the 1937 Malaya Cup final.
 
-Choo retired from playing in 1948 and became a coach at the Singapore Chinese Athletic Association.15 He promoted the idea of including this association in the Singapore Amateur Football Association League at a time when only Singapore Chinese Football Association players were considered. He later coached the national teams of Indonesia (1951–53) and Malaya/Malaysia (1958–65) before being appointed Singapore’s national coach in 1976.16
+Choo retired from playing in 1948 and became a coach at the Singapore Chinese Athletic Association.[^15] He promoted the idea of including this association in the Singapore Amateur Football Association League at a time when only Singapore Chinese Football Association players were considered. He later coached the national teams of Indonesia (1951–53) and Malaya/Malaysia (1958–65) before being appointed Singapore’s national coach in 1976.[^16]
 
-One of Choo’s greatest achievements was guiding Singapore to win the Malaysia Cup in 1977, in a thrilling 3–2 defeat against Penang.17 Popularly known as Uncle Choo, he nurtured a generation of Singaporean footballers.
+One of Choo’s greatest achievements was guiding Singapore to win the Malaysia Cup in 1977, in a thrilling 3–2 defeat against Penang.[^17] Popularly known as Uncle Choo, he nurtured a generation of Singaporean footballers.
 
 #### **Chua Boon Lay**
 
@@ -109,9 +108,9 @@ Amateur Sporting Association
 <br>Singapore Chinese Football Association (1923–37 
 and 1945–49)<br>
 
-Chua Boon Lay was known as “Towkay Ayam” (“chicken boss”) because of his association with the poultry business at Lau Pa Sat (Telok Ayer Market).18 Standing at 1.82 m – one of the tallest players in the Singapore team – the Straits Times described him as “a brilliant header and very speedy” and “one of the few full-backs who could out-head and out-pace little Mat Noor [Mohamed Noor Kassim] of the Malays”.19 
+Chua Boon Lay was known as “Towkay Ayam” (“chicken boss”) because of his association with the poultry business at Lau Pa Sat (Telok Ayer Market).[^18] Standing at 1.82 m – one of the tallest players in the Singapore team – the Straits Times described him as “a brilliant header and very speedy” and “one of the few full-backs who could out-head and out-pace little Mat Noor [Mohamed Noor Kassim] of the Malays”.[^19] 
 
-Chua also played basketball for Siong Boo Athletic Association and was a top-class track athlete, clinching gold in the 100-, 400- and 800-metre races at the 1931 Singapore Chinese Sports meet.20 He represented Singapore in the Malayan Chinese Olympiads in athletics in 1937, and was also a talented billiard player.21
+Chua also played basketball for Siong Boo Athletic Association and was a top-class track athlete, clinching gold in the 100-, 400- and 800-metre races at the 1931 Singapore Chinese Sports meet.[^20] He represented Singapore in the Malayan Chinese Olympiads in athletics in 1937, and was also a talented billiard player.[^21]
 
 During the Japanese Occupation (1942–45), Chua became a committee member of the football section of the Syonan Sports Association established by the Japanese. In 1948, after the war ended, he joined the China football team as a coach for the London Olympic Games.
 
@@ -121,11 +120,11 @@ During the Japanese Occupation (1942–45), Chua became a committee member of th
 <br>Malaya Cup (1922–30)<br> 
 Singapore Chinese Football Association (1916–31)
 
-Lim Yong Liang was a dominant centre forward fondly known as “Pop” and called the “Grand Old Man of Singapore soccer”. While a student at St Joseph’s Institution, he learned the game of football with the help of a tennis ball in the church compound.22
+Lim Yong Liang was a dominant centre forward fondly known as “Pop” and called the “Grand Old Man of Singapore soccer”. While a student at St Joseph’s Institution, he learned the game of football with the help of a tennis ball in the church compound.[^22]
 
-Lim represented Singapore in the Malaya Cup between 1922 and 1930, and he was on the winning side in 1923, 1924 and in 1925, when the final was played at the Anson Road Stadium in Singapore for the first time. Teaming up with Roy Fairley Smith and Foong Un Sun (the brother of Foong Mun Fun), Lim scored what proved to be the winning goal in a classic confrontation.23
+Lim represented Singapore in the Malaya Cup between 1922 and 1930, and he was on the winning side in 1923, 1924 and in 1925, when the final was played at the Anson Road Stadium in Singapore for the first time. Teaming up with Roy Fairley Smith and Foong Un Sun (the brother of Foong Mun Fun), Lim scored what proved to be the winning goal in a classic confrontation.[^23]
 
-Lim captained the Sino-Malay team that defeated a touring Australian team 4–2 in 1924. As a veteran, Lim returned to Malaya Cup duty in 1934, scoring two goals. He was the national coach from 1935 to 1941.24
+Lim captained the Sino-Malay team that defeated a touring Australian team 4–2 in 1924. As a veteran, Lim returned to Malaya Cup duty in 1934, scoring two goals. He was the national coach from 1935 to 1941.[^24]
 
 After the war, Lim became a major advocate for football as an adviser and mentor.  As the honorary secretary of the Football Association of Singapore in 1970, he was asked to provide inputs for the National Sports Promotion Bill.
 
@@ -135,11 +134,11 @@ After the war, Lim became a major advocate for football as an adviser and mentor
 <br>Malaya Cup (1928–35)<br>
 Darul Bahar Football Club
 
-Mohamed Noor Kassim, also known as Mat Noor, started playing for Darul Bahar Football Club in the Malay League at age 14 and later for the Post Office in the Commercial Cup.25 Renowned as a deadly striker (using both head and foot), Mat Noor claimed he learned his ability to head a ball so well by observing players in the Duke of Wellington’s regimental team.
+Mohamed Noor Kassim, also known as Mat Noor, started playing for Darul Bahar Football Club in the Malay League at age 14 and later for the Post Office in the Commercial Cup.[^25] Renowned as a deadly striker (using both head and foot), Mat Noor claimed he learned his ability to head a ball so well by observing players in the Duke of Wellington’s regimental team.
 
-Playing at inside right, Mat Noor was considered one of the most celebrated Malaya Cup players, and was given the nicknames “Botak” as he always shaved his head bald and “Wizard of Nod” because of his heading ability. Only 1.52 m tall, he learned to outjump taller players by training in the sea off Pulau Brani. “I was short, and I had to find a way to outjump my opponents. Hours of jumping up and down on the shore did the trick,” he said.26
+Playing at inside right, Mat Noor was considered one of the most celebrated Malaya Cup players, and was given the nicknames “Botak” as he always shaved his head bald and “Wizard of Nod” because of his heading ability. Only 1.52 m tall, he learned to outjump taller players by training in the sea off Pulau Brani. “I was short, and I had to find a way to outjump my opponents. Hours of jumping up and down on the shore did the trick,” he said.[^26]
 
-Mat Noor played in the 1933 Malaya Cup final that recorded Singapore’s most one-sided victory (8–2) against Selangor. Like Dolfattah, he was suspended in 1934 for accepting payment for participating in a tour to Java, but was reinstated in 1935.27
+Mat Noor played in the 1933 Malaya Cup final that recorded Singapore’s most one-sided victory (8–2) against Selangor. Like Dolfattah, he was suspended in 1934 for accepting payment for participating in a tour to Java, but was reinstated in 1935.[^27]
 
 #### **Lancelot Maurice Pennefather**
 
@@ -147,9 +146,9 @@ Mat Noor played in the 1933 Malaya Cup final that recorded Singapore’s most on
 <br>Malaya Cup (1922–28)<br>
 Singapore Recreation Club (1912–30)
 
-Lancelot Maurice Pennefather was known as “the Son of the Devil” because of his ferocious defence work as full back. Despite this nickname, he was a staunch advocate of sportsmanship above all else.28
+Lancelot Maurice Pennefather was known as “the Son of the Devil” because of his ferocious defence work as full back. Despite this nickname, he was a staunch advocate of sportsmanship above all else.[^28]
 
-He played in six Malaya Cup finals for Singapore, winning in 1923, 1924 and 1925. In 1928, the trophy was shared after a two-all draw against Selangor. He had speed and a long penetrative kick, and was a crowd favourite with his “end-to-end clearances, his fierce tackles against giant forwards and uncanny coverage of the goal area”.29
+He played in six Malaya Cup finals for Singapore, winning in 1923, 1924 and 1925. In 1928, the trophy was shared after a two-all draw against Selangor. He had speed and a long penetrative kick, and was a crowd favourite with his “end-to-end clearances, his fierce tackles against giant forwards and uncanny coverage of the goal area”.[^29]
 
 Pennefather was a certainty to play in the first Malaya Cup final in 1921 but chose to represent his club, the Singapore Recreation Club, in athletics instead. An all-round sportsman, he could also throw a cricket ball well over a distance of 100 yards. Together with his wife Alice and later granddaughter Annabel, the name of Pennefather became firmly embedded in Singapore’s sport story. (Annabel was a national hockey player and captained the national women’s team from 1970 to 1980.) 
 
@@ -159,11 +158,11 @@ Pennefather was a certainty to play in the first Malaya Cup final in 1921 but ch
 <br>Malaya Cup (1922–27)<br> 
 Singapore Cricket Club (1917–28)
 
-A Eurasian, Roy Fairley Smith, was given the nickname “Thunder Shooter”. Smith also held a record for high jump and was a tennis champion.30 He became a favourite with the sporting public during the 1920s and 1930s.
+A Eurasian, Roy Fairley Smith, was given the nickname “Thunder Shooter”. Smith also held a record for high jump and was a tennis champion.[^30] He became a favourite with the sporting public during the 1920s and 1930s.
 
 As a footballer, he become so highly sought after that the Singapore Cricket Club seized him from the Singapore Recreation Club and made him their centre forward. Smith would have been selected for the inaugural Malaya Cup tournament in 1921 if not for an injury sustained just two days before the first match.
 
-Smith’s Malaya Cup performances over seven seasons (1921–27) were remarkable. He played in 19 games, including six consecutive finals. Out of 68 goals scored by Singapore players, Smith took credit for 28 of them, averaging two per game. He failed to score in only five of the 19 games.31
+Smith’s Malaya Cup performances over seven seasons (1921–27) were remarkable. He played in 19 games, including six consecutive finals. Out of 68 goals scored by Singapore players, Smith took credit for 28 of them, averaging two per game. He failed to score in only five of the 19 games.[^31]
 
 #### **Tay Kwee Liang**
 
@@ -171,9 +170,9 @@ Amicable Athletic Association
 <br>Bendemeer Athletic Club<br>
 Singapore Chinese Football Association
 
-You might wonder why Tay Kwee Liang appears in this table since he did not play in any Malaya Cup final. He may not have been in the Malaya Cup, but he was involved in something even bigger – the Olympics.32 Born in Singapore in 1910 (his family was originally from Guangdong, China), Tay played for the Amicable Athletic Association, Bendemeer Athletic Club and Singapore Chinese Football Association.
+You might wonder why Tay Kwee Liang appears in this table since he did not play in any Malaya Cup final. He may not have been in the Malaya Cup, but he was involved in something even bigger – the Olympics.[^32] Born in Singapore in 1910 (his family was originally from Guangdong, China), Tay played for the Amicable Athletic Association, Bendemeer Athletic Club and Singapore Chinese Football Association.
 
-In 1933, he joined the South China Athletic Association team in Hong Kong,33 and at the 1934 Far Eastern Games, he was a member of the Chinese team that won the championship. Two years later, Tay was selected to represent China at the 1936 Olympic Games in Berlin, along with Chua Boon Lay and Chee Ah Hui (although Tay is rarely mentioned alongside these two men). Besides football, Tay also excelled in table tennis, and was the national table tennis champion of Singapore in 1931.34
+In 1933, he joined the South China Athletic Association team in Hong Kong,[^33] and at the 1934 Far Eastern Games, he was a member of the Chinese team that won the championship. Two years later, Tay was selected to represent China at the 1936 Olympic Games in Berlin, along with Chua Boon Lay and Chee Ah Hui (although Tay is rarely mentioned alongside these two men). Besides football, Tay also excelled in table tennis, and was the national table tennis champion of Singapore in 1931.[^34]
 
 #### **The Legends and Their Legacy**
 
