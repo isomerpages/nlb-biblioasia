@@ -180,3 +180,11 @@ In 1933, he joined the South China Athletic Association team in Hong Kong,33 and
 All of these men achieved something special in the world of football in the years between the two world wars. The crowds at many of these games exceeded 5,000 and sometimes reached 10,000, an impressive number that surpasses some local games today. The press coverage of each Malaya Cup games was extensive, so fans could relive the magic moments that they witnessed at the Anson Road Stadium. Many of these legends were also talented in other sports, and they brought their natural skills and abilities to the stage.
 
 Today’s talk of the greatest players from Singapore rarely deviates from the players of recent memory, and even then, many are forgotten or marginalised. These names are presented here to remind people that there were great players who laid the foundation for a lasting football legacy in Singapore. They were indeed trailblazers who paved the way for the football heroes who came after them.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Authors/hannahyeo.png" style="width: 100px; height: 100px;">
+<b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of Sport in Singapore: The Colonial Legacy (2019) and Sport in Singapore: The Rocky Road to Kallang Park (2023).  </div>
+
+#### **Notes**
+
