@@ -20,7 +20,8 @@ In the beginning, these banks were established primarily for the China trade. Th
 
 When it came to dealing with Chinese traders and merchants, each bank found it expedient to hire a local middleman known as the comprador (Portuguese for "buyer"). The banks lent money to Chinese merchants and traders through the comprador, who was responsible for every Chinese account opened. The comprador was also responsible for hiring and managing all local staff. In the early days, compradors were men with good connections and established family backgrounds.
 
-<img src="/images/Vol%203%20Issue%201/MoneyLending/wong%20ah%20fook.jpg" style="width:50%;"> <div style="background-color: white;">Kwong Yik Banking Company. Wong Ah Fook (Founder). <i>Arnold Wright and H.A. Cartwright, eds., Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources.([London]: [Lloyd's Greater Britain Publishing Company, Limited], 1908, p. 145).</i>
+<img src="/images/Vol%203%20Issue%201/MoneyLending/wong%20ah%20fook.jpg" style="width:50%;"> 
+<div style="background-color: white;">Kwong Yik Banking Company. Wong Ah Fook (Founder). <i>Arnold Wright and H.A. Cartwright, eds., Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources.([London]: [Lloyd's Greater Britain Publishing Company, Limited], 1908, p. 145).</i></div> 
 
 Until the beginning of the 20th century the banking system in Singapore consisted mainly of European Banks. It was only at the turn of the 20th century that the first Iocal  banks were established. Kwong Yik Bank was the first Chinese bank: It was set up in 1903 by Wong Ah Fook and several  Cantonese businessmen. The bank's  services included banking facilities, mortgages and loans, and its clientele was mainly Chinese. The second Chinese bank, Sze Hai Tong, was set up in February 1906. One of its directors, Tan Swi Phiau, also held the important position of comprador to 
 Netherlands India Commercial Bank.
@@ -139,4 +140,4 @@ Sjovald Cunyngham-Brown, [_The Traders: A Story of Britain’s South-East Asian 
 
 T. J. Newbold, [_Political and Statistical Account of the British Settlements in the Straits of Malacca, Viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca_](https://eresources.nlb.gov.sg/printheritage/detail/8123f6c8-67a1-48c6-97a6-3357c3bc5966.aspx), vol 1. (London: J, Murray, 1839). (From BookSG; call no. RRARE 959.5 NEW; microfilm NL5141)
 
-Yasser Mattar, [_Ethnic Entrepreneurship: Towards an Ecological Perspective_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10085827) (Singapore: Dept. of Sociology, National University of Singapore, 2000). (Call no. RSING q338.04095957 MAT)</div>
+Yasser Mattar, [_Ethnic Entrepreneurship: Towards an Ecological Perspective_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10085827) (Singapore: Dept. of Sociology, National University of Singapore, 2000). (Call no. RSING q338.04095957 MAT)
