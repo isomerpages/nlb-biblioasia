@@ -188,3 +188,70 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 
 #### **Notes**
 
+[^1]: The Singapore Football Association was founded in the same year that Liverpool Football Cub first appeared in England.
+
+[^2]: “[Two Beautiful Cups](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350810-1.2.116),” _Malaya Tribune_, 10 August 1935, 15. (From NewspaperSG)
+
+[^3]: The battleship, commissioned in 1916, was built with money from the Federated Malay States (Selangor, Perak, Negri Sembilan and Pahang). See Teh Athira Yusof, “HMS Malaya: Federated Malay States Paid for Ship,” _New Straits Times_, 18 March 2019, https://www.nst.com.my/news/nation/2019/03/470285/hms-malaya-federated-malay-states-paid-ship.
+
+[^4]: “[Thrilling Game at the Stadium](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19310625-1.2.91),” _Straits Times_, 25 June 1931, 13. (From NewspaperSG)
+
+[^5]: “[All the Finals](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19510829-1.2.76),” _Singapore Free Press_, 29 August 1951, 6. (From NewspaperSG)
+
+[^6]: “[Malay Footballer Suspensions](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19350805-1.2.67),” _Pinang Gazette and Straits Chronicle_, 5 August 1935, 16. (From NewspaperSG)
+
+[^7]: “[Football: Dolfattah’s Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malaccaguardian19290819-1.2.21.4),” _Malacca Guardian_, 19 August 1929, 9. (From NewspaperSG)
+
+&nbsp;[^8]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87),” _Straits Times_, 17 August 1947, 10. (From NewspaperSG)
+
+[^9]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87).”
+
+[^10]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87)”; Rob Cavallini and Colin Duncan, _Around the World in 95 Games: The Amazing Story of Islington Corinthians 1937–38 World Tour_ (UK: Dog &amp; Duck Publications, 2008); **“**[Singapore XI for Today's Soccer Match with Tourists](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19380130-1.2.189)**,”** _Straits Times_, 30 January 1938, 25**.** (From NewspaperSG)
+
+[^11]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87).”
+
+[^12]: “[Today’s Malaya Cup Final](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300901-1.2.87),” _Straits Times_, 20 September 1930, 13. (From NewspaperSG)
+
+[^13]: “[Thumb-nail Sketches of China Olympic Soccer Team](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19360619-1.2.16),” _Pinang Gazette and Straits Chronicle_, 19 June 1936, 3. (From NewspaperSG)
+
+[^14]: Hermes, “[China Olympics' Fine Football](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19360515-1.2.116),” _Morning Tribune_, 15 May 1936, 24. (From NewspaperSG)
+
+[^15]: “[S’pore Soccer’s Biggest Rush for Players Is On](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480224-1.2.85),” _Malaya Tribune_, 24 February 1948, 7. (From Newspaper SG)
+
+[^16]: Ken Fernandez, “[First Job Will Be to Tour States](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580131-1.2.154),” _Straits Times_, 31 January 1958, 16; Philip Tan and Terry Ang, “[FAS Takes Back Seng Quee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760902-1.2.5),” _New Nation_, 2 September 1976, 1. (From Newspaper SG)
+
+[^17]: Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),” _Straits Times_, 29 May 1977. (From NewspaperSG)
+
+[^18]: “[Farewell to a Legend](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761006-1.2.122),” _Straits Times_, 6 October 1976, 27. (From NewspaperSG)
+
+[^19]: “[Malayan Chinese at the Olympic Games in Berlin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360802-1.2.131),” _Straits Times_, 2 August 1936, 22. (From NewspaperSG)
+
+[^20]: “[Singapore Chinese Athletic Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19310228-1.2.22),” _Malayan Saturday Post_, 28 February 1931, 8. (From NewspaperSG)
+
+[^21]: “[Singapore Teams for Malayan Chinese Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370715-1.2.97),” _Straits Times_, 15 July 1937, 15; “[Billiards](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320512-1.2.100),” _Singapore Free Press and Mercantile Advertiser_, 12 May 1932, 16. (From NewspaperSG)
+
+[^22]: “[The Legend Lives On](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19821030-1.2.47.15),” _New Nation_, 30 October 1982, 36; “[Soccer Stalwarts of 2 Decades](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470508-1.2.37.16),” _Singapore Free Press_, 8 May 1947, 7. (From NewspaperSG)
+
+[^23]: “[Malaya Cup](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250831-1.2.102)” _Singapore Free Press and Mercantile Advertiser_, 31 August 1925, 16. (From NewspaperSG)
+
+[^24]: Chia Keng Hock, “[Soccer Stalwarts of 2 Decades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470508-1.2.37.16),” _Singapore Free Press_, 8 May 1947, 7. (From NewspaperSG)
+
+[^25]: “[Mat Noor – the Idol of Football Fans](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19331105-1.2.37),” _Straits Times_, 5 November 1933, 5. (From NewspaperSG)
+
+[^26]: S. Gulam, “[Little Man with the Mighty Lead](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19830920-2.2.43.5),” _Singapore Monitor_, 20 September 1983. 40. (From NewspaperSG)
+
+[^27]: “[Singapore’s 8–2 Triumph in Malaya Cup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330806-1.2.2),”&nbsp;_Sunday Times_, 6 August 1933, 1; “[Suspended Malaya Players](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19340721-1.2.163),” _Malaya Tribune_, 21 July 1934, 17. (From NewspaperSG)
+
+[^28]: “[Fullback with Wings](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750425-1.2.20.1.1),” _New Nation_, 25 April 1975, 10–11. (From NewspaperSG)
+
+[^29]: “[Soccer's Great Days](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750425-1.2.18),” _Straits Times_, 25 April 1975, 1. (From NewspaperSG)
+
+[^30]: “[Sports and Pastimes](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220906-1.2.54),” _Malaya Tribune_, 6 September 1922, 8; “[S.C.C. Spring Tennis Tournament: Result of Mixed Doubles](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350529-1.2.119),” _Malaya Tribune_, 29 May 1935, 15. (From NewspaperSG)M
+
+[^31]: Nick Aplin, [_Sport in Singapore: The Colonial Legacy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203990042) (Singapore: Straits Times Press, 2019), 139–40. (From National Library, Singapore, call no. RSING 796.095957 APL)
+
+[^32]: “[Malayan Chinese at the Olympic Games in Berlin](https://eresources.nlb.gov.sg/newspapers/digitised/articles/straitstimes19360802-1.2.131),” _Sunday Times_, 2 August 1936, 22. (From NewspaperSG)
+
+[^33]: “[Quee Liang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340109-1.2.125),” _Malaya Tribune_, 9 January 1934, 12. (From NewspaperSG)
+
+[^34]: “Zheng Jiliang: Biographical Information,” Olympedia, last accessed 24 June 2023, https://www.olympedia.org/athletes/701215.
