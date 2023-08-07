@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-2/jul-sep-2023/golden-mile-complex/
-      button: Golden Mile Complex:<br>Five Decades of an Architectural Icon
+      url: /vol-18/issue-1/apr-to-jun-2022/history-padang/
+      button: A History of the Padang
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 2/Golden Mile
-        Complex/golden_mile_complex_hero_image (below 500kb).jpg
+      background: /images/Vol 18 Issue 1/The Padang/the padang hero.jpg
   - infopic:
       title: The Recording Industry in Singapore, 1903-1985
       subtitle: podcast
