@@ -165,3 +165,18 @@ As a footballer, he become so highly sought after that the Singapore Cricket Clu
 
 Smith’s Malaya Cup performances over seven seasons (1921–27) were remarkable. He played in 19 games, including six consecutive finals. Out of 68 goals scored by Singapore players, Smith took credit for 28 of them, averaging two per game. He failed to score in only five of the 19 games.31
 
+#### **Tay Kwee Liang**
+
+Amicable Athletic Association
+<br>Bendemeer Athletic Club<br>
+Singapore Chinese Football Association
+
+You might wonder why Tay Kwee Liang appears in this table since he did not play in any Malaya Cup final. He may not have been in the Malaya Cup, but he was involved in something even bigger – the Olympics.32 Born in Singapore in 1910 (his family was originally from Guangdong, China), Tay played for the Amicable Athletic Association, Bendemeer Athletic Club and Singapore Chinese Football Association.
+
+In 1933, he joined the South China Athletic Association team in Hong Kong,33 and at the 1934 Far Eastern Games, he was a member of the Chinese team that won the championship. Two years later, Tay was selected to represent China at the 1936 Olympic Games in Berlin, along with Chua Boon Lay and Chee Ah Hui (although Tay is rarely mentioned alongside these two men). Besides football, Tay also excelled in table tennis, and was the national table tennis champion of Singapore in 1931.34
+
+#### **The Legends and Their Legacy**
+
+All of these men achieved something special in the world of football in the years between the two world wars. The crowds at many of these games exceeded 5,000 and sometimes reached 10,000, an impressive number that surpasses some local games today. The press coverage of each Malaya Cup games was extensive, so fans could relive the magic moments that they witnessed at the Anson Road Stadium. Many of these legends were also talented in other sports, and they brought their natural skills and abilities to the stage.
+
+Today’s talk of the greatest players from Singapore rarely deviates from the players of recent memory, and even then, many are forgotten or marginalised. These names are presented here to remind people that there were great players who laid the foundation for a lasting football legacy in Singapore. They were indeed trailblazers who paved the way for the football heroes who came after them.
