@@ -183,3 +183,69 @@ The Syonan Times
 Xu Yunqiao and Cai Shijun 许云樵 and 蔡史君, _Xin Ma Hua ren kang Ri shi liao 1937–1945_** [新马华人抗日史料 1937–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84454889) \[Malayan Chinese resistance to Japan 1937–1945\] (Xinjiapo 新加坡: Wen shi chu ban gong si 文史出版公司, 1984). (Call no. Chinese RSING 959.57023 MAL)
 
 (Chinese references – cannot be copied)
+
+#### **NOTES**
+     
+
+1 [More Than 1,000 Malayan Volunteers in China](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390601-1.2.97),” _Singapore Free Press_, 1 June 1939, 14. (From NewspaperSG)
+
+2 In Chinese
+
+3 In Chinese, 8 February 1939, 9.
+
+4 In Chinese, 9 February 1939, 7.
+
+5 In Chinese
+
+6 In Chinese
+
+7 The Singapore Free Press, 31 May 1939, 2.
+
+8 Wu Hu Min, personal communication, 16 July 2005.
+
+9 In Chinese, 22 August 1999, 11.
+
+10 In Chinese.
+
+11 Mamoru Shinozaki, [_Syonan, My Story: The Japanese Occupation of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=166564) (Singapore: Asia Pacific Press, 1975), 21. (Call no. RCLOS 940.548252 SHI)
+
+12 Peter Thompson, [_The Battle for Singapore: The True Story of the Greatest Catastrophe of World War II_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200184105) (London: Portrait/Piatkus, 2005), 375. (Call no. 940.5425 THO)
+
+13 Information on Venerable Pu Liang is constructed through Shuang Lin monastery publication, oral history records, Chinese newspapers of the period and accounts of British POW and The Singapore Chinese Buddhist Association archives (In Chinese)
+
+14 [Low Cheng Gin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e670712a-115d-11e3-83d5-0050568939ad), oral history interview by Yeo Geok Lee, 3 June 1983–12 August 1983, transcript, MP 3 audio, Reel/Disc 1 to 23, National Archives of Singapore (accession no. 000287)
+
+15 (In Chinese), 6 July 1939, 9.
+
+16 (In Chinese), 29 May 1939, 7.
+
+17 (In Chinese), 29 May 1939, 9; (In Chinese), 29 May 1939, 9; (In Chinese), 29 May 1939, 9.
+
+18 [Ng Aik Huan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/342d9dd6-1160-11e3-83d5-0050568939ad), oral history interview by Tan Ban Huat/Tan Beng Luan, 3 April 1981–10 July 1984, transcript, MP3 audio, Reel/Disc 1 to 15, National Archives of Singapore (accession no. 000035)
+
+19 (In Chinese), 6 July 1939, 7.
+
+20 The temples included Tian Fu Gong (In Chinese); Heng Shan Ting, Jin Lan Miao.
+
+21 (In Chinese)
+
+22 The Buddhist monasteries that were active in China Relief Fund activities and frequently mentioned in the press include: (In Chinese)
+
+23 (In Chinese), 17 July 1939, 10.
+
+24 Singapore Chinese Buddhist Association (In Chinese) archives
+
+25 Masanobu Tsuji, [_Singapore 1941–1942: The Japanese Version of the Malayan Campaign of World War_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4660767), trans. Margaret E. Lake (Oxford University Press, 1988), 306. (Call no. RSING 940.5425 TSU-\[WAR\])
+
+26 The Shonan Times, 20 February 1943, frontpage
+
+27 Tsuji, [_Singapore 1941–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4660767), xi.
+
+28 A list of monasteries and their Abbots were constructed from newspaper reports of China Relief Fund programs that mentions Venerables. The list is checked against respective monasteries, publications, and archives to verify if they were executed during the Sook Ching period.
+
+29 Information supplied by Ms Janet Hamilton Jacobs, youngest child of Mr. John Hamilton Wadge, personal communication, February 2006.
+
+30 Other locations include Tong Ji Hospital (In Chinese), Ee Hoe Club (In Chinese), Great Southern Hotel (In Chinese)
+
+
+
