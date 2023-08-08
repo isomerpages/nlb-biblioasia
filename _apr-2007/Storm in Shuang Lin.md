@@ -91,7 +91,20 @@ Even though Venerable Pu Liang had offered only the physical place, the Driving 
 
 This may have explained why the Venerable's rooms and the monastery were searched. Usually, Japanese soldiers would arrive to inform residents about inspections, but would not search the place. 
 
-Like most of the victims from Jalan Besar Inspection Point, Venerable Pu Liang and his two disciples were likely executed at Changi beach. The Venerable was probably the only Chinese Buddhist religious leader executed,28 and he and his two disciples probably the only Chinese Venerables executed during Sook Ching. 
+Like most of the victims from Jalan Besar Inspection Point, Venerable Pu Liang and his two disciples were likely executed at Changi beach. The Venerable was probably the only Chinese Buddhist religious leader executed,28 and he and his two disciples probably the only Chinese Venerables executed during Sook Ching.
+
+#### **A Pow Witness**
+A British prisoner-of-war may have witnessed the execution of Venerable Pu Liang. Mr John Hamilton Wadge,29 a Corporal (Service number 993369), was part of the Royal Army Service Corps attached to the 53rd Infantry Brigade of the 18th Division. Following the fall of Malaya, the 18th Division retreated to Singapore and was assigned to protect the northern shores of Singapore. On the day of surrender on 15 February 1942, the 53rd Brigade was stationed along
+Braddell Road.
+
+Mr Wadge's group had moved southwards along Thomson road and taken shelter in an abandoned house, the former residence of a Michelin employee who had been evacuated from Singapore. They had been taken as prisoners of war in this house and transferred to the Changi area. 
+
+Mr Wadge witnessed three Chinese monks in robes being executed at the beach.
+
+#### **History Remembered**
+The volunteers to the Burma Road and their supporters were people from all walks of lives. Their decisions and actions were propelled by a cuturally-conditioned world view, and through their actions, these individuals became the embodiments of global-local forces. Their stories enable us to understand how an event influenced and impacted individuals, and how their actions shaped the course of the Sino-Japanese War.
+
+As the place where volunteers were trained and whose Abbot paid a heavy price during Sook Ching, Shuang Lin Monastery is one of the few institutions30 related to Burma Road volunteers that still exist, making it a "living" institution and a depository for the nation's collective social memories. The monastery was gazetted as a National Monument on 17 October 1980, and has embarked on a restoration project that continues to this day.
 
 
 
