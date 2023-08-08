@@ -20,7 +20,7 @@ Singapore won the Malaya Cup (renamed Malaysia Cup in 1967) 12 times between 192
 
 The game of association football (or football as it is better known today) was established in Singapore in 1889. Maritime or marine engineers, soldiers from the 58th Northamptonshire Regiment (known as the Steelbacks) and members of the Singapore Cricket Club (SCC) were the first devotees. By 1891, 30 years before the Malaya Cup began, interest in the sport had swelled considerably. There were 24 football teams recorded, including one each from the Straits Chinese Recreation Club (SCRC) and the Singapore Recreation Club (SRC). However, there was no official organising body for the game until the Singapore Football Association was established in 1892.[^1]
 
-The Malaya Cup was formed after Captain H.T. Buller of the HMS Malaya donated two silver challenge trophies for football and rugby.[^2] The battleship was visiting the region to acknowledge the contributions of Malayans to the war effort.[^3] It arrived in Singapore on 29 January 1921 via Port Swettenham (now Port Klang), and the crew played friendly football matches against the five teams in the Singapore Football Association League: the Staffordshire Regiment (Army), Singapore Chinese Football Association (SCFA), the SCC, the SRC and Sea Defences (troops manning the coastal defences).
+The Malaya Cup was formed after Captain H.T. Buller of the HMS _Malaya_ donated two silver challenge trophies for football and rugby.[^2] The battleship was visiting the region to acknowledge the contributions of Malayans to the war effort.[^3] It arrived in Singapore on 29 January 1921 via Port Swettenham (now Port Klang), and the crew played friendly football matches against the five teams in the Singapore Football Association League: the Staffordshire Regiment (Army), Singapore Chinese Football Association (SCFA), the SCC, the SRC and Sea Defences (troops manning the coastal defences).
 
 Initially, expatriate military personnel in Singapore were permitted to play in the Malaya Cup, but this would last for one season only as it was felt that their inclusion would dominate the competition and limit local participation. After the 1921 competition, there were no representatives from the army or navy until 1932. Members of the SCC were selected in the early competitions, but gradually players from the SCFA, the Malayan Football Association and the SRC formed the backbone of the teams. The Malaya Cup became the preserve of Malay and Chinese players during the interwar period, with rare appearances by Eurasian and European civilian representatives.
 
@@ -47,6 +47,9 @@ Any list of Singapore’s best footballers will be a subjective one of course. O
 |Tay Kwee Liang|0|NIL|NIL|
 
 #### **Abdul Fattah (Dolfattah)**
+
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/dolfattah.jpg)
+<div style="background-color: white;">Abdul Fattah (Dolfattah). <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (4 wins)
 <br>Malaya Cup (1927–35)<br>
@@ -186,7 +189,7 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/hannahyeo.png" style="width: 100px; height: 100px;">
-<b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of Sport in Singapore: The Colonial Legacy (2019) and Sport in Singapore: The Rocky Road to Kallang Park (2023).  </div>
+<b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He is the author of Sport in Singapore: The Colonial Legacy (2019)</i> and <i>Sport in Singapore: The Rocky Road to Kallang Park (2023).</i></div>
 
 #### **Notes**
 
