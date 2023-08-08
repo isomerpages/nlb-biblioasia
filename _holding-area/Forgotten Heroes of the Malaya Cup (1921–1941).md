@@ -7,7 +7,7 @@ description: We remember some legendary players of the interwar years who left
 #### We remember some legendary players of the interwar years who left an indelible mark on the local football scene. 
 By Dr Nick Aplin
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/MalayaCupHeader.jpg)
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/malayacupheader.jpg)
 <div style="background-color: white;">In the 1933 Malaya Cup final, Singapore defeated Selangor 8–2. Almost 10,000 spectators watched the match held at Anson Road Stadium in Singapore. <i>The Straits Times </i> described it as “one ofthe finest finals that has ever been played in the competition”. <i>Source: The Sunday Times, 6 August 1933 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 What does it take to become recognised as a hero in Singapore soccer? One answer is that you play for a successful team with talented teammates, and an extensive and supportive fan base. Maybe a player turned national coach. To be called a hero is very challenging indeed. Memories can fade. Names forgotten. Injuries intrude. And reputations suffer.
@@ -222,10 +222,15 @@ All of these men achieved something special in the world of football in the year
 
 Today’s talk of the greatest players from Singapore rarely deviates from the players of recent memory, and even then, many are forgotten or marginalised. These names are presented here to remind people that there were great players who laid the foundation for a lasting football legacy in Singapore. They were indeed trailblazers who paved the way for the football heroes who came after them.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger">
+<img style="width: 30%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/malayacupqrcode.jpg">
+<br>
+For more player profiles, visit <a href="https://go.gov.sg/malaya-cup-heroes-singapore"><i>https://go.gov.sg/malaya-cup-heroes-singapore</i></a> or scan this QR code.<br>
+</div>
+
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/hannahyeo.png" style="width: 100px; height: 100px;">
-<b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He is the author of Sport in Singapore: The Colonial Legacy (2019)</i> and <i>Sport in Singapore: The Rocky Road to Kallang Park (2023).</i></div>
+Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He is the author of Sport in Singapore: The Colonial Legacy (2019)</i> and <i>Sport in Singapore: The Rocky Road to Kallang Park (2023).</i></div>
 
 #### **Notes**
 
@@ -291,7 +296,7 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 
 [^31]: Nick Aplin, [_Sport in Singapore: The Colonial Legacy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203990042) (Singapore: Straits Times Press, 2019), 139–40. (From National Library, Singapore, call no. RSING 796.095957 APL)
 
-[^32]: “[Malayan Chinese at the Olympic Games in Berlin](https://eresources.nlb.gov.sg/newspapers/digitised/articles/straitstimes19360802-1.2.131),” _Sunday Times_, 2 August 1936, 22. (From NewspaperSG)
+[^32]: “[Malayan Chinese at the Olympic Games in Berlin](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360802-1.2.131),” _Sunday Times_, 2 August 1936, 22. (From NewspaperSG)
 
 [^33]: “[Quee Liang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340109-1.2.125),” _Malaya Tribune_, 9 January 1934, 12. (From NewspaperSG)
 

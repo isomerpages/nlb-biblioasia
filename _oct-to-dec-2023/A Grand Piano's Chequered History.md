@@ -11,7 +11,7 @@ By Bernard T.G. Tan
 ![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/irene%20kohler.jpg)
 <div style="background-color: white;">British pianist Irene Kohler, who played on the Chappell grand piano, photographed before her recital at the Victoria Memorial Hall, 1956. <i>Marjorie Doggett Collection, courtesy of National Archives of Singapore.</i></div>
 
-If you are around the foyer of the National Library Building on Victoria Street, you might spy a nondescript grand piano. Closer perusal reveals obvious wear and tear on its once glossy black sides and lid. A full-sized concert grand made by the English piano manufacturer Chappell, this stately septuagenarian was formerly the principal concert grand at the Victoria Memorial Hall (now Victoria Concert Hall) where famous pianists like Claudio Arrau and Julius Katchen once performed.
+If you visit the National Library Building on Victoria Street, you might spy a nondescript grand piano. Closer perusal reveals obvious wear and tear on its once glossy black sides and lid. A full-sized concert grand made by the English piano manufacturer Chappell, this stately septuagenarian was formerly the principal concert grand at the Victoria Memorial Hall (now Victoria Concert Hall) where famous pianists like Claudio Arrau and Julius Katchen once performed.
 
 ![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/victoria_hall.jpg)
 <div style="background-color: white;">
