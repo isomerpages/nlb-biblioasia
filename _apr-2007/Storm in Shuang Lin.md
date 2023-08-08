@@ -117,37 +117,37 @@ Alan Houghton Brodrick,** [_Beyond the Burma Road_](https://eservice.nlb.gov.sg/
 
 Brian P. Farrell, [_The Defence and Fall of Singapore 1941–42_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12519274) (Stroud: Tempus, 2005). (Call no. RSING 940.5425 FAR)
 
-C.F. Yong, [_Chinese Leadership and Power in Colonial Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6421722) **(Singapore: Times Academic Press, 1992). (Call no. RSING 959.5702 YON)**
+C.F. Yong, [_Chinese Leadership and Power in Colonial Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6421722) (Singapore: Times Academic Press, 1992). (Call no. RSING 959.5702 YON)
 
-**C.M. Turnbull,** [_A History of Singapore, 1819–1988_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825) (Singapore: Oxford University Press, 1989). (Call no. RSING 959.57 TUR)
+C.M. Turnbull, [_A History of Singapore, 1819–1988_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825) (Singapore: Oxford University Press, 1989). (Call no. RSING 959.57 TUR)
 
-**Daniel Chew and Irene Lim, eds.,** [_Sook Ching_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6300605) **(Singapore: Oral History Department, 1992. (Call no. RSING 959.57023 SOO)**
+Daniel Chew and Irene Lim, eds., [_Sook Ching_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6300605) (Singapore: Oral History Department, 1992. (Call no. RSING 959.57023 SOO)
 
-**Gretchen Liu_,_** [_In Granite and Chunam: The National Monuments of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7919754) **(Singapore: Landmark Books and Preservation of Monuments Board, 1996). (Call no. RSING 725.94095957 LIU)**
+Gretchen Liu, [_In Granite and Chunam: The National Monuments of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7919754) (Singapore: Landmark Books and Preservation of Monuments Board, 1996). (Call no. RSING 725.94095957 LIU)
 
-**Gretchen Liu,** [_Singapore: A Pictorial History, 1819–2000_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9651676) **(Singapore: Archipelago Press in association with the National Heritage Board, 1999). (Call no. RSING 959.57 LIU)**
+Gretchen Liu, [_Singapore: A Pictorial History, 1819–2000_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9651676) (Singapore: Archipelago Press in association with the National Heritage Board, 1999). (Call no. RSING 959.57 LIU)
 
-[_History of the Chinese Clan Associations in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4758114) **(1986) (Singapore: Singapore News &amp; Publications Ltd, 1986). (Call no. RSING q959.57 HIS)**
+[_History of the Chinese Clan Associations in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4758114) (Singapore: Singapore News &amp; Publications Ltd, 1986). (Call no. RSING q959.57 HIS)
 
-**Ian Ward,** [_The Killer They Called a God_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6371610) **(Singapore: Media Masters, 1992). (Call no. RSING 959.57023 WAR)**
+Ian Ward, [_The Killer They Called a God_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6371610) (Singapore: Media Masters, 1992). (Call no. RSING 959.57023 WAR)
 
-**J.A.G. Roberts,** [_The Complete History of China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772435) **(Gloucestershire: Sutton Pub., 2003). (Call no. R 951 ROB)**
+J.A.G. Roberts, [_The Complete History of China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772435) (Gloucestershire: Sutton Pub., 2003). (Call no. R 951 ROB)
 
-**Jon Latimer,** [_Burma: The Forgotten War_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12410075) **(London: John Murray, 2004). (Call no. RSEA 940.5425 LAT)**
+Jon Latimer, [_Burma: The Forgotten War_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12410075) (London: John Murray, 2004). (Call no. RSEA 940.5425 LAT)
 
-**Lee Geok Boi,** [_Syonan: Singapore Under the Japanese 1942–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6272416) **(Singapore: Singapore Heritage Society, 1992). (Call no. RCLOS 959.57 LEE)**
+Lee Geok Boi, [_Syonan: Singapore Under the Japanese 1942–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6272416) (Singapore: Singapore Heritage Society, 1992). (Call no. RCLOS 959.57 LEE)
 
-**Lee Lai To, ed.,** [_Early Chinese Immigrant Societies: Case Studies From North America and British Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5079765) **(Singapore: Heinemann Asia, 1988). (Call no. RSING 305.8951059 EAR)**
+Lee Lai To, ed., [_Early Chinese Immigrant Societies: Case Studies From North America and British Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5079765) (Singapore: Heinemann Asia, 1988). (Call no. RSING 305.8951059 EAR)
 
-**Lee Poh Ping,** [_Chinese Society in Nineteenth Century Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1455871) **(New York: Oxford University Press, 1978). (Call no. RSING 301.45195105957 LEE)**
+Lee Poh Ping, [_Chinese Society in Nineteenth Century Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1455871) (New York: Oxford University Press, 1978). (Call no. RSING 301.45195105957 LEE)
 
-**Lee Poh Ping,** [_Chinese Society in Nineteenth and Early Twentieth Century Singapore: A Socioeconomic Analysis_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4716526) **(\[Ithaca, N.Y.\]: Cornell University, 1974). (Call no. RCLOS 301.45195105957 LEE)**
+Lee Poh Ping, [_Chinese Society in Nineteenth and Early Twentieth Century Singapore: A Socioeconomic Analysis_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4716526) (\[Ithaca, N.Y.\]: Cornell University, 1974). (Call no. RCLOS 301.45195105957 LEE)
 
-**Leslie Anders,** [_The Ledo Road; General Joseph W. Stilwell’s Highway to China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1664227) **(Norman: University of Oklahoma Press, \[1965\]). (Call no. RUR 940.5425 AND)**
+Leslie Anders, [_The Ledo Road; General Joseph W. Stilwell’s Highway to China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1664227) (Norman: University of Oklahoma Press, \[1965\]). (Call no. RUR 940.5425 AND)
 
-**Louis Allen,** [_Singapore, 1941–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6703022) **(London: Frank Cass, 1993). (Call no. RSING 940.5425 ALL)**
+Louis Allen, [_Singapore, 1941–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6703022) (London: Frank Cass, 1993). (Call no. RSING 940.5425 ALL)
 
-[Low Cheng Gin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e670712a-115d-11e3-83d5-0050568939ad)**, oral history interview by Yeo Geok Lee, 3 June 1983–12 August 1983, transcript, MP 3 audio, Reel/Disc 1 to 23, National Archives of Singapore (accession no. 000287)**
+[Low Cheng Gin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e670712a-115d-11e3-83d5-0050568939ad), oral history interview by Yeo Geok Lee, 3 June 1983–12 August 1983, transcript, MP 3 audio, Reel/Disc 1 to 23, National Archives of Singapore (accession no. 000287)
 
 Low N. I., [_When Singapore Was Syonan-To_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7479976) (Singapore: Times Books International, 1995). (Call no. RSING 959.57023 LOW)
 
@@ -155,34 +155,35 @@ Mamoru Shinozaki, [_Syonan, My Story: The Japanese Occupation of Singapore_](htt
 
 Masanobu Tsuji, [_Singapore 1941–1942: The Japanese Version of the Malayan Campaign of World War_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4660767), trans. Margaret E. Lake (Oxford University Press, 1988). (Call no. RSING 940.5425 TSU-\[WAR\])
 
-&nbsp;[Ng Aik Huan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/342d9dd6-1160-11e3-83d5-0050568939ad), oral history interview by Tan Ban Huat/Tan Beng Luan, 3 April 1981–10 July 1984, transcript, MP3 audio, Reel/Disc 1 to 15, National Archives of Singapore (accession no. 000035)
+[Ng Aik Huan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/342d9dd6-1160-11e3-83d5-0050568939ad), oral history interview by Tan Ban Huat/Tan Beng Luan, 3 April 1981–10 July 1984, transcript, MP3 audio, Reel/Disc 1 to 15, National Archives of Singapore (accession no. 000035)
 
 [Pek Cheng Chuan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ded10e1b-115d-11e3-83d5-0050568939ad), oral history interview by Lim How Seng, 23 July 1980, transcript, MP3 audio, Reel/Disc 1 to 8, National Archives of Singapore (accession no. 000027)
 
 Peter Duus, Ramon H. Myers, and Mark R. Peattie, eds., [_The Japanese Wartime Empire, 1931–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7597891) (Princeton, N.J.: Princeton University Press, 1996). (Call no. RSING 950.41 JAP)
 
-**Peter Elphick,** [_Singapore: The Pregnable Fortress: A Study in Deception, Discord and Desertion_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7400507) **(London: Hodder &amp; Stoughton, 1995). (Call no. RCLOS 940.5425 ELP)**
+Peter Elphick, [_Singapore: The Pregnable Fortress: A Study in Deception, Discord and Desertion_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7400507) (London: Hodder &amp; Stoughton, 1995). (Call no. RCLOS 940.5425 ELP)
 
-**Peter Thompson,** [_The Battle for Singapore: The True Story of the Greatest Catastrophe of World War II_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200184105) **(London: Portrait/Piatkus, 2005). (Call no. 940.5425 THO)**
+Peter Thompson, [_The Battle for Singapore: The True Story of the Greatest Catastrophe of World War II_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200184105) (London: Portrait/Piatkus, 2005). (Call no. 940.5425 THO)**
 
-**Richard Gough,** [_SOE Singapore: 1941–42_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9765435) **(Singapore: Raffles, 2000). (Call no. RSING 940.5425 GOU)**
+Richard Gough, [_SOE Singapore: 1941–42_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9765435) (Singapore: Raffles, 2000). (Call no. RSING 940.5425 GOU)**
 
-**S. Woodburn Kirby et al.,** [_The War Against Japan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5802848) **(India: Natraj, 1989). (Call no. RUR 940.542 KIR)**
+S. Woodburn Kirby et al., [_The War Against Japan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5802848) (India: Natraj, 1989). (Call no. RUR 940.542 KIR)
 
-[See Hong Peng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1b767eb-115d-11e3-83d5-0050568939ad)**, oral history interview by Chua Ser Koon, 21 November 1981–3 February 1982, transcript, MP3 audio, Reel/Disc 1 to 31, National Archives of Singapore (accession no. 000135)**
+[See Hong Peng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e1b767eb-115d-11e3-83d5-0050568939ad), oral history interview by Chua Ser Koon, 21 November 1981–3 February 1982, transcript, MP3 audio, Reel/Disc 1 to 31, National Archives of Singapore (accession no. 000135)
 
-**Shu Yun-Tsiao and Chua Ser-Koon, eds.,** [_Malayan Chinese Resistance to Japan 1937–1945: Selected Source Materials Based on Colonel Chuang Hui-Tsuan’s Collection_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200030311) **(Singapore: Cultural &amp; Historical Pub. House, 1984). (From PublicationSG)**
+Shu Yun-Tsiao and Chua Ser-Koon, eds., [_Malayan Chinese Resistance to Japan 1937–1945: Selected Source Materials Based on Colonel Chuang Hui-Tsuan’s Collection_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200030311) (Singapore: Cultural &amp; Historical Pub. House, 1984). (From PublicationSG)
 
-**Tan Pei-Ying,** [_The Building of the Burma Road_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1526590) **(London: Whittlesey House, McGraw-Hill Book Co., Inc., \[1945\]). (Call no. RUR 940.5472591 TAN)**
+Tan Pei-Ying, [_The Building of the Burma Road_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1526590) (London: Whittlesey House, McGraw-Hill Book Co., Inc., \[1945\]). (Call no. RUR 940.5472591 TAN)
 
-[Tay Yen Hoon](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e5579613-115d-11e3-83d5-0050568939ad)**, oral history interview by Chua Ser Koon, 17 June 1984–27 July 1983, transcript, MP3 audio, Reel/Disc 1 to 17, National Archives of Singapore (accession no. 000281)**
+[Tay Yen Hoon](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e5579613-115d-11e3-83d5-0050568939ad), oral history interview by Chua Ser Koon, 17 June 1984–27 July 1983, transcript, MP3 audio, Reel/Disc 1 to 17, National Archives of Singapore (accession no. 000281)
 
-**The Singapore Press**
+The Singapore Press
 
-**The Syonan Times**
+The Syonan Times
 
-**Xu Yunqiao and Cai Shijun** **许云樵** **and** **蔡史君****, _Xin Ma Hua ren kang Ri shi liao 1937–1945_** [新马华人抗日史料 1937–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84454889) **\[Malayan Chinese resistance to Japan 1937–1945\] (Xinjiapo** **新加坡****: Wen shi chu ban gong si** **文史出版公司****, 1984). (Call no. Chinese RSING 959.57023 MAL)**
+Xu Yunqiao and Cai Shijun 许云樵 and 蔡史君, _Xin Ma Hua ren kang Ri shi liao 1937–1945_** [新马华人抗日史料 1937–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84454889) \[Malayan Chinese resistance to Japan 1937–1945\] (Xinjiapo 新加坡: Wen shi chu ban gong si 文史出版公司, 1984). (Call no. Chinese RSING 959.57023 MAL)
 
-**(Chinese references – cannot be copied)**
+(Chinese references – cannot be copied)
+
 
 
