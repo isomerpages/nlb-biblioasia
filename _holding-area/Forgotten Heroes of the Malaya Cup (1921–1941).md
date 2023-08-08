@@ -48,8 +48,6 @@ Any list of Singapore’s best footballers will be a subjective one of course. O
 
 #### **Abdul Fattah (Dolfattah)**
 
-
-
 6 appearances in the Malaya Cup final (4 wins)
 <br>Malaya Cup (1927–35)<br>
 Kota Raja Football Club (1926)
