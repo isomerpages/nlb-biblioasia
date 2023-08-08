@@ -51,7 +51,7 @@ The main thing that particularly surprised me was to find that the piano’s man
 
 Furthermore, bass keys with trichords tend to get out of tune more easily than keys with monochords. This helps to explain why the top master pianists at the time had so many complaints about the sound of the Chappell. The construction of the piano was inherently wrong from the start and cannot be reversed, unless all the trichords are replaced with monochords. If only I could travel back in the time to inform the manufacturer to use monochords for the bass notes, the fate of this glorious grand piano would probably have been very different.
 
-![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/scratches1.jpg)<br>![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/smoothen1.jpg)
+![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/scratches%202.jpg)<br>![](/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/smoothen%202.jpg)
 <div style="background-color: white;text-align:center">Removing deep scratches and smoothening the surface of the piano before giving it a coat of paint.</div>
 
 I am happy to be given the opportunity to restore this unique instrument and give it a new lease of life. It is a precious piece of Singapore history and ought to be preserved in a playable condition so that it can continue to bring joy and pleasure to Singaporeans in the years ahead.

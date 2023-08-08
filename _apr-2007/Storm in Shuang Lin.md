@@ -34,8 +34,4 @@ The Shuang Lin Monastery was founded in 189B by Mr Low Kim Pong when he invited 
 
 Mr Ng recalled training and testing the candidates at the Shuang Lin Monastery, and described the training location as a "very big place" that was acquired by the government amid the post-war housing development projects. Dr Low Cheng Jin, grandson of Mr Low Kim Pong, mentioned that the training was conducted "behind the temple" where "entry could be made by the other side, not necessary through the temple's gate". At the back of the temple was a piece of open land with access roads.
 
-On 7 July 1939, Mr Tan Kah Kee issued a notice4 for more volunteers and cited recruitment efforts in Singapore, mentioning the recruitment of 200 semi-skilled drivers who were trained at a •distant location with rough terrain " for about three weeks. He then recommended other China Relief Fund local offices to adopt similar strategies to produce more qualified volunteers. The "distant location with rough terrain" was probably the land behind the monastery.
-
-
-
-
+On 7 July 1939, Mr Tan Kah Kee issued a notice4 for more volunteers and cited recruitment efforts in Singapore, mentioning the recruitment of 200 semi-skilled drivers who were trained at a "distant location with rough terrain " for about three weeks. He then recommended other China Relief Fund local offices to adopt similar strategies to produce more qualified volunteers. The "distant location with rough terrain" was probably the land behind the monastery.

@@ -7,6 +7,9 @@ description: We remember some legendary players of the interwar years who left
 #### We remember some legendary players of the interwar years who left an indelible mark on the local football scene. 
 By Dr Nick Aplin
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/MalayaCupHeader.jpg)
+<div style="background-color: white;">In the 1933 Malaya Cup final, Singapore defeated Selangor 8–2. Almost 10,000 spectators watched the match held at Anson Road Stadium in Singapore. <i>The Straits Times </i> described it as “one ofthe finest finals that has ever been played in the competition”. <i>Source: The Sunday Times, 6 August 1933 © SPH Media Limited. Permission required for reproduction.</i></div>
+
 What does it take to become recognised as a hero in Singapore soccer? One answer is that you play for a successful team with talented teammates, and an extensive and supportive fan base. Maybe a player turned national coach. To be called a hero is very challenging indeed. Memories can fade. Names forgotten. Injuries intrude. And reputations suffer.
 
 If you ask people today who their football heroes are, they are likely to cite people they have seen in action. Relying on this approach, however, means that we will miss out players from arguably the most important period in Singapore’s football history: the prewar period.
@@ -15,9 +18,9 @@ Singapore won the Malaya Cup (renamed Malaysia Cup in 1967) 12 times between 192
 
 #### **The Beginnings of the HMS Malaya Cup**
 
-The game of association football (or football as it is better known today) was established in Singapore in 1889. Maritime or marine engineers, soldiers from the 58th Northamptonshire Regiment (known as the Steelbacks) and members of the Singapore Cricket Club (SCC) were the first devotees. By 1891, 30 years before the Malaya Cup began, interest in the sport had swelled considerably. There were 24 football teams recorded, including one each from the Straits Chinese Recreation Club (SCRC) and the Singapore Recreation Club (SRC). However, there was no official organising body for the game until the Singapore Football Association was established in 1892.[^1]
+The game of association football (or football as it is better known today) was established in Singapore in 1889. Maritime or marine engineers, soldiers from the 58th Northamptonshire Regiment (known as the Steelbacks) and members of the Singapore Cricket Club (SCC) were the first devotees. By 1891, 30 years before the Malaya Cup began, interest in the sport had swelled considerably. There were 24 football teams recorded, including one each from the Straits Chinese Recreation Club (SCRC) and the Singapore Recreation Club (SRC). However, there was no official organising body for the game until the Singapore Football Association was established in 1892. (renamed Singapore Amateur Football Association in 1929 and then Football Association of Singapore in 1966).[^1]
 
-The Malaya Cup was formed after Captain H.T. Buller of the HMS Malaya donated two silver challenge trophies for football and rugby.[^2] The battleship was visiting the region to acknowledge the contributions of Malayans to the war effort.[^3] It arrived in Singapore on 29 January 1921 via Port Swettenham (now Port Klang), and the crew played friendly football matches against the five teams in the Singapore Football Association League: the Staffordshire Regiment (Army), Singapore Chinese Football Association (SCFA), the SCC, the SRC and Sea Defences (troops manning the coastal defences).
+The Malaya Cup was formed after Captain H.T. Buller of the HMS _Malaya_ donated two silver challenge trophies for football and rugby.[^2] The battleship was visiting the region to acknowledge the contributions of Malayans to the war effort.[^3] It arrived in Singapore on 29 January 1921 via Port Swettenham (now Port Klang), and the crew played friendly football matches against the five teams in the Singapore Football Association League: the Staffordshire Regiment (Army), Singapore Chinese Football Association (SCFA), the SCC, the SRC and Sea Defences (troops manning the coastal defences).
 
 Initially, expatriate military personnel in Singapore were permitted to play in the Malaya Cup, but this would last for one season only as it was felt that their inclusion would dominate the competition and limit local participation. After the 1921 competition, there were no representatives from the army or navy until 1932. Members of the SCC were selected in the early competitions, but gradually players from the SCFA, the Malayan Football Association and the SRC formed the backbone of the teams. The Malaya Cup became the preserve of Malay and Chinese players during the interwar period, with rare appearances by Eurasian and European civilian representatives.
 
@@ -37,13 +40,19 @@ Any list of Singapore’s best footballers will be a subjective one of course. O
 |Lancelot Pennefather|6|1922-28|4|
 |Lim Yong Liang|6|1922-28|3|
 |Choy Khun Onn|5|1930-36|1|
-|Chia Keng Hock|5|1931-1936|2|
+|Chia Keng Hock|5|1931-36|2|
 |Yeo Ah Kow|4|1929-34|4|
 |Chee Ah Hui|2|1930-33|2|
 |Choo Seng Quee|2|1937-38|1|
 |Tay Kwee Liang|0|NIL|NIL|
 
+<div style="background-color: white;"><i>(Note: Because of space constraints in the print magazine, we can only feature some of these
+	men. The online version of the essay has biographical profiles of other legends on this list.)</i></div>
+
 #### **Abdul Fattah (Dolfattah)**
+
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/dolfattah.jpg)
+<div style="background-color: white;">Abdul Fattah (Dolfattah). <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (4 wins)
 <br>Malaya Cup (1927–35)<br>
@@ -59,6 +68,10 @@ Dolfattah scored 35 goals in 23 Malaya Cup games between 1927 and 1933 – a str
 
 #### **Abdul Rahman Haji Ali**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/abdulrahmanhajiali.jpg)
+<div style="background-color: white;">Abdul Rahman delivering one of his powerful clearance shots at a
+training session. <i>Image reproduced from “He’s a Certainty,” Malaya Tribune, 21 June 1940, 6. (From NewspaperSG).</i></div>
+
 7 appearances in the Malaya Cup final (5 wins)
 <br>Malaya Cup (1933- 41)<br>
 
@@ -72,6 +85,9 @@ Islington Corinthians, an amateur English team based in London that was on a wor
 Like Chua Boon Lay, Abdul Rahman was a champion athlete at school and won the individual championship in the All-Muslim Jubilee sports in 1935. He was also an excellent rugby player, representing the Singapore Asiatic team from 1935. After 1938, Abdul Rahman was appointed captain of the Malay Football Association team.[^11]
 
 #### **Chee Ah Hui**
+
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto.jpg)
+<div style="background-color: white;">Chee Ah Hui. <i>Source: The Straits Times, 2 August 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 2 appearances in the Malaya Cup final (2 wins)
 <br>Malaya Cup (1930 and 1933)<br>
@@ -87,6 +103,9 @@ Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Sh
 
 #### **Choo Seng Quee**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee.jpg)
+<div style="background-color: white;">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
+
 2 appearances in the Malaya Cup final (1 win)
 <br>Malaya Cup (1937–38)<br>
 Singapore Chinese Football Association (1933–39)
@@ -100,6 +119,10 @@ One of Choo’s greatest achievements was guiding Singapore to win the Malaysia 
 
 #### **Chua Boon Lay**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chuaboonlay.jpg)
+<div style="background-color: white;">Chua Boon Lay. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan
+	Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+
 8 appearances in the Malaya Cup final (6 wins)
 <br>Malaya Cup (1926–37)<br> 
 Siong Boo Athletic Association 
@@ -108,13 +131,16 @@ Amateur Sporting Association
 <br>Singapore Chinese Football Association (1923–37 
 and 1945–49)<br>
 
-Chua Boon Lay was known as “Towkay Ayam” (“chicken boss”) because of his association with the poultry business at Lau Pa Sat (Telok Ayer Market).[^18] Standing at 1.82 m – one of the tallest players in the Singapore team – the Straits Times described him as “a brilliant header and very speedy” and “one of the few full-backs who could out-head and out-pace little Mat Noor [Mohamed Noor Kassim] of the Malays”.[^19] 
+Chua Boon Lay was known as “Towkay Ayam” (“chicken boss”) because of his association with the poultry business at Lau Pa Sat (Telok Ayer Market).[^18] Standing at 1.82 m – one of the tallest players in the Singapore team – the _Straits Times_ described him as “a brilliant header and very speedy” and “one of the few full-backs who could out-head and out-pace little Mat Noor [Mohamed Noor Kassim] of the Malays”.[^19] 
 
 Chua also played basketball for Siong Boo Athletic Association and was a top-class track athlete, clinching gold in the 100-, 400- and 800-metre races at the 1931 Singapore Chinese Sports meet.[^20] He represented Singapore in the Malayan Chinese Olympiads in athletics in 1937, and was also a talented billiard player.[^21]
 
 During the Japanese Occupation (1942–45), Chua became a committee member of the football section of the Syonan Sports Association established by the Japanese. In 1948, after the war ended, he joined the China football team as a coach for the London Olympic Games.
 
 #### **Lim Yong Liang**
+
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian.jpg)
+<div style="background-color: white;">Lim Yong Liang, 1930. <i>Courtesy of Alex Chua (grandson of Chua Boon Lay).</i></div>
 
 6 appearances in the Malaya Cup final (3 wins)
 <br>Malaya Cup (1922–30)<br> 
@@ -130,6 +156,9 @@ After the war, Lim became a major advocate for football as an adviser and mentor
 
 #### **Mohamed Noor Kassim (Mat Noor)**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/noorkassim.jpg)
+<div style="background-color: white;">Mat Noor heading the ball at the Anson Road Stadium during a match against Johor in the southern section of the Malaya Cup competition. <i>Image reproduced from “Johore Beaten by Eight Goals,” Malaya Tribune, 22 June 1935, 15. (From NewspaperSG).</i></div>
+
 7 appearances in the Malaya Cup final (4 wins) 
 <br>Malaya Cup (1928–35)<br>
 Darul Bahar Football Club
@@ -141,6 +170,9 @@ Playing at inside right, Mat Noor was considered one of the most celebrated Mala
 Mat Noor played in the 1933 Malaya Cup final that recorded Singapore’s most one-sided victory (8–2) against Selangor. Like Dolfattah, he was suspended in 1934 for accepting payment for participating in a tour to Java, but was reinstated in 1935.[^27]
 
 #### **Lancelot Maurice Pennefather**
+
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/lancelot.jpg)
+<div style="background-color: white;">Lancelot Maurice Pennefather. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (4 wins) 
 <br>Malaya Cup (1922–28)<br>
@@ -154,6 +186,9 @@ Pennefather was a certainty to play in the first Malaya Cup final in 1921 but ch
 
 #### **Roy Fairley Smith**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/smithphoto.jpg)
+<div style="background-color: white;">Roy Fairley Smith. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+
 6 appearances in the Malaya Cup final (3 wins)
 <br>Malaya Cup (1922–27)<br> 
 Singapore Cricket Club (1917–28)
@@ -166,6 +201,10 @@ Smith’s Malaya Cup performances over seven seasons (1921–27) were remarkable
 
 #### **Tay Kwee Liang**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/kweeliang.jpg)
+<div style="background-color: white;">Tay Kwee Liang, 1933. <i>Image reproduced from “Choosing Malaya’s Best Footballer,” Malaya
+	Tribune, 11 November 1933. (From Newspaper SG).</i></div>
+
 Amicable Athletic Association
 <br>Bendemeer Athletic Club<br>
 Singapore Chinese Football Association
@@ -173,6 +212,9 @@ Singapore Chinese Football Association
 You might wonder why Tay Kwee Liang appears in this table since he did not play in any Malaya Cup final. He may not have been in the Malaya Cup, but he was involved in something even bigger – the Olympics.[^32] Born in Singapore in 1910 (his family was originally from Guangdong, China), Tay played for the Amicable Athletic Association, Bendemeer Athletic Club and Singapore Chinese Football Association.
 
 In 1933, he joined the South China Athletic Association team in Hong Kong,[^33] and at the 1934 Far Eastern Games, he was a member of the Chinese team that won the championship. Two years later, Tay was selected to represent China at the 1936 Olympic Games in Berlin, along with Chua Boon Lay and Chee Ah Hui (although Tay is rarely mentioned alongside these two men). Besides football, Tay also excelled in table tennis, and was the national table tennis champion of Singapore in 1931.[^34]
+
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/taykweeliangcert.jpg)
+<div style="background-color: white;">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div>
 
 #### **The Legends and Their Legacy**
 
@@ -183,11 +225,11 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/hannahyeo.png" style="width: 100px; height: 100px;">
-<b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of Sport in Singapore: The Colonial Legacy (2019) and Sport in Singapore: The Rocky Road to Kallang Park (2023).  </div>
+<b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He is the author of Sport in Singapore: The Colonial Legacy (2019)</i> and <i>Sport in Singapore: The Rocky Road to Kallang Park (2023).</i></div>
 
 #### **Notes**
 
-[^1]: The Singapore Football Association was founded in the same year that Liverpool Football Cub first appeared in England.
+[^1]: “[Singapore Football Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920806-1.2.5),”&nbsp;_Singapore Free Press and Mercantile Advertiser_, 6 August 1892, 2; “[Local Football](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19290522-1.2.122),”&nbsp;_Singapore Free Press and Mercantile Advertiser (Weekly)_, 22 May 1929, 14; “[It's the F.A. of S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660114-1.2.118.3),”&nbsp;_Straits Times_, 14 January 1966, 19. (From NewspaperSG). \[The Singapore Football Association was founded in the same year that Liverpool Football Club first appeared in England.\]
 
 [^2]: “[Two Beautiful Cups](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350810-1.2.116),” _Malaya Tribune_, 10 August 1935, 15. (From NewspaperSG)
 
@@ -201,7 +243,7 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 
 [^7]: “[Football: Dolfattah’s Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malaccaguardian19290819-1.2.21.4),” _Malacca Guardian_, 19 August 1929, 9. (From NewspaperSG)
 
-&nbsp;[^8]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87),” _Straits Times_, 17 August 1947, 10. (From NewspaperSG)
+[^8]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87),” _Straits Times_, 17 August 1947, 10. (From NewspaperSG)
 
 [^9]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87).”
 
