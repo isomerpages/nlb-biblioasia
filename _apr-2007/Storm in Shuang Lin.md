@@ -106,7 +106,15 @@ The volunteers to the Burma Road and their supporters were people from all walks
 
 As the place where volunteers were trained and whose Abbot paid a heavy price during Sook Ching, Shuang Lin Monastery is one of the few institutions30 related to Burma Road volunteers that still exist, making it a "living" institution and a depository for the nation's collective social memories. The monastery was gazetted as a National Monument on 17 October 1980, and has embarked on a restoration project that continues to this day.
 
+<div>
+<center><b>Chan Chow Wah</b><br>Lee Kong Chian Research Fellow</center></div>
+
+
+
+      
 
 
 
 
+
+       
