@@ -291,7 +291,7 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 
 [^31]: Nick Aplin, [_Sport in Singapore: The Colonial Legacy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203990042) (Singapore: Straits Times Press, 2019), 139–40. (From National Library, Singapore, call no. RSING 796.095957 APL)
 
-[^32]: “[Malayan Chinese at the Olympic Games in Berlin](https://eresources.nlb.gov.sg/newspapers/digitised/articles/straitstimes19360802-1.2.131),” _Sunday Times_, 2 August 1936, 22. (From NewspaperSG)
+[^32]: “[Malayan Chinese at the Olympic Games in Berlin](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360802-1.2.131),” _Sunday Times_, 2 August 1936, 22. (From NewspaperSG)
 
 [^33]: “[Quee Liang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340109-1.2.125),” _Malaya Tribune_, 9 January 1934, 12. (From NewspaperSG)
 
