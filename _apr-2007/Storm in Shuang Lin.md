@@ -51,6 +51,10 @@ probably the land behind the monastery.
 #### **On To The Burma Road**
 Qualified volunteers from Nanyang converged in Singapore to form a batch Between February and August 1939, about 3,200[^5] volunteers left in nine batches. The majority were Chinese men, but there were also Indians. Malays and four Chinese women.[^6] These volunteers were known as Drivers and Mechanics from Nanyang. About 1,000 of them died in service, 1,000 settled in China and others returned to Nanyang after the war.
 
+<img src="/images/Vol%203%20Issue%201/ShuangLin/convoys%20ascending.jpg" style="width:50%;">
+ <div style="background-color: white;">Convoys ascending a famous 21-curve stretch along Burma Road. <i>CMH Online, Army Center of Military History</i></div>
+
+
 China's wartime leader Chiang Kai Shek said that the volunteers "spontaneous offer of service to the country in the hour of crisis has not only brought material aid to China in the war of independence, but has also demonstrated to the world that the Chinese people everywhere are united by common loyalty".[^7]
 
 One of the volunteers who were trained in the Driving institute was Mr Wu Hui Min. 
