@@ -106,6 +106,8 @@ The volunteers to the Burma Road and their supporters were people from all walks
 
 As the place where volunteers were trained and whose Abbot paid a heavy price during Sook Ching, Shuang Lin Monastery is one of the few institutions[^30] related to Burma Road volunteers that still exist, making it a "living" institution and a depository for the nation's collective social memories. The monastery was gazetted as a National Monument on 17 October 1980, and has embarked on a restoration project that continues to this day.
 
+***This is an extract from a paper, Storm in Shuang Lin: Ethnography of Social Actors in the Political Climate of 1939–1942, by Mr Chan Chow Wah, a Fellow of the Royal Anthropological Institute and Member of the American Anthropological Association. He presented this paper in December 2006 as part of the inaugural Lee Kong Chian Research Fellowship Series.***
+
 <div>
 <center><b>Chan Chow Wah</b><br>Lee 
 Kong Chian Research Fellow</center></div>
@@ -246,6 +248,3 @@ Xu Yunqiao and Cai Shijun 许云樵 and 蔡史君, _Xin Ma Hua ren kang Ri shi l
 29 Information supplied by Ms Janet Hamilton Jacobs, youngest child of Mr. John Hamilton Wadge, personal communication, February 2006.
 
 30 Other locations include Tong Ji Hospital (In Chinese), Ee Hoe Club (In Chinese), Great Southern Hotel (In Chinese)
-
-
-
