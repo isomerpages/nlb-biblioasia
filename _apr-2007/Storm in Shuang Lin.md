@@ -88,6 +88,10 @@ One of the victims of Sook Ching was Venerable Pu Liang, Abbot of Shuang Lin Mon
 
 Venerable Pu Liang came to Singapore in 1912. In 1917, he became the 10th Abbot of Shuang Lin Monastery. From 1937 till his execution, the Venerable served as the chairman of the Chinese Buddhist Association, a Buddhist charity and social association.
 
+
+<img src="/images/Vol%203%20Issue%201/ShuangLin/pu%20liang.jpg" style="width:50%;">
+ <div style="background-color: white;">Venerable Pu Lian <i>Use with permission from The Singapore Chinese Buddhist Association</i></div>
+
 Venerable Pu Liang had two disciples to assist him in temple management, serving as an accountant and a clerk. Both assistants were "very devoted"[^14] to the Venerable.
 
 The Venerable was a highly regarded and well-respected person who enjoyed wide support across different sectors of the Chinese community. During the Sino-Japanese war, he was involved in various activities to support the China Relief Fund and help war victims. A Chinese newspaper described him as "very active in relief work".[^15]
