@@ -68,6 +68,10 @@ For volunteers like Mr Wu, the Japanese Occupation of their homes had initiated 
 
 During this time, Mr Wu came across the notice for volunteers for the Burma Road, and went to register at the Shuang Lin Monastery.[^9] All the volunteers lived in the Driving Institute and were trained by instructors. They started the day with morning exercises and military training, after which they had driving lessons. A few trainees shared a truck and took turns to drive.
 
+<img src="/images/Vol%203%20Issue%201/ShuangLin/greatsouthernhotel.jpg" style="width:50%;">
+ <div style="background-color: white;">(Left) Volunteers stayed at the Great Southern Hotel after graduating from the Driving Institute at the Shuang Lin Monastery. <i>Chan Chow Wah</i><br>
+(Right) Mr Wu Hui Min and his batch of volunteers gathered at the Tong Ji Hospital before they left Singapore.  Earlier batches of volunteers had stayed in the hospital.</div>
+
 After three weeks of training, Mr Wu joined 506 others to form the ninth batch. They stayed at the Great Southern Hotel and left Singapore on 14 August 1939. At 6am, they gathered at Tongji Hospital and left for Tanjong Pagar harbour at 10am. The harbour was by then already crowded with people who had come to send them off. As the vessel Feng Qing left the harbour at 3pm, the crowds sang to encourage the volunteers and to bid them farewell.[^10]
 
 #### **The Sook Ching Massacre**
