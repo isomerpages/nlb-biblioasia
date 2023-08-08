@@ -9,7 +9,7 @@ description: ""
 #### In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion. **Umej Bhatia** recreates the final moments of the mutineers as they pay the ultimate price for their actions.
 
 <img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial1.JPG">
-<div style="background-color: white;">The public execution of convicted sepoy mutineers at the Singapore Criminal Prison on Outram Road, March 1915. <i>Image reproduced from James, L. (1987). Mutiny in the British and Commonwealth Forces, 1797–1956. London: Buchan &amp; Enright, Publishers.(Call no.: RSING 355.1334 JAM).</i></div>
+<div style="background-color: white;">The public execution of convicted sepoy mutineers at the Singapore Criminal Prison on Outram Road, March 1915. <i>Image reproduced from James, L. (1987). Mutiny in the British and Commonwealth Forces, 1797–1956. London: Buchan &amp; Enright, Publishers. (Call no.: RSING 355.1334 JAM).</i></div>
 
 *On 15 February 1915, a mutiny broke out among sepoys (Indian soldiers) of the 5th Light Infantry Regiment based in Singapore. The mutiny lasted almost a week and claimed the lives of 44 people – British soldiers and civilians, as well as Chinese and Malay civilians. More than 200 sepoys were tried by court martial and received varying sentences, while more than 47 were publicly executed at Outram Prison. Initially portrayed as a minor event confined to Singapore, Umej Bhatia’s recently published book Our Name is Mutiny argues that the event was part of a larger movement rebelling against the British Raj. This abridged extract is from the first chapter of Bhatia’s book, which deliberately uses a novel-like narrative to recount the events.*
 
