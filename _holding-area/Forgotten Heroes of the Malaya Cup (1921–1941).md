@@ -7,7 +7,7 @@ description: We remember some legendary players of the interwar years who left
 #### We remember some legendary players of the interwar years who left an indelible mark on the local football scene. 
 By Dr Nick Aplin
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/malayacupheader.jpg)
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/malayacupheader2.jpg)
 <div style="background-color: white;">In the 1933 Malaya Cup final, Singapore defeated Selangor 8–2. Almost 10,000 spectators watched the match held at Anson Road Stadium in Singapore. <i>The Straits Times </i> described it as “one ofthe finest finals that has ever been played in the competition”. <i>Source: The Sunday Times, 6 August 1933 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 What does it take to become recognised as a hero in Singapore soccer? One answer is that you play for a successful team with talented teammates, and an extensive and supportive fan base. Maybe a player turned national coach. To be called a hero is very challenging indeed. Memories can fade. Names forgotten. Injuries intrude. And reputations suffer.
