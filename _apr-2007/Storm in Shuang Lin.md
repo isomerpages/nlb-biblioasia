@@ -66,9 +66,12 @@ In 1939, Hainan Island fell to the Japanese and Mr Wu felt a deep sense of loss.
 
 For volunteers like Mr Wu, the Japanese Occupation of their homes had initiated a process in which they transformed the despair of personal loss into efforts towards the protection of their larger cultural homeland.
 
+<img src="/images/Vol%203%20Issue%201/ShuangLin/wuhuimin.jpg" style="width:50%;">
+ <div style="background-color: white;">Mr Wu Hui Min, a volunteer who went to the Burma Road, had trained in the Shuang Lin Monastery.  He settled in China after the war. This photo was taken in Hainan Island in 2005.<i>Chan Chow Wah, 2005.</i></div>
+
 During this time, Mr Wu came across the notice for volunteers for the Burma Road, and went to register at the Shuang Lin Monastery.[^9] All the volunteers lived in the Driving Institute and were trained by instructors. They started the day with morning exercises and military training, after which they had driving lessons. A few trainees shared a truck and took turns to drive.
 
-<img src="/images/Vol%203%20Issue%201/ShuangLin/greatsouthernhotel.jpg" style="width:50%;">
+<img src="/images/Vol%203%20Issue%201/ShuangLin/greatsouthernhotel.jpg" style="width:80%;">
  <div style="background-color: white;">(Left) Volunteers stayed at the Great Southern Hotel after graduating from the Driving Institute at the Shuang Lin Monastery. <i>Chan Chow Wah</i><br>
 (Right) Mr Wu Hui Min and his batch of volunteers gathered at the Tong Ji Hospital before they left Singapore.  Earlier batches of volunteers had stayed in the hospital.</div>
 
