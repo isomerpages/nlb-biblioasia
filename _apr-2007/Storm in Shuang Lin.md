@@ -9,6 +9,10 @@ description: "Shuang Lin Monastery was once used as a training ground for people
 ---
 #### Shuang Lin Monastery was once used as a training ground for people who volunteered their services at the Burma Road, which served as a supply route during the Sino-Japanese War in the 1930s. The monastery had a great impact on the lives of two men: Wu Hui Min, volunteer for the war effort, and Venerable Pu Liang, the abbot of the monastery.
 
+<img src="/images/Vol%203%20Issue%201/ShuangLin/shuang%20lin%20monastery1.jpg" style="width:80%;">
+ <div style="background-color: white;">An old postcard of Shuang Lin Monastery, printed in England and dated 7 September 1932, depicts the monastery in the 1930s. 
+<i>Chan Chow Wah</i></div>
+
 The Sino-Japanese War began on 7 July 1937. As the war developed, the Chinese seaports were either captured or blocked by the Japanese who attempted to terminate external supplies entering China. In response, the Chinese government developed alternative land supply routes.
 
 The Burma Road, built as an alternative supply road, became China's most important supply route. The Singapore Free Press described it as China's new munitions and supplies route.[^1]
@@ -248,5 +252,3 @@ Xu Yunqiao and Cai Shijun 许云樵 and 蔡史君, _Xin Ma Hua ren kang Ri shi l
 [^29]: Information supplied by Ms Janet Hamilton Jacobs, youngest child of Mr. John Hamilton Wadge, personal communication, February 2006.
 
 [^30]: Other locations include Tong Ji Hospital (In Chinese), Ee Hoe Club (In Chinese), Great Southern Hotel (In Chinese)
-
-
