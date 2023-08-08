@@ -36,6 +36,9 @@ Among the candidates who responded were applicants who had borrowed licences or 
 
 After background checks were conducted, candidates whose driving licences had a photo were accepted while others were tested near Outram Road. Initially, the test involved basic driving skills with an empty truck. When further information on road conditions came in, the testers for the third or fourth and subsequent batches attempted to simulate road conditions in China by testing candidates on more difficult terrain on Neo Tiew Road, and the trucks were loaded to increase driving difficulty.
 
+<img src="/images/Vol%203%20Issue%201/ShuangLin/china%20bound%20supply1.jpg" style="width:80%;">
+ <div style="background-color: white;">A China-bound supply convoy travels up the Burma Road. <i>CMH Online, Army Center of Military History</i></div>
+
 These who could not drive were sent to the Driving Institute located in Shuang Lin Monastery. The coordinators included Mr Ng Aik Huan, Mr Lau Boh Tan and a training committee formed by a group of skilled drivers.
 
 The Shuang Lin Monastery was founded in 189B by Mr Low Kim Pong when he invited Venerable Xian Hui to be The first Abbot. It was the first Buddhist monastery in Singapore and one of the largest in the region.
