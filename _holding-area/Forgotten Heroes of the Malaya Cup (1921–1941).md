@@ -65,6 +65,10 @@ Dolfattah scored 35 goals in 23 Malaya Cup games between 1927 and 1933 – a str
 
 #### **Abdul Rahman Haji Ali**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/abdulrahmanhajiali.jpg)
+<div style="background-color: white;">Abdul Rahman delivering one of his powerful clearance shots at a
+training session. Image reproduced from <i>“He’s a Certainty,” Malaya Tribune, 21 June 1940, 6. (From NewspaperSG).</i></div>
+
 7 appearances in the Malaya Cup final (5 wins)
 <br>Malaya Cup (1933- 41)<br>
 
@@ -78,6 +82,9 @@ Islington Corinthians, an amateur English team based in London that was on a wor
 Like Chua Boon Lay, Abdul Rahman was a champion athlete at school and won the individual championship in the All-Muslim Jubilee sports in 1935. He was also an excellent rugby player, representing the Singapore Asiatic team from 1935. After 1938, Abdul Rahman was appointed captain of the Malay Football Association team.[^11]
 
 #### **Chee Ah Hui**
+
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto.jpg)
+<div style="background-color: white;">Chee Ah Hui. <i>Source: The Straits Times, 2 August 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 2 appearances in the Malaya Cup final (2 wins)
 <br>Malaya Cup (1930 and 1933)<br>
