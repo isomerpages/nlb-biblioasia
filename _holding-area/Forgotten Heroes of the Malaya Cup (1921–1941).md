@@ -100,6 +100,9 @@ Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Sh
 
 #### **Choo Seng Quee**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee.jpg)
+<div style="background-color: white;">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
+
 2 appearances in the Malaya Cup final (1 win)
 <br>Malaya Cup (1937–38)<br>
 Singapore Chinese Football Association (1933–39)
@@ -113,6 +116,10 @@ One of Choo’s greatest achievements was guiding Singapore to win the Malaysia 
 
 #### **Chua Boon Lay**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chuaboonlay.jpg)
+<div style="background-color: white;">Chua Boon Lay. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan
+	Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+
 8 appearances in the Malaya Cup final (6 wins)
 <br>Malaya Cup (1926–37)<br> 
 Siong Boo Athletic Association 
@@ -121,13 +128,16 @@ Amateur Sporting Association
 <br>Singapore Chinese Football Association (1923–37 
 and 1945–49)<br>
 
-Chua Boon Lay was known as “Towkay Ayam” (“chicken boss”) because of his association with the poultry business at Lau Pa Sat (Telok Ayer Market).[^18] Standing at 1.82 m – one of the tallest players in the Singapore team – the Straits Times described him as “a brilliant header and very speedy” and “one of the few full-backs who could out-head and out-pace little Mat Noor [Mohamed Noor Kassim] of the Malays”.[^19] 
+Chua Boon Lay was known as “Towkay Ayam” (“chicken boss”) because of his association with the poultry business at Lau Pa Sat (Telok Ayer Market).[^18] Standing at 1.82 m – one of the tallest players in the Singapore team – the _Straits Times_ described him as “a brilliant header and very speedy” and “one of the few full-backs who could out-head and out-pace little Mat Noor [Mohamed Noor Kassim] of the Malays”.[^19] 
 
 Chua also played basketball for Siong Boo Athletic Association and was a top-class track athlete, clinching gold in the 100-, 400- and 800-metre races at the 1931 Singapore Chinese Sports meet.[^20] He represented Singapore in the Malayan Chinese Olympiads in athletics in 1937, and was also a talented billiard player.[^21]
 
 During the Japanese Occupation (1942–45), Chua became a committee member of the football section of the Syonan Sports Association established by the Japanese. In 1948, after the war ended, he joined the China football team as a coach for the London Olympic Games.
 
 #### **Lim Yong Liang**
+
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian.jpg)
+<div style="background-color: white;">Lim Yong Liang, 1930. <i>Courtesy of Alex Chua (grandson of Chua Boon Lay).</i></div>
 
 6 appearances in the Malaya Cup final (3 wins)
 <br>Malaya Cup (1922–30)<br> 
@@ -143,6 +153,9 @@ After the war, Lim became a major advocate for football as an adviser and mentor
 
 #### **Mohamed Noor Kassim (Mat Noor)**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/noorkassim.jpg)
+<div style="background-color: white;">Mat Noor heading the ball at the Anson Road Stadium during a match against Johor in the southern section of the Malaya Cup competition. <i>Image reproduced from “Johore Beaten by Eight Goals,” Malaya Tribune, 22 June 1935, 15. (From NewspaperSG).</i></div>
+
 7 appearances in the Malaya Cup final (4 wins) 
 <br>Malaya Cup (1928–35)<br>
 Darul Bahar Football Club
@@ -154,6 +167,9 @@ Playing at inside right, Mat Noor was considered one of the most celebrated Mala
 Mat Noor played in the 1933 Malaya Cup final that recorded Singapore’s most one-sided victory (8–2) against Selangor. Like Dolfattah, he was suspended in 1934 for accepting payment for participating in a tour to Java, but was reinstated in 1935.[^27]
 
 #### **Lancelot Maurice Pennefather**
+
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/lancelot.jpg)
+<div style="background-color: white;">Lancelot Maurice Pennefather. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (4 wins) 
 <br>Malaya Cup (1922–28)<br>
@@ -167,6 +183,9 @@ Pennefather was a certainty to play in the first Malaya Cup final in 1921 but ch
 
 #### **Roy Fairley Smith**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/smithphoto.jpg)
+<div style="background-color: white;">Roy Fairley Smith. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+
 6 appearances in the Malaya Cup final (3 wins)
 <br>Malaya Cup (1922–27)<br> 
 Singapore Cricket Club (1917–28)
@@ -179,6 +198,10 @@ Smith’s Malaya Cup performances over seven seasons (1921–27) were remarkable
 
 #### **Tay Kwee Liang**
 
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/kweeliang.jpg)
+<div style="background-color: white;">Tay Kwee Liang, 1933. <i>Image reproduced from “Choosing Malaya’s Best Footballer,” Malaya
+	Tribune, 11 November 1933. (From Newspaper SG).</i></div>
+
 Amicable Athletic Association
 <br>Bendemeer Athletic Club<br>
 Singapore Chinese Football Association
@@ -186,6 +209,9 @@ Singapore Chinese Football Association
 You might wonder why Tay Kwee Liang appears in this table since he did not play in any Malaya Cup final. He may not have been in the Malaya Cup, but he was involved in something even bigger – the Olympics.[^32] Born in Singapore in 1910 (his family was originally from Guangdong, China), Tay played for the Amicable Athletic Association, Bendemeer Athletic Club and Singapore Chinese Football Association.
 
 In 1933, he joined the South China Athletic Association team in Hong Kong,[^33] and at the 1934 Far Eastern Games, he was a member of the Chinese team that won the championship. Two years later, Tay was selected to represent China at the 1936 Olympic Games in Berlin, along with Chua Boon Lay and Chee Ah Hui (although Tay is rarely mentioned alongside these two men). Besides football, Tay also excelled in table tennis, and was the national table tennis champion of Singapore in 1931.[^34]
+
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/taykweeliangcert.jpg)
+<div style="background-color: white;">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div>
 
 #### **The Legends and Their Legacy**
 
