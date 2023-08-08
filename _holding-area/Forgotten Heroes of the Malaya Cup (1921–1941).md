@@ -26,7 +26,7 @@ Initially, expatriate military personnel in Singapore were permitted to play in 
 
 #### **The Soccer Legends**
 
-Any list of Singapore’s best footballers will be a subjective one of course. One yardstick for judging the best players in the period 1921–41 could be the number of appearances in a Malaya Cup final. For this piece, I’ve included only local players as heroes. This does not mean that members of the SCC and military personnel did not contribute to Singapore’s successes in the Malaya Cup. Based on the criteria above, we have the following names:.
+Any list of Singapore’s best footballers will be a subjective one of course. One yardstick for judging the best players in the period 1921–41 could be the number of appearances in a Malaya Cup final. For this piece, I’ve included only local players as heroes. This does not mean that members of the SCC and military personnel did not contribute to Singapore’s successes in the Malaya Cup. Based on the criteria above, we have the following names:
 
 | Name | Appearances in Final | Years in Final | Wins |
 | -------- | -------- | -------- | -------- |
