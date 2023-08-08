@@ -256,7 +256,8 @@ Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He 
 
 [^11]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87).”
 
-[^12]: “[Today’s Malaya Cup Final](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300901-1.2.87),” _Straits Times_, 20 September 1930, 13. (From NewspaperSG)
+[^12]: “[Malaya Cup Match Abandoned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300901-1.2.87),”&nbsp;_Straits Times_, 1 September 1930, 18;&nbsp;“[Singapore Regain Malaya Cup](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300922-1.2.87.1),”&nbsp;_Straits Times_, 22 September 1930, 13.&nbsp;(From NewspaperSG)
+
 
 [^13]: “[Thumb-nail Sketches of China Olympic Soccer Team](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19360619-1.2.16),” _Pinang Gazette and Straits Chronicle_, 19 June 1936, 3. (From NewspaperSG)
 
