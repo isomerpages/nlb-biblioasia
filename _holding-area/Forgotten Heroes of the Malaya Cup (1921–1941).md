@@ -16,6 +16,18 @@ If you ask people today who their football heroes are, they are likely to cite p
 
 Singapore won the Malaya Cup (renamed Malaysia Cup in 1967) 12 times between 1921 (when the competition began) and 1941. A look at the results – focusing just on the home games played in the southern division of the Malaya Cup competition – shows that in 52 games, Singapore recorded an 82 percent win record, averaging four goals per game. Visiting teams managed less than one goal per game against the home side. Amazingly, throughout that span of 21 years, the Singapore team lost only two games at home. Singapore’s prewar record in the Malaya Cup definitely suggests that it was a major soccer powerhouse before the war.
 
+|Opponent|Games|Results in Favour of Singapore|Goals For|Goals Against
+| -------- | -------- | -------- | -------- | -------- |
+|Malacca (1921–41)|11|10 wins &amp; 1 draw|54|6|
+|Negri Sembilan (1922–40)|10|10 wins| 46|7|
+Johore (1923–41)|12|12 wins|69|8|
+Malaya Command (1932–34)|3|2 wins &amp; 1 draw|6|3|
+Combined Services (1935–39)|6|4 wins &amp; 2 draw|12|6|
+Royal Air Force (1940–41)|2|2 wins|4|0|
+Army (1940–41)|2|0 wins &amp; 2 draws|4|4|
+Selangor (1925–38)|6|3 wins, 1 draw, &amp; 2 losses|15|7|
+||52|43 wins, 7 draws &amp; 2 losses|210|41|
+
 #### **The Beginnings of the HMS Malaya Cup**
 
 The game of association football (or football as it is better known today) was established in Singapore in 1889. Maritime or marine engineers, soldiers from the 58th Northamptonshire Regiment (known as the Steelbacks) and members of the Singapore Cricket Club (SCC) were the first devotees. By 1891, 30 years before the Malaya Cup began, interest in the sport had swelled considerably. There were 24 football teams recorded, including one each from the Straits Chinese Recreation Club (SCRC) and the Singapore Recreation Club (SRC). However, there was no official organising body for the game until the Singapore Football Association was established in 1892 (renamed Singapore Amateur Football Association in 1929 and then Football Association of Singapore in 1966).[^1]
