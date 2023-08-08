@@ -40,11 +40,14 @@ Any list of Singapore’s best footballers will be a subjective one of course. O
 |Lancelot Pennefather|6|1922-28|4|
 |Lim Yong Liang|6|1922-28|3|
 |Choy Khun Onn|5|1930-36|1|
-|Chia Keng Hock|5|1931-1936|2|
+|Chia Keng Hock|5|1931-36|2|
 |Yeo Ah Kow|4|1929-34|4|
 |Chee Ah Hui|2|1930-33|2|
 |Choo Seng Quee|2|1937-38|1|
 |Tay Kwee Liang|0|NIL|NIL|
+
+<div style="background-color: white;"><i>(Note: Because of space constraints in the print magazine, we can only feature some of these
+	men. The online version of the essay has biographical profiles of other legends on this list.)</i></div>
 
 #### **Abdul Fattah (Dolfattah)**
 
@@ -67,7 +70,7 @@ Dolfattah scored 35 goals in 23 Malaya Cup games between 1927 and 1933 – a str
 
 ![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/abdulrahmanhajiali.jpg)
 <div style="background-color: white;">Abdul Rahman delivering one of his powerful clearance shots at a
-training session. Image reproduced from <i>“He’s a Certainty,” Malaya Tribune, 21 June 1940, 6. (From NewspaperSG).</i></div>
+training session. <i>Image reproduced from “He’s a Certainty,” Malaya Tribune, 21 June 1940, 6. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (5 wins)
 <br>Malaya Cup (1933- 41)<br>
