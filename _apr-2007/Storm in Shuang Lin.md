@@ -88,7 +88,6 @@ One of the victims of Sook Ching was Venerable Pu Liang, Abbot of Shuang Lin Mon
 
 Venerable Pu Liang came to Singapore in 1912. In 1917, he became the 10th Abbot of Shuang Lin Monastery. From 1937 till his execution, the Venerable served as the chairman of the Chinese Buddhist Association, a Buddhist charity and social association.
 
-
 <img src="/images/Vol%203%20Issue%201/ShuangLin/pu%20liang.jpg" style="width:50%;">
  <div style="background-color: white;">Venerable Pu Lian <i>Use with permission from The Singapore Chinese Buddhist Association</i></div>
 
@@ -129,6 +128,9 @@ Mr Wadge witnessed three Chinese monks in robes being executed at the beach.
 
 #### **History Remembered**
 The volunteers to the Burma Road and their supporters were people from all walks of lives. Their decisions and actions were propelled by a cuturally-conditioned world view, and through their actions, these individuals became the embodiments of global-local forces. Their stories enable us to understand how an event influenced and impacted individuals, and how their actions shaped the course of the Sino-Japanese War.
+
+<img src="/images/Vol%203%20Issue%201/ShuangLin/shuang%20lin%20monastery%202005.jpg" style="width:80%;">
+ <div style="background-color: white;">The Shuang Lin Monastery in 2005. <i>Chan Chow Wah, 2005.</i></div>
 
 As the place where volunteers were trained and whose Abbot paid a heavy price during Sook Ching, Shuang Lin Monastery is one of the few institutions[^30] related to Burma Road volunteers that still exist, making it a "living" institution and a depository for the nation's collective social memories. The monastery was gazetted as a National Monument on 17 October 1980, and has embarked on a restoration project that continues to this day.
 
