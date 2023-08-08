@@ -22,6 +22,10 @@ Construction of the Burma Road between Yunnan in China and Lashio in Burma began
 Due to the lack of experienced drivers and mechanics in China, the Chinese government requested Mr Tan Kah Kee, the Chairman of the China Relief Fund, to recruit drivers mechanics from Nanyang (South East Asia).
 
 The Nanyang Federation of Relief Fund was founded in 1938 to support China in the Sino-Japanese War. Mr Tan Kah Kee had been elected as its chairman, and its regional office was located at the Ee Hoe Hean Club in Singapore. Representatives of the Fund set up their local China Relief Fund offices to implement programmes, forming a large network around the region.
+
+
+<img src="/images/Vol%203%20Issue%201/ShuangLin/ee%20hoe%20hean1.jpg" style="width:50%;">
+ <div style="background-color: white;">Ee Hoe Hean was the headquarters of China Relief Fund, and where Mr Tan Kah Kee's office was located. <i>Chan Chow Wah, 2005.</i></div>
  
 The China Relief Fund raised money to purchase medication, medical equipment, clothing, food and military hardware such as planes, tanks, trucks, explosives and weapons,[^2] transforming the Overseas Chinese population into a regional force in support of China.
 
