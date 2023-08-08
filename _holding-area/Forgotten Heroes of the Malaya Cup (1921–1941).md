@@ -18,7 +18,7 @@ Singapore won the Malaya Cup (renamed Malaysia Cup in 1967) 12 times between 192
 
 #### **The Beginnings of the HMS Malaya Cup**
 
-The game of association football (or football as it is better known today) was established in Singapore in 1889. Maritime or marine engineers, soldiers from the 58th Northamptonshire Regiment (known as the Steelbacks) and members of the Singapore Cricket Club (SCC) were the first devotees. By 1891, 30 years before the Malaya Cup began, interest in the sport had swelled considerably. There were 24 football teams recorded, including one each from the Straits Chinese Recreation Club (SCRC) and the Singapore Recreation Club (SRC). However, there was no official organising body for the game until the Singapore Football Association was established in 1892.[^1]
+The game of association football (or football as it is better known today) was established in Singapore in 1889. Maritime or marine engineers, soldiers from the 58th Northamptonshire Regiment (known as the Steelbacks) and members of the Singapore Cricket Club (SCC) were the first devotees. By 1891, 30 years before the Malaya Cup began, interest in the sport had swelled considerably. There were 24 football teams recorded, including one each from the Straits Chinese Recreation Club (SCRC) and the Singapore Recreation Club (SRC). However, there was no official organising body for the game until the Singapore Football Association was established in 1892. (renamed Singapore Amateur Football Association in 1929 and then Football Association of Singapore in 1966).[^1]
 
 The Malaya Cup was formed after Captain H.T. Buller of the HMS _Malaya_ donated two silver challenge trophies for football and rugby.[^2] The battleship was visiting the region to acknowledge the contributions of Malayans to the war effort.[^3] It arrived in Singapore on 29 January 1921 via Port Swettenham (now Port Klang), and the crew played friendly football matches against the five teams in the Singapore Football Association League: the Staffordshire Regiment (Army), Singapore Chinese Football Association (SCFA), the SCC, the SRC and Sea Defences (troops manning the coastal defences).
 
@@ -226,7 +226,7 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 
 #### **Notes**
 
-[^1]: The Singapore Football Association was founded in the same year that Liverpool Football Cub first appeared in England.
+[^1]: “[Singapore Football Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920806-1.2.5),”&nbsp;_Singapore Free Press and Mercantile Advertiser_, 6 August 1892, 2; “[Local Football](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19290522-1.2.122),”&nbsp;_Singapore Free Press and Mercantile Advertiser (Weekly)_, 22 May 1929, 14; “[It's the F.A. of S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660114-1.2.118.3),”&nbsp;_Straits Times_, 14 January 1966, 19. (From NewspaperSG). \[The Singapore Football Association was founded in the same year that Liverpool Football Club first appeared in England.\]
 
 [^2]: “[Two Beautiful Cups](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350810-1.2.116),” _Malaya Tribune_, 10 August 1935, 15. (From NewspaperSG)
 
