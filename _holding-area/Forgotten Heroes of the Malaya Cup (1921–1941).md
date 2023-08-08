@@ -240,7 +240,7 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 
 [^7]: “[Football: Dolfattah’s Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malaccaguardian19290819-1.2.21.4),” _Malacca Guardian_, 19 August 1929, 9. (From NewspaperSG)
 
-&nbsp;[^8]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87),” _Straits Times_, 17 August 1947, 10. (From NewspaperSG)
+[^8]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87),” _Straits Times_, 17 August 1947, 10. (From NewspaperSG)
 
 [^9]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87).”
 
