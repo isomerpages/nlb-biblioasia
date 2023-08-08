@@ -110,9 +110,8 @@ As the place where volunteers were trained and whose Abbot paid a heavy price du
 <center><b>Chan Chow Wah</b><br>Lee 
 Kong Chian Research Fellow</center></div>
 
-
+#### **REFERENCES**
        
-
 Alan Houghton Brodrick,** [_Beyond the Burma Road_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3823020) (London: Hutchinson, 1945). (Call no. RUR 940.5425 BRO)
 
 Brian P. Farrell, [_The Defence and Fall of Singapore 1941–42_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12519274) (Stroud: Tempus, 2005). (Call no. RSING 940.5425 FAR)
@@ -184,6 +183,3 @@ The Syonan Times
 Xu Yunqiao and Cai Shijun 许云樵 and 蔡史君, _Xin Ma Hua ren kang Ri shi liao 1937–1945_** [新马华人抗日史料 1937–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84454889) \[Malayan Chinese resistance to Japan 1937–1945\] (Xinjiapo 新加坡: Wen shi chu ban gong si 文史出版公司, 1984). (Call no. Chinese RSING 959.57023 MAL)
 
 (Chinese references – cannot be copied)
-
-
-
