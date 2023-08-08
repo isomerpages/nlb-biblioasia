@@ -64,7 +64,7 @@ With a battalion and their own minds in disarray, some of the sepoys developed t
 
 “God knows what kinds of trouble we will have to confront. What is this war? It is resurrection. That who goes there, there is no hope of his returning. It is God’s punishment. If God released us from this calamity we will take to have reborn. We are very much confused and shocked. All the regiment is in sorrow together.”[^4]
 
-<img style="width: 450px; height: 300px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial5.JPG">
+<img style="width: 500px; height: 300px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/crowd%20protesting.jpg">
 <div style="background-color: white;">The European officer in the photograph is Captain Moira Francis Allan (7th from the right), seen here with men of the Mountain Battery of the Malay States Guides who had stoked the 5th Light Infantry Regiment to mutiny on 15 February 1915. He was one of the commanders of the battery and was killed in the mutiny. <i>Courtesy of National Archives of Singapore.</i></div>
 
 On their part, the pair of ex-officer Khans, now standing with their backs against the walls of Outram Prison, had done their own listening, thinking, and whispering. Quiet intriguing was soon followed by bold declarations and preaching. As Viceroy Commissioned Officers, men like the Khans were expected to know better than to encourage such seditious talk. They sat at the top of the pyramid of Indian military labour that was recruited to defend the British Empire. Raised from the ranks of the sepoys for good service, they were trained not to question why but to do or die.
@@ -75,7 +75,7 @@ In Singapore, Dunde also found other attractions. With Chiste, he enjoyed the co
 
 Chiste was a disciple of the enigmatic Nur Alam Sham. A mysterious Muslim preacher and Sufi Master (*pir*), the latter had a cult following among Indian and Malay Muslims in Singapore. Nur Alam Shah delivered sulphurous sermons at his mosque on Kampong Java Road, just down the road from the house where Singapore’s first Prime Minister, Lee Kuan Yew, would be born a few years later.
 
-<img style="width: 250px; height: 330px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/trialc.JPG">
+<img style="width: 320px; height: 380px;" src="/images/Vol-15-issue-4/trial-by-firing-squad/the%20mutiny.jpg">
 <div style="background-color: white;">Promulgation of sentences on 21 sepoys found guilty of participating in the mutiny of the 5th Light Infantry Regiment. Sixteen mutineers received imprisonment of varying lengths, while five were executed. <i>Image reproduced from The Straits Times, 23 March 1915, p. 7.</i></div>
 
 As the First World War turned into a brutal conflict of attrition, Nur Alam Shah had raised thorny questions for the sepoys to consider. To whom was loyalty owed? To which Kaiser and to which Emperor? Charismatic Chiste also had a way with words. He persuaded some of his men that the tide was turning against British rule. Largely illiterate and unschooled, the thoughts of the sepoys did not match the precision or logic of trained minds. This thinking was dangerously open-ended and tumbled through their heads like the fake news Lance-Naik Fateh Mohammed had shared with his father on the day the mutiny broke out:
