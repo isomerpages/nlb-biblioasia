@@ -56,7 +56,7 @@ c. From Pulau Dewa to Bab Mokha (Mocha is in Yemen. The journey from Pulau Dewa 
 <img style="width:30%" src="/images/vol-2-issue-3/Journey%20of%20faith/hikayat_ HT.jpg">
 <div style="background-color: white;"><i>Hikayat Hang Tuah. All rights reserved, Malaya Publishing House</i>.</div>
 
-According to&nbsp;_Hikayat Hang Tuah_, Hang Tuah’s pilgrimage was coincidental, for his ultimate quest was the quasi-mythical empire of Rome, and his imperial mission was to establish ties with the King of Rome and purchase weaponry. On his way to Rome, Hang Tuah called at Mecca just at the time when the Haj season was about to begin, and so he joined the pilgrims there for Haj. This is unlike other Islamic kingdoms in Indonesia whose kings consciously planned missions to Mecca with the desire to be conferred the title “Sultan” by the Great Sheriff (Syarif Besar). Their actions could be prompted by the belief that only the Great Sheriff, with his control over the holy cities of Mecca and Medina, had the spiritual authority to bestow supernatural aura and power on Islamic kingdoms, although there was no such tradition in Mecca. In 1630s, competition between the King of Banten and the King of Mataram led each of the kingdoms to send holy missions to Mecca. The mission from Banten returned in 1626, while that from Mataram arrived home in 1641.
+According to_Hikayat Hang Tuah_, Hang Tuah’s pilgrimage was coincidental, for his ultimate quest was the quasi-mythical empire of Rome, and his imperial mission was to establish ties with the King of Rome and purchase weaponry. On his way to Rome, Hang Tuah called at Mecca just at the time when the Haj season was about to begin, and so he joined the pilgrims there for Haj. This is unlike other Islamic kingdoms in Indonesia whose kings consciously planned missions to Mecca with the desire to be conferred the title “Sultan” by the Great Sheriff (Syarif Besar). Their actions could be prompted by the belief that only the Great Sheriff, with his control over the holy cities of Mecca and Medina, had the spiritual authority to bestow supernatural aura and power on Islamic kingdoms, although there was no such tradition in Mecca. In 1630s, competition between the King of Banten and the King of Mataram led each of the kingdoms to send holy missions to Mecca. The mission from Banten returned in 1626, while that from Mataram arrived home in 1641.
 
 The King of Makassar also sought the title of Sultan from the Sheriff of Mecca. It is more than likely that the individuals in these missions, following Hang Tuah’s example, would take the opportunity of their presence in Mecca to perform Haj.
 
@@ -162,7 +162,7 @@ Dadan Wildan, “[Perjumpaan Islam dengan Tradisi Sunda](https://sundaislam.word
 
 David W. Tschanz, “[Journeys of Faith, Roads to Civilization](https://archive.aramcoworld.com/issue/200401/journeys.of.faith.roads.of.civilization.htm),” Saudi Aramco World 55, no. 1 (January–February 2004): 3–4.
 
-Edwin Lee,&nbsp;_[The British as Rulers: Governing Multiracial Singapore 1867–1914](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C5678026)_(Singapore: Singapore University Press, 1991), 166–67. (National Library, Singapore, call no. RSING 959.57022 LEE-\[HIS\])
+Edwin Lee,_[The British as Rulers: Governing Multiracial Singapore 1867–1914](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C5678026)_(Singapore: Singapore University Press, 1991), 166–67. (National Library, Singapore, call no. RSING 959.57022 LEE-\[HIS\])
 
 Harun Aminurrashid,&nbsp;_[Chatetan Ka-Tanah Suchi](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C4078526)_&nbsp;(Singapura: Pustaka Melayu, 1960). (National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
 
@@ -170,27 +170,40 @@ _[Hikayat Hang Tuah](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BI
 
 “[History of Trade](http://www.historyworld.net/wrldhis/plaintexthistories.asp?historyid=ab72),”&nbsp;_Historyworld_, accessed 24 August 2006.
 
-Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca: A Preliminary Introduction and Annotated Translation,”&nbsp;_[Indonesia and the Malay World](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C8347428)_&nbsp;28, no. 81 (2000): 173–213. (National Library, Singapore, call no. RSING 959.8 IMW)
+Martin van Bruinessen, “Mencari Ilmu Dan Pahala Di Tanah Suci: Orang Nusantara Naik Haji \[Seeking knowledge and merit: Indonesians on the haj\],” in&nbsp;_Indonesia Dan Haji: Empat Karangan_, ed. Dick Douwes and N. J. G. Kaptein (Jakarta: INIS, 1997).
 
-William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the Indian Ocean, c.1750–c.1940,” in&nbsp;_Ships and the Development of Maritime Technology in the Indian Ocean_, ed. David Parkin and Ruth Barnes (London: RoutledgeCurzon, 2002), 227–58.
-
-Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in&nbsp;_[Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C11533543)_, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (National Library, Singapore, call no. R 305.8927059 TRA)
-
-S. M. Amin, “[The Pilgrims Progress](https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm),”&nbsp;_Saudi Aramco World_&nbsp;25, no. 6 (November–December 1974).
-
-Harun Aminurrashid,&nbsp;_[Chatetan Ka-Tanah Suchi](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C4078526)_&nbsp;(Singapura: Pustaka Melayu, 1960). (National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
-
-_[Hikayat Hang Tuah](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C12221058)_&nbsp;(Singapore: Malaya Publishing House, 1950). (National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
-
-William Facey, “[Queen of the India Trade](https://archive.aramcoworld.com/issue/200506/queen.of.the.india.trade.htm),”&nbsp;_Saudi Aramco World_&nbsp;56, no. 6 (November–December 2005): 10–16.
-
-Michael Francis Laffan,&nbsp;_[Islamic Nationhood and Colonial Indonesia: The Umma below the Winds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C11707504)_&nbsp;(London: RoutledgeCurzon, 2003). (National Library, Singapore, call no. RSEA 959.8022 LAF
+Michael Francis Laffan,&nbsp;_[Islamic Nationhood and Colonial Indonesia: The Umma below the Winds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C11707504)_&nbsp;(London: RoutledgeCurzon, 2003). (From National Library, Singapore, call no. RSEA 959.8022 LAF)
 
 Muhammad Salleh bin Haji Awang,&nbsp;_Haji Di Semenanjung Malaysia: Sejarah Dan Perkembangannya Sejak Tahun 1300–1405H (1896–1985M)_&nbsp;(Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 107–37.
 
 Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,”&nbsp;_[Indonesia and the Malay World](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C8347428)_&nbsp;29, no. 84 (2001): 113–28. (National Library, Singapore, call no. RSING 959.8 IMW)
 
-Martin van Bruinessen, “Mencari Ilmu Dan Pahala Di Tanah Suci: Orang Nusantara Naik Haji \[Seeking knowledge and merit: Indonesians on the haj\],” in&nbsp;_Indonesia Dan Haji: Empat Karangan_, ed. Dick Douwes and N. J. G. Kaptein (Jakarta: INIS, 1997).
+Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca: A Preliminary Introduction and Annotated Translation,”&nbsp;_[Indonesia and the Malay World](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C8347428)_&nbsp;28, no. 81 (2000): 173–213. (National Library, Singapore, call no. RSING 959.8 IMW)
+
+S. M. Amin, “[The Pilgrims Progress](https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm),”&nbsp;_Saudi Aramco World_&nbsp;25, no. 6 (November–December 1974).
+
+Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in&nbsp;_[Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C11533543)_, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (National Library, Singapore, call no. R 305.8927059 TRA)
+
+William Facey, “[Queen of the India Trade](https://archive.aramcoworld.com/issue/200506/queen.of.the.india.trade.htm),”&nbsp;_Saudi Aramco World_&nbsp;56, no. 6 (November–December 2005): 10–16.
+
+William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the Indian Ocean, c.1750–c.1940,” in&nbsp;_Ships and the Development of Maritime Technology in the Indian Ocean_, ed. David Parkin and Ruth Barnes (London: RoutledgeCurzon, 2002), 227–58.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
