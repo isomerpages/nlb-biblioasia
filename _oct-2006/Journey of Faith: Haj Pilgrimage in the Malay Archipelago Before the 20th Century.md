@@ -139,6 +139,13 @@ In the 1850s, Sayyid Ahmad Alsagoff extended the realm of his family business by
 <img src="/images/vol-2-issue-3/Journey%20of%20faith/steamships.jpg">
 <div style="background-color: white;">Pilgrims on a steamship. <i>Image from Hajjah Amaina Collection, National Archives of Singapore</i>.</div>
 
+When steamship arrived in the late half of the 19th century, the Arab shipping merchants capitalised on the speed and capacity of these vessels. By 1871, the Alsagoff-owned Singapore Steamship Company had ferried pilgrims to Jeddah by steamers steered by a European captain and a Chinese hand. Another Arab shipping merchant who ran steamer services for pilgrims was Syed Mohsen AI-Joofree. Towards the end of the 19th century, he was locked in fierce competition with two Dutch steamers for pilgrims. But his business flopped some time before his death in 1894.
+
+#### Conclusion
+By the early 20th century, the Haj had become a competitive business with serious investments by international shipping companies. The waves had been tamed by large steam-powered vessels custom built to combine pilgrim and cargo transport. While the duration to get to Jeddah had improved tremendously, the well-being and safety of Haj pilgrims still lagged behind. The number of pilgrims had swelled to a point that effective sanitation, hygiene, administration and guardianship of pilgrims could not be adequately addressed by purely commercial concerns. The British and Dutch colonial governments introduced regulations to protect Haj pilgrims, but tales of extreme overcrowding in pilgrim ships and of Haj pilgrims getting stranded without a return ticket after being manipulated by shipping agents and brokers continued to be heard. The comfort that Haj pilgrims experience today is a result of decades of reforms by various parties, helped by the advances in transportation. For a journey that is deeply spiritual, the Haj pilgrimage in the Malay Archipelago cannot be divorced from its social and economic dimensions.
+
+<div>
+<center><b>Nor Afidah Abd Rahman</b><br>Senior Reference Librarian<br>Lee Kong Chian Reference Library</center></div>
 
 
 
