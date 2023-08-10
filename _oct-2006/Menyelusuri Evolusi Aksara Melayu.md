@@ -40,9 +40,3 @@ Kedatangan orang-orang Eropah telah sekaligus juga membawa tulisan Rumi ke ranta
 Penutup
 
 Setiap aksara yang pernah digunakan orang Melayu sama ada Pallava, Kawi, dan kini Jawi atau Rumi menjadi saksi dan bukti tentang kemampuan masyarakat ini. Kesemua aksara-aksara ini telah digunakan untuk berbagai jenis keperluan perhubungan dan pengurusan. Selain itu, ia juga telah melahirkan karya-karya yang sehingga kini masih sesuai dan menjadi warisan yang tidak ternilai kepada masyarakat. Sesuailah seperti menurut Prof Datuk Dr Siti Hawa Salleh (2006), pada tahun 1726, Francois Velentijin telah menyuarakan kekagumannya terhadap masyarakat Melayu yang bukan sahaja mempunyai tulisan (aksara) malah menggunakan aksara itu untuk menghasilkan karya-karya dan duduk pula berkumpul beramai-ramai mengelilingi seorang pembaca memperdengarkan suaranya.
-
-
-
-
-
-
