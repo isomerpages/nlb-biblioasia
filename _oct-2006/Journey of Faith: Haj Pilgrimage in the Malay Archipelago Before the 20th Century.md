@@ -136,8 +136,8 @@ The rise of Hadhrami shipping in the Malay Archipelago in the mid-19th century b
 
 In the 1850s, Sayyid Ahmad Alsagoff extended the realm of his family business by starting a profitable business of transporting pilgrims between Southeast Asia and Jeddah. Using Singapore as the base, the Alsagoffs’ position in the pilgrim trade was tremendously strengthened by the Dutch’s restriction on the flow of pilgrims from Indonesia. Pilgrims from the Netherlands Indies during the first half of the 19th century only numbered a few hundreds, as the Dutch imposed a tax on prospective pilgrims. This is to discourage the return of religious fanatics who the Dutch feared would be groomed while performing the Haj and deepening Islamic knowledge in Mecca. Singapore, thus, became the hub of an expanding pilgrim trade from Southeast Asia partly because of this restriction, as many would pass through it by beginning their Haj from Singapore. This tax was removed in 1852.
 
-<img src="/images/vol-2-issue-3/Journey%20of%20faith/steamships.jpg">
-<div style="background-color: white;">Pilgrims on a steamship. <i>Image from Hajjah Amaina Collection, National Archives of Singapore</i>.</div>
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/Pilgrims%20posessions.jpg">
+<div style="background-color: white;">The pilgrims with their belongings waiting to leave for Mecca. <i>Image courtesy of Ministry of Communications and the Arts</i>.</div>
 
 When steamship arrived in the late half of the 19th century, the Arab shipping merchants capitalised on the speed and capacity of these vessels. By 1871, the Alsagoff-owned Singapore Steamship Company had ferried pilgrims to Jeddah by steamers steered by a European captain and a Chinese hand. Another Arab shipping merchant who ran steamer services for pilgrims was Syed Mohsen AI-Joofree. Towards the end of the 19th century, he was locked in fierce competition with two Dutch steamers for pilgrims. But his business flopped some time before his death in 1894.
 
