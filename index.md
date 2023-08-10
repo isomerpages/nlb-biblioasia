@@ -17,6 +17,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 1/The Padang/the padang hero.jpg
   - infopic:
+      title: Forgotten Heroes of the Malaya Cup
+      subtitle: Sports
+      description: We remember some legendary players of the interwar years who left
+        an indelible mark on the local football scene.
+      button: Singapore’s Soccer Legends
+      url: /vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/
+      image: /images/Vol 19 Issue 3/6 Malaya Cup/malayacupheader2.jpg
+      alt: Image alt text
+  - infopic:
       title: "Lest We Forget: Kranji War Cemetery"
       subtitle: podcast
       description: Librarian Janice Loo profiles those buried or memorialised at the

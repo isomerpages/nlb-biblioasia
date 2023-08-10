@@ -1,6 +1,6 @@
 ---
 title: Forgotten Heroes of the Malaya Cup (1921–1941)
-permalink: /holding-area/malayacuptest/
+permalink: /vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/
 description: We remember some legendary players of the interwar years who left
   an indelible mark on the local football scene.
 image: /images/Vol 19 Issue 3/6 Malaya Cup/malayacupheader2.jpg
