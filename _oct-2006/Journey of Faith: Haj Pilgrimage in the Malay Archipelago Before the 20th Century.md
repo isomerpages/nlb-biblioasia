@@ -56,21 +56,27 @@ c. From Pulau Dewa to Bab Mokha (Mocha is in Yemen. The journey from Pulau Dewa 
 <img style="width:30%" src="/images/vol-2-issue-3/Journey%20of%20faith/hikayat_ HT.jpg">
 <div style="background-color: white;"><i>Hikayat Hang Tuah. All rights reserved, Malaya Publishing House</i>.</div>
 
+According to&nbsp;_Hikayat Hang Tuah_, Hang Tuah’s pilgrimage was coincidental, for his ultimate quest was the quasi-mythical empire of Rome, and his imperial mission was to establish ties with the King of Rome and purchase weaponry. On his way to Rome, Hang Tuah called at Mecca just at the time when the Haj season was about to begin, and so he joined the pilgrims there for Haj. This is unlike other Islamic kingdoms in Indonesia whose kings consciously planned missions to Mecca with the desire to be conferred the title “Sultan” by the Great Sheriff (Syarif Besar). Their actions could be prompted by the belief that only the Great Sheriff, with his control over the holy cities of Mecca and Medina, had the spiritual authority to bestow supernatural aura and power on Islamic kingdoms, although there was no such tradition in Mecca. In 1630s, competition between the King of Banten and the King of Mataram led each of the kingdoms to send holy missions to Mecca. The mission from Banten returned in 1626, while that from Mataram arrived home in 1641.
 
+The King of Makassar also sought the title of Sultan from the Sheriff of Mecca. It is more than likely that the individuals in these missions, following Hang Tuah’s example, would take the opportunity of their presence in Mecca to perform Haj.
 
+The politicisation of Haj in the pursuit of supernatural kingdoms led the kings themselves to make their journey to Mecca. In 1674, the first Banten royalty, Abdul Qahar, who was the son of Banten king Sultan Ageng Tirtayasa, went on Haj. For his spiritual feat, he was known as Sultan Haji (Haji King). The legends&nbsp;_Sejarah Banten_&nbsp;(written in the second half of the 17th century) and&nbsp;_Hikayat Hasanuddin_&nbsp;(written around 1700) also record the Haj pilgrimage of the founder of the Islamic dynasty in Banten, Sunan Gunung Jati. Their journey to Haj, though, is couched in supernatural elements.
 
+Haj also crept into the Sundanese literary tradition.&nbsp;_Carita Parahyangan_, a Sunda text on the history of the Galuh kingdom written around 1580, records the Haj pilgrimage of Bratalegawa, the son of the King of Galuh. According to this volume, Bratalegawa was the first person to convert to Islam in Sunda. Bratalegawa chose to lead a trader’s life and sailed to as far as Arabia. He went on Haj in the 14th century. As the first person in Galuh to complete the Haj, he was also known as Haji Purwa.
 
+Outside the realm of legends, the honour of the earliest Haj pilgrimage reportedly rests with the rulers of Malacca. Tome Pires reported that during Sultan Mansur Syah’s reign (the sixth king of Malacca who ruled from 1456 to 1477), the Malaccan king almost left the Malay shores for Jeddah, having chartered a ship from Pegu and Jawa as part of his preparations. But his deteriorating health put a stop to his pilgrimage, notwithstanding the large funds and followers he had set aside. His son who succeeded him, Sultan Alauddin Riayat Shah (1477–88), had supposedly swore to realise his father’s Haj ambition. By this promise, scholars and historians in Malaysia concluded that Sultan Alauddin himself had gone for Haj. This is because in Islam, a living person would have to complete his own Haj before he could carry out the Haj on the wishes and behalf of another person. Although Sultan Alauddin’s Haj has not been verified by written records, the Islamic climate in Malacca by that time, with the probable presence of pious men and religious teachers, would have made it conducive for Sultan Alauddin to go on Haj.[2](https://biblioasia.nlb.gov.sg/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/#fn:2)
 
+#### Of Haj and Learned Men
 
+Real data on Haj pilgrims right until the end of the 19th century remains sketchy. In the 17th century, from Indonesia, a few names have been identified. Syaikh Yusuf Makassar left Indonesia for Arabia in 1644 for Haj and scholarly pursuit and returned only in 1670. Syaikh Yusuf not only became a religious leader on his comeback, but also acted as political advisor to Sultan Ageng Tirtayasa in Banten. Another is ‘Abd al-Ra’uf al-Sinkili who stayed for years in Mecca and Medina to deepen his religious knowledge and later became a man of high standing in Aceh.[3](https://biblioasia.nlb.gov.sg/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/#fn:3)
 
+In the 13th century, speculations about Haj pilgrims focused on personalities whose scholarly passion and wandering spirit were believed to have inspired them to go to Mecca. Two such personalities are Sultan Muhammad Jiwa Zainal Abidin II of Kedah (1710–60) and Syeikh Abdul Jal ii alMahdani. Their combined encounters with Sumatra, Java and India, and close network with Jambi and Indian shipowners allowed them to venture far. Sultan Muhammad’s return to Kedah from India after six years gave rise to the suggestion that during this period, he did make his Haj together with Syeikh Jalil. Syeikh Jalil had two sons whom he sent to Mecca via sailing ships and who became Meccan residents for several years. In 1772, an Indonesian religious leader who resided in Mecca wrote to Sultan Hemengkubuwono I to recommend appointments for two new Hajis who had recently come back.
 
+#### Of Haj and Hardships
+More substantial factual accounts about Haj pilgrimage in the Malay Archipelago started to appear in the 19th century. According to Michael Laffan in&nbsp;_Islamic Nationhood and Colonial Indonesia_, the first actualised account that mentions journey to Mecca is Munshi Abdullah’s&nbsp;_Kisah Pelayaran Abdullah_&nbsp;(The Story of Abdullah’s Voyage). Munshi Abdullah, whose literary contributions had earned him the title the father of modern Malay literature, made his journey in 1854.
 
-
-
-
-
-
-
+<img style="width:50%" src="/images/vol-2-issue-3/Journey%20of%20faith/books.jpg">
+<div style="background-color: white;">Cover and title page of <i>Kisah Pelayaran Abdullah</i>. All rights reserved, Oxford University Press, 1960.</div>
 
 
 
