@@ -2,6 +2,5 @@ collections:
   holding-area:
     output: true
     order:
-      - Forgotten Heroes of the Malaya Cup (1921–1941).md
       - test2.md
       - Test page.md
