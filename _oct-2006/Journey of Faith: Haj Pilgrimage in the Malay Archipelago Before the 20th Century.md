@@ -38,7 +38,37 @@ In the absence of official statistics before the 19th century, it would not be t
 
 The majority from this small number took the overland route. Ship-going pilgrims who formed the remainder came only from these places: sub-Saharan Africa, India and Malaysia. Since Malay pilgrims were represented only in the sea travellers group, the Archipelago’s overall contribution to the already small number of pilgrims was hence limited.
 
-#### Haj in Malay Traditional Texts
+#### Haj in Malay Traditional Text
+Early records of Haj pilgrimage from the Malay Archipelago showed that pilgrimage was a private enterprise and confined to certain classes of individuals. Before the commercialisation of the Haj in the late 19th century that enabled en masse pilgrimage to Mecca, Haj incumbents either individually or in small groups made their own arrangements for Mecca. Those who went were usually men of some standing in the community – either they had the resources, or they had attained a relatively high level of Islamic education.
+
+Both in Malaysia and Indonesia, the identity and period of the first Haj pilgrimage are not known, although it is likely they occurred within the backdrop of the genesis of Islam in this region. While there are more than one theory on how and when Islam came into the region, the founding of Islamic kingdoms in the Archipelago has had the effect of heightening awareness and aspirations towards the Haj. By the late 13th century, Islam had spread to Southeast Asia. The discovery of the Trengganu Stone (_Batu Bersurat_), dated 1303 with Arabic inscriptions in 1887 at Kuala Berang, Trengganu, attested to the influence of Islam by this date. With the founding of the Kingdom of Malacca around 1400 and the conversion of its founder, Parameswara, by 1414, Islam penetrated a major Malay state ideology and polity. In Indonesia, the earliest known conversion to Islam by a local ruler occurred in Aceh, North Sumatra, in the late 13th century. By the middle of the 17th century, the Muslim kings in Java were more than anxious to capitalise on Haj to legitimise their kingdoms. By the middle of 17th century, it was not only the Islam phenomenon that had taken over the kingdoms in Java, but also their kings were anxiously looking for Islamic symbols to legitmise their kingdoms and many capitalised on Haj.
+
+<img style="width:50%" src="/images/vol-2-issue-3/Journey%20of%20faith/STONE.jpg">
+<div style="background-color: white;">A replica of Trengganu Stone. <i>Image courtesy of the National Library of Malaysia</i>.</div>
+
+Legends and epics dominate the early literature on Haj in this region, and while they present a continuum between legend and fact, this literature is still a good source to speculate who the Haj pilgrims were before the 19th century. The Malay&nbsp;_hikayat_&nbsp;contain some of the earliest instances of Haj in this region.&nbsp;_Hikayat Hang Tuah_&nbsp;(possibly first written in the 16th century) records a Haj pilgrimage in the 15th century, undertaken by Hang Tuah, a great Malay warrior. While the authenticity of both this epic and the legendary hero is debatable, the detailed account of his deeds in the Holy Land is not too far from the rituals preached to Haj pilgrims. On this basis, there were claims that Hang Tuah’s pilgrimage in the 15th century leans more towards fact than fiction.
+
+Authenticity aside, the Haj journey in&nbsp;_Hikayat Hang Tuah_&nbsp;is useful for its insights on the route, ports of call, places traversed and the modes of transportation. The Hikayat records Hang Tuah as taking more than two months to reach Jeddah, leading a fleet of 42 ships and bringing with him 1,600 followers and 16 officials. The route he took is below:  
+a. From Malacca to Aceh – 5 days and 5 nights  
+b. From Aceh to Pulau Dewa – 10 days  
+c. From Pulau Dewa to Bab Mokha (Mocha is in Yemen. The journey from Pulau Dewa to Jeddah took two months.)
+
+<img style="width:30%" src="/images/vol-2-issue-3/Journey%20of%20faith/hikayat_ HT.jpg">
+<div style="background-color: white;"><i>Hikayat Hang Tuah. All rights reserved, Malaya Publishing House</i>.</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
