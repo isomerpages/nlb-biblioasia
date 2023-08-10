@@ -10,7 +10,7 @@ description: ""
 **Director's Column**<br>
 
 **Journey of Faith: Haj Pilgrimage in the Malay Archipelago Before the 20th Century**
-<br>Making the journey to Mecca to fulfil the obligation of the Haj is a long and cherished ambition for most Muslims. In heeding the call of the *Ka’bah* (House of God) in Mecca, where all Muslims turned to in their prayers, the Haj is not for the faint-hearted or the ill-prepared. [](/files/pdf/vol-2/issue-3/v2-issue3_HajPilgrimage.pdf)
+<br>Making the journey to Mecca to fulfil the obligation of the Haj is a long and cherished ambition for most Muslims. In heeding the call of the *Ka’bah* (House of God) in Mecca, where all Muslims turned to in their prayers, the Haj is not for the faint-hearted or the ill-prepared. [PDF](/files/pdf/vol-2/issue-3/v2-issue3_HajPilgrimage.pdf)
 
 **Menyelusuri Evolusi Aksara Melayu**<br> Traces the evolution of Malay scripts, such as the Pallava, Kawi, Jawi and Roman scripts. It also illustrates how the interactions of the Malay people with major civilisations had impacted the evolution of these scripts. [(PDF)](/files/pdf/vol-2/issue-3/v2-issue3_AksaraMelayu.pdf)
 
