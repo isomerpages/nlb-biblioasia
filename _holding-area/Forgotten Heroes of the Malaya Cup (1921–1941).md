@@ -99,8 +99,7 @@ Like Chua Boon Lay, Abdul Rahman was a champion athlete at school and won the in
 
 #### **Chee Ah Hui**
 
-<img style="width:90%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto.jpg">
-<div style="background-color: white;text-align:center"></div>
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto.jpg)
 <div style="background-color: white;">Chee Ah Hui. <i>Source: The Straits Times, 2 August 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 2 appearances in the Malaya Cup final (2 wins)
@@ -260,7 +259,7 @@ Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He 
 
 [^9]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87).”
 
-[^10]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87)”; Rob Cavallini and Colin Duncan, _Around the World in 95 Games: The Amazing Story of Islington Corinthians 1937–38 World Tour_ (UK: Dog &amp; Duck Publications, 2008); **“**[Singapore XI for Today's Soccer Match with Tourists](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19380130-1.2.189)**,”** _Straits Times_, 30 January 1938, 25**.** (From NewspaperSG)
+[^10]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87)”; Rob Cavallini and Colin Duncan, _Around the World in 95 Games: The Amazing Story of Islington Corinthians 1937–38 World Tour_ (UK: Dog &amp; Duck Publications, 2008); “[Singapore XI for Today's Soccer Match with Tourists](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19380130-1.2.189),” _Straits Times_, 30 January 1938, 25. (From NewspaperSG)
 
 [^11]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87).”
 
