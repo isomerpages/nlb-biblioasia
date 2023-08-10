@@ -67,8 +67,3 @@ Hashim Musa, [_Epigrafi Melayu: Sejarah Sistem Tulisan dalam Bahasa Melayu_](htt
 James T. Collins, “Ciri-Ciri Bahasa Melayu Abad Ke–17,” in [_Tradisi Penulisan Manuskrip Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9452894) (Kuala Lumpur: Perpustakaan Negara Malaysia, 1997). (Call no. Malay R 499.2811 TRA)
 
 Siti Hawa Salleh, [_Genre Kesusasteraan Hikayat: Perkembangan Suatu Bentuk Kesusasteraan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12766152) \[Dibentangkan di Seminar Antarabangsa Manuskrip Melayu, Melestarikan Manuskrip Melayu Warisan Agung Bangsa, 10–11 Julai 2006, Kuala Lumpur. Anjuran Perpustakaan Negara Malaysia, Arkib Negara Malaysia dan Kementerian Kebudayaan Kesenian dan Warisan Malaysia, 2006\]. (Call no. Malay RSEA 016.09109595 SEM)
-
-
-
-
-
