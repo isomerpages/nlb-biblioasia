@@ -147,8 +147,50 @@ By the early 20th century, the Haj had become a competitive business with seriou
 <div>
 <center><b>Nor Afidah Abd Rahman</b><br>Senior Reference Librarian<br>Lee Kong Chian Reference Library</center></div>
 
+#### **REFERENCES**
+Abdullah al-Qari Haji Salleh,&nbsp;_[Sejarah Hidup To’ Kenali](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C4121344)_&nbsp;(Kota Bharu: Pustaka Aman Press, 1967). (National Library, Singapore, call no. Malay RCLOS 920.0595 KEN.A)
 
+Abdullah bin Abdul Kadir Munshi,&nbsp;_[Kisah Pelayaran Abdullah Ka-Kelantan Dan Ka-Judah Di-Beri Pengenalan Dan Anotasi Oleh Kassim Ahmad](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C6864752)_&nbsp;(Singapore: Malaya Publishing House, 1960). (National Library, Singapore, call no. Malay RCLOS 959.5 ABD)
 
+Abdullah Munshi,&nbsp;_[Kisah Pelayaran Abdullah Ka-Kelantan Dan Ka-Judah Di-Beri Pengenalan Dan Anotasi Oleh Kassim Ahmad](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C4568037)_&nbsp;(Kuala Lumpur: Oxford University Press, 1960). (National Library, Singapore, call no. Malay RCLOS 959.5 ABD)
+
+Arsip Nasional Republik Indonesia,&nbsp;_[Biro Perjalanan Haji Di Indonesia Masa Colonial: Agen Herklots Dan Firma Alsegoff &amp; Co](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C12330134)_&nbsp;(Jakarta: Arsip Nasional Republik Indonesia, 2001), xvi–xxi. (National Library, Singapore, call no. Malay RSEA 297.352 BIR)
+
+Dadan Wildan, “[Orang-orang Sunda pertama yang naik haji](http://pajajaran.blogspot.com/2006/09/orang-orang-sunda-pertama-yang-naik.html),” Blog, 14 September 2006.
+
+Dadan Wildan, “[Perjumpaan Islam dengan Tradisi Sunda](https://sundaislam.wordpress.com/2008/01/12/perjumpaan-islam-dengan-tradisi-sunda/),” Blog, 26 March 2003.
+
+David W. Tschanz, “[Journeys of Faith, Roads to Civilization](https://archive.aramcoworld.com/issue/200401/journeys.of.faith.roads.of.civilization.htm),” Saudi Aramco World 55, no. 1 (January–February 2004): 3–4.
+
+Edwin Lee,&nbsp;_[The British as Rulers: Governing Multiracial Singapore 1867–1914](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C5678026)_(Singapore: Singapore University Press, 1991), 166–67. (National Library, Singapore, call no. RSING 959.57022 LEE-\[HIS\])
+
+Harun Aminurrashid,&nbsp;_[Chatetan Ka-Tanah Suchi](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C4078526)_&nbsp;(Singapura: Pustaka Melayu, 1960). (National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
+
+_[Hikayat Hang Tuah](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C12221058)_&nbsp;(Singapore: Malaya Publishing House, 1950). (National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
+
+“[History of Trade](http://www.historyworld.net/wrldhis/plaintexthistories.asp?historyid=ab72),”&nbsp;_Historyworld_, accessed 24 August 2006.
+
+Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca: A Preliminary Introduction and Annotated Translation,”&nbsp;_[Indonesia and the Malay World](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C8347428)_&nbsp;28, no. 81 (2000): 173–213. (National Library, Singapore, call no. RSING 959.8 IMW)
+
+William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the Indian Ocean, c.1750–c.1940,” in&nbsp;_Ships and the Development of Maritime Technology in the Indian Ocean_, ed. David Parkin and Ruth Barnes (London: RoutledgeCurzon, 2002), 227–58.
+
+Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in&nbsp;_[Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C11533543)_, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (National Library, Singapore, call no. R 305.8927059 TRA)
+
+S. M. Amin, “[The Pilgrims Progress](https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm),”&nbsp;_Saudi Aramco World_&nbsp;25, no. 6 (November–December 1974).
+
+Harun Aminurrashid,&nbsp;_[Chatetan Ka-Tanah Suchi](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C4078526)_&nbsp;(Singapura: Pustaka Melayu, 1960). (National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
+
+_[Hikayat Hang Tuah](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C12221058)_&nbsp;(Singapore: Malaya Publishing House, 1950). (National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
+
+William Facey, “[Queen of the India Trade](https://archive.aramcoworld.com/issue/200506/queen.of.the.india.trade.htm),”&nbsp;_Saudi Aramco World_&nbsp;56, no. 6 (November–December 2005): 10–16.
+
+Michael Francis Laffan,&nbsp;_[Islamic Nationhood and Colonial Indonesia: The Umma below the Winds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C11707504)_&nbsp;(London: RoutledgeCurzon, 2003). (National Library, Singapore, call no. RSEA 959.8022 LAF
+
+Muhammad Salleh bin Haji Awang,&nbsp;_Haji Di Semenanjung Malaysia: Sejarah Dan Perkembangannya Sejak Tahun 1300–1405H (1896–1985M)_&nbsp;(Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 107–37.
+
+Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,”&nbsp;_[Indonesia and the Malay World](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C8347428)_&nbsp;29, no. 84 (2001): 113–28. (National Library, Singapore, call no. RSING 959.8 IMW)
+
+Martin van Bruinessen, “Mencari Ilmu Dan Pahala Di Tanah Suci: Orang Nusantara Naik Haji \[Seeking knowledge and merit: Indonesians on the haj\],” in&nbsp;_Indonesia Dan Haji: Empat Karangan_, ed. Dick Douwes and N. J. G. Kaptein (Jakarta: INIS, 1997).
 
 
 
