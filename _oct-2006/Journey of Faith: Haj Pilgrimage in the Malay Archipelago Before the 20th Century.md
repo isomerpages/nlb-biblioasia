@@ -189,23 +189,23 @@ William Facey, “[Queen of the India Trade](https://archive.aramcoworld.com/iss
 William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the Indian Ocean, c.1750–c.1940,” in&nbsp;_Ships and the Development of Maritime Technology in the Indian Ocean_, ed. David Parkin and Ruth Barnes (London: RoutledgeCurzon, 2002), 227–58.
 
 #### **NOTES**
-1.  Wiliam Facey, “&nbsp;[Queen of the India Trade](http://www.saudiaramcoworld.com/issue/200506/queen.of.the.india.trade.htm),”&nbsp;_Saudi Aramco World_&nbsp;56, no. 6 (2005).&nbsp;[↩](https://biblioasia.nlb.gov.sg/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/#fnref:1)
+1.  Wiliam Facey, “&nbsp;[Queen of the India Trade](http://www.saudiaramcoworld.com/issue/200506/queen.of.the.india.trade.htm),”&nbsp;_Saudi Aramco World_&nbsp;56, no. 6 (2005).
     
-2.  _Haji di Semenanjung Malaysia: Sejarah dan perkembangannya sejak tahun 1300-1405H (1896-1985M)_&nbsp;(Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 115.&nbsp;[↩](https://biblioasia.nlb.gov.sg/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/#fnref:2)
+2.  _Haji di Semenanjung Malaysia: Sejarah dan perkembangannya sejak tahun 1300-1405H (1896-1985M)_&nbsp;(Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 115.&nbsp;
     
-3.  _Haji di Semenanjung Malaysia_,107–37; S. M. Amin, “&nbsp;[The Pilgrims Progress](https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm)&nbsp;,”&nbsp;_Saudi Aramco World_&nbsp;25, no. 6 (1974).&nbsp;[↩](https://biblioasia.nlb.gov.sg/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/#fnref:3)
+3.  _Haji di Semenanjung Malaysia_,107–37; S. M. Amin, “&nbsp;[The Pilgrims Progress](https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm)&nbsp;,”&nbsp;_Saudi Aramco World_&nbsp;25, no. 6 (1974).&nbsp;
     
-4.  Abdullah al-Qari Haji Salleh,&nbsp;_Sejarah hidup to’ Kenali_&nbsp;(Kota Bharu: Pustaka Aman Press, 1967) (National Library, Singapore, call no. RCLOS 920.0595 KEN.A); Raimy Ché-Ross, “Munshi Abdullah’s Voyage to Mecca: A Preliminary Introduction and Annotated Translation,”&nbsp;_Indonesia and the Malay World_&nbsp;28, no. 81 (July 2000): 173–213. (From Taylor &amp; Francis Online via NLB’s&nbsp;[eResources](https://eresources.nlb.gov.sg/main/)&nbsp;website)&nbsp;[↩](https://biblioasia.nlb.gov.sg/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/#fnref:4)
+4.  Abdullah al-Qari Haji Salleh,&nbsp;_Sejarah hidup to’ Kenali_&nbsp;(Kota Bharu: Pustaka Aman Press, 1967) (National Library, Singapore, call no. RCLOS 920.0595 KEN.A); Raimy Ché-Ross, “Munshi Abdullah’s Voyage to Mecca: A Preliminary Introduction and Annotated Translation,”&nbsp;_Indonesia and the Malay World_&nbsp;28, no. 81 (July 2000): 173–213. (From Taylor &amp; Francis Online via NLB’s&nbsp;[eResources](https://eresources.nlb.gov.sg/main/)&nbsp;website)&nbsp;
     
-5.  Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 186.&nbsp;[↩](https://biblioasia.nlb.gov.sg/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/#fnref:5)
+5.  Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 186.&nbsp;
     
-6.  Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 187.&nbsp;[↩](https://biblioasia.nlb.gov.sg/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/#fnref:6)
+6.  Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 187.&nbsp;
     
-7.  Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 189.&nbsp;[↩](https://biblioasia.nlb.gov.sg/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/#fnref:7)
+7.  Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 189.&nbsp;
     
-8.  Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 173–213.&nbsp;[↩](https://biblioasia.nlb.gov.sg/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/#fnref:8)
+8.  Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 173–213.
     
-9.  Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 200.&nbsp;[↩](https://biblioasia.nlb.gov.sg/vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/#fnref:9)
+9.  Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 200.&nbsp;
 
 
 
