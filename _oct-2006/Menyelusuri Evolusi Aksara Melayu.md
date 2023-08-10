@@ -5,3 +5,13 @@ description: Traces the evolution of Malay scripts, such as the Pallava, Kawi,
   Jawi and Roman scripts. It also illustrates how the interactions of the Malay
   people with major civilisations had impacted the evolution of these scripts.
 ---
+#### Traces the evolution of Malay scripts, such as the Pallava, Kawi, Jawi and Roman scripts. It also illustrates how the interactions of the Malay people with major civilisations had impacted the evolution of these scripts.
+
+
+_Bahasa Melayu dikagumi bukan_
+
+_saja kerana beifungsi di merata  
+bandar Nusantara tetapi kerana  
+bahasa Melayu ditulis_
+
+
