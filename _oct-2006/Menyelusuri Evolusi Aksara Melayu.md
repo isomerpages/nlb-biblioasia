@@ -48,6 +48,26 @@ Kedatangan orang-orang Eropah telah sekaligus juga membawa tulisan Rumi ke ranta
 
 Setiap aksara yang pernah digunakan orang Melayu sama ada Pallava, Kawi, dan kini Jawi atau Rumi menjadi saksi dan bukti tentang kemampuan masyarakat ini. Kesemua aksara-aksara ini telah digunakan untuk berbagai jenis keperluan perhubungan dan pengurusan. Selain itu, ia juga telah melahirkan karya-karya yang sehingga kini masih sesuai dan menjadi warisan yang tidak ternilai kepada masyarakat. Sesuailah seperti menurut Prof Datuk Dr Siti Hawa Salleh (2006), pada tahun 1726, Francois Velentijin telah menyuarakan kekagumannya terhadap masyarakat Melayu yang bukan sahaja mempunyai tulisan (aksara) malah menggunakan aksara itu untuk menghasilkan karya-karya dan duduk pula berkumpul beramai-ramai mengelilingi seorang pembaca memperdengarkan suaranya.
 
+**This article traces the evolution of the Malay scripts, such as the Pallava, Kawi, Jawi and Roman Scripts. It also illustrates how the interaction of the Malays with the major civilisations then had impacted the evolution of the scripts which left an indelible mark in history**.
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Juffri.jpg">
+<center><b>Juffri Supa'at</b><br>Reference Librarian<br>Lee Kong China Reference Library</center></div>
+
+#### **RUJUKAN**
+
+Hashim Musa, [_Sejarah Perkembangan Tulisan Jawi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9407622) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1999). (Call no. Malay R 499.2811 HAS)
+
+Hashim Musa, “Sejarah Awal Kemunculan dan Pemapanan Tulisan Jawi di Asia Tenggara,” in [_Tradisi Penulisan Manuskrip Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9452894) (Kuala Lumpur: Perpustakaan Negara Malaysia, 1997). (Call no. Malay R 499.2811 TRA)
+
+Hashim Musa, [_Epigrafi Melayu: Sejarah Sistem Tulisan dalam Bahasa Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1997). (Call no. Malay RSING 499.2811 HAS)
+
+James T. Collins, “Ciri-Ciri Bahasa Melayu Abad Ke–17,” in [_Tradisi Penulisan Manuskrip Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9452894) (Kuala Lumpur: Perpustakaan Negara Malaysia, 1997). (Call no. Malay R 499.2811 TRA)
+
+Siti Hawa Salleh, [_Genre Kesusasteraan Hikayat: Perkembangan Suatu Bentuk Kesusasteraan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12766152) \[Dibentangkan di Seminar Antarabangsa Manuskrip Melayu, Melestarikan Manuskrip Melayu Warisan Agung Bangsa, 10–11 Julai 2006, Kuala Lumpur. Anjuran Perpustakaan Negara Malaysia, Arkib Negara Malaysia dan Kementerian Kebudayaan Kesenian dan Warisan Malaysia, 2006\]. (Call no. Malay RSEA 016.09109595 SEM)
+
 
 
 
