@@ -206,10 +206,3 @@ William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the
 [^8]: Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 173–213.
     
 [^9]: Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca,” 200.
-
-
-
-
-
-
-
