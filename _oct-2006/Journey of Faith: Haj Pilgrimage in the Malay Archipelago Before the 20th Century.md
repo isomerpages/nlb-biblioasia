@@ -123,8 +123,23 @@ According to Raimy Che-Ross in his translation of Abdullah’s voyage to Mecca, 
 <i>As I entered into this exalted city</i><br> 
 <i>I became oblivious to all the pleasures and joys of this world</i><br><br>  
 <i>It was as if I had acquired Heaven and all that it holds</i><br>
-<i>I uttered a thousand prayers of thanks to the</i><br><i>Most Exalted God</i><br><br> <i>Thus I have forgotten all the hardships and</i><br> <i>torments along my journey</i><br>  <i>For I have yearned and dreamed after the Baitullah</i><br>  
-<i>for many months.</i>
+<i>I uttered a thousand prayers of thanks to the</i><br><i>Most Exalted God</i><br><br> <i>Thus I have forgotten all the hardships and</i><br> <i>torments along my journey</i><br>  <i>For I have yearned and dreamed after the Baitullah</i><br> <i>for many months.</i>
+
+Source: Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca: A Preliminary Introduction and Annotated Translation,”&nbsp;*Indonesia and the Malay World* 28, no. 81 (2000): 200. 
+
+The incomplete journal of Abdullah’s journey was safely returned to his family in Singapore through one of his companions.
+
+#### Haj and Arab Shipping in Singapore
+The rise of Hadhrami shipping in the Malay Archipelago in the mid-19th century boded well for pilgrims in this region. Hadhrami Arab shippers hailed from Yemen and competed successfully with the Europeans and Chinese in trade and shipping in the Indian Ocean. The Alsagoffs, a prominent Arab family in Singapore, established the firm Alsagoff &amp; Co. in 1848 to conduct trade within the islands of the Archipelago using their own vessels.
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/steamships.jpg">
+<div style="background-color: white;">Pilgrims on a steamship. <i>Image from Hajjah Amaina Collection, National Archives of Singapore</i>.</div>
+
+In the 1850s, Sayyid Ahmad Alsagoff extended the realm of his family business by starting a profitable business of transporting pilgrims between Southeast Asia and Jeddah. Using Singapore as the base, the Alsagoffs’ position in the pilgrim trade was tremendously strengthened by the Dutch’s restriction on the flow of pilgrims from Indonesia. Pilgrims from the Netherlands Indies during the first half of the 19th century only numbered a few hundreds, as the Dutch imposed a tax on prospective pilgrims. This is to discourage the return of religious fanatics who the Dutch feared would be groomed while performing the Haj and deepening Islamic knowledge in Mecca. Singapore, thus, became the hub of an expanding pilgrim trade from Southeast Asia partly because of this restriction, as many would pass through it by beginning their Haj from Singapore. This tax was removed in 1852.
+
+<img src="/images/vol-2-issue-3/Journey%20of%20faith/steamships.jpg">
+<div style="background-color: white;">Pilgrims on a steamship. <i>Image from Hajjah Amaina Collection, National Archives of Singapore</i>.</div>
+
+
 
 
 
