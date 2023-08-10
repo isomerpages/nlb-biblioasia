@@ -99,7 +99,8 @@ Like Chua Boon Lay, Abdul Rahman was a champion athlete at school and won the in
 
 #### **Chee Ah Hui**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto.jpg)
+<img style="width:90%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto.jpg">
+<div style="background-color: white;text-align:center"></div>
 <div style="background-color: white;">Chee Ah Hui. <i>Source: The Straits Times, 2 August 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 2 appearances in the Malaya Cup final (2 wins)
@@ -234,12 +235,6 @@ In 1933, he joined the South China Athletic Association team in Hong Kong,[^33] 
 All of these men achieved something special in the world of football in the years between the two world wars. The crowds at many of these games exceeded 5,000 and sometimes reached 10,000, an impressive number that surpasses some local games today. The press coverage of each Malaya Cup games was extensive, so fans could relive the magic moments that they witnessed at the Anson Road Stadium. Many of these legends were also talented in other sports, and they brought their natural skills and abilities to the stage.
 
 Today’s talk of the greatest players from Singapore rarely deviates from the players of recent memory, and even then, many are forgotten or marginalised. These names are presented here to remind people that there were great players who laid the foundation for a lasting football legacy in Singapore. They were indeed trailblazers who paved the way for the football heroes who came after them.
-
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger">
-<img style="width: 30%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/malayacupqrcode.jpg">
-<br>
-For more player profiles, visit <a href="https://go.gov.sg/malaya-cup-heroes-singapore"><i>https://go.gov.sg/malaya-cup-heroes-singapore</i></a> or scan this QR code.<br>
-</div>
 
 <div style="background-color: white;">
 <br>
