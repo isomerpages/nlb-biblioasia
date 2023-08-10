@@ -99,7 +99,7 @@ Like Chua Boon Lay, Abdul Rahman was a champion athlete at school and won the in
 
 #### **Chee Ah Hui**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto.jpg)
+![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto3.jpg)
 <div style="background-color: white;">Chee Ah Hui. <i>Source: The Straits Times, 2 August 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 2 appearances in the Malaya Cup final (2 wins)
