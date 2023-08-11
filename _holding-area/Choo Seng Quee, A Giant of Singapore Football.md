@@ -141,9 +141,9 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 #### **Notes**
 
-[^1] Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),” _Straits Times_, 29 May 1977. (From NewspaperSG)
+[^1]: Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),” _Straits Times_, 29 May 1977. (From NewspaperSG)
 
-[^2] Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127).”
+[^2]: Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127).”
 
 [^3] “[Missed Place in Olympic XI](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490406-1.2.145),” _Singapore Free Press_, 6 April 1949, 10. (From Newspaper SG)
 
@@ -153,23 +153,32 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 [^6] “[Knock-knock, Enter Koh](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750718-1.2.20.1.1),” _New Nation_, 18 July 1975, 10–11. (From Newspaper SG)
 
-[^7] “[Singapore Man Chosen for Olympic Selection](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390803-1.2.67),” _Malaya Tribune_, 3 August 1939, 12. (From Newspaper SG)
+[^7]: “[Singapore Man Chosen for Olympic Selection](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390803-1.2.67),” _Malaya Tribune_, 3 August 1939, 12. (From Newspaper SG)
 
-[^8] “[S’pore Soccer’s Biggest Rush for Players Is On](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480224-1.2.85),” _Malaya Tribune_, 24 February 1948, 7; “[S.A.F.A. Coach Has Plan for Victory](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490318-1.2.84),” _Straits Times_, 18 March 1949, 8. (From Newspaper SG)
+[^8]: “[S’pore Soccer’s Biggest Rush for Players Is On](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480224-1.2.85),” _Malaya Tribune_, 24 February 1948, 7; “[S.A.F.A. Coach Has Plan for Victory](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490318-1.2.84),” _Straits Times_, 18 March 1949, 8. (From Newspaper SG)
 
-[^9] “Uncle Choo dan Latihan Fisik Timnas Era 1950-an,” Detikcom, 19 March 2013, https://sport.detik.com/sepakbola/pandit/d-2197914/uncle-choo-dan-latihan-fisik-timnas-era-1950-an[](https://sport.detik.com/sepakbola/pandit/d-2197914/uncle-choo-dan-latihan-fisik-timnas-era-1950-an).
+[^9]: “Uncle Choo dan Latihan Fisik Timnas Era 1950-an,” Detikcom, 19 March 2013, https://sport.detik.com/sepakbola/pandit/d-2197914/uncle-choo-dan-latihan-fisik-timnas-era-1950-an.
 
-[^10] Randy Wirayudha, “Paman Coach, Pelatih Asing Pertama Timans Sepakbola Indonesia,” Historia, 14 July 2017, https://historia.id/olahraga/articles/paman-choo-pelatih-asing-pertama-timnas-sepakbola-indonesia-DbNXl/page/1.
+[^10]: Randy Wirayudha, “Paman Coach, Pelatih Asing Pertama Timans Sepakbola Indonesia,” Historia, 14 July 2017, https://historia.id/olahraga/articles/paman-choo-pelatih-asing-pertama-timnas-sepakbola-indonesia-DbNXl/page/1.
 
-[^11] “What’s Next after Indonesia’s SEA Games Football Gold?”, Tempo.co, 21 May 2023, https://en.tempo.co/read/1728104/whats-next-after-indonesias-sea-games-football-gold.
+[^11]: “What’s Next after Indonesia’s SEA Games Football Gold?”, Tempo.co, 21 May 2023, https://en.tempo.co/read/1728104/whats-next-after-indonesias-sea-games-football-gold.
 
-[^12] Ken Fernandez, “[First Job Will Be to Tour States](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580131-1.2.154),” _Straits Times_, 31 January 1958, 16. (From Newspaper SG)
+[^12]: Ken Fernandez, “[First Job Will Be to Tour States](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580131-1.2.154),” _Straits Times_, 31 January 1958, 16. (From Newspaper SG)
 
-[^13] “Choo Seng Quee – Dari Pemain Ke Juralatih Legenda (Bhg. 1),” Legasi Legenda, 8 April 2022, https://legasilagenda.com/2022/04/08/choo-seng-quee-1/.
+[^13]: “Choo Seng Quee – Dari Pemain Ke Juralatih Legenda (Bhg. 1),” Legasi Legenda, 8 April 2022, https://legasilagenda.com/2022/04/08/choo-seng-quee-1/.
 
-[^14] “Choo Seng Quee – Dari Pemain Ke Juralatih Legenda (Bhg. 2),” Legasi Legenda, 15 April 2022, https://legasilagenda.com/2022/04/15/choo-seng-quee-2/.
+[^14]: “Choo Seng Quee – Dari Pemain Ke Juralatih Legenda (Bhg. 2),” Legasi Legenda, 15 April 2022, https://legasilagenda.com/2022/04/15/choo-seng-quee-2/.
 
-[^15] “Asian Games 1962 (Indonesia),” The Rec.Sport.Soccer.Statistics Foundation, 6 November 2009, https://www.rsssf.org/tablesa/asgames62.html.
+[^15]: “Asian Games 1962 (Indonesia),” The Rec.Sport.Soccer.Statistics Foundation, 6 November 2009, https://www.rsssf.org/tablesa/asgames62.html.
 
-[^16] Normal Siebel, “[Singapore’s Cup Again](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650801-1.2.41.21),” _Straits Times_, 1 August 1965, 20. (From NewspaperSG)
+[^16]: Normal Siebel, “[Singapore’s Cup Again](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650801-1.2.41.21),” _Straits Times_, 1 August 1965, 20. (From NewspaperSG)
 
+[^17]: Joe Dorai, [“Tengku Gives SAFA OK on Choo,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640609-1.2.118.2) _Straits Times_, 9 June 1964, 16. (From NewspaperSG)
+
+[^18]: Ken Fernandez, [“Choo May Lose Coaching Job,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650130-1.2.151.1) _Straits Times_, 30 January 1965, 23. (From NewspaperSG)
+
+[^19]: [“Out…,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810108-1.2.108.3) _Straits Times_, 8 January 1981, 31. (From NewspaperSG)
+
+[^20]: [“Schoolboy Star,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520303-1.2.149?qt=choo,%20seng,%20quee,%20charlie,%20chan&q=choo%20seng%20quee%20charlie%20chan) _Straits Times_, 3 March 1952, 12; Herman Rappa, [“Our 1955 Soccer Stars Have Started Training,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19500707-1.2.140) _Singapore Standard_, 7 July 1950, 11. (From Newspaper SG)
+
+[^21]: [“Soccerites May Be Champions Today,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540817-1.2.169) _Straits Times_, 17 August 1954, 14. (From Newspaper SG)
