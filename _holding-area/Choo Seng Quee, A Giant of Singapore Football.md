@@ -182,3 +182,61 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 [^20]: [“Schoolboy Star,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520303-1.2.149?qt=choo,%20seng,%20quee,%20charlie,%20chan&q=choo%20seng%20quee%20charlie%20chan) _Straits Times_, 3 March 1952, 12; Herman Rappa, [“Our 1955 Soccer Stars Have Started Training,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19500707-1.2.140) _Singapore Standard_, 7 July 1950, 11. (From Newspaper SG)
 
 [^21]: [“Soccerites May Be Champions Today,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540817-1.2.169) _Straits Times_, 17 August 1954, 14. (From Newspaper SG)
+
+[^22]: [“Only 15, But They Are Good Enough for Div. 1,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19570227-1.2.62) _Singapore Free Press_, 27 February 1957, 14. (From Newspaper SG)
+
+[^23]: R. Suriamurthi, interview, 30 November 2021.
+
+[^24]: R. Suriamurthi, interview, 30 November 2021.
+
+[^25]: A. Thiyaga Raju, [_ROAR: Football Legends of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205824750), ed. Gary Koh (Singapore: Pagesetters Services Pte Ltd, 2022), 91–92. (From National Library, Singapore, call no. RSING 796.334095957 THI)
+
+[^26]: Francis Rozario, “[Seng Quee Better](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570316-1.2.51),” _Singapore Free Press_, 16 March 1957, 11. (From NewspaperSG)
+
+[^27]: Rozario, “[Seng Quee Better](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570316-1.2.51).”
+
+[^28]: A. Thiyaga Raju, [_ROAR: Football Legends of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205824750), 51–52; Quah Kim Song, interview, 21 June 2022.
+
+[^29]: A. Thiyaga Raju, [_ROAR: Football Legends of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205824750), 51.
+
+[^30]: A. Thiyaga Raju, [_ROAR: Football Legends of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205824750), 93.
+
+[^31]: Philip Tan and Terry Ang, “[FAS Takes Back Seng Quee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760902-1.2.5),” _New Nation_, 2 September 1976, 1. (From Newspaper SG)
+
+[^32]: Jeffrey Low, “[Where Will It All End?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710630-1.2.71.2),” _New Nation_, 30 June 1971, 13. (From Newspaper SG)
+
+[^33]: Quah Kim Song, interview, 21 June 2022.
+
+[^34]: Joe Dorai, “[How ‘Uncle’ Planned the M-Cup Coup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770605-1.2.100),” _Straits Times_, 5 June 1977, 24. (From Newspaper SG)
+
+[^35]: Dorai, “[How ‘Uncle’ Planned the M-Cup Coup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770605-1.2.100).”
+
+[^36]: Quah Kim Song, “[The Story Behind the Miracle](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770410-1.2.112),” _New Nation_, 10 April 1977, 32. (From Newspaper SG)
+
+[^37]: Quah, “[The Story Behind the Miracle](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770410-1.2.112).”
+
+[^38]: Ko Po Hui, “Thankfully, Fans Did Not Have Their Way,” Bolasepako, 25 April 2022, https://www.bolasepako.com/2010/04/if-fans-got-their-way.html.
+
+[^39]: Joe Dorai, “[Fans Petition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761216-1.2.107),” _Straits Times_, 16 December 1976, 23. (From Newspaper SG)
+
+[^40]: Joe Dorai, “[Fans Petition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761216-1.2.107).”
+
+[^41]: “World Cup 1978 Qualifications”, The Rec.Sport.Soccer Statistics Foundation, last accessed 5 July 2023, https://www.rsssf.org/tables/78qual.html.
+
+[^42]: Percy Senevirante, “[S’pore Go Down Fighting](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770313-1.2.97),” _Straits Times_, 13 March 1977, 28. (From Newspaper SG)
+
+[^43]: Dharsan Singh and Wilfred Yeo, “[Seng Quee in High Spirits](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770908-1.2.130),” _Straits Times_, 8 September 1977, 31. (From NewspaperSG)
+
+[^44]: “[Seng Quee Loses Leg](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770914-1.2.2),” _Straits Times_, 14 September 1977, 1; Dharsan Singh, “[Seng Quee Loses More of His Leg](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770920-1.2.12),” _Straits Times_, 20 September 1. (From NewspaperSG)
+
+[^45]: Joe Dorai, “[Uncle Choo Has a March Date](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780102-1.2.115.3),” _Straits Times_, 2 January 1978, 23. (From NewspaperSG)
+
+[^46]: Philip Tan, “[Uncle Decides to Make Comeback](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790117-1.2.78.14),” _New Nation_, 17 January 1979, 18; Jeffrey Low, “[Honorable Draw](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800501-1.2.79),” _New Nation_, 1 May 1980, 17. (From Newspaper SG)
+
+[^47]: Suresh Nair, “[Gold Medal for Seng Quee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800416-1.2.79),” _New Nation_, 16 April 1980, 18; Philip Tan and Suresh Nair, “[The Big Three](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780301-1.2.80.18),” _New Nation_, 1 March 1978, 18; Joe Dorai, “[S’pore Honours Ganesan, Choo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780809-1.2.99.1),” _Straits Times_, 9 August 1978, 25. (From Newspaper SG)
+
+[^48]: [Uncle (‘I Hate Football’) Choo Calls It a Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810108-1.2.61.9),” _New Nation_, 8 January 1981, 17. (From NewspapeSG)
+
+[^49]: “[Choo Seng Quee Critically Ill](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830630-1.2.5.4.1?ST=1&AT=search&k=choo%20seng%20quee&QT=choo,seng,quee&oref=article)_,_” _Singapore Monitor_, 30 June 1983, 4; “[Obituary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.119.1.aspx),” _Straits Times_, 1 July 1983, 44. (From NewspaperSG)
+
+[^50]: Jeffrey Low, “[A Beautiful Dreamer](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.141.1),” _Straits Times_, 1 July 1983, 47. (From Newspaper SG)
