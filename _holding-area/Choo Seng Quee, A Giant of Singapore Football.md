@@ -5,3 +5,5 @@ description: Uncle Choo masterminded Singapore’s famous Malaysia Cup victory i
   1977.  Four decades after his death, we remember his many contributions to the
   sport.
 ---
+#### Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in 1977. Four decades after his death, we remember his many contributions to the sport.
+
