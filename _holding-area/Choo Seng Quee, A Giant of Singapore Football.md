@@ -138,3 +138,38 @@ At the tail end of his career, Choo was awarded a gold medal by the All-Indonesi
 Choo finally retired from coaching in January 1981.[^48] When he died on 30 June 1983 at his home on Wolskel Road after a battle with kidney disease, there was an outpouring of grief nationwide.[^49]  
 
 “‘Uncle’ Choo Seng Quee… was the greatest football coach Singapore has ever produced, the best talent scout in Asia, and the soccer saviour of our two closest neighbours, Malaysia and Indonesia,” wrote football journalist Jeffrey Low. “He was respected sometimes beyond logic, sometimes beyond toleration, sometimes even beyond one’s self-respect. But in the end, his ‘sons’ never questioned the biggest lesson he taught them: ‘To die for the country’.”[^50]
+
+#### **Notes**
+
+[^1] Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),” _Straits Times_, 29 May 1977. (From NewspaperSG)
+
+[^2] Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127).”
+
+[^3] “[Missed Place in Olympic XI](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490406-1.2.145),” _Singapore Free Press_, 6 April 1949, 10. (From Newspaper SG)
+
+[^4] Full Back, “[A Forecast for Senior League](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490319-1.2.111),” _Straits Times_, 19 March 1949, 12. (From Newspaper SG)
+
+[^5] “Nimrod”, “[Singapore Training for Malaya Cup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360508-1.2.113)”, _Singapore Free Press and Mercantile Advertiser_, 8 May 1936, 16. (From Newspaper SG)
+
+[^6] “[Knock-knock, Enter Koh](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750718-1.2.20.1.1),” _New Nation_, 18 July 1975, 10–11. (From Newspaper SG)
+
+[^7] “[Singapore Man Chosen for Olympic Selection](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390803-1.2.67),” _Malaya Tribune_, 3 August 1939, 12. (From Newspaper SG)
+
+[^8] “[S’pore Soccer’s Biggest Rush for Players Is On](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480224-1.2.85),” _Malaya Tribune_, 24 February 1948, 7; “[S.A.F.A. Coach Has Plan for Victory](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490318-1.2.84),” _Straits Times_, 18 March 1949, 8. (From Newspaper SG)
+
+[^9] “Uncle Choo dan Latihan Fisik Timnas Era 1950-an,” Detikcom, 19 March 2013, https://sport.detik.com/sepakbola/pandit/d-2197914/uncle-choo-dan-latihan-fisik-timnas-era-1950-an[](https://sport.detik.com/sepakbola/pandit/d-2197914/uncle-choo-dan-latihan-fisik-timnas-era-1950-an).
+
+[^10] Randy Wirayudha, “Paman Coach, Pelatih Asing Pertama Timans Sepakbola Indonesia,” Historia, 14 July 2017, https://historia.id/olahraga/articles/paman-choo-pelatih-asing-pertama-timnas-sepakbola-indonesia-DbNXl/page/1.
+
+[^11] “What’s Next after Indonesia’s SEA Games Football Gold?”, Tempo.co, 21 May 2023, https://en.tempo.co/read/1728104/whats-next-after-indonesias-sea-games-football-gold.
+
+[^12] Ken Fernandez, “[First Job Will Be to Tour States](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580131-1.2.154),” _Straits Times_, 31 January 1958, 16. (From Newspaper SG)
+
+[^13] “Choo Seng Quee – Dari Pemain Ke Juralatih Legenda (Bhg. 1),” Legasi Legenda, 8 April 2022, https://legasilagenda.com/2022/04/08/choo-seng-quee-1/.
+
+[^14] “Choo Seng Quee – Dari Pemain Ke Juralatih Legenda (Bhg. 2),” Legasi Legenda, 15 April 2022, https://legasilagenda.com/2022/04/15/choo-seng-quee-2/.
+
+[^15] “Asian Games 1962 (Indonesia),” The Rec.Sport.Soccer.Statistics Foundation, 6 November 2009, https://www.rsssf.org/tablesa/asgames62.html.
+
+[^16] Normal Siebel, “[Singapore’s Cup Again](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650801-1.2.41.21),” _Straits Times_, 1 August 1965, 20. (From NewspaperSG)
+
