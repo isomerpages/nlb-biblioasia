@@ -67,8 +67,19 @@ Abdul Ghani's works are able to portray the universe and his thoughts. Whether d
 <img style="width: 100px; height: 100px;" src="/images/Authors/Mohamed%20Pitchay.jpg">
 <center> <b>Mohamed Pitchay Gani Bin Mohammed Abdul Aziz</b><br>National Institute of Education<br> Nanyang Technological University</center></div>
 
+#### **REFERENCES**
+       
+Abdul Ghani Hamid, [_Breezes: Selected Poems 1973–1978_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077911) (Singapore: Solidarity Publisher, 1978). (Call no. RSING 828.995957 ABD
 
+Abdul Ghani Hamid, [_An Artist's Note_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6250409) (Singapore: Angkatan Pelukis Aneka Daya, 1991). (Call no. RSING 759.9597 ABD)
 
+Abdul Ghani Hamid, [_A Journey With No End_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12270081) (Singapore: Perkumpulan Seni, 1998). (Call no: R828.995957 ABD
+
+Catherine Nichols, _Pablo Picasso_ (New York: PowerKids Press, 2006).
+
+Liz Gogerly, _Pablo Picasso: Master of Modern Art_ (London: Hodder Wayland. 2005)
+
+Stephen Bann and William Allen, eds., [_Interpreting Contemporary Art_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5806724) (London: Reaktion, 1991) (Call no. RART 709.047 INT)
 
 
 
