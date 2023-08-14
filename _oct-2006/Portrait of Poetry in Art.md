@@ -26,7 +26,7 @@ Abdul Ghani Hamid is as much a poet as he is an artist. He is also well known fo
 
 Being the only Malay artist cum poet in Singapore, he has indeed made his presence felt in this arena by blowing the soul in his poetry into the physical forum and colours in his paintings. The discussion that follows will show how Abdul Ghani merges the two genres namely art and poetry together into a complete anthestic form. Ultimately, the painting is no longer a splurge of colours and forms on a piece of canvas but a living nostalgia which further enhances his deepest innate feelings. The concept of colours and forms which manifest in his paintings bring much meaning to his poetry. Thus, he has produced a genre, "poetry-arts"m which is fresh and meaningful.
 
-Such feelings are portrayed in the mild form and arrangements found in the painting entitled Billet Doux [Love letters] (1973). It portrays love that longs for a unprecedented response without a beautiful array of words or strong material attraction. This is skilfully reflected in the poetry entitled Ukiran Kasih (Carving of Love). The poetry narrates that true love especially that of a mother is not determined or limited by superficiality as reflected in the following verses:
+Such feelings are portrayed in the mild form and arrangements found in the painting entitled *Billet Doux* [Love letters] (1973). It portrays love that longs for a unprecedented response without a beautiful array of words or strong material attraction. This is skilfully reflected in the poetry entitled *Ukiran Kasih* (Carving of Love). The poetry narrates that true love especially that of a mother is not determined or limited by superficiality as reflected in the following verses:
 
 <i>Not a line<br>
 restricts<br>
@@ -36,5 +36,31 @@ no words most beautiful<br>
 colour my reverence<br>
 Not a carving everlasting<br>
 as a mother and her child.</i>
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
