@@ -8,7 +8,9 @@ description: The artist-cum-poet Abdul Ghani Hamid is one of the earliest
 ---
 ####  The artist-cum-poet Abdul Ghani Hamid is one of the earliest proponents of Pablo Picasso in the region. He is well known for his controversial artwork in 1957 which he named Mata dan Hati, meaning “Eyes and Heart”.
 
-
+<img src="/images/Vol%202%20Issue%203/PoetryArt/abdul-ghani-hamid.jpg" style="width:50%;">
+ <div style="background-color: white;">Abdul Ghani Hamid<br>Abdul Ghani Hamid is one of the authors featured in the Singapore Literary Pioneers Gallery in the National Library, Level 11.<i> Images reproduced from Abdul Ghani Hamid, Petikan Rasa = Abstract of Feelings: A Collection of Poems &amp; Paintings. Angkatan Sasterawan '50.</i>
+</div>
 
 Modern art started with a movement that developed in stages and it was formed through interactions with various influences that shaped the world. These influences include Paul Cezanne's works which literally witnessed the breaking down of the world into various cubical forms such as the cylinder, cone and sphere. This approach led to the evolution of the 20th century movement in art, especially paintings with objects represented as geometrical shapes. Apart from this, there were also works by Henri de Toulouse-Lautrec, Diego Velazquez and El Greco, which later inspired Pablo Picasso to propagate a contemporary piece of painting in 1907. This painting inspired by human images in various erotic and cynical perspectives was so artistically innovative that it became a trend setter and subsequently revolutionized the art of painting forever. This mesmerizing piece of painting is *Les Dernoiseau d'Avignon*.
 
