@@ -157,13 +157,13 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 [^2]: Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127).”
 
-[^3] “[Missed Place in Olympic XI](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490406-1.2.145),” _Singapore Free Press_, 6 April 1949, 10. (From Newspaper SG)
+[^3]: “[Missed Place in Olympic XI](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490406-1.2.145),” _Singapore Free Press_, 6 April 1949, 10. (From Newspaper SG)
 
-[^4] Full Back, “[A Forecast for Senior League](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490319-1.2.111),” _Straits Times_, 19 March 1949, 12. (From Newspaper SG)
+[^4]: Full Back, “[A Forecast for Senior League](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490319-1.2.111),” _Straits Times_, 19 March 1949, 12. (From Newspaper SG)
 
-[^5] “Nimrod”, “[Singapore Training for Malaya Cup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360508-1.2.113)”, _Singapore Free Press and Mercantile Advertiser_, 8 May 1936, 16. (From Newspaper SG)
+[^5]: “Nimrod”, “[Singapore Training for Malaya Cup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360508-1.2.113)”, _Singapore Free Press and Mercantile Advertiser_, 8 May 1936, 16. (From Newspaper SG)
 
-[^6] “[Knock-knock, Enter Koh](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750718-1.2.20.1.1),” _New Nation_, 18 July 1975, 10–11. (From Newspaper SG)
+[^6]: “[Knock-knock, Enter Koh](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750718-1.2.20.1.1),” _New Nation_, 18 July 1975, 10–11. (From Newspaper SG)
 
 [^7]: “[Singapore Man Chosen for Olympic Selection](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390803-1.2.67),” _Malaya Tribune_, 3 August 1939, 12. (From Newspaper SG)
 
