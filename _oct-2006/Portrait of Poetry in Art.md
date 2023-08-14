@@ -36,3 +36,32 @@ no words most beautiful<br>
 colour my reverence<br>
 Not a carving everlasting<br>
 as a mother and her child.</i>
+
+#### **The Artist and His World**
+
+A unique artist who is conscious of his surroundings, Abdul Ghani Harnid never allows the sights of life to pass by unnoticed. The *lalang* (tall grasses) that was once a common sight in Singapore has become a symbol of inspiration for many of his creative works. He philosophised that the *lalang* is a symbol of strength, survival, confidence and focused mindset. To him, the lalang has all the human values that are ineffable and meaningful and they inspired him to produce more than one painting on the same subject. They are *Lalang (Green)*, *Lalang (V)*, *Lalang (Mini)* and *Lalang (VI)*. One of his early *lalang* series (1980's) was exhibited in Salon des Artiste Francais, Grand Palais, Paris.
+
+The spirit of the atop can be seen in *Lalang (V)*, where Abdul Ghani painted two red *lalang* among a bunch of closely packed green and sometimes yellow *lalang*. This mixture of natural colours simulates the variations and excitement of the life of the *lalang*. Once in a while, some purple *lalang* appears in between the slit of the bunch of *lalang*. The bunch of the *lalang* then undergoes some form of evolution because the *lalang* no longer exists in its natural greenery but in a magnitude of shades that may lead to the *lalang* losing its roots of existence. Its upright form reflects the decision and a common aspiration of the *lalang* to move forward without a blink and being prepared to accept changes. This is beautifully expressed in his poetry entitled *Sesuatu Mengubah Segalanya* (Something Changes Everything) as in the following verse:
+ 
+<i>A quick drastic change<br>
+and fast a fearless dash,<br>
+based on time, not intelligence.<br>
+it ends halfway.<br>
+Sometimes, something changes everything.</i>
+
+The poetry above reflects the impact of changes, due to globalisation among others, on human beings who are beginning to lose the value of life in this fast moving world, resulting in the loss of humanity.
+
+Abdul Ghani is also very much influenced by the world around him. The nostalgic moments of his childhood residing in Jalan Hajjah at Siglap Kampung Baru, in a fisherman's home, with chirpings of birds flying over the roof, created the very sense of synthesis with the environment. The influence of the waves, winds, sky and the dried leaves scattered around his home is vividly portrayed in his paintings and poetry.
+
+Abdul Ghani's main assets are his eyes and heart. This is proven by his latest series of photographs. The photographs taken seem to have a much more natural aesthetic value than that of a painting. The photograph entitled *Gentle Wave*, for example, describes the harshness of the wave hitting a rock. The concentrated intense white bubbles leave behind a beautifully shattered glass effect on the sea's surface. The green background soothes the eye while the darker tone of green signifies the deep waters that look upon the constant hammering of the current on the waves. This is indeed more than a picture. It is a masterpiece because it is a photograph with painting effects. Abdul Ghani's meticulous eyes and heart has brought about such a union of nature and beauty. This beauty is expertly expressed in the poetry entitled *Batu dan Ombak* (Stone and Waves) as in the following verse;
+
+ <i>White clear sincerity<br> brought by distant waves<br>  submission without order<br>freedom spreads everywhere. </i>
+
+Abdul Ghani's works are able to portray the universe and his thoughts. Whether directly or indirectly, the paintings are a sound manifestation of the poems assigned to them.
+
+***This article was first published in Abdul Ghani Hamid's Petikan Rasa = Extracts of Feelings: A Collection of Poems &amp; Paintings, pp. 16–18, 1SBN 981-05-2833-7, published 2005 by Angkatan Sasterawan '50. Call no. RSING q899.281 AHD***
+
+
+
+
+
