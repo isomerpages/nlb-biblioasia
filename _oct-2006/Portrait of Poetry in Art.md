@@ -8,6 +8,8 @@ description: The artist-cum-poet Abdul Ghani Hamid is one of the earliest
 ---
 ####  The artist-cum-poet Abdul Ghani Hamid is one of the earliest proponents of Pablo Picasso in the region. He is well known for his controversial artwork in 1957 which he named Mata dan Hati, meaning “Eyes and Heart”.
 
+
+
 Modern art started with a movement that developed in stages and it was formed through interactions with various influences that shaped the world. These influences include Paul Cezanne's works which literally witnessed the breaking down of the world into various cubical forms such as the cylinder, cone and sphere. This approach led to the evolution of the 20th century movement in art, especially paintings with objects represented as geometrical shapes. Apart from this, there were also works by Henri de Toulouse-Lautrec, Diego Velazquez and El Greco, which later inspired Pablo Picasso to propagate a contemporary piece of painting in 1907. This painting inspired by human images in various erotic and cynical perspectives was so artistically innovative that it became a trend setter and subsequently revolutionized the art of painting forever. This mesmerizing piece of painting is *Les Dernoiseau d'Avignon*.
 
 In 1937, Picasso produced a monochrome based oil painting entitled Guernica. It portrayed horrific images of dismembered humans and animals parts arranged geometrically. Basically, one can find a human body, a cow's head or a horse leg scattered all over the painting in confusion. This horrific form of painting, as it may seem, was intentionally crafted, so much so that it remains esthetically refreshing in the eyes and minds of paintings enthusiast. They admired the painting with bountiful of praise as being a brave form of art. It was described as the most powerful anti-war sentiments and was the centre piece for the Spanish Pavilion of the 1937 World's Fair.
@@ -80,7 +82,3 @@ Catherine Nichols, _Pablo Picasso_ (New York: PowerKids Press, 2006).
 Liz Gogerly, _Pablo Picasso: Master of Modern Art_ (London: Hodder Wayland. 2005)
 
 Stephen Bann and William Allen, eds., [_Interpreting Contemporary Art_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5806724) (London: Reaktion, 1991) (Call no. RART 709.047 INT)
-
-
-
-
