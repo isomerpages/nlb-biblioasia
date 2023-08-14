@@ -91,6 +91,8 @@ Listen on:
 The Orang Seletar used to live on boats that plied the Johor Strait. They were here when Raffles landed in 1819. Today, however, they have settled in kampongs in Johore. Some of the older ones still remember playing in the waters around Seletar island, says writer and educator Ilya Katrinnada.<br>
 
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%2012%20(orang%20seletar%20by%20ilya)v1.jpg" align="left"><br clear="all">
+Listen on: [Spotify](https://open.spotify.com/episode/1khpU2lC5XWR9mef2bbIBY), [Apple Podcasts](https://podcasts.apple.com/us/podcast/whats-become-of-the-seafaring-orang-seletar/id1688142751?i=1000624413738), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/YzZmNzNkZjQtMjU4My00NmY0LTkxNzctYjVmMDAwY2Q2Zjg3?sa=X&amp;ved=0CAUQkfYCahcKEwjY3uDfpN2AAxUAAAAAHQAAAAAQAQ)
+
 
 #### **Credits** ####
 BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to the guests for coming on the show.
