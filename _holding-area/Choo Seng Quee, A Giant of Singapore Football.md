@@ -6,6 +6,7 @@ description: Uncle Choo masterminded Singapore’s famous Malaysia Cup victory i
   sport.
 ---
 #### Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in 1977. Four decades after his death, we remember his many contributions to the sport.
+By A. Thiyaga Raju and Gary Koh
 
 ![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/a7spread.jpg)
 <div style="background-color: white;">Choo Seng Quee (right) and Football Association of Singapore chairman Ganesan Nadesan celebrating after Singapore’s victory over Penang in the 1977 Malaysia Cup. <i>Image reproduced from Godfrey Robert, The Malaysia Cup (Singapore: 2A Project Consultants, 1991), 97. (From National Library, Singapore, call no. RSING 796.33464 ROB).</i></div>
@@ -23,6 +24,8 @@ The second half, though, was a different story as Singapore managed to claw back
 As the _Straits Times_ noted: “The manner in which Singapore came back to win the cup just when everyone had given up hope for them made the hair stand on the back of necks.”[^2]&nbsp;
 
 Credit for that historic win should be laid at the feet of a Singapore team who played their hearts out. But one other person played just as important a role, even though his name did not appear on the starting 11. Choo (or Uncle Choo as he was fondly termed) had assembled the team, trained and motivated them, and planned and strategised their matches. He did all this in the face of detractors who said he was too old to do the job and who had organised petitions to remove him.
+
+##### Choo and Team
 
 With the win, Choo, in his trademark batik shirt, earned his place in the annals of Singapore football. So it is not surprising then that when he died just six years later, at the age of 68, an outpouring of grief swept over the nation. Four decades on, it is safe to say that no other football coach has occupied the imagination of Singaporeans in quite the same way.
 
@@ -61,6 +64,8 @@ following his failure to return from his months-long leave,[^18] Choo opened a s
 
 Choo returned to guide Singapore for the final time in the pre-World Cup qualifiers and the Malaysia Cup in 1977, and coached neighbouring Johor a few years later in 1980. He guided the Johor team to a respectable mid-table finish, ending up seventh in the Malaysia Cup league phase, before retiring in early January 1981.[^19]
 
+##### Choo Coaching
+
 Although Choo made his name coaching various national sides, it was his work with young players at Farrer Park’s fabled football fields that he cemented his reputation as Singapore’s finest coach.
 
 The earliest evidence of him coaching young  
@@ -74,26 +79,26 @@ This was when the legend of “Uncle” Choo began to take shape in these decade
 
 His dedication was remarkable. R. Suriamurthi, the 1980 Malaysia Cup winner, attested to how Choo helped him. “In those days, money was very hard to come by at home, so I had no sports gear with me. Uncle gave me two complete sets of football jerseys and shorts and two pairs of socks and boots each,” said Suriamurthi.[^23]
 
-“He sponsored me tea and soup _kambing_ \[mutton soup\] so that I could beef up my physique. Any equipment we needed, we could get from his Maju Jaya Sports Shop at Owen Road. He had no pay from his scouting or youth training. Nor was he sponsored to do so, not like today where coaches are paid to coach secondary school teams.”[^24]&nbsp;
+“He sponsored me tea and soup _kambing_ \[mutton soup\] so that I could beef up my physique. Any equipment we needed, we could get from his Maju Jaya Sports Shop at Owen Road. He had no pay from his scouting or youth training. Nor was he sponsored to do so, not like today where coaches are paid to coach secondary school teams.”[^24]
 
-&nbsp;It was also at Farrer Park that Singapore-based British serviceman Peter Corthine, who was once in the books of Tottenham Hotspur as a trainee, managed to revive his professional career in the Football League in England following his training under the great man in 1957.[^25]&nbsp;
+It was also at Farrer Park that Singapore-based British serviceman Peter Corthine, who was once in the books of Tottenham Hotspur as a trainee, managed to revive his professional career in the Football League in England following his training under the great man in 1957.[^25]
 
-In an interview with the _Singapore Free Press_ in March 1957, the then-19-year-old remarked that Choo would have been a top English football coach on par with the best in his home country. “\[I\] maintain that Seng Quee is in a class by himself,” he said. “His methods bring fast results, yet they do not tend to change one’s own style in the least.”[^26]&nbsp;
+In an interview with the _Singapore Free Press_ in March 1957, the then-19-year-old remarked that Choo would have been a top English football coach on par with the best in his home country. “\[I\] maintain that Seng Quee is in a class by himself,” he said. “His methods bring fast results, yet they do not tend to change one’s own style in the least.”[^26]
 
-“For that matter, I strongly believe if Seng Quee was in England, he would be wanted by many professional clubs as a coach... I don’t think I have ever come across a man more enthusiastic in the game. He trains hundreds of youths now and gets nothing in return, but the satisfaction of seeing them play good soccer.”[^27]&nbsp;
+“For that matter, I strongly believe if Seng Quee was in England, he would be wanted by many professional clubs as a coach... I don’t think I have ever come across a man more enthusiastic in the game. He trains hundreds of youths now and gets nothing in return, but the satisfaction of seeing them play good soccer.”[^27]
 
-Choo also visited football fields across Singapore to personally scout and select potential footballers for the national team. That was how local football icon Quah Kim Song and his older brothers were recruited. Quah recalled how “Uncle” got him in for personalised training after seeing him play at Deptford Road in Sembawang. “My brothers were all coached by Uncle Choo, so mine was a natural progression,” he recalled. “He spoke to me and said, ‘If you train under me, I can make you a big star.’”[^28]&nbsp;
+Choo also visited football fields across Singapore to personally scout and select potential footballers for the national team. That was how local football icon Quah Kim Song and his older brothers were recruited. Quah recalled how “Uncle” got him in for personalised training after seeing him play at Deptford Road in Sembawang. “My brothers were all coached by Uncle Choo, so mine was a natural progression,” he recalled. “He spoke to me and said, ‘If you train under me, I can make you a big star.’”[^28]
 
 “He said that with confidence and invited me to Farrer Park, which was a hunting ground for football. I was staying in Naval Base and had to take a bus, which was a 45-minute ride to Farrer Park.”
 
 Quah recalled his bewilderment the first time he arrived at Farrer Park. “When I reached at 8 am,  
-I looked around,” he said. “There was no player around, and suddenly a big, tall father figure came.”&nbsp;
+I looked around,” he said. “There was no player around, and suddenly a big, tall father figure came.”
 
 “I told him, ‘Uncle, you are only training me?’ He said there was another guy who was supposed to come, \[future national player\] Jaffar Yacob. He trained us both together and showed us the ropes on how to play football.”
 
-In the absence of coaching certification, which only commenced in Asia in the late 1960s, Choo was a self-taught man. To advance his knowledge, Choo read many books on the latest methods of coaching football.&nbsp;
+In the absence of coaching certification, which only commenced in Asia in the late 1960s, Choo was a self-taught man. To advance his knowledge, Choo read many books on the latest methods of coaching football.
 
-Aside from football theory, there were rules that Choo insisted his trainees and players abide by for their self-discipline. “Uncle told me that if I am to become an excellent footballer, I have to make huge sacrifices,” said Quah. “That meant sleeping early, eating well, no girlfriend and so on. I followed his mantra and advice to a tee and became one of the best strikers in the national team.”[^29]&nbsp;
+Aside from football theory, there were rules that Choo insisted his trainees and players abide by for their self-discipline. “Uncle told me that if I am to become an excellent footballer, I have to make huge sacrifices,” said Quah. “That meant sleeping early, eating well, no girlfriend and so on. I followed his mantra and advice to a tee and became one of the best strikers in the national team.”[^29]
 
 Other rules included a smoking ban at training premises, no consumption of iced water or soft drinks, and compulsory attendance for flag raising and singing of the national anthem at 6 am in the morning before the commencement of the day’s training. Anyone found infringing these rules would be made to run laps around the training pitch before he was sent packing without further participation in the training session of the day.[^30]
 
@@ -101,22 +106,21 @@ Other rules included a smoking ban at training premises, no consumption of iced 
 
 In 1976, Football Association of Singapore chairman Ganesan Nadesan brought Choo back into the national coaching hot seat.[^31] He was given full rein in the selection and training of players ahead of the World Cup and Malaysia Cup qualifiers taking place in 1977, unlike previous occasions where Choo had to work with teams chosen by selectors such as committee members of the national football association and chairmen of the football clubs, or work with fellow coaches in the coaching committee.
 
-Drama quickly ensued in the aftermath of the appointment. Local football fans were doubtful that Choo, who was then already 62, had the ability to handle the national team. One of his first tasks was to demand the reinstatement of several old stalwarts, whom he had known from their youth training at Farrer Park. Among them was Quah who was then serving a suspension. “Uncle Choo told Ganesan that if he was to come back, ‘On my terms’,” said Quah.[^32]&nbsp;
+Drama quickly ensued in the aftermath of the appointment. Local football fans were doubtful that Choo, who was then already 62, had the ability to handle the national team. One of his first tasks was to demand the reinstatement of several old stalwarts, whom he had known from their youth training at Farrer Park. Among them was Quah who was then serving a suspension. “Uncle Choo told Ganesan that if he was to come back, ‘On my terms’,” said Quah.[^32]
 
-“He said, ‘I don’t care about all these. I want my players back because they can contribute.’ He knew what I could do for the team and told Ganesan,  
-‘I have a plan for Quah Kim Song. I want him back.’”[^33]
+“He said, ‘I don’t care about all these. I want my players back because they can contribute.’ He knew what I could do for the team and told Ganesan, ‘I have a plan for Quah Kim Song. I want him back.’”[^33]
 
 Gathering his former trainees into the national set-up was the easy part. They already had the skills and physical fitness, but needed a spark to rekindle the fire in their hearts. “I knew they lacked self-conviction. They were afraid that the home crowd would criticise them. But I made them believe in the Singapore flag – that we must first have the country in mind,” said Choo.[^34]
 
 Choo reintroduced the coaching fundamentals he had previously taught them in their youth. He also started his early preparations by instilling patriotism in the players. “Each morning at 5.30 am the team had to hoist the national flag and sing the National Anthem as loud as they could,” said Choo.&nbsp; “Now I am happy to say that every player in my squad is prepared to give his leg, hand or head to play for Singapore – and win.”[^35]
 
-Quah recalled an incident that showed Choo’s dedication to the game and his players. “One morning it drizzled quite heavily. After breakfast we were only too glad to jump back into bed. But the coach really shamed us all when, punctual as usual, he stood in the rain waiting for us,” said Quah. “‘If you boys want to do well in this tournament you must be prepared to withstand some things,’ he shouted at us. As he spoke, he was drenched to the skin and tears welled in his eyes.”[^36]&nbsp;
+Quah recalled an incident that showed Choo’s dedication to the game and his players. “One morning it drizzled quite heavily. After breakfast we were only too glad to jump back into bed. But the coach really shamed us all when, punctual as usual, he stood in the rain waiting for us,” said Quah. “‘If you boys want to do well in this tournament you must be prepared to withstand some things,’ he shouted at us. As he spoke, he was drenched to the skin and tears welled in his eyes.”[^36]
 
-Upon hearing this, Quah said they all felt ashamed. “Thoroughly disgraced, we sprung from the cosy warmth of our beds, hopped into our football gear and begun training in earnest. I think it was at this juncture that it suddenly dawned on us what our coach had all along been trying to tell us. From then onwards, we never let him down.”[^37]&nbsp;
+Upon hearing this, Quah said they all felt ashamed. “Thoroughly disgraced, we sprung from the cosy warmth of our beds, hopped into our football gear and begun training in earnest. I think it was at this juncture that it suddenly dawned on us what our coach had all along been trying to tell us. From then onwards, we never let him down.”[^37]
 
 Choo also arranged for a series of international friendly matches to help the Lions get up to speed with the essentials of the game ahead of their World Cup Asian qualifying debut. However, the final results in the lead-up were far from satisfactory, with many people calling for the veteran tactician’s head to roll.[^38]
 
-In December 1976, three months after his appointment as national coach, some local fans started a campaign. They planned to submit two petitions to the Football Association of Singapore, Singapore Sports Council and Minister for Social Affairs Othman Wok – one calling for Choo’s replacement with technical advisor Trevor Hartley, and the other for the reinstatement of several players back to the national team. “Results are pathetic because Seng Quee’s methods are out-moded and because of his poor rapport with players,” read one petition.[^39]&nbsp;
+In December 1976, three months after his appointment as national coach, some local fans started a campaign. They planned to submit two petitions to the Football Association of Singapore, Singapore Sports Council and Minister for Social Affairs Othman Wok – one calling for Choo’s replacement with technical advisor Trevor Hartley, and the other for the reinstatement of several players back to the national team. “Results are pathetic because Seng Quee’s methods are out-moded and because of his poor rapport with players,” read one petition.[^39]
 
 “Players like Arshad \[Khamis\] and Dollah \[Kassim\] who showed signs of improvement under Mr Hartley are now playing like beginners. Time is running short and Seng Quee must be replaced before it’s too late for even Mr Hartley to do anything,” stated the other petition.[^40]
 
@@ -124,7 +128,9 @@ Choo had the final laugh though when the World Cup qualifiers commenced in Febru
 
 Finishing second in their qualifying group after a 0–4 drubbing by Indonesia, the Lions eventually finished runner-up in the playoff following a 0–1 defeat to Hong Kong in the group final.[^42] &nbsp;
 
-All this, of course, was a lead-up to the historic Malaysia Cup win in May 1977.&nbsp;
+All this, of course, was a lead-up to the historic Malaysia Cup win in May 1977.
+
+##### Choo holding back tears
 
 #### **Sacrifices and Accolades**
 
