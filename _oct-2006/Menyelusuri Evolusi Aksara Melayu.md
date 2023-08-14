@@ -7,11 +7,15 @@ description: Traces the evolution of Malay scripts, such as the Pallava, Kawi,
 ---
 #### Traces the evolution of Malay scripts, such as the Pallava, Kawi, Jawi and Roman scripts. It also illustrates how the interactions of the Malay people with major civilisations had impacted the evolution of these scripts.
 
-Suku-suku Asia Tenggara yang memiliki sistem tulisan dihormati oleh petualang barat yang mula-mula mengunjungi bandar-bandar utama Nusantara pada abad yang keenam belas. Dan sesungguhnya di setengah-setengah wilayah Asia Tenggara terdapat kadar keberaksaraan yang amat tinggi, bahkan mungkin lebih tinggi daripada kadar yang terdapat di kalangan masyarakat Eropah pada zaman itu (Reid 1988). Bahasa Melayu dikagumi bukan saja kerana berfungsi di merata bandar Nusantara tetapi kerana bahasa Melayu ditulis.
+Bahasa Melayu pemah pada suatu masa dulu menjadi bahasa perantaraan ataupun *lingua franca* di daerah Asia Tenggara. la juga telah melalui pelbagai perubahan semenjak ia digunakan sebagai alat perhubungan. Begitu juga dengan sistem tulisan bahasa Melayu yang juga disebut sebagai aksara Melayu. Sejak zaman-berzaman, pelbagai jenis aksara telah digunakan oleh orang Melayu.
+
+Menurut Collins (1997: 52):
+
+<i>Suku-suku Asia Tenggara yang memiliki sistem tulisan dihormati oleh petualang barat yang mula-mula mengunjungi bandar-bandar utama Nusantara pada abad yang keenam belas. Dan sesungguhnya di setengah-setengah wilayah Asia Tenggara terdapat kadar keberaksaraan yang amat tinggi, bahkan mungkin lebih tinggi daripada kadar yang terdapat di kalangan masyarakat Eropah pada zaman itu (Reid 1988). Bahasa Melayu dikagumi bukan saja kerana berfungsi di merata bandar Nusantara tetapi kerana bahasa Melayu ditulis.</i>
 
 Perkembangan aksara-aksara yang pernah digunakan adalah akibat daripada pengaruh dan perhubungan mereka dengan pelbagai tamadun besar pada masa lalu. Dari satu sudut, ia juga jelas mencerminkan tentang keupayaan dan kesudian orang Melayu menghadapi perubahan serta mengubahsuaikan unsur-unsur asing untuk keperluan dan kemajuan mereka. Ini jelas terlihat tatkala kita menyelusuri dan meneliti evolusi aksara Melayu.
 
-Pengaruh Hindu-Buddha Aksara Pallava Dan Kawi 
+#### **Pengaruh Hindu-Buddha Aksara Pallava Dan Kawi** 
 
 Antara bukti terawal yang menunjukkan sejarah tulisan di Kepulauan Melayu ialah inskripsi batu Raja Mulavarman yang dianggarkan bertarikh 400 masihi. Menurut Prof Hashim Musa (1997: 28), "antara tulisan Pallava terawal yang melambangkan bahasa Melayu dijumpai pada abad ketujuh Masihi ialah inskripsi Srivijaya di Kedukan Bukit 683 Masihi, Talang Tuwo 684 Masihi dan Kota Kapur, Pulau Bangka 686 Masihi." Skrip Pallava mempunyai banyak persamaan dengan skrip yang digunakan sewaktu pemerintahan kerajaan Pallava di India.
 
