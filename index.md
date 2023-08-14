@@ -17,6 +17,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 1/The Padang/the padang hero.jpg
   - infopic:
+      title: What’s Become of the Seafaring Orang Seletar?
+      subtitle: podcast
+      description: The Orang Seletar used to live on boats that plied the Johor
+        Strait. They were here when Raffles landed in 1819.
+      button: Listen to biblioasia+
+      url: /podcast/orang-seletar/
+      image: /images/Podcast/ilya ep12.jpg
+      alt: Seafaring Orang Seletar
+  - infopic:
       title: Forgotten Heroes of the Malaya Cup
       subtitle: Sports
       description: We remember some legendary players of the interwar years who left
