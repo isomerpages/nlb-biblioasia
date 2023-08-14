@@ -69,6 +69,10 @@ The poetry above reflects the impact of changes, due to globalisation among othe
 
 Abdul Ghani is also very much influenced by the world around him. The nostalgic moments of his childhood residing in Jalan Hajjah at Siglap Kampung Baru, in a fisherman's home, with chirpings of birds flying over the roof, created the very sense of synthesis with the environment. The influence of the waves, winds, sky and the dried leaves scattered around his home is vividly portrayed in his paintings and poetry.
 
+<img src="/images/Vol%202%20Issue%203/PoetryArt/pia%20%20gentle%20waves1.jpg" style="width:80%;">
+ <div style="background-color: white;">Gentle Waves, 2003.  <i>Images reproduced from Abdul Ghani Hamid, Petikan Rasa = Abstract of Feelings: A Collection of Poems &amp; Paintings. Angkatan Sasterawan '50.</i>
+</div>
+
 Abdul Ghani's main assets are his eyes and heart. This is proven by his latest series of photographs. The photographs taken seem to have a much more natural aesthetic value than that of a painting. The photograph entitled *Gentle Wave*, for example, describes the harshness of the wave hitting a rock. The concentrated intense white bubbles leave behind a beautifully shattered glass effect on the sea's surface. The green background soothes the eye while the darker tone of green signifies the deep waters that look upon the constant hammering of the current on the waves. This is indeed more than a picture. It is a masterpiece because it is a photograph with painting effects. Abdul Ghani's meticulous eyes and heart has brought about such a union of nature and beauty. This beauty is expertly expressed in the poetry entitled *Batu dan Ombak* (Stone and Waves) as in the following verse;
 
  <i>White clear sincerity<br> brought by distant waves<br>  submission without order<br>freedom spreads everywhere. </i>
