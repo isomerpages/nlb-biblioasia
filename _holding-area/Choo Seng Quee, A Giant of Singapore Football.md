@@ -144,6 +144,8 @@ Choo kept his word and proved his critics wrong. In January 1979, he returned to
 
 At the tail end of his career, Choo was awarded a gold medal by the All-Indonesia Soccer Federation on 19 April 1980 for his trailblazing work in making the Garudas a Southeast Asian force. The team under Choo was considered the best in Indonesia’s soccer history. Two years earlier, he had been named Singapore Coach of the Year in March 1978 and awarded the Public Service Medal (Pingat Bakti Masyarakat) by the Singapore government in August 1978 for his “contribution towards the promotion of the game”.[^47]
 
+##### Choo with his medal
+
 Choo finally retired from coaching in January 1981.[^48] When he died on 30 June 1983 at his home on Wolskel Road after a battle with kidney disease, there was an outpouring of grief nationwide.[^49]
 
 “‘Uncle’ Choo Seng Quee… was the greatest football coach Singapore has ever produced, the best talent scout in Asia, and the soccer saviour of our two closest neighbours, Malaysia and Indonesia,” wrote football journalist Jeffrey Low. “He was respected sometimes beyond logic, sometimes beyond toleration, sometimes even beyond one’s self-respect. But in the end, his ‘sons’ never questioned the biggest lesson he taught them: ‘To die for the country’.”[^50]
