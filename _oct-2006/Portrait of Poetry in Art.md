@@ -34,6 +34,10 @@ Abdul Ghani Hamid is as much a poet as he is an artist. He is also well known fo
 
 Being the only Malay artist cum poet in Singapore, he has indeed made his presence felt in this arena by blowing the soul in his poetry into the physical forum and colours in his paintings. The discussion that follows will show how Abdul Ghani merges the two genres namely art and poetry together into a complete anthestic form. Ultimately, the painting is no longer a splurge of colours and forms on a piece of canvas but a living nostalgia which further enhances his deepest innate feelings. The concept of colours and forms which manifest in his paintings bring much meaning to his poetry. Thus, he has produced a genre, "poetry-arts" which is fresh and meaningful.
 
+<img src="/images/Vol%202%20Issue%203/PoetryArt/pia%20billet%20doux1.jpg" style="width:50%;">
+ <div style="background-color: white;">Billet Doux, 1973. <i>Images reproduced from Abdul Ghani Hamid, Petikan Rasa = Abstract of Feelings: A Collection of Poems &amp; Paintings. Angkatan Sasterawan '50.</i>
+</div>
+
 Such feelings are portrayed in the mild form and arrangements found in the painting entitled *Billet Doux* [Love letters] (1973). It portrays love that longs for a unprecedented response without a beautiful array of words or strong material attraction. This is skilfully reflected in the poetry entitled *Ukiran Kasih* (Carving of Love). The poetry narrates that true love especially that of a mother is not determined or limited by superficiality as reflected in the following verses:
 
 <i>Not a line<br>
@@ -49,6 +53,10 @@ as a mother and her child.</i>
 
 A unique artist who is conscious of his surroundings, Abdul Ghani Harnid never allows the sights of life to pass by unnoticed. The *lalang* (tall grasses) that was once a common sight in Singapore has become a symbol of inspiration for many of his creative works. He philosophised that the *lalang* is a symbol of strength, survival, confidence and focused mindset. To him, the lalang has all the human values that are ineffable and meaningful and they inspired him to produce more than one painting on the same subject. They are *Lalang (Green)*, *Lalang (V)*, *Lalang (Mini)* and *Lalang (VI)*. One of his early *lalang* series (1980's) was exhibited in Salon des Artiste Francais, Grand Palais, Paris.
 
+<img src="/images/Vol%202%20Issue%203/PoetryArt/pia%20%20lalang1.jpg" style="width:50%;">
+ <div style="background-color: white;">Lalang (V), 2000.  <i>Images reproduced from Abdul Ghani Hamid, Petikan Rasa = Abstract of Feelings: A Collection of Poems &amp; Paintings. Angkatan Sasterawan '50.</i>
+</div>
+	
 The spirit of the atop can be seen in *Lalang (V)*, where Abdul Ghani painted two red *lalang* among a bunch of closely packed green and sometimes yellow *lalang*. This mixture of natural colours simulates the variations and excitement of the life of the *lalang*. Once in a while, some purple *lalang* appears in between the slit of the bunch of *lalang*. The bunch of the *lalang* then undergoes some form of evolution because the *lalang* no longer exists in its natural greenery but in a magnitude of shades that may lead to the *lalang* losing its roots of existence. Its upright form reflects the decision and a common aspiration of the *lalang* to move forward without a blink and being prepared to accept changes. This is beautifully expressed in his poetry entitled *Sesuatu Mengubah Segalanya* (Something Changes Everything) as in the following verse:
  
 <i>A quick drastic change<br>
