@@ -11,27 +11,27 @@ By A. Thiyaga Raju and Gary Koh
 ![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/a7spread.jpg)
 <div style="background-color: white;">Choo Seng Quee (right) and Football Association of Singapore chairman Ganesan Nadesan celebrating after Singapore’s victory over Penang in the 1977 Malaysia Cup. <i>Image reproduced from Godfrey Robert, The Malaysia Cup (Singapore: 2A Project Consultants, 1991), 97. (From National Library, Singapore, call no. RSING 796.33464 ROB).</i></div>
 
-There are many coaches who can guide and mastermind their teams to win matches, but only a select few have what it takes to bring them over the finish line and claim silverware.&nbsp;
+There are many coaches who can guide and mastermind their teams to win matches, but only a select few have what it takes to bring them over the finish line and claim silverware.
 
-Choo Seng Quee was a rare breed in the latter category among Singaporean coaches, for he instinctively knew how to lead his players to victories and lay the foundation for future successes.&nbsp;
+Choo Seng Quee was a rare breed in the latter category among Singaporean coaches, for he instinctively knew how to lead his players to victories and lay the foundation for future successes.
 
 Having developed a reputation for his coaching ability in Southeast Asia, Choo cemented his legacy among the Singaporeans in the 40,000-strong crowd at Merdeka Stadium in Kuala Lumpur on the evening of 28 May 1977.
 
-Singapore was playing Penang in the finals of the Malaysia Cup and attempting to lift the cup for the first time in 12 years. The hopes of a young nation rested on the shoulders of stalwarts like Samad Allapitchay, S. Rajagopal, Dollah Kassim and Quah Kim Song. However, by the time the half-time whistle was blown, those hopes had dimmed considerably. The Lions had squandered an early lead and were now a goal down.&nbsp;
+Singapore was playing Penang in the finals of the Malaysia Cup and attempting to lift the cup for the first time in 12 years. The hopes of a young nation rested on the shoulders of stalwarts like Samad Allapitchay, S. Rajagopal, Dollah Kassim and Quah Kim Song. However, by the time the half-time whistle was blown, those hopes had dimmed considerably. The Lions had squandered an early lead and were now a goal down.
 
-The second half, though, was a different story as Singapore managed to claw back an equaliser and the game went into extra time. During the first half of extra time, Quah dived in to head home the vital third and winning goal to send the Malaysia Cup back south.[^1]&nbsp;
+The second half, though, was a different story as Singapore managed to claw back an equaliser and the game went into extra time. During the first half of extra time, Quah dived in to head home the vital third and winning goal to send the Malaysia Cup back south.[^1]
 
-As the _Straits Times_ noted: “The manner in which Singapore came back to win the cup just when everyone had given up hope for them made the hair stand on the back of necks.”[^2]&nbsp;
+As the _Straits Times_ noted: “The manner in which Singapore came back to win the cup just when everyone had given up hope for them made the hair stand on the back of necks.”[^2]
 
 Credit for that historic win should be laid at the feet of a Singapore team who played their hearts out. But one other person played just as important a role, even though his name did not appear on the starting 11. Choo (or Uncle Choo as he was fondly termed) had assembled the team, trained and motivated them, and planned and strategised their matches. He did all this in the face of detractors who said he was too old to do the job and who had organised petitions to remove him.
 
-##### Choo and Team
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/sgteam.jpg)
 
 With the win, Choo, in his trademark batik shirt, earned his place in the annals of Singapore football. So it is not surprising then that when he died just six years later, at the age of 68, an outpouring of grief swept over the nation. Four decades on, it is safe to say that no other football coach has occupied the imagination of Singaporeans in quite the same way.
 
 #### **Early Beginnings with Raffles Institution**
 
-As with many coaches, Choo was a footballer first. Born in Singapore on 1 December 1914, Choo played for Raffles Institution, before progressing to the Singapore Chinese Football Association (SCFA).[^3]&nbsp;
+As with many coaches, Choo was a footballer first. Born in Singapore on 1 December 1914, Choo played for Raffles Institution, before progressing to the Singapore Chinese Football Association (SCFA).[^3]
 
 After obtaining his Senior Cambridge qualifications, Choo joined the SCFA in 1933 where he rose through the ranks to eventually make his first-team debut at the First Division two years later.[^4] He later earned a spot in the Singapore team for the Malaya Cup (renamed Malaysia Cup in 1967) in 1936.[^5] He was part of the backbone of the squad that managed to reach the Cup final in 1936, 1937 and 1938 and he was part of the team that defeated Selangor in 1937.[^6]
 
@@ -39,7 +39,7 @@ In 1939, the All-China Olympic Committee invited Choo to attend the preliminary 
 
 #### **Forays into Coaching**
 
-Choo retired from playing in 1948 and turned his hand to coaching. His first formal coaching job was at the Singapore Chinese Athletic Association (also known as Chung Wah). In 1949, he was named Singapore’s head coach and tasked with guiding the team in the Malaya Cup campaign.[^8]&nbsp;
+Choo retired from playing in 1948 and turned his hand to coaching. His first formal coaching job was at the Singapore Chinese Athletic Association (also known as Chung Wah). In 1949, he was named Singapore’s head coach and tasked with guiding the team in the Malaya Cup campaign.[^8]
 
 However, it was when he went overseas that he experienced success as a coach. He coached Indonesia between 1951 and 1953[^9] and then Malaya/Malaysia from 1 February 1958 to 30 January 1965.
 
@@ -47,9 +47,9 @@ During his three-year stint, Choo laid the foundation for the Indonesian nationa
 
 The Garudas made headlines in 1953 when Choo led them to three successive wins in Hong Kong, which was then one of the leading bastions of football as a British colony boasting top Chinese internationals and excellent expatriate players. It was a feat never accomplished before by visiting Asian teams until the Indonesians came along.[^10] With the solid foundations laid by the Singaporean tactician, the Indonesian team managed to finish fourth in the 1954 Asian Games football tournament in Manila. They would subsequently win the bronze in Tokyo four years later.[^11]
 
-After this Indonesia stint, Choo was personally appointed by Tunku Abdul Rahman, Malaya’s founding prime minister and president of the Football Association of Malaya (FAM), as the national coach on 1 February 1958.[^12] It marked the beginning of a seven-year stint during which he would demonstrate his coaching and scouting abilities at their finest.&nbsp;
+After this Indonesia stint, Choo was personally appointed by Tunku Abdul Rahman, Malaya’s founding prime minister and president of the Football Association of Malaya (FAM), as the national coach on 1 February 1958.[^12] It marked the beginning of a seven-year stint during which he would demonstrate his coaching and scouting abilities at their finest.
 
-Choo guided Harimau Malaya to Pestabola Merdeka (Merdeka Cup) successes from 1958 to 1960 and a second-place finish in the same competition in 1961.[^13] He also guided the national youth team to a runner-up placing in the inaugural Asian Youth Championship in 1959.[^14]&nbsp;
+Choo guided Harimau Malaya to Pestabola Merdeka (Merdeka Cup) successes from 1958 to 1960 and a second-place finish in the same competition in 1961.[^13] He also guided the national youth team to a runner-up placing in the inaugural Asian Youth Championship in 1959.[^14]&amp;
 
 In addition, Choo helped Malaya’s national team clinch gold in the 1961 Southeast Asian Peninsular Games (now South East Asian Games) football tournament in Burma and a bronze a year later at the Asian Games football tournament in Indonesia.[^15]
 
@@ -57,10 +57,9 @@ In addition, Choo helped Malaya’s national team clinch gold in the 1961 Southe
 
 Despite his successes in Indonesia and Malaya, Choo’s heart lay with Singapore and when asked to guide the Singapore Lions in the Malaya Cup in 1964 and 1965, Choo obliged without hesitation.[^16]
 
-On 8 June 1964, Choo was given permission by the FAM to be released to coach Singapore in the Malaya Cup.[^17] He would eventually guide the Lions to back-to-back successes in the competition, the second just days before his country of birth exited the Federation of Malaysia and announce its independence.&nbsp;
+On 8 June 1964, Choo was given permission by the FAM to be released to coach Singapore in the Malaya Cup.[^17] He would eventually guide the Lions to back-to-back successes in the competition, the second just days before his country of birth exited the Federation of Malaysia and announce its independence.
 
-After leaving the FAM on 30 January 1965  
-following his failure to return from his months-long leave,[^18] Choo opened a sport shop on Owen Road. He later became a caretaker coach with the national team for the Merdeka Cup in 1971 and guided several local teams, notably Burnley United, Marble and Tampines Rovers, in the local First Division league where several of his proteges came under him at club level.&nbsp;
+After leaving the FAM on 30 January 1965 following his failure to return from his months-long leave,[^18] Choo opened a sport shop on Owen Road. He later became a caretaker coach with the national team for the Merdeka Cup in 1971 and guided several local teams, notably Burnley United, Marble and Tampines Rovers, in the local First Division league where several of his proteges came under him at club level.
 
 Choo returned to guide Singapore for the final time in the pre-World Cup qualifiers and the Malaysia Cup in 1977, and coached neighbouring Johor a few years later in 1980. He guided the Johor team to a respectable mid-table finish, ending up seventh in the Malaysia Cup league phase, before retiring in early January 1981.[^19]
 
@@ -68,8 +67,7 @@ Choo returned to guide Singapore for the final time in the pre-World Cup qualifi
 
 Although Choo made his name coaching various national sides, it was his work with young players at Farrer Park’s fabled football fields that he cemented his reputation as Singapore’s finest coach.
 
-The earliest evidence of him coaching young  
-talents there dates to 1950 when he had 18 teenage boys between the ages of 13 and 15 under his wing, including future national players Majid Ariff and Charlie Chan. He taught them the fundamentals of the game through individual technique training and theory lessons.[^20]
+The earliest evidence of him coaching young talents there dates to 1950 when he had 18 teenage boys between the ages of 13 and 15 under his wing, including future national players Majid Ariff and Charlie Chan. He taught them the fundamentals of the game through individual technique training and theory lessons.[^20]
 
 Under his tutelage, some of his proteges would take the local leagues by storm with Star Soccerites when they easily conquered the lower divisions and won the top-flight First Division in that decade.[^21]
 
@@ -91,8 +89,7 @@ Choo also visited football fields across Singapore to personally scout and selec
 
 “He said that with confidence and invited me to Farrer Park, which was a hunting ground for football. I was staying in Naval Base and had to take a bus, which was a 45-minute ride to Farrer Park.”
 
-Quah recalled his bewilderment the first time he arrived at Farrer Park. “When I reached at 8 am,  
-I looked around,” he said. “There was no player around, and suddenly a big, tall father figure came.”
+Quah recalled his bewilderment the first time he arrived at Farrer Park. “When I reached at 8 am, I looked around,” he said. “There was no player around, and suddenly a big, tall father figure came.”
 
 “I told him, ‘Uncle, you are only training me?’ He said there was another guy who was supposed to come, \[future national player\] Jaffar Yacob. He trained us both together and showed us the ropes on how to play football.”
 
@@ -112,7 +109,7 @@ Drama quickly ensued in the aftermath of the appointment. Local football fans we
 
 Gathering his former trainees into the national set-up was the easy part. They already had the skills and physical fitness, but needed a spark to rekindle the fire in their hearts. “I knew they lacked self-conviction. They were afraid that the home crowd would criticise them. But I made them believe in the Singapore flag – that we must first have the country in mind,” said Choo.[^34]
 
-Choo reintroduced the coaching fundamentals he had previously taught them in their youth. He also started his early preparations by instilling patriotism in the players. “Each morning at 5.30 am the team had to hoist the national flag and sing the National Anthem as loud as they could,” said Choo.&nbsp; “Now I am happy to say that every player in my squad is prepared to give his leg, hand or head to play for Singapore – and win.”[^35]
+Choo reintroduced the coaching fundamentals he had previously taught them in their youth. He also started his early preparations by instilling patriotism in the players. “Each morning at 5.30 am the team had to hoist the national flag and sing the National Anthem as loud as they could,” said Choo. “Now I am happy to say that every player in my squad is prepared to give his leg, hand or head to play for Singapore – and win.”[^35]
 
 Quah recalled an incident that showed Choo’s dedication to the game and his players. “One morning it drizzled quite heavily. After breakfast we were only too glad to jump back into bed. But the coach really shamed us all when, punctual as usual, he stood in the rain waiting for us,” said Quah. “‘If you boys want to do well in this tournament you must be prepared to withstand some things,’ he shouted at us. As he spoke, he was drenched to the skin and tears welled in his eyes.”[^36]
 
@@ -126,7 +123,7 @@ In December 1976, three months after his appointment as national coach, some loc
 
 Choo had the final laugh though when the World Cup qualifiers commenced in February 1977. He delivered the results when they mattered, stunning Causeway rivals Malaysia 1-0, defeating Thailand 2–0 and drawing with Hong Kong 2–2.[^41]
 
-Finishing second in their qualifying group after a 0–4 drubbing by Indonesia, the Lions eventually finished runner-up in the playoff following a 0–1 defeat to Hong Kong in the group final.[^42] &nbsp;
+Finishing second in their qualifying group after a 0–4 drubbing by Indonesia, the Lions eventually finished runner-up in the playoff following a 0–1 defeat to Hong Kong in the group final.[^42]
 
 All this, of course, was a lead-up to the historic Malaysia Cup win in May 1977.
 
