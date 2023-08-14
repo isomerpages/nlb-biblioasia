@@ -19,9 +19,8 @@ sections:
   - infopic:
       title: What’s Become of the Seafaring Orang Seletar?
       subtitle: podcast
-      description: Writer and educator Ilya Katrinnada interviewed the Orang Seletar
-        who resettled in Johor to learn about their lives, and their links to
-        Singapore.
+      description: "The Orang Seletar used to live on boats that plied the Johor
+        Strait. They were here when Raffles landed in 1819. "
       button: Listen to biblioasia+
       url: /podcast/orang-seletar/
       image: /images/Podcast/ilya ep12.jpg
