@@ -26,6 +26,7 @@ As the _Straits Times_ noted: “The manner in which Singapore came back to win 
 Credit for that historic win should be laid at the feet of a Singapore team who played their hearts out. But one other person played just as important a role, even though his name did not appear on the starting 11. Choo (or Uncle Choo as he was fondly termed) had assembled the team, trained and motivated them, and planned and strategised their matches. He did all this in the face of detractors who said he was too old to do the job and who had organised petitions to remove him.
 
 ![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/sgteam.jpg)
+<div style="background-color: white;">The Singapore Chinese Football Association team at Anson Road Stadium, 1939. Choo Seng Quee is standing fourth from the left. <i>Courtesy of Singapore Sports Council.</i></div>
 
 With the win, Choo, in his trademark batik shirt, earned his place in the annals of Singapore football. So it is not surprising then that when he died just six years later, at the age of 68, an outpouring of grief swept over the nation. Four decades on, it is safe to say that no other football coach has occupied the imagination of Singaporeans in quite the same way.
 
@@ -49,7 +50,7 @@ The Garudas made headlines in 1953 when Choo led them to three successive wins i
 
 After this Indonesia stint, Choo was personally appointed by Tunku Abdul Rahman, Malaya’s founding prime minister and president of the Football Association of Malaya (FAM), as the national coach on 1 February 1958.[^12] It marked the beginning of a seven-year stint during which he would demonstrate his coaching and scouting abilities at their finest.
 
-Choo guided Harimau Malaya to Pestabola Merdeka (Merdeka Cup) successes from 1958 to 1960 and a second-place finish in the same competition in 1961.[^13] He also guided the national youth team to a runner-up placing in the inaugural Asian Youth Championship in 1959.[^14]&amp;
+Choo guided Harimau Malaya to Pestabola Merdeka (Merdeka Cup) successes from 1958 to 1960 and a second-place finish in the same competition in 1961.[^13] He also guided the national youth team to a runner-up placing in the inaugural Asian Youth Championship in 1959.[^14]
 
 In addition, Choo helped Malaya’s national team clinch gold in the 1961 Southeast Asian Peninsular Games (now South East Asian Games) football tournament in Burma and a bronze a year later at the Asian Games football tournament in Indonesia.[^15]
 
@@ -63,7 +64,8 @@ After leaving the FAM on 30 January 1965 following his failure to return from hi
 
 Choo returned to guide Singapore for the final time in the pre-World Cup qualifiers and the Malaysia Cup in 1977, and coached neighbouring Johor a few years later in 1980. He guided the Johor team to a respectable mid-table finish, ending up seventh in the Malaysia Cup league phase, before retiring in early January 1981.[^19]
 
-##### Choo Coaching
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/trainingsession.jpg)
+<div style="background-color: white;">Choo Seng Quee at a training session at Jalan Besar Stadium, 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 7. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div>
 
 Although Choo made his name coaching various national sides, it was his work with young players at Farrer Park’s fabled football fields that he cemented his reputation as Singapore’s finest coach.
 
@@ -127,7 +129,8 @@ Finishing second in their qualifying group after a 0–4 drubbing by Indonesia, 
 
 All this, of course, was a lead-up to the historic Malaysia Cup win in May 1977.
 
-##### Choo holding back tears
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/chootears.jpg)
+<div style="background-color: white;">Choo Seng Quee fights back tears after Singapore’s thrilling 3–2 win against Penang in the Malaya Cup final held at the Merdeka Stadium in Kuala Lumpur on 28 May 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 8. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div> 
 
 #### **Sacrifices and Accolades**
 
@@ -141,7 +144,8 @@ Choo kept his word and proved his critics wrong. In January 1979, he returned to
 
 At the tail end of his career, Choo was awarded a gold medal by the All-Indonesia Soccer Federation on 19 April 1980 for his trailblazing work in making the Garudas a Southeast Asian force. The team under Choo was considered the best in Indonesia’s soccer history. Two years earlier, he had been named Singapore Coach of the Year in March 1978 and awarded the Public Service Medal (Pingat Bakti Masyarakat) by the Singapore government in August 1978 for his “contribution towards the promotion of the game”.[^47]
 
-##### Choo with his medal
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/medals.jpg)
+<div style="background-color: white;">Choo Seng Quee holding his trophies at his home after he was named Coach of the Year in March 1978. Photo taken on 21 April 1978. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 Choo finally retired from coaching in January 1981.[^48] When he died on 30 June 1983 at his home on Wolskel Road after a battle with kidney disease, there was an outpouring of grief nationwide.[^49]
 
