@@ -22,6 +22,10 @@ Picasso's inspiration was very much influenced by his interactions with his surr
 
 Abdul Ghani Hamid is one of the earliest proponents of Pablo Picasso in this region. He is well known for his creation of a controversial art piece in 1957 which he named *Mata dan Hati* (1975), which means "Eyes and Heart". The painting drew much polemical debates which lasted for several years. It portrays a synthesis of human organs, cosmos and animates forms transcended aesthetically into the various geometric elements of cube, cone and sphere.
 
+<img src="/images/Vol%202%20Issue%203/PoetryArt/pia%20search1.jpg" style="width:50%;">
+ <div style="background-color: white;">The Search, 1985. <i>Images reproduced from Abdul Ghani Hamid, Petikan Rasa = Abstract of Feelings: A Collection of Poems &amp; Paintings. Angkatan Sasterawan '50.</i>
+</div>
+	
 Abdul Ghani is also an established pure abstract artist. One of his earlier works. The Search (1965) was exhibited in 14 cities in Asia together with other artists in Asia. Among his recent works produced are *Rasa I*, *Rasa II* and *Rasa III* which mean "Feeling I", "Feeling II" and "Feeling III" respectively.
 
 #### **Abdul Ghani Hamid The Poet**
