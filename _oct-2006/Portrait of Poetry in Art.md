@@ -59,7 +59,15 @@ Abdul Ghani's main assets are his eyes and heart. This is proven by his latest s
 
 Abdul Ghani's works are able to portray the universe and his thoughts. Whether directly or indirectly, the paintings are a sound manifestation of the poems assigned to them.
 
-***This article was first published in Abdul Ghani Hamid's Petikan Rasa = Extracts of Feelings: A Collection of Poems &amp; Paintings, pp. 16–18, 1SBN 981-05-2833-7, published 2005 by Angkatan Sasterawan '50. Call no. RSING q899.281 AHD***
+***This article was first published in Abdul Ghani Hamid's Petikan Rasa = Abstract of Feelings: A Collection of Poems &amp; Paintings, pp. 16–18, 1SBN 981-05-2833-7, published 2005 by Angkatan Sasterawan '50. Call no. RSING q899.281 ABD***
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Mohamed%20Pitchay.jpg">
+<center> <b>Mohamed Pitchay Gani Bin Mohammed Abdul Aziz</b><br>National Institute of Education<br> Nanyang Technological University</center></div>
+
+
 
 
 
