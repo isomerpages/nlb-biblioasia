@@ -134,17 +134,17 @@ All this, of course, was a lead-up to the historic Malaysia Cup win in May 1977.
 
 #### **Sacrifices and Accolades**
 
-Choo’s dedication to the sport and his players came at a price though. He suffered a fall at the Merdeka Stadium during the Malaysia Cup semi-final second leg between Singapore and Selangor in May 1977, leaving a gash on his right leg. Too engrossed with coaching, Choo neglected to seek treatment for the wound, which worsened and subsequently turned gangrenous, a common problem for people with diabetes.[^43]&nbsp;
+Choo’s dedication to the sport and his players came at a price though. He suffered a fall at the Merdeka Stadium during the Malaysia Cup semi-final second leg between Singapore and Selangor in May 1977, leaving a gash on his right leg. Too engrossed with coaching, Choo neglected to seek treatment for the wound, which worsened and subsequently turned gangrenous, a common problem for people with diabetes.[^43]
 
-The leg could not be saved and had to be amputated up to the knee on 14 September 1977. This came just four months after Singapore had won the Malaysia Cup. Unfortunately, this first operation could not stem the gangrene and Choo had more of his leg amputated in a second operation on 20 September.[^44] &nbsp;
+The leg could not be saved and had to be amputated up to the knee on 14 September 1977. This came just four months after Singapore had won the Malaysia Cup. Unfortunately, this first operation could not stem the gangrene and Choo had more of his leg amputated in a second operation on 20 September.[^44]
 
-Choo remained in high spirits throughout his ordeal though. In January 1978, after a four-month stay in hospital, he pledged to be back on the field. “I’m disappointed and hurt by people who think my days with soccer are over,” he said. “I don’t have to have two feet to teach soccer. I can do it from my house. But I’ll be on the field with a soccer team in three months’ time to prove them wrong,” he declared.[^45] &nbsp;
+Choo remained in high spirits throughout his ordeal though. In January 1978, after a four-month stay in hospital, he pledged to be back on the field. “I’m disappointed and hurt by people who think my days with soccer are over,” he said. “I don’t have to have two feet to teach soccer. I can do it from my house. But I’ll be on the field with a soccer team in three months’ time to prove them wrong,” he declared.[^45]
 
-Choo kept his word and proved his critics wrong. In January 1979, he returned to coach Tampines Rovers for the League championship, and crossed the Causeway to guide Johor in the 1980 Malaysia Cup campaign where he masterminded a thrilling 2–2 draw with Singapore at Larkin that season.[^46]&nbsp;
+Choo kept his word and proved his critics wrong. In January 1979, he returned to coach Tampines Rovers for the League championship, and crossed the Causeway to guide Johor in the 1980 Malaysia Cup campaign where he masterminded a thrilling 2–2 draw with Singapore at Larkin that season.[^46]
 
 At the tail end of his career, Choo was awarded a gold medal by the All-Indonesia Soccer Federation on 19 April 1980 for his trailblazing work in making the Garudas a Southeast Asian force. The team under Choo was considered the best in Indonesia’s soccer history. Two years earlier, he had been named Singapore Coach of the Year in March 1978 and awarded the Public Service Medal (Pingat Bakti Masyarakat) by the Singapore government in August 1978 for his “contribution towards the promotion of the game”.[^47]
 
-Choo finally retired from coaching in January 1981.[^48] When he died on 30 June 1983 at his home on Wolskel Road after a battle with kidney disease, there was an outpouring of grief nationwide.[^49] &nbsp;
+Choo finally retired from coaching in January 1981.[^48] When he died on 30 June 1983 at his home on Wolskel Road after a battle with kidney disease, there was an outpouring of grief nationwide.[^49]
 
 “‘Uncle’ Choo Seng Quee… was the greatest football coach Singapore has ever produced, the best talent scout in Asia, and the soccer saviour of our two closest neighbours, Malaysia and Indonesia,” wrote football journalist Jeffrey Low. “He was respected sometimes beyond logic, sometimes beyond toleration, sometimes even beyond one’s self-respect. But in the end, his ‘sons’ never questioned the biggest lesson he taught them: ‘To die for the country’.”[^50]
 
