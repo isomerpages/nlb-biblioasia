@@ -2,6 +2,7 @@ collections:
   oct-2006:
     output: true
     order:
+      - Portrait of Poetry in Art.md
       - Director's Column.md
       - "Journey of Faith: Haj Pilgrimage in the Malay Archipelago Before the
         20th Century.md"
