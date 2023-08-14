@@ -36,8 +36,6 @@ Proses pengislaman telah memberikan kesan yang besar dalam perkembangan bahasa M
 
 Sebahagian inskripsi terawal yang menunjukkan penggunaan tulisan Jawi telah di temui di Champa, Pahang, Brunei dan Jawa. Inskripsi-inskripsi ini bertarikh seawal abad kesebelas. Namun, secara umum para pengkaji berpendapat, Batu Bersurat Terengganu, yang bertarikh abad empat belas telah diterima sebagai inskripsi terawal yang menggunakan tulisan Jawi. Walaupun ia memaparkan perintah untuk mematuhi agama Islam, tetapi undang-undangnya yang tertulis masih lagi mencerminkan unsur-unsur falsafah sebelum kedatangan Islam.
 
-![](/images/Vol%202%20Issue%203/mss%201517%201.jpg)
-
 <img src="/images/Vol%202%20Issue%203/mss%201517%201.jpg" style="width:80%;">
  <div style="background-color: white;">Khalq al-samawat wa al-ard (1637 Masehl). <i>Manusktip karangan Sheikh Nuruddin ar-Raniri yang membicarakan asal kejadian langut dan bumf Hak Cipta Terpelihara, Perpustakaan Negara Malaysia.</i></div>
 
@@ -45,11 +43,20 @@ Antara contoh unsur-unsur sebegini yang dapat dilihat sebagai ciri pada Batu Ber
 
 Batu Bersurat Terengganu membuktikan dengan jelas bahawa sistem ejaan Jawi telah mencapai kesempurnaannya dari segi perkembangannya. Lima huruf baru yang dipadankan daripada huruf Arab untuk melambangkan bunyi-bunyi Melayu iaitu, cha, nga, pa dan nya sudah tercipta dan digunakan sepenuhnya. Pada tahun 1996, satu lagi huruf telah ditambah untuk melambangkan bunyi v, sebagai usaha untuk menyesuaikan penggunaan jawi dengan bahasa Melayu kini.
 
+<img src="/images/Vol%202%20Issue%203/huwung%202.jpg" style="width:80%;">
+ <div style="background-color: white;">Prasasti Huwung (822 Masehi). <i>Membicarakan tentang seseorang yang bernama Sang Watu Walai Hak Cipta Terpelihara, Perpustakaan Negara Indonesia.</i></div>
+
 #### **Pengaruh Eropah - Aksara Rumi**
 
 Kedatangan orang-orang Eropah telah sekaligus juga membawa tulisan Rumi ke rantau ini. Tetapi usaha untuk meluaskan penggunaanya hanya dilakukan oleh pihak British pada awal abad kedua puluh. Banyak buku-buku sastera lama yang telah ditransliterasikan kepada tulisan Rumi oleh R J Wilkinson, yang menjawat tugas sebagai Inspektor Sekolah-Sekolah Federal, pada waktu itu. Selain itu, terdapat juga perkembangan yang meningkat terhadap penggunaan mesin-mesin cetak yang dibawa dari Eropah. Ini mengembangkan industri percetakan di rantau ini.
 
+<img src="/images/Vol%202%20Issue%203/tapel%20adam%201.jpg" style="width:50%;">
+ <div style="background-color: white;">Tapel Adam. <i>Gambaran susur galur Nabi Adam. Hak Cipta Terpelihara Perpustakaan Negara Indonesia.</i></div>
+
 #### **Penutup**
+
+<img src="/images/Vol%202%20Issue%203/kota%20kapur1.jpg" style="width:50%;">
+ <div style="background-color: white;">Prasasti Kota Kapur (686 Masehi). <i>Isinya berupa kutukan bagi mereka yang berbuat jahat dan tidak tunduk setia kepada raja Hak Cipta Terpelihara, Perpustakaan Negara Indonesia.</i></div>
 
 Setiap aksara yang pernah digunakan orang Melayu sama ada Pallava, Kawi, dan kini Jawi atau Rumi menjadi saksi dan bukti tentang kemampuan masyarakat ini. Kesemua aksara-aksara ini telah digunakan untuk berbagai jenis keperluan perhubungan dan pengurusan. Selain itu, ia juga telah melahirkan karya-karya yang sehingga kini masih sesuai dan menjadi warisan yang tidak ternilai kepada masyarakat. Sesuailah seperti menurut Prof Datuk Dr Siti Hawa Salleh (2006), pada tahun 1726, Francois Velentijin telah menyuarakan kekagumannya terhadap masyarakat Melayu yang bukan sahaja mempunyai tulisan (aksara) malah menggunakan aksara itu untuk menghasilkan karya-karya dan duduk pula berkumpul beramai-ramai mengelilingi seorang pembaca memperdengarkan suaranya.
       
