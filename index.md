@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 1/The Padang/the padang hero.jpg
   - infopic:
+      title: What’s Become of the Seafaring Orang Seletar?
+      subtitle: podcast
+      description: Writer and educator Ilya Katrinnada interviewed the Orang Seletar
+        who resettled in Johor to learn about their lives, and their links to
+        Singapore.
+      button: Listen to biblioasia+
+      url: /podcast/orang-seletar/
+      image: /images/Podcast/ilya ep12.jpg
+      alt: Seafaring Orang Seletar
+  - infopic:
       title: Forgotten Heroes of the Malaya Cup
       subtitle: Sports
       description: We remember some legendary players of the interwar years who left
