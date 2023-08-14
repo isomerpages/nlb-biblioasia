@@ -7,7 +7,8 @@ description: Traces the evolution of Malay scripts, such as the Pallava, Kawi,
 ---
 #### Traces the evolution of Malay scripts, such as the Pallava, Kawi, Jawi and Roman scripts. It also illustrates how the interactions of the Malay people with major civilisations had impacted the evolution of these scripts.
 
-
+<img src="/images/Vol%202%20Issue%203/mss%202809%201.jpg" style="width:80%;">
+ <div style="background-color: white;">Aqidah al-awwam. <i>Membicaralcan tentang agidah untuk (gang awam. Antara lain menghurailcan sifat 20 dan menyenarailcan 25 nama para nabi Hak Cipta Terpelihara, Perpustakaan Negara Malaysia.</i></div>
 
 Bahasa Melayu pemah pada suatu masa dulu menjadi bahasa perantaraan ataupun *lingua franca* di daerah Asia Tenggara. la juga telah melalui pelbagai perubahan semenjak ia digunakan sebagai alat perhubungan. Begitu juga dengan sistem tulisan bahasa Melayu yang juga disebut sebagai aksara Melayu. Sejak zaman-berzaman, pelbagai jenis aksara telah digunakan oleh orang Melayu.
 
@@ -67,8 +68,3 @@ Hashim Musa, [_Epigrafi Melayu: Sejarah Sistem Tulisan dalam Bahasa Melayu_](htt
 James T. Collins, “Ciri-Ciri Bahasa Melayu Abad Ke–17,” in [_Tradisi Penulisan Manuskrip Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9452894) (Kuala Lumpur: Perpustakaan Negara Malaysia, 1997). (Call no. Malay R 499.2811 TRA)
 
 Siti Hawa Salleh, [_Genre Kesusasteraan Hikayat: Perkembangan Suatu Bentuk Kesusasteraan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12766152) \[Dibentangkan di Seminar Antarabangsa Manuskrip Melayu, Melestarikan Manuskrip Melayu Warisan Agung Bangsa, 10–11 Julai 2006, Kuala Lumpur. Anjuran Perpustakaan Negara Malaysia, Arkib Negara Malaysia dan Kementerian Kebudayaan Kesenian dan Warisan Malaysia, 2006\]. (Call no. Malay RSEA 016.09109595 SEM)
-
-
-
-
-
