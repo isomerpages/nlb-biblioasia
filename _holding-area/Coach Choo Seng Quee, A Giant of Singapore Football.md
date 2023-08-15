@@ -65,12 +65,12 @@ After leaving the FAM on 30 January 1965 following his failure to return from hi
 
 Choo returned to guide Singapore for the final time in the pre-World Cup qualifiers and the Malaysia Cup in 1977, and coached neighbouring Johor a few years later in 1980. He guided the Johor team to a respectable mid-table finish, ending up seventh in the Malaysia Cup league phase, before retiring in early January 1981.[^19]
 
-![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/trainingsession.jpg)
-<div style="background-color: white;">Choo Seng Quee at a training session at Jalan Besar Stadium, 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 7. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div>
-
 Although Choo made his name coaching various national sides, it was his work with young players at Farrer Park’s fabled football fields that he cemented his reputation as Singapore’s finest coach.
 
 The earliest evidence of him coaching young talents there dates to 1950 when he had 18 teenage boys between the ages of 13 and 15 under his wing, including future national players Majid Ariff and Charlie Chan. He taught them the fundamentals of the game through individual technique training and theory lessons.[^20]
+
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/trainingsession.jpg)
+<div style="background-color: white;">Choo Seng Quee at a training session at Jalan Besar Stadium, 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 7. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div>
 
 Under his tutelage, some of his proteges would take the local leagues by storm with Star Soccerites when they easily conquered the lower divisions and won the top-flight First Division in that decade.[^21]
 
