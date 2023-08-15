@@ -69,6 +69,9 @@ It is difficult to ignore the discussion on the polity of Champa when one talks 
 
 Champa's relationship with its northern neighbour dated back many centuries. Historians have reconstructed interesting histories of inter-marriages and warfare taking place between the two polities over the centuries. One episode tells of how a Vietnamese princess, who was married off to a Cham ruler, was coerced to throw herself on her husband's funeral pyre after his death - a practice attuned to Hindu tradition. The Vietnamese were not prepared to see their princess go up in flames, so they sent an army to rescue her. The rescue attempt was successful, but relations between the two polities worsened as a result. As for the princess, after a brief fling with a Vietnamese intellectual, she ultimately opted for a reclusive life as a Buddhist nun.
 
+<img src="/images/Vol%202%20Issue%203/DragonsFairies/cham%20tower.jpg" style="width:50%;">
+ <div style="background-color: white;">Cham Tower<i>Reproduced from The Champa Kingdom: The History of an Extinct Vietnamese Culture. All rights reserved, White Lotus Press, 2002.</i></div>
+
 A seminal work on Champa is that by the late French historian Georges Maspero, and an English translation of the French text has been made available by Thailand's White Lotus Press. Entitled *The Champa Kingdom: The History of an Extinct Vietnamese Culture*, the book traces the history of the Cham from its beginnings to its final destruction in 1471, when Vietnamese armies sent by Le Thanh Tong overran the Cham capital of Vijaya. Thereafter, Champs was incorporated permanently as part of Vietnamese territory.
 
 #### **Late Imperial Vietnam: Division and Reunification**
