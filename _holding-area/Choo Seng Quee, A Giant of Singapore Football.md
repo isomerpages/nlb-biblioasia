@@ -154,8 +154,8 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/nathaniel%20soon.png">
-	<b>Nathaniel Soon</b> has a background in marine science and is a National Geographic Explorer. Through visual storytelling, he seeks to communicate science and connect people with our natural world.</div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/thiyagaraju_garykoh.png">
+<b>Nathaniel Soon</b> has a background in marine science and is a National Geographic Explorer. Through visual storytelling, he seeks to communicate science and connect people with our natural world.</div>
 
 #### **Notes**
 
