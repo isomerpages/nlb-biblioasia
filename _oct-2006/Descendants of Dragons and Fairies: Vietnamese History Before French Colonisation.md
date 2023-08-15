@@ -41,13 +41,13 @@ The events during this period of Chinese occupation (Bac Thuoc in Vietnamese, me
 The key figure responsible for the release of imperial China's grip over Vietnam was a Vietnamese general named Ngo Quyen, who in 93B CE defeated troops sent by a southern Chinese polity in a decisive battle. The showdown took place at Bach-clang River, an estuary marking the entrance to the Red River Delta. Before the Chinese military fleet arrived, Quyen ordered his men to plant large poles with sharpened tips in the river bed. The heights of the poles were kept to just short of the water level at high tide, so that they would not be visible to the enemy as their ships sailed in. As the tide receded, the bottoms of the Chinese flotilla were ripped open by the sharp ends of the poles. Caught helplessly in the river, the Chinese troops suffered huge casualties as Ngo Quyen's own army attacked. A few months later, the general himself took the title of "King" (*Vuong*).
 
 <img src="/images/Vol%202%20Issue%203/DragonsFairies/12th%20century%20epigraph1.jpg" style="width:50%;">
-<div style="background-color: white;">Vietnamese epigraph from the 12th century.<i> Reproduced from Epigraphie En Chinois Du Vietnam De!’Occupation Chinoise a La Dynastie Des Ly]</i>All rights reserved,  Paris: Ecole francaise d'Extreme-Orient &amp; Han Nom Institute, 1998.
+<div style="background-color: white;">Vietnamese epigraph from the 12th century.<i> Reproduced from Epigraphie En Chinois Du Vietnam De!’Occupation Chinoise a La Dynastie Des Ly]. </i> All rights reserved,  Paris: Ecole francaise d'Extreme-Orient &amp; Han Nom Institute, 1998.
 </div>
 
 In the spring of 939 CE, the year that marks the end of direct Chinese rule over northern Vietnam, Ngo Quyen merely proclaimed himself "King ". It would be another three decades before someone went a step further to take the title of "Empero" (*de*). That person was Dinh Boh Linh, who founded the Dinh dynasty in 966 and named his state Dai Co Viet. From then until the first half of the 20th century, Vietnam would have her fair share of emperors like her northern neighbour, China.
 
 <img src="/images/Vol%202%20Issue%203/DragonsFairies/a%20history%20of%20vietnam.jpg" style="width:50%;">
-<div style="background-color: white;">All rights reserved, Greenwood PRess, 1995.
+<div style="background-color: white;">All rights reserved, Greenwood Press, 1995.
 </div>
 
 Oscar Chapuis' *A History of Vietnam from Hang Bang to Tu Duc* provides brief but colourful sketches of these Vietnam's "Sons of Heaven", and is an excellent starter for any beginner to pre-modern Vietnamese history. Researchers who wish to plunge directly into first-hand primary archival material related to Vietnam's early dynasties may refer to two other publications. The first, titled *Epigraphie en chinois du Vietnam*, is a joint collaboration between Vietnam's Han Nom Institute and France's Ecole francaise d'Extreme-Orient (EFE0). Both institutions have in their holdings a combined total of over 50,000 epigraphic material. The inscriptions found on 27 epigraphs from the Chinese occupation period to the Ly dynasty are featured in volume. The second resource, *Yuenan Shilun: Jinshi Ziliao Zhi Lishi Wenhua Bijiao* (Essays on Vietnamese History and Culture Based on Epigraphic Materials) is a collection of analytical essays on the Ly and Tran dynasties, based on epigraphic sources from the two dynasties.
@@ -74,14 +74,14 @@ It is difficult to ignore the discussion on the polity of Champa when one talks 
 Champa's relationship with its northern neighbour dated back many centuries. Historians have reconstructed interesting histories of inter-marriages and warfare taking place between the two polities over the centuries. One episode tells of how a Vietnamese princess, who was married off to a Cham ruler, was coerced to throw herself on her husband's funeral pyre after his death - a practice attuned to Hindu tradition. The Vietnamese were not prepared to see their princess go up in flames, so they sent an army to rescue her. The rescue attempt was successful, but relations between the two polities worsened as a result. As for the princess, after a brief fling with a Vietnamese intellectual, she ultimately opted for a reclusive life as a Buddhist nun.
 
 <img src="/images/Vol%202%20Issue%203/DragonsFairies/cham%20tower.jpg" style="width:50%;">
- <div style="background-color: white;">Cham Tower<i>Reproduced from The Champa Kingdom: The History of an Extinct Vietnamese Culture. All rights reserved, White Lotus Press, 2002.</i></div>
+ <div style="background-color: white;">Cham Tower.<i>Reproduced from The Champa Kingdom: The History of an Extinct Vietnamese Culture.</i> All rights reserved, White Lotus Press, 2002.</div>
 
 A seminal work on Champa is that by the late French historian Georges Maspero, and an English translation of the French text has been made available by Thailand's White Lotus Press. Entitled *The Champa Kingdom: The History of an Extinct Vietnamese Culture*, the book traces the history of the Cham from its beginnings to its final destruction in 1471, when Vietnamese armies sent by Le Thanh Tong overran the Cham capital of Vijaya. Thereafter, Champs was incorporated permanently as part of Vietnamese territory.
 
 #### **Late Imperial Vietnam: Division and Reunification**
 
 <img src="/images/Vol%202%20Issue%203/DragonsFairies/map%20of%20vietnam%20.jpg" style="width:50%;">
- <div style="background-color: white;">Map of Vietnam and its neighbours.<i> Reproduced from Nguyen Cochinchina: Southern Vietnam in the Seventeenth and Eighteenth Centuries. All rights reserved, Southeast Asian Program, Cornell University, 1998.</i></div>
+ <div style="background-color: white;">Map of Vietnam and its neighbours.<i> Reproduced from Nguyen Cochinchina: Southern Vietnam in the Seventeenth and Eighteenth Centuries.</i>  All rights reserved, Southeast Asian Program, Cornell University, 1998.</div>
 
 By the first half of the 16th century, the Le dynasty had weakened to such an extent that it fell victim to a usurper. In 1527, an official named Mac Dang Dung arranged the death of the reigning monarch Le Cung Hoang, and proclaimed himself emperor of a new dynasty and occupying the Le capital of Theng-long (modern-day Hanoi). After this debacle, surviving members of the Le enlisted the help of a powerful warlord named Trinh Kiem to restore their dynasty. In 1592, they finally succeeded in driving the Mac out of Thang-long. However, the Le found themselves at the mercy of Trinh Kiem's successors, who became known as the "Trinh Lords". The latter were the actual power holders.
 
@@ -94,7 +94,7 @@ The period of territorial division was ended by what became known as the Tay Son
 The Tay Son dynasty itself was short-lived; it began to crumble after Nguyen Hue's sudden death in 1792. In 1802, Nguyen Anh, the last surviving member of the Nguyen house who had seized control of the south, marched his troops northwards and captured Thang-long. Four years later, he proclaimed himself Emperor Gia Long and changed the dynastic name to Nguyen; it was to be Vietnam's last dynasty.
 
 <img src="/images/Vol%202%20Issue%203/DragonsFairies/hue%20forbidden%20city.jpg" style="width:50%;">
- <div style="background-color: white;">All rights reserved,, Edition Manges, 1995.
+ <div style="background-color: white;">All rights reserved, Edition Manges, 1995.
 </div>
 
 There are a few titles about the Nguyen dynasty (1802–1945) in the Library, and two will be mentioned here. The first, entitled *Hue, The Forbidden City* is an enticing pictorial spread on the dynasty's imperial capital situated in central Vietnam. Compiled by Bao Dai, Vietnam's last emperor, and French photographer Philippe Lafond, this work is a good blend of colourful photographs and well-researched text. The second, a two-volume series, *Vietnamese Source Materials Concerning the 1827 Conflict between the Court of Siam and the Lao Principalities*, contains English translated Vietnamese primary documents related to a war that erupted between Laos and Siam in which Vietnam was deeply involved. The documents not only provide some insight into the workings of Nguyen foreign policy, but also give readers a sense of the geopolitical dynamics in early 19th-century mainland Southeast Asia.
