@@ -104,4 +104,57 @@ There are a few titles about the Nguyen dynasty (1802–1945) in the Library, an
 </div>
  
 <div>
-<center><b>Alex Ong Eng Ann</b><br> Reference Librarian<br>  Lee Kong Chian Reference Library<br>  National Library</center></div>
+<center><b>Alex Ong Eng Ann</b><br> Reference Librarian<br>  Lee Kong Chian Reference Library<br> National Library</center></div>
+	
+#### **REFERENCES**
+
+Bao Dai and Philippe Lafond, [_Hue, the Forbidden City_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7674570) (Paris: Edition Menges, 1995). (Call no. RSEA 959.703 LAF)
+
+Geng Huiling 耿慧玲, _Yue'nan shi lun: jin shi zi liao zhi li shi wen hua bi jiao_ [越南史论 : 金石资料之历史文化比较](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12511974) \[A history of Vietnam: A historical and cultural comparison of inscriptions and stone materials\] (Taibei 台北 : Xin wen feng chu ban gong si 新文丰出版公司, 2004). (Call no. Chinese RSEA 959.7 GHL)
+
+Georges, Maspero, _[The Champa Kingdom: The History of an Extinct Vietnamese Culture](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11742632)_, trans. Walter E.J. Tips (Bangkok: White Lotus Press, 2002). (Call no. RSEA q959.703 MAS)
+
+Keith Weller Taylor, _[The Birth of Vietnam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2127988)_ (Berkeley: University of California Press, 1983). (Call no. RCLOS 959.703 TAY)
+
+Li Tana, _[Nguyen Cochinchina: Southern Vietnam in the Seventeenth and Eighteen Centuries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9242770)_ (New York: Southeast Asia Program, Cornell University, 1998). (Call no. RSEA q959.703 LI)
+
+Liam C. Kelley, [_Beyond the Bronze Pillars: Envoy Poetry and the Sino-Vietnamese Relationship_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12540513) (Honolulu: Association for Asian Studies; University of Hawaii Press, 2005). (Call no. RUR 303.4825970510903 KEL)
+
+Mayoury Ngaosyvathn and Pheuiphanh Ngaosyvathn, eds., _[Vietnamese Source Materials Concerning the 1827 Conflict Between the Court of Siam and the Lao Principalities: Journal of Our Imperial Court’s Actions With Regard to the Incidence Involving the Kingdom of Ten Thousand Elephants](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11792023)_, 2 vols. (Tokyo : Centre for East Asian Cultural Studies for Unesco, the Toyo Bunko, 2001). (Call no. RSEA 959.403 VIE)
+
+Oscar Chapuis, [_A History of Vietnam: From Hong Bang to Tu Duc_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7396242) (Westport: Greenwood Press, 1995). (Call no. RSEA 959.7 CHA)
+
+Phan Van Cac and Claudine Salmon, eds., _[Epigraphie En Chinois Du Vietnam De!’Occupation Chinoise a La Dynastie Des Ly](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12506851)_ \[越南汉喃铭文汇编\], vol. 1 (Paris: Ecole francaise d'Extreme-Orient &amp; Han Nom Institute, 1998). (Call no. RSEA 959.703 YNH)
+
+Zhang Rongfang 張榮芳 and Huang Miaozhang 黄淼章, _Nan yue guo shi_ 南越国史 \[The history of the Nan Yue/Nam Viet polity\] (\[Guangzhou\] \[廣州\]: Guangdong ren min chu ban she 廣東人民出版社, 1995)
+
+
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
