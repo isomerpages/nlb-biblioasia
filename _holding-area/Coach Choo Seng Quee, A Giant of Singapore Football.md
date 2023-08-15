@@ -183,7 +183,7 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 [^9]: “Uncle Choo dan Latihan Fisik Timnas Era 1950-an,” Detikcom, 19 March 2013, https://sport.detik.com/sepakbola/pandit/d-2197914/uncle-choo-dan-latihan-fisik-timnas-era-1950-an.
 
-[^10]: Randy Wirayudha, “Paman Coach, Pelatih Asing Pertama Timans Sepakbola Indonesia,” Historia, 14 July 2017, https://historia.id/olahraga/articles/paman-choo-pelatih-asing-pertama-timnas-sepakbola-indonesia-DbNXl/page/1.
+[^10]: Randy Wirayudha, “Paman Coach, Pelatih Asing Pertama Timnas Sepakbola Indonesia,” Historia, 14 July 2017, https://historia.id/olahraga/articles/paman-choo-pelatih-asing-pertama-timnas-sepakbola-indonesia-DbNXl/page/1.
 
 [^11]: “What’s Next after Indonesia’s SEA Games Football Gold?”, Tempo.co, 21 May 2023, https://en.tempo.co/read/1728104/whats-next-after-indonesias-sea-games-football-gold.
 
