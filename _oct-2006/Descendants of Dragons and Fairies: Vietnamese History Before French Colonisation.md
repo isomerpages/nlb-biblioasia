@@ -54,6 +54,10 @@ Oscar Chapuis' *A History of Vietnam from Hang Bang to Tu Duc* provides brief bu
 
 Vietnamese  rulers were well aware that China's monarchs would continue to keep a close watch on them, and while Chinese rule had been successfully repelled, it could return. Therefore, some form of diplomatic relationship had to be established, and the Vietnamese monarchs did so by dispatching envoys to China. The arrangement commonly known as the tribute system, was vastly different from what was practised between nation-states. From Imperial China's point of view, the relationship was to be an unequal one; in her eyes, she was the suzerain, and Vietnam a vassal. Vietnam was to pay tribute to China.
 
+<img src="/images/Vol%202%20Issue%203/DragonsFairies/beyond%20the%20bronze%20pillars.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, University of Hawaii Press, 2005.
+</div>
+
 Liam C. Kelley's *Beyond the Bronze Pillars: Envoy Poetry and the Sino-Vietnamese Relationship* looks at this relationship through the poems of the Vietnamese envoys. The conclusions he draws in his book are a refreshing departure from the convention — that the Vietnamese always strove to assert their cultural distinctiveness and political equality vis-a-vis the Chinese. Contrary to this belief, Kelley argues that at least from the perspective of the Vietnamese envoys, there was "a profound identification with the cultural world which found its center at the Chinese capital" as well as an acceptance of "their kingdom's political subservience in that same world" (Kelley 2005:2).
 
 The dynasties that were to follow the Dinh were the Ly (1009–1225), Tran (1225–1400) and Ho (1400–1407). China under the Ming dynasty succeeded in conquering northern Vietnam in 1407 but its occupation lasted only two decades. In 1427, after the Ming decided to pull out of northern Vietnam, the monarchical system was restored under the Le dynasty. This dynasty readched its apogee (Airing the reign of Le Thanh Tong (r. 1460–1497), who successfully expanded the Vietnamese empire southwards into the territories of its southern neighbour - a 
