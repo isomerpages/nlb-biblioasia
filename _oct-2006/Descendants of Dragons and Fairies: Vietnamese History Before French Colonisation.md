@@ -127,34 +127,3 @@ Oscar Chapuis, [_A History of Vietnam: From Hong Bang to Tu Duc_](https://eservi
 Phan Van Cac and Claudine Salmon, eds., _[Epigraphie En Chinois Du Vietnam De!’Occupation Chinoise a La Dynastie Des Ly](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12506851)_ \[越南汉喃铭文汇编\], vol. 1 (Paris: Ecole francaise d'Extreme-Orient &amp; Han Nom Institute, 1998). (Call no. RSEA 959.703 YNH)
 
 Zhang Rongfang 張榮芳 and Huang Miaozhang 黄淼章, _Nan yue guo shi_ 南越国史 \[The history of the Nan Yue/Nam Viet polity\] (\[Guangzhou\] \[廣州\]: Guangdong ren min chu ban she 廣東人民出版社, 1995)
-
-
-
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
