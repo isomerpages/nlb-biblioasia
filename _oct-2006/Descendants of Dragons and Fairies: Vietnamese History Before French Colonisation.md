@@ -40,6 +40,10 @@ The events during this period of Chinese occupation (Bac Thuoc in Vietnamese, me
 
 The key figure responsible for the release of imperial China's grip over Vietnam was a Vietnamese general named Ngo Quyen, who in 93B CE defeated troops sent by a southern Chinese polity in a decisive battle. The showdown took place at Bach-clang River, an estuary marking the entrance to the Red River Delta. Before the Chinese military fleet arrived, Quyen ordered his men to plant large poles with sharpened tips in the river bed. The heights of the poles were kept to just short of the water level at high tide, so that they would not be visible to the enemy as their ships sailed in. As the tide receded, the bottoms of the Chinese flotilla were ripped open by the sharp ends of the poles. Caught helplessly in the river, the Chinese troops suffered huge casualties as Ngo Quyen's own army attacked. A few months later, the general himself took the title of "King" (*Vuong*).
 
+<img src="/images/Vol%202%20Issue%203/DragonsFairies/12th%20century%20epigraph1.jpg" style="width:50%;">
+<div style="background-color: white;">Vietnamese epigraph from the 12th century.<i> Reproduced from Epigraphie En Chinois Du Vietnam De!’Occupation Chinoise a La Dynastie Des Ly]</i>All rights reserved,  Paris: Ecole francaise d'Extreme-Orient &amp; Han Nom Institute, 1998.
+</div>
+
 In the spring of 939 CE, the year that marks the end of direct Chinese rule over northern Vietnam, Ngo Quyen merely proclaimed himself "King ". It would be another three decades before someone went a step further to take the title of "Empero" (*de*). That person was Dinh Boh Linh, who founded the Dinh dynasty in 966 and named his state Dai Co Viet. From then until the first half of the 20th century, Vietnam would have her fair share of emperors like her northern neighbour, China.
 
 <img src="/images/Vol%202%20Issue%203/DragonsFairies/a%20history%20of%20vietnam.jpg" style="width:50%;">
