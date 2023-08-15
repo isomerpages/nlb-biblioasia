@@ -104,7 +104,7 @@ Other rules included a smoking ban at training premises, no consumption of iced 
 
 #### **Return to Singapore**
 
-In 1976, Football Association of Singapore chairman Ganesan Nadesan brought Choo back into the national coaching hot seat.[^31] He was given full reign in the selection and training of players ahead of the World Cup and Malaysia Cup qualifiers taking place in 1977, unlike previous occasions where Choo had to work with teams chosen by selectors such as committee members of the national football association and chairmen of the football clubs, or work with fellow coaches in the coaching committee.
+In 1976, Football Association of Singapore chairman Ganesan Nadesan brought Choo back into the national coaching hot seat.[^31] He was given full rein in the selection and training of players ahead of the World Cup and Malaysia Cup qualifiers taking place in 1977, unlike previous occasions where Choo had to work with teams chosen by selectors such as committee members of the national football association and chairmen of the football clubs, or work with fellow coaches in the coaching committee.
 
 Drama quickly ensued in the aftermath of the appointment. Local football fans were doubtful that Choo, who was then already 62, had the ability to handle the national team. One of his first tasks was to demand the reinstatement of several old stalwarts, whom he had known from their youth training at Farrer Park. Among them was Quah who was then serving a suspension. “Uncle Choo told Ganesan that if he was to come back, ‘On my terms’,” said Quah.[^32]
 
