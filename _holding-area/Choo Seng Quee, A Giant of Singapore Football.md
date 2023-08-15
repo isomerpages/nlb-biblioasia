@@ -130,7 +130,7 @@ Finishing second in their qualifying group after a 0–4 drubbing by Indonesia, 
 
 All this, of course, was a lead-up to the historic Malaysia Cup win in May 1977.
 
-![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/chootears.jpg)
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/chootears2.jpg)
 <div style="background-color: white;">Choo Seng Quee fights back tears after Singapore’s thrilling 3–2 win against Penang in the Malaya Cup final held at the Merdeka Stadium in Kuala Lumpur on 28 May 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 8. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div> 
 
 #### **Sacrifices and Accolades**
@@ -145,7 +145,7 @@ Choo kept his word and proved his critics wrong. In January 1979, he returned to
 
 At the tail end of his career, Choo was awarded a gold medal by the All-Indonesia Soccer Federation on 19 April 1980 for his trailblazing work in making the Garudas a Southeast Asian force. The team under Choo was considered the best in Indonesia’s soccer history. Two years earlier, he had been named Singapore Coach of the Year in March 1978 and awarded the Public Service Medal (Pingat Bakti Masyarakat) by the Singapore government in August 1978 for his “contribution towards the promotion of the game”.[^47]
 
-![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/medals.jpg)
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/medals3.jpg)
 <div style="background-color: white;">Choo Seng Quee holding his trophies at his home after he was named Coach of the Year in March 1978. Photo taken on 21 April 1978. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 Choo finally retired from coaching in January 1981.[^48] When he died on 30 June 1983 at his home on Wolskel Road after a battle with kidney disease, there was an outpouring of grief nationwide.[^49]
