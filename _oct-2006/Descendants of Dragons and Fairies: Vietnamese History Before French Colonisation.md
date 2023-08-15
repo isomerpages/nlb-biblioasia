@@ -30,7 +30,11 @@ That enemy was Zhao Tuo, known to the Vietnamese as Trieu Da, an official based 
 
 In 111 BCE, the Chinese Han dynasty invaded northern Vietnam and stayed. This event marked the beginning of imperial Chinese political presence in the area; from then until 939 CE, successive states/dynasties in China laid their claims on the northern half of Vietnam. During these 13 centuries, Chinese administrators dispatched to the area found themselves having to cope with periodic uprisings from its inhabitants. The people who led these rebellions were subsequently delfied and worshipped after their deaths, while their historical acts - specifically their resistance against the Chinese - were transformed into heroic tales of 'saints' to be emulated by future generations.
 
-The events during this period of Chinese occupation (Bac Thuoc in Vietnamese, meaning "belonging to the North", the 'North' here referring to China) constitute the bulk of historian Keith Taylor's work The Birth of Vietnam. His study also includes prehistoric period. Having researched meticulously into both Chinese and Vietnamese primary sources, Taylor not only brings historical characters to life in this highly detailed work, but also challenges the view of pre-10th century Vietnamese history being a mere offshoot of Chinese history. The arguments he set forth in this book seek to bring out early historic Vietnam as a somewhat unique entity that strove to preserve its identity in spite of overwhelming Chinese political and cultural influences.
+<img src="/images/Vol%202%20Issue%203/DragonsFairies/the%20birth%20of%20vietnam.jpg" style="width:50%;">
+<div style="background-color: white;">All rights reserved, University of California Press, 1983.
+</div>
+
+The events during this period of Chinese occupation (Bac Thuoc in Vietnamese, meaning "belonging to the North", the 'North' here referring to China) constitute the bulk of historian Keith Taylor's work *The Birth of Vietnam*. His study also includes prehistoric period. Having researched meticulously into both Chinese and Vietnamese primary sources, Taylor not only brings historical characters to life in this highly detailed work, but also challenges the view of pre-10th century Vietnamese history being a mere offshoot of Chinese history. The arguments he set forth in this book seek to bring out early historic Vietnam as a somewhat unique entity that strove to preserve its identity in spite of overwhelming Chinese political and cultural influences.
 
 #### **The Age Of Emperors**
 
