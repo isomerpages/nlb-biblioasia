@@ -26,9 +26,6 @@ As the _Straits Times_ noted: “The manner in which Singapore came back to win 
 
 Credit for that historic win should be laid at the feet of a Singapore team who played their hearts out. But one other person played just as important a role, even though his name did not appear on the starting 11. Choo (or Uncle Choo as he was fondly termed) had assembled the team, trained and motivated them, and planned and strategised their matches. He did all this in the face of detractors who said he was too old to do the job and who had organised petitions to remove him.
 
-![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/sgteam.jpg)
-<div style="background-color: white;">The Singapore Chinese Football Association team at Anson Road Stadium, 1939. Choo Seng Quee is standing fourth from the left. <i>Courtesy of Singapore Sports Council.</i></div>
-
 With the win, Choo, in his trademark batik shirt, earned his place in the annals of Singapore football. So it is not surprising then that when he died just six years later, at the age of 68, an outpouring of grief swept over the nation. Four decades on, it is safe to say that no other football coach has occupied the imagination of Singaporeans in quite the same way.
 
 #### **Early Beginnings with Raffles Institution**
@@ -36,6 +33,9 @@ With the win, Choo, in his trademark batik shirt, earned his place in the annals
 As with many coaches, Choo was a footballer first. Born in Singapore on 1 December 1914, Choo played for Raffles Institution, before progressing to the Singapore Chinese Football Association (SCFA).[^3]
 
 After obtaining his Senior Cambridge qualifications, Choo joined the SCFA in 1933 where he rose through the ranks to eventually make his first-team debut at the First Division two years later.[^4] He later earned a spot in the Singapore team for the Malaya Cup (renamed Malaysia Cup in 1967) in 1936.[^5] He was part of the backbone of the squad that managed to reach the Cup final in 1936, 1937 and 1938 and he was part of the team that defeated Selangor in 1937.[^6]
+
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/sgteam.jpg)
+<div style="background-color: white;">The Singapore Chinese Football Association team at Anson Road Stadium, 1939. Choo Seng Quee is standing fourth from the left. <i>Courtesy of Singapore Sports Council.</i></div>
 
 In 1939, the All-China Olympic Committee invited Choo to attend the preliminary selection in Hong Kong for the football team that would represent China at the 1940 Olympic Games in Helsinki, Finland. “He displays fine head work while his accurate ball distribution is as good as the best we have seen in Singapore,” wrote the _Malaya Tribune_. Choo said that “he appreciated the honour and that he would give of his very best if finally selected”. Choo never made it to the Olympics though as the games were eventually cancelled because of World War II.[^7]
 
