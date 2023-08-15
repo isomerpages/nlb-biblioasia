@@ -84,3 +84,8 @@ Chinese coins were exported to island Southeast Asia in small quantities during 
 
 At one point, the East and Southeast Asian demand for Chinese coinage became so great that commodities were apparently sold at “one-tenth of their value” in order to obtain the coins.45 This eventually caused a severe shortage of copper and copper coins in China. An edict by Emperor Ningzong (宋寧宗, r. 1195–1224) in the 13th century, for example, banned the use of metal currencies for government purchases, and goods such as silk, porcelain and lacquer were used as substitutes.46 (This ban was subsequently lifted.)
 
+#### **The Missing Gold Coins**
+
+While Chinese bronze alloy coins were used as small denomination currency in the 14th century, 17th-century Islamic gold coins in Singapore were probably used as a high-denomination currency for large trades. Alternatively, these Islamic gold coins could also have functioned as status symbols or even as grave markers.
+
+Unfortunately, many vital questions still remain regarding the gold coins of Telok Blangah. Were they indeed Acehnese coins? How did they disappear and where are they now? These coins could be in a dusty drawer or forgotten safety deposit box somewhere in Singapore, waiting to be rediscovered. Or they may have already left our shores like the Chinese coins from the discoveries by Ralfe and Crawfurd. We do not know the answers to these questions, but with further research, maybe someday, we will be able to find out more.
