@@ -61,9 +61,11 @@ The period of territorial division was ended by what became known as the Tay Son
 
 The Tay Son dynasty itself was short-lived; it began to crumble after Nguyen Hue's sudden death in 1792. In 1802, Nguyen Anh, the last surviving member of the Nguyen house who had seized control of the south, marched his troops northwards and captured Thang-long. Four years later, he proclaimed himself Emperor Gia Long and changed the dynastic name to Nguyen; it was to be Vietnam's last dynasty.<br><br>  
 
-There are a few titles about the Nguyen dynasty (1802–1945) in the Library, and two will be mentioned here. The first, entitled Hue, The Forbidden City is an enticing pictorial spread on the dynasty's imperial capital situated in central Vietnam. Compiled by Bao Dai, Vietnam's last emperor, and French photographer Philippe Lafond, this work is a good blend of colourful photographs and well-researched text. The second, a two-volume series, Vietnamese Source Materials Concerning the 1827 Conflict between the Court of Siam and the Lao Principalities, contains English translated Vietnamese primary documents related to a war that erupted between Laos and Siam in which Vietnam was deeply involved. The documents not only provide some insight into the workings of Nguyen foreign policy, but also give readers a sense of the geopolitical dynamics in early 19th-century mainland Southeast Asia.
+There are a few titles about the Nguyen dynasty (1802–1945) in the Library, and two will be mentioned here. The first, entitled *Hue, The Forbidden City* is an enticing pictorial spread on the dynasty's imperial capital situated in central Vietnam. Compiled by Bao Dai, Vietnam's last emperor, and French photographer Philippe Lafond, this work is a good blend of colourful photographs and well-researched text. The second, a two-volume series, *Vietnamese Source Materials Concerning the 1827 Conflict between the Court of Siam and the Lao Principalities*, contains English translated Vietnamese primary documents related to a war that erupted between Laos and Siam in which Vietnam was deeply involved. The documents not only provide some insight into the workings of Nguyen foreign policy, but also give readers a sense of the geopolitical dynamics in early 19th-century mainland Southeast Asia.
 </div>
-     
+ 
+<div>
+<center><b>Alex Ong Eng Ann</b><br> Reference Librarian<br>  Lee Kong Chian Reference Library<br>  National Library</center></div> 
 
 
 
