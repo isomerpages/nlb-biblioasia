@@ -76,7 +76,10 @@ A seminal work on Champa is that by the late French historian Georges Maspero, a
 
 #### **Late Imperial Vietnam: Division and Reunification**
 
-By the first half of the 16th century, the Le dynasty had weakened to such an extent that it fell victim to a usurper. In 1527, an official named Mac Dang Dung arranged the death of the reigning monarch Le Cung Hoang, and proclaimed himself emperor of a new dynasty and occupying the Le capital of Theng-long {modern-day Hanoi). After this debacle, surviving members of the Le enlisted the help of a powerful warlord named Trinh Kiem to restore their dynasty. In 1592, they finally succeeded in driving the Mac out of Thang-long. However, the Le found themselves at the mercy of Trinh Kiem's successors, who became known as the "Trinh Lords". The latter were the actual power holders.
+<img src="/images/Vol%202%20Issue%203/DragonsFairies/map%20of%20vietnam%20.jpg" style="width:50%;">
+ <div style="background-color: white;">Map of Vietnam and its neighbours.<i> Reproduced from Nguyen Cochinchina: Southern Vietnam in the Seventeenth and Eighteenth Centuries. All rights reserved, Southeast Asian Program, Cornell University, 1998.</i></div>
+
+By the first half of the 16th century, the Le dynasty had weakened to such an extent that it fell victim to a usurper. In 1527, an official named Mac Dang Dung arranged the death of the reigning monarch Le Cung Hoang, and proclaimed himself emperor of a new dynasty and occupying the Le capital of Theng-long (modern-day Hanoi). After this debacle, surviving members of the Le enlisted the help of a powerful warlord named Trinh Kiem to restore their dynasty. In 1592, they finally succeeded in driving the Mac out of Thang-long. However, the Le found themselves at the mercy of Trinh Kiem's successors, who became known as the "Trinh Lords". The latter were the actual power holders.
 
 The Trinh never managed to capture the southern part of Vietnam (formerly Cham territory); this came under the control of yet another powerful family the Nguyen. At first, the Nguyen and the Trinh had cooperated with each other against a common enemy the Mac. However, once the Mac had been driven out, both became rivals. Vietnam had in fact been divided into two, though both warlord families acknowledged the legitimacy of the puppet Le government.
 
