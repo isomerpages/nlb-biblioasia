@@ -152,6 +152,11 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 “‘Uncle’ Choo Seng Quee… was the greatest football coach Singapore has ever produced, the best talent scout in Asia, and the soccer saviour of our two closest neighbours, Malaysia and Indonesia,” wrote football journalist Jeffrey Low. “He was respected sometimes beyond logic, sometimes beyond toleration, sometimes even beyond one’s self-respect. But in the end, his ‘sons’ never questioned the biggest lesson he taught them: ‘To die for the country’.”[^50]
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/nathaniel%20soon.png">
+	<b>Nathaniel Soon</b> has a background in marine science and is a National Geographic Explorer. Through visual storytelling, he seeks to communicate science and connect people with our natural world.</div>
+
 #### **Notes**
 
 [^1]: Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),” _Straits Times_, 29 May 1977. (From NewspaperSG)
