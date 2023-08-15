@@ -9,6 +9,10 @@ description: We tend to associate Vietnam with the horrific battles at Dien Bien
 ---
 #### We tend to associate Vietnam with the horrific battles at Dien Bien Phu and the Vietnam War, but there is much more to Vietnamese history. This essay provides a historical sketch of Vietnam up to the 19th century, before French military forces overran Indochina and transformed it into a colony.
 
+<img src="/images/Vol%202%20Issue%203/DragonsFairies/decendants.jpg" style="width:80%;">
+ <div style="background-color: white;"></div>
+
+
 #### **From Myth To History**
 
 Traditionally, ethnic Vietnamese trace their ancestry back to a "royal" line known as the Hung kings (*Hung Vuong*) whom they believe ruled Van-Lang, said to be Vietnam's earliest kingdom. According to Vietnamese folklore, the Hung Vuong were descendants of dragons and fairies. A sea dragon lord, known as Lac Long Quan, was said to have fathered a hundred children by a princess of the mountains, named Au Co.
