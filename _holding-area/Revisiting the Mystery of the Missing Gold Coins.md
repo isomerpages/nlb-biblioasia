@@ -89,3 +89,97 @@ At one point, the East and Southeast Asian demand for Chinese coinage became so 
 While Chinese bronze alloy coins were used as small denomination currency in the 14th century, 17th-century Islamic gold coins in Singapore were probably used as a high-denomination currency for large trades. Alternatively, these Islamic gold coins could also have functioned as status symbols or even as grave markers.
 
 Unfortunately, many vital questions still remain regarding the gold coins of Telok Blangah. Were they indeed Acehnese coins? How did they disappear and where are they now? These coins could be in a dusty drawer or forgotten safety deposit box somewhere in Singapore, waiting to be rediscovered. Or they may have already left our shores like the Chinese coins from the discoveries by Ralfe and Crawfurd. We do not know the answers to these questions, but with further research, maybe someday, we will be able to find out more.
+
+#### **Notes**
+
+[^1]: Marianne Teo, “Numismatics,” in [_Treasures from the National Museum Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413295) (Singapore: National Museum Singapore, 1987), 82. (From National Library, Singapore, call no. RSING 708.95957 TRE); Gracie Lee, “[Collecting the Scattered Remains: The Raffles Library and Museum](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/raffleslibrary-museum),” _BiblioAsia_ 12, no. 3 (April–June 2016): 39–45; J.C. Smith, “The Fifth Report of the Singapore Library,” in [_Reports of Singapore Library, 1844–60_](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (Singapore: G.M. Frederick, 1849), 10–12; reproduced in R. Hanitsch, “Raffles Library and Museum, Singapore,” [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)_,_ vol. 1, ed. Walter Makepeace, Gilbert E. Brooke, Roland St. J. Braddell (Singapore: Oxford University Press, 1991), 531–33. (From National Library, Singapore, call no. RSING 959.57 ONE)
+
+[^2]: Smith, “The Fifth Report,” 10; Lionel Milner Angus-Butterworth, [_General J.W. Butterworth, C.B. (1801–1856), Governor of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4093355) (Buxton: L.M. Angus-Butterworth, 1978), 9. (From National Library, Singapore, call no. RCLOS 942.080924 BUT.A)
+
+[^3]: Ang Seow Leng, “[Logan’s Journal](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/indian-archipelago-eastern-asia-logan-journal/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 28–29.
+
+[^4]: Smith, “The Fifth Report,” 10–11.
+
+[^5]: Leonard Y. Andaya, [_The Kingdom of Johor 1641–1728: Economic and Political Developments_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200190064) (Kuala Lumpur: Oxford University Press, 1975), 22–23. (From National Library, Singapore, call no. RCLOS 959.51 AND–\[GH\])
+
+[^6]: Bank Negara Malaysia, [_Malaysian Numismatic Heritage_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12822985) (Malaysia: The Money Museum and Art Centre, Bank Negara Malaysia, 2005), 89. (From National Library, Singapore, call no. RSEA 332.49595 BAN)
+
+[^7]: Smith, “The Fifth Report,” 10–11; Robert Sigfrid Wicks, [_A Survey of Native Southeast Asian Coinage Circa 450–1850: Documentation and Typology_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4119799) (Ithaca: Cornell University, 1983), 258–72. (From National Library, Singapore, call no. RSING 737.4959 WIC); J. Hulshoff Pol, “De Gouden Munten (Mas) Van Noord-Sumatra,” _Jaarboek van het Koninklijk Nederlandsch Genootschap voor Munt-en Penningkunde_ XVI (1929): 1–32, https://jaarboekvoormuntenpenningkunde.nl/jaarboek/1929/1929a.pdf.
+
+[^8]: National Museum (Singapore), _Catalogue of Exhibits in the Raffles Museum Singapore, 1884_ (Singapore: Late Mission Press, 1884), 192, https://www.biodiversitylibrary.org/bibliography/138313.
+
+[^9]: Hanitsch, “Raffles Library and Museum, Singapore,” 531–33.
+
+[^10]: Smith, “The Fifth Report, 10, 20; Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore (With Portraits and Illustrations)_](https://eresources.nlb.gov.sg/printheritage/detail/e895d2b3-00f6-40b0-9db7-4177648c2771.aspx), vol. II (Singapore: Fraser & Neave Limited, 1902), 500. (From BookSG); “[The Singapore Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18630530-1.2.17),” _Straits Times_, 30 May 1863, 2; “[Singapore Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18630618-1.2.5),” _Singapore Free Press and Mercantile_ Advertiser, 18 June 1863, 3; “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18740124-1.2.48),” _Straits Times_, 24 January 1874, 3. (From NewspaperSG); Bonny Tan and Heirwin N. Nasir, “[Singapore Library (1845–1874)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_653_2005-02-03.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
+
+[^11]: Hanitsch, “Raffles Library and Museum, Singapore,” 531–33, 541; Preservation of Sites and Monuments, National Heritage Board, “[National Museum of Singapore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-08-31_132917.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 31 August 2015.
+
+[^12]: Iskander Mydin, email correspondence, 7 December 2022.
+
+[^13]: Amirul Hadi, [_Islam and the State in Sumatra: A Study of Seventeenth-Century Aceh_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12279655) (Leiden: Brill, 2004), 49. (From National Library, Singapore, call no. RSEA 322.1095981 HAD)
+
+[^14]: Teuku Iskandar, “A Document Concerning the Birth of Iskandar Muda,” _Archipel_ 20 (1980): 214, https://doi.org/10.3406/arch.1980.1602; Andaya, [_The Kingdom of Johor 1641–1728_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200190064), 22.
+
+[^15]: Andaya, [_The  Kingdom of Johor 1641–1728_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200190064), 22.
+
+[^16]: Peter Borschberg, “Urban Impermanence on the Southern Malay Peninsula: The Case of Batu Sawar Johor (1587–c.1615),” _Journal of East-Asian Urban History_ 3, no. 1 (2021): 75–76, https://doi.org/10.22769/JEUH.2021.3.1.57.
+
+[^17]: Teuku Iskandar, “A Document Concerning the Birth of Iskandar Muda,” 221–22; Amirul Hadi, [_Islam and the State in Sumatra_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12279655), 49.
+
+[^18]: T. Ibrahim Alfian, [_Mata Uang Emas Kerajaan-Kerajaan di Aceh_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4124741) (Banda Aceh: Proyek Rehabilitasi dan Perluasan Museum Daerah Istimewa Aceh, 1979), 46–47. (From National Library, Singapore, call no. Malay RSEA 737.495981 ALF)
+
+[^19]: John R. Bowen, “Narrative Form and Political Incorporation: Changing Uses of History in Aceh, Indonesia,” _Comparative Studies in Society and History_ 31, no. 4 (October 1989): 681–90. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Hasan Muarif Ambary, [_Menemukan Peradaban: Jejak Arkeologis dan Historis Islam Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9688135) (Jakarta: Logos Wacana Ilmu, 1998), 55–58. (From National Library, Singapore, call no. Malay RSEA 959.8015 AMB)
+
+[^20]: Hulshoff Pol, “De Gouden Munten (Mas) Van Noord-Sumatra,” 18; T. Ibrahim Alfian, [_Mata Uang Emas_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4124741), 46–47.
+
+[^21]: Denys Lombard, “Politik Perdagangan dan Bangsa-Bangsa Asing,” in [_Kerajaan Aceh: Zaman Sultan Iskandar Muda (1607–1636)_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12830866) (Jakarta: Kepustakaan Populer Gramedia and École française d'Extrême-Orient, 2007), 155. (From National Library, Singapore, call no. Malay RSEA 959.81 LOM)
+
+[^22]: K.F.H. Van Langen, “De Inrichting van het Atjehsche Staatsbestuur onder het Sultanaat,” _Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsche-Indië Deel_ 37, 3de (1888): 430; (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); K.F.H. Van Langen, [_Susunan Pemerintahan Aceh Semasa Kesultanan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201290648), trans. Aboe Bakar (Banda Aceh: Pusat Dokumentasi dan Informasi Aceh, 1986), 67 (From National Library, Singapore, call no. Malay RCLOS 959.81 LAN); Sim Ewe Eong, “Ringgit,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 47, no. 1 (225) (1974): 59 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+[^23]: Lombard, “Politik Perdagangan,” 155–59.
+
+[^24]: Van Langen, “De Inrichting van het Atjehsche Staatsbestuur,” 430; Van Langen, [_Susunan Pemerintahan Aceh_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201290648), 68.
+
+[^25]: Wicks, [_A Survey of Native Southeast Asian Coinage Circa 450–1850_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4119799), 272.
+
+[^26]: “[Gold Coin](https://eresources.nlb.gov.sg/webarchives/2021-01-15%2008:43:45.000/wp/details/https%3A%2F%2Fwww.sg%2Fsgbicentennial%2Fthe-bicentennial-experience%2Femporium%2Fgold-coin%2F),” SG Bicentennial, 12 March 2019, https://www.sg/sgbicentennial/the-bicentennial-experience/emporium/gold-coin/.
+
+[^27]: Brigitte Borell, “Money in 14th Century Singapore,” in _Southeast Asian Archaeology 1998: Proceedings of the 7th International Conference of the European Association of Southeast Asian Archaeologists Berlin, 31 August–4 September 1998_, ed. Wibke Lobo and Stefanie Reimann (Hull: Centre for Southeast Asian Studies, University of Hull, 2000), 2.
+
+[^28]: “Literary and Philosophical Intelligence,” _The Asiatic Journal and Monthly Register for British India and Its Dependencies_ X (1820): 477, https://archive.org/details/dli.ministry.09920/page/291/mode/2up; Mok Ly Yng, “The Bute Map,” in [_On Paper: Singapore Before 1867_](https://eresources.nlb.gov.sg/printheritage/detail/594f089e-283a-4386-b865-7c4b9e359ff3.aspx) (Singapore: National Library Board, 2019), 66–71. (From BookSG); John N. Miksic, “Introduction: The Archaeology of Singapore,” in [_Singapore & the Silk Road of the Sea 1300–1800_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868) (Singapore: NUS Press and National Museum of Singapore, 2013), 7–8. (From National Library, Singapore, call no. RSING 959.57 MIK-\[HIS\]); Kwa Chong Guan, et al., [_Seven Hundred Years: A History of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868733) (Singapore: National Library Board, 2019), 33. (From National Library, Singapore, call no. RSING 959.57 KWA-\[HIS\])
+
+[^29]: Emperor Huizong was mentioned in the original text as Huing Tsung. See “Coin Discovered at Singapore,” _Calcutta Journal, or Political, Commercial, and Literary Gazette_, 14 February 1820, 307; later reproduced in “Sincapore,” _The Asiatic Journal and Monthly Register for British India and Its Dependencies_ X (1820): 198, 292, https://archive.org/details/dli.ministry.09920/page/291/mode/2up; Patricia Buckley Ebrey, [_Emperor Huizong_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202557263) (Cambridge, Massachussetts: Harvard University Press, 2014), xi. (From National Library, Singapore, call no. R 951.024092 EBR)
+
+[^30]: Ebrey, [_Emperor Huizong_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202557263), 329–37; Li Kangying, “A Study on Song, Yuan and Ming Monetary Policies Within the Context of Worldwide Currency Flows During the 11th–16th Centuries and Their Impact on Ming Institutions.” In _The East Asian Maritime World 1400–1800: Its Fabrics of Power and Dynamics of Exchanges_, ed. Angela Schottenhammer (Wiesbaden: Harrassowitz, 2007), 113.
+
+[^31]: “Literary and Philosophical Intelligence,” 477; “List of the Donors and Donations to the Museum of the Asiatick Society,” _Asiatick Researches_ 14 (January 1820): Appendix III, 6M, https://www.biodiversitylibrary.org/item/133120#page/553/mode/1up; “Contents of the Fourteenth Volume,” _Asiatick Researches_ 14 (January 1820): front matter, https://www.biodiversitylibrary.org/item/133120#page/7/mode/1up; Vincent A. Smith, “General Introduction,” in _Catalogue of Coins in the Indian Museum Calcutta Including the Cabinet of the Asiatic Society of_ Bengal, vol. I (Oxford: Clarendon Press, 1906), xv, https://indianculture.gov.in/rarebooks/catalogue-coins-indian-museum-calcutta-including-cabinet-asiatic-society-bengal-vol-i-1.
+
+[^32]: John Crawfurd wrote about the coins in an entry dated 4 February 1822. The regnal date for the first coin was corrected (Emperor Taizu died in 976 instead of 967 as stated in Crawfurd’s text). See John Crawfurd, [_Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China; Exhibiting a View of the Actual State of Those Kingdoms_](https://eresources.nlb.gov.sg/printheritage/detail/78831281-b72c-4981-afd0-7a448179e707.aspx) (London: Henry Colburn, 1828), 47. (From BookSG); Denis Twitchett and Paul Jakov Smith, eds., “Table 2: Sung Emperors and Their Reign Periods,” in [_The Cambridge History of China Vol. 5 Part 1: The Sung Dynasty and Its Precursors, 907–1279_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13198621) (Cambridge: Cambridge University Press, 2009), xxx. (From National Library, Singapore, call no. R 951 CAM)
+
+[^33]: Miksic, [_Singapore & the Silk Road of the Sea 1300–1800_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 7, 9. Song Ong Siang mentioned that the coins were dug up in 1827 but this may have been the year they were reported or deposited with the Royal Asiatic Society. See Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore: The Annotated Edition_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204371926), annotated by Kevin Y.L. Tan (Singapore: World Scientific, 2020), 3. (From National Library, Singapore, call no. RSING 959.57 SON-\[HIS\])
+
+[^34]: Heng, “Export Commodity and Regional Currency,” 192; John N. Miksic and Goh Geok Yian, “Discussion: Stone, Metal, Organic Materials,” in _The Singapore Cricket Club Excavation Site Report, April 2003_, https://epress.nus.edu.sg/sitereports/scc; Borell, “Money in 14th Century Singapore,” 4; Clement Liew and Peter Wilson, [_A History of Money in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205589482) (Singapore: Talisman Publishing Pte Ltd, 2021), 12. (From National Library, Singapore, call no. RSING 332.4095957 LIE)
+
+[^35]: Peter Borschberg, ed., [_Jacques de Coutre’s Singapore and Johor 1594–c.1625_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201056592) (Singapore: NUS Press, 2015), 2–3, 22. (From National Library, Singapore, call no. RSING 959 COU); Kwa et al., [_Seven Hundred Years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868733), 89–111.
+
+[^36]: Joe Cribb, [_Magic Coins of Java, Bali and the Malay Peninsula: Thirteenth to Twentieth Centuries: A Catalogue Based on the Raffles Collection of Coin-Shaped Charms from Java in the British Museum_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9282807) (London: Museum Press, 1999), 65–79. (From National Library Singapore, call no. RSING 737.495982 CRI); Walter William Skeat, [_Malay Magic, Being An Introduction to the Folklore and Popular Religion of the Malay Peninsula_](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx) (London: Macmillan and Co., 1900), 409, 441. (From BookSG)
+
+[^37]: I agree with Peter Harris who translated 唐货 (_táng huò_) as Chinese goods. Other scholars have interpreted the term to mean Chinese coins. Zhou Daguan, [_A Record of Cambodia: The Land and Its People_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200147324), trans. Peter Harris (Chiang Mai: Silkworm Books, 2007), 70. (From National Library, Singapore, call no. RSEA 959.6 ZHO); Xia Nai 夏鼐, _Zhenla feng tu ji jiao zhu_ [真腊风土记校注](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12268305)  \[_Annotation of a Record of Cambodia_\] (Beijing 北京: Zhong hua shu ju 中华书局, 2000), 146. (From National Library, Singapore, call no. Chinese RSEA 959.6 XD)
+
+[^38]: Pamela Gutman, “The Ancient Coinage of Southeast Asia,” _Journal of the Siam Society_ 66, no. 1 (1978): 9–10, https://thesiamsociety.org/wp-content/uploads/1978/03/JSS\_066\_1c\_Gutman\_AncientCoinageOfSoutheastAsia.pdf; Eileen Joan Lustig, “Power and Pragmatism in the Political Economy of Angkor” (PhD diss., University of Sydney, 2009), 160–91, https://ses.library.usyd.edu.au/handle/2123/5356;  Nhim Sotheavin, “Factors that Led to the Change of the Khmer Capitals from the 15th to 17th Century,” カンボジアの文化復興 29 \[_Cultural Revival in Cambodia_\], November 2016, 42, 64, 70, https://digital-archives.sophia.ac.jp/repository/view/repository/20201210024.
+
+[^39]: O.W. Wolters, [_The Fall of Śrīvijaya in Malay History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4153915) (Singapore: Oxford University Press, 1975), 39, 73. (From National Library, Singapore, call no. RSING 959.5 WOL); Friedrich Hirth and W.W. Rockhill, [_Chau Ju-Kua: His Work on the Chinese and Arab Trade in the Twelfth and Thirteenth Centuries, Entitled Chu-fan-chi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201313365) (2015; repr., St. Petersburg: Printing Office of the Imperial Academy of Sciences, 1911), 60. (From National Library, call no. RBUS 382.0951 ZHA) 
+
+[^40]: One use of gold treated with _sepuh_ was for decorative painting, such as on walls and gateways.
+
+[^41]: W.W. Rockhill, “Notes on the Relations and Trade of China with the Eastern Archipelago and the Coast of the Indian Ocean during the Fourteenth Century,” Part II. _T’oung Pao_ 16, no. 1 (March 1915): 129–33. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+[^42]: Amelia S., “The Role of Chinese Coins in Majapahit,” in [_The Legacy of Majapahit: Catalogue of an Exhibition at the National Museum of Singapore, 10 November 1994–26 March 1995_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7407439), ed. John N. Miksic and Endang Sri Hardiati Soekatno (Singapore: National Heritage Board, 1995), 101. (From National Library, Singapore, call no. RSING q959.801 LEG); Hasan Djafar, [_Masa Akhir Majapahit: Girîndrawarddhana dan Masalahnya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200185062), cetakan kedua (Jakarta: Komunitas Bambu, 2012), 96–131. (From National Library, Singapore, call no. Malay RSEA 959.82 DJA)
+
+[^43]: Derek Thiam Soon Heng, “Export Commodity and Regional Currency: The Role of Chinese Copper Coins in the Melaka Straits, Tenth to Fourteenth Centuries,” _Journal of Southeast Asian Studies_ 37, no. 2 (June 2006): 181–83. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
+
+[^44]: Li, “A Study on Song, Yuan and Ming Monetary Policies, 108; Heng, “Export Commodity,” 185–87; Jan Wisseman Christie, “Javanese Markets and the Asian Sea Trade Boom of the Tenth to Thirteenth Centuries A.D.,” _Journal of the Economic and Social History of the Orient_ 41, no. 3 (1998): 358–60. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Hall, “Coinage, Trade and Economy,” 440–41.
+
+[^45]: Jin Xu, [_Empire of Silver: A New Monetary History of China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205405527), trans. Stacy Mosher (New Haven: Yale University Press, 2021), 86–87. (From National Library, Singapore, call no. RBUS 332.4951 XU)
+
+[^46]: Li, “A Study on Song, Yuan and Ming Monetary Policies,” 110–11.
