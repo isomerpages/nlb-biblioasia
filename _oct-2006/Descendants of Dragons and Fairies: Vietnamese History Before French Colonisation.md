@@ -40,6 +40,13 @@ Liam C. Kelley's *Beyond the Bronze Pillars: Envoy Poetry and the Sino-Vietnames
 The dynasties that were to follow the Dinh were the Ly (1009–1225), Tran (1225–1400) and Ho (1400–1407). China under the Ming dynasty succeeded in conquering northern Vietnam in 1407 but its occupation lasted only two decades. In 1427, after the Ming decided to pull out of northern Vietnam, the monarchical system was restored under the Le dynasty. This dynasty readched its apogee (Airing the reign of Le Thanh Tong (r. 1460–1497), who successfully expanded the Vietnamese empire southwards into the territories of its southern neighbour - a 
 polity known as Champa.
 
+#### **Champa**
+
+It is difficult to ignore the discussion on the polity of Champa when one talks about the history of Vietnam. Occupying the central coast of what its modern-day Vietnam, what can be known of Champa is essentially based upon evidence drawn from inscriptions as well as Chinese sources. The Cham people are ethnolinguistically Malay and their culture was subjected to a great degree of Indian influence.
+
+Champa's relationship with its northern neighbour dated back many centuries. Historians have reconstructed interesting histories of inter-marriages and warfare taking place between the two polities over the centuries. One episode tells of how a Vietnamese princess, who was married off to a Cham ruler, was coerced to throw herself on her husband's funeral pyre after his death - a practice attuned to Hindu tradition. The Vietnamese were not prepared to see their princess go up in flames, so they sent an army to rescue her. The rescue attempt was successful, but relations between the two polities worsened as a result. As for the princess, after a brief fling with a Vietnamese intellectual, she ultimately opted for a reclusive life as a Buddhist nun.
+
+A seminal work on Champa is that by the late French historian Georges Maspero, and an English translation of the French text has been made available by Thailand's White Lotus Press. Entitled *The Champa Kingdom: The History of an Extinct Vietnamese Culture*, the book traces the history of the Cham from its beginnings to its final destruction in 1471, when Vietnamese armies sent by Le Thanh Tong overran the Cham capital of Vijaya. Thereafter, Champs was incorporated permanently as part of Vietnamese territory.
 
 
 
