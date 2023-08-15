@@ -189,9 +189,9 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 [^12]: Ken Fernandez, “[First Job Will Be to Tour States](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580131-1.2.154),” _Straits Times_, 31 January 1958, 16. (From Newspaper SG)
 
-[^13]: “Choo Seng Quee – Dari Pemain Ke Juralatih Legenda (Bhg. 1),” Legasi Legenda, 8 April 2022, https://legasilagenda.com/2022/04/08/choo-seng-quee-1/.
+[^13]: “Choo Seng Quee – Dari Pemain Ke Jurulatih Legenda (Bhg. 1),” Legasi Legenda, 8 April 2022, https://legasilagenda.com/2022/04/08/choo-seng-quee-1/.
 
-[^14]: “Choo Seng Quee – Dari Pemain Ke Juralatih Legenda (Bhg. 2),” Legasi Legenda, 15 April 2022, https://legasilagenda.com/2022/04/15/choo-seng-quee-2/.
+[^14]: “Choo Seng Quee – Dari Pemain Ke Jurulatih Legenda (Bhg. 2),” Legasi Legenda, 15 April 2022, https://legasilagenda.com/2022/04/15/choo-seng-quee-2/.
 
 [^15]: “Asian Games 1962 (Indonesia),” The Rec.Sport.Soccer.Statistics Foundation, 6 November 2009, https://www.rsssf.org/tablesa/asgames62.html.
 
