@@ -13,8 +13,9 @@ By Foo Shu Tieng
 
 Around 1840, some convict labourers made a startling discovery while building a road to New Harbour (present-day Keppel Harbour) – now Telok Blangah Road and Kampong Bahru Road. While clearing land belonging to Temenggong Daeng Ibrahim near the village of Telok Blangah, they uncovered two ancient gold coins with Jawi inscriptions on them.[^1]
 
-##### Map
-##### Daeng ibrahim
+![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/mapnewharbour.jpg)
+
+![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/diengibrahim.jpg)
 
 In 1849, these two coins were presented to the Singapore Library – predecessor of the current National Library and National Museum of Singapore – by Straits Settlements Governor William J. Butterworth on behalf of the Temenggong, who had purchased the coins from the convicts.[^2]
 
