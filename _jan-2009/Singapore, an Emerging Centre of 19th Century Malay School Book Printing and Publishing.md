@@ -78,6 +78,9 @@ In 1846, Benjamin Peach Keasberry was ordered to close the work in Singapore, bu
 
 In 1856, the Temmenggong of Johore and the East India Company (EIC) each contributed an annual sum of $1,500 to set up two Malay schools, one at Telok Blangah and the other at Kampong Glam, and to support Keasberry’s Malay mission school. In addition, part of the money was used to translate Malay manuscripts and publish them “to instruct Malay youth” (Jarman, 1998, p. 88). Keasberry was the first person to be officially appointed to translate and publish Malay school books for the Colony.
 
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%203.JPG" style="width:100%;">
+ <div style="background-color: white;">Table 3: Number of Pupil Boarders at Keasberry’s Malay Mission School During the Years 1847 to 1866 (selected years). Notes: According to the Annual Report on the Administration of the Straits Settlements from 1859 to 1864 there were mixed enrolments of boys and girls. <i> Buckley, 1965, p.322; Jarman, 1998, p. 218, p. 366, p. 370, p. 522, p. 640 &amp; p. 744.</i></div>
+
 Keasberry’s death brought an end to any extensive work in the Malay language on the peninsula for 20 years (Hunt, 1989, p. 41). In addition, the translation and production of Malay school books was interrupted, since his printing presses were sold to John Fraser and D. C. Neave in 1879 (Makepeace, 1908, p. 265). Fraser and Neave went on to publish directories, guides and company reports in English (Md Sidin Ahmad Ishak, 1992, p. 81).
 
 
