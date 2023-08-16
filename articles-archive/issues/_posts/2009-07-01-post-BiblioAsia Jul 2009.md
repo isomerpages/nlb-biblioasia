@@ -16,10 +16,7 @@ Lee Kong Chian Research Fellow *Khoo Sim Lyn* sets out to discover children’s 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/journey-west-dusty-road-stormy-seas/">Journey to the West: Dusty Roads, Stormy Seas and Transcendence</a><br>Lee Kong Chian Research Fellow *Prasani Weerawardane* traces the perilous journey from China to India over land and sea undertaken by Chinese Buddhist monks in search of the Buddhist Tripitaka.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_JourneyWest.pdf)
 
-
-
-**Why Politicians Don't Stay? Making Sense of Critical Political Events in Post-war Asia** <br>
-Lee Kong Chian Research Fellow *Tay Thiam Chye* presents a framework to understanding complex Asian politics. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_CriticalPolitical.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/asia-politician-critical-event-post-war">Why Politicians Don't Stay? Making Sense of Critical Political Events in Post-war Asia</a><br>Lee Kong Chian Research Fellow *Tay Thiam Chye* presents a framework to understanding complex Asian politics. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_CriticalPolitical.pdf)
 
 **Pantun: Sumber Rujukan Sosiobudaya Masyarakat Melayu** <br>
 Associate Librarian *Juffri bin Supa’at* shares how the pantun, the traditional Malay verse or quatrain, is not just a manifestation of an aesthetical art form but also encapsulates and reflects the philosophy and way of life of the Malays. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_PantunSumber.pdf)
