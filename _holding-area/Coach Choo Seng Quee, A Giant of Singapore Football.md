@@ -154,7 +154,7 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/thiyagaraju_garykoh2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/thiyagarajugarykoh.png">
 	<b>A. Thiyaga Raju</b>’s interest in writing was first ignited when he joined the <i>Straits Times</i> editorial department in January 1979. He received the Vibrant Culture Award from the Football Association of Singapore in 2019 for his contributions to local football.</div>
 	
 <div style="background-color: white;">
