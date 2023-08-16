@@ -22,6 +22,12 @@ Lim Tin Seng, "[Land from Sand: Singapore’s Reclamation Story](/vol-13/issue-1
 
 Mark Ravinder Frost and Yu-Mei Balasingamchow, [*Singapore: A Biography*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116) (Singapore: Editions Didier Millet, 2009).
 
+Lily Kong & Brenda S.A. Yeoh, [*The Politics of Landscapes in Singapore: Constructions of "Nation"*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772279) (Syracuse: Syracuse University Press, 2003).
+
+Neo Kim Seng, [*My Grandfather's Road*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202400794) (Singapore: Cake Theatrical Productions Ltd, 2015)
+
+Jeremy Tiang, [*State of Emergency*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202785218) (Singapore: Epigram Books, 2017)
+
 #### **Credits** ####
 This episode of BiblioAsia+ was hosted by Soh Gek Han and produced by Jimmy Yap. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Rachel for coming on the show.
 
