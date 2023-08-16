@@ -114,6 +114,12 @@ It was not until 1885 that Malay school book printing and publishing resumed wit
 
 In 1894, out of 24 Malay school books printed in Singapore, 19 or 73 per cent were produced by the Government Malay Press (as shown in Tables 9 and 10).
 
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%209.JPG" style="width:50%;">
+ <div style="background-color: white;">Table 9: List of 24 Malay School Books Used in Malay Vernacular Schools in 1894. <i>Isemonger, 1894, p. 43; Proudfoot, 1993.</i></div>
+ 
+ <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%2010.JPG" style="width:100%;">
+ <div style="background-color: white;">Table 10: 19 Out of 24 School Books Listed in 1894 Were Printed or Published by the Government Malay Press.</div>
+
 It was thus through these series of historical events and collaborations that Singapore emerged as a centre of 19th century Malay school book production and distribution in the Straits Settlements.
 
 ***The author wishes to acknowledge the contributions of Dr Annabel Teh Gallop, Head, South and Southeast Asia section, The British Library in reviewing the paper.***
