@@ -115,6 +115,7 @@ Studies of coins recovered from archaeological excavations at the civic district
 Coins can be important primary sources of history. They can provide information on the people living in Singapore at the time, its trade relations and distribution networks, the economic climate and even power structures within society. The presence of gold coins in Telok Blangah, for instance, adds to the evidence of human activity in the area in the 17th century.
 
 ![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/telok-blangah.jpg)
+<div style="background-color: white;">Telok Blangah Village, 1870s. Land belonging to Temenggong Daeng Ibrahim is located near the village. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 This material evidence complements an account by Jacques de Coutre, a Flemish gem trader, who mentioned seeing vessels used by the _orang laut_ (“sea people”; an indigenous people who fish and collect sea products) at the entrance of the straits near Isla de Arena (now the island of Sentosa) in 1595. He also talked about the activities of the Shahbandar, an official who supervised the collection of customs duties, the warehousing of imports, and who looked after the ruler’s investments in the area.[^35]
 
