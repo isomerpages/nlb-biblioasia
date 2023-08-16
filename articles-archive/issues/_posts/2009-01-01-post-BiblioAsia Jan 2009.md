@@ -28,7 +28,7 @@ of appreciation for their contributions or services rendered to the community, s
 and beyond.
 [(PDF)](/files/pdf/vol-4/issue-4/v4-issue4_BridgingWorlds.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-4/issue4/jan-2009/bridging-world-knowling-learning-sharing/">苏州工业园区图书馆参观访问记</a><br>Since its inception in 1994, the Suzhou Industrial Park has evolved into the largest economic cooperation project between China and Singapore. Three librarians from the Lee Kong
+<a style="text-decoration: none; font-weight: bold;" href="/vol-4/issue4/jan-2009/suzhou-industrial-park-library/">苏州工业园区图书馆参观访问记</a><br>Since its inception in 1994, the Suzhou Industrial Park has evolved into the largest economic cooperation project between China and Singapore. Three librarians from the Lee Kong
 Chian Reference Library visited the Suzhou Dushu Lake Library in October 2008.
 [(PDF)](/files/pdf/vol-4/issue-4/v4-issue4_Chinese.pdf)
 
