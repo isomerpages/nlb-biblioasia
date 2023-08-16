@@ -12,7 +12,9 @@ third_nav_title: Episode 13
 #### **Listen to the Full Episode** ####
 
 #### **About the Guest** ####
+Rachel Heng is the author of the novels [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224) (Riverhead,  2023) – a New York Times Editors’ Choice and a "Best Book of 2023 So Far" by The New Yorker, Amazon Books and Town & Country Magazine – and [*Suicide Club*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203154066) (Henry Holt / Sceptre, 2018), which was a national bestseller in Singapore and has been translated into 10 languages.
 
+Born and raised in Singapore, Rachel received her BA in Comparative Literature & Society from Columbia University and her MFA in Fiction and Playwriting from UT Austin's Michener Center for Writers. She is currently an Assistant Professor of English at Wesleyan University.
 
 #### **Resources** ####
 Rachel Heng, [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224)  (New York : Riverhead Books, 2023).
