@@ -75,6 +75,8 @@ Studies of coins recovered from archaeological excavations at the civic district
 
 Coins can be important primary sources of history. They can provide information on the people living in Singapore at the time, its trade relations and distribution networks, the economic climate and even power structures within society. The presence of gold coins in Telok Blangah, for instance, adds to the evidence of human activity in the area in the 17th century.
 
+##### Telok Blangah
+
 This material evidence complements an account by Jacques de Coutre, a Flemish gem trader, who mentioned seeing vessels used by the _orang laut_ (“sea people”; an indigenous people who fish and collect sea products) at the entrance of the straits near Isla de Arena (now the island of Sentosa) in 1595. He also talked about the activities of the Shahbandar, an official who supervised the collection of customs duties, the warehousing of imports, and who looked after the ruler’s investments in the area.[^35]
 
 The academic study of coins and other forms of money is conducted mainly by anthropologists, archaeologists, monetary historians and numismatists, who approach the materials in different ways to make sense of the artefacts and their history. While coins are generally used as a method of payment, they have also been used as tokens, commodities and even for magic purposes and/or as part of rituals.[^36]
