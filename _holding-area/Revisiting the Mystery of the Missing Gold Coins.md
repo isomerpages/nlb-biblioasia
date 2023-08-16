@@ -62,7 +62,6 @@ Studies do suggest that Sultan Iskandar Muda was the first ruler from Aceh Darus
 ||Sultan|سلطان|سري سلطان|Sri Sultan
 |<b>Obverse</b>|Sri Sikandar|سري سيکندر|اسکندر|Iskandar
 ||Mahbud|محبود|مودا|Muda
-||
 ||Tuhan|توهن|جوهن|Johan
 |<b>Reverse</b>|Nardubah|نردوبه|برداولت|Berdaulat
 ||bin Ali|بن علي|بن علي|bin Ali
@@ -77,7 +76,6 @@ transliteration instead of “Sikandar”.</i></div>
 ||Sri Sultan|سري سلطان|سري سلطان|Sri Sultan
 |<b>Obverse</b>|Sha Alam|شاه عالم|ڤرکاس عالم|Perkasa Alam
 ||Mirsab|مرسب
-||
 ||Tuhan|توهن|جوهن|Johan
 |<b>Reverse</b>|Nardubah|نردوبه|برداولت|Berdaulat
 ||bin Ali|بن علي|بن علي|bin Ali
