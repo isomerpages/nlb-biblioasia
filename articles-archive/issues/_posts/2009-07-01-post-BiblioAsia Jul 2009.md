@@ -27,7 +27,7 @@ Lee Kong Chian Research Fellow *Khoo Sim Lyn* sets out to discover children’s 
 Book Review – Singapore English Literature
 <br>*Cheng U Wen Lena* reviews *Singapore Literature in English: An Annotated Bibliography*, a publication compiled and edited by Koh Tai Ann.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EnglishLiterature.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/consal-dynamic-library-information-services">Early Travels and Voyages in Southeast Asia: Showcase Exhibition</a><br>Associate Librarian *Ong Eng Chuan* tells us what to expect at the exhibition *Early Travels and Voyages in Southeast Asia*, which features treasures from the National Library’s Rare Materials Collection.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_TravelsVoyages.pdf)
+Early Travels and Voyages in Southeast Asia: Showcase Exhibition<br>Associate Librarian *Ong Eng Chuan* tells us what to expect at the exhibition *Early Travels and Voyages in Southeast Asia*, which features treasures from the National Library’s Rare Materials Collection.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_TravelsVoyages.pdf)
 
 **Heritage Road Show IV Commemorates 50 Years of Singapore’s Self-governance** <br>
 *Nurulhuda binte Subahan* shares what we can expect from this year’s Heritage Road Show, based on the recollections and memories of the ordinary Singaporean. [(PDF)](/files/pdf/vol-5/issue-2/V5-issue2_HeritageRoad.pdf)
