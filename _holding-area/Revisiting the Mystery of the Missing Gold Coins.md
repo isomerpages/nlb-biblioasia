@@ -8,7 +8,7 @@ description: Two ancient gold coins, probably from Aceh, were discovered in
 #### Two ancient gold coins, probably from Aceh, were discovered in Singapore in the middle of the 19th century. Unfortunately, they disappeared a few decades later.
 By Foo Shu Tieng
 
-![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/goldcoinsheader.jpg)
+![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/goldcoinsheader2.jpg)
 <div style="background-color: white;">Gold coins in the collection of the National Museum of Singapore. Clockwise from left: From 17th-century Johor (accession no. N-3717); from 18th- to 19th-century Terengganu (accession no. N-3716); and from 15th-century Kelantan (accession no. N-3090). Similar to Aceh in North Sumatra, the coins from Johor and Terengganu have Jawi inscriptions that identify the ruler, while the coin from Kelantan has a deer motif. The coins are 11 mm in diameter. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Around 1840, some convict labourers made a startling discovery while building a road to New Harbour (present-day Keppel Harbour) – now Telok Blangah Road and Kampong Bahru Road. While clearing land belonging to Temenggong Daeng Ibrahim near the village of Telok Blangah, they uncovered two ancient gold coins with Jawi inscriptions on them.[^1]
