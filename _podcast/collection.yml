@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Episode 13/.keep
-      - BiblioAsia.md
       - Episode 1/.keep
       - Episode 1/My Grandfather Was a Rōmusha.md
       - Episode 1/Transcript.md
