@@ -141,6 +141,11 @@ While Chinese bronze alloy coins were used as small denomination currency in the
 
 Unfortunately, many vital questions still remain regarding the gold coins of Telok Blangah. Were they indeed Acehnese coins? How did they disappear and where are they now? These coins could be in a dusty drawer or forgotten safety deposit box somewhere in Singapore, waiting to be rediscovered. Or they may have already left our shores like the Chinese coins from the discoveries by Ralfe and Crawfurd. We do not know the answers to these questions, but with further research, maybe someday, we will be able to find out more.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Authors/fooshutieng2.png" style="width: 100px; height: 100px;">
+	<b>Foo Shu Tieng</b> is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services.</div>
+
 #### **Notes**
 
 [^1]: Marianne Teo, “Numismatics,” in [_Treasures from the National Museum Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413295) (Singapore: National Museum Singapore, 1987), 82. (From National Library, Singapore, call no. RSING 708.95957 TRE); Gracie Lee, “[Collecting the Scattered Remains: The Raffles Library and Museum](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/raffleslibrary-museum),” _BiblioAsia_ 12, no. 3 (April–June 2016): 39–45; J.C. Smith, “The Fifth Report of the Singapore Library,” in [_Reports of Singapore Library, 1844–60_](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (Singapore: G.M. Frederick, 1849), 10–12; reproduced in R. Hanitsch, “Raffles Library and Museum, Singapore,” [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)_,_ vol. 1, ed. Walter Makepeace, Gilbert E. Brooke, Roland St. J. Braddell (Singapore: Oxford University Press, 1991), 531–33. (From National Library, Singapore, call no. RSING 959.57 ONE)
