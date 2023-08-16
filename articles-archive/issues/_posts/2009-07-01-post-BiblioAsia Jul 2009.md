@@ -7,16 +7,16 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba5-2.jpg)
 
-**Director’s Column**
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/director-column/">Director's Column</a>
 
-**An Overview of Singapore’s Education System from 1819 to the 1970s** <br>
-Through government reports and reviews held at the Lee Kong Chian Reference Library, Librarian *Wee Tong Bao* traces the evolution of Singapore’s education system. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EducationSystem.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/singapore-education-system-overview/">An Overview of Singapore’s Education System from 1819 to the 1970s</a><br>Through government reports and reviews held at the Lee Kong Chian Reference Library, Librarian *Wee Tong Bao* traces the evolution of Singapore’s education system. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EducationSystem.pdf)
 
-**In Search of the Child: Children’s Books Depicting World War II in Singapore** <br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/child-children-book-world-war/">In Search of the Child: Children’s Books Depicting World War II in Singapore</a><br>
 Lee Kong Chian Research Fellow *Khoo Sim Lyn* sets out to discover children’s books written in English, which depict World War II in Singapore. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_ChildrenBooks.pdf)
 
-**Journey to the West: Dusty Roads, Stormy Seas and Transcendence** <br>
-Lee Kong Chian Research Fellow *Prasani Weerawardane* traces the perilous journey from China to India over land and sea undertaken by Chinese Buddhist monks in search of the Buddhist Tripitaka.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_JourneyWest.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/journey-west-dusty-road-stormy-seas/">Journey to the West: Dusty Roads, Stormy Seas and Transcendence</a><br>Lee Kong Chian Research Fellow *Prasani Weerawardane* traces the perilous journey from China to India over land and sea undertaken by Chinese Buddhist monks in search of the Buddhist Tripitaka.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_JourneyWest.pdf)
+
+
 
 **Why Politicians Don't Stay? Making Sense of Critical Political Events in Post-war Asia** <br>
 Lee Kong Chian Research Fellow *Tay Thiam Chye* presents a framework to understanding complex Asian politics. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_CriticalPolitical.pdf)
