@@ -63,6 +63,8 @@ As exciting as they are, the two Acehnese gold coins are not the oldest coins to
 
 Indeed, Chinese coins were among the first ancient coins to be uncovered. In 1819, Acting Engineer Henry Ralfe stumbled upon a cache of ancient Chinese coins while clearing an elevated spot of a wall surrounding the ancient city of Singapura, thought to be along present-day Stamford Road.[^28] Reverend Samuel Milton of the London Missionary Society in Singapore identified one of the coins to have come from the reign of Emperor Huizong (宋徽宗, r. 1101–25) of the Northern Song dynasty.[^29] The other coins had crumbled to dust, likely due to severe metal oxidation and corrosion. Coinage dating to Emperor Huizong’s reign was notable for the increased production of higher denominated (the three-_qian_ and ten-_qian_ coins) and increasingly debased coins, a sign of worsening inflation during his reign.[^30]
 
+##### Chinese huizong coins
+
 Ralfe’s coin find was presented to the Asiatic Society in Calcutta on 10 March 1820. According to an 1822 publication, Ralfe subsequently donated the coins to the Museum of Asiatick Society in Calcutta. Unfortunately, the Huizong coin may have been stolen from the museum in 1844.[^31]
 
 In 1822, John Crawfurd, the second British Resident of Singapore, discovered three more ancient Chinese coins on Fort Canning Hill, all from the Song dynasty: one dating to the reign of Emperor Taizu (宋太祖, r. 960–76), another to Emperor Yinzong (宋英宗, r. 1063–67), and the final coin to Emperor Shenzong (宋神宗, r. 1067–85).[^32] These coins were deposited in the Royal Asiatic Society.[^33]
