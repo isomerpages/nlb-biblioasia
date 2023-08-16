@@ -107,6 +107,9 @@ Malay girls’ schools were only founded in 1884, as there were difficulties to 
 
 It is likely that the shortage of Malay school books resulted in the Government’s purchase of two Malay vernacular newspapers, the *Jawi Peranakan* (1876) and *Sekolah Melayu* (1895) to be used as reading materials in the Government Malay schools (Jacobson, 1889, p. 216).
 
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%208.JPG" style="width:100%;">
+ <div style="background-color: white;">Table 8: 19th Century Malay Vernacular Newspapers Used in Malay Vernacular Schools. <i>°Lim, 1992, 6 &amp; 10; ¹Roff, 1972, p. 21; ²Penny 1888, 196-199; ³Hill, 1891,102-105.</i></div>
+
 It was not until 1885 that Malay school book printing and publishing resumed with the setting up of the Government Malay Press. This was normally regarded as part of the Government Printing Office, and the books printed on this press bore the Government Press imprint (Proudfoot, 1993, p. 592). In 1888, the firm Kelly &amp; Walsh was appointed “to sell all books required in the schools (Penny, 1888, p. 189). By 1893, Kelly &amp; Walsh supplied books not only to the growing number of pupils and schools in the Straits Settlements, but also to those of the Malay States, Johore, Muar, Borneo and Sarawak (Hill, 1894, p. 322).
 
 In 1894, out of 24 Malay school books printed in Singapore, 19 or 73 per cent were produced by the Government Malay Press (as shown in Tables 9 and 10).
