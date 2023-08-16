@@ -56,29 +56,31 @@ However, it should be noted that there are also several other coins that are sim
 
 Studies do suggest that Sultan Iskandar Muda was the first ruler from Aceh Darussalam to bear the title of Johan Berdaulat, which is inscribed on coins minted during his reign. If Coin B was indeed Acehnese, his reign would present the upper time limit for when the coin would have been minted.[^20]
 
-##### Transliterations of Coin A
+<b>Transliterations of Coin A</b>
+
 |Coin A|Original Rumi transliteration by James Richardson Logan (published in the 1849 Library Report)|Transliteration of the Rumi text to Jawi|Possible alternative Jawi text (based on text on Acehnese coins)|Transliteration of alternative Jawi text into Rumi|
 |--------|--------|--------|--------|--------|
-||Sultan|سلطان|سري سلطان|Sri Sultan
-|<b>Obverse</b>|Sri Sikandar|سري سيکندر|اسکندر|Iskandar
-||Mahbud|محبود|مودا|Muda
-||Tuhan|توهن|جوهن|Johan
-|<b>Reverse</b>|Nardubah|نردوبه|برداولت|Berdaulat
-||bin Ali|بن علي|بن علي|bin Ali
+||Sultan|سلطان|سري سلطان|Sri Sultan|
+|<b>Obverse</b>|Sri Sikandar|سري سيکندر|اسکندر|Iskandar|
+||Mahbud|محبود|مودا|Muda|
+||Tuhan|توهن|جوهن|Johan|
+|<b>Reverse</b>|Nardubah|نردوبه|برداولت|Berdaulat|
+||bin Ali|بن علي|بن علي|bin Ali|
 
 <div style="background-color: white;"><i>Note: The transliterations of the original Rumi text back into Jawi and the alternative transliterations were provided by Toffa Abdul Wahed with inputs from the writer. These were reviewed by Mazelan Anuar. In the Acehnese context, “Iskandar” is the more likely 
 transliteration instead of “Sikandar”.</i></div>
 
 
-##### Transliterations of Coin B
+<b>Transliterations of Coin B</b>
+
 |Coin B|Original Rumi transliteration by James Richardson Logan (published in the 1849 Library Report)|Transliteration of the Rumi text to Jawi|Possible alternative Jawi text (based on text on Acehnese coins)|Transliteration of alternative Jawi text into Rumi|
 |--------|--------|--------|--------|--------|
-||Sri Sultan|سري سلطان|سري سلطان|Sri Sultan
-|<b>Obverse</b>|Sha Alam|شاه عالم|ڤرکاس عالم|Perkasa Alam
-||Mirsab|مرسب
-||Tuhan|توهن|جوهن|Johan
-|<b>Reverse</b>|Nardubah|نردوبه|برداولت|Berdaulat
-||bin Ali|بن علي|بن علي|bin Ali
+||Sri Sultan|سري سلطان|سري سلطان|Sri Sultan|
+|<b>Obverse</b>|Sha Alam|شاه عالم|ڤرکاس عالم|Perkasa Alam|
+||Mirsab|مرسب|
+||Tuhan|توهن|جوهن|Johan|
+|<b>Reverse</b>|Nardubah|نردوبه|برداولت|Berdaulat|
+||bin Ali|بن علي|بن علي|bin Ali|
 
 <div style="background-color: white;"><i>Note: Transliterations of the original Rumi text back into Jawi were provided by Toffa Abdul Wahed. Alternative transliterations were proposed by the writer with the assistance of Toffa and Mazelan Anuar.</i></div>
 
