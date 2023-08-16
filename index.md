@@ -689,4 +689,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Coach Choo Seng Quee, A Giant of Singapore Football
+      subtitle: Sports
+      description: Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in
+        1977. Four decades after his death, we remember his many contributions
+        to the sport.
+      button: Uncle Choo, the Legend
+      url: /vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/
+      image: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/a7spread.jpg
+      alt: Image alt text
 ---
