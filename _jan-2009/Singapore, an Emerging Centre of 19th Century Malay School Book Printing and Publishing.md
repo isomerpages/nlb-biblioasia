@@ -83,6 +83,8 @@ In 1856, the Temmenggong of Johore and the East India Company (EIC) each contrib
 
 Keasberry’s death brought an end to any extensive work in the Malay language on the peninsula for 20 years (Hunt, 1989, p. 41). In addition, the translation and production of Malay school books was interrupted, since his printing presses were sold to John Fraser and D. C. Neave in 1879 (Makepeace, 1908, p. 265). Fraser and Neave went on to publish directories, guides and company reports in English (Md Sidin Ahmad Ishak, 1992, p. 81).
 
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%204.JPG" style="width:100%;">
+ <div style="background-color: white;">Table 4: Total Enrolment and Average Attendance at Sekolah Abdullah (Abdullah’s School) From 1861 to 1866. <i>Jarman, 1998, p. 218, p. 366, p. 370, p. 522, p. 640 &amp; p. 744.</i></div>
 
 #### **Fourth Phase: The Straits Settlements Under the Colonial Office and Expansion of Malay Government Schools: The Education Department’s Government Malay Press, 1885–1899**
 
