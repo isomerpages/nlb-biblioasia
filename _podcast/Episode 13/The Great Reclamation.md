@@ -28,7 +28,7 @@ Neo Kim Seng, [*My Grandfather's Road*](https://eservice.nlb.gov.sg/item_holding
 
 Kevin YL Tan and Lam Peng Er, ed., [*Lee's Lieutenants: Singapore's Old Guard*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202983783), rev. ed. (Singapore: Straits Times Press Pte Ltd, 2018).
 
-Jeremy Tiang, [*State of Emergency*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202785218) (Singapore: Epigram Books, 2017)
+Jeremy Tiang, [*State of Emergency*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202785218) (Singapore: Epigram Books, 2017).
 
 
 #### **Credits** ####
