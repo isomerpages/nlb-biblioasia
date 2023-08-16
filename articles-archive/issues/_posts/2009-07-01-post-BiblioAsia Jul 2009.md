@@ -24,8 +24,8 @@ Lee Kong Chian Research Fellow *Khoo Sim Lyn* sets out to discover children’s 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/singapore-deng-xiaoping-experience">邓小平与新加坡经验</a><br>Senior Library *Vicky Gao* highlights books and resources available at the Lee Kong Chian Reference Library’s Chinese Collection on Chinese leader Deng Xiao Ping and his 1978 visit to Singapore.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_Chinese.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/consal-dynamic-library-information-services">邓小平与新加坡经验</a><br>Book Review – Singapore English Literature
-consal-dynamic-library-information-services<br>*Cheng U Wen Lena* reviews *Singapore Literature in English: An Annotated Bibliography*, a publication compiled and edited by Koh Tai Ann.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EnglishLiterature.pdf)
+Book Review – Singapore English Literature
+<br>*Cheng U Wen Lena* reviews *Singapore Literature in English: An Annotated Bibliography*, a publication compiled and edited by Koh Tai Ann.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EnglishLiterature.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/consal-dynamic-library-information-services">Early Travels and Voyages in Southeast Asia: Showcase Exhibition</a><br>Associate Librarian *Ong Eng Chuan* tells us what to expect at the exhibition *Early Travels and Voyages in Southeast Asia*, which features treasures from the National Library’s Rare Materials Collection.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_TravelsVoyages.pdf)
 
