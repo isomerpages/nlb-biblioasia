@@ -65,13 +65,13 @@ transliteration instead of “Sikandar”.</i></div>
 ##### Transliterations of Coin B
 |Coin A|Original Rumi transliteration by James Richardson Logan (published in the 1849 Library Report)|Transliteration of the Rumi text to Jawi|Possible alternative Jawi text (based on text on Acehnese coins)|Transliteration of alternative Jawi text into Rumi|
 |--------|--------|--------|--------|--------|
-||Sri Sultan|asd|asd|Sri Sultan
-|<b>Obverse</b>|Sha Alam|asd|asd|Perkasa Alam
-||Mirsab
+||Sri Sultan|سري سلطان|سري سلطان|Sri Sultan
+|<b>Obverse</b>|Sha Alam|شاه عالم|ڤرکاس عالم|Perkasa Alam
+||Mirsab|مرسب
 <br><br>
-||Tuhan|asd|asd|Johan
-|<b>Reverse</b>|Nardubah|asd|asd|Berdaulat
-||bin Ali|asd|asd|bin Ali
+||Tuhan|توهن|جوهن|Johan
+|<b>Reverse</b>|Nardubah|نردوبه|برداولت|Berdaulat
+||bin Ali|بن علي|بن علي|bin Ali
 
 <div style="background-color: white;"><i>Note: Transliterations of the original Rumi text back into Jawi were provided by Toffa Abdul Wahed. Alternative transliterations were proposed by the writer with the assistance of Toffa and Mazelan Anuar.</i></div>
 
