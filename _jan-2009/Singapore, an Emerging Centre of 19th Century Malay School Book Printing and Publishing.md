@@ -88,6 +88,9 @@ Keasberry’s death brought an end to any extensive work in the Malay language o
 
 #### **Fourth Phase: The Straits Settlements Under the Colonial Office and Expansion of Malay Government Schools: The Education Department’s Government Malay Press, 1885–1899**
 
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%205.jpg" style="width:100%;">
+ <div style="background-color: white;">Table 5: Total Enrolment and Average Attendance AT Telok Blangah Malay School From 1861 to 1866. <i>Jarman, 1998, p. 218, p. 366, p. 370, p. 522, p. 640 &amp; p. 744.</i></div>
+
 In 1867, the Straits Settlements were transferred from the control of the Indian Government to that of the Secretary of State for the Colonies in London. In 1870, the First Governor, Sir Harry Ord, appointed a Select Committee “to enquire into the State of Education in the Colony.” Upon the recommendations of the Committee, the first Inspector of Schools was appointed in 1872 to greatly extend and improve Malay vernacular schools (Wong &amp; Gwee, 1980, p. 11).
 
 In 1891, 16 per cent of Malay boys aged 15 and below in the Straits Settlements were enrolled in Malay vernacular boys’ schools. By 1901, 22 per cent of Malay boys in the same age group went to Malay vernacular boys’ schools in the Straits Settlements (as shown in Table 6).
