@@ -47,6 +47,9 @@ During Sultan Iskandar Muda’s reign, Aceh’s empire was at its peak – exten
 As for the second coin (Coin B), according to Mazelan, a plausible alternative transliteration for the text on the obverse side is “Sri Sultan Perkasa Alam” (سري سلطان ڤرکاس عالم), which means “Auspicious Sultan Courage of the World”. The Singapore Library report had the text as “Sri Sultan Sha Alam Mirsab”. The inscription on the reverse side also bears an inscription that could again be “Johan Berdaulat bin Ali” instead of “Tuhan Nardubah bin Ali”. One of the names that Sultan Iskandar Muda used during the earlier years of his reign was Sri Sultan Perkasa Alam.[^17] This alternative transliteration suggests that the second coin was also minted during Iskandar Muda’s reign.
 
 ![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/coinacoinb.jpg)
+<div style="background-color: white;">
+Seventeenth-century Acehnese coins bearing the words “Sri Perkasa Alam” and “Sri Sultan Iskandar Muda”. <i>Image reproduced from J. Hulshoff Pol, “De gouden munten (mas) van Noord-Sumatra,” Jaarboek van het Koninklijk Nederlandsch Genootschap voor Munt-en Penningkunde XVI (1929), 18.</i>
+</div>
 
 However, it should be noted that there are also several other coins that are similar to Coin B, inscribed with “Alam” on the obverse and variations of “Johan Berdaulat” on the reverse.[^18] Further research is required before we can ascertain the identity of the sultan whose name has been inscribed on Coin B. In order to narrow down the time period of Coin B, researchers may be required to study the primary sources of the lineage of Acehnese rulers which are often complex and contested, while keeping in mind the gaps between the written word and material evidence for early Islamic kingdoms in the region.[^19]
 
@@ -97,6 +100,9 @@ As exciting as they are, the two Acehnese gold coins are not the oldest coins to
 Indeed, Chinese coins were among the first ancient coins to be uncovered. In 1819, Acting Engineer Henry Ralfe stumbled upon a cache of ancient Chinese coins while clearing an elevated spot of a wall surrounding the ancient city of Singapura, thought to be along present-day Stamford Road.[^28] Reverend Samuel Milton of the London Missionary Society in Singapore identified one of the coins to have come from the reign of Emperor Huizong (宋徽宗, r. 1101–25) of the Northern Song dynasty.[^29] The other coins had crumbled to dust, likely due to severe metal oxidation and corrosion. Coinage dating to Emperor Huizong’s reign was notable for the increased production of higher denominated (the three-_qian_ and ten-_qian_ coins) and increasingly debased coins, a sign of worsening inflation during his reign.[^30]
 
 ![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/huizong-coins.jpg)
+<div style="background-color: white;">
+One-, two- and 10-qian coins dating to the reign of Emperor Huizong of the Northern Song dynasty (Daguan period, 1107–10). <i>Images reproduced from Patricia Buckley Ebrey, Emperor Huizong (Cambridge, Massachussetts: Harvard University Press, 2014), 334. (From National Library, Singapore, call no. R 951.024092 EBR).</i>
+</div>
 
 Ralfe’s coin find was presented to the Asiatic Society in Calcutta on 10 March 1820. According to an 1822 publication, Ralfe subsequently donated the coins to the Museum of Asiatick Society in Calcutta. Unfortunately, the Huizong coin may have been stolen from the museum in 1844.[^31]
 
