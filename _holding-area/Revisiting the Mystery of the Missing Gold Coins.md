@@ -14,8 +14,12 @@ By Foo Shu Tieng
 Around 1840, some convict labourers made a startling discovery while building a road to New Harbour (present-day Keppel Harbour) – now Telok Blangah Road and Kampong Bahru Road. While clearing land belonging to Temenggong Daeng Ibrahim near the village of Telok Blangah, they uncovered two ancient gold coins with Jawi inscriptions on them.[^1]
 
 ![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/mapnewharbour.jpg)
+<div style="background-color: white;">Map of New Harbour (1840–43) prepared at the request of W.H. Read, Office of the Surveyor General, Federated Malay States and Straits Settlements, 23 July 1886. The map shows the “Tumangong’s Ground”, which was allotted to Temenggong Daeng Ibrahim of Johor in 1823. <i>Singapore Land Authority Collection, courtesy of National Archives of Singapore.</i></div>
 
 ![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/diengibrahim.jpg)
+<div style="background-color: white;">
+Temenggong Daeng Ibrahim of Johor donated the two gold Acehnese coins found on his land to the Singapore Library in 1849. <i>Image retrieved from Wikimedia Commons.</i>
+</div>
 
 In 1849, these two coins were presented to the Singapore Library – predecessor of the current National Library and National Museum of Singapore – by Straits Settlements Governor William J. Butterworth on behalf of the Temenggong, who had purchased the coins from the convicts.[^2]
 
