@@ -197,17 +197,17 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 [^16]: Normal Siebel, “[Singapore’s Cup Again](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650801-1.2.41.21),” _Straits Times_, 1 August 1965, 20. (From NewspaperSG)
 
-[^17]: Joe Dorai, [“Tengku Gives SAFA OK on Choo,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640609-1.2.118.2) _Straits Times_, 9 June 1964, 16. (From NewspaperSG)
+[^17]: Joe Dorai, “[Tengku Gives SAFA OK on Choo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640609-1.2.118.2),” _Straits Times_, 9 June 1964, 16. (From NewspaperSG)
 
-[^18]: Ken Fernandez, [“Choo May Lose Coaching Job,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650130-1.2.151.1) _Straits Times_, 30 January 1965, 23. (From NewspaperSG)
+[^18]: Ken Fernandez, “[Choo May Lose Coaching Job](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650130-1.2.151.1),” _Straits Times_, 30 January 1965, 23. (From NewspaperSG)
 
-[^19]: [“Out…,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810108-1.2.108.3) _Straits Times_, 8 January 1981, 31. (From NewspaperSG)
+[^19]: “[Out…](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810108-1.2.108.3),” _Straits Times_, 8 January 1981, 31. (From NewspaperSG)
 
-[^20]: [“Schoolboy Star,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520303-1.2.149?qt=choo,%20seng,%20quee,%20charlie,%20chan&amp;q=choo%20seng%20quee%20charlie%20chan) _Straits Times_, 3 March 1952, 12; Herman Rappa, [“Our 1955 Soccer Stars Have Started Training,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19500707-1.2.140) _Singapore Standard_, 7 July 1950, 11. (From Newspaper SG)
+[^20]: “[Schoolboy Star](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520303-1.2.149?qt=choo,%20seng,%20quee,%20charlie,%20chan&amp;q=choo%20seng%20quee%20charlie%20chan),” _Straits Times_, 3 March 1952, 12; Herman Rappa, “[Our 1955 Soccer Stars Have Started Training](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19500707-1.2.140),” _Singapore Standard_, 7 July 1950, 11. (From Newspaper SG)
 
-[^21]: [“Soccerites May Be Champions Today,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540817-1.2.169) _Straits Times_, 17 August 1954, 14. (From Newspaper SG)
+[^21]: “[Soccerites May Be Champions Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540817-1.2.169),” _Straits Times_, 17 August 1954, 14. (From Newspaper SG)
 
-[^22]: [“Only 15, But They Are Good Enough for Div. 1,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19570227-1.2.62) _Singapore Free Press_, 27 February 1957, 14. (From Newspaper SG)
+[^22]: “[Only 15, But They Are Good Enough for Div. 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19570227-1.2.62),” _Singapore Free Press_, 27 February 1957, 14. (From Newspaper SG)
 
 [^23]: R. Suriamurthi, interview, 30 November 2021.
 
