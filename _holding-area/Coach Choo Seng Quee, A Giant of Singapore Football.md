@@ -32,7 +32,7 @@ With the win, Choo, in his trademark batik shirt, earned his place in the annals
 
 As with many coaches, Choo was a footballer first. Born in Singapore on 1 December 1914, Choo played for Raffles Institution, before progressing to the Singapore Chinese Football Association (SCFA).[^3]
 
-After obtaining his Senior Cambridge qualifications, Choo joined the SCFA in 1933 where he rose through the ranks to eventually make his first-team debut at the First Division two years later.[^4] He later earned a spot in the Singapore team for the Malaya Cup (renamed Malaysia Cup in 1967) in 1936.[^5] He was part of the backbone of the squad that managed to reach the Cup final in 1936, 1937 and 1938 and he was part of the team that defeated Selangor in 1937.[^6]
+After obtaining his Senior Cambridge qualifications, Choo joined the SCFA in 1933 where he rose through the ranks to eventually make his first-team debut at the First Division two years later.[^4] He later earned a spot in the Singapore team for the Malaya Cup (renamed Malaysia Cup in 1967) in 1936.[^5] He was part of the backbone of the squad that managed to reach the Cup final in 1936, 1937 and 1938, and he was part of the team that defeated Selangor in 1937.[^6]
 
 ![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/sgteam.jpg)
 <div style="background-color: white;">The Singapore Chinese Football Association team at Anson Road Stadium, 1939. Choo Seng Quee is standing fourth from the left. <i>Courtesy of Singapore Sports Council.</i></div>
