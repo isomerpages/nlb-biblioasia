@@ -1,13 +1,13 @@
 ---
 title: An Overview of Singapore’s Education System from 1819 to the 1970s
 permalink: /vol-5/issue2/jul-2009/singapore-education-system-overview/
-description: "Through government reports and reviews held at the Lee Kong Chian
+description: Through government reports and reviews held at the Lee Kong Chian
   Reference Library, Librarian Wee Tong Bao traces the evolution of Singapore’s
-  education system. "
+  education system.
 ---
-#### Through government reports and reviews held at the Lee Kong Chian Reference Library, Librarian _Wee Tong Bao_ traces the evolution of Singapore’s education system.
+#### Through government reports and reviews held at the Lee Kong Chian Reference Library, Librarian&nbsp;_Wee Tong Bao_&nbsp;traces the evolution of Singapore’s education system.
 
-<img style="width:50%;" src="/images/Vol%205%20Issue%202/Official%20Reports.jpg">
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/SingaporeEducation/Official%20Reports.jpg">
  <div style="background-color: white;"><i>Official Reports on Education in the Straits Settlements and the Federated Malay States, 1870–1939. All rights reserved, Pan Pacific Book Distributors, 1980.</i></div>
 
 Among the little known national treasures on the shelves of the Lee Kong Chian Reference Library is a large collection of government reports and reviews on various subjects. One subject on which the Library has a wealth of documents and tracts is the history of Singapore’s education system. When the policies and inquiries that had been published from the founding of modern Singapore till 1978 are examined chronologically, one can see the evolution of Singapore’s education system from a laissez-faire arrangement to a nationally centralised system by the late 1970s.
@@ -18,13 +18,13 @@ In the beginning, British administrators were concerned only with providing prim
 
 The founder of Singapore, Sir Thomas Stamford Raffles, had professed that:
 
-&emsp;&emsp;&emsp;“*…our stations not only become the centres of commerce* <br>&emsp;&emsp;&emsp;*and its luxuries, but of refinement and the liberal arts. If* <br>&emsp;&emsp;&emsp;*commerce brings wealth to our shores, it is the spirit of* <br>&emsp;&emsp;&emsp;*literature and philanthropy that teaches us how to employ* <br>&emsp;&emsp;&emsp;&emsp;&emsp;*it for the noblest purposes*.”[^1]
+   “*…our stations not only become the centres of commerce* <br>   *and its luxuries, but of refinement and the liberal arts. If* <br>   *commerce brings wealth to our shores, it is the spirit of* <br>   *literature and philanthropy that teaches us how to employ* <br>     *it for the noblest purposes*.”[^1]
 
 The British presence on the island was represented by the East India Company, which was mainly concerned with trade. This being so, the British administrators initially focused on commerce, leaving most of the other social concerns such as education to the different communities on the island. In 1858, the colony, along with two other settlements (Penang and Malacca) in the Malacca Strait, was put under the control of the Governor-General of India. The administrators maintained their laissez-faire approach to education in the Straits Settlements. Things begin to change with the transfer of oversight from the India Office to the Colonial Office in London in 1867. The new British administration became actively interested in the affairs of the Straits Settlements and forced various committees to look into various sectors. In 1870, the Woolley Committee compiled a report on the state of education in the colony.[^2] In 1872, the position of inspector of schools was created to take charge of educational matters in the Strait Settlements. The first person to fill this position was A. M. Skinner.[^3]
 
 After the publication of the Woolley Report in 1870, another committee chaired by E. E Isemonger was formed to look into the state of vernacular education in the colony.[^4] The impetus for this inquiry was the depressed trade conditions in the 1890s as a result of which the administration wanted to find out how best to expend the decreased revenue. The Isemonger Report was completed in 1894. Subsequent committees tasked to review and make recommendations concerning the disbursement of grants produced the “Report of the Committee appointed by His Excellency the Governor and High Commissioner to consider the working of the system of Education Grants-in-Aid introduced in 1920 in the Straits Settlements and the Federated Malay States“ by E.C.H. Wolff in 1922 and the “Report of the Committee to Consider the System of Grants-in-Aid to Schools in the Straits Settlements and the Federated Malay States” by F. J. Morten in 1932.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%202/Raffles%20Institution.jpg">
+<img style="width:80%;" src="/images/Vol%205%20Issue%202/SingaporeEducation/Educational%20Policy.jpg">
  <div style="background-color: white;"><i>Educational policy in the Colony of Singapore (data and interim proposals), 1949 - Student catchment of Raffles Institution. All rights reserved, Singapore Ministry of Education, 1949.</i></div>
 
 At the beginning of the 20th century, the British administrators wanted to find out more about the education that was being provided, especially post-primary and technical education. This was almost one century after they founded the Singapore Institution (later renamed Raffles Institution) in 1823 to educate the children on the island. The government had provided only primary education up to then, and the British rulers felt that it was time to consider postprimary education in the form of secondary or technical education. In 1919, a committee led by F. H. Firmstone was formed to propose the groundwork necessary for the “advancement of education preparatory to a University in Singapore”.[^5] The “Report of the Commission appointed by the Secretary of State for the Colonies on Higher Education in Malaya” (McLean Report) followed in 1939. The main objective of this report was to assess the Malay education that had been provided and to propose how higher education could be introduced. Another objective of the McLean committee was to look into the conferment of degrees to graduates of Raffles College and King Edward VII College of Medicine as there was increasing dissatisfaction that the certification was not recognised by many organisations as full degrees.
@@ -39,7 +39,7 @@ It must be noted at this juncture that much of the curricular “reform” or �
 
 Education policies before World War II were not formulated solely with the economic situation in mind. The government was also influenced by political forces. For example, the 1920 Schools Registration Ordinance not only marked a big step forward in British direct involvement with the education of all children in Singapore, it also heralded the end of the British non-interference approach towards Chinese vernacular schools. With this ordinance, the local government sought to “gain control over all schools in the Colony”. The government officially declared the following:
 
-&emsp;&emsp;&emsp;“*Firstly, that the schools shall be properly conducted as*<br>&emsp;&emsp;&emsp;*schools; secondly, that the teachers in them have efficient*<br>&emsp;&emsp;&emsp;*training for teaching, and thirdly, that the teaching shall*<br>&emsp;&emsp;&emsp;*not be of such a kind that is against the interest of the*<br>&emsp;&emsp;&emsp;&emsp;&emsp;*Government of the Colony*.”[^8]
+   “*Firstly, that the schools shall be properly conducted as*<br>   *schools; secondly, that the teachers in them have efficient*<br>   *training for teaching, and thirdly, that the teaching shall*<br>   *not be of such a kind that is against the interest of the*<br>     *Government of the Colony*.”[^8]
 
 Although the ordinance applied to the island’s mission, government and other schools, it was introduced also as a result of the socio-political conditions prevailing in 1919 and 1920. Many local Chinese were caught up with the political upheaval in China, exacerbated by the unfair terms of the Versailles Peace Conference, which ceded Shandong to Japan. A number of students and teachers in Malaya organised demonstrations and boycotted Japanese goods in protest. In Singapore, mass demonstrations and open violence broke out on 19 June 1919. Demonstrators attacked Japanese shops and destroyed Japanese goods. In response, the British authorities declared martial law.[^9] These disturbances disrupted the economic progress of Singapore and the rest of British Malaya, and Chinese students and teachers were identified as the key agitators in these incidents.
 
@@ -76,7 +76,7 @@ The most significant review in the 1970s was the 1978 Goh Keng Swee Report on th
 
 This report had a farreaching impact on the development of education in the years to come. In 1979, primary three school pupils were streamed into Express, Normal or Monolingual classes. With the preference for English stream schools, all the four language-stream schools were merged into English-stream schools, where lessons on all subjects were conducted in English except for the mother tongue (Chinese, Malay or Tamil), which students studied as a second language. This merger was reflected in the 1984 “Directory of Schools and Institutions”, in which schools were no longer classified by language stream. As shown in the Preface of the Directory:
 
-&emsp;&emsp;&emsp;“*From 1984 onwards, the schools listed in this Directory* <br>&emsp;&emsp;&emsp;*are no longer classified by language medium because of* <br>&emsp;&emsp;&emsp;*the standardisation of language medium in school, at the* <br>&emsp;&emsp;&emsp;&emsp;&emsp;*primary and secondary levels*.”[^27]
+   “*From 1984 onwards, the schools listed in this Directory* <br>   *are no longer classified by language medium because of* <br>   *the standardisation of language medium in school, at the* <br>     *primary and secondary levels*.”[^27]
 
 The Ministry of Education also ensured that pupils who had the capability to study another language as a first language could continue to learn their mother tongue as a first language too. This was implemented under the Special Assistance Plan (SAP) in nine schools in 1979.
 
@@ -100,8 +100,8 @@ If readers wish to explore the subject further, I recommended David Chelliah’s
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Wee%20Tong%20Bao.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Wee%20Tong%20Bao.jpg" style="width: 100px; height: 100px;">
 <center> <b>Wee Tong Bao</b><br>Librarian<br> Lee Kong Chian Reference Library<br> National Library</center> </div>
 
 #### **REFERENCES**
@@ -146,7 +146,7 @@ Member for Education, Malaya, [_Annual Report … on the Education Ordinance, 19
 
 Ministry of Education, Singapore, [_Annual Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049326) (Singapore: Printed at the Govt. Print. Off., 1946–1967). (Call no. RCLOS 370.95951 SIN; microfilm NL9335)
 
-Ministry of Education, Singapore, [_Directory of Schools and Institutions_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079608) (Singapore: Education Statistics Section, Computer Services Branch, Planning & Review Division, 1982–1984). (Call no. RSING 371.00255957 DSI)
+Ministry of Education, Singapore, [_Directory of Schools and Institutions_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079608) (Singapore: Education Statistics Section, Computer Services Branch, Planning &amp; Review Division, 1982–1984). (Call no. RSING 371.00255957 DSI)
 
 Ministry of Education, Singapore, [_Educational Policy in the Colony of Singapore: Ten Years Programme_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981202) (Singapore: Ministry of Education, 1947–1949). (Call no. RCLOS 370.95951 SIN; microfilm NL4083)
 
@@ -156,7 +156,7 @@ Ministry of Education, Singapore, [_Singapore, Educational Policy in the Colony 
 
 Ministry of Education, Singapore, [_Singapore Government Press Statement_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5283457) (Singapore: Ministry of Education, 1966–1976). (Call no. RCLOS 370.95957 SIN)
 
-Mission Invited by the Federation Government to Study the Problem of the Education of Chinese in Malaya, Malaya, [_Chinese Schools and the Education of Chinese Malayans: The Report of a Mission Invited by the Federation Government To Study the Problem of the Education of Chinese in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4315917) (Kuala Lumpur: Govt. Press, 1951).  (Call no. RCLOS 371.979510595 MAL)
+Mission Invited by the Federation Government to Study the Problem of the Education of Chinese in Malaya, Malaya, [_Chinese Schools and the Education of Chinese Malayans: The Report of a Mission Invited by the Federation Government To Study the Problem of the Education of Chinese in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4315917) (Kuala Lumpur: Govt. Press, 1951). &nbsp;(Call no. RCLOS 371.979510595 MAL)
 
 Public Relations Office, [_Singapore, Education Week, May 8th–13th, 1950: The Steps to Success_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982371) (Singapore: Published by Public Relations Office for the Dept. of Education, 1950). (Call no. RDTYS 370.95951 SIN)
 
