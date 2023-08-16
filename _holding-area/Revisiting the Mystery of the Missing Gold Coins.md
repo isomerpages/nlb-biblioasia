@@ -13,6 +13,9 @@ By Foo Shu Tieng
 
 Around 1840, some convict labourers made a startling discovery while building a road to New Harbour (present-day Keppel Harbour) – now Telok Blangah Road and Kampong Bahru Road. While clearing land belonging to Temenggong Daeng Ibrahim near the village of Telok Blangah, they uncovered two ancient gold coins with Jawi inscriptions on them.[^1]
 
+##### Map
+##### Daeng ibrahim
+
 In 1849, these two coins were presented to the Singapore Library – predecessor of the current National Library and National Museum of Singapore – by Straits Settlements Governor William J. Butterworth on behalf of the Temenggong, who had purchased the coins from the convicts.[^2]
 
 In the Singapore Library report of 1849, the lawyer and scholar James Richardson Logan (who founded the _Journal of the Indian Archipelago and Eastern Asia_ in 1847[^3]) believed that the two coins were probably from Aceh Darussalam on the island of Sumatra.[^4] The kingdoms of Aceh and Johor had long vied for economic and political hegemony in the Malay world, with Aceh invading Johor at least six times between 1564 and 1623.[^5]
@@ -37,6 +40,8 @@ Singapore Library report, it was “Tuhan Nardubah bin Ali”).  If our alternat
 During Sultan Iskandar Muda’s reign, Aceh’s empire was at its peak – extending as far as Padang along the west coast and Siak along the east coast of Sumatra, and stretching all the way to Kedah, Perak, Pahang and Johor on the Malay Peninsula.[^15] The coins could have ended up in Singapore at some point after Aceh invaded Johor in June 1613 and November 1615.[^16]
 
 As for the second coin (Coin B), according to Mazelan, a plausible alternative transliteration for the text on the obverse side is “Sri Sultan Perkasa Alam” (سري سلطان ڤرکاس عالم), which means “Auspicious Sultan Courage of the World”. The Singapore Library report had the text as “Sri Sultan Sha Alam Mirsab”. The inscription on the reverse side also bears an inscription that could again be “Johan Berdaulat bin Ali” instead of “Tuhan Nardubah bin Ali”. One of the names that Sultan Iskandar Muda used during the earlier years of his reign was Sri Sultan Perkasa Alam.[^17] This alternative transliteration suggests that the second coin was also minted during Iskandar Muda’s reign.
+
+##### Coin A and B
 
 However, it should be noted that there are also several other coins that are similar to Coin B, inscribed with “Alam” on the obverse and variations of “Johan Berdaulat” on the reverse.[^18] Further research is required before we can ascertain the identity of the sultan whose name has been inscribed on Coin B. In order to narrow down the time period of Coin B, researchers may be required to study the primary sources of the lineage of Acehnese rulers which are often complex and contested, while keeping in mind the gaps between the written word and material evidence for early Islamic kingdoms in the region.[^19]
 
