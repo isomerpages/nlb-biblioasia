@@ -261,6 +261,6 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 [^48]: [Uncle (‘I Hate Football’) Choo Calls It a Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810108-1.2.61.9),” _New Nation_, 8 January 1981, 17. (From NewspapeSG)
 
-[^49]: “[Choo Seng Quee Critically Ill](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830630-1.2.5.4.1?ST=1&amp;AT=search&amp;k=choo%20seng%20quee&amp;QT=choo,seng,quee&amp;oref=article)_,_” _Singapore Monitor_, 30 June 1983, 4; “[Obituary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.119.1.aspx),” _Straits Times_, 1 July 1983, 44. (From NewspaperSG)
+[^49]: “[Choo Seng Quee Critically Ill](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830630-1.2.5.4.1?ST=1&amp;AT=search&amp;k=choo%20seng%20quee&amp;QT=choo,seng,quee&amp;oref=article),” _Singapore Monitor_, 30 June 1983, 4; “[Obituary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.119.1.aspx),” _Straits Times_, 1 July 1983, 44. (From NewspaperSG)
 
 [^50]: Jeffrey Low, “[A Beautiful Dreamer](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.141.1),” _Straits Times_, 1 July 1983, 47. (From Newspaper SG)
