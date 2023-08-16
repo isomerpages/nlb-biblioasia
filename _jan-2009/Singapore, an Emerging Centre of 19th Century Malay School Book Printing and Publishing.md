@@ -95,9 +95,15 @@ In 1867, the Straits Settlements were transferred from the control of the Indian
 
 In 1891, 16 per cent of Malay boys aged 15 and below in the Straits Settlements were enrolled in Malay vernacular boys’ schools. By 1901, 22 per cent of Malay boys in the same age group went to Malay vernacular boys’ schools in the Straits Settlements (as shown in Table 6).
 
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%206.JPG" style="width:100%;">
+ <div style="background-color: white;">Table 6: Percentage of Malay Boys Aged 15 Years and Below in Malay Boys’ Schools in Singapore, Penang and Malacca in 1891 and 1901. <i>Hill, 1892, 284-287; Elcum, 1902, 218-222; Merewether, 1892, 43; Innes 1901, 19.</i></div>
+
 #### **The Establishment and Growth of Government Malay Vernacular Girls’ Schools, 1884–1900**
 
 Malay girls’ schools were only founded in 1884, as there were difficulties to overcome in the establishment of such schools (Hill, 1885, p. 150). In 1901, no more than 2 per cent of Malay girls were enrolled in Malay vernacular girls’ schools in the Straits Settlements (as shown in Table 7). The rapid expansion of Malay vernacular schools in the 19th century was mainly confined to boys’ schools.
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%207.JPG" style="width:100%;">
+ <div style="background-color: white;">Table 7: Percentage of Malay Girls Aged 15 Years and Below in Malay Girls’ Schools in Singapore, Penang and Malacca in 1891 and 1901.<i>: Hill 1892, 284-287; Elcum 1902, 218-222; Merewether 1892, 43; Innes 1901, 19.</i></div>
 
 It is likely that the shortage of Malay school books resulted in the Government’s purchase of two Malay vernacular newspapers, the *Jawi Peranakan* (1876) and *Sekolah Melayu* (1895) to be used as reading materials in the Government Malay schools (Jacobson, 1889, p. 216).
 
