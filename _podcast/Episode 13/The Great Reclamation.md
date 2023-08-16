@@ -26,7 +26,10 @@ Lily Kong & Brenda S.A. Yeoh, [*The Politics of Landscapes in Singapore: Constru
 
 Neo Kim Seng, [*My Grandfather's Road*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202400794) (Singapore: Cake Theatrical Productions Ltd, 2015)
 
+Kevin YL Tan and Lam Peng Er, ed., [*Lee's Lieutenants: Singapore's Old Guard*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202983783), rev. ed. (Singapore: Straits Times Press Pte Ltd, 2018).
+
 Jeremy Tiang, [*State of Emergency*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202785218) (Singapore: Epigram Books, 2017)
+
 
 #### **Credits** ####
 This episode of BiblioAsia+ was hosted by Soh Gek Han and produced by Jimmy Yap. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to Rachel for coming on the show.
