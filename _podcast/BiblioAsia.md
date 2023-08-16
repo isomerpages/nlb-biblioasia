@@ -93,6 +93,10 @@ The Orang Seletar used to live on boats that plied the Johor Strait. They were h
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%2012%20(orang%20seletar%20by%20ilya)v1.jpg" align="left"><br clear="all">
 Listen on: [Spotify](https://open.spotify.com/episode/1khpU2lC5XWR9mef2bbIBY), [Apple Podcasts](https://podcasts.apple.com/us/podcast/whats-become-of-the-seafaring-orang-seletar/id1688142751?i=1000624413738), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/YzZmNzNkZjQtMjU4My00NmY0LTkxNzctYjVmMDAwY2Q2Zjg3?sa=X&amp;ved=0CAUQkfYCahcKEwjY3uDfpN2AAxUAAAAAHQAAAAAQAQ)
 
+**22 August: The Great Reclamation**<br>
+*The Great Reclamation* is a work of historical fiction set in Singapore that has received rave reviews from the New Yorker and the New York Times. A love story, it also took five years of serious research into a variety of topics, including land reclamation, the Japanese occupation, and postwar politics in Singapore. Listen to author Rachel Heng talk about her book and her fascinating research process, including a BiblioAsia article on&nbsp;[land reclamation](https://nlb-ba-staging.netlify.app/vol-13/issue-1/apr-jun-2017/land-from-sand/)&nbsp;she referred to!<br>
+
+<img style="width: 35%" src="/images/Podcast/Photos_About/ep%2012%20(orang%20seletar%20by%20ilya)v1.jpg" align="left"><br clear="all">
 
 #### **Credits** ####
 BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to the guests for coming on the show.
