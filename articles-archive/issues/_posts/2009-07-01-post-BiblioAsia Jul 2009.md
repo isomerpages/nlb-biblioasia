@@ -18,20 +18,16 @@ Lee Kong Chian Research Fellow *Khoo Sim Lyn* sets out to discover children’s 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/asia-politician-critical-event-post-war">Why Politicians Don't Stay? Making Sense of Critical Political Events in Post-war Asia</a><br>Lee Kong Chian Research Fellow *Tay Thiam Chye* presents a framework to understanding complex Asian politics. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_CriticalPolitical.pdf)
 
-**Pantun: Sumber Rujukan Sosiobudaya Masyarakat Melayu** <br>
-Associate Librarian *Juffri bin Supa’at* shares how the pantun, the traditional Malay verse or quatrain, is not just a manifestation of an aesthetical art form but also encapsulates and reflects the philosophy and way of life of the Malays. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_PantunSumber.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/asia-politician-critical-event-post-war">Pantun: Sumber Rujukan Sosiobudaya Masyarakat Melayu</a><br>Associate Librarian *Juffri bin Supa’at* shares how the pantun, the traditional Malay verse or quatrain, is not just a manifestation of an aesthetical art form but also encapsulates and reflects the philosophy and way of life of the Malays. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_PantunSumber.pdf)
 
-**The Ya Yin Kwan Collection: Treasures of Early Southeast Asian History** <br>
-Senior Librarian *Ang Seow Leng* provides insight into Tan Yeok Seong and his donated Ya Yin Kwan Collection. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_YaYinKwan.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/ya-yin-kwan-treasure">The Ya Yin Kwan Collection: Treasures of Early Southeast Asian History</a><br>Senior Librarian *Ang Seow Leng* provides insight into Tan Yeok Seong and his donated Ya Yin Kwan Collection. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_YaYinKwan.pdf)
 
-**邓小平与新加坡经验** <br>
-Senior Library *Vicky Gao* highlights books and resources available at the Lee Kong Chian Reference Library’s Chinese Collection on Chinese leader Deng Xiao Ping and his 1978 visit to Singapore.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_Chinese.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/singapore-deng-xiaoping-experience">邓小平与新加坡经验</a><br>Senior Library *Vicky Gao* highlights books and resources available at the Lee Kong Chian Reference Library’s Chinese Collection on Chinese leader Deng Xiao Ping and his 1978 visit to Singapore.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_Chinese.pdf)
 
-**Book Review – Singapore English Literature** <br>
-*Cheng U Wen Lena* reviews *Singapore Literature in English: An Annotated Bibliography*, a publication compiled and edited by Koh Tai Ann.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EnglishLiterature.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/consal-dynamic-library-information-services">邓小平与新加坡经验</a><br>Book Review – Singapore English Literature
+consal-dynamic-library-information-services<br>*Cheng U Wen Lena* reviews *Singapore Literature in English: An Annotated Bibliography*, a publication compiled and edited by Koh Tai Ann.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_EnglishLiterature.pdf)
 
-**Early Travels and Voyages in Southeast Asia: Showcase Exhibition** <br>
-Associate Librarian *Ong Eng Chuan* tells us what to expect at the exhibition *Early Travels and Voyages in Southeast Asia*, which features treasures from the National Library’s Rare Materials Collection.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_TravelsVoyages.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/consal-dynamic-library-information-services">Early Travels and Voyages in Southeast Asia: Showcase Exhibition</a><br>Associate Librarian *Ong Eng Chuan* tells us what to expect at the exhibition *Early Travels and Voyages in Southeast Asia*, which features treasures from the National Library’s Rare Materials Collection.[(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_TravelsVoyages.pdf)
 
 **Heritage Road Show IV Commemorates 50 Years of Singapore’s Self-governance** <br>
 *Nurulhuda binte Subahan* shares what we can expect from this year’s Heritage Road Show, based on the recollections and memories of the ordinary Singaporean. [(PDF)](/files/pdf/vol-5/issue-2/V5-issue2_HeritageRoad.pdf)
@@ -39,5 +35,4 @@ Associate Librarian *Ong Eng Chuan* tells us what to expect at the exhibition *E
 **Legal Deposit Showcase Heightens Public Awareness** <br>
 Senior Librarian *Sharmini Chellapandi* shares about the showcase held to create more awareness of Legal Deposit. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_LegalDeposit.pdf)
 
-**14th General Conference of the Congress of Southeast Asian Librarians (CONSAL): Towards Dynamic Libraries and Information Services in Southeast Asian Countries** <br>
-Research Associates *Akshata Patkar* and *Sri Asrina Tanuri* give us a snapshot of what was shared at the 14th General Conference of the Congress of Southeast Asian Librarians. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_DynamicLibraries.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue2/jul-2009/consal-dynamic-library-information-services">14th General Conference of the Congress of Southeast Asian Librarians (CONSAL): Towards Dynamic Libraries and Information Services in Southeast Asian Countries</a><br>Research Associates *Akshata Patkar* and *Sri Asrina Tanuri* give us a snapshot of what was shared at the 14th General Conference of the Congress of Southeast Asian Librarians. [(PDF)](/files/pdf/vol-5/issue-2/v5-issue2_DynamicLibraries.pdf)
