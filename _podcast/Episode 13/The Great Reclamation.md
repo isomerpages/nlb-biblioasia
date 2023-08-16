@@ -5,11 +5,10 @@ description: ""
 image: /images/Podcast/ep 13 (rachel heng).jpg
 third_nav_title: Episode 13
 ---
-#### **Coming on 22 August** ####
-
 [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224) is a work of historical fiction set in Singapore that has received rave reviews from the New Yorker and the New York Times. A love story, it also took five years of serious research into a variety of topics, including land reclamation, the Japanese occupation, and postwar politics in Singapore. Listen to author Rachel Heng talk about her book and her fascinating research process, including a BiblioAsia article on [land reclamation](/vol-13/issue-1/apr-jun-2017/land-from-sand/) she referred to!
  
 #### **Listen to the Full Episode** ####
+**Coming on 22 August** 
 
 #### **About the Guest** ####
 Rachel Heng is the author of the novels [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224) (Riverhead,  2023) – a New York Times Editors’ Choice and a "Best Book of 2023 So Far" by The New Yorker, Amazon Books and Town & Country Magazine – and [*Suicide Club*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203154066) (Henry Holt / Sceptre, 2018), which was a national bestseller in Singapore and has been translated into 10 languages.
