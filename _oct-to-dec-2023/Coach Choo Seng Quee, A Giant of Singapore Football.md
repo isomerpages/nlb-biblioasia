@@ -1,10 +1,10 @@
 ---
-title: Choo Seng Quee, A Giant of Singapore Football
-permalink: /holding-area/choosengquee/
+title: Coach Choo Seng Quee, A Giant of Singapore Football
+permalink: /vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/
 description: Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in
   1977.  Four decades after his death, we remember his many contributions to the
   sport.
-image: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/a7spread.jpg
+image: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/chootears2.jpg
 ---
 #### Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in 1977. Four decades after his death, we remember his many contributions to the sport.
 By A. Thiyaga Raju and Gary Koh
@@ -26,16 +26,16 @@ As the _Straits Times_ noted: “The manner in which Singapore came back to win 
 
 Credit for that historic win should be laid at the feet of a Singapore team who played their hearts out. But one other person played just as important a role, even though his name did not appear on the starting 11. Choo (or Uncle Choo as he was fondly termed) had assembled the team, trained and motivated them, and planned and strategised their matches. He did all this in the face of detractors who said he was too old to do the job and who had organised petitions to remove him.
 
-![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/sgteam.jpg)
-<div style="background-color: white;">The Singapore Chinese Football Association team at Anson Road Stadium, 1939. Choo Seng Quee is standing fourth from the left. <i>Courtesy of Singapore Sports Council.</i></div>
-
 With the win, Choo, in his trademark batik shirt, earned his place in the annals of Singapore football. So it is not surprising then that when he died just six years later, at the age of 68, an outpouring of grief swept over the nation. Four decades on, it is safe to say that no other football coach has occupied the imagination of Singaporeans in quite the same way.
 
 #### **Early Beginnings with Raffles Institution**
 
 As with many coaches, Choo was a footballer first. Born in Singapore on 1 December 1914, Choo played for Raffles Institution, before progressing to the Singapore Chinese Football Association (SCFA).[^3]
 
-After obtaining his Senior Cambridge qualifications, Choo joined the SCFA in 1933 where he rose through the ranks to eventually make his first-team debut at the First Division two years later.[^4] He later earned a spot in the Singapore team for the Malaya Cup (renamed Malaysia Cup in 1967) in 1936.[^5] He was part of the backbone of the squad that managed to reach the Cup final in 1936, 1937 and 1938 and he was part of the team that defeated Selangor in 1937.[^6]
+After obtaining his Senior Cambridge qualifications, Choo joined the SCFA in 1933 where he rose through the ranks to eventually make his first-team debut at the First Division two years later.[^4] He later earned a spot in the Singapore team for the Malaya Cup (renamed Malaysia Cup in 1967) in 1936.[^5] He was part of the backbone of the squad that managed to reach the Cup final in 1936, 1937 and 1938, and he was part of the team that defeated Selangor in 1937.[^6]
+
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/sgteam.jpg)
+<div style="background-color: white;">The Singapore Chinese Football Association team at Anson Road Stadium, 1939. Choo Seng Quee is standing fourth from the left. <i>Courtesy of Singapore Sports Council.</i></div>
 
 In 1939, the All-China Olympic Committee invited Choo to attend the preliminary selection in Hong Kong for the football team that would represent China at the 1940 Olympic Games in Helsinki, Finland. “He displays fine head work while his accurate ball distribution is as good as the best we have seen in Singapore,” wrote the _Malaya Tribune_. Choo said that “he appreciated the honour and that he would give of his very best if finally selected”. Choo never made it to the Olympics though as the games were eventually cancelled because of World War II.[^7]
 
@@ -65,12 +65,12 @@ After leaving the FAM on 30 January 1965 following his failure to return from hi
 
 Choo returned to guide Singapore for the final time in the pre-World Cup qualifiers and the Malaysia Cup in 1977, and coached neighbouring Johor a few years later in 1980. He guided the Johor team to a respectable mid-table finish, ending up seventh in the Malaysia Cup league phase, before retiring in early January 1981.[^19]
 
-![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/trainingsession.jpg)
-<div style="background-color: white;">Choo Seng Quee at a training session at Jalan Besar Stadium, 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 7. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div>
-
 Although Choo made his name coaching various national sides, it was his work with young players at Farrer Park’s fabled football fields that he cemented his reputation as Singapore’s finest coach.
 
 The earliest evidence of him coaching young talents there dates to 1950 when he had 18 teenage boys between the ages of 13 and 15 under his wing, including future national players Majid Ariff and Charlie Chan. He taught them the fundamentals of the game through individual technique training and theory lessons.[^20]
+
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/trainingsession.jpg)
+<div style="background-color: white;">Choo Seng Quee at a training session at Jalan Besar Stadium, 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 7. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div>
 
 Under his tutelage, some of his proteges would take the local leagues by storm with Star Soccerites when they easily conquered the lower divisions and won the top-flight First Division in that decade.[^21]
 
@@ -130,7 +130,7 @@ Finishing second in their qualifying group after a 0–4 drubbing by Indonesia, 
 
 All this, of course, was a lead-up to the historic Malaysia Cup win in May 1977.
 
-![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/chootears.jpg)
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/chootears2.jpg)
 <div style="background-color: white;">Choo Seng Quee fights back tears after Singapore’s thrilling 3–2 win against Penang in the Malaya Cup final held at the Merdeka Stadium in Kuala Lumpur on 28 May 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 8. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div> 
 
 #### **Sacrifices and Accolades**
@@ -145,12 +145,23 @@ Choo kept his word and proved his critics wrong. In January 1979, he returned to
 
 At the tail end of his career, Choo was awarded a gold medal by the All-Indonesia Soccer Federation on 19 April 1980 for his trailblazing work in making the Garudas a Southeast Asian force. The team under Choo was considered the best in Indonesia’s soccer history. Two years earlier, he had been named Singapore Coach of the Year in March 1978 and awarded the Public Service Medal (Pingat Bakti Masyarakat) by the Singapore government in August 1978 for his “contribution towards the promotion of the game”.[^47]
 
-![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/medals.jpg)
+![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/medals3.jpg)
 <div style="background-color: white;">Choo Seng Quee holding his trophies at his home after he was named Coach of the Year in March 1978. Photo taken on 21 April 1978. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 Choo finally retired from coaching in January 1981.[^48] When he died on 30 June 1983 at his home on Wolskel Road after a battle with kidney disease, there was an outpouring of grief nationwide.[^49]
 
 “‘Uncle’ Choo Seng Quee… was the greatest football coach Singapore has ever produced, the best talent scout in Asia, and the soccer saviour of our two closest neighbours, Malaysia and Indonesia,” wrote football journalist Jeffrey Low. “He was respected sometimes beyond logic, sometimes beyond toleration, sometimes even beyond one’s self-respect. But in the end, his ‘sons’ never questioned the biggest lesson he taught them: ‘To die for the country’.”[^50]
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/thiyagarajugarykoh.png">
+	<b>A. Thiyaga Raju</b>’s interest in writing was first ignited when he joined the <i>Straits Times</i> editorial department in January 1979. He received the Vibrant Culture Award from the Football Association of Singapore in 2019 for his contributions to local football.</div>
+	
+<div style="background-color: white;">
+<br>
+<b>Gary Koh</b> is an experienced writer on the football scene in Singapore. His work has been published in football magazine <i>FourFourTwo</i> and <i>AFC Quarterly</i>, the official magazine of the Asian Football Confederation.
+<br>
+</div>
 
 #### **Notes**
 
@@ -172,31 +183,31 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 [^9]: “Uncle Choo dan Latihan Fisik Timnas Era 1950-an,” Detikcom, 19 March 2013, https://sport.detik.com/sepakbola/pandit/d-2197914/uncle-choo-dan-latihan-fisik-timnas-era-1950-an.
 
-[^10]: Randy Wirayudha, “Paman Coach, Pelatih Asing Pertama Timans Sepakbola Indonesia,” Historia, 14 July 2017, https://historia.id/olahraga/articles/paman-choo-pelatih-asing-pertama-timnas-sepakbola-indonesia-DbNXl/page/1.
+[^10]: Randy Wirayudha, “Paman Coach, Pelatih Asing Pertama Timnas Sepakbola Indonesia,” Historia, 14 July 2017, https://historia.id/olahraga/articles/paman-choo-pelatih-asing-pertama-timnas-sepakbola-indonesia-DbNXl/page/1.
 
 [^11]: “What’s Next after Indonesia’s SEA Games Football Gold?”, Tempo.co, 21 May 2023, https://en.tempo.co/read/1728104/whats-next-after-indonesias-sea-games-football-gold.
 
 [^12]: Ken Fernandez, “[First Job Will Be to Tour States](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580131-1.2.154),” _Straits Times_, 31 January 1958, 16. (From Newspaper SG)
 
-[^13]: “Choo Seng Quee – Dari Pemain Ke Juralatih Legenda (Bhg. 1),” Legasi Legenda, 8 April 2022, https://legasilagenda.com/2022/04/08/choo-seng-quee-1/.
+[^13]: “Choo Seng Quee – Dari Pemain Ke Jurulatih Legenda (Bhg. 1),” Legasi Legenda, 8 April 2022, https://legasilagenda.com/2022/04/08/choo-seng-quee-1/.
 
-[^14]: “Choo Seng Quee – Dari Pemain Ke Juralatih Legenda (Bhg. 2),” Legasi Legenda, 15 April 2022, https://legasilagenda.com/2022/04/15/choo-seng-quee-2/.
+[^14]: “Choo Seng Quee – Dari Pemain Ke Jurulatih Legenda (Bhg. 2),” Legasi Legenda, 15 April 2022, https://legasilagenda.com/2022/04/15/choo-seng-quee-2/.
 
 [^15]: “Asian Games 1962 (Indonesia),” The Rec.Sport.Soccer.Statistics Foundation, 6 November 2009, https://www.rsssf.org/tablesa/asgames62.html.
 
 [^16]: Normal Siebel, “[Singapore’s Cup Again](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650801-1.2.41.21),” _Straits Times_, 1 August 1965, 20. (From NewspaperSG)
 
-[^17]: Joe Dorai, [“Tengku Gives SAFA OK on Choo,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640609-1.2.118.2) _Straits Times_, 9 June 1964, 16. (From NewspaperSG)
+[^17]: Joe Dorai, “[Tengku Gives SAFA OK on Choo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640609-1.2.118.2),” _Straits Times_, 9 June 1964, 16. (From NewspaperSG)
 
-[^18]: Ken Fernandez, [“Choo May Lose Coaching Job,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650130-1.2.151.1) _Straits Times_, 30 January 1965, 23. (From NewspaperSG)
+[^18]: Ken Fernandez, “[Choo May Lose Coaching Job](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650130-1.2.151.1),” _Straits Times_, 30 January 1965, 23. (From NewspaperSG)
 
-[^19]: [“Out…,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810108-1.2.108.3) _Straits Times_, 8 January 1981, 31. (From NewspaperSG)
+[^19]: “[Out…](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810108-1.2.108.3),” _Straits Times_, 8 January 1981, 31. (From NewspaperSG)
 
-[^20]: [“Schoolboy Star,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520303-1.2.149?qt=choo,%20seng,%20quee,%20charlie,%20chan&amp;q=choo%20seng%20quee%20charlie%20chan) _Straits Times_, 3 March 1952, 12; Herman Rappa, [“Our 1955 Soccer Stars Have Started Training,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19500707-1.2.140) _Singapore Standard_, 7 July 1950, 11. (From Newspaper SG)
+[^20]: “[Schoolboy Star](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520303-1.2.149?qt=choo,%20seng,%20quee,%20charlie,%20chan&amp;q=choo%20seng%20quee%20charlie%20chan),” _Straits Times_, 3 March 1952, 12; Herman Rappa, “[Our 1955 Soccer Stars Have Started Training](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19500707-1.2.140),” _Singapore Standard_, 7 July 1950, 11. (From Newspaper SG)
 
-[^21]: [“Soccerites May Be Champions Today,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540817-1.2.169) _Straits Times_, 17 August 1954, 14. (From Newspaper SG)
+[^21]: “[Soccerites May Be Champions Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540817-1.2.169),” _Straits Times_, 17 August 1954, 14. (From Newspaper SG)
 
-[^22]: [“Only 15, But They Are Good Enough for Div. 1,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19570227-1.2.62) _Singapore Free Press_, 27 February 1957, 14. (From Newspaper SG)
+[^22]: “[Only 15, But They Are Good Enough for Div. 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19570227-1.2.62),” _Singapore Free Press_, 27 February 1957, 14. (From Newspaper SG)
 
 [^23]: R. Suriamurthi, interview, 30 November 2021.
 
@@ -250,6 +261,6 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 [^48]: [Uncle (‘I Hate Football’) Choo Calls It a Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810108-1.2.61.9),” _New Nation_, 8 January 1981, 17. (From NewspapeSG)
 
-[^49]: “[Choo Seng Quee Critically Ill](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830630-1.2.5.4.1?ST=1&amp;AT=search&amp;k=choo%20seng%20quee&amp;QT=choo,seng,quee&amp;oref=article)_,_” _Singapore Monitor_, 30 June 1983, 4; “[Obituary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.119.1.aspx),” _Straits Times_, 1 July 1983, 44. (From NewspaperSG)
+[^49]: “[Choo Seng Quee Critically Ill](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830630-1.2.5.4.1?ST=1&amp;AT=search&amp;k=choo%20seng%20quee&amp;QT=choo,seng,quee&amp;oref=article),” _Singapore Monitor_, 30 June 1983, 4; “[Obituary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.119.1.aspx),” _Straits Times_, 1 July 1983, 44. (From NewspaperSG)
 
 [^50]: Jeffrey Low, “[A Beautiful Dreamer](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.141.1),” _Straits Times_, 1 July 1983, 47. (From Newspaper SG)

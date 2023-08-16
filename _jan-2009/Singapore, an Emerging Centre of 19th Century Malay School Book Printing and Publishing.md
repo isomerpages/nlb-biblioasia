@@ -60,6 +60,9 @@ It was the LMS which first brought printing in Malay to the Straits Settlements 
 
 According to the Annual Reports of the Singapore Institution (1834–1837) and the Singapore Institution Free School (1838–1843), Malay religious tracts and books from the LMS stations in Penang, Singapore and Malacca were used by the Malay classes of the Singapore Institution.
 
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%201.JPG" style="width:100%;">
+ <div style="background-color: white;">TABLE 1: Population of Singapore by Race, 1824, 834 and 1860 showing Malays as the largest minority ethnic group. <i>Crawfurd, 1839, p. 375; Newbold, 1839, p.285; Braddell, 1861, p. 3.</i></div>
+
 #### ***The American Board of Commissioners for Foreign Missions (ABCFM) and the Malay classes at the Singapore Institution, 1834–1842***
 
 In 1834, the ABCFM established a station in Singapore after transferring their Chinese xylographic printing from Canton. Alfred North, a printer by training arrived in 1836 and became a special student of Munshi Abdullah. Only two tracts in Malay were printed (Croakley, 1998, p. 26). North collaborated with Munshi Abdullah to publish two Malay books, *Kesah Pelayaran Abdullah* (1838) (Gallop, 1990, p. 97) and *Sejarah Melayu* (1840/41) (Ibrahim Ismail, 1986, pp. 17–19). These books were used as school books in the Malay classes at the Singapore Institution in 1852 (Singapore Institution Free School, 1853, p. 21), and were the first school books published by a local author. Two years later, Munshi Abdullah passed away in Mecca (Raimy Che-Ross, 2000, p. 182). After the Opium War in 1842, many Chinese ports were opened and the LMS and ABCFM missionaries closed their stations and left for China (Graaf, 1969, p. 37).
@@ -70,12 +73,23 @@ The history of the spread of Malay printing in Southeast Asia in the first half 
 
 In 1846, Benjamin Peach Keasberry was ordered to close the work in Singapore, but he refused to leave. On 2 April 1846, he wrote to the LMS in London, telling them that he could not “reconcile himself to the thought of this station being given.” (Haines, 1962, p. 226). He was convinced that his work lay among the Malay speaking population, although he was left without resources. He was allowed to use the mission press and the mission property at Bras Basah Road. Keasberry supported himself and his work by printing and teaching (Bachin, 1972, p. 12)
 
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%202.JPG" style="width:100%;">
+ <div style="background-color: white;">Table 2: Enrolment of Malay Classes, Instructors, and Superintendents of the Malay School of the Singapore Institution, 1834–1841. <i> Singapore Free School, 1835, p. 2; Singapore Free School, 1836, p. 5; Singapore Free School, 1837, p. 7; Singapore Institution Free School, 1838, p.14, p. 72 &amp; p. 74; Singapore Institution Free School, 1839, p. 7; Singapore Institution Free School, 1840, p. 16; Singapore Institution Free School, 1841, p. 17; Singapore Institution Free School, 1843, p. 4.</i></div>
+
 In 1856, the Temmenggong of Johore and the East India Company (EIC) each contributed an annual sum of $1,500 to set up two Malay schools, one at Telok Blangah and the other at Kampong Glam, and to support Keasberry’s Malay mission school. In addition, part of the money was used to translate Malay manuscripts and publish them “to instruct Malay youth” (Jarman, 1998, p. 88). Keasberry was the first person to be officially appointed to translate and publish Malay school books for the Colony.
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%203.JPG" style="width:100%;">
+ <div style="background-color: white;">Table 3: Number of Pupil Boarders at Keasberry’s Malay Mission School During the Years 1847 to 1866 (selected years). Notes: According to the Annual Report on the Administration of the Straits Settlements from 1859 to 1864 there were mixed enrolments of boys and girls. <i> Buckley, 1965, p.322; Jarman, 1998, p. 218, p. 366, p. 370, p. 522, p. 640 &amp; p. 744.</i></div>
 
 Keasberry’s death brought an end to any extensive work in the Malay language on the peninsula for 20 years (Hunt, 1989, p. 41). In addition, the translation and production of Malay school books was interrupted, since his printing presses were sold to John Fraser and D. C. Neave in 1879 (Makepeace, 1908, p. 265). Fraser and Neave went on to publish directories, guides and company reports in English (Md Sidin Ahmad Ishak, 1992, p. 81).
 
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%204.JPG" style="width:100%;">
+ <div style="background-color: white;">Table 4: Total Enrolment and Average Attendance at Sekolah Abdullah (Abdullah’s School) From 1861 to 1866. <i>Jarman, 1998, p. 218, p. 366, p. 370, p. 522, p. 640 &amp; p. 744.</i></div>
 
 #### **Fourth Phase: The Straits Settlements Under the Colonial Office and Expansion of Malay Government Schools: The Education Department’s Government Malay Press, 1885–1899**
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%205.jpg" style="width:100%;">
+ <div style="background-color: white;">Table 5: Total Enrolment and Average Attendance AT Telok Blangah Malay School From 1861 to 1866. <i>Jarman, 1998, p. 218, p. 366, p. 370, p. 522, p. 640 &amp; p. 744.</i></div>
 
 In 1867, the Straits Settlements were transferred from the control of the Indian Government to that of the Secretary of State for the Colonies in London. In 1870, the First Governor, Sir Harry Ord, appointed a Select Committee “to enquire into the State of Education in the Colony.” Upon the recommendations of the Committee, the first Inspector of Schools was appointed in 1872 to greatly extend and improve Malay vernacular schools (Wong &amp; Gwee, 1980, p. 11).
 

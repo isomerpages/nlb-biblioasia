@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 1/The Padang/the padang hero.jpg
   - infopic:
+      title: Coach Choo Seng Quee, A Giant of Singapore Football
+      subtitle: Sports
+      description: Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in
+        1977. Four decades after his death, we remember his many contributions
+        to the sport.
+      button: Uncle Choo, the Legend
+      url: /vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/
+      image: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/a7spread.jpg
+      alt: Image alt text
+  - infopic:
       title: What’s Become of the Seafaring Orang Seletar?
       subtitle: podcast
       description: The Orang Seletar used to live on boats that plied the Johor
