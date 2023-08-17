@@ -57,6 +57,9 @@ Apart from serving the Chinese community in Singapore, he also played a large ro
 
 He recalled later that after attending the coronation of King George V in 1911, he went to Dresden, Germany, where he took charge of the Chinese pavilion at a Health and Hygiene Exhibition. When he received news of the Chinese Revolution, he immediately left for China and stayed at Hankow with Dr Sun Vat-sen. While in China, he witnessed the birth of the Chinese Republic. The training that he had received during the four years he spent with the Chinese Company of the Singapore Volunteer Infantry from 1901 was likely put to good use then (Ferroa, 1948).
 
+<img src="/images/Vol%202%20Issue%204/LimBoonKeng/lee%20boon%20keng1.jpg" style="width:50%;">
+ <div style="background-color: white;">Dr Lim Boon Keng's "Republic Beard". <i> Image reproduced from Pieces of Jade and Gold: An Anecdotal History of the Singapore Chinese Girls' School 1899–1999. All rights reserved, Singapore Chinese Girls' School, 1999.</i></div>
+
 During the days of the revolution, Dr Lim grew a beard which he called the "Republic Beard". He kept it for the rest of his life. In 1911, he was appointed medical adviser to the Chinese Ministry of the Interior as well as Inspector-General of Hospitals in Peking, and in 1912, as confidential secretary and personal physician to Dr Sun Yat Sen. He became one of the original principal officials of Singapore's Kuomintang branch in 1913 (Png, 1961).
 
 When World War I broke out, he put his talent in fund raising to use again, lending his support to the British colonial government by getting Straits Chinese to contribute funds to the Prince of Wales Relief Fund and towards the purchase of warplanes.
