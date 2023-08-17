@@ -104,7 +104,7 @@ Indeed, Chinese coins were among the first ancient coins to be uncovered. In 181
 
 ![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/huizong-coins.jpg)
 <div style="background-color: white;">
-One-, two- and 10-qian coins dating to the reign of Emperor Huizong of the Northern Song dynasty (Daguan period, 1107–10). <i>Images reproduced from Patricia Buckley Ebrey, Emperor Huizong (Cambridge, Massachussetts: Harvard University Press, 2014), 334. (From National Library, Singapore, call no. R 951.024092 EBR).</i>
+	One-, two- and 10-<i>qian</i> coins dating to the reign of Emperor Huizong of the Northern Song dynasty (Daguan period, 1107–10). <i>Images reproduced from Patricia Buckley Ebrey, Emperor Huizong (Cambridge, Massachussetts: Harvard University Press, 2014), 334. (From National Library, Singapore, call no. R 951.024092 EBR).</i>
 </div>
 
 Ralfe’s coin find was presented to the Asiatic Society in Calcutta on 10 March 1820. According to an 1822 publication, Ralfe subsequently donated the coins to the Museum of Asiatick Society in Calcutta. Unfortunately, the Huizong coin may have been stolen from the museum in 1844.[^31]
