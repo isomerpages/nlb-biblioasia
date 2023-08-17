@@ -9,6 +9,9 @@ description: A prominent pioneer of early Singapore, Dr Lim Boon Keng was an
 ---
 #### A prominent pioneer of early Singapore, Dr Lim Boon Keng was an accomplished businessman and doctor. He also contributed his time and efforts to resolve various issues faced by the Chinese community during the colonial times.
 
+<img src="/images/Vol%202%20Issue%204/LimBoonKeng/lim%20boon%20keng%20singapore%20chronicles.jpg" style="width:50%;">
+ <div style="background-color: white;">Dr Lim Book Keng.<i> All rights reserved. Illustrated Magazine Pub., 1995.</i></div>
+
 #### **A Remarkable Man**
 A prominent pioneer of early Singapore, Dr Lim Boon Keng was an accomplished businessman and doctor. He also contributed his time and effort to resolving the various issues faced by the Chinese community during the colonial times.
 
@@ -39,6 +42,9 @@ Being passionate about improving the life of Straits Chinese and the Chinese com
 #### **Lim Boon Keng, The Education Advocate**
 
 In 1896, he started the Chinese Philomathic Society with the support of other prominent Chinese. The Society's main focus was to study English literature, Western music and the Chinese language. In 1919, together with Tan Jiak Kim, Seah Liang Seah and Song Ong Siang, Dr Lim co-founded the Straits Chinese British Association, which served as a voice for the Straits Chinese, and was elected president twice in its first two decades. He was also a member of the Ee Hoe Hean Club, which was set up in 1895 and is one of the oldest Chinese clubs in Singapore.
+
+<img src="/images/Vol%202%20Issue%204/LimBoonKeng/lbk%20sos.jpg" style="width:80%;">
+ <div style="background-color: white;">(From left) Song Ong Siang, Dr Gnoh Lean Tuck and Dr Lim Boon Keng - First Queen's Scholars.<i> Reproduced from One Hundred Years' History of the Chinese in Singapore All rights reserved, Murray, 1923.</i></div>
 
 Concerned by the low literacy levels of Straits Chinese women, Dr Lim co-founded the Singapore Chinese Girls' School with Song Ong Siang in 1899. That year, on 1 July, the school opened with seven Straits Chinese girls as students. It was located at the junction of Hill Street and Armenian Street, next to the Masonic Hall, (Ooi, 1999).
 
@@ -123,7 +129,3 @@ Ye Guan Shi 叶观仕, _Ma xin bao ren lu (1806–2000)_ [马新报人录 (1806�
 [^1]: _Kempetai_ was the military police of the Imperial Japanese Army.
 
 [^2]: In China, the abolition of the queue came into force only when Dr Sun Yat-Sen formed the Republic of China (1911–1949)
-
-
-
-
