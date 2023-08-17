@@ -7,7 +7,8 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba3-1.jpg)
 
-**Director's Column**<br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue1/apr-2007/director-column">Director's Column</a>
+
 
 **Storm in Shuang Lin**<br>Shuang Lin Monastery was once used as a training ground for people who volunteered their services at the Burma Road, which served as a supply route during the Sino-Japanese War in the 1930s. The monastery had a great impact on the lives of two men: Wu Hui Min, volunteer for the war effort, and Venerable Pu Liang, the abbot of the monastery. [(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_ShuangLinStorm.pdf)
 
@@ -21,4 +22,4 @@ the British ruled over in their colonies.
 
 **Digital Archiving: Storing for the Future**<br>Tony MeSean, Director of Ubrary Relations of publishing giant Elsevier, shares his thoughts and experience on the future of digital archiving at an Executive Management Programme in February 2007.[(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_DigitalArchiving.pdf)
 
-**News**<br>A conference on the future of libraries and librarians; a collaboration and networking session with the School of Communication & Information, Nanyang Technological University; “Aksara: The Passage of Malay Scripts” exhibition; and the memorandum of understanding signed between the National Library Board and the Asian Film Archive. [(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_News.pdf)
+**News**<br>A conference on the future of libraries and librarians; a collaboration and networking session with the School of Communication &amp; Information, Nanyang Technological University; “Aksara: The Passage of Malay Scripts” exhibition; and the memorandum of understanding signed between the National Library Board and the Asian Film Archive. [(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_News.pdf)
