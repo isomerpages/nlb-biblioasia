@@ -16,7 +16,8 @@ description: ""
 <a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue2/jul-2007/tapping-history">Tapping History</a><br>I’ve been through Taban Valley at Bukit Timah Nature Reserve many times and never realised until recently how historically important these unprepossessing trees are. To the uninitiated, they look like skinny durian trees with their dark green leaves. A century and a half ago, the Taban Merah (Pafaquium gutta), better known to the world as Gutta Percha, was at the centre of an earth-shaking infocomm revolution as great as the introduction of the Internet.
 [(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_TappingHistory.pdf)
 
-**The Access to Learning Award: Improving Lives Through Greater Access to Information Through Technology**<br>Whether you are young or old, a student or a teacher, a farmer or a small business owner, access to online information is becoming increasingly important throughout the world. [(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_LearningAward.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue2/jul-2007/access-learning-award-information-technology">The Access to Learning Award: Improving Lives Through Greater Access to Information Through Technology</a><br>
+Whether you are young or old, a student or a teacher, a farmer or a small business owner, access to online information is becoming increasingly important throughout the world. [(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_LearningAward.pdf)
 
 **族群、文化认同从: 华文报纸历史看其与新马华人的关系**<br>This  looks at Chinese-language newspapers and their relationship with the ethnic Chinese in Singapore and Malaysia. [(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_Chinese.pdf)
 
