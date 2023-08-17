@@ -95,19 +95,21 @@ Being a prolific writer, Dr Lim wrote many books and did some translations or El
 Sorrows* (1929).
 
 <img src="/images/Vol%202%20Issue%204/LimBoonKeng/thelisao%202%201.jpg" style="width:50%;">
- <div style="background-color: white;"><i>The Li Sao,</i> published in 1929 All rights reserved, Commercial Press, 1929.
-
+ <div style="background-color: white;"><i>The Li Sao,</i> published in 1929 All rights reserved, Commercial Press, 1929.</div>
 
 #### **Outstanding Pioneer**
 Dr Lim received several eminent awards in his life. In 1918, he received the Order of the British Empire in recognition of his public service. He was also decorated with the Commander Crown of Italy, and received the Albertus Medal of Saxony. The Qing Government awarded him the Wen Hu Jiang  and the Jia He Jiang. In 1919, he received an honorary Doctor of Laws from the Hong Kong University. In 1930, he was made an F.R.C.S. (London).
 
 After the war, in contrast to his illustrious pre-World War II years, Dr Lim lived his last 12 years as a recluse.
 
-The Straits Times interviewed him twice. Once was in 1948, at his 80th birthday, when he was quoted as "The Sage of Singapore". Asked for his recipe for a ripe, old age, he replied, "I have no recipes or formulas. The main thing I would say to you, if you want to go on living, is: Don't worry, and don't cry over split milk" (Ferroa, 1948).
+*The Straits Times* interviewed him twice. Once was in 1948, at his 80th birthday, when he was quoted as "The Sage of Singapore". Asked for his recipe for a ripe, old age, he replied, "I have no recipes or formulas. The main thing I would say to you, if you want to go on living, is: Don't worry, and don't cry over split milk" (Ferroa, 1948).
 
 The other interview was done in 1956, at his 88th birthday. It was reported that he spent most of his time reading books and newspapers. He regarded himself as a graduate in the art of living who had majored in tolerance (Morgan, 1956). As Singapore society was then being rocked by riots and strikes, Dr Lim took the opportunity to urge the Chinese community to:
 
  <i> Go forward in friendship with other communities towards<br>  the common goal of a unified interracial family.<br>  Accept and adjust yourselves to change in the interest<br>  of all.<br>  Grasp every opportunity for education because ignorance<br>  is a sin (Morgan, 1956). </i> 
+ 
+<img src="/images/Vol%202%20Issue%204/LimBoonKeng/notice%20of%20death1.jpg" style="width:50%;">
+ <div style="background-color: white;">Death of Dr Lim Boon Keng, published in Xin Zhou Ri Bao, 1957.</div>
 
 On 1 Jan 1957, Dr Lim Boon Keng passed away peacefully at 5.46am. His passing marked the end of a man who gave selflessly towards improving the Chinese community during colonial times. 
 
@@ -144,6 +146,7 @@ Tan Yeok Seong, [_History of the Formation of the Oversea Chinese Association an
 Ye Guan Shi 叶观仕, _Ma xin bao ren lu (1806–2000)_ [马新报人录 (1806–2000)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9841126) \[Who's who in the press, Malaysia &amp; Singapore (1806–2000)\] (\[Place of publication not identified\] \[S.l.\]: Ming ren chu ban she 名人出版社, 1999), 27. (Call no. Chinese RSING q 070.922595 WHO)
 
 #### **NOTES**
+	
 [^1]: _Kempetai_ was the military police of the Imperial Japanese Army.
 
-[^2]: In China, the abolition of the queue came into force only when Dr Sun Yat-Sen formed the Republic of China (1911–1949)</div>
+[^2]: In China, the abolition of the queue came into force only when Dr Sun Yat-Sen formed the Republic of China (1911–1949)
