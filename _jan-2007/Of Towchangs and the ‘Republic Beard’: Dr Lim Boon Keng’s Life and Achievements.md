@@ -88,7 +88,15 @@ In 1899, he started writing about social reforms, covering the question of wheth
 
 Dr Lim and his father-in-law, Wong Nai Siong, also bought over a Chinese newspaper, Xing Bao and renamed it Ri Xin Bao. Once again, this paper became a medium for him to reach out to the Chinese community. In order to broaden the horizon of this community, he included international news and reports on science and technology in the Western countries. Unfortunately, the paper ran for only two years because of financial problems (1985).
 
-Being a prolific writer, Dr Lim wrote many books and did some translations or Elements of Popular Hygiene (1911) and published in 1911  or Principles of Confucianism (1914) were two examples of his Chinese works. Examples of his English publications include The Chinese Crisis from Within (1901), The Great War from the Confucian Point of View, and Kindred Topics: Being Lectures Delivered during 1914–1917 (1917), Tragedies of Eastern Life: An Introduction to the Problems of Social Psychology (1927), and The Li Sao: An Elegy on Encountering Sorrows (1929).
+<img src="/images/Vol%202%20Issue%204/LimBoonKeng/old%20book1.jpg" style="width:50%;">
+ <div style="background-color: white;">Old Book, 	published in 1911.</div>
+
+Being a prolific writer, Dr Lim wrote many books and did some translations or Elements of Popular Hygiene (1911) and published in 1911  or Principles of Confucianism (1914) were two examples of his Chinese works. Examples of his English publications include *The Chinese Crisis from Within* (1901), *The Great War from the Confucian Point of View, and Kindred Topics: Being Lectures Delivered during 1914–1917* (1917), *Tragedies of Eastern Life: An Introduction to the Problems of Social Psychology* (1927), and *The Li Sao: An Elegy on Encountering 
+Sorrows* (1929).
+
+<img src="/images/Vol%202%20Issue%204/LimBoonKeng/thelisao%202%201.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>The Li Sao,</i> published in 1929 All rights reserved, Commercial Press, 1929.
+
 
 #### **Outstanding Pioneer**
 Dr Lim received several eminent awards in his life. In 1918, he received the Order of the British Empire in recognition of his public service. He was also decorated with the Commander Crown of Italy, and received the Albertus Medal of Saxony. The Qing Government awarded him the Wen Hu Jiang  and the Jia He Jiang. In 1919, he received an honorary Doctor of Laws from the Hong Kong University. In 1930, he was made an F.R.C.S. (London).
@@ -138,4 +146,4 @@ Ye Guan Shi 叶观仕, _Ma xin bao ren lu (1806–2000)_ [马新报人录 (1806�
 #### **NOTES**
 [^1]: _Kempetai_ was the military police of the Imperial Japanese Army.
 
-[^2]: In China, the abolition of the queue came into force only when Dr Sun Yat-Sen formed the Republic of China (1911–1949)
+[^2]: In China, the abolition of the queue came into force only when Dr Sun Yat-Sen formed the Republic of China (1911–1949)</div>
