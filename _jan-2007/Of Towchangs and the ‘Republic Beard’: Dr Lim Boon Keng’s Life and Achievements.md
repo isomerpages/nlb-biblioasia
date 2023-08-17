@@ -7,3 +7,29 @@ description: A prominent pioneer of early Singapore, Dr Lim Boon Keng was an
   to resolve various issues faced by the Chinese community during the colonial
   times.
 ---
+#### A prominent pioneer of early Singapore, Dr Lim Boon Keng was an accomplished businessman and doctor. He also contributed his time and efforts to resolve various issues faced by the Chinese community during the colonial times.
+
+#### **A Remarkable Man**
+A prominent pioneer of early Singapore, Dr Lim Boon Keng was an accomplished businessman and doctor. He also contributed his time and effort to resolving the various issues faced by the Chinese community during the colonial times.
+
+As one of the respected Chinese leaders in Singapore, he advocated several social reforms through his writings and debates in the Chinese Philomathic Society, which he cofounded with community leader Song Ong Siang. Convinced that Confucianism would be the way for the Chinese community to improve, he was passionate about having all Chinese learn the Chinese language. He also participated in creating a milestone in China's history with Dr Sun Yat-sen, and spent 16 years of his life heading Xiamen University (Amoy University) as its president.
+
+This remarkable man was born on 18 Oct 1869. A third generation Straits Chinese, Dr Lim Boon Keng's life and experiences were closely linked to the developments of the British colonial powers in the region and China at the turn of the century. His ability to deal with both the colonial powers and the Chinese government allowed him to fully use his potential and capabilities.
+
+#### **Lim Boon Keng, The Doctor**
+Dr Lim's education started out with a brief stint at a school set up by the Hokkien Clan Association, where he learnt Chinese classics. He then moved on to the Government Cross Street School to start his English education, then on to Raffles Institution. He was nearly unable to complete his education because of financial difficulties resulting from his father's death, but the headmaster of Raffles Institution, Mr R.W. Hullett, provided financial assistance and moral support (Song, 1984).
+
+The young man did not disappoint the headmaster. After finishing school at Raffles Institution, he won a Queen's Scholarship in 1887 to study at the University of Edinburgh for six years, graduating in medicine and surgery with first class honours in 1892.
+
+He was also a Fellow and one-time President of the Royal Medical Society, as well as research scholar in pathology at Cambridge University. When asked at the age of 80 what his happiest memories were, he fondly recounted his school days and the words of wisdom that the RI headmaster had shared with him before he left for London: "You are a Chinese going to the West and remember to respect yourself and do right. Never mind what other people, the rich and the influential, may think of you. As long as you do right and remain right, you will always be happy" (Ferroa, 1948).
+
+Upon returning to Singapore in 1893, the young doctor set up a clinic at Telok Ayer Street. He also gave a course of seven lectures on 'First Aids in Ambulance' during what was supposed to be a fortnightly meeting of the Chinese Christian Association. It was well attended by 35 participants (*Straits Chinese Magazine*, 1898).
+
+His contributions to the medical field extended beyond Singapore shores. Apart from being the medical delegate of the Chinese Government to Paris and Rome at the Conference Sanitaire Internationale, Dr Lim was also the Medical Director of the Chinese Section of the International Hygiene Exhibition in Dresden. Back home in Singapore, he raised funds for the founding of the King Edward VII Medical School in 1905, and volunteered to be a lecturer on Pharmacology and Therapeutics, and Materia Medica at the same school. He also co-founded the Anti-Opium Society in 1906, and in 1912, was made president of the Board of Health in the Republican Government at Nanking.
+
+In 1895, at a young age of 26, Dr Lim was appointed as a Chinese member of the Straits Settlements Legislative Council. For more than 10 years, he was nominated repeatedly for this position. For several years, he also served as a Justice of Peace, a Municipal Commissioner and a member of the Chinese Advisory Board. He was also very active in participating in major events related to the British colonial government, attending the coronation of King Edward VII and King George V in 1902 and 1911 respectively (Song, 1984). He even wrote an article about the Diamond Jubilee in the *Straits Chinese Magazine* in 1897.
+
+
+
+
+
