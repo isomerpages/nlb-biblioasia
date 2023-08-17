@@ -36,37 +36,25 @@ Fuelled by this influx of material culture, museums began to focus on exhibition
 
 Philosophy lecturer, Ho Wing Meng, turned his hobby3 of collecting Straits Chinese material into four publications, published in the 1980s4, analysing the Baba material culture. The detailed photographs in these publications, as well as exhibition guides and auction brochures published around the same period, increased the interest in the material wealth of the Babas of the past. The pink-blue and yellow-green of nonya ware are reflected in similar colours in their *kebaya* and *kasut manek*.5 Singapore's Peranakan Association saw younger members join, many seeking to savour the culinary fare of the true-blue Nonya or to acquire a set of *kerosangs*6 to accompany their new kebayas or develop a new hobby in *kasut manek* beadwork.
 
-Even as recent as the 21 st century, the late Datin Seri Endon Mahmood's patronage' of the *nonya kebaya* encouraged a revival in the making and use of these delicately embroidered dresses, and led both Malaysians and Singaporeans to acquire these as their own local costumes.
+Even as recent as the 21 st century, the late Datin Seri Endon Mahmood's patronage7 of the *nonya kebaya* encouraged a revival in the making and use of these delicately embroidered dresses, and led both Malaysians and Singaporeans to acquire these as their own local costumes.
 
 Interestingly, although the hues and decorative details of things Baba seem so clearly defined today, there is limited information on a unique style that can be said as truly Baba. Whether it is architecture or jewellery, scholars do not seem to agree over a distinctly Straits Chinese style, although certain details may be construed as peculiar to the Babas. Even so, the mish-mash of styles reflecting the best of the Chinese, British or Malays as used by wealthy Straits Chinese have become acknowledged as typical of Baba taste and have today acquired a standing of high regard.
 
-The bibliography attempts to capture all material aspects of the Baba, from architecture to interior furnishing, kitchenware and porcelain, silver and jewellery, attire and dress sense.
+The bibliography attempts to capture all material aspects of the Baba, from architecture to interior furnishing, kitchenware and porcelain, silver and 
+jewellery, attire and dress sense.
 
+#### **Social Life**
+The Baba community expresses its values through ritual practice and social interactions. Early studies of the community focus on descriptions of the early Chinese settlement in the coastal city of Malacca. Malaccan-born De Eredia (1613),8 a navigator and explorer, made some of the earliest observations of the community. However, it was later colonials and adventurers who captured the unique expressions and style of the Babas. Isabella Bird (Isabella Bishop) described the Anglo-Chinese and their peculiarities in some detail9 in her famed publication *The Golden Chersonese*, published in 1883. Vaughan had, as early as the 1850s, written notes on the Penang Chinese10 but it is his *Manners and Customs of the Chinese*, published in 1879, that provided a detailed analysis of the Straits Chinese. Victor Purcell, who had served in the Malayan Civil Service between 1921 and 1946, continued an in-depth description of the Chinese from the Occupation to the post-war period, based on research conducted in the 1930s.
 
+After the war, the Straits Chinese British Associations of Singapore, Malacca and Penang voiced the struggles of the Babas in retaining their treasured British rights in the face of an increasing nationalistic fervour that sought to throw off colonial restraints. While individual Babas took on key political leadership posts in the fledgling nations of Singapore and Malaysia,11 the Baba community itself was being derided for its political apathy. Much of the struggle with its sense of political and nationalistic identity can be found in newspapers and magazine articles of the period.
 
+Thereafter, while the notion of being Baba no longer carried political connotations, cultural aspects of Baba practices became more and more a subject of study in post-independent Singapore and Malaysia. These were found in publications of specific rituals such as wedding ceremonies12 and in autobiographies of the ordinary Baba, where descriptions of kinship ties and everyday rites showed the lifestyle of Babas in the past and their struggles through the Japanese Occupation.
 
+In the 1980s, several ethnographic studies and landmark publications on the social practices of the Baba were published. John Clammer (1980) looked at the community from a sociological perspective, providing an academic analysis of ethnicity and its expression.13 On the other hand, Felix Chia's (1980) publication in the same year described the Baba from within the community, giving anecdotal accounts, personal reflections and insiders' notes over and above a researched background to the community.14 Soon after, Tan Chee-Beng (1988)15 provided a detailed ethnographic study of Malaccan Babas, capturing ritualistic practices as well as social customs and interactions, thus giving flesh to the actual workings of the community. With Rudolph's (1994) publication,16 the Babas were described based on how they were perceived and how they perceived themselves through distinct time periods. Social identity was not defined merely by ritual practices or material culture but also by the community's political and nationalistic affiliations.
 
+The Baba community gained a new dimensionality as they were studied within the context of their time, complementing specific studies of rituals and aspects of the community. The beautifully illustrated and well-researched tome by Khoo Joo Ee (1996) *The Straits Chinese: A Cultural History* is such an example: it captures both the intricacies of the material culture as well as the issues of social identity among the Babas of Penang.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Both the broad study of the Baba community and the specific papers on ritualistic aspects of Baba culture are listed in the bibliography. Added to these are area studies of the Babas in Singapore, Penang and Malacca and broader studies of Babas. The latter compares the Babas to the acculturated Chinese in Southeast Asia and the related acculturated nonChinese such as the Chetty Melaka, the Adjarns of Phuket and the Peranakan-like Chinese in Kelantan and Terengganu.
 
 
 
