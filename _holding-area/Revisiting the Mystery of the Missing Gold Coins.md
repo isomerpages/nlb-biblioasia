@@ -144,6 +144,10 @@ While Chinese bronze alloy coins were used as small denomination currency in the
 
 Unfortunately, many vital questions still remain regarding the gold coins of Telok Blangah. Were they indeed Acehnese coins? How did they disappear and where are they now? These coins could be in a dusty drawer or forgotten safety deposit box somewhere in Singapore, waiting to be rediscovered. Or they may have already left our shores like the Chinese coins from the discoveries by Ralfe and Crawfurd. We do not know the answers to these questions, but with further research, maybe someday, we will be able to find out more.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger">
+The author is grateful to Toffa Abdul Wahed, Mazelan Anuar, Gracie Lee, Iskander Mydin, Iain Sinclair, David Flegg and many others who facilitated the writing of this essay. The names of places and rulers have been modernised to facilitate ease of reading.
+</div>
+
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/fooshutieng2.png" style="width: 100px; height: 100px;">
