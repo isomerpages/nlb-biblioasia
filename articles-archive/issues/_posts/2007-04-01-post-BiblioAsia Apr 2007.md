@@ -9,8 +9,8 @@ description: ""
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue1/apr-2007/director-column">Director's Column</a>
 
-
-**Storm in Shuang Lin**<br>Shuang Lin Monastery was once used as a training ground for people who volunteered their services at the Burma Road, which served as a supply route during the Sino-Japanese War in the 1930s. The monastery had a great impact on the lives of two men: Wu Hui Min, volunteer for the war effort, and Venerable Pu Liang, the abbot of the monastery. [(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_ShuangLinStorm.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue1/apr-2007/storm-shuang-lin/">Storm in Shuang Lin</a>
+<br>Shuang Lin Monastery was once used as a training ground for people who volunteered their services at the Burma Road, which served as a supply route during the Sino-Japanese War in the 1930s. The monastery had a great impact on the lives of two men: Wu Hui Min, volunteer for the war effort, and Venerable Pu Liang, the abbot of the monastery. [(PDF)](/files/pdf/vol-3/issue-1/v3-issue1_ShuangLinStorm.pdf)
 
 **Educating Malayan Gentlemen**<br>The early part of the 20th century saw a conservative shift towards the teaching of English to native subjects. This was contrary to the 19th century when the teaching of English was seen as an imperative civilising force – a tool for the enlightenment of the savage barbarians that
 the British ruled over in their colonies.
