@@ -7,7 +7,10 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba3-2.jpg)
 
-**Director's Column**<br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue2/jul-2007/director-column">Director's Column</a>
+
+
+<br>
 
 **Harun Aminurrashid**<br>Born Harun Bin Mohd Amin, Harun’s other pen names include Har, Gustam Negara, Atma Jiwa and Si Ketuit. He was a prolific writer and editor of several newspapers and magazines.  
 [(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_Aminurrashid.pdf)
