@@ -7,7 +7,7 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba3-4.jpg)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue4/jan-2008/director-column/">Director's Column</a>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue-4/jan-2008/director-column/">Director's Column</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue4/jan-2008/dragon-tiger-foreign-policy/">Rising Dragon, Crouching Tigers? Comparing the Foreign Policy Responses of Malaysia and Singapore Toward a Re-emerging China, 1990–2005
 </a><br>What do states do when faced with an increasingly stronger and/or potentially threatening big power? For decades, mainstream international relations theorists have offered two broad answers to this central question: states are likely to either balance against or bandwagon with that power.[(PDF)](/files/pdf/vol-3/issue-4/v3-issue4_RisingDragon.pdf)
