@@ -13,7 +13,8 @@ description: ""
 <br>Born Harun Bin Mohd Amin, Harun’s other pen names include Har, Gustam Negara, Atma Jiwa and Si Ketuit. He was a prolific writer and editor of several newspapers and magazines.  
 [(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_Aminurrashid.pdf)
 
-**Tapping History**<br>[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_TappingHistory.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue2/jul-2007/tapping-history">Tapping History</a><br>I’ve been through Taban Valley at Bukit Timah Nature Reserve many times and never realised until recently how historically important these unprepossessing trees are. To the uninitiated, they look like skinny durian trees with their dark green leaves. A century and a half ago, the Taban Merah (Pafaquium gutta), better known to the world as Gutta Percha, was at the centre of an earth-shaking infocomm revolution as great as the introduction of the Internet.
+[(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_TappingHistory.pdf)
 
 **The Access to Learning Award: Improving Lives Through Greater Access to Information Through Technology**<br>Whether you are young or old, a student or a teacher, a farmer or a small business owner, access to online information is becoming increasingly important throughout the world. [(PDF)](/files/pdf/vol-3/issue-2/v3-issue2_LearningAward.pdf)
 
