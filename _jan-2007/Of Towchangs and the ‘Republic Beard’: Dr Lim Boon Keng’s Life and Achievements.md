@@ -94,8 +94,9 @@ Dr Lim and his father-in-law, Wong Nai Siong, also bought over a Chinese newspap
 Being a prolific writer, Dr Lim wrote many books and did some translations or Elements of Popular Hygiene (1911) and published in 1911  or Principles of Confucianism (1914) were two examples of his Chinese works. Examples of his English publications include *The Chinese Crisis from Within* (1901), *The Great War from the Confucian Point of View, and Kindred Topics: Being Lectures Delivered during 1914–1917* (1917), *Tragedies of Eastern Life: An Introduction to the Problems of Social Psychology* (1927), and *The Li Sao: An Elegy on Encountering 
 Sorrows* (1929).
 
-<img src="/images/Vol%202%20Issue%204/LimBoonKeng/thelisao%202%201.jpg" style="width:50%;">
+<img src="/images/Vol%202%20Issue%204/LimBoonKeng/thelisao%202%201.jpg" style="width:80%;">
  <div style="background-color: white;"><i>The Li Sao,</i> published in 1929 All rights reserved, Commercial Press, 1929.</div>
+
 
 #### **Outstanding Pioneer**
 Dr Lim received several eminent awards in his life. In 1918, he received the Order of the British Empire in recognition of his public service. He was also decorated with the Commander Crown of Italy, and received the Albertus Medal of Saxony. The Qing Government awarded him the Wen Hu Jiang  and the Jia He Jiang. In 1919, he received an honorary Doctor of Laws from the Hong Kong University. In 1930, he was made an F.R.C.S. (London).
