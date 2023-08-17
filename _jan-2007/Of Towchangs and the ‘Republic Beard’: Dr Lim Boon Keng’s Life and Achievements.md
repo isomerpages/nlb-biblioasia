@@ -75,6 +75,10 @@ Fortunately, his former students helped him raise the sum. However, it was an im
 The Japanese did not pass up any opportunities to make use of Dr Lim while carrying out their propaganda activities. A member of Force 136, Lin Jinquan, remembered that Dr Lim was so upset by a Japanese that he attempted to commit suicide. Another Force 136 member, Lin Shuyan, also recalled that Dr Lim would get drunk and say he wanted to dance. Once, while drunk, he cried and said that he should not have done all the things he had been doing (1985).
 
 #### **Lim Boon Keng, The Author**
+
+<img src="/images/Vol%202%20Issue%204/LimBoonKeng/straits%20chinese%20magazine.jpg" style="width:50%;">
+ <div style="background-color: white;">The first issue of the Straits Chinese Magazine, published in 1897. A copy of this is available in the National Library.</div>
+ 
 Dr Lim and Song Ong Siang started the *Straits Chinese Magazine*, and served as its editors. This quarterly magazine ran for 11 years from 1897 to 1907. Dr Lim contributed no less than 20 articles to the magazine, mainly covering health issues, his ideas on various social reforms, and Confucianism.
 
 In 1899, he started writing about social reforms, covering the question of whether Chinese should keep their queues, dress and costume, the education of children, religion, filial piety and funeral rites. His call to Chinese men A copy of this is available in the National Library to remove the queue (also known as the towchang), in particular, caused an uproar.[^2] Even in his later years, he continued to stand by his conviction that long hair was unnecessary, unhygienic and disgraceful to the Chinese. It represented an era of Subjugation (Morgan, 1956). He also condemned the smoking of opium in the Chinese community and wrote numerous articles in support of Confucian practices. Some of the concepts that he brought up included Confucian cosmogony and theism; the basis of Confucian ethics; the Confucian doctrine of brotherly love; the status of women under a Confucian regime; Confucian code of conjugal harmony and Confucian ethics of friendship.
