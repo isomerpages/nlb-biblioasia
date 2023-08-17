@@ -9,6 +9,9 @@ description: The local Baba community has a social history that is as
 ---
 ####  The local Baba community has a social history that is as fascinating as their material culture is colourful. Known as Peranakan (or Peranakan Cina), the Babas are an acculturated community of Southern Chinese domiciled in the Straits Settlements since they first settled in Melaka in the 16th century.
 
+<img src="/images/Vol%202%20Issue%204/NonyasBabas/babastreet.jpg" style="width:80%;">
+ <div style="background-color: white;"></div>
+
 #### **Writings On the Babas**
 The local Baba community has a social history that is as fascinating as their material culture is colourful. Popularly referred to as the Peranakan (or Peranakan Cina - Malay for Chinese Peranakan[^1]), the Babas are an acculturated community of Southern Chinese domiciled in the colonial Straits Settlements since they first settled in Malacca in the 16th century.[^2] Their long residence in the Malayan Peninsula saw the primarily Hokkien community adopting cultural elements from the Indonesians, Malays, Indians and colonial British, and developing a unique cultural tapestry seen in their use of Baba Malay language, *nonya* attire and cuisine. Yet, defining a Baba and his community remains a complex task both for the researcher and community member, as the community continues to adapt through difficult periods and different eras.
 
@@ -19,7 +22,7 @@ Most studies on the Babas focus on specific subjects such as literature and lang
 #### **Stories From Long Ago**
 When discussing Baba writings, the traditional stories of the Babas, known in short as *Chrita dahulu-kala*, or "Stories of long ago", published between the late 19th century and the early 20th century, come to mind. These publications are Baba Malay translations of Chinese classics, adventures and romance.
 
-Studies of these publications often focus on their holdings in various libraries in Asia and the West. Salmon & Destenay's (1977) *Writings in Romanized Malay by the Chinese of Malaya* was one of the earliest to detail the holdings of these titles in various libraries, including the British Library, the National Library in Singapore and the Dewan Bahasa Library in Kuala Lumpur. This was followed by an analysis by Tan (1981) and Proudfoot (1989, March), with added information on publishing histories. The most recent studies are by Yoong (2001, 2002, 2004), which besides reviewing holdings and publishing trends, has categorised the titles by types of stories and studied the persons behind the publications, including translators, illustrators and publishers.
+Studies of these publications often focus on their holdings in various libraries in Asia and the West. Salmon &amp; Destenay's (1977) *Writings in Romanized Malay by the Chinese of Malaya* was one of the earliest to detail the holdings of these titles in various libraries, including the British Library, the National Library in Singapore and the Dewan Bahasa Library in Kuala Lumpur. This was followed by an analysis by Tan (1981) and Proudfoot (1989, March), with added information on publishing histories. The most recent studies are by Yoong (2001, 2002, 2004), which besides reviewing holdings and publishing trends, has categorised the titles by types of stories and studied the persons behind the publications, including translators, illustrators and publishers.
 
 Most studies indicate that the National Library in Singapore has less than 30 such titles, but the process of compiling this bibliography uncovered at least 44 distinct titles of these unique translations. Many were donated by Linda Lim through the National Museum in 1986. These have been microfilmed and are stored along with other purchased microfilm titles to provide access to a wider range of such titles.
 
@@ -33,6 +36,9 @@ Besides Chinese classics, the bibliography also covers articles which analyse th
 In the 1980s, there was a revival of interest in the Baba community as older families sold off their family heirlooms and their material culture spilled into the open market, attracting the interest of discerning buyers and the curious.
 
 Fuelled by this influx of material culture, museums began to focus on exhibitions solely on the Babas. In Singapore, the National Museum began with a showcase of domestic items, beadwork and jewellery of the Babas. Then in 1997, the Asian Civilisation Museum opened its first wing off Armenian Street, where a large part of the space was dedicated to displays of Baba material culture.
+
+<img src="/images/Vol%202%20Issue%204/NonyasBabas/ho%20wing%20meng1.jpg" style="width:80%;">
+ <div style="background-color: white;">Publications by Dr Ho Wing Meng on the Beba culture.</div>
 
 Philosophy lecturer, Ho Wing Meng, turned his hobby[^3] of collecting Straits Chinese material into four publications, published in the 1980s[^4], analysing the Baba material culture. The detailed photographs in these publications, as well as exhibition guides and auction brochures published around the same period, increased the interest in the material wealth of the Babas of the past. The pink-blue and yellow-green of nonya ware are reflected in similar colours in their *kebaya* and *kasut manek*.[^5] Singapore's Peranakan Association saw younger members join, many seeking to savour the culinary fare of the true-blue Nonya or to acquire a set of *kerosangs*[^6]  to accompany their new kebayas or develop a new hobby in *kasut manek* beadwork.
 
@@ -68,7 +74,7 @@ More importantly, through the publication of *A Baba Bibliography*, it was found
 
 [^3]: John de Souza, “[Scholar, Writer, Collector](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840611-1.2.60.2),” _Straits Times_, 11 June 1984, 1. (From NewspaperSG)
 
-[^4]: At least three of his publications were published in the 1980s while the fourth was published in the 1990s – Ho Wing Meng, [_Straits Chinese Porcelain: A Collector’s Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082317) (Singapore: Times Books International, 1983) (Call no. RSING 738.209595 HO); Ho Wing Meng, [_Straits Chinese Silver: A Collector’s Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082318) (Singapore: Times Books International, 1984) (Call no. RSING 739.237595 HO); Ho Wing Meng, [_Straits Chinese Beadwork & Embroidery: A Collector’s Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4467095) (Singapore: Times Books International, 1987) (Call no. RSING 746.509595 HO); Ho Wing Meng, [_Straits Chinese Furniture: A Collector's Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7124266) (Singapore: Times Books International, 1994) (Call no. RSING 749.295957 HO)
+[^4]: At least three of his publications were published in the 1980s while the fourth was published in the 1990s – Ho Wing Meng, [_Straits Chinese Porcelain: A Collector’s Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082317) (Singapore: Times Books International, 1983) (Call no. RSING 738.209595 HO); Ho Wing Meng, [_Straits Chinese Silver: A Collector’s Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082318) (Singapore: Times Books International, 1984) (Call no. RSING 739.237595 HO); Ho Wing Meng, [_Straits Chinese Beadwork &amp; Embroidery: A Collector’s Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4467095) (Singapore: Times Books International, 1987) (Call no. RSING 746.509595 HO); Ho Wing Meng, [_Straits Chinese Furniture: A Collector's Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7124266) (Singapore: Times Books International, 1994) (Call no. RSING 749.295957 HO)
 
 [^5]: Kebaya - the full dress comprises a blouse and a sarong skirt. The intricately embroidered blouses of the nonya, through the technique known as sulam, would have delicate holes enhancing the designs of flowers, peacocks and other aspects of nature. Kasut manek - the beaded slippers were made of manek potong. The beads had cut sides that added to the glitter in the design of flowers and nature.
 
@@ -93,6 +99,3 @@ More importantly, through the publication of *A Baba Bibliography*, it was found
 [^15]: Tan Chee Beng, [_The Baba of Melaka: Culture and Identity of a Chinese Peranakan Community in Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4829447) (Selangor: Pelanduk. Publications, 1988). (Call no. RSEA 305.89510595118 TAN)
 
 [^16]: Rudolph, [_Reconstructing Identities_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9190304).
-
-
-
