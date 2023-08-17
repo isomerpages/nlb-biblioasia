@@ -54,9 +54,12 @@ In the 1980s, several ethnographic studies and landmark publications on the soci
 
 The Baba community gained a new dimensionality as they were studied within the context of their time, complementing specific studies of rituals and aspects of the community. The beautifully illustrated and well-researched tome by Khoo Joo Ee (1996) *The Straits Chinese: A Cultural History* is such an example: it captures both the intricacies of the material culture as well as the issues of social identity among the Babas of Penang.
 
-Both the broad study of the Baba community and the specific papers on ritualistic aspects of Baba culture are listed in the bibliography. Added to these are area studies of the Babas in Singapore, Penang and Malacca and broader studies of Babas. The latter compares the Babas to the acculturated Chinese in Southeast Asia and the related acculturated nonChinese such as the Chetty Melaka, the Adjarns of Phuket and the Peranakan-like Chinese in Kelantan and Terengganu.
+Both the broad study of the Baba community and the specific papers on ritualistic aspects of Baba culture are listed in the bibliography. Added to these are area studies of the Babas in Singapore, Penang and Malacca and broader studies of Babas. The latter compares the Babas to the acculturated Chinese in Southeast Asia and the related acculturated non-Chinese such as the Chetty Melaka, the Adjarns of Phuket and the Peranakan-like Chinese in Kelantan and Terengganu.
 
+#### **Future Writings on the Babas**
+The lines between social and material culture, physical and spiritual space, past and present, are seldom static. Thus, as the community evolves and questions of identity continue to be raised, it is hoped that *A Baba Bibliography* may serve as a resource to nurture new interpretations of what makes a Baba.
 
+More importantly, through the publication of *A Baba Bibliography*, it was found that many unique resources on the Babas were not available in the National Library of Singapore. Patrons of the Baba community are thus encouraged to donate their own wealth of resources to the National Library so that a wider community can glean from the treasures of their forefathers and the generation of today can appreciate afresh the wisdom of the past.
 
 
 
