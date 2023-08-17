@@ -60,3 +60,39 @@ Both the broad study of the Baba community and the specific papers on ritualisti
 The lines between social and material culture, physical and spiritual space, past and present, are seldom static. Thus, as the community evolves and questions of identity continue to be raised, it is hoped that *A Baba Bibliography* may serve as a resource to nurture new interpretations of what makes a Baba.
 
 More importantly, through the publication of *A Baba Bibliography*, it was found that many unique resources on the Babas were not available in the National Library of Singapore. Patrons of the Baba community are thus encouraged to donate their own wealth of resources to the National Library so that a wider community can glean from the treasures of their forefathers and the generation of today can appreciate afresh the wisdom of the past.
+
+#### **NOTES**
+[^1]: Various scholars and Baba authors have made a distinction between the terms Straits Chinese, Straits-born Chinese, Peranakan Chinese and Baba. In fact, technically, the term Baba refers to the men within the community and Nonya refers to the women. Jeurgen Rudolph, [_Reconstructing Identities: A Social History of the Babas in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9190304) (Aldershot: Ashgate, 1998). (Call no. RSING 305.80095957 RUD), however, notes that in the pre-war Straits Settlements, such distinction of terms were not always implied and the names were often used interchangeably for the Baba community. For the sake of simplicity, the community is referred to as Baba in this essay.
+
+[^2]: Early Chinese records indicate that Chinese settlements were in Malacca much earlier but the beginnings of an acculturated Chinese community is often traced from the 16th century.
+
+[^3]: John de Souza, “[Scholar, Writer, Collector](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840611-1.2.60.2),” _Straits Times_, 11 June 1984, 1. (From NewspaperSG)
+
+[^4]: At least three of his publications were published in the 1980s while the fourth was published in the 1990s – Ho Wing Meng, [_Straits Chinese Porcelain: A Collector’s Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082317) (Singapore: Times Books International, 1983) (Call no. RSING 738.209595 HO); Ho Wing Meng, [_Straits Chinese Silver: A Collector’s Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082318) (Singapore: Times Books International, 1984) (Call no. RSING 739.237595 HO); Ho Wing Meng, [_Straits Chinese Beadwork & Embroidery: A Collector’s Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4467095) (Singapore: Times Books International, 1987) (Call no. RSING 746.509595 HO); Ho Wing Meng, [_Straits Chinese Furniture: A Collector's Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7124266) (Singapore: Times Books International, 1994) (Call no. RSING 749.295957 HO)
+
+[^5]: Kebaya - the full dress comprises a blouse and a sarong skirt. The intricately embroidered blouses of the nonya, through the technique known as sulam, would have delicate holes enhancing the designs of flowers, peacocks and other aspects of nature. Kasut manek - the beaded slippers were made of manek potong. The beads had cut sides that added to the glitter in the design of flowers and nature.
+
+[^6]: Kerosangs - often in a set of three and made of gold, set with cut diamonds, the Kerosang acted as brooch-like buttons for the baju kebaya or the blouse of the kebaya.
+
+[^7]: Datin Seri Endon Mahmood published two books on the Nonya kebaya, namely [_The Nyonya Kebaya: A Showcase of Nyonya Kebayas From the Collection of Datin Seri Endon Mahmood_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11892628) (Kuala Lumpur: The Writers' Pub. House Sdn Bhd, 2002) (Call no. RSEA q746.92 NYO) and Endon Mahmood, [_The Nyonya Kebaya: A Century of Straits Chinese Costume_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12395044) (Singapore: Periplus, 2004). (Call no. RSING q391.209595 END). Her collection was also exhibited in both Malaysia and Singapore museums, attracting a large following.
+
+[^8]: The J. V. Mills translated the Portuguese publication into English in the Journal of the Malayan Branch of the Royal Asiatic Society in 1930, J. V. Mills, Eredia’s Description of Malacca, Meridonial India and Cathay, Journal of the Malayan Branch of the Royal Asiatic _Society_ 8, no. 1 (109) (April 1930): 1–288. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^9]: Bird Isabella, [_The Golden Chersonese: The Malayan Travels of a Victorian Lady_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5767211) (Singapore: Oxford University Press, 1990). (Call no. RSING 959.5 BIS)
+
+[^10]: Jonas Daniel Vaughan, “Notes on the Chinese of Pinang,” [_The Journal of the Indian Archipelago and Eastern Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604) 8 (1854): 1–27. (Call no. RRARE 950.05 JOU; microfilm NL1891)
+
+[^11]: In Singapore, Lee Kuan Yew and Goh Keng Swee were some individual Babas who took on the mantle of political leadership while in Malaysia, the Malaccan Baba Tan Cheng Lock and thereafter his son, Tan Siew Sin, reigned as heads of the Chinese political party and as Finance Ministers.
+
+[^12]: Cheo Kim Ban, [_A Baba Wedding_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082390) (Singapore: Eastern Universities Press, 1983). (Call no. RDLKL 392.5 CHE). This was just one of many articles and publications on the elaborate Baba wedding.
+
+[^13]: John R. Clammer, [_Straits Chinese Society: Studies in the Sociology of Baba Communities of Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233) (Singapore: Singapore University Press, 1980). (Call no. RSING 301.45195105957 CLA)
+
+[^14]: Felix Chia, [_The Babas_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080120) (Singapore: Times Books International, 1980) (Call no. RSING 301.45195105957 CHI); Felix Chia, [_Ala Sayang!_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082389) (Singapore: Eastern Universities Press, 1983) (Call no. RDLKL 301.45195105957 CHI); Felix Chia, [_The Babas Revisited_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6790835) (Singapore: Heinemann Asia, 1994). (Call no. RSING 309.895105957 CHI)
+
+[^15]: Tan Chee Beng, [_The Baba of Melaka: Culture and Identity of a Chinese Peranakan Community in Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4829447) (Selangor: Pelanduk. Publications, 1988). (Call no. RSEA 305.89510595118 TAN)
+
+[^16]: Rudolph, [_Reconstructing Identities_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9190304).
+
+
+
