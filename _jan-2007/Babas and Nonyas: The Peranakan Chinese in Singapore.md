@@ -58,8 +58,8 @@ jewellery, attire and dress sense.
 #### **Social Life**
 The Baba community expresses its values through ritual practice and social interactions. Early studies of the community focus on descriptions of the early Chinese settlement in the coastal city of Malacca. Malaccan-born De Eredia (1613),[^8] a navigator and explorer, made some of the earliest observations of the community. However, it was later colonials and adventurers who captured the unique expressions and style of the Babas. Isabella Bird (Isabella Bishop) described the Anglo-Chinese and their peculiarities in some detail[^9] in her famed publication *The Golden Chersonese*, published in 1883. Vaughan had, as early as the 1850s, written notes on the Penang Chinese[^10] but it is his *Manners and Customs of the Chinese*, published in 1879, that provided a detailed analysis of the Straits Chinese. Victor Purcell, who had served in the Malayan Civil Service between 1921 and 1946, continued an in-depth description of the Chinese from the Occupation to the post-war period, based on research conducted in the 1930s.
 
-<img src="/images/Vol%202%20Issue%204/NonyasBabas/porcelain%20cups.jpg" style="width:50%;">
- <div style="background-color: white;">Porcelain ware in typical Nonys colours.</div>
+<img src="/images/Vol%202%20Issue%204/NonyasBabas/porcelain%20cups.jpg" style="width:80%;">
+ <div style="background-color: white;">Porcelain ware in typical Nonyas colours.</div>
 
 After the war, the Straits Chinese British Associations of Singapore, Malacca and Penang voiced the struggles of the Babas in retaining their treasured British rights in the face of an increasing nationalistic fervour that sought to throw off colonial restraints. While individual Babas took on key political leadership posts in the fledgling nations of Singapore and Malaysia,[^11] the Baba community itself was being derided for its political apathy. Much of the struggle with its sense of political and nationalistic identity can be found in newspapers and magazine articles of the period.
 
