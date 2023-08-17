@@ -74,8 +74,22 @@ Dr Lim and his father-in-law, Wong Nai Siong, also bought over a Chinese newspap
 
 Being a prolific writer, Dr Lim wrote many books and did some translations or Elements of Popular Hygiene (1911) and published in 1911  or Principles of Confucianism (1914) were two examples of his Chinese works. Examples of his English publications include The Chinese Crisis from Within (1901), The Great War from the Confucian Point of View, and Kindred Topics: Being Lectures Delivered during 1914–1917 (1917), Tragedies of Eastern Life: An Introduction to the Problems of Social Psychology (1927), and The Li Sao: An Elegy on Encountering Sorrows (1929).
 
+#### **Outstanding Pioneer**
+Dr Lim received several eminent awards in his life. In 1918, he received the Order of the British Empire in recognition of his public service. He was also decorated with the Commander Crown of Italy, and received the Albertus Medal of Saxony. The Qing Government awarded him the Wen Hu Jiang  and the Jia He Jiang. In 1919, he received an honorary Doctor of Laws from the Hong Kong University. In 1930, he was made an F.R.C.S. (London).
 
+After the war, in contrast to his illustrious pre-World War II years, Dr Lim lived his last 12 years as a recluse.
 
+The Straits Times interviewed him twice. Once was in 1948, at his 80th birthday, when he was quoted as "The Sage of Singapore". Asked for his recipe for a ripe, old age, he replied, "I have no recipes or formulas. The main thing I would say to you, if you want to go on living, is: Don't worry, and don't cry over split milk" (Ferroa, 1948).
+
+The other interview was done in 1956, at his 88th birthday. It was reported that he spent most of his time reading books and newspapers. He regarded himself as a graduate in the art of living who had majored in tolerance (Morgan, 1956). As Singapore society was then being rocked by riots and strikes, Dr Lim took the opportunity to urge the Chinese community to:
+
+ <i> Go forward in friendship with other communities towards<br>  the common goal of a unified interracial family.<br>  Accept and adjust yourselves to change in the interest<br>  of all.<br>  Grasp every opportunity for education because ignorance<br>  is a sin (Morgan, 1956). </i> 
+
+On 1 Jan 1957, Dr Lim Boon Keng passed away peacefully at 5.46am. His passing marked the end of a man who gave selflessly towards improving the Chinese community during colonial times. 
+
+**Book Launch** (24 January 2007)<br> Conference: Lim Boon Keng and the Straits Chinese: There will be a book launch of the republished edition of Dr Lim Boon Keng's seminal work, *The Chinese Crisis from Within*. <br>**Musical** (24 January 2007)<br> A half-hour programme of songs from the musical One Voice by Stella Kon will be presented on the day of the book launch. It was inspired by the life and times of Dr Lim Boon Keng. Stella Kon will introduce the musical, which she wrote in tribute to her great-grandfather, Dr Lim.<br> **Exhibition: Lim Boon Keng: A Life to Remember** (24 January 2007 - 18 March 2007)<br> This exhibition will feature the multi-faceted life of Dr Lim, and present issues on the identity, ideals and social problems of Singapore and Chinese society during his lifetime.<br>**Conference: Lim Boon Keng and the Straits Chinese: A Historical Reappraisal** (27 January 2007)<br>
+At a full-day conference held at the National Library, academics will present their research on Dr Lim and the Straits Chinese. Associate Professor Philip Holden will start with a biographical account of the pioneer, and this will be followed by two sessions on Dr Lim and his times, as well as issues on Straits Chinese history. Associate Professor Lee Guan Kin will also deliver a public lecture in Mandarin, covering "The Boon Keng Pavilion at Xiamen University: History Recovered, Nanyang Link Reconnected". There will be a simultaneous translation in English for her lecture.
+ 
 
 
 
