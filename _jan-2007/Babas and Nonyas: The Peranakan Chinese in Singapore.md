@@ -22,6 +22,9 @@ Most studies on the Babas focus on specific subjects such as literature and lang
 #### **Stories From Long Ago**
 When discussing Baba writings, the traditional stories of the Babas, known in short as *Chrita dahulu-kala*, or "Stories of long ago", published between the late 19th century and the early 20th century, come to mind. These publications are Baba Malay translations of Chinese classics, adventures and romance.
 
+<img src="/images/Vol%202%20Issue%204/NonyasBabas/baba%20cherita%20bahulu%20kala.jpg" style="width:50%;">
+ <div style="background-color: white;">Advertising in <i>Cherita Dahulu Kala</i> - the Baba Malay translations of Chinese classics.</div>
+
 Studies of these publications often focus on their holdings in various libraries in Asia and the West. Salmon &amp; Destenay's (1977) *Writings in Romanized Malay by the Chinese of Malaya* was one of the earliest to detail the holdings of these titles in various libraries, including the British Library, the National Library in Singapore and the Dewan Bahasa Library in Kuala Lumpur. This was followed by an analysis by Tan (1981) and Proudfoot (1989, March), with added information on publishing histories. The most recent studies are by Yoong (2001, 2002, 2004), which besides reviewing holdings and publishing trends, has categorised the titles by types of stories and studied the persons behind the publications, including translators, illustrators and publishers.
 
 Most studies indicate that the National Library in Singapore has less than 30 such titles, but the process of compiling this bibliography uncovered at least 44 distinct titles of these unique translations. Many were donated by Linda Lim through the National Museum in 1986. These have been microfilmed and are stored along with other purchased microfilm titles to provide access to a wider range of such titles.
