@@ -7,7 +7,7 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/covers/ba3-3-v2.jpg)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue-3/oct-2007/director-column">Director's Column</a>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue3/oct-2007/director-column">Director's Column</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-3/issue3/oct-2007/indian-migration-british-malaya-singapore">Indian Migration into Malaya and Singapore During the British Period</a>
 <br>Hailing from the Indian subcontinent – which comprises India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and the Maldives – Indians have played an important role in the historical, economic, cultural and political development of Singapore. [(PDF)](/files/pdf/vol-3/issue-3/v3-issue3_IndianMigration.pdf)
