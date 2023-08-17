@@ -29,6 +29,23 @@ His contributions to the medical field extended beyond Singapore shores. Apart f
 
 In 1895, at a young age of 26, Dr Lim was appointed as a Chinese member of the Straits Settlements Legislative Council. For more than 10 years, he was nominated repeatedly for this position. For several years, he also served as a Justice of Peace, a Municipal Commissioner and a member of the Chinese Advisory Board. He was also very active in participating in major events related to the British colonial government, attending the coronation of King Edward VII and King George V in 1902 and 1911 respectively (Song, 1984). He even wrote an article about the Diamond Jubilee in the *Straits Chinese Magazine* in 1897.
 
+#### **Lim Boon Keng, The Businessman**
+Lim Boon Keng's business acumen led him to initiate rubber planting in Malaya, after listening to the advice of Henry Nicholas Ridley, then the Director of the Singapore Botanic Gardens. Believing that there would be good prospects for this business venture, Dr Lim pioneered large-scale rubber planting with Mr Tan Chay Van of Malacca. Those who heeded his call to start rubber plantations enjoyed a booming success.
+
+The accomplished businessman also helped to establish the Singapore Chinese Chamber of Commerce in 1906, joining the Chamber as a member. He also established three banks with other prominent Straits Chinese: the Chinese Commercial Bank, the Ho Hong Bank and the Oversea-Chinese Bank.
+
+Being passionate about improving the life of Straits Chinese and the Chinese community, Dr Lim and his friends also formed a number of societies, started a magazine, ran a newspaper, founded a school for girls and started a Mandarin class.
+
+#### **Lim Boon Keng, The Education Advocate**
+
+In 1896, he started the Chinese Philomathic Society with the support of other prominent Chinese. The Society's main focus was to study English literature, Western music and the Chinese language. In 1919, together with Tan Jiak Kim, Seah Liang Seah and Song Ong Siang, Dr Lim co-founded the Straits Chinese British Association, which served as a voice for the Straits Chinese, and was elected president twice in its first two decades. He was also a member of the Ee Hoe Hean Club, which was set up in 1895 and is one of the oldest Chinese clubs in Singapore.
+
+Concerned by the low literacy levels of Straits Chinese women, Dr Lim co-founded the Singapore Chinese Girls' School with Song Ong Siang in 1899. That year, on 1 July, the school opened with seven Straits Chinese girls as students. It was located at the junction of Hill Street and Armenian Street, next to the Masonic Hall, (Ooi, 1999).
+
+In an attempt to popularise the learning of Mandarin, he started Mandarin classes in his house in 1898, drawing a steadily increasing number of students. The "old and young were attracted not only by his new method of teaching Chinese, but also by his eloquent lectures on Confucius and Confucian teachings ... " (Kiong, 1907).
+
+Dr Lim also urged the use of Chinese as a medium of instruction for Chinese children, in addition to English. In one of the issues of the Straits Chinese Magazine, he wrote that it was impossible to cut adrift from a nation all its traditions and yet expect it to prosper; for far away from its historical and radical connections, a people, like a tree severed from its roots, must wither away and degenerate (Lim, 1897). He believed that Chinese children should be trained in two languages, so as to retain their ethnic roots while still being able to contribute to the society economically.
+
 
 
 
