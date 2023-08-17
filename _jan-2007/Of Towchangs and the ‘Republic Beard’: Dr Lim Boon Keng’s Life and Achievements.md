@@ -46,6 +46,36 @@ In an attempt to popularise the learning of Mandarin, he started Mandarin classe
 
 Dr Lim also urged the use of Chinese as a medium of instruction for Chinese children, in addition to English. In one of the issues of the Straits Chinese Magazine, he wrote that it was impossible to cut adrift from a nation all its traditions and yet expect it to prosper; for far away from its historical and radical connections, a people, like a tree severed from its roots, must wither away and degenerate (Lim, 1897). He believed that Chinese children should be trained in two languages, so as to retain their ethnic roots while still being able to contribute to the society economically.
 
+#### **Lim Boon Keng, The Patriot**
+Apart from serving the Chinese community in Singapore, he also played a large role in the politics of China as an overseas Chinese. In 1900, when China's prominent reform movement leader Kang Youwei was in exile in Singapore, Dr Lim was briefly involved in ensuring his safety. Later, Dr Lim assisted Dr Sun Vat-sen in raising funds and recruiting supporters.
+
+He recalled later that after attending the coronation of King George V in 1911, he went to Dresden, Germany, where he took charge of the Chinese pavilion at a Health and Hygiene Exhibition. When he received news of the Chinese Revolution, he immediately left for China and stayed at Hankow with Dr Sun Vat-sen. While in China, he witnessed the birth of the Chinese Republic. The training that he had received during the four years he spent with the Chinese Company of the Singapore Volunteer Infantry from 1901 was likely put to good use then (Ferroa, 1948).
+
+During the days of the revolution, Dr Lim grew a beard which he called the "Republic Beard". He kept it for the rest of his life. In 1911, he was appointed medical adviser to the Chinese Ministry of the Interior as well as Inspector-General of Hospitals in Peking, and in 1912, as confidential secretary and personal physician to Dr Sun Yatsen. He became one of the original principal officials of Singapore's Kuomintang branch in 1913 (Png, 1961).
+
+When World War I broke out, he put his talent in fund raising to use again, lending his support to the British colonial government by getting Straits Chinese to contribute funds to the Prince of Wales Relief Fund and towards the purchase of warplanes.
+
+Dr Lim's relationship with China did not end there. In 1921, at the age of 52, he accepted Tan Kah Kee's invitation to be the president of Xiamen University (University of Amoy), and for the next 16 years, devoted himself to running the University.
+
+When the Depression came about in 1929, it threw more challenges at the pioneer. Insufficient funds prompted him to travel to the Philippines, Indonesia and Singapore to secure funds from overseas Chinese for the university. Unfortunately, he could not get along with lecturers and students who did not agree with his education ideology (.!:I', 1985). All these contributed to his resignation from the university later, after which he finally settled down in Singapore for good in 1937.
+
+In 1942, World War II broke out in Singapore. At the age of 73, Dr Lim was forced by the Japanese to lead the Overseas Chinese Association. Surrounded by Japanese spies and informers and the Kempeitai', the Association was formed by the Japanese to serve the needs of the Chinese community. Dr Lim was ordered to raise a 'donation' of $50 million for Japan on behalf of all Malayan Chinese. He alone was expected to come up with $2,200. Unable to meet this request, he took to drinking to forget his worries.
+
+Fortunately, his former students helped him raise the sum. However, it was an impossible task to raise $50 million. When the deadline was up, Chinese leaders from all the states had to suffer verbal abuses. Dr Lim gave an emotional retort, "We never told a lie. When we promised to give the military contribution, we meant to do it. Financial conditions are now such as to be beyond our control. If we are unable to pay, then die we will. I wish to point out, however, that the manner in which the Government raises this military contribution is without any parallel in any country" (Tan, 1947). This issue was solved later with a loan from the Yokohama Specie Bank for the outstanding $22 million.
+
+The Japanese did not pass up any opportunities to make use of Dr Lim while carrying out their propaganda activities. A member of Force 136, Lin Jinquan, remembered that Dr Lim was so upset by a Japanese that he attempted to commit suicide. Another Force 136 member, Lin Shuyan, also recalled that Dr Lim would get drunk and say he wanted to dance. Once, while drunk, he cried and said that he should not have done all the things he had been doing (1985).
+
+#### **Lim Boon Keng, The Author**
+Dr Lim and Song Ong Siang started the *Straits Chinese Magazine*, and served as its editors. This quarterly magazine ran for 11 years from 1897 to 1907. Dr Lim contributed no less than 20 articles to the magazine, mainly covering health issues, his ideas on various social reforms, and Confucianism.
+
+In 1899, he started writing about social reforms, covering the question of whether Chinese should keep their queues, dress and costume, the education of children, religion, filial piety and funeral rites. His call to Chinese men A copy of this is available in the National Library to remove the queue (also known as the towchang), in particular, caused an uproar.2 Even in his later years, he continued to stand by his conviction that long hair was unnecessary, unhygienic and disgraceful to the Chinese. It represented an era of Subjugation (Morgan, 1956). He also condemned the smoking of opium in the Chinese community and wrote numerous articles in support of Confucian practices. Some of the concepts that he brought up included Confucian cosmogony and theism; the basis of Confucian ethics; the Confucian doctrine of brotherly love; the status of women under a Confucian regime; Confucian code of conjugal harmony and Confucian ethics of friendship.
+
+Dr Lim and his father-in-law, Wong Nai Siong, also bought over a Chinese newspaper, Xing Bao and renamed it Ri Xin Bao. Once again, this paper became a medium for him to reach out to the Chinese community. In order to broaden the horizon of this community, he included international news and reports on science and technology in the Western countries. Unfortunately, the paper ran for only two years because of financial problems (1985).
+
+Being a prolific writer, Dr Lim wrote many books and did some translations or Elements of Popular Hygiene (1911) and published in 1911  or Principles of Confucianism (1914) were two examples of his Chinese works. Examples of his English publications include The Chinese Crisis from Within (1901), The Great War from the Confucian Point of View, and Kindred Topics: Being Lectures Delivered during 1914–1917 (1917), Tragedies of Eastern Life: An Introduction to the Problems of Social Psychology (1927), and The Li Sao: An Elegy on Encountering Sorrows (1929).
+
+
+
 
 
 
