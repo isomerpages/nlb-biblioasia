@@ -45,6 +45,9 @@ Fuelled by this influx of material culture, museums began to focus on exhibition
 
 Philosophy lecturer, Ho Wing Meng, turned his hobby[^3] of collecting Straits Chinese material into four publications, published in the 1980s[^4], analysing the Baba material culture. The detailed photographs in these publications, as well as exhibition guides and auction brochures published around the same period, increased the interest in the material wealth of the Babas of the past. The pink-blue and yellow-green of nonya ware are reflected in similar colours in their *kebaya* and *kasut manek*.[^5] Singapore's Peranakan Association saw younger members join, many seeking to savour the culinary fare of the true-blue Nonya or to acquire a set of *kerosangs*[^6]  to accompany their new kebayas or develop a new hobby in *kasut manek* beadwork.
 
+<img src="/images/Vol%202%20Issue%204/NonyasBabas/peranakan%20association.jpg" style="width:50%;">
+ <div style="background-color: white;">The quarterly newsletter of the Peranakan Association.</div>
+
 Even as recent as the 21 st century, the late Datin Seri Endon Mahmood's patronage[^7]  of the *nonya kebaya* encouraged a revival in the making and use of these delicately embroidered dresses, and led both Malaysians and Singaporeans to acquire these as their own local costumes.
 
 Interestingly, although the hues and decorative details of things Baba seem so clearly defined today, there is limited information on a unique style that can be said as truly Baba. Whether it is architecture or jewellery, scholars do not seem to agree over a distinctly Straits Chinese style, although certain details may be construed as peculiar to the Babas. Even so, the mish-mash of styles reflecting the best of the Chinese, British or Malays as used by wealthy Straits Chinese have become acknowledged as typical of Baba taste and have today acquired a standing of high regard.
