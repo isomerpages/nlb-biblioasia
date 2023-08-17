@@ -51,7 +51,7 @@ Apart from serving the Chinese community in Singapore, he also played a large ro
 
 He recalled later that after attending the coronation of King George V in 1911, he went to Dresden, Germany, where he took charge of the Chinese pavilion at a Health and Hygiene Exhibition. When he received news of the Chinese Revolution, he immediately left for China and stayed at Hankow with Dr Sun Vat-sen. While in China, he witnessed the birth of the Chinese Republic. The training that he had received during the four years he spent with the Chinese Company of the Singapore Volunteer Infantry from 1901 was likely put to good use then (Ferroa, 1948).
 
-During the days of the revolution, Dr Lim grew a beard which he called the "Republic Beard". He kept it for the rest of his life. In 1911, he was appointed medical adviser to the Chinese Ministry of the Interior as well as Inspector-General of Hospitals in Peking, and in 1912, as confidential secretary and personal physician to Dr Sun Yatsen. He became one of the original principal officials of Singapore's Kuomintang branch in 1913 (Png, 1961).
+During the days of the revolution, Dr Lim grew a beard which he called the "Republic Beard". He kept it for the rest of his life. In 1911, he was appointed medical adviser to the Chinese Ministry of the Interior as well as Inspector-General of Hospitals in Peking, and in 1912, as confidential secretary and personal physician to Dr Sun Yat Sen. He became one of the original principal officials of Singapore's Kuomintang branch in 1913 (Png, 1961).
 
 When World War I broke out, he put his talent in fund raising to use again, lending his support to the British colonial government by getting Straits Chinese to contribute funds to the Prince of Wales Relief Fund and towards the purchase of warplanes.
 
@@ -59,7 +59,7 @@ Dr Lim's relationship with China did not end there. In 1921, at the age of 52, h
 
 When the Depression came about in 1929, it threw more challenges at the pioneer. Insufficient funds prompted him to travel to the Philippines, Indonesia and Singapore to secure funds from overseas Chinese for the university. Unfortunately, he could not get along with lecturers and students who did not agree with his education ideology (.!:I', 1985). All these contributed to his resignation from the university later, after which he finally settled down in Singapore for good in 1937.
 
-In 1942, World War II broke out in Singapore. At the age of 73, Dr Lim was forced by the Japanese to lead the Overseas Chinese Association. Surrounded by Japanese spies and informers and the Kempeitai,1 the Association was formed by the Japanese to serve the needs of the Chinese community. Dr Lim was ordered to raise a 'donation' of $50 million for Japan on behalf of all Malayan Chinese. He alone was expected to come up with $2,200. Unable to meet this request, he took to drinking to forget his worries.
+In 1942, World War II broke out in Singapore. At the age of 73, Dr Lim was forced by the Japanese to lead the Overseas Chinese Association. Surrounded by Japanese spies and informers and the Kempeitai,[^1] the Association was formed by the Japanese to serve the needs of the Chinese community. Dr Lim was ordered to raise a 'donation' of $50 million for Japan on behalf of all Malayan Chinese. He alone was expected to come up with $2,200. Unable to meet this request, he took to drinking to forget his worries.
 
 Fortunately, his former students helped him raise the sum. However, it was an impossible task to raise $50 million. When the deadline was up, Chinese leaders from all the states had to suffer verbal abuses. Dr Lim gave an emotional retort, "We never told a lie. When we promised to give the military contribution, we meant to do it. Financial conditions are now such as to be beyond our control. If we are unable to pay, then die we will. I wish to point out, however, that the manner in which the Government raises this military contribution is without any parallel in any country" (Tan, 1947). This issue was solved later with a loan from the Yokohama Specie Bank for the outstanding $22 million.
 
@@ -68,7 +68,7 @@ The Japanese did not pass up any opportunities to make use of Dr Lim while carry
 #### **Lim Boon Keng, The Author**
 Dr Lim and Song Ong Siang started the *Straits Chinese Magazine*, and served as its editors. This quarterly magazine ran for 11 years from 1897 to 1907. Dr Lim contributed no less than 20 articles to the magazine, mainly covering health issues, his ideas on various social reforms, and Confucianism.
 
-In 1899, he started writing about social reforms, covering the question of whether Chinese should keep their queues, dress and costume, the education of children, religion, filial piety and funeral rites. His call to Chinese men A copy of this is available in the National Library to remove the queue (also known as the towchang), in particular, caused an uproar.2 Even in his later years, he continued to stand by his conviction that long hair was unnecessary, unhygienic and disgraceful to the Chinese. It represented an era of Subjugation (Morgan, 1956). He also condemned the smoking of opium in the Chinese community and wrote numerous articles in support of Confucian practices. Some of the concepts that he brought up included Confucian cosmogony and theism; the basis of Confucian ethics; the Confucian doctrine of brotherly love; the status of women under a Confucian regime; Confucian code of conjugal harmony and Confucian ethics of friendship.
+In 1899, he started writing about social reforms, covering the question of whether Chinese should keep their queues, dress and costume, the education of children, religion, filial piety and funeral rites. His call to Chinese men A copy of this is available in the National Library to remove the queue (also known as the towchang), in particular, caused an uproar.[^2] Even in his later years, he continued to stand by his conviction that long hair was unnecessary, unhygienic and disgraceful to the Chinese. It represented an era of Subjugation (Morgan, 1956). He also condemned the smoking of opium in the Chinese community and wrote numerous articles in support of Confucian practices. Some of the concepts that he brought up included Confucian cosmogony and theism; the basis of Confucian ethics; the Confucian doctrine of brotherly love; the status of women under a Confucian regime; Confucian code of conjugal harmony and Confucian ethics of friendship.
 
 Dr Lim and his father-in-law, Wong Nai Siong, also bought over a Chinese newspaper, Xing Bao and renamed it Ri Xin Bao. Once again, this paper became a medium for him to reach out to the Chinese community. In order to broaden the horizon of this community, he included international news and reports on science and technology in the Western countries. Unfortunately, the paper ran for only two years because of financial problems (1985).
 
@@ -89,3 +89,41 @@ On 1 Jan 1957, Dr Lim Boon Keng passed away peacefully at 5.46am. His passing ma
 
 **Book Launch** (24 January 2007)<br> Conference: Lim Boon Keng and the Straits Chinese: There will be a book launch of the republished edition of Dr Lim Boon Keng's seminal work, *The Chinese Crisis from Within*. <br> <br>**Musical** (24 January 2007)<br> A half-hour programme of songs from the musical One Voice by Stella Kon will be presented on the day of the book launch. It was inspired by the life and times of Dr Lim Boon Keng. Stella Kon will introduce the musical, which she wrote in tribute to her great-grandfather, Dr Lim.<br><br>  **Exhibition: Lim Boon Keng: A Life to Remember** (24 January 2007 - 18 March 2007)<br> This exhibition will feature the multi-faceted life of Dr Lim, and present issues on the identity, ideals and social problems of Singapore and Chinese society during his lifetime.<br><br> **Conference: Lim Boon Keng and the Straits Chinese: A Historical Reappraisal** (27 January 2007)<br>
 At a full-day conference held at the National Library, academics will present their research on Dr Lim and the Straits Chinese. Associate Professor Philip Holden will start with a biographical account of the pioneer, and this will be followed by two sessions on Dr Lim and his times, as well as issues on Straits Chinese history. Associate Professor Lee Guan Kin will also deliver a public lecture in Mandarin, covering "The Boon Keng Pavilion at Xiamen University: History Recovered, Nanyang Link Reconnected". There will be a simultaneous translation in English for her lecture.
+
+#### **REFERENCES**
+“Chinese Christian Association,” [_Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) 2, no. 7 (September1989): 124. (Call no. RRARE 959.5 STR; microfilm NL267)
+
+Huang Yihua 黄溢华, “林文庆” \[Lim Boon Keng\] in _Yi he xuan jiu shi zhou nian ji nian te kan, 1895–1985_ [怡和轩九十周年纪念特刊, 1895–1985](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84563241) \[Nineteenth anniversay of Ee Hoe Hian Club, 1895–1985\] (\[Xinjiapo\] \[新加坡\]: Da shui niu chu ban ji gou 大水牛出版机构, 1985). (Call no. Chinese RSING 369.25957 YHX)
+
+Khor Eng Hee, [_The Public Life of Dr. Lim Boon Keng_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980432) (Singapore: University of Malaya, 1958). (Call no. RCLOS 361.924 LIM.K)
+
+Kiong Chin Eng, “The Teaching of Kuan Hua in Singapore,” [_Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) 11, no. 2 (1907): 105–8. (Call no. RRARE 959.5 STR; microfilm NL268)
+
+Li Yuanjin 李元瑾, _Dong xi wen hua de zhuang ji yu xin hua zhi shi fen zi de san zhong hui ying: Qiu Shuyuan, Lin Wenqing, Song Wangxiang de bi jiao yan jiu_ [东西文化的撞击与新华知识分子的三种回应 : 邱菽园、林文庆、宋旺相的比较研究](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10170732) \[The impact of Eastern and Western cultures and the three responses of Xinhua intellectuals: A comparative study of Qiu Shuyuan, Lin Wenqing, and Song Wangxiang\] (Xinjiapo 新加坡: Xinjiapo guo li da xue Zhong wen xi, Ba fang wen hua qi ye 新加坡国立大学中文系, 八方文化企业, 2001). (Call no. Chinese RSING 305.552095957 LYJ)
+
+Lim, Boon Keng, “Our Enemies,” [_Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) 1, no. 2 (1897): 52–58. (Call no. RRARE 959.5 STR; microfilm NL267)
+
+Llyod Morgan, “[Singapore’s Grand Old Man (88 Tomorrow) Calls for Tolerance in This Age of Change](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19561017-1.2.19),” _Straits Times_, 17 October 1956, 2. (From NewspaperSG)
+
+Ooi Yu-Lin, [_Pieces of Jade and Gold an Anecdotal History of the Singapore Chinese Girls’ School 1899–1999_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654045) (Singapore: Singapore Chinese Girls' School, 1999). (Call no. RSING 373.5957 OOI)
+
+Png Poh Seng, “The Kuomintang in Malaya,” _Journal of Southeast Asian History_ 2, no. 1 (March 1961): 1–32. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Roy Ferroa, “[The Sage of Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19481022-1.2.35),” _Straits Times_, 22 October 1948, 4. (From NewspaperSG)
+
+“[Singapore’s Grand Old Man Dies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19570102-1.2.8),” _Straits Times_, 2 January 1957, 1. (From NewspaperSG)
+
+Song, Ong Siang, [_One Hundred Years' History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287) (Singapore: Oxford University Press, 1984). (Call no. RSING 959.57 SON)
+
+Tan Yeok Seong, [_History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution From the Chinese in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4412532) (Singapore: Nanyang Book Co., 1947). (Call no. RDTYS 940.53109595 TAN)
+
+Ye Guan Shi 叶观仕, _Ma xin bao ren lu (1806–2000)_ [马新报人录 (1806–2000)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9841126) \[Who's who in the press, Malaysia &amp; Singapore (1806–2000)\] (\[Place of publication not identified\] \[S.l.\]: Ming ren chu ban she 名人出版社, 1999), 27. (Call no. Chinese RSING q 070.922595 WHO)
+
+#### **NOTES**
+[^1]: _Kempetai_ was the military police of the Imperial Japanese Army.
+
+[^2]: In China, the abolition of the queue came into force only when Dr Sun Yat-Sen formed the Republic of China (1911–1949)
+
+
+
+
