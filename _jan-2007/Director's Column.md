@@ -79,6 +79,3 @@ to seeing you at the Library, and happy reading!
 **Ms Ngian Lek Choh**<br> 
 Director<br> 
 National Library
-
-
-
