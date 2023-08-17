@@ -43,7 +43,7 @@ evolution of Singapore's history. One of these groups is
 the Peranakan community. Commonly known as Babas,
 the Peranakans playa significant role in shaping local culture
 with their food, beadwork and jewellry. To provide better
-access to the materials on Peranakan culture and history, a resource guide, A Baba Bibliography, with more than 1,500
+access to the materials on Peranakan culture and history, a resource guide, *A Baba Bibliography*, with more than 1,500
 annotated citations of books, chapters in books, magazine
 and newspaper articles, websites and audiovisual materials
 on the subject, will be published in the coming months.
@@ -54,9 +54,9 @@ in this issue discusses this in detail.
 To assist you in getting a deeper insight into the lives of our
 pioneers, I am pleased to say that you can consult reference
 sources authored by pioneers available at the National Library.
-One item is Chinese Crisis from Within, articles on the political
+One item is *Chinese Crisis from Within*, articles on the political
 situation of China written by Dr Lim Boon Keng. Another is
-One Hundred Years' History of the Chinese in Singapore, which
+*One Hundred Years' History of the Chinese in Singapore*, which
 is also available online in the Digital Library. Written by Mr
 Song Ong Siang, a prominent Straits Chinese leader in 1923,
 the title is an authoritative source on the Chinese community
@@ -64,8 +64,8 @@ in Singapore then. You can also find other books written
 about the pioneers of Singapore; some of them though, may
 only discuss a particular pioneer. To help you with your
 reference and research, the National Library has compiled
-and published a bibliography, Prominent Singaporeans: Sources
-of Information, to guide you in locating relevant materials
+and published a bibliography, *Prominent Singaporeans: Sources
+of Information*, to guide you in locating relevant materials
 more effectively. The research guide is available in the Digital
 Library (<a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a>) located under "e-Resources,
 e-Collections" .
