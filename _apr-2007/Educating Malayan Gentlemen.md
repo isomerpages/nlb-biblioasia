@@ -88,7 +88,7 @@ This means concretely that these native elite were specifically taught to regard
 
 They were also taught to naturalise European superiority in relation to themselves, and to valorise the British as rulers who were the most desirable to have, especially in comparison with their own native rulers.
 
-<img src="/images/Vol%203%20Issue%201/group%20of%20men.jpg" style="width:80%;">
+<img src="/images/Vol%203%20Issue%201/EducatingMalay/group%20of%20men.jpg" style="width:80%;">
  <div style="background-color: white;"> <i>Picture reproduced from One Hundred Years' History of the Chinese in Singapore.  All rights reserved, Murrary, 1923.</i></div>
 
 This can be clearly seen, for example, in this textbook for the Malayan Cambridge 0 levels, in a historical lesson on Raffles:
