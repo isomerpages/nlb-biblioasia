@@ -54,19 +54,19 @@ For now, though, the year was still 1941, the territory of Singapore still gover
 
 Lee Ah Boon was seven, already a year late, as Hia liked to remind him. Hia, now nine, had taken his first trip on his sixth birthday. But while Hia at six had been a boy with plump, tanned arms and strong calves like springs that could propel him over the low wooden fence at the perimeter of the kampong, Ah Boon at seven was still cave-chested, with the scrawny limbs and delicate hands of a girl. Despite as much time spent in the sun as his brother, Ah Boon's skin retained its milky pallor, as fine as the white flesh of an expensive fish steamed to perfection. Hence his nickname.<br><br>
  
-	"Bawal!"<br><br>
+"Bawal!"<br><br>
  
- At the sound of his brother's voice, Ah Boon sprang away from the boat's side. In the weak moonlight the sea around them appeared as viscous black oil, roiling gently in the breeze. He shuddered to think what could be waiting beneath its pleated surface.<br><br>
+At the sound of his brother's voice, Ah Boon sprang away from the boat's side. In the weak moonlight the sea around them appeared as viscous black oil, roiling gently in the breeze. He shuddered to think what could be waiting beneath its pleated surface.<br><br>
  
- "Scared, ah, Bawal?"<br><br>
+"Scared, ah, Bawal?"<br><br>
  
 Hia clambered toward Ah Boon, stepping over the ropes and nets that littered the floor of the small boat. He moved with a careless, threatening ease, like the foot-long monitor lizards that scuttled through the tall grass around the kampong. Hia grabbed Ah Boon's shoulders, turning his torso out toward the sea.<br><br>
  
- "Wah, so brave!"<br><br>
+"Wah, so brave!"<br><br>
  
  Hia pushed his brother suddenly, as if to tip him out of the boat. The sea lurched up toward Ah Boon's face and he clawed at the side, letting out a small whimper.<br><br>
  
- "You know," Hia said. "Pa never tell you everything about your first trip out. He never tell you about the night swim, hor?"
+"You know," Hia said. "Pa never tell you everything about your first trip out. He never tell you about the night swim, hor?"
 </div>
 
 Rachel  
