@@ -32,3 +32,20 @@ The exhibition also travelled to Malaysia. It was exhibited at the Pachui Art Ga
 Perhaps the cultural imagining then was still that of *xinma yijia* (Singapore and Malaysia was still one family). In all, 86 pieces were shown at the KL show and according to See Ye Wah, See Cheen Tee's daughter, they sold well.
 
 However, the 1966 woodcut show marked the end of an era. Ironically, it was the first and the last of its kind in Singapore. Of the six artists, See Cheen Tee passed away in 1996. Though the medium was still being practised to a certain extent, local artists perhaps never really saw a need for another exhibition of woodcut prints.
+
+#### **Woodcuts in Singapore After 1966**
+Woodcuts was popular in the post war years because the medium was suitable for the publication of black and white artwork in the It was also a good way for artists to make extra 'pocket money' by contributing woodblock print to the press for publication, much like some artists dabbling in cartooning and caricatures then. But with the improvement of printing technology which enabled newspapers to publish in colour, woodblock prints declined in popularity among newspapers editors and artists. It was no longer 'lucrative' to do woodcuts as that outlet for publication in the newspapers 
+
+Not many artists were keen to follow up with doing woodblock prints in colour as it became too labour intensive and difficult. Only a few artists like See Cheen Tee, Lee Boon Wang and Tan Tee Chie excelled in this new development of the medium. The wood used for the medium was also getting hard to find in Singapore.
+
+In a bid to support the practice of the woodcut medium, the Singapore Chinese Teachers' Association's publication, *Xing Jia Bo Qing Nian* (Singapore Ching Lien or Youths of Singapore) featured a woodcut print on every of its cover for the first 3D issues or so since its inception from April 1973. Most of the works were by the six artists and with others from founding editor Ho Kah Leong, Ng Yat Chuan (Huang Yiquan), Qiu Gao Peng and some of Qiu's students from Hua Yi Secondary school. The publication continued till 2003, but from the 1990s, the prints it featured in its pages were mainly from China. Its last editor was Yeap Chong Leng.
+
+From the 1970s to the late 1980s, woodcut was a rather popular choice for many art students of secondary schools and junior colleges as a medium for their examination art project. Publications such as *Banhua Shijie* (Print World) and *Banhua Yishu* (Print Art) from China were readily available as reference materials. However, it was the *Selected Woodcuts* by Tan Tee Chie published by NAFA in May 1975 that gave Singapore its first and only book on woodcuts by a local artist.
+
+While the focus on woodcuts dwindled, printmaking as a medium did not. The Contemporary Printmaking Association was formed in 1979 to promote printrnakhg (which included etching, lithography, silk screen and etc.) as an art forrn. The Association also regularly organised local and international shows. The awareness of printmaking was given a further boost when La Salle School of the Arts offered printmaking as one of the major areas of study in the mid-1980s. In 1998, the Association changed its name to Printmaking Society (Singapore). The year also marked a significant showing of woodcuts again after a very long absence since the 1966 show when the Society co-organised with the Singapore History Museum the exhibition, 'History through Prints: Woodblock Prints in Singapore'. The exhibition brought together the many outstanding works of our post war woodcut practitioners, rekindling many old memories and igniting the interest of a younger generation in this almost forgotten medium.
+
+The new millennium saw a smaller scale woodcut exhibition, Singapore in Prints: 1950s to 1960s - A Historical Narrative Through Woodblock Prints, held at the National University of Sigapore Museum in 2002. Earlier this year, Lim Mu Hue held a solo exhibition of woodcut works, entitled Woodcut Prints at the Hainan Clan Association, which also saw the publication of a catalogue of the same name.
+
+
+
+
