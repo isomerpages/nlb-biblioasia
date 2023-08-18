@@ -214,4 +214,4 @@ Thank you. Thank you.
 [Music playing]
 
 Jimmy  
-If you've enjoyed this episode, subscribe to the podcast and the BiblioAsia newsletter.
+If you've enjoyed this episode, [subscribe to the podcast](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) and the [BiblioAsia newsletter](https://form.gov.sg/616799db4d9b61001398f79b).
