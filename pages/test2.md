@@ -38,9 +38,9 @@ Can you read us something from your book, please?
 Rachel  
 So I'm going to read from right from the beginning of the book, so this is where it starts.
 
-<div style="background-colour:#fff6ba; padding:10px; margin:&nbsp;0px;&nbsp;font-size:120%; background: #fff6ba">
+<div style="background-colour:#fff6ba; padding:10px; margin:&nbsp;0px;&nbsp;font-size:130%; background: #fff6ba">
 
-Decades later, the kampong would trace it all back to this very hour, waves draining the light from this slim, hungry moon. Decades later, they would wonder what could have been had the Lees simply turned back, had some sickness come upon the father manning the outboard motor, or some screaming fit befallen the youngest, forcing them to abandon the day's work and steer their small wooden craft home. Decades later, they would wonder if any difference could have been made at all.
+Decades later, the kampong would trace it all back to this very hour, waves draining the light from this slim, hungry moon. Decades later, they would wonder what could have been had the Lees simply turned back, had some sickness come upon the father manning the outboard motor, or some screaming fit befallen the youngest, forcing them to abandon the day's work and steer their small wooden craft home. Decades later, they would wonder if any difference could have been made at all.<br>
  
  Or would past still coalesce into present: The uncle dying the way he did, an outcast burned to blackened bone in a house some said was never his anyway. The kampong still destroyed, not swallowed whole by the waves in accordance with some angry god's decree, as the villagers had always feared, but taken to pieces and sold for parts by the inhabitants themselves. If the little boy, the sweetest, most sensitive boy in the kampong, would nevertheless have become a man who so easily bent the future to his will.
  
