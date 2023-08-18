@@ -29,6 +29,6 @@ Finally on 14 October 1966 at the former National Library Lecture Hall, an exhib
 
 The exhibition also travelled to Malaysia. It was exhibited at the Pachui Art Gallery (opened by Chuang Kim Siew, a NAFA classmate of Lim Mu Hue) at the AlA Building in Kuala Lumpur between 12 —17 December that year. The opening was officiated by the Singapore High Commissioner to Malaysia, Mr Lien Ying Chow. Given the tension between Singapore and Malaysia immediately after the separation just a year earlier, such cultural 'diplomacy showed that the arts was still able to connect the people of the two territories.
 
-Perhaps the cultural imagining then was still that of xinma yijia (Singapore and Malaysia was still one family). In all, 86 pieces were shown at the KL show and according to See Ye Wah, See Cheen Tee's daughter, they sold well.
+Perhaps the cultural imagining then was still that of *xinma yijia* (Singapore and Malaysia was still one family). In all, 86 pieces were shown at the KL show and according to See Ye Wah, See Cheen Tee's daughter, they sold well.
 
 However, the 1966 woodcut show marked the end of an era. Ironically, it was the first and the last of its kind in Singapore. Of the six artists, See Cheen Tee passed away in 1996. Though the medium was still being practised to a certain extent, local artists perhaps never really saw a need for another exhibition of woodcut prints.
