@@ -1,6 +1,6 @@
 ---
 title: Director's Column
-permalink: /vol-3/issue3/oct-2007/director-column/
+permalink: /vol-3/issue-3/oct-2007/director-column/
 description: ""
 ---
 It has been two years since we moved to the new National Library Building at Victoria Street. In the last two years, the National Library had played host to several overseas distinguished guests. These include her Majesty Queen Elizabeth II; Japanese Emperor Akihito and Empress Michiko; the former Crown Prince of Bhutan, His Royal Highness, Trongsa Penlop Jigme Khesar Namgyel Wangchuck, and Mrs Laura Bush, First Lady of the United States.

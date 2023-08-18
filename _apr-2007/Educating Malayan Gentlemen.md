@@ -9,7 +9,7 @@ description: The early part of the 20th century saw a conservative shift towards
 ---
 #### The early part of the 20th century saw a conservative shift towards the teaching of English to native subjects. This was contrary to the 19th century when the teaching of English was seen as an imperative civilising force – a tool for the enlightenment of the savage barbarians that the British ruled over in their colonies.
 
-<img src="/images/Vol%203%20Issue%201/man%20and%20child.jpg" style="width:80%;">
+<img src="/images/Vol%203%20Issue%201/EducatingMalay/raffles%20statue.jpg" style="width:100%;">
  <div style="background-color: white;"> <i>Image reproduced from The Souvenir of Singapore, 1914.</i></div>
 
 The early part of the 20th century saw a huge shift in colonial educational policy across the British Empire, with the beginnings of a strict limitation on teaching English to native subjects.
@@ -32,7 +32,7 @@ Only this elite class were allowed to learn English, and this elite were usually
 
 The colonial administrator Frank Swettenham argued in his Annual Report on Perak in 1890: The one danger to be guarded against is to teach English indiscriminately. It could not be well taught except in a few schools, and I do not think it is at all advisable to give to the children of an agricultural population an indifferent knowedge of a language that to all but the very few would only unfit them for the duties of life and make them discontented with anything like manual labour. (Stevenson 57)
 
-<img src="/images/Vol%203%20Issue%201/group%20photo.jpg" style="width:80%;">
+<img src="/images/Vol%203%20Issue%201/EducatingMalay/group%20photo.jpg" style="width:80%;">
  <div style="background-color: white;"> <i>Picture reproduced from One Hundred Years' History of the Chinese in Singapore.  All rights reserved, Murrary, 1923.</i></div>
 
 Further, the British felt that educating the "masses" in English would cause the bulk of the "native" population to revolt against British rule. As an editorial in the Ipoh English language newspaper *The Times of Malaya* opined, giving the Malays in particular a higher education "would be to put in their hands an intellectual weapon whereby they might attempt our undoing." (Stevenson 58)
@@ -88,14 +88,14 @@ This means concretely that these native elite were specifically taught to regard
 
 They were also taught to naturalise European superiority in relation to themselves, and to valorise the British as rulers who were the most desirable to have, especially in comparison with their own native rulers.
 
-<img src="/images/Vol%203%20Issue%201/group%20of%20men.jpg" style="width:80%;">
+<img src="/images/Vol%203%20Issue%201/EducatingMalay/group%20of%20men.jpg" style="width:80%;">
  <div style="background-color: white;"> <i>Picture reproduced from One Hundred Years' History of the Chinese in Singapore.  All rights reserved, Murrary, 1923.</i></div>
 
 This can be clearly seen, for example, in this textbook for the Malayan Cambridge 0 levels, in a historical lesson on Raffles:
 
 <i>"In course of time the whole of the Malay Peninsula, from the British coastal colonies to the borders of Siam, became a British Protectorate. And the methods of this Protectorate have been as efficient and benignant as if Raffles himself had controlled it. Slavery, serfdom, piracy, rapine - all the worst miseries and savageries of that ancient land - have long died out. The deadly kris has lost its edge. Peace, order, justice are everywhere maintained. More than six hundred thousand schools have been established. Over a thousand miles of railway have been built and between two and three thousand miles of metalled roads. Tin mines have been opened up, and rubber plantations introduced. The material development of Malaya has been one of the economic wonders of the world. But the feature of the Protectorate which Raffles would observe with the deepest pride, were he alive is the happiness of the people. More prosperous than they have ever been, safe at last from the old haunting fears, the old perpetual insecurity, tyranny and wars, the Malays are unquestionably happy. Singapore, then, the Queen of British Malaya, is Raffles' true memorial. He has been forgotten at times in London; he has never been forgotten there. Raffles Quay, Raffles Place, Raffles Museum, Raffles Hotel, Rafffes Library, Raffles Institution, Rafffes College - everywhere the city cries out his name. And in the centre of Raffles Plain - in front of him the azure roadstead with its crowd of ships from all over the world, behind him the green peninsula with its millions of contented villagers, stands Raffles' statue, watching for all time over his child. There, if anywhere on earth, his spirit lingers at peace, his dream fulfilled." (219–221)</i>
 
-<img src="/images/Vol%203%20Issue%201/raffles%20statue.jpg" style="width:100%;">
+<img src="/images/Vol%203%20Issue%201/EducatingMalay/man%20and%20child.jpg" style="width:100%;">
  <div style="background-color: white;"><i>Image reproduced from The Souvenir of Singapore, 1914.</i></div>
 
 First of all, it is posited that the Malays are the original rulers of the land - the land is termed the "Malay" Peninsula rather than the Malayan peninsula.
@@ -112,8 +112,9 @@ To top it all off, Raffles is posited as the benevolent founder to which these c
 
 As such, this elite is taught to be grateful to the British - and to their rule. The best sorts of natives, according to the colonial administrators, were ones who would know their place - meaning that they would want to be like the British but never challenge them.
 
-<img src="/images/Vol%203%20Issue%201/men%20sitting%20down.jpg" style="width:50%;">
- <div style="background-color: white;"><i>Picture reproduced from One Hundred Years' History of the Chinese in Singapore.  All rights reserved, Murrary, 1923.</i></div>
+<img src="/images/Vol%203%20Issue%201/EducatingMalay/men%20sitting%20down.jpg" style="width:100%;">
+ <div style="background-color: white;">
+<i>Picture reproduced from One Hundred Years' History of the Chinese in Singapore.  All rights reserved, Murrary, 1923.</i></div>
 
 
 This sort of complaisance is reflected in a short story in one of the textbooks written by the colonial educationists, R.O. Winstedt. Called "Gula", about a Malay man Winstedt knew who was "so sweet he was like sugar", Gula's attitude is reflective of what a "real native" should be like.

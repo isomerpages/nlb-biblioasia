@@ -18,11 +18,10 @@ Moving on, I am happy to announce two new research publications that were recent
 	
 I am also happy to highight two international library conferences jointly organised by the National Library Board that will be held in August and October this year. The first is on Dublin Core and Metadata Applications, which will be held from 27–31 August 2007. The conference will bring together world-renowned specialists from the networking and digital library research communities, knowledge management, e-govemment and the public sector information as well as the library community. This year's theme is "Application Profiles: Theory and Practice", featuring keynote speakers Johannes Keizer from the Food and Agriculture Organisation of the United Nations and Zhang Xiaoxing from the National Cultural Information Resource Centre of China. 
 
-If you are interested to know more about interlending and document supply services, do register for the "10th IFLA ILDS International Conference" to be held from 29–31 October 2007 on the theme "Resource Sharing for the Future, Building Blocks for Success". Speakers include Mr Mike McGrath, Editor of the Interlending and Document Supply Journal and Mr Mat Pfleger, Head of Sales and Marketing, The British Library, Find out more about this conference at </a><a href="http://www.nlbconference.com/ilds">http://www.nlbconference.com/ilds</a><a>
+If you are interested to know more about interlending and document supply services, do register for the "10th IFLA ILDS International Conference" to be held from 29–31 October 2007 on the theme "Resource Sharing for the Future, Building Blocks for Success". Speakers include Mr Mike McGrath, Editor of the Interlending and Document Supply Journal and Mr Mat Pfleger, Head of Sales and Marketing, The British Library, Find out more about this conference at</a><a href="http://www.nlbconference.com/ilds">http://www.nlbconference.com/ilds</a>
 	
 Happy reading and do keep your comments and feedback corning! We look forward to seeing you at the National Library.
 
 <b>Ms Ngian Lek Choh</b><br>Director<br>National Library
 
 
-</a>

@@ -69,7 +69,7 @@ The nursing profession, as most people will readily admit, is one of the toughes
 <br><br>
 Prior to the arrival of the British, women in Singapore had their own birth rituals and customs. As the population was mainly Malay, home births were handled by the <i>bidan</i>, usually a well-respected female member of the community. These traditional Malay midwives acquired their skills and knowledge from older, more experienced <i>bidan</i>, and in turn, imparted their knowledge to other women. It was expected of a practising <i>bidan</i> to have gone through pregnancy and childbirth herself.
 <br><br>
-<img style="width:650px"  src="/images/Vol-12-issue-2/angels-in-white/04-angelsinwhite.jpg">This 1950 photo shows a midwife weighing a newborn baby at home. As hospital beds in maternity hospitals were in short supply in the 1950s, women were discharged 24 hours after their babies were born. Midwives would visit these new mothers at their homes to provide postnatal care. <i>School of Nursing Collection, courtesy of National Archives of Singapore.</i>
+<img style="width:650px" src="/images/Vol-12-issue-2/angels-in-white/04-angelsinwhite.jpg">This 1950 photo shows a midwife weighing a newborn baby at home. As hospital beds in maternity hospitals were in short supply in the 1950s, women were discharged 24 hours after their babies were born. Midwives would visit these new mothers at their homes to provide postnatal care. <i>School of Nursing Collection, courtesy of National Archives of Singapore.</i>
 <br><br>
 In Singapore, midwifery training started earlier and advanced more rapidly than general nursing. Commencing in 1896, midwifery training was reserved only for married women until 1901, when three unmarried midwives passed the examination. In the early days, all midwives and probationers were of European ancestry; it was not until 1910 that the first course for Asian midwives kicked off. Malay <i>bidan</i>, however, preferred to stick to their own training programme that followed time-honoured Malay customs and traditions.</div>
 
@@ -89,7 +89,8 @@ In 1924, the General Hospital at Sepoy Lines commenced its four-year General Nur
 
 <div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-2/angels-in-white/05-angelsinwhite.jpg">To bring festive cheer to the patients, wards at the General Hospital were decorated with Christmas trimmings, circa 1930s. <i>Courtesy of National Archives of Singapore.</i></div>
 
-In 1926, Singapore’s first public health nurse, Miss Ida M. M. Simmons (see text box below) from Scotland, was employed to provide infant and maternal health services to mothers and infants in rural areas. As a result of her recommendations, a mobile dispensary was introduced the following year. The medical team consisted of a doctor, dresser and nurse who made daily trips to rural areas. In addition, nurses were involved in various outreach activities to educate school children and the general public on hygiene and basic health. Local nurses also gained recognition when the first Asian nursing sister in Singapore, Mrs. M. E. Perera, was appointed in 1937 by the St Andrew’s Mission Hospital. This was the first time an Asian was deemed to be on par with expatriate nurses and qualified to lead.
+In 1926, Singapore’s first public health nurse, Miss Ida M. M. Simmons (see text box below) from Scotland, was employed to provide infant and maternal health services to mothers and infants in rural areas. As a result of her recommendations, a mobile dispensary was introduced the following year. The medical team consisted of a doctor, dresser and nurse who made daily trips to rural areas. In addition, nurses were involved in various outreach activities to educate school children and the general public on hygiene and basic health.
+Local nurses also gained recognition. Mrs Maude Ethel Perera joined the Health Branch as a staff nurse in 1929.This was the first time an Asian was deemed to be on par with expatriate nurses and qualified to lead.
 
 #### **World War II to Independence: 1940s–65**
 
@@ -142,15 +143,17 @@ Extracted from Singapore Infopedia: National Library Board. (2013, March 25). <a
 
 #### **REFERENCES**
 
-Edwards, N., & Keys, P. (1988). *[Singapore: A guide to buildings, streets & places](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4712298)* (pp. 340–341). Singapore: Times Books International. (Call no.: RSING 959.57 EDW)
+Department of Information Services, “[Citations for the Presentation of Awards &amp; Insignias by H.E. the Governor at Government House on Saturday, July 26, 1958 at 11 a.m.](https://www.nas.gov.sg/archivesonline/speeches/record-details/832bae3d-bcf7-11e6-b045-0050568939ad),” press release, 26 July 1958.&nbsp; (From National Archives of Singapore document no. PressR19580726a)
 
-Fildes, V., Marks, L., & Marland, H. (Eds.). (1992). *Women and children first: International maternal and infant welfare, 1870–1945*. London: Routledge. (Not available in NLB holdings)
+Edwards, N., &amp; Keys, P. (1988). *[Singapore: A guide to buildings, streets &amp; places](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4712298)* (pp. 340–341). Singapore: Times Books International. (Call no.: RSING 959.57 EDW)
+
+Fildes, V., Marks, L., &amp; Marland, H. (Eds.). (1992). *Women and children first: International maternal and infant welfare, 1870–1945*. London: Routledge. (Not available in NLB holdings)
 
 Government of Singapore. (2016, May 26). *Latest data*. Retrieved from Singapore Department of Statistics website.
 
-Gwee, M.B., & Ang, R. (1991). Trends in nursing education in Singapore. *[The Professional Nurse: A Quarterly Publication of the Singapore Trained Nurses’ Association](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396380), 18* (3), p. 17.
+Gwee, M.B., &amp; Ang, R. (1991). Trends in nursing education in Singapore. *[The Professional Nurse: A Quarterly Publication of the Singapore Trained Nurses’ Association](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396380), 18* (3), p. 17.
 
-Lee, C.E., & Satku, K. (Eds.). (2016). *[Singapore’s health care system: What 50 years have achieved](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202254181)* (p. 169). Singapore: World Scientific. (Call no.: RSING 362.1095957 SIN)
+Lee, C.E., &amp; Satku, K. (Eds.). (2016). *[Singapore’s health care system: What 50 years have achieved](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202254181)* (p. 169). Singapore: World Scientific. (Call no.: RSING 362.1095957 SIN)
 
 Lee, Y.K. (1985 February). The origins of nursing in Singapore. *Singapore Medical Journal, 26* (1), 53–60. Retrieved from Singapore Medical Association website.
 
@@ -160,13 +163,13 @@ Lee, Y.K. (2005, November). Nursing and the beginnings of specialised nursing in
 
 Lim, M. (1966). The maternal and child health services in Singapore. *[Journal of the Singapore Paediatric Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982708), 8* (1), 29–41.
 
-Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+Makepeace, W., Brooke, G.E., &amp; Braddell, R.S.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
 
 [Medical report for 1883](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18840412-1.2.5.17.aspx). (1884, April 12). *Straits Times Weekly*, p. 5. Retrieved from NewspaperSG.
 
 [Midwives and nurses in jog to raise $40,000](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850501-1.2.26.13.aspx). (1985, May 1). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-Mudeliar, V., Nair, C.R.S., & Norris, R.P. (Eds). (1979). *[Development of hospital care and nursing in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182524)*. Singapore: Ministry of Health. (Call no.: RSING 610.73095957 MUD)
+Mudeliar, V., Nair, C.R.S., &amp; Norris, R.P. (Eds). (1979). *[Development of hospital care and nursing in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182524)*. Singapore: Ministry of Health. (Call no.: RSING 610.73095957 MUD)
 
 [Municipal commission](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100806-1.2.62.aspx). (1910, August 6). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
@@ -184,15 +187,15 @@ Singapore Nurses Association. (2015). *Our history*. Retrieved from Singapore Nu
 
 Singapore Nursing Board. (2016). Retrieved from Singapore Nursing Board website.
 
-Tan, K.H., & Chern, S. M. (2002). Progress in obstetrics from 19th to 21st centuries: Perspectives from KK Hospital, Singapore – the former world’s largest maternity hospital. *The Internet Journal of Gynecology and Obstetrics, 2* (2). Retrieved from Internet Scientific Publications website.
+Tan, K.H., &amp; Chern, S. M. (2002). Progress in obstetrics from 19th to 21st centuries: Perspectives from KK Hospital, Singapore – the former world’s largest maternity hospital. *The Internet Journal of Gynecology and Obstetrics, 2* (2). Retrieved from Internet Scientific Publications website.
 
-Tan, K.H., & Tay, E.H. (Eds.). (2003). *[The history of obstetrics and gynaecology in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11905621)*. Singapore: Obstetrical & Gynaecological Society of Singapore: National Heritage Board. (Call no.: RSING q618.095957 HIS)
+Tan, K.H., &amp; Tay, E.H. (Eds.). (2003). *[The history of obstetrics and gynaecology in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11905621)*. Singapore: Obstetrical &amp; Gynaecological Society of Singapore: National Heritage Board. (Call no.: RSING q618.095957 HIS)
 
 [The local nurse](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510404-1.2.100.aspx). (1951, April 4). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-Tong, Y.T., & Narayanan, S. (2015). *[Caring for our people: 50 years of healthcare in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202357972)*. Singapore: MOH Holdings Pte Ltd for the Ministry of Health. (Call no.: RSING 362.1095957 TON)
+Tong, Y.T., &amp; Narayanan, S. (2015). *[Caring for our people: 50 years of healthcare in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202357972)*. Singapore: MOH Holdings Pte Ltd for the Ministry of Health. (Call no.: RSING 362.1095957 TON)
 
-Yeoh, B.S.A., Phua, K.H., & Fu, K. (2008). From colony to global city: Public health strategies and the control of disease in Singapore. In M.J. Lewis & K.L. Macpherson (Eds.), *[Public health in Asia and the Pacific: Historical and comparative perspectives](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12884456)*. Abingdon, Oxon; New York: Routledge. (Call no.: R 362.1095 PUB)
+Yeoh, B.S.A., Phua, K.H., &amp; Fu, K. (2008). From colony to global city: Public health strategies and the control of disease in Singapore. In M.J. Lewis &amp; K.L. Macpherson (Eds.), *[Public health in Asia and the Pacific: Historical and comparative perspectives](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12884456)*. Abingdon, Oxon; New York: Routledge. (Call no.: R 362.1095 PUB)
 
 #### **NOTES**
 

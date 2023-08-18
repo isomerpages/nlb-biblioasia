@@ -4,6 +4,7 @@ permalink: /holding-area/goldcoins/
 description: Two ancient gold coins, probably from Aceh, were discovered in
   Singapore in the middle of the 19th century. Unfortunately, they disappeared a
   few decades later.
+image: /images/Vol 19 Issue 3/8 Gold Coins/goldcoinsheader2.jpg
 ---
 #### Two ancient gold coins, probably from Aceh, were discovered in Singapore in the middle of the 19th century. Unfortunately, they disappeared a few decades later.
 By Foo Shu Tieng
@@ -13,10 +14,15 @@ By Foo Shu Tieng
 
 Around 1840, some convict labourers made a startling discovery while building a road to New Harbour (present-day Keppel Harbour) – now Telok Blangah Road and Kampong Bahru Road. While clearing land belonging to Temenggong Daeng Ibrahim near the village of Telok Blangah, they uncovered two ancient gold coins with Jawi inscriptions on them.[^1]
 
-##### Map
-##### Daeng ibrahim
+![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/mapnewharbour.jpg)
+<div style="background-color: white;">Map of New Harbour (1840–43) prepared at the request of W.H. Read, Office of the Surveyor General, Federated Malay States and Straits Settlements, 23 July 1886. The map shows the “Tumangong’s Ground”, which was allotted to Temenggong Daeng Ibrahim of Johor in 1823. <i>Singapore Land Authority Collection, courtesy of National Archives of Singapore.</i></div>
 
 In 1849, these two coins were presented to the Singapore Library – predecessor of the current National Library and National Museum of Singapore – by Straits Settlements Governor William J. Butterworth on behalf of the Temenggong, who had purchased the coins from the convicts.[^2]
+
+![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/diengibrahim-edit.jpg)
+<div style="background-color: white;">
+Temenggong Daeng Ibrahim of Johor donated the two gold Acehnese coins found on his land to the Singapore Library in 1849. <i>Image retrieved from Wikimedia Commons.</i>
+</div>
 
 In the Singapore Library report of 1849, the lawyer and scholar James Richardson Logan (who founded the _Journal of the Indian Archipelago and Eastern Asia_ in 1847[^3]) believed that the two coins were probably from Aceh Darussalam on the island of Sumatra.[^4] The kingdoms of Aceh and Johor had long vied for economic and political hegemony in the Malay world, with Aceh invading Johor at least six times between 1564 and 1623.[^5]
 
@@ -41,11 +47,44 @@ During Sultan Iskandar Muda’s reign, Aceh’s empire was at its peak – exten
 
 As for the second coin (Coin B), according to Mazelan, a plausible alternative transliteration for the text on the obverse side is “Sri Sultan Perkasa Alam” (سري سلطان ڤرکاس عالم), which means “Auspicious Sultan Courage of the World”. The Singapore Library report had the text as “Sri Sultan Sha Alam Mirsab”. The inscription on the reverse side also bears an inscription that could again be “Johan Berdaulat bin Ali” instead of “Tuhan Nardubah bin Ali”. One of the names that Sultan Iskandar Muda used during the earlier years of his reign was Sri Sultan Perkasa Alam.[^17] This alternative transliteration suggests that the second coin was also minted during Iskandar Muda’s reign.
 
-##### Coin A and B
+![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/coinacoinb.jpg)
+<div style="background-color: white;">
+Seventeenth-century Acehnese coins bearing the words “Sri Perkasa Alam” and “Sri Sultan Iskandar Muda”. <i>Image reproduced from J. Hulshoff Pol, “De gouden munten (mas) van Noord-Sumatra,” Jaarboek van het Koninklijk Nederlandsch Genootschap voor Munt-en Penningkunde XVI (1929), 18.</i>
+</div>
 
 However, it should be noted that there are also several other coins that are similar to Coin B, inscribed with “Alam” on the obverse and variations of “Johan Berdaulat” on the reverse.[^18] Further research is required before we can ascertain the identity of the sultan whose name has been inscribed on Coin B. In order to narrow down the time period of Coin B, researchers may be required to study the primary sources of the lineage of Acehnese rulers which are often complex and contested, while keeping in mind the gaps between the written word and material evidence for early Islamic kingdoms in the region.[^19]
 
 Studies do suggest that Sultan Iskandar Muda was the first ruler from Aceh Darussalam to bear the title of Johan Berdaulat, which is inscribed on coins minted during his reign. If Coin B was indeed Acehnese, his reign would present the upper time limit for when the coin would have been minted.[^20]
+
+<b>Transliterations of Coin A</b>
+
+|Coin A|Original Rumi transliteration by James Richardson Logan (published in the 1849 Library Report)|Transliteration of the Rumi text to Jawi|Possible alternative Jawi text (based on text on Acehnese coins)|Transliteration of alternative Jawi text into Rumi|
+|--------|--------|--------|--------|--------|
+||Sultan|سلطان|سري سلطان|Sri Sultan|
+|<b>Obverse</b>|Sri Sikandar|سري سيکندر|اسکندر|Iskandar|
+||Mahbud|محبود|مودا|Muda|
+||||||
+||Tuhan|توهن|جوهن|Johan|
+|<b>Reverse</b>|Nardubah|نردوبه|برداولت|Berdaulat|
+||bin Ali|بن علي|بن علي|bin Ali|
+
+<div style="background-color: white;"><i>Note: The transliterations of the original Rumi text back into Jawi and the alternative transliterations were provided by Toffa Abdul Wahed with inputs from the writer. These were reviewed by Mazelan Anuar. In the Acehnese context, “Iskandar” is the more likely 
+transliteration instead of “Sikandar”.</i></div>
+
+
+<b>Transliterations of Coin B</b>
+
+|Coin B|Original Rumi transliteration by James Richardson Logan (published in the 1849 Library Report)|Transliteration of the Rumi text to Jawi|Possible alternative Jawi text (based on text on Acehnese coins)|Transliteration of alternative Jawi text into Rumi|
+|--------|--------|--------|--------|--------|
+||Sri Sultan|سري سلطان|سري سلطان|Sri Sultan|
+|<b>Obverse</b>|Sha Alam|شاه عالم|ڤرکاس عالم|Perkasa Alam|
+||Mirsab|مرسب|
+||||||
+||Tuhan|توهن|جوهن|Johan|
+|<b>Reverse</b>|Nardubah|نردوبه|برداولت|Berdaulat|
+||bin Ali|بن علي|بن علي|bin Ali|
+
+<div style="background-color: white;"><i>Note: Transliterations of the original Rumi text back into Jawi were provided by Toffa Abdul Wahed. Alternative transliterations were proposed by the writer with the assistance of Toffa and Mazelan Anuar.</i></div>
 
 #### **Acehnese Gold Coins**
 
@@ -61,9 +100,12 @@ But whether or not they were original, the gold coins unearthed in Telok Blangah
 
 As exciting as they are, the two Acehnese gold coins are not the oldest coins to have been found in Singapore. Chinese coins that date as far back as the Tang dynasty (7th to 10th centuries) have been discovered here, such as at the Parliament House Complex excavation conducted in 1994–95.[^27]
 
-Indeed, Chinese coins were among the first ancient coins to be uncovered. In 1819, Acting Engineer Henry Ralfe stumbled upon a cache of ancient Chinese coins while clearing an elevated spot of a wall surrounding the ancient city of Singapura, thought to be along present-day Stamford Road.[^28] Reverend Samuel Milton of the London Missionary Society in Singapore identified one of the coins to have come from the reign of Emperor Huizong (宋徽宗, r. 1101–25) of the Northern Song dynasty.[^29] The other coins had crumbled to dust, likely due to severe metal oxidation and corrosion. Coinage dating to Emperor Huizong’s reign was notable for the increased production of higher denominated (the three-_qian_ and ten-_qian_ coins) and increasingly debased coins, a sign of worsening inflation during his reign.[^30]
+Indeed, Chinese coins were among the first ancient coins to be uncovered. In 1819, Acting Engineer Henry Ralfe stumbled upon a cache of ancient Chinese coins while clearing an elevated spot of a wall surrounding the ancient city of Singapura, thought to be along present-day Stamford Road.[^28] Reverend Samuel Milton of the London Missionary Society in Singapore identified one of the coins to have come from the reign of Emperor Huizong (宋徽宗, r. 1101–25) of the Northern Song dynasty.[^29] The other coins had crumbled to dust, likely due to severe metal oxidation and corrosion. Coinage dating to Emperor Huizong’s reign was notable for the increased production of higher denominated (the three-*qian* and ten-*qian* coins) and increasingly debased coins, a sign of worsening inflation during his reign.[^30]
 
-##### Chinese huizong coins
+![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/huizong-coins.jpg)
+<div style="background-color: white;">
+	One-, two- and 10-<i>qian</i> coins dating to the reign of Emperor Huizong of the Northern Song dynasty (Daguan period, 1107–10). <i>Images reproduced from Patricia Buckley Ebrey, Emperor Huizong (Cambridge, Massachussetts: Harvard University Press, 2014), 334. (From National Library, Singapore, call no. R 951.024092 EBR).</i>
+</div>
 
 Ralfe’s coin find was presented to the Asiatic Society in Calcutta on 10 March 1820. According to an 1822 publication, Ralfe subsequently donated the coins to the Museum of Asiatick Society in Calcutta. Unfortunately, the Huizong coin may have been stolen from the museum in 1844.[^31]
 
@@ -75,7 +117,8 @@ Studies of coins recovered from archaeological excavations at the civic district
 
 Coins can be important primary sources of history. They can provide information on the people living in Singapore at the time, its trade relations and distribution networks, the economic climate and even power structures within society. The presence of gold coins in Telok Blangah, for instance, adds to the evidence of human activity in the area in the 17th century.
 
-##### Telok Blangah
+![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/telok-blangah.jpg)
+<div style="background-color: white;">Telok Blangah Village, 1870s. Land belonging to Temenggong Daeng Ibrahim is located near the village. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 This material evidence complements an account by Jacques de Coutre, a Flemish gem trader, who mentioned seeing vessels used by the _orang laut_ (“sea people”; an indigenous people who fish and collect sea products) at the entrance of the straits near Isla de Arena (now the island of Sentosa) in 1595. He also talked about the activities of the Shahbandar, an official who supervised the collection of customs duties, the warehousing of imports, and who looked after the ruler’s investments in the area.[^35]
 
@@ -101,6 +144,15 @@ While Chinese bronze alloy coins were used as small denomination currency in the
 
 Unfortunately, many vital questions still remain regarding the gold coins of Telok Blangah. Were they indeed Acehnese coins? How did they disappear and where are they now? These coins could be in a dusty drawer or forgotten safety deposit box somewhere in Singapore, waiting to be rediscovered. Or they may have already left our shores like the Chinese coins from the discoveries by Ralfe and Crawfurd. We do not know the answers to these questions, but with further research, maybe someday, we will be able to find out more.
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger">
+The author is grateful to Toffa Abdul Wahed, Mazelan Anuar, Gracie Lee, Iskander Mydin, Iain Sinclair, David Flegg and many others who facilitated the writing of this essay. The names of places and rulers have been modernised to facilitate ease of reading.
+</div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Authors/fooshutieng2.png" style="width: 100px; height: 100px;">
+	<b>Foo Shu Tieng</b> is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development as well as providing reference and research services.</div>
+
 #### **Notes**
 
 [^1]: Marianne Teo, “Numismatics,” in [_Treasures from the National Museum Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413295) (Singapore: National Museum Singapore, 1987), 82. (From National Library, Singapore, call no. RSING 708.95957 TRE); Gracie Lee, “[Collecting the Scattered Remains: The Raffles Library and Museum](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/raffleslibrary-museum),” _BiblioAsia_ 12, no. 3 (April–June 2016): 39–45; J.C. Smith, “The Fifth Report of the Singapore Library,” in [_Reports of Singapore Library, 1844–60_](https://eresources.nlb.gov.sg/printheritage/detail/3c12fae7-bfb5-4524-ab57-892031e43abc.aspx) (Singapore: G.M. Frederick, 1849), 10–12; reproduced in R. Hanitsch, “Raffles Library and Museum, Singapore,” [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)_,_ vol. 1, ed. Walter Makepeace, Gilbert E. Brooke, Roland St. J. Braddell (Singapore: Oxford University Press, 1991), 531–33. (From National Library, Singapore, call no. RSING 959.57 ONE)
@@ -121,7 +173,7 @@ Unfortunately, many vital questions still remain regarding the gold coins of Tel
 
 [^9]: Hanitsch, “Raffles Library and Museum, Singapore,” 531–33.
 
-[^10]: Smith, “The Fifth Report, 10, 20; Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore (With Portraits and Illustrations)_](https://eresources.nlb.gov.sg/printheritage/detail/e895d2b3-00f6-40b0-9db7-4177648c2771.aspx), vol. II (Singapore: Fraser &amp; Neave Limited, 1902), 500. (From BookSG); “[The Singapore Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18630530-1.2.17),” _Straits Times_, 30 May 1863, 2; “[Singapore Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18630618-1.2.5),” _Singapore Free Press and Mercantile_ Advertiser, 18 June 1863, 3; “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18740124-1.2.48),” _Straits Times_, 24 January 1874, 3. (From NewspaperSG); Bonny Tan and Heirwin N. Nasir, “[Singapore Library (1845–1874)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_653_2005-02-03.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
+[^10]: Smith, “The Fifth Report, 10, 20; Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore (With Portraits and Illustrations)_](https://eresources.nlb.gov.sg/printheritage/detail/e895d2b3-00f6-40b0-9db7-4177648c2771.aspx), vol. II (Singapore: Fraser &amp; Neave Limited, 1902), 500. (From BookSG); “[The Singapore Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18630530-1.2.17),” _Straits Times_, 30 May 1863, 2; “[Singapore Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18630618-1.2.5),” _Singapore Free Press and Mercantile Advertiser_, 18 June 1863, 3; “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18740124-1.2.48),” _Straits Times_, 24 January 1874, 3. (From NewspaperSG); Bonny Tan and Heirwin N. Nasir, “[Singapore Library (1845–1874)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_653_2005-02-03.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
 
 [^11]: Hanitsch, “Raffles Library and Museum, Singapore,” 531–33, 541; Preservation of Sites and Monuments, National Heritage Board, “[National Museum of Singapore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-08-31_132917.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 31 August 2015.
 
@@ -163,7 +215,7 @@ Unfortunately, many vital questions still remain regarding the gold coins of Tel
 
 [^30]: Ebrey, [_Emperor Huizong_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202557263), 329–37; Li Kangying, “A Study on Song, Yuan and Ming Monetary Policies Within the Context of Worldwide Currency Flows During the 11th–16th Centuries and Their Impact on Ming Institutions.” In _The East Asian Maritime World 1400–1800: Its Fabrics of Power and Dynamics of Exchanges_, ed. Angela Schottenhammer (Wiesbaden: Harrassowitz, 2007), 113.
 
-[^31]: “Literary and Philosophical Intelligence,” 477; “List of the Donors and Donations to the Museum of the Asiatick Society,” _Asiatick Researches_ 14 (January 1820): Appendix III, 6M, https://www.biodiversitylibrary.org/item/133120#page/553/mode/1up; “Contents of the Fourteenth Volume,” _Asiatick Researches_ 14 (January 1820): front matter, https://www.biodiversitylibrary.org/item/133120#page/7/mode/1up; Vincent A. Smith, “General Introduction,” in _Catalogue of Coins in the Indian Museum Calcutta Including the Cabinet of the Asiatic Society of_ Bengal, vol. I (Oxford: Clarendon Press, 1906), xv, https://indianculture.gov.in/rarebooks/catalogue-coins-indian-museum-calcutta-including-cabinet-asiatic-society-bengal-vol-i-1.
+[^31]: “Literary and Philosophical Intelligence,” 477; “List of the Donors and Donations to the Museum of the Asiatick Society,” _Asiatick Researches_ 14 (January 1820): Appendix III, 6M, https://www.biodiversitylibrary.org/item/133120#page/553/mode/1up; “Contents of the Fourteenth Volume,” _Asiatick Researches_ 14 (January 1820): front matter, https://www.biodiversitylibrary.org/item/133120#page/7/mode/1up; Vincent A. Smith, “General Introduction,” in _Catalogue of Coins in the Indian Museum Calcutta Including the Cabinet of the Asiatic Society of Bengal_, vol. I (Oxford: Clarendon Press, 1906), xv, https://indianculture.gov.in/rarebooks/catalogue-coins-indian-museum-calcutta-including-cabinet-asiatic-society-bengal-vol-i-1.
 
 [^32]: John Crawfurd wrote about the coins in an entry dated 4 February 1822. The regnal date for the first coin was corrected (Emperor Taizu died in 976 instead of 967 as stated in Crawfurd’s text). See John Crawfurd, [_Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China; Exhibiting a View of the Actual State of Those Kingdoms_](https://eresources.nlb.gov.sg/printheritage/detail/78831281-b72c-4981-afd0-7a448179e707.aspx) (London: Henry Colburn, 1828), 47. (From BookSG); Denis Twitchett and Paul Jakov Smith, eds., “Table 2: Sung Emperors and Their Reign Periods,” in [_The Cambridge History of China Vol. 5 Part 1: The Sung Dynasty and Its Precursors, 907–1279_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13198621) (Cambridge: Cambridge University Press, 2009), xxx. (From National Library, Singapore, call no. R 951 CAM)
 
@@ -181,7 +233,7 @@ Unfortunately, many vital questions still remain regarding the gold coins of Tel
 
 [^39]: O.W. Wolters, [_The Fall of Śrīvijaya in Malay History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4153915) (Singapore: Oxford University Press, 1975), 39, 73. (From National Library, Singapore, call no. RSING 959.5 WOL); Friedrich Hirth and W.W. Rockhill, [_Chau Ju-Kua: His Work on the Chinese and Arab Trade in the Twelfth and Thirteenth Centuries, Entitled Chu-fan-chi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201313365) (2015; repr., St. Petersburg: Printing Office of the Imperial Academy of Sciences, 1911), 60. (From National Library, call no. RBUS 382.0951 ZHA) 
 
-[^40]: One use of gold treated with _sepuh_ was for decorative painting, such as on walls and gateways.
+[^40]: One use of gold treated with _sepuh_ was for decorative painting, such as on walls and gateways. See Mai Lin Tjoa-Bonatz and Nicole Lockhoff, “Art Historical and Archaeometric Analyses of Ancient Jewellery (7–16th C.): The Prillwitz Collection of Javanese Gold,” _Archipel_ 97 (2019): 51, https://journals.openedition.org/archipel/1018; Stuart Robson, _Arjunawiwāha: The Marriage of Arjuna of Mpu Kaṇwa_ (Leiden: KITLV Press, 2008), 88–89, Canto 16, Section 6, Lines 1–2, http://library.oapen.org/handle/20.500.12657/34659. See also Roland Braddell, “Two Notes: Red Gold and Chiamassie,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 24, no. 3 (156) (October 1951): 157. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^41]: W.W. Rockhill, “Notes on the Relations and Trade of China with the Eastern Archipelago and the Coast of the Indian Ocean during the Fourteenth Century,” Part II. _T’oung Pao_ 16, no. 1 (March 1915): 129–33. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 

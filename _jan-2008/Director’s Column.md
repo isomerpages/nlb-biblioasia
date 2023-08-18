@@ -1,6 +1,6 @@
 ---
 title: Director’s Column
-permalink: /vol-3/issue4/jan-2008/director-column/
+permalink: /vol-3/issue-4/jan-2008/director-column/
 description: ""
 ---
 Have you visited the Donors Gallery? It is now opened for viewing at the Lee Kong Chian Reference Library located at Level 10 of the National Library. As the national library of the nation, we collect materials on our local heritage in all formats, preserve and organise them, and make them accessible to researchers and the general public. Hence, we warmly welcome donations of literary materials relating to Singapore and Southeast Asia.
@@ -19,10 +19,3 @@ Also in this issue, we bring you back in time to the 19th century. You will disc
 The National Library Board subscribes to more than 140 electronic databases and you can access a large number of these remotely from your home or office. From this issue, we will be introducing our electronic databases to you in BiblioAsia. In this first article, we feature databases beginning with the letter ‘A’. Do look out for the other electronic resources in subsequent issues. Meanwhile, do keep your comments and feedback coming. We look forward to seeing you at the National Library.
 
 <b>Ms Ngian Lek Choh</b><br>Director <br>National Library
-
-
-
-
-
-
-

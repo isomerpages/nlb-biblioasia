@@ -1,7 +1,7 @@
 ---
 title: Rising Dragon, Crouching Tigers? Comparing the Foreign Policy Responses
   of Malaysia and Singapore
-permalink: /vol-3/issue4/jan-2008/dragon-tiger-foreign-policy/
+permalink: /vol-3/issue-4/jan-2008/dragon-tiger-foreign-policy/
 description: "What do states do when faced with an increasingly stronger and/or
   potentially threatening big power? For decades, mainstream international
   relations theorists have offered two broad answers to this central question:

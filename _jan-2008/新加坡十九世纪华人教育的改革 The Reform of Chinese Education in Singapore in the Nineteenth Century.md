@@ -1,7 +1,7 @@
 ---
 title: 新加坡十九世纪华人教育的改革 The Reform of Chinese Education in Singapore in the
   Nineteenth Century
-permalink: /vol-3/issue4/jan-2008/reform-chinese-education/
+permalink: /vol-3/issue-4/jan-2008/reform-chinese-education/
 description: Education reforms and the modernisation of education in Singapore
   and Malaya are often attributed to political changes in China during the early
   20th century. Few remember the contributions of local intellectuals in

@@ -81,7 +81,7 @@ Ilya<br>
 In most of the villages that we went to, you had to drive quite a distance, maybe like 5 to 10 minutes from the main road in order to get to the village. 
 
 Jimmy<br>
-Alright, okay. 
+All right, okay. 
 
 Ilya<br>
 And for one of these villages in Danga Bay, we actually passed by a lot of fairly new condominiums. Then when we arrived at the village, it was a stark contrast. There were no condominiums.
@@ -333,7 +333,7 @@ Ilya<br>
 I work as a special education teacher.
 
 Jimmy<br>
-Alright, cool. How long have you been doing that?
+All right, cool. How long have you been doing that?
 
 Ilya<br>
 For about two years.
@@ -423,7 +423,7 @@ Ilya<br>
 It's a book about the drug trade and dealership in Bali. Singapore is mentioned in one part of it because one of the drug dealers came to Singapore for an operation.
 
 Jimmy<br>
-Okay. Alright. Medical tourism. Complete the sentence: history is...
+Okay. All right. Medical tourism. Complete the sentence: history is...
 
 Ilya<br>
 Open to debate.
