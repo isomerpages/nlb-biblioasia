@@ -39,9 +39,8 @@ Rachel
 So I'm going to read from right from the beginning of the book, so this is where it starts.
 
 <div style="background-colour:#fff6ba; padding:10px; margin:&nbsp;0px;&nbsp;font-size:180%; background: #fff6ba">
-[Excerpt from The Great Reclamation]<br>
-	
-	
+[Excerpt from The Great Reclamation]<br><br>
+
 Decades later, the kampong would trace it all back to this very hour, waves draining the light from this slim, hungry moon. Decades later, they would wonder what could have been had the Lees simply turned back, had some sickness come upon the father manning the outboard motor, or some screaming fit befallen the youngest, forcing them to abandon the day's work and steer their small wooden craft home. Decades later, they would wonder if any difference could have been made at all.<br>
 <br>
 
