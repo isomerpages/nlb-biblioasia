@@ -3,6 +3,8 @@ title: test2
 permalink: /test2/
 description: ""
 ---
+[Music playing]
+
 Jimmy  
 You’re listening to BiblioAsia+, a podcast produced by the National Library of Singapore. At BiblioAsia, we tell stories about Singapore’s past: some unfamiliar, others forgotten, all fascinating.
 
@@ -205,6 +207,8 @@ I mean, you know, I hope this book gets into the syllabus for local literature. 
 
 Rachel  
 Thank you. Thank you.
+
+[Music playing]
 
 Jimmy  
 If you've enjoyed this episode, subscribe to the podcast and the BiblioAsia newsletter.
