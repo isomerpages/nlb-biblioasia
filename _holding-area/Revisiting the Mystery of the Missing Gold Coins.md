@@ -19,7 +19,7 @@ Around 1840, some convict labourers made a startling discovery while building a 
 
 In 1849, these two coins were presented to the Singapore Library – predecessor of the current National Library and National Museum of Singapore – by Straits Settlements Governor William J. Butterworth on behalf of the Temenggong, who had purchased the coins from the convicts.[^2]
 
-![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/diengibrahim.jpg)
+![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/diengibrahim-edit.jpg)
 <div style="background-color: white;">
 Temenggong Daeng Ibrahim of Johor donated the two gold Acehnese coins found on his land to the Singapore Library in 1849. <i>Image retrieved from Wikimedia Commons.</i>
 </div>
