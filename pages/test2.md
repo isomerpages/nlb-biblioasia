@@ -19,7 +19,7 @@ Rachel
 Oh, it's been wonderful. Yeah, I never dared to expect it, I guess. When I first started writing the book, maybe five or six years ago, a part of me worried that no one would want to publish, let alone read a book that was you know –essentially, when I started writing it, I thought of it as a book about land reclamation in the 1960s in Singapore, which is, you know, quite a departure from my first book, which was speculative fiction, and it's a bit more flashy. And it has all these like sci-fi concepts. And this was deep historical fiction, essentially, and very specifically Singaporean setting. But thankfully, you know, it did get published, obviously, and has received a pretty great response, both in Singapore as well as abroad. And the story seems to be pretty universal in some ways, and has spoken to a wide cross section of people across the world. 
 
 Gek Han  
-I saw on Instagran you said that, exactly what you said just now, that you weren't sure if this book will be well received, and it's clearly very beloved. And you've done a lot of book tours. Do you think there has been a difference between the local reception and international ones? 
+I saw on Instagram you said that, exactly what you said just now, that you weren't sure if this book will be well received, and it's clearly very beloved. And you've done a lot of book tours. Do you think there has been a difference between the local reception and international ones? 
 
 Rachel  
 I think it maybe there's definitely a difference in terms of the context and people, because when I do events here, I have to explain a lot less. So that's been really nice being able to do an event and not have to say, well, you know, Singapore is a really small country. And so because of that land reclamation isn't, you know, doing all that. Everyone kind of comes into the room already with this knowledge and the same similar knowledge, similar experiences in some way that I had growing up. And even intimidatingly, perhaps more knowledge than I have, because they're often people from older generations there who have lived through this or have seen this or have experienced other parts of it that I personally have never experienced. So it's both intimidating and exhilarating, because I get to speak to people who really get it, who really lived through it. And I've been very grateful and heartened by the fact that it seems to ring true to a lot of people here as well. That was what I set out to do. When I started writing the book, I wanted it to be read widely and across the world. But my primary audience or the audience I had in mind when I was reading it was someone like myself or someone like the people I knew growing up and my friends and family.
@@ -35,6 +35,8 @@ Can you read us something from your book, please?
 
 Rachel  
 So I'm going to read from right from the beginning of the book, so this is where it starts.
+
+<div style="background-colour:#fff6ba; padding:10px; margin:&nbsp;0px;&nbsp;font-size:120%; background: #fff6ba">
 
 Decades later, the kampong would trace it all back to this very hour, waves draining the light from this slim, hungry moon. Decades later, they would wonder what could have been had the Lees simply turned back, had some sickness come upon the father manning the outboard motor, or some screaming fit befallen the youngest, forcing them to abandon the day's work and steer their small wooden craft home. Decades later, they would wonder if any difference could have been made at all.
  
@@ -53,18 +55,21 @@ Decades later, the kampong would trace it all back to this very hour, waves drai
  
  "Scared, ah, Bawal?"
  
- Hia clambered toward Ah Boon, stepping over the ropes and nets that littered the floor of the small boat. He moved with a careless, threatening ease, like the foot-long monitor lizards that scuttled through the tall grass around the kampong. Hia grabbed Ah Boon's shoulders, turning his torso out toward the sea.
+Hia clambered toward Ah Boon, stepping over the ropes and nets that littered the floor of the small boat. He moved with a careless, threatening ease, like the foot-long monitor lizards that scuttled through the tall grass around the kampong. Hia grabbed Ah Boon's shoulders, turning his torso out toward the sea.
  
  "Wah, so brave!"
  
  Hia pushed his brother suddenly, as if to tip him out of the boat. The sea lurched up toward Ah Boon's face and he clawed at the side, letting out a small whimper.
  
  "You know," Hia said. "Pa never tell you everything about your first trip out. He never tell you about the night swim, hor?"
+</div>
 
-Gek Han  
+Rachel  
 Thank you. 
 
+Gek Han  
 I want to clap. I don't know if I'm allowed to with the mic. That's really wonderful. 
+
 
 Rachel  
 Thank you. 
@@ -79,8 +84,6 @@ Gek Han
 So <i>The Great Reclamation</i> is your second novel, and it's your first historical fiction work. What do you find challenging or interesting about writing historical fiction?
 
 Rachel  
-um,
-
 I really loved writing it, I think because it was on a topic that I was interested in. And you should probably only write novels on things you're interested in, because they take a very long time and require a lot of, you know, involve a lot of ups and downs, many downs. And so having the pigheaded persistence to continue, even when you feel like your project is going nowhere, and you will never be able to figure it out. You have to be pretty interested in the subject matter. So I loved doing the research for this book. I had to like force myself to stop researching, because it was just stuff that I didn't really know, ot I knew the bare bones of it, you know, like the social studies version. And I was, you know, I was a kid. I wasn't paying attention in social studies. So I didn't even know that really. But being able to dive into the research, and, you know, I read a lot of oral history interviews, a lot of amazing resources on the BiblioAsia website, and you know, reading history books, looking at old photographs, stuff like that. It was really fascinating to me to learn all of this. But then when it came to writing the book, I think the challenge was putting aside all of the facts, and all the data that I had collected, which was quite overwhelming, because there was so much of it, and to try and construct a coherent narrative that felt intimate and personal and filtered through the characters perspectives. Because I think ultimately, that's what fiction is about, right? Fiction is about inhabiting someone's consciousness. And that's the beauty of fiction –that it's a story. And that you can live this reality that's been created through the character's eyes. So trying to forget about all of the facts instead of, I think there's a temptation when you've done that much work, you're like, oh, I have to put all of it in, but doesn't make for a fun novel. You know, it's not a textbook. It's ultimately a novel; it's a story. And I want it to evoke emotion. So being able to balance that, including enough, but not too much. That was definitely challenging. 
 
 Gek Han  
@@ -105,7 +108,7 @@ Gek Han
 I feel like I can almost hear the clank of the conveyor belt. You feel the dust in the air. You know, you smell the salty sea. I mean, your description of the natural landscape and just the environment in general is just amazing. Can you tell us about the research you did on environmental history?
 
 Rachel  
-Yeah. Well, they are amazing environmental historians working in Singapore, I had the good fortune to link up with a professor at NUS named Tim Bernard, who has written a number of amazing books, one of them, which isn't directly linked to this, but was an anthology titled <i>Nature Contained</i>. That's a wonderful book with a series of essays about environmental history in Singapore. And also speaking to other experts on like, mangroves, the mangrove development and swamps that used to be here. I spoke with a geography professor, also at NUS about the shifting coastlines. And one of the facts I learned there, which I didn't know, was that the famous temple in Telok Ayer is a sea temple. And the reason for that is the coast used to be there. And so they would bless the boats before they set off. But that's mind boggling to me, because it's like, it's in the middle of the CBD now. And so really speaking to the professors and other experts in this field about those specifics was really helpful in my research.
+Yeah. Well, they are amazing environmental historians working in Singapore, I had the good fortune to link up with a professor at NUS named Tim Barnard, who has written a number of amazing books, one of them, which isn't directly linked to this, but was an anthology titled [<i>Nature Contained</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148897). That's a wonderful book with a series of essays about environmental history in Singapore. And also speaking to other experts on like, mangroves, the mangrove development and swamps that used to be here. I spoke with a geography professor, also at NUS about the shifting coastlines. And one of the facts I learned there, which I didn't know, was that the famous temple in Telok Ayer is a sea temple. And the reason for that is the coast used to be there. And so they would bless the boats before they set off. But that's mind boggling to me, because it's like, it's in the middle of the CBD now. And so really speaking to the professors and other experts in this field about those specifics was really helpful in my research.
 
 Gek Han  
 And one of the many things I appreciate about your book is that you showed the nuances of moving into HDB apartments. It's not black and white. Like some characters like it, some don't. Some move because of the children. And in your research, do you get a sense that it was a generational divide?
@@ -123,7 +126,7 @@ Gek Han
 This book portrays Singapore in a grassroots kind of way versus <i>Crazy Rich Asians</i>. And one feels a sense of affection for the protagonist Ah Boon of course, and also the other minor characters like the shopkeeper. This is a book that helps someone understand how Singapore came into its own during the nation-building years. What informed you to write about Singapore in the way that you did?
 
 Rachel  
-I don't know that I could have written any other way. People ask me that a lot, that if it's like a response to the way Singapore has been presented in other ways, but books take a very long time to write, and I will say that I had only really become aware of the <i>Crazy Rich Asians</i>' representation with the movie, which came up when I had already finished writing this book. So it's not really in conversation as much as everything came out roughly the same time. But I guess these are the people that I know. And so I can only write from that perspective. I don't know, anyone who's like a crazy rich Asian. I just I couldn't write about that. I just don't know about it. So in a way, the version here is the version that I grew up, the Singapore that I grew up knowing, hearing about, reading about the people that I know, in my everyday life that I meet. Even if they aren't exactly fishermen, they came from pretty humble beginnings,. Like my grandfather was a scrap collector, and he actually would go out and collect scraps from the street and sell them. And my grandparents were illiterate. And then, you know, my parents' generation was the first to go to school. So this was very much the story of Singapore that I knew, that I grew up with, and so that naturally, I guess, found its way into the perspective of the book.
+I don't know that I could have written any other way. People ask me that a lot, that if it's like a response to the way Singapore has been presented in other ways, but books take a very long time to write, and I will say that I had only really become aware of the <i>Crazy Rich Asians</i>' representation with the movie, which came up when I had already finished writing this book. So it's not really in conversation as much as everything came out roughly the same time. But I guess these are the people that I know. And so I can only write from that perspective. I don't know, anyone who's like a crazy rich Asian. I just I couldn't write about that. I just don't know about it. So in a way, the version here is the version that I grew up, the Singapore that I grew up knowing, hearing about, reading about the people that I know, in my everyday life that I meet. Even if they aren't exactly fishermen, they came from pretty humble beginnings. My grandfather was a scrap collector, and he actually would go out and collect scraps from the street and sell them. And my grandparents were illiterate. And then, you know, my parents' generation was the first to go to school. So this was very much the story of Singapore that I knew, that I grew up with, and so that naturally, I guess, found its way into the perspective of the book.
 
 Gek Han  
 For our listeners who want to learn more about the period you write about, can you recommend us three history resources that you used? 
