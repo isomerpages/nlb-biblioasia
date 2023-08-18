@@ -90,7 +90,7 @@ In 1924, the General Hospital at Sepoy Lines commenced its four-year General Nur
 <div style="background-color: white;"><img style="width:600px" src="/images/Vol-12-issue-2/angels-in-white/05-angelsinwhite.jpg">To bring festive cheer to the patients, wards at the General Hospital were decorated with Christmas trimmings, circa 1930s. <i>Courtesy of National Archives of Singapore.</i></div>
 
 In 1926, Singapore’s first public health nurse, Miss Ida M. M. Simmons (see text box below) from Scotland, was employed to provide infant and maternal health services to mothers and infants in rural areas. As a result of her recommendations, a mobile dispensary was introduced the following year. The medical team consisted of a doctor, dresser and nurse who made daily trips to rural areas. In addition, nurses were involved in various outreach activities to educate school children and the general public on hygiene and basic health.
-Local nurses also gained recognition. Mrs Maude Ethel Perera joined the Health Branch as a staff nurse in 1929.This was the first time an Asian was deemed to be on par with expatriate nurses and qualified to lead.
+Local nurses also gained recognition. Mrs Maude Ethel Perera joined the Health Branch as a staff nurse in 1929. This was the first time an Asian was deemed to be on par with expatriate nurses and qualified to lead.
 
 #### **World War II to Independence: 1940s–65**
 
