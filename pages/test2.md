@@ -38,29 +38,33 @@ Can you read us something from your book, please?
 Rachel  
 So I'm going to read from right from the beginning of the book, so this is where it starts.
 
-<div style="background-colour:#fff6ba; padding:10px; margin:&nbsp;0px;&nbsp;font-size:130%; background: #fff6ba">
+<div style="background-colour:#fff6ba; padding:10px; margin:&nbsp;0px;&nbsp;font-size:180%; background: #fff6ba">
 
 Decades later, the kampong would trace it all back to this very hour, waves draining the light from this slim, hungry moon. Decades later, they would wonder what could have been had the Lees simply turned back, had some sickness come upon the father manning the outboard motor, or some screaming fit befallen the youngest, forcing them to abandon the day's work and steer their small wooden craft home. Decades later, they would wonder if any difference could have been made at all.<br>
+<br>
+
+Or would past still coalesce into present: The uncle dying the way he did, an outcast burned to blackened bone in a house some said was never his anyway. The kampong still destroyed, not swallowed whole by the waves in accordance with some angry god's decree, as the villagers had always feared, but taken to pieces and sold for parts by the inhabitants themselves. If the little boy, the sweetest, most sensitive boy in the kampong, would nevertheless have become a man who so easily bent the future to his will.<br>
+ <br>
+
+Perhaps he would have; perhaps this had nothing to do with the hour, the boat, the sea, and everything to do with the boy. But these questions could only be asked after the wars had been fought and the nation born and the sea—once thought of as dependable, eternal—stopped with ton upon ton of sand. These questions would not occur to anyone until the events had fully passed them by, until there was nothing to be done, all were fossils, all was calcified history.<br>
+ <br>
+
+For now, though, the year was still 1941, the territory of Singapore still governed by the Ang Mohs as it had been for the past century, and the boy, very little, very afraid, still crouched in the back of his father's fishing boat.<br>
+ <br>
+
+Lee Ah Boon was seven, already a year late, as Hia liked to remind him. Hia, now nine, had taken his first trip on his sixth birthday. But while Hia at six had been a boy with plump, tanned arms and strong calves like springs that could propel him over the low wooden fence at the perimeter of the kampong, Ah Boon at seven was still cave-chested, with the scrawny limbs and delicate hands of a girl. Despite as much time spent in the sun as his brother, Ah Boon's skin retained its milky pallor, as fine as the white flesh of an expensive fish steamed to perfection. Hence his nickname.<br><br>
  
- Or would past still coalesce into present: The uncle dying the way he did, an outcast burned to blackened bone in a house some said was never his anyway. The kampong still destroyed, not swallowed whole by the waves in accordance with some angry god's decree, as the villagers had always feared, but taken to pieces and sold for parts by the inhabitants themselves. If the little boy, the sweetest, most sensitive boy in the kampong, would nevertheless have become a man who so easily bent the future to his will.<br>
+	"Bawal!"<br><br>
  
- Perhaps he would have; perhaps this had nothing to do with the hour, the boat, the sea, and everything to do with the boy. But these questions could only be asked after the wars had been fought and the nation born and the sea—once thought of as dependable, eternal—stopped with ton upon ton of sand. These questions would not occur to anyone until the events had fully passed them by, until there was nothing to be done, all were fossils, all was calcified history.<br>
+ At the sound of his brother's voice, Ah Boon sprang away from the boat's side. In the weak moonlight the sea around them appeared as viscous black oil, roiling gently in the breeze. He shuddered to think what could be waiting beneath its pleated surface.<br><br>
  
- For now, though, the year was still 1941, the territory of Singapore still governed by the Ang Mohs as it had been for the past century, and the boy, very little, very afraid, still crouched in the back of his father's fishing boat.<br>
+ "Scared, ah, Bawal?"<br><br>
  
- Lee Ah Boon was seven, already a year late, as Hia liked to remind him. Hia, now nine, had taken his first trip on his sixth birthday. But while Hia at six had been a boy with plump, tanned arms and strong calves like springs that could propel him over the low wooden fence at the perimeter of the kampong, Ah Boon at seven was still cave-chested, with the scrawny limbs and delicate hands of a girl. Despite as much time spent in the sun as his brother, Ah Boon's skin retained its milky pallor, as fine as the white flesh of an expensive fish steamed to perfection. Hence his nickname.<br>
+Hia clambered toward Ah Boon, stepping over the ropes and nets that littered the floor of the small boat. He moved with a careless, threatening ease, like the foot-long monitor lizards that scuttled through the tall grass around the kampong. Hia grabbed Ah Boon's shoulders, turning his torso out toward the sea.<br><br>
  
- "Bawal!"<br>
+ "Wah, so brave!"<br><br>
  
- At the sound of his brother's voice, Ah Boon sprang away from the boat's side. In the weak moonlight the sea around them appeared as viscous black oil, roiling gently in the breeze. He shuddered to think what could be waiting beneath its pleated surface.<br>
- 
- "Scared, ah, Bawal?"<br>
- 
-Hia clambered toward Ah Boon, stepping over the ropes and nets that littered the floor of the small boat. He moved with a careless, threatening ease, like the foot-long monitor lizards that scuttled through the tall grass around the kampong. Hia grabbed Ah Boon's shoulders, turning his torso out toward the sea.<br>
- 
- "Wah, so brave!"<br>
- 
- Hia pushed his brother suddenly, as if to tip him out of the boat. The sea lurched up toward Ah Boon's face and he clawed at the side, letting out a small whimper.<br>
+ Hia pushed his brother suddenly, as if to tip him out of the boat. The sea lurched up toward Ah Boon's face and he clawed at the side, letting out a small whimper.<br><br>
  
  "You know," Hia said. "Pa never tell you everything about your first trip out. He never tell you about the night swim, hor?"
 </div>
