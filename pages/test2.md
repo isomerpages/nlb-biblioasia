@@ -132,25 +132,25 @@ Gek Han
 For our listeners who want to learn more about the period you write about, can you recommend us three history resources that you used? 
 
 Rachel  
-Okay, so I'm gonna name <i>Singapore Biography</i> by Mark Frost and Yu-Mei Balasingamchow. Do they have to be nonfiction?
+Okay, so I'm gonna name [*Singapore: A Biography*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116) by Mark Frost and Yu-Mei Balasingamchow. Do they have to be nonfiction?
 
 Gek Han  
 Anything.
 
 Rachel  
-Anything? Okay, and then Jeremy Tiang's novel <i>State of Emergency</i>.
+Anything? Okay, and then Jeremy Tiang's novel [*State of Emergency*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202785218).
 
 Gek Han  
 I love that one.
 
 Rachel  
-Yeah, it's fantastic. And then another novel kind of related, I guess is Isa Kamari's <i>Rawa</i>. And I've actually have an extensive acknowledgments section for many of the books that inspired me that I relied on. I can name many more, actually. But you said three. Maybe I name a few. And then you can go check. I also really enjoyed <i>Lee's Lieutenants</i> by Lam Peng Er and Kevin Tan. And then there was another one, <i>The Politics of Landscape in Singapore</i> by Brenda Yeoh and Lily Kong. I really liked that. That was fascinating. <i>My Grandfather's Road</i> by Neil Kim Sang, which is kind of a memoir, a really short memoir that was about also related to resettlement and land reclamation. Yeah, and many, many more in the acknowledgments. 
+Yeah, it's fantastic. And then another novel kind of related, I guess is Isa Kamari's [<i>Rawa</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200156800). And I've actually have an extensive acknowledgments section for many of the books that inspired me that I relied on. I can name many more, actually. But you said three. Maybe I name a few. And then you can go check. I also really enjoyed [*Lee's Lieutenants*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202983783) by Lam Peng Er and Kevin Tan. And then there was another one, [*The Politics of Landscapes in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11772279) by Brenda Yeoh and Lily Kong. I really liked that. That was fascinating. [*My Grandfather's Road*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202400794) by Neo Kim Seng, which is kind of a memoir, a really short memoir that was about also related to resettlement and land reclamation. Yeah, and many, many more in the acknowledgments. 
 
 Gek Han  
 Okay. And now we've come to the part on quickfire questions. So don't think too much. One word answer. Which historical figure would you like to have dinner with?
 
 Rachel  
-In Singapore or in all over? Anywhere in the world? Okay. Wow. This is terrible. Because I'm actually very bad at history.
+In Singapore or anywhere in the world? Okay. Wow. This is terrible. Because I'm actually very bad at history.
 
 Gek Han  
 Okay in Singapore, then. 
@@ -168,13 +168,13 @@ Gek Han
 Cool. And which book is on your nightstand?
 
 Rachel  
-I'm currently reading Daryl Qilin Yam's <i>Lovelier, Lonelier</i>. And he's a local author, and the book's published by Epigram, I think. It's a contemporary novel about a group of friends and the way in which their lives intersect after the passing of a comet and unexpected comet in the sky. And it's sort of slightly surreal, slightly hallucinatory. It's hard to say what it's about, but essentially it is about friendship and love and the choices that that we make.
+I'm currently reading Daryl Qilin Yam's [<i>Lovelier, Lonelier</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205538575). And he's a local author, and the book's published by Epigram, I think. It's a contemporary novel about a group of friends and the way in which their lives intersect after the passing of a comet and unexpected comet in the sky. And it's sort of slightly surreal, slightly hallucinatory. It's hard to say what it's about, but essentially it is about friendship and love and the choices that that we make.
 
 Gek Han  
 Do you have a favorite genre? 
 
 Rachel  
-No, I don't. I read very omnivorously. I have an affection for 19th century French novels, I would say. And this book was loosely based on the structure of the novel <i>The Red and the Black</i> by Stendhal, which is about a young French boy growing up in the countryside who wants to model his life on Napoleon. 
+No, I don't. I read very omnivorously. I have an affection for 19th century French novels, I would say. And this book was loosely based on the structure of the novel [<i>The Red and the Black</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14251420) by Stendhal, which is about a young French boy growing up in the countryside who wants to model his life on Napoleon. 
 
 Gek Han  
 History is...
@@ -208,5 +208,3 @@ Thank you. Thank you.
 
 Jimmy  
 If you've enjoyed this episode, subscribe to the podcast and the BiblioAsia newsletter.
-
-Transcribed by https://otter.ai
