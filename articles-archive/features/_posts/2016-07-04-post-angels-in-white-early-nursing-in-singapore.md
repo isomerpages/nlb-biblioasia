@@ -143,6 +143,8 @@ Extracted from Singapore Infopedia: National Library Board. (2013, March 25). <a
 
 #### **REFERENCES**
 
+Department of Information Services, “[Citations for the Presentation of Awards &amp; Insignias by H.E. the Governor at Government House on Saturday, July 26, 1958 at 11 a.m.](https://www.nas.gov.sg/archivesonline/speeches/record-details/832bae3d-bcf7-11e6-b045-0050568939ad),” press release, 26 July 1958.&nbsp; (From National Archives of Singapore document no. PressR19580726a)
+
 Edwards, N., &amp; Keys, P. (1988). *[Singapore: A guide to buildings, streets &amp; places](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4712298)* (pp. 340–341). Singapore: Times Books International. (Call no.: RSING 959.57 EDW)
 
 Fildes, V., Marks, L., &amp; Marland, H. (Eds.). (1992). *Women and children first: International maternal and infant welfare, 1870–1945*. London: Routledge. (Not available in NLB holdings)
