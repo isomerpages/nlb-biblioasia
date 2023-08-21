@@ -2,6 +2,5 @@ collections:
   holding-area:
     output: true
     order:
-      - Revisiting the Mystery of the Missing Gold Coins.md
       - test2.md
       - Test page.md
