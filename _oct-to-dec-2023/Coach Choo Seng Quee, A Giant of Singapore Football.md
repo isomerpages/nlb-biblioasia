@@ -72,7 +72,7 @@ The earliest evidence of him coaching young talents there dates to 1950 when he 
 ![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/trainingsession.jpg)
 <div style="background-color: white;">Choo Seng Quee at a training session at Jalan Besar Stadium, 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 7. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div>
 
-Under his tutelage, some of his proteges would take the local leagues by storm with Star Soccerites when they easily conquered the lower divisions and won the top-flight First Division in that decade.[^21]
+Under his tutelage, some of his proteges would take the local leagues by storm with their team Star Soccerites during which they easily conquered the lower divisions and won the top-flight First Division in that decade.[^21]
 
 #### **“Uncle” Choo, the Legend**
 
