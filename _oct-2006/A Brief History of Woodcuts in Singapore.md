@@ -75,10 +75,9 @@ The library's tradition of arts support continues today. With the many art exhib
 <img src="/images/Vol%202%20Issue%203/Woodcuts/presentation4.jpg" style="width:70%;">(From Left): HDB chairman Lim Kim San, Minister for Culture S. Rajaretnam and National Library Board member Dr Lim Woo Chiang view an exhibition on Singapore Architecture at the library, March 1963. The exhibit was well received by the public (right). <i>Collection of the National Library Picture Archive.</i></div>
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>VISUAL ARTS AT THE NATIONAL LIBRARY (1950s–1970s SOME KEY MOMENTS</b><br><br>
-**1954:**   Raffles Librarian LM Harrod    
-                    works with the Singapore Art 
-                    Society to exhibit paintings at 
-                    the Library
+<b>1954</b>:   Raffles Librarian LM Harrod                              works with the Singapore Art 
+                           Society to exhibit paintings 
+                           at the Library
 
 
 
