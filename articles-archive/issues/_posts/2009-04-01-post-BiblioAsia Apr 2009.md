@@ -20,17 +20,12 @@ Lee Kong Chian Research Fellow *Chiam Ching Leen* shares her findings, insights,
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue1/apr-2009/mosaic-building-contemporary-art-writing/">Building the Mosaic: In Search of Southeast Asian Contemporary Art Writing and Publications</a><br>Senior Librarian and Lee Kong Chian Research Fellow *Roberta Balagopal* considers the dearth of critical published information on Southeast Asian contemporary visual art and artists and how to fill in that gap. [(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_BuildingMosaic.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue1/apr-2009/mosaic-building-contemporary-art-writing/">Building the Mosaic: In Search of Southeast Asian Contemporary Art Writing and Publications</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue1/apr-2009/knowledge-economy-linchpin-asean-integration/">Knowledge Economy: Linchpin of Asean Integration</a><br>The keynote speech delivered by *Dr Surin Pitsuwan*, Secretary-General of ASEAN, on 17 October 2008 (Day Two) at the “Bridging Worlds 2008 Conference”, organised by the National Library Board of Singapore and the NGO Learning Summit, in collaboration with the Asia Dialogue Society. [(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_AseanIntegration.pdf)
 
-**Knowledge Economy: Linchpin of Asean Integration** <br>
-The keynote speech delivered by *Dr Surin Pitsuwan*, Secretary-General of ASEAN, on 17 October 2008 (Day Two) at the “Bridging Worlds 2008 Conference”, organised by the National Library Board of Singapore and the NGO Learning Summit, in collaboration with the Asia Dialogue Society. [(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_AseanIntegration.pdf)
-
-**Singapore Town Club Collection** <br>
-Singapore Town Club Collection Senior Librarian *Eunice Low* highlights heritage items recently acquired by the National Library Board from the Singapore Town Club, including photographs, portraits, sketches, and World War I memorabilia.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue1/apr-2009/singapore-town-club-collection/">Singapore Town Club Collection</a><br>Singapore Town Club Collection Senior Librarian *Eunice Low* highlights heritage items recently acquired by the National Library Board from the Singapore Town Club, including photographs, portraits, sketches, and World War I memorabilia.
 [(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_TownClub.pdf)
 
-**A View from the Top: Williams-Hunt Aerial Photograph Collection** <br>
-Senior Library *Makeswary Periasamy* introduces aerial photographs gathered by P.D.R Williams-Hunt, an aerial photograph interpreter for the Royal Air Force during and after World War II.[(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_WilliamsHunt.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue1/apr-2009/williams-hunt-aerial-view-photograph/">A View from the Top: Williams-Hunt Aerial Photograph Collection</a><br>Senior Library *Makeswary Periasamy* introduces aerial photographs gathered by P.D.R Williams-Hunt, an aerial photograph interpreter for the Royal Air Force during and after World War II.[(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_WilliamsHunt.pdf)
 
 **“知识创新与图书馆服务” – 第四届上海国际图书馆论坛** <br>
 Senior Librarian *Vicky Gao* shares highlights from the 4th Shanghai International Library Forum. [(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_IntelligenceInnovation.pdf)
