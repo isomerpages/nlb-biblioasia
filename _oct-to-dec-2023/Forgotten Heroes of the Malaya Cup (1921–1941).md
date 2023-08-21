@@ -195,7 +195,7 @@ Lancelot Maurice Pennefather was known as “the Son of the Devil” because of 
 
 He played in six Malaya Cup finals for Singapore, winning in 1923, 1924 and 1925. In 1928, the trophy was shared after a two-all draw against Selangor. He had speed and a long penetrative kick, and was a crowd favourite with his “end-to-end clearances, his fierce tackles against giant forwards and uncanny coverage of the goal area”.[^29]
 
-Pennefather was a certainty to play in the first Malaya Cup final in 1921 but chose to represent his club, the Singapore Recreation Club, in athletics instead. An all-round sportsman, he could also throw a cricket ball well over a distance of 100 yards. Together with his wife Alice and later granddaughter Annabel, the name of Pennefather became firmly embedded in Singapore’s sport story. (Annabel was a national hockey player and captained the national women’s team from 1970 to 1980.) 
+Pennefather was a certainty to play in the first Malaya Cup final in 1921 but chose to represent his club, the Singapore Recreation Club, in athletics instead. An all-round sportsman, he could also throw a cricket ball well over a distance of 100 yards. Together with his wife Alice and later granddaughter Annabel, the name of Pennefather became firmly embedded in Singapore’s sport story. (Alice excelled in badminton, tennis and hockey, and was inducted into the Singapore Women’s Hall of Fame posthumously in 2016 for her contributions to women’s sports in Singapore. Annabel was a national hockey player and captained the national women’s team from 1970 to 1980.) 
 
 #### **Roy Fairley Smith**
 
