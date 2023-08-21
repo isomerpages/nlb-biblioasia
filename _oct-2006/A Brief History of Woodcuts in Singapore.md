@@ -47,7 +47,9 @@ While the focus on woodcuts dwindled, printmaking as a medium did not. The Conte
 The new millennium saw a smaller scale woodcut exhibition, Singapore in Prints: 1950s to 1960s - A Historical Narrative Through Woodblock Prints, held at the National University of Singapore Museum in 2002. Earlier this year, Lim Mu Hue held a solo exhibition of woodcut works, entitled Woodcut Prints at the Hainan Clan Association, which also saw the publication of a catalogue of the same name.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>IMPRINTS OF THE PAST: REMEMBERING THE 1966 WOODCUT SHOW COMMENCES ON 14 OCTOBER 2006 AND IS LOCATED AT LEVEL 8, NATIONAL LIBRARY</b><br><br>
-<b>MATERIALS AND PROCESSES</b>By Foo Kwee Hong<br><br>
+<b>MATERIALS AND PROCESSES</b> By Foo Kwee Hong<br><br>
+	
+<img src="/images/Vol%202%20Issue%203/Woodcuts/seascape_lim%20yew%20kua.jpg" style="width:50%;">Lim Yew Kuan, Choo Keng Kwang, Foo Chen San, See Chien Tee, Tan Tea Chie and Lim Mue Hue, <i>Seascape</i>, 1966, woodcut print. <i>Image courtesy of artists.</i><br><br>
 Woodcuts or woodblock printing is an animated art form. A complex story could be made clear at first glance within the borders of the print and actions of real life could be clearly shown. The process to convey the story and actions depends on the wood and the cutting tools.
 
 The wood used to produce most of the prints in the 1950s to the early 19601 was the Chinese littleleaf boxwood (huang yang mu). Obtainable from bookstores like Shanghai Book Company and Chung Hwa Book Company, it was rather costly but the boxwood blade nevertheless was the preferred in allowing the artists make cuts without chipping the wood. As the blocks were about one to two centimetres thick and very sturdy, many artists actually carved on both sides of the block while some were said to have planed the whole surface away to begin on another image.
@@ -58,7 +60,3 @@ As for the prints, they were printed using oil-based ink applied onto the blocks
 
 </div>
 <br><br>
-
-
-
-
