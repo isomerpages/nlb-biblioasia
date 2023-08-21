@@ -114,6 +114,38 @@ Council Hall<br>
 <b>1979:</b> Bras Basah photographic exhibition 
 </div>
 
+<div>
+<center><b>Foo Kwee Horng</b><br><b>Koh Nguang How</b><br><b>Lim Cheng Tju</b></center>
+</div>
+
+
+#### **REFERENCES**
+
+Foo Kwee Horng, “Cartoon and Woodcut Movements in Pre-War Singapore (1900–1941)” (master’s thesis, National Institute of Education, Nanyang Technological University, 2005)
+
+Lim Cheng Tju, “Political Prints in Singapore,” _Print Quarterly_ 21, no. 3 (September 2004): 266–81. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Lim Cheng Tju, “Fragments of the Past”: Political Prints of Post-war Singapore,” _The Heritage Journal_ 2, no. 1 (2005), [https://www.academia.edu/6454687/\_Fragments\_of\_the\_Past\_Political\_Prints\_of\_Post\_war\_Singapore](https://www.academia.edu/6454687/_Fragments_of_the_Past_Political_Prints_of_Post_war_Singapore).
+
+Ministry of Culture, Singapore, [_Malaysia Art Exhibition: 22nd–30th September 1962, at Victoria Memorial Hall = Pameran Lukisan Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5415737) (Singapore: Ministry of Culture, 1962). (Call no. RCLOS 759.9595 MAL)
+
+Nanyang Academy of Fine Arts, _Resumption of Classes Anniversary Magazine_ (Singapore: Nanyang Academy of Fine Arts, 1946)
+
+NUS Museum, _Singapore in Prints: 1950s to 1960s_ (Singapore: NUS Museum, 2002)
+
+Printmaking Society (Singapore), _Proof III_ (Singapore: Contemporary Printmaking Association, 2001). (From PublicationSG)
+
+#### **FURTHER READINGS**
+
+Chia Wai Hon, [_See Cheen Tee: Artist Extraordinaire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10398075) (Singapore: Raffles Avenue Editions, 2001). (Call no. RSING q759.95957 SEE)  
+  
+Choo Keng Kwang, [_The Selected Works of Choo Keng Kwang_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11783467) (Singapore: Nanyang Academy of Fine Arts, 2002). (Call no. RSING q759.95957 CHO)
+
+Li Hua, [_Chinese Woodcuts_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8229076) (Beijing: Foreign Languages Press, 1995). (Call no. RART 769.951 LIH)
+
+Lim, Mu Hue 林木化, _Muhua mu ke xuan_ [木化木刻选](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12715613) \[Woodcut prints\] (\[Malaixiya\] \[马来西亚\]: New Art Graphics Sdn. Bhd, 2005). (Call no. Chinese RSING q769.95957 LMH)  
+  
+“Singapore Woodcarving: History and Creativity by Tan Tee Chia,” [_Shyue Dah Annual Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84551292) 1 (30 October 1986). (Call no. RSING 700.705 SDAM)
 
 
 
