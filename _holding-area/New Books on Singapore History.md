@@ -34,4 +34,4 @@ Call no.: RSING 334.5095957 CHI
 
 ![](/images/)
 
-This book covers the history of diplomacy, defence and security of Singapore from 1965 through the 2020s. It shows how the concept of grand strategy applies to small states like Singapore, which integrates different diplomatic, political and defence-oriented tools.
+This book traces the FairPrice Group’s success from a worker-led experiment to a S$4 billion food enterprise. It tells the story of a trade union cooperative with a social mission to moderate the cost of living for Singaporeans, and the crises it navigated as it balances profit with purpose.
