@@ -82,7 +82,8 @@ Council Hall<br>
 <b>1957:</b> British book design exhibition at the library<br>
 <b>1961:</b> "Know Our Singapore" photography exhibition sponsored by the Southeast Asia Photographic Society<br>  A centenary exhibition of paintings by Rabrindranath Tagore, organised by the Commission of India<br>
 <b>1962:</b> Exhibit of 33 Japanese children's paintings organised by the rotary clubs of Singapore and Nagasaki<br>
-<b>1963:</b> "Visionary Architecture and Housing in Singapore"<br> 14th Singapore International Salon of Photography<br>
+<b>1963:</b> "Visionary Architecture and Housing in Singapore"<br>
+ 14th Singapore International Salon of Photography<br>
 <b>1964:</b> Singapore artist Anthony Poon holds first solo show<br>
 <b>1966:</b> Malayan artist Yip Hong Ngee's first one-man show Six Men woodcut prints show<br>
 <b>1967:</b> "Sculpture' 67" - Singapore's first sculpture show<br>
