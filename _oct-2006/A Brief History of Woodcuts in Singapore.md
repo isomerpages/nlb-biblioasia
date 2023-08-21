@@ -84,7 +84,10 @@ The library's tradition of arts support continues today. With the many art exhib
                             the Singapore Art Society 
                             and the University of 
                             Malaya, held at the British 
-                            Council Hall 
+                            Council Hall<br>
+<b>1957:</b>    British book design exhibition at the library<br>
+<b>1961:</b>    "Know Our Singapore" photography exhibition sponsored by the Southeast Asia Photographic Society
+	
 
 
 
