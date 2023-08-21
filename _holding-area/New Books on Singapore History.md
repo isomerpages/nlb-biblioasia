@@ -36,13 +36,13 @@ Call no.: RSING 334.5095957 CHI
 
 This book traces the FairPrice Group’s success from a worker-led experiment to a S$4 billion food enterprise. It tells the story of a trade union cooperative with a social mission to moderate the cost of living for Singaporeans, and the crises it navigated as it balances profit with purpose.
 
-#### **[The Price of Being Fair: The FairPrice Group Story](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+#### **[Twenty Years of Wild Rice](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
 
-By Chia Sue-Ann et al
+By Alfian Sa’at
 
-The Nutgraf Books (2023), 199 pages <br>
-Call no.: RSING 334.5095957 CHI
+Epigram Books (2023), 295 pages <br>
+Call no.: RSING 792.095957 ALF
 
 ![](/images/)
 
-This book traces the FairPrice Group’s success from a worker-led experiment to a S$4 billion food enterprise. It tells the story of a trade union cooperative with a social mission to moderate the cost of living for Singaporeans, and the crises it navigated as it balances profit with purpose.
+Wild Rice was founded in 2000 by award-winning theatre practitioner Ivan Heng, a recipient of the Cultural Medallion. This book features interviews, archival photographs and behind-the-scenes stories to uncover the history of one of Singapore’s leading professional theatre companies. Author Alfian Sa’at, who is also the company’s resident playwright, is a critically acclaimed poet and writer himself.
