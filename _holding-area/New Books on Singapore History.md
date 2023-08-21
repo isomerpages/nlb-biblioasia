@@ -46,3 +46,14 @@ Call no.: RSING 792.095957 ALF
 ![](/images/)
 
 Wild Rice was founded in 2000 by award-winning theatre practitioner Ivan Heng, a recipient of the Cultural Medallion. This book features interviews, archival photographs and behind-the-scenes stories to uncover the history of one of Singapore’s leading professional theatre companies. Author Alfian Sa’at, who is also the company’s resident playwright, is a critically acclaimed poet and writer himself.
+
+#### **[Uncle Choo: Singapore’s Greatest Football Coach](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+
+By Reynold Godwin Pereira 
+
+World Scientific Publishing Co. Pte. Ltd. (2023), 304 pages <br>
+Call no.: RSING 796.334092 PER
+
+![](/images/)
+
+Known as Uncle Choo, Choo Seng Quee brought Singapore football to great heights, especially during the 1970s. He was a defender who helped Singapore win the Malaya Cup twice in 1930s, and later became a coach of the national teams of Singapore, Malaysia and Indonesia. His coaching methods based on hard work and discipline brought him success as a coach, despite conflicts with the Singapore Amateur Football Association.
