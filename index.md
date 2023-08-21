@@ -699,4 +699,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Revisiting the Mystery of the Missing Gold Coins
+      subtitle: Archaeology
+      description: Two ancient gold coins, probably from Aceh, were discovered in
+        Singapore in the middle of the 19th century. Unfortunately, they
+        disappeared a few decades later.
+      button: STRIKING GOLD
+      url: /vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/
+      image: /images/Vol 19 Issue 3/8 Gold Coins/goldcoinsheader2.jpg
+      alt: Image alt text
 ---
