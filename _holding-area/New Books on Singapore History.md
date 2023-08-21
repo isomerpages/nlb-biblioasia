@@ -57,3 +57,5 @@ Call no.: RSING 796.334092 PER
 ![](/images/Vol%2019%20Issue%203/9%20New%20Books/book_5.png)
 
 Known as Uncle Choo, Choo Seng Quee brought Singapore football to great heights, especially during the 1970s. He was a defender who helped Singapore win the Malaya Cup twice in 1930s, and later became a coach of the national teams of Singapore, Malaysia and Indonesia. His coaching methods based on hard work and discipline brought him success as a coach, despite conflicts with the Singapore Amateur Football Association.
+
+For the ebook on NLB OverDrive, click&nbsp;[here](https://nlb.overdrive.com/media/9788854).
