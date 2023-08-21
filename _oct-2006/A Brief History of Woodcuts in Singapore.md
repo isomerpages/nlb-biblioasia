@@ -36,6 +36,11 @@ Apart from these, there were also many literary publications, for example *Geng 
 
 Perhaps in a move to realign the medium as a pure artistic expression rather than a tool of revolution, brought about by the influence of the Modern Chinese Woodcut movement advocated by Lu Xun in the 1930s, more and more artists began to capture still life and sceneries through their woodcuts. This also meant that the works were shown alongside those of other mediums in exhibition halls. One such exhibition was the Malaysia Art Exhibition of 1962 at the Victoria Memorial Hall. Amongst the many artists who participated, at least two featured their woodcuts. Lim Mu Hue showed his *Back Stage and Weaving* while Tan Tee Chie showed three, namely, *Trengganu Sea*, *Birds Shop* and *Gossip*.
 
+<img src="/images/Vol%202%20Issue%203/Woodcuts/gossip1.jpg" style="width:80%;">
+ <div style="background-color: white;">Tan Tie Chie, <i>Gossip</i>, 1962, woodcut print. Reproduced from Selected Works wood-cuts Tan Tie Chie. All rights reserved, NAFA, 1975. 
+</div>
+
+
 Finally on 14 October 1966 at the former National Library Lecture Hall, an exhibition dedicated solely to woodcuts was staged. The artists, good friends who studied and later taught at NAFA, Choo Keng Kwang, Foo Chee San, Lim Yew Kuan, Lim Mu Hue, See Cheen Tee and Tan Tee Chie, named their show Woodcuts. With a combined showing of 95 pieces of prints, the exhibition was opened by then Minister of State for Culture, Mr Lee Khoon Choy. The show was on till 18 October.
 
 The exhibition also travelled to Malaysia. It was exhibited at the Pachui Art Gallery (opened by Chuang Kim Siew, a NAFA classmate of Lim Mu Hue) at the AlA Building in Kuala Lumpur between 12 —17 December that year. The opening was officiated by the Singapore High Commissioner to Malaysia, Mr Lien Ying Chow. Given the tension between Singapore and Malaysia immediately after the separation just a year earlier, such cultural 'diplomacy' showed that the arts was still able to connect the people of the two territories.
