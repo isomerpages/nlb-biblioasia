@@ -54,6 +54,11 @@ Woodcuts was popular in the post war years because the medium was suitable for t
 
 Not many artists were keen to follow up with doing woodblock prints in colour as it became too labour intensive and difficult. Only a few artists like See Cheen Tee, Lee Boon Wang and Tan Tee Chie excelled in this new development of the medium. The wood used for the medium was also getting hard to find in Singapore.
 
+<img src="/images/Vol%202%20Issue%203/Woodcuts/qing%20nian1.jpg" style="width:50%;">
+ <div style="background-color: white;">Cover of the publication<i>Xing Jia Bo Qing Nian,</i> June 1973 issue, featuring a woodcut print of Anderson Bridge by Foo Chen San.  All rights reserved. Hua Wen Zhong Xue Jiao Shi Hui, 1972.
+</div>
+
+
 In a bid to support the practice of the woodcut medium, the Singapore Chinese Teachers' Association's publication, *Xing Jia Bo Qing Nian* (Singapore Ching Lien or Youths of Singapore) featured a woodcut print on every of its cover for the first 3D issues or so since its inception from April 1973. Most of the works were by the six artists and with others from founding editor Ho Kah Leong, Ng Yat Chuan (Huang Yiquan), Qiu Gao Peng and some of Qiu's students from Hua Yi Secondary school. The publication continued till 2003, but from the 1990s, the prints it featured in its pages were mainly from China. Its last editor was Yeap Chong Leng.
 
 From the 1970s to the late 1980s, woodcut was a rather popular choice for many art students of secondary schools and junior colleges as a medium for their examination art project. Publications such as *Banhua Shijie* (Print World) and *Banhua Yishu* (Print Art) from China were readily available as reference materials. However, it was the *Selected Woodcuts* by Tan Tee Chie published by NAFA in May 1975 that gave Singapore its first and only book on woodcuts by a local artist.
