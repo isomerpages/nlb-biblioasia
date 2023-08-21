@@ -25,7 +25,7 @@ sections:
         disappeared a few decades later.
       button: STRIKING GOLD
       url: /vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/
-      image: /images/Vol 19 Issue 3/8 Gold Coins/goldcoinsheader2.jpg
+      image: /images/Vol 19 Issue 3/8 Gold Coins/missinggoldcoins_homepage_img2.jpg
       alt: Image alt text
   - infopic:
       title: Coach Choo Seng Quee, A Giant of Singapore Football
