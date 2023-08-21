@@ -9,13 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-1/apr-to-jun-2022/history-padang/
-      button: A History of the Padang
+      url: /vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/
+      button: Restoring Classic Singaporean Films
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 1/The Padang/the padang hero.jpg
+      background: /images/Vol 19 Issue 2/Restoring SG
+        Films/restore_classic_singapore_films_hero_image.png
+  - infopic:
+      title: Revisiting the Mystery of the Missing Gold Coins
+      subtitle: Archaeology
+      description: Two ancient gold coins, probably from Aceh, were discovered in
+        Singapore in the middle of the 19th century. Unfortunately, they
+        disappeared a few decades later.
+      button: STRIKING GOLD
+      url: /vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/
+      image: /images/Vol 19 Issue 3/8 Gold Coins/goldcoinsheader2.jpg
+      alt: Image alt text
   - infopic:
       title: Coach Choo Seng Quee, A Giant of Singapore Football
       subtitle: Sports
@@ -699,14 +710,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: Revisiting the Mystery of the Missing Gold Coins
-      subtitle: Archaeology
-      description: Two ancient gold coins, probably from Aceh, were discovered in
-        Singapore in the middle of the 19th century. Unfortunately, they
-        disappeared a few decades later.
-      button: STRIKING GOLD
-      url: /vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/
-      image: /images/Vol 19 Issue 3/8 Gold Coins/goldcoinsheader2.jpg
-      alt: Image alt text
 ---
