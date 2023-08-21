@@ -78,10 +78,10 @@ The library's tradition of arts support continues today. With the many art exhib
 <b>1954:</b> Raffles Librarian LM Harrod                              works with the Singapore Art 
                            Society to exhibit paintings 
                            at the Library<br>
-<b>1955:</b>   The Raffles Library co-
+<b>1955:</b> The Raffles Library co-
                             organises an exhibition on 
                             book jacket designs with 
-                            the Singapore Art Society 
+                            the Singapore Art Society 
                             and the University of 
                             Malaya, held at the British 
                             Council Hall<br>
