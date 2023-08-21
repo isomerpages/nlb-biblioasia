@@ -75,28 +75,43 @@ The library's tradition of arts support continues today. With the many art exhib
 <img src="/images/Vol%202%20Issue%203/Woodcuts/presentation4.jpg" style="width:70%;">(From Left): HDB chairman Lim Kim San, Minister for Culture S. Rajaretnam and National Library Board member Dr Lim Woo Chiang view an exhibition on Singapore Architecture at the library, March 1963. The exhibit was well received by the public (right). <i>Collection of the National Library Picture Archive.</i></div>
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>VISUAL ARTS AT THE NATIONAL LIBRARY (1950s–1970s) SOME KEY MOMENTS</b><br><br>
-<b>1954:</b>Raffles Librarian LM Harrod    works with the Singapore Art Society to exhibit paintings at the Library<br>
-<b>1955:</b>The Raffles Library co-
+<b>1954:</b> Raffles Librarian LM Harrod    works with the Singapore Art Society to exhibit paintings at the Library<br>
+<b>1955:</b> The Raffles Library co-
 organises an exhibition on book jacket designs with the Singapore Art Society and the University of Malaya, held at the British 
 Council Hall<br>
-<b>1957:</b>British book design exhibition at the library<br>
-<b>1961:</b>"Know Our Singapore" photography exhibition sponsored by the Southeast Asia Photographic Society<br><b>1961:</b>A centenary exhibition of paintings by Rabrindranath Tagore, organised by the Commission of India<br>
-<b>1962:</b>Exhibit of 33 Japanese children's paintings organised by the rotary clubs of Singapore and Nagasaki<br>
-<b>1963:</b>"Visionary Architecture and Housing in Singapore"<br>
-<b>1963:</b>14th Singapore International Salon of Photography<br>
-<b>1964:</b>Singapore artist Anthony Poon holds first solo show<br>
-<b>1966:</b>Malayan artist Yip Hong Ngee's first one-man show<br> 
-<b>1966:</b>Six Men woodcut prints show<br>
-<b>1967:</b>"Sculpture' 67" - Singapore's first sculpture show<br>
-<b>1968:</b>Five local artists (Sum Lai Moi, Chia Chye Wah, Lee Hoon Leng, Li Chong Chuan and Yap Chin Tong) jointly exhibit 100 paintings<br>
-<b>1969:</b>Penang artist Yeo Hoe Koon exhibits 33 abstract oil works<br>
-<b>1970:</b>Singapore sculpture Ng Eng Teng holds first solo show<br>
-<b>1970:</b>Three Katong convent students (Jane and Anne Wakerman and Moira Scully) exhibit their paintings<br>
-<b>1970:</b>Three local artists (Yu Tian Yu, Wu Fook Wang and Loy Chye Chuan) hold exhibit of paintings<br>	
-<b>1971:</b>Singapore artist Tay Bak Koi holds solo show<br>
-
-
-
+<b>1957:</b> British book design exhibition at the library<br>
+<b>1961:</b>"Know Our Singapore" photography exhibition sponsored by the Southeast Asia Photographic Society<br><b>1961:</b> A centenary exhibition of paintings by Rabrindranath Tagore, organised by the Commission of India<br>
+<b>1962:</b> Exhibit of 33 Japanese children's paintings organised by the rotary clubs of Singapore and Nagasaki<br>
+<b>1963:</b> "Visionary Architecture and Housing in Singapore"<br>
+<b>1963:</b> 14th Singapore International Salon of Photography<br>
+<b>1964:</b> Singapore artist Anthony Poon holds first solo show<br>
+<b>1966:</b> Malayan artist Yip Hong Ngee's first one-man show<br> 
+<b>1966:</b> Six Men woodcut prints show<br>
+<b>1967:</b> "Sculpture' 67" - Singapore's first sculpture show<br>
+<b>1968:</b> Five local artists (Sum Lai Moi, Chia Chye Wah, Lee Hoon Leng, Li Chong Chuan and Yap Chin Tong) jointly exhibit 100 paintings<br>
+<b>1969:</b> Penang artist Yeo Hoe Koon exhibits 33 abstract oil works<br>
+<b>1970:</b> Singapore sculpture Ng Eng Teng holds first solo show<br>
+<b>1970:</b> Three Katong convent students (Jane and Anne Wakerman and Moira Scully) exhibit their paintings<br>
+<b>1970:</b> Three local artists (Yu Tian Yu, Wu Fook Wang and Loy Chye Chuan) hold exhibit of paintings<br>	
+<b>1971:</b> Singapore artist Tay Bak Koi holds solo show<br>
+<b>1971:</b> Singapore artist Goh Beng Kwan holds first exhibition<br>
+<b>1971:</b> Ceramics talk and demonstration by potter Iskandar Jalil
+<b>1971:</b> Adult Education Board's photographic exhibition
+<b>1971:</b> Exhibition of collage work by Mrs Rose Cherrier<br>
+<b>1971:</b> USA: an exhibit of artworks by American artists Bebe Williams and Mary Czectian Archard<br>
+<b>1972:</b> Finger painting talk and demonstration by Wu Tzai Yen<br>
+<b>1972:</b> Batik painting talk and demonstration by Jaffar Latiff<br>
+<b>1972:</b> Yeo Kim Seng exhibits 30 abstract oil paintings<br>
+<b>1972:</b> Ng Eng Teng holds sculpture  exhibition<br>
+<b>1972:</b> Singapore National Photographic exhibition organised by the Photographic Society of Singapore<br>
+<b>1972:</b> Exhibition of batik paintings by Peter Chen<br>
+<b>1972:</b> Singapore Commercial Art Scoiety Exhibition<br>
+<b>1973:</b> Tan Swee Hian holds first solo show<br>
+<b>1974:</b> Michael Ong holds solo show<br>
+<b>1975:</b> Chinese calligraphy and paiting exhibition<br>
+<b>1978:</b> Singapore Youth Associations' National Chinese calligraphy and painting exhibition<br>
+<b>1979:</b> Ancient and modern Chinese ar exhibition organised by local art collector Lai Kong Jin<br>
+<b>1979:</b> Bras Basah photographic exhibition 
 </div>
 
 
