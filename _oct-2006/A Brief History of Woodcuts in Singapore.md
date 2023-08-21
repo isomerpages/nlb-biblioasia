@@ -18,7 +18,7 @@ The practice of woodcut (also known as woodblock prints), as an artistic medium,
 NYSP started it frst art supplement, *Wenman Jie*, from May to December 1936 and later *Jinri Yishu* from January to August 1937. During that period, readers of NYSP were exposed not only to woodcut images but also to articles related to the art form. The development of this medium mirrored China's Modern Woodcut Movement, with Lu Xun being its chief promoter from 1929 till his death in 1936. The works of the German expressionist artist Kathe Kolwitz and the Belgian artist Frans Masereel, which were avidly introduced by Lu Xun, were often reproduced here. On top of that, a series of articles aimed at introducing the new art form in a systematic way was also published. The articles involved the discussion of the appropriateness and the objectiveness in the portrayal of scenes and events, the basic understanding of the purpose of the medium in highlighting the plight of the people in the lower strata of society and, of course, on the techniques and materials involved.
 
 <img src="/images/Vol%202%20Issue%203/Woodcuts/flee%20tai.jpg" style="width:80%;">
- <div style="background-color: white;">Tai In Long, <i>Flee</i>, woodcut print.<i>Reproduced from </i>Nanyang Siang Pao, June 7th, 1936. All rights reserved, Nanyang Siang Pau, 1936. </div>
+ <div style="background-color: white;">Tai In Long, <i>Flee</i>, woodcut print.<i> Reproduced from </i>Nanyang Siang Pao, June 7th, 1936. All rights reserved, Nanyang Siang Pau, 1936. </div>
 
 By mid-1937, woodcuts moved beyond newspapers and into exhibition halls. Numerous exhibitions were held to promote the art and later as fund-raising events for the war efforts back in China. Woodcuts became an acceptable artistic medium, exhibited alongside the more established mediums such as ink painting, photographic works and cartoons. In the new academic year starting July 1940, a woodcut lecturer was even included in the teaching staff list of NAFA (NYSP, 31 July 1940). This clearly signified the importance of the art form during that era and how through the concerted efforts of many, provided the hotbed for a quick resurgence of the practice of the woodcut medium in the post war years.
 
@@ -36,6 +36,11 @@ Apart from these, there were also many literary publications, for example *Geng 
 
 Perhaps in a move to realign the medium as a pure artistic expression rather than a tool of revolution, brought about by the influence of the Modern Chinese Woodcut movement advocated by Lu Xun in the 1930s, more and more artists began to capture still life and sceneries through their woodcuts. This also meant that the works were shown alongside those of other mediums in exhibition halls. One such exhibition was the Malaysia Art Exhibition of 1962 at the Victoria Memorial Hall. Amongst the many artists who participated, at least two featured their woodcuts. Lim Mu Hue showed his *Back Stage and Weaving* while Tan Tee Chie showed three, namely, *Trengganu Sea*, *Birds Shop* and *Gossip*.
 
+<img src="/images/Vol%202%20Issue%203/Woodcuts/gossip1.jpg" style="width:80%;">
+ <div style="background-color: white;">Tan Tie Chie, <i>Gossip</i>, 1962, woodcut print. Reproduced from Selected Works wood-cuts Tan Tie Chie. All rights reserved, NAFA, 1975. 
+</div>
+
+
 Finally on 14 October 1966 at the former National Library Lecture Hall, an exhibition dedicated solely to woodcuts was staged. The artists, good friends who studied and later taught at NAFA, Choo Keng Kwang, Foo Chee San, Lim Yew Kuan, Lim Mu Hue, See Cheen Tee and Tan Tee Chie, named their show Woodcuts. With a combined showing of 95 pieces of prints, the exhibition was opened by then Minister of State for Culture, Mr Lee Khoon Choy. The show was on till 18 October.
 
 The exhibition also travelled to Malaysia. It was exhibited at the Pachui Art Gallery (opened by Chuang Kim Siew, a NAFA classmate of Lim Mu Hue) at the AlA Building in Kuala Lumpur between 12 —17 December that year. The opening was officiated by the Singapore High Commissioner to Malaysia, Mr Lien Ying Chow. Given the tension between Singapore and Malaysia immediately after the separation just a year earlier, such cultural 'diplomacy' showed that the arts was still able to connect the people of the two territories.
@@ -48,6 +53,11 @@ However, the 1966 woodcut show marked the end of an era. Ironically, it was the 
 Woodcuts was popular in the post war years because the medium was suitable for the publication of black and white artwork in the It was also a good way for artists to make extra 'pocket money' by contributing woodblock print to the press for publication, much like some artists dabbling in cartooning and caricatures then. But with the improvement of printing technology which enabled newspapers to publish in colour, woodblock prints declined in popularity among newspapers editors and artists. It was no longer 'lucrative' to do woodcuts as that outlet for publication in the newspapers 
 
 Not many artists were keen to follow up with doing woodblock prints in colour as it became too labour intensive and difficult. Only a few artists like See Cheen Tee, Lee Boon Wang and Tan Tee Chie excelled in this new development of the medium. The wood used for the medium was also getting hard to find in Singapore.
+
+<img src="/images/Vol%202%20Issue%203/Woodcuts/qing%20nian1.jpg" style="width:50%;">
+ <div style="background-color: white;">Cover of the publication<i>Xing Jia Bo Qing Nian,</i> June 1973 issue, featuring a woodcut print of Anderson Bridge by Foo Chen San.  All rights reserved. Hua Wen Zhong Xue Jiao Shi Hui, 1972.
+</div>
+
 
 In a bid to support the practice of the woodcut medium, the Singapore Chinese Teachers' Association's publication, *Xing Jia Bo Qing Nian* (Singapore Ching Lien or Youths of Singapore) featured a woodcut print on every of its cover for the first 3D issues or so since its inception from April 1973. Most of the works were by the six artists and with others from founding editor Ho Kah Leong, Ng Yat Chuan (Huang Yiquan), Qiu Gao Peng and some of Qiu's students from Hua Yi Secondary school. The publication continued till 2003, but from the 1990s, the prints it featured in its pages were mainly from China. Its last editor was Yeap Chong Leng.
 

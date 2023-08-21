@@ -11,7 +11,7 @@ By Jacqueline Lee
 ![](/images/Vol%2019%20Issue%203/Wheat/image1.png)
 <div style="background-color: white;">Residents at the wheat food exhibition organised by the Siglap Women’s Association at Siglap Community Centre, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-Walk into any suburban shopping mall in Singapore today and you’ll find burger joints, a pizza restaurant or two, shops selling wraps and sandwiches, and numerous Japanese restaurants specialising in udon or ramen. These places are invariably full during lunch or dinner, a testimony to their popularity with regular folks.
+Walk into any suburban shopping mall in Singapore today and you’ll find burger joints, a pizza restaurant or two, shops selling wraps and sandwiches, and numerous Japanese restaurants specialising in udon or ramen. These places are invariably full during lunch or dinner time, a testimony to their popularity with regular folks.
 
 However, it’s only been relatively recently that people here have gotten used to eating these foods. A little over 50 years ago, few people would be seen wolfing down a juicy cheeseburger or a tuna mayo sandwich for lunch. Slurping down a bowl of ramen, twirling al dente spaghetti around a fork or holding up a pizza slice would have been viewed as exotic and alien. Back then, most people were used to eating their lunch and dinner with rice. An effort by the Singapore government to get people to consume more of their daily dose of carbs from wheat rather than rice flopped because people vastly preferred eating white rice over bread or wheat-based noodles.
 
@@ -23,7 +23,7 @@ Despite a big push by the government, and support from organisations such as the
 
 In the mid-1960s, worldwide rice production dipped at the same time when demand was surging, which led to rice shortages and price increases. The price of rice rose sharply, from 35 cents per kati (about 600g) in early 1966 to around 49 cents to 51 cents per kati in 1967. During the same period though, the price of flour remained constant at 25 cents per kati.[^4]
 
-The price increase had a significant impact on the state’s finances. The government calculated that if people ate more wheat in place of rice, it would be able to save on foreign exchange. Speaking in Parliament, Finance Minister Goh Keng Swee noted that Singaporeans consumed around 4,000 tons of wheat compared to 12,000 tons of rice monthly. If they ate 4,000 more tons of locally milled wheat instead of imported rice every month, Singapore would save $22 million in foreign exchange per year.[^5]
+The price increase had a significant impact on the state’s finances. The government calculated that if people ate more wheat in place of rice, it would be able to save on "foreign exchange". Speaking in Parliament, Finance Minister Goh Keng Swee noted that Singaporeans consumed around 4,000 tons of wheat compared to 12,000 tons of rice monthly. If they ate 4,000 more tons of locally milled wheat instead of imported rice every month, Singapore "could save $22 million in foreign exchange per year".[^5]
 
 The seeds of the campaign were sown in June 1967 when Deputy Prime Minister Toh Chin Chye urged Singaporeans to change their eating habits by consuming more wheat products instead of rice due to the global rice shortage.[^6] A few days later, the NTUC pledged support for an “eat more wheat and less rice” campaign. “Wheat is more nutritious than rice and only at half the price,” said Seah Mui Kok, secretary-general of the NTUC.[^7] 
 
@@ -47,7 +47,7 @@ Among the biggest events were two nationwide wheat cooking competitions organise
 ![](/images/Vol%2019%20Issue%203/Wheat/19980005442%20-%20img0104v2.jpg)
 <div style="background-color: white;">A contestant preparing the ingredients to cook at the finals of the nationwide cooking competition held at the Singapore Conference Hall, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-For the finals of the first competition held at the Singapore Conference Hall on 17 October 1967, 10 contestants were chosen from each category and made to cook their dishes for the judges who would then determine the winners. The first prize winners were domestic science teacher Mrs Theresa Teow for Malayan savoury pancakes (Malay), Mr G.P. Ponnusamy, a cook, for wheat *uppumaa* (Indian), Mrs Rita Fernando, also a domestic science teacher, for stuffed fried dough balls (Chinese) and housewife Mrs Clara Anciano for basic hot cake (Western).[^13]
+For the finals of the first competition held at the Singapore Conference Hall on 17 October 1967, 10 contestants were chosen from each category and made to cook their dishes for the judges who would then determine the winners. The first prize winners were domestic science teacher Mrs Theresa Teow for Malayan savoury pancakes (Malay), Mr G.P. Ponnusamy, a cook, for wheat *uppumaa* (Indian), Mrs Rita Fernando, also a domestic science teacher, for stuffed fried dough balls (Chinese) and housewife Mrs Clara Anciano for basic hot cakes (Western).[^13]
 
 The finals of the second competition took place at the Singapore Badminton Hall on 25 February 1968.[^14] When interviewed for a radio programme, first prize winner of the Malay section Fatimah Wahab, a pre-university student, said: “Cooking is my favourite so after following last year’s cooking competition, I decided to participate in this year’s.” The reporter who tasted her *roti udang* described it as “nice, rich, golden brown” and “delicious”.[^15]  
 
@@ -138,7 +138,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^12]: “[Cooking With Wheat: Radio, TV Contest for Housewives](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670824-1.2.30),” *Straits Times*, 24 August 1967, 6; “[Dy P.M. Happy Over Eat More Wheat Drive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19671018-1.2.14.65),” *Eastern Sun*, 18 October 1967, 11. (From NewspaperSG)
 
-[^13]: “[Wheat Flour Dishes: The Winners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671018-1.2.22),” *Straits Times*, 18 October 1967, 4. (From NewspaperSG)
+[^13]: “[Wheat Flour Dishes: The Winners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671018-1.2.22),” *Straits Times*, 18 October 1967, 4. (From NewspaperSG); RTS Enterprises (Singapore), [_“The Proof Is in the Eating” Recipe Book_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4402029) (Singapore: Printed by the Govt. Print. Off., 1969), 31, 139, 163, 171. (From National Library, Singapore, call no. RCLOS 641.6311 RTS)
 
 [^14]: “[Cooking Contest: 900 Wheat Recipes Received](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easternsun19680206-1.2.18.38),” *Eastern Sun*, 6 February 1968, 13. (From NewspaperSG)
 
@@ -146,7 +146,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^16]: Radio Singapura, “[Background No. 1: Why Wheat](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/51f11ddb-1164-11e3-83d5-0050568939ad),” 18:45.
 
-[^17]: RTS Enterprises (Singapore), “[*The Proof Is in the Eating” Recipe Book*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4402029) (Singapore: Printed by the Govt. Print. Off., 1969). (From National Library, Singapore, call no. RCLOS 641.6311 RTS)  
+[^17]: RTS Enterprises (Singapore), [_“The Proof Is in the Eating” Recipe Book_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4402029) (Singapore: Printed by the Govt. Print. Off., 1969). (From National Library, Singapore, call no. RCLOS 641.6311 RTS)  
 
 [^18]: “[Cookery Contest ‘A Gourmet’s Delight’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680806-1.2.109),” *Straits Times*, 6 August 1968, 14. (From NewspaperSG)
 

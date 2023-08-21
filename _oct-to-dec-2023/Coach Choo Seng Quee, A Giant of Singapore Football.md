@@ -12,7 +12,7 @@ By A. Thiyaga Raju and Gary Koh
 ![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/a7spread.jpg)
 <div style="background-color: white;">Choo Seng Quee (right) and Football Association of Singapore chairman Ganesan Nadesan celebrating after Singapore’s victory over Penang in the 1977 Malaysia Cup. <i>Image reproduced from Godfrey Robert, The Malaysia Cup (Singapore: 2A Project Consultants, 1991), 97. (From National Library, Singapore, call no. RSING 796.33464 ROB).</i></div>
 
-There are many coaches who can guide and mastermind their teams to win matches, but only a select few have what it takes to bring them over the finish line and claim silverware.
+There are many coaches who can guide and mastermind their teams to win matches, but only a select few have what it takes to bring them over the finish line and claim victory.
 
 Choo Seng Quee was a rare breed in the latter category among Singaporean coaches, for he instinctively knew how to lead his players to victories and lay the foundation for future successes.
 
@@ -72,7 +72,7 @@ The earliest evidence of him coaching young talents there dates to 1950 when he 
 ![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/trainingsession.jpg)
 <div style="background-color: white;">Choo Seng Quee at a training session at Jalan Besar Stadium, 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 7. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div>
 
-Under his tutelage, some of his proteges would take the local leagues by storm with Star Soccerites when they easily conquered the lower divisions and won the top-flight First Division in that decade.[^21]
+Under his tutelage, some of his proteges would take the local leagues by storm with their team Star Soccerites during which they easily conquered the lower divisions and won the top-flight First Division in that decade.[^21]
 
 #### **“Uncle” Choo, the Legend**
 
