@@ -3,7 +3,7 @@ title: New Books on Singapore History
 permalink: /holding-area/permalink/newbooks/
 description: ""
 ---
-#### **[Imagining Singapore: Pictorial Photography from the 1950s to the 1970s](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+#### **[Imagining Singapore: Pictorial Photography from the 1950s to the 1970s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206080449)**
 
 By Charmaine Toh
 
@@ -14,7 +14,7 @@ Call no.: RSING 770.95957 TOH
 
 As Singapore struggled for independence and embarked on industralisation, pictorial photography helped shape the way modern Singapore was imagined and represented in the decades that followed. This book draws from interviews, unpublished historical data and newly discovered photographs to examine the history of this particular art form.
 
-#### **[Singapore’s Grand Strategy](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+#### **[Singapore’s Grand Strategy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205979515)**
 
 By Ang Cheng Guan
 
@@ -25,7 +25,7 @@ Call no.: RSING 327.5957 ANG
 
 This book covers the history of diplomacy, defence and security of Singapore from 1965 through the 2020s. It shows how the concept of grand strategy applies to small states like Singapore, which integrates different diplomatic, political and defence-oriented tools.
 
-#### **[The Price of Being Fair: The FairPrice Group Story](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+#### **[The Price of Being Fair: The FairPrice Group Story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206063623)**
 
 By Chia Sue-Ann et al
 
@@ -36,7 +36,7 @@ Call no.: RSING 334.5095957 CHI
 
 This book traces the FairPrice Group’s success from a worker-led experiment to a S$4 billion food enterprise. It tells the story of a trade union cooperative with a social mission to moderate the cost of living for Singaporeans, and the crises it navigated as it balances profit with purpose.
 
-#### **[Twenty Years of Wild Rice](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+#### **[Twenty Years of Wild Rice](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205372274)**
 
 By Alfian Sa’at
 
@@ -47,7 +47,7 @@ Call no.: RSING 792.095957 ALF
 
 Wild Rice was founded in 2000 by award-winning theatre practitioner Ivan Heng, a recipient of the Cultural Medallion. This book features interviews, archival photographs and behind-the-scenes stories to uncover the history of one of Singapore’s leading professional theatre companies. Author Alfian Sa’at, who is also the company’s resident playwright, is a critically acclaimed poet and writer himself.
 
-#### **[Uncle Choo: Singapore’s Greatest Football Coach](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+#### **[Uncle Choo: Singapore’s Greatest Football Coach](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206077091)**
 
 By Reynold Godwin Pereira 
 
