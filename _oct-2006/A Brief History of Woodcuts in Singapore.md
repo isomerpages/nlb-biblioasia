@@ -92,6 +92,3 @@ Council Hall<br>
  Three local artists (Yu Tian Yu, Wu Fook Wang and Loy Chye Chuan) hold exhibit of paintings<br>	
 <b>1971:</b> Singapore artist Tay Bak Koi holds solo show	
 	<br></div>
-
-
-
