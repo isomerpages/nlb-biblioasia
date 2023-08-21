@@ -86,8 +86,9 @@ The library's tradition of arts support continues today. With the many art exhib
                             Malaya, held at the British 
                             Council Hall<br>
 <b>1957:</b>    British book design exhibition at the library<br>
-<b>1961:</b>    "Know Our Singapore" photography exhibition sponsored by the Southeast Asia Photographic Society
-	
+<b>1961:</b>    "Know Our Singapore" photography exhibition sponsored by the Southeast Asia Photographic Society<br>
+	                          A centenary exhibition of paintings by Rabrindranath Tagore, organised by the Commissio of India
+<b>1962:</b> 	  Exhibit of 33 Japanese children's paintings organised by the rotary clubs of Singapore and Nagasaki
 
 
 
