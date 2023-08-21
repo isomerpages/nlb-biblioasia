@@ -11,7 +11,7 @@ By Jacqueline Lee
 ![](/images/Vol%2019%20Issue%203/Wheat/image1.png)
 <div style="background-color: white;">Residents at the wheat food exhibition organised by the Siglap Women’s Association at Siglap Community Centre, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-Walk into any suburban shopping mall in Singapore today and you’ll find burger joints, a pizza restaurant or two, shops selling wraps and sandwiches, and numerous Japanese restaurants specialising in udon or ramen. These places are invariably full during lunch or dinner, a testimony to their popularity with regular folks.
+Walk into any suburban shopping mall in Singapore today and you’ll find burger joints, a pizza restaurant or two, shops selling wraps and sandwiches, and numerous Japanese restaurants specialising in udon or ramen. These places are invariably full during lunch or dinner time, a testimony to their popularity with regular folks.
 
 However, it’s only been relatively recently that people here have gotten used to eating these foods. A little over 50 years ago, few people would be seen wolfing down a juicy cheeseburger or a tuna mayo sandwich for lunch. Slurping down a bowl of ramen, twirling al dente spaghetti around a fork or holding up a pizza slice would have been viewed as exotic and alien. Back then, most people were used to eating their lunch and dinner with rice. An effort by the Singapore government to get people to consume more of their daily dose of carbs from wheat rather than rice flopped because people vastly preferred eating white rice over bread or wheat-based noodles.
 
