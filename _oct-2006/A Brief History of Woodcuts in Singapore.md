@@ -72,7 +72,7 @@ One particularly prominent display back in the 1960s was the Photographic Societ
 
 The library's tradition of arts support continues today. With the many art exhibitions and activities going on at the new National Library. Some examples include the recent June exhibition of sculpture by the Sculpture Society (Singapore), the Raffles Design Institute's graduation show, and the contemporary art installation being displayed currently in conjunction with the Singapore Biennale (running from September — November).
 	
-<img src="/images/Vol%202%20Issue%203/Woodcuts/presentation4.jpg" style="width:50%;">(From Left): HDB chairman Lim Kim San, Minister for Culture S. Rajaretnam and National Library Board member Dr Lim Woo Chiang view an exhibition on Singapore Architecture at the library, March 1963. The exhibit was well received by the public (right). <i>Collection of the National Library Picture Archive.</i></div>
+<img src="/images/Vol%202%20Issue%203/Woodcuts/presentation4.jpg" style="width:70%;">(From Left): HDB chairman Lim Kim San, Minister for Culture S. Rajaretnam and National Library Board member Dr Lim Woo Chiang view an exhibition on Singapore Architecture at the library, March 1963. The exhibit was well received by the public (right). <i>Collection of the National Library Picture Archive.</i></div>
 
 
 
