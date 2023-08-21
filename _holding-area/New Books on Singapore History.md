@@ -3,8 +3,7 @@ title: New Books on Singapore History
 permalink: /holding-area/permalink/newbooks/
 description: ""
 ---
-#### **[Imagining Singapore: Pictorial Photography from the 1950s to the 1970s
-](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+#### **[Imagining Singapore: Pictorial Photography from the 1950s to the 1970s](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
 
 By Charmaine Toh
 
