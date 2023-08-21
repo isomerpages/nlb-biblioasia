@@ -87,6 +87,11 @@ Council Hall<br>
 <b>1966:</b> Malayan artist Yip Hong Ngee's first one-man show Six Men woodcut prints show<br>
 <b>1967:</b> "Sculpture' 67" - Singapore's first sculpture show<br>
 <b>1968:</b> Five local artists (Sum Lai Moi, Chia Chye Wah, Lee Hoon Leng, Li Chong Chuan and Yap Chin Tong) jointly exhibit 100 paintings<br>
-<b>1969:</b>       Penang artist Yeo Hoe Koon exhibits 33 abstract oil works<br>
-<b>1970:</b>       Singapore sculpture Ng Eng Teng holds firs t solo show 
-<br><br></div>
+<b>1969:</b>  Penang artist Yeo Hoe Koon exhibits 33 abstract oil works<br>
+<b>1970:</b> Singapore sculpture Ng Eng Teng holds first solo show<br> Three Katong convent students (Jane and Anne Wakerman and Moira Scully) exhibit their paintings <br>
+ Three local artists (Yu Tian Yu, Wu Fook Wang and Loy Chye Chuan) hold exhibit of paintings<br>	
+<b>1971:</b> Singapore artist Tay Bak Koi holds solo show	
+	<br></div>
+
+
+
