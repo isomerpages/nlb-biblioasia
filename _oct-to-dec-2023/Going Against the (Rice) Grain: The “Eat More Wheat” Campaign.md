@@ -146,7 +146,7 @@ During the early days of the Covid-19 pandemic, the shortage of flour was certai
 
 [^16]: Radio Singapura, “[Background No. 1: Why Wheat](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/51f11ddb-1164-11e3-83d5-0050568939ad),” 18:45.
 
-[^17]: RTS Enterprises (Singapore), [“_The Proof Is in the Eating” Recipe Book_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4402029)
+[^17]: RTS Enterprises (Singapore), “[_The Proof Is in the Eating” Recipe Book_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4402029)
 
 [^18]: “[Cookery Contest ‘A Gourmet’s Delight’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680806-1.2.109),” *Straits Times*, 6 August 1968, 14. (From NewspaperSG)
 
