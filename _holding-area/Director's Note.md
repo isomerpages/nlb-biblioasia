@@ -11,7 +11,7 @@ One of these men was [Choo Seng Quee](/vol-19/issue-3/oct-dec-2023/choo-seng-que
 
 Around the time that Uncle Choo was making a name for himself as a coach, a [grand piano at the Victoria Memorial Hall](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/) was gaining a reputation as well, but not in a good way. It was so bad that a renowned pianist compared it to cookware. It may not have been a great musical instrument, but its history makes for a great read in the hands of retired physics professor and composer Bernard Tan.
 
-Speaking of great reads, don’t miss the story of the [missing ancient gold coins](/vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/). These two coins were found in the middle of the 19th century but mysteriously vanished a few decades later. Where did they come from and how did they disappear? Through a clever bit of reverse engineering, librarian Foo Shu Tieng has come up with some compelling new theories about their origins.&nbsp;
+Speaking of great reads, don’t miss the story of the [missing ancient gold coins](/vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/). These two coins were found in the middle of the 19th century but mysteriously vanished a few decades later. Where did they come from and how did they disappear? Through a clever bit of reverse engineering, librarian Foo Shu Tieng has come up with some compelling new theories about their origins.
 
 No need for clever guesswork regarding the origins of printing in Singapore though. This year marks the [200th anniversary of printing] here. If you want to discover the early pioneers and see examples of the first material printed on the island, don’t miss librarian Gracie Lee’s essay.
 
