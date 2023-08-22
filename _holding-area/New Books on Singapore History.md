@@ -23,7 +23,7 @@ Call no.: RSING 327.5957 ANG
 
 ![](/images/Vol%2019%20Issue%203/9%20New%20Books/book_2.png)
 
-This book covers the history of diplomacy, defence and security of Singapore from 1965 through the 2020s. It shows how the concept of grand strategy applies to small states like Singapore, which integrates different diplomatic, political and defence-oriented tools.
+This books covers the history of Singapore’s approach to diplomacy, defence and security from 1965 through to the 2020s. It shows how the concept of grand strategy applies to small states like Singapore, which integrates different diplomatic, political and defence-oriented tools.
 
 #### **[The Price of Being Fair: The FairPrice Group Story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206063623)**
 
