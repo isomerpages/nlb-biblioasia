@@ -7,7 +7,7 @@ third_nav_title: Episode 13
 ---
 [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224) is a work of historical fiction set in Singapore that has received rave reviews from the New Yorker and the New York Times. A love story, it also took five years of serious research into a variety of topics, including land reclamation, the Japanese occupation, and postwar politics in Singapore. Listen to author Rachel Heng talk about her book and her fascinating research process, which includes a BiblioAsia article on [land reclamation](/vol-13/issue-1/apr-jun-2017/land-from-sand/) she referred to!
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F2wUo78qD_Q?si=iZkziW2mCETCsB1P" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/videoseries?si=5fiHFQaJ9hxa3_ie&amp;list=PLJlLW0qKYHTNxyG3nZCd47tKP_5G7Ntv4" height="315" width="560"></iframe>
 
  
 #### **Listen to the Full Episode** ####
