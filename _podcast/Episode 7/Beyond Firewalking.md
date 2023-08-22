@@ -9,7 +9,7 @@ third_nav_title: Episode 7
 ---
 There's more to firewalking than the public display of religious devotion. Independent curator Nalina Gopal tells us the stories behind the three-month rituals that precede the firewalking at Singapore's Sri Mariamman Temple.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UxxgjVs0_BE" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UxxgjVs0_BE?si=choKE4-txEGtopZS" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
 Available on [Spotify](https://open.spotify.com/episode/5w9yBquKXj0K3RFPDkYx1W), [Apple Podcasts](https://podcasts.apple.com/us/podcast/beyond-firewalking/id1688142751?i=1000620602266), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZmU5ZDI0ZTUtY2JiZS00NWMzLThlNTItN2U4ZDI0ODg3NjRl?sa=X&amp;ved=0CAUQkfYCahcKEwi4krWC35WAAxUAAAAAHQAAAAAQAQ), and wherever you listen.
