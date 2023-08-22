@@ -16,19 +16,19 @@ Before the 1970s, it was not compulsory to wear a crash helmet while riding a mo
 Getting people to wear crash helmets was an 
 uphill task. *Sharad Pandian*.  [(PDF)]
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">Forgotten Heroes of the Malaya Cup (1921–1941)</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/">Forgotten Heroes of the Malaya Cup (1921–1941)</a><br>
 Before the war, these footballers were household names in Singapore. *Nick Aplin*.  [(PDF)]
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">Coach Choo Seng Quee: A Giant of Singapore Football</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/">Coach Choo Seng Quee: A Giant of Singapore Football</a><br>
 Four decades after his death, we remember Choo Seng Quee’s many contributions to the sport. *A. Thiyaga Raju and Gary Koh*.  [(PDF)]
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">A Grand Piano’s Chequered History: The Journey of a Chappell Grand Piano from the Victoria Memorial Hall to the National Library Building </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/">A Grand Piano’s Chequered History: The Journey of a Chappell Grand Piano from the Victoria Memorial Hall to the National Library Building </a><br>
 A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it. *Bernard T.G. Tan*.  [(PDF)]
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">The Early History of Printing in Singapore</a><br>
 Printing in Singapore dates back 200 years with the establishment of a press by Christian missionaries. Their efforts to spread the gospel also helped spread knowledge of the printing press here. *Gracie Lee*.  [(PDF)]
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">Revisiting the Mystery of the Missing Gold Coins</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/">Revisiting the Mystery of the Missing Gold Coins</a><br>
 Two ancient gold coins, probably from Aceh, were discovered in Singapore in the middle of the 19th century. Unfortunately, they mysteriously disappeared a few decades later. *Foo Shu Tieng*.  [(PDF)]
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">Panton Malaijoe dan Portugees: A Rediscovered Manuscript Sheds Light on the Languages and Traditions of Colonial Batavia</a><br>
