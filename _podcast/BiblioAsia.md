@@ -97,6 +97,7 @@ Listen on: [Spotify](https://open.spotify.com/episode/1khpU2lC5XWR9mef2bbIBY), [
 *The Great Reclamation* is a work of historical fiction set in Singapore that has received rave reviews from the New Yorker and the New York Times. A love story, it also took five years of serious research into a variety of topics, including land reclamation, the Japanese occupation, and postwar politics in Singapore. Listen to author Rachel Heng talk about her book and her fascinating research process, including a BiblioAsia article on&nbsp;[land reclamation](https://nlb-ba-staging.netlify.app/vol-13/issue-1/apr-jun-2017/land-from-sand/)&nbsp;she referred to!<br>
 
 <img style="width: 35%" src="/images/Podcast/ep%2013%20(rachel%20heng).jpg" align="left"><br clear="all">
+Listen on: [Spotify](https://open.spotify.com/episode/6vGhTAmDHGqSJulPUEurv6), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-great-reclamation/id1688142751?i=1000625199927), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MzRlY2UzN2QtOWMyNC00MDI3LTkyODAtYzlhODUxYjEzYWYy?sa=X&amp;ved=0CAUQkfYCahcKEwiw0brBiO-AAxUAAAAAHQAAAAAQAQ)
 
 #### **Credits** ####
 BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to the guests for coming on the show.

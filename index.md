@@ -18,6 +18,15 @@ sections:
       background: /images/Vol 19 Issue 2/Restoring SG
         Films/restore_classic_singapore_films_hero_image.png
   - infopic:
+      title: The Great Reclamation
+      subtitle: podcast
+      description: Listen to author Rachel Heng talk about her latest novel, <i>The
+        Great Reclamation</i>, and her fascinating research process.
+      button: listen to the podcast
+      url: /podcast/the-great-reclamation/
+      image: /images/Podcast/rachel heng website.jpg
+      alt: The Great Reclamation
+  - infopic:
       title: Revisiting the Mystery of the Missing Gold Coins
       subtitle: Archaeology
       description: Two ancient gold coins, probably from Aceh, were discovered in
