@@ -1,5 +1,5 @@
 ---
-title: test2
+title: Test2
 permalink: /holding-area/permalink/
 description: ""
 ---
