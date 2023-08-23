@@ -8,11 +8,11 @@ image: ""
 ---
 Before the 1970s, it was not compulsory to wear a crash helmet while riding a motorcycle or scooter in Singapore.&nbsp; But a campaign encouraging people to voluntarily wear helmets failed, and the government had to use legislation instead.
 
-<img src="/images/Vol%2019%20Issue%202/biblioasia_19_2_cover.png">
+<img src="/images/Vol%2019%20Issue%203/biblioasia_19_3_cover.png">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/director-note/">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">The Bumpy Ride to Making Crash Helmets Mandatory [(PDF)]</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">The Bumpy Ride to Making Crash Helmets Mandatory</a><br>
 Getting people to wear crash helmets was an 
 uphill task. *Sharad Pandian*.  [(PDF)]
 

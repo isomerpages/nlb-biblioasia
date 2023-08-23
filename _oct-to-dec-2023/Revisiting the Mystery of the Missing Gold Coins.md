@@ -49,7 +49,7 @@ As for the second coin (Coin B), according to Mazelan, a plausible alternative t
 
 ![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/coinacoinb.jpg)
 <div style="background-color: white;">
-Seventeenth-century Acehnese coins bearing the words “Sri Perkasa Alam” and “Sri Sultan Iskandar Muda”. <i>Image reproduced from J. Hulshoff Pol, “De gouden munten (mas) van Noord-Sumatra,” Jaarboek van het Koninklijk Nederlandsch Genootschap voor Munt-en Penningkunde XVI (1929), 18.</i>
+Seventeenth-century Acehnese coins bearing the words “Sri Sultan Perkasa Alam” and “Sri Sultan Iskandar Muda”. <i>Image reproduced from J. Hulshoff Pol, “De gouden munten (mas) van Noord-Sumatra,” Jaarboek van het Koninklijk Nederlandsch Genootschap voor Munt-en Penningkunde XVI (1929), 18.</i>
 </div>
 
 However, it should be noted that there are also several other coins that are similar to Coin B, inscribed with “Alam” on the obverse and variations of “Johan Berdaulat” on the reverse.[^18] Further research is required before we can ascertain the identity of the sultan whose name has been inscribed on Coin B. In order to narrow down the time period of Coin B, researchers may be required to study the primary sources of the lineage of Acehnese rulers which are often complex and contested, while keeping in mind the gaps between the written word and material evidence for early Islamic kingdoms in the region.[^19]
