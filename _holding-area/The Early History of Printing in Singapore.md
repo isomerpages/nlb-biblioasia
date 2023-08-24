@@ -108,9 +108,9 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 [^9]: O’Sullivan, “The London Missionary Society,” 77; Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 156.
 
-[^10]: O’Sullivan, “The London Missionary Society,” 77; Byrd, _Early Printing in the Straits Settlements, 1806–1858_, p. 13; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 156.
+[^10]: O’Sullivan, “The London Missionary Society,” 77; Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), p. 13; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 156.
 
-[^11]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 14.
+[^11]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 14.
 
 [^12]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 14–15; O’Sullivan, The London Missionary Society,” 77–84.
 
