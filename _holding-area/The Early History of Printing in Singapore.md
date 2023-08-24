@@ -90,7 +90,7 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 #### **Notes**
 
-[^1]: Cecil K. Byrd, _Early Printing in the Straits Settlements, 1806–1858_ (Singapore: National Library, 1970), 9–10, 13. (From National Library, Singapore, call no. RCLOS 686.2095957 BYR); Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 57, no. 2 (247) (1984): 61–62, 67. (From JSTOR via NLB’s eResources website); Ching Su, “Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss., University College London, 1996), 154–55, https://discovery.ucl.ac.uk/id/eprint/1317522/.
+[^1]: Cecil K. Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984) (Singapore: National Library, 1970), 9–10, 13. (From National Library, Singapore, call no. RCLOS 686.2095957 BYR); Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 57, no. 2 (247) (1984): 61–62, 67. (From JSTOR via NLB’s eResources website); Ching Su, “Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss., University College London, 1996), 154–55, https://discovery.ucl.ac.uk/id/eprint/1317522/.
 
 [^2]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 13; O’Sullivan, “The London Missionary Society,” 64–66, 72–74.
 
