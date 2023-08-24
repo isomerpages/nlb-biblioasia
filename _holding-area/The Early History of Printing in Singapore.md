@@ -60,7 +60,7 @@ distribution and binding of all other books.[^17] They were helped by Achang, th
 
 By 1841, the Mission Press of the ABCFM had printed over 14 million pages of works, with Chinese forming the bulk, and the rest in Malay, Bugis, Siamese, Japanese and English.[^20] One significant publication that they produced was the *Sejarah Melayu* (*Malay Annals*), published in 1840. This is the first printed edition of the *Sulalat al-Salatin* (*Genealogy of Kings*). Written in Jawi and edited by Munshi Abdullah, this 17th-century court text is one of the most important sources on the history of early Singapore.[^21]
 
-The Mission Press of the ABCFM also produced the earliest extant Chinese publication printed in Singapore in the National Library’s collection: 全人矩矱 (*Quan Ren Ju Yue*), translated as The Perfect Man’s Model or The Complete Duty of Man. It was written by German Protestant missionary Karl Friedrich August Gützlaff under the pen name 爱汉者 (“Lover of the Chinese”) and printed in 3,000 copies by 坚夏书院 (Jian Xia Shuyuan), the printing arm of the American 
+The Mission Press of the ABCFM also produced the earliest extant Chinese publication printed in Singapore in the National Library’s collection: 全人矩矱 (*Quan Ren Ju Yue*), translated as *The Perfect Man’s Model* or *The Complete Duty of Man*. It was written by German Protestant missionary Karl Friedrich August Gützlaff under the pen name 爱汉者 (“Lover of the Chinese”) and printed in 3,000 copies by 坚夏书院 (Jian Xia Shuyuan), the printing arm of the American 
 mission in Singapore. The book presents Jesus as the “perfect man” through the tenets of Confucianism.[^22]
 
 #### **Lithography in Malay Printing**
@@ -69,7 +69,7 @@ The ABCFM began winding down operations in Singapore from 1841 and completed the
 
 Keasberry was able to make considerable headway owing to his fluency in the language and the printing skills that he had acquired from Walter Henry Medhurst in Batavia (present-day Jakarta). The students in Keasberry’s school were also taught printing as part of their vocational education and some were hired as apprentices at the Mission Press. In particular, Keasberry is known for advancing the use of lithography, the process of printing from a smooth surface, for example, a limestone slab that has been specially prepared so that ink only sticks to the design to be printed. This allowed the printing of text that resembled the flow of the handwritten script found in Malay manuscripts. 
 
-Among his finest lithographic works is the journal Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan (Eye Glass for All Who Seek Knowledge), one of the earliest Malay periodicals published in Singapore.[^24] Keasberry’s success paved the way for the wide acceptance of the technology among local Malay commercial presses, as it presented a gradual transition from manuscript copying to printing that was less costly than typography.[^25]
+Among his finest lithographic works is the journal *Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan* (*Eye Glass for All Who Seek Knowledge*), one of the earliest Malay periodicals published in Singapore.[^24] Keasberry’s success paved the way for the wide acceptance of the technology among local Malay commercial presses, as it presented a gradual transition from manuscript copying to printing that was less costly than typography.[^25]
 
 #### **Development of a Metallic Chinese Type**
 
