@@ -112,7 +112,7 @@ The comparisons with Liverpool are especially revealing because this was a time 
 
 [Arcade for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19071030-1.2.68). (1907, October 30). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
 
-[Arrangements](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18941101-1.2.32). (1894, November 1). The Straits Times, p. 2. Retrieved from NewspaperSG.
+[Arrangements](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18941101-1.2.32). (1894, November 1). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
 Bastin, J. (Ed.). (1994). [_Traveller’s Singapore: An anthology_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7062675). Kuala Lumpur: New York: Oxford University Press. (Call no.: RSING 959.5705 TRA)
 
@@ -122,30 +122,30 @@ Braddell, R. (1934). [_The lights of Singapore_](https://eservice.nlb.gov.sg/ite
 
 [Building on city swamps](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19301025-1.2.41). (1930, October 25). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
 
-[Government Buildings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200930-1.2.56). (1920, September 30). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
+[Government buildings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200930-1.2.56). (1920, September 30). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
 
-Hitchcok, H.R. (1958). _Architecture: Nineteenth and twentieth centuries_. London: Penguin Books.
+Hitchcock, H.R. (1958). _Architecture: Nineteenth and twentieth centuries_. London: Penguin Books.
 
 Lockhart, R.H.B. (1936). [_Return to Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13021985). London: Putnam. (Call no.: RCLOS 959.5 LOC)
 
 [New Post Office](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240109-1.2.78). (1924, January 9). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
 
-[Past and Present](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280627-1.2.42). (1928, June 27). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
+[Past and present](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280627-1.2.42). (1928, June 27). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
 
-[Singapore Development](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240123-1.2.94). (1924, January 23). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
+[Singapore development](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19240123-1.2.94). (1924, January 23). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
 
 [The Hongkong Bank](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19211116-1.2.69). (1921, November 16). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
 
-[The New Architecture](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19290610-1.2.32). (1929, June 10). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+[The new architecture](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19290610-1.2.32). (1929, June 10). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
 
-[The New Post Office](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19280623-1.2.76). (1928, June 23). _The Singapore Free Press and Mercantile Advertiser_, p. 11. Retrieved from NewspaperSG.
+[The new Post Office](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19280623-1.2.76). (1928, June 23). _The Singapore Free Press and Mercantile Advertiser_, p. 11. Retrieved from NewspaperSG.
 
 [The Post Office](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19280627-1.2.61). (1928, June 27). _The Singapore Free Press and Mercantile Advertiser_, p. 10. Retrieved from NewspaperSG.
 
 #### **NOTES**
 
   
-[^1]: Marryat 1846—1846, cited in [Bastin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7062675), 1994, p. 53.
+[^1]: Marryat 1846–1846, cited in [Bastin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7062675), 1994, p. 53.
 
 [^2]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18941101-1.2.32)_, 1 Nov 1984, p. 2.
 
@@ -153,7 +153,7 @@ Lockhart, R.H.B. (1936). [_Return to Malaya_](https://eservice.nlb.gov.sg/item_h
 
 [^4]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19071030-1.2.68)_, 30 Oct 1907, p. 7.
 
-[^5]: This was the 1920-1921 US recession that caused the prices of rubber and tin to crash.
+[^5]: This was the 1920–21 US recession that caused the prices of rubber and tin to crash.
 
 [^6]: These are the years in which the buildings were completed.
 
@@ -167,7 +167,7 @@ Lockhart, R.H.B. (1936). [_Return to Malaya_](https://eservice.nlb.gov.sg/item_h
 
 [^11]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19290610-1.2.32)_, 10 Jun 1929, p. 10.
 
-[^12]: Meccano is the brand name of a model construction kit, comprising re-usable metal strips, plates, angle-girders, axels, wheels, gears and so forth, which can be connected together using washers, nuts and bolts. Invented in 1901, Meccano is still manufactured today in France and China, but probably reached the height of its popularity between the two world wars, when it provided an invaluable introduction to the principles of mechanics and engineering for boys who were so inclined.
+[^12]: Meccano is the brand name of a model construction kit comprising reusable metal strips, plates, angle-girders, axels, wheels, gears and so forth, which can be connected together using washers, nuts and bolts. Invented in 1901, Meccano is still manufactured today in France and China, but probably reached the height of its popularity between the two world wars, when it provided an invaluable introduction to the principles of mechanics and engineering for boys who were so inclined.
 
 [^13]: The rotunda was removed sometime in the mid-1950s.
 
@@ -179,7 +179,7 @@ Lockhart, R.H.B. (1936). [_Return to Malaya_](https://eservice.nlb.gov.sg/item_h
 
 [^17]: _[The Singapore Free Press and Mercantile Advertiser (1884-1942)](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19240117-1.2.60)_, 17 Jan 1924, p. 12.
 
-[^18]: The Fullerton Building was named after Sir Robert Fullerton (1773– 1831), first Governor of the Straits Settlements, during the time of the East India Company (1826–1830).
+[^18]: The Fullerton Building was named after Sir Robert Fullerton (1773–1831), first Governor of the Straits Settlements, during the time of the East India Company (1826–30).
 
 [^19]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200930-1.2.56)_, 30 Sep 1920, p. 7.
 
