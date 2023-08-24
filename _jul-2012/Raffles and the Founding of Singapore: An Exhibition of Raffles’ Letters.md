@@ -65,27 +65,27 @@ Naturally, Raffles’ unilateral action infuriated Bannerman, who ordered him to
 
 #### **The Letters on Show**
 
-Exhibited at the National Library Singapore for the first time ever are 13 of 26 letters from the papers of Francis Edward Rawdon Hastings, the 1st Marquess of Hastings, who served as Governor-General of India from 1813 to 1823. These letters were written to Hastings (known at the time as Lord Moira) between April 1818 and October 1824. Of these, the most important ones were those written almost contemporaneously with Raffles’ efforts to establish a new settlement in the 'eastward'.
+Exhibited at the National Library Singapore for the first time  are 13 of 26 letters from the papers of Francis Edward Rawdon Hastings, First Marquess of Hastings, who served as Governor-General of India from 1813 to 1823. These letters were written to Hastings (known at the time as Lord Moira) between April 1818 and October 1824. Of these, the most important ones were those written almost contemporaneously with Raffles’ efforts to establish a new settlement in the “eastward”.
 
-<img style="width:50%;" src="/images/Vol%208%20issue%202/Raffles/18200415%20Raffles%20to%20Lansdowne_040003497.jpg">
- <div style="background-color: white;">Extract of a letter dated 15 April 1820, from Raffles to Henry Petty-Fitzmaurice, the Third Marquess of Lansdowne. Raffles informs Lansdowne that there are now over 10,000 persons on the island and “no less than 173 sail of vessels of different descriptions”. <i>Courtesy of the National Library Board. All rights reserved.</i></div>
+<img style="width:90%;" src="/images/Vol%208%20issue%202/Raffles/18200415%20Raffles%20to%20Lansdowne_040003497.jpg">
+ <div style="background-color: white;">Extract of a letter dated 15 April 1820, from Raffles to Henry Petty-Fitzmaurice, Third Marquess of Lansdowne. Raffles informs Lansdowne that there are now over 10,000 persons on the island and “no less than 173 sail of vessels of different descriptions”. <i>Courtesy of the National Library Board. All rights reserved.</i></div>
 
-These letters are being exhibited through the generosity of John Colum Crichton Stuart, the Seventh Marquess of Bute. These letters were first brought to our attention by Dr John Bastin, the world’s leading Raffles scholar. The Hastings Papers were acquired by John Crichton-Stuart (1847–1900), Third Marquess of Bute, sometime in the late nineteenth century. The Third Marquess was an industrial magnate, antiquarian, scholar and architectural patron and grandson of the papers’ owner. His mother, Sophia Frederica Christina Rawdon-Hastings (1809– 1859) was the second daughter of Lord Moira, 1st Marquess of Hastings.
+These letters are being exhibited through the generosity of John Colum Crichton-Stuart, Seventh Marquess of Bute. These letters were first brought to our attention by Dr John Bastin, the world’s leading scholar on Raffles. The Hastings Papers were acquired by John Crichton-Stuart (1847–1900), Third Marquess of Bute, sometime in the late 19th century. The Third Marquess was an industrial magnate, antiquarian, scholar and architectural patron and grandson of the papers’ owner. His mother, Sophia Frederica Christina Rawdon-Hastings (1809–59) was the second daughter of Lord Moira, First Marquess of Hastings.
 
-<img style="width:50%;" src="/images/Vol%208%20issue%202/Raffles/18230120%20Raffles%20to%20Lansdowne_040003492.jpeg">
+<img style="width:90%;" src="/images/Vol%208%20issue%202/Raffles/18230120%20Raffles%20to%20Lansdowne_040003492.jpeg">
  <div style="background-color: white;">Extract of a letter from Raffles to Lansdowne, dated 20 January 1823, in which Raffles lists some of Singapore’s achievements to date, among these the drafting of regulations to govern the island. <i>Courtesy of the National Library Board. All rights reserved.</i></div>
 
 Also on display is a copy of what is believed to be the earliest map of Singapore drawn after Raffles’ landing. Dated 1820, it is the result of the first survey of the island and contains details not seen in subsequent maps. This map has never been seen outside of the Bute Archives.
 
 
-<img style="width:80%;" src="/images/Vol%208%20issue%202/Raffles/Ross'%20Survey%20of%20S'pore%20Harb1.jpg">
- <div style="background-color: white;">Captain Daniel Ross’s survey map of Singapore Harbour, believed to be the earliest map of Singapore. The map was engraved by John Batement and originally published by James Horsburgh in 1820.</div>
+<img style="width:90%;" src="/images/Vol%208%20issue%202/Raffles/Ross'%20Survey%20of%20S'pore%20Harb1.jpg">
+ <div style="background-color: white;">Captain Daniel Ross’ survey map of Singapore Harbour, believed to be the earliest map of Singapore. The map was engraved by John Batement and originally published by James Horsburgh in 1820.</div>
 
 #### **The End**
 
 
-Raffles visited Singapore only twice more before he returned to London in August 1824. By this time he was in poor health but he continued to be active in his intellectual pursuits, founding the Zoological Society of London in 1825 as well as the London Zoo. He died at Highwood House in Mill Hill in North London a day before his 45th birthday, on 5 July 1826.
+Raffles visited Singapore only twice more before he returned to London in August 1824. By then, he was in poor health but continued to be active in his intellectual pursuits, founding the Zoological Society of London in 1825 and the London Zoo. He died at Highwood House in Mill Hill, North London, a day before his 45th birthday, on 5 July 1826.
 
 
 <div>
-<b>Dr Kevin Y L Tan</b> is curator of the exhibition, <i>Letters from The Founder: Raffles’ Letters from the Bute Collection &amp; the National Library,</i> which will open at Level 10, National Library, on 28 August 2012.</div>
+<b>Dr Kevin Y. L. Tan</b> is the curator of the exhibition, <i>Letters from the Founder: Raffles’ Letters from the Bute Collection &amp; the National Library</i>, which will open at Level 10, National Library, on 28 August 2012.</div>
