@@ -112,7 +112,7 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 [^11]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 14.
 
-[^12]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 14–15; O’Sullivan, The London Missionary Society,” 77–84.
+[^12]: Byrd,  [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 14–15; O’Sullivan, The London Missionary Society,” 77–84.
 
 [^13]: Ong Eng Chuan, “A Missionary’s Guide to Java and Bali,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst/.
 
