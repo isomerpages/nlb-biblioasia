@@ -118,7 +118,7 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 [^14]: J. Noorduyn, “C.H. Thomsen, the Editor of ‘A Code of Bugis Maritime Laws’,” _Bijdragen tot de Taal-,Land- en Volkenkunde_ 113, no. 3 (1957): 248, https://doi.org/10.1163/22134379-90002285.
 
-[^15]: Byrd, [_Early Printing in the Straits Settlements, 1806–58_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 14.
+[^15]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 14.
 
 [^16]: _Twenty-Third Annual Report of the American Board of Commissioners for Foreign Missions, October 1832_ (Boston: Crocker and Brewster, 1832), 98; _Twenty-Sixth Annual Report of the American Board of Commissioners for Foreign Missions, September 1835_ (Boston: Crocker and Brewster, 1835), 69, HathiTrust, https://hdl.handle.net/2027/wu.89065737421.
 
