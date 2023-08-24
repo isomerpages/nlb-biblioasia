@@ -45,4 +45,32 @@ In December 1822, Milton sailed for Calcutta to obtain the much-needed presses, 
 
 On 20 February 1823, Thomsen wrote that they had started printing in both English and Malay. They had a small type-foundry and were also engaged in bookbinding. However, he noted that the press was a small travelling one and they only had a limited quantity of Malay and old English type. Consequently, they were restricted in the number of pages they could print. He also cautioned that the type would be almost worn out after 12 months, and that regular book printing would have to be postponed until the LMS directors supplied their needs.9
 
-Separately, Raffles wrote to the LMS directors to assure them that “the government will engage to do all their work at the missionary press” and that 
+Separately, Raffles wrote to the LMS directors to assure them that “the government will engage to do all their work at the missionary press” and that there was “reason to believe that when once it is in activity there will be various demands upon it by the community”.10
+
+Milton returned to Singapore in April 1823 with “three printing presses and their furniture, one fount of English types, one fount of Chinese types (this is the first fount of these types that was ever cast), one fount of Malay types, with a quantity of English printing paper, printing ink, English compositor also a quantity of type metal, metal furnace and ladles, one set of Siamese, one set of Malay, &amp; one set of Arabic Matrices and everything necessary for casting types in the above mentioned languages”, as well as “a complete set of European tools, figures, letters, presses for binding books”.11
+
+However, as the presses were procured without the knowledge of the LMS and Milton lacked the funds to pay for them, the equipment was transferred to the Singapore Institution which covered the purchase using public subscription funds. Milton remained in charge of the printing press and used it to print religious literature and Singapore’s first newspaper, the Singapore Chronicle. The first issue was published on 1 January 1824.
+
+After Milton retired from the LMS in 1825, Thomsen took over the press and continued its dual function of printing religious publications as well as secular works received through government and commercial jobs.12 These include missionary Walter Henry Medhurst’s Journal of a Tour Along the Coast of Java and Bali (1830) where he recounts his travels to the two places with Reverend Jacob Tomlin in 1829,13 and Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru (The New Testament of Our Lord and Saviour Jesus Christ in Malay) (1831). This is a revised translation of the New Testament in Malay by Thomsen and Robert Burn, the Chaplain of the Anglican Church in Singapore.14
+
+#### **Printing by the American Mission**
+
+Because of his failing health, Thomsen left Singapore in 1834. However, before leaving, he made the questionable move of selling the LMS’s printing equipment and land to the American Board of Commissioners for Foreign Missions (ABCFM). Uncertainty over the ownership of the property lingered until the board exited Singapore in 1843 and its assets were transferred to the LMS at no cost.15
+
+The ABCFM had been looking for a base in Southeast Asia to print and distribute Christian literature in Chinese and the indigenous languages of Southeast Asia. Singapore was chosen because of its favourable climate, safe conditions and thriving port that saw native vessels calling from China and the region.16
+
+Ira Tracy, the board’s first missionary to Singapore, arrived in 1834 and was joined by printer Alfred North two years later. Tracy oversaw Chinese printing while North supervised the printing, proofreading, 
+distribution and binding of all other books.17 They were helped by Achang, the foreman for Chinese printing who was also the former assistant to Liang A-Fa.18 They also received assistance from Munshi 
+Abdullah, who was employed as a Malay teacher and who also aided North in editing and printing Malay literature. Notably, North printed Munshi Abdullah’s Kisah Pelayaran Abdullah (The Story of Abdullah’s Voyage) in 1837, which chronicles the Munshi’s travels up the east coast of Malaya.19
+
+By 1841, the Mission Press of the ABCFM had printed over 14 million pages of works, with Chinese forming the bulk, and the rest in Malay, Bugis, Siamese, Japanese and English.20 One significant publication that they produced was the Sejarah Melayu (Malay Annals), published in 1840. This is the first printed edition of the Sulalat al-Salatin (Genealogy of Kings). Written in Jawi and edited by Munshi Abdullah, this 17th-century court text is one of the most important sources on the history of early Singapore.21
+
+The Mission Press of the ABCFM also produced the earliest extant Chinese publication printed in 
+Singapore in the National Library’s collection: 全人矩矱
+(Quan Ren Ju Yue), translated as The Perfect Man’s Model or The Complete Duty of Man. It was written by German Protestant missionary Karl Friedrich August Gützlaff under the pen name 爱汉者 (“Lover of the Chinese”) and printed in 3,000 copies by 坚夏书院 (Jian Xia Shuyuan), the printing arm of the American 
+mission in Singapore. The book presents Jesus as the “perfect man” through the tenets of Confucianism.22
+
+#### **Lithography in Malay Printing**
+
+The ABCFM began winding down operations in Singapore from 1841 and completed their withdrawal by 1843.23 Meanwhile, the printing activities of the LMS, which had been at a standstill since the departure of Thomsen, was revived with the arrival of Protestant missionary Benjamin Keasberry. In 1839, Keasberry joined the local LMS mission out of a desire to evangelise to the Malay-speaking population. He set up the Malay Mission Chapel (today’s Prinsep Street Presbyterian Church) and schools, as well as published and translated many works into Malay. 
+Keasberry was able to make considerable headway owing to his fluency in the language and the printing skills that he had acquired from 
