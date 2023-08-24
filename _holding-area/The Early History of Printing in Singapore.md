@@ -90,61 +90,60 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 #### **Notes**
 
-[^1]: Cecil K. Byrd, _Early Printing in the Straits Settlements, 1806–1858_ (Singapore: National Library, 1970), 9–10, 13. (From National Library, Singapore, call no. RCLOS 686.2095957 BYR); Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 57, no. 2&nbsp; (247) (1984): 61–62, 67. (From JSTOR via NLB’s eResources website); Ching Su, “Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss., University College London, 1996), 154–55, https://discovery.ucl.ac.uk/id/eprint/1317522/.
+[^1]: Cecil K. Byrd, _Early Printing in the Straits Settlements, 1806–1858_ (Singapore: National Library, 1970), 9–10, 13. (From National Library, Singapore, call no. RCLOS 686.2095957 BYR); Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 57, no. 2 (247) (1984): 61–62, 67. (From JSTOR via NLB’s eResources website); Ching Su, “Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss., University College London, 1996), 154–55, https://discovery.ucl.ac.uk/id/eprint/1317522/.
 
-Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 13; O’Sullivan, “The London Missionary Society,”&nbsp; 64–66, 72–74.&nbsp;
+[^2]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 13; O’Sullivan, “The London Missionary Society,” 64–66, 72–74.
 
-Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 13.
+[^3]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 13.
 
-Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 14, 24,  
-Plate 4.
+[^4]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 14, 24, Plate 4.
 
-Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 154–55.
+[^5]: Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 154–55.
 
-Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 14; O’Sullivan, “The London Missionary Society,” 74; John S. Bastin, _Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_ (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014), 216. (From National Library, Singapore, call no.: RSING 959.5703 BAS); Hadijah Rahmat, _Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_, vol. 2 (Singapore: World Scientific, 2020), 90–91. (From National Library, Singapore, call no. RSING 959.5 HAD); Raffles Museum and Library, “Proclamation by the Honble Sir Stamford Raffles Lieut. Governor of Fort Marlbro and Its Dependencies,” _L17: Raffles: Letters to Singapore (Farquhar)_, 1 January 1823, Straits Settlements Records. (From National Archives of Singapore)
+[^6]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 14; O’Sullivan, “The London Missionary Society,” 74; John S. Bastin, _Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_ (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014), 216. (From National Library, Singapore, call no.: RSING 959.5703 BAS); Hadijah Rahmat, _Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_, vol. 2 (Singapore: World Scientific, 2020), 90–91. (From National Library, Singapore, call no. RSING 959.5 HAD); Raffles Museum and Library, “Proclamation by the Honble Sir Stamford Raffles Lieut. Governor of Fort Marlbro and Its Dependencies,” _L17: Raffles: Letters to Singapore (Farquhar)_, 1 January 1823, Straits Settlements Records. (From National Archives of Singapore)
 
-Munshi Abdullah, _The Hikayat Abdullah_, trans. A.H. Hill (Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society, 2009), 187–88. (From National Library, Singapore, call no.: RSEA 959.5 ABD)
+[^7]: Munshi Abdullah, _The Hikayat Abdullah_, trans. A.H. Hill (Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society, 2009), 187–88. (From National Library, Singapore, call no.: RSEA 959.5 ABD)
 
-Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 158; O’Sullivan, “The London Missionary Society,” 74, 77.&nbsp;
+[^8]: Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 158; O’Sullivan, “The London Missionary Society,” 74, 77.
 
-O’Sullivan, “The London Missionary Society,” 77; Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 13; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 156.&nbsp;
+[^9]: O’Sullivan, “The London Missionary Society,” 77; Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 13; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 156.
 
-O’Sullivan, “The London Missionary Society,” 77; Byrd, _Early Printing in the Straits Settlements, 1806–1858_, p. 13; Ching,&nbsp; “Printing Presses of the London Missionary Society Among the Chinese,” 156.&nbsp;
+[^10]: O’Sullivan, “The London Missionary Society,” 77; Byrd, _Early Printing in the Straits Settlements, 1806–1858_, p. 13; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 156.
 
-Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 14.
+[^11]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 14.
 
-Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 14–15; O’Sullivan, The London Missionary Society,” 77–84.
+[^12]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 14–15; O’Sullivan, The London Missionary Society,” 77–84.
 
-Ong Eng Chuan, “A Missionary’s Guide to Java and Bali,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst/.
+[^13]: Ong Eng Chuan, “A Missionary’s Guide to Java and Bali,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst/.
 
-J. Noorduyn, “C.H. Thomsen, the Editor of ‘A Code of Bugis Maritime Laws’,” _Bijdragen tot de Taal-,Land- en Volkenkunde_ 113, no. 3 (1957): 248, https://doi.org/10.1163/22134379-90002285.
+[^14]: J. Noorduyn, “C.H. Thomsen, the Editor of ‘A Code of Bugis Maritime Laws’,” _Bijdragen tot de Taal-,Land- en Volkenkunde_ 113, no. 3 (1957): 248, https://doi.org/10.1163/22134379-90002285.
 
-Byrd, _Early Printing in the Straits Settlements, 1806–58_, 14.
+[^15]: Byrd, _Early Printing in the Straits Settlements, 1806–58_, 14.
 
-_Twenty-Third Annual Report of the American Board of Commissioners for Foreign Missions, October 1832_ (Boston: Crocker and Brewster, 1832), 98; _Twenty-Sixth Annual Report of the American Board of Commissioners for Foreign Missions, September 1835_ (Boston: Crocker and Brewster, 1835), 69, HathiTrust, https://hdl.handle.net/2027/wu.89065737421.
+[^16]: _Twenty-Third Annual Report of the American Board of Commissioners for Foreign Missions, October 1832_ (Boston: Crocker and Brewster, 1832), 98; _Twenty-Sixth Annual Report of the American Board of Commissioners for Foreign Missions, September 1835_ (Boston: Crocker and Brewster, 1835), 69, HathiTrust, https://hdl.handle.net/2027/wu.89065737421.
 
-Ian Proudfoot, _Transcription of The Journal of Alfred North, 1 August 1835–27 July 1836_, Malay Concordance Project, last accessed 26 July 2023, https://mcp.anu.edu.au/proudfoot/North.pdf.
+[^17]: Ian Proudfoot, _Transcription of The Journal of Alfred North, 1 August 1835–27 July 1836_, Malay Concordance Project, last accessed 26 July 2023, https://mcp.anu.edu.au/proudfoot/North.pdf.
 
-Joseph Tracy, _History of the American Board of Commissioners for Foreign Missions_, 2nd ed. (New York: M.W. Dodd, 1842), 308, HathiTrust, https://hdl.handle.net/2027/hvd.ah5evn.
+[^18]: Joseph Tracy, _History of the American Board of Commissioners for Foreign Missions_, 2nd ed. (New York: M.W. Dodd, 1842), 308, HathiTrust, https://hdl.handle.net/2027/hvd.ah5evn.
 
-Munshi Abdullah, _The Hikayat Abdullah_, 290–91; Hadijah Rahmat, _Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_, vol. 2, 71–79, 94, 99–109.
+[^19]: Munshi Abdullah, _The Hikayat Abdullah_, 290–91; Hadijah Rahmat, _Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_, vol. 2, 71–79, 94, 99–109.
 
-_Twenty-Seventh Annual Report of the American Board of Commissioners for Foreign Missions, September 1836_ (Boston: Crocker and Brewster, 1836), 75, HathiTrust, https://hdl.handle.net/2027/wu.89065737421; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_ (Boston: Crocker and Brewster, 1837), 90; _Thirty-First Annual Report of the American Board of Commissioners for Foreign Missions, September 1840_ (Boston: Crocker and Brewster, 1840), 140, 142, HathiTrust, https://hdl.handle.net/2027/wu.89065737223.
+[^20]: _Twenty-Seventh Annual Report of the American Board of Commissioners for Foreign Missions, September 1836_ (Boston: Crocker and Brewster, 1836), 75, HathiTrust, https://hdl.handle.net/2027/wu.89065737421; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_ (Boston: Crocker and Brewster, 1837), 90; _Thirty-First Annual Report of the American Board of Commissioners for Foreign Missions, September 1840_ (Boston: Crocker and Brewster, 1840), 140, 142, HathiTrust, https://hdl.handle.net/2027/wu.89065737223.
 
-Hadijah Rahmat, _Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_, 74.
+[^21]: Hadijah Rahmat, _Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_, 74.
 
-Ong Eng Chuan, “The Gospel in Chinese,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff/; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_, 90; National Heritage Board, _Perfect Man’s Model (Quanren Juyue) by Karl Friedrich August Gützlaff_, Roots, last updated 6 April 2023, https://www.roots.gov.sg/Collection-Landing/listing/1339272.
+[^22]: Ong Eng Chuan, “The Gospel in Chinese,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff/; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_, 90; National Heritage Board, _Perfect Man’s Model (Quanren Juyue) by Karl Friedrich August Gützlaff_, Roots, last updated 6 April 2023, https://www.roots.gov.sg/Collection-Landing/listing/1339272.
 
-_Report of the American Board of Commissioners for Foreign Missions Presented at the Thirty-Second Annual Meeting… 1841_ (Boston: Crocker and Brewster, 1841), 144, HathiTrust, https://hdl.handle.net/2027/mdp.39015073264601.
+[^23]: _Report of the American Board of Commissioners for Foreign Missions Presented at the Thirty-Second Annual Meeting… 1841_ (Boston: Crocker and Brewster, 1841), 144, HathiTrust, https://hdl.handle.net/2027/mdp.39015073264601.
 
-Mazelan Anuar, “Through the Eye Glass,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/cermin-mata-benjamin-keasberry/.
+[^24]: Mazelan Anuar, “Through the Eye Glass,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/cermin-mata-benjamin-keasberry/.
 
-Gracie Lee, “Benjamin Keasberry,” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
+[^25]: Gracie Lee, “Benjamin Keasberry,” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
 
-_The Evangelical Magazine and Missionary Chronicle 1840_. (London: Thomas Ward and Co., 1840), HathiTrust, https://hdl.handle.net/2027/hvd.ah6ls8.
+[^26]: _The Evangelical Magazine and Missionary Chronicle 1840_. (London: Thomas Ward and Co., 1840), HathiTrust, https://hdl.handle.net/2027/hvd.ah6ls8.
 
-Zhang Xiantao, _The Origins of the Modern Chinese Press: The Influence of the Protestant Missionary Press in Late Qing China_ (New York: Routledge, 2007), 105–06. (From National Library, Singapore, call no.: R 079.51 ZHA)
+[^27]: Zhang Xiantao, _The Origins of the Modern Chinese Press: The Influence of the Protestant Missionary Press in Late Qing China_ (New York: Routledge, 2007), 105–06. (From National Library, Singapore, call no.: R 079.51 ZHA)
 
-Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 5–6; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 258–83; Ibrahim Ismail, “Samuel Dyer and His Contributions to Chinese Typography,” _Library Quarterly_ 54, no. 2 (April 1985): 157–69. (From JSTOR via NLB’s eResources website)
+[^28]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 5–6; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 258–83; Ibrahim Ismail, “Samuel Dyer and His Contributions to Chinese Typography,” _Library Quarterly_ 54, no. 2 (April 1985): 157–69. (From JSTOR via NLB’s eResources website)
 
-Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 13, 17; Mazelan Anuar, “Early Malay Printing in Singapore,” _BiblioAsia_ 13, no. 3 (October–December 2017),&nbsp; https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in _A General History of the Chinese in Singapore_, ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, _Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_ (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)
+[^29]: Byrd, _Early Printing in the Straits Settlements, 1806–1858_, 13, 17; Mazelan Anuar, “Early Malay Printing in Singapore,” _BiblioAsia_ 13, no. 3 (October–December 2017), https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in _A General History of the Chinese in Singapore_, ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, _Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_ (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)
