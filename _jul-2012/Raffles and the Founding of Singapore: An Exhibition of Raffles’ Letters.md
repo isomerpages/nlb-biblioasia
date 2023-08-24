@@ -86,6 +86,6 @@ Also on display is a copy of what is believed to be the earliest map of Singapor
 
 Raffles visited Singapore only twice more before he returned to London in August 1824. By then, he was in poor health but continued to be active in his intellectual pursuits, founding the Zoological Society of London in 1825 and the London Zoo. He died at Highwood House in Mill Hill, North London, a day before his 45th birthday, on 5 July 1826.
 
-
+<img style="width:20%;" src="/images/Authors/Kevin_tan.png">
 <div>
 <b>Dr Kevin Y. L. Tan</b> is the curator of the exhibition, <i>Letters from the Founder: Raffles’ Letters from the Bute Collection &amp; the National Library</i>, which will open at Level 10, National Library, on 28 August 2012.</div>
