@@ -65,7 +65,31 @@ In Rangoon, he built a palatial residence in one of the affluent quarters of Ran
 
 The palace, still standing today, was home to former Burmese presidents and ministers. It is currently occupied by the Ministry of Culture.
 
-#### **As Agent for Burmah Oil Company (BOC)**10
+#### **As Agent for Burmah Oil Company (BOC)** 10
+At first, LCT's exclusive agency with BOC got the British managers, seated at their control office in Glasgow, Scotland, gratified at having such an energetic man in full control of their kerosene sales. However, he lacked financial management ability, which became his downfall. His accounts were reported to be in such a mess that personally, LCT did not even know how much he owed and what his profits were. All he knew was that he was cash-rich.
+
+From 1908 onwards, after being awarded the agency for the company's product sales in the province, he became a serious bad paymaster to Finlay Fleming & Company, BOC's managing agent in London, for the purchases he made. By the beginning of 1911 he reportedly owed several hundred thousand sterling pounds.
+
+Apparently, as it was later found out, the transactions from all his different business activities were jumbled up. He was managing steamships and a match factory, rubber plantations and tin mining without keeping a proper audit of the transactions. It became impossible to distinguish where one account ended and another began. In those days, there were also no auditors.
+
+Before the managers could terminate his services, LCT had resigned and was outside Burma. He had taken over one of his own ships, the SS "*Seang Bee*", to fulfill a lifetime's ambition to visit London together with his family, friends and business associates; a trip that was crazy enough to inspire an ironic comment (would be good to quote that 'comment') due to his mounting debts. But, in reality, he recouped his expenses from the cargoes the liner carried.
+
+In London he called on David Sime Cargill and other directors, who entertained him and his party at the Hyde Park Hotel. All business talks were carefully avoided until a formal meeting was later held in the office. A generous final settlement scheme was finalised and they parted in complete amity.
+
+In November 1923, at the age of 53, LCT reportedly died from a heart attack when the telephone company threatened to disconnect his telephone line for non-payment and aggravated by an untimely and unwelcome "communication" from his bank.
+
+At first, LCT's exclusive agency with BOC got the British managers, seated at their control office in Glasgow, Scotland, gratified at having such an energetic man in full control of their kerosene sales. However, he lacked financial management ability, which became his downfall. His accounts were reported to be in such a mess that personally, LCT did not even know how much he owed and what his profits were. All he knew was that he was cash-rich.
+
+From 1908 onwards, after being awarded the agency for the company's product sales in the province, he became a serious bad paymaster to Finlay Fleming & Company, BOC's managing agent in London, for the purchases he made. By the beginning of 1911 he reportedly owed several hundred thousand sterling pounds.
+
+Apparently, as it was later found out, the transactions from all his different business activities were jumbled up. He was managing steamships and a match factory, rubber plantations and tin mining without keeping a proper audit of the transactions. It became impossible to distinguish where one account ended and another began. In those days, there were also no auditors.
+
+Before the managers could terminate his services, LCT had resigned and was outside Burma. He had taken over one of his own ships, the SS "Seang Bee", to fulfill a lifetime's ambition to visit London together with his family, friends and business associates; a trip that was crazy enough to inspire an ironic comment (would be good to quote that 'comment') due to his mounting debts. But, in reality, he recouped his expenses from the cargoes the liner carried.
+
+In London he called on David Sime Cargill and other directors, who entertained him and his party at the Hyde Park Hotel. All business talks were carefully avoided until a formal meeting was later held in the office. A generous final settlement scheme was finalised and they parted in complete amity.
+
+In November 1923, at the age of 53, LCT reportedly died from a heart attack when the telephone company threatened to disconnect his telephone line for non-payment and aggravated by an untimely and unwelcome "communication" from his bank.
+
 
 
 
