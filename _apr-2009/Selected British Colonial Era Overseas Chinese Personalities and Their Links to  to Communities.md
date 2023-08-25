@@ -49,14 +49,23 @@ The shipping industry helped to fuel the growth of commerce and communications, 
 #### **The Burmese Overseas - Chinese Shipping Tycoon Lim Chin Tsong (1867–1923)4**
 Lim Chin Tsong (LCT), a Rangoon-born Chinese merchant, became an important intermediary of the Burmah Oil Company.5
 
-His father, Lim Si Xing, a rice merchant, came from Tong An County in Fujian Province, China, in 1861 and settled in Rangoon. When conducting businesses 
-with the British and Europeans, due to a lack of understanding in the English language, the elder Lim found himself handicapped. He therefore sent his son to St. Paul's College, then a premier English school in Rangoon. It was this education that laid the foundation for LCT and equipped him in his later years.
+His father, Lim Si Xing, a rice merchant, came from Tong An County in Fujian Province, China, in 1861 and settled in Rangoon. When conducting businesses with the British and Europeans, due to a lack of understanding in the English language, the elder Lim found himself handicapped. He therefore sent his son to St. Paul's College, then a premier English school in Rangoon. It was this education that laid the foundation for LCT and equipped him in his later years.
 
 LCT operated his business from an office in China Street, Rangoon.6 He had a network of oil distributors which extended throughout British Burma.
 
-With some ocean-going vessels: SS Glenogie, SS Seang Bee, SS Seang Choon, SS Seang Kok, SS Seang Lee, among others, LCT established his Seang Line of Steamers ("The Chinese Steamship Company of Rangoon") plying from Rangoon to Singapore, Penang, Hong Kong, Swatow and Amoy (Xiamen).
+With some ocean-going vessels: SS Glenogie, SS Seang Bee, SS Seang Choon, SS Seang Kok, SS Seang Lee, among others, LCT established his *Seang Line of Steamers* ("The Chinese Steamship Company of Rangoon") plying from Rangoon to Singapore, Penang, Hong Kong, Swatow and Amoy (Xiamen).
 
-Kim Keng Leong & Company (Chop Kim Cheong), Penang, was the agent for Seang Line. Soo Bee Kongsi (Rangoon Kerosene Oil), Ooi Saik & Company (Rangoon - Penang rice merchants) were also agents for LCT located at 127 Beach Street, Penang.7
+Kim Keng Leong & Company (Chop Kim Cheong), Penang, was the agent for *Seang Line*. Soo Bee Kongsi (Rangoon Kerosene Oil), Ooi Saik & Company (Rangoon - Penang rice merchants) were also agents for LCT located at 127 Beach Street, Penang.7
+
+*Seang Line* Singapore agency was vested with Giang Hoe Company which was first located at 64 Japan Street (now called Boon Tat Street),8 Singapore. It later moved to 129 Cecil Street, Singapore.9
+
+As a result of his shipping line and the growth in trade and commerce, LCT prospered and his influence grew. He became a member of the legislative council and was awarded the Order of the British Empire (OBE) by the British Throne.
+
+In Rangoon, he built a palatial residence in one of the affluent quarters of Rangoon. It is shaped like a star and furnished with mural paintings. "Xie De Garden", as it was known, was graced by many rich and influential personalities and foreign dignitaries during that time.
+
+The palace, still standing today, was home to former Burmese presidents and ministers. It is currently occupied by the Ministry of Culture.
+
+#### **As Agent for Burmah Oil Company (BOC)**10
 
 
 
