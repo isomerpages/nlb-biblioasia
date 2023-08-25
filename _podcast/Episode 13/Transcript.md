@@ -10,7 +10,7 @@ Jimmy
 You’re listening to BiblioAsia+, a podcast produced by the National Library of Singapore. At BiblioAsia, we tell stories about Singapore’s past: some unfamiliar, others forgotten, all fascinating.
 
 Gek Han  
-Hi, everyone, I'm Gek Han, and I'm an editor of BiblioAsia, a publication by the National Library of Singapore. Today we're talking to Rachel Heng about her new novel, [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224), a fascinating piece of historical fiction is set in Singapore. And it's also a story of land reclamation and resettlement. It's also a love story. The book has been named a New York Times Editor's Choice, and a Best Book of 2023 So Far by the New Yorker and Amazon Books. Hi, Rachel. Welcome to BiblioAsia+!
+Hi everyone, I'm Gek Han, and I'm an editor of BiblioAsia, a publication by the National Library of Singapore. Today we're talking to Rachel Heng about her new novel, [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224), a fascinating piece of historical fiction set in Singapore. It's a story of land reclamation and resettlement. It's also a love story. The book has been named a New York Times Editor's Choice, and a Best Book of 2023 So Far by the *New Yorker* and Amazon Books. Hi, Rachel. Welcome to BiblioAsia+!
 
 Rachel  
 Hi Gek Han, thank you so much for having me here.
