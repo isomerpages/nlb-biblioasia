@@ -97,7 +97,7 @@ The newspapers also played important roles in maintaining communication links an
 
 Many who had lost communications with their families in the mainland could also publish their news. The newspapers became links for lost relatives.
 
-#### **The World's Oldest Chinese Newspaper - Kwang Wah Yit Poh12 Ch'ng Yeen Aun (1867–1938)**13
+#### **The World's Oldest Chinese Newspaper - Kwang Wah Yit Poh12 Ch'ng Yeen Aun (1867–1938)13**
 
 He was founder and Chairman of the Rangoon and Penang Kwong Wah Yit Poh,14, one of the surviving oldest Chinese language newspapers.
 
@@ -109,7 +109,7 @@ In May 1905, Qin Li-shan, a Hunan-born Revolutionist, also visited Rangoon to sp
 
 After meeting Qin, Ch'ng abandoned the "Bao Huang Hui" and joined the Tung Meng Hui in Rangoon.
  
- #### **Kwang Wah Yit Poh and Tung Meng Hui**
+#### **Kwang Wah Yit Poh and Tung Meng Hui**
  In August 1908, Ch'ng Yeen Aun, Xu Zang-zhou and other overseas Chinese in Rangoon raised funds to set up Tung Meng Hui's political mouthpiece and called it "Kwong Wah Yit Poh", a name preserved to this very day. Ch'ng became Managing Director of the newspaper. He  was able to spread revolutionary thoughts through various articles published in the newspaper. Dr Sun Yat Sen also recommended Ju-zheng, Yang Qiu-fan and Lu Zhi-yi as principal editors to assist Ch'ng.
 
 On 20 November 1908, Tung Meng Hui Burma branch held its inaugural meeting at Rangoon. Ch'ng Yeen Aun was unanimously elected by overseas Chinese in Burma as Chairman17. Ch'ng quickly set up sub-branches in the main cities of Burma. In recognition of his active achievement Dr Sun Yat Sen personally wrote him a letter to express his delight and approval.16
@@ -168,7 +168,26 @@ Banks eliminated the risks of losing some hard-earned monies to robbers if the t
 From the seat of government of the British Crown Colony in Rangoon, several banks were formed. Some of the names of banks remain to this very day but others were merged, bankrupted and driven out of business.
 
 #### **Entering Businessman, Banker, Patriotic Chinese and Philanthropist Tan Ean Kiam23 (1881–1943)**
+Born in China's Tong-An County, Fujian Province in 1881, Tan Ean Kiam came to Singapore with his father when he was 18 years old. He started out as a general worker and later ventured into business on his own. He became a successful businessman and merchant, and later as one of the first managing directors of the Oversea-Chinese Banking Corporation Limited (OCBC), currently Singapore's third largest bank that is publicly listed on the Singapore Exchange.
 
+#### **The Businessman and Banker**
+In 1908, Tan Ean Kiam set up Chop Joo Guan where he traded in rubber commodities which became very highly priced because transportation became difficult in World War I. His rubber trade became lucrative, providing him with handsome profits.
+
+With the money he made from rubber, on 28 June1919, he formed the Oversea-Chinese Bank Limited (OCBC),24 one of the component banks of today's OCBC, with Oei Tiong Ham25, then known as "Sugar King" of Java, who subscribed a total of $1,000,000 (Straits Dollars) as the starting capital.
+
+The bank unexpectedly fell short of liquid cash and so, to increase their capital, Tan Ean Kiam26 and Ang Boon Kim, another smaller shareholder and employee of OCB, travelled to Penang and Rangoon to seek more funds to support the bank's working capital.27 
+
+To their surprise, it was the Chinese traders in Rangoon Burma, which was then under the British rule, who were most enthusiastic about investing in a bank. They reportedly subscribed large amounts of funds thus saving the bank from liquidation. Rangoon was no strange place to Ean Kiam; he was there in 1896 with his father and he knew the potential of the place.
+
+After returning to Singapore with the funds to capitalise the bank, he proceeded to set up branches in Penang and Rangoon to facilitate the new investors and also in recognition of the support he received from the oversea Chinese in these two cities.
+
+Two years later in 1921, The Oversea Assurance Company Limited, the insurance arm of the bank, was formed with the same board of directors and its branches were located at the same addresses in Rangoon and Penang.
+
+However, on 31 October 1932 the world went into deep economic depression. OCBC merged with Ho Hong Bank and the Chinese Commercial Bank to form OCBC. To recognise the efforts that Tan Ean Kiam had contributed towards the formation of the bank, he was made its first joint managing director together with Yap Twee who later retired in 1933 leaving behind Tan as the sole managing director (1934–1941).28
+
+OCBC had its branch in Penang in 1912. The bank is located on the main street of the banking district and easily recognised by its marble facade. OCBC was in operation in Penang from the day of the merger with the Ho Hong Bank, the Oversea- Chinese Commercial Bank in 1932.29
+
+#### **The Patriotic Chinese**
 
 
 
