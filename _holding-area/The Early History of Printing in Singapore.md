@@ -89,8 +89,11 @@ By 1841, the Mission Press of the ABCFM had printed over 14 million pages of wor
 <div style="background-color: white;"> 
 	Pages from <i>Sejarah Melayu</i> (<i>Malay Annals</i>) edited by Munshi Abdullah. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 SEJ; Accession no. B31655050C).</i></div>
 
-The Mission Press of the ABCFM also produced the earliest extant Chinese publication printed in Singapore in the National Library’s collection: 全人矩矱 (*Quan Ren Ju Yue*), translated as *The Perfect Man’s Model* or *The Complete Duty of Man*. It was written by German Protestant missionary Karl Friedrich August Gützlaff under the pen name 爱汉者 (“Lover of the Chinese”) and printed in 3,000 copies by 坚夏书院 (Jian Xia Shuyuan), the printing arm of the American 
-mission in Singapore. The book presents Jesus as the “perfect man” through the tenets of Confucianism.[^22]
+The Mission Press of the ABCFM also produced the earliest extant Chinese publication printed in Singapore in the National Library’s collection: 全人矩矱 (*Quan Ren Ju Yue*), translated as *The Perfect Man’s Model* or *The Complete Duty of Man*. It was written by German Protestant missionary Karl Friedrich August Gützlaff under the pen name 爱汉者 (“Lover of the Chinese”) and printed in 3,000 copies by 坚夏书院 (Jian Xia Shuyuan), the printing arm of the American mission in Singapore. The book presents Jesus as the “perfect man” through the tenets of Confucianism.[^22]
+
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_8png)
+<div style="background-color: white;"> 
+	Cover and pages from 全人矩矱 (<i>Quan Ren Ju Yue</i>), translated as <i>The Perfect Man’s Model</i> or <i>The Complete Duty of Man. Collection of the National Library, Singapore (Call no. RRARE 243 AHZ; Accession no. B29240187K).</i></div>
 
 #### **Lithography in Malay Printing**
 
