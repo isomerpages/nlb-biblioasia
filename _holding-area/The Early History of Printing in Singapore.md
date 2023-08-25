@@ -128,7 +128,7 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/fooshutieng2.png" style="width: 100px; height: 100px;">
+<img src="/images/Authors/gracia_lee.png" style="width: 100px; height: 100px;">
 	<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.</div>
 
 #### **Notes**
