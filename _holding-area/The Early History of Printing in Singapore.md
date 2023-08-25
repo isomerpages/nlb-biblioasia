@@ -8,7 +8,7 @@ description: Printing in Singapore dates back 200 years with the establishment
 #### Printing in Singapore dates back 200 years with the establishment of a press by Christian missionaries. Their efforts to spread the gospel also helped bring the technology here. 
 By Gracie Lee
 
-![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/goldcoinsheader2.jpg)
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_1a.png)
 <div style="background-color: white;"> 
 Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa&nbsp;Al-Masihi Atau Segala Surat Testament Bahru</i> (<i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i>). <i>Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
 
