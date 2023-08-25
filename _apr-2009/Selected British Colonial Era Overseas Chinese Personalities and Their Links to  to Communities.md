@@ -160,6 +160,17 @@ TKK's most famous charitable work was founding Xiamen University, which he priva
 
 Besides Singapore, TKK had a very strong influence on the Chinese communities in Penang, Burma, several southern China cities and Hong Kong. When he passed away in 1961, the communities held memorial services to honour the man who had made a difference in their lives.
 
+#### **Banking**
+When shipping and commerce grew, banking naturally developed alongside to provide the monetary support activities. Initially, banking activities were confined to foreign exchange and remittance services which catered for the traders paying their suppliers and sellers of commodities and also for the migrants who wanted to remit monies to their homes in the mainland.
+
+Banks eliminated the risks of losing some hard-earned monies to robbers if the traders or migrants had carried gold and silver or cash. One could just deposit funds in one branch and then cable instructions to the other branch to pay to the order of a certain party in that country or locality. The creation of the Straits Dollars in the 1898 provided a uniformed monetary system managed by the banks to facilitate trade and commerce.
+
+From the seat of government of the British Crown Colony in Rangoon, several banks were formed. Some of the names of banks remain to this very day but others were merged, bankrupted and driven out of business.
+
+#### **Entering Businessman, Banker, Patriotic Chinese and Philanthropist Tan Ean Kiam23 (1881–1943)**
+
+
+
 
 
 
