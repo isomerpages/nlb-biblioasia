@@ -164,7 +164,7 @@ Gek Han
 Good answer. Most underrated or intriguing period of history.
 
 Rachel  
-I think the precolonial period is very interesting, because I think a lot of what we learn about in school is, you know, that old modern Singapore started in 1819. But obviously, there was a lengthy history and it was a pretty significant part of like many other empires and that quite the big trading pot and civilization going on before that, which actually the National Museum does a good job of capturing now in its permanent exhibition. So yeah, that was really interesting for me to learn personally, and I would love to read more books are set in like the precolonial period, or like the 14th–15th century. I think that would be really fascinating.
+I think the precolonial period is very interesting, because I think a lot of what we learn about in school is, you know, that old modern Singapore started in 1819. But obviously, there was a lengthy history and it was a pretty significant part of like many other empires and that quite the big trading pot and civilisation going on before that, which actually the National Museum does a good job of capturing now in its permanent exhibition. So yeah, that was really interesting for me to learn personally, and I would love to read more books are set in like the precolonial period, or like the 14th–15th century. I think that would be really fascinating.
 
 Gek Han  
 Cool. And which book is on your nightstand?
