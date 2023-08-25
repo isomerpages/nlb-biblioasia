@@ -97,13 +97,6 @@ The newspapers also played important roles in maintaining communication links an
 
 Many who had lost communications with their families in the mainland could also publish their news. The newspapers became links for lost relatives.
 
-#### **Media and Newspapers**
-When the shipping industry grew, it facilitated growth of the media, in particular, the newspapers. Several papers were established and these were meant to meet the needs of the Chinese communities which had grown in numbers. The overseas Chinese wanted to become more informed on the happenings in their regions and to foster communication links with the communities at large.
-
-The newspapers also played important roles in maintaining communication links and educating the then migrant communities about their establishments such as the formation of clan houses where the new arrivals and impoverished migrants, who had fallen on hard times, could seek help from.
-
-Many who had lost communications with their families in the mainland could also publish their news. The newspapers became links for lost relatives.
-
 #### **The World's Oldest Chinese Newspaper - Kwang Wah Yit Poh12 Ch'ng Yeen Aun (1867–1938)**13
 
 He was founder and Chairman of the Rangoon and Penang Kwong Wah Yit Poh,14, one of the surviving oldest Chinese language newspapers.
@@ -124,5 +117,49 @@ On 20 November 1908, Tung Meng Hui Burma branch held its inaugural meeting at Ra
 The British however raised their objections to the political contents of the newspaper and the involvement of Tung Meng Hui. As a result of this, Ch'ng packed up his operations in Rangoon and moved over to Penang where the newspaper remains to this very day.
 
 #### **The Chinese Patriot and Nanyang Siang Pau19 Tan Kah Kee20 (1874–1961)**
+Much had been written about Tan Kah Kee as an entrepreneur and philanthropist who played a major role in the establishing of schools and universities to educate the young. The Chinese newspapers in fact played very central roles as the means for communication in the days before the proliferation of the radio and television as seen in the case of Kwang Wah Yit Poh.
+
+Tan Kah Kee (TKK) was instrumental in the establishing of Nanyang Siang Pau, a major Chinese daily, on 6 September 1923 in Singapore. Nanyang Siang Pau reportedly became one of the most influential commercial Chinese newspapers in Southeast Asia.
+
+It was reportedly the first commercial Chinese newspaper in Singapore and its influences was felt throughout Southeast Asia as well as China. The Chinese daily newspaper was distributed in Penang by Khiam Aik (Penang Branch) and in Rangoon jointly by Tan Kah Kee & Company (Rangoon Branch) and Aw Boon Haw's Tiger Balm Rangoon office.
+
+In 1932, however, he lost control of Nanyang Siang Pau and the paper was acquired by his son-in-law, Lee Kong Chian. It was then merged with The Sin Kok Min Press.
+
+#### **Early Days and the Setting Up of Business Enterprises**
+  
+In 1890, at the age of 17, TKK came to Singapore and worked at Chop Soon An,21 a sundry shop and rice trading firm, owned by his father. He learned the trade and ventured out on his own when he was 30 years old.
+
+During the time when he worked at Chop Soon An, his father taught him the rice importing trade. Rangoon, during the British Burma administration, was known as the "Rice Bowl of Asia" and rice grown there was exported to Singapore via Penang which was also under the British administration. He later diversified his operations further into pineapple and rubber.
+
+He tried his hands at growing pineapple which was harvested and canned under his own brand "Sin Lee Chuan". He became successful in the pineapple canning business and was acknowledged the "Pineapple King".
+
+He reportedly invested about $2,000,000 (Straits currency) in a rubber planting business and jointly set up the Khiam Aik Rubber Processing Factory with Penang Rubber Company. Khiam Aik was based in Penang.
+
+Tan Kah Kee & Company had three other branches in Rangoon; one in the main capital of British Burma and one each in two other cities - Bassein (situated in the Irrawaddy Delta) and Mandalay (where the Royal Palace is located). At its prime, Tan Kah Kee & Company had a total of about 70 branches in Southeast Asia and elsewhere.
+
+However, when the Depression crept into Asia, his fortunes declined. In 1937, Tan Kah Kee & Company had to fold up.
+
+#### **The Prominent Chinese Patriot**
+Through Nanyang Siang Pau and his business enterprises, TKK displayed his Chinese patriotic spirit when he was actively involved with the Tung Meng Hui-Nationalist movement under Chiang Kai-shek. He was a member of the Tung Meng Hui in 1910 and his network of influence, besides mainland China, was spun around the region in Singapore, Penang and other parts of Malaya and Rangoon.
+
+However, he was disillusioned with the rampant corruptions within the ranks of the Chiang Kai-shek movement. He later switched camp to support Mao Tzu-Tung's Chinese Communists Party.
+
+TKK was a man who would not give up without a good fight. He loved literature and he understood the strength of the media and the written word. During the period 1946 - 1959, after losing control of Nanyang Siang Pau, he took control of Nam Kew Poo (*REM) and developed the paper into an equally influential media. He reportedly wrote many of the articles in Nam Kew Poo to pursue his political campaigns against Chiang Kai-shek.
+
+Among the many articles he wrote in Nam Kew Poo, were famous headline articles: in chinese.	
+
+He was relentless in his efforts to establish links with the overseas Chinese. For about nine months in 1940, he led the China Comfort Team from Nanyang and travelled throughout mainland China visiting no less than 15 provinces. The China Comfort Team was from the China'Comfort Mission, which comforted the wounded and assessed the war conditions in China. Its leader Tan Kah Kee represented both the Singapore and the Southseas China Relief Funds. Among the other regions he travelled to were Mandalay and Rangoon in Burma, which was at the Yunnan border. The Chinese communities in Burma warmly welcomed him. He was reportedly a very charismatic speaker who could captivate an audience for more than three hours.
+
+It was reported that on 22 December 1940, when he was in Penang, he met up with Wu Tie Cheng, a special envoy of the Kuomingtang Government, whose mission was to dissuade TKK from the Chinese Communist ideology. He firmly held his ground.
+
+On 30 March 1941, TKK presented a reportedly powerful public talk at the Second Nanyang Cities Representatives Meeting attended by the Singapore and Malaya overseas Chinese communities. The speech was published in the Chinese newspaper (chinese newspaper) in Penang.
+
+During the Second Sino-Japanese War (7 July 1937–9 September 1945), TKK was regarded as one of the prominent ethnic Chinese Malayans who provided financial support for the Chinese resistance efforts in the mainland. He organised many relief funds under his name and that made him a target sought by the Japanese. When the Japanese landed in Singapore he fled to Java, Indonesia. There, he was protected and housed by many friends and past business associates and their families. While he was in Java he penned his two-volume autobiography, "Nan-qiao-hui-yi-lu".22
+
+TKK's most famous charitable work was founding Xiamen University, which he privately funded until 1936. His grandchildren commented that he left no inheritance for them and even took out personal loans to fund the operations of the university for 16 years, an act of sacrifice that is recognised and honoured even to this very day.
+
+Besides Singapore, TKK had a very strong influence on the Chinese communities in Penang, Burma, several southern China cities and Hong Kong. When he passed away in 1961, the communities held memorial services to honour the man who had made a difference in their lives.
+
+
 
 
