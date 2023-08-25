@@ -72,7 +72,7 @@ After Milton retired from the LMS in 1825, Thomsen took over the press and conti
 
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_6.png)
 <div style="background-color: white;"> 
-	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G)..</i></div>
+	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G).</i></div>
 
 #### **Printing by the American Mission**
 
@@ -84,6 +84,10 @@ Ira Tracy, the board’s first missionary to Singapore, arrived in 1834 and was 
 distribution and binding of all other books.[^17] They were helped by Achang, the foreman for Chinese printing who was also the former assistant to Liang A-Fa.[^18] They also received assistance from Munshi Abdullah, who was employed as a Malay teacher and who also aided North in editing and printing Malay literature. Notably, North printed *Munshi Abdullah’s Kisah Pelayaran Abdullah* (*The Story of Abdullah’s Voyage*) in 1837, which chronicles the Munshi’s travels up the east coast of Malaya.[^19]
 
 By 1841, the Mission Press of the ABCFM had printed over 14 million pages of works, with Chinese forming the bulk, and the rest in Malay, Bugis, Siamese, Japanese and English.[^20] One significant publication that they produced was the *Sejarah Melayu* (*Malay Annals*), published in 1840. This is the first printed edition of the *Sulalat al-Salatin* (*Genealogy of Kings*). Written in Jawi and edited by Munshi Abdullah, this 17th-century court text is one of the most important sources on the history of early Singapore.[^21]
+
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_7.png)
+<div style="background-color: white;"> 
+	Pages from <i>Sejarah Melayu</i> (<i>Malay Annals</i>) edited by Munshi Abdullah. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 SEJ; Accession no. B31655050C).</i></div>
 
 The Mission Press of the ABCFM also produced the earliest extant Chinese publication printed in Singapore in the National Library’s collection: 全人矩矱 (*Quan Ren Ju Yue*), translated as *The Perfect Man’s Model* or *The Complete Duty of Man*. It was written by German Protestant missionary Karl Friedrich August Gützlaff under the pen name 爱汉者 (“Lover of the Chinese”) and printed in 3,000 copies by 坚夏书院 (Jian Xia Shuyuan), the printing arm of the American 
 mission in Singapore. The book presents Jesus as the “perfect man” through the tenets of Confucianism.[^22]
