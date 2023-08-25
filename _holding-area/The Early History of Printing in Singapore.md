@@ -103,6 +103,11 @@ Keasberry was able to make considerable headway owing to his fluency in the lang
 
 Among his finest lithographic works is the journal *Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan* (*Eye Glass for All Who Seek Knowledge*), one of the earliest Malay periodicals published in Singapore.[^24] Keasberry’s success paved the way for the wide acceptance of the technology among local Malay commercial presses, as it presented a gradual transition from manuscript copying to printing that was less costly than typography.[^25]
 
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_9.png)
+<div style="background-color: white;"> 
+(Above) In Cermin Mata, the lithography technique was used to print Jawi text that closely resembled the natural flow of the handwritten script. <i>Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i><br>
+(Above right) British Protestant missionary Benjamin Keasberry is known for using lithography in Malay printing that resembled the flow of the handwritten script found in Malay manuscripts. <i>Image reproduced from Prinsep Street Presbyterian Church 1843–2013: Celebrating 170 Years of God’s Faithfulness (Singapore: Prinsep Street Presbterian Church, 2013). (From National Library, Singapore, call no. 285.25957 PRI).</i></div>
+
 #### **Development of a Metallic Chinese Type**
 
 Progress was not limited to Malay printing alone. Samuel Dyer, an LMS missionary stationed in Singapore from 1842 to 1843, has been widely credited for his pioneering work on the development of a fount of movable Chinese metallic types that was accurate, aesthetically pleasing, less costly and durable. 
