@@ -18,6 +18,10 @@ In Singapore, the start of printing can be traced to the establishment of Missio
 
 In 1815, Milne arrived in Malacca with Liang A-Fa, one of their first Chinese converts and a printer trained in xylography (woodblock printing), sowing the seeds for a new mission base that would include a school and a printing press. The output of the printing office was prodigious, and they produced a variety of religious and secular works in Chinese, English and Malay. Some of its notable publications include Stamford Raffles’s *Formation of the Singapore Institution, A.D. 1823* (1823) where he outlined his proposal for an educational institution in Singapore, known today as the Raffles Institution. The Malacca station also served the printing needs of the government and merchants of Singapore up until the early 1820s.[^1]
 
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_1b.png)
+<div style="background-color: white;"> 
+	Title page of the <i>Formation of the Singapore Institution, A.D. 1823</i>. The Singapore Institution was renamed Raffles Institution around 1868. <i>Collection of the National Library, Singapore (Call no. RRARE 373.5957 FOR; Accession no. B20025196C).</i></div>
+
 #### **The First Printing Press in Singapore**
 
 The developments in Malacca laid the groundwork for the society’s expansion into Singapore. In October 1819, Samuel Milton, who arrived in Malacca in 1818 to work with the Chinese community there, became the first LMS missionary appointed to Singapore. He was joined in May 1822 by Claudius Henry Thomsen, a Danish missionary versed in the Malay language and printing in Malay. When Thomsen departed Malacca for Singapore, he brought with him a small portable press. 
