@@ -70,6 +70,10 @@ However, as the presses were procured without the knowledge of the LMS and Milto
 
 After Milton retired from the LMS in 1825, Thomsen took over the press and continued its dual function of printing religious publications as well as secular works received through government and commercial jobs.[^12] These include missionary Walter Henry Medhurst’s *Journal of a Tour Along the Coast of Java and Bali* (1830) where he recounts his travels to the two places with Reverend Jacob Tomlin in 1829,[^13] and *Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru* (*The New Testament of Our Lord and Saviour Jesus Christ in Malay*) (1831). This is a revised translation of the New Testament in Malay by Thomsen and Robert Burn, the Chaplain of the Anglican Church in Singapore.[^14]
 
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_6.png)
+<div style="background-color: white;"> 
+	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G)..</i></div>
+
 #### **Printing by the American Mission**
 
 Because of his failing health, Thomsen left Singapore in 1834. However, before leaving, he made the questionable move of selling the LMS’s printing equipment and land to the American Board of Commissioners for Foreign Missions (ABCFM). Uncertainty over the ownership of the property lingered until the board exited Singapore in 1843 and its assets were transferred to the LMS at no cost.[^15]
