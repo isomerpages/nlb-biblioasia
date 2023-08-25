@@ -90,8 +90,39 @@ In London he called on David Sime Cargill and other directors, who entertained h
 
 In November 1923, at the age of 53, LCT reportedly died from a heart attack when the telephone company threatened to disconnect his telephone line for non-payment and aggravated by an untimely and unwelcome "communication" from his bank.
 
+#### **Media and Newspapers**
+When the shipping industry grew, it facilitated growth of the media, in particular, the newspapers. Several papers were established and these were meant to meet the needs of the Chinese communities which had grown in numbers. The overseas Chinese wanted to become more informed on the happenings in their regions and to foster communication links with the communities at large.
 
+The newspapers also played important roles in maintaining communication links and educating the then migrant communities about their establishments such as the formation of clan houses where the new arrivals and impoverished migrants, who had fallen on hard times, could seek help from.
 
+Many who had lost communications with their families in the mainland could also publish their news. The newspapers became links for lost relatives.
 
+#### **Media and Newspapers**
+When the shipping industry grew, it facilitated growth of the media, in particular, the newspapers. Several papers were established and these were meant to meet the needs of the Chinese communities which had grown in numbers. The overseas Chinese wanted to become more informed on the happenings in their regions and to foster communication links with the communities at large.
+
+The newspapers also played important roles in maintaining communication links and educating the then migrant communities about their establishments such as the formation of clan houses where the new arrivals and impoverished migrants, who had fallen on hard times, could seek help from.
+
+Many who had lost communications with their families in the mainland could also publish their news. The newspapers became links for lost relatives.
+
+#### **The World's Oldest Chinese Newspaper - Kwang Wah Yit Poh12 Ch'ng Yeen Aun (1867–1938)**13
+
+He was founder and Chairman of the Rangoon and Penang Kwong Wah Yit Poh,14, one of the surviving oldest Chinese language newspapers.
+
+He was born in Ouan-zhou village, Tong An County, Fujian Province, China. He migrated to Burma at the age of 18. At first, he stayed in a village in Lower Burma working as a paddy farmer. He later moved to Rangoon and set up "Chop Guan Kee", a grocery shop.
+
+In 1904 he met Kang You-wei,15 a Royalist from the Qing Court in Rangoon when Kang visited Burma. Kang persuaded him to establish a base for the "Bao Huang Hui"16 in Rangoon Chinatown.
+
+In May 1905, Qin Li-shan, a Hunan-born Revolutionist, also visited Rangoon to spread the China Revolutionary ideology. Qin met with Ch'ng and exposed Kang's scheme to preserve the Qing's throne. Kang's selfish ambition was to stage a revolt against the Empress Dowager Cixi using the powerless Emperor Guangxu to assume control of the Chinese court.
+
+After meeting Qin, Ch'ng abandoned the "Bao Huang Hui" and joined the Tung Meng Hui in Rangoon.
+ 
+ #### **Kwang Wah Yit Poh and Tung Meng Hui**
+ In August 1908, Ch'ng Yeen Aun, Xu Zang-zhou and other overseas Chinese in Rangoon raised funds to set up Tung Meng Hui's political mouthpiece and called it "Kwong Wah Yit Poh", a name preserved to this very day. Ch'ng became Managing Director of the newspaper. He  was able to spread revolutionary thoughts through various articles published in the newspaper. Dr Sun Yat Sen also recommended Ju-zheng, Yang Qiu-fan and Lu Zhi-yi as principal editors to assist Ch'ng.
+
+On 20 November 1908, Tung Meng Hui Burma branch held its inaugural meeting at Rangoon. Ch'ng Yeen Aun was unanimously elected by overseas Chinese in Burma as Chairman17. Ch'ng quickly set up sub-branches in the main cities of Burma. In recognition of his active achievement Dr Sun Yat Sen personally wrote him a letter to express his delight and approval.16
+
+The British however raised their objections to the political contents of the newspaper and the involvement of Tung Meng Hui. As a result of this, Ch'ng packed up his operations in Rangoon and moved over to Penang where the newspaper remains to this very day.
+
+#### **The Chinese Patriot and Nanyang Siang Pau19 Tan Kah Kee20 (1874–1961)**
 
 
