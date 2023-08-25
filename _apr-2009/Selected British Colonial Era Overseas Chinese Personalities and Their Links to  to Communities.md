@@ -30,5 +30,35 @@ Together with Penang and other Straits Settlements territories, Singapore came u
 
 Singapore retained the premier position as the seat of administration for the British colony until Rangoon was added to the Crown Colony in 1885. However, to this very day, Singapore remains a strategic entrepot and the Asian cross-road between the East and the West.
 
+#### **Rangoon, Burma (1885)**
+It all began when the British launched the Second Anglo-Burmese war in 1852, seized control of Lower Burma and then transformed Rangoon into a commercial centre and political hub for British Burma.
+
+During the peaceful and economically stable years in Southeast Asia under the British rule, more mainland Chinese ventured out and most landed in Rangoon where jobs and opportunities were in abundance. The Irrawaddy Delta region then referred to as the "Rice Bowl of Asia" received most of the migrants.
+
+British Rangoon, with its spacious parks and lakes and mix of modern buildings and traditional wooden architecture, was then also known as "the garden city of the East". It was recorded as the most prosperous city in Southeast Asia. Towards the early 20th century, Rangoon had public services and infrastructure on a par with the City of London.2
+
+#### **Trade and Commerce**
+After Britain restructured its crown colonies following the annexation of Burma, the Southeast Asia region became stable. Trade and commerce grew. Trading of rice and other staple food and commodities, especially teak wood from Burma, led the growth. Shipping became the essential transportation and communication infrastructure for the region.
+
+Many shipping. lines were established to transport people and goods.3
+
+Carriage of goods by sea complemented overland transportation modes. It was a faster option. A single journey, for example, from Rangoon to Singapore that would have taken months could be shortened to weeks by the sea-route.
+
+The shipping industry helped to fuel the growth of commerce and communications, expanding trade within the region and China. However, control of trade and commerce still rested with the British and Europeans merchants and traders as they enjoyed preferential treatments and could influence the British Administrators.
+
+#### **The Burmese Overseas - Chinese Shipping Tycoon Lim Chin Tsong (1867–1923)4**
+Lim Chin Tsong (LCT), a Rangoon-born Chinese merchant, became an important intermediary of the Burmah Oil Company.5
+
+His father, Lim Si Xing, a rice merchant, came from Tong An County in Fujian Province, China, in 1861 and settled in Rangoon. When conducting businesses 
+with the British and Europeans, due to a lack of understanding in the English language, the elder Lim found himself handicapped. He therefore sent his son to St. Paul's College, then a premier English school in Rangoon. It was this education that laid the foundation for LCT and equipped him in his later years.
+
+LCT operated his business from an office in China Street, Rangoon.6 He had a network of oil distributors which extended throughout British Burma.
+
+With some ocean-going vessels: SS Glenogie, SS Seang Bee, SS Seang Choon, SS Seang Kok, SS Seang Lee, among others, LCT established his Seang Line of Steamers ("The Chinese Steamship Company of Rangoon") plying from Rangoon to Singapore, Penang, Hong Kong, Swatow and Amoy (Xiamen).
+
+Kim Keng Leong & Company (Chop Kim Cheong), Penang, was the agent for Seang Line. Soo Bee Kongsi (Rangoon Kerosene Oil), Ooi Saik & Company (Rangoon - Penang rice merchants) were also agents for LCT located at 127 Beach Street, Penang.7
+
+
+
 
 
