@@ -4,7 +4,7 @@ title: BiblioAsia
 description: BiblioAsia features the history, culture and heritage of Singapore
   within the larger Asian context. It is produced by the National Library of
   Singapore.
-image: /images/Vol 19 Issue 1/logo-biblioasia.png
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:

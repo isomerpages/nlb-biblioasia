@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - The Early History of Printing in Singapore.md
       - Director's Note.md
       - New Books on Singapore History.md
       - Test2.md

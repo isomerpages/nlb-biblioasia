@@ -43,7 +43,7 @@ By Alfian Sa’at
 Epigram Books (2023), 295 pages <br>
 Call no.: RSING 792.095957 ALF
 
-![](/images/Vol%2019%20Issue%203/9%20New%20Books/book_4.png)
+![](/images/Vol%2019%20Issue%203/9%20New%20Books/book4-edit.png)
 
 Wild Rice was founded in 2000 by award-winning theatre practitioner Ivan Heng, a recipient of the Cultural Medallion. This book features interviews, archival photographs and behind-the-scenes stories to uncover the history of one of Singapore’s leading professional theatre companies. Author Alfian Sa’at, who is also the company’s resident playwright, is a critically acclaimed poet and writer himself.
 
