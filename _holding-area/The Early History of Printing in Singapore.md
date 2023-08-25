@@ -9,7 +9,8 @@ description: Printing in Singapore dates back 200 years with the establishment
 By Gracie Lee
 
 ![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/goldcoinsheader2.jpg)
-<div style="background-color: white;">Gold coins in the collection of the National Museum of Singapore. Clockwise from left: From 17th-century Johor (accession no. N-3717); from 18th- to 19th-century Terengganu (accession no. N-3716); and from 15th-century Kelantan (accession no. N-3090). Similar to Aceh in North Sumatra, the coins from Johor and Terengganu have Jawi inscriptions that identify the ruler, while the coin from Kelantan has a deer motif. The coins are 11 mm in diameter. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"> 
+Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa&nbsp;Al-Masihi Atau Segala Surat Testament Bahru</i> (<i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i>). <i>Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
 
 The history of printing in Singapore shares similarities with that of many Southeast Asian countries. Christian missionaries were responsible for introducing the technology to the region, with the aim of spreading the gospel in the local languages. However, the presses were not limited to religious literature and were also used for government and commercial purposes. Over time, the technology and expertise required to operate these presses grew, leading to the emergence of secular printing operations.
 
