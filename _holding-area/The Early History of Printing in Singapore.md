@@ -38,6 +38,11 @@ Most historians regard this as Singapore’s first printing press. Thomsen also 
 
 Although there is a wealth of research on the history of printing in Singapore, the exact date when printing was first introduced here remains unknown. What is certain is that Stamford Raffles officially granted Thomsen permission to operate a printing press in Singapore on 23 January 1823. Six days earlier, on 17 January, Thomsen had submitted a request “to use a printing Press with which I may be able more effectively to pursue my labours as a Christian missionary among the Malays”. L.N. Hull, acting secretary to the Lieutenant-Governor, replied that Raffles “gives his full sanction to the measure, and will be happy to assist the undertaking by the patronage and support of government as far as circumstances permit”.[^3]
 
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_4.png)
+<div style="background-color: white;"> 
+Letter to Claudius Henry Thomsen from Acting Secretary L.N. Hull on 23 January 1823, granting Thomsen permission to operate a printing press in Singapore. <i>L17: Raffles: Letters to Singapore (Farquhar), Straits Settlements Records. (From National Archives of Singapore).</i></div>
+
+
 While formal approval was only given in January 1823, there is evidence that some form of printing had already taken place before that. Among the earliest dates proposed is May 1822. In Cecil K. Byrd’s 1970 study on early printing in the Straits Settlements, he included an illustrated plate on what he believed is the earliest extant sample of printing in Singapore. 
 
 The document, titled “Price Current of Goods at Singapore”, comprises four pages printed on paper watermarked “1819”. It presents a list of commodities categorised under headings such as “Eastern Produce”, “China Goods”, “Bengal and other Indian Goods” and “Produce of Europe, America &amp;c”. The cover sheet bears a handwritten date of 31 May 1822. Byrd observed that the printing was coarse, suggesting that this might be a small government job that was produced on the portable press that Thomsen had brought over from Malacca.[^4]
