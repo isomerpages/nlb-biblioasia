@@ -170,10 +170,10 @@ Gek Han
 Cool. And which book is on your nightstand?
 
 Rachel  
-I'm currently reading Daryl Qilin Yam's [<i>Lovelier, Lonelier</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205538575). And he's a local author, and the book's published by Epigram, I think. It's a contemporary novel about a group of friends and the way in which their lives intersect after the passing of a comet and unexpected comet in the sky. And it's sort of slightly surreal, slightly hallucinatory. It's hard to say what it's about, but essentially it is about friendship and love and the choices that that we make.
+I'm currently reading Daryl Qilin Yam's [<i>Lovelier, Lonelier</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205538575). And he's a local author, and the book's published by Epigram, I think. It's a contemporary novel about a group of friends and the way in which their lives intersect after the passing of a comet and unexpected comet in the sky. And it's sort of slightly surreal, slightly hallucinatory. It's hard to say what it's about, but essentially it is about friendship and love and the choices that we make.
 
 Gek Han  
-Do you have a favorite genre? 
+Do you have a favourite genre? 
 
 Rachel  
 No, I don't. I read very omnivorously. I have an affection for 19th century French novels, I would say. And this book was loosely based on the structure of the novel [<i>The Red and the Black</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14251420) by Stendhal, which is about a young French boy growing up in the countryside who wants to model his life on Napoleon. 
