@@ -2,7 +2,6 @@ collections:
   oct-to-dec-2023:
     output: true
     order:
-      - New Books on Singapore History.md
       - The Bumpy Ride to Making Crash Helmets Mandatory.md
       - Forgotten Heroes of the Malaya Cup (1921–1941).md
       - Coach Choo Seng Quee, A Giant of Singapore Football.md
@@ -13,3 +12,4 @@ collections:
       - "Going Against the (Rice) Grain: The “Eat More Wheat” Campaign.md"
       - "A Well-Choreographed Move: From Singapore Dance Theatre to Singapore
         Ballet.md"
+      - New Books on Singapore History.md
