@@ -232,7 +232,7 @@ All of these men achieved something special in the world of football in the year
 
 Today’s talk of the greatest players from Singapore rarely deviates from the players of recent memory, and even then, many are forgotten or marginalised. These names are presented here to remind people that there were great players who laid the foundation for a lasting football legacy in Singapore. They were indeed trailblazers who paved the way for the football heroes who came after them.
 
-|Game  |Opponent|Scorers for Singapore
+|Game    |Opponent|Scorers for Singapore
 | --------- | -------- | -------- |
 |24 Sep 1921: 2-0  |Malacca|Roy Smith &amp; C.M. Jamieson|
 |19 Aug 1922: 3-0  |Negri Sembilan|Roy Smith, C.M. Jamieson &amp; Chia Kwang Hung|
