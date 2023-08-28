@@ -4,26 +4,44 @@ permalink: /holding-area/test2/
 description: Printing in Singapore dates back 200 years with the establishment
   of a press by Christian missionaries. Their efforts to spread the gospel also
   helped bring the technology here.
+image: /images/Vol 19 Issue 3/10 Printing/image_1a.png
 ---
 #### Printing in Singapore dates back 200 years with the establishment of a press by Christian missionaries. Their efforts to spread the gospel also helped bring the technology here. 
 By Gracie Lee
 
-![](/images/Vol%2019%20Issue%203/8%20Gold%20Coins/goldcoinsheader2.jpg)
-<div style="background-color: white;">Gold coins in the collection of the National Museum of Singapore. Clockwise from left: From 17th-century Johor (accession no. N-3717); from 18th- to 19th-century Terengganu (accession no. N-3716); and from 15th-century Kelantan (accession no. N-3090). Similar to Aceh in North Sumatra, the coins from Johor and Terengganu have Jawi inscriptions that identify the ruler, while the coin from Kelantan has a deer motif. The coins are 11 mm in diameter. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_1a.png)
+<div style="background-color: white;"> 
+Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa&nbsp;Al-Masihi Atau Segala Surat Testament Bahru</i> (<i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i>). <i>Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
 
 The history of printing in Singapore shares similarities with that of many Southeast Asian countries. Christian missionaries were responsible for introducing the technology to the region, with the aim of spreading the gospel in the local languages. However, the presses were not limited to religious literature and were also used for government and commercial purposes. Over time, the technology and expertise required to operate these presses grew, leading to the emergence of secular printing operations.
 
 In Singapore, the start of printing can be traced to the establishment of Mission Press by the London Missionary Society (LMS). The London Missionary Society, which is now part of the Council for World Missions, was a non-denominational Protestant organisation founded in England in 1795. One of its chief aims was to reach out to China’s vast population but initial attempts failed due to the Qing government’s regulations that forbade open preaching and the publication of foreign literature as measures to deter Western influence. While waiting for Chinese restrictions to loosen, Robert Morrison, the society’s first missionary to China, and his co-worker William Milne decided to set up a temporary mission somewhere else, a place where they could learn Chinese and evangelise more freely. They settled on Malacca because of its central location and sizeable Chinese population. 
 
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_1c.png)
+<div style="background-color: white;"> 
+Title page of <i>A Retrospect of the First Ten Years of the Protestant Mission to China</i>, published at the Mission Press in Malacca in 1820. <i>Collection of the National Library, Singapore (Call no. RRARE 266.02341051 MIL-[JSB]; Accession no. B29268446H).</i></div>
+	
 In 1815, Milne arrived in Malacca with Liang A-Fa, one of their first Chinese converts and a printer trained in xylography (woodblock printing), sowing the seeds for a new mission base that would include a school and a printing press. The output of the printing office was prodigious, and they produced a variety of religious and secular works in Chinese, English and Malay. Some of its notable publications include Stamford Raffles’s *Formation of the Singapore Institution, A.D. 1823* (1823) where he outlined his proposal for an educational institution in Singapore, known today as the Raffles Institution. The Malacca station also served the printing needs of the government and merchants of Singapore up until the early 1820s.[^1]
+
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_1b.png)
+<div style="background-color: white;"> 
+	Title page of the <i>Formation of the Singapore Institution, A.D. 1823</i>. The Singapore Institution was renamed Raffles Institution around 1868. <i>Collection of the National Library, Singapore (Call no. RRARE 373.5957 FOR; Accession no. B20025196C).</i></div>
 
 #### **The First Printing Press in Singapore**
 
 The developments in Malacca laid the groundwork for the society’s expansion into Singapore. In October 1819, Samuel Milton, who arrived in Malacca in 1818 to work with the Chinese community there, became the first LMS missionary appointed to Singapore. He was joined in May 1822 by Claudius Henry Thomsen, a Danish missionary versed in the Malay language and printing in Malay. When Thomsen departed Malacca for Singapore, he brought with him a small portable press. 
 
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_3.png)
+<div style="background-color: white;"> 
+Portrait of Danish missionary Claudius Henry Thomsen (1816), copied from a drawing in the archives of the Council for World Missions at the School of Oriental and African Studies, London. <i>Image reproduced from A.C. Milner, “A Missionary Source for a Biography of Munshi Abdullah,” Journal of the Malaysian Branch of the Royal Asiatic Society 53, no. 1 (237): 111–119. (Retrieved from JSTOR via NLB’s eResources website).</i></div>
+
 Most historians regard this as Singapore’s first printing press. Thomsen also brought along with him two unnamed assistants who had been helping him at the Malay and English printing press in Malacca. Although their identities are not known, they were likely Abdullah Abdul Kadir (better known as Munshi Abdullah) – who had worked alongside Thomsen at the Malacca mission as a Malay teacher, translator, transcriber, compositor, printer and typecutter – and a Eurasian printer named Michael.[^2]
 
 Although there is a wealth of research on the history of printing in Singapore, the exact date when printing was first introduced here remains unknown. What is certain is that Stamford Raffles officially granted Thomsen permission to operate a printing press in Singapore on 23 January 1823. Six days earlier, on 17 January, Thomsen had submitted a request “to use a printing Press with which I may be able more effectively to pursue my labours as a Christian missionary among the Malays”. L.N. Hull, acting secretary to the Lieutenant-Governor, replied that Raffles “gives his full sanction to the measure, and will be happy to assist the undertaking by the patronage and support of government as far as circumstances permit”.[^3]
+
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_4.png)
+<div style="background-color: white;"> 
+Letter to Claudius Henry Thomsen from Acting Secretary L.N. Hull on 23 January 1823, granting Thomsen permission to operate a printing press in Singapore. <i>L17: Raffles: Letters to Singapore (Farquhar), Straits Settlements Records. (From National Archives of Singapore).</i></div>
 
 While formal approval was only given in January 1823, there is evidence that some form of printing had already taken place before that. Among the earliest dates proposed is May 1822. In Cecil K. Byrd’s 1970 study on early printing in the Straits Settlements, he included an illustrated plate on what he believed is the earliest extant sample of printing in Singapore. 
 
@@ -34,6 +52,10 @@ Further evidence of pre-1823 printing in Singapore is supported by a study that 
 Some historians have also suggested that Thomsen and Munshi Abdullah were involved in printing some legislations for Raffles in the months leading up to 1 January 1823.[^6] In Munshi Abdullah’s autobiography *Hikayat Abdullah* (*Stories of Abdullah*), he recounts an urgent printing job that he undertook for Raffles:
 
 The settlement of Singapore had become densely populated and Mr. Raffles drafted laws clarifying the regulations and the procedure for their enforcement which were needed in the Settlement to protect its inhabitants from danger and crime. He drew up several sections in English dealing with penalties for infringing the regulations, which were then translated into Malay. After this he told Mr. Thomsen to print them. Now at that time there were not enough types in Malacca, so he told me to make up the deficiency. For two days I sat making types. Then they were ready, and the printing was done, fifty copies in Malay and fifty copies in English. A friend of mine set up the type, a young Eurasian name Michael. At last at three o’clock in the morning all was finished, for the same morning, which was the first day of the new year, they wanted to publish the laws. Eyes drooped and stomachs felt the pangs of hunger, all because the task had to be finished that night. For Mr. Raffles had insisted that it be ready by the next morning. And the next morning the notices were posted in every quarter of the town.[^7]
+
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_5.png)
+<div style="background-color: white;"> 
+	The beautiful calligraphy on the coloured double frontispiece of <i>Hikayat Abdullah</i> (<i>Stories of Abdullah</i>), lithographed at the Mission Press. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F).</i></div>
 
 Raffles was a passionate advocate for printing and played a key role in introducing the first printing press to Bencoolen (now known as Bengkulu) during his tenure as lieutenant-governor there. On his return to Singapore in October 1822, Raffles asked Milton if the mission had a printing press as he wanted to “print several things”. On learning that there was none, Raffles urged Milton to procure some for the LMS.[^8]
 
@@ -49,6 +71,10 @@ However, as the presses were procured without the knowledge of the LMS and Milto
 
 After Milton retired from the LMS in 1825, Thomsen took over the press and continued its dual function of printing religious publications as well as secular works received through government and commercial jobs.[^12] These include missionary Walter Henry Medhurst’s *Journal of a Tour Along the Coast of Java and Bali* (1830) where he recounts his travels to the two places with Reverend Jacob Tomlin in 1829,[^13] and *Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru* (*The New Testament of Our Lord and Saviour Jesus Christ in Malay*) (1831). This is a revised translation of the New Testament in Malay by Thomsen and Robert Burn, the Chaplain of the Anglican Church in Singapore.[^14]
 
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_6.png)
+<div style="background-color: white;"> 
+	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G).</i></div>
+
 #### **Printing by the American Mission**
 
 Because of his failing health, Thomsen left Singapore in 1834. However, before leaving, he made the questionable move of selling the LMS’s printing equipment and land to the American Board of Commissioners for Foreign Missions (ABCFM). Uncertainty over the ownership of the property lingered until the board exited Singapore in 1843 and its assets were transferred to the LMS at no cost.[^15]
@@ -60,8 +86,15 @@ distribution and binding of all other books.[^17] They were helped by Achang, th
 
 By 1841, the Mission Press of the ABCFM had printed over 14 million pages of works, with Chinese forming the bulk, and the rest in Malay, Bugis, Siamese, Japanese and English.[^20] One significant publication that they produced was the *Sejarah Melayu* (*Malay Annals*), published in 1840. This is the first printed edition of the *Sulalat al-Salatin* (*Genealogy of Kings*). Written in Jawi and edited by Munshi Abdullah, this 17th-century court text is one of the most important sources on the history of early Singapore.[^21]
 
-The Mission Press of the ABCFM also produced the earliest extant Chinese publication printed in Singapore in the National Library’s collection: 全人矩矱 (*Quan Ren Ju Yue*), translated as *The Perfect Man’s Model* or *The Complete Duty of Man*. It was written by German Protestant missionary Karl Friedrich August Gützlaff under the pen name 爱汉者 (“Lover of the Chinese”) and printed in 3,000 copies by 坚夏书院 (Jian Xia Shuyuan), the printing arm of the American 
-mission in Singapore. The book presents Jesus as the “perfect man” through the tenets of Confucianism.[^22]
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_7.png)
+<div style="background-color: white;"> 
+	Pages from <i>Sejarah Melayu</i> (<i>Malay Annals</i>) edited by Munshi Abdullah. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 SEJ; Accession no. B31655050C).</i></div>
+
+The Mission Press of the ABCFM also produced the earliest extant Chinese publication printed in Singapore in the National Library’s collection: 全人矩矱 (*Quan Ren Ju Yue*), translated as *The Perfect Man’s Model* or *The Complete Duty of Man*. It was written by German Protestant missionary Karl Friedrich August Gützlaff under the pen name 爱汉者 (“Lover of the Chinese”) and printed in 3,000 copies by 坚夏书院 (Jian Xia Shuyuan), the printing arm of the American mission in Singapore. The book presents Jesus as the “perfect man” through the tenets of Confucianism.[^22]
+
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_8.png)
+<div style="background-color: white;"> 
+	Cover and pages from 全人矩矱 (<i>Quan Ren Ju Yue</i>), translated as <i>The Perfect Man’s Model</i> or <i>The Complete Duty of Man. Collection of the National Library, Singapore (Call no. RRARE 243 AHZ; Accession no. B29240187K).</i></div>
 
 #### **Lithography in Malay Printing**
 
@@ -71,9 +104,19 @@ Keasberry was able to make considerable headway owing to his fluency in the lang
 
 Among his finest lithographic works is the journal *Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan* (*Eye Glass for All Who Seek Knowledge*), one of the earliest Malay periodicals published in Singapore.[^24] Keasberry’s success paved the way for the wide acceptance of the technology among local Malay commercial presses, as it presented a gradual transition from manuscript copying to printing that was less costly than typography.[^25]
 
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_9.png)
+<div style="background-color: white;"> 
+(Above) In Cermin Mata, the lithography technique was used to print Jawi text that closely resembled the natural flow of the handwritten script. <i>Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i><br>
+(Above right) British Protestant missionary Benjamin Keasberry is known for using lithography in Malay printing that resembled the flow of the handwritten script found in Malay manuscripts. <i>Image reproduced from Prinsep Street Presbyterian Church 1843–2013: Celebrating 170 Years of God’s Faithfulness (Singapore: Prinsep Street Presbterian Church, 2013). (From National Library, Singapore, call no. 285.25957 PRI).</i></div>
+
 #### **Development of a Metallic Chinese Type**
 
 Progress was not limited to Malay printing alone. Samuel Dyer, an LMS missionary stationed in Singapore from 1842 to 1843, has been widely credited for his pioneering work on the development of a fount of movable Chinese metallic types that was accurate, aesthetically pleasing, less costly and durable. 
+
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_10.png)
+<div style="background-color: white;"> 
+(Right) British Protestant missionary Samuel Dyer pioneered the use of movable Chinese metallic types that were accurate, aesthetically pleasing, less costly and durable. <i>Image reproduced from Evan Davies, The Memoir of Samuel Dyer: Sixteen Years Missionary to the Chinese (London: Snow, 1846). Retrieved from Wikimedia Commons.</i><br>
+(Below) Specimen of Samuel Dyer’s Chinese type. <i>Image reproduced from The Evangelical Magazine and Missionary Chronicle 1840 (London: Thomas Ward and Co., 1840), 97. (Retrieved from HathiTrust).</i></div>
 
 Dyer’s movable types received high praise from missionary Walter Henry Medhurst who wrote: “The types are such as to afford entire satisfaction. The complete Chinese air they assume so as not to be distinguishable from the best style of native artists, together with the clearness and durability of the letter, would recommend them to universal adoption.”[^26] The types subsequently became the standard for Chinese printing in the 1850s, replacing the woodblocks that were traditionally used.[^27]
 
@@ -85,7 +128,7 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/fooshutieng2.png" style="width: 100px; height: 100px;">
+<img src="/images/Authors/gracia_lee.png" style="width: 100px; height: 100px;">
 	<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.</div>
 
 #### **Notes**

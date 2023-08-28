@@ -1,6 +1,6 @@
 ---
 title: New Books on Singapore History
-permalink: /holding-area/permalink/newbooks/
+permalink: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
 description: ""
 ---
 #### **[Imagining Singapore: Pictorial Photography from the 1950s to the 1970s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206080449)**
