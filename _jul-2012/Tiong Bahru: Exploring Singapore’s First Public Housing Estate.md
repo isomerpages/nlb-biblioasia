@@ -32,6 +32,8 @@ By 1931, the land work, including the laying of roads, drains and culverts, had 
 
 Construction of the estate began in March 1936, and the first block of flats consisting of 28 units and four shops was completed in December that year. The first 11 families moved in on 1 December, paying monthly rents of $20 for a ground-floor unit and $22 for an upper-level unit. By 1941, some 784 flats in two- and three-storey blocks, 54 tenements and 33 shops had been built, accommodating over 6,000 people. The estate had a market, a restaurant, coffee shops, a shoe shop, a dressmaker’s shop and sundry shops. Residents comprised a diverse population of Chinese, Indians, Eurasians and Europeans.
 
+##### [F]iremen were unable to reach the Sungei Batu rubber factory during fires in 1911 and 1914; in both cases, firemen could not drive their engines to the factory due to the condition of the roads, and had to haul their equipment via footpaths.
+
 #### **Advent of War: The Japanese Occupation**
 
 With Tiong Bahru’s development ongoing even as World War II approached, town planners built air raid shelters within the estate. The blast-proof shelters at Block 78 Guan Chuan Street remain intact as Singapore’s first air raid shelters located within a public housing estate, while another shelter at Eu Chin Street was later converted into a community centre.[^12] Children’s playgrounds were also turned into makeshift air raid shelters as the Japanese advanced towards Singapore.[^13]
@@ -45,38 +47,38 @@ The occupation saw a large number of new residents in Tiong Bahru, with an estim
 <img style="width:80%;" src="/images/Vol%208%20issue%202/Tiong%20Bahru/CC%20at%20Tiong%20Bahru1.jpg">
  <div style="background-color: white;">Tiong Bahru Community Centre, 1951. <i>National Archives of Singapore.</i></div>
  
-After the Occupation, construction continued on the housing estate. In 1948, a club was formed to manage the social, physical and cultural life and amenities of the community. By 1951, the estate had a physical centre, Singapore’s first community centre. The centre had its own civil defence group and auxiliary police force for the area.[^16] In 1961, the first polyclinic in Singapore opened in Tiong Bahru. Tiong Bahru flats continued to be in high demand, with thousands of applicants on the waiting list. By 1954 the SIT added another 1,258 units to the estate.[^17]
+After the Occupation, construction continued on the housing estate. In 1948, a club was formed to manage the social, physical and cultural life and amenities of the community. By 1951, the estate had a physical centre, Singapore’s first community centre. The centre had its own civil defence group and auxiliary police force for the area.[^16] In 1961, the first polyclinic in Singapore opened in Tiong Bahru. Tiong Bahru flats continued to be in high demand, with thousands of applicants on the waiting list. By 1954, the SIT had added another 1,258 units to the estate.[^17]
 
-In the early 1950s, the population of Tiong Bahru stood at around 400,000. Besides those living in SIT housing, a number of attap hut villages had sprung up on uncleared burial grounds. *The Straits Times* called the area “one of the worst attap slums in Singapore… haunted by a nest of gangsters and undesirable elements”.[^18] The remaining slums and grave sites on the fringes of Tiong Bahru were only cleared by the mid-1970s.
+In the early 1950s, the population of Tiong Bahru stood at around 400,000. Besides those living in SIT housing, a number of attap hut villages sprang up on uncleared burial grounds. *The Straits Times* called the area “one of the worst attap slums in Singapore… haunted by a nest of gangsters and undesirable elements”.[^18] The remaining slums and grave sites on the fringes of Tiong Bahru were cleared by the mid-1970s.
 
-In 1955, the SIT was dissolved and the People’s Action Party government that had come to power in 1959 instituted the Housing Development Board (HDB) in its place. The HDB announced its first five-year building plan in December 1960, including the construction of some 900 flats at Tiong Bahru for lower-income groups. From March 1965, the HDB ended the rental policy of the pre-war flats and sold a number of them to their occupants, and evicted the remaining tenants who did not take up the sale option. The post-war flats came under HDB management in 1973 and residents had their 99-year leases renewed.
+In 1955, the SIT was dissolved and the People’s Action Party government that had come to power in 1959 instituted the Housing and Development Board (HDB) in its place. The HDB announced its first five-year building plan in December 1960, including the construction of some 900 flats at Tiong Bahru for lower-income groups. From March 1965, the HDB ended the rental policy of the prewar flats and sold a number of them to their occupants, and evicted the remaining tenants who did not take up the sale option. The postwar flats came under HDB management in 1973 and residents had their 99-year leases renewed.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%202/Tiong%20Bahru/HDB%20at%20Tiong%20Bahru1.jpg">
  <div style="background-color: white;">Housing and Development Board Area Office at Tiong Bahru, 1964. <i>National Archives of Singapore.</i></div>
 	
-In 1966, the HDB announced that as part of its second five-year plan, an S$8.5 million housing scheme for 40,000 people would be developed on Kampong Tiong Bahru, which had been the site of several major fires.
+In 1966, the HDB announced that as part of its second five-year plan, an $8.5 million housing scheme for 40,000 people would be developed at Kampong Tiong Bahru, which had been the site of several major fires.
 
 #### **Fires in Tiong Bahru**
 
 There were numerous fires in Tiong Bahru, both big and small, before the development of widespread modern housing in the area. In August 1934, more than 500 dwellings across the kampongs of Tiong Bahru, Bukit Ho Swee and Havelock Road were destroyed by what was then described as “one of the worst fires in years”. Up to 5,000 people were left homeless.
 
-Fires in 1955 and 1958 left hundreds in Kampong Tiong Bahru homeless, leading to the formation of a volunteer fire-fighting force in 1958. The easily flammable materials used to construct attap huts in the kampongs and the densely packed nature of their layout meant that fires spread quickly and caused major damage. Another fire in February 1959 caused up to 12,000 to lose their homes and $2 million worth of damage.
+Fires in 1955 and 1958 left hundreds in Kampong Tiong Bahru homeless, leading to the formation of a volunteer fire-fighting force in 1958. The highly flammable materials used to construct attap huts in the kampongs and the densely packed nature of their layout meant that fires spread quickly and caused major damage. Another fire in February 1959 caused up to 12,000 to lose their homes and $2 million worth of damage.
 
 On 25 May 1961, a fire that began near the site of the 1959 fire at Kampong Tiong Bahru spread across 100 acres, and the homes of nearly 16,000 people were destroyed. The Bukit Ho Swee fire, as it came to be known, is considered one of Singapore’s worst-ever fires and gave new impetus to the government’s policy of clearing attap hut settlements and shifting to flatted public housing.
 
 
 #### **Growth and Redevelopment**
 
-By the 1980s, Tiong Bahru was seen as an estate with a greying population and ageing facilities. The 1990 Singapore Census of Population showed that those aged above 60 made up the highest proportion of residents in the estate.[^19] However, a combination of redevelopment and an influx of new residents attracted to the architecture and culture of the area changed the demographics of Tiong Bahru in the early 1990s. A shopping mall, Mass Rapid Transit (MRT) station, new public housing and private condominiums sprang up around the area.
+By the 1980s, Tiong Bahru was seen as an estate with a greying population and ageing facilities. The 1990 census showed that those aged above 60 made up the highest proportion of residents in the estate.[^19] However, a combination of redevelopment and an influx of new residents attracted to the architecture and culture of the area changed the demographics of Tiong Bahru in the early 1990s. A shopping mall, Mass Rapid Transit (MRT) station, new public housing and private condominiums sprang up around the area.
 
-The iconic Tiong Bahru Market underwent a two-year, $16.8 million redevelopment, with the new building following the Art Deco architecture of the estate.
+The iconic Tiong Bahru Market underwent a two-year, $16.8 million redevelopment, with the new building taking after the Art Deco architecture of the estate.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%202/Tiong%20Bahru/TB%20market1.jpg">
- <div style="background-color: white;">Tiong Bahru Market. <i>All Rights Reserved. National Library Board Singapore 2007.</i></div>
+ <div style="background-color: white;">Tiong Bahru Market. <i>All Rights Reserved. National Library Board Singapore.</i></div>
 
 In 1995, a five-hectare site opposite Tiong Bahru Plaza, including 384 flats built in 1952, was chosen for the first Selective En-Bloc Redevelopment Scheme (SERS). The scheme was for older estates consider unsuitable for upgrading, and these 16 blocks of flats were acquired by the government and redeveloped into 1,402 new flats, more than three times the previous number.[^20]
 
-From the early 2000s, Tiong Bahru began to attract a new generation of residents. Drawn by the area’s unique architecture and heritage, the inf lux of young professionals helped rejuvenate Tiong Bahru’s community life and retail scene, with art galleries, bookstores, cafes, restaurants and specialist boutiques setting up shop.[^21]
+From the early 2000s, Tiong Bahru began to attract a new generation of residents. Drawn by the area’s unique architecture and heritage, the influx of young professionals helped rejuvenate Tiong Bahru’s community life and retail scene, with art galleries, bookstores, cafes, restaurants and specialist boutiques setting up shop.[^21]
 
 #### **Conservation and Renewal**
 
