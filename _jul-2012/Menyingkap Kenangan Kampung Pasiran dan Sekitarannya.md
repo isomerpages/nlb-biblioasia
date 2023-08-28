@@ -20,10 +20,14 @@ Sebelum kedatangan Inggeris, pendatang-pendatang perlu mendapatkan izin Temenggu
 
 Professor Madya Hadijah Rahmat dalam bukunya, Kilat Senja telah menyenaraikan lebih 90 perkampungan yang pernah wujud di Singapura.[^3] Kebanyakan perkampungan Melayu terletak di persisiran pantai timur dan barat lantaran corak ekonomi berasas laut serta faktor kemudahan dan pengangkutan masa itu. Selain itu tersenarai juga beberapa kampung lain yang terletak di kawasan tengah Singapura seperti Kampung Cantek, Kampung Tempe, Kampung Woodleigh dan Kampung Pasiran.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Masjid%20Kampung%201932.jpg">
+ <div style="background-color: white;">Masjid Kampung Pasiran (1932—1960).  <i>Foto ihsan Cikgu Kader Suradi.
+</i></div>
+
 Generasi lama mungkin masih mengingati nama Kampung Pasiran walaupun kini yang ada hanyalah “Jalan Pasiran”. Kampung Pasiran terletak di daerah pinggir bandar Singapura berdekatan kawasan Newton/ Thomson Road. Ia pernah bertapak di kawasan mewah Gentle Road, Chancery Lane, Newton Road, Gilstead Road dan Buckley Road.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Pasiran%20map.jpg">
- <div style="background-color: white;">Lokasi Kampong Pasiran. Sumber: Singapore street directory and sectional maps 1966, Singapore: Ministry of Culture.
+ <div style="background-color: white;">Lokasi Kampong Pasiran. <i>Sumber: Singapore street directory and sectional maps 1966, Singapore: Ministry of Culture.</i>
 </div>
 
 Dari simpang Newton Circus ke Kampung Pasiran yang bersaiz 10 ekar tanah, perjalanan kaki mengambil masa kurang dari 5 minit sejauh lebih 1 km. Pada awal tahun-tahun 1920an terdapat dua buah kolam ternak ikan dan udang milik seorang taukeh Cina, Ah Seng.[^4]
@@ -35,9 +39,6 @@ Menurut cerita orang tua-tua dulu yang sampaikan oleh Allahyarham Haji Bahari Ha
 #### **Sejarah Kampung Pasiran**
 
 Penempatan awal kampung dipercayai bermula di antara tahun 1870an hingga akhir abad ke 19. Haji Buang Siraj, 94 tahun, mantan Presiden Majlis Ugama Islam Singapura (MUIS) (1974—1980), yang pernah menetap di Kampung Pasiran selama 20 tahun (1917—1937) berpendapat bahawa Haji Abdul Latib Samydin merupakan salah seorang peneroka terawalnya berdasarkan beliaulah pemilik terbanyak tanah dan rumah di kampung sehinggalah sebahagian tanahnya diwakafkan sebagai tapak Masjid Abdul Hamid, Kampung Pasiran yang ada kini. Selain itu seorang lagi pengasas kampung ini ialah Haji Abdul Hamid Embong (Datuk kepada Haji Buang).
-
-<img style="width:50%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/encik%20hamid.jpg">
- <div style="background-color: white;">Encik Abdul Hamid Marang. <i>Foto ihsan Cikgu Kader Suradi.</i></div>
 
 Kedua-duanya Haji Abdul Latib dan Haji Abdul Hamid berasal dari Kendal di Jawa Tengah dan dipercayai berhijrah ke Singapura pada tahun 1870an. Dalam perjalanan pulang dari Mekah, mereka singgah di Singapura untuk bekerja bagi membayar hutang dengan ejen-ejen haji kerana perbelanjaan mereka ke Mekah. Tertarik dengan keadaan Singapura yang aman mantap dari segi ekonomi dan pekerjaan, lantas kedua-duanya menetap di sini dan ‘membuka’ Kampung Pasiran.
 
@@ -93,11 +94,10 @@ Penduduk Kampung Pasiran hidup harmoni walaupun tiada penghulu rasmi mentadbirka
 
 Lazimnya masjid berfungsi sebagai pusat masyarakat Melayu/Islam kerana peranan agama, sosio-ekonomi dan sosio budayanya. Tidak terkecuali Masjid Abdul Hamid Kampung Pasiran yang dibina dari hasil usaha dan peninggalan penduduk asal kampung itu. Ia mengambil sempena nama Haji Abdul Hamid Ahmad Marang, hartawan Marang, Terengganu yang membiayai pembinaannya. Beliau berasal dari Kampong Jagoh (Telok Blangah, Singapura).
 
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/encik%20hamid.jpg">
+ <div style="background-color: white;">Encik Abdul Hamid Marang. <i>Foto ihsan Cikgu Kader Suradi.</i></div>
+ 
 Menurut sejarahnya, beliau datang ke Kampung Pasiran pada tahun 1931 untuk membeli tanah dan berjumpa Haji Abdul Latib bin Samydin. Sejurus mengetahui niat Haji Abdul Hamid ingin mendirikan masjid di atas tapak tanah yang bakal dibelinya, Haji Abdul Latib lantas mewakafkan tanahnya yang berukuran 189,45 kaki persegi di tapak tanah nombor unit 10 dan 12, Gentle Road sebagai tapak masjid kampung itu.
-
-<img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Masjid%20Kampung%201932.jpg">
- <div style="background-color: white;">Masjid Kampung Pasiran (1932—1960).  <i>Foto ihsan Cikgu Kader Suradi.
-</i></div>
 
 Masjid ini siap dibina pada tahun 1932 dan dibaik pulih beberapa kali dari tahun 1960 hingga 2002. Pada tahun 2000, kegiatan mencari dana pembangunan masjid dirancakkan melalui projek-projek seperti Teleamal, Majlis Hi-Tea, Projek Climbathon dan Jualan Nasi Amal untuk membina bangunan baru yang memerlukan S$1.7 juta. Untuk memupuk semangat “kampung”, penduduk, digalakkan bersalat jemaah serta mengadakan majlis keraian, kenduri kendara dan walimah di masjid selain majlis keagamaan seperti tahlil, maulid dan berkhatan dan lain-lain lagi.
 
@@ -168,9 +168,10 @@ Pastinya, Kampung Pasiran dan Bukit Tunggal kekal mewarnai sejarah masyarakat Me
 <b>Penghargaan</b><br>
 Penulis menghargai usahasama Professor Madya. Hadijah Rahmat, National Institute of Education, Nanyang Technological University, yang mengulas makalah ini.
 
+<img style="width:20%;" src="/images/Authors/Sundusia.jpg">
 
 <div>
-<b>Sundusia Rosdi</b> is a Senior Librarian with the National Library Board. She has written five articles on Malay community and literature for <i>BiblioAsia</i> and many book reviews for the Malay newspaper<i>Berita Harian.</i></div>
+<b>Sundusia Rosdi</b> is a Senior Librarian with the National Library Board. She has written articles on the Malay community and Malay literature for <i>BiblioAsia</i> and many book reviews for the Malay newspaper<i>Berita Harian.</i></div>
 
 #### **RUJUKAN**
 
@@ -233,7 +234,7 @@ Temubual dengan guru-guru Sekolah Perempuan Melayu Bukit Tunggal:
 
  [^2]: [Hadijah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, p. 13.
 
- [^3]: [Hadijah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, pp. 34—37.
+ [^3]: [Hadijah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, pp. 34–37.
 
  [^4]: [Haji Buang](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/faa3e0fb-115d-11e3-83d5-0050568939ad-OHC000715_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview, 11 Nov 1986.
 
