@@ -184,7 +184,7 @@ Mat Noor played in the 1933 Malaya Cup final that recorded Singapore’s most on
 #### **Lancelot Maurice Pennefather**
 
 <img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/lancelot.jpg">
-<div style="background-color: white;">Lancelot Maurice Pennefather. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+<div style="background-color: white;text-align:center">Lancelot Maurice Pennefather. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (4 wins) 
 <br>Malaya Cup (1922–28)<br>
