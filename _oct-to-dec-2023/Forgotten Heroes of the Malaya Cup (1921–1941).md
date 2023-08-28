@@ -278,7 +278,8 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 8 Jul 1939: 5-1|Malacca|Yuen Quan Chong (2), Mat Noor, Yahya bin Yatim &amp; Ha Tee Siang|
 22 Jul 1939: 1-0|Combined Services|Yahya bin Yatim|
 6 Jul 1940: 4-1|Negri Sembilan|Taib bin Awang, Tan Lai Chuan (2) &amp; Shariff Madon|
-
+19 Jul 1940: 3-0|RAF (Royal Air Force)|Tan Lai Chuan &amp; Shariff Madon (2)|
+27 Jul 1940: 3-3|Army|Taib bin Awang, Tan Lai Chuan &amp; Yahya bin Yatim|
 
 
 
