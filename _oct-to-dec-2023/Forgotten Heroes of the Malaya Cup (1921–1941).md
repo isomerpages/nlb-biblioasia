@@ -265,6 +265,19 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 6 Jul 1935: 7-1|Malacca|Chia Keng Hock (2), Mat Noor (3) &amp; Mahmood (2)|
 20 Jul 1935: 2-2|Combined Services|Chia Keng Hock &amp; Mahmood|
 29 May 1936: 6-0|Johore|Chia Keng Hock (2), Taib bin Awang (3) &amp; Dollah Zainol|
+4 Jul 1936: 0-1|Selangor|No goals|
+19 Jun 1937: 4-0|Malacca|George Day (3) &amp; Soon Lye|
+9 Jul 1937: 5-1|Johore|R.C. Oehlers (2), Bakri &amp; Gan Kee Siang (2)|
+24 Jul 1937: 2-1|Combined Services|Gan Kee Siang &amp; James Goh|
+18 Jun 1938: 3-2|Negri Sembilan|Shariff Madon, Tan Lai Chuan &amp; Taib bin Awang|
+8 Jul 1938: 5-0|Johore|George Day (2), Tan Lai Chuan (2) &amp; Gan Kee Siang|
+16 Jul 1938: 2-2|Combined Services|George Day &amp; Gan Kee Siang|
+23 Jul 1938: 1-0|Combined Services|Yuen Quan Chong|
+6 Aug 1938: 0-1|Selangor (final)|No goals|
+23 Jun 1939: 3-2|Johore|Yahya bin Yatim, Tan Lai Chuan &amp; Yuen Quan Chong|
+8 Jul 1939: 5-1|Malacca|Yuen Quan Chong (2), Mat Noor, Yahya bin Yatim &amp; Ha Tee Siang|
+22 Jul 1939: 1-0|Combined Services|Yahya bin Yatim|
+6 Jul 1940: 4-1|Negri Sembilan|Taib bin Awang, Tan Lai Chuan (2) &amp; Shariff Madon|
 
 
 
