@@ -95,8 +95,10 @@ To supplement these efforts, a variety of streetscape and beautification treatme
 
 Ultimately, the Parks and Waterbodies Plan aims to develop the Garden City concept into the City in a Garden vision where Singaporeans will have a garden in their homes instead of gardens outside their homes.[^39] To lead the City in a Garden vision, NParks and the URA worked together to develop one of the largest dedicated green spaces in Singapore. Known as Gardens by the Bay, this development reinforces Singapore’s identity as the world’s premier Garden City.[^40] Located on waterfront land in the heart of the Marina Bay area, Gardens by the Bay offers a different greening experience for Singaporeans to live, work and play in a closer to water and surrounded by lush greenery. The Gardens is projected to be a destination attraction for all, capitalising on its proximity to events and water activities, and nearby attractions such as Esplanade – Theatres on the Bay, Singapore Flyer, Marina Barrage and Marina Bay Sands.
 
+<img style="width:20%;" src="/images/Authors/Lim_Tin_Seng.png">
+
 <div>
-<b>Lim Tin Seng</b> is a Librarian with the National Library Heritage division. He has co-edited two books,  <i>Harmony and Development: ASEAN-China Relations </i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society </i> (2010). He is currently doing research on the Eurasian community for an upcoming National Library Board exhibition.</div> 
+<b>Lim Tin Seng</b> is a Librarian with the National Library Heritage division. He has co-edited two books,  <i>Harmony and Development: ASEAN-China Relations </i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society </i> (2010). He is currently researching the Eurasian community for an upcoming National Library Board exhibition.</div> 
 	
 
 #### **REFERENCES**
