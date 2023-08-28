@@ -18,6 +18,15 @@ sections:
       background: /images/Vol 19 Issue 2/Restoring SG
         Films/restore_classic_singapore_films_hero_image.png
   - infopic:
+      title: New Books on Singapore History (Oct 2023)
+      subtitle: Literature
+      description: Introducing five new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
+      image: /images/Vol 19 Issue 3/9 New Books/uncle choo home page.jpg
+      alt: Image alt text
+  - infopic:
       title: The Great Reclamation
       subtitle: podcast
       description: Listen to author Rachel Heng talk about her latest novel, <i>The
@@ -719,13 +728,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: New Books on Singapore History (Oct 2023)
-      subtitle: Literature
-      description: Introducing five new books available in the National Library’s
-        collection.
-      button: New Reads
-      url: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
-      image: /images/Vol 19 Issue 3/9 New Books/uncle choo home page.jpg
-      alt: Image alt text
 ---
