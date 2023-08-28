@@ -21,7 +21,7 @@ Sebelum kedatangan Inggeris, pendatang-pendatang perlu mendapatkan izin Temenggu
 Professor Madya Hadijah Rahmat dalam bukunya, Kilat Senja telah menyenaraikan lebih 90 perkampungan yang pernah wujud di Singapura.[^3] Kebanyakan perkampungan Melayu terletak di persisiran pantai timur dan barat lantaran corak ekonomi berasas laut serta faktor kemudahan dan pengangkutan masa itu. Selain itu tersenarai juga beberapa kampung lain yang terletak di kawasan tengah Singapura seperti Kampung Cantek, Kampung Tempe, Kampung Woodleigh dan Kampung Pasiran.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Masjid%20Kampung%201932.jpg">
- <div style="background-color: white;">Masjid Kampung Pasiran (1932—1960).  <i>Foto ihsan Cikgu Kader Suradi.
+ <div style="background-color: white;">Masjid Kampung Pasiran (1932–1960).  <i>Foto ihsan Cikgu Kader Suradi.
 </i></div>
 
 Generasi lama mungkin masih mengingati nama Kampung Pasiran walaupun kini yang ada hanyalah “Jalan Pasiran”. Kampung Pasiran terletak di daerah pinggir bandar Singapura berdekatan kawasan Newton/ Thomson Road. Ia pernah bertapak di kawasan mewah Gentle Road, Chancery Lane, Newton Road, Gilstead Road dan Buckley Road.
@@ -32,13 +32,13 @@ Generasi lama mungkin masih mengingati nama Kampung Pasiran walaupun kini yang a
 
 Dari simpang Newton Circus ke Kampung Pasiran yang bersaiz 10 ekar tanah, perjalanan kaki mengambil masa kurang dari 5 minit sejauh lebih 1 km. Pada awal tahun-tahun 1920an terdapat dua buah kolam ternak ikan dan udang milik seorang taukeh Cina, Ah Seng.[^4]
 
-Kampung Pasiran pernah mengandungi lebih 50 buah rumah panggung, rumah separa batu dan rumah deretan dengan lebih 100 keluarga di sepanjang jalan Gentle Road. Masjid Abdul Hamid Kampung Pasiran dan Sekolah Perempuan Melayu Bukit Tunggal (1961—1974) pula terletak di hujung simpang Gentle Road.
+Kampung Pasiran pernah mengandungi lebih 50 buah rumah panggung, rumah separa batu dan rumah deretan dengan lebih 100 keluarga di sepanjang jalan Gentle Road. Masjid Abdul Hamid Kampung Pasiran dan Sekolah Perempuan Melayu Bukit Tunggal (1961–1974) pula terletak di hujung simpang Gentle Road.
 
 Menurut cerita orang tua-tua dulu yang sampaikan oleh Allahyarham Haji Bahari Haji Suradi, 85 tahun ( penduduk asal kampung itu), nama Kampung Pasiran berasal daripada kata ‘Pasir’ yang diimbuh dengan akhiran ‘an’ dan lahirlah perkataan pasiran. Pasiran bermakna banyak pasir atau kawasan berpasir yang luas. Terdapat sebuah kuari (lombong) pasir berdekatan dan sebuah kolam terjadi kerana pasir putih di situ di kaut korek pengusaha bangunan untuk kerja-kerja pembinaan. Di kolam itu terdapat sampan-sampan untuk beriadah dan memancing ikan. Setelah beberapa kejadian mati lemas dan kemalangan berlaku, kolam itu kemudiannya ditimbus. Hasil daripada kuari pasir ini maka terbitlah nama ‘Kampung Pasiran’ dan ‘Jalan Pasiran’.[^5] Berbanding dengan kampung-kampung lain di Singapura, keistimewaan kampung ini terletak kepada asal tapak kampung yang merupakan kuari pasir itu.
 
 #### **Sejarah Kampung Pasiran**
 
-Penempatan awal kampung dipercayai bermula di antara tahun 1870an hingga akhir abad ke 19. Haji Buang Siraj, 94 tahun, mantan Presiden Majlis Ugama Islam Singapura (MUIS) (1974—1980), yang pernah menetap di Kampung Pasiran selama 20 tahun (1917—1937) berpendapat bahawa Haji Abdul Latib Samydin merupakan salah seorang peneroka terawalnya berdasarkan beliaulah pemilik terbanyak tanah dan rumah di kampung sehinggalah sebahagian tanahnya diwakafkan sebagai tapak Masjid Abdul Hamid, Kampung Pasiran yang ada kini. Selain itu seorang lagi pengasas kampung ini ialah Haji Abdul Hamid Embong (Datuk kepada Haji Buang).
+Penempatan awal kampung dipercayai bermula di antara tahun 1870an hingga akhir abad ke 19. Haji Buang Siraj, 94 tahun, mantan Presiden Majlis Ugama Islam Singapura (MUIS) (1974–1980), yang pernah menetap di Kampung Pasiran selama 20 tahun (1917–1937) berpendapat bahawa Haji Abdul Latib Samydin merupakan salah seorang peneroka terawalnya berdasarkan beliaulah pemilik terbanyak tanah dan rumah di kampung sehinggalah sebahagian tanahnya diwakafkan sebagai tapak Masjid Abdul Hamid, Kampung Pasiran yang ada kini. Selain itu seorang lagi pengasas kampung ini ialah Haji Abdul Hamid Embong (Datuk kepada Haji Buang).
 
 Kedua-duanya Haji Abdul Latib dan Haji Abdul Hamid berasal dari Kendal di Jawa Tengah dan dipercayai berhijrah ke Singapura pada tahun 1870an. Dalam perjalanan pulang dari Mekah, mereka singgah di Singapura untuk bekerja bagi membayar hutang dengan ejen-ejen haji kerana perbelanjaan mereka ke Mekah. Tertarik dengan keadaan Singapura yang aman mantap dari segi ekonomi dan pekerjaan, lantas kedua-duanya menetap di sini dan ‘membuka’ Kampung Pasiran.
 
@@ -46,11 +46,11 @@ Cikgu Kader Suradi, 73 tahun (cicit Haji Latib Samydin), penduduk asal kampung i
 
 #### **Kampung Pasiran dan Keluarga Alsagoff**
 
-Di belakang perkampungan Pasiran (sekitar Chancery Lane / Novena / Thomson Road) terdapat ladang getah dan ladang kopi dalam kawasan yang dikenali sebagai Bukit Tunggal milik hartawan Arab, pemilik tanah, pemungut hutang dan syeikh haji terkenal iaitu Syed Omar bin Mohamed Alsagoff (pemilik firma S.O. Alsagoff, 1850—1927). Banglo kediamannya yang lengkap dengan stabel kuda (kereta kuda digunakan sebagai pengangkutan ketika itu) menjadi tarikan dan perhatian pendatang baru untuk mencari nafkah dan pekerjaan di situ. Banglo beliau “Omaran” ini terletak di atas Bukit Tunggal di Chancery Lane, merupakan tempat berlangsungnya pesta-pesta perayaan keluarga itu.
+Di belakang perkampungan Pasiran (sekitar Chancery Lane/Novena/Thomson Road) terdapat ladang getah dan ladang kopi dalam kawasan yang dikenali sebagai Bukit Tunggal milik hartawan Arab, pemilik tanah, pemungut hutang dan syeikh haji terkenal iaitu Syed Omar bin Mohamed Alsagoff (pemilik firma S.O. Alsagoff, 1850–1927). Banglo kediamannya yang lengkap dengan stabel kuda (kereta kuda digunakan sebagai pengangkutan ketika itu) menjadi tarikan dan perhatian pendatang baru untuk mencari nafkah dan pekerjaan di situ. Banglo beliau “Omaran” ini terletak di atas Bukit Tunggal di Chancery Lane, merupakan tempat berlangsungnya pesta-pesta perayaan keluarga itu.
 
 Pada tahun-tahun 1920—an, tapak ladang-ladang ini kemudiannya didirikan rumah-rumah kediaman pegawai kerajaan British. Ladang kopi pula diubah lanskapnya menjadi tasik persiaran dan taman riadah untuk keluarga Alsagoff. Stabel kuda dijadikan tempat penginapan pekerja-pekerjanya dan menjadi Kampung Bukit Tunggal.
 
-Salah seorang anaknya, Syed Ibrahim Omar Alsagoff (1899—1975) mengambil alih perniagaan selepas kematian bapanya. Di antara pekerja-pekerja perniagaan keluarga Alsagoff ialah Haji Abdul Latib Samydin, mandor yang mengawasi pekerja-pekerja estet di situ, Haji Siraj Mohd Noor (bapa Haji Buang) yang pernah menjadi tukang kebun di estet dan Hj Noor Abdul Hamid (anak kepada Haji Abdul Hamid Embong) yang berkerja sebagai drebar peribadi keluarga Alsagoff.
+Salah seorang anaknya, Syed Ibrahim Omar Alsagoff (1899–1975) mengambil alih perniagaan selepas kematian bapanya. Di antara pekerja-pekerja perniagaan keluarga Alsagoff ialah Haji Abdul Latib Samydin, mandor yang mengawasi pekerja-pekerja estet di situ, Haji Siraj Mohd Noor (bapa Haji Buang) yang pernah menjadi tukang kebun di estet dan Hj Noor Abdul Hamid (anak kepada Haji Abdul Hamid Embong) yang berkerja sebagai drebar peribadi keluarga Alsagoff.
 
 Lantaran tarikan ekonomi untuk berkerja di estet keluarga Alsagoff ini, pendatang-pendatang baru dan penduduk dari kampung lain (seperti Kampung Haji Alias di Coronation Road) datang ke Kampung Pasiran dan Bukit Tunggal. Justeru, keluarga Alsagoff memainkan peranan yang penting dalam penempatan awal Kampung Pasiran kerana ia telah memberi ruang dan peluang ekonomi sekali gus membaiki taraf kehidupan orang orang kampung di kawasan itu.
 
@@ -66,7 +66,7 @@ Selain kaum Jawa, Boyan dan Melayu, terdapat juga keluarga-keluarga Cina, India 
  <div style="background-color: white;">Penduduk Kampung Pasiran (1960an). <i>Foto ihsan Cikgu Kader Suradi.
 </i></div>
 
-#### **Era Pendudukan Jepun 1942—1945**
+#### **Era Pendudukan Jepun 1942–1945**
 
 Selama pendudukan Jepun, kawasan persekitaran Kampung Pasiran dijadikan kawasan kediaman askar-askar Jepun. Pegawai tinggi Jepun tinggal di Buckley Road sementara Lieutenant General Tomoyuki Yamashita (1885—1946) (yang mengetuai serangan tentera Jepun ke atas Singapura) pernah tinggal di daerah Bukit Tunggal (banglo bekas pegawai-pegawai Inggeris).[^7]
 
@@ -153,11 +153,9 @@ Pada 29 Mac 2003, selepas hampir 30 tahun penutupan sekolah itu, satu majlis per
 
 #### **Jalan Pasiran Dalam Kenangan**
 
-Kini yang tinggal hanya nama “Jalan Pasiran” dan “Bukit Tunggal Road” dikenali sebagai daerah mewah di pinggir bandar Singapura.
+Kini yang tinggal hanya nama “Jalan Pasiran” dan “Bukit Tunggal Road” dikenali sebagai daerah mewah di pinggir bandar Singapura. Syarikat Kerjasama Serbaguna Kampung Pasiran Berhad (Kampung Pasiran Multipurpose Co-operative Society Limited) pula masih aktif beralamatkan 10, Gentle Road, Singapura 309194.
 
-Syarikat Kerjasama Serbaguna Kampung Pasiran Berhad (Kampung Pasiran Multipurpose Co-operative Society Limited) pula masih aktif beralamatkan 10, Gentle Road, Singapura 309194.
-
-Walaupun Kampung Pasiran tidak begitu dikenali berbanding kampung-kampung Melayu yang lain, namun ia telah melahirkan ramai pendidik dan para aktivis sosial serta budayawan. Antara mereka ialah mantan ahli parlimen kawasan Kampung Kembangan (1963—1968), Haji Mohamed Arif Suradi, Cikgu-cikgu Mohamed Noh Hj. Noor, Aman Jalal, Husin Suradi, dramatis Rubiah Suparman, pelukis batik Sarkasi Said, pemuzik Haji Adnan Jaafar dan penyanyi Rokiah Sukaimi. Di kampung ini lah juga pembuat capal, Haji Ahmad Abdul Shukur tinggal dan bertukang capal. Capal-capal buatannya banyak ditempah dan dijual di kedai-kedai di Arab Street dan Geylang Serai pada zaman itu.
+Walaupun Kampung Pasiran tidak begitu dikenali berbanding kampung-kampung Melayu yang lain, namun ia telah melahirkan ramai pendidik dan para aktivis sosial serta budayawan. Antara mereka ialah mantan ahli parlimen kawasan Kampung Kembangan (1963–1968), Haji Mohamed Arif Suradi, Cikgu-cikgu Mohamed Noh Hj. Noor, Aman Jalal, Husin Suradi, dramatis Rubiah Suparman, pelukis batik Sarkasi Said, pemuzik Haji Adnan Jaafar dan penyanyi Rokiah Sukaimi. Di kampung ini lah juga pembuat capal, Haji Ahmad Abdul Shukur tinggal dan bertukang capal. Capal-capal buatannya banyak ditempah dan dijual di kedai-kedai di Arab Street dan Geylang Serai pada zaman itu.
 
 Perpindahan penduduk-penduduk kampung ini ke estet perumahan moden dan penjualan tapak dan tanah rumah pusaka untuk pembangunan rumah-rumah mewah seawal tahun-tahun 1970an telah membawa perubahan kepada kawasan dan masjid itu. Dengan penjualan rumah sebandung keluarga Melayu terakhir di situ pada tahun 2008 dengan harga $6.5 juta, maka tamatlah penempatan penduduk Melayu selama lebih seabad di Kampung Pasiran. Pembangunan kawasan berdekatan pula dirancakkan dengan terbinanya Stesen MRT Novena, Hospital Tan Tock Seng, kompleks pusat membeli belah canggih dan beberapa bangunan komersil lain.
 
