@@ -113,7 +113,7 @@ Chong, T. (2010). [_Management of success: Singapore revisited_](https://eservic
 
 [Greener S’pore drive gets boost on Sunday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901030-1.2.29.10). (1990, October 30). _The Straits Times_, p. 17. Retrieved from NewspaperSG.
 
-Info-communications Development Authority of Singapore. (2009, October 5). _Tree Talk.iN.SG Newsletter_. Retrieved from Info-communications Development Authority of Singapore website.
+Info-Communications Development Authority of Singapore. (2009, October 5). _Tree Talk.iN.SG Newsletter_. Retrieved from Info-Communications Development Authority of Singapore website.
 
 Kiew, R., et al. (2006). [_The gardens at a glance_](https://eresources.nlb.gov.sg/printheritage/detail/4259c138-0e40-421e-a366-16f4f31cd922.aspx). Singapore: National Parks Board, Singapore Botanic Gardens. Retrieved from BookSG.
 
@@ -155,13 +155,13 @@ Urban Redevelopment Authority (Singapore). (1991). [_Living the next lap: Toward
 
 Urban Redevelopment Authority (Singapore). (2002). [_Subject group report on parks &amp; waterbodies plan and rustic coast_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11842022). Singapore: Urban Redevelopment Authority. (Call no.: RSING q333.72095957 SUB)
 
-William, W. (2000). [_Singapore: City of gardens_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10001282). Hongkong: Periplus Edition. (Call no.: RSING q915.957 WAR)
+William, W. (2000). [_Singapore: City of gardens_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10001282). Hong Kong: Periplus Edition. (Call no.: RSING q915.957 WAR)
 
 Wong, T.W., et al. (2011). [_Trees of the Istana: Treasures in the domain_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13833678). Singapore: Suntree Media Pte. Ltd. (Call no.: RSING 582.16095957 TRE)
 
 [Work to start on Marina Bay’s three gardens](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20071105-1.2.26.6.1). (2007, November 5). _The Straits Times_, p. 20. Retrieved from NewspaperSG.
 
-Yeh, S.H.K. (1989). The idea of the garden city (pp. 813–832). In K.S. Sandhu &amp; P. Wheatley. (Eds.), [_Management of success: The moulding of modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57 MAN)
+Yeh, S.H.K. (1989). The idea of the garden city (pp. 813–832). In K.S. Sandhu &amp; P. Wheatley (Eds.), [_Management of success: The moulding of modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57 MAN)
 
 Yuen, B. (June 1996). Creating the Garden City: The Singapore experience. _Urban Studies, 33_ (6), pp. 959–960. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
@@ -173,7 +173,7 @@ Yuen, B. (June 1996). Creating the Garden City: The Singapore experience. _Urban
 
 [^3]: [William](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10001282), 2000, p. 13.
 
-[^4]: Yuen, Jun 1996, pp. 959—960.
+[^4]: Yuen, Jun 1996, pp. 959–960.
 
 [^5]: [Planning Department](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079379), 1975, p. 68.
 
@@ -187,11 +187,11 @@ Yuen, B. (June 1996). Creating the Garden City: The Singapore experience. _Urban
 
 [^10]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 2000, p. 188.
 
-[^11]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 2000, p. 189—190.
+[^11]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 2000, pp. 189–190.
 
 [^12]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670419-1.2.133)_, 19 Apr 1967, p. 13.
 
-[^13]: [Yeh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304), 1989, pp. 815—817.
+[^13]: [Yeh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304), 1989, pp. 815–817.
 
 [^14]: [Public Works Department](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4618273), 1974, p. 52.
 
@@ -205,11 +205,11 @@ Yuen, B. (June 1996). Creating the Garden City: The Singapore experience. _Urban
 
 [^19]: [Yeh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5353304), 1989, p. 817.
 
-[^20]: Info-communications Development Authority of Singapore, 5 Oct 2009.
+[^20]: Info-Communications Development Authority of Singapore, 5 Oct 2009.
 
 [^21]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6350633), 1992, p. 13.
 
-[^22]: [Planning Department](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079379), 1975, pp. 68—69.
+[^22]: [Planning Department](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079379), 1975, pp. 68–69.
 
 [^23]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6350633), 1992, p. 19.
 
@@ -219,7 +219,7 @@ Yuen, B. (June 1996). Creating the Garden City: The Singapore experience. _Urban
 
 [^26]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6350633), 1992, p. 64.
 
-[^27]: [National Parks Board](https://eresources.nlb.gov.sg/printheritage/detail/3ae38073-8bbb-49c1-ada1-c9c932b6a116.aspx), 2011, pp. 48—49.
+[^27]: [National Parks Board](https://eresources.nlb.gov.sg/printheritage/detail/3ae38073-8bbb-49c1-ada1-c9c932b6a116.aspx), 2011, pp. 48–49.
 
 [^28]: [Urban Redevelopment Authority](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6135902), 1991, p. 28.
 
