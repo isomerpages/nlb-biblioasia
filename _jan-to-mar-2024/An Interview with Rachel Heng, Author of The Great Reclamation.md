@@ -30,7 +30,7 @@ I really loved writing it because I was interested in the topic. And you should 
 And in your long research process, is there anything that surprised you about Singapore history?
 
 **Rachel**  
-I don’t know that it’s anything that surprised me so much as there were many striking details. One detail that made it into the book was the conveyor belt. During the early phases of land reclamation project, a conveyor belt moved the sand dug out to the coasts. Someone asked me if writing historical fiction is a big leap from speculative fiction. Not really because the history is almost science fictional – the way in which the transformation was so audacious and involved technology to that extent – at that time. When you look at the photos, it looks like something out of _Blade Runner_ or something. It’s really fascinating.
+I don’t know that it’s anything that surprised me so much as there were many striking details. One detail that made it into the book was the conveyor belt. During the early phases of land reclamation project, a conveyor belt moved the sand dug out to the coasts. Someone asked me if writing historical fiction is a big leap from speculative fiction. Not really because the history is almost science fictional – the way in which the transformation was so audacious and involved technology to that extent – at that time. When you look at the photos, it looks like something out of <i>Blade Runner or something. It’s really fascinating.
 
 ![](/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/bedok%20reclamation%20site.jpg)<div style="background-color: white;">Land digging at Bedok reclamation site, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -53,4 +53,4 @@ By the time they are teens, Ah Boon and Siok Mei are caught in the tragic sweep 
 	<i>The Great Reclamation</i> is a love story and coming-of-age novel that reckons with the legacy of British colonialism, the Japanese Occupation, Singapore’s postwar years, and the pursuit of modernity.<br><br>
 The book is available for reference and for loan at the Lee Kong Chian Reference Library and selected public libraries 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224">(call nos. S823 HEN and HEN)</a> and on NLB OverDrive as an <a href="https://nlb.overdrive.com/media/D985D9DB-01ED-4B3A-B28B-DE65978">ebook</a> and <a href="https://nlb.overdrive.com/media/7CB2E530-B429-4D52-B61A-9466F7383739">audiobook.</a>
-</div>
+</div></i>
