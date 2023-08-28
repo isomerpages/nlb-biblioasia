@@ -204,6 +204,3 @@ Among other donations, it was reported that 80% of the rental income generated f
 -	The National Kidney Foundation<br>
 -	The Lee Kuan Yew Scholarship Fund<br>
 -	Tan Ean Kiam Kiam Service-Learning Resource Centre
-
-
-
