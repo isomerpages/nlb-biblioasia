@@ -55,7 +55,7 @@ LCT operated his business from an office in China Street, Rangoon.6 He had a net
 
 With some ocean-going vessels: SS Glenogie, SS Seang Bee, SS Seang Choon, SS Seang Kok, SS Seang Lee, among others, LCT established his *Seang Line of Steamers* ("The Chinese Steamship Company of Rangoon") plying from Rangoon to Singapore, Penang, Hong Kong, Swatow and Amoy (Xiamen).
 
-Kim Keng Leong & Company (Chop Kim Cheong), Penang, was the agent for *Seang Line*. Soo Bee Kongsi (Rangoon Kerosene Oil), Ooi Saik & Company (Rangoon - Penang rice merchants) were also agents for LCT located at 127 Beach Street, Penang.7
+Kim Keng Leong &amp; Company (Chop Kim Cheong), Penang, was the agent for *Seang Line*. Soo Bee Kongsi (Rangoon Kerosene Oil), Ooi Saik &amp; Company (Rangoon - Penang rice merchants) were also agents for LCT located at 127 Beach Street, Penang.7
 
 *Seang Line* Singapore agency was vested with Giang Hoe Company which was first located at 64 Japan Street (now called Boon Tat Street),8 Singapore. It later moved to 129 Cecil Street, Singapore.9
 
@@ -68,7 +68,7 @@ The palace, still standing today, was home to former Burmese presidents and mini
 #### **As Agent for Burmah Oil Company (BOC)** 10
 At first, LCT's exclusive agency with BOC got the British managers, seated at their control office in Glasgow, Scotland, gratified at having such an energetic man in full control of their kerosene sales. However, he lacked financial management ability, which became his downfall. His accounts were reported to be in such a mess that personally, LCT did not even know how much he owed and what his profits were. All he knew was that he was cash-rich.
 
-From 1908 onwards, after being awarded the agency for the company's product sales in the province, he became a serious bad paymaster to Finlay Fleming & Company, BOC's managing agent in London, for the purchases he made. By the beginning of 1911 he reportedly owed several hundred thousand sterling pounds.
+From 1908 onwards, after being awarded the agency for the company's product sales in the province, he became a serious bad paymaster to Finlay Fleming &amp; Company, BOC's managing agent in London, for the purchases he made. By the beginning of 1911 he reportedly owed several hundred thousand sterling pounds.
 
 Apparently, as it was later found out, the transactions from all his different business activities were jumbled up. He was managing steamships and a match factory, rubber plantations and tin mining without keeping a proper audit of the transactions. It became impossible to distinguish where one account ended and another began. In those days, there were also no auditors.
 
@@ -80,7 +80,7 @@ In November 1923, at the age of 53, LCT reportedly died from a heart attack when
 
 At first, LCT's exclusive agency with BOC got the British managers, seated at their control office in Glasgow, Scotland, gratified at having such an energetic man in full control of their kerosene sales. However, he lacked financial management ability, which became his downfall. His accounts were reported to be in such a mess that personally, LCT did not even know how much he owed and what his profits were. All he knew was that he was cash-rich.
 
-From 1908 onwards, after being awarded the agency for the company's product sales in the province, he became a serious bad paymaster to Finlay Fleming & Company, BOC's managing agent in London, for the purchases he made. By the beginning of 1911 he reportedly owed several hundred thousand sterling pounds.
+From 1908 onwards, after being awarded the agency for the company's product sales in the province, he became a serious bad paymaster to Finlay Fleming &amp; Company, BOC's managing agent in London, for the purchases he made. By the beginning of 1911 he reportedly owed several hundred thousand sterling pounds.
 
 Apparently, as it was later found out, the transactions from all his different business activities were jumbled up. He was managing steamships and a match factory, rubber plantations and tin mining without keeping a proper audit of the transactions. It became impossible to distinguish where one account ended and another began. In those days, there were also no auditors.
 
@@ -121,7 +121,7 @@ Much had been written about Tan Kah Kee as an entrepreneur and philanthropist wh
 
 Tan Kah Kee (TKK) was instrumental in the establishing of Nanyang Siang Pau, a major Chinese daily, on 6 September 1923 in Singapore. Nanyang Siang Pau reportedly became one of the most influential commercial Chinese newspapers in Southeast Asia.
 
-It was reportedly the first commercial Chinese newspaper in Singapore and its influences was felt throughout Southeast Asia as well as China. The Chinese daily newspaper was distributed in Penang by Khiam Aik (Penang Branch) and in Rangoon jointly by Tan Kah Kee & Company (Rangoon Branch) and Aw Boon Haw's Tiger Balm Rangoon office.
+It was reportedly the first commercial Chinese newspaper in Singapore and its influences was felt throughout Southeast Asia as well as China. The Chinese daily newspaper was distributed in Penang by Khiam Aik (Penang Branch) and in Rangoon jointly by Tan Kah Kee &amp; Company (Rangoon Branch) and Aw Boon Haw's Tiger Balm Rangoon office.
 
 In 1932, however, he lost control of Nanyang Siang Pau and the paper was acquired by his son-in-law, Lee Kong Chian. It was then merged with The Sin Kok Min Press.
 
@@ -135,9 +135,9 @@ He tried his hands at growing pineapple which was harvested and canned under his
 
 He reportedly invested about $2,000,000 (Straits currency) in a rubber planting business and jointly set up the Khiam Aik Rubber Processing Factory with Penang Rubber Company. Khiam Aik was based in Penang.
 
-Tan Kah Kee & Company had three other branches in Rangoon; one in the main capital of British Burma and one each in two other cities - Bassein (situated in the Irrawaddy Delta) and Mandalay (where the Royal Palace is located). At its prime, Tan Kah Kee & Company had a total of about 70 branches in Southeast Asia and elsewhere.
+Tan Kah Kee &amp; Company had three other branches in Rangoon; one in the main capital of British Burma and one each in two other cities - Bassein (situated in the Irrawaddy Delta) and Mandalay (where the Royal Palace is located). At its prime, Tan Kah Kee &amp; Company had a total of about 70 branches in Southeast Asia and elsewhere.
 
-However, when the Depression crept into Asia, his fortunes declined. In 1937, Tan Kah Kee & Company had to fold up.
+However, when the Depression crept into Asia, his fortunes declined. In 1937, Tan Kah Kee &amp; Company had to fold up.
 
 #### **The Prominent Chinese Patriot**
 Through Nanyang Siang Pau and his business enterprises, TKK displayed his Chinese patriotic spirit when he was actively involved with the Tung Meng Hui-Nationalist movement under Chiang Kai-shek. He was a member of the Tung Meng Hui in 1910 and his network of influence, besides mainland China, was spun around the region in Singapore, Penang and other parts of Malaya and Rangoon.
@@ -189,7 +189,21 @@ OCBC had its branch in Penang in 1912. The bank is located on the main street of
 
 #### **The Patriotic Chinese**
 
+In 1916, Ean Kiam became a member of the Singapore branch of Tung Meng Hui, the nationalists' revolutionary movement of Dr Sun Yat Sen. As a successful businessman, he was able to donate financially to support the organisation. He was also reported to be instrumental in the acquisition of the land and property for the construction of the Wan Qing Villa which later became the Tung Meng Hui Singapore base.
 
+When Yuan Shikai30 proclaimed himself Emperor in 1916, despite universal objections especially from the Tung Meng Hui members, he donated towards the "Yuan Shikai Bei Fa" war campaign to overthrow Yuan Shikai.
+
+#### **The Philanthropist**
+Ever mindful of his role in society, Tan contributed generously to many charities. When he passed away in 1943, he left behind a large sum of money and properties from which he willed the future earnings to be used for charity.
+
+The Tan Ean Kiam Foundation was founded in 1956 and managed by his son, (the late) Tan Tock San, located at 15 Philip Street #09-00, near Raffles Place, Singapore 048694. A row of 30 shophouses, located next to the Katong Shopping Centre, appropriately named "Ean Kiam Place", was his bequest.
+
+Among other donations, it was reported that 80% of the rental income generated from Ean Kiam Place funded:<br>
+-	The Singapore Thong Chai Medical Institution<br>
+-	Singapore Clan Association: Tong An Hui Guan<br> 
+-	The National Kidney Foundation<br>
+-	The Lee Kuan Yew Scholarship Fund<br>
+-	Tan Ean Kiam Kiam Service-Learning Resource Centre
 
 
 
