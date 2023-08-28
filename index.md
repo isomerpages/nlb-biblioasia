@@ -721,7 +721,7 @@ sections:
       alt: Francis P. Ng
   - infopic:
       title: New Books on Singapore History (Oct 2023)
-      subtitle: New Books
+      subtitle: Literature
       description: Introducing five new books available in the National Library’s
         collection.
       button: New Reads
