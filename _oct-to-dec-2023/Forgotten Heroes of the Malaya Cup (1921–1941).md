@@ -280,7 +280,10 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 6 Jul 1940: 4-1|Negri Sembilan|Taib bin Awang, Tan Lai Chuan (2) &amp; Shariff Madon|
 19 Jul 1940: 3-0|RAF (Royal Air Force)|Tan Lai Chuan &amp; Shariff Madon (2)|
 27 Jul 1940: 3-3|Army|Taib bin Awang, Tan Lai Chuan &amp; Yahya bin Yatim|
-
+13 Jun 1941: 5-0|Johore|Tan Lai Chuan (3), Ha Tee Siang (2) &amp; J.C. Willoughby|
+5 Jul 1941: 6-0|Malacca|Tan Lai Chuan (3), Ha Tee Siang (2) &amp; Yueng Quan Chong|
+18 Jul 1941: 1-0|RAF|Tan Lai Chuan|
+26 Jul 1941: 1-1|Army|Not reported|
 
 
 
