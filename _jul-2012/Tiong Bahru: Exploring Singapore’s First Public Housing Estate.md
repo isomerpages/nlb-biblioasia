@@ -34,18 +34,18 @@ Construction of the estate began in March 1936, and the first block of flats con
 
 #### **Advent of War: The Japanese Occupation**
 
-With Tiong Bahru’s development ongoing even as World War II approached, town planners built air raid shelters within the estate. The blast-proof shelters at Block 78 Guan Chuan remain intact as Singapore’s first air raid shelters located within a public housing estate, while another shelter at Eu Chin Street was later turned into a community centre.[^12] Children’s playgrounds were also turned into makeshift air raid shelters as the Japanese advanced towards Singapore.[^13]
+With Tiong Bahru’s development ongoing even as World War II approached, town planners built air raid shelters within the estate. The blast-proof shelters at Block 78 Guan Chuan Street remain intact as Singapore’s first air raid shelters located within a public housing estate, while another shelter at Eu Chin Street was later turned into a community centre.[^12] Children’s playgrounds were also turned into makeshift air raid shelters as the Japanese advanced towards Singapore.[^13]
 
 The Japanese invasion and occupation of Singapore interrupted development of the estate, which had already cost a large proportion of the $10 million originally allocated to the SIT for slum clearance all over the island. The roofs of a number of Tiong Bahru flats were damaged by Japanese bombing, and during the Japanese Occupation, the flat roofs fell into further disrepair through vegetable cultivation and other unauthorised uses.[^14]
 
 The Occupation saw a large number of new residents in Tiong Bahru, with an estimated 40% of the estate’s post-war population having moved in during the Occupation. These new residents were recognised by the post-war British Military Administration, while those tenants who had illegally sold their flats for thousands of dollars’ worth of Occupation-era ”banana money” had their tenancies terminated after the war. Other tenants had sublet their flats, leading to the estate’s resident population nearly doubling to around 14,000.[^15]
 
-#### **Post-war Growth and Renewal**
-
-After the Occupation, construction continued on the housing estate. In 1948, a club was formed to manage the social, physical and cultural life and amenities of the community. By 1951, the estate had a physical centre, Singapore’s first community centre. The centre had its own civil defence group and auxiliary police force for the area.[^16] In 1961, the first polyclinic in Singapore opened in Tiong Bahru. Tiong Bahru flats continued to be in high demand, with thousands of applicants on the waiting list. By 1954 the SIT added another 1,258 units to the estate.[^17]
+#### **Postwar Growth and Renewal**
 
 <img style="width:80%;" src="/images/Vol%208%20issue%202/Tiong%20Bahru/CC%20at%20Tiong%20Bahru1.jpg">
  <div style="background-color: white;">Tiong Bahru Community Centre, 1951. <i>National Archives of Singapore.</i></div>
+ 
+After the Occupation, construction continued on the housing estate. In 1948, a club was formed to manage the social, physical and cultural life and amenities of the community. By 1951, the estate had a physical centre, Singapore’s first community centre. The centre had its own civil defence group and auxiliary police force for the area.[^16] In 1961, the first polyclinic in Singapore opened in Tiong Bahru. Tiong Bahru flats continued to be in high demand, with thousands of applicants on the waiting list. By 1954 the SIT added another 1,258 units to the estate.[^17]
 
 In the early 1950s, the population of Tiong Bahru stood at around 400,000. Besides those living in SIT housing, a number of attap hut villages had sprung up on uncleared burial grounds. *The Straits Times* called the area “one of the worst attap slums in Singapore… haunted by a nest of gangsters and undesirable elements”.[^18] The remaining slums and grave sites on the fringes of Tiong Bahru were only cleared by the mid-1970s.
 
