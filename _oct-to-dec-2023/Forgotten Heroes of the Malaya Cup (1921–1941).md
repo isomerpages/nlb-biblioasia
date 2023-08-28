@@ -256,7 +256,14 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 29 Jul 1932: 2-1|Malaya Command|Mat Noor &amp; Dollah Zainol|
 23 Jun 1932: 7-1|Johore|Dolfattah (2), Chia Keng Hock (2), Mat Noor (2) &amp; Mahmood|
 8 Jul 1933: 6-0|Malacca|Dolfattah (3), Mat Noor (2) &amp; Chia Keng Hock|
-
+22 Jul 1933: 2-0|Malaya Command|Tay Kwee Leng &amp; Mat Noor|
+5 Aug 1933: 8-2|Selangor|Chia Keng Hock (3), Mat Noor (2), Shariff Madon (2) &amp; Dolfattah|
+29 Jun 1934: 9-0|Johore|Chia Keng Hock (4), Hoi San (2), Norman Fyfe (2) &amp; A. Donald|
+7 Jul 1934: 4-0|Negri Sembilan|Chia Keng Hock (4)|
+21 Jul 1934: 2-2|Malaya Command|Chia Keng Hock (2)
+21 Jun 1935: 8-0|Johore|Chia Keng Hock, Mat Noor (3), A.G. Valberg (2) &amp; Choy Khoon Onn (2)|
+6 Jul 1935: 7-1|Malacca|Chia Keng Hock (2), Mat Noor (3) &amp; Mahmood (2)|
+20 Jul 1935: 2-2|Combined Services|Chia Keng Hock &amp; Mahmood|
 
 
 
