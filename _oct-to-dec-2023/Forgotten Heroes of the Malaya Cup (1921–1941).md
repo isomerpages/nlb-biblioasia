@@ -19,7 +19,7 @@ Singapore won the Malaya Cup (renamed Malaysia Cup in 1967) 12 times between 192
 
 |Opponent|Games|Results in Favour of Singapore|Goals For|Goals Against
 | -------- | -------- | -------- | -------- | -------- |
-|Malacca (1921–41)|11|10 wins &amp; 1 draw|54|6|
+|24 Sept 1921:	2–0|10 wins &amp; 1 draw|54|6|
 |Negri Sembilan (1922–40)|10|10 wins| 46|7|
 Johore (1923–41)|12|12 wins|69|8|
 Malaya Command (1932–34)|3|2 wins &amp; 1 draw|6|3|
@@ -234,6 +234,22 @@ In 1933, he joined the South China Athletic Association team in Hong Kong,[^33] 
 All of these men achieved something special in the world of football in the years between the two world wars. The crowds at many of these games exceeded 5,000 and sometimes reached 10,000, an impressive number that surpasses some local games today. The press coverage of each Malaya Cup games was extensive, so fans could relive the magic moments that they witnessed at the Anson Road Stadium. Many of these legends were also talented in other sports, and they brought their natural skills and abilities to the stage.
 
 Today’s talk of the greatest players from Singapore rarely deviates from the players of recent memory, and even then, many are forgotten or marginalised. These names are presented here to remind people that there were great players who laid the foundation for a lasting football legacy in Singapore. They were indeed trailblazers who paved the way for the football heroes who came after them.
+
+|Game|Opponent|Scorers for Singapore
+| -------- | -------- | -------- |
+|Malacca (1921–41)|11|10 wins &amp; 1 draw|54|6|
+|Negri Sembilan (1922–40)|10|10 wins| 46|7|
+Johore (1923–41)|12|12 wins|69|8|
+Malaya Command (1932–34)|3|2 wins &amp; 1 draw|6|3|
+Combined Services (1935–39)|6|4 wins &amp; 2 draw|12|6|
+Royal Air Force (1940–41)|2|2 wins|4|0|
+Army (1940–41)|2|0 wins &amp; 2 draws|4|4|
+Selangor (1925–38)|6|3 wins, 1 draw, &amp; 2 
+
+
+
+
+
 
 <div style="background-color: white;">
 <br>
