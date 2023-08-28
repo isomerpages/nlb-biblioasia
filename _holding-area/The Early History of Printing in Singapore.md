@@ -113,9 +113,9 @@ Among his finest lithographic works is the journal *Cermin Mata Bagi Segala Oran
 Progress was not limited to Malay printing alone. Samuel Dyer, an LMS missionary stationed in Singapore from 1842 to 1843, has been widely credited for his pioneering work on the development of a fount of movable Chinese metallic types that was accurate, aesthetically pleasing, less costly and durable. 
 
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_10.png)
-<div style="background-color: white;"> 
-(Right) British Protestant missionary Samuel Dyer pioneered the use of movable Chinese metallic types that were accurate, aesthetically pleasing, less costly and durable. <i>Image reproduced from Evan Davies, The Memoir of Samuel Dyer: Sixteen Years Missionary to the Chinese (London: Snow, 1846). Retrieved from Wikimedia Commons.</i><br>
-(Below) Specimen of Samuel Dyer’s Chinese type. <i>Image reproduced from The Evangelical Magazine and Missionary Chronicle 1840 (London: Thomas Ward and Co., 1840), 97. (Retrieved from HathiTrust).</i></div>
+<div style="background-color: white;">
+(Left) Specimen of Samuel Dyer’s Chinese type. <i>Image reproduced from The Evangelical Magazine and Missionary Chronicle 1840 (London: Thomas Ward and Co., 1840), 97. (Retrieved from HathiTrust).</i><br>
+(Right) British Protestant missionary Samuel Dyer pioneered the use of movable Chinese metallic types that were accurate, aesthetically pleasing, less costly and durable. <i>Image reproduced from Evan Davies, The Memoir of Samuel Dyer: Sixteen Years Missionary to the Chinese (London: Snow, 1846). Retrieved from Wikimedia Commons. </i></div>
 
 Dyer’s movable types received high praise from missionary Walter Henry Medhurst who wrote: “The types are such as to afford entire satisfaction. The complete Chinese air they assume so as not to be distinguishable from the best style of native artists, together with the clearness and durability of the letter, would recommend them to universal adoption.”[^26] The types subsequently became the standard for Chinese printing in the 1850s, replacing the woodblocks that were traditionally used.[^27]
 
