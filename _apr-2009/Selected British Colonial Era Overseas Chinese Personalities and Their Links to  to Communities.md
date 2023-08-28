@@ -204,3 +204,22 @@ Among other donations, it was reported that 80% of the rental income generated f
 -	The National Kidney Foundation<br>
 -	The Lee Kuan Yew Scholarship Fund<br>
 -	Tan Ean Kiam Kiam Service-Learning Resource Centre
+
+#### **The "Rags To Riches" Banker and The First Open University of Malaysia** 
+#### **Yeap Chor Ee31 (1867–1951)**
+Wawasan Open University, the first open university of Malaysia located in Penang, which opened its doors in 2007, was made possible because of a bequest by the late "towkay" Yeap Chor Ee.
+
+At the age of 17, Yeap migrated from China with nothing more than the clothes he wore. Through sheer hard work, diligence and wise investment decisions over a period of about 50 years, he built his financial empire and provided for his descendents. The Wawasan Open University is a vibrant monument to Yeap Chor Ee's benevolence in the cause of providing education for the youth of the land from where he had made his fortune.
+
+#### **Early Days**
+Yeap Chor Ee was born in Nam-An, a small village town located in Fujian Province, China. When he landed in Penang, he started his living by working as an apprentice in a shop and lived a frugal life.
+
+By a serendipitous meeting, he got to know Goh Teik Ji, who became his benefactor. Goh Teik Ji was then a Penang-based import/ export agent of Oei Tiong Ham, the "Sugar King" of Java (Indonesia). Goh financed Yeap to start a small grocery shop of his own.
+
+When World War I broke out, the price of sugar, which is an essential commodity, rose as a result of the disruption in the transportation services. Yeap's shop naturally became the exclusive dealer for sugar and thus began his journey into prosperity.
+
+
+
+
+
+
