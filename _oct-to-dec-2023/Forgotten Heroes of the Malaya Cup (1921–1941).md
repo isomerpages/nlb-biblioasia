@@ -169,7 +169,7 @@ After the war, Lim became a major advocate for football as an adviser and mentor
 #### **Mohamed Noor Kassim (Mat Noor)**
 
 <img style="width:95%;height:85%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/noorkassim.jpg">
-<div style="background-color: white;">Mat Noor heading the ball at the Anson Road Stadium during a match against Johor in the southern section of the Malaya Cup competition. <i>Image reproduced from “Johore Beaten by Eight Goals,” Malaya Tribune, 22 June 1935, 15. (From NewspaperSG).</i></div>
+<div style="background-color: white;text-align:center">Mat Noor heading the ball at the Anson Road Stadium during a match against Johor in the southern section of the Malaya Cup competition. <i>Image reproduced from “Johore Beaten by Eight Goals,” Malaya Tribune, 22 June 1935, 15. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (4 wins) 
 <br>Malaya Cup (1928–35)<br>
