@@ -152,7 +152,7 @@ During the Japanese Occupation (1942–45), Chua became a committee member of th
 #### **Lim Yong Liang**
 
 <img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian.jpg">
-<div style="background-color: white;">Lim Yong Liang, 1930. <i>Courtesy of Alex Chua (grandson of Chua Boon Lay).</i></div>
+<div style="background-color: white;text-align:center">Lim Yong Liang, 1930. <i>Courtesy of Alex Chua (grandson of Chua Boon Lay).</i></div>
 
 6 appearances in the Malaya Cup final (3 wins)
 <br>Malaya Cup (1922–30)<br> 
