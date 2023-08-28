@@ -115,7 +115,7 @@ Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Sh
 
 #### **Choo Seng Quee**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee.jpg)
+<img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee.jpg">
 <div style="background-color: white;">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
 
 2 appearances in the Malaya Cup final (1 win)
