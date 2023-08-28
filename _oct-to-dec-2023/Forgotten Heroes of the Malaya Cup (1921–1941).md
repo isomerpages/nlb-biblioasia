@@ -198,7 +198,7 @@ Pennefather was a certainty to play in the first Malaya Cup final in 1921 but ch
 
 #### **Roy Fairley Smith**
 <img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/smithphoto.jpg">
-<div style="background-color: white;">Roy Fairley Smith. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+<div style="background-color: white;text-align:center">Roy Fairley Smith. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (3 wins)
 <br>Malaya Cup (1922–27)<br> 
