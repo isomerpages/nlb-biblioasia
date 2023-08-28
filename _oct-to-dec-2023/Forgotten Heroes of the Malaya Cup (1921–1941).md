@@ -81,7 +81,7 @@ Dolfattah scored 35 goals in 23 Malaya Cup games between 1927 and 1933 – a str
 #### **Abdul Rahman Haji Ali**
 
 <img style="width:100%;height:90%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/abdulrahmanhajiali.jpg">
-<div style="background-color: white;">Abdul Rahman delivering one of his powerful clearance shots at a
+<div style="background-color: white;text-align:center">Abdul Rahman delivering one of his powerful clearance shots at a
 training session. <i>Image reproduced from “He’s a Certainty,” Malaya Tribune, 21 June 1940, 6. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (5 wins)
@@ -99,7 +99,7 @@ Like Chua Boon Lay, Abdul Rahman was a champion athlete at school and won the in
 #### **Chee Ah Hui**
 
 <img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto3.jpg">
-<div style="background-color: white;">Chee Ah Hui. <i>Source: The Straits Times, 2 August 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;text-align:center">Chee Ah Hui. <i>Source: The Straits Times, 2 August 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 2 appearances in the Malaya Cup final (2 wins)
 <br>Malaya Cup (1930 and 1933)<br>
@@ -116,7 +116,7 @@ Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Sh
 #### **Choo Seng Quee**
 
 <img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee.jpg">
-<div style="background-color: white;">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
+<div style="background-color: white;text-align:center">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
 
 2 appearances in the Malaya Cup final (1 win)
 <br>Malaya Cup (1937–38)<br>
@@ -132,7 +132,7 @@ One of Choo’s greatest achievements was guiding Singapore to win the Malaysia 
 #### **Chua Boon Lay**
 
 <img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chuaboonlay.jpg">
-<div style="background-color: white;">Chua Boon Lay. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan
+<div style="background-color: white;text-align:center">Chua Boon Lay. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan
 	Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 8 appearances in the Malaya Cup final (6 wins)
