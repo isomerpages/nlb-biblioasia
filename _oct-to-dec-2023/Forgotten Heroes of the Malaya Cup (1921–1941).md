@@ -64,7 +64,7 @@ Any list of Singapore’s best footballers will be a subjective one of course. O
 
 #### **Abdul Fattah (Dolfattah)**
 <img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/dolfattah.jpg">
-<div style="background-color: white;">Abdul Fattah (Dolfattah). <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+<div style="background-color: white;text-align:center">Abdul Fattah (Dolfattah). <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (4 wins)
 <br>Malaya Cup (1927–35)<br>
