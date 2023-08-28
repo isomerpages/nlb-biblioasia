@@ -131,7 +131,7 @@ One of Choo’s greatest achievements was guiding Singapore to win the Malaysia 
 
 #### **Chua Boon Lay**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chuaboonlay.jpg)
+<img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chuaboonlay.jpg">
 <div style="background-color: white;">Chua Boon Lay. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan
 	Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
@@ -151,7 +151,7 @@ During the Japanese Occupation (1942–45), Chua became a committee member of th
 
 #### **Lim Yong Liang**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian.jpg)
+<img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian.jpg">
 <div style="background-color: white;">Lim Yong Liang, 1930. <i>Courtesy of Alex Chua (grandson of Chua Boon Lay).</i></div>
 
 6 appearances in the Malaya Cup final (3 wins)
@@ -168,7 +168,7 @@ After the war, Lim became a major advocate for football as an adviser and mentor
 
 #### **Mohamed Noor Kassim (Mat Noor)**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/noorkassim.jpg)
+<img style="width:95%;height:85%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/noorkassim.jpg">
 <div style="background-color: white;">Mat Noor heading the ball at the Anson Road Stadium during a match against Johor in the southern section of the Malaya Cup competition. <i>Image reproduced from “Johore Beaten by Eight Goals,” Malaya Tribune, 22 June 1935, 15. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (4 wins) 
