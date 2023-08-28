@@ -48,6 +48,11 @@ As much as we like to believe we are fully objective human beings capable of com
 
 To listen to the entire podcast, click [here](https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/)
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 5px; background: #fff6ba; font-size=larger"><b>ABOUT THE GREAT RECLAMATION </b><br><br>
+<div style="background-colour:#fff6ba; padding:20px; margin: 5px; background: #fff6ba; font-size=larger"><b>ABOUT THE GREAT RECLAMATION </b><br><br>Ah Boon is born into a fishing village in 20th-century coastal Singapore in the waning years of British rule. He is a gentle boy who is not much interested in fishing, preferring to spend his days playing with his neighbour Siok Mei. But when he discovers he has the unique ability to locate bountiful, movable islands that no one else can find, he feels a new sense of obligation and possibility – something to offer the community and impress the spirited girl he has come to love.<br><br>
+By the time they are teens, Ah Boon and Siok Mei are caught in the tragic sweep of history. As the nation hurtles toward rebirth, the two friends, newly empowered, must decide who they want to be, and what they are willing to give up.<br><br>
+	<i>The Great Reclamation</i> is a love story and coming-of-age novel that reckons with the legacy of British colonialism, the Japanese Occupation, Singapore’s postwar years, and the pursuit of modernity.<br><br>
+The book is available for reference and for loan at the Lee Kong Chian Reference Library and selected public libraries 
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224">(call nos. S823 HEN and HEN)</a> and on NLB OverDrive as an <a href="https://nlb.overdrive.com/media/D985D9DB-01ED-4B3A-B28B-DE65978">ebook</a> and <a href="https://nlb.overdrive.com/media/7CB2E530-B429-4D52-B61A-9466F7383739">audiobook.</a>
+</div>
 	
-	</div>
+	
