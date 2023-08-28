@@ -197,8 +197,7 @@ He played in six Malaya Cup finals for Singapore, winning in 1923, 1924 and 1925
 Pennefather was a certainty to play in the first Malaya Cup final in 1921 but chose to represent his club, the Singapore Recreation Club, in athletics instead. An all-round sportsman, he could also throw a cricket ball well over a distance of 100 yards. Together with his wife Alice and later granddaughter Annabel, the name of Pennefather became firmly embedded in Singapore’s sport story. (Alice excelled in badminton, tennis and hockey, and was inducted into the Singapore Women’s Hall of Fame posthumously in 2016 for her contributions to women’s sports in Singapore. Annabel was a national hockey player and captained the national women’s team from 1970 to 1980.) 
 
 #### **Roy Fairley Smith**
-
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/smithphoto.jpg)
+<img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/smithphoto.jpg">
 <div style="background-color: white;">Roy Fairley Smith. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (3 wins)
@@ -212,8 +211,7 @@ As a footballer, he become so highly sought after that the Singapore Cricket Clu
 Smith’s Malaya Cup performances over seven seasons (1921–27) were remarkable. He played in 19 games, including six consecutive finals. Out of 68 goals scored by Singapore players, Smith took credit for 28 of them, averaging two per game. He failed to score in only five of the 19 games.[^31]
 
 #### **Tay Kwee Liang**
-
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/kweeliang.jpg)
+<img style="width:95%;height:85%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/kweeliang.jpg">
 <div style="background-color: white;">Tay Kwee Liang, 1933. <i>Image reproduced from “Choosing Malaya’s Best Footballer,” Malaya
 	Tribune, 11 November 1933. (From Newspaper SG).</i></div>
 
