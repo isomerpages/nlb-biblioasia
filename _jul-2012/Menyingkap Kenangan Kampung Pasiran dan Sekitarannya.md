@@ -3,12 +3,12 @@ title: Menyingkap Kenangan Kampung Pasiran dan Sekitarannya
 permalink: /vol-8/issue-2/jul-2012/kampung-pasiran-sekitarannya/
 description: ""
 ---
-#### Traces the historical development of a village in Singapore called Kampung Pasiran and its surrounding areas using primary source materials from the National Archives of Singapore as well as interviews with surviving kampong dwellers.
+#### The historical development of Kampung Pasiran and its surrounding areas is traced using primary sources from the National Archives of Singapore as well as interviews with surviving kampong dwellers.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Children.jpg">
  <div style="background-color: white;">Anak-anak Kampung Pasiran di awal tahun 1960an. <i>Foto ihsan Puan Rohaidah Mohd. Yadri.</i></div>
 
-The article features the historical development of a village in Singapore named Kampung Pasiran (situated at Gentle Road/Newton Road) and its surrounding areas. Deriving primary material sources from oral records of the National Archives of Singapore and interviews with surviving kampung dwellers, the article includes the kampung pioneers, life during the Japanese Occupation, the role of its savings and thrifts co-operatives, the ties between the only Malay-stream school in the area with the villagers as well as the bond forged by the prominent Alsagoff family with the villagers in facilitating economic activities through employment. The function of the mosque as a religious as well as a socio-cultural focal point is also discussed. Owing to its central strategic location, the mosque, amidst its affluent residential environment now, is likened to an ‘oasis in the desert’.
+This article features the historical development of a village in Singapore named Kampung Pasiran (situated at Gentle Road/Newton Road) and its surrounding areas. Deriving primary sources from oral records in the National Archives of Singapore and interviews with surviving kampong dwellers, the article includes the kampong pioneers, life during the Japanese Occupation, the role of its savings and thrifts cooperatives, ties between the only Malay-stream school in the area with the villagers as well as the bond forged by the prominent Alsagoff family with the villagers in facilitating economic activities through employment. The function of the mosque as a religious and sociocultural focal point is also discussed. Owing to its central strategic location, the mosque, located amid the affluent residential environment now, is likened to an “oasis in the desert”.
 
 #### **Latarbelakang Perkampungan Melayu di Singapura**
 
@@ -187,7 +187,7 @@ By-laws Kampung Pasiran Multi-Purpose co-operative Society Limited. (2010, June 
 
 Hadijah Rahmat, et al. (2005). [_Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182)_._ Singapore: HSYang Publishing Pte Ltd. (Call no.: Malay RSING 959.57 HAD)
 
-Haron Adbul Rahman. (1987, October 26).  [Pergerakan koperatif Melayu mulai berputik dalam tahun 1930-an](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871026-1.2.72.10.2). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+Haron Adbul Rahman. (1987, October 26).&nbsp; [Pergerakan koperatif Melayu mulai berputik dalam tahun 1930-an](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871026-1.2.72.10.2). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
 
 Kamsiah Abdullah. (2007). [_Benih budiman: Suatu analisis sosio-sejarah persekolahan Melayu di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12973695). Perak: Penerbit Universiti Pendidikan Sultan Idris. (Call no.: Malay RSING 371.82999280 KAM)
 
@@ -199,7 +199,7 @@ Peraturan Syarikat Kerjasama Serbaguna Kampung Pasiran Berhad. (2010, June 27). 
 
 Salmah Semono. (1972, March 15). [Sistem guru muzik di-Bukit Tunggal yang paling berkesan](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19720315-1.2.40). _Berita Harian_, p. 7. Retrieved from NewspaperSG.
 
-Sulaiman Jeem & Abdul Ghani Hamid. (1997). [_Aktivis Melayu/Islam di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881194). Singapura: Persatuan Wartawan Melayu Singapura. (Call no.: Malay RSING 305.89928 AKT)
+Sulaiman Jeem &amp; Abdul Ghani Hamid. (1997). [_Aktivis Melayu/Islam di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881194). Singapura: Persatuan Wartawan Melayu Singapura. (Call no.: Malay RSING 305.89928 AKT)
 
 Tuminah Sapawi. (1993, April 20). [Those were the days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930420-1.2.60.5.5). _The Straits Times_, p. 13. Retrieved from NewspaperSG.
 
