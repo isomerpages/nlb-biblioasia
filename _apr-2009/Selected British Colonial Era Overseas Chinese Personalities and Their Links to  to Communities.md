@@ -218,8 +218,5 @@ By a serendipitous meeting, he got to know Goh Teik Ji, who became his benefacto
 
 When World War I broke out, the price of sugar, which is an essential commodity, rose as a result of the disruption in the transportation services. Yeap's shop naturally became the exclusive dealer for sugar and thus began his journey into prosperity.
 
-
-
-
-
+#### **Ban Hin Lee Bank (BHLB)32**
 
