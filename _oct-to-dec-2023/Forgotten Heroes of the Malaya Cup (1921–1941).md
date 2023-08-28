@@ -80,7 +80,7 @@ Dolfattah scored 35 goals in 23 Malaya Cup games between 1927 and 1933 – a str
 
 #### **Abdul Rahman Haji Ali**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/abdulrahmanhajiali.jpg)
+<img style="width:100%;height:90%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/abdulrahmanhajiali.jpg">
 <div style="background-color: white;">Abdul Rahman delivering one of his powerful clearance shots at a
 training session. <i>Image reproduced from “He’s a Certainty,” Malaya Tribune, 21 June 1940, 6. (From NewspaperSG).</i></div>
 
