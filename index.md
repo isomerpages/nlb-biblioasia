@@ -719,4 +719,13 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: New Books on Singapore History (Oct 2023)
+      subtitle: New Books
+      description: Introducing five new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
+      image: /images/Vol 19 Issue 3/9 New Books/uncle choo home page.jpg
+      alt: Image alt text
 ---
