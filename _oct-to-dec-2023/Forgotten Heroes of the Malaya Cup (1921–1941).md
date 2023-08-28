@@ -212,7 +212,7 @@ Smith’s Malaya Cup performances over seven seasons (1921–27) were remarkable
 
 #### **Tay Kwee Liang**
 <img style="width:95%;height:85%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/kweeliang.jpg">
-<div style="background-color: white;">Tay Kwee Liang, 1933. <i>Image reproduced from “Choosing Malaya’s Best Footballer,” Malaya
+<div style="background-color: white;text-align:center">Tay Kwee Liang, 1933. <i>Image reproduced from “Choosing Malaya’s Best Footballer,” Malaya
 	Tribune, 11 November 1933. (From Newspaper SG).</i></div>
 
 Amicable Athletic Association
@@ -224,7 +224,7 @@ You might wonder why Tay Kwee Liang appears in this table since he did not play 
 In 1933, he joined the South China Athletic Association team in Hong Kong,[^33] and at the 1934 Far Eastern Games, he was a member of the Chinese team that won the championship. Two years later, Tay was selected to represent China at the 1936 Olympic Games in Berlin, along with Chua Boon Lay and Chee Ah Hui (although Tay is rarely mentioned alongside these two men). Besides football, Tay also excelled in table tennis, and was the national table tennis champion of Singapore in 1931.[^34]
 
 ![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/taykweeliangcert.jpg)
-<div style="background-color: white;">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div>
+<div style="background-color: white;text-align:center">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div>
 
 #### **The Legends and Their Legacy**
 
