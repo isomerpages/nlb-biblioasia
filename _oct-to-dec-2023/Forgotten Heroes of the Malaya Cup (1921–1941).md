@@ -242,8 +242,8 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 11 Aug 1923: 4-1|Johore|Roy Smith (3) &amp; C.M. Jamieson|
 18 Aug 1923: 3-0|Malacca|Roy Smith (2) &amp; Lim Yong Liang|
 2 Aug 1924: 5-0|Negri Sembilan|Roy Smith, Yahya Yatim (2) &amp; R.C. Rogers (2)|
-Royal Air Force (1940–41)|2|2 wins|4|0|
-Army (1940–41)|2|0 wins &amp; 2 draws|4|4|
+24 Aug 1925: 7-1|Malacca|Roy Smith (2), Lim Yong Liang (2), Foong Un Sun (2) &amp; Cheong Chee Lim|
+29 Aug 1925: 2-1|Selangor|Roy Smith &amp; Lim Yong Liang|
 Selangor (1925–38)|6|3 wins, 1 draw, &amp; 2 
 
 
