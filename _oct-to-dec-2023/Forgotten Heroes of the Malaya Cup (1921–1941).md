@@ -264,6 +264,8 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 21 Jun 1935: 8-0|Johore|Chia Keng Hock, Mat Noor (3), A.G. Valberg (2) &amp; Choy Khoon Onn (2)|
 6 Jul 1935: 7-1|Malacca|Chia Keng Hock (2), Mat Noor (3) &amp; Mahmood (2)|
 20 Jul 1935: 2-2|Combined Services|Chia Keng Hock &amp; Mahmood|
+29 May 1936: 6-0|Johore|Chia Keng Hock (2), Taib bin Awang (3) &amp; Dollah Zainol|
+
 
 
 
