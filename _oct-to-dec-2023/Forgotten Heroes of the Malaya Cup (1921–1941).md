@@ -244,7 +244,7 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 2 Aug 1924: 5-0|Negri Sembilan|Roy Smith, Yahya Yatim (2) &amp; R.C. Rogers (2)|
 24 Aug 1925: 7-1|Malacca|Roy Smith (2), Lim Yong Liang (2), Foong Un Sun (2) &amp; Cheong Chee Lim|
 29 Aug 1925: 2-1|Selangor|Roy Smith &amp; Lim Yong Liang|
-Selangor (1925–38)|6|3 wins, 1 draw, &amp; 2 
+21 Aug 1926: 9-1|Negri Sembilan|Roy Smith (3), Lim Yong Liang (3), Ee Chan Hee, Wan Puteh &amp; 1 unknown 
 
 
 
