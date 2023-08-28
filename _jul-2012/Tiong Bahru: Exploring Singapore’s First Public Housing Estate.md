@@ -111,7 +111,7 @@ The regeneration of Tiong Bahru from the early 2000s has led to a sense of an in
 
 
 <div>
-<b>Alvin Chua</b> is an independent researcher who writes on Singapore history, culture and heritage. Since 2008, he has contributed numerous articles to Singapore Infopedia, NLB’s online encyclopaedia on Singapore. He previously wrote for the <i>Today</i> paper and a number of websites.</div>
+<b>Alvin Chua</b> is an independent researcher who writes on Singapore history, culture and heritage. Since 2008, he has contributed numerous articles to Singapore Infopedia, the National Library Board’s online encyclopedia on Singapore. He previously wrote for the <i>Today</i> paper and a number of websites.</div>
 
 #### **REFERENCES**
 
@@ -125,7 +125,7 @@ Chan, K.S. (2000, August 21). [Aeroplane towers haven for good-time girls](http:
 
 Chin, K.K. (1991, January 2). [Heart and soul](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910102-1.2.76.3.1). _The Straits Times_, p. 3. Retrieved from NewspaperSG.
 
-China’s Hang Huo Enterprise wins bid to convert Tiong Bahru flats to hotel. (2003, August 12). _ChannelNews Asia_. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+China’s Hang Huo Enterprise wins bid to convert Tiong Bahru flats to hotel. (2003, August 12). _Channel NewsAsia_. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Chow, C. (2009, June 8). Niche accommodation in Tiong Bahru. [_The Edge Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11111525).
 
@@ -141,7 +141,7 @@ Koh, T. et al (Eds.). (2006). Tiong Bahru. In [_Singapore: The encyclopedia_](ht
 
 Kong, L. (2011). [_Conserving the past, creating the future_: _Urban heritage in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13816245). Singapore: Urban Redevelopment Authority. (Call no.: RSING 363.69095957 KON)
 
-Lev, M. (1996, December 26). Songbirds still capture Singapore’s heart.&nbsp;_The Orange County Register_. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website
+Lev, M. (1996, December 26). Songbirds still capture Singapore’s heart.&nbsp;_The Orange County Register_. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Loo, D. (2004, September 5). [‘50 flats in Tiong Bahru a big draw](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040905-1.2.26.6). _The Straits Times_, p. 25. Retrieved from NewspaperSG.
 
@@ -157,13 +157,13 @@ Ng, T.Y. (2006, September 2). [He wants to put Tiong Bahru on world map](http://
 
 [Overcrowding in Chinatown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300626-1.2.110). (1930, June 26). _The Straits Times_, p. 15. Retrieved from NewspaperSG.
 
-Perry, M. Kong, P., &amp; Yeoh, B. (1997). [_Singapore: A developmental city state_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8075855). New York: Wiley. (Call no.: RSING 307.76095957 PER)
+Perry, M., Kong, P., &amp; Yeoh, B. (1997). [_Singapore: A developmental city state_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8075855). New York: Wiley. (Call no.: RSING 307.76095957 PER)
 
 [Renovating Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261001-1.2.63). (1926, October 1). _The Singapore Free Press_, p. 11. Retrieved from NewspaperSG.
 
 [Rubber factory fire](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19140406-1.2.81). (1914, April 6). _The Singapore Free Press_, p. 12. Retrieved from NewspaperSG.
 
-Savage, V.R. &amp; Yeoh, B. (2003). [_Toponymics: A study of Singapore street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
+Savage, V.R., &amp; Yeoh, B. (2003). [_Toponymics: A study of Singapore street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
 
 Tan, T.H. (2011, July 30). [Tiong Bahru redux](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20110730-1.2.35.1). _The Business Times_, pp. 2–3. Retrieved from NewspaperSG.
 
@@ -177,21 +177,21 @@ Tan, T.H. (2011, July 30). [Tiong Bahru redux](http://eresources.nlb.gov.sg/news
 
 Wan, M.H., &amp; Lau, J. (2009). [_Heritage places of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774). Singapore: Marshall Cavendish Editions. (Call no.: RSING 959.58 WAN)
 
-Wong, T-C., &amp; Xavier, G. (2005). [_A roof over every head: Singapore’s housing policies in the 21st century: Between state monopoly and privatization_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12644453). Calcutta: Sampark. (Call no.: RSING 363.5095957 WON)
+Wong, T.-C., &amp; Xavier, G. (2005). [_A roof over every head: Singapore’s housing policies in the 21st century: Between state monopoly and privatization_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12644453). Calcutta: Sampark. (Call no.: RSING 363.5095957 WON)
 
-Yeoh, B.A. (2003). [_Contesting space in colonial Singapore: Power relations and the urban built environment_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
+Yeoh, B.S.A. (2003). [_Contesting space in colonial Singapore: Power relations and the urban built environment_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061). Singapore: Singapore University Press. (Call no.: RSING 307.76095957 YEO)
 
-Yeoh, B., &amp; Kong, L. (1995). Place-making: Collective representations of social life and the built environment in Tiong Bahru. In B.A. Yeoh., &amp; L. Kong. (Eds.), [_Portraits of places: History, community and identity in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347). Singapore: Times Edition. (Call no.: RSING 959.57 POR)
+Yeoh, B., &amp; Kong, L. (1995). Place-making: Collective representations of social life and the built environment in Tiong Bahru. In B.S.A. Yeoh &amp; L. Kong (eds.), [_Portraits of places: History, community and identity in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347). Singapore: Times Edition. (Call no.: RSING 959.57 POR)
 
 #### **NOTES**
 
 
 
-[^1]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89—115.
+[^1]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89–115.
 
-[^2]: [Firmstone](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827527), 1905, pp. 53—208.
+[^2]: [Firmstone](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827527), 1905, pp. 53–208.
 
-[^3]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89—115.
+[^3]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89–115.
 
 [^4]: _[The Singapore Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19140406-1.2.81)_, 6 Apr 1914, p. 12.
 
@@ -199,52 +199,52 @@ Yeoh, B., &amp; Kong, L. (1995). Place-making: Collective representations of soc
 
 [^6]: _[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261001-1.2.63)_, 1 Oct 1926, p. 11.
 
-[^7]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89—115.
+[^7]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89–115.
 
 [^8]: [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061), 2003, p. 300.
 
 [^9]: [Savage &amp; Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758), 2003, p. 386.
 
-[^10]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89—115.
+[^10]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89–115.
 
 [^11]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350420-1.2.59)_, 20 Apr 1935, p. 12.
 
 [^12]: _My Paper_, 27 Jan 2012.
 
-[^13]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89—115.
+[^13]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89–115.
 
-[^14]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89—115.
+[^14]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89–115.
 
 [^15]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490724-1.2.71)_, 24 Jul 1949, p. 8.
 
 [^16]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511130-1.2.44)_, 30 Nov 1951, p. 4.
 
-[^17]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89—115.
+[^17]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89–115.
 
 [^18]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641016-1.2.54)_, 16 Oct 1964, p. 8.
 
-[^19]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89—115.
+[^19]: [Yeoh &amp; Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), 1995, pp. 89–115.
 
 [^20]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950823-1.2.2)_, 23 Aug 1995, p. 1.
 
 [^21]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080224-1.2.61.8.2)_, 24 Feb 2008, p. 86.
 
-[^22]: [Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13816245), 2011, pp. 165—167.
+[^22]: [Kong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13816245), 2011, pp. 165–167.
 
 [^23]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040905-1.2.26.6)_, 5 Sep 2004, p. 25. &nbsp;
 
 [^24]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901205-1.2.63.3.1)_, 5 Dec 1990, p. 4.
 
-[^25]: [Wan &amp; Lau](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774), 2009, pp. 169—171.
+[^25]: [Wan &amp; Lau](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774), 2009, pp. 169–171.
 
 [^26]: Lev, 26 Dec 1996.
 
-[^27]: [Wan &amp; Lau](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774), 2009, pp. 169—171.
+[^27]: [Wan &amp; Lau](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774), 2009, pp. 169–171.
 
 [^28]: [Wong &amp; Xavier](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12644453), 2005, p. 46.
 
 [^29]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490724-1.2.71), 24 Jul 1949, p. 8.
 
-[^30]: _[The News Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20060902-1.2.7.1)_, 3 Sep 2006, p. 5.
+[^30]: _[The New Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20060902-1.2.7.1), 3 Sep 2006, p. 5.
 
-[^31]: _[The Business Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20110730-1.2.35.1)_, 30 Jul 2011, pp. 2—3.
+[^31]: _[The Business Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20110730-1.2.35.1), 30 Jul 2011, pp. 2–3.
