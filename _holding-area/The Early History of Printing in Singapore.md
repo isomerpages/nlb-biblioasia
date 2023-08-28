@@ -105,8 +105,8 @@ Among his finest lithographic works is the journal *Cermin Mata Bagi Segala Oran
 
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_9.png)
 <div style="background-color: white;"> 
-(Above) In Cermin Mata, the lithography technique was used to print Jawi text that closely resembled the natural flow of the handwritten script. <i>Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i><br>
-(Above right) British Protestant missionary Benjamin Keasberry is known for using lithography in Malay printing that resembled the flow of the handwritten script found in Malay manuscripts. <i>Image reproduced from Prinsep Street Presbyterian Church 1843–2013: Celebrating 170 Years of God’s Faithfulness (Singapore: Prinsep Street Presbterian Church, 2013). (From National Library, Singapore, call no. 285.25957 PRI).</i></div>
+(Left) In Cermin Mata, the lithography technique was used to print Jawi text that closely resembled the natural flow of the handwritten script. <i>Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i><br>
+(Right) British Protestant missionary Benjamin Keasberry is known for using lithography in Malay printing that resembled the flow of the handwritten script found in Malay manuscripts. <i>Image reproduced from Prinsep Street Presbyterian Church 1843–2013: Celebrating 170 Years of God’s Faithfulness (Singapore: Prinsep Street Presbterian Church, 2013). (From National Library, Singapore, call no. 285.25957 PRI).</i></div>
 
 #### **Development of a Metallic Chinese Type**
 
