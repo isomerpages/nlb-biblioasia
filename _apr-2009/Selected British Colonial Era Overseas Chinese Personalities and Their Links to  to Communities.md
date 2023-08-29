@@ -433,40 +433,40 @@ Wong Yee-Tuan, “The Big Five Hokkien Families in Penang, 1830s–1890s,” Chi
 
 [^23]: In Chinese
 
-24\. In Chinese
+[^24]: In Chinese
 
-25\. In Chinese
+[^25]: In Chinese
 
-26\. In Chinese
+[^26]: In Chinese
 
-27\. “One of the Directors of the Oversea-Chinese Bank Limited,” _[Berita OCBC](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563)_ 3, no. 5 (October 1972): 4. (Call no. RSING 332.12095957 BOCBC)
+[^27]: “One of the Directors of the Oversea-Chinese Bank Limited,” _[Berita OCBC](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563)_ 3, no. 5 (October 1972): 4. (Call no. RSING 332.12095957 BOCBC)
 
-28\. _Sin Kuo Min Jit Poh_, 8 October 1919.
+[^28]: _Sin Kuo Min Jit Poh_, 8 October 1919.
 
-29\. “[One of the Directors of the Oversea-Chinese Bank Limited](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563),” 6.
+[^29]: “[One of the Directors of the Oversea-Chinese Bank Limited](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563),” 6.
 
-30\. _[Berita OCBC](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563)_ 15, no. 6 (August 1984): 8. (Call no. RSING 332.12095957 BOCBC)
+[^30]: _[Berita OCBC](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563)_ 15, no. 6 (August 1984): 8. (Call no. RSING 332.12095957 BOCBC)
 
-31\. In Chinese
+[^31]: In Chinese
 
-32\. In Chinese
+[^32]: In Chinese
 
-33\. In Chinese
+[^33]: In Chinese
 
-34\. Ban Hin Lee Trading was appointed by the Japanese as rice stockist during Japanese Occupation. [Yap Siong Yu](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/4d7cd1e9-115f-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 27 June 1983, MP3 audio, 27:44, National Archives of Singapore (accession no. 000286)
+[^34]: Ban Hin Lee Trading was appointed by the Japanese as rice stockist during Japanese Occupation. [Yap Siong Yu](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/4d7cd1e9-115f-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 27 June 1983, MP3 audio, 27:44, National Archives of Singapore (accession no. 000286)
 
-35\. In Chinese
+[^35]: In Chinese
 
-36\. A Upper Circular Road, Singapore, Yeap Chor Ee was also a director of OCBC (1933–1941), _[Berita OCBC](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563)_ 3, no. 5 (October 1972): 3. (Call no. RSING 332.12095957 BOCBC)
+[^36]: A Upper Circular Road, Singapore, Yeap Chor Ee was also a director of OCBC (1933–1941), _[Berita OCBC](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563)_ 3, no. 5 (October 1972): 3. (Call no. RSING 332.12095957 BOCBC)
 
-37\. [David Chew Beng Hwee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/bf913c65-115f-11e3-83d5-0050568939ad), oral history interview by Lim Boon Seong, 20 December 1990–20 August 1991, MP3 audio, National Archives of Singapore (accession no. 001234)
+[^37]: [David Chew Beng Hwee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/bf913c65-115f-11e3-83d5-0050568939ad), oral history interview by Lim Boon Seong, 20 December 1990–20 August 1991, MP3 audio, National Archives of Singapore (accession no. 001234)
 
-38\. Stephen Yeap Leong Huat, “Wawasan Open University Ground Breaking Ceremony,” speech, 8 January 2006, [https://www.wou.edu.my/wou-college-main-campus-ground-breaking-ceremony/](https://www.wou.edu.my/wou-college-main-campus-ground-breaking-ceremony/).
+[^38]: Stephen Yeap Leong Huat, “Wawasan Open University Ground Breaking Ceremony,” speech, 8 January 2006, [https://www.wou.edu.my/wou-college-main-campus-ground-breaking-ceremony/](https://www.wou.edu.my/wou-college-main-campus-ground-breaking-ceremony/).
 
-39\. Yeap, “Ground Breaking Ceremony.”
+[^39]: Yeap, “Ground Breaking Ceremony.”
 
-40\. The descendents of Yeap Swee Ah are now living in 20' Street, Yangon Chinatown, Myanmar.
+[^40]: The descendents of Yeap Swee Ah are now living in 20' Street, Yangon Chinatown, Myanmar.
 
-41\. In Chinese
+[^41]: In Chinese
 
 
