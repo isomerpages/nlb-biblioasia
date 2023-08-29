@@ -260,7 +260,7 @@ What can we learn from these Chinese personalities? Firstly, they knew no fear w
 
 **CHINESE BOOKS**
 
-1 In Chinese
+1. In Chinese
 
 Chen Jianhong and Huang Xianqiang 陈剑虹 and 黄贤强, _Binlangyu Hua ren yan jiu_ [槟榔屿华人研究](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12665134) \[Penang Chinese Studies\] (Xinjia o 新加坡: Han jiang xue yuan Hua ren wen hua guan, Xinjiapo guo li da xue zhong wen xi 韩江学院华人文化馆, 新加坡国立大学中文系, 2005 ). (Call no. Chinese RCO 959.5004951 BLY)
 
@@ -268,29 +268,29 @@ Chen Weilong 陈维龙, _Xin Ma zhu ce shang ye yin hang_ [新马注册商业银
 
 Cui Guiqiang 崔贵强, _Xinjiapo Hua ren: cong kai bu dao jian guo_ [新加坡华人: 从开埠到建国](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84452427) \[The Chinese in Singapore: Past and present\] (Xinjiapo 新加坡: Xinjiapo zong xiang hui guan lian he zong hui, jiao yu chu ban gong si lian he chu ban 新加坡宗乡会馆联合总会, 教育出版公司联合出版, 1994) (Call no. Chinese RSING 959.57004951 CGQ)
 
-5 In Chinese
+5. In Chinese
 
 Fang Xiongpu 方雄普, _Zhu bo san ji: mian dian hua ren she hui lx''ue ying_ [朱波散记: 缅甸华人社会掠影](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10270263) \[The Sanji of Zhu Bo: A Snapshot of the Burmese Chinese Society\] (Xiang gang 香港: Nan dao chu ban she南岛出版社, 2000). (Call no. Chinese RCO 305.89510591 FXP)
 
-7 In Chinese
+7. In Chinese
 
 Yang Baojun 杨保筠, _Hua qiao Hua ren bai ke quan shu_ [华侨华人百科全书](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10293630) \[Overseas Chinese Encyclopedia\] (Beijing 北京: Zhongguo Hua qiao chu ban she 中国华侨出版社, 2001). (Call no. Chinese RCO 909.04951 ENC)
 
-9 In Chinese
+9. In Chinese
 
-10 In Chinese
+10. In Chinese
 
 Song Wangxiang 宋旺相, _Xinjiapo Hua ren bai nian shi_ [新加坡华人百年史](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84519484) \[Centennial history of the Chinese in Singapore\] (Xinjiapo 新加坡: Xinjiapo Zhonghua zong shang hui 新加坡中华总商会, 1993). (Call no. Chinese RCO 959.57004951 SOS)
 
-12 In Chinese
+12. In Chinese
 
-13 In Chinese
+13. In Chinese
 
 **CHINESE BOOKS ON TAN KAH KEE**
 
-14 In Chinese
+14. In Chinese
 
-15 In Chinese
+15. In Chinese
 
 All-China Federation of Returned Overseas Chinese, co-edited by Fujian Provincial Committee of the Chinese People's Political Consultative Conference 中华全国归国华侨联合会, 福建省政协合编, _Hui yi Chen Jiageng: ji nian Chen Jiageng xian sheng dan chen yi bai yi shi zhou nian_ [回忆陈嘉庚: 纪念陈嘉庚先生诞辰一百一十周年](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84561833) \[Memories of Tan Kah Kee: Commemorating the 110th Anniversary of Mr. Tan Kah Kee's Birth\] (Beijing 北京: Wen shi zi liao chu ban she 文史资料出版社, 1984). (Call no. Chinese RCO 959.5702092 HYC)
 
@@ -300,15 +300,15 @@ Chen Bi Sheng 陈碧笙, _Chen jia geng nian pu_ [陈嘉庚年谱](https://eserv
 
 Yang Jin Fa 杨进发, _Chen jia geng yan jiu wen ji_ [陈嘉庚研究文集](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444628) \[Collected papers on the studies of Chen Jia Geng\] (Bei jing 北京: Zhong guo you yi chu ban gong si 中国友谊出版公司, 1988). (Call no. Chinese RCO 959.57020924 YCF)
 
-20 In Chinese
+20. In Chinese
 
-21 In Chinese
+21. In Chinese
 
-22 In Chinese
+22. In Chinese
 
-23 In Chinese
+23. In Chinese
 
-24 In Chinese
+24. In Chinese
 
 **YA YIN KWAN COLLECTION (In Chinese)**
 
@@ -320,19 +320,19 @@ _Nanyang wen hua_ [南洋文化](https://eservice.nlb.gov.sg/item_holding.aspx?b
 
 **CHINESE NEWSPAPERS**
 
-28 In Chinese
+28. In Chinese
 
-29 In Chinese
+29. In Chinese
 
-30 In Chinese
+30. In Chinese
 
-31 In Chinese
+31. In Chinese
 
-32 In Chinese
+32. In Chinese
 
 **SOURCES ON MICROFILM**
 
-33 In Chinese
+33. In Chinese
 
 “Correspondence: Burmah,” _Penang Times_, 8 October 1982, 2. (Microfilm NL1990)
 
@@ -385,6 +385,3 @@ Chen Yi-Sein, “The Chinese in Rangoon during the 18th and 19th Centuries,” _
 W. Daw, “Coastal Trade Between Yangon, Penang and Singapore” in _[Chinese Diaspora Since Admiral Zheng He: With Special Reference to Maritime Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12873728)_, ed. Leo Suryadinata (Singapore: Chinese Heritage Centre and HuayiNet, 2007), 125–35. (Call no. RSING 959.004951 CHI)
 
 Wong Yee-Tuan, “The Big Five Hokkien Families in Penang, 1830s–1890s,” Chinese Southern Diaspora Studies 1 (2007): 106–15, [https://openresearch-repository.anu.edu.au/handle/1885/17848](https://openresearch-repository.anu.edu.au/handle/1885/17848).
-
-
-
