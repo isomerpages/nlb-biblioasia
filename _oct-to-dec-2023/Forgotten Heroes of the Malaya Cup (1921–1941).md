@@ -238,29 +238,29 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 | -------- | -------- | -------- |
 |24 Sep 1921:<br>2–0|Malacca|Roy Smith &amp; C.M. Jamieson|
 |19 Aug 1922:<br>3–0|Negri Sembilan|Roy Smith, C.M. Jamieson &amp; Chia Kwang Hung|
-11 Aug 1923: 4–1|Johore|Roy Smith (3) &amp; C.M. Jamieson|
-18 Aug 1923: 3–0|Malacca|Roy Smith (2) &amp; Lim Yong Liang|
-2 Aug 1924: 5–0|Negri Sembilan|Roy Smith, Yahya Yatim (2) &amp; R.C. Rogers (2)|
-24 Aug 1925: 7–1|Malacca|Roy Smith (2), Lim Yong Liang (2), Foong Un Sun (2) &amp; Cheong Chee Lim|
-29 Aug 1925: 2–1|Selangor|Roy Smith &amp; Lim Yong Liang|
-21 Aug 1926: 9–1|Negri Sembilan|Roy Smith (3), Lim Yong Liang (3), Ee Chan Hee, Wan Puteh &amp; 1 unknown|
-16 Jul 1927: 5–0|Malacca|Dolfattah (2), K.H. Macfarlane &amp; Yee Cheok Wah (2)|
-18 Aug 1928: 8–2|Negri Sembilan|Dolfattah (4), Lim Yong Liang (3) &amp; Mat Noor|
-17 Aug 1929: 5–0|Malacca|Dolfattah (5)|
-23 Aug 1929: 4–2|Johore|Dolfattah (2) &amp; Norman Fyfe (2)|
-31 Aug 1929: 2–2|Selangor|Mat Noor (2)|
-18 Jul 1930: 6–0|Johore|Dolfattah (2), Dollah Zainol (2) &amp; Syed Ahmad (2)|
-26 Jul 1930: 2–0|Negri Sembilan|ShariffMadon &amp; Yahya bin Yatim|
-20 Sep 1930: 3–0|Selangor|Dolfattah, Dollah Zainol &amp; Choy Khun Onn|
-18 Jul 1931: 3–3|Malacca|Dolfattah (2) &amp; Chia Keng Hock|
-17 Jun 1932: 7–1|Johore|Dolfattah (4), Dollah Zainol (2) &amp; John Then| 
-16 Jul 1932: 4–1|Negri Sembilan|Dolfattah (2) &amp; Dollah Zainol|
-29 Jul 1932: 2–1|Malaya Command|Mat Noor &amp; Dollah Zainol|
-23 Jun 1932: 7–1|Johore|Dolfattah (2), Chia Keng Hock (2), Mat Noor (2) &amp; Mahmood|
-8 Jul 1933: 6–0|Malacca|Dolfattah (3), Mat Noor (2) &amp; Chia Keng Hock|
-22 Jul 1933: 2–0|Malaya Command|Tay Kwee Leng &amp; Mat Noor|
-5 Aug 1933: 8–2|Selangor|Chia Keng Hock (3), Mat Noor (2), Shariff Madon (2) &amp; Dolfattah|
-29 Jun 1934: 9–0|Johore|Chia Keng Hock (4), Hoi San (2), Norman Fyfe (2) &amp; A. Donald|
+11 Aug 1923:<br>4–1|Johore|Roy Smith (3) &amp; C.M. Jamieson|
+18 Aug 1923:<br>3–0|Malacca|Roy Smith (2) &amp; Lim Yong Liang|
+2 Aug 1924:<br>5–0|Negri Sembilan|Roy Smith, Yahya Yatim (2) &amp; R.C. Rogers (2)|
+24 Aug 1925:<br>7–1|Malacca|Roy Smith (2), Lim Yong Liang (2), Foong Un Sun (2) &amp; Cheong Chee Lim|
+29 Aug 1925:<br>2–1|Selangor|Roy Smith &amp; Lim Yong Liang|
+21 Aug 1926:<br>9–1|Negri Sembilan|Roy Smith (3), Lim Yong Liang (3), Ee Chan Hee, Wan Puteh &amp; 1 unknown|
+16 Jul 1927:<br>5–0|Malacca|Dolfattah (2), K.H. Macfarlane &amp; Yee Cheok Wah (2)|
+18 Aug 1928:<br>8–2|Negri Sembilan|Dolfattah (4), Lim Yong Liang (3) &amp; Mat Noor|
+17 Aug 1929:<br>5–0|Malacca|Dolfattah (5)|
+23 Aug 1929:<br> 4–2|Johore|Dolfattah (2) &amp; Norman Fyfe (2)|
+31 Aug 1929:<br>2–2|Selangor|Mat Noor (2)|
+18 Jul 1930:<br>6–0|Johore|Dolfattah (2), Dollah Zainol (2) &amp; Syed Ahmad (2)|
+26 Jul 1930:<br>2–0|Negri Sembilan|ShariffMadon &amp; Yahya bin Yatim|
+20 Sep 1930:<br>3–0|Selangor|Dolfattah, Dollah Zainol &amp; Choy Khun Onn|
+18 Jul 1931:<br>3–3|Malacca|Dolfattah (2) &amp; Chia Keng Hock|
+17 Jun 1932:<br>7–1|Johore|Dolfattah (4), Dollah Zainol (2) &amp; John Then| 
+16 Jul 1932:<br>4–1|Negri Sembilan|Dolfattah (2) &amp; Dollah Zainol|
+29 Jul 1932:<br>2–1|Malaya Command|Mat Noor &amp; Dollah Zainol|
+23 Jun 1932:<br>7–1|Johore|Dolfattah (2), Chia Keng Hock (2), Mat Noor (2) &amp; Mahmood|
+8 Jul 1933:<br>6–0|Malacca|Dolfattah (3), Mat Noor (2) &amp; Chia Keng Hock|
+22 Jul 1933:<br>2–0|Malaya Command|Tay Kwee Leng &amp; Mat Noor|
+5 Aug 1933:<br>8–2|Selangor|Chia Keng Hock (3), Mat Noor (2), Shariff Madon (2) &amp; Dolfattah|
+29 Jun 1934:<br>9–0|Johore|Chia Keng Hock (4), Hoi San (2), Norman Fyfe (2) &amp; A. Donald|
 7 Jul 1934: 4–0|Negri Sembilan|Chia Keng Hock (4)|
 21 Jul 1934: 2–2|Malaya Command|Chia Keng Hock (2)
 21 Jun 1935: 8–0|Johore|Chia Keng Hock, Mat Noor (3), A.G. Valberg (2) &amp; Choy Khoon Onn (2)|
