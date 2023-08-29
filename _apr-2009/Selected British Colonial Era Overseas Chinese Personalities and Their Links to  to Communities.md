@@ -99,11 +99,11 @@ Many who had lost communications with their families in the mainland could also 
 
 #### **The World's Oldest Chinese Newspaper - Kwang Wah Yit Poh[^12] Ch'ng Yeen Aun (1867–1938)**[^13]
 
-He was founder and Chairman of the Rangoon and Penang Kwong Wah Yit Poh,14, one of the surviving oldest Chinese language newspapers.
+He was founder and Chairman of the Rangoon and Penang Kwong Wah Yit Poh,[^14], one of the surviving oldest Chinese language newspapers.
 
 He was born in Ouan-zhou village, Tong An County, Fujian Province, China. He migrated to Burma at the age of 18. At first, he stayed in a village in Lower Burma working as a paddy farmer. He later moved to Rangoon and set up "Chop Guan Kee", a grocery shop.
 
-In 1904 he met Kang You-wei,15 a Royalist from the Qing Court in Rangoon when Kang visited Burma. Kang persuaded him to establish a base for the "Bao Huang Hui"16 in Rangoon Chinatown.
+In 1904 he met Kang You-wei,[^15] a Royalist from the Qing Court in Rangoon when Kang visited Burma. Kang persuaded him to establish a base for the "Bao Huang Hui"[^16] in Rangoon Chinatown.
 
 In May 1905, Qin Li-shan, a Hunan-born Revolutionist, also visited Rangoon to spread the China Revolutionary ideology. Qin met with Ch'ng and exposed Kang's scheme to preserve the Qing's throne. Kang's selfish ambition was to stage a revolt against the Empress Dowager Cixi using the powerless Emperor Guangxu to assume control of the Chinese court.
 
@@ -112,11 +112,11 @@ After meeting Qin, Ch'ng abandoned the "Bao Huang Hui" and joined the Tung Meng 
 #### **Kwang Wah Yit Poh and Tung Meng Hui**
  In August 1908, Ch'ng Yeen Aun, Xu Zang-zhou and other overseas Chinese in Rangoon raised funds to set up Tung Meng Hui's political mouthpiece and called it "Kwong Wah Yit Poh", a name preserved to this very day. Ch'ng became Managing Director of the newspaper. He  was able to spread revolutionary thoughts through various articles published in the newspaper. Dr Sun Yat Sen also recommended Ju-zheng, Yang Qiu-fan and Lu Zhi-yi as principal editors to assist Ch'ng.
 
-On 20 November 1908, Tung Meng Hui Burma branch held its inaugural meeting at Rangoon. Ch'ng Yeen Aun was unanimously elected by overseas Chinese in Burma as Chairman17. Ch'ng quickly set up sub-branches in the main cities of Burma. In recognition of his active achievement Dr Sun Yat Sen personally wrote him a letter to express his delight and approval.16
+On 20 November 1908, Tung Meng Hui Burma branch held its inaugural meeting at Rangoon. Ch'ng Yeen Aun was unanimously elected by overseas Chinese in Burma as Chairman.[^17] Ch'ng quickly set up sub-branches in the main cities of Burma. In recognition of his active achievement Dr Sun Yat Sen personally wrote him a letter to express his delight and approval.[^18]
 
 The British however raised their objections to the political contents of the newspaper and the involvement of Tung Meng Hui. As a result of this, Ch'ng packed up his operations in Rangoon and moved over to Penang where the newspaper remains to this very day.
 
-#### **The Chinese Patriot and Nanyang Siang Pau19 Tan Kah Kee20 (1874–1961)**
+#### **The Chinese Patriot and Nanyang Siang Pau[^19] Tan Kah Kee[^20] (1874–1961)**
 Much had been written about Tan Kah Kee as an entrepreneur and philanthropist who played a major role in the establishing of schools and universities to educate the young. The Chinese newspapers in fact played very central roles as the means for communication in the days before the proliferation of the radio and television as seen in the case of Kwang Wah Yit Poh.
 
 Tan Kah Kee (TKK) was instrumental in the establishing of Nanyang Siang Pau, a major Chinese daily, on 6 September 1923 in Singapore. Nanyang Siang Pau reportedly became one of the most influential commercial Chinese newspapers in Southeast Asia.
@@ -127,7 +127,7 @@ In 1932, however, he lost control of Nanyang Siang Pau and the paper was acquire
 
 #### **Early Days and the Setting Up of Business Enterprises**
   
-In 1890, at the age of 17, TKK came to Singapore and worked at Chop Soon An,21 a sundry shop and rice trading firm, owned by his father. He learned the trade and ventured out on his own when he was 30 years old.
+In 1890, at the age of 17, TKK came to Singapore and worked at Chop Soon An,[^21] a sundry shop and rice trading firm, owned by his father. He learned the trade and ventured out on his own when he was 30 years old.
 
 During the time when he worked at Chop Soon An, his father taught him the rice importing trade. Rangoon, during the British Burma administration, was known as the "Rice Bowl of Asia" and rice grown there was exported to Singapore via Penang which was also under the British administration. He later diversified his operations further into pineapple and rubber.
 
@@ -144,17 +144,17 @@ Through Nanyang Siang Pau and his business enterprises, TKK displayed his Chines
 
 However, he was disillusioned with the rampant corruptions within the ranks of the Chiang Kai-shek movement. He later switched camp to support Mao Tzu-Tung's Chinese Communists Party.
 
-TKK was a man who would not give up without a good fight. He loved literature and he understood the strength of the media and the written word. During the period 1946 - 1959, after losing control of Nanyang Siang Pau, he took control of Nam Kew Poo (*REM) and developed the paper into an equally influential media. He reportedly wrote many of the articles in Nam Kew Poo to pursue his political campaigns against Chiang Kai-shek.
+TKK was a man who would not give up without a good fight. He loved literature and he understood the strength of the media and the written word. During the period 1946–1959, after losing control of Nanyang Siang Pau, he took control of Nam Kew Poo (*REM) and developed the paper into an equally influential media. He reportedly wrote many of the articles in Nam Kew Poo to pursue his political campaigns against Chiang Kai-shek.
 
 Among the many articles he wrote in Nam Kew Poo, were famous headline articles: in chinese.	
 
-He was relentless in his efforts to establish links with the overseas Chinese. For about nine months in 1940, he led the China Comfort Team from Nanyang and travelled throughout mainland China visiting no less than 15 provinces. The China Comfort Team was from the China'Comfort Mission, which comforted the wounded and assessed the war conditions in China. Its leader Tan Kah Kee represented both the Singapore and the Southseas China Relief Funds. Among the other regions he travelled to were Mandalay and Rangoon in Burma, which was at the Yunnan border. The Chinese communities in Burma warmly welcomed him. He was reportedly a very charismatic speaker who could captivate an audience for more than three hours.
+He was relentless in his efforts to establish links with the overseas Chinese. For about nine months in 1940, he led the China Comfort Team from Nanyang and travelled throughout mainland China visiting no less than 15 provinces. The China Comfort Team was from the China Comfort Mission, which comforted the wounded and assessed the war conditions in China. Its leader Tan Kah Kee represented both the Singapore and the Southseas China Relief Funds. Among the other regions he travelled to were Mandalay and Rangoon in Burma, which was at the Yunnan border. The Chinese communities in Burma warmly welcomed him. He was reportedly a very charismatic speaker who could captivate an audience for more than three hours.
 
 It was reported that on 22 December 1940, when he was in Penang, he met up with Wu Tie Cheng, a special envoy of the Kuomingtang Government, whose mission was to dissuade TKK from the Chinese Communist ideology. He firmly held his ground.
 
 On 30 March 1941, TKK presented a reportedly powerful public talk at the Second Nanyang Cities Representatives Meeting attended by the Singapore and Malaya overseas Chinese communities. The speech was published in the Chinese newspaper (chinese newspaper) in Penang.
 
-During the Second Sino-Japanese War (7 July 1937–9 September 1945), TKK was regarded as one of the prominent ethnic Chinese Malayans who provided financial support for the Chinese resistance efforts in the mainland. He organised many relief funds under his name and that made him a target sought by the Japanese. When the Japanese landed in Singapore he fled to Java, Indonesia. There, he was protected and housed by many friends and past business associates and their families. While he was in Java he penned his two-volume autobiography, "Nan-qiao-hui-yi-lu".22
+During the Second Sino-Japanese War (7 July 1937–9 September 1945), TKK was regarded as one of the prominent ethnic Chinese Malayans who provided financial support for the Chinese resistance efforts in the mainland. He organised many relief funds under his name and that made him a target sought by the Japanese. When the Japanese landed in Singapore he fled to Java, Indonesia. There, he was protected and housed by many friends and past business associates and their families. While he was in Java he penned his two-volume autobiography, "Nan-qiao-hui-yi-lu".[^22]
 
 TKK's most famous charitable work was founding Xiamen University, which he privately funded until 1936. His grandchildren commented that he left no inheritance for them and even took out personal loans to fund the operations of the university for 16 years, an act of sacrifice that is recognised and honoured even to this very day.
 
@@ -167,15 +167,15 @@ Banks eliminated the risks of losing some hard-earned monies to robbers if the t
 
 From the seat of government of the British Crown Colony in Rangoon, several banks were formed. Some of the names of banks remain to this very day but others were merged, bankrupted and driven out of business.
 
-#### **Entering Businessman, Banker, Patriotic Chinese and Philanthropist Tan Ean Kiam23 (1881–1943)**
+#### **Entering Businessman, Banker, Patriotic Chinese and Philanthropist Tan Ean Kiam[^23] (1881–1943)**
 Born in China's Tong-An County, Fujian Province in 1881, Tan Ean Kiam came to Singapore with his father when he was 18 years old. He started out as a general worker and later ventured into business on his own. He became a successful businessman and merchant, and later as one of the first managing directors of the Oversea-Chinese Banking Corporation Limited (OCBC), currently Singapore's third largest bank that is publicly listed on the Singapore Exchange.
 
 #### **The Businessman and Banker**
 In 1908, Tan Ean Kiam set up Chop Joo Guan where he traded in rubber commodities which became very highly priced because transportation became difficult in World War I. His rubber trade became lucrative, providing him with handsome profits.
 
-With the money he made from rubber, on 28 June1919, he formed the Oversea-Chinese Bank Limited (OCBC),24 one of the component banks of today's OCBC, with Oei Tiong Ham25, then known as "Sugar King" of Java, who subscribed a total of $1,000,000 (Straits Dollars) as the starting capital.
+With the money he made from rubber, on 28 June1919, he formed the Oversea-Chinese Bank Limited (OCBC),[^24] one of the component banks of today's OCBC, with Oei Tiong Ham,[^25] then known as "Sugar King" of Java, who subscribed a total of $1,000,000 (Straits Dollars) as the starting capital.
 
-The bank unexpectedly fell short of liquid cash and so, to increase their capital, Tan Ean Kiam26 and Ang Boon Kim, another smaller shareholder and employee of OCB, travelled to Penang and Rangoon to seek more funds to support the bank's working capital.27 
+The bank unexpectedly fell short of liquid cash and so, to increase their capital, Tan Ean Kiam[^26] and Ang Boon Kim, another smaller shareholder and employee of OCB, travelled to Penang and Rangoon to seek more funds to support the bank's working capital.[^27] 
 
 To their surprise, it was the Chinese traders in Rangoon Burma, which was then under the British rule, who were most enthusiastic about investing in a bank. They reportedly subscribed large amounts of funds thus saving the bank from liquidation. Rangoon was no strange place to Ean Kiam; he was there in 1896 with his father and he knew the potential of the place.
 
@@ -183,15 +183,15 @@ After returning to Singapore with the funds to capitalise the bank, he proceeded
 
 Two years later in 1921, The Oversea Assurance Company Limited, the insurance arm of the bank, was formed with the same board of directors and its branches were located at the same addresses in Rangoon and Penang.
 
-However, on 31 October 1932 the world went into deep economic depression. OCBC merged with Ho Hong Bank and the Chinese Commercial Bank to form OCBC. To recognise the efforts that Tan Ean Kiam had contributed towards the formation of the bank, he was made its first joint managing director together with Yap Twee who later retired in 1933 leaving behind Tan as the sole managing director (1934–1941).28
+However, on 31 October 1932 the world went into deep economic depression. OCBC merged with Ho Hong Bank and the Chinese Commercial Bank to form OCBC. To recognise the efforts that Tan Ean Kiam had contributed towards the formation of the bank, he was made its first joint managing director together with Yap Twee who later retired in 1933 leaving behind Tan as the sole managing director (1934–1941).[^28]
 
-OCBC had its branch in Penang in 1912. The bank is located on the main street of the banking district and easily recognised by its marble facade. OCBC was in operation in Penang from the day of the merger with the Ho Hong Bank, the Oversea- Chinese Commercial Bank in 1932.29
+OCBC had its branch in Penang in 1912. The bank is located on the main street of the banking district and easily recognised by its marble facade. OCBC was in operation in Penang from the day of the merger with the Ho Hong Bank, the Oversea- Chinese Commercial Bank in 1932.[^29]
 
 #### **The Patriotic Chinese**
 
 In 1916, Ean Kiam became a member of the Singapore branch of Tung Meng Hui, the nationalists' revolutionary movement of Dr Sun Yat Sen. As a successful businessman, he was able to donate financially to support the organisation. He was also reported to be instrumental in the acquisition of the land and property for the construction of the Wan Qing Villa which later became the Tung Meng Hui Singapore base.
 
-When Yuan Shikai30 proclaimed himself Emperor in 1916, despite universal objections especially from the Tung Meng Hui members, he donated towards the "Yuan Shikai Bei Fa" war campaign to overthrow Yuan Shikai.
+When Yuan Shikai[^30] proclaimed himself Emperor in 1916, despite universal objections especially from the Tung Meng Hui members, he donated towards the "Yuan Shikai Bei Fa" war campaign to overthrow Yuan Shikai.
 
 #### **The Philanthropist**
 Ever mindful of his role in society, Tan contributed generously to many charities. When he passed away in 1943, he left behind a large sum of money and properties from which he willed the future earnings to be used for charity.
@@ -206,7 +206,7 @@ Among other donations, it was reported that 80% of the rental income generated f
 -	Tan Ean Kiam Kiam Service-Learning Resource Centre
 
 #### **The "Rags To Riches" Banker and The First Open University of Malaysia** 
-#### **Yeap Chor Ee31 (1867–1951)**
+#### **Yeap Chor Ee[^32] (1867–1951)**
 Wawasan Open University, the first open university of Malaysia located in Penang, which opened its doors in 2007, was made possible because of a bequest by the late "towkay" Yeap Chor Ee.
 
 At the age of 17, Yeap migrated from China with nothing more than the clothes he wore. Through sheer hard work, diligence and wise investment decisions over a period of about 50 years, he built his financial empire and provided for his descendents. The Wawasan Open University is a vibrant monument to Yeap Chor Ee's benevolence in the cause of providing education for the youth of the land from where he had made his fortune.
@@ -218,12 +218,12 @@ By a serendipitous meeting, he got to know Goh Teik Ji, who became his benefacto
 
 When World War I broke out, the price of sugar, which is an essential commodity, rose as a result of the disruption in the transportation services. Yeap's shop naturally became the exclusive dealer for sugar and thus began his journey into prosperity.
 
-#### **Ban Hin Lee Bank (BHLB)32**
-From the profits of the sugar deals, he invested in some other ventures, including tin smelting and rice trading33. In 1918, he also set up a remittance and foreign exchange business at his shop through a banking account with then Hong Kong and Shanghai Bank of Malaya in Penang. The business helped to seed the founding of BHLB, the first overseas Chinese commercial bank in Penang, Malaysia in 1935.34 
+#### **Ban Hin Lee Bank (BHLB)**[^32]
+From the profits of the sugar deals, he invested in some other ventures, including tin smelting and rice trading.[^33] In 1918, he also set up a remittance and foreign exchange business at his shop through a banking account with then Hong Kong and Shanghai Bank of Malaya in Penang. The business helped to seed the founding of BHLB, the first overseas Chinese commercial bank in Penang, Malaysia in 1935.[^34] 
 
 BHLB indeed remained "the one and only Penang-based Chinese bank" for the next 70 years. Its landmark building, built in 1934, was designed by Ung Ban Hoe, the first Chinese architect, who was then practising with Stark &amp; MacNeill, a British architect firm in then British Malaya.
 
-BHLB had an original branch office building in Singapore along Upper Circular Road35. It was strategically located near the OCBC building in Chulia Street and the United Overseas Bank building along the Bonham Street. It had other branches in Sabah and Sarawak, East Malaysia. Yeap Chor Ee's marketing strategies at BHLB is reportedly used by May Bank and OCBC.36 
+BHLB had an original branch office building in Singapore along Upper Circular Road.[^35] It was strategically located near the OCBC building in Chulia Street and the United Overseas Bank building along the Bonham Street. It had other branches in Sabah and Sarawak, East Malaysia. Yeap Chor Ee's marketing strategies at BHLB is reportedly used by May Bank and OCBC.[^36] 
 
 The bank has since undergone several mergers and is now part of the Bumiputra Commerce Holdings Berhad, the second largest banking group in Malaysia trading under the name of the Commerce International Merchant Bankers (CIMB Bank). By the time the merger took place, BHLB group had diversified into investments and property holdings and developments. The business is now managed by Stephen Yeap Leong Huat, his grandson.
 
@@ -231,7 +231,7 @@ The bank has since undergone several mergers and is now part of the Bumiputra Co
 
 omestead, a grand mansion sited on a large piece of richly endowed open land, was designed by renowned British architect, James Stark of Stark &amp; McNeil in 1919. It was originally built for Lim Mah Chye, an overseas Chinese merchant during that time. Lim Chin Guan, the son of Lim Mah Chye, reportedly controlled the Eastern Shipping Company in 1918 and according to historical records, the shipping company, which was formed in 1907, owned about 40 sailing ships.
 
-The mansion was later acquired by BHLB and it became the home of Yeap Chor Ee and his descendants. In accordance with his will, his grandson, Datuk Stephen Yeap Leong Huat, recently handed the property over to the Ministry of Education for Wawasan Open University to commence its operations.37 
+The mansion was later acquired by BHLB and it became the home of Yeap Chor Ee and his descendants. In accordance with his will, his grandson, Datuk Stephen Yeap Leong Huat, recently handed the property over to the Ministry of Education for Wawasan Open University to commence its operations.[^37] 
 
 The 30,000 square feet Homestead mansion, which sits on a prime 1.44 ha site, houses the campus chancellery, administration office and the new building behind houses lecture theatres.
 
@@ -240,13 +240,13 @@ A 2.4 metres high bronze statue of Yeap Chor Ee was placed at the front entrance
 #### **Other Legacies**
 In 1924, the Yap Kongsi building, designed by Chew Eng Earn, a Straits-born Chinese architect, was built on a piece of land donated by Yeap Chor Ee. The building and the Yap Temple are dedicated to the Yap Fujian clan ancestries and their patron deities.
 
-Jalan Yeap Chor Ee or Yeap Chor Ee Road in Penang was named after his death to remember and honour his contributions. The Yeap Chor Ee Charitable &amp; Endowment Trust was established in1941, and in 1952 the Yeap Chor Ee Endowment Trust was set up.38 
+Jalan Yeap Chor Ee or Yeap Chor Ee Road in Penang was named after his death to remember and honour his contributions. The Yeap Chor Ee Charitable &amp; Endowment Trust was established in1941, and in 1952 the Yeap Chor Ee Endowment Trust was set up.[^38] 
 
 In Rangoon (Yangon), Burma, Yeap Yan Bin, the son of Yeap Swee Tong who was Yeap Chor Ee's nephew, built the three-storey building which is located at 372 Strand Road, Rangoon Chinatown. When Swee Tong's father died, Yeap Chor Ee became the guardian. He taught them to trade and supported them financially in business.
 
-Swee Tong's younger brother Yeap Swee Ah39 conducted rice exports from rice mills owned by Yeap Chor Ee. These were located in Wa-ke-ma Town, in the Irrawaddy Delta. During the period of the Japanese occupation, the Yeap siblings in Rangoon exported rice to Penang and Singapore on board Chinese junks owned by Yeap Chor Ee, who was appointed as provisions supplier for the Japanese military which had occupied Singapore.40 
+Swee Tong's younger brother Yeap Swee Ah[^39] conducted rice exports from rice mills owned by Yeap Chor Ee. These were located in Wa-ke-ma Town, in the Irrawaddy Delta. During the period of the Japanese occupation, the Yeap siblings in Rangoon exported rice to Penang and Singapore on board Chinese junks owned by Yeap Chor Ee, who was appointed as provisions supplier for the Japanese military which had occupied Singapore.[^40] 
 
-When Yan Bin took over Ban Lee Heng41 in Rangoon (a firm with similar sounding name to Ban Hin Lee) he started importing "two fish" brand of cooking oil and other commodities from Singapore. Although the property is still occupied by Swee Tong's grandchildren, Yeap Chor Ee's tablet and photographs are still placed and honoured in this property.
+When Yan Bin took over Ban Lee Heng[^41] in Rangoon (a firm with similar sounding name to Ban Hin Lee) he started importing "two fish" brand of cooking oil and other commodities from Singapore. Although the property is still occupied by Swee Tong's grandchildren, Yeap Chor Ee's tablet and photographs are still placed and honoured in this property.
 
 #### **Conclusion**
 What can we learn from these Chinese personalities? Firstly, they knew no fear when they set out from their familiar home ground. They were instinctively driven from comfortable surroundings to search for new frontiers in their hunger for success or desire to seek new riches. Secondly, for those who had already achieved success or accumulated riches, their home ground became too small for their entrepreneurial ambitions. They needed new trophies to add to their treasure chest. Thirdly, there were those ousted by circumstances beyond their control. They had to find new grounds to write their success stories for future generations. Finally, there were the glimpses of riches unknown to them. There is a certain mystery as to where the characters described here would have wanted to explore by choice, but by chance they were driven from their comfort zones by circumstances beyond their control.
