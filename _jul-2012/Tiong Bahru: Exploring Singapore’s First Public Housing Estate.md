@@ -84,7 +84,7 @@ From the early 2000s, Tiong Bahru began to attract a new generation of residents
 
 In late 2002, the Urban Redevelopment Authority (URA) held a public consultation and exhibition of sites proposed for conservation. Tiong Bahru was not part of this exhibition, but was later included after a public show of support for the estate.[^22] In 2003, 20 blocks of prewar SIT flats were granted conservation status by the URA, which meant that changes to the building structures were restricted by URA guidelines. From the late 1990s and into the 2000s, both pre- and postwar SIT flats were highly sought after by home buyers, and property prices rose to some of the highest in Singapore.[^23]
 
-<img src="/images/Vol%208%20issue%202/Tiong%20Bahru/image027.jpg" style="width:50%;">
+<img src="/images/Vol%208%20issue%202/Tiong%20Bahru/image027.jpg" style="width:30%;">
 <div style="background-color: white;">National Day Parade at Tiong Bahru, 1975.<i> National Archives of Singapore.</i></div>
 
 Two blocks of conservation flats were developed by Chinese firm Hang Huo Enterprise into the $45 million Link Hotel, a budget boutique hotel that was completed in 2007. The Link was joined by Hotel Nostalgia in 2009 and Wangz Hotel in 2010, giving Tiong Bahru the feel of a boutique hotel enclave.
