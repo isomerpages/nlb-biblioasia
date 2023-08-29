@@ -49,6 +49,9 @@ The shipping industry helped to fuel the growth of commerce and communications, 
 #### **The Burmese Overseas - Chinese Shipping Tycoon Lim Chin Tsong (1867–1923)**[^4]
 Lim Chin Tsong (LCT), a Rangoon-born Chinese merchant, became an important intermediary of the Burmah Oil Company.[^5]
 
+<img src="/images/Vol%205%20Issue%201/BritishColonial/lim%20chin%20tsong.jpg" style="width:50%;">
+ <div style="background-color: white;">Lim Chin Tsong and his wife, Tan Gwat Tean, in Colombo, Sri Lanka 1920. <i>Courtesy of Davey Lim. Burmah Oil Company Limited. </i></div>
+
 His father, Lim Si Xing, a rice merchant, came from Tong An County in Fujian Province, China, in 1861 and settled in Rangoon. When conducting businesses with the British and Europeans, due to a lack of understanding in the English language, the elder Lim found himself handicapped. He therefore sent his son to St. Paul's College, then a premier English school in Rangoon. It was this education that laid the foundation for LCT and equipped him in his later years.
 
 LCT operated his business from an office in China Street, Rangoon.[^6] He had a network of oil distributors which extended throughout British Burma.
