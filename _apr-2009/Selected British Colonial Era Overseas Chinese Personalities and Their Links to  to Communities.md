@@ -253,3 +253,138 @@ What can we learn from these Chinese personalities? Firstly, they knew no fear w
 
 ***The author wishes to acknowledge the contributions of Dr Helen Reid, retired researcher in reviewing the paper.***
 
+<div>
+<center><b>Daw Win</b><br>Lee Kong Chian Research Fellow<br> National Library </center></div>
+
+#### **REFERENCES**
+
+**CHINESE BOOKS**
+
+1 In Chinese
+
+Chen Jianhong and Huang Xianqiang 陈剑虹 and 黄贤强, _Binlangyu Hua ren yan jiu_ [槟榔屿华人研究](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12665134) \[Penang Chinese Studies\] (Xinjia o 新加坡: Han jiang xue yuan Hua ren wen hua guan, Xinjiapo guo li da xue zhong wen xi 韩江学院华人文化馆, 新加坡国立大学中文系, 2005 ). (Call no. Chinese RCO 959.5004951 BLY)
+
+Chen Weilong 陈维龙, _Xin Ma zhu ce shang ye yin hang_ [新马注册商业银行](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84454427) \[Registered Commercial Bank in Singapore and Malaysia\] (Xinjiapo 新加坡: Shi jie shu ju 世界书局, 1975). (Call no. Chinese RSING 332.12095957 CWL)
+
+Cui Guiqiang 崔贵强, _Xinjiapo Hua ren: cong kai bu dao jian guo_ [新加坡华人: 从开埠到建国](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84452427) \[The Chinese in Singapore: Past and present\] (Xinjiapo 新加坡: Xinjiapo zong xiang hui guan lian he zong hui, jiao yu chu ban gong si lian he chu ban 新加坡宗乡会馆联合总会, 教育出版公司联合出版, 1994) (Call no. Chinese RSING 959.57004951 CGQ)
+
+5 In Chinese
+
+Fang Xiongpu 方雄普, _Zhu bo san ji: mian dian hua ren she hui lx''ue ying_ [朱波散记: 缅甸华人社会掠影](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10270263) \[The Sanji of Zhu Bo: A Snapshot of the Burmese Chinese Society\] (Xiang gang 香港: Nan dao chu ban she南岛出版社, 2000). (Call no. Chinese RCO 305.89510591 FXP)
+
+7 In Chinese
+
+Yang Baojun 杨保筠, _Hua qiao Hua ren bai ke quan shu_ [华侨华人百科全书](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10293630) \[Overseas Chinese Encyclopedia\] (Beijing 北京: Zhongguo Hua qiao chu ban she 中国华侨出版社, 2001). (Call no. Chinese RCO 909.04951 ENC)
+
+9 In Chinese
+
+10 In Chinese
+
+Song Wangxiang 宋旺相, _Xinjiapo Hua ren bai nian shi_ [新加坡华人百年史](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84519484) \[Centennial history of the Chinese in Singapore\] (Xinjiapo 新加坡: Xinjiapo Zhonghua zong shang hui 新加坡中华总商会, 1993). (Call no. Chinese RCO 959.57004951 SOS)
+
+12 In Chinese
+
+13 In Chinese
+
+**CHINESE BOOKS ON TAN KAH KEE**
+
+14 In Chinese
+
+15 In Chinese
+
+All-China Federation of Returned Overseas Chinese, co-edited by Fujian Provincial Committee of the Chinese People's Political Consultative Conference 中华全国归国华侨联合会, 福建省政协合编, _Hui yi Chen Jiageng: ji nian Chen Jiageng xian sheng dan chen yi bai yi shi zhou nian_ [回忆陈嘉庚: 纪念陈嘉庚先生诞辰一百一十周年](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84561833) \[Memories of Tan Kah Kee: Commemorating the 110th Anniversary of Mr. Tan Kah Kee's Birth\] (Beijing 北京: Wen shi zi liao chu ban she 文史资料出版社, 1984). (Call no. Chinese RCO 959.5702092 HYC)
+
+CPPCC Cultural and Historical Materials Research Committee 全国政协文史资料研究委员会 et al., _Chen Jiageng: Chen Jiageng xian sheng dan chen yi bai yi shi zhou nian ji nian_ [陈嘉庚: 陈嘉庚先生诞辰一百一十周年纪念](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13043890) \[Tan Kah Kee : The 110th Anniversary of Mr. Tan Kah Kee's Birth\] (Beijing 北京: Wen shi zi liao chu ban she 文史资料出版社, 1984). (Call no. Chinese RSING 959.57020924 TKK.C)
+
+Chen Bi Sheng 陈碧笙, _Chen jia geng nian pu_ [陈嘉庚年谱](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84540433) \[Chronicle of Tan Kah Kee\] (Fu zhou 福州: Fu jian ren min chu ban she 福建人民出版社, 1986). (Call no. Chinese RSEA 959.57020924 CBS)
+
+Yang Jin Fa 杨进发, _Chen jia geng yan jiu wen ji_ [陈嘉庚研究文集](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444628) \[Collected papers on the studies of Chen Jia Geng\] (Bei jing 北京: Zhong guo you yi chu ban gong si 中国友谊出版公司, 1988). (Call no. Chinese RCO 959.57020924 YCF)
+
+20 In Chinese
+
+21 In Chinese
+
+22 In Chinese
+
+23 In Chinese
+
+24 In Chinese
+
+**YA YIN KWAN COLLECTION (In Chinese)**
+
+Chen Yusong 陈育崧, _Ye yin guan wen cun_ [椰阴馆文存](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84496634) \[Coconut Yin Pavilion Wencun\] (Xinjiapo 新加坡: Nan yang xue hui 南洋学会, 1983). (Call no. Chinese RCO 959.008 TYS)
+
+Zeng Kenian 曾克念, _Jin xiu Miandian_ [锦绣缅甸](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84510518) \[Splendid Myanmar\] (Yangguang 仰光: Nan yang shu ju, Minguo 29南洋书局 民国29, \[1940\]). (Call no. Chinese RDTY 959.1 TKN)
+
+_Nanyang wen hua_ [南洋文化](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84453009) \[Nanyang culture\] (Xinjiapo 新加坡: \[Publisher not identified\] \[出版社缺\], 1940). (Call no. RDTY 959 SCJ)
+
+**CHINESE NEWSPAPERS**
+
+28 In Chinese
+
+29 In Chinese
+
+30 In Chinese
+
+31 In Chinese
+
+32 In Chinese
+
+**SOURCES ON MICROFILM**
+
+33 In Chinese
+
+“Correspondence: Burmah,” _Penang Times_, 8 October 1982, 2. (Microfilm NL1990)
+
+“Shipping Advertisement: Bibby Line,” _Singapore Free Press_, 13 November 1920, 8. (Microfilm NL1653)
+
+“Shipping Advertisement: P &amp; 0 British India Apcar Line,” _Singapore Free Press_, 11 June 1921, 8. (Microfilm NL1657)
+
+“The Colony's Affairs in 1930, Annual Review,” _Singapore Free Press_, 1 October 1930, 221–3. (Microfilm NL1993)
+
+“[Page 1 Advertisements Column 1: Burmah &amp; The Straits – The Leading Hotel](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19070702-1.2.2.1),” _Straits Times_, 2 July 1907, 1. (From NewspaperSG)
+
+“[New Ho Hong Liner](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250212-1.2.75),” _Straits Times_, 2 February 1925, 10. (From NewspaperSG)
+
+“List of the Principal Chinese Names in Penang” in _The Singapore and Malayan Directory_ (Singapore: Printed at the Mission Press, 1920), 313–5. (Call no.&nbsp; RRARE 382.09595 STR; microfilm 1190)
+
+“Giong Ho Co. Singapore Merchants &amp; Professions” in _The Singapore and Malayan Directory_ (Singapore: Printed at the Mission Press, 1920), 174. (Call no.&nbsp; RRARE 382.09595 STR; microfilm 1190)
+
+“The Overseas Assurance Corporation Limited” in _The Singapore and Malayan Directory_ (Singapore: Fraser &amp; Neave, 1924), 174. (Call no.&nbsp; RRARE 382.09595 STR; microfilm 1193)
+
+Arnold Wright and H. A Cartwright, _[Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591)_ (London: Lloyd's Greater Britain Pub., 1908). (Call no. RCLOS 959.51033 TWE; microfilm NL16084)
+
+John Crawfurd, _[Journal of an Embassy From the Governor-General of India to the Court of Ava, in the Year 1829](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4271209)_ (London: Published for H. Colbrun by R. Bentley, 1834). (Call no. RRARE 959.1 CRA; microfilm NL8341)
+
+Victor Purcell, _[The Chinese in Modern Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078513)_, 2nd ed. (Singapore: D. Moore, 1960). (Call no. RCLOS 325.25109595 PUR; microfilm NL11926)
+
+**BOOKS**
+
+Arnold Wright, _Twentieth Century Impressions of Burma. Its History, People, Commerce, Industries and Resources_ (London: Lloyd's Greater Britain Publishing Company, 1910)
+
+B. R. Pearn, _[A History of Rangoon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=537060)_ (UK: Farnborough, Gregg, 1971). (Call no. RCLOS q959.1 PEA)
+
+Donald Davies, _[Old Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5278260)_ (Singapore: D, Moore, 1954). (Call no. RSING 959.51 DAV)
+
+Noel F. Singer, _[Old Rangoon: City of the Shwedagon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7472566)_ (Scotland: Paul Stachan - Kiscadale, 1995). (Call no. RSEA 959.1 SIN)
+
+Sangermano, _[The Burmese Empire a Hundred Years Ago](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10901038)_ (Bangkok: White Orchid Press, 1995). (Call no. RSEA 959.3 CRA)
+
+Song Ong Siang, _[One Hundred Years’ History of Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287)_ (Singapore: Oxford University Press, 1984). (Call no. RSING 959.57 SON)
+
+Sarnia Hayes Hoyt, _[Old Penang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6093717)_ (Singapore: Oxford University Press, 1991). (Call no. RSING 959.511)
+
+Victor Purcell, _[South and East Asia Since1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2253671)_ (Cambridge: Cambridge University Press, 1965). (Call no. RSEA 950.4 PUR)
+
+**PAPERS**
+
+A.J.H. Latham, “From Competition to Constraint: The International Rice Trade in the Nineteenth and Twentieth Centuries,” _Business and Economic History_ 17 (1988): 91–102. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Chen Yi-Sein, “The Chinese in Rangoon during the 18th and 19th Centuries,” _Artibus Asiae. Supplementum_ 23 (1966): 107–11. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+W. Daw, “Coastal Trade Between Yangon, Penang and Singapore” in _[Chinese Diaspora Since Admiral Zheng He: With Special Reference to Maritime Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12873728)_, ed. Leo Suryadinata (Singapore: Chinese Heritage Centre and HuayiNet, 2007), 125–35. (Call no. RSING 959.004951 CHI)
+
+Wong Yee-Tuan, “The Big Five Hokkien Families in Penang, 1830s–1890s,” Chinese Southern Diaspora Studies 1 (2007): 106–15, [https://openresearch-repository.anu.edu.au/handle/1885/17848](https://openresearch-repository.anu.edu.au/handle/1885/17848).
+
+
+
