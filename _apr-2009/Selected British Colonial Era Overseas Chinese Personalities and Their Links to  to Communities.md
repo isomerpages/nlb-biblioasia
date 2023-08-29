@@ -206,7 +206,7 @@ Among other donations, it was reported that 80% of the rental income generated f
 -	Tan Ean Kiam Kiam Service-Learning Resource Centre
 
 #### **The "Rags To Riches" Banker and The First Open University of Malaysia** 
-#### **Yeap Chor Ee[^32] (1867–1951)**
+#### **Yeap Chor Ee[^31] (1867–1951)**
 Wawasan Open University, the first open university of Malaysia located in Penang, which opened its doors in 2007, was made possible because of a bequest by the late "towkay" Yeap Chor Ee.
 
 At the age of 17, Yeap migrated from China with nothing more than the clothes he wore. Through sheer hard work, diligence and wise investment decisions over a period of about 50 years, he built his financial empire and provided for his descendents. The Wawasan Open University is a vibrant monument to Yeap Chor Ee's benevolence in the cause of providing education for the youth of the land from where he had made his fortune.
@@ -218,7 +218,7 @@ By a serendipitous meeting, he got to know Goh Teik Ji, who became his benefacto
 
 When World War I broke out, the price of sugar, which is an essential commodity, rose as a result of the disruption in the transportation services. Yeap's shop naturally became the exclusive dealer for sugar and thus began his journey into prosperity.
 
-#### **Ban Hin Lee Bank (BHLB)** [^32]
+#### **Ban Hin Lee Bank (BHLB)**[^32]
 From the profits of the sugar deals, he invested in some other ventures, including tin smelting and rice trading.[^33] In 1918, he also set up a remittance and foreign exchange business at his shop through a banking account with then Hong Kong and Shanghai Bank of Malaya in Penang. The business helped to seed the founding of BHLB, the first overseas Chinese commercial bank in Penang, Malaysia in 1935.[^34] 
 
 BHLB indeed remained "the one and only Penang-based Chinese bank" for the next 70 years. Its landmark building, built in 1934, was designed by Ung Ban Hoe, the first Chinese architect, who was then practising with Stark &amp; MacNeill, a British architect firm in then British Malaya.
