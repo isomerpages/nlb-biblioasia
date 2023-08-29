@@ -118,15 +118,18 @@ In May 1905, Qin Li-shan, a Hunan-born Revolutionist, also visited Rangoon to sp
 
 After meeting Qin, Ch'ng abandoned the "Bao Huang Hui" and joined the Tung Meng Hui in Rangoon.
  
-#### **Kwang Wah Yit Poh and Tung Meng Hui**
- In August 1908, Ch'ng Yeen Aun, Xu Zang-zhou and other overseas Chinese in Rangoon raised funds to set up Tung Meng Hui's political mouthpiece and called it "Kwong Wah Yit Poh", a name preserved to this very day. Ch'ng became Managing Director of the newspaper. He  was able to spread revolutionary thoughts through various articles published in the newspaper. Dr Sun Yat Sen also recommended Ju-zheng, Yang Qiu-fan and Lu Zhi-yi as principal editors to assist Ch'ng.
+#### **Kwang Wah Jit Poh and Tung Meng Hui**
+ In August 1908, Ch'ng Yeen Aun, Xu Zang-zhou and other overseas Chinese in Rangoon raised funds to set up Tung Meng Hui's political mouthpiece and called it "Kwong Wah Jit Poh", a name preserved to this very day. Ch'ng became Managing Director of the newspaper. He  was able to spread revolutionary thoughts through various articles published in the newspaper. Dr Sun Yat Sen also recommended Ju-zheng, Yang Qiu-fan and Lu Zhi-yi as principal editors to assist Ch'ng.
 
 On 20 November 1908, Tung Meng Hui Burma branch held its inaugural meeting at Rangoon. Ch'ng Yeen Aun was unanimously elected by overseas Chinese in Burma as Chairman.[^17] Ch'ng quickly set up sub-branches in the main cities of Burma. In recognition of his active achievement Dr Sun Yat Sen personally wrote him a letter to express his delight and approval.[^18]
 
 The British however raised their objections to the political contents of the newspaper and the involvement of Tung Meng Hui. As a result of this, Ch'ng packed up his operations in Rangoon and moved over to Penang where the newspaper remains to this very day.
 
 #### **The Chinese Patriot and Nanyang Siang Pau[^19] Tan Kah Kee[^20] (1874–1961)**
-Much had been written about Tan Kah Kee as an entrepreneur and philanthropist who played a major role in the establishing of schools and universities to educate the young. The Chinese newspapers in fact played very central roles as the means for communication in the days before the proliferation of the radio and television as seen in the case of Kwang Wah Yit Poh.
+Much had been written about Tan Kah Kee as an entrepreneur and philanthropist who played a major role in the establishing of schools and universities to educate the young. The Chinese newspapers in fact played very central roles as the means for communication in the days before the proliferation of the radio and television as seen in the case of Kwang Wah Jit Poh.
+
+<img src="/images/Vol%205%20Issue%201/BritishColonial/tkk%201949-beijing.jpg" style="width:50%;">
+ <div style="background-color: white;">Tan Kah Kee was invited by Mao Zhe Dong to attend the first China National Day Celebration. <i> Courtesy of Tan Swee Hoon.</i></div>
 
 Tan Kah Kee (TKK) was instrumental in the establishing of Nanyang Siang Pau, a major Chinese daily, on 6 September 1923 in Singapore. Nanyang Siang Pau reportedly became one of the most influential commercial Chinese newspapers in Southeast Asia.
 
