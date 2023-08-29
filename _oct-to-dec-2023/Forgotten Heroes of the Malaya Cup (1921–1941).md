@@ -131,7 +131,7 @@ One of Choo’s greatest achievements was guiding Singapore to win the Malaysia 
 
 #### **Chua Boon Lay**
 
-<img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chuaboonlay.jpg">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chuaboonlay_cropped.jpg">
 <div style="background-color: white;text-align:center">Chua Boon Lay. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan
 	Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
