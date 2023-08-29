@@ -182,7 +182,11 @@ Banks eliminated the risks of losing some hard-earned monies to robbers if the t
 
 From the seat of government of the British Crown Colony in Rangoon, several banks were formed. Some of the names of banks remain to this very day but others were merged, bankrupted and driven out of business.
 
-#### **Entering Businessman, Banker, Patriotic Chinese and Philanthropist Tan Ean Kiam[^23] (1881–1943)**
+#### **Enterprising Businessman, Banker, Patriotic Chinese and Philanthropist Tan Ean Kiam[^23] (1881–1943)**
+
+<img src="/images/Vol%205%20Issue%201/BritishColonial/photo-tan%20ean%20kiam.jpg" style="width:50%;">
+ <div style="background-color: white;">Tan Ean Kiam. <i>Courtesy of Berita OCBC.</i></div>
+
 Born in China's Tong-An County, Fujian Province in 1881, Tan Ean Kiam came to Singapore with his father when he was 18 years old. He started out as a general worker and later ventured into business on his own. He became a successful businessman and merchant, and later as one of the first managing directors of the Oversea-Chinese Banking Corporation Limited (OCBC), currently Singapore's third largest bank that is publicly listed on the Singapore Exchange.
 
 #### **The Businessman and Banker**
