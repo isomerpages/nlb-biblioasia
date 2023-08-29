@@ -236,8 +236,8 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
  
  | Games | Opponent | Scores for Singapore |
 | -------- | -------- | -------- |
-|24 Sep 1921: 2–0  |Malacca|Roy Smith &amp; C.M. Jamieson|
-|19 Aug 1922: 3–0  |Negri Sembilan|Roy Smith, C.M. Jamieson &amp; Chia Kwang Hung|
+|24 Sep 1921: 2–0|Malacca|Roy Smith &amp; C.M. Jamieson|
+|19 Aug 1922: 3–0|Negri Sembilan|Roy Smith, C.M. Jamieson &amp; Chia Kwang Hung|
 11 Aug 1923: 4–1|Johore|Roy Smith (3) &amp; C.M. Jamieson|
 18 Aug 1923: 3–0|Malacca|Roy Smith (2) &amp; Lim Yong Liang|
 2 Aug 1924: 5–0|Negri Sembilan|Roy Smith, Yahya Yatim (2) &amp; R.C. Rogers (2)|
