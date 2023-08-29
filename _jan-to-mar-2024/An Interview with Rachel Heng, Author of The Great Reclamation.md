@@ -53,11 +53,11 @@ As much as we like to believe we are fully objective human beings capable of com
 
 
 <div style="background-color: #fff6ba;text-align:center; font-size:110%">
-	
+	<br>
 <b>ABOUT THE BOOK</b>
 <br><br>
 <img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/book%20cover_the%20great%20reclamation.jpg" style="width:40%;">
-<div style="background-color:  #fff6ba;text-align:center">Published by Riverhead Books, 2023.</div> 	
+<div style="background-color: #fff6ba;text-align:center">Published by Riverhead Books, 2023.</div> 	
 	
 <div style="background-color: #fff6ba;text-align:left; padding:15px">
 	<br>
