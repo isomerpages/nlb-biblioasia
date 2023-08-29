@@ -288,7 +288,7 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 26 Jul 1941: 1–1|Army|Not reported|
 
 <div style="background-color: white;">
-<br>
+<br><br>
 Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He is the author of Sport in Singapore: The Colonial Legacy (2019)</i> and <i>Sport in Singapore: The Rocky Road to Kallang Park (2023).</i></div>
 
 #### **Notes**
