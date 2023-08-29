@@ -66,6 +66,10 @@ As a result of his shipping line and the growth in trade and commerce, LCT prosp
 
 In Rangoon, he built a palatial residence in one of the affluent quarters of Rangoon. It is shaped like a star and furnished with mural paintings. "Xie De Garden", as it was known, was graced by many rich and influential personalities and foreign dignitaries during that time.
 
+<img src="/images/Vol%205%20Issue%201/BritishColonial/chin%20tsong%20palace.jpg" style="width:50%;">
+ <div style="background-color: white;">Chin Tsong Palace at <i>Xie Die Garden</i> in Yangon, Myanmmar. <i>Courtesy of Edwin Tan.</i></div>
+
+
 The palace, still standing today, was home to former Burmese presidents and ministers. It is currently occupied by the Ministry of Culture.
 
 #### **As Agent for Burmah Oil Company (BOC)** [^10]
