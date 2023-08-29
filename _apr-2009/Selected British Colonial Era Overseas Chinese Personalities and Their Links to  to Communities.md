@@ -248,6 +248,9 @@ BHLB indeed remained "the one and only Penang-based Chinese bank" for the next 7
 
 BHLB had an original branch office building in Singapore along Upper Circular Road.[^35] It was strategically located near the OCBC building in Chulia Street and the United Overseas Bank building along the Bonham Street. It had other branches in Sabah and Sarawak, East Malaysia. Yeap Chor Ee's marketing strategies at BHLB is reportedly used by May Bank and OCBC.[^36] 
 
+<img src="/images/Vol%205%20Issue%201/BritishColonial/ban%20hin%20lee%20bank.jpg" style="width:80%;">
+ <div style="background-color: white;">Commerce International Merchant Bankers at 43 Beach Street, Penang (former Ban Hin Lee Bank). <i>Courtesy of Penang Explorer.</i></div>
+
 The bank has since undergone several mergers and is now part of the Bumiputra Commerce Holdings Berhad, the second largest banking group in Malaysia trading under the name of the Commerce International Merchant Bankers (CIMB Bank). By the time the merger took place, BHLB group had diversified into investments and property holdings and developments. The business is now managed by Stephen Yeap Leong Huat, his grandson.
 
 #### **Homestead - The Former Residence and Current Administration Office at Wawasan Open University**
