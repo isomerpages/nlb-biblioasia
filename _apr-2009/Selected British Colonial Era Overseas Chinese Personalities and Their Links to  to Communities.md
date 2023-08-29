@@ -69,7 +69,6 @@ In Rangoon, he built a palatial residence in one of the affluent quarters of Ran
 <img src="/images/Vol%205%20Issue%201/BritishColonial/chin%20tsong%20palace.jpg" style="width:50%;">
  <div style="background-color: white;">Chin Tsong Palace at <i>Xie Die Garden</i> in Yangon, Myanmmar. <i>Courtesy of Edwin Tan.</i></div>
 
-
 The palace, still standing today, was home to former Burmese presidents and ministers. It is currently occupied by the Ministry of Culture.
 
 #### **As Agent for Burmah Oil Company (BOC)** [^10]
@@ -106,7 +105,10 @@ Many who had lost communications with their families in the mainland could also 
 
 #### **The World's Oldest Chinese Newspaper - Kwang Wah Yit Poh[^12] Ch'ng Yeen Aun (1867–1938)**[^13]
 
-He was founder and Chairman of the Rangoon and Penang Kwong Wah Yit Poh,[^14], one of the surviving oldest Chinese language newspapers.
+He was founder and Chairman of the Rangoon and Penang Kwong Wah Jit Poh,[^14], one of the surviving oldest Chinese language newspapers.
+
+<img src="/images/Vol%205%20Issue%201/BritishColonial/ch'ng%20yeen%20aun.JPG" style="width:50%;">
+ <div style="background-color: white;"><i>Kwong Wah Jit Poh</i> at Dr Sun Yat Sen Penang Base - 120, Armenian Street, Penang. <i>Courtesy of Penang Heritage Trust.</i></div>
 
 He was born in Ouan-zhou village, Tong An County, Fujian Province, China. He migrated to Burma at the age of 18. At first, he stayed in a village in Lower Burma working as a paddy farmer. He later moved to Rangoon and set up "Chop Guan Kee", a grocery shop.
 
