@@ -211,7 +211,7 @@ As a footballer, he become so highly sought after that the Singapore Cricket Clu
 Smith’s Malaya Cup performances over seven seasons (1921–27) were remarkable. He played in 19 games, including six consecutive finals. Out of 68 goals scored by Singapore players, Smith took credit for 28 of them, averaging two per game. He failed to score in only five of the 19 games.[^31]
 
 #### **Tay Kwee Liang**
-<img style="width:95%;height:85%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/kweeliang.jpg">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/kweeliang_cropped.jpg">
 <div style="background-color: white;text-align:center">Tay Kwee Liang, 1933. <i>Image reproduced from “Choosing Malaya’s Best Footballer,” Malaya
 	Tribune, 11 November 1933. (From Newspaper SG).</i></div>
 
