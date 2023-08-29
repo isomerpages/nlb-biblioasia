@@ -226,6 +226,10 @@ Among other donations, it was reported that 80% of the rental income generated f
 
 #### **The "Rags To Riches" Banker and The First Open University of Malaysia** 
 #### **Yeap Chor Ee[^31] (1867–1951)**
+
+<img src="/images/Vol%205%20Issue%201/BritishColonial/yeapchoree-from%20yeap%20kongsi.jpg" style="width:50%;">
+ <div style="background-color: white;">Yeap Chor Ee, founder of Ban Hin Lee Bank and donor of Yap Kongsi and Yap Temple. <i>Courtesy of Penang Yap Kongsi.</i></div>
+
 Wawasan Open University, the first open university of Malaysia located in Penang, which opened its doors in 2007, was made possible because of a bequest by the late "towkay" Yeap Chor Ee.
 
 At the age of 17, Yeap migrated from China with nothing more than the clothes he wore. Through sheer hard work, diligence and wise investment decisions over a period of about 50 years, he built his financial empire and provided for his descendents. The Wawasan Open University is a vibrant monument to Yeap Chor Ee's benevolence in the cause of providing education for the youth of the land from where he had made his fortune.
