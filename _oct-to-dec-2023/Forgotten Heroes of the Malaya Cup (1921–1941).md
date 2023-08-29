@@ -98,7 +98,7 @@ Like Chua Boon Lay, Abdul Rahman was a champion athlete at school and won the in
 
 #### **Chee Ah Hui**
 
-<img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto3_cropped.jpg">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto3_cropped.jpg">
 <div style="background-color: white;text-align:center">Chee Ah Hui. <i>Source: The Straits Times, 2 August 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 2 appearances in the Malaya Cup final (2 wins)
@@ -115,7 +115,7 @@ Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Sh
 
 #### **Choo Seng Quee**
 
-<img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee.jpg">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee_cropped.jpg">
 <div style="background-color: white;text-align:center">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
 
 2 appearances in the Malaya Cup final (1 win)
