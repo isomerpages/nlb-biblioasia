@@ -32,7 +32,7 @@ And in your long research process, is there anything that surprised you about Si
 **Rachel**  
 I don’t know that it’s anything that surprised me so much as there were many striking details. One detail that made it into the book was the conveyor belt. During the early phases of land reclamation project, a conveyor belt moved the sand dug out to the coasts. Someone asked me if writing historical fiction is a big leap from speculative fiction. Not really because the history is almost science fictional – the way in which the transformation was so audacious and involved technology to that extent – at that time. When you look at the photos, it looks like something out of <i>Blade Runner</i> or something. It’s really fascinating.
 
-<img style="width:90%" src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/bedok%20reclamation%20site.jpg">
+<img style="width:80%" src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/bedok%20reclamation%20site.jpg">
 <div style="background-color: white;text-align:center">Land digging at Bedok reclamation site, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div><br>
 
 <img style="background-color: white;width:75%;height:75%" src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/conveyor%20belt.jpg">
