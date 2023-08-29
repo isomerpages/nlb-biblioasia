@@ -19,7 +19,7 @@ Singapore won the Malaya Cup (renamed Malaysia Cup in 1967) 12 times between 192
 
 |Opponent|Games|Results in Favour of Singapore|Goals For|Goals Against
 | -------- | -------- | -------- | -------- | -------- |
-|Malacca (1921–41)|11|10 wins &amp; 1 draw|54|6|
+|24 Sept 1921:	2–0|10 wins &amp; 1 draw|54|6|
 |Negri Sembilan (1922–40)|10|10 wins| 46|7|
 Johore (1923–41)|12|12 wins|69|8|
 Malaya Command (1932–34)|3|2 wins &amp; 1 draw|6|3|
@@ -63,9 +63,8 @@ Any list of Singapore’s best footballers will be a subjective one of course. O
 	men. The online version of the essay has biographical profiles of other legends on this list.)</i></div>
 
 #### **Abdul Fattah (Dolfattah)**
-
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/dolfattah.jpg)
-<div style="background-color: white;">Abdul Fattah (Dolfattah). <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+<img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/dolfattah.jpg">
+<div style="background-color: white;text-align:center">Abdul Fattah (Dolfattah). <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (4 wins)
 <br>Malaya Cup (1927–35)<br>
@@ -81,8 +80,8 @@ Dolfattah scored 35 goals in 23 Malaya Cup games between 1927 and 1933 – a str
 
 #### **Abdul Rahman Haji Ali**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/abdulrahmanhajiali.jpg)
-<div style="background-color: white;">Abdul Rahman delivering one of his powerful clearance shots at a
+<img style="width:100%;height:90%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/abdulrahmanhajiali.jpg">
+<div style="background-color: white;text-align:center">Abdul Rahman delivering one of his powerful clearance shots at a
 training session. <i>Image reproduced from “He’s a Certainty,” Malaya Tribune, 21 June 1940, 6. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (5 wins)
@@ -99,8 +98,8 @@ Like Chua Boon Lay, Abdul Rahman was a champion athlete at school and won the in
 
 #### **Chee Ah Hui**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto3.jpg)
-<div style="background-color: white;">Chee Ah Hui. <i>Source: The Straits Times, 2 August 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
+<img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/ahhuiphoto3.jpg">
+<div style="background-color: white;text-align:center">Chee Ah Hui. <i>Source: The Straits Times, 2 August 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 2 appearances in the Malaya Cup final (2 wins)
 <br>Malaya Cup (1930 and 1933)<br>
@@ -116,8 +115,8 @@ Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Sh
 
 #### **Choo Seng Quee**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee.jpg)
-<div style="background-color: white;">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
+<img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee.jpg">
+<div style="background-color: white;text-align:center">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
 
 2 appearances in the Malaya Cup final (1 win)
 <br>Malaya Cup (1937–38)<br>
@@ -132,8 +131,8 @@ One of Choo’s greatest achievements was guiding Singapore to win the Malaysia 
 
 #### **Chua Boon Lay**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chuaboonlay.jpg)
-<div style="background-color: white;">Chua Boon Lay. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan
+<img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chuaboonlay.jpg">
+<div style="background-color: white;text-align:center">Chua Boon Lay. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan
 	Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 8 appearances in the Malaya Cup final (6 wins)
@@ -152,8 +151,8 @@ During the Japanese Occupation (1942–45), Chua became a committee member of th
 
 #### **Lim Yong Liang**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian.jpg)
-<div style="background-color: white;">Lim Yong Liang, 1930. <i>Courtesy of Alex Chua (grandson of Chua Boon Lay).</i></div>
+<img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian.jpg">
+<div style="background-color: white;text-align:center">Lim Yong Liang, 1930. <i>Courtesy of Alex Chua (grandson of Chua Boon Lay).</i></div>
 
 6 appearances in the Malaya Cup final (3 wins)
 <br>Malaya Cup (1922–30)<br> 
@@ -169,8 +168,8 @@ After the war, Lim became a major advocate for football as an adviser and mentor
 
 #### **Mohamed Noor Kassim (Mat Noor)**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/noorkassim.jpg)
-<div style="background-color: white;">Mat Noor heading the ball at the Anson Road Stadium during a match against Johor in the southern section of the Malaya Cup competition. <i>Image reproduced from “Johore Beaten by Eight Goals,” Malaya Tribune, 22 June 1935, 15. (From NewspaperSG).</i></div>
+<img style="width:95%;height:85%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/noorkassim.jpg">
+<div style="background-color: white;text-align:center">Mat Noor heading the ball at the Anson Road Stadium during a match against Johor in the southern section of the Malaya Cup competition. <i>Image reproduced from “Johore Beaten by Eight Goals,” Malaya Tribune, 22 June 1935, 15. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (4 wins) 
 <br>Malaya Cup (1928–35)<br>
@@ -184,8 +183,8 @@ Mat Noor played in the 1933 Malaya Cup final that recorded Singapore’s most on
 
 #### **Lancelot Maurice Pennefather**
 
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/lancelot.jpg)
-<div style="background-color: white;">Lancelot Maurice Pennefather. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+<img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/lancelot.jpg">
+<div style="background-color: white;text-align:center">Lancelot Maurice Pennefather. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (4 wins) 
 <br>Malaya Cup (1922–28)<br>
@@ -198,9 +197,8 @@ He played in six Malaya Cup finals for Singapore, winning in 1923, 1924 and 1925
 Pennefather was a certainty to play in the first Malaya Cup final in 1921 but chose to represent his club, the Singapore Recreation Club, in athletics instead. An all-round sportsman, he could also throw a cricket ball well over a distance of 100 yards. Together with his wife Alice and later granddaughter Annabel, the name of Pennefather became firmly embedded in Singapore’s sport story. (Alice excelled in badminton, tennis and hockey, and was inducted into the Singapore Women’s Hall of Fame posthumously in 2016 for her contributions to women’s sports in Singapore. Annabel was a national hockey player and captained the national women’s team from 1970 to 1980.) 
 
 #### **Roy Fairley Smith**
-
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/smithphoto.jpg)
-<div style="background-color: white;">Roy Fairley Smith. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+<img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/smithphoto.jpg">
+<div style="background-color: white;text-align:center">Roy Fairley Smith. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (3 wins)
 <br>Malaya Cup (1922–27)<br> 
@@ -213,9 +211,8 @@ As a footballer, he become so highly sought after that the Singapore Cricket Clu
 Smith’s Malaya Cup performances over seven seasons (1921–27) were remarkable. He played in 19 games, including six consecutive finals. Out of 68 goals scored by Singapore players, Smith took credit for 28 of them, averaging two per game. He failed to score in only five of the 19 games.[^31]
 
 #### **Tay Kwee Liang**
-
-![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/kweeliang.jpg)
-<div style="background-color: white;">Tay Kwee Liang, 1933. <i>Image reproduced from “Choosing Malaya’s Best Footballer,” Malaya
+<img style="width:95%;height:85%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/kweeliang.jpg">
+<div style="background-color: white;text-align:center">Tay Kwee Liang, 1933. <i>Image reproduced from “Choosing Malaya’s Best Footballer,” Malaya
 	Tribune, 11 November 1933. (From Newspaper SG).</i></div>
 
 Amicable Athletic Association
@@ -227,13 +224,67 @@ You might wonder why Tay Kwee Liang appears in this table since he did not play 
 In 1933, he joined the South China Athletic Association team in Hong Kong,[^33] and at the 1934 Far Eastern Games, he was a member of the Chinese team that won the championship. Two years later, Tay was selected to represent China at the 1936 Olympic Games in Berlin, along with Chua Boon Lay and Chee Ah Hui (although Tay is rarely mentioned alongside these two men). Besides football, Tay also excelled in table tennis, and was the national table tennis champion of Singapore in 1931.[^34]
 
 ![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/taykweeliangcert.jpg)
-<div style="background-color: white;">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div>
+<div style="background-color: white;text-align:center">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div>
 
 #### **The Legends and Their Legacy**
 
 All of these men achieved something special in the world of football in the years between the two world wars. The crowds at many of these games exceeded 5,000 and sometimes reached 10,000, an impressive number that surpasses some local games today. The press coverage of each Malaya Cup games was extensive, so fans could relive the magic moments that they witnessed at the Anson Road Stadium. Many of these legends were also talented in other sports, and they brought their natural skills and abilities to the stage.
 
 Today’s talk of the greatest players from Singapore rarely deviates from the players of recent memory, and even then, many are forgotten or marginalised. These names are presented here to remind people that there were great players who laid the foundation for a lasting football legacy in Singapore. They were indeed trailblazers who paved the way for the football heroes who came after them.
+
+ **Malaya Cup Games Played in Singapore (1921– 41)**<br>
+ | Games | Opponent |Scorers for Singapore |
+| ----------- | -------- | ----------- |
+|24 Sep 1921: 2–0  |Malacca|Roy Smith &amp; C.M. Jamieson|
+|19 Aug 1922: 3–0  |Negri Sembilan|Roy Smith, C.M. Jamieson &amp; Chia Kwang Hung|
+11 Aug 1923: 4–1|Johore|Roy Smith (3) &amp; C.M. Jamieson|
+18 Aug 1923: 3–0|Malacca|Roy Smith (2) &amp; Lim Yong Liang|
+2 Aug 1924: 5–0|Negri Sembilan|Roy Smith, Yahya Yatim (2) &amp; R.C. Rogers (2)|
+24 Aug 1925: 7–1|Malacca|Roy Smith (2), Lim Yong Liang (2), Foong Un Sun (2) &amp; Cheong Chee Lim|
+29 Aug 1925: 2–1|Selangor|Roy Smith &amp; Lim Yong Liang|
+21 Aug 1926: 9–1|Negri Sembilan|Roy Smith (3), Lim Yong Liang (3), Ee Chan Hee, Wan Puteh &amp; 1 unknown|
+16 Jul 1927: 5–0|Malacca|Dolfattah (2), K.H. Macfarlane &amp; Yee Cheok Wah (2)|
+18 Aug 1928: 8–2|Negri Sembilan|Dolfattah (4), Lim Yong Liang (3) &amp; Mat Noor|
+17 Aug 1929: 5–0|Malacca|Dolfattah (5)|
+23 Aug 1929: 4–2|Johore|Dolfattah (2) &amp; Norman Fyfe (2)|
+31 Aug 1929: 2–2|Selangor|Mat Noor (2)|
+18 Jul 1930: 6–0|Johore|Dolfattah (2), Dollah Zainol (2) &amp; Syed Ahmad (2)|
+26 Jul 1930: 2–0|Negri Sembilan|ShariffMadon &amp; Yahya bin Yatim|
+20 Sep 1930: 3–0|Selangor|Dolfattah, Dollah Zainol &amp; Choy Khun Onn|
+18 Jul 1931: 3–3|Malacca|Dolfattah (2) &amp; Chia Keng Hock|
+17 Jun 1932: 7–1|Johore|Dolfattah (4), Dollah Zainol (2) &amp; John Then| 
+16 Jul 1932: 4–1|Negri Sembilan|Dolfattah (2) &amp; Dollah Zainol|
+29 Jul 1932: 2–1|Malaya Command|Mat Noor &amp; Dollah Zainol|
+23 Jun 1932: 7–1|Johore|Dolfattah (2), Chia Keng Hock (2), Mat Noor (2) &amp; Mahmood|
+8 Jul 1933: 6–0|Malacca|Dolfattah (3), Mat Noor (2) &amp; Chia Keng Hock|
+22 Jul 1933: 2–0|Malaya Command|Tay Kwee Leng &amp; Mat Noor|
+5 Aug 1933: 8–2|Selangor|Chia Keng Hock (3), Mat Noor (2), Shariff Madon (2) &amp; Dolfattah|
+29 Jun 1934: 9–0|Johore|Chia Keng Hock (4), Hoi San (2), Norman Fyfe (2) &amp; A. Donald|
+7 Jul 1934: 4–0|Negri Sembilan|Chia Keng Hock (4)|
+21 Jul 1934: 2–2|Malaya Command|Chia Keng Hock (2)
+21 Jun 1935: 8–0|Johore|Chia Keng Hock, Mat Noor (3), A.G. Valberg (2) &amp; Choy Khoon Onn (2)|
+6 Jul 1935: 7–1|Malacca|Chia Keng Hock (2), Mat Noor (3) &amp; Mahmood (2)|
+20 Jul 1935: 2–2|Combined Services|Chia Keng Hock &amp; Mahmood|
+29 May 1936: 6–0|Johore|Chia Keng Hock (2), Taib bin Awang (3) &amp; Dollah Zainol|
+4 Jul 1936: 0–1|Selangor|No goals|
+19 Jun 1937: 4–0|Malacca|George Day (3) &amp; Soon Lye|
+9 Jul 1937: 5–1|Johore|R.C. Oehlers (2), Bakri &amp; Gan Kee Siang (2)|
+24 Jul 1937: 2–1|Combined Services|Gan Kee Siang &amp; James Goh|
+18 Jun 1938: 3–2|Negri Sembilan|Shariff Madon, Tan Lai Chuan &amp; Taib bin Awang|
+8 Jul 1938: 5–0|Johore|George Day (2), Tan Lai Chuan (2) &amp; Gan Kee Siang|
+16 Jul 1938: 2–2|Combined Services|George Day &amp; Gan Kee Siang|
+23 Jul 1938: 1–0|Combined Services|Yuen Quan Chong|
+6 Aug 1938: 0–1|Selangor (final)|No goals|
+23 Jun 1939: 3–2|Johore|Yahya bin Yatim, Tan Lai Chuan &amp; Yuen Quan Chong|
+8 Jul 1939: 5–1|Malacca|Yuen Quan Chong (2), Mat Noor, Yahya bin Yatim &amp; Ha Tee Siang|
+22 Jul 1939: 1–0|Combined Services|Yahya bin Yatim|
+6 Jul 1940: 4–1|Negri Sembilan|Taib bin Awang, Tan Lai Chuan (2) &amp; Shariff Madon|
+19 Jul 1940: 3–0|RAF (Royal Air Force)|Tan Lai Chuan &amp; Shariff Madon (2)|
+27 Jul 1940: 3–3|Army|Taib bin Awang, Tan Lai Chuan &amp; Yahya bin Yatim|
+13 Jun 1941: 5–0|Johore|Tan Lai Chuan (3), Ha Tee Siang (2) &amp; J.C. Willoughby|
+5 Jul 1941: 6–0|Malacca|Tan Lai Chuan (3), Ha Tee Siang (2) &amp; Yueng Quan Chong|
+18 Jul 1941: 1–0|RAF|Tan Lai Chuan|
+26 Jul 1941: 1–1|Army|Not reported|
 
 <div style="background-color: white;">
 <br>

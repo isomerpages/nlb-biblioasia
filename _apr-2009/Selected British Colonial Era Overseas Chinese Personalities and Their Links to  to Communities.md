@@ -204,3 +204,52 @@ Among other donations, it was reported that 80% of the rental income generated f
 -	The National Kidney Foundation<br>
 -	The Lee Kuan Yew Scholarship Fund<br>
 -	Tan Ean Kiam Kiam Service-Learning Resource Centre
+
+#### **The "Rags To Riches" Banker and The First Open University of Malaysia** 
+#### **Yeap Chor Ee31 (1867–1951)**
+Wawasan Open University, the first open university of Malaysia located in Penang, which opened its doors in 2007, was made possible because of a bequest by the late "towkay" Yeap Chor Ee.
+
+At the age of 17, Yeap migrated from China with nothing more than the clothes he wore. Through sheer hard work, diligence and wise investment decisions over a period of about 50 years, he built his financial empire and provided for his descendents. The Wawasan Open University is a vibrant monument to Yeap Chor Ee's benevolence in the cause of providing education for the youth of the land from where he had made his fortune.
+
+#### **Early Days**
+Yeap Chor Ee was born in Nam-An, a small village town located in Fujian Province, China. When he landed in Penang, he started his living by working as an apprentice in a shop and lived a frugal life.
+
+By a serendipitous meeting, he got to know Goh Teik Ji, who became his benefactor. Goh Teik Ji was then a Penang-based import/ export agent of Oei Tiong Ham, the "Sugar King" of Java (Indonesia). Goh financed Yeap to start a small grocery shop of his own.
+
+When World War I broke out, the price of sugar, which is an essential commodity, rose as a result of the disruption in the transportation services. Yeap's shop naturally became the exclusive dealer for sugar and thus began his journey into prosperity.
+
+#### **Ban Hin Lee Bank (BHLB)32**
+From the profits of the sugar deals, he invested in some other ventures, including tin smelting and rice trading33. In 1918, he also set up a remittance and foreign exchange business at his shop through a banking account with then Hong Kong and Shanghai Bank of Malaya in Penang. The business helped to seed the founding of BHLB, the first overseas Chinese commercial bank in Penang, Malaysia in 1935.34 
+
+BHLB indeed remained "the one and only Penang-based Chinese bank" for the next 70 years. Its landmark building, built in 1934, was designed by Ung Ban Hoe, the first Chinese architect, who was then practising with Stark &amp; MacNeill, a British architect firm in then British Malaya.
+
+BHLB had an original branch office building in Singapore along Upper Circular Road35. It was strategically located near the OCBC building in Chulia Street and the United Overseas Bank building along the Bonham Street. It had other branches in Sabah and Sarawak, East Malaysia. Yeap Chor Ee's marketing strategies at BHLB is reportedly used by May Bank and OCBC.36 
+
+The bank has since undergone several mergers and is now part of the Bumiputra Commerce Holdings Berhad, the second largest banking group in Malaysia trading under the name of the Commerce International Merchant Bankers (CIMB Bank). By the time the merger took place, BHLB group had diversified into investments and property holdings and developments. The business is now managed by Stephen Yeap Leong Huat, his grandson.
+
+#### **Homestead - The Former Residence and Current Administration Office at Wawasan Open University**
+
+omestead, a grand mansion sited on a large piece of richly endowed open land, was designed by renowned British architect, James Stark of Stark &amp; McNeil in 1919. It was originally built for Lim Mah Chye, an overseas Chinese merchant during that time. Lim Chin Guan, the son of Lim Mah Chye, reportedly controlled the Eastern Shipping Company in 1918 and according to historical records, the shipping company, which was formed in 1907, owned about 40 sailing ships.
+
+The mansion was later acquired by BHLB and it became the home of Yeap Chor Ee and his descendants. In accordance with his will, his grandson, Datuk Stephen Yeap Leong Huat, recently handed the property over to the Ministry of Education for Wawasan Open University to commence its operations.37 
+
+The 30,000 square feet Homestead mansion, which sits on a prime 1.44 ha site, houses the campus chancellery, administration office and the new building behind houses lecture theatres.
+
+A 2.4 metres high bronze statue of Yeap Chor Ee was placed at the front entrance of the Wawasan Open University in memory of the Chinese philanthropist whose rags-to-riches story is an inspiration to many locals.
+
+#### **Other Legacies**
+In 1924, the Yap Kongsi building, designed by Chew Eng Earn, a Straits-born Chinese architect, was built on a piece of land donated by Yeap Chor Ee. The building and the Yap Temple are dedicated to the Yap Fujian clan ancestries and their patron deities.
+
+Jalan Yeap Chor Ee or Yeap Chor Ee Road in Penang was named after his death to remember and honour his contributions. The Yeap Chor Ee Charitable &amp; Endowment Trust was established in1941, and in 1952 the Yeap Chor Ee Endowment Trust was set up.38 
+
+In Rangoon (Yangon), Burma, Yeap Yan Bin, the son of Yeap Swee Tong who was Yeap Chor Ee's nephew, built the three-storey building which is located at 372 Strand Road, Rangoon Chinatown. When Swee Tong's father died, Yeap Chor Ee became the guardian. He taught them to trade and supported them financially in business.
+
+Swee Tong's younger brother Yeap Swee Ah39 conducted rice exports from rice mills owned by Yeap Chor Ee. These were located in Wa-ke-ma Town, in the Irrawaddy Delta. During the period of the Japanese occupation, the Yeap siblings in Rangoon exported rice to Penang and Singapore on board Chinese junks owned by Yeap Chor Ee, who was appointed as provisions supplier for the Japanese military which had occupied Singapore.40 
+
+When Yan Bin took over Ban Lee Heng41 in Rangoon (a firm with similar sounding name to Ban Hin Lee) he started importing "two fish" brand of cooking oil and other commodities from Singapore. Although the property is still occupied by Swee Tong's grandchildren, Yeap Chor Ee's tablet and photographs are still placed and honoured in this property.
+
+#### **Conclusion**
+What can we learn from these Chinese personalities? Firstly, they knew no fear when they set out from their familiar home ground. They were instinctively driven from comfortable surroundings to search for new frontiers in their hunger for success or desire to seek new riches. Secondly, for those who had already achieved success or accumulated riches, their home ground became too small for their entrepreneurial ambitions. They needed new trophies to add to their treasure chest. Thirdly, there were those ousted by circumstances beyond their control. They had to find new grounds to write their success stories for future generations. Finally, there were the glimpses of riches unknown to them. There is a certain mystery as to where the characters described here would have wanted to explore by choice, but by chance they were driven from their comfort zones by circumstances beyond their control.
+
+***The author wishes to acknowledge the contributions of Dr Helen Reid, retired researcher in reviewing the paper.***
+

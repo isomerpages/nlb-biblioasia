@@ -3,12 +3,12 @@ title: Menyingkap Kenangan Kampung Pasiran dan Sekitarannya
 permalink: /vol-8/issue-2/jul-2012/kampung-pasiran-sekitarannya/
 description: ""
 ---
-#### Traces the historical development of a village in Singapore called Kampung Pasiran and its surrounding areas using primary source materials from the National Archives of Singapore as well as interviews with surviving kampong dwellers.
+#### The historical development of Kampung Pasiran and its surrounding areas is traced using primary sources from the National Archives of Singapore as well as interviews with surviving kampong dwellers.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Children.jpg">
  <div style="background-color: white;">Anak-anak Kampung Pasiran di awal tahun 1960an. <i>Foto ihsan Puan Rohaidah Mohd. Yadri.</i></div>
 
-The article features the historical development of a village in Singapore named Kampung Pasiran (situated at Gentle Road/Newton Road) and its surrounding areas. Deriving primary material sources from oral records of the National Archives of Singapore and interviews with surviving kampung dwellers, the article includes the kampung pioneers, life during the Japanese Occupation, the role of its savings and thrifts co-operatives, the ties between the only Malay-stream school in the area with the villagers as well as the bond forged by the prominent Alsagoff family with the villagers in facilitating economic activities through employment. The function of the mosque as a religious as well as a socio-cultural focal point is also discussed. Owing to its central strategic location, the mosque, amidst its affluent residential environment now, is likened to an ‘oasis in the desert’.
+This article features the historical development of a village in Singapore named Kampung Pasiran (situated at Gentle Road/Newton Road) and its surrounding areas. Deriving primary sources from oral records in the National Archives of Singapore and interviews with surviving kampong dwellers, the article includes the kampong pioneers, life during the Japanese Occupation, the role of its savings and thrifts cooperatives, ties between the only Malay-stream school in the area with the villagers as well as the bond forged by the prominent Alsagoff family with the villagers in facilitating economic activities through employment. The function of the mosque as a religious and sociocultural focal point is also discussed. Owing to its central strategic location, the mosque, located amid the affluent residential environment now, is likened to an “oasis in the desert”.
 
 #### **Latarbelakang Perkampungan Melayu di Singapura**
 
@@ -20,24 +20,25 @@ Sebelum kedatangan Inggeris, pendatang-pendatang perlu mendapatkan izin Temenggu
 
 Professor Madya Hadijah Rahmat dalam bukunya, Kilat Senja telah menyenaraikan lebih 90 perkampungan yang pernah wujud di Singapura.[^3] Kebanyakan perkampungan Melayu terletak di persisiran pantai timur dan barat lantaran corak ekonomi berasas laut serta faktor kemudahan dan pengangkutan masa itu. Selain itu tersenarai juga beberapa kampung lain yang terletak di kawasan tengah Singapura seperti Kampung Cantek, Kampung Tempe, Kampung Woodleigh dan Kampung Pasiran.
 
+<img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Masjid%20Kampung%201932.jpg">
+ <div style="background-color: white;">Masjid Kampung Pasiran (1932–1960).  <i>Foto ihsan Cikgu Kader Suradi.
+</i></div>
+
 Generasi lama mungkin masih mengingati nama Kampung Pasiran walaupun kini yang ada hanyalah “Jalan Pasiran”. Kampung Pasiran terletak di daerah pinggir bandar Singapura berdekatan kawasan Newton/ Thomson Road. Ia pernah bertapak di kawasan mewah Gentle Road, Chancery Lane, Newton Road, Gilstead Road dan Buckley Road.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Pasiran%20map.jpg">
- <div style="background-color: white;">Lokasi Kampong Pasiran. Sumber: Singapore street directory and sectional maps 1966, Singapore: Ministry of Culture.
+ <div style="background-color: white;">Lokasi Kampong Pasiran. <i>Sumber: Singapore street directory and sectional maps 1966, Singapore: Ministry of Culture.</i>
 </div>
 
 Dari simpang Newton Circus ke Kampung Pasiran yang bersaiz 10 ekar tanah, perjalanan kaki mengambil masa kurang dari 5 minit sejauh lebih 1 km. Pada awal tahun-tahun 1920an terdapat dua buah kolam ternak ikan dan udang milik seorang taukeh Cina, Ah Seng.[^4]
 
-Kampung Pasiran pernah mengandungi lebih 50 buah rumah panggung, rumah separa batu dan rumah deretan dengan lebih 100 keluarga di sepanjang jalan Gentle Road. Masjid Abdul Hamid Kampung Pasiran dan Sekolah Perempuan Melayu Bukit Tunggal (1961—1974) pula terletak di hujung simpang Gentle Road.
+Kampung Pasiran pernah mengandungi lebih 50 buah rumah panggung, rumah separa batu dan rumah deretan dengan lebih 100 keluarga di sepanjang jalan Gentle Road. Masjid Abdul Hamid Kampung Pasiran dan Sekolah Perempuan Melayu Bukit Tunggal (1961–1974) pula terletak di hujung simpang Gentle Road.
 
 Menurut cerita orang tua-tua dulu yang sampaikan oleh Allahyarham Haji Bahari Haji Suradi, 85 tahun ( penduduk asal kampung itu), nama Kampung Pasiran berasal daripada kata ‘Pasir’ yang diimbuh dengan akhiran ‘an’ dan lahirlah perkataan pasiran. Pasiran bermakna banyak pasir atau kawasan berpasir yang luas. Terdapat sebuah kuari (lombong) pasir berdekatan dan sebuah kolam terjadi kerana pasir putih di situ di kaut korek pengusaha bangunan untuk kerja-kerja pembinaan. Di kolam itu terdapat sampan-sampan untuk beriadah dan memancing ikan. Setelah beberapa kejadian mati lemas dan kemalangan berlaku, kolam itu kemudiannya ditimbus. Hasil daripada kuari pasir ini maka terbitlah nama ‘Kampung Pasiran’ dan ‘Jalan Pasiran’.[^5] Berbanding dengan kampung-kampung lain di Singapura, keistimewaan kampung ini terletak kepada asal tapak kampung yang merupakan kuari pasir itu.
 
 #### **Sejarah Kampung Pasiran**
 
-Penempatan awal kampung dipercayai bermula di antara tahun 1870an hingga akhir abad ke 19. Haji Buang Siraj, 94 tahun, mantan Presiden Majlis Ugama Islam Singapura (MUIS) (1974—1980), yang pernah menetap di Kampung Pasiran selama 20 tahun (1917—1937) berpendapat bahawa Haji Abdul Latib Samydin merupakan salah seorang peneroka terawalnya berdasarkan beliaulah pemilik terbanyak tanah dan rumah di kampung sehinggalah sebahagian tanahnya diwakafkan sebagai tapak Masjid Abdul Hamid, Kampung Pasiran yang ada kini. Selain itu seorang lagi pengasas kampung ini ialah Haji Abdul Hamid Embong (Datuk kepada Haji Buang).
-
-<img style="width:50%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/encik%20hamid.jpg">
- <div style="background-color: white;">Encik Abdul Hamid Marang. <i>Foto ihsan Cikgu Kader Suradi.</i></div>
+Penempatan awal kampung dipercayai bermula di antara tahun 1870an hingga akhir abad ke 19. Haji Buang Siraj, 94 tahun, mantan Presiden Majlis Ugama Islam Singapura (MUIS) (1974–1980), yang pernah menetap di Kampung Pasiran selama 20 tahun (1917–1937) berpendapat bahawa Haji Abdul Latib Samydin merupakan salah seorang peneroka terawalnya berdasarkan beliaulah pemilik terbanyak tanah dan rumah di kampung sehinggalah sebahagian tanahnya diwakafkan sebagai tapak Masjid Abdul Hamid, Kampung Pasiran yang ada kini. Selain itu seorang lagi pengasas kampung ini ialah Haji Abdul Hamid Embong (Datuk kepada Haji Buang).
 
 Kedua-duanya Haji Abdul Latib dan Haji Abdul Hamid berasal dari Kendal di Jawa Tengah dan dipercayai berhijrah ke Singapura pada tahun 1870an. Dalam perjalanan pulang dari Mekah, mereka singgah di Singapura untuk bekerja bagi membayar hutang dengan ejen-ejen haji kerana perbelanjaan mereka ke Mekah. Tertarik dengan keadaan Singapura yang aman mantap dari segi ekonomi dan pekerjaan, lantas kedua-duanya menetap di sini dan ‘membuka’ Kampung Pasiran.
 
@@ -45,11 +46,11 @@ Cikgu Kader Suradi, 73 tahun (cicit Haji Latib Samydin), penduduk asal kampung i
 
 #### **Kampung Pasiran dan Keluarga Alsagoff**
 
-Di belakang perkampungan Pasiran (sekitar Chancery Lane / Novena / Thomson Road) terdapat ladang getah dan ladang kopi dalam kawasan yang dikenali sebagai Bukit Tunggal milik hartawan Arab, pemilik tanah, pemungut hutang dan syeikh haji terkenal iaitu Syed Omar bin Mohamed Alsagoff (pemilik firma S.O. Alsagoff, 1850—1927). Banglo kediamannya yang lengkap dengan stabel kuda (kereta kuda digunakan sebagai pengangkutan ketika itu) menjadi tarikan dan perhatian pendatang baru untuk mencari nafkah dan pekerjaan di situ. Banglo beliau “Omaran” ini terletak di atas Bukit Tunggal di Chancery Lane, merupakan tempat berlangsungnya pesta-pesta perayaan keluarga itu.
+Di belakang perkampungan Pasiran (sekitar Chancery Lane/Novena/Thomson Road) terdapat ladang getah dan ladang kopi dalam kawasan yang dikenali sebagai Bukit Tunggal milik hartawan Arab, pemilik tanah, pemungut hutang dan syeikh haji terkenal iaitu Syed Omar bin Mohamed Alsagoff (pemilik firma S.O. Alsagoff, 1850–1927). Banglo kediamannya yang lengkap dengan stabel kuda (kereta kuda digunakan sebagai pengangkutan ketika itu) menjadi tarikan dan perhatian pendatang baru untuk mencari nafkah dan pekerjaan di situ. Banglo beliau “Omaran” ini terletak di atas Bukit Tunggal di Chancery Lane, merupakan tempat berlangsungnya pesta-pesta perayaan keluarga itu.
 
 Pada tahun-tahun 1920—an, tapak ladang-ladang ini kemudiannya didirikan rumah-rumah kediaman pegawai kerajaan British. Ladang kopi pula diubah lanskapnya menjadi tasik persiaran dan taman riadah untuk keluarga Alsagoff. Stabel kuda dijadikan tempat penginapan pekerja-pekerjanya dan menjadi Kampung Bukit Tunggal.
 
-Salah seorang anaknya, Syed Ibrahim Omar Alsagoff (1899—1975) mengambil alih perniagaan selepas kematian bapanya. Di antara pekerja-pekerja perniagaan keluarga Alsagoff ialah Haji Abdul Latib Samydin, mandor yang mengawasi pekerja-pekerja estet di situ, Haji Siraj Mohd Noor (bapa Haji Buang) yang pernah menjadi tukang kebun di estet dan Hj Noor Abdul Hamid (anak kepada Haji Abdul Hamid Embong) yang berkerja sebagai drebar peribadi keluarga Alsagoff.
+Salah seorang anaknya, Syed Ibrahim Omar Alsagoff (1899–1975) mengambil alih perniagaan selepas kematian bapanya. Di antara pekerja-pekerja perniagaan keluarga Alsagoff ialah Haji Abdul Latib Samydin, mandor yang mengawasi pekerja-pekerja estet di situ, Haji Siraj Mohd Noor (bapa Haji Buang) yang pernah menjadi tukang kebun di estet dan Hj Noor Abdul Hamid (anak kepada Haji Abdul Hamid Embong) yang berkerja sebagai drebar peribadi keluarga Alsagoff.
 
 Lantaran tarikan ekonomi untuk berkerja di estet keluarga Alsagoff ini, pendatang-pendatang baru dan penduduk dari kampung lain (seperti Kampung Haji Alias di Coronation Road) datang ke Kampung Pasiran dan Bukit Tunggal. Justeru, keluarga Alsagoff memainkan peranan yang penting dalam penempatan awal Kampung Pasiran kerana ia telah memberi ruang dan peluang ekonomi sekali gus membaiki taraf kehidupan orang orang kampung di kawasan itu.
 
@@ -65,13 +66,13 @@ Selain kaum Jawa, Boyan dan Melayu, terdapat juga keluarga-keluarga Cina, India 
  <div style="background-color: white;">Penduduk Kampung Pasiran (1960an). <i>Foto ihsan Cikgu Kader Suradi.
 </i></div>
 
-#### **Era Pendudukan Jepun 1942—1945**
+#### **Era Pendudukan Jepun 1942–1945**
 
-Selama pendudukan Jepun, kawasan persekitaran Kampung Pasiran dijadikan kawasan kediaman askar-askar Jepun. Pegawai tinggi Jepun tinggal di Buckley Road sementara Lieutenant General Tomoyuki Yamashita (1885—1946) (yang mengetuai serangan tentera Jepun ke atas Singapura) pernah tinggal di daerah Bukit Tunggal (banglo bekas pegawai-pegawai Inggeris).[^7]
+Selama pendudukan Jepun, kawasan persekitaran Kampung Pasiran dijadikan kawasan kediaman askar-askar Jepun. Pegawai tinggi Jepun tinggal di Buckley Road sementara Lieutenant General Tomoyuki Yamashita (1885–1946) (yang mengetuai serangan tentera Jepun ke atas Singapura) pernah tinggal di daerah Bukit Tunggal (banglo bekas pegawai-pegawai Inggeris).[^7]
 
 Kampung Pasiran tidak menyimpan banyak peristiwa dengan askar-askar Jepun kerana hubungan baik penduduk kampung dengan askar Jepun. Askar-askar Jepun juga dikatakan sentiasa memantau kampung itu khususnya kegiatan pemuda-pemuda kampung dengan meronda kawasan itu terutama waktu malam. Ada juga penduduk Kampung Pasiran yang mempunyai pertalian keluarga di Johor telah melarikan diri kerana khuatir dijadikan buruh paksa pembinaan jalan kereta api maut di sempadan Siam-Burma. Hajah Satimah Mohd. Said, 81 tahun (bekas penduduk asal kampung) mengimbau ingatan hubungan penduduk kampung dengan askar-askar Jepun yang saling hormat menghormati walaupun tentera Jepun sering mengambil air dari perigi dan ubi kayu, keledek serta keladi atau meminta telur ayam penduduk kampung itu tidak dengan paksaan.
 
-Menurut beliau, lazimnya penghuni yang pintu rumah-rumah mereka di tampal dengan sijil penempatan keamanan (“ankyosho”— senarai ahli keluarga bagi setiap rumah) yang dikeluarkan oleh pihak Jepun, tidak akan diganggu. Begitupun kebanyakan penduduk tetap curiga dengan mendirikan kubu kecil yang boleh memuatkan hingga 8 orang. Untuk melindungi dari tentera Jepun, tanah liat ditampal di dinding luar kubu dan ditanam rumput. Kelihatan seolah-olah rumah itu bersebelahan busut kecil yang sebenarnya kubu untuk menyembunyikan diri terutama apabila siren tanda bahaya berbunyi.
+Menurut beliau, lazimnya penghuni yang pintu rumah-rumah mereka di tampal dengan sijil penempatan keamanan (“ankyosho” – senarai ahli keluarga bagi setiap rumah) yang dikeluarkan oleh pihak Jepun, tidak akan diganggu. Begitupun kebanyakan penduduk tetap curiga dengan mendirikan kubu kecil yang boleh memuatkan hingga 8 orang. Untuk melindungi dari tentera Jepun, tanah liat ditampal di dinding luar kubu dan ditanam rumput. Kelihatan seolah-olah rumah itu bersebelahan busut kecil yang sebenarnya kubu untuk menyembunyikan diri terutama apabila siren tanda bahaya berbunyi.
 
 Penduduk-penduduk kampung diberi kupon catuan makanan asas seperti beras yang dicampur kapur, gula dan minyak. Catuan makanan yang harus diambil dari beberapa pusat khas seperti Sekolah Tanglin Tinggi (di kawasan Monk’s Hill/Newton Road). Di sebalik suasana aman di Kampung Pasiran, penduduk masih dibendung rasa takut terutama sekali bila berita seorang penduduk kampung itu. Pak Sastro, 70 tahun, drebar askar Jepun telah mati dibenamkan ke dalam air sabun hanya kerana beliau tidak memahami suruhan tentera Jepun.[^8]
 
@@ -93,16 +94,15 @@ Penduduk Kampung Pasiran hidup harmoni walaupun tiada penghulu rasmi mentadbirka
 
 Lazimnya masjid berfungsi sebagai pusat masyarakat Melayu/Islam kerana peranan agama, sosio-ekonomi dan sosio budayanya. Tidak terkecuali Masjid Abdul Hamid Kampung Pasiran yang dibina dari hasil usaha dan peninggalan penduduk asal kampung itu. Ia mengambil sempena nama Haji Abdul Hamid Ahmad Marang, hartawan Marang, Terengganu yang membiayai pembinaannya. Beliau berasal dari Kampong Jagoh (Telok Blangah, Singapura).
 
+<img style="width:50%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/encik%20hamid.jpg">
+ <div style="background-color: white;">Encik Abdul Hamid Marang. <i>Foto ihsan Cikgu Kader Suradi.</i></div>
+ 
 Menurut sejarahnya, beliau datang ke Kampung Pasiran pada tahun 1931 untuk membeli tanah dan berjumpa Haji Abdul Latib bin Samydin. Sejurus mengetahui niat Haji Abdul Hamid ingin mendirikan masjid di atas tapak tanah yang bakal dibelinya, Haji Abdul Latib lantas mewakafkan tanahnya yang berukuran 189,45 kaki persegi di tapak tanah nombor unit 10 dan 12, Gentle Road sebagai tapak masjid kampung itu.
-
-<img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Masjid%20Kampung%201932.jpg">
- <div style="background-color: white;">Masjid Kampung Pasiran (1932—1960).  <i>Foto ihsan Cikgu Kader Suradi.
-</i></div>
 
 Masjid ini siap dibina pada tahun 1932 dan dibaik pulih beberapa kali dari tahun 1960 hingga 2002. Pada tahun 2000, kegiatan mencari dana pembangunan masjid dirancakkan melalui projek-projek seperti Teleamal, Majlis Hi-Tea, Projek Climbathon dan Jualan Nasi Amal untuk membina bangunan baru yang memerlukan S$1.7 juta. Untuk memupuk semangat “kampung”, penduduk, digalakkan bersalat jemaah serta mengadakan majlis keraian, kenduri kendara dan walimah di masjid selain majlis keagamaan seperti tahlil, maulid dan berkhatan dan lain-lain lagi.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Masjid%20Kampung%201961.jpg">
- <div style="background-color: white;">Masjid Kampung Pasiran (1961—2001). <i>Foto ihsan Cikgu Kader Suradi.</i></div>
+ <div style="background-color: white;">Masjid Kampung Pasiran (1961–2001). <i>Foto ihsan Cikgu Kader Suradi.</i></div>
 
 Sebagai pusat sosial selain fungsi keagamaan, Ustaz Haji Amir Rais yang pernah bertugas di masjid itu bukan sahaja mengajar ilmu agama malah mentadbirkan kelas-kelas tiusyen bagi pelajaran sekular seperti Matematik dan Bahasa Inggeris sebelum diambil alih oleh pihak MENDAKI kemudiannya.
 
@@ -123,18 +123,18 @@ Tahun-tahun 1960an menyaksikan banyak sekolah-sekolah Melayu dibuka termasuk ban
 
 Sekolah ini dibuka pada awalnya kepada penuntut-penuntut perempuan darjah satu. Pelajar-pelajar darjah 2 hingga 6 adalah yang dipindahkan dari Sekolah Perempuan Melayu Scotts Road pada 3 Januari 1961. Ia dibuka dengan rasminya pada 30 Julai 1963 oleh Setiausaha Parlimen (Pendidikan) Encik Lee Khoon Choy dan dihadiri oleh Menteri Pendidikan, Encik Yong Nyuk Lin.
 
-Di bawah kepimpinan guru besar sekolah ini, Cikgu Aishah Murkani dari tahun 1961 hingga 1974 yang dibantu oleh penolong-penolong guru besar termasuk Cikgu-cikgu Marhamah Mohd. Zain, Buang Mohd Amin, Sukinah Abu dan Jumaiyah Masbin , sekolah ini telah melahirkan ramai pelajar-pelajar perempuan cemerlang di lapangan masing-masing.
+Di bawah kepimpinan guru besar sekolah ini, Cikgu Aishah Murkani dari tahun 1961 hingga 1974 yang dibantu oleh penolong-penolong guru besar termasuk Cikgu-cikgu Marhamah Mohd Zain, Buang Mohd Amin, Sukinah Abu dan Jumaiyah Masbin, sekolah ini telah melahirkan ramai pelajar-pelajar perempuan cemerlang di lapangan masing-masing.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%202/Kampung%20Pasiran/Guru%20Perempuan.jpg">
- <div style="background-color: white;">Guru-guru dan pekerja-perkerja Sekolah Perempuan Melayu Bukit Tunggal (1961).  <i>Foto ihsan penulis.</i></div>
+ <div style="background-color: white;">Guru-guru dan pekerja-perkerja Sekolah Perempuan Melayu Bukit Tunggal, 1961. <i>Foto ihsan penulis.</i></div>
 
-Dengan sokongan barisan guru-guru berkaliber seperti Cikgu-cikgu Alimah Lob, Asmah Alsagoff, Asnah Asraf, Badariah Boslan, Hafsah Maarof, Juminah Ehsan, Kamariah Juraimi, Jamaliah Sulaiman, Joyah Jantan, Maimunah Dahlan, Maryam Zanariah Hussin, Mariam Junid, Norsiah Sujai, Warianti Kasman, Zainab Razak dan lain-lain lagi, mereka berjaya menyemai semangat yang membawa perubahan minda dan berdaya maju kepada pelajar-pelajarnya. Menurut Cikgu Kamariah Mohd Naib, 74 tahun (mantan guru SPMBT, 1961—1972) antara pelajar-pelajar SPMBT ialah Orkid Kamariah, anak perempuan Presiden Yusof Ishak (Presiden Singapura pertama, 1965—1970).
+Dengan sokongan barisan guru-guru berkaliber seperti Cikgu-cikgu Alimah Lob, Asmah Alsagoff, Asnah Asraf, Badariah Boslan, Hafsah Maarof, Juminah Ehsan, Kamariah Juraimi, Jamaliah Sulaiman, Joyah Jantan, Maimunah Dahlan, Maryam Zanariah Hussin, Mariam Junid, Norsiah Sujai, Warianti Kasman, Zainab Razak dan lain-lain lagi, mereka berjaya menyemai semangat yang membawa perubahan minda dan berdaya maju kepada pelajar-pelajarnya. Menurut Cikgu Kamariah Mohd Naib, 74 tahun (mantan guru SPMBT, 1961–1972) antara pelajar-pelajar SPMBT ialah Orkid Kamariah, anak perempuan Presiden Yusof Ishak (Presiden Singapura pertama, 1965–1970).
 
 #### **Keunikan SPMBT**
 
 Sejak tahun 1964, pelajaran muzik mula diperkenalkan di SPMBT dan sekolah ini merupakan satu-satunya sekolah Melayu yang terpilih sebagai “Pilot School for Music Teaching” sejak 1971. Ia turut aktif dengan pasukan padu suaranya dan telah mengambil bahagian dalam Pesta Belia Singapura, Hari Ulang Tahun Singapura ke 150 (tahun 1969) dan turut merakamkan lagu rakyat berirama Melayu di bawah bimbingan guru-guru muzik mereka Puan Ng Eng Hoe dan Cikgu Tengku Saleha Tengku A. Ghani.[^12] Pada tahun 1972, SPMBT telah memenangi berbagai peraduan muzik dan nyanyian padu suara di antara sekolah-sekolah rendah.[^13]
 
-Semasa mengimbas kenangan di SPMBT, Cikgu Mariam Junid, 71 tahun (mantan guru SPMBT, 1961—1968) menerangkan tentang beberapa kegiatan luar darjah yang diminati pelajar-pelajar termasuk pasukan Brownies, Pandu Puteri, Tarian Melayu, Bahas dan Seni Lukis. Ada juga penduduk Kampung Pasiran yang berbakat menjadi sukarelawan untuk membantu guru melatih murid-murid dalam kegiatan luar darjah. Sebagai bekas penuntut sekolah ini dari tahun 1963 hingga 1967, penulis masih ingat tentang sesi lukisan bimbingan Encik Sarkasi Said, penduduk asal Kampung Pasiran dan pelukis batik terkenal kini.
+Semasa mengimbas kenangan di SPMBT, Cikgu Mariam Junid, 71 tahun (mantan guru SPMBT, 1961–1968) menerangkan tentang beberapa kegiatan luar darjah yang diminati pelajar-pelajar termasuk pasukan Brownies, Pandu Puteri, Tarian Melayu, Bahas dan Seni Lukis. Ada juga penduduk Kampung Pasiran yang berbakat menjadi sukarelawan untuk membantu guru melatih murid-murid dalam kegiatan luar darjah. Sebagai bekas penuntut sekolah ini dari tahun 1963 hingga 1967, penulis masih ingat tentang sesi lukisan bimbingan Encik Sarkasi Said, penduduk asal Kampung Pasiran dan pelukis batik terkenal kini.
 
 
 #### **Kampung Pasiran dengan SPMBT**
@@ -145,7 +145,7 @@ Acara sukan tahunan SPMBT merupakan satu pesta masyarakat meriah kerana pengliba
 
 Setiap bilik darjah dilengkapkan dengan sebuah almari kecil berbentuk buku yang boleh dikatup bila tamat waktu sekolah. Ia dapat menampung hingga 40 buku yang disediakan oleh pihak sekolah serta sumbangan dari guru-guru dan pelajar-pelajar.
 
-Kantin sekolah pula sentiasa membawa nostalgia gembira kerana sesi rehat yang dimulakan dengan goyangan tangan loceng tembaga oleh pembantu sekolah amat dinantinantikan. Bau harum kuah mee sup, mee rebus, tempe goring bercalit sambal, epok-epok serta bubur kacang dan terigu yang berharga antara 5—25 sen, jualan Wak Siti dan ‘Mami’ mengundang barisan panjang pelajar-pelajar yang ingin ‘mengalas’ perut. Yang menarik, kebanyakan para penggerai kantin sekolah adalah penduduk Kampung Pasiran sendiri.
+Kantin sekolah pula sentiasa membawa nostalgia gembira kerana sesi rehat yang dimulakan dengan goyangan tangan loceng tembaga oleh pembantu sekolah amat dinantinantikan. Bau harum kuah mee sup, mee rebus, tempe goring bercalit sambal, epok-epok serta bubur kacang dan terigu yang berharga antara 5–25 sen, jualan Wak Siti dan ‘Mami’ mengundang barisan panjang pelajar-pelajar yang ingin ‘mengalas’ perut. Yang menarik, kebanyakan para penggerai kantin sekolah adalah penduduk Kampung Pasiran sendiri.
 
 Sekitar pertengahan tahun 1970-an, permintaan bagi pendidikan sekolah aliran Melayu merosot. Murid-murid terakhirnya telah dipindahkan ke Sekolah Rendah Tanglin Tinggi bermula tahun 1974. Bangunan sekolah ini kemudiannya digunakan sebagai sekolah sementara bagi Sekolah Rendah Catholic dan Spastic Children’s Association sebelum ia dirobohkan bagi pembangunan “Revenue House”.
 
@@ -153,11 +153,9 @@ Pada 29 Mac 2003, selepas hampir 30 tahun penutupan sekolah itu, satu majlis per
 
 #### **Jalan Pasiran Dalam Kenangan**
 
-Kini yang tinggal hanya nama “Jalan Pasiran” dan “Bukit Tunggal Road” dikenali sebagai daerah mewah di pinggir bandar Singapura.
+Kini yang tinggal hanya nama “Jalan Pasiran” dan “Bukit Tunggal Road” dikenali sebagai daerah mewah di pinggir bandar Singapura. Syarikat Kerjasama Serbaguna Kampung Pasiran Berhad (Kampung Pasiran Multipurpose Co-operative Society Limited) pula masih aktif beralamatkan 10, Gentle Road, Singapura 309194.
 
-Syarikat Kerjasama Serbaguna Kampung Pasiran Berhad (Kampung Pasiran Multipurpose Co-operative Society Limited) pula masih aktif beralamatkan 10, Gentle Road, Singapura 309194.
-
-Walaupun Kampung Pasiran tidak begitu dikenali berbanding kampung-kampung Melayu yang lain, namun ia telah melahirkan ramai pendidik dan para aktivis sosial serta budayawan. Antara mereka ialah mantan ahli parlimen kawasan Kampung Kembangan (1963—1968), Haji Mohamed Arif Suradi, Cikgu-cikgu Mohamed Noh Hj. Noor, Aman Jalal, Husin Suradi, dramatis Rubiah Suparman, pelukis batik Sarkasi Said, pemuzik Haji Adnan Jaafar dan penyanyi Rokiah Sukaimi. Di kampung ini lah juga pembuat capal, Haji Ahmad Abdul Shukur tinggal dan bertukang capal. Capal-capal buatannya banyak ditempah dan dijual di kedai-kedai di Arab Street dan Geylang Serai pada zaman itu.
+Walaupun Kampung Pasiran tidak begitu dikenali berbanding kampung-kampung Melayu yang lain, namun ia telah melahirkan ramai pendidik dan para aktivis sosial serta budayawan. Antara mereka ialah mantan ahli parlimen kawasan Kampung Kembangan (1963–1968), Haji Mohamed Arif Suradi, Cikgu-cikgu Mohamed Noh Hj. Noor, Aman Jalal, Husin Suradi, dramatis Rubiah Suparman, pelukis batik Sarkasi Said, pemuzik Haji Adnan Jaafar dan penyanyi Rokiah Sukaimi. Di kampung ini lah juga pembuat capal, Haji Ahmad Abdul Shukur tinggal dan bertukang capal. Capal-capal buatannya banyak ditempah dan dijual di kedai-kedai di Arab Street dan Geylang Serai pada zaman itu.
 
 Perpindahan penduduk-penduduk kampung ini ke estet perumahan moden dan penjualan tapak dan tanah rumah pusaka untuk pembangunan rumah-rumah mewah seawal tahun-tahun 1970an telah membawa perubahan kepada kawasan dan masjid itu. Dengan penjualan rumah sebandung keluarga Melayu terakhir di situ pada tahun 2008 dengan harga $6.5 juta, maka tamatlah penempatan penduduk Melayu selama lebih seabad di Kampung Pasiran. Pembangunan kawasan berdekatan pula dirancakkan dengan terbinanya Stesen MRT Novena, Hospital Tan Tock Seng, kompleks pusat membeli belah canggih dan beberapa bangunan komersil lain.
 
@@ -168,9 +166,10 @@ Pastinya, Kampung Pasiran dan Bukit Tunggal kekal mewarnai sejarah masyarakat Me
 <b>Penghargaan</b><br>
 Penulis menghargai usahasama Professor Madya. Hadijah Rahmat, National Institute of Education, Nanyang Technological University, yang mengulas makalah ini.
 
+<img style="width:20%;" src="/images/Authors/Sundusia.jpg">
 
 <div>
-<b>Sundusia Rosdi</b> is a Senior Librarian with the National Library Board. She has written five articles on Malay community and literature for <i>BiblioAsia</i> and many book reviews for the Malay newspaper<i>Berita Harian.</i></div>
+<b>Sundusia Rosdi</b> is a Senior Librarian with the National Library Board. She has written articles on the Malay community and Malay literature for <i>BiblioAsia</i> and many book reviews for the Malay newspaper<i>Berita Harian.</i></div>
 
 #### **RUJUKAN**
 
@@ -187,7 +186,7 @@ By-laws Kampung Pasiran Multi-Purpose co-operative Society Limited. (2010, June 
 
 Hadijah Rahmat, et al. (2005). [_Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182)_._ Singapore: HSYang Publishing Pte Ltd. (Call no.: Malay RSING 959.57 HAD)
 
-Haron Adbul Rahman. (1987, October 26).  [Pergerakan koperatif Melayu mulai berputik dalam tahun 1930-an](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871026-1.2.72.10.2). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+Haron Adbul Rahman. (1987, October 26).&nbsp; [Pergerakan koperatif Melayu mulai berputik dalam tahun 1930-an](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871026-1.2.72.10.2). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
 
 Kamsiah Abdullah. (2007). [_Benih budiman: Suatu analisis sosio-sejarah persekolahan Melayu di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12973695). Perak: Penerbit Universiti Pendidikan Sultan Idris. (Call no.: Malay RSING 371.82999280 KAM)
 
@@ -199,7 +198,7 @@ Peraturan Syarikat Kerjasama Serbaguna Kampung Pasiran Berhad. (2010, June 27). 
 
 Salmah Semono. (1972, March 15). [Sistem guru muzik di-Bukit Tunggal yang paling berkesan](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19720315-1.2.40). _Berita Harian_, p. 7. Retrieved from NewspaperSG.
 
-Sulaiman Jeem & Abdul Ghani Hamid. (1997). [_Aktivis Melayu/Islam di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881194). Singapura: Persatuan Wartawan Melayu Singapura. (Call no.: Malay RSING 305.89928 AKT)
+Sulaiman Jeem &amp; Abdul Ghani Hamid. (1997). [_Aktivis Melayu/Islam di Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881194). Singapura: Persatuan Wartawan Melayu Singapura. (Call no.: Malay RSING 305.89928 AKT)
 
 Tuminah Sapawi. (1993, April 20). [Those were the days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930420-1.2.60.5.5). _The Straits Times_, p. 13. Retrieved from NewspaperSG.
 
@@ -233,7 +232,7 @@ Temubual dengan guru-guru Sekolah Perempuan Melayu Bukit Tunggal:
 
  [^2]: [Hadijah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, p. 13.
 
- [^3]: [Hadijah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, pp. 34—37.
+ [^3]: [Hadijah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, pp. 34–37.
 
  [^4]: [Haji Buang](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/faa3e0fb-115d-11e3-83d5-0050568939ad-OHC000715_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview, 11 Nov 1986.
 
