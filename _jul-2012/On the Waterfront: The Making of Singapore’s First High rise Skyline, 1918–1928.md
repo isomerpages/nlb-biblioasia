@@ -105,14 +105,13 @@ The Fullerton Building was the last of the four major building works undertaken 
 
 The comparisons with Liverpool are especially revealing because this was a time when Liverpool proclaimed itself to be the “Second City of Empire”, with a port that was second only to London in size and importance. And it was not just Liverpool that Singapore resembled, but also Shanghai. A photograph of the Singapore waterfront, which appeared in *The Straits Times* of 2 March 1935, was accompanied by the caption, “What China Coast people call the ‘Bund’”. This was precisely the kind of impression that was intended for Singapore in the 1920s – that of a city on the move. It was an era of optimism, energetic growth and expanding horizons, the economic recessions of the early 1920s notwithstanding. This is when we see Singapore transcend its traditional role of regional entrepot and interlocutor between Asia and Europe, to take up a position on the international stage as a global port-city with connections reaching around the world – to Japan, Russia, the Americas, Australia and South Africa, as well as Britain, India and Europe. It was also a time of rapid social change and political development – not something I have been able to consider here – reflected in the lifestyles and aspirations of the people. By the end of the decade, Singapore could properly be considered a modern city in every sense of the word and it was precisely this message that the buildings down on the waterfront set out to capture and convey, for then, as now, it was Singapore’s corporate “skyscraper” architecture which, more than any thing else, proclaimed Singapore’s status as a thoroughly modern 20th- or 21st-century metropolis.
 
-<img style="width:20%;" src="/images/Authors/Julian%20Davision1.jpg"><div>
-	
-<b>Dr Julian Davison</b> was a Lee Kong Chian Research Fellow from 2009 to 2010. He obtained his PhD in Anthropology from the School of Oriental and African Studies, University of London. He is the author of <i>Black and White: The Singapore House, 1898–1941</i> (2006) and <i>Singapore Shophouse</i> (2010).</div>
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width:20%;" src="/images/Authors/Julian%20Davision1.jpg"><b>Dr Julian Davison</b> was a Lee Kong Chian Research Fellow from 2009 to 2010. He obtained his PhD in Anthropology from the School of Oriental and African Studies, University of London. He is the author of <i>Black and White: The Singapore House, 1898–1941</i> (2006) and <i>Singapore Shophouse</i> (2010).</div>
 
 
 #### **REFERENCES**
-
-      
 
 [Arcade for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19071030-1.2.68). (1907, October 30). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
 
