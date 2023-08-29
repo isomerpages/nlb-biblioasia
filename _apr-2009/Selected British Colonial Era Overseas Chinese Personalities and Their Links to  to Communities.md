@@ -158,7 +158,7 @@ However, he was disillusioned with the rampant corruptions within the ranks of t
 
 TKK was a man who would not give up without a good fight. He loved literature and he understood the strength of the media and the written word. During the period 1946–1959, after losing control of Nanyang Siang Pau, he took control of Nam Kew Poo and developed the paper into an equally influential media. He reportedly wrote many of the articles in Nam Kew Poo to pursue his political campaigns against Chiang Kai-shek.
 
-<img src="/images/Vol%205%20Issue%201/BritishColonial/namkewpoo-logo.jpg" style="width:50%;">
+<img src="/images/Vol%205%20Issue%201/BritishColonial/namkewpoo-logo.jpg" style="width:30%;">
  <div style="background-color: white;">Newspaper banner of<i> Nam Kew Poo.</i></div>
 
 Among the many articles he wrote in Nam Kew Poo, were famous headline articles: in chinese.	
