@@ -50,9 +50,9 @@ As much as we like to believe we are fully objective human beings capable of com
 
 To listen to the entire podcast, click [here](https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/)
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 3px; background: #fff6ba; font-size=larger"><b>ABOUT THE GREAT RECLAMATION </b>
+<div style="background-colour:#fff6ba; padding:20px; margin: 3px; background: #fff6ba; font-size=larger"><b>ABOUT THE GREAT RECLAMATION </b><br>
 
-<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/book%20cover_the%20great%20reclamation.jpg">
+<img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/book%20cover_the%20great%20reclamation.jpg">
 <div style="background-color: #fff6ba;text-align:center">Published by Riverhead Books, 2023.</div> 
 	
 Ah Boon is born into a fishing village in 20th-century coastal Singapore in the waning years of British rule. He is a gentle boy who is not much interested in fishing, preferring to spend his days playing with his neighbour Siok Mei. But when he discovers he has the unique ability to locate bountiful, movable islands that no one else can find, he feels a new sense of obligation and possibility – something to offer the community and impress the spirited girl he has come to love.<br><br>
