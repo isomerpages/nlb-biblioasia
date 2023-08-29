@@ -33,11 +33,11 @@ And in your long research process, is there anything that surprised you about Si
 **Rachel**  
 I don’t know that it’s anything that surprised me so much as there were many striking details. One detail that made it into the book was the conveyor belt. During the early phases of land reclamation project, a conveyor belt moved the sand dug out to the coasts. Someone asked me if writing historical fiction is a big leap from speculative fiction. Not really because the history is almost science fictional – the way in which the transformation was so audacious and involved technology to that extent – at that time. When you look at the photos, it looks like something out of <i>Blade Runner</i> or something. It’s really fascinating.
 
-<img style="width:80%" src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/bedok%20reclamation%20site.jpg">
+<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/bedok%20reclamation%20site.jpg" style="width:80%">
 <div style="background-color: white;text-align:center">Land digging at Bedok reclamation site, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div><br>
 
-<img style="background-color: white;width:60%>
-<div style=" src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/conveyor%20belt.jpg">A conveyor belt moving earth from Bedok to the sea, 1960s. <i>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore.</i>
+<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/conveyor%20belt.jpg" style="background-color: white;width:60%">
+<div style=">A conveyor belt moving earth from Bedok to the sea, 1960s. <i>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore.</i>
 
 **Gek Han**  
 One of the many things I appreciate about your book is that you showed the nuances of moving into HDB apartments. It’s not black and white. Like some characters like it; some don’t. In your research, do you get a sense that it was a generational divide?
@@ -51,10 +51,10 @@ As much as we like to believe we are fully objective human beings capable of com
 
 [Listen to the entire BiblioAsia+ episode](https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/)
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 3px; background: #fff6ba; font-size=larger"><b>ABOUT THE GREAT RECLAMATION </b>
+<div style=" font-size="larger&quot;"><b>ABOUT THE GREAT RECLAMATION </b>
 <br><br>
 
-<img style="width:40%;height:55%;" src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/book%20cover_the%20great%20reclamation.jpg">
+<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/book%20cover_the%20great%20reclamation.jpg" style="width:40%;height:55%;">
 <div style="background-color: #fff6ba;text-align:center">Published by Riverhead Books, 2023.</div> 
 <br>
 Ah Boon is born into a fishing village in 20th-century coastal Singapore in the waning years of British rule. He is a gentle boy who is not much interested in fishing, preferring to spend his days playing with his neighbour Siok Mei. But when he discovers he has the unique ability to locate bountiful, movable islands that no one else can find, he feels a new sense of obligation and possibility – something to offer the community and impress the spirited girl he has come to love.<br><br>
