@@ -52,7 +52,7 @@ As much as we like to believe we are fully objective human beings capable of com
 [Listen to the entire BiblioAsia+ episode](https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/)
 
 
-<div style="background-color: #fff6ba;text-align:center; font-size:110%">
+<div style="background-color: #fff6ba;text-align:center; font-size:120%">
 	<br>
 <b>ABOUT THE BOOK</b>
 <br><br>
