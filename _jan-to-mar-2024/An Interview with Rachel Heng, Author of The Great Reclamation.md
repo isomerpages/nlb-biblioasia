@@ -36,7 +36,7 @@ I don’t know that it’s anything that surprised me so much as there were many
 <img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/bedok%20reclamation%20site.jpg" style="width:80%">
 <div style="background-color: white;text-align:center">Land digging at Bedok reclamation site, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div><br>
 
-<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/conveyor%20belt.jpg" style="background-color: white;width:60%">
+<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/conveyor%20belt.jpg" style="background-color: white;height:50%">
 <div style="background-color: white;text-align:center">A conveyor belt moving earth from Bedok to the sea, 1960s. <i>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore.</i></div><br>
 
 **Gek Han**  
