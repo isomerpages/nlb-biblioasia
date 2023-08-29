@@ -104,7 +104,7 @@ The prewar flats showed the influence of the shophouse, the prevalent dwelling f
 
 In the first few decades following its prewar origins, Tiong Bahru estate gained the colloquial tag of *mei ren wo* (Mandarin for “den of beauties”). This nickname came about as the estate developed a reputation for housing the mistresses of many rich men, as well as nightclub singers and hostesses working in the nearby Keong Saik Road red-light district and Great World Cabaret.[^29] The prewar flats were also called *puay kee chu* (literally “aeroplane houses”) in Hokkien, as their design resembled that of the control tower at Kallang Airport, which was constructed around the same time. The estate was also dubbed “Hollywood of Singapore” by locals who had previously only seen flats in American movies.[^30]
 
-<img src="/images/Vol%208%20issue%202/Tiong%20Bahru/image027.jpg" style="width:30%;">
+<img src="/images/Vol%208%20issue%202/Tiong%20Bahru/image027.jpg" style="width:40%;">
 <div style="background-color: white;">National Day Parade at Tiong Bahru, 1975.<i> National Archives of Singapore.</i></div>
 
 The regeneration of Tiong Bahru from the early 2000s has led to a sense of an incipient arts and culture scene taking root in the area, with new residents, art galleries and boutiques drawing inspiration from the heritage and culture of the estate while adding their own narratives to the Tiong Bahru story.[^31] The estate has also attracted artists and filmmakers: Tiong Bahru estate appears in scenes of *Be With Me*, a 2005 movie by local filmmaker Eric Khoo, while the 2010 short film *Civic Life: Tiong Bahru* features residents of the area and tells the stories of the relationships between the community and the environment.
