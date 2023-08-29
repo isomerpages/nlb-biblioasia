@@ -151,7 +151,7 @@ During the Japanese Occupation (1942–45), Chua became a committee member of th
 
 #### **Lim Yong Liang**
 
-<img style="width:75%;height:75%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian.jpg">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian_cropped.jpg">
 <div style="background-color: white;text-align:center">Lim Yong Liang, 1930. <i>Courtesy of Alex Chua (grandson of Chua Boon Lay).</i></div>
 
 6 appearances in the Malaya Cup final (3 wins)
@@ -168,7 +168,7 @@ After the war, Lim became a major advocate for football as an adviser and mentor
 
 #### **Mohamed Noor Kassim (Mat Noor)**
 
-<img style="width:95%;height:85%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/noorkassim.jpg">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/noorkassim_cropped.jpg">
 <div style="background-color: white;text-align:center">Mat Noor heading the ball at the Anson Road Stadium during a match against Johor in the southern section of the Malaya Cup competition. <i>Image reproduced from “Johore Beaten by Eight Goals,” Malaya Tribune, 22 June 1935, 15. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (4 wins) 
@@ -183,7 +183,7 @@ Mat Noor played in the 1933 Malaya Cup final that recorded Singapore’s most on
 
 #### **Lancelot Maurice Pennefather**
 
-<img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/lancelot.jpg">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/lancelot_cropped.jpg">
 <div style="background-color: white;text-align:center">Lancelot Maurice Pennefather. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (4 wins) 
@@ -197,7 +197,7 @@ He played in six Malaya Cup finals for Singapore, winning in 1923, 1924 and 1925
 Pennefather was a certainty to play in the first Malaya Cup final in 1921 but chose to represent his club, the Singapore Recreation Club, in athletics instead. An all-round sportsman, he could also throw a cricket ball well over a distance of 100 yards. Together with his wife Alice and later granddaughter Annabel, the name of Pennefather became firmly embedded in Singapore’s sport story. (Alice excelled in badminton, tennis and hockey, and was inducted into the Singapore Women’s Hall of Fame posthumously in 2016 for her contributions to women’s sports in Singapore. Annabel was a national hockey player and captained the national women’s team from 1970 to 1980.) 
 
 #### **Roy Fairley Smith**
-<img style="width:80%;height:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/smithphoto.jpg">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/smithphoto_cropped.jpg">
 <div style="background-color: white;text-align:center">Roy Fairley Smith. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 6 appearances in the Malaya Cup final (3 wins)
