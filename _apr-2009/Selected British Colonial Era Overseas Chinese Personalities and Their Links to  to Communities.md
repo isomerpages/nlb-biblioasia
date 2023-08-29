@@ -9,7 +9,7 @@ description: Lee Kong Chian Research Fellow Dawn Win examines the migration of
 #### **Introduction**
 The beginning of the 1915 century saw mass immigrations from mainland China. There were the "push" factors such as internal wars, famines and starvation, corruptions and struggles for power within the Qing courts on one side and on the other side, the "pull" factors of jobs and wealth opportunities in the Southeast Asian region under the British rule.
 
-In this paper, we will discuss the migration of mainland Chinese into the British colonies in Southeast Asia with focus on Rangoon,1 Penang and Singapore.
+In this paper, we will discuss the migration of mainland Chinese into the British colonies in Southeast Asia with focus on Rangoon,[^1] Penang and Singapore.
 
 The three cities were integrated during the British rule. Some road names are common; for example, "Armenian Street" and "Beach Road" are found in Penang and Singapore. There are also Burmese street names such Irrawaddy Road, Mandalay Road and Rangoon Road in Singapore and Jalan Burma in Penang.
 
@@ -35,29 +35,29 @@ It all began when the British launched the Second Anglo-Burmese war in 1852, sei
 
 During the peaceful and economically stable years in Southeast Asia under the British rule, more mainland Chinese ventured out and most landed in Rangoon where jobs and opportunities were in abundance. The Irrawaddy Delta region then referred to as the "Rice Bowl of Asia" received most of the migrants.
 
-British Rangoon, with its spacious parks and lakes and mix of modern buildings and traditional wooden architecture, was then also known as "the garden city of the East". It was recorded as the most prosperous city in Southeast Asia. Towards the early 20th century, Rangoon had public services and infrastructure on a par with the City of London.2
+British Rangoon, with its spacious parks and lakes and mix of modern buildings and traditional wooden architecture, was then also known as "the garden city of the East". It was recorded as the most prosperous city in Southeast Asia. Towards the early 20th century, Rangoon had public services and infrastructure on a par with the City of London.[^2]
 
 #### **Trade and Commerce**
 After Britain restructured its crown colonies following the annexation of Burma, the Southeast Asia region became stable. Trade and commerce grew. Trading of rice and other staple food and commodities, especially teak wood from Burma, led the growth. Shipping became the essential transportation and communication infrastructure for the region.
 
-Many shipping. lines were established to transport people and goods.3
+Many shipping. lines were established to transport people and goods.[^3]
 
 Carriage of goods by sea complemented overland transportation modes. It was a faster option. A single journey, for example, from Rangoon to Singapore that would have taken months could be shortened to weeks by the sea-route.
 
 The shipping industry helped to fuel the growth of commerce and communications, expanding trade within the region and China. However, control of trade and commerce still rested with the British and Europeans merchants and traders as they enjoyed preferential treatments and could influence the British Administrators.
 
-#### **The Burmese Overseas - Chinese Shipping Tycoon Lim Chin Tsong (1867–1923)4**
-Lim Chin Tsong (LCT), a Rangoon-born Chinese merchant, became an important intermediary of the Burmah Oil Company.5
+#### **The Burmese Overseas - Chinese Shipping Tycoon Lim Chin Tsong (1867–1923)**[^4]
+Lim Chin Tsong (LCT), a Rangoon-born Chinese merchant, became an important intermediary of the Burmah Oil Company.[^5]
 
 His father, Lim Si Xing, a rice merchant, came from Tong An County in Fujian Province, China, in 1861 and settled in Rangoon. When conducting businesses with the British and Europeans, due to a lack of understanding in the English language, the elder Lim found himself handicapped. He therefore sent his son to St. Paul's College, then a premier English school in Rangoon. It was this education that laid the foundation for LCT and equipped him in his later years.
 
-LCT operated his business from an office in China Street, Rangoon.6 He had a network of oil distributors which extended throughout British Burma.
+LCT operated his business from an office in China Street, Rangoon.[^6] He had a network of oil distributors which extended throughout British Burma.
 
 With some ocean-going vessels: SS Glenogie, SS Seang Bee, SS Seang Choon, SS Seang Kok, SS Seang Lee, among others, LCT established his *Seang Line of Steamers* ("The Chinese Steamship Company of Rangoon") plying from Rangoon to Singapore, Penang, Hong Kong, Swatow and Amoy (Xiamen).
 
-Kim Keng Leong &amp; Company (Chop Kim Cheong), Penang, was the agent for *Seang Line*. Soo Bee Kongsi (Rangoon Kerosene Oil), Ooi Saik &amp; Company (Rangoon - Penang rice merchants) were also agents for LCT located at 127 Beach Street, Penang.7
+Kim Keng Leong &amp; Company (Chop Kim Cheong), Penang, was the agent for *Seang Line*. Soo Bee Kongsi (Rangoon Kerosene Oil), Ooi Saik &amp; Company (Rangoon - Penang rice merchants) were also agents for LCT located at 127 Beach Street, Penang.[^7]
 
-*Seang Line* Singapore agency was vested with Giang Hoe Company which was first located at 64 Japan Street (now called Boon Tat Street),8 Singapore. It later moved to 129 Cecil Street, Singapore.9
+*Seang Line* Singapore agency was vested with Giang Hoe Company which was first located at 64 Japan Street (now called Boon Tat Street),[^8] Singapore. It later moved to 129 Cecil Street, Singapore.[^9]
 
 As a result of his shipping line and the growth in trade and commerce, LCT prospered and his influence grew. He became a member of the legislative council and was awarded the Order of the British Empire (OBE) by the British Throne.
 
@@ -65,7 +65,7 @@ In Rangoon, he built a palatial residence in one of the affluent quarters of Ran
 
 The palace, still standing today, was home to former Burmese presidents and ministers. It is currently occupied by the Ministry of Culture.
 
-#### **As Agent for Burmah Oil Company (BOC)** 10
+#### **As Agent for Burmah Oil Company (BOC)** [^10]
 At first, LCT's exclusive agency with BOC got the British managers, seated at their control office in Glasgow, Scotland, gratified at having such an energetic man in full control of their kerosene sales. However, he lacked financial management ability, which became his downfall. His accounts were reported to be in such a mess that personally, LCT did not even know how much he owed and what his profits were. All he knew was that he was cash-rich.
 
 From 1908 onwards, after being awarded the agency for the company's product sales in the province, he became a serious bad paymaster to Finlay Fleming &amp; Company, BOC's managing agent in London, for the purchases he made. By the beginning of 1911 he reportedly owed several hundred thousand sterling pounds.
@@ -84,7 +84,7 @@ From 1908 onwards, after being awarded the agency for the company's product sale
 
 Apparently, as it was later found out, the transactions from all his different business activities were jumbled up. He was managing steamships and a match factory, rubber plantations and tin mining without keeping a proper audit of the transactions. It became impossible to distinguish where one account ended and another began. In those days, there were also no auditors.
 
-Before the managers could terminate his services, LCT had resigned and was outside Burma. He had taken over one of his own ships, the SS "Seang Bee", to fulfill a lifetime's ambition to visit London together with his family, friends and business associates; a trip that was crazy enough to inspire an ironic comment (would be good to quote that 'comment') due to his mounting debts. But, in reality, he recouped his expenses from the cargoes the liner carried.
+Before the managers could terminate his services, LCT had resigned and was outside Burma. He had taken over one of his own ships, the SS "Seang Bee", to fulfill a lifetime's ambition to visit London together with his family, friends and business associates; a trip that was crazy enough to inspire an ironic comment (would be good to quote that 'comment') due to his mounting debts. But, in reality, he recouped his expenses from the cargoes the liner carried.[^11]
 
 In London he called on David Sime Cargill and other directors, who entertained him and his party at the Hyde Park Hotel. All business talks were carefully avoided until a formal meeting was later held in the office. A generous final settlement scheme was finalised and they parted in complete amity.
 
@@ -97,7 +97,7 @@ The newspapers also played important roles in maintaining communication links an
 
 Many who had lost communications with their families in the mainland could also publish their news. The newspapers became links for lost relatives.
 
-#### **The World's Oldest Chinese Newspaper - Kwang Wah Yit Poh12 Ch'ng Yeen Aun (1867–1938)13**
+#### **The World's Oldest Chinese Newspaper - Kwang Wah Yit Poh[^12] Ch'ng Yeen Aun (1867–1938)**[^13]
 
 He was founder and Chairman of the Rangoon and Penang Kwong Wah Yit Poh,14, one of the surviving oldest Chinese language newspapers.
 
