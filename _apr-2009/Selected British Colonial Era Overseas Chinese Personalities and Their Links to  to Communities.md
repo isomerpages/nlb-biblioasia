@@ -254,12 +254,14 @@ BHLB had an original branch office building in Singapore along Upper Circular Ro
 The bank has since undergone several mergers and is now part of the Bumiputra Commerce Holdings Berhad, the second largest banking group in Malaysia trading under the name of the Commerce International Merchant Bankers (CIMB Bank). By the time the merger took place, BHLB group had diversified into investments and property holdings and developments. The business is now managed by Stephen Yeap Leong Huat, his grandson.
 
 #### **Homestead - The Former Residence and Current Administration Office at Wawasan Open University**
-
-omestead, a grand mansion sited on a large piece of richly endowed open land, was designed by renowned British architect, James Stark of Stark &amp; McNeil in 1919. It was originally built for Lim Mah Chye, an overseas Chinese merchant during that time. Lim Chin Guan, the son of Lim Mah Chye, reportedly controlled the Eastern Shipping Company in 1918 and according to historical records, the shipping company, which was formed in 1907, owned about 40 sailing ships.
+Homestead, a grand mansion sited on a large piece of richly endowed open land, was designed by renowned British architect, James Stark of Stark &amp; McNeil in 1919. It was originally built for Lim Mah Chye, an overseas Chinese merchant during that time. Lim Chin Guan, the son of Lim Mah Chye, reportedly controlled the Eastern Shipping Company in 1918 and according to historical records, the shipping company, which was formed in 1907, owned about 40 sailing ships.
 
 The mansion was later acquired by BHLB and it became the home of Yeap Chor Ee and his descendants. In accordance with his will, his grandson, Datuk Stephen Yeap Leong Huat, recently handed the property over to the Ministry of Education for Wawasan Open University to commence its operations.[^37] 
 
 The 30,000 square feet Homestead mansion, which sits on a prime 1.44 ha site, houses the campus chancellery, administration office and the new building behind houses lecture theatres.
+
+<img src="/images/Vol%205%20Issue%201/BritishColonial/wawasan%20open%20university1.JPG" style="width:80%;">
+ <div style="background-color: white;">Wawasan Open University (Homestead) in Penang. Photograph taken on 29 June 2008. <i>Courtesy of Edwin Tan.</i></div>
 
 A 2.4 metres high bronze statue of Yeap Chor Ee was placed at the front entrance of the Wawasan Open University in memory of the Chinese philanthropist whose rags-to-riches story is an inspiration to many locals.
 
