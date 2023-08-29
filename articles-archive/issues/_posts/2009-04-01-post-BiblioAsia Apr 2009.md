@@ -12,7 +12,8 @@ description: ""
 <a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue1/apr-2009/knowledge-sharing-post-secondary-institution/">Knowledge Sharing in Singapore’s Public Post-secondary Educational Institutions</a><br>
 Lee Kong Chian Research Fellow *Chiam Ching Leen* shares her findings, insights, and thoughts on the nature of knowledge sharing in post-secondary institutions in Singapore.[(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_KnowledgeSharing.pdf)
 
-**Selected British Colonial Era Overseas Chinese Personalities and Their Links to Communities and Establishments in Singapore, Penang and Yangon** <br> Lee Kong Chian Research Fellow *Dawn Win* examines the migration of mainland Chinese into British colonies in Southeast Asia, through the lens of selected Chinese entrepreneurs.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue1/apr-2009/british-colonial-overseas-chinese-community/">Selected British Colonial Era Overseas Chinese Personalities and Their Links to Communities and Establishments in Singapore, Penang and Yangon
+</a><br>Lee Kong Chian Research Fellow *Dawn Win* examines the migration of mainland Chinese into British colonies in Southeast Asia, through the lens of selected Chinese entrepreneurs.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue1/apr-2009/aceh-women-islam-nineteenth-century/">Women and Islam in Pre-nineteenth Century Aceh</a><br>*Ma. Theresa R. Milallos*, a Lee Kong Chian Research Fellow, explores how gender relations in Aceh have changed and continue to be transformed by the dynamism of Islam’s interpretation in Aceh.[(PDF)](/files/pdf/vol-5/issue-1/v5-issue1_WomenIslam.pdf)
 

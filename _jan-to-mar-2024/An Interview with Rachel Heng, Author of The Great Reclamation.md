@@ -2,17 +2,18 @@
 title: An Interview with Rachel Heng, Author of The Great Reclamation
 permalink: /vol-19/issue-4/jan-mar-2024/interview-rachel-heng/
 description: ""
+image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/rachel heng.jpg
 ---
 #### <i>The Great Reclamation</i> is a fascinating historical novel about land reclamation in 1960s Singapore. Also a love story, the book has been named a _New York Times_ Editor’s Choice, and a “Best Book of 2023 So Far” by the _New Yorker_ and Amazon Books. Editor Soh Gek Han interviews Rachel Heng on her novel for the BiblioAsia+ podcast.
 
-![](/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/rachel%20heng.jpg)
-<div style="background-color: white;">Rachel Heng holding her latest book,<i>The Great Reclamation. Photo by Jimmy Yap.</i></div>
+<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/rachel%20heng.jpg">
+<div style="background-color: white;text-align:center">Rachel Heng holding her latest book,<i>The Great Reclamation. Photo by Jimmy Yap.</i></div>
 
 **Gek Han**  
-Thank you so much for taking the time to do this podcast with us. It’s really thrilling to see a book set in Singapore written by a local writer getting such rave reviews worldwide and locally. How has it been like for you?
+Thank you so much for taking the time to do [this podcast](/podcast/the-great-reclamation/) with us. It’s really thrilling to see a book set in Singapore written by a local writer getting such rave reviews worldwide and locally. How has it been like for you?
 
 **Rachel**<br>
-It’s been wonderful. I never dared to expect it. When I first started writing the book, maybe five or six years ago, a part of me worried that no one would want to publish, let alone read a book about land reclamation in the 1960s in Singapore. It’s quite a departure from my first book [<i>Suicide Club</i>], which was speculative fiction with sci-fi concepts. <i>The Great Reclamation</i> is a deep historical fiction with a unique Singaporean setting. But thankfully, it did get published and has received a pretty great response, both in Singapore as well as abroad. And the story seems to be universal in some ways and has spoken to a wide cross section of people across the world.
+It’s been wonderful. I never dared to expect it. When I first started writing the book, maybe five or six years ago, a part of me worried that no one would want to publish, let alone read a book about [land reclamation](/vol-13/issue-1/apr-jun-2017/land-from-sand/) in the 1960s in Singapore. It’s quite a departure from my first book [<i>Suicide Club</i>], which was speculative fiction with sci-fi concepts. <i>The Great Reclamation</i> is a deep historical fiction with a unique Singaporean setting. But thankfully, it did get published and has received a pretty great response, both in Singapore as well as abroad. And the story seems to be universal in some ways and has spoken to a wide cross section of people across the world.
 
 **Gek Han**  
 You’ve really made history come alive. And you’ve made it personal. We’ve read about land reclamation and people resettling. But with these characters, you can really feel the emotions. What gave you the idea to write about this topic?
@@ -24,7 +25,7 @@ I’ve always been interested in land reclamation. I went to Ngee Ann Primary in
 <i>The Great Reclamation</i> is your second novel and your first historical fiction work. What do you find challenging or interesting about writing historical fiction?
 
 **Rachel**  
-I really loved writing it because I was interested in the topic. And you should probably only write novels on things you’re interested in, because they take a very long time and involve a lot of ups and downs, many downs. And so having the pigheaded persistence to continue, even when you feel like your project is going nowhere, and you will never be able to figure it out. I loved doing the research for this book. I had to force myself to stop researching. I read transcripts of many oral history interviews, a lot of amazing resources on the [BiblioAsia website](https://biblioasia.nlb.gov.sg/)&nbsp;and history books, and I looked at old photographs. But then when it came to writing the book, the challenge was putting aside the facts and the data I had collected – which was quite overwhelming, because there was so much of it – and to try and construct a coherent narrative that felt intimate and personal, and filtered through the characters’ perspectives. Because fiction is about inhabiting someone’s consciousness. And that’s the beauty of fiction. You can live this reality that’s been created through the eyes of the characters. So, including enough but not too much was definitely challenging.
+I really loved writing it because I was interested in the topic. And you should probably only write novels on things you’re interested in, because they take a very long time and involve a lot of ups and downs, many downs. And so having the pigheaded persistence to continue, even when you feel like your project is going nowhere, and you will never be able to figure it out. I loved doing the research for this book. I had to force myself to stop researching. I read transcripts of many oral history interviews, a lot of amazing resources on the [BiblioAsia website](/vol-13/issue-1/apr-jun-2017/land-from-sand/)&nbsp;and history books, and I looked at old photographs. But then when it came to writing the book, the challenge was putting aside the facts and the data I had collected – which was quite overwhelming, because there was so much of it – and to try and construct a coherent narrative that felt intimate and personal, and filtered through the characters’ perspectives. Because fiction is about inhabiting someone’s consciousness. And that’s the beauty of fiction. You can live this reality that’s been created through the eyes of the characters. So, including enough but not too much was definitely challenging.
 
 **Gek Han**  
 And in your long research process, is there anything that surprised you about Singapore history?
@@ -32,9 +33,11 @@ And in your long research process, is there anything that surprised you about Si
 **Rachel**  
 I don’t know that it’s anything that surprised me so much as there were many striking details. One detail that made it into the book was the conveyor belt. During the early phases of land reclamation project, a conveyor belt moved the sand dug out to the coasts. Someone asked me if writing historical fiction is a big leap from speculative fiction. Not really because the history is almost science fictional – the way in which the transformation was so audacious and involved technology to that extent – at that time. When you look at the photos, it looks like something out of <i>Blade Runner</i> or something. It’s really fascinating.
 
-![](/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/bedok%20reclamation%20site.jpg)<div style="background-color: white;">Land digging at Bedok reclamation site, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/bedok%20reclamation%20site.jpg" style="width:80%">
+<div style="background-color: white;text-align:center">Land digging at Bedok reclamation site, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div><br>
 
-![](/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/conveyor%20belt.jpg)<div style="background-color: white;">A conveyor belt moving earth from Bedok to the sea, 1960s. <i>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/conveyor%20belt.jpg" style="background-color: white;width:55%">
+<div style="background-color: white;text-align:center">A conveyor belt moving earth from Bedok to the sea, 1960s. <i>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore.</i></div><br>
 
 **Gek Han**  
 One of the many things I appreciate about your book is that you showed the nuances of moving into HDB apartments. It’s not black and white. Like some characters like it; some don’t. In your research, do you get a sense that it was a generational divide?
@@ -46,11 +49,21 @@ All these titbits of that experience. That must have been in the ’70s or ’80
 
 As much as we like to believe we are fully objective human beings capable of coming to intellectual abstract conclusions in a vacuum, it’s just not true. When you talk to people, when you exist in the world, where you come from, what your family background is, the path of your life, where you find acceptance, where you don’t – all these things shape our political beliefs, what we believe a society should look like, what we believe it means to live in a society with other people. And much of that is so deeply rooted and almost inextricable that the characters aren’t even aware of the ways in which they are shaped by this. And so I want the book to have a wide range of voices from people who came from different places. They either agree or couldn’t agree, either compromise or don’t, and what that does to them as individuals.
 
-To listen to the entire podcast, click [here](https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/)
+[Listen to the entire BiblioAsia+ episode](https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/)
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 3px; background: #fff6ba; font-size=larger"><b>ABOUT THE GREAT RECLAMATION </b><br><br>Ah Boon is born into a fishing village in 20th-century coastal Singapore in the waning years of British rule. He is a gentle boy who is not much interested in fishing, preferring to spend his days playing with his neighbour Siok Mei. But when he discovers he has the unique ability to locate bountiful, movable islands that no one else can find, he feels a new sense of obligation and possibility – something to offer the community and impress the spirited girl he has come to love.<br><br>
+
+<div style="background-color: #fff6ba;text-align:center; font-size:120%">
+	<br>
+<b>ABOUT THE BOOK</b>
+<br><br>
+<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/book%20cover_the%20great%20reclamation.jpg" style="width:40%;">
+<div style="background-color: #fff6ba;text-align:center">Published by Riverhead Books, 2023.</div> 	
+	
+<div style="background-color: #fff6ba;text-align:left; padding:15px">
+	<br>
+Ah Boon is born into a fishing village in 20th-century coastal Singapore in the waning years of British rule. He is a gentle boy who is not much interested in fishing, preferring to spend his days playing with his neighbour Siok Mei. But when he discovers he has the unique ability to locate bountiful, movable islands that no one else can find, he feels a new sense of obligation and possibility – something to offer the community and impress the spirited girl he has come to love.<br><br>
 By the time they are teens, Ah Boon and Siok Mei are caught in the tragic sweep of history. As the nation hurtles toward rebirth, the two friends, newly empowered, must decide who they want to be, and what they are willing to give up.<br><br>
-	<i>The Great Reclamation</i> is a love story and coming-of-age novel that reckons with the legacy of British colonialism, the Japanese Occupation, Singapore’s postwar years, and the pursuit of modernity.<br><br>
+<i>The Great Reclamation</i> is a love story and coming-of-age novel that reckons with the legacy of British colonialism, the Japanese Occupation, Singapore’s postwar years, and the pursuit of modernity.<br><br>
 The book is available for reference and for loan at the Lee Kong Chian Reference Library and selected public libraries 
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224">(call nos. S823 HEN and HEN)</a> and on NLB OverDrive as an <a href="https://nlb.overdrive.com/media/D985D9DB-01ED-4B3A-B28B-DE6597804F31">ebook</a> and <a href="https://nlb.overdrive.com/media/7CB2E530-B429-4D52-B61A-9466F7383739">audiobook.</a>
-</div>
+</div></div>

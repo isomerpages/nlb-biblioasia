@@ -68,6 +68,10 @@ This raises an interesting point, however, regarding the perceived modernity of 
 
 The continued preference for Classically-informed buildings was not because the general public was unaware of the “new architecture” of the early Modernists; it was simply not well received, whether in Europe or here in Singapore. “Modern German dwelling houses look like the products of a cubist or futurist nightmare,” declared the editor of *The Straits Times* in June 1929.[^11] “Although they are obviously designed to act as sun-straps, there is no architectural merit in the utilitarian purpose. They are odd, uncouth, apparently unfinished. The average child can construct something aesthetically more pleasing with a Meccano set.”[^12]
 
+<img src="/images/Vol%208%20issue%202/Singapore%20waterfront/Municipal%20building.jpg" style="width:80%;">
+ <div style="background-color: white;">The Municipal Building in the 1950s.<i> From the Lee Kip Lin Collection. All rights reserved, Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
+
+
 It took close to three years for the Ocean Building to be completed, but the wait, it seems, was worth it. “An imposing pile,” proclaimed *The Straits Times* at the official opening on 24 March 1923, “that it is the handsomest building in town admits of no doubt.” It soon had its rivals: followed, a year later, by the Union Building and a new Hongkong &amp; Shanghai Bank, which replaced the old Gothic pile on the corner of Collyer Quay and Battery Road. Both these buildings were designed by Denis Santry of Messrs Swan &amp; Maclaren, who had joined this most prestigious of architectural practices just after the end of the war. Santry had previously worked in South Africa, where he is recognised as the father of the South African Arts and Crafts Movement, but his Hongkong &amp; Shanghai Bank was anything but Arts and Crafts in style. It was described at the time as being in the “English Renaissance” style – that is to say, Gordon’s “modern classic” style – and it was another corporate blockbuster.
 
 The new bank building comprised a rusticated arcade at street level, surmounted by a grand colonnade of Ionic columns rising through three storeys to support an attic floor, the whole being surmounted by a rotunda and dome.[^13] In terms of the materials, too, this was a very lavish affair. For starters, there were four pairs of bronze entrance doors, each pair measuring 8 feet wide by 14 feet high, and weighing 3 tons, while the main banking hall had marble columns topped by brass capitals, as well as marble floors throughout – even the cashiers’ counters were marble. To add further to this magnificence, the space was lit from above by two domed lights, or lanterns, executed in stained glass, which, according to *The Straits Times*, created “a cathedral like effect”.[^14]
@@ -80,7 +84,7 @@ Like its neighbour, it also had a pair of monumental bronze doors, measuring 15�
 
 No expense was spared on the materials either. A feature in *The Singapore Free Press*, written in January 1924 as the building was nearing completion, tells us: 
 
-<center>[the] harmonious use of various coloured marbles for floors and walls on the ground floor will provide an effect of striking richness, unequalled in the country. The floor marbles will be Belgian black and dove, the skirting of the walls will be of Genoa green, the mouldings round the doors will be Swiss cippolino (striped green), while quartered panels will be of bresicated Sienna.[^17]</center>
+<center>[the] harmonious use of various coloured marbles for floors and walls on the ground floor will provide an effect of striking richness, unequalled in the country. The floor marbles will be Belgian black and dove, the skirting of the walls will be of Genoa green, the mouldings round the doors will be Swiss cippolino (striped green), while quartered panels will be of bresicated Sienna.</center>
 
 <img style="width:90%;" src="/images/Vol%208%20issue%202/Singapore%20waterfront/Fullerton%20building.jpg">
  <div style="background-color: white;">The Fullerton Building around the time of its completion in 1928. <i>National Archives of Singapore.</i></div>
@@ -101,14 +105,13 @@ The Fullerton Building was the last of the four major building works undertaken 
 
 The comparisons with Liverpool are especially revealing because this was a time when Liverpool proclaimed itself to be the “Second City of Empire”, with a port that was second only to London in size and importance. And it was not just Liverpool that Singapore resembled, but also Shanghai. A photograph of the Singapore waterfront, which appeared in *The Straits Times* of 2 March 1935, was accompanied by the caption, “What China Coast people call the ‘Bund’”. This was precisely the kind of impression that was intended for Singapore in the 1920s – that of a city on the move. It was an era of optimism, energetic growth and expanding horizons, the economic recessions of the early 1920s notwithstanding. This is when we see Singapore transcend its traditional role of regional entrepot and interlocutor between Asia and Europe, to take up a position on the international stage as a global port-city with connections reaching around the world – to Japan, Russia, the Americas, Australia and South Africa, as well as Britain, India and Europe. It was also a time of rapid social change and political development – not something I have been able to consider here – reflected in the lifestyles and aspirations of the people. By the end of the decade, Singapore could properly be considered a modern city in every sense of the word and it was precisely this message that the buildings down on the waterfront set out to capture and convey, for then, as now, it was Singapore’s corporate “skyscraper” architecture which, more than any thing else, proclaimed Singapore’s status as a thoroughly modern 20th- or 21st-century metropolis.
 
-<img style="width:20%;" src="/images/Authors/Julian%20Davision1.jpg"><div>
-	
-<b>Dr Julian Davison</b> was a Lee Kong Chian Research Fellow from 2009 to 2010. He obtained his PhD in Anthropology from the School of Oriental and African Studies, University of London. He is the author of <i>Black and White: The Singapore House, 1898–1941</i> (2006) and <i>Singapore Shophouse</i> (2010).</div>
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width:20%;" src="/images/Authors/Julian%20Davision1.jpg"><b>Dr Julian Davison</b> was a Lee Kong Chian Research Fellow from 2009 to 2010. He obtained his PhD in Anthropology from the School of Oriental and African Studies, University of London. He is the author of <i>Black and White: The Singapore House, 1898–1941</i> (2006) and <i>Singapore Shophouse</i> (2010).</div>
 
 
 #### **REFERENCES**
-
-      
 
 [Arcade for Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19071030-1.2.68). (1907, October 30). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
 
