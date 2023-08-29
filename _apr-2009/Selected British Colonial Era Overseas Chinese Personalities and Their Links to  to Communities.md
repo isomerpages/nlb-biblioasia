@@ -385,3 +385,88 @@ Chen Yi-Sein, “The Chinese in Rangoon during the 18th and 19th Centuries,” _
 W. Daw, “Coastal Trade Between Yangon, Penang and Singapore” in _[Chinese Diaspora Since Admiral Zheng He: With Special Reference to Maritime Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12873728)_, ed. Leo Suryadinata (Singapore: Chinese Heritage Centre and HuayiNet, 2007), 125–35. (Call no. RSING 959.004951 CHI)
 
 Wong Yee-Tuan, “The Big Five Hokkien Families in Penang, 1830s–1890s,” Chinese Southern Diaspora Studies 1 (2007): 106–15, [https://openresearch-repository.anu.edu.au/handle/1885/17848](https://openresearch-repository.anu.edu.au/handle/1885/17848).
+
+#### **NOTES**
+[^1]: "Rangoon" is the former name for "Yangon" during the British Rule until1989 when "Burma" officially became known as "Myanmar".
+
+[^2]: John Falconer et al., _[Burmese Design &amp; Architecture](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12775548)_ (Singapore: Periplus, 2000) (Call no. RART 709.591 BUR): See also B. R. Pearn, _[A History of Rangoon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=537060)_ (UK: Farnborough, Gregg, 1971). (Call no. RCLOS q959.1 PEA)
+
+[^3]: During that time there were also other shipping lines, such as Straits Steamship (founded 1890) controlled from Singapore; British India Steamship Navigation Company (founded 1856) controlled from Brisbane, Australia and the Irrawaddy Flotilla Company (founded 1865) controlled from Rangoon.
+
+[^4]: In Chinese
+
+[^5]: Burmah Oil Company was acquired by Castrol and later merged into British Petroleum.
+
+[^6]: Lim Chin Tsong had a very unique telegraphic address: "Chippychop".
+
+[^7]: “Singapore Merchants &amp; Professions &amp; Co.” in _The Singapore and Malayan Directory_ (Singapore: Printed at the Mission Press, 1920), 310. (Call no.&nbsp; RRARE 382.09595 STR; microfilm 1190)
+
+[^8]: “Singapore Merchants &amp; Professions &amp; Co.,” 106, 98. (microfilms NL 1192, NL1993)
+
+[^9]: “Singapore Merchants &amp; Professions &amp; Co.,” 174. (microfilm NL1190)
+
+[^10]: A two-volume history of Burmah Oil Company written by T.A.B. Corley, _[A History of the Burmah Oil Company](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4132095)_, 2 vols. (London: Heinemann, 1983–1988). (Call no. RSEA 338.762233820941 COR). The Burmah Oil Company was founded in Glasgow, Scotland in 1896 by David Sime Cargill.
+
+[^11]: Cherry Lewis, _The Dating Game_ (UK: Cambridge University Press, 2000)
+
+[^12]: In Chinese
+
+[^13]: In Chinese
+
+[^14]: In Chinese
+
+[^15]: In Chinese
+
+[^16]: In Chinese
+
+[^17]: In Chinese
+
+[^18]: In Chinese
+
+[^19]: In Chinese
+
+[^20]: In Chinese
+
+[^21]: In Chinese
+
+[^22]: A mission in 1940 led by Tan Kah Kee to represent the Singapore and Southseas China Relief Funds for comforting the wounded and for assessing the war conditions in China.
+
+[^23]: In Chinese
+
+24\. In Chinese
+
+25\. In Chinese
+
+26\. In Chinese
+
+27\. “One of the Directors of the Oversea-Chinese Bank Limited,” _[Berita OCBC](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563)_ 3, no. 5 (October 1972): 4. (Call no. RSING 332.12095957 BOCBC)
+
+28\. _Sin Kuo Min Jit Poh_, 8 October 1919.
+
+29\. “[One of the Directors of the Oversea-Chinese Bank Limited](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563),” 6.
+
+30\. _[Berita OCBC](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563)_ 15, no. 6 (August 1984): 8. (Call no. RSING 332.12095957 BOCBC)
+
+31\. In Chinese
+
+32\. In Chinese
+
+33\. In Chinese
+
+34\. Ban Hin Lee Trading was appointed by the Japanese as rice stockist during Japanese Occupation. [Yap Siong Yu](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/4d7cd1e9-115f-11e3-83d5-0050568939ad), oral history interview by Tan Beng Luan, 27 June 1983, MP3 audio, 27:44, National Archives of Singapore (accession no. 000286)
+
+35\. In Chinese
+
+36\. A Upper Circular Road, Singapore, Yeap Chor Ee was also a director of OCBC (1933–1941), _[Berita OCBC](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411563)_ 3, no. 5 (October 1972): 3. (Call no. RSING 332.12095957 BOCBC)
+
+37\. [David Chew Beng Hwee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/bf913c65-115f-11e3-83d5-0050568939ad), oral history interview by Lim Boon Seong, 20 December 1990–20 August 1991, MP3 audio, National Archives of Singapore (accession no. 001234)
+
+38\. Stephen Yeap Leong Huat, “Wawasan Open University Ground Breaking Ceremony,” speech, 8 January 2006, [https://www.wou.edu.my/wou-college-main-campus-ground-breaking-ceremony/](https://www.wou.edu.my/wou-college-main-campus-ground-breaking-ceremony/).
+
+39\. Yeap, “Ground Breaking Ceremony.”
+
+40\. The descendents of Yeap Swee Ah are now living in 20' Street, Yangon Chinatown, Myanmar.
+
+41\. In Chinese
+
+
