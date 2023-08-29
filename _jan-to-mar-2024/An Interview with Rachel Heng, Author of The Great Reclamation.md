@@ -34,7 +34,8 @@ I don’t know that it’s anything that surprised me so much as there were many
 
 ![](/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/bedok%20reclamation%20site.jpg)<div style="background-color: white;">Land digging at Bedok reclamation site, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-![](/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/conveyor%20belt.jpg)<div style="background-color: white;">A conveyor belt moving earth from Bedok to the sea, 1960s. <i>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore.</i></div>
+<img style="background-color: white;width:75%;height:75%" src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/conveyor%20belt.jpg">
+<div style="background-color: white;text-align:center">A conveyor belt moving earth from Bedok to the sea, 1960s. <i>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore.</i></div>
 
 **Gek Han**  
 One of the many things I appreciate about your book is that you showed the nuances of moving into HDB apartments. It’s not black and white. Like some characters like it; some don’t. In your research, do you get a sense that it was a generational divide?
