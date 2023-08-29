@@ -218,7 +218,7 @@ By a serendipitous meeting, he got to know Goh Teik Ji, who became his benefacto
 
 When World War I broke out, the price of sugar, which is an essential commodity, rose as a result of the disruption in the transportation services. Yeap's shop naturally became the exclusive dealer for sugar and thus began his journey into prosperity.
 
-#### **Ban Hin Lee Bank (BHLB)**[^32]
+#### **Ban Hin Lee Bank (BHLB)** [^32]
 From the profits of the sugar deals, he invested in some other ventures, including tin smelting and rice trading.[^33] In 1918, he also set up a remittance and foreign exchange business at his shop through a banking account with then Hong Kong and Shanghai Bank of Malaya in Penang. The business helped to seed the founding of BHLB, the first overseas Chinese commercial bank in Penang, Malaysia in 1935.[^34] 
 
 BHLB indeed remained "the one and only Penang-based Chinese bank" for the next 70 years. Its landmark building, built in 1934, was designed by Ung Ban Hoe, the first Chinese architect, who was then practising with Stark &amp; MacNeill, a British architect firm in then British Malaya.
@@ -468,5 +468,3 @@ Wong Yee-Tuan, “The Big Five Hokkien Families in Penang, 1830s–1890s,” Chi
 [^40]: The descendents of Yeap Swee Ah are now living in 20' Street, Yangon Chinatown, Myanmar.
 
 [^41]: In Chinese
-
-
