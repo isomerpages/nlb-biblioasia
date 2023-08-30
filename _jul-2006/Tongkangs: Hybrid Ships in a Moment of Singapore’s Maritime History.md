@@ -7,7 +7,7 @@ description: The history of the tongkang industry in Singapore began with the
   here. Tongkangs were the chief means of sea transport, carrying men and goods
   between South China and Nanyang.
 ---
- #### The history of the tongkang industry in Singapore began with the arrival of Stamford Raffles in 1819. With the establishment of the island as a trading centre, merchants from around the region and beyond began flocking here. Tongkangs were the chief means of sea transport, carrying men and goods between South China and Nanyang.
+#### The history of the tongkang industry in Singapore began with the arrival of Stamford Raffles in 1819. With the establishment of the island as a trading centre, merchants from around the region and beyond began flocking here. Tongkangs were the chief means of sea transport, carrying men and goods between South China and Nanyang.
 
 The history of the tongkang industry in Singapore is part of the history of enterprise in Southeast Asia. The history of the industry began with Sir Stamford Raffles in 1819. As soon as Raffles laid down the commercial foundations of the island, merchants around the region and beyond arrived and began operating from this rapidly expanding centre of trade. The Singapore merchants acted as the agents of exporters in China, selling on their behalf, the produce, mainly foodstuffs, of the coastal provinces of South China – Fujian, Guangdong and Hainan Island. The main ports for this export trade were Amoy, Swatow (Shandou today), and Hoi How, the capital of Hainan.
 
@@ -51,8 +51,3 @@ The centre of the tongkang industry was that part of the island bound by Kallang
 All other tongkangs unloaded their cargo of charcoal and fuelwood, poles, planks and sago at Tanjong Rhu. Though Beach Road was the hub of the industry, it was gradually replaced by Tanjong Rhu, where warehouses and wharves were constructed to accommodate the tongkang trade.
 
 Tongkangs were used for coastal and inter-island trading, sailing to Indonesia, South Johore, Malacca, Perak and Sarawak. Much of the trade with Indonesia was mainly in the Riau and Lingga Archipelagoes which lay to the south and southeast of Singapore, the east coast of central Sumatra, namely Siak and Indragiri, and some of the major islands off the Sumatran coast.
-
-
-
-
-
