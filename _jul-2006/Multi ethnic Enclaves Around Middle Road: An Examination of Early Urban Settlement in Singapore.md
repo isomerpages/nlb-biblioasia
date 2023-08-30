@@ -54,7 +54,6 @@ Small Hainanese trading vessels were known to have reached Singapore as early as
 <div style="background-color: white;">The old Hainanese association and temple at Beach Road.
 <i>Image courtesy of Kiung Chow Hwee Kuan.</i></div>
 
-
 The main Hainanese association (Kiung Chow Hwee Kuan) and clan temple building was built in 1857 in three adjoining shophouses along Malabar Street.[^17] In 1878, it moved to its present location along Beach Road, and later underwent renovations in 1963. The Hainanese in Singapore were a close-knit and clannish society, as evidenced by the compulsory social initiation of new migrants, as well as the welfare and clan practices provided by the community within the enclave (Chan, 1976:50). Besides the main association and temple complex at Beach Road,21 additional sub-clan associations can be found along the three main streets, differentiated not only by origin district on Hainan island, but also in combination with clan surnames.[^18]
 
 The location of the enclave, edged by a major street (Middle Road) and the water’s edge with a docking pier and communal facilities, ensured the general prosperity of the enclave until the 1980s, when urban renewal decanted a large portion of its original residential community. By this time, the population had grown and dispersed, mainly to villages and estates all over the island.
