@@ -51,3 +51,14 @@ The centre of the tongkang industry was that part of the island bound by Kallang
 All other tongkangs unloaded their cargo of charcoal and fuelwood, poles, planks and sago at Tanjong Rhu. Though Beach Road was the hub of the industry, it was gradually replaced by Tanjong Rhu, where warehouses and wharves were constructed to accommodate the tongkang trade.
 
 Tongkangs were used for coastal and inter-island trading, sailing to Indonesia, South Johore, Malacca, Perak and Sarawak. Much of the trade with Indonesia was mainly in the Riau and Lingga Archipelagoes which lay to the south and southeast of Singapore, the east coast of central Sumatra, namely Siak and Indragiri, and some of the major islands off the Sumatran coast.
+
+#### **The Trade of the Tongkangs**
+The trade handled by tongkangs was part of the larger and extremely important volume of trade between Singapore and Indonesia,3 Singapore’s best trading partner and valuable customer in the use of entrepôt facilities up to the end of 1957, when the Indonesian Government began to adopt policies to encourage direct trading with other countries, bypassing Singapore. However, in 1957, imports from Indonesia to Singapore amounted to S$1,099,478 945 while exports to Indonesia were valued at $250,274,272.4 Indonesia ranked highest in her exports to Singapore which were mainly reexported. The value of Indonesian imports into Singapore was higher than the combined value of imports from the United Kingdom and the United States – two major countries.
+
+Similar to the faster and more efficient means of sea-transport, tongkangs also played their part in carrying raw material into Singapore, to be processed and re-exported, thus adding to the national income of the island. The major items of the tongkang trade were fuelwood and charcoal, wood in the round, mainly saw-logs and poles, sawn timber, rubber and raw sago, all non-perishable in nature for which timing was relatively unimportant, unlike for foodstuffs and essential raw materials such as rubber. Other produce carried on tongkangs included copra, coffee, tea, and spices. Being slower than steamships and freighters, tongkangs were particularly suited to carry non-perishable cargo more competitively than steamships and other faster means of sea-transport. These products were carried to attractive freight earnings for tongkang operators when there was a shortage of space on the steamships.
+
+#### **Demand, Supply and the Impact on Tongkang Cargoes**
+
+
+
+
