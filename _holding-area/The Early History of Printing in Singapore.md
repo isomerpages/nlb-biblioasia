@@ -172,7 +172,7 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 [^20]: _Twenty-Seventh Annual Report of the American Board of Commissioners for Foreign Missions, September 1836_ (Boston: Crocker and Brewster, 1836), 75, HathiTrust, https://hdl.handle.net/2027/wu.89065737421; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_ (Boston: Crocker and Brewster, 1837), 90; _Thirty-First Annual Report of the American Board of Commissioners for Foreign Missions, September 1840_ (Boston: Crocker and Brewster, 1840), 140, 142, HathiTrust, https://hdl.handle.net/2027/wu.89065737223.
 
-[^21]: Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), 74.
+[^21]: Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), 74.
 
 [^22]: Ong Eng Chuan, “The Gospel in Chinese,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff/; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_, 90; National Heritage Board, _Perfect Man’s Model (Quanren Juyue) by Karl Friedrich August Gützlaff_, Roots, last updated 6 April 2023, https://www.roots.gov.sg/Collection-Landing/listing/1339272.
 
