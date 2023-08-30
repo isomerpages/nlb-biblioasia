@@ -85,6 +85,91 @@ further discussed and made available.
 <div>
 <center><b>Lai Chee Kien</b><br> Assistant Professor<br> Department of Architecture,<br>   School of Design and Environment<br>  National University of Singapore</center> </div>
 
+#### **REFERENCES**
 
+B. W. Hodder, “Racial Groupings in Singapore,” _[Malayan Journal of Tropical Geography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413275)_ 1 (1953): 25–36. (Call no. RDTYS 910.0913 JTG)
 
+Brenda S.A. Yeoh, _[Contesting Space in Colonial Singapore: Power Relations and the Built Environment](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11827061)_ (Singapore: Singapore University Press, 2003). (Call no. RSING 307.76095957 YEO)
+
+Chan Sek Keong, _The Hainanese Commercial &amp; Industrial Directory, Republic of Singapore_, vol. 2. (Singapore: Hainanese Association of Singapore, 1976)
+
+F. G. Stevens, “A Contribution to the Early History of the Prince of Wales Island,” _Journal of the Malayan Branch, Royal Asiatic Society_ 7, no. 3 (108) (October 1929): 377–414. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Greg Gubler, _[The Pre-Pacific War Japanese Community in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4402377)_ (\[Provo, Utah\]: G. Gabler, 1972). (Call no. RSING 301.45195605957 GUB)
+
+_[History of the Chinese Clan Associations in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4758114)_ (Singapore: Singapore Federation of Chinese Clan Associations, 1986). (Call no. RSING q959.57 HIS-\[HIS\])
+
+J. Kathirithamby-Wells, “Early Singapore and the Inception of a British Administrative Tradition in the Straits Settlements (1819–1832),” Journal of the Malayan Branch, Royal Asiatic Society 42, no. 2 (December 1969): 48–73. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+James Francis Warren, _[Ah Ku and Karayuki-San: Prostitution in Singapore, 1870–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6434774)_ (Singapore: Oxford University Press, 1993). (Call no. RSING 306.74095957 WAR)
+
+Jon S. H. Lim, “The Shophouse Rafflesia: An Outline of Its Malaysian Pedigree and Its Subsequent Diffusion in Asia,” Journal of the Malayan Branch, Royal Asiatic Society 66, no. 1 (294) (1993): 47–66. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Kiung Chow Hwee Kuan, Singapore 新加坡琼州会馆, _Xinjiapo Qiongzhou hui guan yi san wu zhou nian ji nian te kan_ [新加坡琼州会馆一三五周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12541840) \[Singapore Qiongzhou Huay Kuan 135th Anniversary Special Issue\] (Xinjiapo 新加坡: Xinjiapo Qiongzhou hui guan 新加坡琼州会馆, 1989). (Call no. Chinese RSING q369.25957 SIN)
+
+L. A. Mills, Constance M. Turnbull and D. K. Bassett, “British Malaya 1824–67,” _Journal of the Malayan Branch, Royal Asiatic Society_ 33, no. 3 (191) (1960): 36–85. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Lee Kip Lin, _[Emerald Hill: The Story of a Street in Words and Pictures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080780)_ (Singapore: National Museum, 1984). (Call no. RSING q959.57 LEE-\[HIS\])
+
+Lee Kip Lin, _[The Singapore House 1819–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13223953)_ (Singapore: Times Editions, 1988). (Call no. RSING 728.095957 LEE)
+
+Lee Kuan Yew, _[The Singapore Story: Memoirs of Lee Kuan Yew](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9129591)_ (Singapore: Times Editions, 1998). (Call no. RSING 959.57 LEE-\[HIS\])
+
+Mai Lin Tjoa-Bonatz, “Ordering of Housing and the Urbanisation Process: Shophouses in Colonial Penang,” _Journal of the Malayan Branch, Royal Asiatic Society_ 71, no. (2) (275) (1998): 123–36. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+_[Prewar Japanese Community in Singapore: Picture and Record](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9284135)_ (Singapore: The Japanese Association, Singapore, 1998). (Call no. RSING 305.895605957 PRE)
+
+Roland Braddell, _[The Lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)_ (London: Metheun &amp; Co. Ltd., 1934). (Call no. &nbsp;RRARE 959.57 BRA; microfilm NL25437)
+
+T.H.H. Hancock, _[Coleman’s Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4190516)_, Monographs of the Malaysian Branch, Royal Asiatic Society Series no. 15. (Kuala Lumpur: MBRAS, 1986). (Call no. RSING q720.924 COL.H)
+
+Wong C. S., _Roots the Series #3_ (Singapore: Seng Yew Book Store and Shin Min News Daily, 1992)
+
+#### **NOTES**
+
+1 J. Kathirithamby-Wells, “Early Singapore and the Inception of a British Administrative Tradition in the Straits Settlements (1819–1832),” Journal of the Malayan Branch, Royal Asiatic Society 42, no. 2 (December 1969): 50–51. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). Also F. G. Stevens, “A Contribution to the Early History of the Prince of Wales Island,” _Journal of the Malayan Branch, Royal Asiatic Society_ 7, no. 3 (108) (October 1929): 385. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). Raffles had suggested to his superiors that this manner of administration should be implemented for all British colonies in Southeast Asia.
+
+2 Town Planning Committee, as quoted in T.H.H. Hancock, _[Coleman’s Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4190516)_, Monographs of the Malaysian Branch, Royal Asiatic Society Series no. 15. (Kuala Lumpur: MBRAS, 1986), 16. (Call no. RSING q720.924 COL.H)
+
+3 Lee Kip Lin noted that Raffles formulated his plan to divide the town into “neighbourhoods” or “campongs” as early as his second visit to Singapore in June 1819. From Lee Kip Lin, _[The Singapore House 1819–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13223953)_ (Singapore: Times Editions, 1988), 17. (Call no. RSING 728.095957 LEE)
+
+4 J.R. Logan, “Notices of Singapore”, _Journal of the Indian Archipelago_, 1854, as quoted in B. W. Hodder, “Racial Groupings in Singapore,” _[Malayan Journal of Tropical Geography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413275)_ 1 (1953): 27. (Call no. RDTYS 910.0913 JTG)
+
+5 The Chinese were moved inland in 1822 to establish a “principal mercantile establishment” on the tongue of land adjacent to the river. From Lee, _[Singapore House 1819–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13223953)_, 19.
+
+6 Farquhar’s residency was at the foot of the hill near the river, at a corner of High Street. Lee, _[Singapore House 1819–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13223953)_, 149.
+
+7 This building, subsequently bought by the government, was extended as a courthouse in 1874 by J.F.A. McNair and then as a parliament house in 1954 by T.H.H. Hancock of the Public Works Department. From Hancock, _[Coleman’s Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4190516)_, 22–29.
+
+8 The land where Scott’s house stood was acquired to build Raffles Hotel by the Sarkies brothers. Lee, _[Singapore House 1819–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13223953)_, 148–9.
+
+9 There are also pockets of settlements of Cantonese-Hakka groups although the Kreta Ayer area is generally acknowledged as a “Cantonese” area.
+
+10 Gambier farming employed shifting cultivation, and was destructive as forests were cleared for fuel to boil the gambier leaves. Lee Kip Lin noted that there were about 5,000 acres of gambier and pepper plantations owned mainly by the Chinese by 1841. He also noted that Europeans were moving to the “countrysides” as early as 1822, with James Pearl occupying Pearl’s Hill in 1822 and Charles Ryan in Duxton Hill in 1827. From Lee Kip Lin, _[Emerald Hill: The Story of a Street in Words and Pictures](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080780)_ (Singapore: National Museum, 1984), 1. (Call no. RSING q959.57 LEE-\[HIS\])
+
+11 In contemporary descriptions of Singapore by academics and laypersons, Chinatown is acknowledged only by the area on the southwestern areas of the river. The indication of a “second” Chinatown can be seen on a map reproduced by Hodder, “[Racial Groupings in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413275),” fig. 5 on p. 31.
+
+12 A 1953 map shows that the enclave may have “expanded” in the northwest direction up to Bencoolen Street. Hodder, “[Racial Groupings in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4413275),” 35.
+
+13 The trade was in wax, tiles, shoes, umbrellas, paper, dried goods and Chinese medicinal herbs. Chan Sek Keong, _The Hainanese Commercial &amp; Industrial Directory, Republic of Singapore_, vol. 2. (Singapore: Hainanese Association of Singapore, 1976), 48.
+
+14 They were “noted as waiters, cooks and domestic servants …,”in Hodder, 1953:34. This was also discussed in Chan, _Hainanese Commercial &amp; Industrial Directory_, 48.
+
+15 From a 1976 address/telephone list provided in Chan, _Hainanese Commercial &amp; Industrial Directory_, 209–96. I counted 19 coffee shops/restaurants and 6 hotels within the enclave.
+
+16 The restaurant was so famous that one can still find chicken rice stalls throughout Singapore and Malaysia bearing the similar name “Swee Kee chicken rice”. The original restaurant was located at Nos. 51-53, Middle Road, recently demolished. Wong C. S., _Roots the Series #3_ (Singapore: Seng Yew Book Store and Shin Min News Daily, 1992), 51–60.
+
+17 This was No. 6, Malabar Street. Like other coastal Chinese, the main deity for this temple was Ma Chor (or Tian Hou), goddess of safe passage at sea. Chan, _Hainanese Commercial &amp; Industrial Directory_, 9.
+
+18 Compiled from a 1976 address/telephone list provided in Chan, _Hainanese Commercial &amp; Industrial Directory_, 209–96. These smaller clan associations, located mainly in Seah Street were started after 1920 when the ban on immigrant Hainanese women was lifted in China.
+
+19 Both Jon S. H. Lim and Mai Lin Tjoa-Bonatz have discussed the possible origins of the shophouse in Southeast Asia, as a form that may have predated European arrival and have had accumulative influences since the 15th century. Jon S. H. Lim, “The Shophouse Rafflesia: An Outline of Its Malaysian Pedigree and Its Subsequent Diffusion in Asia,” Journal of the Malayan Branch, Royal Asiatic Society 66, no. 1 (294) (1993): 47–66; Mai Lin Tjoa-Bonatz, “Ordering of Housing and the Urbanisation Process: Shophouses in Colonial Penang,” _Journal of the Malayan Branch, Royal Asiatic Society_ 71, no. (2) (275) (1998): 123–36. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+20 Conversation with Jon S. H. Lim, 11 November 2003.
+
+21 It was also likely that European or local architects were beginning to engage in the design of shophouses, abetted by the availability of pattern books. Lee, _[Emerald Hill](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080780)_, 7–8.
+
+22 As cited in James Francis Warren, _[Ah Ku and Karayuki-San: Prostitution in Singapore, 1870–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6434774)_ (Singapore: Oxford University Press, 1993), 41. (Call no. RSING 306.74095957 WAR)
+
+23 Warren, _[Ah Ku and Karayuki-San](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6434774)_, 52. He noted that there were 5–7 prostitutes in a Japanese brothel compared to 15–18 in Chinese brothels in Chinatown, Warren, _[Ah Ku and Karayuki-San](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6434774)_, 47.
 
