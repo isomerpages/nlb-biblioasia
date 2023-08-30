@@ -174,11 +174,11 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 [^21]: Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), 74.
 
-[^22]: Ong Eng Chuan, “[The Gospel in Chinese](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff/),”&nbsp;_BiblioAsia_&nbsp;11, no. 4 (January–March 2016): 96–97; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_, 90; National Heritage Board, _Perfect Man’s Model (Quanren Juyue) by Karl Friedrich August Gützlaff_, Roots, last updated 6 April 2023, https://www.roots.gov.sg/Collection-Landing/listing/1339272.
+[^22]: Ong Eng Chuan, “[The Gospel in Chinese](/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 96–97; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_, 90; National Heritage Board, _Perfect Man’s Model (Quanren Juyue) by Karl Friedrich August Gützlaff_, Roots, last updated 6 April 2023, https://www.roots.gov.sg/Collection-Landing/listing/1339272.
 
 [^23]: _Report of the American Board of Commissioners for Foreign Missions Presented at the Thirty-Second Annual Meeting… 1841_ (Boston: Crocker and Brewster, 1841), 144, HathiTrust, https://hdl.handle.net/2027/mdp.39015073264601.
 
-[^24]: Mazelan Anuar, “Through the Eye Glass,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/cermin-mata-benjamin-keasberry/.
+[^24]: Mazelan Anuar, “[Through the Eye Glass](/vol-11/issue-4/jan-mar-2016/cermin-mata-benjamin-keasberry/),”&nbsp;_BiblioAsia_&nbsp;11, no. 4 (January–March 2016): 86–87.
 
 [^25]: Gracie Lee, “[Benjamin Keasberry](https://eresources.nlb.gov.sg/infopedia/articles/SIP_781_2005-01-03.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
 
