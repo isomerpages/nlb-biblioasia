@@ -728,4 +728,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Interview with Rachel Heng, Author of The Great Reclamation
+      subtitle: Literature
+      description: Editor Soh Gek Han interviews Rachel Heng on her novel for the
+        BiblioAsia+ podcast
+      button: Read the interview
+      url: /vol-19/issue-4/jan-mar-2024/interview-rachel-heng/
+      image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
+        cover_homepage.jpg
+      alt: Image alt text
 ---
