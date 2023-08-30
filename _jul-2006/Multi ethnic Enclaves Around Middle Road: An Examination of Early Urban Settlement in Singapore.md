@@ -50,7 +50,7 @@ Of the Chinese dialect groups that occupied areas northeast of the cantonment, t
 
 Small Hainanese trading vessels were known to have reached Singapore as early as 1821.[^13] The first settler was recorded as Lim Chong Jin, who arrived in Singapore in 1841 (Chan, 1976:48). By 1881, the Hainanese had constituted about 10 percent of the Chinese population, numbering 8,319 (Tan, 1986:29). As they were late on the scene and their enclave located further from the main godowns at the Singapore River, most Hainanese settlers worked as plantation workers or sailors. Others worked in servicerelated industries and operated provision shops, ship-chandling and remittance services, hotels and coffee shops.[^14] It was in the food “business” that would bring them most regional fame.[^15] Ngiam Tong Boon, a Hainanese bartender working at Raffles Hotel first concocted a gin tonic called “The Singapore Sling” in 1915. Nearby, Wong Yi Guan adapted a rice dish served with chicken, which was made famous by his apprentice Mok Fu Swee through his restaurant “Swee Kee Chicken Rice”. Later, this dish would be “re-exported” elsewhere in the region and East Asia as “Hainanese chicken rice”.[^16] It is also generally acknowledged that the Hainanese brewed the best coffee in Southeast Asia.
 
-<img src="/images/Vol%202%20Issue%202/MultiEthnic%20Enclaves/old%20hainanese%20association.jpg" style="width:50%;">
+<img src="/images/Vol%202%20Issue%202/MultiEthnic%20Enclaves/old%20hainanese%20association.jpg" style="width:80%;">
 <div style="background-color: white;">The old Hainanese association and temple at Beach Road.
 <i>Image courtesy of Kiung Chow Hwee Kuan.</i></div>
 
