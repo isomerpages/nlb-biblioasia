@@ -156,7 +156,7 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 [^12]: Byrd,  [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 14–15; O’Sullivan, The London Missionary Society,” 77–84.
 
-[^13]: Ong Eng Chuan, “A Missionary’s Guide to Java and Bali,” _BiblioAsia_ 11, no. 4 (January–March 2016), Ong Eng Chuan, “[A Missionary’s Guide to Java and Bali](/vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst/),” BiblioAsia 11, no. 4 (January–March 2016): 12–13.
+[^13]: Ong Eng Chuan, “A Missionary’s Guide to Java and Bali,” _BiblioAsia_ 11, no. 4 (January–March 2016), Ong Eng Chuan, “[A Missionary’s Guide to Java and Bali](/vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst/),” *BiblioAsia* 11, no. 4 (January–March 2016): 12–13.
 
 [^14]: J. Noorduyn, “C.H. Thomsen, the Editor of ‘A Code of Bugis Maritime Laws’,” _Bijdragen tot de Taal-,Land- en Volkenkunde_ 113, no. 3 (1957): 248, https://doi.org/10.1163/22134379-90002285.
 
