@@ -25,7 +25,7 @@ In 1960, the Automobile Association of Singapore, the Singapore Motor Club, and 
 
 Some members of the public agreed. Writing to the _Straits Times_ in March 1962, a reader urged the government to force riders to wear helmets. The reader noted that as wages improved and hire purchase options became increasingly available, more and more motorcycles and scooters would end up on the roads, and more deaths and injuries would result if the riders did not have protective headgear.[^7]
 
-![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/ch_life_on_two_wheels.jpg)
+![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/edit-ch_life_on_two_wheels.png)
 <div style="background-color: white;">Scooters, which were described as light, manoeuvrable, economical and fashionable, became popular with women in Malaya in the 1960s. <i>Source: The Straits Times, 20 May 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
  
 Apart from the personal cost to individuals and families, the high number of traffic accidents in Singapore in the 1950s and 1960s exacted an economic cost on the young nation as productive workers died or became severely injured. According to a United Nations safety expert, road accidents alone cost Singapore $130 million in 1970.[^8] “\[T\]he loss or damage to a productive life is not a mere loss to the individual involved but a loss of a factor of production to the nation,” noted a reader of the _Eastern Sun_ in 1969.[^9]
@@ -42,7 +42,7 @@ One rider argued that he had been travelling to and from work daily with his wif
 
 Finally, there was the argument for individual autonomy. “Scooter girl” argued that riders should be allowed to make up their own minds about the risks involved and whether to bear them, since “though I am by no means enthusiastically looking forward to breaking my neck it still is my neck – and the choice must be left to me”. [^14]
 
-![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/ch_northbridge.jpg)
+![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/edit-ch_northbridge.png)
 <div style="background-color: white;">A view of North Bridge Road, c. 1960s. The crash helmet was made mandatory in January 1971. Before this, motorcyclists and scooterists need not wear helmets. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Making Crash Helmets Mandatory**
