@@ -28,15 +28,6 @@ sections:
         cover_homepage1.jpg
       alt: Image alt text
   - infopic:
-      title: New Books on Singapore History (Oct 2023)
-      subtitle: Literature
-      description: Introducing five new books available in the National Library’s
-        collection.
-      button: New Reads
-      url: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
-      image: /images/Vol 19 Issue 3/9 New Books/uncle choo home page.jpg
-      alt: Image alt text
-  - infopic:
       title: The Great Reclamation
       subtitle: podcast
       description: Listen to author Rachel Heng talk about her latest novel, <i>The
@@ -45,6 +36,15 @@ sections:
       url: /podcast/the-great-reclamation/
       image: /images/Podcast/rachel heng website.jpg
       alt: The Great Reclamation
+  - infopic:
+      title: New Books on Singapore History (Oct 2023)
+      subtitle: Literature
+      description: Introducing five new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
+      image: /images/Vol 19 Issue 3/9 New Books/uncle choo home page.jpg
+      alt: Image alt text
   - infopic:
       title: Revisiting the Mystery of the Missing Gold Coins
       subtitle: Archaeology
