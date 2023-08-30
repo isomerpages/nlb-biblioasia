@@ -81,6 +81,9 @@ Either as brothels or businesses, the pre-war Japanese also converted interior s
 
 The spaces on the upper floors of the brothels were segmented into rooms or cubicles, but denoted by *tatami* sizes. Unlike those in the Kreta Ayer area, the Japanese brothels averaged six *tatami* mats in size, housed less women, and were thus more spacious.[^23] The general functions of the shophouse were inverted: the upper floors were used for “business” while the ground level spaces were used as dwellings, waiting areas or offices. Rudimentary services included a common bathroom on each floor and a kitchen at the back of the house. When prostitution was abolished in 1920, these shophouses returned to commercial or other uses at ground level.
 
+<img src="/images/Vol%202%20Issue%202/MultiEthnic%20Enclaves/echigoya%20interior.jpg" style="width:80%;">
+ <div style="background-color: white;">The interiors of the Echigoya draper in 1908. <i>Image courtesy of the Japanese Association of Singapore.</i></div>
+
 An example of a business space, for which records still exist, was the Echigoya draper that had its premises at Middle Road (Mikami, 1998:36–41 &amp; 82–95). In its 1908 shop, textiles and clothing were stored in full-height timber cabinets that ran along the lengths of the ground level walls, accentuating the linear space (see picture). On one length side a raised platform is also constructed, known as the koagari, where customers would sit while they examine the merchandise. For the sake of non-Japanese patrons, a circular marble table and chairs were also provided. When it moved down the road in 1928 to occupy two adjoining shophouses; the open, uncluttered aesthetic was maintained although waist-high timber-framed and glass-panelled display cabinets were used to enable customer circulation around the wares.
 
 #### **Multi-ethnic Societies – Past and Present**
