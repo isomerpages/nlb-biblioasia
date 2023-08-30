@@ -7,6 +7,9 @@ description: Philip Jackson’s Plan of the Town of Singapore (1822) dictated th
   various ethnic groups that had settled in Singapore.
 ---
 #### Philip Jackson’s&nbsp;_Plan of the Town of Singapore_&nbsp;(1822) dictated the layout and structure of the town, and also designated special areas for the various ethnic groups that had settled in Singapore.
+
+<img src="/images/Vol%202%20Issue%202/MultiEthnic%20Enclaves/jackson%20map.jpg" style="width:50%;">
+ <div style="background-color: white;">Jackson’s 1928 map showing the racial divisions.</div> 
  
 Many former British colonies like the Straits Settlements and peninsular Malaya had attracted diverse peoples from neighbouring areas upon their colonisation and establishment with the prospect of employment and economic opportunities. The colony of Singapore, in particular, was a major destination for southern Chinese migrants. If textual accounts are anything to go by, the human landscape after its founding in 1819 was cosmopolitan in character, although the exponential immigration of Chinese groups and their eventual possession of various spheres of influence would alter the course of the island’s subsequent histories. Roland Braddell’s 1934 work *Lights of Singapore*, for example, described the early composition of the “white people” in colonial Singapore as consisting “English, Irish, Scottish, Welsh, Australians, New Zealanders, Canadians, Americans, Belgians, Danes, Dutch, French, Germans, Greeks, Italians, Norwegians, Portuguese, Russians, Spaniards, Swedes, Swiss and others” (Braddell, 1934:43–5). Braddell painted a similarly diverse composition of non-white communities on the island, but instead of country origin categorised them into particular ethnic groups and sub-groups as follows: 
  
@@ -172,4 +175,3 @@ Wong C. S., _Roots the Series #3_ (Singapore: Seng Yew Book Store and Shin Min N
 [^22]: As cited in James Francis Warren, _[Ah Ku and Karayuki-San: Prostitution in Singapore, 1870–1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6434774)_ (Singapore: Oxford University Press, 1993), 41. (Call no. RSING 306.74095957 WAR)
 
 [^23]: Warren, _[Ah Ku and Karayuki-San](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6434774)_, 52. He noted that there were 5–7 prostitutes in a Japanese brothel compared to 15–18 in Chinese brothels in Chinatown, Warren, _[Ah Ku and Karayuki-San](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6434774)_, 47.
-
