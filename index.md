@@ -18,13 +18,14 @@ sections:
       background: /images/Vol 19 Issue 2/Restoring SG
         Films/restore_classic_singapore_films_hero_image.png
   - infopic:
-      title: New Books on Singapore History (Oct 2023)
+      title: Interview with Rachel Heng, Author of The Great Reclamation
       subtitle: Literature
-      description: Introducing five new books available in the National Library’s
-        collection.
-      button: New Reads
-      url: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
-      image: /images/Vol 19 Issue 3/9 New Books/uncle choo home page.jpg
+      description: Editor Soh Gek Han interviews Rachel Heng on her novel for the
+        BiblioAsia+ podcast
+      button: Read the interview
+      url: /vol-19/issue-4/jan-mar-2024/interview-rachel-heng/
+      image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
+        cover_homepage1.jpg
       alt: Image alt text
   - infopic:
       title: The Great Reclamation
@@ -35,6 +36,15 @@ sections:
       url: /podcast/the-great-reclamation/
       image: /images/Podcast/rachel heng website.jpg
       alt: The Great Reclamation
+  - infopic:
+      title: New Books on Singapore History (Oct 2023)
+      subtitle: Literature
+      description: Introducing five new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
+      image: /images/Vol 19 Issue 3/9 New Books/uncle choo home page.jpg
+      alt: Image alt text
   - infopic:
       title: Revisiting the Mystery of the Missing Gold Coins
       subtitle: Archaeology

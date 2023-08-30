@@ -7,7 +7,7 @@ image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/rachel heng.jpg
 #### <i>The Great Reclamation</i> is a fascinating historical novel about land reclamation in 1960s Singapore. Also a love story, the book has been named a _New York Times_ Editor’s Choice, and a “Best Book of 2023 So Far” by the _New Yorker_ and Amazon Books. Editor Soh Gek Han interviews Rachel Heng on her novel for the BiblioAsia+ podcast.
 
 <img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/rachel%20heng.jpg">
-<div style="background-color: white;text-align:center">Rachel Heng holding her latest book,<i>The Great Reclamation. Photo by Jimmy Yap.</i></div>
+<div style="background-color: white;text-align:center">Rachel Heng holding her latest book,<i>The Great Reclamation. Photo by Jimmy Yap, 2023.</i></div>
 
 **Gek Han**  
 Thank you so much for taking the time to do [this podcast](/podcast/the-great-reclamation/) with us. It’s really thrilling to see a book set in Singapore written by a local writer getting such rave reviews worldwide and locally. How has it been like for you?
@@ -49,7 +49,8 @@ All these titbits of that experience. That must have been in the ’70s or ’80
 
 As much as we like to believe we are fully objective human beings capable of coming to intellectual abstract conclusions in a vacuum, it’s just not true. When you talk to people, when you exist in the world, where you come from, what your family background is, the path of your life, where you find acceptance, where you don’t – all these things shape our political beliefs, what we believe a society should look like, what we believe it means to live in a society with other people. And much of that is so deeply rooted and almost inextricable that the characters aren’t even aware of the ways in which they are shaped by this. And so I want the book to have a wide range of voices from people who came from different places. They either agree or couldn’t agree, either compromise or don’t, and what that does to them as individuals.
 
-[Listen to the entire BiblioAsia+ episode](https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/)
+<i>This transcript has been edited and condensed. 
+[Listen to the full BiblioAsia+ episode](https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/).</i>
 
 
 <div style="background-color: #fff6ba;text-align:center; font-size:120%">

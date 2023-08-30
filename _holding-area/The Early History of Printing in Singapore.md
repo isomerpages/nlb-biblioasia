@@ -9,9 +9,9 @@ image: /images/Vol 19 Issue 3/10 Printing/image_1a.png
 #### Printing in Singapore dates back 200 years with the establishment of a press by Christian missionaries. Their efforts to spread the gospel also helped bring the technology here. 
 By Gracie Lee
 
-![](/images/Vol%2019%20Issue%203/10%20Printing/image_1a.png)
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_1-edit.png)
 <div style="background-color: white;"> 
-Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa&nbsp;Al-Masihi Atau Segala Surat Testament Bahru</i> (<i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i>). <i>Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
+The Mission Press in Malacca comprising a Chinese printing office, an English printing office and a Chinese school. <i>Image reproduced from Missionary Sketches XXVIII, January 1825. Retrieved from Wikimedia Commons.</i></div>
 
 The history of printing in Singapore shares similarities with that of many Southeast Asian countries. Christian missionaries were responsible for introducing the technology to the region, with the aim of spreading the gospel in the local languages. However, the presses were not limited to religious literature and were also used for government and commercial purposes. Over time, the technology and expertise required to operate these presses grew, leading to the emergence of secular printing operations.
 
@@ -156,7 +156,7 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 [^12]: Byrd,  [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 14–15; O’Sullivan, The London Missionary Society,” 77–84.
 
-[^13]: Ong Eng Chuan, “A Missionary’s Guide to Java and Bali,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst/.
+[^13]: Ong Eng Chuan, “A Missionary’s Guide to Java and Bali,” _BiblioAsia_ 11, no. 4 (January–March 2016), Ong Eng Chuan, “[A Missionary’s Guide to Java and Bali](/vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst/),” *BiblioAsia* 11, no. 4 (January–March 2016): 12–13.
 
 [^14]: J. Noorduyn, “C.H. Thomsen, the Editor of ‘A Code of Bugis Maritime Laws’,” _Bijdragen tot de Taal-,Land- en Volkenkunde_ 113, no. 3 (1957): 248, https://doi.org/10.1163/22134379-90002285.
 
@@ -168,17 +168,17 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 [^18]: Joseph Tracy, _History of the American Board of Commissioners for Foreign Missions_, 2nd ed. (New York: M.W. Dodd, 1842), 308, HathiTrust, https://hdl.handle.net/2027/hvd.ah5evn.
 
-[^19]: Munshi Abdullah, [_The Hikayat Abdullah_](https://eservice.nlb.gov.sg/item_holding.aspx?id=13606908), 290–91; Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), vol. 2, 71–79, 94, 99–109.
+[^19]: Munshi Abdullah, [_The Hikayat Abdullah_](https://eservice.nlb.gov.sg/item_holding.aspx?id=13606908), 290–91; Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), vol. 2, 71–79, 94, 99–109.
 
 [^20]: _Twenty-Seventh Annual Report of the American Board of Commissioners for Foreign Missions, September 1836_ (Boston: Crocker and Brewster, 1836), 75, HathiTrust, https://hdl.handle.net/2027/wu.89065737421; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_ (Boston: Crocker and Brewster, 1837), 90; _Thirty-First Annual Report of the American Board of Commissioners for Foreign Missions, September 1840_ (Boston: Crocker and Brewster, 1840), 140, 142, HathiTrust, https://hdl.handle.net/2027/wu.89065737223.
 
-[^21]: Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), 74.
+[^21]: Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), 74.
 
-[^22]: Ong Eng Chuan, “The Gospel in Chinese,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff/; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_, 90; National Heritage Board, _Perfect Man’s Model (Quanren Juyue) by Karl Friedrich August Gützlaff_, Roots, last updated 6 April 2023, https://www.roots.gov.sg/Collection-Landing/listing/1339272.
+[^22]: Ong Eng Chuan, “[The Gospel in Chinese](/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 96–97; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_, 90; National Heritage Board, _Perfect Man’s Model (Quanren Juyue) by Karl Friedrich August Gützlaff_, Roots, last updated 6 April 2023, https://www.roots.gov.sg/Collection-Landing/listing/1339272.
 
 [^23]: _Report of the American Board of Commissioners for Foreign Missions Presented at the Thirty-Second Annual Meeting… 1841_ (Boston: Crocker and Brewster, 1841), 144, HathiTrust, https://hdl.handle.net/2027/mdp.39015073264601.
 
-[^24]: Mazelan Anuar, “Through the Eye Glass,” _BiblioAsia_ 11, no. 4 (January–March 2016), https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/cermin-mata-benjamin-keasberry/.
+[^24]: Mazelan Anuar, “[Through the Eye Glass](/vol-11/issue-4/jan-mar-2016/cermin-mata-benjamin-keasberry/),”&nbsp;_BiblioAsia_&nbsp;11, no. 4 (January–March 2016): 86–87.
 
 [^25]: Gracie Lee, “[Benjamin Keasberry](https://eresources.nlb.gov.sg/infopedia/articles/SIP_781_2005-01-03.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
 
@@ -188,4 +188,4 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 [^28]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 5–6; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 258–83; Ibrahim Ismail, “Samuel Dyer and His Contributions to Chinese Typography,” _Library Quarterly_ 54, no. 2 (April 1985): 157–69. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “Early Malay Printing in Singapore,” _BiblioAsia_ 13, no. 3 (October–December 2017), https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)
+[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “[Early Malay Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/),”&nbsp;_BiblioAsia_&nbsp;13, no. 3 (October–December 2017): 40–43; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)
