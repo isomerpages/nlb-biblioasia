@@ -168,7 +168,7 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 [^18]: Joseph Tracy, _History of the American Board of Commissioners for Foreign Missions_, 2nd ed. (New York: M.W. Dodd, 1842), 308, HathiTrust, https://hdl.handle.net/2027/hvd.ah5evn.
 
-[^19]: Munshi Abdullah, [_The Hikayat Abdullah_](https://eservice.nlb.gov.sg/item_holding.aspx?id=13606908), 290–91; Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi: Abdullah Bin Abdul Kadir Munshi_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), vol. 2, 71–79, 94, 99–109.
+[^19]: Munshi Abdullah, [_The Hikayat Abdullah_](https://eservice.nlb.gov.sg/item_holding.aspx?id=13606908), 290–91; Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), vol. 2, 71–79, 94, 99–109.
 
 [^20]: _Twenty-Seventh Annual Report of the American Board of Commissioners for Foreign Missions, September 1836_ (Boston: Crocker and Brewster, 1836), 75, HathiTrust, https://hdl.handle.net/2027/wu.89065737421; _Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions, September 1837_ (Boston: Crocker and Brewster, 1837), 90; _Thirty-First Annual Report of the American Board of Commissioners for Foreign Missions, September 1840_ (Boston: Crocker and Brewster, 1840), 140, 142, HathiTrust, https://hdl.handle.net/2027/wu.89065737223.
 
