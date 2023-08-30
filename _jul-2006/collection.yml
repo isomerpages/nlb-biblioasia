@@ -2,4 +2,6 @@ collections:
   jul-2006:
     output: true
     order:
+      - "Multi ethnic Enclaves Around Middle Road: An Examination of Early Urban
+        Settlement in Singapore.md"
       - Director's Column.md
