@@ -11,7 +11,7 @@ By Gracie Lee
 
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_1-edit.png)
 <div style="background-color: white;"> 
-Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa&nbsp;Al-Masihi Atau Segala Surat Testament Bahru</i> (<i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i>). <i>Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
+The Mission Press in Malacca comprising a Chinese printing office, an English printing office and a Chinese school. <i>Image reproduced from Missionary Sketches XXVIII, January 1825. Retrieved from Wikimedia Commons.</i></div>
 
 The history of printing in Singapore shares similarities with that of many Southeast Asian countries. Christian missionaries were responsible for introducing the technology to the region, with the aim of spreading the gospel in the local languages. However, the presses were not limited to religious literature and were also used for government and commercial purposes. Over time, the technology and expertise required to operate these presses grew, leading to the emergence of secular printing operations.
 
