@@ -216,6 +216,24 @@ The title of this publication has been translated as The Perfect Man’s Model o
 <img style="width:85%;" src="/images/Vol%2019%20Issue%203/10%20Printing/image_8-edit.png">
 	<div style="background-color: #fff6ba;text-align:center">Cover and pages from 全人矩矱 <i>(Quan Ren Ju Yue)</i>, translated as&nbsp;<i>The Perfect Man’s Model</i>&nbsp;or&nbsp;<i>The Complete Duty of Man. Collection of the National Library, Singapore (Call no. RRARE 243 AHZ; Accession no. B29240187K).</i></div><br>
 
+<div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
+<a href="https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203430235"><b>     
+約翰福音之傳: 複製及解説 (Yohane fukuin no den: Fukusei oyobi kaisetsu)</b></a><br>	
+東京: 長崎書店 (Tōkyō: Nagasaki Shoten), 1941.<br> 
+Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E
+	
+This is a facsimile reproduction of the 1837 edition of the Gospel of John, which scholars regard as the earliest extant book of the Bible in Japanese. It was translated by Gützlaff with the assistance of three shipwrecked Japanese sailors. One of the three, 
+<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/yamamoto-otokichi/">Yamamoto Otokichi</a>, became the first Japanese settler in Singapore in 1862. Due to the closed-door policies of Japan and China at the time, Gützlaff had to send the text to Singapore for printing. The book cover credits 堅夏書院 (Kenka Shoin), the printing arm of the American mission in Singapore, as the publisher. The glaring errors in the katakana script are indications that the printing was likely undertaken by Chinese printers who did not know Japanese. This publication was donated to the National Library by Lim Shao Bin.
+	
+<img style="width:85%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/japanese%20bible%201_3.png">
+	<div style="background-color: #fff6ba;text-align:center">Cover and pages from 約翰福音之傳: 複製及解説<i> (Yohane fukuin no den: Fukusei oyobi kaisetsu). Collection of the National Library, Singapore (Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E).</i></div><br>
+	
+<div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
+<a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx"><b>Notices of the Indian Archipelago, and Adjacent Countries</b></a><br>	
+Singapore: 1837. <br> 
+Call no. RRARE 991 MOO; Accession no. B03013554J
+	
+This mammoth work features articles on Singapore and Southeast Asia reprinted from the <i>Singapore Chronicle</i>and other scholarly journals. It was compiled by John Henry Moor, the former editor of the _Singapore Chronicle_ and _Singapore Free Press_. Due to the scarcity of printers and paper, the task took two years to complete. This is among one of the earliest scholarly works printed in Singapore. It was donated to the National Library by Mrs Loke Yew in fulfilment of the intention of her son Loke Wan Tho.
 
 	
 <div style="background-color: white;">
@@ -283,4 +301,4 @@ The title of this publication has been translated as The Perfect Man’s Model o
 
 [^28]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 5–6; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 258–83; Ibrahim Ismail, “Samuel Dyer and His Contributions to Chinese Typography,” _Library Quarterly_ 54, no. 2 (April 1985): 157–69. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “[Early Malay Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/),”&nbsp;_BiblioAsia_&nbsp;13, no. 3 (October–December 2017): 40–43; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)</div></div></div></div></div></div></div></div></div></div></div>
+[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “[Early Malay Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/),”&nbsp;_BiblioAsia_&nbsp;13, no. 3 (October–December 2017): 40–43; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)</div></div></div></div></div></div></div></div></div></div></div></div></div>
