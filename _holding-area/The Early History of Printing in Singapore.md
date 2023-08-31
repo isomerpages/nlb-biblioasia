@@ -241,9 +241,11 @@ This mammoth work features articles on Singapore and Southeast Asia reprinted fr
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/gracia_lee.png">
-<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.<br><br>
-</div>
-	<div style="background-color: white;">
+<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.</div>
+<br>
+
+
+<div style="background-color: white;">
 
 #### **Notes**
 
