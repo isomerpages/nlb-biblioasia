@@ -141,9 +141,15 @@ English Protestant missionary Walter Henry Medhurst of the London Missionary Soc
 <img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20a%20tour_x.jpg" style="width:70%;">
 <div style="background-color: #fff6ba;text-align:center">  Title page of&nbsp;_Journal of a Tour Along the Coast of Java and Bali_. _Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G_</div><br>
 	
-
-
-
+<div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
+<a href="https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx">The First Report of the Singapore Christian Union, 1930</a><br>
+Singapore: Printed at the Mission Press, 1830.
+Call no. RRARE 266.759 SCURSC; Accession no. B20016993H  
+  
+The Singapore Christian Union was formed in 1827 to promote literacy and spread Christianity in Singapore and the Malay Archipelago through the establishment of schools and the distribution of scriptures and tracts. This inaugural report provides an update on the progress of education and the circulation of Christian literature in Singapore and Southeast Asia.
+	
+<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20a%20tour_x.jpg" style="width:70%;">
+<div style="background-color: #fff6ba;text-align:center">  Title page of&nbsp;_Journal of a Tour Along the Coast of Java and Bali_. _Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G_</div><br>
 
 
 <div style="background-color: white;">
@@ -209,4 +215,4 @@ English Protestant missionary Walter Henry Medhurst of the London Missionary Soc
 
 [^28]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 5–6; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 258–83; Ibrahim Ismail, “Samuel Dyer and His Contributions to Chinese Typography,” _Library Quarterly_ 54, no. 2 (April 1985): 157–69. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “[Early Malay Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/),”&nbsp;_BiblioAsia_&nbsp;13, no. 3 (October–December 2017): 40–43; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)</div></div>
+[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “[Early Malay Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/),”&nbsp;_BiblioAsia_&nbsp;13, no. 3 (October–December 2017): 40–43; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)</div></div></div>
