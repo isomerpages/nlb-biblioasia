@@ -125,6 +125,18 @@ Dyer continued his development work in his later postings to Malacca (1835–39)
 
 Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and their assistants such as Munshi Abdullah, occupy an important place in the early history of printing in Singapore. They were pioneers in religious printing and also in vernacular, government and commercial printing. Their efforts paved the way for the development of European commercial printing in the 1830s, vernacular commercial printing in the 1860s and 1870s, and the establishment of the Government Printing Office in 1867.[^29]
 
+<div style="background-color: #fff6ba;text-align:center; font-size:120%">
+	<br>
+<b>ABOUT THE BOOK</b>
+<br><br>
+<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/book%20cover_the%20great%20reclamation.jpg" style="width:40%;">
+<div style="background-color: #fff6ba;text-align:center">Published by Riverhead Books, 2023.</div> 	
+	
+<div style="background-color: #fff6ba;text-align:left; padding:15px">
+	<br>
+</div>
+	
+
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/gracia_lee.png" style="width: 100px; height: 100px;">
@@ -188,4 +200,4 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 
 [^28]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 5–6; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 258–83; Ibrahim Ismail, “Samuel Dyer and His Contributions to Chinese Typography,” _Library Quarterly_ 54, no. 2 (April 1985): 157–69. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “[Early Malay Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/),”&nbsp;_BiblioAsia_&nbsp;13, no. 3 (October–December 2017): 40–43; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)
+[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “[Early Malay Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/),”&nbsp;_BiblioAsia_&nbsp;13, no. 3 (October–December 2017): 40–43; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)</div>
