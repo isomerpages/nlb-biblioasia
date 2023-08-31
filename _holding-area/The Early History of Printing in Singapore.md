@@ -206,6 +206,8 @@ This is the first printed edition of the _Sulalat al-Salatin_ (_Genealogy of Kin
 <div style="background-color: #fff6ba;text-align:center"> Pages from <i>Sejarah Melayu (Malay Annals)</i> edited by Munshi Abdullah. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 SEJ; Accession no. B31655050C).</i></div>
 
 	
+
+	
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/gracia_lee.png">
