@@ -138,8 +138,10 @@ Call no. RRARE 992.2 JOU; Accession no. B03013533G
 
 English Protestant missionary Walter Henry Medhurst of the London Missionary Society recounts his travels to Java and Bali with Reverend Jacob Tomlin in 1829. Parts of the journal have been republished many times for its rich descriptions of Bali. This is the earliest English book printed in Singapore that is found in the National Library’s collection.
 	
-<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20a%20tour_x.jpg" style="width:40%;">
-<div style="background-color: #fff6ba;text-align:center">  Title page of&nbsp;_Journal of a Tour Along the Coast of Java and Bali_. _Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G_</div>
+<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20a%20tour_x.jpg" style="width:70%;">
+<div style="background-color: #fff6ba;text-align:center">  Title page of&nbsp;_Journal of a Tour Along the Coast of Java and Bali_. _Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G_</div><br>
+	
+
 
 
 
