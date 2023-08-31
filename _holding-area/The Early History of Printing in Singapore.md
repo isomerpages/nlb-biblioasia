@@ -202,8 +202,8 @@ Call no. RRARE 959.503 SEJ; Accession no. B31655050C
 
 This is the first printed edition of the _Sulalat al-Salatin_ (_Genealogy of Kings_). This version was edited by Munshi Abdullah and the preface was likely written by Alfred North, who also printed the book.<br>
 
-<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/vocabulary%20inside%20&amp;%20title.jpg![](/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/sejarah%20melayu_x.jpg)">
-<div style="background-color: #fff6ba;text-align:center">  Title page and inside pages from <i>A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words. Collection of the National Library, Singapore (Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K).</i></div>
+<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/sejarah%20melayu_x.jpg">
+<div style="background-color: #fff6ba;text-align:center"> Pages from <i>Sejarah Melayu (Malay Annals)</i> edited by Munshi Abdullah. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 SEJ; Accession no. B31655050C).</i></div>
 
 	
 <div style="background-color: white;">
