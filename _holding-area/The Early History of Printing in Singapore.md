@@ -236,7 +236,7 @@ Call no. RRARE 991 MOO; Accession no. B03013554J
 This mammoth work features articles on Singapore and Southeast Asia reprinted from the <i>Singapore Chronicle</i>and other scholarly journals. It was compiled by John Henry Moor, the former editor of the _Singapore Chronicle_ and _Singapore Free Press_. Due to the scarcity of printers and paper, the task took two years to complete. This is among one of the earliest scholarly works printed in Singapore. It was donated to the National Library by Mrs Loke Yew in fulfilment of the intention of her son Loke Wan Tho.
 
 <img style="width:85%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/notices%20of%20the%20indian%20archipelago_x.jpg">
-	<div style="background-color: #fff6ba;text-align:center">Cover and pages from 約翰福音之傳: 複製及解説<i> (Yohane fukuin no den: Fukusei oyobi kaisetsu). Collection of the National Library, Singapore (Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E).</i></div><br>
+	<div style="background-color: #fff6ba;text-align:center">Title page of <i>Notices of the Indian Archipelago, and Adjacent Countries. Collection of the National Library, Singapore (Call no. RRARE 991 MOO; Accession no. B03013554J).</i></div><br>
 	
 <div style="background-color: white;">
 <br>
