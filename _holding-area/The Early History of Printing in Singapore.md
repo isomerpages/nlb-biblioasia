@@ -184,7 +184,7 @@ This maritime code of the Bugis was translated by Claudius Henry Thomsen into En
 <div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/b3f825d4-091a-4546-9bec-e1bb88da4268.aspx"><b>     
 A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words</b></a><br>	  Singapore: Printed at the Mission Press, 1833.<br>
-o-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --&gt; Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K
+Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K
 	
 	
 	
