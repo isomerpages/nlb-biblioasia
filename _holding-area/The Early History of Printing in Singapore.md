@@ -141,7 +141,7 @@ English Protestant missionary Walter Henry Medhurst of the London Missionary Soc
 <div style="background-color: #fff6ba;text-align:center">  Title page of&nbsp;<i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore</i>  (Call no. RRARE 992.2 JOU; Accession no. B03013533G</div><br>
 	
 <div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx">The First Report of the Singapore Christian Union, 1930</a><br>
+<a href="https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx"><b>The First Report of the Singapore Christian Union, 1930</b></a><br>
 Singapore: Printed at the Mission Press, 1830.
 Call no. RRARE 266.759 SCURSC; Accession no. B20016993H  
   
