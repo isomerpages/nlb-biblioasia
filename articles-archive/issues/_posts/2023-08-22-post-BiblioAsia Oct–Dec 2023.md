@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Before the 1970s, it was not compulsory to wear a crash helmet while riding a motorcycle or scooter in Singapore.&nbsp; But a campaign encouraging people to voluntarily wear helmets failed, and the government had to use legislation instead.
+Before the 1970s, it was not compulsory to wear a crash helmet while riding a motorcycle or scooter in Singapore. But a campaign encouraging people to voluntarily wear helmets failed, and the government had to use legislation instead.
 
 <img src="/images/Vol%2019%20Issue%203/biblioasia_19_3_cover.png">
 
