@@ -157,11 +157,10 @@ Call no. RRARE 225.59928 BIB; Accession no. B19016274H
 
 This revised translation of the New Testament in Malay was prepared by Claudius Henry Thomsen and Robert Burn, the Chaplain of the Anglican Church in Singapore. Thomsen began learning and translating the Bible into Malay with the help of Munshi Abdullah while they were in Melaka.
 
-<img style="width:50%;" src="![](/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg)/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/first%20report%20of%20the%20singapore%20christian%20union_x.jpg">
-<div style="background-color: #fff6ba;text-align:center">  Cover of The First Report of the Singapore Christian Union. Collection of the National Library, Singapore (Call no. RRARE 266.759 SCURSC; Accession no. B20016993H).</div><br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg">
+<div style="background-color: #fff6ba;text-align:center">  Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore </i>   (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</div><br>
 
-	
-	
+
 	
 	
 <div style="background-color: white;">
