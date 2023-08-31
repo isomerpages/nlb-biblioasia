@@ -138,7 +138,7 @@ Call no. RRARE 992.2 JOU; Accession no. B03013533G
 English Protestant missionary Walter Henry Medhurst of the London Missionary Society recounts his travels to Java and Bali with Reverend Jacob Tomlin in 1829. Parts of the journal have been republished many times for its rich descriptions of Bali. This is the earliest English book printed in Singapore that is found in the National Library’s collection.
 	
 <img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20a%20tour_x.jpg">
-<div style="background-color: #fff6ba;text-align:center">  Title page of&nbsp;<i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore  (Call no. RRARE 992.2 JOU; Accession no. B03013533G</i></div><br>
+<div style="background-color: #fff6ba;text-align:center">  Title page of&nbsp;<i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore  (Call no. RRARE 992.2 JOU; Accession no. B03013533G.</i></div><br>
 	
 <div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx"><b>The First Report of the Singapore Christian Union, 1930</b></a><br>
@@ -195,7 +195,9 @@ First published in Melaka in 1820, this word list contains terms in English and 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/gracia_lee.png">
-<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.</div>
+<b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.<br><br>
+</div>
+	<div style="background-color: white;">
 
 #### **Notes**
 
@@ -255,4 +257,4 @@ First published in Melaka in 1820, this word list contains terms in English and 
 
 [^28]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 5–6; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 258–83; Ibrahim Ismail, “Samuel Dyer and His Contributions to Chinese Typography,” _Library Quarterly_ 54, no. 2 (April 1985): 157–69. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “[Early Malay Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/),”&nbsp;_BiblioAsia_&nbsp;13, no. 3 (October–December 2017): 40–43; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)</div></div></div></div></div></div></div>
+[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “[Early Malay Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/),”&nbsp;_BiblioAsia_&nbsp;13, no. 3 (October–December 2017): 40–43; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)</div></div></div></div></div></div></div></div>
