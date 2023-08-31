@@ -150,7 +150,20 @@ The Singapore Christian Union was formed in 1827 to promote literacy and spread 
 <img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/first%20report%20of%20the%20singapore%20christian%20union_x.jpg">
 <div style="background-color: #fff6ba;text-align:center">  Cover of The First Report of the Singapore Christian Union. Collection of the National Library, Singapore (Call no. RRARE 266.759 SCURSC; Accession no. B20016993H).</div><br>
 
+<div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
+<a href="https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4378980x"><b>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru = The New Testament of Our Lord and Saviour Jesus Christ in Malay</b></a><br>	
+Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1831. 
+Call no. RRARE 225.59928 BIB; Accession no. B19016274H
 
+This revised translation of the New Testament in Malay was prepared by Claudius Henry Thomsen and Robert Burn, the Chaplain of the Anglican Church in Singapore. Thomsen began learning and translating the Bible into Malay with the help of Munshi Abdullah while they were in Melaka.
+
+<img style="width:50%;" src="![](/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg)/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/first%20report%20of%20the%20singapore%20christian%20union_x.jpg">
+<div style="background-color: #fff6ba;text-align:center">  Cover of The First Report of the Singapore Christian Union. Collection of the National Library, Singapore (Call no. RRARE 266.759 SCURSC; Accession no. B20016993H).</div><br>
+
+	
+	
+	
+	
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/gracia_lee.png">
@@ -214,4 +227,4 @@ The Singapore Christian Union was formed in 1827 to promote literacy and spread 
 
 [^28]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 5–6; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 258–83; Ibrahim Ismail, “Samuel Dyer and His Contributions to Chinese Typography,” _Library Quarterly_ 54, no. 2 (April 1985): 157–69. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “[Early Malay Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/),”&nbsp;_BiblioAsia_&nbsp;13, no. 3 (October–December 2017): 40–43; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)</div></div></div>
+[^29]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 13, 17; Mazelan Anuar, “[Early Malay Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/),”&nbsp;_BiblioAsia_&nbsp;13, no. 3 (October–December 2017): 40–43; Lee Ching Seng, “19th Century Printing in the Chinese Language,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=203868804), ed. Kwa Chong Guan and Kwa Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 363–87. (From National Library, Singapore, call no. RSING 305.895105957); Lee Geok Boi, [_Pages from Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/item_holding.aspx?id=5360274) (Singapore: Singapore Heritage Society, 1989), 6. (From National Library, Singapore, call no. RSING 070.5095957 PAG)</div></div></div></div>
