@@ -130,16 +130,15 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 <b> PUBLICATIONS BY THE MISSION PRESS OF THE LONDON MISSIONARY SOCIETY</b>
 <br><br>
 <div style="background-color: #fff6ba;text-align:left; ;font-size:80%">
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx">
-Journal of a Tour Along the Coast of Java and Bali etc, with a Short Account of the Island of Bali Particularly of Bali Baliling</a>
-	
+<a href="https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx"><b>
+Journal of a Tour Along the Coast of Java and Bali etc, with a Short Account of the Island of Bali Particularly of Bali Baliling</b></a><br>	
 Singapore: Printed at the Mission Press, 1830.
 Call no. RRARE 992.2 JOU; Accession no. B03013533G
 
 English Protestant missionary Walter Henry Medhurst of the London Missionary Society recounts his travels to Java and Bali with Reverend Jacob Tomlin in 1829. Parts of the journal have been republished many times for its rich descriptions of Bali. This is the earliest English book printed in Singapore that is found in the National Library’s collection.
 	
-<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20a%20tour_x.jpg" style="width:70%;">
-<div style="background-color: #fff6ba;text-align:center">  Title page of&nbsp;_Journal of a Tour Along the Coast of Java and Bali_. _Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G_</div><br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20a%20tour_x.jpg">
+<div style="background-color: #fff6ba;text-align:center">  Title page of&nbsp;<i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore</i>  (Call no. RRARE 992.2 JOU; Accession no. B03013533G</div><br>
 	
 <div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx">The First Report of the Singapore Christian Union, 1930</a><br>
@@ -148,13 +147,13 @@ Call no. RRARE 266.759 SCURSC; Accession no. B20016993H
   
 The Singapore Christian Union was formed in 1827 to promote literacy and spread Christianity in Singapore and the Malay Archipelago through the establishment of schools and the distribution of scriptures and tracts. This inaugural report provides an update on the progress of education and the circulation of Christian literature in Singapore and Southeast Asia.
 	
-<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/first%20report%20of%20the%20singapore%20christian%20union_x.jpg" style="width:70%;">
+<img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/first%20report%20of%20the%20singapore%20christian%20union_x.jpg">
 <div style="background-color: #fff6ba;text-align:center">  Cover of The First Report of the Singapore Christian Union. Collection of the National Library, Singapore (Call no. RRARE 266.759 SCURSC; Accession no. B20016993H).</div><br>
 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/gracia_lee.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/gracia_lee.png">
 <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.</div>
 
 #### **Notes**
