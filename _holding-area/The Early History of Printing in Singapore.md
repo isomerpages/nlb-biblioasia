@@ -137,7 +137,7 @@ Call no. RRARE 992.2 JOU; Accession no. B03013533G
 
 English Protestant missionary Walter Henry Medhurst of the London Missionary Society recounts his travels to Java and Bali with Reverend Jacob Tomlin in 1829. Parts of the journal have been republished many times for its rich descriptions of Bali. This is the earliest English book printed in Singapore that is found in the National Library’s collection.
 	
-<img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20a%20tour_x.jpg">
+<img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20a%20tour_x.jpg">
 <div style="background-color: #fff6ba;text-align:center">  Title page of&nbsp;<i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore  (Call no. RRARE 992.2 JOU; Accession no. B03013533G</i></div><br>
 	
 <div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
@@ -147,7 +147,7 @@ Call no. RRARE 266.759 SCURSC; Accession no. B20016993H
   
 The Singapore Christian Union was formed in 1827 to promote literacy and spread Christianity in Singapore and the Malay Archipelago through the establishment of schools and the distribution of scriptures and tracts. This inaugural report provides an update on the progress of education and the circulation of Christian literature in Singapore and Southeast Asia.
 	
-<img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/first%20report%20of%20the%20singapore%20christian%20union_x.jpg">
+<img style="width:40%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/first%20report%20of%20the%20singapore%20christian%20union_x.jpg">
 <div style="background-color: #fff6ba;text-align:center">  Cover of <i>The First Report of the Singapore Christian Union. Collection of the National Library, Singapore (Call no. RRARE 266.759 SCURSC; Accession no. B20016993H).</i></div><br>
 
 <div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
@@ -157,7 +157,7 @@ Call no. RRARE 225.59928 BIB; Accession no. B19016274H
 
 This revised translation of the New Testament in Malay was prepared by Claudius Henry Thomsen and Robert Burn, the Chaplain of the Anglican Church in Singapore. Thomsen began learning and translating the Bible into Malay with the help of Munshi Abdullah while they were in Melaka.
 
-<img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg">
+<img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg">
 <div style="background-color: #fff6ba;text-align:center">  Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore   (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div><br>
 
 <div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
@@ -167,7 +167,7 @@ Call no. RRARE 225.59928 BIB; Accession no. B19016274H
 
 Claudius Henry Thomsen started learning the Bugis language sometime around 1824 with the intent of producing a tract to distribute to Bugis vessels that visited Singapore during the trading season. He printed 2,000 copies of a 12-page booklet on the Parables of the New Testament which was likely translated from Malay by his Bugis teacher. There appeared to be some interest in these pamphlets as they were brought back to the Celebes.
 
-<img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/bugis%20tract.JPG">
+<img style="width:40%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/bugis%20tract.JPG">
 <div style="background-color: #fff6ba;text-align:center">  A page from <i>Bugis Tract. No. 2, Religion of the Bible. Collection of the National Library, Singapore (Call no. RRARE 230 BUG; Accession no. B26067781D).  </i></div><br>
 <div style="background-color: #fff6ba;text-align:left; ;font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/d7826db3-8975-418b-ba35-8e28f1716c9a.aspx"><b>     
@@ -177,7 +177,7 @@ Call no. RRARE 343.5984096 COD; Accession no. B03053896A
 
 This maritime code of the Bugis was translated by Claudius Henry Thomsen into English. It was printed from types that were cast in Singapore using moulds made in Serempore, in India.
 
-<img style="width:85%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/code%20of%20bugis%20maritime%20laws.jpg">
+<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/code%20of%20bugis%20maritime%20laws.jpg">
 <div style="background-color: #fff6ba;text-align:center">  Title page and inside pages from <i>A Code of Bugis Maritime Laws. Collection of the National Library, Singapore (Call no. RRARE 343.5984096 COD; Accession no. B03053896A). </i></div>
 <br>
 
@@ -188,7 +188,7 @@ Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K
 
 First published in Melaka in 1820, this word list contains terms in English and Malay compiled by Claudius Henry Thomsen and Munshi Abdullah. This third edition, published in 1833, was expanded to include Bugis terms.	
 
-<img style="width:85%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/vocabulary%20inside%20&amp;%20title.jpg">
+<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/vocabulary%20inside%20&amp;%20title.jpg">
 <div style="background-color: #fff6ba;text-align:center">  Title page and inside pages from <i>A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words. Collection of the National Library, Singapore (Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K).</i></div>
 	
 	
