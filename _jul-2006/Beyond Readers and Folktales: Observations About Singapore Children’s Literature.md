@@ -17,6 +17,20 @@ One may ask, why is there a need to study multicultural children’s literature 
 
 There are two ways of looking at this. Firstly, through exposure to multicultural literature, children would gain a better understanding of themselves as they “identify with characters that look like them” and they would then be able to “participate in shared cultural traditions and daily experiences” (Pataray-Ching & Ching, 2001). Secondly, the existence of multicultural literature would have an empowering effect as it is written evidence of the contributions made by those not belonging to the mainstream white culture that is highly prevalent in the publishing industry.
 
+#### **Singapore Children’s Literature**
+In the light of this, Singapore children’s literature has an important role to play within the larger context of children’s literature because it would ideally represent the authentic voice of the Singapore child. These stories that portray Singapore children with their worldview, realities and values, would capture the identity of the Singapore child and how they redefine themselves in the face of different cultural realities.
+
+Our observations of Singapore children’s literature has, however, shown that more often than not, these larger issues are sidelined by the more basic issues such as authors getting their works published in the first place. Many children’s authors in Singapore face the daunting challenge of self-publishing their works because local publishers, due to economic constraints, often overlook these works in favour of more lucrative materials. This is unfortunate as selfpublished books are sometimes put under scrutiny and suffer from a lack of credibility.
+
+This lack of publisher support has existed for a long time. One resason for this is the utilitarian attitude towards reading and literature in Singapore, exacerbated by the fact that “literature in Singapore is not recognised as a source of vital, vigorous and possible change-bringing elements but as a simple auxiliary of life” (Tay, 1984).
+
+Given this, it is not surprising that the children’s publishing scene in Singapore has suffered with its children’s literature comprising mainly supplementary readers short stories and folktales, and very few original works of quality and merit.
+
+
+
+
+
+
 
 
 
