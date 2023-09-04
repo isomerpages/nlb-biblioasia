@@ -247,10 +247,69 @@ This translation of the Malay New Testament in Romanised Malay was edited and pu
 
 <div style="background-color: #fff6ba; text-align:left">Pages from <i>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami (The New Testament of our Lord and Saviour Jesus Christ in Malay). Collection of the National Library, Singapore (Call no. RRARE 225 BIB, Accession no. B20119134J). </i></div><br>	
 	
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=203130883"><b>Ceritera Ilmu Kepandaian Orang Putih</b></a><br>Singapore: Bukit Zion, 1855.<br>         Call no. RRARE 306.460973 CER; Accession no. B31655051D.<br><br>
+Roughly translated as _The Book of European Knowledge_, it was prepared by Munshi Abdullah for use in Benjamin Keasberry’s school. It covers various European modern technology and their social benefits, such as gaslights, water piping systems, railways and printing presses. The textbook was published at Mount Zion on River Valley Road, the location of the new mission office that Keasberry had established as an independent missionary after the London Missionary Society exited from Singapore in 1847.</div><br>
+
+<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/ceritera%20ilmu_z.jpg">
+
+<div style="background-color: #fff6ba; text-align:left">Cover and inside pages from <i>Ceritera Ilmu Kepandaian Orang Putih. Collection of the National Library, Singapore (Call no. RRARE 306.460973 CER, Accession no. B31655051D).</i></div><br>
 	
-	
-	
-	
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4412481"><b>     
+Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan</b></a><br>Singapore: Lithographed in Bukit Zion, 1859.<br>
+Call no. RRARE 059.9923 CER; Accession no. B03057034K.<br><br>
+Translated as Eye Glass for All Who Seek Knowledge, this is one of the earliest Malay periodicals published in Singapore. It showcases Benjamin Keasberry’s skill in utilising lithography to reproduce texts that are visually familiar to the calligraphic script, decorative motifs and bright colours of hand-copied Malay manuscripts.</div><br>	
+
+<img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/cermin%20mata_z.jpg">
+<div style="background-color: #fff6ba; text-align:left">  Inside pages from <i>Cermin Mata. Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i></div><br><br>
+
+<b>REFERENCES</b>  
+  
+
+
+Abdullah Abdul Kadir, [_Hikayat Abdullah_](https://eservice.nlb.gov.sg/item_holding.aspx?id=4079095) (Singapore: Mission Press, 1849). (From National Library, Singapore, call no. RRARE 959.503 ABD)
+
+Ang, Seow Leng, “[Logan’s Journal](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/indian-archipelago-eastern-asia-logan-journal/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 28–29.
+
+Ang, Seow Leng, “[Stories of Abdullah](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 66–67.
+
+“Extracts from Letters of Mr Tracy, Dated at Singapore,” _The Missionary Herald_ 32, 181 (May 1836), HathiTrust, https://hdl.handle.net/2027/uc1.b3079719.
+
+Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), vol. 2 (Singapore: World Scientific, 2020), 90–91. (From National Library, Singapore, call no. RSING 959.5 HAD)
+
+J. Noorduyn, “C.H. Thomsen, the Editor of ‘A Code of Bugis Maritime Laws’,” _Bijdragen tot de Taal-, Land- en Volkenkunde_ 113, no. 3 (1957): 248, Brill website: https://doi.org/10.1163/22134379-90002285.
+
+[_Kitab Al-kudus, Iya Itu, Injil Isa Al-Masihi Tuhan Kami = The New Testament of Our Lord and Saviour Jesus Christ in Malay_](https://eservice.nlb.gov.sg/item_holding.aspx?id=7230342) (Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1866. (From National Library, Singapore, call no.: RRARE 225.59923 BIB)
+
+Kloss, C. Boden, [_Annual Report on the Raffles Library and Museum for the Year 1923_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4394247) (Singapore: Government Printing Office, 1924), 6. (From National Library, Singapore, call no. RRARE 027.55957 RAF)
+
+Lee, Gracie, “[The Book That Almost Didn’t Happen](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/notices-indian-archipelago-john-henry-moor/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 36–37.
+
+Mazelan Anuar, “[Through the Eye Glass](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/cermin-mata-benjamin-keasberry/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 86–87.
+
+National Heritage Board, _Perfect Man’s Model (Quanren Juyue) by Karl Friedrich August Gützlaff_, Roots, last updated 6 April 2023, https://www.roots.gov.sg/Collection-Landing/listing/1339272.
+
+Ong, Eng Chuan, “[A Missionary’s Guide to Java and Bali](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 12–13.
+
+Ong, Eng Chuan, “[The Gospel in Chinese](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 96–97.
+
+_Orientalia II: Malaysia, Singapore, Borneo,_ John Randall Books of Asia, last accessed 19 July 2023, https://www.booksofasia.com/PDFs/Orientalia%202%20SEA%20CUR%2030.07.19.pdf.
+
+Sachiko Tanaka and Irene Lim, “[A Work of Many Hands: The First Japanese Translation of John’s Gospel and His Epistles](https://biblioasia.nlb.gov.sg/vol-7/issue-4/mar-2012/japanese-translation-gospel/),” _BiblioAsia_ 7, no. 4 (March 2012): 8–15.&nbsp;
+
+Tan, Bonny, “[Singapore’s First Japanese Resident: Yamamoto Otokichi](https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/yamamoto-otokichi/),” _BiblioAsia_ 12, no. 2 (July–September 2016): 32–35.
+
+_The Chinese Repository, Vol. II. From May 1833 to April 1834_, 2nd ed. (Canton: Printed for the Proprietors, 1834), 86, HathiTrust, https://hdl.handle.net/2027/uc1.b3883200.
+
+“The President’s Address_,” Journal of the Straits Branch of the Royal Asiatic Society_, no. 2 (December 1878): 4. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+
+_Twenty-First Annual Report of the American Tract Society 1835_ (New York: Printed at the Society’s House, 1835), 49, HathiTrust, https://hdl.handle.net/2027/hvd.ah3ira.
+
+_Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions September: 1837_ (Boston: Crocker and Brewster, 1837), 90, HathiTrust, https://hdl.handle.net/2027/wu.89065737223.
+
+Wylie, Alexander, _Memorials of Protestant Missionaries to the Chinese_ (Shanghae: American Presbyterian Mission Press, 1867), 106, HathiTrust, https://hdl.handle.net/2027/nyp.33433068293772.
+
 	
 	
 
