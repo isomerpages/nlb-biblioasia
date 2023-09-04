@@ -31,6 +31,9 @@ A rigorous observation of the Singapore children’s literature scene reveals fi
 
 The colonial period of the 1950s and 1960s saw the blooming of children’s literature in Singapore authored by foreigners. One particular book published in Singapore in 1965 is the *Street of the Small Night Market* by British children’s author Sylvia Sherry. It is an absorbing tale of Ah Ong’s struggle to survive in a menacing Chinatown.
 
+<img src="/images/Vol%202%20Issue%202/ReadersFolktales/night%20market.jpg" style="width:50%;">
+ <div style="background-color: white;">All Rights Reserved, Times Books International,1985.</div>
+
 In the 1970s, literature for children was skewed chiefly towards language acquisition. We could say it was the start of the “all for education” mentality of the parents, many of whom “tend(ed) to measure the worth of reading according to its usefulness in schoolwork and in the attainment of better grades” (Tay, 1995).
 
 Literature was not employed as a heuristic mechanism for discovery and learning but as a didactic means of language instruction, used to inculcate desirable behavioural outcomes. One such book is *Courtesy is John’s Way of Life* (1979).
