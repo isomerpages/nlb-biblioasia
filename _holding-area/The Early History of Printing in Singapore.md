@@ -169,6 +169,19 @@ Claudius Henry Thomsen started learning the Bugis language sometime around 1824 
 
 <img style="width:40%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/bugis%20tract.JPG">
 <div style="background-color: #fff6ba; text-align:left">&nbsp; A page from <i>Bugis Tract. No. 2, Religion of the Bible. Collection of the National Library, Singapore (Call no. RRARE 230 BUG; Accession no. B26067781D).</i></div><br>
+
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+
+<a href="https://eresources.nlb.gov.sg/printheritage/detail/d7826db3-8975-418b-ba35-8e28f1716c9a.aspx"><b>A Code of Bugis Maritime Laws</b></a><br>Singapore: Printed at the Mission Press, 1832.<br>
+Call no. RRARE 343.5984096 COD; Accession no. B03053896A.<br>
+
+This maritime code of the Bugis was translated by Claudius Henry Thomsen into English. It was printed from types that were cast in Singapore using moulds made in Serempore, in India.</div><br>
+
+<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/code%20of%20bugis%20maritime%20laws.jpg">
+
+<div style="background-color: #fff6ba; text-align:left"> Title page and inside pages from <i>A Code of Bugis Maritime Laws. Collection of the National Library, Singapore (Call no. RRARE 343.5984096 COD; Accession no. B03053896A). </i></div><br>
+	
+	
 	
 	
 	
