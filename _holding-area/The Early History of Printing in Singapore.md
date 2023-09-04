@@ -181,8 +181,63 @@ This maritime code of the Bugis was translated by Claudius Henry Thomsen into En
 
 <div style="background-color: #fff6ba; text-align:left"> Title page and inside pages from <i>A Code of Bugis Maritime Laws. Collection of the National Library, Singapore (Call no. RRARE 343.5984096 COD; Accession no. B03053896A). </i></div><br>
 	
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+<a href="https://eresources.nlb.gov.sg/printheritage/detail/b3f825d4-091a-4546-9bec-e1bb88da4268.aspx"><b>     
+A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words</b></a><br>
+Singapore: Printed at the Mission Press, 1833.<br>
+Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K.<br>
+
+First published in Melaka in 1820, this word list contains terms in English and Malay compiled by Claudius Henry Thomsen and Munshi Abdullah. This third edition, published in 1833, was expanded to include Bugis terms.</div><br>	
+
+<img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/vocabulary%20inside%20&amp;%20title.jpg">
+<div style="background-color: #fff6ba; text-align:left">  Title page and inside pages from <i>A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words. Collection of the National Library, Singapore (Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K).</i></div><br>
+
+<div style="background-color: #fff6ba; text-align:left; font-size=larger"><br>
+<b>PUBLICATIONS BY THE MISSION PRESS OF THE AMERICAN BOARD OF COMMISSIONERS FOR FOREIGN MISSION</b><br><br>
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+<a href="https://eresources.nlb.gov.sg/printheritage/detail/dcc381e7-b2ec-4094-9eb1-e208039551af.aspx"><b>Sejarah Melayu (Malay Annals)()</b></a><br>	
+Singapore: 1840.<br>
+Call no. RRARE 959.503 SEJ; Accession no. B31655050C.<br>
+
+This is the first printed edition of the <i>Sulalat al-Salatin (Genealogy of Kings</i>). This version was edited by Munshi Abdullah and the preface was likely written by Alfred North, who also printed the book.</div></div><br>
+
+<img style="width:45%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/sejarah%20melayu_zx.jpg">
+<div style="background-color: #fff6ba; text-align:left"> Pages from <i>Sejarah Melayu (Malay Annals)</i> edited by Munshi Abdullah. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 SEJ; Accession no. B31655050C).</i></div><br>
+         
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+
+<a href="https://eresources.nlb.gov.sg/printheritage/detail/29ccbe1a-d854-4520-bf05-b3d085114375.aspx"><b>
+全人矩矱&nbsp; (Quan Ren Ju Yue)</b></a><br>新嘉坡 坚夏書院, 1836.<br>
+Call no. RRARE 243 AHZ; Accession no. B02890695F.<br>
+
+The title of this publication has been translated as The Perfect Man’s Model or The Complete Duty of Man. This is the earliest extant Chinese publication printed in Singapore and is held in the National Library’s collection. This book was written by German Protestant missionary Karl Friedrich August Gützlaff under his pen name 爱汉者 (“Lover of the Chinese”) and by printed by 坚夏書院 (Jian Xia Shuyuan), the printing arm of the American mission in Singapore.</div><br>
+
+<img style="width:85%;" src="/images/Vol%2019%20Issue%203/10%20Printing/image_8-edit.png">
+
+<div style="background-color: #fff6ba;text-align:left">Cover and pages from 全人矩矱 <i>(Quan Ren Ju Yue)</i>, translated as&nbsp;<i>The Perfect Man’s Model</i>&nbsp;or&nbsp;<i>The Complete Duty of Man. Collection of the National Library, Singapore (Call no. RRARE 243 AHZ; Accession no. B29240187K).</i></div><br>
+
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+<a href="https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203430235"><b>     
+約翰福音之傳: 複製及解説 (Yohane fukuin no den: Fukusei oyobi kaisetsu)</b></a><br>	
+東京: 長崎書店 (Tōkyō: Nagasaki Shoten), 1941.<br> 
+Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E.<br>
 	
+This is a facsimile reproduction of the 1837 edition of the Gospel of John, which scholars regard as the earliest extant book of the Bible in Japanese. It was translated by Gützlaff with the assistance of three shipwrecked Japanese sailors. One of the three, 
+<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/yamamoto-otokichi/">Yamamoto Otokichi</a>, became the first Japanese settler in Singapore in 1862. Due to the closed-door policies of Japan and China at the time, Gützlaff had to send the text to Singapore for printing. The book cover credits 堅夏書院 (Kenka Shoin), the printing arm of the American mission in Singapore, as the publisher. The glaring errors in the katakana script are indications that the printing was likely undertaken by Chinese printers who did not know Japanese. This publication was donated to the National Library by Lim Shao Bin.</div><br>
 	
+<img style="width:85%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/japanese%20bible%201_3.png">
+<div style="background-color: #fff6ba;text-align:left">Cover and pages from 約翰福音之傳: 複製及解説<i> (Yohane fukuin no den: Fukusei oyobi kaisetsu). Collection of the National Library, Singapore (Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E).</i></div><br>
+
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+
+<a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx"><b>Notices of the Indian Archipelago, and Adjacent Countries</b></a><br>Singapore: 1837.<br>
+Call no. RRARE 991 MOO; Accession no. B03013554J.<br>
+
+This mammoth work features articles on Singapore and Southeast Asia reprinted from the <i>Singapore Chronicle</i> and other scholarly journals. It was compiled by John Henry Moor, the former editor of the <i>Singapore Chronicle</i> and <i>Singapore Free Press</i>. Due to the scarcity of printers and paper, the task took two years to complete. This is among one of the earliest scholarly works printed in Singapore. It was donated to the National Library by Mrs Loke Yew in fulfilment of the intention of her son Loke Wan Tho.</div><br>
+
+<img style="width:45%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/notices%20of%20the%20indian%20archipelago_z.jpg">
+
+<div style="background-color: #fff6ba; text-align:left">Title page of <i>Notices of the Indian Archipelago, and Adjacent Countries. Collection of the National Library, Singapore (Call no. RRARE 991 MOO; Accession no. B03013554J).</i></div><br>
 	
 	
 
