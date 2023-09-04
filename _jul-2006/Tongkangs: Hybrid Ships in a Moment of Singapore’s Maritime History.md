@@ -36,6 +36,9 @@ There were generally two types of tongkangs in Singapore – the “Singapore Tr
 
 The modifications to the tongkang included a rectangular rudder pierced with diamond holes, a square gallery projecting over the stern of the tongkang, and a perforated cut-water.
 
+<img src="/images/Vol%202%20Issue%202/Tongkangs/tongkang%20constructing.jpg" style="width:50%;">
+ <div style="background-color: white;">Constructing a tongkang.</div>
+
 The “Singapore Trader” was 60–90 feet long with a breadth of 16–33 feet and a depth of only 8–10 feet whereas “The “Timber Trader” was much larger at 85–95 feet in length and had a breadth of 30–33 feet and a depth of 12–15 feet.
 
 The small vessels had two masts – the main-mast and the foremast, whereas the large vessels i.e. those above 50 tons stepped three masts; that is, the main-mast, the fore-mast and the mizzen-mast. In the 1950s, the main-sail costed between $250–$300 each, while smaller sails were priced at $150–$200 each.
@@ -52,10 +55,15 @@ Major repairs were carried out at periods varying from five to 10 years, involvi
 #### **The Tongkang Hub**
 The centre of the tongkang industry was that part of the island bound by Kallang Road, Crawford Street, Beach Road and Arab Street where owners of tongkangs had their business premises. This centre was a compact area where seamen could be recruited and vessels chartered without difficulty.
 
+<img src="/images/Vol%202%20Issue%202/Tongkangs/tongkangs.jpg" style="width:80%;">
+ <div style="background-color: white;">Tongkangs in the Kallang Basin near Malay <i>kampung</i> settlements.</div>
+
 “Timber Tongkangs” anchored and unloaded their cargo of logs into the sea, off Beach Road, the main anchorage for tongkangs until the building of the Merdeka Bridge in 1956. Logs were towed into the Kallang Basin, where they lay submerged in water until required by sawmills, resulting in a distinctly unpleasant smell in the vicinity.
 
 All other tongkangs unloaded their cargo of charcoal and fuelwood, poles, planks and sago at Tanjong Rhu. Though Beach Road was the hub of the industry, it was gradually replaced by Tanjong Rhu, where warehouses and wharves were constructed to accommodate the tongkang trade.
 
+<img src="/images/Vol%202%20Issue%202/Tongkangs/fuelwood%20cargo.jpg" style="width:80%;">
+ <div style="background-color: white;">Fuelwood cargo carried by tongkangs.</div>
 Tongkangs were used for coastal and inter-island trading, sailing to Indonesia, South Johore, Malacca, Perak and Sarawak. Much of the trade with Indonesia was mainly in the Riau and Lingga Archipelagoes which lay to the south and southeast of Singapore, the east coast of central Sumatra, namely Siak and Indragiri, and some of the major islands off the Sumatran coast.
 
 #### **The Trade of the Tongkangs**
