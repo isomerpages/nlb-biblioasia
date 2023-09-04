@@ -146,7 +146,12 @@ English Protestant missionary Walter Henry Medhurst of the London Missionary Soc
 Singapore: Printed at the Mission Press, 1830.<br>
 Call no. RRARE 266.759 SCURSC; Accession no. B20016993H</div><br><br>
 	
-	
+The Singapore Christian Union was formed in 1827 to promote literacy and spread Christianity in Singapore and the Malay Archipelago through the establishment of schools and the distribution of scriptures and tracts. This inaugural report provides an update on the progress of education and the circulation of Christian literature in Singapore and Southeast Asia.<br>
+
+<img style="width:40%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs\_Text%20Box/first%20report%20of%20the%20singapore%20christian%20union\_x.jpg">
+
+<div style="background-color: #fff6ba: text-align:left;">&nbsp; Cover of <i>The First Report of the Singapore Christian Union. Collection of the National Library, Singapore (Call no. RRARE 266.759 SCURSC; Accession no. B20016993H).</i></div><br>
+
 	
 	
 
