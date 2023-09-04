@@ -229,7 +229,15 @@ Commonly referred to as Logan’s Journal after its editor, the Scottish lawyer 
 
 <div style="background-color: #fff6ba; text-align:left">      These pages are from an article on the geological features of Singapore published in volume 1 of <i>The Journal of the Indian Archipelago and Eastern Asia. The illustrated plate on the right was lithographed at the Mission Press. Collection of the National Library, Singapore (Call no. RRARE 950.05 JOU; Accession nos. B03014400A [v. 1]).</i></div><br>
 	
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+<a href="https://eresources.nlb.gov.sg/printheritage/detail/81c0b1e2-807f-433b-b9d1-500ab4d06e62.aspx"><b>     
+Hikayat Abdullah</b></a><br>
+Singapore: Lithographed at the Mission Press, 1849.<br>
+Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
+An iconic work in Malay literature and the history of Singapore, _Hikayat Abdullah_ (_Stories of Abdullah_) – the autobiography of Munshi Abdullah – describes life in Singapore and Melaka in the early 19th century, including a detailed account of Stamford Raffles’ first arrival to Singapore in January 1819. This copy was donated by the Archdeacon George Frederick Hose in 1879 to the library of the Straits Branch of the Royal Asiatic Society. The book became a part of the Raffles Library (predecessor of the National Library) in 1923 when the society, which held its meetings at the Raffles Library and Museum, made a permanent loan of its collection to the library.</div><br>	
 
+<img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/vocabulary%20inside%20&amp;%20title.jpg">
+<div style="background-color: #fff6ba; text-align:left">      The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>
 	
 	
 	
