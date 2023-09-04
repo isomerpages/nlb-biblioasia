@@ -66,6 +66,9 @@ Illustrations, however, have always been a distressing feature of locally produc
 
 However it is not all bleak. Remarkable works, such as Jessie Wee’s *Home in the Sky* (1989), can be found. In this book, Jessie Wee tells a heartwarming story of Ho Seng and his friends who move into their “home in the sky” – the charming high-rise Housing Development Board (HDB) flats that are home to many in Singapore. The story explores the transition from simple *kampung* living to high-rise living. While the writing retains a Singapore flavour, the book has an international appeal with the illustrations showing maturity and an understanding for details.
 
+<img src="/images/Vol%202%20Issue%202/ReadersFolktales/poems%20grow%20up.jpg" style="width:50%;">
+ <div style="background-color: white;">All Rights Reserved, Federal Publications, 1989.</div>
+
 In *Poems to Grow Up With* (1989) by Patricia Tan, the illustrations are localised to reflect the local characters like the *kachang puteh* man. Tan’s works are suited for a range of readers – adult, young people and children. Some of published stories for children include *Spot and I* (1982), *Raman’s Present* (1983) and *Huiming Visits the Zoo* (1984).
 
 The published materials around this time continued to develop the Singaporean flavour of story and structure. In Kelly Chopard’s *Meow: A Singapura Tale* (1991), two Singapura cats, Petta and Larikins, escape from a cat show held at the Padang, and run into Kuching, a street cat at the Singapore River. Kuching lovingly relates the tale of Meow, the great-greatgrandfather of the Singapura cats, whose heroism saved the life of his friend, Ah Kow a labourer. Chopard continued writing stories with Singapore’s history and heritage in her two other books – *Terry’s Raffles Adventure* (1996) and *The Tiger’s Tale* (1987).
@@ -74,6 +77,9 @@ The published materials around this time continued to develop the Singaporean fl
 Beyond the supplementary readers, picture books, folktales, moralistic tales and creative texts, what else does Singapore children’s literature have to offer? And where does this leave the reader – child or adult?
 
 The Singapore reader, one would say, is left in a vacuum, which thus accounts for the popularity of the *Harry Potter* series, the *Lemony Snicket* series, the *Hardy Boys* and *Nancy Drew* series, and of authors like Roald Dahl. In all fairness, though, the local *Mr Midnight* series has been extremely popular with Singapore children as has been many Singapore ghost stories but these do not necessarily fall within the realm of quality children’s literature due to their formulaic plots and prosaic writing style.
+
+<img src="/images/Vol%202%20Issue%202/ReadersFolktales/midnight.jpg" style="width:50%;">
+ <div style="background-color: white;">All Rights Reserved, Angsana Books, 2005.</div>
 
 Ironically, Singapore children’s literature scene is slowly evolving as an increasing number of expatriate writers enters the local writing scene, such as James Lee, Quirk A, Di Taylor and Joy Cowley.
 
