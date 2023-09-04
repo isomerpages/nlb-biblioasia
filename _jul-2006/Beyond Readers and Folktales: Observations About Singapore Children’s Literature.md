@@ -38,7 +38,13 @@ In the 1970s, literature for children was skewed chiefly towards language acquis
 
 Literature was not employed as a heuristic mechanism for discovery and learning but as a didactic means of language instruction, used to inculcate desirable behavioural outcomes. One such book is *Courtesy is John’s Way of Life* (1979).
 
+<img src="/images/Vol%202%20Issue%202/ReadersFolktales/courtesy.jpg" style="width:50%;">
+ <div style="background-color: white;">All Rights Reserved, Seamaster Publishers, 1979.</div>
+
 In *Courtesy is John’s Way of Life* (1979), the subject matter relates to the courtesy campaign that ran in the 1970s. The protagonist, John displays courteous behaviour at all times – in school, at home and with his friends. An unbelievable character indeed – nevertheless, it worked for the campaign.
+
+<img src="/images/Vol%202%20Issue%202/ReadersFolktales/boatmen.jpg" style="width:50%;">
+ <div style="background-color: white;">All Rights Reserved, McGraw-Hill, 1979.</div>
 
 In *The Greedy Boatman* (Catherine Lim, 1979), we have the moralising idyll. The folktale, which relates the story of a greedy boatman who seizes an unfortunate event to get rich and learns a lesson the hard way, is another example of a book used to encourage good behaviour.
 
