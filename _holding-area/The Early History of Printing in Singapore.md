@@ -265,9 +265,9 @@ Translated as Eye Glass for All Who Seek Knowledge, this is one of the earliest 
 <div style="background-color: #fff6ba; text-align:left">  Inside pages from <i>Cermin Mata. Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i></div><br><br>
 
 <b>REFERENCES</b><br><br>
-	Abdullah Abdul Kadir, [<i>Hikayat Abdullah</i>](https://eservice.nlb.gov.sg/item_holding.aspx?id=4079095) (Singapore: Mission Press, 1849). (From National Library, Singapore, call no. RRARE 959.503 ABD)<br><br>
-Ang, Seow Leng, “[Logan’s Journal](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/indian-archipelago-eastern-asia-logan-journal/),” <i>BiblioAsia</i> 11, no. 4 (January–March 2016): 28–29.<br><br>
-Ang, Seow Leng, “[Stories of Abdullah](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi/),” <i>BiblioAsia</i> 11, no. 4 (January–March 2016): 66–67.<br><br>
+Abdullah Abdul Kadir, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=4079095"><i>Hikayat Abdullah</i></a> (Singapore: Mission Press, 1849). (From National Library, Singapore, call no. RRARE 959.503 ABD)<br><br>
+Ang, Seow Leng, <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/indian-archipelago-eastern-asia-logan-journal/"> "Logan's Journal</a> <i>BiblioAsia</i> 11, no.4 (January-March 2016): 28-29.<br><br>
+Ang, Seow Leng, <a href="“https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi/">Stories of Abdullah</a>,” <i>BiblioAsia</i> 11, no. 4 (January–March 2016): 66–67.<br><br>
 “Extracts from Letters of Mr Tracy, Dated at Singapore,” <i>The Missionary Herald</i> 32, 181 (May 1836), HathiTrust, https://hdl.handle.net/2027/uc1.b3079719.<br><br>
 Hadijah Rahmat, [<i>Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History</i>](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), vol. 2 (Singapore: World Scientific, 2020), 90–91. (From National Library, Singapore, call no. RSING 959.5 HAD )<br><br>
 J. Noorduyn, “C.H. Thomsen, the Editor of ‘A Code of Bugis Maritime Laws’,” <i>Bijdragen tot de Taal-, Land- en Volkenkunde</i> 113, no. 3 (1957): 248, Brill website: https://doi.org/10.1163/22134379-90002285.<br><br>
@@ -287,7 +287,7 @@ Tan, Bonny, “[Singapore’s First Japanese Resident: Yamamoto Otokichi](https:
 <i>Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions September: 1837</i> (Boston: Crocker and Brewster, 1837), 90, HathiTrust, https://hdl.handle.net/2027/wu.89065737223.<br><br>
 	Wylie, Alexander, <i>Memorials of Protestant Missionaries to the Chinese</i> (Shanghae: American Presbyterian Mission Press, 1867), 106, HathiTrust, https://hdl.handle.net/2027/nyp.33433068293772.
 
-</div><br><br>
+</div><br>
 	
 <div style="background-color: white;">
 <br>
