@@ -189,7 +189,7 @@ Singapore: 1840.<br>
 Call no. RRARE 959.503 SEJ; Accession no. B31655050C.<br><br>
 This is the first printed edition of the <i>Sulalat al-Salatin (Genealogy of Kings</i>). This version was edited by Munshi Abdullah and the preface was likely written by Alfred North, who also printed the book.</div></div><br>
 
-<img style="width:40%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/sejarah%20melayu_zx.jpg">
+<img style="width:35%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/sejarah%20melayu_zx.jpg">
 <div style="background-color: #fff6ba; text-align:left"> Pages from <i>Sejarah Melayu (Malay Annals)</i> edited by Munshi Abdullah. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 SEJ; Accession no. B31655050C).</i></div><br>
          
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
@@ -243,7 +243,7 @@ An iconic work in Malay literature and the history of Singapore, _Hikayat Abdull
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=7230342"><b>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami <i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i></b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1853.<br>Call no.: RRARE 225 BIB; Accession no.: B20119134J.<br><br>
 This translation of the Malay New Testament in Romanised Malay was edited and published by Benjamin Keasberry for the British and Foreign Bible Society in 1853. A revised edition was published in 1866.</div><br>
 
-<img style="width:45%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20iya%20itu%20injil%20isa%20al-masih%20tuhan%20kami_x.jpg">
+<img style="width:35%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20iya%20itu%20injil%20isa%20al-masih%20tuhan%20kami_x.jpg">
 
 <div style="background-color: #fff6ba; text-align:left">Pages from <i>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami (The New Testament of our Lord and Saviour Jesus Christ in Malay). Collection of the National Library, Singapore (Call no. RRARE 225 BIB, Accession no. B20119134J). </i></div><br>	
 	
