@@ -65,7 +65,7 @@ As Patary-Ching and Ching (2001) pointed out, we need “a multicultural library
 ***The Lee Kong Chian Reference Library’s Asian Children’s Collection is a unique collection of 20,000 children’s titles. This collection is a gem as it comprises an extensive array of Singapore children’s literature. At the same time, it collects Asian children’s literature spanning the Asian region and beyond, including works on Asian diaspora.***
 
 <div>
-<center><b>Fauziah Hassan</b><br>Senior Reference Librarian<br> Lee Kong Chian Reference Library</center><br><br>
+<center><b>Fauziah Hassan</b><br>Senior Reference Librarian<br> Lee Kong Chian Reference Library</center><br>
 <div style="background-color: white;">
 <br>
 <center><img style="width: 100px; height: 100px;" src="/images/Authors/Panna.jpg">
