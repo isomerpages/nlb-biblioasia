@@ -9,6 +9,9 @@ description: The history of the tongkang industry in Singapore began with the
 ---
 #### The history of the tongkang industry in Singapore began with the arrival of Stamford Raffles in 1819. With the establishment of the island as a trading centre, merchants from around the region and beyond began flocking here. Tongkangs were the chief means of sea transport, carrying men and goods between South China and Nanyang.
 
+<img src="/images/Vol%202%20Issue%202/Tongkangs/tongkang%20moorings.jpg" style="width:50%;">
+ <div style="background-color: white;">Access to tongkang moorings by sampan.</div>
+
 The history of the tongkang industry in Singapore is part of the history of enterprise in Southeast Asia. The history of the industry began with Sir Stamford Raffles in 1819. As soon as Raffles laid down the commercial foundations of the island, merchants around the region and beyond arrived and began operating from this rapidly expanding centre of trade. The Singapore merchants acted as the agents of exporters in China, selling on their behalf, the produce, mainly foodstuffs, of the coastal provinces of South China – Fujian, Guangdong and Hainan Island. The main ports for this export trade were Amoy, Swatow (Shandou today), and Hoi How, the capital of Hainan.
 
 During the 19th and early 20th centuries, there were relatively few steamships, so that the main part of the trade between China and Singapore was handled by Chinese junks, and later the tongkangs. These vessels were the chief means of sea transport, carrying men and goods between South China and the *Nanyang* (South Seas) countries.[^1] They also called at ports in Indo-China, Burma and Thailand. Excluding trade with Europe, which was carried by steamships and English lighters, the major portion of Eastern trade was carried by tongkangs.
@@ -86,7 +89,7 @@ D. G. E. Hall, _[A History of South-East Asia](https://eservice.nlb.gov.sg/item_
 
 #### **NOTES**
 
-All statistical data from Statistics Department, Singapore, Annual Imports and Export, I. & E.
+All statistical data from Statistics Department, Singapore, Annual Imports and Export, I. &amp; E.
 
 [^1]: Nanyang = southern ocean. Also used by Chinese migrants to mean Southeast Asia.
 
@@ -94,8 +97,4 @@ All statistical data from Statistics Department, Singapore, Annual Imports and E
 
 [^3]: Unless otherwise stated, the statistical data used in this chapter, were compiled from unpublished material in the Statistics Department, Singapore, and cited with the kind permission from the Chief Statistician.
 
-[^4]: Malayan Statistics: External Trade of Malaya, I & E 3, 1957.
-
-
-
-
+[^4]: Malayan Statistics: External Trade of Malaya, I &amp; E 3, 1957.
