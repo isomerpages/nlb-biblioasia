@@ -167,7 +167,7 @@ Call no. RRARE 225.59928 BIB; Accession no. B19016274H.</div><br>
 
 Claudius Henry Thomsen started learning the Bugis language sometime around 1824 with the intent of producing a tract to distribute to Bugis vessels that visited Singapore during the trading season. He printed 2,000 copies of a 12-page booklet on the Parables of the New Testament which was likely translated from Malay by his Bugis teacher. There appeared to be some interest in these pamphlets as they were brought back to the Celebes.<br>
 
-<img style="width:40%;" src="![](/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/bugis%20tract.JPG)/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs\_Text%20Box/bugis%20tract.JPG">
+<img style="width:40%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/bugis%20tract.JPG">
 <div style="background-color: #fff6ba; text-align:left">&nbsp; A page from <i>Bugis Tract. No. 2, Religion of the Bible. Collection of the National Library, Singapore (Call no. RRARE 230 BUG; Accession no. B26067781D).</i></div><br>
 	
 	
