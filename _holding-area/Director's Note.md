@@ -3,7 +3,7 @@ title: Director's Note
 permalink: /holding-area/test1/
 description: ""
 ---
-Fear of “helmet hair”. Remarkably, this was one of the reasons people gave for not wanting to wear a crash helmet while riding a motorcycle or scooter before the 1970s. In this issue’s cover story, Sharad Pandian recounts how a [campaign to get people to voluntarily wear helmets](/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/) failed, and the government had to turn to legislation instead.&nbsp;
+Fear of “helmet hair”. Remarkably, this was one of the reasons people gave for not wanting to wear a crash helmet while riding a motorcycle or scooter before the 1970s. In this issue’s cover story, Sharad Pandian recounts how a [campaign to get people to voluntarily wear helmets](/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/) failed, and why the government had to turn to legislation instead.
 
 Not all heroes wear capes; sometimes they wear football shorts. Nick Aplin’s piece on how Singapore dominated the Malaya Cup before the war will help ensure these men take their rightful place in the annals of [local football greats](/vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/).
 
