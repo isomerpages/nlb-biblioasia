@@ -152,7 +152,7 @@ The Singapore Christian Union was formed in 1827 to promote literacy and spread 
 
 <div style="background-color: #fff6ba: text-align:left;">&nbsp; Cover of <i>The First Report of the Singapore Christian Union. Collection of the National Library, Singapore (Call no. RRARE 266.759 SCURSC; Accession no. B20016993H).</i></div><br>
 
-	
+
 	
 
 
