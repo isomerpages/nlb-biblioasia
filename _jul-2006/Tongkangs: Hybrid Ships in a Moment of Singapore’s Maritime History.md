@@ -58,7 +58,24 @@ The trade handled by tongkangs was part of the larger and extremely important vo
 Similar to the faster and more efficient means of sea-transport, tongkangs also played their part in carrying raw material into Singapore, to be processed and re-exported, thus adding to the national income of the island. The major items of the tongkang trade were fuelwood and charcoal, wood in the round, mainly saw-logs and poles, sawn timber, rubber and raw sago, all non-perishable in nature for which timing was relatively unimportant, unlike for foodstuffs and essential raw materials such as rubber. Other produce carried on tongkangs included copra, coffee, tea, and spices. Being slower than steamships and freighters, tongkangs were particularly suited to carry non-perishable cargo more competitively than steamships and other faster means of sea-transport. These products were carried to attractive freight earnings for tongkang operators when there was a shortage of space on the steamships.
 
 #### **Demand, Supply and the Impact on Tongkang Cargoes**
+It is interesting to note that the earnings of the tongkang trade were affected by world events and politics such as the Korean War in the 1950s, the Suez Canal crisis in 1956 which impacted on demand, supply, and prices of goods and freight charges.
 
+Local developments such as the housing shortage, the building of Singapore Improvement Trust flats and the shift to use of gas, power and kerosene as cooking fuels from charcoal and fuelwood also affected the tongkang trade. Both charcoal and fuelwood were then facing competition from gas, power and kerosene as cooking fuels. When people of the lower income groups, who were important users of fuelwood and charcoal, occupied Singapore Improvement Trust flats, they were compelled to use either gas or power for cooking. Other households were also increasingly switching to kerosene for cooking purposes. To meet the challenge, fuelwood and charcoal dealers argued that kerosene, besides being a fire hazard, was unsuitable for cooking. They claimed that food cooked over kerosene fire had an unpleasant smell and was not as nutritious as food cooked over charcoal fire! Though households were switching to kerosene, two major users of charcoal and fuelwood, namely coffeeshops and restaurants, still used charcoal and firewood, as they were cheaper than kerosene.
+
+Elsewhere overseas, techniques to turn wheat or maize into starch powder caused the export of sago to fall – sago being one of the items commonly carried by the tongkangs. European manufacturers of starch flour made out of maize, had the additional advantage of being nearer the export markets. As a result demand for and price of sago fell. 
+
+Similarly, Singapore sawmills consumed less saw log imports from Indonesia when overseas demand for sawn timber, and consequently their prices, fell.
+
+#### **The Demise of the Tongkang**
+The tongkang industry depended on the demand for the type of cargo a tongkang carried. Unfortunately there was a definite falling trend, with the local housing situation at the time and the low volume of demand from overseas markets. Besides, the demand for tongkang labour was a derived demand, being dependent on the volume of trade handled. The low rate of new recruitment into the tongkang labour force indicated that it was contracting as men who retired were not correspondingly replaced.
+
+It was unlikely that tongkangs could have switched to carrying other types of cargo. Thus the then future of the tongkang industry was bleak. According to the Annual Report of the Registry of Commerce and Industry and the Registry of Ships, Native Sailing Vessels dropped from 399 in 1954 to only 299 in 1957.
+
+It was obvious that the tongkang trade was losing out to modernisation, development and shipping technologies of the late 1950s and 1960s onwards.
+
+The eventual decline of the industry was clearly seen in the increasing number of vessels which were being scrapped annually. As few new vessels were built, the size of the tongkang fleet in Singapore thus contracted, signalling the gradual demise of an old practical industry overtaken by modern shipping and port development.
+
+***Excerpted from “Tongkangs, the Passage of a Hybrid Ship” in Maritime Heritage of Singapore, pp. 170-181, ISBN 981-05-0348-2, published 2005 by Suntree Media Pte Ltd, Singapore. Call No.: RSING 387.5095957***
 
 
 
