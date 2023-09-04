@@ -77,5 +77,23 @@ The eventual decline of the industry was clearly seen in the increasing number o
 
 ***Excerpted from “Tongkangs, the Passage of a Hybrid Ship” in Maritime Heritage of Singapore, pp. 170-181, ISBN 981-05-0348-2, published 2005 by Suntree Media Pte Ltd, Singapore. Call No.: RSING 387.5095957***
 
+**By Ngiam Tong Dow, based on a university dissertation ca. 1957; Edited by Aileen Lau Captions and images reproduced from Maritime Heritage of Singapore**
+
+#### **REFERENCES**
+C. A. Gibson-Hill, “Tongkang and Light Matters,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 25, no. 1 (158 (August 1952): 85–86. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+D. G. E. Hall, _[A History of South-East Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203105167)_ (London: St. Martinʹs Press, 1955). (Call no. RCLOS 959 HAL)
+
+#### **NOTES**
+
+All statistical data from Statistics Department, Singapore, Annual Imports and Export, I. & E.
+
+1 Nanyang = southern ocean. Also used by Chinese migrants to mean Southeast Asia.
+
+2 Information from Mr Chia Leong Soon, Secretary of the Singapore Firewood and Charcoal Dealers’ Association for this information. Read and Ord Bridges are known to the Chinese as the “fifth” and “sixth” bridge respectively. A large Chinese boatyard is situated in Kim Seng Road along the upper part of the Singapore River facing the former Great World Cabaret (today redeveloped as the Great World City complex).
+
+3 Unless otherwise stated, the statistical data used in this chapter, were compiled from unpublished material in the Statistics Department, Singapore, and cited with the kind permission from the Chief Statistician.
+
+4 Malayan Statistics: External Trade of Malaya, I & E 3, 1957.
 
 
