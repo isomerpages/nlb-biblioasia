@@ -236,7 +236,7 @@ Singapore: Lithographed at the Mission Press, 1849.<br>
 Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
 An iconic work in Malay literature and the history of Singapore, _Hikayat Abdullah_ (_Stories of Abdullah_) – the autobiography of Munshi Abdullah – describes life in Singapore and Melaka in the early 19th century, including a detailed account of Stamford Raffles’ first arrival to Singapore in January 1819. This copy was donated by the Archdeacon George Frederick Hose in 1879 to the library of the Straits Branch of the Royal Asiatic Society. The book became a part of the Raffles Library (predecessor of the National Library) in 1923 when the society, which held its meetings at the Raffles Library and Museum, made a permanent loan of its collection to the library.</div><br>	
 
-<img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/vocabulary%20inside%20&amp;%20title.jpg">
+<img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/hikayat_z.jpg">
 <div style="background-color: #fff6ba; text-align:left">      The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>
 	
 	
