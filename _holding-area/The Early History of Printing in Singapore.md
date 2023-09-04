@@ -237,9 +237,15 @@ Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
 An iconic work in Malay literature and the history of Singapore, _Hikayat Abdullah_ (_Stories of Abdullah_) – the autobiography of Munshi Abdullah – describes life in Singapore and Melaka in the early 19th century, including a detailed account of Stamford Raffles’ first arrival to Singapore in January 1819. This copy was donated by the Archdeacon George Frederick Hose in 1879 to the library of the Straits Branch of the Royal Asiatic Society. The book became a part of the Raffles Library (predecessor of the National Library) in 1923 when the society, which held its meetings at the Raffles Library and Museum, made a permanent loan of its collection to the library.</div><br>	
 
 <img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/hikayat_z.jpg">
-<div style="background-color: #fff6ba; text-align:left">      The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">      The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>	
 	
-	
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=7230342"><b>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami <i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i></b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1853.<br>Call no.: RRARE 225 BIB; Accession no.: B20119134J.<br><br>
+This translation of the Malay New Testament in Romanised Malay was edited and published by Benjamin Keasberry for the British and Foreign Bible Society in 1853. A revised edition was published in 1866.</div><br>
+
+<img style="width:45%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20iya%20itu%20injil%20isa%20al-masih%20tuhan%20kami_x.jpg">
+
+<div style="background-color: #fff6ba; text-align:left">Pages from <i>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami (The New Testament of our Lord and Saviour Jesus Christ in Malay). Collection of the National Library, Singapore (Call no. RRARE 225 BIB, Accession no. B20119134J). </i></div><br>	
 	
 	
 	
