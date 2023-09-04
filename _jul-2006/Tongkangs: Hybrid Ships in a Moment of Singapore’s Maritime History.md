@@ -83,6 +83,9 @@ Similarly, Singapore sawmills consumed less saw log imports from Indonesia when 
 #### **The Demise of the Tongkang**
 The tongkang industry depended on the demand for the type of cargo a tongkang carried. Unfortunately there was a definite falling trend, with the local housing situation at the time and the low volume of demand from overseas markets. Besides, the demand for tongkang labour was a derived demand, being dependent on the volume of trade handled. The low rate of new recruitment into the tongkang labour force indicated that it was contracting as men who retired were not correspondingly replaced.
 
+<img src="/images/Vol%202%20Issue%202/Tongkangs/tongkangs1.jpg" style="width:50%;">
+ <div style="background-color: white;">Tongkangs, in dwindling numbers, at their mooring.</div>
+
 It was unlikely that tongkangs could have switched to carrying other types of cargo. Thus the then future of the tongkang industry was bleak. According to the Annual Report of the Registry of Commerce and Industry and the Registry of Ships, Native Sailing Vessels dropped from 399 in 1954 to only 299 in 1957.
 
 It was obvious that the tongkang trade was losing out to modernisation, development and shipping technologies of the late 1950s and 1960s onwards.
