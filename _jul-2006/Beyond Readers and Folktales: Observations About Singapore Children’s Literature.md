@@ -48,11 +48,21 @@ In *Courtesy is John’s Way of Life* (1979), the subject matter relates to the 
 
 In *The Greedy Boatman* (Catherine Lim, 1979), we have the moralising idyll. The folktale, which relates the story of a greedy boatman who seizes an unfortunate event to get rich and learns a lesson the hard way, is another example of a book used to encourage good behaviour.
 
+<img src="/images/Vol%202%20Issue%202/ReadersFolktales/raju%20bicycle.jpg" style="width:50%;">
+ <div style="background-color: white;">All Rights Reserved, Educational Publications Bureau, 1978.
+</div>
+
 Coming under this category of didactic texts are picture books such as *Raju and his Bicycle* (1978). The simple prose and illustrations were meant to serve the language needs of the reader who was new to English. In addition, popular folktales such as the *Moongate* series by Chia Hearn Chek were written to transmit a sense of history and culture to the younger population. *The Raja’s Crown: A Singapore Folktale* (1975) is one fine example in the series.
 
 Although “useful” reading materials continued to be published, children’s books produced in the 1980s and 1990s did improve in content and presentation. Writing took on a contemporary edge and the publishing output improved as more writers and illustrators – both Singaporeans and foreigners – entered the scene. It could be said that the 1980s saw the advent of creative fictional writing.
 
+<img src="/images/Vol%202%20Issue%202/ReadersFolktales/holiday%20trouble.jpg" style="width:50%;">
+ <div style="background-color: white;">All Rights Reserved, Heinemann Asia, 1990.</div>
+
 Illustrations, however, have always been a distressing feature of locally produced books. For instance, the illustrations in the books discussed above (*Courtesy is John’s Way of Life* and *The Greedy Boatman*) contain visuals that are dull, static and unimaginative. Because the literary scene for children in Singapore grew more out of a need for literacy rather than sheer creativity, the illustrations were uninspired. Bessie Chua’s *Holiday Trouble* (1990), for example, traces the adventures of young Abdul and Aini in the *kampung* days. Written for older children, the book was aimed at improving their language proficiency and not to develop an appreciation of art.
+
+<img src="/images/Vol%202%20Issue%202/ReadersFolktales/home%20sky.jpg" style="width:50%;">
+ <div style="background-color: white;">All Rights Reserved, Landmark Books, 1989.</div>
 
 However it is not all bleak. Remarkable works, such as Jessie Wee’s *Home in the Sky* (1989), can be found. In this book, Jessie Wee tells a heartwarming story of Ho Seng and his friends who move into their “home in the sky” – the charming high-rise Housing Development Board (HDB) flats that are home to many in Singapore. The story explores the transition from simple *kampung* living to high-rise living. While the writing retains a Singapore flavour, the book has an international appeal with the illustrations showing maturity and an understanding for details.
 
