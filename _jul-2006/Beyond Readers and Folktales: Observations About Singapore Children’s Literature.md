@@ -51,5 +51,18 @@ In *Poems to Grow Up With* (1989) by Patricia Tan, the illustrations are localis
 
 The published materials around this time continued to develop the Singaporean flavour of story and structure. In Kelly Chopard’s *Meow: A Singapura Tale* (1991), two Singapura cats, Petta and Larikins, escape from a cat show held at the Padang, and run into Kuching, a street cat at the Singapore River. Kuching lovingly relates the tale of Meow, the great-greatgrandfather of the Singapura cats, whose heroism saved the life of his friend, Ah Kow a labourer. Chopard continued writing stories with Singapore’s history and heritage in her two other books – *Terry’s Raffles Adventure* (1996) and *The Tiger’s Tale* (1987).
 
+#### **Into the Future**
+Beyond the supplementary readers, picture books, folktales, moralistic tales and creative texts, what else does Singapore children’s literature have to offer? And where does this leave the reader – child or adult?
+
+The Singapore reader, one would say, is left in a vacuum, which thus accounts for the popularity of the *Harry Potter* series, the *Lemony Snicket* series, the *Hardy Boys* and *Nancy Drew* series, and of authors like Roald Dahl. In all fairness, though, the local *Mr Midnight* series has been extremely popular with Singapore children as has been many Singapore ghost stories but these do not necessarily fall within the realm of quality children’s literature due to their formulaic plots and prosaic writing style.
+
+Ironically, Singapore children’s literature scene is slowly evolving as an increasing number of expatriate writers enters the local writing scene, such as James Lee, Quirk A, Di Taylor and Joy Cowley.
+
+It is hoped that with a global outlook, the publishing scene in Singapore will improve, but given the existing climate, children’s authors, illustrators and publishers in Singapore will have to strive hard for “the development of a locally authored literature… for such a literature can play a cardinal role in the perpetuation of indigenous cultural memories and heritages” (Lee, 1990/91). If the issue is ignored, Singapore’s society will lose a lot and “unless we create our own internal strength, have a sense of our own permanence and identity, we shall be little more that an half-way house for the rest of the world, a clearing house for cultures that come in and go out from us” (Lee, 1990/91). That permanence and identity can be created when we have our own Singapore children’s literature which children here can identify with and be proud of.
+
+As Patary-Ching and Ching (2001) pointed out, we need “a multicultural library of children’s books” which acts as “an enabling museum of living culture through which children may travel and remember”.
+
+***The Lee Kong Chian Reference Library’s Asian Children’s Collection is a unique collection of 20,000 children’s titles. This collection is a gem as it comprises an extensive array of Singapore children’s literature. At the same time, it collects Asian children’s literature spanning the Asian region and beyond, including works on Asian diaspora.***
+
 
 
