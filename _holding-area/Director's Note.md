@@ -15,7 +15,7 @@ Speaking of great reads, don’t miss the story of the [missing ancient gold coi
 
 No need for clever guesswork regarding the origins of printing in Singapore though. This year marks the [200th anniversary of printing] here. If you want to discover the early pioneers and see examples of the first material printed on the island, don’t miss librarian Gracie Lee’s essay.
 
-These are just some of the interesting stories we have for you. There’s more of course, from the [“Eat More Wheat” campaign](/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/)&nbsp;to the discovery of a fascinating manuscript of [Malay pantuns](/vol-19/issue-3/oct-dec-2023/malay-portuguese-pantuns/) in a Portuguese archive and the history of the [Singapore Ballet](/vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/) (former Singapore Dance Theatre). We hope you’ll agree that this is yet another well-choreographed issue!
+These are just some of the interesting stories we have for you. There’s more of course, from the [“Eat More Wheat” campaign](/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/)&nbsp;to the discovery of a fascinating manuscript of [Malay pantuns](/vol-19/issue-3/oct-dec-2023/malay-portuguese-pantuns/) in a Portuguese archive and the history of the [Singapore Ballet](/vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/) (formerly Singapore Dance Theatre). We hope you’ll agree that this is yet another well-choreographed issue!
 
 
 <div style="background-color: white;">
