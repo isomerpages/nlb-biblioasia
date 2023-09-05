@@ -39,7 +39,10 @@ Richard Levy, <i>A Complete Idiot’s Guide to Cashing in on Your Inventions</i>
 Levy shares his experiences in bringing his many products to market successfully. He offers tips on how to profit from one’s invention and gives advice on how to avoid pitfalls, secure patent protection and licensing, develop prototypes and negotiate deals and contracts.	<br><br>
 
 <img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/ideas%20inventions.jpg" style="width:30%;"><br>
-Catherine Tay, <i>A Guide to Protecting Your Ideas, Inventions, Trade Marks &amp; Products</i> (Singapore: Times Editions/Marshall Cavendish, 2004, 2002). (Call no. RSING 346.5957048 TAY)<br>
+Catherine Tay, <i>A Guide to Protecting Your Ideas, Inventions, Trade Marks &amp; Products</i> (Singapore: Times Editions/Marshall Cavendish, 2004). (Call no. RSING 346.5957048 TAY)<br>
 This publication explains the “do’s” and “don’ts” and provides essential information on protecting ideas and inventions while helping one navigate the labyrinth of concepts, rules and laws in Singapore.<br><br>
+
+<img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/innovation.jpg" style="width:30%;"><br>Ernest Gundling, <i>The 3M way to Innovation: Balancing People and Profit</i> (Tokyo: Kodansha International, c2000). (Call no. RBUS 658.4063 GUN)<br>
+3M has always been held up as the role model of an innovative organisation. This book provides invaluable insights into the principles and best practices that have kept 3M on the cutting edge.
 </div>
 <br><br>
