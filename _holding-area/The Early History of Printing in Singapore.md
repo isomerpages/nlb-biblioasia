@@ -290,7 +290,7 @@ Wylie, Alexander, <i>Memorials of Protestant Missionaries to the Chinese</i> (Sh
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/gracia_lee.png">
 <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.</div>
-<br>
+
 
 #### Notes
 
