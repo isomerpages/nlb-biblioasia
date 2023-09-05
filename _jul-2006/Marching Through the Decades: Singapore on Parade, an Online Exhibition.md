@@ -42,6 +42,9 @@ From the late 19th century, the celebration of British royal events (coronation,
  <div style="background-color: white;">Coronation day decorations in Singapore for King Edward VII and Queen Alexander.<i> Image courtesy of National Archives of Singapore.</i></div>
 
 #### **People’s Parade: A Flawless Symphony**
+<img src="/images/Vol%202%20Issue%202/OnlineExhibition/mass%20display.jpg" style="width:50%;">
+ <div style="background-color: white;">Mass Display during NDP.<i> Image courtesy of MINDEF.</i></div>
+
 Over the decades, parades have become distinctly Singaporean. Modern day NDPs have evolved into “people’s parade” where everybody participates. From the mass displays and fireworks to the reciting of the National Pledge and singing of the National Anthem, everyone has a role to play. This hearty mobilisation requires high-level coordination and reiterations to ensure a flawless execution of NDPs. Riding on the adage “practice makes perfect”, rehearsals have become a must in every NDP. The *Singapore on Parade* online exhibition showcases the brilliant formations that were strung together by each participant, no doubt after many practices, as well as some behind-the-scene footages to depict the enormous preparations before the big event.
 
 #### **The Hosts of Parades**
