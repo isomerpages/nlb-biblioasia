@@ -235,7 +235,7 @@ The National Archives, UK,
 
 [^25]: Sarafian Salleh, correspondence, March 2023.
 
-[^26]: [“Mr. Nixon Tours Rural Areas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19531026-1.2.57),” _Indian Daily Mail_, 26 October 1953, 4. (From NewspaperSG) &nbsp;
+[^26]: "[Mr. Nixon Tours Rural Areas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19531026-1.2.57),” _Indian Daily Mail_, 26 October 1953, 4. (From NewspaperSG) &nbsp;
 
 [^27]: Mohd Maidin, “[Penggesek Biola Yg Masyhor Buka Kg Wak Sumang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19830313-1.2.22); Rohaida Ismail, correspondence, April 2023.
 
