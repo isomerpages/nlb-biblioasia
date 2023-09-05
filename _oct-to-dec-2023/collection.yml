@@ -2,6 +2,7 @@ collections:
   oct-to-dec-2023:
     output: true
     order:
+      - The Early History of Printing in Singapore.md
       - The Bumpy Ride to Making Crash Helmets Mandatory.md
       - Forgotten Heroes of the Malaya Cup (1921–1941).md
       - Coach Choo Seng Quee, A Giant of Singapore Football.md
