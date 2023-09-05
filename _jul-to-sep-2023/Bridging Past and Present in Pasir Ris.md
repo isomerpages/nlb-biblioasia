@@ -184,7 +184,8 @@ Nur Aireen Abdullah, who has lived in Pasir Ris for more than 30 years, looks fo
 
 [^20]: Magdalene Lum, “[Club Singapura](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880629-1.2.60.2),” _Straits Times,_ 29 June 1988, 1. (From NewspaperSG)
 
-[^21]: “[New PA Centre for Water Sports](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870824-1.2.31.2),” _Straits Times,_ 24 August 1987, 13. (From NewspaperSG); “PAssion WaVe @ Pasir Ris,” People’s Association, last updated 8 July 2021, https://www.pa.gov.sg/our-programmes/PAssion-WaVe/locate-wv/detail/PAssion-WaVe-Pasir-Ris.
+[^21]: “[New PA Centre for Water Sports](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870824-1.2.31.2),” _Straits Times,_ 24 August 1987, 13. (From NewspaperSG); “PAssion WaVe @ Pasir Ris,” People’s Association, last updated 8 July 2021, 
+https://www.pa.gov.sg/our-programmes/passion-wave/passionwave-pasirris/.
 
 [^22]: “[Water Thrills on Big Ski Ramp](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19550221-1.2.108),” _Singapore Free Press,_ 21 February 1955, 16; “[Colony Waterski-ing Gala on Sunday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550216-1.2.148),” _Straits Times,_ 16 February 1955, 13. (From NewspaperSG)
 
