@@ -2,6 +2,8 @@ collections:
   jul-2006:
     output: true
     order:
+      - "Marching Through the Decades: Singapore on Parade, an Online
+        Exhibition.md"
       - Director's Column.md
       - "Multi ethnic Enclaves Around Middle Road: An Examination of Early Urban
         Settlement in Singapore.md"
