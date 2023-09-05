@@ -229,7 +229,7 @@ The National Archives, UK,
 
 [^22]: “[Cucu2 Wak Sumang Diberi Flat](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860330-1.2.12.2).”
 
-[^23]: Saini Salleh, “Warisan Masjid Diabadi,” _Berita Harian,_ 5 January 1995, 3 ( From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Mohd Maidin, “[Penggesek Biola Yg Masyhor Buka Kg Wak Sumang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19830313-1.2.22).”
+[^23]: Saini Salleh, “Warisan Masjid Diabadi,” _Berita Harian,_ 5 January 1995, 3 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Mohd Maidin, “[Penggesek Biola Yg Masyhor Buka Kg Wak Sumang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19830313-1.2.22).”
 
 [^24]: “[The Changing Face of Punggol](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840116-1.2.60.4),” _Straits Times_, 16 January 1984, 28. (From NewspaperSG)
 
