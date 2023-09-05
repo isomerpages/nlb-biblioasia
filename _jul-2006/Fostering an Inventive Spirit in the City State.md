@@ -34,15 +34,15 @@ Through the early years of industralisation, the city-state has transformed itse
 There are hundreds of books, reference and online resources to help budding inventors better understand the invention and innovation process – idea generation, problem solving to business 101, general marketing to safeguarding intellectual property through patents and trademark. Here are some of the resources:<br><br>
 <b>BOOKS</b><br><br>
 
-<img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/idiot%20guide1.jpg" style="width:30%;"><br>
+<img style="width:30%;" src="/images/Vol%202%20Issue%202/Inventive%20Spirit/idiot%20guide1.jpg"><br>
 Richard Levy, <i>A Complete Idiot’s Guide to Cashing in on Your Inventions</i> (Indianapolis, Ind.: Alpha Books, 2002). (Call no. R 346.73048 LEV)<br>
 Levy shares his experiences in bringing his many products to market successfully. He offers tips on how to profit from one’s invention and gives advice on how to avoid pitfalls, secure patent protection and licensing, develop prototypes and negotiate deals and contracts.	<br><br>
 
-<img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/ideas%20inventions.jpg" style="width:30%;"><br>
+<img style="width:30%;" src="/images/Vol%202%20Issue%202/Inventive%20Spirit/ideas%20inventions.jpg"><br>
 Catherine Tay, <i>A Guide to Protecting Your Ideas, Inventions, Trade Marks &amp; Products</i> (Singapore: Times Editions/Marshall Cavendish, 2004). (Call no. RSING 346.5957048 TAY)<br>
 This publication explains the “do’s” and “don’ts” and provides essential information on protecting ideas and inventions while helping one navigate the labyrinth of concepts, rules and laws in Singapore.<br><br>
 
-<img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/innovation.jpg" style="width:30%;"><br>Ernest Gundling, <i>The 3M way to Innovation: Balancing People and Profit</i> (Tokyo: Kodansha International, c2000). (Call no. RBUS 658.4063 GUN)<br>
+<img style="width:30%;" src="/images/Vol%202%20Issue%202/Inventive%20Spirit/innovation.jpg"><br>Ernest Gundling, <i>The 3M way to Innovation: Balancing People and Profit</i> (Tokyo: Kodansha International, c2000). (Call no. RBUS 658.4063 GUN)<br>
 3M has always been held up as the role model of an innovative organisation. This book provides invaluable insights into the principles and best practices that have kept 3M on the cutting edge.<br><br>
 <b>DATABASES</b><br><br>
 Industry-specific journals as well as market intelligence are useful to gauge the market potential of your inventions. These are accessible from online databases at all multimedia stations in the Library:<br><br>
@@ -61,8 +61,36 @@ Industry-specific journals as well as market intelligence are useful to gauge th
 <br>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Sara%20Pek.jpg">
+<img src="/images/Authors/Sara%20Pek.jpg" style="width: 100px; height: 100px;">
 <center><b>Sara Pek</b><br>Senior Reference Librarian<br> Lee Kong Chian Reference Library</center>
 </div>
+
+#### **REFERENCES**
+        
+Alain Vandenborre, _[Proudly Singaporean: My Passport to a Challenging Future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11964743)_ (Singapore: SNP Editions, 2003). (Call no. RSING 959.5705 VAN)
+
+“Annual R &amp; D Survey,” Agency for Science, Technology and Research, accessed 9 May 2004, [https://www.a-star.edu.sg/News/national-survey-of-rie](https://www.a-star.edu.sg/News/national-survey-of-rie).
+
+“[Big Patent Player Sets Up Shop in Biopolis](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20041118-1.2.43.13),” _Straits Times_, 18 November 2004, 5. (From NewspaperSG)
+
+C.M. Turnbull, _[A History of Singapore, 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_ (Singapore: Oxford University Press, 1989). (Call no. RSING 959.57 TUR)
+
+Claire Farago, ed., _[Leonardo’s Science and Technology: Essential Readings for the Non-Scientist](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9522038)_ (London: Garland Pub, 1999). (Call no. R 509.2 LEO)
+
+David Boey, “[US Award for Team Behind Fever Scanner](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20040910-1.2.30.3.13),” _Straits Times_, 10 September 2004, 7. (From NewspaperSG)
+
+Ernest C.T. Chew and Edwin Lee, eds., _[A History of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5914108)_ (Singapore: Oxford University Press, 1991). (Call no. RSING 959.57 HIS)
+
+Jan Fagerberg, David C. Mowery and Richard R. Nelson, eds., _[The Oxford Handbook of Innovation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12494047)_ (New York: Oxford University Press, 2005). (Call no. RBUS q658.4063 OXF)
+
+John Drysdale, _[Singapore, Struggle for Success](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3534582)_ (Singapore: Times Books International, 1984). (Call no. RSING 959.57 DRY)
+
+Khushwant Singh, “[Book on Local Patent Law Launched](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20050729-1.2.50.4.14),” _Straits Times_, 29 July 2005, 8. (From NewspaperSG)
+
+Ministry of Trade and Industry, _[Science &amp; Technology Plan 2010: Sustaining Innovation-Driven Growth](file:///C:/Users/user/Downloads/s-and-t-plan-2010%20(2).pdf)_ (Singapore: Ministry of Trade and Industry, 2006) &nbsp;
+
+T. Saywell, “4th Young Inventors Awards: Winners: Bronze,” _Far Eastern Economic Review_, 22 January 2004. &nbsp;
+
+“Thermal Scanners Named as One of This Year’s Coolest Inventions,” _Channel NewsAsia_, 11 November 2003.
 
 
