@@ -50,8 +50,9 @@ Industry-specific journals as well as market intelligence are useful to gauge th
 <b>Euromonitor’s Global Market Information Database (GMID)</b> offers key business intelligence on countries, companies, markets and consumers.<br><br>
 <b> Factiva</b> allows access to a deep archive of news and business information.<br><br> <b>Engineering Information Village</b> (Ei Village) is a virtual community for engineers, created to provide information needed to solve problems and keep up to date with trends and developments in the field of engineering. Includes access to databases, websites and libraries.<br><br>
 <b>INTERNET</b><br><br> 
-<b>The US Patent &amp; Trademark Office and Patent &amp; Trademark Depository Library Association</b> are websites devoted to resources to help inventors. http://www.uspto.gov/web/offices/com/iip/; http://www.ptdla.org/resources/assistance.html <br><br> 
-<b>The Lemelson-MIT Invention Dimension</b> website provides a wealth of inventor resources including patent guidelines and links to many online invention resources. http://web.mit.edu/invent/invent-main.html<br><br> 
+<b>The US Patent &amp; Trademark Office and Patent &amp; Trademark Depository Library Association</b> are websites devoted to resources to help inventors, 
+<a href="https://www.uspto.gov/">https://www.uspto.gov/</a><a>; </a><a href="https://www.ptdla.org/">https://www.ptdla.org/</a>.<br><br> 
+<b>The Lemelson-MIT Invention Dimension</b> website provides a wealth of inventor resources including patent guidelines and links to many online invention resources, <a href="https://hbswk.hbs.edu/archive/lemelson-mit-awards-invention-dimension/">https://hbswk.hbs.edu/archive/lemelson-mit-awards-invention-dimension</a>.<br><br> 
 <b>License Finder</b> allows one to search for the latest information on licenses granted and available licensers. It also features articles about licensing opportunities and trade shows. http://finder.licensemag.com<br><br> <b>Enterpreneur</b> has many useful articles on getting started, inventors’ success stories, smart ideas and more. http://entrepreneur.com
 </div>
 <br><br>
