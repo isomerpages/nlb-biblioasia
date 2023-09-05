@@ -25,7 +25,7 @@ Four decades after his death, we remember Choo Seng Quee’s many contributions 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/">A Grand Piano’s Chequered History: The Journey of a Chappell Grand Piano from the Victoria Memorial Hall to the National Library Building </a><br>
 A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it. *Bernard T.G. Tan*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/4%20biblioasia%20oct–dec%202023%20grand%20piano.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="">The Early History of Printing in Singapore</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/singapore-early-printing/">The Early History of Printing in Singapore</a><br>
 Printing in Singapore dates back 200 years with the establishment of a press by Christian missionaries. Their efforts to spread the gospel also helped spread knowledge of the printing press here. *Gracie Lee*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/5%20biblioasia%20oct–dec%202023%20early%20printing.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/">Revisiting the Mystery of the Missing Gold Coins</a><br>
