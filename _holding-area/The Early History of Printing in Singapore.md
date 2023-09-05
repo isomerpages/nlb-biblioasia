@@ -286,7 +286,7 @@ Tan, Bonny, "<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/
 <i>Twenty-First Annual Report of the American Tract Society 1835</i> (New York: Printed at the Society’s House, 1835), 49, HathiTrust, https://hdl.handle.net/2027/hvd.ah3ira.<br><br>
 <i>Twenty-Eight Annual Report of the American Board of Commissioners for Foreign Missions September: 1837</i> (Boston: Crocker and Brewster, 1837), 90, HathiTrust, https://hdl.handle.net/2027/wu.89065737223.<br><br>
 Wylie, Alexander, <i>Memorials of Protestant Missionaries to the Chinese</i> (Shanghae: American Presbyterian Mission Press, 1867), 106, HathiTrust, https://hdl.handle.net/2027/nyp.33433068293772.
-</div><br>
+</div>
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/gracia_lee.png">
 <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.</div>
