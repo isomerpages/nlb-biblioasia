@@ -10,9 +10,9 @@ description: On 9 August every year, Singaporeans look forward to the National
 
 #### **Parades For All Seasons**
 
-***…The ceremonies you have seen today are ancient, and some of their origins are veiled in the mists of the past. But their spirit and their meaning shine through the ages never, perhaps, more brightly than now...*** 
+***…The ceremonies you have seen today are ancient, and some of their origins are veiled in the mists of the past. But their spirit and their meaning shine through the ages never, perhaps, more brightly than now...*** <br> 
 Queen Elizabeth II. Excerpt from broadcast made on the evening of the Queen’s Coronation, 2 June 1953. 
-Source: British Monarchy. (n.d.). The Queen’s speeches. Retrieved May 10, 2006, from <a href="https://www.royal.uk/">https://www.royal.uk/</a>.
+Source: British Monarchy. (n.d.). The Queen’s speeches. Retrieved 10 May 2006, from <a href="https://www.royal.uk/">https://www.royal.uk/</a>.
 
 Most people love parades for they are festive and escapist; day-to-day tasks take a standstill as people congregate at common venues to treat themselves to a spectacle of precision, colours loud music and fireworks. Parades are timeless symbols of unity as they transcend ethnicity and age, and showcase icons of progress that everyone can identify and be proud of.
 
@@ -24,6 +24,10 @@ Perhaps it is not widely known that the history of parades in Singapore is as ol
 Colonial parades burst into the streets in kaleidoscopic scale during Queen Victoria’s reign (1837–1901). She ruled the longest and was the most celebrated sovereign in Singapore though her successors were no less prominent. From Queen Victoria to Queen Elizabeth II, Singapore paid homage to her British sovereigns through countless parades; birthday parades, Empire Day parades, coronation parades, and Golden, Diamond and Silver jubilee parades.
 
 From the late 19th century, the celebration of British royal events (coronation, birthday and jubilees) had spilled over from London to the various colonies. As shared occasions across the Empire, these events were celebrated with a common style, involving banners and flags, speeches and street parties, military processions, the unveiling of statues or the opening of memorial halls. Not to be outdone, Singapore’s version of the celebrations had enough buntings and illuminations to turn the whole town into a magical fairyland. The newspaper became an important tool to announce the various programmes scheduled for the celebrations. Each ethnic group had their own way to show support to the sovereign on these occasions; the Arabs decorated an arch they constructed with “God Save The King” neon lights; the Jews held special prayers at the synagogue; the Chinese, Malays and Indians combined to organise a procession, even the Japanese community contributed firework displays.
+
+#### **People’s Parade: A Flawless Symphony**
+Over the decades, parades have become distinctly Singaporean. Modern day NDPs have evolved into “people’s parade” where everybody participates. From the mass displays and fireworks to the reciting of the National Pledge and singing of the National Anthem, everyone has a role to play. This hearty mobilisation requires high-level coordination and reiterations to ensure a flawless execution of NDPs. Riding on the adage “practice makes perfect”, rehearsals have become a must in every NDP. The *Singapore on Parade* online exhibition showcases the brilliant formations that were strung together by each participant, no doubt after many practices, as well as some behind-the-scene footages to depict the enormous preparations before the big event.
+
 
 
 
