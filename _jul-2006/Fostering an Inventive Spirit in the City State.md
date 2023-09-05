@@ -16,6 +16,9 @@ An example of an inventive person is Leonardo da Vinci. He embodies the very spi
 #### **Vision, Motivation and Necessity**
 More often than not, invention stems from vision. In 1819, Sir Stamford Raffles saw the unrealised potential in a small fishing village and Singapore was founded as a British trading post on the Straits of Malacca. From then on, Singapore grew from a colonial outpost into the world’s busiest port (Drysdale, 1984; Turnbull, 1989; Chew &amp; Lee, 1991).
 
+<img style="width:50%;" src="/images/Vol%202%20Issue%202/Inventive%20Spirit/thermal%20scanner.jpg">
+ <div style="background-color: white;">A walk-through thermal scanner originally meant for military use. Image courtesy of Singapore Technologies Electronics Limited Growing Ventures.</div>
+
 Vision is followed by motivation, which encourages invention. The early Singapore settlers were inventive in their thinking – they endured hardship to build their lives in a foreign land as they saw opportunities for economic and social advancement.
 
 Necessity breeds invention, bringing ideas to fruition. Early settlers were forced to build roads and towns to thrive in the harsh environment. During the Severe Acute Respiratory Syndrome (SARS) outbreak, ST Electronics and the Defence Science and Technology Agency (DSTA) adapted a thermal scanner originally meant for military use. It was used at the airport, immigration checkpoints, ministries and hospitals to scan large groups of people simultaneously for high temperature and proved an important tool in the management of SARS. The system was named by *TIME* magazine as one of the coolest inventions in 2003 (Channelnewsasia, 11 Nov 2003). Singapore has greatly benefited from knowledge and technological transfers from multinational corporations and foreign talent from developed countries. In advancing towards a knowledge-based economy, the ongoing creation of ideas and inventions by institutions and people is crucial. This is recognised by the Singapore government, which invests heavily in research and development, and has expanded its initiatives in developing Singapore into a regional Intellectual Property Hub (Ministry of Trade and Industry, 2006).
@@ -34,15 +37,15 @@ Through the early years of industralisation, the city-state has transformed itse
 There are hundreds of books, reference and online resources to help budding inventors better understand the invention and innovation process – idea generation, problem solving to business 101, general marketing to safeguarding intellectual property through patents and trademark. Here are some of the resources:<br><br>
 <b>BOOKS</b><br><br>
 
-<img style="width:30%;" src="/images/Vol%202%20Issue%202/Inventive%20Spirit/idiot%20guide1.jpg"><br>
+<img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/idiot%20guide1.jpg" style="width:30%;"><br>
 Richard Levy, <i>A Complete Idiot’s Guide to Cashing in on Your Inventions</i> (Indianapolis, Ind.: Alpha Books, 2002). (Call no. R 346.73048 LEV)<br>
 Levy shares his experiences in bringing his many products to market successfully. He offers tips on how to profit from one’s invention and gives advice on how to avoid pitfalls, secure patent protection and licensing, develop prototypes and negotiate deals and contracts.	<br><br>
 
-<img style="width:30%;" src="/images/Vol%202%20Issue%202/Inventive%20Spirit/ideas%20inventions.jpg"><br>
+<img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/ideas%20inventions.jpg" style="width:30%;"><br>
 Catherine Tay, <i>A Guide to Protecting Your Ideas, Inventions, Trade Marks &amp; Products</i> (Singapore: Times Editions/Marshall Cavendish, 2004). (Call no. RSING 346.5957048 TAY)<br>
 This publication explains the “do’s” and “don’ts” and provides essential information on protecting ideas and inventions while helping one navigate the labyrinth of concepts, rules and laws in Singapore.<br><br>
 
-<img style="width:30%;" src="/images/Vol%202%20Issue%202/Inventive%20Spirit/innovation.jpg"><br>Ernest Gundling, <i>The 3M way to Innovation: Balancing People and Profit</i> (Tokyo: Kodansha International, c2000). (Call no. RBUS 658.4063 GUN)<br>
+<img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/innovation.jpg" style="width:30%;"><br>Ernest Gundling, <i>The 3M way to Innovation: Balancing People and Profit</i> (Tokyo: Kodansha International, c2000). (Call no. RBUS 658.4063 GUN)<br>
 3M has always been held up as the role model of an innovative organisation. This book provides invaluable insights into the principles and best practices that have kept 3M on the cutting edge.<br><br>
 <b>DATABASES</b><br><br>
 Industry-specific journals as well as market intelligence are useful to gauge the market potential of your inventions. These are accessible from online databases at all multimedia stations in the Library:<br><br>
@@ -61,7 +64,7 @@ Industry-specific journals as well as market intelligence are useful to gauge th
 <br>
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/Sara%20Pek.jpg" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/Sara%20Pek.jpg">
 <center><b>Sara Pek</b><br>Senior Reference Librarian<br> Lee Kong Chian Reference Library</center>
 </div>
 
@@ -92,5 +95,3 @@ Ministry of Trade and Industry, _[Science &amp; Technology Plan 2010: Sustaining
 T. Saywell, “4th Young Inventors Awards: Winners: Bronze,” _Far Eastern Economic Review_, 22 January 2004. &nbsp;
 
 “Thermal Scanners Named as One of This Year’s Coolest Inventions,” _Channel NewsAsia_, 11 November 2003.
-
-
