@@ -34,7 +34,7 @@ Through the early years of industralisation, the city-state has transformed itse
 There are hundreds of books, reference and online resources to help budding inventors better understand the invention and innovation process – idea generation, problem solving to business 101, general marketing to safeguarding intellectual property through patents and trademark. Here are some of the resources:<br><br>
 <b>BOOKS</b><br><br>
 
-<img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/idiot%20guide1.jpg" style="width:50%;"><br><br>
+<img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/idiot%20guide1.jpg" style="width:30%;"><br><br>
 Richard Levy, <i>A Complete Idiot’s Guide to Cashing in on Your Inventions</i> (Indianapolis, Ind.: Alpha Books, 2002). (Call no. R 346.73048 LEV)
 	
 </div>
