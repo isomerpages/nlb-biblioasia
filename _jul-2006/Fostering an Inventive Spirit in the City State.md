@@ -30,10 +30,16 @@ It is often said that Singaporeans are risk averse and lack creativity. A prevai
 
 Through the early years of industralisation, the city-state has transformed itself into a thriving knowledge economy, supported by strong intellectual property laws, an educated workforce, quality research and development institutions, and low barriers to trade and foreign investments. There is a real sense of survival through innovation for both economic and security reasons.
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>RESOURCES FOR iNVENTORSS</b><br><br>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>RESOURCES FOR iNVENTORS</b><br><br>
 There are hundreds of books, reference and online resources to help budding inventors better understand the invention and innovation process – idea generation, problem solving to business 101, general marketing to safeguarding intellectual property through patents and trademark. Here are some of the resources:<br><br>
+<b>BOOKS</b><br><br>
 
+<img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/idiot%20guide1.jpg" style="width:50%;"><br><br>
+Richard Levy, <i>A Complete Idiot’s Guide to Cashing in on Your Inventions</i> (Indianapolis, Ind.: Alpha Books, 2002). (Call no. R 346.73048 LEV)
+	
 </div>
 <br><br>
+
+
 
 
