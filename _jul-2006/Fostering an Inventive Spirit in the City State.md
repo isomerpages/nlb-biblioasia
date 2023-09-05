@@ -39,7 +39,3 @@ Richard Levy, <i>A Complete Idiot’s Guide to Cashing in on Your Inventions</i>
 	
 </div>
 <br><br>
-
-
-
-
