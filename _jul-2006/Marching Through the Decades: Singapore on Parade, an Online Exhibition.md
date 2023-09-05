@@ -34,5 +34,6 @@ Parades in colonial Singapore were an important tool to brand British imperial r
 #### **National Day Celebrations Fast Forward**
 As a city that is still fast evolving, the look and feel of National Day celebrations is also expected to move with the times. A new downtown at Marina (together with the proposed Integrated Resort) is one of the exciting developments in Singapore. It is also a site chosen by Prime Minister Lee Hsien Loong to chart a new National Day celebrations experience. During his second National Day Rally speech on 21 August 2005, PM Lee treated Singaporeans to an advanced sneak preview of fireworks by the Marina Bayfront on 9 August 2015, Singapore’s 50th Birthday. The animation clip of the vision was put together by students from Nanyang Polytechnic.
 
-
+<div>
+<center><b>Nor-Afidah Abd Rahman</b><br>  Senior Reference Librarian<br> Lee Kong Chian Reference Library</center></div>
 
