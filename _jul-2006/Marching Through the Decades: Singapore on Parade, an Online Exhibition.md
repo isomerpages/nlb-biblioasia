@@ -8,7 +8,7 @@ description: On 9 August every year, Singaporeans look forward to the National
 ---
 #### On 9 August every year, Singaporeans look forward to the National Day Parade to celebrate Singapore’s independence. The “Singapore on Parade” online exhibition aims to recapture the fine moments and grandeur of grand parades held in Singapore from colonial to modern times.
 
-<img src="/images/Vol%202%20Issue%202/OnlineExhibition/parades%20season.jpg" style="width:80%;">
+<img src="/images/Vol%202%20Issue%202/OnlineExhibition/parades%20season.jpg" style="width:100%;">
  <div style="background-color: white;"></div>
 
 #### **Parades For All Seasons**
