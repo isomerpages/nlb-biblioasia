@@ -55,4 +55,14 @@ Industry-specific journals as well as market intelligence are useful to gauge th
 <b>The Lemelson-MIT Invention Dimension</b> website provides a wealth of inventor resources including patent guidelines and links to many online invention resources, <a href="https://hbswk.hbs.edu/archive/lemelson-mit-awards-invention-dimension/">https://hbswk.hbs.edu/archive/lemelson-mit-awards-invention-dimension</a>.<br><br> 
 <b>License Finder</b> allows one to search for the latest information on licenses granted and available licensers. It also features articles about licensing opportunities and trade shows, <a href="https://www.gobusiness.gov.sg/licences/find-licence-by-sector/">https://www.gobusiness.gov.sg/licences/find-licence-by-sector/</a>.<br><br> <b>Enterpreneur</b> has many useful articles on getting started, inventors’ success stories, smart ideas and more, <a href="http://entrepreneur.com">http://entrepreneur.com/</a>.
 </div>
-<br><br>
+
+***A host of activities will be held at the National Library in August. Organised in collaboration with the Economic Development Board and its partners, the events comprise exhibitions, information sharing and talks on hot topics by homegrown inventors. The meetings will allow inventors to find out more about the support and guidance that is available to them, pick up tips and meet other inventors in an informal environment.***
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Sara%20Pek.jpg">
+<center><b>Sara Pek</b><br>Senior Reference Librarian<br> Lee Kong Chian Reference Library</center>
+</div>
+
+
