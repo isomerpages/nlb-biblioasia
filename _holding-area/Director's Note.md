@@ -3,7 +3,7 @@ title: Director's Note
 permalink: /holding-area/test1/
 description: ""
 ---
-Fear of “helmet hair”. Remarkably, this was one of the reasons people gave for not wanting to wear a crash helmet while riding a motorcycle or scooter before the 1970s. In this issue’s cover story, Sharad Pandian recounts how a [campaign to get people to voluntarily wear helmets](/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/) failed, and the government had to turn to legislation instead.&nbsp;
+Fear of “helmet hair”. Remarkably, this was one of the reasons people gave for not wanting to wear a crash helmet while riding a motorcycle or scooter before the 1970s. In this issue’s cover story, Sharad Pandian recounts how a [campaign to get people to voluntarily wear helmets](/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/) failed, and why the government had to turn to legislation instead.
 
 Not all heroes wear capes; sometimes they wear football shorts. Nick Aplin’s piece on how Singapore dominated the Malaya Cup before the war will help ensure these men take their rightful place in the annals of [local football greats](/vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/).
 
@@ -15,7 +15,7 @@ Speaking of great reads, don’t miss the story of the [missing ancient gold coi
 
 No need for clever guesswork regarding the origins of printing in Singapore though. This year marks the [200th anniversary of printing] here. If you want to discover the early pioneers and see examples of the first material printed on the island, don’t miss librarian Gracie Lee’s essay.
 
-These are just some of the interesting stories we have for you. There’s more of course, from the [“Eat More Wheat” campaign](/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/)&nbsp;to the discovery of a fascinating manuscript of [Malay pantuns](/vol-19/issue-3/oct-dec-2023/malay-portuguese-pantuns/) in a Portuguese archive and the history of the [Singapore Ballet](/vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/) (former Singapore Dance Theatre). We hope you’ll agree that this is yet another well-choreographed issue!
+These are just some of the interesting stories we have for you. There’s more of course, from the [“Eat More Wheat” campaign](/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/)&nbsp;to the discovery of a fascinating manuscript of [Malay pantuns](/vol-19/issue-3/oct-dec-2023/malay-portuguese-pantuns/) in a Portuguese archive and the history of the [Singapore Ballet](/vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/) (formerly Singapore Dance Theatre). We hope you’ll agree that this is yet another well-choreographed issue!
 
 
 <div style="background-color: white;">
