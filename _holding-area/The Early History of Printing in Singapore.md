@@ -292,7 +292,8 @@ Wylie, Alexander, <i>Memorials of Protestant Missionaries to the Chinese</i> (Sh
 <img style="width: 100px; height: 100px;" src="/images/Authors/gracia_lee.png">
 <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.</div>
 <br>
-#### **Notes**
+
+#### Notes
 
 [^1]: Cecil K. Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984) (Singapore: National Library, 1970), 9–10, 13. (From National Library, Singapore, call no. RCLOS 686.2095957 BYR); Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 57, no. 2 (247) (1984): 61–62, 67. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Ching Su, “Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss., University College London, 1996), 154–55, https://discovery.ucl.ac.uk/id/eprint/1317522/.
 
