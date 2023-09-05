@@ -2,8 +2,6 @@ collections:
   jul-2006:
     output: true
     order:
-      - "Marching Through the Decades: Singapore on Parade, an Online
-        Exhibition.md"
       - Director's Column.md
       - "Multi ethnic Enclaves Around Middle Road: An Examination of Early Urban
         Settlement in Singapore.md"
@@ -11,3 +9,5 @@ collections:
       - "Beyond Readers and Folktales: Observations About Singapore Children’s
         Literature.md"
       - Fostering an Inventive Spirit in the City State.md
+      - "Marching Through the Decades: Singapore on Parade, an Online
+        Exhibition.md"
