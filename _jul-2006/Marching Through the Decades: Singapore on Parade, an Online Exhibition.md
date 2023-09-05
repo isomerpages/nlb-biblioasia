@@ -57,6 +57,9 @@ Over the decades, parades have become distinctly Singaporean. Modern day NDPs ha
 
 Parades in colonial Singapore were an important tool to brand British imperial rule on the colony. As the power and prestige of the British declined after WWII, the focus of parades shifted from the British monarchy to the nation-state. National symbols – the flag, the pledge and the national anthem – replaced imperial ones. One icon that bucked the trend was the Padang. The open field which hosted many grand parades in the past was still the venue of choice for NDPs until 1976, when Singapore held her first NDP at the National Stadium. Singapore experimented with the concept of “one parade many venues” for several years where NDPs were held at several stadiums. This “decentralised” celebration format lasted until 1984 (in alternate years); thereafter the government reverted to one venue for the NDP partly due to the huge costs of organising many mini parades. The Padang once again rose to the occasion when it hosted Singapore’s 40th NDP in 2005.
 
+<img src="/images/Vol%202%20Issue%202/OnlineExhibition/raffles%20statue.jpg" style="width:80%;">
+ <div style="background-color: white;">Raffles statue at the Padang.<i> Reproduced from Makepeace, Brooke and Braddell’s One hundred years of Singapore. All Rights Reserved, Oxford University Press, 1991.</i></div>
+
 #### **National Day Celebrations Fast Forward**
 <img src="/images/Vol%202%20Issue%202/OnlineExhibition/fireworks%20bayfront.jpg" style="width:80%;">
  <div style="background-color: white;">Preview of NDP 2015 Fireworks at the Marina Bayfront. <i>All Rights Reserved, Urban Redevelopment Authority and Nanyang Polytechnic.</i></div>
