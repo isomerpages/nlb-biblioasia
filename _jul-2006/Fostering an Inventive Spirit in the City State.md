@@ -30,7 +30,7 @@ It is often said that Singaporeans are risk averse and lack creativity. A prevai
 
 Through the early years of industralisation, the city-state has transformed itself into a thriving knowledge economy, supported by strong intellectual property laws, an educated workforce, quality research and development institutions, and low barriers to trade and foreign investments. There is a real sense of survival through innovation for both economic and security reasons.
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>RESOURCES FOR iNVENTORS</b><br><br>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>RESOURCES FOR INVENTORS</b><br><br>
 There are hundreds of books, reference and online resources to help budding inventors better understand the invention and innovation process – idea generation, problem solving to business 101, general marketing to safeguarding intellectual property through patents and trademark. Here are some of the resources:<br><br>
 <b>BOOKS</b><br><br>
 
@@ -51,6 +51,3 @@ Industry-specific journals as well as market intelligence are useful to gauge th
 <b> Factiva</b> allows access to a deep archive of news and business information.<br><br> <b>Engineering Information Village</b> (Ei Village) is a virtual community for engineers, created to provide information needed to solve problems and keep up to date with trends and developments in the field of engineering. Includes access to databases, websites and libraries.
 </div>
 <br><br>
-
-
-
