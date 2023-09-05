@@ -288,7 +288,6 @@ Tan, Bonny, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/y
 Wylie, Alexander, <i>Memorials of Protestant Missionaries to the Chinese</i> (Shanghae: American Presbyterian Mission Press, 1867), 106, HathiTrust, https://hdl.handle.net/2027/nyp.33433068293772.
 </div><br>
 <div style="background-color: white;">
-<br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/gracia_lee.png">
 <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.</div>
 <br>
