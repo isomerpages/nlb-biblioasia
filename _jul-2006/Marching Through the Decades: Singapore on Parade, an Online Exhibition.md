@@ -33,6 +33,9 @@ Perhaps it is not widely known that the history of parades in Singapore is as ol
 
 Colonial parades burst into the streets in kaleidoscopic scale during Queen Victoria’s reign (1837–1901). She ruled the longest and was the most celebrated sovereign in Singapore though her successors were no less prominent. From Queen Victoria to Queen Elizabeth II, Singapore paid homage to her British sovereigns through countless parades; birthday parades, Empire Day parades, coronation parades, and Golden, Diamond and Silver jubilee parades.
 
+<img src="/images/Vol%202%20Issue%202/OnlineExhibition/empire%20day.jpg" style="width:80%;">
+ <div style="background-color: white;">Empire Day at Raffles Institution in 1947.<i> Image from the Raffles Institution collection, National Archives of Singapore.</i></div>
+
 From the late 19th century, the celebration of British royal events (coronation, birthday and jubilees) had spilled over from London to the various colonies. As shared occasions across the Empire, these events were celebrated with a common style, involving banners and flags, speeches and street parties, military processions, the unveiling of statues or the opening of memorial halls. Not to be outdone, Singapore’s version of the celebrations had enough buntings and illuminations to turn the whole town into a magical fairyland. The newspaper became an important tool to announce the various programmes scheduled for the celebrations. Each ethnic group had their own way to show support to the sovereign on these occasions; the Arabs decorated an arch they constructed with “God Save The King” neon lights; the Jews held special prayers at the synagogue; the Chinese, Malays and Indians combined to organise a procession, even the Japanese community contributed firework displays.
 
 #### **People’s Parade: A Flawless Symphony**
