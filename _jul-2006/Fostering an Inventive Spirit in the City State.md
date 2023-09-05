@@ -43,6 +43,14 @@ Catherine Tay, <i>A Guide to Protecting Your Ideas, Inventions, Trade Marks &amp
 This publication explains the “do’s” and “don’ts” and provides essential information on protecting ideas and inventions while helping one navigate the labyrinth of concepts, rules and laws in Singapore.<br><br>
 
 <img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/innovation.jpg" style="width:30%;"><br>Ernest Gundling, <i>The 3M way to Innovation: Balancing People and Profit</i> (Tokyo: Kodansha International, c2000). (Call no. RBUS 658.4063 GUN)<br>
-3M has always been held up as the role model of an innovative organisation. This book provides invaluable insights into the principles and best practices that have kept 3M on the cutting edge.
+3M has always been held up as the role model of an innovative organisation. This book provides invaluable insights into the principles and best practices that have kept 3M on the cutting edge.<br><br>
+<b>DATABASES</b><br><br>
+Industry-specific journals as well as market intelligence are useful to gauge the market potential of your inventions. These are accessible from online databases at all multimedia stations in the Library:<br><br>
+<b>EbscoHost Business Source Premier</b> provides full text business journals and publications in the areas of management, taxation, marketing, sales, economics and finance.<br><br> <b>Economist Intelligence Unit (EIU)</b> provides analyses of political and economic trends and a historical context of current events in nearly 200 countries. Includes a fortnightly business brief on doing business in Asia.<br><br>
+<b>Euromonitor’s Global Market Information Database (GMID)</b> offers key business intelligence on countries, companies, markets and consumers.<br><br>
+<b> Factiva</b> allows access to a deep archive of news and business information.<br><br> <b>Engineering Information Village</b> (Ei Village) is a virtual community for engineers, created to provide information needed to solve problems and keep up to date with trends and developments in the field of engineering. Includes access to databases, websites and libraries.
 </div>
 <br><br>
+
+
+
