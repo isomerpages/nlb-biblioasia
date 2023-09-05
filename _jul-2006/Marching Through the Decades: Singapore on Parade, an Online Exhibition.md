@@ -28,6 +28,12 @@ From the late 19th century, the celebration of British royal events (coronation,
 #### **People’s Parade: A Flawless Symphony**
 Over the decades, parades have become distinctly Singaporean. Modern day NDPs have evolved into “people’s parade” where everybody participates. From the mass displays and fireworks to the reciting of the National Pledge and singing of the National Anthem, everyone has a role to play. This hearty mobilisation requires high-level coordination and reiterations to ensure a flawless execution of NDPs. Riding on the adage “practice makes perfect”, rehearsals have become a must in every NDP. The *Singapore on Parade* online exhibition showcases the brilliant formations that were strung together by each participant, no doubt after many practices, as well as some behind-the-scene footages to depict the enormous preparations before the big event.
 
+#### **The Hosts of Parades**
+Parades in colonial Singapore were an important tool to brand British imperial rule on the colony. As the power and prestige of the British declined after WWII, the focus of parades shifted from the British monarchy to the nation-state. National symbols – the flag, the pledge and the national anthem – replaced imperial ones. One icon that bucked the trend was the Padang. The open field which hosted many grand parades in the past was still the venue of choice for NDPs until 1976, when Singapore held her first NDP at the National Stadium. Singapore experimented with the concept of “one parade many venues” for several years where NDPs were held at several stadiums. This “decentralised” celebration format lasted until 1984 (in alternate years); thereafter the government reverted to one venue for the NDP partly due to the huge costs of organising many mini parades. The Padang once again rose to the occasion when it hosted Singapore’s 40th NDP in 2005.
+
+#### **National Day Celebrations Fast Forward**
+As a city that is still fast evolving, the look and feel of National Day celebrations is also expected to move with the times. A new downtown at Marina (together with the proposed Integrated Resort) is one of the exciting developments in Singapore. It is also a site chosen by Prime Minister Lee Hsien Loong to chart a new National Day celebrations experience. During his second National Day Rally speech on 21 August 2005, PM Lee treated Singaporeans to an advanced sneak preview of fireworks by the Marina Bayfront on 9 August 2015, Singapore’s 50th Birthday. The animation clip of the vision was put together by students from Nanyang Polytechnic.
+
 
 
 
