@@ -2,6 +2,7 @@ collections:
   jul-2006:
     output: true
     order:
+      - Fostering an Inventive Spirit in the City State.md
       - "Beyond Readers and Folktales: Observations About Singapore Children’s
         Literature.md"
       - Director's Column.md
