@@ -38,5 +38,8 @@ There are hundreds of books, reference and online resources to help budding inve
 Richard Levy, <i>A Complete Idiot’s Guide to Cashing in on Your Inventions</i> (Indianapolis, Ind.: Alpha Books, 2002). (Call no. R 346.73048 LEV)<br>
 Levy shares his experiences in bringing his many products to market successfully. He offers tips on how to profit from one’s invention and gives advice on how to avoid pitfalls, secure patent protection and licensing, develop prototypes and negotiate deals and contracts.	<br><br>
 
+<img src="/images/Vol%202%20Issue%202/Inventive%20Spirit/ideas%20inventions.jpg" style="width:30%;"><br>
+Catherine Tay, <i>A Guide to Protecting Your Ideas, Inventions, Trade Marks &amp; Products</i> (Singapore: Times Editions/Marshall Cavendish, 2004, 2002). (Call no. RSING 346.5957048 TAY)<br>
+This publication explains the “do’s” and “don’ts” and provides essential information on protecting ideas and inventions while helping one navigate the labyrinth of concepts, rules and laws in Singapore.<br><br>
 </div>
 <br><br>
