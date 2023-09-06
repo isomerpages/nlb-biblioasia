@@ -121,4 +121,4 @@ Indeed, Rajaratnam’s early writings add depth and distinction to our literary 
 
 
 <div>
-<b>Irene Ng</b> is a writer-in-residence at the Institute of Southeast Asian Studies and has been a Member of Parliament since 2001. She compiled and edited  <i>The Short Stories and Radio Plays of S. Rajaratnam</i>, published in 2011. She also wrote <i>The Singapore Lion: A Biography of S. Rajaratnam</i> (2010) and is currently writing the second volume of his biography.</div>
+<b>Irene Ng</b> is a writer-in-residence at the Institute of Southeast Asian Studies and has been a Member of Parliament since 2001. She compiled and edited <i>The Short Stories and Radio Plays of S. Rajaratnam</i> (2011). She also wrote <i>The Singapore Lion: A Biography of S. Rajaratnam</i> (2010) and is currently writing the second volume of his biography.</div>
