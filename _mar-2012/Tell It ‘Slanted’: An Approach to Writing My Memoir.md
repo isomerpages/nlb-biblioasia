@@ -10,18 +10,18 @@ description: In my view, one cannot write a good memoir without reading other
   reading what others have written, then, is to see if I can do it differently.
   The question is, “How differently?”
 ---
-#### Poet and playwright _Robert Yeo_ shares his approach to writing his memoir, choosing to “artfully organise \[it\] in the form of a ripple… While being linear, I can, at the same time, be circular. Whilst interrogating the past, I am still able to confront the present”.
+#### Poet and playwright Robert Yeo shares his approach to writing his memoir, choosing to “artfully organise \[it\] in the form of a ripple… While being linear, I can, at the same time, be circular. Whilst interrogating the past, I am still able to confront the present”.
 
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/WritingMemoir/The%20Yeo%20Brothers.jpg">
 <div style="background-color: white;">
-The Yeo Brothers, from left: Teck Hock, Teck Kee, Teck Joon and Teck Chye.</div>
+The Yeo brothers: (from left) Teck Hock, Teck Kee, Teck Joon and Teck Chye.</div>
 	
 
 
 #### **Routes and Roots**
 
-First, let me explain the title I have chosen for my memoir, Routes. I am told the American pronunciation is “routs” but obviously that is not what I have in mind. I wanted a pun that suggests “roots”, a reference first of all to Alex Haley’s 1976 groundbreaking book *Roots: The Saga of an American Family*.[^1] In that book, Haley goes back to his family’s early roots in Africa and discusses how the first ancestor was transported to America to work as a slave. The book focused on “roots” to mean “origins”, reinforced greatly by the television series that followed the publication of the book. Yes, I am interested in my roots, in that sense, and it shows in my accounts of the lives of my parents and grandparents.
+First, let me explain the title I have chosen for my memoir, *Routes*. I am told the American pronunciation is “routs” but obviously that is not what I have in mind. I wanted a pun that suggests “roots”, a reference first of all to Alex Haley’s 1976 groundbreaking book *Roots: The Saga of an American Family*.[^1] In that book, Haley goes back to his family’s early roots in Africa and discusses how the first ancestor was transported to America to work as a slave. The book focused on “roots” to mean “origins”, reinforced greatly by the television series that followed the publication of the book. Yes, I am interested in my roots, in that sense, and it shows in my accounts of the lives of my parents and grandparents.
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/WritingMemoir/marriage%20certificate.jpg">
 <div style="background-color: white;">My parents’ marriage certificates, in Chinese, with signatures in English.</div>
