@@ -21,10 +21,10 @@ The Yeo brothers: (from left) Teck Hock, Teck Kee, Teck Joon and Teck Chye.</div
 
 #### **Routes and Roots**
 
-First, let me explain the title I have chosen for my memoir, *Routes*. I am told the American pronunciation is “routs” but obviously that is not what I have in mind. I wanted a pun that suggests “roots”, a reference first of all to Alex Haley’s 1976 groundbreaking book *Roots: The Saga of an American Family*.[^1] In that book, Haley goes back to his family’s early roots in Africa and discusses how the first ancestor was transported to America to work as a slave. The book focused on “roots” to mean “origins”, reinforced greatly by the television series that followed the publication of the book. Yes, I am interested in my roots, in that sense, and it shows in my accounts of the lives of my parents and grandparents.
+First, let me explain the title I have chosen for my memoir, *Routes*. I am told the American pronunciation is “routs”, but obviously that is not what I have in mind. I wanted a pun that suggests “roots”, a reference first of all to Alex Haley’s 1976 groundbreaking book *Roots: The Saga of an American Family*.[^1] In that book, Haley goes back to his family’s early roots in Africa and discusses how the first ancestor was transported to America to work as a slave. The book focused on “roots” to mean “origins”, reinforced greatly by the television series that followed the publication of the book. Yes, I am interested in my roots in that sense, and it shows in my accounts of the lives of my parents and grandparents.
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/WritingMemoir/marriage%20certificate.jpg">
-<div style="background-color: white;">My parents’ marriage certificates, in Chinese, with signatures in English.</div>
+<div style="background-color: white;">My parents’ marriage certificates in Chinese, with signatures in English.</div>
 
 
 At the same time, I am keen to use the title Routes to refer to the physical journeys that my grandparents made. My reading of history tells me that the ancestors of the Chinese in Southeast Asian countries came mostly from South China, namely the provinces of Fujian, Guangdong and Guangzhou.
