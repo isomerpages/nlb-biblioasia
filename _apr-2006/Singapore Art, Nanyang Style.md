@@ -48,6 +48,9 @@ Among the four that went to Bali, ***Chen Chong Swee (1910–1985)*** can be con
 
 Despite this foray into oils, Chen Chong Swee’s forte still lies in his “Southeast Asian” landscapes and vignettes in the traditional Chinese scroll format. Figure 3 shows one such example, done in Chinese ink but with a Western fixed perspective angling into the distant coconut trees. All of Mr Chen’s realist works never strayed far into the murky waters of subjective expressionism because he believed that a painting’s content must be understood for it to mean something and elicit a response from one’s audience (Koay, 1993).
 
+<img src="/images/Vol%202%20Issue%201/NanyangStyle/kampung%20serenity.jpg" style="width:30%;">
+ <div style="background-color: white;">Chen Chong Swee, <i>Kampung Serenity,</i> 1949, Chinese ink &amp; colour, 124x52cm. <i>Collection of the Singapore Art Museum. Reproduced from Chen Chong Swee’s Paintings of Chen Chong Swee.</i></div>
+
 Besides painting, he was a great writer and contributor to the press on art theories, espousing his conviction to realism in articles and the colophons in his paintings (Kwok, 1994).
 
 The next artist ***Chen Wen Hsi (1908–1991)***, however, did not care for active discourse on the *Nanyang* style, but rather was a staunch individualist. If Chen Chong Swee was the realist, he was the abstract cubist. In the early years and before retirement, he too painted primarily with Chinese ink and of local subjects in the style of *xieyihua*.
