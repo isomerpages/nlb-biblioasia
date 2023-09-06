@@ -133,7 +133,7 @@ By the early 1970s, the Singapore record industry had come a long way from the f
 
 [Page 5 Advertisements Column 1: His Master’s voice studio](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510110-1.2.89.1). (1951, January 10). _Singapore Standard_, p. 5. Retrieved from NewspaperSG.
 
-[Page 17 Advertisements Column 3](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19381111-1.2.133.3). (1938, November 11) _The Malaya Tribune_, p. 17. Retrieved from NewspaperSG.
+[Page 17 Advertisements Column 3](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19381111-1.2.133.3). (1938, November 11). _The Malaya Tribune_, p. 17. Retrieved from NewspaperSG.
 
 [Page 16 Advertisements Column 3: Canary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390310-1.2.113.3). (1939, March 10). _The Malaya Tribune_, p. 16. Retrieved from NewspaperSG.
 
@@ -155,11 +155,11 @@ Ken Jalleh. (1949, October 2). [Modern joget is here to stay](http://eresources.
 
 Laird, R. (1999). [_Sound beginnings: The early record industry in Australia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10113691). Sydney: Currency Press. (Call no.: RBUS 338.476213893 LAI)
 
-[Local choirs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320506-1.2.70) – Successful recording of choruses. (1932, May 6). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
+[Local choirs – Successful recording of choruses](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320506-1.2.70) . (1932, May 6). _The Straits Times_, p. 12. Retrieved from NewspaperSG.
 
 Local gramophone records for the teaching of English. (1936, August). [_Chorus: The Journal of the Singapore Teachers’ Association_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045), 2, 33.
 
-[Local-made ‘Pop’ records go to Indonesia](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680524-1.2.102.4). (1968, May 24). _The Straits Times_, p. 14. Retrieved from NewspaperSG.
+[Local-made ‘pop’ records go to Indonesia](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680524-1.2.102.4). (1968, May 24). _The Straits Times_, p. 14. Retrieved from NewspaperSG.
 
 [L.P. records - First impressions](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500920-1.2.72). (1950, September 20). _The Singapore Free Press_, p. 6. Retrieved from NewspaperSG.
 
@@ -183,7 +183,7 @@ Recording session now in progress. (1951, July 6). _Singapore Standard_, p. 10.
 
 Tan, S.B. (1996, Autumn–1997, Winter). The 78rpm record industry in Malaya prior to World War II. _Asian Music, 28_ (1), 1–41, p. 34. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-“The Music Goes Round” (New York, Macmillan, 1942), in Moore, J. N (1999). Sound revolutions: A biography of Fred Gaisberg, founding father of commercial sound recording. London: Sanctuary Publishing. Call no.: 780.266092 MOO \[ART\]
+“The Music Goes Round” in J. N Moore. (1999). *Sound revolutions: A biography of Fred Gaisberg, founding father of commercial sound recording*. London: Sanctuary Publishing. (Call no.: 780.266092 MOO \[ART\])
 
 [The phonograph](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18920510-1.2.29). (1892, May 10). _Straits Times Weekly_, p. 274. Retrieved from NewspaperSG.
 
@@ -193,7 +193,7 @@ Untitled. (1892, May 16). _Straits Times Overland Journal_, p. 8.
 
 [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290313-1.2.51). (1929, March 13). _The Singapore Free Press_, p. 10. Retrieved from NewspaperSG.
 
-Wee, L. (1970, May 11). [Singapore’s recording firms hit happy note](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700511-1.2.62). _The Straits_ Times, p. 10. Retrieved from NewspaperSG.
+Wee, L. (1970, May 11). [Singapore’s recording firms hit happy note](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700511-1.2.62). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
 
 
 #### **NOTES**
