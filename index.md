@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/
-      button: Restoring Classic Singaporean Films
+      url: /vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s/
+      button: Record Industry in Singapore in the 60s
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 2/Restoring SG
-        Films/restore_classic_singapore_films_hero_image.png
+      background: /images/Vol 19 Issue 2/SG Record Industry/sg_record_industry_hero_img.jpg
   - infopic:
       title: Interview with Rachel Heng, Author of The Great Reclamation
       subtitle: Literature

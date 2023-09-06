@@ -1,0 +1,6 @@
+collections:
+  apr-2006:
+    output: true
+    order:
+      - Singapore Art, Nanyang Style.md
+      - Director's Column.md

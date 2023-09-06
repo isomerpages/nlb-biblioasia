@@ -47,7 +47,7 @@ Apart from supplying the Singapore market, many companies exported a significant
 
 By early 1967, Singapore was producing a total of 2.45 million records annually. According to the *Straits Times* in May 1967, three record companies – Life Record Industries, EMI Records (Southeast Asia) and Phonographic Industries – were expected to reach a total output of 8.925 million records in five years.[^9]
 
-By 1970, there were at least four record manufacturers in Singapore that pressed records for their own labels as well as for other companies.There were likely other small-scale manufacturers as well, so exact figures are not available, but according to newspaper reports of the time, record production at these four major pressing plants had reached one million discs per month.[^10]
+By 1970, there were at least four record manufacturers in Singapore that pressed records for their own labels as well as for other companies. There were likely other small-scale manufacturers as well, so exact figures are not available, but according to newspaper reports of the time, record production at these four major pressing plants had reached one million discs per month.[^10]
 
 #### **New Markets**
 

@@ -1,5 +1,5 @@
 ---
-title: How the Raffles Museum Got a Whale Skeleton, Made It Famous, Then Let it
+title: How the Raffles Museum Got a Whale Skeleton, Made It Famous, Then Let It
   Go 60 Years Later
 permalink: /vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/
 description: The skeleton of a blue whale took pride of place at the former
