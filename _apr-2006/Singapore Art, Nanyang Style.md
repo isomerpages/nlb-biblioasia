@@ -62,3 +62,60 @@ Lastly, the budding infrastructure of art societies and institutions allowed the
 But has that fostering been effective? Art historian T. K. Sabapathy had once criticised that the younger generation of artists such as Yeh Zhi Wei and Choo Keng Kwang who continued the *Nanyang* style in the 1970s (Kwok, 1996) do not have the spontaneity and spirit of innovation as their forefathers, the results being “tiresome clichés”(Koay, unknown). But perhaps this is the artist’s natural result in again trying to reflect and express “the times” – in this case, society’s nostalgia of the old – for running concurrently then was the issue of how to tackle rising modernism and Western culture influences on Singapore (Xia, 2000). It would seem that harking back to the pioneer artists’ *Nanyang* style, turning their techniques into easy rules of painting, was itself a statement on this issue, however stiff and formal the actual result seemed.
 
 Nevertheless, the proponents of the *Nanyang* style continue to resonate today. What is most noteworthy is the fact that this art style reflects the universal culture of migrants, who in this case adapted to and accepted a new mix of Western, Chinese and indigenous beliefs/practices. The lessons learnt from this art movement are therefore no less significant in this global age, with infinite possibilities nowadays for the cross-fertilisation of cultures in every corner of the world.
+
+<div>
+<center><b>Alicia Yeo</b><br>Reference Librarian<br> Lee Kong Chian Reference Library
+</center></div>
+
+#### **REFERENCES**
+Chen Zongrui, _[Chen Chong Swee: His Thoughts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6467825)_ (Singapore: Singapore Art Museum, 1993). (Call no. RSING 759.95957 CHE)
+
+Chia Wai Hon, _[Singapore Artists](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082073)_ (Singapore: Singapore Cultural Foundation, 1982). (Call no. RSING 759.95957 SIN)
+
+Jane Chia, “Trouble at Hand,” _Art and Asia Pacific_ 2, no. 2 (April 1995).
+
+Jane Chia, _[Georgette Chen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8379929)_ (Singapore: Singapore Art Museum, 1997). (Call no. RSING q759.95957 CHI)
+
+Kwo Da-Wei, _[Chinese Brushwork in Calligraphy and Painting: Its History, Aesthetics, and Techniques](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5622923)_ (New York: Dover Publications, 1990). (Call no. 745.619951 KWO)
+
+Kwok Kian Chow, _[Channels &amp; Confluences: A History of Singapore Art](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7628104)_ (Singapore: Singapore Art Museum, 1996). (Call no. RSING 709.5957 KWO)
+
+Kwok Kian Chow, _Images of the South Seas: Bali as a Visual Source in Singapore Art. In From Ritual To Romance: Paintings Inspired by Bali_ (Singapore: Singapore Art Museum, 1994)
+
+S. Xia, “Nanyang Spirit: Chinese Migration and the Development of Southeast Asian Art,” in _[Visions &amp; Enchantment: Southeast Asian Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9987500)_ (Singapore: Singapore Art Museum, 2000). (Call no. RSING q759.959 VIS)
+
+Singapore Art Museum, _[Singapore Modern: Art in the 1970s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12991966)_ (Singapore: Singapore Art Museum, 1970). (Call no. RART 709.95957 SIN)
+
+Singapore Art Society, _[Chen Wen Hsi: Exhibition of Paintings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981407)_ (Singapore: Singapore Art Society, 1956). (Call no. RCLOS 759.9595 SIN)
+
+“Singapore History Since Its Early Beginnings,” Asia Web Direct, 2005.
+
+“Singapore Infomap: Nation’s History,” Ministry of Information, Communications and the Arts, accessed 16 November 2005, [http://www.sg/](http://www.sg/).
+
+Susie Koay, _Singapore Artists – Some Observations on the First Generation_ (Singapore: Singapore Art Museum, n.d.)
+
+Susie Koay, “Chen Chong Swee: His Art,” 1993.
+
+Venka Purushothaman, _[Narratives: Notes on a Cultural Journey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11769181)_ (Singapore: National Arts Council, 2002). (Call no. RSING 700.95957 NAR)
+
+Wang Gungwu, _[Singapore Modern: Art in the 1970s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5810044)_ (Singapore: Times Academic Press, 1991). (Call no. RSING 327.51059 WAN)
+
+_Zhong si bin_ [钟泗滨](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200023726) \[Cheong Soo Pieng\] (Xin jia po 新加坡: Straits Commercial Art, 1956). (From PublicationSG)
+
+#### **FURTHER READINGS**
+
+Jane Chia, _[Georgette Chen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8379929)_ (Singapore: Singapore Art Museum, 1997). (Call no. RSING q759.95957 CHI)  
+A detailed study on the life of Georgette Chen, the book also compiles a chronology of all her major exhibitions and the works featured in them.
+
+Kwok Kian Chow, _[Channels &amp; Confluences: A History of Singapore Art](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7628104)_ (Singapore: Singapore Art Museum, 1996). (Call no. RSING 709.5957 KWO)  
+A fully illustrated book which outlines the history of the visual arts in Singapore from about the twentieth century. The study highlights many historical and aesthetic themes and issues, which are vital to the understanding of the development of the visual arts in Singapore.
+
+Liu Kang, _[Journeys: Liu Kang and his Art](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10354330)_ (Singapore: National Arts Council and Singapore Art Museum, 2000). (Call no. RSING q759.95957 LIU)  
+In commemoration of the diplomatic relations between the People’s Republic of China and Singapore, this traveling exhibition featured 50 key works from every notable period in Liu Kang’s career. Reflections on his paintings and art are expressed in both English and Chinese.
+
+Marco C.F. Hsu, _[A Brief History of Malayan Art](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9606089)_ (Singapore: Millennium Books, 1999). (Call no, RSING 709.595 HSU)  
+Translated from Mandarin to English, this work discusses the various factors that have shaped the art scene in present-day Singapore and Malaysia. It traces the area’s art, personalities, events and organisations from the time of the early settlers. Topics covered include the spread of Islam, the transmission of Western cultures and the nurturing of painting.
+
+Tan Meng Kiat, _[The Evolution of the Nanyang Art Style: A Study in the Search for an Artistic Identity in Singapore, 1930–1960](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9766875)_ (Hong Kong: Department of Humanities, University of Science and Technology, 1997). (Call no. RSING q709.5957 TAN)  
+This thesis studies the reasons and events behind the evolution of the Nanyang Art Style in Singapore, from 1930–1960. It is divided into two parts: the first covers the history of the country and the other analyses the art style itself.
+
