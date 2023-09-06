@@ -17,6 +17,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/SG Record Industry/sg_record_industry_hero_img.jpg
   - infopic:
+      title: The Early History of Printing in Singapore
+      subtitle: Print
+      description: Printing in Singapore dates back 200 years with the establishment
+        of a press by Christian missionaries.
+      button: EARLY IMPRINTS
+      url: /vol-19/issue-3/oct-dec-2023/singapore-early-printing/
+      image: /images/Vol 19 Issue 3/10 Printing/cermin mata_homepage.jpg
+      alt: Image alt text
+  - infopic:
       title: Interview with Rachel Heng, Author of The Great Reclamation
       subtitle: Literature
       description: Editor Soh Gek Han interviews Rachel Heng on her novel for the
@@ -42,7 +51,7 @@ sections:
         collection.
       button: New Reads
       url: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
-      image: /images/Vol 19 Issue 3/9 New Books/uncle choo home page.jpg
+      image: /images/Vol 19 Issue 3/9 New Books/book_5.png
       alt: Image alt text
   - infopic:
       title: Revisiting the Mystery of the Missing Gold Coins
