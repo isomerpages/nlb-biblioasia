@@ -215,13 +215,13 @@ Wee, L. (1970, May 11). [Singapore’s recording firms hit happy note](http://er
 
 [^8]: This procedure is misunderstood in Tan’s study as she claims that “recording engineers such as Gaisberg often stopped by Penang” (p. 3) and she refers to “the recordings made by Gaisberg in Penang” (p. 6) when no such recordings were made. Gaisberg’s diaries show that he did not record in Penang. I believe this mistake is due to a misunderstanding of the fact that Penang is shown on the labels of some of these Gaisberg 1903 recordings. In the early days of the record industry it was a common practice to show on the label the place from which the recording artist originated, but this did not necessarily mean that the recordings were made in that location. Early recording equipment was heavy, cumbersome and difficult to transport so it was simply not possible to travel around making recordings along the way. Instead, artists from various cities or towns would travel to a nearby regional centre and all recordings would be made in the same location.
 
-[^9]: Marker, H. L. (1913). Returns from record making trip around the world. _Talking Machine World_, 9(1), 43—44.
+[^9]: Marker, H. L. (1913). Returns from record making trip around the world. _Talking Machine World_, *9*(1), 43—44.
 
 [^10]: _[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290313-1.2.51)_, 13 Mar 1929, p. 10.
 
 [^11]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19320506-1.2.70)_, 6 May 1932, p. 12.
 
-[^12]: For a detailed study of E.A. Brown’s extensive musical career in Singapore see Kartini, S. (2008). Edwin Arthur Brown’s musical contribution to Singapore. _[BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 4_ (1), 40—44 but this excellent article makes no mention of his recordings.
+[^12]: For a detailed study of E.A. Brown’s extensive musical career in Singapore see Kartini, S. (2008). Edwin Arthur Brown’s musical contribution to Singapore. _[BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 4_ (1), 40–44. But this excellent article makes no mention of his recordings.
 
 [^13]: Local gramophone records for the teaching of English. (1936, August). _[Chorus: The Journal of the Singapore Teachers’ Association](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)_, 2, p. 33.
 
@@ -247,7 +247,7 @@ Wee, L. (1970, May 11). [Singapore’s recording firms hit happy note](http://er
 
 [^24]: _[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19500920-1.2.72)_, 20 Sep 1950, p. 6.
 
-[^25]: The EMI recording studios at MacDonald House opened in January, 1951. _[Singapore Standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510110-1.2.89.1)_, 10 Jan 1951, p. 5.
+[^25]: The EMI recording studios at MacDonald House opened in January 1951. _[Singapore Standard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510110-1.2.89.1)_, 10 Jan 1951, p. 5.
 
 [^26]: _Singapore Standard_, 6 Jul 1951, p. 10.
 
@@ -265,10 +265,10 @@ Wee, L. (1970, May 11). [Singapore’s recording firms hit happy note](http://er
 
 [^33]: See Pereira, J. F. (1999). _[Legends of the Golden Venus](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9606045)_. Singapore: Times Editions. The tendency by writers about popular music to seize on a single event (such as the 1961 Cliff Richard concerts) to explain the development of modern pop music in 1960s Singapore is to present mythology as fact. Despite Pereira’s claim about the absence of guitar bands in Singapore prior to 1961, the reality is that there were many such bands but the conservative policies of the local record companies meant that they never recorded, so they have tended to be forgotten. Obviously a local musical tradition can only develop over time, and is not caused by any single event. By understanding how the Singapore record industry operated we can better discern how local musical culture evolved, even if in some cases there are no recordings of some crucial genres or periods.
 
-[^34]: Philips was the first multinational record company to establish a record-pressing plant in Singapore. It was officially opened on 24 November 1967, but by then had already produced more than half a million records. _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671118-1.2.91)_, 18 Nov 1967, p. 13. Forty per cent of the factory’s production was exported to Indonesia, Hong Kong, Thailand, Ceylon and Malaysia. Switch on – _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671120-1.2.40)_, 20 Nov 1967, p. 16.
+[^34]: Philips was the first multinational record company to establish a record-pressing plant in Singapore. It was officially opened on 24 November 1967, but by then had already produced more than half a million records. _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671118-1.2.91)_, 18 Nov 1967, p. 13. Forty percent of the factory’s production was exported to Indonesia, Hong Kong, Thailand, Ceylon and Malaysia. _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671120-1.2.40)_, 20 Nov 1967, p. 16.
 
 [^35]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680524-1.2.102.4)_, 24 May 1968, p. 14.
 
 [^36]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700511-1.2.62)_, 11 May 1970, p. 10.
 
-[^37]: To give just one example, it was reported in 1969 that a group of 30 Indonesian singers had come to Singapore to record at Kinetex Studios. The artists included Vivi Sumanti, Bing Slamet, and Tanti Josepha, and they intended to record “250 songs in Malay, Indonesian, Chinese, English and several European languages”. The group of artists were to stay for three months, recording almost every day during that period, and “cutting over 70 EPs and 25 LPs.” _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691025-1.2.57)_, 25 Oct 1969, p. 8.</div>
+[^37]: To give just one example, it was reported in 1969 that a group of 30 Indonesian singers had come to Singapore to record at Kinetex Studios. The artists included Vivi Sumanti, Bing Slamet and Tanti Josepha, and they intended to record “250 songs in Malay, Indonesian, Chinese, English and several European languages”. The group of artists were to stay for three months, recording almost every day during that period, and “cutting over 70 EPs and 25 LPs”. _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691025-1.2.57)_, 25 Oct 1969, p. 8.</div>
