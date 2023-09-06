@@ -36,26 +36,26 @@ His stories are powerful in their imagination and notable for their literary qua
 
 But it is at home – Malaya, which at that time included Singapore – that his passion really lay. As one of Singapore’s founding leaders in 1965, he drew from his belief in the transformative power of the mind and his past literary experience to imagine a Singaporean Singapore at a time when racial and religious divisions were omnipresent. Defying the evidence before his eyes, he envisioned a nation pulsating as one people. He clothed his vision in prose and gave it shape and shine as the unifying national creed.
 
-One can find its ideological basis in the radio plays that he wrote for broadcast over Radio Malaya in 1957, two years before the People’s Action Party came into power in 1959. Then a newspaper journalist and a freelance radio scriptwriter, he animated his ideas through a picaresque group of characters for a six-part drama series *A Nation in the Making*.
+One can find its ideological basis in the radio plays that he wrote for broadcast over Radio Malaya in 1957, two years before the People’s Action Party came into power in 1959. Then a newspaper journalist and a freelance radio scriptwriter, he animated his ideas through a picaresque group of characters for a six-part drama series, *A Nation in the Making*.
 
 They were broadcast over Radio Malaya at a time of political upheaval, when Singapore and the peninsula were grappling with colonialism and agitating for freedom.
 
-They aimed to shape public opinion on urgent issues of the day—in particular, the making of a nation. Prior to the advent of television in Singapore in 1963, radio drama was a popular form of entertainment and education.
+They aimed to shape public opinion on urgent issues of the day – in particular, the making of a nation. Prior to the advent of television in Singapore in 1963, radio drama was a popular form of entertainment and education.
 
 He used witty dialogue to engage the listener. But there were life-and-death issues at stake, and a serious decision the people needed to make, at a time of intense political ferment and uncertainty: Should Malaya go the way of racial politics and incompetent populist leadership?
 
-In his radio plays, there is a recurring message that says “we can create the sort of nation that we want”. This is a discourse of reason, of civil argument and debate, one based on a relationship of trust and faith.
+In his radio plays, there is a recurring message: “we can create the sort of nation that we want”. This is a discourse of reason, of civil argument and debate, one based on a relationship of trust and faith.
 
 As one of his characters in the radio scripts says: “We must make an act of faith that people can be made to think, that you can appeal to their reason, and that you can bring out the decent and human qualities in them. We must believe in this or perish. If we believe that our people are essentially reasonable and decent, then we can believe that they will understand us when we say that, unless we become a nation, we will destroy ourselves.”
 
-He was fearless in attacking the problems of the day, and used the radio dramas as sources of ethical instruction and political education. Reading them today, his words still seem immediate, powerful and courageous.
+He was fearless in attacking the problems of the day, and used radio dramas as sources of ethical instruction and political education. Reading them today, his words still seem immediate, powerful and courageous.
 
-Reading the scripts, one is struck by the clarity and conviction with which Rajaratnam laid out the arguments against racial politics and the idea that a nation should be built on a common race, religion or language. He deployed quotes from leading thinkers, such as Ernest Renan and John Stuart Mill, to contend that the vital element that brings a nation to life is a people united by a sense of common history and common destiny—or as he quoted H.A.L. Fisher, “common sufferings, common triumphs, common achievements, common memories and common aspirations”,
+Reading the scripts, one is struck by the clarity and conviction with which Rajaratnam laid out the arguments against racial politics and the idea that a nation should be built on a common race, religion or language. He deployed quotes from leading thinkers, such as Ernest Renan and John Stuart Mill, to contend that the vital element that brings a nation to life is a people united by a sense of common history and common destiny – or as he quoted H.A.L. Fisher, “common sufferings, common triumphs, common achievements, common memories and common aspirations”.
 
-In reading his plays, what comes across with unmistakable clarity is his prodigiously imaginative flair. Their recordings, however, have disappeared into thin air. I found their scripts among Rajaratnam’s private papers in the course of my research for the biography on him. The biography, titled *The Singapore Lion: A Biography of S. Rajaratnam*, was published in early 2010. The radio scripts are now preserved in the Institute of Southeast Asian Studies Library, which houses the S. Rajaratnam Private Archives Collection.
+In reading his plays, what comes across with unmistakable clarity is his prodigiously imaginative flair. Their recordings, however, have disappeared into thin air. I found their scripts among Rajaratnam’s private papers in the course of my research for his biography. Titled *The Singapore Lion: A Biography of S. Rajaratnam*, the biography was published in early 2010. The radio scripts are now preserved in the Institute of Southeast Asian Studies Library, which houses the S. Rajaratnam Private Archives Collection.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%201/Rajaratnam/Necessary%20Stage.jpg">
- <div style="background-color: white;">During the book launch of <i>The Singapore Lion </i> on 4 February 2010, The Necessary Stage put up an adapted version of Rajaratnam’s radio plays from the series <i>A Nation in the Making. </i> It was the first time that the plays had been performed on stage. <i>Courtesy of the Institute of Southeast Asian Studies.</i></div>
+ <div style="background-color: white;">During the book launch of <i>The Singapore Lion </i> on 4 February 2010, The Necessary Stage put up an adapted version of Rajaratnam’s radio plays from the series <i>A Nation in the Making</i>. It was the first time that the plays had been performed on stage. <i>Courtesy of the Institute of Southeast Asian Studies.</i></div>
 
 #### **Context**
 
