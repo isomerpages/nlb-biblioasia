@@ -30,6 +30,11 @@ The Great Depression of 1930–34 hit Singapore however, and called a halt to mo
 
 Then in 1938, there was the creation of Singapore’s first art academy, the Nanyang Academy of Fine Arts (NAFA). This was not the work of the British, however, but that of Chinese migrant artist and teacher Lim Hak Tai who managed to get funding from rich businessman Tan See Siang, to start this school (Koay, unknown). The school, entirely backed by the Chinese community, was modelled after the Shanghai art academies in its curriculum of both Western and Chinese art traditions, and would prove to be crucial to the fostering of the *Nanyang* style – for the principal artists of this movement were also teachers there (Chia, 1982; Purushotam, 2002).
 
+#### **The term *Nanyang*: Imparting Ideals of Regionalism**
+How did the idea of a *Nanyang* style come about? The term *Nanyang* itself was originally coined by newspaper critics of the late 1920s to early 1930s, to denote contemporary Chinese stories that were written based on local Singaporean subjects (Kwok, 1996). Gradually the term was taken further to impart the idea of a *Nanyang* identity and regional culture for the overseas Chinese in Southeast Asia. The dichotomy of Chinese nationalism and Southeast Asian regionalism grew: the emphasis by proponents of *Nanyang* ideals was on one’s locale being one’s new home, and the need to forge a new identity in new lands.
+
+However, exploring that ideal was suspended when World War II broke out and the Japanese occupied Singapore from 1942–5. However after the war, *Nanyang* regionalism strengthened even more amid growing anti-colonial sentiments. The British were drafting a Malayan confederation, but Singapore was left out to remain as a British colony despite its people warming toward the idea of independence (Xia, 2000). NAFA, which resumed classes then, began to draw artistic inspiration from its Southeast Asian surroundings, instead of its prior pro-China stance. The mid-40s to early 50s saw the growth of many painters alongside the growing patronage of exhibitors like the British Council (Kwok, 1996). With the renewed talk of a Nanyang identity, there also began the quest to find the quintessential *Nanyang* visual expression to go along with it. What was the *Nanyang* South Seas culture, and how could one pictorially express it?
+
 
 
 
