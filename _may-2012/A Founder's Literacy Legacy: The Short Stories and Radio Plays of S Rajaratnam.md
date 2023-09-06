@@ -2,16 +2,16 @@
 title: "A Founder's Literacy Legacy: The Short Stories and Radio Plays of S
   Rajaratnam"
 permalink: /vol-8/issue-1/may-2012/rajaratnam-stories-radio-plays/
-description: "One of Singapore’s founding leaders, S. Rajaratnam, is today best
+description: One of Singapore’s founding leaders, S. Rajaratnam, is today best
   known for drafting the Singapore Pledge and for being the country’s first
   Foreign Minister. His biographer Irene Ng, who recently edited the collection
   The Short Stories and Radio Plays of S. Rajaratnam, reveals his
-  little-recognised literary side and discusses its importance to Singapore. "
+  little-recognised literary side and discusses its importance to Singapore.
 ---
-#### One of Singapore’s founding leaders, S. Rajaratnam, is today best known for drafting the Singapore Pledge and for being the country’s first Foreign Minister. His biographer Irene Ng, who recently edited the collection The Short Stories and Radio Plays of S. Rajaratnam, reveals his little-recognised literary side and discusses its importance to Singapore.
+#### One of Singapore’s founding leaders, S. Rajaratnam is today best known for drafting the Singapore Pledge and for being the country’s first Foreign Minister. His biographer Irene Ng, who recently edited the anthology, *The Short Stories and Radio Plays of S. Rajaratnam*, reveals his little-recognised literary side and discusses its importance to Singapore.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%201/Rajaratnam/Rajaratnam.jpg">
- <div style="background-color: white;">Rajaratnam in his office. <i>National Archives of Singapore.</i></div>
+ <div style="background-color: white;">S. Rajaratnam in his office. <i>National Archives of Singapore.</i></div>
 
 S. Rajaratnam is perhaps best remembered for his visionary role in shaping the national ideology and framing the foreign policy of Singapore as one of its founding leaders charting a yet-unknown future. What is less recognised is the rich literary legacy he left behind. Its creation predates the independence of Singapore in 1965, and even its self-governing status in 1959.
 
@@ -21,20 +21,20 @@ I would like to divide this essay into three parts. First, a brief introduction 
 
 #### **Introduction**
 
-It is important to recognise that Rajaratnam was not just any writer, but a great one, once acclaimed in London—the centre of the English literary scene—where he lived for 12 years from 1935 to 1947. During the bleak years of World War II, when he turned to writing to eke a living, he proved himself to be a writer of uncommon imagination and talent.
+It is important to recognise that Rajaratnam was not just any writer, but a great one, once acclaimed in London – the centre of the English literary scene – where he lived for 12 years from 1935 to 1947. During the bleak years of World War II, when he turned to writing to eke a living, he proved himself to be a writer of uncommon imagination and talent.
 
 His short stories were published in several journals and anthologies in the 1940s, and caught the attention of literary greats E.M. Forster and George Orwell. Forster described Rajaratnam’s debut “Famine”, published in 1941, as “touching and well-constructed” in one of his radio talks for the British Broadcasting Corporation (BBC). Orwell, who would later achieve fame for the political novels *Animal Farm* and *Nineteen Eighty-Four*, was working at the BBC in the early 1940s and invited Rajaratnam to write radio scripts.
 
-By the mid-40s, Rajaratnam was billed “one of the leading Indian short story writers” in some anthologies. His reputation among the literary cognoscenti was sealed when his work appeared alongside those of the literary greats in an international anthology published in 1947. The volume was titled *A World of Great Stories: 115 Stories, The Best of Modern Literature*. The anthology also featured works by Ernest Hemingway, William Faulkner, Scott Fitzgerald, Thomas Wolfe, John Steinbeck and James Joyce, to name a few.
+By the mid-1940s, Rajaratnam was billed as “one of the leading Indian short story writers” in some anthologies. His reputation among the literary cognoscenti was sealed when his work appeared alongside those of literary greats in an international anthology published in 1947. The volume was titled *A World of Great Stories: 115 Stories, The Best of Modern Literature*. The anthology also featured works by Ernest Hemingway, William Faulkner, Scott Fitzgerald, Thomas Wolfe, John Steinbeck and James Joyce, to name a few.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%201/Rajaratnam/Rajaratnam%20Book.jpg">
-<div style="background-color: white;">Rajaratnam was described as “one of the leading Indian short story writers” in <i>Modern International Short Stories,</i> published in 1947 (Left). His stories “The Locusts” and “What Has to Be” first appeared in <i>Life and Letters</i> in August 1941 (Right). <i>Courtesy of Graham Berry and the Institute of Southeast Asian Studies.</i></div>
+<div style="background-color: white;">Rajaratnam was described as “one of the leading Indian short story writers” in <i>Modern International Short Stories,</i> published in 1947 (left). His stories “The Locusts” and “What Has to Be” first appeared in <i>Life and Letters</i> in August 1941 (right). <i>Courtesy of Graham Berry and the Institute of Southeast Asian Studies.</i></div>
 
-His stories addressed themes of disaster and death, oppression and injustice, and the fears and follies of man, but also coursing through them is the transformative power of the human spirit and of reason. Although most of his stories are set against South Asian and Malayan backdrops, they are not simply stories of a time or place, but a sophisticated reframing of the forces and ideas that shape the world in which we live. In his stories, we follow the fortunes of characters as they define themselves or are defined by various combinations of their past, the choices they make, and the forces that act upon them. Do characters make their fate or suffer it?
-
-His stories are powerful in their imagination and notable for their literary quality. Some of them, given their universal themes, have travelled beyond the English-speaking world and have been translated into French and German.
+Rajaratnam’s stories addressed themes of disaster and death, oppression and injustice, and the fears and follies of man, but also coursing through them is the transformative power of the human spirit and of reason. Although most of his stories are set against South Asian and Malayan backdrops, they are not simply stories of a time or place, but a sophisticated reframing of the forces and ideas that shaped the world in which we live. In his stories, we follow the fortunes of characters as they define themselves or are defined by various combinations of their past, the choices they make, and the forces that act upon them. Do characters make their fate or suffer it?
 
 His stories are powerful in their imagination and notable for their literary quality. Some of them, given their universal themes, have travelled beyond the English-speaking world and have been translated into French and German.
+
+But it is at home – Malaya, which at that time included Singapore – that his passion really lay. As one of Singapore’s founding leaders in 1965, he drew from his belief in the transformative power of the mind and his past literary experience to imagine a Singaporean Singapore at a time when racial and religious divisions were omnipresent. Defying the evidence before his eyes, he envisioned a nation pulsating as one people. He clothed his vision in prose and gave it shape and shine as the unifying national creed.
 
 One can find its ideological basis in the radio plays that he wrote for broadcast over Radio Malaya in 1957, two years before the People’s Action Party came into power in 1959. Then a newspaper journalist and a freelance radio scriptwriter, he animated his ideas through a picaresque group of characters for a six-part drama series *A Nation in the Making*.
 
@@ -128,4 +128,4 @@ An appraisal of his early writings puts in perspective his original contribution
 Indeed, Rajaratnam’s early writings add depth and distinction to our literary legacy and deserve to be read, celebrated, interpreted and re-interpreted. Yet so few Singaporeans have read them. It seems not a little ironic that our students read works by Western authors with hardly any link to our social and cultural contexts, but not those of the country’s own founding leader, once recognised by the Western literary circles for producing among the greatest short stories in the world. One hopes this will soon change.
 
 <div>
-<b>Irene Ng</b> is a Writer-in-Residence at the Institute of Southeast Asian Studies and has been a Member of Parliament since 2001. She compiled and edited  <i>The Short Stories and Radio Plays of S. Rajaratnam,</i> published in 2011. She also wrote <i>The Singapore Lion: A Biography of S. Rajaratnam</i> (2010) and is currently writing the second volume of his biography.
+<b>Irene Ng</b> is a Writer-in-Residence at the Institute of Southeast Asian Studies and has been a Member of Parliament since 2001. She compiled and edited  <i>The Short Stories and Radio Plays of S. Rajaratnam,</i> published in 2011. She also wrote <i>The Singapore Lion: A Biography of S. Rajaratnam</i> (2010) and is currently writing the second volume of his biography.</div>
