@@ -14,5 +14,3 @@ With nourishment for the mind and soul, we are not neglecting the body. The mont
 We look forward to seeing you at the Library and happy reading!
 
  <b>Ms Ngian Lek Choh </b><br>Director<br>National Library
-
-
