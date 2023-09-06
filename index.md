@@ -744,6 +744,6 @@ sections:
         of a press by Christian missionaries.
       button: EARLY IMPRINTS
       url: /vol-19/issue-3/oct-dec-2023/singapore-early-printing/
-      image: /images/Vol 19 Issue 3/10 Printing/image_9.png
+      image: /images/Vol 19 Issue 3/10 Printing/cermin mata_homepage.jpg
       alt: Image alt text
 ---
