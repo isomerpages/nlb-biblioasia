@@ -737,4 +737,13 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: The Early History of Printing in Singapore
+      subtitle: Print
+      description: Printing in Singapore dates back 200 years with the establishment
+        of a press by Christian missionaries.
+      button: EARLY IMPRINTS
+      url: /vol-19/issue-3/oct-dec-2023/singapore-early-printing/
+      image: /images/Vol 19 Issue 3/10 Printing/image_9.png
+      alt: Image alt text
 ---
