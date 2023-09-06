@@ -118,4 +118,3 @@ Translated from Mandarin to English, this work discusses the various factors tha
 
 Tan Meng Kiat, _[The Evolution of the Nanyang Art Style: A Study in the Search for an Artistic Identity in Singapore, 1930–1960](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9766875)_ (Hong Kong: Department of Humanities, University of Science and Technology, 1997). (Call no. RSING q709.5957 TAN)  
 This thesis studies the reasons and events behind the evolution of the Nanyang Art Style in Singapore, from 1930–1960. It is divided into two parts: the first covers the history of the country and the other analyses the art style itself.
-
