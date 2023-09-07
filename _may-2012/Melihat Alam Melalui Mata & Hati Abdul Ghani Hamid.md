@@ -12,7 +12,7 @@ Apabila kita membicarakan karya-karya Abdul Ghani Hamid, kita tidak dapat menafi
 Menurut Mohamed Latiff Mohamed (2011), Abdul Ghani Hamid merupakan seorang pencinta alam yang lembut, tenang dan penyabar dan beliau menjadikan alam sebagai contoh “betapa kaya dan indah alam ciptaan Tuhan. Antaranya puisi yang menyampaikan perutusan sebegini ialah:
 
 
-<i>**Alam Ini Kami Punya**</i> (1965)
+<center><b>Alam Ini Kami Punya</b> (1965)</center>
 
 <center><i>Kami cinta alam ini<br> pada puspa mekar di puncak tinggi<br> atau semut melata di bumi<br> dalam lukisan kami.<br><br>
 Merasa indah semuanya<br> dalam seribu kejadian bercerita <br>dari wajah jelita manis<br> hingga si pincang hamis.<br><br> Alam yang engkau dan kami punya<br> pada karya kami disua <br>berhimpun rasa dan suara<br> kami melukis kerana cinta.<br><br> Alam ini kami punya<br> untuk manusia fahamkan cinta.</i></center>
@@ -33,6 +33,7 @@ Pandangan yang serupa ini juga diberikan oleh Rasiah (1999) yang mengatakan baha
 
 Alam banyak mengilhamkan penyair Abdul Ghani Hamid. Melalui mata dan hatinya beliau dapat melihat dan merasakan perubahan dan pergolakannya dan ini diluahkan dalam puisi-puisinya.
 
+![](/images/Authors/Juffri.jpg)
 <div>
 <b>Juffri Supa’at</b> is a Senior Librarian with the National Library Arts division. He curated the exhibition Abdul Ghani Hamid: Mata &amp; Hati, held at the National Library Building from 3 December 2011 to 26 February 2012. He also helped to compile the Bibliography of Singapore Malay Literature (1965-2009), published in 2011.</div>
 
