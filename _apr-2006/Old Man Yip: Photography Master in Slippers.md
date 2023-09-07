@@ -7,6 +7,9 @@ description: Yip Cheong Fun was one Singapore’s most eminent photographers. Hi
 ---
 #### Yip Cheong Fun was one Singapore’s most eminent photographers. His ability to capture, “the decisive moment” made him unique among the photographers of his generation.
 
+<img src="/images/Vol%202%20Issue%201/OldManYip/walking%20gingerly.jpg" style="width:80%;">
+ <div style="background-color: white;">Walking Gingerly Along (1950s). <i>Photographs by Yip Cheong Fun, Courtesy of Mr Andrew Yip.</i></div>
+
 #### **Life in Chinatown**
 Nothing in Yip Cheong Fun’s early life suggests that he would become one of Singapore’s most eminent photographers. He was born in Hong Kong in 1903, the son of a farmer. At the age of 7 months, his parents left Hong Kong for Singapore where he remained till 1909. His father died in 1907 and his mother, unable to cope with having to eke out a modest living and caring for her children, sent him back to China to be placed in the care of relatives. Unfortunately, his relatives neglected him and he returned to Singapore in 1913 after his relatives’ neighbours alerted his mother to his plight. From then on, he stayed with his mother at 47 Kreta Ayer Street. This would be his home for the rest of his life.
 
