@@ -2,8 +2,8 @@ collections:
   videos:
     output: true
     order:
-      - BiblioAsia Reels.md
       - Singapore Storytellers.md
+      - BiblioAsia Reels.md
       - From Book to Cook/.keep
       - From Book to Cook/About the Series.md
       - From Book to Cook/The Curry Chronicles.md
