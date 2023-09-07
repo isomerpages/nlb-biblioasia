@@ -4,7 +4,7 @@ permalink: /videos/reels/
 description: ""
 third_nav_title: BiblioAsia Reels
 ---
-### A Really Good Story in Reels: History in Five Minutes
+### A Reel-y Good Story: History in Five Minutes
 
 *BiblioAsia Reels* turns a *BiblioAsia* story into a short video. Take five to learn interesting things about Singapore history.
 
