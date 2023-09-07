@@ -25,6 +25,9 @@ After World War II, Yip ventured into three other businesses, all of which faile
 #### **Latecomer to Photography**
 Yip Cheong Fun was a latecomer to photography. He was already in his thirties when he picked up his first camera. In the beginning, he used it like any hobbyist and doting family man; to record images of his family and of his familiar surroundings. After the Japanese Occupation, Yip began taking more photographs of other subjects.
 
+<img src="/images/Vol%202%20Issue%201/OldManYip/old%20chinatown%20teacher.jpg" style="width:80%;">
+ <div style="background-color: white;">An Old Chinatown Teacher (1960s)<i>Photograph by Yip Cheong Fun, Courtesy of Mr Andrew Yip.</i></div>
+
 The devastation wrought by the war kindled in Yip a passion to record on film, his changing environs. He began taking photographs of the same site a few years apart; mostly around his beloved Kreta Ayer area, recording the changes that have taken place over the years. Yip was also much inspired by the vitality of the human spirit, and the ability of man to overcome hardships and setbacks. This can be seen in his photographs of people, especially his portraits of fisherfolk, *samsui* women and construction workers. The spirit of toil and endeavour shines through in each photograph. Yip felt deeply for the poor and the down-trodden in Chinatown. He explored every nook and corner of the area after the war and captured images of social activity of a time gone by. His ability to capture, what Henri Cartier-Bresson calls “the decisive moment” made him unique among the photographers of his generation.
 
 #### **Master Yip**
