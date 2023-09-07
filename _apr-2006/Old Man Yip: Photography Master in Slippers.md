@@ -57,6 +57,12 @@ In 1986, Yip was persuaded by his friends and family to publish a book of his wo
 A bad workman blames his tools, but good tools in the hands of an expert can make all the difference between a mediocre photograph and a masterpiece. Yip Cheong Fun shot many of earlier photographs with his German-made Rolleiflex, a 6x6 camera that first appeared in 1929.<br><br> His next camera had an even bigger negative, the 6x9 Zeiss Super Ikonta-C. This camera is a classic legend and is one of the most unique cameras ever made. The beauty of this camera is its ability to be folded up into a very small package. It was a camera with the largest body-size to negative ratio in the market. These cameras were considered the best folding cameras ever made. <br><br>Yip’s last medium-format camera was a Swiss-made Hasselblad 500C, one of the finest cameras ever made. The 500C was introduced in 1957 and was a singlelens reflex camera with a German-made Carl Zeiss lens with built-in leaf shutters. This camera is renowned for its superb optics, reliability and compact size. For portability, Yip used two 35mm cameras, the Leicaflex and a Nikon F.
 </div>
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Kevin_tan.png">
+<center><b>Kevin Y. L Tan</b><br> President<br> Singapore Heritage Society</center></div>
+
 #### **FURTHER READINGS**
 
 **On Photographers**
@@ -76,5 +82,3 @@ Alec Pearlman, _[Rollei Manual: The Complete Book of Twin-lens Photography](http
 Dennis Laney, _[Leica Collector’s Guide](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12647423)_ (Henfield: Hove Collectors Books, 2005). (Call no. RART q771.31075 LAN)
 
 Fritz Henle, _[Fritz Henle’s Guide to Rollei Photography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2375706)_ (New York: Studio Pub &amp; Crowell, 1956). (Call no. RUR 791.3133 HEN)
-
-
