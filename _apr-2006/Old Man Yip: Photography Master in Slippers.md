@@ -28,7 +28,7 @@ In 1974, Yip was made Honorary Fellow of the Singapore’s oldest photographic s
 
 From 1966 to 1974, Yip was Vice-President of the Photographic Society of Singapore and on 15 December 1978, he was conferred Honorary Life Membership of the Society. He also served as Advisor of the Kreta Ayer Community Centre Camera Club from 1976 till his death in 1989.
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Yip Cheong Fun (1903–1989)</b><br><br>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>YIP CHEONG FUN (1903–1989)</b><br><br>
 <b>1903</b> Born in Hong Kong. Arrived in Singapore, aged 7 month.<br><br>
 <b>1909</b> Sent back to China to be cared for by relatives as his mother had to work to upkeep the family as his father died in 1907.<br><br>
 <b>1913</b>  Returned to Singapore after his relatives’ neighbours discovered that he was not cared for and notified his mother. Lived with his mother at 47 Kreta Ayer Road. Educated at a private school in Chinatown.<br><br>
@@ -52,3 +52,9 @@ Despite his success, Yip remained a humble, self-effacing individual. Looking at
 All his shots were carefully planned and executed. His deep understanding of lighting, and his uncanny ability to penetrate the soul of his subjects made him a true master. Yip was particularly fascinated by the sea and the old kampungs. In an interview published in 1986, he lamented the loss of kampungs to shoot in Singapore. When he could still drive, he and his fellow photographers would take trips up to peninsula Malaysia to capture the scenery and the fishermen at work.
 
 In 1986, Yip was persuaded by his friends and family to publish a book of his works. The result was a privately funded book, *Yip Cheong Fun’s Pictorial Collection*, featuring 100 of his photographs from 1954 to 1986. It took him two years and $26,000 to publish. He had hoped that the book would serve as a record of his work and a good reference for young enthusiasts. Yip was an amateur throughout his photographic career. It was his way of sharing his deep love for Singapore and the people who made it their home. When he died in 1989, he was clutching a fully-loaded camera, a fitting end for a man whose love for photography was an all-consuming passion.
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>THE MAN AND HIS MACHINES</b><br><br>
+A bad workman blames his tools, but good tools in the hands of an expert can make all the difference between a mediocre photograph and a masterpiece. Yip Cheong Fun shot many of earlier photographs with his German-made Rolleiflex, a 6x6 camera that first appeared in 1929.<br><br> His next camera had an even bigger negative, the 6x9 Zeiss Super Ikonta-C. This camera is a classic legend and is one of the most unique cameras ever made. The beauty of this camera is its ability to be folded up into a very small package. It was a camera with the largest body-size to negative ratio in the market. These cameras were considered the best folding cameras ever made. <br><br>Yip’s last medium-format camera was a Swiss-made Hasselblad 500C, one of the finest cameras ever made. The 500C was introduced in 1957 and was a singlelens reflex camera with a German-made Carl Zeiss lens with built-in leaf shutters. This camera is renowned for its superb optics, reliability and compact size. For portability, Yip used two 35mm cameras, the Leicaflex and a Nikon F.
+</div>
+
+
