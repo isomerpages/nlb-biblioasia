@@ -2,6 +2,7 @@ collections:
   videos:
     output: true
     order:
+      - BiblioAsia Reels/.keep
       - About the series.md
       - Singapore Storytellers.md
       - From Book to Cook/.keep
