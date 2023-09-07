@@ -33,9 +33,10 @@ Pandangan yang serupa ini juga diberikan oleh Rasiah (1999) yang mengatakan baha
 
 Alam banyak mengilhamkan penyair Abdul Ghani Hamid. Melalui mata dan hatinya beliau dapat melihat dan merasakan perubahan dan pergolakannya dan ini diluahkan dalam puisi-puisinya.
 
-![](/images/Authors/Juffri.jpg)
+<img style="width:20%;" src="/images/Authors/Juffri.jpg">
+ <div style="background-color: white;">
 <div>
-<b>Juffri Supa’at</b> is a Senior Librarian with the National Library Arts division. He curated the exhibition Abdul Ghani Hamid: Mata &amp; Hati, held at the National Library Building from 3 December 2011 to 26 February 2012. He also helped to compile the Bibliography of Singapore Malay Literature (1965-2009), published in 2011.</div>
+<b>Juffri Supa’at</b> is a Senior Librarian with the National Library Arts division. He curated the exhibition “Abdul Ghani Hamid: Mata &amp; Hati”, held at the National Library Building from 3 December 2011 to 26 February 2012. He also helped compile <i>Bibliography of Singapore Malay Literature (1965–2009)</i>, published in 2011.</div>
 
 
 #### **RUJUKAN**  
@@ -46,4 +47,4 @@ Abdul Ghani Hamid. (2003). [_Ombak terbang tinggi: (200 puisi pilihan, 1955–20
 
 Mohamed Latiff Mohamed. (2011). Abdul Ghani Hamid: Seniman Melayu dalam Bibliografi Abdul Ghani Hamid. National Library Board. 
 
-Rasiah Halil. (1999, June 27). [Karya puisi Singapura 1995–1999 mededahkan pelbagi persoalan](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19990627-1.2.29.2). _Berita Minggu_, hlm. 16. Retrieved from NewspaperSG.
+Rasiah Halil. (1999, June 27). [Karya puisi Singapura 1995–1999 mededahkan pelbagi persoalan](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19990627-1.2.29.2). _Berita Minggu_, hlm. 16. Retrieved from NewspaperSG.</div>
