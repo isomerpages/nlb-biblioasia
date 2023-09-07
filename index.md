@@ -19,13 +19,13 @@ sections:
   - infopic:
       title: Interview with Rachel Heng, Author of The Great Reclamation
       subtitle: Literature
-      description: Editor Soh Gek Han interviews Rachel Heng on her novel for the
-        BiblioAsia+ podcast
+      description: What does it take to write an internationally acclaimed historical
+        novel set in Singapore?
       button: Read the interview
       url: /vol-19/issue-4/jan-mar-2024/interview-rachel-heng/
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage1.jpg
-      alt: Image alt text
+      alt: The Great Reclamation
   - infopic:
       title: The Early History of Printing in Singapore
       subtitle: Print
