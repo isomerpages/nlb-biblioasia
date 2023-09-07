@@ -36,6 +36,15 @@ sections:
       image: /images/Vol 19 Issue 3/10 Printing/cermin mata_homepage.jpg
       alt: Image alt text
   - infopic:
+      title: What’s Become of the Seafaring Orang Seletar?
+      subtitle: podcast
+      description: The Orang Seletar used to live on boats that plied the Johor
+        Strait. They were here when Raffles landed in 1819.
+      button: Listen to biblioasia+
+      url: /podcast/orang-seletar/
+      image: /images/Podcast/ilya ep12.jpg
+      alt: Seafaring Orang Seletar
+  - infopic:
       title: New Books on Singapore History (Oct 2023)
       subtitle: Literature
       description: Introducing five new books available in the National Library’s
@@ -44,15 +53,6 @@ sections:
       url: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
       image: /images/Vol 19 Issue 3/9 New Books/book_5.png
       alt: Image alt text
-  - infopic:
-      title: The Great Reclamation
-      subtitle: podcast
-      description: Listen to author Rachel Heng talk about her latest novel, <i>The
-        Great Reclamation</i>, and her fascinating research process.
-      button: listen to the podcast
-      url: /podcast/the-great-reclamation/
-      image: /images/Podcast/rachel heng website.jpg
-      alt: The Great Reclamation
   - infopic:
       title: Revisiting the Mystery of the Missing Gold Coins
       subtitle: Archaeology
@@ -74,24 +74,6 @@ sections:
       image: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/a7spread.jpg
       alt: Image alt text
   - infopic:
-      title: What’s Become of the Seafaring Orang Seletar?
-      subtitle: podcast
-      description: The Orang Seletar used to live on boats that plied the Johor
-        Strait. They were here when Raffles landed in 1819.
-      button: Listen to biblioasia+
-      url: /podcast/orang-seletar/
-      image: /images/Podcast/ilya ep12.jpg
-      alt: Seafaring Orang Seletar
-  - infopic:
-      title: Forgotten Heroes of the Malaya Cup
-      subtitle: Sports
-      description: We remember some legendary players of the interwar years who left
-        an indelible mark on the local football scene.
-      button: Singapore’s Soccer Legends
-      url: /vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/
-      image: /images/Vol 19 Issue 3/6 Malaya Cup/malayacupheader2.jpg
-      alt: Image alt text
-  - infopic:
       title: "Lest We Forget: Kranji War Cemetery"
       subtitle: podcast
       description: Librarian Janice Loo profiles those buried or memorialised at the
@@ -101,6 +83,15 @@ sections:
       url: /podcast/kranji-war-cemetery/
       image: /images/Podcast/janice ep11.jpg
       alt: Kranji War Cemetery
+  - infopic:
+      title: Forgotten Heroes of the Malaya Cup
+      subtitle: Sports
+      description: We remember some legendary players of the interwar years who left
+        an indelible mark on the local football scene.
+      button: Singapore’s Soccer Legends
+      url: /vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/
+      image: /images/Vol 19 Issue 3/6 Malaya Cup/malayacupheader2.jpg
+      alt: Image alt text
   - infopic:
       title: The Famous Whale Skeleton at the Raffles Museum
       subtitle: Nature and the Environment
