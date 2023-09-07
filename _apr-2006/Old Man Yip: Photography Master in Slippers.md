@@ -7,7 +7,7 @@ description: Yip Cheong Fun was one Singapore’s most eminent photographers. Hi
 ---
 #### Yip Cheong Fun was one Singapore’s most eminent photographers. His ability to capture, “the decisive moment” made him unique among the photographers of his generation.
 
-<img src="/images/Vol%202%20Issue%201/OldManYip/walking%20gingerly.jpg" style="width:80%;">
+<img src="/images/Vol%202%20Issue%201/OldManYip/walking%20gingerly.jpg" style="width:50%;">
  <div style="background-color: white;">Walking Gingerly Along (1950s). <i>Photograph by Yip Cheong Fun, Courtesy of Mr Andrew Yip.</i></div>
 
 #### **Life in Chinatown**
