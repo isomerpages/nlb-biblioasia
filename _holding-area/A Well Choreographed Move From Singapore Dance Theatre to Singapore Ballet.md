@@ -30,4 +30,4 @@ While many individuals have played an important role in the company’s journey,
 
 [^1]: Janek Schergen, interview, 21 December 2022.
 
-[^2]: [Goh-Lee Soonee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/eebba42d-1162-11e3-83d5-0050568939ad), oral history interview by Mark Wong, 24 July 2012, MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 003755)  
+[^2]: [Goh-Lee Soonee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/eebba42d-1162-11e3-83d5-0050568939ad), oral history interview by Mark Wong, 24 July 2012, MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 003755)
