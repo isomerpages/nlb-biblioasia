@@ -28,5 +28,11 @@ In 1974, Yip was made Honorary Fellow of the Singapore’s oldest photographic s
 
 From 1966 to 1974, Yip was Vice-President of the Photographic Society of Singapore and on 15 December 1978, he was conferred Honorary Life Membership of the Society. He also served as Advisor of the Kreta Ayer Community Centre Camera Club from 1976 till his death in 1989.
 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Yip Cheong Fun (1903–1989)</b><br><br>
+<b>1903</b> Born in Hong Kong. Arrived in Singapore, aged 7 month.<br><br>
+<b>1909</b> Sent back to China to be cared for by relatives as his mother had to work to upkeep the family as his father died in 1907.
+
+</div>
+<br><br>
 
 
