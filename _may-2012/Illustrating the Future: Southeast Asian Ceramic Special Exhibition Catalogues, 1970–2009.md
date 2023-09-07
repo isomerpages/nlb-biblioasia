@@ -93,20 +93,20 @@ Compared with the Taiwan exhibition, some ceramic exhibits were protected within
 The exhibition focused not only on ceramic findings from mainland Southeast Asian kiln sites, but also on the fragmented, general, coarse unglazed stoneware and earthenware, tiles and brick building materials with archaeological contexts from both insular and mainland Southeast Asia. Traditionally, an intact and fine piece is selected as the major image on the front cover of an exhibition catalogue. However, in *Southeast Asian Ceramics: New Light on Old Pottery*, the editor made the bold choice of a ceramic fragment of a glazed milky-blue Sawankhalok guardian figure for the front cover. This shows that fragments were considered an important component in this exhibition.[^18] The essays in the exhibition catalogue provided many substantial research findings and new ideas on Southeast Asian ceramic studies, including kilns of Southeast Asia, research on ceramic trade within Southeast Asia and between Southeast Asia and China.[^19]
 
 <img style="width:50%;" src="/images/Vol%208%20issue%201/Asian%20Ceramic/New%20Light.jpg">
- <div style="background-color: white;">Southeast Asian Ceramics: New Light on Old Pottery (All right reserved, Southeast Asian Ceramic Society, 2009)</div>
+ <div style="background-color: white;"><i>Southeast Asian Ceramics: New Light on Old Pottery</i> (Southeast Asian Ceramic Society, 2009).</div>
 
-Apparently, both exhibition organisers indicated their interest in the hot topic of the revival, protection and promotion of Southeast Asian ceramics. The *Ceramic Road of Southeast Asia* organisers intended to raise awareness of the connection between contemporary and ancient Southeast Asian ceramics. For instance, the editors separated the special exhibition catalogue into two volumes: all contemporary ceramic art works by artists in Southeast Asia were grouped in volume one, while the ancient ceramic exhibits and related essays were compiled in volume two. They also used Singaporean ceramist Swee Tuan Pang’s artwork *Ripples* to represent the ceramic road of Southeast Asia embraced by the intriguing changeable and unpredictable nature of water, and put a Si Satchanalai celadon Kinnariewer at the right bottom corner of the front cover.[^20] The catalogue included the study of contemporary earthenware production in various pottery villages in Southeast Asia. The contemporary earthenware traditions may provide the essential link with past technologies of Southeast Asian ceramic production. In *Southeast Asian Ceramics: New Light on Old Pottery*, the curators displayed the archaeology-inspired pots of Ng Eng Teng, the grandfather of Singapore sculpture, together with the ancient potteries in the exhibition.[^21] Another possible method of making the connection between contemporary and ancient ceramics is to produce replicas of ancient ceramics to help revitalise Southeast Asian ceramic production. In the meantime, it is possible to use different approaches to integrate both contemporary and ancient Southeast Asian ceramics in the same exhibition. It also indicates that systematic analysis of the link between contemporary and ancient Southeast Asian ceramics and collaboration between contemporary ceramic artists, art historians and archaeologists within the region will further increase in the near future.
+Apparently, both exhibition organisers indicated their interest in the hot topic of the revival, protection and promotion of Southeast Asian ceramics. The *Ceramic Road of Southeast Asia* organisers intended to raise awareness of the connection between contemporary and ancient Southeast Asian ceramics. For instance, the editors separated the special exhibition catalogue into two volumes: all contemporary ceramic artworks by artists in Southeast Asia were grouped in volume one, while the ancient ceramic exhibits and related essays were compiled in volume two. They also used Singaporean ceramist Swee Tuan Pang’s artwork “Ripples” to represent the ceramic road of Southeast Asia embraced by the intriguing changeable and unpredictable nature of water, and put a Si Satchanalai celadon Kinnariewer at the bottom-right corner of the front cover.[^20] The catalogue included the study of contemporary earthenware production in various pottery villages in Southeast Asia. The contemporary earthenware traditions may provide the essential link with past technologies of Southeast Asian ceramic production. In *Southeast Asian Ceramics: New Light on Old Pottery*, the curators displayed the archaeology-inspired pots of Ng Eng Teng, the grandfather of Singapore sculpture, together with the ancient potteries in the exhibition.[^21] Another possible method of making the connection between contemporary and ancient ceramics is to produce replicas of ancient ceramics to help revitalise Southeast Asian ceramic production. In the meantime, it is possible to use different approaches to integrate both contemporary and ancient Southeast Asian ceramics in the same exhibition. It also indicates that systematic analysis of the link between contemporary and ancient Southeast Asian ceramics and collaboration between contemporary ceramic artists, art historians and archaeologists within the region will further increase in the near future.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%201/Asian%20Ceramic/Inspired%20Pots.jpg">
- <div style="background-color: white;">Archaeologyinspired pots by the grandfather of Singapore sculpture, Ng Eng Teng in NUS Museums, Singapore</div>
+ <div style="background-color: white;">Archaeology-inspired pots by the grandfather of Singapore sculpture, Ng Eng Teng, in NUS Museums, Singapore.</div>
 
 #### **Discussion**
 
-As an object-oriented display, a Southeast Asian ceramic special exhibition is more heavily reliant upon ceramic objects that form the foundation of our understanding of ceramics than on any other form of interpretive media. However, ceramic exhibitions are always lacking in dynamic and participatory elements.[^22] Is it necessary to put a protective glass front on all ceramic exhibits, thus making them untouchable art objects? Some exhibits, such as heirloom jars, kiln wasters, ceramic fragments of recent date, and contemporary earthenware are common pottery types that can be found in tribal houses, ceramic workshops or elsewhere. They are essential components of Southeast Asian ceramic studies and should not be treated as rare, precious, individual and unusual pieces in exhibitions. As the eminent French archaeologist and Southeast Asian ceramic scholar Bernard P. Groslier pointed out, “The amateurs (the hunters of rare and precious objects) risk selecting only ‘exceptional’ pieces, and end up with only a partial and prejudiced view of this (Southeast Asian ceramic) art…\[I\]n 1981, due to the absence of systematic studies, identification and dating are frequently done ‘negatively’ by ‘impressionist’ comparisons…it will be dated by ‘likeness’ to some pieces seen through the glass of a museum showcase or during a visit to a colleague or in a sales catalogue”.[^23] Thirty years later, as more archaeological data has been accumulated and more in-depth and comprehensive studies have been done by researchers, this unbalanced situation has improved.
+As an object-oriented display, a Southeast Asian ceramic special exhibition is more heavily reliant on ceramic objects that form the foundation of our understanding of ceramics than on any other form of interpretive media. However, ceramic exhibitions are always lacking in dynamic and participatory elements.[^22] Is it necessary to put a protective glass front on all ceramic exhibits, thus making them untouchable art objects? Some exhibits, such as heirloom jars, kiln wasters, ceramic fragments of recent date, and contemporary earthenware are common pottery types that can be found in tribal houses, ceramic workshops or elsewhere. They are essential components of Southeast Asian ceramic studies and should not be treated as rare, precious, individual and unusual pieces in exhibitions. As the eminent French archaeologist and Southeast Asian ceramic scholar Bernard P. Groslier pointed out, “The amateurs (the hunters of rare and precious objects) risk selecting only ‘exceptional’ pieces, and end up with only a partial and prejudiced view of this (Southeast Asian ceramic) art… \[I\]n 1981, due to the absence of systematic studies, identification and dating are frequently done ‘negatively’ by ‘impressionist’ comparisons… it will be dated by ‘likeness’ to some pieces seen through the glass of a museum showcase or during a visit to a colleague or in a sales catalogue.”[^23] Thirty years later, as more archaeological data has been accumulated and more in-depth and comprehensive studies have been done by researchers, this unbalanced situation has improved.
 
-What are the future trends in Southeast Asian ceramic studies? Based on the above analysis, topics on archaeological ceramic findings, shipwreck ceramics in the region, the linkage between contemporary and ancient Southeast Asian ceramics, and comparisons between Southeast Asian and Chinese ceramics will become more significant in future studies. Moreover, special exhibitions organised by various organisations from different countries, displaying cross-border Southeast Asian ceramic findings with proper dating and provenance information for comparison, and accompanied by exhibition catalogues containing several substantial essays and informative illustrations of ceramic exhibits will not be only a dream. The distinctive characters of Southeast Asian ceramic traditions—unity and diversity—will then emerge in their fullness through exhibitions and their catalogues.
+What are the future trends in Southeast Asian ceramic studies? Based on the above analysis, topics on archaeological ceramic findings, shipwreck ceramics in the region, the links between contemporary and ancient Southeast Asian ceramics, and comparisons between Southeast Asian and Chinese ceramics will become more significant in future studies. Moreover, special exhibitions organised by various organisations from different countries, displaying cross-border Southeast Asian ceramic findings with proper dating and provenance information for comparison, and accompanied by exhibition catalogues containing several substantial essays and informative illustrations of ceramic exhibits will not only be a dream. The distinctive characters of Southeast Asian ceramic traditions – unity and diversity – will then emerge in their fullness through exhibitions and their catalogues.
 
-#### **Acknowledgement**
+#### **Acknowledgements**
 The author wishes to acknowledge the contributions of Ms Louise Allison Cort, Curator for Ceramics, Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution, Washington, D.C., and Associate Professor John N. Miksic, Southeast Asian Studies Programme, National University of Singapore, in reviewing the paper.
 
 <div>
@@ -130,9 +130,9 @@ Chen, T.H. (2009). Recognizing Southeast Asia. In M-L. Hsieh (Ed.), _The ceramic
 
 Chia, A. (2009). Preface. In J.N. Miskic (Ed.), [_Southeast Asian ceramics: New light on old pottery_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945). Singapore: Southeast Asian Ceramic Society. (Call no.: RSING 738.09595 SOU)
 
-Cort, L.A., Farhad, M. &amp; Gunter, A.C. (2000). _Asian traditions in clay: The hague gifts_. Washington, D.C.: Freer Gallery of Art and Arthur M.Sackler Gallery, Smithosonian Institution.
+Cort, L.A., Farhad, M. &amp; Gunter, A.C. (2000). _Asian traditions in clay: The Hague gifts_. Washington, D.C.: Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution.
 
-Dofflemyer, V. (1989). [_Southeast Asian ceramics from the collection of Margot and Hans ries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5424675). Pasadena: Paciific Asia Museum. (Call no.: RSEA 738.309593074 DOF)
+Dofflemyer, V. (1989). [_Southeast Asian ceramics from the collection of Margot and Hans Ries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5424675). Pasadena: Paciific Asia Museum. (Call no.: RSEA 738.309593074 DOF)
 
 Drzik, A.M. (1983). [_Southeast Asian ceramics from the collection of Mr &amp; Mrs Andrew M.Drzik_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4191882). Tokyo: A.M. Drzik. (Call no.: RSING 738.0959 DRZ)
 
@@ -197,27 +197,27 @@ Young, C.M., Dupoizat, M.F. &amp; Lane, E.W. (Eds.). (1982). [_Vietnamese cerami
 #### **NOTES**
 
     
-[^1]: [Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7143540), 2009, p. 5. .
+[^1]: [Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7143540), 2009, p. 5.
 
-[^2]: See Belcher, 1991, pp. 51—52 and [Brown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234782), 2009.
+[^2]: See Belcher, 1991, pp. 51–52 and [Brown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234782), 2009.
 
-[^3]: [Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7143540), Sep­—Dec 2009, pp. 6—7.
+[^3]: [Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7143540), Sep–Dec 2009, pp. 6–7.
 
 [^4]: For example, see Guy &amp; Stevenson, 1997
 
-[^5]: Yamazaki, 1996, p. 137. About Burmese ceramics from the Thai-Burma border, see Roxanna Brown’s book review, sep 2004, p. 2.
+[^5]: Yamazaki, 1996, p. 137. About Burmese ceramics from the Thai-Burma border, see Roxanna Brown’s book review, Sep 2004, p. 2.
 
-[^6]: Some Southeast Asian ceramic exhibits were from the Art Museum of University of Singapore. See [Sabapathy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11114469) 2002, pp. 16—19.
+[^6]: Some Southeast Asian ceramic exhibits were from the Art Museum of University of Singapore. See [Sabapathy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11114469) 2002, pp. 16–19.
 
-[^7]: [Dofflemyer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5424675), 1989, pp. vi—ix.
+[^7]: [Dofflemyer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5424675), 1989, pp. vi–ix.
 
-[^8]: See Cort, et al. 2000, “Foreword” by Milo Cleveland Beach, Director, Freer Gallery of Art and Arthur M. Sackler Gallery, pp. 6—7.
+[^8]: See Cort, et al. 2000, “Foreword” by Milo Cleveland Beach, Director, Freer Gallery of Art and Arthur M. Sackler Gallery, pp. 6–7.
 
-[^9]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, pp. 71—99.
+[^9]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, pp. 71–99.
 
 [^10]: [Brown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234782), 2009, pp. 17, 29; [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, p. 59.
 
-[^11]: [White](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2622316), 1982, pp. 12—21, 29.
+[^11]: [White](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2622316), 1982, pp. 12–21, 29.
 
 [^12]: The travelling exhibition on Sunken Treasures of Brunei Darussalam from 2003 to 2005 in Australia is an example. See [Richards](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12604668), 2003.
 
@@ -225,17 +225,17 @@ Young, C.M., Dupoizat, M.F. &amp; Lane, E.W. (Eds.). (1982). [_Vietnamese cerami
 
 [^14]: Chen, 2009, p. 15.
 
-[^15]: Brown, 2009, pp. 60—61.
+[^15]: Brown, 2009, pp. 60–61.
 
 [^16]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, p. 7.
 
 [^17]: [Chia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, p. 7.
 
-[^18]: In 1993, the Tokyo National Museum held a special exhibition entitled Korean and Other Asian Ceramics Excavated in Japan (one quarter of the exhibits were Southeast Asian ceramics). Most of the ceramic exhibits were fragments. See Tokyo National Museum, 2000.
+[^18]: In 1993, the Tokyo National Museum held a special exhibition entitled *Korean and Other Asian Ceramics Excavated in Japan* (one quarter of the exhibits were Southeast Asian ceramics). Most of the ceramic exhibits were fragments. See Tokyo National Museum, 2000.
 
-[^19]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, pp. 49—99.
+[^19]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, pp. 49–99.
 
-[^20]: See Hsieh, 2009, vol. I, pp. 122—123; vol. II, p. 70.
+[^20]: See Hsieh, 2009, vol. I, pp. 122–123; vol. II, p. 70.
 
 [^21]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945), 2009, p. 18.
 
