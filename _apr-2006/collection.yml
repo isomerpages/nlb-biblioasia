@@ -2,5 +2,6 @@ collections:
   apr-2006:
     output: true
     order:
+      - "Old Man Yip: Photography Master in Slippers.md"
       - Singapore Art, Nanyang Style.md
       - Director's Column.md

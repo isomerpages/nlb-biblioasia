@@ -21,6 +21,8 @@ You’ve really made history come alive. And you’ve made it personal. We’ve 
 **Rachel**  
 I’ve always been interested in land reclamation. I went to Ngee Ann Primary in Marine Parade, which is built on reclaimed land. And I remember being in probably Primary One, and the teacher saying, “This floor that we’re on right now – this used to be the sea.” This idea that the land didn’t used to be there until quite recently, or that you could make land where there wasn’t land seemed a really exhilarating, but also a frightening thing for a child to hear. And I think that feeling kind of persisted throughout my life in Singapore, because you do see the landscape shift so much when you grow up here, and probably less so in my generation, much more so in the past.
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/jQjegt2YxCc" frameborder="0" allowfullscreen=""></iframe></div>
+
 **Gek Han**  
 <i>The Great Reclamation</i> is your second novel and your first historical fiction work. What do you find challenging or interesting about writing historical fiction?
 

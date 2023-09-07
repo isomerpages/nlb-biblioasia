@@ -27,7 +27,20 @@ Combined Services (1935–39)|6|4 wins &amp; 2 draw|12|6|
 Royal Air Force (1940–41)|2|2 wins|4|0|
 Army (1940–41)|2|0 wins &amp; 2 draws|4|4|
 Selangor (1925–38)|6|3 wins, 1 draw, &amp; 2 losses|15|7|
-||52|43 wins, 7 draws &amp; 2 losses|210|41|
+||52|43 wins, 7 draws &amp; 2 losses|210|41|<br>
+
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b> MALAYA CUP VENUES</b><br><br>
+The earlier home matches in the Malaya Cup were played on the Padang. Matches between 1921 and 1923 were played in the field that is close to the Singapore Recreation Club. After Anson Road Stadium (also known as Singapore Stadium) opened in 1924, this became the main venue for Malaya Cup matches until 1941.<br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/mbe%20image.jpg"><br><br>
+The pitch had originally been part of the Malaya Borneo Exhibition (MBE) in 1922. The grounds were realigned and enlarged, with small grandstands erected along the touchlines. For the remaining perimeter vantage points, there was an enclosure with a 12-foot-high grass bank. The stadium had an official capacity of 4,000 though some games would draw huge crowds.<br><br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/anson%20image.jpg"><br>
+       Malaya Cup games at the Anson Road Stadium were not the most popular spectator events though. Senior League matches involving SCFA and contests against touring teams drew the biggest crowds to the stadium. For instance, Batavia Hercules from Java played against SCFA in a match that attracted 8,535 fans, while Singapore’s 5–0 victory over Malacca in a preliminary round of the Malaya Cup, also in 1927, was witnessed by 6,539 fans.<br><br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/maxwell.jpg&quot;"><br><br>	
+
+	
+	
+</div><br><br>
+
 
 #### **The Beginnings of the HMS Malaya Cup**
 
@@ -286,6 +299,60 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 5 Jul 1941:<br>6–0|Malacca|Tan Lai Chuan (3), Ha Tee Siang (2) &amp; Yueng Quan Chong|
 18 Jul 1941:<br>1–0|RAF|Tan Lai Chuan|
 26 Jul 1941:<br>1–1|Army|Not reported|
+
+
+ | Games | Opponent | Scores for Singapore TEST|
+| -------- | -------- | -------- |
+|24 Sep 1921: 2–0|Malacca|Roy Smith &amp; C.M. Jamieson|
+|19 Aug 1922: 3–0|Negri Sembilan|Roy Smith, C.M. Jamieson &amp; Chia Kwang Hung|
+11 Aug 1923: 4–1|Johore|Roy Smith (3) &amp; C.M. Jamieson|
+18 Aug 1923: 3–0|Malacca|Roy Smith (2) &amp; Lim Yong Liang|
+2 Aug 1924: 5–0|Negri Sembilan|Roy Smith, Yahya Yatim (2) &amp; R.C. Rogers (2)|
+24 Aug 1925: 7–1|Malacca|Roy Smith (2), Lim Yong Liang (2), Foong Un Sun (2) &amp; Cheong Chee Lim|
+29 Aug 1925: 2–1|Selangor|Roy Smith &amp; Lim Yong Liang|
+21 Aug 1926: 9–1|Negri Sembilan|Roy Smith (3), Lim Yong Liang (3), Ee Chan Hee, Wan Puteh &amp; 1 unknown|
+16 Jul 1927: 5–0|Malacca|Dolfattah (2), K.H. Macfarlane &amp; Yee Cheok Wah (2)|
+18 Aug 1928: 8–2|Negri Sembilan|Dolfattah (4), Lim Yong Liang (3) &amp; Mat Noor|
+17 Aug 1929: 5–0|Malacca|Dolfattah (5)|
+23 Aug 1929: 4–2|Johore|Dolfattah (2) &amp; Norman Fyfe (2)|
+31 Aug 1929: 2–2|Selangor|Mat Noor (2)|
+18 Jul 1930: 6–0|Johore|Dolfattah (2), Dollah Zainol (2) &amp; Syed Ahmad (2)|
+26 Jul 1930: 2–0|Negri Sembilan|ShariffMadon &amp; Yahya bin Yatim|
+20 Sep 1930: 3–0|Selangor|Dolfattah, Dollah Zainol &amp; Choy Khun Onn|
+18 Jul 1931: 3–3|Malacca|Dolfattah (2) &amp; Chia Keng Hock|
+17 Jun 1932: 7–1|Johore|Dolfattah (4), Dollah Zainol (2) &amp; John Then| 
+16 Jul 1932: 4–1|Negri Sembilan|Dolfattah (2) &amp; Dollah Zainol|
+29 Jul 1932: 2–1|Malaya Command|Mat Noor &amp; Dollah Zainol|
+23 Jun 1932: 7–1|Johore|Dolfattah (2), Chia Keng Hock (2), Mat Noor (2) &amp; Mahmood|
+8 Jul 1933: 6–0|Malacca|Dolfattah (3), Mat Noor (2) &amp; Chia Keng Hock|
+22 Jul 1933: 2–0|Malaya Command|Tay Kwee Leng &amp; Mat Noor|
+5 Aug 1933: 8–2|Selangor|Chia Keng Hock (3), Mat Noor (2), Shariff Madon (2) &amp; Dolfattah|
+29 Jun 1934: 9–0|Johore|Chia Keng Hock (4), Hoi San (2), Norman Fyfe (2) &amp; A. Donald|
+7 Jul 1934: 4–0|Negri Sembilan|Chia Keng Hock (4)|
+21 Jul 1934: 2–2|Malaya Command|Chia Keng Hock (2)
+21 Jun 1935: 8–0|Johore|Chia Keng Hock, Mat Noor (3), A.G. Valberg (2) &amp; Choy Khoon Onn (2)|
+6 Jul 1935: 7–1|Malacca|Chia Keng Hock (2), Mat Noor (3) &amp; Mahmood (2)|
+20 Jul 1935: 2–2|Combined Services|Chia Keng Hock &amp; Mahmood|
+29 May 1936: 6–0|Johore|Chia Keng Hock (2), Taib bin Awang (3) &amp; Dollah Zainol|
+4 Jul 1936: 0–1|Selangor|No goals|
+19 Jun 1937: 4–0|Malacca|George Day (3) &amp; Soon Lye|
+9 Jul 1937: 5–1|Johore|R.C. Oehlers (2), Bakri &amp; Gan Kee Siang (2)|
+24 Jul 1937: 2–1|Combined Services|Gan Kee Siang &amp; James Goh|
+18 Jun 1938: 3–2|Negri Sembilan|Shariff Madon, Tan Lai Chuan &amp; Taib bin Awang|
+8 Jul 1938: 5–0|Johore|George Day (2), Tan Lai Chuan (2) &amp; Gan Kee Siang|
+16 Jul 1938: 2–2|Combined Services|George Day &amp; Gan Kee Siang|
+23 Jul 1938: 1–0|Combined Services|Yuen Quan Chong|
+6 Aug 1938: 0–1|Selangor (final)|No goals|
+23 Jun 1939: 3–2|Johore|Yahya bin Yatim, Tan Lai Chuan &amp; Yuen Quan Chong|
+8 Jul 1939: 5–1|Malacca|Yuen Quan Chong (2), Mat Noor, Yahya bin Yatim &amp; Ha Tee Siang|
+22 Jul 1939: 1–0|Combined Services|Yahya bin Yatim|
+6 Jul 1940: 4–1|Negri Sembilan|Taib bin Awang, Tan Lai Chuan (2) &amp; Shariff Madon|
+19 Jul 1940: 3–0|RAF (Royal Air Force)|Tan Lai Chuan &amp; Shariff Madon (2)|
+27 Jul 1940: 3–3|Army|Taib bin Awang, Tan Lai Chuan &amp; Yahya bin Yatim|
+13 Jun 1941: 5–0|Johore|Tan Lai Chuan (3), Ha Tee Siang (2) &amp; J.C. Willoughby|
+5 Jul 1941: 6–0|Malacca|Tan Lai Chuan (3), Ha Tee Siang (2) &amp; Yueng Quan Chong|
+18 Jul 1941: 1–0|RAF|Tan Lai Chuan|
+26 Jul 1941: 1–1|Army|Not reported|
 
 <div style="background-color: white;">
 <br><br>

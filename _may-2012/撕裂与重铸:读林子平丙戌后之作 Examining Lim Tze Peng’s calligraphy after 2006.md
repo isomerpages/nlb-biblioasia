@@ -1,11 +1,11 @@
 ---
 title: 撕裂与重铸:读林子平丙戌后之作 Examining Lim Tze Peng’s calligraphy after 2006
 permalink: /vol-8/issue-1/may-2012/lee-tze-peng-calligraphy/
-description: "Examining Lim Tze Peng’s calligraphy after 2006. "
+description: Examining Lim Tze Peng’s calligraphy after 2006.
 ---
-Singapore veteran artist and 2003 Cultural Medallion Award winner Lim Tze Peng is known for his continuous efforts to surpass his own achievements and his open-mindedness in exploring new techniques and styles of painting. In August 2008, he held an exhibition titled *Inroads – Lim Tze Peng’s New Ink Work* at the Art Retreat Museum in Singapore. His works of creative imagination and skills in integrating modern and traditional techniques impressed not just local art enthusiasts but also attracted overseas attention. He was subsequently invited to exhibit his works in overseas art galleries such as the National Art Museum of China and Shanghai’s Liu Hai Su Art Museum.
+Singapore veteran artist and 2003 Cultural Medallion Award winner Lim Tze Peng is known for his continuous efforts to surpass his own achievements and his open-mindedness in exploring new techniques and styles of painting. In August 2008, he held the exhibition, *Inroads – Lim Tze Peng’s New Ink Work*, at the Art Retreat Museum in Singapore. His works of creative imagination and skills in integrating modern and traditional techniques impressed not just local art enthusiasts but also attracted overseas attention. He was subsequently invited to exhibit his works in overseas art galleries such as the National Art Museum of China and Shanghai’s Liu Hai Su Art Museum.
 
-In this article, Yeo Mang Thong examines the changes in Lim Tze Peng’s painting style after the year 2006, in particular the shift from “painting what one sees” to “painting from one’s heart”. In Yeo’s opinion, the *Inroads* series exhibited in 2008 was a good representation of Lim’s switch from realistic painting to works that are relatively more abstract. He observes that Lim derives his artistic inspiration from the emotions that he senses in his surroundings. Yeo also notes similar shifts in the style of Lim’s Chinese calligraphy works, from neater and cleaner pieces to those with freehand strokes, evoking a lively and vibrant aura. Yeo views this change in style as a result of Lim’s carefree life after retirement, and also Lim’s perseverance in achieving higher levels of artistic excellence.
+In this article, Yeo Mang Thong examines the changes in Lim Tze Peng’s painting style after 2006, in particular, the shift from “painting what one sees” to “painting from one’s heart”. In Yeo’s opinion, the *Inroads* series exhibited in 2008 was a good representation of Lim’s switch from realistic painting to works that are relatively more abstract. He observes that Lim derives his artistic inspiration from the emotions that he senses in his surroundings. Yeo also notes similar shifts in the style of Lim’s Chinese calligraphy works, from neater and cleaner pieces to those with freehand strokes, evoking a lively and vibrant aura. Yeo views this change in style as a result of Lim’s carefree life after retirement and his perseverance in achieving higher levels of artistic excellence.
 
 Learn more about Lim Tze Peng by visiting the National Online Repository of the Arts (NORA) at <a href="https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx">https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx</a>. 
 
@@ -13,7 +13,7 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 <div style="background-color: white;"><center>《心向》</center></div>
 
 
-林子林子平是新加坡艺坛上具有强烈自我超越意识的书法家、画家。 从事艺术，必须敢于探索、勇于创新，才能掣鲸鱼于碧海。2006（农历丙戌）年，已 是耄耋之年的林子平，苦思冥想，甚至时有“不知如何下笔”的感叹！虽然如此，他 仍终日笔耕不辍，殚精竭虑，在艺术创作的道路上，摸索前进，以恢宏的气度，深厚 的传统笔法和天马行空的想象力，别开异径，创造一种迥异于之前的书画作品。
+林子平是新加坡艺坛上具有强烈自我超越意识的书法家、画家。 从事艺术，必须敢于探索、勇于创新，才能掣鲸鱼于碧海。2006（农历丙戌）年，已 是耄耋之年的林子平，苦思冥想，甚至时有“不知如何下笔”的感叹！虽然如此，他 仍终日笔耕不辍，殚精竭虑，在艺术创作的道路上，摸索前进，以恢宏的气度，深厚 的传统笔法和天马行空的想象力，别开异径，创造一种迥异于之前的书画作品。
 
 
 对衰年变法的作品，林子平发出一句豪语：“要嘛，就是最好；要嘛，就是最坏， 我不走中间路线。”[^1]
@@ -70,7 +70,7 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 这种“疏可走马、密不透风”的艺术结构语言与 收集在《林子平墨迹》（1991年出版）的书法是截 然不同的。它与前者既不是一贯的，也缺乏沿袭性， 是一种撕裂的；重铸的、崭新的艺术结构语言。一如 前文所述，丙戌年之后，林子平的创作观是“以前是 我见我画，现在是我思我画”，写的已经不再是物 象而是心象，并以大写意取代之前的细腻精致。这， 显然也酝酿出书法创造上的新思维。这两幅作品，笔 墨随着情性飞动，毫不造作，世俗的美丑、法度，甚 至毁誉，均抛于九霄云外，形成了一种结构天成的艺 术美。说它是重铸的，整个外貌与前期作品相比令人 耳目一新，然而内涵的笔墨还是传统的；说它是崭新 的，因为纵观新加坡第一代书法家，如施香沱、陈人 浩、黄火若、黄载灵、黄勖吾、崔大地或者颜绿等， 他们在章法的处理上，一般都服膺于传统。林子平不 甘画地为牢，力求创新。就这个意义上说，他给新加 坡的书法艺术呈现出一个不一样的风貌。这两幅书法 给人的视觉享受不在于哪一个字意态奇逸，哪一个字 精神飞动，而是整幅字中的画意，如“惟见长江天际 流”数字，给读者的视觉，恰似一江浩浩东去的春水 向天际远逝。林子平这种敢于打破传统，极力表达个 性的主观意念，应该是人书俱老，水到渠成的自然变 化。自我超越、创新，应该建立在尊重固有的艺术文 化以及自身深厚传统笔法的基础上，否则是胡搞！这 与一般标榜前卫艺术的“书画家”，以低劣的手法， 哗众取宠，蛊惑一味追逐时尚的人士，是不可同日而 言的。
 
-附图1-3这三幅是林老过渡到“疏可走马、密不 透风”的艺术语言的作品，其自我超越而摸索前进的 心路历程，从中看出端倪。
+附图1–3这三幅是林老过渡到“疏可走马、密不 透风”的艺术语言的作品，其自我超越而摸索前进的 心路历程，从中看出端倪。
 
 <img style="width:50%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/柳宗元《江雪》.JPG">
  <div style="background-color: white;">柳宗元《江雪》<br> 千山鸟飞绝，万径人踪灭。<br> 孤舟蓑笠翁，独钓寒江雪。<br> (原作为国家图书馆许少全藏品)</div>
@@ -95,16 +95,16 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 
 <div>
-<b>Yeo Mang Thong</b> has served the Ministry of Education and other educational institutions in various capacities since 1967. He obtained his MA from the Department of Chinese Studies, National University of Singapore in 1986. His 1992 publication titled 新加坡战前华人美术史论集 \[Essays on the History of Pre-war Chinese Painting in Singapore\] has become one of the most important references for scholars researching the area of pre-war Singapore art. He was also the editorial advisor for Braddell Heights Chinese Traditional Arts Centre’s 2001 publication 新加坡第一代书画家翰墨集珍 \[Collection of Ink Painting and Calligraphic Works by Singapore’s First Generation Artists]. </div>
+<b>Yeo Mang Thong</b> has served the Ministry of Education and other educational institutions in various capacities since 1967. He obtained his MA from the Department of Chinese Studies, National University of Singapore in 1986. His 1992 publication “新加坡战前华人美术史论集” [Essays on the History of Pre-war Chinese Painting in Singapore] has become one of the most important references for scholars researching pre-war Singapore art. He was also the editorial advisor for Braddell Heights Chinese Traditional Arts Centre’s 2001 publication 《新加坡第一代书画家翰墨集珍》 [Collection of Ink Painting and Calligraphic Works by Singapore’s First Generation Artists]. </div>
 
 
 #### **REFERENCES**
 
   
 
-[^1]:  吴启基《林子平高龄变法》, 见《联合早报•艺苑》, 2008年8月12日。
+[^1]: 吴启基《林子平高龄变法》, 见《联合早报•艺苑》, 2008年8月12日。
 
-[^2]: 《范迪安《献辞》, 见《心向: 林子平水墨历程》 （新加坡: 新加坡美术馆出版2009 年4月。
+[^2]: 范迪安《献辞》, 见《心向: 林子平水墨历程》 (新加坡: 新加坡美术馆出版2009 年4月)。
 
 [^3]: 见张夏帷编《心向−−林子平新水墨》(新 加坡: Art Retreat Ltd, 2008), 页18。
 
@@ -112,10 +112,10 @@ Learn more about Lim Tze Peng by visiting the National Online Repository of the 
 
 [^5]: 同注3, 页41。
 
-[^6]: 《对话“新加坡之子”林子平先生》, 见http://zj.cangcn.com/u/3068.shtml
+[^6]: 《对话“新加坡之子”林子平先生》, 见http://zj.cangcn.com/u/3068.shtml.
 
 [^7]: 同注3。
 
-[^8]:  同注3, 页145, 146。
+[^8]:  同注3, 页145–46。
 
-[^9]:  见《求索》Singapore Tyler Print Institute出版, 2006) 页6。
+[^9]:  见《求索》(Singapore Tyler Print Institute出版, 2006) 页6。
