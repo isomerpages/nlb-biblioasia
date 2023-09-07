@@ -3,16 +3,14 @@ title: 新加坡华文 书业历史简述 A brief history of the Chinese book in
 permalink: /vol-8/issue-1/may-2012/singapore-history-chinese-book/
 description: A brief history of the Chinese book industry in Singapore.
 ---
-#### A brief history of the Chinese book industry in Singapore.
-
 The beginnings of the Chinese book industry in Singapore can be traced back to the 1910s, when book companies from China set up branches here. The Commercial Press and Chung Hwa Book Company were the first and sold mainly their own publications and textbooks. In the 1920s, when Cheng Hing Company (later known as World Book Company) and Shanghai Book Company were established, a wider variety of Chinese publications from China became available. By the early 1940s, the number of Chinese bookstores in Singapore had increased to 22, mostly located at South Bridge Road. The five largest were The Commercial Press, Chung Hwa Book Company, World Book Company, Shanghai Book Company and Nanyang Book Company, which was founded locally in 1935.
 
-Although many bookstores were destroyed during World War II, the industry managed to recover and began to publish local edited works, as there was a shortage of supply from China due to civil wars. During the boom of the 1950s and early 1960s, more local bookstores were set up for students. The Youth Book Company, a major industry player, led the trend of publishing local works, which helped to encourage the creation of a local literary scene.
+Although many bookstores were destroyed during World War II, the industry managed to recover and began to publish local edited works, as there was a shortage of supply from China due to civil wars. During the boom of the 1950s and early 1960s, more local bookstores were set up for students. The Youth Book Company, a major industry player, led the trend of publishing local works, which helped encourage the creation of a local literary scene.
 
-However the industry suffered a setback in the 1970s, when changes in Singapore’s education policy gave less emphasis to the Chinese language and spurred the growth of English bookstores. The closure of Nanyang University and the enforced merger of *Nanyang Siang Pau* and *Sin Chew Jit Poh* in the 1980s marked the decline of the Chinese book industry in Singapore. Though the industry today is still supported by demand from the older generation of readers, the internet has made business survival even more challenging.
+However, the industry suffered a setback in the 1970s, when changes in Singapore’s education policy gave less emphasis to the Chinese language and spurred the growth of English bookstores. The closure of Nanyang University and the enforced merger of *Nanyang Siang Pau* and *Sin Chew Jit Poh* in the 1980s marked the decline of the Chinese book industry in Singapore. Though the industry today is still supported by demand from the older generation of readers, the internet has made business survival even more challenging.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%201/ChineseBook/Crowd.jpg">
- <div style="background-color: white;">五十 至六十年代是读书风气旺盛的时代。图为1965年大减价售书时的盛况。（蒙上海书局提供）</div>
+ <div style="background-color: white;">五十至六十年代是读书风气旺盛的时代。图为1965年大减价售书时的盛况。（蒙上海书局提供）</div>
 
 新加坡是一个移民城市国家，自1819年开埠至今已 经走过一百九十多年历史。在今天500多万人口中， 超过75%的人口比例是华人。而这些华人，他们或 者是移民的后代，或者是新移民。他们将别无选择， 无从逃避地面对身为海外华人对于自己母族语言，文 化，传统，习俗的传承选择。这不是什么问题，而仅 仅是一个现实存在，一个需要面对的事实。
 
@@ -26,17 +24,17 @@ However the industry suffered a setback in the 1970s, when changes in Singapore�
 #### **新加坡华文书业历史分期**
 
 **萌芽时期** <br>
-1 、1912年商务印书馆在新加坡设立分 馆<br> 2、1917年中华书局在新加坡设立新加 坡分局
+1 . 1912年商务印书馆在新加坡设立分 馆<br> 2. 1917年中华书局在新加坡设立新加 坡分局
 
-**起步阶段** <br>1、上海书局的设立<br> 2、世界书局的设立<br> 3、南洋书局的设立
+**起步阶段** <br>1. 上海书局的设立<br> 2. 世界书局的设立<br> 3. 南洋书局的设立
 
-**初步发展**<br> 1、战前新加坡华文书业 <br>2、日据时期新加坡华文书业
+**初步发展**<br> 1. 战前新加坡华文书业 <br>2. 日据时期新加坡华文书业
 
-**重要转型**    八十年代华文书业<br>
+**重要转型** 八十年代华文书业<br>
 
-**缓慢苏 九**&nbsp;  十年代华文书业<br>
+**缓慢复苏** 九十年代华文书业<br>
 
-**新的机遇**&nbsp;   二 十一世纪第一个十年华文书业
+**新的机遇**  二十一世纪第一个十年华文书业
 
 #### **萌芽时期**
 
@@ -90,7 +88,7 @@ However the industry suffered a setback in the 1970s, when changes in Singapore�
 五十年代，本地渐已形成完整华文教育体系。南洋大 学在整个南洋地区享有盛誉，受到华人社会的高度重 视和极力推崇，学生汇聚，本地人口膨胀，学校教育 发展蓬勃，尤其英殖民当局拟定一套“十年教育计 划”(Ten-year Education Programme)，即政府承担 免费六年小学教育，照顾到更多学生入学。工商业发 展，就业人口增加，无论是学生还是社会人士，整个 社会非常尊重知识，重视文化和教育。
 
 <img style="width:50%;" src="/images/Vol%208%20issue%201/ChineseBook/Group%20Outside%20Shop.jpg">
- <div style="background-color: white;">1940年上海书局热烈庆祝建店15周年纪念， 书局同仁在书店门前合影。（蒙上海书局提供</div>
+ <div style="background-color: white;">1940年上海书局热烈庆祝建店15周年纪念， 书局同仁在书店门前合影。（蒙上海书局提供)</div>
 
 但由于殖民地政府对于中国出版物的限制，华 文书的主要来源遭断绝，香港台湾书籍取代中国货 源，开始在本地市场兴盛。同时，小型传统书店应运 而生，大量涌现，书店数量大大增加，如学生书店、 青年书局、南大书店、中学生书店等就在那个时代应 运而生，表现活跃。
 
