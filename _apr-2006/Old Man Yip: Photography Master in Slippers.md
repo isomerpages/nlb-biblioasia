@@ -35,7 +35,7 @@ From 1966 to 1974, Yip was Vice-President of the Photographic Society of Singapo
 <b>1936</b> After working some time as a supervisor with United Engineers, Yip saved up enough money to buy a Rolleiflex camera.<br><br>
 <b>1942</b> Quit United Engineers and started small engineering workshop at the back of his house. Also built a dark room.<br><br>
 <b>1946</b> Continued operating engineering workshop. Branched into various other enterprises, including tin toy-making, joss-stick manufacturing and ground-tea powder shampoo.<br><br>
-<b>1952</b> First major success at an international competition. Rowing at Dawn won him a string of top prizes and gold medals in international competitions. Accepted for exhibition in over 80 countries.<br><br>
+<b>1952</b> First major success at an international competition. <i>Rowing at Dawn</i> won him a string of top prizes and gold medals in international competitions. Accepted for exhibition in over 80 countries.<br><br>
 <b>1957</b> Made Associate of the Royal Photographic Society, UK.<br><br>
 <b>1960</b> Joined Tien Wah Press as commercial photographer and technician.<br><br>
 <b>1961</b> Honorary Fellowship of the Royal Photographic Society, UK<br><br>
@@ -45,4 +45,11 @@ From 1966 to 1974, Yip was Vice-President of the Photographic Society of Singapo
 <b>1978</b> Honorary Life Membership, Photographic Society of Singapore<br><br>
 <b>1980</b> Honorary Outstanding Photographer of the Century, Photographic Society of New York 
 </div>
-<br><br>
+
+#### **The Master Wears Slippers**
+Despite his success, Yip remained a humble, self-effacing individual. Looking at him, sitting at his provision shop, no one could imagine that the old shopkeeper with a benign smile was one of the world’s great photographers. He was always willing to share his techniques with younger photographers and was regarded by all his colleagues as a perfect gentleman. Dressed in singlet, shorts and slippers, Yip enjoyed nothing more than waking up before dawn in search of a perfect picture.
+
+All his shots were carefully planned and executed. His deep understanding of lighting, and his uncanny ability to penetrate the soul of his subjects made him a true master. Yip was particularly fascinated by the sea and the old kampungs. In an interview published in 1986, he lamented the loss of kampungs to shoot in Singapore. When he could still drive, he and his fellow photographers would take trips up to peninsula Malaysia to capture the scenery and the fishermen at work.
+
+In 1986, Yip was persuaded by his friends and family to publish a book of his works. The result was a privately funded book, *Yip Cheong Fun’s Pictorial Collection*, featuring 100 of his photographs from 1954 to 1986. It took him two years and $26,000 to publish. He had hoped that the book would serve as a record of his work and a good reference for young enthusiasts. Yip was an amateur throughout his photographic career. It was his way of sharing his deep love for Singapore and the people who made it their home. When he died in 1989, he was clutching a fully-loaded camera, a fitting end for a man whose love for photography was an all-consuming passion.
+
