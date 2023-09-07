@@ -6,7 +6,8 @@ image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/rachel heng.jpg
 ---
 #### <i>The Great Reclamation</i> is a fascinating historical novel about land reclamation in 1960s Singapore. Also a love story, the book has been named a _New York Times_ Editor’s Choice, and a “Best Book of 2023 So Far” by the _New Yorker_ and Amazon Books. Editor Soh Gek Han interviews Rachel Heng on her novel for the BiblioAsia+ podcast.
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/jQjegt2YxCc" frameborder="0" allowfullscreen=""></iframe></div>
+<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/rachel%20heng.jpg">
+<div style="background-color: white;text-align:center">Rachel Heng holding her latest book,<i>The Great Reclamation. Photo by Jimmy Yap, 2023.</i></div>
 
 **Gek Han**  
 Thank you so much for taking the time to do [this podcast](/podcast/the-great-reclamation/) with us. It’s really thrilling to see a book set in Singapore written by a local writer getting such rave reviews worldwide and locally. How has it been like for you?
@@ -20,8 +21,7 @@ You’ve really made history come alive. And you’ve made it personal. We’ve 
 **Rachel**  
 I’ve always been interested in land reclamation. I went to Ngee Ann Primary in Marine Parade, which is built on reclaimed land. And I remember being in probably Primary One, and the teacher saying, “This floor that we’re on right now – this used to be the sea.” This idea that the land didn’t used to be there until quite recently, or that you could make land where there wasn’t land seemed a really exhilarating, but also a frightening thing for a child to hear. And I think that feeling kind of persisted throughout my life in Singapore, because you do see the landscape shift so much when you grow up here, and probably less so in my generation, much more so in the past.
 
-<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/rachel%20heng.jpg">
-<div style="background-color: white;text-align:center">Rachel Heng holding her latest book,<i>The Great Reclamation. Photo by Jimmy Yap, 2023.</i></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/jQjegt2YxCc" frameborder="0" allowfullscreen=""></iframe></div>
 
 **Gek Han**  
 <i>The Great Reclamation</i> is your second novel and your first historical fiction work. What do you find challenging or interesting about writing historical fiction?
