@@ -53,7 +53,7 @@ From 1966 to 1974, Yip was Vice-President of the Photographic Society of Singapo
 </div>
 
 #### **The Master Wears Slippers**
-<img src="/images/Vol%202%20Issue%201/OldManYip/master%20wears%20slippers.jpg" style="width:50%;">
+<img src="/images/Vol%202%20Issue%201/OldManYip/master%20wears%20slippers.jpg" style="width:30%;">
  <div style="background-color: white;">Master Wears Slippers. <i>Photograph by Yip Cheong Fun, Courtesy of Mr Andrew Yip.</i></div>
 
 Despite his success, Yip remained a humble, self-effacing individual. Looking at him, sitting at his provision shop, no one could imagine that the old shopkeeper with a benign smile was one of the world’s great photographers. He was always willing to share his techniques with younger photographers and was regarded by all his colleagues as a perfect gentleman. Dressed in singlet, shorts and slippers, Yip enjoyed nothing more than waking up before dawn in search of a perfect picture.
