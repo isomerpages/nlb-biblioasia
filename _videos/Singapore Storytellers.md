@@ -13,4 +13,4 @@ Discover untold stories of Singapore in these original video series:
 * *[Stories from BiblioAsia](/videos/stories-from-biblioasia/)* and [*BiblioAsia Reels*](https://www.youtube.com/playlist?list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc), compelling video stories from  BiblioAsia articles; and
 * [*The Time Travelling Trio*](https://childrenandteens.nlb.gov.sg/diy-resources/singapore-storytellers/the-time-travelling-trio), a children's series on what life in Singapore used to be like.
 
-These three video series are part of Singapore Storytellers, an effort by the National Library Board to inspire a future generation of storytellers.
+These video series are part of Singapore Storytellers, an effort by the National Library Board to inspire a future generation of storytellers.
