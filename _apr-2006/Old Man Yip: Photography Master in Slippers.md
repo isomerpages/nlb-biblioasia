@@ -8,10 +8,13 @@ description: Yip Cheong Fun was one Singapore’s most eminent photographers. Hi
 #### Yip Cheong Fun was one Singapore’s most eminent photographers. His ability to capture, “the decisive moment” made him unique among the photographers of his generation.
 
 <img src="/images/Vol%202%20Issue%201/OldManYip/walking%20gingerly.jpg" style="width:80%;">
- <div style="background-color: white;">Walking Gingerly Along (1950s). <i>Photographs by Yip Cheong Fun, Courtesy of Mr Andrew Yip.</i></div>
+ <div style="background-color: white;">Walking Gingerly Along (1950s). <i>Photograph by Yip Cheong Fun, Courtesy of Mr Andrew Yip.</i></div>
 
 #### **Life in Chinatown**
 Nothing in Yip Cheong Fun’s early life suggests that he would become one of Singapore’s most eminent photographers. He was born in Hong Kong in 1903, the son of a farmer. At the age of 7 months, his parents left Hong Kong for Singapore where he remained till 1909. His father died in 1907 and his mother, unable to cope with having to eke out a modest living and caring for her children, sent him back to China to be placed in the care of relatives. Unfortunately, his relatives neglected him and he returned to Singapore in 1913 after his relatives’ neighbours alerted his mother to his plight. From then on, he stayed with his mother at 47 Kreta Ayer Street. This would be his home for the rest of his life.
+
+<img src="/images/Vol%202%20Issue%201/OldManYip/chinatown.jpg" style="width:80%;">
+ <div style="background-color: white;">Chinatown 1955. <i>Photograph by Yip Cheong Fun, Courtesy of Mr Andrew Yip.</i></div>
 
 Yip had a basic Chinese education in a private school in Chinatown. He was mechanically-inclined and apprenticed in an engineering firm where he picked up a number of technical skills that stood him in good stead over the years. After school, he worked for United Engineers as a supervisor but quit the firm in 1942 after discovering that it was making munitions for the Japanese. Yip then started an engineering workshop at the back of his three-storey Kreta Ayer Street house. His wife ran a provision store, named Cheong Loong at the front of the store while Yip, his nephew and some workers operated a machine shop, complete with die cutters, moulds and lathes in the back.
 
