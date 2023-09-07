@@ -58,6 +58,9 @@ From 1966 to 1974, Yip was Vice-President of the Photographic Society of Singapo
 
 Despite his success, Yip remained a humble, self-effacing individual. Looking at him, sitting at his provision shop, no one could imagine that the old shopkeeper with a benign smile was one of the world’s great photographers. He was always willing to share his techniques with younger photographers and was regarded by all his colleagues as a perfect gentleman. Dressed in singlet, shorts and slippers, Yip enjoyed nothing more than waking up before dawn in search of a perfect picture.
 
+<img src="/images/Vol%202%20Issue%201/OldManYip/early%20start.jpg" style="width:80%;">
+ <div style="background-color: white;">An Early Start (1948). <i>Photograph by Yip Cheong Fun, Courtesy of Mr Andrew Yip.</i></div>
+
 All his shots were carefully planned and executed. His deep understanding of lighting, and his uncanny ability to penetrate the soul of his subjects made him a true master. Yip was particularly fascinated by the sea and the old kampungs. In an interview published in 1986, he lamented the loss of kampungs to shoot in Singapore. When he could still drive, he and his fellow photographers would take trips up to peninsula Malaysia to capture the scenery and the fishermen at work.
 
 In 1986, Yip was persuaded by his friends and family to publish a book of his works. The result was a privately funded book, *Yip Cheong Fun’s Pictorial Collection*, featuring 100 of his photographs from 1954 to 1986. It took him two years and $26,000 to publish. He had hoped that the book would serve as a record of his work and a good reference for young enthusiasts. Yip was an amateur throughout his photographic career. It was his way of sharing his deep love for Singapore and the people who made it their home. When he died in 1989, he was clutching a fully-loaded camera, a fitting end for a man whose love for photography was an all-consuming passion.
