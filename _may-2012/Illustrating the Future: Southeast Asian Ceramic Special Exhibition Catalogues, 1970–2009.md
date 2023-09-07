@@ -2,21 +2,21 @@
 title: "Illustrating the Future: Southeast Asian Ceramic Special Exhibition
   Catalogues, 1970–2009"
 permalink: /vol-8/issue-1/may-2012/southeast-asian-ceramic-exhibition/
-description: "Exhibition catalogues are important guidebooks for ceramic
+description: Exhibition catalogues are important guidebooks for ceramic
   enthusiasts and researchers to understand Southeast Asian ceramics. Compared
   with words, images in exhibition catalogues can provide a visual
-  representation and perceptual knowledge of the styles and forms of ceramics. "
+  representation and perceptual knowledge of the styles and forms of ceramics.
 ---
 #### Exhibition catalogues are important guidebooks for ceramic enthusiasts and researchers to understand Southeast Asian ceramics. Compared with words, images in exhibition catalogues can provide a visual representation and perceptual knowledge of the styles and forms of ceramics.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%201/Asian%20Ceramic/Brown%20Stoneware%20Jars.jpg">
- <div style="background-color: white;">The dark brown glazed stoneware jars were spread over a rather wide expanse exhibition area in Taipei County Yingge Ceramic Museum, Taiwan.</div>
+ <div style="background-color: white;">Dark brown glazed stoneware jars spread over a rather wide exhibition area in Taipei County Yingge Ceramic Museum, Taiwan.</div>
 
-Exhibition catalogues are also long-lasting records and sources of references on ceramic exhibits shown for specific purposes in museums so as to affect the audience in a predetermined direction. Therefore, it is one of the best tools for us to review the history of research into and future trends of Southeast Asian ceramic studies.
+Exhibition catalogues are long-lasting records and sources of references on ceramic exhibits shown for specific purposes in museums so as to affect the audience in a predetermined direction. Therefore, it is one of the best tools for us to review the history of research into and future trends of Southeast Asian ceramic studies.
 
-“Southeast Asian ceramics” emerged as an independent analytical unit after World War II, when Southeast Asia became a region with clear political boundaries. The study of important long-term inter-regional cultural and technological interactions has suffered through the creation of modern political barriers. Chinese ceramic traditions are one of the major elements in the development of ceramic industries in Southeast Asia. The timeframe of this article begins with the ninth century, when Chinese trade ceramics were first imported into Southeast Asia, and ends in the sixteenth century, the period when Southeast Asian polities began to come under the political control of European empires.
+“Southeast Asian ceramics” emerged as an independent analytical unit after World War II, when Southeast Asia became a region with clear political boundaries. The study of important long-term inter-regional cultural and technological interactions has suffered through the creation of modern political barriers. Chinese ceramic traditions are one of the major elements in the development of ceramic industries in Southeast Asia. The timeframe of this article begins with the 9th century, when Chinese trade ceramics were first imported into Southeast Asia, and ends in the 16th century, the period when Southeast Asian polities began to come under the political control of European empires.
 
-This article traces the history of Southeast Asian ceramic special exhibition catalogues from the 1970s, a decade when most of the existing Southeast Asian ceramic societies were established in the region and many exhibition catalogues were published, to the re-emergence of such exhibitions in the late 2000s.[^1] Unlike permanent exhibitions, special exhibitions pay particular attention to a group of ceramic exhibits that are brought together for public display. They also offer the opportunity for viewers to observe and compare ceramics from different parts of Southeast Asia conveniently concentrated in one place for a limited period of time. They can also enhance the popularity and professional reputation of the museum by highlighting and promoting several new discoveries or important ceramic pieces. Although permanent exhibitions represent long-term results based on the hard work done by museum staff over many years of collecting, preserving and researching, most of the exhibition catalogues depict short-term and temporary special exhibitions instead of permanent exhibitions in the museum.[^2] As Southeast Asian ceramic exhibition catalogues are the main publications for special exhibitions in museums, these form the main focus of this study.
+This article traces the history of Southeast Asian ceramic special exhibition catalogues from the 1970s, a decade when most of the existing Southeast Asian ceramic societies were established in the region and many exhibition catalogues were published, to the re-emergence of such exhibitions in the late 2000s.[^1] Unlike permanent exhibitions, special exhibitions pay particular attention to a group of ceramic exhibits that are brought together for public display. They also offer the opportunity for viewers to observe and compare ceramics from different parts of Southeast Asia conveniently concentrated in one place for a limited period of time. Additionally, they can enhance the popularity and professional reputation of the museum by highlighting and promoting several new discoveries or important ceramic pieces. Although permanent exhibitions represent long-term results based on the hard work done by museum staff over many years of collecting, preserving and researching, most of the exhibition catalogues depict short-term and temporary special exhibitions instead of permanent exhibitions in the museum.[^2] As Southeast Asian ceramic exhibition catalogues are the main publications for special exhibitions in museums, these form the main focus of this study.
 
 #### **Some Observations on the Exhibition Catalogue**
 
@@ -28,9 +28,9 @@ Five aspects of general information from the special exhibition catalogues will 
 
 #### **Quantity of Ceramic Exhibits by Countries**
 
-With regard to the quantity of ceramic exhibits by countries, Thai and Vietnamese ceramic exhibits are found in much higher proportion than any other Southeast Asian ceramics. Thai and Vietnamese ceramics are usually considered as the only theme in the exhibition. Examples of Thai ceramic exhibitions include *The Legacy of Phra Ruang* (1974), *Ceramics from Thailand* (1977), Thai Ceramics through the Ages (1978), and Vietnamese ceramic exhibitions held in 1978, 1982 and 1993. Khmer ceramics make up the third-largest category of ceramic exhibits. Its thematic exhibition includes Khmer Ceramics 9th to 14th Centuries (1981) and Khmer Ceramics from the Kamratān Collection (1989). Very few exhibition catalogues deal with Burmese and Lao ceramics. The White and Green Wares Excavated in the Tak Area in Thailand (1996) is an exceptional case. About 194 pieces of white-glazed Burmese ware with green decoration, obtained from illegal excavation along the Thai-Myanmar border in the Tak Area of Thailand near the Mae Sot mountain region, were first introduced in a special exhibition in the Machida City Museum.[^5] Aside from this special exhibition, ceramics produced in Myanmar or Laos and insular Southeast Asian countries, for instance Brunei, have seldom appeared in Southeast Asian ceramic special exhibitions. These phenomena may reflect a strong contrast in the development of Southeast Asian ceramic studies, and the perceptions of collectors (or lenders) and organisers on which kind of Southeast Asian ceramics should be included in the exhibition.
+With regard to the quantity of ceramic exhibits by countries, Thai and Vietnamese ceramic exhibits are found in much higher proportion than any other Southeast Asian ceramics. Thai and Vietnamese ceramics are usually considered as the only theme in the exhibition. Examples of Thai ceramic exhibitions include *The Legacy of Phra Ruang* (1974), *Ceramics from Thailand* (1977), *Thai Ceramics through the Ages* (1978) and Vietnamese ceramic exhibitions held in 1978, 1982 and 1993. Khmer ceramics make up the third-largest category of ceramic exhibits. Its thematic exhibition includes *Khmer Ceramics 9th to 14th Centuries* (1981) and *Khmer Ceramics from the Kamratān Collection* (1989). Very few exhibition catalogues deal with Burmese and Lao ceramics. *The White and Green Wares Excavated in the Tak Area in Thailand* (1996) is an exceptional case. About 194 pieces of white-glazed Burmese ware with green decoration, obtained from illegal excavation along the Thai-Myanmar border in the Tak area of Thailand near the Mae Sot mountain region, were first introduced in a special exhibition in the Machida City Museum.[^5] Aside from this special exhibition, ceramics produced in Myanmar or Laos and insular Southeast Asian countries, for instance, Brunei, have seldom appeared in Southeast Asian ceramic special exhibitions. These phenomena may reflect a strong contrast in the development of Southeast Asian ceramic studies, and the perceptions of collectors (or lenders) and organisers on which kind of Southeast Asian ceramics should be included in the exhibition.
 
-Another typical example is whether Chinese ceramics are present in Southeast Asian ceramic exhibitions. In Table 1, 7 out of 23 exhibitions present Chinese ceramics. In the *Talking Jars* (1971), *South-East Asian and Chinese Trade Pottery* (1979), and *Southeast Asian Ceramics: New Light on Old Pottery* (2009), more than 100 Chinese pieces were shown. Another exhibition, *Oriental Trade Ceramics in Southeast Asia* 10th to 16th Century (1980), also displayed 78 pieces of Chinese ceramics. Chinese ceramics are covered in the Southeast Asian ceramic special exhibitions if the organisers support the concept that the flourishing of trade between China and Southeast Asia would transmit new elements to Southeast Asian ceramic products and their societies, and Chinese ceramics could provide one of the major elements in the development of ceramic industries in Southeast Asia. However, if Southeast Asian ceramic traditions, cultural identity and internal unity are emphasised, Chinese ceramics would be excluded from the exhibitions. Table 1 indicates that the latter approach is more frequent.
+Another typical example is whether Chinese ceramics are present in Southeast Asian ceramic exhibitions. In Table 1, 7 out of 23 exhibitions present Chinese ceramics. In the *Talking Jars* (1971), *South-East Asian and Chinese Trade Pottery* (1979) and *Southeast Asian Ceramics: New Light on Old Pottery* (2009), more than 100 Chinese pieces were shown. Another exhibition, *Oriental Trade Ceramics in Southeast Asia* 10th to 16th Century (1980), also displayed 78 pieces of Chinese ceramics. Chinese ceramics are covered in the Southeast Asian ceramic special exhibitions if the organisers support the concept that the flourishing of trade between China and Southeast Asia would transmit new elements to Southeast Asian ceramic products and their societies, and Chinese ceramics could provide one of the major elements in the development of ceramic industries in Southeast Asia. However, if Southeast Asian ceramic traditions, cultural identity and internal unity are emphasised, Chinese ceramics would be excluded from the exhibitions. Table 1 indicates that the latter approach is more frequent.
 
 #### **Source of the Exhibits**
 
@@ -130,11 +130,11 @@ Chen, T.H. (2009). Recognizing Southeast Asia. In M-L. Hsieh (Ed.), _The ceramic
 
 Chia, A. (2009). Preface. In J.N. Miskic (Ed.), [_Southeast Asian ceramics: New light on old pottery_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13234945). Singapore: Southeast Asian Ceramic Society. (Call no.: RSING 738.09595 SOU)
 
-Cort, L.A., Farhad, M. & Gunter, A.C. (2000). _Asian traditions in clay: The hague gifts_. Washington, D.C.: Freer Gallery of Art and Arthur M.Sackler Gallery, Smithosonian Institution.
+Cort, L.A., Farhad, M. &amp; Gunter, A.C. (2000). _Asian traditions in clay: The hague gifts_. Washington, D.C.: Freer Gallery of Art and Arthur M.Sackler Gallery, Smithosonian Institution.
 
 Dofflemyer, V. (1989). [_Southeast Asian ceramics from the collection of Margot and Hans ries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5424675). Pasadena: Paciific Asia Museum. (Call no.: RSEA 738.309593074 DOF)
 
-Drzik, A.M. (1983). [_Southeast Asian ceramics from the collection of Mr & Mrs Andrew M.Drzik_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4191882). Tokyo: A.M. Drzik. (Call no.: RSING 738.0959 DRZ)
+Drzik, A.M. (1983). [_Southeast Asian ceramics from the collection of Mr &amp; Mrs Andrew M.Drzik_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4191882). Tokyo: A.M. Drzik. (Call no.: RSING 738.0959 DRZ)
 
 Frasche, D.F. (1976). [_Southeast Asian ceramics: Ninth through seventeenth centuries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=766229). New York: The Asia Society. (Call no.: RSEA 738.0959 FRA)
 
@@ -144,7 +144,7 @@ Groslier, B.P. (1981). Introduction to the ceramic wares of Angkor (pp. 9–40).
 
 Guy, J. (1980). [_Oriental trade ceramics in Southeast Asia, 10th to 16th century: Selected from Australian collections, including the Art Gallery of South Australia and the Bodor collection_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2894232). Melbourne: National Gallery of Victoria. (Call no.: RSING 738.0959 GUY)
 
-Guy, J., & Stevenson, J. (Eds.). (1997). _Vietnamese ceramics: A separate tradition_. Chicago, IL: Art Media Resources with Avery Press.
+Guy, J., &amp; Stevenson, J. (Eds.). (1997). _Vietnamese ceramics: A separate tradition_. Chicago, IL: Art Media Resources with Avery Press.
 
 Hsieh, M.L. (Ed.). (2009). _The ceramic road of Southeast Asia: Pottery villages, ancient and contemporary ceramics I_. Taipei: Taipei County Yingge Ceramics Museum.
 
@@ -166,7 +166,7 @@ Peacock, B. A. V. (1978). [_Thai ceramics through the ages_](https://eservice.nl
 
 Richards, D. (Ed.). (2003). [_Lost for 500 years: Sunken treasures of Brunei Darussalam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12604668). Sydney: Art Exhibitions Australia Limited. (Call no.: RSEA q910.95955 LOS)
 
-Sabapathy, T.K.  (Ed.). (2002). Past-present: A history of the University Art Museum. In [_Past, present, beyond re-nascence of an art collection_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11114469). Singapore: National University of Singapore Museums. (Call no.: RSING q709.5 PAS)
+Sabapathy, T.K.&nbsp; (Ed.). (2002). Past-present: A history of the University Art Museum. In [_Past, present, beyond re-nascence of an art collection_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11114469). Singapore: National University of Singapore Museums. (Call no.: RSING q709.5 PAS)
 
 Southeast Asian Ceramic Society. (1971). [_Ceramic art of Southeast Asia: First annual exhibition_](https://eresources.nlb.gov.sg/printheritage/detail/4e366329-0c71-4988-bfce-31a329f9204c.aspx). Singapore: Art Museum, University of Singapore. Retrieved from BookSG.
 
@@ -182,7 +182,7 @@ Till, B. (1988). [_Ceramics of mainland Southeast Asia_](https://eservice.nlb.go
 
 Tokyo National Museum. (2000). _Korean and other Asian ceramics excavated in Japan_. Tokyo: Tokyo National Museum.
 
-Ubersee-Museums und Celadon Co. Ltd. (1977). [_Keramik aus Thailand: Sukhothai & Sawankhalok_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1211892). Kuala Lupur: Ubersee-Museums und Celadon Co. Ltd. (Call no.: RUR RSEA 738.3095930740352 KER)
+Ubersee-Museums und Celadon Co. Ltd. (1977). [_Keramik aus Thailand: Sukhothai &amp; Sawankhalok_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1211892). Kuala Lupur: Ubersee-Museums und Celadon Co. Ltd. (Call no.: RUR RSEA 738.3095930740352 KER)
 
 Vancouver Society for Asian Art. (1971). [_The Vancouver Society for Asian Art presents The talking jars: An exhibition of oriental ceramic folkwares found in South East Asia, Centennial Museum, Vancouver, Canada, October-November, 1971_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1548419). Vancouver: Vancouver Society for Asian Art. (Call no.: RSEA 738.095074 VAN)
 
@@ -190,9 +190,9 @@ White, J.C. (1982). [_Ban Chiang: Discovery of a lost bronze age: An exhibition 
 
 Wong, W.Y. (2009, September–December). A glimpse at Southeast Asian ceramics publications on Southeast Asian ceramics since the 1960s. [_SPAFA Journal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7143540), _19_ (3), 5–17.
 
-Yamazaki, K. (1996). Study on the material and technique of white-glazed ware with green decoration. In H. Gakuji & K. Yamazaki. (1996). _The white and green wares excavated in the Tak area in Thailand_. Tokyo: Machida City Museum.  
+Yamazaki, K. (1996). Study on the material and technique of white-glazed ware with green decoration. In H. Gakuji &amp; K. Yamazaki. (1996). _The white and green wares excavated in the Tak area in Thailand_. Tokyo: Machida City Museum. &nbsp;
 
-Young, C.M., Dupoizat, M.F. & Lane, E.W. (Eds.). (1982). [_Vietnamese ceramics: With an illustrated catalogue of the exhibition organised by the Southeast Asian Ceramic Society and held at the National Museum, Singapore in June 1982_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079901)_._ Singapore: Southeast Asian Ceramic Society. (Call no.: RSING 738.09597 VIE)
+Young, C.M., Dupoizat, M.F. &amp; Lane, E.W. (Eds.). (1982). [_Vietnamese ceramics: With an illustrated catalogue of the exhibition organised by the Southeast Asian Ceramic Society and held at the National Museum, Singapore in June 1982_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079901)_._ Singapore: Southeast Asian Ceramic Society. (Call no.: RSING 738.09597 VIE)
 
 #### **NOTES**
 
@@ -203,7 +203,7 @@ Young, C.M., Dupoizat, M.F. & Lane, E.W. (Eds.). (1982). [_Vietnamese ceramics: 
 
 [^3]: [Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7143540), Sep­—Dec 2009, pp. 6—7.
 
-[^4]: For example, see Guy & Stevenson, 1997
+[^4]: For example, see Guy &amp; Stevenson, 1997
 
 [^5]: Yamazaki, 1996, p. 137. About Burmese ceramics from the Thai-Burma border, see Roxanna Brown’s book review, sep 2004, p. 2.
 
@@ -242,8 +242,3 @@ Young, C.M., Dupoizat, M.F. & Lane, E.W. (Eds.). (1982). [_Vietnamese ceramics: 
 [^22]: Belcher, 1991, p. 66.
 
 [^23]: [Groslier](https://eresources.nlb.gov.sg/printheritage/detail/2d70310f-9c14-467e-9dbd-4732223b29e4.aspx), 1981, p. 9.
-	
-	
-	
-	
-	
