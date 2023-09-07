@@ -30,9 +30,19 @@ From 1966 to 1974, Yip was Vice-President of the Photographic Society of Singapo
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Yip Cheong Fun (1903–1989)</b><br><br>
 <b>1903</b> Born in Hong Kong. Arrived in Singapore, aged 7 month.<br><br>
-<b>1909</b> Sent back to China to be cared for by relatives as his mother had to work to upkeep the family as his father died in 1907.
-
+<b>1909</b> Sent back to China to be cared for by relatives as his mother had to work to upkeep the family as his father died in 1907.<br><br>
+<b>1913</b>  Returned to Singapore after his relatives’ neighbours discovered that he was not cared for and notified his mother. Lived with his mother at 47 Kreta Ayer Road. Educated at a private school in Chinatown.<br><br>
+<b>1936</b> After working some time as a supervisor with United Engineers, Yip saved up enough money to buy a Rolleiflex camera.<br><br>
+<b>1942</b> Quit United Engineers and started small engineering workshop at the back of his house. Also built a dark room.<br><br>
+<b>1946</b> Continued operating engineering workshop. Branched into various other enterprises, including tin toy-making, joss-stick manufacturing and ground-tea powder shampoo.<br><br>
+<b>1952</b> First major success at an international competition. Rowing at Dawn won him a string of top prizes and gold medals in international competitions. Accepted for exhibition in over 80 countries.<br><br>
+<b>1957</b> Made Associate of the Royal Photographic Society, UK.<br><br>
+<b>1960</b> Joined Tien Wah Press as commercial photographer and technician.<br><br>
+<b>1961</b> Honorary Fellowship of the Royal Photographic Society, UK<br><br>
+<b>1972</b> Honorary Excellence Distinction of the International Federation of Photographic Art (Seascape specialist)<br><br>
+<b>1973</b> Retired from Tien Wah Press.<br><br>
+<b>1974</b> Honorary Fellowship of the Photographic Society of Singapore<br><br>
+<b>1978</b> Honorary Life Membership, Photographic Society of Singapore<br><br>
+<b>1980</b> Honorary Outstanding Photographer of the Century, Photographic Society of New York 
 </div>
 <br><br>
-
-
