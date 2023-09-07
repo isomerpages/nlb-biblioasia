@@ -19,9 +19,9 @@ sections:
   - infopic:
       title: Interview with Rachel Heng, Author of The Great Reclamation
       subtitle: Literature
-      description: What does it take to write an internationally acclaimed historical
-        novel set in Singapore?
-      button: Read the interview
+      description: "What does it take to write an internationally acclaimed historical
+        novel set in Singapore? #SingLit"
+      button: Watch the interview
       url: /videos/reels/
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage1.jpg
