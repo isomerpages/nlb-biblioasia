@@ -29,21 +29,22 @@ Army (1940–41)|2|0 wins &amp; 2 draws|4|4|
 Selangor (1925–38)|6|3 wins, 1 draw, &amp; 2 losses|15|7|
 ||52|43 wins, 7 draws &amp; 2 losses|210|41|<br><br>
 <div style="background-colour:#fff6ba; padding:10px; margin: 10px; background: #fff6ba; font-size=larger"><b>MALAYA CUP VENUES</b><br><br>
-The earlier home matches in the Malaya Cup were played on the Padang. Matches between 1921 and 1923 were played in the field that is close to the Singapore Recreation Club. After Anson Road Stadium (also known as Singapore Stadium) opened in 1924, this became the main venue for Malaya Cup matches until 1941.<br>
-<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/anson%20image.jpg"><br>
-
-
-
-
-
-
-
-
-
-
-
-
-</div><br><br>
+The earlier home matches in the Malaya Cup were played on the Padang. Matches between 1921 and 1923 were played in the field that is close to the Singapore Recreation Club. After Anson Road Stadium (also known as Singapore Stadium) opened in 1924, this became the main venue for Malaya Cup matches until 1941.<br><br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/mbe%20image.jpg"><br>
+The pitch had originally been part of the Malaya Borneo Exhibition (MBE) in 1922. The grounds were realigned and enlarged, with small grandstands erected along the touchlines. For the remaining perimeter vantage points, there was an enclosure with a 12-foot-high grass bank. The stadium had an official capacity of 4,000 though some games would draw huge crowds.<br><br> 
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/anson%20image.jpg"><br><br>
+Malaya Cup games at the Anson Road Stadium were not the most popular spectator events though. Senior League matches involving SCFA and contests against touring teams drew the biggest crowds to the stadium. For instance, Batavia Hercules from Java played against SCFA in a match that attracted 8,535 fans, while Singapore’s 5–0 victory over Malacca in a preliminary round of the Malaya Cup, also in 1927, was witnessed by 6,539 fans.<br><br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/maxwell.jpg"><br><br>
+While the Anson Road Stadium was used for major matches, other locations in Singapore were used for playing competitive football. These included military camps and garrison facilities, private clubs, purpose-built stadiums, the Padang, open fields and even the site of the old convict jail at Bras Basah.<br><br>
+<img style="width:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/anson%20rd%20stadium.jpg">
+<div style="background-color: #fff6ba; text-align:center">&nbsp; Anson Road Stadium. <i>Courtesy of Singapore Sports Council.</i></div><br><br>
+Well-established schools such as Raffles Institution, Anglo-Chinese School and St Joseph’s Institution had easy access to pitches close to the centre of town. Raffles Institution was located at the junction of Bras Basah Road and Beach Road at the time (Raffles City shopping mall stands in its place today), and the reclaimed land opposite the school became the home territory of the Singapore Chinese Football Association (SCFA) and the Malay Football Association.<br><br>
+	
+<b>REFERENCES</b><br><br>  
+"<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270707-1.2.101">Football: Batavia’s Narrow Win</a>" <i>Singapore Free Press and Mercantile Advertiser</i>, 7 July 1927, 16. (From NewspaperSG)<br><br>
+"<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220106-1.2.46.aspx">Malaya-Borneo Exhibition</a>" <i>Singapore Free Press and Mercantile Advertiser (1884–1942),</i> 6 January 1922, 12. (From NewspaperSG)<br><br>
+"<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19270718-1.2.89">Malaya Cup</a>" <i>Straits Times</i>, 18 July 1927, 12. (From NewspaperSG)<br><br>
+"<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220106-1.2.46.aspx">Malaya-Borneo Exhibition</a>" <i>Singapore Free Press and Mercantile Advertiser (1884–1942),</i> 6 January 1922, 12. (From NewspaperSG)</div><br><br>
 
 #### **The Beginnings of the HMS Malaya Cup**
 
