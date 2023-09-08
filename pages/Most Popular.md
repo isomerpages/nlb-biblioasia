@@ -84,12 +84,15 @@ Thanks to land reclamation, the tiny red dot has broadened its shores substantia
 <img style="width:100%;" src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg"> 
 <hr>
 
-### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand">Land From Sand: Singapore’s Reclamation Story</a>
-Thanks to land reclamation, the tiny red dot has broadened its shores substantially. **Lim Tin Seng** discovers just how much Singapore has grown since colonial times.
-<img style="width:100%;" src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg"> 
+### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore">Neo Tiew: The Man Who Built Lim Chu Kang</a>
+The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area.
+<img style="width:100%;" src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew.png"> 
 <hr>
 
-
+### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/changi-airport">How Changi Airport Came  To Be</a>
+As Singapore’s Changi Airport marks its 40th anniversary in 2021, Rebecca Tan uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
+<img style="width:100%;" src="/images/vol-17-issue-3/how-changi-airport-came-to-be/Facing%20Page2.jpg"> 
+<hr>
 
 
 
