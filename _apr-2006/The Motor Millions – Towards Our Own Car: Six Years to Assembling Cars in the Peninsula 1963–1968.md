@@ -72,4 +72,13 @@ The Government applied a measure of encouragement and coercion when it arrived a
 After much deliberation and numerous policy changes, the six companies finally granted approval in 1966 to assemble vehicles in Malaysia was announced. These were Asia Automobile Industries (making Peugeot and Mazda), Associated Motor Industries (making BMC, Ford, Holden, Renault and Rootes), Champion Motors (making VW, Mercedes, Toyota, Vauxhall and Chevrolet), Swedish Motor Assemblies (making the Volvo 122 and 144 models), Kilang Pembena Kereta2 (in association with Cycle & Carriage to make Mitsubishi Colts) and Capital Motor Assembly Corp. (making Opel and Nissan/Datsun).
 
 #### **Conclusion**
+From 1966, the automobile industry in Southeast Asia evolved from one of British domination to one of Japanese domination. A rapidly growing population and the need for Malaysia to develop different industries also suited the establishment of a local automobile parts and assembly industry. The larger global automobile companies had wanted to capitalise on such growing economies and were prepared to invest heavily in such plants. The early 60’s were therefore critical years in Malaysia as policies were formulated and waters tested for such industries. By the end of the decade, manufacturing and assembly plants were up and running and policies sufficiently polished to suit the turbulent economic climate. The period also saw the industry evolve and consolidate with the emergence of several bigger companies with local management and shareholding. Those that were able to adapt and develop new strategies to suit the formative years of government policy changes (Cycle & Carriage, Borneo Motors, Tan Chong Motors for example) were eventually to become major players in the following decades.
+
+It would be exactly 20 years later that Perusahaan Otomobile Nasional Berhad (PROTON) was incorporated (7 May 1983), and Malaysia’s first locally built car, the Proton Saga, was launched on 9 July 1985.
+
+*\ Repco Limited – archives at the University of Melbourne (http://www.austehc.unimelb.edu. au/asaw/archives/A001376a.htm) \\ A keiretsu is a set of companies with interlocking business relationships and shareholdings. Taken from the Japanese term (系列) for “system” or “series.”*
+
+*\\ A keiretsu is a set of companies with interlocking business relationships and shareholdings. Taken from the Japanese term (系列) for “system” or “series.”*
+
+
 
