@@ -99,5 +99,3 @@ Henry Longhurst, _[The Borneo Story](https://eservice.nlb.gov.sg/item_holding.as
 Ilsa Sharp, _[Wheels of Change: The Borneo Motors Story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7051450)_ (\[Singapore\]: Borneo Motors, 1993). (Call no. RSING 338.76292095957 SHA)
 
 _[The Making of the National Car: Not Just a Dream](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6787398)_ (Kuala Lumpur: TASSMAG Publishing Sdn Bhd., 1994). (Call no. RSEA 629.22209595 THA)
-
-
