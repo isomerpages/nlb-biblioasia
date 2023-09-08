@@ -76,7 +76,7 @@ From 1966, the automobile industry in Southeast Asia evolved from one of British
 
 It would be exactly 20 years later that Perusahaan Otomobile Nasional Berhad (PROTON) was incorporated (7 May 1983), and Malaysia’s first locally built car, the Proton Saga, was launched on 9 July 1985.
 
-*Repco Limited – archives at the University of Melbourne (<a href="https://www.repco.com.au/about-us">https://www.repco.com.au/about-us/</a>.      )  
+*Repco Limited – archives at the University of Melbourne (<a href="https://www.repco.com.au/about-us">https://www.repco.com.au/about-us/</a>.      )*  
 
 *A keiretsu is a set of companies with interlocking business relationships and shareholdings. Taken from the Japanese term (系列) for “system” or “series.”*
 
