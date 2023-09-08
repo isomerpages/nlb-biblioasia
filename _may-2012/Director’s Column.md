@@ -3,13 +3,13 @@ title: Director’s Column
 permalink: /vol-8/issue-1/may-2012/director-column/
 description: ""
 ---
-####  To be human is to be creative—to write, to paint and to make music that records our thoughts and dreams. Such artistic endeavours capture the spirit of the times and places in which they were created, transmitting to succeeding generations the hopes and fears of visionaries of the past.
+To be human is to be creative – to write, to paint and to make music that records our thoughts and dreams. Such artistic endeavours capture the spirit of the times and places in which they were created, transmitting to succeeding generations the hopes and fears of visionaries of the past.
 
 This issue of *BiblioAsia* celebrates the artists among us and their contributions to the rich creative heritage of Singapore.
 
 The lead feature by Irene Ng puts the spotlight on the radio plays of founding father S. Rajaratnam. While he was best known as a politician and statesman, Rajaratnam was also a gifted writer in his early years and produced a number of short stories and radio plays in the 1940s and 1950s. Irene discusses his literary legacy and how his plays outlined his vision of a “Singaporean Singapore” with the ability to transcend racial, cultural and religious divisions.
 
-The art of veteran Singapore painter and calligrapher Lim Tze Peng, whose work graces the cover of this issue, forms the backdrop of our exploration into Singapore’s creative heritage. Yeo Mang Tong examines the changes in Lim’s painting style after 2006, in particular the shift from “painting what one sees” to “painting from one’s heart”.
+The art of veteran Singapore painter and calligrapher Lim Tze Peng, whose work graces the cover of this issue, forms the backdrop of our exploration into Singapore’s creative heritage. Yeo Mang Thong examines the changes in Lim’s painting style after 2006, in particular, the shift from “painting what one sees” to “painting from one’s heart”.
 
 Singapore’s rich multicultural literary heritage is further explored through the lives and works of local literary pioneers Yao Zi, P. Krishnan and Abdul Ghani Hamid, who each wrote in their mother tongues.
 
@@ -23,14 +23,10 @@ This issue also showcases the work of Lee Kong Chian Research Fellows Ross Laird
 
 Ross Laird presents a fascinating look at the history of the Singapore music recording industry, which was an important centre of the record industry in the larger Southeast Asian region from the early 1900s to the 1970s.
 
-Zou Lu traces the development of the Chinese book industry in Singapore beginning in the early twentieth century, highlighting the contributions of firms such as The Commercial Press, Chung Hwa Book Company and the Shanghai Book Company.
+Zou Lu traces the development of the Chinese book industry in Singapore beginning in the early 20th century, highlighting the contributions of firms such as The Commercial Press, Chung Hwa Book Company and the Shanghai Book Company.
 
 Sharon Wong examines Southeast Asian ceramic exhibition catalogues produced between 1970 and 2009. As these catalogues form a permanent record of ceramic exhibits drawn together for special exhibitions, they are an invaluable resource for understanding the development of the field during this period.
 
-We hope you enjoy this issue of BiblioAsia. Happy reading!
+We hope you enjoy this issue of *BiblioAsia*. Happy reading!
 
 <b>Ms Ngian Lek Choh</b><br> Director, National Library
-
-
-
-
