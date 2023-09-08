@@ -47,6 +47,10 @@ The Japanese too were most keen to establish a foothold in Malaysia and by the e
 
 At the end of November 1963, representatives from Australia’s Repco Ltd \*, the biggest automotive spare parts manufacturer in the Southern hemisphere, had spent a week in Singapore studying the possibility of setting up a spare parts plant. Repco was already supplying parts for Holden, Ford, BMC, Chrysler and General Motors vehicles.
 
+<img src="/images/Vol%202%20Issue%201/repco%20advert.jpg" style="width:30%;">
+ <div style="background-color: white;">A Repco advert found in a Grand Prix program. In this instance, the Singapore Grand Prix program for 1968. <i>Photos are from the author’s collection.</i></div>
+
+
 The following year, 1964, was to be a very exciting one for car manufacturers and agencies prepared to assemble their cars in the Peninsula. The Central Government was confident that the first made-in-Malaysia (i.e. assembled) car would appear on the roads by the end of that year or in early 1965 (*The Malay Mail*, 24 January 1964). Several manufacturers had already invested in large tracks of land in Selangor, Perak and Penang. Toyota, as indicated earlier, was establishing their venture in Penang; Chrysler and VW were to set up theirs in a 700 acre site at Batu Tiga in Selangor; Orchard Motors, the Vauxhall and Bedford distributors, were keen on a plant in Kuala Lumpur; Asia Motors, agents for Peugeot, BMW and Borgward cars, were interested in a plant at the new Jurong Industrial part in Singapore; and Cycle &amp; Carriage, agents of Mercedes-Benz, Auto Union, DKW, Plymouth, Valiant, Chrysler, Imperial, Simca, Jaguar, BSA, Trojan and Willys, were interested in setting up assembly plants at a couple of sites in Malaysia (*The Straits Times*, 9 February 1964). It seemed that all that was needed was the green light from the Central Government.
 
 At the end of May 1964 a number of headlines flashed across the press: “Batu Tiga: 200 acres Already Booked”, “Two-government Speed Up of Car Industry”, “Motor Men Keen on Assembly Plants”.
