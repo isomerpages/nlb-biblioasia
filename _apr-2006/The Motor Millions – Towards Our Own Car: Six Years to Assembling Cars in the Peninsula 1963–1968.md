@@ -88,3 +88,16 @@ Assembly in Tampoi commenced with the Opel Kadett &amp; Rekord in 1968 with 120 
 The plant was then sold to General Motors (GM) in 1971 and the Holden range was transferred from the Associated Motor Industries (AMI - making BMC, Ford, Holden, Renault and Rootes) assembly plant in Selangor.<br><br>
 GM sold the plant to Oriental Holdings (Loh Boon Siew – Honda) in 1980 as the Malaysian government required Malaysians to have majority share holdings in the Assembly plant.
 </div>
+
+<center><b>Eli Solomon</b></center>
+
+#### **FURTHER READING**
+Eric Jennings, _[Wheels of Progress – 75 Years of Cycle &amp; Carriage](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1280008)_ (Singapore: Meridian Communications (SEA), 1975). (Call no. RSING 338.7629222 JEN)
+
+Henry Longhurst, _[The Borneo Story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4087583)_ (London: Newman Neame Ltd., 1956). (Call no. RCLOS 959 LON)
+
+Ilsa Sharp, _[Wheels of Change: The Borneo Motors Story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7051450)_ (\[Singapore\]: Borneo Motors, 1993). (Call no. RSING 338.76292095957 SHA)
+
+_[The Making of the National Car: Not Just a Dream](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6787398)_ (Kuala Lumpur: TASSMAG Publishing Sdn Bhd., 1994). (Call no. RSEA 629.22209595 THA)
+
+
