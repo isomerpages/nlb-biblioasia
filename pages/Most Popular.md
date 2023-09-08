@@ -73,3 +73,23 @@ The history of vaccination in Singapore goes back to the days of William Farquha
 Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.
  <img style="width:100%;" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> 
 <hr>
+
+### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan">Belacan: Caviar? Or Vile and Disgusting? </a>
+Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to.
+<img style="width:100%;" src="/images/Vol%2019%20Issue%201/Balacan/balacan_1.png"> 
+<hr>
+
+### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand">Land From Sand: Singapore’s Reclamation Story</a>
+Thanks to land reclamation, the tiny red dot has broadened its shores substantially. **Lim Tin Seng** discovers just how much Singapore has grown since colonial times.
+<img style="width:100%;" src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg"> 
+<hr>
+
+### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand">Land From Sand: Singapore’s Reclamation Story</a>
+Thanks to land reclamation, the tiny red dot has broadened its shores substantially. **Lim Tin Seng** discovers just how much Singapore has grown since colonial times.
+<img style="width:100%;" src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg"> 
+<hr>
+
+
+
+
+
