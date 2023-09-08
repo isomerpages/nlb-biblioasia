@@ -27,8 +27,23 @@ Combined Services (1935–39)|6|4 wins &amp; 2 draw|12|6|
 Royal Air Force (1940–41)|2|2 wins|4|0|
 Army (1940–41)|2|0 wins &amp; 2 draws|4|4|
 Selangor (1925–38)|6|3 wins, 1 draw, &amp; 2 losses|15|7|
-||52|43 wins, 7 draws &amp; 2 losses|210|41|<br>
+||52|43 wins, 7 draws &amp; 2 losses|210|41|<br><br>
+<div style="background-colour:#fff6ba; padding:10px; margin: 10px; background: #fff6ba; font-size=larger"><b>MALAYA CUP VENUES</b><br><br>
+The earlier home matches in the Malaya Cup were played on the Padang. Matches between 1921 and 1923 were played in the field that is close to the Singapore Recreation Club. After Anson Road Stadium (also known as Singapore Stadium) opened in 1924, this became the main venue for Malaya Cup matches until 1941.<br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/anson%20image.jpg"><br>
 
+
+
+
+
+
+
+
+
+
+
+
+</div><br><br>
 
 #### **The Beginnings of the HMS Malaya Cup**
 
