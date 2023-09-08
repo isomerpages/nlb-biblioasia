@@ -11,7 +11,7 @@ description: ""
 Discover untold stories of Singapore in these original video series: 
 * *[From Book to Cook](/videos/from-book-to-cook)*, a new cooking show on Singapore’s old recipes 
 * *[Stories from BiblioAsia](/videos/stories-from-biblioasia/)* , compelling video stories from  BiblioAsia articles
-*  [*BiblioAsia Reels*](https://www.youtube.com/playlist?list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc), bite-sized videos about Singapore’s history
+*  [*BiblioAsia Reels*](/videos/reels/), bite-sized videos about Singapore’s history
 * [*The Time Travelling Trio*](https://childrenandteens.nlb.gov.sg/diy-resources/singapore-storytellers/the-time-travelling-trio), a children's series on what life in Singapore used to be like
 
 These video series are part of Singapore Storytellers, an effort by the National Library Board to inspire a future generation of storytellers.
