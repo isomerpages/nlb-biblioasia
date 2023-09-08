@@ -79,3 +79,11 @@ It would be exactly 20 years later that Perusahaan Otomobile Nasional Berhad (PR
 *\ Repco Limited – archives at the University of Melbourne (<a href="https://www.repco.com.au/about-us">https://www.repco.com.au/about-us/</a>.      )  A keiretsu is a set of companies with interlocking business relationships and shareholdings. Taken from the Japanese term (系列) for “system” or “series.”*
 
 *\\ A keiretsu is a set of companies with interlocking business relationships and shareholdings. Taken from the Japanese term (系列) for “system” or “series.”*
+
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>CAPITAL MOTOR ASSEMBLY SDN. BHD. (CAPITAL MOTORS) – A CASE OF SINGAPORE COMPANY SETTING UP A PLANT IN MALAYSIA</b><br><br>
+Capital Motors, the last and smallest of the initial six assembly plants, was established in 1967 by the following officeholders:-<br><br>
+<b>Tun Haji Suliaman bin N. Shah:</b> then Chairman UMNO<br><br><b> Leslie Eu:</b> Managing Director <br><br><b>Stanley Leong:</b> Singapore based Architect<br><br><b> Liew Kai Choon:</b> KL businessman<br><br><b> Lim Phee Hung:</b> Opel Penang Dealer Principal (Heng Guan) The Opel Ipoh Dealer Principal
+</div>
+
+
+
