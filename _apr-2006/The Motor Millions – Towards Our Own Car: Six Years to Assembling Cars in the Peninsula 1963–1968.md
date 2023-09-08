@@ -25,5 +25,11 @@ Ford already had an assembly plant in Bukit Timah, Singapore that had produced o
 
 The Central Government did realise that a Made-in-Malaysia car would take a long time to evolve. Their farsighted approach budgeted for up to 20 years before fruition of a locally manufactured car (which was exactly how long it did take), however the initial plan was to grant to a number of manufacturers/ ventures licences to assemble vehicles similar to what Ford had been doing at their Singapore facility.
 
+The Federation had seen 22,000 vehicles of all sorts imported into the country in 1961. China, for example, imported an average of 1,000 passenger cars per year from 1954 to 1965, mostly from Poland! For a viable car assembly plant in the Federation, annual output was estimated to have to top 3,000 units. Word amongst industry participants circulated that there were several very interested parties, from Australia, Europe to Japan, prepared to invest in building assembly plants in Malaysia. The industry waited with bated breath to see who would be the first mover.
+
+*The Straits Times* headlines on Sunday, 10 November 1963 read: “The Motor Millions: Five Assembly Plant to Go Up in Big Car Deal.”
+
+Amidst rife speculation and concern about the extent of import duties and tariff protection to be imposed on vehicle imports, the “Motor Millions” newspaper report revealed the first five motor agencies that were keen to establish assembly plants in Malaysia. The five firms were: Malayan Motors of the Wearne Brothers Group together with Borneo Motors and BMC-Far East (who would produce Austin, Morris and other BMC vehicles); Cycle & Carriage (who would produce Mercedes-Benz and Chrysler vehicles in two plants); Champion Motors (who would assemble VW and Rover, including Land Rover); and Orchard Motors (who would assemble Vauxhall and Bedford vehicles and possibly other General Motors cars and commercial vehicles).
+
 
 
