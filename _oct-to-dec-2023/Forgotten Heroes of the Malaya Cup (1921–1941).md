@@ -40,7 +40,7 @@ While the Anson Road Stadium was used for major matches, other locations in Sing
 <div style="background-color: #fff6ba; text-align:center">&nbsp; Anson Road Stadium. <i>Courtesy of Singapore Sports Council.</i></div><br><br>
 Well-established schools such as Raffles Institution, Anglo-Chinese School and St Joseph’s Institution had easy access to pitches close to the centre of town. Raffles Institution was located at the junction of Bras Basah Road and Beach Road at the time (Raffles City shopping mall stands in its place today), and the reclaimed land opposite the school became the home territory of the Singapore Chinese Football Association (SCFA) and the Malay Football Association.<br><br>
 	
-<b>REFERENCES</b><br><br>  
+<b>REFERENCES</b><br>  
 "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270707-1.2.101">Football: Batavia’s Narrow Win</a>" <i>Singapore Free Press and Mercantile Advertiser</i>, 7 July 1927, 16. (From NewspaperSG)<br><br>
 "<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220106-1.2.46.aspx">Malaya-Borneo Exhibition</a>" <i>Singapore Free Press and Mercantile Advertiser (1884–1942),</i> 6 January 1922, 12. (From NewspaperSG)<br><br>
 "<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19270718-1.2.89">Malaya Cup</a>" <i>Straits Times</i>, 18 July 1927, 12. (From NewspaperSG)<br><br>
