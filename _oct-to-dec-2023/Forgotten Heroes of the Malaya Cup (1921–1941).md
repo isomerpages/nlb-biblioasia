@@ -28,7 +28,6 @@ Royal Air Force (1940–41)|2|2 wins|4|0|
 Army (1940–41)|2|0 wins &amp; 2 draws|4|4|
 Selangor (1925–38)|6|3 wins, 1 draw, &amp; 2 losses|15|7|
 ||52|43 wins, 7 draws &amp; 2 losses|210|41|<br><br>
-
 #### **The Beginnings of the HMS Malaya Cup**
 
 The game of association football (or football as it is better known today) was established in Singapore in 1889. Maritime or marine engineers, soldiers from the 58th Northamptonshire Regiment (known as the Steelbacks) and members of the Singapore Cricket Club (SCC) were the first devotees. By 1891, 30 years before the Malaya Cup began, interest in the sport had swelled considerably. There were 24 football teams recorded, including one each from the Straits Chinese Recreation Club (SCRC) and the Singapore Recreation Club (SRC). However, there was no official organising body for the game until the Singapore Football Association was established in 1892 (renamed Singapore Amateur Football Association in 1929 and then Football Association of Singapore in 1966).[^1]
