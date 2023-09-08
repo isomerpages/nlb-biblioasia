@@ -95,12 +95,14 @@ As Singapore’s Changi Airport marks its 40th anniversary in 2021, Rebecca Tan 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/">Maiden Lim and Her Sisters: Taoist Folk Goddesses of Singapore</a>
-
 The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 
 <img src="/images/Vol%2018%20Issue%204/Maiden%20Lim/image4.png">  
 <hr>
 
-
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-singapore-airlines">A Great Way to Fly: The Singapore Airlines Story</a>
+Established in 1972, Singapore Airlines has earned a reputation as a well-recognised brand known for its impeccable service standards and luxurious in-flight experiences.
+<img src="/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%201.png">  
+<hr>
 
 
