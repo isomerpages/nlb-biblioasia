@@ -76,9 +76,9 @@ From 1966, the automobile industry in Southeast Asia evolved from one of British
 
 It would be exactly 20 years later that Perusahaan Otomobile Nasional Berhad (PROTON) was incorporated (7 May 1983), and Malaysia’s first locally built car, the Proton Saga, was launched on 9 July 1985.
 
-*\ Repco Limited – archives at the University of Melbourne (<a href="https://www.repco.com.au/about-us">https://www.repco.com.au/about-us/</a>.      )  A keiretsu is a set of companies with interlocking business relationships and shareholdings. Taken from the Japanese term (系列) for “system” or “series.”*
+*Repco Limited – archives at the University of Melbourne (<a href="https://www.repco.com.au/about-us">https://www.repco.com.au/about-us/</a>.      )  
 
-*\\ A keiretsu is a set of companies with interlocking business relationships and shareholdings. Taken from the Japanese term (系列) for “system” or “series.”*
+*A keiretsu is a set of companies with interlocking business relationships and shareholdings. Taken from the Japanese term (系列) for “system” or “series.”*
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>CAPITAL MOTOR ASSEMBLY SDN. BHD. (CAPITAL MOTORS) – A CASE OF SINGAPORE COMPANY SETTING UP A PLANT IN MALAYSIA</b><br><br>
 Capital Motors, the last and smallest of the initial six assembly plants, was established in 1967 by the following officeholders:-<br><br>
@@ -88,6 +88,3 @@ Assembly in Tampoi commenced with the Opel Kadett &amp; Rekord in 1968 with 120 
 The plant was then sold to General Motors (GM) in 1971 and the Holden range was transferred from the Associated Motor Industries (AMI - making BMC, Ford, Holden, Renault and Rootes) assembly plant in Selangor.<br><br>
 GM sold the plant to Oriental Holdings (Loh Boon Siew – Honda) in 1980 as the Malaysian government required Malaysians to have majority share holdings in the Assembly plant.
 </div>
-
-
-
