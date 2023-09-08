@@ -3,7 +3,7 @@ title: Medicine
 permalink: /topics/medicine/
 description: ""
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="//vol-17/issue-2/jul-sep-2021/vaccinating-nation/"> Vaccinating a Nation</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/vaccinating-nation"> Vaccinating a Nation</a>
 <p>The history of vaccination in Singapore goes back to the days of William Farquhar. Ong Eng Chuan provides an overview of vaccination efforts to prevent epidemics from breaking out here.</p> 
 
 <img style="width: 100%;" src="/images/vol-17-issue-2/vaccination/Waitingtobevaccinated.jpg"> 
