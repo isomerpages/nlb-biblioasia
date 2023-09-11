@@ -25,7 +25,13 @@ In addition, the collection includes books on civil and political rights, which 
 
 Other books are on the political process, such as those describing the political processes in different regions of the world, including Asia. Topics may include political oppositions in Asia, including China, and how the new technology and communication channels such as the Internet, are changing the political process.
 
+The collection also deals with different political ideologies, such as anarchism, capitalism, communism, and nationalism, etc. These may be high-sounding words. However, publications will explain these ideas in simple terms, allowing even the layperson to understand them. Related to this are books covering systems of governments and states. Books here describe the systems of governments adopted by countries around the world, the concept of statehood, and how states are organised.
 
+Another interesting area in the collection is international migration and colonisation. According to the World Migration 2005, an estimated 175 million persons currently reside outside the country of their birth. Some countries are also receiving refugees escaping from civil wars, political persecution, or other reasons. The topic is also of particular interest to Singaporeans, some of whom are debating whether to stay in Singapore, or to experience alternative lifestyles overseas. Colonisation and decolonisation are interesting topics too, with Singapore being a former British colony. There are books detailing the colonisation and decolonisation of countries, including Singapore and the Southeast Asian region.
+
+In addition, we have a collection of yearbooks and periodicals, which provide more current reports on the political situation in different countries and regions. A small collection of CD-ROMs and various social sciences electronic database are also available for use in the Library Staff on duty at the Information Counter will be able to answer enquiries on the collection or on certain areas in political science. Reference Point, a remote enquiry service accessible by email, mail, fax or telephone, is also available to library patrons who require information on the collection. Examples of interesting enquiries answered previously include the political situation in Myanmar and its efforts at globalisation, and the inquiry into countries not in possession of any war weapons.
+
+Indeed, there are many treasures to be found in the Political Science Collection at the Lee Kong Chian Reference Library. Do visit the collection and discover the exciting world of politics.
 
 
 
