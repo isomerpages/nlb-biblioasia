@@ -23,7 +23,10 @@ Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-lan
 <img src="/images/Vol-12-issue-4/claudius-henry-thomsen/1-claudies-henry-thomsen.jpg">
 <hr>
 
-
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/revival-sg-cinema/">The Revival of Singapore Cinema:  1995–2014</a>
+Singapore’s film industry gets a reboot as it enters a new phase of its development. **Raphaël Millet** explains how this resurgence came about.
+<img src="/images/vol-11-issue-1/revivalofsgcinema/bg4.jpg">
+<hr>
 
 
 
