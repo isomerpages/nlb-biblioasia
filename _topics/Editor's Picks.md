@@ -18,6 +18,10 @@ Thanks to land reclamation, the tiny red dot has broadened its shores substantia
 <img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/">Claudius Henry Thomsen: A Pioneer in Malay Printing</a>
+Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula. **Bonny Tan** sheds light on this pioneer printer.
+<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/1-claudies-henry-thomsen.jpg">
+<hr>
 
 
 
