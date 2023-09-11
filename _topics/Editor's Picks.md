@@ -5,7 +5,7 @@ description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand/">Land From Sand: Singapore’s Reclamation Story</a>
 Thanks to land reclamation, the tiny red dot has broadened its shores substantially. **Lim Tin Seng** discovers just how much Singapore has grown since colonial times.
-<img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg">
+<img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/manvsnature/">Man vs Nature: Speculative Fiction and the Environment</a>
@@ -15,7 +15,7 @@ Thanks to land reclamation, the tiny red dot has broadened its shores substantia
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
 **Mazelan Anuar** tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
-<img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting.png">
+<img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/">Claudius Henry Thomsen: A Pioneer in Malay Printing</a>
