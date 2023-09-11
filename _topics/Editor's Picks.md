@@ -28,7 +28,10 @@ Singapore’s film industry gets a reboot as it enters a new phase of its develo
 <img src="/images/vol-11-issue-1/revivalofsgcinema/bg4.jpg">
 <hr>
 
-
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague/">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
+The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. **Kevin Y.L. Tan** documents his life and work. 
+<img src="/images/Vol-16-issue-2/plague/DrWuLienTeh.jpg">
+<hr>
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand/">Land From Sand: Singapore’s Reclamation Story</a>
