@@ -32,5 +32,3 @@ Singapore’s film industry gets a reboot as it enters a new phase of its develo
 The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. **Kevin Y.L. Tan** documents his life and work. 
 <img src="/images/Vol-16-issue-2/plague/DrWuLienTeh.jpg">
 <hr>
-
-
