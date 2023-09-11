@@ -34,10 +34,10 @@ In addition, we have a collection of yearbooks and periodicals, which provide mo
 Indeed, there are many treasures to be found in the Political Science Collection at the Lee Kong Chian Reference Library. Do visit the collection and discover the exciting world of politics.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>POLITICAL SCIENCE COLLECTION AT THE LEE KONG CHIAN REFERENCE LIBRARY</b><br><br>
-<img src="/images/Vol%202%20Issue%201/Politics/understanding.jpg" style="width:50%;">
+<img src="/images/Vol%202%20Issue%201/Politics/understanding.jpg" style="width:30%;">
 Chris Brown’s Understanding International Relations introduces the subject of international relations in a concise yet broad-ranging manner, with a focus on events of the 20th century. All Rights Reserved, Basingstoke/ Palgrave, 2001.<br><br>
 
-<img src="/images/Vol%202%20Issue%201/Politics/rightswrongs.jpg" style="width:50%;">
+<img src="/images/Vol%202%20Issue%201/Politics/rightswrongs.jpg" style="width:30%;">
 Alan Dershowitz’s Rights From Wrongs offers fresh insights on the question of where our rights come from, and discusses several controversies surrounding different rights. All Rights Reserved, Basic Books, 2004.<br><br>
 
 
