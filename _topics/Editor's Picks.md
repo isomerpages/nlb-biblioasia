@@ -3,6 +3,20 @@ title: Editor's Picks
 permalink: /editors-picks/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand/">Land From Sand: Singapore’s Reclamation Story</a>
+Thanks to land reclamation, the tiny red dot has broadened its shores substantially. **Lim Tin Seng** discovers just how much Singapore has grown since colonial times.
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg">
+<hr>
+	
+
+
+
+
+
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/">Maiden Lim and Her Sisters: Taoist Folk Goddesses of Singapore</a>
 The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 
@@ -32,4 +46,4 @@ During World War II, forced civilian labourers known as&nbsp;_rōmusha_&nbsp;wer
 Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia.&nbsp;Dahlia Shamsuddin&nbsp;has the inside story of how they came to be.
 
 <img style="width:100%;" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg">		 
-<hr>
+<hr></div>
