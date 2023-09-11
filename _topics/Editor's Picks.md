@@ -4,7 +4,7 @@ permalink: /editors-picks/
 description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand/">Land From Sand: Singapore’s Reclamation Story</a>
-Thanks to land reclamation, the tiny red dot has broadened its shores substantially. Lim Tin Sengdiscovers just how much Singapore has grown since colonial times.
+Thanks to land reclamation, the tiny red dot has broadened its shores substantially. Lim Tin Seng discovers just how much Singapore has grown since colonial times.
 
 <img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg" style="width:80%;">
 <hr>
@@ -22,7 +22,7 @@ Mazelan Anuar tracks the rise and decline of Malay printing and publishing in 19
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/">Claudius Henry Thomsen: A Pioneer in Malay Printing</a>
-Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula. **Bonny Tan** sheds light on this pioneer printer.
+Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula. Bonny Tan sheds light on this pioneer printer.
 
 <img src="/images/Vol-12-issue-4/claudius-henry-thomsen/1-claudies-henry-thomsen.jpg" style="width:50%;">
 <hr>
