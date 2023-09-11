@@ -5,22 +5,13 @@ description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand/">Land From Sand: Singapore’s Reclamation Story</a>
 Thanks to land reclamation, the tiny red dot has broadened its shores substantially. **Lim Tin Seng** discovers just how much Singapore has grown since colonial times.
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg">
+<img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg">
 <hr>
-	
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/manvsnature/">Man vs Nature: Speculative Fiction and the Environment</a>
 **Jacqueline Lee** surveys the landscape of Singapore speculative fiction to see how writers address pressing environmental concerns in their novels and short stories.
-<div style="background-color: white;">
-<br>
 <img src="/images/Vol-17-issue-1/manvsnature/medusa.jpg">
 <hr>
-	
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
-#### **Mazelan Anuar** tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting.png">
-<hr>
-
-	
 
 
 
@@ -29,14 +20,7 @@ Thanks to land reclamation, the tiny red dot has broadened its shores substantia
 
 
 
-
-
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/">Maiden Lim and Her Sisters: Taoist Folk Goddesses of Singapore</a>
-The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
-
-<img style="width:100%;" src="/images/Vol%2018%20Issue%204/Maiden%20Lim/image1.png">
-<hr>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand/">Land From Sand: Singapore’s Reclamation Story</a>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/">Belacan: Caviar? Or Vile and Disgusting?</a>
 Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to.
@@ -61,4 +45,4 @@ During World War II, forced civilian labourers known as&nbsp;_rōmusha_&nbsp;wer
 Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia.&nbsp;Dahlia Shamsuddin&nbsp;has the inside story of how they came to be.
 
 <img style="width:100%;" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg">		 
-<hr></div></div></div>
+<hr>
