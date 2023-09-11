@@ -40,6 +40,7 @@ Chris Brown’s Understanding International Relations introduces the subject of 
 <img src="/images/Vol%202%20Issue%201/Politics/rightswrongs.jpg" style="width:50%;">
 Alan Dershowitz’s Rights From Wrongs offers fresh insights on the question of where our rights come from, and discusses several controversies surrounding different rights. All Rights Reserved, Basic Books, 2004.<br><br>
 
+
 <div>
 <center><b>Neo Tiong Seng</b><br>Reference Librarian<br> Lee Kong Chian Reference Library </center></div>
  
