@@ -27,7 +27,5 @@ By the early 20th century, non-Europeans had established a number of English pap
 
 In the 1970s, the delicate political situation of post-independent Singapore saw the closure of a number of newspapers like *The Eastern Sun* and *The Singapore Herald*. In recent times, attempts have been made to diversify the newspaper business and to liberalise the Singapore media scene through the introduction of new papers like *The Singapore Monitor*, *The New Paper* (1988–), an afternoon tabloid, *Project Eyeball* which targeted the young, educated and savvy readers, and commuter papers like *Streats* (2003) and *Today* (2000–). All have since ceased publication, with the exception of *The New Paper* and *Today*.
 
-
-
-
+Mirroring the increased development of Singapore, the vernacular presses flourished during the 1870s when the Straits Settlements came under the direct rule of the Colonial Office in London in 1867. The Library’s holdings of Malay newspapers include the first Malay newspaper published in Malaya, the *Jawi Peranakan* (1876–1895). Edited by Mohameed Said bin Dada Mahyiddin, a Penangborn Indian Muslim and teacher at the Raffles Institution, the paper was credited with raising the social awareness of the Malay community and promoting Malay education and language. Other titles in the collection include: *Lembaga Melayu* 
 
