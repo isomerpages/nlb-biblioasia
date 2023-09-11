@@ -33,6 +33,13 @@ In addition, we have a collection of yearbooks and periodicals, which provide mo
 
 Indeed, there are many treasures to be found in the Political Science Collection at the Lee Kong Chian Reference Library. Do visit the collection and discover the exciting world of politics.
 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>POLITICAL SCIENCE COLLECTION AT THE LEE KONG CHIAN REFERENCE LIBRARY</b><br><br>
+<img src="/images/Vol%202%20Issue%201/Politics/understanding.jpg" style="width:50%;">
+Chris Brown’s Understanding International Relations introduces the subject of international relations in a concise yet broad-ranging manner, with a focus on events of the 20th century. All Rights Reserved, Basingstoke/ Palgrave, 2001.<br><br>
+
+<img src="/images/Vol%202%20Issue%201/Politics/rightswrongs.jpg" style="width:50%;">
+Alan Dershowitz’s Rights From Wrongs offers fresh insights on the question of where our rights come from, and discusses several controversies surrounding different rights. All Rights Reserved, Basic Books, 2004.<br><br>
+
 <div>
 <center><b>Neo Tiong Seng</b><br>Reference Librarian<br> Lee Kong Chian Reference Library </center></div>
  
@@ -47,9 +54,4 @@ Tatu Vanhanen, _[Prospects of Democracy: A Study of 172 Countries](https://eserv
 The publication contains an interesting comparative analysis of the levels of democratization of 172 states, including Singapore.
 
 Walter C. Opello, Jr., and Stephen J. Rosow, _[The Nation-state and Global Order: A Historical Introduction to Contemporary Politics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12506193)_ (Colo: Lynne Rienner Publishers, 2004). (Call no. R 321.009 OPE)  
-The publication describes the concept of the State, and how it has changed over time. Taking a historical approach to the state and global order, the book discusses the emergence of the territorial state. It also examines challenges to the state and questions if there is a need for a new world order.
-
-
-
-
-
+The publication describes the concept of the State, and how it has changed over time. Taking a historical approach to the state and global order, the book discusses the emergence of the territorial state. It also examines challenges to the state and questions if there is a need for a new world order.</div>
