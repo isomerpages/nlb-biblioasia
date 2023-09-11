@@ -33,5 +33,23 @@ In addition, we have a collection of yearbooks and periodicals, which provide mo
 
 Indeed, there are many treasures to be found in the Political Science Collection at the Lee Kong Chian Reference Library. Do visit the collection and discover the exciting world of politics.
 
+<div>
+<center><b>Neo Tiong Seng</b><br>Reference Librarian<br> Lee Kong Chian Reference Library </center></div>
+ 
+#### **FURTHER READING**
+American Political Science Association, _[Perspectives On Politics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12123312)_ (Call no. R 320.05 PP)  
+A quarterly periodical, Perspectives on Politics, contains articles providing political insight on important problems, review essays on selected topics, and book reviews.
+
+R. K. Gibson, P. G. Nixon and S. J. Ward, eds., _Political Parties and the Internet: Net Gain?_ (New York: Routledge, 2003)  
+The book describes how the Internet can engage the public in politics, and how political parties are using it as a communication tool.
+
+Tatu Vanhanen, _[Prospects of Democracy: A Study of 172 Countries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7824506)_ (New York: Routledge, 1997). (Call no. RCLOS 320.9 VAN)  
+The publication contains an interesting comparative analysis of the levels of democratization of 172 states, including Singapore.
+
+Walter C. Opello, Jr., and Stephen J. Rosow, _[The Nation-state and Global Order: A Historical Introduction to Contemporary Politics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12506193)_ (Colo: Lynne Rienner Publishers, 2004). (Call no. R 321.009 OPE)  
+The publication describes the concept of the State, and how it has changed over time. Taking a historical approach to the state and global order, the book discusses the emergence of the territorial state. It also examines challenges to the state and questions if there is a need for a new world order.
+
+
+
 
 
