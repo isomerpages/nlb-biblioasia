@@ -8,7 +8,13 @@ Thanks to land reclamation, the tiny red dot has broadened its shores substantia
 <div style="background-color: white;"><br><img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg">
 <hr>
 	
-
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/manvsnature/">Man vs Nature: Speculative Fiction and the Environment</a>
+**Jacqueline Lee** surveys the landscape of Singapore speculative fiction to see how writers address pressing environmental concerns in their novels and short stories.
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-17-issue-1/manvsnature/medusa.jpg">
+<hr>
+	
 
 
 
@@ -46,4 +52,4 @@ During World War II, forced civilian labourers known as&nbsp;_rōmusha_&nbsp;wer
 Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia.&nbsp;Dahlia Shamsuddin&nbsp;has the inside story of how they came to be.
 
 <img style="width:100%;" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg">		 
-<hr></div>
+<hr></div></div>
