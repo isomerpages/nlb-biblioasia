@@ -33,5 +33,8 @@ The Library's collection also houses a rich selection of Chinese newspapers.  It
 
 The Library's microfilm collection also contains Indian newspapers. *Singai Nesan* (1887–1890) was published in 1887 by Makadoom Saiboo to commemorate the Queen Victoria Silver Jubilee celebrations. *Kerala Bandhu* (1938–1964) and *Najwan* (1955–1976) are thought to be the only Malayan and Punjabi newspapers serving Malayan region respectively. Though many of the newspapers dealt with the news and concerns back home in India, they also provided an important avenue for creative and literary expressions, thereby fostering the birth and development of Singapore literature.
 
-Today, the Library continues to film and archive all locally produced newspapers such as *The Straits Times*, *The Business Times*, *The New Paper*, *Today*, *Lianhe Zaobao*, *Lianhe Wanbao*, *Shin Min Daily*, *Berita Harian*, *Tamil Murasu* and youth papers like *Friday Weekly* and *Thumb Up Weekly*
+Today, the Library continues to film and archive all locally produced newspapers such as *The Straits Times*, *The Business Times*, *The New Paper*, *Today*, *Lianhe Zaobao*, *Lianhe Wanbao*, *Shin Min Daily*, *Berita Harian*, *Tamil Murasu* and youth papers like *Friday Weekly* and *Thumb Up Weekly*.
+
+
+
 
