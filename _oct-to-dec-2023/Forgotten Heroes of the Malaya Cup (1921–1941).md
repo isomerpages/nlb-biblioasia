@@ -28,7 +28,10 @@ Royal Air Force (1940–41)|2|2 wins|4|0|
 Army (1940–41)|2|0 wins &amp; 2 draws|4|4|
 Selangor (1925–38)|6|3 wins, 1 draw, &amp; 2 losses|15|7|
 ||52|43 wins, 7 draws &amp; 2 losses|210|41|<br><br>
-<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b> PUBLICATIONS BY THE MISSION PRESS OF THE LONDON MISSIONARY SOCIETY</b><br><br>
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b> MALAYA CUP HEROES</b><br><br>
+The earlier home matches in the Malaya Cup were played on the Padang. Matches between 1921 and 1923 were played in the field that is close to the Singapore Recreation Club. After Anson Road Stadium (also known as Singapore Stadium) opened in 1924, this became the main venue for Malaya Cup matches until 1941.<br><br>
+	<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/mbe%20image.jpg"><br><br>The pitch had originally been part of the Malaya Borneo Exhibition (MBE) in 1922. The grounds were realigned and enlarged, with small grandstands erected along the touchlines. For the remaining perimeter vantage points, there was an enclosure with a 12-foot-high grass bank. The stadium had an official capacity of 4,000 though some games would draw huge crowds.<br><br>         
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/anson%20image.jpg"><br><br>Malaya Cup games at the Anson Road Stadium were not the most popular spectator events though. Senior League matches involving SCFA and contests against touring teams drew the biggest crowds to the stadium. For instance, Batavia Hercules from Java played against SCFA in a match that attracted 8,535 fans, while Singapore’s 5–0 victory over Malacca in a preliminary round of the Malaya Cup, also in 1927, was witnessed by 6,539 fans.<br><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx"><b>
