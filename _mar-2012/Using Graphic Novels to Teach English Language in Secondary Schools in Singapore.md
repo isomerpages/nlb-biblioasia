@@ -80,7 +80,7 @@ The hypothesis predicts that the Treatment group would show a greater improvemen
 
 The responses to the survey were summarised and analysed (Table 3).
 
-<img src="/images/Vol%207%20issue%204/GraphicNovels/Presentation7.jpg" style="width:80%;">
+<img src="/images/Vol%207%20issue%204/GraphicNovels/blackboard5.jpg" style="width:80%;">
 <div style="background-color: white;"></div>
 			
 The survey shows that while students in both groups found the verbal text and the multimodal text from the graphic novel interesting, a larger proportion of students within the Treatment group, which used the graphic novel, agreed that the lesson helped them achieve the learning objectives of improving their descriptive writing (Questions 5, 6 and 7). The responses included, “Through pictures, I can learn better”, “I like the ‘Singapore flavour’ in the comics” and “It helped me to use imagination to include inside the novel. I now can make my novel more interesting and real”. While the survey sample is small and we cannot easily make generalisations on larger populations based on this data, we believe that it can be used to give some indication that the use of graphic novels engaged the imagination of pupils in the Treatment group and helped them improve between the pre-test and post-test more than the Control group did.
