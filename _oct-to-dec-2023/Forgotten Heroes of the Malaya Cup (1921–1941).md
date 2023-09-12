@@ -104,7 +104,7 @@ The players with the most number of appearances in the finals were Dolfattah (ni
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">24</span></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">2.40</span></p></td><td width="120" valign="top" style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">10.40 %</span></p></td></tr></tbody></table><br><br>
-		<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/composition%20of%20sg%20football%20team.jpg" style="width:70%;"><br><br></div>
+		<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/composition%20of%20sg%20football%20team.jpg" style="width:70%;"><br></div>
 </div>
 
 
