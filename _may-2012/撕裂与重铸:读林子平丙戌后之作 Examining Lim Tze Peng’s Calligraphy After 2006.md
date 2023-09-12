@@ -1,5 +1,5 @@
 ---
-title: 撕裂与重铸:读林子平丙戌后之作 Examining Lim Tze Peng’s calligraphy after 2006
+title: 撕裂与重铸:读林子平丙戌后之作 Examining Lim Tze Peng’s Calligraphy After 2006
 permalink: /vol-8/issue-1/may-2012/lee-tze-peng-calligraphy/
 description: Examining Lim Tze Peng’s calligraphy after 2006.
 ---
@@ -7,7 +7,7 @@ Singapore veteran artist and 2003 Cultural Medallion Award winner Lim Tze Peng i
 
 In this article, Yeo Mang Thong examines the changes in Lim Tze Peng’s painting style after 2006, in particular, the shift from “painting what one sees” to “painting from one’s heart”. In Yeo’s opinion, the *Inroads* series exhibited in 2008 was a good representation of Lim’s switch from realistic painting to works that are relatively more abstract. He observes that Lim derives his artistic inspiration from the emotions that he senses in his surroundings. Yeo also notes similar shifts in the style of Lim’s Chinese calligraphy works, from neater and cleaner pieces to those with freehand strokes, evoking a lively and vibrant aura. Yeo views this change in style as a result of Lim’s carefree life after retirement and his perseverance in achieving higher levels of artistic excellence.
 
-Learn more about Lim Tze Peng by visiting the National Online Repository of the Arts (NORA) at <a href="https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx">https://eresources.nlb.gov.sg/arts/website/Common/Homepage.aspx</a>. 
+Learn more about Lim Tze Peng by visiting the National Online Repository of the Arts (NORA) at <a href="https://eresources.nlb.gov.sg/arts/website/contents/ArtistDetails.aspx?Id=cf2e1672-3890-44f1-9630-e3c24ffe4e71">https://eresources.nlb.gov.sg/arts/website/contents/ArtistDetails.aspx?Id=cf2e1672-3890-44f1-9630-e3c24ffe4e71</a>.
 
 <img style="width:80%;" src="/images/Vol%208%20issue%201/Lim%20Tze%20Peng/Capture.jpg">
 <div style="background-color: white;"><center>《心向》</center></div>

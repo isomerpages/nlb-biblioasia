@@ -1,5 +1,5 @@
 ---
-title: 姚紫小说与文学语言研究
+title: 姚紫小说与文学语言研究 A Study of Yao Zi’s Literary Language Through His Novels
 permalink: /vol-8/issue-1/may-2012/yao-zi-literary-language/
 description: A study of Yao Zi’s literary language through his novels
 ---

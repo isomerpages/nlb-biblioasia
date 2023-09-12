@@ -1,5 +1,5 @@
 ---
-title: 新加坡华文 书业历史简述 A brief history of the Chinese book industry in Singapore
+title: 新加坡华文 书业历史简述 A Brief History of the Chinese Book Industry in Singapore
 permalink: /vol-8/issue-1/may-2012/singapore-history-chinese-book/
 description: A brief history of the Chinese book industry in Singapore.
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Historical and Cultural Influence of the Record Industry of
-  Singapore, 1903 to1975
+  Singapore, 1903 to 1975
 permalink: /vol-8/issue-1/may-2012/singapore-record-industry/
 description: Over a period of 75 years during the last century, Singapore was
   one of the most important centres for the record industry in Southeast Asia.
