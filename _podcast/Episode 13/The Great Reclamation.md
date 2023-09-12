@@ -11,9 +11,11 @@ third_nav_title: Episode 13
 
  
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/episode/6vGhTAmDHGqSJulPUEurv6), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-great-reclamation/id1688142751?i=1000625199927), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MzRlY2UzN2QtOWMyNC00MDI3LTkyODAtYzlhODUxYjEzYWYy?sa=X&amp;ved=0CAUQkfYCahcKEwiw0brBiO-AAxUAAAAAHQAAAAAQAQ), and wherever you listen.
+Available on [Spotify](https://open.spotify.com/episode/6vGhTAmDHGqSJulPUEurv6), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-great-reclamation/id1688142751?i=1000625199927), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MzRlY2UzN2QtOWMyNC00MDI3LTkyODAtYzlhODUxYjEzYWYy?sa=X&amp;ved=0CAUQkfYCahcKEwiw0brBiO-AAxUAAAAAHQAAAAAQAQ) and [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Great-Reclamation-2115201).
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
+
+Read [an excerpt](/vol-19/issue-4/jan-mar-2024/interview-rachel-heng/) of the interview.
 
 #### **About the Guest** ####
 Rachel Heng is the author of the novels [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224) (Riverhead,  2023) – a New York Times Editors’ Choice and a "Best Book of 2023 So Far" by The New Yorker, Amazon Books and Town &amp; Country Magazine – and [*Suicide Club*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203154066) (Henry Holt / Sceptre, 2018), which was a national bestseller in Singapore and has been translated into 10 languages.
@@ -23,7 +25,7 @@ Born and raised in Singapore, Rachel received her BA in Comparative Literature &
 #### **Resources** ####
 Rachel Heng, [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224)  (New York : Riverhead Books, 2023).
 
-Lim Tin Seng, "[Land from Sand: Singapore’s Reclamation Story](/vol-13/issue-1/apr-jun-2017/land-from-sand/)," BiblioAsia 13(1), 2017.
+Lim Tin Seng, "[Land from Sand: Singapore’s Reclamation Story](/vol-13/issue-1/apr-jun-2017/land-from-sand/)," *BiblioAsia* 13(1), 2017.
 
 Mark Ravinder Frost and Yu-Mei Balasingamchow, [*Singapore: A Biography*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116) (Singapore: Editions Didier Millet, 2009).
 
