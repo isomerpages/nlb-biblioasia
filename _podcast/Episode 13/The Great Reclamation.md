@@ -11,7 +11,7 @@ third_nav_title: Episode 13
 
  
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/episode/6vGhTAmDHGqSJulPUEurv6), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-great-reclamation/id1688142751?i=1000625199927), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MzRlY2UzN2QtOWMyNC00MDI3LTkyODAtYzlhODUxYjEzYWYy?sa=X&amp;ved=0CAUQkfYCahcKEwiw0brBiO-AAxUAAAAAHQAAAAAQAQ), and wherever you listen.
+Available on [Spotify](https://open.spotify.com/episode/6vGhTAmDHGqSJulPUEurv6), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-great-reclamation/id1688142751?i=1000625199927), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MzRlY2UzN2QtOWMyNC00MDI3LTkyODAtYzlhODUxYjEzYWYy?sa=X&amp;ved=0CAUQkfYCahcKEwiw0brBiO-AAxUAAAAAHQAAAAAQAQ) and [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Great-Reclamation-2115201).
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
