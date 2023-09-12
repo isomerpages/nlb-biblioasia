@@ -25,7 +25,7 @@ Born and raised in Singapore, Rachel received her BA in Comparative Literature &
 #### **Resources** ####
 Rachel Heng, [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224)  (New York : Riverhead Books, 2023).
 
-Lim Tin Seng, "[Land from Sand: Singapore’s Reclamation Story](/vol-13/issue-1/apr-jun-2017/land-from-sand/)," BiblioAsia 13(1), 2017.
+Lim Tin Seng, "[Land from Sand: Singapore’s Reclamation Story](/vol-13/issue-1/apr-jun-2017/land-from-sand/)," *BiblioAsia* 13(1), 2017.
 
 Mark Ravinder Frost and Yu-Mei Balasingamchow, [*Singapore: A Biography*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116) (Singapore: Editions Didier Millet, 2009).
 
