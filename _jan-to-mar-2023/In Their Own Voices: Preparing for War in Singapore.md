@@ -130,24 +130,24 @@ Ang Seah San, the bookkeeper and sergeant of an ARP unit, said that he destroyed
 This destruction of records during wartime, both deliberate and accidental, underlines the importance of oral history. Through the memories of these survivors, captured on tape and now digitised for convenient access, we will be able to preserve vital aspects of Singapore’s past that would otherwise have no other trace.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%204/Authors/Christabel_Khoo.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%204/Authors/Christabel_Khoo.png" style="width: 100px; height: 100px;">
 	<b>Christabel Khoo</b> is an Assistant Archivist with Records Management at the National Archives of Singapore.
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%204/Authors/Mark_Wong.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%204/Authors/Mark_Wong.png" style="width: 100px; height: 100px;">
 <b>Mark Wong</b> is a Senior Specialist (Oral History) with the Oral History Centre, National Archives of Singapore, where he leads the oral history project on Singapore’s experiences with Covid-19. He is also Vice President of the International Oral History Association.
 </div>
 
 
 #### **NOTES**
 
-[^1]: Lee Geok Boi, [*The Syonan Years: Singapore under Japanese Rule 1942–1945*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12661517) (Singapore: National Archives of Singapore and Epigram Pte Ltd, 2005), 44. (From National Library, Singapore, call no. RSING q940.53957 LEE-[WAR])
+[^1]: Lee Geok Boi, [*The Syonan Years: Singapore under Japanese Rule 1942–1945*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12661517) (Singapore: National Archives of Singapore and Epigram Pte Ltd, 2005), 44. (From National Library, Singapore, call no. RSING q940.53957 LEE-[WAR])
 
 
-[^2]: Toh Mah Keong, oral history interview by Lim How Seng, 27 December 1979, [transcript](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/caf843a2-1160-11e3-83d5-0050568939ad-OHC000001_002/web/html5/) and MP3 audio, Reel/Disc of 2 of 10, National Archives of Singapore ([accession no. 000001](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000001)), 18.
+[^2]: Toh Mah Keong, oral history interview by Lim How Seng, 27 December 1979, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/caf843a2-1160-11e3-83d5-0050568939ad-OHC000001_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5) and MP3 audio, Reel/Disc of 2 of 10, National Archives of Singapore ([accession no. 000001](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/caf843a2-1160-11e3-83d5-0050568939ad), 18.
 
 
 [^3]: Soh Guan Bee, oral history interview by Low Lay Leng, 17 August 1983, [transcript](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e685a37a-115d-11e3-83d5-0050568939ad-OHC000310_001/web/html5/) and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore ([accession no. 000310](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000310)), 8–9.
@@ -195,7 +195,7 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^19]: Isa Ibrahim, oral history interview by Low Lay Leng, 6 January 1983, [transcript](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e4e19c80-115d-11e3-83d5-0050568939ad-OHC000242_011/web/html5/) and MP3 audio, Reel/Disc 11 of 28, National Archives of Singapore ([accession no. 000242](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000242)), 137.
 
 
-[^20]: Lee, [*The Syonan Years*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12661517), 44.
+[^20]: Lee, [*The Syonan Years*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12661517), 44.
 
 
 [^21]: Ang Seah San, oral history interview by Low Lay Leng, 24 March 1984, [transcript](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea000529-115d-11e3-83d5-0050568939ad-OHC000419_001/web/html5/) and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore ([accession no. 000419](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000419)), 1–2.
