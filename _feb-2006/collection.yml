@@ -2,6 +2,4 @@ collections:
   feb-2006:
     output: true
     order:
-      - "A Meeting of Minds: Interviews with Mr Michael Keller and Professor
-        Howard Besser.md"
       - Director's Column.md
