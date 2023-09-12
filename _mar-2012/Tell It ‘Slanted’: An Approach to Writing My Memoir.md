@@ -17,8 +17,6 @@ description: In my view, one cannot write a good memoir without reading other
 <div style="background-color: white;">
 The Yeo brothers: (from left) Teck Hock, Teck Kee, Teck Joon and Teck Chye.</div>
 	
-
-
 #### **Routes and Roots**
 
 First, let me explain the title I have chosen for my memoir, *Routes*. I am told the American pronunciation is “routs”, but obviously that is not what I have in mind. I wanted a pun that suggests “roots”, a reference first of all to Alex Haley’s 1976 groundbreaking book *Roots: The Saga of an American Family*.[^1] In that book, Haley goes back to his family’s early roots in Africa and discusses how the first ancestor was transported to America to work as a slave. The book focused on “roots” to mean “origins”, reinforced greatly by the television series that followed the publication of the book. Yes, I am interested in my roots in that sense, and it shows in my accounts of the lives of my parents and grandparents.
@@ -55,6 +53,9 @@ The Datsun car, licence plate SX2368, that I drove to Bangkok in December 1971.<
  
  
 I felt absolutely privileged that in the first half of my life so far, I had been witness to extraordinary happenings. First, how many people get a chance to witness his/her homeland’s transition from a colony to a nation? On page 166 of my memoir, I quote Lee Kuan Yew when he was taking the oath as Prime Minister of Singapore on 9 August 1965: “that as from today, the ninth day of August in the year one thousand nine hundred and sixtyfive Singapore shall be forever a sovereign, democratic and independent nation”. Two, many people get to go to London for a variety of reasons but how many actually were there at a time of glorious tumult in a world capital — when women upped their skirts and young people downed old values, smoked hash, loved freely, and all these happening while the Beatles were redefining pop music? Third, not many people in Asia, influenced by American soft power in the arts — movies, comics, jazz — got to witness the same power humiliated militarily as they pulled out of Saigon, Vietnam on 30 April 1975, thus ending the Vietnam War. These experiences have shaped my life for the better.
+
+<img src="/images/Vol%207%20issue%204/WritingMemoir/colette.jpg" style="width:80%;">
+ <div style="background-color: white;">My favourite picture of Colette, taken on the campus of Nottingham University.</div>
 
 My Self, of course, includes family. Given my Peranakan heritage — and such a heritage has a long history in Singapore and Malaysia — it is inevitable that I would have to include the stories of the two generations prior to mine, as well as my own. In writing about my generation, I however found it easy to link it to my parents and my paternal and maternal grandparents. Without this “flashback”, how else can I do justice to the past in a filial way? On reflection, I realise that my book is a Confucian act of filial piety by the eldest son in my family: Grandfather Teck Hock was the first son in his family, my father Koon Yam was the first son in his, and I am also the first son of my father.
 
