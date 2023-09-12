@@ -228,7 +228,7 @@ Commonly referred to as Logan’s Journal after its editor, the Scottish lawyer 
 <div style="background-color: #fff6ba; text-align:left">      These pages are from an article on the geological features of Singapore published in volume 1 of <i>The Journal of the Indian Archipelago and Eastern Asia. The illustrated plate on the right was lithographed at the Mission Press. Collection of the National Library, Singapore (Call no. RRARE 950.05 JOU; Accession nos. B03014400A [v. 1]).</i></div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/81c0b1e2-807f-433b-b9d1-500ab4d06e62.aspx"><b>     
+<a href="https://eservice.nlb.gov.sg/item\_holding.aspx?id=4079095"><b>     
 Hikayat Abdullah</b></a><br>
 Singapore: Lithographed at the Mission Press, 1849.<br>
 Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
