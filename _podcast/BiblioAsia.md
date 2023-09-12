@@ -11,7 +11,7 @@ BiblioAsia+ is a podcast about Singapore stories: some unfamiliar, others forgot
 
 #### **Listen to All 13 Episodes** ####
 Subscribe to get notified when the next episode drops:
-[Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8). 
+[Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156). 
 
 **My Grandfather Was a Romusha**<br> 
 After Kosman Hassan volunteered to take his uncle’s place to work on the infamous Death Railway, no one heard from Kosman for three years. But his family never gave up hope.
@@ -72,32 +72,32 @@ Listen on: [Spotify](https://open.spotify.com/episode/5hjhacY4GSbiRJ86HKK4Qt),[A
 People have been worshipping the shrines on Kusu Island since the mid-19th century. The people said to be buried at Kusu Island, however, haven’t always stayed the same, according to writer and researcher William L. Gibson. <br>
 
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%209%20(shrines%20by%20william)v1.jpg" align="left"><br clear="all">
-Listen on: [Spotify](https://open.spotify.com/episode/12nHrDUKtxEF8F5zup9xK3), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-stories-behind-the-shrines-on-kusu-island/id1688142751?i=1000622165192), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZTVkMDUxNzEtNjI0Yy00MThkLTk2NDctNmY0YzRjNGVjMWVl?sa=X&amp;ved=0CAUQkfYCahcKEwiIuI3DuaiAAxUAAAAAHQAAAAAQCg)
+Listen on: [Spotify](https://open.spotify.com/episode/12nHrDUKtxEF8F5zup9xK3), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-stories-behind-the-shrines-on-kusu-island/id1688142751?i=1000622165192), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZTVkMDUxNzEtNjI0Yy00MThkLTk2NDctNmY0YzRjNGVjMWVl?sa=X&amp;ved=0CAUQkfYCahcKEwiIuI3DuaiAAxUAAAAAHQAAAAAQCg), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Stories-Behind-the-Shrines-on-Kusu-Island-2115211)
 
 **1 August: The Recording Industry in Singapore, 1903–1985**<br>
 The Crescendos didn’t just rock the airways in Singapore in the 1960s. They changed the entire music recording industry, says sound archivist Ross Laird.  <br>
 
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%2010%20(record%20by%20ross)v1.jpg" align="left"><br clear="all">
-Listen on: [Spotify](https://open.spotify.com/episode/3dl1waKmiCYXXAQpdLJGrb), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-recording-industry-in-singapore-1903-1985/id1688142751?i=1000622945042), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NWQ3YzhkZDktYWRlOC00NGYwLThiZjEtOWUwZTFkZmQ0Njgx?sa=X&amp;ved=0CAUQkfYCahcKEwiQgq7phLqAAxUAAAAAHQAAAAAQCg)
+Listen on: [Spotify](https://open.spotify.com/episode/3dl1waKmiCYXXAQpdLJGrb), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-recording-industry-in-singapore-1903-1985/id1688142751?i=1000622945042), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NWQ3YzhkZDktYWRlOC00NGYwLThiZjEtOWUwZTFkZmQ0Njgx?sa=X&amp;ved=0CAUQkfYCahcKEwiQgq7phLqAAxUAAAAAHQAAAAAQCg), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Recording-Industry-in-Singapore--1903-1985-2115206)
 
 **8 August: Lest We Forget: Kranji War Cemetery**<br>
 Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Chin Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.<br>
 
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%2011%20(kranji%20by%20janice)v1.jpg" align="left"><br clear="all">
 Listen on:
-[Spotify](https://open.spotify.com/episode/33nzTeq4iXdGFXLQcuJiVc), [Apple Podcasts](https://podcasts.apple.com/us/podcast/lest-we-forget-kranji-war-cemetery/id1688142751?i=1000623701177), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NWU5YzdkMGQtMWYwNS00NjE0LWIzY2QtYjU0NGJjYTMwYzk4?sa=X&amp;ved=0CAUQkfYCahcKEwiA442U1cuAAxUAAAAAHQAAAAAQAQ)
+[Spotify](https://open.spotify.com/episode/33nzTeq4iXdGFXLQcuJiVc), [Apple Podcasts](https://podcasts.apple.com/us/podcast/lest-we-forget-kranji-war-cemetery/id1688142751?i=1000623701177), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NWU5YzdkMGQtMWYwNS00NjE0LWIzY2QtYjU0NGJjYTMwYzk4?sa=X&amp;ved=0CAUQkfYCahcKEwiA442U1cuAAxUAAAAAHQAAAAAQAQ), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Lest-We-Forget--Kranji-War-Cemetery-2115191)
 
 **15 August: What’s Become of the Seafaring Orang Seletar?**<br>
 The Orang Seletar used to live on boats that plied the Johor Strait. They were here when Raffles landed in 1819. Today, however, they have settled in kampongs in Johore. Some of the older ones still remember playing in the waters around Seletar island, says writer and educator Ilya Katrinnada.<br>
 
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%2012%20(orang%20seletar%20by%20ilya)v1.jpg" align="left"><br clear="all">
-Listen on: [Spotify](https://open.spotify.com/episode/1khpU2lC5XWR9mef2bbIBY), [Apple Podcasts](https://podcasts.apple.com/us/podcast/whats-become-of-the-seafaring-orang-seletar/id1688142751?i=1000624413738), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/YzZmNzNkZjQtMjU4My00NmY0LTkxNzctYjVmMDAwY2Q2Zjg3?sa=X&amp;ved=0CAUQkfYCahcKEwjY3uDfpN2AAxUAAAAAHQAAAAAQAQ)
+Listen on: [Spotify](https://open.spotify.com/episode/1khpU2lC5XWR9mef2bbIBY), [Apple Podcasts](https://podcasts.apple.com/us/podcast/whats-become-of-the-seafaring-orang-seletar/id1688142751?i=1000624413738), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/YzZmNzNkZjQtMjU4My00NmY0LTkxNzctYjVmMDAwY2Q2Zjg3?sa=X&amp;ved=0CAUQkfYCahcKEwjY3uDfpN2AAxUAAAAAHQAAAAAQAQ), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/What%E2%80%99s-Become-of-the-Seafaring-Orang-Seletar--2115196)
 
 **22 August: The Great Reclamation**<br>
 *The Great Reclamation* is a work of historical fiction set in Singapore that has received rave reviews from the New Yorker and the New York Times. A love story, it also took five years of serious research into a variety of topics, including land reclamation, the Japanese occupation, and postwar politics in Singapore. Listen to author Rachel Heng talk about her book and her fascinating research process, including a BiblioAsia article on&nbsp;[land reclamation](https://nlb-ba-staging.netlify.app/vol-13/issue-1/apr-jun-2017/land-from-sand/)&nbsp;she referred to!<br>
 
 <img style="width: 35%" src="/images/Podcast/ep%2013%20(rachel%20heng).jpg" align="left"><br clear="all">
-Listen on: [Spotify](https://open.spotify.com/episode/6vGhTAmDHGqSJulPUEurv6), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-great-reclamation/id1688142751?i=1000625199927), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MzRlY2UzN2QtOWMyNC00MDI3LTkyODAtYzlhODUxYjEzYWYy?sa=X&amp;ved=0CAUQkfYCahcKEwiw0brBiO-AAxUAAAAAHQAAAAAQAQ)
+Listen on: [Spotify](https://open.spotify.com/episode/6vGhTAmDHGqSJulPUEurv6), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-great-reclamation/id1688142751?i=1000625199927), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MzRlY2UzN2QtOWMyNC00MDI3LTkyODAtYzlhODUxYjEzYWYy?sa=X&amp;ved=0CAUQkfYCahcKEwiw0brBiO-AAxUAAAAAHQAAAAAQAQ), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Great-Reclamation-2115201)
 
 #### **Credits** ####
 BiblioAsia+ was hosted by Jimmy Yap and produced by Soh Gek Han. Sound engineering was done by Gibson Analytics. The background music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;[Chords Haven](https://www.youtube.com/watch?v=uA2v7ka5TAI). Special thanks to the guests for coming on the show.
