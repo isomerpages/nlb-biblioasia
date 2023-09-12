@@ -247,7 +247,7 @@ This translation of the Malay New Testament in Romanised Malay was edited and pu
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=203130883"><b>Ceritera Ilmu Kepandaian Orang Putih</b></a><br>Singapore: Bukit Zion, 1855.<br>Call no. RRARE 306.460973 CER; Accession no. B31655051D.<br><br>
-Roughly translated as _The Book of European Knowledge_, it was prepared by Munshi Abdullah for use in Benjamin Keasberry’s school. It covers various European modern technology and their social benefits, such as gaslights, water piping systems, railways and printing presses. The textbook was published at Mount Zion on River Valley Road, the location of the new mission office that Keasberry had established as an independent missionary after the London Missionary Society exited from Singapore in 1847.</div><br>
+	Roughly translated as <i>The Book of European Knowledge</i>, it was prepared by Munshi Abdullah for use in Benjamin Keasberry’s school. It covers various European modern technology and their social benefits, such as gaslights, water piping systems, railways and printing presses. The textbook was published at Mount Zion on River Valley Road, the location of the new mission office that Keasberry had established as an independent missionary after the London Missionary Society exited from Singapore in 1847.</div><br>
 
 <img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/ceritera%20ilmu_z.jpg">
 
