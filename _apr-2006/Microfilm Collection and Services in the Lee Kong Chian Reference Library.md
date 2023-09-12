@@ -36,5 +36,18 @@ The Library's microfilm collection also contains Indian newspapers. *Singai Nesa
 Today, the Library continues to film and archive all locally produced newspapers such as *The Straits Times*, *The Business Times*, *The New Paper*, *Today*, *Lianhe Zaobao*, *Lianhe Wanbao*, *Shin Min Daily*, *Berita Harian*, *Tamil Murasu* and youth papers like *Friday Weekly* and *Thumb Up Weekly*.
 
 
+#### **Rare and Out-of-Print Books, Periodicals, Directories and Government Publications**
+Substantial volumes of the Library’s rare materials as well as its pre-1970 Singapore imprints were also microfilmed. These comprise materials from Singapore’s earliest mission presses, religious tracts, Jawi manuscripts, Peranakan literature, travelogues, scholarly journals and entertainment magazines, business directories and almanacs, Malayan maps, language dictionaries and even school textbooks. Some of these gems include *Addresses etc. Presented to Mr. Raffles, on the Occasion of His Departure from Java* (1817), *Singapore Local Laws and Institutions* (1823), *A Vocabulary of the English, Bugis, and Malay Languages* (1833), *The Maritime Code of the Malays* (1877), *Jottings Made During a Tour Amongst the Land Dyaks of Upper Sarawak, Borneo, During the Year 1874* (1879), and many others. These collections are extremely valuable for historical research on Singapore and Southeast Asia. Besides microfilming materials from the mission and commercial printing presses, the Library also regularly microfilms official publications such as the government gazettes, parliamentary debates, annual departmental reports and statistical publications issued by past and present governments.
+
+#### **Dissertations**
+To further develop the microfilm collection, the Library actively acquires dissertations from University Microfilms International (UMI). To date, this collection numbers around 2,000. The dissertation collection brings together post-graduate and doctoral investigations that are of social, economic, cultural, historical significance to Singapore and Southeast Asia. Some of the interesting titles include: *Performing Chinese Street opera and Constructing National Culture in Singapore, British Merchant Enterprise and the Chinese Coolie Labour Trade, 1850–1874, Kota Cina: Its Context and Meaning in the Trade of Southeast Asia in the 12th to 14th centuries, Siam in British foreign policy 1855–1938: The Acquisition and the Relinquishment of British Extraterritorial Rights*, amongst others.
+
+#### **Collection Access and Viewing Facilities**
+Patrons can search for titles using the Library’s online public access catalogue (OPAC), as well as the onsite microfilm newspaper index and card catalogues. The Microform Collection is largely an open-access collection with small numbers of microfiches and dissertations on microfilm kept in closed access areas. For open access collections, patrons may retrieve the microfilms themselves before proceeding to the Information Counter at Level 11 to register for the use of a microfilm reader. The microform viewing room is equipped with ten microfilm readers and one microfiche reader.
+
+#### **Reprographic Facilities**
+Reprographic prints can be made at the photocopying facility at Level 11. The current charges are $0.60 for A4 size and $0.90 for A3 size plain paper. Patrons may also place orders for reprographic prints on photographic paper at the Information Counter.
+
+
 
 
