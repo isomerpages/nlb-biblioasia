@@ -295,7 +295,7 @@ You might wonder why Tay Kwee Liang appears in this table since he did not play 
 In 1933, he joined the South China Athletic Association team in Hong Kong,[^33] and at the 1934 Far Eastern Games, he was a member of the Chinese team that won the championship. Two years later, Tay was selected to represent China at the 1936 Olympic Games in Berlin, along with Chua Boon Lay and Chee Ah Hui (although Tay is rarely mentioned alongside these two men). Besides football, Tay also excelled in table tennis, and was the national table tennis champion of Singapore in 1931.[^34]
 
 ![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/taykweeliangcert.jpg)
-<div style="background-color: white;text-align:center">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div><br>
+<div style="background-color: white;text-align:center">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div>
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>NICK APLIN'S FANTASY 11</b><br><br>
 In my opinion, this is what a fantasy team made up of the players mentioned looks like.&nbsp;&nbsp; Some of you will feel differently and may also argue about the assigned positions. This is open for discussion of course.<br><br>
 	<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/nick's%20fantasy.jpg" style="width:65%;"><br><br>         
