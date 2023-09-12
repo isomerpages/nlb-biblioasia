@@ -15,6 +15,8 @@ Available on [Spotify](https://open.spotify.com/episode/6vGhTAmDHGqSJulPUEurv6),
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
+Read [an excerpt](/vol-19/issue-4/jan-mar-2024/interview-rachel-heng/) of the interview.
+
 #### **About the Guest** ####
 Rachel Heng is the author of the novels [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224) (Riverhead,  2023) – a New York Times Editors’ Choice and a "Best Book of 2023 So Far" by The New Yorker, Amazon Books and Town &amp; Country Magazine – and [*Suicide Club*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203154066) (Henry Holt / Sceptre, 2018), which was a national bestseller in Singapore and has been translated into 10 languages.
 
