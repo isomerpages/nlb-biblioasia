@@ -11,11 +11,13 @@ description: "Mr Michael Keller is University Librarian and Director of Academic
 ---
 #### Mr Michael Keller is University Librarian and Director of Academic Information Resources at Stanford University, while Professor Howard Besser is Director of Moving Image Archive and Preservation Program, New York University’s Tisch School of Arts. Both men spoke at the _Celebrating Knowledge: The Power and Potential_ conference held at the InterContinental Hotel from 13 to 15 November 2005.
 
-In conjunction with the official opening of the National Library, Celebrating Knowledge: The Power and Potential conference which was held at the InterContinental Hotel from 13 to 15 November, attracted over 440 delegates and more than 25 international speakers. Engaged in discussions ranging from the future of libraries and knowledge workers to the design of learning spaces, researchers, knowledge experts, international librarians and information professionals from countries such as the US, the Netherlands, China and Malaysia brought home with them a wealth of information and experience.
+In conjunction with the official opening of the National Library, Celebrating Knowledge: The Power and Potential conference which was held at the Inter-Continental Hotel from 13 to 15 November, attracted over 440 delegates and more than 25 international speakers. Engaged in discussions ranging from the future of libraries and knowledge workers to the design of learning spaces, researchers, knowledge experts, international librarians and information professionals from countries such as the US, the Netherlands, China and Malaysia brought home with them a wealth of information and experience.
 
 Among the speakers were Mr Michael Keller, University Librarian and Director of Academic Information Resources at Stanford University (USA), and Professor Howard Besser, Director of Moving Image Archive and Preservation Program, New York University's Tisch School of Arts (USA). Mr Keller spoke on the knowledge-based web, particularly on the retrieval of knowledge and information heuristics while Professor Besser spoke on the digital architectures for interoperability. He also discussed the issue of the digital library. 
 
 The two distinguished speakers took time out of their busy schedules for interviews with BiblioAsia.
+
+
 
 **Mr Michael Keller**
 
@@ -56,4 +58,3 @@ However, we have to understand that society has nurtured these authors and this 
 **BiblioAsia: What then are the roles of librarians in the digital library?**
 
 **Howard Besser:** In additional to the "traditional" roles, librarians will now playa bigger part in research enquiry, content selection and content creation. They have to provide research support to the user and help them to IIsieve" through a large amount of information found in the digital library. Librarians will also get involved in the earlier part of the process by creating and selecting content for the digital library, in addition to the brick-and-mortar library.
-
