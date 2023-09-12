@@ -24,7 +24,7 @@ sections:
       button: "Watch the interview #SingLit"
       url: /videos/reels/
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
-        cover_homepage1.jpg
+        cover_homepage3.jpg
       alt: The Great Reclamation
   - infopic:
       title: The Early History of Printing in Singapore
