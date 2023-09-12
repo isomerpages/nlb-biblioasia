@@ -4,7 +4,7 @@ permalink: /vol-7/issue-3/oct-dec-2011/singapore-railway-lines/
 description: Assistant Professor Lai Chee Kien retraces the various geographies
   and histories of Singapore’s railway lines and stations
 ---
-#### Assistant Professor _Lai Chee Kien_ retraces the various geographies and histories of Singapore’s railway lines and stations.
+#### Assistant Professor&nbsp;_Lai Chee Kien_&nbsp;retraces the various geographies and histories of Singapore’s railway lines and stations.
 
 <img style="width:80%;" src="/images/Vol%207%20issue%203/RailwayLines/Woodlands%20railway%20terminal%20-%20Kleingrothe%20circa%201896.jpg">
  <div style="background-color: white;">Woodlands Railway Terminus. Source: C. J. Kleingrothe. <i>Courtesy of the Central Library, National University of Singapore.</i>
@@ -23,7 +23,6 @@ The line was completed by 1 January 1903 and train services connected Singapore 
 <img style="width:80%;" src="/images/Vol%207%20issue%203/RailwayLines/2%20-%20tank%20road%20station%20lkc.jpg">
  <div style="background-color: white;">Jinrickshaws line up to pick up fare outside Tank Road Station. Postcard from the collection of Lim Kheng Chye.</div>
 
-
 From the Singapore terminus, the train went through a cutting between Tank Road and Oxley Road, and then up an incline so as to cross Orchard Road on an overhead bridge near the Cold Storage premises (now Centrepoint). Further travel on another railway cutting would lead the train to Newton Road, and then to Newton Station, having crossed over Bukit Timah Canal on a girder bridge. The stations along Bukit Timah Canal in its journey consisted of Cluny Road Station, Holland Road Station, and Bukit Timah Station, before turning about 120 degrees towards Bukit Panjang and Woodlands Stations. In January 1907, the line was extended to Pasir Panjang via Pulau Saigon Station (and connecting the Singapore River trade), Tanjong Pagar Station, and then Pasir Panjang Station opposite Alexandra Road. However, this stretch of the railway was subsequently removed between 1912–4, partly due to complaints of excessive noise by residents who lived within the vicinity of the line. Duxton Plain Park, running from New Bridge Road to Yan Kit Road, was thus designated after the removal of the tracks, is the linear landscape reminder of this phase of history.[^5]
 
 <img style="width:80%;" src="/images/Vol%207%20issue%203/RailwayLines/Capture1.jpg">
@@ -31,6 +30,9 @@ From the Singapore terminus, the train went through a cutting between Tank Road 
 
 
 Part of the early railway legacy involved the former house of Tan Yeok Nee (presently the Asian campus for the University of Chicago Booth School of Business) at the junction of the Penang and Clemenceau Roads. Tan, a very successful gambier and pepper merchant, built one of the four (and the only one existing) overseas Chinese courtyard houses there from 1885, moving into the house upon completion.[^6] However, as the railway line was designed to pass behind his stately home, the land was acquired and Tan moved back to China, dying there in 1902. The house was then occupied by the Station Master of the Tank Road Station, then by a bishop before the Salvation Army used it as its headquarters from 1939 onwards.
+
+<img src="/images/Vol%207%20issue%203/RailwayLines/6%20-%20Taiping%20to%20Port%20Weld%20line.jpg" style="width:80%;">
+ <div style="background-color: white;">Aerial photo of the first railway line in Malaya from Port Weld to Taiping. <i>Bee Ah Photo Studio, Taiping.</i></div>
 
 With the opening of the Segamat to Johor Bahru stretch on July 1909, continuous travel from Singapore to Penang using only public transport was made possible for the first time in Malayan history. Such a connection was also perceived to be re-adjusting the colonial economic focus from tin to rubber by providing the key infrastructure serving the plantations along that route, but at the same time with the hope of reviving the latter industry that had since fallen into decline. In terms of economic geography on the Malay Peninsula, this also represented a shift from prior reliance on rivers and port cities, to an inland one where plantation towns along the railway and road systems began to thrive.[^7] The reliance on Tamil labour for operating railways and maintaining these lines had also continued in Singapore from Malaya, and Hindu shrines are often found at intervals of roughly 16 miles, which was the distance under the care of a particular section.[^8]
 
@@ -54,7 +56,7 @@ The deviation had two new stops: from Bukit Timah, trains passed Tanglin Halt an
 
 The proposed southernmost destination of Tanjong Pagar in Singapore for the new deviation was also planned in tandem with the increasing importance of Keppel Harbour. In some ways, these harked back to the earlier 1907 track that connected the harbour, as well as the earliest (but unsuccessful) call by the Tanjong Pagar Dock Company in the mid-1860s to connect Pantai Chermin to Telok Ayer Market by rail.[^13] About a thousand acres of land was acquired for the deviation and the railway terminus, included lines and also a passenger station, goods yards, train yards, signal stations and staff quarters at Tanjong Pagar. The Railway Board, working with the Municipality and other agencies, detailed the design brief of the station and eventually awarded the contract to Swan and Maclaren Architects at the end of 1926.[^14] In the following year, H.C. Atkin-Berry, the architect partner-in-charge, made visits to study several railway stations in England. Construction commenced on 7 May 1929, and by August 1931, over 630 concrete piles had been driven into the site. The building was mostly completed by 1932 and a Singapore Trade Exhibition was held there in January the same year.
 
-D.S. Petrovich, the main architect of the station building, was born in Serbia (then Yugoslavia) and had joined Swan and Maclaren in 1928 after having registered with the Royal Institute of British Architects in 1926.[^15] He designed various notable buildings during his tenure at that office, including the Malayan Motor Building at Orchard Road, the Kelly & Walsh Building at Raffles Place, and others on the island or elsewhere in Malaya. The station building itself was a major engineering feat of the day, employing the (then new) advantages of reinforced concrete in creating a 72-foot high giant barrel vault that is also naturally ventilated and illuminated in the day time, which sheltered the central arrival/departure hall. On three sides of this rough square plan were the entrance portico, a two-storey high rectilinear office block facing Keppel Road, and the 950-foot long covered platforms, respectively. The architecture of the building may be said to have followed the tenets of Art Deco, which employs elegant geometric forms or modules as design principles.
+D.S. Petrovich, the main architect of the station building, was born in Serbia (then Yugoslavia) and had joined Swan and Maclaren in 1928 after having registered with the Royal Institute of British Architects in 1926.[^15] He designed various notable buildings during his tenure at that office, including the Malayan Motor Building at Orchard Road, the Kelly &amp; Walsh Building at Raffles Place, and others on the island or elsewhere in Malaya. The station building itself was a major engineering feat of the day, employing the (then new) advantages of reinforced concrete in creating a 72-foot high giant barrel vault that is also naturally ventilated and illuminated in the day time, which sheltered the central arrival/departure hall. On three sides of this rough square plan were the entrance portico, a two-storey high rectilinear office block facing Keppel Road, and the 950-foot long covered platforms, respectively. The architecture of the building may be said to have followed the tenets of Art Deco, which employs elegant geometric forms or modules as design principles.
 
 
 <img style="width:80%;" src="/images/Vol%207%20issue%203/RailwayLines/17%20-%20TPRS%20platform%20with%20Singapura%20sign.jpg">
@@ -80,8 +82,8 @@ With the governmental announcements last year, the future of the lines and stati
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%207%20issue%203/RailwayLines/LCK%20portrait.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%207%20issue%203/RailwayLines/LCK%20portrait.jpg" style="width: 100px; height: 100px;">
 <center> <b>Lai Chee Kien</b><br>Assistant Professor<br>Department of Architecture<br>National University of Singapore</center></div>
 
 
@@ -89,7 +91,7 @@ With the governmental announcements last year, the future of the lines and stati
 
  Alias Mohamed. (Ed.). (1985). [_Malayan Railway: 100 Years 1885–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203772955). Kuala Lumpur: AMW Communications Management. (Call no.: RSING 385.095951 MAL)
 
-Chua, B.H. & Edwards, N. (Eds.). (1992). [_Public Space: Design, Use and Management_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6332699). Singapore: Singapore University Press. (Call no.: RSING 711.4095957 PUB)
+Chua, B.H. &amp; Edwards, N. (Eds.). (1992). [_Public Space: Design, Use and Management_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6332699). Singapore: Singapore University Press. (Call no.: RSING 711.4095957 PUB)
 
 Clothey, F.W. (2006_)._ [_Ritualizing on the Boundaries: Continuity and Innovation in the Tamil diaspora_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12907572). Columbia: University of Southern California Press. (Call no.: RSING 305.894811 CLO)
 
@@ -121,7 +123,7 @@ Tan, M.S.H. (2008). _The making of a garden industrial town: History, transforma
 
 [^4]: The Bukit Panjang Station, however, appeared to be slightly different but is expressed as a linear building.
 
-[^5]: See John Miskic,  (1989). “Archeology in the City: Digging at Duxton Hill,” (p. 35). in [_Tanjong Pagar: Singapore’s Cradle of Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5288751), p. 35; See also Kenson Kwok. (1992). “Duxton plain: Perceptual analysis of an open space,” in [_Public Space: Design, Use and Management_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6332699), pp. 82—103.  
+[^5]: See John Miskic, &nbsp;(1989). “Archeology in the City: Digging at Duxton Hill,” (p. 35). in [_Tanjong Pagar: Singapore’s Cradle of Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5288751), p. 35; See also Kenson Kwok. (1992). “Duxton plain: Perceptual analysis of an open space,” in [_Public Space: Design, Use and Management_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6332699), pp. 82—103. &nbsp;
 
 [^6]: His other name was Tan Hiok Nee. The other houses were the one for Tan Seng Poh at the junction of Hill Street and Loke Yew Stree, one for Seah Cheo Seah at Boat Quay, and one for Wee Ah Hood where the Chinese Chamber of Commerce now stands. See Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx), pp. 335–336.
 
@@ -137,7 +139,7 @@ Tan, M.S.H. (2008). _The making of a garden industrial town: History, transforma
 
 [^12]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250109-1.2.71)_, 9 Jan 1925, p. 9; _[The Singapore Press and Mercantile Advertiser](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261011-1.2.46)_, 11 Oct 1926, p. 9. With the dismantling, the many level changes along Bukit Timah Canal on the future Dunearn Road side would no longer cause inconvenience to the many entrances to housing estates located along that stretch.
 
-[^13]: See Lee Kip Lin, “Dock Development and the Growth of Singapore Town”,  in [_Tanjong Pagar: Singapore’s Cradle of Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5288751), pp. 51—59.
+[^13]: See Lee Kip Lin, “Dock Development and the Growth of Singapore Town”, &nbsp;in [_Tanjong Pagar: Singapore’s Cradle of Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5288751), pp. 51—59.
 
 [^14]: In mid-June 1929, the Singapore Society of Architects lodged a complaint that eventually had to be resolved by the Colonial Office in London, over the fact that Swan and Maclaren were directly appointed even though a senior partner was a member of the Railway Board. This represented a conflict of interests and requested for the conduct of a formal architectural competition, which did not materialise. From CO 273/563/12, National Archives, United Kingdom.
 
@@ -152,24 +154,3 @@ Tan, M.S.H. (2008). _The making of a garden industrial town: History, transforma
 [^19]: Coincidentally, Cecil Clementi (1875–1947) was the nephew of Cecil Clementi Smity (1840–1916), who had in 1899 passed the plan through Legislative Council to commence the construction of the Singapore-Kranji Railway.
 
 [^20]: For a discussion, see Michael Tan, _The Making of a Garden Industrial Town_, pp. 1–30.
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
