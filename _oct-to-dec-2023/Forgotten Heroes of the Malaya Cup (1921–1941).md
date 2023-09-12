@@ -35,9 +35,8 @@ The earlier home matches in the Malaya Cup were played on the Padang. Matches be
 <img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/maxwell.jpg"><br><br>While the Anson Road Stadium was used for major matches, other locations in Singapore were used for playing competitive football. These included military camps and garrison facilities, private clubs, purpose-built stadiums, the Padang, open fields and even the site of the old convict jail at Bras Basah.<br><br>         
 
 <img style="width:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/anson%20rd%20stadium.jpg">
-<div style="background-color: #fff6ba; text-align:center">&nbsp; Anson Road Stadium. <i>Courtesy of Singapore Sports Council.</i><br><br>
-<div> style="background-color:#fff6ba; text-align:left"&gt;
-	Well-established schools such as Raffles Institution, Anglo-Chinese School and St Joseph’s Institution had easy access to pitches close to the centre of town. Raffles Institution was located at the junction of Bras Basah Road and Beach Road at the time (Raffles City shopping mall stands in its place today), and the reclaimed land opposite the school became the home territory of the Singapore Chinese Football Association (SCFA) and the Malay Football Association.</div><br><br>
+<div style="background-color: #fff6ba; text-align:left">&nbsp; Anson Road Stadium. <i>Courtesy of Singapore Sports Council.</i><br><br>
+Well-established schools such as Raffles Institution, Anglo-Chinese School and St Joseph’s Institution had easy access to pitches close to the centre of town. Raffles Institution was located at the junction of Bras Basah Road and Beach Road at the time (Raffles City shopping mall stands in its place today), and the reclaimed land opposite the school became the home territory of the Singapore Chinese Football Association (SCFA) and the Malay Football Association.<br><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx"><b>
