@@ -32,7 +32,7 @@ By Chia Sue-Ann et al
 The Nutgraf Books (2023), 199 pages <br>
 Call no.: RSING 334.5095957 CHI
 
-<img style="width:50%;" src="/images/Vol%2019%20Issue%203/9%20New%20Books/fairprice1.jpg">
+<img style="width:40%;" src="/images/Vol%2019%20Issue%203/9%20New%20Books/fairprice2.jpg">
 
 This book traces the FairPrice Group’s success from a worker-led experiment to a S$4 billion food enterprise. It tells the story of a trade union cooperative with a social mission to moderate the cost of living for Singaporeans, and the crises it navigated as it balances profit with purpose.
 
