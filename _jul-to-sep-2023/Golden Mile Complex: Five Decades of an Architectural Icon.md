@@ -130,7 +130,7 @@ For more photos of Golden Mile Complex, click [here](https://biblioasia.nlb.gov.
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/justin_zhuang.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/benjamin_khoo.png">
 	<b>Benjamin J.Q. Khoo</b> is a Research Associate at the Asia Research Institute and a 2020/21 Lee Kong Chian Research Fellow at the National Library, Singapore. He has worked on Singapore before the modern era and he is interested in networks of knowledge and diplomatic encounters in Asia.</div>
 
 #### **NOTES**
