@@ -45,8 +45,15 @@ Factiva provides access to a deep archive of news and business information for a
 
 #### **Our Reference Services**
 
-Customers can approach either our professional staff at the Information Counter on Level 8 or use our remote enquiry service, Reference Point (email: <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a> or fax: +65 6332 3248), for free advisory services for research work, business ventures, company information and personal interests. Our Business Collection librarians can provide answers to enquiries, suggest constructive search strategies and recommend relevantand useful resources available at the Library.
+Customers can approach either our professional staff at the Information Counter on Level 8 or use our remote enquiry service, Reference Point (email: <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a> or fax: +65 6332 3248), for free advisory services for research work, business ventures, company information and personal interests. Our Business Collection librarians can provide answers to enquiries, suggest constructive search strategies and recommend relevant and useful resources available at the Library.
 
+Our reference librarians handle a diverse range of business enquiries daily. A sampling is as follows:
 
-
+• **Market research:** Market size, consumer behaviour and competitive intelligence of wine industry in Australia;<br>  
+• **Information on doing business in specific countries:** How to set up manufacturing company in China, including information on business legislation, incentive and tariff schemes, taxation, risks and contacts for business partners; <br>  
+• **Best practices:** Case studies and best practices for business process management; <br> • **Information on business enterprises:** Company profile of Procter and Gamble;<br>   
+• **Business directories and contacts:** Importers of processed food in the Asia-Pacific region;<br>   
+• **Business statistics:** Tourism statistics for Singapore and Southeast Asian countries; <br>  
+• **Entrepreneurship:** How to apply for licences and set up catering business in Singapore; <br>  
+• **Other business topics:** Business plans, marketing of products, Internet retailing, value innovation, financial planning, leadership, human resource management, etc.
 
