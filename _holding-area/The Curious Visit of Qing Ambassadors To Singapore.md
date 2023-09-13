@@ -26,7 +26,7 @@ Under the direction of Halliday Macartney, one of two Englishmen attached to the
 
 On the Chinese side, spirits were low and there was difficulty finding a suitable ambassador to fill the post. During this period, a despatch overseas was akin to exile rather than a lucrative honour. Eventually, Chinese premier Li Hongzhang appointed Guo for the post. A seasoned statesman, Guo was a strong advocate of liberal reform and favoured negotiation with the “foreign barbarians”. His keen attention to Western affairs was atypical for his time and invited slander, suspicion and distrust from his enemies. 
 
-![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_4_v2.png)
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_03_v2.png)
 <div style="background-color: white;">Liu Xihong, the assistant envoy to the Chinese Embassy in London. <i>Image reproduced from The First Chinese Embassy to the West: The Journals of Kuo Sung-T’ao, Liu Hsi-Hung and Chang Te-Yi, trans. J.D. Frodsham (Oxford: Clarendon Press, 1974). (From National Library, Singapore, call no. RCLOS 327.20922 FIR). </i></div> 
 
 For this trip, Guo was accompanied by other Chinese bureaucrats who failed to share his outlook, plaguing the voyage with much schism and infighting. Drawing his particular ire was the minor official Liu Xihong (刘锡鸿), who was attached belatedly as assistant envoy to the embassy, likely as a check on Guo’s liberal leanings. [^3] Liu was a quarrelsome individual with a reputation for xenophobia, stubbornness and ignorance. [^4]
