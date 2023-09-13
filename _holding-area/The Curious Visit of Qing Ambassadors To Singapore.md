@@ -7,12 +7,13 @@ description: The visit by Qing officials to Singapore in 1876 led to the
 #### The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
 By Benjamin J.Q. Khoo
 
-![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01.png)
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01_v2.png)
 <div style="background-color: white;">Hoo Ah Kay (Whampoa) in his home, the famous Nam-sang Fa-un (南生花园), mid-19th century. The Qing delegation visited his home and gardens, and were impressed by what they saw. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
 On 13 December 1876, the P&amp;O Steamer Tranvacore docked at Singapore carrying a curious entourage.  Stepping off the ship were His Excellency Guo Songtao (郭嵩焘), the first Chinese ambassador to Britain, and other members of the Qing Imperial Court. It was about 11 on a grey, rainy morning when they arrived, with little fanfare to receive them. But after a run of four days at sea, it must have been a pleasant relief from the cramped quarters on deck as well as a temporal distraction from the weighty conversations between men and states. 
 
-![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_02.png)
+
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_02_v2.png)
 <div style="background-color: white;">Guo Songtao, the first Chinese ambassador to Britain. <i>Image reproduced from The First Chinese Embassy to the West: The Journals of Kuo Sung-T’ao, Liu Hsi-Hung and Chang Te-Yi, trans. J.D. Frodsham (Oxford: Clarendon Press, 1974). (From National Library, Singapore, call no. RCLOS 327.20922 FIR). </i></div>
 
 This wet welcome on the island en route to Southampton, England, was brought about by a strange coup of diplomacy. The British, taking advantage of the murder of their consular official Augustus Raymond Margary by hostile tribesmen in China in 1875, had forced a treaty and apology from the Qing government. Under considerable pressure by the British legation, Beijing had caved in and consented to the despatch of an ambassador to the Court of England to “express their regrets” to Queen Victoria herself (带国书前往英国,对滇案表示“惋惜”). This fresh embarrassment, despite the nebulous style of officious phrasing, added to the series of humiliating reversals and defeats, which shook the dynasty’s confidence as a world power.
@@ -25,7 +26,7 @@ Under the direction of Halliday Macartney, one of two Englishmen attached to the
 
 On the Chinese side, spirits were low and there was difficulty finding a suitable ambassador to fill the post. During this period, a despatch overseas was akin to exile rather than a lucrative honour. Eventually, Chinese premier Li Hongzhang appointed Guo for the post. A seasoned statesman, Guo was a strong advocate of liberal reform and favoured negotiation with the “foreign barbarians”. His keen attention to Western affairs was atypical for his time and invited slander, suspicion and distrust from his enemies. 
 
-![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_03.png)
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_4_v2.png)
 <div style="background-color: white;">Liu Xihong, the assistant envoy to the Chinese Embassy in London. <i>Image reproduced from The First Chinese Embassy to the West: The Journals of Kuo Sung-T’ao, Liu Hsi-Hung and Chang Te-Yi, trans. J.D. Frodsham (Oxford: Clarendon Press, 1974). (From National Library, Singapore, call no. RCLOS 327.20922 FIR). </i></div> 
 
 For this trip, Guo was accompanied by other Chinese bureaucrats who failed to share his outlook, plaguing the voyage with much schism and infighting. Drawing his particular ire was the minor official Liu Xihong (刘锡鸿), who was attached belatedly as assistant envoy to the embassy, likely as a check on Guo’s liberal leanings. [^3] Liu was a quarrelsome individual with a reputation for xenophobia, stubbornness and ignorance. [^4]
@@ -38,7 +39,7 @@ The tour of Singapore, intended as an elaborate exercise in imperial pageantry a
 
 Upon landing, the visitors were met by William A. Pickering, the Chinese interpreter, who was among the first to receive them on the wharf. Macartney described him as “a common-looking person and seemed to feel his inferiority too much” although he conceded that “[Pickering] seemed a good fellow and to have some sterling qualities”.[^6]
 
-![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_04.png)
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_4_v2.png)
 <div style="background-color: white;">Photo of late 19th-century shophouses by G.R. Lambert &amp; Co. The Qing delegation saw shophouses like these when they visited Singapore in 1876. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Pickering could only apologise for the delay of the colonial secretary, John Douglas, due to the steamer having arrived earlier than expected. Douglas subsequently came to present his compliments but regretted that a proper reception in the form of a 15-gun salute and a guard of honour had to be prepared. This meant that a meeting with William Jervois, governor of the Straits Settlements, was embarrassingly postponed until four in the afternoon. 
