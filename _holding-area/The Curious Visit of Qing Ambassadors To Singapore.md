@@ -4,13 +4,16 @@ permalink: /holding-area/test01/
 description: The visit by Qing officials to Singapore in 1876 led to the
   establishment of the first Chinese consulate here a year later.
 ---
-#### <i>The Great Reclamation</i> The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
+#### The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
 By Benjamin J.Q. Khoo
 
-<img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/rachel%20heng.jpg">
-<div style="background-color: white;text-align:center">Rachel Heng holding her latest book,<i>The Great Reclamation. Photo by Jimmy Yap, 2023.</i></div>
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01.png)
+<div style="background-color: white;">Hoo Ah Kay (Whampoa) in his home, the famous Nam-sang Fa-un (南生花园), mid-19th century. The Qing delegation visited his home and gardens, and were impressed by what they saw. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
 On 13 December 1876, the P&amp;O Steamer Tranvacore docked at Singapore carrying a curious entourage.  Stepping off the ship were His Excellency Guo Songtao (郭嵩焘), the first Chinese ambassador to Britain, and other members of the Qing Imperial Court. It was about 11 on a grey, rainy morning when they arrived, with little fanfare to receive them. But after a run of four days at sea, it must have been a pleasant relief from the cramped quarters on deck as well as a temporal distraction from the weighty conversations between men and states. 
+
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_02.png)
+<div style="background-color: white;">Guo Songtao, the first Chinese ambassador to Britain. <i>Image reproduced from The First Chinese Embassy to the West: The Journals of Kuo Sung-T’ao, Liu Hsi-Hung and Chang Te-Yi, trans. J.D. Frodsham (Oxford: Clarendon Press, 1974). (From National Library, Singapore, call no. RCLOS 327.20922 FIR). </i></div>
 
 This wet welcome on the island en route to Southampton, England, was brought about by a strange coup of diplomacy. The British, taking advantage of the murder of their consular official Augustus Raymond Margary by hostile tribesmen in China in 1875, had forced a treaty and apology from the Qing government. Under considerable pressure by the British legation, Beijing had caved in and consented to the despatch of an ambassador to the Court of England to “express their regrets” to Queen Victoria herself (带国书前往英国,对滇案表示“惋惜”). This fresh embarrassment, despite the nebulous style of officious phrasing, added to the series of humiliating reversals and defeats, which shook the dynasty’s confidence as a world power.
 
@@ -22,6 +25,9 @@ Under the direction of Halliday Macartney, one of two Englishmen attached to the
 
 On the Chinese side, spirits were low and there was difficulty finding a suitable ambassador to fill the post. During this period, a despatch overseas was akin to exile rather than a lucrative honour. Eventually, Chinese premier Li Hongzhang appointed Guo for the post. A seasoned statesman, Guo was a strong advocate of liberal reform and favoured negotiation with the “foreign barbarians”. His keen attention to Western affairs was atypical for his time and invited slander, suspicion and distrust from his enemies. 
 
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_03.png)
+<div style="background-color: white;">Liu Xihong, the assistant envoy to the Chinese Embassy in London. <i>Image reproduced from The First Chinese Embassy to the West: The Journals of Kuo Sung-T’ao, Liu Hsi-Hung and Chang Te-Yi, trans. J.D. Frodsham (Oxford: Clarendon Press, 1974). (From National Library, Singapore, call no. RCLOS 327.20922 FIR). </i></div> 
+
 For this trip, Guo was accompanied by other Chinese bureaucrats who failed to share his outlook, plaguing the voyage with much schism and infighting. Drawing his particular ire was the minor official Liu Xihong (刘锡鸿), who was attached belatedly as assistant envoy to the embassy, likely as a check on Guo’s liberal leanings. [^3] Liu was a quarrelsome individual with a reputation for xenophobia, stubbornness and ignorance. [^4]
 
 It is under this cloud of undue politicking within the Qing court and the outsized influence of the British legation that the embassy called at Singapore in the second regnal year of the Guangxu Emperor (光緒帝; r. 1875–1908).
@@ -32,9 +38,15 @@ The tour of Singapore, intended as an elaborate exercise in imperial pageantry a
 
 Upon landing, the visitors were met by William A. Pickering, the Chinese interpreter, who was among the first to receive them on the wharf. Macartney described him as “a common-looking person and seemed to feel his inferiority too much” although he conceded that “[Pickering] seemed a good fellow and to have some sterling qualities”.[^6]
 
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_04.png)
+<div style="background-color: white;">Photo of late 19th-century shophouses by G.R. Lambert &amp; Co. The Qing delegation saw shophouses like these when they visited Singapore in 1876. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 Pickering could only apologise for the delay of the colonial secretary, John Douglas, due to the steamer having arrived earlier than expected. Douglas subsequently came to present his compliments but regretted that a proper reception in the form of a 15-gun salute and a guard of honour had to be prepared. This meant that a meeting with William Jervois, governor of the Straits Settlements, was embarrassingly postponed until four in the afternoon. 
 
 Meanwhile, as the party adjourned for tiffin, they were joined by Cai Guoxiang and Cai Guoxi, officials of the Yang Wu, a Qing corvette launched by the Fuzhou Shipyard in 1872.[^7] Accompanying the crew were some Singapore merchants, among them a certain Hoo Ah Kay (Hu Xuanze; 胡璇泽), more popularly known in Singapore as Whampoa (he was born in Whampoa [Huangpu], near Canton [Guangdong], China).
+
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_05.png)
+<div style="background-color: white;">Portrait of Hoo Ah Kay (Whampoa), 1850s. The Qing delegation visited his home and gardens, and were impressed by what they saw. <i>Courtesy of National Archives of Singapore. </i></div>
 
 A Cantonese with uncanny business sense and an uncommon mastery of English, Hoo had forged a successful relationship as a ship chandler to the British Royal Navy while maintaining business liaisons with other European businesses, climbing the ranks to become one of the foremost personalities in the colony. By this time, he was already an extraordinary member of the esteemed Executive Legislative Council of the Straits Settlements (the first and only Chinese) and had become the first Chinese to receive the CMG (Companion of the Order of St Michael and St George).[^8] A distinguished, thinly moustached man of 60, Hoo was now paying a visit to the latest dignitaries to appear on Singapore’s shores.
 
@@ -44,9 +56,14 @@ Perhaps upon the insistence of Hoo, who took advantage of the delay on the gover
 
 Steeped in the aesthetics of Chinese gardens, the Nam-sang Fa-un (南生花园), as it was known in Cantonese, gave form and elegance to the merchant’s wealth.[^9] The Russian novelist Ivan Goncharov, who had visited in July 1853, was amazed by the variety of greenery such as banana trees, water lilies, pepper plants, sago, breadfruit trees and bamboos. He also described the pens of birds and animals, towers with latticed turrets for doves, and noted the presence of a beautiful Arabian horse, completely white. The house was even more fabulously adorned, laid with mats and everywhere pieces of furniture “of delicate carvings, gilded lampshades, long covered galleries with all the appurtenances of refined luxury: bronzes, porcelain, on the wall statuettes, arabesques”.[^10] 
 
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_06.png)
+<div style="background-color: white;"> The Singapore Botanic Gardens, 1900s. This was one of the places that the Qing delegation visited. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore. </i></div>
+
 Very much against the wishes of Macartney, who tried to dissuade them of this undertaking, the party went along, taking the road from New Harbour to Bendemeer after two in the afternoon. The rain having cleared, and the sun now bearing down hotly upon them, they were carried on four carriages, probably ordered by Hoo. 
 
 Macartney was eager that no dishonour be seen to impinge upon British governance, but almost true to his fears, as they passed Indian and Chinese shophouses, the visitors, upon reading the signboards on the Chinese shophouses, remarked that the Singapore Chinese “seemed for the most part to be very poor”.[^11]
+
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_07.png)
 
 Flustered by this comment, Macartney rejoined hastily that they “had not yet arrived at the town, and that these houses could not be taken as fair specimens of the shops of their countrymen”.[^12] It did not help that their coachman drove them to his shop rather than high-roading the way to the luxurious house of Hoo. Chagrined, Macartney leapt out angrily from the carriage and asked one of the shop assistants to “give the necessary directions for our being taken with all possible haste to Mr. W’s [Hoo’s] house”.[^13] 
 
