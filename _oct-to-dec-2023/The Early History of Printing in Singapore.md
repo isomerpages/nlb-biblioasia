@@ -134,7 +134,7 @@ Dyer first arrived in Penang in 1827 and stayed on as a missionary to the Chines
 
 Dyer continued his development work in his later postings to Malacca (1835–39) and Singapore (1842–43). At the time of his death in 1843, Dyer had completed about half of the over 3,000 characters planned for the fount. His work was continued by LMS missionary and printer Alexander Stronach, who took the foundry with him when he was transferred to Hong Kong in 1846.[^28]
 
-<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/sermon_samuel%20dyer.jpg" style="width:50%;">
+<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/sermon_samuel%20dyer.jpg" style="width:40%;">
 <div style="background-color: white;">
 Title page of the printed sermon delivered at the mission chapel in Singapore on Samuel Dyer’s death in 1843. <i>Image reproduced from The Blessedness of Those Who Die in the Lord: A Sermon Occasioned by the Death of the Rev. Samuel Dyer. Collection of National Library, Singapore (Call no. RRARE 252.1 STR, Accession no. B32423995D).</i></div>
 
