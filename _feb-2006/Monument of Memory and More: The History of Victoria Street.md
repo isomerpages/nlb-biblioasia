@@ -34,5 +34,20 @@ Strong sentiments appealed for the preservation of the building. Many recalled t
 
 This distinct red brick structure though initially condemned, stood at Stamford Road for 44 memorable years and served the needs of the people until 31 March 2004 when the National Library closed its doors. The building was demolished shortly after, and readers had to use the other branch libraries.
 
+#### **The New Victoria Site**
+On 4 June 2001, the Singapore Land Authority issued a 60 years lease No 24897, with land of a gross plot ratio of 5.2 in accordance with the plans approved by the competent authority under the Planning Act (Cap 232), for the development of the Nation's main Library Institution. The groundbreaking ceremony was held at this site on 30 October 2001.
+
+The National Library is situated at 100 Victoria Street and is gradually becoming a landmark of the Bugis/Bras Brasah area. Even as the National Library creates a new beginning at Victoria Street, it is appropriate to take a retrospective look at the history of Victoria Street.
+
+#### **History of the 'New Site'**
+The Victoria site is today part of the Singapore town land sub-division. The land area is bounded by Victoria Street, Middle Road, North Bridge Road and Bain Street, and was once a nutmeg plantation and a betel-nut plantation. By the instructions of Sir Stamford Raffles' 'Town Plan', land was leased by auction, and leases had tenure of 999 years.
+
+#### **Original Owner - Andrew Farquhar**
+A large portion of this land was formerly the private property of an enterprising merchant, Andrew Farquhar, the eldest son of the first Resident of Singapore, Colonel William Farquhar. In 1821, Andrew Farquhar aged 20, moved from Malacca to Singapore, and invested in properties. There is no record of when he actually bought the more than 2-acre site at the junction of North Bridge Road and Middle Road, opposite his father's property and residence at Beach Road, except that lease No. 503 was issued on 20 March 1828. In June 1824, he married Elizabeth Robinson, and with their three children, they moved to the Victoria site.
+
+In 1827, Andrew Farquhar became first appointed Coroner in Singapore but in January 1829, on a visit to Jakarta, he became seriously ill and died. In December 1830, James Scott Clark, Administrator of Andrew Farquhar's estate sold the property to John Henry Moor, the Headmaster of the Raffles Institution. The property was probably acquired for investment, as he and his family stayed at the school. In January 1832, Elizabeth Farquhar remarried James Scott Clark, and in March 1834, J H Moor leased part of his property to her youngest son, Andrew Charles Robert Farquhar. Although the area was smaller, Farquhar's family was still able to stay there.
+
+The Victoria site had a nutmeg plantation and Mrs Elizabeth Clark ran a boarding house there. Andrew C R Farquhar began as a clerk at Martin Dyce &amp; Co and Little Cursetjee &amp; Co. On a visit to Calcutta, India, he fell in love and got married there. In May 1854 he sold his property, and left Singapore for good. When Mrs Clark's second husband James passed on, she went to join her son in Calcutta, and in July 1867, died there.
+
 
 
