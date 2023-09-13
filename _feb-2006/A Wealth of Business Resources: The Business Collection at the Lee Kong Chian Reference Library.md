@@ -51,7 +51,9 @@ Our reference librarians handle a diverse range of business enquiries daily. A s
 
 • **Market research:** Market size, consumer behaviour and competitive intelligence of wine industry in Australia;<br>  
 • **Information on doing business in specific countries:** How to set up manufacturing company in China, including information on business legislation, incentive and tariff schemes, taxation, risks and contacts for business partners; <br>  
-• **Best practices:** Case studies and best practices for business process management; <br> • **Information on business enterprises:** Company profile of Procter and Gamble;<br>   
+• **Best practices:** Case studies and best practices for business process management; 
+<br>
+• **Information on business enterprises:** Company profile of Procter and Gamble;<br>   
 • **Business directories and contacts:** Importers of processed food in the Asia-Pacific region;<br>   
 • **Business statistics:** Tourism statistics for Singapore and Southeast Asian countries; <br>  
 • **Entrepreneurship:** How to apply for licences and set up catering business in Singapore; <br>  
