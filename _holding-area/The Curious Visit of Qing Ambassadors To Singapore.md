@@ -134,6 +134,11 @@ At the same time, through the visit of the Qing emissaries, we see how Singapore
 
 Much, of course, has changed since – Britain has lost its empire, China is a global power and Singapore is an independent, sovereign state. However, Chinese holidaymakers still descend on Singapore in December each year, visiting many of the same spots that once enthralled the Qing visitors of the 19th century. Occasionally battling inclement weather, the tourists enjoy the sights at the Istana, the Botanic Gardens and Fort Canning. They also visit parks, admire old shophouses and walk on our streets. The same sense of wonder, the same sense of familiarity, the same sense of possibility reverberate like echoes from the past into the present. 
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/justin_zhuang.png">
+	<b>Justin Zhuang</b> is an observer of the designed world and its impact on everyday life. He is the author of several books on architecture and design in Singapore. His latest book (co-authored with Jiat-Hwee Chang) is <i>Everyday Modernism: Architecture &amp; Society in Singapore</i> (2023), the first comprehensive documentation of Singapore’s modern built environment through the lens of social cultural and architectural histories.</div>
+
 #### **Notes**
 
  [^1]: “[Arrivals](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18761216-1.2.11.1)” _Straits Times_, 16 December 1876, 3. (From NewspaperSG)
