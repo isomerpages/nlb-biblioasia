@@ -26,5 +26,13 @@ The completion of the library building at Stamford Road was met with shocked rea
 
 Despite the initial unfavourable comments about the "red-brick balustrade" building, it eventually endeared itself to the public, as it fulfilled not only the requirements of researchers but quickly became a popular hangout for generations of Singaporeans.
 
-On 1 April 1997, the building was closed for ten months for extensive renovations and upgrading. When it reopened to the public on 16 January 1998, it offered a wider range of collections and services. Through the legal deposit (a regulation where publishers must deposit two copies of all Singaporean publications with the National Library Board at their own expense within four weeks of publication), publications on Singapore and by Singaporeans had increased. The newly renovated Reference Section could thus showcase a strong collection on 
+On 1 April 1997, the building was closed for ten months for extensive renovations and upgrading. When it reopened to the public on 16 January 1998, it offered a wider range of collections and services. Through the legal deposit (a regulation where publishers must deposit two copies of all Singaporean publications with the National Library Board at their own expense within four weeks of publication), publications on Singapore and by Singaporeans had increased. The newly renovated Reference Section could thus showcase a strong collection on Singapore. The famed Southeast Asia Room that had drawn many researchers to the National Library since it opened in 1964 was given free access to all. Yet, even with the renovations, it quickly became obvious that the space for the collections remained insufficient.
+
+When the National Library Board was told that the building would be affected by a proposed traffic tunnel and must be relocated, there was a huge public outcry.
+
+Strong sentiments appealed for the preservation of the building. Many recalled the treasured memories they had of the landmark building. A generation of Singaporeans had grown up borrowing books here, and consuming refreshments at the 'tin-shed' coffee shop. A member of public complained that the sacred building had to be "gouged out to make way for the opening of a traffic tunnel".
+
+This distinct red brick structure though initially condemned, stood at Stamford Road for 44 memorable years and served the needs of the people until 31 March 2004 when the National Library closed its doors. The building was demolished shortly after, and readers had to use the other branch libraries.
+
+
 
