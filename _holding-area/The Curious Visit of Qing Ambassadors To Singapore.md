@@ -64,6 +64,7 @@ Very much against the wishes of Macartney, who tried to dissuade them of this un
 Macartney was eager that no dishonour be seen to impinge upon British governance, but almost true to his fears, as they passed Indian and Chinese shophouses, the visitors, upon reading the signboards on the Chinese shophouses, remarked that the Singapore Chinese “seemed for the most part to be very poor”.[^11]
 
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_07.png)
+<div style="background-color: white;">Halliday Macartney, the British official attached to the visiting Qing delegation in Singapore, 1908. <i>Retrieved from Wikimedia Commons.</i></div>
 
 Flustered by this comment, Macartney rejoined hastily that they “had not yet arrived at the town, and that these houses could not be taken as fair specimens of the shops of their countrymen”.[^12] It did not help that their coachman drove them to his shop rather than high-roading the way to the luxurious house of Hoo. Chagrined, Macartney leapt out angrily from the carriage and asked one of the shop assistants to “give the necessary directions for our being taken with all possible haste to Mr. W’s [Hoo’s] house”.[^13] 
 
