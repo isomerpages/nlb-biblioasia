@@ -71,8 +71,8 @@ After Milton retired from the LMS in 1825, Thomsen took over the press and conti
 
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_6.png)
 <div style="background-color: white;"> 
-	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G).</i></div><br>
-	
+	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G).</i></div>
+	<br>
 <img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg" style="width:60%;">
 <div style="background-color: white;"> 
 Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
