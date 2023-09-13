@@ -39,7 +39,7 @@ EIU offers exhaustive studies of political and economic trends, background and h
 
 It contains information on 1.8 million companies in over 75 countries, including complete company profiles, the names of 3.6 million executives and financial data where available.
 
-**Factiva **
+**Factiva**
 
 Factiva provides access to a deep archive of news and business information for a historical, global and local viewpoint, essential for competitive intelligence.
 
@@ -56,4 +56,3 @@ Our reference librarians handle a diverse range of business enquiries daily. A s
 • **Business statistics:** Tourism statistics for Singapore and Southeast Asian countries; <br>  
 • **Entrepreneurship:** How to apply for licences and set up catering business in Singapore; <br>  
 • **Other business topics:** Business plans, marketing of products, Internet retailing, value innovation, financial planning, leadership, human resource management, etc.
-
