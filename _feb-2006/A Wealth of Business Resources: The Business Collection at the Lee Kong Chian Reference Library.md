@@ -13,6 +13,3 @@ With rapid globalisalion, technological innovations and the emergence of new eco
 Therefore, the Business Collection of the Lee Kong Chian Reference Library aims to be the premier stop for both local and foreign professionals, managers, executives and businessmen operating or venturing into local, Asian and other overseas markets. Targeted at business practitioners (executives and entrepreneurs) and practical researchers (management consultants, business analysts, policy-makers, financial journalists and business students), the Lee Kong Chian Reference Library strives to meet the information needs of library users by housing an extensive Business Collection on Level 8.
 
 Focusing primarily on the Asia Pacific, Europe and North America regions, the 26,000-strong collection boasts of comprehensive and updated directories, market research reports, statistical and financial sources. It also includes more than 400 trade and business journal titles, world business news as well as management best practices in both print and electronic formats.
-
-
-
