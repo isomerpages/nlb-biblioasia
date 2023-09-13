@@ -134,6 +134,10 @@ Dyer first arrived in Penang in 1827 and stayed on as a missionary to the Chines
 
 Dyer continued his development work in his later postings to Malacca (1835–39) and Singapore (1842–43). At the time of his death in 1843, Dyer had completed about half of the over 3,000 characters planned for the fount. His work was continued by LMS missionary and printer Alexander Stronach, who took the foundry with him when he was transferred to Hong Kong in 1846.[^28]
 
+![](/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/sermon_samuel%20dyer.jpg)
+<div style="background-color: white;"> 
+Title page of the printed sermon delivered at the mission chapel in Singapore on Samuel Dyer’s death in 1843. <i>Image reproduced from The Blessedness of Those Who Die in the Lord: A Sermon Occasioned by the Death of the Rev. Samuel Dyer. Collection of National Library, Singapore (Call no. RRARE 252.1 STR, Accession no. B32423995D).</i></div>
+
 Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and their assistants such as Munshi Abdullah, occupy an important place in the early history of printing in Singapore. They were pioneers in religious printing and also in vernacular, government and commercial printing. Their efforts paved the way for the development of European commercial printing in the 1830s, vernacular commercial printing in the 1860s and 1870s, and the establishment of the Government Printing Office in 1867.[^29]
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b> PUBLICATIONS BY THE MISSION PRESS OF THE LONDON MISSIONARY SOCIETY</b><br><br>
