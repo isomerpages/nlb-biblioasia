@@ -59,8 +59,6 @@ Perhaps upon the insistence of Hoo, who took advantage of the delay on the gover
 
 Steeped in the aesthetics of Chinese gardens, the Nam-sang Fa-un (南生花园), as it was known in Cantonese, gave form and elegance to the merchant’s wealth.[^9] The Russian novelist Ivan Goncharov, who had visited in July 1853, was amazed by the variety of greenery such as banana trees, water lilies, pepper plants, sago, breadfruit trees and bamboos. He also described the pens of birds and animals, towers with latticed turrets for doves, and noted the presence of a beautiful Arabian horse, completely white. The house was even more fabulously adorned, laid with mats and everywhere pieces of furniture “of delicate carvings, gilded lampshades, long covered galleries with all the appurtenances of refined luxury: bronzes, porcelain, on the wall statuettes, arabesques”.[^10] 
 
-![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_06.png)
-<div style="background-color: white;"> The Singapore Botanic Gardens, 1900s. This was one of the places that the Qing delegation visited. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore. </i></div>
 
 Very much against the wishes of Macartney, who tried to dissuade them of this undertaking, the party went along, taking the road from New Harbour to Bendemeer after two in the afternoon. The rain having cleared, and the sun now bearing down hotly upon them, they were carried on four carriages, probably ordered by Hoo. 
 
@@ -92,6 +90,9 @@ Pickering then arranged for the Hong Gardens to be next on the list of destinati
 Guo must count as one of the early visitors who were enthralled and delighted by the range of animals on display, and he took great pleasure in describing the tiger and leopard dens, the Tibetan bears, dogs, wolves, weasels, squirrels and beavers set against the lush shade of trees and flowers. 
 
 The Botanic Gardens impressed Guo greatly, rivalling his enjoyment of Whampoa’s private garden and menagerie. Unaware of the troubles that had plagued the zoological upkeep, Guo was much taken by the variety of wild beasts and strange birds on show, one so tamed and caged, the other so colourful and beautiful in plumage. He was also very much struck by the strange and wonderful plants that he saw: the extraordinary heights of cultivated pines, the flowering wisterias “shutting out the sky like a huge screen”, and the wide spreads of palm leaves that seemed like “great fans”, found everywhere.[20] 
+
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_06.png)
+<div style="background-color: white;"> The Singapore Botanic Gardens, 1900s. This was one of the places that the Qing delegation visited. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore. </i></div>
 
 Beyond the anomaly that public gardens were unknown in China at the time, Guo was most struck by nature’s estate as “a triumph of human ingenuity” (足见此园魄力之大矣).[21] Never before had he seen so much labelling and categorisation, so much diversity and individuality of species collected together in a single space. It was the triumph of order, demonstrated here over nature, which was one of the qualities that Guo thought China lacked. 
 
