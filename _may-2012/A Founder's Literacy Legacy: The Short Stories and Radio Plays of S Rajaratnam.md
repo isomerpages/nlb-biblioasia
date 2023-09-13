@@ -61,8 +61,7 @@ In reading his plays, what comes across with unmistakable clarity is his prodigi
 
 The seven short stories, which I collected in the book *The Short Stories and Radio Plays of S. Rajaratnam*, were written during his transformative years in London.
 
-
-<img style="width:50%;" src="/images/Vol%208%20issue%201/Rajaratnam/Short%20Stories%20Radio%20Plays.jpg">
+<img style="width:50%;" src="/images/Vol%208%20issue%201/Rajaratnam/img4_book%20cover_raja%20short%20stories.jpg">
  <div style="background-color: white;"><i>The Short Stories and Radio Plays of S. Rajaratnam</i> (2011) is an anthology of Rajaratnam’s early literary works. <i>Courtesy of Epigram Books.</i></div>
 
 When Rajaratnam arrived in London to study for his law degree at King’s College in 1935, he was aged 20. He came from a sheltered background, raised in the rubber plantations of Seremban by his caste-conscious Jaffna Tamil family who were devout Hindus. He was not interested in politics and had little direction in life.

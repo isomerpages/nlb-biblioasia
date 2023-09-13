@@ -18,14 +18,12 @@ The history of printing in Singapore shares similarities with that of many South
 In Singapore, the start of printing can be traced to the establishment of Mission Press by the London Missionary Society (LMS). The London Missionary Society, which is now part of the Council for World Missions, was a non-denominational Protestant organisation founded in England in 1795. One of its chief aims was to reach out to China’s vast population but initial attempts failed due to the Qing government’s regulations that forbade open preaching and the publication of foreign literature as measures to deter Western influence. While waiting for Chinese restrictions to loosen, Robert Morrison, the society’s first missionary to China, and his co-worker William Milne decided to set up a temporary mission somewhere else, a place where they could learn Chinese and evangelise more freely. They settled on Malacca because of its central location and sizeable Chinese population. 
 
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_1c.png)
-<div style="background-color: white;"> 
-Title page of <i>A Retrospect of the First Ten Years of the Protestant Mission to China</i>, published at the Mission Press in Malacca in 1820. <i>Collection of the National Library, Singapore (Call no. RRARE 266.02341051 MIL-[JSB]; Accession no. B29268446H).</i></div>
+<div style="background-color: white;"> Title page of <a href="https://eresources.nlb.gov.sg/printheritage/detail/176afa75-9aa1-4c37-9a62-3a805266accf.aspx"> <i>A Retrospect of the First Ten Years of the Protestant Mission to China</i></a>, published at the Mission Press in Malacca in 1820. <i>Collection of the National Library, Singapore (Call no. RRARE 266.02341051 MIL-[JSB]; Accession no. B29268446H).</i></div>
 	
 In 1815, Milne arrived in Malacca with Liang A-Fa, one of their first Chinese converts and a printer trained in xylography (woodblock printing), sowing the seeds for a new mission base that would include a school and a printing press. The output of the printing office was prodigious, and they produced a variety of religious and secular works in Chinese, English and Malay. Some of its notable publications include Stamford Raffles’s [*Formation of the Singapore Institution, A.D. 1823*](/vol-11/issue-4/jan-mar-2016/singapore-institution-school-stamford-raffles/) (1823) where he outlined his proposal for an educational institution in Singapore, known today as the Raffles Institution. The Malacca station also served the printing needs of the government and merchants of Singapore up until the early 1820s.[^1]
 
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_1b.png)
-<div style="background-color: white;"> 
-	Title page of the <i>Formation of the Singapore Institution, A.D. 1823</i>. The Singapore Institution was renamed Raffles Institution around 1868. <i>Collection of the National Library, Singapore (Call no. RRARE 373.5957 FOR; Accession no. B20025196C).</i></div>
+<div style="background-color: white;"> Title page of the <a href="https://eresources.nlb.gov.sg/printheritage/detail/c862d6a7-03d3-4333-9191-36bb78288b2f.aspx"> <i>Formation of the Singapore Institution, A.D. 1823</i></a>. The Singapore Institution was renamed Raffles Institution around 1868. <i>Collection of the National Library, Singapore (Call no. RRARE 373.5957 FOR; Accession no. B20025196C).</i></div>
 
 #### **The First Printing Press in Singapore**
 
@@ -47,15 +45,15 @@ While formal approval was only given in January 1823, there is evidence that som
 
 The document, titled “Price Current of Goods at Singapore”, comprises four pages printed on paper watermarked “1819”. It presents a list of commodities categorised under headings such as “Eastern Produce”, “China Goods”, “Bengal and other Indian Goods” and “Produce of Europe, America &amp;c”. The cover sheet bears a handwritten date of 31 May 1822. Byrd observed that the printing was coarse, suggesting that this might be a small government job that was produced on the portable press that Thomsen had brought over from Malacca.[^4]
 
+<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/price%20current%20pages%202-3%20v1.jpg" style="width:60%;">
+<div style="background-color: white;"> 
+"Price Current of Goods at Singapore". <i>L8 Singapore: Letters to Bencoolen, Straits Settlements Records. (From National Archives of Singapore).</i></div>
+
 Further evidence of pre-1823 printing in Singapore is supported by a study that references a letter written by Milton to the LMS in September 1822. In the letter, Milton mentions having printed two works in Chinese. He wrote: “I have employed two Chinese type-cutters to carry on a periodical work in Chinese and also to print an Exposition of the Book of Genesis in that language. Three men are cutting Siamese types for printing a pamphlet on the redemption of sinners by Jesus Christ…” However, as no further mention was made of these two Chinese works, it remains doubtful if the printing was ever completed.[^5] 
 
 Some historians have also suggested that Thomsen and Munshi Abdullah were involved in printing some legislations for Raffles in the months leading up to 1 January 1823.[^6] In Munshi Abdullah’s autobiography *Hikayat Abdullah* (*Stories of Abdullah*), he recounts an urgent printing job that he undertook for Raffles:
 
 The settlement of Singapore had become densely populated and Mr. Raffles drafted laws clarifying the regulations and the procedure for their enforcement which were needed in the Settlement to protect its inhabitants from danger and crime. He drew up several sections in English dealing with penalties for infringing the regulations, which were then translated into Malay. After this he told Mr. Thomsen to print them. Now at that time there were not enough types in Malacca, so he told me to make up the deficiency. For two days I sat making types. Then they were ready, and the printing was done, fifty copies in Malay and fifty copies in English. A friend of mine set up the type, a young Eurasian name Michael. At last at three o’clock in the morning all was finished, for the same morning, which was the first day of the new year, they wanted to publish the laws. Eyes drooped and stomachs felt the pangs of hunger, all because the task had to be finished that night. For Mr. Raffles had insisted that it be ready by the next morning. And the next morning the notices were posted in every quarter of the town.[^7]
-
-![](/images/Vol%2019%20Issue%203/10%20Printing/image_5.png)
-<div style="background-color: white;"> 
-	The beautiful calligraphy on the coloured double frontispiece of <i>Hikayat Abdullah</i> (<i>Stories of Abdullah</i>), lithographed at the Mission Press. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F).</i></div>
 
 Raffles was a passionate advocate for printing and played a key role in introducing the first printing press to Bencoolen (now known as Bengkulu) during his tenure as lieutenant-governor there. On his return to Singapore in October 1822, Raffles asked Milton if the mission had a printing press as he wanted to “print several things”. On learning that there was none, Raffles urged Milton to procure some for the LMS.[^8]
 
@@ -67,19 +65,27 @@ Separately, Raffles wrote to the LMS directors to assure them that “the govern
 
 Milton returned to Singapore in April 1823 with “three printing presses and their furniture, one fount of English types, one fount of Chinese types (this is the first fount of these types that was ever cast), one fount of Malay types, with a quantity of English printing paper, printing ink, English compositor also a quantity of type metal, metal furnace and ladles, one set of Siamese, one set of Malay, one set of Arabic Matrices and everything necessary for casting types in the above mentioned languages”, as well as “a complete set of European tools, figures, letters, presses for binding books”.[^11]
 
-However, as the presses were procured without the knowledge of the LMS and Milton lacked the funds to pay for them, the equipment was transferred to the Singapore Institution which covered the purchase using public subscription funds. Milton remained in charge of the printing press and used it to print religious literature and Singapore’s first newspaper, the [*Singapore Chronicle*](/vol-11/issue-4/jan-mar-2016/singapore-chronicle-first-newspaper/). The first issue was published on 1 January 1824.
+However, as the presses were procured without the knowledge of the LMS and Milton lacked the funds to pay for them, the equipment was transferred to the Singapore Institution which covered the purchase using public subscription funds. Milton remained in charge of the printing press and used it to print religious literature and <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/singapore-chronicle-first-newspaper/">Singapore’s first newspaper</a>, the <a href="https://eresources.nlb.gov.sg/newspapers/browse/ec209d3d-88f1-4333-9f94-ae58c641e023"><i>Singapore Chronicle</i></a>. The first issue was published on 1 January 1824.
 
 After Milton retired from the LMS in 1825, Thomsen took over the press and continued its dual function of printing religious publications as well as secular works received through government and commercial jobs.[^12] These include missionary Walter Henry Medhurst’s [*Journal of a Tour Along the Coast of Java and Bali*](/vol-11/issue-4/jan-mar-2016/journal-java-bali-medhurst/) (1830) where he recounts his travels to the two places with Reverend Jacob Tomlin in 1829,[^13] and *Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru* (*The New Testament of Our Lord and Saviour Jesus Christ in Malay*) (1831). This is a revised translation of the New Testament in Malay by Thomsen and Robert Burn, the Chaplain of the Anglican Church in Singapore.[^14]
 
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_6.png)
 <div style="background-color: white;"> 
-	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G).</i></div>
+	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G).</i></div><br>
+	
+<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg" style="width:60%;">
+<div style="background-color: white;"> 
+Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
 
 #### **Printing by the American Mission**
 
 Because of his failing health, Thomsen left Singapore in 1834. However, before leaving, he made the questionable move of selling the LMS’s printing equipment and land to the American Board of Commissioners for Foreign Missions (ABCFM). Uncertainty over the ownership of the property lingered until the board exited Singapore in 1843 and its assets were transferred to the LMS at no cost.[^15]
 
 The ABCFM had been looking for a base in Southeast Asia to print and distribute Christian literature in Chinese and the indigenous languages of Southeast Asia. Singapore was chosen because of its favourable climate, safe conditions and thriving port that saw native vessels calling from China and the region.[^16]
+
+<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/alfred%20north%20original%20diary.JPG" style="width:50%;">
+<div style="background-color: white;"> 
+A drawing of the buildings of the American Board of Commissioners for Foreign Missions by Alfred North. The printing works (marked “e” to “l”) consisted of a press room; a room for wetting paper and washing hands; a room for printing accessories; a typesetting room that could accommodate 50 compositors; storerooms for books, paper and boxes; a book binding room; a type cutting room where punches and matrices were made; and a foundry for casting and finishing type. <i>    Image reproduced from “Travel Journal of Alfred North,” 1835–36, Alfred North Correspondence and Other Documents. MSS 138. Special Collections &amp; Archives, UC San Diego Library Digital Collections.</i></div>
 
 Ira Tracy, the board’s first missionary to Singapore, arrived in 1834 and was joined by printer Alfred North two years later. Tracy oversaw Chinese printing while North supervised the printing, proofreading, distribution and binding of all other books.[^17] They were helped by Achang, the foreman for Chinese printing who was also the former assistant to Liang A-Fa.[^18] They also received assistance from Munshi Abdullah, who was employed as a Malay teacher and who also aided North in editing and printing Malay literature. Notably, North printed Munshi Abdullah’s *Kisah Pelayaran Abdullah* (*The Story of Abdullah’s Voyage*) in 1837, which chronicles the Munshi’s travels up the east coast of Malaya.[^19]
 
@@ -108,6 +114,11 @@ Among his finest lithographic works is the journal [*Cermin Mata Bagi Segala Ora
 	(Left) In <i>Cermin Mata</i>, the lithography technique was used to print Jawi text that closely resembled the natural flow of the handwritten script. <i>Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i><br>
 (Right) British Protestant missionary Benjamin Keasberry is known for using lithography in Malay printing that resembled the flow of the handwritten script found in Malay manuscripts. <i>Image reproduced from Prinsep Street Presbyterian Church 1843–2013: Celebrating 170 Years of God’s Faithfulness (Singapore: Prinsep Street Presbterian Church, 2013). (From National Library, Singapore, call no. 285.25957 PRI).</i></div>
 
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_5.png)
+<div style="background-color: white;"> 
+	The beautiful calligraphy on the coloured double frontispiece of <i>Hikayat Abdullah</i> (<i>Stories of Abdullah</i>), lithographed at the Mission Press. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F).</i></div>
+
+
 #### **Development of a Metallic Chinese Type**
 
 Progress was not limited to Malay printing alone. Samuel Dyer, an LMS missionary stationed in Singapore from 1842 to 1843, has been widely credited for his pioneering work on the development of a fount of movable Chinese metallic types that was accurate, aesthetically pleasing, less costly and durable. 
@@ -122,6 +133,10 @@ Dyer’s movable types received high praise from missionary Walter Henry Medhurs
 Dyer first arrived in Penang in 1827 and stayed on as a missionary to the Chinese. Not long after, he began exploring ways to improve the process of Chinese printing. Up until then, Chinese printing was mainly carried out using the xylographic (woodblock) method. The vast number and sheer variety of characters in the Chinese corpus posed significant challenges to the development of a Chinese type. Dyer spent months studying the composition of Chinese characters and identifying commonly used ones. He experimented with stereotyping before settling on creating a movable metallic type through steel punch cutting.
 
 Dyer continued his development work in his later postings to Malacca (1835–39) and Singapore (1842–43). At the time of his death in 1843, Dyer had completed about half of the over 3,000 characters planned for the fount. His work was continued by LMS missionary and printer Alexander Stronach, who took the foundry with him when he was transferred to Hong Kong in 1846.[^28]
+
+<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/sermon_samuel%20dyer.jpg" style="width:40%;">
+<div style="background-color: white;">
+Title page of the printed sermon delivered at the mission chapel in Singapore on Samuel Dyer’s death in 1843. <i>Image reproduced from The Blessedness of Those Who Die in the Lord: A Sermon Occasioned by the Death of the Rev. Samuel Dyer. Collection of National Library, Singapore (Call no. RRARE 252.1 STR, Accession no. B32423995D).</i></div>
 
 Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and their assistants such as Munshi Abdullah, occupy an important place in the early history of printing in Singapore. They were pioneers in religious printing and also in vernacular, government and commercial printing. Their efforts paved the way for the development of European commercial printing in the 1830s, vernacular commercial printing in the 1860s and 1870s, and the establishment of the Government Printing Office in 1867.[^29]
 
@@ -184,7 +199,7 @@ First published in Melaka in 1820, this word list contains terms in English and 
 <div style="background-color: #fff6ba; text-align:left; font-size=larger"><br>
 <b>PUBLICATIONS BY THE MISSION PRESS OF THE AMERICAN BOARD OF COMMISSIONERS FOR FOREIGN MISSION</b><br><br>
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/dcc381e7-b2ec-4094-9eb1-e208039551af.aspx"><b>Sejarah Melayu (Malay Annals)()</b></a><br>	
+<a href="https://eresources.nlb.gov.sg/printheritage/detail/dcc381e7-b2ec-4094-9eb1-e208039551af.aspx"><b>Sejarah Melayu (Malay Annals)</b></a><br>	
 Singapore: 1840.<br>
 Call no. RRARE 959.503 SEJ; Accession no. B31655050C.<br><br>
 This is the first printed edition of the <i>Sulalat al-Salatin (Genealogy of Kings</i>). This version was edited by Munshi Abdullah and the preface was likely written by Alfred North, who also printed the book.</div></div><br>
@@ -230,11 +245,11 @@ Commonly referred to as Logan’s Journal after its editor, the Scottish lawyer 
 <div style="background-color: #fff6ba; text-align:left">      These pages are from an article on the geological features of Singapore published in volume 1 of <i>The Journal of the Indian Archipelago and Eastern Asia. The illustrated plate on the right was lithographed at the Mission Press. Collection of the National Library, Singapore (Call no. RRARE 950.05 JOU; Accession nos. B03014400A [v. 1]).</i></div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/81c0b1e2-807f-433b-b9d1-500ab4d06e62.aspx"><b>     
+<a href="https://eservice.nlb.gov.sg/item\_holding.aspx?id=4079095"><b>     
 Hikayat Abdullah</b></a><br>
 Singapore: Lithographed at the Mission Press, 1849.<br>
 Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
-An iconic work in Malay literature and the history of Singapore, _Hikayat Abdullah_ (_Stories of Abdullah_) – the autobiography of Munshi Abdullah – describes life in Singapore and Melaka in the early 19th century, including a detailed account of Stamford Raffles’ first arrival to Singapore in January 1819. This copy was donated by the Archdeacon George Frederick Hose in 1879 to the library of the Straits Branch of the Royal Asiatic Society. The book became a part of the Raffles Library (predecessor of the National Library) in 1923 when the society, which held its meetings at the Raffles Library and Museum, made a permanent loan of its collection to the library.</div><br>	
+	An iconic work in Malay literature and the history of Singapore, <i>Hikayat Abdullah</i> (<i>Stories of Abdullah</i>) – the autobiography of Munshi Abdullah – describes life in Singapore and Melaka in the early 19th century, including a detailed account of Stamford Raffles’ first arrival to Singapore in January 1819. This copy was donated by the Archdeacon George Frederick Hose in 1879 to the library of the Straits Branch of the Royal Asiatic Society. The book became a part of the Raffles Library (predecessor of the National Library) in 1923 when the society, which held its meetings at the Raffles Library and Museum, made a permanent loan of its collection to the library.</div><br>	
 
 <img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/hikayat_z.jpg">
 <div style="background-color: #fff6ba; text-align:left">      The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>	
@@ -248,8 +263,8 @@ This translation of the Malay New Testament in Romanised Malay was edited and pu
 <div style="background-color: #fff6ba; text-align:left">Pages from <i>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami (The New Testament of our Lord and Saviour Jesus Christ in Malay). Collection of the National Library, Singapore (Call no. RRARE 225 BIB, Accession no. B20119134J). </i></div><br>	
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=203130883"><b>Ceritera Ilmu Kepandaian Orang Putih</b></a><br>Singapore: Bukit Zion, 1855.<br>         Call no. RRARE 306.460973 CER; Accession no. B31655051D.<br><br>
-Roughly translated as _The Book of European Knowledge_, it was prepared by Munshi Abdullah for use in Benjamin Keasberry’s school. It covers various European modern technology and their social benefits, such as gaslights, water piping systems, railways and printing presses. The textbook was published at Mount Zion on River Valley Road, the location of the new mission office that Keasberry had established as an independent missionary after the London Missionary Society exited from Singapore in 1847.</div><br>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=203130883"><b>Ceritera Ilmu Kepandaian Orang Putih</b></a><br>Singapore: Bukit Zion, 1855.<br>Call no. RRARE 306.460973 CER; Accession no. B31655051D.<br><br>
+	Roughly translated as <i>The Book of European Knowledge</i>, it was prepared by Munshi Abdullah for use in Benjamin Keasberry’s school. It covers various European modern technology and their social benefits, such as gaslights, water piping systems, railways and printing presses. The textbook was published at Mount Zion on River Valley Road, the location of the new mission office that Keasberry had established as an independent missionary after the London Missionary Society exited from Singapore in 1847.</div><br>
 
 <img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/ceritera%20ilmu_z.jpg">
 

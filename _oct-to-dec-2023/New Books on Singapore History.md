@@ -32,7 +32,7 @@ By Chia Sue-Ann et al
 The Nutgraf Books (2023), 199 pages <br>
 Call no.: RSING 334.5095957 CHI
 
-<img style="width:50%;" src="/images/Vol%2019%20Issue%203/9%20New%20Books/fairprice1.jpg">
+<img style="width:40%;" src="/images/Vol%2019%20Issue%203/9%20New%20Books/fairprice2.jpg">
 
 This book traces the FairPrice Group’s success from a worker-led experiment to a S$4 billion food enterprise. It tells the story of a trade union cooperative with a social mission to moderate the cost of living for Singaporeans, and the crises it navigated as it balances profit with purpose.
 
@@ -54,7 +54,7 @@ By Reynold Godwin Pereira
 World Scientific Publishing Co. Pte. Ltd. (2023), 304 pages <br>
 Call no.: RSING 796.334092 PER
 
-<img style="width:50%;" src="/images/Vol%2019%20Issue%203/9%20New%20Books/uncle%20choo5.jpg">
+<img style="width:40%;" src="/images/Vol%2019%20Issue%203/9%20New%20Books/uncle%20choo5.jpg">
 
 Known as Uncle Choo, Choo Seng Quee brought Singapore football to great heights, especially during the 1970s. He was a defender who helped Singapore win the Malaya Cup twice in 1930s, and later became a coach of the national teams of Singapore, Malaysia and Indonesia. His coaching methods based on hard work and discipline brought him success as a coach, despite conflicts with the Singapore Amateur Football Association.
 

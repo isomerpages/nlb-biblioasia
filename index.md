@@ -24,7 +24,7 @@ sections:
       button: "Watch the interview #SingLit"
       url: /videos/reels/
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
-        cover_homepage1.jpg
+        cover_homepage3.jpg
       alt: The Great Reclamation
   - infopic:
       title: The Early History of Printing in Singapore
@@ -51,7 +51,7 @@ sections:
         collection.
       button: New Reads
       url: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
-      image: /images/Vol 19 Issue 3/9 New Books/wild rice3.jpg
+      image: /images/Vol 19 Issue 3/9 New Books/wild rice4.jpg
       alt: Image alt text
   - infopic:
       title: Revisiting the Mystery of the Missing Gold Coins
