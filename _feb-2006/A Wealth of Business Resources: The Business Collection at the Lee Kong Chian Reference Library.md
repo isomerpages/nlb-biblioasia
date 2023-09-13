@@ -31,3 +31,22 @@ It provides real-time and archived financial and market data, pricing, trading, 
 
 An integrated online information system, Euromonitor provides vital business intelligence on countries, companies, markets and consumer data.
 
+**Economist Intelligence Unit (EIU)**
+
+EIU offers exhaustive studies of political and economic trends, background and historical context of current events in nearly 200 countries as well as fortnightly business briefings on doing business in Asia and China.
+
+**Kompass.com**
+
+It contains information on 1.8 million companies in over 75 countries, including complete company profiles, the names of 3.6 million executives and financial data where available.
+
+**Factiva **
+
+Factiva provides access to a deep archive of news and business information for a historical, global and local viewpoint, essential for competitive intelligence.
+
+#### **Our Reference Services**
+
+Customers can approach either our professional staff at the Information Counter on Level 8 or use our remote enquiry service, Reference Point (email: <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a> or fax: +65 6332 3248), for free advisory services for research work, business ventures, company information and personal interests. Our Business Collection librarians can provide answers to enquiries, suggest constructive search strategies and recommend relevantand useful resources available at the Library.
+
+
+
+
