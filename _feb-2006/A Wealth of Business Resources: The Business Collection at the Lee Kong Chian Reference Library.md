@@ -19,5 +19,15 @@ The Business Collection's monographs and journal titles are shelved in distinct 
 
 Notable highlights of the collections include a wide range of titles on modem management and economics topics, such as: Economics, Finance, Banking and Investment. International Economics, Entrepreneurship and Business Enterprises, Industries, Business Law, International Trade, Personal Success, Accounting and Auditing, Management, Advertising and Personal Relations.
 
-To supplement the print collection, the Library offers numerous valuable business databases
+To supplement the print collection, the Library offers numerous valuable business databases  from reputable companies and information aggregators. At a nominal usage charge of S$0.03 per minute and S$O.30 for printing per page, business researchers, entrepreneurs and students can search for accurate and timely business and market information.
+
+Some key business databases are:
+
+**Bloomberg Professional Services (Accessible via Bloomberg Specialised Terminals)**
+
+It provides real-time and archived financial and market data, pricing, trading, communication tools and up-to-date coverage of financial and business news.
+
+**Euromonitor's Global Market Information Database**
+
+An integrated online information system, Euromonitor provides vital business intelligence on countries, companies, markets and consumer data.
 
