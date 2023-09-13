@@ -13,7 +13,18 @@ description: Provides a quick-potted history of Victoria Street, including the
     *Some are dead and some are living*<br> 
      *In my life I've loved them all"* <br> 
 
-Lyric extracts of Lennon/McCartney's "The Beatles' IN MY LIFE"
+   Lyric extracts of Lennon/McCartney's "The Beatles' IN MY LIFE"
 
+In 1999, a *Straits Times* headlines, "National Library to go" announced that the familiar red-brick building along Stamford Road would soon make way for new developments. Despite much protest from the public who had grown to love the building, the library needed to move to a new site to keep up with the times, especially as information needs were expected to move by quantum leaps in the 21st century.
 
+#### **History**
+Formally established in 1845, the Singapore Library carried fiction and non-fiction books and included a Reference section. In 1874, it became a government institution known as the Raffles Library and Museum, and was located at Stamford Road at what is today the National Museum's building. In 1955, it was separated from the National Museum, and eventually in 1960, the library moved into its own building next door.
+
+In 1953, millionaire philanthropist Dr Lee Kong Chian, made a donation of $375,000 "towards the foundation of a public library with the condition that it house books in Asian languages that would be fully representative of the cultures of Singapore." The former St Andrew's School buildings occupied by the British Council was vacated, as the land was developed for the " Raffles Library."
+
+The completion of the library building at Stamford Road was met with shocked reactions from architects and academics alike. They remarked that the architecture was "too severe" "intimidating", "forbidding", and "heavy looking". In a *Free Press* newspaper article dated 9 July 1960, entitled, "They gasp with horror at this 'monstrous monument''', William Lim, a representative of a new generation of local architects, described the $2 million structure as 'a complete and absolute failure of the architect to create the necessary atmosphere and delight." The PWD Architect clarified that the design was more contemporary in style but would consider improvements. On 12 November 1960, the new building was officially opened by President Yusof Ishak, and the library was renamed the National Library of Singapore.
+
+Despite the initial unfavourable comments about the "red-brick balustrade" building, it eventually endeared itself to the public, as it fulfilled not only the requirements of researchers but quickly became a popular hangout for generations of Singaporeans.
+
+On 1 April 1997, the building was closed for ten months for extensive renovations and upgrading. When it reopened to the public on 16 January 1998, it offered a wider range of collections and services. Through the legal deposit (a regulation where publishers must deposit two copies of all Singaporean publications with the National Library Board at their own expense within four weeks of publication), publications on Singapore and by Singaporeans had increased. The newly renovated Reference Section could thus showcase a strong collection on 
 
