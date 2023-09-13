@@ -54,6 +54,9 @@ A Cantonese with uncanny business sense and an uncommon mastery of English, Hoo 
 
 Perhaps upon the insistence of Hoo, who took advantage of the delay on the governor’s part, the Chinese visitors accepted the invitation to see his house and private garden ahead of the meeting with the governor at Government House (known as the Istana today). Today, Hoo’s residence and garden, formerly located off Serangoon Road, no longer exist but in its heyday, it was a celebrated paradise of horticulture, famous for its tasteful recreation of rockeries, ponds, bonsais and bamboo, and a rare gathering place for public celebration during the Lunar New Year. 
 
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_09.png)
+<div style="background-color: white;"> Government House, 1900s. <i>Courtesy of National Archives of Singapore.</i></div>
+
 Steeped in the aesthetics of Chinese gardens, the Nam-sang Fa-un (南生花园), as it was known in Cantonese, gave form and elegance to the merchant’s wealth.[^9] The Russian novelist Ivan Goncharov, who had visited in July 1853, was amazed by the variety of greenery such as banana trees, water lilies, pepper plants, sago, breadfruit trees and bamboos. He also described the pens of birds and animals, towers with latticed turrets for doves, and noted the presence of a beautiful Arabian horse, completely white. The house was even more fabulously adorned, laid with mats and everywhere pieces of furniture “of delicate carvings, gilded lampshades, long covered galleries with all the appurtenances of refined luxury: bronzes, porcelain, on the wall statuettes, arabesques”.[^10] 
 
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_06.png)
