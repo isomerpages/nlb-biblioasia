@@ -45,15 +45,15 @@ While formal approval was only given in January 1823, there is evidence that som
 
 The document, titled “Price Current of Goods at Singapore”, comprises four pages printed on paper watermarked “1819”. It presents a list of commodities categorised under headings such as “Eastern Produce”, “China Goods”, “Bengal and other Indian Goods” and “Produce of Europe, America &amp;c”. The cover sheet bears a handwritten date of 31 May 1822. Byrd observed that the printing was coarse, suggesting that this might be a small government job that was produced on the portable press that Thomsen had brought over from Malacca.[^4]
 
+![](/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/price%20current%20pages%202-3%20v1.jpg)
+<div style="background-color: white;"> 
+"Price Current of Goods at Singapore". <i>L8 Singapore: Letters to Bencoolen, Straits Settlements Records. (From National Archives of Singapore).</i></div>
+
 Further evidence of pre-1823 printing in Singapore is supported by a study that references a letter written by Milton to the LMS in September 1822. In the letter, Milton mentions having printed two works in Chinese. He wrote: “I have employed two Chinese type-cutters to carry on a periodical work in Chinese and also to print an Exposition of the Book of Genesis in that language. Three men are cutting Siamese types for printing a pamphlet on the redemption of sinners by Jesus Christ…” However, as no further mention was made of these two Chinese works, it remains doubtful if the printing was ever completed.[^5] 
 
 Some historians have also suggested that Thomsen and Munshi Abdullah were involved in printing some legislations for Raffles in the months leading up to 1 January 1823.[^6] In Munshi Abdullah’s autobiography *Hikayat Abdullah* (*Stories of Abdullah*), he recounts an urgent printing job that he undertook for Raffles:
 
 The settlement of Singapore had become densely populated and Mr. Raffles drafted laws clarifying the regulations and the procedure for their enforcement which were needed in the Settlement to protect its inhabitants from danger and crime. He drew up several sections in English dealing with penalties for infringing the regulations, which were then translated into Malay. After this he told Mr. Thomsen to print them. Now at that time there were not enough types in Malacca, so he told me to make up the deficiency. For two days I sat making types. Then they were ready, and the printing was done, fifty copies in Malay and fifty copies in English. A friend of mine set up the type, a young Eurasian name Michael. At last at three o’clock in the morning all was finished, for the same morning, which was the first day of the new year, they wanted to publish the laws. Eyes drooped and stomachs felt the pangs of hunger, all because the task had to be finished that night. For Mr. Raffles had insisted that it be ready by the next morning. And the next morning the notices were posted in every quarter of the town.[^7]
-
-![](/images/Vol%2019%20Issue%203/10%20Printing/image_5.png)
-<div style="background-color: white;"> 
-	The beautiful calligraphy on the coloured double frontispiece of <i>Hikayat Abdullah</i> (<i>Stories of Abdullah</i>), lithographed at the Mission Press. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F).</i></div>
 
 Raffles was a passionate advocate for printing and played a key role in introducing the first printing press to Bencoolen (now known as Bengkulu) during his tenure as lieutenant-governor there. On his return to Singapore in October 1822, Raffles asked Milton if the mission had a printing press as he wanted to “print several things”. On learning that there was none, Raffles urged Milton to procure some for the LMS.[^8]
 
@@ -104,7 +104,12 @@ Among his finest lithographic works is the journal [*Cermin Mata Bagi Segala Ora
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_9.png)
 <div style="background-color: white;"> 
 	(Left) In <i>Cermin Mata</i>, the lithography technique was used to print Jawi text that closely resembled the natural flow of the handwritten script. <i>Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i><br>
-(Right) British Protestant missionary Benjamin Keasberry is known for using lithography in Malay printing that resembled the flow of the handwritten script found in Malay manuscripts. <i>Image reproduced from Prinsep Street Presbyterian Church 1843–2013: Celebrating 170 Years of God’s Faithfulness (Singapore: Prinsep Street Presbterian Church, 2013). (From National Library, Singapore, call no. 285.25957 PRI).</i></div>
+(Right) British Protestant missionary Benjamin Keasberry is known for using lithography in Malay printing that resembled the flow of the handwritten script found in Malay manuscripts. <i>Image reproduced from Prinsep Street Presbyterian Church 1843–2013: Celebrating 170 Years of God’s Faithfulness (Singapore: Prinsep Street Presbterian Church, 2013). (From National Library, Singapore, call no. 285.25957 PRI).</i></div><br>
+
+![](/images/Vol%2019%20Issue%203/10%20Printing/image_5.png)
+<div style="background-color: white;"> 
+	The beautiful calligraphy on the coloured double frontispiece of <i>Hikayat Abdullah</i> (<i>Stories of Abdullah</i>), lithographed at the Mission Press. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F).</i></div>
+
 
 #### **Development of a Metallic Chinese Type**
 
