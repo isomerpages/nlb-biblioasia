@@ -13,3 +13,11 @@ With rapid globalisalion, technological innovations and the emergence of new eco
 Therefore, the Business Collection of the Lee Kong Chian Reference Library aims to be the premier stop for both local and foreign professionals, managers, executives and businessmen operating or venturing into local, Asian and other overseas markets. Targeted at business practitioners (executives and entrepreneurs) and practical researchers (management consultants, business analysts, policy-makers, financial journalists and business students), the Lee Kong Chian Reference Library strives to meet the information needs of library users by housing an extensive Business Collection on Level 8.
 
 Focusing primarily on the Asia Pacific, Europe and North America regions, the 26,000-strong collection boasts of comprehensive and updated directories, market research reports, statistical and financial sources. It also includes more than 400 trade and business journal titles, world business news as well as management best practices in both print and electronic formats.
+
+#### **Access and Collection Highlights**
+The Business Collection's monographs and journal titles are shelved in distinct sections as open access materials and arranged according the Dewey Decimal Classification (DOC) system. Business journal titles and annual reports of Singapore listed companies, selected foreign listed companies and some international organisations are located along the bookwall spanning one end of the library. All business materials are listed as "RBUS" under "Lee Kong Chian Reference Library" branch in the Library's online catalogue (<a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a>).
+
+Notable highlights of the collections include a wide range of titles on modem management and economics topics, such as: Economics, Finance, Banking and Investment. International Economics, Entrepreneurship and Business Enterprises, Industries, Business Law, International Trade, Personal Success, Accounting and Auditing, Management, Advertising and Personal Relations.
+
+To supplement the print collection, the Library offers numerous valuable business databases
+
