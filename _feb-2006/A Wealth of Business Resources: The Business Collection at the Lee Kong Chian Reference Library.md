@@ -62,5 +62,7 @@ Our reference librarians handle a diverse range of business enquiries daily. A s
 
 #### **Conclusion**
 
-The Lee Kong Chian Reference Library is continuously exploring new ways to improve its Business Collection and services to remain highly relevant to our business users. It has embarked on collaborations with industry partners, such as <a href="https://www.gobusiness.gov.sg/">https://www.gobusiness.gov.sg/</a>(a one-stop government portal for Singapore business) and International Enterprise Singapore, to provide email and telephone reference services to their clients.
+The Lee Kong Chian Reference Library is continuously exploring new ways to improve its Business Collection and services to remain highly relevant to our business users. It has embarked on collaborations with industry partners, such as <a href="https://www.gobusiness.gov.sg/">https://www.gobusiness.gov.sg/</a> (a one-stop government portal for Singapore business) and International Enterprise Singapore, to provide email and telephone reference services to their clients.
+
+To ensure that the Library meet current and future information business needs, it also organises library tours and dialogue sessions with business and trade associations. If you would like to learn more, do email to the Business Collection librarians at: <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a>.
 
