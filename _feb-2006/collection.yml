@@ -2,4 +2,6 @@ collections:
   feb-2006:
     output: true
     order:
+      - "A Wealth of Business Resources: The Business Collection at the Lee Kong
+        Chian Reference Library.md"
       - Director's Column.md
