@@ -59,3 +59,8 @@ Our reference librarians handle a diverse range of business enquiries daily. A s
 • **Business statistics:** Tourism statistics for Singapore and Southeast Asian countries; <br>  
 • **Entrepreneurship:** How to apply for licences and set up catering business in Singapore; <br>  
 • **Other business topics:** Business plans, marketing of products, Internet retailing, value innovation, financial planning, leadership, human resource management, etc.
+
+#### **Conclusion**
+
+The Lee Kong Chian Reference Library is continuously exploring new ways to improve its Business Collection and services to remain highly relevant to our business users. It has embarked on collaborations with industry partners, such as <a href="https://www.gobusiness.gov.sg/">https://www.gobusiness.gov.sg/</a>(a one-stop government portal for Singapore business) and International Enterprise Singapore, to provide email and telephone reference services to their clients.
+
