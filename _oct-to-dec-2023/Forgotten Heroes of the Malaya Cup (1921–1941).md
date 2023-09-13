@@ -364,7 +364,7 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 5 Jul 1941:<br>6–0|Malacca|Tan Lai Chuan (3), Ha Tee Siang (2) &amp; Yueng Quan Chong|
 18 Jul 1941:<br>1–0|RAF|Tan Lai Chuan|
 26 Jul 1941:<br>1–1|Army|Not reported|
-<br>
+
 <div style="background-color: white;"><br>
 Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He is the author of Sport in Singapore: The Colonial Legacy (2019)</i> and <i>Sport in Singapore: The Rocky Road to Kallang Park (2023).</i></div>
 
