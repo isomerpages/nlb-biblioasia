@@ -164,4 +164,3 @@ Much, of course, has changed since – Britain has lost its empire, China is a g
 [^31]: For the Singapore leg of Guo’s journey, see郭嵩焘, 使西纪程, 7–9. 
 
 [^32]: “[H.E. Kwoh Sung Tao’s Diary. H.E. in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18780121-1.2.13.6.1),” _Singapore Daily Times_, 21 January 1878, 3 (From NewspaperSG)
-
