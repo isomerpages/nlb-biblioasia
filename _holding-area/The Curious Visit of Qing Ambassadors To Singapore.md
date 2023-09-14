@@ -25,12 +25,15 @@ The British were eager to underscore to the watching world the pre-eminence of G
 
 Under the direction of Halliday Macartney, one of two Englishmen attached to the visitors, he made it a point that the Chinese delegation would call only at British ports, on the so-called “six great stages of our Imperial track across the Oceans, viz. Hong Kong, Singapore, Ceylon, Aden, Malta and Gibraltar”, where they could be impressed by the luminosity of England’s enlightenment and their undeniable mastery of peoples, land and sea. [^2]
 
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_07.png)
+<div style="background-color: white;">Halliday Macartney, the British official attached to the visiting Qing delegation in Singapore, 1908. <i>Retrieved from Wikimedia Commons.</i></div>
+
 On the Chinese side, spirits were low and there was difficulty finding a suitable ambassador to fill the post. During this period, a despatch overseas was akin to exile rather than a lucrative honour. Eventually, Chinese premier Li Hongzhang appointed Guo for the post. A seasoned statesman, Guo was a strong advocate of liberal reform and favoured negotiation with the “foreign barbarians”. His keen attention to Western affairs was atypical for his time and invited slander, suspicion and distrust from his enemies. 
+
+For this trip, Guo was accompanied by other Chinese bureaucrats who failed to share his outlook, plaguing the voyage with much schism and infighting. Drawing his particular ire was the minor official Liu Xihong (刘锡鸿), who was attached belatedly as assistant envoy to the embassy, likely as a check on Guo’s liberal leanings. [^3] Liu was a quarrelsome individual with a reputation for xenophobia, stubbornness and ignorance. [^4]
 
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_03_v2.png)
 <div style="background-color: white;">Liu Xihong, the assistant envoy to the Chinese Embassy in London. <i>Image reproduced from The First Chinese Embassy to the West: The Journals of Kuo Sung-T’ao, Liu Hsi-Hung and Chang Te-Yi, trans. J.D. Frodsham (Oxford: Clarendon Press, 1974). (From National Library, Singapore, call no. RCLOS 327.20922 FIR). </i></div> 
-
-For this trip, Guo was accompanied by other Chinese bureaucrats who failed to share his outlook, plaguing the voyage with much schism and infighting. Drawing his particular ire was the minor official Liu Xihong (刘锡鸿), who was attached belatedly as assistant envoy to the embassy, likely as a check on Guo’s liberal leanings. [^3] Liu was a quarrelsome individual with a reputation for xenophobia, stubbornness and ignorance. [^4]
 
 It is under this cloud of undue politicking within the Qing court and the outsized influence of the British legation that the embassy called at Singapore in the second regnal year of the Guangxu Emperor (光緒帝; r. 1875–1908).
 
@@ -65,9 +68,6 @@ Steeped in the aesthetics of Chinese gardens, the Nam-sang Fa-un (南生花园),
 Very much against the wishes of Macartney, who tried to dissuade them of this undertaking, the party went along, taking the road from New Harbour to Bendemeer after two in the afternoon. The rain having cleared, and the sun now bearing down hotly upon them, they were carried on four carriages, probably ordered by Hoo. 
 
 Macartney was eager that no dishonour be seen to impinge upon British governance, but almost true to his fears, as they passed Indian and Chinese shophouses, the visitors, upon reading the signboards on the Chinese shophouses, remarked that the Singapore Chinese “seemed for the most part to be very poor”.[^11]
-
-![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_07.png)
-<div style="background-color: white;">Halliday Macartney, the British official attached to the visiting Qing delegation in Singapore, 1908. <i>Retrieved from Wikimedia Commons.</i></div>
 
 Flustered by this comment, Macartney rejoined hastily that they “had not yet arrived at the town, and that these houses could not be taken as fair specimens of the shops of their countrymen”.[^12] It did not help that their coachman drove them to his shop rather than high-roading the way to the luxurious house of Hoo. Chagrined, Macartney leapt out angrily from the carriage and asked one of the shop assistants to “give the necessary directions for our being taken with all possible haste to Mr. W’s [Hoo’s] house”.[^13] 
 
