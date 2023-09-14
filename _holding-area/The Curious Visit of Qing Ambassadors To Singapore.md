@@ -11,7 +11,7 @@ By Benjamin J.Q. Khoo
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01_v2.png)
 <div style="background-color: white;">Hoo Ah Kay (Whampoa) in his home, the famous Nam-sang Fa-un (南生花园), mid-19th century. The Qing delegation visited his home and gardens, and were impressed by what they saw. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
-On 13 December 1876, the P&amp;O Steamer Tranvacore docked at Singapore carrying a curious entourage.  Stepping off the ship were His Excellency Guo Songtao (郭嵩焘), the first Chinese ambassador to Britain, and other members of the Qing Imperial Court. It was about 11 on a grey, rainy morning when they arrived, with little fanfare to receive them. But after a run of four days at sea, it must have been a pleasant relief from the cramped quarters on deck as well as a temporal distraction from the weighty conversations between men and states. 
+On 13 December 1876, the P&amp;O Steamer Tranvacore docked at Singapore carrying a curious entourage[^1]. Stepping off the ship were His Excellency Guo Songtao (郭嵩焘), the first Chinese ambassador to Britain, and other members of the Qing Imperial Court. It was about 11 on a grey, rainy morning when they arrived, with little fanfare to receive them. But after a run of four days at sea, it must have been a pleasant relief from the cramped quarters on deck as well as a temporal distraction from the weighty conversations between men and states. 
 
 
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_02_v2.png)
@@ -123,7 +123,7 @@ Meanwhile, alarmed by Guo’s negotiations in London to set up a consulate in Si
 
 As for Guo, the embassy he headed eventually made it to London in early 1877, where he passed an eventful two years as the first Chinese ambassador, turning his eyes and mind to international issues of diplomacy and law while grasping at the same time the peculiar contours of Western man and society. Despite seeking answers to China’s response to the West and establishing diplomatic relations with Germany and France in subsequent years, he was unable to push his insights to a divisive court in Beijing.[^27] Most mortifyingly, he was mocked by the jingoistic and vitriolic tabloids in a foreign land while bearing the scorn of his countrymen at home.[^28]
 
-After this diplomatic posting, Guo eventually retired to his estate in his native Hunan to pass his remaining days quietly, teaching and writing his memoirs. Ever the conservative, Liu eventually returned home where he took up a post in the Court of Banqueting.[29] (Liu, who left no impression of his time in Singapore, had also sabotaged Guo by sending malicious slanders to Beijing while in London.[^30])
+After this diplomatic posting, Guo eventually retired to his estate in his native Hunan to pass his remaining days quietly, teaching and writing his memoirs. Ever the conservative, Liu eventually returned home where he took up a post in the Court of Banqueting.[^29] (Liu, who left no impression of his time in Singapore, had also sabotaged Guo by sending malicious slanders to Beijing while in London.[^30])
 
 #### **A Forgotten Encounter**
 
