@@ -11,7 +11,7 @@ By Benjamin J.Q. Khoo
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01_v2.png)
 <div style="background-color: white;">Hoo Ah Kay (Whampoa) in his home, the famous Nam-sang Fa-un (南生花园), mid-19th century. The Qing delegation visited his home and gardens, and were impressed by what they saw. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
-On 13 December 1876, the P&amp;O Steamer Tranvacore docked at Singapore carrying a curious entourage[^1]. Stepping off the ship were His Excellency Guo Songtao (郭嵩焘), the first Chinese ambassador to Britain, and other members of the Qing Imperial Court. It was about 11 on a grey, rainy morning when they arrived, with little fanfare to receive them. But after a run of four days at sea, it must have been a pleasant relief from the cramped quarters on deck as well as a temporal distraction from the weighty conversations between men and states. 
+On 13 December 1876, the P&amp;O Steamer _Tranvacore_ docked at Singapore carrying a curious entourage[^1]. Stepping off the ship were His Excellency Guo Songtao (郭嵩焘), the first Chinese ambassador to Britain, and other members of the Qing Imperial Court. It was about 11 on a grey, rainy morning when they arrived, with little fanfare to receive them. But after a run of four days at sea, it must have been a pleasant relief from the cramped quarters on deck as well as a temporal distraction from the weighty conversations between men and states. 
 
 
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_02_v2.png)
@@ -45,7 +45,7 @@ Upon landing, the visitors were met by William A. Pickering, the Chinese interpr
 
 Pickering could only apologise for the delay of the colonial secretary, John Douglas, due to the steamer having arrived earlier than expected. Douglas subsequently came to present his compliments but regretted that a proper reception in the form of a 15-gun salute and a guard of honour had to be prepared. This meant that a meeting with William Jervois, governor of the Straits Settlements, was embarrassingly postponed until four in the afternoon. 
 
-Meanwhile, as the party adjourned for tiffin, they were joined by Cai Guoxiang and Cai Guoxi, officials of the Yang Wu, a Qing corvette launched by the Fuzhou Shipyard in 1872.[^7] Accompanying the crew were some Singapore merchants, among them a certain Hoo Ah Kay (Hu Xuanze; 胡璇泽), more popularly known in Singapore as Whampoa (he was born in Whampoa [Huangpu], near Canton [Guangdong], China).
+Meanwhile, as the party adjourned for tiffin, they were joined by Cai Guoxiang and Cai Guoxi, officials of the _Yang Wu_, a Qing corvette launched by the Fuzhou Shipyard in 1872.[^7] Accompanying the crew were some Singapore merchants, among them a certain Hoo Ah Kay (Hu Xuanze; 胡璇泽), more popularly known in Singapore as Whampoa (he was born in Whampoa [Huangpu], near Canton [Guangdong], China).
 
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_05.png)
 <div style="background-color: white;">Portrait of Hoo Ah Kay (Whampoa), 1850s. The Qing delegation visited his home and gardens, and were impressed by what they saw. <i>Courtesy of National Archives of Singapore. </i></div>
@@ -78,7 +78,7 @@ Guo, while dazzled by Hoo’s collection, did not let this distract him from ser
 
 By 4 pm, the envoys were back on track on more officious proceedings. Guo and his suite finally met Governor William Jervois and his family at Government House. The conversation appeared rather superficial, although Guo had only positive things to write. He described the governor as more affable in bearing than the governor of Hong Kong, Arthur E. Kennedy, and his lady as “very intelligent and most sympathetic in her enquiries” (夫人亦贤明, 慰问甚勤).[^18] 
 
-![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_08.png)
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_08_v2.png)
 <div style="background-color: white;">A watercolour painting titled “Government Hill from the New Harbour Road, Singapore” (1844) by Scotsman Charles Andrew Dyce. The Qing delegation visited Governor William Jervois at Government House on the hill. <i>National University of Singapore Museum Collection. Courtesy of NUS Museum.</i></div>
 
 The company was then escorted to Fort Canning where they inspected the fortifications along the hill, and visited the barracks and troops. Here it was defensive bulwarks, the serious firepower of the artillery, the professionalism of armies and the rigid division of labour that were conveyed successfully to the Qing visitors.
@@ -127,7 +127,7 @@ After this diplomatic posting, Guo eventually retired to his estate in his nativ
 
 #### **A Forgotten Encounter**
 
-In January 1878, an abbreviated extract from Guo’s diary (使西纪程)[^31] talking about his sojourn in Singapore managed to find its way into the Singapore Daily Times.[^32] That aside, the brief sojourn by Guo and Liu has largely been forgotten.
+In January 1878, an abbreviated extract from Guo’s diary (使西纪程)[^31] talking about his sojourn in Singapore managed to find its way into the _Singapore Daily Times_.[^32] That aside, the brief sojourn by Guo and Liu has largely been forgotten.
 
 Nonetheless, the entire episode illustrates, then and now, how quickly the face of Asia was changing towards the tail end of the 19th century. In particular, it provided a painful assessment of the gap that had emerged between China and the West. The centrality and superiority of Imperial China were being challenged everywhere. 
 
