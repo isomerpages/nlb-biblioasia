@@ -197,7 +197,8 @@ Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K.<br><br>
 First published in Melaka in 1820, this word list contains terms in English and Malay compiled by Claudius Henry Thomsen and Munshi Abdullah. This third edition, published in 1833, was expanded to include Bugis terms.</div><br>	
 
 <img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/vocabulary%20inside%20&amp;%20title.jpg">
-<div style="background-color: #fff6ba; text-align:left">  Title page and inside pages from <i>A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words. Collection of the National Library, Singapore (Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K).</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	Title page and inside pages from <i>A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words. Collection of the National Library, Singapore (Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size=larger"><br>
 <b>PUBLICATIONS BY THE MISSION PRESS OF THE AMERICAN BOARD OF COMMISSIONERS FOR FOREIGN MISSION</b><br><br>
