@@ -47,7 +47,7 @@ The document, titled “Price Current of Goods at Singapore”, comprises four p
 
 <img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/price%20current%20pages%202-3%20v1.jpg" style="width:60%;">
 <div style="background-color: white;">
-	"Price Current of Goods at Singapore". <i>L8 Singapore: Letters to Bencoolen, Straits Settlements Records. (From National Archives of Singapore).</i></div>
+"Price Current of Goods at Singapore". <i>L8 Singapore: Letters to Bencoolen, Straits Settlements Records. (From National Archives of Singapore).</i></div>
 
 Further evidence of pre-1823 printing in Singapore is supported by a study that references a letter written by Milton to the LMS in September 1822. In the letter, Milton mentions having printed two works in Chinese. He wrote: “I have employed two Chinese type-cutters to carry on a periodical work in Chinese and also to print an Exposition of the Book of Genesis in that language. Three men are cutting Siamese types for printing a pamphlet on the redemption of sinners by Jesus Christ…” However, as no further mention was made of these two Chinese works, it remains doubtful if the printing was ever completed.[^5] 
 
@@ -75,7 +75,7 @@ After Milton retired from the LMS in 1825, Thomsen took over the press and conti
 
 <img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg" style="width:60%;">
 <div style="background-color: white;">
-	Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
+Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
 
 #### **Printing by the American Mission**
 
@@ -84,7 +84,7 @@ Because of his failing health, Thomsen left Singapore in 1834. However, before l
 The ABCFM had been looking for a base in Southeast Asia to print and distribute Christian literature in Chinese and the indigenous languages of Southeast Asia. Singapore was chosen because of its favourable climate, safe conditions and thriving port that saw native vessels calling from China and the region.[^16]
 
 <img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/alfred%20north%20original%20diary.JPG" style="width:50%;">
-<div style="background-color: white;"> 
+<div style="background-color: white;">
 A drawing of the buildings of the American Board of Commissioners for Foreign Missions by Alfred North. The printing works (marked “e” to “l”) consisted of a press room; a room for wetting paper and washing hands; a room for printing accessories; a typesetting room that could accommodate 50 compositors; storerooms for books, paper and boxes; a book binding room; a type cutting room where punches and matrices were made; and a foundry for casting and finishing type. <i>    Image reproduced from “Travel Journal of Alfred North,” 1835–36, Alfred North Correspondence and Other Documents. MSS 138. Special Collections &amp; Archives, UC San Diego Library Digital Collections.</i></div>
 
 Ira Tracy, the board’s first missionary to Singapore, arrived in 1834 and was joined by printer Alfred North two years later. Tracy oversaw Chinese printing while North supervised the printing, proofreading, distribution and binding of all other books.[^17] They were helped by Achang, the foreman for Chinese printing who was also the former assistant to Liang A-Fa.[^18] They also received assistance from Munshi Abdullah, who was employed as a Malay teacher and who also aided North in editing and printing Malay literature. Notably, North printed Munshi Abdullah’s *Kisah Pelayaran Abdullah* (*The Story of Abdullah’s Voyage*) in 1837, which chronicles the Munshi’s travels up the east coast of Malaya.[^19]
