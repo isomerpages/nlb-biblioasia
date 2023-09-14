@@ -168,7 +168,8 @@ Call no. RRARE 225.59928 BIB; Accession no. B19016274H.<br><br>
 This revised translation of the New Testament in Malay was prepared by Claudius Henry Thomsen and Robert Burn, the Chaplain of the Anglican Church in Singapore. Thomsen began learning and translating the Bible into Malay with the help of Munshi Abdullah while they were in Melaka.<br></div><br>
 	
 <img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg">
-<div style="background-color: #fff6ba; text-align:left">Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/c2d856b0-4c4c-4d44-bf60-94d10cf3e868.aspx"><b>Bugis Tract. No. 2, Religion of the Bible</b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1831.<br>
@@ -176,7 +177,8 @@ Call no. RRARE 225.59928 BIB; Accession no. B19016274H.</div><br>
 Claudius Henry Thomsen started learning the Bugis language sometime around 1824 with the intent of producing a tract to distribute to Bugis vessels that visited Singapore during the trading season. He printed 2,000 copies of a 12-page booklet on the Parables of the New Testament which was likely translated from Malay by his Bugis teacher. There appeared to be some interest in these pamphlets as they were brought back to the Celebes.<br><br>
 
 <img style="width:40%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/bugis%20tract.JPG">
-<div style="background-color: #fff6ba; text-align:left">&nbsp; A page from <i>Bugis Tract. No. 2, Religion of the Bible. Collection of the National Library, Singapore (Call no. RRARE 230 BUG; Accession no. B26067781D).</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	A page from <i>Bugis Tract. No. 2, Religion of the Bible. Collection of the National Library, Singapore (Call no. RRARE 230 BUG; Accession no. B26067781D).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/d7826db3-8975-418b-ba35-8e28f1716c9a.aspx"><b>A Code of Bugis Maritime Laws</b></a><br>Singapore: Printed at the Mission Press, 1832.<br>
@@ -184,8 +186,8 @@ Call no. RRARE 343.5984096 COD; Accession no. B03053896A.<br><br>
 This maritime code of the Bugis was translated by Claudius Henry Thomsen into English. It was printed from types that were cast in Singapore using moulds made in Serempore, in India.</div><br>
 
 <img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/code%20of%20bugis%20maritime%20laws.jpg">
-
-<div style="background-color: #fff6ba; text-align:left"> Title page and inside pages from <i>A Code of Bugis Maritime Laws. Collection of the National Library, Singapore (Call no. RRARE 343.5984096 COD; Accession no. B03053896A). </i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	Title page and inside pages from <i>A Code of Bugis Maritime Laws. Collection of the National Library, Singapore (Call no. RRARE 343.5984096 COD; Accession no. B03053896A). </i></div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/b3f825d4-091a-4546-9bec-e1bb88da4268.aspx"><b>     
