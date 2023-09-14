@@ -46,8 +46,8 @@ While formal approval was only given in January 1823, there is evidence that som
 The document, titled “Price Current of Goods at Singapore”, comprises four pages printed on paper watermarked “1819”. It presents a list of commodities categorised under headings such as “Eastern Produce”, “China Goods”, “Bengal and other Indian Goods” and “Produce of Europe, America &amp;c”. The cover sheet bears a handwritten date of 31 May 1822. Byrd observed that the printing was coarse, suggesting that this might be a small government job that was produced on the portable press that Thomsen had brought over from Malacca.[^4]
 
 <img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/price%20current%20pages%202-3%20v1.jpg" style="width:60%;">
-<div style="background-color: white;"> 
-"Price Current of Goods at Singapore". <i>L8 Singapore: Letters to Bencoolen, Straits Settlements Records. (From National Archives of Singapore).</i></div>
+<div style="background-color: white;">
+	"Price Current of Goods at Singapore". <i>L8 Singapore: Letters to Bencoolen, Straits Settlements Records. (From National Archives of Singapore).</i></div>
 
 Further evidence of pre-1823 printing in Singapore is supported by a study that references a letter written by Milton to the LMS in September 1822. In the letter, Milton mentions having printed two works in Chinese. He wrote: “I have employed two Chinese type-cutters to carry on a periodical work in Chinese and also to print an Exposition of the Book of Genesis in that language. Three men are cutting Siamese types for printing a pamphlet on the redemption of sinners by Jesus Christ…” However, as no further mention was made of these two Chinese works, it remains doubtful if the printing was ever completed.[^5] 
 
