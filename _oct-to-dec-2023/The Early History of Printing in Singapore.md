@@ -228,7 +228,7 @@ Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E.<br><br>
 This is a facsimile reproduction of the 1837 edition of the Gospel of John, which scholars regard as the earliest extant book of the Bible in Japanese. It was translated by Gützlaff with the assistance of three shipwrecked Japanese sailors. One of the three, 
 <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/yamamoto-otokichi/">Yamamoto Otokichi</a>, became the first Japanese settler in Singapore in 1862. Due to the closed-door policies of Japan and China at the time, Gützlaff had to send the text to Singapore for printing. The book cover credits 堅夏書院 (Kenka Shoin), the printing arm of the American mission in Singapore, as the publisher. The glaring errors in the katakana script are indications that the printing was likely undertaken by Chinese printers who did not know Japanese. This publication was donated to the National Library by Lim Shao Bin.</div><br>
 	
-<img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/japanese%20bible1.jpg">
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/japanese%20bible4.jpg">
 <div style="background-color: #fff6ba;text-align:left">
 	Cover and pages from 約翰福音之傳: 複製及解説<i> (Yohane fukuin no den: Fukusei oyobi kaisetsu). Collection of the National Library, Singapore (Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E).</i></div><br>
 
@@ -257,7 +257,7 @@ Singapore: Lithographed at the Mission Press, 1849.<br>
 Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
 	An iconic work in Malay literature and the history of Singapore, <i>Hikayat Abdullah</i> (<i>Stories of Abdullah</i>) – the autobiography of Munshi Abdullah – describes life in Singapore and Melaka in the early 19th century, including a detailed account of Stamford Raffles’ first arrival to Singapore in January 1819. This copy was donated by the Archdeacon George Frederick Hose in 1879 to the library of the Straits Branch of the Royal Asiatic Society. The book became a part of the Raffles Library (predecessor of the National Library) in 1923 when the society, which held its meetings at the Raffles Library and Museum, made a permanent loan of its collection to the library.</div><br>	
 
-<img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/hikayat%20improved1.jpg">
+<img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/hikayat%20improved3.jpg">
 <div style="background-color: #fff6ba; text-align:left">
 	The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>	
 	
@@ -283,7 +283,7 @@ Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan</b></a><br>Singapore: Li
 Call no. RRARE 059.9923 CER; Accession no. B03057034K.<br><br>
 Translated as Eye Glass for All Who Seek Knowledge, this is one of the earliest Malay periodicals published in Singapore. It showcases Benjamin Keasberry’s skill in utilising lithography to reproduce texts that are visually familiar to the calligraphic script, decorative motifs and bright colours of hand-copied Malay manuscripts.</div><br>	
 
-<img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/cermin%20mata_z.jpg">
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/cermin%20mata%20improved.jpg">
 <div style="background-color: #fff6ba; text-align:left">
 	Inside pages from <i>Cermin Mata. Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i></div><br><br>
 
