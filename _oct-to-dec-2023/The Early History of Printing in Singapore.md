@@ -217,8 +217,8 @@ This is the first printed edition of the <i>Sulalat al-Salatin (Genealogy of Kin
 The title of this publication has been translated as The Perfect Man’s Model or The Complete Duty of Man. This is the earliest extant Chinese publication printed in Singapore and is held in the National Library’s collection. This book was written by German Protestant missionary Karl Friedrich August Gützlaff under his pen name 爱汉者 (“Lover of the Chinese”) and by printed by 坚夏書院 (Jian Xia Shuyuan), the printing arm of the American mission in Singapore.</div><br>
 
 <img style="width:65%;" src="/images/Vol%2019%20Issue%203/10%20Printing/image_8-edit.png">
-
-<div style="background-color: #fff6ba;text-align:left">Cover and pages from 全人矩矱 <i>(Quan Ren Ju Yue)</i>, translated as&nbsp;<i>The Perfect Man’s Model</i>&nbsp;or&nbsp;<i>The Complete Duty of Man. Collection of the National Library, Singapore (Call no. RRARE 243 AHZ; Accession no. B29240187K).</i></div><br>
+<div style="background-color: #fff6ba;text-align:left">
+	Cover and pages from 全人矩矱 <i>(Quan Ren Ju Yue)</i>, translated as&nbsp;<i>The Perfect Man’s Model</i>&nbsp;or&nbsp;<i>The Complete Duty of Man. Collection of the National Library, Singapore (Call no. RRARE 243 AHZ; Accession no. B29240187K).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203430235"><b>     
@@ -229,15 +229,16 @@ This is a facsimile reproduction of the 1837 edition of the Gospel of John, whic
 <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/yamamoto-otokichi/">Yamamoto Otokichi</a>, became the first Japanese settler in Singapore in 1862. Due to the closed-door policies of Japan and China at the time, Gützlaff had to send the text to Singapore for printing. The book cover credits 堅夏書院 (Kenka Shoin), the printing arm of the American mission in Singapore, as the publisher. The glaring errors in the katakana script are indications that the printing was likely undertaken by Chinese printers who did not know Japanese. This publication was donated to the National Library by Lim Shao Bin.</div><br>
 	
 <img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/japanese%20bible%201_3.png">
-<div style="background-color: #fff6ba;text-align:left">Cover and pages from 約翰福音之傳: 複製及解説<i> (Yohane fukuin no den: Fukusei oyobi kaisetsu). Collection of the National Library, Singapore (Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E).</i></div><br>
+<div style="background-color: #fff6ba;text-align:left">
+	Cover and pages from 約翰福音之傳: 複製及解説<i> (Yohane fukuin no den: Fukusei oyobi kaisetsu). Collection of the National Library, Singapore (Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx"><b>Notices of the Indian Archipelago, and Adjacent Countries</b></a><br>Singapore: 1837.<br>Call no. RRARE 991 MOO; Accession no. B03013554J.<br><br>
 This mammoth work features articles on Singapore and Southeast Asia reprinted from the <i>Singapore Chronicle</i> and other scholarly journals. It was compiled by John Henry Moor, the former editor of the <i>Singapore Chronicle</i> and <i>Singapore Free Press</i>. Due to the scarcity of printers and paper, the task took two years to complete. This is among one of the earliest scholarly works printed in Singapore. It was donated to the National Library by Mrs Loke Yew in fulfilment of the intention of her son Loke Wan Tho.</div><br>
 
 <img style="width:45%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/notices%20of%20the%20indian%20archipelago_z.jpg">
-
-<div style="background-color: #fff6ba; text-align:left">Title page of <i>Notices of the Indian Archipelago, and Adjacent Countries. Collection of the National Library, Singapore (Call no. RRARE 991 MOO; Accession no. B03013554J).</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	Title page of <i>Notices of the Indian Archipelago, and Adjacent Countries. Collection of the National Library, Singapore (Call no. RRARE 991 MOO; Accession no. B03013554J).</i></div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size=larger"><br>
 <b>SELECTED WORKS BY BENJAMIN KEASBERRY</b><br><br>
@@ -246,8 +247,8 @@ This mammoth work features articles on Singapore and Southeast Asia reprinted fr
 Commonly referred to as Logan’s Journal after its editor, the Scottish lawyer James Richardson Logan, this is one of the earliest scholarly periodicals published in Singapore. The periodical covered a broad range of topics ranging from history to the natural science of Southeast Asia, and was published in two series between 1847 and 1859. The first two volumes were printed at the Mission Press. The page featured is from an article on the geological features of Singapore published in volume 1. The illustrated plate on the right was lithographed at the Mission Press..</div></div><br>
 
 <img style="width:65%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20the%20indian%20archipelago_z.jpg">
-
-<div style="background-color: #fff6ba; text-align:left">      These pages are from an article on the geological features of Singapore published in volume 1 of <i>The Journal of the Indian Archipelago and Eastern Asia. The illustrated plate on the right was lithographed at the Mission Press. Collection of the National Library, Singapore (Call no. RRARE 950.05 JOU; Accession nos. B03014400A [v. 1]).</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	These pages are from an article on the geological features of Singapore published in volume 1 of <i>The Journal of the Indian Archipelago and Eastern Asia. The illustrated plate on the right was lithographed at the Mission Press. Collection of the National Library, Singapore (Call no. RRARE 950.05 JOU; Accession nos. B03014400A [v. 1]).</i></div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eservice.nlb.gov.sg/item\_holding.aspx?id=4079095"><b>     
@@ -257,23 +258,24 @@ Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
 	An iconic work in Malay literature and the history of Singapore, <i>Hikayat Abdullah</i> (<i>Stories of Abdullah</i>) – the autobiography of Munshi Abdullah – describes life in Singapore and Melaka in the early 19th century, including a detailed account of Stamford Raffles’ first arrival to Singapore in January 1819. This copy was donated by the Archdeacon George Frederick Hose in 1879 to the library of the Straits Branch of the Royal Asiatic Society. The book became a part of the Raffles Library (predecessor of the National Library) in 1923 when the society, which held its meetings at the Raffles Library and Museum, made a permanent loan of its collection to the library.</div><br>	
 
 <img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/hikayat_z.jpg">
-<div style="background-color: #fff6ba; text-align:left">      The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>	
+<div style="background-color: #fff6ba; text-align:left">
+	The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>	
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=7230342"><b>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami <i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i></b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1853.<br>Call no.: RRARE 225 BIB; Accession no.: B20119134J.<br><br>
 This translation of the Malay New Testament in Romanised Malay was edited and published by Benjamin Keasberry for the British and Foreign Bible Society in 1853. A revised edition was published in 1866.</div><br>
 
 <img style="width:35%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20iya%20itu%20injil%20isa%20al-masih%20tuhan%20kami_x.jpg">
-
-<div style="background-color: #fff6ba; text-align:left">Pages from <i>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami (The New Testament of our Lord and Saviour Jesus Christ in Malay). Collection of the National Library, Singapore (Call no. RRARE 225 BIB, Accession no. B20119134J). </i></div><br>	
+<div style="background-color: #fff6ba; text-align:left">
+	Pages from <i>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami (The New Testament of our Lord and Saviour Jesus Christ in Malay). Collection of the National Library, Singapore (Call no. RRARE 225 BIB, Accession no. B20119134J). </i></div><br>	
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=203130883"><b>Ceritera Ilmu Kepandaian Orang Putih</b></a><br>Singapore: Bukit Zion, 1855.<br>Call no. RRARE 306.460973 CER; Accession no. B31655051D.<br><br>
 	Roughly translated as <i>The Book of European Knowledge</i>, it was prepared by Munshi Abdullah for use in Benjamin Keasberry’s school. It covers various European modern technology and their social benefits, such as gaslights, water piping systems, railways and printing presses. The textbook was published at Mount Zion on River Valley Road, the location of the new mission office that Keasberry had established as an independent missionary after the London Missionary Society exited from Singapore in 1847.</div><br>
 
 <img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/ceritera%20ilmu_z.jpg">
-
-<div style="background-color: #fff6ba; text-align:left">Cover and inside pages from <i>Ceritera Ilmu Kepandaian Orang Putih. Collection of the National Library, Singapore (Call no. RRARE 306.460973 CER, Accession no. B31655051D).</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	Cover and inside pages from <i>Ceritera Ilmu Kepandaian Orang Putih. Collection of the National Library, Singapore (Call no. RRARE 306.460973 CER, Accession no. B31655051D).</i></div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4412481"><b>     
@@ -282,7 +284,8 @@ Call no. RRARE 059.9923 CER; Accession no. B03057034K.<br><br>
 Translated as Eye Glass for All Who Seek Knowledge, this is one of the earliest Malay periodicals published in Singapore. It showcases Benjamin Keasberry’s skill in utilising lithography to reproduce texts that are visually familiar to the calligraphic script, decorative motifs and bright colours of hand-copied Malay manuscripts.</div><br>	
 
 <img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/cermin%20mata_z.jpg">
-<div style="background-color: #fff6ba; text-align:left">  Inside pages from <i>Cermin Mata. Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i></div><br><br>
+<div style="background-color: #fff6ba; text-align:left">
+	Inside pages from <i>Cermin Mata. Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i></div><br><br>
 
 <b>REFERENCES</b><br><br>
 Abdullah Abdul Kadir, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=4079095"><i>Hikayat Abdullah</i></a> (Singapore: Mission Press, 1849). (From National Library, Singapore, call no. RRARE 959.503 ABD)<br><br>
