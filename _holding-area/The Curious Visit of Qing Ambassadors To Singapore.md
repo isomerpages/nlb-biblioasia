@@ -85,7 +85,7 @@ The company was then escorted to Fort Canning where they inspected the fortifica
 
 #### **The Tour Continues**
 
-The second day continued in much the same vein although, as was customary of a December in Singapore, it was accompanied by rain and thunder. With the indefatigable Pickering, Guo and his officials visited the corvette Yang Wu. The ship had made a run from Calcutta and onboard, the crew put on a display of guns and drill, as well as firing salutes for the visiting dignitaries. 
+The second day continued in much the same vein although, as was customary of a December in Singapore, it was accompanied by rain and thunder. With the indefatigable Pickering, Guo and his officials visited the corvette _Yang Wu_. The ship had made a run from Calcutta and onboard, the crew put on a display of guns and drill, as well as firing salutes for the visiting dignitaries. 
 
 Pickering then arranged for the Hong Gardens to be next on the list of destinations to visit. Reckoned by Guo to be a public park to be enjoyed by the Chinese inhabitants of the city, this was in fact the reconstituted Botanic Gardens, complete with an in-house zoo; the latter recently opened to the public in 1874.[^19] 
 
