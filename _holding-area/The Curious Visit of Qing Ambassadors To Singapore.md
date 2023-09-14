@@ -127,7 +127,7 @@ After this diplomatic posting, Guo eventually retired to his estate in his nativ
 
 #### **A Forgotten Encounter**
 
-In January 1878, an abbreviated extract from Guo’s diary (使西纪程)[^31] talking about his sojourn in Singapore managed to find its way into the Singapore Daily Times.[^32] That aside, the brief sojourn by Guo and Liu has largely been forgotten.
+In January 1878, an abbreviated extract from Guo’s diary (使西纪程)[^31] talking about his sojourn in Singapore managed to find its way into the Singapore Daily Times. [^32] That aside, the brief sojourn by Guo and Liu has largely been forgotten.
 
 Nonetheless, the entire episode illustrates, then and now, how quickly the face of Asia was changing towards the tail end of the 19th century. In particular, it provided a painful assessment of the gap that had emerged between China and the West. The centrality and superiority of Imperial China were being challenged everywhere. 
 
