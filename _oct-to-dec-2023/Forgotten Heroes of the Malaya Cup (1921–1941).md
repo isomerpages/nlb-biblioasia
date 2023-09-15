@@ -228,13 +228,8 @@ One of Choo’s greatest achievements was guiding Singapore to win the Malaysia 
 
 #### **Choy Khun Onn (also spelled Choy Khoon Onn)**
 
-
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chia%20keng%20hock.jpg" style="width:50%;">
- <div style="background-color: white;">Chia Keng Hock.<i> Image reproduced from Nimrod, “Fate of Keng Hock Still Undecided,” Singapore Free Press and Mercantile Advertiser, 31 July 1936, 9. (From NewspaperSG).</i></div>
-
-
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee_cropped.jpg">
-<div style="background-color: white;text-align:center">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choy%20khun%20onn.jpg" style="width:50%;">
+ <div style="background-color: white;">Choy Khun Onn.<i> The Straits Times, 24 August 1947 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 4 appearances in the Malaya Cup Final (1 win)<br> 
 Malaya Cup (1930–36)<br>St Joseph’s Institution<br>Aston Athletic Club<br> 
