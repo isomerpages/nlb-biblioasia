@@ -70,7 +70,7 @@ Gilbert Angus Bain died in Singapore on 24 March 1887, and left a family of seve
 In 1822, the Portuguese Catholic priests obtained from Raffles land for a small church. In the 1850s, it was considered too small for the residents especially the Eurasians living at the European q uarters. In 1906, the original church was demolished, the present Church of St Joseph was built in 1912- a landmark that remains at the front of the main National Library entrance.
 
 #### **Street Names**
-As seen in leases in which survey plans were attached, North Bridge Road and Middle Road were named in 1826 by Lieutenant Ph lip Jackson. George D Coleman's 1836 town plan and map retained these names.
+As seen in leases in which survey plans were attached, North Bridge Road and Middle Road were named in 1826 by Lieutenant Philip Jackson. George D Coleman's 1836 town plan and map retained these names.
 
 Coleman used the name "Marbro Street'; for the street parallel to North Bridge Road wherea s Jackson had earlier named it Rochor Street in his 1823 Town Plan. According to Dr John Bastin "Marbro" was an abbreviated term used in honour of the Duke of Marlborough. The name may have changed a few times in the 19th century, but in 1848, "Victoria Street" and t he next street, "Queen Street" were named in honour of the much-loved Queen Victoria (1819–1901), to commemorate her 10th year reign as a British monarch.
 
