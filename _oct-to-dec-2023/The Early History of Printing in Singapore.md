@@ -185,7 +185,7 @@ Claudius Henry Thomsen started learning the Bugis language sometime around 1824 
 Call no. RRARE 343.5984096 COD; Accession no. B03053896A.<br><br>
 This maritime code of the Bugis was translated by Claudius Henry Thomsen into English. It was printed from types that were cast in Singapore using moulds made in Serempore, in India.</div><br>
 
-<img style="width:65%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/code%20of%20bugis.jpg">
+<img style="width:65%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/code%20bugis_improved.jpg">
 <div style="background-color: #fff6ba; text-align:left">
 	Title page and inside pages from <i>A Code of Bugis Maritime Laws. Collection of the National Library, Singapore (Call no. RRARE 343.5984096 COD; Accession no. B03053896A). </i></div><br>
 	
