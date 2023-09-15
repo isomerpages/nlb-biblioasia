@@ -117,7 +117,6 @@ By the early 1970s, the Singapore record industry had come a long way from the f
 
 <img style="width:20%;" src="/images/Authors/ross_laird.png">
  <div style="background-color: white;">
-<div>
 <b>Ross Laird</b> was awarded the Lee Kong Chian Research Fellowship in 2010. This article presents his research into the history of the music recording industry in Singapore. Prior to the fellowship, Ross was a sound archivist with the National Film &amp; Sound Archive of Australia. He is the author of <i>Sound Beginnings: The early record of industry in Australia</i> (2000).</div>
 
 #### **REFERENCES**
@@ -271,4 +270,4 @@ Wee, L. (1970, May 11). [Singapore’s recording firms hit happy note](http://er
 
 [^36]: _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700511-1.2.62)_, 11 May 1970, p. 10.
 
-[^37]: To give just one example, it was reported in 1969 that a group of 30 Indonesian singers had come to Singapore to record at Kinetex Studios. The artists included Vivi Sumanti, Bing Slamet and Tanti Josepha, and they intended to record “250 songs in Malay, Indonesian, Chinese, English and several European languages”. The group of artists were to stay for three months, recording almost every day during that period, and “cutting over 70 EPs and 25 LPs”. _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691025-1.2.57)_, 25 Oct 1969, p. 8.</div>
+[^37]: To give just one example, it was reported in 1969 that a group of 30 Indonesian singers had come to Singapore to record at Kinetex Studios. The artists included Vivi Sumanti, Bing Slamet and Tanti Josepha, and they intended to record “250 songs in Malay, Indonesian, Chinese, English and several European languages”. The group of artists were to stay for three months, recording almost every day during that period, and “cutting over 70 EPs and 25 LPs”. _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691025-1.2.57)_, 25 Oct 1969, p. 8.
