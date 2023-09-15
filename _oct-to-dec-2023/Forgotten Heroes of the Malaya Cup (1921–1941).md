@@ -489,23 +489,24 @@ Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He 
 
 [^26]: Yap, “[Happy Birthday...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1)”
 
-27 “[SCFA to Play Negri Saturday](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560515-1.2.150),” _Straits Times_, 15 May 1956, 14; Yap, “[Happy Birthday...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1)”)
+[^27]: “[SCFA to Play Negri Saturday](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560515-1.2.150),” _Straits Times_, 15 May 1956, 14; Yap, “[Happy Birthday...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1)”)
 
-28 “[Farewell to a Legend](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761006-1.2.122),”&nbsp;_Straits Times_, 6 October 1976, 27. (From NewspaperSG)&nbsp;
+[^28]: “[Farewell to a Legend](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761006-1.2.122),”&nbsp;_Straits Times_, 6 October 1976, 27. (From NewspaperSG)&nbsp;
 
-29 “[Malayan Chinese at the Olympic Games in Berlin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360802-1.2.131),”&nbsp;_Straits Times_, 2 August 1936, 22. (From NewspaperSG)&nbsp;
+[^29]: “[Malayan Chinese at the Olympic Games in Berlin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360802-1.2.131),”&nbsp;_Straits Times_, 2 August 1936, 22. (From NewspaperSG)&nbsp;
 
-30 [Singapore Chinese Athletic Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19310228-1.2.22),”&nbsp;_Malayan Saturday Post_, 28 February 1931, 8. (From NewspaperSG)&nbsp;
+[^30]: [Singapore Chinese Athletic Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19310228-1.2.22),”&nbsp;_Malayan Saturday Post_, 28 February 1931, 8. (From NewspaperSG)&nbsp;
 
-31 “[Singapore Teams for Malayan Chinese Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370715-1.2.97),”&nbsp;_Straits Times_, 15 July 1937, 15;
+[^31]: “[Singapore Teams for Malayan Chinese Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370715-1.2.97),”&nbsp;_Straits Times_, 15 July 1937, 15;
 
-32 “[Billiards](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320512-1.2.100),”&nbsp;_Singapore Free Press and Mercantile Advertiser_, 12 May 1932, 16. (From NewspaperSG)&nbsp;
+[^32]: “[Billiards](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320512-1.2.100),”&nbsp;_Singapore Free Press and Mercantile Advertiser_, 12 May 1932, 16. (From NewspaperSG)&nbsp;
 
-33 “[Malaya Cup Final](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19230827-1.2.72),” _Straits Times_, 27 August 1923, 10. (From NewspaperSG)
+[^32]:“[Malaya Cup Final](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19230827-1.2.72),” _Straits Times_, 27 August 1923, 10. (From NewspaperSG)
 
-34 “[Selangor Win Malaya Cup](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560902-1.2.161),” _Straits Times_, 2 September 1956, 24; Sonny Yap, “[It's Fabulous Fun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750328-1.2.20.1),” _New Nation_, 28 March 1975, 10–11. (From NewspaperSG)
+[^34]: “[Selangor Win Malaya Cup](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560902-1.2.161),” _Straits Times_, 2 September 1956, 24; Sonny Yap, “[It's Fabulous Fun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750328-1.2.20.1),” _New Nation_, 28 March 1975, 10–11. (From NewspaperSG)
 
-Yap, “[It's Fabulous Fun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750328-1.2.20.1).”
+[35]: Yap, “[It's Fabulous Fun]
+(http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750328-1.2.20.1).”
 
 35 “[The Legend Lives On](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19821030-1.2.47.15),”&nbsp;_New Nation_, 30 October 1982, 36; “[Soccer Stalwarts of 2 Decades](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470508-1.2.37.16),”&nbsp;_Singapore Free Press_, 8 May 1947, 7. (From NewspaperSG)&nbsp;
 
@@ -540,4 +541,3 @@ Yap, “[It's Fabulous Fun](http://eresources.nlb.gov.sg/newspapers/Digitised/Ar
 50 “[Singapore Win Malaya Cup Final](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340805-1.2.112),” _Straits Times_, 5 August 1934, 17. (From NewspaperSG)
 
 51 “[Malayan Chinese Olympics](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350715-1.2.124),” _Malaya Tribune_, 15 July 1935, 15. (From NewspaperSG)
-
