@@ -60,5 +60,9 @@ Also part of the Victoria site was Lease 262, (22.52m2 / 242,400 sq ft) owned by
 #### **Gilbert Angus Bain's Properties**
 In 1854, Charles Prince Holloway sold 5 subdivided land lots to Gilbert Angus Bain , a Eurasian from Lerwick, Shetland Islands. He came to Singapore in 1842, and first worked as a clerk, but was later made a partner in several European-owned companies, as well as Hoo Ah Kay's Whampoa &amp; Co. His younger brother Robert Bain worked in A L Johnston &amp; Co . The Ba in brothers were enterprising traders, especially Gilbert Angus Bain . He owned two large properties atTanjong Pagar, one known as Bain's Hill. When theTanjong Pagar Dockyard was constructed, he sold Bain's Hill, and then invested in a few other properties. His name is listed in quite a few land titles at the Singapore Land Authority.
 
+When the Singapore Library was opened in January 1845, G A Bain, an avid reader was one of the 32 subscribing shareholders. As a shareholder, he paid $30, and a monthly subscription of $2.50. He and his brother Robert continued their membership in the Raffles Library and Museum. 
 
+Between 1844 and 1860, Gilbert and Robert Bain were Jurors of the Grand Jury, and on a few occasions were also the foremen or leaders of the Jury. 
+
+Gilbert Angus Bain died in Singapore on 24 March 1887, and left a family of seven sons and two daughters.
 
