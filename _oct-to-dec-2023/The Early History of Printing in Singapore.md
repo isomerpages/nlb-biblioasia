@@ -73,7 +73,8 @@ After Milton retired from the LMS in 1825, Thomsen took over the press and conti
 <div style="background-color: white;"> 
 	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G).</i></div><br>
 
-<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg" style="width:60%;">
+<img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/kitab%20white%20bg.jpg"> 
+
 <div style="background-color: white;">
 	Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
 
@@ -83,7 +84,7 @@ Because of his failing health, Thomsen left Singapore in 1834. However, before l
 
 The ABCFM had been looking for a base in Southeast Asia to print and distribute Christian literature in Chinese and the indigenous languages of Southeast Asia. Singapore was chosen because of its favourable climate, safe conditions and thriving port that saw native vessels calling from China and the region.[^16]
 
-<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/alfred%20north%20original%20diary.JPG" style="width:50%;">
+<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/alfred%20north%20original%20diary%20white%20bg.jpg" style="width:50%;">
 <div style="background-color: white;">
 	A drawing of the buildings of the American Board of Commissioners for Foreign Missions by Alfred North. The printing works (marked “e” to “l”) consisted of a press room; a room for wetting paper and washing hands; a room for printing accessories; a typesetting room that could accommodate 50 compositors; storerooms for books, paper and boxes; a book binding room; a type cutting room where punches and matrices were made; and a foundry for casting and finishing type. <i>    Image reproduced from “Travel Journal of Alfred North,” 1835–36, Alfred North Correspondence and Other Documents. MSS 138. Special Collections &amp; Archives, UC San Diego Library Digital Collections.</i></div>
 
