@@ -351,9 +351,8 @@ In 1933, he joined the South China Athletic Association team in Hong Kong,[^33] 
 <div style="background-color: white;text-align:center">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div><br>
 
 #### **Yeo Ah Kow**
-
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian_cropped.jpg">
-<div style="background-color: white;text-align:center">Lim Yong Liang, 1930. <i>Courtesy of Alex Chua (grandson of Chua Boon Lay).</i></div>
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yeo%20ah%20kow.jpg" style="width:40%;">
+ <div style="background-color: white;">Yeo Ah Kow.<i> Source unknown.</i></div>
 
 4 appearances in Malaya Cup Final (4 wins)<br> 
 Malaya Cup (1929–34)<br> 
