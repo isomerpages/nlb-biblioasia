@@ -8,7 +8,7 @@ image: /images/Vol 19 Issue 4/1   Qing Ambassadors/img_01_v2.png
 #### The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
 By Benjamin J.Q. Khoo
 
-![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01_v2.png)
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01_v3.png)
 <div style="background-color: white;">Hoo Ah Kay (Whampoa) in his home, the famous Nam-sang Fa-un (南生花园), mid-19th century. The Qing delegation visited his home and gardens, and were impressed by what they saw. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
 On 13 December 1876, the P&amp;O Steamer _Tranvacore_ docked at Singapore carrying a curious entourage[^1]. Stepping off the ship were His Excellency Guo Songtao (郭嵩焘), the first Chinese ambassador to Britain, and other members of the Qing Imperial Court. It was about 11 on a grey, rainy morning when they arrived, with little fanfare to receive them. But after a run of four days at sea, it must have been a pleasant relief from the cramped quarters on deck as well as a temporal distraction from the weighty conversations between men and states. 
@@ -43,9 +43,6 @@ The tour of Singapore, intended as an elaborate exercise in imperial pageantry a
 
 Upon landing, the visitors were met by William A. Pickering, the Chinese interpreter, who was among the first to receive them on the wharf. Macartney described him as “a common-looking person and seemed to feel his inferiority too much” although he conceded that “[Pickering] seemed a good fellow and to have some sterling qualities”.[^6]
 
-![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_4_v2.png)
-<div style="background-color: white;">Photo of late 19th-century shophouses by G.R. Lambert &amp; Co. The Qing delegation saw shophouses like these when they visited Singapore in 1876. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
-
 Pickering could only apologise for the delay of the colonial secretary, John Douglas, due to the steamer having arrived earlier than expected. Douglas subsequently came to present his compliments but regretted that a proper reception in the form of a 15-gun salute and a guard of honour had to be prepared. This meant that a meeting with William Jervois, governor of the Straits Settlements, was embarrassingly postponed until four in the afternoon. 
 
 Meanwhile, as the party adjourned for tiffin, they were joined by Cai Guoxiang and Cai Guoxi, officials of the _Yang Wu_, a Qing corvette launched by the Fuzhou Shipyard in 1872.[^7] Accompanying the crew were some Singapore merchants, among them a certain Hoo Ah Kay (Hu Xuanze; 胡璇泽), more popularly known in Singapore as Whampoa (he was born in Whampoa [Huangpu], near Canton [Guangdong], China).
@@ -68,6 +65,10 @@ Steeped in the aesthetics of Chinese gardens, the Nam-sang Fa-un (南生花园),
 Very much against the wishes of Macartney, who tried to dissuade them of this undertaking, the party went along, taking the road from New Harbour to Bendemeer after two in the afternoon. The rain having cleared, and the sun now bearing down hotly upon them, they were carried on four carriages, probably ordered by Hoo. 
 
 Macartney was eager that no dishonour be seen to impinge upon British governance, but almost true to his fears, as they passed Indian and Chinese shophouses, the visitors, upon reading the signboards on the Chinese shophouses, remarked that the Singapore Chinese “seemed for the most part to be very poor”.[^11]
+
+
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_4_v2.png)
+<div style="background-color: white;">Photo of late 19th-century shophouses by G.R. Lambert &amp; Co. The Qing delegation saw shophouses like these when they visited Singapore in 1876. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Flustered by this comment, Macartney rejoined hastily that they “had not yet arrived at the town, and that these houses could not be taken as fair specimens of the shops of their countrymen”.[^12] It did not help that their coachman drove them to his shop rather than high-roading the way to the luxurious house of Hoo. Chagrined, Macartney leapt out angrily from the carriage and asked one of the shop assistants to “give the necessary directions for our being taken with all possible haste to Mr. W’s [Hoo’s] house”.[^13] 
 
