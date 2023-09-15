@@ -45,7 +45,7 @@ While formal approval was only given in January 1823, there is evidence that som
 
 The document, titled “Price Current of Goods at Singapore”, comprises four pages printed on paper watermarked “1819”. It presents a list of commodities categorised under headings such as “Eastern Produce”, “China Goods”, “Bengal and other Indian Goods” and “Produce of Europe, America &amp;c”. The cover sheet bears a handwritten date of 31 May 1822. Byrd observed that the printing was coarse, suggesting that this might be a small government job that was produced on the portable press that Thomsen had brought over from Malacca.[^4]
 
-<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/price%20current%20pages%202-3%20v1.jpg" style="width:60%;">
+<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/price%20current%20pages%202-3%20v1%20white%20bg.jpg" style="width:60%;">
 <div style="background-color: white;">
 	"Price Current of Goods at Singapore". <i>L8 Singapore: Letters to Bencoolen, Straits Settlements Records. (From National Archives of Singapore).</i></div>
 
