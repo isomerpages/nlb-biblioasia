@@ -189,7 +189,7 @@ Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Sh
 
 #### **Cheong Chee Lim**
 
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/cheong%20chee%20lim.jpg" style="width:50%;">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/cheong%20chee%20lim.jpg" style="width:30%;">
  <div style="background-color: white;">Cheong Chee Lim.<i> Image reproduced from “Last Week’s Football Match Between Hong Kong Chinese and Malayan Chinese,” Malayan Saturday Post, 25 May 1929, 7. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (3 wins)<br>Malaya Cup (1921–29)<br>Singapore Chinese Football Association (1917–33)<br>
@@ -199,7 +199,7 @@ Cheong Chee Lim was the only Chinese player to represent Singapore in the 1921 M
 Cheong missed the 1924 Malay Cup as the Singapore Chinese Football Association (SCFA) withdrew its team from the Singapore League to protest against a ruling by the Singapore Football Association that excluded SCFA players for selection.  He was a reserve in the 1928 match, but played in the 1929 final that ended in a 2–2 draw with Selangor.  
 
 #### **Chia Keng Hock**
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chia%20keng%20hock.jpg" style="width:50%;">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chia%20keng%20hock.jpg" style="width:40%;">
  <div style="background-color: white;">Chia Keng Hock.<i> Image reproduced from Nimrod, “Fate of Keng Hock Still Undecided,” Singapore Free Press and Mercantile Advertiser, 31 July 1936, 9. (From NewspaperSG).</i></div>
 
 5 appearances in the Malaya Cup Final (2 wins)<br> Malaya Cup (1931–36)<br>  St Joseph’s Old Boys Association<br> Straits Chinese Recreation Club<br> 
@@ -228,7 +228,7 @@ One of Choo’s greatest achievements was guiding Singapore to win the Malaysia 
 
 #### **Choy Khun Onn (also spelled Choy Khoon Onn)**
 
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choy%20khun%20onn.jpg" style="width:50%;">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choy%20khun%20onn.jpg" style="width:40%;">
  <div style="background-color: white;">Choy Khun Onn.<i> The Straits Times, 24 August 1947 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 4 appearances in the Malaya Cup Final (1 win)<br> 
@@ -262,11 +262,9 @@ Chua also played basketball for Siong Boo Athletic Association and was a top-cla
 During the Japanese Occupation (1942–45), Chua became a committee member of the football section of the Syonan Sports Association established by the Japanese. In 1948, after the war ended, he joined the China football team as a coach for the London Olympic Games.
 
 #### **Foong Mun Fun**
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/foong%20mun%20fun.jpg" style="width:40%;">
+ <div style="background-color: white;">Foong Mun Fun.<i> Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chuaboonlay_cropped.jpg">
-<div style="background-color: white;text-align:center">Chua Boon Lay. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan
-	Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
-	
 7 appearances in the Malaya Cup final (4 wins)<br> 
 Malaya Cup (1923–30)<br> 
 Singapore Chinese Football Association (1920–33)<br>  
