@@ -260,6 +260,20 @@ Chua also played basketball for Siong Boo Athletic Association and was a top-cla
 
 During the Japanese Occupation (1942–45), Chua became a committee member of the football section of the Syonan Sports Association established by the Japanese. In 1948, after the war ended, he joined the China football team as a coach for the London Olympic Games.
 
+#### **Foong Mun Fun**
+
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chuaboonlay_cropped.jpg">
+<div style="background-color: white;text-align:center">Chua Boon Lay. <i>Image reproduced from “Singapore’s Football Test Team,” Malayan
+	Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+	
+7 appearances in the Malaya Cup final (4 wins)<br> 
+Malaya Cup (1923–30)<br> 
+Singapore Chinese Football Association (1920–33)<br>  
+
+Kicking a tennis ball near his home on Coleman Street marked the start of Foong Mun Fun’s football journey. In 1922, at age 17, Foong represented Anglo Chinese School. He was then spotted by Cheong Chee Lim and joined the Singapore Chinese Football Association (SCFA). The left-winger’s first Malaya Cup triumph came as an 18-year-old in 1923 when Singapore defeated Perak 2–1.  
+
+Foong worked as the stadium clerk at Anson Road Stadium in 1924. As there was no office space in the stadium, John Sime, director of Sime Darby and also the president of the Singapore Football Association, allowed the stadium to make use of the premises at his Sime Darby office on Malacca Street.  Foong’s final Malaya Cup success (his fourth win) was in 1931. Two years later he retired and subsequently joined the SCFA Selection Committee.  
+
 #### **Lim Yong Liang**
 
 <img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian_cropped.jpg">
@@ -336,10 +350,29 @@ In 1933, he joined the South China Athletic Association team in Hong Kong,[^33] 
 
 ![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/taykweeliangcert.jpg)
 <div style="background-color: white;text-align:center">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div><br>
+
+#### **Yeo Ah Kow**
+
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yonglian_cropped.jpg">
+<div style="background-color: white;text-align:center">Lim Yong Liang, 1930. <i>Courtesy of Alex Chua (grandson of Chua Boon Lay).</i></div>
+
+4 appearances in Malaya Cup Final (4 wins)<br> 
+Malaya Cup (1929–34)<br> 
+Amicable Athletic Association<br> 
+Bendemeer Athletic Club<br> 
+Siong Boo Athletic Association<br> 
+
+Goalkeepers rarely make the headlines, but they can also be heroes. Yeo Ah Kow was a teammate of Chee Ah Hui and Tay Kwee Liang at Amicable Athletic Association founded in 1928. He played in charity matches, and in the annual competitions of Bendemeer Athletic Club.
+
+Yeo made his home debut in the final match of the Southern section of the Malaya Cup competition in 1929, where Singapore beat Johor 4–2.  He was also one of the first players to christen the new Jalan Besar Stadium in January 1930.  The friendly was played between Malayan Chinese and Malayan Asiatics.    
+
+Yeo was left out of the Malaya Cup final team from 1931 to 1933, but returned for Singapore’s 2–1 victory against Penang in 1934.  He continued to play at a competitive level and represented Singapore at the Malayan Chinese Olympic Games held in Penang in August 1935.  
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>NICK APLIN'S FANTASY 11</b><br><br>
 In my opinion, this is what a fantasy team made up of the players mentioned looks like.&nbsp;&nbsp; Some of you will feel differently and may also argue about the assigned positions. This is open for discussion of course.<br><br>
 	<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/nick's%20fantasy.jpg" style="width:65%;"><br><br>         
 </div>
+
+
 
 
 #### The Legends and Their Legacy
