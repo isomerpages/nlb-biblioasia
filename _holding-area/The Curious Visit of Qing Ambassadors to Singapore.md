@@ -150,13 +150,13 @@ Much, of course, has changed since – Britain has lost its empire, China is a g
 	
 [^3]: Theodore Huters, _[Bringing the World Home: Appropriating the West in Late Qing and Early Republican China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12540519)_ (Honolulu: University of Hawai’i Press, 2005), 33. (From National Library, Singapore, call no. R 895.109005 HUT).
   
-[^4]: See for example, Zhang Yuquan 张宇权, “Wan qing waijiao shishang de yidian yiwen: Lun guosongdao yu liuxihong de guanxi” 晚清外交史上的一点疑问: 论郭嵩焘与刘锡鸿的关系 [A question in the diplomatic history of the late Qing dynasty: On the relationship between Guo Songtao and Liu Xihong], 公共管理研究, 2005, https://www.sinoss.net/uploadfile/2010/1130/4913.pdf.
+[^4]: See, for example, Zhang Yuquan 张宇权, “Wan qing waijiao shishang de yidian yiwen: Lun guosongdao yu liuxihong de guanxi” 晚清外交史上的一点疑问: 论郭嵩焘与刘锡鸿的关系 [A question in the diplomatic history of the late Qing dynasty: On the relationship between Guo Songtao and Liu Xihong], 公共管理研究, 2005, https://www.sinoss.net/uploadfile/2010/1130/4913.pdf.
 
 [^5]: See Donna Brunero, “Visiting the ‘Liverpool of the East’: Singapore’s Place in Tours of Empire,” _Journal of Southeast Asian Studies_ 50, no. 4 (December 2019): 562–78, https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/article/abs/visiting-the-liverpool-of-the-east-singapores-place-in-tours-of-empire/66DDBD2E285CCE576492216A3E6A4192. 
 
-[^6]: Boulgner, _Life of Sir Halliday Macartney,_ 275.
+[^6]: Boulger, _Life of Sir Halliday Macartney,_ 275.
 
-[^7]: “[Thursday, 14th December,](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18761216-1.2.13.5)” _Straits Times,_ 16 December 1876, 4. (From NewspaperSG).
+[^7]: “[Thursday, 14th December,](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18761216-1.2.13.5)” _Straits Times,_ 16 December 1876, 4. (From NewspaperSG)
 
 [^8]: Song Ong Siang, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590335)_ (Singapore: University of Malaya Press, 1967), 180–81. (From National Library, Singapore, call no. RCLOS 959.57 SON)
 
@@ -164,23 +164,23 @@ Much, of course, has changed since – Britain has lost its empire, China is a g
 
 [^10]: Ivan Goncharov, _The Frigate Pallada_ (New York: St. Martin’s Press, 1987), 235–36, Internet Archive, https://archive.org/details/frigatepallada00gonc. 
 
-[^11]: Boulgner, _Life of Sir Halliday Macartney,_ 276.  
+[^11]: Boulger, _Life of Sir Halliday Macartney,_ 276.  
 
-[^12]: Boulgner, _Life of Sir Halliday Macartney,_ 276.  
+[^12]: Boulger, _Life of Sir Halliday Macartney,_ 276.  
 
-[^13]: Boulgner, _Life of Sir Halliday Macartney,_ 276.  
+[^13]: Boulger, _Life of Sir Halliday Macartney,_ 276.  
 
-[^14]: _[The First Chinese Embassy to the West: The Journals of Kuo Sung-T’ao, Liu Hsi-Hung and Chang Te-Yi,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4128807)_ trans. J.D. Frodsham (Oxford: Clarendon Press, 1974), 13 (From National Library, Singapore, call no. RCLOS 327.20922 FIR); Guo Songtao郭嵩焘, _Shi xi ji cheng_ 使西纪程 (Beijing 北京: Zhong guo lüyou chuban she中国旅游出版社, 2016), 7 (From NUS Chinese Library)
+[^14]: _[The First Chinese Embassy to the West: The Journals of Kuo Sung-T’ao, Liu Hsi-Hung and Chang Te-Yi,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4128807)_ trans. J.D. Frodsham (Oxford: Clarendon Press, 1974), 13. (From National Library, Singapore, call no. RCLOS 327.20922 FIR); Guo Songtao 郭嵩焘, _Shi xi ji cheng_  使西纪程 (Beijing 北京: Zhong guo lüyou chuban she 中国旅游出版社, 2016), 7. (From NUS Chinese Library)
 
 [^15]: Frodsham, _[First Chinese Embassy to the West](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4128807)_, 14.
 
-[^16]: Liz. P.Y. Chee, _Mao's Bestiary: Medicinal Animals and Modern China_. (Durham: Duke University Press, 2021), 5  (From JSTOR via [NLB’s eResources](http://eresources.nlb.gov.sg/) website)
+[^16]: Liz. P.Y. Chee, _Mao's Bestiary: Medicinal Animals and Modern China_ (Durham: Duke University Press, 2021), 5. (From JSTOR via [NLB’s eResources](http://eresources.nlb.gov.sg/) website)
 
-[^17]: Yan Qinghuang, _[Coolies and Mandarins: China’s Protection of Overseas Chinese During the Late Ch’ing Period (1851–1911)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080239)_ (Singapore: Singapore University Press, 1985), 142 (From National Library, Singapore, call no. RSING 325.2510959 YEN-[GH])
+[^17]: Yan Qinghuang, _[Coolies and Mandarins: China’s Protection of Overseas Chinese During the Late Ch’ing Period (1851–1911)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080239)_ (Singapore: Singapore University Press, 1985), 142. (From National Library, Singapore, call no. RSING 325.2510959 YEN-[GH])
 
 [^18]: Frodsham, _[First Chinese Embassy to the West](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4128807)_, 14.
 
-[^19]: Timothy P. Barnard, _[Nature’s Colony: Empire, Nation and Environment in the Singapore Botanic Gardens](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202468295)_ (Singapore: National University of Singapore Press, 2016), 92 (From National Library, Singapore, call no. RSING 580.735957 BAR); See also Gilbert E. Brooke, “Botanic Gardens and Economic Notes”, in _[One Hundred Years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132)_, ed. Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, vol. 2 (London: John Murray, 1921), 63–79. (From National Library, Singapore, call no. RCLOS 959.51 MAK-[RFL]) 
+[^19]: Timothy P. Barnard, _[Nature’s Colony: Empire, Nation and Environment in the Singapore Botanic Gardens](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202468295)_ (Singapore: National University of Singapore Press, 2016), 92. (From National Library, Singapore, call no. RSING 580.735957 BAR); See also Gilbert E. Brooke, “Botanic Gardens and Economic Notes”, in _[One Hundred Years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132)_, ed. Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, vol. 2 (London: John Murray, 1921), 63–79. (From National Library, Singapore, call no. RCLOS 959.51 MAK-[RFL]) 
 
 [^20]: Frodsham, _[First Chinese Embassy to the West](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4128807)_, 17-18.
 
@@ -188,22 +188,22 @@ Much, of course, has changed since – Britain has lost its empire, China is a g
 
 [^22]: In Hong Kong, Guo had refrained from visiting gardens; 郭嵩焘, 使西纪程, 9. 
 
-[^23]: Frodsham, _[First Chinese Embassy to the West](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4128807)_, liii; 76; Cai Peirong蔡佩蓉, _Qing ji zhu xinjiapo lingshi zhi tantao (1877–1911)_ [清季驻新加坡领事之探讨](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11853144) (1877–1911) [A discussion on the consulates in Singapore in the Qing Dynasty (1877–1911)] (Xinjiapo 新加坡: Xinjiapo guo li da xue zhong wen xi 新加坡国立大学中文系, 2002), 34. (From National Library, Singapore, call no. Chinese RSING 327.51 CPR)
+[^23]: Frodsham, _[First Chinese Embassy to the West](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4128807)_, liii, 76; Cai Peirong 蔡佩蓉, _Qing ji zhu xinjiapo lingshi zhi tantao (1877–1911)_ [清季驻新加坡领事之探讨](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11853144) (1877–1911) [A discussion on the consulates in Singapore in the Qing Dynasty (1877–1911)] (Xinjiapo 新加坡: Xinjiapo guo li da xue zhong wen xi  新加坡国立大学中文系, 2002), 34. (From National Library, Singapore, call no. Chinese RSING 327.51 CPR)
 
 [^24]: Cai, _[Qing ji zhu xinjiapo lingshi zhi tantao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11853144)_, 34.
 
 [^25]: Yan, _[Coolies and Mandarins](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080239)_, 142.
 
-[^26]: Lim How Seng, “Rivalry Between Straits Settlements Government and Chinese Consulate in Singapore (1877–1894),” in _[A General History of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868804)_, ed. Kwa Chong Guan and Kua Bak Lim (Singapore: World Scientific, 2019), 186. (From National Library, Singapore, all no. RSING 305.895105957 GEN)
+[^26]: Lim How Seng, “Rivalry Between Straits Settlements Government and Chinese Consulate in Singapore (1877–1894),” in _[A General History of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868804)_, ed. Kwa Chong Guan and Kua Bak Lim (Singapore: World Scientific, 2019), 186. (From National Library, Singapore, call no. RSING 305.895105957 GEN)
 
-[^27]: See Tong Qingsheng, “Guo Songtao in London: An Unaccomplished Mission of Discovery” in _[China Abroad: Travels, Subjects, Spaces](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13181414)_, ed. Elaine Yee Lin Ho and Julia Kuehn (Hong Kong: Hong Kong University Press, 2009), 45–62. (From National Library, Singapore, call no. RSEA 304.8089951 CHI)
+[^27]: See Tong Qingsheng, “Guo Songtao in London: An Unaccomplished Mission of Discovery,” in _[China Abroad: Travels, Subjects, Spaces](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13181414)_, ed. Elaine Yee Lin Ho and Julia Kuehn (Hong Kong: Hong Kong University Press, 2009), 45–62. (From National Library, Singapore, call no. RSEA 304.8089951 CHI)
 
-[^28]: Frodsham, _[First Chinese Embassy to the West](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4128807)_, i-iiv.
+[^28]: Frodsham, _[First Chinese Embassy to the West](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4128807)_, i–iiv.
 
-[^29]: Frodsham, _[First Chinese Embassy to the West](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4128807)_, lx. The Court of Banqueting, or Guanglu Si, was the department responsible for providing food and drink for special occasions, such as for tributary feasts. See Richard J. Smith, _[The Qing Dynasty and Traditional Chinese Culture](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203899946)_ (Maryland: Rowman &amp; Littlefield, 2015), 101. (From National Library, Singapore, call no. R 951.03 SMI)
+[^29]: Frodsham, _[First Chinese Embassy to the West](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4128807)_, lx. The Court of Banqueting, or Guanglu Si (光禄寺), was the department responsible for providing food and drink for special occasions, such as for tributary feasts. See Richard J. Smith, _[The Qing Dynasty and Traditional Chinese Culture](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203899946)_ (Maryland: Rowman &amp; Littlefield, 2015), 101. (From National Library, Singapore, call no. R 951.03 SMI)
 
 [^30]: Laurence Wong, “‘Entrance into the Family of Nations’: Translation and the First Diplomatic Missions to the West, 1860s–1870s,” in _Translation and Modernization in East Asia in the Nineteenth and Early Twentieth Centuries_, ed. Lawrence Wang-chi Wong (Hong Kong: The Chinese University Press, 2017), 201. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^31]: For the Singapore leg of Guo’s journey, see郭嵩焘, 使西纪程, 7–9. 
+[^31]: For the Singapore leg of Guo’s journey, see 郭嵩焘, 使西纪程, 7–9. 
 
-[^32]: “[H.E. Kwoh Sung Tao’s Diary. H.E. in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18780121-1.2.13.6.1),” _Singapore Daily Times_, 21 January 1878, 3 (From NewspaperSG)
+[^32]: “[H.E. Kwoh Sung Tao’s Diary. H.E. in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18780121-1.2.13.6.1),” _Singapore Daily Times_, 21 January 1878, 3. (From NewspaperSG)
