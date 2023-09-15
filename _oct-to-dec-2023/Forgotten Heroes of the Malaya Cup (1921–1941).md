@@ -228,7 +228,7 @@ One of Choo’s greatest achievements was guiding Singapore to win the Malaysia 
 
 #### **Choy Khun Onn (also spelled Choy Khoon Onn)**
 
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choy%20khun%20onn.jpg" style="width:40%;">
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choy%20khun%20onn.jpg" style="width:30%;">
  <div style="background-color: white;">Choy Khun Onn.<i> The Straits Times, 24 August 1947 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 4 appearances in the Malaya Cup Final (1 win)<br> 
