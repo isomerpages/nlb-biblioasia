@@ -187,6 +187,28 @@ Born in Amoy (present-day Xiamen) in China, Chee Ah Hui came to Singapore in 192
 
 Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Shanghai, and joined the Canton Air Force in 1934.[^13] His greatest achievement was representing China at the 1936 Olympic Games in Berlin, playing against Great Britain. Enroute to Berlin, the Chinese team transited in Singapore where they played a match against the Singapore Amateur Football Association team, winning 4–0. Playing at centre-half, he apparently caught everyone’s attention.[^14]
 
+#### **Cheong Chee Lim**
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee_cropped.jpg">
+<div style="background-color: white;text-align:center">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
+
+7 appearances in the Malaya Cup final (3 wins)<br>Malaya Cup (1921–29)<br>Singapore Chinese Football Association (1917–33)<br>
+
+Cheong Chee Lim was the only Chinese player to represent Singapore in the 1921 Malaya Cup matches.  (Players from the Middlesex Regiment, who were all Europeans, dominated team selection.) He would go on to play in seven of the next nine finals. 
+
+Cheong missed the 1924 Malay Cup as the Singapore Chinese Football Association (SCFA) withdrew its team from the Singapore League to protest against a ruling by the Singapore Football Association that excluded SCFA players for selection.  He was a reserve in the 1928 match, but played in the 1929 final that ended in a 2–2 draw with Selangor.  
+
+#### **Chia Keng Hock**
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee_cropped.jpg">
+<div style="background-color: white;text-align:center">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
+
+5 appearances in the Malaya Cup Final (2 wins)<br> Malaya Cup (1931–36)<br>  St Joseph’s Old Boys Association<br> Straits Chinese Recreation Club<br> 
+
+Not only did Chia Keng Hock acquire a reputation in football as a much-feared centre forward, he was also a talented batsman for the cricket team of the Singapore Chinese Recreation Club.  But it was football that would bring him close to the world stage. 
+
+Favourably compared with Lee Wai Tong, Hong Kong’s greatest prewar player, Chia was given the nicknames “Cannonball Chia” and “The Bull” because of his burly frame, and his fearless and robust play. His rasping shots and bruising physicality made him a force to be reckoned with. Apparently, “his cannon-like shots sent defenders running for cover”.  
+
+In the build up to the 1936 Olympic Games, trials were held in Hong Kong for aspiring Chinese players. Chia was one of a number of candidates from Singapore.  
+
 #### **Choo Seng Quee**
 
 <img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee_cropped.jpg">
@@ -202,6 +224,21 @@ Choo Seng Quee, best remembered as one of Singapore’s most respected coaches, 
 Choo retired from playing in 1948 and became a coach at the Singapore Chinese Athletic Association.[^15] He promoted the idea of including this association in the Singapore Amateur Football Association League at a time when only Singapore Chinese Football Association players were considered. He later coached the national teams of Indonesia (1951–53) and Malaya/Malaysia (1958–65) before being appointed Singapore’s national coach in 1976.[^16]
 
 One of Choo’s greatest achievements was guiding Singapore to win the Malaysia Cup in 1977, in a thrilling 3–2 defeat against Penang.[^17] Popularly known as Uncle Choo, he nurtured a generation of Singaporean footballers.
+
+#### **Choy Khun Onn (also spelled Choy Khoon Onn)**
+
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee_cropped.jpg">
+<div style="background-color: white;text-align:center">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
+
+4 appearances in the Malaya Cup Final (1 win)<br> 
+Malaya Cup (1930–36)<br>St Joseph’s Institution<br>Aston Athletic Club<br> 
+Chinese Companion Athletic Association<br> 	
+
+Born in Hong Kong, Khun Onn was known as KO to his friends, but more popularly known among the Chinese soccer community as “Fo Chia Tou” (meaning fire locomotive in Hokkien) because of his speed.  His most memorable Malaya Cup final was the replay of the 1930 match during which Singapore beat Selangor 3–0 at the Anson Road Stadium. Choy had already scored when the first game was abandoned because of heavy rain in Selangor. According to the New Nation, “In the replay, curiously Khun Onn drew first blood again. His goal sent the crowds into a frenzy; when he saw the Selangor’s goalkeeper losing control of a ball, he made a flying leap which propelled both him and the ball into the net”.  
+
+In 1930, the Singapore Chinese Football Association (SCFA) team became the Singapore Amateur Football Association League champion by defeating the strong Singapore Cricket Club 2–1. Both goals were scored by Choy. He credited players such as Roy Fairley Smith, Lim Yong Liang and John Then for developing his game.  
+
+After his retirement in around 1936, Choy served in the committee of the SCFA and later turned to coaching. In May 1956, he was appointed coach of the Singapore team, which lost to Selangor 2–1 in the Malaya Cup final that year.
 
 #### **Chua Boon Lay**
 
