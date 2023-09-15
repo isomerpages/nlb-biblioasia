@@ -7,7 +7,7 @@ description: ""
 By Chew Tee Pao
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_19_0_images%201.png)
-<div style="background-color: white;">**Chew Tee Pao** is Senior Archivist at the Asian Film Archive (AFA). Since 2014, he has overseen the restoration of more than 30 films from the AFA collection. </div>
+<div style="background-color: white;"><b>Chew Tee Pao</b> is Senior Archivist at the Asian Film Archive (AFA). Since 2014, he has overseen the restoration of more than 30 films from the AFA collection. </div>
 
 
 Since it was established about two decades ago, the Asian Film Archive (AFA) has restored many films connected to Singapore. These include classic titles from the golden age of Malay cinema such as K.M. Basker’s _Patah Hati_ (1952) and Hussein Haniff’s _Dang Anom_ (1962) to more recent Singapore movies like _Mee Pok Man_ (1995) and _Money No Enough_ (1998). However, as the name of the organisation implies, the AFA has also been active in restoring films from around the region. In 2005, when the archive was founded, director Mike De Leon became the first Filipino filmmaker to donate his works to the AFA for preservation.
