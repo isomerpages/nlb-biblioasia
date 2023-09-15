@@ -103,3 +103,18 @@ Housing a wealth of knowledge, the new National Library is a large complex with 
 
 In the years to come, this new Library, on the historical Victoria Street, will continue to be, as it did at Stamford Road, an important institution of education and entertainment, and also a 'Monument of Memory' for the generations to come!
 
+#### **FURTHER READING**
+    
+Charles Burton Buckley, _[An Anecdotal History of Old Times in Singapore, 1819–1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)_ (Singapore: Oxford University Press, 1984). (Call no. RSING 959.57 BUC-\[HIS\]  
+One of the principle sources for the study of the history of 19th century Singapore, the comprehensive volume contain a wealth of information on all aspects of British administration and society in Singapore.
+
+Kwok Kian Woon, Ho Weng Hin and Tan Kah Lin, eds., _Memories and the National Library_ (Singapore: Singapore Heritage Society, 2000)  
+Published by the Singapore Heritage Society, this title is a compilation of articles and letters that appeared in the local press over the controversial decision ,by the government to demolish the National Library building at Stamford Road.
+
+National Archives (Singapore), _[Reminiscences of the Straits Settlements Through Postcards](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12536695)_ (Singapore: National Archives of Malaysia and National Archives of Singapore, 2005). (Call no. RSING 959.503 REM)  
+Containing more than 100 postcards, the publication takes the reader back to life in the Straits Settlements during the late 19th and early 20th century. A fascinating record of images, the book also includes supporting archival records include maps, building plans and documents.
+
+Ole Johan Dale, _[Urban Planning in Singapore: The Transformation of a City](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9146945)_ (Singapore: Oxford University Press, 1999). (Call no. 307.1216 DAL)  
+The book details the process of urban planning in Singapore by tracing its early growth on the banks of the Singapore River to its present structure. Through a historical and descriptive analysis of changes in economic activity and population and the role of government, the book evaluates the forces that have shaped the Central Area.
+
+
