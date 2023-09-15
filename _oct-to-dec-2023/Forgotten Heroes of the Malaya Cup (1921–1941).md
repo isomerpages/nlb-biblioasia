@@ -499,7 +499,7 @@ Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He 
 
 [^31]: “[Singapore Teams for Malayan Chinese Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370715-1.2.97),”&nbsp;_Straits Times_, 15 July 1937, 15; [Billiards](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320512-1.2.100),”&nbsp;_Singapore Free Press and Mercantile Advertiser_, 12 May 1932, 16. (From NewspaperSG)&nbsp;
 
-[^32]: "[Malaya Cup Final] https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19230827-1.2.72),” _Straits Times_, 27 August 1923, 10. (From NewspaperSG)
+[^32]: "[Malaya Cup Final] https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19230827-1.2.72[Malaya Cup Final],” _Straits Times_, 27 August 1923, 10. (From NewspaperSG)
 
 [^33]: “[Selangor Win Malaya Cup](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560902-1.2.161),” _Straits Times_, 2 September 1956, 24; Sonny Yap, “[It's Fabulous Fun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750328-1.2.20.1),” _New Nation_, 28 March 1975, 10–11. (From NewspaperSG)
 
