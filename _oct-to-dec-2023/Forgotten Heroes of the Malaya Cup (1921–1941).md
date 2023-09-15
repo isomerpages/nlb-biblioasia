@@ -469,6 +469,12 @@ Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He 
 “[In the Sporting Limelight: Cheong Chee Lim](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19331022-1.2.28),” _Straits Times_, 22 October 1933, 5. (From NewspaperSG)  
 “[In the Sporting Limelight: Cheong Chee Lim](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19331022-1.2.28).”  
 “[Malaya Cup Final](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290902-1.2.104),” _Singapore Free Press and Mercantile Advertiser_, 2 September 1929, 16. (From NewspaperSG)
+       
+“[Local Cricket](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300402-1.2.92),” _Straits Times_, 2 April 1930, 13. (From NewspaperSG)
+
+\[1\] “[Soccer Legend Dies of a Heart Attack](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19931202-1.2.67.11),” _Straits Times_, 2 December 1993, 31. (From NewspaperSG)
+
+\[1\] “[Local Footballers to Represent China at Olympic Games](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360214-1.2.45),” _Singapore Free Press and Mercantile Advertiser_, 14 February 1936, 7. (From NewspaperSG)
 
 [^15]: “[S’pore Soccer’s Biggest Rush for Players Is On](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480224-1.2.85),” _Malaya Tribune_, 24 February 1948, 7. (From Newspaper SG)
 
