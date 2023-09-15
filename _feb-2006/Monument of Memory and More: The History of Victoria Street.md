@@ -90,6 +90,8 @@ Japanese of different professions and trades existed here. But the main concentr
 
 Just before World War II , the Japanese left and returned to Japan.
 
+#### **Post War Environment**
+
 After the war and until the late 1980s, as land leases expired, the area of shophouses with its business and residential characteristics generally remained unchanged. Between North Bridge Road and Victoria Street, Middle Road was well-known for its shoe shops on one end, and camera shops on the other. Victoria Street was the place for furniture, especially cane-furniture and upholstery; North Bridge Road was the place for Chinese books (Popular Bookshop, Black Cat Book Co., and Youth Bookshop), stationery and record stores, goldsmiths and jewellers, photo studios, furniture shops and other retailers. At the junction of Victoria Street and Middle Road, stood the landmark Empress Hotel. Built in 1932, with a restaurant added later in the 1950, this typical Chinese hotel attracted visitors from neighbouring countries, particularly tourists from China. For years it was famed for its delightful and delectable "moon cakes".
 
 Opposite the Empress Hotel was St Anthony's Canossian Convent School, and next to it, the then Catholic Portuguese Mission of St Joseph's Church, and on its left - St Anthony's Boys' School.
