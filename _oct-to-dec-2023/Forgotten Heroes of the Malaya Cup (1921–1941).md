@@ -501,9 +501,9 @@ Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He 
 
 [^32]: "[Malaya Cup Final] https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19230827-1.2.72),” _Straits Times_, 27 August 1923, 10. (From NewspaperSG)
 
-\[^33\]: “[Selangor Win Malaya Cup](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560902-1.2.161),” _Straits Times_, 2 September 1956, 24; Sonny Yap, “[It's Fabulous Fun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750328-1.2.20.1),” _New Nation_, 28 March 1975, 10–11. (From NewspaperSG)
+[^33]: “[Selangor Win Malaya Cup](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560902-1.2.161),” _Straits Times_, 2 September 1956, 24; Sonny Yap, “[It's Fabulous Fun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750328-1.2.20.1),” _New Nation_, 28 March 1975, 10–11. (From NewspaperSG)
 
-\[^34\]: Yap, “[It's Fabulous Fun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750328-1.2.20.1).”
+[^34]: Yap, “[It's Fabulous Fun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750328-1.2.20.1).”
 
 \[^35\]: “[The Legend Lives On](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19821030-1.2.47.15),”&nbsp;_New Nation_, 30 October 1982, 36; “[Soccer Stalwarts of 2 Decades](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470508-1.2.37.16),”&nbsp;_Singapore Free Press_, 8 May 1947, 7. (From NewspaperSG)&nbsp;
 
@@ -538,6 +538,3 @@ Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He 
 \[^50\]: “[Singapore Win Malaya Cup Final](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340805-1.2.112),” _Straits Times_, 5 August 1934, 17. (From NewspaperSG)
 
 \[^51\]: “[Malayan Chinese Olympics](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350715-1.2.124),” _Malaya Tribune_, 15 July 1935, 15. (From NewspaperSG)
-
-
-
