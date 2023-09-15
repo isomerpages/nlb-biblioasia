@@ -45,9 +45,9 @@ While formal approval was only given in January 1823, there is evidence that som
 
 The document, titled “Price Current of Goods at Singapore”, comprises four pages printed on paper watermarked “1819”. It presents a list of commodities categorised under headings such as “Eastern Produce”, “China Goods”, “Bengal and other Indian Goods” and “Produce of Europe, America &amp;c”. The cover sheet bears a handwritten date of 31 May 1822. Byrd observed that the printing was coarse, suggesting that this might be a small government job that was produced on the portable press that Thomsen had brought over from Malacca.[^4]
 
-<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/price%20current%20pages%202-3%20v1.jpg" style="width:60%;">
-<div style="background-color: white;"> 
-"Price Current of Goods at Singapore". <i>L8 Singapore: Letters to Bencoolen, Straits Settlements Records. (From National Archives of Singapore).</i></div>
+<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/price%20current%20pages%202-3%20v1%20white%20bg.jpg" style="width:60%;">
+<div style="background-color: white;">
+	"Price Current of Goods at Singapore". <i>L8 Singapore: Letters to Bencoolen, Straits Settlements Records. (From National Archives of Singapore).</i></div>
 
 Further evidence of pre-1823 printing in Singapore is supported by a study that references a letter written by Milton to the LMS in September 1822. In the letter, Milton mentions having printed two works in Chinese. He wrote: “I have employed two Chinese type-cutters to carry on a periodical work in Chinese and also to print an Exposition of the Book of Genesis in that language. Three men are cutting Siamese types for printing a pamphlet on the redemption of sinners by Jesus Christ…” However, as no further mention was made of these two Chinese works, it remains doubtful if the printing was ever completed.[^5] 
 
@@ -72,10 +72,11 @@ After Milton retired from the LMS in 1825, Thomsen took over the press and conti
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_6.png)
 <div style="background-color: white;"> 
 	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G).</i></div><br>
-	
-<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg" style="width:60%;">
-<div style="background-color: white;"> 
-Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
+
+<img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/kitab%20white%20bg.jpg"> 
+
+<div style="background-color: white;">
+	Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div>
 
 #### **Printing by the American Mission**
 
@@ -83,9 +84,9 @@ Because of his failing health, Thomsen left Singapore in 1834. However, before l
 
 The ABCFM had been looking for a base in Southeast Asia to print and distribute Christian literature in Chinese and the indigenous languages of Southeast Asia. Singapore was chosen because of its favourable climate, safe conditions and thriving port that saw native vessels calling from China and the region.[^16]
 
-<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/alfred%20north%20original%20diary.JPG" style="width:50%;">
-<div style="background-color: white;"> 
-A drawing of the buildings of the American Board of Commissioners for Foreign Missions by Alfred North. The printing works (marked “e” to “l”) consisted of a press room; a room for wetting paper and washing hands; a room for printing accessories; a typesetting room that could accommodate 50 compositors; storerooms for books, paper and boxes; a book binding room; a type cutting room where punches and matrices were made; and a foundry for casting and finishing type. <i>    Image reproduced from “Travel Journal of Alfred North,” 1835–36, Alfred North Correspondence and Other Documents. MSS 138. Special Collections &amp; Archives, UC San Diego Library Digital Collections.</i></div>
+<img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/alfred%20north%20original%20diary%20white%20bg.jpg" style="width:50%;">
+<div style="background-color: white;">
+	A drawing of the buildings of the American Board of Commissioners for Foreign Missions by Alfred North. The printing works (marked “e” to “l”) consisted of a press room; a room for wetting paper and washing hands; a room for printing accessories; a typesetting room that could accommodate 50 compositors; storerooms for books, paper and boxes; a book binding room; a type cutting room where punches and matrices were made; and a foundry for casting and finishing type. <i>    Image reproduced from “Travel Journal of Alfred North,” 1835–36, Alfred North Correspondence and Other Documents. MSS 138. Special Collections &amp; Archives, UC San Diego Library Digital Collections.</i></div>
 
 Ira Tracy, the board’s first missionary to Singapore, arrived in 1834 and was joined by printer Alfred North two years later. Tracy oversaw Chinese printing while North supervised the printing, proofreading, distribution and binding of all other books.[^17] They were helped by Achang, the foreman for Chinese printing who was also the former assistant to Liang A-Fa.[^18] They also received assistance from Munshi Abdullah, who was employed as a Malay teacher and who also aided North in editing and printing Malay literature. Notably, North printed Munshi Abdullah’s *Kisah Pelayaran Abdullah* (*The Story of Abdullah’s Voyage*) in 1837, which chronicles the Munshi’s travels up the east coast of Malaya.[^19]
 
@@ -136,7 +137,7 @@ Dyer continued his development work in his later postings to Malacca (1835–39)
 
 <img src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/sermon_samuel%20dyer.jpg" style="width:40%;">
 <div style="background-color: white;">
-Title page of the printed sermon delivered at the mission chapel in Singapore on Samuel Dyer’s death in 1843. <i>Image reproduced from The Blessedness of Those Who Die in the Lord: A Sermon Occasioned by the Death of the Rev. Samuel Dyer. Collection of National Library, Singapore (Call no. RRARE 252.1 STR, Accession no. B32423995D).</i></div>
+	Title page of the printed sermon delivered at the mission chapel in Singapore on Samuel Dyer’s death in 1843. <i>Image reproduced from The Blessedness of Those Who Die in the Lord: A Sermon Occasioned by the Death of the Rev. Samuel Dyer. Collection of National Library, Singapore (Call no. RRARE 252.1 STR, Accession no. B32423995D).</i></div>
 
 Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and their assistants such as Munshi Abdullah, occupy an important place in the early history of printing in Singapore. They were pioneers in religious printing and also in vernacular, government and commercial printing. Their efforts paved the way for the development of European commercial printing in the 1830s, vernacular commercial printing in the 1860s and 1870s, and the establishment of the Government Printing Office in 1867.[^29]
 
@@ -149,8 +150,9 @@ Singapore: Printed at the Mission Press, 1830.<br>
 Call no. RRARE 992.2 JOU; Accession no. B03013533G</div><br>
 English Protestant missionary Walter Henry Medhurst of the London Missionary Society recounts his travels to Java and Bali with Reverend Jacob Tomlin in 1829. Parts of the journal have been republished many times for its rich descriptions of Bali. This is the earliest English book printed in Singapore that is found in the National Library’s collection.<br><br>
 	
-<img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20a%20tour_x.jpg">
-<div style="background-color: #fff6ba; text-align:left">  Title page of <i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G.</i></div><br>
+<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/journal%20of%20a%20tour_improved%20transparent.png">
+<div style="background-color: #fff6ba; text-align:left">
+	Title page of <i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G.</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d.aspx"><b>The First Report of the Singapore Christian Union, 1930</b></a><br>Singapore: Printed at the Mission Press, 1830.<br>
@@ -158,16 +160,17 @@ Call no. RRARE 266.759 SCURSC; Accession no. B20016993H</div><br>
 The Singapore Christian Union was formed in 1827 to promote literacy and spread Christianity in Singapore and the Malay Archipelago through the establishment of schools and the distribution of scriptures and tracts. This inaugural report provides an update on the progress of education and the circulation of Christian literature in Singapore and Southeast Asia.<br><br>
 
 <img style="width:35%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/first%20report%20of%20the%20singapore%20christian%20union_x.jpg">
-
-<div style="background-color: #fff6ba: text-align:left;">&nbsp;Cover of <i>The First Report of the Singapore Christian Union. Collection of the National Library, Singapore (Call no. RRARE 266.759 SCURSC; Accession no. B20016993H).</i></div><br>
+<div style="background-color: #fff6ba: text-align:left;">
+	Cover of <i>The First Report of the Singapore Christian Union. Collection of the National Library, Singapore (Call no. RRARE 266.759 SCURSC; Accession no. B20016993H).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eservice.nlb.gov.sg/item\_holding\_s.aspx?bid=4378980x"><b>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru = The New Testament of Our Lord and Saviour Jesus Christ in Malay</b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1831.<br>
 Call no. RRARE 225.59928 BIB; Accession no. B19016274H.<br><br>
 This revised translation of the New Testament in Malay was prepared by Claudius Henry Thomsen and Robert Burn, the Chaplain of the Anglican Church in Singapore. Thomsen began learning and translating the Bible into Malay with the help of Munshi Abdullah while they were in Melaka.<br></div><br>
 	
-<img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20ia-itu,%20injil%20isa%20al-masihi%20atau%20segala%20surat%20testament%20bahru_x.jpg">
-<div style="background-color: #fff6ba; text-align:left">Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div><br>
+<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/kitab%20yellow%20bg.jpg">
+<div style="background-color: #fff6ba; text-align:left">
+	Title page of <i>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru. Collection of the National Library, Singapore (Call no. RRARE 225.59928 BIB; Accession no. B19016274H).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/c2d856b0-4c4c-4d44-bf60-94d10cf3e868.aspx"><b>Bugis Tract. No. 2, Religion of the Bible</b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1831.<br>
@@ -175,16 +178,17 @@ Call no. RRARE 225.59928 BIB; Accession no. B19016274H.</div><br>
 Claudius Henry Thomsen started learning the Bugis language sometime around 1824 with the intent of producing a tract to distribute to Bugis vessels that visited Singapore during the trading season. He printed 2,000 copies of a 12-page booklet on the Parables of the New Testament which was likely translated from Malay by his Bugis teacher. There appeared to be some interest in these pamphlets as they were brought back to the Celebes.<br><br>
 
 <img style="width:40%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/bugis%20tract.JPG">
-<div style="background-color: #fff6ba; text-align:left">&nbsp; A page from <i>Bugis Tract. No. 2, Religion of the Bible. Collection of the National Library, Singapore (Call no. RRARE 230 BUG; Accession no. B26067781D).</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	A page from <i>Bugis Tract. No. 2, Religion of the Bible. Collection of the National Library, Singapore (Call no. RRARE 230 BUG; Accession no. B26067781D).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/d7826db3-8975-418b-ba35-8e28f1716c9a.aspx"><b>A Code of Bugis Maritime Laws</b></a><br>Singapore: Printed at the Mission Press, 1832.<br>
 Call no. RRARE 343.5984096 COD; Accession no. B03053896A.<br><br>
 This maritime code of the Bugis was translated by Claudius Henry Thomsen into English. It was printed from types that were cast in Singapore using moulds made in Serempore, in India.</div><br>
 
-<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/code%20of%20bugis%20maritime%20laws.jpg">
-
-<div style="background-color: #fff6ba; text-align:left"> Title page and inside pages from <i>A Code of Bugis Maritime Laws. Collection of the National Library, Singapore (Call no. RRARE 343.5984096 COD; Accession no. B03053896A). </i></div><br>
+<img style="width:65%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/code%20bugis_improved.jpg">
+<div style="background-color: #fff6ba; text-align:left">
+	Title page and inside pages from <i>A Code of Bugis Maritime Laws. Collection of the National Library, Singapore (Call no. RRARE 343.5984096 COD; Accession no. B03053896A). </i></div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/b3f825d4-091a-4546-9bec-e1bb88da4268.aspx"><b>     
@@ -193,8 +197,9 @@ Singapore: Printed at the Mission Press, 1833.<br>
 Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K.<br><br>
 First published in Melaka in 1820, this word list contains terms in English and Malay compiled by Claudius Henry Thomsen and Munshi Abdullah. This third edition, published in 1833, was expanded to include Bugis terms.</div><br>	
 
-<img style="width:50%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/vocabulary%20inside%20&amp;%20title.jpg">
-<div style="background-color: #fff6ba; text-align:left">  Title page and inside pages from <i>A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words. Collection of the National Library, Singapore (Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K).</i></div><br>
+<img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/a%20vocabulary%20of%20english.jpg">
+<div style="background-color: #fff6ba; text-align:left">
+	Title page and inside pages from <i>A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words. Collection of the National Library, Singapore (Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size=larger"><br>
 <b>PUBLICATIONS BY THE MISSION PRESS OF THE AMERICAN BOARD OF COMMISSIONERS FOR FOREIGN MISSION</b><br><br>
@@ -205,15 +210,16 @@ Call no. RRARE 959.503 SEJ; Accession no. B31655050C.<br><br>
 This is the first printed edition of the <i>Sulalat al-Salatin (Genealogy of Kings</i>). This version was edited by Munshi Abdullah and the preface was likely written by Alfred North, who also printed the book.</div></div><br>
 
 <img style="width:35%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/sejarah%20melayu_zx.jpg">
-<div style="background-color: #fff6ba; text-align:left"> Pages from <i>Sejarah Melayu (Malay Annals)</i> edited by Munshi Abdullah. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 SEJ; Accession no. B31655050C).</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	Pages from <i>Sejarah Melayu (Malay Annals)</i> edited by Munshi Abdullah. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 SEJ; Accession no. B31655050C).</i></div><br>
          
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/29ccbe1a-d854-4520-bf05-b3d085114375.aspx"><b>全人矩矱&nbsp; (Quan Ren Ju Yue)</b></a><br>新嘉坡 坚夏書院, 1836.<br>Call no. RRARE 243 AHZ; Accession no. B02890695F.<br><br>
 The title of this publication has been translated as The Perfect Man’s Model or The Complete Duty of Man. This is the earliest extant Chinese publication printed in Singapore and is held in the National Library’s collection. This book was written by German Protestant missionary Karl Friedrich August Gützlaff under his pen name 爱汉者 (“Lover of the Chinese”) and by printed by 坚夏書院 (Jian Xia Shuyuan), the printing arm of the American mission in Singapore.</div><br>
 
 <img style="width:65%;" src="/images/Vol%2019%20Issue%203/10%20Printing/image_8-edit.png">
-
-<div style="background-color: #fff6ba;text-align:left">Cover and pages from 全人矩矱 <i>(Quan Ren Ju Yue)</i>, translated as&nbsp;<i>The Perfect Man’s Model</i>&nbsp;or&nbsp;<i>The Complete Duty of Man. Collection of the National Library, Singapore (Call no. RRARE 243 AHZ; Accession no. B29240187K).</i></div><br>
+<div style="background-color: #fff6ba;text-align:left">
+	Cover and pages from 全人矩矱 <i>(Quan Ren Ju Yue)</i>, translated as&nbsp;<i>The Perfect Man’s Model</i>&nbsp;or&nbsp;<i>The Complete Duty of Man. Collection of the National Library, Singapore (Call no. RRARE 243 AHZ; Accession no. B29240187K).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203430235"><b>     
@@ -223,16 +229,17 @@ Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E.<br><br>
 This is a facsimile reproduction of the 1837 edition of the Gospel of John, which scholars regard as the earliest extant book of the Bible in Japanese. It was translated by Gützlaff with the assistance of three shipwrecked Japanese sailors. One of the three, 
 <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/yamamoto-otokichi/">Yamamoto Otokichi</a>, became the first Japanese settler in Singapore in 1862. Due to the closed-door policies of Japan and China at the time, Gützlaff had to send the text to Singapore for printing. The book cover credits 堅夏書院 (Kenka Shoin), the printing arm of the American mission in Singapore, as the publisher. The glaring errors in the katakana script are indications that the printing was likely undertaken by Chinese printers who did not know Japanese. This publication was donated to the National Library by Lim Shao Bin.</div><br>
 	
-<img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/japanese%20bible%201_3.png">
-<div style="background-color: #fff6ba;text-align:left">Cover and pages from 約翰福音之傳: 複製及解説<i> (Yohane fukuin no den: Fukusei oyobi kaisetsu). Collection of the National Library, Singapore (Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E).</i></div><br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/japanese%20bible4.jpg">
+<div style="background-color: #fff6ba;text-align:left">
+	Cover and pages from 約翰福音之傳: 複製及解説<i> (Yohane fukuin no den: Fukusei oyobi kaisetsu). Collection of the National Library, Singapore (Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx"><b>Notices of the Indian Archipelago, and Adjacent Countries</b></a><br>Singapore: 1837.<br>Call no. RRARE 991 MOO; Accession no. B03013554J.<br><br>
 This mammoth work features articles on Singapore and Southeast Asia reprinted from the <i>Singapore Chronicle</i> and other scholarly journals. It was compiled by John Henry Moor, the former editor of the <i>Singapore Chronicle</i> and <i>Singapore Free Press</i>. Due to the scarcity of printers and paper, the task took two years to complete. This is among one of the earliest scholarly works printed in Singapore. It was donated to the National Library by Mrs Loke Yew in fulfilment of the intention of her son Loke Wan Tho.</div><br>
 
 <img style="width:45%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/notices%20of%20the%20indian%20archipelago_z.jpg">
-
-<div style="background-color: #fff6ba; text-align:left">Title page of <i>Notices of the Indian Archipelago, and Adjacent Countries. Collection of the National Library, Singapore (Call no. RRARE 991 MOO; Accession no. B03013554J).</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	Title page of <i>Notices of the Indian Archipelago, and Adjacent Countries. Collection of the National Library, Singapore (Call no. RRARE 991 MOO; Accession no. B03013554J).</i></div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size=larger"><br>
 <b>SELECTED WORKS BY BENJAMIN KEASBERRY</b><br><br>
@@ -241,8 +248,8 @@ This mammoth work features articles on Singapore and Southeast Asia reprinted fr
 Commonly referred to as Logan’s Journal after its editor, the Scottish lawyer James Richardson Logan, this is one of the earliest scholarly periodicals published in Singapore. The periodical covered a broad range of topics ranging from history to the natural science of Southeast Asia, and was published in two series between 1847 and 1859. The first two volumes were printed at the Mission Press. The page featured is from an article on the geological features of Singapore published in volume 1. The illustrated plate on the right was lithographed at the Mission Press..</div></div><br>
 
 <img style="width:65%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20the%20indian%20archipelago_z.jpg">
-
-<div style="background-color: #fff6ba; text-align:left">      These pages are from an article on the geological features of Singapore published in volume 1 of <i>The Journal of the Indian Archipelago and Eastern Asia. The illustrated plate on the right was lithographed at the Mission Press. Collection of the National Library, Singapore (Call no. RRARE 950.05 JOU; Accession nos. B03014400A [v. 1]).</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	These pages are from an article on the geological features of Singapore published in volume 1 of <i>The Journal of the Indian Archipelago and Eastern Asia. The illustrated plate on the right was lithographed at the Mission Press. Collection of the National Library, Singapore (Call no. RRARE 950.05 JOU; Accession nos. B03014400A [v. 1]).</i></div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eservice.nlb.gov.sg/item\_holding.aspx?id=4079095"><b>     
@@ -251,24 +258,25 @@ Singapore: Lithographed at the Mission Press, 1849.<br>
 Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
 	An iconic work in Malay literature and the history of Singapore, <i>Hikayat Abdullah</i> (<i>Stories of Abdullah</i>) – the autobiography of Munshi Abdullah – describes life in Singapore and Melaka in the early 19th century, including a detailed account of Stamford Raffles’ first arrival to Singapore in January 1819. This copy was donated by the Archdeacon George Frederick Hose in 1879 to the library of the Straits Branch of the Royal Asiatic Society. The book became a part of the Raffles Library (predecessor of the National Library) in 1923 when the society, which held its meetings at the Raffles Library and Museum, made a permanent loan of its collection to the library.</div><br>	
 
-<img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/hikayat_z.jpg">
-<div style="background-color: #fff6ba; text-align:left">      The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>	
+<img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/hikayat%20improved3.jpg">
+<div style="background-color: #fff6ba; text-align:left">
+	The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>	
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=7230342"><b>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami <i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i></b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1853.<br>Call no.: RRARE 225 BIB; Accession no.: B20119134J.<br><br>
 This translation of the Malay New Testament in Romanised Malay was edited and published by Benjamin Keasberry for the British and Foreign Bible Society in 1853. A revised edition was published in 1866.</div><br>
 
 <img style="width:35%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20iya%20itu%20injil%20isa%20al-masih%20tuhan%20kami_x.jpg">
-
-<div style="background-color: #fff6ba; text-align:left">Pages from <i>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami (The New Testament of our Lord and Saviour Jesus Christ in Malay). Collection of the National Library, Singapore (Call no. RRARE 225 BIB, Accession no. B20119134J). </i></div><br>	
+<div style="background-color: #fff6ba; text-align:left">
+	Pages from <i>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami (The New Testament of our Lord and Saviour Jesus Christ in Malay). Collection of the National Library, Singapore (Call no. RRARE 225 BIB, Accession no. B20119134J). </i></div><br>	
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=203130883"><b>Ceritera Ilmu Kepandaian Orang Putih</b></a><br>Singapore: Bukit Zion, 1855.<br>Call no. RRARE 306.460973 CER; Accession no. B31655051D.<br><br>
 	Roughly translated as <i>The Book of European Knowledge</i>, it was prepared by Munshi Abdullah for use in Benjamin Keasberry’s school. It covers various European modern technology and their social benefits, such as gaslights, water piping systems, railways and printing presses. The textbook was published at Mount Zion on River Valley Road, the location of the new mission office that Keasberry had established as an independent missionary after the London Missionary Society exited from Singapore in 1847.</div><br>
 
 <img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/ceritera%20ilmu_z.jpg">
-
-<div style="background-color: #fff6ba; text-align:left">Cover and inside pages from <i>Ceritera Ilmu Kepandaian Orang Putih. Collection of the National Library, Singapore (Call no. RRARE 306.460973 CER, Accession no. B31655051D).</i></div><br>
+<div style="background-color: #fff6ba; text-align:left">
+	Cover and inside pages from <i>Ceritera Ilmu Kepandaian Orang Putih. Collection of the National Library, Singapore (Call no. RRARE 306.460973 CER, Accession no. B31655051D).</i></div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4412481"><b>     
@@ -276,8 +284,9 @@ Cermin Mata Bagi Segala Orang Yang Menuntut Pengetahuan</b></a><br>Singapore: Li
 Call no. RRARE 059.9923 CER; Accession no. B03057034K.<br><br>
 Translated as Eye Glass for All Who Seek Knowledge, this is one of the earliest Malay periodicals published in Singapore. It showcases Benjamin Keasberry’s skill in utilising lithography to reproduce texts that are visually familiar to the calligraphic script, decorative motifs and bright colours of hand-copied Malay manuscripts.</div><br>	
 
-<img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/cermin%20mata_z.jpg">
-<div style="background-color: #fff6ba; text-align:left">  Inside pages from <i>Cermin Mata. Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i></div><br><br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/cermin%20mata%20improved.jpg">
+<div style="background-color: #fff6ba; text-align:left">
+	Inside pages from <i>Cermin Mata. Collection of the National Library, Singapore (Call no. RRARE 059.9923 CER; Accession no. B03057034K).</i></div><br><br>
 
 <b>REFERENCES</b><br><br>
 Abdullah Abdul Kadir, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=4079095"><i>Hikayat Abdullah</i></a> (Singapore: Mission Press, 1849). (From National Library, Singapore, call no. RRARE 959.503 ABD)<br><br>

@@ -187,6 +187,29 @@ Born in Amoy (present-day Xiamen) in China, Chee Ah Hui came to Singapore in 192
 
 Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Shanghai, and joined the Canton Air Force in 1934.[^13] His greatest achievement was representing China at the 1936 Olympic Games in Berlin, playing against Great Britain. Enroute to Berlin, the Chinese team transited in Singapore where they played a match against the Singapore Amateur Football Association team, winning 4–0. Playing at centre-half, he apparently caught everyone’s attention.[^14]
 
+#### **Cheong Chee Lim**
+
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/cheong%20chee%20lim.jpg" style="width:30%;">
+ <div style="background-color: white;">Cheong Chee Lim.<i> Image reproduced from “Last Week’s Football Match Between Hong Kong Chinese and Malayan Chinese,” Malayan Saturday Post, 25 May 1929, 7. (From NewspaperSG).</i></div>
+
+7 appearances in the Malaya Cup final (3 wins)<br>Malaya Cup (1921–29)<br>Singapore Chinese Football Association (1917–33)<br>
+
+Cheong Chee Lim was the only Chinese player to represent Singapore in the 1921 Malaya Cup matches.[^15] (Players from the Middlesex Regiment, who were all Europeans, dominated team selection.) He would go on to play in seven of the next nine finals. 
+
+Cheong missed the 1924 Malay Cup as the Singapore Chinese Football Association (SCFA) withdrew its team from the Singapore League to protest against a ruling by the Singapore Football Association that excluded SCFA players for selection.[^16]  He was a reserve in the 1928 match, but played in the 1929 final that ended in a 2–2 draw with Selangor.[^17]  
+
+#### **Chia Keng Hock**
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chia%20keng%20hock.jpg" style="width:40%;">
+ <div style="background-color: white;">Chia Keng Hock.<i> Image reproduced from Nimrod, “Fate of Keng Hock Still Undecided,” Singapore Free Press and Mercantile Advertiser, 31 July 1936, 9. (From NewspaperSG).</i></div>
+
+5 appearances in the Malaya Cup Final (2 wins)<br> Malaya Cup (1931–36)<br>  St Joseph’s Old Boys Association<br> Straits Chinese Recreation Club<br> 
+
+Not only did Chia Keng Hock acquire a reputation in football as a much-feared centre forward, he was also a talented batsman for the cricket team of the Singapore Chinese Recreation Club.[^18]  But it was football that would bring him close to the world stage. 
+
+Favourably compared with Lee Wai Tong, Hong Kong’s greatest prewar player, Chia was given the nicknames “Cannonball Chia” and “The Bull” because of his burly frame, and his fearless and robust play. His rasping shots and bruising physicality made him a force to be reckoned with. Apparently, “his cannon-like shots sent defenders running for cover”.[^19] 
+
+In the build up to the 1936 Olympic Games, trials were held in Hong Kong for aspiring Chinese players. Chia was one of a number of candidates from Singapore.[^20] 
+
 #### **Choo Seng Quee**
 
 <img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee_cropped.jpg">
@@ -199,9 +222,24 @@ Singapore Chinese Football Association (1933–39)
 
 Choo Seng Quee, best remembered as one of Singapore’s most respected coaches, retired in 1981. He represented Singapore before the war, and was part of the team that defeated Selangor 2–1 in the 1937 Malaya Cup final.
 
-Choo retired from playing in 1948 and became a coach at the Singapore Chinese Athletic Association.[^15] He promoted the idea of including this association in the Singapore Amateur Football Association League at a time when only Singapore Chinese Football Association players were considered. He later coached the national teams of Indonesia (1951–53) and Malaya/Malaysia (1958–65) before being appointed Singapore’s national coach in 1976.[^16]
+Choo retired from playing in 1948 and became a coach at the Singapore Chinese Athletic Association.[^21] He promoted the idea of including this association in the Singapore Amateur Football Association League at a time when only Singapore Chinese Football Association players were considered. He later coached the national teams of Indonesia (1951–53) and Malaya/Malaysia (1958–65) before being appointed Singapore’s national coach in 1976.[^22]
 
-One of Choo’s greatest achievements was guiding Singapore to win the Malaysia Cup in 1977, in a thrilling 3–2 defeat against Penang.[^17] Popularly known as Uncle Choo, he nurtured a generation of Singaporean footballers.
+One of Choo’s greatest achievements was guiding Singapore to win the Malaysia Cup in 1977, in a thrilling 3–2 defeat against Penang.[^23] Popularly known as Uncle Choo, he nurtured a generation of Singaporean footballers.
+
+#### **Choy Khun Onn (also spelled Choy Khoon Onn)**
+
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choy%20khun%20onn.jpg" style="width:30%;">
+ <div style="background-color: white;">Choy Khun Onn.<i> The Straits Times, 24 August 1947 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+4 appearances in the Malaya Cup Final (1 win)<br> 
+Malaya Cup (1930–36)<br>St Joseph’s Institution<br>Aston Athletic Club<br> 
+Chinese Companion Athletic Association<br> 	
+
+Born in Hong Kong, Khun Onn was known as KO to his friends, but more popularly known among the Chinese soccer community as “Fo Chia Tou” (meaning fire locomotive in Hokkien) because of his speed.[^24]  His most memorable Malaya Cup final was the replay of the 1930 match during which Singapore beat Selangor 3–0 at the Anson Road Stadium. Choy had already scored when the first game was abandoned because of heavy rain in Selangor. According to the New Nation, “In the replay, curiously Khun Onn drew first blood again. His goal sent the crowds into a frenzy; when he saw the Selangor’s goalkeeper losing control of a ball, he made a flying leap which propelled both him and the ball into the net”. [^25] 
+
+In 1930, the Singapore Chinese Football Association (SCFA) team became the Singapore Amateur Football Association League champion by defeating the strong Singapore Cricket Club 2–1. Both goals were scored by Choy. He credited players such as Roy Fairley Smith, Lim Yong Liang and John Then for developing his game.[^26]  
+
+After his retirement in around 1936, Choy served in the committee of the SCFA and later turned to coaching. In May 1956, he was appointed coach of the Singapore team, which lost to Selangor 2–1 in the Malaya Cup final that year.[^27]
 
 #### **Chua Boon Lay**
 
@@ -217,11 +255,23 @@ Amateur Sporting Association
 <br>Singapore Chinese Football Association (1923–37 
 and 1945–49)<br>
 
-Chua Boon Lay was known as “Towkay Ayam” (“chicken boss”) because of his association with the poultry business at Lau Pa Sat (Telok Ayer Market).[^18] Standing at 1.82 m – one of the tallest players in the Singapore team – the _Straits Times_ described him as “a brilliant header and very speedy” and “one of the few full-backs who could out-head and out-pace little Mat Noor [Mohamed Noor Kassim] of the Malays”.[^19] 
+Chua Boon Lay was known as “Towkay Ayam” (“chicken boss”) because of his association with the poultry business at Lau Pa Sat (Telok Ayer Market).[^28] Standing at 1.82 m – one of the tallest players in the Singapore team – the _Straits Times_ described him as “a brilliant header and very speedy” and “one of the few full-backs who could out-head and out-pace little Mat Noor [Mohamed Noor Kassim] of the Malays”.[^29] 
 
-Chua also played basketball for Siong Boo Athletic Association and was a top-class track athlete, clinching gold in the 100-, 400- and 800-metre races at the 1931 Singapore Chinese Sports meet.[^20] He represented Singapore in the Malayan Chinese Olympiads in athletics in 1937, and was also a talented billiard player.[^21]
+Chua also played basketball for Siong Boo Athletic Association and was a top-class track athlete, clinching gold in the 100-, 400- and 800-metre races at the 1931 Singapore Chinese Sports meet.[^30] He represented Singapore in the Malayan Chinese Olympiads in athletics in 1937, and was also a talented billiard player.[^31]
 
 During the Japanese Occupation (1942–45), Chua became a committee member of the football section of the Syonan Sports Association established by the Japanese. In 1948, after the war ended, he joined the China football team as a coach for the London Olympic Games.
+
+#### **Foong Mun Fun**
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/foong%20mun%20fun.jpg" style="width:40%;">
+ <div style="background-color: white;">Foong Mun Fun.<i> Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
+
+7 appearances in the Malaya Cup final (4 wins)<br> 
+Malaya Cup (1923–30)<br> 
+Singapore Chinese Football Association (1920–33)<br>  
+
+Kicking a tennis ball near his home on Coleman Street marked the start of Foong Mun Fun’s football journey. In 1922, at age 17, Foong represented Anglo Chinese School. He was then spotted by Cheong Chee Lim and joined the Singapore Chinese Football Association (SCFA). The left-winger’s first Malaya Cup triumph came as an 18-year-old in 1923 when Singapore defeated Perak 2–1. [^32] 
+
+Foong worked as the stadium clerk at Anson Road Stadium in 1924. As there was no office space in the stadium, John Sime, director of Sime Darby and also the president of the Singapore Football Association, allowed the stadium to make use of the premises at his Sime Darby office on Malacca Street.[^33]  Foong’s final Malaya Cup success (his fourth win) was in 1931. Two years later he retired and subsequently joined the SCFA Selection Committee.[^34] 
 
 #### **Lim Yong Liang**
 
@@ -232,11 +282,11 @@ During the Japanese Occupation (1942–45), Chua became a committee member of th
 <br>Malaya Cup (1922–30)<br> 
 Singapore Chinese Football Association (1916–31)
 
-Lim Yong Liang was a dominant centre forward fondly known as “Pop” and called the “Grand Old Man of Singapore soccer”. While a student at St Joseph’s Institution, he learned the game of football with the help of a tennis ball in the church compound.[^22]
+Lim Yong Liang was a dominant centre forward fondly known as “Pop” and called the “Grand Old Man of Singapore soccer”. While a student at St Joseph’s Institution, he learned the game of football with the help of a tennis ball in the church compound.[^35]
 
-Lim represented Singapore in the Malaya Cup between 1922 and 1930, and he was on the winning side in 1923, 1924 and in 1925, when the final was played at the Anson Road Stadium in Singapore for the first time. Teaming up with Roy Fairley Smith and Foong Un Sun (the brother of Foong Mun Fun), Lim scored what proved to be the winning goal in a classic confrontation.[^23]
+Lim represented Singapore in the Malaya Cup between 1922 and 1930, and he was on the winning side in 1923, 1924 and in 1925, when the final was played at the Anson Road Stadium in Singapore for the first time. Teaming up with Roy Fairley Smith and Foong Un Sun (the brother of Foong Mun Fun), Lim scored what proved to be the winning goal in a classic confrontation.[^36]
 
-Lim captained the Sino-Malay team that defeated a touring Australian team 4–2 in 1924. As a veteran, Lim returned to Malaya Cup duty in 1934, scoring two goals. He was the national coach from 1935 to 1941.[^24]
+Lim captained the Sino-Malay team that defeated a touring Australian team 4–2 in 1924. As a veteran, Lim returned to Malaya Cup duty in 1934, scoring two goals. He was the national coach from 1935 to 1941.[^37]
 
 After the war, Lim became a major advocate for football as an adviser and mentor.  As the honorary secretary of the Football Association of Singapore in 1970, he was asked to provide inputs for the National Sports Promotion Bill.
 
@@ -249,11 +299,11 @@ After the war, Lim became a major advocate for football as an adviser and mentor
 <br>Malaya Cup (1928–35)<br>
 Darul Bahar Football Club
 
-Mohamed Noor Kassim, also known as Mat Noor, started playing for Darul Bahar Football Club in the Malay League at age 14 and later for the Post Office in the Commercial Cup.[^25] Renowned as a deadly striker (using both head and foot), Mat Noor claimed he learned his ability to head a ball so well by observing players in the Duke of Wellington’s regimental team.
+Mohamed Noor Kassim, also known as Mat Noor, started playing for Darul Bahar Football Club in the Malay League at age 14 and later for the Post Office in the Commercial Cup.[^38] Renowned as a deadly striker (using both head and foot), Mat Noor claimed he learned his ability to head a ball so well by observing players in the Duke of Wellington’s regimental team.
 
-Playing at inside right, Mat Noor was considered one of the most celebrated Malaya Cup players, and was given the nicknames “Botak” as he always shaved his head bald and “Wizard of Nod” because of his heading ability. Only 1.52 m tall, he learned to outjump taller players by training in the sea off Pulau Brani. “I was short, and I had to find a way to outjump my opponents. Hours of jumping up and down on the shore did the trick,” he said.[^26]
+Playing at inside right, Mat Noor was considered one of the most celebrated Malaya Cup players, and was given the nicknames “Botak” as he always shaved his head bald and “Wizard of Nod” because of his heading ability. Only 1.52 m tall, he learned to outjump taller players by training in the sea off Pulau Brani. “I was short, and I had to find a way to outjump my opponents. Hours of jumping up and down on the shore did the trick,” he said.[^39]
 
-Mat Noor played in the 1933 Malaya Cup final that recorded Singapore’s most one-sided victory (8–2) against Selangor. Like Dolfattah, he was suspended in 1934 for accepting payment for participating in a tour to Java, but was reinstated in 1935.[^27]
+Mat Noor played in the 1933 Malaya Cup final that recorded Singapore’s most one-sided victory (8–2) against Selangor. Like Dolfattah, he was suspended in 1934 for accepting payment for participating in a tour to Java, but was reinstated in 1935.[^40]
 
 #### **Lancelot Maurice Pennefather**
 
@@ -264,9 +314,9 @@ Mat Noor played in the 1933 Malaya Cup final that recorded Singapore’s most on
 <br>Malaya Cup (1922–28)<br>
 Singapore Recreation Club (1912–30)
 
-Lancelot Maurice Pennefather was known as “the Son of the Devil” because of his ferocious defence work as full back. Despite this nickname, he was a staunch advocate of sportsmanship above all else.[^28]
+Lancelot Maurice Pennefather was known as “the Son of the Devil” because of his ferocious defence work as full back. Despite this nickname, he was a staunch advocate of sportsmanship above all else.[^41]
 
-He played in six Malaya Cup finals for Singapore, winning in 1923, 1924 and 1925. In 1928, the trophy was shared after a two-all draw against Selangor. He had speed and a long penetrative kick, and was a crowd favourite with his “end-to-end clearances, his fierce tackles against giant forwards and uncanny coverage of the goal area”.[^29]
+He played in six Malaya Cup finals for Singapore, winning in 1923, 1924 and 1925. In 1928, the trophy was shared after a two-all draw against Selangor. He had speed and a long penetrative kick, and was a crowd favourite with his “end-to-end clearances, his fierce tackles against giant forwards and uncanny coverage of the goal area”.[^42]
 
 Pennefather was a certainty to play in the first Malaya Cup final in 1921 but chose to represent his club, the Singapore Recreation Club, in athletics instead. An all-round sportsman, he could also throw a cricket ball well over a distance of 100 yards. Together with his wife Alice and later granddaughter Annabel, the name of Pennefather became firmly embedded in Singapore’s sport story. (Alice excelled in badminton, tennis and hockey, and was inducted into the Singapore Women’s Hall of Fame posthumously in 2016 for her contributions to women’s sports in Singapore. Annabel was a national hockey player and captained the national women’s team from 1970 to 1980.) 
 
@@ -278,11 +328,11 @@ Pennefather was a certainty to play in the first Malaya Cup final in 1921 but ch
 <br>Malaya Cup (1922–27)<br> 
 Singapore Cricket Club (1917–28)
 
-A Eurasian, Roy Fairley Smith, was given the nickname “Thunder Shooter”. Smith also held a record for high jump and was a tennis champion.[^30] He became a favourite with the sporting public during the 1920s and 1930s.
+A Eurasian, Roy Fairley Smith, was given the nickname “Thunder Shooter”. Smith also held a record for high jump and was a tennis champion.[^43] He became a favourite with the sporting public during the 1920s and 1930s.
 
 As a footballer, he become so highly sought after that the Singapore Cricket Club seized him from the Singapore Recreation Club and made him their centre forward. Smith would have been selected for the inaugural Malaya Cup tournament in 1921 if not for an injury sustained just two days before the first match.
 
-Smith’s Malaya Cup performances over seven seasons (1921–27) were remarkable. He played in 19 games, including six consecutive finals. Out of 68 goals scored by Singapore players, Smith took credit for 28 of them, averaging two per game. He failed to score in only five of the 19 games.[^31]
+Smith’s Malaya Cup performances over seven seasons (1921–27) were remarkable. He played in 19 games, including six consecutive finals. Out of 68 goals scored by Singapore players, Smith took credit for 28 of them, averaging two per game. He failed to score in only five of the 19 games.[^44]
 
 #### **Tay Kwee Liang**
 <img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/kweeliang_cropped.jpg">
@@ -293,12 +343,28 @@ Amicable Athletic Association
 <br>Bendemeer Athletic Club<br>
 Singapore Chinese Football Association
 
-You might wonder why Tay Kwee Liang appears in this table since he did not play in any Malaya Cup final. He may not have been in the Malaya Cup, but he was involved in something even bigger – the Olympics.[^32] Born in Singapore in 1910 (his family was originally from Guangdong, China), Tay played for the Amicable Athletic Association, Bendemeer Athletic Club and Singapore Chinese Football Association.
+You might wonder why Tay Kwee Liang appears in this table since he did not play in any Malaya Cup final. He may not have been in the Malaya Cup, but he was involved in something even bigger – the Olympics.[^45] Born in Singapore in 1910 (his family was originally from Guangdong, China), Tay played for the Amicable Athletic Association, Bendemeer Athletic Club and Singapore Chinese Football Association.
 
-In 1933, he joined the South China Athletic Association team in Hong Kong,[^33] and at the 1934 Far Eastern Games, he was a member of the Chinese team that won the championship. Two years later, Tay was selected to represent China at the 1936 Olympic Games in Berlin, along with Chua Boon Lay and Chee Ah Hui (although Tay is rarely mentioned alongside these two men). Besides football, Tay also excelled in table tennis, and was the national table tennis champion of Singapore in 1931.[^34]
+In 1933, he joined the South China Athletic Association team in Hong Kong,[^46] and at the 1934 Far Eastern Games, he was a member of the Chinese team that won the championship. Two years later, Tay was selected to represent China at the 1936 Olympic Games in Berlin, along with Chua Boon Lay and Chee Ah Hui (although Tay is rarely mentioned alongside these two men). Besides football, Tay also excelled in table tennis, and was the national table tennis champion of Singapore in 1931.[^47]
 
 ![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/taykweeliangcert.jpg)
 <div style="background-color: white;text-align:center">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div><br>
+
+#### **Yeo Ah Kow**
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yeo%20ah%20kow.jpg" style="width:40%;">
+ <div style="background-color: white;">Yeo Ah Kow.<i> Source unknown.</i></div>
+
+4 appearances in Malaya Cup Final (4 wins)<br> 
+Malaya Cup (1929–34)<br> 
+Amicable Athletic Association<br> 
+Bendemeer Athletic Club<br> 
+Siong Boo Athletic Association<br> 
+
+Goalkeepers rarely make the headlines, but they can also be heroes. Yeo Ah Kow was a teammate of Chee Ah Hui and Tay Kwee Liang at Amicable Athletic Association founded in 1928. He played in charity matches, and in the annual competitions of Bendemeer Athletic Club.
+
+Yeo made his home debut in the final match of the Southern section of the Malaya Cup competition in 1929, where Singapore beat Johor 4–2.[^48]  He was also one of the first players to christen the new Jalan Besar Stadium in January 1930.  The friendly was played between Malayan Chinese and Malayan Asiatics.[^49]    
+
+Yeo was left out of the Malaya Cup final team from 1931 to 1933, but returned for Singapore’s 2–1 victory against Penang in 1934.[^50]  He continued to play at a competitive level and represented Singapore at the Malayan Chinese Olympic Games held in Penang in August 1935.[^51] 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>NICK APLIN'S FANTASY 11</b><br><br>
 In my opinion, this is what a fantasy team made up of the players mentioned looks like.&nbsp;&nbsp; Some of you will feel differently and may also argue about the assigned positions. This is open for discussion of course.<br><br>
 	<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/nick's%20fantasy.jpg" style="width:65%;"><br><br>         
@@ -371,71 +437,104 @@ Today’s talk of the greatest players from Singapore rarely deviates from the p
 Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He is the author of Sport in Singapore: The Colonial Legacy (2019)</i> and <i>Sport in Singapore: The Rocky Road to Kallang Park (2023).</i></div>
 
 #### **Notes**
+[^1]: “[Singapore Football Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920806-1.2.5),”&nbsp;_Singapore Free Press and Mercantile Advertiser_, 6 August 1892, 2; “[Local Football](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19290522-1.2.122),”&nbsp;_Singapore Free Press and Mercantile Advertiser (Weekly)_, 22 May 1929, 14; “[It’s the F.A. of S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660114-1.2.118.3),”&nbsp;_Straits Times_, 14 January 1966, 19. (From NewspaperSG). \[The Singapore Football Association was founded in the same year that Liverpool Football Club first appeared in England.\]&nbsp;
 
-[^1]: “[Singapore Football Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920806-1.2.5),”&nbsp;_Singapore Free Press and Mercantile Advertiser_, 6 August 1892, 2; “[Local Football](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19290522-1.2.122),”&nbsp;_Singapore Free Press and Mercantile Advertiser (Weekly)_, 22 May 1929, 14; “[It's the F.A. of S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660114-1.2.118.3),”&nbsp;_Straits Times_, 14 January 1966, 19. (From NewspaperSG). \[The Singapore Football Association was founded in the same year that Liverpool Football Club first appeared in England.\]
+[^2]: “[Two Beautiful Cups](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350810-1.2.116),”&nbsp;_Malaya Tribune_, 10 August 1935, 15. (From NewspaperSG)&nbsp;
 
-[^2]: “[Two Beautiful Cups](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350810-1.2.116),” _Malaya Tribune_, 10 August 1935, 15. (From NewspaperSG)
+[^3]: The battleship, commissioned in 1916, was built with money from the Federated Malay States (Selangor, Perak, Negri Sembilan and Pahang). See Teh Athira Yusof, “HMS Malaya: Federated Malay States Paid for Ship,”&nbsp;_New Straits Times_, 18 March 2019, https://www.nst.com.my/news/nation/2019/03/470285/hms-malaya-federated-malay-states-paid-ship.&nbsp;
 
-[^3]: The battleship, commissioned in 1916, was built with money from the Federated Malay States (Selangor, Perak, Negri Sembilan and Pahang). See Teh Athira Yusof, “HMS Malaya: Federated Malay States Paid for Ship,” _New Straits Times_, 18 March 2019, https://www.nst.com.my/news/nation/2019/03/470285/hms-malaya-federated-malay-states-paid-ship.
+[^4]: “[Thrilling Game at the Stadium](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19310625-1.2.91),”&nbsp;_Straits Times_, 25 June 1931, 13. (From NewspaperSG)&nbsp;
 
-[^4]: “[Thrilling Game at the Stadium](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19310625-1.2.91),” _Straits Times_, 25 June 1931, 13. (From NewspaperSG)
+[^5]: “[All the Finals](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19510829-1.2.76),”&nbsp;_Singapore Free Press_, 29 August 1951, 6. (From NewspaperSG)&nbsp;
 
-[^5]: “[All the Finals](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19510829-1.2.76),” _Singapore Free Press_, 29 August 1951, 6. (From NewspaperSG)
+[^6]: “[Malay Footballer Suspensions](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19350805-1.2.67),”&nbsp;_Pinang Gazette and Straits Chronicle_, 5 August 1935, 16. (From NewspaperSG)&nbsp;
 
-[^6]: “[Malay Footballer Suspensions](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19350805-1.2.67),” _Pinang Gazette and Straits Chronicle_, 5 August 1935, 16. (From NewspaperSG)
+[^7]: “[Football: Dolfattah’s Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malaccaguardian19290819-1.2.21.4),”&nbsp;_Malacca Guardian_, 19 August 1929, 9. (From NewspaperSG)&nbsp;
 
-[^7]: “[Football: Dolfattah’s Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malaccaguardian19290819-1.2.21.4),” _Malacca Guardian_, 19 August 1929, 9. (From NewspaperSG)
+[^8]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87),”&nbsp;_Straits Times_, 17 August 1947, 10. (From NewspaperSG)&nbsp;
 
-[^8]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87),” _Straits Times_, 17 August 1947, 10. (From NewspaperSG)
+[^9]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87).”&nbsp;
 
-[^9]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87).”
+[^10]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87)”; Rob Cavallini and Colin Duncan,&nbsp;_Around the World in 95 Games: The Amazing Story of Islington Corinthians 1937–38 World Tour_&nbsp;(UK: Dog &amp; Duck Publications, 2008); “[Singapore XI for Today’s Soccer Match with Tourists](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19380130-1.2.189),”&nbsp;_Straits Times_, 30 January 1938, 25. (From NewspaperSG)&nbsp;
 
-[^10]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87)”; Rob Cavallini and Colin Duncan, _Around the World in 95 Games: The Amazing Story of Islington Corinthians 1937–38 World Tour_ (UK: Dog &amp; Duck Publications, 2008); “[Singapore XI for Today's Soccer Match with Tourists](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19380130-1.2.189),” _Straits Times_, 30 January 1938, 25. (From NewspaperSG)
+[^11]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87).”&nbsp;
 
-[^11]: “[Fifteen Years in the Forefront](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470817-1.2.87).”
+[^12]: “[Malaya Cup Match Abandoned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300901-1.2.87),”&nbsp;_Straits Times_, 1 September 1930, 18;&nbsp;“[Singapore Regain Malaya Cup](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300922-1.2.87.1),”&nbsp;_Straits Times_, 22 September 1930, 13.&nbsp;(From NewspaperSG)&nbsp;
 
-[^12]: “[Malaya Cup Match Abandoned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300901-1.2.87),”&nbsp;_Straits Times_, 1 September 1930, 18;&nbsp;“[Singapore Regain Malaya Cup](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300922-1.2.87.1),”&nbsp;_Straits Times_, 22 September 1930, 13.&nbsp;(From NewspaperSG)
+[^13]: “[Thumb-nail Sketches of China Olympic Soccer Team](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19360619-1.2.16),”&nbsp;_Pinang Gazette and Straits Chronicle_, 19 June 1936, 3. (From NewspaperSG)&nbsp;
 
-[^13]: “[Thumb-nail Sketches of China Olympic Soccer Team](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19360619-1.2.16),” _Pinang Gazette and Straits Chronicle_, 19 June 1936, 3. (From NewspaperSG)
+[^14]: Hermes, “[China Olympics’ Fine Football](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19360515-1.2.116),”&nbsp;_Morning Tribune_, 15 May 1936, 24. (From NewspaperSG)&nbsp;
 
-[^14]: Hermes, “[China Olympics' Fine Football](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19360515-1.2.116),” _Morning Tribune_, 15 May 1936, 24. (From NewspaperSG)
+[^15]: “[In the Sporting Limelight: Cheong Chee Lim](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19331022-1.2.28),” _Straits Times_, 22 October 1933, 5. (From NewspaperSG)
 
-[^15]: “[S’pore Soccer’s Biggest Rush for Players Is On](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480224-1.2.85),” _Malaya Tribune_, 24 February 1948, 7. (From Newspaper SG)
+[^16]: “[In the Sporting Limelight: Cheong Chee Lim](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19331022-1.2.28).”
 
-[^16]: Ken Fernandez, “[First Job Will Be to Tour States](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580131-1.2.154),” _Straits Times_, 31 January 1958, 16; Philip Tan and Terry Ang, “[FAS Takes Back Seng Quee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760902-1.2.5),” _New Nation_, 2 September 1976, 1. (From Newspaper SG)
+[^17]: “[Malaya Cup Final](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290902-1.2.104),” _Singapore Free Press and Mercantile Advertiser_, 2 September 1929, 16. (From NewspaperSG)
 
-[^17]: Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),” _Straits Times_, 29 May 1977. (From NewspaperSG)
+[^18]: “[Local Cricket](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300402-1.2.92),” _Straits Times_, 2 April 1930, 13. (From NewspaperSG)
 
-[^18]: “[Farewell to a Legend](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761006-1.2.122),” _Straits Times_, 6 October 1976, 27. (From NewspaperSG)
+[^19]: “[Soccer Legend Dies of a Heart Attack](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19931202-1.2.67.11),” _Straits Times_, 2 December 1993, 31. (From NewspaperSG)
 
-[^19]: “[Malayan Chinese at the Olympic Games in Berlin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360802-1.2.131),” _Straits Times_, 2 August 1936, 22. (From NewspaperSG)
+[^20]: “[Local Footballers to Represent China at Olympic Games](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360214-1.2.45),” _Singapore Free Press and Mercantile Advertiser_, 14 February 1936, 7. (From NewspaperSG)
 
-[^20]: “[Singapore Chinese Athletic Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19310228-1.2.22),” _Malayan Saturday Post_, 28 February 1931, 8. (From NewspaperSG)
+[^21]: “[S’pore Soccer’s Biggest Rush for Players Is On](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480224-1.2.85),”&nbsp;_Malaya Tribune_, 24 February 1948, 7. (From Newspaper SG)&nbsp;
 
-[^21]: “[Singapore Teams for Malayan Chinese Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370715-1.2.97),” _Straits Times_, 15 July 1937, 15; “[Billiards](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320512-1.2.100),” _Singapore Free Press and Mercantile Advertiser_, 12 May 1932, 16. (From NewspaperSG)
+[^22]: Ken Fernandez, “[First Job Will Be to Tour States](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580131-1.2.154),”&nbsp;_Straits Times_, 31 January 1958, 16; Philip Tan and Terry Ang, “[FAS Takes Back Seng Quee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760902-1.2.5),”&nbsp;_New Nation_, 2 September 1976, 1. (From Newspaper SG)
 
-[^22]: “[The Legend Lives On](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19821030-1.2.47.15),” _New Nation_, 30 October 1982, 36; “[Soccer Stalwarts of 2 Decades](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470508-1.2.37.16),” _Singapore Free Press_, 8 May 1947, 7. (From NewspaperSG)
+[^23]: Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),”&nbsp;_Straits Times_, 29 May 1977. (From NewspaperSG)
 
-[^23]: “[Malaya Cup](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250831-1.2.102)” _Singapore Free Press and Mercantile Advertiser_, 31 August 1925, 16. (From NewspaperSG)
+[^24]: Sonny Yap, “[Happy Birthday...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1),” _New Nation_, 13 June 1975, 10–11. (From NewspaperSG)
 
-[^24]: Chia Keng Hock, “[Soccer Stalwarts of 2 Decades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470508-1.2.37.16),” _Singapore Free Press_, 8 May 1947, 7. (From NewspaperSG)
+[^25]: “[Singapore Win Malaya Cup](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300922-1.2.117),” _Singapore Free Press and Mercantile Advertiser_, 22 September 1930, 10; “[Choy Showed Way to Victory in This Malaya Cup Final](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.2),” _New Nation_, 13 June 1975, 10–11. (From NewspaperSG)
 
-[^25]: “[Mat Noor – the Idol of Football Fans](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19331105-1.2.37),” _Straits Times_, 5 November 1933, 5. (From NewspaperSG)
+[^26]: Yap, “[Happy Birthday...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1)”
 
-[^26]: S. Gulam, “[Little Man with the Mighty Lead](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19830920-2.2.43.5),” _Singapore Monitor_, 20 September 1983. 40. (From NewspaperSG)
+[^27]: “[SCFA to Play Negri Saturday](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560515-1.2.150),” _Straits Times_, 15 May 1956, 14; Yap, “[Happy Birthday...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1)”)
 
-[^27]: “[Singapore’s 8–2 Triumph in Malaya Cup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330806-1.2.2),”&nbsp;_Sunday Times_, 6 August 1933, 1; “[Suspended Malaya Players](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19340721-1.2.163),” _Malaya Tribune_, 21 July 1934, 17. (From NewspaperSG)
+[^28]: “[Farewell to a Legend](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761006-1.2.122),”&nbsp;_Straits Times_, 6 October 1976, 27. (From NewspaperSG)&nbsp;
 
-[^28]: “[Fullback with Wings](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750425-1.2.20.1.1),” _New Nation_, 25 April 1975, 10–11. (From NewspaperSG)
+[^29]: “[Malayan Chinese at the Olympic Games in Berlin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360802-1.2.131),”&nbsp;_Straits Times_, 2 August 1936, 22. (From NewspaperSG)&nbsp;
 
-[^29]: “[Soccer's Great Days](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750425-1.2.18),” _Straits Times_, 25 April 1975, 1. (From NewspaperSG)
+[^30]: [Singapore Chinese Athletic Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19310228-1.2.22),”&nbsp;_Malayan Saturday Post_, 28 February 1931, 8. (From NewspaperSG)&nbsp;
 
-[^30]: “[Sports and Pastimes](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220906-1.2.54),” _Malaya Tribune_, 6 September 1922, 8; “[S.C.C. Spring Tennis Tournament: Result of Mixed Doubles](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350529-1.2.119),” _Malaya Tribune_, 29 May 1935, 15. (From NewspaperSG)M
+[^31]: “[Singapore Teams for Malayan Chinese Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370715-1.2.97),”&nbsp;_Straits Times_, 15 July 1937, 15; [Billiards](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320512-1.2.100),”&nbsp;_Singapore Free Press and Mercantile Advertiser_, 12 May 1932, 16. (From NewspaperSG)&nbsp;
 
-[^31]: Nick Aplin, [_Sport in Singapore: The Colonial Legacy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203990042) (Singapore: Straits Times Press, 2019), 139–40. (From National Library, Singapore, call no. RSING 796.095957 APL)
+[^32]: “[Malaya Cup Final](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19230827-1.2.72),” _Straits Times_, 27 August 1923, 10. (From NewspaperSG)
 
-[^32]: “[Malayan Chinese at the Olympic Games in Berlin](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360802-1.2.131),” _Sunday Times_, 2 August 1936, 22. (From NewspaperSG)
+[^33]: “[Selangor Win Malaya Cup](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560902-1.2.161),” _Straits Times_, 2 September 1956, 24; Sonny Yap, “[It's Fabulous Fun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750328-1.2.20.1),” _New Nation_, 28 March 1975, 10–11. (From NewspaperSG)
 
-[^33]: “[Quee Liang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340109-1.2.125),” _Malaya Tribune_, 9 January 1934, 12. (From NewspaperSG)
+[^34]: Yap, “[It's Fabulous Fun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750328-1.2.20.1).”
 
-[^34]: “Zheng Jiliang: Biographical Information,” Olympedia, last accessed 24 June 2023, https://www.olympedia.org/athletes/701215.
+[^35]: “[The Legend Lives On](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19821030-1.2.47.15),”&nbsp;_New Nation_, 30 October 1982, 36; “[Soccer Stalwarts of 2 Decades](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470508-1.2.37.16),”&nbsp;_Singapore Free Press_, 8 May 1947, 7. (From NewspaperSG)&nbsp;
+
+[^36]: “[Malaya Cup](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19250831-1.2.102)”&nbsp;_Singapore Free Press and Mercantile Advertiser_, 31 August 1925, 16. (From NewspaperSG)&nbsp;
+
+[^37]: Chia Keng Hock, “[Soccer Stalwarts of 2 Decades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470508-1.2.37.16),”&nbsp;_Singapore Free Press_, 8 May 1947, 7. (From NewspaperSG)&nbsp;
+
+[^38]: “[Mat Noor – the Idol of Football Fans](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19331105-1.2.37),”&nbsp;_Straits Times_, 5 November 1933, 5. (From NewspaperSG)&nbsp;
+
+[^39]: S. Gulam, “[Little Man with the Mighty Lead](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19830920-2.2.43.5),”&nbsp;_Singapore Monitor_, 20 September 1983. 40. (From NewspaperSG)&nbsp;
+
+[^40]: “[Singapore’s 8–2 Triumph in Malaya Cup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330806-1.2.2),”&nbsp;_Sunday Times_, 6 August 1933, 1; “[Suspended Malaya Players](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19340721-1.2.163),”&nbsp;_Malaya Tribune_, 21 July 1934, 17. (From NewspaperSG)&nbsp;
+
+[^41]: “[Fullback with Wings](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750425-1.2.20.1.1),”&nbsp;_New Nation_, 25 April 1975, 10–11. (From NewspaperSG)&nbsp;
+
+[^42]: “[Soccer’s Great Days](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750425-1.2.18),”&nbsp;_Straits Times_, 25 April 1975, 1. (From NewspaperSG)&nbsp;
+
+[^43]: “[Sports and Pastimes](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220906-1.2.54),”&nbsp;_Malaya Tribune_, 6 September 1922, 8; “[S.C.C. Spring Tennis Tournament: Result of Mixed Doubles](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350529-1.2.119),”&nbsp;_Malaya Tribune_, 29 May 1935, 15. (From NewspaperSG)
+
+[^44]: Nick Aplin,&nbsp;[_Sport in Singapore: The Colonial Legacy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203990042)&nbsp;(Singapore: Straits Times Press, 2019), 139–40. (From National Library, Singapore, call no. RSING 796.095957 APL)&nbsp;
+
+[^45]: “[Malayan Chinese at the Olympic Games in Berlin](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360802-1.2.131),”&nbsp;_Sunday Times_, 2 August 1936, 22. (From NewspaperSG)&nbsp;
+
+[^46]: “[Quee Liang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340109-1.2.125),”&nbsp;_Malaya Tribune_, 9 January 1934, 12. (From NewspaperSG)&nbsp;
+
+[^47]: “Zheng Jiliang: Biographical Information,” Olympedia, last accessed 24 June 2023, https://www.olympedia.org/athletes/701215.&nbsp;
+
+[^48]: “[Malaya Cup Football](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290824-1.2.142),” _Singapore Free Press and Mercantile Advertiser_, 24 August 1929, 20. (From NewspaperSG
+
+[^49]: “[Opening of New Stadium](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19300102-1.2.80.1),” _Straits Budget_, 2 January 1930, 30. (From NewspaperSG)
+
+[^50]: “[Singapore Win Malaya Cup Final](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340805-1.2.112),” _Straits Times_, 5 August 1934, 17. (From NewspaperSG)
+
+[^51]: “[Malayan Chinese Olympics](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350715-1.2.124),” _Malaya Tribune_, 15 July 1935, 15. (From NewspaperSG)
