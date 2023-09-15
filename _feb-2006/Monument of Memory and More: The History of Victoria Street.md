@@ -103,6 +103,10 @@ Housing a wealth of knowledge, the new National Library is a large complex with 
 
 In the years to come, this new Library, on the historical Victoria Street, will continue to be, as it did at Stamford Road, an important institution of education and entertainment, and also a 'Monument of Memory' for the generations to come!
 
+<div>
+ <center><b>Leong Foke Meng</b><br>  Consultant<br>  Singapore Land Authority<br> Edited by Vernon Cornelius. </center></div>
+
+
 #### **FURTHER READING**
     
 Charles Burton Buckley, _[An Anecdotal History of Old Times in Singapore, 1819–1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)_ (Singapore: Oxford University Press, 1984). (Call no. RSING 959.57 BUC-\[HIS\]  
@@ -116,5 +120,3 @@ Containing more than 100 postcards, the publication takes the reader back to lif
 
 Ole Johan Dale, _[Urban Planning in Singapore: The Transformation of a City](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9146945)_ (Singapore: Oxford University Press, 1999). (Call no. 307.1216 DAL)  
 The book details the process of urban planning in Singapore by tracing its early growth on the banks of the Singapore River to its present structure. Through a historical and descriptive analysis of changes in economic activity and population and the role of government, the book evaluates the forces that have shaped the Central Area.
-
-
