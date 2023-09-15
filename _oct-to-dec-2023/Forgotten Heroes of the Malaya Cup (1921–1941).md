@@ -188,8 +188,9 @@ Born in Amoy (present-day Xiamen) in China, Chee Ah Hui came to Singapore in 192
 Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Shanghai, and joined the Canton Air Force in 1934.[^13] His greatest achievement was representing China at the 1936 Olympic Games in Berlin, playing against Great Britain. Enroute to Berlin, the Chinese team transited in Singapore where they played a match against the Singapore Amateur Football Association team, winning 4–0. Playing at centre-half, he apparently caught everyone’s attention.[^14]
 
 #### **Cheong Chee Lim**
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee_cropped.jpg">
-<div style="background-color: white;text-align:center">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
+
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/cheong%20chee%20lim.jpg" style="width:50%;">
+ <div style="background-color: white;">Cheong Chee Lim.<i> Image reproduced from “Last Week’s Football Match Between Hong Kong Chinese and Malayan Chinese,” Malayan Saturday Post, 25 May 1929, 7. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (3 wins)<br>Malaya Cup (1921–29)<br>Singapore Chinese Football Association (1917–33)<br>
 
@@ -198,8 +199,8 @@ Cheong Chee Lim was the only Chinese player to represent Singapore in the 1921 M
 Cheong missed the 1924 Malay Cup as the Singapore Chinese Football Association (SCFA) withdrew its team from the Singapore League to protest against a ruling by the Singapore Football Association that excluded SCFA players for selection.  He was a reserve in the 1928 match, but played in the 1929 final that ended in a 2–2 draw with Selangor.  
 
 #### **Chia Keng Hock**
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee_cropped.jpg">
-<div style="background-color: white;text-align:center">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chia%20keng%20hock.jpg" style="width:50%;">
+ <div style="background-color: white;">Chia Keng Hock.<i> Image reproduced from Nimrod, “Fate of Keng Hock Still Undecided,” Singapore Free Press and Mercantile Advertiser, 31 July 1936, 9. (From NewspaperSG).</i></div>
 
 5 appearances in the Malaya Cup Final (2 wins)<br> Malaya Cup (1931–36)<br>  St Joseph’s Old Boys Association<br> Straits Chinese Recreation Club<br> 
 
@@ -226,6 +227,11 @@ Choo retired from playing in 1948 and became a coach at the Singapore Chinese At
 One of Choo’s greatest achievements was guiding Singapore to win the Malaysia Cup in 1977, in a thrilling 3–2 defeat against Penang.[^17] Popularly known as Uncle Choo, he nurtured a generation of Singaporean footballers.
 
 #### **Choy Khun Onn (also spelled Choy Khoon Onn)**
+
+
+<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chia%20keng%20hock.jpg" style="width:50%;">
+ <div style="background-color: white;">Chia Keng Hock.<i> Image reproduced from Nimrod, “Fate of Keng Hock Still Undecided,” Singapore Free Press and Mercantile Advertiser, 31 July 1936, 9. (From NewspaperSG).</i></div>
+
 
 <img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choosengquee_cropped.jpg">
 <div style="background-color: white;text-align:center">Choo Seng Quee, 1939. <i>Courtesy of Singapore Sports Council.</i></div>
