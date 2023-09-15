@@ -49,5 +49,16 @@ In 1827, Andrew Farquhar became first appointed Coroner in Singapore but in Janu
 
 The Victoria site had a nutmeg plantation and Mrs Elizabeth Clark ran a boarding house there. Andrew C R Farquhar began as a clerk at Martin Dyce &amp; Co and Little Cursetjee &amp; Co. On a visit to Calcutta, India, he fell in love and got married there. In May 1854 he sold his property, and left Singapore for good. When Mrs Clark's second husband James passed on, she went to join her son in Calcutta, and in July 1867, died there.
 
+#### **Joseph M Cazalas's Property**
+John Henry Moor's other property at the Victoria site w as leased in October 1832 to Joseph M Cazalas, the first mechanical engineer in Singapore, and a Eurasian . It remained a betal-nut plantation until 1866, when Cazalas changed the land use and operated a metal foundry at Middle Road.
+
+Besides managing the foundry, J M Cazalas joined the Police in 1873 and served in the Voluntary Fire Brigade. In 1879 he mortgag ed his property to Seah Eu Chin. Seah, a wealthy merchant, owned numerous nutmeg and gambier plantations. Cazalas remained at Middle Road until 1885 when he died and his family sold the property to a Chinese owner in the name of Ban Hap Kongsi.
+
+#### **Properties of Charles Prince Holloway**
+Also part of the Victoria site was Lease 262, (22.52m2 / 242,400 sq ft) owned by the 40t h Bengal Native Infantry Regiment. In April 1827, it was sold to another Eurasian, Charles Prince Holloway. As there was an access lane to his property, it was convenient to name the small road, Holloway Lane, after him. In 1846, C P Holloway was in the Deputy Registrar of Imports and Exports at the Trade Department, and in 1853, he was transferred to the Marine Department. In 1860 he moved to Prinsep Street but the name Holloway Lane remain unchanged until the land was cleared in the mid-1970s. On 23 October 1966, Prime Minister Lee KuanYew officiated at the opening of the "Kheng Ngai Lee Clan Association '; possibly the only distinctive organisation in this little street.
+
+#### **Gilbert Angus Bain's Properties**
+In 1854, Charles Prince Holloway sold 5 subdivided land lots to Gilbert Angus Bain , a Eurasian from Lerwick, Shetland Islands. He came to Singapore in 1842, and first worked as a clerk, but was later made a partner in several European-owned companies, as well as Hoo Ah Kay's Whampoa &amp; Co. His younger brother Robert Bain worked in A L Johnston &amp; Co . The Ba in brothers were enterprising traders, especially Gilbert Angus Bain . He owned two large properties atTanjong Pagar, one known as Bain's Hill. When theTanjong Pagar Dockyard was constructed, he sold Bain's Hill, and then invested in a few other properties. His name is listed in quite a few land titles at the Singapore Land Authority.
+
 
 
