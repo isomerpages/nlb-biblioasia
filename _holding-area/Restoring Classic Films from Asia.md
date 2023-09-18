@@ -127,3 +127,34 @@ With film restoration being an expensive and laborious process, there may not al
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/chew%20tee%20pao.png">
 	<b>Chew Tee Pao</b> is Senior Archivist at the Asian Film Archive (AFA). Since 2014, he has overseen the restoration of more than 30 films from the AFA collection.</div>
+	
+	
+#### **Notes**
+
+[^1]: “Batch ’81 (1982),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/batch-81-1982/.
+ 
+[^2]: “Restored ‘Batch ’81’ to Close This Year’s QCinema Festival,” Interaksyon, 5 October 2017, https://interaksyon.philstar.com/entertainment/2017/10/05/101766/restored-batch-81-to-close-this-years-qcinema-festival/.
+ 
+[^3]: “Asian Restored Classics (2018),” Asian Film Archive, last accessed 25 August 2023, https://asianfilmarchive.org/event-calendar/asian-restored-classics-2018/.
+ 
+[^4]: Jerome Gomez, _Batch ’81: The Making of a Mike De Leon Film_ (Singapore: Asian Film Archive, 2017). (From PublicationSG)
+ 
+[^5]: For the restoration process, see Chew Tee Pao, “Money No Enough, Passion Needed Too:&nbsp; Restoring Classic Singaporean Films,” _BiblioAsia_ 19, no. 2 (July–September 2023): 20–27.
+
+[^6]: “Letter to an Angel (Surat Untuk Bidadari) (1994),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/letter-to-an-angel-1994/.
+
+[^7]: “Letter to an Angel (Surat Untuk Bidadari) (1994).”
+
+[^8]: Liz Shackleton, “Mouly Surya on Cannes title ‘Marlina the Murderer in Four Acts’,” Screen Daily, 24 May 2017, https://www.screendaily.com/features/mouly-surya-on-cannes-title-marlina-the-murderer-in-four-acts/5118425.article.
+
+[^9]: Thomas Barker, _Indonesian Cinema After the New Order: Going Mainstream_ (Hong Kong: Hong Kong University Press, 2019), 39, 41. (From National Library, Singapore, call no. RSEA 792.4309598 BAR)
+
+[^10]: Garin Nugroho, email correspondence, 23 July 2019.
+
+[^11]: Barker, _Indonesian Cinema After the New Order: Going Mainstream_, 41.
+
+[^12]: Garin Nugroho, post-screening discussion, 8 September 2019.
+
+[^13]: Chew Tee Pao, “Restoring _Bambaru Avith_ (The Wasps Are Here),” Asian Film Archive, 16 June 2021, https://asianfilmarchive.org/restoring-bambaru-avith-the-wasps-are-here/.
+
+[^14]: Susitha Fernando, “‘Bambaru Avith’ in Cannes Classics,” _The Sunday Times_, 2 August 2020, https://www.sundaytimes.lk/200802/magazine/bambaru-avith-in-cannes-classics-410914.html.
