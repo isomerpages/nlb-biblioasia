@@ -19,7 +19,13 @@ The goddess was well-known in the neighbourhood. Residents referred to the lower
 
 This is a shame. Lin Guniang – also known as Hongshan Lin Guniang (红山林姑娘), or Maiden Lim of Redhill – is an example of a uniquely Singaporean Taoist folk goddess. Her legends and ritual traditions began not in China, Hong Kong or Taiwan, but on this very island.
 
-The notion of a homegrown goddess may sound bizarre. In fact, several such deities exist. By far the most famous is the German Girl of Pulau Ubin, also known as Nadu Guniang (拿督姑娘), recently written about by William L. Gibson for *BiblioAsia*.[^3] Photographer Ronni Pinsler has documented at least half a dozen more on his Facebook group “Local Gods & Their Legends”[^4] and on his website, “The Book of Xian Shen”.[^5]
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/taoist-folk-goddesses-singapore/">Taoist Folk Goddesses of Singapore
+</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+
+The notion of a homegrown goddess may sound bizarre. In fact, several such deities exist. By far the most famous is the German Girl of Pulau Ubin, also known as Nadu Guniang (拿督姑娘), recently written about by William L. Gibson for *BiblioAsia*.[^3] Photographer Ronni Pinsler has documented at least half a dozen more on his Facebook group “Local Gods &amp; Their Legends”[^4] and on his website, “The Book of Xian Shen”.[^5]
 
 In this essay, we will look at three homegrown goddesses, all based in the heartland of Singapore’s south. Their names are Lin Guniang, Lei Niangniang and Huang Guniang. Together, they have been dubbed by Taoist priest Jave Wu as “the three Immortal Maidens of Singapore”.[^6]
 
@@ -131,7 +137,7 @@ This essay is by no means a comprehensive survey of Singapore’s homegrown Taoi
 
 So far, most of the research into these local gods and goddesses has been conducted by passionate amateurs such as Ronni Pinsler, Jave Wu and Victor Yue. More formal scholarship is needed, not only to record the names and stories of these deities, but also to better grasp their place in Southeast Asian culture. What sense can we make of the parallels between their veneration and Malay *keramat* (shrine) worship?[^27] What parallels can we draw with other gods of the regional Chinese diaspora, such as Tua Pek Kong (Da Bogong; 大伯公), with his origins in Penang?[^28]
 
-In saying this, I do not mean to downplay the contributions of non-academics in this field. On platforms such as the “Local Gods & Their Legends” and “Taoism Singapore” Facebook groups, aficionados share knowledge about ritual practices across the region.[^29] Here, we share recollections of forgotten deities and learn about those still worshipped in our midst. Regardless of whether we are believers, sceptics or just agnostic, we work to keep our sacred heritage alive.
+In saying this, I do not mean to downplay the contributions of non-academics in this field. On platforms such as the “Local Gods &amp; Their Legends” and “Taoism Singapore” Facebook groups, aficionados share knowledge about ritual practices across the region.[^29] Here, we share recollections of forgotten deities and learn about those still worshipped in our midst. Regardless of whether we are believers, sceptics or just agnostic, we work to keep our sacred heritage alive.
 
 Lin Guniang, Lei Niangniang and Huang Guniang have not, in my opinion, been accorded the full respect they deserve. Over the decades, their congregations have dwindled, their shrines have been destroyed and their tales have been carelessly rewritten. 
 
@@ -140,8 +146,8 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">Besides the many individuals cited in the text and captions, I am also indebted to heritage activist Choo Lip Sin, who personally aided me with research and translation for this essay. </div>
 
 <div style="background-color: white;"> 
-<br/>
-<img src="/images/Vol%2018%20Issue%204/Authors/Ng_Yi-Sheng.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%204/Authors/Ng_Yi-Sheng.png" style="width: 100px; height: 100px;">
 	<b>Ng Yi-Sheng</b> is a poet, fictionist, playwright and researcher. His books include the debut poetry collection <i>last boy, A Book of Hims and Loud Poems for a Very Obliging Audience</i>, and the short story collection <i>Lion City</i>, which won the Singapore Literature Prize in 2020. He tweets and Instagrams at @yishkabob.</div>
 
 #### **NOTES**
@@ -152,13 +158,13 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 
 [^3]: William L. Gibson, “[Unravelling the Mystery of Ubin's German Girl Shrine](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine),” *BiblioAsia* 13, no. 3 (Oct–Dec 2021).
 
-[^4]: Ronni Pinsler, “Local Gods & Their Legends,” Facebook, accessed 27 September 2022, https://www.facebook.com/groups/localgods/posts/.
+[^4]: Ronni Pinsler, “Local Gods &amp; Their Legends,” Facebook, accessed 27 September 2022, https://www.facebook.com/groups/localgods/posts/.
 
 [^5]: Ronni Pinsler, “The Book of Xian Shen,” accessed 15 September 2022,  https://bookofxianshen.com/.
 
 [^6]: Jave Wu, “Story of Maiden Lim of Redhill (石叻坡傳奇之紅山林姑娘),” International LSM Taoist Cultural Collegium, 1 March 2013, http://javewutaoismplace.blogspot.com/2013/03/story-of-maiden-lim-of-redhill.html. 
 
-[^7]: Zhen Long Gong (Chin Leng Keng) is made up of four temples: Leng San Teng, Chin Lin Keng, Kai Kok Tien and Ban Sian Beo. The four temples were affected by urban redevelopment in the early 1970s. They came together in 1976 to lease the current site for the construction of Zhen Long Gong, which was completed in 1978.
+[^7]: Zhen Long Gong (Chin Leng Keng) is made up of four temples: Leng San Teng,&nbsp;Chin Lin Keng,&nbsp;Kai Kok Tien&nbsp;and&nbsp;Ban Sian Beo. The four temples were affected by urban redevelopment in the early 1970s. They came together in 1976 to lease the current site for the construction of Zhen Long Gong, which was completed in 1978.
 
 [^8]: Huang Ya Hong, interview, Zhen Long Gong, 20 June 2022.
 
@@ -168,7 +174,7 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 
 [^11]: Wu, “Story of Maiden Lim.” 
 
-[^12]: There is in fact some evidence for Lin Guniang’s reputation as a healer. According to historian Tai Wei Lim, elderly taxi drivers in the neighbourhood agree that she “has special Shamanistic healing powers and even [helps] out at traditional Chinese medicine institutions”. Is this entirely based on the 1998 TV serial, or are they citing deeper memories? See Lim Tai-Wei, [*Cultural Heritage and Peripheral Spaces in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204486140) (Singapore: Palgrave Macmillian, 2017), 68. (From National Library, Singapore, call no. RSING 363.69095957 LIM)
+[^12]: There is in fact some evidence for Lin Guniang’s reputation as a healer. According to historian Tai Wei Lim, elderly taxi drivers in the neighbourhood agree that she “has special Shamanistic healing powers and even [helps] out at traditional Chinese medicine institutions”. Is this entirely based on the 1998 TV serial, or are they citing deeper memories? See Lim Tai-Wei, [*Cultural Heritage and Peripheral Spaces in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204486140) (Singapore: Palgrave Macmillian, 2017), 68. (From National Library, Singapore, call no. RSING 363.69095957 LIM)
 
 [^13]: Still other variations of Lin Guniang’s origin myth exist. My mother, for instance, says her own mother shared a version in which Lin Guniang was the victim of sexual violence. Ng Gim Choo, interview, 26 July 2022.
 
@@ -190,7 +196,7 @@ Nevertheless, their existence remains an inspiration. They serve as proof that S
 
 [^22]: Xiao Jiahui 萧佳慧 and Pan Wanli潘万莉, “Sheishi Huang Guniang? Jumin jiemituan,” 谁是黄姑娘? 居民揭谜团 [Who is Miss Huang? Residents reveal the mystery], *Xinmin Ribao* 新民日报, 7 September 2017, 4. 
 
-[^23]: 萧佳慧 and 潘万莉, 谁是黄姑娘? 居民揭谜团 \[Who is Miss Huang? Residents reveal the mystery\].
+[^23]: 萧佳慧&nbsp;and&nbsp;潘万莉,&nbsp;谁是黄姑娘?&nbsp;居民揭谜团&nbsp;\[Who is Miss Huang? Residents reveal the mystery\].
 
 [^24]: Wu, “Introduction on Nanyang Huang Gu Niang.”
 
