@@ -18,6 +18,12 @@ The *keramat* on Kusu Island is a popular pilgrimage spot with thousands of devo
 
 Sunny Kusu Island – little more than a dome-shaped granite outcropping connected by a mud flat to a narrow rocky protrusion to the north, and surrounded by shallow reefs – was both an important navigation mark as well as a shipping hazard in the days of sail. 
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/keramat-kusu/">The Stories Behind the Shrines on Kusu Island
+</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+
 Around 1822, the British erected a signal on the island and as a result, the earliest maps of Singapore refer to it as “Signal Island”. The island was later renamed “Peak Island” and sometime in 1877, a brick obelisk harbour marker was erected on its south shore.[^2] 
 
 The Malay name for the island is Pulau Tembakul, which means "mudskipper island”, either because mudskippers were once abundant on the mud flats or because in profile the island, with its bulbous head and narrow fin-like tail, resembles a mudskipper. “Kusu”, which means “turtle” in Hokkien, likely comes from the dome shape of the island resembling a turtle shell.
@@ -52,7 +58,7 @@ More early details about the pilgrims who visited Kusu come courtesy of a report
 <div style="background-color: white;">The earliest known photograph of the <i>keramat</i>, c. 1930. The white-washed brick-and-mortar pillars seen here survived the 2022 fire. <i>Photo by Lim Lam San (Oct 1902–Sep 1990). Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 ![](/images/Vol%2018%20Issue%204/Keramat%20Kusu/image4.png)
-<div style="background-color: white;">A Chinese couple at the shrine of Dato Syed Abdul Rahman, 1990. They are standing at the same spot as the group in the c. 1930 photograph above. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">A Chinese couple at the shrine of Dato Syed Abdul Rahman, 1990. They are standing at the same spot as the group in the c. 1930 photograph&nbsp;above.&nbsp;<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
 The *keramat* was enlarged in the early 20th century. There are two plaques on the site, one in Baba Malay and Jawi dated 1917 and the other in Hokkien Chinese dated 1921. The Baba Malay plaque is dedicated to “Dato Nenek Kusu” and was emplaced by Baba Hoe Beng Whatt, a Peranakan (Straits Chinese). It includes a list of Baba Chinese who donated money to erect the shrine. The 1921 plaque also bears the names of donors to the shrines, many of whom were the same people who had donated earlier. The text on the plaque mentions that the “old fairy of Kusu Island” (龟屿老仙女) visited Hoe’s house with a child. The second plaque indicates that the shrine was expanded again in 1921.
@@ -124,7 +130,7 @@ The pilgrimages to Kusu continued unabated over the decades and a routine had be
 
 The blaze on 17 April 2022, however, threatened to put an end to the rituals. The fire broke out on a Sunday evening, at about 6.20 pm, and was eventually put out by firefighters after about an hour, aided by heavy rain. While no lives were lost, the *keramat* was almost completely destroyed. The fire’s cause was not determined, but lit candles and incense are often left unattended there.
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/RnhFPr9544U?start=25" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/RnhFPr9544U?start=25" frameborder="0" allowfullscreen=""></iframe></div>
 
 A month after the conflagration, it was announced that the *keramat* would be rebuilt at a cost of hundreds of thousands of dollars, in time for the Double Ninth Festival.[^20]  In early September 2022, the *Straits Times* quoted the shrine’s caretaker, Ishak Samsudin, as saying that the *keramat* was about 70 percent rebuilt by then, and would “likely be ready” in time for the pilgrimage season at the end of September. Ishak told the newspaper that he had financed the reconstruction with donations from friends and companies.[^21] 
 
@@ -144,9 +150,9 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author thanks Hikari D. Azyure and the Urban Explorers of Singapore. </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%204/Authors/William_Gibson.png" style="width: 100px; height: 100px;"/>
-	<b>Dr William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. His research topic for the Lee Kong Chian Research Fellowship, awarded by the National Library Board in 2021, was an in-depth study of <i>keramat</i> in Singapore. His book <i>Alfred Raquez and the French Experience of the Far East, 1898–1906</i> (2021) is published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in <i>Signal to Noise</i>, PopMatters.com, <i>The Mekong Review, Archipel, History and Anthropology</i>, the <i>Bulletin de l’École française d’Extrême-Orient</i> and <i>BiblioAsia,</i> among others.</div>
+<br>
+<img src="/images/Vol%2018%20Issue%204/Authors/William_Gibson.png" style="width: 100px; height: 100px;">
+	<b>Dr William L. Gibson</b>&nbsp;is an author and researcher based in Southeast Asia since 2005. His research topic for the Lee Kong Chian Research Fellowship, awarded by the National Library Board in 2021, was an in-depth study of <i>keramat</i> in Singapore. His book&nbsp;<i>Alfred Raquez and the French Experience of the Far East, 1898–1906</i>&nbsp;(2021) is published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in&nbsp;<i>Signal to Noise</i>, PopMatters.com,&nbsp;<i>The Mekong Review,&nbsp;Archipel,&nbsp;History and Anthropology</i>, the&nbsp;<i>Bulletin de l’École française d’Extrême-Orient</i>&nbsp;and&nbsp;<i>BiblioAsia,</i> among others.</div>
 
 #### **NOTES**
 
@@ -170,7 +176,7 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^10]: “[Chinese Topics in Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321020-1.2.88),” *Straits Times*, 20 October 1932, 19. (From NewspaperSG)
 
-[^11]: See, for example, Catherine G.S. Lim, [*Legendary Tales of Singapore* ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986545)(Singapore: AsiaPac Books, 2020). (From National Library, Singapore, call no. YRSING 398.2095957 LIM)
+[^11]: See, for example, Catherine G.S. Lim, [*Legendary Tales of Singapore* ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203986545)(Singapore: AsiaPac Books, 2020). (From National Library, Singapore, call no. YRSING 398.2095957 LIM)
 
 [^12]: “[Chinese Topics in Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321020-1.2.88).”
 
@@ -180,11 +186,11 @@ Unfortunately, the 1917 dedication plaques were badly damaged and poorly restore
 
 [^15]: A.J. Anthony, “[A Picnic… With the Harbour Gods](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stannual19520101-1.2.18),” *Straits Times Annual*, 	1 January 1952, 26–27. (From NewspaperSG). The article also states that the *keramat* bore the date 1889. This date was not evident when I visited the shrine and does not accord with the information provided by Song Ong Siang that the *keramat* was active prior to 1875. Remarkably, an article published in the *Straits Times Annual* in 1970 under the same title repeated nearly verbatim the text from the 1952 article, though this time under a different author’s name – Goh Tuck Chiang.
 
-[^16]: “Singapore’s Kusu Island,” [*Asia Magazine*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=2282509) (16 September 1973), 18–19. (From National Library, Singapore, call no. RUR q950.05 AM)
+[^16]: “Singapore’s Kusu Island,” [*Asia Magazine*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=2282509) (16 September 1973), 18–19. (From National Library, Singapore, call no. RUR q950.05 AM)
 
 [^17]: Jack Chia Meng-Tat, “Managing the Tortoise Island: Tua Peh Kong Temple, Pilgrimage, and Social Change in Pulau Kusu, 1965–2007,” *New Zealand Journal of Asian Studies* 11, no. 2 (December 2009): 72–95, https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/jas_dec2009_chia.pdf.
 
-[^18]: Sentosa Development Corporation (Singapore), [*Annual Report 1976*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3547719) (Singapore: Sentosa Development Corporation, 1977), 11 (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR); Sentosa Development Corporation (Singapore), [*Annual Report 1977*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3547719) (Singapore: Sentosa Development Corporation, 1978), 14. (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR)
+[^18]: Sentosa Development Corporation (Singapore), [*Annual Report 1976*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=3547719) (Singapore: Sentosa Development Corporation, 1977), 11 (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR); Sentosa Development Corporation (Singapore), [*Annual Report 1977*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=3547719) (Singapore: Sentosa Development Corporation, 1978), 14. (From National Library, Singapore, call no. RLCOS 354.5957092 SDCAR)
 
 [^19]: Francis Chin, “[Kusu’s Little Kramat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19791104-1.2.5),” *New Nation*, 4 November 1979, 2. (From NewspaperSG)
 
