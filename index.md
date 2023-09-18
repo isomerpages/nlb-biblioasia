@@ -737,4 +737,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: The Curious Visit of Qing Ambassadors to Singapore
+      subtitle: Add an image and text
+      id: infopic
+      description: The visit by Qing officials to Singapore in 1876 led to the
+        establishment of the first Chinese consulate here a year later.
+      button: A Forgotten Encounter
+      url: /vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/
+      image: /images/Vol 19 Issue 4/1   Qing Ambassadors/qing_homepage v2.png
+      alt: Image alt text
 ---
