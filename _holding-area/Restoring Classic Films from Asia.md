@@ -122,3 +122,8 @@ In 2021, the AFA embarked on the digitisation of the prints of _Soldadu Unnahe_ 
 <div style="background-color: white;"> A frame from <i>Ponmani</i> showing the mould infection. <i>Courtesy of Asian Film Archive.</i> </div>
 
 With film restoration being an expensive and laborious process, there may not always be funding to restore a film. In the meantime, there is a greater number of films that are lost when they are not being preserved. My hope is that more filmmakers will realise the importance of entrusting and preserving their films with a film archive as soon as possible, and not wait until the films have deteriorated to a point that only restoration can help salvage them, if these are even salvageable at all. This is how we have lost many valuable classic films.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/chew%20tee%20pao.png">
+	<b>Chew Tee Pao</b> is Senior Archivist at the Asian Film Archive (AFA). Since 2014, he has overseen the restoration of more than 30 films from the AFA collection.</div>
