@@ -56,7 +56,7 @@ The original film was never commercially released within the country but won cri
 A landmark work in Indonesian cinema, _Surat Untuk Bidadari_ has been an inspiration to newer generations of Indonesian filmmakers. Most notably, its screenplay provided Mouly Surya, another Indonesian director, with the premise for her widely acclaimed hit, _Marlina the Murderer in Four Acts_ (2017), which premiered in the Directors' Fortnight section of the 2017 Cannes Film Festival.[^8]
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/itaa_image%208.png)
-<div style="background-color: white;">A still from Garin Nugroho's <i>Surat Untuk Bidadari</i>. Made with extensive cooperation from the local population, the rituals and ceremonies performed by the villagers in the film were real. <i>Courtesy of Garin Nugroho.</i> </div>
+<div style="background-color: white;"> A still from the print of <i>Surat Untuk Bidadari</i> from The Japan Foundation. The Japanese print is a complete version of the film and used as a secondary source to the Indonesian print as it contained burnt-in English and Japanese subtitles. <i>Courtesy of Garin Nugroho.</i> </div>
 
 
 In July 2016, I attended the 9th Biennial Association for Southeast Asian Cinemas Conference in Kuala Lumpur and had the opportunity to meet Garin Nugroho, who was a panellist at the conference. He shared with me that after the fall of the Suharto administration in 1998, the film laboratories that were associated with the administration closed and most of the original negatives and prints, including those of his early works, were either destroyed or lost.&nbsp;
