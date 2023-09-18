@@ -88,12 +88,12 @@ In 1822, the Portuguese Catholic priests obtained from Raffles land for a small 
 #### **Street Names**
 As seen in leases in which survey plans were attached, North Bridge Road and Middle Road were named in 1826 by Lieutenant Philip Jackson. George D Coleman's 1836 town plan and map retained these names.
 
-<img src="/images/vol-1-issue-2/Victoria%20Street/street%20names.jpg" style="width:80%;">
- <div style="background-color: white;"><i>Street Names of Singapore</i> gathers in a single volume all the street names in Singapore.  Featuring not only to tourist attractions, the book aslo includes the islands and the remote lanes of Singapore. All rights reserved. Who's Who Publishing, 2000.</div>
+<img src="/images/vol-1-issue-2/Victoria%20Street/coleman%20town%20plan.jpg" style="width:80%;">
+ <div style="background-color: white;">Coleman's Town Plan and Map.</div>
  
 Coleman used the name "Marbro Street'; for the street parallel to North Bridge Road wherea s Jackson had earlier named it Rochor Street in his 1823 Town Plan. According to Dr John Bastin "Marbro" was an abbreviated term used in honour of the Duke of Marlborough. The name may have changed a few times in the 19th century, but in 1848, "Victoria Street" and t he next street, "Queen Street" were named in honour of the much-loved Queen Victoria (1819–1901), to commemorate her 10th year reign as a British monarch.
 
-<img src="/images/vol-1-issue-2/Victoria%20Street/street%20names.jpg" style="width:80%;">
+<img src="/images/vol-1-issue-2/Victoria%20Street/street%20names.jpg" style="width:50%;">
  <div style="background-color: white;"><i>Street Names of Singapore</i> gathers in a single volume all the street names in Singapore.  Featuring not only to tourist attractions, the book aslo includes the islands and the remote lanes of Singapore. All rights reserved. Who's Who Publishing, 2000.</div>
 
 In 1887, the Collector of Land Revenue, Land Office, Mr H T Haughton mentioned that in accordance with Section 143 of the Municipal Ordinance, the Commissioners should introduce the dialect names of places in Singapore, as in many instances, these names historically reflected the character of the place. The names of both Bain Street and Holloway Lane in the Chinese Hokkien dialect were *Sek Kia Ni Lai Pai Twi Bin Hang* meaning "The lane opposite the Portuguese Church" (The term *Sek Kia Ni* is derived from the Malay word Serani meaning "Eurasian"). The two names in Tamil *Pakku Thoppu* meant "Betel-nut garden".
