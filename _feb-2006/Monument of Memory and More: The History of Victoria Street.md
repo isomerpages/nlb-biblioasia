@@ -137,6 +137,11 @@ Opposite the Empress Hotel was St Anthony's Canossian Convent School, and next t
 By the late 1980s, hundreds of buildings owned by private owners in these areas were acquired and demolished. On the National Library site were two roads, Holloway Lane and Lorong Sidin, which were expunged to make way for comprehensive redevelopment. In 1980, at Bain Street and North Bridge Road, the first inkling of modernity to the area was the Bras Basah Complex with two 25-storey blocks HDB flats.
 
 #### **The National Library Today and Tomorrow**
+
+<img src="/images/vol-1-issue-2/Victoria%20Street/victoria%20street%202005.jpg" style="width:80%;">
+<div style="background-color: white;text-align:center">Victoria Street, 2005.  
+</div>
+
 A large 11.3 m2 (121,679 sq ft) site at 100 Victoria Street, the 'new' National Library opened its doors to the public on 22 July 2005, and was officially opened on 12 November 2005, by the President of Singapore S R Nathan.
 
 Housing a wealth of knowledge, the new National Library is a large complex with 16 levels of floor space, abundant with local and international information resources, plus the extensive Singapore and Southeast Asian Collections of the Lee Kong Chian Reference Library. 
