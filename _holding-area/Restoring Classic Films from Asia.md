@@ -94,7 +94,7 @@ The AFA’s first encounter with the works of Pathiraja was serendipitous. In 20
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_aft_image%203.png)
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_bef0_image%206.png)
-<div style="background-color: white;"> A total of 14 shots and 4,500 frames (approximately 3 minutes, 7 seconds) were missing from the print from Sinematek Indonesia, and had to be reconstructed using the Japanese print as a reference. For example, this still showing the lead character burning the letters he had seized from the postman was missing. <i>Courtesy of Garin Nugroho.</i> </div>
+<div style="background-color: white;"> Image comparisons showing the before-and-after restoration of <i>Bambaru Avith</i>. <i>Courtesy of Asian Film Archive.</i></div>
 
 
 Set in the northern city of Jaffna, Pathiraja’s only Tamil-language film, _Ponmani,_ traces the fortunes and concerns of an economically depleted upper caste, lower middle-class family. Ponmani, the youngest daughter in the family has to wait until the marriage of the middle daughter, Saraoja, before she can escape from her life in the home. She falls in love with a boy from a lower fisherman caste but learns that her family has no money to pay for Saraoja’s dowry.
