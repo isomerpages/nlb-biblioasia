@@ -47,7 +47,7 @@ In 2019, as the work to restore _They Call Her… Cleopatra Wong_ got underway,[
 
 The film is about Lewa, a boy who believes in an angel that looks after the earth. Having lost his mother early, Lewa writes to the angel for answers, but is frustrated by the lack of reply. The film is notable for being the first to be shot on Sumba, one of the islands in the Nusa Tenggara, stretching from Bali to Timor. It was one of the last bastions of pre-Hindu animism. Adapting a story banned under the administration of Suharto during the New Order (1966–98), the film depicts a traditional Indonesian society at odds with modernity.[^6]
 
-![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_19_0_images%201.png)
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/letter_04_image%207.png)
 <div style="background-color: white;">A still from Garin Nugroho's <i>Surat Untuk Bidadari</i>. Made with extensive cooperation from the local population, the rituals and ceremonies performed by the villagers in the film were real. <i>Courtesy of Garin Nugroho.</i> </div>
 
 
