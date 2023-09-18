@@ -91,7 +91,7 @@ As seen in leases in which survey plans were attached, North Bridge Road and Mid
 <img src="/images/vol-1-issue-2/Victoria%20Street/coleman%20town%20plan.jpg" style="width:80%;">
  <div style="background-color: white;">Coleman's Town Plan and Map.</div>
  
-Coleman used the name "Marbro Street'; for the street parallel to North Bridge Road wherea s Jackson had earlier named it Rochor Street in his 1823 Town Plan. According to Dr John Bastin "Marbro" was an abbreviated term used in honour of the Duke of Marlborough. The name may have changed a few times in the 19th century, but in 1848, "Victoria Street" and t he next street, "Queen Street" were named in honour of the much-loved Queen Victoria (1819–1901), to commemorate her 10th year reign as a British monarch.
+Coleman used the name 'Marbro Street'; for the street parallel to North Bridge Road wherea s Jackson had earlier named it Rochor Street in his 1823 Town Plan. According to Dr John Bastin "Marbro" was an abbreviated term used in honour of the Duke of Marlborough. The name may have changed a few times in the 19th century, but in 1848, "Victoria Street" and t he next street, "Queen Street" were named in honour of the much-loved Queen Victoria (1819–1901), to commemorate her 10th year reign as a British monarch.
 
 <img src="/images/vol-1-issue-2/Victoria%20Street/street%20names.jpg" style="width:50%;">
  <div style="background-color: white;"><i>Street Names of Singapore</i> gathers in a single volume all the street names in Singapore.  Featuring not only to tourist attractions, the book aslo includes the islands and the remote lanes of Singapore. All rights reserved. Who's Who Publishing, 2000.</div>
@@ -99,7 +99,7 @@ Coleman used the name "Marbro Street'; for the street parallel to North Bridge R
 In 1887, the Collector of Land Revenue, Land Office, Mr H T Haughton mentioned that in accordance with Section 143 of the Municipal Ordinance, the Commissioners should introduce the dialect names of places in Singapore, as in many instances, these names historically reflected the character of the place. The names of both Bain Street and Holloway Lane in the Chinese Hokkien dialect were *Sek Kia Ni Lai Pai Twi Bin Hang* meaning "The lane opposite the Portuguese Church" (The term *Sek Kia Ni* is derived from the Malay word Serani meaning "Eurasian"). The two names in Tamil *Pakku Thoppu* meant "Betel-nut garden".
 
 #### **Building Layout of the Vicinity**
-In the late 19th century with increasing immigrants settling in Singapore, the town expa nded . Singapore's entrepot and change of land use resulted in intensive use of shophouses in the town. The old houses were gradua lly demolished and there were no more plantations. 
+In the late 19th century with increasing immigrants settling in Singapore, the town expanded . Singapore's entrepot and change of land use resulted in intensive use of shophouses in the town. The old houses were gradua lly demolished and there were no more plantations. 
 
 In its place, shophouses of 2 to 3 storeys were built, the ground floor for shops and trades, and upper floors for residence . Roads w ere not affected by these developments, so their street names remained unchanged.
 
@@ -108,7 +108,7 @@ Japanese migrants had been in Singapore since the late 1800s until the outbreak 
 
 Most of the community settled along Middle Road and the streets adjoining it north and south, and their businesses and accommodation in shophouses extended to North Bridge Road and Victoria Street.
 
-Japanese of different professions and trades existed here. But the main concentration of their presence was at Middle Road , with their 'town centre' being where the Library now stands today. Business activities in the afea included a well-kn own textile store Echigoya &amp; Co., import and export traders, shoes shops, plloto studios, barbers, restaurants, bars, medical and dental clinics etc. Other institutions like the Japa nese Elementary School, the Japanese Association, the Japanese Club an d the Japanese Consulate, were just outside this area. The Middle Road area was called *Nihanjin machi* (or "Japanese town").The Chinese or Europeans usually referred to it as " Little Japan" or " Little Tokyo". 
+Japanese of different professions and trades existed here. But the main concentration of their presence was at Middle Road , with their 'town centre' being where the Library now stands today. Business activities in the afea included a well-kn own textile store Echigoya &amp; Co., import and export traders, shoes shops, plloto studios, barbers, restaurants, bars, medical and dental clinics etc. Other institutions like the Japanese Elementary School, the Japanese Association, the Japanese Club and the Japanese Consulate, were just outside this area. The Middle Road area was called *Nihanjin machi* (or "Japanese town").The Chinese or Europeans usually referred to it as " Little Japan" or " Little Tokyo". 
 
 Just before World War II , the Japanese left and returned to Japan.
 
