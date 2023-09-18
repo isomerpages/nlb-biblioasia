@@ -40,6 +40,7 @@ In September 2017, the restored _Batch ’81_ premiered at the Venice Classics s
 
 Launched in conjunction with the film’s restoration, the AFA published _Batch ’81: The Making of a Mike De Leon Film_ to document the history behind the making of the film.[^4] The publication was made possible with De Leon’s collection of related materials such as photographs and memorabilia, recollections from the director, his creative team, and the actors who played both pivotal and minor roles in the film.
 
+
 #### **Garin Nugroho’s Surat Untuk Bidadari**
 
 In 2019, as the work to restore _They Call Her… Cleopatra Wong_ got underway,[^5] the AFA was tackling another challenging restoration of an Indonesian film, _Surat Untuk Bidadari_ (_Letter to an Angel_, 1994). This is the second feature film of director Garin Nugroho, who is considered a pioneer for a new generation of Indonesian filmmakers of the 1990s.
