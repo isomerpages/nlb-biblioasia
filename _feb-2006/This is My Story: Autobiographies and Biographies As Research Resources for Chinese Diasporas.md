@@ -18,7 +18,7 @@ Hence, autobiographies and biographies involve a narration of self-identity in r
 
 An important value in an autobiography is the fact that it allows the reader to get into the inner world of the writer and have a glimpse of the life he constructed and believed. This offers great research values to those who are looking for information on the political, social and economic conditions of a certain era. For instance, in Ho Rih Hwa's *Eating Salt: An Autobiography*, he relates about his conflicting emotions regarding his self-identity when Singapore became independent. He mentions that his feelings of "patriotism bursting from within but no country to be patriotic to" was changed to "an overwhelming joy ... I finally had a nation to which I could feel I truly belonged, and it was up to me and to my fellow countrymen to make the independence a lasting one". In this particular instance, it gives the reader a sense of how a second generation Chinese Singaporean felt during that historic moment.
 
-<img src="/images/vol-1-issue-2/AutobiographiesBiographies/soldsilver.jpg" style="width:80%;">
+<img src="/images/vol-1-issue-2/AutobiographiesBiographies/soldsilver.jpg" style="width:40%;">
 <div style="background-color: white;"> <i> Sold for Silver</i> is an autobiography of a girl sold into slavery in Southeast Asia. She was freed later to be educated in a Mission School, but experienced and survived the horrors of the Japanese occupation. All Rights Reserved, Monsoon, 2004. 
 </div>
 
