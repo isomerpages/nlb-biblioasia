@@ -38,7 +38,7 @@ In September 2017, the restored _Batch ’81_ premiered at the Venice Classics s
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_aft_03_0_image%202.png)
 <div style="background-color: white;">Image comparisons showing the before-and-after restoration of <i>Batch ’81_. _Courtesy of Asian Film Archive.</i> </div>
 
-Launched in conjunction with the film’s restoration, the AFA published _Batch ’81: The Making of a Mike De Leon Film_ to document the history behind the making of the film.[^4] The publication was made possible with De Leon’s collection of related materials
+Launched in conjunction with the film’s restoration, the AFA published _Batch ’81: The Making of a Mike De Leon Film_ to document the history behind the making of the film.[^4] The publication was made possible with De Leon’s collection of related materials such as photographs and memorabilia, recollections from the director, his creative team, and the actors who played both pivotal and minor roles in the film.
 
 #### **Garin Nugroho’s Surat Untuk Bidadari**
 
