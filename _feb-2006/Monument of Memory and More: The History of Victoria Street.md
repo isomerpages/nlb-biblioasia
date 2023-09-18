@@ -106,9 +106,15 @@ In its place, shophouses of 2 to 3 storeys were built, the ground floor for shop
 #### **Little Japan**
 Japanese migrants had been in Singapore since the late 1800s until the outbreak of war in 1941.
 
+<img src="/images/vol-1-issue-2/Victoria%20Street/prewar%20japanese%20community.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Prewar Japanese Community</i> provides a pictorial insight to the lives and ongoing of Japanese in prewar Singapore.</div>
+
 Most of the community settled along Middle Road and the streets adjoining it north and south, and their businesses and accommodation in shophouses extended to North Bridge Road and Victoria Street.
 
-Japanese of different professions and trades existed here. But the main concentration of their presence was at Middle Road , with their 'town centre' being where the Library now stands today. Business activities in the afea included a well-kn own textile store Echigoya &amp; Co., import and export traders, shoes shops, plloto studios, barbers, restaurants, bars, medical and dental clinics etc. Other institutions like the Japanese Elementary School, the Japanese Association, the Japanese Club and the Japanese Consulate, were just outside this area. The Middle Road area was called *Nihanjin machi* (or "Japanese town").The Chinese or Europeans usually referred to it as " Little Japan" or "Little Tokyo". 
+Japanese of different professions and trades existed here. But the main concentration of their presence was at Middle Road , with their 'town centre' being where the Library now stands today. Business activities in the area included a well-kn own textile store Echigoya &amp; Co., import and export traders, shoes shops, photo studios, barbers, restaurants, bars, medical and dental clinics etc. Other institutions like the Japanese Elementary School, the Japanese Association, the Japanese Club and the Japanese Consulate, were just outside this area. The Middle Road area was called *Nihanjin machi* (or "Japanese town").The Chinese or Europeans usually referred to it as " Little Japan" or "Little Tokyo". 
+
+<img src="/images/vol-1-issue-2/Victoria%20Street/japan%20town%20map.jpg" style="width:50%;">
+ <div style="background-color: white;">1937 Japan Town Map.</div>
 
 Just before World War II , the Japanese left and returned to Japan.
 
