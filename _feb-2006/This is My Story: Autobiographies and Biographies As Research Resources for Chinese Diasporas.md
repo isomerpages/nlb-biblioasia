@@ -34,6 +34,9 @@ His *One Hundred Years' History of the Chinese* in Singapore, written in a narra
 #### **Chinese Pioneers**
 One outstanding early Chinese diaspora was Aw Boon Haw. Aw Boon Haw was born to a Chinese herbalist, Aw Chu Kin in 1882 in Rangoon, while his younger brother Boon Par was born in 1888. Although his name meant "gentle tiger", the young Boon Haw was quite the opposite. He played truant from school constantly, and was eventually expelled. He was sent back to his family's ancestral village in China's Fujian province, leaving Boon Par to run his father's medicine shop.
 
+<img src="/images/vol-1-issue-2/AutobiographiesBiographies/aw%20boon%20haw.jpg" style="width:80%;">
+<div style="background-color: white;text-align:center">Aw Boon Haw.</div>
+
 After the demise of his father, Boon Haw returned to Rangoon and managed the business, while Boon Par apprenticed himself to a local pharmacist, UThaw. Prior to his death, UThaw bequeathed a secret recipe for a pain-relieving ointment to Boon Par. The two Aw brothers perfected this recipe, and christened the new concoction Ban Kim Ewe (Ten Thousand Golden Oil), a remedy for all maladies.
 
 A "genius in promotion, advertising and marketing", Boon Haw made used of his ethnic Hakka ties to sell Ban Kim Ewe to local Chinese medicine shops, and business expanded rapidly to Southeast Asia by the late 1920s. Boon Haw devised ingenious methods of promoting his product, and even built a tiger-shaped car from which he distributed enameled posters of the products.
