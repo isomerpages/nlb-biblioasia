@@ -150,7 +150,7 @@ Singapore: Printed at the Mission Press, 1830.<br>
 Call no. RRARE 992.2 JOU; Accession no. B03013533G</div><br>
 English Protestant missionary Walter Henry Medhurst of the London Missionary Society recounts his travels to Java and Bali with Reverend Jacob Tomlin in 1829. Parts of the journal have been republished many times for its rich descriptions of Bali. This is the earliest English book printed in Singapore that is found in the National Library’s collection.<br><br>
 	
-<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/journal%20of%20a%20tour_improved%20transparent.png">
+<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/journal%20of%20a%20tour_yellow%20bg.jpg">
 <div style="background-color: #fff6ba; text-align:left">
 	Title page of <i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G.</i></div><br>
 
@@ -247,7 +247,7 @@ This mammoth work features articles on Singapore and Southeast Asia reprinted fr
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604"><b>The Journal of the Indian Archipelago and Eastern Asia</b></a><br>Singapore: Printed at the Mission Press, 1847–48.<br>Call no. RRARE 950.05 JOU; Accession nos. B03014400A (v. 1).<br><br>
 Commonly referred to as Logan’s Journal after its editor, the Scottish lawyer James Richardson Logan, this is one of the earliest scholarly periodicals published in Singapore. The periodical covered a broad range of topics ranging from history to the natural science of Southeast Asia, and was published in two series between 1847 and 1859. The first two volumes were printed at the Mission Press. The page featured is from an article on the geological features of Singapore published in volume 1. The illustrated plate on the right was lithographed at the Mission Press..</div></div><br>
 
-<img style="width:65%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20the%20indian%20archipelago_z.jpg">
+<img style="width:80%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20the%20indian%20archipelago_z.jpg">
 <div style="background-color: #fff6ba; text-align:left">
 	These pages are from an article on the geological features of Singapore published in volume 1 of <i>The Journal of the Indian Archipelago and Eastern Asia. The illustrated plate on the right was lithographed at the Mission Press. Collection of the National Library, Singapore (Call no. RRARE 950.05 JOU; Accession nos. B03014400A [v. 1]).</i></div><br>
 	
@@ -258,7 +258,7 @@ Singapore: Lithographed at the Mission Press, 1849.<br>
 Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
 	An iconic work in Malay literature and the history of Singapore, <i>Hikayat Abdullah</i> (<i>Stories of Abdullah</i>) – the autobiography of Munshi Abdullah – describes life in Singapore and Melaka in the early 19th century, including a detailed account of Stamford Raffles’ first arrival to Singapore in January 1819. This copy was donated by the Archdeacon George Frederick Hose in 1879 to the library of the Straits Branch of the Royal Asiatic Society. The book became a part of the Raffles Library (predecessor of the National Library) in 1923 when the society, which held its meetings at the Raffles Library and Museum, made a permanent loan of its collection to the library.</div><br>	
 
-<img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/hikayat%20improved3.jpg">
+<img style="width:75%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/hikayat%20improved3.jpg">
 <div style="background-color: #fff6ba; text-align:left">
 	The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>	
 	
