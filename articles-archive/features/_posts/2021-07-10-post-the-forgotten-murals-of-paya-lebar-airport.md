@@ -33,6 +33,11 @@ My father, a commercial artist, and Mundy (Bill as he prefers to be called) were
 
 My father is a self-taught artist. Born in Singapore in 1933, he started out as a peon (office boy) in the Commissioner-General Office but realised advancement prospects were limited and that he was capable of more. He briefly joined *The Straits Times* as an apprentice artist before moving to Papineau Advertising as they were looking for someone who could write Jawi in a calligraphic style. My father had taken part in other competitions before, winning a poster competition on diphtheria in 1959 and later coming in second place in a poster competition for the National Language campaign organised by *The Straits Times* in 1964.[^4]
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/murals/">The Forgotten Murals of Paya Lebar Airport</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+
 Bill first came to Singapore in 1957 as a soldier during his national service. He was based at Gillman Barracks doing cartographic work. He left Singapore a year later after completing his national service before returning in 1960 to work in Papineau Advertising. He was hired as a visualiser and was promoted to art director after six months.
 
 My father was already working in Papineau when Bill joined, and regards Bill as his mentor and friend. Bill was very particular and pushed my father and his colleagues hard at work, but they learned a lot from him as my father recalls. 
