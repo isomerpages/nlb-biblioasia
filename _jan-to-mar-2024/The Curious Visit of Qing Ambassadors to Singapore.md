@@ -1,6 +1,6 @@
 ---
 title: The Curious Visit of Qing Ambassadors to Singapore
-permalink: /holding-area/test01/
+permalink: /vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/
 description: The visit by Qing officials to Singapore in 1876 led to the
   establishment of the first Chinese consulate here a year later.
 image: /images/Vol 19 Issue 4/1   Qing Ambassadors/img_01_v2.png

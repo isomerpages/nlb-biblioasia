@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/SG Record Industry/sg_record_industry_hero_img.jpg
   - infopic:
+      title: The Curious Visit of Qing Ambassadors to Singapore
+      subtitle: People
+      id: infopic
+      description: The visit by Qing officials to Singapore in 1876 led to the
+        establishment of the first Chinese consulate here a year later.
+      button: A Forgotten Encounter
+      url: /vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/
+      image: /images/Vol 19 Issue 4/1   Qing Ambassadors/qing_homepage v2.png
+      alt: Image alt text
+  - infopic:
       title: Interview with Rachel Heng, Author of The Great Reclamation
       subtitle: Literature
       description: What does it take to write an internationally acclaimed historical

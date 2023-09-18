@@ -15,10 +15,16 @@ description: Provides a quick-potted history of Victoria Street, including the
 
    Lyric extracts of Lennon/McCartney's "The Beatles' IN MY LIFE"
 
+<img src="/images/vol-1-issue-2/Victoria%20Street/newspaper%20articles.jpg" style="width:80%;">
+ <div style="background-color: white;">Newspaper articles that expressed the public's unhappiness with the demolishing of the National Library.</div>
+
 In 1999, a *Straits Times* headlines, "National Library to go" announced that the familiar red-brick building along Stamford Road would soon make way for new developments. Despite much protest from the public who had grown to love the building, the library needed to move to a new site to keep up with the times, especially as information needs were expected to move by quantum leaps in the 21st century.
 
 #### **History**
 Formally established in 1845, the Singapore Library carried fiction and non-fiction books and included a Reference section. In 1874, it became a government institution known as the Raffles Library and Museum, and was located at Stamford Road at what is today the National Museum's building. In 1955, it was separated from the National Museum, and eventually in 1960, the library moved into its own building next door.
+
+<img src="/images/vol-1-issue-2/Victoria%20Street/raffles%20library.jpg" style="width:100%;">
+ <div style="background-color: white;">(Left) Site of Raffles National Library showing the British Council Hall which was later demolished.<br>   (Center) The Junior Library of the Raffles Library in the 1950s. <br>  (Right) The Raffles Library display in the Community Education Exhibition, 1957.</div>
 
 In 1953, millionaire philanthropist Dr Lee Kong Chian, made a donation of $375,000 "towards the foundation of a public library with the condition that it house books in Asian languages that would be fully representative of the cultures of Singapore." The former St Andrew's School buildings occupied by the British Council was vacated, as the land was developed for the " Raffles Library."
 
@@ -37,6 +43,9 @@ This distinct red brick structure though initially condemned, stood at Stamford 
 #### **The New Victoria Site**
 On 4 June 2001, the Singapore Land Authority issued a 60 years lease No 24897, with land of a gross plot ratio of 5.2 in accordance with the plans approved by the competent authority under the Planning Act (Cap 232), for the development of the Nation's main Library Institution. The groundbreaking ceremony was held at this site on 30 October 2001.
 
+<img src="/images/vol-1-issue-2/Victoria%20Street/national%20library%20construction.jpg" style="width:50%;">
+ <div style="background-color: white;">Construction of the National Library as of August 2003.</div>
+
 The National Library is situated at 100 Victoria Street and is gradually becoming a landmark of the Bugis/Bras Brasah area. Even as the National Library creates a new beginning at Victoria Street, it is appropriate to take a retrospective look at the history of Victoria Street.
 
 #### **History of the 'New Site'**
@@ -44,6 +53,9 @@ The Victoria site is today part of the Singapore town land sub-division. The lan
 
 #### **Original Owner - Andrew Farquhar**
 A large portion of this land was formerly the private property of an enterprising merchant, Andrew Farquhar, the eldest son of the first Resident of Singapore, Colonel William Farquhar. In 1821, Andrew Farquhar aged 20, moved from Malacca to Singapore, and invested in properties. There is no record of when he actually bought the more than 2-acre site at the junction of North Bridge Road and Middle Road, opposite his father's property and residence at Beach Road, except that lease No. 503 was issued on 20 March 1828. In June 1824, he married Elizabeth Robinson, and with their three children, they moved to the Victoria site.
+
+<img src="/images/vol-1-issue-2/Victoria%20Street/the%20traders.jpg" style="width:50%;">
+ <div style="background-color: white;">For further reading on English Traders in the 19th century. <i>The Traders: A Story of Britain's Southeast Asian Commercial Adventure</i> is an excellent source of material. All rights reserved. Newman Neame, 1971.</div>
 
 In 1827, Andrew Farquhar became first appointed Coroner in Singapore but in January 1829, on a visit to Jakarta, he became seriously ill and died. In December 1830, James Scott Clark, Administrator of Andrew Farquhar's estate sold the property to John Henry Moor, the Headmaster of the Raffles Institution. The property was probably acquired for investment, as he and his family stayed at the school. In January 1832, Elizabeth Farquhar remarried James Scott Clark, and in March 1834, J H Moor leased part of his property to her youngest son, Andrew Charles Robert Farquhar. Although the area was smaller, Farquhar's family was still able to stay there.
 
@@ -55,6 +67,10 @@ John Henry Moor's other property at the Victoria site w as leased in October 183
 Besides managing the foundry, J M Cazalas joined the Police in 1873 and served in the Voluntary Fire Brigade. In 1879 he mortgag ed his property to Seah Eu Chin. Seah, a wealthy merchant, owned numerous nutmeg and gambier plantations. Cazalas remained at Middle Road until 1885 when he died and his family sold the property to a Chinese owner in the name of Ban Hap Kongsi.
 
 #### **Properties of Charles Prince Holloway**
+
+<img src="/images/vol-1-issue-2/Victoria%20Street/holloway%20lane.jpg" style="width:80%;">
+ <div style="background-color: white;">Holloway Lane in 1938.  The Library is standing on this piece of land today.</div>
+
 Also part of the Victoria site was Lease 262, (22.52m2 / 242,400 sq ft) owned by the 40t h Bengal Native Infantry Regiment. In April 1827, it was sold to another Eurasian, Charles Prince Holloway. As there was an access lane to his property, it was convenient to name the small road, Holloway Lane, after him. In 1846, C P Holloway was in the Deputy Registrar of Imports and Exports at the Trade Department, and in 1853, he was transferred to the Marine Department. In 1860 he moved to Prinsep Street but the name Holloway Lane remain unchanged until the land was cleared in the mid-1970s. On 23 October 1966, Prime Minister Lee KuanYew officiated at the opening of the "Kheng Ngai Lee Clan Association '; possibly the only distinctive organisation in this little street.
 
 #### **Gilbert Angus Bain's Properties**
@@ -67,38 +83,66 @@ Between 1844 and 1860, Gilbert and Robert Bain were Jurors of the Grand Jury, an
 Gilbert Angus Bain died in Singapore on 24 March 1887, and left a family of seven sons and two daughters.
 
 #### **St Joseph's Church**
-In 1822, the Portuguese Catholic priests obtained from Raffles land for a small church. In the 1850s, it was considered too small for the residents especially the Eurasians living at the European q uarters. In 1906, the original church was demolished, the present Church of St Joseph was built in 1912- a landmark that remains at the front of the main National Library entrance.
+In 1822, the Portuguese Catholic priests obtained from Raffles land for a small church. In the 1850s, it was considered too small for the residents especially the Eurasians living at the European quarters. In 1906, the original church was demolished, the present Church of St Joseph was built in 1912- a landmark that remains at the front of the main National Library entrance.
 
 #### **Street Names**
 As seen in leases in which survey plans were attached, North Bridge Road and Middle Road were named in 1826 by Lieutenant Philip Jackson. George D Coleman's 1836 town plan and map retained these names.
 
-Coleman used the name "Marbro Street'; for the street parallel to North Bridge Road wherea s Jackson had earlier named it Rochor Street in his 1823 Town Plan. According to Dr John Bastin "Marbro" was an abbreviated term used in honour of the Duke of Marlborough. The name may have changed a few times in the 19th century, but in 1848, "Victoria Street" and t he next street, "Queen Street" were named in honour of the much-loved Queen Victoria (1819–1901), to commemorate her 10th year reign as a British monarch.
+<img src="/images/vol-1-issue-2/Victoria%20Street/coleman%20town%20plan.jpg" style="width:80%;">
+ <div style="background-color: white;">Coleman's Town Plan and Map.</div>
+ 
+Coleman used the name 'Marbro Street'; for the street parallel to North Bridge Road wherea s Jackson had earlier named it Rochor Street in his 1823 Town Plan. According to Dr John Bastin "Marbro" was an abbreviated term used in honour of the Duke of Marlborough. The name may have changed a few times in the 19th century, but in 1848, "Victoria Street" and the next street, "Queen Street" were named in honour of the much-loved Queen Victoria (1819–1901), to commemorate her 10th year reign as a British monarch.
+
+<img src="/images/vol-1-issue-2/Victoria%20Street/street%20names.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Street Names of Singapore</i> gathers in a single volume all the street names in Singapore.  Featuring not only to tourist attractions, the book aslo includes the islands and the remote lanes of Singapore. All rights reserved. Who's Who Publishing, 2000.</div>
 
 In 1887, the Collector of Land Revenue, Land Office, Mr H T Haughton mentioned that in accordance with Section 143 of the Municipal Ordinance, the Commissioners should introduce the dialect names of places in Singapore, as in many instances, these names historically reflected the character of the place. The names of both Bain Street and Holloway Lane in the Chinese Hokkien dialect were *Sek Kia Ni Lai Pai Twi Bin Hang* meaning "The lane opposite the Portuguese Church" (The term *Sek Kia Ni* is derived from the Malay word Serani meaning "Eurasian"). The two names in Tamil *Pakku Thoppu* meant "Betel-nut garden".
 
 #### **Building Layout of the Vicinity**
-In the late 19th century with increasing immigrants settling in Singapore, the town expa nded . Singapore's entrepot and change of land use resulted in intensive use of shophouses in the town. The old houses were gradua lly demolished and there were no more plantations. 
+In the late 19th century with increasing immigrants settling in Singapore, the town expanded . Singapore's entrepot and change of land use resulted in intensive use of shophouses in the town. The old houses were gradua lly demolished and there were no more plantations. 
 
 In its place, shophouses of 2 to 3 storeys were built, the ground floor for shops and trades, and upper floors for residence . Roads w ere not affected by these developments, so their street names remained unchanged.
 
 #### **Little Japan**
 Japanese migrants had been in Singapore since the late 1800s until the outbreak of war in 1941.
 
+<img src="/images/vol-1-issue-2/Victoria%20Street/prewar%20japanese%20community.jpg" style="width:50%;">
+<div style="background-color: white;"><i>Prewar Japanese Community</i> provides a pictorial insight to the lives and ongoing of Japanese in prewar Singapore.</div>
+
 Most of the community settled along Middle Road and the streets adjoining it north and south, and their businesses and accommodation in shophouses extended to North Bridge Road and Victoria Street.
 
-Japanese of different professions and trades existed here. But the main concentration of their presence was at Middle Road , with their 'town centre' being where the Library now stands today. Business activities in the afea included a well-kn own textile store Echigoya &amp; Co., import and export traders, shoes shops, plloto studios, barbers, restaurants, bars, medical and dental clinics etc. Other institutions like the Japa nese Elementary School, the Japanese Association, the Japanese Club an d the Japanese Consulate, were just outside this area. The Middle Road area was called *Nihanjin machi* (or "Japanese town").The Chinese or Europeans usually referred to it as " Little Japan" or " Little Tokyo". 
+Japanese of different professions and trades existed here. But the main concentration of their presence was at Middle Road , with their 'town centre' being where the Library now stands today. Business activities in the area included a well-kn own textile store Echigoya &amp; Co., import and export traders, shoes shops, photo studios, barbers, restaurants, bars, medical and dental clinics etc. Other institutions like the Japanese Elementary School, the Japanese Association, the Japanese Club and the Japanese Consulate, were just outside this area. The Middle Road area was called *Nihanjin machi* (or "Japanese town").The Chinese or Europeans usually referred to it as " Little Japan" or "Little Tokyo". 
 
+<img src="/images/vol-1-issue-2/Victoria%20Street/japan%20town%20map.jpg" style="width:80%;">
+<div style="background-color: white;text-align:center">1937 Japan Town Map.
+</div> 
+ 
 Just before World War II , the Japanese left and returned to Japan.
 
 #### **Post War Environment**
 
+<img src="/images/vol-1-issue-2/Victoria%20Street/middle%20road.jpg" style="width:80%;">
+<div style="background-color: white;">Middle Road's camera shops.</div>
+
 After the war and until the late 1980s, as land leases expired, the area of shophouses with its business and residential characteristics generally remained unchanged. Between North Bridge Road and Victoria Street, Middle Road was well-known for its shoe shops on one end, and camera shops on the other. Victoria Street was the place for furniture, especially cane-furniture and upholstery; North Bridge Road was the place for Chinese books (Popular Bookshop, Black Cat Book Co., and Youth Bookshop), stationery and record stores, goldsmiths and jewellers, photo studios, furniture shops and other retailers. At the junction of Victoria Street and Middle Road, stood the landmark Empress Hotel. Built in 1932, with a restaurant added later in the 1950, this typical Chinese hotel attracted visitors from neighbouring countries, particularly tourists from China. For years it was famed for its delightful and delectable "moon cakes".
 
+<img src="/images/vol-1-issue-2/Victoria%20Street/empress%20building.jpg" style="width:80%;">
+<div style="background-color: white;">Empress Building.</div>
+
 Opposite the Empress Hotel was St Anthony's Canossian Convent School, and next to it, the then Catholic Portuguese Mission of St Joseph's Church, and on its left - St Anthony's Boys' School.
+
+<img src="/images/vol-1-issue-2/Victoria%20Street/victoria%20street%201950s.jpg" style="width:50%;">
+<div style="background-color: white;text-align:center">Victoria Street, 1950s.  
+</div>
 
 By the late 1980s, hundreds of buildings owned by private owners in these areas were acquired and demolished. On the National Library site were two roads, Holloway Lane and Lorong Sidin, which were expunged to make way for comprehensive redevelopment. In 1980, at Bain Street and North Bridge Road, the first inkling of modernity to the area was the Bras Basah Complex with two 25-storey blocks HDB flats.
 
 #### **The National Library Today and Tomorrow**
+
+<img src="/images/vol-1-issue-2/Victoria%20Street/victoria%20street%202005.jpg" style="width:50%;">
+<div style="background-color: white;text-align:center">Victoria Street, 2005.  
+</div>
+
 A large 11.3 m2 (121,679 sq ft) site at 100 Victoria Street, the 'new' National Library opened its doors to the public on 22 July 2005, and was officially opened on 12 November 2005, by the President of Singapore S R Nathan.
 
 Housing a wealth of knowledge, the new National Library is a large complex with 16 levels of floor space, abundant with local and international information resources, plus the extensive Singapore and Southeast Asian Collections of the Lee Kong Chian Reference Library. 

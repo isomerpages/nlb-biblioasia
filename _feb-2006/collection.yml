@@ -2,5 +2,7 @@ collections:
   feb-2006:
     output: true
     order:
+      - "This is My Story: Autobiographies and Biographies As Research Resources
+        for Chinese Diasporas.md"
       - "Monument of Memory and More: The History of Victoria Street.md"
       - Director's Column.md

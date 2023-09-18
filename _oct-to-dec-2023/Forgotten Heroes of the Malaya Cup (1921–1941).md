@@ -30,13 +30,13 @@ Selangor (1925–38)|6|3 wins, 1 draw, &amp; 2 losses|15|7|
 ||52|43 wins, 7 draws &amp; 2 losses|210|41|
 
 
-<div style="background-color: #fff6ba; padding:15px; margin: 15px; font-size=120%"><b> MALAYA CUP HEROES</b><br><br>
+<div style="background-color: #fff6ba; padding:15px; margin: 15px; font-size=120%"><b> MALAYA CUP VENUES</b><br><br>
 The earlier home matches in the Malaya Cup were played on the Padang. Matches between 1921 and 1923 were played in the field that is close to the Singapore Recreation Club. After Anson Road Stadium (also known as Singapore Stadium) opened in 1924, this became the main venue for Malaya Cup matches until 1941.<br><br>
-	<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/mbe%20image.jpg" style="width:70%;"><br><br>The pitch had originally been part of the Malaya Borneo Exhibition (MBE) in 1922. The grounds were realigned and enlarged, with small grandstands erected along the touchlines. For the remaining perimeter vantage points, there was an enclosure with a 12-foot-high grass bank. The stadium had an official capacity of 4,000 though some games would draw huge crowds.<br><br>         
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/anson%20image.jpg" style="width:70%;"><br><br>Malaya Cup games at the Anson Road Stadium were not the most popular spectator events though. Senior League matches involving SCFA and contests against touring teams drew the biggest crowds to the stadium. For instance, Batavia Hercules from Java played against SCFA in a match that attracted 8,535 fans, while Singapore’s 5–0 victory over Malacca in a preliminary round of the Malaya Cup, also in 1927, was witnessed by 6,539 fans.<br><br>         
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/maxwell.jpg" style="width:70%;"><br><br>While the Anson Road Stadium was used for major matches, other locations in Singapore were used for playing competitive football. These included military camps and garrison facilities, private clubs, purpose-built stadiums, the Padang, open fields and even the site of the old convict jail at Bras Basah.<br><br>         
+	<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/mbe%20image.jpg"><br><br>The pitch had originally been part of the Malaya Borneo Exhibition (MBE) in 1922. The grounds were realigned and enlarged, with small grandstands erected along the touchlines. For the remaining perimeter vantage points, there was an enclosure with a 12-foot-high grass bank. The stadium had an official capacity of 4,000 though some games would draw huge crowds.<br><br>         
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/anson%20image.jpg"><br><br>Malaya Cup games at the Anson Road Stadium were not the most popular spectator events though. Senior League matches involving SCFA and contests against touring teams drew the biggest crowds to the stadium. For instance, Batavia Hercules from Java played against SCFA in a match that attracted 8,535 fans, while Singapore’s 5–0 victory over Malacca in a preliminary round of the Malaya Cup, also in 1927, was witnessed by 6,539 fans.<br><br>         
+<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/maxwell.jpg"><br><br>While the Anson Road Stadium was used for major matches, other locations in Singapore were used for playing competitive football. These included military camps and garrison facilities, private clubs, purpose-built stadiums, the Padang, open fields and even the site of the old convict jail at Bras Basah.<br><br>         
 
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/anson%20rd%20stadium.jpg" style="width:80%;">
+<img style="width:80%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/anson%20rd%20stadium.jpg">
 <div style="background-color: #fff6ba; text-align:center">&nbsp; Anson Road Stadium. <i>Courtesy of Singapore Sports Council.</i><br><br>
 	<div style="background-color:#fff6ba; text-align:left">
 Well-established schools such as Raffles Institution, Anglo-Chinese School and St Joseph’s Institution had easy access to pitches close to the centre of town. Raffles Institution was located at the junction of Bras Basah Road and Beach Road at the time (Raffles City shopping mall stands in its place today), and the reclaimed land opposite the school became the home territory of the Singapore Chinese Football Association (SCFA) and the Malay Football Association.<br><br><br>
@@ -60,54 +60,54 @@ The players with the most number of appearances in the finals were Dolfattah (ni
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
 	<b>Capped Players in Malaya Cup Finals (1921–1941)</b><br><br>
 
-<table class="TableGrid2" border="0" cellspacing="0" cellpadding="0" style="border-collapse:
+<table style="border-collapse:
  collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;
- mso-border-insideh:none;mso-border-insidev:none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="102" valign="top" style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="line-height:150%"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:
+ mso-border-insideh:none;mso-border-insidev:none" cellpadding="0" cellspacing="0" border="0" class="TableGrid2"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="102"><p style="line-height:150%" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:11.0pt;line-height:150%;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
-  ZH-CN">Community</span></b></p></td><td width="139" valign="top" style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:11.0pt;
+  ZH-CN" lang="EN-US">Community</span></b></p></td><td style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="139"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:ZH-CN">Number of</span></b></p><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:11.0pt;
+  mso-fareast-language:ZH-CN" lang="EN-US">Number of</span></b></p><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:ZH-CN">Capped Players</span></b></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:11.0pt;
+  mso-fareast-language:ZH-CN" lang="EN-US">Capped Players</span></b></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:ZH-CN">Number of</span></b></p><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:11.0pt;
+  mso-fareast-language:ZH-CN" lang="EN-US">Number of</span></b></p><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:ZH-CN">Caps Won</span></b></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:11.0pt;
+  mso-fareast-language:ZH-CN" lang="EN-US">Caps Won</span></b></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:ZH-CN">Caps Won</span></b></p><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:11.0pt;
+  mso-fareast-language:ZH-CN" lang="EN-US">Caps Won</span></b></p><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:ZH-CN">Per player</span></b></p></td><td width="120" valign="top" style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:11.0pt;
+  mso-fareast-language:ZH-CN" lang="EN-US">Per player</span></b></p></td><td style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:ZH-CN">Percentage of</span></b></p><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:11.0pt;
+  mso-fareast-language:ZH-CN" lang="EN-US">Percentage of</span></b></p><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:ZH-CN">Caps Won</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="102" valign="top" style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">&nbsp;</span></p></td><td width="139" valign="top" style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">&nbsp;</span></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">&nbsp;</span></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">&nbsp;</span></p></td><td width="120" valign="top" style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="102" valign="top" style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">Chinese</span></p></td><td width="139" valign="top" style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">35</span></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">97</span></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">2.77</span></p></td><td width="120" valign="top" style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">41.99 %</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="102" valign="top" style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">Malay<span style="mso-tab-count:1">&nbsp;</span></span></p></td><td width="139" valign="top" style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">24</span></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">66</span></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">2.75</span></p></td><td width="120" valign="top" style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">28.57 %</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="102" valign="top" style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">European</span></p></td><td width="139" valign="top" style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">31</span></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">44</span></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">1.41</span></p></td><td width="120" valign="top" style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">19.04 %</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td width="102" valign="top" style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">Eurasian</span></p></td><td width="139" valign="top" style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">10</span></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">24</span></p></td><td width="120" valign="top" style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">2.40</span></p></td><td width="120" valign="top" style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:150%"><span lang="EN-US" style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN">10.40 %</span></p></td></tr></tbody></table><br><br>
-		<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/composition%20of%20sg%20football%20team.jpg" style="width:70%;"><br></div>
+  mso-fareast-language:ZH-CN" lang="EN-US">Caps Won</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="102"><p style="line-height:150%" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">&nbsp;</span></p></td><td style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="139"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">&nbsp;</span></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">&nbsp;</span></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">&nbsp;</span></p></td><td style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="102"><p style="line-height:150%" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">Chinese</span></p></td><td style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="139"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">35</span></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">97</span></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">2.77</span></p></td><td style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">41.99 %</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="102"><p style="line-height:150%" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">Malay<span style="mso-tab-count:1">&nbsp;</span></span></p></td><td style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="139"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">24</span></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">66</span></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">2.75</span></p></td><td style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">28.57 %</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="102"><p style="line-height:150%" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">European</span></p></td><td style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="139"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">31</span></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">44</span></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">1.41</span></p></td><td style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">19.04 %</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:76.25pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="102"><p style="line-height:150%" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">Eurasian</span></p></td><td style="width:104.05pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="139"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">10</span></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">24</span></p></td><td style="width:90.15pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">2.40</span></p></td><td style="width:90.2pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="120"><p style="text-align:center;line-height:150%" align="center" class="MsoNormal"><span style="font-size:11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">10.40 %</span></p></td></tr></tbody></table><br><br>
+		<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/composition%20of%20sg%20football%20team.jpg"><br></div>
 </div>
 
 
@@ -154,7 +154,7 @@ Dolfattah scored 35 goals in 23 Malaya Cup games between 1927 and 1933 – a str
 
 #### **Abdul Rahman Haji Ali**
 
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/abdulrahmanhajiali.jpg" style="width:100%;height:90%;">
+<img style="width:100%;height:90%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/abdulrahmanhajiali.jpg">
 <div style="background-color: white;text-align:center">Abdul Rahman delivering one of his powerful clearance shots at a
 training session. <i>Image reproduced from “He’s a Certainty,” Malaya Tribune, 21 June 1940, 6. (From NewspaperSG).</i></div>
 
@@ -189,7 +189,7 @@ Chee returned to China in either 1933 or 1934 to attend Chi-nan University in Sh
 
 #### **Cheong Chee Lim**
 
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/cheong%20chee%20lim.jpg" style="width:30%;">
+<img style="width:30%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/cheong%20chee%20lim.jpg">
  <div style="background-color: white;">Cheong Chee Lim.<i> Image reproduced from “Last Week’s Football Match Between Hong Kong Chinese and Malayan Chinese,” Malayan Saturday Post, 25 May 1929, 7. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (3 wins)<br>Malaya Cup (1921–29)<br>Singapore Chinese Football Association (1917–33)<br>
@@ -199,7 +199,7 @@ Cheong Chee Lim was the only Chinese player to represent Singapore in the 1921 M
 Cheong missed the 1924 Malay Cup as the Singapore Chinese Football Association (SCFA) withdrew its team from the Singapore League to protest against a ruling by the Singapore Football Association that excluded SCFA players for selection.[^16]  He was a reserve in the 1928 match, but played in the 1929 final that ended in a 2–2 draw with Selangor.[^17]  
 
 #### **Chia Keng Hock**
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chia%20keng%20hock.jpg" style="width:40%;">
+<img style="width:40%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/chia%20keng%20hock.jpg">
  <div style="background-color: white;">Chia Keng Hock.<i> Image reproduced from Nimrod, “Fate of Keng Hock Still Undecided,” Singapore Free Press and Mercantile Advertiser, 31 July 1936, 9. (From NewspaperSG).</i></div>
 
 5 appearances in the Malaya Cup Final (2 wins)<br> Malaya Cup (1931–36)<br>  St Joseph’s Old Boys Association<br> Straits Chinese Recreation Club<br> 
@@ -228,7 +228,7 @@ One of Choo’s greatest achievements was guiding Singapore to win the Malaysia 
 
 #### **Choy Khun Onn (also spelled Choy Khoon Onn)**
 
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choy%20khun%20onn.jpg" style="width:30%;">
+<img style="width:30%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/choy%20khun%20onn.jpg">
  <div style="background-color: white;">Choy Khun Onn.<i> The Straits Times, 24 August 1947 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 4 appearances in the Malaya Cup Final (1 win)<br> 
@@ -262,7 +262,7 @@ Chua also played basketball for Siong Boo Athletic Association and was a top-cla
 During the Japanese Occupation (1942–45), Chua became a committee member of the football section of the Syonan Sports Association established by the Japanese. In 1948, after the war ended, he joined the China football team as a coach for the London Olympic Games.
 
 #### **Foong Mun Fun**
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/foong%20mun%20fun.jpg" style="width:40%;">
+<img style="width:40%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/foong%20mun%20fun.jpg">
  <div style="background-color: white;">Foong Mun Fun.<i> Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (4 wins)<br> 
@@ -348,11 +348,12 @@ You might wonder why Tay Kwee Liang appears in this table since he did not play 
 In 1933, he joined the South China Athletic Association team in Hong Kong,[^46] and at the 1934 Far Eastern Games, he was a member of the Chinese team that won the championship. Two years later, Tay was selected to represent China at the 1936 Olympic Games in Berlin, along with Chua Boon Lay and Chee Ah Hui (although Tay is rarely mentioned alongside these two men). Besides football, Tay also excelled in table tennis, and was the national table tennis champion of Singapore in 1931.[^47]
 
 ![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/taykweeliangcert.jpg)
-<div style="background-color: white;text-align:center">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div><br>
+<div style="background-color: white;text-align:center">Tay Kwee Liang was selected to represent China at the 1936 Olympic Games in Berlin. <i>Courtesy of Alex Tay (son of Tay Kwee Liang).</i></div>
 
 #### **Yeo Ah Kow**
-<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yeo%20ah%20kow.jpg" style="width:40%;">
- <div style="background-color: white;">Yeo Ah Kow.<i> Source unknown.</i></div>
+<img style="width:40%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yeo%20ah%20kow.jpg">
+<div style="background-color: white;text-align:center">Yeo Ah Kow.  <i>Source Unknown</i>
+</div>
 
 4 appearances in Malaya Cup Final (4 wins)<br> 
 Malaya Cup (1929–34)<br> 
@@ -367,7 +368,7 @@ Yeo made his home debut in the final match of the Southern section of the Malaya
 Yeo was left out of the Malaya Cup final team from 1931 to 1933, but returned for Singapore’s 2–1 victory against Penang in 1934.[^50]  He continued to play at a competitive level and represented Singapore at the Malayan Chinese Olympic Games held in Penang in August 1935.[^51] 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>NICK APLIN'S FANTASY 11</b><br><br>
 In my opinion, this is what a fantasy team made up of the players mentioned looks like.&nbsp;&nbsp; Some of you will feel differently and may also argue about the assigned positions. This is open for discussion of course.<br><br>
-	<img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/nick's%20fantasy.jpg" style="width:65%;"><br><br>         
+	<img style="width:65%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/nick's%20fantasy.jpg"><br><br>         
 </div>
 
 
