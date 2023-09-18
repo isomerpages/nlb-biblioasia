@@ -15,6 +15,9 @@ description: Provides a quick-potted history of Victoria Street, including the
 
    Lyric extracts of Lennon/McCartney's "The Beatles' IN MY LIFE"
 
+<img src="/images/vol-1-issue-2/Victoria%20Street/newspaper%20articles.jpg" style="width:80%;">
+ <div style="background-color: white;">Newspaper articles that expressed the public's unhappiness with the demolishing of the National Library.</div>
+
 In 1999, a *Straits Times* headlines, "National Library to go" announced that the familiar red-brick building along Stamford Road would soon make way for new developments. Despite much protest from the public who had grown to love the building, the library needed to move to a new site to keep up with the times, especially as information needs were expected to move by quantum leaps in the 21st century.
 
 #### **History**
