@@ -75,7 +75,7 @@ The AFA’s first encounter with the works of Pathiraja was serendipitous. In 20
 
 Set in the northern city of Jaffna, Pathiraja’s only Tamil-language film, _Ponmani,_ traces the fortunes and concerns of an economically depleted upper caste, lower middle-class family. Ponmani, the youngest daughter in the family has to wait until the marriage of the middle daughter, Saraoja, before she can escape from her life in the home. She falls in love with a boy from a lower fisherman caste but learns that her family has no money to pay for Saraoja’s dowry.
 
-_Bambaru Avith_ tells the story of the clash between local fishermen in Kalpitiya, a fishing village in Sri Lanka, and a group of urban entrepreneurs arrive at the village. The city folk, headed by Victor, bring a business ethic of their own: capitalistic tendencies that anger Anton, the patriarch of the village. When Victor gets involved with a local village girl, tensions arise culminating in a series of violent events.
+<i>Bambaru Avith</i> tells the story of the clash between local fishermen in Kalpitiya, a fishing village in Sri Lanka, and a group of urban entrepreneurs who arrived at the village. The city folk, headed by Victor, bring a business ethic of their own: capitalistic tendencies that anger Anton, the patriarch of the village. When Victor gets involved with a local village girl, tensions arise culminating in a series of violent events.
 
 In _Soldadu Unnahe_, a World War II veteran, a prostitute, her thieving pimp and an alcoholic, who are distinctly marginalised in society, take refuge at the base of a tree as their asylum from the rousing celebrations and spectacle of Sri Lanka’s Independence Day.
 
