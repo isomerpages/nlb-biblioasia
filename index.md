@@ -739,7 +739,7 @@ sections:
       alt: Francis P. Ng
   - infopic:
       title: The Curious Visit of Qing Ambassadors to Singapore
-      subtitle: Add an image and text
+      subtitle: People
       id: infopic
       description: The visit by Qing officials to Singapore in 1876 led to the
         establishment of the first Chinese consulate here a year later.
