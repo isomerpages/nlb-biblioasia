@@ -1,10 +1,9 @@
 ---
 title: "They Died for All Free Men: Stories from Kranji War Cemetery"
 permalink: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/
-description: "Remembering those who died while fighting the Japanese during World War II. "
+description: Remembering those who died while fighting the Japanese during World War II.
 image: /images/Vol 18 Issue 2/Kranji War Memorial/Memorial.png
 ---
-
 #### Remembering those who died while fighting the Japanese during World War II. 
 By Janice Loo
 
@@ -14,6 +13,11 @@ By Janice Loo
 It was shortly after 4 am on 8 December 1941 when 17 Japanese naval bombers took off from Saigon (now known as Ho Chi Minh City) to attack the airfields at Tengah and Seletar in Singapore.[^1]
 
 That air raid claimed 61 lives and injured 133. Among those who died was Corporal Raymond Lee Kim Teck of the Straits Settlements Volunteer Force. His remains (plot 36, row E, headstone 12) rest among the graves of other Commonwealth casualties from the war on the tranquil grounds of the Kranji War Cemetery.[^2]
+
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/kranji-war-cemetery/">Lest We Forget: Kranji War Cemetery</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div> 
 
 #### **Kranji and the Battle for Singapore**
 
@@ -71,7 +75,7 @@ In total, the Malay Regiment lost 159 lives (six British officers, seven Malay o
 
 #### **The Commandos of Jaywick	 and Rimau**
 
-Among those buried in Kranji is Lieutenant Colonel Ivan Lyon of the Gordon Highlanders (a line infantry regiment of the British Army that existed from 1881 to 1994). In September 1943, Lyon, described as a “cool-headed, icy-calm and professional soldier”, led a team of 14 Australian and British commandos from Allied Z Special Unit in Operation Jaywick, a bold mission to sabotage Japanese ships in Singapore’s Keppel Harbour.[^24]
+Among those buried in Kranji is Lieutenant Colonel Ivan Lyon of the Gordon Highlanders (a&nbsp;line infantry&nbsp;regiment&nbsp;of the&nbsp;British Army&nbsp;that existed from 1881 to 1994). In September 1943, Lyon, described as a “cool-headed, icy-calm and professional soldier”, led a team of 14 Australian and British commandos from Allied Z Special Unit in Operation Jaywick, a bold mission to sabotage Japanese ships in Singapore’s Keppel Harbour.[^24]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/P00986_001--2-.png)
 <div style="background-color: white;"> Australian and British commandos from Allied Z Special Unit on board the <i>Krait</i> en route to Singapore to sabotage Japanese shipping at Keppel Harbour, 1943. Ivan Lyon is in the back row, third from the left. <i>Courtesy of the Australian War Memorial, P00986.001.
@@ -81,7 +85,7 @@ On 2 September, the commandos departed Exmouth Harbour, Western Australia, in a 
 
 Around two weeks later, on 18 September, Lyon and five operatives disembarked at Pulau Panjang in the Riau Islands. On 24 September, Lyon and his men set up on Pulau Subar, an uninhabited islet that served as an ideal observation post.[^26]
 
-Two nights later, the raiding party slipped undetected into Keppel Harbour and attached limpet mines (a type of naval mine attached to a target by magnets) to several Japanese ships.[^27] The charges went off on the morning of 27 September, reportedly sinking or severely damaging seven Japanese transport vessels, which amounted to some 37,000 tonnes of shipping. All 14 commandos managed to return safe and sound to Australia on 19 October 1942, 48 days after their journey began.[^28]
+Two nights later, the raiding party slipped undetected into Keppel Harbour and attached limpet mines (a type of&nbsp;naval mine&nbsp;attached to a target by&nbsp;magnets) to several Japanese ships.[^27] The charges went off on the morning of 27 September, reportedly sinking or severely damaging seven Japanese transport vessels, which amounted to some 37,000 tonnes of shipping. All 14 commandos managed to return safe and sound to Australia on 19 October 1942, 48 days after their journey began.[^28]
 
 Convinced that the attack was masterminded by internees at Changi Prison, the Kempeitai (Japanese military police) mounted a raid on the prison cells on 10 October 1943, leading to the arrest and torture of 57 innocents, 15 of whom died. This became known as the Double Tenth Incident.[^29]
 
@@ -124,35 +128,35 @@ The National Library of Singapore holds a small collection of personal documents
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Janice_Loo.png" style="width: 100px; height: 100px;"/>
-	<b>Janice Loo</b> is a Librarian with the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.</div>
+<br>
+<img src="/images/Vol%2018%20Issue%202/Authors/Janice_Loo.png" style="width: 100px; height: 100px;">
+	<b>Janice Loo</b>&nbsp;is a Librarian with the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.</div>
 
 	
 	
 #### **NOTES**
 
-[^1]: Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942* ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14296288)(Singapore: Talisman Publishing, 2012), 116–25. (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR])
+[^1]: Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942* ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14296288)(Singapore: Talisman Publishing, 2012), 116–25. (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR])
 
 [^2]: “Corporal Raymond Lee Kim Teck,” Commonwealth War Graves Commission, accessed 31 Mar 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2228809/raymond-lee-kim-teck/.
 
-[^3]: Romen Bose, [*Kranji: The Commonwealth War Cemetery and the Politics of the Dead* ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092)(Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
+[^3]: Romen Bose, [*Kranji: The Commonwealth War Cemetery and the Politics of the Dead* ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092)(Singapore: Marshall Cavendish Editions, 2006), 21. (From National Library, Singapore, call no. RSING 940.54655957 BOS-[WAR])
 
-[^4]: Hamzah Muzaini and Brenda S. A. Yeoh, [*Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202606087) (London; New York: Routledge, Taylor & Francis Group, 2016), 98. (From National Library, call no. RSING 940.546095957 MUZ-WAR])
+[^4]: Hamzah Muzaini and Brenda S. A. Yeoh, [*Contested Memoryscapes: The Politics of Second World War Commemoration in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202606087) (London; New York: Routledge, Taylor &amp; Francis Group, 2016), 98. (From National Library, call no. RSING 940.546095957 MUZ-WAR])
 
-[^5]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 21.
+[^5]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092), 21.
 
-[^6]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 33.
+[^6]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092), 33.
 
-[^7]: “Kranji War Cemetery,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2004200/kranji-war-cemetery/; Athanasios Tsakonas, “[In Honour of War Heroes: The Legacy of Colin St Clair Oakes](https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/),” *BiblioAsia* 14, no. 3 (Oct–Dec 2018).
+[^7]: “Kranji War Cemetery,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2004200/kranji-war-cemetery/; Athanasios Tsakonas, “[In Honour of War Heroes: The Legacy of Colin St Clair Oakes](https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/),”&nbsp;*BiblioAsia*&nbsp;14, no. 3 (Oct–Dec 2018).
 
-[^8]: Edwin Gibson and G. Kingsley Ward, [*Courage Remembered: The Story Behind the Construction and Maintenance of the Commonwealth’s Military Cemeteries and Memorials of the Wars of 1914–1918 and 1939–1945*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5228549) (London: Her Majesty’s Stationery Office, 1989), 66. (From National Library, Singapore, call no. RSING 355.1609 GIB)
+[^8]: Edwin Gibson and G. Kingsley Ward, [*Courage Remembered: The Story Behind the Construction and Maintenance of the Commonwealth’s Military Cemeteries and Memorials of the Wars of 1914–1918 and 1939–1945*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=5228549) (London: Her Majesty’s Stationery Office, 1989), 66. (From National Library, Singapore, call no. RSING 355.1609 GIB)
 
-[^9]: Gibson and Ward, [*Courage Remembered*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5228549), 66.
+[^9]: Gibson and Ward, [*Courage Remembered*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=5228549), 66.
 
-[^10]: Wan Meng Hao, “More than Meets the Eye: Remembering the War Dead in Singapore,”  in [*Spaces of the Dead: A Case from the Living*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13950617), ed. Kevin Tan (Singapore: Ethos Books, 2011), 239. (From National Library, Singapore, call no. RSING 363.75095957 SPA)  
+[^10]: Wan Meng Hao, “More than Meets the Eye: Remembering the War Dead in Singapore,”  in [*Spaces of the Dead: A Case from the Living*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13950617), ed. Kevin Tan (Singapore: Ethos Books, 2011), 239. (From National Library, Singapore, call no. RSING 363.75095957 SPA)  
 
-[^11]: Athanasios Tsakonas, [*In Honour of War Heroes: Colin St Clair Oakes and the Design of the Kranji War Memorial*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204468661) (Singapore: Marshall Cavendish Editions, 2020), 178. (From National Library, Singapore, call no. RSING 725.94095957 TSA)
+[^11]: Athanasios Tsakonas, [*In Honour of War Heroes: Colin St Clair Oakes and the Design of the Kranji War Memorial*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204468661) (Singapore: Marshall Cavendish Editions, 2020), 178. (From National Library, Singapore, call no. RSING 725.94095957 TSA)
 
 [^12]: “Kranji War Cemetery.”
 
@@ -168,7 +172,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^18]: “Captain Harry Rodway Rix,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2821290/harry-rodway-rix/.
 
-[^19]: Mubin Sheppard, [*The Malay Regiment 1933–1947*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5012927) (Kuala Lumpur: Department of Public Relations, 1947), 18. (From National Library, Singapore, call no. RCLOS 355.31 SHE-[JSB])
+[^19]: Mubin Sheppard, [*The Malay Regiment 1933–1947*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=5012927) (Kuala Lumpur: Department of Public Relations, 1947), 18. (From National Library, Singapore, call no. RCLOS 355.31 SHE-[JSB])
 
 [^20]: “Second Lieutenant Geoffrey Francis Dixon Stephen,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2072314/geoffrey-francis-dixon-stephen/.
 
@@ -178,33 +182,33 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^23]: Dol Ramli, “History of the Malay Regiment 1933–1942,” 242; “Second Lieutenant Adnan Bin Saidi,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2529445/adnan-bin-saidi/.
 
-[^24]: Lynette Ramsay Silver, [*Krait: The Fishing Boat That Went to War*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275) (Singapore: Cultured Lotus, 2001), 97, 195. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]) 
+[^24]: Lynette Ramsay Silver, [*Krait: The Fishing Boat That Went to War*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287275) (Singapore: Cultured Lotus, 2001), 97, 195. (From National Library, Singapore, call no. RSING 940.545994 SIL-[WAR]) 
 
-[^25]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275), 165. 
+[^25]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287275), 165. 
 
-[^26]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275), 81–83, 89–91. 
+[^26]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287275), 81–83, 89–91. 
 
-[^27]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
+[^27]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092), 79–81; Petar Djokovic, “Krait and Operation JAYWICK,” Royal Australian Navy, accessed 8 April 2022, https://www.navy.gov.au/history/feature-histories/krait-and-operation-jaywick.
 
-[^28]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275), 89, 95–97. 
+[^28]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287275), 89, 95–97. 
 
-[^29]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287275), 97–98; Heng Wong, “[Double Tenth Incident](https://eresources.nlb.gov.sg/infopedia/articles/SIP_111_2005-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published March 2021. 
+[^29]: Silver, [*Krait*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287275), 97–98; Heng Wong, “[Double Tenth Incident](https://eresources.nlb.gov.sg/infopedia/articles/SIP_111_2005-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published March 2021. 
 
-[^30]: Lynette Ramsay Silver, [*The Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278) (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
+[^30]: Lynette Ramsay Silver, [*The Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278) (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-[WAR]) 
 
-[^31]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 82; Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278), 108–09, 111–12, 117–20, 133–34.
+[^31]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092), 82; Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278), 108–09, 111–12, 117–20, 133–34.
 
-[^32]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278), 142–46, 283; Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 82–83.
+[^32]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278), 142–46, 283; Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092), 82–83.
 
-[^33]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 83; Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278), 154–55.
+[^33]: Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092), 83; Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278), 154–55.
 
-[^34]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278), 213–16.
+[^34]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278), 213–16.
 
-[^35]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10287278), 248; Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12666092), 87–88.
+[^35]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278), 248; Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092), 87–88.
 
 [^36]: Terry Pillay, “[A Living Tribute to Heroes Who Have No Graves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19570303-1.2.5),” *Sunday Standard*, 3 March 1957, 1 (From NewspaperSG)
 
-[^37]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202606087), 98–99.
+[^37]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202606087), 98–99.
 
 [^38]: Nan Hall, “[Thoughts of the Past Move 81-Year-Old War Heroine to Tears](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.6),” *Straits Times*, 3 March 1957, 1; “[Tragic Memories in a Garden of Peace](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570303-1.2.2),” *Straits Times*, 3 March 1957, 1; “[A Moving Dedication at New Shrine](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570302-1.2.12),” *Singapore Free Press*, 2 March 1957, 3. (From NewspaperSG)
 
@@ -212,6 +216,6 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^40]: “Private Sim Chin Foo,” Commonwealth War Graves Commission, accessed 8 April 2022, https://www.cwgc.org/find-records/find-war-dead/casualty-details/2537430/sim-chin-foo/.
 
-[^41]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202606087), 94.
+[^41]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202606087), 94.
 
-[^42]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202606087), 94, 101–05.
+[^42]: Hamzah Muzaini and Yeoh, [*Contested Memoryscapes*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202606087), 94, 101–05.
