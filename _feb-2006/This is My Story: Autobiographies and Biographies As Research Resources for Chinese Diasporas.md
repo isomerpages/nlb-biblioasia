@@ -71,6 +71,9 @@ Spending his fortune not on himself or his family, but the community, Tan Kah Ke
 
 Tan Kah Kee was also a well-respected community leader. Active in campaigning for educational and social reforms in the 1920s and 1930s, he was twice chairman of the Chinese Chamber of Commerce and helped to re-organise the Hokkien Clan Association. In 1923, he launched the Chinese newspaper, *Nanyang Siang Pau*. In addition, he was active in organising various relief funds for China during the Japanese invasion.
 
+<img src="/images/vol-1-issue-2/AutobiographiesBiographies/tan%20kah%20kee%20book.jpg" style="width:50%;">
+<div style="background-color: white;"> All Rights Reserved, Oxford University Press, 1989. </div>
+
 Tan Kah Kee began writing his memoirs while taking refuge in Java from the Japanese. From his memoirs one could see that he placed more importance on his involvement in education, social reform and politics than on his business undertakings. It is regarded as "one of the best documented autobiographies ever written by an immigrant Chinese in South-east Asia ... an immensely important source for those seeking to understand not onlyTan Kah Kee himself but the Chinese community in Singapore and Chinese politics as a whole".
 
 #### **Materials Available**
