@@ -13,7 +13,7 @@ By Nalina Gopal
 ![](/images/Vol%2018%20Issue%203/Theemithi/1_cover.png)
 <div style="background-color: white;"> Image of Hanuman the monkey god painted on the <i>kodi</i> (flag), which is hoisted on the <i>kodimaram</i> (flag post) during <i>kodiyetram</i> (“hoisting the flag”), 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
-In October 1893, the manager of the Sri Mariamman Temple on South Bridge Road hired a lawyer to represent the temple in the Senior Magistrate’s court in Singapore.[^1] The man he chose was Walter John Napier, the co-founder of Drew & Napier, later the Attorney-General of the Straits Settlements. The suit? Police Superintendent Bell had filed an injunction against the temple to prevent the firewalking festival from taking place that year. 
+In October 1893, the manager of the Sri Mariamman Temple on South Bridge Road hired a lawyer to represent the temple in the Senior Magistrate’s court in Singapore.[^1] The man he chose was Walter John Napier, the co-founder of Drew &amp; Napier, later the Attorney-General of the Straits Settlements. The suit? Police Superintendent Bell had filed an injunction against the temple to prevent the firewalking festival from taking place that year. 
 
 In Napier’s winning defence of the right of “[Hindoos to]… practice their particular rites and ceremonies without any interference from the Government”, he refers to the festival being celebrated in Singapore since 1835.[^2] This reference puts the age of the annual festival of Theemithi to within 20 years of the establishment of a British outpost in the littoral city.
 
@@ -21,11 +21,18 @@ Theemithi, which means “firewalking”, is observed during the Tamil month of 
 
 This spectacular event has, however, eclipsed the associated cycle of rituals that take place over a three-month period before the festival. These rituals are an elaborate retelling of events from the Mahabharatam, speaking of an epic devotion kept alive in the diaspora for close to two centuries.[^3]
 
+
 #### **Antecedents: The Mahabharatam**
 
 To understand the events that collectively constitute the festival of Theemithi, one must turn to the Indian epic poem, the Mahabharatam (known as the Mahabharata in Sanskrit and Mahabharatam in Tamil.)
 
 Inscriptional evidence points to the prevalence of the reading of the poem as early as the 7th century CE.[^4] The reading of the epic is a tradition that continues to the present, particularly during the festival of Theemithi. 
+
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/firewalking/">Beyond Firewalking
+</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
 
 The goddess Draupadi (also spelled Drowpathai), whose worship is associated with Theemithi, is the deified heroine of the Mahabharatam. Draupadi is the wife of the five Pandava brothers. Wronged by the Kauravas, the scheming cousins of the brothers, she vows vengeance. An 18-day battle – known as the Kurukshetra War – ensues, resulting in the victory of the Pandavas and the appeasement of Draupadi.[^5]
 
@@ -126,7 +133,7 @@ Aravan Poojai (ritual prayer) is offered to Aravan before his shrine and takes p
 
 On the day of Aravan Kalapali, a pair of temple volunteers assume the roles of Draupadi and Krishnan. They re-enact the scene of Krishnan convincing Draupadi that the sacrifice of Aravan is essential to guarantee the victory of the Pandava brothers. Draupadi then carries a *soolam*, or trident, decorated with a yellow cloth, around the temple, and plants it like a battle flag in the ground near Aravan’s shrine, marking the start of the Kurukshetra battle. 
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/lCbIVQDBR1I?start=4045" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/lCbIVQDBR1I?start=4045" frameborder="0" allowfullscreen=""></iframe></div>
 <div style="background-color: white;">Draupadi plants a trident in the ground near Aravan's shrine, during Sri Aravan Kalapali at Sri Mariamman Temple on 5 October 2021.<i>Courtesy of the Hindu Endowments Board.</i></div>
 
 Sambasivam Paikirisamy, a volunteer, recalled that in the 1960s, Aravan Poojai used to be less elaborate and involved fewer people. The group of volunteers who handled matters relating to Aravan registered a *visesha poojai* (special prayer) from 1975 to make it officially part of the cycle of events. The volunteers aided the conduct of Aravan Poojai and Kalapali rites, including *anna danam* (distribution of free food). He also recalled that in the 1960s and 1970s, Aravan’s form was seen as fiercer than it is today, and women were asked to keep a distance during Kalapali.[^18]
@@ -144,7 +151,7 @@ Positioned in front of Aravan’s shrine, volunteers take the lead in this ritua
 
 A volunteer representing Abhimanyu lies down on a thin, white fabric and is completely wrapped in the cloth by other volunteers on standby. As this is done, the volunteers positioned around the mandala run across the carefully constructed wheel fort, thus obliterating it, and the entire group moves to the sanctum of Draupadi. It is believed that the volunteer who is wrapped in the white cloth loses consciousness during the transit to Draupadi’s shrine and is revived when he is placed before Draupadi. 
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/2CAtygGdOe0?start=2691" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/2CAtygGdOe0?start=2691" frameborder="0" allowfullscreen=""></iframe></div>
 <div style="background-color: white;"> Chakravarthi Kottai at Sri Mariamman Temple on 23 October 2021. <i>Courtesy of the Hindu Endowments Board.</i></div>
 
 
@@ -216,8 +223,8 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> I am grateful to Balakrishnan Veerasamy Ramaswamy, T. Kavindran and T. Rajasegar of the Hindu Endowments Board for their support of my requests for images and audio interviews in the course of research for this essay.</div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%203/Authors/Nalina_Gopal.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%203/Authors/Nalina_Gopal.png" style="width: 100px; height: 100px;">
 	<b>Nalina Gopal</b> is an independent curator and researcher focused on South Asia and its diaspora. She is the founder of Antāti, a historical research and museum consultancy.</div>
 
 #### **NOTES**
@@ -238,7 +245,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^8]: Indira Arumugam, “Migrant Deities: Dislocations, Divine Agency, and Mediated Manifestations,” *American Behavioral Scientist* 64, no. 10 (2020): 1463, https://doi.org/10.1177/0002764220947763.
 
-[^9]: E.V. Singhan, [*Timiti Festival*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082121) (Singapore: EVS Enterprises, 1976), 8. (From National Library, Singapore, call no. RSING 294.538 SIN)
+[^9]: E.V. Singhan, [*Timiti Festival*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4082121) (Singapore: EVS Enterprises, 1976), 8. (From National Library, Singapore, call no. RSING 294.538 SIN)
 
 [^10]: Balakrishnan Veerasamy Ramasamy, interview by author, 13 July 2022.
 
@@ -248,9 +255,9 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^13]: Lawrence A. Babb, “Walking on Flowers in Singapore: A Hindu Festival,” *Eckistics* 39, no. 234 (May 1975): 333. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^14]: M.D. Muthukumarasamy, “Trance in Fire Walking Rituals of Goddess Tiraupati Amman: Temples in Tamilnadu” in *Emotions in Rituals and Performances: South Asian and European Perspectives on Rituals and Performativity*, ed. Axel Michaels and Christoph Wulf (New Delhi: Taylor & Francis, 2012), 140–42.
+[^14]: M.D. Muthukumarasamy, “Trance in Fire Walking Rituals of Goddess Tiraupati Amman: Temples in Tamilnadu” in *Emotions in Rituals and Performances: South Asian and European Perspectives on Rituals and Performativity*, ed. Axel Michaels and Christoph Wulf (New Delhi: Taylor &amp; Francis, 2012), 140–42.
 
-[^15]: Singhan, [*Timiti Festival*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4082121), 20.
+[^15]: Singhan, [*Timiti Festival*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4082121), 20.
 
 [^16]: Hiltebeitel, *Cult of Draupadi, Volume 1: Mythologies*, 15.
 
@@ -274,7 +281,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^26]: Raffles Museum and Library, “Letter from William Farquhar to Lieutenant L.N. Hull,” [*L11: Letters to and from Raffles*](https://www.nas.gov.sg/archivesonline/private_records/record-details/7944b805-02a0-11e9-bebd-001a4a5ba61b) 111, no. 7 (December 1822): 63. (From National Archives of Singapore) 
 
-[^27]: Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in [*Singapore Indian Heritage*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203015142), ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017), 149. (From National Library, Singapore, call no. RSING 305.89141105957 SIN)
+[^27]: Nalina Gopal, “A Sea of Change, An Ocean of Memories,” in [*Singapore Indian Heritage*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203015142), ed. Rajesh Rai and A. Mani (Singapore: Indian Heritage Centre, 2017), 149. (From National Library, Singapore, call no. RSING 305.89141105957 SIN)
 
 [^28]: Babb, “Walking on Flowers in Singapore: A Hindu Festival,” 334.
 
