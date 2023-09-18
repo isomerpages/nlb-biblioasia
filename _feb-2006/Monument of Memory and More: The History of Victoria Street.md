@@ -23,7 +23,7 @@ In 1999, a *Straits Times* headlines, "National Library to go" announced that th
 #### **History**
 Formally established in 1845, the Singapore Library carried fiction and non-fiction books and included a Reference section. In 1874, it became a government institution known as the Raffles Library and Museum, and was located at Stamford Road at what is today the National Museum's building. In 1955, it was separated from the National Museum, and eventually in 1960, the library moved into its own building next door.
 
-<img src="/images/vol-1-issue-2/Victoria%20Street/raffles%20library.jpg" style="width:80%;">
+<img src="/images/vol-1-issue-2/Victoria%20Street/raffles%20library.jpg" style="width:100%;">
  <div style="background-color: white;">(Left) Site of Raffles National Library showing the British Council Hall which was later demolished.<br>   (Center) The Junior Library of the Raffles Library in the 1950s. <br>  (Right) The Raffles Library display in the Community Education Exhibition, 1957.</div>
 
 In 1953, millionaire philanthropist Dr Lee Kong Chian, made a donation of $375,000 "towards the foundation of a public library with the condition that it house books in Asian languages that would be fully representative of the cultures of Singapore." The former St Andrew's School buildings occupied by the British Council was vacated, as the land was developed for the " Raffles Library."
