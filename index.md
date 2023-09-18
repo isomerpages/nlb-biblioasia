@@ -10,12 +10,12 @@ notification: ""
 sections:
   - hero:
       url: /vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s/
-      button: Record Industry in Singapore in the 60s
+      button: THE STORY OF A CHAPPELL GRAND PIANO
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 2/SG Record Industry/sg_record_industry_hero_img.jpg
+      background: /images/hero_img_grand chappell piano.jpg
   - infopic:
       title: The Curious Visit of Qing Ambassadors to Singapore
       subtitle: People
