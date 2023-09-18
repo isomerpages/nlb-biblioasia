@@ -237,7 +237,7 @@ This is a facsimile reproduction of the 1837 edition of the Gospel of John, whic
 <a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx"><b>Notices of the Indian Archipelago, and Adjacent Countries</b></a><br>Singapore: 1837.<br>Call no. RRARE 991 MOO; Accession no. B03013554J.<br><br>
 This mammoth work features articles on Singapore and Southeast Asia reprinted from the <i>Singapore Chronicle</i> and other scholarly journals. It was compiled by John Henry Moor, the former editor of the <i>Singapore Chronicle</i> and <i>Singapore Free Press</i>. Due to the scarcity of printers and paper, the task took two years to complete. This is among one of the earliest scholarly works printed in Singapore. It was donated to the National Library by Mrs Loke Yew in fulfilment of the intention of her son Loke Wan Tho.</div><br>
 
-<img style="width:45%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/notices%20of%20the%20indian%20archipelago_z.jpg">
+<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/notices%20of%20the%20indian%20archipelago_improved.jpg">
 <div style="background-color: #fff6ba; text-align:left">
 	Title page of <i>Notices of the Indian Archipelago, and Adjacent Countries. Collection of the National Library, Singapore (Call no. RRARE 991 MOO; Accession no. B03013554J).</i></div><br>
 	
@@ -266,7 +266,7 @@ Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=7230342"><b>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami <i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i></b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1853.<br>Call no.: RRARE 225 BIB; Accession no.: B20119134J.<br><br>
 This translation of the Malay New Testament in Romanised Malay was edited and published by Benjamin Keasberry for the British and Foreign Bible Society in 1853. A revised edition was published in 1866.</div><br>
 
-<img style="width:35%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/kitab%20al-kudus,%20iya%20itu%20injil%20isa%20al-masih%20tuhan%20kami_x.jpg">
+<img style="width:45%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/kitab%20al-kudus_improved.jpg">
 <div style="background-color: #fff6ba; text-align:left">
 	Pages from <i>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami (The New Testament of our Lord and Saviour Jesus Christ in Malay). Collection of the National Library, Singapore (Call no. RRARE 225 BIB, Accession no. B20119134J). </i></div><br>	
 	
