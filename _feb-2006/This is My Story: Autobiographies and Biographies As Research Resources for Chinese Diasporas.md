@@ -50,6 +50,9 @@ Besides being an astute businessman, Boon Haw also founded *Sin Chew Jit Poh* in
 
 The life and times of Aw Boon Haw is captured vividly in the biography *Tiger Balm King*. The author conducted interviews with his family members who provided information about Aw Boon Haw's personal life.
 
+<img src="/images/vol-1-issue-2/AutobiographiesBiographies/singaporetycoon.jpg" style="width:50%;">
+<div style="background-color: white;">All Rights Reserved, Times Books International, 1992.</div>
+
 In *From Chinese Villager to Singapore Tycoon: My Life Story*, LienYing Chow shared his from rags to riches success story. It serves as an example of the route many Chinese took to seek their fortunes in the Southeast Asian region. Lien Ying Chow arrived in Singapore with only a few dollars in his pocket. Being an entrepreneur, he established the Overseas Chinese Union Bank in China, and later opened the Overseas Union Bank (OUB) in Singapore.
 
 Another prominent Chinese pioneer is Tan Kah Kee. His memoirs, Nan Qiao Hui Yi Lu, which was written in 1946 was translated into English - The Memoirs of Tan Kah-Kee in 1994. Originally from the village of Jimei, China, Tan Kah Kee arrived in Singapore at age 16 (1890) to work in his father's rice store. The business collapsed in 1903, butTan Kah Kee went on to build an industrial empire ranging from rubber plantations and manufacturing, sawmills, canneries, real estate, import and export brokerage, ocean transport to rice trading. The years between 1912 and 1914 were the best for his enterprises when he amassed a huge fortune. He came to be known as the "Henry Ford of Malaya".
