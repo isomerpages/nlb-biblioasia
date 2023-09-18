@@ -57,6 +57,11 @@ Lee was a skilful wildlife photographer, recognised as a “first-rate photograp
 
 In the early 1960s, Lee decided to live in the White House after she separated from Loke Wan Tho. Living on the island had its challenges and she recalled: “I had to do all my shopping in Singapore… my brother also came to stay with me with his two children… we [had] to shuttle to and fro the whole time in sampan…”. There were advantages though. “It was so beautiful at night looking at the sea and the ships coming in. And sometimes some of the captains knew me and they would hoot their horns!”[^10]
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/sarong-island/">The Mystery of Sarong Island</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+
 The walk from the sampan to the White House was also a bit of a journey, as the *Straits Times* noted when it reported how Lee’s guests had arrived on the island for a party in 1962. After stepping out from the sampan as gracefully as they could, the guests had to “climb a steep hillock through a winding cemented pathway to reach the house. Some of the lady guests, who had been there before, were armed with an extra pair of low-heeled shoes. Those invited for the first time had the experience of walking like an acrobat on a tightrope.” It was worth it, though, said the paper. “The cool breeze, the beautiful scenery, the far-away lights, and the moon throwing its soft radiance on passing shops… make Christina’s ‘White House’ like Shangri-La.”[^11] 
 
 In 1964, Lee decided to turn the island into a “pleasure island” that she wanted to call Pulau Chantek (meaning “Beautiful Island” in Malay). This was later changed to Sarong Island because as Lee’s then husband, the film actor and producer Jeffrey Stone, explained in 1967, “the word sarong is known throughout the world. And it is a word which is easy for Westerners to remember”.[^12]
