@@ -55,15 +55,16 @@ The original film was never commercially released within the country but won cri
 
 A landmark work in Indonesian cinema, _Surat Untuk Bidadari_ has been an inspiration to newer generations of Indonesian filmmakers. Most notably, its screenplay provided Mouly Surya, another Indonesian director, with the premise for her widely acclaimed hit, _Marlina the Murderer in Four Acts_ (2017), which premiered in the Directors' Fortnight section of the 2017 Cannes Film Festival.[^8]
 
-![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/itaa_image%208.png)
-<div style="background-color: white;"> A still from the print of <i>Surat Untuk Bidadari</i> from The Japan Foundation. The Japanese print is a complete version of the film and used as a secondary source to the Indonesian print as it contained burnt-in English and Japanese subtitles. <i>Courtesy of Garin Nugroho.</i> </div>
-
-
 In July 2016, I attended the 9th Biennial Association for Southeast Asian Cinemas Conference in Kuala Lumpur and had the opportunity to meet Garin Nugroho, who was a panellist at the conference. He shared with me that after the fall of the Suharto administration in 1998, the film laboratories that were associated with the administration closed and most of the original negatives and prints, including those of his early works, were either destroyed or lost.&nbsp;
 
 There was only a single 35 mm print of _Surat Untuk Bidadari_ residing at the Sinematek Indonesia, a film archive based in Jakarta, but it was a censored version. From the book, _Indonesian Cinema After the New Order: Going Mainstream_, I learnt that since the 1970s, the Suharto administration “\[had taken\] an active role in controlling film production and content through new laws and regulations”, and “film producers were known to submit a version of the film to the censors to be cut, but then played the uncut version in cinemas”.[^9] It was deduced that the film was such a case, but never got its release.
 
 Before every restoration, it is essential to take stock of all available film elements that can be used. After weeks of investigations, the AFA located a second 35 mm print of _Surat Untuk Bidadari_ residing with the Film and Broadcast media section of The Japan Foundation. It was subsequently ascertained that the print was the very same one screened at the Tokyo International Film Festival in 1994.
+
+
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/itaa_image%208.png)
+<div style="background-color: white;"> A still from the print of <i>Surat Untuk Bidadari</i> from The Japan Foundation. The Japanese print is a complete version of the film and used as a secondary source to the Indonesian print as it contained burnt-in English and Japanese subtitles. <i>Courtesy of Garin Nugroho.</i> </div>
+
 
 It was fortuitous that the second print was sent via a diplomatic bag through the Japan Embassy in Jakarta in 1994. If Garin had the print exported on his own, it would have needed prior clearance from the Indonesian government or would have been confiscated at customs.&nbsp;
 
@@ -74,6 +75,11 @@ Garin decided not to bring the film back to Indonesia for fear of interrogation 
 Both the 35 mm prints from Sinematek Indonesia and The Japan Foundation were sent to Éclair Cinema (now Éclair Classics), a film restorationlaboratory in France, for comparison, and it was confirmed that the one from The Japan Foundation was a complete version of the film. The latter was therefore used as a secondary source to the Indonesian print as it contained burnt-in English and Japanese subtitles.&nbsp;
 
 The print from Sinematek Indonesia was affected by dirt and shrinkage and had numerous thick scratches on the emulsion and base of the material. Damage from folds, torn frames and broken perforations were uncovered during inspection. Many of the splices made with tape had deteriorated and had to be repaired to smoothen the process of digitisation. A total of 14 shots and 4,500 frames (approximately 3 minutes and 7 seconds) were also missing from the Indonesian print and had to be reconstructed using the Japanese print as a reference. Numerous scenes and shots on the Indonesian printthat were either shortened or removed from the original suggest that images depicting discord and insubordination were deliberately removed.
+
+
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/itaa_image%208.png)
+<div style="background-color: white;"> A still from the print of <i>Surat Untuk Bidadari</i> from The Japan Foundation. The Japanese print is a complete version of the film and used as a secondary source to the Indonesian print as it contained burnt-in English and Japanese subtitles. <i>Courtesy of Garin Nugroho.</i> </div>
+
 
 The restoration of _Surat Untuk Bidadari_ took about six months. Fortunately, Garin was available to catch a work-in-progress preview of the restoration at the Oldham Theatre at the National Archives of Singapore, where the AFA holds its regular screenings. Having not seen the film play on a big screen in over 20 years, he reminisced about the making of the film and shared anecdotes as we watched the film.&nbsp;
 
