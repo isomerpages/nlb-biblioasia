@@ -83,7 +83,7 @@ Between 1844 and 1860, Gilbert and Robert Bain were Jurors of the Grand Jury, an
 Gilbert Angus Bain died in Singapore on 24 March 1887, and left a family of seven sons and two daughters.
 
 #### **St Joseph's Church**
-In 1822, the Portuguese Catholic priests obtained from Raffles land for a small church. In the 1850s, it was considered too small for the residents especially the Eurasians living at the European q uarters. In 1906, the original church was demolished, the present Church of St Joseph was built in 1912- a landmark that remains at the front of the main National Library entrance.
+In 1822, the Portuguese Catholic priests obtained from Raffles land for a small church. In the 1850s, it was considered too small for the residents especially the Eurasians living at the European quarters. In 1906, the original church was demolished, the present Church of St Joseph was built in 1912- a landmark that remains at the front of the main National Library entrance.
 
 #### **Street Names**
 As seen in leases in which survey plans were attached, North Bridge Road and Middle Road were named in 1826 by Lieutenant Philip Jackson. George D Coleman's 1836 town plan and map retained these names.
@@ -130,6 +130,9 @@ After the war and until the late 1980s, as land leases expired, the area of shop
 <div style="background-color: white;">Empress Building.</div>
 
 Opposite the Empress Hotel was St Anthony's Canossian Convent School, and next to it, the then Catholic Portuguese Mission of St Joseph's Church, and on its left - St Anthony's Boys' School.
+<img src="/images/vol-1-issue-2/Victoria%20Street/victoria%20street%201950s.jpg" style="width:80%;">
+<div style="background-color: white;text-align:center">Victoria Street, 1950s.  
+</div>
 
 By the late 1980s, hundreds of buildings owned by private owners in these areas were acquired and demolished. On the National Library site were two roads, Holloway Lane and Lorong Sidin, which were expunged to make way for comprehensive redevelopment. In 1980, at Bain Street and North Bridge Road, the first inkling of modernity to the area was the Bras Basah Complex with two 25-storey blocks HDB flats.
 
