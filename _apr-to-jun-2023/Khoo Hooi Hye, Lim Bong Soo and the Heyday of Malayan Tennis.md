@@ -34,6 +34,11 @@ For almost six decades after the arrival of Stamford Raffles, there was barely a
 
 However, as the local Straits Chinese community grew larger, more prosperous and financially secure in keeping with Singapore’s rising stature in global colonial-capitalism networks, it started to feel the need to assert itself socially. Numerous clubs sprang up in response, one of the most notable being a debating forum called the Celestial Reasoning Society in 1882.[^9] This need was personified by Lim Boon Keng and Song Ong Siang – both prominent members of the Straits Chinese community and Queen’s Scholars[^10] – who returned from their undergraduate studies in the United Kingdom in the early 1890s bursting with reformist zeal. 
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/tennis/">Malaya's Prewar Tennis Greats</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+
 The duo, taking their sporting cues from the West rather than the East, exhorted the local Chinese to become more physically active through their new quarterly journal – the *Straits Chinese Magazine* (the two men were the editors). An article titled “Physical Religion” in the inaugural issue in March 1897 stressed the need for physical as well as mental fitness. 
 
 “If you do not wish to live a physically virtuous life, that is a healthy life, you are an immoral being,” it thundered. “Beauty of form, and physical strength and activity, as well as health, should be sought after and valued no less than beauty and power of mind.”[^11]
@@ -83,7 +88,7 @@ Later in the year, the two met yet again, this time in the semi-final of the Mal
 In August 1929, the duo clashed again – this time at the SCC in the Malaya Cup final. In stark contrast to the earlier April match though, this one was an anti-climax. Lim, having played the singles and doubles semi-finals earlier that same day was forced to retire due to exhaustion, handing Khoo his fifth and final Malaya Cup.[^28]
 
 ![](/images/Vol%2019%20Issue%201/Tennis/image5.png)
-<div style="background-color: white;">Khoo Hooi Hye (left) and Lim Bong Soo (right) before the final of the Malaya Cup held at the Singapore Cricket Club on 6 August 1929. This would be the last time the two would meet in competitions, as Khoo moved to Shanghai in 1930. <i>Source: Malayan Saturday Post, 10 August 1929. © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">Khoo Hooi Hye (left) and Lim Bong Soo (right) before the final of the Malaya Cup held at the Singapore Cricket Club on 6 August 1929. This would be the last time the two would meet in competitions, as Khoo moved to Shanghai in 1930. <i>Source: Malayan Saturday Post, 10 August 1929.&nbsp;©&nbsp;SPH Media Limited. Permission required for reproduction.</i></div>
 
 The year 1929 was one of the most memorable in Khoo’s celebrated career. Between the two contrasting clashes with Lim, he had played another match for the ages, on 20 June, in the Singapore Championship final against the Frenchman Paul Clerc.[^29]
 
@@ -131,7 +136,7 @@ The game’s dying embers though, threw up a few final sparks. Ong Chew Bee, 26,
 Born in 1924, Ong had grown up when Khoo and Lim were at the peak of their fame and success but took up tennis at an unpropitious time in 1939, with the war looming over the horizon. Encouraged by his father, an eminent doctor, who built a tennis court at home, Ong persevered through the lack of tournaments and even a shortage of tennis balls to emerge on the other side of the war as one of the region’s most accomplished players. By 1950, Ong was striding across Malayan courts like a colossus in the mould of pre-war heroes Khoo and Lim. That year, Ong won the singles and doubles tournaments at both the Singapore Championship and the Malaya Cup. For good measure, he won the former’s mixed doubles too.[^44]  
 
 ![](/images/Vol%2019%20Issue%201/Tennis/image7.png)
-<div style="background-color: white;">At the 1950 Singapore tennis championship, Ong Chew Bee won the men’s singles, doubles (with Lim Hee Chin) and mixed doubles (with Mrs A. Greenhill) events. <i>Source: Straits Budget, 13 July 1950. © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">At the 1950 Singapore tennis championship, Ong Chew Bee won the men’s singles, doubles (with Lim Hee Chin) and mixed doubles (with Mrs A. Greenhill) events. <i>Source: Straits Budget, 13 July 1950.&nbsp;©&nbsp;SPH Media Limited. Permission required for reproduction.</i></div>
 
 Ong’s father rewarded him for these exploits with a trip to Wimbledon in 1951. While he was beaten in the first round, Ong would not lose to a Malayan player for the rest of the decade. By the time he hung up his racket, Ong had won eight Singapore Championships (1950, 1952–58), three Malaya Cups (1950, 1954–55) and travelled to Ceylon, the Philippines and India as a member of the Malayan Davis Cup team. There was an astonishing post-script as well. After retiring from tennis, the right-handed Ong took up golf – left-handed – and emerged as one of Singapore’s most successful amateur golfers. He was also part of the team that won the 1967 Putra Cup.[^45]    
 
@@ -143,8 +148,8 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2019%20Issue%201/Authors/Abhishek_Mehrotra.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2019%20Issue%201/Authors/Abhishek_Mehrotra.png" style="width: 100px; height: 100px;">
 <b>Abhishek Mehrotra</b> is a researcher and writer whose interests include media and society in colonial Singapore, urban toponymy and post-independence India. He is working on his first book – a biography of T.N. Seshan, one of India’s most prominent bureaucrats. The book, commissioned by HarperCollins, is slated for release in 2024. Abhishek is a former Lee Kong Chian Research Fellow (2021–2022).</div>
 
 
