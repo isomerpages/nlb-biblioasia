@@ -62,7 +62,10 @@ In *From Chinese Villager to Singapore Tycoon: My Life Story*, LienYing Chow sha
 <img src="/images/vol-1-issue-2/AutobiographiesBiographies/tan%20kah%20kee.jpg" style="width:50%;">
 <div style="background-color: white;">Tan Kah Kee.  <i> Reproduced from Tan Kah Kee. </i> All Rights Reserved, Oxford University Press, 1989. </div>
 
-Another prominent Chinese pioneer is Tan Kah Kee. His memoirs, Nan Qiao Hui Yi Lu, which was written in 1946 was translated into English - The Memoirs of Tan Kah-Kee in 1994. Originally from the village of Jimei, China, Tan Kah Kee arrived in Singapore at age 16 (1890) to work in his father's rice store. The business collapsed in 1903, butTan Kah Kee went on to build an industrial empire ranging from rubber plantations and manufacturing, sawmills, canneries, real estate, import and export brokerage, ocean transport to rice trading. The years between 1912 and 1914 were the best for his enterprises when he amassed a huge fortune. He came to be known as the "Henry Ford of Malaya".
+Another prominent Chinese pioneer is Tan Kah Kee. His memoirs, Nan Qiao Hui Yi Lu, which was written in 1946 was translated into English - The Memoirs of Tan Kah Kee in 1994. Originally from the village of Jimei, China, Tan Kah Kee arrived in Singapore at age 16 (1890) to work in his father's rice store. The business collapsed in 1903, but Tan Kah Kee went on to build an industrial empire ranging from rubber plantations and manufacturing, sawmills, canneries, real estate, import and export brokerage, ocean transport to rice trading. The years between 1912 and 1914 were the best for his enterprises when he amassed a huge fortune. He came to be known as the "Henry Ford of Malaya".
+
+<img src="/images/vol-1-issue-2/AutobiographiesBiographies/chineselegacy.jpg" style="width:50%;">
+<div style="background-color: white;"> All Rights Reserved, Cantonian, 1995. </div>
 
 Spending his fortune not on himself or his family, but the community, Tan Kah Kee was a philanthropist. His abiding concerning was education. He founded and financed several schools and other educational institutions in his native homeland as well as in Singapore. Among the schools he founded in Singapore are Singapore Chinese High, Tao Nan, Ai Tong, Chong Fu, and Nanyang Girls' High.
 
