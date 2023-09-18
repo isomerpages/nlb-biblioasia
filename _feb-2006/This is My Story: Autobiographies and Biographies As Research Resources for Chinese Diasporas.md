@@ -12,6 +12,8 @@ description: Written records in the form of autobiographies and biographies
  Throughout history, man has recorded his interpretations of the world around him. This can be seen from early cave drawings to the published written life of a person . Written records in the form of autobiographies and biographies have enabled readers to gain an understanding of cultural, socio-political, and economic conditions, and the personal lives and backgrounds of people in a particular time frame. This helps to add dimensions to the official records compiled by historians. The writer of official historical records has to decipher and select information that best represent the priorities of the writer's life and time. In the process of doing so, we often only get to see the 'big' picture or sometimes the officially recognised picture, but not the other side of the story that will help enrich our understanding of the life and times of people in a particular phase in history.
  
 Hence, autobiographies and biographies involve a narration of self-identity in relation to life experiences, usually told retrospectively and often in a chronological order. For the autobiographer, it is dependent on his memory, his interpretation of his surroundings, as well as his values and attitudes towards life. For writers of biographies, there is an added challenge of piecing together the information gathered from a myriad of sources.
+<img src="/images/vol-1-issue-2/AutobiographiesBiographies/eatingsalt.jpg" style="width:50%;">
+ <div style="background-color: white;">All Rights Reserved, Times Edition, 1990.</div>
 
 An important value in an autobiography is the fact that it allows the reader to get into the inner world of the writer and have a glimpse of the life he constructed and believed. This offers great research values to those who are looking for information on the political, social and economic conditions of a certain era. For instance, in Ho Rih Hwa's *Eating Salt: An Autobiography*, he relates about his conflicting emotions regarding his self-identity when Singapore became independent. He mentions that his feelings of "patriotism bursting from within but no country to be patriotic to" was changed to "an overwhelming joy ... I finally had a nation to which I could feel I truly belonged, and it was up to me and to my fellow countrymen to make the independence a lasting one". In this particular instance, it gives the reader a sense of how a second generation Chinese Singaporean felt during that historic moment.
 
@@ -74,6 +76,3 @@ Sheila Allan, _[Diary of a Girl in Changi, 1941–45](https://eservice.nlb.gov.s
 Wee Kim Wee, _[Wee Kim Wee: Glimpses and Reflections](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12247006)_ (Singapore: Landmark Books, 2004). (Call no. RSING 9595705092 WEE)
 
 Zhou Mei, _[Elizabeth Choy: More Than a War Heroine: A Biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319)_ (Singapore: Landmark Books, 1995). (Call no. RSING 37110092 ZHO)
-
-
-
