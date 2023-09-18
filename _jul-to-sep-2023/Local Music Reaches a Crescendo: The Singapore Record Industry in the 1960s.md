@@ -17,6 +17,11 @@ EMI was famously conservative when it came to signing up local talent in its mai
 
 Most Singapore recordings in the late 1950s and early 1960s were either traditional Chinese opera, or Malay and Chinese film or pop songs of the period sung in Chinese or Malay. There were very few local recordings in English aimed at the emerging youth market, which at the time was almost completely dominated by imported British and American (and some European) records. 
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode<br>  "<a href="https://biblioasia.nlb.gov.sg/podcast/recording-industry/">The Recording Industry in Singapore, 1903-1985</a>"</b><br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+
+
 #### **New Competitive Forces Emerge**
 
 It was not until 1963 that a new multinational record company would set up operations in Singapore. After a relatively unsuccessful investment in Hong Kong in the 1950s, Philips decided to relocate to Singapore. One of its first decisions in 1963 was to release a record by a Singapore guitar band, a step that would singlehandedly kickstart a process of radical change in the local record industry. This guitar band was The Crescendos, and the rest, as they say, is history. 

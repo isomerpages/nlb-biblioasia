@@ -6,11 +6,6 @@ description: During World War II, forced civilian labourers known as rōmushas
   the Death Railway.
 image: /images/Vol 18 Issue 3/Romusha/3_Bapak_50s copy.jpg
 ---
-
-
-
-
-
 #### During World War II, forced civilian labourers known as *rōmusha* were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 By Shirlene Noordin
 
@@ -57,6 +52,11 @@ Bapak never really explained to us, his grandchildren, what had exactly happened
 It was probably through his interactions with the locals that my grandfather learnt Thai, a language he continued to speak long after the war. The local help he received, I believe, was crucial to his survival.
 
 I didn’t think to ask more questions when my grandfather was alive. I was too young then to understand the significance of his experience but looking back I wish I had. 
+
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Rōmusha</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
 
 #### **Early Life**
 
@@ -161,8 +161,8 @@ It is now exactly 30 years since Bapak’s passing, and reflecting on his life h
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%203/Authors/Shirlene%20Noordin.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%203/Authors/Shirlene%20Noordin.png" style="width: 100px; height: 100px;">
 	<b>Shirlene Noordin</b> is the founder of Phish Communications, a communications consultancy specialising in arts and culture.</div>
 
 #### **NOTES**
@@ -171,9 +171,9 @@ It is now exactly 30 years since Bapak’s passing, and reflecting on his life h
 
 [^2]: Takuma Melber, “The Labour Recruitment of Local Inhabitants as Rōmusha in Japanese-Occupied South East Asia,” *International Review of Social History* 61, no. 4 (2016): 169. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^3]: Robert Hardie, [*The Burma-Siam Railway: The Secret Diary of Dr. Robert Hardie, 1942–1945*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=3076628) (London: Imperial War Museum, 1984, c1983), 102. (From National Library, Singapore, call no. RCLOS 940.5425 HAR-[JSB])
+[^3]: Robert Hardie, [*The Burma-Siam Railway: The Secret Diary of Dr. Robert Hardie, 1942–1945*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=3076628) (London: Imperial War Museum, 1984, c1983), 102. (From National Library, Singapore, call no. RCLOS 940.5425 HAR-[JSB])
 
-[^4]: Eric Lomax, [*The Railway Man*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7494542) (London: Jonathan Cape, 1995), 83. (From National Library, Singapore, call no. RSING 940.5481411 LOM-[WAR])
+[^4]: Eric Lomax, [*The Railway Man*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=7494542) (London: Jonathan Cape, 1995), 83. (From National Library, Singapore, call no. RSING 940.5481411 LOM-[WAR])
 
 [^5]: Communication with Jonathan Moffat.
 

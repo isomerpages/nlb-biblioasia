@@ -15,6 +15,11 @@ Back in the 1980s and 90s, when Atie was a young girl swimming in the waters sur
 
 This one-day tour[^3] in October 2019 around parts of Singapore – where they once lived – was the least we could do for them given the incredible hospitality they had shown us since we embarked on our research project in 2018 with another team member, Ruslina Affandi. We had set out to collect oral history interviews from the Orang Seletar, and were able to do so thanks to their time and generosity in sharing their stories.
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode <br>"<a href="https://biblioasia.nlb.gov.sg/podcast/orang-seletar/">What’s Become of the Seafaring Orang Seletar?</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div> 
+
 #### **Who Are the Orang Seletar?**
 
 A nomadic sea people, the Orang Seletar[^4] have for centuries called the Tebrau Strait (Johor Strait) their home as they roamed along the mangroves, shores and rivers in the northern part of Singapore and on the southern side of peninsular Malaysia. They relied heavily on their multifunctional *pau kajang* – a wooden boat that typically houses a family of up to six people. Besides serving as a mode of transportation, the vessel was also their home – a place where they slept, cooked and played. 
@@ -110,16 +115,16 @@ In 2018 and 2019, a project was set up to formally archive the voices of one of 
 <br><br>
 The author is grateful that what had started out as an independent passion project turned into genuine, longstanding friendships. She would like to express her heartfelt thanks to her project teammates, Ruslina Affandi and Chan Kah Mei, as well as to the Orang Seletar who contributed to the project: Eddy bin Salim, Jefree bin Salim, Kelah bin Lah @ Kilo, Komeng, Letih, Lel bin Jantan, Tok Batin Entel, Tok Batin Salim bin Palun and Mina binte Buruk. Special thanks are also due to Jefree bin Salim for contributing photographs for this essay.
 <br><br>
-<img src="/images/Vol%2018%20Issue%201/Orang%20Seletar/08.png"/>
+<img src="/images/Vol%2018%20Issue%201/Orang%20Seletar/08.png">
 <br>Kelah bin Lah @ Kilo (in white), Lel bin Jantan (in pink) and their family in Kampung Kuala Masai, Johor Bahru, 2018. <i>Photo by and courtesy of Ilya Katrinnada.</i><br><br>
-<img src="/images/Vol%2018%20Issue%201/Orang%20Seletar/11.png"/>
+<img src="/images/Vol%2018%20Issue%201/Orang%20Seletar/11.png">
 <br>Tok Batin Buruk’s daughter Mina (seated) and her husband (in white shirt) with their children and grandchildren at Kampung Pasir Putih, Johor Bahru, 2018. <i>Photo by and courtesy of Ilya Katrinnada.</i><br>
 </div>
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Ilya.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%201/Authors/Ilya.png" style="width: 100px; height: 100px;">
 	<b>Ilya Katrinnada</b> is an educator and writer with a keen interest in the intersections of creativity, community and education. Having graduated with a major in anthropology, she currently works as a special education teacher. She has also written about how the Orang Seletar live with nature in the Founder’s Memorial journal <i>+65</i>, which is published by the National Heritage Board.</div>
 
 	
