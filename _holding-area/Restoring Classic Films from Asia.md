@@ -115,4 +115,7 @@ As part of the AFA’s preservation workflow, the raw and restored digital scans
 
 In 2021, the AFA embarked on the digitisation of the prints of _Soldadu Unnahe_ and _Ponmani_ but sadly the deterioration was so advanced that there was complete loss of images and sound in many parts of the prints. The AFA continues to be in search of surviving film elements of these two films.
 
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/img_9953_image%2010.png)
+<div style="background-color: white;"> A section of the 35 mm reel of <i>Ponmani</i> shows the loss of images, leaving only a part of a face visible. <i>Courtesy of Asian Film Archive.</i></div>
+
 With film restoration being an expensive and laborious process, there may not always be funding to restore a film. In the meantime, there is a greater number of films that are lost when they are not being preserved. My hope is that more filmmakers will realise the importance of entrusting and preserving their films with a film archive as soon as possible, and not wait until the films have deteriorated to a point that only restoration can help salvage them, if these are even salvageable at all. This is how we have lost many valuable classic films.
