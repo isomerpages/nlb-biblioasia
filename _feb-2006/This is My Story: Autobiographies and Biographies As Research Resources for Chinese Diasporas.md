@@ -52,3 +52,28 @@ Tan Kah Kee began writing his memoirs while taking refuge in Java from the Japan
 The autobiographies and biographies available in the library can be divided into the following general categories: artists, bankers and entrepreneurs, early Chinese immigrants, educators, political personalities, ex-prisoners of war, and the Straits Chinese. 
 
 In conclusion, autobiographies and biographies form an interesting description of personal experiences and contributions of individuals to the society through the years. The photographs and snippets of information offer researchers a rich information resource to discover and elaborate on. Thus, the collection of life stories gets to be enriched and preserved.
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Ang_Seow_Leng.png">
+<center><b>Ang Seow Leng</b><br> Senior Reference Librarian<br> Lee Kong Chian Reference Library.</center></div>
+
+#### **FURTHER READING**
+
+Alan Chong, _[Goh Chok Tong, Singapore's New Premier](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5808190)_ (Malaysia: Pelanduk Publications (M), 1991). (Call no. RSING 959.57092 CHO)
+
+Archives &amp; Oral History Department, Singapore, _[Pioneers of Singapore: A Catalogue of Oral History Interviews](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081046)_ (Singapore: Archives &amp; Oral History Department, 1984). (Call no. RSING 016.9595700992 SIN)
+
+Grace Loh and Lee Su Yin, _[Beyond Silken Robes: Profiles of Selected Chinese Entrepreneurs in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9172699)_ (Singapore: Times Academic Press, 1998). (Call no. RSING 338.040922595 LOH)
+
+Lee Kuan Yew, _[From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172)_ (Singapore: Times Editions: Singapore Press Holdings, 2000). (Call no. RSING 95957092 LEE)
+
+Sheila Allan, _[Diary of a Girl in Changi, 1941–45](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12588700)_ (N.S.W.: Kangaroo Press, 2004). (Call no. RSING 940.547252092 ALL)
+
+Wee Kim Wee, _[Wee Kim Wee: Glimpses and Reflections](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12247006)_ (Singapore: Landmark Books, 2004). (Call no. RSING 9595705092 WEE)
+
+Zhou Mei, _[Elizabeth Choy: More Than a War Heroine: A Biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319)_ (Singapore: Landmark Books, 1995). (Call no. RSING 37110092 ZHO)
+
+
+
