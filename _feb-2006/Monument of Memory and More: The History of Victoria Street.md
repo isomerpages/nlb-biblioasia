@@ -67,6 +67,10 @@ John Henry Moor's other property at the Victoria site w as leased in October 183
 Besides managing the foundry, J M Cazalas joined the Police in 1873 and served in the Voluntary Fire Brigade. In 1879 he mortgag ed his property to Seah Eu Chin. Seah, a wealthy merchant, owned numerous nutmeg and gambier plantations. Cazalas remained at Middle Road until 1885 when he died and his family sold the property to a Chinese owner in the name of Ban Hap Kongsi.
 
 #### **Properties of Charles Prince Holloway**
+
+<img src="/images/vol-1-issue-2/Victoria%20Street/holloway%20lane.jpg" style="width:80%;">
+ <div style="background-color: white;">Holloway Lane in 1938.  The Library is standing on this piece of land today.</div>
+
 Also part of the Victoria site was Lease 262, (22.52m2 / 242,400 sq ft) owned by the 40t h Bengal Native Infantry Regiment. In April 1827, it was sold to another Eurasian, Charles Prince Holloway. As there was an access lane to his property, it was convenient to name the small road, Holloway Lane, after him. In 1846, C P Holloway was in the Deputy Registrar of Imports and Exports at the Trade Department, and in 1853, he was transferred to the Marine Department. In 1860 he moved to Prinsep Street but the name Holloway Lane remain unchanged until the land was cleared in the mid-1970s. On 23 October 1966, Prime Minister Lee KuanYew officiated at the opening of the "Kheng Ngai Lee Clan Association '; possibly the only distinctive organisation in this little street.
 
 #### **Gilbert Angus Bain's Properties**
