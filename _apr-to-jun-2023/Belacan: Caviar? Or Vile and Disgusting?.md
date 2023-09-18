@@ -18,9 +18,14 @@ In 2019, Prime Minister Lee Hsien Loong conveyed his thanks to the Malaysian que
 
 *Sambal belacan* is a regular accompaniment to rice in Malay, Eurasian and Peranakan  meals. It is made by pounding toasted *belacan* with chillies and adding calamansi lime juice, salt and sugar to that mixture. While it is popular with many people, its key ingredient, *belacan*, has a somewhat malodourous reputation. 
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/belacan/">Belacan: Caviar or Vile?</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+
 Hugh Clifford, who served as Governor of the Straits Settlements between 1927 and 1929, referred to *belacan* as “that evil-smelling condiment which [had] been so ludicrously misnamed the Malayan Caviare” in his 1897 account of the Malay Peninsula. He wrote that the coasts reeked of “rank odours” as a result of women villagers “labouring incessantly in drying and salting the fish which [had] been taken by the men, or pounding prawns into *blâchan*” throughout the fishing season. The stench was so strong that “all the violence of the fresh, strong, monsoon winds” would only “partially purge” the villages of it.[^2]
 
-In his book, *A Descriptive Dictionary of the Indian Islands & Adjacent Countries* (1856), John Crawfurd, the former Resident of Singapore, describes balachong (*belacan*) as:
+In his book, *A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries* (1856), John Crawfurd, the former Resident of Singapore, describes balachong (*belacan*) as:
 
 “[A] condiment made of prawns, sardines, and other small fish, pounded and pickled. The proper Malay word is bâlachan [*belacan*], the Javanese trasi [*terasi*], and the Philippine bagon [*bagoong*]. This article is of universal use as a condiment, and one of the largest articles of native consumption throughout both the Malay and Philippine Archipelago. It is not confined, indeed, as a condiment to the Asiatic islanders, but is also largely used by the Birmese [Burmese], the Siamese, and Cochin-Chinese. It is, indeed, in great measure essentially the same article known to the Greeks and Romans under the name of garum, the produce of a Mediterranean fish.”[^3]
 
@@ -120,7 +125,7 @@ Despite ongoing urban redevelopment and reclamation, there was still a cottage i
 The widow started making *belacan* as part-time work to feed her family. She was usually at the shore by 6.30 am. Depending on the tide and weather, she might even be there earlier. On a good day, it did not take long for her *sondong* to be filled with shrimps. On other days, she would have to wait one to two hours to get a good catch.[^30] Like her, other fisherfolk made and sold *belacan* as a means to earn extra income for their families. Mak Piah sold her *belacan* for $1.
 
 ![](/images/Vol%2019%20Issue%201/Balacan/balacan_5.png)
-<div style="background-color: white;">Mak Piah uses a <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps) for making <i>belacan</i>. <i>Source: Berita Harian, 9 July 1983. © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">Mak Piah uses a <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps) for making <i>belacan</i>. <i>Source: Berita Harian, 9 July 1983. ©&nbsp;SPH Media Limited. Permission required for reproduction.</i></div>
 
 While *belacan* production still endures in other parts of Southeast Asia today, scenes of people catching *udang geragau* with their *sondong* and making *belacan* are long gone from Singapore. The shores are now void of the smell of drying fish and *belacan*, although one can still catch the aromatic whiff of *belacan* being toasted from homes and eateries.
 
@@ -174,9 +179,9 @@ Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Artic
 
 [^1]: “PM Lee Expresses Appreciation to Malaysia’s Queen for ‘Royal’ Sambal Belacan,” *Today*, 29 October 2019, https://www.todayonline.com/singapore/pm-lee-expresses-appreciation-permaisuri-agong-royal-sambal-belacan.
 
-[^2]: Hugh Clifford, [*In Court & Kampong: Being Tales & Sketches of Native Life in the Malay Peninsula*](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx) (London: Grant Richards, 1897), 137. (From BookSG)
+[^2]: Hugh Clifford, [*In Court &amp; Kampong: Being Tales &amp; Sketches of Native Life in the Malay Peninsula*](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx) (London: Grant Richards, 1897), 137. (From BookSG)
 
-[^3]: John Crawfurd, [*A Descriptive Dictionary of the Indian Islands & Adjacent Countries*](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx) (London: Bradbury & Evans, 1856), 27. (From BookSG). Also see Gracie Lee, “[Crawfurd on Southeast Asia](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd),” *BiblioAsia* 11, no. 4 (January–March 2016): 16 –17. For more information on garum, see Sally Grainger, [*The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205370569) (Abingdon, Oxon; New York, NY: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
+[^3]: John Crawfurd, [*A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries*](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx) (London: Bradbury &amp; Evans, 1856), 27. (From BookSG). Also see Gracie Lee, “[Crawfurd on Southeast Asia](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd),” *BiblioAsia* 11, no. 4 (January–March 2016): 16 –17. For more information on garum, see Sally Grainger, [*The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205370569) (Abingdon, Oxon; New York, NY: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
 
 [^4]: William Dampier, *Voyages and Descriptions: Vol.II. In Three Parts, Viz. I. A Supplement of the Voyage Round the World, ... 2. Two Voyages to Campeachy; ... 3. A Discourse of Trade-winds, Breezes, Storms, ... By Capt. William Dampier. Illustrated with Particular Maps and Draughts. To Which Is Added, a General Index to Both Volumes* (London: Printed for James Knapton, 1699), 28, Internet Archive, https://archive.org/details/voyagesdescripti00damp/page/n7/mode/2up.
 
@@ -190,7 +195,7 @@ Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Artic
 
 [^9]: Amin Sweeney, [*Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 1*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12729835) (Jakarta: Kepustakaan Populer Gramedia, 2005), 134. (From National Library, Singapore, call no. Malay RSING 959.5 KAR)
 
-[^10]: Henry O. Forbes, [*A Naturalist’s Wanderings in the Eastern Archipelago, a Narrative of Travel and Exploration from 1878 to 1883*](https://eresources.nlb.gov.sg/printheritage/detail/08a1900b-229e-4fdd-857a-eb267c839f64.aspx) (London: Sampson Low, Marston, Searle & Rivington, 1885), 60–61. (From BookSG)
+[^10]: Henry O. Forbes, [*A Naturalist’s Wanderings in the Eastern Archipelago, a Narrative of Travel and Exploration from 1878 to 1883*](https://eresources.nlb.gov.sg/printheritage/detail/08a1900b-229e-4fdd-857a-eb267c839f64.aspx) (London: Sampson Low, Marston, Searle &amp; Rivington, 1885), 60–61. (From BookSG)
 
 [^11]: William T. Hornaday, [*Two Years in the Jungle: The Experiences of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo with Maps and Illustrations*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4256842) (London: K. Paul, Trench, 1885), 304. (From National Library, Singapore, call no. RRARE 910.4 HOR)
 
@@ -226,7 +231,7 @@ Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Artic
 
 [^27]: “[Kisah di Sebalik Nama2 Menarik di Kg Elias](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860709-1.2.23.3),” *Berita Harian*, 9 July 1986, 3. (From NewspaperSG)
 
-[^28]: Ali Salim, [*Kampong Keranji 1948–1973: Sebuah Memoir*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205423966) (Singapore: IQrak Publication & Distribution, 2021), 46. (From National Library, Singapore, call no. Malay RSING 959.57 ALI-[HIS]); “[Jaminan Menteri Abd. Aziz Ishak](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19601004-1.2.53),” *Berita Harian*, 4 October 1960, 4. (From NewspaperSG)
+[^28]: Ali Salim, [*Kampong Keranji 1948–1973: Sebuah Memoir*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205423966) (Singapore: IQrak Publication &amp; Distribution, 2021), 46. (From National Library, Singapore, call no. Malay RSING 959.57 ALI-[HIS]); “[Jaminan Menteri Abd. Aziz Ishak](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19601004-1.2.53),” *Berita Harian*, 4 October 1960, 4. (From NewspaperSG)
 
 [^29]: T.W. Burdon, [*Fisheries Survey Report, No. 2: The Fishing Gear of the State of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4077992) (Singapore: Printed at the Government Printing Office, 1959), 103–104, 145. (From National Library, Singapore, call no. RCLOS 639.2095957 BUR-[JSB])
 
