@@ -92,6 +92,11 @@ Nearly two decades before Garin Nugroho began his film career in Indonesia, ther
 
 The AFA’s first encounter with the works of Pathiraja was serendipitous. In 2017, the AFA was alerted to the existence of the 35 mm reels of three films: _Ponmani_ (_Younger Sister_, 1977), _Bambaru Avith_ (_The Wasps Are Here_, 1978) and _Soldadu Unnahe_ (_Old Soldier_, 1981) that were found languishing below a stairwell of a local institution, which had collected the films years ago but was unable to care for them. These films, which have severely deteriorated, turned out to be among Pathiraja’s seminal works as these are among the filmmaker’s earliest films that were screened and won awards outside of Sri Lanka.[^13]
 
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_aft_image%203.png)
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_bef0_image%206.png)
+<div style="background-color: white;"> A total of 14 shots and 4,500 frames (approximately 3 minutes, 7 seconds) were missing from the print from Sinematek Indonesia, and had to be reconstructed using the Japanese print as a reference. For example, this still showing the lead character burning the letters he had seized from the postman was missing. <i>Courtesy of Garin Nugroho.</i> </div>
+
+
 Set in the northern city of Jaffna, Pathiraja’s only Tamil-language film, _Ponmani,_ traces the fortunes and concerns of an economically depleted upper caste, lower middle-class family. Ponmani, the youngest daughter in the family has to wait until the marriage of the middle daughter, Saraoja, before she can escape from her life in the home. She falls in love with a boy from a lower fisherman caste but learns that her family has no money to pay for Saraoja’s dowry.
 
 <i>Bambaru Avith</i> tells the story of the clash between local fishermen in Kalpitiya, a fishing village in Sri Lanka, and a group of urban entrepreneurs who arrived at the village. The city folk, headed by Victor, bring a business ethic of their own: capitalistic tendencies that anger Anton, the patriarch of the village. When Victor gets involved with a local village girl, tensions arise culminating in a series of violent events.
