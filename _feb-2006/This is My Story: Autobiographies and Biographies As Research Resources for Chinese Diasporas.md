@@ -42,4 +42,14 @@ In *From Chinese Villager to Singapore Tycoon: My Life Story*, LienYing Chow sha
 
 Another prominent Chinese pioneer is Tan Kah Kee. His memoirs, Nan Qiao Hui Yi Lu, which was written in 1946 was translated into English - The Memoirs of Tan Kah-Kee in 1994. Originally from the village of Jimei, China, Tan Kah Kee arrived in Singapore at age 16 (1890) to work in his father's rice store. The business collapsed in 1903, butTan Kah Kee went on to build an industrial empire ranging from rubber plantations and manufacturing, sawmills, canneries, real estate, import and export brokerage, ocean transport to rice trading. The years between 1912 and 1914 were the best for his enterprises when he amassed a huge fortune. He came to be known as the "Henry Ford of Malaya".
 
+Spending his fortune not on himself or his family, but the community, Tan Kah Kee was a philanthropist. His abiding concerning was education. He founded and financed several schools and other educational institutions in his native homeland as well as in Singapore. Among the schools he founded in Singapore are Singapore Chinese High, Tao Nan, Ai Tong, Chong Fu, and Nanyang Girls' High.
+
+Tan Kah Kee was also a well-respected community leader. Active in campaigning for educational and social reforms in the 1920s and 1930s, he was twice chairman of the Chinese Chamber of Commerce and helped to re-organise the Hokkien Clan Association. In 1923, he launched the Chinese newspaper, *Nanyang Siang Pau*. In addition, he was active in organising various relief funds for China during the Japanese invasion.
+
+Tan Kah Kee began writing his memoirs while taking refuge in Java from the Japanese. From his memoirs one could see that he placed more importance on his involvement in education, social reform and politics than on his business undertakings. It is regarded as "one of the best documented autobiographies ever written by an immigrant Chinese in South-east Asia ... an immensely important source for those seeking to understand not onlyTan Kah Kee himself but the Chinese community in Singapore and Chinese politics as a whole".
+
+#### **Materials Available**
+The autobiographies and biographies available in the library can be divided into the following general categories: artists, bankers and entrepreneurs, early Chinese immigrants, educators, political personalities, ex-prisoners of war, and the Straits Chinese. 
+
+In conclusion, autobiographies and biographies form an interesting description of personal experiences and contributions of individuals to the society through the years. The photographs and snippets of information offer researchers a rich information resource to discover and elaborate on. Thus, the collection of life stories gets to be enriched and preserved.
 
