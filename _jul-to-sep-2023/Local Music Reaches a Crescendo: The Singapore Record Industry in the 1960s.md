@@ -18,7 +18,7 @@ EMI was famously conservative when it came to signing up local talent in its mai
 Most Singapore recordings in the late 1950s and early 1960s were either traditional Chinese opera, or Malay and Chinese film or pop songs of the period sung in Chinese or Malay. There were very few local recordings in English aimed at the emerging youth market, which at the time was almost completely dominated by imported British and American (and some European) records. 
 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
-<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/recording-industry/">The Recording Industry in Singapore, 1903-1985</a>"</b><br> 
+<b>Listen to the podcast episode<br>  "<a href="https://biblioasia.nlb.gov.sg/podcast/recording-industry/">The Recording Industry in Singapore, 1903-1985</a>"</b><br> 
 <img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
 
 
