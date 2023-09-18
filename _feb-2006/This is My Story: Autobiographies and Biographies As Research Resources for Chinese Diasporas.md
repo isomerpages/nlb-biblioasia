@@ -41,6 +41,9 @@ After the demise of his father, Boon Haw returned to Rangoon and managed the bus
 
 A "genius in promotion, advertising and marketing", Boon Haw made used of his ethnic Hakka ties to sell Ban Kim Ewe to local Chinese medicine shops, and business expanded rapidly to Southeast Asia by the late 1920s. Boon Haw devised ingenious methods of promoting his product, and even built a tiger-shaped car from which he distributed enameled posters of the products.
 
+<img src="/images/vol-1-issue-2/AutobiographiesBiographies/tiger%20car.jpg" style="width:80%;">
+<div style="background-color: white;">The "Tiger Car". Reproduced from  <i> Tiger Balm King </i>. All Rights Reserved, Times Books International, 1992.</div>
+
 In 1926, Boon Haw moved to Singapore and started up shop in a two-storey shophouse in Amoy Street. Soon, Singapore became the base for his business in Malaya and the East Indies.
 
 Besides being an astute businessman, Boon Haw also founded *Sin Chew Jit Poh* in Singapore, the first of a group of newspapers in the region, only three years after setting up business here. This was followed by Chinese-and English-language papers in Hong Kong, Taiwan and Thailand.
