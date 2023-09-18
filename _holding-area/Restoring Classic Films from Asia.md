@@ -6,7 +6,7 @@ description: ""
 #### The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
 By Chew Tee Pao
 
-![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_19_0_images%201.png)
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_aft_03_0_image%202.png)
 <div style="background-color: white;"><b>Chew Tee Pao</b> is Senior Archivist at the Asian Film Archive (AFA). Since 2014, he has overseen the restoration of more than 30 films from the AFA collection. </div>
 
 
@@ -33,6 +33,11 @@ Using the original camera and sound negatives and a surviving positive print tha
 Manila, De Leon and the film’s original cinematographer, Rody Lacap, supervised the colour grading using the restored scans. The colour-corrected restored scans were then returned to L’Immagine Ritrovata to produce new negatives of the film. The entire restoration, including generating new 35 mm negatives and print, took nearly a year.
 
 In September 2017, the restored _Batch ’81_ premiered at the Venice Classics section of the 74th Venice International Film Festival. I had the privilege of attending the festival for the first time and read an opening statement from Mike De Leon to the audience. After Venice, the film screened in Manila in October 2017 as the closing film of the QCinema Film Festival.[^2] In Singapore, the film was shown at the AFA’s annual restored film series, “Asian Restored Classics”, on 30 August 2018.[^3]
+
+
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_bef_03_0_image%205.png)
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_aft_03_0_image%202.png)
+<div style="background-color: white;">Image comparisons showing the before-and-after restoration of <i>Batch ’81_. _Courtesy of Asian Film Archive.</i> </div>
 
 Launched in conjunction with the film’s restoration, the AFA published _Batch ’81: The Making of a Mike De Leon Film_ to document the history behind the making of the film.[^4] The publication was made possible with De Leon’s collection of related materials
 
