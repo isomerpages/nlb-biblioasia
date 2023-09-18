@@ -7,8 +7,7 @@ description: ""
 By Chew Tee Pao
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_19_0_images%201.png)
-<div style="background-color: white;">Still from <i>Mike De Leon’s Batch ’81.</i> The film was made more than three decades ago during martial law of the Philippines (23 September 1972 – 25 February 1986), a time of great political unrest and turmoil. The original film premiered at the 1982 Cannes Film Festival during the Directors' Fortnight. <i>Courtesy of MVP Pictures.</i> </div>
-
+<div style="background-color: white;">Still from <i>Mike De Leon’s Batch ’81</i>. The film was made more than three decades ago during martial law of the Philippines (23 September 1972 – 25 February 1986), a time of great political unrest and turmoil. The original film premiered at the 1982 Cannes Film Festival during the Directors' Fortnight. <i>Courtesy of MVP Pictures.</i> </div>
 
 Since it was established about two decades ago, the Asian Film Archive (AFA) has restored many films connected to Singapore. These include classic titles from the golden age of Malay cinema such as K.M. Basker’s _Patah Hati_ (1952) and Hussein Haniff’s _Dang Anom_ (1962) to more recent Singapore movies like _Mee Pok Man_ (1995) and _Money No Enough_ (1998). However, as the name of the organisation implies, the AFA has also been active in restoring films from around the region. In 2005, when the archive was founded, director Mike De Leon became the first Filipino filmmaker to donate his works to the AFA for preservation.
 
