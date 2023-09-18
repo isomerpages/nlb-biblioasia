@@ -16,7 +16,7 @@ Back in the 1980s and 90s, when Atie was a young girl swimming in the waters sur
 This one-day tour[^3] in October 2019 around parts of Singapore – where they once lived – was the least we could do for them given the incredible hospitality they had shown us since we embarked on our research project in 2018 with another team member, Ruslina Affandi. We had set out to collect oral history interviews from the Orang Seletar, and were able to do so thanks to their time and generosity in sharing their stories.
 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
-<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/orang-seletar/">What’s Become of the Seafaring Orang Seletar?</a>"</b>
+<b>Listen to the podcast episode <br>"<a href="https://biblioasia.nlb.gov.sg/podcast/orang-seletar/">What’s Become of the Seafaring Orang Seletar?</a>"</b>
 <br> 
 <img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div> 
 
