@@ -352,7 +352,7 @@ In 1933, he joined the South China Athletic Association team in Hong Kong,[^46] 
 
 #### **Yeo Ah Kow**
 <img style="width:40%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/yeo%20ah%20kow.jpg">
-<div style="background-color: white;"><center>Yeo Ah Kow.<i> Source unknown.</i></center></div>
+<div style="background-color: white;"><center>Yeo Ah Kow. <i> Source unknown.</i></center></div>
 
 4 appearances in Malaya Cup Final (4 wins)<br> 
 Malaya Cup (1929–34)<br> 
