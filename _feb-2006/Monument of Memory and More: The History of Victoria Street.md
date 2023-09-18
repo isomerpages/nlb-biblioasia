@@ -130,7 +130,8 @@ After the war and until the late 1980s, as land leases expired, the area of shop
 <div style="background-color: white;">Empress Building.</div>
 
 Opposite the Empress Hotel was St Anthony's Canossian Convent School, and next to it, the then Catholic Portuguese Mission of St Joseph's Church, and on its left - St Anthony's Boys' School.
-<img src="/images/vol-1-issue-2/Victoria%20Street/victoria%20street%201950s.jpg" style="width:80%;">
+
+<img src="/images/vol-1-issue-2/Victoria%20Street/victoria%20street%201950s.jpg" style="width:50%;">
 <div style="background-color: white;text-align:center">Victoria Street, 1950s.  
 </div>
 
@@ -138,7 +139,7 @@ By the late 1980s, hundreds of buildings owned by private owners in these areas 
 
 #### **The National Library Today and Tomorrow**
 
-<img src="/images/vol-1-issue-2/Victoria%20Street/victoria%20street%202005.jpg" style="width:80%;">
+<img src="/images/vol-1-issue-2/Victoria%20Street/victoria%20street%202005.jpg" style="width:50%;">
 <div style="background-color: white;text-align:center">Victoria Street, 2005.  
 </div>
 
