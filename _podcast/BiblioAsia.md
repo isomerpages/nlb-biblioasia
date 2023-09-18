@@ -13,14 +13,15 @@ BiblioAsia+ is a podcast about Singapore stories: some unfamiliar, others forgot
 Subscribe to get notified when the next episode drops:
 [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156). 
 
-**My Grandfather Was a Romusha**<br> 
+<a style="text-decoration: none; font-weight: bold;" href="/podcast/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Romusha</a><br> 
 After Kosman Hassan volunteered to take his uncle’s place to work on the infamous Death Railway, no one heard from Kosman for three years. But his family never gave up hope.
 <br>
+
 
 <img style="width: 35%" src="/images/Podcast/Photos_About/ep%201%20(romusha%20by%20shirlene)v2.jpg" align="left"><br clear="all">
 Listen on: [Spotify](https://open.spotify.com/episode/4D67FbUNy43fDHajMH606E), [Apple Podcasts](https://podcasts.apple.com/us/podcast/my-grandfather-was-a-r%C5%8Dmusha/id1688142751?i=1000617459997), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZDBkYmQyMDItY2UwMy00NzFmLWIwYmEtM2E4ODBmMzE5MWM4?sa=X&amp;ved=0CAUQkfYCahcKEwiIwraqrc__AhUAAAAAHQAAAAAQAQ), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/My-Grandfather-Was-a-R%C5%8Dmusha-2115266)<br>
 
-**Taoist Folk Goddesses of Singapore**<br>
+<a style="text-decoration: none; font-weight: bold;" href="/podcast/taoist-folk-goddesses-singapore/">Taoist Folk Goddesses of Singapore</a><br>
 Maiden Lim is said to have killed herself after being wrongly accused of infidelity. A shrine to honour her then turned her into a local Taoist goddess. Writer Ng Yi-Sheng talks about Maiden Lim and two other local Taoist deities in this intriguing podcast.
 <br>
 
