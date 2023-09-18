@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s/
+      url: /vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/
       button: THE STORY OF A CHAPPELL GRAND PIANO
       key_highlights:
         - title: subscribe to the biblioasia newsletter
