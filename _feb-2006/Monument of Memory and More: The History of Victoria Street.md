@@ -43,6 +43,9 @@ This distinct red brick structure though initially condemned, stood at Stamford 
 #### **The New Victoria Site**
 On 4 June 2001, the Singapore Land Authority issued a 60 years lease No 24897, with land of a gross plot ratio of 5.2 in accordance with the plans approved by the competent authority under the Planning Act (Cap 232), for the development of the Nation's main Library Institution. The groundbreaking ceremony was held at this site on 30 October 2001.
 
+<img src="/images/vol-1-issue-2/Victoria%20Street/national%20library%20construction.jpg" style="width:50%;">
+ <div style="background-color: white;">Construction of the National Library as of August 2003.</div>
+
 The National Library is situated at 100 Victoria Street and is gradually becoming a landmark of the Bugis/Bras Brasah area. Even as the National Library creates a new beginning at Victoria Street, it is appropriate to take a retrospective look at the history of Victoria Street.
 
 #### **History of the 'New Site'**
