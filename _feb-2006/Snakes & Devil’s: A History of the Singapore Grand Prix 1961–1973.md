@@ -27,6 +27,10 @@ While the organisers may have been looking forward to the event attaining intern
 
 It was only from 1963 that the Grand Prix in Singapore featured in the World Motor Racing calendar. The motorcycle Grand Prix was run over the same weekend as the cars had star billing due to its international status, and notable names present included John Grace, Chris Conn, Fumio Ito and Soh Guan Bee.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/1963%20programme%20cover.jpg" style="width:50%;">
+ <div style="background-color: white;">1963 programme cover with bikes on the cover.
+<i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 The Jaguar's dominance was being eroded by "Garagistas" and there were 12 Lotus compared to seven E-type Jaguars. While those battles raged all weekend, the Japanese quietly slipped into the country with their "works" entries - 10 600ce Mitsubishi cars for the Saloon and Tourer race.
 
 Speeds were increasing and lap records were being bettered each qualifying session. Peter Cowling's 1962 lap record was smashed in qualifying by Saw KimThiat, Chan Lye Choon and Angus-Clydesdale, but it was Hong Kong's Albert Poon who won the event in his Lotus 23 with Yong Nam Kee second in his lightened Jaguar E-Type and Mike Cook, who seemed to wake up at half distance to realise that a race was on, was third in the ex-Cowling Cooper Climax. Poon, backed by Team Harper, was involved in a thrilling duel with Yong's E-Type for over half the race. Arthur Owen, the British Hill Climb champion, had gearbox troubles yet still completed the race to finish fifth in his Cooper Climax 1960. The car was then advertised for sale at $7,000 Straits Dollars in the local club newsletter. Owen raced in a Brabham BTBA Climax 19BOcc (chassis BTB SC-1-64) for the 1964 event.
