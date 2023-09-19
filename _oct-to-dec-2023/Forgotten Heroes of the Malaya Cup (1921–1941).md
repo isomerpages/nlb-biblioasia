@@ -506,9 +506,10 @@ The players with the most number of appearances in the finals were Dolfattah (ni
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN" lang="EN-US">10.40 %</span></p></td></tr></tbody></table><br><br>
 		<img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/composition%20of%20sg%20football%20team.jpg"><br></div>
 </div>
-
-
-
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>NICK APLIN'S FANTASY 11</b><br><br>
+In my opinion, this is what a fantasy team made up of the players mentioned looks like.&nbsp;&nbsp; Some of you will feel differently and may also argue about the assigned positions. This is open for discussion of course.<br><br>
+	<img style="width:65%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/nick's%20fantasy.jpg"><br><br>         
+</div> 
 
 <div style="background-color: white;"><br>
 Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He is the author of Sport in Singapore: The Colonial Legacy (2019)</i> and <i>Sport in Singapore: The Rocky Road to Kallang Park (2023).</i></div>
