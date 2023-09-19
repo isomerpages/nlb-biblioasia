@@ -370,7 +370,7 @@ Well-established schools such as Raffles Institution, Anglo-Chinese School and S
 "<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220106-1.2.46.aspx">Malaya-Borneo Exhibition</a>" <i>Singapore Free Press and Mercantile Advertiser (1884–1942),</i> 6 January 1922, 12. (From NewspaperSG)<br><br>
 "<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19270718-1.2.89">Malaya Cup</a>" <i>Straits Times</i>, 18 July 1927, 12. (From NewspaperSG)<br><br>
 "<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220106-1.2.46.aspx">Malaya-Borneo Exhibition</a>" <i>Singapore Free Press and Mercantile Advertiser (1884–1942),</i> 6 January 1922, 12. (From NewspaperSG)</div><br>
-</div></div><br>
+</div></div>
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>THE ETHNIC BREAKDOWN OF SINGAPORE’S MALAYA CUP PLAYERS</b><br><br>
 Traditionally, the Chinese dominated team selection in the interwar period. If we look at the 21 Malaya Cup finals played between 1921 and 1941, we can see that there were 100 capped players (some players played in multiple finals of course). Of these, 35 were Chinese players, 24 were Malays, 31 were Europeans and 10 were Eurasians.<br><br>
 The players with the most number of appearances in the finals were Dolfattah (nine times), Chua Boon Lay (eight times), Cheong Chee Lim (seven times), Mat Noor (seven times) and Abdul Rahman (seven times).<br><br> 
