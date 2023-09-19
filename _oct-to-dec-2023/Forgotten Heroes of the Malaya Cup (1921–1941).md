@@ -373,6 +373,7 @@ Well-established schools such as Raffles Institution, Anglo-Chinese School and S
 </div></div>
 
 
+
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>THE ETHNIC BREAKDOWN OF SINGAPORE’S MALAYA CUP PLAYERS</b><br><br>
 Traditionally, the Chinese dominated team selection in the interwar period. If we look at the 21 Malaya Cup finals played between 1921 and 1941, we can see that there were 100 capped players (some players played in multiple finals of course). Of these, 35 were Chinese players, 24 were Malays, 31 were Europeans and 10 were Eurasians.<br><br>
 The players with the most number of appearances in the finals were Dolfattah (nine times), Chua Boon Lay (eight times), Cheong Chee Lim (seven times), Mat Noor (seven times) and Abdul Rahman (seven times).<br><br> 
