@@ -3,7 +3,7 @@ title: Restoring Classic Films from Asia
 permalink: /holding-area/permalink/test-2/
 description: ""
 ---
-#### The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
+#### Besides restoring made-in-Singapore films, the Asian Film Archive is also involved in the preservation of other seminal Asian works. 
 By Chew Tee Pao
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_19_0_images%201.png)
