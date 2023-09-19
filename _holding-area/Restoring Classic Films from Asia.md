@@ -152,11 +152,11 @@ With film restoration being an expensive and laborious process, there may not al
 
 [^8]: Liz Shackleton, “Mouly Surya on Cannes title ‘Marlina the Murderer in Four Acts’,” Screen Daily, 24 May 2017, https://www.screendaily.com/features/mouly-surya-on-cannes-title-marlina-the-murderer-in-four-acts/5118425.article.
 
-[^9]: Thomas Barker, _[_Indonesian Cinema After the New Order: Going Mainstream_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204003730)_ (Hong Kong: Hong Kong University Press, 2019), 39, 41. (From National Library, Singapore, call no. RSEA 792.4309598 BAR)
+[^9]: Thomas Barker, _[Indonesian Cinema After the New Order: Going Mainstream](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204003730)_ (Hong Kong: Hong Kong University Press, 2019), 39, 41. (From National Library, Singapore, call no. RSEA 792.4309598 BAR)
 
 [^10]: Garin Nugroho, email correspondence, 23 July 2019.
 
-[^11]: Barker, _[_Indonesian Cinema After the New Order: Going Mainstream_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204003730)_, 41.
+[^11]: Barker, _[Indonesian Cinema After the New Order: Going Mainstream](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204003730)_, 41.
 
 [^12]: Garin Nugroho, post-screening discussion, 8 September 2019.
 
