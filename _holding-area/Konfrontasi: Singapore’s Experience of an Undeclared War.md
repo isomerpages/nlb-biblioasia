@@ -7,7 +7,7 @@ description: ""
 By Alvin Tan
 
 
-![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_19_0_images%201.png)
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/sph%202305605v_img%201.png)
 <div style="background-color: white;">The Ford Consul in Sennett Estate was rendered a twisted heap of metal after the bomb planted beneath it exploded on 9 December 1963. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i> </div>
 
 
@@ -104,3 +104,8 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/chew%20tee%20pao.png">
 <b>Alvin Tan</b> is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow,</i> 2nd edition (Talisman Publishing, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
+
+
+#### **Notes** 
+
+[^1]: “Batch ’81 (1982),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/batch-81-1982/.
