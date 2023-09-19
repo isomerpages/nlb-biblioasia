@@ -72,13 +72,18 @@ It was fortuitous that the second print was sent via a diplomatic bag through th
 
 Garin decided not to bring the film back to Indonesia for fear of interrogation by the Indonesian government. This was in line with the account in _Indonesian Cinema After the New Order_ of how during the New Order, “titles exported overseas often riled bureaucrats because they did not pass domestic censorship beforehand, thus risking a negative impression of Indonesia overseas”.[^11]
 
-Both the 35 mm prints from Sinematek Indonesia and The Japan Foundation were sent to Éclair Cinema (now Éclair Classics), a film restorationlaboratory in France, for comparison, and it was confirmed that the one from The Japan Foundation was a complete version of the film. The latter was therefore used as a secondary source to the Indonesian print as it contained burnt-in English and Japanese subtitles.&nbsp;
+Both the 35 mm prints from Sinematek Indonesia and The Japan Foundation were sent to Éclair Cinema (now Éclair Classics), a film restorationlaboratory in France, for comparison, and it was confirmed that the one from The Japan Foundation was a complete version of the film. The latter was therefore used as a secondary source to the Indonesian print as it contained burnt-in English and Japanese subtitles.
 
 The print from Sinematek Indonesia was affected by dirt and shrinkage and had numerous thick scratches on the emulsion and base of the material. Damage from folds, torn frames and broken perforations were uncovered during inspection. Many of the splices made with tape had deteriorated and had to be repaired to smoothen the process of digitisation. A total of 14 shots and 4,500 frames (approximately 3 minutes and 7 seconds) were also missing from the Indonesian print and had to be reconstructed using the Japanese print as a reference. Numerous scenes and shots on the Indonesian printthat were either shortened or removed from the original suggest that images depicting discord and insubordination were deliberately removed.
 
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/vlcsnap_image%209.png)
 <div style="background-color: white;"> A total of 14 shots and 4,500 frames (approximately 3 minutes, 7 seconds) were missing from the print from Sinematek Indonesia, and had to be reconstructed using the Japanese print as a reference. For example, this still showing the lead character burning the letters he had seized from the postman was missing. <i>Courtesy of Garin Nugroho.</i> </div>
+
+
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/film_image%2012.png)
+<div style="background-color: white;"> Most of the film base of Dharmasena Pathiraja’s <i>Bambaru Avith</i> had softened and the emulsion had become sticky. Warpage and shrinkage were observed in every reel with numerous adhesive stains and perforation tears. <i>Courtesy of Asian Film Archive.</i> </div>
+
 
 
 The restoration of _Surat Untuk Bidadari_ took about six months. Fortunately, Garin was available to catch a work-in-progress preview of the restoration at the Oldham Theatre at the National Archives of Singapore, where the AFA holds its regular screenings. Having not seen the film play on a big screen in over 20 years, he reminisced about the making of the film and shared anecdotes as we watched the film.&nbsp;
