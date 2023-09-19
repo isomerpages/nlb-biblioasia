@@ -70,12 +70,11 @@ In the race, Vern Schuppan was leading Malcolm when Ramsey's Birrana at one poin
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>A LAP OF THE UPPER THOMSON ROAD CIRCUIT</b><br><br>
 There are few street races that have survived around the world. The modern-day racetrack is a fenced edifice with so much run-off area you could build a shopping complex between track and stands. With her superb organization and hospitality the Singapore Grand Prix outdid everyone in the region, yet the the track itself had a reputation for oil trails left on the roads from the local diesel-run buses, monsoon drains, bus stops and lamp posts. Macau hade the South China Sea, Singapore had the more intimidating monsoon drains!<br><br>
 The track was 3.023 miles with a fast undulating one-mile stretch called the Thomson Mile (actually the start of what was then Nee Soon Road) and a series of esses on the back section linked by hairpins at either end (what is still Old Upper Thomson Road today). The start-finish line was laid on the main straight. On any given day, the two-lane blacktop would serve as one of the major trunk roads for heavy traffic. On the right of the main straight were fruit plantations and on the left were new housing estates and industrial parks sprouting up.<br><br>
-
-	
-	
-	
+The bend halfway down the straight after the start-finish line was known as The Hump. This had a false apex as it sat on the turn-in that saw cars lift off the ground at high speed. The left side of the road cambered oddly which caught Australian Frank Matich off guard during practice in 1970 leading to an altercation with a bus stop which ruined his weekend and his Mclaren M10 Traco Chevy F5000. Immediately after The Hump came Sembawang Circus 1969 or The Hairpin, dangerous because cars approached flat out (chicaned till 1969 in an effort to preserved spectators and the Cabinet sitting on the VIP stands).<br><br>
+The esses were made up of a number of sections heading uphill towards Pierce Reservoir following Circus Hairpin. The first, Snakes, consisted of a series of four bends. This was followed by Devil's, a rounded-off V-bend impossible to pass yet offering a very good vantage for spectators. Devil's caught out everyone out at some point. After Devil's came the Long Loop, a right hander that would see fuel and oil surges in engines - particularly bad for Minis with poorly-designed oil sumps.<br><br>	
+Peak Bend followed Long Loop headed where television and radio teams positioned themselves. The circuit then headed downhill right to Range Hairpin where one could see all that was taking place in the pits to good effect. This was followed by a hard right onto Thomson Mile past the pits known as Signal Pits.  Pit entry was after Range Hairpin.<br><br>
+One would generally require around 24 gear changes per lap, or 1440 gear changes if you were doing the 60 lap main event (from 1970 it was split into two events of 20 and 40 laps over two days). In reference, a modern F3000 car on the Monaco circuit would require about 30–40 gear changes per lap.	
 </div>
-<br><br>
 
 
 
