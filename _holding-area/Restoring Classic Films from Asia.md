@@ -134,7 +134,7 @@ With film restoration being an expensive and laborious process, there may not al
 	<b>Chew Tee Pao</b> is Senior Archivist at the Asian Film Archive (AFA). Since 2014, he has overseen the restoration of more than 30 films from the AFA collection.</div>
 	
 	
-#### **Notes**
+#### **Notes** 
 
 [^1]: “[Batch ’81](https://www.asianfilmarchive.org/event-calendar/batch-81-1982/) (1982),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/batch-81-1982/.
  
