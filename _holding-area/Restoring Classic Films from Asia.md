@@ -144,7 +144,7 @@ With film restoration being an expensive and laborious process, there may not al
  
 [^4]: Jerome Gomez, _[Batch ’81: The Making of a Mike De Leon Film](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204258903)_ (Singapore: Asian Film Archive, 2017). (From PublicationSG)
  
-[^5]: For the restoration process, see Chew Tee Pao, “Money No Enough, Passion Needed Too:&nbsp; Restoring Classic Singaporean Films,” _BiblioAsia_ 19, no. 2 (July–September 2023): 20–27.
+[^5]: For the restoration process, see Chew Tee Pao, “[Money No Enough, Passion Needed Too: &nbsp;Restoring Classic Singaporean Films](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/),” _BiblioAsia_ 19, no. 2 (July–September 2023): 20–27.
 
 [^6]: “Letter to an Angel (Surat Untuk Bidadari) (1994),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/letter-to-an-angel-1994/.
 
@@ -152,11 +152,11 @@ With film restoration being an expensive and laborious process, there may not al
 
 [^8]: Liz Shackleton, “Mouly Surya on Cannes title ‘Marlina the Murderer in Four Acts’,” Screen Daily, 24 May 2017, https://www.screendaily.com/features/mouly-surya-on-cannes-title-marlina-the-murderer-in-four-acts/5118425.article.
 
-[^9]: Thomas Barker, _Indonesian Cinema After the New Order: Going Mainstream_ (Hong Kong: Hong Kong University Press, 2019), 39, 41. (From National Library, Singapore, call no. RSEA 792.4309598 BAR)
+[^9]: Thomas Barker, _[_Indonesian Cinema After the New Order: Going Mainstream_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204003730)_ (Hong Kong: Hong Kong University Press, 2019), 39, 41. (From National Library, Singapore, call no. RSEA 792.4309598 BAR)
 
 [^10]: Garin Nugroho, email correspondence, 23 July 2019.
 
-[^11]: Barker, _Indonesian Cinema After the New Order: Going Mainstream_, 41.
+[^11]: Barker, _[_Indonesian Cinema After the New Order: Going Mainstream_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204003730)_, 41.
 
 [^12]: Garin Nugroho, post-screening discussion, 8 September 2019.
 
