@@ -102,9 +102,16 @@ Lawrence made it two out of two the following year with his Brabham BT29 FVC aga
 
 With the new rules set, single-seater racing became the domain of the professional and semi-professional racer with sponsorship backing. Max Stewart arrived in the Mildren-Waggott in 1972 with the intention of selling the car after the event. For Stewart, it would be the first time he had finished a race in Asia and this would be his third try in Singapore. Winning the event and breaking Graeme Lawrence's domination was very sweet indeed even though Lawrence had not attended the event because of a 155mph crash he had at the New Zealand Grand Prix at Pukekohe earlier.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/sonny%20rajah.jpg" style="width:80%;">
+ <div style="background-color: white;">Sonny Rajah in the Team Rothmans ex-Ronnie Peterson March 712-M (converted to 732) in 1972. Sonny went on to finish fourth in the race. <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 There was a good cast for 1972 with likes of Kevin Bartlett, Max Stewart, Vern Schuppan and an underrated John Macdonald who had the ex-Graham Hill Brabham BT36-2 with a Rondel nose. There was also Sonny Rajah who "had struck up a partnership with the ex-Ronnie Peterson March 712-M" that he had recently acquired. Sonny was the local hero and looked the part with his long hair and Zapata moustache. To gain admittance into a country where long hair was associated with drugs, he had resorted to using a short-hair wig! A fellow competitor once remarked that " ... he had brilliant car control but someone ... had to take him in handl Natural talent (and character to boot) ... I followed Sonny for the first few laps of a Macau race and remember ... that he made contact with much of Macau's scenery; that's a very difficult act of itself."
 
 Singapore's last Grand Prix was held in 1973 and was won by Vern Schuppan in a March-Ford 722. Schuppan vividly remembers the monsoon drains on the circuit. "lt was a fast flowing circuit - a lovely race track. No one talked about lack of run off area because we were so young then." Of Schuppan, John Macdonald said "Vern, of course, got to the top but probably never reached the absolute top because he's too darned straightforward, nice, honest, and all those other good things that come up all too rarely." The March 722 was the same one Schuppan had driven in 1972 but with up-to-date modifications.
+
+<img src="/images/vol-1-issue-2/SnakesDevils/brabham%20bt40.jpg" style="width:80%;">
+ <div style="background-color: white;">Consummate professional John Macdonald with his Cathay Pacific sponsored Brabham BT40, with profession tennis player John Cooper and golfer Graham Marsh to the right.
+<i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
 
 Cathay Pacific-backed John Macdonald was another favorite and had a brand new Brabham BT40 delivered to him in Singapore ahead of the race. Macdonald called the BT40 a "magic car with a big BUT". The team had a terrible time of it with fuel pick-up problems. A letter to Bernie Ecclestone (who by that time owned Brabham) resulted in a PR reply to say how he was behind them all the way! Once sorted, the car was a profilic winner in Asia.
 
