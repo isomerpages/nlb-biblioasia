@@ -78,4 +78,3 @@ One would generally require around 24 gear changes per lap, or 1440 gear changes
 
 <div>
 <center><b>Eli Solomon</b></center> </div>
-
