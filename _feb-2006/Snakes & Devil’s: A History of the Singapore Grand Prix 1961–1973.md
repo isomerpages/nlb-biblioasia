@@ -76,6 +76,6 @@ Peak Bend followed Long Loop headed where television and radio teams positioned 
 One would generally require around 24 gear changes per lap, or 1440 gear changes if you were doing the 60 lap main event (from 1970 it was split into two events of 20 and 40 laps over two days). In reference, a modern F3000 car on the Monaco circuit would require about 30–40 gear changes per lap.	
 </div>
 
-
-
+<div>
+<center><b>Eli Solomon</b></center> </div>
 
