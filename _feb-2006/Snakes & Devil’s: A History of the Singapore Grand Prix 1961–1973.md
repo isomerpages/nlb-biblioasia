@@ -63,7 +63,6 @@ Singapore's first International Grand Prix of 1966 saw Lee Han Seng back in the 
 <img src="/images/vol-1-issue-2/SnakesDevils/cooper%20ford.jpg" style="width:80%;">
  <div style="background-color: white;">Cooper Ford Mk3 Formula Junior of John Macdonald, Macau 1966. The seat was the whole fuel tank (hence the driving position). His earlier Lotus 18 Formula Junior was less than competitive and "I had to move forwards, through the Cooper was a rash move...". <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
 
-
 Lee Han Seng won the main event in record time with Rodney Seow's Merlyn Mk7 second and Tony Goodwin's Lotus 20B third. Cusack set lap record but on lap 42, his Brabham spun into the embankment and was damaged. A total of eight track marshals aided Cusack in extricating the car out of the ditch at Long Loop and he managed to struggle on. Another competitor commented that Cusack "had turned up and just made a mince meat of absolutely everything, then lost it in the biggest way and went home."
 
 <img src="/images/vol-1-issue-2/SnakesDevils/presentation2.jpg" style="width:80%;">
@@ -71,9 +70,18 @@ Lee Han Seng won the main event in record time with Rodney Seow's Merlyn Mk7 sec
 
 The main Grand Prix event had graduated beyond Formula Junior and in 1967 Rodney Seow won in his new Merlyn Mk10 with a Cosworth 1600Twin Cam. Seow also made his mark by winning the Sports and GT race with an Elva BMW-Nerus (ex-Lanfranchi Goodwood lap record car).
 
+<img src="/images/vol-1-issue-2/SnakesDevils/merlyn%20mk10.jpg" style="width:80%;">
+ <div style="background-color: white;">Rodney Seow's Merlyn Mk10 with BTBA Climax of Alan Grice in the background. Rodney Seow in Merlyn Mk10, practice Singapore Grand Prix 1968. The Merlyn abandoned after practice in favor of his ex-Mike Knight Brabham Formula Junior instead. <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 It was not until 1968 that Australian manufacturers started to venture to the Far East. Garrie Cooper of Elfin Cars won the 1968 Singapore Grand Prix in his Elfin-Ford 600C with a FordTwin Cam. "Nobody had ever heard of Elfins; said Frank Matich. "I remember ... his mechanics sent Ron Tauranac a telegram of the result. Ron sent a telegram back which read: "What's an Elfin?"They sent another telegram saying: "A quick pixie".
 
+<img src="/images/vol-1-issue-2/SnakesDevils/kiwi%20lawrence.jpg" style="width:50%;">
+ <div style="background-color: white;">Kiwi Graeme Lawrence enjoying a moment with PH Wong <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 Garrie had also suggested that the Singapore Grand Prix be confined to Formula Junior and racing cars only. In addition, he proposed having qualifying times to limit the number of entrants and reduce the number of laps in the race from 60 to 50 laps. This suggestion was taken into consideration in the coming years but with a slight twist - two heats of 20 and 40 laps over different days.
+
+<img src="/images/vol-1-issue-2/SnakesDevils/john%20macdonald.jpg" style="width:50%;">
+ <div style="background-color: white;">John Macdonald in the Brabham BT10, Singapore Grand Prix 1970. Mcdonald finished second in the Grand Prix.  The ex-Costin and Meek B10 has sprouted a full complement of wings for this event. "They didn't work very effectively because in Singapore I took them all off and ran without wings in practice." <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
 
 Competitors were also beginning to find that import regulations for Asia somewhat cumbersome. That there had to be a prescribed number stamped on the chassis of race cars to be allowed into Singapore and Malaysia complicated matters by encouraging competitors to repeatedly use the same chassis numbers for races in subsequent years despite having different cars.
 
