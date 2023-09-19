@@ -9,6 +9,9 @@ description: Before the first-ever night-time Formula 1 Grand Prix held in
 
 Common myth has it that before the Sepang Formula 1 Grand Prix in Malaysia, there was nothing in Southeast Asia to call a proper race. The roulette player had the Macau casino, Suzie Wong was the girl in the next bar and A-go-go was the rage in music. Southeast Asia offered lovely sunsets, *stengahs* and last vestiges of colonial rule. Behind the corrugated iron though, there existed a whole different world of CastroI R mixed with acetone, color and noise, snakes and devils, and racing.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/orient%20year%20grand%20prix.jpg" style="width:50%;">
+ <div style="background-color: white;">Orient Year Grand Prix programme cover. <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 Motor racing in Singapore took off in a big way with the first Grand Prix in 1961. It was called the Orient Year Grand Prix and was held for the first time on a designated stretch of Upper Thomson Road. In 1962, the race was renamed the Malaysian Grand Prix and the Malaysian race called the Selangor Grand Prix (back when Singapore was part of Malaysia). When Singapore gained independence in 1965, the country ran its own Grand Prix in 1966 while Malaysian held two, one timed around the Singapore Grand Prix in March/April and another in September. They were known as the Malaysian Grand Prix and the Selangor Grand Prix respectively. With the onset of the European winter, and if budget permitted, the racing season in Asia would begin at Macau, move to Australia and New Zealand with the Tasman Series, and return to Southeast Asia with back-to-back Grand Prix races in Singapore, Johore, Selangor and Penang, followed by Japan.
 
 #### **The Malaysian Grand Prix (Singapore 1961 to 1965)**
