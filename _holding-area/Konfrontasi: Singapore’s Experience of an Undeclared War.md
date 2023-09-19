@@ -103,4 +103,4 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/chew%20tee%20pao.png">
-	<b>Alvin Tan</b> is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow,</i> 2nd edition (Talisman Publishing, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
+<b>Alvin Tan</b> is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow,</i> 2nd edition (Talisman Publishing, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
