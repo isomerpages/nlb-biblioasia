@@ -8,4 +8,12 @@ By Alvin Tan
 
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_19_0_images%201.png)
-<div style="background-color: white;">Still from <i>Mike De Leon’s Batch ’81</i>. The film was made more than three decades ago during martial law of the Philippines (23 September 1972 – 25 February 1986), a time of great political unrest and turmoil. The original film premiered at the 1982 Cannes Film Festival during the Directors' Fortnight. <i>Courtesy of MVP Pictures.</i> </div>
+<div style="background-color: white;">The Ford Consul in Sennett Estate was rendered a twisted heap of metal after the bomb planted beneath it exploded on 9 December 1963. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i> </div>
+
+
+
+It&nbsp;was late in the night of 9 December 1963 when the Indonesian Confrontation, or Konfrontasi, claimed its first victims in Singapore. It happened on Jalan Wangi in Sennett Estate, a quiet neighbourhood close to Potong Pasir.&nbsp;
+
+At around 10.45 pm, Mohamed Kassim Ismail and Chadar Mastan Abdul Aziz, operators of a cigarette and sundries stall, had gone to investigate a suspicious blue Ford Consul when an explosion ripped through the night air, instantly killing them both.&nbsp;
+
+The blast left a crater 2 m across and 1 m deep, and blew a brick wall apart. It also threw the car chassis 15 m away and shattered windows about 270 m away.1
