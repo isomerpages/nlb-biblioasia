@@ -60,6 +60,10 @@ Vern Schuppan and John Macdonald both loved it. Never one to mince his words, Ma
 
 Singapore's first International Grand Prix of 1966 saw Lee Han Seng back in the Lotus 22, Rodney Seow in an ex-1962 works Formula Junior Merlyn Mk7 fitted with a Cosworth 1500cc pushrod and four fuel tanks and a shark nose, and Hong Kong-based John MacDonald in the ex-Hegbourne Cooper-Ford Formula Junior (Cooper-Ford Mk3AI. Favourite to win was Australian Greg Cusack in a Brabham BT6 FJr (ex HenkWoelders Formula Junior chassis FJ-15-631 but the locals were ahead of the game with larger tanks for the 60-lap race, something Cusack had not prepared for.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/cooper%20ford.jpg" style="width:80%;">
+ <div style="background-color: white;">Cooper Ford Mk3 Formula Junior of John Macdonald, Macau 1966. The seat was the whole fuel tank (hence the driving position). His earlier Lotus 18 Formula Junior was less than competitive and "I had to move forwards, through the Cooper was a rash move...". <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
+
 Lee Han Seng won the main event in record time with Rodney Seow's Merlyn Mk7 second and Tony Goodwin's Lotus 20B third. Cusack set lap record but on lap 42, his Brabham spun into the embankment and was damaged. A total of eight track marshals aided Cusack in extricating the car out of the ditch at Long Loop and he managed to struggle on. Another competitor commented that Cusack "had turned up and just made a mince meat of absolutely everything, then lost it in the biggest way and went home."
 
 <img src="/images/vol-1-issue-2/SnakesDevils/presentation2.jpg" style="width:80%;">
