@@ -35,6 +35,10 @@ The Jaguar's dominance was being eroded by "Garagistas" and there were 12 Lotus 
 
 Speeds were increasing and lap records were being bettered each qualifying session. Peter Cowling's 1962 lap record was smashed in qualifying by Saw KimThiat, Chan Lye Choon and Angus-Clydesdale, but it was Hong Kong's Albert Poon who won the event in his Lotus 23 with Yong Nam Kee second in his lightened Jaguar E-Type and Mike Cook, who seemed to wake up at half distance to realise that a race was on, was third in the ex-Cowling Cooper Climax. Poon, backed by Team Harper, was involved in a thrilling duel with Yong's E-Type for over half the race. Arthur Owen, the British Hill Climb champion, had gearbox troubles yet still completed the race to finish fifth in his Cooper Climax 1960. The car was then advertised for sale at $7,000 Straits Dollars in the local club newsletter. Owen raced in a Brabham BTBA Climax 19BOcc (chassis BTB SC-1-64) for the 1964 event.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/malaysia%20grand%20prix.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Malaysia Grand Prix</i> offers an insight to the excitement on the race course in 1964.
+<i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 The third Malaysian Grand Prix of 1964 was rained out after seven laps. By the third lap, three of the fastest cars had been wrecked and a course marshal killed. This was also the year that saw the largest ever entry of foreign competitors in the East. More and more competitors would start to look at Asia as a stopover between the Australian and European racing seasons and the Formula Libre grid was increasingly becoming the domain of the single-seater.
 
 In 1965 however, the only overseas competitors were Hong Kong drivers Albert Poon and Steve Holland, both racing under Richard Wong Wai Hong's Racing Organization. The press speculated that the drop in foreign entries was due to the Singapore Government's waning interest in holding such high publicity events in light of the Confrontation with Indonesia (which ended in 1966 after the overthrow of Sukarno).
