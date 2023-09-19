@@ -99,3 +99,8 @@ The peace treaty, however, did not completely reset relations between Singapore 
 Or so it was thought. In February 2014, the Indonesian navy announced that it would name its newly acquired second-hand corvette the _KRI Usman Harun_, after the two marines responsible for the MacDonald House bombing.[^44] In response, Singapore barred the warship from calling at Singapore and announced that the Singapore Armed Forces would not carry out military exercises with this ship.[^45] Indonesia’s armed forces commander General Moeldoko later apologised for the naming decision, and Singapore resumed bilateral ties with the Indonesian armed forces.[^46]
 
 On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memorial to the victims of Konfrontasi was unveiled.[^47] Situated at Dhoby Ghaut Green, a slice of quiet amid busy Orchard Road, the memorial is a reminder of a time when Singapore experienced the fear, terror and anguish of being the urban frontline in a low-intensity war marked by uncertainty, anxiety and randomness.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/chew%20tee%20pao.png">
+	<b>Alvin Tan</b> is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow,</i> 2nd edition (Talisman Publishing, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
