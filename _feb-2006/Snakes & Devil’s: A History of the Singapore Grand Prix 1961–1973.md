@@ -62,6 +62,9 @@ Singapore's first International Grand Prix of 1966 saw Lee Han Seng back in the 
 
 Lee Han Seng won the main event in record time with Rodney Seow's Merlyn Mk7 second and Tony Goodwin's Lotus 20B third. Cusack set lap record but on lap 42, his Brabham spun into the embankment and was damaged. A total of eight track marshals aided Cusack in extricating the car out of the ditch at Long Loop and he managed to struggle on. Another competitor commented that Cusack "had turned up and just made a mince meat of absolutely everything, then lost it in the biggest way and went home."
 
+<img src="/images/vol-1-issue-2/SnakesDevils/presentation2.jpg" style="width:80%;">
+ <div style="background-color: white;">(Left) Rodney Seow after his success in the Singapore Grand Prix of 1967 in the Merlyn Mk10. <br> (Right) Rodney Seow in the Elva Mk7S being chased by Team Hong Kong's Steve Holland in the Lotus 47 at Range.  Singapore Grand Prix 1968. <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 The main Grand Prix event had graduated beyond Formula Junior and in 1967 Rodney Seow won in his new Merlyn Mk10 with a Cosworth 1600Twin Cam. Seow also made his mark by winning the Sports and GT race with an Elva BMW-Nerus (ex-Lanfranchi Goodwood lap record car).
 
 It was not until 1968 that Australian manufacturers started to venture to the Far East. Garrie Cooper of Elfin Cars won the 1968 Singapore Grand Prix in his Elfin-Ford 600C with a FordTwin Cam. "Nobody had ever heard of Elfins; said Frank Matich. "I remember ... his mechanics sent Ron Tauranac a telegram of the result. Ron sent a telegram back which read: "What's an Elfin?"They sent another telegram saying: "A quick pixie".
