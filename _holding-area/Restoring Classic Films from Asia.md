@@ -136,7 +136,7 @@ With film restoration being an expensive and laborious process, there may not al
 	
 #### **Notes**
 
-[^1]: “Batch ’81 (1982),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/batch-81-1982/.
+[^1]: “[Batch ’81](https://www.asianfilmarchive.org/event-calendar/batch-81-1982/) (1982),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/batch-81-1982/.
  
 [^2]: “Restored ‘Batch ’81’ to Close This Year’s QCinema Festival,” Interaksyon, 5 October 2017, https://interaksyon.philstar.com/entertainment/2017/10/05/101766/restored-batch-81-to-close-this-years-qcinema-festival/.
  
