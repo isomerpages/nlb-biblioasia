@@ -33,6 +33,9 @@ It was only from 1963 that the Grand Prix in Singapore featured in the World Mot
 
 The Jaguar's dominance was being eroded by "Garagistas" and there were 12 Lotus compared to seven E-type Jaguars. While those battles raged all weekend, the Japanese quietly slipped into the country with their "works" entries - 10 600ce Mitsubishi cars for the Saloon and Tourer race.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/albert%20poon.jpg" style="width:80%;">
+ <div style="background-color: white;">Albert Poon leading into Hairpin Bend in the Lotus 23B. Poon went on to take another win at the Singapore Grand Prix. <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 Speeds were increasing and lap records were being bettered each qualifying session. Peter Cowling's 1962 lap record was smashed in qualifying by Saw KimThiat, Chan Lye Choon and Angus-Clydesdale, but it was Hong Kong's Albert Poon who won the event in his Lotus 23 with Yong Nam Kee second in his lightened Jaguar E-Type and Mike Cook, who seemed to wake up at half distance to realise that a race was on, was third in the ex-Cowling Cooper Climax. Poon, backed by Team Harper, was involved in a thrilling duel with Yong's E-Type for over half the race. Arthur Owen, the British Hill Climb champion, had gearbox troubles yet still completed the race to finish fifth in his Cooper Climax 1960. The car was then advertised for sale at $7,000 Straits Dollars in the local club newsletter. Owen raced in a Brabham BTBA Climax 19BOcc (chassis BTB SC-1-64) for the 1964 event.
 
 <img src="/images/vol-1-issue-2/SnakesDevils/malaysia%20grand%20prix.jpg" style="width:50%;">
