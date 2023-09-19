@@ -115,6 +115,9 @@ Singapore's last Grand Prix was held in 1973 and was won by Vern Schuppan in a M
 
 Cathay Pacific-backed John Macdonald was another favorite and had a brand new Brabham BT40 delivered to him in Singapore ahead of the race. Macdonald called the BT40 a "magic car with a big BUT". The team had a terrible time of it with fuel pick-up problems. A letter to Bernie Ecclestone (who by that time owned Brabham) resulted in a PR reply to say how he was behind them all the way! Once sorted, the car was a profilic winner in Asia.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/1973%20grand%20prix.jpg" style="width:50%;">
+ <div style="background-color: white;">1973 Singapore Grand Prix programme cover - the final Grand Prix in Singapore.<i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 In the race, Vern Schuppan was leading Malcolm when Ramsey's Birrana at one point when the March kicked up some rocks resulting in a punctured fuel tank for the Birrana. Angus Lamont, who assisted John MacDonald, remembers this incident (Ramsey) very soldiered well" .... on and until Malcolm the pain of the petrol burning [him] forced him to retire".  In reference to how lightweight the Birrana was built, Macdonald said that" ... the car was full of holes ... it was as if somebody had leveled a sub-machine gun against it." Fittingly, Leo Geoghegan's Birrana 273–007, the works car, set the final lap record for the circuit.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>A LAP OF THE UPPER THOMSON ROAD CIRCUIT</b><br><br>
