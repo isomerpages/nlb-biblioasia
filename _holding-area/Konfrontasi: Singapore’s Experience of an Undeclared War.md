@@ -12,8 +12,8 @@ By Alvin Tan
 
 
 
-It&nbsp;was late in the night of 9 December 1963 when the Indonesian Confrontation, or Konfrontasi, claimed its first victims in Singapore. It happened on Jalan Wangi in Sennett Estate, a quiet neighbourhood close to Potong Pasir.&nbsp;
+It was late in the night of 9 December 1963 when the Indonesian Confrontation, or Konfrontasi, claimed its first victims in Singapore. It happened on Jalan Wangi in Sennett Estate, a quiet neighbourhood close to Potong Pasir.
 
-At around 10.45 pm, Mohamed Kassim Ismail and Chadar Mastan Abdul Aziz, operators of a cigarette and sundries stall, had gone to investigate a suspicious blue Ford Consul when an explosion ripped through the night air, instantly killing them both.&nbsp;
+At around 10.45 pm, Mohamed Kassim Ismail and Chadar Mastan Abdul Aziz, operators of a cigarette and sundries stall, had gone to investigate a suspicious blue Ford Consul when an explosion ripped through the night air, instantly killing them both.
 
-The blast left a crater 2 m across and 1 m deep, and blew a brick wall apart. It also threw the car chassis 15 m away and shattered windows about 270 m away.1
+The blast left a crater 2 m across and 1 m deep, and blew a brick wall apart. It also threw the car chassis 15 m away and shattered windows about 270 m away.[^1]
