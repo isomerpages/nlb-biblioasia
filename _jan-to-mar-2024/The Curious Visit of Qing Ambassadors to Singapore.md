@@ -23,7 +23,7 @@ This wet welcome on the island en route to Southampton, England, was brought abo
 
 The British were eager to underscore to the watching world the pre-eminence of Great Britain. So it was not more than four months after the signing of the Chefoo Convention on 21 August 1876 (or the Yantai Treaty, 烟台条约) to resolve the “Margary Affair” that the embassy assembled and departed from Shanghai. 
 
-Under the direction of Halliday Macartney, one of two Englishmen attached to the visitors, he made it a point that the Chinese delegation would call only at British ports, on the so-called “six great stages of our Imperial track across the Oceans, viz. Hong Kong, Singapore, Ceylon, Aden, Malta and Gibraltar”, where they could be impressed by the luminosity of England’s enlightenment and their undeniable mastery of peoples, land and sea. [^2]
+Under the direction of Halliday Macartney, one of two Englishmen attached to the visitors, he made it a point that the Chinese delegation would call only at British ports, on the so-called “six great stages of our Imperial track across the Oceans, viz. Hong Kong, Singapore, Ceylon, Aden, Malta and Gibraltar”, where they could be impressed by the luminosity of England’s enlightenment and their undeniable mastery of peoples, land and sea.[^2]
 
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_07.png)
 <div style="background-color: white;">Halliday Macartney, the British official attached to the visiting Qing delegation in Singapore, 1908. <i>Retrieved from Wikimedia Commons.</i></div>

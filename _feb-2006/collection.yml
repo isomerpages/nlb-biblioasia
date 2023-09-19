@@ -2,7 +2,8 @@ collections:
   feb-2006:
     output: true
     order:
+      - "Snakes & Devil’s: A History of the Singapore Grand Prix 1961–1973.md"
+      - Director's Column.md
+      - "Monument of Memory and More: The History of Victoria Street.md"
       - "This is My Story: Autobiographies and Biographies As Research Resources
         for Chinese Diasporas.md"
-      - "Monument of Memory and More: The History of Victoria Street.md"
-      - Director's Column.md

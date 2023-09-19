@@ -3,7 +3,7 @@ title: Restoring Classic Films from Asia
 permalink: /holding-area/permalink/test-2/
 description: ""
 ---
-#### The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
+#### Besides restoring made-in-Singapore films, the Asian Film Archive is also involved in the preservation of other seminal Asian works. 
 By Chew Tee Pao
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_19_0_images%201.png)
@@ -29,7 +29,7 @@ Produced at a time of great political unrest and turmoil during the period of ma
 
 Using the original camera and sound negatives and a surviving positive print that had been preserved by the AFA since 2005, the film became the archive’s first restoration of a Filipino title. The original camera and sound negatives of _Batch ’81_ exhibited critical signs of “vinegar syndrome”, where films become brittle, shrink and emit an acidic odour. It had developed haloes and mould, with major green-hued defects on the emulsion. As a result, parts of the picture negative were unusable and the laboratory – L’Immagine Ritrovata in Bologna, Italy – overseeing the restoration had to integrate shots from the positive print during the process of digital restoration.
 
-Manila, De Leon and the film’s original cinematographer, Rody Lacap, supervised the colour grading using the restored scans. The colour-corrected restored scans were then returned to L’Immagine Ritrovata to produce new negatives of the film. The entire restoration, including generating new 35 mm negatives and print, took nearly a year.
+With the assistance of a post-production company in Manila, De Leon and the film’s original cinematographer, Rody Lacap, supervised the colour grading using the restored scans. The colour-corrected restored scans were then returned to L’Immagine Ritrovata to produce new negatives of the film. The entire restoration, including generating new 35 mm negatives and print, took nearly a year.
 
 In September 2017, the restored _Batch ’81_ premiered at the Venice Classics section of the 74th Venice International Film Festival. I had the privilege of attending the festival for the first time and read an opening statement from Mike De Leon to the audience. After Venice, the film screened in Manila in October 2017 as the closing film of the QCinema Film Festival.[^2] In Singapore, the film was shown at the AFA’s annual restored film series, “Asian Restored Classics”, on 30 August 2018.[^3]
 
@@ -72,13 +72,18 @@ It was fortuitous that the second print was sent via a diplomatic bag through th
 
 Garin decided not to bring the film back to Indonesia for fear of interrogation by the Indonesian government. This was in line with the account in _Indonesian Cinema After the New Order_ of how during the New Order, “titles exported overseas often riled bureaucrats because they did not pass domestic censorship beforehand, thus risking a negative impression of Indonesia overseas”.[^11]
 
-Both the 35 mm prints from Sinematek Indonesia and The Japan Foundation were sent to Éclair Cinema (now Éclair Classics), a film restorationlaboratory in France, for comparison, and it was confirmed that the one from The Japan Foundation was a complete version of the film. The latter was therefore used as a secondary source to the Indonesian print as it contained burnt-in English and Japanese subtitles.&nbsp;
+Both the 35 mm prints from Sinematek Indonesia and The Japan Foundation were sent to Éclair Cinema (now Éclair Classics), a film restorationlaboratory in France, for comparison, and it was confirmed that the one from The Japan Foundation was a complete version of the film. The latter was therefore used as a secondary source to the Indonesian print as it contained burnt-in English and Japanese subtitles.
 
 The print from Sinematek Indonesia was affected by dirt and shrinkage and had numerous thick scratches on the emulsion and base of the material. Damage from folds, torn frames and broken perforations were uncovered during inspection. Many of the splices made with tape had deteriorated and had to be repaired to smoothen the process of digitisation. A total of 14 shots and 4,500 frames (approximately 3 minutes and 7 seconds) were also missing from the Indonesian print and had to be reconstructed using the Japanese print as a reference. Numerous scenes and shots on the Indonesian printthat were either shortened or removed from the original suggest that images depicting discord and insubordination were deliberately removed.
 
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/vlcsnap_image%209.png)
 <div style="background-color: white;"> A total of 14 shots and 4,500 frames (approximately 3 minutes, 7 seconds) were missing from the print from Sinematek Indonesia, and had to be reconstructed using the Japanese print as a reference. For example, this still showing the lead character burning the letters he had seized from the postman was missing. <i>Courtesy of Garin Nugroho.</i> </div>
+
+
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/film_image%2012.png)
+<div style="background-color: white;"> Most of the film base of Dharmasena Pathiraja’s <i>Bambaru Avith</i> had softened and the emulsion had become sticky. Warpage and shrinkage were observed in every reel with numerous adhesive stains and perforation tears. <i>Courtesy of Asian Film Archive.</i> </div>
+
 
 
 The restoration of _Surat Untuk Bidadari_ took about six months. Fortunately, Garin was available to catch a work-in-progress preview of the restoration at the Oldham Theatre at the National Archives of Singapore, where the AFA holds its regular screenings. Having not seen the film play on a big screen in over 20 years, he reminisced about the making of the film and shared anecdotes as we watched the film.&nbsp;
@@ -115,10 +120,10 @@ As part of the AFA’s preservation workflow, the raw and restored digital scans
 
 In 2021, the AFA embarked on the digitisation of the prints of _Soldadu Unnahe_ and _Ponmani_ but sadly the deterioration was so advanced that there was complete loss of images and sound in many parts of the prints. The AFA continues to be in search of surviving film elements of these two films.
 
-![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/img_9953_image%2010.png)
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/img9953_image%2010.png)
 <div style="background-color: white;"> A section of the 35 mm reel of <i>Ponmani</i> shows the loss of images, leaving only a part of a face visible. <i>Courtesy of Asian Film Archive.</i> </div>
 
-![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/img_9762_image%2011.png)
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/img9762_image%2011.png)
 <div style="background-color: white;"> A frame from <i>Ponmani</i> showing the mould infection. <i>Courtesy of Asian Film Archive.</i> </div>
 
 With film restoration being an expensive and laborious process, there may not always be funding to restore a film. In the meantime, there is a greater number of films that are lost when they are not being preserved. My hope is that more filmmakers will realise the importance of entrusting and preserving their films with a film archive as soon as possible, and not wait until the films have deteriorated to a point that only restoration can help salvage them, if these are even salvageable at all. This is how we have lost many valuable classic films.
@@ -129,23 +134,23 @@ With film restoration being an expensive and laborious process, there may not al
 	<b>Chew Tee Pao</b> is Senior Archivist at the Asian Film Archive (AFA). Since 2014, he has overseen the restoration of more than 30 films from the AFA collection.</div>
 	
 	
-#### **Notes**
+#### **Notes** 
 
-[^1]: “Batch ’81 (1982),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/batch-81-1982/.
+[^1]: “[Batch ’81 (1982)](https://www.asianfilmarchive.org/event-calendar/batch-81-1982/),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/batch-81-1982/.
  
-[^2]: “Restored ‘Batch ’81’ to Close This Year’s QCinema Festival,” Interaksyon, 5 October 2017, https://interaksyon.philstar.com/entertainment/2017/10/05/101766/restored-batch-81-to-close-this-years-qcinema-festival/.
+[^2]: “[Restored ‘Batch ’81’ to Close This Year’s QCinema Festival](https://interaksyon.philstar.com/entertainment/2017/10/05/101766/restored-batch-81-to-close-this-years-qcinema-festival/),” Interaksyon, 5 October 2017, https://interaksyon.philstar.com/entertainment/2017/10/05/101766/restored-batch-81-to-close-this-years-qcinema-festival/.
  
-[^3]: “Asian Restored Classics (2018),” Asian Film Archive, last accessed 25 August 2023, https://asianfilmarchive.org/event-calendar/asian-restored-classics-2018/.
+[^3]: “[Asian Restored Classics (2018)](https://asianfilmarchive.org/event-calendar/asian-restored-classics-2018/),” Asian Film Archive, last accessed 25 August 2023, https://asianfilmarchive.org/event-calendar/asian-restored-classics-2018/.
  
 [^4]: Jerome Gomez, _Batch ’81: The Making of a Mike De Leon Film_ (Singapore: Asian Film Archive, 2017). (From PublicationSG)
  
 [^5]: For the restoration process, see Chew Tee Pao, “Money No Enough, Passion Needed Too:&nbsp; Restoring Classic Singaporean Films,” _BiblioAsia_ 19, no. 2 (July–September 2023): 20–27.
 
-[^6]: “Letter to an Angel (Surat Untuk Bidadari) (1994),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/letter-to-an-angel-1994/.
+[^6]: “[Letter to an Angel (Surat Untuk Bidadari) (1994)](https://www.asianfilmarchive.org/event-calendar/letter-to-an-angel-1994/),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/letter-to-an-angel-1994/.
 
 [^7]: “Letter to an Angel (Surat Untuk Bidadari) (1994).”
 
-[^8]: Liz Shackleton, “Mouly Surya on Cannes title ‘Marlina the Murderer in Four Acts’,” Screen Daily, 24 May 2017, https://www.screendaily.com/features/mouly-surya-on-cannes-title-marlina-the-murderer-in-four-acts/5118425.article.
+[^8]: Liz Shackleton, “[Mouly Surya on Cannes title ‘Marlina the Murderer in Four Acts’](https://www.screendaily.com/features/mouly-surya-on-cannes-title-marlina-the-murderer-in-four-acts/5118425.article),” Screen Daily, 24 May 2017, https://www.screendaily.com/features/mouly-surya-on-cannes-title-marlina-the-murderer-in-four-acts/5118425.article.
 
 [^9]: Thomas Barker, _Indonesian Cinema After the New Order: Going Mainstream_ (Hong Kong: Hong Kong University Press, 2019), 39, 41. (From National Library, Singapore, call no. RSEA 792.4309598 BAR)
 
@@ -155,6 +160,6 @@ With film restoration being an expensive and laborious process, there may not al
 
 [^12]: Garin Nugroho, post-screening discussion, 8 September 2019.
 
-[^13]: Chew Tee Pao, “Restoring _Bambaru Avith_ (The Wasps Are Here),” Asian Film Archive, 16 June 2021, https://asianfilmarchive.org/restoring-bambaru-avith-the-wasps-are-here/.
+[^13]: Chew Tee Pao, “[Restoring _Bambaru Avith_ (The Wasps Are Here)](https://asianfilmarchive.org/restoring-bambaru-avith-the-wasps-are-here/),” Asian Film Archive, 16 June 2021, https://asianfilmarchive.org/restoring-bambaru-avith-the-wasps-are-here/.
 
-[^14]: Susitha Fernando, “‘Bambaru Avith’ in Cannes Classics,” _The Sunday Times_, 2 August 2020, https://www.sundaytimes.lk/200802/magazine/bambaru-avith-in-cannes-classics-410914.html.
+[^14]: Susitha Fernando, “[‘Bambaru Avith’ in Cannes Classics](https://www.sundaytimes.lk/200802/magazine/bambaru-avith-in-cannes-classics-410914.html),” _The Sunday Times_, 2 August 2020, https://www.sundaytimes.lk/200802/magazine/bambaru-avith-in-cannes-classics-410914.html.
