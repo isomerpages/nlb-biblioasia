@@ -16,5 +16,3 @@ Speaking of memory lanes, Dr Derek Heng from the History Department at the Natio
 We look forward to seeing you at the library, and happy reading!
 
 <b>Ms Ngian Lek Choh</b><br>Director<br>  National Library
-
-
