@@ -6,12 +6,12 @@ description: While seeming unlikely, Singapore comic books and graphic novels
   spotlights Unfortunate Lives and Mr Kiasu and unpacks what they reveal about
   the past two decades.
 ---
-#### While seeming unlikely, Singapore comic books and graphic novels are mediums that allow us to glean a vision of the recent past. Lim Cheng Tju spotlights&nbsp;_Unfortunate Lives_&nbsp;and&nbsp;_Mr Kiasu_&nbsp;and unpacks what they reveal about the past two decades.
-
-
+#### Singapore comic books and graphic novels are mediums that allow us to glean a vision of the recent past. Lim Cheng Tju spotlights&nbsp;_Unfortunate Lives_ and&nbsp;_Mr Kiasu_&nbsp;and unpacks what they reveal about the past two decades.
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/ComicBooks/Presentation2.jpg">
- <div style="background-color: white;">(Left to Right) Red Robot Productions, 2002, Dreary Weary Comics, c2011 and Dave Chua &amp; Koh Hong Teng, c2010.  All rights reserved.</div>
+ <div style="background-color: white;">Credits from left: Red Robot Productions, 2002; Dreary Weary Comics, c. 2011; Dave Chua &amp; Koh Hong Teng, c. 2010. All rights reserved.</div>
+
+Since the 1980s, the writing of Singapore’s postwar history has been dominated by the stories of Big Men and the political struggles of the 1950s and 1960s. John Drysdale’s *Struggle for Success* (1984) and Dennis Bloodworth’s *The Tiger and the Trojan Horse* (1986), were narratives of the Singapore Story produced in the 1980s, while former Prime Minister Lee Kuan Yew published his memoirs in the late 1990s. The latest of such ventures was *Men in White* (2009).
 
 However, there have been recent attempts to re-examine the postwar period through social and cultural lenses. Rather than being dependent on British Colonial Office records and state archival papers, works on the history of popular culture such as films (*Latent Images: Films in Singapore* by Jan Uhde and Yvonne Ng Uhde; *Singapore Cinema* by Raphael Millet) and rock music (*Legends of the Golden Venus* and *Apache Over Singapore*, both by Joseph Pereira) focus on the medium itself and they ask the question: what does a movie or a throwaway pop song tell us about ourselves and the past?[^1] Even the National Museum of Singapore in 2010 mounted an exhibition on “Singapore 1960”, using cultural artifacts and social memories to give us a sense of what lives were like back then.
 
