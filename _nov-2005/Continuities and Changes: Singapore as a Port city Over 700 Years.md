@@ -17,6 +17,9 @@ Singapore’s port functions, especially those of the last two centuries, had la
 
 #### **Singapore as an Indigenous Port Before 1819**
 Some time in the late 13th century, an autonomous settlement was established on the north bank of the Singapore River. Known as Singapore, the settlement depended almost entirely on external sources for both its wealth and provisions. It was the only port in the Southern Malacca Straits region, and serviced ships and traders peddling in the region. It competed against rival ports along the Malacca Straits coast, such as Palembang, Jambi, Tamiang, Kota Cina, South Kedah, Lambri and Semudra, for a slice of the maritime trade pie. 
+![](/images/vol-1-issue-1/ContinuitiesChanges/02%20port%20paper%20-%20dao1.jpg)
+<img src="/images/vol-1-issue-1/ContinuitiesChanges/02%20port%20paper%20-%20dao1.jpg" style="width:50%;">
+ <div style="background-color: white;">The <i> Daoyi Zhilue Jiaoshi</i> also provides a list of ports that functioned during the late 13th and 14th centuries in the Malacca Straits region. All Rights Reserved, Zhonghua Shu Ju, 1981.</div>
 
 Singapore’s port functions were two-fold. Firstly, by making available several products that were in demand by the international markets, it attracted foreign traders to its port. According to the *Daoyi Zhilue Jiaoshi*, a Chinese account of the ports in Southeast Asia and the Indian Ocean littoral, written by the Chinese trader Wang Dayuan some time in the mid–14th century, these were namely top quality hornbill casques, middle quality lakawood and cotton. The niche market was successfully established as these products, which were commonly found at other Southeast Asian ports, were unique in terms of their quality.
 
