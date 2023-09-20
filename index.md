@@ -747,4 +747,12 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Restoring Classic Films from Asia
+      subtitle: Film and Photography
+      id: infopic
+      description: Infopic description
+      button: SAVING ASIAN CLASSICS
+      url: /vol-19/issue-4/jan-mar-2024/restoring-asian-films/
+      alt: Image alt text
 ---
