@@ -69,27 +69,27 @@ As a consequence of my background as an academic and writer, I incorporated the 
 
 The epigraphs, of which there are two in each chapter, are not merely incidental. They do several things: Convey, directly or indirectly, the intentions of my book or chapters; provide concrete evidence of my having read widely; and chart the periods in which the readings happened. The quotations and extracts from my poems, plays and fiction demonstrate my development as a writer in these genres. In addition to excerpts, I have included whole works, complete poems and a short story.
 
-I have done the above intertextually. Intertextuality is a technique I am very partial to as it establishes dynamic, symbiotic relationships between books. For example, I quote E.M. Forster’s *Howards End*[^3] — where he wrote the epigraph “Only Connect” — in one of my epigraphs.
+I have done the above intertextually. Intertextuality is a technique I am very partial to as it establishes dynamic, symbiotic relationships between books. For example, I quote E.M. Forster’s *Howards End*[^3] – where he wrote the epigraph “Only Connect” – in one of my epigraphs.
 
 Sometimes, too, I have juxtaposed these insertions in such a way as to create a collage, leaving my reader to make the connections; see, for example, pages 370–374.
 
-It will also be apparent, from what I have written in this section, that I have employed in Routes a few familiar techniques used by fiction writers. I am sure many who write autobiographical accounts would also be able to utilise the epigraph, intertext and collage as strategies. As a writer and academic for whom these aspects of literary theory are common, I guess I have an advantage.
+It will also be apparent, from what I have written in this section, that I have employed in *Routes* a few familiar techniques used by fiction writers. I am sure many who write autobiographical accounts would also be able to utilise the epigraph, intertext and collage as strategies. As a writer and academic for whom these aspects of literary theory are common, I guess I have an advantage.
 
-I hope all these — including the candour of my revelations, the sensual as well as the intellectual, and the embracing, servicing use of anecdotal articles, diary entries, epigraphs, letters, fiction, poems, plays, reviews (of books and plays) and quotes from books and reports — will convey the impression of my whole person in the years from 1940 to 1975. Oh yes, the illustrations! They — over a hundred of them — interact dynamically with the text as part intimate commentary, part revelation, part interrogation; please scrutinise them carefully. As the great American poet Walt Whitman wrote after publishing the first edition of his masterpiece Leaves of Grass:
+I hope all these – including the candour of my revelations, the sensual as well as the intellectual, and the embracing, servicing use of anecdotal articles, diary entries, epigraphs, letters, fiction, poems, plays, reviews (of books and plays) and quotes from books and reports – will convey the impression of my whole person in the years from 1940 to 1975. Oh yes, the illustrations! They – over a hundred of them – interact dynamically with the text as part intimate commentary, part revelation, part interrogation; please scrutinise them carefully. As the great American poet Walt Whitman wrote after publishing the first edition of his masterpiece *Leaves of Grass*:
 
-<i>“Camerado, this is no book. Who touches this, touches a man."</i>
+<center>Camerado, this is no book. Who touches this, touches a man.</center>
 
 
 <center>
 <br>
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Vol%207%20issue%204/WritingMemoir/author_Robert%20Yeo.jpg"><b>
-Robert Yeo</b><br> Poet and Playwright.</div></center>
+Robert Yeo</b><br> Poet and Playwright</div></center>
 
 #### **NOTES**
 
 [^1]: Alex Haley, *Roots: The Saga of An American Family* (New York: Doubleday, 1976)
 
-[^2]: Mahatir Mohamad, *The Malay Dilemma* (Singapore: Asia Pacific Press, 1970)
+[^2]: Mahathir Mohamad, *The Malay Dilemma* (Singapore: Asia Pacific Press, 1970)
 
 [^3]: E. M. Forster, *Howards End* (London: Edward Arnold, 1910)
