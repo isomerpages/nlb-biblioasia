@@ -1,11 +1,12 @@
 ---
 title: Restoring Classic Films from Asia
-permalink: /holding-area/permalink/test-2/
+permalink: /vol-19/issue-4/jan-mar-2024/restoring-asian-films/
 description: Besides restoring made-in-Singapore films, the Asian Film Archive
   is also involved in the preservation of other seminal Asian works.
 image: /images/Vol 19 Issue 4/2 Restoring Classic Films/b81_19_0_images 1.png
 ---
 #### Besides restoring made-in-Singapore films, the Asian Film Archive is also involved in the preservation of other seminal Asian works. 
+
 By Chew Tee Pao
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_19_0_images%201.png)
@@ -30,13 +31,13 @@ Using the original camera and sound negatives and a surviving positive print tha
 
 With the assistance of a post-production company in Manila, De Leon and the film’s original cinematographer, Rody Lacap, supervised the colour grading using the restored scans. The colour-corrected restored scans were then returned to L’Immagine Ritrovata to produce new negatives of the film. The entire restoration, including generating new 35 mm negatives and print, took nearly a year.
 
-In September 2017, the restored _Batch ’81_ premiered at the Venice Classics section of the 74th Venice International Film Festival. I had the privilege of attending the festival for the first time and read an opening statement from Mike De Leon to the audience. After Venice, the film screened in Manila in October 2017 as the closing film of the QCinema Film Festival.[^2] In Singapore, the film was shown at the AFA’s annual restored film series, “Asian Restored Classics”, on 30 August 2018.[^3]
-
-
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_bef_03_0_image%205.png)
 <br>
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_aft_03_0_image%202.png)
 <div style="background-color: white;">Image comparisons showing the before-and-after restoration of <i>Batch ’81</i>. <i>Courtesy of Asian Film Archive.</i> </div>
+
+In September 2017, the restored _Batch ’81_ premiered at the Venice Classics section of the 74th Venice International Film Festival. I had the privilege of attending the festival for the first time and read an opening statement from Mike De Leon to the audience. After Venice, the film screened in Manila in October 2017 as the closing film of the QCinema Film Festival.[^2] In Singapore, the film was shown at the AFA’s annual restored film series, “Asian Restored Classics”, on 30 August 2018.[^3]
+
 
 Launched in conjunction with the film’s restoration, the AFA published _Batch ’81: The Making of a Mike De Leon Film_ to document the history behind the making of the film.[^4] The publication was made possible with De Leon’s collection of related materials such as photographs and memorabilia, recollections from the director, his creative team, and the actors who played both pivotal and minor roles in the film.
 
@@ -83,12 +84,6 @@ The print from Sinematek Indonesia was affected by dirt and shrinkage and had nu
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/vlcsnap_image%209.png)
 <div style="background-color: white;"> A total of 14 shots and 4,500 frames (approximately 3 minutes, 7 seconds) were missing from the print from Sinematek Indonesia, and had to be reconstructed using the Japanese print as a reference. For example, this still showing the lead character burning the letters he had seized from the postman was missing. <i>Courtesy of Garin Nugroho.</i> </div>
 
-
-![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/film_image%2012.png)
-<div style="background-color: white;"> Most of the film base of Dharmasena Pathiraja’s <i>Bambaru Avith</i> had softened and the emulsion had become sticky. Warpage and shrinkage were observed in every reel with numerous adhesive stains and perforation tears. <i>Courtesy of Asian Film Archive.</i> </div>
-
-
-
 The restoration of _Surat Untuk Bidadari_ took about six months. Fortunately, Garin was available to catch a work-in-progress preview of the restoration at the Oldham Theatre at the National Archives of Singapore, where the AFA holds its regular screenings. Having not seen the film play on a big screen in over 20 years, he reminisced about the making of the film and shared anecdotes as we watched the film.&nbsp;
 
 Garin told me the film serves as capsule for a time that cannot be revisited and re-experienced since Sumba has become a hotspot for local tourists in the last decade. He was appreciative that the film can now be seen as close to its original form by new audiences.[^12]
@@ -100,10 +95,8 @@ Nearly two decades before Garin Nugroho began his film career in Indonesia, ther
 
 The AFA’s first encounter with the works of Pathiraja was serendipitous. In 2017, the AFA was alerted to the existence of the 35 mm reels of three films: _Ponmani_ (_Younger Sister_, 1977), _Bambaru Avith_ (_The Wasps Are Here_, 1978) and _Soldadu Unnahe_ (_Old Soldier_, 1981) that were found languishing below a stairwell of a local institution, which had collected the films years ago but was unable to care for them. These films, which have severely deteriorated, turned out to be among Pathiraja’s seminal works as these are among the filmmaker’s earliest films that were screened and won awards outside of Sri Lanka.[^13]
 
-![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_aft_image%203.png)
-<br>
-![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_bef0_image%206.png)
-<div style="background-color: white;"> Image comparisons showing the before-and-after restoration of <i>Bambaru Avith</i>. <i>Courtesy of Asian Film Archive.</i></div>
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/film_image%2012.png)
+<div style="background-color: white;"> Most of the film base of Dharmasena Pathiraja’s <i>Bambaru Avith</i> had softened and the emulsion had become sticky. Warpage and shrinkage were observed in every reel with numerous adhesive stains and perforation tears. <i>Courtesy of Asian Film Archive.</i> </div>
 
 
 Set in the northern city of Jaffna, Pathiraja’s only Tamil-language film, _Ponmani,_ traces the fortunes and concerns of an economically depleted upper caste, lower middle-class family. Ponmani, the youngest daughter in the family has to wait until the marriage of the middle daughter, Saraoja, before she can escape from her life in the home. She falls in love with a boy from a lower fisherman caste but learns that her family has no money to pay for Saraoja’s dowry.
@@ -117,6 +110,11 @@ Over the next few months, my team members and I took turns inspecting every reel
 With the support of Pathiraja’s family, the AFA decided to embark on the restoration of the film and spent several months trying to locate any other film elements that might have been kept by other archives and institutions. Unfortunately, the search came to naught. It was subsequently verified by the National Film Corporation of Sri Lanka that the 35 mm release print with the AFA is likely the sole surviving copy of the film.&nbsp;
 
 In mid-2019, L’Immagine Ritrovata was appointed to restore the film. The laboratory applied an intensive desiccant over the reels to reduce the stickiness and to improve the print condition so that repair work could be conducted to ensure that the film could mechanically withstand the digitisation process. After weeks of treatment, the film could finally be unwound and repair work could proceed.
+
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_aft_image%203.png)
+<br>
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_bef0_image%206.png)
+<div style="background-color: white;"> Image comparisons showing the before-and-after restoration of <i>Bambaru Avith</i>. <i>Courtesy of Asian Film Archive.</i></div>
 
 Since there were no other film elements and good image information for comparison, automatic digital restoration tools could not be utilised. This meant that each frame had to be manually processed to remove dust and scratches. Additionally, each image had to be stabilised, de-flickered and colour-corrected. Audio restorers also had to eliminate and reduce clicks, crackles and bumps within the soundtrack to smoothen excessive noise and balance the overall tone. The restoration of the film took almost an entire year.
 

@@ -2,5 +2,6 @@ collections:
   jan-to-mar-2024:
     output: true
     order:
+      - Restoring Classic Films from Asia.md
       - The Curious Visit of Qing Ambassadors to Singapore.md
       - An Interview with Rachel Heng, Author of The Great Reclamation.md
