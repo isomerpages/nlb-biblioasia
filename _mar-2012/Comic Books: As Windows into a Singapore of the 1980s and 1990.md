@@ -71,38 +71,38 @@ Mr Kiasu epitomised the typical Singaporean of the early 1990s. Short, stumpy an
 
 The character of Mr Kiasu was meant to make fun of Singaporeans’ fear of losing out and their desire to be Number One in everything. His creators were aware that mainstream publishers did not want to publish their first book because the character projected an unflattering image of Singaporeans. But the other reason why they went into self-publishing was that they feared losing control of their character.[^8] In other words, they were being *kiasu* themselves. The Kuppies, as Mr Kiasu’s creators called themselves, promoted this negative trait of Singaporeans and ended up being very well-off. Such a trend reflected the heady economic climate of the 1990s.
 
-The Mr Kiasu character expanded into a brand with merchandising galore – there was a radio show, magazines, a regular strip in *The Sunday Times*, McDonald’s meals, a TV show, a CD, and a musical. In 1993, Mr Kiasu recorded an annual turnover of $800,000 from merchandising. A year later, Kiasu Corners were set up at 7-Eleven stores islandwide.[^9] By that time, the Kuppies had signed up to 40 licences for their character.[^10]
+The Mr Kiasu character expanded into a brand with merchandising galore – there was a radio show, magazines, a regular strip in *The Sunday Times*, McDonald’s meals, a TV show, a CD and a musical. In 1993, Mr Kiasu recorded an annual turnover of $800,000 from merchandising. A year later, Kiasu Corners were set up in 7-Eleven stores islandwide.[^9] By that time, the Kuppies had signed up to 40 licences for their character.[^10]
 
-But there was already a backlash. In 1993, *The Straits Times* held an essay competition for National Day and many readers wrote in to condemn kiasu behaviour. Forum letters to *The Straits Times* also said that McDonald’s Kiasu Burgers left a bad taste in the mouth because of the way they mocked society.[^11]
+But there was already a backlash. In 1993, *The Straits Times* held an essay competition for National Day and many readers wrote in to condemn *kiasu* behaviour. Forum letters to *The Straits Times* also said that McDonald’s Kiasu Burgers left a bad taste in the mouth because of the way they mocked society.[^11]
 
-But the going remained good for the Kuppies. Up to 1998, a new *Mr Kiasu* book was released almost every year like clockwork. They were bestsellers, which put paid to the argument that Singaporeans hated Mr Kiasu; how could they when they were still lapping it up? The bestsellers in a country reflect its national character. We were buying and consuming ghost stories and *Mr Kiasu* books, which said something about what we wanted for entertainment. Mr Kiasu was a product of its time and its demise had everything to do with the times. The 1997 Asian financial crisis was a wake-up call that the good times were over. The following year, *The Straits Times* reported that the Mr Kiasu merchandising company had gone into debt.
+But the going remained good for the Kuppies. Up to 1998, a new *Mr Kiasu* book was released almost every year like clockwork. They were bestsellers, which put paid to the argument that Singaporeans hated *Mr Kiasu*; how could they when they were still lapping it up? The bestsellers in a country reflect its national character. We were buying and consuming ghost stories and *Mr Kiasu* books, which said something about what we wanted for entertainment. *Mr Kiasu* was a product of its time and its demise had everything to do with the times. The 1997 Asian financial crisis was a wake-up call that the good times were over. The following year, *The Straits Times* reported that the Mr Kiasu merchandising company had gone into debt.
 
-The eighth and final book of the *Mr Kiasu* series, “Everything Also Act Blur”, was released in 1998. The death knell was heard in a parliamentary speech made by then Minister for Education Teo Chee Hean: “Let the icon of the Kiasu Singaporean fade into 20th century history, and in its place emerge the Active Singapore — the Singaporean of the 21st century.”[^12]
+The eighth and final book of the *Mr Kiasu* series, “Everything Also Act Blur”, was released in 1998. The death knell was heard in a parliamentary speech made by then Minister for Education Teo Chee Hean: “Let the icon of the Kiasu Singaporean fade into 20th century history, and in its place emerge the Active Singapore – the Singaporean of the 21st century.”[^12]
 
-So how does the *Mr Kiasu* series read after all these years? One thing that will strike you is that Mr Kiasu is not as hateful as the media then made him out to be. He is rather likeable, if irritating. He doesn’t win all the time and his kiasu-ness often lands him in trouble. Of course, he doesn’t learn, which makes him truly a comic book character. The books score high points in their digs at the way Singaporeans behave. The second *Mr Kiasu* book published in 1991, “Everything Also Must Grab”, made fun of the people who refused to give up their seats to the elderly on MRT trains — the “sleeping beauty”, the “absorbed” newspaper reader and the fake old man (Mr Kiasu disguises himself as one to ensure that he need not give up his seat on the train). Today we still see such antisocial behaviour on MRT trains.
+So how does the *Mr Kiasu* series read after all these years? One thing that will strike you is that Mr Kiasu is not as hateful as the media then made him out to be. He is rather likeable, if irritating. He doesn’t win all the time and his *kiasu*-ness often lands him in trouble. Of course, he doesn’t learn, which makes him truly a comic book character. The books score high points in their digs at the way Singaporeans behave. The second *Mr Kiasu* book published in 1991, “Everything Also Must Grab”, made fun of the people who refused to give up their seats to the elderly on MRT trains – the “sleeping beauty”, the “absorbed” newspaper reader and the fake old man (Mr Kiasu disguises himself as one to ensure that he need not give up his seat on the train). Today we still see such antisocial behaviour on MRT trains.
 
 #### **Conclusion**
 
-If *Unfortunate Lives* represents the artistic potential of comics to reflect real lives and social concerns, issues that also characterise more recent comics like Dave Chua and Koh Hong Teng’s *Gone Case* and Troy Chin’s *The Resident Tourist*, then *Mr Kiasu* highlights the commercial viability of doing comics in Singapore. This viability is further underscored by the current success of Sonny Liew, who makes a more than decent living by drawing for DC and Marvel Comics, and also that of Otto Fong and his *Adventures in Science series*.
+If *Unfortunate Lives* represents the artistic potential of comics to reflect real lives and social concerns, issues that also characterise more recent comics like Dave Chua and Koh Hong Teng’s *Gone Case* and Troy Chin’s *The Resident Tourist*, then *Mr Kiasu* highlights the commercial viability of doing comics in Singapore. This viability is further underscored by the current success of Sonny Liew, who makes a more than decent living by drawing for DC and Marvel Comics, and also that of Otto Fong and his *Adventures in Science* series.
 
 Both *Unfortunate Lives* and *Mr Kiasu* present a slice of the political and social milieu of Singapore in the late 1980s and 1990s. The Singapore Memory Project, spearheaded by the National Library Board, was launched last year to capture and document the memories of Singapore and Singaporeans. Comic books are a natural medium to do just that.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> 
-The National Library Board started building its comics collection in 1999 with the opening of the Library@Orchard on the top floor of Ngee Ann City. The idea for starting such a collection came out of a desire to offer something different at the new library in the heart of Orchard Road, and capturing the youth market was a key consideration. Following the successful introduction of comics in the Library@Orchard, comics collections were rolled out at other public libraries islandwide and the genre has steadily risen in popularity among library users.<br><br>
+The National Library Board started building its comics collection in 1999 with the opening of library@orchard on the top floor of Ngee Ann City. The idea for starting such a collection came out of a desire to offer something different at the new library in the heart of Orchard Road, and capturing the youth market was a key consideration. Following the successful introduction of comics in the library@orchard, comics collections were rolled out at other public libraries islandwide and the genre has steadily risen in popularity among library users.<br><br>
 	
 <img style="width:80%;" src="/images/Vol%207%20issue%204/ComicBooks/TPPL%20comic%20collection-1a.jpg">Display of comics collection at a public library.
 	
-From 2006 to 2010, manga series such as *Ranma* by Rumiko Takahashi and *Zatch Bell*! by Makoto Raiku, and Case Closed by Gosho Aoyama dominated the top 30 most-read lists in the earlier years together with a smattering of English titles such as Garfield and Hellboy. However, in 2009 and 2010, English-language comics such as *The Amazing Spider-Man*, *The Mighty Avengers*, and game-based adaptations like *World of Warcraft* began appearing in the lists of popular comics.<br><br>
+From 2006 to 2010, manga series such as *Ranma* by Rumiko Takahashi and *Zatch Bell!* by Makoto Raiku, and *Case Closed* by Gosho Aoyama dominated the top 30 most-read lists in the earlier years together with a smattering of English titles such as *Garfield* and *Hellboy*. However, in 2009 and 2010, English-language comics such as *The Amazing Spider-Man*, *The Mighty Avengers* and game-based adaptations like *World of Warcraft* began appearing in the lists of popular comics.<br>
 	
-Besides building its print collection, the National Library Board has also been offering comics electronically through databases such as I-Manga and OverDrive, which are available from its eResources website (http://eresources.nlb.gov.sg). Although the Library@ Orchard closed in 2007, comics have become a staple of the National Library Board’s collection.<br><br>
-<i>-- Sebastian Song, Lynn Koh, Roy See and Reena Kandoth, National Library Board</i>
+Besides building its print collection, the National Library Board has also been offering comics electronically through databases such as I-Manga and OverDrive, which are available from its eResources website (http://eresources.nlb.gov.sg). Although library@orchard closed in 2007, comics have become a staple of the National Library Board’s collection.<br><br>
+<i>Sebastian Song, Lynn Koh, Roy See and Reena Kandoth, National Library Board</i>
 </div> 
 	
-The author acknowledges with thanks the contributions of Associate Professor Ian Gordon, Department of History, National University of Singapore in reviewing this article.
+The author acknowledges with thanks the contributions of Associate Professor Ian Gordon, Department of History, National University of Singapore, in reviewing this article.
 
 <div>
-<center> <b>Lim Chen Tju</b><br>
-Country Editor (Singapore) International<br>Journal of Comic Art.</center> </div>
+<center> <b>Lim Cheng Tju</b><br>
+	Country Editor (Singapore), <i>International Journal of Comic Art</i></center> </div>
 
 
 #### **REFERENCES**
@@ -113,26 +113,26 @@ Lim, C.T. (1995). [_Cartoons of lives, mirrors of our times: History of politica
 #### **NOTES**
 
 
-[^1]: For example, see my article on the significance of Elvis Presley in Singapore 1964. Lim, C.J. (2007, August 29). Elvis and Singapore. _Citizen Historian._ Retrieved from Citizen Historian website.
+[^1]: For example, see my article on the significance of Elvis Presley in Singapore in 1964. Lim, C.T. (2007, August 29). Elvis and Singapore. _Citizen Historian._ Retrieved from Citizen Historian website.
 
-[^2]: Disclosure; this recreation was curated by Foo Kwee Horng, Koh Nguang How, Lai Chee Kien and I. Foo, K.H., Koh, N.H. &amp; Lim, C.T. (2006, October). A brief history of woodcuts in Singapore. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), _2_ (3), 30–34. Retrieved from BiblioAsia website. The original exhibition was held at the old National Library at Stamford Road in 1966. For more information, see [_Imprints of the past: Remembering the 1966 Woodcut Exhibition_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12824746), 2006 found at the Lee Kong Chian Reference Library.
+[^2]: Disclosure: this recreation was curated by Foo Kwee Horng, Koh Nguang How, Lai Chee Kien and me. Foo, K.H., Koh, N.H. &amp; Lim, C.T. (2006, October). A brief history of woodcuts in Singapore. [_BiblioAsia_](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), _2_ (3), 30–34. Retrieved from BiblioAsia website. The original exhibition was held at the old National Library at Stamford Road in 1966. For more information, see [_Imprints of the past: Remembering the 1966 Woodcut Exhibition_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12824746), 2006, found at the Lee Kong Chian Reference Library.
 
 [^3]: Nureza Ahmad. (2004, May 10). [_First multilingual play_ _in Singapore_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_132_2005-01-26.html). Retrieved from Singapore Infopedia. In 1988, the Ong Teng Cheong Advisory Council on Art and Culture completed its extended study and recommended the setting up of the National Arts Council and the building of the Esplanade.
 
-[^4]: In a recent exchange, Khoo said his favourite story is the Modern Man, a Twilight Zone type story where an arrogant yuppie was transported to the past, chased by dinosaurs and finally eaten by cavemen who digested and shat him out. Things can’t get more literal than this.
+[^4]: In a recent exchange, Khoo said his favourite story is the “Modern Man”, a *Twilight Zone*-type story where an arrogant yuppie is transported to the past, chased by dinosaurs and finally eaten by cavemen who digest and shit him out. Things can’t get more literal than this.
 
-[^5]: Teo has written about her experiences being detained without trial in Beyond The Blue Gate. (2010). Lim, C.T. (2010, June 27). _Unfortunate lives still_ \[Web log comment\]. Retrieved from Singapore Comix website.
+[^5]: Teo has written about her experiences being detained without trial in *Beyond The Blue Gate* (2010). Lim, C.T. (2010, June 27). _Unfortunate lives still_ \[Web log comment\]. Retrieved from Singapore Comix website.
 
 [^6]: Talking cock.com (n.d.). Retrieved from Talkingcock.com website.
 
 [^7]: Gurnani, A. (2009, September 3). _In conversation with Mr Kiasu creator Johnny Lau._ Retrieved from axapac website.
 
-[^8]: Lent, J. (1995). “Mr Kiasu”, “Condom Boy” and ‘The House of Lim”: The world of Singapore cartoons. _Jurnal Komunikasi,_ 11, 73–83.
+[^8]: Lent, J. (1995). “Mr Kiasu”, “Condom Boy” and “The House of Lim”: The world of Singapore cartoons. _Journal Komunikasi,_ 11, 73–83.
 
 [^9]: Zhuang, J. (2011, June 14). _Mr Kiasu: Why So Like Dat? The life and times of being scared to lose._ Retrieved from Justinzhuang website.
 
-[^10]: “In conversation with Mr Kiasu creator Johnny Lau”.
+[^10]: “In conversation with Mr Kiasu creator Johnny Lau.”
 
-[^11]: “The World of Singapore Cartoon”.
+[^11]: “The World of Singapore Cartoon.”
 
-[^12]: “Mr Kiasu: Why U So Like Dat”?
+[^12]: “Mr Kiasu: Why U So Like Dat?”
