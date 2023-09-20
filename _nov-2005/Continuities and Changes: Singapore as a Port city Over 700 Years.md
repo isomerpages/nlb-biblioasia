@@ -58,4 +58,20 @@ In the process, Singapore has changed the concept of “hinterland” to complem
 <center><b>Derek Heng</b><br>Asst. Professor<br> History Department<br> National University of Singapore</center>
 </div>
 
+#### **FURTHER READING**
+   
+John N. Miksic, _[Archaeological Research on the “Forbidden Hill” of Singapore: Excavations at Fort Canning, 1984](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080784)_ (Singapore: National Museum, 1985). (Call no. RSING 959.57 MIK)  
+Describes the archeological finds at Fort Canning which reveal details of the influence of early Hindu Kingdoms on Temasek.
+
+Kenneth R. Hall, _[Maritime Trade and State Development in Early Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446987)_ (Honolulu: University of Hawaii Press, 1985). (Call no. RSING 382.0959 HAL)  
+An attempt to look at early trade and the development of Southeast Asia as a whole. It begins with a conceptual evaluation of statecraft and trade in Southeast Asia, then elaborates further on the influence of Southern China on the northern Southeast Asian coastal states, with the rest of the book studying the influence of Srivijaya and Majapahit kingdoms on the political development of the Southeast Asian states.
+
+Lynda Norene Shaffer, Maritime Southeast Asia to 1500 (Armonk: M.E. Sharpe, 1996). (Call no. RSING 959.01 SHA)  
+An introductory overview of the early maritime experiences in Southeast Asia including the influences from first century Funan and the Srivijaya and Majapahit kingdoms in pre-colonial times.
+
+Roland St. John Braddell, _[A Study of Ancient Timesin \[i.e. Times in\] the Malay Peninsula and the Straits of Malacca and Notes on Ancient Times in Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6103263)_ (Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society, 1989). (Call no. RSING 959.01 BRA)  
+Reprints from the MBRAS by Braddell on Malaya’s early maritime histories. The articles include reprints of ancient maps and detailed analysis of routes from China and India.
+
+Sinnappah Arasaratnam, _[Pre-Modern Commerce and Society in Southern Asia: An Inaugural Lecture Delivered at the University of Malaya on December 21, 1971](https://eservice.nlb.gov.sg/item_holding.aspx?bid=378592)_ (Kuala Lumpur: University of Malaya, 1972. (Call no. RSEA 382.095 ARA)  
+A slim volume based on the inaugural lecture at the University. It reviews trade between South and Southeast Asia between the 17th and 18th century and its relation with incoming European trade.
 
