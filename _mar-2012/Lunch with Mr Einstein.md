@@ -85,39 +85,41 @@ Tables were set up in the garden with snacks of the different ethnic communities
 
 Because of the interest in the food tables the crowd about Mr Einstein had thinned. Only those who were truly interested in science had forgone their tea. In the heat Mr Einstein’s smile had taken on a fixed appearance and he mopped his brow with a handkerchief. Beside him now Sir Manasseh frowned disapprovingly as he listened to one of the uniformed watchmen who had hurried up to him, and was pointing repeatedly towards the gate.
 
-A thin bespectacled Indian waited anxiously there, his eyes fixed upon the scientist. At an exasperated nod from Sir Manasseh, the Indian was finally allowed to enter the garden and approach Mr Einstein. He moved forward self-consciously, a strange unkempt figure amongst the smart Europeans. His shabby jacket was tight at the shoulders and short in the sleeves, and incongruously worn over a muslin *dhoti* and open sandals. People turned to watch the dark skinned intruder, who walked as if he feared his left foot might entangle with his right and bring him down shamefully before the assembly.
+A thin bespectacled Indian waited anxiously there, his eyes fixed upon the scientist. At an exasperated nod from Sir Manasseh, the Indian was finally allowed to enter the garden and approach Mr Einstein. He moved forward self-consciously, a strange unkempt figure amongst the smart Europeans. His shabby jacket was tight at the shoulders and short in the sleeves, and incongruously worn over a muslin *dhoti* and open sandals. People turned to watch the dark-skinned intruder, who walked as if he feared his left foot might entangle with his right and bring him down shamefully before the assembly.
 
 When finally he stood before Mr Einstein, speech seemed to dry on his tongue. He hesitated and then unexpectedly prostrated himself at the scientist’s feet, his hands gripping Mr Einstein’s stout shoes. The knot of interested spectators about Mr Einstein gave a shocked gasp, the scientist stooped down in embarrassment, insisting the Indian get back on his feet. Upright once more, the man grasped Mr Einstein’s hands in his own and shook them ceaselessly. A ripple of disapproval passed through the crowd.
 
 There was something about Mr Einstein that made Cynthia understand why the Indian might want to shake his hands so strenuously, although she could not say what this might be. The Indian was speaking rapidly and Mr Einstein was nodding and smiling. Cynthia moved nearer, and was amazed to see tears in the Indian’s eyes. He still clasped the scientist’s hands, and Mr Einstein was now explaining something about insects.
 
-‘…just as a beetle moving on a large globe does not realise it is actually moving on a curved trajectory, we too are unaware of the fact that the space we live in is curved.’
+“…just as a beetle moving on a large globe does not realise it is actually moving on a curved trajectory, we too are unaware of the fact that the space we live in is curved.”
 
 The Indian mumbled an answer and Mr Einstein nodded and chuckled as if at some private joke.
 
-‘You must be one of the few people here who has understood something of my theory,’ Einstein’s face creased in a smile, he patted the Indian’s shoulder. Beside him Sir Manasseh Meyer was becoming impatient and Becky’s father stepped forward to break up the strange conversation.
+“You must be one of the few people here who has understood something of my theory,” Einstein’s face creased in a smile, he patted the Indian’s shoulder. Beside him Sir Manasseh Meyer was becoming impatient and Becky’s father stepped forward to break up the strange conversation.
 
-Everyone is waiting for Mr Einstein,’ Mr Cohen frowned.
+“Everyone is waiting for Mr Einstein,” Mr Cohen frowned.
 
 The Indian drew back, nodding apologetically. Without further acknowledgement, the group of Europeans turned away. Only Mr Einstein passed the Indian a glance of humorous conspiracy, as if he would rather have stayed to talk with him than face Sir Manasseh Meyer’s reception. Then, he too turned to accompany his host towards the great ballroom of the house. There, speeches would be made and questions could be asked of the scientist about his work.
 
 Cynthia watched Mr Einstein walk away with a growing sense of desolation. There was no sign of Beng Neo who was now lost in the crowd. No sign either of Becky and Mei Lan who must already be consuming cake and lemonade somewhere in the house. Only the Indian still stood at the gate, his eyes fixed on the retreating form of the scientist. Cynthia wondered why, when Mr Einstein had so clearly taken to him, the Indian could not have joined the reception. People now jostled about her as they streamed towards the open French doors of Sir Manasseh Meyer’s ballroom. Someone bumped against her, pushing her off balance, strange voices hummed around her. Looking up, she saw a wave of flowery hats rolling over her, high above. A ripple of panic rose through her; a cloying smell of perfume and perspiration hemmed her in. A man bent to pat her head as if she was a dog.
 
-‘What are you doing here, lassie?’ he asked, bending down to her. Behind his stained teeth she saw his thick wet tongue. A woman beside him in a hat of pink feathers and mauve flowers gave an impatient laugh.
+“What are you doing here, lassie?” he asked, bending down to her. Behind his stained teeth she saw his thick wet tongue. A woman beside him in a hat of pink feathers and mauve flowers gave an impatient laugh.
 
-‘One of the servant’s children must have wandered out. Come along, she’ll find her way back to the kitchen door.’
+“One of the servant’s children must have wandered out. Come along, she’ll find her way back to the kitchen door.”
+
+##### Now, it was not a tall thin man in a forest she saw, but Mr Einstein, beset like Gulliver in a Lilliputian land, by people who underestimated him.
 
 Eventually, the crowd passed by and Cynthia was left alone. The food she had eaten at lunch repeated on her, and her head ached. She wanted to go home and thought of her mother’s soft dark skin, the elegant coil of her chignon, the lavender scent of her embrace and bit her lip so that the tears would not come; she could see nobody like her mother in the garden, nobody like herself, except the Indian man still standing at the gate.
 
-The horrid things Becky had said washed about inside her. Everything that had seemed to fit so neatly within her only hours before seemed suddenly out of place. The sun high above speared the gold fish in the pond, but something seemed to oppress her. Her throat grew tight and tears pricked her eyes. In her head she heard Mr Einstein’s voice again, speaking about the compass, ‘Here was a needle, isolated and unreachable, totally enclosed, yet caught in the grip of an invisible power that made it strive determinedly towards the north…’ Now, it was not a tall thin man in a forest she saw, but Mr Einstein, beset like Gulliver in a Lilliputian land, by people who underestimated him.
+The horrid things Becky had said washed about inside her. Everything that had seemed to fit so neatly within her only hours before seemed suddenly out of place. The sun high above speared the gold fish in the pond, but something seemed to oppress her. Her throat grew tight and tears pricked her eyes. In her head she heard Mr Einstein’s voice again, speaking about the compass, “Here was a needle, isolated and unreachable, totally enclosed, yet caught in the grip of an invisible power that made it strive determinedly towards the north…” Now, it was not a tall thin man in a forest she saw, but Mr Einstein, beset like Gulliver in a Lilliputian land, by people who underestimated him.
 
 All at once she turned and began to run towards the gate where the Indian still waited, a group of nearby people looked at her askance. Then, someone came up behind her and caught her firmly by the arm.
 
-‘Now not time for going home. Lemonade and cake is waiting. No listen to things people say,* lah*. You always be you. Cannot change. Must make yourself strong, *lah*. Like me.’ Old Ah Siew crouched down and put a stringy arm about Cynthia who turned into the amah’s slack breast and wept.
+“Now not time for going home. Lemonade and cake is waiting. No listen to things people say, *lah*. You always be you. Cannot change. Must make yourself strong, *lah*. Like me.” Old Ah Siew crouched down and put a stringy arm about Cynthia who turned into the *amah*’s slack breast and wept.
 
 
 <center>
 <br>
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Vol%207%20issue%204/EinsteinLunch/meira_chand_image.jpg"><b>
-Meira Chand</b><br>Novelist.</div></center>
+Meira Chand</b><br>Novelist</div></center>
