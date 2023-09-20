@@ -24,9 +24,6 @@ Both films were produced by LVN Pictures, one of the biggest film studios of Phi
 
 Considering and navigating the legal and copyright issues are essential in preparing for any film restoration. With the approval and support from the film’s executive producer Marichu Vera-Perez Maceda in 2016, the AFA assessed and determined the urgency to digitise and restore De Leon’s 1982 critically acclaimed _Alpha Kappa Omega Batch ’81_ (also known as _Batch ’81_ or _ΑΚΩ 81_).
 
-![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/book-cover_image%204.png)
-<div style="background-color: white;"> Launched in conjunction with the film’s restoration, the Asian Film Archive published <i>Batch ’81: The Making of a Mike De Leon Film</i> to document the making of the film. Written by Jerome Gomez, the book is available to order at the archive’s online shop. <i>Image reproduced from Jerome Gomez, Batch ’81: The Making of a Mike De Leon Film (Singapore: Asian Film Archive, 2017). (From PublicationSG). </i></div>
-
 Produced at a time of great political unrest and turmoil during the period of martial law in the Philippines (1972–86) under then President Ferdinand Marcos, the psychological film chronicles fraternity Alpha Kappa Omega’s brutal initiation of new members as seen through the eyes of university student Sid Lucero. The film has been often referred to as one of the greatest Filipino films of all time and a metaphor for the Philippines under the Marcos regime.[^1]
 
 Using the original camera and sound negatives and a surviving positive print that had been preserved by the AFA since 2005, the film became the archive’s first restoration of a Filipino title. The original camera and sound negatives of _Batch ’81_ exhibited critical signs of “vinegar syndrome”, where films become brittle, shrink and emit an acidic odour. It had developed haloes and mould, with major green-hued defects on the emulsion. As a result, parts of the picture negative were unusable and the laboratory – L’Immagine Ritrovata in Bologna, Italy – overseeing the restoration had to integrate shots from the positive print during the process of digital restoration.
@@ -42,6 +39,9 @@ In September 2017, the restored _Batch ’81_ premiered at the Venice Classics s
 <div style="background-color: white;">Image comparisons showing the before-and-after restoration of <i>Batch ’81_. _Courtesy of Asian Film Archive.</i> </div>
 
 Launched in conjunction with the film’s restoration, the AFA published _Batch ’81: The Making of a Mike De Leon Film_ to document the history behind the making of the film.[^4] The publication was made possible with De Leon’s collection of related materials such as photographs and memorabilia, recollections from the director, his creative team, and the actors who played both pivotal and minor roles in the film.
+
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/book-cover_image%204.png)
+<div style="background-color: white;"> Launched in conjunction with the film’s restoration, the Asian Film Archive published <i>Batch ’81: The Making of a Mike De Leon Film</i> to document the making of the film. Written by Jerome Gomez, the book is available to order at the archive’s online shop. <i>Image reproduced from Jerome Gomez, Batch ’81: The Making of a Mike De Leon Film (Singapore: Asian Film Archive, 2017). (From PublicationSG). </i></div>
 
 
 #### **Garin Nugroho’s Surat Untuk Bidadari**
