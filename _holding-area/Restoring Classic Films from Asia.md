@@ -37,6 +37,7 @@ In September 2017, the restored _Batch ’81_ premiered at the Venice Classics s
 
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_bef_03_0_image%205.png)
+<br>
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_aft_03_0_image%202.png)
 <div style="background-color: white;">Image comparisons showing the before-and-after restoration of <i>Batch ’81_. _Courtesy of Asian Film Archive.</i> </div>
 
@@ -100,6 +101,7 @@ Nearly two decades before Garin Nugroho began his film career in Indonesia, ther
 The AFA’s first encounter with the works of Pathiraja was serendipitous. In 2017, the AFA was alerted to the existence of the 35 mm reels of three films: _Ponmani_ (_Younger Sister_, 1977), _Bambaru Avith_ (_The Wasps Are Here_, 1978) and _Soldadu Unnahe_ (_Old Soldier_, 1981) that were found languishing below a stairwell of a local institution, which had collected the films years ago but was unable to care for them. These films, which have severely deteriorated, turned out to be among Pathiraja’s seminal works as these are among the filmmaker’s earliest films that were screened and won awards outside of Sri Lanka.[^13]
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_aft_image%203.png)
+<br>
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_bef0_image%206.png)
 <div style="background-color: white;"> Image comparisons showing the before-and-after restoration of <i>Bambaru Avith</i>. <i>Courtesy of Asian Film Archive.</i></div>
 
