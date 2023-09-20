@@ -56,15 +56,17 @@ Whenever she could without it seeming too apparent Cynthia looked about Becky’
 
 Becky had showed them her bedroom with its kidney-shaped dressing table, on her bed sat a row of dolls with porcelain faces. Their rosebud mouths pursed in disapproval as Cynthia stood before them, and she backed away. A faint lavender scent filled the air. At home her room was bare but for a rickety bed, a tallboy and bookcase with a few battered books her mother had bought at second-hand bookshops. As she turned to leave she glimpsed herself in the mirror, a thin-faced, dark-skinned imp with green eyes.
 
-‘What is *hoi polloi*?’ Beng Neo asked suddenly. From her strained tone it was obvious Beng Neo had taken all this while to pluck up courage to ask the question.
+“What is *hoi polloi*?” Beng Neo asked suddenly. From her strained tone it was obvious Beng Neo had taken all this while to pluck up courage to ask the question.
 
-‘People who are not select.’ Becky looked critically at Beng Neo whose limp dress, worn and inadequately ironed, had obviously been washed at home like her school uniform.
+“People who are not select.” Becky looked critically at Beng Neo whose limp dress, worn and inadequately ironed, had obviously been washed at home like her school uniform.
 
 Downstairs Mr Einstein’s speech was over; people were already standing up to prepare for the short journey to Sir Manasseh Meyer’s house. Becky’s mother, in a silk gown with lace trim and a wide straw hat with white tulle flowers, came to the bottom of the stairs and called to the girls to come down.
 
-‘And don’t forget to put on your hats.’
+“And don’t forget to put on your hats.”
 
 Becky’s hat was of green straw and rosebuds, and Mei Lan wore a smart boater with pink ribbons. Beng Neo and Cynthia had no hats.
+
+<center>⦾</center>
 
 At last the convoy of cars and rickshaws reached Belle Vue, Sir Manasseh’s great house on the hill. Although the adults were driven in cars, the children rode in rickshaws. The runners breathed heavily as they laboured up the slope, and past Sir Manasseh’s private synagogue. By the time they reached their destination Mr Einstein had already arrived and been welcomed by Sir Manasseh Meyer. The girls vacated their rickshaw at the gate, before which stood two uniformed watchmen. On entering the gardens of Belle Vue, they found Mr Cohen waiting to introduce them to their host.
 
@@ -77,13 +79,13 @@ Unlike Mr Einstein, Sir Manasseh Meyer, although immensely wealthy, was not much
 
 Crossing the lawn behind the adults they passed a pond of carp. The fish swam languidly in the sunlit water, their skins like rich brocade. Deep down in their secret world they moved as if oblivious of the life above. Cynthia stared down at the sinuous circling bodies, and remembered a recent visit to the beach and the blissful freedom of her bare limbs as she swam in the warm ocean. Already, the garden was full of smartly dressed Europeans who stepped back respectfully as the scientist passed. All the women wore elaborate hats; a sea of tulle and silk flowers appeared to swirl through the garden. Cynthia stared down again into the water and wished she were a fish. Already, Becky walked purposely ahead with Mei Lan, her *amah* following closely behind, and Cynthia knew she would make no further effort to tolerate her or Beng Neo. She waited by the pond until Beng Neo caught up, and took her hand in encouragement as they trailed behind Becky, acutely aware of their miserable status. Beng Neo’s attendance at school was irregular. Her mother frequently forbade her to go if the work at home was too much. Beng Neo had nine living brothers, although once there had been thirteen. As the eldest child and the only girl, it was her duty, she said, to look after her brothers. The only reason she was allowed in school was to keep an eye on smaller siblings.
 
-‘I am only a girl,’ she insisted, hanging her head in wretchedness when teachers questioned her absence. During her days of nonattendance Beng Neo was always to be seen hovering about the school gate, one small brother strapped to her back with a winding cloth, another sucking his thumb and clasping her hand. She would ask everyone what work they had done that day. No one else was so bitten with learning.
+“I am only a girl,” she insisted, hanging her head in wretchedness when teachers questioned her absence. During her days of nonattendance Beng Neo was always to be seen hovering about the school gate, one small brother strapped to her back with a winding cloth, another sucking his thumb and clasping her hand. She would ask everyone what work they had done that day. No one else was so bitten with learning.
 
 Tables were set up in the garden with snacks of the different ethnic communities, as well as tea stalls with cakes, sandwiches and lemonade. At times it seemed more people were clustered about the tables than about the famous scientist. Few of the guests knew much about the life work of the scientist. They knew only that the small man in a crumpled suit, his tie off centre, a button now hanging loose on his waistcoat, was a world famous celebrity, and few European celebrities ventured as far from home as Singapore.
 
 Because of the interest in the food tables the crowd about Mr Einstein had thinned. Only those who were truly interested in science had forgone their tea. In the heat Mr Einstein’s smile had taken on a fixed appearance and he mopped his brow with a handkerchief. Beside him now Sir Manasseh frowned disapprovingly as he listened to one of the uniformed watchmen who had hurried up to him, and was pointing repeatedly towards the gate.
 
-A thin bespectacled Indian waited anxiously there, his eyes fixed upon the scientist. At an exasperated nod from Sir Manasseh, the Indian was finally allowed to enter the garden and approach Mr Einstein. He moved forward self-consciously, a strange unkempt figure amongst the smart Europeans. His shabby jacket was tight at the shoulders and short in the sleeves, and incongruously worn over a muslin dhoti and open sandals. People turned to watch the dark skinned intruder, who walked as if he feared his left foot might entangle with his right and bring him down shamefully before the assembly.
+A thin bespectacled Indian waited anxiously there, his eyes fixed upon the scientist. At an exasperated nod from Sir Manasseh, the Indian was finally allowed to enter the garden and approach Mr Einstein. He moved forward self-consciously, a strange unkempt figure amongst the smart Europeans. His shabby jacket was tight at the shoulders and short in the sleeves, and incongruously worn over a muslin *dhoti* and open sandals. People turned to watch the dark skinned intruder, who walked as if he feared his left foot might entangle with his right and bring him down shamefully before the assembly.
 
 When finally he stood before Mr Einstein, speech seemed to dry on his tongue. He hesitated and then unexpectedly prostrated himself at the scientist’s feet, his hands gripping Mr Einstein’s stout shoes. The knot of interested spectators about Mr Einstein gave a shocked gasp, the scientist stooped down in embarrassment, insisting the Indian get back on his feet. Upright once more, the man grasped Mr Einstein’s hands in his own and shook them ceaselessly. A ripple of disapproval passed through the crowd.
 
