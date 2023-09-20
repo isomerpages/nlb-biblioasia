@@ -107,7 +107,7 @@ How does the 19th-century pioneering translation impact us today? It is importan
 
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/JohnGospel/image_monument.jpg">
-<div style="background-color: white;">The monument in memory of the first Bible translation and the three Japanese seamen, Otokichi, Kyukichi and Iwakichi. (Source: Sachiko Tanaka).</div>
+<div style="background-color: white;">The monument in memory of the first Japanese translation of the Bible and the three Japanese seamen, Otokichi, Kyukichi and Iwakichi. (Source: Sachiko Tanaka).</div>
 
 On 6 October 2011, 120 people gathered for the 50th Memorial Service commemorating the founding of the Stone Monument (on which the names of Otokichi, Kyukichi and Iwakichi are carved) for the first Japanese translation of the Bible. The monument stands by the beach, facing west towards Ise Bay and the Pacific Ocean. Around the time of the commemoration, a copy of the reprint was sent to the National Library Board, Singapore, to be deposited for posterity.
 
