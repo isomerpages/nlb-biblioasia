@@ -13,6 +13,12 @@ This library will be home to an outstanding Asian and Southeast Asian collection
 
 Finally, we would like to encourage you to continue learning and exploring, for Knowledge ignites Imagination, and with imagination, we create endless Possibility.
 
-<b>N Varaprasad (Dr)</b><br>  Chief Executive<br>  National Library Board, Singapore
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/varaprasad.jpg">
+<center><b>N Varaprasad (Dr)</b><br>  Chief Executive<br>  National Library Board, Singapore.</center></div> 
+
+
 
 
