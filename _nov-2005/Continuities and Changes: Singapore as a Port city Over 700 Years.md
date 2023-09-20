@@ -54,6 +54,8 @@ This is due, almost entirely, to the similarities in the external circumstances 
 
 In the process, Singapore has changed the concept of “hinterland” to complement the unique characteristics of its ports - from that of a geographical land mass providing the urban centre and maritime gateway to the external world with natural resources that may be demanded by external markets, to a virtual economic hinterland based on market access for the procurement of raw materials and the export of value-added products. Particularly in the present-day context, Singapore as a port is no longer merely an outlet of a larger economic entity, as it was between the late 19th and mid-20th centuries, but a port-city that is integrated into, and dependent upon, the economic nexus of the regional and international economic world.
 
-
+<div>
+<center><b>Derek Heng</b><br>Asst. Professor<br> History Department<br> National University of Singapore</center>
+</div>
 
 
