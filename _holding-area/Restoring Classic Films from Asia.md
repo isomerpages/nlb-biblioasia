@@ -115,7 +115,6 @@ In mid-2019, L’Immagine Ritrovata was appointed to restore the film. The labor
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_bef0_image%206.png)
 <div style="background-color: white;"> Image comparisons showing the before-and-after restoration of <i>Bambaru Avith</i>. <i>Courtesy of Asian Film Archive.</i></div>
 
-
 Since there were no other film elements and good image information for comparison, automatic digital restoration tools could not be utilised. This meant that each frame had to be manually processed to remove dust and scratches. Additionally, each image had to be stabilised, de-flickered and colour-corrected. Audio restorers also had to eliminate and reduce clicks, crackles and bumps within the soundtrack to smoothen excessive noise and balance the overall tone. The restoration of the film took almost an entire year.
 
 As part of the AFA’s preservation workflow, the raw and restored digital scans, a new 35 mm picture and sound negatives as well as a new positive print of the restored version of _Bambaru Avith_ were produced. The film was selected for the Classics section at the 73rd Cannes Film Festival in 2020, a testament to the masterpiece waiting to be rediscovered, made possible through the successful restoration of the film.[^14]
