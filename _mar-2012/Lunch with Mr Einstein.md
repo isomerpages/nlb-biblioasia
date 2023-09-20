@@ -1,10 +1,10 @@
 ---
 title: Lunch with Mr Einstein
 permalink: /vol-7/issue-4/mar-2012/einstein-lunch/
-description: "Author Meira Chand shares this unpublished chapter of her book, A
-  Different Sky. "
+description: Author Meira Chand shares this unpublished chapter of her book, A
+  Different Sky.
 ---
-#### Author _Meira Chand_ shares this unpublished chapter of her book, _A Different Sky_.
+#### Originally in a very early draft of *A Different Sky*, this unpublished chapter was excised as the writer decided to start the book in 1927 instead of 1922, which is the date Einstein visited Singapore. The novel covers the 30 years before Singapore achieved full independence. Beginning in the island’s first communist riot in 1927, the novel follows the lives of three families caught up in tumultuous times. The names of the characters are intact and revealed here is a childhood glimpse of Mei Lan and Cynthia from *A Different Sky*.
 
 
 <img style="width: 650px; height: 400px;" src="/images/Vol%207%20issue%204/EinsteinLunch/cups3.jpg">
@@ -14,39 +14,41 @@ description: "Author Meira Chand shares this unpublished chapter of her book, A
 
 The main thing to remember, Becky Cohen whispered, was that Mr Einstein had fiddled with time. He had reinvented it, slowing it down, speeding it up, even making it turn corners. The children were crouched behind the banisters at the top of the stairs, peering down into the room below where the great man was at lunch. Ceiling fans turned lazily above the guests, all there to meet Mr Einstein. Beyond the open windows a view of lush Singapore greenery was seen.
 
-‘How can time turn corners?’ Cynthia asked, perplexed.
+“How can time turn corners?” Cynthia asked, perplexed.
 
-‘My father says Mr Einstein thinks the past, the future and the present are like a lot of roads all running together.’ Becky turned to give Cynthia a withering look. Cynthia bit her lip, she had not wanted to come to Becky’s house, but her mother insisted an invitation from the Cohens’ should not be refused.
+“My father says Mr Einstein thinks the past, the future and the present are like a lot of roads all running together.” Becky turned to give Cynthia a withering look. Cynthia bit her lip, she had not wanted to come to Becky’s house, but her mother insisted an invitation from the Cohens’ should not be refused.
 
-‘They are so rich they have electricity and toilets flushed by water,’ her mother said. Cynthia knew she had only been invited as a token Eurasian. Becky’s guest list had originally included representatives from all Singapore’s ethnic communities, but in the end only three girls came to meet Mr Einstein: Cynthia, Beng Neo and Mei Lan.
+“They are so rich they have electricity and toilets flushed by water,” her mother said. Cynthia knew she had only been invited as a token Eurasian. Becky’s guest list had originally included representatives from all Singapore’s ethnic communities, but in the end only three girls came to meet Mr Einstein: Cynthia, Beng Neo and Mei Lan.
+
+#### Becky’s guest list had originally included representatives from all Singapore’s ethnic communities, but in the end only three girls came to meet Mr Einstein: Cynthia, Beng Neo and Mei Lan.
 
 A table had been set up on a landing where the girls had eaten a light lunch. The clink of crystal and cutlery and the hum of adult conversation rose up to them from below. At one point they had been taken down to meet Mr Einstein, and said the things they had been instructed to say. The scientist’s hand was clammy, sweat moistened his cheeks and his tie was knotted off centre. Yet, he bent towards them attentively, shaking their hands, as if they were grown women.
 
-‘Ah,’ he smiled, his words thick with furry accent. ‘Remember, you are modern women, the hope of a new world.’ He did not give the feeling of being famous. His bushy hair stood on end, and bristles pushed out of his ears.
+“Ah,” he smiled, his words thick with furry accent. “Remember, you are modern women, the hope of a new world.” He did not give the feeling of being famous. His bushy hair stood on end, and bristles pushed out of his ears.
 
-‘My father says he is the most important man in the world today. You are lucky I chose you to meet him,’ Becky informed them archly, when they returned to the landing.
+“My father says he is the most important man in the world today. You are lucky I chose you to meet him,” Becky informed them archly, when they returned to the landing.
 
 Beng Neo had been late, and before she arrived Becky told them she had only invited the girl because her mother said her friends should not all be rich. Mr Cohen, who prided himself on his liberal views about racial mixing and had a circle of cosmopolitan friends, had suggested his daughter invite some classmates from school to meet the scientist. Even if they were only ten years old and did not understand the importance of Mr Einstein, later in life they could say that they had met him. Becky fixed her gaze upon Cynthia.
 
-‘Papa says I must be kind to all communities and classes. You Eurasians look like Indians, except for your funny light eyes?’ Becky commented. Cynthia could find no answer, and hung her head in shame.
+“Papa says I must be kind to all communities and classes. You Eurasians look like Indians, except for your funny light eyes?” Becky commented. Cynthia could find no answer, and hung her head in shame.
 
-‘What about me?’ Mei Lan asked with a secret smile. Her tone implied it must be awful to be as poor and pitied as Beng Neo, whose school fees were paid by the Salvation Army, or patronised like Eurasian Cynthia, whose blood was such a cocktail of parts she had no people to call her own. She knew Becky would not dare to speak with such insolence to someone whose house had seventeen windows on the road facing side. Her grandfather was the famous Kapitan China, Lim Hock An, with whom, even if he were a Chinese, the Governor sometimes conferred.
+“What about me?” Mei Lan asked with a secret smile. Her tone implied it must be awful to be as poor and pitied as Beng Neo, whose school fees were paid by the Salvation Army, or patronised like Eurasian Cynthia, whose blood was such a cocktail of parts she had no people to call her own. She knew Becky would not dare to speak with such insolence to someone whose house had seventeen windows on the road facing side. Her grandfather was the famous Kapitan China, Lim Hock An, with whom, even if he were a Chinese, the Governor sometimes conferred.
 
-‘Why sitting in sun? Wanting skin like dried fruit, lah? Like me, lah?’ Ah Siew roused from a doze. The sun fell through the open window, heating up in a fiery patch on the landing. The amah pulled a bamboo chick over the window, and then padded across the floor to crouch down beside her charge. From there she smiled reassuringly at Cynthia, lips open upon her protruding teeth. Mei Lan never went anywhere without Ah Siew who had reared her from the day she was born. It was said that when she first started school, Ah Siew had sat in the classroom with Mei Lan until her fear of the place abated.
+“Why sitting in sun? Wanting skin like dried fruit, *lah*? Like me, *lah*?” Ah Siew roused from a doze. The sun fell through the open window, heating up in a fiery patch on the landing. The *amah* pulled a bamboo chick over the window, and then padded across the floor to crouch down beside her charge. From there she smiled reassuringly at Cynthia, lips open upon her protruding teeth. Mei Lan never went anywhere without Ah Siew who had reared her from the day she was born. It was said that when she first started school, Ah Siew had sat in the classroom with Mei Lan until her fear of the place abated.
 
 Outside the window a black myna bird perched in a frangipani tree, yellow beak and legs bright against the white blossoms. The sky above was blue. The world seemed as always, and the tick of the grandfather clock on the landing told Cynthia time moved just as before, in spite of Mr Einstein. She peered down again at the assembly below. The scientist was an insignificant man with a thick moustache and wild grey hair. He had already spilt soup on his tie and dabbed at it with a napkin dipped in a glass of water. He seemed out of place in his crumpled linen suit amongst the smartly dressed people about the table, heaped with crystal, flowers and silverware. There was a look of bemusement on his face.
 
-‘Why is he here in Singapore?’ Cynthia managed to ask. Mei Lan and Becky seldom spoke to her in school, preferring to mix with their own kind. The strangeness of being so close to them now weighed upon Cynthia. Words formed on her tongue with difficulty; her dress appeared faded and she saw now the ribbing of her socks did not match.
+“Why is he here in Singapore?” Cynthia managed to ask. Mei Lan and Becky seldom spoke to her in school, preferring to mix with their own kind. The strangeness of being so close to them now weighed upon Cynthia. Words formed on her tongue with difficulty; her dress appeared faded and she saw now the ribbing of her socks did not match.
 
-‘He has come to get money to build a Hebrew university in Jerusalem,’ Becky replied, turning upon her in annoyance.
+“He has come to get money to build a Hebrew university in Jerusalem,” Becky replied, turning upon her in annoyance.
 
 After lunch they would all proceed to the great house of Sir Manasseh Meyer, doyen of the Jewish community, who was giving a reception for Mr Einstein. All the best people in Singapore had been invited.
 
-‘Two hundred or more,’ Becky confirmed as they continued to press their faces to the banisters, observing the party downstairs. ‘But Papa says, the hoi polloi will not be there.’
+“Two hundred or more,” Becky confirmed as they continued to press their faces to the banisters, observing the party downstairs. “But Papa says, the *hoi polloi* will not be there.”
 
 Cynthia looked at Becky in alarm, afraid to ask the meaning of this strange word. Becky spoke like an adult. She knew words nobody else understood and used them at school to impress the teachers. Below them it appeared Mr Einstein was about to give a speech; he pushed back his chair and rose to his feet. As his English was poor the scientist was in need of an interpreter, and Mr Cohen had undertaken this task. His deep baritone echoed behind the words of the scientist whose voice was as uncontrollable as his hair, plunging up or down, sometimes trailing off in mid-sentence as if he found himself on a cliff edge.
 
-‘I can still remember the deep impression the magnetic compass made upon me. I was four years old, ill in bed, and my father brought this novelty to me for distraction. Here was a needle, isolated and unreachable, totally enclosed, yet caught in the grip of an invisible power that made it strive determinedly towards the north…’
+“I can still remember the deep impression the magnetic compass made upon me. I was four years old, ill in bed, and my father brought this novelty to me for distraction. Here was a needle, isolated and unreachable, totally enclosed, yet caught in the grip of an invisible power that made it strive determinedly towards the north…”
 
 Cynthia saw the compass in her mind, the needle like a man lost in a dark forest of tall trees, with only courage to guide him on the journey ahead. The image lay inside her, like something important she had learned. Yet, downstairs, the guests nodded politely as the scientist spoke, expressions bland, and resumed their conversations the moment Mr Einstein sat down.
 
