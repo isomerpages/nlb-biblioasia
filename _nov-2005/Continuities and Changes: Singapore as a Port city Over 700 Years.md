@@ -19,6 +19,16 @@ Singapore’s port functions were two-fold. Firstly, by making available several
 
 Secondly, it established itself as the gateway into the international and regional economic system for its immediate peripheral region. The immediate region, particularly South Johor and the Riau Archipelago, was a catchment area for Singapore’s export products. In return, Singapore was the key source of foreign products to this region. Singapore was at the apex of this relationship, exerting a significant economic influence over the immediate region. This is substantiated by archaeological artifacts such as ceramics and glassware recovered from the Riau Archipelago.
 
+During this period, Singapore played only a minor role as a transshipment hub in international trade. Only one transshipment product was known to have been made available for export by Singapore – cotton – which could have originated either from Java or India.
+
+By the 15th century, Singapore had declined as an international trading port in the face of the ascendance of the Malacca Sultanate. However, evidence revealed that international trade continued to be conducted on the island. A map of Singapore, drawn by the Portuguese Mathematician Manuel Godinho d’Eredia, shows the location of a sharbandar’s office (the office of the Malay official responsible for international trade). Shards of Thai ceramics of the 15th century, and late 16th or early 17th century Chinese blue and white porcelain shards, were also recovered at the Singapore River and Kallang River.
+
+Besides trading internationally, Singapore also provided other ports in the region with indigenous products that were demanded by the international markets. Blackwood (a generic term used by Europeans to indicate rosewood timber) was exported by Singapore to Malacca, which was in turn purchased by Chinese traders and shipped to China for use by the furniture-making industry.
+
+Pre-1819 Singapore’s role as an international trading port, which lasted for more than three hundred years since the late 13th century, came to an abrupt end in the early 17th century, when the island’s main settlement and its port was destroyed by a punitive force from Aceh. There after, Singapore was devoid of any significant settlement or port until 1819, when Sir Thomas Stamford Raffles founded Singapore and reestablished an international port on the island.
+
+
+
 
 
 
