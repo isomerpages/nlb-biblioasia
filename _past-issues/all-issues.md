@@ -4,9 +4,6 @@ permalink: /all-issues/
 breadcrumb: Overview
 collection_name: past-issues
 ---
-Note: When accessing older issues, you may be directed to an archived version.
-
-
 #### Volume 19
 
 |                                                              |                                                              |

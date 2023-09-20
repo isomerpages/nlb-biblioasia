@@ -1,13 +1,15 @@
 ---
 title: Restoring Classic Films from Asia
 permalink: /holding-area/permalink/test-2/
-description: ""
+description: Besides restoring made-in-Singapore films, the Asian Film Archive
+  is also involved in the preservation of other seminal Asian works.
+image: /images/Vol 19 Issue 4/2 Restoring Classic Films/b81_19_0_images 1.png
 ---
 #### Besides restoring made-in-Singapore films, the Asian Film Archive is also involved in the preservation of other seminal Asian works. 
 By Chew Tee Pao
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_19_0_images%201.png)
-<div style="background-color: white;">Still from <i>Mike De Leon’s Batch ’81</i>. The film was made more than three decades ago during martial law of the Philippines (23 September 1972 – 25 February 1986), a time of great political unrest and turmoil. The original film premiered at the 1982 Cannes Film Festival during the Directors' Fortnight. <i>Courtesy of MVP Pictures.</i> </div>
+<div style="background-color: white;">Still from Mike De Leon’s <i>Batch ’81</i>. The film was made more than three decades ago during martial law of the Philippines (23 September 1972 – 25 February 1986), a time of great political unrest and turmoil. The original film premiered at the 1982 Cannes Film Festival during the Directors' Fortnight. <i>Courtesy of MVP Pictures.</i> </div>
 
 Since it was established about two decades ago, the Asian Film Archive (AFA) has restored many films connected to Singapore. These include classic titles from the golden age of Malay cinema such as K.M. Basker’s _Patah Hati_ (1952) and Hussein Haniff’s _Dang Anom_ (1962) to more recent Singapore movies like _Mee Pok Man_ (1995) and _Money No Enough_ (1998). However, as the name of the organisation implies, the AFA has also been active in restoring films from around the region. In 2005, when the archive was founded, director Mike De Leon became the first Filipino filmmaker to donate his works to the AFA for preservation.
 
@@ -22,9 +24,6 @@ Both films were produced by LVN Pictures, one of the biggest film studios of Phi
 
 Considering and navigating the legal and copyright issues are essential in preparing for any film restoration. With the approval and support from the film’s executive producer Marichu Vera-Perez Maceda in 2016, the AFA assessed and determined the urgency to digitise and restore De Leon’s 1982 critically acclaimed _Alpha Kappa Omega Batch ’81_ (also known as _Batch ’81_ or _ΑΚΩ 81_).
 
-![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/book-cover_image%204.png)
-<div style="background-color: white;"> Launched in conjunction with the film’s restoration, the Asian Film Archive published <i>Batch ’81: The Making of a Mike De Leon Film</i> to document the making of the film. Written by Jerome Gomez, the book is available to order at the archive’s online shop. <i>Image reproduced from Jerome Gomez, Batch ’81: The Making of a Mike De Leon Film (Singapore: Asian Film Archive, 2017). (From PublicationSG). </i></div>
-
 Produced at a time of great political unrest and turmoil during the period of martial law in the Philippines (1972–86) under then President Ferdinand Marcos, the psychological film chronicles fraternity Alpha Kappa Omega’s brutal initiation of new members as seen through the eyes of university student Sid Lucero. The film has been often referred to as one of the greatest Filipino films of all time and a metaphor for the Philippines under the Marcos regime.[^1]
 
 Using the original camera and sound negatives and a surviving positive print that had been preserved by the AFA since 2005, the film became the archive’s first restoration of a Filipino title. The original camera and sound negatives of _Batch ’81_ exhibited critical signs of “vinegar syndrome”, where films become brittle, shrink and emit an acidic odour. It had developed haloes and mould, with major green-hued defects on the emulsion. As a result, parts of the picture negative were unusable and the laboratory – L’Immagine Ritrovata in Bologna, Italy – overseeing the restoration had to integrate shots from the positive print during the process of digital restoration.
@@ -35,10 +34,14 @@ In September 2017, the restored _Batch ’81_ premiered at the Venice Classics s
 
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_bef_03_0_image%205.png)
+<br>
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/b81_aft_03_0_image%202.png)
-<div style="background-color: white;">Image comparisons showing the before-and-after restoration of <i>Batch ’81_. _Courtesy of Asian Film Archive.</i> </div>
+<div style="background-color: white;">Image comparisons showing the before-and-after restoration of <i>Batch ’81</i>. <i>Courtesy of Asian Film Archive.</i> </div>
 
 Launched in conjunction with the film’s restoration, the AFA published _Batch ’81: The Making of a Mike De Leon Film_ to document the history behind the making of the film.[^4] The publication was made possible with De Leon’s collection of related materials such as photographs and memorabilia, recollections from the director, his creative team, and the actors who played both pivotal and minor roles in the film.
+
+![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/book-cover_image%204.png)
+<div style="background-color: white;"> Launched in conjunction with the film’s restoration, the Asian Film Archive published <i>Batch ’81: The Making of a Mike De Leon Film</i> to document the making of the film. Written by Jerome Gomez, the book is available to order at the archive’s online shop. <i>Image reproduced from Jerome Gomez, Batch ’81: The Making of a Mike De Leon Film (Singapore: Asian Film Archive, 2017). (From PublicationSG). </i></div>
 
 
 #### **Garin Nugroho’s Surat Untuk Bidadari**
@@ -98,6 +101,7 @@ Nearly two decades before Garin Nugroho began his film career in Indonesia, ther
 The AFA’s first encounter with the works of Pathiraja was serendipitous. In 2017, the AFA was alerted to the existence of the 35 mm reels of three films: _Ponmani_ (_Younger Sister_, 1977), _Bambaru Avith_ (_The Wasps Are Here_, 1978) and _Soldadu Unnahe_ (_Old Soldier_, 1981) that were found languishing below a stairwell of a local institution, which had collected the films years ago but was unable to care for them. These films, which have severely deteriorated, turned out to be among Pathiraja’s seminal works as these are among the filmmaker’s earliest films that were screened and won awards outside of Sri Lanka.[^13]
 
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_aft_image%203.png)
+<br>
 ![](/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/clip10_bef0_image%206.png)
 <div style="background-color: white;"> Image comparisons showing the before-and-after restoration of <i>Bambaru Avith</i>. <i>Courtesy of Asian Film Archive.</i></div>
 
@@ -136,30 +140,30 @@ With film restoration being an expensive and laborious process, there may not al
 	
 #### **Notes** 
 
-[^1]: “[Batch ’81 (1982)](https://www.asianfilmarchive.org/event-calendar/batch-81-1982/),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/batch-81-1982/.
+[^1]: “Batch ’81 (1982),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/batch-81-1982/.
  
-[^2]: “[Restored ‘Batch ’81’ to Close This Year’s QCinema Festival](https://interaksyon.philstar.com/entertainment/2017/10/05/101766/restored-batch-81-to-close-this-years-qcinema-festival/),” Interaksyon, 5 October 2017, https://interaksyon.philstar.com/entertainment/2017/10/05/101766/restored-batch-81-to-close-this-years-qcinema-festival/.
+[^2]: “Restored ‘Batch ’81’ to Close This Year’s QCinema Festival,” Interaksyon, 5 October 2017, https://interaksyon.philstar.com/entertainment/2017/10/05/101766/restored-batch-81-to-close-this-years-qcinema-festival/.
  
-[^3]: “[Asian Restored Classics (2018)](https://asianfilmarchive.org/event-calendar/asian-restored-classics-2018/),” Asian Film Archive, last accessed 25 August 2023, https://asianfilmarchive.org/event-calendar/asian-restored-classics-2018/.
+[^3]: “Asian Restored Classics (2018),” Asian Film Archive, last accessed 25 August 2023, https://asianfilmarchive.org/event-calendar/asian-restored-classics-2018/.
  
-[^4]: Jerome Gomez, _Batch ’81: The Making of a Mike De Leon Film_ (Singapore: Asian Film Archive, 2017). (From PublicationSG)
+[^4]: Jerome Gomez, _[Batch ’81: The Making of a Mike De Leon Film](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204258903)_ (Singapore: Asian Film Archive, 2017). (From PublicationSG)
  
-[^5]: For the restoration process, see Chew Tee Pao, “Money No Enough, Passion Needed Too:&nbsp; Restoring Classic Singaporean Films,” _BiblioAsia_ 19, no. 2 (July–September 2023): 20–27.
+[^5]: For the restoration process, see Chew Tee Pao, “[Money No Enough, Passion Needed Too: &nbsp;Restoring Classic Singaporean Films](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/),” _BiblioAsia_ 19, no. 2 (July–September 2023): 20–27.
 
-[^6]: “[Letter to an Angel (Surat Untuk Bidadari) (1994)](https://www.asianfilmarchive.org/event-calendar/letter-to-an-angel-1994/),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/letter-to-an-angel-1994/.
+[^6]: “Letter to an Angel (Surat Untuk Bidadari) (1994),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/letter-to-an-angel-1994/.
 
 [^7]: “Letter to an Angel (Surat Untuk Bidadari) (1994).”
 
-[^8]: Liz Shackleton, “[Mouly Surya on Cannes title ‘Marlina the Murderer in Four Acts’](https://www.screendaily.com/features/mouly-surya-on-cannes-title-marlina-the-murderer-in-four-acts/5118425.article),” Screen Daily, 24 May 2017, https://www.screendaily.com/features/mouly-surya-on-cannes-title-marlina-the-murderer-in-four-acts/5118425.article.
+[^8]: Liz Shackleton, “Mouly Surya on Cannes title ‘Marlina the Murderer in Four Acts’,” Screen Daily, 24 May 2017, https://www.screendaily.com/features/mouly-surya-on-cannes-title-marlina-the-murderer-in-four-acts/5118425.article.
 
-[^9]: Thomas Barker, _Indonesian Cinema After the New Order: Going Mainstream_ (Hong Kong: Hong Kong University Press, 2019), 39, 41. (From National Library, Singapore, call no. RSEA 792.4309598 BAR)
+[^9]: Thomas Barker, _[Indonesian Cinema After the New Order: Going Mainstream](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204003730)_ (Hong Kong: Hong Kong University Press, 2019), 39, 41. (From National Library, Singapore, call no. RSEA 792.4309598 BAR)
 
 [^10]: Garin Nugroho, email correspondence, 23 July 2019.
 
-[^11]: Barker, _Indonesian Cinema After the New Order: Going Mainstream_, 41.
+[^11]: Barker, _[Indonesian Cinema After the New Order: Going Mainstream](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=204003730)_, 41.
 
 [^12]: Garin Nugroho, post-screening discussion, 8 September 2019.
 
-[^13]: Chew Tee Pao, “[Restoring _Bambaru Avith_ (The Wasps Are Here)](https://asianfilmarchive.org/restoring-bambaru-avith-the-wasps-are-here/),” Asian Film Archive, 16 June 2021, https://asianfilmarchive.org/restoring-bambaru-avith-the-wasps-are-here/.
+[^13]: Chew Tee Pao, “Restoring _Bambaru Avith_ (The Wasps Are Here),” Asian Film Archive, 16 June 2021, https://asianfilmarchive.org/restoring-bambaru-avith-the-wasps-are-here/.
 
-[^14]: Susitha Fernando, “[‘Bambaru Avith’ in Cannes Classics](https://www.sundaytimes.lk/200802/magazine/bambaru-avith-in-cannes-classics-410914.html),” _The Sunday Times_, 2 August 2020, https://www.sundaytimes.lk/200802/magazine/bambaru-avith-in-cannes-classics-410914.html.
+[^14]: Susitha Fernando, “‘Bambaru Avith’ in Cannes Classics,” _The Sunday Times_, 2 August 2020, https://www.sundaytimes.lk/200802/magazine/bambaru-avith-in-cannes-classics-410914.html.

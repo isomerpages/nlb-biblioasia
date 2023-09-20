@@ -9,6 +9,9 @@ description: Before the first-ever night-time Formula 1 Grand Prix held in
 
 Common myth has it that before the Sepang Formula 1 Grand Prix in Malaysia, there was nothing in Southeast Asia to call a proper race. The roulette player had the Macau casino, Suzie Wong was the girl in the next bar and A-go-go was the rage in music. Southeast Asia offered lovely sunsets, *stengahs* and last vestiges of colonial rule. Behind the corrugated iron though, there existed a whole different world of CastroI R mixed with acetone, color and noise, snakes and devils, and racing.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/orient%20year%20grand%20prix.jpg" style="width:50%;">
+ <div style="background-color: white;">Orient Year Grand Prix programme cover. <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 Motor racing in Singapore took off in a big way with the first Grand Prix in 1961. It was called the Orient Year Grand Prix and was held for the first time on a designated stretch of Upper Thomson Road. In 1962, the race was renamed the Malaysian Grand Prix and the Malaysian race called the Selangor Grand Prix (back when Singapore was part of Malaysia). When Singapore gained independence in 1965, the country ran its own Grand Prix in 1966 while Malaysian held two, one timed around the Singapore Grand Prix in March/April and another in September. They were known as the Malaysian Grand Prix and the Selangor Grand Prix respectively. With the onset of the European winter, and if budget permitted, the racing season in Asia would begin at Macau, move to Australia and New Zealand with the Tasman Series, and return to Southeast Asia with back-to-back Grand Prix races in Singapore, Johore, Selangor and Penang, followed by Japan.
 
 #### **The Malaysian Grand Prix (Singapore 1961 to 1965)**
@@ -60,32 +63,63 @@ Vern Schuppan and John Macdonald both loved it. Never one to mince his words, Ma
 
 Singapore's first International Grand Prix of 1966 saw Lee Han Seng back in the Lotus 22, Rodney Seow in an ex-1962 works Formula Junior Merlyn Mk7 fitted with a Cosworth 1500cc pushrod and four fuel tanks and a shark nose, and Hong Kong-based John MacDonald in the ex-Hegbourne Cooper-Ford Formula Junior (Cooper-Ford Mk3AI. Favourite to win was Australian Greg Cusack in a Brabham BT6 FJr (ex HenkWoelders Formula Junior chassis FJ-15-631 but the locals were ahead of the game with larger tanks for the 60-lap race, something Cusack had not prepared for.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/cooper%20ford.jpg" style="width:80%;">
+ <div style="background-color: white;">Cooper Ford Mk3 Formula Junior of John Macdonald, Macau 1966. The seat was the whole fuel tank (hence the driving position). His earlier Lotus 18 Formula Junior was less than competitive and "I had to move forwards, through the Cooper was a rash move...". <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 Lee Han Seng won the main event in record time with Rodney Seow's Merlyn Mk7 second and Tony Goodwin's Lotus 20B third. Cusack set lap record but on lap 42, his Brabham spun into the embankment and was damaged. A total of eight track marshals aided Cusack in extricating the car out of the ditch at Long Loop and he managed to struggle on. Another competitor commented that Cusack "had turned up and just made a mince meat of absolutely everything, then lost it in the biggest way and went home."
 
-<img src="/images/vol-1-issue-2/SnakesDevils/presentation2.jpg" style="width:80%;">
+<img src="/images/vol-1-issue-2/SnakesDevils/presentation2.jpg" style="width:100%;">
  <div style="background-color: white;">(Left) Rodney Seow after his success in the Singapore Grand Prix of 1967 in the Merlyn Mk10. <br> (Right) Rodney Seow in the Elva Mk7S being chased by Team Hong Kong's Steve Holland in the Lotus 47 at Range.  Singapore Grand Prix 1968. <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
 
 The main Grand Prix event had graduated beyond Formula Junior and in 1967 Rodney Seow won in his new Merlyn Mk10 with a Cosworth 1600Twin Cam. Seow also made his mark by winning the Sports and GT race with an Elva BMW-Nerus (ex-Lanfranchi Goodwood lap record car).
 
+<img src="/images/vol-1-issue-2/SnakesDevils/merlyn%20mk10.jpg" style="width:80%;">
+ <div style="background-color: white;">Rodney Seow's Merlyn Mk10 with BTBA Climax of Alan Grice in the background. Rodney Seow in Merlyn Mk10, practice Singapore Grand Prix 1968. The Merlyn abandoned after practice in favor of his ex-Mike Knight Brabham Formula Junior instead. <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 It was not until 1968 that Australian manufacturers started to venture to the Far East. Garrie Cooper of Elfin Cars won the 1968 Singapore Grand Prix in his Elfin-Ford 600C with a FordTwin Cam. "Nobody had ever heard of Elfins; said Frank Matich. "I remember ... his mechanics sent Ron Tauranac a telegram of the result. Ron sent a telegram back which read: "What's an Elfin?"They sent another telegram saying: "A quick pixie".
+
+<img src="/images/vol-1-issue-2/SnakesDevils/kiwi%20lawrence.jpg" style="width:50%;">
+ <div style="background-color: white;">Kiwi Graeme Lawrence enjoying a moment with PH Wong <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
 
 Garrie had also suggested that the Singapore Grand Prix be confined to Formula Junior and racing cars only. In addition, he proposed having qualifying times to limit the number of entrants and reduce the number of laps in the race from 60 to 50 laps. This suggestion was taken into consideration in the coming years but with a slight twist - two heats of 20 and 40 laps over different days.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/john%20macdonald.jpg" style="width:80%;">
+ <div style="background-color: white;">John Macdonald in the Brabham BT10, Singapore Grand Prix 1970. Mcdonald finished second in the Grand Prix.  The ex-Costin and Meek B10 has sprouted a full complement of wings for this event. "They didn't work very effectively because in Singapore I took them all off and ran without wings in practice." <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 Competitors were also beginning to find that import regulations for Asia somewhat cumbersome. That there had to be a prescribed number stamped on the chassis of race cars to be allowed into Singapore and Malaysia complicated matters by encouraging competitors to repeatedly use the same chassis numbers for races in subsequent years despite having different cars.
+
+<img src="/images/vol-1-issue-2/SnakesDevils/bob%20birell.jpg" style="width:80%;">
+ <div style="background-color: white;">Bob Birrell approaches Range Hairpin in his Hawke DL2A Formula Ford with the Coldwell Gt of S Y Tam trailing.  Birrell was also the Hawke importer into Singapore.  <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
 
 Local racers were increasingly sidelined by foreign competitors and the sponsorship they received from airlines and tobacco firms. 1967 would be the last year a local competitor would win the Grand Prix event. In 1969, Graeme lawrence won in his Mclaren M4A FVA amid some very powerful machinery on the grid. Garrie Cooper raced his BOAC Elfin 600C with a 2.5-litre Repco VB that the locals thought was a Formula 1 car, Roly Levis in his Brabham BT23C FVA, and John Macdonald in what was called a "new' Brabham BT10 FVA (which he raced in Macau later that year). "New to everyone but built in 1964", according to Macdonald, the BT10 was the ex-Mike Costin car that was used for the development of the Cosworth FVA engine.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/kinoshita%20formula.jpg" style="width:80%;">
+ <div style="background-color: white;">Kinoshita's Formula Honda called a KY Special (a Brabham BT18 with an 850cc Honda engine) after an altercation with Kiwi Kon Smith's Lotus 89. Smith tangles with Kinoshita's KY Special at Snakes on lap 32, sending the latter off to hospital with bruising. <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 The Singapore Grand Prix marked its 10th anniversary in 1970 that saw a new sort of competitor - one that was starting to travel from farther afield - race series such as the L&amp;M F5000 and the Can-Am in North America. Frank Matich arrived in Rothmans Team livery with his Mclaren M10Traco Chevy 4992cc F5000 car that had recently won the New Zealand Grand Prix and still was not competitive enough to make an impact or settle a score with Graeme lawrence over the Tasman Cup. The Alec Mildren juggernaut consisted of Kevin "Big Rev" Bartlett in the Yeliow Submarine Mildren with an Alfa VB (2.5-litre 1969 Macau winning car), Max Stewart with the 2-litre Rennmax-Mildren Waggott, and Malcolm Ramsay now with the ex-Gerrie Cooper Repco VB Elfin 600. Mildren was there to supervise, as was Merv Waggot, designer of the Waggott engine. Not to be outdone, Hong Kong's Albert Poon had the ex-Piers Courage BT30 1,500cc FVA. While Matich wrecked his M10 in practice doing 160mph on the Thomson Straight, Lawrence went on to take his first win in Singapore in the ex-Amon Ferrari Dino 246T.
+
+<img src="/images/vol-1-issue-2/SnakesDevils/macdonald%20brabham.jpg" style="width:80%;">
+ <div style="background-color: white;">Mcdonald's Brabham BT10 leading Viscount Errington's #27 Elva Mk 7s. Behind the Elva is the D O'Sullivan't Matich SR3.  <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
 
 Lawrence made it two out of two the following year with his Brabham BT29 FVC against formidable competition in the form of the Rennmax-WaggottTwin Cam, a couple of Elfin 600s, a Brabham BT21 and a Lotus 69 (run by Ken Smith). The big change from 1970 was that the single-seaters had to follow Australian F2/Formula B rules with maximum capacity of 1600cc, and no four-valve FVAs or BDAs were permitted. This allowed Bob Birrell to run a Hawke DL2A Formula Ford that Birrell described as "understeered like a pig on wet grass, never using the same bit of grass twice". The car finished seventh and Birrell was the first Singapore resident to finish.
 
 With the new rules set, single-seater racing became the domain of the professional and semi-professional racer with sponsorship backing. Max Stewart arrived in the Mildren-Waggott in 1972 with the intention of selling the car after the event. For Stewart, it would be the first time he had finished a race in Asia and this would be his third try in Singapore. Winning the event and breaking Graeme Lawrence's domination was very sweet indeed even though Lawrence had not attended the event because of a 155mph crash he had at the New Zealand Grand Prix at Pukekohe earlier.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/sonny%20rajah.jpg" style="width:100%;">
+ <div style="background-color: white;">Sonny Rajah in the Team Rothmans ex-Ronnie Peterson March 712-M (converted to 732) in 1972. Sonny went on to finish fourth in the race. <i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 There was a good cast for 1972 with likes of Kevin Bartlett, Max Stewart, Vern Schuppan and an underrated John Macdonald who had the ex-Graham Hill Brabham BT36-2 with a Rondel nose. There was also Sonny Rajah who "had struck up a partnership with the ex-Ronnie Peterson March 712-M" that he had recently acquired. Sonny was the local hero and looked the part with his long hair and Zapata moustache. To gain admittance into a country where long hair was associated with drugs, he had resorted to using a short-hair wig! A fellow competitor once remarked that " ... he had brilliant car control but someone ... had to take him in handl Natural talent (and character to boot) ... I followed Sonny for the first few laps of a Macau race and remember ... that he made contact with much of Macau's scenery; that's a very difficult act of itself."
 
 Singapore's last Grand Prix was held in 1973 and was won by Vern Schuppan in a March-Ford 722. Schuppan vividly remembers the monsoon drains on the circuit. "lt was a fast flowing circuit - a lovely race track. No one talked about lack of run off area because we were so young then." Of Schuppan, John Macdonald said "Vern, of course, got to the top but probably never reached the absolute top because he's too darned straightforward, nice, honest, and all those other good things that come up all too rarely." The March 722 was the same one Schuppan had driven in 1972 but with up-to-date modifications.
 
+<img src="/images/vol-1-issue-2/SnakesDevils/brabham%20bt40.jpg" style="width:80%;">
+ <div style="background-color: white;">Consummate professional John Macdonald with his Cathay Pacific sponsored Brabham BT40, with profession tennis player John Cooper and golfer Graham Marsh to the right.
+<i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
+
 Cathay Pacific-backed John Macdonald was another favorite and had a brand new Brabham BT40 delivered to him in Singapore ahead of the race. Macdonald called the BT40 a "magic car with a big BUT". The team had a terrible time of it with fuel pick-up problems. A letter to Bernie Ecclestone (who by that time owned Brabham) resulted in a PR reply to say how he was behind them all the way! Once sorted, the car was a profilic winner in Asia.
+
+<img src="/images/vol-1-issue-2/SnakesDevils/1973%20grand%20prix.jpg" style="width:50%;">
+ <div style="background-color: white;">1973 Singapore Grand Prix programme cover - the final Grand Prix in Singapore.<i>Photographs by John Macdonald; LTC Ret. Bob Birrell, Rodney Seow; Stanley Leong; R.M. Arblaster.</i></div>
 
 In the race, Vern Schuppan was leading Malcolm when Ramsey's Birrana at one point when the March kicked up some rocks resulting in a punctured fuel tank for the Birrana. Angus Lamont, who assisted John MacDonald, remembers this incident (Ramsey) very soldiered well" .... on and until Malcolm the pain of the petrol burning [him] forced him to retire".  In reference to how lightweight the Birrana was built, Macdonald said that" ... the car was full of holes ... it was as if somebody had leveled a sub-machine gun against it." Fittingly, Leo Geoghegan's Birrana 273–007, the works car, set the final lap record for the circuit.
 
