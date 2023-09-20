@@ -1,4 +1,5 @@
 collections:
   nov-2005:
     output: true
-    order: []
+    order:
+      - Chief Executive’s Message.md
