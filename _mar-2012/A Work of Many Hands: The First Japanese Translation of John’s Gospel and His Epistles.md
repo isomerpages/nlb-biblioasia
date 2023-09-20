@@ -7,10 +7,10 @@ description: The first Japanese translation of John’s Gospel and His Epistles
   Sachiko Tanaka and Senior Associate Irene Lim trace the path it took for this
   book to be produced.
 ---
-#### The first Japanese translation of&nbsp;_John’s Gospel and His Epistles_&nbsp;was printed at a small printing press in 1837 in Singapore.&nbsp;_Professor Emeritus Sachiko Tanaka_&nbsp;and Senior Associate&nbsp;_Irene Lim_&nbsp;trace the path it took for this book to be produced.
+#### The first Japanese translation *John’s Gospel and His Epistles* was printed at a small printing press in 1837 in Singapore. Professor Emeritus Sachiko Tanaka and Senior Associate Irene Lim trace the path it took for this book to be produced.
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/JohnGospel/The%20Gospel.jpg">
- <div style="background-color: white;">The first Japanese translation of ‘The Gospel According To John’ by Dr Karl Gützlaff. (Source: The Japan Bible Society).</div>
+ <div style="background-color: white;">The first Japanese translation of *The Gospel According to John* by Dr Karl Gützlaff. (Source: The Japan Bible Society).</div>
 
 
 The essay begins in 19th century Japan where a Japanese crew that had set sail for Edo (now known as Tokyo) got shipwrecked and three surviving sailors finally washed-up in America. The following section details how the earnest efforts of American and English missionaries to repatriate the sailors were met with resolute hostility from a Japan which practised a closed-door policy, forcing them to live estranged in a country and culture vastly different from theirs. Meanwhile in Macao (now known as Macau, the ex-Portuguese colony near Hong Kong), the Japanese worked with a German missionary in his ambitious attempt to translate John’s Gospel and his Epistles into Japanese. To print the manuscript posed another challenge, for the printing capabilities of missionary societies were in their nascent stage in the first half of the 19th century (Proudfoot, 1994, p. 9).
