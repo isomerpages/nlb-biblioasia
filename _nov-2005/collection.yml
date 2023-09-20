@@ -2,5 +2,6 @@ collections:
   nov-2005:
     output: true
     order:
+      - "Continuities and Changes: Singapore as a Port city Over 700 Years.md"
       - Chief Executive’s Message.md
       - Director's Column.md
