@@ -6,6 +6,9 @@ description: Strategically situated at the southern tip of the Malay Peninsula,
 ---
 #### Strategically situated at the southern tip of the Malay Peninsula, Singapore’s history as a port city stretches back to the 13th century.
 
+<img src="/images/vol-1-issue-1/ContinuitiesChanges/01%20portpaper%20-%20early1.jpg" style="width:50%;">
+ <div style="background-color: white;">For further reading on Singapore before 1819,<i>  Early Singapore 1300s–1819</i>  is an excellent source of material. All Rights Reserved, Singapore History Museum, 2004.</div>
+
 Situated at the southern tip of the Malay Peninsula, the waters around Singapore have, as early as the 14th century AD, been recognised by maritime navigators as strategic in international navigation, marking the access point between the South China Sea and the Indian Ocean. The key factor that underpinned this strategic significance was the development of a direct Indian Ocean-South China Sea trade, linking the economies of the West, the Indian Ocean littoral and the South China Sea.
 
 Less known, however, is Singapore’s long historical legacy as a port. Although the history of Singapore in the 19th and 20th centuries, first as a colonial port-city and then as an independent state that has managed to maintain its position as one of the busiest ports in the world, is well represented by a significant amount of literature, its historical legacy as a port prior to the 19th century has not been sufficiently explored.
@@ -74,4 +77,3 @@ Reprints from the MBRAS by Braddell on Malaya’s early maritime histories. The 
 
 Sinnappah Arasaratnam, _[Pre-Modern Commerce and Society in Southern Asia: An Inaugural Lecture Delivered at the University of Malaya on December 21, 1971](https://eservice.nlb.gov.sg/item_holding.aspx?bid=378592)_ (Kuala Lumpur: University of Malaya, 1972. (Call no. RSEA 382.095 ARA)  
 A slim volume based on the inaugural lecture at the University. It reviews trade between South and Southeast Asia between the 17th and 18th century and its relation with incoming European trade.
-
