@@ -22,20 +22,20 @@ The Yeo brothers: (from left) Teck Hock, Teck Kee, Teck Joon and Teck Chye.</div
 First, let me explain the title I have chosen for my memoir, *Routes*. I am told the American pronunciation is “routs”, but obviously that is not what I have in mind. I wanted a pun that suggests “roots”, a reference first of all to Alex Haley’s 1976 groundbreaking book *Roots: The Saga of an American Family*.[^1] In that book, Haley goes back to his family’s early roots in Africa and discusses how the first ancestor was transported to America to work as a slave. The book focused on “roots” to mean “origins”, reinforced greatly by the television series that followed the publication of the book. Yes, I am interested in my roots in that sense, and it shows in my accounts of the lives of my parents and grandparents.
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/WritingMemoir/marriage%20certificate.jpg">
-<div style="background-color: white;">My parents’ marriage certificates in Chinese, with signatures in English.</div>
+<div style="background-color: white;">My parents’ marriage certificate in Chinese, with signatures in English.</div>
 
 
-At the same time, I am keen to use the title Routes to refer to the physical journeys that my grandparents made. My reading of history tells me that the ancestors of the Chinese in Southeast Asian countries came mostly from South China, namely the provinces of Fujian, Guangdong and Guangzhou.
+At the same time, I am keen to use the title *Routes* to refer to the physical journeys that my grandparents made. My reading of history tells me that the ancestors of the Chinese in Southeast Asian countries came mostly from southern China, namely the provinces of Fujian, Guangdong and Guangzhou.
 
-Whether the migrants came overland or by sea, some had to choose their routes while others had their routes chosen for them. From villages and ports in China in the 19th and early part of the 20th centuries, they left for Southeast Asia: Vietnam, Laos, Burma, Thailand, Malaya, Singapore, Indonesia, Borneo and the Philippines. In the case of my paternal grandparents, their route took them from South China to Sarawak and then to Singapore. For my maternal grandparents, they left South China for Malacca and then eventually settled in Singapore.
+Whether the migrants came overland or by sea, some had to choose their routes, while others had their routes chosen for them. From villages and ports in China in the 19th and early part of the 20th centuries, they left for Southeast Asia: Vietnam, Laos, Burma, Thailand, Malaya, Singapore, Indonesia, Borneo and the Philippines. In the case of my paternal grandparents, their route took them from southern China to Sarawak and then to Singapore. For my maternal grandparents, they left southern China for Melaka and then eventually settled in Singapore.
 
-My grandparents’ journeys suggest a third meaning to “routes”: “Choice”. Did the migrant have a choice as to where he/she would go after leaving South China? Going southeast would have brought them anywhere, to Vietnam, Thailand, Malaya or Singapore, and so on. Was he/she pushed by domestic factors like poverty or war? Or did the allure of a new life outside China beckon?
+My grandparents’ journeys suggest a third meaning to “routes”: choice. Did the migrant have a choice as to where he/she would go after leaving southern China? Going southeast would have brought them anywhere, to Vietnam, Thailand, Malaya or Singapore, and so on. Was he/she pushed by domestic factors like poverty or war? Or did the allure of a new life outside China beckon?
 
 #### **Doing It Differently**
 
-Because an autobiography traditionally starts with the author reminiscing about his/her life starting from birth, the first constraint is the adherence to sequence; he/she must observe chronology in the storytelling. He/she is acutely aware that he/ she is writing about the past in “recall” mode. This is a challenge as we all know that we have selective memories.
+Because an autobiography traditionally starts with the author reminiscing about his/her life starting from birth, the first constraint is the adherence to sequence; he/she must observe chronology in the storytelling. He/she is acutely aware that he/she is writing about the past in “recall” mode. This is a challenge as we all know that we have a selective memory.
 
-Following a chronological method may be a less-than-exciting necessity but it enables me to grasp time. I do acknowledge that I live in the present as much as I do in the past. Quite often, they are in fluid fusion or collision. So, as art organises the chaos of my life, I have tried to artfully organise my memoir in the form of a ripple. Herein lies the difference between my memoir and most of the rest: While being linear, I can, at the same time, be circular. Whilst interrogating the past, I am still able to confront the present.
+Following a chronological method may be a less-than-exciting necessity, but it enables me to grasp time. I do acknowledge that I live in the present as much as I do in the past. Quite often, they are in fluid fusion or collision. So, as art organises the chaos of my life, I have tried to artfully organise my memoir in the form of a ripple. Herein lies the difference between my memoir and most of the rest: While being linear, I can, at the same time, be circular. Whilst interrogating the past, I am still able to confront the present.
 
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/WritingMemoir/Vernon.jpg">
@@ -93,6 +93,3 @@ Robert Yeo</b><br> Poet and Playwright.</div></center>
 [^2]: Mahatir Mohamad, *The Malay Dilemma* (Singapore: Asia Pacific Press, 1970)
 
 [^3]: E. M. Forster, *Howards End* (London: Edward Arnold, 1910)
-
-
-
