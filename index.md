@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/hero_img_grand chappell piano.jpg
   - infopic:
+      title: Restoring Classic Films from Asia
+      subtitle: Film and Photography
+      id: infopic
+      description: Besides restoring made-in-Singapore films, the Asian Film Archive
+        is also involved in the preservation of other seminal Asian works.
+      button: SAVING ASIAN CLASSICS
+      url: /vol-19/issue-4/jan-mar-2024/restoring-asian-films/
+      alt: Image alt text
+      image: /images/Vol 19 Issue 4/2 Restoring Classic Films/letter_04_image 7.png
+  - infopic:
       title: The Curious Visit of Qing Ambassadors to Singapore
       subtitle: People
       id: infopic
@@ -747,14 +757,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: Restoring Classic Films from Asia
-      subtitle: Film and Photography
-      id: infopic
-      description: Besides restoring made-in-Singapore films, the Asian Film Archive
-        is also involved in the preservation of other seminal Asian works.
-      button: SAVING ASIAN CLASSICS
-      url: /vol-19/issue-4/jan-mar-2024/restoring-asian-films/
-      alt: Image alt text
-      image: /images/Vol 19 Issue 4/2 Restoring Classic Films/letter_04_image 7.png
 ---
