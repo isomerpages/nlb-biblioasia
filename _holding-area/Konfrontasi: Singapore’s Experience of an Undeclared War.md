@@ -62,6 +62,9 @@ The bombing of MacDonald House, however, was the deadliest and most well-known a
 
 ![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/straitstimes_19650311_img%203.png)
 <div style="background-color: white;">Damage to Housing and Development Board flats after a bomb explosion at Jalan Rebong on 12 April 1964. <i>Ministry of Culture Collection, courtesy of National Archives of Singapore.</i> </div>
+<br>
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/img052_img%204.png)
+<div style="background-color: white;">Damage to Housing and Development Board flats after a bomb explosion at Jalan Rebong on 12 April 1964. <i>Ministry of Culture Collection, courtesy of National Archives of Singapore.</i> </div>
 
 Two Indonesian commandos, Osman Haji Mohamed Ali, 25, and Harun Said, 21, were arrested and charged in court. They were sentenced to death on 20 October 1965, and their execution by hanging on 17 October 1968 would cast a pall over relations between Singapore and Indonesia in the years to come.[^24]
 
