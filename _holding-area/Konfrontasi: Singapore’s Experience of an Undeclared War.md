@@ -118,9 +118,10 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 ![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/picture%201_img%207.png)
 <div style="background-color: white;">A memorial to the victims of Konfrontasi was unveiled on 10 March 2015, on the 50th anniversary of the bombing of MacDonald House. The memorial is at Dhoby Ghaut Green, which faces MacDonald House. <i>Photo by Jimmy Yap</i> </div>
 
+
 <div style="background-color: white;">
 <br>
-
+<br>
 <b>Alvin Tan</b> is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow,</i> 2nd edition (Talisman Publishing, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
 
 
