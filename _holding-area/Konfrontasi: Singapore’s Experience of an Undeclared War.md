@@ -133,11 +133,11 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^3]: “[Soekarno’s 3-pronged Offensive – by the Tengku](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631212-1.2.85),” _Straits Times_, 12 December 1963, 12; “[Hunt for Mysterious Bomber Continues](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631213-1.2.48),” _Straits Times_, 13 December 1963, 11; “[Police Combing Sennett Estate for Bomb Man](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631215-1.2.20.12),” _Straits Times_, 15 December 1963, 3. (From NewspaperSG)
 
-[^4]: “Two on Bombing Charge,” _Straits Times_, 12 May 1964, 4. (From NewspaperSG)
+[^4]: “[Two on Bombing Charge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640512-1.2.21),” _Straits Times_, 12 May 1964, 4. (From NewspaperSG)
 
-[^5]: T.F. Hwang and Yeo Toon Joo, “Court Is Told of Four on a Bombing Mission,” _Straits Times_, 16 April 1964, 1. (From NewspaperSG)
+[^5]: T.F. Hwang and Yeo Toon Joo, “[Court Is Told of Four on a Bombing Mission](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640416-1.2.9),” _Straits Times_, 16 April 1964, 1. (From NewspaperSG)
 
-[^6]: Hwang and Yeo, “Court Is Told of Four on a Bombing Mission”; Felix Abisheganaden, “‘Assassinate the Tengku’ Order,” _Straits Times_, 23 April 1964, 1. (From NewspaperSG)
+[^6]: Hwang and Yeo, “[Court Is Told of Four on a Bombing Mission](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640416-1.2.9)”; Felix Abisheganaden, “‘Assassinate the Tengku’ Order,” _Straits Times_, 23 April 1964, 1. (From NewspaperSG)
 
 [^7]: Abdul Fazil, “Hunt for Bomber.”
 
