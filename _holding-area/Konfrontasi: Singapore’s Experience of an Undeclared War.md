@@ -169,56 +169,54 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^21]: “Attempt to Blow Up Merdeka Bridge,” _Straits Times_, 24 May 1964, 2; “Sabotage Bid on Bridge,” _Straits Budget_, 29 July 1964, 13. (From NewspaperSG)
 
-[^22]:
+[^22]: “MacDonald House,” National Heritage Board, last accessed 20 May 2023, https://www.roots.gov.sg/places/places-landing/Places/national-monuments/macdonald-house; National Library Board, “Macdonald House Bombing Occurs,” in _HistorySG_. National Library Board Singapore. Article published 2014; Mohamed Effendy Abdul Hamid and Kartini Saparudin, “MacDonald House Bomb Explosion,” in _Singapore Infopedia_. National Library Board Singapore. Article published 7 August 2014.
 
-[^22]:
+[^23]: Jackie Sam, et al., “Terror Bomb Kills 2 Girls at Bank,” _Straits Times_, 11 March 1965, 1. (From NewspaperSG)
 
-[^23]:
+[^24]: “Death for Indon Bombers,” _Straits Times_, 21 October 1965, 11; “S’pore Govt Gives Reasons for ‘No’ to Pleas for Mercy,” _Straits Times_, 18 October 1968, 14; “Singapore Embassy in Jakarta Sacked,” _Straits Times_, 18 October 1968, 1. (From NewspaperSG)
 
-[^24]:
+[^25]: Harold James and Denis Sheil-Small, _The Undeclared War: The Story of the Indonesian Confrontation 1962–1966_ (Kuala Lumpur: University of Malaya Co-operative Bookshop Ltd., 1979), 152–53. (From National Library, Singapore, call no. RUR 327.5950598 JAM)
 
-[^25]:
+[^26]: Richard Moore, “Where Her Majesty’s Weapons Were,” _Bulletin of the Atomic Scientists_ 57, no. 1 (15 September 2015), https://journals.sagepub.com/doi/10.2968/057001019.
 
-[^26]:
+[^27]: Peter Hennessy and James Jinks, _The Silent Deep: The Royal Navy Submarine Service Since 1945_, e-book. (London: Penguin, 2015), 553. (From NLB OverDrive)
 
-[^27]:
+[^28]: Hennessy and Jinks, _The Silent Deep_, 553.
 
-[^28]:
+[^29]: Abisheganaden, “‘Assassinate the Tengku’ Order.”
 
-[^29]:
+[^30]: Jaime Koh, “Vigilante Corps,” in _Singapore Infopedia_. From National Library Board Singapore. Article published 29 March 2016. The Vigilante Corps was absorbed into the Special Constabulary on 22 September 2022, marking the end of 55 years of service to the nation. See “SPF’s Vigilante Corps: The End of an Era,” _Frontline_, 12 January 2023, https://www.hometeamns.sg/frontline/spfs-vigilante-corps-the-end-of-an-era/.
 
-[^30]:
+[^31]: “Big Hunt for Killers,” _Straits Times_, 4 March 1965, 1. (From NewspaperSG)
 
-[^31]:
+[^32]: “Soek Loses 10 Men at Kota Tinggi,” _Straits Times_, 9 April 1965, 1; Gabriel Lee, “How Our Boys Routed All the Kota Tinggi Gang,” _Straits Times_, 12 April 1965, 1; “Well Done SIR! Says Tengku,” _Straits Times_, 6 April 1965, 1. (From NewspaperSG)
 
-[^32]:
+[^33]: “Premier Lee Pays Tribute to SIR,” _Straits Times_, 7 May 1965, 9. (From NewspaperSG)
 
-[^33]:
+[^34]: Daniel Wei Boon Chua, “CO15054 | Konfrontasi: Why It Still Matters to Singapore,” S. Rajaratnam School of International Studies, 16 March 2015, https://www.rsis.edu.sg/rsis-publication/idss/co15054-konfrontasi-why-it-still-matters-to-singapore/. Between 1963 and 1964, imports declined by 23 percent while exports declined 31 percent. “Surviving Our Independence,” SG101, last updated 4 September 2023, https://www.sg101.gov.sg/economy/surviving-our-independence/1959-1965/.
 
-[^34]:
+[^35]: Overall, the economic blow dealt by Konfrontasi was not as severe as expected. “Move to Help 8,500 Hit by Trade Boycott,” _Straits Times_, 4 October 1963, 1. (From NewspaperSG). Goh Keng Swee estimated that Indonesians stood to lose $840 million in trade revenue with Singapore alone. Cheng Siok Hwa noted that GDP fell by 4 percent and “a drop of 18% in value added was recorded in the wholesale and retail trade, restaurants and hotels sector, followed by a 6% in transport, storage and communications”. Recovery, however, came in 1965. See Cheng Siok Hwa, “Economic Change in Singapore, 1945–1977,” _Southeast Asian Journal of Social Science_ 7, nos. 1–2 (1979): 92. (From JSTOR via NLB’s eResources website).
 
-[^35]:
+[^36]: “Move to Help 8,500 Hit by Trade Boycott.”
 
-[^36]:
+[^37]: “Move to Help 8,500 Hit by Trade Boycott”; “Economic Defence Ordinance 1963,” Bill 7 of 1963, _Bills Supplements_, Singapore Statutes Online, 6 December 1963, https://sso.agc.gov.sg/Bills-Supp/7-1963/Published/19631206?DocDate=19631206; “Trade Halt Aid to Cost Govt $1m. a Month,” _Straits Times_, 7 December 1963, 4. (From NewspaperSG)
 
-[^37]:
+[^38]: Public Service Division, “Challenge of Confrontation Exhibition,” Government Records, 20 July 1964. (National Archives of Singapore, file no. MC 130/64)
 
-[^38]:
+[^39]: “Captured Indon Arms on Show,” _Straits Times_, 2 October 1964, 4; “Confrontation Show a Big Hit,” _Straits Times_, 3 October 1964, 11; “337,000 Saw This Show,” _Straits Times_, 13 October 1964, 4; “Show Moves On,” _Straits Times_, 25 October 1967, 7. (From NewspaperSG)
 
-[^39]:
+[^40]: “Konfrontasi (Confrontation) Ends,” in _HistorySG_. From National Library Board Singapore. Article published 2014; Ricklefs, _History of Modern Indonesia_, 289.
 
-[^40]:
+[^41]: Ricklefs, _History of Modern Indonesia_, 290.
 
-[^41]:
+[^42]: Jackie Sam, “Indonesia Recognises Singapore,” _Straits Times_, 5 June 1966, 1; “Confrontation Ends,” _Straits Times_, 12 August 1966, 1; “25 Years Ago,” _Straits Times_, 11 August 1991, 22. (From NewspaperSG)
 
-[^42]:
+[^43]: Lee Khoon Choy, _Diplomacy of a Tiny State_, 2nd ed. (Singapore: World Scientific, 1993), 270–71. (From National Library, Singapore, call no. RSING 327.5957 LEE)
 
-[^43]:
+[^44]: “Singapore Urges Jakarta Not to ‘Reopen Old Wounds’,” _Straits Times_, 7 February 2014, 1; “Singapore: Naming Indonesian Warship After Marines Would Open Old Wounds,” _Today_, 7 February 2014, 1. (From NewspaperSG)
 
-[^44]:
+[^45]: Jermyn Chow, “Indonesian Warship Usman Harun Disallowed from Calling at Singapore Ports and Naval Bases,” _Straits Times_, 18 February 2014, https://www.straitstimes.com/singapore/indonesian-warship-usman-harun-disallowed-from-calling-at-singapore-ports-and-naval-bases.
 
-[^45]:
+[^46]: “Singapore Welcomes Indonesia’s Apology Over Naming of Frigate,” _Straits Times_, 16 April 2014, https://www.straitstimes.com/singapore/singapore-welcomes-indonesias-apology-over-naming-of-frigate-0.
 
-[^46]:
-
-[^47]:
+[^47]: Lim Yan Liang, “Memorial to Victims of Konfrontasi Unveiled Near MacDonald House,” _Straits Times_, 10 March 2015, https://www.straitstimes.com/singapore/
