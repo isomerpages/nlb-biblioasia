@@ -6,46 +6,46 @@ description: Reference Librarian Wee Tong Bao sheds light on the life and
   as books, magazines and photographs – donated by his family to the National
   Library Board.
 ---
-#### Reference Librarian _Wee Tong Bao_ sheds light on the life and achievements of plague fighter Dr We Lien-Teh, as well as the materials – such as books, magazines and photographs – donated by his family to the National Library Board.
+#### Reference Librarian Wee Tong Bao sheds light on the life and achievements of plague fighter Dr We Lien-Teh, as well as the materials – such as books, magazines and photographs – donated by his family to the National Library Board.
 
 <img style="width:50%;" src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/book%20cover_plague%20fighter3.jpg">
 <div style="background-color: white;">All rights reserved. W. Heffer, 1959.</div>
 
-
+In November 2010, the family of the late Dr Wu Lien-Teh donated a collection of some 65 items to the National Library of Singapore. They include publications on his life and works as well as some 140 photographs dating back to the early 1910s. The donation also marked the 50th anniversary of Wu’s death; he passed away in 1960 at the age of 81.
 #### **Dr Wu Lien-Teh**
 
 
-Wu was born in Penang in 1879. His birth name was ‘Ng Lean-Tuck’ (伍连德，meaning “five united virtues”, romanised according to its Cantonese pronunciation). His father, Ng KheeHok, was an emigrant from Taishan, Guangzhou (China) and he ran a successful goldsmith business in Penang where he married Lam Choy-Fan in 1857. They had eight children and Wu was the fourth child.
+Wu was born in Penang in 1879. His birth name was Ng Lean-Tuck (伍连德，meaning “five united virtues”; romanised according to its Cantonese pronunciation). His father, Ng Khee Hok, was an emigrant from Taishan, Guangzhou, China, and he ran a successful goldsmith business in Penang where he married Lam Choy-Fan in 1857. They had eight children and Wu was the fourth child.
 
 Wu received his early education at the Penang Free School. In 1896 the young Wu won the only Queen’s Scholarship of that year after a competitive examination for boys in the Straits Settlements.
 
 <img style="width:50%;" src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/Wu.jpg">
-<div style="background-color: white;">Photograph of young Dr Wu Lien-Teh which appears together with a write-up on him in the 1925 publication, Biographies of Prominent Chinese (Shanghai: Biographical Publishing Company Inc, p.157) .</div>
+<div style="background-color: white;">Photograph of young Dr Wu Lien-Teh which appears together with a write-up on him in the 1925 publication, <i>Biographies of Prominent Chinese</i> (Shanghai: Biographical Publishing Company Inc, p. 157) .</div>
 
 The scholarship enabled Wu to be admitted to Emmanuel College, Cambridge University, for medical studies. He was the first Chinese medical student at Cambridge and the second to be admitted to Cambridge, the first being Song Ong Siang.
 
 Wu obtained First Class Honours at Cambridge and received the gold medal for clinical medicine in 1902. He won a travelling scholarship which allowed him to pursue research work in Liverpool, Paris, parts of Germany and the Malay States. During this period, he produced scholarly papers on tetanus, beri-beri, aortic worms and malaria.
 
-At age 24, Wu earned his medical degree and returned to the Straits Settlements in 1903. He joined the newly established Institute for Medical Research in Kuala Lumpur for one year where he conducted research on beri-beri, then a killer disease. Thereafter, he spent the next three years (1904 to 1907) in private practice in Penang. It was also during this time that Wu became occupied with social issues of the day and got passionately involved in social reform work through the influence of another prominent doctor, Dr Lim Boon Keng.
+At age 24, Wu earned his medical degree and returned to the Straits Settlements in 1903. He joined the newly established Institute for Medical Research in Kuala Lumpur for one year where he conducted research on beri-beri, then a killer disease. Thereafter, he spent the next three years (1904–07) in private practice in Penang. It was also during this time that Wu became occupied with the social issues of the day and got passionately involved in social reform work through the influence of another prominent doctor, Dr Lim Boon Keng.
 
-<img style="width:60%;" src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/wulienteh%20&%20limboonkeng.jpg">
+<img style="width:60%;" src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/wulienteh%20&amp;%20limboonkeng.jpg">
  <div style="background-color: white;">Wu with Dr Lim Boon Keng (left). Photograph taken in Amoy, 1936.</div>
 
-Wu was particularly zealous in the campaign against opium addiction. At the age of 25 in 1904, he became the President and Physician-in-Chief of the Penang Anti-Opium Association which he had founded. Through this association, he raised funds to provide free lodging, food, medication and treatment for all addicts who needed help. Two years later in March 1906, Wu organised the first Anti-Opium Conference of the Straits Settlements and the Federated Malay States. The Conference was held in Ipoh and attended by more than 2,000 representatives from various trades and professions.
+Wu was particularly zealous in the campaign against opium addiction. At the age of 25 in 1904, he became the President and Physician-in-Chief of the Penang Anti-Opium Association which he had founded. Through this association, he raised funds to provide free lodging, food, medication and treatment for all addicts who needed help. Two years later in March 1906, Wu organised the first Anti-Opium Conference of the Straits Settlements and the Federated Malay States. The conference was held in Ipoh and attended by more than 2,000 representatives from various trades and professions.
 
-It was also through Lim that Wu met his first wife, Ruth Huang Shu Chiung, the sister of Dr Lim’s wife. Ruth was the second daughter of Wong Nai-Siong, a noted Chinese scholar who played a key role in the establishment of a Foochow settlement in Sarawak. They married in 1905, making Wu and Lim brothersin-law. Wu and Ruth had three sons: Chang-Keng, Chang-Fu and Chang-Ming. Ruth, unfortunately, fell victim to tuberculosis and passed away in 1937. Wu later married Lee Shu-Chen (Marie), with whom he raised three daughters and two sons: YuLin, Yu-Chen, Chang-Sheng, and Chang-Yun and Yu-Chu.
+It was also through Lim that Wu met his first wife, Ruth Huang Shu Chiung, the sister of Dr Lim’s wife. Ruth was the second daughter of Wong Nai-Siong, a noted Chinese scholar who played a key role in the establishment of a Foochow settlement in Sarawak. They married in 1905, making Wu and Lim brothers-in-law. Wu and Ruth had three sons: Chang-Keng, Chang-Fu and Chang-Ming. Ruth, unfortunately, fell victim to tuberculosis and passed away in 1937. Wu later married Lee Shu-Chen (Marie), with whom he raised three daughters and two sons: Yu-Lin, Yu-Chen, Chang-Sheng, and Chang-Yun and Yu-Chu.
 
-In 1908, Wu became the Vice-Director of the Imperial Army Medical College in Tientsin, China at the invitation of Yuan Shih-Kai (who was then the Grand Councillor of China) to train doctors for the Chinese Army. He used the romanised version of his name in Mandarin “Wu Lien-Teh” from then onwards.
+In 1908, Wu became the Vice-Director of the Imperial Army Medical College in Tianjin, China, at the invitation of Yuan Shi-Kai (who was then the Grand Councillor of China) to train doctors for the Chinese Army. He used the romanised version of his name in Mandarin “Wu Lien-Teh” from then onwards.
 
-On 19 December 1910, Foreign Office (China) sent Wu to investigate a mysterious disease that was killing hundreds. A bacteriologist by training, he “naturally jumped at the opportunity, and after two days’ preparation, proceeded to Manchuria with a senior student of (his) from the Army Medical College”.[^1]
+On 19 December 1910, the Foreign Office (China) sent Wu to investigate a mysterious disease that was killing hundreds. A bacteriologist by training, he “naturally jumped at the opportunity, and after two days’ preparation, proceeded to Manchuria with a senior student of [his] from the Army Medical College”.[^1]
 
-In his book A Treatise on *Pneumonic Plague*, Wu recounted how the journey took him three days and nights on the South Manchurian and Chinese Eastern Railways. When he arrived late on Christmas Eve, the temperature was varying between -25 deg C and -35 deg C, “much more severe than anything (he) had known”.[^2]
+In his book *A Treatise on Pneumonic Plague*, Wu recounted how the journey took him three days and nights on the South Manchurian and Chinese Eastern Railways. When he arrived late on Christmas Eve, the temperature was varying between –25 deg C and –35 deg C, “much more severe than anything [he] had known”.[^2]
 
-Early cases of the plague were reported in the first week of November 1910. Initially, only a few victims were identified. However, from the beginning of December, things took a sudden turn for the worse with up to fifteen deaths recorded daily.
+Early cases of the plague were reported in the first week of November 1910. Initially, only a few victims were identified. However, from the beginning of December, things took a sudden turn for the worse with up to 15 deaths recorded daily.
 
-Wu, as the Commander-in-Chief of the anti-plague organisation, had effective control over doctors, police, military and civil officials. To curb the plague from spreading, he sought an Imperial edict to cremate more than 3,000 corpses that had been lying unburied on the frozen ground. In the book Plague Fighter: *The Autobiography of a Modern Chinese Physician*, it was said that “this proved to be the turning point of the epidemic”.[^3]
+Wu, as the Commander-in-Chief of the anti-plague organisation, had effective control over doctors, police, military and civil officials. To curb the plague from spreading, he sought an Imperial edict to cremate more than 3,000 corpses that had been lying unburied on the frozen ground. In the book *Plague Fighter: The Autobiography of a Modern Chinese Physician*, it was said that “this proved to be the turning point of the epidemic”.[^3]
 
-Wu vividly remembered that the cremation took place on 31 January 1911. In his own words, “their (plague corpses) disappearance was in the eyes of the public a greater and more glorious achievement than all our other anti-plague efforts combined. From that day, the death rate steadily declined and the last case was reported on March, 1st.”[^4]
+Wu vividly remembered that the cremation took place on 31 January 1911. In his own words, “their [plague corpses] disappearance was in the eyes of the public a greater and more glorious achievement than all our other anti-plague efforts combined. From that day, the death rate steadily declined and the last case was reported on March, 1st”.[^4]
 
 The eradication of the 1910–1911 plague had a great impact on the medical future of China. In April 1911, soon after the end of the epidemic, China held its first ever international scientific conference in Mukden, Shenyang — the International Plague Conference — which was attended by important scientists from 11 nations. In 1912, the Manchurian Plague Prevention Service was established with Wu as the Director. In 1915, the Chinese Medical Association was founded and four years later, in 1919, the Central Epidemic Bureau was established in Peking.
 
@@ -85,8 +85,8 @@ The donated items in this collection are assigned the location code “RCLOS” 
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/author_Tong%20Bao.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/author_Tong%20Bao.jpg" style="width: 100px; height: 100px;">
 <center><b>Wee Tong Bao</b><br>Reference Librarian<br>NL Heritage<br>National Library Board</center></div>
 
 
@@ -102,11 +102,11 @@ The donated items in this collection are assigned the location code “RCLOS” 
 
 [^5]: Leong, W.K. (2010). [Life and works of a legendary plague fighter](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20101121-1.2.37.3). _The Straits Times_, p. 31. Retrieved from NewspaperSG.
 
-[^6]: Burt, A.R. Powell, J.B., & Crow, C. (Eds.). (1925). [_中__华今代名人传_ _= Biographies of prominent Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13849997). Shanghai: Biographical Publishing Company Inc. (Call no.: RCLOS 951.080922 BIO)
+[^6]: Burt, A.R. Powell, J.B., &amp; Crow, C. (Eds.). (1925). [_中__华今代名人传_ _= Biographies of prominent Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13849997). Shanghai: Biographical Publishing Company Inc. (Call no.: RCLOS 951.080922 BIO)
 
-[^7]: [Burt, Powell & Crow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13849997), 1925, publisher’s note – unpaged.
+[^7]: [Burt, Powell &amp; Crow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13849997), 1925, publisher’s note – unpaged.
 
-[^8]: Teng, A. (2011, October 15). [Long-lost tomb helped her to uncover heritage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111015-2.2.110.2.2.1). _The Straits Times_, p. 8.  Retrieved from NewspaperSG.
+[^8]: Teng, A. (2011, October 15). [Long-lost tomb helped her to uncover heritage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111015-2.2.110.2.2.1). _The Straits Times_, p. 8. &nbsp;Retrieved from NewspaperSG.
 
 [^9]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7496908), 1995, p. 157.
 
@@ -118,16 +118,16 @@ The donated items in this collection are assigned the location code “RCLOS” 
 
 [^13]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13769079), 1926.  
   
-[^14]: Wong, K.C. & Wu, L.T. (1936). [_History of Chinese Medicine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3420968) 《中国医史》. Shanghai: National Quarantine Service. 2nd edition. (Call no.: RCLOS 610.951 WAN)
+[^14]: Wong, K.C. &amp; Wu, L.T. (1936). [_History of Chinese Medicine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3420968) 《中国医史》. Shanghai: National Quarantine Service. 2nd edition. (Call no.: RCLOS 610.951 WAN)
 
 [^15]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13769079), 1926, p. vii.
 
-[^16]: Wu, L.T. (1959). [_Plague fighter: The autobiography of a modern Chinese physician_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3403761). Cambridge: W. Heffer & Sons. (Call no.: RCLOS 926.1 WU)
+[^16]: Wu, L.T. (1959). [_Plague fighter: The autobiography of a modern Chinese physician_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3403761). Cambridge: W. Heffer &amp; Sons. (Call no.: RCLOS 926.1 WU)
 
 [^17]: 伍连德. (1960). 《伍连德自传》. Singapore: Singapore South Seas Society.
 
-[^18]: Huang, S.C.R. (1934). [_Chao Chun: Beauty in exile_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13048944). Shanghai: Kelly & Walsh Limited. (Call no.: RCLOS 828.995103 SHU)
+[^18]: Huang, S.C.R. (1934). [_Chao Chun: Beauty in exile_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13048944). Shanghai: Kelly &amp; Walsh Limited. (Call no.: RCLOS 828.995103 SHU)
 
-[^19]: Huang, S.C.R. (1924). [_Yang Kuei-Fei: The most famous beauty of China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12968932). Shanghai: Kelly & Walsh Limited. (Call no.: RCLOS 920.72 SHU)
+[^19]: Huang, S.C.R. (1924). [_Yang Kuei-Fei: The most famous beauty of China_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12968932). Shanghai: Kelly &amp; Walsh Limited. (Call no.: RCLOS 920.72 SHU)
 
-[^20]: Huang, S.C.R. (1931). [_Hsi Shih: Beauty of beauties: A romance of ancient China about 495–472 B.C_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12428129). Shanghai: Kelly & Walsh Limited. (Call no.: RCLOS 920.72 SHU)
+[^20]: Huang, S.C.R. (1931). [_Hsi Shih: Beauty of beauties: A romance of ancient China about 495–472 B.C_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12428129). Shanghai: Kelly &amp; Walsh Limited. (Call no.: RCLOS 920.72 SHU)
