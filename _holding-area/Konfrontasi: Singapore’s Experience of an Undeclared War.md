@@ -137,11 +137,11 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^5]: T.F. Hwang and Yeo Toon Joo, “[Court Is Told of Four on a Bombing Mission](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640416-1.2.9),” _Straits Times_, 16 April 1964, 1. (From NewspaperSG)
 
-[^6]: Hwang and Yeo, “[Court Is Told of Four on a Bombing Mission](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640416-1.2.9)”; Felix Abisheganaden, “‘Assassinate the Tengku’ Order,” _Straits Times_, 23 April 1964, 1. (From NewspaperSG)
+[^6]: Hwang and Yeo, “[Court Is Told of Four on a Bombing Mission](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640416-1.2.9)”; Felix Abisheganaden, “‘[‘Assassinate the Tengku’ Order](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640423-1.2.2),” _Straits Times_, 23 April 1964, 1. (From NewspaperSG)
 
-[^7]: Abdul Fazil, “Hunt for Bomber.”
+[^7]: Abdul Fazil, “[Hunt for Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631211-1.2.2).”
 
-[^8]: J.A.C. Mackie, _Konfrontasi: The Indonesia-Malaysia Dispute, 1963–1966_ (New York: Published for the Australian Institute of International Affairs by Oxford University Press, 1974), 125. (From National Library, Singapore, call no. RSING 327.5950598 MAC)
+[^8]: J.A.C. Mackie, _[_Konfrontasi: The Indonesia-Malaysia Dispute, 1963–1966_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=266560)_ (New York: Published for the Australian Institute of International Affairs by Oxford University Press, 1974), 125. (From National Library, Singapore, call no. RSING 327.5950598 MAC)
 
 [^9]: The Federation of Malaysia was formed on 16 September 1963, following the merger of the Federation of Malaya, Singapore, North Borneo (Sabah) and Sarawak.
 
