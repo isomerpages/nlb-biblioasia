@@ -153,19 +153,19 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^13]: “Sishi yu yinni tegong luowang qianru jiandie duo bei kou bu jingfang jixu jibu yudang kexia jin sheng yixie canyu fenzi xiaoyaofawai tumoubugui xingdong” [四十餘印尼特工落網潛入間諜多被扣捕警方繼續緝捕餘黨刻下僅剩一些殘餘份子逍遙法外圖謀不軌行動](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19640409-1.2.22.1) \[More than forty Indonesian agents were arrested and infiltrated. Most of the spies were arrested. The police continue to arrest the remaining members of the party. Only a few remnants of the party are still at large and plotting misdeeds\], 南洋商报_Nanyang Siang Pau_, 9 April 1964, 5. (From NewspaperSG); Abisheganaden, “[‘Assassinate the Tengku’ Order](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640423-1.2.2).”
 
-[^14]: Howard Dick, “Review: Britain and the Confrontation with Indonesia, 1960–1966,” _The International History Review_ 28 no. 1 (March 2006): 217. (From JSTOR via NLB’s eResources website)
+[^14]: Howard Dick, “Review: Britain and the Confrontation with Indonesia, 1960–1966,” _The International History Review_ 28 no. 1 (March 2006): 217. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 [^15]: Due to land reclamation and urban redevelopment, Katong Park, which had a bathing _pagar_ (swimming enclosure) when it opened in the 1930s, has since lost its seafront and its size reduced. It was built above the buried remains of Fort Tanjong Katong.
 
-[^16]: “Bomber Sought After Blasts in Park,” _Straits Times_, 27 September 1963, 1; “Where Will Bomber Strike Next?’ Fear,” _Straits Times_, 28 September 1963, 11. (From NewspaperSG)
+[^16]: “[Bomber Sought After Blasts in Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19630927-1.2.4),” _Straits Times_, 27 September 1963, 1; “[Where Will Bomber Strike Next?’ Fear](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19630928-1.2.91),” _Straits Times_, 28 September 1963, 11. (From NewspaperSG)
 
-[^17]: “Bomb Wrecks Car,” _Straits Times_, 7 October 1963, 1; “Mystery Blast Wrecks a Car,” _Straits Times_, 7 October 1963, 20; “Mad Bomber May Be Experimenting,” _Straits Times_, 8 October 1963, 9. (From NewspaperSG)
+[^17]: “[Bomb Wrecks Car](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631007-1.2.2),” _Straits Times_, 7 October 1963, 1; “[Mystery Blast Wrecks a Car](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631007-1.2.112),” _Straits Times_, 7 October 1963, 20; “[Mad Bomber May Be Experimenting](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631008-1.2.87),” _Straits Times_, 8 October 1963, 9. (From NewspaperSG)
 
-[^18]: “Where Will Bomber Strike Next?”; “$3,000 Reward to Catch the Mad Bomber,” _Straits Times_, 23 October 1963, 1. (From NewspaperSG)
+[^18]: “[Where Will Bomber Strike Next?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19630928-1.2.91)”; “[$3,000 Reward to Catch the Mad Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631023-1.2.6),” _Straits Times_, 23 October 1963, 1. (From NewspaperSG)
 
-[^19]: “Hotel Bomb Linked With Other Blasts,” _Straits Times_, 9 March 1964, 5. (From NewspaperSG)
+[^19]: “[Hotel Bomb Linked With Other Blasts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640309-1.2.26),” _Straits Times_, 9 March 1964, 5. (From NewspaperSG)
 
-[^20]: “Record of the Wreckers,” _Straits Times_, 16 May 1965, 16; Abu Fazil and Cheong Yip Seng, “Bomb Kills Two,” _Straits Budget_, 22 April 1964, 8. (From NewspaperSG
+[^20]: “[Record of the Wreckers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650516-1.2.85),” _Straits Times_, 16 May 1965, 16; Abu Fazil and Cheong Yip Seng, “[Bomb Kills Two](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19640422-1.2.25),” _Straits Budget_, 22 April 1964, 8. (From NewspaperSG
 
 [^21]: “Attempt to Blow Up Merdeka Bridge,” _Straits Times_, 24 May 1964, 2; “Sabotage Bid on Bridge,” _Straits Budget_, 29 July 1964, 13. (From NewspaperSG)
 
