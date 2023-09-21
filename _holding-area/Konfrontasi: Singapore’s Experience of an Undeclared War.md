@@ -219,4 +219,4 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^46]: “Singapore Welcomes Indonesia’s Apology Over Naming of Frigate,” _Straits Times_, 16 April 2014, https://www.straitstimes.com/singapore/singapore-welcomes-indonesias-apology-over-naming-of-frigate-0.
 
-[^47]: Lim Yan Liang, “Memorial to Victims of Konfrontasi Unveiled Near MacDonald House,” _Straits Times_, 10 March 2015, https://www.straitstimes.com/singapore/
+[^47]: Lim Yan Liang, “Memorial to Victims of Konfrontasi Unveiled Near MacDonald House,” _Straits Times_, 10 March 2015, https://www.straitstimes.com/singapore/memorial-to-victims-of-konfrontasi-unveiled-near-macdonald-house.
