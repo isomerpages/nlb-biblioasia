@@ -106,15 +106,21 @@ Titled the “Challenge of Confrontation”, the exhibition was opened by Cultur
 
 Sukarno, already discredited by an abortive coup in October 1965, was finally deposed by General Suharto on 11 March 1966.[^40] Under Suharto, Indonesia changed course in its foreign policy and rejoined the United Nations in April 1966. In the following month, Suharto signalled his desire to end Konfrontasi and Adam Malik, the new foreign minister, met Malaysia’s Deputy Prime Minister Tun Abdul Razak on 29 May in Tokyo.[^41] In June 1966, Jakarta recognised Singapore’s independence from Malaysia. On 12 August 1966, Konfrontasi formally ended after Indonesia and Malaysia concluded a peace treaty.[^42]
 
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/img0802_img%206.png)
+<div style="background-color: white;">Men from the 2nd Battalion, Singapore Infantry Regiment, standing guard at their tactical headquarters in Kota Tinggi, Johor, in April 1965 during the follow-up operation to hunt down Indonesian infiltrators. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i> </div>
+
 The peace treaty, however, did not completely reset relations between Singapore and Jakarta. That had to wait until 1973. On 28 May that year, Prime Minister Lee Kuan Yew visited the Kalibata Heroes Cemetery in South Jakarta as part of his trip to Indonesia. With solemn music playing in the background, Lee “was escorted to sprinkle flowers” on the graves of Indonesian generals who had fallen during the 30 September 1965 coup. Twenty metres away were the graves of two Indonesian marines – Osman Haji Mohamed Ali and Harun Said – who were hanged in Singapore on 17 October 1968 for their part in the MacDonald House bombing. Lee then walked over to their graves and “sprinkled flowers on them”. This action, praised by Indonesian newspapers as a “magnanimous gesture”, touched the Indonesian people deeply and turned the final page on an unhappy episode in the history of both countries.[^43]
 
 Or so it was thought. In February 2014, the Indonesian navy announced that it would name its newly acquired second-hand corvette the _KRI Usman Harun_, after the two marines responsible for the MacDonald House bombing.[^44] In response, Singapore barred the warship from calling at Singapore and announced that the Singapore Armed Forces would not carry out military exercises with this ship.[^45] Indonesia’s armed forces commander General Moeldoko later apologised for the naming decision, and Singapore resumed bilateral ties with the Indonesian armed forces.[^46]
 
 On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memorial to the victims of Konfrontasi was unveiled.[^47] Situated at Dhoby Ghaut Green, a slice of quiet amid busy Orchard Road, the memorial is a reminder of a time when Singapore experienced the fear, terror and anguish of being the urban frontline in a low-intensity war marked by uncertainty, anxiety and randomness.
 
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/picture%201_img%207.png)
+<div style="background-color: white;">A memorial to the victims of Konfrontasi was unveiled on 10 March 2015, on the 50th anniversary of the bombing of MacDonald House. The memorial is at Dhoby Ghaut Green, which faces MacDonald House. <i>Photo by Jimmy Yap</i> </div>
+
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/chew%20tee%20pao.png">
+
 <b>Alvin Tan</b> is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow,</i> 2nd edition (Talisman Publishing, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
 
 
