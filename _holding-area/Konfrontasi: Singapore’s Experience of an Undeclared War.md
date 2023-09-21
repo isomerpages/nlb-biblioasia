@@ -169,20 +169,56 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^21]: “Attempt to Blow Up Merdeka Bridge,” _Straits Times_, 24 May 1964, 2; “Sabotage Bid on Bridge,” _Straits Budget_, 29 July 1964, 13. (From NewspaperSG)
 
-[^21]:
+[^22]:
 
-[^21]:
+[^22]:
 
-[^21]:
+[^23]:
 
-[^21]:
+[^24]:
 
-[^21]:
+[^25]:
 
-[^21]:
+[^26]:
 
-[^21]:
+[^27]:
 
-[^21]:
+[^28]:
 
-[^21]:
+[^29]:
+
+[^30]:
+
+[^31]:
+
+[^32]:
+
+[^33]:
+
+[^34]:
+
+[^35]:
+
+[^36]:
+
+[^37]:
+
+[^38]:
+
+[^39]:
+
+[^40]:
+
+[^41]:
+
+[^42]:
+
+[^43]:
+
+[^44]:
+
+[^45]:
+
+[^46]:
+
+[^47]:
