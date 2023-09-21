@@ -127,7 +127,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 #### **Notes** 
 
-[^1]: Abdul Fazil, “Hunt for Bomber,” _Straits Times_, 11 December 1963, 1. (From NewspaperSG)
+[^1]: Abdul Fazil, “[Hunt for Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631211-1.2.2),” _Straits Times_, 11 December 1963, 1. (From NewspaperSG)
 
 [^2]: Abdul Fazil, “Hunt for Bomber.”
 
