@@ -47,47 +47,44 @@ Wu, as the Commander-in-Chief of the anti-plague organisation, had effective con
 
 Wu vividly remembered that the cremation took place on 31 January 1911. In his own words, “their [plague corpses] disappearance was in the eyes of the public a greater and more glorious achievement than all our other anti-plague efforts combined. From that day, the death rate steadily declined and the last case was reported on March, 1st”.[^4]
 
-The eradication of the 1910–1911 plague had a great impact on the medical future of China. In April 1911, soon after the end of the epidemic, China held its first ever international scientific conference in Mukden, Shenyang — the International Plague Conference — which was attended by important scientists from 11 nations. In 1912, the Manchurian Plague Prevention Service was established with Wu as the Director. In 1915, the Chinese Medical Association was founded and four years later, in 1919, the Central Epidemic Bureau was established in Peking.
+The eradication of the 1910–11 plague had a great impact on the medical future of China. In April 1911, soon after the end of the epidemic, China held its first-ever international scientific conference in Mukden, Shenyang – the International Plague Conference – which was attended by important scientists from 11 nations. In 1912, the Manchurian Plague Prevention Service was established with Wu as the director. In 1915, the Chinese Medical Association was founded, and four years later, in 1919, the Central Epidemic Bureau was established in Peking.
 
-Besides quashing the 1910–1911 plague, Wu also contributed to the control of the cholera epidemic in Harbin which broke out in 1919 and a second pneumonic plague that occurred in North Manchuria and East Siberia in 1920–1921.
+Besides quashing the 1910–11 plague, Wu also contributed to the control of the cholera epidemic in Harbin which broke out in 1919 and a second pneumonic plague that occurred in North Manchuria and East Siberia in 1920–21.
 
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/second%20pneumonic%20plague1.jpg">
- <div style="background-color: white;">A second pneumonic plague struck North Manchuria and East Siberia, 1920-21. Wu was appointed Supreme Chief of anti-plague operations by the GovernorGeneral of Manchuria. Photograph shows Wu (man on extreme right with no headgear) with some of his staff in Harbin, 1921.</div>
+ <div style="background-color: white;">A second pneumonic plague struck North Manchuria and East Siberia, 1920–21. Wu was appointed Supreme Chief of anti-plague operations by the Governor-General of Manchuria. Photograph shows Wu (extreme right, without headgear) with some of his staff in Harbin, 1921.</div>
 
-Wu’s illustrious medical career in China spanned almost three decades. During this period, he represented the Chinese Government at various international conferences, both within and outside China. He also contributed much to the modernisation of China’s medical services, improvements in medical education and development of quarantine control. In 1937, when Japan invaded China, Wu returned to Malaya and remained there until he passed away on 21 January 1960.
+Wu’s illustrious medical career in China spanned almost three decades. During this period, he represented the Chinese government at various international conferences, both within and outside China. He also contributed much to the modernisation of China’s medical services, improvements in medical education and development of quarantine control. In 1937, when Japan invaded China, Wu returned to Malaya and remained there until he passed away on 21 January 1960.
 
 #### **The Wu Lien-Teh Collection**
 
-Although Wu spent 23 years in Malaya since his return from China, his contributions to the development of health sciences in China were not forgotten. He received publications and articles reporting on his deeds over the years and his family continued to get these materials after he passed away. In 2010, the family decided to donate some of these materials, including Wu’s own works, to the National Library of Singapore.[^5]
-
-
-
+Although Wu spent 23 years in Malaya since his return from China, his contributions to the development of health sciences in China were not forgotten. He received publications and articles reporting on his deeds over the years and his family continued to get these materials after he passed away. In 2010, the family decided to donate some of these materials, including Wu’s own works, to the National Library, Singapore.[^5]
 
 <img style="width:80%;" src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/Presentation2.jpg">
- <div style="background-color: white;">Wu’s personal seal ---- “伍连德印“.</div>
+ <div style="background-color: white;">Wu’s personal seal: “伍连德印“.</div>
 
-In all, about 65 publications were donated by Wu’s family. They include books, souvenir magazines, periodicals and photographs. One of the earliest publications in this donation is *Biographies of Prominent Chinese*.[^6] This book, measuring 24 x 37 cm, contains 200 pages and was compiled as a result of a “growing demand for a more intimate understanding of those Chinese who contributed to the development and progress of the Chinese Republic”.[^7] This book was mentioned by *The Straits Times* on 15 October 2011, with the reporter writing that to-date, only two known copies exist.[^8] The page that introduces Wu was reproduced in a biography by his daughter, Dr Wu Yu-Lin’s *Memories of Dr Wu Lien-Teh: Plague Fighter*.[^9]
+In all, about 65 publications were donated by Wu’s family. They include books, souvenir magazines, periodicals and photographs. One of the earliest publications in this donation is *Biographies of Prominent Chinese*.[^6] This book, measuring 24 x 37 cm, contains 200 pages and was compiled as a result of a “growing demand for a more intimate understanding of those Chinese who contributed to the development and progress of the Chinese Republic”.[^7] This book was mentioned by the *Straits Times* on 15 October 2011, with the reporter writing that to-date, only two known copies exist.[^8] The page that introduces Wu was reproduced in a biography by his daughter, Dr Wu Yu-Lin’s *Memories of Dr Wu Lien-Teh: Plague Fighter*.[^9]
 
-There are more recent works among the donated items that honour Wu: a 1996 issue of London publication *British Medical Journal* that ran an announcement about the new book *Dr Wu LienTeh: The Plague Fighter*[^10] and the 2006 souvenir magazine of Harbin Medical University that acknowledged his contributions.[^11] In 2007, preparations began for a television series in Harbin to mark the 130th anniversary of his birth.[^12]
+There are more recent works among the donated items that honour Wu: a 1996 issue of London’s *British Medical Journal* that ran an announcement about the new book, *Dr Wu Lien-Teh: The Plague Fighter*,[^10] and the 2006 souvenir magazine of Harbin Medical University that acknowledged his contributions.[^11] In 2007, preparations began for a television series in Harbin to mark the 130th anniversary of his birth.[^12]
 
-In this donation, there are also a small number of works by Wu himself. His writings often entailed years of thorough research and are still hailed as significant works in their respective fields today. Two works worth highlighting are *League of Nations, Health Organisation: A Treatise on Pneumonic Plague*[^13] and *History of Chinese Medicine* 《中国医史》co-authored with Wong, K. C.[^14] The first title is a firsthand account of Wu’s battle against the 1910–1911 Manchuria plague. In the preface, he called the book “a labour of love”.[^15] The book contains in-depth research of the history, epidemiology, pathology, clinical features, infectivity, immunity and other aspects of the pneumonic plague. It took him 17 years to prepare this publication and it was duly endorsed by the United Nations.
+In this donation, there are also a small number of works by Wu himself. His writings often entailed years of thorough research and are still hailed as significant works in their respective fields today. Two works worth highlighting are *League of Nations, Health Organisation: A Treatise on Pneumonic Plague*[^13] and *History of Chinese Medicine* 《中国医史》co-authored with Wong K.C.[^14] The first title is a firsthand account of Wu’s battle against the 1910–11 Manchuria plague. In the preface, he called the book “a labour of love”.[^15] The book contains in-depth research of the history, epidemiology, pathology, clinical features, infectivity, immunity and other aspects of the pneumonic plague. It took him 17 years to prepare this publication and it was duly endorsed by the United Nations.
 
-The second title was a mammoth effort in recording the history of Chinese medicine from its early beginnings — 2690 to 1122 B.C. — till the introduction of western medicine. Wu started conceptualising this book 15 years before it was published in 1932. This epic account took two dedicated writers — Wu and Wong K. C. — to complete. The title filled a gap at that time and just four years after it was published, a second edition was released in 1936.
+The second title was a mammoth effort in recording the history of Chinese medicine from its early beginnings – 2690 to 1122 BCE – till the introduction of western medicine. Wu started conceptualising this book 15 years before it was published in 1932. This epic account took two dedicated writers – Wu and Wong K.C. – to complete. The title filled a gap at the time, and just four years after it was published, a second edition was released in 1936.
 
-Among the donated items, one can also find Wu’s autobiography *Plague Fighter: The Autobiography of a Modern Chinese Physician*[^16] and the Chinese edition containing selective sections published in 1960.[^17]
+Among the donated items, one can also find Wu’s autobiographym *Plague Fighter: The Autobiography of a Modern Chinese Physician*,[^16] and the Chinese edition containing selective sections published in 1960.[^17]
 
-Besides Wu, his first wife Ruth was also well-educated and had published three books in the 1920s and 1930s. During her years accompanying her husband in China, Ruth decided to write on four renowned beauties in China’s history: Yang Kuei Fei (Yang Gui Fei), Hsi Shih (Xi Shi), Chao Chun (Zhao Jun) and Tiao Chan (Diao Chan). However, Ruth only managed to publish books on the first three beauties before she passed away in 1937. With this donation, the National Library of Singapore received a copy of *Chao Chun: Beauty in Exile*,[^18] which completes the set of early publications by Ruth. Before this, the Library only had two of the first imprints: the 1924 edition of *Yang Kuei-Fei: The Most Famous Beauty of China*[^19] and *Hsi Shih: Beauty of Beauties: A Romance of Ancient China About 495–472 B.C*.[^20]
+Besides Wu, his first wife Ruth was also well educated and had published three books in the 1920s and 1930s. During her years accompanying her husband in China, Ruth decided to write on four renowned beauties in China’s history: Yang Kuei Fei (Yang Gui Fei), Hsi Shih (Xi Shi), Chao Chun (Zhao Jun) and Tiao Chan (Diao Chan). However, Ruth only managed to publish books on the first three beauties before she passed away in 1937. With this donation, the National Library of Singapore received a copy of *Chao Chun: Beauty in Exile*,[^18] which completes the set of early publications by Ruth. Before this, the Library only had two of the first imprints: the 1924 edition of *Yang Kuei-Fei: The Most Famous Beauty of China*[^19] and *Hsi Shih: Beauty of Beauties: A Romance of Ancient China About 495–472 BC*.[^20]
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>Library Holdings</b><br><br>
-The donated items in this collection are assigned the location code “RCLOS” (Closed access materials). Readers who are interested in these publications can access them at Level 11 of the Lee Kong Chian Reference Library, Singapore. These items can be consulted upon request at the Information Counter.</span>
+The donated items in this collection are assigned the location code “RCLOS” (closed-access materials). Readers who are interested in these publications can access them at Level 11 of the Lee Kong Chian Reference Library, Singapore. These items can be consulted upon request at the Information Counter.</span>
 
 
 <br>
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/author_Tong%20Bao.jpg" style="width: 100px; height: 100px;">
-<center><b>Wee Tong Bao</b><br>Reference Librarian<br>NL Heritage<br>National Library Board</center></div>
+<center><b>Wee Tong Bao</b><br>Reference Librarian<br>NL Heritage, National Library Board</center></div>
 
 
 #### **NOTES**
@@ -96,15 +93,15 @@ The donated items in this collection are assigned the location code “RCLOS” 
 
 [^2]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13769079), 1926, p. v.
 
-[^3]: Wu, L.T. (1995). [_Memories of Dr Wu Lien-Teh: Plague fighter_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7496908). Singapore: World Scientific Pub, p. 28. (Call no.: RSING 610.92 WU)
+[^3]: Wu, L.T. (1995). [_Memories of Dr Wu Lien-Teh: Plague fighter_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7496908). Singapore: World Scientific Pub., p. 28. (Call no.: RSING 610.92 WU)
 
 [^4]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13769079), 1926, p. vii.
 
 [^5]: Leong, W.K. (2010). [Life and works of a legendary plague fighter](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20101121-1.2.37.3). _The Straits Times_, p. 31. Retrieved from NewspaperSG.
 
-[^6]: Burt, A.R. Powell, J.B., &amp; Crow, C. (Eds.). (1925). [_中__华今代名人传_ _= Biographies of prominent Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13849997). Shanghai: Biographical Publishing Company Inc. (Call no.: RCLOS 951.080922 BIO)
+[^6]: Burt, A.R., Powell, J.B., &amp; Crow, C. (Eds.). (1925). [_中华今代名人传_ _= Biographies of prominent Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13849997). Shanghai: Biographical Publishing Company Inc. (Call no.: RCLOS 951.080922 BIO)
 
-[^7]: [Burt, Powell &amp; Crow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13849997), 1925, publisher’s note – unpaged.
+[^7]: [Burt, Powell &amp; Crow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13849997), 1925, publisher’s note, n.p.
 
 [^8]: Teng, A. (2011, October 15). [Long-lost tomb helped her to uncover heritage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111015-2.2.110.2.2.1). _The Straits Times_, p. 8. &nbsp;Retrieved from NewspaperSG.
 
@@ -114,11 +111,11 @@ The donated items in this collection are assigned the location code “RCLOS” 
 
 [^11]: 马宏坤等编. (2006). 《哈尔滨医科学校80周年纪念特刊， 2006年》, trans. Harbin Medical University 80th Anniversary souvenir magazine, 2006.
 
-[^12]: 德道传媒. (2009?). 哈尔滨人民纪念伍连德 : 暨电 视剧《伍连德》项目文献集粹”, trans. “Wu Lian De” TV series – dedicated to Dr Wu Lien-Teh on the 130th anniversary of his birthday.
+[^12]: 德道传媒. (2009?). 哈尔滨人民纪念伍连德 : 暨电视剧《伍连德》项目文献集粹”, trans. “Wu Lian De” TV series – dedicated to Dr Wu Lien-Teh on the 130th anniversary of his birthday.
 
 [^13]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13769079), 1926.  
   
-[^14]: Wong, K.C. &amp; Wu, L.T. (1936). [_History of Chinese Medicine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3420968) 《中国医史》. Shanghai: National Quarantine Service. 2nd edition. (Call no.: RCLOS 610.951 WAN)
+[^14]: Wong, K.C., &amp; Wu, L.T. (1936). [_History of Chinese Medicine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3420968) 《中国医史》. Shanghai: National Quarantine Service. 2nd edition. (Call no.: RCLOS 610.951 WAN)
 
 [^15]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13769079), 1926, p. vii.
 
