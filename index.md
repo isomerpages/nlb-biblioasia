@@ -25,7 +25,7 @@ sections:
       button: SAVING ASIAN CLASSICS
       url: /vol-19/issue-4/jan-mar-2024/restoring-asian-films/
       alt: Image alt text
-      image: /images/Vol 19 Issue 4/2 Restoring Classic Films/letter_04_image 7.png
+      image: /images/Vol 19 Issue 4/2 Restoring Classic Films/vlcsnap_image 9.png
   - infopic:
       title: The Curious Visit of Qing Ambassadors to Singapore
       subtitle: People
