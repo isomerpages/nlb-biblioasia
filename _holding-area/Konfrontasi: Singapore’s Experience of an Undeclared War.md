@@ -131,21 +131,21 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^2]: Abdul Fazil, “Hunt for Bomber.”
 
-[^3]:
+[^3]: “Soekarno’s 3-Pronged Offensive – by the Tengku,” _Straits Times_, 12 December 1963, 12; “Hunt for Mysterious Bomber Continues,” _Straits Times_, 13 December 1963, 11; “Police Combing Sennett Estate for Bomb Man,” _Straits Times_, 15 December 1963, 3. (From NewspaperSG)
 
-[^4]:
+[^4]: “Two on Bombing Charge,” _Straits Times_, 12 May 1964, 4. (From NewspaperSG)
 
-[^5]:
+[^5]: T.F. Hwang and Yeo Toon Joo, “Court Is Told of Four on a Bombing Mission,” _Straits Times_, 16 April 1964, 1. (From NewspaperSG)
 
-[^6]:
+[^6]: Hwang and Yeo, “Court Is Told of Four on a Bombing Mission”; Felix Abisheganaden, “‘Assassinate the Tengku’ Order,” _Straits Times_, 23 April 1964, 1. (From NewspaperSG)
 
-[^7]:
+[^7]: Abdul Fazil, “Hunt for Bomber.”
 
-[^8]:
+[^8]: J.A.C. Mackie, _Konfrontasi: The Indonesia-Malaysia Dispute, 1963–1966_ (New York: Published for the Australian Institute of International Affairs by Oxford University Press, 1974), 125. (From National Library, Singapore, call no. RSING 327.5950598 MAC)
 
-[^9]:
+[^9]: The Federation of Malaysia was formed on 16 September 1963, following the merger of the Federation of Malaya, Singapore, North Borneo (Sabah) and Sarawak.
 
-[^10]:
+[^10]: George McT. Kahin, “Malaysia and Indonesia,” _Pacific Affairs_ 37, no. 3 (Autumn 1964): 260; Donald Hindley, “Indonesia’s Confrontation with Malaysia: A Search for Motives,” _Asian Survey_ 4, no. 6 (June 1964): 907. (From JSTOR via NLB’s eResources website)
 
 [^11]:
 
