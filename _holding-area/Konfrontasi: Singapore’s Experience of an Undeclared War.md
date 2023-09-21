@@ -145,11 +145,11 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^9]: The Federation of Malaysia was formed on 16 September 1963, following the merger of the Federation of Malaya, Singapore, North Borneo (Sabah) and Sarawak.
 
-[^10]: George McT. Kahin, “Malaysia and Indonesia,” _Pacific Affairs_ 37, no. 3 (Autumn 1964): 260; Donald Hindley, “Indonesia’s Confrontation with Malaysia: A Search for Motives,” _Asian Survey_ 4, no. 6 (June 1964): 907. (From JSTOR via NLB’s eResources website)
+[^10]: George McT. Kahin, “Malaysia and Indonesia,” _Pacific Affairs_ 37, no. 3 (Autumn 1964): 260; Donald Hindley, “Indonesia’s Confrontation with Malaysia: A Search for Motives,” _Asian Survey_ 4, no. 6 (June 1964): 907. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-[^11]: Lim Tin Seng, “Merger with Malaysia,” in _Singapore Infopedia_. National Library Board Singapore. Article published 3 November 2017.
+[^11]: Lim Tin Seng, “[Merger with Malaysia](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2017-11-06_110458.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 3 November 2017.
 
-[^12]: Mackie, _Konfrontasi_, 181; M.C. Ricklefs, _A History of Modern Indonesia, c. 1300 to the Present_, 2nd ed. (Basingstoke: Macmillan, 1993), 273. (From National Library, Singapore, call no. RSEA 959.8 RIC). Ricklefs asserts that the term “Ganyang Malaysia” has been “usually but less accurately translated as ‘Crush Malaysia’”.
+[^12]: Mackie, _[_Konfrontasi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=266560)_, 181; M.C. Ricklefs, _[_A History of Modern Indonesia, c. 1300 to the Present_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 2nd ed. (Basingstoke: Macmillan, 1993), 273. (From National Library, Singapore, call no. RSEA 959.8 RIC). Ricklefs asserts that the term “Ganyang Malaysia” has been “usually but less accurately translated as ‘Crush Malaysia’”.
 
 [^13]: “Sishi yu yinni tegong luowang qianru jiandie duo bei kou bu jingfang jixu jibu yudang kexia jin sheng yixie canyu fenzi xiaoyaofawai tumoubugui xingdong” 四十餘印尼特工落網潛入間諜多被扣捕警方繼續緝捕餘黨刻下僅剩一些殘餘份子逍遙法外圖謀不軌行動 \[More than forty Indonesian agents were arrested and infiltrated. Most of the spies were arrested. The police continue to arrest the remaining members of the party. Only a few remnants of the party are still at large and plotting misdeeds\], 南洋商报_Nanyang Siang Pau_, 9 April 1964, 5. (From NewspaperSG); Abisheganaden, “‘Assassinate the Tengku’ Order.”
 
