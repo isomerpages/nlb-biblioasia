@@ -179,19 +179,19 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^26]: Richard Moore, “Where Her Majesty’s Weapons Were,” _Bulletin of the Atomic Scientists_ 57, no. 1 (15 September 2015), https://journals.sagepub.com/doi/10.2968/057001019.
 
-[^27]: Peter Hennessy and James Jinks, _The Silent Deep: The Royal Navy Submarine Service Since 1945_, e-book. (London: Penguin, 2015), 553. (From NLB OverDrive)
+[^27]: Peter Hennessy and James Jinks, _[_The Silent Deep: The Royal Navy Submarine Service Since 1945_](https://nlb.overdrive.com/media/2464907)_, e-book. (London: Penguin, 2015), 553. (From NLB OverDrive)
 
-[^28]: Hennessy and Jinks, _The Silent Deep_, 553.
+[^28]: Hennessy and Jinks, _[_The Silent Deep_](https://nlb.overdrive.com/media/2464907)_, 553.
 
-[^29]: Abisheganaden, “‘Assassinate the Tengku’ Order.”
+[^29]: Abisheganaden, “[‘Assassinate the Tengku’ Order](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640423-1.2.2).”
 
-[^30]: Jaime Koh, “Vigilante Corps,” in _Singapore Infopedia_. From National Library Board Singapore. Article published 29 March 2016. The Vigilante Corps was absorbed into the Special Constabulary on 22 September 2022, marking the end of 55 years of service to the nation. See “SPF’s Vigilante Corps: The End of an Era,” _Frontline_, 12 January 2023, https://www.hometeamns.sg/frontline/spfs-vigilante-corps-the-end-of-an-era/.
+[^30]: Jaime Koh, “[Vigilante Corps](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-29_151550.html),” in _Singapore Infopedia_. From National Library Board Singapore. Article published 29 March 2016. The Vigilante Corps was absorbed into the Special Constabulary on 22 September 2022, marking the end of 55 years of service to the nation. See “SPF’s Vigilante Corps: The End of an Era,” _Frontline_, 12 January 2023, https://www.hometeamns.sg/frontline/spfs-vigilante-corps-the-end-of-an-era/.
 
-[^31]: “Big Hunt for Killers,” _Straits Times_, 4 March 1965, 1. (From NewspaperSG)
+[^31]: “[Big Hunt for Killers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650304-1.2.3),” _Straits Times_, 4 March 1965, 1. (From NewspaperSG)
 
-[^32]: “Soek Loses 10 Men at Kota Tinggi,” _Straits Times_, 9 April 1965, 1; Gabriel Lee, “How Our Boys Routed All the Kota Tinggi Gang,” _Straits Times_, 12 April 1965, 1; “Well Done SIR! Says Tengku,” _Straits Times_, 6 April 1965, 1. (From NewspaperSG)
+[^32]: “[Soek Loses 10 Men at Kota Tinggi](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650409-1.2.4),” _Straits Times_, 9 April 1965, 1; Gabriel Lee, “[How Our Boys Routed All the Kota Tinggi Gang](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650412-1.2.3),” _Straits Times_, 12 April 1965, 1; “[Well Done SIR! Says Tengku](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650406-1.2.10),” _Straits Times_, 6 April 1965, 1. (From NewspaperSG)
 
-[^33]: “Premier Lee Pays Tribute to SIR,” _Straits Times_, 7 May 1965, 9. (From NewspaperSG)
+[^33]: “[Premier Lee Pays Tribute to SIR](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650507-1.2.75),” _Straits Times_, 7 May 1965, 9. (From NewspaperSG)
 
 [^34]: Daniel Wei Boon Chua, “CO15054 | Konfrontasi: Why It Still Matters to Singapore,” S. Rajaratnam School of International Studies, 16 March 2015, https://www.rsis.edu.sg/rsis-publication/idss/co15054-konfrontasi-why-it-still-matters-to-singapore/. Between 1963 and 1964, imports declined by 23 percent while exports declined 31 percent. “Surviving Our Independence,” SG101, last updated 4 September 2023, https://www.sg101.gov.sg/economy/surviving-our-independence/1959-1965/.
 
