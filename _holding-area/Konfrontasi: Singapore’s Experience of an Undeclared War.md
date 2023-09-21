@@ -69,6 +69,9 @@ The bombing of MacDonald House, however, was the deadliest and most well-known a
 
 Two Indonesian commandos, Osman Haji Mohamed Ali, 25, and Harun Said, 21, were arrested and charged in court. They were sentenced to death on 20 October 1965, and their execution by hanging on 17 October 1968 would cast a pall over relations between Singapore and Indonesia in the years to come.[^24]
 
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/img0101_img%205.png)
+<div style="background-color: white;">Damage from the bomb explosion at MacDonald House on 10 March 1965. The concrete wall separating the stairway and correspondence room of the Hongkong and Shanghai Bank was blown apart by the bomb, exposing the car park on the other side. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+
 #### **Combating Konfrontasi**
 
 Given the scale and nature of the Indonesian threat, the politics of the Cold War and as Malaysia’s strongest ally, the United Kingdom rotated its forces through Singapore between 1963 and 1966. It was the UK’s greatest show of force since World War II.[^25] The Royal Air Force also dispatched four to eight nuclear-capable V-Bombers through Tengah and Butterworth airbases in case things escalated.[^26] Deploying from Singapore, submarines from the Royal Navy’s 7th Submarine Division conducted undersea operations.[^27]
