@@ -127,4 +127,44 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 #### **Notes** 
 
-[^1]: “Batch ’81 (1982),” Asian Film Archive, last accessed 25 August 2023, https://www.asianfilmarchive.org/event-calendar/batch-81-1982/.
+[^1]: Abdul Fazil, “Hunt for Bomber,” _Straits Times_, 11 December 1963, 1. (From NewspaperSG)
+
+[^2]: Abdul Fazil, “Hunt for Bomber.”
+
+[^3]:
+
+[^4]:
+
+[^5]:
+
+[^6]:
+
+[^7]:
+
+[^8]:
+
+[^9]:
+
+[^10]:
+
+[^11]:
+
+[^12]:
+
+[^13]:
+
+[^14]:
+
+[^15]:
+
+[^16]:
+
+[^17]:
+
+[^18]:
+
+[^19]:
+
+[^20]:
+
+[^21]:
