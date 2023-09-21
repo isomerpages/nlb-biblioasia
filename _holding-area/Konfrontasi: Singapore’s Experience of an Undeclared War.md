@@ -167,15 +167,15 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^20]: “[Record of the Wreckers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650516-1.2.85),” _Straits Times_, 16 May 1965, 16; Abu Fazil and Cheong Yip Seng, “[Bomb Kills Two](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19640422-1.2.25),” _Straits Budget_, 22 April 1964, 8. (From NewspaperSG
 
-[^21]: “Attempt to Blow Up Merdeka Bridge,” _Straits Times_, 24 May 1964, 2; “Sabotage Bid on Bridge,” _Straits Budget_, 29 July 1964, 13. (From NewspaperSG)
+[^21]: “[Attempt to Blow Up Merdeka Bridge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640524-1.2.17),” _Straits Times_, 24 May 1964, 2; “[Sabotage Bid on Bridge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19640729-1.2.81),” _Straits Budget_, 29 July 1964, 13. (From NewspaperSG)
 
-[^22]: “MacDonald House,” National Heritage Board, last accessed 20 May 2023, https://www.roots.gov.sg/places/places-landing/Places/national-monuments/macdonald-house; National Library Board, “Macdonald House Bombing Occurs,” in _HistorySG_. National Library Board Singapore. Article published 2014; Mohamed Effendy Abdul Hamid and Kartini Saparudin, “MacDonald House Bomb Explosion,” in _Singapore Infopedia_. National Library Board Singapore. Article published 7 August 2014.
+[^22]: “MacDonald House,” National Heritage Board, last accessed 20 May 2023, https://www.roots.gov.sg/places/places-landing/Places/national-monuments/macdonald-house; National Library Board, “[Macdonald House Bombing Occurs](https://eresources.nlb.gov.sg/history/events/73fb133a-828a-4240-9801-421d7077369f),” in _HistorySG_. National Library Board Singapore. Article published 2014; Mohamed Effendy Abdul Hamid and Kartini Saparudin, “[MacDonald House Bomb Explosion](https://eresources.nlb.gov.sg/infopedia/articles/SIP_62_2004-12-17.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 7 August 2014.
 
-[^23]: Jackie Sam, et al., “Terror Bomb Kills 2 Girls at Bank,” _Straits Times_, 11 March 1965, 1. (From NewspaperSG)
+[^23]: Jackie Sam, et al., “[Terror Bomb Kills 2 Girls at Bank](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650311-1.2.3),” _Straits Times_, 11 March 1965, 1. (From NewspaperSG)
 
-[^24]: “Death for Indon Bombers,” _Straits Times_, 21 October 1965, 11; “S’pore Govt Gives Reasons for ‘No’ to Pleas for Mercy,” _Straits Times_, 18 October 1968, 14; “Singapore Embassy in Jakarta Sacked,” _Straits Times_, 18 October 1968, 1. (From NewspaperSG)
+[^24]: “[Death for Indon Bombers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19651021-1.2.94),” _Straits Times_, 21 October 1965, 11; “[S’pore Govt Gives Reasons for ‘No’ to Pleas for Mercy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19681018-1.2.81.aspx),” _Straits Times_, 18 October 1968, 14; “[Singapore Embassy in Jakarta Sacked](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19681018-1.2.7.aspx),” _Straits Times_, 18 October 1968, 1. (From NewspaperSG)
 
-[^25]: Harold James and Denis Sheil-Small, _The Undeclared War: The Story of the Indonesian Confrontation 1962–1966_ (Kuala Lumpur: University of Malaya Co-operative Bookshop Ltd., 1979), 152–53. (From National Library, Singapore, call no. RUR 327.5950598 JAM)
+[^25]: Harold James and Denis Sheil-Small, _[_The Undeclared War: The Story of the Indonesian Confrontation 1962–1966_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6581511)_ (Kuala Lumpur: University of Malaya Co-operative Bookshop Ltd., 1979), 152–53. (From National Library, Singapore, call no. RUR 327.5950598 JAM)
 
 [^26]: Richard Moore, “Where Her Majesty’s Weapons Were,” _Bulletin of the Atomic Scientists_ 57, no. 1 (15 September 2015), https://journals.sagepub.com/doi/10.2968/057001019.
 
