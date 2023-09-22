@@ -29,7 +29,7 @@ On 16 April 1964, Shairy and Amat revealed in court that they, together with the
 
 Arriving at the targeted site, Amat planted the bomb under the Ford Consul in a lane behind a row of shophouses and lit the fuse with a lighted cigarette. Soon after they had driven off, the bomb exploded. The men had been told that “if they could not achieve their specified objectives they were to leave the explosives where their detonation would create alarm by their indiscriminate damage”. Some 20 to 25 pounds of explosives were used in the Sennett Estate blast.[^6]&nbsp;
 
-The two men who died had been watching a TV programme in a radio shop before returning to their nearby cigarette and sundries stall. At some point, they might have “heard a sizzling noise or \[had\] seen a short length of burning fuse under a blue Ford Consul” and paid for it dearly. The bodies of the two men, badly mangled, were found in a garage about 6m away.[^7]
+The two men who died had been watching a TV programme in a radio shop before returning to their nearby cigarette and sundries stall. At some point, they might have “heard a sizzling noise or \[had\] seen a short length of burning fuse under a blue Ford Consul” and paid for it dearly. The bodies of the two men, badly mangled, were found in a garage about 6 m away.[^7]
 
 #### **Reasons for Konfrontasi**
 
