@@ -179,9 +179,9 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^26]: Richard Moore, “Where Her Majesty’s Weapons Were,” _Bulletin of the Atomic Scientists_ 57, no. 1 (15 September 2015), https://journals.sagepub.com/doi/10.2968/057001019.
 
-[^27]: Peter Hennessy and James Jinks, _[_The Silent Deep: The Royal Navy Submarine Service Since 1945_](https://nlb.overdrive.com/media/2464907)_, e-book. (London: Penguin, 2015), 553. (From NLB OverDrive)
+[^27]: Peter Hennessy and James Jinks, _[The Silent Deep: The Royal Navy Submarine Service Since 1945](https://nlb.overdrive.com/media/2464907)_, e-book. (London: Penguin, 2015), 553. (From NLB OverDrive)
 
-[^28]: Hennessy and Jinks, _[_The Silent Deep_](https://nlb.overdrive.com/media/2464907)_, 553.
+[^28]: Hennessy and Jinks, _[The Silent Deep_](https://nlb.overdrive.com/media/2464907)_, 553.
 
 [^29]: Abisheganaden, “[‘Assassinate the Tengku’ Order](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640423-1.2.2).”
 
