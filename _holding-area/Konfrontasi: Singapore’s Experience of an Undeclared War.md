@@ -9,7 +9,7 @@ image: /images/Vol 19 Issue 4/3 Konfrontasi/sph 2305605v_img 1.png
 By Alvin Tan
 
 
-![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/sph%202305605v_img%201.png)
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/new%20sph%202305605v_img%201.png)
 <div style="background-color: white;">The Ford Consul in Sennett Estate was rendered a twisted heap of metal after the bomb planted beneath it exploded on 9 December 1963. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i> </div>
 
 
@@ -62,7 +62,7 @@ On 23 May and 21 July, Indonesian saboteurs attempted to blow up Merdeka Bridge.
 
 The bombing of MacDonald House, however, was the deadliest and most well-known attack. At 3.07 pm on 10 March 1965, a bomb exploded at the 10-storey building on Orchard Road – then one of the tallest in Singapore and the first fully air-conditioned office building in Singapore and Southeast Asia.[^22] The bomb, which had been placed on the mezzanine floor near the lift, injured at least 33 people and claimed three casualties: Suzie Choo, 36, the private secretary to the manager of Hong Kong and Shanghai Bank, and Juliet Goh, 32, a filing clerk at the bank, died on the spot. Mohammed Yasin Kesit, 43, a driver for the Malaya Borneo Building Society, died a few days later. “Many others – in the bank and on the road – fell like ninepins, many seriously injured. Every window within a hundred yards was shattered and almost every car outside the building and across the road was damaged,” reported the _Straits Times_.[^23]
 
-![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/boom_img%208.png)
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/2%20combine_img%208.png)
 <div style="background-color: white;">(Left) The bomb explosion at MacDonald House on 10 March killed two women instantly and injured at least 33 other people. One man died a few days later. <i>Source: The Straits Times, 11 March 1965 © SPH Media Limited. Permission required for reproduction.</i>
 <br>
 (Right) Damage from the bomb explosion at MacDonald House on 10 March 1965. The concrete wall separating the stairway and correspondence room of the Hongkong and Shanghai Bank was blown apart by the bomb, exposing the car park on the other side. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
@@ -106,7 +106,7 @@ Titled the “Challenge of Confrontation”, the exhibition was opened by Cultur
 
 Sukarno, already discredited by an abortive coup in October 1965, was finally deposed by General Suharto on 11 March 1966.[^40] Under Suharto, Indonesia changed course in its foreign policy and rejoined the United Nations in April 1966. In the following month, Suharto signalled his desire to end Konfrontasi and Adam Malik, the new foreign minister, met Malaysia’s Deputy Prime Minister Tun Abdul Razak on 29 May in Tokyo.[^41] In June 1966, Jakarta recognised Singapore’s independence from Malaysia. On 12 August 1966, Konfrontasi formally ended after Indonesia and Malaysia concluded a peace treaty.[^42]
 
-![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/img0802_img%206.png)
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/new%20img0802_img%206.png)
 <div style="background-color: white;">Men from the 2nd Battalion, Singapore Infantry Regiment, standing guard at their tactical headquarters in Kota Tinggi, Johor, in April 1965 during the follow-up operation to hunt down Indonesian infiltrators. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i> </div>
 
 The peace treaty, however, did not completely reset relations between Singapore and Jakarta. That had to wait until 1973. On 28 May that year, Prime Minister Lee Kuan Yew visited the Kalibata Heroes Cemetery in South Jakarta as part of his trip to Indonesia. With solemn music playing in the background, Lee “was escorted to sprinkle flowers” on the graves of Indonesian generals who had fallen during the 30 September 1965 coup. Twenty metres away were the graves of two Indonesian marines – Osman Haji Mohamed Ali and Harun Said – who were hanged in Singapore on 17 October 1968 for their part in the MacDonald House bombing. Lee then walked over to their graves and “sprinkled flowers on them”. This action, praised by Indonesian newspapers as a “magnanimous gesture”, touched the Indonesian people deeply and turned the final page on an unhappy episode in the history of both countries.[^43]
