@@ -27,9 +27,6 @@ Following this blast, security measures at key installations were stepped up and
 
 On 16 April 1964, Shairy and Amat revealed in court that they, together with their handler Nordin Lemon, and another man, had initially intended to bomb more strategic targets. On 8 December 1963, the four set out in a car to plant explosives in two locations: Shairy had gotten off at Bukit Timah to blow up water pipes, while the other three drove on to Bukit Timah Railway Station. “Our intention in going to the station was to blow up the rail tracks,” said Nordin. However, both missions were aborted. Shairy admitted that “he had been afraid to explode the bomb” at the water pipes, while there were police officers at the railway station. The next day, Amat suggested to Shairy to “go and explode the bomb” at Sennett Estate.[^5]
 
-![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/img0108_img%202.png)
-<div style="background-color: white;">Damage to Housing and Development Board flats after a bomb explosion at Jalan Rebong on 12 April 1964. <i>Ministry of Culture Collection, courtesy of National Archives of Singapore.</i> </div>
-
 Arriving at the targeted site, Amat planted the bomb under the Ford Consul in a lane behind a row of shophouses and lit the fuse with a lighted cigarette. Soon after they had driven off, the bomb exploded. The men had been told that “if they could not achieve their specified objectives they were to leave the explosives where their detonation would create alarm by their indiscriminate damage”. Some 20 to 25 pounds of explosives were used in the Sennett Estate blast.[^6]&nbsp;
 
 The two men who died had been watching a TV programme in a radio shop before returning to their nearby cigarette and sundries stall. At some point, they might have “heard a sizzling noise or \[had\] seen a short length of burning fuse under a blue Ford Consul” and paid for it dearly. The bodies of the two men, badly mangled, were found in a garage about 20 feet away.[^7]
@@ -57,6 +54,10 @@ By now, jittery Katong residents were anxiously wondering when the “mad bomber
 In 1964 alone, 18 explosions swept through Singapore and encompassed targets like the Merdeka Bridge and the iconic Raffles Hotel. On 8 March, a time bomb was planted in a drainpipe along Bras Basah Road outside Raffles Hotel that went off at 11:40 pm. “I first thought it was the firing of crackers. Almost simultaneously, a chair cushion from nearby hit me in the face with a powerful impact. I was unhurt but I knew then that it was some frightful explosion,” said an American tourist who was staying in one of the rooms.[^19]
 
 On 27 March, a bomb exploded outside the perimeter fence of the Istana, near the Bukit Timah filter works, damaging some 4 m of the fence and shattering window panes within a 350-metre radius. Two people were killed and six were injured when a bomb went off on 12 April at 8:05 pm at a block of Housing and Development Board flats on Jalan Rebong, off Changi Road. The victims – Aishah Bee Abdullah, 50, and her 16-year-old daughter Sharifon, a student at Tanjong Katong Girls’ School – were watching television in a wooden house 9 m away when the blast killed them.[^20]
+
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/img0108_img%202.png)
+<div style="background-color: white;">Damage to Housing and Development Board flats after a bomb explosion at Jalan Rebong on 12 April 1964. <i>Ministry of Culture Collection, courtesy of National Archives of Singapore.</i> </div>
+
 
 On 23 May and 21 July, Indonesian saboteurs attempted to blow up Merdeka Bridge. The bridge suffered only slight damage but police, in response to the second blast, “said that the obvious intention was to blow a hole through the bridge”.[^21]
 
