@@ -205,13 +205,13 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^39]: “[Captured Indon Arms on Show](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641002-1.2.28),” _Straits Times_, 2 October 1964, 4; “[Confrontation Show a Big Hit](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641003-1.2.82),” _Straits Times_, 3 October 1964, 11; “[337,000 Saw This Show](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641013-1.2.31),” _Straits Times_, 13 October 1964, 4; “[Show Moves On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641025-1.2.41.13),” _Straits Times_, 25 October 1967, 7. (From NewspaperSG)
 
-[^40]: “[Konfrontasi (Confrontation) Ends](https://eresources.nlb.gov.sg/history/events/f950e04d-44d7-47ad-a10c-16dfb0cc9ce3),” in _HistorySG_. From National Library Board Singapore. Article published 2014; Ricklefs, _[_History of Modern Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 289.
+[^40]: “[Konfrontasi (Confrontation) Ends](https://eresources.nlb.gov.sg/history/events/f950e04d-44d7-47ad-a10c-16dfb0cc9ce3),” in _HistorySG_. From National Library Board Singapore. Article published 2014; Ricklefs, _[History of Modern Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 289.
 
-[^41]: Ricklefs, _[_History of Modern Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 290.
+[^41]: Ricklefs, _[History of Modern Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 290.
 
 [^42]: Jackie Sam, “[Indonesia Recognises Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660605-1.2.2),” _Straits Times_, 5 June 1966, 1; “[Confrontation Ends](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19660812-1.2.2.aspx),” _Straits Times_, 12 August 1966, 1; “[25 Years Ago](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19910811-1.2.34.1.2),” _Straits Times_, 11 August 1991, 22. (From NewspaperSG)
 
-[^43]: Lee Khoon Choy, _[_Diplomacy of a Tiny State_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6540728)_, 2nd ed. (Singapore: World Scientific, 1993), 270–71. (From National Library, Singapore, call no. RSING 327.5957 LEE)
+[^43]: Lee Khoon Choy, _[Diplomacy of a Tiny State](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6540728)_, 2nd ed. (Singapore: World Scientific, 1993), 270–71. (From National Library, Singapore, call no. RSING 327.5957 LEE)
 
 [^44]: “[Singapore Urges Jakarta Not to ‘Reopen Old Wounds’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20140207-1.2.4),” _Straits Times_, 7 February 2014, 1; “[Singapore: Naming Indonesian Warship After Marines Would Open Old Wounds](https://eresources.nlb.gov.sg/newspapers/digitised/article/today20140207-1.2.6),” _Today_, 7 February 2014, 1. (From NewspaperSG)
 
