@@ -1,5 +1,5 @@
 ---
-title: "Tell It ‘Slanted’: An Approach to Writing My Memoir"
+title: "Tell It 'Slanted': An Approach to Writing My Memoir"
 permalink: /vol-7/issue-4/mar-2012/slanted-writing-memoir/
 description: In my view, one cannot write a good memoir without reading other
   people’s memoirs and learning from them. Though I am aware of what Gore Vidal
