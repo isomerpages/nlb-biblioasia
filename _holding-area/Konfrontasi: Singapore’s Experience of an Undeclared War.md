@@ -181,7 +181,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^27]: Peter Hennessy and James Jinks, _[The Silent Deep: The Royal Navy Submarine Service Since 1945](https://nlb.overdrive.com/media/2464907)_, e-book. (London: Penguin, 2015), 553. (From NLB OverDrive)
 
-[^28]: Hennessy and Jinks, _[The Silent Deep_](https://nlb.overdrive.com/media/2464907)_, 553.
+[^28]: Hennessy and Jinks, _[The Silent Deep](https://nlb.overdrive.com/media/2464907)_, 553.
 
 [^29]: Abisheganaden, “[‘Assassinate the Tengku’ Order](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640423-1.2.2).”
 
