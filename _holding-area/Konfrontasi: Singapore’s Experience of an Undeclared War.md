@@ -65,7 +65,7 @@ The bombing of MacDonald House, however, was the deadliest and most well-known a
 
 ![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/newspaper_img%2010.png)
 <div style="background-color: white;"> The bomb explosion at MacDonald House on 10 March killed two women instantly and injured at least 33 other people. One man died a few days later. <i>Source: The Straits Times, 11 March 1965 © SPH Media Limited. Permission required for reproduction.</i></div>
-<br>
+
 ![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/pcd0058_img0052_img%209.png)
 <div style="background-color: white;"> Damage from the bomb explosion at MacDonald House on 10 March 1965. The concrete wall separating the stairway and correspondence room of the Hongkong and Shanghai Bank was blown apart by the bomb, exposing the car park on the other side. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
