@@ -9,6 +9,9 @@ description: Visiting Research Fellow Jayati Bhattacharya offers a glimpse into
   will continue to do so in the future.
 ---
 #### Visiting Research Fellow&nbsp;_Jayati Bhattacharya_&nbsp;offers a glimpse into the socio-economic networks and exchanges of the Indian business community during the colonial era that have formed a strong foundation of present bilateral and multilateral interactions in Singapore and Southeast Asia and will continue to do so in the future.
+
+<img src="/images/Vol%207%20issue%203/SpacesMemories/Kittangi.jpg" style="width:50%;">
+ <div style="background-color: white;">A Kittangi at 49 Market Street in 1977, before it was demolished. Kittangis were Chettiar quarters, which performed the dual functions of both places of residence and of business. <i>Courtesy of Nachiappa Chettiar.</i></div>
  
  Most voluntary transnational mobilities have been essentially associated with better economic opportunities articulated through the flows of people, capital and, knowledge. The model of exchanges in labour and capital has been shifted to the present-day transnational global networks and interactions like remittances, commercial networks, investments or philanthropic sponsorships, apart from socio-cultural bonding with the home country. In the changing trajectories of circulation of population, money, goods and information, the dynamics of the players and that of capital may have altered, but their interactions have assumed a significant place in the socioeconomic and political exchanges in the global context. This article will offer a glimpse of these socio-economic networks and exchanges during the colonial era which have formed a strong foundation of the present bi-lateral and multi-lateral interactions in Singapore and Southeast Asia and will continue to do so in the future.
  
@@ -117,5 +120,3 @@ The spatial Indian identity and influence in colonial Singapore’s landscape re
 [^30]: Markovits, _[Global World of Indian Merchants](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9898082)_, 149.
 
 [^31]: For further details on these businessmen, refer to Jayati Bhattacharya, _[Beyond the Myth: Indian Business Communities in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14135113)_ (Singapore: Institute of Southeast Asian Studies, 2011). (Call no. RSING 338.708991405957 BHA)
-
-
