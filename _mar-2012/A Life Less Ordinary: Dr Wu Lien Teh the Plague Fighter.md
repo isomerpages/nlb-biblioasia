@@ -51,10 +51,6 @@ The eradication of the 1910–11 plague had a great impact on the medical future
 
 Besides quashing the 1910–11 plague, Wu also contributed to the control of the cholera epidemic in Harbin which broke out in 1919 and a second pneumonic plague that occurred in North Manchuria and East Siberia in 1920–21.
 
-
-<img style="width:80%;" src="/images/Vol%207%20issue%204/Wu%20Lien%20Teh/second%20pneumonic%20plague1.jpg">
- <div style="background-color: white;">A second pneumonic plague struck North Manchuria and East Siberia, 1920–21. Wu was appointed Supreme Chief of anti-plague operations by the Governor-General of Manchuria. Photograph shows Wu (extreme right, without headgear) with some of his staff in Harbin, 1921.</div>
-
 Wu’s illustrious medical career in China spanned almost three decades. During this period, he represented the Chinese government at various international conferences, both within and outside China. He also contributed much to the modernisation of China’s medical services, improvements in medical education and development of quarantine control. In 1937, when Japan invaded China, Wu returned to Malaya and remained there until he passed away on 21 January 1960.
 
 #### **The Wu Lien-Teh Collection**
