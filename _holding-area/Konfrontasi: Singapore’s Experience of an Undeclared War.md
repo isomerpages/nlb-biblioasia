@@ -88,6 +88,9 @@ As the number of bomb blasts mounted in early 1964, the government enrolled volu
 
 Singapore also sent troops to Peninsular Malaysia and Borneo. Its small army – comprising 1st and 2nd Battalions, Singapore Infantry Regiment (1 SIR and 2 SIR) – was fully deployed in combat operations. Eight soldiers from 2 SIR were killed and five injured when they were ambushed by Indonesian infiltrators on 28 February 1965 during a deployment 20 miles inland from the Kota Tinggi coast.[^31] In the aftermath, a large-scale operation was mounted to hunt down and eliminate the infiltrators.
 
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/new%20img0802_img%206.png)
+<div style="background-color: white;">Men from the 2nd Battalion, Singapore Infantry Regiment, standing guard at their tactical headquarters in Kota Tinggi, Johor, in April 1965 during the follow-up operation to hunt down Indonesian infiltrators. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i> </div>
+
 When the operation ended six weeks later in April, 37 Indonesian infiltrators had been killed and at least 33 captured, many by the men of 2 SIR who acquitted themselves with distinction.[^32] On 5 May 1965, Prime Minister Lee Kuan Yew paid tribute to the soldiers for “excelling” in operations against Indonesian guerrillas in Sabah and Johor. “You have carried the name of Singapore very high among the States of Malaysia,” he told some 300 men of the regiment at a reception at Sri Temasek to congratulate them on their success. “Your operations in Sabah and Johore proved that city life did not make you less rugged than rural folks,” he added.[^33]
 
 #### **Disruption to Trade**
@@ -108,8 +111,6 @@ Titled the “Challenge of Confrontation”, the exhibition was opened by Cultur
 
 Sukarno, already discredited by an abortive coup in October 1965, was finally deposed by General Suharto on 11 March 1966.[^40] Under Suharto, Indonesia changed course in its foreign policy and rejoined the United Nations in April 1966. In the following month, Suharto signalled his desire to end Konfrontasi and Adam Malik, the new foreign minister, met Malaysia’s Deputy Prime Minister Tun Abdul Razak on 29 May in Tokyo.[^41] In June 1966, Jakarta recognised Singapore’s independence from Malaysia. On 12 August 1966, Konfrontasi formally ended after Indonesia and Malaysia concluded a peace treaty.[^42]
 
-![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/new%20img0802_img%206.png)
-<div style="background-color: white;">Men from the 2nd Battalion, Singapore Infantry Regiment, standing guard at their tactical headquarters in Kota Tinggi, Johor, in April 1965 during the follow-up operation to hunt down Indonesian infiltrators. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i> </div>
 
 The peace treaty, however, did not completely reset relations between Singapore and Jakarta. That had to wait until 1973. On 28 May that year, Prime Minister Lee Kuan Yew visited the Kalibata Heroes Cemetery in South Jakarta as part of his trip to Indonesia. With solemn music playing in the background, Lee “was escorted to sprinkle flowers” on the graves of Indonesian generals who had fallen during the 30 September 1965 coup. Twenty metres away were the graves of two Indonesian marines – Osman Haji Mohamed Ali and Harun Said – who were hanged in Singapore on 17 October 1968 for their part in the MacDonald House bombing. Lee then walked over to their graves and “sprinkled flowers on them”. This action, praised by Indonesian newspapers as a “magnanimous gesture”, touched the Indonesian people deeply and turned the final page on an unhappy episode in the history of both countries.[^43]
 
