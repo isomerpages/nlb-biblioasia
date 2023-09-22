@@ -47,6 +47,10 @@ The textile trade was another stronghold of the Indian trading community. One of
 
 Most of the Gujarati and Sindhi communities participated in the lucrative textile business. The first known Sindhi firm in Singapore was Wassiamall Assomull, which opened its branches in 1873 along with one in Surabaya about the same time.[^28] Jhamatmal Gurbamall, was established in the 1880s by Jhamatmal Gurbamal Melwani who went to Medan from Singapore and made a large fortune in the textile business.[^29] The Chotirmals, Melwanis, Chanrais, Chellarams, and Jashanmals were other prominent names who made their fortunes in Singapore, Hong Kong, Dubai and different other parts of the globe. Markovits pointed out: “The Sindhi merchants’ privileged connections with the big Japanese firms allowed them to steal a march on their competitors in the 1930s and to start emerging as a community of particular importance.”[^30] Among the Punjabis, Gian Singh Co. was a popular departmental store. The Bajaj brothers and Hardial Singh were some of the other well-known Punjabi names in business. The Parsis also had a considerable presence in Singapore. Some names like Mistri Road and Parsi Road are named after them.[^31]
 
+<img src="/images/Vol%207%20issue%203/SpacesMemories/Serangoon%20Road.jpeg" style="width:80%;">
+ <div style="background-color: white;">Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Collection. <i>Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
+
+
 The Serangoon Road area was more or less dominated by the South Indian textile merchants, provision store owners, spice merchants, goldsmiths, florists and garland makers, petty traders, hawkers, small shop-owners, money-changers and various other businessmen both big and small. Businesses in this area thrived mostly on the regular necessities of everyday Indian lifestyle. Prominent names like those of P. Govindasamy Pillai, Ramasamy Nadar, and H. Somappa, who made their marks in business as well as in philanthropy, were based in the Serangoon Road area.
 
 <img src="/images/Vol%207%20issue%203/SpacesMemories/Kittangi.jpg" style="width:50%;">
