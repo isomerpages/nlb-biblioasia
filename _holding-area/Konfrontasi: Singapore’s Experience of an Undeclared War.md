@@ -175,7 +175,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^24]: “[Death for Indon Bombers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19651021-1.2.94),” _Straits Times_, 21 October 1965, 11; “[S’pore Govt Gives Reasons for ‘No’ to Pleas for Mercy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19681018-1.2.81.aspx),” _Straits Times_, 18 October 1968, 14; “[Singapore Embassy in Jakarta Sacked](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19681018-1.2.7.aspx),” _Straits Times_, 18 October 1968, 1. (From NewspaperSG)
 
-[^25]: Harold James and Denis Sheil-Small, _[_The Undeclared War: The Story of the Indonesian Confrontation 1962–1966_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6581511)_ (Kuala Lumpur: University of Malaya Co-operative Bookshop Ltd., 1979), 152–53. (From National Library, Singapore, call no. RUR 327.5950598 JAM)
+[^25]: Harold James and Denis Sheil-Small, _[The Undeclared War: The Story of the Indonesian Confrontation 1962–1966](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6581511)_ (Kuala Lumpur: University of Malaya Co-operative Bookshop Ltd., 1979), 152–53. (From National Library, Singapore, call no. RUR 327.5950598 JAM)
 
 [^26]: Richard Moore, “Where Her Majesty’s Weapons Were,” _Bulletin of the Atomic Scientists_ 57, no. 1 (15 September 2015), https://journals.sagepub.com/doi/10.2968/057001019.
 
