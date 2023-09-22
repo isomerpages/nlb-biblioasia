@@ -53,7 +53,6 @@ Twenty-three male and 13 female Secondary Two students from the Express stream i
 
 This pre-test was marked using a 12-mark rubric with distinct numerical grades for each fulfilment of the desired skills of descriptive writing. Rubrics contain criteria and performance scales that help students or assessors define the important components of a performance or product. Analytic rubrics divide the criteria into separate scoring sections, whereas holistic rubrics combine the criteria to give a general grade (Witte, 2011, p. 151). In this case, an analytic rubric was used since both student and assessor had to be absolutely sure which particular descriptive skills were areas of weakness or strength. The rubric was designed based on those for creative writing (Witte, 2011, p. 193; Hanson, 2009, p. 106).
 
-
 <img style="width:80%;" src="/images/Vol%207%20issue%204/GraphicNovels/Class%20handset.jpg">
  <div style="background-color: white;">Checklist given to help students evaluate each other’s writing.</div> 
 
@@ -61,9 +60,8 @@ To satisfy the conditions for a truly experimental design, we had to assign the 
 
 Between the pre-test and the day of the lesson which included the post-test – which was conducted a week after the pre-test – the students were not taught descriptive writing so as to reduce the risk of maturation of their writing abilities. On the day of the intervention, the students were divided into their groups, with the Control group being taught texts from Dave Chua’s novel *Gone Case* (Chua, 2002), which received the Singapore Literature Prize Commendation Award in 1996 (Lee, 2006). The Treatment group was taught with a graphic novel adaptation of *Gone Case*, also written by Dave Chua and illustrated by Koh Hong Teng (Chua &amp; Koh, 2010). These texts were chosen because they were closely related in terms of subject matter, namely life in Housing and Development Board neighbourhoods, which incidentally were where most of the students lived. The local setting did not demand the knowledge of foreign slang and it engaged the interest of the students who did not have many encounters with Singaporean literature.
 
-<img style="width:80%;" src="/images/Vol%207%20issue%204/GraphicNovels/Comics_2.jpg">
- <div style="background-color: white;">Handout given to the experiment’s Treatment group. Students were asked to answer a set of questions based on some extracts from the graphicnovel adaptation of Dave Chua’s <i>Gone Case</i>. (Images reproduced with permission from Dave Chua and Koh Hong Teng.)
-</div>
+<img src="/images/Vol%207%20issue%204/GraphicNovels/handout17.jpg" style="width:80%;">
+ <div style="background-color: white;">Handout given to the experiment’s Treatment group. Students were asked to answer a set of questions based on some extracts from the graphicnovel adaptation of Dave Chua’s <i>Gone Case. (Images reproduced with permission from Dave Chua and Koh Hong Teng.)</i></div>
 
 Immediately after the lesson, students in both groups were given a post-test where they wrote brief descriptive responses to the same question given in the pre-test. They were assessed with the same rubric. A survey was conducted after the post-test to find out what the students thought about the lesson.
 
