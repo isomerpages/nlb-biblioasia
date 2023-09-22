@@ -21,7 +21,7 @@ The blast left a crater 2 m across and 1 m deep, and blew a brick wall apart. It
 
 #### **Bomb Blast at Sennett Estate**
 
-This was not the first effort by Indonesian saboteurs to target Singapore. It was, in fact, the fourth such attack. There had been three relatively smaller blasts at Katong Park on 24 September, 26 September and 6 October earlier that year, but those explosions did not cause fatalities and the media was mystified as to the motives of the bombers. The deaths of the two men made it clear, however, that the bombings were “part of an organised campaign of terror” involving a “bomber, mad or sane” who “knows a great about explosives”.[^2]
+This was not the first effort by Indonesian saboteurs to target Singapore. It was, in fact, the fourth such attack. There had been three relatively smaller blasts at Katong Park on 24 September, 26 September and 6 October earlier that year, but those explosions did not cause fatalities and the media was mystified as to the motives of the bombers. The deaths of the two men made it clear, however, that the bombings were “part of an organised campaign of terror” involving a “bomber, mad or sane” who “knows a great deal about explosives”.[^2]
 
 Following this blast, security measures at key installations were stepped up and an islandwide manhunt operation commenced.[^3] On 20 December, 19-year-old Shairy Aman, alias Hitam, was arrested at Queen’s Theatre in Geylang, and 10 days later, Amat Junit, alias Ahmad Toh, 20, was picked up at Kampong Amber.[^4]
 
