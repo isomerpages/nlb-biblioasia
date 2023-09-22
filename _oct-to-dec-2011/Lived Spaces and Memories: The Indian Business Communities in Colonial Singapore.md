@@ -40,7 +40,10 @@ The two main areas of trading for the Indian merchants during colonial times wer
 
 The textile trade was another stronghold of the Indian trading community. One of the earliest pioneers of the Indian business communities, Rajabali Jumabhoy describes these merchants as he found them in Singapore:
 
-"The textile merchants and the sarong merchants were mostly in Arab Street, Beach Road, Kandahar Street and Bussorah and the surrounding areas; whilst North Bridge Road from Arab Street, right up to High Street, say about 30 per cent were Indians, dealing in consumer goods and textiles, shirts and so on …. [^27]"
+"The textile merchants and the sarong merchants were mostly in Arab Street, Beach Road, Kandahar Street and Bussorah and the surrounding areas; whilst North Bridge Road from Arab Street, right up to High Street, say about 30 per cent were Indians, dealing in consumer goods and textiles, shirts and so on …." [^27]
+
+<img src="/images/Vol%207%20issue%203/SpacesMemories/Dressmakers%20shop.jpeg" style="width:80%;">
+ <div style="background-color: white;">A dressmakers’ shop front on High Street, c.1945. <i>Courtesy of David Turner.</i></div>
 
 Most of the Gujarati and Sindhi communities participated in the lucrative textile business. The first known Sindhi firm in Singapore was Wassiamall Assomull, which opened its branches in 1873 along with one in Surabaya about the same time.[^28] Jhamatmal Gurbamall, was established in the 1880s by Jhamatmal Gurbamal Melwani who went to Medan from Singapore and made a large fortune in the textile business.[^29] The Chotirmals, Melwanis, Chanrais, Chellarams, and Jashanmals were other prominent names who made their fortunes in Singapore, Hong Kong, Dubai and different other parts of the globe. Markovits pointed out: “The Sindhi merchants’ privileged connections with the big Japanese firms allowed them to steal a march on their competitors in the 1930s and to start emerging as a community of particular importance.”[^30] Among the Punjabis, Gian Singh Co. was a popular departmental store. The Bajaj brothers and Hardial Singh were some of the other well-known Punjabi names in business. The Parsis also had a considerable presence in Singapore. Some names like Mistri Road and Parsi Road are named after them.[^31]
 
