@@ -4,11 +4,11 @@ permalink: /vol-7/issue-3/oct-dec-2011/malayan-cookery-book/
 description: Senior Librarian Bonny Tan details and offers insights into the
   1929 The “Mem’s” Own Cookery Book.
 ---
-#### Senior Librarian _Bonny Tan_ details and offers insights into the 1929 _The “Mem’s” Own Cookery Book_.
+#### Senior Librarian&nbsp;_Bonny Tan_&nbsp;details and offers insights into the 1929&nbsp;_The “Mem’s” Own Cookery Book_.
 
 <img style="width:80%;" src="/images/Vol%207%20issue%203/MalayanCookery/Indian%20men.jpg">
  <div style="background-color: white;">
-A 1863 photograph depicting two Indian men, in front of a fruit stall. The image was digitized from a Sachtler & Co. album entitled “Views and types of Singapore, 1863”. <i>From the Lee Kip Lin Collection. National Library Board, All rights reserved.</i></div>
+A 1863 photograph depicting two Indian men, in front of a fruit stall. The image was digitized from a Sachtler &amp; Co. album entitled “Views and types of Singapore, 1863”. <i>From the Lee Kip Lin Collection. National Library Board, All rights reserved.</i></div>
 
 
 **"[The] authoress confines herself to such dishes as can be prepared from readily obtainable materials locally, and which should prove to be within the capacity of even the usually "bodoh" \[ignorant\] specimen of cookie \[cook\]." (Untitled. (1922, May 5). *Straits Times*, p. 10, NL 494)"**
@@ -22,6 +22,10 @@ her recipes.
 
 #### **Colonial Food Conditions**
 
+<img src="/images/Vol%207%20issue%203/MalayanCookery/Mem's%20Own%20Cookery%20Book_Cover%20Pg.jpg" style="width:50%;">
+ <div style="background-color: white;">Cover of the 1929 edition of <i>The “Mems” Own Cookery Book.</i> All rights reserved. Kelly &amp; Walsh Ltd, Singapore, 1929.
+</div>
+
 Mrs Kinsey first published *The "Mems" Own Cookery Book* in 1920. The preface notes that the five years, from 1915 to 1919, of testing the recipes in Seremban where the authoress lived, was a "difficult period". The outbreak of World War I in Europe led to food shortages and inflated prices especially where luxury food items from the West were concerned. In fact, a certain "Gadfly" published *The Slump Cookery Book* in 1922 under the Methodist Publishing House to "show the mem fresh from home how to be most pleasantly economical ... in these hard times".[^5] Others in the East resorted to purchasing and cooking local meats, seafood and vegetables as an alternative to using imported foods to help manage their dwindling finances.[^6] This sense of frugality is reflected in Mrs Kinsey's recipes where she often gives the estimated cost of the main ingredient and suggests local alternatives as well as pointing to local Asian stores where the ingredients may be purchased much more cheaply.
 
 The war, however, brought a new appreciation of good cooking as many young British soldiers who had served in France began to savour the richness of French cuisine and in turn, noted the lack of it in their local meals.[^7] Improved technologies during this time allowed a wider range of food to be imported and prepared. Mrs Kinsey suggests a number of recipes using tinned foods,[^8] a process which had long been a means of preserving food from back home. Gas cooking was introduced to Malaya as early as 1900[^9] and was then promoted as an economical means of food preparation. However, it was refrigeration which revolutionised the kinds of dishes served in homes and restaurants. Foods previously vulnerable to the tropical climate could now remain fresh on the long sea journey to the East.
@@ -33,9 +37,9 @@ The Cold Storage, a famed supermarket chain today, was registered in 1903. Its f
 
 <img style="width:50%;" src="/images/Vol%207%20issue%203/MalayanCookery/canned1.jpg">
  <div style="background-color: white;">Advertising for a tinned good (inside pages, Kinsey, 1929)
- </i></div>
+ </div>
 
-#### **Colonial Meals & Local Cooks**
+#### **Colonial Meals &amp; Local Cooks**
 
 Meal times forthe colonial family were often painfully monotonous, with the same dishes served up again and again, mostly for want of a variety of ingredients as well as a lack of skill. This was especially so in the estates "where the fare is usually simple and monotonous and the Chef equally so."[^13] In an article in the *Singapore Free Press*[^14], "Makan ada" encouraged the lady of the house to make a list of a variety of dishes, "then armed with this catalogue daily confront the Chinese Soyer [the local cook], and turning a deaf ear to all remonstrances say calmly, `Mesti bikin itu macham, lu ada pandai, choba.' ['You must follow this, you are clever enough, try it.']"[^15] The colonial cookery book became animportant aid in training both "mem" and her cook to whip up new and delicious dishes to tantalise the colonial family's taste buds using the same basic ingredients. Thus, Mrs Kinsey's book has seven recipes for *ikan kurau* alone (pp. 20—23), some merely distinguished by numbers, besides 24 recipes for sauces (pp. 111—118) and 9 recipes for preserves, pickles and chutneys (pp.120—125). She even has a listing of at least three recipes entitled "Remains of Cold Fish" (pp. 25—26) and "Remains f Cold Fowl" (pp. 84—85) each, along with several others t use leftovers as the main ingredient.
 
@@ -75,15 +79,15 @@ The author acknowledges with thanks Ai Ling Devadas, Editor of the Singapore Foo
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;">
 <center><b>Bonny Tan</b><br> Senior Librarian<br> Lee Kong Chian Reference Library<br>National Library</center></div>
 
 
 #### **REFERENCES**
 
 
-Barber, A. (2007). [_Malaysian moments: A pictorial retrospective_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13957166). Kuala Lumpur: AB&A. (Call no.: RSEA 959.5 BAR)
+Barber, A. (2007). [_Malaysian moments: A pictorial retrospective_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13957166). Kuala Lumpur: AB&amp;A. (Call no.: RSEA 959.5 BAR)
 
 Goh, C.B. (2003). [_Serving Singapore: A hundred years of Cold Storage, 1903–2003_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11900478). Singapore: Cold Storage. (Call no.: RSING 381.148095957 GOH)
 
@@ -125,7 +129,7 @@ Tregonning, K.G. (1967). [_The Singapore Cold Storage, 1903–1966_](https://ese
 
 #### **NOTES**
 
-[^1]: “The wanderer”. (1933, September 10).  [Mainly about Malayans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330910-1.2.27). _The Straits Times_, p. 5.
+[^1]: “The wanderer”. (1933, September 10). &nbsp;[Mainly about Malayans](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330910-1.2.27). _The Straits Times_, p. 5.
 
 [^2]: “Mem” was a term of address used by employees of a colonial family for the lady of the house. It is a corruption of “Madam” and often used in conjunction with “Sahib” the Indian term of address for the man of the house – thus “mem” is a shortened form of “memsahib” commonly used amongst the British colonials in India.
 
@@ -168,7 +172,3 @@ Tregonning, K.G. (1967). [_The Singapore Cold Storage, 1903–1966_](https://ese
 [^21]: Bear Brand Unsweetened Swiss Milk advertising in the month of March 1930 in _[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300303-1.2.2.1)_.
 
 [^22]: Unfortunately, the Library does not hold a copy of this.
-
-
-
-
