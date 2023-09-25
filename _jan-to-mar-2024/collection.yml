@@ -2,6 +2,7 @@ collections:
   jan-to-mar-2024:
     output: true
     order:
+      - "Konfrontasi: Singapore’s Experience of an Undeclared War.md"
       - Restoring Classic Films from Asia.md
       - The Curious Visit of Qing Ambassadors to Singapore.md
       - An Interview with Rachel Heng, Author of The Great Reclamation.md
