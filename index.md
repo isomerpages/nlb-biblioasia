@@ -764,5 +764,7 @@ sections:
       description: Opposing the formation of the Federation of Malaysia, Indonesia
         waged a three-year armed conflict against Malaysia and Singapore.
       button: Button Text
-      alt: Image alt text
+      alt: Konfrontasi
+      url: /vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/
+      image: /images/Vol 19 Issue 4/3 Konfrontasi/new sph 2305605v_img 1.png
 ---
