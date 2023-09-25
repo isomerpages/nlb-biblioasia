@@ -5,7 +5,7 @@ description: Librarians Michelle Heng, Ng Hui Ling and Mazelan Anuar bring us up
   to speed on what’s new on NewspaperSG, a digital archive of Singapore and
   Malaya newspapers dating back to 1831.
 ---
-#### Librarians _Michelle Heng_, _Ng Hui Ling_ and _Mazelan Anuar_ bring us up to speed on what’s new on NewspaperSG, a digital archive of Singapore and Malaya newspapers dating back to 1831.
+#### Librarians&nbsp;_Michelle Heng_,&nbsp;_Ng Hui Ling_&nbsp;and&nbsp;_Mazelan Anuar_&nbsp;bring us up to speed on what’s new on NewspaperSG, a digital archive of Singapore and Malaya newspapers dating back to 1831.
 
 
 <img style="width:50%;" src="/images/Vol%207%20issue%203/NewspaperSG/straitstimes_separation.jpg">
@@ -57,20 +57,18 @@ In its lifetime, *Lianhe Zaobao* has set a number of firsts. In 1991, it became 
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">Para pengguna kini boleh mencari artikel <i>Berita Harian</i> yang diterbitkan antara 1970 sehingga 1979 di dalam NewspaperSG (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>). Mereka boleh menyimpan pautan artikel untuk rujukan masa datang dan juga berkongsi maklumat melalui alat media sosial seperti <a href="https://www.facebook.com/BeritaHarianSG/">https://www.facebook.com/BeritaHarianSG/</a> dan <a href="https://twitter.com/beritahariansg?lang=en">https://twitter.com/beritahariansg?lang=en</a>.</div>
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Michelle%20Heng.jpg"><center><b>Michelle Ng</b><br> Librarian<br> Lee Kong Chian Reference Library<br> National Library</center><br></div>
 <div>
-<b>Michelle Ng</b><br> Librarian<br> Lee Kong Chian Reference Library<br> National Library<br><br></div>
-	
-<div>
-<b>Ng Hui Ling</b><br> Associate Librarian<br> Lee Kong Chian Reference Library<br> National Library<br><br></div>
-
-
-<div>
-<b>Mazelan Anuar</b> <br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library
+<center><b>Ng Hui Ling</b><br> Associate Librarian<br> Lee Kong Chian Reference Library<br> National Library</center><br></div>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Mazelan_Anuar.png"><center><b>Mazelan Anuar</b> <br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center>
 </div>
-
 	
 #### **REFERENCES**
-
    
 
 杨瑞锋. (2008, 08 06). 20年交往 交织出联系大 网. Retrieved 05 19, 2011, from 联合早报: http://www.zaobao.com.sg/special/singapore/ pages4/zaobao85080906h.shtml
