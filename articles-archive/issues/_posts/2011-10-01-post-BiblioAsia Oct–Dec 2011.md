@@ -24,7 +24,7 @@ Suprajitno* investigates the predicament faced by Buddhism in Indonesia through 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-3/oct-dec-2011/malayan-cookery-book/">Malayan Cookery Books: The "Mems" Own Cookery Book (1929)</a><br> Senior Librarian *Bonny Tan* details and offers insights into the 1929 *The “Mem’s” Own Cookery Book*. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Malayan-Cookery.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-3/oct-dec-2011/traditional-chinese-medicine/">悠悠百年路 漫漫世纪情 – 传统中医药文化在新加坡</a><br>Senior Reference Librarian *Vicky Gao* highlights materials on Traditional Chinese Medicine available at the Lee Kong Chian Reference Library. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Chinese.pdf)
+悠悠百年路 漫漫世纪情 – 传统中医药文化在新加坡<br>Senior Reference Librarian *Vicky Gao* highlights materials on Traditional Chinese Medicine available at the Lee Kong Chian Reference Library. [(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_Chinese.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-3/oct-dec-2011/gotong-royong-kampung-life/">iremembersg: Gotong Royong in the Kampung Life</a><br>Singaporeans remember what life was like in their *kampung* days.[(PDF)](/files/pdf/vol-7/issue-3/v7-issue3_IRememberSg.pdf)
 
