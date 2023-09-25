@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/
-      button: THE STORY OF A CHAPPELL GRAND PIANO
+      url: vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/
+      button: "The Victor Book for Boys: Operation Jaywick"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/hero_img_grand chappell piano.jpg
+      background: /images/Vol 19 Issue 2/Operation Jaywick/operation_jaywick_hero_img.jpg
   - infopic:
       title: Restoring Classic Films from Asia
       subtitle: Film and Photography

@@ -6,7 +6,7 @@ description: Lee Kong Chian Research Fellow Setefanus Suprajitno investigates
   the predicament faced by Buddhism in Indonesia through studying the Chinese
   Indonesian Buddhist community in Surabaya
 ---
-#### Lee Kong Chian Research Fellow _Setefanus Suprajitno_ investigates the predicament faced by Buddhism in Indonesia through studying the Chinese Indonesian Buddhist community in Surabaya.
+#### Lee Kong Chian Research Fellow&nbsp;_Setefanus Suprajitno_&nbsp;investigates the predicament faced by Buddhism in Indonesia through studying the Chinese Indonesian Buddhist community in Surabaya.
 
 <img style="width:50%;" src="/images/Vol%207%20issue%203/CulturalReligious/Surabaya.jpg">
  <div style="background-color: white;">Downtown Surabaya. <i>Dina Kosasih (flickr.com/photos/dinadkosasih/)
@@ -29,6 +29,8 @@ Historical records show that Buddhism has been in Indonesia for centuries. A wel
  <div style="background-color: white;">Borobudur, the 9th century Mahayana Buddhist monument near Magelang, Central Java, Indonesia. c.1800s. <i>Courtesy of The British Library.</i></div>
 
 However, the fall of the last Hindu-Buddhist kingdom in the 15th century and the spread of Islam changed the religious landscape in the archipelago and ushered in the demise of Buddhism (Barnes, 1995, p. 171). Nevertheless, Buddhist influence still remains, at least in the Javanese people’s worldview and in the form of their traditional beliefs and rituals such as meditation, known as *kejawen* (Javanese mysticism). Anthropologist Niels Mulder writes that many aspects of Javanese mysticism inform Javanese “ethics, customs, and style” and “are generally thought to hark back to the Hindu-Buddhist period of Javanese history” (2005, p. 16). Another scholar, Robert W. Hefner, states that Hindu-Buddhist traditions still survive in Islamised Java (1983, p. 666). With these deep roots into society, how can Buddhism still face problems in modern Indonesia? The answer lies in the history of the reappearance of Buddhism.
+<img src="/images/Vol%207%20issue%203/CulturalReligious/Dwarapala.jpg" style="width:100%;">
+ <div style="background-color: white;">A statue of <i>Dvarapala</i> outside the gate of a Chinese Mahayana Temple in Surabaya. In Javanese Hinduism and Buddhism,<i> Dvarapala</i> is an entranceway guardian typically placed outside a palace or a temple. <i>Photo taken by the author.</i></div>
 
 Buddhism started to resurface in the 17th century, although it was mixed with Daoism and Confucianism, thanks to the influx of Chinese immigrants in Indonesia. They brought their beliefs and established places of worship. The first Chinese Buddhist temple, named *Jin De Yuan* (also known today as *Dharma Bhakti vihara*), was built in 1650 in the Glodok area of Jakarta (Salmon, 2003, p. 18). Since then, Buddhism has grown in tandem with the Chinese community in Indonesia — mixed with Chinese traditional beliefs. In order to cater to the spiritual needs of the Chinese, more Chinese Buddhist temples were built.
 
@@ -44,6 +46,9 @@ Although there are natives who have embraced Buddhism, “the vast majority of t
 Furthermore, Chinese culture was depicted as having destructive influences and as being inappropriate for Indonesians. In this political environment, the association with the Chinese was detrimental for Buddhism. In order to survive and grow in post-independence Indonesia, Buddhism needed to be able to attract other ethnic groups.
 
 How does Buddhism in post-colonial Indonesia dissociate itself from the label of being a primarily-Chinese religion? In no small part because of the historical entanglements described above, contemporary Buddhism has to show that it is a religion that transcends ethnic boundaries.
+
+<img src="/images/Vol%207%20issue%203/CulturalReligious/snake2.jpg" style="width:80%;">
+ <div style="background-color: white;">Javanese-style dragon in a Chinese Buddhist temple in Madura, an island off the coast of Java. <i>Photo taken by the author.</i></div>
 
 #### **Transcending Ethnic Boundaries**
 
@@ -93,8 +98,8 @@ The author acknowledges with thanks Professor Esther H. Kuntjara from the Depart
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%207%20issue%203/CulturalReligious/Setefanus.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%207%20issue%203/CulturalReligious/Setefanus.jpg" style="width: 100px; height: 100px;">
 <center><b>Setefanus Suprajitno</b><br>Lee Kong Chian Research Fellow 2010<br>National Library</center> </div>
 
 #### **REFERENCES**
@@ -117,7 +122,7 @@ Kuah-Pearce, K.E. (2009). [_State, society and religious engineering: Towards a 
 
 Mulders, N. (2005). [_Mysticism in Java: Ideology in Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12858961). Yogyakarta: Penerbit Kanisius. (Call no.: RSEA 291.422095982 MUL)
 
-Salmon, C., & Lombard, D. (2003). [_Klenteng-klenteng dan masyarakat Tionghoa di Jakarta_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12224644) \[_Chinese temple in Jakarta_\]. Jakarta: Yayasan Cipta Loka Caraka. (Call no.: Malay R 294.3435 SAL)
+Salmon, C., &amp; Lombard, D. (2003). [_Klenteng-klenteng dan masyarakat Tionghoa di Jakarta_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12224644) \[_Chinese temple in Jakarta_\]. Jakarta: Yayasan Cipta Loka Caraka. (Call no.: Malay R 294.3435 SAL)
 
 Shangharakshita. (2001). [_A survey of Buddhism: Its doctrine and methods through the ages_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10512076). Birmingham: Windhorse Publication. (Call no.: R 294.3 SAN)
 

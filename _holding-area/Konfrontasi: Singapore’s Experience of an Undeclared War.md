@@ -9,7 +9,7 @@ image: /images/Vol 19 Issue 4/3 Konfrontasi/sph 2305605v_img 1.png
 By Alvin Tan
 
 
-![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/sph%202305605v_img%201.png)
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/new%20sph%202305605v_img%201.png)
 <div style="background-color: white;">The Ford Consul in Sennett Estate was rendered a twisted heap of metal after the bomb planted beneath it exploded on 9 December 1963. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i> </div>
 
 
@@ -21,18 +21,15 @@ The blast left a crater 2 m across and 1 m deep, and blew a brick wall apart. It
 
 #### **Bomb Blast at Sennett Estate**
 
-This was not the first effort by Indonesian saboteurs to target Singapore. It was, in fact, the fourth such attack. There had been three relatively smaller blasts at Katong Park on 24 September, 26 September and 6 October earlier that year, but those explosions did not cause fatalities and the media was mystified as to the motives of the bombers. The deaths of the two men made it clear, however, that the bombings were “part of an organised campaign of terror” involving a “bomber, mad or sane” who “knows a great about explosives”.[^2]
+This was not the first effort by Indonesian saboteurs to target Singapore. It was, in fact, the fourth such attack. There had been three relatively smaller blasts at Katong Park on 24 September, 26 September and 6 October earlier that year, but those explosions did not cause fatalities and the media was mystified as to the motives of the bombers. The deaths of the two men made it clear, however, that the bombings were “part of an organised campaign of terror” involving a “bomber, mad or sane” who “knows a great deal about explosives”.[^2]
 
 Following this blast, security measures at key installations were stepped up and an islandwide manhunt operation commenced.[^3] On 20 December, 19-year-old Shairy Aman, alias Hitam, was arrested at Queen’s Theatre in Geylang, and 10 days later, Amat Junit, alias Ahmad Toh, 20, was picked up at Kampong Amber.[^4]
 
 On 16 April 1964, Shairy and Amat revealed in court that they, together with their handler Nordin Lemon, and another man, had initially intended to bomb more strategic targets. On 8 December 1963, the four set out in a car to plant explosives in two locations: Shairy had gotten off at Bukit Timah to blow up water pipes, while the other three drove on to Bukit Timah Railway Station. “Our intention in going to the station was to blow up the rail tracks,” said Nordin. However, both missions were aborted. Shairy admitted that “he had been afraid to explode the bomb” at the water pipes, while there were police officers at the railway station. The next day, Amat suggested to Shairy to “go and explode the bomb” at Sennett Estate.[^5]
 
-![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/img0108_img%202.png)
-<div style="background-color: white;">Damage to Housing and Development Board flats after a bomb explosion at Jalan Rebong on 12 April 1964. <i>Ministry of Culture Collection, courtesy of National Archives of Singapore.</i> </div>
-
 Arriving at the targeted site, Amat planted the bomb under the Ford Consul in a lane behind a row of shophouses and lit the fuse with a lighted cigarette. Soon after they had driven off, the bomb exploded. The men had been told that “if they could not achieve their specified objectives they were to leave the explosives where their detonation would create alarm by their indiscriminate damage”. Some 20 to 25 pounds of explosives were used in the Sennett Estate blast.[^6]&nbsp;
 
-The two men who died had been watching a TV programme in a radio shop before returning to their nearby cigarette and sundries stall. At some point, they might have “heard a sizzling noise or \[had\] seen a short length of burning fuse under a blue Ford Consul” and paid for it dearly. The bodies of the two men, badly mangled, were found in a garage about 20 feet away.[^7]
+The two men who died had been watching a TV programme in a radio shop before returning to their nearby cigarette and sundries stall. At some point, they might have “heard a sizzling noise or \[had\] seen a short length of burning fuse under a blue Ford Consul” and paid for it dearly. The bodies of the two men, badly mangled, were found in a garage about 6 m away.[^7]
 
 #### **Reasons for Konfrontasi**
 
@@ -58,14 +55,19 @@ In 1964 alone, 18 explosions swept through Singapore and encompassed targets lik
 
 On 27 March, a bomb exploded outside the perimeter fence of the Istana, near the Bukit Timah filter works, damaging some 4 m of the fence and shattering window panes within a 350-metre radius. Two people were killed and six were injured when a bomb went off on 12 April at 8:05 pm at a block of Housing and Development Board flats on Jalan Rebong, off Changi Road. The victims – Aishah Bee Abdullah, 50, and her 16-year-old daughter Sharifon, a student at Tanjong Katong Girls’ School – were watching television in a wooden house 9 m away when the blast killed them.[^20]
 
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/img0108_img%202.png)
+<div style="background-color: white;">Damage to Housing and Development Board flats after a bomb explosion at Jalan Rebong on 12 April 1964. <i>Ministry of Culture Collection, courtesy of National Archives of Singapore.</i> </div>
+
+
 On 23 May and 21 July, Indonesian saboteurs attempted to blow up Merdeka Bridge. The bridge suffered only slight damage but police, in response to the second blast, “said that the obvious intention was to blow a hole through the bridge”.[^21]
 
 The bombing of MacDonald House, however, was the deadliest and most well-known attack. At 3.07 pm on 10 March 1965, a bomb exploded at the 10-storey building on Orchard Road – then one of the tallest in Singapore and the first fully air-conditioned office building in Singapore and Southeast Asia.[^22] The bomb, which had been placed on the mezzanine floor near the lift, injured at least 33 people and claimed three casualties: Suzie Choo, 36, the private secretary to the manager of Hong Kong and Shanghai Bank, and Juliet Goh, 32, a filing clerk at the bank, died on the spot. Mohammed Yasin Kesit, 43, a driver for the Malaya Borneo Building Society, died a few days later. “Many others – in the bank and on the road – fell like ninepins, many seriously injured. Every window within a hundred yards was shattered and almost every car outside the building and across the road was damaged,” reported the _Straits Times_.[^23]
 
-![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/boom_img%208.png)
-<div style="background-color: white;">(Left) The bomb explosion at MacDonald House on 10 March killed two women instantly and injured at least 33 other people. One man died a few days later. <i>Source: The Straits Times, 11 March 1965 © SPH Media Limited. Permission required for reproduction.</i>
-<br>
-(Right) Damage from the bomb explosion at MacDonald House on 10 March 1965. The concrete wall separating the stairway and correspondence room of the Hongkong and Shanghai Bank was blown apart by the bomb, exposing the car park on the other side. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/newspaper_img%2010.png)
+<div style="background-color: white;"> The bomb explosion at MacDonald House on 10 March 1965 killed two women instantly and injured at least 33 other people. One man died a few days later. <i>Source: The Straits Times, 11 March 1965 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/pcd0058_img0052_img%209.png)
+<div style="background-color: white;"> Damage from the bomb explosion at MacDonald House on 10 March 1965. The concrete wall separating the stairway and correspondence room of the Hongkong and Shanghai Bank was blown apart by the bomb, exposing the car park on the other side. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 Two Indonesian commandos, Osman Haji Mohamed Ali, 25, and Harun Said, 21, were arrested and charged in court. They were sentenced to death on 20 October 1965, and their execution by hanging on 17 October 1968 would cast a pall over relations between Singapore and Indonesia in the years to come.[^24]
 
@@ -85,6 +87,9 @@ Security operations were crucial in uncovering Indonesian saboteurs and their mu
 As the number of bomb blasts mounted in early 1964, the government enrolled volunteers for the newly mustered Vigilante Corps (VC) on 23 April 1964. The VC was tasked to guard against Indonesian saboteurs and infiltrators, protect vital installations and patrol crowded public areas. In less than a month, 14,022 people had signed up. Having been put through the paces on the intricacies of the law, first aid and unarmed combat, the first 10,000 VC volunteers were deployed on 16 June 1964. Once a week, these volunteers went on three-hour patrol in small teams at night, securing their neighbourhoods. Although lightly armed and equipped with just staves, flashlights and a VC armband, their presence provided a visible deterrent and sense of security.[^30]
 
 Singapore also sent troops to Peninsular Malaysia and Borneo. Its small army – comprising 1st and 2nd Battalions, Singapore Infantry Regiment (1 SIR and 2 SIR) – was fully deployed in combat operations. Eight soldiers from 2 SIR were killed and five injured when they were ambushed by Indonesian infiltrators on 28 February 1965 during a deployment 20 miles inland from the Kota Tinggi coast.[^31] In the aftermath, a large-scale operation was mounted to hunt down and eliminate the infiltrators.
+
+![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/new%20img0802_img%206.png)
+<div style="background-color: white;">Men from the 2nd Battalion, Singapore Infantry Regiment, standing guard at their tactical headquarters in Kota Tinggi, Johor, in April 1965 during the follow-up operation to hunt down Indonesian infiltrators. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i> </div>
 
 When the operation ended six weeks later in April, 37 Indonesian infiltrators had been killed and at least 33 captured, many by the men of 2 SIR who acquitted themselves with distinction.[^32] On 5 May 1965, Prime Minister Lee Kuan Yew paid tribute to the soldiers for “excelling” in operations against Indonesian guerrillas in Sabah and Johor. “You have carried the name of Singapore very high among the States of Malaysia,” he told some 300 men of the regiment at a reception at Sri Temasek to congratulate them on their success. “Your operations in Sabah and Johore proved that city life did not make you less rugged than rural folks,” he added.[^33]
 
@@ -106,8 +111,6 @@ Titled the “Challenge of Confrontation”, the exhibition was opened by Cultur
 
 Sukarno, already discredited by an abortive coup in October 1965, was finally deposed by General Suharto on 11 March 1966.[^40] Under Suharto, Indonesia changed course in its foreign policy and rejoined the United Nations in April 1966. In the following month, Suharto signalled his desire to end Konfrontasi and Adam Malik, the new foreign minister, met Malaysia’s Deputy Prime Minister Tun Abdul Razak on 29 May in Tokyo.[^41] In June 1966, Jakarta recognised Singapore’s independence from Malaysia. On 12 August 1966, Konfrontasi formally ended after Indonesia and Malaysia concluded a peace treaty.[^42]
 
-![](/images/Vol%2019%20Issue%204/3%20Konfrontasi/img0802_img%206.png)
-<div style="background-color: white;">Men from the 2nd Battalion, Singapore Infantry Regiment, standing guard at their tactical headquarters in Kota Tinggi, Johor, in April 1965 during the follow-up operation to hunt down Indonesian infiltrators. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i> </div>
 
 The peace treaty, however, did not completely reset relations between Singapore and Jakarta. That had to wait until 1973. On 28 May that year, Prime Minister Lee Kuan Yew visited the Kalibata Heroes Cemetery in South Jakarta as part of his trip to Indonesia. With solemn music playing in the background, Lee “was escorted to sprinkle flowers” on the graves of Indonesian generals who had fallen during the 30 September 1965 coup. Twenty metres away were the graves of two Indonesian marines – Osman Haji Mohamed Ali and Harun Said – who were hanged in Singapore on 17 October 1968 for their part in the MacDonald House bombing. Lee then walked over to their graves and “sprinkled flowers on them”. This action, praised by Indonesian newspapers as a “magnanimous gesture”, touched the Indonesian people deeply and turned the final page on an unhappy episode in the history of both countries.[^43]
 
@@ -131,7 +134,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^2]: Abdul Fazil, “[Hunt for Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631211-1.2.2).”
 
-[^3]: “[Soekarno’s 3-pronged Offensive – by the Tengku](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631212-1.2.85),” _Straits Times_, 12 December 1963, 12; “[Hunt for Mysterious Bomber Continues](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631213-1.2.48),” _Straits Times_, 13 December 1963, 11; “[Police Combing Sennett Estate for Bomb Man](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631215-1.2.20.12),” _Straits Times_, 15 December 1963, 3. (From NewspaperSG)
+[^3]: “[Soekarno’s 3-Pronged Offensive – by the Tengku](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631212-1.2.85),” _Straits Times_, 12 December 1963, 12; “[Hunt for Mysterious Bomber Continues](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631213-1.2.48),” _Straits Times_, 13 December 1963, 11; “[Police Combing Sennett Estate for Bomb Man](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631215-1.2.20.12),” _Straits Times_, 15 December 1963, 3. (From NewspaperSG)
 
 [^4]: “[Two on Bombing Charge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640512-1.2.21),” _Straits Times_, 12 May 1964, 4. (From NewspaperSG)
 
@@ -181,7 +184,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^27]: Peter Hennessy and James Jinks, _[The Silent Deep: The Royal Navy Submarine Service Since 1945](https://nlb.overdrive.com/media/2464907)_, e-book. (London: Penguin, 2015), 553. (From NLB OverDrive)
 
-[^28]: Hennessy and Jinks, _[The Silent Deep_](https://nlb.overdrive.com/media/2464907)_, 553.
+[^28]: Hennessy and Jinks, _[The Silent Deep](https://nlb.overdrive.com/media/2464907)_, 553.
 
 [^29]: Abisheganaden, “[‘Assassinate the Tengku’ Order](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640423-1.2.2).”
 
