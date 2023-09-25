@@ -111,7 +111,7 @@ The government also acted to educate the public about Konfrontasi. On 20 July 19
 Titled the “Challenge of Confrontation”, the exhibition was opened by Culture Minister S. Rajaratnam on 2 October 1964, and showcased captured Indonesian automatic weapons, parachutes and kits, all “under the watchful eyes of police guards”. In total, 337,000 people visited the exhibition at the Victoria Memorial Hall, which then travelled to community centres to allow more people to see it.[^39]
 
 <img src="/images/Vol%2019%20Issue%204/3%20Konfrontasi/19980000445%20img0046.jpg" style="width:80%;">
-<div style="background-color: white;"><br>
+<div style="background-color: white;">
 <img src="/images/Vol%2019%20Issue%204/3%20Konfrontasi/19980000445%20img0044.jpg" style="width:80%;">
 <div style="background-color: white;">	
 A display of bomb equipment (detonators, fuses and detonating wire) and captured firearms at the "Challenge of Confrontation" exhibition at the Victoria Memorial Hall, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>	 
