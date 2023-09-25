@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/Operation Jaywick/operation_jaywick_hero_img.jpg
   - infopic:
+      title: "Konfrontasi: Singapore's Experience of an Undeclared War"
+      subtitle: WAR
+      id: infopic
+      description: Opposing the formation of the Federation of Malaysia, Indonesia
+        waged a three-year armed conflict against Malaysia and Singapore.
+      button: Button Text
+      alt: Konfrontasi
+      url: /vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/
+      image: /images/Vol 19 Issue 4/3 Konfrontasi/img0101_img 5.png
+  - infopic:
       title: Restoring Classic Films from Asia
       subtitle: Film and Photography
       id: infopic
