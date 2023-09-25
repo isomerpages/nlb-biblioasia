@@ -117,7 +117,6 @@ Titled the “Challenge of Confrontation”, the exhibition was opened by Cultur
 A display of bomb equipment (detonators, fuses and detonating wire) and captured firearms at the "Challenge of Confrontation" exhibition at the Victoria Memorial Hall, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>	 
 </div>
 
-
 #### **The End of Konfrontasi**
 
 Sukarno, already discredited by an abortive coup in October 1965, was finally deposed by General Suharto on 11 March 1966.[^40] Under Suharto, Indonesia changed course in its foreign policy and rejoined the United Nations in April 1966. In the following month, Suharto signalled his desire to end Konfrontasi and Adam Malik, the new foreign minister, met Malaysia’s Deputy Prime Minister Tun Abdul Razak on 29 May in Tokyo.[^41] In June 1966, Jakarta recognised Singapore’s independence from Malaysia. On 12 August 1966, Konfrontasi formally ended after Indonesia and Malaysia concluded a peace treaty.[^42]
