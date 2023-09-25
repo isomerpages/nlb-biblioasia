@@ -23,6 +23,9 @@ The blast left a crater 2 m across and 1 m deep, and blew a brick wall apart. It
 
 This was not the first effort by Indonesian saboteurs to target Singapore. It was, in fact, the fourth such attack. There had been three relatively smaller blasts at Katong Park on 24 September, 26 September and 6 October earlier that year, but those explosions did not cause fatalities and the media was mystified as to the motives of the bombers. The deaths of the two men made it clear, however, that the bombings were “part of an organised campaign of terror” involving a “bomber, mad or sane” who “knows a great deal about explosives”.[^2]
 
+<img src="/images/Vol%2019%20Issue%204/3%20Konfrontasi/19980000539%20-%20img0023_1.jpg" style="width:50%;">
+ <div style="background-color: white;">The police gathering evidence after a bomb explosion at Katong Park on 26 September 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Following this blast, security measures at key installations were stepped up and an islandwide manhunt operation commenced.[^3] On 20 December, 19-year-old Shairy Aman, alias Hitam, was arrested at Queen’s Theatre in Geylang, and 10 days later, Amat Junit, alias Ahmad Toh, 20, was picked up at Kampong Amber.[^4]
 
 On 16 April 1964, Shairy and Amat revealed in court that they, together with their handler Nordin Lemon, and another man, had initially intended to bomb more strategic targets. On 8 December 1963, the four set out in a car to plant explosives in two locations: Shairy had gotten off at Bukit Timah to blow up water pipes, while the other three drove on to Bukit Timah Railway Station. “Our intention in going to the station was to blow up the rail tracks,” said Nordin. However, both missions were aborted. Shairy admitted that “he had been afraid to explode the bomb” at the water pipes, while there were police officers at the railway station. The next day, Amat suggested to Shairy to “go and explode the bomb” at Sennett Estate.[^5]
@@ -106,6 +109,14 @@ Training and reskilling plans were also in place should the economic situation p
 The government also acted to educate the public about Konfrontasi. On 20 July 1964, Woon Wah Siang, permanent secretary at the Ministry of Culture, sent a missive to the commissioner of police, the director of the Special Branch, and heads of the Housing and Development Board and Public Utilities Board, among others. He asked them to organise an exhibition to “bring home to the people through visual means the challenge of confrontation”. It would show “both Indonesian aggressive intentions towards Malaysia” and the countermeasures deployed.[^38] &nbsp;
 
 Titled the “Challenge of Confrontation”, the exhibition was opened by Culture Minister S. Rajaratnam on 2 October 1964, and showcased captured Indonesian automatic weapons, parachutes and kits, all “under the watchful eyes of police guards”. In total, 337,000 people visited the exhibition at the Victoria Memorial Hall, which then travelled to community centres to allow more people to see it.[^39]
+
+<img src="/images/Vol%2019%20Issue%204/3%20Konfrontasi/19980000445%20img0046.jpg" style="width:50%;">
+<div style="background-color: white;"><br>
+<img src="/images/Vol%2019%20Issue%204/3%20Konfrontasi/19980000445%20img0044.jpg" style="width:50%;">
+<div style="background-color: white;">	
+A display of bomb equipment (detonators, fuses and detonating wire) and captured firearms at the "Challenge of Confrontation" exhibition at the Victoria Memorial Hall, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>	 
+</div>
+
 
 #### **The End of Konfrontasi**
 
