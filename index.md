@@ -757,4 +757,12 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: "Konfrontasi: Singapore's Experience of an Undeclared War"
+      subtitle: WAR
+      id: infopic
+      description: Opposing the formation of the Federation of Malaysia, Indonesia
+        waged a three-year armed conflict against Malaysia and Singapore.
+      button: Button Text
+      alt: Image alt text
 ---
