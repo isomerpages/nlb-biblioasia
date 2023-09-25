@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/
+      url: /vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/
       button: "The Victor Book for Boys: Operation Jaywick"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
