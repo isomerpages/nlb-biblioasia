@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/
-      button: THE STORY OF A CHAPPELL GRAND PIANO
+      url: vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/
+      button: A comic book on Operation Jaywickcc
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
