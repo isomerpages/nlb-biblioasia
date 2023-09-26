@@ -39,6 +39,7 @@ The oldest book held by the collection is a travel account, *The History of Trau
  <div style="background-color: white;">Scene of Raffles Square in the 1920s from <i>Sunny Singapore.</i> All Rights Reserved, Kelly &amp; Walsh, [192–].</div>
 
 The collection also contains titles, which depict the old scenes and landscapes of Singapore. Published in the 1920s in Singapore, the book *Sunny Singapore* illustrates the scenery and images of Singapore, which are now non-existent. The book is testimony to the changes and developments that Singapore has gone through.
+
 <img src="/images/vol-1-issue-1/GemsLibrary/rare%20materials-%20the%20golden%20chersonese1.jpg" style="width:80%;">
  <div style="background-color: white;">“The Author’s First Ride in Perak” from the book<i>The Golden Chersonese and the Way Thither.</i> All Rights Reserved, Murray, 1883.</div>
 
@@ -55,6 +56,7 @@ Another interesting title is *Cermin Mata*, a Malay journal compiled by Benjamin
 An important source of Singapore’s early history is the *Hikayat Abdullah*, the lithographed autobiography of Munshi Abdullah bin Abdul Kadir. It was written in Jawi, between 1840 and 1843, and published in 1849. Munshi Abdullah was the interpreter and scribe to Singapore’s founder, Sir Stamford Raffles. Abdullah wrote about the events of his life relating to the activities in Singapore, which was slowly transforming from a sleepy fishing village into a major centre of world trade. He also described prominent British personalities and offered his observations on political and cultural events of that time. He is considered to be the father of modern Malay literature.
 
 *Chrita dahulu-kala* is a series of Peranakan literature written for the Peranakan Chinese. The first series was published in 1890s. They are actually old Chinese classics translated into Baba Malay and well illustrated with the characters from the Chinese classics.
+
 <img src="/images/vol-1-issue-1/GemsLibrary/almanac.jpg" style="width:80%;">
  <div style="background-color: white;">Pages from the<i> Singapore Almanack and Directory.</i> All Rights Reserved, Straits Times Press, 1846–69.</div>
  
@@ -85,6 +87,7 @@ The rare materials are kept in a special climate controlled room with a stable t
  <div style="background-color: white;">Picture of Newton Railway Station from <i>Souvenir of Singapore: A Descriptive and Illustrated Guide Book of Singapore.</i> All Rights Reserved, The Straits Times Press, 1905.</div>
 
 Titles in the Rare Materials Collection are listed as “RRARE” in the library’s online catalogue. For these materials, only the surrogate microfi lm copy or the digital copy is to be consulted. All microfilms are housed at the Singapore and Southeast Asia Collections, which is at Level 11 of the Lee Kong Chian Reference Library. The digitised versions of the rare books are available on Singapore Pages, which is accessible via the National Library Board’s Digital Library (<a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a>). In the event the physical copy is required to be consulted for research purposes, permission may be granted on a need basis by writing to the Deputy Director, Lee Kong Chian Reference Library.
+
 <img src="/images/vol-1-issue-1/GemsLibrary/capture.jpg" style="width:80%;">
  <div style="background-color: white;">Advertisement page from <i>Souvenir of Singapore: A Descriptive and Illustrated Guide Book of Singapore.</i> All Rights Reserved, The Straits Times Press, 1905.</div>
 
