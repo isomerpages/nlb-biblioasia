@@ -31,9 +31,12 @@ Usually a book achieves some degree of rarity based on its demand being greater 
 #### **Some Rare Titles...**
 
 <img src="/images/vol-1-issue-1/GemsLibrary/history%20of%20trauayle%2002.jpg" style="width:80%;">
- <div style="background-color: white;">Pages from <i>The History of Trauayle in the West and East Indies, and Other Countreys Lying Eyher Way, Towards the Fruitful and Ryche Moluccaes.</i>.All Rights Reserved, R. Iugge, 1577.</div>
+ <div style="background-color: white;">Pages from <i>The History of Trauayle in the West and East Indies, and Other Countreys Lying Eyher Way, Towards the Fruitful and Ryche Moluccaes.</i> All Rights Reserved, R. Iugge, 1577.</div>
 
 The oldest book held by the collection is a travel account, *The History of Trauayle in the West and East Indies, and Other Countreys Lying Eyher Way, Towards the Fruitful* and *Ryche Moluccaes*, that makes several references to this region, then known as the East Indies. Published in London in 1577, it was noted as the first comprehensive travel account of Asia to be published in English. Some sources mention it is one of the earliest travel narratives in English.
+
+<img src="/images/vol-1-issue-1/GemsLibrary/raffles%20square%201920s.jpg" style="width:80%;">
+ <div style="background-color: white;">Scene of Raffles Square in the 1920s from <i>Sunny Singapore.</i> All Rights Reserved, Kelly &amp; Walsh, [192–].</div>
 
 The collection also contains titles, which depict the old scenes and landscapes of Singapore. Published in the 1920s in Singapore, the book *Sunny Singapore* illustrates the scenery and images of Singapore, which are now non-existent. The book is testimony to the changes and developments that Singapore has gone through.
 
