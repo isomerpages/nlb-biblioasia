@@ -6,7 +6,7 @@ description: The Rare Materials Collection reflects Singapore’s literary and
   social heritage, and contains valuable historical research materials on
   Singapore and Southeast Asia.
 ---
- #### The Rare Materials Collection reflects Singapore’s literary and social heritage, and contains valuable historical research materials on Singapore and Southeast Asia.
+#### The Rare Materials Collection reflects Singapore’s literary and social heritage, and contains valuable historical research materials on Singapore and Southeast Asia.
  
  #### **Background**
  The Rare Materials Collection at the Lee Kong Chian Reference Library (LKCRL) is a prime collection that reflects Singapore’s literary and social heritage and contains valuable historical research materials on Singapore and Southeast Asia. Through these rare titles, we are offered a glimpse of the history of an island that is home to people of many races, persevering to make a living and to forge an identity. We also get a view of the scenes and landscapes of historical Singapore.
@@ -22,7 +22,12 @@ The collection comprises Jawi manuscripts, Malay and Southeast Asian dictionarie
 Usually a book achieves some degree of rarity based on its demand being greater than its supply. However such a broad definition can be very subjective. What constitutes a rare book is essentially the intrinsic importance of the book itself. In the context of Singapore, a rare book is one that is published in Singapore or the Straits Settlements before World War II. It has intrinsic value and is unique as most pre-1945 materials published in Singapore or the Straits Settlements have few extant copies. Books are also treated as rare if they are published in other countries before 1900, and contain information (the people, their languages, customs, lifestyles, etc.) on Singapore and the region, particularly those countries that have historical/cultural links.
 
 #### **Some Rare Titles...**
+The oldest book held by the collection is a travel account, *The History of Trauayle in the West and East Indies, and Other Countreys Lying Eyher Way, Towards the Fruitful* and *Ryche Moluccaes*, that makes several references to this region, then known as the East Indies. Published in London in 1577, it was noted as the first comprehensive travel account of Asia to be published in English. Some sources mention it is one of the earliest travel narratives in English.
 
+The collection also contains titles, which depict the old scenes and landscapes of Singapore. Published in the 1920s in Singapore, the book *Sunny Singapore* illustrates the scenery and images of Singapore, which are now non-existent. The book is testimony to the changes and developments that Singapore has gone through.
 
+One fascinating book is *The Golden Chersonese and the Way Thither*, written by the famous woman traveller of that time, Isabella Bird. Published in 1883, it contains her descriptions and observations of the places she visited, which included the Far East and the Malay Peninsula, including Singapore. The book is a compilation of letters she wrote to her sister, and describes amongst others, local manners and customs and the flora and fauna of the places she visited as well as the growth of Singapore.
+
+Another interesting title is *Cermin Mata*, a Malay journal compiled by Benjamin Peach Keaseberry, a missionary from 1859. Containing a mixture of Christian tracts, general knowledge and original writings of Munshi Abdullah, it is one of the first Malay journals to be published in Singapore.
 
 
