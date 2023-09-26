@@ -7,6 +7,9 @@ description: The Rare Materials Collection reflects Singapore’s literary and
   Singapore and Southeast Asia.
 ---
 #### The Rare Materials Collection reflects Singapore’s literary and social heritage, and contains valuable historical research materials on Singapore and Southeast Asia.
+
+<img src="/images/vol-1-issue-1/GemsLibrary/logan's%20journals%20in%20a%20row.jpg" style="width:80%;">
+ <div style="background-color: white;"><i>The Journal of the Indian Archipelago and Eastern Asia</i>, edited by J.R. Logan, 1847–1855 is the first scientific journal published in Singapore with valuable information for research on the region.</div>
  
 #### **Background**
  
