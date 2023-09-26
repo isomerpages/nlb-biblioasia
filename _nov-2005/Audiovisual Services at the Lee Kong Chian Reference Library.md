@@ -29,7 +29,8 @@ In order to meet the challenges and service standards in providing greater choic
 #### **Conclusion**
 In today’s digital information age, where a greater choice of format competes with content diverstiy, the Lee Kong Chian Reference Library will continue to balance the needs of its library patrons against content selection and development. To avoid sacrificing the quality and depth of the collection, the Lee Kong Chian Reference Library will be acutely aware of customer needs, be sure that the library has a clear and fiscally realistic focus of purpose and cooperate with other community libraries to share resources. At the same time it will focus on safeguarding the available materials and intellectual contents for future use.
 
-
-
+<div>
+<center><b>Hameedah Ibrahim</b><br>  Reference Librarian<br>  Lee Kong Chian Reference Library </center>
+</div>
 
 
