@@ -14,6 +14,9 @@ description: The Rare Materials Collection reflects Singapore’s literary and
 #### **Background**
  
 The Rare Materials Collection at the Lee Kong Chian Reference Library (LKCRL) is a prime collection that reflects Singapore’s literary and social heritage and contains valuable historical research materials on Singapore and Southeast Asia. Through these rare titles, we are offered a glimpse of the history of an island that is home to people of many races, persevering to make a living and to forge an identity. We also get a view of the scenes and landscapes of historical Singapore.
+
+<img src="/images/vol-1-issue-1/GemsLibrary/logan%2002.jpg" style="width:80%;">
+ <div style="background-color: white;">Pages from <i>The Journal of the Indian Archipelago and Eastern Asia</i>. All Rights Reserved, J.R. Logan, 1847–1855.</div>
  
 Most of the titles in the collection were passed down from our earlier libraries, the Singapore Library and the Raffles Library. Some were purchased directly from antiquarian bookshops or acquired through donations. 
 
@@ -62,8 +65,3 @@ The Rare Materials Collection is a historical collection that reveals much of ho
 <img style="width: 100px; height: 100px;" src="/images/Authors/makeswary%20periasamy.JPG">
 <center><b>Makeswary Periasamy</b><br> Senior Reference Librarian<br> Lee Kong Chian Reference Library</center>
 </div>
-
-
-
-
-
