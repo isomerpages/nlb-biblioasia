@@ -53,3 +53,14 @@ Titles in the Rare Materials Collection are listed as “RRARE” in the library
 #### **Conclusion**
 The Rare Materials Collection is a historical collection that reveals much of how Singapore, after its founding, grew into a leading port and its development from a colony to a sovereign nation. Researching into this wealth of information should help our generation to better appreciate their heritage and understand the present state of being.
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/makeswary%20periasamy.JPG">
+<center><b>Makeswary Periasamy</b><br> Senior Reference Librarian<br> Lee Kong Chian Reference Library</center>
+</div>
+
+
+
+
+
