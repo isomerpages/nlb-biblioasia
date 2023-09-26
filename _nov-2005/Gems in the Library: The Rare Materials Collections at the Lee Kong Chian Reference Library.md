@@ -69,7 +69,13 @@ Donated by Mr Raymond Wurtzburg to the Lee Kong Chian Reference Library – thro
 
 #### **Care and Storage**
 
+<img src="/images/vol-1-issue-1/GemsLibrary/rarebook%20with%20gloves%2001.jpg" style="width:80%;">
+ <div style="background-color: white;">Gloves are used when handling Rare Materials.</div>
+
 Due to preservation purposes, all titles in the Rare Materials Collection are microfilmed and some digitised. Originals are no longer handled, as frequent handling will hasten their wear and tear. If the materials are ever handled for maintenance purposes, it is done so with gloved hands.
+
+<img src="/images/vol-1-issue-1/GemsLibrary/rare%20books%20in%20archival%20boxes.jpg" style="width:80%;">
+ <div style="background-color: white;">Rare Books in Archival Boxes.</div>
 
 The rare materials are kept in a special climate controlled room with a stable temperature of 18° Celsius, a relative humidity of 50% and reduced light intensity. To further protect the rare materials from environmental deterioration, the books are placed in archival boxes while maps are encapsulated. Proper and stable environmental conditions are necessary to prolong the shelf life of rare materials.
 
