@@ -32,5 +32,3 @@ In today’s digital information age, where a greater choice of format competes 
 <div>
 <center><b>Hameedah Ibrahim</b><br>  Reference Librarian<br>  Lee Kong Chian Reference Library </center>
 </div>
-
-
