@@ -39,6 +39,8 @@ The oldest book held by the collection is a travel account, *The History of Trau
  <div style="background-color: white;">Scene of Raffles Square in the 1920s from <i>Sunny Singapore.</i> All Rights Reserved, Kelly &amp; Walsh, [192–].</div>
 
 The collection also contains titles, which depict the old scenes and landscapes of Singapore. Published in the 1920s in Singapore, the book *Sunny Singapore* illustrates the scenery and images of Singapore, which are now non-existent. The book is testimony to the changes and developments that Singapore has gone through.
+<img src="images/vol-1-issue-1/GemsLibrary/rare%20materials-%20the%20golden%20chersonese1.jpg" style="width:80%;">
+ <div style="background-color: white;">“The Author’s First Ride in Perak” from the book<i>The Golden Chersonese and the Way Thither.</i> All Rights Reserved, Murray, 1883.</div>
 
 One fascinating book is *The Golden Chersonese and the Way Thither*, written by the famous woman traveller of that time, Isabella Bird. Published in 1883, it contains her descriptions and observations of the places she visited, which included the Far East and the Malay Peninsula, including Singapore. The book is a compilation of letters she wrote to her sister, and describes amongst others, local manners and customs and the flora and fauna of the places she visited as well as the growth of Singapore.
 
