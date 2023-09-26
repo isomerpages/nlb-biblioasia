@@ -8,6 +8,9 @@ description: Materials in the Audiovisual Collection are available for browsing
 ---
 #### Materials in the Audiovisual Collection are available for browsing on Level 11 of the Lee Kong Chian Reference Library. Audiovisual materials include videotapes, compact discs, VCDs, DVDs, laserdiscs, audiocassettes, slides and long players records (LPs).
 
+<img src="/images/vol-1-issue-1/AudioVisuals/audio%20visual1.jpg" style="width:80%;">
+ 
+
 #### **Background**
 The fields of library and information science are changing and growing rapidly especially in the past thirty years. Technological advancement has created a new wave of audiovisual products in the market such as videocassette discs (VCDs) and digital video discs (DVDs).
 
@@ -26,8 +29,13 @@ In order to meet the challenges and service standards in providing greater choic
 • continuously acknowledge and respond to customer demands in addition to closely monitoring customer preferences, trends in technology and publishing, and <br> <br>   
 • review the collection development policy regularly to respond to a new and continuously changing information services marketplace.
 
+<img src="/images/vol-1-issue-1/AudioVisuals/audio%202.jpg" style="width:100%;">
+ 
+
 #### **Conclusion**
 In today’s digital information age, where a greater choice of format competes with content diverstiy, the Lee Kong Chian Reference Library will continue to balance the needs of its library patrons against content selection and development. To avoid sacrificing the quality and depth of the collection, the Lee Kong Chian Reference Library will be acutely aware of customer needs, be sure that the library has a clear and fiscally realistic focus of purpose and cooperate with other community libraries to share resources. At the same time it will focus on safeguarding the available materials and intellectual contents for future use.
+
+So, visit the Audiovisual Room today for an enriching and fulfilling experience.
 
 <div>
 <center><b>Hameedah Ibrahim</b><br>  Reference Librarian<br>  Lee Kong Chian Reference Library </center>
