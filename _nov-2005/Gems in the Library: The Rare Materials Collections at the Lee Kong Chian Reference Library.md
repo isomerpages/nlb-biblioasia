@@ -80,7 +80,14 @@ Due to preservation purposes, all titles in the Rare Materials Collection are mi
 The rare materials are kept in a special climate controlled room with a stable temperature of 18° Celsius, a relative humidity of 50% and reduced light intensity. To further protect the rare materials from environmental deterioration, the books are placed in archival boxes while maps are encapsulated. Proper and stable environmental conditions are necessary to prolong the shelf life of rare materials.
 
 #### **Access**
+
+<img src="/images/vol-1-issue-1/GemsLibrary/newton%20railway%20station%20(souvenir%20singapore).jpg" style="width:80%;">
+ <div style="background-color: white;">Picture of Newton Railway Station from <i>Souvenir of Singapore: A Descriptive and Illustrated Guide Book of Singapore.</i> All Rights Reserved, The Straits Times Press, 1905.</div>
+
 Titles in the Rare Materials Collection are listed as “RRARE” in the library’s online catalogue. For these materials, only the surrogate microfi lm copy or the digital copy is to be consulted. All microfilms are housed at the Singapore and Southeast Asia Collections, which is at Level 11 of the Lee Kong Chian Reference Library. The digitised versions of the rare books are available on Singapore Pages, which is accessible via the National Library Board’s Digital Library (<a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a>). In the event the physical copy is required to be consulted for research purposes, permission may be granted on a need basis by writing to the Deputy Director, Lee Kong Chian Reference Library.
+<img src="/images/vol-1-issue-1/GemsLibrary/capture.jpg" style="width:80%;">
+ <div style="background-color: white;">Advertisement page from <i>Souvenir of Singapore: A Descriptive and Illustrated Guide Book of Singapore.</i> All Rights Reserved, The Straits Times Press, 1905.</div>
+
 
 #### **Conclusion**
 The Rare Materials Collection is a historical collection that reveals much of how Singapore, after its founding, grew into a leading port and its development from a colony to a sovereign nation. Researching into this wealth of information should help our generation to better appreciate their heritage and understand the present state of being.
