@@ -49,6 +49,9 @@ One fascinating book is *The Golden Chersonese and the Way Thither*, written by 
 
 Another interesting title is *Cermin Mata*, a Malay journal compiled by Benjamin Peach Keaseberry, a missionary from 1859. Containing a mixture of Christian tracts, general knowledge and original writings of Munshi Abdullah, it is one of the first Malay journals to be published in Singapore.
 
+<img src="/images/vol-1-issue-1/GemsLibrary/hikayat%20abdullah%2001.jpg" style="width:80%;">
+ <div style="background-color: white;">Frontispiece of<i> Hikayat Abdullah.</i> All Rights Reserved, Mission Press, 1849.</div>
+
 An important source of Singapore’s early history is the *Hikayat Abdullah*, the lithographed autobiography of Munshi Abdullah bin Abdul Kadir. It was written in Jawi, between 1840 and 1843, and published in 1849. Munshi Abdullah was the interpreter and scribe to Singapore’s founder, Sir Stamford Raffl es. Abdullah wrote about the events of his life relating to the activities in Singapore, which was slowly transforming from a sleepy fishing village into a major centre of world trade. He also described prominent British personalities and offered his observations on political and cultural events of that time. He is considered to be the father of modern Malay literature.
 
 *Chrita dahulu-kala* is a series of Peranakan literature written for the Peranakan Chinese. The first series was published in 1890s. They are actually old Chinese classics translated into Baba Malay and well illustrated with the characters from the Chinese classics.
