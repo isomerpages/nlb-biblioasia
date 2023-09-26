@@ -29,5 +29,3 @@ The collection also contains titles, which depict the old scenes and landscapes 
 One fascinating book is *The Golden Chersonese and the Way Thither*, written by the famous woman traveller of that time, Isabella Bird. Published in 1883, it contains her descriptions and observations of the places she visited, which included the Far East and the Malay Peninsula, including Singapore. The book is a compilation of letters she wrote to her sister, and describes amongst others, local manners and customs and the flora and fauna of the places she visited as well as the growth of Singapore.
 
 Another interesting title is *Cermin Mata*, a Malay journal compiled by Benjamin Peach Keaseberry, a missionary from 1859. Containing a mixture of Christian tracts, general knowledge and original writings of Munshi Abdullah, it is one of the first Malay journals to be published in Singapore.
-
-
