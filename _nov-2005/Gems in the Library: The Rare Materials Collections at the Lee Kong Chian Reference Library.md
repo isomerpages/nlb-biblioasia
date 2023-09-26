@@ -44,6 +44,9 @@ The collection also contains titles, which depict the old scenes and landscapes 
 
 One fascinating book is *The Golden Chersonese and the Way Thither*, written by the famous woman traveller of that time, Isabella Bird. Published in 1883, it contains her descriptions and observations of the places she visited, which included the Far East and the Malay Peninsula, including Singapore. The book is a compilation of letters she wrote to her sister, and describes amongst others, local manners and customs and the flora and fauna of the places she visited as well as the growth of Singapore.
 
+<img src="/images/vol-1-issue-1/GemsLibrary/cermin%20mata%2001.jpg" style="width:80%;">
+ <div style="background-color: white;">First issue of<i>Cermin Mata Bagi Segala Orang yang Menuntut Pengetahuan.</i> All Rights Reserved, Singapura, 1859.</div>
+
 Another interesting title is *Cermin Mata*, a Malay journal compiled by Benjamin Peach Keaseberry, a missionary from 1859. Containing a mixture of Christian tracts, general knowledge and original writings of Munshi Abdullah, it is one of the first Malay journals to be published in Singapore.
 
 An important source of Singapore’s early history is the *Hikayat Abdullah*, the lithographed autobiography of Munshi Abdullah bin Abdul Kadir. It was written in Jawi, between 1840 and 1843, and published in 1849. Munshi Abdullah was the interpreter and scribe to Singapore’s founder, Sir Stamford Raffl es. Abdullah wrote about the events of his life relating to the activities in Singapore, which was slowly transforming from a sleepy fishing village into a major centre of world trade. He also described prominent British personalities and offered his observations on political and cultural events of that time. He is considered to be the father of modern Malay literature.
