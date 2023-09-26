@@ -8,13 +8,14 @@ description: The Rare Materials Collection reflects Singapore’s literary and
 ---
 #### The Rare Materials Collection reflects Singapore’s literary and social heritage, and contains valuable historical research materials on Singapore and Southeast Asia.
  
- #### **Background**
- The Rare Materials Collection at the Lee Kong Chian Reference Library (LKCRL) is a prime collection that reflects Singapore’s literary and social heritage and contains valuable historical research materials on Singapore and Southeast Asia. Through these rare titles, we are offered a glimpse of the history of an island that is home to people of many races, persevering to make a living and to forge an identity. We also get a view of the scenes and landscapes of historical Singapore.
+#### **Background**
+ 
+The Rare Materials Collection at the Lee Kong Chian Reference Library (LKCRL) is a prime collection that reflects Singapore’s literary and social heritage and contains valuable historical research materials on Singapore and Southeast Asia. Through these rare titles, we are offered a glimpse of the history of an island that is home to people of many races, persevering to make a living and to forge an identity. We also get a view of the scenes and landscapes of historical Singapore.
  
 Most of the titles in the collection were passed down from our earlier libraries, the Singapore Library and the Raffles Library. Some were purchased directly from antiquarian bookshops or acquired through donations. 
 
- #### **Scope**
- Currently the collection numbers about 5,000 items. Majority of the titles are 19th and early 20th century publications and were issued by Singapore’s earliest printing presses. Mission presses feature prominently as many Christian missionaries arrived at the thriving British trading post together with traders, administrators and other immigrant settlers. The “Mission Press” and the “Methodist Publishing House” imprints appear not only in religious literature but also in secular publications of the pioneer period such as almanacs, newspapers and school textbooks.
+#### **Scope**
+Currently the collection numbers about 5,000 items. Majority of the titles are 19th and early 20th century publications and were issued by Singapore’s earliest printing presses. Mission presses feature prominently as many Christian missionaries arrived at the thriving British trading post together with traders, administrators and other immigrant settlers. The “Mission Press” and the “Methodist Publishing House” imprints appear not only in religious literature but also in secular publications of the pioneer period such as almanacs, newspapers and school textbooks.
  
 The collection comprises Jawi manuscripts, Malay and Southeast Asian dictionaries, travel accounts (both serious & anecdotal) of the Malay Archipelago and Southeast Asia, Chinese classics and romances translated into Baba Malay, almanacs, directories, academic journals and maps.
 
