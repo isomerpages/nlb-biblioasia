@@ -2,8 +2,8 @@ collections:
   nov-2005:
     output: true
     order:
+      - Director's Column.md
+      - Chief Executive’s Message.md
+      - "Continuities and Changes: Singapore as a Port city Over 700 Years.md"
       - "Gems in the Library: The Rare Materials Collections at the Lee Kong
         Chian Reference Library.md"
-      - "Continuities and Changes: Singapore as a Port city Over 700 Years.md"
-      - Chief Executive’s Message.md
-      - Director's Column.md
