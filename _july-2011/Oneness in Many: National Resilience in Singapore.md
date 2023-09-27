@@ -36,7 +36,7 @@ In response to various past challenges, the Singapore Ministry of Defence introd
 
 As resiliency has more to do with the traits, grit and determination of individuals and groups in a society, this easily dovetailed into the Psychological Defence component of Total Defence. However, following the Asian and Global Financial Crisis, the threat of terrorism, and SARS, resiliency was extended to other key elements of society, with a focus on social, psychological and economic resilience (as military and civil defence were considered already strongly embedded). Social, psychological and economic resilience were spotlighted as these elements, if strong, permit a society to bounce back quickly after a crisis.[^12]
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/OnenessMany/Photos%20Displayed.jpg">
+<img src="/images/Vol%207%20Issue%202/OnenessMany/Photos%20Displayed.jpg" style="width:80%;">
  <div style="background-color: white;">Photos displayed at the launch of the Institute of Policy Studies Publication " <i>A Defining Moment. How Singapore Beat Sars"</i>(Severe Acute Respiratory Syndrome) at the Singapore History Museum in 2004. <i>Courtesy of Ministry of Information, Communications and the Arts (MICA). </i></div>
  
  
