@@ -5,7 +5,7 @@ permalink: /vol-7/issue-2/jul-2011/children-asian-festival-excellence/
 description: Writer and composer Lansell Taudevin reflects on what was shared at
   the 2011 Asian Festival of Children’s Content.
 ---
-#### Writer and composer _Lansell Taudevin_ reflects on what was shared at the 2011 Asian Festival of Children’s Content.
+#### Writer and composer&nbsp;_Lansell Taudevin_&nbsp;reflects on what was shared at the 2011 Asian Festival of Children’s Content.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%202/AsianContent/04.jpg">
  <div style="background-color: white;">Members of the society of Children's Book Writers and illustrators (SWBWS).<i>Courtesy of National Book Development Council Singapore. </i></div>
@@ -26,6 +26,9 @@ Any conference that takes too much refuge in the comfort zone of the increasingl
 	
 The Asian Festival of Children's Content 2011 bravely attempted to address some of these issues. As a writer myself, I came away from many of the presentations at the conference with this thought: That publishers must take the lead in adapting to many of these technological changes, so that writers not become caught up in the bells and whistles that detract the what is of greatest importance — good writing.
 
+<img src="/images/Vol%207%20Issue%202/AsianContent/03.jpg" style="width:80%;">
+ <div style="background-color: white;">Judges for Hedwig Anuar Children's Book Award. <i>Courtesy of National Book Development Council Singapore. </i></div>
+	
 The challenge for Asian writers is to proudly recognise that theirs is a culture of unparallelled richness and longevity, one in comparison to which, the west is actually the new kid on the block. Fortunately, our new age and its cornucopia of media can also be an invaluable determining factor in the internationalisation and enhancement of such awareness. Writers of Asian children's content need to defiantly, proudly and most importantly, brilliantly, contribute children's books that are not afraid to say: this is my culture, and its greatness is unquestionable.
 
 Singapore has been home to many innovations in technology. Maybe the same drive and skill that makes Singapore (and Asia) leaders in these fields will crossover into the writing of Asian content for children, and allow Asian writers to assume their rightful place in the world, both as leaders in technology of the future "book" and as purveyors of their own magnificent Asian history.
@@ -35,6 +38,6 @@ Singapore has been home to many innovations in technology. Maybe the same drive 
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Lansell.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Lansell.jpg" style="width: 100px; height: 100px;">
 <center><b>Lansell Taudevin</b><br> Writer/Composer</center></div>
