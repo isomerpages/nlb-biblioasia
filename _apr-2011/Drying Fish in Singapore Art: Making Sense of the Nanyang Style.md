@@ -98,8 +98,6 @@ A shared nostalgia, a shared longing, the phenomenological experience of life an
  <div style="background-color: white;">Detail from the second panel. Seah Kim Joo, Malayan Life. 1968. Batik on cloth. <i>Collection of LASALLE College of the Arts.</i></div>
 	
 The phenomenological fullness of experience that is captured in art is also exemplified by the images Seah has depicted, images that relate the ways in which life captivates through much more than the sense of sight. Smell, touch, hearing – all these are evoked. The scene of drying fish stretches across the background of three of the five panels, making it probably the largest rendering of the subject around. On the second and third panels, villagers with upturned faces toward the hanging fishes seem to be inhaling deeply; three of them reach out their hands to hold or touch the fish. It is also curious that the artist includes the durian in the work, a fruit known for its overwhelming fragrance or pungent odour, the perception of which is dependent on one’s preference. In the bottom-right corner of the second panel, a small Malay boy has his head bent over a durian held between his palms, with an expression that resembles that of durian sellers who hold the fruit in exactly this manner and smell it to see if it is ripe.
-![](/images/Vol%207%20Issue%201/DryingFish/Seah%20Kim%20Joo_Malayan%20Life_detail.jpg)
-
 <img src="/images/Vol%207%20Issue%201/DryingFish/Seah%20Kim%20Joo_Malayan%20Life_detail.jpg" style="width:50%;">
  <div style="background-color: white;">Detail from the third panel. Seah Kim Joo, Malayan Life. 1968. Batik on cloth. <i>Collection of LASALLE College of the Arts.</i></div>
 
