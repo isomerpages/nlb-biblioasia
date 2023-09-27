@@ -38,9 +38,10 @@ In another painting, *Fishing Village* (1981), the title in Chinese literally tr
 	
 Born in the 1910s, 1920s and 1930s, these artists grew up knowing Singapore as part of Malaya. Scenes of drying fish were common in Malaysia, a familiar familial country, a place that was as homely as Singapore during the artists’ childhood. By the mid-80s, the appeal of the subject had begun to fade. However, the selection of Cheong Soo Pieng’s painting *Drying Salted Fish* (1978), featuring a scene from Terengganu, as part of the redesign of the Singapore fifty-dollar note in 1999 seemed to be a silent acknowledgement that Singapore had once been part of Malaya.
 
-<img src="/images/Vol%207%20Issue%201/DryingFish/Cheong%20Soo%20Pieng_Drying%20Salted%20Fish.jpg" style="width:80%;">
- <div style="background-color: white;">Cheong Soo Pieng, <i>Drying Salted Fish.</i> 1978. Chinese ink and watercolour on cloth. 55.5 x 88.5 cm. <i>Collection of National Heritage Board, Singapore.</i></div>
-	
+<img src="/images/Vol%207%20Issue%201/DryingFish/presentation2.jpg" style="width:80%;">
+ <div style="background-color: white;">(Left) Cheong Soo Pieng, <i>Drying Salted Fish.</i> 1978. Chinese ink and watercolour on cloth. 55.5 x 88.5 cm. <i>Collection of National Heritage Board, Singapore.</i><br> (Right) Singapore banknote in fifty-dollar denomination from the Portrait Series (reverse). Note inset of Cheong Soo Pieng’s Drying Salted Fish.
+</div>
+ 	
 #### **“Nanyang”: Phenomenology**
 
 The “south” (南, *nan*) in “Nanyang” refers to coordinates taken from the perspective of China. The term gestures towards an Elsewhere situated south from the mainland, serving as a catchall for a region made up of diverse cultures and communities. The artists who pursued the Nanyang style were not unaware of the cultural richness and diversity of their region. The genesis of the Nanyang style is seeded upon awareness and openness to difference: the different light in the tropics; the different colours of other races in their skin tones and dress; the different hues, forms, and textures of tropical plants and fruits. As first-generation artist Liu Kang put it:
