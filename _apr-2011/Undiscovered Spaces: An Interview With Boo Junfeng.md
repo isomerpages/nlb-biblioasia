@@ -46,6 +46,9 @@ I had to understand where most academics are coming from and what kinds of views
 
 I think this show is about memory. There’s a reason why I parallel a woman’s involuntary loss of memory with her daughter-in-law’s voluntary loss of memory, and through these personal memories I present a larger collective memory and social memory. The film is about memory and how transient and mutable it can be.
 
+<img src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/ss2.jpg" style="width:80%;">
+ <div style="background-color: white;">Film still from Sandcastle (2010). All rights reserved, Zhao Wei Films. </div>
+
 #### **Do you see your film as a documentation of memories, especially given the strong historical context that is quite specific to Singapore?**
 
 *Sandcastle* is a work of fiction, and what fiction can do is not simply document, but also evoke. If the film is successful, what I hope it evokes are these questions about memory and history. Through the story of one family’s memories and a boy’s desire to find out more about these histories and memories, we ourselves question this bigger idea of identity. We have been glorifying one side of the truth — what about the other side? It’s all about questions.
