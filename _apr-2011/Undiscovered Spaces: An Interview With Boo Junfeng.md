@@ -5,7 +5,7 @@ description: Research Associate Jennifer Lew interviews Sandcastles director Boo
   Junfeng about history, the National Library and the research process behind
   the making of Sandcastle.
 ---
-####  Research Associate _Jennifer Lew_ interviews _Sandcastles_ director Boo Junfeng about history, the National Library and the research process behind the making of _Sandcastle_.
+####  Research Associate&nbsp;_Jennifer Lew_&nbsp;interviews&nbsp;_Sandcastles_&nbsp;director Boo Junfeng about history, the National Library and the research process behind the making of&nbsp;_Sandcastle_.
 
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/ss1.jpg">
@@ -26,6 +26,9 @@ Lesser known, however, is the period of quiet study that marked the research tha
 #### **In your own words, tell us what *Sandcastle* is about.**
 
 *Sandcastle* is a coming-of-age story about a boy who witnesses his grandmother slipping into dementia and has to take care of her. At the same time, he discovers that his late father used to be a student activist in the 50s and 60s and that shakes his sense of identity. So \[the character\] starts to question his family background and who he is.
+
+<img src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/set.jpg" style="width:80%;">
+ <div style="background-color: white;">Boo plans a scene with cinematographer Sharon Loh on the set of Film still from Sandcastle (2010). All rights reserved, Zhao Wei Films. Sandcastle.<i> Courtesy of Boo Junfeng. </i></div>
 
 #### **Tell us about the kind of research you did for *Sandcastle*.**
 
@@ -77,6 +80,6 @@ I think what the library provides is not only knowledge and information but a sp
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Jennifer.jpg" style="width: 100px; height: 100px;"/>
-<center><b>Jennifer Low</b><br> Research Associate<br>Government & Business Information Services<br>National Library</center></div>
+<br>
+<img src="/images/Authors/Jennifer.jpg" style="width: 100px; height: 100px;">
+<center><b>Jennifer Low</b><br> Research Associate<br>Government &amp; Business Information Services<br>National Library</center></div>
