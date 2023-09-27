@@ -88,6 +88,10 @@ Speaking of Cezanne’s achievement in his still-life paintings of apples, Lim r
 
 #### **“Nanyang”: Mythologies**
 
+<img src="/images/Vol%207%20Issue%201/DryingFish/Chen%20Chong%20Swee_Drying%20Fish.jpg" style="width:50%;">
+ <div style="background-color: white;">Chen Chong Swee, Drying Fish. 1961. Oil on canvas. 60 x 96 cm. <i>Private Collection.</i></div>
+
+
 Nostalgia and phenomenological fullness have been explored above as layers of significance in the Nanyang style. Yet the common ground yielded not a single result but much variety. The monolithic univocality of the “Nanyang Style” is specious; it is more appropriate to speak of Nanyang styles. Surveying the drying fish works reveals the singularity of each artist’s approach towards a shared subject matter. Cheong Soo Pieng’s *Drying Salted Fish* (1978) reflects the influence of Song-dynasty painting on the artist in his later years; the foliage in the foreground bears a striking resemblance to the Song painter Ma Hezhi’s depiction of leaves (Yeo, 2010b). With their elongated arms and rounded eyebrows, the female figures are also characteristic of Cheong’s decorative phase in the late 70s and early 80s.
 
 <img src="/images/Vol%207%20Issue%201/DryingFish/Shui%20Tit%20Sing_Fish%20Drying1.jpg" style="width:80%;">
