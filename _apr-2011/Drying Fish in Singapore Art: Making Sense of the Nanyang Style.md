@@ -75,6 +75,9 @@ Tay Boon Pin recounts that before the fish were dried, they had to be cleaned, t
 
 The point that is being made here is not that an awful, nauseating odour inspired all these works. Rather, there is an implicit reminder of the nature of transport that art-making affords and entails; a transcending of harsh or uncomfortable conditions in which the artists worked. As Thomas Yeo put it, “The appeal is not the smell. Your brain is not thinking of the smell. Your brain is concentrating on the subject matter. That is the priority” (personal communication with Thomas Yeo, 23 January 2011).
 
+<img src="/images/Vol%207%20Issue%201/DryingFish/Lim%20Tze%20Peng_Untitled%20Women%20Drying%20Squid.jpg" style="width:80%;">
+ <div style="background-color: white;">Lim Tze Peng, Untitled, Women Drying Squid. 1960. Watercolour on paper. 49 x 54 cm. <i>Collection of National Heritage Board, Singapore.</i></div>
+	
 To transcend the physical conditions of art-making is not to detach oneself from the object, but to be immersed deeply within it and to thus express what is “seen” from that position. For Lim Tze Peng, the representation of smell can be an indication of an artist's deep understanding of his or her subject – phenomenological understanding. Lim praised the still-life paintings of Georgette Chen, Singapore's most renowned first-generation woman artist, in these terms; he also drew a parallel with his own paintings of salted fish:
 
 <center> To paint well, an artist has to do more than make the subject look like the object that inspired it; he also has to paint its smell. Take Georgette Chen, for instance. Her paintings of waxed meats, waxed sausages and waxed ducks… from her paintings one can almost catch a whiff of their aroma… When I drew salted fish, I also had this sensation (personal communication with Lim Tze Peng in Mandarin, 5 January 2011).</center>
