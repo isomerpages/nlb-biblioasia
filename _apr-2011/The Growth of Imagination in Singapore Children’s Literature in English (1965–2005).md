@@ -9,7 +9,7 @@ description: Lee Kong Chian Research Fellow Noel Chia Kok Hwee’s traces the
 #### Lee Kong Chian Research Fellow&nbsp;_Noel Chia Kok Hwee_’s traces the trajectory and importance of imaginative Singapore Children’s Literature in English.
 
 <img style="width:50%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Boo.jpg">
-<div style="background-color: white;">All rights reserved, Educational Publications Bureau, 1985.</div>
+<div style="background-color: white;"><center>All rights reserved, Educational Publications Bureau, 1985.</center></div>
 
 My research is on imaginative Singapore Children’s Literature in English (SCLE) with an emphasis on children’s prose fiction, which can be divided into fantasy and realism (see Lynch-Brown &amp; Tomlinson, 2008; Tomlinson &amp; Lynch-Brown, 2010). Both fantasy and realism involve two literary processing channels[^1] — imagination and verisimilitude, which provide a link between the world grounded in reality and the meta-world in our minds. Through this meta-cognitive link, readers are able to experience the episodes as described in the stories and through the characters.
 
