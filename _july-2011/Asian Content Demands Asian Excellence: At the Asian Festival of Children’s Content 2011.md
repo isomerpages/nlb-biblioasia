@@ -19,10 +19,13 @@ Is it necessary to preserve a unique Asian identity in this in this lemming-like
 
 Writers must learn to use the same platforms that this new age offers, but use it in an extraordinary way, in order to remain at the forefront of social reform and cultural integrity. Our new medium-dominated world demands that children's writers work within the new to maintain the same excellence that has inspired worlds of readers in the past. The medium may change but the need for great storytelling does not and will never.
 
+<img src="/images/Vol%207%20Issue%202/AsianContent/P5270058.jpg" style="width:80%;">
+ <div style="background-color: white;">Browsing through pop-up books at a hands-on session at the AFCC 2011. <i>Courtesy of Tarie Sabido</i> (<a href="https://afcc.com.sg/2012/speakers/tarie-sabido/index.html/">https://afcc.com.sg/2012/speakers/tarie-sabido/index.html</a>)</div>
+	
 Any conference that takes too much refuge in the comfort zone of the increasingly limited impact of print media while largely ignoring the challenges — and opportunities — of this new age, will become obsolete and ineffectual in a time like this. This ostrich-like behaviour will do nothing for children's writing, or any other writing for that matter.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%202/AsianContent/P5280054.jpg">
- <div style="background-color: white;">A spread of children's literature at the Media Mart, where conference attendees popped in to pick up books. <i>Courtesy of Tarie Sabido</i> (asiantheheart.blogspot.com)</div>
+ <div style="background-color: white;">A spread of children's literature at the Media Mart, where conference attendees popped in to pick up books. <i>Courtesy of Tarie Sabido</i> (<a href="https://afcc.com.sg/2012/speakers/tarie-sabido/index.html/">https://afcc.com.sg/2012/speakers/tarie-sabido/index.html</a>)</div>
 	
 The Asian Festival of Children's Content 2011 bravely attempted to address some of these issues. As a writer myself, I came away from many of the presentations at the conference with this thought: That publishers must take the lead in adapting to many of these technological changes, so that writers not become caught up in the bells and whistles that detract the what is of greatest importance — good writing.
 
