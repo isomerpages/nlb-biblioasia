@@ -2,22 +2,22 @@
 title: The Growth of Imagination in Singapore Children’s Literature in English
   (1965–2005)
 permalink: /vol-7/issue-1/apr-2011/children-literature-growth-imagination/
-description: "Lee Kong Chian Research Fellow Noel Chia Kok Hwee’s traces the
+description: Lee Kong Chian Research Fellow Noel Chia Kok Hwee’s traces the
   trajectory and importance of imaginative Singapore Children’s Literature in
-  English. "
+  English.
 ---
-#### Lee Kong Chian Research Fellow _Noel Chia Kok Hwee_’s traces the trajectory and importance of imaginative Singapore Children’s Literature in English.
+#### Lee Kong Chian Research Fellow&nbsp;_Noel Chia Kok Hwee_’s traces the trajectory and importance of imaginative Singapore Children’s Literature in English.
 
 <img style="width:50%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Boo.jpg">
  <div style="background-color: white;">All rights reserved, Educational Publications Bureau. 1985.</div>
 
-My research is on imaginative Singapore Children’s Literature in English (SCLE) with an emphasis on children’s prose fiction, which can be divided into fantasy and realism (see Lynch-Brown & Tomlinson, 2008; Tomlinson & Lynch-Brown, 2010). Both fantasy and realism involve two literary processing channels[^1] — imagination and verisimilitude, which provide a link between the world grounded in reality and the meta-world in our minds. Through this meta-cognitive link, readers are able to experience the episodes as described in the stories and through the characters.
+My research is on imaginative Singapore Children’s Literature in English (SCLE) with an emphasis on children’s prose fiction, which can be divided into fantasy and realism (see Lynch-Brown &amp; Tomlinson, 2008; Tomlinson &amp; Lynch-Brown, 2010). Both fantasy and realism involve two literary processing channels[^1] — imagination and verisimilitude, which provide a link between the world grounded in reality and the meta-world in our minds. Through this meta-cognitive link, readers are able to experience the episodes as described in the stories and through the characters.
 
 The term *imagination* is defined as that literary process of the mind to generate mental images of objects, states or actions not felt or experienced by the senses. Imagination is usually synonymous with “fancy, and commonly opposed to the faculty of reason, either as complementary to it or as contrary to it”.[^2] According to Sewall (1999) and Roth (2004), imagination helps bridge readers and their environment to create meaningful experiences and understanding of knowledge. It is a fundamental facility through which readers make sense of the world (Norman, 2000; Sutton-Smith, 1988) and also plays an important role in the learning process (Egan, 1992; Norman, 2000).
 
 The other term *verisimilitude* (also known as *truth-likeness*) is the semblance of truth or reality in literary works or the literary principle that requires a consistent illusion of truth to life. It encompasses both the exclusion of improbabilities (as in realism) and the careful disguising of improbabilities in nonrealistic works.[^3] Verisimilitude also refers to the other literary process that is “often invoked in fantasy and science fiction inviting readers to pretend such stories are true by referring to objects of the mind such as fictional books or years that do not exist apart from an imaginary world” (Roth, 2004, p. 10). This imaginary world is also known as *meta-world* (Chia, 1991).
 
-By seeing the world around them in new ways and by considering ways of living other than their own, children increase their ability to think divergently. Stories often map the divergent paths that our ancestors might have taken or that our descendants might someday take. “Through the vicarious experience of entering a world different from the present one, children develop their imaginations. In addition, stories about people, both real and imaginary, can inspire children to overcome obstacles, accept different perspectives, and formulate personal goals.” (Lynch Brown & Tomlinson, 2008, p. 5)
+By seeing the world around them in new ways and by considering ways of living other than their own, children increase their ability to think divergently. Stories often map the divergent paths that our ancestors might have taken or that our descendants might someday take. “Through the vicarious experience of entering a world different from the present one, children develop their imaginations. In addition, stories about people, both real and imaginary, can inspire children to overcome obstacles, accept different perspectives, and formulate personal goals.” (Lynch Brown &amp; Tomlinson, 2008, p. 5)
 
 Moreover, children’s books with a high degree of *imaginativity*[^4]provide the highest level of *reader enchantment*, which is an endogenous process that stimulates a reader’s mind. This process throws readers into that meta-world where they can take part in any adventure, journey or exploration (Chia, 2004). It makes readers want to go on and not stop reading. In this sense, they have gone beyond automaticity. They are now a part of that story and have become either like *avatars* participating in the fantasy world, or like *morpheus* watching the events gradually unfolding. The final outcome is a sensitive awareness of imaginativity in children’s literature.
 
@@ -33,21 +33,21 @@ My original research surveyed the changing landscape of SCLE from 1965 to 2005, 
 
 One of the early roadblocks to the growth of Singapore children’s literature has been its poor commercial viability, due to the small local market. As early as 1966, the then Minister for Education Mr Ong Pang Boon said,
 
-&emsp;It is not only desirable but essential to have local<br>
-&emsp;authors write the books we need, especially authors<br>
-&emsp;who understand the role of authorship in relation to<br>
-&emsp;the new political status and urgent social needs of <br>
-&emsp;our country. It is only local authors who could have a<br>
-&emsp;sense of social awareness, a real understanding of<br>
-&emsp;the various aspects of the local environment and above<br>
-&emsp; all a true appreciation of the national aspirations and <br> 												&emsp;strivings of our people, and contribute by making <br>
-&emsp;appropriate references and allusions to local conditions<br> 
-&emsp;factors, and by consciously emphasising points of<br> 
-&emsp;view more in conformity with the spirit of the times, and<br> 
-&emsp;with our national needs and aspirations. (as cited in<br> 
-&emsp;Girvin, 1976, p. 7) 
+ It is not only desirable but essential to have local<br>
+ authors write the books we need, especially authors<br>
+ who understand the role of authorship in relation to<br>
+ the new political status and urgent social needs of <br>
+ our country. It is only local authors who could have a<br>
+ sense of social awareness, a real understanding of<br>
+ the various aspects of the local environment and above<br>
+  all a true appreciation of the national aspirations and <br> 												 strivings of our people, and contribute by making <br>
+ appropriate references and allusions to local conditions<br> 
+ factors, and by consciously emphasising points of<br> 
+ view more in conformity with the spirit of the times, and<br> 
+ with our national needs and aspirations. (as cited in<br> 
+ Girvin, 1976, p. 7) 
 
-A scan of the SCLE available during the 1960s at the Lee Kong Chian Reference Library reveals that basal readers were used in many English-medium schools and outnumbered quality children’s fiction on all counts. This reflected the Singapore government’s policy during this period “to get the general populace to put a premium on education, and the habit of reading began to be developed as part and parcel of the learning process” (Kong & Tay, 1998, p. 8). Besides, the parents, being very pragmatic, “look only for books ‘useful’ in boosting their children’s school performance” (Khoo, 1992, p. 101)
+A scan of the SCLE available during the 1960s at the Lee Kong Chian Reference Library reveals that basal readers were used in many English-medium schools and outnumbered quality children’s fiction on all counts. This reflected the Singapore government’s policy during this period “to get the general populace to put a premium on education, and the habit of reading began to be developed as part and parcel of the learning process” (Kong &amp; Tay, 1998, p. 8). Besides, the parents, being very pragmatic, “look only for books ‘useful’ in boosting their children’s school performance” (Khoo, 1992, p. 101)
 
 <img style="width:50%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Night%20Market.jpg">
  <div style="background-color: white;">All rights reserved, Times Books International. 1985.</div>
@@ -58,13 +58,13 @@ I was able to identify only one trade book published during this period: Sylvia 
 
 A serious effort to promote the writing of children’s books began with the Workshop on Children’s Books “organised by the National Book Development Council of Singapore (NBDCS) to coincide with a week’s visit of Ivan Southall, an Australian children’s writer, at its invitation from 8–15 October, 1971” (Anuar, 1972, p. 3). In the opening speech, the late principal of the Teachers’ Training College, Dr Ruth Wong stressed the role of books for children:
 
-&emsp;… if the individual himself has rich experience, he can<br>
-&emsp;through print ‘feel’ in his being as he reads, and be <br>
-&emsp;just as depth conscious as through the more instantly<br> 
-&emsp;tactile medium of TV. Furthermore, where \[electronic\]<br> 
-&emsp;media make for uniformity, print still enables the<br> 
-&emsp;individual to withdraw into his private sanctum where<br> 
-&emsp;he can meet himself. (Wong, 1972, p. 5)
+ … if the individual himself has rich experience, he can<br>
+ through print ‘feel’ in his being as he reads, and be <br>
+ just as depth conscious as through the more instantly<br> 
+ tactile medium of TV. Furthermore, where \[electronic\]<br> 
+ media make for uniformity, print still enables the<br> 
+ individual to withdraw into his private sanctum where<br> 
+ he can meet himself. (Wong, 1972, p. 5)
 
 In other words, books can provide a glimpse of imagination experienced by avid readers if they immerse themselves into that fictive world.
 
@@ -75,20 +75,20 @@ Folktales, fables and basal readers dominated SCLE in the 1970s. Didacticism fro
 
 The adventure story was the hot favourite for all three age groups during that time, followed by myths and legends. According to Nair,
 
-&emsp;Adventure stories are favoured way and away from<br> 
-&emsp;myths and legends, in the above 12 age group<br> 
-&emsp;but \[the latter\] share the first place with adventure <br>
-&emsp;where younger readers of the 8–10 age group are <br>
-&emsp;concerned. What is surprising is the prominence <br>
-&emsp;given to the classics by the older children, being <br>
-&emsp;fourth favoured by both groups. School stories are <br>
-&emsp;second favourite for the older children but are not <br>
-&emsp;important to the youngest readers and are only as <br>
-&emsp;important as the classics to readers in the 11–12<br>
-&emsp;group. Family stories and western and historical <br>
-&emsp;fiction are not well favoured, though animal stories <br>
-&emsp;do appeal to all three groups, but especially the <br>
-&emsp;youngest readers. (Nair et al., 1977, p. 11)
+ Adventure stories are favoured way and away from<br> 
+ myths and legends, in the above 12 age group<br> 
+ but \[the latter\] share the first place with adventure <br>
+ where younger readers of the 8–10 age group are <br>
+ concerned. What is surprising is the prominence <br>
+ given to the classics by the older children, being <br>
+ fourth favoured by both groups. School stories are <br>
+ second favourite for the older children but are not <br>
+ important to the youngest readers and are only as <br>
+ important as the classics to readers in the 11–12<br>
+ group. Family stories and western and historical <br>
+ fiction are not well favoured, though animal stories <br>
+ do appeal to all three groups, but especially the <br>
+ youngest readers. (Nair et al., 1977, p. 11)
 
 In the 1970s, children’s books tended to adopt the themes of national campaigns; some of these included the ban on firecrackers during the Lunar New Year, keep Singapore clean, bilingualism in schools, multiracial and multicultural identity and so on (Lim, 2009). Hence, it is not surprising to find many basal readers such as the *Active Reader* series (Federal Publications, 1970) and *New Way Readers* series (Pan Pacific, 1978) propagating these national agendas. Examples of such books include *Ah Lee the Road Sweeper* (1979), *The Singapore Youth Festival* (1975), and *Courtesy is John’s Way of Life* (1979). There are other books devoted to the interests and culture of Singapore as an independent nation that date back to Sri Vijayan times in the early 14th century, such as Chia Hearn Chek’s *The Redhill* (1974) and *The Raja’s Crown* (1975). 
 
@@ -102,12 +102,12 @@ One reason why SCLE during this period lacked imaginativity was also partly due 
 
 It should be noted that titles in the science fiction category were of limited availability compared to adventure stories and myths and legends (in the ratio of 9:99). Nair et al. (1977) explained why FSSF had such poor appeal:
 
-&emsp;… both science fiction and sometimes fantasy <br>
-&emsp;demands of the reader a certain amount of <br>
-&emsp;sophisticated knowledge of science and the jargon of <br>
-&emsp;space science, and this may be lacking in most<br> 
-&emsp;areas where there is no tradition of Western type education,<br>
-&emsp;in children of these ages. (p. 13)
+ … both science fiction and sometimes fantasy <br>
+ demands of the reader a certain amount of <br>
+ sophisticated knowledge of science and the jargon of <br>
+ space science, and this may be lacking in most<br> 
+ areas where there is no tradition of Western type education,<br>
+ in children of these ages. (p. 13)
 
 Another important contributing factor during the 1970s was that not all children were attending English-medium schools. This might explain why Singapore writers rarely ventured into fantasy, suspense and science fiction, and the publishers were not keen to publish books of this category.
 
@@ -150,19 +150,22 @@ In other words, Singapore writers had to work even harder, tapping into their in
 
 This is also echoed by Singh (1993/94), who argued that “the years of following \[from 1993 onwards\] should see an increase in the output of ‘popular’ fiction; e.g., ghost stories, sensational stories of one description or another” (p. 21). He cautioned:
 
-&emsp;… should the trend carry on for more than<br> 
-&emsp;four or five years then we would have to <br>
-&emsp;rethink seriously the direction our writers were <br>
-&emsp;taking. In reading some of the recent fiction published <br>
-&emsp;I am not assured that the direction we are taking is <br>
-&emsp;altogether wholesome or qualitatively better. <br>
-&emsp;There are areas in which it would behove us to be critical if <br>
-&emsp;our literature is going to make the kind of international<br> 
-&emsp;impact it deserves to make. (Singh, 1993/94, p. 21)
+ … should the trend carry on for more than<br> 
+ four or five years then we would have to <br>
+ rethink seriously the direction our writers were <br>
+ taking. In reading some of the recent fiction published <br>
+ I am not assured that the direction we are taking is <br>
+ altogether wholesome or qualitatively better. <br>
+ There are areas in which it would behove us to be critical if <br>
+ our literature is going to make the kind of international<br> 
+ impact it deserves to make. (Singh, 1993/94, p. 21)
 
 #### **The New Millennium (2000s)**
 
 Since the beginning of the 21st century, SCLE has taken a more international perspective as more discerning and creative writers and illustrators enter the writing and publishing industry. The biennial Singapore Writers Festival, a major literary event in Singapore since the turn of the 21st century, has gained prominence in both domestic and regional literary landscapes. The writers’ festival is now be restructured into an annual affair, attracting not only local published and aspiring writers of children’s fiction as well as adult fiction but also writers from overseas.
+
+<img src="/images/Vol%207%20Issue%201/ChildrenLiterature/Presentation10.jpg" style="width:80%;">
+ <div style="background-color: white;"> (Left) All rights reserved, Epigram. c.2009. <br> (Right) All rights reserved, Landmark Books. 2001.</div>
 
 According to Ng (2010a), “judging by sales, children’s books are a lucrative field and more Singapore writers are making their mark in it” (p. 6). Today, children’s storybooks are selling better than Singapore adult novels. For instance, James Lee’s *Mr Midnight* series of illustrated horror stories has sold more than two million copies in Asia alone, and is now on its 67th book. Other children’s storybook successes, although on a smaller scale, are by writers such as Adeline Foo, whose book *Diary of Amos Lee* (2007) is not included in this study, but has sold about forty thousand copies here.
 
@@ -186,8 +189,8 @@ As we enter the new millennium (i.e., 2000s), better and more interesting books 
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Nac.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Nac.jpg" style="width: 100px; height: 100px;">
 <center> <b>Noel Chia Kok Hwee</b><br>Lee Kong Chian<br>Research Fellow (2010)</center></div>
 	
 #### **REFERENCES**
@@ -202,7 +205,7 @@ Butterworth, M. (1994). The book behind the terminal: Electronic tools help chil
 
 Cameron, J. (2009). _Avatar: The Na’vi_ _quest_. New York, NY: HarperCollins.
 
-Chandran, R. (1997).  [_I have touched the moon!_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8919192) Singapore: NTUC Childcare Co-operative. (Call no. JRSING 428 SHA)
+Chandran, R. (1997). &nbsp;[_I have touched the moon!_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8919192) Singapore: NTUC Childcare Co-operative. (Call no. JRSING 428 SHA)
 
 Chia, N.K.H. (1991). The imaginative creation of metalworlds in the recreational reading process. _Education Today, 41_ (3), 22–25.
 
@@ -230,15 +233,15 @@ Khoo, S.L. (1992). [_A study of the problems inherent in attempting to define a 
 
 Koh, B.S. (1994, July 4). [Private sponsorship of libraries can spur the reading habit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940704-1.2.60.3.2). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
 
-Kong, L., & Tay, L. (1998). Exalting the past: Nostalgia and the construction of heritage in children’s literature. _Area, 30_ (2), 133–143. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+Kong, L., &amp; Tay, L. (1998). Exalting the past: Nostalgia and the construction of heritage in children’s literature. _Area, 30_ (2), 133–143. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 Leavis, F.R. (1950). _Mill on Bentham and Coleridge._ London, UK: Chatto.  
   
 Lee, T.P. (1990/91). Keynote address by Lee Tzu Pheng at the seminar: In search of a Singapore Children’s Literature, 6–7, September 1990. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457)_,_ _20_, 8–17. (Call no.: RSING 070.5095957 SBW)
 
-Lim, P.H.L. (Ed.). (2009). [_Chronicle of Singapore: Fifty years of headline news 1959–2009_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200134540)_._ Singapore: Editions Didier Millet & National Library Board. (Call no.: RSING 959.5705 CHR)
+Lim, P.H.L. (Ed.). (2009). [_Chronicle of Singapore: Fifty years of headline news 1959–2009_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200134540)_._ Singapore: Editions Didier Millet &amp; National Library Board. (Call no.: RSING 959.5705 CHR)
 
-Lynch-Brown, C., & Tomlinson, C.M. (2008). _Essentials of children’s literature._ Boston, MA: Pearson Education.  
+Lynch-Brown, C., &amp; Tomlinson, C.M. (2008). _Essentials of children’s literature._ Boston, MA: Pearson Education.  
   
 Media Development Authority. (2005, September 15). _New publishing initiative for aspiring writers and illustrators._ Retrieved from Infocomm Media Development Authority website. Ministry of Community Development. (1988). [_Report of the committee on literary arts_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5084315)_._ Singapore: Ministry of Community Development. (Call no.: RSING S820 SIN)
 
@@ -252,21 +255,21 @@ Ng, M. (2010, March 1). [J.K Rowling of our own?](http://eresources.nlb.gov.sg/n
 
 Norman, R. (2000). _Cultivating imagination_ \[Unpublished paper presented at the Adult Education Proceedings of the 41st Annual Adult Education Research, Vancouver, Canada, June 2–4\].
 
-Riordan, R (2008). [_Percy jackson and the olympians, books i-iii \[electronic resource\], books 1–3_](https://nlb.overdrive.com/search/series?query=Percy%20Jackson%20and%20the%20Olympians&sortBy=newlyadded). New York, NY; Hyperion Books for Children. Retrieved from OverDrive. (myLibrary ID is required to access this ebook)  
+Riordan, R (2008). [_Percy jackson and the olympians, books i-iii \[electronic resource\], books 1–3_](https://nlb.overdrive.com/search/series?query=Percy%20Jackson%20and%20the%20Olympians&amp;sortBy=newlyadded). New York, NY; Hyperion Books for Children. Retrieved from OverDrive. (myLibrary ID is required to access this ebook)  
   
-Roloff, L.H. (1973). _The perception and evocation of literature._ Boston, MA: Scott & Foresman.  
+Roloff, L.H. (1973). _The perception and evocation of literature._ Boston, MA: Scott &amp; Foresman.  
   
 Roth, I. (2004). _World of the mind: Imagination_. Retrieved from answers.com website.
 
-Seow, D. (2004).  [_The littlest emperor_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12270927)_._ Boston, MA: Tuttle. (Call no.: JRSING 398.2 SEO)
+Seow, D. (2004). &nbsp;[_The littlest emperor_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12270927)_._ Boston, MA: Tuttle. (Call no.: JRSING 398.2 SEO)
 
 Sewall, L. (1999, Autumn). Imagination: Creating a new reality. _Orion, 17_ (4).
 
 Singh, K. (1993/94). Singapore fiction in English: Some reflections…”. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457), _23_, 21–23. (Call no.: RSING 070.5095957 SBW)
 
-Sutton-Smith, B. (1988). In search of the imagination. In K. Egan & D. Nadaner (Eds.), _Imagination and education_ (p. 22). New York, NY: Teachers College Press.  
+Sutton-Smith, B. (1988). In search of the imagination. In K. Egan &amp; D. Nadaner (Eds.), _Imagination and education_ (p. 22). New York, NY: Teachers College Press.  
   
-Tomlinson, C.M., & Lynch-Brown, C. (2010). _Essentials of young adult literature._ Boston, MA: Pearson Education.
+Tomlinson, C.M., &amp; Lynch-Brown, C. (2010). _Essentials of young adult literature._ Boston, MA: Pearson Education.
 
 Wee, J. (1990/91). The writer’s view. Presented during session 3: The creation and distribution of children’s literature, at the Seminar: In search of a Singapore Children’s Literature, September 6–7 September, 1990. [_Singapore Book World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183457), _20_, 38–40. (Call no.: RSING 070.5095957 SBW)
 
@@ -288,7 +291,7 @@ Chia, H.C. (1974). [_The Redhill_](https://eservice.nlb.gov.sg/item_holding.aspx
 
 Chia, H.C. (1975). [_The Raja's crown: A Singapore folktale_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4238083) (Moongate Collection: Folktales from the Orient). Singapore: Federal-Alpha. (Available via PublicationSG)
 
-Chia, M.A., & Chia, H.C. (1968). [_The king of fishes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12761654). Singapore: Donald Moore Press. (Call no.: RCLOS 428.6 CHI)  
+Chia, M.A., &amp; Chia, H.C. (1968). [_The king of fishes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12761654). Singapore: Donald Moore Press. (Call no.: RCLOS 428.6 CHI)  
   
 [_Courtesy is John’s way of life_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4412104)_._ (1979). Singapore: Seamaster Publishers. (Call no.: JRSING 428.6 SEA)
 
@@ -298,13 +301,13 @@ Ministry of Education. (1975). _The Singapore youth festival_. Singapore: Educat
 
 Sherry, S. (1985). [_Street of the small night market_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5392307)_._ Singapore: Times Books International. (Call no.: RSING 823.914 SHE)
 
-Tan, B.Y., & Chia, H.C. (1978). [_New way readers 1A_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200005932)_._ Singapore: Pan Pacific Book Distributors. (Available via PublicationSG)
+Tan, B.Y., &amp; Chia, H.C. (1978). [_New way readers 1A_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200005932)_._ Singapore: Pan Pacific Book Distributors. (Available via PublicationSG)
 
 Veloo, R. (1990). [_Kampung chicken_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5407892). Singapore: Angsana Books. (Call no.: RSING S823 VEL)
 
 Wee, J. (1980). _The Adventures of Mooty the Mouse Series._ Singapore: Federal Publications.<br>
 
-Wee, J. (1980). [_Mooty and grandma_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141042). Singapore: Federal Publications. (Available via PublicationSG) 
+Wee, J. (1980). [_Mooty and grandma_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141042). Singapore: Federal Publications. (Available via PublicationSG)&nbsp;
 
 Wee, J. (1980). [_Mooty and the satay-man_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4141043). Singapore: Federal Publications. (Call no.: JRSING 428.6 WEE)  
 
