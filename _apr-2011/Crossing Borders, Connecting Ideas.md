@@ -48,7 +48,8 @@ The diversity of positions has traditionally been recognised as the hallmark of 
 
 At the networking dinner following the first day’s proceedings, the Pod at the National Library was transformed into a pastiche of song, dance and musical performances as some delegates and members of the academic community took to the stage, while others enjoyed dinner and the panoramic view of the Singapore cityscape. With new friendships forged and old ones strengthened, the 3rd Taiwan-Singapore-Thailand Workshop renewed my confidence that the next such event would yield even greater collaborative results in the burgeoning field of Southeast Asian LIS research.
 
-To view paper abstracts and the workshop proceedings, Log on to <a href="ideapolis.sg">ideapolis.sg</a>. 
+To view paper abstracts and the workshop proceedings, Log on to <a href="https://www.idea-polis.net/about">https://www.idea-polis.net/about</a>.
+
 
 <br>
 <div style="background-color: white;">
