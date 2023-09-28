@@ -152,7 +152,3 @@ March 2005): 14–17.
 
 [^16]: For example, the speech by Prime Minister Lee Hsien Loong at the National Community Engagement Programme Dialogue, 19 March 2011.
 
-
-
-
-
