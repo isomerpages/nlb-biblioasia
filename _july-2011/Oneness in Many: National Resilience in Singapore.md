@@ -141,8 +141,7 @@ Yolanda Chin, ‘Reviewing National Education: Can the Heart be Taught where the
 
 [^11]: Singh, “[A Small State’s Quest for Security](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896),” 128–9.
 
-[^12]: K.U. Menon, “National Resilience: From Bouncing Back to Prevention,” _Ethos_ (January–
-March 2005): 14–17.
+[^12]: K.U. Menon, “National Resilience: From Bouncing Back to Prevention,” _Ethos_ (January–March 2005): 14–17.
 
 [^13]: See Gillian Koh, “Social Resilience and its Bases in Multicultural Singapore”, in _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007), 27–50 (Call no. RSING 305.80095957 SOC); Chua Beng Huat, “Multiculturalism as Official Policy: A Critique of the Management of Difference in Singapore,” in _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007), 51–67 (Call no. RSING 305.80095957 SOC); Yolanda Chin, ‘Reviewing National Education: Can the Heart be Taught where the Home is?” _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007), 81–96. (Call no. RSING 305.80095957 SOC)
 
@@ -151,4 +150,3 @@ March 2005): 14–17.
 [^15]: See Yolanda Chin and Norman Vasu, _Pledging Ourselves as One United People: A Study of Social Resilience in Singapore_, (Centre of Excellence for National Security, S. Rajaratnam School of International Studies, Nanyang Technological University, 8 February 2010)
 
 [^16]: For example, the speech by Prime Minister Lee Hsien Loong at the National Community Engagement Programme Dialogue, 19 March 2011.
-
