@@ -131,7 +131,7 @@ Finishing second in their qualifying group after a 0–4 drubbing by Indonesia, 
 All this, of course, was a lead-up to the historic Malaysia Cup win in May 1977.
 
 ![](/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/chootears2.jpg)
-<div style="background-color: white;">Choo Seng Quee fights back tears after Singapore’s thrilling 3–2 win against Penang in the Malaya Cup final held at the Merdeka Stadium in Kuala Lumpur on 28 May 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 8. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div> 
+<div style="background-color: white;">Choo Seng Quee fights back tears after Singapore’s thrilling 3–2 win against Penang in the Malaysia Cup final held at the Merdeka Stadium in Kuala Lumpur on 28 May 1977. <i>Image reproduced from Asian Soccer July 1977 (Singapore: Asian Soccer News, 1977–), 8. (From National Library, Singapore, call no. RSING 796.33405 AS).</i></div> 
 
 #### **Sacrifices and Accolades**
 
