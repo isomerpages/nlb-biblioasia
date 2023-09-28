@@ -76,8 +76,8 @@ Guo, while dazzled by Hoo’s collection, did not let this distract him from ser
 
 By 4 pm, the envoys were back on track on more officious proceedings. Guo and his suite finally met Governor William Jervois and his family at Government House. The conversation appeared rather superficial, although Guo had only positive things to write. He described the governor as more affable in bearing than the governor of Hong Kong, Arthur E. Kennedy, and his lady as “very intelligent and most sympathetic in her enquiries” (夫人亦贤明, 慰问甚勤).[^18] 
 
-![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_08_v2.png)
-<div style="background-color: white;">A watercolour painting titled “Government Hill from the New Harbour Road, Singapore” (1844) by Scotsman Charles Andrew Dyce. The Qing delegation visited Governor William Jervois at Government House on the hill. <i>National University of Singapore Museum Collection. Courtesy of NUS Museum.</i></div>
+![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/s1970-0052-049-0.jpg)
+<div style="background-color: white;">A watercolour painting titled “Government Hill from the New Harbour Road, Singapore” (1844) by Scotsman Charles Andrew Dyce. The Qing delegation visited Governor William Jervois at Government House on the hill. <i>Collection of NUS Museum, courtesy of National University of Singapore.</i></div>
 
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_09.png)
 <div style="background-color: white;"> Government House, 1900s. <i>Courtesy of National Archives of Singapore.</i></div>

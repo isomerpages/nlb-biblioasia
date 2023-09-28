@@ -2,5 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "About the Painters: Seeking the Unnamed Artists Behind Diard and
+        Duvaucel's Natural History Drawings.md"
       - Test2.md
       - Test page.md
