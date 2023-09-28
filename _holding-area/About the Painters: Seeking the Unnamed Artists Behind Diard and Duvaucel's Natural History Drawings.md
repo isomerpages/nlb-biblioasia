@@ -43,6 +43,16 @@ always be pointing curiously at something, <br>
 	
 In 1818, two French naturalists, Pierre-Médard Diard and Alfred Duvaucel, travelled to Southeast Asia to study the region’s wildlife.[\[1\]](#_ftn1) As part of this process, they collected specimens of species new to them and hired artists locally to produce drawings of these specimens.[\[2\]](#_ftn2) These stunning illustrations have been collected today in _Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818-1820_.[\[3\]](#_ftn3) While these 117 illustrations provide valuable documentation of some of the region’s fauna at that time, all of them were unsigned.[\[4\]](#_ftn4) Since the names of these artists are not known to be documented anywhere, their identities remain a perennial mystery.
 
+
+
+
+
+
+
+
+
+
+
 	
 	
 	
@@ -53,7 +63,7 @@ In 1818, two French naturalists, Pierre-Médard Diard and Alfred Duvaucel, trave
 	
 	
 	
-	
+	<br><br>
   
 #### Notes
 * * *
