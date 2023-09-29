@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - The 1973 SEAP Games in Singapore.md
       - "About the Painters: Seeking the Unnamed Artists Behind Diard and
         Duvaucel's Natural History Drawings.md"
       - Test2.md
