@@ -38,4 +38,18 @@ Each flat – with three bedrooms and a hall – was shared by six athletes and 
 
 The SEAP Games Village was declared open by Deputy Prime Minister Goh Keng Swee on 30 August 1973. To mark the occasion, Goh planted a Hop tree in the village centre while the heads of the contingents from the other participating countries also planted their own trees. Goh noted: “\[A\]s you can see for yourself, and as the tree-planting ceremony is intended to symbolise, this satellite town is not really a concrete jungle.” [^10] (After the games, the flats were sold through a balloting exercise at $19,000 each, with an additional $1,700 for furnishings.)
 
-The secretariat for the games was a three-storey building that was also in Toa Payoh. After the games, it became the&nbsp;Toa Payoh Branch Library, which opened on 7 February 1974.[^11] 
+The secretariat for the games was a three-storey building that was also in Toa Payoh. After the games, it became the Toa Payoh Branch Library, which opened on 7 February 1974.[^11]
+
+#### **Let the Games Begin**
+The opening ceremony of the 7th SEAP Games on 1 September 1973 was described as the “most colourful” ceremony Singapore had ever witnessed at the time. Shown live on television, the ceremony commenced with the arrival of President of Singapore, Benjamin Sheares, followed by the singing of the National Anthem and the introduction of the athletes from the seven participating nations – Burma (now Myanmar), Khmer Republic (now Cambodia), Laos, Malaysia, Singapore, Thailand and South Vietnam.[^12]
+
+In their striking crimson jackets for male athletes and cream for female, the Singapore contingent emerged onto the running track where they were greeted by the frenzied cheers of an enthusiastic crowd of 50,000 spectators.&nbsp;
+
+The Singapore contingent was 454 athletes strong, and included swimming sensations Pat Chan and Elaine Sng, track stars Heather Merican and Gloria Barnabas, high jumper Noor Azhar Abdul Hamid, and judokas Tan Sin Aun, Wong Kin Jong and Kan Kwok Toh.[^13]
+  
+After Barker’s welcome speech, President Sheares officially declared the games open. The blue and white SEAP Games flag was unfurled amid the “ringing sound of a trumpet fanfare”, and accompanied by the release of some 19,000 multi-hued balloons and a 21-gun salute.
+
+The theme song was performed by the 2,000-strong Combined Schools Choir as Singaporean sprinter C. Kunalan, dressed in an all-white track suit, carried the SEAP flame into the stadium to light the torch perched at the highest point of the stadium.[^14] (David Lim Kim San, a music inspector from the Ministry of Education, composed the music for the song titled “The SEAP Games Theme Song”, with lyrics by E.W. Jesudason, the former principal of Raffles Institution.[^15])
+
+In a solemn tone, swimmer Pat Chan took the SEAP oath on behalf of all participating athletes, pledging their commitment to “take part in the Games in fair competition, respecting the regulations which govern them, and with the desire to participate in the true spirit of sportsmanship for the honour of our country and the glory of sport”.[^16]
+
