@@ -2,7 +2,6 @@ collections:
   videos:
     output: true
     order:
-      - Arts.md
       - Singapore Storytellers.md
       - BiblioAsia Reels/About the series.md
       - BiblioAsia Reels/.keep
