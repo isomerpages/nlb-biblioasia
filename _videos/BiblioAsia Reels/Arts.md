@@ -4,7 +4,6 @@ permalink: /videos/reels/arts/
 description: ""
 third_nav_title: BiblioAsia Reels
 ---
-
 #### Punished for Not Being a Steinway
 <b> Based on the article "[History of the Chappell Piano](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/)" </b>
 
