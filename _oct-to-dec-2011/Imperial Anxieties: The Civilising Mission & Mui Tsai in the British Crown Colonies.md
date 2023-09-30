@@ -6,7 +6,7 @@ description: Research Associate Yee Yeong Chong examines the issues arising from
   the passing of the Mui Tsai Ordinance and revisits the tensions that arose as
   events surrounding the MuiTsai Commission unfolded in Malaya
 ---
-#### Research Associate Yee Yeong Chon examines the issues arising from the passing of the Mui Tsai Ordinance, and revisits the tensions surrounding events unfolding around the Mui Tsai Commission in Malaya.
+#### Research Associate Yee Yeong Chong examines the issues arising from the passing of the Mui Tsai Ordinance, and revisits the tensions surrounding events unfolding around the Mui Tsai Commission in Malaya.
 
 <img style="width:50%;" src="/images/Vol%207%20issue%203/ImperialAnxieties/Chinese%20Amah.jpg">
  <div style="background-color: white;">Portrait of a Chinese <i>amah</i> with her charge, a European child, in a 1920 portrait. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
