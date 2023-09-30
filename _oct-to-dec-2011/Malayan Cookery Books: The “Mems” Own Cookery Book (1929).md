@@ -99,7 +99,7 @@ Leong-Salobir, C. (2011). [_Food culture in colonial Asia: A taste of empire_](h
 
 Makan Ada. (1908, May 26). [Careful cookery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080526-1.2.3). _The Singapore Free Press and Mercantile Advertiser_, p. 1. Retrieved from NewspaperSG.
 
-[Notes of the Day: Malay chutney](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390711-1.2.46). (1939, July 11). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
+[Notes of the day: Malay chutney](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390711-1.2.46). (1939, July 11). _The Straits Times_, p. 10. Retrieved from NewspaperSG.
 
 Olver, L. (2011, July 4). _The food timeline_. Retrieved from Foodtimeline.org. website.
 
@@ -141,21 +141,21 @@ Tregonning, K.G. (1967). [_The Singapore Cold Storage, 1903–1966_](https://ese
 
 [^7]: [Lighter dinner](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200927-1.2.74). (1920, September 27). _The Straits Times_, p. 10.
 
-[^8]: For example her recipes for [tinned salmon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (p. 105) and [sardines](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (p. 110).
+[^8]: For example her recipes for tinned salmon (p. 105) and sardines (p. 110).
 
-[^9]: An advertisement of the Katz Brothers in _[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19000330-1.2.17.1)_ dated 30 Mar 1900 showed it offered gas stoves for sale.
+[^9]: An advertisement of the Katz Brothers in _[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19000330-1.2.17.1)_ dated 30 March 1900 showed it offered gas stoves for sale.
 
-[^10]: Cold Storage opened in Kuala Lumpur in 1910 and in Singapore, by 1916, it was manufacturing ice. ([Leong-Salobir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765), (2011), p. 31)
+[^10]: Cold Storage opened in Kuala Lumpur in 1910; in Singapore, by 1916, it was manufacturing ice. ([Leong-Salobir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765), 2011, p. 31)
 
-[^11]: [Leong-Salobir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765), (2011), p. 31.
+[^11]: [Leong-Salobir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13935765), 2011, p. 31.
 
-[^12]: However she does mention Messrs H. Bolter for good [French dried sausages](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525) (p. 105).
+[^12]: However, she does mention Messrs H. Bolter for good French dried sausages (p. 105).
 
 [^13]: [Some new books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220506-1.2.56). (1922, May 6). _The Singapore Free Press and Mercantile Advertiser_, p. 9.
 
-[^14]: The article “[Careful cookery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080526-1.2.3)” (26 May 1908) elaborates further on how new ideas, recipes and techniques can help the Hylam cook in the employ of colonial families reinvigorate the flavours and variety of dishes served in the home.
+[^14]: The article “[Careful cookery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080526-1.2.3)” (26 May 1908) elaborates further on how new ideas, recipes and techniques can help the Hylam (Hainanese) cook in the employ of colonial families reinvigorate the flavours and variety of dishes served in the home.
 
-[^15]: “Makan ada”. (1908, May 26). [Careful cookery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080526-1.2.3). The Singapore Free Press and Mercantile Advertiser, p. 1.
+[^15]: “Makan ada”. (1908, May 26). [Careful cookery](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080526-1.2.3). _The Singapore Free Press and Mercantile Advertiser_, p. 1.
 
 [^16]: [Kinsey](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5232525), (1929), preface.
 
