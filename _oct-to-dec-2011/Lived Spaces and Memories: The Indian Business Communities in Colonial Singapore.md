@@ -84,23 +84,23 @@ The spatial Indian identity and influence in colonial Singapore’s landscape re
 
 #### **NOTES**
     
-[^1]: Rajat Kanta Ray, “Asian Capital in the Age of European Domination: The Rise of the Bazaar, 1800–1914,” _Modern Asian Studies_ 29 (3) (July 1995): 553–54. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website).
+[^1]: Rajat Kanta Ray, “Asian Capital in the Age of European Domination: The Rise of the Bazaar, 1800–1914,” _Modern Asian Studies_ 29(3) (July 1995): 553–54. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website).
 
 [^2]: Claude Markovits, _[The Global World of Indian Merchants, 1750–1947: Traders of Sind From Bukhara to Panama](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9898082)_ (Cambridge: Cambridge University Press, 2000). (Call no. RBUS 382.095491 MAR)
 
-[^3]: Takeshi Hamashita, “‘Rethinking Historical Network in Asia’ in the Workshop on Asian Business Networks, 31–3–1998 to 2–4–1998,” organized by FASS, NUS, Singapore and Institute of Oriental Culture, Tokyo University.
+[^3]: Takeshi Hamashita, “‘Rethinking Historical Network in Asia’ in the Workshop on Asian Business Networks, 31–3–1998 to 2–4–1998,” organized by Faculty of Arts and Social Sciences, National University of Singapore and Institute of Oriental Culture, Tokyo University.
 
-[^4]: They were locally known as _Bengalees_ possibly for their association with the Bengal Native Infantry. Some later left the garrison to become civilian migrants in the new land. Brij V. Lal, Peter Reeves and Rajesh Rai, eds., _[The Encyclopedia of the Indian Diaspora](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12794718)_ (Singapore: Editions Didier Millet in association with NUS, 2006), 176. (Call no. RSING 909.0491411003 ENC)
+[^4]: They were locally known as _Bengalees_ possibly for their association with the Bengal Native Infantry. Some later left the garrison to become civilian migrants in the new land. Brij V. Lal, Peter Reeves and Rajesh Rai, eds., _[The Encyclopedia of the Indian Diaspora](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12794718)_ (Singapore: Editions Didier Millet in association with National University of Singapore, 2006), 176. (Call no. RSING 909.0491411003 ENC)
 
 [^5]: Robert Godfrey and Samuel Dhoraisingam, eds., _[Passage of Indians, 1923–2003](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12220781)_ (Singapore: Singapore Indian Association, 2003), 8. (Call no. RSING q369.25957 NET)
 
-[^6]: M. Sangaralingam, “The Role of the Tamils in the Development of Singapore, in _[Cinkappuril Namatu Varalaru: Pattavatu Cinkappurt Tamil Ilaiyar Manattu Ayvatankal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10371495)_ \[Our History in Singapore: 10th Singapore Tamil Youth Conference Proceedings\], ed. A. Veeramani (Cinkappur: Cinkappur Tamil Ilaiyar Manram, 1999). (Call no. Tamil YPRSING 305.894811 SIN)
+[^6]: M. Sangaralingam, “The Role of the Tamils in the Development of Singapore,” in _[Cinkappuril Namatu Varalaru: Pattavatu Cinkappurt Tamil Ilaiyar Manattu Ayvatankal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10371495)_ \[Our History in Singapore: 10th Singapore Tamil Youth Conference Proceedings\], ed. A. Veeramani (Cinkappur: Cinkappur Tamil Ilaiyar Manram, 1999). (Call no. Tamil YPRSING 305.894811 SIN)
 
 [^7]: Godfrey and Dhoraisingam, _[Passage of Indians](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12220781)_, 8–9.
 
 [^8]: Lal, Reeves and Rai, _[Encyclopedia of the Indian Diaspora](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12794718)_, 45–46.
 
-[^9]: Tan Tai Wong and Andrew Major, “India and Indians in the Making of Singapore,” in _[Singapore-India Relations: A Primer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470232)_, ed. Yong Mun Cheong and V.V. Bhanoji Rao (Singapore: Singapore University Press, 1995), 5. (Call no. RSING 337.5957054 SIN)
+[^9]: Tan Tai Yong and Andrew Major, “India and Indians in the Making of Singapore,” in _[Singapore-India Relations: A Primer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470232)_, ed. Yong Mun Cheong and V.V. Bhanoji Rao (Singapore: Singapore University Press, 1995), 5. (Call no. RSING 337.5957054 SIN)
 
 [^10]: Tan and Major, “[India and Indians in the Making of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470232),” 5.
 
@@ -110,21 +110,21 @@ The spatial Indian identity and influence in colonial Singapore’s landscape re
 
 [^13]: Dhoraisingam, _[Peranakan Indians of Singapore and Melaka](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12687570)_, 17–18.
 
-[^14]: Colin Anderson, Simon Cowling and Russell Springham, eds., _[Singapore 30: A Portfolio of Singapore’s Leading Companies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484443)_ (Singapore: Springham Anderson Design Pte Ltd., 1995), 7. (Call no. RSING 338.76095957 AND)
+[^14]: Colin Anderson, Simon Cowling and Russell Springham, eds., _[Singapore 30: A Portfolio of Singapore’s Leading Companies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484443)_ (Singapore: Springham Anderson Design Pte Ltd, 1995), 7. (Call no. RSING 338.76095957 AND)
 
 [^15]: Roderick Maclean, _[A Pattern of Change: The Singapore International Chamber of Commerce from 1837](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10103441)_ (Singapore: Singapore International Chamber of Commerce, 2000), 14. (Call no. RSING q380.10605957 MAC)
 
-[^16]: Straits Settlements, _[Report of the Commission Appointed by His Excellency the Governor of the Straits Settlements To Enquire Into and Report on the Trade of the Colony, 1933–1934](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5453408)_, part II, Cap 6 (Singapore: G.P.O., 1934), 41. (Call no. RRARE 382.095951 STR)
+[^16]: Straits Settlements, _[Report of the Commission Appointed by His Excellency the Governor of the Straits Settlements To Enquire Into and Report on the Trade of the Colony, 1933–1934](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5453408)_, part II, Ch. 6 (Singapore: G.P.O., 1934), 41. (Call no. RRARE 382.095951 STR)
 
 [^17]: Walter Makepeace et al, ibid, 345. See _[The Journal of the Indian Archipelago and Eastern Asia, vol. V, no. 1](https://eresources.nlb.gov.sg/printheritage/detail/96e662cb-55ca-48bd-af98-a0a9b5d4eaa5.aspx)_, January 1851 (From BookSG); J. R. Logan, _[The Journal of the Indian Archipelago and Eastern Asia, Vol. VIII](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604)_, 1854.
 
 [^18]: Sharon Siddique and Nirmala Puru Shotam, _[Singapore’s Little India: Past, Present and Future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082449)_ (Singapore: Institute of Southeast Asian Studies, 1982), 7. (Call no. RSING 305.89141105957 SID)
 
-[^19]: A. Mani, “Indians in Singapore Society,” in _[Indian Communities in Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12803831)_, ed. K. S. Sandhu and A. Mani (Singapore: Institute of Southeast Asian Studies, 2006). (Call no. RSING 305.891411059 IND)
+[^19]: A. Mani, “Indians in Singapore Society,” in _[Indian Communities in Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12803831)_, ed. K.S. Sandhu and A. Mani (Singapore: Institute of Southeast Asian Studies, 2006). (Call no. RSING 305.891411059 IND)
 
-[^20]: The three most common sects of the Gujarati Muslim migrants were the ‘Bohras’, ‘Khojas’ and the ‘Memons’. ‘Bohras’ were, perhaps, the largest in number.
+[^20]: The three most common sects of the Gujarati Muslim migrants were the Bohras, Khojas and the Memons. Bohras were perhaps the largest in number.
 
-[^21]: ‘Al-Abrar’ or ‘Koochoo Pally’ means a small mosque in tamil. The mosque has been gazetted as a national monument in 1974. For further reference, see Norman Edwards and Peter Keys, _[Singapore: A Guide to Buildings, Streets, Places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)_ (Singapore: Times Books International, 1988). (Call no. RSING 915.957 EDW)
+[^21]: ‘Al-Abrar’ or ‘Koochoo Pally’ means a small mosque in Tamil. The mosque has been gazetted as a national monument in 1974. For further reference, see Norman Edwards and Peter Keys, _[Singapore: A Guide to Buildings, Streets, Places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)_ (Singapore: Times Books International, 1988). (Call no. RSING 915.957 EDW)
 
 [^22]: Kantilal Jamnadas Shah, oral history interview by Lim How Seng, 21 September 1981, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/df82557b-115d-11e3-83d5-0050568939ad-OHC000094_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 2 of 8, National Archives of Singapore ([accession no. 000094](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/df82557b-115d-11e3-83d5-0050568939ad)), 11–21.
 
