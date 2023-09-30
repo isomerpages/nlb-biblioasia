@@ -139,18 +139,18 @@ Tan, M.S.H. (2008). _The making of a garden industrial town: History, transforma
 
 [^12]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19250109-1.2.71)_, 9 Jan 1925, p. 9; _[The Singapore Press and Mercantile Advertiser](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19261011-1.2.46)_, 11 Oct 1926, p. 9. With the dismantling, the many level changes along Bukit Timah Canal on the future Dunearn Road side would no longer cause inconvenience to the many entrances to housing estates located along that stretch.
 
-[^13]: See Lee Kip Lin, “Dock Development and the Growth of Singapore Town”, &nbsp;in [_Tanjong Pagar: Singapore’s Cradle of Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5288751), pp. 51—59.
+[^13]: See Lee Kip Lin, “Dock Development and the Growth of Singapore Town”, &nbsp;in [_Tanjong Pagar: Singapore’s Cradle of Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5288751), pp. 51–59.
 
 [^14]: In mid-June 1929, the Singapore Society of Architects lodged a complaint that eventually had to be resolved by the Colonial Office in London, over the fact that Swan and Maclaren were directly appointed even though a senior partner was a member of the Railway Board. This represented a conflict of interests and requested for the conduct of a formal architectural competition, which did not materialise. From CO 273/563/12, National Archives, United Kingdom.
 
-[^15]: From Jon Lim, “Architecture of Singapore, 1819–2000,” in [_Transforming Traditions_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10364735), pp. 196—198. Douchan Slobodov Petrovich was later appointed as a Yugoslavian Consul in Singapore in 1940.
+[^15]: From Jon Lim, “Architecture of Singapore, 1819–2000,” in [_Transforming Traditions_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10364735), pp. 196–198. Douchan Slobodov Petrovich was later appointed as a Yugoslavian Consul in Singapore in 1940.
 
 [^16]: The running of the hotel was leased to the Lim family from 1931 onwards, and who closed the hotel in 1993 after a long-drawn legal tussle over rental conditions since the 1980s.
 
-[^17]: Vannetti (1881–1962) was teaching at the Italian Academy of Fine Arts at Florence when he accompanies Bigazzi in a Malayan tour in 1929, possibly in relation to the railway station project. Bigazzi was a major supplier to decorative marble to Malaya, including projects such as Lido cinema, Denmark House, the AIA Building, Cathay Hotel and the house of Eu Tong Seng. He was represented by Frankels and Co. and later by A. Clouet and Co. From _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19290205-1.2.95)_, 5 Feb 1929, p. 10.
+[^17]: Vannetti (1881–1962) was teaching at the Italian Academy of Fine Arts at Florence when he accompanied Bigazzi on a Malayan tour in 1929, possibly in relation to the railway station project. Bigazzi was a major supplier of decorative marble to Malaya, including projects such as the Lido cinema, Denmark House, the AIA Building, Cathay Hotel and the house of Eu Tong Seng. He was represented by Frankels and Co. and later by A. Clouet and Co. _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19290205-1.2.95)_, 5 Feb 1929, p. 10.
 
 [^18]: The murals were designed by Denis Santry, a partner of Swan and Maclaren, who also designed the Sultan Mosque. Each panel measured 25 by 3 feet, and comprised 9,000 glazed tiles in total. Separate emblems bearing the initials of the railway were also set onto the walls where there were no murals.
 
-[^19]: Coincidentally, Cecil Clementi (1875–1947) was the nephew of Cecil Clementi Smity (1840–1916), who had in 1899 passed the plan through Legislative Council to commence the construction of the Singapore-Kranji Railway.
+[^19]: Coincidentally, Cecil Clementi (1875–1947) was the nephew of Cecil Clementi Smith (1840–1916), who had in 1899 passed the plan through Legislative Council to commence the construction of the Singapore-Kranji Railway.
 
 [^20]: For a discussion, see Michael Tan, _The Making of a Garden Industrial Town_, pp. 1–30.
