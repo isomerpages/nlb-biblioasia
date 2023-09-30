@@ -76,7 +76,7 @@ In examining some of the key debates surrounding the Mui Tsai Commission Report,
 While the *mui tsai* has largely faded from public consciousness since the postwar years, the domestic service economy is now an entrenched reality for many Asian societies. With women arriving from the neighbouring countries of Indonesia, the Philippines and South Asia into the “tiger economies” of Hong Kong, Singapore, South Korea and Taiwan, the new rich in Asia are now masters of domestic workers in their own right. Ironically, the legacy of colonialism’s ethno-racialisation of its subjects continues to manifest itself through the exploitation of “darker skinned” domestic workers.[^26] It remains to be seen if humanitarian groups can be successful in an age where the discourse of rights does not enjoy the luxury of critiquing a clumsy target like “colonialism”; instead, they must now manoeuvre the sociocultural specificities of Asian countries that label the discourse of rights as an inherently “western” construct.
 
 
-The author acknowledges with thanks Assistant Professor Daniel P.S. Goh from the Department of Sociology, National University of Singapore for reviewing the article.
+<i>The author acknowledges with thanks Assistant Professor Daniel P.S. Goh from the Department of Sociology, National University of Singapore for reviewing the article.</i>
 
 <br>
 <div style="background-color: white;">
