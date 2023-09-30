@@ -116,7 +116,7 @@ Florida, N.K. (1995). [_Writing the past, inscribing the future: History as prop
 
 Hefner, R.W. (1983, November). Ritual and cultural reproduction in non-Islamic Java. _American Ethnologist, 10_ (4), 665–683. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Iskandar P. Nugraha. (2001). [_Mengikis batas timur dan barat: Gerakan theosofi dan nasionalisme Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10402184) \[_Eradicating the boundaries between the east and the west: Theosophical movement and nationalism in Indonesia_\]. Jakarta: Komunitas Bambu. (Call no.: Malay RUR 299.934 NUG)
+Iskandar P. Nugraha. (2001). [_Mengikis batas timur dan barat: Gerakan theosofi dan nasionalisme Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10402184) \[Eradicating the boundaries between the east and the west: Theosophical movement and nationalism in Indonesia\]. Jakarta: Komunitas Bambu. (Call no.: Malay RUR 299.934 NUG)
 
 Kuah-Pearce, K.E. (2009). [_State, society and religious engineering: Towards a reformist Buddhism in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13233125). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 294.337095957 KUA)
 
@@ -134,6 +134,6 @@ Yi, J. (2007). [_A record of the Buddhist religion as practised in India and the
 
 #### **NOTES**
 
-[^1]: A _Stupa_ is a dome-shaped structure used for keeping Buddhist relics. However, in its development, it becomes a symbol of Buddhism.
+[^1]: A stupa is a dome-shaped structure used for keeping Buddhist relics. However, in its development, it has become a symbol of Buddhism.
 
-[^2]: _Ehipassiko_ is a Pali word which literally means “come, see and prove it”. This word refers to the Buddhist teaching that encourages people to use logic and reasoning with mindfulness in search of truth, and not to use blind faith.
+[^2]: _Ehipassiko_ is a Pali word that literally means “come, see and prove it”. This word refers to the Buddhist teaching that encourages people to use logic and reasoning with mindfulness in search of truth, and not to use blind faith.
