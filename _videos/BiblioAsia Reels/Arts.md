@@ -4,7 +4,7 @@ permalink: /videos/reels/arts/
 description: ""
 third_nav_title: BiblioAsia Reels
 ---
-#### How did a concert grand piano of the Victoria Memorial Hall end up as a public piano in the National Library?
+#### **How did a concert grand piano of the Victoria Memorial Hall end up as a public piano in the National Library?**
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/osLu3J8sGTg" frameborder="0" allowfullscreen=""></iframe></div>
 
