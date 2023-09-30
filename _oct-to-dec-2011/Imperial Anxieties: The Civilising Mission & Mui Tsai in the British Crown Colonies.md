@@ -6,24 +6,24 @@ description: Research Associate Yee Yeong Chong examines the issues arising from
   the passing of the Mui Tsai Ordinance and revisits the tensions that arose as
   events surrounding the MuiTsai Commission unfolded in Malaya
 ---
-#### Research Associate _Yee Yeong Chong_ examines the issues arising from the passing of the Mui Tsai Ordinance and revisits the tensions that arose as events surrounding the _MuiTsai_ Commission unfolded in Malaya.
+#### Research Associate Yee Yeong Chon examines the issues arising from the passing of the Mui Tsai Ordinance, and revisits the tensions surrounding events unfolding around the Mui Tsai Commission in Malaya.
 
 <img style="width:50%;" src="/images/Vol%207%20issue%203/ImperialAnxieties/Chinese%20Amah.jpg">
  <div style="background-color: white;">Portrait of a Chinese <i>amah</i> with her charge, a European child, in a 1920 portrait. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 	
 
-*We are dealing with a continually changing population, and, as everybody knows, away back for centuries past there have been social customs, as regards polygamy, the sale of children, and all the rest of it, inherent in Chinese life which are repugnant to our ideas and are extremely difficult to tackle, with a shifting Chinese population and particularly with a Chinese population so many of whom are living, not in houses, but in boats … We have set our hands to the plough to eradicate or mitigate the evils from those customs, and we are not going to turn back*.
+<center>We are dealing with a continually changing population, and, as everybody knows, away back for centuries past there have been social customs, as regards polygamy, the sale of children, and all the rest of it, inherent in Chinese life which are repugnant to our ideas and are extremely difficult to tackle, with a shifting Chinese population and particularly with a Chinese population so many of whom are living, not in houses, but in boats… We have set our hands to the plough to eradicate or mitigate the evils from those customs, and we are not going to turn back.
 
-— William Ormsby-Gore<br> Colonial Secretary, Statement on the Mui Tsai Commission Report, House of Commons, 2 June 1937, London.[^1]
+— William Ormsby-Gore<br> Colonial Secretary, Statement on the Mui Tsai Commission Report, House of Commons, 2 June 1937, London[^1]</center>
 
-With the passing of the *Mui Tsai* Ordinance in 1932 in Malaya, the practice of employing female child servants within Chinese households quickly fell out of favour.[^2] The decline of *Mui Tsai* (妹仔, a euphemism for “’little sister” in Cantonese), however, was not a straightforward affair for the British Colonial Office, who found themselves embroiled in a delicate tussle between anti-slavery and white feminist lobby groups, the Chinese elite, and the Protestant Church in Hong Kong and Malaya.[^3] The moral outrage, as expressed by abolitionists, was that the Colonial Office had turned a blind eye to the Chinese tradition of owning slave girls in its dominion, a custom that was unbefitting of western civilisation.
+With the passing of the Mui Tsai Ordinance in 1932 in Malaya, the practice of employing female child servants within Chinese households quickly fell out of favour.[^2] The decline of *mui tsai* (妹仔; a euphemism for “little sister” in Cantonese), however, was not a straightforward affair for the British Colonial Office, who found themselves embroiled in a delicate tussle between anti-slavery and white feminist lobby groups, the Chinese elite, and the Protestant Church in Hong Kong and Malaya.[^3] The moral outrage, as expressed by abolitionists, was that the Colonial Office had turned a blind eye to the Chinese tradition of owning slave girls in its dominion, a custom that was unbefitting of western civilisation.
 
 
 <img style="width:80%;" src="/images/Vol%207%20issue%203/ImperialAnxieties/labour%20party%20members.jpg">
  <div style="background-color: white;">Women Labour Party Members of Parliament in 1929. Edith Picton–Turbervill (fourth from left) emerged as the key contributor to the imperial feminist critique of the <i>mui tsai</i> system.
 </div>
 
-Here lay a dilemma for the British Empire: how were the officials to “civilise” the Chinese without demolishing constructed boundaries between themselves as “enlightened masters” and their “backward subjects”? Conversely, in deferring to the Chinese out of respect for their customs, thereby maintaining those boundaries, how would the British Crown uphold its moral ground as the harbinger of civilisation? To quote Ania Loomba, this anxiety over the intrusiveness of colonial intervention highlights a contradiction about Colonialism itself: that “it needs both to ‘civilize’ its ‘others’ and to fix them into ‘otherness’.”[^4] As a motif of Britain’s self doubt over the colonial enterprise, the protracted process of abolishing *mui tsai* in the crown colonies carried far greater social and political impact than a mere matter of administration. Eviscerated in the process are the assumptions of who and what constituted the categories of coloniser/ colonised, as with the often taken for granted ideas of a monolithic and omnipotent British Empire.These emerging doubts could — and in fact did — eventually force the British to reassess the basis of European cultural superiority.
+Here lay a dilemma for the British Empire: how were the officials to “civilise” the Chinese without demolishing constructed boundaries between themselves as “enlightened masters” and their “backward subjects”? Conversely, in deferring to the Chinese out of respect for their customs, thereby maintaining those boundaries, how would the British Crown uphold its moral ground as the harbinger of civilisation? To quote Ania Loomba, this anxiety over the intrusiveness of colonial intervention highlights a contradiction about colonialism itself: “it needs both to ‘civilize’ its ‘others’ and to fix them into ‘otherness’”.[^4] As a motif of Britain’s self doubt over the colonial enterprise, the protracted process of abolishing *mui tsai* in the crown colonies carried far greater social and political impact than a mere matter of administration. Eviscerated in the process are the assumptions of who and what constituted the categories of coloniser/colonised, as with the often taken-for-granted ideas of a monolithic and omnipotent British Empire. These emerging doubts could – and in fact did – eventually force the British to reassess the basis of European cultural superiority.
 
 This article briefly revisits some of these tensions as events surrounding the *Mui Tsai* Commission unfolded in Malaya.[^5] Following mounting pressure in Hong Kong to reform bonded servitude, colonial officials despatched a team to survey local opinions on the mui tsai, culminating in the *Mui Tsai* Commission Report in 1937. More than just providing insight into the bureaucratic process of colonial knowledge production and racial classification, the discordant positions between the Majority and Minority Reports in the Commission’s findings paint a picture of competing visions of the British Empire. These polarised positions elucidate yet another episode in the long history of colonialism’s unresolved tension between the particularism of imperial exploitation and the universalistic discourse on freedom and social progress.
 
@@ -80,8 +80,8 @@ The author acknowledges with thanks Assistant Professor Daniel P.S. Goh from the
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%207%20issue%203/ImperialAnxieties/yyc.jpg" style="width: 100px; height: 100px;"/><center><b>Yee Yeong Chong</b> <br> 
+<br>
+<img src="/images/Vol%207%20issue%203/ImperialAnxieties/yyc.jpg" style="width: 100px; height: 100px;"><center><b>Yee Yeong Chong</b> <br> 
 Research Associate II <br>
 ENGAGEMENT<br> National Library</center>
 </div>
@@ -108,7 +108,7 @@ Loomba, A. (1998). [_Colonialism-Postcolonialism_](https://eservice.nlb.gov.sg/i
 
 Lowrie, C. (2009). [_In service of empire: Domestic service and colonial mastery in Singapore and Darwin, 1890s to 1930s_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202846830)_._ University of Wollongong thesis collection. (Call no.: RSING 331.76164046095957 LOW)
 
-Miers, S. (1994). Mus Tsai through the eyes of the victim: Janet Lim’s story of bondage and escape. In M. Jaschok & S. Miers (Eds.), [_Women and Chinese patriarchy: Submission, servitude, and escape_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205) (pp. 108—121). Hong Kong: Hong Kong University Press. (Call no.: R 305.420951 WOM)
+Miers, S. (1994). Mus Tsai through the eyes of the victim: Janet Lim’s story of bondage and escape. In M. Jaschok &amp; S. Miers (Eds.), [_Women and Chinese patriarchy: Submission, servitude, and escape_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205) (pp. 108—121). Hong Kong: Hong Kong University Press. (Call no.: R 305.420951 WOM)
 
 Ong, A. (2006). A biocartography: Maids, neoslavery and NGOs. In [_Neoliberalism as exception: Mutations in citizenship and sovereignty_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12791391) (pp. 195—218). Durham, N.C.: Duke University Press. (Call no.: R 323.601 ONG)
 
@@ -126,11 +126,11 @@ UK Parliament. (1937, June 2). _House of Commons debates_ (Vol. 324, cols. 1025�
 
 Watson, J.L. (Ed.). (1980). Transactions in people: The Chinese market in slaves, servants, and heir. In [_Asian and African systems of slavery_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1490987) (223—250). Berkeley: University of California Press. (Call no.: RSEA 306.810951 MAR)
 
-Watson, R.S. (1991). Wives, concubines and maid: Servitude and kinship in the Hong Kong regions, 1900–1940. In R.S. Watson & P.B. Ebrey (Eds.), [_Marriage and inequality in Chinese society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5495159) (pp. 231—255). Berkeley: University of California Press. (Call no.: R 306.810951 MAR)
+Watson, R.S. (1991). Wives, concubines and maid: Servitude and kinship in the Hong Kong regions, 1900–1940. In R.S. Watson &amp; P.B. Ebrey (Eds.), [_Marriage and inequality in Chinese society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5495159) (pp. 231—255). Berkeley: University of California Press. (Call no.: R 306.810951 MAR)
 
 Wong, E.E.L (2005). [_Singapore, my Utopia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12677734)_._ Singapore: Excelsis Life Works. (Call no.: RSING 331.48164046095957 WON)
 
-Woods, W.W. & Wills, C.A. (1937). [_Mui tsai in Hong Kong and Malaya: Report of_ commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407199) (2 vols.). London: His Majesty’s Stationery Office. (Call no.: RCLOS q306.362095125 MUI)
+Woods, W.W. &amp; Wills, C.A. (1937). [_Mui tsai in Hong Kong and Malaya: Report of_ commission](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407199) (2 vols.). London: His Majesty’s Stationery Office. (Call no.: RCLOS q306.362095125 MUI)
 
 Yuen, K. (2004, December). Theorizing the Chinese: The Mui Tsai controversy and constructions of transnational Chineseness in Hong Kong and British Malaya. _New Zealand Journal of Asian Studies, 6_ (2), 95—110.
 
