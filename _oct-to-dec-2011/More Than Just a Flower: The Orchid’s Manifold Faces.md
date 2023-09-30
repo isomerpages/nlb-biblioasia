@@ -6,7 +6,7 @@ description: Senior Librarian Ang Seow Leng gives us a crash course in all
 ---
 #### Senior Librarian Ang Seow Leng gives us a crash course in all things orchids and their special relationship with Singapore.
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Garden_1.jpg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Garden_1.jpg" style="width:80%;">
  <div style="background-color: white;">The National Orchid Garden offers a permanent showcase of the largest display of tropical orchids in the world, including “hand-crafted” orchids bred by the Gardens’ horticultural staff. <i>Simon McGill.</i></div>
  
 The 20th World Orchid Conference will once again be held in Singapore from 13–20 November, at the Marina Bay Sands Expo and Convention Centre. This major event is regarded as the “Olympics of Orchids”. World Orchid Conferences were initiated in 1952 by Gordon W. Dillon from the American Orchid Society. He was also the editor for the *American Orchid Society Bulletin* from 1943–1967 and from 1970–1973. The first conference was held in St Louis, Missouri, in October 1954. Since then, it has been held once every three years. Regarded as the most significant event in the international orchid circuit, it attracts academics, orchid breeders and enthusiasts who gather to share about the promotion, cultivation and study of orchids.
@@ -23,11 +23,11 @@ Competitions to judge award-winning orchids are common in flower shows. Cups, me
 
 According to Teoh Eng Soon, an orchid enthusiast, awards from these particular societies are most highly valued: the Royal Horticultural Society, American Orchid Society, Orchid Society of Southeast Asia, Orchid Society of Thailand, Hawaiian Orchid Society, South Florida Orchid Society and the Australian Orchid Council.[^6] These awards recognise the best orchids grown, encourage research and reward the growers and breeders for their efforts.
 
-#### **Orchids — More Than Just a Flower**
+#### **Orchids – More Than Just a Flower**
 
-Orchids have enjoyed admiration from generations of artists, gardeners and philosophers. Confucius said, “acquaintance with good men was like entering a room full of fragrant orchids. One barely notices the scent, but as time passes a subtle influence will be exerted to one”. [^7] There is even has a legend attributed to one of its species. According to the Javanese, the foliage of *Macodes petola* (also known as jewel orchid, famed for their striking leaf patterns) arose from shreds of a magic silk scarf that had been placed on jagged rock by a beautiful goddess.[^8]
+Orchids have enjoyed admiration from generations of artists, gardeners and philosophers. Confucius said, “acquaintance with good men was like entering a room full of fragrant orchids. One barely notices the scent, but as time passes a subtle influence will be exerted to one”. [^7] There is even has a legend attributed to one of its species. According to the Javanese, the foliage of the *Macodes petola* (also known as jewel orchid, famed for its striking leaf patterns) arose from shreds of a magic silk scarf that had been placed on jagged rock by a beautiful goddess.[^8]
 
-The orchid family, *Orchidaceae*, is one of the largest families of flowering plants and has about 25,000 species. With the sheer amount of the species under this family, some are still waiting to be discovered, while new species are being found and hybrids being created all the time. The orchid derives its name from the Greek term, *orchis*, meaning “the testicles”, an association made by Theophrastus (c. 370—c. 287BC), with reference to the shape of the root tubers of species in Greece. The ophrastus was a Greek philosopher who wrote two large botanical treatises, *History of Plants*, dealing with classification and distribution, and *Causes of Plants*, dealing with structure and physiology. Later, Carl von Linnaeus (1707—1778), a Swedish naturalist and physician, who is well known as the “Father of Plant Taxonomy”, retained this name in his *Species Plantarum* (1753), which introduced the concept of binomial nomenclature.[^9] 
+The orchid family, *Orchidaceae*, is one of the largest families of flowering plants and has about 25,000 species. With the sheer amount of the species under this family, some are still waiting to be discovered, while new species are being found and hybrids being created all the time. The orchid derives its name from the Greek term, *orchis*, meaning “the testicles”, an association made by Theophrastus (c. 370–c. 287 BCE), with reference to the shape of the root tubers of species in Greece. Theophrastus was a Greek philosopher who wrote two large botanical treatises, *History of Plants*, about classification and distribution, and *Causes of Plants*, dealing with structure and physiology. Later, Carl von Linnaeus (1707–78), a Swedish naturalist and physician, who is well known as the “Father of Plant Taxonomy”, retained this name in his *Species Plantarum* (1753), which introduced the concept of binomial nomenclature.[^9] 
 
 Orchids can be commonly found in homes, hotels and offices. Flourishing in all parts of the world, they come in different colours, shapes and sizes, and can be found growing in a wide range of environments. Teoh summarised it best, when he drew attention to the resemblance of orchids to insects and even slippers:
 
@@ -55,7 +55,7 @@ A Tissue Culture Laboratory was established in the Gardens in the early 1970s to
 
 The Orchid Enclosure was first opened to the public in 1955. The hugely popular enclosure was expanded with time and the National Orchid Garden was opened at the end of 1995, exhibiting an extensive range of orchids. In order to cultivate and research the orchid species growing in higher altitudes and from temperate climates, the Cold House, also known as the Temperate House, was built in 1972. And in 2004, it was replaced by the Cool House Conservatory, which was constructed in the National Orchid Garden.[^23] As at 2009, Tan Wee Kiat reported that there were more than 1,000 orchid species and 2,000 hybrids in the collection.[^24] The Gardens has also registered more than 400 hybrids.[^25]
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Enclosure_1.jpeg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Enclosure_1.jpeg" style="width:80%;">
  <div style="background-color: white;">Before the three-hectare National Orchid Garden was constructed, the one-hectare Orchid Enclosure at the Singapore Botanic Gardens was home to the many varieties of orchids that were developed through the orchid breeding programme. <i>Courtesy of Singapore Tourism Board.
 </i></div>
 
@@ -68,7 +68,7 @@ a. *Artificial propagation*<br> b. *Reintroduction to habitats*<br> c. *Foundati
 As a result, the tiger orchid, or *Grammatophyllum speciosum*, was the first species to be reintroduced in Pulau Ubin and it has since taken root and doing well. As at 2007, four native orchid species have been re-introduced in parks and roadside trees.[^28] Research and conservation continue to be the main objective at the Singapore Botanic Gardens in order for future generations to enjoy the beauty of orchids and discover other uses for them.
 
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Tiger.jpg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Tiger.jpg" style="width:80%;">
 <div style="background-color: white;">A tiger orchid or <i>Grammatophyllum speciosum</i> may weigh over one ton at full maturity, making it the largest orchid plant in the world. <i>Reproduced from Orchids of the Singapore Botanic Gardens. All rights reserved, National Parks Board, Singapore Botanic Gardens,</i> 2007.</div>
 
 #### **A Symbol of Singapore**
@@ -93,12 +93,12 @@ In summary, Orchids have been well represented in Singapore stamps and currency,
 
 #### **Orchid Diplomacy**
 
-<img style="width:50%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Mokara.jpg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Mokara.jpg" style="width:50%;">
  <div style="background-color: white;"><i>Mokara</i> Zhu Rongji ‘Lao An’ was created for the wife of 5th Premier of the People’s Republic of China (Zhu Rongji), Lao An. <i>Reproduced from Orchid Hybrids of Singapore, 1893–2003. All rights reserved, Orchid Society of South East Asia, 2005.</i></div>
 
 With Singapore orchids gaining fame in the world, it was adopted as an agents to promote goodwill with other nations. The Singapore Botanic Gardens started the pratice of naming of new orchid hybrids after VIPs and visiting celebrities. In 1956, *Aranthera* Anne Black became the first VIP orchid, named after Lady Black, the wife of the former Governor of Singapore, Sir Robert Brown Black.[^35] Other orchid hybrids that are named after VIPs include: *Dendrobium* Michiko, *Mokara* Zhu Rongji, *Renantanda* Prince Norodom Sihanouk, *Dendrobium* Memoria Princess Diana and *Vandaenopsis* Nelson Mandela. Some are named after celebrities, like local singer Stephanie Sun, pop music celebrity Ricky Martin and Korean actor Bae Yong Jun.
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Presentation1.jpg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Presentation1.jpg" style="width:80%;">
  <div style="background-color: white;">(Left to Right) <i>Renanthera</i> Kalsom, <i>Oncidium</i> Gower Ramsey, <i>Spathoglottis</i> Primrose, <i>Dendrobium</i> Tay Swee Keng and <i>Vanda</i> Miss Joaquim. <i>Spathoglottis</i> Primrose reproduced from <i>Orchids of the Singapore Botanic Gardens. All rights reserved, National Parks Board, Singapore Botanic Gardens, 2007. Rest reproduced from A Guide to the Orchids of Singapore. All rights reserved, Singapore Science Centre,</i> 1993.</div>
 
 The orchid was also endorsed by David Marshall, Singapore’s first Ambassador to France, and subsequently, also to Spain, Portugal and Switzerland. He was well-known as the ambassador with an orchid, as he would wear an orchid on his lapel at every official function.[^36]
@@ -111,7 +111,7 @@ Cultural Medallion winner in 1981 for excellence in painting orchids, Lee Hock M
 
 For Singapore, the major economic contribution of orchids is to the of cut-flower export industry. Singapore’s tropical climate enables the production of orchids all year round where as countries with four seasons have to grow their orchids in greenhouses. The Monetary Authority of Singapore announced in a 2006 press release[^40] that Singapore is one of ASEAN’s top producers and exporters of top quality orchid flowers, supplying about a 15% share of the world market in orchids. In 2004, Singapore exported S$29.08 million worth of orchid cut-flowers world-wide. During the 1970s and 1980s, the industry was worth as much as S$16 million per annum.[^41] It is a multimillion dollar industry. Today, Singapore is the third largest exporter of orchids in the world.[^42]
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Freshly%20cut%20orchids_1.jpeg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Freshly%20cut%20orchids_1.jpeg" style="width:80%;">
  <div style="background-color: white;">Freshly cut orchids are prepared for export, delivery and arrangement by the staff at Toh Orchids at Sungai Tengah. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
 Orchid exporting in Singapore began in the 1930s. The preferred orchids then were the Vanda Miss Joaquim, which was the first to be exported on a large scale, followed by the Cattleya family, including *Laelias* and *Brassavolas*.[^43] Subsequently, it became more profitable to propagate orchids that flower more frequently in order to meet market demands. The ornamental value and long lasting orchid flowers made them suitable for export as cut-flowers.
@@ -122,14 +122,14 @@ A typical batch of orchids to be prepared for export in the early days was descr
 
 Amateur orchid collector and grower, John Laycock, who cofounded the Malayan Orchid Society (the present day Orchid Society of South East Asia) with Emile Galistan and Holttum, founded the Singapore Orchids Ltd (also known as Mandai Orchid Garden[^45] in recent years) with Lee Kim Hong in 1951 to realise his vision of starting orchid cut-flower trade on a commercial basis. The company became well known and is the oldest orchid garden establishment in Singapore.
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Luscious%20Orchid1.jpeg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Luscious%20Orchid1.jpeg" style="width:80%;">
  <div style="background-color: white;">Luscious orchid blooms thrived at the Mandai Orchid Gardens, which closed on 31 December 2010. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
 The orchid flower export industry has grown from strength to strength through the increasing ease in air transport and efforts put in by the Tourism Promotion Board. In 1966, the president of Singapore Gardening Society, the late A.G. Alphonso, reported a happy problem of local florists and nurseries not being able to cope with the demands for cut-flowers from overseas, especially from European countries. The private gardens and amateur orchid growers began to find it a ‘profitable pastime’.[^46]
 
 The golden age of orchid exports lasted from the late 1960s till mid 1980s. During its peak from late 1970s to early 1980s, there were approximately 230 nurseries involved in this industry. In 1970, close to 71 hectares of land were used for orchid cultivation and the acreage doubled to 138 hectares in 1972.[^47] By 1980, it continued to increase by five-fold to 350 hectares. But it reportedly suffered decline in acreage from 1983 onwards.[^48]
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Watering%20Machine_1.jpeg">
+<img src="/images/Vol%207%20issue%203/OrchidsManifold/Watering%20Machine_1.jpeg" style="width:80%;">
  <div style="background-color: white;">A watering machine traverses the greenhouse aisles at Toh Orchids. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
 In 1986, the Agri-Food &amp; Veterinary Authority of Singapore (AVA) developed agrotechnology parks to encourage farms to embrace advanced technologies and techniques for intensive farming systems. These farms aim to optimise land use and increase productivity. There are six such parks in Singapore[^49] and some of these parks have orchid farms whose businesses continue to thrive.
@@ -141,7 +141,7 @@ In a highly urbanised country, competing spaces for a myriad of uses result in t
 <center><br>
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/Ang_Seow_Leng.png">
 <b>Ang Seow Leng</b><br>Senior Librarian<br>National Library</div></center>
 
 #### **REFERENCES**
