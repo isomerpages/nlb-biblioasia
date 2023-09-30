@@ -74,13 +74,13 @@ The changing geopolitical dynamism with the decline of colonialism in most of As
 <img src="/images/Vol%207%20issue%203/SpacesMemories/Chettiars.jpg" style="width:80%;">
  <div style="background-color: white;">A portrait of Chettiars in traditional <i>vesthi</i> and <i>thundu</i> in the 1920s. Such garments were common as daily wear, but were also produced with more high-quality materials. These fancier versions were reserved for more formal occasions such as this photo-taking session. <i>Courtesy of Nachiappa Chettiar.</i></div>
 
-The spatial Indian identity and influence in colonial Singapore’s landscape remained as a part of colonial Singapore’s heritage in its multi-ethnic fabric. Although a minority, the Indians remain an important section of the population and continue to play a significant part in the city-state’s socioeconomic expansion in its subsequent years of development to come.
+The spatial Indian identity and influence in colonial Singapore’s landscape remained a part of colonial Singapore’s heritage in its multi-ethnic fabric. Though a minority, the Indians remain an important section of the population and continue to play a significant part in the city-state’s socioeconomic expansion in its subsequent years of development.
 
 <br>
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol%207%20issue%203/SpacesMemories/jayati_pic.jpg">
-<center><b>Jayati Bhattacharya</b><br>Visiting Research Fellow<br> Nalanda-Sriwijaya Centre<br> Institute of Southeast Asia Asian Studies</center></div>
+<center><b>Jayati Bhattacharya</b><br>Visiting Research Fellow<br> Nalanda-Sriwijaya Centre, Institute of Southeast Asian Studies</center></div>
 
 #### **NOTES**
     
