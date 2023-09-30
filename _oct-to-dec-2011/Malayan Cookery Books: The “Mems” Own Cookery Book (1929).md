@@ -68,19 +68,18 @@ As promised, she uses many local ingredients, particularly for fish such as *ika
 
 Local names or nicknames for ingredient *kachang goring* (Malay for fried nuts) give us colloquial insights into these food items. Of interest are Mrs Kinsey’s useful tips into food preparation, much of which may be forgotten today – “Add egg shell to help clear soup and strain through muslin”; “Always remember when cooking celery, to leave the lid off the pan otherwise there will be a slightly bitter flavour”.
 
-Within the first few months of the publication of *Mems*, the cookbook was sold out and a second print was scheduled for 1929 with a third released the following year. Its popularity was also reflected in advertising within the book such as those for Bear Brand Swiss Milk, normally used in the cookbook's  recipes.[^21] In 1931, Mrs Kinsey published another cookbook, *Next Meal Cook Book*[^22] which was sold as a 
-double volume with *Mems*.
+Within the first few months of the publication of *Mems*, the cookbook was sold out and a second print was scheduled for 1929, with a third released the following year. Its popularity was also reflected in advertising within the book such as those for Bear Brand Swiss Milk, normally used in the cookbook’s recipes.[^21] In 1931, Mrs Kinsey published another cookbook, *Next Meal Cook Book*,[^22] which was sold as a double volume with *Mems*.
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Library Holdings</b><br><br><i>The “Mem’s” Own Cookery Book</i> is from the collection of rare and historical imprints at the National Library Singapore. A 2nd edition of Mem’s can be found at the Rare Book Collection on Level 13. A copy is also accessible on microfilm (NL 9852).</div>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Library Holdings</b><br><br><i>The “Mem’s” Own Cookery Book</i> is from the collection of rare and historical imprints at the National Library Singapore. A second edition of <i>Mem’s</i> can be found in the Rare Book Collection on Level 13. A copy is also accessible on microfilm (NL 9852).</div>
 
-The author acknowledges with thanks Ai Ling Devadas, Editor of the Singapore Food History website for reviewing the article.
+<i>The author acknowledges with thanks Ai Ling Devadas, Editor of the Singapore Food History website for reviewing the article.</i>
 
 
 <br>
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/Bonny_Tan.png" style="width: 100px; height: 100px;">
-<center><b>Bonny Tan</b><br> Senior Librarian<br> Lee Kong Chian Reference Library<br>National Library</center></div>
+<center><b>Bonny Tan</b><br> Senior Librarian<br> Lee Kong Chian Reference Library, National Library</center></div>
 
 
 #### **REFERENCES**
