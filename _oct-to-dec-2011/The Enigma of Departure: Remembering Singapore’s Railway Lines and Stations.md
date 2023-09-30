@@ -78,32 +78,32 @@ Besides roads as transportation routes from Jurong to the city, the planned Juro
 <img style="width:80%;" src="/images/Vol%207%20issue%203/RailwayLines/11%20-%20Tanjong%20Pagar%20Railway%20Station.jpg">
  <div style="background-color: white;">Four statues made from Carrara marble stand at the entrance portico of the KTM Tanjong Pagar Railway Station. <i>Photo taken by the author.</i></div>
 
-With the government announcements last year, the future of the lines and stations in Singapore entered a new phase that had also been evolving since World War II. Postwar, the Malayan Railway Ordinance of 1948 had seen the management of the railways transferred from FMSR to the post-war Malayan Railway Administration, and later, to Keretapi Tanah Melayu (KTM) Berhad. Under the Malaysian Railway Act of 1991, KTM was corporatised the following year and wholly owned by the Malaysian government. The Malaysia Singapore Points of Agreement of 1990 had been signed by representatives of both countries to settle all issues related to the railway and its stations, but it is only two decades later that the resolution of those points in relation to both parties was finally made.
+With the government announcements last year, the future of the lines and stations in Singapore entered a new phase that had also been evolving since World War II. Postwar, the Malayan Railway Ordinance of 1948 had seen the management of the railways transferred from the FMSR to the postwar Malayan Railway Administration, and later to Keretapi Tanah Melayu Berhad (KTM). Under the Malaysian Railway Act of 1991, the KTM was corporatised the following year and wholly owned by the Malaysian government. The Malaysia–Singapore Points of Agreement of 1990 had been signed by representatives of both countries to settle all issues related to the railway and its stations, but it is only two decades later that the resolution of those points in relation to both parties was finally made.
 
 <br>
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol%207%20issue%203/RailwayLines/LCK%20portrait.jpg" style="width: 100px; height: 100px;">
-<center> <b>Lai Chee Kien</b><br>Assistant Professor<br>Department of Architecture<br>National University of Singapore</center></div>
+<center> <b>Lai Chee Kien</b><br>Assistant Professor<br>Department of Architecture, National University of Singapore</center></div>
 
 
 #### **REFERENCES**
 
- Alias Mohamed. (Ed.). (1985). [_Malayan Railway: 100 Years 1885–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203772955). Kuala Lumpur: AMW Communications Management. (Call no.: RSING 385.095951 MAL)
+ Alias Mohamed. (Ed.). (1985). [_Malayan railway: 100 years 1885–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203772955). Kuala Lumpur: AMW Communications Management. (Call no.: RSING 385.095951 MAL)
 
-Chua, B.H. &amp; Edwards, N. (Eds.). (1992). [_Public Space: Design, Use and Management_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6332699). Singapore: Singapore University Press. (Call no.: RSING 711.4095957 PUB)
+Chua, B.H., &amp; Edwards, N. (Eds.). (1992). [_Public space: Design, use and management_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6332699). Singapore: Singapore University Press. (Call no.: RSING 711.4095957 PUB)
 
-Clothey, F.W. (2006_)._ [_Ritualizing on the Boundaries: Continuity and Innovation in the Tamil diaspora_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12907572). Columbia: University of Southern California Press. (Call no.: RSING 305.894811 CLO)
+Clothey, F.W. (2006). [_Ritualizing on the boundaries: Continuity and innovation in the Tamil diaspora_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12907572). Columbia: University of Southern California Press. (Call no.: RSING 305.894811 CLO)
 
-Federated Malay States Railway (1935). [_Fifty Years of Railways in Malaya 1885–1935_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11247432). \[Kuala Lumpur: Karl, Palmer and Co.\]. (Call no.: RRARE q385.09595 FED; Microfilm no.: NL25928)
+Federated Malay States Railway. (1935). [_Fifty years of railways in Malaya 1885–1935_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11247432). \[Kuala Lumpur: Karl, Palmer and Co.\]. (Call no.: RRARE q385.09595 FED; Microfilm no.: NL25928)
 
 Gill, S. (2006). [_Guide to the murals at the Tanjong Pagar railway station, Singapore = Panduan kepada mural-mural di Stesen Keretapi Tanjong Pagar, Singapura_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12796449). Singapore: Simryn Gill and Singapore Biennale. (Call no.: RSING 725.31095957 GIL)
 
-Kaur, A. (1985). [_Bridge and barrier: Transport and communication in Colonial Malaya 1870–1957_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4734445). Singapore: Oxford University Press. (Call no.: RSING 380.309595 KAU)
+Kaur, A. (1985). [_Bridge and barrier: Transport and communication in colonial Malaya 1870–1957_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4734445). Singapore: Oxford University Press. (Call no.: RSING 380.309595 KAU)
 
 Lee, G.B. (Ed.). (1989). [_Tanjong Pagar: Singapore’s cradle of development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5288751). Singapore: Tanjong Pagar Citizens’ Consultative Committee. (Call no.: RSING 959.57 TAN-\[HIS\])
 
-Lim, J. S. H. (Ed.). (2001). [_Transforming traditions: Architecture in the ASEAN countries: Brunei, Malaysia, Indonesia, Philippines, Singapore, Thailand_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10364735). Singapore: ASEAN Committee on Culture and Information. (Call no.: RSING q720.95 TRA)
+Lim, J.S.H. (Ed.). (2001). [_Transforming traditions: Architecture in the ASEAN countries: Brunei, Malaysia, Indonesia, Philippines, Singapore, Thailand_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10364735). Singapore: ASEAN Committee on Culture and Information. (Call no.: RSING q720.95 TRA)
 
 Lim, P.P.H. (2009). [_Through the eyes of the king: The travels of King Chulalongkorn to Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13237012). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.3035092 LIM)
 
@@ -111,27 +111,27 @@ Sandhu, K.S. (1969). [_Indians in Malaya: Some aspects of their immigration and 
 
 Song, O.S. (1923). [_One hundred years’ history of the Chinese in Singapore_](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx). London: John Murray. Retrieved from BookSG.  
   
-Tan, M.S.H. (2008). _The making of a garden industrial town: History, transformations, memories and identity of Jurong_ \[Unpublished Masters dissertation submitted to the Department of Architecture, National University of Singapore\].
+Tan, M.S.H. (2008). _The making of a garden industrial town: History, transformations, memories and identity of Jurong_ \[Unpublished Masters dissertation, Department of Architecture, National University of Singapore\].
 	
 #### **NOTES**
 
- [^1]: The account has been “brewing” in my wish-list of “_kajian_” for several years, and I would like to thank Yeo Kang Shua who shared an opportunity with me to research these railway histories more thoroughly, and to Mr Ian Tan for helping me document the Sri Pambatthi Sitthar Temple at Clementi.
+ [^1]: The account has been “brewing” in my wishlist of “kajian” for several years, and I would like to thank Yeo Kang Shua who shared an opportunity with me to research these railway histories more thoroughly, and to Ian Tan for helping me document the Sri Pambatthi Sitthar Temple at Clementi.
 
-[^2]: From Federated Malay States Railway (1935). [_Fifty years of railways in Malaya 1885–1935_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11247432), p. 19. The Tank Road station was opposite where the Teochew Building is. Besides this line, there was a 5-mile Naval Base Railway running from Kranji to Naval Base, and a 4–mile Changi Railway built for Singapore’s War Department. These two lines have been largely expunged. C.F. Spooner, the railway engineer responsible for the line’s construction, is commemorated with a road name near the Tanjong Pagar Railway Station.
+[^2]: Federated Malay States Railway. (1935). [_Fifty years of railways in Malaya 1885–1935_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11247432), p. 19. The Tank Road station was opposite where the Teochew Building is. Besides this line, there was a five-mile Naval Base Railway running from Kranji to the Naval Base, and a four–mile Changi Railway built for Singapore’s War Department. These two lines have been largely expunged. C.F. Spooner, the railway engineer responsible for the line’s construction, is commemorated with a road name near the Tanjong Pagar Railway Station.
 
-[^3]: Only two daily train services travelled the entire distance from Tank Road to Woodlands and back, the 7.00 am and the 3.40 pm leaving Tank Road Station, as the rest of the train servies (7.45am, 10.00am, 11.30am, 12.32pm, 1.55pm, 4.15pm, and 6.40pm) terminated at Bukit Timah Station. On Sundays, the 11.30am train travelled to Woodlands and back.
+[^3]: Only two daily train services travelled the entire distance from Tank Road to Woodlands and back, the 7 am and the 3:40 pm leaving Tank Road Station, as the rest of the train servies (7:45 am, 10 am, 11:30 am, 12:32 pm, 1:55 pm, 4:15 pm and 6:40 pm) terminated at Bukit Timah Station. On Sundays, the 11:30 am train travelled to Woodlands and back.
 
 [^4]: The Bukit Panjang Station, however, appeared to be slightly different but is expressed as a linear building.
 
-[^5]: See John Miskic, &nbsp;(1989). “Archeology in the City: Digging at Duxton Hill,” (p. 35). in [_Tanjong Pagar: Singapore’s Cradle of Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5288751), p. 35; See also Kenson Kwok. (1992). “Duxton plain: Perceptual analysis of an open space,” in [_Public Space: Design, Use and Management_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6332699), pp. 82—103. &nbsp;
+[^5]: See John Miksic. (1989). “Archaeology in the city: Digging at Duxton Hill”, in [_Tanjong Pagar: Singapore’s Cradle of Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5288751), p. 35; see also Kenson Kwok. (1992). “Duxton Plain: Perceptual analysis of an open space,” in [_Public space: Design, use and management_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6332699), pp. 82–103. &nbsp;
 
-[^6]: His other name was Tan Hiok Nee. The other houses were the one for Tan Seng Poh at the junction of Hill Street and Loke Yew Stree, one for Seah Cheo Seah at Boat Quay, and one for Wee Ah Hood where the Chinese Chamber of Commerce now stands. See Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx), pp. 335–336.
+[^6]: His other name was Tan Hiok Nee. The other houses were the one for Tan Seng Poh at the junction of Hill Street and Loke Yew Stree, one for Seah Cheo Seah at Boat Quay, and one for Wee Ah Hood where the Chinese Chamber of Commerce now stands. See Song, O.S., [_One hundred years’ history of the Chinese in Singapore_](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx), pp. 335–336.
 
-[^7]: This point was made by Khoo Kay Khim in “Railway and the Decline of Traditional Ports on the Western Coast on the Peninsula,” in Alias Mohamed (Ed.), [_Malayan Railway: 100 Years 1885–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203772955), pp. 67—79. The ports in Penang, Port Swettenham, and Port Dickson remained important during this transition stage.
+[^7]: This point was made by Khoo Kay Khim in “Railway and the Decline of Traditional Ports on the Western Coast on the Peninsula,” in Alias Mohamed (Ed.), [_Malayan railway: 100 years 1885–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203772955), pp. 67–79. The ports in Penang, Port Swettenham and Port Dickson remained important during this transition stage.
 
-[^8]: K. S. Sandhu, [_Indians in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684574), pp. 283–9; Fred Clothey, F.W. (2006_)._ [_Ritualizing on the Boundaries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12907572), pp. 58–77.
+[^8]: Sandhu, [_Indians in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14684574), pp. 283–299; Clothey, [_Ritualizing on the Boundaries_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12907572), pp. 58–77.
 
-[^9]: One of the notables who made such a day trip was King Chulalongkorn of Thailand, who in April 1907 visited the Sultan of Johore after a train and ferry ride, but was still able to return to his Singapore hotel on the same day. From Patricia Lim, [_Through the Eyes of the King_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13237012), pp. 135–143.  
+[^9]: One of the notables who made such a day trip was King Chulalongkorn of Thailand, who in April 1907 visited the Sultan of Johor after a train and ferry ride, but was still able to return to his Singapore hotel on the same day. Patricia Lim, [_Through the Eyes of the King_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13237012), pp. 135–143.  
   
 [^10]: _[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481226-1.2.22)_, 26 December 1948, p. 2. The situation of casinos funding transport seems to have now been reversed with the building of two in Singapore and with companies such as Five Star travel providing inexpensive travel from Johorean cities to Resort World Sentosa.
 
