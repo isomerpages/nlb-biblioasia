@@ -59,7 +59,30 @@ In addition, certain prominent details, which can be interpreted as the artists�
 <img src="/images/Online%20Only%20Articles/About%20the%20Painters/1995-02890.jpg" style="width:60%;">
 <div style="background-color: white;">The Dark-handed Gibbon from the William Farquhar Collection.<i>Booah Mangies, Ongka, Pokok Manggis</i>&nbsp;<br>
 
- In a similar vein, the depiction of animals, such as the Greater Mousedeer,[\[1\]](#_ftn1) in landscapes that represented neither the Malay Peninsula nor their natural habitats,[\[2\]](#_ftn2) can be understood in terms of how these artists were trained to depict
+ In a similar vein, the depiction of animals, such as the Greater Mousedeer,[\[1\]](#_ftn1) in landscapes that represented neither the Malay Peninsula nor their natural habitats,[\[2\]](#_ftn2) can be understood in terms of how these artists were trained to depict landscapes,[\[19\]](#_ftn19) rather than a lack of attentiveness towards the subjects they were portraying.[\[20\]](#_ftn20)
+
+Crucially, Kwa notes how these drawings evince the artists’ creative struggles. Despite being trained to aspire towards more impressionistic styles that capture the essence of a subject, the artists were required to use more technical representational methods, techniques they ironically viewed as more “pedantic” and foundational, and would have used and practiced primarily in service of developing their personal impressionistic styles.[\[21\]](#_ftn21)
+
+As Kwa surmises, “\[their\] struggle was compounded by their training to draw what they sensed and felt” — a notion that strongly echoes Berger’s theory on aesthetics — “rather than what they saw”.[\[22\]](#_ftn22) Though the drawings remain unsigned, stylistic details allow us to construct not just a sense of who these artists were, but also their struggles, as they endeavoured to make art that could fulfill their commissioned tasks.
+
+In stark contrast, the Diard and Duvaucel drawings are noticeably less embellished. The animals and plants are illustrated with accurate sizes and colours, and a pronounced lack of “landscapes or views of the original habitats of the animals and plants” strongly implies that they were meant for scientific study, rather than art.[\[23\]](#_ftn23) Even so, the artistic processes of these unnamed artists remain apparent, especially in the several pieces that remain incomplete.
+
+While indeed demonstrating the “pressure \[the artists faced in the field\] to record time-critical aspects of the animals, setting aside the drawings for later when they had time to complete them”,[\[24\]](#_ftn24) these uncompleted pieces — and recurring patterns in how they are incomplete — provide valuable insight into their artistic processes, and by extension, their moments of encounter with nature.
+
+In my poem “About the Painters”, I linger on these uncompleted details, connecting to the artists’ moments of encounter with nature, by creatively re-imagining the conditions that might have led to certain artistic decisions. For instance, a specific kind of incompleteness pervades the collection in the form of omitted details, such as a missing iris,[\[25\]](#_ftn25) an uncoloured wing,[\[26\]](#_ftn26) a blank fin,[\[27\]](#_ftn27) and missing spots on the wings of the Great Eggfly.[\[28\]](#_ftn28) In each case, the omitted detail is clearly indicated by clean watercolor outlines, occasionally with details sketched in pencil. Should we emulate Kwa’s approach, these stylistic consistencies across these omissions could suggest that these pieces were the work of one artist.
+
+<img src="![](/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_2_0054_v1.jpg)/images/Online%20Only%20Articles/About%20the%20Painters/diard_duvaucel%20cover.JPG" style="width:60%;">
+<div style="background-color: white;"> <i>Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820 </i>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695&quot;"> (Call nos: RSING 508.0222 DIA and SING 508.0222 DIA)</a>, as well as <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx?s=diard"> BookSG</a>.<br>
+
+
+
+
+
+  
+
+
+
+
 
 
 
@@ -137,4 +160,24 @@ In addition, certain prominent details, which can be interpreted as the artists�
 	
 [\[1\]](#_ftnref1) Farquhar, et al., [_Natural History Drawings_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600), 266.
 
-[\[2\]](#_ftnref2) Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 322. For instance, some of the animals were depicted “in the cent~e~r of a landscape of rocks and windswept grass and/or bushes and sand”.</div></div>
+[\[2\]](#_ftnref2) Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 322. For instance, some of the animals were depicted “in the cent~e~r of a landscape of rocks and windswept grass and/or bushes and sand”.
+
+[\[1\]](#_ftnref1) For instance, the Chinese artists were trained to develop their own personal style of depicting rocks, based on the understanding that “the ability to capture the _qi_, or the essence of a rock, is essential to the drawing of a landscape” (322). This aspect of their artistic training accounts for the use of rock landscapes as backdrops in their paintings, even if the animals did not actually live in such habitats.
+
+[\[2\]](#_ftnref2) Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 322.
+
+[\[3\]](#_ftnref3) Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 321. While the preferred painting style of these Chinese artists can be likened to Western impressionism, the use of “impressionistic” in this essay does not refer to this style. Here, “impressionistic” refers to the “ink-play”, or _xieyi_ style that the artists practi~c~sed, which focuses on conveying the essence of their subject. In contrast, the more technical style required by clients like Farquhar, is similar to what the artists considered the fundamentals of painting: brushwork, or _gongbi_.
+
+[\[4\]](#_ftnref4) Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 327.
+	
+[\[1\]](#_ftnref1) Rookmaaker, “[The Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 54.
+
+[\[2\]](#_ftnref2) Low, Lim and Ng, “[The First Singapore Biodiversity Expedition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 49.
+
+[\[3\]](#_ftnref3) See Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 23: Malay Brown Barbet”, 110, and “No 54: Black Magpie”, 143.&nbsp;
+
+[\[4\]](#_ftnref4) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 54: Black Magpie”, 143. Besides an incomplete wing and iris, the Black Magpie also has a missing leg.&nbsp;
+
+[\[5\]](#_ftnref5) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 14: Cigar Wrasse”, 172.&nbsp;
+
+[\[6\]](#_ftnref6) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 5: Great Eggfly”, 174.</div></div></div>
