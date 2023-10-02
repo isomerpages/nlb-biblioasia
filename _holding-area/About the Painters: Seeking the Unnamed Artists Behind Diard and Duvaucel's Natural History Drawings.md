@@ -75,9 +75,23 @@ In my poem “About the Painters”, I linger on these uncompleted details, conn
 <div style="background-color: white;"> Missing iris in the black magpie. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal. <br><br>
 
 <img src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_3_reptiles_poissons_0014_v1.jpg" style="width:60%;">
-<div style="background-color: white;">An uncoloured fin in the cigar wrasse. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal.
+<div style="background-color: white;">An uncoloured fin in the cigar wrasse. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal.<br><br>
 
-	
+Reptiles and amphibians such as Kuhl’s Gliding Gecko,[\[29\]](#_ftn29) Flat-tailed House Gecko,[\[30\]](#_ftn30) Long-nosed Horned Frog,[\[31\]](#_ftn31) and Giant River Toad,[\[32\]](#_ftn32) are drawn at the top of their respective pages, leaving unnecessary unused space at the bottom of the page. Meanwhile, the other reptiles, like the rest of the drawings, are centered on the page.[\[33\]](#_ftn33) Again, we might reasonably wonder if these pieces were the work of one artist, and the rest of the reptiles another.
+
+At the same time, verifying the number, not to say identities, of these artists is near impossible; poetry, as a medium, also cannot conclusively answer these queries. What we _can_ wonder, instead, are the conditions that might have led the artists to make certain artistic decisions. More pertinently, what might have happened in their encounters with nature that might have caused them to deviate from their clients’ original instructions?&nbsp;
+
+In one of the most noteworthy moments of artistic intent in the collection, we find some gesture towards an answer: in the drawing of the Olive-backed Sunbird,[\[34\]](#_ftn34) a strange gap, with clean edges, cuts through the bird’s midsection. This gap also occurs in the drawing of the Pink-necked Green Pigeon,[\[35\]](#_ftn35) suggesting the artist’s intention to add a branch later on.[\[36\]](#_ftn36) Branches, in other forms, appear across the collection, whether suggested by the pronounced curvature of birds’ claws,[\[37\]](#_ftn37) or the presence of actual branches sketched into other drawings.[\[38\]](#_ftn38) In the drawing of the Malay Brown Barbet, we even see the clear outline of a tree.[\[39\]](#_ftn39)
+
+<img src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_2_0039_v1.jpg" style="width:60%;">
+<div style="background-color: white;">Olive-backed Sunbird. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal.<br><br>
+  
+
+* * *
+
+
+
+
 	
 	
 	
@@ -186,4 +200,26 @@ In my poem “About the Painters”, I linger on these uncompleted details, conn
 
 [\[5\]](#_ftnref5) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 14: Cigar Wrasse”, 172.&nbsp;
 
-[\[6\]](#_ftnref6) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 5: Great Eggfly”, 174.</div></div></div></div>
+[\[6\]](#_ftnref6) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 5: Great Eggfly”, 174.
+	
+[\[1\]](#_ftnref1) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 4: Kuhl’s Gliding Gecko”, 158.
+
+[\[2\]](#_ftnref2) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 5: Flat-tailed House Gecko”, 159.
+
+[\[3\]](#_ftnref3) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 7: Long-nosed Horned Frog”” 170.
+
+[\[4\]](#_ftnref4) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 6: Giant River Toad”, 171.
+
+[\[5\]](#_ftnref5) The collection holds only two amphibians: the Long-nosed Horned Frog and Giant River Toad. In the absence of other amphibian drawings, I compared the four drawings discussed in this section to the other reptile drawings instead.
+	
+[\[1\]](#_ftnref1) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 39: Olive-backed Sunbird”, 150.
+
+[\[2\]](#_ftnref2) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 50: Pink-necked Green Pigeon”, 66.
+
+[\[3\]](#_ftnref3) Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 66.
+
+[\[4\]](#_ftnref4) See, for instance, Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 49: Jambu Fruit Dove”, 65; “No 51: Little Green Pigeon”, 68; and “No 55: Green-spectacled Green Pigeon”, 70–71.&nbsp;
+
+[\[5\]](#_ftnref5) See, for instance, Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 64: Pied Cuckoo”, 72; “No 71b: Scarlet-rumped Trogon”, 108–9; and “No 42: Small Minivet”, 136. Note how the branches, especially in the latter two, are relatively detailed and cannot simply be passed off as guiding lines. The branch that the Scarlet-rumped Trogon is perched on even includes two leaves.
+
+[\[6\]](#_ftnref6) Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” “No 23: Malay Brown Barbet”, 110. As mentioned earlier, the iris of the bird is incomplete.</div></div></div></div></div>
