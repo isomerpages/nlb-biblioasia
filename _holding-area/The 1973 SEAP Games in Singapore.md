@@ -60,22 +60,12 @@ There was, of course, tremendous pressure on the local athletes. “Singapore ex
 
 Sprinter Glory Barnabas recalled the demanding training regime of the Singapore track and field team. “We \[were\] training really very hard, trying to do well for Singapore because this \[was\] the first time Singapore \[was\] organising such a big event and \[it was\] on home ground,” said the former schoolteacher.[^18]
 
-  
-
 There was a sense of camaraderie though, she said. “\[W\]e stayed there \[at the Toa Payoh Games Village\] as a team, we had breakfast together, we had lunch together, and we trained together and had dinner together and we talked shop… I think all these kind of prepared the stage for the games.”
 
-  
+In the end, Singapore ended up with an impressive haul of 45 gold medals, 50 silvers and 45 bronzes. A significant portion of the gold medals came from the swimmers, who amassed 23 golds, 16 silvers and nine bronzes. Along the way, they shattered 19 new SEAP Games records and one Asian Games record.[^19]
 
-In the end, Singapore ended up with an impressive haul of 45 gold medals, 50 silvers and 45 bronzes. A significant portion of the gold medals came from the swimmers, who amassed 23 golds, 16 silvers and nine bronzes. Along the way, they shattered 19 new SEAP Games records and one Asian Games record.&nbsp;
+Apart from Chan, fellow swimmer Elaine Sng also contributed to the medal haul. She obtained five golds, and set three new SEAP Games records and a new Asian Games record in the 400 m freestyle.[^20]
 
-  
+Singapore’s first gold medal, however, came courtesy of Heather Merican who triumphed in the women's 100 m hurdles and broke the SEAP Games record at the same time. Another standout performer was Barnabas, who claimed victory in the 200 m sprint. Noor Azhar Abdul Hamid managed to clear an exceptional 2.12 m in the high jump, also setting a new Asian Games, SEAP Games and national records. (In fact, his local record would be unbroken for 22 years.)[^21] The water polo team also contributed to Singapore's medal tally by clinching the gold medal, while the sailors took home three gold medals and the judokas captured four gold medals.[^22]
 
-Apart from Chan, fellow swimmer Elaine Sng also contributed to the medal haul. She obtained five golds, and set three new SEAP Games records and a new Asian Games record in the 400 m freestyle.
-
-  
-
-Singapore’s first gold medal, however, came courtesy of Heather Merican who triumphed in the women's 100 m hurdles and broke the SEAP Games record at the same time. Another standout performer was Barnabas, who claimed victory in the 200 m sprint. Noor Azhar Abdul Hamid managed to clear an exceptional 2.12 m in the high jump, also setting a new Asian Games, SEAP Games and national records. (In fact, his local record would be unbroken for 22 years.) The water polo team also contributed to Singapore's medal tally by clinching the gold medal, while the sailors took home three gold medals and the judokas captured four gold medals.
-
-  
-
-Among the notable winners was table tennis player Chia Choon Boon who juggled both his training and his work as a _Nanyang Siang Pau_ reporter. After training sessions ended, while
+Among the notable winners was table tennis player Chia Choon Boon who juggled both his training and his work as a _Nanyang Siang Pau_ reporter. After training sessions ended, while his teammates were resting, he would rush out a journal entry for the newspaper about life in the Games Village every day. “I could call the newspaper to tell them what was happening in the Games Village, but… it would be more interesting for the reader to read about things from my perspective.”[^23] Chia’s moonlighting did not stop him from winning two gold medals for Singapore in table tennis.
