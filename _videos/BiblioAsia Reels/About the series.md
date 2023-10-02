@@ -15,9 +15,6 @@ third_nav_title: BiblioAsia Reels
 The [concert grand piano](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/) at the National Library Building once graced the stage of the Victoria Memorial Hall, though it was once criticised by many international pianists for its abysmal tone. Find out how it came to replace the original Steinway at the Memorial Hall, and how it ended up with such a reputation.
 
 
-
 #### **Watch the latest videos**
 * [86-year-old Prof Yu Chun Yee Plays Chopin's Nocturne on NLB's Heritage Piano](https://www.youtube.com/watch?v=eM1aWlQUvvo&amp;list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc&amp;index=3) <br>
 * [Rachel Heng: Unearthing Details about Singapore for <i>The Great Reclamation</i>](https://www.youtube.com/watch?v=jQjegt2YxCc&amp;list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc&amp;index=2)<br>
-
-
