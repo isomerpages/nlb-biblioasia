@@ -34,3 +34,16 @@ Private collections of individuals, organisations and societies that provide val
 #### **Level 10: Asian Children’s Collection**
 The Asian Children’s Collection covers literary and research materials related to children’s literature in the four official languages. This is an ideal resource for educationalists, illustrators and anyone interested in the use and production of children’s reading and writing materials from an Asian perspective.
 
+#### **Level 11: Singapore and Southeast Asian Collections**
+These form the core collection of the Lee Kong Chian Reference Library with over 200,000 items, including items inherited from predecessor libraries such as the Raffles Library. Special formats in the form of microfilms, maps, audio-visual materials, ephemera and posters are housed in this location.
+
+#### **Level 13: Rare Materials Collection**
+Includes extremely valuable and rare publications, mostly from the 19th and early 20th centuries, many of which were issued by Singapore’s earliest printing presses. This collection contains some of the important treasures of Singapore’s history and literary heritage such as Jawi manuscripts, Malay and Southeast Asian language dictionaries, directories, almanacs, scholarly journals and casual and serious accounts of travels in the Malay Archipelago and Southeast Asia.
+
+#### **Basement 1: Central Lending Library**
+Located at Basement 1, the Central Lending Library focuses on offering visual, creative and literary art, business and management collections and award winning literature to its patrons, mainly the arts and business community in the area. Compared to the Reference Library, it fans out to a much broader group of users such as children, youths and adults.
+
+
+
+
+
