@@ -2,4 +2,5 @@ collections:
   inaugural-issue:
     output: true
     order:
+      - A Knowledge Hub.md
       - A New Chapter.md
