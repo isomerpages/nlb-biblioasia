@@ -1,0 +1,5 @@
+collections:
+  inaugural-issue:
+    output: true
+    order:
+      - A New Chapter.md
