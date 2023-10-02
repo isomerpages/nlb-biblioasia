@@ -86,68 +86,11 @@ In one of the most noteworthy moments of artistic intent in the collection, we f
 <img src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_2_0039_v1.jpg" style="width:60%;">
 <div style="background-color: white;">Olive-backed Sunbird. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal.<br><br>
   
+What is precisely so noteworthy about the drawings of the Olive-backed Sunbird and the Pink-necked Green Pigeon goes beyond the existence of landscape features in a collection known to omit such details:[\[40\]](#_ftn40) Rather, in these two drawings, an external detail blocks our full view of the bird. Although this detail may better reflect the actual experience of birdwatching, that was not the goal of these illustrations, which were supposed to be as accurate as possible.[\[41\]](#_ftn41) Instead, the artist decided to not only add a branch, already a superfluous detail, but in a manner that prevents the bird from being portrayed in full. While we can simply consider this illustration as incomplete, we should also ask why the artist made this creative choice that clashed with the intended goals of the drawing.
 
-* * *
+Notice how the Olive-backed Sunbird is depicted, such that we are looking up at the bird amongst the branches, up in a tree. The answer perhaps lies in this salient visual composition, which is unique to this drawing in the collection.
 
-
-
-
-	
-	
-	
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<br><br>
+More so than the artist’s identity, their artistic choice in this drawing brings us into the moment with them, experiencing the aesthetic emotion they felt in this human-nature encounter. These very moments, which my poem “About the Painters” lingers on, are part of the legacy left behind by these unnamed artists, which we should draw inspiration from and attend to in our daily lives.
   
 #### Notes
 * * *
@@ -222,4 +165,6 @@ In one of the most noteworthy moments of artistic intent in the collection, we f
 
 [\[5\]](#_ftnref5) See, for instance, Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 64: Pied Cuckoo”, 72; “No 71b: Scarlet-rumped Trogon”, 108–9; and “No 42: Small Minivet”, 136. Note how the branches, especially in the latter two, are relatively detailed and cannot simply be passed off as guiding lines. The branch that the Scarlet-rumped Trogon is perched on even includes two leaves.
 
-[\[6\]](#_ftnref6) Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” “No 23: Malay Brown Barbet”, 110. As mentioned earlier, the iris of the bird is incomplete.</div></div></div></div></div>
+[\[6\]](#_ftnref6) Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” “No 23: Malay Brown Barbet”, 110. As mentioned earlier, the iris of the bird is incomplete.
+	
+[\[1\]](#_ftnref1) Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 54.</div></div></div></div></div>
