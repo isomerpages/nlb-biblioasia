@@ -41,7 +41,7 @@ will always have the curve of a polished nail, <br>
 always be pointing curiously at something, <br>
 	somewhere else.</center></div>
 	
-In 1818, two French naturalists, Pierre-Médard Diard and Alfred Duvaucel, travelled to Southeast Asia to study the region’s wildlife.[\[1\]](#_ftn1) As part of this process, they collected specimens of species new to them and hired artists locally to produce drawings of these specimens.[\[2\]](#_ftn2) These stunning illustrations have been collected today in _Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818-1820_.[\[3\]](#_ftn3) While these 117 illustrations provide valuable documentation of some of the region’s fauna at that time, all of them were unsigned.[\[4\]](#_ftn4) Since the names of these artists are not known to be documented anywhere, their identities remain a perennial mystery.
+In 1818, two French naturalists, Pierre-Médard Diard and Alfred Duvaucel, travelled to Southeast Asia to study the region’s wildlife.[^1] As part of this process, they collected specimens of species new to them and hired artists locally to produce drawings of these specimens.[\[2\]](#_ftn2) These stunning illustrations have been collected today in _Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818-1820_.[\[3\]](#_ftn3) While these 117 illustrations provide valuable documentation of some of the region’s fauna at that time, all of them were unsigned.[\[4\]](#_ftn4) Since the names of these artists are not known to be documented anywhere, their identities remain a perennial mystery.
 
 <img src="/images/Online%20Only%20Articles/About%20the%20Painters/diard_duvaucel%20cover.JPG" style="width:60%;">
 <div style="background-color: white;"> <i>Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820 </i>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695&quot;"> (Call nos: RSING 508.0222 DIA and SING 508.0222 DIA)</a>, as well as <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx?s=diard"> BookSG</a>.</div>
@@ -95,43 +95,49 @@ More so than the artist’s identity, their artistic choice in this drawing brin
 #### Notes
 * * *
 
-[\[1\]](#_ftnref1) Clément Oury, “Diard, Duvaucel and the Muséum Nationelle d’Histoire Naturelle,” in [_Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818–1820_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), ed. Francis Dorai and Martyn E.Y. Low (Singapore: Embassy of France and National Library Board in partnership with Epigram Books, 2021), 26. (From National Library, Singapore, call no. RSING 508.0222 DIA)
+[^1]: Clément Oury, “Diard, Duvaucel and the Muséum Nationelle d’Histoire Naturelle,” in [_Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818–1820_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), ed. Francis Dorai and Martyn E.Y. Low (Singapore: Embassy of France and National Library Board in partnership with Epigram Books, 2021), 26. (From National Library, Singapore, call no. RSING 508.0222 DIA)
 
-[\[2\]](#_ftnref2) Oury, “[Diard, Duvaucel and the Muséum Nationelle d’Histoire Naturelle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 26–27. Although artists employed in such contexts are often referred to as “draftsmen” in various sources, I use the term “artists” to acknowledge their creative involvement in these natural history drawings.
+[^2]: Oury, “[Diard, Duvaucel and the Muséum Nationelle d’Histoire Naturelle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 26–27. Although artists employed in such contexts are often referred to as “draftsmen” in various sources, I use the term “artists” to acknowledge their creative involvement in these natural history drawings.
 
-[\[3\]](#_ftnref3) Francis Dorai and Martyn E. Y. Low, eds., [_Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818–1820_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695) (Singapore: Embassy of France and National Library Board in partnership with Epigram Books, 2021). (From National Library, Singapore, call no. RSING 508.0222 DIA)
+[^3]: Francis Dorai and Martyn E. Y. Low, eds., [_Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818–1820_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695) (Singapore: Embassy of France and National Library Board in partnership with Epigram Books, 2021). (From National Library, Singapore, call no. RSING 508.0222 DIA)
 
-[\[4\]](#_ftnref4) Oury, “[Diard, Duvaucel and the Muséum Nationelle d’Histoire Naturelle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 30, 33. In addition to the artists, the identities of many others who contributed to these expeditions, such as the local collectors and taxidermists whom Diard and Duvaucel hired, were also not documented.
+[^4]: Oury, “[Diard, Duvaucel and the Muséum Nationelle d’Histoire Naturelle](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 30, 33. In addition to the artists, the identities of many others who contributed to these expeditions, such as the local collectors and taxidermists whom Diard and Duvaucel hired, were also not documented.
 	
-[\[1\]](#_ftnref1) Martyn E. Y. Low, Kelvin K. P. Lim and Peter K. L. Ng, “The First Singapore Biodiversity Expedition: The Legacy of Pierre-Médard Diard and Alfred Duvaucel,” in [_Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818–1820_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), ed. Francis Dorai and Martyn E.Y. Low (Singapore: Embassy of France and National Library Board in partnership with Epigram Books, 2021), 50. (From National Library, Singapore, call no. RSING 508.0222 DIA)
+[^5]: Martyn E. Y. Low, Kelvin K. P. Lim and Peter K. L. Ng, “The First Singapore Biodiversity Expedition: The Legacy of Pierre-Médard Diard and Alfred Duvaucel,” in [_Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818–1820_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), ed. Francis Dorai and Martyn E.Y. Low (Singapore: Embassy of France and National Library Board in partnership with Epigram Books, 2021), 50. (From National Library, Singapore, call no. RSING 508.0222 DIA)
 
-[\[2\]](#_ftnref2) John Berger, “The White Bird,” in [_Why Look at Animals?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14251377) (London: Penguin Books, 2009), 59. (From National Library, Singapore, call no. 113.8 BER)
+[^6]: John Berger, “The White Bird,” in [_Why Look at Animals?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14251377) (London: Penguin Books, 2009), 59. (From National Library, Singapore, call no. 113.8 BER)
 
-[\[3\]](#_ftnref3) Berger, “[The White Bird](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14251377),” 57. Berger emphasises just how unexpected the presence of beauty is in nature by highlighting how “nature is energy and struggle”. Against this backdrop of nature’s hostility towards life and humankind, “beauty is always an exception, always _in despite of_. This is why it moves us.”
+[^7]: Berger, “[The White Bird](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14251377),” 57. Berger emphasises just how unexpected the presence of beauty is in nature by highlighting how “nature is energy and struggle”. Against this backdrop of nature’s hostility towards life and humankind, “beauty is always an exception, always _in despite of_. This is why it moves us.”
 	
-[\[1\]](#_ftnref1) Berger, “[The White Bird](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14251377),” 59.
+[^8]: Berger, “[The White Bird](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14251377),” 59.
 
-[\[2\]](#_ftnref2) Berger, “[The White Bird](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14251377),” 60.
+[^9]: Berger, “[The White Bird](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14251377),” 60.
 
-[\[3\]](#_ftnref3) Kees Rookmaaker, “The Diard and Duvaucel Collection of Drawings,” in [_Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818–1820_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), ed. Francis Dorai and Martyn E.Y. Low (Singapore: Embassy of France and National Library Board in partnership with Epigram Books, 2021), 54. (From National Library, Singapore, call no. RSING 508.0222 DIA
+[^10]: Kees Rookmaaker, “The Diard and Duvaucel Collection of Drawings,” in [_Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818–1820_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), ed. Francis Dorai and Martyn E.Y. Low (Singapore: Embassy of France and National Library Board in partnership with Epigram Books, 2021), 54. (From National Library, Singapore, call no. RSING 508.0222 DIA
 
-[\[4\]](#_ftnref4) Low, Lim and Ng, “[The First Singapore Biodiversity Expedition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 50.
+[^11]: Low, Lim and Ng, “[The First Singapore Biodiversity Expedition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 50.
 
-[\[5\]](#_ftnref5) Kwa Chong Guan, “Drawing Nature in the East Indies: Framing Farquhar’s Natural History Drawings,” in William Farquhar et al., [_Natural History Drawings: The Complete William Farquhar Collection: Malay Peninsula, 1803–1818_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600) (Singapore: Editions Didier Millet: National Museum of Singapore, 2010), 325. (From National Library, Singapore, call no. RSING 759.959 NAT)
+[^12]: Kwa Chong Guan, “Drawing Nature in the East Indies: Framing Farquhar’s Natural History Drawings,” in William Farquhar et al., [_Natural History Drawings: The Complete William Farquhar Collection: Malay Peninsula, 1803–1818_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600) (Singapore: Editions Didier Millet: National Museum of Singapore, 2010), 325. (From National Library, Singapore, call no. RSING 759.959 NAT)
 
-[\[6\]](#_ftnref6) Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 321. Kwa notes that Raffles and others often took issue with ‘“stiffness” and “flatness” \[...\] in the drawings of the Chinese artists”.
+[^13]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 321. Kwa notes that Raffles and others often took issue with ‘“stiffness” and “flatness” \[...\] in the drawings of the Chinese artists”.
+
+[14]: William Farquhar et al., [_Natural History Drawings: The Complete William Farquhar Collection: Malay Peninsula, 1803–1818_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600) (Singapore: Editions Didier Millet: National Museum of Singapore, 2010), 252. (From National Library, Singapore, call no. RSING 759.959 NAT)
+
+[^15]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 322.
+
+[^16]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 321. Axonometric perspectives, in contrast to one-point perspectives, employ “no vanishing point\[s\] and, hence, no optical distortion”. As Kwa observes, for Chinese artists, such a method was well suited to depict “the long landscapes \[they\] painted, for with it \[they\] could shift and move \[their\] perspective \[…\] Axonometry made Chinese art scrollable”.
 	
-[\[1\]](#_ftnref1) Farquhar, et al., [_Natural History Drawings_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600), 266.
+[^17]: Farquhar, et al., [_Natural History Drawings_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600), 266.
 
-[\[2\]](#_ftnref2) Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 322. For instance, some of the animals were depicted “in the cent~e~r of a landscape of rocks and windswept grass and/or bushes and sand”.
+[^18]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 322. For instance, some of the animals were depicted “in the cent~e~r of a landscape of rocks and windswept grass and/or bushes and sand”.
 
-[\[1\]](#_ftnref1) For instance, the Chinese artists were trained to develop their own personal style of depicting rocks, based on the understanding that “the ability to capture the _qi_, or the essence of a rock, is essential to the drawing of a landscape” (322). This aspect of their artistic training accounts for the use of rock landscapes as backdrops in their paintings, even if the animals did not actually live in such habitats.
+[^19]: For instance, the Chinese artists were trained to develop their own personal style of depicting rocks, based on the understanding that “the ability to capture the _qi_, or the essence of a rock, is essential to the drawing of a landscape” (322). This aspect of their artistic training accounts for the use of rock landscapes as backdrops in their paintings, even if the animals did not actually live in such habitats.
 
-[\[2\]](#_ftnref2) Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 322.
+[^20]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 322.
 
-[\[3\]](#_ftnref3) Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 321. While the preferred painting style of these Chinese artists can be likened to Western impressionism, the use of “impressionistic” in this essay does not refer to this style. Here, “impressionistic” refers to the “ink-play”, or _xieyi_ style that the artists practi~c~sed, which focuses on conveying the essence of their subject. In contrast, the more technical style required by clients like Farquhar, is similar to what the artists considered the fundamentals of painting: brushwork, or _gongbi_.
+[^21]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 321. While the preferred painting style of these Chinese artists can be likened to Western impressionism, the use of “impressionistic” in this essay does not refer to this style. Here, “impressionistic” refers to the “ink-play”, or _xieyi_ style that the artists practi~c~sed, which focuses on conveying the essence of their subject. In contrast, the more technical style required by clients like Farquhar, is similar to what the artists considered the fundamentals of painting: brushwork, or _gongbi_.
 
-[\[4\]](#_ftnref4) Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 327.
+[^22]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 327.
 	
 [\[1\]](#_ftnref1) Rookmaaker, “[The Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 54.
 
