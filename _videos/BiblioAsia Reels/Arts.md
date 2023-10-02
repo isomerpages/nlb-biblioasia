@@ -10,7 +10,11 @@ third_nav_title: BiblioAsia Reels
 
 The [concert grand piano](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/) at the National Library Building once graced the stage of the Victoria Memorial Hall, though it was once criticised by many international pianists for its abysmal tone. Find out how it came to replace the original Steinway at the Memorial Hall, and how it ended up with such a reputation.
 
-**Based on the article "[A Grand Piano's Chequered History](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/)"**
+**Related articles** <br>
+* [A Grand Piano's Chequered History](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/)
+* [The Process of Restoring the Chappell Concert Grand
+](/vol-19/issue-3/oct-dec-2023/chappell-piano-repair-zhivko-girginov/)
+
 <hr>
 
 #### **86-year-old Professor Yu Chun Yee Plays Chopin's Nocturne on NLB's Heritage Piano**
@@ -19,7 +23,10 @@ The [concert grand piano](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/)
 
 Professor Yu Chun Yee previously taught at the Royal College of Music in London. At age 18, he won the prestigious Singapore Musical Society’s pianoforte competition in 1955 judged by Julius Katchen. Here, Yu plays on the recently [refurbished Chappell grand](/vol-19/issue-3/oct-dec-2023/chappell-piano-repair-zhivko-girginov/) once used by international pianists at the Victoria Memorial Hall. A cheaper replacement for the Memorial Hall's old Steinway grand, the piano has a [chequered history](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/) and was widely criticised for its tone. It is now a public piano at the National Library Building.
 
-**Based on the article "[A Grand Piano's Chequered History](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/)"**
+**Related articles** <br>
+* [A Grand Piano's Chequered History](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/)
+* [The Process of Restoring the Chappell Concert Grand
+](/vol-19/issue-3/oct-dec-2023/chappell-piano-repair-zhivko-girginov/)
 
 <hr>
 
@@ -29,7 +36,8 @@ Professor Yu Chun Yee previously taught at the Royal College of Music in London.
 
 *The Great Reclamation* is a work of historical fiction set in Singapore that has received rave reviews from the *New Yorker* and the *New York Times*. A coming-of-age love story, the novel took Singaporean author Rachel Heng five years of research into topics such as land reclamation, the Japanese occupation, and postwar politics in Singapore. We speak to her about her book, her research process, and the challenges of writing historical fiction.
 
-* For the full interview, listen to the [BiblioAsia+ episode](/podcast/the-great-reclamation/). <br>
-* Read [an excerpt](/vol-19/issue-4/jan-mar-2024/interview-rachel-heng/) of the interview.
+**Related podcast episode and article** <br>
+* [BiblioAsia+ episode on <i>The Great Reclamation</i>](/podcast/the-great-reclamation/) <br>
+* [An Interview with Rachel Heng, Author of <i>The Great Reclamation</i>](/vol-19/issue-4/jan-mar-2024/interview-rachel-heng/)  
 
 <hr>
