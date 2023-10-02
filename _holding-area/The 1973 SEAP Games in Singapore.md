@@ -91,5 +91,5 @@ Over time, the SEAP Games themselves have changed. In 1977, the SEAP Games were 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Toffa_Abdul_Wahed.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/lim_tin_seng2.png">
 	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013), Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010). He writes regularly for BiblioAsia.</div>
