@@ -65,3 +65,7 @@ In short, the National Library of Singapore promises to be a fusion pod for lear
 
 Come visit us. You will be enthralled by the quality of information service and our knowledgeable reference specialists.
 
+<div>
+<center><b>Ambika Raghavan</b><br>Senior Reference Librarian<br> Lee Kong Chian Reference Library</center>
+</div>
+
