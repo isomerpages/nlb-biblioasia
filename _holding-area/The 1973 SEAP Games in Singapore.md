@@ -141,3 +141,19 @@ Over time, the SEAP Games themselves have changed. In 1977, the SEAP Games were 
 [^22]: “[Water-polo Gold Due to Team's Fitness](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730906-1.2.35.8),” _New Nation_, 6 September 1973, 11; Peter Siow, “[Chong Boon Achieves His Ambition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730911-1.2.101.5),” _Straits Times_, 6 September 1973, 22; Jeffrey Low, “[1973: Only Seap Made It a Good Year...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19731229-1.2.31.4),” _New Nation_, 29 December 1973, 10. (From NewspaperSG)
 
 [^23]: [Chia Chong Boon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/299b8c93-0685-11e4-a330-0050568939ad-OHC003847_009/web/html5/index.html), oral history interview by Madeline Ang, 21 January 2014, transcript and MP3 audio, Reel/Disc 9 of 18, 175–76, National Archives of Singapore ([accession no. 003847](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003847))
+
+[^24]: E.W. Barker, “[The Closing Ceremony of SEAP Games](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c045550-115d-11e3-83d5-0050568939ad),” speech, National Stadium, 8 September 1973, transcript, Ministry of Culture. (From National Archives of Singapore document no. PressR19730908b)
+
+[^25]: Barker, “[The Closing Ceremony of SEAP Games](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c045550-115d-11e3-83d5-0050568939ad).”
+
+[^26]: Fong, “[In the Best SEAP Spirit](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730909-1.2.2).”
+
+[^27]:  Shree Ann Mathavan, “[Goodbye to a Grand Old Dame](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper20060810-1.2.10.1.2),” _New Paper_, 10 August 2006, 16; “[And Jacko Was There Too](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper20100928-1.2.37.6.3),” _New Paper_, 28 September 2010, 41. (From NewspaperSG)
+
+[^28]: “[Medallion to Mark SEAP Games in S'pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730829-1.2.56),” _Straits Times_, 29 August 1973, 17. (From NewspaperSG).
+
+[^29]: “[Silver Fivers on Sale From Monday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730707.2.31),” _Straits Times_, 7 July 1973, 6. (From NewspaperSG)
+
+[^30]: “[6,000 Orders for Silver Fivers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730613-1.2.93),” _Straits Times_, 13 June 1973, 21; “[All Seap Games Coins Sold Out](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730914-1.2.67),” _Straits Times_, 14 September 1973, 9. (From NewspaperSG)
+
+[^31]: Gerald Wong, “[Team S'pore Way to Sports Glory](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20010421-1.2.10.3),” _Straits Times_, 21 April 2001, 6; Serene Luo, “[The SEA Journey](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20120206-1.2.65.14.1),” _Straits Times_, 6 February 2012, 20. (From NewspaperSG)
