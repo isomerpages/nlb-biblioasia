@@ -5,7 +5,7 @@ description: Hailed as the “people’s library for the knowledge age”, the n
   National Library is designed as a unique and modern library to meet the
   challenges of the 21st century.
 ---
- #### Hailed as the “people’s library for the knowledge age”, the new National Library is designed as a unique and modern library to meet the challenges of the 21st century.
+#### Hailed as the “people’s library for the knowledge age”, the new National Library is designed as a unique and modern library to meet the challenges of the 21st century.
  
 Hailed as the “people’s library for the knowledge age,” the new National Library is designed as a unique and modern library to meet the challenges of the 21st century. Standing 16 Levels above ground at Victoria Street, the focus of the Library will be on providing access to a comprehensive range of reference and research collection, services and facilities to promote lifelong learning for all communities and enable knowledge acquisition to create lasting social and economic impact for Singapore. It is worth noting that the Library is situated in the heart of the Arts, Culture, Learning and Entertainment belt thus making it the one-stop point for information and research needs amongst researchers, professionals, scholars and students.
 
@@ -25,5 +25,12 @@ The former includes works on education, government, social policy and culture wh
 #### **Level 8: The Arts and Business Collections**
 Art lovers will be treated to works on visual arts, architecture and creative design. The National Library hopes to contribute to the cultural capital and the development of a vibrant creative arts industry in Singapore. Also housed on this floor is the Business Collection comprising selected market research, specialised country and annual reports, business and trade directories as well as guidebooks.
 
+#### **Level 9: Chinese, Malay and Tamil Collections**
+The Chinese, Malay and Tamil Collections are developed to support the library as a centre of excellence for research on Chinese, Malay and Tamil Studies. The Chinese collection covers materials on arts, business, education, history and geography with special focus on resources on China, traditional Chinese medicine and healthcare as well as Chinese overseas. The Malay collection covers all aspects of community life in the Malay Archipelago, including socio-economy, politics, culture, religion, language and literature. The Tamil collection focuses on religion, language, arts and literature.
 
+#### **Level 10: The Donors' Collections**
+Private collections of individuals, organisations and societies that provide valuable sources of information on Singapore's history, social and cultural heritage are kept on this floor. Some of these include the Ya Yin Kwan collection donated by Tan Yeok Seong and collections donated by Tan Swie Hian.
+
+#### **Level 10: Asian Children’s Collection**
+The Asian Children’s Collection covers literary and research materials related to children’s literature in the four official languages. This is an ideal resource for educationalists, illustrators and anyone interested in the use and production of children’s reading and writing materials from an Asian perspective.
 
