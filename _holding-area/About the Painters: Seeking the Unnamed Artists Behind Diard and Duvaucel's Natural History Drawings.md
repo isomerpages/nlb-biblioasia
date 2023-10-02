@@ -72,9 +72,15 @@ While indeed demonstrating the “pressure \[the artists faced in the field\] to
 In my poem “About the Painters”, I linger on these uncompleted details, connecting to the artists’ moments of encounter with nature, by creatively re-imagining the conditions that might have led to certain artistic decisions. For instance, a specific kind of incompleteness pervades the collection in the form of omitted details, such as a missing iris,[\[25\]](#_ftn25) an uncoloured wing,[\[26\]](#_ftn26) a blank fin,[\[27\]](#_ftn27) and missing spots on the wings of the Great Eggfly.[\[28\]](#_ftn28) In each case, the omitted detail is clearly indicated by clean watercolor outlines, occasionally with details sketched in pencil. Should we emulate Kwa’s approach, these stylistic consistencies across these omissions could suggest that these pieces were the work of one artist.
 
 <img src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_2_0054_v1.jpg" style="width:60%;">
-<div style="background-color: white;"> Missing iris in the black magpie. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal. 
+<div style="background-color: white;"> Missing iris in the black magpie. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal. <br><br>
 
+<img src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_3_reptiles_poissons_0014_v1.jpg" style="width:60%;">
+<div style="background-color: white;">An uncoloured fin in the cigar wrasse. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal.
 
+	
+	
+	
+	
 
 
 
@@ -180,4 +186,4 @@ In my poem “About the Painters”, I linger on these uncompleted details, conn
 
 [\[5\]](#_ftnref5) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 14: Cigar Wrasse”, 172.&nbsp;
 
-[\[6\]](#_ftnref6) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 5: Great Eggfly”, 174.</div></div></div>
+[\[6\]](#_ftnref6) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 5: Great Eggfly”, 174.</div></div></div></div>
