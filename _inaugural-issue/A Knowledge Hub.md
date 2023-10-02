@@ -5,3 +5,25 @@ description: Hailed as the “people’s library for the knowledge age”, the n
   National Library is designed as a unique and modern library to meet the
   challenges of the 21st century.
 ---
+ #### Hailed as the “people’s library for the knowledge age”, the new National Library is designed as a unique and modern library to meet the challenges of the 21st century.
+ 
+Hailed as the “people’s library for the knowledge age,” the new National Library is designed as a unique and modern library to meet the challenges of the 21st century. Standing 16 Levels above ground at Victoria Street, the focus of the Library will be on providing access to a comprehensive range of reference and research collection, services and facilities to promote lifelong learning for all communities and enable knowledge acquisition to create lasting social and economic impact for Singapore. It is worth noting that the Library is situated in the heart of the Arts, Culture, Learning and Entertainment belt thus making it the one-stop point for information and research needs amongst researchers, professionals, scholars and students.
+
+Compared to the old National Library building at Stamford Road, the new one is five times bigger with a gross floor area of 58,500 sq m. The building comprises two blocks with distinctive characteristics. One showcases the Library’s contemplative side in the rectilinear block housing the bulk of the Library’s collections. The curvilinear block manifests the Library’s dynamic side with most of the programmes and events held there.
+
+#### **Lee Kong Chian Reference Library**
+
+The Reference Library had its humble beginnings in 1951 at the Raffles Library and Museum. On 12 November 1960, the National Library moved to its new premises at 91 Stamford Road. The Reference Department was renamed as Reference Division in 1963 and later renamed again as Reference Services Division (RSD) in 1970. It remained as RSD until January 1998 when the National Reference Library was formed with the establishment of the National Library Board. The old National Library was a landmark and was closed on 1 Apr 2004.
+
+The reference library at the new National Library is named the Lee Kong Chian Reference Library to commemorate a philanthropist and founder of the Lee Foundation, the late Dr Lee Kong Chian, who had made valuable contributions in the fields of public library service. He had donated S$375,000 in 1953 for the development of the former National Library. Fifty years on, his son donated another S$60 million towards the new Library. This donation was the largest ever made to any public organisation in Singapore from a corporate sector benefactor.
+
+The Lee Kong Chian Reference Library spans seven floors from levels seven to thirteen. It has over half a million items in its collections on various disciplines.
+
+#### **Level 7: Social Science & Humanities and Science & Technology Collections**
+The former includes works on education, government, social policy and culture while the latter features information on life sciences, biotechnology, material sciences and engineering.
+
+#### **Level 8: The Arts and Business Collections**
+Art lovers will be treated to works on visual arts, architecture and creative design. The National Library hopes to contribute to the cultural capital and the development of a vibrant creative arts industry in Singapore. Also housed on this floor is the Business Collection comprising selected market research, specialised country and annual reports, business and trade directories as well as guidebooks.
+
+
+
