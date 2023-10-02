@@ -36,6 +36,9 @@ The housing estate was chosen as the Games Village because the flats were “ide
 
 Each flat – with three bedrooms and a hall – was shared by six athletes and furnished with the “amenities of a luxurious hotel room”.[^8] The Games Village received a thumbs-up from athletes. “The organisers have done a wonderful job in providing first class accommodation,” said Singapore veteran hurdler Osman Merican. “What surprised me was the gang of women workers marching into our rooms in the mornings and tidying our beds and mopping up the caterers. This is something I have not experienced in other international games”.[^9]
 
+![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image2.png)
+<div style="background-color: white;">Heather Merican with her gold medal for the women’s 100 m hurdles at the National Stadium, 1973. She beat her competitors in a record of 14.8 s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The SEAP Games Village was declared open by Deputy Prime Minister Goh Keng Swee on 30 August 1973. To mark the occasion, Goh planted a hop tree in the village centre while the heads of the contingents from the other participating countries also planted their own trees. Goh noted: “\[A\]s you can see for yourself, and as the tree-planting ceremony is intended to symbolise, this satellite town is not really a concrete jungle.”[^10] (After the games, the flats were sold through a balloting exercise at $19,000 each, with an additional $1,700 for furnishings.)
 
 The secretariat for the games was a three-storey building that was also in Toa Payoh. After the games, it became the Toa Payoh Branch Library, which opened on 7 February 1974.[^11]
@@ -48,6 +51,9 @@ Benjamin Sheares, followed by the singing of the National Anthem and the introdu
 In their striking crimson jackets for male athletes and cream for female, the Singapore contingent emerged onto the running track where they were greeted by the frenzied cheers of an enthusiastic crowd of 50,000 spectators.
 
 The Singapore contingent was 454 athletes strong, and included swimming sensations Pat Chan and Elaine Sng, track stars Heather Merican and Glory Barnabas, high jumper Noor Azhar Abdul Hamid, and judokas Tan Sin Aun, Wong Kin Jong and Kan Kwok Toh.[^13]
+
+![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image3.png)
+<div style="background-color: white;">Glory Barnabas, competing in lane 3 in the 200-metre sprint, won gold for Singapore. <i>Courtesy of Singapore Sports Council.</i></div>
 
 After Barker’s welcome speech, President Sheares officially declared the games open. The blue-and-white SEAP Games flag was unfurled amid the “ringing sound of a trumpet fanfare”, and accompanied by the release of some 19,000 multihued balloons and a 21-gun salute.
 
