@@ -19,7 +19,7 @@ The reference library at the new National Library is named the Lee Kong Chian Re
 
 The Lee Kong Chian Reference Library spans seven floors from levels seven to thirteen. It has over half a million items in its collections on various disciplines.
 
-#### **Level 7: Social Science & Humanities and Science & Technology Collections**
+#### **Level 7: Social Science &amp; Humanities and Science &amp; Technology Collections**
 The former includes works on education, government, social policy and culture while the latter features information on life sciences, biotechnology, material sciences and engineering.
 
 #### **Level 8: The Arts and Business Collections**
@@ -42,3 +42,14 @@ Includes extremely valuable and rare publications, mostly from the 19th and earl
 
 #### **Basement 1: Central Lending Library**
 Located at Basement 1, the Central Lending Library focuses on offering visual, creative and literary art, business and management collections and award winning literature to its patrons, mainly the arts and business community in the area. Compared to the Reference Library, it fans out to a much broader group of users such as children, youths and adults.
+
+#### **Services**
+Onsite and remote information services are provided by the Lee Kong Chian Reference Library. Patrons can get access to information through counters at levels 7, 8, 9 and 11. They can also submit their enquiries through telephone, email, fax as well as postal mail. A Fiction Advisory Service, which offers advice to users on the type of fiction titles to read will be provided at the Central Lending Library. 
+
+In addition, self-help services are always available at Library e-Kiosks placed at strategic locations in the library for directional, circulation and other enquiries.
+
+#### **Digital and Electronic Resources**
+The Library hopes to push more digital content through the NLB Digital Library at <a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a>. These include a greater selection of databases, images, unpublished works of local authors, digitised rare materials and thematic articles on Singapore heritage and other materials from partner libraries like the British Library. 
+
+Members of the public can access an array of some 40 online databases to support the specialised collections at the Library. Factiva, Proquest, *REALIS (URA Real Estate Information System)*, *GMID (Global Market Information Database)*, *Kompass, Bibliography of Asian Studies* and *Grove Art Online* are some of the databases, which will be made available online at the multimedia stations at a nominal fee.
+
