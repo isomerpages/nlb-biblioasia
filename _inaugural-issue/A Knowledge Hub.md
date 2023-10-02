@@ -42,8 +42,3 @@ Includes extremely valuable and rare publications, mostly from the 19th and earl
 
 #### **Basement 1: Central Lending Library**
 Located at Basement 1, the Central Lending Library focuses on offering visual, creative and literary art, business and management collections and award winning literature to its patrons, mainly the arts and business community in the area. Compared to the Reference Library, it fans out to a much broader group of users such as children, youths and adults.
-
-
-
-
-
