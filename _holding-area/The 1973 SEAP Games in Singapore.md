@@ -94,7 +94,7 @@ While the athletes would always have the memory of participating in the games, f
 
 The Board of Commissioners of Currency issued a $5 silver commemorative coin, sold at $6 each, while the Singapore Mint released a set of SEAP Games First Day Cover comprising six stamps – each set costing $15 – in denominations of 10 cents, 15 cents, 25 cents, 35 cents, 50 cents and $1.[^29] These were very well received, both in Singapore and overseas, and were immediately snapped up.[^30] All these have since become collectors’ items.
 
-Over time, the SEAP Games themselves have changed. In 1977, the SEAP Games were renamed Southeast Asian Games (SEA Games) to mark the inclusion of Brunei, Indonesia and the Philippines.31 This has since been expanded further and in the 2023 SEA Games, which were held in Phnom Penh, Cambodia, 11 countries took part. Singapore has hosted a total of four SEAP/SEA games thus far, in 1973, 1983, 1993 and most recently in 2015. It is next expected to host the event again in 2029.
+Over time, the SEAP Games themselves have changed. In 1977, the SEAP Games were renamed Southeast Asian Games (SEA Games) to mark the inclusion of Brunei, Indonesia and the Philippines.[^31] This has since been expanded further and in the 2023 SEA Games, which were held in Phnom Penh, Cambodia, 11 countries took part. Singapore has hosted a total of four SEAP/SEA games thus far, in 1973, 1983, 1993 and most recently in 2015. It is next expected to host the event again in 2029.
 
 
 <div style="background-color: white;">
