@@ -106,4 +106,23 @@ Over time, the SEAP Games themselves have changed. In 1977, the SEAP Games were 
 
 [^5]: “[Toa Payoh Is Games village](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720121.2.122),” _Straits Times_, 21 January 1972, 24. (From NewspaperSG))
 
-[^6]:
+[^6]: “[Minjoot Named Village Head](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730804-1.2.78.13),” _Straits Times_, 4 August 1973, 23. (From NewspaperSG)
+
+[^7]: Ernest Frida, “[On Schedule – Work on Seap Projects](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720724-1.2.124.1),” _Straits Times_, 24 July 1972, 27. (From NewspaperSG)
+
+[^8]: “[Games Village Will Be Like Luxury Hotels](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720609-1.2.123.1),” _Straits Times_, 9 June 1972, 27 (From NewspaperSG)
+
+[^9]: Ernest Frida, “[Athletes Happy in Seap Village](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730808-1.2.95.3),” _Straits Times_, 8 August 1973, 22. (From NewspaperSG)
+
+[^10]:“[Dr Goh Opens Games Village](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730831-1.2.113),” _Straits Times_, 31 August 1973, 24. (From NewspaperSG)
+
+[^11]: “[Call for Sale of ‘Instant Live-in’ Flats](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731024.2.38),” _Straits Times_, 24 October 1973, 7; “[Jek to Open Toa Payoh Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740205.2.77),” _Straits Times_, 5 February, 1974, 13. (From NewspaperSG)
+
+[^12]: Chandran, “[Sheares Opens SEAP Games](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730902-1.2.2).”
+
+[^13]: Jeffrey Low, “[The ‘Golden Hopefuls…](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730821-1.2.27.1),” _New Nation_, 21 August 1973, 7. (From NewspaperSG)
+
+[^14]: Chandran, “[Sheares Opens SEAP Games](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730902-1.2.2)”; Mediacorp Pte Ltd., “[7th SEAP Games Singapore 1973](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48869571-1164-11e3-83d5-0050568939ad),” 30 August 1973, audiovisual, 30:00. (From National Archives of Singapore accession no. 1997002643)
+
+[^15]:&nbsp;“[SEAP Games Theme Song Picked](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730413-1.2.15),” _New Nation_, 13 April 1973, 2. (From NewspaperSG)
+
