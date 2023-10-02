@@ -6,7 +6,7 @@ description: Assistant Professor Lai Chee Kien retraces the various geographies
 ---
 #### Assistant Professor Lai Chee Kien retraces the various geographies and histories of Singapore’s railway lines and stations.
 
-<img style="width:80%;" src="/images/Vol%207%20issue%203/RailwayLines/Woodlands%20railway%20terminal%20-%20Kleingrothe%20circa%201896.jpg">
+<img style="width:100%;" src="/images/Vol%207%20issue%203/RailwayLines/Woodlands%20railway%20terminal%20-%20Kleingrothe%20circa%201896.jpg">
  <div style="background-color: white;">Woodlands Railway Terminus. Source: C.J. Kleingrothe. <i>Courtesy of the Central Library, National University of Singapore.</i>
 </div>
 
