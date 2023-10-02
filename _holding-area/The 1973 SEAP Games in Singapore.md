@@ -45,9 +45,7 @@ The SEAP Games Village was declared open by Deputy Prime Minister Goh Keng Swee 
 The secretariat for the games was a three-storey building that was also in Toa Payoh. After the games, it became the Toa Payoh Branch Library, which opened on 7 February 1974.[^11]
 
 #### **Let the Games Begin**
-The opening ceremony of the 7th SEAP Games on  
-1 September 1973 was described as the “most colourful” ceremony Singapore had ever witnessed at the time. Shown live on television, the ceremony commenced with the arrival of the president of Singapore,  
-Benjamin Sheares, followed by the singing of the National Anthem and the introduction of the athletes from the seven participating nations – Burma (now Myanmar), Khmer Republic (now Cambodia), Laos, Malaysia, Singapore, Thailand and South Vietnam.[^12]
+The opening ceremony of the 7th SEAP Games on 1 September 1973 was described as the “most colourful” ceremony Singapore had ever witnessed at the time. Shown live on television, the ceremony commenced with the arrival of the president of Singapore, Benjamin Sheares, followed by the singing of the National Anthem and the introduction of the athletes from the seven participating nations – Burma (now Myanmar), Khmer Republic (now Cambodia), Laos, Malaysia, Singapore, Thailand and South Vietnam.[^12]
 
 In their striking crimson jackets for male athletes and cream for female, the Singapore contingent emerged onto the running track where they were greeted by the frenzied cheers of an enthusiastic crowd of 50,000 spectators.
 
@@ -102,7 +100,7 @@ Over time, the SEAP Games themselves have changed. In 1977, the SEAP Games were 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/lim_tin_seng2.png">
-	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013), Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010). He writes regularly for BiblioAsia.</div>
+	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of Roots: <i>Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 	
 #### **NOTES**
 
