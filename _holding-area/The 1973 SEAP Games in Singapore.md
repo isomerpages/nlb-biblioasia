@@ -10,9 +10,7 @@ By Lim Tin Seng
 ![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image1.png)
 <div style="background-color: white;">Singapore's "Golden Girl", swimmer Patricia Chan, being congratulated after a prize presentation ceremony at Toa Payoh Swimming Complex, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; line-height: 10.0px; font: 52.0px 'Minion Pro'} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; line-height: 10.0px; font: 10.0px 'Minion Pro'} p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 19.9px; line-height: 10.0px; font: 10.0px 'Minion Pro'} span.s1 {letter-spacing: -0.1px} span.s2 {letter-spacing: 0.1px}
-
-Itwas September 1973 and the stakes were high for Singapore, and for Singapore’s “Golden Girl” Patricia Chan. It was the 7th Southeast Asian Peninsular (SEAP) Games, the precursor to today’s Southeast Asian Games, and the event was being held in Singapore for the first time.&nbsp;
+It was September 1973 and the stakes were high for Singapore, and for Singapore’s “Golden Girl” Patricia Chan. It was the 7th Southeast Asian Peninsular (SEAP) Games, the precursor to today’s Southeast Asian Games, and the event was being held in Singapore for the first time.&nbsp;
 
 One of the biggest international sporting events to be hosted by Singapore since becoming independent, it was a matter of pride for the young nation. There was a desire to show, not only that the country was able to host an event like this, but that it would also do well in the medal tally. For the latter, all eyes were on Singapore’s star athletes, and in particular swimming sensation Pat Chan.
 
