@@ -6,7 +6,7 @@ description: Senior Librarian Ang Seow Leng gives us a crash course in all
 ---
 #### Senior Librarian Ang Seow Leng gives us a crash course in all things orchids and their special relationship with Singapore.
 
-<img src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Garden_1.jpg" style="width:80%;">
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Garden_1.jpg">
  <div style="background-color: white;">The National Orchid Garden offers a permanent showcase of the largest display of tropical orchids in the world, including “hand-crafted” orchids bred by the Gardens’ horticultural staff. <i>Simon McGill.</i></div>
  
 The 20th World Orchid Conference will once again be held in Singapore from 13–20 November, at the Marina Bay Sands Expo and Convention Centre. This major event is regarded as the “Olympics of Orchids”. World Orchid Conferences were initiated in 1952 by Gordon W. Dillon from the American Orchid Society. He was also the editor for the *American Orchid Society Bulletin* from 1943–1967 and from 1970–1973. The first conference was held in St Louis, Missouri, in October 1954. Since then, it has been held once every three years. Regarded as the most significant event in the international orchid circuit, it attracts academics, orchid breeders and enthusiasts who gather to share about the promotion, cultivation and study of orchids.
@@ -31,7 +31,7 @@ The orchid family, *Orchidaceae*, is one of the largest families of flowering pl
 
 Orchids can be commonly found in homes, hotels and offices. Flourishing in all parts of the world, they come in different colours, shapes and sizes, and can be found growing in a wide range of environments. Teoh summarised it best when he drew attention to the resemblance of orchids to insects and even slippers:
 
-<center>There are orchids which resemble moths (<i>Phalaenopsis</i>), butterflies (<i>Psychopsis papillo</i>), the slippers of Aphrodite or moccasins (<i>Paphiopedilum</i> and <i>Cypripedium</i>), dancing ladies (<i>Oncidium</i>), spiders (<i>Brassia</i>), scorpions (<i>Arachnis</i>) and bees (<i>Ophrys</i>).[^10]</center>
+<center>There are orchids which resemble moths (<i>Phalaenopsis</i>), butterflies (<i>Psychopsis papillo</i>), the slippers of Aphrodite or moccasins (<i>Paphiopedilum</i> and <i>Cypripedium</i>), dancing ladies (<i>Oncidium</i>), spiders (<i>Brassia</i>), scorpions (<i>Arachnis</i>) and bees (<i>Ophrys</i>).</center>[^10]
 
 Orchids also have several uses in addition to being ornamental plants. The vanilla seed capsule is a common ingredient used in baking. Derived from the *Vanilla planifolia*, it is also used in beauty products like perfume and aromatherapy oils.
 
@@ -56,7 +56,7 @@ The Tissue Culture Laboratory was established in the Gardens in the early 1970s 
 
 The Orchid Enclosure was opened to the public in 1955. The hugely popular enclosure was expanded over time, and the National Orchid Garden was opened at the end of 1995 which exhibited an extensive range of orchids. In order to cultivate and research the orchid species growing in higher altitudes and from temperate climates, the Cold House, also known as the Temperate House, was built in 1972. In 2004, it was replaced by the Cool House Conservatory, which was constructed in the National Orchid Garden.[^23] As at 2009, Tan Wee Kiat reported that there were more than 1,000 orchid species and 2,000 hybrids in the collection.[^24] The Gardens has also registered more than 400 hybrids.[^25]
 
-<img src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Enclosure_1.jpeg" style="width:80%;">
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Orchid%20Enclosure_1.jpeg">
  <div style="background-color: white;">Before the three-hectare National Orchid Garden was constructed, the one-hectare Orchid Enclosure at the Singapore Botanic Gardens was home to the many varieties of orchids that were developed through the orchid breeding programme. <i>Courtesy of Singapore Tourism Board.</i></div>
 
 #### **Saving Native Orchids**
@@ -68,7 +68,7 @@ a. Artificial propagation<br> b. Reintroduction to habitats<br> c. Foundation of
 As a result, the tiger orchid, or *Grammatophyllum speciosum*, was the first species to be reintroduced in Pulau Ubin and it has since taken root and is doing well. As at 2007, four native orchid species have been reintroduced in parks and roadside trees.[^28] Research and conservation continue to be the main objective at the Singapore Botanic Gardens in order for future generations to enjoy the beauty of orchids and discover other uses for them.
 
 
-<img src="/images/Vol%207%20issue%203/OrchidsManifold/Tiger.jpg" style="width:80%;">
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Tiger.jpg">
 <div style="background-color: white;">A tiger orchid, or <i>Grammatophyllum speciosum</i>, may weigh over one ton at full maturity, making it the largest orchid plant in the world. <i>Reproduced from Orchids of the Singapore Botanic Gardens. All rights reserved, National Parks Board, Singapore Botanic Gardens, 2007.</i> </div>
 
 #### **A Symbol of Singapore**
@@ -91,12 +91,12 @@ The Singapore Mint also introduced a Heritage Orchids of Singapore coin set that
 
 #### **Orchid Diplomacy**
 
-<img src="/images/Vol%207%20issue%203/OrchidsManifold/Mokara.jpg" style="width:50%;">
+<img style="width:50%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Mokara.jpg">
  <div style="background-color: white;"><i>Mokara</i> Zhu Rongji ‘Lao An’ was created for Lao An, the wife of fifth Premier of the People’s Republic of China), Zhu Ronji. <i>Reproduced from Orchid Hybrids of Singapore, 1893–2003. All rights reserved, Orchid Society of South East Asia, 2005.</i></div>
 
 With Singapore orchids gaining fame in the world, it was adopted as an agent to promote goodwill with other nations. The Singapore Botanic Gardens started the practice of naming of new orchid hybrids after VIPs and visiting celebrities. In 1956, *Aranthera* Anne Black became the first VIP orchid, named after Lady Black, the wife of the former Governor of Singapore, Robert Brown Black.[^35] Other orchid hybrids named after VIPs include: *Dendrobium* Michiko, *Mokara* Zhu Rongji, *Renantanda* Prince Norodom Sihanouk, *Dendrobium* Memoria Princess Diana and *Vandaenopsis* Nelson Mandela. Some are named after celebrities, like local singer Stephanie Sun, pop music celebrity Ricky Martin and Korean actor Bae Yong Jun.
 
-<img src="/images/Vol%207%20issue%203/OrchidsManifold/Presentation1.jpg" style="width:80%;">
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Presentation1.jpg">
  <div style="background-color: white;">From left: <i>Renanthera</i> Kalsom, <i>Oncidium</i> Gower Ramsey, <i>Spathoglottis</i> Primrose, <i>Dendrobium</i> Tay Swee Keng and <i>Vanda</i> Miss Joaquim. <i>Spathoglottis Primrose reproduced from Orchids of the Singapore Botanic Gardens. All rights reserved, National Parks Board, Singapore Botanic Gardens, 2007; the rest reproduced from A Guide to the Orchids of Singapore. All rights reserved, Singapore Science Centre, 1993.</i></div>
 
 The orchid was also endorsed by David Marshall, Singapore’s first Ambassador to France, and subsequently to Spain, Portugal and Switzerland. He was well known as the ambassador with an orchid as he would wear an orchid on his lapel at every official function.[^36]
@@ -109,7 +109,7 @@ The 1981 Cultural Medallion winner for excellence in painting orchids, Lee Hock 
 
 For Singapore, the major economic contribution of orchids is the cut-flower export industry. Singapore’s tropical climate enables the production of orchids all year round whereas countries with four seasons have to grow their orchids in greenhouses. The Monetary Authority of Singapore announced in a 2006 press release[^40] that Singapore is one of ASEAN’s top producers and exporters of top quality orchid flowers, supplying about a 15-percent share of the world’s market in orchids. In 2004, Singapore exported S$29.08 million worth of orchid cut-flowers worldwide. During the 1970s and 1980s, the industry was worth as much as S$16 million per annum.[^41] Today, Singapore is the third-largest exporter of orchids in the world.[^42]
 
-<img src="/images/Vol%207%20issue%203/OrchidsManifold/Freshly%20cut%20orchids_1.jpeg" style="width:80%;">
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Freshly%20cut%20orchids_1.jpeg">
  <div style="background-color: white;">Freshly cut orchids are prepared for export, delivery and arrangement by the staff at Toh Orchids at Sungei Tengah. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
 Orchid exporting in Singapore began in the 1930s. The preferred orchids then were the *Vanda* Miss Joaquim, which was the first to be exported on a large scale, followed by the Cattleya family, including *Laelias* and *Brassavolas*.[^43] Subsequently, it became more profitable to propagate orchids that flower more frequently in order to meet market demands. The ornamental value of long-lasting orchid flowers made them suitable for export as cut-flowers.
@@ -120,14 +120,14 @@ A typical batch of orchids to be prepared for export in the early days was descr
 
 Amateur orchid collector and grower John Laycock, who co-founded the Malayan Orchid Society (present-day Orchid Society of South East Asia) with Emile Galistan and Holttum, founded Singapore Orchids Ltd (also known as Mandai Orchid Garden[^45] in recent years) with Lee Kim Hong in 1951 to realise his vision of starting an orchid cut-flower trade on a commercial basis. The company became well known and is the oldest orchid garden establishment in Singapore.
 
-<img src="/images/Vol%207%20issue%203/OrchidsManifold/Luscious%20Orchid1.jpeg" style="width:80%;">
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Luscious%20Orchid1.jpeg">
  <div style="background-color: white;">Luscious orchid blooms at the Mandai Orchid Gardens, which closed on 31 December 2010. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
 The orchid flower export industry has grown from strength to strength through the increasing ease in air transport and efforts put in by the Tourism Promotion Board. In 1966, President of the Singapore Gardening Society, the late A.G. Alphonso, reported a happy problem of local florists and nurseries not being able to cope with the demand for cut-flowers from overseas, especially from European countries. The private gardens and amateur orchid growers began to find it a “profitable pastime”.[^46]
 
 The golden age of orchid exports lasted from the late 1960s till the mid-1980s. During its peak from the late 1970s to early 1980s, there were approximately 230 nurseries involved in this industry. In 1970, close to 71 hectares of land were used for orchid cultivation and the acreage doubled to 138 hectares in 1972.[^47] By 1980, it continued to increase five-fold to 350 hectares, but it reportedly suffered decline in acreage from 1983 onwards.[^48]
 
-<img src="/images/Vol%207%20issue%203/OrchidsManifold/Watering%20Machine_1.jpeg" style="width:80%;">
+<img style="width:80%;" src="/images/Vol%207%20issue%203/OrchidsManifold/Watering%20Machine_1.jpeg">
  <div style="background-color: white;">A watering machine traverses the greenhouse aisles at Toh Orchids. <i>Courtesy of Ministry of Information, Communications and the Arts, Singapore.</i></div>
 
 In 1986, the Agri-Food &amp; Veterinary Authority of Singapore (AVA) developed agrotechnology parks to encourage farms to embrace advanced technologies and techniques for intensive farming systems. These farms aim to optimise land use and increase productivity. There are six such parks in Singapore[^49] and some of these parks have orchid farms whose businesses continue to thrive.
@@ -143,7 +143,7 @@ To find out more about the practice of naming orchid hybrids after visiting head
 <center><br>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Ang_Seow_Leng.png">
+<img src="/images/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;">
 <b>Ang Seow Leng</b><br>Senior Librarian<br>National Library</div></center>
 
 #### **REFERENCES**
@@ -336,4 +336,3 @@ Yeoh Bok Choon, _[A List of Malayan Orchid Hybrids, 1893–1963](https://eservic
 [^48]: Ng Huang Gieh, “[Commercial Orchid Growing in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5042537),” 43.
 
 [^49]: The 6 Agrotechnology Parks in Singapore are situated at Lim Chu Kang, Murai, Sungei Tengah, Mandai, Nee Soon and Loyang. (Source: Primary Production Department, Singapore, _[Agrotechnology Parks: Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9570024)_ (Singapore: Primary Production Department, Ministry of National Development Singapore, 1999, 3. (Call no. RSING 631.2095957 AGR C))
-
