@@ -8,6 +8,11 @@ description: These include Reference & Information Services; Reference Point;
 ---
 #### These include Reference &amp; Information Services; Reference Point; Audiovisual Services; Interlibrary Loan and Document Delivery; Repository Used Collection; Printing; Photocopy and Reprographic Services; and Digital Content.
 
+<img src="/images/inaugural-issue/Services%20LKC/reception.JPG" style="width:50%;">
+ <div style="background-color: white;"></div>
+
+
+
 #### **Reference &amp; Information Services**
 The Lee Kong Chian Reference Library provides advisory services for research assignments, business ventures and personal interest. Our reference librarians can provide answers to queries, suggest useful search strategies and guide you to relevant and useful resources available at the Library. Researchers from academic to business fields may also make an appointment with qualified reference librarians specialising in the subject area to help clarify and locate what you need.
 
@@ -36,6 +41,3 @@ An increasing amount of e-content, whether digitised from our local collections 
 <div>
 <center><b>Chow Wun Han</b><br> Manager<br> Lee Kong Chian Reference Library</center>
 </div>
-
-
-
