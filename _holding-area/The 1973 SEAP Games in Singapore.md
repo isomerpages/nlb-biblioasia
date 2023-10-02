@@ -93,3 +93,17 @@ Over time, the SEAP Games themselves have changed. In 1977, the SEAP Games were 
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/lim_tin_seng2.png">
 	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of Roots: Tracing Family Histories – A Resource Guide (2013), Harmony and Development: ASEAN-China Relations (2009) and China’s New Social Policy: Initiatives for a Harmonious Society (2010). He writes regularly for BiblioAsia.</div>
+	
+#### **NOTES**
+
+[^1]: [Patricia Chan Li Yin](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/8c394664-3b57-11e5-b55d-0050568939ad-OHC002629_017/web/html5/index.html), oral history interview by Denise Ng Hui Lin, 18 March 2015, transcript and MP3 audio, Reel/Disc 17 of 18, 226, National Archives of Singapore ([accession no. 002629](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002629))
+
+[^2]: Ernest Frida, “[S'pore Will Not Bid for 1967 Games](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19651209-1.2.136.2),” _Straits Times_, 9 December 1965, 23; Ernest Frida, “[Wok: Wait Until 1972...](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670915-1.2.139.1),” _Straits Times_, 15 September 1967, 21; “[‘Stage the Games in 1971’ Appeal to S'pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19691207-1.2.105),” _Straits Times_, 7 December, 1969, 23. (From NewspaperSG)
+
+[^3]: [_To Commemorate the Opening of the National Stadium, Republic of Singapore: 1973_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4782452)&nbsp;(Singapore: National Stadium, 1973), 5–7. (From National Library, Singapore, call no. RSING 796.0685957 TO)
+
+[^4]: Lee Kuan Yew, “[The Official Opening of the National Stadium](https://www.nas.gov.sg/archivesonline/speeches/record-details/7359f206-115d-11e3-83d5-0050568939ad),” speech, National Stadium, 21 July 1973, transcript, Ministry of Culture. (From National Archives of Singapore document no. lky19730721)
+
+[^5]: “[Toa Payoh Is Games village](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720121.2.122),” _Straits Times_, 21 January 1972, 24. (From NewspaperSG))
+
+[^6]:
