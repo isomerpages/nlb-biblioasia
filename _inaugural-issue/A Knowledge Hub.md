@@ -53,3 +53,15 @@ The Library hopes to push more digital content through the NLB Digital Library a
 
 Members of the public can access an array of some 40 online databases to support the specialised collections at the Library. Factiva, Proquest, *REALIS (URA Real Estate Information System)*, *GMID (Global Market Information Database)*, *Kompass, Bibliography of Asian Studies* and *Grove Art Online* are some of the databases, which will be made available online at the multimedia stations at a nominal fee.
 
+#### **Exhibitions**
+Library patrons can also enrich their learning experience about the history of the Library’s heritage as well as thematic events through exhibitions and public programmes. Two exhibitions are currently in development:
+
+• *Zheng He* and *Maritime Asia* exhibition, which celebrates the 600th anniversary of the maiden voyage of Admiral Zheng He, is scheduled to display from 13 August 2005 to 10 February 2006. <br><br>  • *History of the National Library of Singapore exhibition*, which will be a permanent feature describes the Library’s heritage from the 1800s.
+
+#### **Programmes**
+The Library will also host a variety of programmes and performances for its various audiences. In addition, visitors to the Library can get an overview of the Library’s services, collections, architecture and exhibitions by joining the Library’s public guided tours. They can also sign up for special collection tours.
+
+In short, the National Library of Singapore promises to be a fusion pod for learning, discovering and application of knowledge through its many activities, programmmes and wealth of information.
+
+Come visit us. You will be enthralled by the quality of information service and our knowledgeable reference specialists.
+
