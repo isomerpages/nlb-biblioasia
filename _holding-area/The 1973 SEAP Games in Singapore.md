@@ -90,7 +90,7 @@ As President Sheares solemnly declared the games closed, buglers sounded the Las
 #### **Leaving a Legacy**
 The 7th SEAP Games held in Singapore left a lasting legacy that went beyond the realm of sports. The games showcased Singapore’s ambition to become a leading sporting nation in the region and demonstrated the nation’s ability to successfully host major international events. Indeed, after the games, the National Stadium continued to be used for various sporting and non-sporting events before it was closed in 2007 and replaced by the current National Stadium.[^27]
 
-While the athletes would always have the memory of participating in the games, for the rest of Singapore, they could own commemorative merchandise such as apparel, pewter medallions and even collectible matchboxes.[^28];
+While the athletes would always have the memory of participating in the games, for the rest of Singapore, they could own commemorative merchandise such as apparel, pewter medallions and even collectible matchboxes.[^28]
 
 The Board of Commissioners of Currency issued a $5 silver commemorative coin, sold at $6 each, while the Singapore Mint released a set of SEAP Games First Day Cover comprising six stamps – each set costing $15 – in denominations of 10 cents, 15 cents, 25 cents, 35 cents, 50 cents and $1.[^29] These were very well received, both in Singapore and overseas, and were immediately snapped up.[^30] All these have since become collectors’ items.
 
