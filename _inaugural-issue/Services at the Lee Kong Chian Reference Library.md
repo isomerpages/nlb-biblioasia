@@ -6,9 +6,9 @@ description: These include Reference & Information Services; Reference Point;
   Collection; Printing; Photocopy and Reprographic Services; and Digital
   Content.
 ---
-#### These include Reference & Information Services; Reference Point; Audiovisual Services; Interlibrary Loan and Document Delivery; Repository Used Collection; Printing; Photocopy and Reprographic Services; and Digital Content.
+#### These include Reference &amp; Information Services; Reference Point; Audiovisual Services; Interlibrary Loan and Document Delivery; Repository Used Collection; Printing; Photocopy and Reprographic Services; and Digital Content.
 
-#### **Reference & Information Services**
+#### **Reference &amp; Information Services**
 The Lee Kong Chian Reference Library provides advisory services for research assignments, business ventures and personal interest. Our reference librarians can provide answers to queries, suggest useful search strategies and guide you to relevant and useful resources available at the Library. Researchers from academic to business fields may also make an appointment with qualified reference librarians specialising in the subject area to help clarify and locate what you need.
 
 #### **Reference Point**
@@ -30,8 +30,12 @@ Customers can print downloaded documents from websites and databases at the mult
 
 Customers can also obtain black and white photocopies from microfilms at the photocopying service on level 11. For better quality printouts from microfilms, customers can place a reprographic order at the Reference Counter.
 
+#### **Digital Content**
+An increasing amount of e-content, whether digitised from our local collections or acquired from our partners and commercial providers, is available through the digital library portal at www.nlb.gov.sg. The digital library portal contains 40 online databases and electronic journals that support researchers by its convenient search and access. Digital content covers Business information, Art, Social Sciences, Science and Chinese databases. Highlights of our databases include *Britannica Online*, *Grove Art Online*, *Forrester Research*, *GMID (Global Market Information Database) Euromonitor*, *REALIS (URA Real Estate Information System)*, *China Infobank* and *Singapore Pages*.
 
-
+<div>
+<center><b>Chow Wun Han</b><br> Manager<br> Lee Kong Chian Reference Library</center>
+</div>
 
 
 
