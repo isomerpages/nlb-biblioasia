@@ -175,4 +175,4 @@ More so than the artist’s identity, their artistic choice in this drawing brin
 	
 [^40]: Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 54.
 
-[^41]: Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695).,” 54.
+[^41]: Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695).”
