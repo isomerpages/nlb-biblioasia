@@ -2,6 +2,6 @@ collections:
   inaugural-issue:
     output: true
     order:
-      - Services at the Lee Kong Chian Reference Library.md
-      - A Knowledge Hub.md
       - A New Chapter.md
+      - A Knowledge Hub.md
+      - Services at the Lee Kong Chian Reference Library.md
