@@ -139,38 +139,40 @@ More so than the artist’s identity, their artistic choice in this drawing brin
 
 [^22]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 327.
 	
-[\[1\]](#_ftnref1) Rookmaaker, “[The Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 54.
+[^23]: Rookmaaker, “[The Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 54.
 
-[\[2\]](#_ftnref2) Low, Lim and Ng, “[The First Singapore Biodiversity Expedition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 49.
+[^24]: Low, Lim and Ng, “[The First Singapore Biodiversity Expedition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 49.
 
-[\[3\]](#_ftnref3) See Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 23: Malay Brown Barbet”, 110, and “No 54: Black Magpie”, 143.&nbsp;
+[^25]: See Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 23: Malay Brown Barbet”, 110, and “No 54: Black Magpie”, 143.&nbsp;
 
-[\[4\]](#_ftnref4) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 54: Black Magpie”, 143. Besides an incomplete wing and iris, the Black Magpie also has a missing leg.&nbsp;
+[^26]: Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 54: Black Magpie”, 143. Besides an incomplete wing and iris, the Black Magpie also has a missing leg.&nbsp;
 
-[\[5\]](#_ftnref5) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 14: Cigar Wrasse”, 172.&nbsp;
+[^27]: Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 14: Cigar Wrasse”, 172.&nbsp;
 
-[\[6\]](#_ftnref6) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 5: Great Eggfly”, 174.
+[^28]: Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 5: Great Eggfly”, 174.
 	
-[\[1\]](#_ftnref1) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 4: Kuhl’s Gliding Gecko”, 158.
+[^29]: Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 4: Kuhl’s Gliding Gecko”, 158.
 
-[\[2\]](#_ftnref2) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 5: Flat-tailed House Gecko”, 159.
+[^30]: Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 5: Flat-tailed House Gecko”, 159.
 
-[\[3\]](#_ftnref3) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 7: Long-nosed Horned Frog”” 170.
+[^31]: Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 7: Long-nosed Horned Frog”” 170.
 
-[\[4\]](#_ftnref4) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 6: Giant River Toad”, 171.
+[^32]: Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 6: Giant River Toad”, 171.
 
-[\[5\]](#_ftnref5) The collection holds only two amphibians: the Long-nosed Horned Frog and Giant River Toad. In the absence of other amphibian drawings, I compared the four drawings discussed in this section to the other reptile drawings instead.
+[^33]: The collection holds only two amphibians: the Long-nosed Horned Frog and Giant River Toad. In the absence of other amphibian drawings, I compared the four drawings discussed in this section to the other reptile drawings instead.
 	
-[\[1\]](#_ftnref1) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 39: Olive-backed Sunbird”, 150.
+[^34]: Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 39: Olive-backed Sunbird”, 150.
 
-[\[2\]](#_ftnref2) Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 50: Pink-necked Green Pigeon”, 66.
+[^35]: Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 50: Pink-necked Green Pigeon”, 66.
 
-[\[3\]](#_ftnref3) Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 66.
+[^36]: Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 66.
 
-[\[4\]](#_ftnref4) See, for instance, Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 49: Jambu Fruit Dove”, 65; “No 51: Little Green Pigeon”, 68; and “No 55: Green-spectacled Green Pigeon”, 70–71.&nbsp;
+[^37]: See, for instance, Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 49: Jambu Fruit Dove”, 65; “No 51: Little Green Pigeon”, 68; and “No 55: Green-spectacled Green Pigeon”, 70–71.&nbsp;
 
-[\[5\]](#_ftnref5) See, for instance, Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 64: Pied Cuckoo”, 72; “No 71b: Scarlet-rumped Trogon”, 108–9; and “No 42: Small Minivet”, 136. Note how the branches, especially in the latter two, are relatively detailed and cannot simply be passed off as guiding lines. The branch that the Scarlet-rumped Trogon is perched on even includes two leaves.
+[^38]: See, for instance, Dorai and Low, [_Diard and Duvaucel_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), “No 64: Pied Cuckoo”, 72; “No 71b: Scarlet-rumped Trogon”, 108–9; and “No 42: Small Minivet”, 136. Note how the branches, especially in the latter two, are relatively detailed and cannot simply be passed off as guiding lines. The branch that the Scarlet-rumped Trogon is perched on even includes two leaves.
 
-[\[6\]](#_ftnref6) Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” “No 23: Malay Brown Barbet”, 110. As mentioned earlier, the iris of the bird is incomplete.
+[^39]: Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” “No 23: Malay Brown Barbet”, 110. As mentioned earlier, the iris of the bird is incomplete.
 	
-[\[1\]](#_ftnref1) Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 54.
+[^40]: Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695),” 54.
+
+[^41]: Rookmaaker, “[Diard and Duvaucel Collection of Drawings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695).,” 54.
