@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/
-      button: "The Victor Book for Boys: Operation Jaywick"
+      url: /vol-19/issue-2/jul-sep-2023/history-pasir-ris/
+      button: Bridging Past and Present in Pasir Ris
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 2/Operation Jaywick/operation_jaywick_hero_img.jpg
+      background: /images/Vol 19 Issue 2/Pasir Ris/pasir_ris_hero_image new.jpg
   - infopic:
       title: "Konfrontasi: Singapore's Experience of an Undeclared War"
       subtitle: WAR
