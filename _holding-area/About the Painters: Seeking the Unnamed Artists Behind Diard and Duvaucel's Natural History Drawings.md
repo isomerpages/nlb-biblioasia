@@ -91,9 +91,11 @@ What is precisely so noteworthy about the drawings of the Olive-backed Sunbird a
 Notice how the Olive-backed Sunbird is depicted, such that we are looking up at the bird amongst the branches, up in a tree. The answer perhaps lies in this salient visual composition, which is unique to this drawing in the collection.<br>
 
 More so than the artist’s identity, their artistic choice in this drawing brings us into the moment with them, experiencing the aesthetic emotion they felt in this human-nature encounter. These very moments, which my poem “About the Painters” lingers on, are part of the legacy left behind by these unnamed artists, which we should draw inspiration from and attend to in our daily lives.<br><br>
+
+<div style="background-color: white;">
+<b>Chrystal Ho</b> is a writer from Singapore. She works primarily with poetry and nonfiction, with a keen interest in myth and ecological narratives. A former Creative Resident with the National Library (2022/23), she is currently pursuing a Masters in English (Creative Writing) at the Nanyang Technological University of Singapore.</div>
   
 #### Notes
-* * *
 
 [^1]: Clément Oury, “Diard, Duvaucel and the Muséum Nationelle d’Histoire Naturelle,” in [_Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818–1820_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695), ed. Francis Dorai and Martyn E.Y. Low (Singapore: Embassy of France and National Library Board in partnership with Epigram Books, 2021), 26. (From National Library, Singapore, call no. RSING 508.0222 DIA)
 
