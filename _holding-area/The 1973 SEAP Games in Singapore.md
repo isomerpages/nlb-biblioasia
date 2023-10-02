@@ -53,3 +53,29 @@ The theme song was performed by the 2,000-strong Combined Schools Choir as Singa
 
 In a solemn tone, swimmer Pat Chan took the SEAP oath on behalf of all participating athletes, pledging their commitment to “take part in the Games in fair competition, respecting the regulations which govern them, and with the desire to participate in the true spirit of sportsmanship for the honour of our country and the glory of sport”.[^16]
 
+#### **Gunning for Glory**
+The games featured a total of 16 sporting events: track and field, badminton, basketball, boxing, cycling, football, hockey, judo, sepak takraw, tennis, shooting, swimming, table tennis, volleyball, weightlifting and sailing. These events took place at the National Stadium and also at various other venues, including Chung Cheng High School, Chung Hwa Girls' School, Farrer Park Athletic Centre, Sembawang Circuit, Gay World Stadium, Jalan Besar Stadium, Katong Grange Hotel, National Junior College, Rifle Range at Mount Vernon, People's Theatre, Queenstown Reserve Unit Base, Singapore Badminton Stadium and Toa Payoh Swimming Complex.
+
+There was, of course, tremendous pressure on the local athletes. “Singapore expects you to win as many medals as possible,” said Barker at a meeting with the athletes on 27 August 1973. “Never before have we held the SEAP Games in Singapore. We have built a National Stadium, a games village, a new swimming pool and facilities at other venues… The stage is set for the Games and I hope you are ready to do your part.” [^17]
+
+Sprinter Glory Barnabas recalled the demanding training regime of the Singapore track and field team. “We \[were\] training really very hard, trying to do well for Singapore because this \[was\] the first time Singapore \[was\] organising such a big event and \[it was\] on home ground,” said the former schoolteacher.[^18]
+
+  
+
+There was a sense of camaraderie though, she said. “\[W\]e stayed there \[at the Toa Payoh Games Village\] as a team, we had breakfast together, we had lunch together, and we trained together and had dinner together and we talked shop… I think all these kind of prepared the stage for the games.”
+
+  
+
+In the end, Singapore ended up with an impressive haul of 45 gold medals, 50 silvers and 45 bronzes. A significant portion of the gold medals came from the swimmers, who amassed 23 golds, 16 silvers and nine bronzes. Along the way, they shattered 19 new SEAP Games records and one Asian Games record.&nbsp;
+
+  
+
+Apart from Chan, fellow swimmer Elaine Sng also contributed to the medal haul. She obtained five golds, and set three new SEAP Games records and a new Asian Games record in the 400 m freestyle.
+
+  
+
+Singapore’s first gold medal, however, came courtesy of Heather Merican who triumphed in the women's 100 m hurdles and broke the SEAP Games record at the same time. Another standout performer was Barnabas, who claimed victory in the 200 m sprint. Noor Azhar Abdul Hamid managed to clear an exceptional 2.12 m in the high jump, also setting a new Asian Games, SEAP Games and national records. (In fact, his local record would be unbroken for 22 years.) The water polo team also contributed to Singapore's medal tally by clinching the gold medal, while the sailors took home three gold medals and the judokas captured four gold medals.
+
+  
+
+Among the notable winners was table tennis player Chia Choon Boon who juggled both his training and his work as a _Nanyang Siang Pau_ reporter. After training sessions ended, while
