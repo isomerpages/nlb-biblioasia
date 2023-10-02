@@ -70,6 +70,9 @@ Sprinter Glory Barnabas recalled the demanding training regime of the Singapore 
 
 There was a sense of camaraderie though, she said. “\[W\]e stayed there \[at the Toa Payoh Games Village\] as a team, we had breakfast together, we had lunch together, and we trained together and had dinner together and we talked shop… I think all these kind of prepared the stage for the games.”
 
+![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image4.png)
+<div style="background-color: white;">From left: Glory Barnabas, Eng Chiew Guay, Gan Bee Wah and Sheila Fernando won the 4 × 100 m, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 In the end, Singapore ended up with an impressive haul of 45 gold medals, 50 silvers and 45 bronzes. A significant portion of the gold medals came from the swimmers, who amassed 23 golds, 16 silvers and nine bronzes. Along the way, they shattered 19 new SEAP Games records and one Asian Games record.[^19]
 
 Apart from Chan, fellow swimmer Elaine Sng also contributed to the medal haul. She obtained five golds, and set three new SEAP Games records and a new Asian Games record in the 400-metre freestyle.[^20]
