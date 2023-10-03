@@ -771,8 +771,10 @@ sections:
       title: The Frying Pan Piano
       subtitle: "Video: BiblioAsia Reels_Arts"
       id: infopic
-      description: "A Reel-ly Good Story: History in Five Minutes"
+      description: How did a concert grand piano of the Victoria Memorial Hall end up
+        as a public piano in the National Library
       button: Watch the Video
-      url: /videos/reels/arts/
+      url: https://www.youtube.com/embed/osLu3J8sGTg
       alt: Image alt text
+      image: "/images/Videos: BiblioAsia Reels/frying pan piano.jpg"
 ---
