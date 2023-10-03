@@ -8,7 +8,7 @@ image: /images/Vol 19 Issue 4/4 SEAP Games/image1.png
 ####    The 7th SEAP Games marked the first time that Singapore hosted an international sporting event since gaining independence in 1965.
 By Lim Tin Seng
 
-![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image1rev.png)
+![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image1rev2.png)
 <div style="background-color: white;">Singapore's "Golden Girl", swimmer Patricia Chan, being congratulated after a prize presentation ceremony at Toa Payoh Swimming Complex, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 It was September 1973 and the stakes were high for Singapore, and for Singapore’s “Golden Girl” Patricia Chan. It was the 7th Southeast Asian Peninsular (SEAP) Games, the precursor to today’s Southeast Asian Games, and the event was being held in Singapore for the first time.
@@ -37,7 +37,7 @@ The housing estate was chosen as the Games Village because the flats were “ide
 
 Each flat – with three bedrooms and a hall – was shared by six athletes and furnished with the “amenities of a luxurious hotel room”.[^8] The Games Village received a thumbs-up from athletes. “The organisers have done a wonderful job in providing first class accommodation,” said Singapore veteran hurdler Osman Merican. “What surprised me was the gang of women workers marching into our rooms in the mornings and tidying our beds and mopping up the caterers. This is something I have not experienced in other international games”.[^9]
 
-![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image2rev.png)
+![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image2rev2.png)
 <div style="background-color: white;">Heather Merican with her gold medal for the women’s 100 m hurdles at the National Stadium, 1973. She beat her competitors in a record of 14.8 s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The SEAP Games Village was declared open by Deputy Prime Minister Goh Keng Swee on 30 August 1973. To mark the occasion, Goh planted a hop tree in the village centre while the heads of the contingents from the other participating countries also planted their own trees. Goh noted: “\[A\]s you can see for yourself, and as the tree-planting ceremony is intended to symbolise, this satellite town is not really a concrete jungle.”[^10] (After the games, the flats were sold through a balloting exercise at $19,000 each, with an additional $1,700 for furnishings.)
