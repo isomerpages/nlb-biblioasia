@@ -769,10 +769,9 @@ sections:
       alt: Francis P. Ng
   - infopic:
       title: The Frying Pan Piano
-      subtitle: "Video: BiblioAsia Reels_Arts"
+      subtitle: "Video: BiblioAsia Reels"
       id: infopic
-      description: How did a concert grand piano of the Victoria Memorial Hall end up
-        as a public piano in the National Library
+      description: "A Reel-ly Good Story: History in Five Minutes"
       button: Watch the Video
       url: https://www.youtube.com/embed/osLu3J8sGTg
       alt: Image alt text
