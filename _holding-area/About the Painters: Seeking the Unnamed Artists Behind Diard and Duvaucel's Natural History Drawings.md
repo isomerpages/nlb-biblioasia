@@ -6,7 +6,7 @@ description: ""
 ---
 #### Natural history drawings might seem clinical and cold, but an unlikely medium pulls back the curtains to find the humanity behind them.
 By Chrystal Ho
-<div style="background-colour:#BCFA7E; padding:25px; margin: 85px;font-size:100%; background: #fff6ba">
+<div style="background-colour:#BCFA7E; padding:25px; margin: 55px;font-size:100%; background: #fff6ba">
 <b>About the Painters</b><br>
 It is said that they didn’t have names, <br>
 that those names were lost to time. <br>
