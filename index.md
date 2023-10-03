@@ -769,7 +769,7 @@ sections:
       alt: Francis P. Ng
   - infopic:
       title: The Frying Pan Piano
-      subtitle: "Video: BibllioAsia Reels_Arts"
+      subtitle: "Video: BiblioAsia Reels_Arts"
       id: infopic
       description: "A Reel-ly Good Story: History in Five Minutes"
       button: Watch the Video
