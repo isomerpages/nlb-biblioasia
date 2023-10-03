@@ -141,6 +141,10 @@ Today, the Chappell has been given a new lease of life as a public piano. Anyone
 
 For the repair process by Zhivko Girginov, click [here](https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/chappell-piano-repair-zhivko-girginov/).
 
+To watch the videos, click below
+* [The Frying Pan Piano](https://www.youtube.com/embed/osLu3J8sGTg)
+* [Professor Yu Chun Yee plays Chopin's Nocturne](https://www.youtube.com/embed/eM1aWlQUvvo)
+
 
 <div style="background-color: white;">
 <br>
