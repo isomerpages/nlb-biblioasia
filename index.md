@@ -36,7 +36,8 @@ sections:
       button: Watch the Video
       url: /videos/reels/
       alt: The Frying Pan Piano
-      image: "/images/Videos: BiblioAsia Reels/frying pan piano.jpg"
+      image: "/images/Videos: BiblioAsia Reels/biblioasia reels - website
+        standfirst.jpg"
   - infopic:
       title: "Konfrontasi: Singapore's Experience of an Undeclared War"
       subtitle: WAR
