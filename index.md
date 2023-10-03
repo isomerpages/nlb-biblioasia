@@ -31,7 +31,7 @@ sections:
       subtitle: "Video: BiblioAsia Reels"
       id: infopic
       description: A world-renowned pianist described this concert grand of the
-        Victoria Memorial Hall as a 'cooking pot and a frying pan". How did it
+        Victoria Memorial Hall as a "cooking pot and a frying pan". How did it
         have such a reputation?
       button: Watch the Video
       url: /videos/reels/
