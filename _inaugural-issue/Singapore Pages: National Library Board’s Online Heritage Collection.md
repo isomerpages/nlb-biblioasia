@@ -44,7 +44,7 @@ One such story is *The Life and Times of Sir Thomas Stamford Raffles*, Singapore
 4\. _[Singapore Local Laws and Institutions, 1823](https://eresources.nlb.gov.sg/printheritage/detail/172092b4-46bf-4ede-bbf2-ff311f4f5b3a.aspx)_ (London: Printed by Cox and Baylis, 1824). (From BookSG; call no. RRARE 348.595702 SIN; microfilm NL7979, NL21295)
 
 <img src="/images/inaugural-issue/HeritageCollection/presentation4.jpg" style="width:100%;">
- <div style="background-color: white;"></div>
+ <div style="background-color: white;">Pictures from First Impressions Matter...<br> (Centre) Ladies’ Lawn Tennis Club<br> (RIght) The Esplanade</div>
  
 Another story that tapped on the wealth of *Singapore Pages’ Digitised Collection* is *First Impressions Matter*..., an article that visits some of the popular notions about early Singapore. Using classic texts like the works of Munshi Abdullah and Makepeace, the article has several imagery of landscape in colonial Singapore. Altogether, the article made references to 15 digitised titles, including:
 
@@ -58,6 +58,8 @@ Another story that tapped on the wealth of *Singapore Pages’ Digitised Collect
 
 5\. Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds., _[One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements From Its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132)_ (London: J. Murray, 1921). (Call no. RCLOS 959.51 MAK)
 
+<img src="/images/inaugural-issue/HeritageCollection/old%20transport1.jpg" style="width:100%;">
+ <div style="background-color: white;">First Impressions Matter...: Old Transport in Carts and Wheels</div>
 #### **NORA (NLB Online Repository of Artistic Works)**
 More recently, to the delight of creative writing enthusiasts, NLB launched *NORA* on 27 January 2005. *NORA* is a compendium of works by renowned and aspiring writers who contribute to a repository of drama, fiction, poetry and other writings. Comprising mostly unpublished as well as out-of-print works, the who’s who of *NORA* include Madeline Lee, Eleanor Wong, Alvin Pang (these three are the pioneers of *NORA*), Edwin Thumboo, Ovidia Yu, Haresh Sharma, Goh Poh Seng and the late Kuo Pao Kun.
 
