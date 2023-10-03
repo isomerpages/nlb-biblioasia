@@ -17,6 +17,25 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/Pasir Ris/pasir_ris_hero_image new.jpg
   - infopic:
+      title: Professor Yu Chun Yee Plays on NLB's Heritage Piano
+      subtitle: "Video: BiblioAsiaReels_Arts"
+      id: infopic
+      description: Professor Yu Chun Yee previously taught at the Royal College of
+        Music in London.
+      button: Watch the Video
+      url: https://www.youtube.com/embed/eM1aWlQUvvo
+      image: "/images/Videos: BiblioAsia Reels/prof chun yee.jpg"
+      alt: Image alt text
+  - infopic:
+      title: The Frying Pan Piano
+      subtitle: "Video: BiblioAsia Reels"
+      id: infopic
+      description: "A Reel-ly Good Story: History in Five Minutes"
+      button: Watch the Video
+      url: https://www.youtube.com/embed/osLu3J8sGTg
+      alt: Image alt text
+      image: "/images/Videos: BiblioAsia Reels/frying pan piano.jpg"
+  - infopic:
       title: "Konfrontasi: Singapore's Experience of an Undeclared War"
       subtitle: WAR
       id: infopic
@@ -767,23 +786,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: The Frying Pan Piano
-      subtitle: "Video: BiblioAsia Reels"
-      id: infopic
-      description: "A Reel-ly Good Story: History in Five Minutes"
-      button: Watch the Video
-      url: https://www.youtube.com/embed/osLu3J8sGTg
-      alt: Image alt text
-      image: "/images/Videos: BiblioAsia Reels/frying pan piano.jpg"
-  - infopic:
-      title: Professor Yu Chun Yee Plays on NLB's Heritage Piano
-      subtitle: "Video: BiblioAsiaReels_Arts"
-      id: infopic
-      description: Professor Yu Chun Yee previously taught at the Royal College of
-        Music in London.
-      button: Watch the Video
-      url: https://www.youtube.com/embed/eM1aWlQUvvo
-      image: "/images/Videos: BiblioAsia Reels/prof chun yee.jpg"
-      alt: Image alt text
 ---
