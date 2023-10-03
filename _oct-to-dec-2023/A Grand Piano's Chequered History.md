@@ -96,6 +96,8 @@ concert in November 1953, at least, relied on the old Steinway (which appeared t
 American Julius Katchen, one of the world’s most celebrated pianists, gave a recital at the Memorial Hall on 16 January 1955, which was partially broadcast live by Radio Malaya.[^27] He was here as a judge for the finals of the Singapore Musical Society’s pianoforte competition, whose open section was won by 18-year-old Yu Chun Yee.[^28] (Chun Yee later became a professor of piano at the Royal College of Music.) Thankfully, Katchen did not perform on the “much derided” Chappell grand but on the older Steinway that the Chappell was 
 supposed to replace.
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/eM1aWlQUvvo" frameborder="0" allowfullscreen=""></iframe></div>
+
 “The \[Chappell\] piano now reposes under a dustsheet, a silent monument to the proverb ‘Penny wise, pound foolish’,” a reader wrote to the *Straits Times*. “What an everlasting pity we could not have heard Katchen on a new Steinway, at whatever the cost.”[^29] Incidentally, Katchen returned to Singapore in July 1957 and performed at the Anglo-Chinese School’s Lee Kuo Chuan Auditorium, a concert I was fortunate enough to have attended.[^30] That day, Katchen played on the school’s Steinway concert grand, which had been acquired in 1951 and inaugurated by the Shanghai pianist Feng Jia Bei-Tseng.[^31] The fact that a mere school hall had a Steinway while the City Council went with a cheaper Chappell spoke volumes.
 
 #### **A Cross Between a Cooking Pot and a Frying Pan**
@@ -140,10 +142,6 @@ Zhivko Girginov, who holds a Bachelor’s Degree in Musical Pedagogy and Piano P
 Today, the Chappell has been given a new lease of life as a public piano. Anyone may sidle up and play on it, whether the piece is “Chopsticks” or Beethoven’s “Appassionata” sonata. While it may look a little worn out, it has been lovingly repaired and retuned and it is now a perfectly serviceable musical instrument. As a public piano, the venerable and much-maligned Chappell may have finally found its true calling.
 
 For the repair process by Zhivko Girginov, click [here](https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/chappell-piano-repair-zhivko-girginov/).
-
-To watch the videos, click below
-* [The Frying Pan Piano](https://biblioasia.nlb.gov.sg/videos/reels/)
-* [Professor Yu Chun Yee plays Chopin's Nocturne](https://biblioasia.nlb.gov.sg/videos/reels/arts/)
 
 
 <div style="background-color: white;">
