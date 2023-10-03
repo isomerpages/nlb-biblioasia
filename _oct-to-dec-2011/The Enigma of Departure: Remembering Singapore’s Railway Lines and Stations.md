@@ -24,6 +24,9 @@ There are three discernible phases of railway history in Singapore: (1) the esta
 
 The first period of Singapore’s railway history refers to the planning and realisation of the Singapore-Kranji Railway by the then colonial government. On 16 April 1900, then Acting Governor Alexander Swettenham “cut the first sod” at the site of the Tank Road station to commence works for the line.[^2] A year before, the Legislative Council had approved Cecil Clementi Smith’s plan to build a railway through the island. Although the station at Tank Road became the “Singapore terminus”, there were earlier plans to route the line on the other side of Government Hill (Fort Canning) and to commence service at the end of Orchard Road near Dhoby Ghaut, but it was eventually altered. It was probably the high cost of the real estate there that led to the change in the plans.
 
+<img src="/images/Vol%207%20issue%203/RailwayLines/9%20-%20Causeway%20circa%201950s%20with%20rail%20line%20at%20right%20next%20to%20water%20pipelines.jpg" style="width:80%;">
+<div style="background-color: white;">1950s: Causeway between Singapore and Malaysia. The railway track can be seen at the right. <i>Photo from the author’s collection.</i></div>
+
 The line was completed by 1 January 1903 and train services connected Singapore Station (Tank Road Station) to Bukit Timah Station. By 10 April the same year, the service was extended to Woodlands Station. A typical journey from Singapore to Woodlands stations took approximately 80 minutes, and service was available from 7 am to 7:40 pm daily.[^3] Steam ferry service was available from Woodlands Station to Johor and vice versa. From old postcards, the Tank Road Station had a T-shaped plan and was constructed in timber, with double-pitched roofs for each section; at the roof intersection, a clock tower was raised to the heights of neighbouring shophouses. The other stations were of standard design, comprising three short double-roof pitched and rectilinear timber sections spaced apart and aligned perpendicular to the line, all three joined in between by two other double-pitched roof shelters parallel to the line, the space underneath were the waiting areas and for thoroughfare.[^4]
 
 <img style="width:80%;" src="/images/Vol%207%20issue%203/RailwayLines/2%20-%20tank%20road%20station%20lkc.jpg">
@@ -33,7 +36,6 @@ From the Singapore terminus, the train went through a cutting between Tank Road 
 
 <img style="width:80%;" src="/images/Vol%207%20issue%203/RailwayLines/Capture1.jpg">
  <div style="background-color: white;">The overhead railway crossing at Orchard Road. <i>Postcard from the collection of Lim Kheng Chye.</i></div>
-
 
 Part of the early railway legacy involved the former house of Tan Yeok Nee (presently the Asian campus for the University of Chicago Booth School of Business) at the junction of the Penang and Clemenceau roads. Tan, a very successful gambier and pepper merchant, built one of the four (and the only one existing) overseas Chinese courtyard houses there from 1885, moving into the house upon completion.[^6] However, as the railway line was designed to pass behind his stately home, the land was acquired and Tan moved back to China, dying there in 1902. The house was subsequently occupied by the Station Master of the Tank Road Station, and then by a bishop, before the Salvation Army used it as its headquarters from 1939 onwards.
 
