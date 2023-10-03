@@ -6,6 +6,9 @@ description: Hailed as the “people’s library for the knowledge age”, the n
   challenges of the 21st century.
 ---
 #### Hailed as the “people’s library for the knowledge age”, the new National Library is designed as a unique and modern library to meet the challenges of the 21st century.
+
+<img src="/images/inaugural-issue/KnowledgeHub/knowledge%20hub1.jpg" style="width:50%;">
+ <div style="background-color: white;"></div>
  
 Hailed as the “people’s library for the knowledge age,” the new National Library is designed as a unique and modern library to meet the challenges of the 21st century. Standing 16 Levels above ground at Victoria Street, the focus of the Library will be on providing access to a comprehensive range of reference and research collection, services and facilities to promote lifelong learning for all communities and enable knowledge acquisition to create lasting social and economic impact for Singapore. It is worth noting that the Library is situated in the heart of the Arts, Culture, Learning and Entertainment belt thus making it the one-stop point for information and research needs amongst researchers, professionals, scholars and students.
 
@@ -68,4 +71,3 @@ Come visit us. You will be enthralled by the quality of information service and 
 <div>
 <center><b>Ambika Raghavan</b><br>Senior Reference Librarian<br> Lee Kong Chian Reference Library</center>
 </div>
-
