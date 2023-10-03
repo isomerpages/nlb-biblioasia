@@ -24,7 +24,7 @@ sections:
         London, plays on the refurbished Chappell grand at the National Library.
       button: Watch the Video
       url: /videos/reels/arts/
-      image: "/images/Videos: BiblioAsia Reels/prof chun yee.jpg"
+      image: "/images/Videos: BiblioAsia Reels/prof yu chun yee.jpg"
       alt: Professor Yu Chun Yee
   - infopic:
       title: The Frying Pan Piano
