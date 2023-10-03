@@ -767,4 +767,12 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: The Frying Pan Piano
+      subtitle: "Video: BibllioAsia Reels_Arts"
+      id: infopic
+      description: "A Reel-ly Good Story: History in Five Minutes"
+      button: Watch the Video
+      url: /videos/reels/arts/
+      alt: Image alt text
 ---
