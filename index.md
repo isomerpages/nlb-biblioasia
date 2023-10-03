@@ -18,7 +18,7 @@ sections:
       background: /images/Vol 19 Issue 2/Pasir Ris/pasir_ris_hero_image new.jpg
   - infopic:
       title: Professor Yu Chun Yee Plays on NLB's Heritage Piano
-      subtitle: "Video: BiblioAsiaReels_Arts"
+      subtitle: "Video: BiblioAsia Reels_Arts"
       id: infopic
       description: Professor Yu Chun Yee previously taught at the Royal College of
         Music in London.
