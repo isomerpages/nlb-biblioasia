@@ -28,7 +28,16 @@ Arising from NLB’s digitisation of the rare imprints, more than 13,000 digital
 <img src="/images/inaugural-issue/HeritageCollection/singapore%20story1.jpg" style="width:80%;">
 <div style="background-color: white;"></div>
 
-*The Singapore Story* is an attempt at sifting out interesting details about Singapore’s history from the digitised pages. Our Singapore and Southeast Asian librarians then reenact the past by combining these details and other nuggets that they have unearthed from the Singapore and Southeast Asian Collections. Applying the adage, “a picture is worth a thousand words”, The Singapore Story write-ups are peppered with images taken from the digitised pages.
+*The Singapore Story* is an attempt at sifting out interesting details about Singapore’s history from the digitised pages. Our Singapore and Southeast Asian librarians then re-enact the past by combining these details and other nuggets that they have unearthed from the Singapore and Southeast Asian Collections. Applying the adage, “a picture is worth a thousand words”, *The Singapore Story* write-ups are peppered with images taken from the digitised pages.
+
+<img src="/images/inaugural-issue/HeritageCollection/life%20times%20raffles1.jpg" style="width:50%;">
+<div style="background-color: white;"></div>
+
+<img src="/images/inaugural-issue/HeritageCollection/raffles1.jpg" style="width:50%;">
+<div style="background-color: white;"></div>
+
+<img src="/images/inaugural-issue/HeritageCollection/handwriting1.jpg" style="width:50%;">
+<div style="background-color: white;"></div>
 
 One such story is *The Life and Times of Sir Thomas Stamford Raffles*, Singapore’s founder. The writing of this article made use of old imprints that form part of *Singapore Pages’ Digitised Collection*, specifically on Raffles. They are:
 
@@ -72,7 +81,3 @@ Come November, or when the new National Library officially opens, *Singapore Pag
 6\. _[Malaya in Monochrome: \[A Souvenir of the British Empire Exhibition\]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4979943)_ (Singapore: Published for the Malayan Govt. by Houghton-Butcher (Eastern), 1924). (Call no. RRARE 959.504 BRI; microfilm NL8024, NL25426)
 
 These will definitely provide the fodder necessary for churning out more interesting stories about old Singapore. *NORA* will also grow and will include contemporary nonEnglish works. Visit us at <a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a>.
-
-
-
-
