@@ -60,7 +60,12 @@ Another story that tapped on the wealth of *Singapore Pages’ Digitised Collect
 
 <img src="/images/inaugural-issue/HeritageCollection/old%20transport1.jpg" style="width:100%;">
  <div style="background-color: white;">First Impressions Matter...: Old Transport in Carts and Wheels</div>
+
 #### **NORA (NLB Online Repository of Artistic Works)**
+
+<img src="/images/inaugural-issue/HeritageCollection/digitised1.jpg" style="width:80%;">
+ <div style="background-color: white;"></div>
+
 More recently, to the delight of creative writing enthusiasts, NLB launched *NORA* on 27 January 2005. *NORA* is a compendium of works by renowned and aspiring writers who contribute to a repository of drama, fiction, poetry and other writings. Comprising mostly unpublished as well as out-of-print works, the who’s who of *NORA* include Madeline Lee, Eleanor Wong, Alvin Pang (these three are the pioneers of *NORA*), Edwin Thumboo, Ovidia Yu, Haresh Sharma, Goh Poh Seng and the late Kuo Pao Kun.
 
 #### **In the Works**
