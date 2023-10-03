@@ -85,3 +85,8 @@ Come November, or when the new National Library officially opens, *Singapore Pag
 6\. _[Malaya in Monochrome: \[A Souvenir of the British Empire Exhibition\]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4979943)_ (Singapore: Published for the Malayan Govt. by Houghton-Butcher (Eastern), 1924). (Call no. RRARE 959.504 BRI; microfilm NL8024, NL25426)
 
 These will definitely provide the fodder necessary for churning out more interesting stories about old Singapore. *NORA* will also grow and will include contemporary nonEnglish works. Visit us at <a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a>.
+
+<div>
+<center><b>Nor-Afidah A. Rahman</b><br>  Senior Reference Librarian<br>  Lee Kong Chian Reference Library</center>
+</div>
+
