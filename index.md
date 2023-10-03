@@ -30,10 +30,12 @@ sections:
       title: The Frying Pan Piano
       subtitle: "Video: BiblioAsia Reels"
       id: infopic
-      description: "A Reel-ly Good Story: History in Five Minutes"
+      description: A world-renowned pianist described this concert grand of the
+        Victoria Memorial Hall as a 'cooking pot and a frying pan". How did it
+        have such a reputation?
       button: Watch the Video
-      url: https://www.youtube.com/embed/osLu3J8sGTg
-      alt: Image alt text
+      url: /videos/reels/
+      alt: The Frying Pan Piano
       image: "/images/Videos: BiblioAsia Reels/frying pan piano.jpg"
   - infopic:
       title: "Konfrontasi: Singapore's Experience of an Undeclared War"
