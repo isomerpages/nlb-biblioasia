@@ -12,9 +12,9 @@ description: Research Associate Yee Yeong Chong examines the issues arising from
  <div style="background-color: white;">Portrait of a Chinese <i>amah</i> with her charge, a European child, in a 1920 portrait. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 	
 
-<center>We are dealing with a continually changing population, and, as everybody knows, away back for centuries past there have been social customs, as regards polygamy, the sale of children, and all the rest of it, inherent in Chinese life which are repugnant to our ideas and are extremely difficult to tackle, with a shifting Chinese population and particularly with a Chinese population so many of whom are living, not in houses, but in boats… We have set our hands to the plough to eradicate or mitigate the evils from those customs, and we are not going to turn back.
+We are dealing with a continually changing population, and, as everybody knows, away back for centuries past there have been social customs, as regards polygamy, the sale of children, and all the rest of it, inherent in Chinese life which are repugnant to our ideas and are extremely difficult to tackle, with a shifting Chinese population and particularly with a Chinese population so many of whom are living, not in houses, but in boats… We have set our hands to the plough to eradicate or mitigate the evils from those customs, and we are not going to turn back.
 
-— William Ormsby-Gore<br> Colonial Secretary, Statement on the Mui Tsai Commission Report, House of Commons, 2 June 1937, London[^1]</center>
+— William Ormsby-Gore<br> Colonial Secretary, Statement on the Mui Tsai Commission Report, House of Commons, 2 June 1937, London[^1]
 
 With the passing of the Mui Tsai Ordinance in 1932 in Malaya, the practice of employing female child servants within Chinese households quickly fell out of favour.[^2] The decline of *mui tsai* (妹仔; a euphemism for “little sister” in Cantonese), however, was not a straightforward affair for the British Colonial Office, who found themselves embroiled in a delicate tussle between anti-slavery and white feminist lobby groups, the Chinese elite, and the Protestant Church in Hong Kong and Malaya.[^3] The moral outrage, as expressed by abolitionists, was that the Colonial Office had turned a blind eye to the Chinese tradition of owning slave girls in its dominion, a custom that was unbefitting of western civilisation.
 
@@ -31,7 +31,7 @@ This article briefly revisits some of these tensions as events surrounding the M
 
 On 18 March 1936, Colonial Secretary J.H. Thomas appointed Sir Wilfrid Woods, Edith Picton-Turbervill and C.A. Willis as members of a Mui Tsai Commission to:
 
-<center>investigate the whole question of <i>mui tsai</i> in Hong Kong and Malaya and of any surviving practices in those territories of transferring women and children for valuable consideration, whether on marriage or adoption, or in any other circumstances, and to report to the Secretary of State on any legislative or other action which they may consider practicable and desirable in relation to these matters.[^6]</center> 
+investigate the whole question of <i>mui tsai</i> in Hong Kong and Malaya and of any surviving practices in those territories of transferring women and children for valuable consideration, whether on marriage or adoption, or in any other circumstances, and to report to the Secretary of State on any legislative or other action which they may consider practicable and desirable in relation to these matters.[^6] 
 
 Thus began the group’s journey to Hong Kong and Malaya in 1936. In their tour of the colonies, local officials and prominent members of the Chinese community including the mercantilist Lee Kong Chian were interviewed. The Commission report, spanning over 200 pages, would be accompanied by 600 pages of interview transcripts and written responses to a questionnaire. A large proportion of the evidence was dedicated to ascertain if the cultural practice of *mui tsai* was an entrenched practice among the Chinese, as well as to determine the structural conditions of abuse, if present. 
 
@@ -39,7 +39,7 @@ Such ethnographic endeavours have long been regarded as techniques of surveillan
 
 In many colonies, colonisers regarded the position of women within the family and religious practices as indicative of degenerative native culture.[^10] Ann Stoler (2002) has demonstrated the management of domestic affairs within colonial households to be an important boundary marker and a symbol/expression of colonial power in Sumatra. Claire Lowrie’s study of bonded servitude in Singapore and Darwin has similarly argued:
 
-<center>The symbolic and practical significance of domestic mastery to colonial power meant that in the colonial scheme of things, a good and moral domestic master constituted a good and moral coloniser. Thus, the discourse of the corrupting Chinese master not only condemned non-white domestic mastery while elevating white domestic mastery, it dismissed the Chinese as capable of colonial mastery. It inferred that while the Chinese had the class power and wealth to employ servants, the way they practiced colonial mastery excluded them from coloniser status.[^11]</center>
+The symbolic and practical significance of domestic mastery to colonial power meant that in the colonial scheme of things, a good and moral domestic master constituted a good and moral coloniser. Thus, the discourse of the corrupting Chinese master not only condemned non-white domestic mastery while elevating white domestic mastery, it dismissed the Chinese as capable of colonial mastery. It inferred that while the Chinese had the class power and wealth to employ servants, the way they practiced colonial mastery excluded them from coloniser status.[^11]
 
 The Chinese were not, of course, a monolithic group, but the construction of “othered Chineseness” was critical in locating the heterogeneous Chinese within hierarchies of race and culture.[^12] These knowledge production techniques involved the coding of the Chinese in ways that rendered them increasingly available for colonisation. Thus, if the *mui tsai* were demonstrated to be longstanding symptoms of a culture sanctifying slavery, the “deficiency” of Chinese culture would warrant swift colonial intervention to protect vulnerable girls.[^13]
 
@@ -61,7 +61,7 @@ Overall, the Minority Report received substantial attention and support because 
 
 In contrast, there was little resistance to the Minority Report in Malaya and it went largely uncontested. In 1938, the Secretary of Chinese Affairs for Singapore reported:
 
-<center>The government of the Straits Settlements recommended to the Secretary of State for acceptance, subject to variance of detail necessitated by local conditions, the principle embodied in the Minority Report that all girls must be safeguarded who for any reason whatsoever are transferred when under the age of twelve from their parents to persons other than relatives. It was decided that this could be best done by an amendment of the Children Ordinance and a committee was drafting the necessary legislation at the end of the year. This will provide for notification of the transfer of girls under the age of fourteen and for inspection and supervision where needed. It was expected that the other Malayan Governments would reach the same decision when they had before them the draft of the proposed legislation.[^22]</center>
+The government of the Straits Settlements recommended to the Secretary of State for acceptance, subject to variance of detail necessitated by local conditions, the principle embodied in the Minority Report that all girls must be safeguarded who for any reason whatsoever are transferred when under the age of twelve from their parents to persons other than relatives. It was decided that this could be best done by an amendment of the Children Ordinance and a committee was drafting the necessary legislation at the end of the year. This will provide for notification of the transfer of girls under the age of fourteen and for inspection and supervision where needed. It was expected that the other Malayan Governments would reach the same decision when they had before them the draft of the proposed legislation.[^22]
 
 <img style="width:50%;" src="/images/Vol%207%20issue%203/ImperialAnxieties/muitsai.jpg">
  <div style="background-color: white;">For a number of years at the height of the controversy surrounding <i>mui tsai</i> practices, the annual report of the Chinese Protectorate offered statistical updates on the <i>mui tsai</i> population in Malaya as well as information on prosecutions relating to the harbouring of unregistered <i>mui tsai</i> . <i> All rights reserved, Government Printing Office, Singapore, 1937.</i></div>
@@ -85,7 +85,7 @@ While the *mui tsai* has largely faded from public consciousness since the postw
 <br>
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol%207%20issue%203/ImperialAnxieties/yyc.jpg" style="width: 100px; height: 100px;"><center><b>Yee Yeong Chong</b> <br> 
+<img src="/images/Authors/Yong%20Chong.jpg" style="width: 100px; height: 100px;"><center><b>Yee Yeong Chong</b> <br> 
 Research Associate II <br>
 Engagement, National Library</center>
 </div>
