@@ -8,7 +8,7 @@ image: /images/Vol 19 Issue 4/4 SEAP Games/image1.png
 ####    The 7th SEAP Games marked the first time that Singapore hosted an international sporting event since gaining independence in 1965.
 By Lim Tin Seng
 
-![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image1.png)
+![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image1rev.png)
 <div style="background-color: white;">Singapore's "Golden Girl", swimmer Patricia Chan, being congratulated after a prize presentation ceremony at Toa Payoh Swimming Complex, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 It was September 1973 and the stakes were high for Singapore, and for Singapore’s “Golden Girl” Patricia Chan. It was the 7th Southeast Asian Peninsular (SEAP) Games, the precursor to today’s Southeast Asian Games, and the event was being held in Singapore for the first time.
@@ -24,7 +24,7 @@ The nation also acquitted itself well to the watching world. The newly built Nat
 #### **A New Stadium for the Games**
 Interestingly, Singapore had originally been invited by the SEAP Games Federation Council to host an earlier edition of the games. However, they were turned down as Singapore felt that it did not have the facilities, particularly a national stadium, to embark on such a venture. “Until then, we are not ready for anything,” said President of the Singapore Olympic and Sports Council Othman Wok when he announced in 1967 that Singapore would not be able to host the 5th SEAP Games.[^2]
 
-Getting a proper stadium was thus the first job at hand. Located on the grounds of the former Kallang Airport and Kallang Park, the stadium took six years to build, from December 1966 to June 1972. It boasted a distinct brutalist design, adorned with a stunning array of monumental columns and heroic diagonal beams, complemented by expansive rake-seating terraces. The megastructure also featured four imposing floodlights and a daring 20-metre-high cantilevered roof that gracefully extended over the grandstand.[^3]
+Getting a proper stadium was thus the first job at hand. Located on the grounds of the former Kallang Airport and Kallang Park, the stadium took six years to build, from December 1966 to June 1972. It boasted a distinct Brutalist design, adorned with a stunning array of monumental columns and heroic diagonal beams, complemented by expansive rake-seating terraces. The megastructure also featured four imposing floodlights and a daring 20-metre-high cantilevered roof that gracefully extended over the grandstand.[^3]
 
 The National Stadium was officially declared opened by Prime Minister Lee Kuan Yew on 21 July 1973, just two months before the SEAP games. At the opening, Lee noted that the $50-million stadium would not be profitable. “In fact, we shall be lucky to get enough receipts to pay for the annual administrative and maintenance costs,” he said. “However, as a social investment, fully and properly used, it can be made a great asset… people will be encouraged to watch, and then to personally take part in sporting activities.”[^4]
 
@@ -37,7 +37,7 @@ The housing estate was chosen as the Games Village because the flats were “ide
 
 Each flat – with three bedrooms and a hall – was shared by six athletes and furnished with the “amenities of a luxurious hotel room”.[^8] The Games Village received a thumbs-up from athletes. “The organisers have done a wonderful job in providing first class accommodation,” said Singapore veteran hurdler Osman Merican. “What surprised me was the gang of women workers marching into our rooms in the mornings and tidying our beds and mopping up the caterers. This is something I have not experienced in other international games”.[^9]
 
-![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image2.png)
+![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image2rev.png)
 <div style="background-color: white;">Heather Merican with her gold medal for the women’s 100 m hurdles at the National Stadium, 1973. She beat her competitors in a record of 14.8 s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The SEAP Games Village was declared open by Deputy Prime Minister Goh Keng Swee on 30 August 1973. To mark the occasion, Goh planted a hop tree in the village centre while the heads of the contingents from the other participating countries also planted their own trees. Goh noted: “\[A\]s you can see for yourself, and as the tree-planting ceremony is intended to symbolise, this satellite town is not really a concrete jungle.”[^10] (After the games, the flats were sold through a balloting exercise at $19,000 each, with an additional $1,700 for furnishings.)
