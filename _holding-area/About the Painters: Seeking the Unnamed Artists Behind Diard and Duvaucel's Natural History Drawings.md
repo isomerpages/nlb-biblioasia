@@ -123,7 +123,7 @@ More so than the artist’s identity, their artistic choice in this drawing brin
 
 [^13]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 321. Kwa notes that Raffles and others often took issue with ‘“stiffness” and “flatness” \[...\] in the drawings of the Chinese artists”.
 
-[14]: William Farquhar et al., [_Natural History Drawings: The Complete William Farquhar Collection: Malay Peninsula, 1803–1818_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600) (Singapore: Editions Didier Millet: National Museum of Singapore, 2010), 252. (From National Library, Singapore, call no. RSING 759.959 NAT)
+[^14]: William Farquhar et al., [_Natural History Drawings: The Complete William Farquhar Collection: Malay Peninsula, 1803–1818_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600) (Singapore: Editions Didier Millet: National Museum of Singapore, 2010), 252. (From National Library, Singapore, call no. RSING 759.959 NAT)
 
 [^15]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 322.
 
