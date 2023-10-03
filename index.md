@@ -776,4 +776,14 @@ sections:
       url: https://www.youtube.com/embed/osLu3J8sGTg
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/frying pan piano.jpg"
+  - infopic:
+      title: Professor Yu Chun Yee Plays on NLB's Heritage Piano
+      subtitle: "Video: BiblioAsiaReels_Arts"
+      id: infopic
+      description: "Professor Yu Chun Yee previously taught at the Royal College of
+        Music in London. "
+      button: Watch the Video
+      url: https://www.youtube.com/embed/eM1aWlQUvvo
+      image: "/images/Videos: BiblioAsia Reels/prof chun yee.jpg"
+      alt: Image alt text
 ---
