@@ -115,7 +115,7 @@ With the government announcements last year, the future of the lines and station
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol%207%20issue%203/RailwayLines/LCK%20portrait.jpg" style="width: 100px; height: 100px;">
-<center> <b>Lai Chee Kien</b><br>Assistant Professor<br>Department of Architecture, National University of Singapore</center></div>
+<center> <b>Lai Chee Kien</b><br>Assistant Professor<br>Department of Architecture<br> National University of Singapore</center></div>
 
 
 #### **REFERENCES**
