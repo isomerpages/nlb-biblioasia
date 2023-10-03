@@ -18,14 +18,14 @@ sections:
       background: /images/Vol 19 Issue 2/Pasir Ris/pasir_ris_hero_image new.jpg
   - infopic:
       title: Professor Yu Chun Yee Plays on NLB's Heritage Piano
-      subtitle: "Video: BiblioAsia Reels_Arts"
+      subtitle: BiblioAsia Reels
       id: infopic
-      description: Professor Yu Chun Yee previously taught at the Royal College of
-        Music in London.
+      description: Professor Yu, who used to teach at the Royal College of Music in
+        London, plays on the refurbished Chappell grand at the National Library.
       button: Watch the Video
-      url: https://www.youtube.com/embed/eM1aWlQUvvo
+      url: /videos/reels/arts/
       image: "/images/Videos: BiblioAsia Reels/prof chun yee.jpg"
-      alt: Image alt text
+      alt: Professor Yu Chun Yee
   - infopic:
       title: The Frying Pan Piano
       subtitle: "Video: BiblioAsia Reels"
