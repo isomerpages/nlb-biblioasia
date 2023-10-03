@@ -105,6 +105,8 @@ supposed to replace.
 Things came to a head when the great Chilean pianist Claudio Arrau gave a recital at the Victoria Memorial Hall in November 1956. One would have thought that after the many mishaps with the Chappell, another piano would have been used instead for a pianist of Arrau’s stature. Somewhat inexplicably, Arrau 
 performed on the infamous Chappell.
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/osLu3J8sGTg" frameborder="0" allowfullscreen=""></iframe></div>
+
 After his concert, Arrau did not mince his words. “I consider it my duty to tell you this. It was outrageous – the piano at the Victoria Memorial Hall. I hate calling it a piano. It was more a cross between a cooking pot and a frying pan. The keys kept on jamming... sometimes I wished I had a plier, a crowbar or something to jack them up.” When asked whether his performance was affected, he declared: “Not at all, I considered it a great challenge... to be able to play on anything.” Arrau said he had been impressed with the “brand new piano” in Kuala Lumpur, and was “very, very sad that Singapore could not get a new one too”.[^32]
 
 ![](/images/Vol%2019%20Issue%203/2%20Grand%20Piano/frying-pan-or-piano.jpg)
