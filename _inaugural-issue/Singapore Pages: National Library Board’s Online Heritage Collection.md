@@ -30,8 +30,8 @@ Arising from NLB’s digitisation of the rare imprints, more than 13,000 digital
 
 *The Singapore Story* is an attempt at sifting out interesting details about Singapore’s history from the digitised pages. Our Singapore and Southeast Asian librarians then re-enact the past by combining these details and other nuggets that they have unearthed from the Singapore and Southeast Asian Collections. Applying the adage, “a picture is worth a thousand words”, *The Singapore Story* write-ups are peppered with images taken from the digitised pages.
 
-<img src="/images/inaugural-issue/HeritageCollection/life%20times%20raffles1.jpg" style="width:50%;">
-<div style="background-color: white;"></div>
+<img src="/images/inaugural-issue/HeritageCollection/presentation2.jpg" style="width:80%;">
+<div style="background-color: white;">(Right) Sample of Raffles' Handwriting</div>
 
 <img src="/images/inaugural-issue/HeritageCollection/raffles1.jpg" style="width:50%;">
 <div style="background-color: white;"></div>
