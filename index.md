@@ -17,6 +17,28 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/Pasir Ris/pasir_ris_hero_image new.jpg
   - infopic:
+      title: Professor Yu Chun Yee Plays on NLB's Heritage Piano
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Professor Yu, who used to teach at the Royal College of Music in
+        London, plays on the refurbished Chappell grand at the National Library.
+      button: Watch the Video
+      url: /videos/reels/arts/
+      image: "/images/Videos: BiblioAsia Reels/prof yu chun yee.jpg"
+      alt: Professor Yu Chun Yee
+  - infopic:
+      title: The Frying Pan Piano
+      subtitle: "Video: BiblioAsia Reels"
+      id: infopic
+      description: A world-renowned pianist described this concert grand of the
+        Victoria Memorial Hall as a "cooking pot and a frying pan". How did it
+        have such a reputation?
+      button: Watch the Video
+      url: /videos/reels/
+      alt: The Frying Pan Piano
+      image: "/images/Videos: BiblioAsia Reels/biblioasia reels - website
+        standfirst.jpg"
+  - infopic:
       title: "Konfrontasi: Singapore's Experience of an Undeclared War"
       subtitle: WAR
       id: infopic
