@@ -43,6 +43,9 @@ One such story is *The Life and Times of Sir Thomas Stamford Raffles*, Singapore
 
 4\. _[Singapore Local Laws and Institutions, 1823](https://eresources.nlb.gov.sg/printheritage/detail/172092b4-46bf-4ede-bbf2-ff311f4f5b3a.aspx)_ (London: Printed by Cox and Baylis, 1824). (From BookSG; call no. RRARE 348.595702 SIN; microfilm NL7979, NL21295)
 
+<img src="/images/inaugural-issue/HeritageCollection/presentation4.jpg" style="width:100%;">
+ <div style="background-color: white;"></div>
+ 
 Another story that tapped on the wealth of *Singapore Pages’ Digitised Collection* is *First Impressions Matter*..., an article that visits some of the popular notions about early Singapore. Using classic texts like the works of Munshi Abdullah and Makepeace, the article has several imagery of landscape in colonial Singapore. Altogether, the article made references to 15 digitised titles, including:
 
 1\. Abdullah Abdul Kadir, Munshi, _[The Autobiography of Munshi Abdullah](https://eresources.nlb.gov.sg/printheritage/detail/86a4c1e0-0283-465e-9bfe-a334e5773db5.aspx)_, trans. W. G. Shellabear (Singapore: Methodist Publishing House, 1918). (From BookSG; call no. RRARE 959.503 ABD; microfilm NL5080, NL8761)
