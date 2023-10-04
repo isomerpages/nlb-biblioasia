@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-19/issue-2/jul-sep-2023/history-pasir-ris/
-      button: " Bridging Past and Present in Pasir Ris"
+      button: Bridging Past and Present in Pasir Ris
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
@@ -789,4 +789,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: The 1973 SEAP Games in Singapore
+      subtitle: Sports
+      id: infopic
+      description: The 7th SEAP Games marked the first time that Singapore hosted an
+        international sporting event since gaining independence in 1965.
+      button: Gunning for Glory
+      url: /vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/
+      image: /images/Vol 19 Issue 4/4 SEAP Games/4x100m 1973.jpg
+      alt: Image alt text
 ---
