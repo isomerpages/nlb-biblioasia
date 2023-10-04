@@ -47,8 +47,14 @@ The SEAP Games Village was declared open by Deputy Prime Minister Goh Keng Swee 
 	
 The secretariat for the games was a three-storey building that was also in Toa Payoh. After the games, it became the Toa Payoh Branch Library, which opened on 7 February 1974.[^11]
 
+<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980002736%20img0013.jpg" style="width:80%;">
+ <div style="background-color: white;">The three-storey SEAP Games Secretariat building at the Games Village in Toa Payoh, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Let the Games Begin**
 The opening ceremony of the 7th SEAP Games on 1 September 1973 was described as the “most colourful” ceremony Singapore had ever witnessed at the time. Shown live on television, the ceremony commenced with the arrival of the president of Singapore, Benjamin Sheares, followed by the singing of the National Anthem and the introduction of the athletes from the seven participating nations – Burma (now Myanmar), Khmer Republic (now Cambodia), Laos, Malaysia, Singapore, Thailand and South Vietnam.[^12]
+
+<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980006946%20img0074_2.jpg" style="width:80%;">
+ <div style="background-color: white;">Contigents from the seven participating countries of the SEAP Games, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In their striking crimson jackets for male athletes and cream for female, the Singapore contingent emerged onto the running track where they were greeted by the frenzied cheers of an enthusiastic crowd of 50,000 spectators.
 
