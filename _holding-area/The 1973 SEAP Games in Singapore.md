@@ -37,6 +37,9 @@ The housing estate was chosen as the Games Village because the flats were “ide
 
 Each flat – with three bedrooms and a hall – was shared by six athletes and furnished with the “amenities of a luxurious hotel room”.[^8] The Games Village received a thumbs-up from athletes. “The organisers have done a wonderful job in providing first class accommodation,” said Singapore veteran hurdler Osman Merican. “What surprised me was the gang of women workers marching into our rooms in the mornings and tidying our beds and mopping up the caterers. This is something I have not experienced in other international games”.[^9]
 
+<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980002733%20img0111.jpg" style="width:80%;">
+ <div style="background-color: white;">Minister for Social Affairs Othman Wok (right) viewing a flat for athletes at the SEAP Games Village in Toa Payoh, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The SEAP Games Village was declared open by Deputy Prime Minister Goh Keng Swee on 30 August 1973. To mark the occasion, Goh planted a hop tree in the village centre while the heads of the contingents from the other participating countries also planted their own trees. Goh noted: “\[A\]s you can see for yourself, and as the tree-planting ceremony is intended to symbolise, this satellite town is not really a concrete jungle.”[^10] (After the games, the flats were sold through a balloting exercise at $19,000 each, with an additional $1,700 for furnishings.)
 
 The secretariat for the games was a three-storey building that was also in Toa Payoh. After the games, it became the Toa Payoh Branch Library, which opened on 7 February 1974.[^11]
