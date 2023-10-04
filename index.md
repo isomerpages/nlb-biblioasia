@@ -70,7 +70,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Interview with Rachel Heng, Author of The Great Reclamation
-      subtitle: Literature
+      subtitle: "Video: BiblioAsia Reels_Arts"
       description: What does it take to write an internationally acclaimed historical
         novel set in Singapore?
       button: "Watch the interview #SingLit"
