@@ -6,7 +6,7 @@ description: ""
 ---
 #### Natural history drawings might seem clinical and cold, but an unlikely medium pulls back the curtains to find the humanity behind them.
 By Chrystal Ho
-<div style="background-colour:#BCFA7E; padding:5px; margin: 85px;font-size:120%; background: #fff6ba"><center>
+<div style="background-colour:#BCFA7E; width: 55%; padding:35px; margin: 15px;font-size:100%; background: #fff6ba">
 <b>About the Painters</b><br>
 It is said that they didn’t have names, <br>
 that those names were lost to time. <br>
@@ -39,24 +39,26 @@ if the flowers were in bloom, or if they ever <br>
 existed at all, so long as his slender beak <br>
 will always have the curve of a polished nail, <br>
 always be pointing curiously at something, <br>
-	somewhere else.</center></div>
+	somewhere else.</div>
 	
 In 1818, two French naturalists, Pierre-Médard Diard and Alfred Duvaucel, travelled to Southeast Asia to study the region’s wildlife.[^1] As part of this process, they collected specimens of species new to them and hired artists locally to produce drawings of these specimens.[^2] These stunning illustrations have been collected today in <i>Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia, 1818-1820</i>.[^3] While these 117 illustrations provide valuable documentation of some of the region’s fauna at that time, all of them were unsigned.[^4] Since the names of these artists are not known to be documented anywhere, their identities remain a perennial mystery.
 
-<img src="/images/Online%20Only%20Articles/About%20the%20Painters/diard_duvaucel%20cover.JPG" style="width:60%;">
+<img style="width:60%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/diard_duvaucel%20cover.JPG">
 <div style="background-color: white;"> <i>Diard &amp; Duvaucel: French Natural History Drawings of Singapore and Southeast Asia 1818–1820. </i>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205457695&quot;"> (Call nos: RSING 508.0222 DIA and SING 508.0222 DIA)</a>, as well as <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx?s=diard"> BookSG).</a></div>
 	
 While the subject matter of these drawings was naturally of interest to my research as part of my eco-poetry project,<i>Where the Flowers Never Stop Blooming</i>, for the National Library Creative Residency, I was more intrigued by the question of who these artists were. Given that these artists had accompanied Diard and Duvaucel on their expeditions, working on the illustrations “when \[the animals\] were either still alive or soon after death”,[^5] how did their personal encounters with wildlife influence their artistic approaches? In this process essay, I delve into the research behind my poem, “About the Painters”, which responds to the question of the painters’ identities by creatively reimagining the human-nature encounters behind the illustrations.&nbsp;<br>
 
+#### **Aesthetic Emotion**
 A key text that undergirds my approach is art critic John Berger’s essay on aesthetics, “The White Bird”. In this essay, Berger surmises that art is “an attempt to transform the instantaneous into the permanent”.[^6] Here, the “instantaneous” refers to spontaneous and unexpected encounters with beauty in nature.[^7] These unpredictable encounters are moments of double affirmation, where “what has been seen is recognised and affirmed, and, at the same time, the seer is affirmed by what he sees”.[^8] “Aesthetic emotion”, which derives from this moment of double affirmation, is what art attempts to make permanent.[^9]<br>
 
 Drawing on Berger’s theory, if we consider natural history drawings to be works of art, then they can also be treated as endeavours to make permanent aesthetic emotion. Even if the drawings were originally commissioned for the purposes of scientific study,[^10] the artists, being personally present on these expeditions,[^11] would have experienced the spontaneous aesthetic emotions arising from encounters with nature.<br>
 
+#### **Marks of the Artists**
 Taking a closer look at the natural history drawings in the William Farquhar Collection at the National Museum of Singapore – likewise&nbsp; drawn by Chinese artists whose identities remain unknown – can provide us with insight into how impersonal natural history drawing can reveal private details. As Kwa Chong Guan discusses in “Drawing Nature in the East Indies: Framing Farquhar’s Natural History Drawings”, “personal stylistic differences”, such as the presence or absence of a border around each drawing, or whether rocks in the landscape were more stylized or naturalistic, might “suggest that \[the drawings\] were the work at least two artists”.[^12]<br>
 
 In addition, certain prominent details, which can be interpreted as the artists’ mistakes or inadequacies,[^13] take on a different significance once we account for the art training they had received. Take, for instance, the drawing of the Dark-handed Gibbon.[^14]  Here, the gibbon’s size is inaccurately depicted – his head is smaller than the ripe mangosteen on the branch from which he hangs.[^15]  Yet this infamous “mistake” is also emblematic of a stylistic clash, where Farquhar’s Chinese artists had to reconcile the way they were trained to depict landscapes through axonometric perspectives with their clients’ demands to employ a linear, one-point perspective. [^16]
 
-<img src="/images/Online%20Only%20Articles/About%20the%20Painters/1995-02890.jpg" style="width:60%;">
+<img style="width:60%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/1995-02890.jpg">
 <div style="background-color: white;">The Dark-handed Gibbon from the William Farquhar Collection. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr. G. K. Goh.</i>&nbsp;</div>
 
  In a similar vein, the depiction of animals, such as the Greater Mousedeer,[^17] in landscapes that represented neither the Malay Peninsula nor their natural habitats,[^18] can be understood in terms of how these artists were trained to depict landscapes,[^19] rather than a lack of attentiveness towards the subjects they were portraying.[^20]<br>
@@ -69,12 +71,13 @@ In stark contrast, the Diard and Duvaucel drawings are noticeably less embellish
 
 While indeed demonstrating the “pressure \[the artists faced in the field\] to record time-critical aspects of the animals, setting aside the drawings for later when they had time to complete them”,[^24] these uncompleted pieces — and recurring patterns in how they are incomplete — provide valuable insight into their artistic processes, and by extension, their moments of encounter with nature.<br>
 
+#### **Missing Details**
 In my poem “About the Painters”, I linger on these uncompleted details, connecting to the artists’ moments of encounter with nature, by creatively reimagining the conditions that might have led to certain artistic decisions. For instance, a specific kind of incompleteness pervades the collection in the form of omitted details, such as a missing iris,[^25] an uncoloured wing,[^26] a blank fin[^27] and missing spots on the wings of the Great Eggfly.[^28] In each case, the omitted detail is clearly indicated by clean watercolor outlines, occasionally with details sketched in pencil. Should we emulate Kwa’s approach, these stylistic consistencies across these omissions could suggest that these pieces were the work of one artist.<br>
 
-<img src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_2_0054_v1.jpg" style="width:60%;">
-<div style="background-color: white;"> Missing iris in the black magpie. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal. </div><br>
+<img style="width:60%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_2_0054_v1.jpg">
+<div style="background-color: white;"> Missing iris in the black magpie. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal. </div>
 
-<img src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_3_reptiles_poissons_0014_v1.jpg" style="width:60%;">
+<img style="width:60%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_3_reptiles_poissons_0014_v1.jpg">
 <div style="background-color: white;">An uncoloured fin in the cigar wrasse. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal.</div>
 
 Reptiles and amphibians such as Kuhl’s Gliding Gecko,[^29] Flat-tailed House Gecko,[^30] Long-nosed Horned Frog,[^31] and Giant River Toad,[^32] are drawn at the top of their respective pages, leaving unnecessary unused space at the bottom of the page. Meanwhile, the other reptiles, like the rest of the drawings, are centered on the page.[^33] Again, we might reasonably wonder if these pieces were the work of one artist, and the rest of the reptiles another.<br>
@@ -83,7 +86,7 @@ At the same time, verifying the number, not to say identities, of these artists 
 
 In one of the most noteworthy moments of artistic intent in the collection, we find some gesture towards an answer: in the drawing of the Olive-backed Sunbird,[^34] a strange gap, with clean edges, cuts through the bird’s midsection. This gap also occurs in the drawing of the Pink-necked Green Pigeon,[^35] suggesting the artist’s intention to add a branch later on.[^36] Branches, in other forms, appear across the collection, whether suggested by the pronounced curvature of birds’ claws,[^37] or the presence of actual branches sketched into other drawings.[^38] In the drawing of the Malay Brown Barbet, we even see the clear outline of a tree.[^39]<br>
 
-<img src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_2_0039_v1.jpg" style="width:60%;">
+<img style="width:60%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_2_0039_v1.jpg">
 <div style="background-color: white;">Olive-backed Sunbird. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://eresources.nlb.gov.sg/printheritage/detail/c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal.</div>
 
 What is precisely so noteworthy about the drawings of the Olive-backed Sunbird and the Pink-necked Green Pigeon goes beyond the existence of landscape features in a collection known to omit such details:[^40] Rather, in these two drawings, an external detail blocks our full view of the bird. Although this detail may better reflect the actual experience of birdwatching, that was not the goal of these illustrations, which were supposed to be as accurate as possible.[^41] Instead, the artist decided to not only add a branch, already a superfluous detail, but in a manner that prevents the bird from being portrayed in full. While we can simply consider this illustration as incomplete, we should also ask why the artist made this creative choice that clashed with the intended goals of the drawing.<br>
@@ -123,7 +126,7 @@ More so than the artist’s identity, their artistic choice in this drawing brin
 
 [^13]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 321. Kwa notes that Raffles and others often took issue with ‘“stiffness” and “flatness” \[...\] in the drawings of the Chinese artists”.
 
-[14]: William Farquhar et al., [_Natural History Drawings: The Complete William Farquhar Collection: Malay Peninsula, 1803–1818_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600) (Singapore: Editions Didier Millet: National Museum of Singapore, 2010), 252. (From National Library, Singapore, call no. RSING 759.959 NAT)
+[^14]: William Farquhar et al., [_Natural History Drawings: The Complete William Farquhar Collection: Malay Peninsula, 1803–1818_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600) (Singapore: Editions Didier Millet: National Museum of Singapore, 2010), 252. (From National Library, Singapore, call no. RSING 759.959 NAT)
 
 [^15]: Kwa, “[Drawing Nature in the East Indies](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13687600),” 322.
 

@@ -9,7 +9,7 @@ description: Visiting Senior Research Fellow at the Institute of Southeast Asian
   different Eastern cultures, along with the Western tradition, gave birth to
   the Singapore and modern science that we know today.
 ---
-#### Visiting Senior Research Fellow at the Institute of Southeast Asian Studies Dr _Arun Bala_ writes that recent studies have questioned the Eurocentric understanding of Singapore society and the science that drives it. These new approaches may be characterised as dialogical in contrast to traditional Eurocentric perspectives, suggesting that a confluence of different Eastern cultures, along with the Western tradition, gave birth to the Singapore and modern science that we know today.
+#### Visiting Senior Research Fellow at the Institute of Southeast Asian Studies Dr&nbsp;_Arun Bala_&nbsp;writes that recent studies have questioned the Eurocentric understanding of Singapore society and the science that drives it. These new approaches may be characterised as dialogical in contrast to traditional Eurocentric perspectives, suggesting that a confluence of different Eastern cultures, along with the Western tradition, gave birth to the Singapore and modern science that we know today.
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/AsianConfluence/biblioasia%20map2.jpg">
  <div style="background-color: white;">Map of the East India Company’s settlement of Singapore (1819). <i>Courtesy of National Archives of Singapore.</i></div>
@@ -88,62 +88,62 @@ Clearly, dialogical histories of Singapore and modern science suggest that we ne
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Arun%20Bala.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Arun%20Bala.jpg" style="width: 100px; height: 100px;">
 <center><b>Dr Arun Bala</b><br>Visiting Senior Research Fellow<br> Institute of Southeast Asian Studies</center></div>
 
 #### **REFERENCES**
+      
+Arun Bala, _[The Dialogue of Civilizations in the Birth of Modern Science](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13673297)_ (Singapore: Institute of Southeast Asian Studies, 2010). (Call no. RSING 509 BAL)
 
- Abu-Lughod, Janet L. (1989). _[Before European hegemony: The world system A.D. 1250–1350](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4865136)_. New York: Oxford University Press. (Call no.: RCLOS 330.94017 ABU)
+Arun Bala, “Eurocentric Roots of the Clash of Civilizations: A Perspective From the History of Science,” in Rajani Kannepalli Kanth, _The Challenge of Eurocentrism: Global Perspectives, Policy and Prospects_ (New York: Palgrave Macmillan, 2009), 9–23.
 
-Bala, Arun (2010). _[The dialogue of civilizations in the birth of modern science](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13673297)_. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 509 BAL)
+George Gheverghese Joseph, _The Crest of the Peacock: Non-European Roots of Mathematics_ (Princeton: Princeton University Press, 2000)
 
-Bala, Arun (2009). Eurocentric Roots of the Clash of Civilizations: A Perspective from the History of Science. In Kanth, Rajani Kannepalli (Ed.), _The challenge of Eurocentrism: Global perspectives, policy, and prospects_ (pp. 9–23). New York: Palgrave Macmillan, 2009.
+George Saliba, _Islamic Science and the Making of the European Renaissance_ (Cambridge: The MIT Press, 2007)
 
-Frost, Mark Ravinder, & YuMei Balasingham-Chow (2009). _[Singapore: A biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)_. Singapore: Didier Millet Pte Ltd. (Call no.: RSING 959.57 FRO)
+Janet L. Abu-Lughod, _[Before European Hegemony: The World System A.D. 1250–1350](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4865136)_ (New York: Oxford University Press, 1989) (Call no. RCLOS 330.94017 ABU)
 
-Hobson, John M. (2004). _[The Eastern origins of Western Civilisation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12382697)_. Cambridge: Cambridge University Press. (Call no.: R 909.091821 HOB)
+John M. Hobson, _[The Eastern Origins of Western Civilisation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12382697)_ (Cambridge: Cambridge University Press, 2004). (Call no. R 909.091821 HOB)
 
-Joseph, George (2000). _The crest of the peacock: Non-European roots of mathematics_. Princeton: Princeton University Press.
+John N. Miksic and Cheryl-Ann Low Mei Gek, eds., _[Early Singapore, 1300s–1819: Evidence in Maps, Text and Artefacts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)_ (Singapore: Singapore History Museum, 2004). (Call no. RSING 959.5703 EAR)
 
-Kanth, Rajani Kannepalli (Ed.) (2009). _The challenge of Eurocentrism: Global perspectives, policy, and prospects_. New York: Palgrave Macmillan.
+Joseph Needham, _[Science and Civilisation in China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=635273)_, vols. 1 and 2 (Cambridge: Cambridge University Press, 1991). (Call no. RCLOS 509.51 NEE)
 
-Kwa, Chong Guan, Heng, Derek, & Tan, Tai Yong (2009). _[Singapore, a 700-year history: From early emporium to world city](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984)_. Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA)
+Kwa Chong Guan, Derek Heng and Tan Tai Yong, _[Singapore, a 700-Year History: From Early Emporium to World City](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984)_ (Singapore: National Archives of Singapore, 2010). (Call no. RSING 959.5703 KWA)
 
-Miksic, John N., & Low, CherylAnn Mei Gek (Eds.) (2004). _[Early Singapore, 1300s–1819: Evidence in maps, text and artefacts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)_. Singapore: Singapore History Museum. (Call no.: RSING 959.5703 EAR)
+Mark Ravinder Frost and Yu-Mei Balasingamchow, _[Singapore: A Biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)_ (Singapore: Didier Millet Pte Ltd, 2009) (Call no. RSING 959.57 FRO)
 
-Needham, Joseph (1954, 1956). _[Science and civilisation in China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=635273)_ (Vol. 1 & Vol. 2). Cambridge: Cambridge University Press. (Call no.: RCLOS 509.51 NEE)
-
-Saliba, George (2007). _Islamic Science and the Making of the European Renaissance_. Cambridge: The MIT Press.
-
+Rajani Kannepalli Kanth, _The Challenge of Eurocentrism: Global Perspectives, Policy and Prospects_ (New York: Palgrave Macmillan, 2009)
+ 
 #### **NOTES**
-   
-[^1]: For a critique of this approach to the writing of Singapore history, which began in colonial times but continued into the postcolonial era, see Kwa, Heng and Tan (2010), pp. 1–8. Their revisionist account traces earlier beginnings from the 14th century founding of Temasek at the mouth of the Singapore River. Similar efforts to locate history by beginning with Temasek can be found in [Frost & Balasingham-Chow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116) (2009) and [Miksic & Low](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523) (2004).
+       
+[^1]: For a critique of this approach to the writing of Singapore history, which began in colonial times but continued into the postcolonial era. See Kwa Chong Guan, Derek Heng and Tan Tai Yong, _[Singapore, a 700-Year History: From Early Emporium to World City](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984)_ (Singapore: National Archives of Singapore, 2010), 1–8. (Call no. RSING 959.5703 KWA). Their revisionist account traces earlier beginnings from the 14th century founding of Temasek at the mouth of the Singapore River. Similar efforts to locate history by beginning with Temasek can be found in Mark Ravinder Frost and Yu-Mei Balasingamchow, _[Singapore: A Biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)_ (Singapore: Didier Millet Pte Ltd, 2009) (Call no. RSING 959.57 FRO) and John N. Miksic and Cheryl-Ann Low Mei Gek, eds., _[Early Singapore, 1300s–1819: Evidence in Maps, Text and Artefacts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)_ (Singapore: Singapore History Museum, 2004). (Call no. RSING 959.5703 EAR)
 
-[^2]: These studies include Wolf (1982), [Abu-Lughod](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4865136) (1989) and [Hobson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12382697) (2004).
+[^2]: These studies include Wolf (1982), Janet L. Abu-Lughod, _[Before European Hegemony: The World System A.D. 1250–1350](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4865136)_ (New York: Oxford University Press, 1989) (Call no. RCLOS 330.94017 ABU) and John M. Hobson, _[The Eastern Origins of Western Civilisation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12382697)_ (Cambridge: Cambridge University Press, 2004). (Call no. R 909.091821 HOB)
 
-[^3]: [Kwa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984) et. al. (2010) pp. 79—81
+[^3]: Kwa, Heng and Tan, _[Singapore, a 700-Year History](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984)_, 79–81.
 
-[^4]: See [Kwa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984) et. al. (2010), Chapter 7 entitled “Raffles and the Establishment of an East India Company Station on Singapore”.
+[^4]: See “Raffles and the Establishment of an East India Company Station on Singapore,” ch. 7, in Kwa, Heng and Tan, _[Singapore, a 700-Year History](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984)_.
 
-[^5]: [Frost & Balasingham-Chow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116) (2009), pp. 16—17.
+[^5]: Frost and Balasingamchow, _[Singapore: A Biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)_, 16–17.
 
-[^6]: [Miksic & Low](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523) (2004), pp. 45—46.
+[^6]: Miksic and Low, _[Early Singapore, 1300s–1819](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)_, 45–46.
 
-[^7]: Especially significant in this regard are the first two overview volumes published in 1954 and 1956. They give the philosophical, historical and sociological background for the phenomenal growth of science in Chinese civilisation from the early Han dynasty to the 16th century. Although Chinese science continued to grow thereafter, it was rapidly overtaken by the more rapid growth of modern science. See [Needham](https://eservice.nlb.gov.sg/item_holding.aspx?bid=635273) (1956, 1954).
+[^7]: Especially significant in this regard are the first two overview volumes published in 1954 and 1956. They give the philosophical, historical and sociological background for the phenomenal growth of science in Chinese civilisation from the early Han dynasty to the 16th century. Although Chinese science continued to grow thereafter, it was rapidly overtaken by the more rapid growth of modern science. See Joseph Needham, _[Science and Civilisation in China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=635273)_, vols. 1 and 2 (Cambridge: Cambridge University Press, 1991). (Call no. RCLOS 509.51 NEE)
 
-[^8]: See Joseph (2000) and Saliba (2007)
+[^8]: See George Gheverghese Joseph, _The Crest of the Peacock: Non-European Roots of Mathematics_ (Princeton: Princeton University Press, 2000) and George Saliba, _Islamic Science and the Making of the European Renaissance_ (Cambridge: The MIT Press, 2007)
 
-[^9]: This dialogical fusion of modern scientific knowledge from many cultural traditions is documented in the field of mathematics by Joseph (2000); in technology by [Hobson](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12382697) (2004); and in mathematical astronomy by [Bala](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13673297) (2010).
+[^9]: This dialogical fusion of modern scientific knowledge from many cultural traditions is documented in the field of mathematics by Joseph, 2000; in technology by Hobson, _[The Eastern Origins of Western Civilisation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12382697)_; and in mathematical astronomy by Arun Bala, _[The Dialogue of Civilizations in the Birth of Modern Science](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13673297)_ (Singapore: Institute of Southeast Asian Studies, 2010). (Call no. RSING 509 BAL)
 
-[^10]: See [Bala](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13673297) (2010) for a more detailed account of how different mathematical astronomical traditions from ancient Greece, the Arab world, China and India came to be combined together by modern European thinkers to give birth to the astronomical revolution that jump-started modern science.
+[^10]: See Bala, _[The Dialogue of Civilizations](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13673297)_ for a more detailed account of how different mathematical astronomical traditions from ancient Greece, the Arab world, China and India came to be combined together by modern European thinkers to give birth to the astronomical revolution that jump-started modern science.
 
-[^11]: For more details see Saliba (2007).
+[^11]: For more details see Saliba, _Islamic Science and the Making of the European Renaissance_.
 
-[^12]: A defense of these claims can be found in [Bala](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13673297) (2010), pp. 68—78.
+[^12]: A defense of these claims can be found in Bala, _[The Dialogue of Civilizations](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13673297)_, 68–78.
 
-[^13]: For more elaborate discussion of these issues see [Bala](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13673297) (2010), pp. 131—144.
+[^13]: For more elaborate discussion of these issues see Bala, _[The Dialogue of Civilizations](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13673297)_, 131–44.
 
-[^14]: A good and influential study of these maritime silk road linkages is [Abu-Lughod](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4865136) (1989).
+[^14]: A good and influential study of these maritime silk road linkages is Abu-Lughod, _[Before European Hegemony](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4865136)_.
 
 [^15]: For more information see the Singapore Ministry of Education site, especially [https://www.moe.gov.sg/education-in-sg/our-programmes/national-education](https://www.moe.gov.sg/education-in-sg/our-programmes/national-education) on National Education and [https://www.moe.gov.sg/education-in-sg/desired-outcomes#:~:text=Be%20innovative%20and%20enterprising.,have%20an%20appreciation%20for%20aesthetics](https://www.moe.gov.sg/education-in-sg/desired-outcomes#:~:text=Be%20innovative%20and%20enterprising.,have%20an%20appreciation%20for%20aesthetics) on Desired Outcomes of Education

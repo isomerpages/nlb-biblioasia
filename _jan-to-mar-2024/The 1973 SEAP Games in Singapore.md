@@ -1,6 +1,6 @@
 ---
 title: The 1973 SEAP Games in Singapore
-permalink: /holding-area/test1seapgames/
+permalink: /vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/
 description: The 7th SEAP Games marked the first time that Singapore hosted an
   international sporting event since gaining independence in 1965.
 image: /images/Vol 19 Issue 4/4 SEAP Games/image1.png
@@ -37,19 +37,31 @@ The housing estate was chosen as the Games Village because the flats were “ide
 
 Each flat – with three bedrooms and a hall – was shared by six athletes and furnished with the “amenities of a luxurious hotel room”.[^8] The Games Village received a thumbs-up from athletes. “The organisers have done a wonderful job in providing first class accommodation,” said Singapore veteran hurdler Osman Merican. “What surprised me was the gang of women workers marching into our rooms in the mornings and tidying our beds and mopping up the caterers. This is something I have not experienced in other international games”.[^9]
 
+<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980002733%20img0111.jpg" style="width:100%;">
+ <div style="background-color: white;">Minister for Social Affairs Othman Wok (right) viewing a flat for athletes at the SEAP Games Village in Toa Payoh, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The SEAP Games Village was declared open by Deputy Prime Minister Goh Keng Swee on 30 August 1973. To mark the occasion, Goh planted a hop tree in the village centre while the heads of the contingents from the other participating countries also planted their own trees. Goh noted: “\[A\]s you can see for yourself, and as the tree-planting ceremony is intended to symbolise, this satellite town is not really a concrete jungle.”[^10] (After the games, the flats were sold through a balloting exercise at $19,000 each, with an additional $1,700 for furnishings.)
 
+<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980002736%20img0014.jpg" style="width:100%;">
+ <div style="background-color: white;">Deputy Prime Minister Goh Keng Swee planting a hop tree to mark the opening of the SEAP Games Village on 30 August 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+	
 The secretariat for the games was a three-storey building that was also in Toa Payoh. After the games, it became the Toa Payoh Branch Library, which opened on 7 February 1974.[^11]
+
+<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980002736%20img0013.jpg" style="width:50%;">
+ <div style="background-color: white;">The three-storey SEAP Games Secretariat building at the Games Village in Toa Payoh, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Let the Games Begin**
 The opening ceremony of the 7th SEAP Games on 1 September 1973 was described as the “most colourful” ceremony Singapore had ever witnessed at the time. Shown live on television, the ceremony commenced with the arrival of the president of Singapore, Benjamin Sheares, followed by the singing of the National Anthem and the introduction of the athletes from the seven participating nations – Burma (now Myanmar), Khmer Republic (now Cambodia), Laos, Malaysia, Singapore, Thailand and South Vietnam.[^12]
 
+<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980006946%20img0074_1.jpg" style="width:100%;">
+ <div style="background-color: white;">Contigents from the seven participating countries of the SEAP Games, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 In their striking crimson jackets for male athletes and cream for female, the Singapore contingent emerged onto the running track where they were greeted by the frenzied cheers of an enthusiastic crowd of 50,000 spectators.
 
-The Singapore contingent was 454 athletes strong, and included swimming sensations Pat Chan and Elaine Sng, track stars Heather Merican and Glory Barnabas, high jumper Noor Azhar Abdul Hamid, and judokas Tan Sin Aun, Wong Kin Jong and Kan Kwok Toh.[^13]
+<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980006946%20img0076_c.jpg" style="width:100%;">
+ <div style="background-color: white;">The Singapore contigent at the opening ceremony of the 7th SEAP Games, 1973.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image3.png)
-<div style="background-color: white;">Glory Barnabas, competing in lane 3 in the 200-metre sprint, won gold for Singapore. <i>Courtesy of Singapore Sports Council.</i></div>
+The Singapore contingent was 454 athletes strong, and included swimming sensations Pat Chan and Elaine Sng, track stars Heather Merican and Glory Barnabas, high jumper Noor Azhar Abdul Hamid, and judokas Tan Sin Aun, Wong Kin Jong and Kan Kwok Toh.[^13]
 
 After Barker’s welcome speech, President Sheares officially declared the games open. The blue-and-white SEAP Games flag was unfurled amid the “ringing sound of a trumpet fanfare”, and accompanied by the release of some 19,000 multihued balloons and a 21-gun salute.
 
@@ -63,6 +75,9 @@ The games featured a total of 16 sporting events: track and field, badminton, ba
 There was, of course, tremendous pressure on the local athletes. “Singapore expects you to win as many medals as possible,” said Barker at a meeting with the athletes on 27 August 1973. “Never before have we held the SEAP Games in Singapore. We have built a National Stadium, a games village, a new swimming pool and facilities at other venues… The stage is set for the Games and I hope you are ready to do your part.”[^17]
 
 Sprinter Glory Barnabas recalled the demanding training regime of the Singapore track and field team. “We \[were\] training really very hard, trying to do well for Singapore because this \[was\] the first time Singapore \[was\] organising such a big event and \[it was\] on home ground,” said the former schoolteacher.[^18]
+
+![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image3.png)
+<div style="background-color: white;">Glory Barnabas, competing in lane 3 in the 200-metre sprint, won gold for Singapore. <i>Courtesy of Singapore Sports Council.</i></div>
 
 There was a sense of camaraderie though, she said. “\[W\]e stayed there \[at the Toa Payoh Games Village\] as a team, we had breakfast together, we had lunch together, and we trained together and had dinner together and we talked shop… I think all these kind of prepared the stage for the games.”
 
@@ -79,6 +94,9 @@ Singapore’s first gold medal, however, came courtesy of Heather Merican who tr
 <div style="background-color: white;">Heather Merican with her gold medal for the women’s 100 m hurdles at the National Stadium, 1973. She beat her competitors in a record of 14.8 s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Among the notable winners was table tennis player Chia Choon Boon, who juggled both his training and his work as a _Nanyang Siang Pau_ reporter. After training sessions ended, while his teammates were resting, he would rush out a journal entry for the newspaper about life in the Games Village every day. “I could call the newspaper to tell them what was happening in the Games Village, but… it would be more interesting for the reader to read about things from my perspective.”[^23] Chia’s moonlighting did not stop him from winning two gold medals for Singapore in table tennis.
+
+![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980006947%20img0060%202.jpg)
+<div style="background-color: white;">Singapore table tennis players Chia Choon Boon and Tan Yong Hong (left, in dark blue), 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **A Glorious Finish**
 After a gruelling week that saw victories, disappointments as well as new records being broken, the games drew to a close on 8 September 1973. “I feel sure that the contestants, both men and women, will continue to be dedicated and even more determined in the future to raise standards even higher,” said Barker in his closing address. “This enthusiasm trend will help SEAP athletes to do well when they compete in other international meets such as the Asian Games.”[^24]
@@ -101,6 +119,27 @@ Over time, the SEAP Games themselves have changed. In 1977, the SEAP Games were 
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/lim_tin_seng2.png">
 	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of Roots: <i>Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
+	
+#### **ADDITIONAL RESOURCES**
+_[7th&nbsp;SEAP&nbsp;Games&nbsp;Programme: Singapore 1st to 8th September 1973](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12521584)_&nbsp;(Singapore : n.p., 1973) (From National Library, Singapore, call no. RCLOS 796 .0959 SEV)
+
+_[7th&nbsp;SEAP&nbsp;Games, Singapore,&nbsp;1973: Bulletin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12830162)_&nbsp;(Singapore: Produced by the 7th SEAP Games Organising Committee in Co-operation with the Singapore Tourist Promotion Board, 1973). (From National Library, Singapore, call no. RCLOS 796 SOU)
+
+_[7th&nbsp;SEAP&nbsp;Games: Information on Events](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5070321)_&nbsp;(Singapore: South East Asia Peninsula Games, 1973). (From National Library, Singapore, call no. RCLOS 796 SOU)
+
+Radio and Television Singapore, “[E.W. Barker At Opening of Seventh South East Asia Peninsula Games (SEAP) Games](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/527ca799-1164-11e3-83d5-0050568939ad),” 1 September 1973, sound recording, 53:08. (From National Archives of Singapore, accession no.&nbsp;1998007702)
+
+Radio and Television Singapore, “[E.W. Barker At Opening of Seventh South East Asia Peninsula Games (SEAP) Games](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/527cb986-1164-11e3-83d5-0050568939ad),” 1 September 1973, sound recording, 1:03:45. (From National Archives of Singapore, accession no.&nbsp;1998007703)
+
+Radio and Television Singapore, “[E.W. Barker At Opening of Seventh South East Asia Peninsula Games (SEAP) Games](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4886aa63-1164-11e3-83d5-0050568939ad),” 1 September 1973, sound recording, 1:06:10. (From National Archives of Singapore, accession no.&nbsp;1998007704)
+
+Radio and Television Singapore,&nbsp;&nbsp;[_7th SEAP Games Singapore 1973 Opening Ceremony_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12548291), video, 1:18:00 (Singapore: RTS, \[1973\]: MediaCorp Studios, \[distributor\], 2005). (From National Library, Singapore, call no. RSING 796.0959 SEV)
+
+Radio and Television Singapore, “[7th SEAP Games Closing Ceremony](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4886aa63-1164-11e3-83d5-0050568939ad),” 8 September 1973, sound recording, 30:19. (From National Archives of Singapore, accession no.&nbsp;1997002644)
+
+Radio and Television Singapore,&nbsp;&nbsp;[_7th SEAP Games Singapore 1973 Closing Ceremony_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12558959), video, 30:28 (Singapore: RTS, \[1973\]: MediaCorp Studios, \[distributor\], 2005). (From National Library, Singapore, call no. RSING 796.0959 SEV)
+
+Singapore Broadcasting Corporation, “[7th SEAP Games Singapore 1973](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48869571-1164-11e3-83d5-0050568939ad),” 30 August 1973, video, 1:17:01. (From National Archives of Singapore, accession no.&nbsp;1997002643)
 	
 #### **NOTES**
 

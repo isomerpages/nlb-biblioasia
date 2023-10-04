@@ -15,10 +15,20 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 2/Pasir Ris/pasir_ris_hero_image new.jpg
+      background: /images/Vol 19 Issue 2/Pasir Ris/pasir_ris_hero_image2.png
+  - infopic:
+      title: The 1973 SEAP Games in Singapore
+      subtitle: Sports
+      id: infopic
+      description: The 7th SEAP Games marked the first time that Singapore hosted an
+        international sporting event since gaining independence in 1965.
+      button: Gunning for Glory
+      url: /vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/
+      image: /images/Vol 19 Issue 4/4 SEAP Games/4x100m 1973.jpg
+      alt: Women's Relay
   - infopic:
       title: Professor Yu Chun Yee Plays on NLB's Heritage Piano
-      subtitle: BiblioAsia Reels
+      subtitle: "Video: BiblioAsia Reels_Arts"
       id: infopic
       description: Professor Yu, who used to teach at the Royal College of Music in
         London, plays on the refurbished Chappell grand at the National Library.
@@ -28,7 +38,7 @@ sections:
       alt: Professor Yu Chun Yee
   - infopic:
       title: The Frying Pan Piano
-      subtitle: "Video: BiblioAsia Reels"
+      subtitle: "Video: BiblioAsia Reels_Arts"
       id: infopic
       description: A world-renowned pianist described this concert grand of the
         Victoria Memorial Hall as a "cooking pot and a frying pan". How did it
@@ -70,7 +80,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Interview with Rachel Heng, Author of The Great Reclamation
-      subtitle: Literature
+      subtitle: "Video: BiblioAsia Reels_Arts"
       description: What does it take to write an internationally acclaimed historical
         novel set in Singapore?
       button: "Watch the interview #SingLit"
