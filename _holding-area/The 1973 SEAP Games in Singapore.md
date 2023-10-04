@@ -47,7 +47,7 @@ The SEAP Games Village was declared open by Deputy Prime Minister Goh Keng Swee 
 	
 The secretariat for the games was a three-storey building that was also in Toa Payoh. After the games, it became the Toa Payoh Branch Library, which opened on 7 February 1974.[^11]
 
-<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980002736%20img0013.jpg" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980002736%20img0013.jpg" style="width:50%;">
  <div style="background-color: white;">The three-storey SEAP Games Secretariat building at the Games Village in Toa Payoh, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Let the Games Begin**
