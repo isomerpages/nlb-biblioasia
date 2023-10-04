@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-2/jul-sep-2023/history-pasir-ris/
-      button: Bridging Past and Present in Pasir Ris
+      url: /vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/
+      button: The Origin Stories of Keramat Kusu
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 2/Pasir Ris/pasir_ris_hero_image new.jpg
+      background: /images/Vol 18 Issue 4/Keramat Kusu/Keramat_Kusu_Hero.png
   - infopic:
       title: Professor Yu Chun Yee Plays on NLB's Heritage Piano
       subtitle: "Video: BiblioAsia Reels_Arts"
