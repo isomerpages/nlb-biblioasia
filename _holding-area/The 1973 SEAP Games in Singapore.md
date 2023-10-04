@@ -58,7 +58,7 @@ The opening ceremony of the 7th SEAP Games on 1 September 1973 was described as 
 
 In their striking crimson jackets for male athletes and cream for female, the Singapore contingent emerged onto the running track where they were greeted by the frenzied cheers of an enthusiastic crowd of 50,000 spectators.
 
-<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image5.png" style="width:100%;">
+<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/contigent.jpg" style="width:100%;">
  <div style="background-color: white;">The Singapore contigent at the opening ceremony of the 7th SEAP Games, 1973.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The Singapore contingent was 454 athletes strong, and included swimming sensations Pat Chan and Elaine Sng, track stars Heather Merican and Glory Barnabas, high jumper Noor Azhar Abdul Hamid, and judokas Tan Sin Aun, Wong Kin Jong and Kan Kwok Toh.[^13]
