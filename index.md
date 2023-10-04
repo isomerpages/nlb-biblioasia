@@ -798,5 +798,5 @@ sections:
       button: Gunning for Glory
       url: /vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/
       image: /images/Vol 19 Issue 4/4 SEAP Games/4x100m 1973.jpg
-      alt: Image alt text
+      alt: Women's Relay
 ---
