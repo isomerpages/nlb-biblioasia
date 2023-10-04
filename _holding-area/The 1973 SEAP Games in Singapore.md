@@ -58,10 +58,10 @@ The opening ceremony of the 7th SEAP Games on 1 September 1973 was described as 
 
 In their striking crimson jackets for male athletes and cream for female, the Singapore contingent emerged onto the running track where they were greeted by the frenzied cheers of an enthusiastic crowd of 50,000 spectators.
 
-The Singapore contingent was 454 athletes strong, and included swimming sensations Pat Chan and Elaine Sng, track stars Heather Merican and Glory Barnabas, high jumper Noor Azhar Abdul Hamid, and judokas Tan Sin Aun, Wong Kin Jong and Kan Kwok Toh.[^13]
+<img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image5.png" style="width:100%;">
+ <div style="background-color: white;">The Singapore contigent at the opening ceremony of the 7th SEAP Games, 1973.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image3.png)
-<div style="background-color: white;">Glory Barnabas, competing in lane 3 in the 200-metre sprint, won gold for Singapore. <i>Courtesy of Singapore Sports Council.</i></div>
+The Singapore contingent was 454 athletes strong, and included swimming sensations Pat Chan and Elaine Sng, track stars Heather Merican and Glory Barnabas, high jumper Noor Azhar Abdul Hamid, and judokas Tan Sin Aun, Wong Kin Jong and Kan Kwok Toh.[^13]
 
 After Barker’s welcome speech, President Sheares officially declared the games open. The blue-and-white SEAP Games flag was unfurled amid the “ringing sound of a trumpet fanfare”, and accompanied by the release of some 19,000 multihued balloons and a 21-gun salute.
 
@@ -75,6 +75,9 @@ The games featured a total of 16 sporting events: track and field, badminton, ba
 There was, of course, tremendous pressure on the local athletes. “Singapore expects you to win as many medals as possible,” said Barker at a meeting with the athletes on 27 August 1973. “Never before have we held the SEAP Games in Singapore. We have built a National Stadium, a games village, a new swimming pool and facilities at other venues… The stage is set for the Games and I hope you are ready to do your part.”[^17]
 
 Sprinter Glory Barnabas recalled the demanding training regime of the Singapore track and field team. “We \[were\] training really very hard, trying to do well for Singapore because this \[was\] the first time Singapore \[was\] organising such a big event and \[it was\] on home ground,” said the former schoolteacher.[^18]
+
+![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image3.png)
+<div style="background-color: white;">Glory Barnabas, competing in lane 3 in the 200-metre sprint, won gold for Singapore. <i>Courtesy of Singapore Sports Council.</i></div>
 
 There was a sense of camaraderie though, she said. “\[W\]e stayed there \[at the Toa Payoh Games Village\] as a team, we had breakfast together, we had lunch together, and we trained together and had dinner together and we talked shop… I think all these kind of prepared the stage for the games.”
 
