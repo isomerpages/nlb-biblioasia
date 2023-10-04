@@ -28,7 +28,7 @@ sections:
       alt: Professor Yu Chun Yee
   - infopic:
       title: The Frying Pan Piano
-      subtitle: "Video: BiblioAsia Reels"
+      subtitle: "Video: BiblioAsia Reels_Arts"
       id: infopic
       description: A world-renowned pianist described this concert grand of the
         Victoria Memorial Hall as a "cooking pot and a frying pan". How did it
