@@ -117,6 +117,27 @@ Over time, the SEAP Games themselves have changed. In 1977, the SEAP Games were 
 <img style="width: 100px; height: 100px;" src="/images/Authors/lim_tin_seng2.png">
 	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of Roots: <i>Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 	
+#### **ADDITIONAL RESOURCES**
+_[7th&nbsp;SEAP&nbsp;Games&nbsp;Programme: Singapore 1st to 8th September 1973](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12521584)_&nbsp;(Singapore : n.p., 1973) (From National Library, Singapore, call no. RCLOS 796 .0959 SEV)
+
+_[7th&nbsp;SEAP&nbsp;Games, Singapore,&nbsp;1973: Bulletin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12830162)_&nbsp;(Singapore: Produced by the 7th SEAP Games Organising Committee in Co-operation with the Singapore Tourist Promotion Board, 1973). (From National Library, Singapore, call no. RCLOS 796 SOU)
+
+_[7th&nbsp;SEAP&nbsp;Games: Information on Events](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5070321)_&nbsp;(Singapore: South East Asia Peninsula Games, 1973). (From National Library, Singapore, call no. RCLOS 796 SOU)
+
+Radio and Television Singapore, “[E.W. Barker At Opening of Seventh South East Asia Peninsula Games (SEAP) Games](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/527ca799-1164-11e3-83d5-0050568939ad),” 1 September 1973, sound recording, 53:08. (From National Archives of Singapore, accession no.&nbsp;1998007702)
+
+Radio and Television Singapore, “[E.W. Barker At Opening of Seventh South East Asia Peninsula Games (SEAP) Games](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/527cb986-1164-11e3-83d5-0050568939ad),” 1 September 1973, sound recording, 1:03:45. (From National Archives of Singapore, accession no.&nbsp;1998007703)
+
+Radio and Television Singapore, “[E.W. Barker At Opening of Seventh South East Asia Peninsula Games (SEAP) Games](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4886aa63-1164-11e3-83d5-0050568939ad),” 1 September 1973, sound recording, 1:06:10. (From National Archives of Singapore, accession no.&nbsp;1998007704)
+
+Radio and Television Singapore,&nbsp;&nbsp;[_7th SEAP Games Singapore 1973 Opening Ceremony_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12548291), video, 1:18:00 (Singapore: RTS, \[1973\]: MediaCorp Studios, \[distributor\], 2005). (From National Library, Singapore, call no. RSING 796.0959 SEV)
+
+Radio and Television Singapore, “[7th SEAP Games Closing Ceremony](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4886aa63-1164-11e3-83d5-0050568939ad),” 8 September 1973, sound recording, 30:19. (From National Archives of Singapore, accession no.&nbsp;1997002644)
+
+Radio and Television Singapore,&nbsp;&nbsp;[_7th SEAP Games Singapore 1973 Closing Ceremony_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12558959), video, 30:28 (Singapore: RTS, \[1973\]: MediaCorp Studios, \[distributor\], 2005). (From National Library, Singapore, call no. RSING 796.0959 SEV)
+
+Singapore Broadcasting Corporation, “[7th SEAP Games Singapore 1973](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48869571-1164-11e3-83d5-0050568939ad),” 30 August 1973, video, 1:17:01. (From National Archives of Singapore, accession no.&nbsp;1997002643)
+	
 #### **NOTES**
 
 [^1]: [Patricia Chan Li Yin](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/8c394664-3b57-11e5-b55d-0050568939ad-OHC002629_017/web/html5/index.html), oral history interview by Denise Ng Hui Lin, 18 March 2015, transcript and MP3 audio, Reel/Disc 17 of 18, 226, National Archives of Singapore ([accession no. 002629](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002629))
