@@ -84,7 +84,7 @@ While the *mui tsai* has largely faded from public consciousness since the postw
 <br>
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/Yong%20Chong.jpg" style="width: 80px; height: 80px;"><center><b>Yee Yeong Chong</b> <br> 
+<img src="/images/Authors/Yong%20Chong.jpg" style="width: 100px; height: 80px;"><center><b>Yee Yeong Chong</b> <br> 
 Research Associate II <br>
 Engagement, National Library</center>
 </div>
