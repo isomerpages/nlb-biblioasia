@@ -95,7 +95,7 @@ Singapore’s first gold medal, however, came courtesy of Heather Merican who tr
 
 Among the notable winners was table tennis player Chia Choon Boon, who juggled both his training and his work as a _Nanyang Siang Pau_ reporter. After training sessions ended, while his teammates were resting, he would rush out a journal entry for the newspaper about life in the Games Village every day. “I could call the newspaper to tell them what was happening in the Games Village, but… it would be more interesting for the reader to read about things from my perspective.”[^23] Chia’s moonlighting did not stop him from winning two gold medals for Singapore in table tennis.
 
-![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/picture3.jpg)
+![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980006947%20img0060%201.jpg)
 <div style="background-color: white;">Singapore table tennis players Chia Choon Boon and Tan Yong Hong (left, in dark blue), 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **A Glorious Finish**
