@@ -353,4 +353,3 @@ _Persatuan Bawean Singapura_, https://opengovsg.com/corporate/S34SS0001G.
 [^28]: “[Boyanese](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833),” 70.
 
 [^29]: Nor-Afidah Abdul Rahman and Marsita Omar, [The Baweanese (Boyanese)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1069_2007-06-20.html), _Singapore Infopedia_, published October 2020.
-
