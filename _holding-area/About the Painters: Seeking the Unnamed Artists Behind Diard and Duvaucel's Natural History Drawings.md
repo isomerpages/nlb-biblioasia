@@ -93,11 +93,11 @@ What is precisely so noteworthy about the drawings of the Olive-backed Sunbird a
 
 Notice how the Olive-backed Sunbird is depicted, such that we are looking up at the bird amongst the branches, up in a tree. The answer perhaps lies in this salient visual composition, which is unique to this drawing in the collection.<br>
 
-More so than the artist’s identity, their artistic choice in this drawing brings us into the moment with them, experiencing the aesthetic emotion they felt in this human-nature encounter. These very moments, which my poem “About the Painters” lingers on, are part of the legacy left behind by these unnamed artists, which we should draw inspiration from and attend to in our daily lives.<br><br>
+More so than the artist’s identity, their artistic choice in this drawing brings us into the moment with them, experiencing the aesthetic emotion they felt in this human-nature encounter. These very moments, which my poem “About the Painters” lingers on, are part of the legacy left behind by these unnamed artists, which we should draw inspiration from and attend to in our daily lives.<br>
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/About%20the%20Painters/author%201.png">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/About%20the%20Painters/author.png">
 <b>Chrystal Ho</b> is a writer from Singapore. She works primarily with poetry and nonfiction, with a keen interest in myth and ecological narratives. A former Creative Resident with the National Library (2022/23), she is currently pursuing a Masters in English (Creative Writing) at the Nanyang Technological University of Singapore.</div>
   
 #### Notes
