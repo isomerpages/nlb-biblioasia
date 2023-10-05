@@ -24,7 +24,7 @@ sections:
         international sporting event since gaining independence in 1965.
       button: Gunning for Glory
       url: /vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/
-      image: /images/Vol 19 Issue 4/4 SEAP Games/4x100m 1973.jpg
+      image: /images/Vol 19 Issue 4/4 SEAP Games/image4.png
       alt: Women's Relay
   - infopic:
       title: Professor Yu Chun Yee Plays on NLB's Heritage Piano
