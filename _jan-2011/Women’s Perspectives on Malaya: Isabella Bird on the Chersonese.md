@@ -70,7 +70,7 @@ As a woman, Bird was privileged to see the more intimate side of Malayan life. S
 
 She then continued to describe the convivial repartee over dinner between Maxwell, Captain Walker and Major Swineburne, her travel companions, doubting that “such an argument could have been got up in moist, hot Singapore, or steamy Malacca! … That it should be possible shows what an invigorating climate this must be.” (ibid., p. 286)
 
-<img style="width:80%;" src="/images/Vol%206%20issue%204/WomenPerspective/An%20equatorial%20jungle%20stream.jpg">
+<img style="width:100%;" src="/images/Vol%206%20issue%204/WomenPerspective/An%20equatorial%20jungle%20stream.jpg">
  <div style="background-color: white;">An equatorial jungle stream (Bird, 1883, facing p. 227)</div>
 
 #### **The Golden Chersonese: Romance or Realism?**
@@ -85,7 +85,7 @@ The adverse circumstances, however, brought out Bird’s resourcefulness. She de
 
 When her elephant ride from Larut to Kwala Kangsar \[sic\] did not materialise due to some miscommunication, and she had to walk the four miles through quagmire and jungle, she recognised that she “could not have done the half of it had \[she\] not had \[her\] ‘mountain dress’ on …” (ibid., p. 293). She finally meets her elephant, which had “nothing grand about him but his ugliness” (ibid., p. 298).
 
-<img style="width:80%;" src="/images/Vol%206%20issue%204/WomenPerspective/first%20ride%20.jpg">
+<img style="width:100%;" src="/images/Vol%206%20issue%204/WomenPerspective/first%20ride%20.jpg">
  <div style="background-color: white;">Isabella Bird's first ride in Perak (Bird, 1883, frontispiece)</div>
 
 Even in the midst of these challenges, she was able to contemplate the uniqueness of her circumstances, sometimes describing them in such wondrous tones despite the apparent dangers and discomforts she faced. Here, she gave the context to her elephant ride:
