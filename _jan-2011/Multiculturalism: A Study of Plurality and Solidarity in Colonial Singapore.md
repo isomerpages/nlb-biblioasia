@@ -1,13 +1,13 @@
 ---
 title: "Multiculturalism: A Study of Plurality and Solidarity in Colonial Singapore"
 permalink: /vol-6/issue-4/jan-2011/singapore-multiculturalism-plurality-solidarity/
-description: "Lee Kong Chian Research Fellow Phyllis Ghim-Lian Chew draws from
+description: Lee Kong Chian Research Fellow Phyllis Ghim-Lian Chew draws from
   the social and linguistic history of colonial Singapore, and proposes a
   plurality-solidarity cline with parameters such as dress, food, the arts,
   religious and literary activities, and rites of passage, as a means to study
-  the processes of acculturation and assimilation. "
+  the processes of acculturation and assimilation.
 ---
-####  Lee Kong Chian Research Fellow _Phyllis Ghim-Lian Chew_ draws from the social and linguistic history of colonial Singapore, and proposes a plurality-solidarity cline with parameters such as dress, food, the arts, religious and literary activities, and rites of passage, as a means to study the processes of acculturation and assimilation.
+####  Lee Kong Chian Research Fellow&nbsp;_Phyllis Ghim-Lian Chew_&nbsp;draws from the social and linguistic history of colonial Singapore, and proposes a plurality-solidarity cline with parameters such as dress, food, the arts, religious and literary activities, and rites of passage, as a means to study the processes of acculturation and assimilation.
 
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/PluralitySolidarity/Pineapple%20Tarts.jpg">
@@ -20,7 +20,7 @@ Yet, instead of celebrating this dynamic multiculturalism in Singapore food, Lai
 #### **A Three-Generation Model: The Plurality-Solidarity Cline**
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/PluralitySolidarity/KENGLE.jpg">
- <div style="background-color: white;">Staff of a Chinese firm, Keng Lee & Company, 1937. Note the multiracial composition of the staff, comprising Chinese, Malay and Indian people.<i> Courtesy of Phyllis Chew.</i></div>
+ <div style="background-color: white;">Staff of a Chinese firm, Keng Lee &amp; Company, 1937. Note the multiracial composition of the staff, comprising Chinese, Malay and Indian people.<i> Courtesy of Phyllis Chew.</i></div>
 
 Our acculturation-assimilation continuum begins with plurality at one end, and solidarity at the other. While plurality conjures images of dissent and divisiveness, solidarity connotes cooperation and peaceful exchange.
 
@@ -91,42 +91,46 @@ I have drawn from the social and linguistic history of colonial Singapore, and h
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Phyllis%20Ghim.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Phyllis%20Ghim.jpg" style="width: 100px; height: 100px;">
 <center><b>Phyllis Ghim-Lian Chew</b> <br> Lee Kong Chian Research Fellow (2010) <br>  National Library </center></div>
 
 #### **REFERENCES**
+  
+Alexius Pereira, “Triads and Riots: Threats to Singapore’s Social Stability,” in _[Past times: A Social History of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570)_, ed. Chan Kwok Bun and Tong Chee Kiong (Singapore: Times Editions, 2003). (Call no. RSING 959.57 PAS)
 
-Abishenganaden, P. (2005). [_Notes across the years: Anecdotes from a musical life_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654614)_._ Singapore: Unipress. Call no.: RSING 780.95957 ABI
+Henry Keppel, _A Visit to the Indian Archipelago, in H.M. Ship Maeander: With Portions of the Private Journal of Sir James Brooke_, [vol. I](https://www.nlb.gov.sg/main/book-detail?cmsuuid=90c379fc-076f-493e-9de9-a8e235a72550) and [2](https://www.nlb.gov.sg/main/book-detail?cmsuuid=99f14b64-73e2-4517-be49-6626dde0bcb7) (London: Richard Bentley, 1853). (From BookSG)
 
-Arseculteratne, S.N. (1991). [_Sinhaleses immigrants in Malaysia & Singapore, 1860–1990: History through recollections_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6077965). Colombo: K.V.G. De Silva & Sons (Colombo). Call no.: RSING 305.8914805957 ARS
+J. D. Vaughn, _[The Manner and Customs of the Chinese of the Straits Settlements](https://www.nlb.gov.sg/main/book-detail?cmsuuid=9441699c-4655-4f9b-835a-d7f377311332)_ (London: Printed at the Mission Press, 1879) (From BookSG); J. D. Vaughn, _[The Manners and Customs of the Chinese of the Straits Settlements](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250059)_ (Singapore: Oxford University Press, 1971). (Call no. RSING 390.0951 VAU-\[CUS\])
 
-Baker, M. (1999). [_A time of fireflies and wild guavas_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9653246)_._ Singapore: Federal Publications. Call no.: RSING 370.192 BAK
+J. S. Furnivall, _[Colonial Policy and Practice: A Comparative Study of Burma and Netherlands India](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1881632)_ (New York: New York University Press, 1956). (Original work published 1948). (Call no. RSING 959.1 FUR)
 
-Clammer, J.R. (1979). [_The ambiguity of identity: Ethnicity maintenance and change among the Straits Chinese community of Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078238)_._ Singapore: Institute of Southeast Asian Studies. Call no.: RSING 301.45195105957 CLA
+James R. Rush, _[Opium to Java: Revenue Farming and Chinese Enterprise in Colonial Indonesia, 1860–1910](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5393665)_ (Ithaca: Cornell University Press, 1990). (Call no. RSING 363.45095982 RUS)
 
-Clammer, J.R. (1980). [_Straits Chinese society: Studies in the sociology of Baba communities of Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233)_._ Singapore: Singapore University Press. Call no.: RSING 301.45195105957 CLA
+Joan Margaret Marbeck, _[Linggu Mai = Mother Tongue: A Kristang Keepsake](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903438)_ (Lisbon: Calouste Gulbenkian Foundation, 2004). (Call no. RDET 469.7995 KRI)
 
-Furnivall, J.S. (1956). [_Colonial policy and practice: A comparative study of Burma and Netherlands India_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1881632)_._ New York: New York University Press. (Original work published 1948). Call no.: RSING 959.1 FUR
+John R. Clammer, _[The Ambiguity of Identity: Ethnicity Maintenance and Change Among the Straits Chinese Community of Malaysia and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078238)_ (Singapore: Institute of Southeast Asian Studies, 1979). (Call no. RSING 301.45195105957 CLA)
 
-Keppel, H. (1853). [_A visit to the Indian Archipelago, in H.M. ship Maeander: With portions of the private journal of Sir James Brooke. Vol. I_](https://eresources.nlb.gov.sg/printheritage/detail/90c379fc-076f-493e-9de9-a8e235a72550.aspx)_._ London: Richard Bentley; Keppel, H. (1853). [_A visit to the Indian Archipelago, in H.M. ship Maeander, with portions of the private journal of Sir James Brooke. Vol. II_](https://eresources.nlb.gov.sg/printheritage/detail/99f14b64-73e2-4517-be49-6626dde0bcb7.aspx)_._ London: Richard Bentley. Retrieved from BookSG.
+John R. Clammer, _[Straits Chinese Society: Studies in the Sociology of Baba Communities of Malaysia and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233)_ (Singapore: Singapore University Press, 1980). (Call no. RSING 301.45195105957 CLA)
 
-Lai, A.E. (Ed.). (2004). [_Beyond rituals and riots: Ethnic pluralism and social cohesion in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12229788)_._ Singapore: Eastern Universities Press. Call no.: RSING 305.80095957 BEY
+Lai Ah Eng, ed., _[Beyond Rituals and Riots: Ethnic Pluralism and Social Cohesion in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12229788)_ (Singapore: Eastern Universities Press, 2004). (Call no. RSING 305.80095957 BEY)
 
-Lee, K.C. (1988). [_On the beat to the Hustings: An autobiography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4624502). Singapore: Times Books International. Call no.: RSING 320.95957 LEE
+Lee Khoon Choy, _[On the Beat to the Hustings: An Autobiography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4624502)_ (Singapore: Times Books International, 1988). (Call no. RSING 320.95957 LEE)
 
-Lim, P.P.H. (2002). [_Wong Ah Fook: Immigrant, builder and entrepreneur_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11748239)_._ Singapore; Times Editions. Call no.: RSING 305.895105957 LIM
+Lim Yew Hock, _[Reflections](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139723)__._ (Kuala Lumpur: Pustaka Antara, 1986). (Call no. RSING 320.9595050924 LIM)
 
-Lim, Y.H. (1986). [_Reflections_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139723)_._ Kuala Lumpur: Pustaka Antara. Call no.: RSING 320.9595050924 LIM
+Maurice Baker, _[A Time of Fireflies and Wild Guavas](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9653246)_ (Singapore: Federal Publications, 1999). (Call no. RSING 370.192 BAK)
 
-Marbeck, J.M. (2004). [_Linggu Mai = Mother tongue: A Kristang keepsake_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903438). Lisbon: Calouste Gulbenkian Foundation. Call no.: RDET 469.7995 KRI
+P. Lim Pui Huen, _[Wong Ah Fook: Immigrant, Builder and Entrepreneur](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11748239)_ (Singapore; Times Editions, 2002). (Call no. RSING 305.895105957 LIM)
 
-Pereira, A. (2003). Triads and riots: Threats to Singapore’s social stability. In K. B. Chan & & C. K. Tong (Eds.), [_Past times: A social history of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570). Singapore: Times Editions. Call no.: RSING 959.57 PAS
+Paul Abishenganaden, _[Notes Across the Years: Anecdotes From a Musical Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654614)_ (Singapore: Unipress, 2005). (Call no. RSING 780.95957 ABI)
 
-Rush, J.R. (1990). [_Opium to Java: Revenue farming and Chinese enterprise in colonial Indonesia, 1860–1910_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5393665)_._ Ithaca: Cornell University Press. Call no.: RSING 363.45095982 RUS
+S. N. Arseculteratne, _[Sinhaleses Immigrants in Malaysia &amp; Singapore, 1860–1990: History Through Recollections](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6077965)_ (Colombo: K.V.G. De Silva &amp; Sons (Colombo), 1991). (Call no. RSING 305.8914805957 ARS)
 
-Shellabear, W.G. (1913, December). Baba Malay. An introduction to the language of the Straits Chinese. _Journal of the Straits Branch, Royal Asiatic Society,_ 65, 49–63. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website. Reproduced in Clammer, J.R. (1980). [_Straits Chinese Society: Studies in the sociology of Baba communities of Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233) (pp. 153–165). Singapore: Singapore University Press. Call no.: RSING 301.45195105957 CLA
+Sarah Thiyagaraj, S. (1998). _[The Chetty Melaka Community: Its Origin and Its Cultural Identity](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10890601)_ (University of New South Wales, 1998). (Call no. RSEA q305.89140595 THI)
 
-Thiyagaraj, S. (1998). [_The Chetty Melaka community: Its origin and its cultural identity_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10890601)_._ Unpublished academic exercise. University of New South Wales. Call no.: RSEA q305.89140595 THI
+W. G. Shellabear, “Baba Malay. An Introduction to the Language of the Straits Chinese,” _Journal of the Straits Branch, Royal Asiatic Society_ 65 (December 1913): 49–63 (Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website). Reproduced John R. Clammer, _[Straits Chinese Society: Studies in the Sociology of Baba Communities of Malaysia and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233)_ (Singapore: Singapore University Press, 1980), 153–65. (Call no. RSING 301.45195105957 CLA)
 
-Vaughn, J. (1879). [_The manner and customs of the Chinese of the Straits Settlements_](https://eresources.nlb.gov.sg/printheritage/detail/d158bcea-eb92-4e6a-8622-e1762c4b4de1.aspx). London: Printed at the Mission Press. Retrieved from BookSG; Vaughn, J. (1971). [_The manners and customs of the Chinese of the Straits Settlements_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250059)_._ Singapore: Oxford University Press. Call no.: RSING 390.0951 VAU
+
+
+
