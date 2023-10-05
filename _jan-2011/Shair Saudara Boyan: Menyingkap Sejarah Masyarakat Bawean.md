@@ -1,12 +1,12 @@
 ---
 title: "Shair Saudara Boyan: Menyingkap Sejarah Masyarakat Bawean"
 permalink: /vol-6/issue-4/jan-2011/shair-saudara-boyan-bawean/
-description: "Shair Saudara Boyan (Poem of the Baweanese, 1930) is a significant
+description: Shair Saudara Boyan (Poem of the Baweanese, 1930) is a significant
   49-page poetry collection written in Malay using Jawi script. Senior Librarian
   Sundusia Rosdi shows how it offers a portrait of the Baweanese community and
-  sheds light on their social values and aspirations. "
+  sheds light on their social values and aspirations.
 ---
-#### _Shair Saudara Boyan_ (Poem of the Baweanese, 1930) is a significant 49-page poetry collection written in Malay using Jawi script. Senior Librarian _Sundusia Rosdi_ shows how it offers a portrait of the Baweanese community and sheds light on their social values and aspirations.
+#### _Shair Saudara Boyan_&nbsp;(Poem of the Baweanese, 1930) is a significant 49-page poetry collection written in Malay using Jawi script. Senior Librarian&nbsp;_Sundusia Rosdi_&nbsp;shows how it offers a portrait of the Baweanese community and sheds light on their social values and aspirations.
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/Presentation1.jpg">
  <div style="background-color: white;">Salinan kulit buku dan beberapa rangkap penutup Shair Saudara Boyan. Hak cipta terpelihara, Reprographic Section, Reference Service Division, British Library, London.</div>
@@ -74,19 +74,19 @@ Tiada watak utama dalam naskhah syair ini walaupun ia menyentuh beberapa persona
 
 Seperti koleksi syair-syair lain, pengarang memulakan karyanya dengan puji-pujian kepada Allah di halaman satu:
 
-&emsp; Bismillah itu mula dikata<br>&emsp;  Alhamdullilah puji semata<br><br>
-&emsp; Telah takdir Tuhan yang satu<br>&emsp; Tiada berbanding serta bersekutu
+  Bismillah itu mula dikata<br>   Alhamdullilah puji semata<br><br>
+  Telah takdir Tuhan yang satu<br>  Tiada berbanding serta bersekutu
 
 Pengarang syair memohon agar syairnya diberkati Allah serta dapat menghiburkan pembaca-pembacanya. Bermula bait ke 17 pula, beliau terus memulakan hal masyarakat di Pulau Bawean serta urutan catatan perantauan mereka ke Singapura. Selanjutnya, niat dan persiapan kaum Bawean untuk merantau, juga detik-detik pengalaman merentasi lautan selama sebulan sebelum sampai ke destinasi tujuan diceritakan (ms. 5).
 
-&emsp; Marilah belayar jangan berlat<br>&emsp;  Ke Singapura namanya selat<br><br>&emsp;  Pelayaran ada di dalam sebulan<br>&emsp;  Kurnia Tuhan 
+  Marilah belayar jangan berlat<br>   Ke Singapura namanya selat<br><br>   Pelayaran ada di dalam sebulan<br>   Kurnia Tuhan 
 dengan kebetulan
 
 #### **Penempatan Awal Masyarakat Bawean**
 
 Setibanya di Singapura, kaum lelakinya menjual tikar anyaman Bawean di Kampung Jawa (Kampung Gelam). Sejak zaman Munshi Abdullah lagi mereka tinggal di rumah-rumah sementara di daerah Kampong Kapor (di pesisir Sungai Rochor yang terletak di antara Jalan Besar dan Syed Alwi Road).[^13] Kawasan ini seterusnya menjadi tumpuan pendatang Bawean lantas dikenali sebagai Kampung Boyan (ms. 7—17).
 
-&emsp;Kepada Melayu dapat bercampur<br>&emsp; Berniaga Boyan di Kampong Kapor<br><br>&emsp; Mulailah ramai Boyan Singapura<br>&emsp; Di Kampong Kapor tempat ketara
+ Kepada Melayu dapat bercampur<br>  Berniaga Boyan di Kampong Kapor<br><br>  Mulailah ramai Boyan Singapura<br>  Di Kampong Kapor tempat ketara
 
 Khabar keselesaan hidup di Singapura memang menggamit minat rakan taulan mereka di Pulau Bawean hingga akhirnya ramai turut berhijrah pada pertengahan abad ke 19. Banci Koloni Singapura tahun 1849 mencatatkan kehadiran 763 orang Bawean (720 lelaki dan 43 perempuan). Jumlah penghijrah ini terus meningkat tetapi kemasukan mereka ke sini dihadkan selepas Perang Dunia Kedua dengan penguatkuasaan “*Citizenships Ordinance*, 1957.”[^14]
 
@@ -109,9 +109,9 @@ Penghuni pondok dikenakan bayaran sewa bilik sebanyak $4 hingga $12 sebulan oleh
 
 *Shair Saudara Boyan* turut menyebut nama beberapa pondok yang terkenal melalui halaman-halaman 18 hingga 28.
 
-&emsp;Baik sebuah masjid yang tentu<br>&emsp; Di Pondok Tachung tempat itu<br><br>&emsp; Ketua bernama Encik Cak Cang<br> &emsp;Semuanya Boyan di Gunong Lanceng
+ Baik sebuah masjid yang tentu<br>  Di Pondok Tachung tempat itu<br><br>  Ketua bernama Encik Cak Cang<br>  Semuanya Boyan di Gunong Lanceng
 
-&emsp;Ketika itu ia Pak Tarallah<br>&emsp; Pakalongan ini jadi ceritalah<br><br>&emsp;Sakaoneng pula saya nyatakan <br>&emsp;Pondok ia di sebelah pekan
+ Ketika itu ia Pak Tarallah<br>  Pakalongan ini jadi ceritalah<br><br> Sakaoneng pula saya nyatakan <br> Pondok ia di sebelah pekan
 
 Setiap pondok diketuai oleh seorang Pak Lurah yang bertindak sebagai penghulu serta penasihat ahli pondok. Oleh kerana kebolehan Pak Lurah ini, penguasa polis sebelum Perang Dunia Kedua telah memberi mereka sedikit kuasa untuk menangani sendiri ahli-ahli pondok mereka jika ada yang mengganggu ketenteraman.[^20]
 
@@ -119,41 +119,41 @@ Pengaruh besar seseorang Lurah pondok Bawean diakui oleh pemerintah Inggeris. Me
 
 Syair ini memaparkan nama beberapa Pak Lurah antaranya Pak Lurah Dul Haris dari Pondok Tachung yang berniaga menjual tiket-tiket kapal ke Pulau Bawean. Sebagai ketua yang berdedikasi serta bersifat patriotik kepada Singapura, beliau telah dianugerahkan pangkat Jaksa Pendamai (JP) (ms. 21) :
 
-&emsp;Kesempurnaan Jawa yang dihadapi<br>&emsp;Gabenor memberi Pangkat JP
+ Kesempurnaan Jawa yang dihadapi<br> Gabenor memberi Pangkat JP
 
 #### **Sosio-Ekonomi dan Mata Pencarian**
 
 Tradisi orang Bawean yang berperawakan kuat dan garang serta bersifat rajin diperkatakan dalam syair ini. Sifat setiakawan, gotong royong, sabar serta tidak memilih pekerjaan telah menambat hati bangsa-bangsa lain (ms. 20—30):
 
-&emsp;Banyaklah bangsa pergi datang<br>&emsp;Memuji Bawean tiada berpantang<br><br>&emsp;Wang dikumpul yang digemari<br>&emsp;Hendak dibawanya pulang ke negeri
+ Banyaklah bangsa pergi datang<br> Memuji Bawean tiada berpantang<br><br> Wang dikumpul yang digemari<br> Hendak dibawanya pulang ke negeri
 
 Dalam bidang ekonomi, kebanyakan mereka terlibat dalam usaha kecil-kecilan seperti menjual atap, menganyam tikar Bawean, membuat terompah kayu dan parut sebagai sumber pencarian mereka (ms. 8).
 
-&emsp;Bawean berniaga terompah dan parut<br>&emsp;Perniagaan maju tiada melorot
+ Bawean berniaga terompah dan parut<br> Perniagaan maju tiada melorot
 
 Umumnya terdapat semacam pengkhususan jenis pekerjaan di kalangan masyarakat pondok misalnya di Pondok Telok Jati, lelakinya cekap membelah rotan dan wanitanya mahir menjahit jala. Di samping itu menjadi nelayan dan kelasi memang popular kerana mereka sudah biasa dengan laut terutama bagi kaum lelaki dari Pondok Tambak (ms. 24—26).
 
-&emsp;Separuh di laut pula dihantar<br>&emsp; Menjadi kelasi jurumudi berputar<br><br>&emsp;   Pekerjaan banyak menjadi kelasi<br>&emsp;Di kapal kecil Hailam kongsi
+ Separuh di laut pula dihantar<br>  Menjadi kelasi jurumudi berputar<br><br>    Pekerjaan banyak menjadi kelasi<br> Di kapal kecil Hailam kongsi
 
 Terdapat ramai lelaki Bawean yang menjadi pemandu kereta. Dan ini seolah-olah menjadi simbol datuk serta moyang mereka sebagai pemacu pedati kuda (ms. 24).
 
-&emsp;Tiada takut letih dan rugi<br>&emsp;Niat menjadi coachman tinggi
+ Tiada takut letih dan rugi<br> Niat menjadi coachman tinggi
 
 Sebelum perang, masyarakat di Malaya dan Singapura selalu mengaitkan pengendali kuda atau joki secara automatik dengan orang Bawean.[^21]
 
 Sehubungan itu, kaum lelaki dari Pondok Gunong Lanceng pula ramai menjadi joki kuda (ms. 24).
 
-&emsp;Pekerjaan berlumpur kepala dan kaki<br>&emsp;Sehingga ada menjadi joki
+ Pekerjaan berlumpur kepala dan kaki<br> Sehingga ada menjadi joki
 
 Selanjutnya tentang mata pencarian orang Bawean, ada segelintir yang bekerja di industri perfileman Malaya, dalam bidang hiburan sebagai penyanyi kabaret, sebagai guru, atau dalam jawatan pemerintah. Mereka tergolong kurang dari 1/10 masyarakat Bawean.[^22]
 
 Penglibatan kaum Bawean dalam bidang seni juga dibayangkan dalam syair seperti pelawak Mat Nor Gelam yang menjadi ahli kumpulan bangsawan (ms. 40):
 
-&emsp;Pekerjaan dia di wayang kompeni<br>&emsp;Di Din Union semasa ini
+ Pekerjaan dia di wayang kompeni<br> Di Din Union semasa ini
 
 Antara ciri paling dikenali yang berkaitan dengan masyarakat Bawean ialah kecenderungan mereka mengumpul emas (bukan mata wang). Kaum wanita mudah dikenali melalui perhiasan diri seperti memakai banyak gelang tangan, rantai, loket dan kerongsang emas. Di Pulau Bawean, mereka lazimnya menggunakan loket emas (paun) untuk berjual beli sawah ataupun rumah. Malah kekayaan seseorang itu diukur dengan jumlah loket emas yang dimiliki dan mereka sering berjimat untuk membeli loket emas.[^23] Kebiasaan wanita Bawean yang menghias diri dengan emas walau sekadar ke pasar digambarkan di halaman-halaman 11 dan 31:
 
-&emsp;Di pasar besi banyak bertempuh<br>&emsp;Dapat kelihatan gelang bersepuh<br><br>&emsp;Penuhkan paun di dalam ponjin<br>&emsp;Supaya hajat boleh ditajin (keraskan)<br><br>&emsp;Jangan lupa mencari wang<br>&emsp;Kemudian mendapat intan dan gewang (siput mutiara)
+ Di pasar besi banyak bertempuh<br> Dapat kelihatan gelang bersepuh<br><br> Penuhkan paun di dalam ponjin<br> Supaya hajat boleh ditajin (keraskan)<br><br> Jangan lupa mencari wang<br> Kemudian mendapat intan dan gewang (siput mutiara)
 
 #### **Penyingkapan Budaya dan Tradisi**
 
@@ -161,18 +161,18 @@ Seterusnya syair ini menggambarkan suasana di majlis walimatulurus anak Pak Lura
 
 Satu hal yang menarik dalam catatan pengarang ialah istiadat keluarga pengantin melambungkan wang-wang syiling ke arah genting rumah hingga menyebabkan bunyi bising. Ini dilakukan oleh tuan rumah untuk menunjukkan kemewahan dan kemeriahan bunyi ch’ning (bejana tembaga). Ketika duit syiling dilambung jatuh bertaburan di lantai, ia menjadi rebutan sanak saudara yang memungutnya (ms. 28).
 
-&emsp;Bila datang jemputan menempuh<br>&emsp;Wang ditabur ch’ning nak repuh<br><br>&emsp;Sehingga ch’ning pontang panting<br>&emsp;Wang dilambung ke atas genting
+ Bila datang jemputan menempuh<br> Wang ditabur ch’ning nak repuh<br><br> Sehingga ch’ning pontang panting<br> Wang dilambung ke atas genting
 
 
 #### **Budaya Penghayatan Islam**
 
 Di Kampung Kapor, Weld Road pernah tersergam Masjid Boyan yang didirikan oleh hartawan Bawean pada tahun 1932. Begitu juga sebuah surau di Minto Road yang telah dibina lebih 100 tahun lalu dan dibiayai oleh masyarakat Bawean. Terkenal sebagai kaum yang patuh mengamalkan ajaran Islam, anakanak Bawean seawal empat tahun sudah dididik mengaji alQuran melalui kelas-kelas yang ada di setiap pondok. Pak Lurah sendiri menjadi imam ketika solat berjemaah. Suasana dan gaya hidup Islam terpancar dengan kegiatan-kegiatan agama antaranya, bacaan al-Quran, berzanji dan qasidah serta sambutan hari-hari kebesaran Islam (ms. 32—35).
 
-&emsp;Banyak orang pergi mengaji<br>&emsp; Sehingga ada yang naik haji<br><br>&emsp;Boyan pun sangat muliakan agama<br>&emsp;Serta mengerjakan waktu yang lima
+ Banyak orang pergi mengaji<br>  Sehingga ada yang naik haji<br><br> Boyan pun sangat muliakan agama<br> Serta mengerjakan waktu yang lima
 
 Apabila wabak melanda Kampong Kapor (ms. 42), kaum Bawean mengadakan upacara membaca bacaan berzanji dan ratib beramai-ramai kerana mereka menganggap bahawa jin dan syaitan merupakan penyebab wabak tersebut.
 
-&emsp;Perihal penyakit tiada terkira<br>&emsp;Banyaklah mati Boyan saudara<br><br>&emsp;Beratur sekelian yang mana haji<br>&emsp;Di pinggang pula kitab berzanji<br><br>&emsp;Kemenyan dikekalkan bertalam-talam<br>&emsp;Menghalau penyakit biar tenggelam<br><br>&emsp;Hilanglah jin puaka musibat<br>&emsp;Melihat ratib manusia bertobat
+ Perihal penyakit tiada terkira<br> Banyaklah mati Boyan saudara<br><br> Beratur sekelian yang mana haji<br> Di pinggang pula kitab berzanji<br><br> Kemenyan dikekalkan bertalam-talam<br> Menghalau penyakit biar tenggelam<br><br> Hilanglah jin puaka musibat<br> Melihat ratib manusia bertobat
 
 Walaupun masyarakat Bawean ini jelas sangat kuat pegangan agama mereka, namun terdapat satu pandangan yang negatif mengenai kaum Bawean dahulu iaitu mereka sering dikaitkan sebagai pengamal ilmu hitam. Mereka dikatakan menggunakan ilmu sihir untuk menyebabkan sakit yang melarat, keguguran bayi, lemah syahwat dan kematian.[^25]
 
@@ -182,7 +182,7 @@ Setelah sistem pondok berakhir, *stigma* ini kekal pada sebahagian orang-orang m
 
 Pengarang telah menggunakan bahasa Melayu sebagai bahasa utama dalam penulisan syair ini dan diselang-selikan dengan bahasa-bahasa lain seperti bahasa Arab, bahasa Inggeris, bahasa Madura, serta bahasa Bawean sendiri. Gaya bahasa yang digunakan agak mudah lagi santai. Namun beberapa rangkap kelihatan indah dengan bunga-bunga bahasa dan perbandingan yang tepat (ms. 21).
 
-&emsp;Nyatalah sudah Boyan nan maju<br>&emsp;Akal pun datang semangkin laju<br><br>&emsp;Sehingga berubah pakaian baju<br>&emsp;Semua pekerjaan boleh setuju
+ Nyatalah sudah Boyan nan maju<br> Akal pun datang semangkin laju<br><br> Sehingga berubah pakaian baju<br> Semua pekerjaan boleh setuju
 
 Dari sudut pemilihan perkataan, perbendaharaan bahasa pengarang sangat luas, beberapa perkataan seperti “*gelurat*” (ms. 1) dan “*geharap*” (ms. 34), tidak dapat saya tafsirkan walau setelah merujuk kepada kamus. Menarik juga bila terdapat beberapa bahasa pasar harian yang diselitkan seperti “*jotos*” (
 ms. 28) dan “*bini*” (ms. 8).
@@ -191,13 +191,13 @@ Pengaruh bahasa Arab ketara sekali seperti penggunaan *Alhamdulillah* (ms. 1), *
 
 Di beberapa rangkap ala pantun turut disisipkan frasa bahasa Madura seperti *Adu ambuk* (aduh nenek) dan bahasa Bawean seperti *emok* (sibuk), *phiyeng* (ibu), serta *Tak kabesanyo’on pahi’* (terima kasih yang tidak terhingga) (ms. 28). Pengarang turut meluahkan perasaannya dengan berpantun dalam bahasa Bawean di bahagian penutup syair ini (diterjemahkan secara bebas di ms. 48).
 
-&emsp;Ka tasik ka nosa-nosa<br>&emsp;Cukok tambhen kuring aken<br>&emsp;Bule achek eka sosa sosa<br>&emsp;Syair Pebhiyan e tamat aken<br>&emsp;Ke tasik ke pulau Nusa<br>&emsp;Ikan tamban digorengkan<br>&emsp;Jangan saya di susah susah<br>&emsp;Syair Bawean akan ditamatkan
+ Ka tasik ka nosa-nosa<br> Cukok tambhen kuring aken<br> Bule achek eka sosa sosa<br> Syair Pebhiyan e tamat aken<br> Ke tasik ke pulau Nusa<br> Ikan tamban digorengkan<br> Jangan saya di susah susah<br> Syair Bawean akan ditamatkan
 
 #### **Nasihat, Doa dan Harapan**
 
 Semasa mengakhiri syairnya, pengarang turut menyertakan permohonan doa dan harapan agar Allah menyempurnakan dan menyelamatkan kehidupan kaum Bawean serta menghindari mereka dari kelalaian dan sentiasa maju dalam kehidupan (ms. 46 hingga 48).
 
-&emsp;Berdoa selamat kepada sekelian wali <br>&emsp;Boyan bangkit janganlah khali (lalai)<br> <br>&emsp;Ya Allah Khalik al Bokhari <br>&emsp;Dijauhkan bala kanan dan kiri <br><br>&emsp;Sempurnakan kaumku disana sini<br>&emsp;Ku doakan selamat saat berani
+ Berdoa selamat kepada sekelian wali <br> Boyan bangkit janganlah khali (lalai)<br> <br> Ya Allah Khalik al Bokhari <br> Dijauhkan bala kanan dan kiri <br><br> Sempurnakan kaumku disana sini<br> Ku doakan selamat saat berani
 
 #### **Nostalgia Kaum Ba**
 
@@ -239,121 +239,117 @@ The Baweanese-Singaporeans of today owe much of their success to their ancestors
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Sundusia.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Sundusia.jpg" style="width: 100px; height: 100px;">
 <center><b>Sundusia Rosdi</b><br>Senior Librarian <br>Professional Services<br>National Library Board</center></div>
 
 
 #### **REFERENCES**
+     
+A. Teeuw, “The Malay Shair: Problems of Origin and Tradition,” _Bijdragen tot de Taal – Land-en Volkenlunde_ 122, no. 4 (1966): 429–46. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-Abdullah Baginda. (1964/67). Our Baweanese people. In _[Intisari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823)_, _2_ (4), 15–60. Call no.: RCLOS 959.5005 INT
+Abdullah Baginda, “Our Baweanese People," _[Intisari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823)_ 2, no. 4 (1964–67): 15–60. (Call no. RCLOS 959.5005 INT)
 
-Ahmad Haji Tahir. (1930). _[Shair Saudara Boyan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12438185)_. London: Reprographic Section, Reference Service Division, British Library. Call no.: RCLOS 305.89928 AHM
+Ahmad Haji Tahir, _[Shair Saudara Boyan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12438185)_ (London: Reprographic Section, Reference Service Division, British Library, 1930). (Call no. RCLOS 305.89928 AHM)
 
-Al-Attas, Muhammad Naguib, Syed. (1968). _[The origin of the Malay sha’ir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=41714)_. Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pelajaran Malaysia. Call no.: RCLOS 899.2300911 ATT
+Amin Sweeney, ed., _[Karya Lengkap Abdullah bin Abdul Kadir Munsyi. Jilid 2: Puisi Dan Ceretara](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12787928)_ (Jakarta: Kepustakaan Populer Gramedia, 2006). (Call no. RSING 959.5 KAR)
 
-Amin Sweeney (Ed.). (2006). _[Karya lengkap Abdullah bin Abdul Kadir Munsyi. Jilid 2, Puisi dan ceretera](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12787928)_. Jakarta: Kepustakaan Populer Gramedia. Call no. RCLOS 959.5 KAR
+Arnold Wright and H.A. Cartwright, eds., _[Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444)_ (Singapore: Graham Brash, 1989), 126. (Call no. RSING q959.5 TWE)
 
-Boyanese. (2006). In Koh, T. T. B., Auger, T., Yap, J. & Ng W. C. (Eds.), _[Singapore: The encyclopedia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833)_ (p. 70). Singapore: Editions Didier Millet in association with the National Heritage Board. Call no.: RSING 959.57003 SIN
+“Boyanese,” in _[Singapore: The Encyclopedia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833)_, ed. Tommy Koh et al., (Singapore: Editions Didier Millet in association with the National Heritage Board, 2006), 70. (Call no. RSING 959.57003 SIN)
 
-Dhoraisingam, S. (1991). Baweanese pondok. In _[Singapore’s heritage through places of historic interest](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6252232)_ (pp. 45, 54–55). Singapore: Elixir Consultancy Service. Call no.: RSING 959.57 SAM
+C. M. Turnbull, _[A History of Singapore, 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_ (Singapore: Oxford University Press, 1989), 23, 43. (Call no. RSING 959.57 TUR)
 
-_[Kamus dewan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655145)_. Edisi keempat. (c2005). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: R 499.283 KAM
+Dhoraisingam S. Samuel, “Baweanese Pondok,” in _[Singapore’s Heritage Through Places of Historic Interest](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6252232)_ (Singapore: Elixir Consultancy Service, 1991), 45, 54–55. (Call no. RSING 959.57 SAM)
 
-Hassan Ahmad. (1962, January). Sha’er. In _[Dewan bahasa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=967125)_, _6_ (1), pp. 20–31. Call no.: RCLOS 499.23 DB
+Hassan Ahmad, “Sha’er,” _[Dewan Bahasa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=967125)_ 6, no. 2 (January 1962): 20–31. (Call no. RCLOS 499.23 DB)
 
-Makepeace, W., Brooke, G. E. & Braddell, R. S. J. (Eds.) (1991). _[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)_ (Vol. 1). Singapore: Oxford University Press. Call no.: RSING 959.57 ONE
+Jacob Vredenbregt, “Bawean Migrations,” _Bijdragen tot de Taal – Land-en Volkenkunde,_ 120, no. 1 (1966): 109–39. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-Mansor bin Haji Fadzal. (1964/67). My Baweanese people. In _[Intisari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823)_, _2_ (4), 11–14. Call no.: RCLOS 959.5005 INT
+Jacob Vredenbregt, _[Bawean Dan Islam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061)_, trans. A.B. Lapian (Jakarta: INIS, 1990). (Call no. RSEA 305.89922 VRE)
 
-Ridzwan Dzafir. (2009). _[Ridzwan Dzafir: From pondok boy to Singapore’s ‘Mr ASEAN’: An autobiography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13170309)_. Singapore: Editions Didier Millet, 2009. Call no.: RSING 352.63092 RID
+_[Kamus Dewan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655145)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2005). (Call no. R 499.283 KAM)
 
-Roksana Bibi Abdullah. (2006). Pengalihan bahasa di kalangan masyarakat Bawean di Singapura: Sebab dan akibat. In Paitoon M. Chaiyanara … \[et al.\]. (Eds.), _[Bahasa: Memeluk akar menyuluh ke langit](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12759994)_ (pp. 285–303). Singapore: Jabatan Bahasa dan Budaya Melayu, Institut Pendidikan Nasional, Universiti Teknologi Nanyang. Call no.: RSING 499.2809 BAH
+Mansor bin Haji Fadzal, “My Baweanese People,” _[Intisari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823)_ 2, no. 4 (1964–67): 11–14. (Call no. RCLOS 959.5005 INT)
 
-Sundusia Rosdi. (2003, July 27). [Bila lima generasi famili Bawean bertemu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20030727-1.2.21). _Berita Harian_, p. 9. Retrieved from NewspaperSG.  
+Ridzwan Dzafir, _[Ridzwan Dzafir: From Pondok Boy to Singapore’s ‘Mr ASEAN’: An Autobiography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13170309)_ (Singapore: Editions Didier Millet, 2009). (Call no. RSING 352.63092 RID)
 
-Teeuw, A. (1966), The Malay shair: Problems of origin and tradition. _Bijdragen tot de Taal - Land-en Volkenkunde 122_ (4), 429–446. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
+Roksana Bibi Abdullaj, “Pengalihan Bahasa Di Kalangan Masyarakat Bawean Di Singapura: Sebab Dan Akibat,” in _[Bahasa: Memeluk Akar Menyuluh Ke Langit](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12759994)_, ed. Paitoon M.Chaiyanara et al., (Singapore: Jabatan Bahasa dan Budaya Melayu, Institut Pendidikan Nasioanl, University Teknologi Nanyang, 2006), 285–303. (Call no. RSING 499.2809 BAH)
 
-Turnbull, C. M. (1989). _[A History of Singapore: 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_ (pp. 23, 43) Singapore: Oxford University Press. Call no.: RSING 959.57 TUR
+Sundusia Rosdi, “Bila Lima Generasi Family Bawean Bertemu,” _Berita Minggu_, 27 July 2003.
 
-Vredenbregt, J. (1966). Bawean migrations. _Bijdragen tot de Taal - Land-en Volkenkunde 120_ (1), 109–139. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
+Syed Naguib al-Attas, _[The Origin of the Malay Sha’ir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=41714)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pelajaran Malaysia, 1968). (Call no. RSEA 899.2300911 ATT)
 
-Vredenbregt, J. (1990). _[Bawean dan Islam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061)_ (A. B. Lapian, Trans.). Jakarta: INIS. Call no.: RSEA 305.89922 VRE
+Walter Makepeace, Gilbert E. Brooke, Roland St. J. Braddell, eds., _[One Hundred Years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)_, vol. 1 (Singapore: Oxford University Press, 1991). (Call no. RSING 959.57 ONE-\[HIS\])
 
-Wright, A, & Cartwright, H. A. (Eds.). (1989). _[Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5230444)_ (p. 126). Singapore: Graham Brash. Call no.: RSING q959.5 TWE
-
-Zulfa Usman. (1982). _Cerita rakyat dari Bawean (Jawa Timur)_. Jakarta: Grasindo.
-
+Zulfa Usman, _Cerita Rakyat Dari Bawean (Jawa Timur)_ (Jakarta: Grasindo, 1982)
 
 #### **USM Lelaman Web**
+       
+Endah Vision, “The Baweanes Corner, blog, 22 August 2010, endahvision.blogspot.com.
 
-Nor-Afidah Abdul Rahman & Marsita Omar (October 2020). _[The Baweanese (Boyanese)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1069_2007-06-20.html)_ Retrieved from Singapore Infopedia.
+Nor-Afidah Abdul Rahman and Marsita Omar, [The Baweanese (Boyanese)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1069_2007-06-20.html), _Singapore Infopedia_, published October 2020.
 
-National Heritage Board. _Pondok Peranakan Gelam Club_. Retrieved from Roots, https://www.roots.gov.sg/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club
+_Persatuan Bawean Singapura_, https://opengovsg.com/corporate/S34SS0001G.
 
-Persatuan Bawean Singapura, Facebook, (n.d.),  
-https://ms-my.facebook.com/persatuanbaweansingapura/
-
-The Baweanese Corner. Blog, Retrieved September 30, 2010, http:// endahvision.blogspot.com/
+“Pondok Peranakan Gelam Club,” [https://www.roots.gov.sg/en/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club](https://www.roots.gov.sg/en/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club).
 
 #### **NOTES**
      
+[^1]: _[Kamus Dewan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655145)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2005), 1557. (Call no. R 499.283 KAM)
 
-[^1]: _[Kamus Dewan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655145)_, 2005, p. 1557.
+[^2]: A. Teeuw, “The Malay Shair: Problems of Origin and Tradition,” _Bijdragen tot de Taal – Land-en Volkenlunde_ 122, no. 4 (1966): 433. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^2]: Teeuw, 1966, p. 433.
+[^3]: Hassan Ahmad, “Sha’er,” _[Dewan Bahasa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=967125)_ 6, no. 2 (January 1962): 21. (Call no. RCLOS 499.23 DB)
 
-[^3]: [Hasan Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=967125), Jan 1962, p. 21.
+[^4]: Amin Sweeney, ed., _[Karya Lengkap Abdullah bin Abdul Kadir Munsyi. Jilid 2: Puisi Dan Ceretara](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12787928)_ (Jakarta: Kepustakaan Populer Gramedia, 2006), xiv. (Call no. RSING 959.5 KAR)
 
-[^4]: [Amin Sweeney](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12787928), 2006, p. xiv.
+[^5]: Ahmad Haji Tahir, _[Shair Saudara Boyan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12438185)_ (London: Reprographic Section, Reference Service Division, British Library, 1930), 50. (Call no. RCLOS 305.89928 AHM)
 
-[^5]: [Ahmad Haji Tahir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12438185), 1930, p. 50.
+[^6]: Mansor bin Haji Fadzal, “My Baweanese People,” _[Intisari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823)_ 2, no. 4 (1964–67): 11. (Call no. RCLOS 959.5005 INT)
 
-[^6]: [Mansor Fadzal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 11.
+[^7]: Jacob Vredenbregt, “Bawean Migrations,” _Bijdragen tot de Taal – Land-en Volkenkunde,_ 120, no. 1 (1966): 110. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^7]: Vredenbregt, 1966, p. 110.
+[^8]: Zulfa Usman, _Cerita Rakyat Dari Bawean (Jawa Timur)_ (Jakarta: Grasindo, 1982), 3.  
+  
+[^9]: Roksana Bibi Abdullah, “Pengalihan Bahasa Di Kalangan Masyarakat Bawean Di Singapura: Sebab Dan Akibat,” in _[Bahasa: Memeluk Akar Menyuluh Ke Langit](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12759994)_, ed. Paitoon M.Chaiyanara et al., (Singapore: Jabatan Bahasa dan Budaya Melayu, Institut Pendidikan Nasioanl, University Teknologi Nanyang, 2006), 287. (Call no. RSING 499.2809 BAH)
 
-[^8]: Zulfa Usman, 1982, p. 3.
+[^10]: Vredenbregt, “Bawean Migrations,” 128.
 
-[^9]: [Roksana Bibi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12759994), 2006, p. 287.
+[^11]: “Boyanese,” in _[Singapore: The Encyclopedia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833)_, ed. Tommy Koh et al., (Singapore: Editions Didier Millet in association with the National Heritage Board, 2006), 70. (Call no. RSING 959.57003 SIN)
 
-[^10]: Vredenbregt, 1966, p. 128.
+[^12]: Vredenbregt, “Bawean Migrations,” 128.
 
-[^11]: [Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 70.
+[^13]: “[Boyanese](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833),” 70.
 
-[^12]: [Vredenbregt](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061), 1990, p. 91.
+[^14]: “[Boyanese](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833),” 70. Di bawah “Citizenships Ordinance, 1957” kerakyatan Singapura dan Malaya diberikan kepada penduduk yang lahir di kedua-dua negeri ini pada tahun 1957.
 
-[^13]: [Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 70.
+[^15]: Vredenbregt, “Bawean Migrations,” 127.
 
-[^14]: [Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 70. Di bawah “Citizenships Ordinance, 1957” kerakyatan Singapura dan Malaya diberikan kepada penduduk yang lahir di kedua-dua negeri ini pada tahun 1957.
+[^16]: Abdullah Baginda, “Our Baweanese People," _[Intisari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823)_ 2, no. 4 (1964–67): 32. (Call no. RCLOS 959.5005 INT)
 
-[^15]: Vredenbergt, 1966, p. 127.
+[^17]: Mansor bin Haji Fadzal, “My Baweanese People,” _[Intisari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823)_ 2, no. 4 (1964–67): 12. (Call no. RCLOS 959.5005 INT)
 
-[^16]: [Abdullah Baginda](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 32.
+[^18]: Roksana, “[Pengalihan Bahasa Di Kalangan Masyarakat Bawean Di Singapura](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12759994),” 291.
 
-[^17]: [Mansor Fadzal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 12.
+[^19]: Jacob Vredenbregt, _[Bawean Dan Islam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061)_, trans. A.B. Lapian (Jakarta: INIS, 1990), 99. (Call no. RSEA 305.89922 VRE)
 
-[^18]: [Roksana Bibi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12759994), 2006, p. 291.
+[^20]: Fadzal, “[My Baweanese People](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823),” 2.
 
-[^19]: [Vrendenbergt](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061), 1990, p. 99.
+[^21]: Fadzal, “[My Baweanese People](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823),” 11.
 
-[^20]: [Mansor Fadzal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 2.
+[^22]: Vredenbregt, “Bawean Migrations,” 131.
 
-[^21]: [Mansor Fadzal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 11.
+[^23]: Baginda, “[Our Baweanese People](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823)," 47.
 
-[^22]: [Vredenbregt](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061), 1990, p. 131.
+[^24]: Jacob Vredenbregt, _[Bawean Dan Islam](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061)_, trans. A.B. Lapian (Jakarta: INIS, 1990), 106. (Call no. RSEA 305.89922 VRE)
 
-[^23]: [Abdullah Baginda](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 47
+[^25]: Baginda, “[Our Baweanese People](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823)," 51.
 
-[^24]: [Vredenbregt](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5922061), 1990, p. 106.
+[^26]: “[Boyanese](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833),” 70. Kelab Pondok Peranakan Gelam merupakan symbol keharmonian masyarakat berbilang kaum di Singapura. Semasa rusuhan kaum yang dicetuskan oleh gurila-gurila Parti Komunis Malaya (Bintang Tiga) di Singapura pada tahun 1947, masyarakat Bawean di kawasan ini dilindungi oleh jiran-jiran Cina mereka di daerah in, “Pondok Peranakan Gelam Club,” [https://www.roots.gov.sg/en/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club](https://www.roots.gov.sg/en/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club).
 
-[^25]: [Abdullah Baginda](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3711823), 1966, p. 51.
+[^27]: Lelaman Persatuan Bawean Singapura ([http://bawean.org](http://bawean.org))
 
-[^26]: [Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 70. Kelab Pondok Peranakan Gelam merupakan simbol keharmonian masyarakat berbilang kaum di Singapura. Semasa rusuhan kaum yang dicetuskan oleh gurila-gurila Parti Komunis Malaya (Bintang Tiga) di Singapura pada tahun 1947, masyarakat Bawean di kawasan ini dilindungi oleh jiran-jiran Cina mereka di daerah ini, https://www.roots.gov.sg/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club
+[^28]: “[Boyanese](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833),” 70.
 
-[^27]: Lelaman Persatuan Bawean Singapura, Facebook, (n.d.),  
-https://ms-my.facebook.com/persatuanbaweansingapura/
-
-[^28]: [Koh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833), 2006, p. 70.  
-
-[^29]: [Nor-Afidah Abdul Rahman & Marsita Omar](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1069_2007-06-20.html), Oct 2020.
+[^29]: Nor-Afidah Abdul Rahman and Marsita Omar, [The Baweanese (Boyanese)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1069_2007-06-20.html), _Singapore Infopedia_, published October 2020.
