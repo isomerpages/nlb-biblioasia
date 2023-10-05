@@ -1,0 +1,4 @@
+collections:
+  online-only:
+    output: true
+    order: []
