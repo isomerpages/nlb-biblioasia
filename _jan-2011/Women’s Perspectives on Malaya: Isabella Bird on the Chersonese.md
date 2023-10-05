@@ -6,7 +6,7 @@ description: Senior Librarian Bonny Tan takes a closer look at Isabella Bird’s
 ---
 #### Senior Librarian&nbsp;_Bonny Tan_&nbsp;takes a closer look at Isabella Bird’s book&nbsp;_The Golden Chersonese_, which captures her travels through Malaya.
 
-<img style="width:80%;" src="/images/Vol%206%20issue%204/WomenPerspective/chersonese%20020.jpg">
+<img style="width:100%;" src="/images/Vol%206%20issue%204/WomenPerspective/chersonese%20020.jpg">
  <div style="background-color: white;">A first edition of The Golden Chersonese (1883). Rare Materials Collection, National Library Singapore.</div>
  
 <center>“There is not very much comfort when one leaves the beaten tracks of travel,<br> but any loss is far more than made up for by the intense enjoyment.”<br> (Bird, 1883, p. 216)</center>
@@ -24,7 +24,7 @@ Bird travelled more widely in her middle age after the death of her mother, she 
 
 Most of Bird’s early books were based on letters she had written to her only sibling, Henrietta. “In writing to my sister my first aim was accuracy, and my next to make her see what I saw ….” (Bird, 1883, p. viii) However, Henrietta was not just a home-bound shrinking violet who merely received her adventurous sister’s letters. In fact, she was considered the more academic of the two,[^3] having a fluency in classical languages such as Greek and Latin.
 
-<img style="width:80%;" src="/images/Vol%206%20issue%204/WomenPerspective/Presentation1.jpg">
+<img style="width:100%;" src="/images/Vol%206%20issue%204/WomenPerspective/Presentation1.jpg">
  <div style="background-color: white;">(Left) Henrietta Amelia Bird (Stoddart, 1908,  p. 122)<br> (Centre) Isabella Bird (Stoddart, 1908, Frontispiece)<br> (Right) Dr John Bishop (Stoddart, 1908, p. 118)</div>
 
 It was Henrietta who had suggested titling Bird’s Malayan travels *The Golden Chersonese*, based on her knowledge of Ptolemaic history and its mention in Milton’s poems. There has been speculation that Henrietta had literally co-written much of Isabella’s earlier books.[^4] Bird herself had acknowledged her sister as “\[her\] intellect, the inspiration of all \[her\] literary work.”[^5] For *The Chersonese*, Bird acknowledged that “\[Henrietta’s\] able and careful criticism, as well as loving interest, accompanied \[her\] former volumes through the press.” (Bird, 1883, Preface, p. vii). *The Chersonese*, however was Bird’s last book based on her letters to Henrietta. Henrietta died in 1880 soon after Bird returned from Malaya. Bird expressed her sense of loss noting that the book was written “under the heavy shadow of the loss of the beloved and only sister” (ibid., Preface, p. vii) and dedicated *The Chersonese* to her: “To a beloved memory, this volume is earnestly and sorrowfully dedicated.” Henrietta’s death not only affected Bird emotionally, but likely also her writings. While researching for *The Chersonese*, Bird had appealed several times to John Murray, her publisher, to provide materials to pad up her limited knowledge on Malaya — something which Chubbuck believes Henrietta, if alive, would have invariably supplied to her sister.[^6]
@@ -169,4 +169,3 @@ Susan Morgan, _[Place Matters: Gendered Geography in Victorian Women’s Travel 
 [^11]: At Permatang in Perak for example, she was relieved to hear her host discussing breakfast. But after a bath, the visitors were expected to leave immediately, without the much desired meal. Isabella Lucy Bishop, _[The Golden Chersonese and the Way Thither](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123671)_ (London: John Murray, 1883), 279–80. (Call no. RCLOS 959.5 BIS)
 
 [^12]: The National Library has the original 1883 copy by John Murray, one of which belongs to the collection of the learned curator, Mr Gibson-Hill. The reprints were also acquired by the library including recent reprints by Konemann (2000) and Monsoon Books (2010). Besides this, the library holds several of Bird’s other travelogues as well as analysis, commentaries and criticisms of her works and biographies along with studies of her life.
-
