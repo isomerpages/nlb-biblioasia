@@ -53,6 +53,12 @@ In the retail space of the upper floors, goods were displayed in an open concept
  <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/jl%20dept%20store.jpg">
 <div style="background-color: white;">This photo from the 1910s of the glassware and crockery section of John Little allows us to appreciate the store’s open concept feel, as well as its beautiful hardwood floors.  <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore.</i></div><br>
 
+Besides furniture, shoppers were also privy to a wide range of goods,[^13] some of which would be considered unusual today, at the opening. Customers could browse sections in the department store such as drugs and perfumery (the pharmacy);[^14] bags and trunks
+
+  
+
+* * *
+
 
  
  
@@ -121,3 +127,6 @@ In the retail space of the upper floors, goods were displayed in an open concept
 
 [^12]: “[John Little and Co](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19100919-1.2.73).”
 
+[^13]: “[John Little and Co](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19100919-1.2.73).”
+
+[^14]: “Cosmetics and Personal Care Products in the Medicine and Science Collections: Fragrance,” Smithsonian National Museum of American History Behring Center, last accessed 2 October 2023, https://americanhistory.si.edu/collections/object-groups/health-hygiene-and-beauty/fragrance.
