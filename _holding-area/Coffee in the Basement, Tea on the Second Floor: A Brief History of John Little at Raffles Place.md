@@ -57,7 +57,7 @@ Besides furniture, shoppers were also privy to a wide range of goods,[^13] some 
 
   
 
-* * *
+
 
 
  
@@ -117,7 +117,6 @@ Besides furniture, shoppers were also privy to a wide range of goods,[^13] some 
 [^7]: “[John Little and Co](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19100919-1.2.73),” _Straits Times_, 19 September 1910, 7. (From NewspaperSG)
 
 [^8]: Davison, [_Swan &amp; Maclaren_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204523827), 46.
-
 
 [^9]: [Myra Isabelle Cresson](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/724014d0-115f-11e3-83d5-0050568939ad), oral history interview by Clare Chiang, 20 August 1985, MP3 audio, Reel/Disc 1 of 12, National Archives of Singapore ([accession no. 000594](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000594)), 06:15. Cresson was awarded the Most Excellent Order of the British Empire (also known as the MBE) in 1952 for her work on social causes including healthcare and children. In the same year, she was appointed as the first president of the Girl Guides’ Central Local Association. She then served as the first Singaporean Colony Commissioner of Girl Guides Singapore from 1957–59.&nbsp; &nbsp;
 
