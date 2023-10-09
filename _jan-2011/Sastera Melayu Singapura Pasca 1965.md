@@ -123,4 +123,3 @@ Mohd Latiff Mohd, “[Hasil Karya Sastera Melayu Lepas 1965](http://eresources.n
 Mohd Rafi Abu Bakar, _[Nazri Aswandi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7029732)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1994). (Call no. Malay RSING S899.2305 MOH)
 
 Singapore. Perpustakaan Negara. Cawangan Toa Payoh. Sudut Penulis, _[Gema Pustaka 5](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5278228)_ (Singapura: Perpustakaan Negara Singapura, 1985). (Call no. Malay RSING qS899.23008105 GEM)
-
