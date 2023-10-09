@@ -30,7 +30,6 @@ Another source would be the memoirs or biographies of colleagues and subordinate
 <img src="/images/Vol%206%20Issue%203/LivingLegacy/Presentation3.jpg" style="width:100%;">
  <div style="background-color: white;"> (Right) All rights reserved, NUS Press, 2009.<br> (Left) All rights reserved, Department of Social Welfare, Singapore, 1956.</div>
 
-
 Virtually all histories of post-war Singapore would mention Dr Goh's role in the development of Singapore's economy and many would also cover his development of the Singapore Armed Forces. For instance, Edwin Lee’s *Singapore: The Unexpected Nation* (2008) or Turnbull’s *A History of Modern Singapore, 1819—2005* (3rd ed., 2009). Many works about post-war Singapore, especially those dealing with Singapore’s economic development, mention Dr Goh's role as economic architect. Interestingly enough, one of the compilations about Singapore’s leaders made history in its own right: Melanie Chew's *Leaders of Singapore* (1996), which contains the account of her interview with Dr Goh. In this significant account, Dr Goh revealed to her that the separation from the Federation of Malaysia was not initiated by Malaysia as was conventionally believed at the time (p. 147).
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/LivingLegacy/leaders%20of%20singapore%202.jpg">
@@ -38,7 +37,14 @@ Virtually all histories of post-war Singapore would mention Dr Goh's role in the
 
 For those interested in vignettes of Dr Goh, a good place to look happens to be the various commemorative volumes published by the different organisations Dr Goh touched. A good example of this would be the civil service's commemorative volume, *Pioneers Once More* in which Philip Yeo mentions that Dr Goh, his superior, actually drafted a policy memo for him! (Chua, 2010). ST Engineering's *UnChartered Territory* includes a section by Lai Chun Loong (Kuah, pp. 53–59), better known as the junior engineer who was summoned by Dr Goh to strip down a M16 rifle and separate locally manufactured from imported parts. On a different note, the recently published book on the PAP, *Men in White*, gives a dramatisation of the founding of the Malayan Forum.
 
+<img src="/images/Vol%206%20Issue%203/LivingLegacy/ideology.jpg" style="width: 50%;">
+ <div style="background-color: white;"> All rights reserved, ISEAS Publishing, 2010.
+</div>
+
 The study of Dr Goh’s ideas is just begun. One booklength work specifically on Dr Goh's ideas is Austin's *Goh Keng Swee and Southeast Asian Governance*. More comprehensive is the recent book by Dr Ooi Kee Beng, commissioned by the Institute of Southeast Asian Studies, *In Lieu of Ideology* (Ooi, 2010). An early work examining Dr Goh’s policies was published in 1964, regarding the development of Jurong Industrial Estate: *Go-ahead at Goh's Folly: Singapore's Gamble with Industrial Expansion*.
+
+<img src="/images/Vol%206%20Issue%203/LivingLegacy/Presentation3.jpg" style="width:100%;">
+ <div style="background-color: white;"> (Right) All rights reserved, NUS Press, 2009.<br> (Left) All rights reserved, Department of Social Welfare, Singapore, 1956.</div>
 
 
 #### **Speeches and Papers**
