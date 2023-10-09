@@ -96,7 +96,7 @@ Remembering Dr Goh is not an objective task of merely compiling sources from the
 <br>
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/Kwa%20Chong%20Guan.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Authors/Kwa%20Chong%20Guan.jpg" style="width: 80px; height: 80px;">
 <center><b>Kwa Chong Guan</b><br>Head of External Programmes<br> S. Rajaratnam School of International Studies<br> Nanyang Technological 
 University</center></div>
 
