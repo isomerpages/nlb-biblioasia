@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/Binjai/hero_img_binjai_park.jpg
   - infopic:
+      title: Seeking the Unnamed Artists of Diard & Duvaucel's Drawings
+      subtitle: Art
+      id: infopic
+      description: Natural history drawings might seem clinical and cold, but an
+        unlikely medium pulls back the curtains to find the humanity behind
+        them.
+      button: Naming the Unnamed
+      url: /art/2023/10/painters-diard-duvaucel-farquhar/
+      image: /images/Online Only Articles/About the Painters/diard_duvaucel cover1.jpg
+      alt: About the Painters
+  - infopic:
       title: The 1973 SEAP Games in Singapore
       subtitle: Sports
       id: infopic

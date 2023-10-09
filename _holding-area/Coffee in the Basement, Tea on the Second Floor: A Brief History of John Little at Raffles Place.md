@@ -29,7 +29,7 @@ The building plan of the new storefront was titled “Proposed Alterations to Me
 
 <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/1%20john%20little%20bp.jpg"><br>
 <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/1%20john%20little%20bp2.jpg">
-<div style="background-color: white;">This plan (top) was drafted in 1895 by the architecture firm Swan &amp; Maclaren for alterations to the façade of the John Little store. The site plan (see map detail above) shows the location of the building along Raffles Place at the corner with Battery Road – right where Singapore Land Tower is today. <i>Building Control Division Collection, courtesy of National Archives of Singapore (120/1895).</i></div><br>
+<div style="background-color: white;">This plan (top) was drafted in 1895 by the architecture firm Swan &amp; Maclaren for alterations to the façade of the John Little store. The site plan (see map detail above) shows the location of the building along Raffles Place at the corner with Battery Road – right where Singapore Land Tower is today. <i>Building Control Division Collection, courtesy of National Archives of Singapore (120/1895).</i></div>
 
 <b>Rebuilding John Little</b><br>
 Swan &amp; Maclaren were called upon again in 1908 to completely rebuild the Raffles Place premises. Among other things, the new building would be taller, and the columns and archways on the ground floor were arranged differently. The columns were more widely spaced and the arches between them were less steep, creating a more open feel that invited passers-by to look at the window displays. The <i>Straits Times</i> reported that the passageway outside the building was a spacious 11 ft (3 m) wide, allowing for much more foot traffic than the average shophouse five-foot way.[^7]
@@ -38,10 +38,10 @@ Another prominent feature of the new building was the gable, a triangular portio
 
 <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/2b%2019980005901%20img0109.jpg"><br>
 <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/2a%2019980005119%20(j)%20img0043.jpg">
-<div style="background-color: white;">The old (1885–1900, top) and new (c.1930, above) John Little buildings at Raffles Place – the new building had more floors and the arrangement of columns and archways on the ground floor was adjusted to allow for a more spacious feel. <i>Kwan Yue Keng Collection, courtesy of National Archives of Singapore (top), Lim Kheng Chye Collection, courtesy of National Archives of Singapore (above).</i></div><br>
- 
-<img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/1%20john%20little%20bp3.jpg">
-<div style="background-color: white;">This 1908 plan shows details of the top elevation of the John Little building, including the building’s distinctive gable.  <i>   Swan &amp; Maclaren Collection, courtesy of National Archives of Singapore (6(13)/1908).</i></div><br>
+<div style="background-color: white;">The old (1885–1900, top) and new (c.1930, above) John Little buildings at Raffles Place – the new building had more floors and the arrangement of columns and archways on the ground floor was adjusted to allow for a more spacious feel. <i>Kwan Yue Keng Collection, courtesy of National Archives of Singapore (top), Lim Kheng Chye Collection, courtesy of National Archives of Singapore (above).</i></div>
+
+ <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/1%20john%20little%20bp3.jpg">
+<div style="background-color: white;">This 1908 plan shows details of the top elevation of the John Little building, including the building’s distinctive gable.  <i>   Swan &amp; Maclaren Collection, courtesy of National Archives of Singapore (6(13)/1908).</i></div>
 
 <b>Basement and Retail Space</b><br>
 The John Little building had four storeys, with the lowest floor (which was slightly below ground level) kept for back-of-house operations. The three upper storeys were dedicated to retail.
@@ -79,67 +79,13 @@ The end of World War II ushered in many changes in Singapore and John Little was
 
 In 1955, Robinsons bought over John Little, although John Little continued to operate at its Raffles Place premises for about five years.[^23] Following its departure, other shops and offices then occupied the building until it was demolished in 1973 and replaced with Singapore Land Tower.
 
-After John Little moved out of its iconic Raffles Place building, it set up shop in various locations (such as Specialists’ Shopping Centre). The department store later moved into the heartlands, establishing itself in suburban malls such as Compass Point, White Sands, Tiong Bahru Plaza and Jurong Point. In 2007, the John Little flagship store moved out of Specialists’ Shopping Centre to Marina Square. A year later, Robinson &amp; Co. was bought
+After John Little moved out of its iconic Raffles Place building, it set up shop in various locations (such as Specialists’ Shopping Centre). The department store later moved into the heartlands, establishing itself in suburban malls such as Compass Point, White Sands, Tiong Bahru Plaza and Jurong Point. In 2007, the John Little flagship store moved out of Specialists’ Shopping Centre to Marina Square. A year later, Robinson &amp; Co. was bought over by Dubai-based conglomerate Al-Futtaim. By 2015 only two John Little stores – at Plaza Singapura and Jurong Point – remained. Both outlets were shuttered in 2016, bringing John Little’s long and storied history to a close.[^24]<br>
 
-
-
-
-
-
-
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/author1.png">
+<b>Yap Jo Lin</b> is a Senior Archivist with the National Archives of Singapore. Her responsibilities include managing the archives’ collection of building plans.</div>
   
-
-
-
-
-
-  
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 #### Notes
-
 [^1]: Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Oxford University Press, 1984), 350. (From National Library, Singapore, call no. RSING 959.57 BUC)
 
 [^2]: Annabeth Leow, “John Little to Close Final Outlet at Plaza Singapura: 174 Years of History at a Glance,” _Straits Times_, 7 November 2016, https://www.straitstimes.com/singapore/john-little-to-close-final-outlet-at-plaza-singapura-174-years-of-history-at-a-glance.
@@ -185,3 +131,5 @@ After John Little moved out of its iconic Raffles Place building, it set up shop
 [^22]: [May Wong nee Hing (Mrs S K Wong)](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3ddeea93-115f-11e3-83d5-0050568939ad-OHC000093_008/web/html5/index.html), oral history interview by Liana Tan, 18 May 1982, transcript and MP3 audio, Reel/Disc 8 of 18, National Archives of Singapore ([accession no. 000093](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000093))
 
 [^23]: Chan Swan Bee, “[New Move at John Little](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600928-1.2.5),” _Singapore Free Press_, 28 September 1960, 1. (From NewspaperSG)
+
+[^24]: Joshua Chia and Shereen Tay, “[John Little](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1116_2010-06-14.html)”, in _Singapore Infopedia_. National Library Board Singapore. Article published November 2020.

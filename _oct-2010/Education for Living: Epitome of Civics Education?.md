@@ -149,10 +149,9 @@ Wendy D. Bokhorst-Heng, [_Language and Imagining the Nation in Singapore_](https
 			
 #### **NOTES**
 
-[^1]: This assumption continues to this day. See also Bokhorst-Heng, [_Language and Imagining_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12088159).
+[^1]: This assumption continues to this day. See Wendy D. Bokhorst-Heng, [_Language and Imagining the Nation in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12088159) &nbsp;(Toronto: University of Toronto, 1998). (Call no. RSING 306.44095957 BOK)
 
 [^2]: Leong was examining the problems faced by the conscript soldiers, and found that the failure of bilingual education was one of the contributing factors. Leong’s criticism of EFL meant also that bilingual education was not working as well as it should.
 
-[^3]: For an explanation of streaming and the New Education System, see Soon, [_Singapore’s New Education System_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590421).
-
+[^3]: For an explanation of streaming and the New Education System, see Soon Teck Wong, [_Singapore’s New Education System: Education Reform and National Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4590421) (Singapore: Institute of Southeast Asian Studies, 1988). (Call no. RSING 370.95957 SOO)
 

@@ -21,11 +21,14 @@ The passing of Dr Goh Keng Swee has sparked renewed interest in the wealth of li
 
 To begin with, a person’s autobiography would be the obvious place to look for information about a person, or failing that, a biography. In Dr Goh Keng Swee's case, although he declined to write his memoirs, his daughterin-law, Tan Siok Sun, published a biography of him, *Goh Keng Swee: A Portrait*, back in 2007. Tan's work is a sprinkling of personal vignettes blended into a narrative tracking Goh's career as drawn largely from published sources. This is in contrast with the more journalistic style employed by Asad-ul Iqbal Latif in his 2009 biography of Lim Kim San and, on the other end of the spectrum, Joan Hon's intensely personal 1984 account of her father, Hon Sui Sen.
 
-Another source would be the memoirs or biographies of colleagues and subordinates that mention their relationship with Dr Goh. For instance, Lee Kuan Yew’s *The Singapore Stor*y, Ngiam’s *A Mandarin and the Making of Public Policy*, Silcock’s *A History of Economics Teaching &amp; Graduates* or the recorded memories of opponents like his friend Eu Chooi Yip: *浪尖逐梦: 余柱业口述历史档案 *(2006).
-
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/LivingLegacy/Presentation1.jpg">
  <div style="background-color: white;">(Left) All rights reserved, 策略资讯研 究中心, 2006.<br> 
 (Right) All rights reserved, National University of Singapore, 1985.</div>
+
+Another source would be the memoirs or biographies of colleagues and subordinates that mention their relationship with Dr Goh. For instance, Lee Kuan Yew’s *The Singapore Stor*y, Ngiam’s *A Mandarin and the Making of Public Policy*, Silcock’s *A History of Economics Teaching &amp; Graduates* or the recorded memories of opponents like his friend Eu Chooi Yip: *浪尖逐梦: 余柱业口述历史档案 *(2006).
+
+<img src="/images/Vol%206%20Issue%203/LivingLegacy/Presentation3.jpg" style="width:100%;">
+ <div style="background-color: white;"> (Right) All rights reserved, NUS Press, 2009.<br> (Left) All rights reserved, Department of Social Welfare, Singapore, 1956.</div>
 
 Virtually all histories of post-war Singapore would mention Dr Goh's role in the development of Singapore's economy and many would also cover his development of the Singapore Armed Forces. For instance, Edwin Lee’s *Singapore: The Unexpected Nation* (2008) or Turnbull’s *A History of Modern Singapore, 1819—2005* (3rd ed., 2009). Many works about post-war Singapore, especially those dealing with Singapore’s economic development, mention Dr Goh's role as economic architect. Interestingly enough, one of the compilations about Singapore’s leaders made history in its own right: Melanie Chew's *Leaders of Singapore* (1996), which contains the account of her interview with Dr Goh. In this significant account, Dr Goh revealed to her that the separation from the Federation of Malaysia was not initiated by Malaysia as was conventionally believed at the time (p. 147).
 
@@ -34,10 +37,20 @@ Virtually all histories of post-war Singapore would mention Dr Goh's role in the
 
 For those interested in vignettes of Dr Goh, a good place to look happens to be the various commemorative volumes published by the different organisations Dr Goh touched. A good example of this would be the civil service's commemorative volume, *Pioneers Once More* in which Philip Yeo mentions that Dr Goh, his superior, actually drafted a policy memo for him! (Chua, 2010). ST Engineering's *UnChartered Territory* includes a section by Lai Chun Loong (Kuah, pp. 53–59), better known as the junior engineer who was summoned by Dr Goh to strip down a M16 rifle and separate locally manufactured from imported parts. On a different note, the recently published book on the PAP, *Men in White*, gives a dramatisation of the founding of the Malayan Forum.
 
+<img src="/images/Vol%206%20Issue%203/LivingLegacy/ideology.jpg" style="width: 50%;">
+ <div style="background-color: white;"> All rights reserved, ISEAS Publishing, 2010.
+</div>
+
 The study of Dr Goh’s ideas is just begun. One booklength work specifically on Dr Goh's ideas is Austin's *Goh Keng Swee and Southeast Asian Governance*. More comprehensive is the recent book by Dr Ooi Kee Beng, commissioned by the Institute of Southeast Asian Studies, *In Lieu of Ideology* (Ooi, 2010). An early work examining Dr Goh’s policies was published in 1964, regarding the development of Jurong Industrial Estate: *Go-ahead at Goh's Folly: Singapore's Gamble with Industrial Expansion*.
+
+<img src="/images/Vol%206%20Issue%203/LivingLegacy/Presentation3.jpg" style="width:100%;">
+ <div style="background-color: white;"> (Right) All rights reserved, NUS Press, 2009.<br> (Left) All rights reserved, Department of Social Welfare, Singapore, 1956.</div>
 
 
 #### **Speeches and Papers**
+
+<img src="/images/Vol%206%20Issue%203/LivingLegacy/GohKengSwee1995.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Federal Publications, 1995.</div>
 
 Turning to Dr Goh's personal philosophy and thoughts, we can leaf through the various speeches and papers he presented over the decades. Of obvious importance would be the three published compilations, two compiled by him (*The Economics of Modernization* published in 1972 and *The Practice of Economic Growth* published in 1977), and one compiled and edited by academic Linda Low (*Wealth of East Asian Nations* published in 1995). Here one can find a general survey of the depth and breadth of his thoughts on topics ranging from communism and economic growth, to education and building up the SAF. In fact, his preface to *The Economics of Modernization* was used three decades later in 2008 by the then Executive Director of Temasek Holdings, Simon Israel, to explain the core philosophy of Temasek Holdings to an American Congressional Committee:
 
@@ -144,4 +157,3 @@ Tan Siok Sun, [_Goh Keng Swee: A Portrait_](https://eservice.nlb.gov.sg/item_hol
 Thomas Silcock, [_A History of Economics Teaching &amp; Graduates: Raffles College and the University of Malaya in Singapore 1935–1960_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080083) (Singapore: Department of Economics &amp; Statistics, National University of Singapore, 1985). (Call no. RSING 378.5957 SIL)
 
 Willard A. Hanna, [_Go-Ahead at Goh’s Folly: Singapore’s Gamble With Industrial Expansion_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4378988) (New York: American Universities Field Staff Inc., 1964). (Call no. RCLOS 338.95951 HAN)
-
