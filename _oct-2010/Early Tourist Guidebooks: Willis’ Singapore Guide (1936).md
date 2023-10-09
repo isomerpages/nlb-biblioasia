@@ -68,6 +68,10 @@ Satay was already a popular snack, offered by itinerant vendors.[^28] Willis sug
 
 Describing the type of vehicles in Singapore, Willis keenly observes that “there are still features in \[the traffic\] which distinguish us from cities such as Tokio \[sic\] (where the rickshaw has practically been abolished, but where the bicycle seems to do what it likes), and Peking (where the rickshaw still reigns supreme). We have not got a problem which worries Shanghai — the hand-cart menace. Neither have we much slow-moving traffic drawn by horses or bullocks. There is, however, much to look at besides motor traffic: yet in a few years all our slow-moving traffic will have gone. We shall have become like any other great modern city.” (Willis, 1936, p. 110).
 
+<img src="/images/Vol%206%20Issue%203/WillisGuide/Gap%20Road.jpg" style="width:50%;">
+ <div style="background-color: white;">The Gap Road House advertisement (Willis, 1936, p. 156).
+</div>
+
 Unlike the orderly, controlled traffic of today, vehicles in Singapore of the 1930s wended their way through streets according to their own laws. In “places where there is no traffic control at all \[y\]ou will then appreciate the subtlety and the traffic sense of the Singapore driver. He seems to know instinctively what the rickshaw in front is going to do: he also knows that the wobbling fellow on the bicycle — though on the wrong side of the road — will not attempt to get on the correct side until after you have gone past. One will often think that one is going to be involved in a smash, but no smash has resulted because one’s driver and the other fellow seemed to know by instinct exactly what to do.”(Willis, 1936, pp. 111—112).
 
 Traffic was controlled manually and it was a hot and difficult task. Willis considers how the Traffic constables coped: “You may see a bicycle laden with drinking water and the constables being refreshed there from, and you will approve of this kind thought on the part of the authorities, as one can well imagine what it must be like to stand for an hour or two in the heat of the day with motor cars dashing past one within an inch or so of one’s body.” (Willis, 1936, p. 113).
