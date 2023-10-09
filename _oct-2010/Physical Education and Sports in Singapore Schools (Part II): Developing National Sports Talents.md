@@ -90,7 +90,7 @@ As part of the preparation for the YOG, MOE put in place initiatives for schools
 
 MOE’s efforts in encouraging sports and improving the standard of physical education does not stop at winning the bid to host the Games. In May this year, the ministry inaugurated a Youth Sports Conference and announced a new physical education and sports development framework that covers mass participation programmes, specialised sports programmes and talent development programmes for its students. Its mass participation programmes aim to instil knowledge and the right attitudes in students towards sports so that they will continue to lead healthy lifestyles even after they graduate. The specialised sports programmes are intended to develop students’ interests in either coaching, sports science or sports administration, to which they can contribute in future. The last initiative in this framework is to groom potential sportspersons who can represent Singapore internationally (“Sports for youth”, *The Straits Times*, 26 May 2010, p. B10). 
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/17236501%20-%2019_08_2010.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/17236501%20-%2019_08_2010.jpg">
  <div style="background-color: white;">Abdud Dayyan bin Mohamed Jaffar in action during the mixed team bronze medal archery match against Spain. <i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
 
 #### **Conclusion**
