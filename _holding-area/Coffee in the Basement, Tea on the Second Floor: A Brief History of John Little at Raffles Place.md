@@ -41,7 +41,8 @@ Another prominent feature of the new building was the gable, a triangular portio
 <div style="background-color: white;">The old (1885–1900, top) and new (c.1930, above) John Little buildings at Raffles Place – the new building had more floors and the arrangement of columns and archways on the ground floor was adjusted to allow for a more spacious feel. <i>Kwan Yue Keng Collection, courtesy of National Archives of Singapore (top), Lim Kheng Chye Collection, courtesy of National Archives of Singapore (above).</i></div>
 
  <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/1%20john%20little%20bp3.jpg">
-<div style="background-color: white;">This 1908 plan shows details of the top elevation of the John Little building, including the building’s distinctive gable.  <i>   Swan &amp; Maclaren Collection, courtesy of National Archives of Singapore (6(13)/1908).</i></div><br>
+<div style="background-color: white;">This 1908 plan shows details of the top elevation of the John Little building, including the building’s distinctive gable.  <i>   Swan &amp; Maclaren Collection, courtesy of National Archives of Singapore (6(13)/1908).</i></div>
+
 <b>Basement and Retail Space</b><br>
 The John Little building had four storeys, with the lowest floor (which was slightly below ground level) kept for back-of-house operations. The three upper storeys were dedicated to retail.
 
