@@ -1,8 +1,9 @@
 ---
 title: "About the Painters: Seeking the Unnamed Artists Behind Diard and
   Duvaucel's Natural History Drawings"
-permalink: /holding-area/about-the-painters/
+permalink: /art/2023/10/painters-diard-duvaucel-farquhar/
 description: ""
+image: /images/Online Only Articles/About the Painters/diard_duvaucel cover.JPG
 ---
 #### Natural history drawings might seem clinical and cold, but an unlikely medium pulls back the curtains to find the humanity behind them.
 By Chrystal Ho

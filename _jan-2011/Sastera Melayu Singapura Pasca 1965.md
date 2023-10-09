@@ -79,48 +79,47 @@ Although differing from other bodies of Malay literature in the region, Singapor
 <center><b>Juffri Bin Supa’at</b><br> Librarian<br>Lee Kong Chian Reference Library<br>National Library</center> </div>
 
 #### **RUJUKAN**
+      
+A R Kemalawati, “[Singapura Main Peranan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840329-1.2.87.11),” _Straits Times_, 29 March 1984, 4. (From NewspaperSG)
 
+Dehliez, _[Kuman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11488468)_ (Singapura: Pustaka Nasional, 2002). (Call no. RSING 899.283 DEH)
 
-A. R. Kemalawati. (1984, March 29). [Singapura main peranan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840329-1.2.87.11). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+Hadijah Rahmat, _Sastera Dan Manusia Melayu Baru. Kumpulan Esei &amp; Wawancara_ (Persatuan Wartawan Melayu Singapura, 1998)  
+  
+Harun Aminurrashid, _[Sultan Mahmud Shah Melaka](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183838)_ (Singapura: Pustaka Melayu, 1967). (Call no. Malay RSEA 899.13 HAR)
 
-Dehliez. (2002). [_Kuman_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11488468). Singapura: Pustaka Nasional. Call no.: RSING 899.283 DEH
+Harun Aminurrashid, _[Peristiwa Laksamana Cheng Ho ka-Melaka](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4140295)_ (Singapura: Pustaka Melayu, 1969). (Call no. Malay RCLOS 899.2305 HAR)
 
-Hadijah Rahmat. (1998). _Sastera dan manusia Melayu baru_. Kumpulan esei &amp; wawancara. Persatuan Wartawan Melayu Singapura.
+Haron A. Rahman, “[Muncul Generasi Penulis Berjiwa Ke Singapuraan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830118-1.2.197.8.2),”_Straits Times,_ 18 January 1983, 4. (From NewspaperSG)
 
-Harun Aminurrashid. (1967). _Sultan Mahmud Shah Melaka_. Singapura: Pustaka Melayu.
+Isa Kamari, _[Satu Bumi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9214039)_ (Singapura: Pustaka Melayu Publisher, 1998). (Call no. Malay RSING 899.28 ISA)
 
-Harun Aminurrashid. (1969). [_Peristiwa Laksamana Cheng Ho ka-Melaka_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4140295). Singapura: Pustaka Melayu. Call no.: RCLOS 899.2305 HAR
+Isa Kamari, _[Atas Nama Cinta](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12801985)_ (Kuala Lumpur: Al-Ameen Serve Holdings, 2006). (Call no. Malay RSING 899.283 ISA)
 
-Haron A. Rahman. (1983, January 18). [Muncul generasi penulis berjiwa keSingapuraan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830118-1.2.197.8.2). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
+Isa Kamari, _[Memeluk Gerhana](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12877827)_ (Kuala Lumpur: Al-Ameen Serve Holdings, 2007). (Call no. Malay R 899.283 ISA)
 
-Isa Kamari. (1998). [_Satu bumi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9214039). Singapura: Pustaka Melayu Publisher. Call no.: RSING 899.28 ISA
+Johar Buang, _[Kisah Seorang Zahid](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6529528)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1992). (Call no. Malay RSING 899.2305 JOH)
 
-Isa Kamari. (2006). [_Atas nama cinta_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12801985). Kuala Lumpur: Al-Ameen Serve Holdings. Call no.: RSING 899.283 ISA
+Junaidah Mohd Sali, _[Rindu Emilia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7029729)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1994(. (Call no. Malay RSING S899.2305 JUN)
 
-Isa Kamari. (2007). [_Memeluk gerhana_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12877827). Kuala Lumpur: AlAmeen Serve Holdings. Call no.: R 899.283 ISA
+Majlis Pusat Pertubuhan-pertubuhan Budaya Melayu Singapura, _[Sedekad Hadiah Sastera 1973­­­–83](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078152)_ (Singapura: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura, 1983). (Call no. Malay RSING q899.2300625957 SED)
 
-Johar Buang. (1992). [_Kisah seorang zahid_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6529528). Kuala Lumpur: Dewan Bahasa dan Pustaka. Call no.: RSING 899.2305 JOH
+Mana Sikana, _[Sastera Singapura Dan Malaysia Di Era Pascamoden](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11902188)_ (Singapura: Persama Enterprise, 2003). (Call no. Malay RSING 899.288 MAN)
 
-Junaidah Mohd Sali. (1994). [_Rindu Emilia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7029729). Dewan Bahasa dan Pustaka, Kuala Lumpur. Call no.: RSING S899.2305 JUN
+Mas, _[Adam Kena Hujan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4117803)_ (Kuala Lumpur: Marican, 1966). (Call no. Malay RCLOS 899.232 MAS)
 
-Majlis Pusat Pertubuhan-pertubuhan Budaya Melayu Singapura. (1983). [_Sedekad hadiah sastera 1973—83_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078152). Singapura: Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura. Call no.: RSING q899.2300625957 SED
+Mas, _[Mail Mau Kawin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4140469)_ (Singapura: Pustaka Nasional, 1976). (Call no. Malay RSING S899.2305 MAS)
 
-Mana Sikana. (2003). [_Sastera Singapura dan Malaysia di era pascamoden_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11902188). Singapura: Persama Enterprise. Call no.: RSING 899.288 MAN
+S. N. Masuri, _[Bunga Pahit: Kumpulan Kedua Dari Suara Dan Dichara, Sajak-Sajak ilihan 1957–60](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4120231)_ (Kuala Lumpur: Oxford University Press, 1967). (Call no. Malay RCLOS 899.2305 MAS)
 
-Mas. (1966). [_Adam kena hujan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4117803). Kuala Lumpur: Marican. Call no.: RCLOS 899.232 MAS
+Mohd Ikhlash Abdullah, _[Kesal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11721573)_ (Singapore: Pustaka Nasional, 2002). (Call no. Malay RSING 899.283 MOH)
 
-Mas. (1976). [_Mail mau kawin_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11037699). Singapura: Pustaka Nasional. Call no.: RSING q899.283 MUH
+Mohd Latiff Mohd and Gunawan Jasmin, _[Dua Persimpangan: Satu Antologi Cerpen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4140214)_ (Singapura: Solo Enterprises, 1977). (Call no. Malay RSING S899.2305 MUH)
 
-Masuri S.N. (1967). [_Bunga pahit_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4120231). Kuala Lumpur: Oxford University Press. Call no.: RCLOS 899.2305 MAS
+Mohd Latiff Mohd, “[Dua Penulis Muda Selepas 1965](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821214-1.2.142.6.1),” _Straits Times_, 14 December 1982, 24. (From NewspaperSG)
 
-Mohd Ikhlash Abdullah. (2002). [_Kesal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13225697). Singapura: Pustaka Nasional. Call no.: RCLOS 899.283 MOH
+Mohd Latiff Mohd, “[Hasil Karya Sastera Melayu Lepas 1965](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821130-1.2.158.31.2),” _Straits Times,_ 30 November 1982, 4\. (From NewspaperSG)
 
-Mohd Latiff Mohd &amp; Gunawan Jasmin. (1977). [_Dua persimpangan: Satu antologi cerpen_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4140214). Singapura: Solo Enterprises. Call no.: RSING S899.2305 MUH
+Mohd Rafi Abu Bakar, _[Nazri Aswandi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7029732)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1994). (Call no. Malay RSING S899.2305 MOH)
 
-Mohd Latiff Mohd. (1982, December 14). [Dua penulis muda selepas 1965](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821214-1.2.142.6.1). _The Straits Times_, p. 24. Retrieved from NewspaperSG.
-
-Mohd Latiff Mohd. (1982, November 30). [Hasil karya sastera Melayu lepas 1965](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821130-1.2.158.31.2). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
-
-Mohd Rafi Abu Bakar. (1994). [_Nazri Aswandi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7029732). Kuala Lumpure: Dewan Bahasa. Call no.: RSING S899.2305 MOH
-
-Singapore. Perpustakaan Negara. Cawangan Toa Payoh. Sudut Penulis. (1985). [_Gema Pustaka 5_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5278228). (1985). Singapura: Perpustakaan Negara Singapura. Call no.: RSING qS899.23008105 GEM
+Singapore. Perpustakaan Negara. Cawangan Toa Payoh. Sudut Penulis, _[Gema Pustaka 5](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5278228)_ (Singapura: Perpustakaan Negara Singapura, 1985). (Call no. Malay RSING qS899.23008105 GEM)
