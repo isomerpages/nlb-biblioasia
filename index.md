@@ -799,4 +799,15 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Seeking the Unnamed Artists of Diard & Duvaucel's Drawings
+      subtitle: Art
+      id: infopic
+      description: Natural history drawings might seem clinical and cold, but an
+        unlikely medium pulls back the curtains to find the humanity behind
+        them.
+      button: Naming the Unnamed
+      url: /art/2023/10/painters-diard-duvaucel-farquhar/
+      image: /images/Online Only Articles/About the Painters/diard_duvaucel cover1.jpg
+      alt: About the Painters
 ---
