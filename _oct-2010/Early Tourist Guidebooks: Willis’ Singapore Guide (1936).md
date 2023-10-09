@@ -34,7 +34,7 @@ Under his able and fun-loving leadership, there was a “glut of games”[^18] a
 
 Since Willis began work at the Marine Hostel in 1929, he had taken sailors around for tours of the city and beyond Singapore’s boundaries.[^22] At Johore they would visit pineapple farms, the Gunong Pulai water falls and Pontian Ketchil reservoir.[^23] In the 1930s, sometimes as many as a few hundred sailors would take the tour organised by the Seamen’s Institute.[^24] For example, in 1936, Willis took 700 American sailors from the United States Asiatic Fleet on tour through Singapore and beyond to Johore, Kota Tinggi and Pelepah Valley.[^25] Even as late as 1941, he accompanied sailors to Kota Tinggi where enroute, they stopped by pineapple plantations and rubber factories as well as tin mines.[^26] Willis’ passion and keen interest in travelling around Singapore and the Malay Peninsula gave shape to the *Guide* which he published on his own account.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%203/WillisGuide/Kota%20Tinggi%20Waterfalls.jpg">
+<img style="width:1-00%;" src="/images/Vol%206%20Issue%203/WillisGuide/Kota%20Tinggi%20Waterfalls.jpg">
  <div style="background-color: white;">Kota Tinggi Waterfalls (Willis, 1936, p. 156)</div>
 
 #### **A sailor's Insight**
