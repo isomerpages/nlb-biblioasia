@@ -7,7 +7,7 @@ description: Kwa Chong Guan from the S. Rajaratnam School of International
 #### _Kwa Chong Guan_&nbsp;from the S. Rajaratnam School of International Studies remembers the legacy, contributions, and impact of Dr Goh Keng Swee.
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Radio%20Singapore%20Forum1.jpg">
- <div style="background-color: white;">Dr Goh and Mr Lin You Eng touring the fire-ravaged Kampong Tiong Bahru area immediately after the disaster in 1961. <i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
+ <div style="background-color: white;">Then Prime Minister Lee Kuan Yew with Dr Goh and members of the opposition parties taking part in a radio Singapore forum on merger referendum, 1962.<i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
 
 Prime Minister Lee Hsien Loong declared in his eulogy at the state funeral for Dr Goh Keng Swee that “Dr Goh was one of our nation’s founding fathers.… A whole generation of Singaporeans has grown up enjoying the fruits of growth and prosperity, because one of our ablest sons decided to fight for Singapore’s independence, progress and future.” How do we remember a founding father of a nation? Dr Goh Keng Swee left a lasting impression on everyone he encountered. But more importantly, he changed the lives of many who worked alongside him and in his public career initiated policies that have fundamentally shaped the destiny of Singapore.
 
@@ -42,8 +42,8 @@ Dr Goh’s contribution to laying the foundations of Singapore’s economic grow
 
 Dr Goh’s role in Singapore’s political development will probably be remembered in the context of how he was able to envision the impact that politics could have upon Singapore’s economic development and how it should then be managed for economic growth. Unlike his colleagues, Dr Goh did not seem as active in the vanguard of the ideological charge against colonialism or communism. He will be remembered more as the backroom strategist, planning Singapore’s long political futures to complement the economic growth he was driving. Dr Goh’s rationale for joining Malaysia was largely, if not entirely, an economic imperative of a common market for Singapore’s economic survival. He will now be remembered as leading the initiative for separation as it became increasingly clear that a common market in Malaysia was not going to be forthcoming.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Radio%20Singapore%20Forum1.jpg">
- <div style="background-color: white;">Then Prime Minister Lee Kuan Yew with Dr Goh and members of the opposition parties taking part in a radio Singapore forum on merger referendum, 1962. <i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
+<img style="width:80%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Fire%20Ravaged%20Kampong%20Tiong%20Bahru1.jpg">
+ <div style="background-color: white;">Dr Goh and Mr Lin You Eng touring the fire-ravaged Kampong Tiong Bahru area immediately after the disaster in 1961. <i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
 
 Post 1965, Dr Goh’s role broadened to include the defence and education portfolios and he displayed his versatility as not only an economic architect, but also a social architect[^4] who laid the foundations of Singapore’s identity as a citystate. As in the pre—1965 era, Dr Goh’s capacity for the lateral thinking of Singapore’s future as a city-state and its place in a tumultuous region is what many of us recall. We also remember Dr Goh’s ability to go beyond solving the immediate problem of how to start-up the armed forces or restructure the education system, instead conceiving defence as more than a military issue or understanding education as being about knowledge generation rather than rote learning.
 
@@ -119,9 +119,3 @@ University</center></div>
 [^8]: Melanie Chew, [_Leaders of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7647597) (Singapore: Resource Press, 1996). (Call no. RSING q920.05957 CHE). The book is a series of 38 life histories of persons Melanie Chew considers to have led Singapore in the post-1945 years. Most of the life histories are reflected as transcripts of oral history interviews with the leaders themselves, except for four early leaders who had passed on. As such, their life histories were reconstructed from interviews with those who knew them.
 
 [^9]: In this context, what we are reading in Chew’s transcript of her interview with Dr Goh is not Dr Goh’s inability to recall what happened in the weeks leading up to 9 August 1965, but a sieving and shifting of his memories to make moral choices and political judgments of what he believes should be revealed for a revision of Singapore’s history. Lee Kuan Yew in his memoirs and funeral oration for Dr Goh also recalls that he, Dr Goh and Tun Razak were key actors in the move to separate Singapore from Malaysia. In doing this, Lee is also reshaping and reworking his memories from his present vantage point. The oral history interview is therefore not a passive retrieval of information from the interviewee’s memory, but an active process of challenging the interviewee to review, and if necessary, reconfigure his memories of his past from the vantage point of his present.
-
-
-
-
-
-
