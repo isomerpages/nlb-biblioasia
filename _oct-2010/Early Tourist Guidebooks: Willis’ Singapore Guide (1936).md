@@ -52,6 +52,9 @@ Again, with deference to the seaman’s perspective and budget, besides a listin
 
 Woven through his descriptions of places, Willis, ever the connoisseur of local cuisine, often mentions an eatery, its recommended house dishes and the restaurant’s unique ambience. Raffles Place, John Little and Robinsons’ were the main shopping haunts but Willis cannot resist noting that "\[at\] each is a comfortable lounge café, where one may indulge in tea, coffee, ices, alcoholic and other drinks in cool and restful ease. They also supply luncheons and light refreshments.” (Willis, 1936, p. 85). Even describing the shops along Battery Road, Willis slips in a note on “G. H.” Café, “an excellent place at which to get your luncheon and have that ‘one for the road’ before returning to the ship.” (Willis, 1936, p. 91).
 
+<img src="/images/Vol%206%20Issue%203/WillisGuide/Adelphi%20Hotel.jpg" style="width:100%;">
+ <div style="background-color: white;">Adelphi Hotel (Willis, 1936, p. 31).</div>
+
 Local food is also highlighted as he recommends the Oi Mee hotel for its good Chinese dinner (Willis, 1936, p. 40).
 
 An entire chapter is dedicated to the Satai (Satay) Club, located along Beach Road between the Singapore Drill Hall and the Marlborough Picture Theatre (Shaw Towers). That it is mentioned in Willis’ 1936 guide quashes the commonly held belief that the Beach Road Satay Club was set up in post-war Singapore. This assumption may have arisen when the club relocated to Dhoby Ghaut in the 1950s because of frequent accidents occurring at the nearby Tay Koh Yat Bus Co terminus but poor business at that location led the Satay Club to return to Hai How Road (no longer in existence) where it had originally begun.[^27]
@@ -239,6 +242,3 @@ Wong Ah Yoke, “[Satay Clubs in the Past](http://eresources.nlb.gov.sg/newspape
 [^31]: “[The Sights](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490407-1.2.76).” &nbsp;
 
 [^32]: “[Seaman’s Friend Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89).”
-
-
-
