@@ -95,7 +95,13 @@ MOE’s efforts in encouraging sports and improving the standard of physical edu
 
 #### **Conclusion**
 
+<img src="/images/Vol%206%20Issue%203/PhysicalEducation/17281505%20-%2023_08_2010%20less%20red.jpg" style="width:50%;">
+ <div style="background-color: white;">Isabelle Li won the silver medal in the Youth Olympic Games (YOG) table tennis girls' singles final.<i> The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
+	
 Since the first physical education lessons were conducted in our schools, the seeds of sportsmanship and the goal of “*Citius*, *Altius*, *Fortius*” (Olympic motto in Latin, “Faster, Higher, Stronger”) have been planted. The success of the bid to host the Youth Olympic Games is not solely owed to the bidding committee's efforts, nor is it merely due to Singapore’s present economic political stability. The long road that Singapore has journeyed to prepare its people to earn the privilege to host the Games can be traced to the inception of sports and games in schools, and to Singaporean's determination to excel.
+
+<img src="/images/Vol%206%20Issue%203/PhysicalEducation/17215683%20-%2017_08_2010.jpg" style="width:50%;">
+ <div style="background-color: white;">Singapore's taekwondo athlete, Nurul Shafinas Abdul Rahman (right), at the semi-final match during the YOG 2010. She won a bronze medal in the girls 55kg competition.<i> The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
 
 In the years preceding Singapore’s independence, the progress of physical education and sports training in schools had been slow. It was only after independence that a national agenda made it mandatory for all schools to follow a formal Physical Education curriculum. As a result, schools became centres of sports and games development. In some instances, school teams and sportspersons also represented the country on its national team. This historical symbiotic relationship between physical education and sports training in schools, and the national sporting scene has been underscored by the Ministry of Education’s involvement in the Youth Olympic Games. In this context, the National Library is privileged to have in its collection many of the curricula text and teachers’ guides on Physical Education and programmes for sporting meets. Collectively, they form a documented memory of Singapore’s sporting and education history.
 
