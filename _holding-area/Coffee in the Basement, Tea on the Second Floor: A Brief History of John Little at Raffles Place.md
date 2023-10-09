@@ -81,7 +81,6 @@ In 1955, Robinsons bought over John Little, although John Little continued to op
 After John Little moved out of its iconic Raffles Place building, it set up shop in various locations (such as Specialists’ Shopping Centre). The department store later moved into the heartlands, establishing itself in suburban malls such as Compass Point, White Sands, Tiong Bahru Plaza and Jurong Point. In 2007, the John Little flagship store moved out of Specialists’ Shopping Centre to Marina Square. A year later, Robinson &amp; Co. was bought over by Dubai-based conglomerate Al-Futtaim. By 2015 only two John Little stores – at Plaza Singapura and Jurong Point – remained. Both outlets were shuttered in 2016, bringing John Little’s long and storied history to a close.[^24]<br>
 
 <div style="background-color: white;">
-<br>
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/author1.png">
 <b>Yap Jo Lin</b> is a Senior Archivist with the National Archives of Singapore. Her responsibilities include managing the archives’ collection of building plans.</div>
   
