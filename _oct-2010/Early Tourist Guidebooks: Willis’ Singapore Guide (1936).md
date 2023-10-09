@@ -43,7 +43,7 @@ The guide begins with a brief historical prelude and proceeds to focus on the nu
 
 For example, he highlights the services provided and the role of the authorities that initially board the ship upon berthing. The police are the first to enter and inspect passports. They are followed by Indian money changers whom Willis suggests give better rates than those on shore. Then come hotel runners and baggage porters who offer to take one’s luggage safely to one’s preferred residence or hotel for a charge of merely 10 cents for each piece of luggage carried off the ship and an added 10 cents to accompany it to its destination.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%203/WillisGuide/Presentation1.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%203/WillisGuide/Presentation1.jpg">
  <div style="background-color: white;">(Left) Baggage service advertisement (Willis, 1936, p. 156)<br> (Right) Sunnyside boarding house advertisement (Willis, 1936, p. 36) </div>
 
 Again, with deference to the seaman’s perspective and budget, besides a listing of well-known hotels, the guide also recommends several boarding houses like Sunnyside on Oxley Road, Whitehall on Cairnhill Road and Morningside on River Valley. Advertisements of these quaint boarding houses are accompanied by photographs and further details of their proprietors and the services they provide.
