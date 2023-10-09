@@ -74,8 +74,7 @@ Regardless of the fallout from a liberal immigration policy and where foreign ta
  <div style="background-color: white;">Pictures from the 2006 and 2010 Total Defence campaigns. <i>Courtesy of Ministry of Defence, Singapore.
 </i></div>
 
-As Singapore matures as a nation and new challenges are identified, the concept of national resilience will become increasingly important in ensuing national security.[^16] While traditionally the government had assumed almost total responsibility for national security, with the launch of Total Defence and later, a national-resilience approach. a whole-of-society pillar has been added to the whole-of-government strategy. While the govemment can undertake the 'hardening' of critical infrastructures to ensure that key identifiable systems are protected from attacks. at the same time, by 'hardening the populace' — the 'soft anchor' of society. national resilience will be ensured. This will take a long time and every crisis successfully managed merely affirms the strengthening of national resilience as it signals that psychological, social and economic resilience has been tested and proves to be strong. The 'we can do it' aspect will be strengthened as will the 'we shall overcome' spirit. Still, national resilience, like nation building, will always be a work-in-progress. How the political elites galvanise the people will greatly impact the robustness of the society's resilience. Since independence, Singapore's national resilience has been strengthened and a sense of patriotism steadily imbued. The recognition that all are important stakeholders in this national enterprise. merely confirms that national resilience is successful in making the state that much stronger. If successfully undertaken, it would also be a powerful deterrent to anyone who may want to harm the Republic as the people's instincts to defend, self-sacrifice and recover from adversity will 
-help to diffuse the threat of such attempts.
+As Singapore matures as a nation and new challenges are identified, the concept of national resilience will become increasingly important in ensuing national security.[^16] While traditionally the government had assumed almost total responsibility for national security, with the launch of Total Defence and later a national-resilience approach, a whole-of-society pillar has been added to the whole-of-government strategy. While the government can undertake the “hardening” of critical infrastructures to ensure that key identifiable systems are protected from attacks, at the same time, by “hardening the populace” – the “soft anchor” of society, national resilience will be ensured. This will take a long time and every crisis successfully managed merely affirms the strengthening of national resilience as it signals that psychological, social and economic resilience has been tested and proves to be strong. The “we can do it” aspect will be strengthened, as will the “we shall overcome” spirit. Still, national resilience, like nation-building, will always be a work-in-progress. How the political elites galvanise the people will greatly impact the robustness of the society’s resilience. Since independence, Singapore’s national resilience has been strengthened and a sense of patriotism steadily imbued. The recognition that all are important stakeholders in this national enterprise merely confirms that national resilience is successful in making the state that much stronger. If successfully undertaken, it would also be a powerful deterrent to anyone who may want to harm the Republic as the people’s instincts to defend, self-sacrifice and recover from adversity will help to diffuse the threat of such attempts.
 
 <br>
 <div style="background-color: white;">
@@ -109,23 +108,23 @@ K.U. Menon, “National Resilience: From Bouncing Back to Prevention,” _Ethos_
 
 Michael Hill and Lian Kwen Fee, _[The Politics of Nation Building and Citizenship in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7380199)_. (London: Routledge, 1995). (Call no. RSING 306.095957 HIL)
 
-Norman Vasu, ed., _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007), 51–67 (Call no. RSING 305.80095957 SOC)
+Norman Vasu, ed., _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_ (Singapore: Select Publishing, 2007), 51–67 (Call no. RSING 305.80095957 SOC)
 
 Norman Vasu, “(En)countering Terrorism: Multiculturalism and Singapore,” _Asian Ethnicity_ 9, no. 1 (2008): 17–32.
 
 Speech by PM Lee Hsien Loong at the National CEDP Dialogue 2011, _Singapore United_, 19 March 2011.
 
-Yolanda Chin and Norman Vasu, "Pledging Ourselves as One United People: A Study of Social Resilience in Singapore," (Centre of Excellence for National Security, S. Rajaratnam School of International Studies, Nanyang Technological University, 8 February 2010)
+Yolanda Chin and Norman Vasu, "Pledging Ourselves as One United People: A Study of Social Resilience in Singapore," Centre of Excellence for National Security, S. Rajaratnam School of International Studies, Nanyang Technological University, 8 February 2010.
 
-Yolanda Chin, ‘Reviewing National Education: Can the Heart be Taught where the Home is?” in _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007). (Call no. RSING 305.80095957 SOC)
+Yolanda Chin, “Reviewing National Education: Can the Heart Be Taught Where the Home Is?” in _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007). (Call no. RSING 305.80095957 SOC)
 
 #### **NOTES**
 
-[^1]: Chan Heng Chee, _[Singapore: The Politics of Survival, 1965–1967](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200001091)_ (Singapore: Oxford University Press, 1971). (From PublicationSG). Using ‘survival ideology’ as the key approach to governance, values such as ruggedness, racial and religious tolerance, acceptance of change and sacrifice were imbued, signalling a ‘life and death’ struggle, where doing the wrong things could prove terminal for the newly born state.
+[^1]: Chan Heng Chee, _[Singapore: The Politics of Survival, 1965–1967](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200001091)_ (Singapore: Oxford University Press, 1971). (From PublicationSG). Using “survival ideology” as the key approach to governance, values such as ruggedness, racial and religious tolerance, acceptance of change and sacrifice were imbued, signalling a “life and death” struggle, where doing the wrong things could prove terminal for the newly born state.
 
-[^2]: Anne Speckhard, “Civil Society’s Response to Mass Terrorism: Building Resilience” in Combating Terrorism – Military and Non Military Strategies, in Rohan Gunaratna (ed.), Singapore: Eastern Universities Press, 2004. W. (Trans) (1977). _[Notes on the History of Malayan Chinese New Literature, 1920–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1428205)_, ed. Kazuo Enoki. (Tokyo: Centre for East Asian Cultural Studies). (Call no. RSEA 895.1 FAN)
+[^2]: Anne Speckhard, “Civil Society’s Response to Mass Terrorism: Building Resilience” in Combating Terrorism – Military and Non Military Strategies, in Rohan Gunaratna (ed.), Singapore: Eastern Universities Press, 2004. _[Notes on the History of Malayan Chinese New Literature, 1920–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1428205)_, ed. Kazuo Enoki. (Tokyo: Centre for East Asian Cultural Studies). (Call no. RSEA 895.1 FAN)
 
-[^3]: Elgin Brunner and Jennifer Giroux, _Examining Resilience: A Concept to Improve Societal Security and Technical Safety_. Zurich: Crisis and Risk Network, Centre for Security Studies, 2009), 6—11.
+[^3]: Elgin Brunner and Jennifer Giroux, _Examining Resilience: A Concept to Improve Societal Security and Technical Safety_. Zurich: Crisis and Risk Network, Centre for Security Studies, 2009), 6–11.
 
 [^4]: Ingrid Schoon, _Risk and Resilience: Adaptations in Changing Times_ (London, Cambridge University Press, 2006), 7.
 
@@ -135,20 +134,20 @@ Yolanda Chin, ‘Reviewing National Education: Can the Heart be Taught where the
 
 [^7]: Michael Hill and Lian Kwen Fee, _[The Politics of Nation Building and Citizenship in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7380199)_. (London: Routledge, 1995). (Call no. RSING 306.095957 HIL)
 
-[^8]: Hill and Lian, _[Politics of Nation Building and Citizenship](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7380199)_, 104–5.
+[^8]: Hill and Lian, _[Politics of Nation Building and Citizenship](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7380199)_, 104–05.
 
 [^9]: See Bilveer Singh, “A Small State’s Quest for Security: Operationalising Deterrence in Singapore’s Strategic Thinking,” in _[Imagining Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896)_, 2nd ed., ed. Ban Kah Choon, Anne Pakir and Tong Chee Kiong &nbsp;(Singapore: Eastern Universities Press, 2004), 114–5. (Call no. RSING 959.57 IMA)
 
 [^10]: Chan Heng Chee, _[Nation-Building in Southeast Asia: The Singapore Case](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079350)_ (Singapore: Institute of Southeast Asian Studies, 1971). (Call no. RCLOS 320.95957 CHA)
 
-[^11]: Singh, “[A Small State’s Quest for Security](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896),” 128–9.
+[^11]: Singh, “[A Small State’s Quest for Security](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896),” 128–29.
 
 [^12]: K.U. Menon, “National Resilience: From Bouncing Back to Prevention,” _Ethos_ (January–March 2005): 14–17.
 
-[^13]: See Gillian Koh, “Social Resilience and its Bases in Multicultural Singapore”, in _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007), 27–50 (Call no. RSING 305.80095957 SOC); Chua Beng Huat, “Multiculturalism as Official Policy: A Critique of the Management of Difference in Singapore,” in _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007), 51–67 (Call no. RSING 305.80095957 SOC); Yolanda Chin, ‘Reviewing National Education: Can the Heart be Taught where the Home is?” _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007), 81–96. (Call no. RSING 305.80095957 SOC)
+[^13]: See Gillian Koh, “Social Resilience and Its Bases in Multicultural Singapore”, in _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007), 27–50. (Call no. RSING 305.80095957 SOC); Chua Beng Huat, “Multiculturalism as Official Policy: A Critique of the Management of Difference in Singapore,” in _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007), 51–67 (Call no. RSING 305.80095957 SOC); Yolanda Chin, “Reviewing National Education: Can the Heart be Taught Where the Home Is?” _[Social Resilience in Singapore: Reflections from the London Bombings](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12881122)_, ed. Norman Vasu (Singapore: Select Publishing, 2007), 81–96. (Call no. RSING 305.80095957 SOC)
 
 [^14]: See Norman Vasu, “(En)countering Terrorism: Multiculturalism and Singapore,” _Asian Ethnicity_ 9, no. 1 (2008): 17–32.
 
-[^15]: See Yolanda Chin and Norman Vasu, _Pledging Ourselves as One United People: A Study of Social Resilience in Singapore_, (Centre of Excellence for National Security, S. Rajaratnam School of International Studies, Nanyang Technological University, 8 February 2010)
+[^15]: See Yolanda Chin and Norman Vasu, _Pledging Ourselves as One United People: A Study of Social Resilience in Singapore_, (Centre of Excellence for National Security, S. Rajaratnam School of International Studies, Nanyang Technological University, 8 February 2010).
 
 [^16]: For example, the speech by Prime Minister Lee Hsien Loong at the National Community Engagement Programme Dialogue, 19 March 2011.
