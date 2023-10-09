@@ -21,11 +21,15 @@ The passing of Dr Goh Keng Swee has sparked renewed interest in the wealth of li
 
 To begin with, a person’s autobiography would be the obvious place to look for information about a person, or failing that, a biography. In Dr Goh Keng Swee's case, although he declined to write his memoirs, his daughterin-law, Tan Siok Sun, published a biography of him, *Goh Keng Swee: A Portrait*, back in 2007. Tan's work is a sprinkling of personal vignettes blended into a narrative tracking Goh's career as drawn largely from published sources. This is in contrast with the more journalistic style employed by Asad-ul Iqbal Latif in his 2009 biography of Lim Kim San and, on the other end of the spectrum, Joan Hon's intensely personal 1984 account of her father, Hon Sui Sen.
 
-Another source would be the memoirs or biographies of colleagues and subordinates that mention their relationship with Dr Goh. For instance, Lee Kuan Yew’s *The Singapore Stor*y, Ngiam’s *A Mandarin and the Making of Public Policy*, Silcock’s *A History of Economics Teaching &amp; Graduates* or the recorded memories of opponents like his friend Eu Chooi Yip: *浪尖逐梦: 余柱业口述历史档案 *(2006).
-
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/LivingLegacy/Presentation1.jpg">
  <div style="background-color: white;">(Left) All rights reserved, 策略资讯研 究中心, 2006.<br> 
 (Right) All rights reserved, National University of Singapore, 1985.</div>
+
+Another source would be the memoirs or biographies of colleagues and subordinates that mention their relationship with Dr Goh. For instance, Lee Kuan Yew’s *The Singapore Stor*y, Ngiam’s *A Mandarin and the Making of Public Policy*, Silcock’s *A History of Economics Teaching &amp; Graduates* or the recorded memories of opponents like his friend Eu Chooi Yip: *浪尖逐梦: 余柱业口述历史档案 *(2006).
+
+<img src="/images/Vol%206%20Issue%203/LivingLegacy/Presentation3.jpg" style="width:100%;">
+ <div style="background-color: white;"> (Right) All rights reserved, NUS Press, 2009.<br> (Left) All rights reserved, Department of Social Welfare, Singapore, 1956.</div>
+
 
 Virtually all histories of post-war Singapore would mention Dr Goh's role in the development of Singapore's economy and many would also cover his development of the Singapore Armed Forces. For instance, Edwin Lee’s *Singapore: The Unexpected Nation* (2008) or Turnbull’s *A History of Modern Singapore, 1819—2005* (3rd ed., 2009). Many works about post-war Singapore, especially those dealing with Singapore’s economic development, mention Dr Goh's role as economic architect. Interestingly enough, one of the compilations about Singapore’s leaders made history in its own right: Melanie Chew's *Leaders of Singapore* (1996), which contains the account of her interview with Dr Goh. In this significant account, Dr Goh revealed to her that the separation from the Federation of Malaysia was not initiated by Malaysia as was conventionally believed at the time (p. 147).
 
