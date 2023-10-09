@@ -98,10 +98,10 @@ Most interesting is his description of the Ponggol Zoo, also known as the Singap
 
 “(The Malay trapper) has a coffin like arrangement which is made of bamboo, strung together. The dog is placed at one end, and the coffin is tilted; along comes Mr. Tiger, and tries to get at the dog; immediately he is inside the trap, it falls on him, and he is not able to get out. The falling of the trap releases the dog, which escapes to its home. The trappers then know they have a capture. This method is not always a success so far as the dog is concerned; should the Tiger arrive with any of his friends, the dog will have very little chance of getting away.” (Willis, 1936, p. 120)
 
-<img src="/images/Vol%206%20Issue%203/WillisGuide/Solo%20air.jpg">
- <div style="background-color: white;">Solo-air advertisement (Willis, 1936, p. 72).
+<img src="/images/Vol%206%20Issue%203/WillisGuide/Solo%20air.jpg" style="width:50%;">
+<div style="background-color: white;">Solo-air advertisement (Willis, 1936, p. 72).
 </div>
-
+	
 During the late 1930s, the Zoo rapidly increased in size and variety of animals, with animal exchanges made with zoos from Australia, the Americas and other key zoos worldwide. The animals included roaring lions, barking seals and purring panthers and covered various kinds of birds, mammals and reptiles. The private enterprise thus transformed the muddy area of Ponggol, which was overgrown by bushes, into well-laidout manicured gardens with a menagerie of caged animals. The zoo was a popular venue for families and visitors alike and Willis often brought his sailors on tour for a mandatory stop here. Between 1940 and 1941, *The Straits Times* published Barbara Murray’s *Winkleday Adventures*, a series of imaginative animal stories set in the Ponggol Zoo.
 
 #### **Industries and Inventions**
