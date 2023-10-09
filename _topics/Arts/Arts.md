@@ -4,6 +4,12 @@ permalink: /topics/art/
 description: ""
 third_nav_title: Arts
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/arts/2023/10/painters-diard-duvaucel-farquhar/">   
+About the Painters: Seeking the Unnamed Artists Behind Diard and Duvaucel's Natural History Drawings</a>
+ <p>Natural history drawings might seem clinical and cold, but an unlikely medium pulls back the curtains to find the humanity behind them.</p> 
+ <img style="width:100%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/diard_duvaucel%20cover1.jpg"> 
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals"> The Forgotten Murals of Paya Lebar Airport</a>
  <p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p> 
  <img style="width:100%;" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> 
