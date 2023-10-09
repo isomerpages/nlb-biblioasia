@@ -48,8 +48,8 @@ This series of seminars led to the genesis of the Singapore Physical Education A
 
 The achievements in sports competitions and higher standards in physical education would not have been possible without the developments in the administrative structures. The English, Malay and Chinese Schools Sports Councils were already formed before World War II. On 20 May 1947, more than fifty representatives from various sporting associations in Singapore met to deliberate on the founding of a Singapore Olympic and Sports Council (SOSC) (*The Straits Times*, 21 May 1947, p. 8). The Singapore Olympic and Sports Council was officially formed on 27 May 1947 (“Olympic Council is Formed Today”, *The Straits Times*, 27 May 1947, p. 12). This was Singapore’s first step towards participating in the Olympics.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/Physical%20Fitness.jpg">
- <div style="background-color: white;">Guidelines for physical fitness scoring and award for primary, secondary &amp; pre-university levels. <i>All rights reserved, Singapore Sports Council, 1981.</i></div>
+<img style="width:100%;" src="/images/Vol%206%20Issue%203/PhysicalEducation/presentation2.jpg">
+ <div style="background-color: white;">Souvenir publications for annual athletic championships. <i>All rights reserved, Singapore Combined Secondary Schools' Sports Council, 1965–1968.</i></div>
 
 In 1957, the Indian Schools Sports Council was finally established (AR, 1955—57, p. 34). Immediately, the Council planned the first Inter-Indian Schools Football Competition and the first Inter-Indian Schools Athletics Meet in 1958 (AR, 1957, p. 34). In November 1959, when the Education Advisory Council was set up (AR, 1959, p. 2), one of the standing committees formed was the Committee on Physical Education. Another milestone that occurred that year, was the founding of the Singapore Combined Schools Sports Council (SCSSC, Lembaga Sukan Sekolah-Sekolah Menengah Singapura) with Mr Joseph David, appointed as its first advisor (SSSC, *Celebrating*, p. 16).
 
