@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-2/jul-sep-2023/history-pasir-ris/
-      button: Bridging Past and Present in Pasir Ris
+      url: /vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/
+      button: "32 Binjai Park: The Modernist Home of an Architect"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 2/Pasir Ris/pasir_ris_hero_image2.png
+      background: /images/Vol 19 Issue 2/Binjai/hero_img_binjai_park.jpg
   - infopic:
       title: The 1973 SEAP Games in Singapore
       subtitle: Sports
