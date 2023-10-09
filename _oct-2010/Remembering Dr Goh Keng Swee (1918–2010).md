@@ -102,7 +102,7 @@ University</center></div>
 
 #### **NOTES**
 
-[^1]: Chan Chin Bock, [_Heart Work_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11606576) ed. Koh Buck Song (Singapore: Singapore Economic Development Board, 2002), 23. (Call no. RSING 338.95957 HEA)
+[^1]: Chan Chin Bock, [_Heart Work_],(https://eservice.nlb.gov.sg/item_holding.aspx?bid=11606576) ed. Koh Buck Song (Singapore: Singapore Economic Development Board, 2002), 23. (Call no. RSING 338.95957 HEA)
 
 [^2]: Dr Goh, in his justification for the establishment of an Oral History Centre to interview and record personal accounts of this “largely unrecorded” fight between the PAP and the Communists, quoted in Kwa Chong Guan, “desultory reflections on the Oral History Centre at twenty-five,” in [_Reflections and Interpretations_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524142), ed. Daniel &nbsp;Chew and Fiona Hu (Singapore: Oral History Centre, National Archives of Singapore, National Heritage Board, 2005), 6–7. (Call no. RSING 907.2 REF)
 
