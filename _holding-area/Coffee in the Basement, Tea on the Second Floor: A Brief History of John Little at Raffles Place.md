@@ -79,7 +79,21 @@ The end of World War II ushered in many changes in Singapore and John Little was
 
 In 1955, Robinsons bought over John Little, although John Little continued to operate at its Raffles Place premises for about five years.[^23] Following its departure, other shops and offices then occupied the building until it was demolished in 1973 and replaced with Singapore Land Tower.
 
-After John Little moved out of its iconic Raffles Place building, it set up shop in various locations (such as Specialists’ Shopping Centre). The department store later moved into the heartlands, establishing itself in suburban malls such as Compass Point, White Sands, Tiong Bahru Plaza and Jurong Point. In 2007, the John Little flagship store moved out of Specialists’ Shopping Centre to Marina Square. A year later, Robinson &amp; Co. was bought
+After John Little moved out of its iconic Raffles Place building, it set up shop in various locations (such as Specialists’ Shopping Centre). The department store later moved into the heartlands, establishing itself in suburban malls such as Compass Point, White Sands, Tiong Bahru Plaza and Jurong Point. In 2007, the John Little flagship store moved out of Specialists’ Shopping Centre to Marina Square. A year later, Robinson &amp; Co. was bought over by Dubai-based conglomerate Al-Futtaim. By 2015 only two John Little stores – at Plaza Singapura and Jurong Point – remained. Both outlets were shuttered in 2016, bringing John Little’s long and storied history to a close.[^24]
+
+  
+
+* * *
+
+
+
+* * *
+
+&nbsp;[\[JLY(1\]](#_msoanchor_1)Suggesting this word instead because investment group can also connote more passive investment like GIC, whereas Al-Futtaim seems to take a more active role in the companies it owns.
+
+&nbsp;[\[SP(2\]](#_msoanchor_2)Jimmy asked if we could add a brief summary of John Little's later years to its closure. I've done so here, but please feel free to re-write/edit as well as check to see if its accurate?
+
+&nbsp;[\[JLY(3\]](#_msoanchor_3)Suggest removing the first two sentences because roughly the same point is made at the beginning of the para before this one.
 
 
 
@@ -185,3 +199,5 @@ After John Little moved out of its iconic Raffles Place building, it set up shop
 [^22]: [May Wong nee Hing (Mrs S K Wong)](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3ddeea93-115f-11e3-83d5-0050568939ad-OHC000093_008/web/html5/index.html), oral history interview by Liana Tan, 18 May 1982, transcript and MP3 audio, Reel/Disc 8 of 18, National Archives of Singapore ([accession no. 000093](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000093))
 
 [^23]: Chan Swan Bee, “[New Move at John Little](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600928-1.2.5),” _Singapore Free Press_, 28 September 1960, 1. (From NewspaperSG)
+
+[^24]: Joshua Chia and Shereen Tay, “[John Little](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1116_2010-06-14.html)”, in _Singapore Infopedia_. National Library Board Singapore. Article published November 2020.
