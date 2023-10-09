@@ -9,7 +9,7 @@ image: /images/Vol 19 Issue 4/1   Qing Ambassadors/img_01_v2.png
 By Benjamin J.Q. Khoo
 
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01_v3.png)
-<div style="background-color: white;">Hoo Ah Kay (Whampoa) in his home, the famous Nam-sang Fa-un (南生花园), mid-19th century. The Qing delegation visited his home and gardens, and were impressed by what they saw. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
+<div style="background-color: white;">Hoo Ah Kay (Whampoa) in his home, the famous Nam-sang Fa-un (南生花园), mid-19th century. The Qing officials visited his home and gardens, and were impressed by what they saw. <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
 On 13 December 1876, the P&amp;O Steamer _Travancore_ docked at Singapore carrying a curious entourage.[^1] Stepping off the ship were His Excellency Guo Songtao (郭嵩焘), the first Chinese ambassador to Britain, and other members of the Qing Imperial Court. It was about 11 on a grey, rainy morning when they arrived, with little fanfare to receive them. But after a run of four days at sea, it must have been a pleasant relief from the cramped quarters on deck as well as a temporal distraction from the weighty conversations between men and states. 
 
