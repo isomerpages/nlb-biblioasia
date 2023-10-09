@@ -71,7 +71,20 @@ Customers could also relax at John Little’s famous ladies’ tearoom. The tear
 The end of World War II ushered in many changes in Singapore and John Little was no exception. Archival photos trace the store’s evolution over time – for instance, one photo depicts real life nurses standing in John Little’s window display tending to a dummy patient as part of a recruitment campaign for Singapore hospitals in 1952. That John Little was the chosen location for this recruitment drive suggests that it was no longer just for high society and was attracting a more diverse range of customers by the 1950s. Another photo shows John Little’s name advertised prominently at the front of the store not just in English, but in Chinese and Jawi as well – another indication that the store was expanding beyond its European clientele.
 
  <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/8%2019980000825%20img0025.jpg">
-<div style="background-color: white;">Nurses at a John Little shop window tending to a dummy patient as part of a 1952 recruitment campaign. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Nurses at a John Little shop window tending to a dummy patient as part of a 1952 recruitment campaign. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div><br>
+ <img style="width:65%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/7%2019990003436%20img0008.jpg">
+<div style="background-color: white;"> A 1960 photo of the John Little exterior showing the store name displayed in English, Chinese and Jawi.<i> Courtesy of National Archives of Singapore.</i></div><br>
+ <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/3%2019980000811%20img0029.jpg">
+<div style="background-color: white;"> A John Little window display from 1950, with the prominent word “Little’s” at the bottom of the window. This display was set up for a “Britain Builds for the World” promotion and the lion and unicorn crest in the background is a likely reference to the British coat of arms. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+In 1955, Robinsons bought over John Little, although John Little continued to operate at its Raffles Place premises for about five years.[^23] Following its departure, other shops and offices then occupied the building until it was demolished in 1973 and replaced with Singapore Land Tower.
+
+After John Little moved out of its iconic Raffles Place building, it set up shop in various locations (such as Specialists’ Shopping Centre). The department store later moved into the heartlands, establishing itself in suburban malls such as Compass Point, White Sands, Tiong Bahru Plaza and Jurong Point. In 2007, the John Little flagship store moved out of Specialists’ Shopping Centre to Marina Square. A year later, Robinson &amp; Co. was bought
+
+
+
+
+
 
 
   
@@ -170,3 +183,5 @@ The end of World War II ushered in many changes in Singapore and John Little was
 [^21]: Mrs May Wong was born in Sacramento, California, in 1899 and moved with her husband to Singapore in 1930. She became very active in community work and was the longest-serving president of the Chinese Women’s Association. See “The Honoured Inductees to the Singapore Women’s Hall of Fame: May Wong,” Singapore Women’s Hall of Fame, last updated 11 March 2021, https://www.swhf.sg/profiles/may-wong/.
 
 [^22]: [May Wong nee Hing (Mrs S K Wong)](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3ddeea93-115f-11e3-83d5-0050568939ad-OHC000093_008/web/html5/index.html), oral history interview by Liana Tan, 18 May 1982, transcript and MP3 audio, Reel/Disc 8 of 18, National Archives of Singapore ([accession no. 000093](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000093))
+
+[^23]: Chan Swan Bee, “[New Move at John Little](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600928-1.2.5),” _Singapore Free Press_, 28 September 1960, 1. (From NewspaperSG)
