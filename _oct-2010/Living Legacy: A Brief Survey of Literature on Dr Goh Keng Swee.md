@@ -39,6 +39,9 @@ The study of Dr Goh’s ideas is just begun. One booklength work specifically on
 
 #### **Speeches and Papers**
 
+<img src="/images/Vol%206%20Issue%203/LivingLegacy/GohKengSwee1995.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Federal Publications, 1995.</div>
+
 Turning to Dr Goh's personal philosophy and thoughts, we can leaf through the various speeches and papers he presented over the decades. Of obvious importance would be the three published compilations, two compiled by him (*The Economics of Modernization* published in 1972 and *The Practice of Economic Growth* published in 1977), and one compiled and edited by academic Linda Low (*Wealth of East Asian Nations* published in 1995). Here one can find a general survey of the depth and breadth of his thoughts on topics ranging from communism and economic growth, to education and building up the SAF. In fact, his preface to *The Economics of Modernization* was used three decades later in 2008 by the then Executive Director of Temasek Holdings, Simon Israel, to explain the core philosophy of Temasek Holdings to an American Congressional Committee:
 
      
@@ -144,4 +147,3 @@ Tan Siok Sun, [_Goh Keng Swee: A Portrait_](https://eservice.nlb.gov.sg/item_hol
 Thomas Silcock, [_A History of Economics Teaching &amp; Graduates: Raffles College and the University of Malaya in Singapore 1935–1960_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080083) (Singapore: Department of Economics &amp; Statistics, National University of Singapore, 1985). (Call no. RSING 378.5957 SIL)
 
 Willard A. Hanna, [_Go-Ahead at Goh’s Folly: Singapore’s Gamble With Industrial Expansion_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4378988) (New York: American Universities Field Staff Inc., 1964). (Call no. RCLOS 338.95951 HAN)
-
