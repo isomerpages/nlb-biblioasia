@@ -26,7 +26,7 @@ The participation of students in events organised outside Singapore was part of 
 
 Outstanding students went on to pit their skills against the best on the international stage. In 1953, the Colony boxing team that competed in Western Australia included ten boxers from Singapore schools (SSAR, 1953, p. 51). Singapore secondary school students also made their presence felt during the Asian Games held in Djakarta (present-day Jakarta) in August 1962 (the Asian Gameswas inaugurated in 1949). And at the 6th South East Asian And Peninsular Games (SEAP) in 1965, 18 out of 24 of Singapore’s gold medals were won by swimmers — one of whom was 11 year-old Patricia Chan — dubbed “Singapore’s Princesses of the Pool”. (AR, 1965, p. 10, “Golden Girl Patricia!”, *The Straits Times*, 17 Dec 1965, p. 24). At the international level, the Singapore contingent for the 1952 Olympic Games in Helsinki included three students from Singapore schools — a swimmer, a weightlifter and a female athlete (AR, 1952, p. 54).[^1] During the 1964 Tokyo Olympics, another six students represented Singapore. 
 
-<img src="/images/Vol%206%20Issue%203/PhysicalEducation/track%20and%20field.jpg" style="width:80%;">
+<img src="/images/Vol%206%20Issue%203/PhysicalEducation/track%20and%20field.jpg" style="width:100%;">
  <div style="background-color: white;">Track and field championship meet at National Stadium, 1975.<i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
 
 #### **Raising the standards of Physical Education**
