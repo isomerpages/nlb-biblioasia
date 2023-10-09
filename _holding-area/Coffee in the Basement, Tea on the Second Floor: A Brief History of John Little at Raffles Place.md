@@ -79,56 +79,14 @@ The end of World War II ushered in many changes in Singapore and John Little was
 
 In 1955, Robinsons bought over John Little, although John Little continued to operate at its Raffles Place premises for about five years.[^23] Following its departure, other shops and offices then occupied the building until it was demolished in 1973 and replaced with Singapore Land Tower.
 
-After John Little moved out of its iconic Raffles Place building, it set up shop in various locations (such as Specialists’ Shopping Centre). The department store later moved into the heartlands, establishing itself in suburban malls such as Compass Point, White Sands, Tiong Bahru Plaza and Jurong Point. In 2007, the John Little flagship store moved out of Specialists’ Shopping Centre to Marina Square. A year later, Robinson &amp; Co. was bought over by Dubai-based conglomerate Al-Futtaim. By 2015 only two John Little stores – at Plaza Singapura and Jurong Point – remained. Both outlets were shuttered in 2016, bringing John Little’s long and storied history to a close.[^24]<br><br>
+After John Little moved out of its iconic Raffles Place building, it set up shop in various locations (such as Specialists’ Shopping Centre). The department store later moved into the heartlands, establishing itself in suburban malls such as Compass Point, White Sands, Tiong Bahru Plaza and Jurong Point. In 2007, the John Little flagship store moved out of Specialists’ Shopping Centre to Marina Square. A year later, Robinson &amp; Co. was bought over by Dubai-based conglomerate Al-Futtaim. By 2015 only two John Little stores – at Plaza Singapura and Jurong Point – remained. Both outlets were shuttered in 2016, bringing John Little’s long and storied history to a close.[^24]<br>
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Toffa_Abdul_Wahed.png">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/author1.png">
 <b>Yap Jo Lin</b> is a Senior Archivist with the National Archives of Singapore. Her responsibilities include managing the archives’ collection of building plans.
   
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 #### Notes
-
 [^1]: Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Oxford University Press, 1984), 350. (From National Library, Singapore, call no. RSING 959.57 BUC)
 
 [^2]: Annabeth Leow, “John Little to Close Final Outlet at Plaza Singapura: 174 Years of History at a Glance,” _Straits Times_, 7 November 2016, https://www.straitstimes.com/singapore/john-little-to-close-final-outlet-at-plaza-singapura-174-years-of-history-at-a-glance.
