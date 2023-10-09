@@ -83,7 +83,7 @@ After John Little moved out of its iconic Raffles Place building, it set up shop
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/author1.png">
-<b>Yap Jo Lin</b> is a Senior Archivist with the National Archives of Singapore. Her responsibilities include managing the archives’ collection of building plans.
+<b>Yap Jo Lin</b> is a Senior Archivist with the National Archives of Singapore. Her responsibilities include managing the archives’ collection of building plans.</div>
   
 #### Notes
 [^1]: Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Oxford University Press, 1984), 350. (From National Library, Singapore, call no. RSING 959.57 BUC)
@@ -132,4 +132,4 @@ After John Little moved out of its iconic Raffles Place building, it set up shop
 
 [^23]: Chan Swan Bee, “[New Move at John Little](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600928-1.2.5),” _Singapore Free Press_, 28 September 1960, 1. (From NewspaperSG)
 
-[^24]: Joshua Chia and Shereen Tay, “[John Little](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1116_2010-06-14.html)”, in _Singapore Infopedia_. National Library Board Singapore. Article published November 2020.</div>
+[^24]: Joshua Chia and Shereen Tay, “[John Little](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1116_2010-06-14.html)”, in _Singapore Infopedia_. National Library Board Singapore. Article published November 2020.
