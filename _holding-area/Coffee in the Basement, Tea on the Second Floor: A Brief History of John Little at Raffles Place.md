@@ -51,9 +51,34 @@ Besides storage, the lowest floor also housed rooms for coffee grinding and roas
 In the retail space of the upper floors, goods were displayed in an open concept, thanks to a steel-frame construction that had become a _de rigeur_ construction practice in Singapore.[^11] The store’s timber flooring was a hardwood called _kapor_ (camphor) and the teak interior fittings had been crafted by John Little’s team of 800 Chinese cabinetmakers and polishers. With the exception of Austrian bentwood chairs, these artisans also produced all the furniture that was on sale. The furniture was produced at a workshop off Orchard Road, between Koek and Cavanagh roads – roughly where Orchard Plaza stands today.[^12]
 
  <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/jl%20dept%20store.jpg">
-<div style="background-color: white;">This photo from the 1910s of the glassware and crockery section of John Little allows us to appreciate the store’s open concept feel, as well as its beautiful hardwood floors.  <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore.</i></div><br>
+<div style="background-color: white;">This photo from the 1910s of the glassware and crockery section of John Little allows us to appreciate the store’s open concept feel, as well as its beautiful hardwood floors.  <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore.</i></div>
 
-Besides furniture, shoppers were also privy to a wide range of goods,[^13] some of which would be considered unusual today, at the opening. Customers could browse sections in the department store such as drugs and perfumery (the pharmacy);[^14] bags and trunks
+Besides furniture, shoppers were also privy to a wide range of goods,[^13] some of which would be considered unusual today, at the opening. Customers could browse sections in the department store such as drugs and perfumery (the pharmacy);[^14] bags and trunks (luggage);[^15] arms and ammunition (a common section in early department stores thanks to hunting);[^16] women’s drapery (fabrics and textiles);[^17] and ironmongery (referring to metal-based houseware like the cast-iron pans of today).
+
+<b>Facilities</b><br>
+The facilities at John Little were designed to provide every comfort to its customers. They included two electric lifts, over 50 electric fans, 14 telephones and a post box where mail was collected once every hour from 6 am to 6 pm.[^18]&nbsp;
+
+John Little also had ladies’ retiring rooms – similar to restrooms – as well as reading and writing rooms.[^19] It may seem odd for a department store to have reading and writing rooms, but the idea originated in Paris at the department store Au Bon Marche. Au Bon Marche introduced a reading room in 1870 as a lounge-type area where customers could sit down, rest and recharge before their next bout of shopping.[^20]
+
+Customers could also relax at John Little’s famous ladies’ tearoom. The tearoom was not just a beautiful space, it was also one of the few restaurants in the area where it was acceptable for women to dine. The tearoom was most likely frequented by European women but not women of other ethnicities. Oral history interviewee and former Chinese Women’s Association president Mrs May Wong recalls her visit to the John Little tearoom:[^21]
+
+“And then I went to town and I noticed that there were hardly anybody – any women in town – near John Little’s or Robinsons... The women didn’t go out, in those days. Then I was going downtown one day and my husband said, ‘Well, you have lunch downtown… \[Y\]ou can go up to John Little’s they have a dining room there. I think some European women go \[there\] to have lunch.’ … So when I went up into John Little’s ... And then I noticed that the man, the waiter, walking back and forth and looking at me. Finally, I said to him, ‘You wanna ask me something?’ ... He says, ‘You’re a visitor here?’ I said yes. He says, ‘Because no Chinese women will come up to eat. And especially you’re eating alone so you must be a visitor.’ I said yes. And then he said, ‘Are you a circus performer?’ Because there was a circus in town from China and there was a charity performance. I said, ‘A what?’ I asked him six times, I couldn’t believe my ears when he said a circus performer. Standing on the tightrope. And I said, ‘Tightrope?’ I said, ‘No, I’m sorry, I’m not a circus performer.’ I said, ‘I just come here on a visit, I’m not a performer.’”[^22]
+
+ <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/jl%20dept%20store2.jpg">
+<div style="background-color: white;">The ladies’ tearoom at John Little, 1910s. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore.</i></div>
+
+<b>John Little in the Postwar Period</b><br>
+The end of World War II ushered in many changes in Singapore and John Little was no exception. Archival photos trace the store’s evolution over time – for instance, one photo depicts real life nurses standing in John Little’s window display tending to a dummy patient as part of a recruitment campaign for Singapore hospitals in 1952. That John Little was the chosen location for this recruitment drive suggests that it was no longer just for high society and was attracting a more diverse range of customers by the 1950s. Another photo shows John Little’s name advertised prominently at the front of the store not just in English, but in Chinese and Jawi as well – another indication that the store was expanding beyond its European clientele.
+
+ <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/8%2019980000825%20img0025.jpg">
+<div style="background-color: white;">Nurses at a John Little shop window tending to a dummy patient as part of a 1952 recruitment campaign. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+  
+
+
+
+
 
   
 
@@ -129,3 +154,19 @@ Besides furniture, shoppers were also privy to a wide range of goods,[^13] some 
 [^13]: “[John Little and Co](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19100919-1.2.73).”
 
 [^14]: “Cosmetics and Personal Care Products in the Medicine and Science Collections: Fragrance,” Smithsonian National Museum of American History Behring Center, last accessed 2 October 2023, https://americanhistory.si.edu/collections/object-groups/health-hygiene-and-beauty/fragrance.
+
+[^15]: “The History of the Humble Suitcase,” _Smithsonian Magazine_, last accessed 2 October 2023, https://www.smithsonianmag.com/history/history-humble-suitcase-180951376/; “Trunks and Travelling,” Victoria and Albert Museum, last accessed 2 October 2023, https://www.vam.ac.uk/articles/trunks-and-travelling.
+
+[^16]: Brent Alan Shannon, _The Cut of His Coat: Men, Dress, and Consumer Culture in Britain, 1860–1914_ (Athens: Ohio University Press, 2006), 66.
+
+[^17]: “Drapery shop,” _Collins English Dictionary_, last accessed 20 February 2023, https://www.collinsdictionary.com/dictionary/english/drapery-shop.
+
+[^18]: “[John Little and Co](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19100919-1.2.73).”
+
+[^19]: “[John Little and Co](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19100919-1.2.73).”
+
+[^20]: Nebojša Tabacki, [_Consuming Scenography: The Shopping Mall as a Theatrical Experience_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204515449) (London: Methuen Drama, 2020), 20. (From National Library, Singapore, call no. RSING 381.11 TAB)
+
+[^21]: Mrs May Wong was born in Sacramento, California, in 1899 and moved with her husband to Singapore in 1930. She became very active in community work and was the longest-serving president of the Chinese Women’s Association. See “The Honoured Inductees to the Singapore Women’s Hall of Fame: May Wong,” Singapore Women’s Hall of Fame, last updated 11 March 2021, https://www.swhf.sg/profiles/may-wong/.
+
+[^22]: [May Wong nee Hing (Mrs S K Wong)](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3ddeea93-115f-11e3-83d5-0050568939ad-OHC000093_008/web/html5/index.html), oral history interview by Liana Tan, 18 May 1982, transcript and MP3 audio, Reel/Disc 8 of 18, National Archives of Singapore ([accession no. 000093](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000093))
