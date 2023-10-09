@@ -2,9 +2,9 @@
 title: "Physical Education and Sports in Singapore Schools (Part II): Developing
   National Sports Talents"
 permalink: /vol-6/issue-3/oct-2010/singapore-physical-education-sports/
-description: "Librarian Wee Tong Bao traces the journeys that schools embarked
+description: Librarian Wee Tong Bao traces the journeys that schools embarked
   upon to re-establish inter-school sporting events after World War II, and
-  comments on the initial forays into the international sporting arena. "
+  comments on the initial forays into the international sporting arena.
 ---
 #### Librarian&nbsp;_Wee Tong Bao_&nbsp;traces the journeys that schools embarked upon to re-establish inter-school sporting events after World War II, and comments on the initial forays into the international sporting arena.
 
@@ -20,6 +20,9 @@ By 1947, athletic sports started again in schools — “\[s\]ixteen English sch
  <div style="background-color: white;">Malay girls practising netball during PE (physical education) lesson. <i>Ministry of Education, Annual Report, 1946.</i></div>
 
 The participation of students in events organised outside Singapore was part of the recovery and revival of sports in schools. After excelling at the school level, students went on to compete in national and regional arenas. In 1950, two girls from Chinese schools represented Singapore at the Malayan Amateur Athletic Championships (AR, 1950, p. 89). Another student from a girls’ school was the Singapore Women’s Badminton Champion for 1950 (ibid., p. 89). Such participation was repeated the following year, and more achievements in other areas were added. The Education Department proudly noted that “a schoolboy swimmer holds four Colony swimming records.” At the 1951 Malayan Athletic Championships in Kuala Lumpur, senior pupils from Singapore schools won five events and created three Malayan records (AR, 1951, p. 89). The best athletes from Singapore Chinese schools also competed against their Malayan counterparts in the Malayan Chinese Athletic Championship Meeting.
+
+<img src="/images/Vol%206%20Issue%203/PhysicalEducation/high%20jump.jpg" style="width:80%;">
+ <div style="background-color: white;">High jump championship meet at National Stadium, 1975.<i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
 
 Outstanding students went on to pit their skills against the best on the international stage. In 1953, the Colony boxing team that competed in Western Australia included ten boxers from Singapore schools (SSAR, 1953, p. 51). Singapore secondary school students also made their presence felt during the Asian Games held in Djakarta (present-day Jakarta) in August 1962 (the Asian Gameswas inaugurated in 1949). And at the 6th South East Asian And Peninsular Games (SEAP) in 1965, 18 out of 24 of Singapore’s gold medals were won by swimmers — one of whom was 11 year-old Patricia Chan — dubbed “Singapore’s Princesses of the Pool”. (AR, 1965, p. 10, “Golden Girl Patricia!”, *The Straits Times*, 17 Dec 1965, p. 24). At the international level, the Singapore contingent for the 1952 Olympic Games in Helsinki included three students from Singapore schools — a swimmer, a weightlifter and a female athlete (AR, 1952, p. 54).[^1] During the 1964 Tokyo Olympics, another six students represented Singapore. 
 
@@ -177,20 +180,3 @@ Youth Olympic Games Bid Book – Singapore 2010 candidature file, Volume 1 &amp;
 [^1]: Singapore’s first involvement in the Olympics was in 1948 when, Lloyd Valberg, a 25-year old Eurasian represented Singapore in the long jump event (S. E. Nelson, “[Singapore's Olympic Hope](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480131-1.2.78),” _Straits Times_, 31 January 1948, 11. (From NewspaperSG)
 
  [^2]: Singapore’s sports administration scene lost this visionary leader in Sports education on 16 March 2010. Yeo, “[Sports School’s Founding Principal Dies of Cancer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100317-1.2.35.8).”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
