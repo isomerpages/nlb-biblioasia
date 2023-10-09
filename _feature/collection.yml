@@ -1,5 +1,5 @@
 collections:
-  online-only:
+  feature:
     output: true
     order:
       - "About the Painters: Seeking the Unnamed Artists Behind Diard and
