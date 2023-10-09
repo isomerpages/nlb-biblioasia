@@ -71,7 +71,7 @@ After Milton retired from the LMS in 1825, Thomsen took over the press and conti
 
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_6.png)
 <div style="background-color: white;"> 
-	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore and held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G).</i></div><br>
+	Title page of <i>Journal of a Tour Along the Coast of Java and Bali.</i> This is the earliest extant English publication printed in Singapore that is held in the National Library’s collection. <i>Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G).</i></div><br>
 
 <img style="width:60%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/kitab%20white%20bg.jpg"> 
 
