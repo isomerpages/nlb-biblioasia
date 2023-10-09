@@ -42,7 +42,6 @@ Another prominent feature of the new building was the gable, a triangular portio
 
  <img style="width:80%;" src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/1%20john%20little%20bp3.jpg">
 <div style="background-color: white;">This 1908 plan shows details of the top elevation of the John Little building, including the building’s distinctive gable.  <i>   Swan &amp; Maclaren Collection, courtesy of National Archives of Singapore (6(13)/1908).</i></div><br>
-
 <b>Basement and Retail Space</b><br>
 The John Little building had four storeys, with the lowest floor (which was slightly below ground level) kept for back-of-house operations. The three upper storeys were dedicated to retail.
 
