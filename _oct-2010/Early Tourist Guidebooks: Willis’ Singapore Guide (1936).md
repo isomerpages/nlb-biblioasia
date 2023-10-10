@@ -195,121 +195,58 @@ Wong Ah Yoke, “[Satay Clubs in the Past](http://eresources.nlb.gov.sg/newspape
 
 [^4]: “[A New Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340530-1.2.102),” _Straits Times_, 30 May 1934, 13. (From NewspaperSG)
 
-5\. “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41).”
-
-6\. It was renamed The Mission to Seafarers in 2001
-
-7\. Mervyn E. Moore, _[Eighty Years: Caring for Seafarers: The Singapore Branch of The Mission to Seafarers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881)_ (Singapore: Singapore Branch of The Mission to Seafarers, 2006), 2. (Call no. RSING 266.35957 MOO)
-
-8\. Moore, _[Eighty Years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881)_, 3.
-
-9\. “[Missions to Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91),” _Straits Times_, 21 April 1936, 12. (From NewspaperSG)
-
-10\. “[Missions to Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91).”&nbsp; &nbsp;
-
-11\. “[Missions to Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91).”&nbsp;
-
-12\. “[Helping Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330511-1.2.4),” _Straits Times_, 11 May 1933, 3. (From NewspaperSG)
-
-13\. “[Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227),” _Straits Times_, 10 April 1938, 32. (From NewspaperSG)
-
-14\. “[Seamen’s Hostel is Second Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85),” _Straits Times_, 24 January 1947, 5. (From NewspaperSG)
-
-15\. “[Seamen’s Hostel is Second Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85).”
-
-16\. Rev A. V. Wardle as cited in “[Dangers Faced by Men of Merchant Navy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410621-1.2.94),” _Straits Times_, 21 June 1941, 11 (From NewspaperSG); Also detailed in “[Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227).”&nbsp;
-
-17\. “[Seamen’s Hostel is Second Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85).”
-
-18\. [Clergyman’s Tribute to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19340208-1.2.28), _Straits Budget_, 8 February 1934, 8. (From NewspaperSG)
-
-19\. “[Helping Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330511-1.2.4).”
-
-20\. “[Dutch Sailors See Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400620-1.2.82),” _Straits Times_, 20 June 1940, 12. (From NewspaperSG)
-
-21\. “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41).” &nbsp;
-
-22\. “[Dutch Sailors See Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400620-1.2.82).”
-
-23\. “[Naval Ratings on Trip to Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400129-1.2.53),” _Straits Times_, 29 January 1940, 10; “[The Seaman’s Friend Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89),” _Straits Times_, 20 January 1951, 5. (From NewspaperSG)
-
-24\. “[250 Sailors Go to Kota Tinggi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361118-1.2.67),” _Straits Times_, 18 November 1936, 12. (From NewspaperSG)
-
-25\. “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361125-1.2.76),” _Straits Times_, 25 November 1936, 13. (From NewspaperSG)
-
-26\. “[Singapore Outing for Merchant Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410408-1.2.87),” _Straits Times_, 8 April 1941, 12. (From NewspaperSG)
-
-27\. Wong Ah Yoke, “[Satay Clubs in the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970309-1.2.82.10.3),” _Straits Times_, 9 March 1997, 6. (From NewspaperSG)
-
-28\. Satay hawkers were featured on local picture postcards since the early 1900s.
-
-29\. “[Notes of the Day – The Ponggol Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370118-1.2.65),” _Straits Times_, 18 January 1937, 10. (From NewspaperSG)
-
-&nbsp;30\. “[Impressive New Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350905-1.2.109),” _Straits Times_, 5 September 1935, 15. (From NewspaperSG)
-
-31\. “[The Sights — for Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490407-1.2.76),” _Straits Times_, 7 April 1949, 7. (From NewspaperSG)
-
-32\. “[Seaman’s Friend Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89).”
-[^1]: Also known as the “Singapore Guide for Merchant Seamen”.
-
-[^2]: The book was published in June, July and September of 1934
-
-[^3]:  “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41).”
-
-[^4]:  “[New Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340530-1.2.102).”
-
 [^5]: “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41).”
 
 [^6]: It was renamed The Mission to Seafarers in 2001
 
-[^7]: Moore, [_Eighty Years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881), 2.
+[^7]: Mervyn E. Moore, _[Eighty Years: Caring for Seafarers: The Singapore Branch of The Mission to Seafarers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881)_ (Singapore: Singapore Branch of The Mission to Seafarers, 2006), 2. (Call no. RSING 266.35957 MOO)
 
-[^8]: Moore, [_Eighty Years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881), 3.
+[^8]: Moore, _[Eighty Years](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13209881)_, 3.
 
-[^9]: “[Missions to Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91).” &nbsp;
+[^9]: “[Missions to Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91),” _Straits Times_, 21 April 1936, 12. (From NewspaperSG)
 
-[^10]: “[Missions to Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91).” &nbsp;&nbsp;
+[^10]: “[Missions to Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91).”&nbsp; &nbsp;
 
-[^11]: “[Missions to Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91).” &nbsp;
+[^11]: “[Missions to Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360421-1.2.91).”&nbsp;
 
-[^12]: “[Helping Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330511-1.2.4).”
+[^12]: “[Helping Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330511-1.2.4),” _Straits Times_, 11 May 1933, 3. (From NewspaperSG)
 
-[^13]: “[Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227).”
+[^13]: “[Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227),” _Straits Times_, 10 April 1938, 32. (From NewspaperSG)
 
-[^14]: “[Seamen’s Hostel is Second Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85).”
+[^14]: “[Seamen’s Hostel is Second Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85),” _Straits Times_, 24 January 1947, 5. (From NewspaperSG)
 
 [^15]: “[Seamen’s Hostel is Second Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85).”
 
-[^16]: Rev A. V. Wardle as cited in “[Dangers Faced by Men](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410621-1.2.94)”; Also detailed in “[Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227).” &nbsp;
+[^16]: Rev A. V. Wardle as cited in “[Dangers Faced by Men of Merchant Navy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410621-1.2.94),” _Straits Times_, 21 June 1941, 11 (From NewspaperSG); Also detailed in “[Singapore’s Marine Hostel](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380410-1.2.227).”&nbsp;
 
 [^17]: “[Seamen’s Hostel is Second Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19470130-1.2.85).”
 
-[^18]: “[Clergyman’s Tribute to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19340208-1.2.28).” &nbsp;
+[^18]: [Clergyman’s Tribute to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19340208-1.2.28), _Straits Budget_, 8 February 1934, 8. (From NewspaperSG)
 
 [^19]: “[Helping Seamen in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330511-1.2.4).”
 
-[^20]: “[Dutch Sailors See Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400620-1.2.82).” &nbsp;
+[^20]: “[Dutch Sailors See Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400620-1.2.82),” _Straits Times_, 20 June 1940, 12. (From NewspaperSG)
 
 [^21]: “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41).” &nbsp;
 
 [^22]: “[Dutch Sailors See Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400620-1.2.82).”
 
-[^23]: “[Naval Ratings on Trip to Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400129-1.2.53)”; “[Seaman’s Friend Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89).” 
+[^23]: “[Naval Ratings on Trip to Johore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400129-1.2.53),” _Straits Times_, 29 January 1940, 10; “[The Seaman’s Friend Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89),” _Straits Times_, 20 January 1951, 5. (From NewspaperSG)
 
 [^24]: “[250 Sailors Go to Kota Tinggi](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361118-1.2.67),” _Straits Times_, 18 November 1936, 12. (From NewspaperSG)
 
-[^25]: “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361125-1.2.76).” &nbsp;
+[^25]: “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361125-1.2.76),” _Straits Times_, 25 November 1936, 13. (From NewspaperSG)
 
-[^26]: “[Singapore Outing for Merchant Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410408-1.2.87).”
+[^26]: “[Singapore Outing for Merchant Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19410408-1.2.87),” _Straits Times_, 8 April 1941, 12. (From NewspaperSG)
 
-[^27]: Wong, “[Satay Clubs in the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970309-1.2.82.10.3).”
+[^27]: Wong Ah Yoke, “[Satay Clubs in the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970309-1.2.82.10.3),” _Straits Times_, 9 March 1997, 6. (From NewspaperSG)
 
 [^28]: Satay hawkers were featured on local picture postcards since the early 1900s.
 
-[^29]: “[The Ponggol Zoo](Notes%20of%20the%20day%20–%20the%20Ponggol%20Zoo).” &nbsp;
+[^29]: “[Notes of the Day – The Ponggol Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370118-1.2.65),” _Straits Times_, 18 January 1937, 10. (From NewspaperSG)
 
-[^30]: “[Impressive New Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350905-1.2.109).” &nbsp;
+[^30]: “[Impressive New Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350905-1.2.109),” _Straits Times_, 5 September 1935, 15. (From NewspaperSG)
 
-[^31]: “[The Sights](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490407-1.2.76).” &nbsp;
+[^31]: “[The Sights — for Seamen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490407-1.2.76),” _Straits Times_, 7 April 1949, 7. (From NewspaperSG)
 
 [^32]: “[Seaman’s Friend Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510120-1.2.89).”
