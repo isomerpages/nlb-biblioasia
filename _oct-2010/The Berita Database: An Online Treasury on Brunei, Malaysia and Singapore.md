@@ -13,6 +13,10 @@ Many scholars, students and other researchers in the United States are unsure of
 
 This online database allows researchers to find references to relevant books, book chapters, journal articles and conference papers on a wide array of topics in the social sciences, humanities and natural sciences related to the nations of Brunei, Malaysia and Singapore. Malay language materials are included along with those in English and other Western languages. The database now contains over 46,000 records of resources published from 1990 to the present and may be searched at no cost by any researcher with Internet access from around the globe. The “scholarly usefulness” of Berita online was rated as essential by the *Asia-WWW-Monitor* in June 2010.
 
+<img src="/images/Vol%206%20Issue%203/BeritaDatabase/BeritaDB_JCommDev.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Asian Institute for Development Communication.
+</div>
+
 *Berita* includes many important periodicals, which cover a wide variety of subjects related to Brunei, Malaysia and Singapore, including titles published in Asia, Australia, the United States and Europe. These indexed periodicals include: *Aka-demika*; *Art and Asia Pacific*; *Asian Studies Review; Borneo Research Bulletin*; *Contemporary Southeast Asia*; *Dewan Bahasa*; *Dewan Sastera*; *Indonesia and the Malay World*; *The Journal of Development Communication*; *Journal of Tropical Forest Science*; *Journal of the Malaysian Branch of the Royal Asiatic Society*; *Review of Indonesian and Malaysian Affairs*; *Sarawak Museum Journal*; *Jurnal Institut Perkhidmatan Awam*; *Singapore Economic Review and Sojourn*. A complete list of the serials that *Berita* covers is available online.
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/BeritaDatabase/Presentation2.jpg">
