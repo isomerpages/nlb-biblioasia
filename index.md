@@ -24,7 +24,7 @@ sections:
         unlikely medium pulls back the curtains to find the humanity behind
         them.
       button: Naming the Unnamed
-      url: /art/2023/10/painters-diard-duvaucel-farquhar/
+      url: /arts/2023/10/painters-diard-duvaucel-farquhar/
       image: /images/Online Only Articles/About the Painters/diard_duvaucel cover1.jpg
       alt: About the Painters
   - infopic:
