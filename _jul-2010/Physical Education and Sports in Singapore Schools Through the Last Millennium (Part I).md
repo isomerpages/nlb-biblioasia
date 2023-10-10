@@ -92,6 +92,10 @@ At this time, help and guidance for vernacular schools came in the form of demon
 	
 The use of a physical education curriculum in vernacular schools had been largely left to their own discretion. As a result, the development of the physical education curricula among schools had been uneven in the early years. Chinese schools, for example, had benefited from the wider publishing tradition of Chinese school textbooks which included physical education materials. However, this was not the same for Tamil schools.
 
+<img src="/images/Vol%206%20Issue%202/PhysicalEducation/PHysicalTraining.jpg" style="width:100%;">
+ <div style="background-color: white;">Physical training display during education week at Bukit Panjang Government School (1952).<i> Courtesy of National Archives of Singapore.</i>
+</div>
+
 In 1947, among the textbooks available outlining lesson plans for physical training were《团体游戏》(Group Games);《我们的球戏》(Our Ball Games);《户内外游戏》 (Indoor &amp; Outdoor games);《几种球类运动》(Some Ball Games);《几种技巧运动》(Some Gymnastics Moves);《我们的 田径运动》(Our Track and Field Sports);《国术讲话》(Lessons on Martial Arts);《运动会》(Sports Meets). In 1953, the Nanyang Siang Pau Press printed《实用体育行政》(Practical Physical Training Administration).
 
 <img src="/images/Vol%206%20Issue%202/PhysicalEducation/Figure%204%20-%20A%20phsical%20education%20lesson%20plan,%201957.jpg" style="width:50%;">
