@@ -1,12 +1,12 @@
 ---
 title: Women and Warfare in Malaysia and Singapore, 1941–89
 permalink: /vol-6/issue-1/apr-2010/malaysia-singapore-women-warfare/
-description: "Lee Kong Chian Research Fellow Mahani Awang explores the
+description: Lee Kong Chian Research Fellow Mahani Awang explores the
   involvement of women in warfare in Malaya and Singapore from 1941 until the
   1989 Hat Yai Peace Accord. She also considers how women differ from men in
-  various activities connected to war. "
+  various activities connected to war.
 ---
-#### Lee Kong Chian Research Fellow _Mahani Awang_ explores the involvement of women in warfare in Malaya and Singapore from 1941 until the 1989 Hat Yai Peace Accord. She also considers how women differ from men in various activities connected to war.
+#### Lee Kong Chian Research Fellow&nbsp;_Mahani Awang_&nbsp;explores the involvement of women in warfare in Malaya and Singapore from 1941 until the 1989 Hat Yai Peace Accord. She also considers how women differ from men in various activities connected to war.
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%201/WomenWarfare/Members%20of%20the%208th%20Regiment.jpg">
  <div style="background-color: white;">Members of the 8th Regiment. <i>Courtesy of Mahani Awang.</i></div>
@@ -62,7 +62,7 @@ Moving to urban guerilla warfare in Singapore (Singapore became the main base fo
 
 Even though their job seemed to be equal to that of the men’s, some of the former female guerillas claimed women were given comparatively easy tasks due to their physical built. Perhaps this refers to those from the second-generation combatants who saw fewer armed skirmishes and the women were given tasks such as sewing, breeding animals and nursing as well as tasks related to the kitchen; these job were less demanding whereas going to war was preferably given to men. Except for Chang Li Li, most of the women interviewed (most of them were from the second generation of MCP combatants) claimed they were never involved with any armed skirmishes and that women would be the last to be given weapon training compared with the men in their camp. They admitted the combination of bravery and intelligence would certainly enhance (in the eyes of their superior) the female cadres’ opportunity for success (namely, promotion) and to take part in military operations.
 
-While war might break down gender boundaries especially during stressful times, and women were able to live in the hostile jungle, in reality, there was little to separate the women guerillas from womanhood or the emotion of motherhood. Of interest are their love life (to be in love and to be loved), marriage, procreation and children. Each camp conducted its everyday life in accordance with its own rules. Interestingly, while the Communist Party of the Philippines’ (CPP) practised a more liberal policy on sexual matters which created problem to the movement by allowing marriage and, in the end, many female CPP were engrossed in looking after their family while war became the responsibility of the men (Hilsdon, 1995), the MCP seemed to have a stricter general policy about family life within the camp although, towards the end of the struggle, this policy became more lenient. Marriage was allowed in most MCP camps but during the Japanese Occupation, husband and wife were not allowed to work in the same camp to avoid sexual complications. As reported by Force 136 (during the liaison with the MPAJA), these matters were unheard of during their war against the Japanese (Chin & Hack, 2004). This complication became common during the Emergency and thereafter with certain camps putting up a strict policy with regards to love, marriage and pregnancy. The 8th Regiment in Natawee district, for instance, prohibited its women cadres to be pregnant; and if found to be so they were forced to have an abortion.
+While war might break down gender boundaries especially during stressful times, and women were able to live in the hostile jungle, in reality, there was little to separate the women guerillas from womanhood or the emotion of motherhood. Of interest are their love life (to be in love and to be loved), marriage, procreation and children. Each camp conducted its everyday life in accordance with its own rules. Interestingly, while the Communist Party of the Philippines’ (CPP) practised a more liberal policy on sexual matters which created problem to the movement by allowing marriage and, in the end, many female CPP were engrossed in looking after their family while war became the responsibility of the men (Hilsdon, 1995), the MCP seemed to have a stricter general policy about family life within the camp although, towards the end of the struggle, this policy became more lenient. Marriage was allowed in most MCP camps but during the Japanese Occupation, husband and wife were not allowed to work in the same camp to avoid sexual complications. As reported by Force 136 (during the liaison with the MPAJA), these matters were unheard of during their war against the Japanese (Chin &amp; Hack, 2004). This complication became common during the Emergency and thereafter with certain camps putting up a strict policy with regards to love, marriage and pregnancy. The 8th Regiment in Natawee district, for instance, prohibited its women cadres to be pregnant; and if found to be so they were forced to have an abortion.
 
 As the hostile jungle and wartime condition were not suitable to raise children, most camps had in place a ruling of giving away babies to local villagers. Again the female cadres had to face enormous emotional struggles to part with their loved ones. Although some interviewed women tried to hide their real feelings at the time of their involvement with the guerillas by saying they did not regret what they had gone through, there were women who refused to think or remember their life in the jungle, especially when asked about the separation with their children. Others simply could not resist motherhood and managed to escape from the camp. The 68-year-old Khatijah, who was interviewed in March 2009 in Betong, south Thailand, claimed many women had to endure the feeling of sadness upon leaving their family behind but did not have the courage to leave camp for fear of possible punishment by the MCP. Some felt miserable at the time of separation with their babies but relented as the safety of the children became their main concern (*I Love Malaya*, 2006). The most tragic incident befell Shamsiah Fakeh when she was accused of killing her own baby in the jungle, an accusation, which she claimed was meant to smear her reputation, that she had repeatedly refuted in her memoir. In the memoir she asked her readers “as a nationalist fighter, could a mother kill her own child?” (Shamsiah, 2004: 72).
 
@@ -70,6 +70,10 @@ As the hostile jungle and wartime condition were not suitable to raise children,
  <div style="background-color: white;">All rights reserved, Strategic Information Research Development, 2009.</div>
 
 The accusation of killing her son (in the case of Shamsiah Fakeh) is probably the only case of its kind in the history of female guerillas in the MCP. But the problem of illicit sex, which led to unwanted pregnancy was nothing new in guerilla life. Sometimes it also involved leaders of the movement which led to morale decline in the party. Some party members regarded illicit love affairs as a serious problem that started when the MCP tried to strengthen the party after the withdrawal to south Thailand by “accepting newcomers” (men and women) to the party, mostly local Thais. As there was no clear method to control recruitment, the MCP failed to differentiate the “good guys” from the “bad guys”. There were also members who believed women were manipulated as a tool to sabotage the MCP; these women were sent to create havoc by using illicit love affairs to ensure that leaders were engrossed in this distraction to the detriment of the political struggle and ideological purity (Ibrahim Chik, 2004: 202). Besides the issue of intimate relationship, MCP members had also claimed the enemy (Thai government) had used women to poison their leaders through food as women were in control of the kitchen. There were many cases of sabotage by poisoning which were highlighted in the memoirs of MCP leaders.[^8]
+
+<img src="/images/Vol%206%20Issue%201/WomenWarfare/Communist%20.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Comstar Entertainment, 2006.
+</div>
 
 Spies (including women spies) who had infiltrated the MCP had caused considerable chaos among party members at the end of the 1960s. In its effort to eliminate sabotage the MCP conducted a rectification campaign to identify and capture spies. Orchestrating these efforts were a few leading figures of the North Malaya Bureau, including a female leader by the name of Ah Yen who admitted to using torture to get the truth from those arrested. This campaign saw many women caught and punished on suspicion of being spies (*Bei Ma Ju Po Huo Di Jian Zheng Xiang*, 1999). In 1968, the rectification campaign in the 12th Regiment saw 35 members massacred, 200 others “exposed and criticised” and another 70 sacked from the party. The same drive was targeted at the 8th regiment.
 
@@ -87,8 +91,8 @@ paper**.
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Mahani%20Musa.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Mahani%20Musa.jpg" style="width: 100px; height: 100px;">
 <center><b>Mahani Awang</b><br>Lee Kong Chian Research Fellow<br>National Library</center> </div>
 
 
@@ -120,7 +124,7 @@ Aloysius Chin, [_The Communist Party of Malaya: The Inside Story_](https://eserv
 
 Andrianna Tan, “The Forgotten Women Warriors of the Malayan Communist Party,” _IIAS Newsletter_, no. 48 (Summer 2008), https://www.iias.asia/sites/iias/files/nwl\_article/2019-05/IIAS\_NL48\_1213.pdf
 
-Anne-Marie Hilsdon, [_Madonnas and Martyrs: Militarism and Violence in the Philippines_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8919256) (Australia: Allen & Unwin, 1995). (Call no. RSEA 305.409599 HIL)
+Anne-Marie Hilsdon, [_Madonnas and Martyrs: Militarism and Violence in the Philippines_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8919256) (Australia: Allen &amp; Unwin, 1995). (Call no. RSEA 305.409599 HIL)
 
 Anthony Short, [_The Communist Insurrection in Malaya 1948–60_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4167242) (London: Frederick Muller, 1975). (Call no. RSING 959.5104 SHO)
 
@@ -132,11 +136,11 @@ C. C. Chin and Karl Hack, eds., [_Dialogue With Chin Peng: New Light on the Mala
 
 Cheah Boon Kheng, [_Red Star Over Malaya: Resistance and Social Conflict During and After the Japanese Occupation, 1941–1946_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082363) (Singapore: Singapore University Press, 1987). (Call no. RSING 959.5103 CHE)
 
-Chin Peng, [_My Side of History As Told to Ian Ward & Norma Miraflor_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12106841)  (Singapore: Media Masters, 2003). (Call no. RSING 959.5104092 CHI)
+Chin Peng, [_My Side of History As Told to Ian Ward &amp; Norma Miraflor_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12106841) &nbsp;(Singapore: Media Masters, 2003). (Call no. RSING 959.5104092 CHI)
 
 Evelyn Buchheim, “Hide and Seek: Children of Japanese-Indisch Parents,” in [_Forgotten Captives in Japanese-Occupied Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12985996), ed. Karl Hack and Kevin Blackburn (London: Routledge, 2008), 260–77. (Call no. RSING 940.547252095 FOR)
 
-F. Spencer Chapman, [_The Jungle Is Neutral_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202842548) (London: Chatto & Windus, 1963). (Call no. RCLOS 940.53595 CHA)
+F. Spencer Chapman, [_The Jungle Is Neutral_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202842548) (London: Chatto &amp; Windus, 1963). (Call no. RCLOS 940.53595 CHA)
 
 F. W. Beckett, _Encyclopedia of Guerrilla Warfare_ (Santa Barbara: ABC-CLIO, Inc., 1999)
 
@@ -150,7 +154,7 @@ Iskander Carey, [_Orang Asli: The Aboriginal Tribes of Peninsular Malaysia_](htt
 
 Jan Ruff-O'Herne, [_50 Years of Silence_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471243) (Sydney: Editions Tom Thompson, 1994). (Call no. R 364.153 RUF)
 
-Karen Gottschang Turner with Phan Thanh Hao, [_Even the Women Must Fight: Memories of War From North Vietnam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8695311) (New York: John Wiley & Sons, 1998). (Call no. RSEA 959.70430922 TUR)
+Karen Gottschang Turner with Phan Thanh Hao, [_Even the Women Must Fight: Memories of War From North Vietnam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8695311) (New York: John Wiley &amp; Sons, 1998). (Call no. RSEA 959.70430922 TUR)
 
 Michiko Nakahara, “The Civilian Women’s Internment Camp in Singapore: The World of POW WOW,” in _[New Perspectives on the Japanese Occupation in Malaya and Singapore, 1941–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12849736)_ (Singapore: NUS Press, 2008) (Call no. RSING 940.5337 NEW)
 
@@ -166,7 +170,7 @@ Sharon Macdonald, “Drawing the Lines – Gender, Peace and War: An Introductio
 
 Sheila Allan, [_Diary of a Girl in Changi, 1941–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12588700), 3rd ed. (New South Wales: Kangaroo Press, 2004). (Call no. RSING 940.547252092 ALL)
 
-Shirley Fenton Huie, [_The Forgotten Ones: Women and Children Under Nippon_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6335236) (N.S.W.: Angus & Robertson Publishers, 1992). (Call no. RSEA 940.547252 HUI)
+Shirley Fenton Huie, [_The Forgotten Ones: Women and Children Under Nippon_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6335236) (N.S.W.: Angus &amp; Robertson Publishers, 1992). (Call no. RSEA 940.547252 HUI)
 
 Suriani Abdullah, [_Memoir Suriani Abdullah: Setengah Abad Dalam Perjuangan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12886676) (Petaling Jaya: Strategic Information Research Development (SIRD), 2006). (Call no. R 322.4209595 SUR)
 
@@ -178,11 +182,11 @@ T. N. Harper, [_The End of Empire and the Making of Malaya_](https://eservice.nl
 
 Xiulan, [_I Want To Live: A Personal Account of One Woman’s Futile Armed Struggle for the Reds_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3412854) (Petaling Jaya: Star Publications, 1983). (Call no. RU RCLOS 322.4209595 XIU)
 
-Yuki Tanaka, “Introduction,” in Maria Rosa Henson, [_Comfort Women: A Filipina’s Story of Prostitution and Slavery Under the Japanese Military_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9370354) (Lanham: Rowman & Littlefield Publishers, 1999). (Call no. RSEA 940.5405092 HEN)
+Yuki Tanaka, “Introduction,” in Maria Rosa Henson, [_Comfort Women: A Filipina’s Story of Prostitution and Slavery Under the Japanese Military_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9370354) (Lanham: Rowman &amp; Littlefield Publishers, 1999). (Call no. RSEA 940.5405092 HEN)
 
 Zhou Mei, [_Elizabeth Choy: More Than a War Heroine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319) (Singapore: Landmark Books, 1995). (Call no. RSING 371.10092 ZHO)
 
-**Newspapers & Magazines**
+**Newspapers &amp; Magazines**
 
 _[Dewan Masyarakat](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4149192)_ (February–August, 1991). (Call no. RCLOS q059.9923 DM)
 
@@ -237,30 +241,3 @@ Ya Mai, personal communication, 1 January 2009.
 [^7]: This information was provided by Leong Yee Seng, the former members of the 8th Regiment who managed the Khao Nam Khang Historical Tunnel in the Natawee District of Songkhla Province during an interview on 14 March 2009. The Khao Nam Khang Historical Tunnel was formerly a main base for the 8th Regiment.
 
 [^8]: Ibrahim Chik, Abdullah C.D. and Suriani Abdullah were among MCP leaders who had first-hand experienced of sabotage through poisoning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
