@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Singapore Storytellers.md
+      - BiblioAsia Reels/Print.md
       - BiblioAsia Reels/.keep
       - BiblioAsia Reels/About the series.md
       - BiblioAsia Reels/Arts.md
