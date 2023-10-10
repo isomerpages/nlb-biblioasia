@@ -1,5 +1,5 @@
 ---
-title: Arts
+title: Art
 permalink: /topics/art/
 description: ""
 third_nav_title: Arts
