@@ -229,19 +229,21 @@ Shiu Yin, personal communication, 14 March 2009.
 Ya Mai, personal communication, 1 January 2009.
 
 #### **NOTES**
+       
+[^1]: See, Sybil Kathigasu, _[No Dram of Mercy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3091831)_, intro. Richard Winstedt and Preface by Cheah Boon Kheng (Singapore: Oxford University Press, 1983) (From PublicationSG); Zhou Mei , _[Elizabeth Choy: More than A War Heroine](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319)_ (Singapore : Landmark Books, 1995). (Call no. RSING 371.10092 ZHO). Sybil and Elizabeth suffered direct physical and psychological torture in the hands of the Japanese kempeitai (military police). Sybil died in June 1949 due to the torture.
 
-[^1]: See, Kathigasu, [_No Dram of Mercy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3091831), with Introduction by Sir Richard Winstedt and Preface by Cheah Boon Kheng; Zhou, [_Elizabeth Choy: More than A War Heroine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7484319). Sybil and Elizabeth suffered direct physical and psychological torture in the hands of the Japanese kempeitai (military police). Sybil died in June 1949 due to the torture.
-
-[^2]: The revelation was made through the publication of memoirs by victims. See, for instance, Henson, [_Comfort Women_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9370354); Swee, [_Tears of a Teenage_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995); O’Herne, [_50 Years of Silence_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995).
+[^2]: The revelation was made through the publication of memoirs by victims. See, for instance, Maria Rosa Henson, _[Comfort Women: A Filipina’s Story of Prostitution and Slavery Under the Japanese Military](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9370354)_ (Lanham: Rowman &amp; Littlefield Publishers, 1999). (Call no. RSEA 940.5405092 HEN); Swee Lian, _[Tears of a Teenage Comfort Women](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13100995)_ (Singapore: Horizon Books, 2008). (Call no. RSING 940.5405092 SWE); &nbsp;Jan Ruff-O'Herne, _[50 Years of Silence](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7471243)_ (Sydney: Editions Tom Thompson, 1994). (Call no. R 364.153 RUF)
 
 [^3]: ‘Indisch’ denotes both European and Eurasian who had settled in the Netherlands East Indies. They were born through the intimate relationship of their mothers with Japanese soldiers.
 
 [^4]: This information was based on interviews with former female MCP guerillas now residing in Betong, south Thailand, between January 2009 and March 2009.
 
-[^5]: Carey, [_Orang Asli_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4093806), 311. It was reported that by 1953, 30,000 Orang Asli were already under communist influence.
+[^5]: Iskander Carey, _[Orang Asli: The Aboriginal Tribes of Peninsular Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4093806)_ (Kuala Lumpur: Oxford University Press, 1976), 311. (Call no. RCLOS 301.209595 CAR). It was reported that by 1953, 30,000 Orang Asli were already under communist influence.
 
 [^6]: Musa Ahmad was one of the important leaders in the 10th Regiment.
 
 [^7]: This information was provided by Leong Yee Seng, the former members of the 8th Regiment who managed the Khao Nam Khang Historical Tunnel in the Natawee District of Songkhla Province during an interview on 14 March 2009. The Khao Nam Khang Historical Tunnel was formerly a main base for the 8th Regiment.
 
 [^8]: Ibrahim Chik, Abdullah C.D. and Suriani Abdullah were among MCP leaders who had first-hand experienced of sabotage through poisoning.
+
+
