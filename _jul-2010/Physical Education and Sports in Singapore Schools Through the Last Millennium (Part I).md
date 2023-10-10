@@ -61,6 +61,10 @@ While significant progress had been made, several reversals occurred in the 1930
 
 Despite the minimal training and supervision provided, the range of sports played in schools expanded to include boxing. The sport was played in Outram School and St. Andrew’s School, and the two schools played against each other during a contest on 2 August 1930 (“Contests at Outram School Next Thursday”, *The Straits Times*, 2 August 1930, p.13). At the same time, the town convent also started a hockey team (*SSAR*, 1933, p. 637) and badminton was played whenever suitable space was available (Ibid, p. 654).
 
+<img src="/images/Vol%206%20Issue%202/PhysicalEducation/TrackField%20Sports.jpg" style="width:50%;">
+ <div style="background-color: white;">Lesson plans for track and field sports. All rights reserved, The Commercial Press (Shanghai), 1947.
+</div>
+
 On the whole, most schools had physical education lessons and had tried to provide organised games as best as they could. The usual games such as association football, cricket, hockey, volleyball, basketball, badminton and tennis were played in secondary boys’ schools (*SSAR*, 1932, p. 796). In junior schools, swings, see-saws and chutes were the main physical exercise facilities. Over in girls’ schools, mainly organised games were provided as none of them had full-size playing fields. Dancing and singing games were taught in smaller schools while “netball, tennis, badminton and rounders were played at the larger schools” (Ibid, p. 793).
 
 The government and the Chinese schools started the first Combined School Sports Meet in 1936. More than a thousand students from 69 schools participated in the two-day event held at Jalan Besar Stadium (*ST*, 1 Aug 1936, p.15).
@@ -68,6 +72,10 @@ The government and the Chinese schools started the first Combined School Sports 
 Though stretched, the Education Department continued to provide support and guidance to the schools where it could. Lesson plans were made available to teachers in 1933 when the Board of Education made available a syllabus (*SSAR*, 1934, p. 785). In 1936, a special course in folk dancing was conducted for teachers in English girls’ schools (*SSAR*, 1936, p. 261).
 
 As much as the Education Department tried to maintain the standard of physical training, the development of physical education was still handicapped by three key factors, namely, shortage of well trained teachers, lack of equipment to properly carry out the stipulated lesson plans and shortage of facilities like halls or rooms to carry out indoor floor exercises (*SSAR*, 1937, p. 188). In times like this, the teaching community received assistance from other agencies such as the Singapore Municipality which permitted the use of vacant lands near schools for students to play basketball, volleyball and badminton (*SSAR*, 1936, p. 265).
+
+<img src="/images/Vol%206%20Issue%202/PhysicalEducation/Figure%202%20-%20Physical%20Education%20for%20all%20Primary%20Schools.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Ministry of Education, 1957.
+</div>
 
 In 1938, when the economy improved, an Assistant Superintendent of Physical Education was again recruited. The year was also noteworthy for another reason: the traditional clothes worn by boys for physical training in the Malay schools were finally replaced by shorts and shirts, “the uniform common to many schools” (*SSAR*, 1938, p. 652). By this time, “Annual Sports \[meets\] were held by practically all schools” (Ibid, p. 709). And as much as the Education Department could, it extended assistance to the Chinese schools by organising inter-school sports among them (Ibid, p. 710).
 
