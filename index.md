@@ -810,4 +810,15 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: "Collection Focus: A Comic Book Version of Operation Jaywick"
+      subtitle: "Video: BiblioAsia Reels_Print"
+      id: infopic
+      description: Disguised as local fishermen, Australian and British commandos
+        carried out Operation Jaywick, a daring raid on Japanese ships at Keppel
+        Harbour in Singapore.
+      button: Watch The Video
+      url: /videos/reels/print/
+      image: "/images/Videos: BiblioAsia Reels/victory boys.png"
+      alt: Image alt text
 ---
