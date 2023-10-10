@@ -68,6 +68,9 @@ A whole chapter of more than 20 pages on big game shooting is given by Hubback, 
 
 Robinson, Director of the F. M. S. Museums and Fisheries, solicited the help of I. H. N. Evans and C. Boden Kloss to write on the Perak and Selangor Museums respectively, giving interesting insights into the zoological as well as ethnographic collections.
 
+<img src="/images/Vol%206%20Issue%202/FederatedMalayState/Wheel%20raising%20water.jpg" style="width:100%;">
+ <div style="background-color: white;">Wheel raising water. <i> An illustrated guide to the Federated Malay States,</i> 1910, p. 111.</div>
+
 F. J. B. Dykes was the Senior Warden of Mines for the Federation by 1903, having served in Malayan mines for more than a decade. He describes tin-mining methods, from hydraulic mining to basket dredging; sale and smelting of tin ore; general conditions of labour and details of legislation and export dues. He even has something to say of gold and coal mining in the Federated Malay States. By the time the guide was published, Dykes had retired to England where he served in the Malayan Information Agency, the same agency that published the guide. Updates to the article were given by F. J. Ballantyne for subsequent reprints of the guide because of Dyke’s untimely death in 1918.
 
 Concluding the guide is a one-page glossary of Malay terms, an alphabetical listing of rest houses, details of tours with train services and various calculations of distances, monies and tariffs.
