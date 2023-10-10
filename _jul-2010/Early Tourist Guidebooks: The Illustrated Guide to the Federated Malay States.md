@@ -132,29 +132,30 @@ Paul Kratoska, “Introduction,” in [_An Illustrated Guide to the Federated Ma
 “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080818-1.2.50),” _Straits Times_, 18 August 1908, 6. (From NewspaperSG)
 
 #### **NOTES**
+      
+[^1]: Cuthbert Woodville Harrison, ed., _[An Illustrated Guide to the Federated Malay States](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12873405)_ (London: Malay States Information Agency, 1910), 2. (Call no. RRARE 959.5 ILL; microfilm NL25918)
 
-[^1]: Harrison, [_Illustrated Guide to the Federated Malay States_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12873405), 2.
+[^2]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080818-1.2.50),” _Straits Times_, 18 August 1908, 6. (From NewspaperSG)
 
-[^2]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080818-1.2.50).”&nbsp;
+[^3]: “[Tourist Tour in Java](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080713-1.2.74),” _Straits Times_, 13 July 1908, 7. (From NewspaperSG) &nbsp;
 
-[^3]: “[Tourist Tour in Java](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080713-1.2.74).”
+[^4]: “[Jennings’ Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000216-1.2.29),” _Straits Times_, 16 February 1900, 2. (From NewspaperSG). It was compiled by F. K. Jennings who had established the agency at 3 Finlayson Green in 1899 – “[The Passenger Agency](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18991110-1.2.50),” _Straits Times_, 10 November 1899, 3. (From NewspaperSG)
 
-[^4]: “[Jennings’ Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000216-1.2.29).” It was compiled by F. K. Jennings who had established the agency at 3 Finlayson Green in 1899 – “[The Passenger Agency](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18991110-1.2.50).” .
-
-[^5]: “[Come to Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19290504-1.2.34).”
+[^5]: “[Come to Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19290504-1.2.34),” _Malayan Saturday Post_, 4 May 1929, 20. (From NewspaperSG)
 
 [^6]: Harrison in 1897, Robson in 1889, Hubback in 1895 and Dykes in 1892. It is uncertain when H. C. Robinson arrived in Malaya.
 
 [^7]: Harrison had been Secretary to the Residents of Selangor (1919) and Perak (1921) as well as Commissioner of Lands of the FMS (1923). Robson was a member of the Federal Council (1909) and founder and editor of the Malay Mail (1896). Hubback became Chief Game Warden of the FMS in 1933 while Robinson was Director of Museums, FMS since 1908. Dykes was appointed Senior Warden of Mines for FMS in 1903.
 
-[^8]: [A Literary Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200717-1.2.74).”
+[^8]: [A Literary Guide – Mr C. W. Harrison’s Account of the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200717-1.2.74).” _Straits Times_, 17 July 1920, 10. (From NewspaperSG)
 
-[^9]: Namely a 6 h.p. de Dion-Bouton in 1903 – “[The Story of Malayan Journalism](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340805-1.2.31).
+[^9]: Namely a 6 h.p. de Dion-Bouton in 1903 – “[The Story of Malayan Journalism](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340805-1.2.31),” _Straits Times_, 5 August 1934, 5. (From NewspaperSG)
 
-[^10]: Hall, “[Tall Boy Who Came Back](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560617-1.2.98).”
+[^10]: Nan Hall, “[The Tall Boy Who Came Back With an Album](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560617-1.2.98),” _Straits Times_, 17 June 1956, 1. (From NewspaperSG)
 
 [^11]: G. R. Lambert, well-known for his black- and-white photographs of Singapore and the Malay Peninsula was a contemporary of Kleingrothe. Kleingrothe had in fact begun his career in Southeast Asia as manager of the Deli branch of G. R. Lambert and Company.
 
-[^12]: “Malayan Outpost,” 27.
+[^12]: “Malayan Outpost: The Work of the Malay States Information Agency,” _British Malaya Magazine: Magazine of the Association of British Malaya_ (May 1926), 27–28. (Microfilm NL 7599 (1926–30)
 
-[^13]: “[Guide to the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101217-1.2.61).”
+[^13]: “[Guide to the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101217-1.2.61),” _Straits Times_, 17 December 1910, 7.(From NewspaperSG)
+
