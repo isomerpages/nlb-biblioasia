@@ -2,15 +2,15 @@
 title: "1872: The Fortune of War Tragedy: A Christmas Celebration in Tanjong
   Pagar Turns Violent"
 permalink: /vol-6/issue-2/jul-2010/tanjong-pagar-war-tragedy/
-description: "Through news reports run in Singapore Daily Times, Lee Kong Chian
+description: Through news reports run in Singapore Daily Times, Lee Kong Chian
   Research Fellow Erik Holmberg pieces together the events leading up to the
-  violence and bloodshed in a tavern during a 1872 Christmas celebration. "
+  violence and bloodshed in a tavern during a 1872 Christmas celebration.
 ---
-#### Through news reports run in _Singapore Daily Times_, Lee Kong Chian Research Fellow _Erik Holmberg_ pieces together the events leading up to the violence and bloodshed in a tavern during a 1872 Christmas celebration.[^1]
+#### Through news reports run in&nbsp;_Singapore Daily Times_, Lee Kong Chian Research Fellow&nbsp;_Erik Holmberg_&nbsp;pieces together the events leading up to the violence and bloodshed in a tavern during a 1872 Christmas celebration.[^1]
 
 "*A very serious affray occurred last night at a tavern called the ‘Fortune of War,’ on the corner of Tanjong Pagar and New Harbour roads, between some men of the 80th Regiment from the steamer Scotland, and some sailors belonging to that vessel.… a patrol of soldiers, with sidearms, was sent out from the ship to look for stragglers, but the attractions of the tavern, and the fact of it being Christmas, proved too great for them, and the patrol remained there, drinking with the sailors and others, until a late hour, when, as usual when sailors and soldiers meet at a drinking bout, the entertainment wound up with a fight. The soldiers used their bayonets, and the sailors their knives and anything else they could get hold of. One of the sailors was killed, we believe with a bayonet wound in the abdomen, and there were several wounded on both sides*. …"
 
-&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;-_Singapore Daily Times_,<br>&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;26 December 1872
+                       -_Singapore Daily Times_,<br>                    26 December 1872
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%202/War%20Tragedy/British%20in%20Malaya.jpg">
  <div style="background-color: white;">All rights reserved, Oxford University Press, 1979.</div>
@@ -39,7 +39,7 @@ The lives of Chinese immigrant labourers, including their experiences in China w
 
 The setting of the bloodshed on Christmas Day in 1872 was a tavern called the “Fortune of War” in Tanjong Pagar, in an insalubrious swampy locality near the harbour, which seemed to have been devoted at least in part to the refreshment of seafarers. We can imagine what this area was like in the 1870s, thanks to a description of the place written by a visitor who landed here five years after the deadly Yuletide brawl. When the American naturalist William Hornaday arrived in Singapore on 20 May 1878, he described a stinking creek of slime along the road between the harbour and Chinatown, and he noted several taverns with nautical names in this area.[^10] The imagery of Tanjong Pagar in the 1870s that Hornaday thus bequeathed to us – an image of seafarers’ taverns and a slimy, reeking stream – sets the stage for the picture of holiday celebration and deadly violence that emerges from the microfilmed pages of the *Singapore Daily Times*.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/War%20Tragedy/photo%20street%20scene%20of%20Tg%20Pagar%20Rd1.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%202/War%20Tragedy/photo%20street%20scene%20of%20Tg%20Pagar%20Rd1.jpg">
  <div style="background-color: white;">Street Scene At Tanjong Pagar Road (1890).<i> Gretchen Liu Collection, courtesy of National Archives of Singapore.</i></div>
 
 The first of several reports on the bloodshed at the Fortune of War tavern on the night of Christmas in 1872 appeared in the *Singapore Daily Times* on the following day. This account explains how the soldiers and sailors happened to engage in what seemed to have been a friendly Christmas celebration together, complete with alcoholic refreshments, before the party turned ugly. The report goes on to recount how the men in the tavern attacked and wounded a European police officer when he tried to stop the brawl, and how reinforcements finally arrived and brought the situation under control.
@@ -91,13 +91,13 @@ The Christmas bloodshed in 1872 reveals the underside of celebratory activity, t
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Erik_Holmberg.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Erik_Holmberg.jpg" style="width: 100px; height: 100px;">
  <center><b>Erik Holmberg</b><br>Lee Kong Chian Research Fellow (2008)<br> National Library </center></div>
  
 #### **REFERENCES**
 
-Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore: From the Foundation of the Settlement ... on February 6th, 1819 to the Transfer to the Colonial Office ... on April 1st, 1867_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Fraser & Neave, 1984) (First ed. Published 1902). (Call no. RSING 959.57 BUC)
+Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore: From the Foundation of the Settlement ... on February 6th, 1819 to the Transfer to the Colonial Office ... on April 1st, 1867_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Fraser &amp; Neave, 1984) (First ed. Published 1902). (Call no. RSING 959.57 BUC)
 
 David Cannadine, [_Ornamentalism: How the British Saw Their Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202837340) (London: Allen Lane, The Penguin Press, 2001). (Call no. RCLOS 941.08 CAN)
 
@@ -124,28 +124,28 @@ _Singapore Daily Times_, 1872–1873. (microfilm NL349 and NL350)
 _The Straits Calendar and Directory_ (Singapore: Commercial Press, 1873)
 
 #### **NOTES**
-
+  
 [^1]: This article is a condensed version of a longer essay, both of which were submitted to the National Library of Singapore in fulfillment of the requirements of my appointment as a Lee Kong Chian Research Fellow in 2008. I am very grateful to Clement Liew, Assistant Professor Syed Muhd Khairudin Aljunied and Professor James Francis Warren, each of whom inspired me to attempt to retrieve the history of some of the forgotten people of colonial Singapore – including those who sometimes found themselves on the wrong side of the law. I am also grateful to Senior Reference Librarian Nor-Afidah Abd Rahman of the Lee Kong Chian Reference Library for her assistance, and to Deputy Director Johnson Paul, Assistant Director Dr. Narinder Kaur Bawa Singh, Veronica Chee, Pat Ng, Angelina Phoon, Sandy Huey Jing Toh, Akshata Ramchandra Patkar, and the many other people at the National Library who helped me in various ways.
 
-[^2]: Lee, [_British As Rulers_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5678026), 23–47.
+[^2]: Edwin Lee, _[The British As Rulers: Governing Multiracial Singapore 1867–1914](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5678026)_. (Singapore: Singapore University Press, 1991), 23–47. (Call no. RSING 959.57022 LEE)
 
-[^3]: Regarding the founding of the Settlement of Singapore by Sir Stamford Raffles, see, for example: Chew, “[Foundation of a British Settlement](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5914108),” 36–40.
+[^3]: Regarding the founding of the Settlement of Singapore by Sir Stamford Raffles, see, for example: Ernest C.T. Chew, “The Foundation of a British Settlement,” in _[A History of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5914108)_, ed. Ernest C.T. Chew and Edwin Lee (Singapore: Oxford University Press, 1991), 36–40. (Call no. RSING 959.57 HIS)
 
-[^4]: In 1986, James Francis Warren pointed out that there was no monument to rickshaw pullers in Singapore. See Warren, [_Rickshaw Coolie_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4195389), 326.
+[^4]: In 1986, James Francis Warren pointed out that there was no monument to rickshaw pullers in Singapore. See James Francis Warren, _[Rickshaw Coolie: A People’s History of Singapore (1880–1940)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4195389)_ (Singapore: Oxford University Press, 1986), 326. (Call no. RSING 301.4444095957 WAR)
 
-[^5]: See Cameron, [_Our Tropical Possessions_](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx), 281; Reprint edition, Singapore: Ascanio Books, [2007](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12928815) (Call no. RSING 959.503 CAM); Also reprinted as [_Our Tropical Possessions in Malayan India_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4093780) with an introduction by Wang Gungwu, 1965.
+[^5]: See John Cameron, _[Our Tropical Possessions in Malayan India: Being a Descriptive Account of Singapore, Penang, Province Wellesley, and Malacca; Their Peoples, Products, Commerce, and Government](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx)_ (London: Smith, Elder and Co., 1865), 281 (From BookSG; call no. RRARE 959.5 CAM; microfilm NL11224); Reprint edition, Singapore: Ascanio Books, [2007](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12928815) (Call no. RSING 959.503 CAM); Also reprinted as John Cameron, _Our Tropical Possessions in Malayan India_, intro. Wang Gungwu (Kuala Lumpur: Oxford University Press, 1965). (Originally published in 1865). (Call no. RSING 959.5 CAM)
 
-[^6]: Butcher, [_British in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1901870), 127, 128, 132, 157, and 223.
+[^6]: John G. Butcher, _[The British in Malaya, 1880—1941: The Social History of a European Community in Colonial South-East Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1901870)_ (Kuala Lumpur: Oxford University Press, 1979), 127, 128, 132, 157, 223. (Call no. RSING 301.4512105951033 BUT)
 
-[^7]: Regarding the recovery and retrieval of the lives of prostitutes through historical research, see Warren, [_Ah Ku and Karayukisan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6434774), 389.
+[^7]: Regarding the recovery and retrieval of the lives of prostitutes through historical research, see James Francis Warren, _[Ah Ku and Karayukisan: Prostitution in Singapore 1870—1940](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6434774)_ (Singapore: Oxford University Press, 1993), 389. (Call no. RSING 306.74095957 WAR)
 
-[^8]: Butcher, [_British in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1901870), 93–96,127–33, 233–38.  
+[^8]: Butcher, _[British in Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1901870)_, 93–96,127–33, 233–38.&nbsp;
 
-[^9]: Yen Ching-Hwang, [_A Social History of the Chinese in Singapore and Malaya 1800–1911_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4182822) (Singapore: Oxford University Press, 1986), 1–10, 112–16, 222–58. (Call no. RSING 301.45195105957 YEN)
+[^9]: Yen Ching-Hwang, _[A Social History of the Chinese in Singapore and Malaya 1800–1911](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4182822)_ (Singapore: Oxford University Press, 1986), 1–10, 112–16, 222–58. (Call no. RSING 301.45195105957 YEN)
 
-[^10]: Hornaday, [_Two Years in the Jungle_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202690032), 1885, parts III and IV reprinted as: [_The Experiences of a Hunte and Naturalist in the Malay Peninsula and Borneo_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6558659), with an introduction by J.M. Gullick, 1993, 3.
+[^10]: William T. Hornaday, _[Two Years in the Jungle: The Experiences of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202690032)_ (\[Whitefish, MT\]: Kessinger Publishing, 2007). (Originally published in 1885). (Call no. RSEA 915.4 HOR); parts III and IV reprinted as: _[The Experiences of a Hunte and Naturalist in the Malay Peninsula and Borneo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6558659)_, with an introduction by J.M. Gullick, 1993, 3.
 
-[^11]: New Harbour was renamed Keppel Harbour on 19 April 1900, in honour of Admiral of the Fleet the Honourable Sir Henry Keppel, while the road leading to this harbour was named after Admiral Keppel fifteen years earlier, according to  Buckley’s [_Anecdotal History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239), 493.
+[^11]: New Harbour was renamed Keppel Harbour on 19 April 1900, in honour of Admiral of the Fleet the Honourable Sir Henry Keppel, while the road leading to this harbour was named after Admiral Keppel fifteen years earlier, according to Charles Burton Buckley, _[An Anecdotal History of Old Times in Singapore: From the Foundation of the Settlement ... on February 6th, 1819 to the Transfer to the Colonial Office ... on April 1st, 1867](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239)_ (Singapore: Fraser &amp; Neave, 1984), 493. (First ed. Published 1902). (Call no. RSING 959.57 BUC)
 
 [^12]: _Singapore Daily Times_, 2 December 1872, 2.
 
@@ -157,12 +157,12 @@ _The Straits Calendar and Directory_ (Singapore: Commercial Press, 1873)
 
 [^16]: _Singapore Daily Times_, 1 February 1873, 2.
 
-[^17]: Warren, [_Rickshaw Coolie_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4195389), x and 5–8.
+[^17]: Warren, _[Rickshaw Coolie](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4195389)_, x and 5–8.
 
 [^18]: I refer to classes as working, middle, and upper or elite, merely because these terms have been widely used, and because I find them useful for explanatory purposes in the current context. I am not arguing that there are a fixed number of social or economic A classes, or that the boundaries between different classes are necessarily definite and fixed. However, the concept of class seems to have sufficient social reality to be useful in discussions of societies and social structure, despite the difficulty in finding clear-cut class definitions – indeed, it seems likely that such clear boundaries will never be found, because they do not exist today, at least not in modern industrial or post-industrial societies. Still, the uncertainty over the number and definition of classes within a given population does not prevent us from thinking about societies in terms of class.
 
-[^19]: Cannadine, [_Ornamentalism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202837340), 9–10. I am grateful to Associate Professor Maurizio Peleggi for urging me to read Ornamentalism in 2002.
+[^19]: David Cannadine, _[Ornamentalism: How the British Saw Their Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202837340)_ (London: Allen Lane, The Penguin Press, 2001), 9–10. (Call no. RCLOS 941.08 CAN). I am grateful to Associate Professor Maurizio Peleggi for urging me to read Ornamentalism in 2002.
 
-[^20]: Malcolm H. Murfett, John N. Miksic, Brian P. Farrell, and Chiang Ming Shun, [_Between Two Oceans: A Military History of Singapore From First Settlement to Final British Withdrawal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9310557) (Singapore: Oxford University Press, 1999), 95. (Call no. RSING 355.0095957 BET)
+[^20]: Malcolm H. Murfett, John N. Miksic, Brian P. Farrell, and Chiang Ming Shun, _[Between Two Oceans: A Military History of Singapore From First Settlement to Final British Withdrawal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9310557)_ (Singapore: Oxford University Press, 1999), 95. (Call no. RSING 355.0095957 BET)
 
 [^21]: See the report on the census of Singapore Island taken on 3 April 1871, in _Singapore Daily Times_, 16 May 1873, 4.

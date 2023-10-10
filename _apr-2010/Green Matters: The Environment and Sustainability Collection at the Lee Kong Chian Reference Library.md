@@ -2,12 +2,12 @@
 title: "Green Matters: The Environment and Sustainability Collection at the Lee
   Kong Chian Reference Library"
 permalink: /vol-6/issue-1/apr-2010/green-matter-environment-sustainability/
-description: "Senior Librarian Sara Pek shares highlights from the Environment
-  and Sustainability Collection at the Lee Kong Chian Reference Library. "
+description: Senior Librarian Sara Pek shares highlights from the Environment
+  and Sustainability Collection at the Lee Kong Chian Reference Library.
 ---
-#### Senior Librarian _Sara Pek_ shares highlights from the Environment and Sustainability Collection at the Lee Kong Chian Reference Library.
+#### Senior Librarian&nbsp;_Sara Pek_&nbsp;shares highlights from the Environment and Sustainability Collection at the Lee Kong Chian Reference Library.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"*We are living in this planet as if we had another one to go to.*”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Paul Connett<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Professor Emeritus of Chemistry <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;St Lawrence University, Canton, NY[^1]
+          "*We are living in this planet as if we had another one to go to.*”<br>               Paul Connett<br>               Professor Emeritus of Chemistry <br>               St Lawrence University, Canton, NY[^1]
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/GreenMatters/Oxford%20companion%20to%20global%20change.jpg">
  <div style="background-color: white;">All rights reserved, Oxford University Press, 2009.</div>
@@ -23,7 +23,7 @@ Environmental awareness is a hot topic today. To increase youth’s awareness of
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/GreenMatters/Green%20Reads.jpg">
  <div style="background-color: white;">All rights reserved, Libraries Unlimited/ABC-CLIO, 2009.</div>
 
-Students and professionals seeking to understand the environmental sciences can refer to a range of references on the topics. *The Oxford companion to global change* (Goudie & Cuff, 2009) is a well-balanced coverage of the Earth systems and human factors. It examines key environmental events, trends and issues related to global change. The 2007 *report of the Intergovernmental Panel on Climate Change (IPCC)*, which assesses the scientific, technical, environmental, economic and social aspects of climate change, is discussed.
+Students and professionals seeking to understand the environmental sciences can refer to a range of references on the topics. *The Oxford companion to global change* (Goudie &amp; Cuff, 2009) is a well-balanced coverage of the Earth systems and human factors. It examines key environmental events, trends and issues related to global change. The 2007 *report of the Intergovernmental Panel on Climate Change (IPCC)*, which assesses the scientific, technical, environmental, economic and social aspects of climate change, is discussed.
 
 Numerous heroes of the environment have cared intensely about the environment. Works on these prominent environmental leaders and visionaries, activists, scientists, innovators and entrepreneurs such as Rachel Carson, Aldo Leopold, Jane Goodall, John Muir, David Attenborough, Al Gore, Tim Flannery, Lester Brown and Henry David Thoreau can be found in the library.
 
@@ -32,9 +32,9 @@ One book that many considered as the most important environmental book of the 20
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/GreenMatters/Silent%20Spring.jpg">
  <div style="background-color: white;">All rights reserved, Houghton Mifflin, 1994.</div>
 
-Earth Day is celebrated every year. It is a special day to appreciate the planet Earth and be environmentally conscious. The first Earth Day in 1970 was often thought as one of the factors leading to the field of environmental ethics. A good introduction to this increasingly urgent topic is *Environmental ethics: An anthology* (Rolston & Light, 2003). This text is compilation of classical and contemporary essays on key environmental debates and issues.
+Earth Day is celebrated every year. It is a special day to appreciate the planet Earth and be environmentally conscious. The first Earth Day in 1970 was often thought as one of the factors leading to the field of environmental ethics. A good introduction to this increasingly urgent topic is *Environmental ethics: An anthology* (Rolston &amp; Light, 2003). This text is compilation of classical and contemporary essays on key environmental debates and issues.
 
-Cities throughout the world face the common challenge to balance sustainability, economic progress and good governance. There are many discussions addressing the subject of environmentally sustainable development such as: *Resilient cities: Responding to peak oil and climate change* (Newman, Beatley & Boyer, 2009) and *World cities: Achieving liveability and vibrancy* (Ooi & Yuen, 2010).
+Cities throughout the world face the common challenge to balance sustainability, economic progress and good governance. There are many discussions addressing the subject of environmentally sustainable development such as: *Resilient cities: Responding to peak oil and climate change* (Newman, Beatley &amp; Boyer, 2009) and *World cities: Achieving liveability and vibrancy* (Ooi &amp; Yuen, 2010).
 
 The largest and most discussed report in recent years is *Stern Review on the Economics of Climate Change* (Stern, 2007). This 700-page report is a comprehensive analysis of the economic aspects of environmental issues. Compiled by an economist, the review gives an optimistic assessment for the future but warns that the world must act now on climate change to avoid devastating economic consequences.
 
@@ -43,28 +43,31 @@ A deluge of eco-literature has been coming to the library shelves. Some books ca
 Some of these green books include: *Our choice: A plan to solve the climate crisis* (Gore, 2009), *Hot, flat, and crowded: Why we need a green revolution – and how it can renew America* (Friedman, 2008), *Earth in mind: On education, environment, and the human* (Orr, 2004) and *Eco barons: The dreamers, schemers, and millionaires who are saving our planet* (Humes, 2009).
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/GreenMatters/Hot,%20Flat%20and%20Crowded.jpg">
- <div style="background-color: white;">All rights reserved, Farrar, Straus & Giroux, c2008.</div>
-
+ <div style="background-color: white;">All rights reserved, Farrar, Straus &amp; Giroux, c2008.</div>
 
 #### **Global Race for Clean Resources**
 
- &emsp;&emsp;&emsp;*“Because our economic future depends on our leadership<br>&emsp;&emsp;&emsp;in the industries of the future, we are investing in basic applied <br>&emsp;&emsp;&emsp;research... We know the nation that leads in clean energy<br>&emsp;&emsp;&emsp;will be the nation that leads the world.”*<br>&emsp;&emsp;&emsp;*United States President Barack Obama’s speech[^3] on the economy<br>&emsp;&emsp;&emsp;and job creation ideas on 8 December 2009.*
+    *“Because our economic future depends on our leadership<br>   in the industries of the future, we are investing in basic applied <br>   research... We know the nation that leads in clean energy<br>   will be the nation that leads the world.”*<br>   *United States President Barack Obama’s speech[^3] on the economy<br>   and job creation ideas on 8 December 2009.*
 
 The benefits of producing clean and sustainable power from renewable energy sources have received growing attention worldwide, including in Singapore. The International Energy Agency (IEA) reports[^4] that nations must invest US$37 trillion in energy technologies by 2030 to avoid climate catastrophe and meet energy needs. Asia’s rising “clean technology tigers”[^5] – China, Japan and South Korea – are poised to win the clean energy race with their hefty investment in clean energy infrastructure and technology.
 
-Since identifying clean technology as a strategic part of a sustainable economy, the Singapore government has committed $700 million[^6] for R&D and manpower training to grow the sector. Clean technology or “clean-tech” is applied in a broad range of industries, including energy, water, manufacturing, advanced materials and transportation. Examples of clean-tech are solar and wind energy, water filtration and electric vehicles.
+Since identifying clean technology as a strategic part of a sustainable economy, the Singapore government has committed $700 million[^6] for R&amp;D and manpower training to grow the sector. Clean technology or “clean-tech” is applied in a broad range of industries, including energy, water, manufacturing, advanced materials and transportation. Examples of clean-tech are solar and wind energy, water filtration and electric vehicles.
 
-To support the information needs of this rapidly emerging field, the library has built a collection of key publications on market trends, investment, technological and economic aspects of renewable energy. Recent titles include: *Global energy transformation: Four necessary steps to make clean energy the next success story* (Larson, 2009), *Clean money: Picking winners in the green tech boom* (Rubino, 2009) and *The clean tech revolution: Discover the top trends, technologies, and companies to watch* (Pernick & Wilder, 2008).
+To support the information needs of this rapidly emerging field, the library has built a collection of key publications on market trends, investment, technological and economic aspects of renewable energy. Recent titles include: *Global energy transformation: Four necessary steps to make clean energy the next success story* (Larson, 2009), *Clean money: Picking winners in the green tech boom* (Rubino, 2009) and *The clean tech revolution: Discover the top trends, technologies, and companies to watch* (Pernick &amp; Wilder, 2008).
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%201/GreenMatters/Presentation1.jpg">
- <div style="background-color: white;">(Left) All rights reserved. John Wiley & Sons, 2009. <br>  (Right) All rights reserved, Collins Business, 2008.</div>
+ <div style="background-color: white;">(Left) All rights reserved. John Wiley &amp; Sons, 2009. <br>  (Right) All rights reserved, Collins Business, 2008.</div>
 
-The push for environmental and water technologies (EWT) industry has also thrown up new and exciting challenges for those in the engineering fields. Job seekers and practicing engineers looking to strengthen their career prospects can refer to titles like *Alternative energy systems and application* (Hodge, 2010) and *Energy systems engineering: Evaluation and implementation* (Vanek & Albright, 2008), *The Yaws handbook of properties for environmental and green engineering* (Yaws, 2008) and *Handbook of environmental engineering calculations* (Lee & Lin, 2007).
+The push for environmental and water technologies (EWT) industry has also thrown up new and exciting challenges for those in the engineering fields. Job seekers and practicing engineers looking to strengthen their career prospects can refer to titles like *Alternative energy systems and application* (Hodge, 2010) and *Energy systems engineering: Evaluation and implementation* (Vanek &amp; Albright, 2008), *The Yaws handbook of properties for environmental and green engineering* (Yaws, 2008) and *Handbook of environmental engineering calculations* (Lee &amp; Lin, 2007).
 
-Online databases,[^7] such as IEEE/IET electronic library, SpringerLink, Nature.com and Proquest Science offer, premium content from international journals and reports. Library users can access these resources at the library or at home. Some of the periodicals available are *Energy Design Update*, *Energy Compass*, *Energy Engineering*, *Energy Intelligence*, *The Energy Journal*, *The Journal of Energy Markets*, *Water & Wastewater International, Water Environment Research and Journal of Water Resource and Protection*.
+Online databases,[^7] such as IEEE/IET electronic library, SpringerLink, Nature.com and Proquest Science offer, premium content from international journals and reports. Library users can access these resources at the library or at home. Some of the periodicals available are *Energy Design Update*, *Energy Compass*, *Energy Engineering*, *Energy Intelligence*, *The Energy Journal*, *The Journal of Energy Markets*, *Water &amp; Wastewater International, Water Environment Research and Journal of Water Resource and Protection*.
 
 #### **Going Green**
-Green is now mainstream. A National Geographic survey, Greendex[^8] shows that consumers are buying more green products even during the economic crisis of 2008. Companies are introducing new greener products. Books on green marketing and green business like *The truth about green business* (Friend & Kordesch & Privitt, 2009), *Harvard Business Review on green business strategy* (Harvard business review, 2007) and *Strategies for the green economy: Opportunities and challenges in the new world of business* (Makower & Pike, 2009) are relevant to this segment of readers.
+Green is now mainstream. A National Geographic survey, Greendex[^8] shows that consumers are buying more green products even during the economic crisis of 2008. Companies are introducing new greener products. Books on green marketing and green business like *The truth about green business* (Friend &amp; Kordesch &amp; Privitt, 2009), *Harvard Business Review on green business strategy* (Harvard business review, 2007) and *Strategies for the green economy: Opportunities and challenges in the new world of business* (Makower &amp; Pike, 2009) are relevant to this segment of readers.
+
+<img src="/images/Vol%206%20Issue%201/GreenMatters/Strategies%20for%20Green%20Economy.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, McGrawHill, 2009.
+</div>
 
 However, media experts[^9] warn that marketing strategies dubbed “greenwashing” could be leading the eco-conscious astray as more companies are making false or misleading green marketing claim.
 
@@ -74,12 +77,15 @@ The Singapore government has been a key driver for environmental change since in
 
 Energy-efficient buildings are universally recognised to reduce greenhouse gas emission. A Singapore Green Building Council (SGBC) was set up to drive the green-buildings movement in Singapore.[^10] The Building and Construction Authority (BCA) has announced ambitious efforts to have 80% of Singapore‘s buildings attain minimum green-certified standards by 2030. The “green collar” sector is expected to grow by leaps and bounds. There will be strong demand for manpower in the development, design, construction, operation and maintenance of green buildings.
 
-Environmental planners, consultants and plant operators looking for references on energy efficient buildings, green architecture and ecocity will find many new titles on the topics, for example, *The green building bottom line: The real cost of sustainable building* (Melaver & Mueller, 2009), *Ecomasterplanning* (Yeang, 2009) and *Green architecture now!* (Jodidio, 2009).
+Environmental planners, consultants and plant operators looking for references on energy efficient buildings, green architecture and ecocity will find many new titles on the topics, for example, *The green building bottom line: The real cost of sustainable building* (Melaver &amp; Mueller, 2009), *Ecomasterplanning* (Yeang, 2009) and *Green architecture now!* (Jodidio, 2009).
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/GreenMatters/Green%20Building%20Bottomline.jpg">
-<div style="background-color: white;">All rights reserved, John Wiley & Sons, c2010.</div>
+<div style="background-color: white;">All rights reserved, John Wiley &amp; Sons, c2010.</div>
 
 Green vehicles will soon hit the roads in Singapore. A multi-agency taskforce led by the Energy Market Authority (EMA) and Land Transport Authority (LTA) has embarked on national electric vehicles (EVs) test-bedding programme.[^11] It will allow testing of different EV prototypes and charging technologies and research into vehicle-to-grid (V2G) power. Anyone interested to know the technology and issues behind EV can refer to books such as *Future cars: Bio fuel, hybrid, electric, hydrogen, fuel economy in all sizes and shapes* (Bethscheider-Kieser, 2008) and *Plug-in electric vehicles: What role for Washington?* (Sandalow, 2009).
+
+<img src="/images/Vol%206%20Issue%201/GreenMatters/Eco%20Master%20Planning1.jpg" style="width:100%;">
+ <div style="background-color: white;">All rights reserved, Chichester, 2009.</div>
 
 #### **Conclusion**
 
@@ -87,8 +93,8 @@ It is currently believed that science and technology can provide effective solut
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Sara%20Pek.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Sara%20Pek.jpg" style="width: 100px; height: 100px;">
 <center><b>Sara Pek</b><br>Senior Librarian<br>Lee Kong Chian Reference Library<br>National Library </center></div>
 
 #### **REFERENCES**
@@ -97,7 +103,7 @@ Al Gore, [_Our Choice: A Plan To Solve the Climate Crisis_](https://eservice.nlb
 
 Andrew Light and Holmes Rolston III, eds., [_Environmental Ethics: An Anthology_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11541830) (Oxford: Blackwell, 2003). (Call no. R 179.1 ENV)
 
-B. K. Hodge, [_Alternative Energy Systems and Applications_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167932) (Hoboken: John Wiley & Sons, 2010). (Call no. R 621.042 HOD)
+B. K. Hodge, [_Alternative Energy Systems and Applications_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167932) (Hoboken: John Wiley &amp; Sons, 2010). (Call no. R 621.042 HOD)
 
 C. C. Lee and Shun Dar Lin, eds., [_Handbook of Environmental Engineering Calculations_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12909666) (New York: McGraw Hill, 2007). (Call no. R 628 HAN)
 
@@ -119,7 +125,7 @@ Gil Friend, Nicholas Kordesch and Benjamin Privitt, [_The Truth About Green Busi
 
 Joel Makower and Cara Pike, [_Strategies for the Green Economy: Opportunities and Challenges in the New World of Business_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13056642) (New York: McGraw-Hill, 2009). (Call no. RBUS 658.4083 MAK)
 
-John Rubino, [_Clean Money: Picking Winners in the Green-Tech Boom_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13053340)  (Hoboken: John Wiley & Sons, 2009). (Call no. RBUS 332.6 RUB)
+John Rubino, [_Clean Money: Picking Winners in the Green-Tech Boom_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13053340) &nbsp;(Hoboken: John Wiley &amp; Sons, 2009). (Call no. RBUS 332.6 RUB)
 
 Ken Yeang, [_Ecomasterplanning_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13188044) (Hoboken: Chichester, 2009). (Call no. RSEA 720.47 YEA)
 
@@ -133,7 +139,7 @@ Michael R. Greenberg, [_Environmental Policy Analysis and Practice_](https://ese
 
 Nicholas Stern, [_The Economics of Climate Change: The Stern Review_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12845998) (Cambridge, UK: Cambridge University Press, 2007). (Call no. R 363.73874 GRE)
 
-Ooi Giok Ling and Belinda Yuen, eds., [_World Cities: Achieving Liveability and Vibrancy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13219134)  (Singapore: World Scientific, 2010). (Call no. RSING 338.927 WOR)
+Ooi Giok Ling and Belinda Yuen, eds., [_World Cities: Achieving Liveability and Vibrancy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13219134) &nbsp;(Singapore: World Scientific, 2010). (Call no. RSING 338.927 WOR)
 
 Peter Newman, Timothy Beatley and Heather Boyer, [_Resilient Cities: Responding to Peak Oil and Climate Change_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13101977) (Washington, D.C.: Island Press, 2009). (Call no.: R 307.76 NEW)
 

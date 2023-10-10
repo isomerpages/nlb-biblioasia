@@ -10,7 +10,7 @@ description: Senior Librarian Bonny Tan examines the Illustrated Guide to the
 *        “We travel nowadays far more often and far further than our <br>        ancestors but we do not, as they say they did, hanker for hardship.<br>        We like to see new countries, new people and new ways of living,<br>          but we like a little 
 comfort hereto...”*[^1]
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/Malay%20Houseboats.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/Malay%20Houseboats.jpg">
  <div style="background-color: white;">Malay houseboats on Pahang River at Kuala Lipis. <i>An illustrated guide to the Federated Malay States,</i>1910, p. 84.</div>
 
 #### **The Audience: Early 20th Century**
@@ -29,14 +29,14 @@ Even as late as 1929, it was still felt that tourists pouring into the region ha
 
 The Malay Peninsula in the late 19th century was then a patchwork of colonial rule and control, with initially only the Straits Settlements directly under British wings. Wild animals, wild men and wild habits still prevailed in interior Malaya. Author and editor of the guide, C. W. Harrison highlights the fact that “\[u\]p to some thirty years ago those of the Native States of the Malay Peninsula which are now the Federated Malay States, had little or no dealings with the civilizations lying east and west of them. They were unknown to history, scarce visited by other races, except the Chinese, heard of only as the wild lands forming the hinterland of Penang, Malacca and Singapore….In the Straits Settlements they were known certainly as places somewhat unsafe to visit, but for treachery and bloodthirstiness they were never comparable to the islands further south from which the sea-rovers came. Merely they were shockingly misgoverned by rulers perpetually infirm of purpose...” (Harrison, 1910, pp. 4–5)
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/Rubber%20Plantation.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/Rubber%20Plantation.jpg">
  <div style="background-color: white;">Para rubber plantation, 12 and 15 year-old trees.<i> An illustrated guide to the Federated Malay States,</i> 1910, p. 161.</div>
 
 Tin mining and rubber plantations, however, were quickly transforming the landscape and society of Malaya. The guide offers details of the labour-intensive task of open-cast mining and of the Chinese coolies who worked them. “Roughly 40 percent of the world’s tin comes from the Federated Malay States. ‘Imagination boggles at the thought’ that from this little more that (sic) twentyfive thousand square miles of country, two-thirds of which are unexplored or unworked, there should be won in a year tin worth £12,244,000…and it is primarily the revenue so derived which has made the country the wealthy land it now is, and will yet make it wealthier” (Harrison, 1910, pp. 78–79). But conflicts concerning this growing wealth began to get out of hand and the ruling sultans sought the British to alleviate this problem.
 
 When on 1 July 1896, Pahang, Perak, Selangor and Negri Sembilan signed a treaty to form the Federated Malay States under British advisors, the British gained control over these rich industries in return for ensuring good governance and mediation over riotous conflicts which invariably arose where great wealth and anarchy were present. Meanwhile, Malayans began to taste the benefits of British influence in the development of modern infrastructure such as roads and railways as well as a strong government. 
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/Station%20Road.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/Station%20Road.jpg">
  <div style="background-color: white;">Station Road, Ipoh. <i>An illustrated guide to the Federated Malay States,</i> 1910, p. 76.</div>
 
 In the 1920 edition of the guide, it states that the Federated Malay States had “732 miles of railway and 2,344 miles of motor road. This makes them easy to visit, either from Penang or from Singapore… Certainly it is 8,000 miles or more overseas and takes three weeks from Marseilles, but it comes just in the middle of the grand tour between Ceylon and China or Japan and you ought not to miss it. You can rush through it in 24 hours by rail… or take the inside of a fortnight over it… ” (Harrison, 1910, pp. 25 –26)
@@ -54,7 +54,7 @@ Harrison anchors the guide with two solid chapters – the first chapter capture
 
 The second chapter, entitled “Notes for the traveller”, deals with the practicalities of touring the Malay States, from what to expect at local hotels, appropriate clothing to take along, the purchase of curios and important health tips such as how to set up one’s mosquito nets. More interestingly, he gives descriptions of the agricultural and mining industries as well as of the people who work them “for the people you, as a passing traveller, will never know (for you will not leave those beaten tracks, the railway, the road, the river).” (p. 187) For example, Harrison mentions the peculiarities of the Chinese cooly (coolie) and the Malays, their food, dress, methods of work, showing an intimate knowledge of both communities. “You will see plenty of him (the Chinese cooly) in the mines and in the towns, but he is in the jungle too. You will never know him there, but think of him with his load of two bags of tin ore… Yet he is cheerful with it all and ready with a grin for anyone who, passing him, remarks sympathetically ‘Hayah, chusah-lah’ (Anglice – ‘hard work, what?’).” (Harrison, 1910, pp. 187–188)
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/tin%20mine.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/tin%20mine.jpg">
  <div style="background-color: white;">Chinese open-cast tin mine near Kamunting.<i> An illustrated guide to the Federated Malay States,</i> 1910, p. 42.</div>
 
 The Malays he characterises as “senang” – a quality he sees as a strength. “This is not laziness; it is not indolence; it is not slackness; with all of which the race is unintelligently reproached. It is race-intelligence, and it means and it results in senang, and senang is the Malay for salvation, mental and physical, in this climate...The white man comes, the Chinese comes, the Indian comes, to the Malay’s country, and they live their alien strenuous lives. They make material progress and show material death and sickness rates. That is their way of being happy. It is not the Malay’s way. He rejects, and in some sense despises other people’s way, for the vast majority of him consists of ‘people in humble circumstances,’ like those described by Renan, ‘in the state so common in the East, which is neither ease nor poverty. The extreme simplicity of life in such countries, by dispensing with the need for comfort, renders the privileges of wealth almost useless and makes everyone voluntarily poor…’ ” (Harrison, 1910, pp. 198–199)
@@ -67,6 +67,9 @@ In chapter three, Robson describes a fascinating 11-day journey by motorcar down
 A whole chapter of more than 20 pages on big game shooting is given by Hubback, a veteran hunter himself and who was later appointed Chief Game Warden of the FMS. Hubback advises that leopards and tigers, though fairly numerous, were less easy to hunt in the dense jungles. Instead elephants, seladang and rhinoceros made for better targets. Though Hubback advocates hunting to attract the Western traveller, he was a strong conserver of wild life in Malaya. Besides his involvement in drafting the game laws, he was the first to pursue the setting up of game reserves, with the Krau and Gunong Tahan Game Reserves in Pahang credited to his dogged determination in this matter.
 
 Robinson, Director of the F. M. S. Museums and Fisheries, solicited the help of I. H. N. Evans and C. Boden Kloss to write on the Perak and Selangor Museums respectively, giving interesting insights into the zoological as well as ethnographic collections.
+
+<img src="/images/Vol%206%20Issue%202/FederatedMalayState/Wheel%20raising%20water.jpg" style="width:100%;">
+ <div style="background-color: white;">Wheel raising water. <i> An illustrated guide to the Federated Malay States,</i> 1910, p. 111.</div>
 
 F. J. B. Dykes was the Senior Warden of Mines for the Federation by 1903, having served in Malayan mines for more than a decade. He describes tin-mining methods, from hydraulic mining to basket dredging; sale and smelting of tin ore; general conditions of labour and details of legislation and export dues. He even has something to say of gold and coal mining in the Federated Malay States. By the time the guide was published, Dykes had retired to England where he served in the Malayan Information Agency, the same agency that published the guide. Updates to the article were given by F. J. Ballantyne for subsequent reprints of the guide because of Dyke’s untimely death in 1918.
 
@@ -129,32 +132,29 @@ Paul Kratoska, “Introduction,” in [_An Illustrated Guide to the Federated Ma
 “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080818-1.2.50),” _Straits Times_, 18 August 1908, 6. (From NewspaperSG)
 
 #### **NOTES**
+      
+[^1]: Cuthbert Woodville Harrison, ed., _[An Illustrated Guide to the Federated Malay States](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12873405)_ (London: Malay States Information Agency, 1910), 2. (Call no. RRARE 959.5 ILL; microfilm NL25918)
 
-[^1]: Harrison, [_Illustrated Guide to the Federated Malay States_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12873405), 2.
+[^2]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080818-1.2.50),” _Straits Times_, 18 August 1908, 6. (From NewspaperSG)
 
-[^2]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080818-1.2.50).”&nbsp;
+[^3]: “[Tourist Tour in Java](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080713-1.2.74),” _Straits Times_, 13 July 1908, 7. (From NewspaperSG) &nbsp;
 
-[^3]: “[Tourist Tour in Java](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080713-1.2.74).”
+[^4]: “[Jennings’ Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000216-1.2.29),” _Straits Times_, 16 February 1900, 2. (From NewspaperSG). It was compiled by F. K. Jennings who had established the agency at 3 Finlayson Green in 1899 – “[The Passenger Agency](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18991110-1.2.50),” _Straits Times_, 10 November 1899, 3. (From NewspaperSG)
 
-[^4]: “[Jennings’ Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000216-1.2.29).” It was compiled by F. K. Jennings who had established the agency at 3 Finlayson Green in 1899 – “[The Passenger Agency](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18991110-1.2.50).” .
-
-[^5]: “[Come to Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19290504-1.2.34).”
+[^5]: “[Come to Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19290504-1.2.34),” _Malayan Saturday Post_, 4 May 1929, 20. (From NewspaperSG)
 
 [^6]: Harrison in 1897, Robson in 1889, Hubback in 1895 and Dykes in 1892. It is uncertain when H. C. Robinson arrived in Malaya.
 
 [^7]: Harrison had been Secretary to the Residents of Selangor (1919) and Perak (1921) as well as Commissioner of Lands of the FMS (1923). Robson was a member of the Federal Council (1909) and founder and editor of the Malay Mail (1896). Hubback became Chief Game Warden of the FMS in 1933 while Robinson was Director of Museums, FMS since 1908. Dykes was appointed Senior Warden of Mines for FMS in 1903.
 
-[^8]: [A Literary Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200717-1.2.74).”
+[^8]: [A Literary Guide – Mr C. W. Harrison’s Account of the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200717-1.2.74).” _Straits Times_, 17 July 1920, 10. (From NewspaperSG)
 
-[^9]: Namely a 6 h.p. de Dion-Bouton in 1903 – “[The Story of Malayan Journalism](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340805-1.2.31).
+[^9]: Namely a 6 h.p. de Dion-Bouton in 1903 – “[The Story of Malayan Journalism](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340805-1.2.31),” _Straits Times_, 5 August 1934, 5. (From NewspaperSG)
 
-[^10]: Hall, “[Tall Boy Who Came Back](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560617-1.2.98).”
+[^10]: Nan Hall, “[The Tall Boy Who Came Back With an Album](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560617-1.2.98),” _Straits Times_, 17 June 1956, 1. (From NewspaperSG)
 
 [^11]: G. R. Lambert, well-known for his black- and-white photographs of Singapore and the Malay Peninsula was a contemporary of Kleingrothe. Kleingrothe had in fact begun his career in Southeast Asia as manager of the Deli branch of G. R. Lambert and Company.
 
-[^12]: “Malayan Outpost,” 27.
+[^12]: “Malayan Outpost: The Work of the Malay States Information Agency,” _British Malaya Magazine: Magazine of the Association of British Malaya_ (May 1926), 27–28. (Microfilm NL 7599 (1926–30)
 
-[^13]: “[Guide to the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101217-1.2.61).”
-
-        
-
+[^13]: “[Guide to the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101217-1.2.61),” _Straits Times_, 17 December 1910, 7.(From NewspaperSG)

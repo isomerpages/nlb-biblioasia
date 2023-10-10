@@ -2,12 +2,12 @@
 title: Physical Education and Sports in Singapore Schools Through the Last
   Millennium (Part I)
 permalink: /vol-6/issue-2/jul-2010/singapore-school-physical-education-sports/
-description: "Librarian Wee Tong Bao traces the development of physical
-  education and sports in Singapore from colonial times. "
+description: Librarian Wee Tong Bao traces the development of physical education
+  and sports in Singapore from colonial times.
 ---
-#### Librarian _Wee Tong Bao_ traces the development of physical education and sports in Singapore from colonial times.
+#### Librarian&nbsp;_Wee Tong Bao_&nbsp;traces the development of physical education and sports in Singapore from colonial times.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/BK%20PE%20Lesson.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/BK%20PE%20Lesson.jpg">
  <div style="background-color: white;">Pupils from Bukit Panjang Government School attending a Physical Education (PE) lesson (1950). <i>Courtesy of National Archives of Singapore.</i></div>
  
 #### **Introduction**
@@ -39,23 +39,31 @@ In 1927, the post of Superintendent of Physical Education was upgraded to Chief 
 
 By the late 1920s, it was common for schools to conduct organised physical exercises and games. In the girls’ schools and Malay vernacular schools, folk dancing gained popularity. Five out of six girls’ schools offered it as part of their physical training. In the Malay vernacular boys’ schools, “Malay folk games were taught and played daily in the lowest classes of all schools” (Ibid, p. 238) and “Rhythmic Exercises were practiced by these pupils … \[who used the\] … adaptation of *pantun* or Malay lullaby” to accompany their physical activities (Ibid, p. 238). The Assistant Supervisor in Singapore also provided simple Swedish exercises for use in the Malay girls’ schools (Ibid.).
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/MS%20Sports%20Day.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/MS%20Sports%20Day.jpg">
  <div style="background-color: white;">A sports day at Malay Girls' School (1950). <i>Ministry of Information and The Arts (MITA), courtesy of National Archives of Singapore.</i></div>
 
 By 1929, almost all schools made time for “at least three twenty minutes periods of Physical Instruction in the course of a week for each class” (*SSAR*, 1929, p. 913). The perseverance of the Superintendent of Physical Education and his assistant in conducting lessons paid off as “nearly all the teachers, men and women, had qualified themselves to teach physical exercises and were putting into practice fairly satisfactorily the general principles which they have been taught” (*SSAR*, 1929, p. 913). By this time, four of the girls’ schools were holding their own sporting meets (Ibid, p. 922). It is believed that the “house” system instituted in the girls’ schools at this point played a role in enhancing the level of enthusiasm for sports among the students. From 1930, daily Physical Education lesson plans were available in Malay boys’ schools during break time (*SSAR*, 1930, p.740).
 
-A female Supervisor of Physical Education was added to the Education Department in 1930. She was tasked to oversee the physical training in girls’ schools (namely, the English and Malay girls’ schools) (*SSAR*, 1930, p. 768). Thus, with the Assistant Superintendent of Physical Education and the new female Supervisor of Physical Education, the department was able to conduct regular training courses for trained teachers as well as normal class students (*SSAR*, 1930, p.763—764).
+A female Supervisor of Physical Education was added to the Education Department in 1930. She was tasked to oversee the physical training in girls’ schools (namely, the English and Malay girls’ schools) (*SSAR*, 1930, p. 768). Thus, with the Assistant Superintendent of Physical Education and the new female Supervisor of Physical Education, the department was able to conduct regular training courses for trained teachers as well as normal class students (*SSAR*, 1930, p. 763—764).
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/Figure%201%20-%20Current%20Legislation%20on%20Education,%20China,%201930.jpg">
  <div style="background-color: white;">Current Rules on Education. <i>All rights reserved, Ministry of Education, China, 1930.</i></div>
 
 Similarly, some teachers in Chinese vernacular schools attended a post-primary physical training course at the Nanyang Physical Training School (*SSAR*, 1930, p. 767). The Chinese vernacular schools in Singapore at times continued to look towards China for curricular support. As early as 1930, China’s Ministry of Education issued a syllabus on education, covering various aspects such as overseas Chinese education, syllabus for physical training, attire, etc (Ministry of Education, China, 1930). Textbooks on physical training were also published for schools in and outside China, for example,《初中学生文库课 外运动田径》(Track and Field for Lower Secondary Students). In contrast, English schools still did not have any centralised institutions for physical training at this point (*SSAR*, 1931, p. 833), although teachers of English schools could attend “refresher courses” organised by the Education Department (*SSAR*, 1932, p. 778).
 
-#### **Difficulties & Developments in the 1930s**
+#### **Difficulties &amp; Developments in the 1930s**
 
 While significant progress had been made, several reversals occurred in the 1930s when the Great Depression greatly impacted the education scene. The posts of Assistant Superintendent of Physical Education and female Supervisor of Physical Education were removed in 1932 (*SSAR*, 1932, p. 765—766). By 1933, the post of Chief Superintendent of Physical Education was also abolished and replaced by that of Superintendent of Physical Education (*SSAR*, 1933, p. 623).
 
+<img src="/images/Vol%206%20Issue%202/PhysicalEducation/Figure%20c.jpg" style="width:50%;">
+ <div style="background-color: white;">Rules and regulations for sports meets. All rights reserved, The Commercial Press (Shanghai), 1948.
+</div>
+
 Despite the minimal training and supervision provided, the range of sports played in schools expanded to include boxing. The sport was played in Outram School and St. Andrew’s School, and the two schools played against each other during a contest on 2 August 1930 (“Contests at Outram School Next Thursday”, *The Straits Times*, 2 August 1930, p.13). At the same time, the town convent also started a hockey team (*SSAR*, 1933, p. 637) and badminton was played whenever suitable space was available (Ibid, p. 654).
+
+<img src="/images/Vol%206%20Issue%202/PhysicalEducation/TrackField%20Sports.jpg" style="width:50%;">
+ <div style="background-color: white;">Lesson plans for track and field sports. All rights reserved, The Commercial Press (Shanghai), 1947.
+</div>
 
 On the whole, most schools had physical education lessons and had tried to provide organised games as best as they could. The usual games such as association football, cricket, hockey, volleyball, basketball, badminton and tennis were played in secondary boys’ schools (*SSAR*, 1932, p. 796). In junior schools, swings, see-saws and chutes were the main physical exercise facilities. Over in girls’ schools, mainly organised games were provided as none of them had full-size playing fields. Dancing and singing games were taught in smaller schools while “netball, tennis, badminton and rounders were played at the larger schools” (Ibid, p. 793).
 
@@ -65,11 +73,15 @@ Though stretched, the Education Department continued to provide support and guid
 
 As much as the Education Department tried to maintain the standard of physical training, the development of physical education was still handicapped by three key factors, namely, shortage of well trained teachers, lack of equipment to properly carry out the stipulated lesson plans and shortage of facilities like halls or rooms to carry out indoor floor exercises (*SSAR*, 1937, p. 188). In times like this, the teaching community received assistance from other agencies such as the Singapore Municipality which permitted the use of vacant lands near schools for students to play basketball, volleyball and badminton (*SSAR*, 1936, p. 265).
 
+<img src="/images/Vol%206%20Issue%202/PhysicalEducation/Figure%202%20-%20Physical%20Education%20for%20all%20Primary%20Schools.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Ministry of Education, 1957.
+</div>
+
 In 1938, when the economy improved, an Assistant Superintendent of Physical Education was again recruited. The year was also noteworthy for another reason: the traditional clothes worn by boys for physical training in the Malay schools were finally replaced by shorts and shirts, “the uniform common to many schools” (*SSAR*, 1938, p. 652). By this time, “Annual Sports \[meets\] were held by practically all schools” (Ibid, p. 709). And as much as the Education Department could, it extended assistance to the Chinese schools by organising inter-school sports among them (Ibid, p. 710).
 
 #### **Training and Syllabus during the Recovery Years, 1940s**
 
-After the Japanese surrender in 1945, the re-establishment of schools and education in Singapore was placed under the British Military Administration (BMA). R. M. Young was made the Deputy Director of Education while R. W. Watson-Hyatt, the Assistant Director for Chinese schools. They had an uphill task as many school buildings had been destroyed or damaged and there was a general “lack (of) furniture, books and equipment” (AR, 1946, p. 5). Hence, classes were conducted in overcrowded classrooms while students had difficulty finding transport to and from school (Ibid.). Nevertheless, by the end of 1945, there was a total enrolment of 38,719 students in 37 English, 66 Chinese and 21 Malay schools (Ibid.). And “physical training was resumed as much as the limited space and shortened school hours allowed” (Ibid, p.14).
+After the Japanese surrender in 1945, the re-establishment of schools and education in Singapore was placed under the British Military Administration (BMA). R. M. Young was made the Deputy Director of Education while R. W. Watson-Hyatt, the Assistant Director for Chinese schools. They had an uphill task as many school buildings had been destroyed or damaged and there was a general “lack (of) furniture, books and equipment” (AR, 1946, p. 5). Hence, classes were conducted in overcrowded classrooms while students had difficulty finding transport to and from school (Ibid.). Nevertheless, by the end of 1945, there was a total enrolment of 38,719 students in 37 English, 66 Chinese and 21 Malay schools (Ibid.). And “physical training was resumed as much as the limited space and shortened school hours allowed” (Ibid, p. 14).
 
 One of the first measures taken at this point to reinstate Physical Education in schools was to deploy “guru khas” (visiting teachers) who assisted with the implementation of games and physical training in Malay boys’ schools (AR, 1947, p. 61). A probationary Assistant Supervisor of Physical Education was also appointed for Malay girls’ schools. The first batch of Normal class student-teachers for English schools received 22 half-hour lectures in physical training while Chinese school teachers attended a vacation course (Ibid, p. 63). The Education Department also issued copies of the official training syllabus to all English schools and a revised syllabus to Malay boys’ schools by the end of 1947 (Ibid.).
 
@@ -80,7 +92,15 @@ At this time, help and guidance for vernacular schools came in the form of demon
 	
 The use of a physical education curriculum in vernacular schools had been largely left to their own discretion. As a result, the development of the physical education curricula among schools had been uneven in the early years. Chinese schools, for example, had benefited from the wider publishing tradition of Chinese school textbooks which included physical education materials. However, this was not the same for Tamil schools.
 
-In 1947, among the textbooks available outlining lesson plans for physical training were《团体游戏》(Group Games);《我们的球戏》(Our Ball Games);《户内外游戏》 (Indoor & Outdoor games);《几种球类运动》(Some Ball Games);《几种技巧运动》(Some Gymnastics Moves);《我们的 田径运动》(Our Track and Field Sports);《国术讲话》(Lessons on Martial Arts);《运动会》(Sports Meets). In 1953, the Nanyang Siang Pau Press printed《实用体育行政》(Practical Physical Training Administration).
+<img src="/images/Vol%206%20Issue%202/PhysicalEducation/PHysicalTraining.jpg" style="width:100%;">
+ <div style="background-color: white;">Physical training display during education week at Bukit Panjang Government School (1952).<i> Courtesy of National Archives of Singapore.</i>
+</div>
+
+In 1947, among the textbooks available outlining lesson plans for physical training were《团体游戏》(Group Games);《我们的球戏》(Our Ball Games);《户内外游戏》 (Indoor &amp; Outdoor games);《几种球类运动》(Some Ball Games);《几种技巧运动》(Some Gymnastics Moves);《我们的 田径运动》(Our Track and Field Sports);《国术讲话》(Lessons on Martial Arts);《运动会》(Sports Meets). In 1953, the Nanyang Siang Pau Press printed《实用体育行政》(Practical Physical Training Administration).
+
+<img src="/images/Vol%206%20Issue%202/PhysicalEducation/Figure%204%20-%20A%20phsical%20education%20lesson%20plan,%201957.jpg" style="width:50%;">
+ <div style="background-color: white;">A physical education lesson plan. All rights reserved, Ministry of Education, 1957.
+</div>
 
 #### **Winds of Change, 1950s**
 
@@ -95,8 +115,8 @@ Part 2 will cover the national syllabus for physical education and specialist tr
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Wee%20Tong%20Bao.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Wee%20Tong%20Bao.jpg" style="width: 100px; height: 100px;">
 <center><b>Wee Tong Bao</b><br>Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
 
 
@@ -116,7 +136,7 @@ Lun Chor Yee and Dudley de Souza, eds., [_IExperience: The First Ten Years_](htt
 
 Michael Chia et al., [_The Nexus of Hours of Computer Use, Physical Activity and Physical Fitness of Pupils in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12275894) (Singapore: National Institute of Education, Nanyang Technological University, 2003). (Call no. RSING q613.7095957 NEX)
 
-Michael Koh Teik Hin and Harry Tan Eng Kwang, eds., [_Introduction to Physical Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12801057) (Singapore: Pearson Education South Asia Pte Ltd., 2006).  (Call no. RSING 613.7071 INT)
+Michael Koh Teik Hin and Harry Tan Eng Kwang, eds., [_Introduction to Physical Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12801057) (Singapore: Pearson Education South Asia Pte Ltd., 2006). &nbsp;(Call no. RSING 613.7071 INT)
 
 Ministry of Education, Singapore, [_Annual Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5049326) (Singapore. Ministry of Education, various years). (\*1954–56 reports published by Singapore. Department of Education. Reports also known by other titles). (Call no. RCLOS 370.95951 SIN; (also available on microfilms)
 
@@ -132,15 +152,15 @@ Ruan Liangbian 阮良编著, Hu neiwai youxi 户内外游戏 \[indoor and outdoo
 
 Shen Wenbing 沈文炳, ed., Shi yong ti yu xing zheng [实用体育行 政](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84473737) \[Practical Sports Administration\] (Xinjiapo 新加坡: Nanyang shang baoshe 南洋商报社, 1953). (Call no. Chinese RCLOS 371.7 SWP)
 
-Singapore Schools Sports Council, [_Celebrating 50 Years of School Sports_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13349298)  (Singapore: Singapore Schools Sports Council, 2009). (Call no. RSING 796.07105957 CEL)
+Singapore Schools Sports Council, [_Celebrating 50 Years of School Sports_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13349298) &nbsp;(Singapore: Singapore Schools Sports Council, 2009). (Call no. RSING 796.07105957 CEL)
 
-Singapore Sports Council, N_ational Physical Fitness Award (Secondary & Pre-University): Your Test of Overall Physical Fitness_ (Singapore: The Council, 1981). MOE Heritage Centre collection
+Singapore Sports Council, N_ational Physical Fitness Award (Secondary &amp; Pre-University): Your Test of Overall Physical Fitness_ (Singapore: The Council, 1981). MOE Heritage Centre collection
 
-Singapore Sports Council, [_National Fitness Through Physical Education and Sports. Papers Presented at the Physical Education Seminar, 29th & 30th July 1977_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181465) (Singapore: Singapore Sports Council, 1977). (Call no. RSING 613.7 PHY)
+Singapore Sports Council, [_National Fitness Through Physical Education and Sports. Papers Presented at the Physical Education Seminar, 29th &amp; 30th July 1977_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181465) (Singapore: Singapore Sports Council, 1977). (Call no. RSING 613.7 PHY)
 
 Singapore Sports Council, [_Papers Presented at the Seminar on National Fitness Through Physical Education and Sports_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982591) (Singapore: Singapore Sports Council, 1977). (Call no. RSING 613.7 SEM)
 
-Singapore Sports Council,  [_A Report on the Physical Education Seminar Held on 11th and 12th August 1978 at the National Stadium_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4652927) (Singapore: The Council, 1978). (Call no. RSING 613.7 SIN)
+Singapore Sports Council,&nbsp; [_A Report on the Physical Education Seminar Held on 11th and 12th August 1978 at the National Stadium_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4652927) (Singapore: The Council, 1978). (Call no. RSING 613.7 SIN)
 
 Singapore Sports Council, _National Physical Fitness Award (Primary): Your Test of Overall Physical Fitness_ (Singapore: The Council, 1981). MOE Heritage Centre collection
 

@@ -37,8 +37,8 @@ Senior Librarian *Panna Kantilal* and Librarian *Norasyikin binte Ahmad Ismail* 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-1/apr-2010/george-hicks-collection/">The George Hicks Collection</a><br>
 Visiting Senior Research Fellow *Geoff Wade* spotlights the National Library’s George Hicks Collection, generously donated by George Lyndon Hicks. Comprising books from his personal library, the collection has more than 3,000 rare and contemporary volumes.[(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_GeorgeHicks.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-1/apr-2010/emergent-technologies-policy-making/">Research Collaboratory Client Series: “Policy Making 2010 – Emergent Technologies”</a><br>
+**Research Collaboratory Client Series: “Policy Making 2010 – Emergent Technologies**<br>
 How will emergent technologies shape policy making? Research Associate Samuel Sng shares insights gleaned from the 2010 Research Collaboratory Client Series. [(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_EmergentTechnologies.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-1/apr-2010/lee-kong-chian-research-fellowship/">Lee Kong Chian Research Fellowship: Three New Research Fellows Awarded”</a><br>
+**Lee Kong Chian Research Fellowship: Three New Research Fellows Awarded**<br>
 Research Fellows *Sharon Wong Wai Wee*, *Tan Teng Phee* and *Dr Noel Chia Kok Hwee*. [(PDF)](/files/pdf/vol-6/issue-1/v6-issue1_ResearchFellowship.pdf)

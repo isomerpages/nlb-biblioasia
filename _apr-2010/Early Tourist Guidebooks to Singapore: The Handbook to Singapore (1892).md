@@ -1,10 +1,10 @@
 ---
 title: "Early Tourist Guidebooks to Singapore: The Handbook to Singapore (1892)"
 permalink: /vol-6/issue-1/apr-2010/early-handbook-tourist-guidebook/
-description: "The opening of the Suez Canal in 1869 along with advances in
+description: The opening of the Suez Canal in 1869 along with advances in
   steamships, saw a boom in travellers visiting the East. Senior Librarian Bonny
   Tan explores travel guides for visitors seeking a leisurely but safe journey
-  to the mystical but demystified Far East. "
+  to the mystical but demystified Far East.
 ---
 #### The opening of the Suez Canal in 1869 along with advances in steamships, saw a boom in travellers visiting the East. Senior Librarian&nbsp;_Bonny Tan_&nbsp;explores travel guides for visitors seeking a leisurely but safe journey to the mystical but demystified Far East.
 
@@ -35,7 +35,7 @@ Following this is a general description of the town and its environs, walking to
 
    *“The scenery has a quiet beauty that impresses every <br> spectator; and as the water in the channel is generally smooth,<br>  all are able to enjoy the prospect. Every now and then the<br>  ship startles a gar-fish that skips nimbly over the surface of<br>  the water to a safe distance. Occasionally a golden-coloured<br> watersnake may be seen hurrying away from the bows.”*<br>  (Reith, 1892, p. 26).
 
-<img src="/images/Vol%206%20Issue%201/TouristGuidebooks/Harbour1.jpg" style="width:80%;">
+<img src="/images/Vol%206%20Issue%201/TouristGuidebooks/Harbour1.jpg" style="width:100%;">
  <div style="background-color: white;">View of the Harbour (<i>Souvenir of Singapore,</i> 1914, p. 6).</div>
 
 He highlights details which set off the unusual beauty surrounding the island. For example, in the same passage he points to a common optical illusion in which the distant southern islands seem to be suspended above the sea.
@@ -44,7 +44,7 @@ In Chapter Four, he gives directions for four tours around and beyond the town, 
 
    *“(There) lies the Esplanade (Padang Besar) a large plain, <br> encircled by a well-laid-out carriage drive. The Singapore <br> Cricket Club, and the Singapore Recreation Club divide the <br> plain between them for the purpose of cricket, tennis, bowls, <br> and other athletic sports, and in the centre stands a fine statue <br> of Sir T. Stamford Raffles, erected in 1887. A large part of  <br>the Esplanade occupies ground recently reclaimed from the <br> sea; and it is now a favourite afternoon resort of the residents. <br>On the landward side are the Hotel de l’Europe (Punchaus Besar) <br> and St. Andrew’s Cathedral (Greja Besar)…”* (Reith, 1892, p. 36).
 
-<img src="/images/Vol%206%20Issue%201/TouristGuidebooks/Buidings%20&amp;%20landmarks%20Esplanade1.jpg" style="width:80%;">
+<img src="/images/Vol%206%20Issue%201/TouristGuidebooks/Buidings%20&amp;%20landmarks%20Esplanade1.jpg" style="width:100%;">
  <div style="background-color: white;">Buildings and landmarks around the Esplanade (<i>Souvenir of Singapore,</i> 1914, p. 12).</div>
 
 He also gives an interesting perspective on the Raffles Library’s standing during that era with an interesting emphasis on J. R. Logan’s collection of philological works:
@@ -53,7 +53,7 @@ He also gives an interesting perspective on the Raffles Library’s standing dur
 
 Chapter Five offers descriptions of public buildings and places of interest, listing them alphabetically, many of which are no longer extant. They include the gaol which used to stand at the Sepoy Lines, Boustead Institute and the Chinese Protectorate. Others are of large spaces like Bukit Timah hill, the dockyards and the esplanade. Many of them are of government buildings and civic locations although he does highlight unusual local buildings and sights such as the Shrine of Iskandar Khan and the Shrine of Habib Noor along with Whampoa’s garden.
 
-<img src="/images/Vol%206%20Issue%201/TouristGuidebooks/Hotel%20dining%20room1.jpg" style="width:80%;">
+<img src="/images/Vol%206%20Issue%201/TouristGuidebooks/Hotel%20dining%20room1.jpg" style="width:100%;">
  <div style="background-color: white;">The dining room of a hotel (<i>Souvenir of Singapore,</i> 1914).</div>
 
 Other useful information such as a listing of clubs, societies, banks, consulates, religious buildings, hospitals, hotels and shops are also compiled in subsequent chapters. Of pragmatic importance are the rates for hiring private and hackney carriages, listed with tables of distance and relevant fares. The principal steamship lines and agents along with a listing of ports are given in a separate chapter. Statistical details of population, imports, exports, shipping and even weather conditions reflect the dynamics between trade and people in Singapore at the turn of the century. There is even a chapter on the fauna, flora and geology of the island. He credits W. Davison of the Raffles Library and Museum for his work on the fauna, and H. N. Ridley for his piece on the flora and geology of Singapore, both of which were published in his handbook.[^3]
@@ -83,7 +83,7 @@ Mary Turnbull, in her review of the 1985 reprint summarises the handbook’s val
 
     *“Designed for the days of leisurely sea travel, the Handbook is more informative than more modern counterparts, assuming an intelligent interest in government and civic matters. It thus provides the modern reader with a clear picture of some aspects of Singapore life at the turn of the century, although heavily slanted towards the expatriate minority.”* (Turnbull, 1988, p. 302).
  
-<img src="/images/Vol%206%20Issue%201/TouristGuidebooks/Local%20people1.jpg" style="width:80%;">
+<img src="/images/Vol%206%20Issue%201/TouristGuidebooks/Local%20people1.jpg" style="width:100%;">
  <div style="background-color: white;">The local people (<i>Souvenir of Singapore,</i> p. 8).</div>
 
 Kratoska, in his introduction to the 1985 reprint of the handbook, notes that “Something of the character of the late Victorian traveler can be seen from the information Reith provides and the sights he recommends. The attraction was not Asia but European activities and accomplishments in Asia, and the city’s main points of interest were the fruit of the Public Works Department’s art.” (Reith, 1985, pp. v–vi). Turnbull, however, counters Kratoska’s criticism of the text as being Europeancentric by pointing out that “the guide was enterprising for its day in recommending strolls through the “native quarters” and shopping forays into the “Thieves Market” in Rochor (Turnbull, 1988, p. 302).
@@ -219,4 +219,5 @@ Obituary – Rev. Dr. J. Moffatt,” (1944, June 29). _The Times_, 29 June 1944,
 
 [^3]:&nbsp;Davison’s and Ridley’s articles are found in chapter 13, but Davison’s is an abridged version of the original.
 
-[^4]: Reith argued against labour on Sunday despite the increase in wages. The matter was being discussed at the Colonial Office particularly among shipping firms, docks and mariners. “[The Rev. Mr. Reith - Sunday Labour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18910921-1.2.37).”
+[^4]: Reith argued against labour on Sunday despite the increase in wages. The matter was being discussed at the Colonial Office particularly among shipping firms, docks and mariners. “[The Rev. Mr. Reith - Sunday Labour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18910921-1.2.37),” _Straits Times_, 21 September 1891, 2. (From NewspaperSG)
+

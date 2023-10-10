@@ -149,42 +149,37 @@ Zalila Sharif and Jamilah Haji Ahmad, [_Kesusasteraan Melayu Tradisional_](https
 Images reproduced from Juffri Supa'at and Nazeerah Gopaul, eds., [_Aksara Menjejaki Tulisan Melayu = Aksara the Passage of Malay Scripts_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13238990) (Singapore; National Library Board, 2009). (Call no. Malay 499.2811 AKS). All rights reserved, National Library Board. Kota Kapur Stone. Source: replica from the Museum National Indonesia. Jawi Peranakan. Source: National Library Board. Surat Buluh Manuscript. Source: National Library of Indonesia. Tanjung Tanah Manuscript. Source: Dr Uli Kozok, University of Hawai’i.
 
 #### **NOTES**   
+        
+[^1]: Vladimir Braginsky, _[The Heritage of Traditional Malay Literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154)_ (Singapore: Institute of South East Asian Studies, 2004), 1. (Call no. RSEA 899.28 BRA)
 
-[^1]: Braginsky, [_Heritage of Traditional Malay Literature_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154), 1.
-
-[^2]: Tham, [_Study of the Evolution of the Malay Language_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5663515), 16.
+[^2]: Tham Seong Chee, _[A Study of the Evolution of the Malay Language: Social Change and Cognitive Development](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5663515)_ (Singapore: Singapore University Press, 1990), 16. (Call no. RSING 306.44089992 THA)
 
 [^3]: Following an exhibition by the National Library Board in 2007 that traces the evolution and transformation of the Malay writing system.
 
 [^4]: “Aksara” means script in Malay. It is a Sanskrit word absorbed into Malay vocabulary.
 
-[^5]: Noriah (1998:58–60) explained that the archaic Malay language had 157 Malay words or Austronesia language in its natural form.
+[^5]: Noriah Mohamed, _[Sosiolinguistik Bahasa Melayu Lama](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10076804)_&nbsp; (Pulau Pinang: Universiti Sains Malaysia bagi pihak Pusat Pengajian Ilmu Kemanusiaan, 1999), 58–60. (Call no. Malay R 499.2809 NOR) explained that the archaic Malay language had 157 Malay words or Austronesia language in its natural form.
 
 [^6]: Mohamed Pitchay Gani’s “E-Kultur Dan Evolusi Bahasa Melayu,” produced the six stages of Malay language evolution of which the most contemporary level is the Internet language. Prior to this finding, Abdullah Hassan (1994:7–9) identified four stages of evolution. Mohamed Pitchay has added Indonesia language and the Internet language as two more important stages of evolution to the Malay language.
 
-[^7]: Musa, [_Epigrafi Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567), 27.
+[^7]: Hashim Musa, _[Epigrafi Melayu: Sejarah Sistem Dalam Tulisan Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2003), 27. (Call no. Malay RSING 499.2811 HAS)
 
 [^8]: SITC is the first teacher training college in Malaya proposed by Deputy Director of Malay Schools, Sir R.O Winstead. Before SITC, there was the Malay Training College in Telok Belanga (Singapore) in 1878, relocated to Telok Ayer in 1884 and closed in 1895. There was also a Malay Training College in Malacca (1900) and Perak (1913). These two colleges were amalgamated to form SITC. It was designed to provide teacher training and education to only the highest achieving Malay students in pre- independent Malaya. In 1997, it was upgraded to become the Sultan Idris Education University.
 
-[^9]: Casparis (Musa, [_Epigrafi Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567), 29) classified the scripts found in the Srivijaya manuscripts as the later type of Pallava scripts and much more developed compared with the earlier scripts. As such, it is also classified as the Bahasa Melayu Tua or the ancient Malay language.
+[^9]: Casparis (Musa, _[Epigrafi Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8797567)_, 29) classified the scripts found in the Srivijaya manuscripts as the later type of Pallava scripts and much more developed compared with the earlier scripts. As such, it is also classified as the Bahasa Melayu Tua or the ancient Malay language.
 
-[^10]: Windstedt, [_History of Classical Malay Literature_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078057), 1.
+[^10]: Richard Windstedt, _[A History of Classical Malay Literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078057)_ (Kuala Lumpur: Oxford University Press, 1969), 1. (Call no. RSEA 899.23 WIN)
 
-[^11]: Syed Muhammad Naquib al-Attas, [_Oldest Known Manuscript_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030357), 6–8.
+[^11]: Syed Muhammad Naquib al-Attas, _[The Oldest Known Manuscript: A 16th Century Malay Translation of the Aqaid of Al-Nasafi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030357)_ (Kuala Lumpur: Dept. of Publications, University of Malaya, 1988), 6–8. (Call no. RSING 091 ATT)
 
-[^12]: Roff, “Mystery of the First Malay Novel,” 451.  
-  
-[^13]: Puteh and Isnin, [_Sejarah Kesusasteraan Melayu Moden_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12231972), 3.
+[^12]: William R. Roff, “The Mystery of the First Malay Novel (and Who Was Rokambul),” _Bijdragen tot de Taal-, Land-en Volkenkunde_ 130, no. 4 (1974): 451. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^14]: Jaafar, [_Wajah: Biografi Penulis_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600), 163.
+[^13]: Othman Puteh and Ramli Isnin, _[Sejarah Kesusasteraan Melayu Moden](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12231972)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2003), 3. (Call no. Malay R 899.28309 OTH)
 
-[^15]: Jaafar, [_Wajah: Biografi Penulis_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600), 80.
+[^14]: Shamsuddin Jaafar, comp., _[Wajah: Biografi Penulis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600)_, 3rd ed. (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2005), 163. (Call no. Malay R 899.2809 WAJ)
+
+[^15]: Jaafar, _[Wajah: Biografi Penulis](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12686600)_, 80.
 
 [^16]: It is believed to be the oldest existing Malay manuscript because it is written in the later Kawi scripts. The manuscript is a legal code of 34 pages completely written in Malay except for the first and last few sentences, which are written in Sanskrit. The material the text is written on is bark paper produced from the bark of the mulberry tree, and the script is an Indian-derived script, which developed locally in Sumatra. Kozok found the manuscript in 2002. It had been kept in a private collection in a remote part of Sumatra where villagers regard it to be a sacred heirloom with calamity befalling the village should it be removed.
 
-
-
-
-
-
-[^17]: [Braginsky](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154), 2004, p. 1.
+[^17]: Braginsky, _[Heritage of Traditional Malay Literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154)_, 1.
