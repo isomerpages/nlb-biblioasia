@@ -189,11 +189,11 @@ Wong Ah Yoke, “[Satay Clubs in the Past](http://eresources.nlb.gov.sg/newspape
   
 [^1]: Also known as the “Singapore Guide for Merchant Seamen”.
 
-2\. The book was published in June, July and September of 1934
+[^2]: The book was published in June, July and September of 1934
 
-3\. “[Notes of the Day – Willis’s Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41),” _Straits Times_, 17 January 1936, 10. (From NewspaperSG)
+[^3]: “[Notes of the Day – Willis’s Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41),” _Straits Times_, 17 January 1936, 10. (From NewspaperSG)
 
-4\. “[A New Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340530-1.2.102),” _Straits Times_, 30 May 1934, 13. (From NewspaperSG)
+[^4]: “[A New Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340530-1.2.102),” _Straits Times_, 30 May 1934, 13. (From NewspaperSG)
 
 5\. “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360117-1.2.41).”
 
