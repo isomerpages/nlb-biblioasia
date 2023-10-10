@@ -8,11 +8,11 @@ description: Librarian Jaclyn Teo draws on published English resources from the
   Hainanese, seemed to have specialised in specific trades and occupations,
   particularly during the early colonial period until the 1950s.
 ---
-####  Librarian _Jaclyn Teo_ draws on published English resources from the Lee Kong Chian Reference Library, and explores why certain Chinese dialect groups in Singapore, such as Hokkiens, Teochews, Cantonese, Hakkas and Hainanese, seemed to have specialised in specific trades and occupations, particularly during the early colonial period until the 1950s.
+####  Librarian&nbsp;_Jaclyn Teo_&nbsp;draws on published English resources from the Lee Kong Chian Reference Library, and explores why certain Chinese dialect groups in Singapore, such as Hokkiens, Teochews, Cantonese, Hakkas and Hainanese, seemed to have specialised in specific trades and occupations, particularly during the early colonial period until the 1950s.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*“The Teochews are reputed for making fine kuayteow,*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*the Hokkiens for their mee*,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*the Hainanese for their coffee,*<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*and the Cantonese for their pee”.*[^1]<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Li Yih Yuan, Yige Yizhi de Shizhen<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;\[一个移殖的市镇: 马来亚华人市镇生活的调查研究\]
+         *“The Teochews are reputed for making fine kuayteow,*<br>            *the Hokkiens for their mee*,<br>            *the Hainanese for their coffee,*<br>            *and the Cantonese for their pee”.*[^1]<br>            Li Yih Yuan, Yige Yizhi de Shizhen<br>         \[一个移殖的市镇: 马来亚华人市镇生活的调查研究\]
 
-<img style="width:50%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Presentation1.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Presentation1.jpg">
  <div style="background-color: white;">(Left) All rights reserved, Opinion Books, 1990.<br>(Right) All rights reserved, Singapore Society of Asian Studies, 1995.</div>
 
 The above ditty is a common saying indicative of social stereotyping among Chinese dialect groups observed in Muar, Johore, in the 1950s. In fact, as far back as the 19th and early 20th century, there were already studies in Singapore highlighting the relationship between the occupations held by Chinese immigrants and their dialect origins (Braddell, 1855; Seah, 1848; Vaughan, 1874). Hokkiens and Teochews, being early settlers on the island, were known to dominate the more lucrative businesses, while later immigrants and minority dialect groups like Hainanese and Foochows were frequently regarded as occupying a lower position in the economic standings (Tan, 1990). Drawing on published English resources available in the Lee Kong Chian Reference Library, this article aims to explore why certain Chinese dialect groups in Singapore, such as Hokkiens, Teochews, Cantonese, Hakkas and Hainanese, seem to have specialised in specific trades and occupations, particularly during the early colonial period until the 1950s. It also posits some reasons why dialect group identities are no longer as dominant and obvious now as they used to be.
@@ -23,14 +23,14 @@ The above ditty is a common saying indicative of social stereotyping among Chine
 Before delving into the occupational specialisation of each dialect group, it is important to first understand the social and economic background that resulted in the large-scale migration of Chinese from China to Singapore in the 19th century. During that time, life was extremely difficult in China; overpopulation resulted in a shortage in rice, a basic food staple, which led to inflation. Chinese peasants were also exploited by landlords, who imposed exorbitant rents on cultivable land to counter the high land taxes and surcharges levied by the Qing government. Natural calamities further aggravated the situation. From 1877 to 1888, for example, the drought in north and east China left close to six million people homeless and, without any aid from the government, many starved to death. Moreover, China was also mired in political turmoil. The Taiping Rebellion (1850–65), which originated in southern China, wiped out about 600 cities and towns, destroyed all the central provinces of China and adversely affected agricultural production, leading to widespread poverty and lawlessness. All these factors pushed many Chinese to go overseas in search of a better life (Yen, 1986).
 
 Fortuitously, the founding of Singapore by the British in 1819, and the subsequent establishment of the Straits Settlements states of Penang, Malacca and Singapore by 1826 opened up numerous trade and work opportunities for the Chinese. In the last quarter of the 19th century, the discovery of tin in the Malayan states, as well as the large-scale development of rubber plantations, were additional pull factors for the Chinese to migrate to the region (Tan, 1986). The British brought about law and order in the Straits Settlements and initiated policies of free trade, unrestricted immigration (at least until the Aliens Ordinance was introduced in 1933 to limit the number of male migrants) (Cheng, 1985) and non-interference in the affairs of the migrant population, all of which were advantageous to the Chinese migrants in search of economic advancement (Tan, 1986). Singapore, which came under direct British control as a crown colony in 1867, was not only the most important hub in the south of the Malayan Peninsula for the handling and processing of raw materials, it was also one of the major transit points where indentured labour from China and India were deployed to other parts of Southeast Asia. With a thriving economy, abundant job opportunities, and favourable British policies, large numbers of Chinese flocked to Singapore. In a letter to the Duchess of Somerset in June 1819, Stamford Raffles, the founder of modern Singapore, claimed that his “new colony thrives most rapidly… and it has received an accession of population exceeding 5000, principally Chinese, and their number is daily increasing” (quoted in Song, 1923, p. 7). By 1836, the Chinese population (at 45.9%) had already surpassed the indigenous Malay community to become the major ethnic group in Singapore (Saw, 1969).
-<img style="width:80%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Presentation2.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Presentation2.jpg">
  <div style="background-color: white;">(Left) All rights reserved, Singapore University Press, 1985. <br> (Right) All rights reserved, Singapore University Press, 1985.</div>
 
 #### **Formation of Trade Specialisations**
 
 Despite originating from the same country, the Chinese community in Singapore was not a homogenous one, but was highly divided and fragmented instead (Tan, 1986). The Chinese came from different provinces in China and spoke different dialects: those who came from the Fujian province spoke Hokkien; the ones from Chaozhou prefecture spoke Teochew; people from Guangdong province spoke Cantonese, while those from Hainan Island spoke Hainanese. In addition, the dialect groups worshipped different local deities and considered their own traditions and customs to be superior to those of the others (Yen, 1986). As the different spoken dialects posed a significant communication barrier between groups, the Chinese immigrants naturally banded together within their own provincial communities for security and assistance in this new environment (Yen, 1986). This phenomenon was further aided by Raffles’ plan to segregate the different groups (Braddell, 1854). In 1822, Raffles proclaimed that “in establishing the Chinese kampong on a proper footing, it will be necessary to advert to the provincial and other distinctions among this peculiar people. It is well known that the people of one province are more quarrelsome than another, and that continued disputes and disturbances take place between people of different provinces”. (Song, 1923, p. 12).
 
-How then did the trade specialisations based on dialect groupings come about? Cheng (1985) posited that the concentration of each dialect group in specific areas on the island provided a geographical and socioeconomic base for starting a trade. As more and more people of the same dialect group moved into the same area, the trade that was initially started by some would become increasingly established and entrenched. This was especially so because new migrants to Singapore tended to turn to their relatives (usually of the same dialect group) for jobs. Indeed, an early immigrant, Ang Kian Teck, confirmed this point. He related that “when you first arrive in Singapore, you find out what your relatives are doing and you follow suit. If your relatives are rickshaw pullers, then you too would become one. My elder brother was already in Singapore working as *chap he tiam* shopkeeper, so I joined him.” (quoted in Chou & Lim, 1990, p. 28). It was also natural for experienced migrants, such as fishermen, artisans and traders, to continue with their specialised trades when they resettled. Factors such as the physical environment, as well as the intervention of secret societies, also contributed to the dominance of particular dialect groups in certain trades (Mak, 1981).
+How then did the trade specialisations based on dialect groupings come about? Cheng (1985) posited that the concentration of each dialect group in specific areas on the island provided a geographical and socioeconomic base for starting a trade. As more and more people of the same dialect group moved into the same area, the trade that was initially started by some would become increasingly established and entrenched. This was especially so because new migrants to Singapore tended to turn to their relatives (usually of the same dialect group) for jobs. Indeed, an early immigrant, Ang Kian Teck, confirmed this point. He related that “when you first arrive in Singapore, you find out what your relatives are doing and you follow suit. If your relatives are rickshaw pullers, then you too would become one. My elder brother was already in Singapore working as *chap he tiam* shopkeeper, so I joined him.” (quoted in Chou &amp; Lim, 1990, p. 28). It was also natural for experienced migrants, such as fishermen, artisans and traders, to continue with their specialised trades when they resettled. Factors such as the physical environment, as well as the intervention of secret societies, also contributed to the dominance of particular dialect groups in certain trades (Mak, 1981).
 
 Mak (1995) puts forth several reasons to explain why such occupational patterns continued to persist. First, businesses which were capital-intensive, by the very fact that they required large amounts of resources, tended to exclude the poorer dialect groups. Close network ties within communities similarly prevented other dialect groups from participating in the same trades. The way trade groups were organised, and the formation of occupational guilds and the apprenticeship system, were successful in keeping businesses within certain dialect groups. Occupational guilds helped to contain the supply of materials and information required for the trade within the dialect group. For example, the Singapore Cycle and Motor Traders’ Association, dominated by Henghuas, ensured that the continuation of trade stayed within the same dialect group by encouraging members to take over the retiring businesses of fellow clansmen (Cheng, 1985). The apprenticeship system, which entails the passing of skills from one to another, was more effective when employers and trainees understood each other. Hence, the employer who was looking for an apprentice would tend to choose someone from the same dialect origin. Over time, the acquired reputation of a dialect group in a particular trade might also prevent other dialect groups from competing in the same trade successfully.
 
@@ -43,7 +43,7 @@ Among the various dialect groups, Hokkiens were among the earliest to arrive in 
 
 Hokkiens’ strong economic position allowed them to accumulate capital, which in turn gave them a higher chance of venturing into new businesses like rubber planting when the economy grew (Cheng, 1985). Hokkien capitalists were the first pioneers to invest in rubber planting, which was considered to be a riskier and more capital-intensive venture than gambier planting, as rubber could be tapped only after many years, and was also subjected to violent price fluctuations. The rubber boom during World War I and the Korean War strengthened Hokkiens’ economic position further and Hokkiens went on to control the speculative coffee and spice trade, as well as a number of banks, including the Ho Hong Bank (1917), Oversea-Chinese Banking Corporation (1932), United Overseas Bank (1935), Bank of Singapore (1954), and Tat Lee Bank (1975), to name a few (Cheng, 1985).
 
-Another well-documented trade specialisation among Hokkiens (specifically those who came from Anxi of Quanzhou prefecture) was the *chap he tiam* business, otherwise known as the “mixed goods” store or retail provision store business (Chou & Lim, 1990). Well-known Hokkien personalities like Tan Kah Kee and Lee Kong Chian were also involved in the pineapple-canning business (Tan, 1999). All in all, Hokkiens dominated the more lucrative trades and had a lion’s share in the following fields: banking, finance, insurance, shipping, manufacturing, import and export trade in Straits produce, ship-handling, textiles, realty and even building and construction (Cheng, 1985).
+Another well-documented trade specialisation among Hokkiens (specifically those who came from Anxi of Quanzhou prefecture) was the *chap he tiam* business, otherwise known as the “mixed goods” store or retail provision store business (Chou &amp; Lim, 1990). Well-known Hokkien personalities like Tan Kah Kee and Lee Kong Chian were also involved in the pineapple-canning business (Tan, 1999). All in all, Hokkiens dominated the more lucrative trades and had a lion’s share in the following fields: banking, finance, insurance, shipping, manufacturing, import and export trade in Straits produce, ship-handling, textiles, realty and even building and construction (Cheng, 1985).
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Chap%20he%20tiam.jpg">
  <div style="background-color: white;">A <i>chap he tiam</i> in China Street stocked with dried goods and Chinese produce. <i>Image reproduced from Tan, T. (Ed.). (1990). Chinese dialect groups: Traits and trades,</i> p. 24. All rights reserved, Opinion Books, 1990.</div>
@@ -126,8 +126,8 @@ Today, dialect groupings no longer play such an important role in occupational c
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Jaclyn%20Teo.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Jaclyn%20Teo.jpg" style="width: 100px; height: 100px;">
 <center><b>Jaclyn Teo</b><br> Librarian<br>Lee Kong Chian Reference Library<br>National Library Board</center></div>
 
 #### **REFERENCES**
@@ -152,7 +152,7 @@ Li Y. Y., _Yige yi zhi de shi zhen: Ma lai ya huaren shi zhen shenghuo de diaoch
 
 Mak Lau Fong, [_The Sociology of Secret Societies: A Study of Chinese Secret Societies in Singapore and Peninsula Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2622166) (New York: Oxford University Press, 1981). (Call no. RSING 366.095957 MAK)
 
-Mak Lau Fong, [_The Dynamics of Chinese Dialect Groups in Early Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470230)  (Singapore: Singapore Society of Asian Studies, 1995). (Call no. RSING 305.89510595 MAK)
+Mak Lau Fong, [_The Dynamics of Chinese Dialect Groups in Early Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7470230) &nbsp;(Singapore: Singapore Society of Asian Studies, 1995). (Call no. RSING 305.89510595 MAK)
 
 Maurice Freedman, “Immigrants and Associations: Chinese in Nineteenth Century Singapore,” _Comparative Studies in Society and History_ 3, no. 1 (October 1960), 25–48. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
@@ -187,27 +187,3 @@ Yen Ching-Hwang, [_A Social History of the Chinese in Singapore and Malaya 1800�
 [^1]: Pee: a crude slang implying a lady’s genitals.
 
 [^2]: Cheng, [_Social Change and the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082374) claimed that between the years 1891 and 1947, Cantonese were the second largest group after Hokkiens, and were only overtaken by Teochews in numbers after 1947.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
