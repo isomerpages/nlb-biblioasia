@@ -94,6 +94,10 @@ The use of a physical education curriculum in vernacular schools had been largel
 
 In 1947, among the textbooks available outlining lesson plans for physical training were《团体游戏》(Group Games);《我们的球戏》(Our Ball Games);《户内外游戏》 (Indoor &amp; Outdoor games);《几种球类运动》(Some Ball Games);《几种技巧运动》(Some Gymnastics Moves);《我们的 田径运动》(Our Track and Field Sports);《国术讲话》(Lessons on Martial Arts);《运动会》(Sports Meets). In 1953, the Nanyang Siang Pau Press printed《实用体育行政》(Practical Physical Training Administration).
 
+<img src="/&quot;images/Vol%206%20Issue%202/PhysicalEducation/Figure%204%20-%20A%20phsical%20education%20lesson%20plan,%201957.jpg&quot;" style="width:50%;">
+ <div style="background-color: white;">A physical education lesson plan. All rights reserved, Ministry of Education, 1957.
+</div>
+
 #### **Winds of Change, 1950s**
 
 Fundamental changes occurred in the 1950s. In 1951, the Education Department awarded a scholarship to Joseph David to study at the Loughborough Physical Education College (AR, 1951, p. 90). He returned from his studies in 1954 and became one of the first of many specialists in the field. It was important for the professionalisation of the teaching of physical education to have properly trained and certified teachers to plan, organise and administer a properly developed curriculum. In 1955, physical education was finally offered as a subject in the Teachers’ Training College (established in 1950). In the triennial survey of the Ministry of Education, it was reported that there were six specialists in physical education in Singapore – four were based at the Teachers’ Training College while the remaining two were attached to the Education Inspectorate (Triennal Survey, 1955—57, p. 141). A new syllabus was also issued in 1957 to replace the one that had been in use for some time. It outlined 56 lesson plans for primary schools, including guides to teachers and the equipment required. A Chinese edition of this syllabus was made available in 1959.
