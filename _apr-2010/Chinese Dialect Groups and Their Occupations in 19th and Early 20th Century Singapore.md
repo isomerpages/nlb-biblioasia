@@ -45,7 +45,7 @@ Hokkiens’ strong economic position allowed them to accumulate capital, which i
 
 Another well-documented trade specialisation among Hokkiens (specifically those who came from Anxi of Quanzhou prefecture) was the *chap he tiam* business, otherwise known as the “mixed goods” store or retail provision store business (Chou &amp; Lim, 1990). Well-known Hokkien personalities like Tan Kah Kee and Lee Kong Chian were also involved in the pineapple-canning business (Tan, 1999). All in all, Hokkiens dominated the more lucrative trades and had a lion’s share in the following fields: banking, finance, insurance, shipping, manufacturing, import and export trade in Straits produce, ship-handling, textiles, realty and even building and construction (Cheng, 1985).
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Chap%20he%20tiam.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Chap%20he%20tiam.jpg">
  <div style="background-color: white;">A <i>chap he tiam</i> in China Street stocked with dried goods and Chinese produce. <i>Image reproduced from Tan, T. (Ed.). (1990). Chinese dialect groups: Traits and trades,</i> p. 24. All rights reserved, Opinion Books, 1990.</div>
 
 Hokkiens were and continue to be the largest Chinese dialect group in Singapore, accounting for more than 40% of the overall Chinese population (Leow, 2001).
@@ -63,7 +63,7 @@ Unfortunately, gambier cultivation declined in Singapore from 1850 as a result o
 
 Another group of Teochews was recorded to have settled in Punggol and Kangkar, along the northern coastal fringes of the island (Chou, 1990). Living close to the sea, they became experienced fishermen, boatmen, fishmongers and fish wholesalers. Their livelihood as fishermen was badly affected, however, when the Singapore government decided to phase out *kelongs* (the largest form of fish trap) in favour of fish farms in 1981.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Kelong.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Kelong.jpg">
  <div style="background-color: white;">A kelong. <i>Image reproduced from Tan, T. (Ed.). (1990). Chinese dialect groups: Traits and trades,</i> p. 39. All rights reserved, Opinion Books, 1990.</div>
 
 
@@ -73,7 +73,7 @@ Numbering 14,853 in 1881, Cantonese were the third largest dialect group after H
 
 Cantonese were involved in a wide variety of occupations. Seah Eu Chin (1848) observed in 1848 that Cantonese and Hakkas were predominantly artisans. Similarly, William Pickering, who later became the First Protector of Chinese in Singapore, wrote in 1876 that most Cantonese and Hakkas in the Straits Settlements were miners and artisans. The Cantonese in Singapore were known to work as bricklayers, carpenters, cabinet-makers, woodcutters and goldsmiths. Cantonese women from San Sui (Three Rivers), in particular, were noted for their contribution to Singapore’s construction industry in the 1950s and 1960s (Tan, 1990). The Cantonese also opened a number of restaurants and herbal medical stores in Singapore during the late 19th century (Mak, 1995).
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%201/ChineseDialect/TCM%20shop.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%201/ChineseDialect/TCM%20shop.jpg">
  <div style="background-color: white;">Traditional Chinese medicine shop. <i>Image reproduced from Tan, T. (Ed.). (1990). Chinese dialect groups: Traits and trades,</i> p. 53. All rights reserved, Opinion Books, 1990.</div>
 
 Vice was another trade that was reportedly linked to Cantonese (Mak, 1995). The Superintendent of Census remarked that most prostitutes were of Cantonese origin, and newspapers of that period reported that there were a few thousand prostitutes in the Kreta Ayer region, an area that was predominantly occupied by Cantonese. Although there were also Hokkien and Teochew brothels, their numbers decreased due to pressure from Hokkien leaders to close down Hokkien brothels in a bid to undo the shame brought to their dialect group, as well as a ban on the emigration of Teochew women from Chaozhou in the 1880s.
@@ -89,7 +89,7 @@ In Singapore, it was documented that Hakkas had settled in South Bridge Road, No
 
 Like Cantonese, Hakkas were involved in a wide range of craft-related occupations such as shoemaking, garment manufacturing , tailoring and jewellery making. Estimating the numbers and occupations of Chinese in Singapore in 1848, Braddell (1855) recorded that there were about 1,000 Hakkas working as house carpenters, 800 involved as woodcutters, 600 as shopkeepers and traders, 500 as blacksmiths, 400 as tailors and shoemakers, 200 as cabinet makers, 100 as goldsmiths and 100 as barbers. Hakkas (together with the Cantonese) in the Straits Settlements were also recognised by Pickering in 1876 as miners and artisans. Mak (1995) suggested that Hakkas did not seem to like sea-related work, as there was no evidence of any Hakkas working in or near the sea although there were records of Hokkien longshore men, Cantonese boat-builders, and Teochew fishermen.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Pawnshop.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%201/ChineseDialect/Pawnshop.jpg">
  <div style="background-color: white;">Interior of a pawnshop.<i> Image reproduced from Tan, T. (Ed.). (1990). Chinese dialect groups: Traits and trades,</i> p. 70. All rights reserved, Opinion Books, 1990.</div>
 
 Two trades engaged by Hakkas warrant special mention. Pawnbroking was one of them. Regarded as the “poor man’s bank”, pawnshops had more than one hundred years of history in Singapore (Cheng, 1985). Pawnbroking was a service that the poor could utilise to get quick cash in return for a pledge of their valuables. According to Tan and Chua (1990), Hakkas seemed to have dominated this trade right from its beginning. In 1880, Singapore did not have any pawnshops, but the British government subsequently decided to kick start the industry by issuing pawnshop licences to applicants who were willing to pay a fee of $200 per annum. A Dabu Hakka, Mr Ho Yuen Oh, pioneered this industry by successfully obtaining the licences to operate the first eight pawnshops in Singapore. Since then, Hakkas have dominated this trade.
