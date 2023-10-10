@@ -5,7 +5,7 @@ description: Lee Kong Chian Research Fellow Tan Chee Lay investigates the both
   the macro and micro aspects of film criticism published in English and Chinese
   newspapers and journals.
 ---
-#### Lee Kong Chian Research Fellow _Tan Chee Lay_ investigates the both the macro and micro aspects of film criticism published in English and Chinese newspapers and journals.
+#### Lee Kong Chian Research Fellow&nbsp;_Tan Chee Lay_&nbsp;investigates the both the macro and micro aspects of film criticism published in English and Chinese newspapers and journals.
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/FilmCriticism/Singapore%20Cinema.jpg">
  <div style="background-color: white;">All rights reserved, Editions Didier Millet Pte Ltd, 2006.</div>
@@ -99,8 +99,8 @@ Critical essays and reviews of Singapore films examine both art and commercial f
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Tan%20Chee%20Lay.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Tan%20Chee%20Lay.jpg" style="width: 100px; height: 100px;">
 <center> <b>Tan Chee Lay</b><br>Lee Kong China Research Fellow<br>National Library</center> </div>
 
 #### **REFERENCES**
@@ -126,27 +126,29 @@ Samuel Lee, “[Stepping Out](http://eresources.nlb.gov.sg/newspapers/Digitised/
 Yi Shui 易水, Ma lai ya hua huayu dianying wenti《[马来亚化华语电影问题](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84521985)\[Malayanization of chinese-language films\] (Xinjiapo Singapore: Nanyang yinshua she Nanyang Printing House, 1959). (Call no. Chinese RCLOS 791.4301 IXS)
 
 #### **NOTES**
-
-[^1]: Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 115.  
-
-[^2]: Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 114.  
+ 
+[^1]: Raphael Millet,&nbsp;[_Singapore Cinema_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)&nbsp;(Singapore: Editions Didier Millet Pte Ltd., 2006), 115. (Call no. RSING q791.43095957 MIL)  
+  
+[^2]: Millet, _[Singapore Cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)_, 114. &nbsp;
 
 [^3]: One of the thrusts of Media 21, as set by Singapore’s Media Development Authority with the aim of turning Singapore into a global media hub, is to increase the export of Made-by-Singapore products.
 
-[^4]: Lee, “[Stepping Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030804-1.2.63.8).”
+[^4]: Samuel Lee, “[Stepping Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030804-1.2.63.8),”&nbsp;_Straits Times_, 4 August 2003, 6. (From NewspaperSG)
 
-[^5]: Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044), 95.  
+[^5]: Millet, _[Singapore Cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12716044)_, 95. &nbsp;
 
-[^6]: Uhde and Uhde, [_Latent Images_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9842634), 2.
+[^6]: Jan Uhde and Yvonne Ng Uhde,&nbsp;[_Latent Images: Films in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9842634)&nbsp;(Singapore: Oxford University Press, 2000), 2. (Call no. RSING 384.8095957 UHD)
 
 [^7]: Yi, _[Ma lai ya hua huayu dianying wenti](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84521985)_, 123.
 
-[^8]: Li, “Ying yi xin dian tu tuijie”; Hong, “[Rensheng ru xi xi buru rensheng?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080307-1.2.64.4.1)”
+[^8]: Li Yijun 李亦筠, “Ying yi xin dian tu tuijie” 影艺新电图推介 \[Film arts new digital illustration promotion\],&nbsp;_Lianhe Zaobao_&nbsp;_联\_\_合早\_\_报_, 1 March 2008; Hong Minghua 洪铭铧, “Rensheng ru xi xi buru rensheng?”&nbsp;[人生如戏戏不如人生?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080307-1.2.64.4.1)&nbsp;\[is life not as good as a play?\],&nbsp;_Lianhe Zaobao_&nbsp;_联合早报_, 7 March 2008, 40. (From NewspaperSG)
 
-[^9]: Toh, “[Big Leap of Faith](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080227-2.2.47.2.2).”
+[^9]: Christopher Toh, “[A Big Leap of Faith](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20080227-2.2.47.2.2),”&nbsp;_Today_, 27 February 2008, 37. (From NewspaperSG)
 
-[^10]: Hong, “‘[Xiaohai bu ben 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20060128-1.2.75.1.1)’.”
+[^10]: Hong Minghua 洪铭铧, “Xiaohai bu ben 2” bai ming shi jiaoyu pian” 《[小孩不笨2》摆明是教育片](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20060128-1.2.75.1.1)&nbsp;\[Children are not stupid 2” is clearly an educational film\],&nbsp;_Lianhe Zaobao_&nbsp;_联合早报_, 1 January 2006, 15. (From NewspaperSG)
 
-[^11]: Ong, “[Short Cuts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031022-1.2.67.16).”
+[^11]: Ong Sor Fern, “[Short Cuts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031022-1.2.67.16),”&nbsp;_Straits Times_, 22 October 2003, 6. (From NewspaperSG)
 
-[^12]: Lin, “[15” Shaole yige ba zhang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20030513-1.2.53.3).”
+[^12]: Lin Shiwu 林十五, “15” Shaole yige ba zhang” 《[15》少了一个巴掌](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20030513-1.2.53.3)&nbsp;\[15” one less slap\],&nbsp;_Lianhe Zaobao_&nbsp;_联合早报_, 13 May 2003, 31. (From NewspaperSG)
+
+
