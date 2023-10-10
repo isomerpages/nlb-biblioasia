@@ -139,7 +139,7 @@ Yi Shui 易水, Ma lai ya hua huayu dianying wenti《[马来亚化华语电影�
 
 [^6]: Jan Uhde and Yvonne Ng Uhde,&nbsp;[_Latent Images: Films in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9842634)&nbsp;(Singapore: Oxford University Press, 2000), 2. (Call no. RSING 384.8095957 UHD)
 
-[^7]: Yi, _[Ma lai ya hua huayu dianying wenti](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84521985)_, 123.
+[^7]: Yi Shui 易水, *Ma lai ya hua huayu dianying wenti*《[马来亚化华语电影问题](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84521985) [Malayanization of chinese-language films\] (Xinjiapo Singapore: Nanyang yinshua she Nanyang Printing House, 1959), 123. (Call no. Chinese RCLOS 791.4301 IXS)
 
 [^8]: Li Yijun 李亦筠, “Ying yi xin dian tu tuijie” 影艺新电图推介 \[Film arts new digital illustration promotion\],&nbsp;_Lianhe Zaobao_&nbsp;_联\_\_合早\_\_报_, 1 March 2008; Hong Minghua 洪铭铧, “Rensheng ru xi xi buru rensheng?”&nbsp;[人生如戏戏不如人生?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080307-1.2.64.4.1)&nbsp;\[is life not as good as a play?\],&nbsp;_Lianhe Zaobao_&nbsp;_联合早报_, 7 March 2008, 40. (From NewspaperSG)
 
@@ -150,5 +150,3 @@ Yi Shui 易水, Ma lai ya hua huayu dianying wenti《[马来亚化华语电影�
 [^11]: Ong Sor Fern, “[Short Cuts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031022-1.2.67.16),”&nbsp;_Straits Times_, 22 October 2003, 6. (From NewspaperSG)
 
 [^12]: Lin Shiwu 林十五, “15” Shaole yige ba zhang” 《[15》少了一个巴掌](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20030513-1.2.53.3)&nbsp;\[15” one less slap\],&nbsp;_Lianhe Zaobao_&nbsp;_联合早报_, 13 May 2003, 31. (From NewspaperSG)
-
-
