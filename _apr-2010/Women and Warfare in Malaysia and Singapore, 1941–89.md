@@ -8,7 +8,7 @@ description: Lee Kong Chian Research Fellow Mahani Awang explores the
 ---
 #### Lee Kong Chian Research Fellow&nbsp;_Mahani Awang_&nbsp;explores the involvement of women in warfare in Malaya and Singapore from 1941 until the 1989 Hat Yai Peace Accord. She also considers how women differ from men in various activities connected to war.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%201/WomenWarfare/Members%20of%20the%208th%20Regiment.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%201/WomenWarfare/Members%20of%20the%208th%20Regiment.jpg">
  <div style="background-color: white;">Members of the 8th Regiment. <i>Courtesy of Mahani Awang.</i></div>
 
 #### **Introduction**
