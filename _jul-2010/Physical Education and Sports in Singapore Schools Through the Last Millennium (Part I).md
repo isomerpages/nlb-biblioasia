@@ -7,7 +7,7 @@ description: Librarian Wee Tong Bao traces the development of physical education
 ---
 #### Librarian&nbsp;_Wee Tong Bao_&nbsp;traces the development of physical education and sports in Singapore from colonial times.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/BK%20PE%20Lesson.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/BK%20PE%20Lesson.jpg">
  <div style="background-color: white;">Pupils from Bukit Panjang Government School attending a Physical Education (PE) lesson (1950). <i>Courtesy of National Archives of Singapore.</i></div>
  
 #### **Introduction**
@@ -39,7 +39,7 @@ In 1927, the post of Superintendent of Physical Education was upgraded to Chief 
 
 By the late 1920s, it was common for schools to conduct organised physical exercises and games. In the girls’ schools and Malay vernacular schools, folk dancing gained popularity. Five out of six girls’ schools offered it as part of their physical training. In the Malay vernacular boys’ schools, “Malay folk games were taught and played daily in the lowest classes of all schools” (Ibid, p. 238) and “Rhythmic Exercises were practiced by these pupils … \[who used the\] … adaptation of *pantun* or Malay lullaby” to accompany their physical activities (Ibid, p. 238). The Assistant Supervisor in Singapore also provided simple Swedish exercises for use in the Malay girls’ schools (Ibid.).
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/MS%20Sports%20Day.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%202/PhysicalEducation/MS%20Sports%20Day.jpg">
  <div style="background-color: white;">A sports day at Malay Girls' School (1950). <i>Ministry of Information and The Arts (MITA), courtesy of National Archives of Singapore.</i></div>
 
 By 1929, almost all schools made time for “at least three twenty minutes periods of Physical Instruction in the course of a week for each class” (*SSAR*, 1929, p. 913). The perseverance of the Superintendent of Physical Education and his assistant in conducting lessons paid off as “nearly all the teachers, men and women, had qualified themselves to teach physical exercises and were putting into practice fairly satisfactorily the general principles which they have been taught” (*SSAR*, 1929, p. 913). By this time, four of the girls’ schools were holding their own sporting meets (Ibid, p. 922). It is believed that the “house” system instituted in the girls’ schools at this point played a role in enhancing the level of enthusiasm for sports among the students. From 1930, daily Physical Education lesson plans were available in Malay boys’ schools during break time (*SSAR*, 1930, p.740).
@@ -81,7 +81,7 @@ In 1938, when the economy improved, an Assistant Superintendent of Physical Educ
 
 #### **Training and Syllabus during the Recovery Years, 1940s**
 
-After the Japanese surrender in 1945, the re-establishment of schools and education in Singapore was placed under the British Military Administration (BMA). R. M. Young was made the Deputy Director of Education while R. W. Watson-Hyatt, the Assistant Director for Chinese schools. They had an uphill task as many school buildings had been destroyed or damaged and there was a general “lack (of) furniture, books and equipment” (AR, 1946, p. 5). Hence, classes were conducted in overcrowded classrooms while students had difficulty finding transport to and from school (Ibid.). Nevertheless, by the end of 1945, there was a total enrolment of 38,719 students in 37 English, 66 Chinese and 21 Malay schools (Ibid.). And “physical training was resumed as much as the limited space and shortened school hours allowed” (Ibid, p.14).
+After the Japanese surrender in 1945, the re-establishment of schools and education in Singapore was placed under the British Military Administration (BMA). R. M. Young was made the Deputy Director of Education while R. W. Watson-Hyatt, the Assistant Director for Chinese schools. They had an uphill task as many school buildings had been destroyed or damaged and there was a general “lack (of) furniture, books and equipment” (AR, 1946, p. 5). Hence, classes were conducted in overcrowded classrooms while students had difficulty finding transport to and from school (Ibid.). Nevertheless, by the end of 1945, there was a total enrolment of 38,719 students in 37 English, 66 Chinese and 21 Malay schools (Ibid.). And “physical training was resumed as much as the limited space and shortened school hours allowed” (Ibid, p. 14).
 
 One of the first measures taken at this point to reinstate Physical Education in schools was to deploy “guru khas” (visiting teachers) who assisted with the implementation of games and physical training in Malay boys’ schools (AR, 1947, p. 61). A probationary Assistant Supervisor of Physical Education was also appointed for Malay girls’ schools. The first batch of Normal class student-teachers for English schools received 22 half-hour lectures in physical training while Chinese school teachers attended a vacation course (Ibid, p. 63). The Education Department also issued copies of the official training syllabus to all English schools and a revised syllabus to Malay boys’ schools by the end of 1947 (Ibid.).
 
@@ -94,7 +94,7 @@ The use of a physical education curriculum in vernacular schools had been largel
 
 In 1947, among the textbooks available outlining lesson plans for physical training were《团体游戏》(Group Games);《我们的球戏》(Our Ball Games);《户内外游戏》 (Indoor &amp; Outdoor games);《几种球类运动》(Some Ball Games);《几种技巧运动》(Some Gymnastics Moves);《我们的 田径运动》(Our Track and Field Sports);《国术讲话》(Lessons on Martial Arts);《运动会》(Sports Meets). In 1953, the Nanyang Siang Pau Press printed《实用体育行政》(Practical Physical Training Administration).
 
-<img src="/&quot;images/Vol%206%20Issue%202/PhysicalEducation/Figure%204%20-%20A%20phsical%20education%20lesson%20plan,%201957.jpg&quot;" style="width:50%;">
+<img src="/images/Vol%206%20Issue%202/PhysicalEducation/Figure%204%20-%20A%20phsical%20education%20lesson%20plan,%201957.jpg" style="width:50%;">
  <div style="background-color: white;">A physical education lesson plan. All rights reserved, Ministry of Education, 1957.
 </div>
 
