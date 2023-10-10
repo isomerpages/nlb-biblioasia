@@ -18,6 +18,8 @@ This is the dramatic introduction to “The Cruise of the Krait” which retells
 
 The story, which spans 12 pages, is one of 14 stories in *The Victor Book for Boys: The Commandos at Singapore*.[^1] Published in London in 1965 by D.C. Thomson &amp; Co., Ltd., and John Leng &amp; Co. Ltd., the hardcover book measures 19.3 cm by 27.6 cm. (The book is 124 pages long, though because the publishers counts the cover as page 1, the page numbers run to 128). 
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/n8ufqND2a2w" frameborder="0" allowfullscreen=""></iframe></div>
+
 #### **Operation Jaywick**
 
 Operation Jaywick took place in September 1943. The team of 14 commandos and sailors, led by Major (later Lieutenant-Colonel) Ivan Lyon, sailed from Australia to Singapore in a fishing boat (the *Krait*), with the aim of sabotaging ships in Japanese-occupied Singapore. 
