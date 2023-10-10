@@ -158,4 +158,3 @@ Paul Kratoska, “Introduction,” in [_An Illustrated Guide to the Federated Ma
 [^12]: “Malayan Outpost: The Work of the Malay States Information Agency,” _British Malaya Magazine: Magazine of the Association of British Malaya_ (May 1926), 27–28. (Microfilm NL 7599 (1926–30)
 
 [^13]: “[Guide to the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101217-1.2.61),” _Straits Times_, 17 December 1910, 7.(From NewspaperSG)
-
