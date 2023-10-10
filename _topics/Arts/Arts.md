@@ -1,9 +1,14 @@
 ---
-title: Art
+title: Arts
 permalink: /topics/art/
 description: ""
 third_nav_title: Arts
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/arts/2023/10/painters-diard-duvaucel-farquhar/"> About the Painters: Seeking the Unnamed Artists Behind Diard and Duvaucel's Natural History Drawings</a>
+ <p>Natural history drawings might seem clinical and cold, but an unlikely medium pulls back the curtains to find the humanity behind them.</p> 
+ <img style="width:100%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/diard_duvaucel%20cover1.jpg"> 
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals"> The Forgotten Murals of Paya Lebar Airport</a>
  <p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p> 
  <img style="width:100%;" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> 
@@ -46,7 +51,7 @@ third_nav_title: Arts
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/tan-swie-hian-coll/">Exploring an Artist’s Mind: The Tan Swie Hian Collection</a>
-What makes the difference between a good artist and a brilliant one? Goh Yu Mei delves into the books and artworks that have inspired a literary and artistic genius.
+What makes the difference between a good artist and a brilliant one?&nbsp;Goh Yu Mei&nbsp;delves into the books and artworks that have inspired a literary and artistic genius.
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/georgette-chen">Georgette Chen: Artist Extraordinaire</a>
@@ -54,7 +59,7 @@ Sara Siew examines the link between visual art and the written word through the 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/contemporary-art">Groundbreaking: The Origins of Contemporary Art in Singapore</a>
-1988 has been held as the watershed year in which Singapore’s contemporary art took root with the establishment of The Artists Village. Jeffrey Say debunks this view, asserting that the contemporary art movement began earlier.
+1988 has been held as the watershed year in which Singapore’s contemporary art took root with the establishment of The Artists Village.&nbsp;Jeffrey Say&nbsp;debunks this view, asserting that the contemporary art movement began earlier.
 
 
 
