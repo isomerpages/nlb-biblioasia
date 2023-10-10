@@ -183,8 +183,3 @@ Images reproduced from Juffri Supa'at and Nazeerah Gopaul, eds., [_Aksara Menjej
 [^16]: It is believed to be the oldest existing Malay manuscript because it is written in the later Kawi scripts. The manuscript is a legal code of 34 pages completely written in Malay except for the first and last few sentences, which are written in Sanskrit. The material the text is written on is bark paper produced from the bark of the mulberry tree, and the script is an Indian-derived script, which developed locally in Sumatra. Kozok found the manuscript in 2002. It had been kept in a private collection in a remote part of Sumatra where villagers regard it to be a sacred heirloom with calamity befalling the village should it be removed.
 
 [^17]: Braginsky, _[Heritage of Traditional Malay Literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12524154)_, 1.
-
-
-
-
-
