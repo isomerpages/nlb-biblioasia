@@ -186,4 +186,5 @@ Yen Ching-Hwang, [_A Social History of the Chinese in Singapore and Malaya 1800â
 
 [^1]: Pee: a crude slang implying a ladyâ€™s genitals.
 
-[^2]: Cheng, [_Social Change and the Chinese in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082374) claimed that between the years 1891 and 1947, Cantonese were the second largest group after Hokkiens, and were only overtaken by Teochews in numbers after 1947.
+[^2]: Cheng Lim-Keak, [_Social Change and the Chinese in Singapore: A Socio-Economic Geography With Special Reference To Bang Structure_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082374) (Singapore: Singapore University Press, 1985). (Call no. RSING 369.25957 CHE)
+claimed that between the years 1891 and 1947, Cantonese were the second largest group after Hokkiens, and were only overtaken by Teochews in numbers after 1947.
