@@ -17,12 +17,12 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/Binjai/hero_img_binjai_park.jpg
   - infopic:
-      title: "Collection Focus: A Comic Book Version of Operation Jaywick"
+      title: Operation Jaywick Retold as a Comic Book for Boys
       subtitle: "Video: BiblioAsia Reels_Print"
       id: infopic
       description: Disguised as local fishermen, Australian and British commandos
-        carried out Operation Jaywick, a daring raid on Japanese ships at Keppel
-        Harbour in Singapore.
+        launched a clandestine raid on Japanese ships in Singapore’s Keppel
+        Harbour.
       button: Watch The Video
       url: /videos/reels/print/
       image: "/images/Videos: BiblioAsia Reels/victory boys.png"
