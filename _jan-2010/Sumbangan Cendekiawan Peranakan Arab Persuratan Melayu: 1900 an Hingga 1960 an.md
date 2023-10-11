@@ -210,7 +210,7 @@ Maimunah Tahir, [_Modern Malay Literary Culture: A Historical Perspective_](http
 
 Mohamed Saleeh Rohamad, [_Pencerekaan Dalam Novel Sejarah_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12507098) (Kuala Lumpur: Penerbit Universiti Malaya, 2005). (Call no. Malay R 899.28309 MOH)
 
-Nik Ahmad Nik Hassan, “The Malay Press,” _Journal of the Malaysian Branch Royal Asiatic Society_ 36, no. 1 (201) (May 1963), 37–61. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+Nik Ahmad Nik Hassan, “The Malay Press,” _Journal of the Malaysian Branch Royal Asiatic Society_ 36, no. 1 (201) (May 1963): 37–61. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 P. Trekker, “The Arab Pioneers of Singapore,” _Beam_ (November 1995), 10–11.
 
@@ -236,7 +236,7 @@ Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biograph
 
 Walter Makepeace, Gilbert E. Brooke, Roland St. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), vols. 1 and 2 (London: John Murray, 1921). (Call no. RCLOS 959.51 MAK)
 
-William, R. Roff, “The Malayo Muslim World of Singapore at the Close of the Nineteenth Century,” _Journal of Asian Studies,_ 24, no. 1 (November 1964), 75–90. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+William, R. Roff, “The Malayo Muslim World of Singapore at the Close of the Nineteenth Century,” _Journal of Asian Studies,_ 24, no. 1 (November 1964): 75–90. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 William R. Roff, [_Sejarah Surat-Surat Khabar Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4271289) (Pulau Pinang: Saudara Sinaran Berhad, 1967). (Call no. Malay RCLOS 079.595 ROF)
 
@@ -248,11 +248,73 @@ William R. Roff, “In and Outs of Hadhrami Journalism in Malaya, 1900–1941: A
 
 Yahaya Ismail, “Syed Sheikh Al-Hadi: Pembuka Zaman Baru Dalam Bidang Novel,” [_Dewan Bahasa_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10210309), 18 (November 1974), 549–76. (Call no. Malay RSEA 499.23 DB)
 
-Zainal Abidin Ahmad, “Modern Development of Malay Literature,” _Journal of the Malayan Branch of the Royal Society,_ 19, no. 2 (October 1941), 244–50. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website; Also published in: Abdullah Hussain, [_Pendeta Za’ba Dalam Kenangan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10128233) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2000), 242–70. (Call no. Malay R 499.2800924 ABD)
+Zainal Abidin Ahmad, “Modern Development of Malay Literature,” _Journal of the Malayan Branch of the Royal Society,_ 19, no. 2 (October 1941): 244–50. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Also published in: Abdullah Hussain, [_Pendeta Za’ba Dalam Kenangan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10128233) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2000), 242–70. (Call no. Malay R 499.2800924 ABD)
 
 Zulkipli bin Mahmud, [_Warta Malaya, Penyambung Lidah Bangsa Melayu, 1930–1941_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2303498) (Bangi: Jabatan Sejarah, Universiti Kebangsaan Malaysia, 1979). (Call no. Malay R 079.595 ZUL)
 
 #### **NOTES**
+         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1040178053 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:10.0pt; margin-left:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} a:link, span.MsoHyperlink {mso-style-priority:99; color:blue; mso-themecolor:hyperlink; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:purple; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:10.0pt; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+1 C. M. Turnbull, _[A History of Modern Singapore, 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047)_ (Singapore: National University of Singapore Press, 2009), 34. (Call no. RSING 959.57 TUR)
+
+2 Lim Lu Sia, “The Arabs of Singapore: A Sociographic Study of Their Place in the Muslim and Malay World of Singapore” (bachelor’s thesis, National University of Singapore, 1987), 23.
+
+3 William, R. Roff, “The Malayo Muslim World of Singapore at the Close of the Nineteenth Century,” _Journal of Asian Studies_ 24, no. 1 (November 1964): 75–90. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+4 Abdullah bin Haji Jaafar, “Al-Imam,” in _[Sejarah Masyarakat Melayu Moden](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6392248)_, ed. Khoo Kay Kim (Kuala Lumpur: Jabatan Penerbitan Universiti Malaya, 1985), 86. (Call no. Malay R 959.5 SEJ)
+
+5 Sheikh (Syed) Mohd. Salim al-Kalali merupakan teman seperjuangan Syed Sheikh Ahmad al Hadi dan Sheikh Tahir Jalaludin yang menganjurkan dan mendokong penerbitan alImam. Mereka digelar “Kaum Muda” dan bergiat menyebarkan fahaman baru tentang Islam. Al-Imam diterbitkan dalam tulisan Jawi sebanyak 31 keluaran dari 23 Julai 1906 hingga bulan Disember 1908 di Singapura. Menurut Proudfoot (1992), al-Imam pernah dicetak sebanyak 5,000 naskah iaini jumlah pencapaian percetakan tertinggi oleh akhbar Melayu sebelum Perang Dunia ke Dua.
+
+6 Abdullah bin Haji Jaafar, “Al-Imam,” in _[Lembaran Akhbar Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4095629)_, ed. Khoo Kay Kim dan Jazamuddin Baharuddin (Kuala Lumpur: Persatuan Sejarah Malaysia, 1980), 12. (Call no. Malay RSING 070.9595 LEM)
+
+7 William R. Roff, _[The Origins of Malay Nationalism](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266)_, 2nd ed. (Kuala Lumpur: Oxford University Press, 1994), 82. (Call no. RSING 320.54 ROF)
+
+8 Zainal Abidin Ahmad, “Modern Development of Malay Literature,” in Abdullah Hussain, _[Pendeta Za’ba Dalam Kenangan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10128233)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2000), 262. (Call no. Malay R 499.2800924 ABD)
+
+9 _[Sejarah Kesusasteraan Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12695536)_. Diselenggarakan oleh Safian Hussain, Mohd. Thani Ahmad, Johan Jaaffar (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2006), 138. (Call no. R 899.230009 SEJ)
+
+10 Roff, _[Origins of Malay Nationalism](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266)_, 63.
+
+11 Li Chuan Siu, _[Ikhtisar Sejarah Kesusasteraan Melayu Baru, 1830–1945](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4118153)_ (Kuala Lumpur: Penerbitan Pustaka Antara, 1972), 80. (Call no. Malay RSING 899.23008104 LI)
+
+12 Kamal, “[Syed Syeikh Al-Hadi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12331906), 150.
+
+13 Adam, _[Isu Bahasa Dan Pembentukan Bangsa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7423054)_, 53.
+
+14 Kamal Shukri Abdullah Sani, “Syed Syeikh Al-Hadi: Peranannya Dalam Perkembangan Bahasa Melayu (Era Kolonial 1867–1934),” in _[Syed Syeikh Al-Hadi: Cendekia Dan Sasterawan Ulung](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12331906)_, ed. Suhaimi Aziz (Pulau Pinang: Penerbit Universiti Sains Malaysia, 2003), 148. (Call no. Malay R 899.28092 SYE)
+
+15 Turnbull, _[History of Modern Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047)_, 154.
+
+16 William R. Roff, “In and Outs of Hadhrami Journalism in Malaya, 1900–1941: Assimilation or Identity Maintenance?” in _[Hadhrami Diaspora in Southeast Asia: Identity Maintenance or Assimilation?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077)_ ed. Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim (Leiden: Brill, 2009), 197. (Call no. RSEA 305.89275335 HAD)
+
+17 Samat Buang, “Perkembangan Akhbar Dan Majalah (1901–1925),” _[Pelita Bahasa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5417403)__,_ 5, no. 5 (1993), 43. (Call no. Malay RCLOS 499.23005 PB)
+
+18 Li, _[Ikhtisar Sejarah Kesusasteraan Melayu Baru](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4118153)_, 101.
+
+19 Li, _[Ikhtisar Sejarah Kesusasteraan Melayu Baru](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4118153)_, 101.
+
+20 Zulkipli bin Mahmud, _[Warta Malaya, Penyambung Lidah Bangsa Melayu, 1930–1941](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2303498)_ (Bangi: Jabatan Sejarah, Universiti Kebangsaan Malaysia, 1979), 4. (Call no. Malay R 079.595 ZUL)
+
+21 _[Aktivis Melayu/Islam di Singapura](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881194)_, Diselenggarakan oleh Sulaiman Jeem dan Abdul Ghani Hamid (Singapura: Persatuan Wartawan Singapura, 1997), 404. (Call no. Malay RSING 305.89928 AKT)
+
+22 _[Aktivis Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8881194)_, 406.
+
+23\. Ismail Hussein, “Singapura Sa-Bagai Pusat Kesusasteraan Melayu Sa-Lepas Perang,” _[Dewan Bahasa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10210309)_ (November 1959), 547. (Call no. Malay RSEA 499.23 DB)
+
+24 Talib Samat, _[Ahmad Lutfi: Penulis, Penerbit Dan Pendakwah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11345007)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2002), 13. (Call no. Malay R 899.28092 TAL)
+
+25 Shahrom Hussain, _[Antara Pengarang-Pengarang Novel Melayu Dan Karyanya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4184002)_ (Singapura: Pustaka Melayu, 1963), 271. (Call no. Malay RCLOS 899.23009303 SHA)
+
+26 Kartini Saparudin, “Malay Women’s and Men’s Magazines of the 1950’s in Singapore and Malaya,” _[BiblioAsia](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-4/v4-issue4_WomenMenMagazines.pdf)_ 4, no. 4 (January 2009), 29.
+
+27 Samat, _[Ahmad Lutfi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11345007)_, 6–7.
+
+28 Syed Muhd. Khairudin Aljunied, “Hadhramis Within Malay Activism: The Role of Al-Saqqaf(s) in Post-War Singapore (1945–1965),” in _[Hadhrami Diaspora in Southeast Asia: Identity Maintenance or Assimilation?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077)_ ed. Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim (Leiden: Brill, 2009), 240. (Call no. RSEA 305.89275335 HAD)
+
+29 Saparudin, “[Malay Women’s and Men’s Magazines](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-4/v4-issue4_WomenMenMagazines.pdf),” 29.
+
+
+
 
 [^1]: Turnbull, [_History of Modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 34.
 
