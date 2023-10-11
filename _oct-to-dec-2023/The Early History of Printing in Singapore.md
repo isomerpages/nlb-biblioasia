@@ -234,7 +234,7 @@ This is a facsimile reproduction of the 1837 edition of the Gospel of John, whic
 	Cover and pages from 約翰福音之傳: 複製及解説<i> (Yohane fukuin no den: Fukusei oyobi kaisetsu). Collection of the National Library, Singapore (Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/f9d3332f-3612-46d3-b134-b254d106aaf9.aspx"><b>Notices of the Indian Archipelago, and Adjacent Countries</b></a><br>Singapore: 1837.<br>Call no. RRARE 991 MOO; Accession no. B03013554J.<br><br>
+<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=f9d3332f-3612-46d3-b134-b254d106aaf9"><b>Notices of the Indian Archipelago, and Adjacent Countries</b></a><br>Singapore: 1837.<br>Call no. RRARE 991 MOO; Accession no. B03013554J.<br><br>
 This mammoth work features articles on Singapore and Southeast Asia reprinted from the <i>Singapore Chronicle</i> and other scholarly journals. It was compiled by John Henry Moor, the former editor of the <i>Singapore Chronicle</i> and <i>Singapore Free Press</i>. Due to the scarcity of printers and paper, the task took two years to complete. This is among one of the earliest scholarly works printed in Singapore. It was donated to the National Library by Mrs Loke Yew in fulfilment of the intention of her son Loke Wan Tho.</div><br>
 
 <img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/notices%20of%20the%20indian%20archipelago_improved.jpg">
