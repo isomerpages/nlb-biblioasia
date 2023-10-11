@@ -1,13 +1,13 @@
 ---
 title: "Hadhramaut: Encountering the Familiar in a Far Away Place"
 permalink: /vol-5/issue-4/jan-2010/hadhramaut-encountering-far-place/
-description: "Senior Research Associate Cheryl-Ann Low travels with colleague
+description: Senior Research Associate Cheryl-Ann Low travels with colleague
   Zahara Aljunied to visit her family in Hadhramaut, finding hospitality,
-  familiarity and common ground. "
+  familiarity and common ground.
 ---
-#### Senior Research Associate _Cheryl-Ann Low_ travels with colleague Zahara Aljunied to visit her family in Hadhramaut, finding hospitality, familiarity and common ground.
+#### Senior Research Associate&nbsp;_Cheryl-Ann Low_&nbsp;travels with colleague Zahara Aljunied to visit her family in Hadhramaut, finding hospitality, familiarity and common ground.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Mudbrick%20mould.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Mudbrick%20mould.jpg">
  <div style="background-color: white;">Putting mud mixture into the mould</div>
 
 Most Singaporean Arabs originated from, or had close family ties with, Hadhramaut[^1] at the southern part of the Arabian Peninsula, in present-day Yemen. In March this year, my colleague Zahra Aljunied and I visited Hadhramaut with the purpose of finding materials alluding to the links between Hadhramaut and Southeast Asia, particularly Singapore.
@@ -53,7 +53,7 @@ Another lively visit we had was with a family in Shibam. We sat with the wife of
 
 Despite the language barrier, we tried to communicate with each other. We talked about how beautiful Shibam was, told them that we also like to eat melon seeds in Singapore, and asked them how they coloured their melon seeds so attractively. The host’s daughter was in her early teens, and had a very friendly disposition. We both smiled immediately at each other when we met. At an awkward moment when we ran out of words, I started playing with the colourful melon seed kernels, arranging them into a pattern on the carpeted floor in front of me. The daughter was intrigued and smiled knowingly when she realised what I was trying to represent with the seed kernels — the colourful buildings of Shibam. In response, she arranged her melon seed kernels into a flower and looked at me with a huge grin.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/IMG_0790.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/IMG_0790.jpg">
  <div style="background-color: white;">Shibam, a UNESCO World Heritage site</div>
 
 After that, they showed us around their house; we happily scampered up the narrow stairways which opened out to small rooms, some of which were unoccupied. A UNESCO World Heritage site, Shibam is famous for its towers of tall houses and is also referred to as “the Manhattan of the desert”[^12] and “the New York of Hadhramaut”.[^13] The tallest house rises 29.15 metres above its entrance on street level, and the average number of storeys is five.[^14] We counted seven storeys in this house, atop of which was a cool, airy rooftop.
@@ -66,9 +66,8 @@ Van der Meulen and Von Wissman were served yellow-coloured spiced rice with dish
 
 There was one particularly unforgettable meal with spiced rice. This was a lunch we had at Do’an. We passed a truckload of camels as our car neared the eatery. Being women, Zahra and I were obliged to enter the eatery by a secondary entrance near the kitchen. On our way, our guide urged us to look down into the kitchen where we saw a man cooking a large pot of meat. The food we were served consisted of a platter of saffron-coloured spiced rice, a plate of camel meat and a dish of chilli sauce. Our guide explained that that was the eatery’s specialty, and the only food it served. I ate a lot of the rice with copious amounts of chilli sauce, focusing on how much it tasted like *nasi briyani*, and tried hard not to think about the camels and the kitchen outside. I chewed and swallowed some of the meat in great haste.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Spiced%20rice%20&%20camel%20meat.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Spiced%20rice%20&amp;%20camel%20meat.jpg">
  <div style="background-color: white;">Spiced rice with camel meat and chilli sauce</div>
-
 
 The food was not all that was familiar to me in Hadhramaut. It was common for men there to don sarongs and shirts. This was the preferred attire of our guide. Our gentle, kindly driver also regularly wore a shirt over a singlet, and a sarong. We were told that the singlet was called *baju panas* in Hadhramaut.
 
@@ -77,19 +76,19 @@ The food was not all that was familiar to me in Hadhramaut. It was common for me
 On 8 and 9 March, we visited the port cities of Shihr and Mukalla. These are the two main ports from where Hadhramis migrated. Shihr was the main port until Mukalla superseded it in the late 19th century.[^18]
 These two ports are significant in the lives of the migrants not only because they were the places of departure. Some Hadhramis spent a year or more working in these cities to earn their onward fare, and those deciding on their migration destinations would talk to sailors and returned emigrants in these ports.[^19]
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Immigration%20Shihr.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Immigration%20Shihr.jpg">
  <div style="background-color: white;">Building which housed immigration offices, Shihr.</div>
 
 We were taken on a walking tour of Shihr which included visiting the building which used to house the immigration offices. As we walked past the building, a briny aroma wafted by, bringing to mind images of the sea. Shortly after, some men came trundling by with a wheelbarrow filled with huge fish! The men told us through the guide that it was a fresh catch, and obligingly waited while we took photographs.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Fish%20Shihr.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Fish%20Shihr.jpg">
  <div style="background-color: white;">Fresh fish in Shihr.</div>
 
 We visited Mukalla the next day. I was told it is the centre of Hadhramaut’s fishing industry. As I feasted on the delectable fish with rice at a restaurant with Zahra, our host and our guide, I wondered how many Hadhrami migrants, who passed through Shihr and Mukalla, had missed the briny smell of the sea and fresh fish of these ports while in their host countries. By then, I had been away from home for more than a week and was starting to miss our tropical landscape and balmy evenings.
 
 #### **Last Day in Hadhramaut**
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Mudbricks%20stacking.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Mudbricks%20stacking.jpg">
  <div style="background-color: white;">Stacking dried mud-bricks.</div>
 
 My last day in Hadhramaut was 12 March. As my flight was in the afternoon, we started the day by visiting a mudbrick factory. Buildings in Hadhramaut are traditionally constructed from mud-bricks and the centuries-old technology of making mud-bricks has remained largely unchanged.[^20] The mud-bricks are made in large outdoor yards. Soil is wetted and chopped straw is mixed in. The mixture is smoothed into a pre-wetted wooden mould, edges defined with a tool or finger, and the mould removed. The bricks are then sun-dried for about a week before they are ready for use.[^21] Although concrete buildings have sprung up in Hadhramaut, mud-brick structures continue to be built.
@@ -100,8 +99,8 @@ As the plane soared over the mountainous plateaus and values, I mused that I wou
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Cheryl%20Low.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Cheryl%20Low.jpg" style="width: 100px; height: 100px;">
  <center><b>Cheryl-Ann Low</b><br>Senior Research Associate I<br> Lee Kong Chian Reference Library<br> National Library </center></div>
 
 #### **REFERENCES**
@@ -119,7 +118,7 @@ Linda Boxberger, [_On the Edge of Empire – Hadhramawt, Emigration and the Indi
 
 Pamela Jermome, Giacomo Chiari and Caterina Borelli, “The Architecture of Mud: Construction and Repair Technology in the Hadhramaut Region of Yemen,” _APT Bulletin_ 30, nos. 2–3 (1999), 39–48. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-R. J. Gavin, [_Aden Under British rule 1839–1967_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4170553) (London: C. Hurst & Co., 1979). (Call no. R 953.35 GAV)
+R. J. Gavin, [_Aden Under British rule 1839–1967_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4170553) (London: C. Hurst &amp; Co., 1979). (Call no. R 953.35 GAV)
 
 Ronald Lewcock, _Wadi Hadramawt and the Walled City of Shibam_ (Paris: UNESCO, 1986)
 
@@ -168,19 +167,3 @@ Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biograph
 [^20]: Jerome, Chiari and Borelli, “Architecture of Mud,” 41.
 
 [^21]: Jerome, Chiari and Borelli, “Architecture of Mud,” 41–42.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
