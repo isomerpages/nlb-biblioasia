@@ -125,45 +125,48 @@ Ronald Lewcock, _Wadi Hadramawt and the Walled City of Shibam_ (Paris: UNESCO, 1
 Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in in [_Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11533543), ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 109–42. (Call no. RSING 305.8927059 TRA)
 
 #### **NOTES**
+     
+[^1]: Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in in _[Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11533543)_, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 113–4. (Call no. RSING 305.8927059 TRA)
 
-[^1]: Ulrike, “[Arab Merchants in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11533543),” 113–4.
+[^2]: C. M. Turnbull, _[A History of Singapore 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_ (Singapore: Oxford University Press, 1989), 14. (Call no. RSING 959.57 TUR)
 
-[^2]: Turnbull, [_History of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825), 14.
+[^3]: Ulrike Freitag and William G. Clarence-Smith, eds., _[Hadhrami Traders, Scholars and Statesmen in the Indian Ocean, 1750s–1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13050804)_ (Leiden: Brill, 1997), 67. (Call no. RSEA 304.809533 HAD)
 
-[^3]: Freitag Ulrike and William G. Clarence-Smith, eds., [_Hadhrami Traders, Scholars and Statesmen in the Indian Ocean, 1750s–1960s_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13050804) (Leiden: Brill, 1997), 67. (Call no. RSEA 304.809533 HAD)
+[^4]: “58 Die in Flash Floods,” _The Observer_, 26 October 2008; “Yemen: Flash Floods,” International Federation of Red Cross and Red Crescent Societies, accessed July 2009_._
 
-[^4]: “58 Die in Flash Floods”; “Yemen: Flash Floods,” International Federation of Red Cross and Red Crescent Societies, accessed July 2009_._
+[^5]: Linda Boxberger, _[On the Edge of Empire – Hadhramawt, Emigration and the Indian Ocean 1880s–1930s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_ (New York: State University of New York Press, 2002), 1. (Call no. R 953 BOX)
 
-[^5]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 1.
+[^6]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 13.
 
-[^6]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 13.
+[^7]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 40.
 
-[^7]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 40.
+[^8]: R. J. Gavin, _[Aden Under British rule 1839–1967](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4170553)_ (London: C. Hurst &amp; Co., 1979), 310 (Call no. R 953.35 GAV); Allaz, Camille, _[History of Air Cargo and Air Mail: From the 18th Century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12525355)_, trans. John Skilbeck (London: Christopher Folye Publishing in association with The International Air Cargo Association, 2004), 166. (Call no. R 387.744 ALL)  
 
-[^8]: Gavin, [_Aden Under British Rule_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4170553), 310; Camille, [_History of Air Cargo and Air Mail_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12525355), 166.
+[^9]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 40.
 
-[^9]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 40.
+[^10]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 44.
 
-[^10]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 44.
+[^11]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 19.
 
-[^11]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 19.
+[^12]: “Old Walled City of Shibam,” UNESCO World Heritage website, http://whc. unesco.org/en/list/192.
 
-[^12]: “Old Walled City of Shibam.”
+[^13]: Pamela Jermome, Giacomo Chiari and Caterina Borelli, “The Architecture of Mud: Construction and Repair Technology in the Hadhramaut Region of Yemen,” _APT Bulletin_ 30, nos. 2–3 (1999): 39–48. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-[^13]: Jermome, Chiari and Borelli, “Architecture of Mud,” 39–48.
-
-[^14]: Lewcock, _Wadi Hadramawt_, 71.
+[^14]: Ronald Lewcock, _Wadi Hadramawt and the Walled City of Shibam_ (Paris: UNESCO, 1986), 71.
 
 [^15]: D. Van Der Meulen and H. Von Wissmann, _Hadhramaut – Some of Its Mysteries Unveiled_ (Leyden, E.J Brill Ltd, 1932), 137.
 
-[^16]: Van Der Meulen and Von Wissmann, 1932, 95.
+[^16]: Van Der Meulen and Von Wissmann, _Hadhramaut_, 95.
 
-[^17]: Van Der Meulen and Von Wissmann, 1932, 79–81.
+[^17]: Van Der Meulen and Von Wissmann, _Hadhramaut_, 79–81.
 
-[^18]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 14.
+[^18]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 14.
 
-[^19]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 42.
+[^19]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 42.
 
 [^20]: Jerome, Chiari and Borelli, “Architecture of Mud,” 41.
 
 [^21]: Jerome, Chiari and Borelli, “Architecture of Mud,” 41–42.
+
+
+
