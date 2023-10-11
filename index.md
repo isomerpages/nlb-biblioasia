@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/Binjai/hero_img_binjai_park.jpg
   - infopic:
+      title: A Brief History of John Little at Raffles Place
+      subtitle: Places and buildings
+      id: infopic
+      description: A look back at John Little’s 170-year history and the lasting mark
+        the store has made on our island.
+      button: 170 years of shopping
+      url: /places-and-buildings/2023/10/john-little-raffles-place-department-store/
+      image: /images/Online Only Articles/John Little at Raffles Place/2a 19980005119
+        (j) img0043.jpg
+      alt: Image alt text
+  - infopic:
       title: Operation Jaywick Retold as a Comic Book for Boys
       subtitle: "Video: BiblioAsia Reels_Print"
       id: infopic
@@ -821,15 +832,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: A Brief History of John Little at Raffles Place
-      subtitle: Places and buildings
-      id: infopic
-      description: A look back at John Little’s 170-year history and the lasting mark
-        the store has made on our island.
-      button: 170 years of shopping
-      url: /places-and-buildings/2023/10/john-little-raffles-place-department-store/
-      image: /images/Online Only Articles/John Little at Raffles Place/2a 19980005119
-        (j) img0043.jpg
-      alt: Image alt text
 ---
