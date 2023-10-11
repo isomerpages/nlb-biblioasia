@@ -214,7 +214,7 @@ This is the first printed edition of the <i>Sulalat al-Salatin (Genealogy of Kin
 	Pages from <i>Sejarah Melayu (Malay Annals)</i> edited by Munshi Abdullah. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 SEJ; Accession no. B31655050C).</i></div><br>
          
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/29ccbe1a-d854-4520-bf05-b3d085114375.aspx"><b>全人矩矱&nbsp; (Quan Ren Ju Yue)</b></a><br>新嘉坡 坚夏書院, 1836.<br>Call no. RRARE 243 AHZ; Accession no. B02890695F.<br><br>
+<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=29ccbe1a-d854-4520-bf05-b3d085114375"><b>全人矩矱&nbsp; (Quan Ren Ju Yue)</b></a><br>新嘉坡 坚夏書院, 1836.<br>Call no. RRARE 243 AHZ; Accession no. B02890695F.<br><br>
 The title of this publication has been translated as The Perfect Man’s Model or The Complete Duty of Man. This is the earliest extant Chinese publication printed in Singapore and is held in the National Library’s collection. This book was written by German Protestant missionary Karl Friedrich August Gützlaff under his pen name 爱汉者 (“Lover of the Chinese”) and by printed by 坚夏書院 (Jian Xia Shuyuan), the printing arm of the American mission in Singapore.</div><br>
 
 <img style="width:65%;" src="/images/Vol%2019%20Issue%203/10%20Printing/image_8-edit.png">
