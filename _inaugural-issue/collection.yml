@@ -2,7 +2,7 @@ collections:
   inaugural-issue:
     output: true
     order:
-      - "Singapore Pages: National Library Board’s Online Heritage Collection.md"
       - A New Chapter.md
       - A Knowledge Hub.md
       - Services at the Lee Kong Chian Reference Library.md
+      - "Singapore Pages: National Library Board’s Online Heritage Collection.md"
