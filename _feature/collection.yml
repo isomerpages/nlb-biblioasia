@@ -2,5 +2,7 @@ collections:
   feature:
     output: true
     order:
+      - "Coffee in the Basement, Tea on the Second Floor: A Brief History of
+        John Little at Raffles Place.md"
       - "About the Painters: Seeking the Unnamed Artists Behind Diard and
         Duvaucel's Natural History Drawings.md"
