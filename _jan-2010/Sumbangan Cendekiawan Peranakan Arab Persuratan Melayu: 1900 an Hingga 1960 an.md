@@ -6,7 +6,7 @@ description: Senior Librarian Sundusia Rosdi explores the contributions of
   several Arab immigrants in the literary fields of Malay journalism, publishing
   and printing from the 1900s to the 1960s.
 ---
-#### Senior Librarian _Sundusia Rosdi_ explores the contributions of several Arab immigrants in the literary fields of Malay journalism, publishing and printing from the 1900s to the 1960s.
+#### Senior Librarian&nbsp;_Sundusia Rosdi_&nbsp;explores the contributions of several Arab immigrants in the literary fields of Malay journalism, publishing and printing from the 1900s to the 1960s.
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Transcending%20borders.jpg">
  <div style="background-color: white;">Antara buku-buku rujukan mengenai pendatang-pendatang Arab di Nusantara. All rights reserved, KITLV Press, 2002.</div>
@@ -63,6 +63,10 @@ Beliau bukan seorang reformis tetapi meneruskan ideologi ayahandanya. Sebagai pe
 Akhbar *Saudara* telah menubuhkan kumpulan *Sahabat Pena* (7 April 1934) dan kemudian menjadi persatuan *Persaudaraan Sahabat Pena Malaya (PASPAM)* (11 November 1934) yang bertindak meniup semangat kesedaran dan cinta bahasa dan sastera yang menyumbang dalam meningkatkan kadar literasi di kalangan masyarakat Melayu ketika itu.[^11] Ahli-ahlinya digalak membaca, menulis serta berkongsi membaca akhbar *Saudara* dengan sesiapa yang tidak mampu membelinya. Melalui aktiviti ini, penggunaan bahasa Melayu menjadi semakin meluas di seluruh Malaya sebagaimana yang dihasratkan oleh ayahandanya Syed Sheikh al-Hadi di ruangan *Sahabat Pena* nya untuk *“membantu bangsa Melayu melalui bahasa dan kebudayaan ke arah yakin diri dan menjadi ahli masyarakat Melayu-Muslim yang moden”*.[^12]
 
 Ahmat Adam (1994) merumuskan bahawa *“…Syed Alwi alHadi memandangnya \[Sahabat Pena\] sebagai sebuah badan yang dapat menggembeling dan menolong orang Melayu melalui bahasa dan kebudayaan untuk menjadi masyarakat yang lebih berkeyakinan diri, tabah dan maju…”.*[^13] Kamal Shukri (2003) pula berpendapat “ *… kesedaran dari penubuhan Sahabat Pena dan PASPAM telah memangkinkan tertubuhnya banyak lagi persatuan persuratan lain seperti Angkatan Sasterawan ’50 (ASAS ’50) dan Lembaga Bahasa Melayu Singapura yang bertujuan untuk meningkatkan mutu penulisan dan memperkembangkan bahasa dan kesusasteraan Melayu di kalangan masyarakat setempat… “*.[^14]
+
+<img src="/images/Vol%205%20Issue%204/Sumbangan/Adat%20Resam1.jpg" style="width:50%;">
+<div style="background-color: white;">Antara hasil karya Syed Alwi al-Hadi. All rights reserved, Dewan Bahasa dan Pustaka, 1960.
+</div>
 
 Sebagai pencinta bahasa dan budaya Melayu, Syed Alwi al-Hadi turut menghasilkan beberapa buku termasuk *Adat Resam dan ‘Adat Istiadat Melayu* (1960) (buku pertama diterbitkan mengenai adat istiadat masyarakat Melayu) serta *Panduan Meshuarat* (1956) dan *Panduan Berucap* (1963).
 
@@ -146,8 +150,8 @@ This article discusses the great contributions of several Arab immigrants in the
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Sundusia.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Sundusia.jpg" style="width: 100px; height: 100px;">
  <center><b>Sundusia Rosdi</b><br>Senior Librarian<br> Professional Services<br> National Library </center></div>
 
 #### **REFERENCES**
@@ -214,7 +218,7 @@ Sohaimi Abdul Aziz, [_Syed Syeikh alHadi: Cendekia Dan Sasterawan Ulung_](https:
 
 Syed Alwi bin Sheikh Al-Hadi, [_Adat Resam Melayu Dan Adat Istiadat_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4119154) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1960). (Call no. Malay RCLOS 390.09595) HAD
 
-Syed Muhd. Khairudin Aljunied, “The Role of Hadramis in Post-Second World War Singapore – A Reinterpretation,” _Immigrants & Minorities_ 25, no. 2 (2007), 163–83.
+Syed Muhd. Khairudin Aljunied, “The Role of Hadramis in Post-Second World War Singapore – A Reinterpretation,” _Immigrants &amp; Minorities_ 25, no. 2 (2007), 163–83.
 
 Syed Muhd. Khairudin Aljunied, “Hadhramis Within Malay Activism: The Role of Al-Saqqaf(s) in Post-War Singapore (1945–1965),” in [_Hadhrami Diaspora in Southeast Asia: Identity Maintenance or Assimilation?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077) ed. Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim (Leiden: Brill, 2009), 225–43. (Call no. RSEA 305.89275335 HAD)
 
@@ -299,19 +303,3 @@ Zulkipli bin Mahmud, [_Warta Malaya, Penyambung Lidah Bangsa Melayu, 1930–1941
 [^28]: Aljunied, “[Hadhramis Within Malay Activism](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077),” 240.
 
 [^29]: Saparudin, “[Malay Women’s and Men’s Magazines](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-4/v4-issue4_WomenMenMagazines.pdf),” 29.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
