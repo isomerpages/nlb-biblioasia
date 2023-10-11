@@ -204,7 +204,7 @@ First published in Melaka in 1820, this word list contains terms in English and 
 <div style="background-color: #fff6ba; text-align:left; font-size=larger"><br>
 <b>PUBLICATIONS BY THE MISSION PRESS OF THE AMERICAN BOARD OF COMMISSIONERS FOR FOREIGN MISSION</b><br><br>
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/dcc381e7-b2ec-4094-9eb1-e208039551af.aspx"><b>Sejarah Melayu (Malay Annals)</b></a><br>	
+<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=dcc381e7-b2ec-4094-9eb1-e208039551af"><b>Sejarah Melayu (Malay Annals)</b></a><br>	
 Singapore: 1840.<br>
 Call no. RRARE 959.503 SEJ; Accession no. B31655050C.<br><br>
 This is the first printed edition of the <i>Sulalat al-Salatin (Genealogy of Kings</i>). This version was edited by Munshi Abdullah and the preface was likely written by Alfred North, who also printed the book.</div></div><br>
