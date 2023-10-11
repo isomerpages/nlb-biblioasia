@@ -13,6 +13,9 @@ third_nav_title: BiblioAsia Reels
 This is the dramatic introduction to “The Cruise of the Krait” which retells, in comic book form, the story of the real-life Operation Jaywick, a clandestine attack by British and Australian commandos and sailors on Japanese ships in Singapore’s Keppel Harbour.
 
 **Related articles** <br>
+* [Double Tenth Incident](/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/)
+* [Collection Focus: A Comic Book Version of Operation Jaywick](/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/)
+* [Collection Focus: A Comic Book Version of Operation Jaywick](/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/)
 * [Collection Focus: A Comic Book Version of Operation Jaywick](/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/)
 
 
