@@ -144,7 +144,7 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b> PUBLICATIONS BY THE MISSION PRESS OF THE LONDON MISSIONARY SOCIETY</b><br><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/6f5dbed1-1dd2-411f-bac8-473b4c67e30b.aspx"><b>
+<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=6f5dbed1-1dd2-411f-bac8-473b4c67e30b"><b>
 Journal of a Tour Along the Coast of Java and Bali etc, with a Short Account of the Island of Bali Particularly of Bali Baliling</b></a>&nbsp;&nbsp;&nbsp;<br>
 Singapore: Printed at the Mission Press, 1830.<br>
 Call no. RRARE 992.2 JOU; Accession no. B03013533G</div><br>
