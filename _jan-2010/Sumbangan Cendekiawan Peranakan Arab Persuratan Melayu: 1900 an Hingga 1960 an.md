@@ -144,6 +144,10 @@ Selepas Perang Dunia Kedua, generasi muda dari golongan asal Arab dapat menerima
 
 Sumbangan mereka dalam menjana sifat berfikir, peningkatan intelek serta pemikiran kritikal orang Melayu telah meningkatkan tahap literasi dan kebangkitan semangat sosiopolitik masyarakat Melayu tempatan.
 
+<img src="/images/Vol%205%20Issue%204/Sumbangan/Hadhrami%20Diaspora.jpg" style="width:50%;">
+<div style="background-color: white;">Rujukan tentang pendatangpendatang Arab di Nusantara. All rights reserved, Brill, 2009.
+</div>
+
 Justeru selama lebih enam dekad, golongan cendekiawan Arab telah mewarnai lanskap persuratan Melayu dengan mempelopori dan menerajui ehwal penerbitan, penulisan serta pembacaan masyarakat Melayu. Selain menyediakan wadah suara orang Melayu, ruang liputan berita dan rekod dokumen ehwal orang Melayu, peranan mereka mendedahkan pemikiran baru serta mengenalkan gaya penulisan moden khususnya, tidak sekali-kali dapat dipertikaikan dan sejarah telah membuktikannya.
 
 Sememangnya masyarakat Melayu Malaya umumnya, amat berhutang budi atas jasa golongan pedagang dan cendekiawan peranakan Arab ini.
