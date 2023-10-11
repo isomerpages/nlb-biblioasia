@@ -7,14 +7,15 @@ description: ""
 ---
 <img style="width: 350px; height: 450px;" src="/images/inaugural-issue/inaugural.JPG">
 
-**A New Chapter by Director, National Library**
+<a style="text-decoration: none; font-weight: bold;" href="/inaugural-issue/new-chapter/">A New Chapter by Director, National Library</a>		
 
-**A Knowledge Hub**<br>
+<a style="text-decoration: none; font-weight: bold;" href="/inaugural-issue/knowledge-hub/">A Knowledge Hub</a><br>
 Hailed as the “people’s library for the knowledge age”, the new National Library is designed as a unique and modern library to meet the challenges of the 21st century.[(PDF)](/files/pdf/inaugural-issue/inaugural_Knowledge%20Hub.pdf)
 
-**Services at the Lee Kong Chian Reference Library**<br>These include Reference & Information Services; Reference Point; Audiovisual Services; Interlibrary Loan and Document Delivery; Repository Used Collection; Printing; Photocopy and Reprographic Services; and Digital Content. [(PDF)](/files/pdf/inaugural-issue/inaugural_Services%20at%20the%20library.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/inaugural-issue/services-lee-kong-chian-library/">Services at the Lee Kong Chian Reference Library</a><br>These include Reference &amp; Information Services; Reference Point; Audiovisual Services; Interlibrary Loan and Document Delivery; Repository Used Collection; Printing; Photocopy and Reprographic Services; and Digital Content. [(PDF)](/files/pdf/inaugural-issue/inaugural_Services%20at%20the%20library.pdf)
 
-**Singapore Pages: National Library Board’s Online Heritage Collection**<br>Singapore Pages, the gateway to online and print resources on Singapore, was launched on 31 October 2003. [(PDF)](/files/pdf/inaugural-issue/inaugural_Online%20Heritage.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/inaugural-issue/singapore-pages-heritage-collection/">Singapore Pages: National Library Board’s Online Heritage Collection</a>
+<br>Singapore Pages, the gateway to online and print resources on Singapore, was launched on 31 October 2003. [(PDF)](/files/pdf/inaugural-issue/inaugural_Online%20Heritage.pdf)
 
 **Istoria: Celebrating Singapore’s 40 Years**<br>Singapore celebrates 40 years of independence in 2005. Istoria is a potpourri of programmes, events and exhibitions that allow us to get in touch with our own identity and to reconsider just what are our own stories and what make them ours. [(PDF)](/files/pdf/inaugural-issue/inaugural_Istoria.pdf)
 

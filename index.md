@@ -17,12 +17,23 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/Binjai/hero_img_binjai_park.jpg
   - infopic:
-      title: "Collection Focus: A Comic Book Version of Operation Jaywick"
+      title: A Brief History of John Little at Raffles Place
+      subtitle: Places and buildings
+      id: infopic
+      description: A look back at John Little’s 170-year history and the lasting mark
+        the store has made on our island.
+      button: 170 years of shopping
+      url: /places-and-buildings/2023/10/john-little-raffles-place-department-store/
+      image: /images/Online Only Articles/John Little at Raffles Place/2a 19980005119
+        (j) img0043.jpg
+      alt: Image alt text
+  - infopic:
+      title: Operation Jaywick Retold as a Comic Book for Boys
       subtitle: "Video: BiblioAsia Reels_Print"
       id: infopic
       description: Disguised as local fishermen, Australian and British commandos
-        carried out Operation Jaywick, a daring raid on Japanese ships at Keppel
-        Harbour in Singapore.
+        launched a clandestine raid on Japanese ships in Singapore’s Keppel
+        Harbour.
       button: Watch The Video
       url: /videos/reels/print/
       image: "/images/Videos: BiblioAsia Reels/victory boys.png"

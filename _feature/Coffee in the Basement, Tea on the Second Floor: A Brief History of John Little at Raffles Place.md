@@ -1,8 +1,10 @@
 ---
 title: "Coffee in the Basement, Tea on the Second Floor: A Brief History of John
   Little at Raffles Place"
-permalink: /holding-area/john-little-raffles-place/
+permalink: /places-and-buildings/2023/10/john-little-raffles-place-department-store/
 description: ""
+image: /images/Online Only Articles/John Little at Raffles Place/2a 19980005119
+  (j) img0043.jpg
 ---
 #### A look back at John Little’s 170-year history and the lasting mark the store has made on our island.
 By Yap Jo Lin

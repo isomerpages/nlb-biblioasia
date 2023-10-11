@@ -1,13 +1,13 @@
 ---
 title: "Hadhramaut: Encountering the Familiar in a Far Away Place"
 permalink: /vol-5/issue-4/jan-2010/hadhramaut-encountering-far-place/
-description: "Senior Research Associate Cheryl-Ann Low travels with colleague
+description: Senior Research Associate Cheryl-Ann Low travels with colleague
   Zahara Aljunied to visit her family in Hadhramaut, finding hospitality,
-  familiarity and common ground. "
+  familiarity and common ground.
 ---
-#### Senior Research Associate _Cheryl-Ann Low_ travels with colleague Zahara Aljunied to visit her family in Hadhramaut, finding hospitality, familiarity and common ground.
+#### Senior Research Associate&nbsp;_Cheryl-Ann Low_&nbsp;travels with colleague Zahara Aljunied to visit her family in Hadhramaut, finding hospitality, familiarity and common ground.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Mudbrick%20mould.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Mudbrick%20mould.jpg">
  <div style="background-color: white;">Putting mud mixture into the mould</div>
 
 Most Singaporean Arabs originated from, or had close family ties with, Hadhramaut[^1] at the southern part of the Arabian Peninsula, in present-day Yemen. In March this year, my colleague Zahra Aljunied and I visited Hadhramaut with the purpose of finding materials alluding to the links between Hadhramaut and Southeast Asia, particularly Singapore.
@@ -53,7 +53,7 @@ Another lively visit we had was with a family in Shibam. We sat with the wife of
 
 Despite the language barrier, we tried to communicate with each other. We talked about how beautiful Shibam was, told them that we also like to eat melon seeds in Singapore, and asked them how they coloured their melon seeds so attractively. The host’s daughter was in her early teens, and had a very friendly disposition. We both smiled immediately at each other when we met. At an awkward moment when we ran out of words, I started playing with the colourful melon seed kernels, arranging them into a pattern on the carpeted floor in front of me. The daughter was intrigued and smiled knowingly when she realised what I was trying to represent with the seed kernels — the colourful buildings of Shibam. In response, she arranged her melon seed kernels into a flower and looked at me with a huge grin.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/IMG_0790.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/IMG_0790.jpg">
  <div style="background-color: white;">Shibam, a UNESCO World Heritage site</div>
 
 After that, they showed us around their house; we happily scampered up the narrow stairways which opened out to small rooms, some of which were unoccupied. A UNESCO World Heritage site, Shibam is famous for its towers of tall houses and is also referred to as “the Manhattan of the desert”[^12] and “the New York of Hadhramaut”.[^13] The tallest house rises 29.15 metres above its entrance on street level, and the average number of storeys is five.[^14] We counted seven storeys in this house, atop of which was a cool, airy rooftop.
@@ -66,9 +66,8 @@ Van der Meulen and Von Wissman were served yellow-coloured spiced rice with dish
 
 There was one particularly unforgettable meal with spiced rice. This was a lunch we had at Do’an. We passed a truckload of camels as our car neared the eatery. Being women, Zahra and I were obliged to enter the eatery by a secondary entrance near the kitchen. On our way, our guide urged us to look down into the kitchen where we saw a man cooking a large pot of meat. The food we were served consisted of a platter of saffron-coloured spiced rice, a plate of camel meat and a dish of chilli sauce. Our guide explained that that was the eatery’s specialty, and the only food it served. I ate a lot of the rice with copious amounts of chilli sauce, focusing on how much it tasted like *nasi briyani*, and tried hard not to think about the camels and the kitchen outside. I chewed and swallowed some of the meat in great haste.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Spiced%20rice%20&%20camel%20meat.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Spiced%20rice%20&amp;%20camel%20meat.jpg">
  <div style="background-color: white;">Spiced rice with camel meat and chilli sauce</div>
-
 
 The food was not all that was familiar to me in Hadhramaut. It was common for men there to don sarongs and shirts. This was the preferred attire of our guide. Our gentle, kindly driver also regularly wore a shirt over a singlet, and a sarong. We were told that the singlet was called *baju panas* in Hadhramaut.
 
@@ -77,19 +76,19 @@ The food was not all that was familiar to me in Hadhramaut. It was common for me
 On 8 and 9 March, we visited the port cities of Shihr and Mukalla. These are the two main ports from where Hadhramis migrated. Shihr was the main port until Mukalla superseded it in the late 19th century.[^18]
 These two ports are significant in the lives of the migrants not only because they were the places of departure. Some Hadhramis spent a year or more working in these cities to earn their onward fare, and those deciding on their migration destinations would talk to sailors and returned emigrants in these ports.[^19]
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Immigration%20Shihr.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Immigration%20Shihr.jpg">
  <div style="background-color: white;">Building which housed immigration offices, Shihr.</div>
 
 We were taken on a walking tour of Shihr which included visiting the building which used to house the immigration offices. As we walked past the building, a briny aroma wafted by, bringing to mind images of the sea. Shortly after, some men came trundling by with a wheelbarrow filled with huge fish! The men told us through the guide that it was a fresh catch, and obligingly waited while we took photographs.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Fish%20Shihr.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Fish%20Shihr.jpg">
  <div style="background-color: white;">Fresh fish in Shihr.</div>
 
 We visited Mukalla the next day. I was told it is the centre of Hadhramaut’s fishing industry. As I feasted on the delectable fish with rice at a restaurant with Zahra, our host and our guide, I wondered how many Hadhrami migrants, who passed through Shihr and Mukalla, had missed the briny smell of the sea and fresh fish of these ports while in their host countries. By then, I had been away from home for more than a week and was starting to miss our tropical landscape and balmy evenings.
 
 #### **Last Day in Hadhramaut**
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Mudbricks%20stacking.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Mudbricks%20stacking.jpg">
  <div style="background-color: white;">Stacking dried mud-bricks.</div>
 
 My last day in Hadhramaut was 12 March. As my flight was in the afternoon, we started the day by visiting a mudbrick factory. Buildings in Hadhramaut are traditionally constructed from mud-bricks and the centuries-old technology of making mud-bricks has remained largely unchanged.[^20] The mud-bricks are made in large outdoor yards. Soil is wetted and chopped straw is mixed in. The mixture is smoothed into a pre-wetted wooden mould, edges defined with a tool or finger, and the mould removed. The bricks are then sun-dried for about a week before they are ready for use.[^21] Although concrete buildings have sprung up in Hadhramaut, mud-brick structures continue to be built.
@@ -100,8 +99,8 @@ As the plane soared over the mountainous plateaus and values, I mused that I wou
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Cheryl%20Low.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Cheryl%20Low.jpg" style="width: 100px; height: 100px;">
  <center><b>Cheryl-Ann Low</b><br>Senior Research Associate I<br> Lee Kong Chian Reference Library<br> National Library </center></div>
 
 #### **REFERENCES**
@@ -119,68 +118,55 @@ Linda Boxberger, [_On the Edge of Empire – Hadhramawt, Emigration and the Indi
 
 Pamela Jermome, Giacomo Chiari and Caterina Borelli, “The Architecture of Mud: Construction and Repair Technology in the Hadhramaut Region of Yemen,” _APT Bulletin_ 30, nos. 2–3 (1999), 39–48. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-R. J. Gavin, [_Aden Under British rule 1839–1967_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4170553) (London: C. Hurst & Co., 1979). (Call no. R 953.35 GAV)
+R. J. Gavin, [_Aden Under British rule 1839–1967_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4170553) (London: C. Hurst &amp; Co., 1979). (Call no. R 953.35 GAV)
 
 Ronald Lewcock, _Wadi Hadramawt and the Walled City of Shibam_ (Paris: UNESCO, 1986)
 
 Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in in [_Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11533543), ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 109–42. (Call no. RSING 305.8927059 TRA)
 
 #### **NOTES**
+     
+[^1]: Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in in _[Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11533543)_, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 113–4. (Call no. RSING 305.8927059 TRA)
 
-[^1]: Ulrike, “[Arab Merchants in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11533543),” 113–4.
+[^2]: C. M. Turnbull, _[A History of Singapore 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_ (Singapore: Oxford University Press, 1989), 14. (Call no. RSING 959.57 TUR)
 
-[^2]: Turnbull, [_History of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825), 14.
+[^3]: Ulrike Freitag and William G. Clarence-Smith, eds., _[Hadhrami Traders, Scholars and Statesmen in the Indian Ocean, 1750s–1960s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13050804)_ (Leiden: Brill, 1997), 67. (Call no. RSEA 304.809533 HAD)
 
-[^3]: Freitag Ulrike and William G. Clarence-Smith, eds., [_Hadhrami Traders, Scholars and Statesmen in the Indian Ocean, 1750s–1960s_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13050804) (Leiden: Brill, 1997), 67. (Call no. RSEA 304.809533 HAD)
+[^4]: “58 Die in Flash Floods,” _The Observer_, 26 October 2008; “Yemen: Flash Floods,” International Federation of Red Cross and Red Crescent Societies, accessed July 2009_._
 
-[^4]: “58 Die in Flash Floods”; “Yemen: Flash Floods,” International Federation of Red Cross and Red Crescent Societies, accessed July 2009_._
+[^5]: Linda Boxberger, _[On the Edge of Empire – Hadhramawt, Emigration and the Indian Ocean 1880s–1930s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_ (New York: State University of New York Press, 2002), 1. (Call no. R 953 BOX)
 
-[^5]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 1.
+[^6]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 13.
 
-[^6]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 13.
+[^7]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 40.
 
-[^7]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 40.
+[^8]: R. J. Gavin, _[Aden Under British rule 1839–1967](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4170553)_ (London: C. Hurst &amp; Co., 1979), 310 (Call no. R 953.35 GAV); Allaz, Camille, _[History of Air Cargo and Air Mail: From the 18th Century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12525355)_, trans. John Skilbeck (London: Christopher Folye Publishing in association with The International Air Cargo Association, 2004), 166. (Call no. R 387.744 ALL)  
 
-[^8]: Gavin, [_Aden Under British Rule_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4170553), 310; Camille, [_History of Air Cargo and Air Mail_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12525355), 166.
+[^9]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 40.
 
-[^9]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 40.
+[^10]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 44.
 
-[^10]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 44.
+[^11]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 19.
 
-[^11]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 19.
+[^12]: “Old Walled City of Shibam,” UNESCO World Heritage website, http://whc. unesco.org/en/list/192.
 
-[^12]: “Old Walled City of Shibam.”
+[^13]: Pamela Jermome, Giacomo Chiari and Caterina Borelli, “The Architecture of Mud: Construction and Repair Technology in the Hadhramaut Region of Yemen,” _APT Bulletin_ 30, nos. 2–3 (1999): 39–48. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-[^13]: Jermome, Chiari and Borelli, “Architecture of Mud,” 39–48.
-
-[^14]: Lewcock, _Wadi Hadramawt_, 71.
+[^14]: Ronald Lewcock, _Wadi Hadramawt and the Walled City of Shibam_ (Paris: UNESCO, 1986), 71.
 
 [^15]: D. Van Der Meulen and H. Von Wissmann, _Hadhramaut – Some of Its Mysteries Unveiled_ (Leyden, E.J Brill Ltd, 1932), 137.
 
-[^16]: Van Der Meulen and Von Wissmann, 1932, 95.
+[^16]: Van Der Meulen and Von Wissmann, _Hadhramaut_, 95.
 
-[^17]: Van Der Meulen and Von Wissmann, 1932, 79–81.
+[^17]: Van Der Meulen and Von Wissmann, _Hadhramaut_, 79–81.
 
-[^18]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 14.
+[^18]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 14.
 
-[^19]: Boxberger, [_On the Edge of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866), 42.
+[^19]: Boxberger, _[On the Edge of Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11137866)_, 42.
 
 [^20]: Jerome, Chiari and Borelli, “Architecture of Mud,” 41.
 
 [^21]: Jerome, Chiari and Borelli, “Architecture of Mud,” 41–42.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
