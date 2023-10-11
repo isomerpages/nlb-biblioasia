@@ -191,7 +191,7 @@ This maritime code of the Bugis was translated by Claudius Henry Thomsen into En
 	Title page and inside pages from <i>A Code of Bugis Maritime Laws. Collection of the National Library, Singapore (Call no. RRARE 343.5984096 COD; Accession no. B03053896A). </i></div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/b3f825d4-091a-4546-9bec-e1bb88da4268.aspx"><b>     
+<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=b3f825d4-091a-4546-9bec-e1bb88da4268"><b>     
 A Vocabulary of the English, Bugis, and Malay Languages: Containing About 2000 Words</b></a><br>
 Singapore: Printed at the Mission Press, 1833.<br>
 Call no. RRARE 499.288.B8 VOC; Accession no. B01478265K.<br><br>
