@@ -1,21 +1,24 @@
 ---
 title: "In Touch with My Routes: Becoming a Tourist in Singapore"
 permalink: /vol-5/issue-4/jan-2010/singapore-tourist-touch-routes/
-description: "Lee Kong Chian Research Fellow Desmond Wee ponders the Singaporean
-  identity while being a tourist in Singapore. "
+description: Lee Kong Chian Research Fellow Desmond Wee ponders the Singaporean
+  identity while being a tourist in Singapore.
 ---
-####  Lee Kong Chian Research Fellow _Desmond Wee_ ponders the Singaporean identity while being a tourist in Singapore.
+####  Lee Kong Chian Research Fellow&nbsp;_Desmond Wee_&nbsp;ponders the Singaporean identity while being a tourist in Singapore.
 
-&emsp;&emsp;&emsp;*"To tourists around the world over, the Merlion is the <br> &emsp;&emsp;&emsp;tourism symbol of Singapore. To the architects of <br>&emsp;&emsp;&emsp;independent Singapore, it is the story of a concept that <br>&emsp;&emsp;&emsp;worked. To the travel industry, it is a souvenir spinner <br>&emsp;&emsp;&emsp;and an icon that helps to sell Singapore overseas."* <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Pamelia Lee (2004: 99)
+   *"To tourists around the world over, the Merlion is the <br>    tourism symbol of Singapore. To the architects of <br>   independent Singapore, it is the story of a concept that <br>   worked. To the travel industry, it is a souvenir spinner <br>   and an icon that helps to sell Singapore overseas."* <br>      Pamelia Lee (2004: 99)
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/TouristRoutes/Desmond%20.jpg">
  <div style="background-color: white;">Picture of the author taken at the Singapore Visitors Centre on Orchard Road</div>
 
 It struck me when the Merlion was struck, more by the discourses around it than the stroke of lightning that bore a hole in its skull. Forty-five years after its creation, I wonder about the Merlion as an emblem for the Singapore Tourism Board (STB), how Singaporean Fraser Brunner felt when he conceptualised the animal and if that mattered at all. According to the Report of the Tourism Task Force 1984 (in Schoppert 2005: 25), “what Singapore suffers from is an identity problem as there is no landmark or monument which a tourist can easily associate Singapore with”. In a paper for a course “Questioning Evolution and Progress” at the National University of Singapore, Devan (2006: 4) related the issue, rather than being about “how tourists identify Singaporeans” it was about the Singaporean “struggle for an identity”.
 
-However, the complexities of identity acquisition cannot elude how tourists identify Singaporeans. As described by Lanfant, Allcock & Bruner (1995: ix), it is tourism which “compels local societies to become aware and to question the identities they offer to foreigners as well as the prior images that are imposed upon them.” Representations in this sense are not only constituted by embodied practices, but they also constitute the ways in which identities are performed. By the same token, Singaporeans identify tourists as much as tourists identify Singaporeans, and in asking how Singaporeans identify themselves in the fostering of identity, I also ask if it is possible for Singaporeans to identify themselves as *tourists*. Who is the Singaporean under the Merlion?
+However, the complexities of identity acquisition cannot elude how tourists identify Singaporeans. As described by Lanfant, Allcock &amp; Bruner (1995: ix), it is tourism which “compels local societies to become aware and to question the identities they offer to foreigners as well as the prior images that are imposed upon them.” Representations in this sense are not only constituted by embodied practices, but they also constitute the ways in which identities are performed. By the same token, Singaporeans identify tourists as much as tourists identify Singaporeans, and in asking how Singaporeans identify themselves in the fostering of identity, I also ask if it is possible for Singaporeans to identify themselves as *tourists*. Who is the Singaporean under the Merlion?
 
-Minister Mentor Lee Kuan Yew once remarked that economic progress must not undermine the “heartware of Singapore” referring to “our love for the country, our rootedness and our sense of community and nationhood” (*The Straits Times*, 20 October 1997). The cultivation of identity, as a need and means of survival, has evolved into a “substantial injection of selfdefinition and national pride” (Chua & Kuo 1990: 6). However, given the birth of active citizenry, contestations across and in between *routes* pertaining to the definition of self come to the fore. Kellner (1992) has suggested the emergence of identity as a “freely chosen game” in a “theatrical presentation of the self”. In this sense, our rootedness is also our “routedness”, a play in which identities are constituted within and not outside representation, and “relate to the invention of tradition as much as to tradition itself…” (Hall 1996: 4). Instead of the “so-called return to roots”, Hall (1996: 4) advocates a “coming-to-termswith our ‘routes’” with which we can relate to cultural identities as fluid and emergent rather than being static. In the same way, Crouch, Aronsson and Wahlström (2001) maintain that the consideration of place and its represented culture “through encounter as ‘routes’ suggests a much less stable and fixed experienced geography”. This framing of text in terms of a becoming of identity repositions the performance of self as “the changing same” (Gilroy 1994) and discusses the myriad ways in which knowledge and performances based on their representations are being (re)produced.
+Minister Mentor Lee Kuan Yew once remarked that economic progress must not undermine the “heartware of Singapore” referring to “our love for the country, our rootedness and our sense of community and nationhood” (*The Straits Times*, 20 October 1997). The cultivation of identity, as a need and means of survival, has evolved into a “substantial injection of selfdefinition and national pride” (Chua &amp; Kuo 1990: 6). However, given the birth of active citizenry, contestations across and in between *routes* pertaining to the definition of self come to the fore. Kellner (1992) has suggested the emergence of identity as a “freely chosen game” in a “theatrical presentation of the self”. In this sense, our rootedness is also our “routedness”, a play in which identities are constituted within and not outside representation, and “relate to the invention of tradition as much as to tradition itself…” (Hall 1996: 4). Instead of the “so-called return to roots”, Hall (1996: 4) advocates a “coming-to-termswith our ‘routes’” with which we can relate to cultural identities as fluid and emergent rather than being static. In the same way, Crouch, Aronsson and Wahlström (2001) maintain that the consideration of place and its represented culture “through encounter as ‘routes’ suggests a much less stable and fixed experienced geography”. This framing of text in terms of a becoming of identity repositions the performance of self as “the changing same” (Gilroy 1994) and discusses the myriad ways in which knowledge and performances based on their representations are being (re)produced.
+
+<img src="/images/Vol%205%20Issue%204/TouristRoutes/Bumboat%20tourists.jpg" style="width:100%;">
+ <div style="background-color: white;">Plate 2. Singapore, 26 May 2006. A boat carrying tourists along the Singapore River near Clarke Quay.<i>© Erick Danzer/OnAsia.com</i></div>
 
 That ubiquitous “where are you from?” question which constantly follows tourists becomes variegated within the space of modernity evidenced through a measure of uncertainty as fluid productions of meanings manifest. With emergent hybridities evidenced in the blurring of traditional dichotomies such as subject-object, production-consumption and touristlocal, it becomes increasingly difficult to ascertain a place called “home” and separate images and experiences that shape tourism from the every day. McCabe (2002: 63) reiterates that “tourism is now so pervasive in postmodern society that, rather than conceiving tourism as a ‘departure’ from the routines and practices of everyday life, tourism has become an established part of everyday life culture and consumption.” The “touristification of everyday life” (Lengkeek 2002) is evident in a “spectacular society bombarded by signs and mediatised spaces \[where\] tourism is increasingly part of everyday worlds” (Edensor 2001). While “everyday sites of activity are redesigned in ‘tourist’ mode’” (Sheller and Urry 2004: 5), I ask how we deal with ‘becoming a tourist’ and who becomes the tourist. By contemplating the tourist, tourist place and tourist practice and their concomitant relationships, what are the kinds of dynamics that (re)produce these spaces and how do these relate to the acquisition of identity?
 
@@ -97,8 +100,8 @@ By looking at how tourist performance “affords” local performance, this pape
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Desmond%20Wee.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Desmond%20Wee.jpg" style="width: 100px; height: 100px;">
 <center> <b>Desmond Wee</b><br>Lee Kong Chian Research Fellow<br> National Library</center></div> 
 
 #### **REFERENCES**
@@ -147,7 +150,7 @@ Pamelia Lee, [_Singapore, Tourism and Me_](https://eservice.nlb.gov.sg/item_hold
 
 Paul Gilroy, _Black Music, Ethnicity, and the Challenge of a Changing Same_ (London: Verso, 1994)
 
-Peter Schoppert, “The Merlion & Other Monsters: Some Notes on Singapore’s Moving Monuments,” in Lim Tzay Chuen, [_Mike_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655140) (Singapore: National Arts Council & Singapore Art Museum, 2005). (Call no. RSING q731.86 LIM)
+Peter Schoppert, “The Merlion &amp; Other Monsters: Some Notes on Singapore’s Moving Monuments,” in Lim Tzay Chuen, [_Mike_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655140) (Singapore: National Arts Council &amp; Singapore Art Museum, 2005). (Call no. RSING q731.86 LIM)
 
 S. McCabe, “The Tourist Experience and Everyday Life,” in _The Tourist as a Metaphor for the Social World_, ed. G. Dann (Wallingford: CABI Publishing, 2002), 1–18.
 
@@ -158,7 +161,3 @@ Tim Edensor, “Performing Tourism, Staging Tourism: (Re)producing Tourist Space
 Urban Redevelopment Authority (Singapore), [_Rediscover Singapore: An Explorer’s Guide to Funky Finds, Fab Fun and Fantastic Food_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11895049) (Singapore: Urban Redevelopment Authority by Media Corp Publishing Pte Ltd, 2003). (Call no. RSING 959.57 RED
 
 Valene L. Smith, ed., _Hosts and Guests: The Anthropology of Tourism_ (Philadelphia: University of Philadelphia Press, 1977)
-
-
-
-
