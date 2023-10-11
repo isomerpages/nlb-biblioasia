@@ -2,8 +2,6 @@ collections:
   apr-2006:
     output: true
     order:
-      - Microfilm Collection and Services in the Lee Kong Chian Reference
-        Library.md
       - Director's Column.md
       - Singapore Art, Nanyang Style.md
       - "Old Man Yip: Photography Master in Slippers.md"
@@ -11,3 +9,5 @@ collections:
         in the Peninsula 1963–1968.md"
       - "Politics: Science or Art? The Political Science Collection at the Lee
         Kong Chian Reference Library.md"
+      - Microfilm Collection and Services in the Lee Kong Chian Reference
+        Library.md
