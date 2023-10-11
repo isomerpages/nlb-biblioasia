@@ -97,6 +97,10 @@ Sebagai menghargai sumbangan Syed Hussein Ali Alsagoff terhadap persuratan Melay
 
 Syed Abdullah bin Abdul Hamid al-Edrus atau Ahmad Lutfi yang lahir 11 Julai 1911 di Banjarmasin, Indonesia ialah pemilik syarikat percetakan *Qalam Press Limited* sebuah syarikat percetakan paling produktif menerbitkan pelbagai genre persuratan Melayu pada akhir tahun 1940-an. Ahmad Lutfi terdorong untuk ke Singapura yang merupakan pusat suratkhabar, komunikasi dan intelektual Melayu waktu itu. Dia bermula sebagai pelatih pengatur huruf dan semasa menjadi penyunting di akhbar *Warta Malaya*, beliau mendalami teknik penulisan dan penerbitan melalui bimbingan wartawanwartawan veteran seperti Abdul Rahim Kajai, Dato’ Onn Jaafar Syed Alwi al-Hadi dan Ishak Haji Muhammad.
 
+<img src="/images/Vol%205%20Issue%204/Sumbangan/Ahmad%20Lutfi%20photo.jpg" style="width:50%;">
+<div style="background-color: white;">Gambar Ahmad Lutfi dalam Aktivis Melayu/Islam di Singapura. All rights reserved, Persatuan Wartawan Melayu Singapura, 1997.
+</div>
+
 Peka dengan isu semasa, Ahmad Lutfi menggarap kepincangan masyarakat melalui karyanya yang menggunakan beberapa nama pena seperti “alEdrus” dan “Cemeti al-Farouk”. Beliau dikatakan pengarang novel yang prolifik dengan menghasilkan 24 buah novel di antara tahun 1948 hingga 1951.[^23]
 
 Ahmad Lutfi dianggap pengarang dan penerbit yang pintar kerana menggunakan isu-isu kontemporari dalam karyanya seperti yang berjudul *Malayan Union* (1946) ditulis sewaktu isu Malayan Union hangat diperkatakan. Dalam pemilihan tema, beliau menepati cita rasa pembaca dengan menggunakan judul-judul sensasi yang berjaya melariskan penjualan.
