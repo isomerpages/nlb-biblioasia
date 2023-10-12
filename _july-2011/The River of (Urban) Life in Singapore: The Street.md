@@ -3,7 +3,7 @@ title: "The River of (Urban) Life in Singapore: The Street"
 permalink: /vol-7/issue-2/jul-2011/singapore-river-urban-life/
 description: ""
 ---
-#### **Eugene Liow** examines how population resettlement and the decentralising of retail activities in post-independent Singapore profoundly affected the vitality of certain streets, turning formerly lively streets into lifeless ones.
+#### *Eugene Liow* examines how population resettlement and the decentralising of retail activities in post-independent Singapore profoundly affected the vitality of certain streets, turning formerly lively streets into lifeless ones.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%202/RiverUrban/1950s%20Smith%20Street.jpg">
  <div style="background-color: white;">Shoppers and stalls crammed between shophouses on Smith Street, also known in Cantonese as <i>Hei Yuen Kai</i> (Theatre Street), 1950s. <i>Courtesy of Poh Heng Huat. Donated at the Heritage Roadshow 2007. All rights reserved.</i></div>
