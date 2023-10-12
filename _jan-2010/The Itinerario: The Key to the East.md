@@ -182,83 +182,11 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 [^20]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 31.
 
-21 Ernst Van Den Boogaart, _[Civil and Corrupt Asia: Image and Text in the Itinerario and the Icones of Jan Huygen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11386938)_ (London: University of Chicago Press, 2003), 54. (Call no. R 915.043 BOO)
-
-22 Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 93.
-
-23\. For example, mango chutney recipes include garlic, vinegar, brown sugar and salt and a form of Portuguese mango chutney is still being made in Malacca using similar ingredients.
-
-24 Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 95.
-
-25 Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 95.
-
-26 Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, in chapter 57.
-
-27 Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 102.
-
-28 Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 103.
-
-29 So detailed is Gibson-Hill’s research that he notes the error in page number for the start of Chapter 20 of [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)’s 1598 Itinerario (C. A. Gibson-Hill, _[Singapore: Old Strait &amp; New Harbour, 1300–1870](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989)_ (Singapore: General Post Office, 1956), introduction, 11. (Call no. RCLOS 959.51 BOG; microfilm NL10999)
-
-30 Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, chapter 20 from page 336 of Book III.
-
-31 Gibson-Hill, _[Notes on the History of the Old Strait](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468)_, 165.
-
-32 Gibson-Hill actually questions W. D. Barnes’ analysis based on the French edition of Linschoten which he published in JSBRAS in 1911 for going about it in such a convoluted fashion when the English version had already been reprinted in the Singapore Free Press.
-
-33 Gibson-Hill, _[Notes on the History of the Old Strait](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468)_, introduction, 11.
-
-34 The digital copy is available at <a href="[BookSG](https://eresources.nlb.gov.sg/printheritage/)">BookSG</a>
-
-
-
-
-
-[^1]: From a letter by Linschoten from Goa dated 1584 cited in the introduction by P. A. Tiele in Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxiv. &nbsp;
-
-[^2]: His family is believed to have originated from a village in Utrecht named Linschoten. His parents Huych Joosten and Maertgen Hendrics lived in Schoonhoven which was a short distance away from Linschoten. (From the introduction by P. A. Tiele in Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxiii. &nbsp;
-
-[^3]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 1.
-
-[^4]: A number of sources indicate the year as 1579.
-
-[^5]: Goor and Goor, 51–52.
-
-[^6]: Goor and Goor, 52.
-
-[^7]: Found in the original publication in Chapter 20 (Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_)
-
-[^8]: Moreland, _[Peter Floris](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4391644)_, 104 in Gibson-Hill, [_Notes on the History of the Old Strait_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468), 165, 167.
-
-[^9]: The archbishop died while journeying to Lisbon in 1587, and Jan received the news of his death only in September 1588 (Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxvii)
-
-[^10]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 172.
-
-[^11]: Often translated as “Seavoyage of Jan Huygen van Linschoten to the East or Portuguese Indies”. In the Dutch version it is Book I.
-
-[^12]: Translated as “Travel accounts of Portuguese navigation in the Orient” also sometimes known as “a seaman’s guidebook to India and Far Eastern navigation” or “Pilot’s guide.” It was originally Book II in the 1595 Dutch imprint but in the English version, it is Book III.
-
-[^13]: However, the copy at the library’s holdings only has 16 views and eight maps or topographical drawings.
-
-[^14]: “What among human affairs can seem great to him who knows eternity and the whole of the universe?”
-
-[^15]: Thus the Reysgheschrift was released a year prior to Book I – the Itinerario.
-
-[^16]: It had just been established in 1594.
-
-[^17]: Suarez, [_Early Mapping of Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316), 180.
-
-[^18]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 31.
-
-[^19]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 31.
-
-[^20]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 31.
-
-[^21]: Boogaart, [_Civil and Corrupt Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11386938), 54.
+[^21]: Ernst Van Den Boogaart, _[Civil and Corrupt Asia: Image and Text in the Itinerario and the Icones of Jan Huygen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11386938)_ (London: University of Chicago Press, 2003), 54. (Call no. R 915.043 BOO)
 
 [^22]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 93.
 
-[^23]: For example, mango chutney recipes include garlic, vinegar, brown sugar and salt and a form of Portuguese mango chutney is still being made in Malacca using similar ingredients.
+[^23]: or example, mango chutney recipes include garlic, vinegar, brown sugar and salt and a form of Portuguese mango chutney is still being made in Malacca using similar ingredients.
 
 [^24]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 95.
 
@@ -270,14 +198,19 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 [^28]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 103.
 
-[^29]: So detailed is Gibson-Hill’s research that he notes the error in page number for the start of Chapter 20 of [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)’s 1598 Itinerario ([_Old Strait &amp; New Harbour–1870_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989), introduction, 11)
+[^29]: So detailed is Gibson-Hill’s research that he notes the error in page number for the start of Chapter 20 of [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)’s 1598 Itinerario (C. A. Gibson-Hill, _[Singapore: Old Strait &amp; New Harbour, 1300–1870](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989)_ (Singapore: General Post Office, 1956), introduction, 11. (Call no. RCLOS 959.51 BOG; microfilm NL10999)
 
 [^30]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, chapter 20 from page 336 of Book III.
 
-[^31]: Gibson-Hill, [_Notes on the History of the Old Strait_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468), 165.
+[^31]: Gibson-Hill, _[Notes on the History of the Old Strait](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468)_, 165.
 
 [^32]: Gibson-Hill actually questions W. D. Barnes’ analysis based on the French edition of Linschoten which he published in JSBRAS in 1911 for going about it in such a convoluted fashion when the English version had already been reprinted in the Singapore Free Press.
 
-[^33]: Gibson-Hill, [_Notes on the History of the Old Strait_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468), introduction, 11.
+[^33]: Gibson-Hill, _[Notes on the History of the Old Strait](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468)_, introduction, 11.
 
 [^34]: The digital copy is available at <a href="[BookSG](https://eresources.nlb.gov.sg/printheritage/)">BookSG</a>
+
+
+
+
+
