@@ -127,8 +127,8 @@ Malayan Stock Exchange Committee, [_Annual Report 1962_](https://eservice.nlb.go
 
 Paul Thompson, “[KepLand, Gul Tech Win Awards for Annual Reports](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20010112-1.2.11.1),” _Business Times_, 12 January 2001, 4. (From NewspaperSG)
 
-Phua H., “Initial Public Offers: Always Read the Prospectus,” _Pulses_ (April 2006), 40–41. (Call no. RSING 332.64205 P)
-
-Sharmini Chellapandi, “Legal Deposit Showcase Heightens Public Awareness,” [_BiblioAsia_](https://biblioasia.nlb.gov.sg/) 5, no. 2 (July 2009), 42–43.
+Phua H., “Initial Public Offers: Always Read the Prospectus,” _Pulses_ (April 2006): 40–41. (Call no. RSING 332.64205 P)
+ 
+Sharmini Chellapandi, “[Legal Deposit Showcase Heightens Public Awareness](https://biblioasia.nlb.gov.sg/files/pdf/vol-5/issue-2/v5-issue2_LegalDeposit.pdf),” _BiblioAsia_ 5, no. 2 (July 2009): 42–43.
 
 Tan Chwee Huat, [_Financial Markets and Institutions in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12487641) (Singapore: Singapore University Press, 2005). (Call no. RSING 332.1095957 TAN)
