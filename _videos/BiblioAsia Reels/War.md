@@ -23,7 +23,7 @@ Lynette Ramsay Silver,&nbsp;[<i>Deadly Secrets: The Singapore Raids, 1942–45</
 
 Lynette Ramsay Silver,&nbsp;<i>[Krait: The Fishing Boat That Went to War](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10287275)</i> (Singapore: Cultured Lotus, 2001).
 
-Will Davies, <i>[Secret &amp; Special: The Untold Story of Z Special Unit in the Second World War]</i>(https://nlb.overdrive.com/media/2A573FAB-E468-4517-B72A-621A33A18B62) (Australia: Penguin Random House, 2021)
+Will Davies, <i>[Secret &amp; Special: The Untold Story of Z Special Unit in the Second World War](https://nlb.overdrive.com/media/2A573FAB-E468-4517-B72A-621A33A18B62)</i> (Australia: Penguin Random House, 2021)
 
 
 

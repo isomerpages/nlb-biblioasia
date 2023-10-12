@@ -2,12 +2,12 @@
 title: "The SGX Collection: Business Heritage Collection — Bridging the Legal
   Deposit Gap"
 permalink: /vol-5/issue-4/jan-2010/sgx-business-heritage-legal-deposit/
-description: "Librarian Chris Tang highlights the SGX Collection and tells us
-  what we can find. "
+description: Librarian Chris Tang highlights the SGX Collection and tells us
+  what we can find.
 ---
-#### Librarian _Chris Tang_ highlights the SGX Collection and tells us what we can find.
+#### Librarian&nbsp;_Chris Tang_&nbsp;highlights the SGX Collection and tells us what we can find.
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/SGX/Study%20of%20Securities%20Mkt%20in%20Spore%20Msia.jpg">
- <div style="background-color: white;"><i>A Study of the Securities Market in Singapore & Malaysia</i> by George M. Ferris Jr. All rights reserved, Govt. Print. Off., 1970.</div>
+ <div style="background-color: white;"><i>A Study of the Securities Market in Singapore &amp; Malaysia</i> by George M. Ferris Jr. All rights reserved, Govt. Print. Off., 1970.</div>
 
 In 2007, the Singapore Exchange Ltd (SGX) donated more than 21,000 volumes of publications and CD-Roms from its Information Resource Centre to the National Library Board (NLB). They collectively became the SGX Collection.
 
@@ -31,6 +31,9 @@ The following are the major components of the SGX Collection.
  <div style="background-color: white;">(Left) US version of the 1999 Annual Report of Creative Technology Ltd. All rights reserved, Creative Technology Ltd, 1999. <br>  (Right) The National Library Building on the cover of the 2004 Annual Report of Permasteelisa Pacific Holdings Ltd. All rights reserved, Permasteelisa Pacific Holdings Ltd, 2004.</div>
 
 Annual reports are documents that show a listed company's activities for the financial year just ended. It is mandatory for publicly traded companies to issue annual reports after a financial year end as “business report cards” communicating their past progress to their investors/shareholders. These investors are entitled to a copy of the annual reports so long as they own shares in the companies.
+
+<img src="/images/Vol%205%20Issue%204/SGX/presentation4.jpg" style="width:100%;">
+ <div style="background-color: white;">(Left) The SGX Centres 1 and 2 on the cover of the 2002 Annual Report of Permasteelisa Pacific Holdings Ltd. All rights reserved, Permasteelisa Pacific Holdings Ltd, 2002.<br>  (Right) Singapore version of the 1999 Annual Report of Creative Technology Ltd. All rights reserved, Creative Technology Ltd, 1999.</div>
 
 It has been harder for NLB to enforce LD on “publishers” of annual reports as opposed to conventional published books and magazines, as annual reports are widely considered to be non-traditional forms of publishing. A lot of listed companies do not even see themselves as “publishers” at all, as they feel their annual reports are just communication documents meant only for shareholders or potential investors.
 
@@ -56,7 +59,7 @@ A most interesting new find, however, turned out to be less a standout research 
 
 #### **Prospectuses**
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/SGX/Presentation2.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/SGX/Presentation2.jpg">
  <div style="background-color: white;">(Left) Preliminary prospectus (or “red herring”) of SMRT Corporation Ltd dated 4 July 2000, with its telltale red ink notice. All rights reserved, SMRT Corporation Ltd, 2000.  <br> (Right) Prospectus of SMRT Corporation Ltd dated 17 July 2000. All rights reserved, SMRT Corporation Ltd, 2000.</div>
 
 The IPO prospectus is a legal document that is required of a company seeking a listing on the stock exchange. It is an important historical document of a listed company as it is usually the first official report issued by the company to the public, and precedes its eventual annual reports. It sets out all the relevant information about the company together with its listing dates to help investors decide whether to invest in its shares. A copy of the prospectus also needs to be lodged with, and registered by, the Monetary Authority of Singapore (MAS) and prepared in accordance with the Securities and Futures Act Regulations and SGX listing rules.
@@ -67,28 +70,34 @@ Along with the prospectus (which is actually the finalised registered version), 
 
 Current e-prospectuses can also now be viewed at the MAS website from its database OPERA (Offers and Prospectuses Electronic Repository and Access). Here is an example of both the preliminary and final registered prospectus from the SMRT Corporation Ltd’s IPO in 2000.
 
+<img src="/images/Vol%205%20Issue%204/SGX/prospectus-eys.JPG" style="width:50%;">
+ <div style="background-color: white;"> Prospectus of Eu Yan Sang Holdings Ltd dated 30 June 1973. All rights reserved, Eu Yan Sang Holdings Ltd, 1973.</div>
+
 Considering their importance as primary information sources, as historical local heritage documents and as business reports for investment analysis, print prospectuses are surprisingly not very assiduously collected by local libraries, perhaps due to the “insider” nature of their release to potential investors only. However, the SGX Collection has helped to mitigate slightly the NLB and LD Collection gap for local prospectuses and preliminary prospectuses. Notable prospectus titles unearthed from the SGX Collection come from instantly recognisable local brand names such as Eu Yan Sang Holdings Ltd (1973), Overseas Union Bank Ltd (1975), Keppel Shipyard Ltd (1980), Neptune Orient Lines Ltd (1981), Sembawang Maritime Ltd (1987), Tiger Balm Ltd (1988) and Creative Technology Ltd (1994).
 
 Viewing the passage of time through the SGX Collection, one can also see the development and evolution of the prospectus from a few flimsy pages to its current doorstopper thickness. Some early prospectuses did not even call themselves prospectuses on the front covers; they were simply called “New Issue” \[of shares\]. To give readers an adequate comparison, the prospectus of Hotel Tai-Pan Ltd from 1981 had 18 pages in total; but when we zoom forward more than 20 years later to 2004, the Zhongguo Jilong Ltd prospectus appeared with a whopping 306 pages — a clear indication indeed of the increasing need for information transparency, the thirst for more information from the investing public and the higher standards of disclosure imposed by market regulators.
 
 #### **Older Materials from the SGX Collection**
 
+<img src="/images/Vol%205%20Issue%204/SGX/Malayan%20Stock%20Exchange%20AR%201962.jpg" style="width:50%;">
+ <div style="background-color: white;"> The 1962 Annual Report of the Malayan Stock Exchange, showing a typical daily scene during trading in the Singapore Trading Room, where shares were bought or sold based on prices written on a board. All rights reserved, Malayan Stock Exchange, 1963.</div>
+ 
 The SGX Information Resource Centre has also kept a lot of older materials from the previous incarnations of SGX, from the early 1960s when it was part of the Malayan Stock Exchange (MSE), to the renamed Stock Exchange of Malaysia (SEM) in 1964 with the formation of Malaysia, and after that the Stock Exchange of Malaysia and Singapore (SEMS) with the secession of Singapore from Malaysia in 1965. SEMS remained as a single bourse until the Stock Exchange of Singapore (SES) was split out in 1973 when the Malaysian government terminated the inter-changeability agreement between the Malaysian ringgit and the Singapore dollar. Even then, dual listings of Singapore and Malaysian shares in both exchanges continued until 1990, when then Malaysian Finance Minister Tun Daim Zainuddin decided that it was in Malaysia’s interest to stop it. Finally, SGX was inaugurated in 1999 when SES was merged with the Singapore International Monetary Exchange (SIMEX). From this earlier period, the SGX Collection has yielded some important new additions to the LD/NLB collection:
 
 The complete annual report collection from MSE, SEM and SEMS from 1962 to 1972.
 
-The complete hardbound monthly issues of the Stock Exchange of Malaysia & Singapore Gazette from 1966 to 1973.
+The complete hardbound monthly issues of the Stock Exchange of Malaysia &amp; Singapore Gazette from 1966 to 1973.
 
 The Malayan Stock Exchange’s Listing Manual from May 1964.
 
-A study of the securities market in Singapore & Malaysia, a 24-page research study printed circa 1970 by the Singapore Government Printing Office and authored by George M. Ferris Jr., then governor of the New York Stock Exchange. Fascinatingly, he commented on the unique characteristic of the then Stock Exchange of Malaysia and Singapore in that “its trading floors exist in two countries \[in Singapore and Kuala Lumpur\] and thus the Exchange is subject to supervision by, and the desires of two governments with resultant possible double standards for shares issued and for memberships. National pride also plays an important role in the future form the Exchange can take.”
+A study of the securities market in Singapore &amp; Malaysia, a 24-page research study printed circa 1970 by the Singapore Government Printing Office and authored by George M. Ferris Jr., then governor of the New York Stock Exchange. Fascinatingly, he commented on the unique characteristic of the then Stock Exchange of Malaysia and Singapore in that “its trading floors exist in two countries \[in Singapore and Kuala Lumpur\] and thus the Exchange is subject to supervision by, and the desires of two governments with resultant possible double standards for shares issued and for memberships. National pride also plays an important role in the future form the Exchange can take.”
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/SGX/Goh%20Keng%20Swee%201961.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/SGX/Goh%20Keng%20Swee%201961.jpg">
  <div style="background-color: white;">Dr Goh Keng Swee, Singapore Minister for Finance, signing the visitors’ book on the opening of the Singapore Trading Room, 18 February 1961. Reproduced from the 1962 Annual Report of the Malayan Stock Exchange. All rights reserved, Malayan Stock Exchange, 1963.</div>
 
 These titles have yielded invaluable information about the early days of stock trading in Singapore from the 1960s to the 1970s. For example, the 1962 MSE annual report had a memorable photograph of Dr Goh Keng Swee, Singapore Minister for Finance, signing the visitors’ book on the opening of the Singapore Trading Room of MSE on 18 February 1961. There was also a write-up on the official opening of the new Kuala Lumpur Trading Room on 20 October 1962, another historic moment, in which “the Ministers for Finance of the Federation of Malaya (Mr Tan Siew Sin) and Singapore (Dr Goh Keng Swee) exchanged pleasantries on the direct telephone line between the two Trading Rooms,… better arrangements were made for the use of the direct line and for the first time it could fairly be said that share transactions in the Federation and in Singapore were in fact one market.”
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/SGX/Tan%20Siew%20Sin%201962.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/SGX/Tan%20Siew%20Sin%201962.jpg">
  <div style="background-color: white;">Mr Tan Siew Sin, Malaya Minister for Finance, at the new Kuala Lumpur Trading Room inaugurating the direct telephone line between the Federation and Singapore Trading Rooms, 20 October 1962. Dr Goh Keng Swee was on the other line in Singapore. Reproduced from the 1962 Annual Report of the Malayan Stock Exchange. All rights reserved, Malayan Stock Exchange, 1963.</div>
 
 This was about as far back as the SGX Collection went. The first sanctioned securities trading organisation in Singapore actually came into being in 1930, when 15 firms grouped themselves into the (private) Singapore Stockbrokers' Association. It was formed to regulate the conduct of stockbrokers and to protect investors after the Wall Street Crash of 1929. The association was renamed the Malayan Stockbrokers' Association in 1937, and trading of shares was still informal and conducted in members’ offices until the Malayan Stock Exchange was established in 1960.
@@ -99,8 +108,8 @@ If NLB could make a donation wish list on what other documents it wished to coll
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Chris_Tang.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Chris_Tang.jpg" style="width: 100px; height: 100px;">
 <center><b>Chris Tang</b><br> Librarian<br> Professional Services<br> National Library</center></div>
 
 
@@ -110,7 +119,7 @@ If NLB could make a donation wish list on what other documents it wished to coll
 
 Donald Treadwell and Jill B. Treadwell, [_Public Relations Writing: Principles in Practice_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12583395) (California: SAGE Publications, 2005). (Call no. RBUS 659.2 TRE)
 
-George M. Ferris, [_A Study of the Securities Market in Singapore & Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081863) (Singapore: Printed by the Govt. Print. Off., 1970). (Call no. RCLOS 332.63 FER)
+George M. Ferris, [_A Study of the Securities Market in Singapore &amp; Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081863) (Singapore: Printed by the Govt. Print. Off., 1970). (Call no. RCLOS 332.63 FER)
 
 “[Goh Opens New Trading Room](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19610219-1.2.41),” _Straits Times_, 19 February 1961, 5. (From NewspaperSG)
 
@@ -118,28 +127,8 @@ Malayan Stock Exchange Committee, [_Annual Report 1962_](https://eservice.nlb.go
 
 Paul Thompson, “[KepLand, Gul Tech Win Awards for Annual Reports](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20010112-1.2.11.1),” _Business Times_, 12 January 2001, 4. (From NewspaperSG)
 
-Phua H., “Initial Public Offers: Always Read the Prospectus,” _Pulses_ (April 2006), 40–41. (Call no. RSING 332.64205 P)
-
-Sharmini Chellapandi, “Legal Deposit Showcase Heightens Public Awareness,” [_BiblioAsia_](https://biblioasia.nlb.gov.sg/) 5, no. 2 (July 2009), 42–43.
+Phua H., “Initial Public Offers: Always Read the Prospectus,” _Pulses_ (April 2006): 40–41. (Call no. RSING 332.64205 P)
+ 
+Sharmini Chellapandi, “[Legal Deposit Showcase Heightens Public Awareness](https://biblioasia.nlb.gov.sg/files/pdf/vol-5/issue-2/v5-issue2_LegalDeposit.pdf),” _BiblioAsia_ 5, no. 2 (July 2009): 42–43.
 
 Tan Chwee Huat, [_Financial Markets and Institutions in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12487641) (Singapore: Singapore University Press, 2005). (Call no. RSING 332.1095957 TAN)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
