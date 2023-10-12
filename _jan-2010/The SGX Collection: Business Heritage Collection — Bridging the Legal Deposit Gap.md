@@ -59,7 +59,7 @@ A most interesting new find, however, turned out to be less a standout research 
 
 #### **Prospectuses**
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/SGX/Presentation2.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/SGX/Presentation2.jpg">
  <div style="background-color: white;">(Left) Preliminary prospectus (or “red herring”) of SMRT Corporation Ltd dated 4 July 2000, with its telltale red ink notice. All rights reserved, SMRT Corporation Ltd, 2000.  <br> (Right) Prospectus of SMRT Corporation Ltd dated 17 July 2000. All rights reserved, SMRT Corporation Ltd, 2000.</div>
 
 The IPO prospectus is a legal document that is required of a company seeking a listing on the stock exchange. It is an important historical document of a listed company as it is usually the first official report issued by the company to the public, and precedes its eventual annual reports. It sets out all the relevant information about the company together with its listing dates to help investors decide whether to invest in its shares. A copy of the prospectus also needs to be lodged with, and registered by, the Monetary Authority of Singapore (MAS) and prepared in accordance with the Securities and Futures Act Regulations and SGX listing rules.
