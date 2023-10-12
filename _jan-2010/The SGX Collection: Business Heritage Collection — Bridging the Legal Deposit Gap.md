@@ -2,12 +2,12 @@
 title: "The SGX Collection: Business Heritage Collection — Bridging the Legal
   Deposit Gap"
 permalink: /vol-5/issue-4/jan-2010/sgx-business-heritage-legal-deposit/
-description: "Librarian Chris Tang highlights the SGX Collection and tells us
-  what we can find. "
+description: Librarian Chris Tang highlights the SGX Collection and tells us
+  what we can find.
 ---
-#### Librarian _Chris Tang_ highlights the SGX Collection and tells us what we can find.
+#### Librarian&nbsp;_Chris Tang_&nbsp;highlights the SGX Collection and tells us what we can find.
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/SGX/Study%20of%20Securities%20Mkt%20in%20Spore%20Msia.jpg">
- <div style="background-color: white;"><i>A Study of the Securities Market in Singapore & Malaysia</i> by George M. Ferris Jr. All rights reserved, Govt. Print. Off., 1970.</div>
+ <div style="background-color: white;"><i>A Study of the Securities Market in Singapore &amp; Malaysia</i> by George M. Ferris Jr. All rights reserved, Govt. Print. Off., 1970.</div>
 
 In 2007, the Singapore Exchange Ltd (SGX) donated more than 21,000 volumes of publications and CD-Roms from its Information Resource Centre to the National Library Board (NLB). They collectively became the SGX Collection.
 
@@ -31,6 +31,9 @@ The following are the major components of the SGX Collection.
  <div style="background-color: white;">(Left) US version of the 1999 Annual Report of Creative Technology Ltd. All rights reserved, Creative Technology Ltd, 1999. <br>  (Right) The National Library Building on the cover of the 2004 Annual Report of Permasteelisa Pacific Holdings Ltd. All rights reserved, Permasteelisa Pacific Holdings Ltd, 2004.</div>
 
 Annual reports are documents that show a listed company's activities for the financial year just ended. It is mandatory for publicly traded companies to issue annual reports after a financial year end as “business report cards” communicating their past progress to their investors/shareholders. These investors are entitled to a copy of the annual reports so long as they own shares in the companies.
+
+<img src="/images/Vol%205%20Issue%204/SGX/presentation4.jpg" style="width:100%;">
+ <div style="background-color: white;">(Left) The SGX Centres 1 and 2 on the cover of the 2002 Annual Report of Permasteelisa Pacific Holdings Ltd. All rights reserved, Permasteelisa Pacific Holdings Ltd, 2002.<br>  (Right) Singapore version of the 1999 Annual Report of Creative Technology Ltd. All rights reserved, Creative Technology Ltd, 1999.</div>
 
 It has been harder for NLB to enforce LD on “publishers” of annual reports as opposed to conventional published books and magazines, as annual reports are widely considered to be non-traditional forms of publishing. A lot of listed companies do not even see themselves as “publishers” at all, as they feel their annual reports are just communication documents meant only for shareholders or potential investors.
 
@@ -77,11 +80,11 @@ The SGX Information Resource Centre has also kept a lot of older materials from 
 
 The complete annual report collection from MSE, SEM and SEMS from 1962 to 1972.
 
-The complete hardbound monthly issues of the Stock Exchange of Malaysia & Singapore Gazette from 1966 to 1973.
+The complete hardbound monthly issues of the Stock Exchange of Malaysia &amp; Singapore Gazette from 1966 to 1973.
 
 The Malayan Stock Exchange’s Listing Manual from May 1964.
 
-A study of the securities market in Singapore & Malaysia, a 24-page research study printed circa 1970 by the Singapore Government Printing Office and authored by George M. Ferris Jr., then governor of the New York Stock Exchange. Fascinatingly, he commented on the unique characteristic of the then Stock Exchange of Malaysia and Singapore in that “its trading floors exist in two countries \[in Singapore and Kuala Lumpur\] and thus the Exchange is subject to supervision by, and the desires of two governments with resultant possible double standards for shares issued and for memberships. National pride also plays an important role in the future form the Exchange can take.”
+A study of the securities market in Singapore &amp; Malaysia, a 24-page research study printed circa 1970 by the Singapore Government Printing Office and authored by George M. Ferris Jr., then governor of the New York Stock Exchange. Fascinatingly, he commented on the unique characteristic of the then Stock Exchange of Malaysia and Singapore in that “its trading floors exist in two countries \[in Singapore and Kuala Lumpur\] and thus the Exchange is subject to supervision by, and the desires of two governments with resultant possible double standards for shares issued and for memberships. National pride also plays an important role in the future form the Exchange can take.”
 
 <img style="width:80%;" src="/images/Vol%205%20Issue%204/SGX/Goh%20Keng%20Swee%201961.jpg">
  <div style="background-color: white;">Dr Goh Keng Swee, Singapore Minister for Finance, signing the visitors’ book on the opening of the Singapore Trading Room, 18 February 1961. Reproduced from the 1962 Annual Report of the Malayan Stock Exchange. All rights reserved, Malayan Stock Exchange, 1963.</div>
@@ -99,8 +102,8 @@ If NLB could make a donation wish list on what other documents it wished to coll
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Chris_Tang.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Chris_Tang.jpg" style="width: 100px; height: 100px;">
 <center><b>Chris Tang</b><br> Librarian<br> Professional Services<br> National Library</center></div>
 
 
@@ -110,7 +113,7 @@ If NLB could make a donation wish list on what other documents it wished to coll
 
 Donald Treadwell and Jill B. Treadwell, [_Public Relations Writing: Principles in Practice_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12583395) (California: SAGE Publications, 2005). (Call no. RBUS 659.2 TRE)
 
-George M. Ferris, [_A Study of the Securities Market in Singapore & Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081863) (Singapore: Printed by the Govt. Print. Off., 1970). (Call no. RCLOS 332.63 FER)
+George M. Ferris, [_A Study of the Securities Market in Singapore &amp; Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081863) (Singapore: Printed by the Govt. Print. Off., 1970). (Call no. RCLOS 332.63 FER)
 
 “[Goh Opens New Trading Room](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19610219-1.2.41),” _Straits Times_, 19 February 1961, 5. (From NewspaperSG)
 
@@ -123,23 +126,3 @@ Phua H., “Initial Public Offers: Always Read the Prospectus,” _Pulses_ (Apri
 Sharmini Chellapandi, “Legal Deposit Showcase Heightens Public Awareness,” [_BiblioAsia_](https://biblioasia.nlb.gov.sg/) 5, no. 2 (July 2009), 42–43.
 
 Tan Chwee Huat, [_Financial Markets and Institutions in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12487641) (Singapore: Singapore University Press, 2005). (Call no. RSING 332.1095957 TAN)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
