@@ -112,7 +112,6 @@ This article is an introduction to the life and works of Professor Lee Kim Long 
 <img src="/images/Authors/LimKimChar.jpg" style="width: 100px; height: 100px;">
 <center><b>Lim Kim Char</b><br> Principal Librarian<br> Professional Services<br> National Library</center>
 </div>
-
 <br>
 <div style="background-color: white;">
 <br>
