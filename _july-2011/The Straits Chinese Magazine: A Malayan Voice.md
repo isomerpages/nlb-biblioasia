@@ -79,22 +79,22 @@ New editions of the magazine were regularly highlighted in *The Straits Times* a
 
 Some of these tensions arose because these local Straits Chinese writers articulately commented on the vices they observed of their British colonial masters. A counter-reply to a review of the magazine in the *Penang Gazette* shows up some of this:
 
-<center>I am sure that no harm was intended beyond convincing some of the Europeans that they are not the immaculate and faultless beings they have hitherto thought themselves to be, or at least tried to represent in the eyes of Asiatics. Self-conceit and egotism are no doubt the common fault of the Europeans who have come to the East (SCM, (1903, September), 7(3), p. 101).[^29]</center>
+<center>I am sure that no harm was intended beyond convincing some of the Europeans that they are not the immaculate and faultless beings they have hitherto thought themselves to be, or at least tried to represent in the eyes of Asiatics. Self-conceit and egotism are no doubt the common fault of the Europeans who have come to the East. (SCM, (1903, September), 7(3), p. 101)[^29]</center>
 
-These strongly worded commentaries were reserved not only for the Europeans, but were often critical of their own compatriots as well. In addressing the need to educate the Nyonyas, "A Baba" states:
+These strongly worded commentaries were reserved not only for the Europeans, but were often critical of their own compatriots as well. In addressing the need to educate the Nyonyas, “A Baba” states:
 
-"We do not believe in cramming little Chinese girls with a smattering of bad English and a good deal of rubbish which passes currency as elementary knowledge . . . But our wealthy Straits Chinese will not come forward to do for their community what the rich Parsees of Bombay have done and are doing for their women ... We consider it a perfect disgrace that the rich and apparently intelligent men of our community should have done so little for the education of women.[^30]
+<center>We do not believe in cramming little Chinese girls with a smattering of bad English and a good deal of rubbish which passes currency as elementary knowledge... But our wealthy Straits Chinese will not come forward to do for their community what the rich Parsees of Bombay have done and are doing for their women... We consider it a perfect disgrace that the rich and apparently intelligent men of our community should have done so little for the education of women.[^30]</center>
 
 In the seventh year of its publication, the editors stated:
 
-"We have constantly kept in view our aims for the advancement of our people and have met adverse criticism, abuse and even monetary discouragement with an unflinching heart, knowing well that our cause and our purpose are right. That these aims have to a great extent been fulfilled may be judged by the distinct change in public opinion amongst the Straits-born of the present day. When we first launched our journal before the world in 1897, the Straits Chinese were still moving quietly along the lines of their ancestors, content alike to live in their old paradise and to retain for themselves the policy of laissez faire ... But time has fortunately changed ... [and] there has taken place a desire, nay an anxiety, to partake in the intellectual moral advancement of the present century. We have seen a better knowledge of the outer world with its many sciences and inventions more and more exhibited, and have noted with pleasure, on the one hand, the increasing pride amongst the Straits Chinese in fulfilling their due requirements as British citizens, and on the other, a closer sympathy between themselves and their countrymen from the Chinese Empire. (Editorial, (1904, March), *SCM*, *8*(1), p. 1)."
+<center>We have constantly kept in view our aims for the advancement of our people and have met adverse criticism, abuse and even monetary discouragement with an unflinching heart, knowing well that our cause and our purpose are right. That these aims have to a great extent been fulfilled may be judged by the distinct change in public opinion amongst the Straits-born of the present day. When we first launched our journal before the world in 1897, the Straits Chinese were still moving quietly along the lines of their ancestors, content alike to live in their old paradise and to retain for themselves the policy of laissez faire... But time has fortunately changed... [and] there has taken place a desire, nay an anxiety, to partake in the intellectual moral advancement of the present century. We have seen a better knowledge of the outer world with its many sciences and inventions more and more exhibited, and have noted with pleasure, on the one hand, the increasing pride amongst the Straits Chinese in fulfilling their due requirements as British citizens, and on the other, a closer sympathy between themselves and their countrymen from the Chinese Empire. (Editorial, (1904, March), SCM, 8(1), p. 1)</center>
 
-Unfortunately, “[t]through lack of support and interest from the community it had been intended to benefit, [it] came to an untimely end in 1907” (Song, 1923, p. 235).
+Unfortunately, “[t]hrough lack of support and interest from the community it had been intended to benefit, [it] came to an untimely end in 1907” (Song, 1923, p. 235).
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Library Holdings</b> <br><br>
-The <i>Straits Chinese Magazine</i> is from the collection of rare and historical imprints at the National Library Singapore. Bound copies of all the editions of the <i>Straits Chinese Magazine</i> can be found in the Heritage Collection and on microfi lm at the National Library in Singapore. Each volume of the <i>Straits Chinese Magazine</i> is prefaced by a useful table of contents with a subject index, listing all the articles published that year according to topics such as Business, Current Events, Biography, Literature, and even Science.</div>
+The <i>Straits Chinese Magazine</i> is from the collection of rare and historical imprints at the National Library Singapore. Bound copies of all the editions of the <i>Straits Chinese Magazine</i> can be found in the Heritage Collection and on microfilm at the National Library in Singapore. Each volume of the <i>Straits Chinese Magazine</i> is prefaced by a useful table of contents with a subject index, listing all the articles published that year according to topics such as Business, Current Events, Biography, Literature and even Science.</div>
 
-The author would like to acknowledge Assistant Professor Chua Ai Lin of the Department of History, National University of Singapore for reviewing this article.
+<i>The author would like to acknowledge Assistant Professor Chua Ai Lin of the Department of History, National University of Singapore for reviewing this article.</i>
 
 <br>
 <div style="background-color: white;">
@@ -138,45 +138,45 @@ Rudolph, J. (1999, January 3). [The Babas](http://eresources.nlb.gov.sg/newspape
 
 [^3]: Literary works published in the SCM have been analysed by [Phlip Holden](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13180645) (2009) and [Neil Khor](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12924003) (2007).
 
-[^4]: J D Vaughan was Assistant resident of Singapore and superintendant of the Penang Police Force.
+[^4]: J.D. Vaughan was Assistant Resident of Singapore and superintendent of the Penang Police Force.
 
 [^5]: The Magazine was in fact published coincidentally in the year of the Queen’s jubilee.
 
 [^6]:This is one of the few examples of Baba Malay being published in the Magazine. On the whole, articles were written in English with a limited number of Chinese works translated into English. It is noteworthy that during this same period many of the classical Chinese narratives were being translated into Baba Malay and these had garnered a wide readership amongst the Straits Chinese. The Magazine is thus believed to have targeted a more exclusive audience amongst the Straits Chinese.
 
-[^7]: As opposed to the SVI (Straits Volunteer Infantry) and the SVR (Straits Volunteer Rifles)
+[^7]: As opposed to the SVI (Straits Volunteer Infantry) and the SVR (Straits Volunteer Rifles).
 
 [^8]: The Consulate was established in 1877.
 
 [^9]: Turnbull, 1992, p. 103.
 
-[^10]: [Chen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082030) (1967), p. 116.
+[^10]: [Chen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082030), 1967, p. 116.
 
-[^11]: [Chen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082030) (1967), p. 115.
+[^11]: [Chen](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082030), 1967, p. 115.
 
 [^12]: Speeches from other societies which Lim was a member of, like the Straits Philosophical Society, was also reproduced in the Magazine. There were 17 essays from the Straits Philosophical Society.
 
-[^13]: In many ways, the Magazines, expansive global and cultural coverage reflects the growing influence of the Chinese reformers amongst the overseas Chinese, from Southeast Asia to Europe and North America.&nbsp; Shih-shan notes that at the turn of the 20th century, the Chinese in Southeast Asia and North America faced discrimination from the ruling white society. Since the Chinese “attributed their maltreatment to the Manchu government’s inability to protect her people, both at home and abroad, the logical remedy was to help make China a strong and independent nation”. (Shih-shan, pp. 8–9). This perspective invoked the strong support from overseas Chinese for the reformists.
+[^13]: In many ways, the Magazine's expansive global and cultural coverage reflects the growing influence of the Chinese reformers amongst the overseas Chinese, from Southeast Asia to Europe and North America.&nbsp; Shih-shan notes that at the turn of the 20th century, the Chinese in Southeast Asia and North America faced discrimination from the ruling white society. Since the Chinese “attributed their maltreatment to the Manchu government’s inability to protect her people, both at home and abroad, the logical remedy was to help make China a strong and independent nation”. (Shih-shan, pp. 8–9). This perspective invoked the strong support from overseas Chinese for the reformists.
 
-[^14]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645773) (2005), p. 40.
+[^14]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645773), 2005, p. 40.
 
-[^15]: Interest in Kang’s views on Confusianism evident in Singapore as early as 1894, a few years prior to his visit to Singapore [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645773), 2005, p. 4.
+[^15]: Interest in Kang’s views on Confucianism was evident in Singapore as early as 1894, a few years prior to his visit to Singapore. [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645773), 2005, p. 4.
 
 [^16]: Lim published his thoughts on Confucianism in the Magazine and various other serials.
 
-[^17]: Frost argues that Lim’s push for Confucianism was “not an attempt to re-Sinify’ the Straits Chinese but rather to “radically reconstruct Chinese religion and identity” so that a wider group – those who were Western educated and/or converted to Christianity – could participate in revival (Frost, 2005, p. 57)
+[^17]: Frost argues that Lim’s push for Confucianism was “not an attempt to re-Sinify” the Straits Chinese but rather to “radically reconstruct Chinese religion and identity” so that a wider group – those who were Western educated and/or converted to Christianity – could participate in revival (Frost, 2005, p. 57).
 
-[^18]: For example the 1904 volume has a series by Lim entitled ‘The basis of Confucian ethics”’, “Confucian cosmogony and theism” and “Confucian view of human nature”.
+[^18]: For example, the 1904 volume has a series by Lim entitled “The basis of Confucian ethics”, “Confucian cosmogony and theism” and “Confucian view of human nature”.
 
-[^19]: In fact the constitution of the Singapore Chinese Girls’ School was written by Kang Youwei (Wang, 1953, p. 83)
+[^19]: In fact the constitution of the Singapore Chinese Girls’ School was written by Kang Youwei (Wang, 1953, p. 83).
 
-[^20]: Kwee (2000) however notes that much of the reforms recommended could only by implemented by the wealthy Chinese who could afford to break with tradition (pp. 91–92)
+[^20]: Kwee (2000), however, notes that much of the reforms recommended could only be implemented by the wealthy Chinese who could afford to break with tradition (pp. 91–92)
 
 [^21]: The traditional Chinese pigtail had been imposed by the Qing rulers as a symbol of loyalty to the Qing throne. Cutting it was considered treason and was punishable by death.
 
 [^22]: News and notes – ourselves. (1903, December). [_The Straits Chinese magazine: A quarterly journal of oriental and occidental culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), _7_ (4), 160.
 
-[^23]: Based on the subscription notice for volume 8, 1904. By volume 11, 1907, Hongkong had been added.
+[^23]: Based on the subscription notice for volume 8, 1904. By volume 11, 1907, Hong Kong had been added.
 
 [^24]: Editorial. (1904, March). [_The Straits Chinese magazine: A quarterly journal of oriental and occidental culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), _8_ (1), 1.
 
@@ -188,6 +188,6 @@ Rudolph, J. (1999, January 3). [The Babas](http://eresources.nlb.gov.sg/newspape
 
 [^28]: [The “Straits Chinese Magazine”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030407-1.2.15). (1903, April 7). _The Straits Times_, p. 2.
 
-[^29]: Kwee (2000) does highlight the criticisms of the colonial leaders in the Magazine was often played down, as the Straits Chinese sought their favour for status and power. Instead, the authors widened the discussion “to the phenomenon of colonialism in general” (p. 72) creating a “counter-colonial narrative which challenged the Western powers’ claims of liberating, civilizing and modernising the natives”. (p. 72). Kwee then proceeds to give examples of various articles that trace out India’s and China’s struggles against British imperialism whilst the editors concurrently conveyed strong allegiance to British rule (pp. 72–79). Kwee is adamant that the writers of the SCM were an exclusive club and that their essays were written not for the good of the Straits Chinese in general but for the elevation and protection of the status of its writers and editors (pp. 91–92).
+[^29]: Kwee (2000) does highlight that criticisms of the colonial leaders in the Magazine were often downplayed, as the Straits Chinese sought their favour for status and power. Instead, the authors widened the discussion “to the phenomenon of colonialism in general” (p. 72) creating a “counter-colonial narrative which challenged the Western powers’ claims of liberating, civilizing and modernising the natives”. (p. 72). Kwee then proceeds to give examples of various articles that trace India’s and China’s struggles against British imperialism, whilst the editors concurrently conveyed strong allegiance to British rule (pp. 72–79). Kwee is adamant that the writers of the SCM were an exclusive club and that their essays were written not for the good of the Straits Chinese in general but for the elevation and protection of the status of its writers and editors (pp. 91–92).
 
 [^30]: A Baba. Our nyonyas. (1903, December). [_The Straits Chinese magazine: A quarterly journal of oriental and occidental culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779), _7_ (4), p. 130.
