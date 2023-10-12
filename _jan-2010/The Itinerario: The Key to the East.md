@@ -5,9 +5,9 @@ description: Senior Librarian Bonny Tan explores Itinerario, a book by Dutchman
   Jan Huygen van Linschoten that opened the secret passageway to the east for
   the Dutch and English.
 ---
-####  Senior Librarian _Bonny Tan_ explores _Itinerario_, a book by Dutchman Jan Huygen van Linschoten that opened the secret passageway to the east for the Dutch and English.
+####  Senior Librarian&nbsp;_Bonny Tan_&nbsp;explores&nbsp;_Itinerario_, a book by Dutchman Jan Huygen van Linschoten that opened the secret passageway to the east for the Dutch and English.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;*“There is no time more wasted than when a young fellow<br> &emsp;&emsp;&emsp;hangs bout his mother’s kitchen like a baby, neither knowing<br> &emsp;&emsp;&emsp;what poverty is, nor luxury, nor what is found in the world,<br> &emsp;&emsp;&emsp;an ignorance which is often the cause of his ruin.”*[^1] <br> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;Jan Huygen van Linschoten
+     *“There is no time more wasted than when a young fellow<br>    hangs bout his mother’s kitchen like a baby, neither knowing<br>    what poverty is, nor luxury, nor what is found in the world,<br>    an ignorance which is often the cause of his ruin.”*[^1] <br>          Jan Huygen van Linschoten
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/Itinerario/Itinerario.jpg">
  <div style="background-color: white;">The title page of the 1598 English edition of the <i>Itinerario</i> from the copy at the National Library, Singapore.</div>
@@ -43,7 +43,7 @@ Linschoten’s return coincided with the liberation and independence of Holland 
 
 Linschoten’s famed publication is popularly known as the *Itinerario*, but this is merely the title of the first of its four books. The *Itinerario*, *voyage ofte schipvaert van Jan Huyghen van Linschoten near Oost ofte Portugails Indien*[^11] is book one, capturing Linschoten’s voyage to the East Indies, with primarily a description of the landscape and life in India plus an additional mention of the history of Malacca, the produce and people of Java and the route to China. The second book gives descriptions of the landscape from Guinea to Angola, with details of the discovery of Madagascar. It is the third book, the *Reysgheshrift van de navigatein der Portugaloysers in Orienten*[^12] which was instrumental in opening the East Indies to the Dutch and the English as it gives details of sea routes to the region, particularly to Malacca, Java, Sunda, China and Japan. It also gives a description of the West Indies as well as of Brazil. The last book gives highlights of the rents, tolls and profits taken along the journey by their sponsors. 
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Itinerario/3rd%20book%20.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/3rd%20book%20.jpg">
  <div style="background-color: white;">Illustrated detailing for the third book.</div>
 
 Interwoven through Linschoten's narrative are parallel texts on the same subject, published as italicised texts. These were interpolations by physician Bernard ten Broecke, also known by his Latin name, Paludanus. His knowledge was derived from his own travels as well as interviews with other sojourners. Native to Holland, he had taken his university degree at Padua and had then journeyed to Syria and Egypt. He took treasures from these travels back to his residence in Enkhuizen and became known for his intriguing collection of oddities. He was recognised for his intellectual prowess so much so that he was given the position of professorship at the University of Leyden in 1591, but did not accept the appointment and chose instead to remain in Enkhuizen. His reputation remains that of having co-authored this famed publication with Linschoten. His contribution to the publication, however, is not considered highly factual or close to reality.
@@ -52,7 +52,7 @@ Interwoven through Linschoten's narrative are parallel texts on the same subject
 
 The 36 illustrations in the original Dutch publication were drawn by Linschoten himself and engraved by the sons of famed Dutch engraver Joannes van Doetecum, Joannes Jnr and Baptista. Joannes Jnr engraved at least 24 plates along with the Plancius world map and the map of the island of Mozambique. The 1598 English translation should have 21 topographical plates and 32 portraits and views.[^13]
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Itinerario/Capture1.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/Capture1.jpg">
  <div style="background-color: white;">Two-page fold out showing “How the mandarins of China, who are the principal authorities of government, are carried and delight in cruising on the rivers.” On the upper left is engraved Linschoten’s name, crediting him as the illustration’s creator.</div>
 
 The views mostly stretch across two-pages and are mainly of Goa and its region, showing stylised drawings of people. Linschoten claims that his illustrations are true to life but in the 16th century context, this means enhanced details rather than a lifelike quality. Examples of details are the vessels utilised for travelling, such as the palanquin carried by menservants or a riverboat floating serenely, and always some aspect of fashion and lifestyle. There are also plates describing natural products with details of fruits, leaves and the whole plant.
@@ -61,7 +61,7 @@ For the first time the people and products of the Malay Archipelago were shown i
 
 **The Maps**
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Itinerario/Typus%20Orbis%20.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/Typus%20Orbis%20.jpg">
  <div style="background-color: white;">Typus Orbis Terrarum - Abraham Ortelius’s world map renowned as being one of the earliest modern maps depicting most of the continents accurately.</div>
 
 The maps are recognised for their unprecedented accuracy and detail. Many were copied from Portuguese pilots (published descriptions of navigational directions) and the works of famed cartographers such as Fernao Vaz Dourado, and most were redrawn by Dutch cartographer Petrus Plancius in the Dutch editions. Plancius’ world map shows the evolution of map drawing from the illuminated style of the Portuguese to the finely designed Dutch copperplate prints. However, the English edition replaced Plancius’ map with the oval world map of Abraham Ortelius, the great Flemish cartographer who produced some of the earliest modern maps for the atlas *Theatrum orbis terrarium* (1570). Below the map is a quotation in Latin by Cicero “Quid ei potest videri magnum in rebus humanis, cui aeternitas omnis, totiusque mundi nota sit magnitude”.[^14] The “Typus orbis terrarum” incorporates recent navigational findings, showing a corrected west coast of South America and adding the Solomon Islands to Ortelius’ original. The Malay Peninsula and Malacca are clearly marked out in Linschoten’s English version.
@@ -70,7 +70,7 @@ The maps are recognised for their unprecedented accuracy and detail. Many were c
 
 Though the *Reysgheschrif*t was officially published in 1596, Cornelius De Houtman had taken manuscripts of the book on his voyage to the East a year earlier.[^15] The Dutch navigator De Houtman and his brother were previously arrested by the Portuguese for attempting to steal their maps of trade routes to the East, but the newly formed Dutch Company of the Far East[^16] paid for their release and, with Linschoten’s publication in hand, they left with a convoy of four ships for the Moluccas and the treasures of the Spice Islands. Following the directions of Linschoten, De Houtman proceeded via the Sunda Strait rather than the Malacca Strait.[^17] By 1596, trade agreements were signed with Java, Sumatra and Bali and the dominance of the Dutch over the Malay Archipelago was sealed. The Dutch would remain there for more than three centuries.
 
-The English edition was published in 1598 entitled *Iohn Huighen van Linschoten his Discours of Voyages into ye Easte & West Indies*. It was Linschoten who sought to have the English version published and Iohn Wolfe rose to the task, encouraged by another travel buff, Richard Hakluyt. Wolfe dedicated the English publication to Julius Caesar, Judge of the British High Court of Admiralty. It was Hakluyt who recommended this title as an indispensable pilot for shipmen of the newly formed East India Company.
+The English edition was published in 1598 entitled *Iohn Huighen van Linschoten his Discours of Voyages into ye Easte &amp; West Indies*. It was Linschoten who sought to have the English version published and Iohn Wolfe rose to the task, encouraged by another travel buff, Richard Hakluyt. Wolfe dedicated the English publication to Julius Caesar, Judge of the British High Court of Admiralty. It was Hakluyt who recommended this title as an indispensable pilot for shipmen of the newly formed East India Company.
 
 A German translation was published the same year as the English and by 1599, there were two Latin versions, namely one in Frankfurt and another in Amsterdam. The French translation was first published in 1610 and again in 1619 and 1638. Subsequent Dutch editions were released in 1604, 1614, 1623 and 1644. Although the *Itinerario* was republished in English, namely by the Hakluyt Society in 1885, the Reysghescrift remained out-of-print despite its popularity in the 16th and 17th centuries.
 
@@ -112,15 +112,15 @@ The 1598 English edition of the Itinerario found in the National Library holding
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;">
 <center><b>Bonny Tan</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
 
 #### **REFERENCES**
 
 C. A. Gibson-Hill, [_Singapore: Notes on the History of the Old Strait, 1580–1850_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468) (\[Singapore\]: Malayan Branch, Royal Asiatic Society. 1954). (Call no. RCLOS 959.5 JMBRAS; microfilm NL0029; NL0078)
 
-C. A. Gibson-Hill, [_Singapore: Old Strait & New Harbour, 1300–1870_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989) (Singapore: General Post Office, 1956). (Call no. RCLOS 959.51 BOG; microfilm NL10999
+C. A. Gibson-Hill, [_Singapore: Old Strait &amp; New Harbour, 1300–1870_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989) (Singapore: General Post Office, 1956). (Call no. RCLOS 959.51 BOG; microfilm NL10999
 
 Ernst Van Den Boogaart, [_Civil and Corrupt Asia: Image and Text in the Itinerario and the Icones of Jan Huygen Van Linschoten_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11386938) (London: University of Chicago Press, 2003). (Call no. R 915.043 BOO)
 
@@ -128,7 +128,7 @@ J. Potter, “The World Through Travellers’ Eyes, _Geographical_ 74, no. 4 (20
 
 Jan Huygen van Linschoten, _[The Voyage of John Huyghen Van Linschoten to the East Indies. From the Old English Translation of 1598. The First Book, Containing His Description of the East. Ed., the First Volume by the Late Arthur Coke Burnell, the Second Volume by P. A. Tiele](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_ (London: Printed for the Hakluyt Society, 1885). (Call no. RRARE 910.8 HAK; microfilm NL 24339, NL24340)
 
-John Hvighen van Linschoten, _[Iohn Hvighen Van Linschoten, His Discourse of Voyages Unto Y Easte & West Indies: Deuided Into Foure Bookes](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, trans. W. Phillip (London: Iohn Wolfe, 1598) (From BookSG; call no. RRARE 910.8 LIN; microfilm NL8024)
+John Hvighen van Linschoten, _[Iohn Hvighen Van Linschoten, His Discourse of Voyages Unto Y Easte &amp; West Indies: Deuided Into Foure Bookes](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, trans. W. Phillip (London: Iohn Wolfe, 1598) (From BookSG; call no. RRARE 910.8 LIN; microfilm NL8024)
 
 Jurrien van Goor and Foskelien van Goor, _Prelude to Colonialism: The Dutch in Asia_ (Uitgeverij Verloren, 2004)
 
@@ -142,9 +142,9 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 **NOTES**
 
-[^1]: From a letter by Linschoten from Goa dated 1584 cited in the introduction by P. A. Tiele in Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxiv.  
+[^1]: From a letter by Linschoten from Goa dated 1584 cited in the introduction by P. A. Tiele in Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxiv. &nbsp;
 
-[^2]: His family is believed to have originated from a village in Utrecht named Linschoten. His parents Huych Joosten and Maertgen Hendrics lived in Schoonhoven which was a short distance away from Linschoten. (From the introduction by P. A. Tiele in Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxiii.  
+[^2]: His family is believed to have originated from a village in Utrecht named Linschoten. His parents Huych Joosten and Maertgen Hendrics lived in Schoonhoven which was a short distance away from Linschoten. (From the introduction by P. A. Tiele in Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxiii. &nbsp;
 
 [^3]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 1.
 
@@ -198,7 +198,7 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 [^28]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 103.
 
-[^29]: So detailed is Gibson-Hill’s research that he notes the error in page number for the start of Chapter 20 of [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)’s 1598 Itinerario ([_Old Strait & New Harbour–1870_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989), introduction, 11)
+[^29]: So detailed is Gibson-Hill’s research that he notes the error in page number for the start of Chapter 20 of [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)’s 1598 Itinerario ([_Old Strait &amp; New Harbour–1870_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989), introduction, 11)
 
 [^30]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, chapter 20 from page 336 of Book III.
 
