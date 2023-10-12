@@ -35,7 +35,7 @@ sections:
         launched a clandestine raid on Japanese ships in Singapore’s Keppel
         Harbour.
       button: Watch The Video
-      url: /videos/reels/print/
+      url: /videos/reels/war/
       image: "/images/Videos: BiblioAsia Reels/victory boys.png"
       alt: Image alt text
   - infopic:
