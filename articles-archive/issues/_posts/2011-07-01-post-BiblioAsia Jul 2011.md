@@ -9,11 +9,14 @@ description: ""
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-2/jul-2011/director-column/">Director's Column</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-2/jul-2011/singapore-national-resilience-oneness/">Oneness in Many: National Resilence in Singapore</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-2/jul-2011/singapore-national-resilience-oneness/">Oneness in Many: National Resilience in Singapore</a>
+<br>Associate Professor Bilveer Singh affirms the continued vital importance of resilience for the city-state’s survival.
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-2/jul-2011/singapore-singaporeans-constructing-becoming/">Being and Becoming: Constructing Singapore and Singaporeans</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-2/jul-2011/singapore-singaporeans-constructing-becoming/">Being and Becoming: Constructing Singapore and Singaporeans</a>
+<br>Associate Research Fellow Chan Wen Ling argues that society needs to move towards a more inclusive non-ethnic understanding of a Singaporean Singapore in order to thrive in a globalised world.
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-2/jul-2011/civilian-war-memorial-remembrance/">From Exclusive to Inclusive Remembrance: The Civilian War Memorial</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-2/jul-2011/civilian-war-memorial-remembrance/">From Exclusive to Inclusive Remembrance: The Civilian War Memorial</a>
+<br>Librarian Lim Tin Seng shares the story of the Civilian War Memorial that commemorates casualties of the Japanese Occupation – and how its symbolism has evolved from inception to the present day.
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-2/jul-2011/singapore-river-urban-life/">The River of (Urban) Life in Singapore: The Street</a><br>
 
