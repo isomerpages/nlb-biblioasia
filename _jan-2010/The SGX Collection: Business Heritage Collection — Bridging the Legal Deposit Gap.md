@@ -71,7 +71,7 @@ Along with the prospectus (which is actually the finalised registered version), 
 Current e-prospectuses can also now be viewed at the MAS website from its database OPERA (Offers and Prospectuses Electronic Repository and Access). Here is an example of both the preliminary and final registered prospectus from the SMRT Corporation Ltd’s IPO in 2000.
 
 <img src="/images/Vol%205%20Issue%204/SGX/prospectus-eys.JPG" style="width:50%;">
- <div style="background-color: white;">(Left) The SGX Centres 1 and 2 on the cover of the 2002 Annual Report of Permasteelisa Pacific Holdings Ltd. All rights reserved, Permasteelisa Pacific Holdings Ltd, 2002.<br>  (Right) Singapore version of the 1999 Annual Report of Creative Technology Ltd. All rights reserved, Creative Technology Ltd, 1999.</div>
+ <div style="background-color: white;"> Prospectus of Eu Yan Sang Holdings Ltd dated 30 June 1973. All rights reserved, Eu Yan Sang Holdings Ltd, 1973.</div>
 
 Considering their importance as primary information sources, as historical local heritage documents and as business reports for investment analysis, print prospectuses are surprisingly not very assiduously collected by local libraries, perhaps due to the “insider” nature of their release to potential investors only. However, the SGX Collection has helped to mitigate slightly the NLB and LD Collection gap for local prospectuses and preliminary prospectuses. Notable prospectus titles unearthed from the SGX Collection come from instantly recognisable local brand names such as Eu Yan Sang Holdings Ltd (1973), Overseas Union Bank Ltd (1975), Keppel Shipyard Ltd (1980), Neptune Orient Lines Ltd (1981), Sembawang Maritime Ltd (1987), Tiger Balm Ltd (1988) and Creative Technology Ltd (1994).
 
@@ -79,6 +79,9 @@ Viewing the passage of time through the SGX Collection, one can also see the dev
 
 #### **Older Materials from the SGX Collection**
 
+<img src="/images/Vol%205%20Issue%204/SGX/Malayan%20Stock%20Exchange%20AR%201962.jpg" style="width:50%;">
+ <div style="background-color: white;"> The 1962 Annual Report of the Malayan Stock Exchange, showing a typical daily scene during trading in the Singapore Trading Room, where shares were bought or sold based on prices written on a board. All rights reserved, Malayan Stock Exchange, 1963.</div>
+ 
 The SGX Information Resource Centre has also kept a lot of older materials from the previous incarnations of SGX, from the early 1960s when it was part of the Malayan Stock Exchange (MSE), to the renamed Stock Exchange of Malaysia (SEM) in 1964 with the formation of Malaysia, and after that the Stock Exchange of Malaysia and Singapore (SEMS) with the secession of Singapore from Malaysia in 1965. SEMS remained as a single bourse until the Stock Exchange of Singapore (SES) was split out in 1973 when the Malaysian government terminated the inter-changeability agreement between the Malaysian ringgit and the Singapore dollar. Even then, dual listings of Singapore and Malaysian shares in both exchanges continued until 1990, when then Malaysian Finance Minister Tun Daim Zainuddin decided that it was in Malaysia’s interest to stop it. Finally, SGX was inaugurated in 1999 when SES was merged with the Singapore International Monetary Exchange (SIMEX). From this earlier period, the SGX Collection has yielded some important new additions to the LD/NLB collection:
 
 The complete annual report collection from MSE, SEM and SEMS from 1962 to 1972.
