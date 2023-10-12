@@ -66,12 +66,14 @@ description: Principal Librarian Lim Kim Char and Senior Library Ivy Lee
 
 #### **寓言故事**
 
-<img style="width:50%;" src="/images/Vol%205%20Issue%204/Lee%20Kim%20Long/LKL%20bk%205.jpg">
- <div style="background-color: white;">«李松寓言»收录了李金龙医师500则寓言作 品,并于2007年荣获 "冰心文学奖"。 All rights reserved, Singapore Literature Society, 2002.</div>
+
 
 李医师不但是出色的中医 师，也是难得的寓言家。他 偏爱用简单的寓言故事来 传达治学做人的道理。他 创作了不少脍炙人口的本 地寓言。李医师的寓言小 品特色是充满本地色彩， 取材完全是土生土产，有 新加坡的动物、植物、人 物；非常贴近新加坡人的 生活。他的寓言作品大多 收录在新加坡寓言系列当 中，其中有《孔雀赛美》， 老虎学爬树》，《乌鸦与 黑猪》等出版。最为完整 的李松寓言故事是收录在 李松寓言：1956–2001》 这本书里面。李医师毕生 写了多达500篇的寓言作品。富有本地色彩的寓言创作在本地可说是史无前例，因此 李医师在这方面对新加坡的文学贡献可算是意义重大。
 
 #### **捐赠书籍介绍**
+
+<img style="width:50%;" src="/images/Vol%205%20Issue%204/Lee%20Kim%20Long/LKL%20bk%205.jpg">
+ <div style="background-color: white;">«李松寓言»收录了李金龙医师500则寓言作 品,并于2007年荣获 "冰心文学奖"。 All rights reserved, Singapore Literature Society, 2002.</div>
 
 李金龙医师家人在他去世后將他心爱的书籍捐赠给新加坡 国家图书馆，以便让更多人能够分享他的学习兴趣，并且从 他爱看的书籍了解这些书籍怎样影响他的思维。图书馆员 从中挑选出了大约300本最具代表性的书籍，展示在李光前 参考图书馆十楼的捐赠展示厅以供公众参观与浏览。以下 为大家简单介绍。
 
