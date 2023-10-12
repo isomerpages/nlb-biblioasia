@@ -3,10 +3,14 @@ title: "The Straits Chinese Magazine: A Malayan Voice"
 permalink: /vol-7/issue-2/jul-2011/straits-chinese-magazine-malayan/
 description: ""
 ---
-#### Hidden away in that excellent publication, the Straits Chinese Magazine, there is often a good deal of suggestive matter well deserving public attention. (*Straits Times*, 16 November 1907, p. 6; NL 1975)
+#### Senior Librarian **Bonny Ta**n traces the history of *The Straits Chinese Magazine*.
+
+
 
 <img style="width:50%;" src="/images/Vol%207%20Issue%202/StraitsChinese/dog.jpg">
  <div style="background-color: white;">Image at notice for subscription, <i>Singapore Chinese Magazine,</i> 1879, March, 1(1), p. 33. <i>All rights reserved, Koh Yew Yean Press, Singapore, 1897.</i></div>
+
+##### Hidden away in that excellent publication, the Straits Chinese Magazine, there is often a good deal of suggestive matter well deserving public attention. (*Straits Times*, 16 November 1907, p. 6; NL 1975)
 
 #### **Motivations and Impetus**
 
