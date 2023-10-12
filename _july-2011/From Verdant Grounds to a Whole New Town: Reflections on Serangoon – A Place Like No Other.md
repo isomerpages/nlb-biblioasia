@@ -6,10 +6,10 @@ description: "Assistant Curator at the National Museum of Singapore Daniel Tham
   shares more about the exhibition “Serangoon: A Place Like No Other” held at
   the newly opened Serangoon Public Library."
 ---
-#### Assistant Curator at the National Museum of Singapore _Daniel Tham_ shares more about the exhibition “Serangoon: A Place Like No Other” held at the newly opened Serangoon Public Library.
+#### Assistant Curator at the National Museum of Singapore&nbsp;_Daniel Tham_&nbsp;shares more about the exhibition “Serangoon: A Place Like No Other” held at the newly opened Serangoon Public Library.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%202/VerdantGrounds/Serangoon.jpg">
- <div style="background-color: white;">Sirangoon (present-day Serangoon) used to refer to the areas we call Paya Lebar and Bedok today, as shown in this 1873 map (Chief Surveyor, Singapore). <i>Courtesy of the National Archives of Singapore.</i></div>
+ <div style="background-color: white;">“Sirangoon” (present-day Serangoon) used to refer to the areas we call Paya Lebar and Bedok today, as shown in this 1873 map (Chief Surveyor, Singapore). <i>Courtesy of the National Archives of Singapore.</i></div>
 
 The history of modern Singapore has been marked by relentless change to its geographical and social landscape. From its establishment as a port settlement under colonial rule to its post-independence emergence as a global metropolitan city, the ongoing processes of urban development and transnational migration have unceasingly reconfigured the island's boundaries, economy and culture. This has been most evident in the growth and development not only of the town centre, but also the changing functions and character of surrounding localities and 
 estates around the island.
@@ -55,6 +55,6 @@ Yet, it is the process of collecting, sharing and retelling these stories, end t
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Daniel%20Tham_1.jpg" style="width: 100px; height: 100px;"/>
-  <center><b>Daniel Tham</b><br>Assistant Curator <br>Curation & Collections<br/>National Museum of Singapore.  </center></div>
+<br>
+<img src="/images/Authors/Daniel%20Tham_1.jpg" style="width: 100px; height: 100px;">
+  <center><b>Daniel Tham</b><br>Assistant Curator <br>Curation &amp; Collections<br>National Museum of Singapore.  </center></div>
