@@ -3,7 +3,7 @@ title: "From Exclusive to Inclusive Remembrance: The Civilian War Memorial"
 permalink: /vol-7/issue-2/jul-2011/civilian-war-memorial-remembrance/
 description: ""
 ---
-#### Librarian **Lim Tin Seng** shares the sombre story of the Civilian War Memorial commemorating casualties of the Japanese Occupation.
+#### Librarian **Lim Tin Seng** shares the story of the Civilian War Memorial commemorating casualties of the Japanese Occupation – and how its symbolism has evolved from inception to the present day.
 
 The Civilian War Memorial is a monument that commemorates those who lost their lives during the Japanese Occupation of Singapore (February 1942–September 1945). Situated in a park near the busy junction of Bras Basah Road and Beach Road in downtown Singapore, four 64.7-metre-tall obelisks were erected in the middle of a shallow pool. The merging at their bases symbolises the collective suffering of four ethnic groups in Singapore – the Chinese, Malays, Indians and Eurasians – during the Japanese Occupation.
 
@@ -76,30 +76,30 @@ On 9 April 1963, the SCCC added representatives from other ethnic groups to its 
 
 To realise the memorial, the government agreed to cover half of its construction cost, which was estimated to be about $500,000. The government also facilitated the SCCC’s raising of the other half of the costs by allowing them to solicit public donations.[^27] Lee also personally supported the SCCC’s fundraising activities by attending one of its donation drives on 21 April 1963, where he made a donation of $100. He also took the occasion to remind the people that the process of mourning the victims of the Japanese Occupation was also about remembering the hardship that the people of Singapore had endured. He said that the government “could have built this memorial without public contributions”, but decided “that the memorial will have more meaning and give more satisfaction to the thousands of people who have been so deeply hurt during the Japanese occupation if the people themselves contribute towards the memorial”.[^28] Lee repeated this message in his speech at the “Breaking the Sod” ceremony for the memorial on 15 June 1963.
 
-The government also played a part in the design of the memorial. After the site for the memorial was announced, architecture firm Swan and Maclaren was commissioned to design the memorial. The design that was unveiled on 31 May 1963 featured two inverse arches rising to a point with a total of twelve water fountains at the front. It did not contain any of the multi-ethnic characteristics that we see In today's memorlal.[^29] In September 1965, the government requested changes to the design. Swan and McClaren was again commissioned to produce a new design.[^30] This resulted in the memorial that we see today.
+The government also played a part in the design of the memorial. After the site for the memorial was announced, architecture firm Swan and Maclaren was commissioned to design it. The design that was unveiled on 31 May 1963 featured two inverse arches rising to a point with a total of 12 water fountains at the front. It did not contain any of the multiethnic characteristics that we see in today’s memorial.[^29] In September 1965, the government requested changes to the design. Swan and Maclaren was again commissioned to produce a new design.[^30] This resulted in the memorial that we see today.
 
-Besides overseeing the building process, the government also worked with the Japanese government to resolve the matter of compensation. An agreement was reached on 25 October 1966; the Japanese government agreed to pay a total of M$50 million to the Singapore government.[^31] By then, the SCCC and the government had completed the exhumation of the mass graves. The remains that were exhumed from more than 50 mass graves were stored in 606 urns."[^32] Before they were buried on 1 November 1966, the public was invited to pay their last respects from 28 October to 31 October 1966.[^33]
+Besides overseeing the building process, the government also worked with the Japanese government to resolve the matter of compensation. An agreement was reached on 25 October 1966: the Japanese government agreed to pay a total of $50 million to the Singapore government.[^31] By then, the SCCC and the government had completed the exhumation of the mass graves. The remains that were exhumed from more than 50 mass graves were stored in 606 urns.[^32] Before they were buried on 1 November 1966, the public was invited to pay their last respects from 28 to 31 October 1966.[^33]
 
 <img style="width:50%;" src="/images/Vol%207%20Issue%202/CivilianWarMemorial/Black%20Urn%20Inscriptions.jpg">
- <div style="background-color: white;">Under a black urn with lion heads in relief, the words inscribed on the white marble pedestal are "In deep and lasting sorrow this memorial is dedicated in memory of those or our civilians who were killed between February 15, 1942 and August 18, 1945 when the Japanese Armed Forces occupied Singapore." Translations in Malay and Tamil flank it on the right and left respectively. <i>Herwin M. Nasir for National Library Board Singapore. All rights reserved.</i></div>
+ <div style="background-color: white;">Under a black urn with lion heads in relief is an inscription on the white marble pedestal: “In deep and lasting sorrow this memorial is dedicated in memory of those of our civilians who were killed between February 15, 1942 and August 18, 1945 when the Japanese Armed Forces occupied Singapore.” It is flanked by Malay and Tamil translations. <i>Herwin M. Nasir for National Library Board Singapore. All rights reserved.</i></div>
 
-On 1 November 1966, a ceremony was held to observe the interment of the 606 urns. The urns were buried on both sides of the memorial podium.[^34] At the end of the re-burial, Soon Peng Yam, then president of SCCC, laid a wreath at the memorial "on behalf of the Singapore people" before leading public mourners, other members of the SCCC and the action committee for the war memorial campaign to observe a three-minute silence.[^35] During the ceremony, an official from the SCCC extended an invitation to all religious representatives for the unveiling ceremony of the memorial the following year.[^36]
+On 1 November 1966, a ceremony was held to observe the interment of the 606 urns. The urns were buried on both sides of the memorial podium.[^34] At the end of the reburial, Soon Peng Yam, then president of the SCCC, laid a wreath at the memorial “on behalf of the Singapore people” before leading public mourners, other members of the SCCC and the action committee for the war memorial campaign to observe a three-minute silence.[^35] During the ceremony, an SCCC official extended an invitation to all religious representatives for the unveiling ceremony of the memorial the following year.[^36]
 
-The Civilian War Memorial was unveiled on 15 February 1967, 25 years after the fall of Singapore. The unveiling ceremony was attended by thousands of mourners from the public as well as the leaders of the Inter-Religious Council (IRO), made up of representatives from the Islamic, Buddhist, Christian, Hindu, Jewish, Sikh and Zoroastrian faiths.[^37]
+The Civilian War Memorial was unveiled on 15 February 1967, 25 years after the fall of Singapore. The unveiling ceremony was attended by thousands of mourners from the public as well as leaders of the Inter-Religious Council comprising representatives from the Islamic, Buddhist, Christian, Hindu, Jewish, Sikh and Zoroastrian faiths.[^37]
 
-During the ceremony, Lee Kuan Yew, then Prime Minister of Singapore, unveiled a plaque and laid the first wreath at the foot of memorial, before joining the guests and the crowd in a three-minute silence. He then highlighted the symbolism of the memorial in his speech:
+During the ceremony, Prime Minister Lee unveiled a plaque and laid the first wreath at the foot of memorial, before joining guests and the crowd in a three-minute silence. He then highlighted the symbolism of the memorial in his speech:
 
-“This piece of concrete commemorates an experience which, in spite of its horrors, served as a catalyst in building a nation out of the young and unestablished community of diverse immigrants. We suffered together. It told us that we share a common destiny. And it is through sharing such common experiences that the feeling of living and being one community is established.”[^38]
+<center>This piece of concrete commemorates an experience which, in spite of its horrors, served as a catalyst in building a nation out of the young and unestablished community of diverse immigrants. We suffered together. It told us that we share a common destiny. And it is through sharing such common experiences that the feeling of living and being one community is established.[^38]</center>
  
 #### **Conclusion**
 
-The government reshaped the Civilian War Memorial from one that was intended to commemorate the Sook Ching victims and the Chinese community to a memorial that honoured all the victims of the atrocities suffered during the Japanese Occupation, regardless of ethnicity.
+The government reshaped the Civilian War Memorial from one that was intended to commemorate Sook Ching victims and the Chinese community to a memorial that honoured all victims of the atrocities during the Japanese Occupation, regardless of ethnicity.
 
-On 15 February every year, a commemorative service held at the site illustrates what the Civilian War Memorial now symbolises. The service is led by members of the government and SCCC (later renamed Singapore Chinese Chamber of Commerce and Industry). It is also attended by members of the public and representatives from religious groups, business and clan associations, and schools. Former prisoners of war from Britain, New Zealand and Australia, and also veterans of the battles of Singapore and Malaya are also frequently present.
+On 15 February every year, a commemorative service held at the site illustrates what the Civilian War Memorial now symbolises. The service is led by members of the government and the SCCC (later renamed Singapore Chinese Chamber of Commerce and Industry). It is attended by members of the public and representatives of religious groups, business and clan associations, and schools. Former prisoners-of-war from Britain, New Zealand and Australia, as well as veterans of the battles of Singapore and Malaya, are also frequently present.
 
-During the service, the SCCC's president lays a wreath at the foot of the memorial before leading the attendees in prayer and in observing a minute of silence. The memorial has shed its original motivations as an exclusive emblem of remembrance to now become a monumental reminder of the government's vision of a multiethnic society.
+During the service, the SCCC president lays a wreath at the foot of the memorial before leading the attendees in prayer and in observing a minute of silence. The memorial has shed its original motivations as an exclusive emblem of remembrance to now become a monumental reminder of the government’s vision of a multiethnic society.
 
-The author wishes to acknowledge the contributions of Dr Ernest C.T. Chew, Visiting Professorial Fellow, Institute Southeast Asian Studies, in reviewing this article.
+<i>The author wishes to acknowledge the contributions of Dr Ernest C.T. Chew, Visiting Professorial Fellow, Institute of Southeast Asian Studies, in reviewing this article.</i>
 
 <br>
 <div style="background-color: white;">
@@ -123,7 +123,7 @@ Knauer, L.M., &amp; Walkowitz, D.J. (Eds.). (2004). Introduction (pp. 1–17). I
 
 Lim, P. (2000). War and ambivalence, monuments and memorials in Johor. In P.P.H. Lim &amp; D. Wong (Eds.), [_War and memory in Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9570099)_._ Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.503 WAR)
 
-Luo, Y.H. (Ed.). (1986). _[Singapore Chinese Chamber of Commerce &amp; Industry 80th anniversary souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84468006)._ Singapore: Chen Qi you. (Call no.: Chinese RSING 380.10655957 SIN)
+Luo, Y.H. (Ed.). (1986). _[Singapore Chinese Chamber of Commerce &amp; Industry 80th anniversary souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84468006)._ Singapore: Chen Qi You. (Call no.: Chinese RSING 380.10655957 SIN)
 
 Modder, R. (2004). [_The Singapore Chinese Massacre, 18 February to 4 March 1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12410495)_._ Singapore: Horizon Books. (Call no.: RSING 940.5405095957 MOD)
 
@@ -133,7 +133,7 @@ Zhang, L. (Ed.). (2004). _[Survey of the Chinese victims in Malaya and Singapore
 
 #### **NOTES**
 
-[^1]: Blackburn, Kevin. (December 2000). The Collective Memory of the Sook Ching Massacre and the Creation of the Civilian War Memorial of Singapore. _Journal of the Malaysian Branch of the Royal Asiatic Society_, Vol. 73, No. 279, p. 73.
+[^1]: Blackburn, K. (December 2000). The Collective Memory of the Sook Ching Massacre and the Creation of the Civilian War Memorial of Singapore. _Journal of the Malaysian Branch of the Royal Asiatic Society_, _73_(279), 73.
 
 [^2]: Blackburn, Dec 2000, p. 88.
 
@@ -145,21 +145,21 @@ Zhang, L. (Ed.). (2004). _[Survey of the Chinese victims in Malaya and Singapore
 
 [^6]: PRO: WO 235/1004.
 
-[^7]: Chew, D. &amp; Lim, I. (Eds.). (1992). _[Sook Ching](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6300605)_. Singapore: Oral History Department, pp. 17—18.
+[^7]: Chew, D. &amp; Lim, I. (Eds.). (1992). _[Sook Ching](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6300605)_. Singapore: Oral History Department, pp. 17–18.
 
-[^8]: [Chew](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6300605), pp. 14—15.
+[^8]: [Chew](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6300605), pp. 14–15.
 
 [^9]: Blackburn, Dec 2000, p. 75.
 
 [^10]: Blackburn, Dec 2000, p. 74.
 
-[^11]: Ward, A.H.C. et al (Eds.). (1994). [_The memoirs of Tan Kah-Kee_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7029997). Singapore: Singapore University Press, pp. 444—446.
+[^11]: Ward, A.H.C. et al (Eds.). (1994). [_The memoirs of Tan Kah-Kee_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7029997). Singapore: Singapore University Press, pp. 444–446.
 
 [^12]: Blackburn, Dec 2000, p. 77.
 
-[^13]: [Lim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9570099), 2000, pp. 144—146.
+[^13]: [Lim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9570099), 2000, pp. 144–146.
 
-[^14]: See Hsu Yun-Tsiao. (June 1955).” Introduction of the record of Malayan Chinese victims during the Japanese Occupation,” _[Journal of the South Seas Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489), vol. 11. Part 1, pp. 1–220.
+[^14]: See Hsu Yun-Tsiao. (June 1955). “Introduction of the record of Malayan Chinese victims during the Japanese Occupation,” [_Journal of the South Seas Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489), _11_, Part 1, pp. 1–220.
 
 [^15]: [Mass war graves found in Siglap’s ‘valley of death’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620224-1.2.20). (1962, February 24). _The Straits Times_, p. 4.
 
@@ -167,31 +167,31 @@ Zhang, L. (Ed.). (2004). _[Survey of the Chinese victims in Malaya and Singapore
 
 [^17]: [War massacre of civilians: Compensation demand](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620301-1.2.100). (1962, March 1). _The Straits Times_, p. 18.
 
-[^18]: Sin Chew Jit Poh, 1 Mar 1962.
+[^18]: _Sin Chew Jit Poh_, 1 Mar 1962.
 
 [^19]: Blackburn, Dec 2000, p. 82.
 
-[^20]: Sin Chew Jit Poh, 3 Mar 1962.
+[^20]: _Sin Chew Jit Poh_, 3 Mar 1962.
 
-[^21]: Sin Chew Jit Poh, 3 Mar 1962.
+[^21]: _Sin Chew Jit Poh_, 3 Mar 1962.
 
-[^22]: Sin Chew Jit Poh, 3 Mar 1962.
+[^22]: _Sin Chew Jit Poh_, 3 Mar 1962.
 
 [^23]: Blackburn, Dec 2000, p. 84.
 
 [^24]: Government policy on “Mass Graves” of People Massacred by Japanese. Singapore Legislative Assembly _[Debates: Official Report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4612739)_. 3rd session of the first legislative assembly, part IV, Vol. 18, 14 March 1962, pp. 12–14.
 
-[^25]: Sin Chew Jit Poh, 14 Mar 1963.
+[^25]: _Sin Chew Jit Poh_, 14 Mar 1963.
 
-[^26]: Sin Chew Jit Poh, 6 Apr 1963.
+[^26]: _Sin Chew Jit Poh_, 6 Apr 1963.
 
-[^27]: Nanyang Siang Pau, 29 Mar 1963.
+[^27]: _Nanyang Siang Pau_, 29 Mar 1963.
 
 [^28]: English version of a _[Text Speech by the Prime Minister, Mr Lee Kuan Yew, at a Meeting of the Memorial Fund Committee at the Victoria Theatre on Sunday, 21 April 1963 at 10 a.m.](https://www.nas.gov.sg/archivesonline/speeches/record-details/782e21af-115d-11e3-83d5-0050568939ad)_, in Prime Minister’s speeches, interviews, statements, etc., Singapore: Prime Minister’s Office, 1959–1980.
 
 [^29]: Sin Chew Jit Poh, 31 May 1963.
 
-[^30]: Luo, Yong Heng (Ed.). (1986). _[Singapore Chinese Chamber of Commerce &amp; Industry 80th anniversary souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84468006)_. Singapore: Chen qi you, 339.
+[^30]: Luo, Y.H. (Ed.). (1986). _[Singapore Chinese Chamber of Commerce &amp; Industry 80th anniversary souvenir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84468006)_. Singapore: Chen Qi You, 339.
 
 [^31]: [Shiina flies in for a two day good-will visit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661025-1.2.25). (1966, October 25). _The Straits Times,_ p. 4.
 
@@ -207,4 +207,4 @@ Zhang, L. (Ed.). (2004). _[Survey of the Chinese victims in Malaya and Singapore
 
 [^37]: [War memorial is unveiled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670216-1.2.90). (1967, February 16). _The Straits Times_, p. 17.
 
-[^38]: Prime Minister’s [Speech at the _Unveiling Ceremony of Memorial to Civilian Victims of Japanese Occupation on 15 February 1967_](https://www.nas.gov.sg/archivesonline/speeches/record-details/74356a9f-115d-11e3-83d5-0050568939ad), in Prime Minister’s Speeches, Interviews, Statements, Etc.. Singapore: Prime Minister’s Office, 1959—1980.
+[^38]: Prime Minister’s [Speech at the _Unveiling Ceremony of Memorial to Civilian Victims of Japanese Occupation on 15 February 1967_](https://www.nas.gov.sg/archivesonline/speeches/record-details/74356a9f-115d-11e3-83d5-0050568939ad), in Prime Minister’s Speeches, Interviews, Statements, etc. Singapore: Prime Minister’s Office, 1959–1980.
