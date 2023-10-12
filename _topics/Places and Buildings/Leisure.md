@@ -4,6 +4,14 @@ permalink: /topics/places-and-buildings/leisure/
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2023/10/john-little-raffles-place-department-store/">A Brief History of John Little at Raffles Place</a>
+
+A look back at John Little’s 170-year history and the lasting mark the store has made on our island.
+
+<img src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/2a%2019980005119%20(j)%20img0043.jpg">
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/">Order and Cleanliness: Singapore’s Public Bathhouses of the 1880s</a>
 
 Three public bathhouses at Ellenborough Market, Canton Street and Clyde Terrace were built by the Municipality in the late 19th century.
@@ -19,13 +27,13 @@ Before there was Sentosa, there was Sarong Island.
 <hr>
 
 #### <a href="/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema" style="text-decoration: none; font-weight: bold;"> Movies Beneath A Starry, Starry Night</a>
-The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyday in the 1970s, it was packed bumper to bumper with vehicles. Sharon Teng tracks its rise and subsequent decline.
+The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyday in the 1970s, it was packed bumper to bumper with vehicles.&nbsp;Sharon Teng&nbsp;tracks its rise and subsequent decline.
 
 <img src="/images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_bg.png" style="width:100%; height: 280px; object-fit: cover"> 
 <hr>
 
 #### <a href="/vol-17/issue-4/jan-to-mar-2022/early-years-substation" style="text-decoration: none; font-weight: bold;">In Their Own Words: The Early Years of The Substation</a>
-The development of the arts in Singapore is unimaginable without this arts centre dedicated to alternative voices. Key individuals from its early history tell Clarissa Oon how it got started.
+The development of the arts in Singapore is unimaginable without this arts centre dedicated to alternative voices. Key individuals from its early history tell&nbsp;Clarissa Oon&nbsp;how it got started.
 
 <img src="/images/vol-17-issue-4/substation/substation.png" style="width:100%; height: 280px; object-fit: cover"> 
 <hr>
