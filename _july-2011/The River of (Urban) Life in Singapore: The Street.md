@@ -94,7 +94,7 @@ Gans (1991, p. 41) criticises contemporary city planning “for giving higher pr
 
  
 
-Anderson, Stanford. (1978). People in the urban environment: The ecology of streets (pp. 1–11). In [_On streets_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=860662)_._ Cambridge, Massachusetts: MIT Press. (Call no.: RART q711.73 ONS)
+Anderson, S. (1978). People in the urban environment: The ecology of streets (pp. 1–11). In [_On streets_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=860662)_._ Cambridge, MA: MIT Press. (Call no.: RART q711.73 ONS)
 
 Chua, B.H. (1995). [_Communitarian ideology and democracy in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7388163)_._ London; New York: Routledge. (Call no.: RSING 959.5705 CHU)
 
@@ -102,17 +102,17 @@ Chua, B.H. (1989). [_The Golden Shoe: Building Singapore’s financial district_
 
 Gans, Herbert J. (1991). _People, plans, and other policies: Essays on poverty, racism, and other national urban problems._ New York: Columbia University Press.
 
-Gutman, R. (1978). “The Street Generation”. In S. Anderson (ed.), [_On streets_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=860662)_._ Cambridge, Massachusetts: MIT Press, pp. 249—264. (Call no.: RART q711.73 ONS)
+Gutman, R. (1978). “The Street Generation”. In S. Anderson (ed.), [_On streets_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=860662)_._ Cambridge, Massachusetts: MIT Press, pp. 249–264. (Call no.: RART q711.73 ONS)
 
-Jacobs, Jane. (1972). _The death and life of great American cities._ Harmondsworth: Penguin.
+Jacobs, J. (1972). _The death and life of great American cities._ Harmondsworth: Penguin.
 
 #### **NOTES**
 
 
-[^1]: The URA came into being on 1 April 1974. It is the state agency through which urban planning, development and renewal is carried out. Its earlier approaches to the preservation of streets and street life were “one-size-fits-all” and detrimental to the preservation of street life. At present, they seem to have changed their approach and are individualising it to the areas slated for current preservation, rather than applying a single overall solution.
+[^1]: The URA came into being on 1 April 1974. It is the state agency through which urban planning, development and renewal are carried out. Its earlier approaches to the preservation of streets and street life were “one-size-fits-all” and detrimental to the preservation of street life. At present, they seem to have changed their approach and are individualising it to the areas slated for current preservation, rather than applying a single overall solution.
 
-[^2]: It is important to also consider the realities of the residents living there then. Many parts of Chinatown were overly-congested and unsanitary, where diseases and fire alike could easily be spread. Much of it was thus in dire need of refurbishment, renovation and de-congestion in order to make them less of a health and fire hazard.
+[^2]: It is important to also consider the realities of the residents living there then. Many parts of Chinatown were overly congested and unsanitary, where diseases and fire alike could easily be spread. Much of it was thus in dire need of refurbishment, renovation and decongestion in order to make them less of a health and fire hazard.
 
-[^3]: An exception will be the few weeks running up to Chinese New Year. Ethnic Chinese from all over Singapore will head to Chinatown to purchase festive foods, decorative items and/or just to soak up the festive atmosphere. Once that is over however, Chinatown reverts back to its regular state of being relatively quiet and devoid of street life.
+[^3]: An exception will be the few weeks leading up to Chinese New Year. Ethnic Chinese from all over Singapore would head to Chinatown to purchase festive foods, decorative items and/or just to soak up the festive atmosphere. Once that is over, however, Chinatown reverts to its regular state of being relatively quiet and devoid of street life.
 
-[^4]: For instance, the reason for the large numbers of street hawkers and traders in the streets of Chinatown was due to the “high employment and underemployment”. ([Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5390839), 1989, p. 12) at that point in time. The process of industrialisation is as much responsible as the resettlement policy contributing to this group of people eventually disappearing from the streets of Chinatown, and with them, the level of street vitality that they helped to generate.
+[^4]: For instance, the reason for the large numbers of street hawkers and traders in the streets of Chinatown was due to the “high employment and underemployment”. ([Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5390839), 1989, p. 12) at that point in time. The process of industrialisation is as much responsible as the resettlement policy contributing to this group of people eventually disappearing from the streets of Chinatown, and with them, the level of street vitality that they helped generate.
