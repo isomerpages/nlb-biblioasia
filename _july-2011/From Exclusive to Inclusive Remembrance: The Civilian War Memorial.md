@@ -3,7 +3,7 @@ title: "From Exclusive to Inclusive Remembrance: The Civilian War Memorial"
 permalink: /vol-7/issue-2/jul-2011/civilian-war-memorial-remembrance/
 description: ""
 ---
-#### Librarian **Lim Tin Seng** shares the story of the Civilian War Memorial commemorating casualties of the Japanese Occupation – and how its symbolism has evolved from inception to the present day.
+#### Librarian *Lim Tin Seng* shares the story of the Civilian War Memorial commemorating casualties of the Japanese Occupation – and how its symbolism has evolved from inception to the present day.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%202/CivilianWarMemorial/Mass%20Screening%20Center%20JB.jpg">
  <div style="background-color: white;">A mass screening centre at Jalan Besar during the Sook Ching Operation. <i>Courtesy of National Archives of Singapore.</i></div>
