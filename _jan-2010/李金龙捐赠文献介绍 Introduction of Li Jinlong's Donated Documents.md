@@ -1,13 +1,13 @@
 ---
 title: 李金龙捐赠文献介绍 Introduction of Li Jinlong's Donated Documents
 permalink: /vol-5/issue-4/jan-2010/li-jinlong-donated-document/
-description: "Principal Librarian Lim Kim Char and Senior Library Ivy Lee
+description: Principal Librarian Lim Kim Char and Senior Library Ivy Lee
   introduce the life and works of Professor Lee Kim Long as well as the
-  highlights of his donation to the library. "
+  highlights of his donation to the library.
 ---
-#### Principal Librarian _Lim Kim Char_ and Senior Library _Ivy Lee_ introduce the life and works of Professor Lee Kim Long as well as the highlights of his donation to the library.
+#### Principal Librarian&nbsp;_Lim Kim Char_&nbsp;and Senior Library&nbsp;_Ivy Lee_&nbsp;introduce the life and works of Professor Lee Kim Long as well as the highlights of his donation to the library.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Lee%20Kim%20Long/Lee%20Kim%20Long%20and%20Lim%20Kim%20Char.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Lee%20Kim%20Long/Lee%20Kim%20Long%20and%20Lim%20Kim%20Char.jpg">
  <div style="background-color: white;">李金龙教授与本文作者李金菊医师于2007年民丹岛义诊。</div>
 
 #### **简介李金龙医师(1936–2008)**
@@ -22,7 +22,7 @@ description: "Principal Librarian Lim Kim Char and Senior Library Ivy Lee
 
 李医师开设李金龙针灸馆，30多年专注针灸,以特出针灸手 法治愈的病人不计其数。他拥有深厚的中医经验与高超的 医术，同时慈善对待病人与真心关怀病人，对贫苦的病人 时常只收取低廉的费用，这一切均深得病人的爱戴。
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/Lee%20Kim%20Long/Lee%20Kim%20Long%20acupuncture.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Lee%20Kim%20Long/Lee%20Kim%20Long%20acupuncture.jpg">
  <div style="background-color: white;">李金龙医师于2006年一次公开演讲时为观众示范针。</div>
 
 笔者十多年前在一个文化活动的场合认识了李金龙医师，有机缘跟随李医师在他的诊所临床学习，亲身见证他给予后 进医师们无私的教导与提携，他不吝分享所学。在他诊所学 习的有本地的医师，也有远自梹城，怡保，吉隆坡，砂崂越，印尼等地的。李医师处处在推动中医的发展，时时在想着如 何提高中医的水平，推广中华文化，他认为中医是中华文化 的重要部分。李医师时常到各地参加中医医学学术会议，也 与许多专家交流讨论, 时常把学到的心得再传授给医师们。 他鼓励后进医师们要不断学习，精益求精，他富有慈善心与 谦虚的美德得到医师们的敬重。
@@ -60,6 +60,9 @@ description: "Principal Librarian Lim Kim Char and Senior Library Ivy Lee
 #### **文学作品**
 
 文笔丰富多彩的李医师也 擅长写散文。他童年的记 忆，日治及英治时期的经 历，还有出国所见所闻都 是他散文的灵感。虽然他 的文学作品产量不及医学 作品多，但从李医师充满情 感的文章，却可以更加认 识他的内心世界，看出他有 理想的人生及乐观进取的 性格。而这些作品就出版 在《李松散文》，《站在欧 洲的高峰上》，《彭亨河纪 行》等书籍。多才多艺的李 医师在晚年甚至尝试写短 剧，而《人间有情》就是以 医务所为背景讲述仁医的 故事。
+
+<img src="/images/Vol%205%20Issue%204/Lee%20Kim%20Long/LKL%20bk.jpg" style="width:50%;">
+ <div style="background-color: white;">«讲稿汇集»收录了李金龙医师 1992-1997年的演讲内容。 All rights reserved, 新加坡中医 药出版社, 2005.</div>
 
 #### **寓言故事**
 
@@ -101,15 +104,15 @@ This article is an introduction to the life and works of Professor Lee Kim Long 
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/LimKimChar.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/LimKimChar.jpg" style="width: 100px; height: 100px;">
 <center><b>Lim Kim Char</b><br> Principal Librarian<br> Professional Services<br> National Library</center>
 </div>
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Ivy%20Lee.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Ivy%20Lee.jpg" style="width: 100px; height: 100px;">
 <center><b>Ivy Lee Huey Shin</b><br>Senior Librarian<br>Lee Kong Chian Reference Library<br> National Library</center></div>
 
 #### **REFERENCES**
@@ -129,5 +132,3 @@ Wu Shuxian 吴淑贤 “300 Ming zhongyi jie renshi yu gongzhong zhui nian lijin
 Zhang Xina 张曦娜 “Yi xinjiapo “yizhen zhi fu” lijīnlong” [忆新加坡 “义诊之父”李金龙](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080314-1.2.59.5) \[Recalling Singapore's "Father of Free Clinic" Li Jinlong\], _Lianhe Zaobao_ _联合早报_, 14 March 2008, 8. (From NewspaperSG)
 
 Zou Wenxue and Huang Lirong 邹文学 and 黄丽容, “Huainian ben bao yizhen guwen lijinlong yishi xinjiapo de baiqiuen nali xuyao nali qu” [怀念本报义诊顾问李金龙医师新加坡的白求恩哪里需要哪里去](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb20080106-1.2.5.18) \[Ask Dr. Li Jinlong where Bethune in Singapore needs to go\], _Lianhe Zaoba_o _联合早报_, 6 January 2008, 10. (From NewspaperSG)
-
-
