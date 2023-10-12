@@ -25,7 +25,7 @@ The [concert grand piano](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/)
 #### **Professor Yu Chun Yee Performs on the Chappell Grand**
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/eM1aWlQUvvo" frameborder="0" allowfullscreen=""></iframe></div>
 
-The [concert grand piano](/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/) at the National Library Building once graced the stage of the Victoria Memorial Hall, though it was once criticised by many international pianists for its abysmal tone. Find out how it came to replace the original Steinway at the Memorial Hall, and how it ended up with such a reputation.
+Professor Yu Chun Yee previously taught at the Royal College of Music in London. At age 18, he won the prestigious Singapore Musical Society’s pianoforte competition in 1955 judged by Julius Katchen. Here, Yu plays on the recently refurbished Chappell grand once used by international pianists at the Victoria Memorial Hall. A cheaper replacement for the Memorial Hall’s old Steinway grand, the piano has a chequered history and was widely criticised for its tone. It is now a public piano at the National Library Building.
 
 <hr>
 
