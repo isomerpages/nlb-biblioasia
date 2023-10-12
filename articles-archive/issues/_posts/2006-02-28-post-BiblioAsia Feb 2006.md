@@ -5,7 +5,7 @@ date: 2006-02-28
 layout: post
 description: ""
 ---
-<img style="width: 350px; height: 450px;" src="/images/vol-1-issue-2/Feb06.JPG">
+<img style="width: 350px; height: 450px;" src="/images/vol-1-issue-2/capture1.jpg">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-1/issue2/feb-2006/director-column/">Director's Column</a>		
 
