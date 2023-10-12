@@ -5,6 +5,9 @@ description: ""
 ---
 #### Librarian **Lim Tin Seng** shares the story of the Civilian War Memorial commemorating casualties of the Japanese Occupation – and how its symbolism has evolved from inception to the present day.
 
+<img style="width:80%;" src="/images/Vol%207%20Issue%202/CivilianWarMemorial/Mass%20Screening%20Center%20JB.jpg">
+ <div style="background-color: white;">A mass screening centre at Jalan Besar during the Sook Ching Operation. <i>Courtesy of National Archives of Singapore.</i></div>
+
 The Civilian War Memorial is a monument that commemorates those who lost their lives during the Japanese Occupation of Singapore (February 1942–September 1945). Situated in a park near the busy junction of Bras Basah Road and Beach Road in downtown Singapore, four 64.7-metre-tall obelisks were erected in the middle of a shallow pool. The merging at their bases symbolises the collective suffering of four ethnic groups in Singapore – the Chinese, Malays, Indians and Eurasians – during the Japanese Occupation.
 
 <img style="width:70%;" src="/images/Vol%207%20Issue%202/CivilianWarMemorial/1A512514.jpg">
@@ -16,9 +19,6 @@ However, when the government took over the campaign, the memorial was “moulded
 
 
 #### **The Sook Ching Massacre**
-
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/CivilianWarMemorial/Mass%20Screening%20Center%20JB.jpg">
- <div style="background-color: white;">A mass screening centre at Jalan Besar for the Sook Ching Operation. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Sook Ching was a two-week mass screening operation carried out by the Japanese military on 18 February 1942 – three days after the fall of Singapore – to purge anti-Japanese elements within the Chinese community. In order to identify supposed anti-Japanese Chinese, the military summoned all Chinese males between the ages of 18 and 50 to designated screening centres. Those who passed the inspection were issued “good citizen” cards, while those who failed were detained, sent to remote locations across Singapore, and executed.[^3]
 
