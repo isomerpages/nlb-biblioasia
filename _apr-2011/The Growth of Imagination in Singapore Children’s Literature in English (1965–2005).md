@@ -35,24 +35,18 @@ One of the early roadblocks to the growth of Singapore children’s literature h
 
 <center>It is not only desirable but essential to have local authors write the books we need, especially authors who understand the role of authorship in relation to the new political status and urgent social needs of our country. It is only local authors who could have a sense of social awareness, a real understanding of the various aspects of the local environment and above all a true appreciation of the national aspirations and strivings of our people, and contribute by making appropriate references and allusions to local conditions factors, and by consciously emphasising points of view more in conformity with the spirit of the times, and with our national needs and aspirations (cited in Girvin, 1976, p. 7).</center>
 
-A scan of the SCLE available during the 1960s at the Lee Kong Chian Reference Library reveals that basal readers were used in many English-medium schools and outnumbered quality children’s fiction on all counts. This reflected the Singapore government’s policy during this period “to get the general populace to put a premium on education, and the habit of reading began to be developed as part and parcel of the learning process” (Kong &amp; Tay, 1998, p. 8). Besides, the parents, being very pragmatic, “look only for books ‘useful’ in boosting their children’s school performance” (Khoo, 1992, p. 101)
+A scan of the SCLE available during the 1960s at the Lee Kong Chian Reference Library reveals that basal readers were used in many English-medium schools and outnumbered quality children’s fiction on all counts. This reflected the Singapore government’s policy during this period “to get the general populace to put a premium on education, and the habit of reading began to be developed as part and parcel of the learning process” (Kong &amp; Tay, 1998, p. 8). Besides, the parents, being very pragmatic, “look only for books ‘useful’ in boosting their children’s school performance” (Khoo, 1992, p. 101).
 
 <img style="width:50%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Night%20Market.jpg">
- <div style="background-color: white;">All rights reserved, Times Books International. 1985.</div>
+ <div style="background-color: white;"><i>All rights reserved, Times Books International, 1985.</i></div>
 
-I was able to identify only one trade book published during this period: Sylvia Sherry’s *Street of the Small Night Market* (1966). Others were merely basal readers such as the *Federal Supplementary Readers Third Year(Book 3)* (1961), the *Federal Readers Book 1* (1963), and *Structural English Course Reader 4* (1968). It was in a third course reader that I found an interesting story, *The King of Fishes* (1968) by Chia Meng Ann and Chia Hearn Chek. “Although the literature addressed reading discovery, it was positioned to address reading needs first and often the tone of the materials was didactic if not dull.” (National Library Board, 2005, p. 2)
+I was able to identify only one trade book published during this period: Sylvia Sherry’s *Street of the Small Night Market* (1966). Others were merely basal readers such as *Federal Supplementary Readers Third Year (Book 3)* (1961), *Federal Readers Book 1* (1963) and *Structural English Course Reader 4* (1968). It was in a third course reader that I found an interesting story, *The King of Fishes* (1968), by Chia Meng Ann and Chia Hearn Chek. “Although the literature addressed reading discovery, it was positioned to address reading needs first and often the tone of the materials was didactic if not dull” (National Library Board, 2005, p. 2).
 	
 #### **The Pioneering Period (1970s)**	
 
-A serious effort to promote the writing of children’s books began with the Workshop on Children’s Books “organised by the National Book Development Council of Singapore (NBDCS) to coincide with a week’s visit of Ivan Southall, an Australian children’s writer, at its invitation from 8–15 October, 1971” (Anuar, 1972, p. 3). In the opening speech, the late principal of the Teachers’ Training College, Dr Ruth Wong stressed the role of books for children:
+A serious effort to promote the writing of children’s books began with the Workshop on Children’s Books “organised by the National Book Development Council of Singapore (NBDCS) to coincide with a week’s visit of Ivan Southall, an Australian children’s writer, at its invitation from 8–15 October, 1971” (Anuar, 1972, p. 3). In the opening speech, the late principal of the Teachers’ Training College, Dr Ruth Wong, stressed the role of books for children:
 
- … if the individual himself has rich experience, he can<br>
- through print ‘feel’ in his being as he reads, and be <br>
- just as depth conscious as through the more instantly<br> 
- tactile medium of TV. Furthermore, where \[electronic\]<br> 
- media make for uniformity, print still enables the<br> 
- individual to withdraw into his private sanctum where<br> 
- he can meet himself. (Wong, 1972, p. 5)
+<center>… if the individual himself has rich experience, he can through print ‘feel’ in his being as he reads, and be just as depth conscious as through the more instantly tactile medium of TV. Furthermore, where \[electronic\] media make for uniformity, print still enables the individual to withdraw into his private sanctum where he can meet himself. (Wong, 1972, p. 5)</center>
 
 In other words, books can provide a glimpse of imagination experienced by avid readers if they immerse themselves into that fictive world.
 
@@ -61,24 +55,11 @@ Folktales, fables and basal readers dominated SCLE in the 1970s. Didacticism fro
 <img style="width:70%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/table.jpg">
 <div style="background-color: white;"></div>
 
-The adventure story was the hot favourite for all three age groups during that time, followed by myths and legends. According to Nair,
+The adventure story was the hot favourite for all three age groups during that time, followed by myths and legends. According to Nair:
 
- Adventure stories are favoured way and away from<br> 
- myths and legends, in the above 12 age group<br> 
- but \[the latter\] share the first place with adventure <br>
- where younger readers of the 8–10 age group are <br>
- concerned. What is surprising is the prominence <br>
- given to the classics by the older children, being <br>
- fourth favoured by both groups. School stories are <br>
- second favourite for the older children but are not <br>
- important to the youngest readers and are only as <br>
- important as the classics to readers in the 11–12<br>
- group. Family stories and western and historical <br>
- fiction are not well favoured, though animal stories <br>
- do appeal to all three groups, but especially the <br>
- youngest readers. (Nair et al., 1977, p. 11)
+<center>Adventure stories are favoured way and away from myths and legends, in the above 12 age group but [the latter] share the first place with adventure where younger readers of the 8–10 age group are concerned. What is surprising is the prominence given to the classics by the older children, being fourth favoured by both groups. School stories are second favourite for the older children but are not important to the youngest readers and are only as important as the classics to readers in the 11–12 group. Family stories and western and historical fiction are not well favoured, though animal stories do appeal to all three groups, but especially the youngest readers. (Nair et al., 1977, p. 11)</center>
 
-In the 1970s, children’s books tended to adopt the themes of national campaigns; some of these included the ban on firecrackers during the Lunar New Year, keep Singapore clean, bilingualism in schools, multiracial and multicultural identity and so on (Lim, 2009). Hence, it is not surprising to find many basal readers such as the *Active Reader* series (Federal Publications, 1970) and *New Way Readers* series (Pan Pacific, 1978) propagating these national agendas. Examples of such books include *Ah Lee the Road Sweeper* (1979), *The Singapore Youth Festival* (1975), and *Courtesy is John’s Way of Life* (1979). There are other books devoted to the interests and culture of Singapore as an independent nation that date back to Sri Vijayan times in the early 14th century, such as Chia Hearn Chek’s *The Redhill* (1974) and *The Raja’s Crown* (1975). 
+In the 1970s, children’s books tended to adopt the themes of national campaigns; some of these included the ban on firecrackers during the Lunar New Year; Keep Singapore Clean; bilingualism in schools; multiracial and multicultural identity and so on (Lim, 2009). Hence, it is not surprising to find many basal readers such as the *Active Reader* series (Federal Publications, 1970) and *New Way Readers* series (Pan Pacific, 1978) propagating these national agendas. Examples of such books include *Ah Lee the Road Sweeper* (1979), *The Singapore Youth Festival* (1975), and *Courtesy is John’s Way of Life* (1979). There are other books devoted to the interests and culture of Singapore as an independent nation that date back to Sri Vijayan times in the early 14th century, such as Chia Hearn Chek’s *The Redhill* (1974) and *The Raja’s Crown* (1975). 
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Presentation4.jpg">
  <div style="background-color: white;">(Left) All rights reserved, Seamaster Publishers. 1979. <br>(Right) All rights reserved, Educational Publications Bureau. 1979.</div>
