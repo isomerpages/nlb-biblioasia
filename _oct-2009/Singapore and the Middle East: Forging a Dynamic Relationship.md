@@ -73,7 +73,13 @@ First, the government has to think ahead, so as to identify areas for future dev
 
 Second, since to err is human and it is only natural to make mistakes, a dynamic government must not be reluctant to review its performance objectively, and it must be ready to revise its policies whenever necessary. One may argue that when a government revises its original position, it implies that it is incompetent. However, this argument is deeply flawed and disregards the fact that no one is infallible, including government leaders. A leadership that refuses to accept that it has failed will produce a society that is unable to learn from its own mistakes. On the other hand, revising one’s previous position is a crucial factor that sets a successful government apart from a failed regime. It “requires leaders who are willing to confront the realities of current performances and feedback, and to challenge the status quo.” [^18]
 
+<img src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/current%20transformations%202.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Emirates Centre for Strategic Studies and Research, Abu Dhabi, 2007.</div>
+
 The third characteristic of a dynamic government is its ability to “think across” traditional orders and boundaries in order to learn from the experiences of others.[^19] What happens when the set agenda does not work, and when there is an urgent need for a change in strategy? How can a leadership think of new ways to achieve its agenda, and where can the new ideas be found? Barriers against sharing ideas for development are dissolved when leaders, as well as individual citizens, become eager to share their success with other nations through the media and cooperative exchange programmes. To learn from its own mistakes while following the examples of others does not undermine the legitimacy of a country’s leadership. Instead, these characteristics reflect the open-minded spirit of learning new ideas and strategies, while also accepting the inherent limitations of the human condition.
+
+<img src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/⁯middle%20east%20oil1.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Edward Elgar Publishing, c2006.</div>
 
 To succeed, a society must allow and encourage its people to innovate and think into the future, and it must also refrain from making harsh judgments against those who have failed. A society that opens its people’s minds to learn from the experiences of others is a dynamic society that is able to differentiate between pride and pragmatism. Refusal to do so will only result in isolation in an increasingly globalised world.
 
