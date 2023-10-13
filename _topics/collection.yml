@@ -4,11 +4,11 @@ collections:
     order:
       - Editor's Picks.md
       - Archaeology.md
-      - Arts/Music.md
       - Arts/.keep
       - Arts/Art.md
       - Arts/Film and Photography.md
       - Arts/Literature.md
+      - Arts/Music.md
       - Arts/Theatre.md
       - Culture.md
       - Food.md
