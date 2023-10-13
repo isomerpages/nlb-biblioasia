@@ -3,7 +3,7 @@ title: The Bumpy Ride to Making Crash Helmets Mandatory
 permalink: /vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/
 description: Crash helmets might save lives but getting people to wear them was
   an uphill task.
-image: /images/Vol 19 Issue 3/4 Crash Helmets/ch_northbridge.jpg
+image: /images/Vol 19 Issue 3/4 Crash Helmets/crash helmets homepage.jpg
 ---
 #### Crash helmets might save lives but getting people to wear them was an uphill task.
 By Sharad Pandian

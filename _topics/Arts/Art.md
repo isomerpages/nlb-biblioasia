@@ -6,7 +6,7 @@ third_nav_title: Arts
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/arts/2023/10/painters-diard-duvaucel-farquhar/"> About the Painters: Seeking the Unnamed Artists Behind Diard and Duvaucel's Natural History Drawings</a>
  <p>Natural history drawings might seem clinical and cold, but an unlikely medium pulls back the curtains to find the humanity behind them.</p> 
- <img style="width:100%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/diard_duvaucel%20cover1.jpg"> 
+ <img style="width:70%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/diard_duvaucel%20cover1.jpg"> 
 <hr>
 
 

@@ -3,6 +3,12 @@ title: War
 permalink: /topics/war/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/">Konfrontasi: Singapore’s Experience of an Undeclared War</a>
+Opposing the formation of the Federation of Malaysia, Indonesia waged a three-year armed conflict against Malaysia and Singapore.
+
+<img src="/images/Vol%2019%20Issue%204/3%20Konfrontasi/img0101_img%205.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/videos/reels/war/">Operation Jaywick Retold as a Comic Book for Boys</a>
 Disguised as local fishermen, Australian and British commandos launched a clandestine raid on Japanese ships in Singapore’s Keppel Harbour.
 
