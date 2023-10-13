@@ -5,7 +5,7 @@ description: ""
 ---
 #### *Eugene Liow* examines how population resettlement and the decentralising of retail activities in post-independent Singapore profoundly affected the vitality of certain streets, turning formerly lively streets into lifeless ones.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/RiverUrban/1950s%20Smith%20Street.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/RiverUrban/1950s%20Smith%20Street.jpg">
  <div style="background-color: white;">Shoppers and stalls crammed between shophouses on Smith Street, also known in Cantonese as <i>Hei Yuen Kai</i> (Theatre Street), 1950s. <i>Courtesy of Poh Heng Huat. Donated at the Heritage Roadshow 2007. All rights reserved.</i></div>
  
 A city without street life is a city without urban vitality. As Jane Jacobs states in *The Death and Life of Great American Cities* (1972), the life of the city is located in its streets. More than its functional capacity as a conduit for channelling people to different parts of a city, the street characterises it: “If a city's streets look interesting, the city looks interesting; if they look dull, the city looks dull” (p. 107). It is through its streets that the city derives its personality, and it is on the streets that the social in the city is made visible. What makes the street a social fact is that “it has always included a set of assumptions about who would own and control it, who would live on it or use it, the purposes for which it was built, and the activities appropriated to it” (Gutman, 1978, p. 250). Indeed, the street is “the place where many of our conflicts or resolutions between public and private claims are accessed or actually played out” (Anderson, 1978, p. 1). It is also “a locus of social interaction and a linear passageway linking destinations” (Levitas, 1978, p. 228). As such, the street is a place where social encounters occur and a site through which the experience of everyday life in an urban environment are lived out. 
@@ -28,19 +28,19 @@ Once relocation to the fringes of the city centre just outside the five-mile rad
 
 High Street was initially earmarked by the British to be the “Main Street of Singapore”. Located near the colonial administration centre, the British had grand plans for the street. While the motorcar had yet to be used on a large scale, High Street in 1870 was already built very wide. Judging by its width, it is possible to infer that the British had planned for that stretch to be bustling with activity. The street was also a fairly long one, stretching up to Fort Fullerton, near the mouth of the Singapore River.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/RiverUrban/High%20Street.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/RiverUrban/High%20Street.jpg">
  <div style="background-color: white;">View of High Street from Fort Canning, 1910.  <i> Postcard from the author’s collection.</i></div>
 
 High Street was one of the places where people went to obtain their daily necessities. There was a great deal of diversity in the goods and services that were sold – from silk, to studio photography services, to everyday necessities. Indeed, “the junction of \[High Street and North Bridge Road\] was an important and busy thoroughfare lined with glamorous shops and boutiques and serviced by trams” (Tyers, 1993, p. 43). However, after independence in 1965, the government began the resettlement policy that eventually led to people being relocated from the city centre to various new towns set up by the HDB. As the city centre was depopulated, the day-to-day goods formerly sold at High Street were gradually dispersed into the various HDB new town centres. These town centres became the places where residents could purchase daily necessities. As these goods that the residents bought were non-specialised, there was no compelling reason to travel to High Street to purchase them. This affected High Street's businesses and left it particularly bereft of the large and dense population needed to sustain street vitality there. 
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/RiverUrban/CommercialProperties.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/RiverUrban/CommercialProperties.jpg">
  <div style="background-color: white;">Commercial properties on High Street lined with parked cars, 1980s. <i>Courtesy of Sathakathuda Sahib. Donated at the Heritage Roadshow 2008.  All rights reserved.</i></div>
 
 The status of High Street as the retail centre of goods and services was similarly challenged by the concomitant development of Orchard Road as a major shopping area. With the state's efforts to relocate high-end retailing to Orchard Road in 1976, High Street lost many of its specialised shops. Popular departmental stores that were located near High Street such as Robinson's, John Little and Metro were gradually relocated to Orchard Road, culminating in its eventual demise as a social marketplace.
 
 Today, High Street is a 100-metre-long road that is relatively quiet, an empty stretch of concrete and mortar devoid of the street life that the British had envisioned. There is little activity on the street, a stark contrast to its heyday in the early and mid-1900s. Ultimately, the vitality of High Street as a shopping destination diminished as a result of the decision to depopulate the city centre into new towns, and the demarcation of Orchard Road as the high-end shopping district.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/RiverUrban/Quiet%20president%20walkways.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/RiverUrban/Quiet%20president%20walkways.jpg">
  <div style="background-color: white;">Quiet pedestrian walkways on present-day High Street. <i>Photo taken by the author.</i></div>
 
 #### **Chinatown**
@@ -49,7 +49,7 @@ Today, High Street is a 100-metre-long road that is relatively quiet, an empty s
 
 While each street has its own unique character, what binds them together is the fact that these streets once collectively possessed an active and vibrant street life. There was a large density of people living and working within this area; as Kaye indicated, “the average population density \[of Chinatown\] in 1947 was 230,000, or over a quarter of a million persons, per square mile”. He observed that a street has “a considerable amount of social intercourse on the road and pavements of the streets themselves, such as marketing, gossiping, children playing, etc” (Kaye, 1953, pp. 6–7), and the streets of Chinatown, particularly Upper Nanking Street (his object of study) was no exception. Like High Street, the decline in the vitality of street life in Chinatown was a consequence of the resettlement policy, which effectively shifted out the bulk of the residents necessary for sustaining that level of street vitality.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/RiverUrban/Shoe%20Retail.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/RiverUrban/Shoe%20Retail.jpg">
  <div style="background-color: white;">A stall selling shoes at a Pagoda Street bazaar, 1975.  <i>Courtesy of Lan Lee Ping (née Liew Lee Ping). Donated at the Heritage Roadshaw 2008. All rights reserved.</i></div>
 
 This lack of permanent dwellers is the primary factor for the loss of street life in Chinatown. The inhabitants of Chinatown used to live in two- and three-storey houses, and such structures make up the bulk of buildings in the area.[^2] These old shophouses were where the inhabitants lived, worked and played. These three elements were interlinked and interdependent. Depopulation effectively removed the “live” element, which is the most important as it is from this that the other two are derived, and on which they are dependent. The removal of the “live” factor impacted this delicate “ecological” system. The so-called suburbanisation of the populace meant the lack of a critical mass required for the existence of street life in Chinatown.
@@ -66,13 +66,13 @@ This lack of vibrant street life persisted even when efforts were made by the go
 
 Singaporeans were dismissive of Chinatown as they “are not convinced that conservation is for locals” (Kong, 2003, p. 361). They regarded the conservation process as an exercise designed to appeal to the tourist trade, as opposed to something meaningful for them. Ironically, the tourists themselves regarded the “new” Chinatown as somewhat artificial, mentioning that “the restored shop houses are nice, but the place still lacks something” (Tan, 1996). In contrast to its earlier, more bustling days, when Chinatown was once “said to be a place with no night” (Kong, 2003, p. 361),[^3] the overt focus on the presentation of Chinatown as a tourist attraction has resulted in it becoming “a ghost town after 6 pm” (Ibid.) when the tourists leave. Such a situation continues to persist even until today.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/RiverUrban/Refurbished_2.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/RiverUrban/Refurbished_2.jpg">
  <div style="background-color: white;">Refurbished shophouse facades around present-day Chinatown. <i>Photo taken by the author.</i></div>
  
  
 Efforts to recreate a bustling Chinatown were regarded by some as contrived and insipid because the “live” element previously contributing to the generation of street life was not, or perhaps could not be taken into consideration.[^4] The STB and the URA’s attempts to recreate the past vitality of Chinatown with an overt focus on the physical landscape reveal little consideration for social elements like “the genuine longstanding trades and small businesses, and the concomitant familiar retailer-client relationships” (Ibid.). These represented the “soul” of Chinatown – the everyday lived experiences of the residents that can neither be generated nor reconstructed at will by top-down policies. Consequently, the resettlement policy initiated in the name of urban redevelopment led to the removal of the social fabric needed to create and sustain street life. Coupled with the lack of participation in these places by the local population, these factors will continue to limit the level of activity in the streets of Chinatown.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/RiverUrban/Refurbished_4.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/RiverUrban/Refurbished_4.jpg">
  <div style="background-color: white;">Refurbished shophouse facade of the Chinatown Heritage Centre on Pagoda Street. <i>Photo taken by the author.</i></div>
 
 
