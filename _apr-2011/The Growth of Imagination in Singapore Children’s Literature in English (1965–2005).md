@@ -129,20 +129,20 @@ One reason for the success of local children’s literature is that parents toda
 
 Most books published in the 1960s were not trade books but basal readers whose aim was to improve the English proficiency of Singaporeans in both spoken and written forms. Hence, during the Pioneering Period (1970–79), it was an uphill task for writers of SCLE to be recognised, their creative works taken seriously by the publishers and appreciated by readers at large. SCLE only really emerged in the 1980s (Khoo, 1990/91) when more writers began to write for children. Although many of these books were badly written or poorly edited, it was a good sign that teachers and parents were beginning to take notice of locally published books for children. One big challenge during that period was that many teachers were reluctant to encourage their students to read local children’s literature because of its poor quality of written English. In fact, this problem persisted into the 1990s.
 
-Between the late 1980s and the beginning of the 1990s, the Singapore book market witnessed a sudden increase in the number of new books published locally by new publishers such as VJ Times and Flame of the Forest. With more new writers trying their hand at writing for children, the local book scene saw a wider range of both new children’s fiction and non-fiction titles. It was also during the period 1990–99 that more new writers had their works printed through established publishers such as Educational Publications Bureau (EPB) and Times Book International, although there were also a few others who chose to self-publish.
+Between the late 1980s and the beginning of the 1990s, the Singapore book market witnessed a sudden increase in the number of new books published locally by new publishers such as VJ Times and Flame of the Forest. With more new writers trying their hand at writing for children, the local book scene saw a wider range of both new children’s fiction and nonfiction titles. It was also during the period 1990–99 that more new writers had their works printed through established publishers such as Educational Publications Bureau and Times Book International, although there were also a few others who chose to self-publish.
 
 <img style="width:50%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/The%20Littlest%20Emperor1.jpg">
- <div style="background-color: white;">All rights reserved, Tuttle Publishing. 2004.</div>
+ <div style="background-color: white;"><i>All rights reserved, Tuttle Publishing, 2004.</i></div>
 
-As we enter the new millennium (i.e., 2000s), better and more interesting books are published locally, such as Linda Gan’s *A Treasury of Asian Folktales* (2000), Chandran Dudley’s *Tales from the Islands of Singapore* (2001) and David Seow’s *The Little Emperor* (2004). However, a new challenge has emerged — there are now more distractions (e.g. online and video gaming, and movies on video) than before. Claire Chiang, chairperson of the Asian Festival of Children’s Content Advisory Board, highlighted a very real and challenging issue we are facing today: “Reading habits have decreased because of new social media platforms. We need relevant and interesting books to recapture the imagination of our children” (as cited in Ng, 2010b, p. C6).
+As we enter the new millennium (i.e., 2000s), better and more interesting books are published locally, such as Linda Gan’s *A Treasury of Asian Folktales* (2000), Chandran Dudley’s *Tales from the Islands of Singapore* (2001) and David Seow’s *The Littlest Emperor* (2004). However, a new challenge has emerged: there are now more distractions (e.g. online and video gaming, and movies on video) than before. Claire Chiang, chairperson of the Asian Festival of Children’s Content Advisory Board, highlighted a very real and challenging issue we are facing today: “Reading habits have decreased because of new social media platforms. We need relevant and interesting books to recapture the imagination of our children” (cited in Ng, 2010b, p. C6).
 
-**The author wishes to acknowledge the contributions of Dr Wong Meng Ee, Early Childhood and Special Needs Education, National Institute of Education, Singapore, in reviewing this article.**
+<i>The author wishes to acknowledge the contributions of Dr Wong Meng Ee, Early Childhood and Special Needs Education, National Institute of Education, Singapore, in reviewing this article.</i>
 
 <br>
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/Nac.jpg" style="width: 100px; height: 100px;">
-<center> <b>Noel Chia Kok Hwee</b><br>Lee Kong Chian<br>Research Fellow (2010)</center></div>
+<center> <b>Noel Chia Kok Hwee</b><br>Lee Kong Chian Research Fellow (2010)</center></div>
 	
 #### **REFERENCES**
 
