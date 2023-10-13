@@ -6,10 +6,10 @@ description: Research Associate Joanna Tan traces the growth of English popular
   impact of nation building on the music scene, and its eventual decline by the
   early 1970s.
 ---
-#### Research Associate _Joanna Tan_ traces the growth of English popular music in 1960s Singapore and the formation of local bands. She outlines the impact of nation building on the music scene, and its eventual decline by the early 1970s.
+#### Research Associate&nbsp;_Joanna Tan_&nbsp;traces the growth of English popular music in 1960s Singapore and the formation of local bands. She outlines the impact of nation-building on the music scene, and its eventual decline by the early 1970s.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/PopularMusic/TheLoser.jpg">
- <div style="background-color: white;">Cover of 45 RPM EP<i> I’m the Loser</i> (1966) by Naomi and The Boys. <i>Courtesy of National Archives of Singapore.</i></div>
+ <div style="background-color: white;">Cover of 45rpm EP<i> I’m the Loser</i> (1966) by Naomi and The Boys. <i>Courtesy of National Archives of Singapore.</i></div>
 
 From the late 1950s to the early 1970s, Singapore experienced a period of significant political and social change. The year 1959 marked the start of self-government for Singapore and the formation of the People’s Action Party government. These political developments coincided with a flourishing English music scene that had developed with the introduction of popular music influences from abroad such as American rock ‘n’ roll and British pop. This article traces the growth of English popular music in 1960s Singapore and the formation of local bands that became famous for their versions of British and American songs as well as original compositions that featured a unique blend of Western and Asian influences. The article also outlines the impact of nation building on the music scene, and the eventual decline of the music scene by the early 1970s.
 
@@ -84,8 +84,8 @@ The author wishes to acknowledge the contributions of Dr Mark Emmanuel, Departme
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/JoannaTan.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/JoannaTan.jpg" style="width: 100px; height: 100px;">
 <center> <b>Joanna Tan</b><br>Research Associate<br>Lee Kong Chian Reference Library<br>National Library</center></div>
 
 	
@@ -173,7 +173,7 @@ Pereira, J.C. (2005). Obscured music: The trailers. _Fancy magazine._ Retrieved 
 
 [^30]: [S’pore races against time to raise new industries](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630103-1.2.134). (1963, January 3). _The Straits Times_, p. 16; [Pioneers spirit needed anew, says Lim](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19651214-1.2.61). (1965, December 14). _The Straits Times_, p. 10; [Vocational education important for S’pore, says Ong](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670706-1.2.22). (1967, July 6). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
 
-[^31]: De Silva, G. (1972, June 28). [Hair-cut for local musicians on police advice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720628-1.2.53). _The Straits Times_, p. 8; De Silva, G. (1972, August 22). [Cliff kept his locks, but EMI lost $10,000](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720822-1.2.85). _The Straits Times_, p. 15; Chandran, R., & Pereira, G. (1973, November 2). [Govt shuts down 6 discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731102-1.2.16). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+[^31]: De Silva, G. (1972, June 28). [Hair-cut for local musicians on police advice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720628-1.2.53). _The Straits Times_, p. 8; De Silva, G. (1972, August 22). [Cliff kept his locks, but EMI lost $10,000](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720822-1.2.85). _The Straits Times_, p. 15; Chandran, R., &amp; Pereira, G. (1973, November 2). [Govt shuts down 6 discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731102-1.2.16). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
 [^32]: [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300), 2001, pp. 125–127.
 
