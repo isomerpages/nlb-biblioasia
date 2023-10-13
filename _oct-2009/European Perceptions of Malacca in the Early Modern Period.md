@@ -156,6 +156,41 @@ Victor R. Savage, [_Western Impressions of Nature and Landscape in Southeast Asi
 
 #### **NOTES**
 
+[^1]: Paul Wheatley, _[The Golden Khersonese](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462)_ (Kuala Lumpur: University of Malaya Press, 1961), 138. (Call no. RSING 959.5 WHE)
+
+[^2]: Gaspora Balbi, _Viaggio Dell’indie Orientali_ (Venetia: Appresso Camillo Borgominieri, 1590)
+
+[^3]: Josede Acosta, _[The Naturall and Morall Historie of the East and West Indies](https://eresources.nlb.gov.sg/printheritage/detail/3af8aebd-eb45-4c2d-8453-3c9e6bd006f0.aspx)_ (London: Edward Blount and William Aspley, 1604), 37. (From BookSG; call no. RRARE 973.16 ACO; microfilm NL25702)
+
+[^4]: Pierre D’ Avity, _The Estates, Empires, &amp; Principallities of the World_, trans. E. Grimston (London: Mathewe Lownes and John Bill, 1615), 184.
+
+[^5]: David Dickson, _Truth’s Victory Over Error_ (Edinburgh: \[sn\], 1684)
+
+[^6]: Avity, _Estates, Empires &amp; Principallities_, 184.
+
+[^7]: R. Araujo, “Letter to D. Afonso De Albuquerque, Malacca, 6 February,” in trans. M.J. Pintado, _[Portuguese Documents on Malacca](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6534928)_, vol. 1 (Kuala Lumpur: National Archives of Malaysia, 1993). (Call no. RSEA 959.5102 PIN)
+
+[^8]: Radin Fernando, “Metamorphosis of the Luso-Asian Diaspora in the Malay Archipelago,” in _[Iberians&nbsp;in&nbsp;the&nbsp;Singapore-Melaka&nbsp;Area&nbsp;and&nbsp;Adjacent&nbsp;Regions (16th to 18th Century)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12493225)_, ed. Peter Borschberg (Wiesbaden: Harrassowitz, 2004), 162. (Call no. RSING 959.50046 IBE)
+
+[^9]: George Bryan Souza, _[The Survival of Empire: Portuguese Trade and Society in China and the South China Sea, 1630–1754](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3756329)_ (Cambridge: Cambridge University Press, 1986). (Call no. RCLOS 382.09469051 SOU)
+
+[^10]: Stuart B. Schwartz, “The Economy of the Portuguese Empire,” in _[Portuguese Oceanic Expansion, 1400–1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167084)_, ed. Francisco Bethencourt and Diogo Ramada Curto (Cambridge: Cambridge University Press, 2007), 20. (Call no. RSEA 325.34690903 POR)
+
+[^11]: Victor R. Savage, _[Western Impressions of Nature and Landscape in Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082376)_ (Singapore: Singapore University Press, 1984), 282. (Call no. RSING 959 SAV)
+
+12\. Peter Heylyn, _Cosmographie in Four Books: Containing the Chorographie and Historie of the Whole World, and All the Principal Kingdoms, Provinces, Seas, and Isles Thereof_ (London: Harry Seile, 1652), 166.
+
+13\. Barbara Watson Andaya, “Malacca Under the Dutch 1641–1795,” in _[Melaka: The Transformation of a Malay Capital](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636)_, ed. Kernial Singh Sandhu and Paul Wheatley (Kuala Lumpur: Oxford University Press, 1983), 200. (Call no. RSEA 959.5141 MEL)
+
+14\. M.A.P. Meilink-Roelofsz, _[Asian Trade and European Influence in the Indonesian Archipelago Between 1500 and About 1600](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4500569)_ (The Hague: Martinus Nijhoff, 1962), 7. (Call no. RSEA 382.095 MEI)
+
+15\. Andaya, “_[Malacca Under the Dutch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636)_, 206.
+
+16\. [Pierre-Daniel Huet](https://www.google.com.sg/search?tbo=p&amp;tbm=bks&amp;q=inauthor:%22Pierre-Daniel+Huet%22), _Memoirs of the Dutch Trade in All the States, Empires, and Kingdoms in the World_, trans. Samber (London: C. Rivington, 1719), 212.
+
+
+
+
 [^1]:  Wheatley, [_Golden Khersonese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462), 138.
 
 [^2]: Balbi, _Viaggio Dell’indie Orientali._
