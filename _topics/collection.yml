@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - Online Exclusive.md
       - Editor's Picks.md
       - Archaeology.md
       - Arts/.keep
