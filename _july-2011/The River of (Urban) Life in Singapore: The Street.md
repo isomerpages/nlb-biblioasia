@@ -62,13 +62,15 @@ This lack of permanent dwellers is the primary factor for the loss of street lif
  </i></div>
 
 The resettling of street hawkers had a similar impact. As Chua states, “\[c\]anopied hawkers effectively pedestrianised Chinatown's streets until 1983 when the hawkers were resettled by the Ministry of the Environment” (1989, p. 19). Citing issues of orderliness and hygiene, the resettlement of the hawkers to “hawker centres” essentially removed the final traces of street life remaining in Chinatown. People had one less reason to go there; those who had done so for the food no longer came, further reducing the population density of the place, which in turn impacted street vitality. With the removal of the “live” element represented by its residents, street life in Chinatown was effectively decimated, reduced to a shadow of its former self.
+<img src="/images/Vol%207%20Issue%202/RiverUrban/Refurbished_1.jpg" style="width:100%;">
+ <div style="background-color: white;">Refurbished shophouse facades around present-day Chinatown include that &amp; the Chinatown Heritage Centre on Pagoda Street.<i> Photo taken by the author.</i></div>
 
 #### **Reviving Chinatown**
 
 This lack of vibrant street life persisted even when efforts were made by the government to revive this part of the city. In the 1980s, the government began a conservation movement in response to the demand of tourists searching for but failing to find an “exotic” East in Singapore. Chinatown was designated as one of many areas earmarked for conservation. The results are visually striking: brightly coloured rows of restored shophouses now line its streets. Improvement and restoration works were conducted on the “traditional Chinese Baroque-style buildings” (Li, 1998). Yet such efforts were criticised by citizens for the transformation of Chinatown into merely “another promotional effort for the tourists, far removed from the practicalities of [the locals] daily lives” (Kong, 2003, p. 361). Some viewed the present Chinatown “as ‘a kitsch representation of mainland Chinese icons’, and [...] a product that was merely artistic but lacked the soul of Chinatown past” (*The Straits Times*, 1999).
 
 <img src="/images/Vol%207%20Issue%202/RiverUrban/Refurbished_3.jpg" style="width:100%;">
- <div style="background-color: white;">Refurbished shophouse facades around present-day Chinatown include that &amp; the Chinatown Heritage Centre on Pagoda Street.<i>Photo taken by the author.</i></div>
+ <div style="background-color: white;">Refurbished shophouse facades around present-day Chinatown include that &amp; the Chinatown Heritage Centre on Pagoda Street.<i> Photo taken by the author.</i></div>
 	
 	
 	Smith Street of the present-day. The outdoor eating area is now named "Chinatown Food Street." <i> Photo taken by the author.</i>
@@ -76,8 +78,7 @@ This lack of vibrant street life persisted even when efforts were made by the go
 Singaporeans were dismissive of Chinatown as they “are not convinced that conservation is for locals” (Kong, 2003, p. 361). They regarded the conservation process as an exercise designed to appeal to the tourist trade, as opposed to something meaningful for them. Ironically, the tourists themselves regarded the “new” Chinatown as somewhat artificial, mentioning that “the restored shop houses are nice, but the place still lacks something” (Tan, 1996). In contrast to its earlier, more bustling days, when Chinatown was once “said to be a place with no night” (Kong, 2003, p. 361),[^3] the overt focus on the presentation of Chinatown as a tourist attraction has resulted in it becoming “a ghost town after 6 pm” (Ibid.) when the tourists leave. Such a situation continues to persist even until today.
 
 <img style="width:100%;" src="/images/Vol%207%20Issue%202/RiverUrban/Refurbished_2.jpg">
- <div style="background-color: white;">Refurbished shophouse facades around present-day Chinatown include that &amp; the Chinatown Heritage Centre on Pagoda Street.<i>Photo taken by the author.</i></div>
- 
+ <div style="background-color: white;">Refurbished shophouse facades around present-day Chinatown include that &amp; the Chinatown Heritage Centre on Pagoda Street.<i> Photo taken by the author.</i></div>
  
 Efforts to recreate a bustling Chinatown were regarded by some as contrived and insipid because the “live” element previously contributing to the generation of street life was not, or perhaps could not be taken into consideration.[^4] The STB and the URA’s attempts to recreate the past vitality of Chinatown with an overt focus on the physical landscape reveal little consideration for social elements like “the genuine longstanding trades and small businesses, and the concomitant familiar retailer-client relationships” (Ibid.). These represented the “soul” of Chinatown – the everyday lived experiences of the residents that can neither be generated nor reconstructed at will by top-down policies. Consequently, the resettlement policy initiated in the name of urban redevelopment led to the removal of the social fabric needed to create and sustain street life. Coupled with the lack of participation in these places by the local population, these factors will continue to limit the level of activity in the streets of Chinatown.
 
