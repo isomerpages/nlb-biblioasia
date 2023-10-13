@@ -8,7 +8,7 @@ description: "Assistant Curator at the National Museum of Singapore Daniel Tham
 ---
 #### Assistant Curator at the National Museum of Singapore&nbsp;_Daniel Tham_&nbsp;shares more about the exhibition “Serangoon: A Place Like No Other” held at the newly opened Serangoon Public Library.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/VerdantGrounds/Serangoon.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/VerdantGrounds/Serangoon.jpg">
  <div style="background-color: white;">“Sirangoon” (present-day Serangoon) used to refer to the areas we call Paya Lebar and Bedok today, as shown in this 1873 map (Chief Surveyor, Singapore). <i>Courtesy of the National Archives of Singapore.</i></div>
 
 The history of modern Singapore has been marked by relentless change to its geographical and social landscape. From its establishment as a port settlement under colonial rule to its post-independence emergence as a global metropolitan city, the ongoing processes of urban development and transnational migration have unceasingly reconfigured the island's boundaries, economy and culture. This has been most evident in the growth and development not only of the town centre, but also the changing functions and character of surrounding localities and estates around the island.
@@ -21,18 +21,18 @@ Significantly, the common historical narrative of Singapore's post-independence 
 
 However, as the exhibition title aptly suggests, the emphasis of this historical excursion into Serangoon's transformation lies more in asserting the estate's distinctiveness and unique identity. This is achieved by uncovering curiosities such as the nomenclature of road names like Lorong Ong Lye and Lorong Lew Lian – referring respectively to pineapples and durians as part of the estate's legacy of fruit-planting – and pointing out the estate's connection with famous personalities like rubber merchant Ee Teow Leng and “Bee Hoon King” Lim Ah Pin, both of whom have roads named after them.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/VerdantGrounds/Bee%20Hoon%20King.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/VerdantGrounds/Bee%20Hoon%20King.jpg">
  <div style="background-color: white;">Portrait of “Bee Hoon King” Lim Ah Pin (front row, second from right) and his wife Florence Yeo (front row, second from left), both of whom have roads in Serangoon named after them. <i>Courtesy of Larry Lim.</i></div>
 
 To demonstrate the formation and evolution of a unique Serangoon identity, much attention is given to the cultural domains of food and popular entertainment. Through the active contributions of long-time residents, familiar old haunts like Punggol Point and Paramount Theatre are fondly recollected and reminisced, along with current enduring favourites like Chomp Chomp Food Centre, built in 1972 to house hawkers in the area. Here, the geographical and cultural distinctiveness of Serangoon is represented through the subjective lived experiences of individuals and their shared memory as a community.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/VerdantGrounds/Noodles%20.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/VerdantGrounds/Noodles%20.jpg">
  <div style="background-color: white;">Noodles hanging out to dry at Kampong Serangoon Kechil. <i>Courtesy of National Archives of Singapore.</i></div>
 
 This reliance on nostalgic recollections facilitates the writing of the history of Serangoon from the ground up, with the lively individual accounts of residents presented in rich ethnographic tones. Anecdotes involving topics as disparate as gangster activities, crocodile hunting and glass-stringed kite fighting serve not only as candid or even quirky accounts, but also as precious and meaningful records of collective memory. This is supplanted with a home video montage of filmed everyday scenes of Serangoon Gardens in the 1960s, compiled from the contribution of a former resident, David Donnelly, whose family was among the many families of British and Australian servicemen based in Singapore and Malaya living in Serangoon Gardens.
 
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/VerdantGrounds/Marbel%20Wee.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/VerdantGrounds/Marbel%20Wee.jpg">
  <div style="background-color: white;">Mabel Wee's sister and her classmates at The Convent of Our Lady of Good Counsel at Cooling Close in the 1960s. <i>Courtesy of Mabel Wee.</i></div>
 
 Viewed as a whole, these oral and visual records allude nostalgically to a life that was once communal, spontaneous and carefree. Such a romanticisation of the past operates subtly as a critique of the constraints and rigidity of modern living, arguably the inevitable consequences of social change. One is reminded, in addition, of the various ways of life that have been left behind inadvertently as a result of progress. This includes vanishing trades like farming, fishing, boat repairing and ceramics production, and charmingly obsolete practices like the door-to-door personalised services rendered by food hawkers and confectioners.
@@ -43,7 +43,7 @@ The use of individual accounts in this exhibition also allows for the contestati
 
 Although “Serangoon: A Place Like No Other” clearly relies on nostalgia as the immediate means of engaging its audience, it does venture beyond nostalgia in presenting the case for the estate's unique historical significance. As a rural plantation area during the Japanese Occupation, Serangoon was notable as a place of refuge from the Japanese, who did not have a strong presence there. As it grew as a residential estate, it became well known for its high concentration of schools. Its historical landmarks are also well noted, ranging from the surviving Japanese Cemetery Park, established in 1891, to the former Alkaff Gardens, which opened to the public in 1929.
 
-<img style="width:80%;" src="/images/Vol%207%20Issue%202/VerdantGrounds/Upper%20Serangoon%20Road.jpg">
+<img style="width:100%;" src="/images/Vol%207%20Issue%202/VerdantGrounds/Upper%20Serangoon%20Road.jpg">
  <div style="background-color: white;">Of the various  estates and properties owned by the well-to-do along Upper Serangoon Road, Alkaff Gardens, which belonged to the notable Alkaff family of traders and landowners, was one of the best-known landmarks. Designed by Japanese landscapers, Alkaff Gardens was opened to the public in 1929 and sold to a developer in 1949. Currently, the site is occupied by Cedar Girls' Secondary School. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Whether as a mirror to Singapore's own development, or as a unique estate with its own historical and cultural identity, Serangoon is celebrated in this exhibition as a neighbourhood that embraces diversity. This is most pronounced in the exhibition's concluding sections, which pay tribute to the ethnic and religious diversity contained within the estate, as well as the harmonious relationships shared by its different communities. Yet, because these multicultural ties are presented as rooted in the communal lifestyle of old Serangoon, the accounts of these cross-cultural relations do raise the question of whether and how ties will bind in the context of increasing individualisation, a typical phenomenon of modern living.
