@@ -114,11 +114,11 @@ Alan Choe, “Urban Renewal,” in [_Modern Singapore_](https://eservice.nlb.gov
 
 Alan James Christian Mayne, _Representing the Slum: Popular Journalism in a Late Nineteenth Century City_ (Melbourne: University of Melbourne, 1991) &nbsp;
 
-Alan Smart, “Impeded Self-Help: Toleration and the Proscription of Housing Consolidation in Hong Kong’s Squatter Areas,” _Habitat International_, 27, no. 2 (June 2003), 205–25.
+Alan Smart, “Impeded Self-Help: Toleration and the Proscription of Housing Consolidation in Hong Kong’s Squatter Areas,” _Habitat International_ 27, no. 2 (June 2003): 205–25.
 
 Alan Smart, _The Shek Kip Mei Myth: Squatters, Fires and Colonial Rulers in Hong Kong_ (Hong Kong: Hong Kong University Press, 2006)
 
-Antonio Gramsci, _Prison Notebooks_ (New York: Columbia University Press, 1992) (Edited with an introduction by Joseph A. Buttigieg)
+Antonio Gramsci, _Prison Notebooks_ (New York: Columbia University Press, 1992). (Edited with an introduction by Joseph A. Buttigieg)
 
 Aprodicio A. Laquian, [_The City in Nation-Building: Politics and Administration in Metropolitan Manila_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=312872) (Manila: School of Public Administration, 1966). (Call no. RCLOS 320.99141 LAQ)
 
@@ -126,7 +126,7 @@ Aprodicio A. Laquian, [_Slums Are for People: The Barrio Magsaysay Pilot Project
 
 Aprodicio A. Laquian, “Slums and Squatters in South and Southeast Asia,” in [_Urbanisation and National Development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=467809), ed. Leo Jakobson and Ved Prakas (Beverly Hills: Sage Publications, 1971), 183–204. (Call no. RCLOS 301.3630959 JAK)
 
-Ceinwen Giles, “The Autonomy of Thai Housing Policy,” _Habitat International_, 27, no. 2 (June 2003), 227–44.
+Ceinwen Giles, “The Autonomy of Thai Housing Policy,” _Habitat International_ 27, no. 2 (June 2003): 227–44.
 
 Centre for Social Action (Bangalore, India), _India’s Growing Slums_ (Bangalore: Centre for Social Action, 2000)
 
@@ -154,7 +154,7 @@ Howard W. Dick, [_Surabaya, City of Work: A Socioeconomic History, 1900–2000_]
 
 Kementerian Penerangan, Malaysia [_Squatters in Kuala Lumpur_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5017180) (Kuala Lumpur: Jabatan Penerangan, 1971). (Call no. RUR SEA 711.5909595132.K8 MAL)
 
-James C. Scott, _[Weapons of the Weak: Everyday Forms of Peasant Resistance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3773278)_ (New Haven: Yale University Press, 1985). Call no.: RCLOS 301.444309595 SCO
+James C. Scott, _[Weapons of the Weak: Everyday Forms of Peasant Resistance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3773278)_ (New Haven: Yale University Press, 1985). Call no. RCLOS 301.444309595 SCO)
 
 James C. Scott, _Domination and the Arts of Resistance: Hidden Transcripts_ (New Haven: Yale University Press, 1990)
 
@@ -174,15 +174,15 @@ Mary Douglas, [_Mary Douglas: Collected Works_](https://eservice.nlb.gov.sg/item
 
 Matias Echanove and Rahul Srivastava, “Taking the Slum Out of ‘Slumdog’,” _New York Times_, 21 February 2009, A21.
 
-Michael Johnstone, “The Evolution of Squatter Settlements in Peninsular Malaysian Cities,” _Journal of Southeast Asian Studies_, 12, no. 2 (September 1981), 364–80. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+Michael Johnstone, “The Evolution of Squatter Settlements in Peninsular Malaysian Cities,” _Journal of Southeast Asian Studies_ 12, no. 2 (September 1981): 364–80. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-Michael Johnstone, “Urban Squatting and migration in Peninsula Malaysia,” _International Migration Review_, 17, no, 2 (Summer 1983), 291–322. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+Michael Johnstone, “Urban Squatting and migration in Peninsula Malaysia,” _International Migration Review_ 17, no, 2 (Summer 1983): 291–322. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 Morris Juppenlatz, [_Cities in Transformation: The Urban Squatter Problem of the Developing World_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=66790) (St. Lucia: University of Queensland Press, 1970). (Call no. RUR SEA 301.363091724 JUP)
 
-Richard L. Stone, _[Philippine Urbanization: The Politics of Public and Private Property in Greater Manila](https://eservice.nlb.gov.sg/item_holding.aspx?bid=332931)_ (DeKalb: Northern Illinois University, 1973) (Call no.: RCLOS 346.59904 STO)
+Richard L. Stone, _[Philippine Urbanization: The Politics of Public and Private Property in Greater Manila](https://eservice.nlb.gov.sg/item_holding.aspx?bid=332931)_ (DeKalb: Northern Illinois University, 1973) (Call no. RCLOS 346.59904 STO)
 
-Samuel P. Huntington, “The Bases of Accommodation,” _Foreign Affairs_. 46, no. 4 (July 1968), 642–56. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+Samuel P. Huntington, “The Bases of Accommodation,” _Foreign Affairs_ 46, no. 4 (July 1968): 642–56. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 Sicat, G. M. (1979). “Housing Finance,” in _[Housing Asia’s Millions: Problems, Policies, and Prospects for Low-Cost Housing in Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1850296)_, ed. Stephen H. K. Yeh and A. A. Laquian (Ottawa: International Development Research Centre, 1979), 81–91. (Call no. RSING 363.5095 HOU)
 
