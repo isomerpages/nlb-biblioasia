@@ -1,11 +1,11 @@
 ---
 title: The Myth of the ‘Squatter’ and the Emergency Housing Discourse in Post war
 permalink: /vol-5/issue-3/oct-2009/post-war-squatter-emergency-housing/
-description: "Lee Kong Chian Research Fellow Loh Kah Seng unpacks the myths and
+description: Lee Kong Chian Research Fellow Loh Kah Seng unpacks the myths and
   metaphors of informal housing in Southeast Asia and its associated post-war
-  representations. "
+  representations.
 ---
-#### Lee Kong Chian Research Fellow _Loh Kah Seng_ unpacks the myths and metaphors of informal housing in Southeast Asia and its associated post-war representations.
+#### Lee Kong Chian Research Fellow&nbsp;_Loh Kah Seng_&nbsp;unpacks the myths and metaphors of informal housing in Southeast Asia and its associated post-war representations.
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/MythSquatters/YoungCommunity.jpg">
  <div style="background-color: white;">A young community in Klong Toey, Bangkok, Thailand. <i>Image reproduced from Chira Sakornpan et al. (1971). Klong Toey: A Social Work Survey of a Squatter Slum,p. 9. All rights reserved, Thailand Thammasat University, 1971.</i></div>
@@ -18,12 +18,12 @@ The very nature of informal housing was inimical to the states of Southeast Asia
 
 The classic informal settlement in post-war Southeast Asia and Hong Kong was anything but that. They were the unplanned products of a massive population boom and various forms of transnational, rural-urban and intra-urban migration of low-income families after the war (Yeung and Lo 1976, xviii). By 1961, there were an estimated 750,000 informal dwellers in Jakarta (constituting 25% of the city’s population), 320,000 in Manila (23%), 250,000 in Singapore (26%), and 100,000 in Kuala Lumpur (25%) (McGee 1970, 123).
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/MythSquatters/Informal%20Dwellers.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/MythSquatters/Informal%20Dwellers.jpg">
  <div style="background-color: white;">Informal dwellers living in boats in Hong Kong. <i>Image reproduced from Golger, O. J. (1966). Squatters and Resettlement: Symptoms of an Urban Crisis: Environmental Conditions of Low-standard Housing in Hong Kong. All rights reserved, Wiesbaden, O. Harrassowitz, 1972.</i></div>
 
 The informal house was typically built without planning approval and with light semipermanent materials such as wood, attap and zinc. The numbers of such housing grew rapidly after the war at the physical and administrative margins of the city: in war-damaged sectors; on steep hillsides, unused cemeteries and rooftops of existing shop houses; along railway tracks, dried up riverbanks and canals; in boats, foreshore areas and parks; and over swampy ground, disused mining land and rubbish dump sites (Sendut 1976, Johnstone 1981, McGee 1967, Dwyer 1976, Giles 2003, Dick 2003, Laquian 1969, Stone 1973). The peripheral locations of informal settlements caused the state much anxiety. They were spaces where official control was weakest and where, as the state feared, any social change could profoundly alter the character of society (Douglas 2002, 150).
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/MythSquatters/Informal%20Housing.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/MythSquatters/Informal%20Housing.jpg">
  <div style="background-color: white;">Informal housing built on hillsides in Hong Kong. <i>Image reproduced from Dwyer, D. J. (1975). People and Housing in Third World Cities: Perspectives on the Problem of Spontaneous Settlements. Plate 8 between pp. 36 and 37. All rights reserved, Longman, 1975.</i></div>
 
 The official fear of informal housing did not arise merely over housing form or geography. It was deeply reinforced by how their residents, far from being disorganised and marginal, like the housing, formed dynamic social communities. On the one hand, as scholars in other contexts have observed, informal housing dwellers were well-integrated into the politics and economy of the city and country (Perlman 1976, Castells 1983). On the other hand, the dwellers possessed their own networks of mutual self-help, much of which was frowned upon by the state.
@@ -50,7 +50,7 @@ The discursive vocabulary of “squatters” was common in official statements o
 
 Abrams and other Western urban planners such as Morris Juppenlatz frequently advised Southeast Asian governments on housing and urban planning after the war. Juppenlatz was a United Nations town planner who had worked in post-war Manila, Hong Kong and Rio de Janeiro. Drawing from the stark, powerful metaphors of disease and contagion, he represented informal housing as “a plague” and an “urban sickness”. Juppenlatz reveals his highly modernist mind in expressing his distaste for the physical appearance of informal settlements, where “\[t\]he outward appearance of the malady, the urban squatter colonies, when viewed from the air, from a helicopter, is that of a fungus attached to and growing out from the carapace of the city”.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/MythSquatters/Cities%20in%20transformation_p111.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/MythSquatters/Cities%20in%20transformation_p111.jpg">
  <div style="background-color: white;">Informal housing built on both sides of a railway line in North Harbour, Manila, Philippines. <i>Image reproduced from Juppenlatz, M. (1970). Cities in Transformation: The Urban Squatter Problem of the Developing World, p. 111. All rights reserved, University of Queensland Press, 1970.</i></div>
 
 He blamed many of the cholera outbreaks in Philippine cities on the physical environment of the informal settlements and the social habits of their residents. The basic solution, Juppenlatz urged, was to organise the residents’ integration into the state as tax-paying citizens. In this, the government’s role was pivotal and needed to be “based on the scientific method and planned urban development throughout the entire nation” (Juppenlatz 1970, 1–5, 41, 104, 212). Abrams had also warned that the “diseases of housing rival those in pathology” (Abrams 1965, 40).
@@ -61,7 +61,7 @@ British officials in the colonies fully endorsed these abject views of informal 
 
 The likening of informal housing development to the spread of disease in official and even academic discourse underlines the social and moral danger the residents were alleged to pose. They were regarded not only as a threat to themselves but also to the fabric of society at large. Many official and academic commentators also did not fail to point to the alleged prevalence of crime and gangsterism in the informal settlements. Juppenlatz emphasised that the Oxo and Sigue Sigue – organised criminal gangs in Manila – were based in informal housing areas (Juppenlatz 1970, 107). In Jakarta, groups of *djembel-djembel* (“vagabonds”), also based in slums and informal settlements, gained a reputation for being responsible for much of the crime in the city (Cited in McGee 1967, 159).
 
-<img style="width:50%;" src="/images/Vol%205%20Issue%203/MythSquatters/Housing%20Railway%20Track.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/MythSquatters/Housing%20Railway%20Track.jpg">
  <div style="background-color: white;">Informal housing built along a railway track in Jakarta, Indonesia.  <i>Image reproduced from Dwyer, D. J. (1975), People and Housing in Third World Cities: Perspectives on the Problem of Spontaneous Settlements. Plate 6 between pp. 36 and 37. All rights reserved, Longman, 1975.</i></div>
  
 In Malaysia, increased overcrowding in the cities produced “a mood of urban anxiety”, with which not only the state but also the middle class viewed their values to be coming under severe threat (Harper 1998, 218). The Ministry of Local Government and Housing depicted informal settlements in Kuala Lumpur in 1971 as “seedbeds of secret societies and racketeers” (Malaysia Ministry of Local Government and Housing 1971, 42).
@@ -95,7 +95,7 @@ In the Philippines, informal dwellers, local politicians and senior administrato
 
 tlements, gained a reputation for being responsible for much of the crime in the city (Cited in McGee 1967, 159).
 
-<img style="width:50%;" src="/images/Vol%205%20Issue%203/MythSquatters/Tondo.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/MythSquatters/Tondo.jpg">
  <div style="background-color: white;">Informal housing in Tondo, Manila, Philippines. <i>Image reproduced from Aprodicio A. L. (1983). Basic Housing: Policies for Urban Sites, Services, and Shelter in Developing Countries, p. 103. All rights reserved, Canadian International Development Research Centre, c1983.</i></div>
 
 In Manila, both national and local politicians were bound up in a mutually beneficial relationship: both needed each other to win elections. They also aligned themselves with informal dwellers to win votes, while the residents themselves made use of such patronage to resist eviction and win lawful tenure of their occupation from the state (Laquian 1966, 54, 118). The result of these complicated tangles of state-society relations was that most Southeast Asian states usually embarked on limited, shortterm and visible “prestige projects”. T. G. McGee has observed that “national prestige, more than national concern for the social welfare of squatters, has been the most active force leading to their shift in these two cases”, but this, in the final analysis, merely maintained the status quo (McGee 1967, 169–70).
@@ -112,7 +112,7 @@ Asef Bayat, “Globalisation and the Politics of the Informals in the Global Sou
 
 Alan Choe, “Urban Renewal,” in [_Modern Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081919), ed. Ooi Jin-Bee and Chiang Hai Ding (Singapore: University of Singapore, 1969), 161–70. (Call no. RSING 959.57 OOI)
 
-Alan James Christian Mayne, _Representing the Slum: Popular Journalism in a Late Nineteenth Century City_ (Melbourne: University of Melbourne, 1991)  
+Alan James Christian Mayne, _Representing the Slum: Popular Journalism in a Late Nineteenth Century City_ (Melbourne: University of Melbourne, 1991) &nbsp;
 
 Alan Smart, “Impeded Self-Help: Toleration and the Proscription of Housing Consolidation in Hong Kong’s Squatter Areas,” _Habitat International_, 27, no. 2 (June 2003), 205–25.
 
@@ -140,13 +140,13 @@ Charles Abrams, “Squatting in the Philippines,” in [_Slums and Urbanization_
 
 D. J. Dwyer, [_People and Housing in Third World Cities: Perspectives on the Problem of Spontaneous Settlements_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=466072) (London: Longman, 1975). (Call no. RUR 01.54091724 DWY)
 
-D. J. Dwyer, “The Problem of in Migration and Squatter Settlement in Asian Cities: Two Case Studies, Manila and Victoria Kowloon,” in [_Changing South-East Asian Cities: Readings on Urbanisation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=958076), ed. Y. M. Yeung & C. P. Lo (Singapore: Oxford University Press, 1976), 131–41. (Call no. RSING 301.3630959 CHA)
+D. J. Dwyer, “The Problem of in Migration and Squatter Settlement in Asian Cities: Two Case Studies, Manila and Victoria Kowloon,” in [_Changing South-East Asian Cities: Readings on Urbanisation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=958076), ed. Y. M. Yeung &amp; C. P. Lo (Singapore: Oxford University Press, 1976), 131–41. (Call no. RSING 301.3630959 CHA)
 
 Gregory Clancey, “Towards a Spatial History of Emergency: Notes From Singapore,” in [_Beyond Description: Singapore Space Historicity_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12266654), ed. Ryan Bishop, John Phillips and Wei-Wei Yeo (London: Routledge, 2004), 30–60. (Call no. RSING 307.1216095957 BEY)
 
 H. Gurney to Sir T. Lloyd, 8 October 1948, Enclosure “Groups in the Chinese community in Malaya”. (From Britain Colonial Office file no. CO 537/3758)
 
-Hamzah Sendut, “Contemporary Urbanisation in Malaysia,” in [_Changing South-East Asian Cities: Readings on Urbanisation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=958076), ed. Y. M. Yeung & C. P. Lo (Singapore: Oxford University Press, 1976), 76–81. (Call no. RSING 301.3630959 CHA)
+Hamzah Sendut, “Contemporary Urbanisation in Malaysia,” in [_Changing South-East Asian Cities: Readings on Urbanisation_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=958076), ed. Y. M. Yeung &amp; C. P. Lo (Singapore: Oxford University Press, 1976), 76–81. (Call no. RSING 301.3630959 CHA)
 
 Housing Committee, Singapore, _[Report, 1947](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982364)_ (Singapore: Government Printing House, 1948). (Call no. RCLOS 711.4095951 SIN; microfilm NL10187)
 
