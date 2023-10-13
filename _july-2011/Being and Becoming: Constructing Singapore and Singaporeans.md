@@ -3,7 +3,7 @@ title: "Being and Becoming: Constructing Singapore and Singaporeans"
 permalink: /vol-7/issue-2/jul-2011/singapore-singaporeans-constructing-becoming/
 description: ""
 ---
-#### Associate Research Fellow **Chan Wen Ling** argues that society needs to move towards a more inclusive non-ethnic understanding of a Singaporean Singapore in order to thrive in a globalised world.
+#### Associate Research Fellow *Chan Wen Ling* argues that society needs to move towards a more inclusive non-ethnic understanding of a Singaporean Singapore in order to thrive in a globalised world.
 #### 
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%202/BeingBecoming/Web%20Banner.jpg">

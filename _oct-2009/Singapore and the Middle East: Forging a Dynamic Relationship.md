@@ -1,19 +1,26 @@
 ---
 title: "Singapore and the Middle East: Forging a Dynamic Relationship"
 permalink: /vol-5/issue-3/oct-2009/singapore-malaysia-dynamic-relationship/
-description: "Researcher Bouchaib Silm considers the relationship between
+description: Researcher Bouchaib Silm considers the relationship between
   Singapore and the Middle East, how they can move towards a more vital and
   dynamic relationship, and how Singapore can play a pivotal role in
-  reconnecting the Middle East with the rest of Asia. "
+  reconnecting the Middle East with the rest of Asia.
 ---
-#### Researcher _Bouchaib Silm_ considers the relationship between Singapore and the Middle East, how they can move towards a more vital and dynamic relationship, and how Singapore can play a pivotal role in reconnecting the Middle East with the rest of Asia.
+#### Researcher&nbsp;_Bouchaib Silm_&nbsp;considers the relationship between Singapore and the Middle East, how they can move towards a more vital and dynamic relationship, and how Singapore can play a pivotal role in reconnecting the Middle East with the rest of Asia.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Prince%20Sultan%20&%20SM%20Goh1.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Prince%20Sultan%20&amp;%20SM%20Goh1.jpg">
  <div style="background-color: white;">The 28th Singapore Lecture by HRH Prince Sultan Bin Abdul Aziz Al-Saud, Crown Prince, Deputy Premier, Minister of Defence and Aviation and Inspector General, Kingdom of Saudi Arabia HRH Prince Sultan Bin Abdul Aziz Al-Saud (left) and Senior Minister Goh Chok Tong (right). <i>Courtesy of Ministry of Foreign Affairs, Singapore.</i></div>
  
 While Singapore’s system of governance has proved its efficiency and sustainability, there are serious concerns about whether successful stories such as Singapore’s can serve to stimulate change in other countries, including those in the Arab world. Unfortunately, Arab societies tend to be conservative, and therefore lag behind in global integration.
 
+<img src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/human%20development%20index1.jpg" style="width:100%;">
+ <div style="background-color: white;">Reproduced from Table 01, Arab Human Development Report 2009: Challenges to Human Security in the Arab Countries <a href="https://arab-hdr.org/report/human-security-2009/">https://arab-hdr.org/report/human-security-2009/</a>. All rights reserved, United Nations Development Programme, Regional Bureau for Arab States (RBAS), 2009.</div>
+
 History has shown that Arab culture is actually very dynamic and highly capable of learning and making progress. In the eighth century, the Abassid Khalif al Ma’mun, son of the famous Abassid Khalif Harun Al Rasheed, established the “Bait al-Hikma” or House of Wisdom in Baghdad, Iraq. Al Ma’mun gave orders for important books in different fields of knowledge in the Greek, Persian and Indian languages to be translated into Arabic.[^1] Arab scholars accumulated a great collection of knowledge about the world, and built on it through their own discoveries.
+
+<img src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/energy%20sources1.jpg" style="width:100%;">
+ <div style="background-color: white;">Reproduced from Table 20, Arab Human Development Report 2009: Challenges to Human Security in the Arab Countries <a href="https://arab-hdr.org/report/human-security-2009/">https://arab-hdr.org/report/human-security-2009/</a>. All rights reserved, United Nations Development Programme, Regional Bureau for Arab States (RBAS), 2009
+</div>
 
 Such achievements enabled the rise of the Arabic-speaking Islamic civilisation, which later became the blueprint for the European Renaissance. Meanwhile, the recent rise of an Arab business intelligentsia that is equipped with excellent educational qualifications and ready to face new challenges has demonstrated the ability of Arabs to learn from the experiences of others. For instance, the six countries of the Gulf Cooperate Council (or GCC), Saudi Arabia, the United Arab Emirates, Qatar, Bahrain, Kuwait and Oman, in general, and the United Arab Emirates in particular, offer clear examples of the readiness of the Gulf Arab societies to acquire new knowledge, and of how Arab societies can study and implement new knowledge that has been received from different societies.
 
@@ -31,14 +38,14 @@ This list of problems could, perhaps, lead to a very negative impression of the 
 
 As Singapore’s Senior Minister Goh Chok Tong has rightly observed, the Middle East is “experiencing breathtaking development.”[^7] Like Singapore, the Gulf States are exploring the viability of creating, controlling and selling their technology. City-states such as Dubai in the United Arab Emirates have set an excellent example for other countries in the Middle East. In light of this, it is fair to assert that, while oil is certainly an enabling factor, it is not the determining factor for the region’s economic progress. The Middle East has slowly responded to the changes taking place in the world,[^8] but a great deal of work and determination are still needed. For instance, there is a strong need for economic integration in order to give the region a major role in the global economy.[^9]
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/MOU%20signing.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/MOU%20signing.jpg">
  <div style="background-color: white;">Mr Philip Yeo, Chairman, SPRING Singapore, signing a MOU of cooperation with the Qatari Businessmen Association to facilitate experience sharing on the development of SMEs Looking on (left) is Senior Minister Goh Chok Tong. <i>Courtesy of the Singapore Business Federation.</i></div>
 
 #### **Singapore and the Middle East: Increasing Mutual Cooperation**
 
 Serious engagement between Singapore and the Middle East began in 2004, when Mr Goh made several official visits to the Middle East.[^10] These visits were soon followed by Singapore’s hosting of the inaugural Asia-Middle East Dialogue (AMED) in June 2005, which offered an opportunity for Middle Eastern representatives and their counterparts from other Asian countries to discuss issues of mutual concern.[^11] AMED enabled policymakers, intellectuals and businessmen to discover a wide range of opportunities for cooperation, and led to several bilateral agreements between their countries.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Shaikh%20Salman%20bin%20Hamad.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Shaikh%20Salman%20bin%20Hamad.jpg">
  <div style="background-color: white;">His Highness Shaikh Salman bin Hamad Al-Khalifa, Crown Prince of the Kingdom of Bahrain, delivering his address at the launch of the SBF Middle East Business Group Knowledge Partners Programme, 16 September 2008, Singapore. <i>Courtesy of the Singapore Business Federation.</i></div>
 
 As a follow-up, the Singapore Business Federation (SBF) launched the Middle East Business Group in March 2007, which set out with two primary objectives: to foster strong ties between business chambers and companies from both sides, and to provide consultations for local companies with business interests in the Middle East.[^12] Even so, the options for economic cooperation between Singapore and the Middle East have been relatively few, regardless of the opportunities. One reason for this could be the Western-centric approach of Singapore’s foreign policy. Recent events, such as the 11 September 2001 attacks on the United States of America, have resulted in a shift towards the promotion of a more intensive Asia-Middle Eastern engagement.
@@ -66,7 +73,13 @@ First, the government has to think ahead, so as to identify areas for future dev
 
 Second, since to err is human and it is only natural to make mistakes, a dynamic government must not be reluctant to review its performance objectively, and it must be ready to revise its policies whenever necessary. One may argue that when a government revises its original position, it implies that it is incompetent. However, this argument is deeply flawed and disregards the fact that no one is infallible, including government leaders. A leadership that refuses to accept that it has failed will produce a society that is unable to learn from its own mistakes. On the other hand, revising one’s previous position is a crucial factor that sets a successful government apart from a failed regime. It “requires leaders who are willing to confront the realities of current performances and feedback, and to challenge the status quo.” [^18]
 
+<img src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/current%20transformations%202.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Emirates Centre for Strategic Studies and Research, Abu Dhabi, 2007.</div>
+
 The third characteristic of a dynamic government is its ability to “think across” traditional orders and boundaries in order to learn from the experiences of others.[^19] What happens when the set agenda does not work, and when there is an urgent need for a change in strategy? How can a leadership think of new ways to achieve its agenda, and where can the new ideas be found? Barriers against sharing ideas for development are dissolved when leaders, as well as individual citizens, become eager to share their success with other nations through the media and cooperative exchange programmes. To learn from its own mistakes while following the examples of others does not undermine the legitimacy of a country’s leadership. Instead, these characteristics reflect the open-minded spirit of learning new ideas and strategies, while also accepting the inherent limitations of the human condition.
+
+<img src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/⁯middle%20east%20oil1.jpg" style="width:50%;">
+ <div style="background-color: white;">All rights reserved, Edward Elgar Publishing, c2006.</div>
 
 To succeed, a society must allow and encourage its people to innovate and think into the future, and it must also refrain from making harsh judgments against those who have failed. A society that opens its people’s minds to learn from the experiences of others is a dynamic society that is able to differentiate between pride and pragmatism. Refusal to do so will only result in isolation in an increasingly globalised world.
 
@@ -87,8 +100,8 @@ Singapore’s experience is also attracting the attention of other Asian states,
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Bouchaib%20Silm.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Bouchaib%20Silm.jpg" style="width: 100px; height: 100px;">
 <center><b>Bouchaib Silm</b><br>Researcher<br> National Library</center> </div>
 
 #### **REFERENCES**
@@ -121,48 +134,50 @@ The World Bank, _Middle East and North Africa Region 2007: Economic Developments
 
 #### **NOTES**
 
-[^1]: Whitaker, "Centuries in the House of Wisdom."
-      
-[^2]: The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_, 1, 6.
+[^1]: Brian Whitaker, “Centuries in the House of Wisdom: Iraq’s Golden Age of Science Brought Us Algebra, Optics, Windmills and Much More,” accessed 13 July 2009, [https://www.theguardian.com/education/2004/sep/23/research.highereducation1](https://www.theguardian.com/education/2004/sep/23/research.highereducation1).
+
+[^2]: The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_ (Abu Dhabi: Emirates Center for Strategic Studies, 2004), 1, 6.
 
 [^3]: The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_, 83.
 
-[^4]: Askari, [_Middle East Oil Exporters_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338), 83.
+[^4]: Hossein Askari, _[Middle East Oil Exporters: What Happened to Economic Development?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338)_ (Cheltenham: Edward Elgar, 2006), 83. (Call no. RBUS 338.956 ASK)
 
-[^5]: Askari, [_Middle East Oil Exporters_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338), 36.
+[^5]: Askari, _[Middle East Oil Exporters](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338)_, 36.
 
-[^6]: The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role_, 144.
+[^6]: The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role in Realizing Change in the Arab World_ (Abu Dhabi: Emirates Center For Strategic Studies And Research, 2007), 144.
 
-[^7]: Goh, “[Opening Session](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c2115a8-115d-11e3-83d5-0050568939ad).”
+[^7]: Goh Chok Tong, “[The Opening Session of the Inaugural Asia-Middle East Dialogue (AMED)](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c2115a8-115d-11e3-83d5-0050568939ad),” Shangri La Hotel, Island Ballroom, Singapore, 21 June 2005, transcript, Ministry of Information, Communications and the Arts (From National Archives of Singapore document no. 20050621989)
 
 [^8]: The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role_, 148.
 
-[^9]: Kavoossi, [_Globalization of Business and the Middle East_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9693623), 146.
+[^9]: Masoud Kavoossi, _[The Globalization of Business and the Middle East: Opportunities and Constraints](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9693623)_ (Westport, Conn.: Quorum Books, 2000), 146. (Call no. RBUS 337.56 KAV)
 
-[^10]: Ministry of Foreign Affairs, Singapore, “Bilateral Relations.”
+[^10]: “Bilateral Relations: Middle East,” Ministry of Foreign Affairs, Singapore, &nbsp;accessed 17 July 2009, [https://www.mfa.gov.sg/](https://www.mfa.gov.sg/).
 
 [^11]: Ministry of Foreign Affairs, Singapore, “Bilateral Relations.”
 
 [^12]: Singaporean companies have been very active in various business sectors in the Middle East, including petrochemical distribution, hotel development, water desalination, investment in petrochemical olefin projects, food manufacturing, e-government projects (for example, e-judiciary and e-trade projects), the sale of automotive parts, stationery and printing consumables, oil and gas parts and automotive parts, as well as oil and the petrochemical trade. “SBF Launches Middle East Business Group To Boost Business Ties Between Singapore and the Middle East.”
 
-[^13]: Lee, [_From Third World to First_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 737.
+[^13]: Lee Kuan Yew, _[From Third World to First: The Singapore Story, 1965–2000: Singapore and the Asian Economic Boom](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172)_ (Singapore: Times Editions, 2000), 737. (Call no. RSING 959.57092 LEE)
 
-[^14]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 30.
+[^14]: Neo Boon Siong and Geraldine Chen, _[Dynamic Governance: Embedding Culture, Capabilities and Change in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_ (Singapore: World Scientific, 2007), 30. (Call no. RSING 351.5957 NEO)
 
-[^15]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 32.
+[^15]: Neo and Chen, _[Dynamic Governance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_, 32.
 
-[^16]: Lee, [_From Third World to First_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 736.
+[^16]: Lee, _[From Third World to First](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172)_, 736.
 
-[^17]: Lord, _Modern Prince_, 104.
+[^17]: Cames Lord, _The Modern Prince: What the Leaders Need To Know Now_ (New Haven: Yale University Press, 2003), 104.
 
-[^18]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 37–38.
+[^18]: Neo and Chen, _[Dynamic Governance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_, 37–38.
 
-[^19]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 40.
+[^19]: Neo and Chen, _[Dynamic Governance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_, 40.
 
-[^20]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 120.
+[^20]: Neo and Chen, _[Dynamic Governance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_, 120.
 
-[^21]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 120.
+[^21]: Neo and Chen, _[Dynamic Governance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_, 120.
 
-[^22]: The World Bank, _Middle East and North Africa Region._
+[^22]: The World Bank, _Middle East and North Africa Region 2007: Economic Developments and Prospects_ (Washington: The International Bank for Reconstruction and Development, 2007)
 
-[^23]: Berg, [_Le Hadhramout_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501), 104.
+[^23]: L. W. C. van den Berg, _[Le Hadhramout Et Les Colonies Arabes Dans l’Archipel Indien](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501)_ (Batavia, Impr. du gouvernement, 1886), 104. (Call no. RRARE 325.25309598 BER; microfilm NL7400)
+
+

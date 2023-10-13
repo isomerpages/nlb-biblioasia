@@ -1,10 +1,9 @@
 ---
-title: Theatre
+title: Theatre and Dance
 permalink: /topics/theatre/
 description: ""
 third_nav_title: Arts
 ---
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/chinesepuppettheatre"> Chinese Puppet Theatre: Rekindling a Glorious Past</a>
 <p>Chinese puppetry is a tradition that is slowly losing ground in Singapore. Caroline Chia tells us why this art form should be preserved.</p> 
 <img src="/images/Vol-13-issue-1/chinese-puppet-theatre/01a_chinesepuppet.png">

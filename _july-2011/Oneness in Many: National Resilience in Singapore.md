@@ -3,7 +3,7 @@ title: "Oneness in Many: National Resilience in Singapore"
 permalink: /vol-7/issue-2/jul-2011/singapore-national-resilience-oneness/
 description: ""
 ---
-#### The Singapore government has long championed and sought to inculcate resilience in its population. Associate Professor **Bilveer Singh** affirms the continued vital importance of this strength in adversity for the city-state’s survival.
+#### The Singapore government has long championed and sought to inculcate resilience in its population. Associate Professor *Bilveer Singh* affirms the continued vital importance of this strength in adversity for the city-state’s survival.
 
 Vulnerable states, big or small, are largely successful because of resilience. While the debate continues as to what resilience is and what its constitutive elements are, what cannot be denied is that once a state is able to develop a special capacity to overcome innate challenges and make them part of its DNA and culture, its chances of all-round success and survival are much greater. This largely explains Singapore's ability to immunise itself against various internal and external challenges, and to leverage on its various strengths, manage its weaknesses and come out stronger following adversity. Unlike many other newly independent states, Singapore's approach to organising the state and its people included special efforts to ensure that national accommodation was achieved by leveraging its populace’s diversities and imbuing a sense of “oneness in many”. Through concerted efforts and socialisation, national resilience In Singapore is about developing an enduring capacity to cope with acute challenges and, more importantly, to recover, bounce back and emerge even stronger than before.[^1]
 

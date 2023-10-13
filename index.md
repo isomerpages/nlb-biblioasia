@@ -29,13 +29,13 @@ sections:
       alt: Image alt text
   - infopic:
       title: Operation Jaywick Retold as a Comic Book for Boys
-      subtitle: "Video: BiblioAsia Reels_Print"
+      subtitle: BiblioAsia Reels
       id: infopic
       description: Disguised as local fishermen, Australian and British commandos
         launched a clandestine raid on Japanese ships in Singapore’s Keppel
         Harbour.
       button: Watch The Video
-      url: /videos/reels/print/
+      url: /videos/reels/war/
       image: "/images/Videos: BiblioAsia Reels/victory boys.png"
       alt: Image alt text
   - infopic:
@@ -61,7 +61,7 @@ sections:
       alt: Women's Relay
   - infopic:
       title: Professor Yu Chun Yee Plays on NLB's Heritage Piano
-      subtitle: "Video: BiblioAsia Reels_Arts"
+      subtitle: BiblioAsia Reels
       id: infopic
       description: Professor Yu, who used to teach at the Royal College of Music in
         London, plays on the refurbished Chappell grand at the National Library.
@@ -71,7 +71,7 @@ sections:
       alt: Professor Yu Chun Yee
   - infopic:
       title: The Frying Pan Piano
-      subtitle: "Video: BiblioAsia Reels_Arts"
+      subtitle: BiblioAsia Reels
       id: infopic
       description: A world-renowned pianist described this concert grand of the
         Victoria Memorial Hall as a "cooking pot and a frying pan". How did it
@@ -113,7 +113,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Interview with Rachel Heng, Author of The Great Reclamation
-      subtitle: "Video: BiblioAsia Reels_Arts"
+      subtitle: BiblioAsia Reels
       description: What does it take to write an internationally acclaimed historical
         novel set in Singapore?
       button: "Watch the interview #SingLit"

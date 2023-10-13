@@ -5,7 +5,7 @@ description: Meet Lee Kong Chian Research Fellow Dr Julian Davison.
 ---
 #### Meet Lee Kong Chian Research Fellow&nbsp;_Dr Julian Davison_.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/JulianDavison/Julian%20Davison%20and%20father1.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/JulianDavison/Julian%20Davison%20and%20father1.jpg">
  <div style="background-color: white;">Julian with his father on the verandah of No. 1 Lynwood Grove, 1959.</div>
  
  Although I am a British citizen, my family has been connected with Singapore for four generations. My great-grandfather, a Welshman by the name of William Morris, was here in the 1880s. He was a sea captain who owned his own ship — whether it was a sailing vessel or a coastal steamer, I know not — and plied the waters of the South China Sea, ferrying cargoes back and forth between Singapore and Bangkok. This was in the time of Joseph Conrad, author of *Lord Jim, Almayer’s Folly, Outcast of the Islands* and many other stores set in this part of the world around the turn of the last century. Back then, Conrad was first officer aboard the *Vidar*, a schooner-rigged steamship owned by the Singaporean Al Joofrie family and I often wonder if the two men met, perhaps at Emmerson’s Tiffin Rooms down by Cavenagh Bridge, which in those days was a place of rendezvous for ship’s officers and other seafaring types.
@@ -24,7 +24,7 @@ The year 1956 was also the year that I was born, in London, which is how I happe
 
 For the first six years of my life, I lived in Singapore in a modest bungalow off Braddell Road. This was considered a very *ulu* (countryside) location in those days — we were surrounded by kampongs and pig farms and market gardens — but to me it was paradise — a large garden to run around in with birds and bugs, and, on the other side of the bamboo hedge, kampong boys to play with.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/JulianDavison/Julian%20Davi%20.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/JulianDavison/Julian%20Davi%20.jpg">
  <div style="background-color: white;">Family home at No. 1 Lynwood Grove, Braddell Heights; photo taken c.1958/1959.</div>
 
 In those days every relatively well-to-do family employed an *amah* (domestic help) who not only did the housework and cooking but also looked after the children. We were very fortunate to have working for us one of those traditional “black and white” *amahs* from Canton (Guangzhou), Ah Jong by name, who ended up staying with our family for almost 20 years. As a boy I used to love hearing the stories of her own childhood back in China, the life of a young peasant girl living in the countryside interspersed with moments of high drama — more than once she had to hide in the attic when bandits came to the door looking for young girls to kidnap to sell into prostitution in Nanyang. My only regret is that I didn’t learn to speak in Cantonese with Ah Jong — at three years old I’m sure that even the most resistant *ang moh* ear would eventually master the tonal cadences of the Chinese dialect. Instead we conversed in *pasar* Malay with a few Peranakan phrases and the occasional word in English thrown in for good measure.

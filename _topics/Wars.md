@@ -3,6 +3,12 @@ title: War
 permalink: /topics/war/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/videos/reels/war/">Operation Jaywick Retold as a Comic Book for Boys</a>
+Disguised as local fishermen, Australian and British commandos launched a clandestine raid on Japanese ships in Singapore’s Keppel Harbour.
+
+<img src="/images/Videos:%20BiblioAsia%20Reels/victory%20boys.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/preparing-war-singapore/">In Their Own Voices: Preparing for War in Singapore</a>
 
 Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units.
@@ -108,7 +114,7 @@ A 1946 photograph from the opening of the War Crimes Trials held in Singapore is
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/flee-to-uncertainty/">Fleeing to Uncertainty: My Father’s Story</a>
-Barely 13 years old then, K. Ramakanthan and his family escaped with their lives from Perak to Johor during the Japanese Occupation. Aishwariyaa Ramakanthan recounts her father’s harrowing journey.
+Barely 13 years old then, K. Ramakanthan and his family escaped with their lives from Perak to Johor during the Japanese Occupation.&nbsp;Aishwariyaa Ramakanthan&nbsp;recounts her father’s harrowing journey.
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/civilians-in-crsfire/">Civilians in the Crossfire: The Malayan Emergency Crossfire</a>
@@ -116,17 +122,17 @@ Ronnie Tan recounts the hardship suffered by civilians as a result of the Britis
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/trial-by-firing-sqd/">Trial by Firing Squad</a>
-In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion. Umej Bhatia recreates the final moments of the mutineers as they pay the ultimate price for their actions.
+In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion.&nbsp;Umej Bhatia&nbsp;recreates the final moments of the mutineers as they pay the ultimate price for their actions.
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia/">The Final Hours of the Empress of Asia</a>
-The _Empress of Asia_ sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
+The&nbsp;_Empress of Asia_&nbsp;sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion.&nbsp;Dan Black recounts its final days.
 
 <img src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg" style="width:70%">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/feeding-the-hungry/">Feeding the Hungry: Children in Post-War Singapore</a>
-In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore. Cheryl-Ann Low has the details.
+In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore. Cheryl-Ann Low&nbsp;has the details.
 
 
 

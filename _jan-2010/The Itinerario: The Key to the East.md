@@ -120,11 +120,11 @@ The 1598 English edition of the Itinerario found in the National Library holding
 
 C. A. Gibson-Hill, [_Singapore: Notes on the History of the Old Strait, 1580–1850_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468) (\[Singapore\]: Malayan Branch, Royal Asiatic Society. 1954). (Call no. RCLOS 959.5 JMBRAS; microfilm NL0029; NL0078)
 
-C. A. Gibson-Hill, [_Singapore: Old Strait &amp; New Harbour, 1300–1870_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989) (Singapore: General Post Office, 1956). (Call no. RCLOS 959.51 BOG; microfilm NL10999
+C. A. Gibson-Hill, [_Singapore: Old Strait &amp; New Harbour, 1300–1870_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989) (Singapore: General Post Office, 1956). (Call no. RCLOS 959.51 BOG; microfilm NL10999)
 
 Ernst Van Den Boogaart, [_Civil and Corrupt Asia: Image and Text in the Itinerario and the Icones of Jan Huygen Van Linschoten_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11386938) (London: University of Chicago Press, 2003). (Call no. R 915.043 BOO)
 
-J. Potter, “The World Through Travellers’ Eyes, _Geographical_ 74, no. 4 (2002), 12.
+J. Potter, “The World Through Travellers’ Eyes, _Geographical_ 74, no. 4 (2002): 12.
 
 Jan Huygen van Linschoten, _[The Voyage of John Huyghen Van Linschoten to the East Indies. From the Old English Translation of 1598. The First Book, Containing His Description of the East. Ed., the First Volume by the Late Arthur Coke Burnell, the Second Volume by P. A. Tiele](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_ (London: Printed for the Hakluyt Society, 1885). (Call no. RRARE 910.8 HAK; microfilm NL 24339, NL24340)
 
@@ -134,29 +134,29 @@ Jurrien van Goor and Foskelien van Goor, _Prelude to Colonialism: The Dutch in A
 
 “Linschoten’s Itinerario,” King’s College London, University of London.
 
-Richard Pflederer, “Dutch Maps and English Ships in the Eastern Seas,” _History Today_ 44, no. 1 (January 1994), 35–41.
+Richard Pflederer, “Dutch Maps and English Ships in the Eastern Seas,” _History Today_ 44, no. 1 (January 1994: 35–41.
 
 Thomas Suarez, [_Early Mapping of Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316) (Hong Kong: Periplus Editions, 1999). (Call no. RSING 912.59 SUA)
 
 W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1611–1615](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4391644)_ (London: Printed for the Hakluyt Society, 1934). (Call no. RCLOS 910.8 HAK)
 
-**NOTES**
+#### **NOTES**
 
-[^1]: From a letter by Linschoten from Goa dated 1584 cited in the introduction by P. A. Tiele in Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxiv. &nbsp;
+[^1]: From a letter by Linschoten from Goa dated 1584 cited in the introduction by P. A. Tiele in Jan Huygen van Linschoten, _[The Voyage of John Huyghen Van Linschoten to the East Indies. From the Old English Translation of 1598. The First Book, Containing His Description of the East. Ed., the First Volume by the Late Arthur Coke Burnell, the Second Volume by P. A. Tiele](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_ (London: Printed for the Hakluyt Society, 1885), xxiv. (Call no. RRARE 910.8 HAK; microfilm NL 24339, NL24340)
 
 [^2]: His family is believed to have originated from a village in Utrecht named Linschoten. His parents Huych Joosten and Maertgen Hendrics lived in Schoonhoven which was a short distance away from Linschoten. (From the introduction by P. A. Tiele in Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxiii. &nbsp;
 
-[^3]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 1.
+[^3]: John Hvighen van Linschoten, _[Iohn Hvighen Van Linschoten, His Discourse of Voyages Unto Y Easte &amp; West Indies: Deuided Into Foure Bookes](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, trans. W. Phillip (London: Iohn Wolfe, 1598), 1. (From BookSG; call no. RRARE 910.8 LIN; microfilm NL8024)
 
 [^4]: A number of sources indicate the year as 1579.
 
-[^5]: Goor and Goor, 51–52.
+[^5]: Jurrien van Goor and Foskelien van Goor, _Prelude to Colonialism: The Dutch in Asia_ (Uitgeverij Verloren, 2004), 51–52.
 
 [^6]: Goor and Goor, 52.
 
 [^7]: Found in the original publication in Chapter 20 (Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_)
 
-[^8]: Moreland, _[Peter Floris](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4391644)_, 104 in Gibson-Hill, [_Notes on the History of the Old Strait_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468), 165, 167.
+[^8]: W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1611–1615](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4391644)_ (London: Printed for the Hakluyt Society, 1934) 104 (Call no. RCLOS 910.8 HAK) in C. A. Gibson-Hill, _[Singapore: Notes on the History of the Old Strait, 1580–1850](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468)_ (\[Singapore\]: Malayan Branch, Royal Asiatic Society. 1954), 165, 167. (Call no. RCLOS 959.5 JMBRAS; microfilm NL0029; NL0078)
 
 [^9]: The archbishop died while journeying to Lisbon in 1587, and Jan received the news of his death only in September 1588 (Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxvii)
 
@@ -174,7 +174,7 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 [^16]: It had just been established in 1594.
 
-[^17]: Suarez, [_Early Mapping of Southeast Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316), 180.
+[^17]: Thomas Suarez, _[Early Mapping of Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)_ (Hong Kong: Periplus Editions, 1999), 180. (Call no. RSING 912.59 SUA)
 
 [^18]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 31.
 
@@ -182,11 +182,11 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 [^20]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 31.
 
-[^21]: Boogaart, [_Civil and Corrupt Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11386938), 54.
+[^21]: Ernst Van Den Boogaart, _[Civil and Corrupt Asia: Image and Text in the Itinerario and the Icones of Jan Huygen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11386938)_ (London: University of Chicago Press, 2003), 54. (Call no. R 915.043 BOO)
 
 [^22]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 93.
 
-[^23]: For example, mango chutney recipes include garlic, vinegar, brown sugar and salt and a form of Portuguese mango chutney is still being made in Malacca using similar ingredients.
+[^23]: or example, mango chutney recipes include garlic, vinegar, brown sugar and salt and a form of Portuguese mango chutney is still being made in Malacca using similar ingredients.
 
 [^24]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 95.
 
@@ -198,14 +198,19 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 [^28]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 103.
 
-[^29]: So detailed is Gibson-Hill’s research that he notes the error in page number for the start of Chapter 20 of [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)’s 1598 Itinerario ([_Old Strait &amp; New Harbour–1870_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989), introduction, 11)
+[^29]: So detailed is Gibson-Hill’s research that he notes the error in page number for the start of Chapter 20 of [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)’s 1598 Itinerario (C. A. Gibson-Hill, _[Singapore: Old Strait &amp; New Harbour, 1300–1870](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989)_ (Singapore: General Post Office, 1956), introduction, 11. (Call no. RCLOS 959.51 BOG; microfilm NL10999)
 
 [^30]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, chapter 20 from page 336 of Book III.
 
-[^31]: Gibson-Hill, [_Notes on the History of the Old Strait_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468), 165.
+[^31]: Gibson-Hill, _[Notes on the History of the Old Strait](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468)_, 165.
 
 [^32]: Gibson-Hill actually questions W. D. Barnes’ analysis based on the French edition of Linschoten which he published in JSBRAS in 1911 for going about it in such a convoluted fashion when the English version had already been reprinted in the Singapore Free Press.
 
-[^33]: Gibson-Hill, [_Notes on the History of the Old Strait_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468), introduction, 11.
+[^33]: Gibson-Hill, _[Notes on the History of the Old Strait](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468)_, introduction, 11.
 
 [^34]: The digital copy is available at <a href="[BookSG](https://eresources.nlb.gov.sg/printheritage/)">BookSG</a>
+
+
+
+
+
