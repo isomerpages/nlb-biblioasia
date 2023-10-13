@@ -134,48 +134,50 @@ The World Bank, _Middle East and North Africa Region 2007: Economic Developments
 
 #### **NOTES**
 
-[^1]: Whitaker, "Centuries in the House of Wisdom."
-      
-[^2]: The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_, 1, 6.
+[^1]: Brian Whitaker, “Centuries in the House of Wisdom: Iraq’s Golden Age of Science Brought Us Algebra, Optics, Windmills and Much More,” accessed 13 July 2009, [https://www.theguardian.com/education/2004/sep/23/research.highereducation1](https://www.theguardian.com/education/2004/sep/23/research.highereducation1).
+
+[^2]: The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_ (Abu Dhabi: Emirates Center for Strategic Studies, 2004), 1, 6.
 
 [^3]: The Emirates Center for Strategic Studies and Research, _International Interests in the Gulf Region_, 83.
 
-[^4]: Askari, [_Middle East Oil Exporters_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338), 83.
+[^4]: Hossein Askari, _[Middle East Oil Exporters: What Happened to Economic Development?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338)_ (Cheltenham: Edward Elgar, 2006), 83. (Call no. RBUS 338.956 ASK)
 
-[^5]: Askari, [_Middle East Oil Exporters_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338), 36.
+[^5]: Askari, _[Middle East Oil Exporters](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12885338)_, 36.
 
-[^6]: The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role_, 144.
+[^6]: The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role in Realizing Change in the Arab World_ (Abu Dhabi: Emirates Center For Strategic Studies And Research, 2007), 144.
 
-[^7]: Goh, “[Opening Session](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c2115a8-115d-11e3-83d5-0050568939ad).”
+[^7]: Goh Chok Tong, “[The Opening Session of the Inaugural Asia-Middle East Dialogue (AMED)](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c2115a8-115d-11e3-83d5-0050568939ad),” Shangri La Hotel, Island Ballroom, Singapore, 21 June 2005, transcript, Ministry of Information, Communications and the Arts (From National Archives of Singapore document no. 20050621989)
 
 [^8]: The Emirates Center for Strategic Studies and Research, _Current Transformations and their Potential Role_, 148.
 
-[^9]: Kavoossi, [_Globalization of Business and the Middle East_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9693623), 146.
+[^9]: Masoud Kavoossi, _[The Globalization of Business and the Middle East: Opportunities and Constraints](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9693623)_ (Westport, Conn.: Quorum Books, 2000), 146. (Call no. RBUS 337.56 KAV)
 
-[^10]: Ministry of Foreign Affairs, Singapore, “Bilateral Relations.”
+[^10]: “Bilateral Relations: Middle East,” Ministry of Foreign Affairs, Singapore, &nbsp;accessed 17 July 2009, [https://www.mfa.gov.sg/](https://www.mfa.gov.sg/).
 
 [^11]: Ministry of Foreign Affairs, Singapore, “Bilateral Relations.”
 
 [^12]: Singaporean companies have been very active in various business sectors in the Middle East, including petrochemical distribution, hotel development, water desalination, investment in petrochemical olefin projects, food manufacturing, e-government projects (for example, e-judiciary and e-trade projects), the sale of automotive parts, stationery and printing consumables, oil and gas parts and automotive parts, as well as oil and the petrochemical trade. “SBF Launches Middle East Business Group To Boost Business Ties Between Singapore and the Middle East.”
 
-[^13]: Lee, [_From Third World to First_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 737.
+[^13]: Lee Kuan Yew, _[From Third World to First: The Singapore Story, 1965–2000: Singapore and the Asian Economic Boom](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172)_ (Singapore: Times Editions, 2000), 737. (Call no. RSING 959.57092 LEE)
 
-[^14]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 30.
+[^14]: Neo Boon Siong and Geraldine Chen, _[Dynamic Governance: Embedding Culture, Capabilities and Change in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_ (Singapore: World Scientific, 2007), 30. (Call no. RSING 351.5957 NEO)
 
-[^15]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 32.
+[^15]: Neo and Chen, _[Dynamic Governance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_, 32.
 
-[^16]: Lee, [_From Third World to First_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172), 736.
+[^16]: Lee, _[From Third World to First](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9981172)_, 736.
 
-[^17]: Lord, _Modern Prince_, 104.
+[^17]: Cames Lord, _The Modern Prince: What the Leaders Need To Know Now_ (New Haven: Yale University Press, 2003), 104.
 
-[^18]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 37–38.
+[^18]: Neo and Chen, _[Dynamic Governance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_, 37–38.
 
-[^19]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 40.
+[^19]: Neo and Chen, _[Dynamic Governance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_, 40.
 
-[^20]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 120.
+[^20]: Neo and Chen, _[Dynamic Governance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_, 120.
 
-[^21]: Neo and Chen, [_Dynamic Governance_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893), 120.
+[^21]: Neo and Chen, _[Dynamic Governance](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12903893)_, 120.
 
-[^22]: The World Bank, _Middle East and North Africa Region._
+[^22]: The World Bank, _Middle East and North Africa Region 2007: Economic Developments and Prospects_ (Washington: The International Bank for Reconstruction and Development, 2007)
 
-[^23]: Berg, [_Le Hadhramout_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501), 104.
+[^23]: L. W. C. van den Berg, _[Le Hadhramout Et Les Colonies Arabes Dans l’Archipel Indien](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501)_ (Batavia, Impr. du gouvernement, 1886), 104. (Call no. RRARE 325.25309598 BER; microfilm NL7400)
+
+
