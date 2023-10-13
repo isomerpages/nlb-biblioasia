@@ -64,25 +64,20 @@ In the 1970s, children’s books tended to adopt the themes of national campaign
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Presentation4.jpg">
  <div style="background-color: white;"><i>All rights reserved, Seamaster Publishers, 1979; All rights reserved, Educational Publications Bureau, 1979.</i></div>
 
-One reason why SCLE during this period lacked imaginativity was also partly due to children’s reading abilities and power of imagination. Mature or sophisticated readers were few. Literary genres such as fantasy, suspense and science fiction (FSSF for short) that appeal to creative imagination, curiosity or wonder had limited appeal to our young readers then (Nair et al., 1977). From the reading survey done by the Children’s Services of the National Library in 1976, the youngest group of readers in Singapore did not read books in the FSSF category at all while the other two groups showed the following preferences (Nair et al., 1977, p. 11):
+One reason why SCLE during this period lacked imaginativity was also partly due to children’s reading abilities and power of imagination. Mature or sophisticated readers were few. Literary genres such as fantasy, suspense and science fiction (FSSF) that appeal to creative imagination, curiosity or wonder had limited appeal to our young readers then (Nair et al., 1977). From the reading survey done by the Children’s Services of the National Library in 1976, the youngest group of readers in Singapore did not read books in the FSSF category at all, while the other two groups showed the following preferences (Nair et al., 1977, p. 11):
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/ChildrenLiterature/Capture2.jpg">
 <div style="background-color: white;"></div>
 
 It should be noted that titles in the science fiction category were of limited availability compared to adventure stories and myths and legends (in the ratio of 9:99). Nair et al. (1977) explained why FSSF had such poor appeal:
 
- … both science fiction and sometimes fantasy <br>
- demands of the reader a certain amount of <br>
- sophisticated knowledge of science and the jargon of <br>
- space science, and this may be lacking in most<br> 
- areas where there is no tradition of Western type education,<br>
- in children of these ages. (p. 13)
+<center>… both science fiction and sometimes fantasy demands of the reader a certain amount of sophisticated knowledge of science and the jargon of space science, and this may be lacking in most areas where there is no tradition of Western-type education in children of these ages. (p. 13)</center>
 
 Another important contributing factor during the 1970s was that not all children were attending English-medium schools. This might explain why Singapore writers rarely ventured into fantasy, suspense and science fiction, and the publishers were not keen to publish books of this category.
 
 During the 1970s, important changes had been made to the primary school curriculum. The emphasis in the English syllabus was on language enrichment through storytelling, poetry, creative writing and educational drama. The new enrichment programme created excellent opportunities for the publishing of children’s literature in Singapore (Girvin, 1976).
 
-At a seminar on the role of educational materials in Singapore schools, held in 1973, the late Marie Bong, principal of Katong Convent, emphasised the urgent need for a variety of interesting books that would appeal to children so as to expose them “to the rich resources of language and stimulate them to read and write stories of their own” (as cited in Girvin, 1976, p. 6). This exposure was seen as vital and schools began to break away from the rigid textbook course of study, but success of the system, as Girvin (1976) argued, “will depend on there being sufficient supply of general literature for children to meet the demands at each level of the child’s understanding. Publishers must answer these needs.” (pp. 6–7)
+At a seminar on the role of educational materials in Singapore schools, held in 1973, the late Marie Bong, principal of Katong Convent, emphasised the urgent need for a variety of interesting books that would appeal to children so as to expose them “to the rich resources of language and stimulate them to read and write stories of their own” (cited in Girvin, 1976, p. 6). This exposure was seen as vital and schools began to break away from the rigid textbook course of study, but success of the system, as Girvin (1976) argued, “will depend on there being sufficient supply of general literature for children to meet the demands at each level of the child’s understanding. Publishers must answer these needs” (pp. 6–7).
 
 #### **The Emergent Period (1980s)**
 
