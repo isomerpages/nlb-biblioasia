@@ -15,6 +15,9 @@ A city without street life is a city without urban vitality. As Jane Jacobs stat
 
 Whether a location for watching street performances, meeting people, communicating with or just enjoying a sense of being with fellow human beings, the street is the predominant source of vitality of a city. It forms the space where people come together, participate in social exchange, are able to move about freely and enjoy the sociability that the street offers. It is the presence of people there at different times of the day that the street is filled with activity for as many hours in a day as possible. Such elements are what Jacobs refers to as urban vitality, and these constitute street life.
 
+<img src="/images/Vol%207%20Issue%202/RiverUrban/Wet%20Markets.jpg" style="width:50%;">
+ <div style="background-color: white;">Wet markets by day but when night fall, the <i>pasar malam</i> (night market) in Smith Street and Trengganu Street attracted massive crowds in 1965. <i> Courtesy of Ministry of Information and the Arts, Singapore.</i></div>
+
 Yet, just as the life of a city is to be found in this feature of the urban landscape, the converse is also true. In Singapore, a number of once lively streets have over the years become “dead”, resulting in such spaces becoming dull, bland and generally lacking in the social. Such streets make the city just a little less interesting. This article examines how population resettlement and the decentralising of retailing activities in post-independent Singapore have profoundly affected the vitality of certain streets, turning formerly lively streets into lifeless ones.
 
 #### **The Singapore Street**
@@ -72,9 +75,6 @@ This lack of vibrant street life persisted even when efforts were made by the go
 <img src="/images/Vol%207%20Issue%202/RiverUrban/Refurbished_3.jpg" style="width:100%;">
  <div style="background-color: white;">Refurbished shophouse facades around present-day Chinatown include that &amp; the Chinatown Heritage Centre on Pagoda Street.<i> Photo taken by the author.</i></div>
 	
-	
-	Smith Street of the present-day. The outdoor eating area is now named "Chinatown Food Street." <i> Photo taken by the author.</i>
-
 Singaporeans were dismissive of Chinatown as they “are not convinced that conservation is for locals” (Kong, 2003, p. 361). They regarded the conservation process as an exercise designed to appeal to the tourist trade, as opposed to something meaningful for them. Ironically, the tourists themselves regarded the “new” Chinatown as somewhat artificial, mentioning that “the restored shop houses are nice, but the place still lacks something” (Tan, 1996). In contrast to its earlier, more bustling days, when Chinatown was once “said to be a place with no night” (Kong, 2003, p. 361),[^3] the overt focus on the presentation of Chinatown as a tourist attraction has resulted in it becoming “a ghost town after 6 pm” (Ibid.) when the tourists leave. Such a situation continues to persist even until today.
 
 <img style="width:100%;" src="/images/Vol%207%20Issue%202/RiverUrban/Refurbished_2.jpg">
