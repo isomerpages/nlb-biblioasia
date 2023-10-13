@@ -178,47 +178,16 @@ Victor R. Savage, [_Western Impressions of Nature and Landscape in Southeast Asi
 
 [^11]: Victor R. Savage, _[Western Impressions of Nature and Landscape in Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082376)_ (Singapore: Singapore University Press, 1984), 282. (Call no. RSING 959 SAV)
 
-12\. Peter Heylyn, _Cosmographie in Four Books: Containing the Chorographie and Historie of the Whole World, and All the Principal Kingdoms, Provinces, Seas, and Isles Thereof_ (London: Harry Seile, 1652), 166.
+[^12]: Peter Heylyn, _Cosmographie in Four Books: Containing the Chorographie and Historie of the Whole World, and All the Principal Kingdoms, Provinces, Seas, and Isles Thereof_ (London: Harry Seile, 1652), 166.
 
-13\. Barbara Watson Andaya, “Malacca Under the Dutch 1641–1795,” in _[Melaka: The Transformation of a Malay Capital](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636)_, ed. Kernial Singh Sandhu and Paul Wheatley (Kuala Lumpur: Oxford University Press, 1983), 200. (Call no. RSEA 959.5141 MEL)
+[^13]: Barbara Watson Andaya, “Malacca Under the Dutch 1641–1795,” in _[Melaka: The Transformation of a Malay Capital](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636)_, ed. Kernial Singh Sandhu and Paul Wheatley (Kuala Lumpur: Oxford University Press, 1983), 200. (Call no. RSEA 959.5141 MEL)
 
-14\. M.A.P. Meilink-Roelofsz, _[Asian Trade and European Influence in the Indonesian Archipelago Between 1500 and About 1600](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4500569)_ (The Hague: Martinus Nijhoff, 1962), 7. (Call no. RSEA 382.095 MEI)
+[^14]: M.A.P. Meilink-Roelofsz, _[Asian Trade and European Influence in the Indonesian Archipelago Between 1500 and About 1600](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4500569)_ (The Hague: Martinus Nijhoff, 1962), 7. (Call no. RSEA 382.095 MEI)
 
-15\. Andaya, “_[Malacca Under the Dutch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636)_, 206.
+[^15]: Andaya, “_[Malacca Under the Dutch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636)_, 206.
 
-16\. [Pierre-Daniel Huet](https://www.google.com.sg/search?tbo=p&amp;tbm=bks&amp;q=inauthor:%22Pierre-Daniel+Huet%22), _Memoirs of the Dutch Trade in All the States, Empires, and Kingdoms in the World_, trans. Samber (London: C. Rivington, 1719), 212.
-
-
+[^16]: [Pierre-Daniel Huet](https://www.google.com.sg/search?tbo=p&amp;tbm=bks&amp;q=inauthor:%22Pierre-Daniel+Huet%22), _Memoirs of the Dutch Trade in All the States, Empires, and Kingdoms in the World_, trans. Samber (London: C. Rivington, 1719), 212.
 
 
-[^1]:  Wheatley, [_Golden Khersonese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462), 138.
 
-[^2]: Balbi, _Viaggio Dell’indie Orientali._
 
-[^3]: Acosta, [_Naturall and Morall Historie_](https://eresources.nlb.gov.sg/printheritage/detail/3af8aebd-eb45-4c2d-8453-3c9e6bd006f0.aspx), 37.
-
-[^4]: Avity, _Estates, Empires &amp; Principallities_, 184.
-
-[^5]: Dickson, _Truth’s Victory Over Error_.
-
-[^6]: Avity, _Estates, Empires &amp; Principallities_, 184
-
-[^7]: Araujo, “[Letter to D. Afonso De Albuquerque](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6534928).”
-
-[^8]: Fernando, “[Diaspora in the Malay Archipelago](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12493225),” 162.
-
-[^9]: Souza, [_Survival of Empire_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3756329).
-
-[^10]: Stuart, “[Economy of the Portuguese Empire](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167084),” 20.
-
-[^11]: Savage, [_Western Impressions_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082376), 282. &nbsp;
-
-[^12]: Heylyn, _Cosmographie in Four Books_, 166.
-
-[^13]: Andaya, “[_Malacca Under the Dutch_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636), 200.
-
-[^14]: Meilink-Roelofsz, [_Asian Trade and European Influence_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4500569), 7.
-
-[^15]: Andaya, “[_Malacca Under the Dutch_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636), 206.
-
-[^16]: Huet, _Memoirs of the Dutch Trade_, 212.
