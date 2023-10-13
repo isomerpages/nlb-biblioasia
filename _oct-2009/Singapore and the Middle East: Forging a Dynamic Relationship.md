@@ -1,17 +1,20 @@
 ---
 title: "Singapore and the Middle East: Forging a Dynamic Relationship"
 permalink: /vol-5/issue-3/oct-2009/singapore-malaysia-dynamic-relationship/
-description: "Researcher Bouchaib Silm considers the relationship between
+description: Researcher Bouchaib Silm considers the relationship between
   Singapore and the Middle East, how they can move towards a more vital and
   dynamic relationship, and how Singapore can play a pivotal role in
-  reconnecting the Middle East with the rest of Asia. "
+  reconnecting the Middle East with the rest of Asia.
 ---
-#### Researcher _Bouchaib Silm_ considers the relationship between Singapore and the Middle East, how they can move towards a more vital and dynamic relationship, and how Singapore can play a pivotal role in reconnecting the Middle East with the rest of Asia.
+#### Researcher&nbsp;_Bouchaib Silm_&nbsp;considers the relationship between Singapore and the Middle East, how they can move towards a more vital and dynamic relationship, and how Singapore can play a pivotal role in reconnecting the Middle East with the rest of Asia.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Prince%20Sultan%20&%20SM%20Goh1.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Prince%20Sultan%20&amp;%20SM%20Goh1.jpg">
  <div style="background-color: white;">The 28th Singapore Lecture by HRH Prince Sultan Bin Abdul Aziz Al-Saud, Crown Prince, Deputy Premier, Minister of Defence and Aviation and Inspector General, Kingdom of Saudi Arabia HRH Prince Sultan Bin Abdul Aziz Al-Saud (left) and Senior Minister Goh Chok Tong (right). <i>Courtesy of Ministry of Foreign Affairs, Singapore.</i></div>
  
 While Singapore’s system of governance has proved its efficiency and sustainability, there are serious concerns about whether successful stories such as Singapore’s can serve to stimulate change in other countries, including those in the Arab world. Unfortunately, Arab societies tend to be conservative, and therefore lag behind in global integration.
+
+<img src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/human%20development%20index1.jpg" style="width:100%;">
+ <div style="background-color: white;">Reproduced from Table 01, Arab Human Development Report 2009: Challenges to Human Security in the Arab Countries <a href="https://arab-hdr.org/report/human-security-2009/">https://arab-hdr.org/report/human-security-2009/</a>. All rights reserved, United Nations Development Programme, Regional Bureau for Arab States (RBAS), 2009.</div>
 
 History has shown that Arab culture is actually very dynamic and highly capable of learning and making progress. In the eighth century, the Abassid Khalif al Ma’mun, son of the famous Abassid Khalif Harun Al Rasheed, established the “Bait al-Hikma” or House of Wisdom in Baghdad, Iraq. Al Ma’mun gave orders for important books in different fields of knowledge in the Greek, Persian and Indian languages to be translated into Arabic.[^1] Arab scholars accumulated a great collection of knowledge about the world, and built on it through their own discoveries.
 
@@ -31,14 +34,14 @@ This list of problems could, perhaps, lead to a very negative impression of the 
 
 As Singapore’s Senior Minister Goh Chok Tong has rightly observed, the Middle East is “experiencing breathtaking development.”[^7] Like Singapore, the Gulf States are exploring the viability of creating, controlling and selling their technology. City-states such as Dubai in the United Arab Emirates have set an excellent example for other countries in the Middle East. In light of this, it is fair to assert that, while oil is certainly an enabling factor, it is not the determining factor for the region’s economic progress. The Middle East has slowly responded to the changes taking place in the world,[^8] but a great deal of work and determination are still needed. For instance, there is a strong need for economic integration in order to give the region a major role in the global economy.[^9]
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/MOU%20signing.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/MOU%20signing.jpg">
  <div style="background-color: white;">Mr Philip Yeo, Chairman, SPRING Singapore, signing a MOU of cooperation with the Qatari Businessmen Association to facilitate experience sharing on the development of SMEs Looking on (left) is Senior Minister Goh Chok Tong. <i>Courtesy of the Singapore Business Federation.</i></div>
 
 #### **Singapore and the Middle East: Increasing Mutual Cooperation**
 
 Serious engagement between Singapore and the Middle East began in 2004, when Mr Goh made several official visits to the Middle East.[^10] These visits were soon followed by Singapore’s hosting of the inaugural Asia-Middle East Dialogue (AMED) in June 2005, which offered an opportunity for Middle Eastern representatives and their counterparts from other Asian countries to discuss issues of mutual concern.[^11] AMED enabled policymakers, intellectuals and businessmen to discover a wide range of opportunities for cooperation, and led to several bilateral agreements between their countries.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Shaikh%20Salman%20bin%20Hamad.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/SingaporeMiddleEast/Shaikh%20Salman%20bin%20Hamad.jpg">
  <div style="background-color: white;">His Highness Shaikh Salman bin Hamad Al-Khalifa, Crown Prince of the Kingdom of Bahrain, delivering his address at the launch of the SBF Middle East Business Group Knowledge Partners Programme, 16 September 2008, Singapore. <i>Courtesy of the Singapore Business Federation.</i></div>
 
 As a follow-up, the Singapore Business Federation (SBF) launched the Middle East Business Group in March 2007, which set out with two primary objectives: to foster strong ties between business chambers and companies from both sides, and to provide consultations for local companies with business interests in the Middle East.[^12] Even so, the options for economic cooperation between Singapore and the Middle East have been relatively few, regardless of the opportunities. One reason for this could be the Western-centric approach of Singapore’s foreign policy. Recent events, such as the 11 September 2001 attacks on the United States of America, have resulted in a shift towards the promotion of a more intensive Asia-Middle Eastern engagement.
@@ -87,8 +90,8 @@ Singapore’s experience is also attracting the attention of other Asian states,
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Bouchaib%20Silm.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Bouchaib%20Silm.jpg" style="width: 100px; height: 100px;">
 <center><b>Bouchaib Silm</b><br>Researcher<br> National Library</center> </div>
 
 #### **REFERENCES**
