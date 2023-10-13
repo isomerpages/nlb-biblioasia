@@ -121,17 +121,17 @@ Pereira, J.C. (2005). Obscured music: The trailers. _Fancy magazine._ Retrieved 
 
 [^4]: [Lee: We’ll breed new strain of culture](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590803-1.2.37). (1959, August 3). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
 
-[^5]: The term “yellow culture” is a transition of the Chinese farm used to describe the decadent behaviour found in nineteenth-century China, such as corruption, opium-smoking, gambling and prostitution, which were seen as contributing to the fall of the Middle Kingdom.
+[^5]: The term “yellow culture” is a transition of the Chinese term used to describe the decadent behaviour found in 19th-century China, such as corruption, opium-smoking, gambling and prostitution, which were seen as contributing to the fall of the Middle Kingdom.
 
 [^6]: [Radio: The new order](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590610-1.2.2). (1959, June 10). _The Straits Times_, p. 9; [Radio Singapore to be serious but not dull](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590617-1.2.57). (1959, June 17). _The Singapore Free Press_, p. 7; [The rock music goes off the air](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590617-1.2.106). (1959, June 17). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
 
 [^7]: [_The Straits Times_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590610-1.2.2), 10 Jun 1959, p. 9; [‘Juke box ban is too drastic’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19570508-1.2.25). (1957, May 8). _The Singapore Free Press_, p. 5; [Peril of pin-table culture – by Home Minister](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590625-1.2.4). (1959, June 25). _The Straits Times_, p. 1; [Rediffusion told us to stop all rock ‘n roll music](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600319-1.2.4). (1960, March 19). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
-[^8]: Kannan Chandran, (1986, March 14). [Those were the days…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860314-1.2.73.2). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
+[^8]: Chandran, K. (1986, March 14). [Those were the days…](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860314-1.2.73.2). _The Straits Times_, p. 1. Retrieved from NewspaperSG.
 
 [^9]: Chua, H. (2001). [_Call it Shanty: The story of The Quests_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300) (p. 167). Singapore: BigO Books. (Call no.: RSING 781.66 CHU)
 
-[^10]: Jap Chong, Raymond Leong, Henry Chua and Lim Wee Guan were neighbours living in Tiong Bahru area. The name of the band was derived from the school magazine of Queenstown Secondary Technical School (now Queenstown Secondary School).
+[^10]: Jap Chong, Raymond Leong, Henry Chua and Lim Wee Guan were neighbours living in Tiong Bahru. The name of the band was derived from the school magazine of Queenstown Secondary Technical School (now Queenstown Secondary School).
 
 [^11]: Hammonds, K. (1963, March 3). [Spinning with cutie Susan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630303-1.2.96). _The Straits Times_, p. 9. Retrieved from NewspaperSG.
 
@@ -149,7 +149,7 @@ Pereira, J.C. (2005). Obscured music: The trailers. _Fancy magazine._ Retrieved 
 
 [^18]: [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300), 2001, pp. 29–30.
 
-[^19]: For the actual performance for a Christmas party at the St Andrew’s Mission Hospital on 25 December 1961, the band played using guitars borrowed from friends and a drum set that once belonged to Raymond Leong’s uncle. [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300), 2001, pp. 19, 31–32.
+[^19]: For the actual performance for a Christmas party at the St Andrew’s Mission Hospital on 25 December 1961, the band played using guitars borrowed from friends and a drum set that once belonged to Raymond Leong’s uncle. ([Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10599300), 2001, pp. 19, 31–32)
 
 [^20]: [Pereira](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9606045), 1999, p. 15.
 
