@@ -8,7 +8,7 @@ description: Lee Kong Chian Research Fellow Kelvin EY Low considers the
 ---
 #### Lee Kong Chian Research Fellow&nbsp;_Kelvin EY Low_&nbsp;considers the different means through which&nbsp;_samsui_&nbsp;women are remembered vis-a-vis media constructions found in examples such as newspaper reports and popular history books.[^1]
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/SamsuiWomen/Samsui.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/SamsuiWomen/Samsui.jpg">
  <div style="background-color: white;">Samsui women on their way to their cleaning job at the Empress Place Building. <i>Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Introduction**
