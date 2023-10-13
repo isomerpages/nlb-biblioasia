@@ -143,7 +143,7 @@ women.
 
 #### **REFERENCES**
 
-A. Yip, “Samsui Women (Heroines in Construction),” _Asian Geographic_ 37, no. 4 (2006), 36–41.
+A. Yip, “Samsui Women (Heroines in Construction),” _Asian Geographic_ 37, no. 4 (2006): 36–41.
 
 Aline Wong and Leong Wai Kum, eds. _[A Woman’s Place: The Story of Singapore Women](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442223)_ (Singapore: The PAP Women’s Wing, 1993). (Call no. RSING 305.42095957 WOM)
 
@@ -159,11 +159,11 @@ Chan Kwee Sung, [_One More Story To Tell: Memories of Singapore, 1930s–1980s_]
 
 Chan Seet Fun, “[She Ain’t Heavy\* She’s My Mum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20030812-1.2.30.6.1),” _Today_, 12 August 2003, 24. (From NewspaperSG)
 
-Claire Chiang, “Female Migrants in Singapore: Towards a Strategy of Pragmatism and Coping,” in [_Women and Chinese Patriarchy: Submission, Servitude, and Escape_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205), ed. Maria Jaschok and Suzanne Miers (Hong Kong: Hong Kong University Press, 1994), 238–263. (Call no. RSING 305.420951 WOM)
+Claire Chiang, “Female Migrants in Singapore: Towards a Strategy of Pragmatism and Coping,” in [_Women and Chinese Patriarchy: Submission, Servitude, and Escape_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7193205), ed. Maria Jaschok and Suzanne Miers (Hong Kong: Hong Kong University Press, 1994), 238–63. (Call no. RSING 305.420951 WOM)
 
 Dhoraisingam S. Samuel, _[Singapore’s Heritage: Through Places of Historical Interest](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6252232)_ (Singapore: Elixir Consultancy Service, 1991). (Call no. RSING 959.57 SAM)
 
-E. P. Koo, “Stories of Two Samsui Women,” _[Nagapuspa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12712458)_ 6 (September–October 2006), 52–57. (Call no. RSING 294.305 N)
+E. P. Koo, “Stories of Two Samsui Women,” _[Nagapuspa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12712458)_ 6 (September–October 2006): 52–57. (Call no. RSING 294.305 N)
 
 “[Hongbao on Wheels Help Spread Festive Cheer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970203-1.2.7.4),” _Straits Times_, 3 February 1997, 3. (From NewspaperSG)
 
@@ -175,17 +175,17 @@ Julie Kee, “[New Welfare Home To Be Training Centre Too](http://eresources.nlb
 
 Kelvin E. Y. Low, “From Migrants to Pioneers: Heritage Appropriation and the Samsui Women in Singapore,” \[Paper presented at Mobile City Singapore, organised by the Asia Research Institute, and Faculty of Arts and Social Sciences, National University of Singapore, March 2007\]
 
-Kelvin E. Y. Low, “Moral Gatekeeping and Social Responsibility: Reflections on Doing Samsui Women Research,” _Tangent_ 6, no. 2 (2007), 93–105.
+Kelvin E. Y. Low, “Moral Gatekeeping and Social Responsibility: Reflections on Doing Samsui Women Research,” _Tangent_ 6, no. 2 (2007): 93–105.
 
 Kenneth Gaw, _[Superior Servants: The Legendary Cantonese Amahs of the Far East](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4773514)_ (Singapore: Oxford University Press, 1988). (Call no. RSING 331.481640460951 GAW)
 
-L. C. Lim, “Samsui Women: Women With a Will Stronger Than Iron,” in _[Down Memory Lane in Clogs: Growing Up in Chinatown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11472149)_, ed. Si Jing (Singapore: Asiapac Books, 2002), 225–337. (Call no. RSING 920.72 SI)
+L. C. Lim, “Samsui Women: Women With a Will Stronger Than Iron,” in _[Down Memory Lane in Clogs: Growing Up in Chinatown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11472149)_, ed. Si Jing (Singapore: Asiapac Books, 2002), 225–37. (Call no. RSING 920.72 SI)
 
-Lily Kong, Brenda Yeoh and Peggy Teo, “Singapore and the Experience of Place in Old Age,” _Geographical Review_ 86, no. 4 (October 1996), 529–549. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+Lily Kong, Brenda Yeoh and Peggy Teo, “Singapore and the Experience of Place in Old Age,” _Geographical Review_ 86, no. 4 (October 1996): 529–49. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 Lim Yin Luen, “[Loneliness in the Twilight Years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950503-1.2.64.3.1),” _Straits Times_, 3 May 1995, 2. (From NewspaperSG)
 
-Majorie Topley, “Immigrant Chinese Female Servants and Their Hostels in Singapore,” _Man_ 59 (December 1959), 213–15. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+Majorie Topley, “Immigrant Chinese Female Servants and Their Hostels in Singapore,” _Man_ 59 (December 1959): 213–15. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 Parliament of Singapore, _[Singapore Parliament Reports. Volume 77 (5th January 2004 to 19th May 2004)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12500659)_ (Singapore: Parliament, 2004). (Call no. RSING 328.595702 SIN)
 
@@ -195,11 +195,11 @@ S. Ramesh, “Elderly Citizens Fight Loneliness With Community Walkathon,” _Ch
 
 Serene Luo, “[1st NDP Treat for Samsui Woman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050806-1.2.70.33),” _Straits Times_, 6 August 2005, 13. (From NewspaperSG)
 
-Singapore Contractors Association, “Tribute to Our History,” _[Contractor](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079474)_, 14, no. 2 (March–April 1997), 7. (Call no. RSING 692.805 C)
+Singapore Contractors Association, “Tribute to Our History,” _[Contractor](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4079474)_ 14, no. 2 (March–April 1997): 7. (Call no. RSING 692.805 C)
 
 Suchen Christine Lim, _[Stories of the Chinese Overseas](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12278215)_ (Singapore: SNP editions, 2005). (Call no. RSING q909.04951 LIM)
 
-T. C. Chang and Shirlena Huang, “Recreating place, replacing memory: Creative destruction at the Singapore River,” [_Asia Pacific Viewpoint_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7806320), 46, no. 3 (December 2005), 267–280. (Call no. RSEA 950.05 APV)
+T. C. Chang and Shirlena Huang, “Recreating place, replacing memory: Creative destruction at the Singapore River,” [_Asia Pacific Viewpoint_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7806320) 46, no. 3 (December 2005): 267–80. (Call no. RSEA 950.05 APV)
 
 Tan Shzr Ee, “[We Built This City](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031214-1.2.56.2.1),” _Straits Times_, 14 December 2003, 2. (From NewspaperSG)
 
@@ -211,12 +211,14 @@ Thomas T.W. Tan, “Introduction to Chinese Culture, Dialect Groups and Their Tr
 
 [^1]: This paper forms a part of my ongoing Ph.D. research on social memory and historiography of samsui women in Singapore, and is a preliminary article written for general readership. I would like to thank Kevin Blackburn for his constructive comments on an earlier draft of the paper
 
-[^2]: Parliament of Singapore, _[Parliamentary Debates](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12500659)_, 2004.
+[^2]: Parliament of Singapore, _[Singapore Parliament Reports. Volume 77 (5th January 2004 to 19th May 2004)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12500659)_ (Singapore: Parliament, 2004). (Call no. RSING 328.595702 SIN)
 
-[^3]: In an article on Singapore’s greying community, samsui women were also described as “shrivelled and grey” (see _[Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950503-1.2.64.3.1)_, 3 May 1995, 2).
+[^3]: In an article on Singapore’s greying community, samsui women were also described as “shrivelled and grey” (see Lim Yin Luen, “[Loneliness in the Twilight Years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950503-1.2.64.3.1),” _Straits Times_, 3 May 1995, 2. (From NewspaperSG)
 
-[^4]: See also, _[Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970203-1.2.7.4)_, 3 Feb 1997 and _[Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970131-1.2.7.6)_, 31 Jan 1997, 3 in which samsui women were reported to have received red packets and food parcels from voluntary welfare associations, and been invited to a Lunar New Year Yusheng lunch hosted by the American International Assurance.
+[^4]: See also, “[Hongbao on Wheels Help Spread Festive Cheer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970203-1.2.7.4),” _Straits Times_, 3 February 1997, 3. (From NewspaperSG) and “[Yusheng Lunch for 400 Senior Citizens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970131-1.2.7.6),” _Straits Times_, 31 January 1997, 3. (From NewspaperSG) in which samsui women were reported to have received red packets and food parcels from voluntary welfare associations, and been invited to a Lunar New Year Yusheng lunch hosted by the American International Assurance.
 
-[^5]: These quotes are taken from a documentary produced in 1995 titled “An immigrant’s story: With sweat, tears and toil – The Samsui Women” (Mediacorp News and Channel News Asia, Singapore).
+[^5]: These quotes are taken from a documentary produced in 1995 titled “An Immigrant’s Story: With Sweat, Tears and Toil – The Samsui Women” (Mediacorp News and Channel News Asia, Singapore).
 
 [^6]: A filmlet based on a samsui woman has recently been produced in conjunction with the 2007 National Day celebrations of Singapore’s 42nd anniversary of independence. In that clip, samsui woman Loke Tai Hoe was featured as having come from China in 1936, and after having worked for 42 years, her “efforts have finally paid off”, and she was seen sitting in the centre of a family portrait with her children and grandchildren.
+
+
