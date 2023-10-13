@@ -6,11 +6,13 @@ third_nav_title: Arts
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/restoring-asian-films/">Restoring Classic Films from Asia</a>
 Besides restoring made-in-Singapore films, the Asian Film Archive is also involved in the preservation of other seminal Asian works.
+
 <img src="/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/vlcsnap_image%209.png">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/">Repairing and Restoring Singapore’s Reel Heritage</a>
 The Asian Film Archive has been restoring old classics since 2014.
+
 <img src="/images/Vol%2018%20Issue%204/Asian%20Film/image14.png">  
 <hr>
 
