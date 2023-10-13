@@ -168,7 +168,7 @@ Chia, N.K.H. (2004). R=T(D+C)+M… and what else? [_SRL newsletter_](https://ese
 
 Dudley, C. (2001). [_Tales from the islands of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10852772)_._ Singapore: Landmarks Books. (Call no.: RSING 398.2095957 CHI)
 
-Ende, M. (1979). _Die unendiiche geschichte_ \[_The neverending story_\]. Stuttgart, Germany: Thienemann Verlag.
+Ende, M. (1979). _Die unendiiche geschichte_ \[The neverending story]. Stuttgart, Germany: Thienemann Verlag.
 
 Egan, K. (1992). _Imagination in teaching and learning._ Chicago: University of Chicago Press.
 
@@ -200,7 +200,9 @@ Nair, C. et al. (1977). Common elements in books children like; The Singapore ex
 
 National Book Development Council of Singapore. (1981). [_A guide to writing of children’s books: Proceedings of the writer’s workshop on children’s books_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082283) (pp. 36–42). Singapore: Educational Publications Bureau. (Call no.: RSING 808.0683 WRI)
 
-National Library Board. (2005). [_Singapore children’s literature: An annotated bibliography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645028)_._ Singapore: National Library Board. (Call no.: RSING 015.5957 SIN)Ng, M. (2010, May 2). [Writing bestsellers for kids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100502-1.2.52.1.5). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
+National Library Board. (2005). [_Singapore children’s literature: An annotated bibliography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12645028)_._ Singapore: National Library Board. (Call no.: RSING 015.5957 SIN)
+
+Ng, M. (2010, May 2). [Writing bestsellers for kids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100502-1.2.52.1.5). _The Straits Times_, p. 6. Retrieved from NewspaperSG.
 
 Ng, M. (2010, March 1). [J.K Rowling of our own?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20100301-1.2.60.1.6) _The Straits Times_, p. 6. Retrieved from NewspaperSG.
 
@@ -248,7 +250,7 @@ Chia, M.A., &amp; Chia, H.C. (1968). [_The king of fishes_](https://eservice.nlb
 
 [_Federal readers. Book one_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12605026). (1963). Singapore: Federal Publications. (Call no.: RCLOS 428.6 FED)
 
-Ministry of Education. (1975). _The Singapore youth festival_. Singapore: Educational Publications Bureau. (Not available in NLB holdings)
+Ministry of Education. (1975). _The Singapore Youth Festival_. Singapore: Educational Publications Bureau. (Not available in NLB holdings)
 
 Sherry, S. (1985). [_Street of the small night market_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5392307)_._ Singapore: Times Books International. (Call no.: RSING 823.914 SHE)
 
@@ -280,7 +282,7 @@ Wee, J. (1984). [_Boo!_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=72479
 
 #### **NOTES**
 
-[^1]: Literary processing channels, also known as fantasising (see Chia, 1991, 1996a), are unlike the literacy processing channels, which involve reading and writing processes.
+[^1]: Literary processing channels, also known as fantasising (see Chia, 1991, 1996a), are unlike literacy processing channels which involve reading and writing processes.
 
 [^2]: See http://www.answers.com/topic/imagination
 
