@@ -4,6 +4,12 @@ permalink: /topics/people/
 description: ""
 third_nav_title: People
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/">The Curious Visit of Qing Ambassadors to Singapore</a>
+The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
+
+<img src="/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01_v3.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/">Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis</a>
 Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years.
 
@@ -78,11 +84,11 @@ Raffles, once widely admired and revered as the founder of Singapore, has been p
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/tiger">The “Tiger” in Singapore: Georges Clemenceau’s Visit in 1920</a>
-This year marks the 100th anniversary of the former French premier’s visit to Singapore. Lim Tin Seng has the details.
+This year marks the 100th anniversary of the former French premier’s visit to Singapore.&nbsp;Lim Tin Seng has the details.
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/king">The King’s Chinese: The Life of Sir Song Ong Siang</a>
-Song Ong Siang was the first local-born barrister and the first person in Malaya to receive a knighthood. Kevin Y.L. Tan recounts the extraordinary life of this Peranakan luminary.
+Song Ong Siang was the first local-born barrister and the first person in Malaya to receive a knighthood.&nbsp;Kevin Y.L. Tan recounts the extraordinary life of this Peranakan luminary.
 
 
 
