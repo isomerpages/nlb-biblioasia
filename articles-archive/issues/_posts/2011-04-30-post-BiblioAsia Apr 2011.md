@@ -10,9 +10,9 @@ description: ""
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-1/apr-2011/director-column/">Director's Column</a>	
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-1/apr-2011/singapore-drying-fish-nanyang-style/">Drying Fish in Singapore Art: Making Sense of the Nanyang Style</a><br>
-The act of drying fish appears in many works of the Nanyang style. National Art Gallery’s *Yeo Wei Wei* explores this recurring motif suggests how it can help our understanding of “Nanyang”.[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_DryingFish.pdf)
+The act of drying fish appears in many works of the Nanyang style. National Art Gallery’s *Yeo Wei Wei* explores this recurring motif and suggests how it can help our understanding of “Nanyang”. [(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_DryingFish.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-1/apr-2011/singapore-popular-music-1960/">Popular Music in 1960s Singapore</a><br>Research Associate *Joanna Tan* traces the growth of English popular music in 1960s Singapore and the formation of local bands. She outlines the impact of nation building on the music scene, and its eventual decline by the early 1970s.[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_PopularMusic.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-1/apr-2011/singapore-popular-music-1960/">Popular Music in 1960s Singapore</a><br>*Joanna Tan* traces the growth of English popular music in 1960s Singapore and the formation of local bands. She outlines the impact of nation-building on the music scene, and its eventual decline by the early 1970s. [(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_PopularMusic.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-7/issue-1/apr-2011/boo-junfeng-undiscovered-space/">Undiscovered Spaces: An Interview With Boo Junfeng</a><br>Research Associate *Jennifer Lew* interviews *Sandcastles* director Boo Junfeng about history, the National Library and the research process behind the making of *Sandcastle*.[(PDF)](/files/pdf/vol-7/issue-1/v7-issue1_UndiscoveredSpaces.pdf)
 
