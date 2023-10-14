@@ -4,10 +4,10 @@ permalink: /vol-7/issue-1/apr-2011/singapura-penerbitan-buku-melayu/
 description: Librarian Mazelan bin Anuar looks at the downward trend of the
   Malay book publishing industry in Singapore and suggests ways to revive it.
 ---
-####  Librarian&nbsp;_Mazelan bin Anuar_&nbsp;looks at the downward trend of the Malay book publishing industry in Singapore and suggests ways to revive it.
+####  Librarian *Mazelan bin Anuar* examines the downward trend of the Malay book publishing industry in Singapore and suggests ways to revive it.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation.jpg">
- <div style="background-color: white;">Antara buku yang diterbitkan oleh Asas50. Hakcipta terpelihara, Angkatan Sasterawan 50, (Right) 2008; (Left) 2009</div>
+ <div style="background-color: white;">Antara buku yang diterbitkan oleh Asas50. Hakcipta terpelihara, Angkatan Sasterawan 50, 2008–2009.</div>
 
 Selepas satu dekad ke dalam abad 21, bagaimanakah perkembangan penerbitan buku Melayu di Singapura? Singapura pernah menjadi pusat penerbitan buku Melayu di rantau ini tetapi rentetan sejarah menunjukkan peranan itu sudah diambil alih oleh Malaysia (dan juga Indonesia tetapi lebih kepada Bahasa Indonesia), lebih-lebih lagi selepas Singapura berpisah dengan Malaysia pada tahun 1965. Artikel ini merupakan peninjauan awal ke atas penerbitan buku Melayu di Singapura dari tahun 2001 hingga ke 2010 dengan melihat jumlah dan jenis karya yang telah dihasilkan serta juga mengenal pasti beberapa penerbit buku-buku tersebut.
 
@@ -42,29 +42,29 @@ Jadual 3 pula menunjukkan kedudukan penerbit yang paling banyak menerbitkan buku
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation4.jpg">
 <div style="background-color: white;">
-(Left) Hakcipta terpelihara, Perkamus, 2005. (Right) Hakcipta terpelihara, Perkamus, 2002. </div>
+	<i>Hakcipta terpelihara, Perkamus, 2005; Hakcipta terpelihara, Perkamus, 2002.</i> </div>
 
 Pustaka Nasional pula menerbitkan buku-buku tentang Islam dan juga sastera (novel, cerpen dan puisi/sajak) sementara Andalus pula menumpukan penerbitannya kepada buku-buku tentang Islam terutamanya untuk kanak-kanak dan remaja.
 
 **Jadual 3: Penerbit di Singapura yang paling banyak menerbitkan buku**
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Capture5.jpg">
- <div style="background-color: white;">Sumber: <i>Singapore National Bibliography,</i> June 2009.</div>
+ <div style="background-color: white;">Sumber: <i>Singapore National Bibliography</i>, June 2009.</div>
  
 Sebagai rumusan, artikel ini merupakan tinjauan awal, namun trend penerbitan buku Melayu di Singapura perlu dikaji dengan lebih lanjut dan teliti lagi. Badanbadan seperti Persatuan Penerbit Buku Singapura dan Majlis Pembangunan Buku Nasional Singapura perlu mengumpulkan data dan menyusun maklumat tentang nilai pasaran bagi buku-buku yang diterbitkan di Singapura agar analisa yang tepat dapat dijalankan. Ini penting bagi para penerbit tuntuk melakar strategi peniagaan mereka. Kita juga harus merangkumkan maklumat bagi tahun 2009 dan 2010 sebaik sahaja ianya dapat diperolehi menerusi Singapore National Bibliography. Perbandingan juga boleh dibuat antara dekad ini dengan dekad-dekad sebelumnya untuk mendapatkan gambaran yang lebih jelas bagi industri ini. Akhir sekali, Majlis Bahasa Melayu Singapura sebagai institusi yang memelihara status bahasa Melayu dan mendukung pengembangannya mungkin perlu mengambil langkah untuk membangunkan semula penerbitan buku Melayu di Singapura melalui kerjasama dengan para penerbit, agensi pemerintah dan juga penulis setempat.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/BukuMelayu/Presentation6.jpg">
  <div style="background-color: white;">Antara 20 buah novel yang diterbitkan oleh Pustaka Nasional sempena Sayembara Novel Watan 2001. Hakcipta terpelihara, Pustaka Nasional, 2002.</div>
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> The Malay book publishing industry in Singapore has been plagued with declining readership and sales in the last decade. Preliminary research on the publication trends in Malay books in Singapore from 2001 to 2010 shows that the volume of new books published between 2001 to 2010 is low, at not more than 150 titles per year in the last 10 years. The lowest number published was 68 titles in 2006, while the highest was 144 in 2002. School textbooks, Islamic literature and fiction novels are the three most-published genres; and that the Curriculum Planning &amp; Development Division of the Ministry of Education, and Pustaka Nasional are the publishers with the highest output of Malay books. The writer feels that action should be taken to revive the Malay book publishing industry and suggests that concerted efforts by key players such as publishers, government agencies and local writers will be necessary.<br><br>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> The Malay book publishing industry in Singapore has been plagued with declining readership and sales in the last decade. Preliminary research on the publication trends in Malay books in Singapore from 2001 to 2010 shows that the volume of new books published between 2001 to 2010 is low, not more than 150 titles per year in the last 10 years. The lowest number published was 68 titles in 2006, while the highest was 144 in 2002. School textbooks, Islamic literature and fiction novels are the three most published genres; and the Curriculum Planning and Development Division of the Ministry of Education as well as Pustaka Nasional are the publishers with the highest output of Malay books. The writer feels that action should be taken to revive the Malay book publishing industry and suggests that concerted efforts by key players such as publishers, government agencies and local writers will be necessary.<br><br>
 </div>
 
-<b>Penulis menghargai usahasama Mohd Raman Daud (Editor Meja Rencana, Berita Harian) yang mengulas makalah ini.</b>
+<i>Penulis menghargai usahasama Mohd Raman Daud (Editor Meja Rencana, Berita Harian) yang mengulas makalah ini.</i>
 
 <br>
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/Mazelan_Anuar.png" style="width: 100px; height: 100px;"><center> <b>Mazelan Anuar</b><br>Librarian<br> Lee Kong Chian Reference Librarian<br> National Library</center></div>
+<img src="/images/Authors/Mazelan_Anuar.png" style="width: 100px; height: 100px;"><center> <b>Mazelan bin Anuar</b><br>Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
 	
 #### **RUJUKAN**
 
@@ -132,7 +132,7 @@ Mohd Raman Daud. (2010, November 4). [Jika hendak sastera Melayu mekar](http://e
 
 Muhammad Zuhdi Haji majid. (1986, November). Ketandusan penerbitan Islam. [_Dewan Budaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4126789)_, 8_ (11), 12–13.
 
-National Library (Singapore). [_Singapore National Bibliography: Issue 1_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6457645) (Cumulative thru June 2009). Singapore: National Library. (Call no.: RSING 015.5957 SIN)
+National Library (Singapore). [_Singapore National Bibliography: Issue 1_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6457645) (Cumulative through June 2009). Singapore: National Library. (Call no.: RSING 015.5957 SIN)
 
 Ramli, A. Hadi. (1981, October 22). [Pasaran buku terbitan tempatan kurang laku](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811022-1.2.131.6.1.2). _The Straits Times_, p. 4. Retrieved from NewspaperSG.
 
