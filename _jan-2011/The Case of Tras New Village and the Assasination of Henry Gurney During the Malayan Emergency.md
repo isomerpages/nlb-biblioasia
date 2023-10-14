@@ -81,8 +81,8 @@ To the British, both in Whitehall (London) and King's House (Kuala Lumpur), the 
 
 In the context of the Emergency, the history of Tras is illustrative of an extreme set of circumstances. The assassination of the High Commissioner not only altered Tras’ historical trajectory; the mass detention and collective punishment further displaced and dispersed the Hakka community in Malaya. The Tras people bore the heavy costs of this tragic event, enduring family separation, considerable emotional trauma and financial hardship during the Emergency period and in the decades after.
 
-**The author wishes to acknowledge the contributions of Dr James Francis Warren, Professor of Southeast Asian Modern History, Murdoch University, in reviewing 
-this research essay.**
+<i>The author wishes to acknowledge the contributions of Dr James Francis Warren, Professor of Southeast Asian Modern History, Murdoch University, in reviewing 
+this research essay.</i>
 
 <br>
 <div style="background-color: white;">
@@ -98,19 +98,19 @@ this research essay.**
 
 [^3]: See “[Troops Search Ambush Area](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511008-1.2.2),” _Straits Times_, 8 October 1951, 1. (From NewspaperSG)
 
-[^4]: “[No Evidence of Breach in Security](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511009-1.2.5),” _Straits Times_, 9 October 1951, 1. (From NewspaperSG). Among these documents were bandit’s plans for an ambush in that area and a log of military vehicles passing on October 5 and the morning of October 6. See “[Troops Search Ambush Area](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511008-1.2.2).”
+[^4]: “[No Evidence of Breach in Security](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511009-1.2.5),” _Straits Times_, 9 October 1951, 1. (From NewspaperSG). Among these documents were bandits’ plans for an ambush in that area and a log of military vehicles passing on October 5 and the morning of October 6. See “[Troops Search Ambush Area](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511008-1.2.2).”
 
 [^5]: Chin Peng, _Alias Chin Peng: My Side of the History_ (Singapore: Media Masters Pte Ltd., 2003), 287.
 
-[^6]: According to one government statement, 15 battles had occurred in the Tras area since the outset of the emergency, leaving 20 people dead and 14 wounded. In addition, the authorities had recorded 25 cases of attempted murder. The security forces has also discovered 24 “supply dumps” and 52 “bandit camps” in the vicinity of the town over the past three years. See Leslie Hoffman, “[‘Terror’ Town To Be Moved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2),” _Straits Times_, 8 November 1951, 1. (From NewspaperSG)
+[^6]: According to one government statement, 15 battles had occurred in the Tras area since the outset of the emergency, leaving 20 people dead and 14 wounded. In addition, the authorities had recorded 25 cases of attempted murder. The security forces has also discovered 24 “supply dumps” and 52 “bandit camps” in the vicinity of the town over the past three years. See Leslie Hoffman, “[‘Terror’ Town to Be Moved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2),” _Straits Times_, 8 November 1951, 1. (From NewspaperSG)
 
 [^7]: Tras was reported as “a favourite haunt of the gang and police suspect that the bandits have many friends in the village and its resettlement area”. See “[Killer Gang Slips Out of the Trap](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511030-1.2.9),” _Straits Times_, 18 November 1951, 1. (From NewspaperSG)
 
-[^8]: Hoffman, “[‘Terror’ Town To Be Moved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2).”
+[^8]: Hoffman, “[‘Terror’ Town to Be Moved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2).”
 
-[^9]: Hoffman, “[‘Terror’ Town To Be Moved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2).”
+[^9]: Hoffman, “[‘Terror’ Town to Be Moved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2).”
 
-[^10]: Hoffman, “[‘Terror’ Town To Be Moved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2).”
+[^10]: Hoffman, “[‘Terror’ Town to Be Moved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511108-1.2.2).”
 
 [^11]: It was said that the daughter was later deported to China. Interview with Madam Leong by the author on 2 December 2007.
 
@@ -118,17 +118,17 @@ this research essay.**
 
 [^13]: “[Tras Evacuation Ends: 2,000 Quit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511110-1.2.25),” _Straits Times_, 10 November 1951, 2. (From NewspaperSG)
 
-[^14]: For instance, Mr Lau, a grocery owner, asked his brother to transport his goods to the former’s grocery shop in Raub. Interview with Mrs Lau by the author on 12 December 2007. Tras. Another informant said his father asked a friend to sell his medicinal goods in Raub. His father lost a lot of money since it had to be sold in such a short time. Interview with Mrs Tang by the author on 19 October 2007.
+[^14]: For instance, Mr Lau, a grocery owner, asked his brother to transport his goods to the former’s grocery shop in Raub. Interview with Mrs Lau by the author on 12 December 2007. Another informant said his father asked a friend to sell his medicinal goods in Raub. His father lost a lot of money since it had to be sold in such a short time. Interview with Mrs Tang by the author on 19 October 2007.
 
 [^15]: A newspaper reported that government agents bought $70,000 worth of rubber from the dealers at Tras. There was also about $50,000 worth of rice in storage, including bags of first-grade Siamese rice. One of the liquor shops had 62 uonpened cases of brandy and showcases full of other types of liquor. Government teams also recorded $100,000 worth of textiles in the shops. “[Doomed Town Has Hoarded Fortune in Food, Drink](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511109-1.2.76),” _Straits Times_, 9 November 1951, 7. (From NewspaperSG)
 
 [^16]: See “[Tras Evacuation Ends: 2,000 Quit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511110-1.2.25).”
 
-[^17]: Interview with Mr Li by the author on 5 July 2007. Tras New Village. The site is not a State Stadium. I visited the spacious stadium which could accommodated three to four thousand people when it was a detention camp in 1950s.
+[^17]: Interview with Mr Li by the author on 5 July 2007. The site is now a state stadium. I visited the spacious stadium which could accommodate three to four thousand people when it was a detention camp in the 1950s.
 
 [^18]: “[37 Held From ‘Murder Village’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520313-1.2.49),” _Straits Times_, 13 March 1952, 5. (From NewspaperSG)
 
-[^19]: Interview with Mr Tao with the author on 26 November 2007. Tras New Village; Interview with Mr Lee by the author on 3 December 2007.
+[^19]: Interview with Mr Tao with the author on 26 November 2007; Interview with Mr Lee by the author on 3 December 2007.
 
 [^20]: “[37 Held From ‘Murder Village’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520313-1.2.49).”
 
@@ -144,7 +144,7 @@ this research essay.**
 
 [^26]: “[Sir Henry Gurney Killed – He Drew Bandit Fire](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511007-1.2.2),” _Straits Times_, 7 October 1951, 1. (From NewspaperSG)
 
-[^27]: Interview with Mr Chang by the author on 12 December 2007. Sempalit New Village. The local Chinese used to address the British High Commissioner as ‘Imperial Commissioner’ (In Chinese)
+[^27]: Interview with Mr Chang by the author on 12 December 2007. Sempalit New Village. The local Chinese used to address the British High Commissioner as “Imperial Commissioner” (in Chinese).
 
 [^28]: Author’s interview with villagers in a coffeeshop in Tras New Village on 2 December 2007.
 
