@@ -87,17 +87,17 @@ Chew, E.C.T. (1966). _Sir Frank Swettenham’s Malayan career up to 1896._ Singa
 
 Doran, C. (2008). Golden marvels and gilded monsters: Two women’s accounts of colonial Malaya. _Asian Studies Review, 22_ (2), 175–192.
 
-Gullick, J.M. (1993). Emily Innes 1876–1882. In [_Glimpses of Selangor, 1860–1898_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6538361) (pp. 157—192). Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society. (Call no.: RSING 959.5104 GUL)
+Gullick, J.M. (1993). Emily Innes 1876–1882. In [_Glimpses of Selangor, 1860–1898_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6538361) (pp. 157–192). Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society. (Call no.: RSING 959.5104 GUL)
 
 Gullick, J.M. (Ed.). (1995). Emily Innes: Keeping up one’s standards in Malaya. In [_Adventurous women in South-east Asia – six lives_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7185933) (pp. 147–195). Kuala Lumpur: Oxford University Press. (Call no.: RSING 959 ADV)
 
 Heussler, R. (1981). [_British rule in Malaya: The Malayan Civil Service and its predecessors 1887–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1712753). Westport, Conn.: Greenwood Press. (Call no.: RCLOS 354.5951006 HEU)
 
-Innes, E. (1885). [_The Chersonese with the gliding off_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4180521)_._ (2 vols.). London: Richard Bentley &amp; Sons. (Call no.: RRARE 959.51033 IN; Microfilm nos.: NL26023, NL7462)
+Innes, E. (1885). [_The Chersonese with the gilding off_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4180521)_._ (2 vols.). London: Richard Bentley &amp; Sons. (Call no.: RRARE 959.51033 IN; Microfilm nos.: NL26023, NL7462)
 
-Innes, E. (1974). [_The Chersonese with the gliding off: With an introduction by Khoo Kay Kim_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=342355)_._ Kuala Lumpur: Oxford University Press. (Call no.: RCLOS 959.5 INN)
+Innes, E. (1974). [_The Chersonese with the gilding off: With an introduction by Khoo Kay Kim_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=342355)_._ Kuala Lumpur: Oxford University Press. (Call no.: RCLOS 959.5 INN)
 
-Innes, E. (1993). [_The Chersonese with the gliding off_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6864774). (2 vols.). Kuala Lumpur: Oxford University Press. (Call no.: RSING 915.951043 INN)
+Innes, E. (1993). [_The Chersonese with the gilding off_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6864774). (2 vols.). Kuala Lumpur: Oxford University Press. (Call no.: RSING 915.951043 INN)
 
 Jedamski, D. (1995). [_Images, self-images and the perception of the other women travellers in the Malay Archipelago_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7447107)_._ Hull, England: University of Hull, Centre for South-East Asian Studies. (Call no.: RSING 155.33309598 JED)
 
@@ -115,22 +115,22 @@ Wong, Y.S. (1999, May). Bibliography: 19th century AD. _The Canadian Review of S
 
 #### **NOTES**
 
-[^1]: Gullick details some of James Innes’ inadequacies in managing finances, a characteristic which likely led to problems with his superiors particularly in his role as Treasurer and Collector. [Gullick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6538361), 1993, pp. 162–164, 167–169.
+[^1]: Gullick details some of James Innes’ inadequacies in managing finances, a characteristic which likely led to problems with his superiors particularly in his role as Treasurer and Collector. ([Gullick](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6538361), 1993, pp. 162–164, 167–169)
 
-[^2]: For example, Emily was made to trudge through the wilderness at her husband’s whim, a supposedly short few mils to the main town. However, her flouncy and uncomfortable English dress, the muddy conditions, the failing light of twilight and James’ forgetting his way meant the party was soon lost in the dark and Emily left in great discomfort.
+[^2]: For example, Emily was made to trudge through the wilderness at her husband’s whim, a supposedly short few miles to the main town. However, her flouncy and uncomfortable English dress, the muddy conditions, the failing light of twilight and James’ forgetting his way meant the party was soon lost in the dark and Emily left in great discomfort.
 
 [^3]: James resigned his post in Malaya only to regret this much later as he forfeited a pension subsequently linked to his position.
 
-[^4]:Although initially the Inneses seemed to get along with the Resident at Selangor, Bloomfied Douglas, relations quickly deteriorated.
+[^4]: Although initially the Inneses seemed to get along with the Resident at Selangor, Bloomfield Douglas, relations quickly deteriorated.
 
 [^5]: [Sadka](https://eservice.nlb.gov.sg/item_holding.aspx?bid=384104), 1968, pp. 20—21.&nbsp;  
   
 [^6]: [Sadka](https://eservice.nlb.gov.sg/item_holding.aspx?bid=384104), 1968, pp. 20–21.
 
-[^7]: The women had never met but Isabella was escorted through Selangor by James. Isabella notes that James was in “dejected spirits, as if the swamps of Durian Sabatang had been too much for him” ([Bird](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123671), 1883, p. 276) though in her private letters, Isabella mentions that she found James ‘a main with a feeble, despairing manner and vague unfocussed eyes… a very dreary and unintelligent companion”. (Bird &amp; Chubbuck, 2002, p. 273).
+[^7]: The women had never met but Isabella was escorted through Selangor by James. Isabella notes that James was in “dejected spirits, as if the swamps of Durian Sabatang had been too much for him” ([Bird](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123671), 1883, p. 276) though in her private letters, Isabella mentions that she found James “a main with a feeble, despairing manner and vague unfocussed eyes… a very dreary and unintelligent companion”. (Bird &amp; Chubbuck, 2002, p. 273).
 
-[^8]: Today, the district is known as Kuala Langat. The Klang Wars of 1868 saw the royal town move from the ancient centre of Jugra to Bandar Temasya and the town became key to the development of Selangor during the reign of Sultan Abdul Samad Ibn Almarhum Raja Abdullah (Port Klang Integrated Coastal Management Project)
+[^8]: Today, the district is known as Kuala Langat. The Klang Wars of 1868 saw the royal town move from the ancient centre of Jugra to Bandar Temasya and the town became key to the development of Selangor during the reign of Sultan Abdul Samad Ibn Almarhum Raja Abdullah (Port Klang Integrated Coastal Management Project).
 
 [^9]: A name given for the “unhealthiness of its climate”. ([Innes](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4180521), 1885, p. 55)
 
-[^10]: A note from Ernest Chew “Captain Bloomfield Douglas was succeeded as British Resident of Selangor by the youthful and more efficient Frank Swettenham, who subsequently became Resident of Perak, Resident-General of the four Federated Malay States, and finally Governor of the Straits Settlements and High Commissioner for the Malay States”.
+[^10]: A note from this article’s reviewer, Ernest Chew: “Captain Bloomfield Douglas was succeeded as British Resident of Selangor by the youthful and more efficient Frank Swettenham, who subsequently became Resident of Perak, Resident-General of the four Federated Malay States, and finally Governor of the Straits Settlements and High Commissioner for the Malay States.”
