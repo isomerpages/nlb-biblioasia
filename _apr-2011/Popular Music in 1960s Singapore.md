@@ -6,7 +6,7 @@ description: Research Associate Joanna Tan traces the growth of English popular
   impact of nation building on the music scene, and its eventual decline by the
   early 1970s.
 ---
-#### Research Associate&nbsp;_Joanna Tan_&nbsp;traces the growth of English popular music in 1960s Singapore and the formation of local bands. She outlines the impact of nation-building on the music scene, and its eventual decline by the early 1970s.
+#### Research Associate *Joanna Tan* traces the growth of English popular music in 1960s Singapore and the formation of local bands. She outlines the impact of nation-building on the music scene, and its eventual decline by the early 1970s.
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/PopularMusic/TheLoser.jpg">
  <div style="background-color: white;">Cover of 45rpm EP<i> I’m the Loser</i> (1966) by Naomi and The Boys. <i>Courtesy of National Archives of Singapore.</i></div>
