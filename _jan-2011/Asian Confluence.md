@@ -9,7 +9,7 @@ description: Visiting Senior Research Fellow at the Institute of Southeast Asian
   different Eastern cultures, along with the Western tradition, gave birth to
   the Singapore and modern science that we know today.
 ---
-#### Visiting Senior Research Fellow at the Institute of Southeast Asian Studies *Dr Arun Bala* writes that recent studies have questioned the Eurocentric understanding of Singapore society and the science that drives it. These new approaches may be characterised as dialogical in contrast to traditional Eurocentric perspectives, suggesting that a confluence of different Eastern cultures, along with the Western tradition, gave birth to the Singapore and modern science that we know today.
+#### Visiting Senior Research Fellow at the Institute of Southeast Asian Studies *Dr Arun Bala* argues that a confluence of different Eastern cultures, along with the Western tradition, led to modern science and the Singapore that we know today.
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/AsianConfluence/biblioasia%20map2.jpg">
  <div style="background-color: white;">Map of the East India Company’s settlement of Singapore (1819). <i>Courtesy of National Archives of Singapore.</i></div>
