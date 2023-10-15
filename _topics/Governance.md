@@ -3,6 +3,18 @@ title: Governance
 permalink: /topics/governance/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">The Bumpy Ride to Making Crash Helmets Mandatory</a>
+Crash helmets might save lives but getting people to wear them was an uphill task.
+
+![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/crash_helmet_header.jpg)
+
+
+
+
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/family-planning-singapore/">The Early Days of Family Planning in Singapore</a>
 Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972, but goes back even earlier to 1949.
 
@@ -49,7 +61,7 @@ Singapore’s diplomatic efforts may take several forms, including naming orchid
 <hr>
 
 ### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/rugged-society/">A Rugged Society: Adventure and Nation-Building</a>
-The call to create a “rugged society” in Singapore has resonated through the decades. Shaun Seah looks at how the policy shaped young people in the 1960s.
+The call to create a “rugged society” in Singapore has resonated through the decades.&nbsp;Shaun Seah&nbsp;looks at how the policy shaped young people in the 1960s.
 
 
 
