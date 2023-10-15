@@ -7,7 +7,7 @@ description: Lee Kong Chian Research Fellow Phyllis Ghim-Lian Chew draws from
   religious and literary activities, and rites of passage, as a means to study
   the processes of acculturation and assimilation.
 ---
-####  Lee Kong Chian Research Fellow&nbsp;_Phyllis Ghim-Lian Chew_&nbsp;draws from the social and linguistic history of colonial Singapore, and proposes a plurality-solidarity cline with parameters such as dress, food, the arts, religious and literary activities, and rites of passage, as a means to study the processes of acculturation and assimilation.
+####  Lee Kong Chian Research Fellow *Phyllis Ghim-Lian Chew* draws from the social and linguistic history of colonial Singapore, and proposes a plurality-solidarity cline with parameters such as dress, food, the arts, religious and literary activities, and rites of passage, as a means to study the processes of acculturation and assimilation.
 
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/PluralitySolidarity/Pineapple%20Tarts.jpg">
@@ -130,7 +130,3 @@ S. N. Arseculteratne, _[Sinhaleses Immigrants in Malaysia &amp; Singapore, 1860�
 Sarah Thiyagaraj, S. (1998). _[The Chetty Melaka Community: Its Origin and Its Cultural Identity](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10890601)_ (University of New South Wales, 1998). (Call no. RSEA q305.89140595 THI)
 
 W. G. Shellabear, “Baba Malay. An Introduction to the Language of the Straits Chinese,” _Journal of the Straits Branch, Royal Asiatic Society_ 65 (December 1913): 49–63 (Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website). Reproduced John R. Clammer, _[Straits Chinese Society: Studies in the Sociology of Baba Communities of Malaysia and Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080233)_ (Singapore: Singapore University Press, 1980), 153–65. (Call no. RSING 301.45195105957 CLA)
-
-
-
-
