@@ -15,14 +15,16 @@ Money No Enough, Forever Fever and The Teenage Textbook Movie kickstarted a new 
 
 <img src="/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/money_no_enough.png">  
 
-
-
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/">Repairing and Restoring Singapore’s Reel Heritage</a>
 The Asian Film Archive has been restoring old classics since 2014.
 
 <img src="/images/Vol%2018%20Issue%204/Asian%20Film/image14.png">  
 <hr>
+
+
+
+
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a>
 While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
