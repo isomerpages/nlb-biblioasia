@@ -39,6 +39,9 @@ Shellabear’s translation however was unique in the Malay Peninsula as it was i
 
 (“Several decades ago, an intelligent gentleman translated this tale to Malay. However, as he used complex terms, the Chinese Peranakans found it difficult to understand. Because of this, we have translated this tale into Peranakan Malay so all Chinese and their women folk who speak Malay will be able to better understand it.”)
 
+<img src="/images/Vol%205%20Issue%203/BabaMalay/Christian%20with%20wife%20&amp;%20children1.jpg" style="width:100%;">
+ <div style="background-color: white;">Christian with his wife and children.<i> Image reproduced from Bunyan, J. (1905). Chrita orang yang chari slamat, p. 2. All rights reserved, American Mission Press, 1905. </i></div>
+
 Slightly more than a decade after Keasberry passed away, Shellabear came to Singapore in 1887, not as a missionary but as a military man in the British Royal Engineers, assigned to build Singapore’s defence. He fell in love with the Malay soldiers under his command and sought to take the gospel story to them. Thus his passion turned him to translating religious works into Malay and, conversely, translating Malay classical mythology into English. Leaving the military, he joined the Methodist Missions and established the Methodist Mission Press in Singapore which brought out various publications in Malay along with invaluable language tools such as English-Malay dictionaries and grammars, still highly regarded even today.
 
 The Press and his translation work took much of his time, but Shellabear had to return to England in 1894 on account of his wife Fanny’s ill-health. She unfortunately passed away and Shellabear returned to Singapore and later married Emma Ferris in 1897, an active Methodist missionary whose work had crossed paths with his. By 1904, the Shellabears’ base for missionary work had moved to Malacca, the heartland of the Straits Chinese. It was here that Shellabear would translate *Pilgrim’s Progress*.
@@ -65,6 +68,9 @@ However, it is only in the introduction to the text that Shellabear remains true
 #### **Illustrations of the Straits Chinese**
 
 T. W. Cherry had taken over from Shellabear in the running of the Methodist printing press in Singapore. In mid-1904, C. W. Bradley, a young illustrator, had been sent by the American Methodist Missions to assist Cherry in the work of the printing press. Unfortunately, Bradley proved inadequate in printing duties as his only experience had been as a cartoonist for a newspaper. As the Missions had to pay for his passage home, he was sent to Shellabear in Malacca to illustrate *Pilgrim’s Progress* to make it worth their money.[^9] The result was 24 fine line drawings that detail the life of the Chinese in the Straits Settlements at the turn of the 20th century.
+
+<img src="/images/Vol%205%20Issue%203/BabaMalay/Hill%20of%20Difficulty.jpg" style="width:50%;">
+ <div style="background-color: white;">Hill of Difficulty. <i> Image reproduced from Bunyan, J. (1905). Chrita orang yang chari slamat, p. 55. All rights reserved, American Mission Press, 1905. </i></div>
 
 In the introduction, Shellabear praised Bradley for his accurate depiction of the local people and scenery: “…dia sudah tulis btul sperti rupa orang dan rumah-rumah dan pokok-pokok yang kita tengok sini s-hari-hari…(see below)” (“…he has made realistic drawings of people, homes and trees that we see daily...”)
 
