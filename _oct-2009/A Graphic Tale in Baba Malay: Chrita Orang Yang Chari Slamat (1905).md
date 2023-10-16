@@ -27,8 +27,8 @@ Almost 250 years since its first publication, another passionate Christian in Ma
 
 #### **Malay Translations**
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">“It would be difficult to name an English classic which would seem less likely to appeal to the frankly hedonistic Malays than Bunyan’s <i>Pilgrim’s Progress</i>. Yet there are three translations of this book in the Malay language”.[^1] 
-</div>
+“It would be difficult to name an English classic which would seem less likely to appeal to the frankly hedonistic Malays than Bunyan’s <i>Pilgrim’s Progress</i>. Yet there are three translations of this book in the Malay language”.[^1] 
+
 
 The story of the Pilgrim was already much alive among the local community at the turn of the 20th century. For instance, in the 1880s, readings from *Pilgrim’s Progress* in Chinese were conducted at the Prinsep Street Church for Straits Chinese, accompanied by singing in English and Malay concerning the life and works of Bunyan and illustrated using magic-lantern slides.[^2] Characters such as Worldly Wiseman and Hopeful were thus part of the Christian vocabulary among the Straits Chinese prior to the publication of the story in Baba Malay.
 
