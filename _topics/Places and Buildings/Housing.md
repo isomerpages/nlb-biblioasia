@@ -10,6 +10,14 @@ Kampong Wak Sumang, one of Singapore’s earliest fishing villages, was purporte
 <img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/opening%20spread.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/history-pasir-ris">Bridging Past and Present in Pasir Ris</a>
+Once dotted with plantations and mangrove swamps, Pasir Ris is today a bustling residential town with modern facilities and amenities.
+
+<img src="/images/Vol%2019%20Issue%202/Pasir%20Ris/lorong%20halus%20red%20bridge%20(stb).jpg">
+<hr>
+
+
+
 
 
 
