@@ -7,7 +7,7 @@ third_nav_title: People
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/">Women and the Typewriter in Singapore’s Herstories</a>
 The humble typewriter helped women become better educated, enter the workforce and contribute to society.
 
-<img src="/images/Vol%2019%20Issue%201/Women%20Typewriter/20090000509%20img0185_Women%20Typewriter_Home%20page.jpg">
+<img src="/images/Vol%2019%20Issue%201/Women%20Typewriter/Yusof_Ishak.png">
 <hr>
 
 
@@ -91,16 +91,16 @@ Edward Stokes reflects on Characters of Light by Marjorie Doggett, first publish
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/wong-din-haan">Wong Din Haan: A Pioneer Educator </a>
-Wong Din Haan, who founded a girls’ school in Singapore, was also a champion for women’s rights. Patricia Lim tells us more.
+Wong Din Haan, who founded a girls’ school in Singapore, was also a champion for women’s rights.&nbsp;Patricia Lim tells us more.
 <img style="width:600px;" src="/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg"> 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/asthma">Asthma, Amahs and Amazing Food</a>
-Irene Lim recalls herbal remedies, home-cooked meals and domestic servants in this extract from her memoir, _90 Years in Singapore_.
+Irene Lim&nbsp;recalls herbal remedies, home-cooked meals and domestic servants in this extract from her memoir,&nbsp;_90 Years in Singapore_.
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
-A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as Toffa Abdul Wahed tells us.
+A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as&nbsp;Toffa Abdul Wahed&nbsp;tells us.
 
 <img style="width:600px;" src="/images/vol-17-issue-4/cookbook/cookbook.png"> 
 <hr>
