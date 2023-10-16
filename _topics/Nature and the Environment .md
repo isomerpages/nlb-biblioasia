@@ -9,14 +9,15 @@ The skeleton of a blue whale took pride of place at the former Raffles Museum fo
 <img src="/images/Vol%2019%20Issue%202/Whale%20Skeleton/image1-edit.png">  
 <hr>
 
-
-
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/">Subaraj Rajathurai: A Voice for the Wild</a>
 A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to save Singapore’s green spaces.
 
 <img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg">  
 <hr>
+
+
+
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day"> The Blossoming of Tree Planting Day</a>
 Singapore has planted more than two million trees in the past 50 years.&nbsp;Lim Tin Seng&nbsp;traces the roots of Tree Planting Day.
