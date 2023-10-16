@@ -4,7 +4,7 @@ permalink: /vol-6/issue-4/jan-2011/singapura-sastera-melayu-pasca/
 description: Librarian Juffri bin Supa’at examines the growth and development of
   Singapore Malay Literature after 1965.
 ---
-#### Librarian *Juffri bin Supa’at* examines the growth and development of Singapore Malay Literature after 1965.
+#### Librarian *Juffri Bin Supa’at* examines the growth and development of Singapore Malay Literature after 1965.
 
 <img style="width:50%;" src="/images/Vol%206%20issue%204/SasteraMelayu/Friday,%20Dec%2009,%202005%20(5a).jpg">
  <div style="background-color: white;">Contoh karya dalam bentuk stensilan, 1977.</div>
@@ -61,15 +61,16 @@ Kini, dengan pelbagai inisiatif untuk mengembangkan kesenian di Singapura, sudah
 
 Yang pasti, kita dapat menjangkakan bahawa sastera Melayu di Singapura akan terus berkembang sebagaimana yang berlaku pada pasca 1965. Secara sedar atau tidak, kesinambungan ini telah membina laluan untuk mengembangkan jalur kesusasteraan Singapura. Meskipun berbeza, sastera Melayu Singapura tetap turut sama memberikan sumbangan bermakna dalam pembangunan sastera Melayu di nusantara disamping mencari peluang meneroka ruang-ruang persuratan di persada dunia.
 
-#### **Singapore Malay Literature Post-1965**
 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Singapore Malay Literature Post-1965</b><br><br>  
+	
 Before 1965, Singapore was the centre of publishing in the region. This was due in part to the wealth of modern printing equipment it owned in advance of its neighbours, which attracted Malay authors from far and wide who sought to expand their publishing opportunities. In this way, Singapore played a key role in the development of modern Malay literature.
 
-After the separation of Singapore from Malaysia in 1965, many anticipated that Singapore Malay Literature would face a bleak future, especially with the departure of many literary giants in the community — such as Usman Awang and Keris Mas — who decided to leave Singapore for their home country. Instead, Malay literature in Singapore continued to flourish despite the initial slow pace of development, and we can expect it to continue to grow.
+After the separation of Singapore from Malaysia in 1965, many anticipated that Singapore Malay literature would face a bleak future, especially with the departure of many literary giants in the community – such as Usman Awang and Keris Mas – who decided to leave Singapore for their home country. Instead, Malay literature in Singapore continued to flourish despite the initial slow pace of development, and we can expect it to continue to grow.
 
-Although differing from other bodies of Malay literature in the region, Singapore Malay Literature makes a significant and meaningful contribution to the development of Malay Literature as a whole, while simultaneously exploring opportunities on the global stage.
+Although differing from other bodies of Malay literature in the region, Singapore Malay literature makes a significant and meaningful contribution to the development of Malay literature as a whole, while simultaneously exploring opportunities on the global stage.</div>
 
-**Penulis menghargai usahasama Tajudin Jaffar, Setiausaha, Majlis Bahasa Melayu Singapura, yang mengulas makalah ini.**
+<i>Penulis menghargai usahasama Tajudin Jaffar, Setiausaha, Majlis Bahasa Melayu Singapura, yang mengulas makalah ini.</i>
 
 <br>
 <div style="background-color: white;">
@@ -79,7 +80,7 @@ Although differing from other bodies of Malay literature in the region, Singapor
 
 #### **RUJUKAN**
       
-A R Kemalawati, “[Singapura Main Peranan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840329-1.2.87.11),” _Straits Times_, 29 March 1984, 4. (From NewspaperSG)
+A.R. Kemalawati, “[Singapura Main Peranan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19840329-1.2.87.11),” _Straits Times_, 29 March 1984, 4. (From NewspaperSG)
 
 Dehliez, _[Kuman](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11488468)_ (Singapura: Pustaka Nasional, 2002). (Call no. RSING 899.283 DEH)
 
@@ -109,7 +110,7 @@ Mas, _[Adam Kena Hujan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=411780
 
 Mas, _[Mail Mau Kawin](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4140469)_ (Singapura: Pustaka Nasional, 1976). (Call no. Malay RSING S899.2305 MAS)
 
-S. N. Masuri, _[Bunga Pahit: Kumpulan Kedua Dari Suara Dan Dichara, Sajak-Sajak ilihan 1957–60](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4120231)_ (Kuala Lumpur: Oxford University Press, 1967). (Call no. Malay RCLOS 899.2305 MAS)
+S.N. Masuri, _[Bunga Pahit: Kumpulan Kedua Dari Suara Dan Dichara, Sajak-Sajak ilihan 1957–60](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4120231)_ (Kuala Lumpur: Oxford University Press, 1967). (Call no. Malay RCLOS 899.2305 MAS)
 
 Mohd Ikhlash Abdullah, _[Kesal](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11721573)_ (Singapore: Pustaka Nasional, 2002). (Call no. Malay RSING 899.283 MOH)
 
