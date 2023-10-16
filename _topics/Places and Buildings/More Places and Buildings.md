@@ -10,6 +10,11 @@ The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped 
 <img src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew.png" style="width:50%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/singapore-courthouse-maxwell/">Which Was Singapore's First Courthouse?</a>
+Singapore’s former Parliament building, known today as The Arts House, was used as a courthouse from 1828 to 1939. Prior to that, legal hearings were held in at least three other venues.
+
+<img src="/images/Vol%2019%20Issue%201/Courthouse/Former_courthouse.png" style="width:100%;">
+<hr>
 
 
 
