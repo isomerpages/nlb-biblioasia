@@ -5,7 +5,7 @@ description: Research Associate Jennifer Lew interviews Sandcastles director Boo
   Junfeng about history, the National Library and the research process behind
   the making of Sandcastle.
 ---
-####  Research Associate&nbsp;_Jennifer Lew_&nbsp;interviews&nbsp;_Sandcastles_&nbsp;director Boo Junfeng about history, the National Library and the research process behind the making of&nbsp;_Sandcastle_.
+#### *Jennifer Lew* interviews *Sandcastles* director Boo Junfeng about history, the National Library and the research process behind the making of his latest film.
 
 
 <img style="width:80%;" src="/images/Vol%207%20Issue%201/UndiscoveredSpaces/ss1.jpg">

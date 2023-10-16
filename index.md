@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/
-      button: "32 Binjai Park: The Modernist Home of an Architect"
+      url: vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/
+      button: The Origin Stories of Keramat Kusu
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 2/Binjai/hero_img_binjai_park.jpg
+      background: /images/keramat_kusu_hero.png
   - infopic:
       title: A Brief History of John Little at Raffles Place
       subtitle: Places and buildings
