@@ -7,7 +7,7 @@ third_nav_title: Places and Buildings
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/">Neo Tiew: The Man Who Built Lim Chu Kang</a>
 The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area.
 
-<img src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew.png" style="width:50%;">
+<img src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/singapore-courthouse-maxwell/">Which Was Singapore's First Courthouse?</a>
