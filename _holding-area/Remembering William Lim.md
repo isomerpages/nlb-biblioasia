@@ -104,9 +104,3 @@ The works featured in the exhibition, “To Draw an Idea”, are part of the Sin
 [^10]: “In Memoriam: William Lim Siew Wai, Eminent Architect and Benefactor of NUS Cultural Studies Programme,” NUS Faculty of Arts &amp; Social Sciences, 19 January 2023, https://fass.nus.edu.sg/news/2023/01/19/in-memoriam-william-lim-siew-wai-eminent-architect-and-benefactor-of-nus-cultural-studies-programme/; Zhuang, “William Lim Siew Wai.”
 
 [^11]: Zhuang, “William Lim Siew Wai.”
-
-
-
-
-
-
