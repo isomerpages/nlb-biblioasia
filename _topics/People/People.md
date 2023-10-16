@@ -19,7 +19,7 @@ Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in 1977.  Four
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/tok-sumang-english/">Tok Sumang: A Translation</a>
 A story about Wak Sumang, a man of great wisdom and many talents, and the founder of Kampong Punggol.
 
-<img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20cover%20reduced.jpg">
+<img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20cover%20reduced.jpg" style="width:50%;">
 <hr>
 
 
