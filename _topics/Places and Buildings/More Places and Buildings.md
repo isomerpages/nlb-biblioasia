@@ -4,6 +4,17 @@ permalink: /topics/places-and-buildings/more/
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/">Neo Tiew: The Man Who Built Lim Chu Kang</a>
+The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area.
+
+<img src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew.png" style="width:50%;">
+<hr>
+
+
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores/">"Book City" in Two Streets: The Chinese Bookstore Scene in Postwar Singapore</a>
 
 Some Chinese bookstores in Singapore have managed to survive despite the challenges of the digital age and the decline in Chinese readers.
@@ -41,11 +52,11 @@ Wet markets have existed in Singapore since 1825. Zoe Yeo looks at how these mar
 <hr>
 
 #### <a href="/vol-18/issue-1/apr-to-jun-2022/history-padang" style="text-decoration: none; font-weight: bold;">A History of The Padang</a> 
-Kevin Tan looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
+Kevin Tan&nbsp;looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
 <hr>
 
 #### <a href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital" style="text-decoration: none; font-weight: bold;">Labouring to Deliver: A History of Kandang Kerbau Hospital</a> 
-The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. Joanna Tan delivers the story behind a hallowed Singapore institution.
+The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world.&nbsp;Joanna Tan&nbsp;delivers the story behind a hallowed Singapore institution.
 
 <img src="/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001245%20IMG0083.png">
 <hr>
@@ -87,21 +98,21 @@ Charmaine Leung relives the sights and sounds of Keong Saik Road – where she l
 
 
 #### <a href="/vol-15/issue-3/oct-dec-2019/dieppe-barracks/" style="text-decoration: none; font-weight: bold;">Dieppe Barracks: “Our Little Kingdom” in Sembawang</a>
-Military camps and training areas comprise a significant portion of Singapore’s land use. What can a single camp tell us about Singapore’s geopolitical history? A lot, as it turns out, says Chua Jun Yan.
+Military camps and training areas comprise a significant portion of Singapore’s land use. What can a single camp tell us about Singapore’s geopolitical history? A lot, as it turns out, says&nbsp;Chua Jun Yan.
 <hr>
 
 #### <a href="/vol-15/issue-3/oct-dec-2019/give-me-shelter-stry/" style="text-decoration: none; font-weight: bold;">Give Me Shelter: The Five-footway Story</a>
-The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. Fiona Lim relives its colourful history.
+The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore.&nbsp;Fiona Lim&nbsp;relives its colourful history.
 <hr>
 
 #### <a href="/vol-17/issue-4/jan-to-mar-2022/pulau-lingga/" style="text-decoration: none; font-weight: bold;">Mother Island: Finding Singapore's Past in Pulau Lingga</a>
-Singapore’s history is closely intertwined with that of Lingga’s. The kings that once reigned from its shores played a pivotal role in the fate of the Malay world, including the birth of modern Singapore, as Faris Joraimi reveals.
+Singapore’s history is closely intertwined with that of Lingga’s. The kings that once reigned from its shores played a pivotal role in the fate of the Malay world, including the birth of modern Singapore, as&nbsp;Faris Joraimi reveals.
 
 <img src="/images/vol-17-issue-4/mother-island/Lingga.jpg" style="width:100%;"> 
 <hr>
 
 #### <a href="/vol-15/issue-2/jul-sep-2019/preservation-buildings/" style="text-decoration: none; font-weight: bold;">To Wreck or to Recreate: Giving New Life to Singapore’s Built Heritage</a>
-Nearly 70 years have passed since a committee was set up to look into the preservation of buildings and sites with historical value. Lim Tin Seng charts the journey.
+Nearly 70 years have passed since a committee was set up to look into the preservation of buildings and sites with historical value.&nbsp;Lim Tin Seng charts the journey.
 <hr>
 
 #### <a href="/vol-15/issue-1/apr-jun-2019/building-history/" style="text-decoration: none; font-weight: bold;">Building History: From Stamford Road to Canning Rise</a>
@@ -109,7 +120,7 @@ Abigail Huang tracks the movement of the National Archives of Singapore, from it
 <hr>
 
 #### <a href="/vol-15/issue-4/jan-mar-2020/istana-turns-150/" style="text-decoration: none; font-weight: bold;">The Istana Turns 150</a>
-The resplendent Istana – where colonial governors and modern-day presidents once lived – celebrated its 150th anniversary in 2019. Wong Sher Maine recounts key moments in its history.
+The resplendent Istana – where colonial governors and modern-day presidents once lived – celebrated its 150th anniversary in 2019.&nbsp;Wong Sher Maine&nbsp;recounts key moments in its history.
 
 
 	
