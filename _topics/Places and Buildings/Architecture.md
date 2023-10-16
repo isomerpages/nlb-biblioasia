@@ -16,6 +16,24 @@ With the en bloc sale of Golden Mile Complex in 2021, the tenants of the shoppin
 <img src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden%20mile%201.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/kampong-wak-sumang-punggol">Remembering Punggol’s Kampong Wak Sumang and the Man Who Made It Happen</a>
+Kampong Wak Sumang, one of Singapore’s earliest fishing villages, was purportedly founded by a warrior-diplomat whose musical abilities landed him in trouble.
+
+<img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/opening%20spread.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house">32 Binjai Park: The Modernist Home of an Architect</a>
+The house that Lee Kip Lin built has stood the test of time, reflecting its simple yet modern and clean design.
+
+<img src="/images/Vol%2019%20Issue%202/Binjai/image2.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/history-pasir-ris">Bridging Past and Present in Pasir Ris</a>
+Once dotted with plantations and mangrove swamps, Pasir Ris is today a bustling residential town with modern facilities and amenities.
+
+<img src="/images/Vol%2019%20Issue%202/Pasir%20Ris/lorong%20halus%20red%20bridge%20(stb).jpg">
+<hr>
+
 
 
 
