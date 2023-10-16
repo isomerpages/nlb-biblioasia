@@ -9,10 +9,6 @@ While Portugal may not have had a large presence in this region, remnants of the
 <img src="/images/Vol%2019%20Issue%201/Portuguese/People_in_village.png">  
 <hr>
 
-
-
-
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/">The Origin Stories of Keramat Kusu</a>
 Pilgrimages to the keramat on Kusu Island have been going on since the mid-19th century.
 
@@ -30,11 +26,19 @@ Thaipusam speaks of a migratory community that carries its deep-rooted cultural 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/">Maiden Lim and Her Sisters: Taoist Folk Goddesses of Singapore</a>
-
 The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 
 <img src="/images/Vol%2018%20Issue%204/Maiden%20Lim/image4.png">  
 <hr>
+
+
+
+
+
+
+
+
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/">Theemithi’s Full Cycle: A look at the Rituals Behind the Festival of Firewalking</a>
 Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
