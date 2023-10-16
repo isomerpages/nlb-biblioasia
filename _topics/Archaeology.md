@@ -19,24 +19,3 @@ Stone tools have been found in and around Singapore since the late 19th century.
 
 
 
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/ancientgold">Ancient Gold in Southeast Asia</a>
-Where did ancient gold come from? What was it used for and what gold discoveries have been made in Singapore?&nbsp;Foo Shu Tieng&nbsp;has the answers.
-
-<img style="width:100%;" src="/images/vol-17-issue-3/ancient-gold/Opening%20image.jpg">
-<hr>
-	
-
-
-
-	
-
-
-
-
-
-
-
-
-&gt; 
-<hr>
