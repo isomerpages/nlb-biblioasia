@@ -10,6 +10,14 @@ Besides restoring made-in-Singapore films, the Asian Film Archive is also involv
 <img src="/images/Vol%2019%20Issue%204/2%20Restoring%20Classic%20Films/vlcsnap_image%209.png">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/">Money No Enough, Passion Needed Too: Restoring Classic Singaporean Films</a>
+Money No Enough, Forever Fever and The Teenage Textbook Movie kickstarted a new era in Singaporean cinema, making them prime candidates for restoration.
+
+<img src="/images/Vol%2019%20Issue%202/Restoring%20SG%20Films/money_no_enough.png">  
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/">Repairing and Restoring Singapore’s Reel Heritage</a>
 The Asian Film Archive has been restoring old classics since 2014.
 
