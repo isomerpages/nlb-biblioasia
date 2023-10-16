@@ -4,11 +4,22 @@ permalink: /topics/literature/
 description: ""
 third_nav_title: Arts
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/malay-portuguese-pantuns">Panton Malaijoe dan Portugees: A Rediscovered Manuscript</a>
+A forgotten manuscript found in the archive of a Portuguese museum offers an insight into the languages and traditions of a unique community in the Dutch East Indies.
+
+<img src="/images/Vol%2019%20Issue%203/5%20Panton/image1.png">
+<hr>
+
+
+
+
+
+
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/ties-that-bind">Ties that Bind: The Story of Two Brother Poets</a>
 <p>An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. Michelle Heng has the story.</p> 
-<img style="width:100%;" 
-		src="/images/Vol-12-issue-4/ties-that-bind/3-note.jpg">
+<img style="width:100%;" src="/images/Vol-12-issue-4/ties-that-bind/3-note.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/on-the-trail">On the Trail of Francis P. Ng: Author of F.M.S.R.</a>
@@ -27,8 +38,7 @@ third_nav_title: Arts
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malay-magic">Finding Magic Everywhere</a>
 <p>According to Farish A. Noor, many of the beliefs and rituals described in Walter Skeat’s book Malay Magic may not be considered particularly “magical”.</p> 
-<img style="width:500px;" 
-		src="/images/Vol-17-issue-1/magic/malaymagic.png">
+<img style="width:500px;" src="/images/Vol-17-issue-1/magic/malaymagic.png">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/sangnila"> Sang Nila Utama: Separating Myth From Reality</a>
@@ -38,8 +48,7 @@ third_nav_title: Arts
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/poetry">The Nature of Poetry: An Odyssey Across Time </a>
 <p>Michelle Heng takes us on a journey to see how poets writing in English have charted the changing contours of Singapore and Malaya over the course of the 20th century.</p> 
-<img style="width:500px;" 
-		src="/images/Vol-17-issue-1/poetry/selita.jpg">
+<img style="width:500px;" src="/images/Vol-17-issue-1/poetry/selita.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur"> The Borobudur, Mysterious Gold Plates and Singing Maps</a>
