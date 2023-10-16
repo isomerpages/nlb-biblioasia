@@ -16,6 +16,11 @@ Once dotted with plantations and mangrove swamps, Pasir Ris is today a bustling 
 <img src="/images/Vol%2019%20Issue%202/Pasir%20Ris/lorong%20halus%20red%20bridge%20(stb).jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/teachers-estate-singapore">Terraces on Tagore: The Curious Origins of Teachers' Housing Estate</a>
+The Singapore Teachers’ Union wanted a clubhouse. They ended up building a housing estate.
+
+<img src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers'_housing_estate.png">
+<hr>
 
 
 
