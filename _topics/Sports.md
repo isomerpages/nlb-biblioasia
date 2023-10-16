@@ -15,6 +15,19 @@ Crash helmets might save lives but getting people to wear them was an uphill tas
 <img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/malayacup_hero_img.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/">Coach Choo Seng Quee, A Giant of Singapore Football</a>
+Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in 1977.  Four decades after his death, we remember his many contributions to the sport.
+
+<img src="/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/a7spread.jpg">
+<hr>
+
+
+
+
+
+
+
+
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/">Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis</a>
