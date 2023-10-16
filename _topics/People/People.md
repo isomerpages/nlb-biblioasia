@@ -25,7 +25,7 @@ A story about Wak Sumang, a man of great wisdom and many talents, and the founde
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/">Neo Tiew: The Man Who Built Lim Chu Kang</a>
 The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area.
 
-<img src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew.png" style="width:50%;">
+<img src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/">Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis</a>
@@ -40,20 +40,3 @@ A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to
 
 <img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg">  
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
