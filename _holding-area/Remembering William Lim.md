@@ -84,16 +84,25 @@ The works featured in the exhibition, “To Draw an Idea”, are part of the Sin
 
 #### **NOTES**
 [^1]: Justin Zhuang, “William Lim Siew Wai,” in Singapore Infopedia. National Library Board Singapore. Article published 31 March 2016. 
-[^2]: Isabel Tan and Valerie Chew, “Singapore Conference Hall,” in Singapore Infopedia. National Library Board Singapore. Article published 2011. 
+
+[^2]: Isabel Tan and Valerie Chew, “Singapore Conference Hall,” in Singapore Infopedia. National Library Board Singapore. Article published 2011.
+
 [^3]: “William Lim,” Esplanade Offstage, 12 October 2016, https://www.esplanade.com/offstage/arts/william-lim; Zhuang, “William Lim Siew Wai.”
+
 [^4]: Esplanade Offstage, “William Lim”; Zhuang, “William Lim Siew Wai.”
+
 [^5]: William S.W. Lim, Alternative (Post)modernity: An Asian Perspective (Singapore: Select Pub, 2003). (From National Library, Singapore, call no. RSING 303.4 LIM); William S.W. Lim, Asian Alterity: With Special Reference to Architecture + Urbanism Through the Lens of Cultural Studies (Singapore: World Scientific, 2008). (From National Library, Singapore, call no. RSING 720.95 LIM); William S.W. Lim, Public Space in Urban Asia 
 (Singapore: World Scientific, 2014). (From National Library, Singapore, call no. RSING 307.76095 LIM); William S.W. Lim, Incomplete Urbanism: A Critical Urban Strategy for Emerging Economies (Singapore: World Scientific, 2012). (From National Library, Singapore, call no. RSING 307.1 LIM); Zhuang, “William Lim Siew Wai.”
+
 [^6]: Chantal Sajan, “The Late William Lim: Pioneer Architect, Arts Patron, Heritage Champion and Social Activist,” Straits Times, 4 March 2023, https://www.straitstimes.com/life/home-design/the-late-william-lim-pioneer-architect-arts-patron-heritage-champion-and-social-activist.
+
 [^7]: Robert Powell, et al., “Inciting Rebellion,” in No Limits: Articulating William Lim (Singapore: Select Publishing, 2002), 14–46. (From National Library, Singapore, call no. RSING 720.92 NO)
+
 [^8]: Zhuang, “William Lim Siew Wai”; Mok Wei Wei, Mok Wei Wei: Works by W Architects, ed. Justin Zhuang (Singapore: Thames &amp; Hudson, 2020), 42. (From National Library, Singapore, call no. RSING 720.95957 MOK)
 [^9]: Esplanade Offstage, “William Lim.”
+
 [^10]: “In Memoriam: William Lim Siew Wai, Eminent Architect and Benefactor of NUS Cultural Studies Programme,” NUS Faculty of Arts &amp; Social Sciences, 19 January 2023, https://fass.nus.edu.sg/news/2023/01/19/in-memoriam-william-lim-siew-wai-eminent-architect-and-benefactor-of-nus-cultural-studies-programme/; Zhuang, “William Lim Siew Wai.”
+
 [^11]: Zhuang, “William Lim Siew Wai.”
 
 
