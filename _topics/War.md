@@ -9,6 +9,20 @@ Opposing the formation of the Federation of Malaysia, Indonesia waged a three-ye
 <img src="/images/Vol%2019%20Issue%204/3%20Konfrontasi/img0101_img%205.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor">Collection Focus: A Comic Book Version of Operation Jaywick</a>
+The story of Operation Jaywick, a daring attack on Japanese ships at Keppel Harbour in September 1943, is retold in a comic aimed at boys published in London in 1965.
+
+<img src="/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_1.png">
+<hr>
+
+
+
+
+
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/videos/reels/war/">Operation Jaywick Retold as a Comic Book for Boys</a>
 Disguised as local fishermen, Australian and British commandos launched a clandestine raid on Japanese ships in Singapore’s Keppel Harbour.
 
