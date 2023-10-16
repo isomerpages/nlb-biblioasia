@@ -4,7 +4,7 @@ permalink: /vol-6/issue-4/jan-2011/isabella-bird-chersonese-women/
 description: Senior Librarian Bonny Tan takes a closer look at Isabella Bird’s
   book The Golden Chersonese, which captures her travels through Malaya.
 ---
-#### Senior Librarian *Bonny Tan* takes a closer look at Isabella Bird’s The Golden Chersonese (1883), which captures her travels through Malaya.
+#### Senior Librarian *Bonny Tan* takes a closer look at Isabella Bird’s *The Golden Chersonese* (1883), which captures her travels through Malaya.
 
 <img style="width:100%;" src="/images/Vol%206%20issue%204/WomenPerspective/chersonese%20020.jpg">
  <div style="background-color: white;">A first edition of <i>The Golden Chersonese</i> (1883). Rare Materials Collection, National Library Singapore.</div>
