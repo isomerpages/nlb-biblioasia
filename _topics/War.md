@@ -15,14 +15,6 @@ The story of Operation Jaywick, a daring attack on Japanese ships at Keppel Harb
 <img src="/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_1.png">
 <hr>
 
-
-
-
-
-
-
-
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/videos/reels/war/">Operation Jaywick Retold as a Comic Book for Boys</a>
 Disguised as local fishermen, Australian and British commandos launched a clandestine raid on Japanese ships in Singapore’s Keppel Harbour.
 
@@ -39,6 +31,10 @@ During World War II, forced civilian labourers known as <i>rōmusha</i> were use
 
 <img src="/images/Vol%2018%20Issue%203/Romusha/3_Bapak_50s%20copy.jpg">
 <hr>
+
+
+
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/">Cold War Rivalries Fuel Propaganda Battle in Singapore in the 1940s and 1950s</a>
 In the post-World War II period, Singapore was a battleground for ideological competition between the Soviet Union and China on one side, and the United States and United Kingdom on the other.
