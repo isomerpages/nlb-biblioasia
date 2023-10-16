@@ -1,11 +1,11 @@
 ---
 title: "A Graphic Tale in Baba Malay: Chrita Orang Yang Chari Slamat (1905)"
 permalink: /vol-5/issue-3/oct-2009/baba-malay-chrita-slamat/
-description: "Senior Librarian Bonny Tan shines the spotlight on Chrita Orang
+description: Senior Librarian Bonny Tan shines the spotlight on Chrita Orang
   Yang Chari Slamat, the Baba Malay translation of classic The Pilgrim’s
-  Progress. "
+  Progress.
 ---
-#### Senior Librarian _Bonny Tan_ shines the spotlight on _Chrita Orang Yang Chari Slamat_, the Baba Malay translation of classic _The Pilgrim’s Progress_.
+#### Senior Librarian&nbsp;_Bonny Tan_&nbsp;shines the spotlight on&nbsp;_Chrita Orang Yang Chari Slamat_, the Baba Malay translation of classic&nbsp;_The Pilgrim’s Progress_.
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/BabaMalay/Chrita%20Orang%20book%20cover.jpg">
  <div style="background-color: white;"><i>Chrita Orang Yang Chari Slamat</i> by John Bunyan; translated by William G. Shellabear. All rights reserved, American Mission Press, 1905.</div>
@@ -47,7 +47,7 @@ The Press and his translation work took much of his time, but Shellabear had to 
 
 Shellabear had already made the acquaintance of the unique hybrid community of Chinese in Singapore, many of whom traced their genealogy to the Malaccan Straits Chinese. This included prominent community member, Tan Keong Keng, who was one of the early Straits Chinese to adopt the thoroughly Western idea of having his daughters educated.[^3] Thus he persuaded the Shellabears to establish a school for girls in Malacca. Tan’s home at Heeren Street in Malacca was given to Emma Shellabear and Ada Pugh to start the institution — a task most suited to Shellabear’s wife Emma who had already been active in the Methodist girls’ school in Singapore.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/BabaMalay/Interpreter's%20house.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/BabaMalay/Interpreter's%20house.jpg">
  <div style="background-color: white;">Interpreter’s home. <i>Image reproduced from Bunyan, J. (1905). Chrita orang yang chari slamat, p. 33. All rights reserved, American Mission Press, 1905.</i></div>
 
 Meanwhile, Tan sent his only son, Tan Cheng Poh, to Shellabear to learn how to type and practise English. With little to translate to English, Emma considered having him translate a children’s version of *Pilgrim’s Progress* into Baba Malay instead. The exercise was Shellabear’s first introduction to Baba Malay and he became fascinated with its “distinct dialect of Malay, with very definite idioms and rules of its own.”[^4] Another Baba, Chin Cheng Yong, was recruited to help in verifying the accuracy of the translation; but little is known of him.
@@ -68,17 +68,17 @@ T. W. Cherry had taken over from Shellabear in the running of the Methodist prin
 
 In the introduction, Shellabear praised Bradley for his accurate depiction of the local people and scenery: “…dia sudah tulis btul sperti rupa orang dan rumah-rumah dan pokok-pokok yang kita tengok sini s-hari-hari…(see below)” (“…he has made realistic drawings of people, homes and trees that we see daily...”)
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/BabaMalay/Chrita.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/BabaMalay/Chrita.jpg">
  <div style="background-color: white;">Lord Worldly-wise wants to educate Christian. <i>Image reproduced from Bunyan, J. (1905). Chrita orang yang chari slamat, p. 17. All rights reserved, American Mission Press, 1905,</i></div>
 
 Indeed, the background scenes in the illustrations include coconut trees and banana clumps typically found in tropical Malaya. The familiar facades of the Malayan shop house and its interiors are also sketched. However, it is noteworthy that Si Kristian (Christian) is depicted as a typical Qing Chinese, complete with queue and Chinese clogs. However, when he encounters Tuan Pandai-chari-dunia (Mr Worldly-wise), the wealthy man rides a modern horse-drawn carriage driven by what appears to be young barefoot Malays wearing Turkish hats. The wealthy Chinese dons a mix of oriental and modern Western clothes topped with an English hat. Interestingly, Si Kristian acquires these Western trappings — a top hat and shoes — soon after his burden of sin falls away at the foot of the cross. It is uncertain if the Western costumes represent the Baba dress at the turn of the century since many of the drawings seem mainly of generic Chinese that had come to Malaya. Nonyas in kebayas and Babas of yore in their hybridised costumes are not really reflected in Bradley’s illustrations.
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/BabaMalay/His%20Burden%20.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/BabaMalay/His%20Burden%20.jpg">
  <div style="background-color: white;">His burden fell away at the cross.<i> Image reproduced from Bunyan, J. (1905). Chrita orang yang chari slamat, p. 47. All rights reserved, American Mission Press, 1905.</i></div>
 
 At Pasar Sia Sia (Vanity Fair), a detailed scene of the local Chinese congregating at a marketplace, shows a vignette of the 20th century Malayan Chinese community in its complex social world. Many were likely part of the influx of immigrants who had journeyed from China since the 1880s. In fact, Singapore’s Chinese population had almost doubled its numbers from 87,0000 in 1881 to 164,0000 by the 1900s.[^10]
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%203/BabaMalay/Vanity%20Fair%20.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/BabaMalay/Vanity%20Fair%20.jpg">
  <div style="background-color: white;">Vanity Fair.<i> Image reproduced from Bunyan, J. (1905). Chrita orang yang chari slamat, p. 125. All rights reserved, American Mission Press, 1905.</i></div>
 
 On the extreme right of the picture is a tea house located in a typical Straits Chinese house. Beside it, a letter writer reads a letter while a crowd of patrons await his services. Scenes from the wet market show vegetables sold on the dirt floor while chicks roam at the feet of men having their hair cleaned off lice, all showing Bradley’s keen eye for detail. At the foot of a *wayang* performance are food stalls where Chinese men eat while squatting on their chairs. Among the sea of fair-skinned men are a few Malays and turbaned Indians.
@@ -99,8 +99,8 @@ Chrita Orang Yang Chari Slamat is part of the Rare Book Collection in the Nation
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/vol-9-issue-3/In%20Cookery%20We%20Trust/Bonny_Tan.png" style="width: 100px; height: 100px;">
 <center><b>Bonny Tan</b><br>Senior Librarian<br> Lee Kong Chian Reference Library<br> National Library</center></div>
 
 #### **REFERENCES**
@@ -113,9 +113,9 @@ John Bunyan, _[Chrita Orang Yang Chari Slamat](https://eresources.nlb.gov.sg/pri
 
 Robert Hunt, “The Life of William Shellabear,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 66, no. 2 (1993), 37–72. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-Robert Hunt, _[William Shellabear: A Biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7855335)_  (Kuala Lumpur: University of Malaya Press, 1996). (Call no. RSING 266.0095957 HUN)
+Robert Hunt, _[William Shellabear: A Biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7855335)_ &nbsp;(Kuala Lumpur: University of Malaya Press, 1996). (Call no. RSING 266.0095957 HUN)
 
- “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18870711-1.2.16),” _Straits Times_, 11 July 1887, 2. (From NewspaperSG)
+&nbsp;“[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18870711-1.2.16),” _Straits Times_, 11 July 1887, 2. (From NewspaperSG)
 
 W. G. Shellabear, “Baba Malay: An Introduction to the Language of the Straits-Born Chinese,” _Journal of the Straits Branch of the Royal Asiatic Society_ no. 65 (December 1913), 49–63. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
@@ -125,7 +125,7 @@ W. G. Shellabear, _The Life of the Reverend W. G. Shellabear, DD_, ed. and annot
        
 [^1]: Singapura, “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341212-1.2.38).”
 
-[^2]: “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18870711-1.2.16).”  
+[^2]: “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18870711-1.2.16).” &nbsp;
 
 [^3]: Song, p. 529
 
