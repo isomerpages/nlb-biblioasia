@@ -4,6 +4,17 @@ permalink: /topics/places-and-buildings/housing/
 description: ""
 third_nav_title: Places and Buildings
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/kampong-wak-sumang-punggol">Remembering Punggol’s Kampong Wak Sumang and the Man Who Made It Happen</a>
+Kampong Wak Sumang, one of Singapore’s earliest fishing villages, was purportedly founded by a warrior-diplomat whose musical abilities landed him in trouble.
+
+<img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/opening%20spread.jpg">
+<hr>
+
+
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate">This Was Once Singapore’s Largest Planned Housing Development: A History of Sennett Estate</a>
 Sennett Estate is a unique milestone in the history of housing development in Singapore and its quiet streets have had its fair share of excitement over the years. 
 <img src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png">
@@ -15,7 +26,7 @@ Asrina Tanuri traces the development of Opera Estate from its early beginnings a
 <hr>
 
 #### <a href="/vol-17/issue-4/jan-to-mar-2022/towkays-houses" style="text-decoration: none; font-weight: bold;">Towkays at Home in Singapore</a> 
-Mandalay Villa. House of Jade. House of Teo Hoo Lye. Yap Jo Lin gives us a tour of three opulent homes from the early 20th century.
+Mandalay Villa. House of Jade. House of Teo Hoo Lye.&nbsp;Yap Jo Lin&nbsp;gives us a tour of three opulent homes from the early 20th century.
 
 <img src="/images/vol-17-issue-4/towkay-house/Main-TKH.jpg">
 <hr>
@@ -32,7 +43,7 @@ Mandalay Villa. House of Jade. House of Teo Hoo Lye. Yap Jo Lin gives us a tou
 <hr>
 
 #### <a href="/vol-17/issue-2/jul-sep-2021/swanandmaclaren" style="text-decoration: none; font-weight: bold;"> Mansion Blocks, Flats and Tenements: The Advent of Apartment Living</a> 
-<p>Through buildings like Amber Mansions, Eu Court and Meyer Flats, colonial architects Swan & Maclaren introduced the concept of apartment living in Singapore, as Julian Davison tells us.</p> 
+<p>Through buildings like Amber Mansions, Eu Court and Meyer Flats, colonial architects Swan &amp; Maclaren introduced the concept of apartment living in Singapore, as Julian Davison tells us.</p> 
 
 <img src="/images/vol-17-issue-2/mansions/Mansion_Main.jpg">
 <hr>
