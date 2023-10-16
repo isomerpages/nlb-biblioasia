@@ -6,21 +6,21 @@ description: Shair Saudara Boyan (Poem of the Baweanese, 1930) is a significant
   Sundusia Rosdi shows how it offers a portrait of the Baweanese community and
   sheds light on their social values and aspirations.
 ---
-#### _Shair Saudara Boyan_&nbsp;(Poem of the Baweanese, 1930) is a significant 49-page poetry collection written in Malay using Jawi script. Senior Librarian&nbsp;_Sundusia Rosdi_&nbsp;shows how it offers a portrait of the Baweanese community and sheds light on their social values and aspirations.
+#### *Shair Saudara Boya* (Poem of the Baweanese; 1930) is a significant 49-page poetry collection written in Malay using Jawi script. Senior Librarian *Sundusia Rosdi* shows how it offers a portrait of the Baweanese community and sheds light on their social values and aspirations.
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/Presentation1.jpg">
  <div style="background-color: white;">Salinan kulit buku dan beberapa rangkap penutup Shair Saudara Boyan. Hak cipta terpelihara, Reprographic Section, Reference Service Division, British Library, London.</div>
 
 
-#### **Syair Sebagai Wacana Periwaya**
+#### **Syair Sebagai Wacana Periwayatan**
 
-Kamus Dewan (2005) mendefinisikan syair sebagai “karangan bersajak yang mana tiap-tiap rangkap terdiri daripada empat baris yang sama bunyi hujungnya.”[^1] Menurut Teeuw (1966), kebanyakan penulis bersetuju bahawa syair terbit dari perkataan Arab *syi’r* yang bererti puisi secara umum dan makna sya’ir ialah penulis puisi atau penyairnya. Tidak diketahui pula bila dan mengapa perkataan Arab ini berubah makna menjadi syair seperti yang dimaksudkan dalam bahasa Melayu kini.[^2]
+Kamus Dewan (2005) mendefinisikan syair sebagai “karangan bersajak yang mana tiap-tiap rangkap terdiri daripada empat baris yang sama bunyi hujungnya”.[^1] Menurut Teeuw (1966), kebanyakan penulis bersetuju bahawa syair terbit dari perkataan Arab *syi’r* yang bererti puisi secara umum dan makna *sya’ir* ialah penulis puisi atau penyairnya. Tidak diketahui pula bila dan mengapa perkataan Arab ini berubah makna menjadi syair seperti yang dimaksudkan dalam bahasa Melayu kini.[^2]
 
-Dari tanah Arab dan Parsi, gubahan syair Melayu mula diperkenalkan oleh Hamzah Fansuri, seorang ahli sufi Aceh, pada abad ke 16 yang juga merupakan pengarang *Sha’er Perahu, Sha’er Burong Pingai* dan *Sha’ er Dagang*.[^3]Abdullah bin Abdul Kadir Munsyi, tokoh bapa kesusasteraan Melayu moden turut dikenali dengan *Syair Singapura Terbakar* dan *Syair Kampung Gelam Terbakar* yang termuat dalam bukunya *Hikayat Abdullah* (1849).[^4]
+Dari tanah Arab dan Parsi, gubahan syair Melayu mula diperkenalkan oleh Hamzah Fansuri, seorang ahli sufi Aceh, pada abad ke 16 yang juga merupakan pengarang *Sha’er Perahu, Sha’er Burong Pingai* dan *Sha’ er Dagang*.[^3] Abdullah bin Abdul Kadir Munsyi, tokoh bapa kesusasteraan Melayu moden turut dikenali dengan *Syair Singapura Terbakar* dan *Syair Kampung Gelam Terbakar* yang termuat dalam bukunya *Hikayat Abdullah* (1849).[^4]
 
-Gubahan-gubahan syair banyak dikumpulkan di Singapura melalui ruangan tetap di *Jawi Peranakkan* (1876—1895) iaitu akhbar mingguan terawal, kemudian oleh *Utusan Melayu* (1907—1921) hingga ke *Warta Malaya* (1930—1941) yang menyiarkan hasil kiriman pembaca. Genre syair ini terus popular dan diminati hingga menjadi sebahagian khazanah puisi masyarakat Melayu Nusantara.
+Gubahan-gubahan syair banyak dikumpulkan di Singapura melalui ruangan tetap di *Jawi Peranakkan* (1876–1895) iaitu akhbar mingguan terawal, kemudian oleh *Utusan Melayu* (1907–1921) hingga ke *Warta Malaya* (1930–1941) yang menyiarkan hasil kiriman pembaca. Genre syair ini terus popular dan diminati hingga menjadi sebahagian khazanah puisi masyarakat Melayu Nusantara.
 
-Lembaga Perpustakaan Negara Singapura menyenaraikan beberapa karya syair mengenai Singapura antaranya *Syair Tantangan Singapura Abad Kesembilan Belas* (1835), *Syair Singapura Terbakar* (1843), *Syair Kampung Gelam Terbakar* (1847)atau *Syair Singapura Dimakan Api* (1860), *Shair Bah Singapura* (1891), *Shair Saudara Boyan* (1930) dan lain-lain.
+Lembaga Perpustakaan Negara Singapura menyenaraikan beberapa karya syair mengenai Singapura antaranya *Syair Tantangan Singapura Abad Kesembilan Belas* (1835), *Syair Singapura Terbakar* (1843), *Syair Kampung Gelam Terbakar* (1847) atau *Syair Singapura Dimakan Api* (1860), *Shair Bah Singapura* (1891), *Shair Saudara Boyan* (1930) dan lain-lain.
 
 #### **Shair Saudara Boyan**
 
@@ -34,7 +34,7 @@ Di halaman akhir karya tersebut tercatat peringatan, “Adapun syair Boyan ini t
 
 Setelah membaca *Shair Saudara Boyan* ini, penulis merasa terpanggil untuk menelitinya kerana moyang penulis merupakan antara perantau dari Pulau Bawean dan penulis sendiri pernah menziarahi Pulau Bawean pada tahun 1993 untuk menjejak akar susur-galurnya.
 
-#### **Cabaran Transliterasi Aksara Jawi Ke Ru**
+#### **Cabaran Transliterasi Aksara Jawi Ke Rumi**
 
 Penulis akan menggunakan perkataan Bawean (bukan sebutan Boyan) kerana kaum ini berasal dari Pulau Bawean, Indonesia. Sebenarnya sebutan “Boyan” dimulakan oleh penjajah Barat, kerana pegawai-pegawai zaman kolonial itu lebih selesa untuk menyebut *Orang Bawean* sebagai *Orang Boyan*. Oleh kerana pada hakikatnya orang Eropah merupakan tuan kepada pekerja-pekerja Bawean yang tidak tahu menulis serta membaca dan ditambah lagi dengan cara hidup mereka ketika itu, mereka menerima istilah yang dianggap tidak sesuai ini tanpa ada bantahan sedikitpun.[^6]
 
@@ -51,14 +51,12 @@ Penulis akan menganalisa karya syair ini dari aspek nilai-nilai yang tersirat di
 
 #### **Latarbelakang Kajian**
 
-Pulau Bawean terletak 120 km di utara Surabaya (Jawa Timur, Indonesia) di Laut Jawa. Keluasannya kira-kira 200 km persegi (tiga kali lebih kecil dari Singapura), terbahagi kepada dua daerah; Sangkapura dan Tambak dengan 30 kelurahan (desa) dan 143 kampung.[^7] Nama Bawean ini berasal dari perkataan Sanskrit yang bermakna “ada sinar matahari.”[^8]
+Pulau Bawean terletak 120 km di utara Surabaya (Jawa Timur, Indonesia) di Laut Jawa. Keluasannya kira-kira 200 km persegi (tiga kali lebih kecil dari Singapura), terbahagi kepada dua daerah; Sangkapura dan Tambak dengan 30 kelurahan (desa) dan 143 kampung.[^7] Nama Bawean ini berasal dari perkataan Sanskrit yang bermakna “ada sinar matahari”.[^8]
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/Pulau%20Bawean_20110114.jpg">
- <div style="background-color: white;">Lokasi Pulau Bawean, Indonesia</div>
+ <div style="background-color: white;">Lokasi Pulau Bawean, Indonesia.</div>
 
-Pulau Bawean juga dikenali sebagai Pulau Puteri kerana kebanyakan penduduknya terdiri daripada kaum wanita. Lantaran kaum puteranya pula mula merantau apabila mencecah usia remaja. Masyarakat Bawean menganggap bahawa “seseorang lelaki Bawean belum dikira dewasa sehinggalah ia merantau ke luar negeri.”[^9]
-
-Singapura menjadi tumpuan kaum Bawean kerana menjadi pusat urusan Haji Nusantara ketika itu lantaran kemudahan pelayaran kapal wap yang membawa jemaah-jemaah haji ke Mekah. Kaum pendatang ramai ke Singapura untuk bekerja sambil mengumpulkan wang bagi menunaikan haji atau singgah ke sini dalam perjalanan pulang dari Mekah. Semasa persinggahan di Singapura, mereka bekerja untuk membayar hutang bagi perbelanjaan ke Mekah kepada ejen-ejen haji mereka.
+Pulau Bawean juga dikenali sebagai Pulau Puteri kerana kebanyakan penduduknya terdiri daripada kaum wanita. Lantaran kaum puteranya pula mula merantau apabila mencecah usia remaja. Masyarakat Bawean menganggap bahawa “seseorang lelaki Bawean belum dikira dewasa sehinggalah ia merantau ke luar negeri”.[^9]
 
 Singapura menjadi tumpuan kaum Bawean kerana menjadi pusat urusan Haji Nusantara ketika itu lantaran kemudahan pelayaran kapal wap yang membawa jemaah-jemaah haji ke Mekah. Kaum pendatang ramai ke Singapura untuk bekerja sambil mengumpulkan wang bagi menunaikan haji atau singgah ke sini dalam perjalanan pulang dari Mekah. Semasa persinggahan di Singapura, mereka bekerja untuk membayar hutang bagi perbelanjaan ke Mekah kepada ejen-ejen haji mereka.
 
@@ -84,11 +82,11 @@ dengan kebetulan
 
 #### **Penempatan Awal Masyarakat Bawean**
 
-Setibanya di Singapura, kaum lelakinya menjual tikar anyaman Bawean di Kampung Jawa (Kampung Gelam). Sejak zaman Munshi Abdullah lagi mereka tinggal di rumah-rumah sementara di daerah Kampong Kapor (di pesisir Sungai Rochor yang terletak di antara Jalan Besar dan Syed Alwi Road).[^13] Kawasan ini seterusnya menjadi tumpuan pendatang Bawean lantas dikenali sebagai Kampung Boyan (ms. 7—17).
+Setibanya di Singapura, kaum lelakinya menjual tikar anyaman Bawean di Kampung Jawa (Kampung Gelam). Sejak zaman Munshi Abdullah lagi mereka tinggal di rumah-rumah sementara di daerah Kampong Kapor (di pesisir Sungai Rochor yang terletak di antara Jalan Besar dan Syed Alwi Road).[^13] Kawasan ini seterusnya menjadi tumpuan pendatang Bawean lantas dikenali sebagai Kampung Boyan (ms. 7–17).
 
- Kepada Melayu dapat bercampur<br>  Berniaga Boyan di Kampong Kapor<br><br>  Mulailah ramai Boyan Singapura<br>  Di Kampong Kapor tempat ketara
+ Kepada Melayu dapat bercampur<br> Berniaga Boyan di Kampong Kapor<br><br>  Mulailah ramai Boyan Singapura<br>  Di Kampong Kapor tempat ketara
 
-Khabar keselesaan hidup di Singapura memang menggamit minat rakan taulan mereka di Pulau Bawean hingga akhirnya ramai turut berhijrah pada pertengahan abad ke 19. Banci Koloni Singapura tahun 1849 mencatatkan kehadiran 763 orang Bawean (720 lelaki dan 43 perempuan). Jumlah penghijrah ini terus meningkat tetapi kemasukan mereka ke sini dihadkan selepas Perang Dunia Kedua dengan penguatkuasaan “*Citizenships Ordinance*, 1957.”[^14]
+Khabar keselesaan hidup di Singapura memang menggamit minat rakan taulan mereka di Pulau Bawean hingga akhirnya ramai turut berhijrah pada pertengahan abad ke 19. Banci Koloni Singapura tahun 1849 mencatatkan kehadiran 763 orang Bawean (720 lelaki dan 43 perempuan). Jumlah penghijrah ini terus meningkat tetapi kemasukan mereka ke sini dihadkan selepas Perang Dunia Kedua dengan penguatkuasaan “*Citizenships Ordinance*, 1957”.[^14]
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/bawean1.jpg">
  <div style="background-color: white;">Pemandangan sawah padi di Pulau Bawean. <i>Koleksi foto penulis, 1993.</i></div>
@@ -98,7 +96,7 @@ Khabar keselesaan hidup di Singapura memang menggamit minat rakan taulan mereka 
 
 Kaum Bawean yang berhijrah ke Singapura berasal dari pelbagai desa seperti Beluluar, Dekatagung, Padekek, Pakalongan, Tachung, Teluk Jati, Sakaoneng, Sokalela dan lain-lain. Tatkala sampai ke Singapura, mereka bersatu dan disediakan naungan di kediaman yang dikenali sebagai “ponthuk” (pondok) iaitu rumah bagi pendatang baru Bawean. Konsep pondok sebagai institusi sosial unik bagi memastikan keselesaan sosial dan keselamatan moral mereka[^15] terutama bagi yang masih menganggur atau sakit kerana konsep pondok juga nampaknya sangat mirip dengan konsep “kongsi” bagi pendatang-pendatang Cina ke rantau ini.[^16]
 
-Pondok selalunya merupakan rumah kedai bertingkat atau banglo dengan unit-unit bilik kecil untuk setiap keluarga, sementara ruang tamu, ruang solat, dapur serta bilik dikongsi bersama penghuni lain. Terdapat antara 10—30 buah keluarga hidup di bawah satu bumbung pondok. Nama setiap pondok di Singapura biasanya diberikan sempena desa asal di Bawean kerana kaum ini didapati amat tebal jati diri serta nilai etnosentrisme mereka. Mereka mahu dikenali sebagai orang dari desa asal mereka misalnya orang-orang Tambak, Gelam, Pakherbung dan lain-lain.
+Pondok selalunya merupakan rumah kedai bertingkat atau banglo dengan unit-unit bilik kecil untuk setiap keluarga, sementara ruang tamu, ruang solat, dapur serta bilik dikongsi bersama penghuni lain. Terdapat antara 10–30 buah keluarga hidup di bawah satu bumbung pondok. Nama setiap pondok di Singapura biasanya diberikan sempena desa asal di Bawean kerana kaum ini didapati amat tebal jati diri serta nilai etnosentrisme mereka. Mereka mahu dikenali sebagai orang dari desa asal mereka misalnya orang-orang Tambak, Gelam, Pakherbung dan lain-lain.
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/Shair/Generasi%20B.jpg">
  <div style="background-color: white;">Gambar kaum lelaki Bawean di tahun 1950-an. <i>Koleksi foto penulis</i></div>
@@ -109,9 +107,9 @@ Penghuni pondok dikenakan bayaran sewa bilik sebanyak $4 hingga $12 sebulan oleh
 
 *Shair Saudara Boyan* turut menyebut nama beberapa pondok yang terkenal melalui halaman-halaman 18 hingga 28.
 
- Baik sebuah masjid yang tentu<br>  Di Pondok Tachung tempat itu<br><br>  Ketua bernama Encik Cak Cang<br>  Semuanya Boyan di Gunong Lanceng
+ Baik sebuah masjid yang tentu<br> Di Pondok Tachung tempat itu<br><br> Ketua bernama Encik Cak Cang<br>  Semuanya Boyan di Gunong Lanceng
 
- Ketika itu ia Pak Tarallah<br>  Pakalongan ini jadi ceritalah<br><br> Sakaoneng pula saya nyatakan <br> Pondok ia di sebelah pekan
+ Ketika itu ia Pak Tarallah<br> Pakalongan ini jadi ceritalah<br><br> Sakaoneng pula saya nyatakan <br> Pondok ia di sebelah pekan
 
 Setiap pondok diketuai oleh seorang Pak Lurah yang bertindak sebagai penghulu serta penasihat ahli pondok. Oleh kerana kebolehan Pak Lurah ini, penguasa polis sebelum Perang Dunia Kedua telah memberi mereka sedikit kuasa untuk menangani sendiri ahli-ahli pondok mereka jika ada yang mengganggu ketenteraman.[^20]
 
@@ -123,7 +121,7 @@ Syair ini memaparkan nama beberapa Pak Lurah antaranya Pak Lurah Dul Haris dari 
 
 #### **Sosio-Ekonomi dan Mata Pencarian**
 
-Tradisi orang Bawean yang berperawakan kuat dan garang serta bersifat rajin diperkatakan dalam syair ini. Sifat setiakawan, gotong royong, sabar serta tidak memilih pekerjaan telah menambat hati bangsa-bangsa lain (ms. 20—30):
+Tradisi orang Bawean yang berperawakan kuat dan garang serta bersifat rajin diperkatakan dalam syair ini. Sifat setiakawan, gotong royong, sabar serta tidak memilih pekerjaan telah menambat hati bangsa-bangsa lain (ms. 20–30):
 
  Banyaklah bangsa pergi datang<br> Memuji Bawean tiada berpantang<br><br> Wang dikumpul yang digemari<br> Hendak dibawanya pulang ke negeri
 
@@ -131,9 +129,9 @@ Dalam bidang ekonomi, kebanyakan mereka terlibat dalam usaha kecil-kecilan seper
 
  Bawean berniaga terompah dan parut<br> Perniagaan maju tiada melorot
 
-Umumnya terdapat semacam pengkhususan jenis pekerjaan di kalangan masyarakat pondok misalnya di Pondok Telok Jati, lelakinya cekap membelah rotan dan wanitanya mahir menjahit jala. Di samping itu menjadi nelayan dan kelasi memang popular kerana mereka sudah biasa dengan laut terutama bagi kaum lelaki dari Pondok Tambak (ms. 24—26).
+Umumnya terdapat semacam pengkhususan jenis pekerjaan di kalangan masyarakat pondok misalnya di Pondok Telok Jati, lelakinya cekap membelah rotan dan wanitanya mahir menjahit jala. Di samping itu menjadi nelayan dan kelasi memang popular kerana mereka sudah biasa dengan laut terutama bagi kaum lelaki dari Pondok Tambak (ms. 24–26).
 
- Separuh di laut pula dihantar<br>  Menjadi kelasi jurumudi berputar<br><br>    Pekerjaan banyak menjadi kelasi<br> Di kapal kecil Hailam kongsi
+ Separuh di laut pula dihantar<br> Menjadi kelasi jurumudi berputar<br><br> Pekerjaan banyak menjadi kelasi<br> Di kapal kecil Hailam kongsi
 
 Terdapat ramai lelaki Bawean yang menjadi pemandu kereta. Dan ini seolah-olah menjadi simbol datuk serta moyang mereka sebagai pemacu pedati kuda (ms. 24).
 
@@ -159,16 +157,16 @@ Antara ciri paling dikenali yang berkaitan dengan masyarakat Bawean ialah kecend
 
 Seterusnya syair ini menggambarkan suasana di majlis walimatulurus anak Pak Lurah Tarallah di Pondok Pakalongan (ms. 27). Semua tetamu dijamu dengan nasi samin (nasi minyak), lauk kari dan juadah lain di samping pemberian penganan juadah (berkat pengantin). Majlis turut dimeriahkan dengan permainan gendang dan rebana. Kebiasaannya majlis perkahwinan Bawean merupakan pesta meriah yang berlangsung selama tiga hingga lima hari dan persiapannya dilakukan melalui budaya bergotong-royong.[^24]
 
-Satu hal yang menarik dalam catatan pengarang ialah istiadat keluarga pengantin melambungkan wang-wang syiling ke arah genting rumah hingga menyebabkan bunyi bising. Ini dilakukan oleh tuan rumah untuk menunjukkan kemewahan dan kemeriahan bunyi ch’ning (bejana tembaga). Ketika duit syiling dilambung jatuh bertaburan di lantai, ia menjadi rebutan sanak saudara yang memungutnya (ms. 28).
+Satu hal yang menarik dalam catatan pengarang ialah istiadat keluarga pengantin melambungkan wang-wang syiling ke arah genting rumah hingga menyebabkan bunyi bising. Ini dilakukan oleh tuan rumah untuk menunjukkan kemewahan dan kemeriahan bunyi *ch’ning* (bejana tembaga). Ketika duit syiling dilambung jatuh bertaburan di lantai, ia menjadi rebutan sanak saudara yang memungutnya (ms. 28).
 
  Bila datang jemputan menempuh<br> Wang ditabur ch’ning nak repuh<br><br> Sehingga ch’ning pontang panting<br> Wang dilambung ke atas genting
 
 
 #### **Budaya Penghayatan Islam**
 
-Di Kampung Kapor, Weld Road pernah tersergam Masjid Boyan yang didirikan oleh hartawan Bawean pada tahun 1932. Begitu juga sebuah surau di Minto Road yang telah dibina lebih 100 tahun lalu dan dibiayai oleh masyarakat Bawean. Terkenal sebagai kaum yang patuh mengamalkan ajaran Islam, anakanak Bawean seawal empat tahun sudah dididik mengaji alQuran melalui kelas-kelas yang ada di setiap pondok. Pak Lurah sendiri menjadi imam ketika solat berjemaah. Suasana dan gaya hidup Islam terpancar dengan kegiatan-kegiatan agama antaranya, bacaan al-Quran, berzanji dan qasidah serta sambutan hari-hari kebesaran Islam (ms. 32—35).
+Di Kampung Kapor, Weld Road pernah tersergam Masjid Boyan yang didirikan oleh hartawan Bawean pada tahun 1932. Begitu juga sebuah surau di Minto Road yang telah dibina lebih 100 tahun lalu dan dibiayai oleh masyarakat Bawean. Terkenal sebagai kaum yang patuh mengamalkan ajaran Islam, anakanak Bawean seawal empat tahun sudah dididik mengaji alQuran melalui kelas-kelas yang ada di setiap pondok. Pak Lurah sendiri menjadi imam ketika solat berjemaah. Suasana dan gaya hidup Islam terpancar dengan kegiatan-kegiatan agama antaranya, bacaan al-Quran, berzanji dan qasidah serta sambutan hari-hari kebesaran Islam (ms. 32–35).
 
- Banyak orang pergi mengaji<br>  Sehingga ada yang naik haji<br><br> Boyan pun sangat muliakan agama<br> Serta mengerjakan waktu yang lima
+ Banyak orang pergi mengaji<br> Sehingga ada yang naik haji<br><br> Boyan pun sangat muliakan agama<br> Serta mengerjakan waktu yang lima
 
 Apabila wabak melanda Kampong Kapor (ms. 42), kaum Bawean mengadakan upacara membaca bacaan berzanji dan ratib beramai-ramai kerana mereka menganggap bahawa jin dan syaitan merupakan penyebab wabak tersebut.
 
@@ -193,13 +191,13 @@ Di beberapa rangkap ala pantun turut disisipkan frasa bahasa Madura seperti *Adu
 
  Ka tasik ka nosa-nosa<br> Cukok tambhen kuring aken<br> Bule achek eka sosa sosa<br> Syair Pebhiyan e tamat aken<br> Ke tasik ke pulau Nusa<br> Ikan tamban digorengkan<br> Jangan saya di susah susah<br> Syair Bawean akan ditamatkan
 
-#### **Nasihat, Doa dan Harapan**
+#### **Nasihat, Doa dan Harapan Pengarang**
 
 Semasa mengakhiri syairnya, pengarang turut menyertakan permohonan doa dan harapan agar Allah menyempurnakan dan menyelamatkan kehidupan kaum Bawean serta menghindari mereka dari kelalaian dan sentiasa maju dalam kehidupan (ms. 46 hingga 48).
 
  Berdoa selamat kepada sekelian wali <br> Boyan bangkit janganlah khali (lalai)<br> <br> Ya Allah Khalik al Bokhari <br> Dijauhkan bala kanan dan kiri <br><br> Sempurnakan kaumku disana sini<br> Ku doakan selamat saat berani
 
-#### **Nostalgia Kaum Ba**
+#### **Nostalgia Kaum Bawean**
 
 Zaman telah berubah, selepas lebih 80 tahun syair ini dikarang, masyarakat Bawean terus maju selari dengan arus perkembangan pesat negara Singapura. Masjid Kampong Boyan, surau di Minto Road dan pondok-pondok Bawean telah dirobohkan untuk memberi laluan kepada projek pembangunan perbandaran. Mereka telah berpindah ke rumah-rumah pangsa dan nama-nama pondok hanya tinggal kenangan kepada generasi yang pernah menghuninya sahaja. Pada tahun 2000, Lembaga Warisan Negara (NHB) telah mewartakan Pondok Peranakan Gelam (berdaftar pada 4 April 1932) iaitu satusatunya pondok di Chinatown yang beralamat 64, Club Street sebagai Bangunan Warisan Negara ke-44. Pondok rumah kedai dua tingkat ini kemudiannya dibaikpulih dan didiami oleh penyewa baru.[^26]
 
@@ -223,19 +221,19 @@ Dalam konteks kesusasteraan Melayu dan sejarah Singapura umumnya, koleksi syair 
 
 Sekarang yang tinggal hanya nama bangsa Bawean yang tercatat dalam kad pengenalan dan surat lahir seramai 51,849 orang Bawean Singapura menurut laporan Banci Penduduk tahun 2000.[^28] Mungkinkah mereka ini yang meneruskan aspirasi generasi awal perantau-perantau yang mengharungi gelombang ombak samudera semata-mata untuk mengecap kehidupan lebih selesa?
 
-Ramai cendekiawan Bawean telah menyumbangkan kepakaran tenaga untuk kemajuan Singapura antaranya Encik Ridwan Dzafir, mantan Direktor-Jeneral, Lembaga Pembangunan Perdagangan (Trade Development Board) dan Presiden Majlis Ugama Islam Singapura (MUIS) (1986– 1989) dan Encik Hawazi Daipi, Setiausaha Parlimen Kanan, Kementerian Kesihatan dan Kementerian Tenaga Manusia.[^29]
+Ramai cendekiawan Bawean telah menyumbangkan kepakaran tenaga untuk kemajuan Singapura antaranya Encik Ridwan Dzafir, mantan Direktor-Jeneral, Lembaga Pembangunan Perdagangan (Trade Development Board) dan Presiden Majlis Ugama Islam Singapura (MUIS) (1986–1989) dan Encik Hawazi Daipi, Setiausaha Parlimen Kanan, Kementerian Kesihatan dan Kementerian Tenaga Manusia.[^29]
 
 Generasi baru masyarakat Bawean harus mengetahui dan mengenang jasa generasi nenek moyang mereka kerana wawasan dan keberanian mereka menyerantau.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>A HISTORICAL STUDY OF THE BAWEANESE COMMUNITY THROUGH THE POEM OF THE BAWEANESE (1930)</b><br><br>  
 
-Ahmad Haji Tahir wrote <i> Shair Saudara Boyan</i>  (Poem of the Baweanese) in 1930. This significant 49-page poem collection, written in Malay using Jawi script, offers a portrait of the Baweanese community and sheds light on their social values and aspirations, extending lessons which the present generation of Baweanese in Singapore may find instructive.
+Ahmad Haji Tahir wrote <i> Shair Saudara Boyan</i>  (Poem of the Baweanese) in 1930. This significant 49-page poem collection, written in Malay using Jawi script, offers a portrait of the Baweanese community and sheds light on their social values and aspirations, extending lessons that the present generation of Baweanese in Singapore may find instructive.
 	
 Through this work, one may gain insight into the history of the Baweanese (Indonesian) immigrants in Singapore.
 	
 The Baweanese-Singaporeans of today owe much of their success to their ancestors’ determination, industriousness and courage to emigrate.</div>
 
-**Penulis menghargai usahasama Dr Roksana Bibi Abdullah, Associate Professor, National Institute of Education, Nanyang Technological University, yang mengulas makalah ini**.
+<i>Penulis menghargai usahasama Dr Roksana Bibi Abdullah, Associate Professor, National Institute of Education, Nanyang Technological University, yang mengulas makalah ini.</i>
 
 <br>
 <div style="background-color: white;">
