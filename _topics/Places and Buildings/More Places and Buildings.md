@@ -23,7 +23,10 @@ Some Chinese bookstores in Singapore have managed to survive despite the challen
 <img src="/images/Vol%2018%20Issue%204/Chinese%20Bookstore/BookstoreFacingPage2a.jpg">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores-chinese-text/">两条书街，两座书城：战后新加坡华文书店景观</a>
 
+<img src="/images/Vol%2018%20Issue%204/Chinese%20Bookstores_Chinese/View%20of%20North%20Bridge%20Road.jpg">  
+<hr>
 
 
 
