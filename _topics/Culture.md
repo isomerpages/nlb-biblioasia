@@ -3,6 +3,16 @@ title: Culture
 permalink: /topics/culture/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/">Portugal's Linguistic Legacy in Southeast Asia</a>
+While Portugal may not have had a large presence in this region, remnants of the Portuguese language continue to linger on, in some places more than others.
+
+<img src="/images/Vol%2019%20Issue%201/Portuguese/People_in_village.png">  
+<hr>
+
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/">The Origin Stories of Keramat Kusu</a>
 Pilgrimages to the keramat on Kusu Island have been going on since the mid-19th century.
 
@@ -62,15 +72,15 @@ Theemithi is much more than just the firewalking festival. It is a cycle of ritu
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/medium/">The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World</a>
-Margaret Chan examines the fascinating world of _tangki_ worship and explains the symbolism behind its elaborate rituals.
+Margaret Chan examines the fascinating world of&nbsp;_tangki_&nbsp;worship and explains the symbolism behind its elaborate rituals.
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/navaratri-golu/">Navaratri Golu: The Hindu Festival of Dolls</a>
-Celebrated by Hindus of South Indian origins, the Golu festival is a lively melange of colourful dolls, womenhood and spirituality. Anasuya Soundararajan shares with us its origins.
+Celebrated by Hindus of South Indian origins, the Golu festival is a lively melange of colourful dolls, womenhood and spirituality.&nbsp;Anasuya Soundararajan shares with us its origins.
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/disco-fever/">When Disco Fever Raged</a>
-Pulsating music, strobe lights and postage-stamp dance floors packed with shimmying bodies. Tan Chui Hua gives you the lowdown on the history of the disco scene in Singapore.
+Pulsating music, strobe lights and postage-stamp dance floors packed with shimmying bodies.&nbsp;Tan Chui Hua gives you the lowdown on the history of the disco scene in Singapore.
 
 
 
