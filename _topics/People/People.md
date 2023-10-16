@@ -46,6 +46,17 @@ A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a>
 While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
 
