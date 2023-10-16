@@ -15,6 +15,10 @@ A forgotten manuscript found in the archive of a Portuguese museum offers an ins
 <img src="/images/Vol%2019%20Issue%203/9%20New%20Books/book_1.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/new-books-singapore-history">New Books on Singapore History</a><br>
+
+<img src="/images/Vol%2019%20Issue%202/New%20Books/book_1.png">
+<hr>
 
 
 
