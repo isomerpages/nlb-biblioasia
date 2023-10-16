@@ -3,6 +3,23 @@ title: Food
 permalink: /topics/food/
 description: ""
 ---
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign">Going Against the (Rice) Grain: The “Eat More Wheat” Campaign</a>
+The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government.
+
+<img src="/images/Vol%2019%20Issue%203/Wheat/image1.png">
+<hr>
+
+
+
+
+
+
+
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore">We Are What We Eat: The Evolution of Chinese Food in Singapore</a>
 Chinese food in Singapore is a product of the country’s history and geography, reveals Low Sze Wee.
 <img src="/images/Vol%2018%20Issue%201/Chinese%20Food/ytf.png">
@@ -17,7 +34,7 @@ Foraging for food in the hills, the forests and the coastline has been carried o
 <img src="/images/vol-17-issue-3/malay-cuisine/Facing%20Page.jpg">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories">Forgotten Foods & Mealtime Memories</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories">Forgotten Foods &amp; Mealtime Memories</a>
 <p>Food writer Sylvia Tan remembers the foods and flavours she grew up with and the less than sanitary practices made for stomachs cast in iron.</p> 
 <hr>
 
@@ -30,7 +47,7 @@ Foraging for food in the hills, the forests and the coastline has been carried o
 <p>Bonny Tan pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore’s multicultural character.</p> 
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/straitsborncuisine" >The Evolution of Straits-born Cuisine</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/straitsborncuisine">The Evolution of Straits-born Cuisine</a>
  <img style="width:500px;" src="/images/vol-17-issue-2/straitscuisine/StraitsbornCuisine_Main.jpg">
 <p>Lee Geok Boi looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be.</p> <hr>
   
@@ -38,27 +55,7 @@ Foraging for food in the hills, the forests and the coastline has been carried o
  <p>Fiona Lim and Geoffrey Pakiam look at this time-honoured tradition – once a mainstay in Malay, Indian and Peranakan homes – that has since fallen out of fashion.</p>  <hr>
 
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks" >Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
-A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as Toffa Abdul Wahed tells us.
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
+A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as&nbsp;Toffa Abdul Wahed tells us.
 <img style="width:600px;" src="/images/vol-17-issue-4/cookbook/cookbook.png">
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
