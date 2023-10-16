@@ -7,7 +7,7 @@ description: Lee Kong Chian Research Fellow Phyllis Ghim-Lian Chew draws from
   religious and literary activities, and rites of passage, as a means to study
   the processes of acculturation and assimilation.
 ---
-####  Lee Kong Chian Research Fellow *Phyllis Ghim-Lian Chew* draws from the social and linguistic history of colonial Singapore, and proposes a plurality-solidarity continuum as a means to study acculturation and assimilation.
+####  Lee Kong Chian Research Fellow *Phyllis Ghim-Lian Chew* draws from the social and linguistic history of colonial Singapore to propose a plurality-solidarity continuum as a means to study acculturation and assimilation.
 
 
 <img style="width:80%;" src="/images/Vol%206%20issue%204/PluralitySolidarity/Pineapple%20Tarts.jpg">
