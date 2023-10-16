@@ -11,7 +11,11 @@ Pilgrimages to the keramat on Kusu Island have been going on since the mid-19th 
 <img src="/images/Vol%2018%20Issue%204/Keramat%20Kusu/image1.png">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/">Maiden Lim and Her Sisters: Taoist Folk Goddesses of Singapore</a>
+The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 
+<img src="/images/Vol%2018%20Issue%204/Maiden%20Lim/image4.png">  
+<hr>
 
 
 
