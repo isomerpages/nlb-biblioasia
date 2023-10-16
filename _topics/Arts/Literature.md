@@ -20,9 +20,10 @@ A forgotten manuscript found in the archive of a Portuguese museum offers an ins
 <img src="/images/Vol%2019%20Issue%202/New%20Books/book_1.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/new-books-singapore-history">New Books on Singapore History</a><br>
 
-
-
+<img style="width:50%;" src="/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover.png">
+<hr> 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/ties-that-bind">Ties that Bind: The Story of Two Brother Poets</a>
 <p>An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave. Michelle Heng has the story.</p> 
