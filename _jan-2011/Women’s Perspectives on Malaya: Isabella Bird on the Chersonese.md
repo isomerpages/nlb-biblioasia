@@ -114,7 +114,7 @@ Doris Jedamski, _[Images, Self-Images and the Perception of the Other: Women Tra
 
 Emily Sadka, _[The Protected Malay States, 1874–1895](https://eservice.nlb.gov.sg/item_holding.aspx?bid=384104)_ (Kuala Lumpur: University of Malaya Press, 1968). (Call no. RSING 959.51034 SAD)
 
-Eva-Marie Kroller, “First Impression: Rhetotical Strategies in Travel Writing By Victorian Women,” _ARIEL: A Review of International English Literature_ 21, no. 4 (October 1990): 87–99.
+Eva-Marie Kroller, “First Impression: Rhetotical Strategies in Travel Writing by Victorian Women,” _ARIEL: A Review of International English Literature_ 21, no. 4 (October 1990): 87–99.
 
 Isabella Lucy Bishop, _[The Golden Chersonese and the Way Thither](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123671)_ (London: John Murray, 1883). (Call no. RCLOS 959.5 BIS)
 
@@ -124,13 +124,13 @@ Isabella Lucy Bishop, _[The Golden Chersonese](https://eservice.nlb.gov.sg/item_
 
 Isabella Lucy Bishop, _Letters to Henrietta._ (London: John Murray, 2002)
 
-J.M. Gullick, “Isabella Bird’s Visit to Malaya: A Centenary Tribute,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 52, no. 2 (1979): 113–9. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+J.M. Gullick, “Isabella Bird’s Visit to Malaya: A Centenary Tribute,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 52, no. 2 (1979): 113–19. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 John Gullick, ed., “Isabella Bird: Escape from Civilisation in Malaya,” in _[Adventurous Women in South-East Asia: Six Lives](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7185933)_ (Kuala Lumpur: Oxford University Press, 1995), 196–245. (Call no. RSING 959.040922 GUL)
 
 Lorraine Sterry, _[Victorian Women Travellers in Meiji Japan: Discovering a ‘New’ Land](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13176732)_ (UK: Global Oriental, 2009). (Call no. R 915.20431082 STE)
 
-Maria Noeeelle Ng, _[Three Exotic Views of Southeast Asia: The Travel Narratives of Isabella Bird, Max Dauthendey, and Ai Wu, 1850–1930](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11251648)_ (NY: Eastbridge, 2002). (Call no. RSEA 950.30922 NG)
+Maria Noelle Ng, _[Three Exotic Views of Southeast Asia: The Travel Narratives of Isabella Bird, Max Dauthendey, and Ai Wu, 1850–1930](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11251648)_ (NY: Eastbridge, 2002). (Call no. RSEA 950.30922 NG)
 
 Mignon Rittenhouse, _Seven Women Explorers_ (Philadelphia: Lippincott, 1964)  
 &nbsp;  
@@ -152,9 +152,9 @@ Susan Morgan, _[Place Matters: Gendered Geography in Victorian Women’s Travel 
 
 [^3]: Chubbuck, 9–10.
 
-[^4]: Chubbuck, 13–14. Chubbuck also suggests that the sisters’ relationship was not as congenial as it seemed but Victorian conservatism did not allow Isabella to express fully the competitiveness that was likely to have existed between them. Nevertheless, Isabella was devastated following her sister’s death from typhoid in 1880.
+[^4]: Chubbuck, 13–14. Chubbuck also suggests that the sisters’ relationship was not as congenial as it seemed, but Victorian conservatism did not allow Isabella to express fully the competitiveness that was likely to have existed between them. Nevertheless, Isabella was devastated following her sister’s death from typhoid in 1880.
 
-[^5]: From a letter by Bird to John Murray III dated June 16, 1880, as found in the John Murray Archives and cited in Chubbuck, 14.
+[^5]: From a letter by Bird to John Murray III dated 16 June 1880, as found in the John Murray Archives and cited in Chubbuck, 14.
 
 [^6]: Chubbuck, 14.
 
@@ -162,10 +162,10 @@ Susan Morgan, _[Place Matters: Gendered Geography in Victorian Women’s Travel 
 
 [^8]: Though Bird describes only Sungei Ujong, this state later joined other adjoining states of Negri Sembilan. During this period however, Sungei Ujong was administered independently under the British. Emily Sadka, _[The Protected Malay States, 1874–1895](https://eservice.nlb.gov.sg/item_holding.aspx?bid=384104)_ (Kuala Lumpur: University of Malaya Press, 1968), 1. (Call no. RSING 959.51034 SAD)
 
-[^9]: In fact, the first six letters of _The Golden Chersonese narrates her travels_ down from China, through Hong Kong and Saigon, Vietnam. Her visit to Singapore is mentioned only in the seventh letter, about a quarter through her title.
+[^9]: In fact, the first six letters of _The Golden Chersonese_ narrates her travels down from China, through Hong Kong and Saigon, Vietnam. Her visit to Singapore is mentioned only in the seventh letter, about a quarter through the volume.
 
 [^10]: Susan Morgan, _[Place Matters: Gendered Geography in Victorian Women’s Travel Books about Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7548761)_ (N.J.: Rutgers University Press, 1996), 152. (Call no. RSING 820.9355 MOR)
 
-[^11]: At Permatang in Perak for example, she was relieved to hear her host discussing breakfast. But after a bath, the visitors were expected to leave immediately, without the much desired meal. Isabella Lucy Bishop, _[The Golden Chersonese and the Way Thither](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123671)_ (London: John Murray, 1883), 279–80. (Call no. RCLOS 959.5 BIS)
+[^11]: At Permatang in Perak, for example, she was relieved to hear her host discussing breakfast. But after a bath, the visitors were expected to leave immediately, without the much desired meal. Isabella Lucy Bishop, _[The Golden Chersonese and the Way Thither](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4123671)_ (London: John Murray, 1883), 279–80. (Call no. RCLOS 959.5 BIS)
 
 [^12]: The National Library has the original 1883 copy by John Murray, one of which belongs to the collection of the learned curator, Mr Gibson-Hill. The reprints were also acquired by the library including recent reprints by Konemann (2000) and Monsoon Books (2010). Besides this, the library holds several of Bird’s other travelogues as well as analysis, commentaries and criticisms of her works and biographies along with studies of her life.
