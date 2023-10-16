@@ -6,8 +6,8 @@ description: ""
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">The Bumpy Ride to Making Crash Helmets Mandatory</a>
 Crash helmets might save lives but getting people to wear them was an uphill task.
 
-![](/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/crash_helmet_header.jpg)
-
+<img src="/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/crash_helmet_header.jpg">
+<hr>
 
 
 
