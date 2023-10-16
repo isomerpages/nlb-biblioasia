@@ -4,6 +4,26 @@ permalink: /topics/theatre/
 description: ""
 third_nav_title: Arts
 ---
+
+
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet"> 
+A Well-Choreographed Move: From Singapore Dance Theatre to Singapore Ballet	</a><br>
+As the history of the company shows, its new name is less about breaking away from the past as it is about leaping confidently into the future.
+
+<img src="/images/Vol%2019%20Issue%203/image1.png">
+<hr>
+
+
+
+
+
+
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/chinesepuppettheatre"> Chinese Puppet Theatre: Rekindling a Glorious Past</a>
 <p>Chinese puppetry is a tradition that is slowly losing ground in Singapore. Caroline Chia tells us why this art form should be preserved.</p> 
 <img src="/images/Vol-13-issue-1/chinese-puppet-theatre/01a_chinesepuppet.png">
