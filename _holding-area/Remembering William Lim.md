@@ -19,7 +19,7 @@ Born in Hong Kong in 1932, Lim was a graduate of the Architectural Association S
 In 1960, Lim left the firm and started Malayan Architects Co-Partnership (MAC) with architects Lim Chong Keat and Chen Voon Fee whom he had met while studying in the UK. Together, they introduced the Brutalist style to Singapore’s architecture through their work on the Singapore Conference Hall and Trade Union House (today’s Singapore Conference Hall, gazetted as a national monument in 2010) in 1965.[^2]
 
 ![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image3.jpg)
-<div style="background-color: white;"><i>Singapore Conference Hall, 2023. Photo by Jimmy Yap.</i></div>
+<div style="background-color: white;">Singapore Conference Hall, 2023. Photo by Jimmy Yap.</div>
 
 Following the dissolution of MAC in 1967, Lim co-founded Design Partnership (renamed DP Architects in 1975) with fellow pioneer architects Tay Kheng Soon and Koh Seow Chuan. The trio shaped Singapore’s skyline with more Brutalist pieces like People’s Park Complex (1973) and Woh Hup Complex (today’s Golden Mile Complex, gazetted in 2021).[^3]
 
