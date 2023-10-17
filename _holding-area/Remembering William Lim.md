@@ -28,7 +28,9 @@ Following the dissolution of MAC in 1967, Lim co-founded Design Partnership (ren
 
 In 1981, Lim left DP Architects and established William Lim Associates (WLA) with architects Mok Wei Wei, Richard Ho and Carl Larson. This period saw Lim embrace Postmodernism, an architectural style that appeared in the late 1970s in response to the philosophy and style of Modernism, which rejected ornamentation and emphasised minimalism. Postmodernism is notable for features such as curved forms, decorative elements and bright colours. This shift was reflected in projects such as Church of Our Saviour (1985), Yeo Hiap Seng Factory (1986), Tampines North Community Centre (1989) and Marine Parade Community Building (1999).
 
-In 2003, the firm was renamed WArchitects following Lim’s retirement from practice. It is now helmed by Mok and Ng Weng Pan.[^4] Lim was also the author of numerous books such as Alternative (Post)modernity (2003), Asian Alterity (2008), Incomplete Urbanism (2012) and Public Space in Urban Asia (2014). He also edited architectural journals where he delved into diverse subjects, rang- ing from urban planning and architecture to broader topics like modernity, social justice and cultural identity.[^5] He was also deeply concerned about the conservation of Singapore’s architectural heritage.
+In 2003, the firm was renamed WArchitects following Lim’s retirement from practice. It is now helmed by Mok and Ng Weng Pan.[^4] 
+
+Lim was also the author of numerous books such as <i>Alternative (Post)modernity</i> (2003), <i>Asian Alterity</i> (2008), <i>Incomplete Urbanism</i> (2012) and <i>Public Space in Urban Asia</i> (2014). He also edited architectural journals where he delved into diverse subjects, rang- ing from urban planning and architecture to broader topics like modernity, social justice and cultural identity.[^5] He was also deeply concerned about the conservation of Singapore’s architectural heritage.
 
 Labelled by Mok as “an ‘enabler’ who brought talented people together to collaborate on meaningful projects”,[^6] Lim, together with other architects such as Mok and Richard Ho,[^7] restored several shophouses on Emerald Hill.
 
@@ -46,11 +48,11 @@ This exhibition looks at how the practice evolved against the backdrop of Singap
 
 An accompanying book of the same name has also been published. It charts the last four decades of the evolution of the work of William Lim Associates and W Architects over 220 conceptual sketches, architectural drawings and historical artefacts from their archives, along with behind-the-scenes stories of how the firm realised its creative visions. It is available for reference and for loan at the Lee Kong Chian Reference Library and selected public libraries, as well as online via the NLB Mobile app.
 
-A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s”, will take place at the lobby of the National Library Building. It will run from 28 November 2023 to 9 June 2024 and will showcase eight iconic buildings – from the National Theatre to Pinnacle@Duxton – that pushed the envelope of architecture in Singapore. A roving exhibition will also travel to Bishan Public Library (28 November 2023– 31 January 2024), Jurong Regional Library (1 February 2024–31 March 2024) and Tampines Regional Library (1 April 2024–9 June 2024).
+A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s”, will take place at the lobby of the National Library Building. It will run from 28 November 2023 to 9 June 2024 and will showcase eight iconic buildings – from the National Theatre to Pinnacle@Duxton – that pushed the envelope of architecture in Singapore. A roving exhibition will also travel to Bishan Public Library (28 November 2023 – 31 January 2024), Jurong Regional Library (1 February 2024–31 March 2024) and Tampines Regional Library (1 April 2024–9 June 2024).
 
 ![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg)
 <div style="background-color: white;">W Architects undertook the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby. <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i> <br>
-Section from Empress Place <br>
+	<b>Section from Empress Place</b> <br>
 2011<br>
 Digital print on paper<br>
 594x841mm<br>
@@ -59,7 +61,7 @@ B29493274G_0005
 
 ![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image5.jpg)
 <div style="background-color: white;">The Lee Kong Chian Natural History Museum – which opened in 2015 – uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (left).<i>William Lim Associates and W Architects Pte Ltd Collection. Col- lection of the National Library, Singapore. </i> 
-<br>Green facade elevation<br>
+<br><b>Green facade elevation</b><br>
 2013<br>
 Digital print on paper with ink annotations<br>
 297x420mm<br>
@@ -67,7 +69,7 @@ B29488115E_0001
 </div>
 
 ![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image6.jpg)
-<div style="background-color: white;">Rock facade concrete detail<br>
+<div style="background-color: white;"><b>Rock facade concrete detail</b><br>
 2013<br>
 Digital print on paper <br>841 x 1189 mm<br> B29493498D_0002</div>
 
@@ -83,24 +85,24 @@ The works featured in the exhibition, “To Draw an Idea”, are part of the Sin
 	<b>Stephanie Pee</b> is a Manager with the Publishing team at the National Library, Singapore.</div>
 
 #### **NOTES**
-[^1]: Justin Zhuang, “William Lim Siew Wai,” in Singapore Infopedia. National Library Board Singapore. Article published 31 March 2016. 
+[^1]:  Justin Zhuang, “[William Lim Siew Wai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-04-01_161334.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 31 March 2016.
 
-[^2]: Isabel Tan and Valerie Chew, “Singapore Conference Hall,” in Singapore Infopedia. National Library Board Singapore. Article published 2011.
+[^2]:  Isabel Tan and Valerie Chew, “[Singapore Conference Hall](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1853_2011-12-31.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2011.
 
-[^3]: “William Lim,” Esplanade Offstage, 12 October 2016, https://www.esplanade.com/offstage/arts/william-lim; Zhuang, “William Lim Siew Wai.”
+[^3]: “William Lim,” Esplanade Offstage, 12 October 2016, https://www.esplanade.com/offstage/arts/william-lim; Zhuang, “[William Lim Siew Wai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-04-01_161334.html).”
 
-[^4]: Esplanade Offstage, “William Lim”; Zhuang, “William Lim Siew Wai.”
+[^4]:  Esplanade Offstage, “William Lim”; Zhuang, “[William Lim Siew Wai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-04-01_161334.html).”
 
-[^5]: William S.W. Lim, Alternative (Post)modernity: An Asian Perspective (Singapore: Select Pub, 2003). (From National Library, Singapore, call no. RSING 303.4 LIM); William S.W. Lim, Asian Alterity: With Special Reference to Architecture + Urbanism Through the Lens of Cultural Studies (Singapore: World Scientific, 2008). (From National Library, Singapore, call no. RSING 720.95 LIM); William S.W. Lim, Public Space in Urban Asia 
-(Singapore: World Scientific, 2014). (From National Library, Singapore, call no. RSING 307.76095 LIM); William S.W. Lim, Incomplete Urbanism: A Critical Urban Strategy for Emerging Economies (Singapore: World Scientific, 2012). (From National Library, Singapore, call no. RSING 307.1 LIM); Zhuang, “William Lim Siew Wai.”
+[^5]: William S.W. Lim, [_Alternative (Post)modernity: An Asian Perspective_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11877521) (Singapore: Select Pub, 2003). (From National Library, Singapore, call no. RSING 303.4 LIM); William S.W. Lim, [_Asian Alterity: With Special Reference to Architecture + Urbanism Through the Lens of Cultural Studies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12974477) (Singapore: World Scientific, 2008). (From National Library, Singapore, call no. RSING 720.95 LIM); William S.W. Lim, [_Public Space in Urban Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200186210)&nbsp;(Singapore: World Scientific, 2014). (From National Library, Singapore, call no. RSING 307.76095 LIM); William S.W. Lim, [_Incomplete Urbanism: A Critical Urban Strategy for Emerging Economies_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14277831) (Singapore: World Scientific, 2012). (From National Library, Singapore, call no. RSING 307.1 LIM); Zhuang, “[William Lim Siew Wai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-04-01_161334.html).”
 
 [^6]: Chantal Sajan, “The Late William Lim: Pioneer Architect, Arts Patron, Heritage Champion and Social Activist,” Straits Times, 4 March 2023, https://www.straitstimes.com/life/home-design/the-late-william-lim-pioneer-architect-arts-patron-heritage-champion-and-social-activist.
 
-[^7]: Robert Powell, et al., “Inciting Rebellion,” in No Limits: Articulating William Lim (Singapore: Select Publishing, 2002), 14–46. (From National Library, Singapore, call no. RSING 720.92 NO)
+[^7]:  Robert Powell, et al., “Inciting Rebellion,” in&nbsp;[_No Limits: Articulating William Lim_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11341333)&nbsp;(Singapore: Select Publishing, 2002), 14–46. (From National Library, Singapore, call no. RSING 720.92 NO)
 
-[^8]: Zhuang, “William Lim Siew Wai”; Mok Wei Wei, Mok Wei Wei: Works by W Architects, ed. Justin Zhuang (Singapore: Thames &amp; Hudson, 2020), 42. (From National Library, Singapore, call no. RSING 720.95957 MOK)
+[^8]: Zhuang, “[William Lim Siew Wai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-04-01_161334.html)”; Mok Wei Wei, [_Mok Wei Wei: Works by W Architects_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204396033), ed. Justin Zhuang (Singapore: Thames &amp; Hudson, 2020), 42. (From National Library, Singapore, call no. RSING 720.95957 MOK)
+
 [^9]: Esplanade Offstage, “William Lim.”
 
-[^10]: “In Memoriam: William Lim Siew Wai, Eminent Architect and Benefactor of NUS Cultural Studies Programme,” NUS Faculty of Arts &amp; Social Sciences, 19 January 2023, https://fass.nus.edu.sg/news/2023/01/19/in-memoriam-william-lim-siew-wai-eminent-architect-and-benefactor-of-nus-cultural-studies-programme/; Zhuang, “William Lim Siew Wai.”
+[^10]: “In Memoriam: William Lim Siew Wai, Eminent Architect and Benefactor of NUS Cultural Studies Programme,” NUS Faculty of Arts &amp; Social Sciences, 19 January 2023, https://fass.nus.edu.sg/news/2023/01/19/in-memoriam-william-lim-siew-wai-eminent-architect-and-benefactor-of-nus-cultural-studies-programme/; Zhuang, “[William Lim Siew Wai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-04-01_161334.html).”
 
-[^11]: Zhuang, “William Lim Siew Wai.”
+[^11]: Zhuang, “[William Lim Siew Wai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-04-01_161334.html).”
