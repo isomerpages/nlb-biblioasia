@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Talentime.md
       - Remembering William Lim.md
       - Test2.md
       - Test page.md
