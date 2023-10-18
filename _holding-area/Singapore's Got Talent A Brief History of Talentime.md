@@ -116,71 +116,56 @@ In recent years, reality television shows such as _American Idol_, _America’s 
 [^14]: [Reginald Verghese](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/41c4c53d-115e-11e3-83d5-0050568939ad-OHC001666_002/web/html5/index.html),oralhistoryinterviewbyPatD’Rose,5July1995, transcript and MP3 audio, Reel/Disc 2 of 6, National Archives of Singapore
 ([accession no. 001666](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001666)), 31.
 
-[^15]: RaymondHoandJohnChee,oralhistoryinterviewbyJosephC.Pereira,
-8 July 2007, transcript and MP3 audio, Reel/Disc 3 of 4, National Archives of
-Singapore (accession no. 003163), 114–15.
+[^15]: [Raymond Ho and John Chee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1726a17-1161-11e3-83d5-0050568939ad-OHC003163_003/web/html5/index.html), oral history interview by Joseph C. Pereira, 8 July 2007, transcript and MP3 audio, Reel/Disc 3 of 4, National Archives of Singapore ([accession no. 003163](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003163)), 114–15.
 
-[^16]: TheCrescendos,“MrTwister,”1963,vinyldisc.(FromNationalArchivesof
-Singapore, accession no. 2016000728)
+[^16]: The Crescendos, “[Mr Twister](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/f71fc479-c3ef-11e5-b1ec-0050568939ad),” 1963, vinyl disc. (From National Archives of Singapore, accession no. 2016000728)
 
-[^17]: “FirstS’poreRecordingStarsonAmericanLabel,”StraitsTimes,2June
-1968, 12. (From NewspaperSG); Ministry of Culture, “Berita Singapura: 1. Sang Nila Utama Secondary School 2. Singing Trio,” 1960s, video, 00:09:41. (From National Archives of Singapore, accession no. 1982000239)
+[^17]: “[First S'pore Recording Stars on American Label](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19680602-1.2.22.3),” _Straits Times_, 2 June 1968, 12. (From NewspaperSG); Ministry of Culture, “[Berita Singapura: 1. Sang Nila Utama Secondary School 2. Singing Trio](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457ad99b-1164-11e3-83d5-0050568939ad),” 1960s, video, 00:09:41. (From National Archives of Singapore, accession no. 1982000239)
 
-[^18]: TheTidbits,“IBelieve,”1968,vinyldisc.(FromNationalArchivesof Singapore, accession nos. 2012003946 and 2014003894)
+[^18]: The Tidbits, “[I Believe](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/71689cb9-1164-11e3-83d5-0050568939ad),” 1968, vinyl disc. (From National Archives of Singapore, accession nos. 2012003946 and 2014003894)
 
-[^19]: “Praisesfor‘Tidbits’,”EasternSun,17May1968,10.(FromNewspaperSG) 
+[^19]: “[Praises for ‘Tidbits’](https://eresources.nlb.gov.sg/newspapers/digitised/article/easternsun19680517-1.2.13.39),” _Eastern Sun_, 17 May 1968, 10. (From NewspaperSG) 
 
-[^20]: “CrackerjacksComeOutTopinTalentimeFinals,”SingaporeStandard,4
-September 1954, 4. (From NewspaperSG)
+[^20]: “[Crackerjacks Come Out Top in Talentime Finals](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540904-1.2.62),” _Singapore Standard_, 4 September 1954, 4. (From NewspaperSG)
 
-[^21]: W.A.Morton,“JudgingApplauseinSearchforTalent,”StraitsTimes,22
-May 1962, 10. (From NewspaperSG)
+[^21]: W.A. Morton, “[Judging Applause in Search for Talent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19620522-1.2.55.1),” _Straits Times_, 22 May 1962, 10. (From NewspaperSG)
 
-[^22]: MinistryofCulture,“MeetingHeldonTuesday7thDecember'71atthe Engineering Conference Room – Television Centre,” in Talentimes/Concerts (English), December 1968 to January 1977. (From National Archives of Singapore, record reference no. DDB 35), 188.
+[^22]:  Ministry of Culture, “Meeting Held on Tuesday 7th December '71 at the Engineering Conference Room – Television Centre,” in [_Talentimes/Concerts (English)_](https://www.nas.gov.sg/archivesonline/government_records/record-details/022fddb3-0ab8-11e8-a2a9-001a4a5ba61b)_,_ December 1968 to January 1977. (From National Archives of Singapore, record reference no. DDB 35), 188.
 
-[^23]: RadioandTelevisionSingapore,“RTSTalentime1976(GrandFinal),”1976, 1 inch B. (From National Archives of Singapore, accession no. 1997002767). [Also on mewatch]
+[^23]: Radio and Television Singapore, “[RTS Talentime 1976 (Grand Final)](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48902465-1164-11e3-83d5-0050568939ad),” 1976, 1 inch B. (From National Archives of Singapore, accession no. 1997002767). \[Also on mewatch\]
 
-[^24]: RadioandTelevisionSingapore,“Talentime1978(Final),”1978,1inchB. (From National Archives of Singapore, accession no. 1997002770). [Also on mewatch]
+[^24]: Radio and Television Singapore, “[Talentime 1978 (Final)](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48905082-1164-11e3-83d5-0050568939ad)”1978, 1 inch B. (From National Archives of Singapore, accession no. 1997002770). [Also on mewatch]
 
-[^25]: SusieSoh,“FaridahandCavarelleTopTalentime’78Finals,”StraitsTimes, 29 December 1978, 15. (From NewspaperSG)
+[^25]:  Susie Soh, “[Faridah and Cavarelle Top Talentime ’78 Finals](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781229-1.2.66),” _Straits Times_, 29 December 1978, 15. (From NewspaperSG)
 
-[^26]: SeowPeckNgiam,“Anti-YellowCultureCampaign,”inSingaporeInfopedia. National Library Board Singapore. Article published September 2021.
+[^26]: Seow Peck Ngiam, “[Anti-Yellow Culture Campaign](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2022-09-05_141419.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2021.
 
-[^27]: “TopS’poreTalentforShow,”StraitsTimes,18April1968,6.(From NewspaperSG)
+[^27]: “[Top S’pore Talent for Show](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19680418-1.2.46),” _Straits Times_, 18 April 1968, 6. (From NewspaperSG)
 
-[^28]: EdgarKoh,“NotaLaughingMatter...,”NewNation,2August1971,10. (From NewspaperSG)
+[^28]:  Edgar Koh, “[Not a Laughing Matter...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19710802-1.2.52.2),” _New Nation_, 2 August 1971, 10. (From NewspaperSG)
 
-[^29]: MinistryofCulture,Talentimes/Concerts(English),202.
+[^29]:  Ministry of Culture, [_Talentimes/Concerts (English)_](https://www.nas.gov.sg/archivesonline/government_records/record-details/022fddb3-0ab8-11e8-a2a9-001a4a5ba61b), 202.
 
-[^30]: “TalentimeWinnerGivesPrizestoCharity,”StraitsTimes,19December
-1971, 1; Bailyne Sung, “It’s First Place for Sugiman,” Straits Times, 25
-February 1973, 6. (From NewspaperSG)
+[^30]: “[Talentime Winner Gives Prizes to Charity](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19711219-1.2.3),” _Straits Times_, 19 December 1971, 1; Bailyne Sung, “[It’s First Place for Sugiman](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730225-1.2.34.2),” _Straits Times_, 25 February 1973, 6. (From NewspaperSG)
 
-[^31]: LuLinReutens,“TalentimeStar’sCharityDreams,”NewNation,17
-December 1974, 11. (From NewspaperSG)
+[^31]: Lu Lin Reutens, “[Talentime Star's Charity Dreams](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19741217-1.2.23.1),” _New Nation_, 17 December 1974, 11. (From NewspaperSG)
 
-[^32]: SugimanJahuri,“ILookatYou,”1968,vinyldisc.(FromNationalArchives
-of Singapore, accession no. 2016002561); Sugiman Jahuri, “Kesah Chinta,” 1971, vinyl disc. (From National Archives of Singapore, accession no. 2019020861 and 2019044217); Sugiman Jahuri, “Woman Woman,” undated, vinyl disc. (From National Archives of Singapore, accession no. 2015014660)
+[^32]: Sugiman Jahuri, “[I Look At You](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/cdaa8913-c3f7-11e5-b1ec-0050568939ad),” 1968, vinyl disc. (From National Archives of Singapore, accession no. 2016002561); Sugiman Jahuri, “[Kesah Chinta](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/22427775-ac68-11e9-9972-001a4a5ba61b),” 1971,  vinyl disc. (From National Archives of Singapore, accession no. 2019020861 and 2019044217); Sugiman Jahuri, “[Woman Woman](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/df00c51e-8849-11e5-ac2a-0050568939ad),” undated, vinyl disc. (From National Archives of Singapore, accession no. 2015014660)
 
-[^33]: MargaretCunico,“TalentimeSpringboard,”NewNation,27June1979, 10–11. (From NewspaperSG)
+[^33]: Margaret Cunico, “[Talentime Springboard](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19790627-1.2.45.1),” _New Nation_, 27 June 1979, 10–11. (From NewspaperSG)
 
-[^34]: AlbanDeSouzaandMahaniMohd,“MimpiGembira,”1973,vinyldisc. (From National Archives of Singapore, accession no. 2015014470); Alban De Souza, “Ratapan Anka Tiri,” 1974, vinyl disc. (From National Archives of Singapore, accession no. 2015014471); Alban De Souza and Mahani Mohd, “Jangan Bersedeh,” undated, vinyl disc. (From National Archives of Singapore, accession no. 2019020868)
+[^34]: Alban De Souza and Mahani Mohd, “[Mimpi Gembira](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/cd2462b6-8849-11e5-ac2a-0050568939ad),” 1973, vinyl disc. (From National Archives of Singapore, accession no. 2015014470); Alban De Souza, “[Ratapan Anka Tiri](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/cd3dc53f-8849-11e5-ac2a-0050568939ad),” 1974, vinyl disc. (From National Archives of Singapore, accession no. 2015014471); Alban De Souza and Mahani Mohd, “[Jangan Bersedeh](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/237d27ee-ac68-11e9-9972-001a4a5ba61b),” undated, vinyl disc. (From National Archives of Singapore, accession no. 2019020868)
 
-[^35]: “InPersonEp59:Gypsy”1983,video,00:43:06.(FromNationalArchivesof Singapore, accession no. 1997005194)
+[^35]: “[In Person Ep 59: Gypsy](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4952a0b6-1164-11e3-83d5-0050568939ad)” 1983, video, 00:43:06. (From National Archives of Singapore, accession no. 1997005194)
 
-[^36]: Teo,“RememberWhenTalentimeWasNew?”
+[^36]:  Teo, “[Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)”
 
-[^37]: JuniperFoo,“Young,HipandFasterThanEver,”StraitsTimes,16October
-1988, 2. (From NewspaperSG)
+[^37]: Juniper Foo, “[Young, Hip and Faster Than Ever](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19881016-1.2.50.4.1),” _Straits Times_, 16 October 1988, 2. (From NewspaperSG)
 
-[^38]: CherianGeorge,“SBCRestructuredintoSeveralGovt-OwnedFirms,”
-Straits Times, 1 October 1994, 29. (From NewspaperSG)
+[^38]: Cherian George, “[SBC Restructured into Several Govt-Owned Firms](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19941001-1.2.37.18),” _Straits Times_, 1 October 1994, 29. (From NewspaperSG)
 
-[^39]: SophiaAng,“PopStarsWanted,”Today,6July2001,22.(From
-NewspaperSG)
+[^39]: Sophia Ang, “[Pop Stars Wanted](https://eresources.nlb.gov.sg/newspapers/digitised/article/today20010706-2.2.30.1),” _Today_, 6 July 2001, 22. (From NewspaperSG)
 
-[^40]: LionelSeah,“TalentTimeforWhat?”StraitsTimes,22October2001,6.
-(From NewspaperSG)
+[^40]: Lionel Seah, “[Talent Time for What?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20011022-1.2.62.10)” _Straits Times_, 22 October 2001, 6. (From NewspaperSG)
 
-[^41]: SujinThomas,“SingaporeIdolmania,”StraitsTimes,25December2004,6.
-(From NewspaperSG)
+[^41]: Sujin Thomas, “[Singapore Idolmania](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20041225-1.2.60.2.16),” _Straits Times_, 25 December 2004, 6. (From NewspaperSG)
