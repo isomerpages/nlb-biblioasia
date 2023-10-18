@@ -62,3 +62,26 @@ The government also sometimes intervened directly during the contest. During 197
 
 Tan, apparently, was notable because of his campy stage persona. The _New Nation_ reported that “\[h\]alf-way through the recording, the shocking, bell-bottomed Johnny Tan, who had TV viewers here in fits of laughter two years ago, makes an equally hip-swaying entry. Blowing kisses around the studio and swinging his arms wildly, he makes his declaration with This is My Song”.[^28] After watching one of Tan’s performances, Culture Minister Jek Yeun Thong issued an order that “\[n\]o contestant similar to Johnny Tan may be allowed to participate in subsequent heats”.[^29]
 
+#### **The Winner Takes It All?**
+While everyone obviously wanted to win, being crowned rarely translated into professional success and many winners faded quickly into obscurity. The more fortunate ones include T.F. Tan, winner of the 1971 Talentime, and Sugiman Jahuri, first-prize winner in the English section of the 1973 Talentime, who went on to become household names.[^30] Tan, a tropical fish dealer whose powerful voice called to mind singers like Tony Bennett and Andy Williams, had won “more \[T\]alentime quests than any other amateur in Singapore”. One _New Nation_ article claimed that “anyone old enough to remember the series remembers T.F”.[^31]  
+
+Sugiman released a string of records, including _I Look at You_ (Columbia; 1968), _Kesah Chinta_ (Parlophone; 1971) and _Woman Woman_ (Columbia; undated).[^32] Another notable winner was, of course, Jacintha Abisheganaden.
+
+If winning automatically translated into commercial success, losing the competition did not spell failure either. Quite a few contestants who did not make the finals went on to have long, successful careers in music.[^33] These include Joe Chandran of the X’periment, Alban De’Souza[^34] and Talib Ismail of Tania, and Mel Ferdinands of Gypsy.[^35]
+
+#### **Breaking Up Is Hard to Do**
+On 31 January 1980, RTS was dissolved and its functions were transferred to the Singapore Broadcasting Corporation (SBC). SBC reprised the Talentime format “uneventfully” through to the 1980s.[^36] 
+
+By 1988, SBC had articulated a new “entertainment concept” for the programme, which emphasised presentation and showmanship. “I want to do away with nervous contestants quaking on centrestage,” said producer Lim Sek. Under Lim, Talentime participants were accompanied by backup dancers. He also overturned the decades-old rule that barred professionals from participating.[^37] The era of Talentime as an amateur competition was no more. 
+
+Talentime was put on hiatus in the 1990s, as local broadcasting entities went through a process of privatisation to give broadcasters greater flexibility in order to compete with cable television and other foreign competitors.[^38] It was not until the new millennium that Mediacorp, the media conglomerate that succeeded SBC, launched _Talentime 2001_ in a bid to unearth local “pop stars”.[^39]
+
+The show, unfortunately, received scathing comments in the press after the first quarterfinals on 14 October 2001. “Talentime 2001 appears so far to be no more than a one-hour, glorified karaoke session, with prizes in place of the alcohol,” wrote Lionel Seah for the _Straits Times_. “\[W\]hat Talentime 2001 seems to be looking out for is a mediocre singer who looks fabulous and can do complex dance routines for the duration of one short song.”[^40] 
+
+Talentime would soon seem like an anachronism when the British reality television singing competition _Pop Idol_ debuted in October 2001 and eventually spawned an international _Idols_ franchise. _American Idol_ began airing in the US in June 2002 and was hugely popular in Singapore. Mediacorp replaced Talentime with its own _Singapore Idol_ in 2004, incorporating confessionals and melodramatic interviews with contestants – it was a hit. 
+
+Auditions for _Singapore Idol_ that began in June 2004 attracted more than “3,000 wannabe-stars to warble for a shot at fame and a recording contract”. In the finals on 1 December that year, 8,000 people turned up at the Singapore Indoor Stadium to watch Taufik Batisah emerge as the winner. 
+
+“Singapore Idol’s claim to fame is the fact that it managed to collectively rally Singaporeans from all walks of life to cheer, cry and hammer away at their mobile phones to vote for their favourite singer – not an American crooner or a British rapper, but a true-blue Singaporean soulster,” wrote Sujin Thomas of the _Straits Times_.[^41] _Singapore Idol_ continued for two more seasons – in 2006 and 2009. 
+
+In recent years, reality television shows such as _American Idol_, _America’s Got Talent_, _The X-Factor_, _The Voice_ and _The Masked Singer_ have displaced traditional talent contests. Although these have probably sounded the death knell for Talentime in Singapore, the misty memories of the way we were will undoubtedly continue to light the corners of our minds.
