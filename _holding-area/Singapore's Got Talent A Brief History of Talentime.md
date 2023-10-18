@@ -108,9 +108,9 @@ Talentime would soon seem like an anachronism when the British reality televisio
 Auditions for _Singapore Idol_ that began in June 2004 attracted more than “3,000 wannabe-stars to warble for a shot at fame and a recording contract”. In the finals on 1 December that year, 8,000 people turned up at the Singapore Indoor Stadium to watch Taufik Batisah emerge as the winner.
 
 ![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo9.png)
-<div style="background-color: white;"> <i>Singapore Idol</i> made its first winner, Taufik Batisah, a household name and launched his career. He is seen here performing at the May Day concert and carnival at Waterfront Bay by the Esplanade in 2005. <i>Ministry of Information, Communications and the Arts Collection, courtesy of National Archives of Singapore_.</i></div>
+<div style="background-color: white;"> <i>Singapore Idol</i> made its first winner, Taufik Batisah, a household name and launched his career. He is seen here performing at the May Day concert and carnival at Waterfront Bay by the Esplanade in 2005. <i>Ministry of Information, Communications and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-“Singapore Idol’s claim to fame is the fact that it managed to collectively rally Singaporeans from all walks of life to cheer, cry and hammer away at their mobile phones to vote for their favourite singer – not an American crooner or a British rapper, but a true-blue Singaporean soulster,” wrote Sujin Thomas of the _Straits Times_.[^41] _Singapore Idol_ continued for two more seasons – in 2006 and 2009.&nbsp;
+“Singapore Idol’s claim to fame is the fact that it managed to collectively rally Singaporeans from all walks of life to cheer, cry and hammer away at their mobile phones to vote for their favourite singer – not an American crooner or a British rapper, but a true-blue Singaporean soulster,” wrote Sujin Thomas of the _Straits Times_.[^41] _Singapore Idol_ continued for two more seasons – in 2006 and 2009.
 
 In recent years, reality television shows such as _American Idol_, _America’s Got Talent_, _The X-Factor_, _The Voice_ and _The Masked Singer_ have displaced traditional talent contests. Although these have probably sounded the death knell for Talentime in Singapore, the misty memories of the way we were will undoubtedly continue to light the corners of our minds.
 
@@ -133,11 +133,11 @@ In recent years, reality television shows such as _American Idol_, _America’s 
 
 [^9]: “[Gate-Crashers Beware!](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19490605-1.2.16),” *Sunday Tribune (Singapore)*, 5 June 1949, 2. (From NewspaperSG)
 
-[^10]: “[Veteran Mimic Wins Talent Quest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890213-1.2.26.13),”*StraitsTimes*, 13 February 1989,17. (From NewspaperSG)
+[^10]: “[Veteran Mimic Wins Talent Quest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890213-1.2.26.13),” *StraitsTimes*, 13 February 1989,17. (From NewspaperSG)
 
-[^11]: RossLaird, "[_From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?id=205959499) 1903–1985 (Singapore: National Archives of Singapore, 2023), 154–56. (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
+[^11]: Ross Laird, "[_From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?id=205959499) 1903–1985 (Singapore: National Archives of Singapore, 2023), 154–56. (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
 
-[^12]:  TeoLianHuay, [Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)”(https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)StraitsTimes, 17 August 1982, 1. (From NewspaperSG)
+[^12]:  Teo Lian Huay, [Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)”(https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2) *Straits Times*, 17 August 1982, 1. (From NewspaperSG)
 
 [^13]:Teo, ”[Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)”
 
