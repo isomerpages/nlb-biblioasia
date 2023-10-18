@@ -91,31 +91,30 @@ In recent years, reality television shows such as _American Idol_, _America’s 
 
 [^2]: "[Malayan Listeners State Their Fancy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490105-1.2.78)", *Straits Times,* 5 January 1949, 6. (From NewspaperSG)
 
-[^3]: “[Search for Local Talent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490126-1.2.40),” Straits Times, 26 January 1949, 5. (From NewspaperSG)
+[^3]: “[Search for Local Talent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490126-1.2.40),” *Straits Times,* 26 January 1949, 5. (From NewspaperSG)
 
-[^4]: “[Radio Malaya Gives Unknown Artistes Chance To Be Heard](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19490125-1.2.99),” Malaya Tribune, 25 January 1949, 9. (From NewspaperSG)
+[^4]: “[Radio Malaya Gives Unknown Artistes Chance To Be Heard](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19490125-1.2.99),” *Malaya Tribune*, 25 January 1949, 9. (From NewspaperSG)
 
 [^5]:  [Vernon Cyril Palmer](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2977486a-115e-11e3-83d5-0050568939ad-OHC001423_009/web/html5/index.html), oral history interview, 19 January 1994, Reel/Disc 9 of 12, 78.
 
-[^6]: “[He Won Loudest Cheers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490219-1.2.108)” Straits Times, 19 February 1949, 7. (From NewspaperSG)
+[^6]: “[He Won Loudest Cheers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490219-1.2.108)” *Straits Times*, 19 February 1949, 7. (From NewspaperSG)
 
-[^7]: “[S’pore Crooners Will Get the Air](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490220-1.2.35),” Straits Times, 20 February 1949, 3. (From NewspaperSG)
+[^7]: “[S’pore Crooners Will Get the Air](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490220-1.2.35),” *Straits Times*, 20 February 1949, 3. (From NewspaperSG)
 
-[^8]: “[L. Fenton Wins ‘Talentime’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19490428-1.2.96)” Malaya Tribune, 28 April 1949, 8. (From NewspaperSG)
+[^8]: “[L. Fenton Wins ‘Talentime’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19490428-1.2.96)” *Malaya Tribune*, 28 April 1949, 8. (From NewspaperSG)
 
-[^9]: “[Gate-Crashers Beware!](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19490605-1.2.16),” Sunday Tribune (Singapore), 5 June 1949, 2. (From NewspaperSG)
+[^9]: “[Gate-Crashers Beware!](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19490605-1.2.16),” *Sunday Tribune (Singapore)*, 5 June 1949, 2. (From NewspaperSG)
 
-[^10]: “[Veteran Mimic Wins Talent Quest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890213-1.2.26.13),”StraitsTimes,13February1989,17. (From NewspaperSG)
+[^10]: “[Veteran Mimic Wins Talent Quest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890213-1.2.26.13),”*StraitsTimes*, 13 February 1989,17. (From NewspaperSG)
 
-[^11]: "[_From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?id=205959499) 1903–1985 (Singapore: National Archives of Singapore, 2023), 154–56. (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
+[^11]: RossLaird, "[_From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?id=205959499) 1903–1985 (Singapore: National Archives of Singapore, 2023), 154–56. (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
 
-[^12]: [Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)StraitsTimes,17 August 1982, 1. (From NewspaperSG)
+[^12]:  TeoLianHuay, [Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)”(https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)StraitsTimes, 17 August 1982, 1. (From NewspaperSG)
 
-[^13]:Teo,“RememberWhenTalentimeWasNew?”
+[^13]:Teo, ”[Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)”
 
-[^14]: ReginaldVerghese,oralhistoryinterviewbyPatD’Rose,5July1995,
-transcript and MP3 audio, Reel/Disc 2 of 6, National Archives of Singapore
-(accession no. 001666), 31.
+[^14]: [Reginald Verghese](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/41c4c53d-115e-11e3-83d5-0050568939ad-OHC001666_002/web/html5/index.html),oralhistoryinterviewbyPatD’Rose,5July1995, transcript and MP3 audio, Reel/Disc 2 of 6, National Archives of Singapore
+([accession no. 001666](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001666)), 31.
 
 [^15]: RaymondHoandJohnChee,oralhistoryinterviewbyJosephC.Pereira,
 8 July 2007, transcript and MP3 audio, Reel/Disc 3 of 4, National Archives of
