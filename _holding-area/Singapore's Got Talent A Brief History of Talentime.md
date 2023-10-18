@@ -55,8 +55,7 @@ The Crescendos themselves were catapulted into stardom after catching the eye of
 
 Another group that found fame via Talentime was The Tidbits – a trio comprising teenage schoolgirls Serene Wee, her sister Merlina Wee and their cousin Bernadette De Souza. They clinched the top prize in the vocal group category with their rendition of “I Believe” in 1968.[^17] The Tidbits went on to release a vinyl recording featuring four songs, “I Believe”, “Breaking Up Is Hard to Do”, “Never My Love” and “Lace Covered Window”,[^18] becoming Southeast Asia’s first recording artistes on RCA’s international label.[^19]
 
-While the early Radio Malaya versions of Talentime used an applause meter, by 1954, the contest began to rely on judges.[^20] And though it must have been nerve-racking being judged on stage, being a judge was no easy task either. Judges were also under the microscope for their verdicts. Following heated rounds of competition, complaint letters appeared in local newspaper forums  
-like clockwork.
+While the early Radio Malaya versions of Talentime used an applause meter, by 1954, the contest began to rely on judges.[^20] And though it must have been nerve-racking being judged on stage, being a judge was no easy task either. Judges were also under the microscope for their verdicts. Following heated rounds of competition, complaint letters appeared in local newspaper forums  like clockwork.
 
 “This is not the first time I have considered the three judges to have erred but it is the first time they have failed to select two good entertainers. It has been announced that they judge solely on what they hear, and I am now inclined to agree, only it appears they give points on the APPLAUSE they hear and not the quality of the performers,” wrote W.A. Morton to the _Straits Times_ in May 1962.[^21]
 
