@@ -119,10 +119,9 @@ In recent years, reality television shows such as _American Idol_, _America’s 
 	<img src="/images/Authors/Mark%20Wong.png" style="width: 100px; height: 100px;">
 	<b>Mark Wong</b> is an Assistant Director/Senior Specialist (Oral History) with the Oral History Centre at the National Archives of Singapore, where he leads the oral history project on Singapore’s experiences with COVID-19. He is a Council Member and Regional Representative (Asia) of the International Oral History Association.</div>
 	
-	<div style="background-color: white;">
 <br>
 	<img src="/images/Authors/Jamie%20lee.png" style="width: 100px; height: 100px;">
-	<b>Jamie Lee</b> is an Assistant Archivist with the Audio Visual Archives Department, National Archives of Singapore. A lifelong advocate of the moving image, she works to connect Singaporeans with their audiovisual heritage by curating records and their metadata. She is currently completing her Master’s in Library and Information Science specialising in Archival Studies at the University of Wisconsin-Milwaukee.</div>
+	<b>Jamie Lee</b> is an Assistant Archivist with the Audio Visual Archives Department, National Archives of Singapore. A lifelong advocate of the moving image, she works to connect Singaporeans with their audiovisual heritage by curating records and their metadata. She is currently completing her Master’s in Library and Information Science specialising in Archival Studies at the University of Wisconsin-Milwaukee.
 
 #### **NOTES**
 [^1]:  [Vernon Cyril Palmer](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2977486a-115e-11e3-83d5-0050568939ad-OHC001423_009/web/html5/index.html), oral history interview by Daniel Chew, 19 January 1994, transcript and MP3 audio, Reel/Disc 9 of 12, National Archives of Singapore ([accession no. 001423](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001423)), 78.
