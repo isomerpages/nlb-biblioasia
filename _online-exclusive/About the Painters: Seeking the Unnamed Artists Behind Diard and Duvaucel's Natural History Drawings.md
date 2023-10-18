@@ -79,7 +79,7 @@ In my poem “About the Painters”, I linger on these uncompleted details, conn
 <div style="background-color: white;"> Missing iris in the black magpie. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal. </div>
 
 <img style="width:60%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/mnhn_ms604_3_reptiles_poissons_0014_v1.jpg">
-<div style="background-color: white;">An uncoloured fin in the cigar wrasse. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=c908d4fd-4e4b-441d-bdab-48c9eb69d0c1.aspx">BookSG </a></i>  portal.</div>
+<div style="background-color: white;">An uncoloured fin in the cigar wrasse. <i>Courtesy of the Muséum National d’Histoire Naturelle in Paris. Digitised and available on National Library’s <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=c908d4fd-4e4b-441d-bdab-48c9eb69d0c1">BookSG </a></i>  portal.</div>
 
 Reptiles and amphibians such as Kuhl’s Gliding Gecko,[^29] Flat-tailed House Gecko,[^30] Long-nosed Horned Frog,[^31] and Giant River Toad,[^32] are drawn at the top of their respective pages, leaving unnecessary unused space at the bottom of the page. Meanwhile, the other reptiles, like the rest of the drawings, are centered on the page.[^33] Again, we might reasonably wonder if these pieces were the work of one artist, and the rest of the reptiles another.<br>
 
