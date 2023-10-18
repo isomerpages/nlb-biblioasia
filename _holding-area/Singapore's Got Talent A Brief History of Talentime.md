@@ -9,6 +9,7 @@ description: Although Talentime has been replaced by reality talent contests, it
 By Jamie Lee and Mark Wong
 
 ![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo1.png)
+<div style="background-color: white;">The Tidbits clinched the top prize with their rendition of “I Believe” at the 1968 Talentime. They were one of the local bands to have recorded with RCA. <i>Jean Dabel Collection, courtesy of National Archives of Singapore.</i></div>
 
 In its heyday, Talentime was a major cultural phenomenon in Singapore. Through radio, and later television, the talent show gave aspiring singers and bands a chance to make it big on the national stage. In the 1960s, The Crescendos and The Quests were picked up by record labels after being talent-spotted on the show. Singer Jacintha Abisheganaden got her big break when she won the contest in 1976 as part of the group Vintage.
 
@@ -23,7 +24,7 @@ The history of Talentime goes back to the early postwar years. In January 1949, 
 
 Beamish had been the one to come up with the name Talentime. “[The name] ‘Amateur Hour’, it wasn’t good enough,” recalled Palmer. “So we went through many titles and eventually we came up with the suggestion of ‘Talentime’. Actually it was suggested by Tony Beamish. We all agreed it was a good title.”[^5]
 
-The winner of the first Talentime round was 32-year-old Eurasian clerk Freddie Jansen, who sang “Surrender”. He “clocked highest on the applause meter” at the show on 18 February 1949.[^6] “Crooning is again the rage in Singapore,” trumpeted the Sunday Times. “With the introduction of Radio Malaya’s ‘Talentime’, the crooners and their soft mellow voices will no longer be confined to the microphones of the amusement parks and cabarets – or the bathrooms. Crooners will compete with each other in ‘Talentime’, and over the ether will come the voices of Singapore’s Bing Crosbys, Frank Sinatras and Perry Comos.”[^7]
+The winner of the first Talentime round was 32-year-old Eurasian clerk Freddie Jansen, who sang “Surrender”. He “clocked highest on the applause meter” at the show on 18 February 1949.[^6] “Crooning is again the rage in Singapore,” trumpeted the *Sunday Times*. “With the introduction of Radio Malaya’s ‘Talentime’, the crooners and their soft mellow voices will no longer be confined to the microphones of the amusement parks and cabarets – or the bathrooms. Crooners will compete with each other in ‘Talentime’, and over the ether will come the voices of Singapore’s Bing Crosbys, Frank Sinatras and Perry Comos.”[^7]
 
 ![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo4.png)
 <div style="background-color: white;">Eurasian clerk Freddie Jansen was the winner of the first broadcast Talentime on 18 February 1949. <i>Image reproduced from “It’s Talentime Tonight,” Malaya Tribune, 27 April 1949, 8. (From NewspaperSG).</i></div>
