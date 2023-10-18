@@ -87,29 +87,29 @@ Auditions for _Singapore Idol_ that began in June 2004 attracted more than “3,
 In recent years, reality television shows such as _American Idol_, _America’s Got Talent_, _The X-Factor_, _The Voice_ and _The Masked Singer_ have displaced traditional talent contests. Although these have probably sounded the death knell for Talentime in Singapore, the misty memories of the way we were will undoubtedly continue to light the corners of our minds.
 
 #### **NOTES**
-[^1]: Vernon Cyril Palmer, oral history interview by Daniel Chew, 19 January 1994, transcript and MP3 audio, Reel/Disc 9 of 12, National Archives of Singapore (accession no. 001423), 78.
+[^1]:  [Vernon Cyril Palmer](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2977486a-115e-11e3-83d5-0050568939ad-OHC001423_009/web/html5/index.html), oral history interview by Daniel Chew, 19 January 1994, transcript and MP3 audio, Reel/Disc 9 of 12, National Archives of Singapore ([accession no. 001423](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001423)), 78.
 
-[^2]: “Malayan Listeners State Their Fancy,” Straits Times, 5 January 1949, 6. (From NewspaperSG)
+[^2]: "[Malayan Listeners State Their Fancy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490105-1.2.78)", *Straits Times,* 5 January 1949, 6. (From NewspaperSG)
 
-[^3]: “Search for Local Talent,” Straits Times, 26 January 1949, 5. (From NewspaperSG)
+[^3]: “[Search for Local Talent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490126-1.2.40),” Straits Times, 26 January 1949, 5. (From NewspaperSG)
 
-[^4]: “Radio Malaya Gives Unknown Artistes Chance To Be Heard,” Malaya Tribune, 25 January 1949, 9. (From NewspaperSG)
+[^4]: “[Radio Malaya Gives Unknown Artistes Chance To Be Heard](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19490125-1.2.99),” Malaya Tribune, 25 January 1949, 9. (From NewspaperSG)
 
-[^5]: Vernon Cyril Palmer, oral history interview, 19 January 1994, Reel/Disc 9 of 12, 78.
+[^5]:  [Vernon Cyril Palmer](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2977486a-115e-11e3-83d5-0050568939ad-OHC001423_009/web/html5/index.html), oral history interview, 19 January 1994, Reel/Disc 9 of 12, 78.
 
-[^6]: “He Won Loudest Cheers,” Straits Times, 19 February 1949, 7. (From NewspaperSG)
+[^6]: “[He Won Loudest Cheers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490219-1.2.108)” Straits Times, 19 February 1949, 7. (From NewspaperSG)
 
-[^7]: “S’pore Crooners Will Get the Air,” Straits Times, 20 February 1949, 3. (From NewspaperSG)
+[^7]: “[S’pore Crooners Will Get the Air](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490220-1.2.35),” Straits Times, 20 February 1949, 3. (From NewspaperSG)
 
-[^8]: “L. Fenton Wins ‘Talentime’,” Malaya Tribune, 28 April 1949, 8. (From NewspaperSG)
+[^8]: “[L. Fenton Wins ‘Talentime’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19490428-1.2.96)” Malaya Tribune, 28 April 1949, 8. (From NewspaperSG)
 
-[^9]: “Gate-Crashers Beware!” Sunday Tribune (Singapore), 5 June 1949, 2. (From NewspaperSG)
+[^9]: “[Gate-Crashers Beware!](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19490605-1.2.16),” Sunday Tribune (Singapore), 5 June 1949, 2. (From NewspaperSG)
 
-[^10]: “VeteranMimicWinsTalentQuest,”StraitsTimes,13February1989,17. (From NewspaperSG)
+[^10]: “[Veteran Mimic Wins Talent Quest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890213-1.2.26.13),”StraitsTimes,13February1989,17. (From NewspaperSG)
 
-[^11]: RossLaird,FromKeroncongtoXinyao:TheRecordIndustryinSingapore, 1903–1985 (Singapore: National Archives of Singapore, 2023), 154–56. (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
+[^11]: "[_From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?id=205959499) 1903–1985 (Singapore: National Archives of Singapore, 2023), 154–56. (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
 
-[^12]: TeoLianHuay,“RememberWhenTalentimeWasNew?”StraitsTimes,17 August 1982, 1. (From NewspaperSG)
+[^12]: [Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)StraitsTimes,17 August 1982, 1. (From NewspaperSG)
 
 [^13]:Teo,“RememberWhenTalentimeWasNew?”
 
