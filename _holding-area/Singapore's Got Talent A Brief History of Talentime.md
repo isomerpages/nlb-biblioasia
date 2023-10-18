@@ -26,7 +26,7 @@ Beamish had been the one to come up with the name Talentime. “[The name] ‘Am
 
 The winner of the first Talentime round was 32-year-old Eurasian clerk Freddie Jansen, who sang “Surrender”. He “clocked highest on the applause meter” at the show on 18 February 1949.[^6] “Crooning is again the rage in Singapore,” trumpeted the *Sunday Times*. “With the introduction of Radio Malaya’s ‘Talentime’, the crooners and their soft mellow voices will no longer be confined to the microphones of the amusement parks and cabarets – or the bathrooms. Crooners will compete with each other in ‘Talentime’, and over the ether will come the voices of Singapore’s Bing Crosbys, Frank Sinatras and Perry Comos.”[^7]
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo4.png)
+![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo4-rev.png)
 <div style="background-color: white;">Eurasian clerk Freddie Jansen was the winner of the first broadcast Talentime on 18 February 1949. <i>Image reproduced from “It’s Talentime Tonight,” Malaya Tribune, 27 April 1949, 8. (From NewspaperSG).</i></div>
 
 It turns out that the _Straits Times_ was mistaken that the future was crooning. On 27 April 1949, Larry Fenton and his Tin Can Toledos took the winner’s title at the first Talentime finals. The Tin Can Toledos were not crooners. Instead, they were a “cowboy novelty act in which Larry… sang, yodelled, did vocal gymnastics and impressions”.
