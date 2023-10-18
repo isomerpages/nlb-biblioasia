@@ -143,7 +143,7 @@ In recent years, reality television shows such as _American Idol_, _America’s 
 
 [^9]: “[Gate-Crashers Beware!](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19490605-1.2.16),” *Sunday Tribune (Singapore)*, 5 June 1949, 2. (From NewspaperSG)
 
-[^10]: “[Veteran Mimic Wins Talent Quest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890213-1.2.26.13),” *StraitsTimes*, 13 February 1989,17. (From NewspaperSG)
+[^10]: “[Veteran Mimic Wins Talent Quest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890213-1.2.26.13),” *Straits Times*, 13 February 1989,17. (From NewspaperSG)
 
 [^11]: Ross Laird, "[_From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?id=205959499) 1903–1985 (Singapore: National Archives of Singapore, 2023), 154–56. (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
 
