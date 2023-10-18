@@ -141,8 +141,7 @@ In recent years, reality television shows such as _American Idol_, _America’s 
 
 [^13]:Teo, ”[Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)”
 
-[^14]: [Reginald Verghese](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/41c4c53d-115e-11e3-83d5-0050568939ad-OHC001666_002/web/html5/index.html),oralhistoryinterviewbyPatD’Rose,5July1995, transcript and MP3 audio, Reel/Disc 2 of 6, National Archives of Singapore
-([accession no. 001666](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001666)), 31.
+[^14]: Reginald Verghese (https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/41c4c53d-115e-11e3-83d5-0050568939ad-OHC001666_002/web/html5/index.html),oralhistoryinterviewbyPatD’Rose,5July1995, transcript and MP3 audio, Reel/Disc 2 of 6, National Archives of Singapore ([accession no. 001666](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001666)), 31.
 
 [^15]: [Raymond Ho and John Chee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1726a17-1161-11e3-83d5-0050568939ad-OHC003163_003/web/html5/index.html), oral history interview by Joseph C. Pereira, 8 July 2007, transcript and MP3 audio, Reel/Disc 3 of 4, National Archives of Singapore ([accession no. 003163](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003163)), 114–15.
 
