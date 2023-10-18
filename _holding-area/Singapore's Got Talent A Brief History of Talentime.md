@@ -85,3 +85,103 @@ Auditions for _Singapore Idol_ that began in June 2004 attracted more than “3,
 “Singapore Idol’s claim to fame is the fact that it managed to collectively rally Singaporeans from all walks of life to cheer, cry and hammer away at their mobile phones to vote for their favourite singer – not an American crooner or a British rapper, but a true-blue Singaporean soulster,” wrote Sujin Thomas of the _Straits Times_.[^41] _Singapore Idol_ continued for two more seasons – in 2006 and 2009. 
 
 In recent years, reality television shows such as _American Idol_, _America’s Got Talent_, _The X-Factor_, _The Voice_ and _The Masked Singer_ have displaced traditional talent contests. Although these have probably sounded the death knell for Talentime in Singapore, the misty memories of the way we were will undoubtedly continue to light the corners of our minds.
+
+#### **NOTES**
+[^1]: Vernon Cyril Palmer, oral history interview by Daniel Chew, 19 January 1994, transcript and MP3 audio, Reel/Disc 9 of 12, National Archives of Singapore (accession no. 001423), 78.
+
+[^2]: “Malayan Listeners State Their Fancy,” Straits Times, 5 January 1949, 6. (From NewspaperSG)
+
+[^3]: “Search for Local Talent,” Straits Times, 26 January 1949, 5. (From NewspaperSG)
+
+[^4]: “Radio Malaya Gives Unknown Artistes Chance To Be Heard,” Malaya Tribune, 25 January 1949, 9. (From NewspaperSG)
+
+[^5]: Vernon Cyril Palmer, oral history interview, 19 January 1994, Reel/Disc 9 of 12, 78.
+
+[^6]: “He Won Loudest Cheers,” Straits Times, 19 February 1949, 7. (From NewspaperSG)
+
+[^7]: “S’pore Crooners Will Get the Air,” Straits Times, 20 February 1949, 3. (From NewspaperSG)
+
+[^8]: “L. Fenton Wins ‘Talentime’,” Malaya Tribune, 28 April 1949, 8. (From NewspaperSG)
+
+[^9]: “Gate-Crashers Beware!” Sunday Tribune (Singapore), 5 June 1949, 2. (From NewspaperSG)
+
+[^10]: “VeteranMimicWinsTalentQuest,”StraitsTimes,13February1989,17. (From NewspaperSG)
+
+[^11]: RossLaird,FromKeroncongtoXinyao:TheRecordIndustryinSingapore, 1903–1985 (Singapore: National Archives of Singapore, 2023), 154–56. (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
+
+[^12]: TeoLianHuay,“RememberWhenTalentimeWasNew?”StraitsTimes,17 August 1982, 1. (From NewspaperSG)
+
+[^13]:Teo,“RememberWhenTalentimeWasNew?”
+
+[^14]: ReginaldVerghese,oralhistoryinterviewbyPatD’Rose,5July1995,
+transcript and MP3 audio, Reel/Disc 2 of 6, National Archives of Singapore
+(accession no. 001666), 31.
+
+[^15]: RaymondHoandJohnChee,oralhistoryinterviewbyJosephC.Pereira,
+8 July 2007, transcript and MP3 audio, Reel/Disc 3 of 4, National Archives of
+Singapore (accession no. 003163), 114–15.
+
+[^16]: TheCrescendos,“MrTwister,”1963,vinyldisc.(FromNationalArchivesof
+Singapore, accession no. 2016000728)
+
+[^17]: “FirstS’poreRecordingStarsonAmericanLabel,”StraitsTimes,2June
+1968, 12. (From NewspaperSG); Ministry of Culture, “Berita Singapura: 1. Sang Nila Utama Secondary School 2. Singing Trio,” 1960s, video, 00:09:41. (From National Archives of Singapore, accession no. 1982000239)
+
+[^18]: TheTidbits,“IBelieve,”1968,vinyldisc.(FromNationalArchivesof Singapore, accession nos. 2012003946 and 2014003894)
+
+[^19]: “Praisesfor‘Tidbits’,”EasternSun,17May1968,10.(FromNewspaperSG) 
+
+[^20]: “CrackerjacksComeOutTopinTalentimeFinals,”SingaporeStandard,4
+September 1954, 4. (From NewspaperSG)
+
+[^21]: W.A.Morton,“JudgingApplauseinSearchforTalent,”StraitsTimes,22
+May 1962, 10. (From NewspaperSG)
+
+[^22]: MinistryofCulture,“MeetingHeldonTuesday7thDecember'71atthe Engineering Conference Room – Television Centre,” in Talentimes/Concerts (English), December 1968 to January 1977. (From National Archives of Singapore, record reference no. DDB 35), 188.
+
+[^23]: RadioandTelevisionSingapore,“RTSTalentime1976(GrandFinal),”1976, 1 inch B. (From National Archives of Singapore, accession no. 1997002767). [Also on mewatch]
+
+[^24]: RadioandTelevisionSingapore,“Talentime1978(Final),”1978,1inchB. (From National Archives of Singapore, accession no. 1997002770). [Also on mewatch]
+
+[^25]: SusieSoh,“FaridahandCavarelleTopTalentime’78Finals,”StraitsTimes, 29 December 1978, 15. (From NewspaperSG)
+
+[^26]: SeowPeckNgiam,“Anti-YellowCultureCampaign,”inSingaporeInfopedia. National Library Board Singapore. Article published September 2021.
+
+[^27]: “TopS’poreTalentforShow,”StraitsTimes,18April1968,6.(From NewspaperSG)
+
+[^28]: EdgarKoh,“NotaLaughingMatter...,”NewNation,2August1971,10. (From NewspaperSG)
+
+[^29]: MinistryofCulture,Talentimes/Concerts(English),202.
+
+[^30]: “TalentimeWinnerGivesPrizestoCharity,”StraitsTimes,19December
+1971, 1; Bailyne Sung, “It’s First Place for Sugiman,” Straits Times, 25
+February 1973, 6. (From NewspaperSG)
+
+[^31]: LuLinReutens,“TalentimeStar’sCharityDreams,”NewNation,17
+December 1974, 11. (From NewspaperSG)
+
+[^32]: SugimanJahuri,“ILookatYou,”1968,vinyldisc.(FromNationalArchives
+of Singapore, accession no. 2016002561); Sugiman Jahuri, “Kesah Chinta,” 1971, vinyl disc. (From National Archives of Singapore, accession no. 2019020861 and 2019044217); Sugiman Jahuri, “Woman Woman,” undated, vinyl disc. (From National Archives of Singapore, accession no. 2015014660)
+
+[^33]: MargaretCunico,“TalentimeSpringboard,”NewNation,27June1979, 10–11. (From NewspaperSG)
+
+[^34]: AlbanDeSouzaandMahaniMohd,“MimpiGembira,”1973,vinyldisc. (From National Archives of Singapore, accession no. 2015014470); Alban De Souza, “Ratapan Anka Tiri,” 1974, vinyl disc. (From National Archives of Singapore, accession no. 2015014471); Alban De Souza and Mahani Mohd, “Jangan Bersedeh,” undated, vinyl disc. (From National Archives of Singapore, accession no. 2019020868)
+
+[^35]: “InPersonEp59:Gypsy”1983,video,00:43:06.(FromNationalArchivesof Singapore, accession no. 1997005194)
+
+[^36]: Teo,“RememberWhenTalentimeWasNew?”
+
+[^37]: JuniperFoo,“Young,HipandFasterThanEver,”StraitsTimes,16October
+1988, 2. (From NewspaperSG)
+
+[^38]: CherianGeorge,“SBCRestructuredintoSeveralGovt-OwnedFirms,”
+Straits Times, 1 October 1994, 29. (From NewspaperSG)
+
+[^39]: SophiaAng,“PopStarsWanted,”Today,6July2001,22.(From
+NewspaperSG)
+
+[^40]: LionelSeah,“TalentTimeforWhat?”StraitsTimes,22October2001,6.
+(From NewspaperSG)
+
+[^41]: SujinThomas,“SingaporeIdolmania,”StraitsTimes,25December2004,6.
+(From NewspaperSG)
