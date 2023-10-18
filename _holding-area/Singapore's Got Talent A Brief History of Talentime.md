@@ -13,7 +13,7 @@ By Jamie Lee and Mark Wong
 
 In its heyday, Talentime was a major cultural phenomenon in Singapore. Through radio, and later television, the talent show gave aspiring singers and bands a chance to make it big on the national stage. In the 1960s, The Crescendos and The Quests were picked up by record labels after being talent-spotted on the show. Singer Jacintha Abisheganaden got her big break when she won the contest in 1976 as part of the group Vintage.
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo2.png)
+![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo2-rev.png)
 <div style="background-color: white;">From left: Raymond Ho, Susan Lim, Leslie Chia and John Chee of The Crescendos, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Its hold on the public’s imagination, at least at one point, was remarkable. “\[T\]he first year that we put Talentime on to \[sic\] television \[in 1967\], there was no traffic on the road,” recalled veteran broadcaster Vernon Cyril Palmer in his oral history interview. “All traffic came to a halt. Anybody who was near an electronic shop would stop by and watch the programme through the display window. And most people stayed at home to watch the programme. That was how effective Talentime was.”[^1]
@@ -75,7 +75,7 @@ Following Singapore’s independence in 1965, the airwaves were brought under th
 Government policy had an impact on the kinds of music that was deemed acceptable for Talentime. While musical genres such as psychedelic rock, metal and punk rock blossomed in North America and Western Europe between the 1960s and 1970s, RTS played it safe in compliance with the government’s anti-yellow culture campaign at the time.[^26]
 
 ![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo7.png)
-<div style="background-color: white;">Cover of 45rpm single <i>Tea Break/Pop Inn Theme (Watch Your Step)</i> (1965) by The Quests.<i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Cover of 45rpm single <i>Tea Break/Pop Inn Theme (Watch Your Step)</i> (1965) by The Quests. <i>Courtesy of National Archives of Singapore.</i></div>
 
 The government also sometimes intervened directly during the contest. During 1971’s Talentime, Johnny Tan, the frontman of The McCoys, tried his luck as a solo contestant. (Tan and his band had made it to the finals in the band section of _Radio Talentime_ in 1968.[^27])
 
