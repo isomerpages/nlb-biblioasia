@@ -90,7 +90,7 @@ B29488115E_0001
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 The works featured in the exhibition, “To Draw an Idea”, are part of the Singapore Architecture Collection, which showcases the country’s architectural and urban design journey, as well as the innovative works of pioneer and current architects and designers. The collection comprises architectural models, photographs, drawings, artefacts, oral history recordings and more. The collection forms part of a larger collaborative effort with the National Heritage Board, including the various museums, to build up a collection for the nation that covers a range of design disciplines, from fashion to graphic design and architecture.</div><br>
 
-<img style="width:55%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev.jpg"><br>
+<img style="width:55%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev2.png"><br>
 	<div style="background-color: #fff6ba;;">
 Published by the Urban Redevelopment Authority and National Library Board, 2023.
 </div>
