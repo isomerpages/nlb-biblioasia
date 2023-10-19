@@ -90,9 +90,9 @@ The works featured in the exhibition, “To Draw an Idea”, are part of the Sin
 
 ![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev.jpg)
 <div style="background-color: #fff6ba;;">Published by the Urban Redevelopment Authority and National Library Board, 2023.
-</div>
+</div></div>
 	
-</div>
+
 
 <div style="background-color: white;">
 <br>
