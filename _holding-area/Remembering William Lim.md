@@ -31,37 +31,48 @@ In 1981, Lim left DP Architects and established William Lim Associates (WLA) wit
 
 In 2003, the firm was renamed WArchitects following Lim’s retirement from practice. It is now helmed by Mok and Ng Weng Pan.[^4] 
 
-Lim was also the author of numerous books such as <i>Alternative (Post)modernity</i> (2003), <i>Asian Alterity</i> (2008), <i>Incomplete Urbanism</i> (2012) and <i>Public Space in Urban Asia</i> (2014). He also edited architectural journals where he delved into diverse subjects, rang- ing from urban planning and architecture to broader topics like modernity, social justice and cultural identity.[^5] He was also deeply concerned about the conservation of Singapore’s architectural heritage.
+Lim was also the author of numerous books such as <i>Alternative (Post)modernity</i> (2003), <i>Asian Alterity</i> (2008), <i>Incomplete Urbanism</i> (2012) and <i>Public Space in Urban Asia</i> (2014). He also edited architectural journals where he delved into diverse subjects, ranging from urban planning and architecture to broader topics like modernity, social justice and cultural identity.[^5] He was also deeply concerned about the conservation of Singapore’s architectural heritage.
 
 Labelled by Mok as “an ‘enabler’ who brought talented people together to collaborate on meaningful projects”,[^6] Lim, together with other architects such as Mok and Richard Ho,[^7] restored several shophouses on Emerald Hill.
 
-In 1982, Lim worked with Singaporean poet Goh Poh Seng on Bu Ye Tian (不夜天), a $52-million concept to rejuvenate, adapt and reuse the Boat Quay area. Bu Ye Tian, which means “a place of ceaseless activity” in Mandarin, called for the rejuvenation of the entire area into a cultural and recreation desti- nation. Although it was not ultimately adopted by the Urban Redevelopment Authority, this initiative played a major role in accelerating the conservation movement in Singapore and later inspired the plan- ning authorities’ conservation programme at Boat Quay in the 1990s.[^8]
+In 1982, Lim worked with Singaporean poet Goh Poh Seng on Bu Ye Tian (不夜天), a $52-million concept to rejuvenate, adapt and reuse the Boat Quay area. Bu Ye Tian, which means “a place of ceaseless activity” in Mandarin, called for the rejuvenation of the entire area into a cultural and recreation destination. Although it was not ultimately adopted by the Urban Redevelopment Authority, this initiative played a major role in accelerating the conservation movement in Singapore and later inspired the planning authorities’ conservation programme at Boat Quay in the 1990s.[^8]
 
-In the local arts scene, Lim was a “thought leader and advocate of creativity and heritage”, a regular presence at arts events and a generous patron of various arts groups.[^9] In 2007, he helped establish the Cultural Studies in Asia PhD programme at the National University of Singapore with a S$1 million endowment.[^10] For his 80th birthday in 2012, Lim donated an undisclosed six-figure sum to various arts organisations. Beneficiaries included the Sin- gapore Art Museum, Wild Rice, Arts Fission and two independent artists.[^11]
+In the local arts scene, Lim was a “thought leader and advocate of creativity and heritage”, a regular presence at arts events and a generous patron of various arts groups.[^9] In 2007, he helped establish the Cultural Studies in Asia PhD programme at the National University of Singapore with a S$1 million endowment.[^10] For his 80th birthday in 2012, Lim donated an undisclosed six-figure sum to various arts organisations. Beneficiaries included the Singapore Art Museum, Wild Rice, Arts Fission and two independent artists.[^11]
 
 Lim’s legacy lives on through his works as well as the next generation whose lives he touched and inspired.
 
 #### **TO DRAW AN IDEA: RETRACING THE DESIGNS OF WILLIAM LIM ASSOCIATES – W ARCHITECTS**
 
-Organised by the Urban Redevelopment Authority and National Library Board, “To Draw an Idea” explores the works of one of Singapore’s most respected practices, set up by pioneer architect William Lim. Lim established William Lim Associates in 1981 after he left DP Architects. After Lim retired in 2003, the firm was renamed WArchitects and it is now led by Mok Wei Wei and Ng Weng Pan.
+Organised by the Urban Redevelopment Authority and National Library Board, “To Draw an Idea” explores the works of one of Singapore’s most respected practices, set up by pioneer architect William Lim. Lim established William Lim Associates in 1981 after he left DP Architects. After Lim retired in 2003, the firm was renamed W Architects and it is now led by Mok Wei Wei and Ng Weng Pan.
 
 This exhibition looks at how the practice evolved against the backdrop of Singapore’s developing architectural scene over the last four decades. The many drawings displayed are not finished products and present in-progress snapshots of William Lim Associates’ and W Architects’ design process. The exhibition is scheduled to run from 28 November 2023 to 8 June 2024 at the URA Centre (Level 1 Atrium).
 
 An accompanying book of the same name will be published soon. It charts the last four decades of the evolution of the work of William Lim Associates and W Architects over 220 conceptual sketches, architectural drawings and historical artefacts from their archives, along with behind-the-scenes stories of how the firm realised its creative visions. It will be available for reference and for loan at the Lee Kong Chian Reference Library and selected public libraries, as well as online via the NLB Mobile app.
 
-A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s”, will take place at the lobby of the National Library Building. It will run from 28 November 2023 to 9 June 2024 and will showcase eight iconic buildings – from the National Theatre to Pinnacle@Duxton – that pushed the envelope of architecture in Singapore. A roving exhibition will also travel to Bishan Public Library (28 November 2023 – 31 January 2024), Jurong Regional Library (1 February 2024–31 March 2024) and Tampines Regional Library (1 April 2024–9 June 2024).
+A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s”, will take place at the lobby of the National Library Building. It will run from 28 November 2023 to 9 June 2024 and will showcase eight iconic buildings – from the National Theatre to Pinnacle@Duxton – that pushed the envelope of architecture in Singapore. A roving exhibition will also travel to Bishan Public Library (28 November 2023–31 January 2024), Jurong Regional Library (1 February 2024–31 March 2024) and Tampines Regional Library (1 April 2024–9 June 2024).
+
+W Architects undertook the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby. <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore.</i>
 
 ![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg)
-<div style="background-color: white;">W Architects undertook the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby. <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i> <br>
+<div style="background-color: white;">
 	<b>Section from Empress Place</b> <br>
 2011<br>
 Digital print on paper<br>
 594x841mm<br>
 B29493274G_0005
-</div>
+	</div>
+	<br>
+
+The Lee Kong Chian Natural History Museum – which opened in 2015 – uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (bottom).<i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i> 
+
+![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image6.jpg)
+<div style="background-color: white;"><b>Rock facade concrete detail</b><br>
+2013<br>
+Digital print on paper <br>841 x 1189 mm<br> B29493498D_0002</div>
 
 ![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image5.jpg)
-<div style="background-color: white;">The Lee Kong Chian Natural History Museum – which opened in 2015 – uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (left).<i>William Lim Associates and W Architects Pte Ltd Collection. Col- lection of the National Library, Singapore. </i> 
+
+<div style="background-color: white;">
 <br><b>Green facade elevation</b><br>
 2013<br>
 Digital print on paper with ink annotations<br>
@@ -69,10 +80,6 @@ Digital print on paper with ink annotations<br>
 B29488115E_0001
 </div>
 
-![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image6.jpg)
-<div style="background-color: white;"><b>Rock facade concrete detail</b><br>
-2013<br>
-Digital print on paper <br>841 x 1189 mm<br> B29493498D_0002</div>
 
 The works featured in the exhibition, “To Draw an Idea”, are part of the Singapore Architecture Collection, which showcases the country’s architectural and urban design journey, as well as the innovative works of pioneer and current architects and designers. The collection comprises architectural models, photographs, drawings, artefacts, oral history recordings and more. The collection forms part of a larger collaborative effort with the National Heritage Board, including the various museums, to build up a collection for the nation that covers a range of design disciplines, from fashion to graphic design and architecture.
 
