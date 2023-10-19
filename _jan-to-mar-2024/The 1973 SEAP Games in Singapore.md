@@ -5,7 +5,7 @@ description: The 7th SEAP Games marked the first time that Singapore hosted an
   international sporting event since gaining independence in 1965.
 image: /images/Vol 19 Issue 4/4 SEAP Games/image1.png
 ---
-####    The 7th SEAP Games marked the first time that Singapore hosted an international sporting event since gaining independence in 1965.
+####    The 7th South East Asian Peninsular Games marked the first time that Singapore hosted an international sporting event since gaining independence in 1965.
 By Lim Tin Seng
 
 ![](/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image1rev4.png)

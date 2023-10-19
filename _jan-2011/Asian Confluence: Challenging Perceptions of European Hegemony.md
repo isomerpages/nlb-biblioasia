@@ -1,5 +1,5 @@
 ---
-title: Asian Confluence
+title: "Asian Confluence: Challenging Perceptions of European Hegemony"
 permalink: /vol-6/issue-4/jan-2011/asian-confluence-history-science/
 description: Visiting Senior Research Fellow at the Institute of Southeast Asian
   Studies Dr Arun Bala writes that recent studies have questioned the
