@@ -140,17 +140,17 @@ In recent years, reality television shows such as _American Idol_, _America’s 
 
 [^8]: “[L. Fenton Wins ‘Talentime’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19490428-1.2.96),” *Malaya Tribune*, 28 April 1949, 8. (From NewspaperSG)
 
-[^9]: “[Gate-Crashers Beware!](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19490605-1.2.16),” *Sunday Tribune (Singapore)*, 5 June 1949, 2. (From NewspaperSG)
+[^9]: “[Gate-Crashers Beware!](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19490605-1.2.16)” *Sunday Tribune (Singapore)*, 5 June 1949, 2. (From NewspaperSG)
 
 [^10]: “[Veteran Mimic Wins Talent Quest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890213-1.2.26.13),” *Straits Times*, 13 February 1989,17. (From NewspaperSG)
 
-[^11]: Ross Laird, "[_From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?id=205959499) 1903–1985 (Singapore: National Archives of Singapore, 2023), 154–56. (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
+[^11]: Ross Laird, "[_From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985_](https://eservice.nlb.gov.sg/item_holding.aspx?id=205959499) (Singapore: National Archives of Singapore, 2023), 154–56. (From National Library, Singapore, call no. RSING 338.4778149095957 LAI)
 
-[^12]:  Teo Lian Huay, [Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)”(https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2) *Straits Times*, 17 August 1982, 1. (From NewspaperSG)
+[^12]:  Teo Lian Huay, "[Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)” *Straits Times*, 17 August 1982, 1. (From NewspaperSG)
 
-[^13]:Teo, ”[Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)”
+[^13]:Teo, "[Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)”
 
-[^14]: Reginald Verghese (https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/41c4c53d-115e-11e3-83d5-0050568939ad-OHC001666_002/web/html5/index.html),oralhistoryinterviewbyPatD’Rose,5July1995, transcript and MP3 audio, Reel/Disc 2 of 6, National Archives of Singapore ([accession no. 001666](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001666)), 31.
+[^14]:[Reginald Verghese](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/41c4c53d-115e-11e3-83d5-0050568939ad-OHC001666_002/web/html5/index.html), oral history interview by Pat D’Rose, 5 July 1995, transcript and MP3 audio, Reel/Disc 2 of 6, National Archives of Singapore ([accession no. 001666](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001666)), 31.
 
 [^15]: [Raymond Ho and John Chee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1726a17-1161-11e3-83d5-0050568939ad-OHC003163_003/web/html5/index.html), oral history interview by Joseph C. Pereira, 8 July 2007, transcript and MP3 audio, Reel/Disc 3 of 4, National Archives of Singapore ([accession no. 003163](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003163)), 114–15.
 
@@ -170,11 +170,11 @@ In recent years, reality television shows such as _American Idol_, _America’s 
 
 [^23]: Radio and Television Singapore, “[RTS Talentime 1976 (Grand Final)](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48902465-1164-11e3-83d5-0050568939ad),” 1976, 1 inch B. (From National Archives of Singapore, accession no. 1997002767). \[Also on mewatch\]
 
-[^24]: Radio and Television Singapore, “[Talentime 1978 (Final)](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48905082-1164-11e3-83d5-0050568939ad)”1978, 1 inch B. (From National Archives of Singapore, accession no. 1997002770). [Also on mewatch]
+[^24]: Radio and Television Singapore, “[Talentime 1978 (Final)](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48905082-1164-11e3-83d5-0050568939ad),” 1978, 1 inch B. (From National Archives of Singapore, accession no. 1997002770). [Also on mewatch]
 
 [^25]:  Susie Soh, “[Faridah and Cavarelle Top Talentime ’78 Finals](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781229-1.2.66),” _Straits Times_, 29 December 1978, 15. (From NewspaperSG)
 
-[^26]: Seow Peck Ngiam, “[Anti-Yellow Culture Campaign](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2022-09-05_141419.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2021.
+[^26]: Seow Peck Ngiam, “[Anti-Yellow Culture Campaign](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8e493ee4-1832-4fec-96ee-a0a6b3efab87](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8e493ee4-1832-4fec-96ee-a0a6b3efab87),” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2021.
 
 [^27]: “[Top S’pore Talent for Show](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19680418-1.2.46),” _Straits Times_, 18 April 1968, 6. (From NewspaperSG)
 
@@ -192,7 +192,7 @@ In recent years, reality television shows such as _American Idol_, _America’s 
 
 [^34]: Alban De Souza and Mahani Mohd, “[Mimpi Gembira](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/cd2462b6-8849-11e5-ac2a-0050568939ad),” 1973, vinyl disc. (From National Archives of Singapore, accession no. 2015014470); Alban De Souza, “[Ratapan Anka Tiri](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/cd3dc53f-8849-11e5-ac2a-0050568939ad),” 1974, vinyl disc. (From National Archives of Singapore, accession no. 2015014471); Alban De Souza and Mahani Mohd, “[Jangan Bersedeh](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/237d27ee-ac68-11e9-9972-001a4a5ba61b),” undated, vinyl disc. (From National Archives of Singapore, accession no. 2019020868)
 
-[^35]: “[In Person Ep 59: Gypsy](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4952a0b6-1164-11e3-83d5-0050568939ad)” 1983, video, 00:43:06. (From National Archives of Singapore, accession no. 1997005194)
+[^35]: “[In Person Ep 59: Gypsy](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4952a0b6-1164-11e3-83d5-0050568939ad),” 1983, video, 00:43:06. (From National Archives of Singapore, accession no. 1997005194)
 
 [^36]:  Teo, “[Remember When Talentime Was New?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820817-1.2.143.2)”
 
