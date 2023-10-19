@@ -107,7 +107,7 @@ Published by the Urban Redevelopment Authority and National Library Board, 2023.
 #### **NOTES**
 [^1]:  Justin Zhuang, “[William Lim Siew Wai](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a2addb8-54d3-4fc5-a3cf-ace2f76fd9bc),” in _Singapore Infopedia_. National Library Board Singapore. Article published 31 March 2016.
 
-[^2]:  Isabel Tan and Valerie Chew, “[Singapore Conference Hall](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1853_2011-12-31.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2011.
+[^2]:  Isabel Tan and Valerie Chew, “[Singapore Conference Hall]([https://www.nlb.gov.sg/main/article-detail?cmsuuid=ddb8c199-9cb9-4896-99f1-958960774294](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ddb8c199-9cb9-4896-99f1-958960774294),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2011.
 
 [^3]: “William Lim,” Esplanade Offstage, 12 October 2016, https://www.esplanade.com/offstage/arts/william-lim; Zhuang, “[William Lim Siew Wai](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a2addb8-54d3-4fc5-a3cf-ace2f76fd9bc).”
 
