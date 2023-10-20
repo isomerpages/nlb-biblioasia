@@ -174,7 +174,7 @@ In recent years, reality television shows such as _American Idol_, _America’s 
 
 [^25]:  Susie Soh, “[Faridah and Cavarelle Top Talentime ’78 Finals](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781229-1.2.66),” _Straits Times_, 29 December 1978, 15. (From NewspaperSG)
 
-[^26]: Seow Peck Ngiam, “[Anti-Yellow Culture Campaign](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8e493ee4-1832-4fec-96ee-a0a6b3efab87](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8e493ee4-1832-4fec-96ee-a0a6b3efab87),” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2021.
+[^26]: Seow Peck Ngiam, “[Anti-Yellow Culture Campaign](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8e493ee4-1832-4fec-96ee-a0a6b3efab87),” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2021.
 
 [^27]: “[Top S’pore Talent for Show](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19680418-1.2.46),” _Straits Times_, 18 April 1968, 6. (From NewspaperSG)
 
