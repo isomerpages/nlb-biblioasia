@@ -8,7 +8,7 @@ description: Lee Kong Chian Research Fellow Oiyan Liu explores how movements of
   educational exchanges mutually shaped the political visions of diasporic
   Chinese.
 ---
-#### Lee Kong Chian Research Fellow&nbsp;_Oiyan Liu_&nbsp;explores how movements of people, their thoughts and activities across Dutch-ruled Batavia, British-ruled Singapore and China were related to one another and how educational exchanges mutually shaped the political visions of diasporic Chinese.
+#### Lee Kong Chian Research Fellow *Oiyan Liu* explores how movements of people, their thoughts and activities across Dutch-ruled Batavia, British-ruled Singapore and China were related to one another and how educational exchanges mutually shaped the political visions of diasporic Chinese.
 
    ***“I have observed that in the near future there will spring up one new***<br>   ***independent country, the Malay Peninsula, the Straits Settlements.*** ***The***<br>   ***masters of this new political division will certainly be Chinese … Now is the***<br>   ***time for you students to build up your political ability, because the future***<br>   ***masters of the Malay Peninsula are you students of this College.”***   [^1]
 
@@ -265,5 +265,3 @@ Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Re
 [^40]: NAS, _MBPI_, no. 8 (1 October 1922), section 41. Emphasis added.
 
 [^41]: NAS, _MBPI_ (1 April 1925), 22–25.
-
-
