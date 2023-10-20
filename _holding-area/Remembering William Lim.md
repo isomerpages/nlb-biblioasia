@@ -62,36 +62,42 @@ Published by the Urban Redevelopment Authority and National Library Board, 2023.
 A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s”, will take place at the lobby of the National Library Building. It will run from 28 November 2023 to 9 June 2024 and will showcase eight iconic buildings – from the National Theatre to Pinnacle@Duxton – that pushed the envelope of architecture in Singapore. A roving exhibition will also travel to Bishan Public Library (28 November 2023–31 January 2024), Jurong Regional Library (1 February 2024–31 March 2024) and Tampines Regional Library (1 April 2024–9 June 2024).</div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-W Architects undertook the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby. <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore.</i></div>
+The works featured in the exhibition, “To Draw an Idea”, are part of the <a href="https://www.nlb.gov.sg/main/partner-us/Donate-to-our-Collections/highlights/Singapore-Architecture-Collection">Singapore Architecture Collection</a>, which showcases the country’s architectural and urban design journey, as well as the innovative works of pioneer and current architects and designers. The collection comprises architectural models, photographs, drawings, artefacts, oral history recordings and more. The collection forms part of a larger collaborative effort with the National Heritage Board, including the various museums, to build up a collection for the nation that covers a range of design disciplines, from fashion to graphic design and architecture.</div><br>
+
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+W Architects undertook the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby. </div>
 <br>
-<img style="width:55%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg">
+<img style="width:80%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg">
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <b>Section from Empress Place</b> <br>
 2011<br>
 Digital print on paper<br>
 594x841mm<br>
-B29493274G_0005
+B29493274G_0005<br>
+<i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore.</i>
 </div>
 <br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-The Lee Kong Chian Natural History Museum – which opened in 2015 – uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (bottom).<i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i> </div><br>
-<img style="width:55%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image6.jpg">
+The Lee Kong Chian Natural History Museum – which opened in 2015 – uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (bottom). </div><br>
+<img style="width:80%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image6.jpg">
 <div style="background-color: #fff6ba;"><b>Rock facade concrete detail</b><br>
 2013<br>
-Digital print on paper <br>841 x 1189 mm<br> B29493498D_0002</div><br>
+Digital print on paper <br>
+841 x 1189 mm<br>
+B29493498D_0002<br>
+<i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i>
+</div><br>
 
-<img style="width:55%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image5.jpg">
+<img style="width:80%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image5.jpg">
 <div style="background-color: #fff6ba;">
 <b>Green facade elevation</b><br>
 2013<br>
 Digital print on paper with ink annotations<br>
 297x420mm<br>
-B29488115E_0001
+B29488115E_0001<br>
+<i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i>
 </div><br>
-
-<div style="background-color: #fff6ba; text-align:left; font-size:100%">
-The works featured in the exhibition, “To Draw an Idea”, are part of the <a href="https://www.nlb.gov.sg/main/partner-us/Donate-to-our-Collections/highlights/Singapore-Architecture-Collection">Singapore Architecture Collection</a>, which showcases the country’s architectural and urban design journey, as well as the innovative works of pioneer and current architects and designers. The collection comprises architectural models, photographs, drawings, artefacts, oral history recordings and more. The collection forms part of a larger collaborative effort with the National Heritage Board, including the various museums, to build up a collection for the nation that covers a range of design disciplines, from fashion to graphic design and architecture.</div><br>
 
 </div>
 	
