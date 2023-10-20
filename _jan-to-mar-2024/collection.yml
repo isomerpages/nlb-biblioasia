@@ -2,6 +2,7 @@ collections:
   jan-to-mar-2024:
     output: true
     order:
+      - "Singapore's Got Talent: A Brief History of Talentime.md"
       - The 1973 SEAP Games in Singapore.md
       - "Konfrontasi: Singapore’s Experience of an Undeclared War.md"
       - Restoring Classic Films from Asia.md

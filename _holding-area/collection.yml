@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Singapore's Got Talent A Brief History of Talentime.md
       - Remembering William Lim.md
       - Test2.md
       - Test page.md

@@ -24,7 +24,7 @@ In 1960, Lim left the firm and started Malayan Architects Co-Partnership (MAC) w
 
 Following the dissolution of MAC in 1967, Lim co-founded Design Partnership (renamed DP Architects in 1975) with fellow pioneer architects Tay Kheng Soon and Koh Seow Chuan. The trio shaped Singapore’s skyline with more Brutalist pieces like People’s Park Complex (1973) and Woh Hup Complex (today’s Golden Mile Complex, gazetted in 2021).[^3]
 
-![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image2-rev.jpg)
+![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image2-rev2.png)
 <div style="background-color: white;">People’s Park Complex, 2023. <i>Photo by Jimmy Yap.</i></div>
 
 In 1981, Lim left DP Architects and established William Lim Associates (WLA) with architects Mok Wei Wei, Richard Ho and Carl Larson. This period saw Lim embrace Postmodernism, an architectural style that appeared in the late 1970s in response to the philosophy and style of Modernism, which rejected ornamentation and emphasised minimalism. Postmodernism is notable for features such as curved forms, decorative elements and bright colours. This shift was reflected in projects such as Church of Our Saviour (1985), Yeo Hiap Seng Factory (1986), Tampines North Community Centre (1989) and Marine Parade Community Building (1999).
@@ -53,47 +53,51 @@ This exhibition looks at how the practice evolved against the backdrop of Singap
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 An accompanying book of the same name will be published soon. It charts the last four decades of the evolution of the work of William Lim Associates and W Architects over 220 conceptual sketches, architectural drawings and historical artefacts from their archives, along with behind-the-scenes stories of how the firm realised its creative visions. It will be available for reference and for loan at the Lee Kong Chian Reference Library and selected public libraries, as well as online via the NLB Mobile app.</div><br>
-	
+<img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev3.png">
+	<div style="background-color: #fff6ba;;">
+Published by the Urban Redevelopment Authority and National Library Board, 2023.
+</div>
+	<br>
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s”, will take place at the lobby of the National Library Building. It will run from 28 November 2023 to 9 June 2024 and will showcase eight iconic buildings – from the National Theatre to Pinnacle@Duxton – that pushed the envelope of architecture in Singapore. A roving exhibition will also travel to Bishan Public Library (28 November 2023–31 January 2024), Jurong Regional Library (1 February 2024–31 March 2024) and Tampines Regional Library (1 April 2024–9 June 2024).</div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-W Architects undertook the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby. <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore.</i></div>
+The works featured in the exhibition, “To Draw an Idea”, are part of the <a href="https://www.nlb.gov.sg/main/partner-us/Donate-to-our-Collections/highlights/Singapore-Architecture-Collection">Singapore Architecture Collection</a>, which showcases the country’s architectural and urban design journey, as well as the innovative works of pioneer and current architects and designers. The collection comprises architectural models, photographs, drawings, artefacts, oral history recordings and more. The collection forms part of a larger collaborative effort with the National Heritage Board, including the various museums, to build up a collection for the nation that covers a range of design disciplines, from fashion to graphic design and architecture.</div><br>
 
-<img style="width:55%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg">
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+W Architects undertook the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby. </div>
+<br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg">
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <b>Section from Empress Place</b> <br>
 2011<br>
 Digital print on paper<br>
 594x841mm<br>
-B29493274G_0005
+B29493274G_0005<br>
+<i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore.</i>
 </div>
 <br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-The Lee Kong Chian Natural History Museum – which opened in 2015 – uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (bottom).<i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i> </div>
-
-<img style="width:55%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image6.jpg">
+The Lee Kong Chian Natural History Museum – which opened in 2015 – uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (bottom). </div><br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image6.jpg">
 <div style="background-color: #fff6ba;"><b>Rock facade concrete detail</b><br>
 2013<br>
-Digital print on paper <br>841 x 1189 mm<br> B29493498D_0002</div>
+Digital print on paper <br>
+841 x 1189 mm<br>
+B29493498D_0002<br>
+<i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i>
+</div><br>
 
-<img style="width:55%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image5.jpg">
+<img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image5.jpg">
 <div style="background-color: #fff6ba;">
 <b>Green facade elevation</b><br>
 2013<br>
 Digital print on paper with ink annotations<br>
 297x420mm<br>
-B29488115E_0001
+B29488115E_0001<br>
+<i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i>
 </div><br>
-
-<div style="background-color: #fff6ba; text-align:left; font-size:100%">
-The works featured in the exhibition, “To Draw an Idea”, are part of the Singapore Architecture Collection, which showcases the country’s architectural and urban design journey, as well as the innovative works of pioneer and current architects and designers. The collection comprises architectural models, photographs, drawings, artefacts, oral history recordings and more. The collection forms part of a larger collaborative effort with the National Heritage Board, including the various museums, to build up a collection for the nation that covers a range of design disciplines, from fashion to graphic design and architecture.</div><br>
-
-<img style="width:55%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev.jpg">
-<div style="background-color: #fff6ba;;">
-Published by the Urban Redevelopment Authority and National Library Board, 2023.
-</div>
 
 </div>
 	
@@ -107,7 +111,7 @@ Published by the Urban Redevelopment Authority and National Library Board, 2023.
 #### **NOTES**
 [^1]:  Justin Zhuang, “[William Lim Siew Wai](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a2addb8-54d3-4fc5-a3cf-ace2f76fd9bc),” in _Singapore Infopedia_. National Library Board Singapore. Article published 31 March 2016.
 
-[^2]:  Isabel Tan and Valerie Chew, “[Singapore Conference Hall]([https://www.nlb.gov.sg/main/article-detail?cmsuuid=ddb8c199-9cb9-4896-99f1-958960774294](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ddb8c199-9cb9-4896-99f1-958960774294),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2011.
+[^2]:  Isabel Tan and Valerie Chew, ”[Singapore Conference Hall](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ddb8c199-9cb9-4896-99f1-958960774294),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2011.
 
 [^3]: “William Lim,” Esplanade Offstage, 12 October 2016, https://www.esplanade.com/offstage/arts/william-lim; Zhuang, “[William Lim Siew Wai](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a2addb8-54d3-4fc5-a3cf-ace2f76fd9bc).”
 
