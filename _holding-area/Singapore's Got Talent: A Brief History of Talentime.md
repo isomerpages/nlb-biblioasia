@@ -14,7 +14,7 @@ By Jamie Lee and Mark Wong
 
 In its heyday, Talentime was a major cultural phenomenon in Singapore. Through radio, and later television, the talent show gave aspiring singers and bands a chance to make it big on the national stage. In the 1960s, The Crescendos and The Quests were picked up by record labels after being talent-spotted on the show. Singer Jacintha Abisheganaden got her big break when she won the contest in 1976 as part of the group Vintage.
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo2-rev3.png)
+![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo2-rev4.png)
 <div style="background-color: white;">From left: Raymond Ho, Susan Lim, Leslie Chia and John Chee of The Crescendos, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Its hold on the public’s imagination, at least at one point, was remarkable. “\[T\]he first year that we put Talentime on to \[sic\] television \[in 1967\], there was no traffic on the road,” recalled veteran broadcaster Vernon Cyril Palmer in his oral history interview. “All traffic came to a halt. Anybody who was near an electronic shop would stop by and watch the programme through the display window. And most people stayed at home to watch the programme. That was how effective Talentime was.”[^1]
