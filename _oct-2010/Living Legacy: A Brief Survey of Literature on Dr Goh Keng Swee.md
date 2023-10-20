@@ -7,7 +7,7 @@ description: Senior Librarian Timothy Pwee provides a starting point for
 ---
 #### Senior Librarian *Timothy Pwee* provides a starting point for researchers seeking to understand the legacy of Goh Keng Swee by presenting this survey of resources available at the Lee Kong Chian Reference Library.
 
-<center><b>“Anybody who wants to prosper in this world must have an ambition... Our ambition must be to make ourselves useful to our country, our people and ourselves.”<br>— Goh Keng Swee, <i>My Ambitions</i>, 1931</b></center>
+<center><b>“Anybody who wants to prosper in this world must have an ambition... Our ambition must be to make ourselves useful to our country, our people and ourselves.”<br>— Goh Keng Swee, “My Ambitions”, 1931</b></center>
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%203/LivingLegacy/New%20TanSiokSun%20copy.jpg">
  <div style="background-color: white;"><i>All rights reserved, Editions Didier Millet, 2007.</i></div>
@@ -63,21 +63,20 @@ Goh’s first official report, *Urban Incomes &amp; Housing* (1956), was complet
 
 Those interested in tracing the early developments in Goh’s life can look to *The Economic Front*, published in 1940 just before the Japanese invasion of Malaya. This was his first academic paper (Silcock, p. 39). Another notable piece is his 1956 London School of Economics PhD thesis, *Techniques of National Income Estimation in Underdeveloped Territories, with Special Reference to Asia and Africa*. Though the original is owned by the London School of Economics, a microfilm copy resides with the National University of Singapore Library.
 
-However, the earliest known published work by Goh comes from an earlier time: a simple essay written when he was a Standard Five Anglo-Chinese School student who wanted nothing more than “to become an engineer” because “China needs engineers, scientists, inventors and sailors badly... to help her become one of the best nations in the world” (Goh, *My Ambitions*, 1931).
+However, the earliest known published work by Goh comes from an earlier time: a simple essay written when he was a Standard Five Anglo-Chinese School student who wanted nothing more than “to become an engineer” because “China needs engineers, scientists, inventors and sailors badly... to help her become one of the best nations in the world” (Goh, 1931).
 
-Many of Goh’s other speeches and papers can be found on the National Archives’ website. Significant speeches have been published separately as is the case with many budget speeches such as his 1960 speech, descriptively titled *This is How Your Money Is Spent*; or in the government publication *Speeches: A Monthly Collection of Ministerial Speeches*. His speeches in Parliament can be found within the voluminous official Parliamentary record: *Parliamentary Debates Singapore: Official Record*. One of his most interesting speeches in the *Debates* was made on 13 March 1967 during the second reading of the 1967 Bill making National Service compulsory. Unfortunately, a search of these sources has not yet uncovered the paper *Noah’s Ark Progresses Through the SAF*, referred to by Prime Minister Lee Hsien Loong in his eulogy at Dr Goh's state Funeral on 23 May 2010 (Lee, 2010).
+Many of Goh’s other speeches and papers can be found on the National Archives’ website. Significant speeches have been published separately as is the case with many budget speeches such as his 1960 speech, descriptively titled *This is How Your Money Is Spent*; or the government publication, *Speeches: A Monthly Collection of Ministerial Speeches*. His speeches in Parliament can be found within the voluminous official Parliamentary record: *Parliamentary Debates Singapore: Official Record*. One of his most interesting speeches in the *Debates* was made on 13 March 1967 during the second reading of the 1967 bill making National Service compulsory. Unfortunately, a search of these sources has not yet uncovered the paper *Noah’s Ark Progresses Through the SAF*, referred to by Prime Minister Lee Hsien Loong in his eulogy at Goh's state funeral on 23 May 2010 (Lee, 2010).
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%203/LivingLegacy/New%20GohKengSwee1960%20copy.jpg">
- <div style="background-color: white;">Budget statement presented by Dr Goh as Minister for Finance in 1960. <i> All rights reserved, Ministry of Finance, 1960.</i> </div>
+ <div style="background-color: white;">Budget statement presented by Goh Keng Swee as Finance Minister in 1960. <i> All rights reserved, Ministry of Finance, 1960.</i> </div>
 
-Finally, yet another significant source of information is the newspapers. The most convenient and accessible source of these happens to be The Straits Times as it has been digitised and put online by the National Library at the NewspaperSG (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>) website. However, NewspaperSG coverage ends in 2006, and the twoweek-outpouring of news articles in The Straits Times starting with Dr Goh's passing on 14 May 2010 is not yet available. For that, one can either use the National Library's microfilm record of the newspapers or depend on the Factiva news database. Factiva is also useful for locating articles published in the foreign press over the past two to three decades.
+Finally, yet another significant source of information is the newspapers. The most convenient and accessible source of these happens to be *The Straits Times* as it has been digitised and put online by the National Library at the NewspaperSG (<a href="https://eresources.nlb.gov.sg/newspapers/">https://eresources.nlb.gov.sg/newspapers/</a>) website. However, NewspaperSG coverage ends in 2006, and the two-week outpouring of news articles in *The Straits Times* starting with Goh's passing on 14 May 2010 is not yet available. For that, one can either use the National Library's microfilm record of the newspapers or depend on the Factiva news database. Factiva is also useful for locating articles published in the foreign press over the past two to three decades.
 
-It is hoped that this brief survey of published material on Dr Goh will prove a useful starting point for researchers seeking to comprehend the legacy left by Dr Goh.
+It is hoped that this brief survey of published material on Goh will prove a useful starting point for researchers seeking to comprehend his legacy.
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">For further information or assistance, please contact the National Library’s enquiry service, Reference Point (<a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a>) or visit us in person at the National Library Building on Victoria Street (11th floor, 10 am to 9 pm daily). </div>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6">For further information or assistance, please contact the National Library’s enquiry service, Reference Point (<a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a>) or visit us in person at the National Library Building on Victoria Street (Level 11, 10 am to 9 pm daily). </div>
 
-**The author wishes to acknowledge the contributions of Azizah Sidek, Principal Librarian, National Library, in reviewing th
-is article.**
+<i>The author wishes to acknowledge the contributions of Azizah Sidek, Principal Librarian, National Library, in reviewing this article.</i>
 
 <br>
 <div style="background-color: white;">
