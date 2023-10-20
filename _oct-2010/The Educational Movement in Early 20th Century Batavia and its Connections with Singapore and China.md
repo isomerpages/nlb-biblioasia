@@ -55,7 +55,7 @@ The first batch of students at Jinan came from Java.[^19] The Qing Empire and TH
 
 On 21 February 1907, the first 21 students went to Nanjing.[^25] The Chinese court expanded its educational integration with other Chinese communities in maritime Southeast Asia in the second round of student recruitments. In 1908, Jinan recruited 38 students from Java and 54 students from Singapore, Kuala Lumpur and Penang. From 1908 onwards, the Qing regime requested that 45 Straits Chinese be sent to Jinan annually.[^26] The first students from Singapore include Lee Kong Chian, who had studied at Jinan for two years before furthering his studies at Qinghua Xuetang.[^27] Based on the curricula of Jinan, it can be concluded that the school not only aimed at nourishing national consciousness, but also training students to become leaders in the fields of finance, commerce and education – fields that were considered crucial by both China and Nanyang Chinese in order to compete with the Western imperial powers.
 
-#### ***Jinan: 1917–late 1920s***
+#### ***Jinan: 1917–Late 1920s***
 
 Jinan closed down after the fall of the Qing Empire but reopened in 1917.[^28] After its reopening, the school increasingly modelled its curricula to meet the requirements of both the Nanyang Chinese as well as “national needs”. During its foundational years, Jinan focused on stimulating nationalistic sentiments. Throughout this period, the school concentrated on equipping students with skills that were needed to prosper in commerce and trade. Although teaching students professional skills was ostensibly a primary role, there was a persistent aim of inculcating in them a love for “the motherland” (i.e., China). Besides professional skills, Jinan incorporated the national ideology (Sun Yat-sen’s *Three Principles of the People*) in courses concerning racial issues in its curricula.[^29]
 
@@ -256,7 +256,7 @@ Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Re
 
 [^36]: This fascinating list releases names of detainees and “colonial violators”. It also reveals the names of schools where these instructors were employed, their punishments, and reasons and dates for punishment. _[Nanyang huaqiao xuexiao zhi diaocha yu tongji](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265)_, ed. Qian He (Shanghai: Shanghai Dahua yinshua gongsi, 1930) (Call no. Chinese RDYTS 370.959 CNH)
 
-[^37]: Cai Yuan Pei, 國立暨南學校改革計劃 意見晝. Minguo 16 (1927). Shanghai Archives #Q240–1–270 (7)
+[^37]: Cai Yuan Pei, 國立暨南學校改革計劃 意見晝. Minguo 16 (1927). Shanghai Archives #Q240–1–270 (7).
 
 [^38]: Cai, 1927. All translations are mine unless otherwise noted.
 
