@@ -53,7 +53,7 @@ This exhibition looks at how the practice evolved against the backdrop of Singap
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 An accompanying book of the same name will be published soon. It charts the last four decades of the evolution of the work of William Lim Associates and W Architects over 220 conceptual sketches, architectural drawings and historical artefacts from their archives, along with behind-the-scenes stories of how the firm realised its creative visions. It will be available for reference and for loan at the Lee Kong Chian Reference Library and selected public libraries, as well as online via the NLB Mobile app.</div><br>
-<img style="width:80%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev3.png">
+<img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev3.png">
 	<div style="background-color: #fff6ba;;">
 Published by the Urban Redevelopment Authority and National Library Board, 2023.
 </div>
@@ -67,7 +67,7 @@ The works featured in the exhibition, “To Draw an Idea”, are part of the <a 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 W Architects undertook the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby. </div>
 <br>
-<img style="width:80%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg">
+<img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg">
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <b>Section from Empress Place</b> <br>
 2011<br>
@@ -80,7 +80,7 @@ B29493274G_0005<br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 The Lee Kong Chian Natural History Museum – which opened in 2015 – uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (bottom). </div><br>
-<img style="width:80%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image6.jpg">
+<img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image6.jpg">
 <div style="background-color: #fff6ba;"><b>Rock facade concrete detail</b><br>
 2013<br>
 Digital print on paper <br>
@@ -89,7 +89,7 @@ B29493498D_0002<br>
 <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i>
 </div><br>
 
-<img style="width:80%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image5.jpg">
+<img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image5.jpg">
 <div style="background-color: #fff6ba;">
 <b>Green facade elevation</b><br>
 2013<br>
