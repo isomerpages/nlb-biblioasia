@@ -92,7 +92,7 @@ Despite attempts by the Chinese authorities to invalidate Jinan’s imperialist 
 
   “Look at the map of Asia; I have observed that in the near<br>  future there will spring up one new independent country, the<br>  Malay Peninsula, the Straits Settlements. The masters of this<br>  new political division will certainly be Chinese. The British<br>  power in Egypt and India is crumbling, so the tide of revolt<br>  will spread to the East, and the Malay Peninsula will be the<br>  first to catch its new influence.... I do not advise you to revolt<br>  against the British authority at once, because first you must<br>  be prepared yourself to organise a government and conduct<br>  political affairs, otherwise even if the British authority should<br>  be overthrown, you will be helpless. Now is the time for<br>  you students to build up your political ability, because the<br>  future masters of the Malay Peninsula are you students of<br>  this college.” [^40]
 
-This shows that educators at Jinan encouraged and prepared its students to become pioneers of anti-colonialism in Southeast Asia. Contrary to its public claim that it did not encourage overseas Chinese to challenge colonial rule, it is evident that Jinan did stimulate anti-colonialism. By the 1920s, this institution intensified its anti-British attitudes and claimed that the Chinese were the first people that developed Malaya before the British took over. Jinan stated that “the Chinese were better off in Malaya before the English came.… We Chinese opened Malaya — it ought to be ours.”[^41]
+This shows that educators at Jinan encouraged and prepared its students to become pioneers of anti-colonialism in Southeast Asia. Contrary to its public claim that it did not encourage overseas Chinese to challenge colonial rule, it is evident that Jinan did stimulate anti-colonialism. By the 1920s, this institution intensified its anti-British attitudes and claimed that the Chinese were the first people that developed Malaya before the British took over. Jinan stated that “the Chinese were better off in Malaya before the English came.… We Chinese opened Malaya – it ought to be ours”.[^41]
 
 In short, even though Jinan publicly claimed that unlike Western colonial powers, China did not aim at encroaching on non-Chinese territory, confidential reports show that it did hope to expand its power by integrating with the Nanyang Chinese whom they stimulated to take over the power of the colonial rulers. China’s non-imperialist claim was therefore contradictory, for it hoped to gain control over territories which were not under China’s sovereignty through the intervention of overseas Chinese. The colonial powers, therefore, sought ways to counter integration with Jinan, the primary institution that aimed at training students to play key roles in a Southeast Asian society that would not be ruled by the colonial powers.
 
@@ -102,7 +102,7 @@ This essay attempts to map out the interconnectivity among educational movements
 
 This study reacts to two dominant approaches in present scholarship on the subject. It distorts the conventional perspective that the Nanyang Chinese uncritically and unconditionally supported the Chinese state. This romanticised view has been questioned by more recent studies that emphasise the autonomy of the Nanyang Chinese ambitions that were separate from China’s. Moreover, it illustrates weaknesses of both unidirectional approaches mentioned above. By using Chinese, Dutch, English and Malay sources, this essay concludes that visions of diasporic Chinese were continuously shaped by the dynamic relationship between educational movements in the Dutch Indies, Straits Settlements and China.
 
-**The author would like to acknowledge the contributions of Professor Eric Tagliacozzo, Associate Professor, Department of History, Cornell University, , USA, in reviewing this research essay.**
+<i>The author would like to acknowledge the contributions of Associate Professor Eric Tagliacozzo, Department of History, Cornell University, USA, in reviewing this research essay.</i>
 
 <br>
 <div style="background-color: white;">
@@ -122,7 +122,7 @@ Cai, Y. (1927). Guoli Jinan xuexiao gaige jihua yijianshu. Shanghai Archives #Q2
 
 Charles A. Coppel, [_Studying Ethnic Chinese in Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11640046) (Singapore: Singapore Society of Asian Studies, 2002). (Call no. RCLOS 305.89510598 COP)
 
-Chua Leong Kian, “Bendi yinghua shuyuan xiaoyou Li Denghui huiying Fudan daxue”&nbsp; 本迪英华书院小友李登辉汇英复旦大学 \[Bendi Yinghua College student Li Denghui
+Chua Leong Kian, “Bendi yinghua shuyuan xiaoyou Li Denghui huiying Fudan daxue”&nbsp; 本迪英华书院小友李登辉汇英复旦大学.
 
 Chua Leong Kian, “[Lee Who? A Chinese Intellectual Worthy of Study](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080622-1.2.29.13),” _Straits Times_, 22 June 2008, 32. (From NewspaperSG)
 
@@ -194,7 +194,7 @@ Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Re
 
 [^5]: See for instance Kwee Tek Hoay, _[The Origins of the Modern Chinese Movement in Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=40984)_ (Ithaca: Cornell Southeast Asia Program, 1969). (Call no. RCLOS 301.4519510598 KWE); Charles A. Coppel, _[Studying Ethnic Chinese in Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11640046)_ (Singapore: Singapore Society of Asian Studies, 2002). (Call no. RCLOS 305.89510598 COP)
 
-[^6]: This is based on primary sources I used. See for instance, “[Chinese Schools in Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 100. The article states: “The Dutch Government has been advised to grant the Chinese the privilege of forming literary societies. Their purpose is to collect funds and to bring the blessings of education within the reach of every Chinese childe, male, or female.”
+[^6]: This is based on primary sources I used. See for instance, “[Chinese Schools in Java](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 100. The article states: “The Dutch Government has been advised to grant the Chinese the privilege of forming literary societies. Their purpose is to collect funds and to bring the blessings of education within the reach of every Chinese child, male, or female.”
 
 [^7]: Lea E. Williams, _[Overseas Chinese Nationalism: The Genesis of the Pan-Chinese Movement in Indonesia, 1900–1916](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2641336)_ (Glencoe: Ill, Free Press, 1960). (Call no. RDTYS 325.25109598 WIL)
 
@@ -210,7 +210,7 @@ Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Re
 
 [^13]: "[Our Batavia Letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53.
 
-[^14]: Lee Teng-Hwee stayed in Batavia till 1903. He resigned on 1 May 1903, and left Batavia for the US in pursuit of a postgraduate degree in political economy at Columbia University. He was denied entry at the American border because of visa issues, and was deported to China with coolies in July 1903. He stayed in China after his deportation. See: _New York Times_, 20 July 1903, 1; “[Our Batavia letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53; “_Shijie Huaqiao Huaren Cidian_ 世纪华侨华人瓷店 \[Century overseas chinese porcelain store\] (Beijing: Beijing University Press, 1990), 377; Lee, _Shijie Huaqiao Huaren Cidian_, 377; Chua Leong Kian, “_Bendi yinghua shuyuan xiaoyou Li Denghui huiying Fudan daxue_”&nbsp; 本迪英华书院小友李登辉汇英复旦大学 \[Bendi Yinghua College student Li Denghui\]; Chua Leong Kian, “[Lee Who? A Chinese Intellectual Worthy of Study](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080622-1.2.29.13),” _Straits Times_, 22 June 2008, 32. (From NewspaperSG)
+[^14]: Lee Teng-Hwee stayed in Batavia till 1903. He resigned on 1 May 1903, and left Batavia for the US in pursuit of a postgraduate degree in political economy at Columbia University. He was denied entry at the American border because of visa issues, and was deported to China with coolies in July 1903. He stayed in China after his deportation. See: _New York Times_, 20 July 1903, 1; “[Our Batavia letter](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779),” 53; “_Shijie Huaqiao Huaren Cidian_ 世纪华侨华人瓷店 \[Century overseas chinese porcelain store\] (Beijing: Beijing University Press, 1990), 377; Lee, _Shijie Huaqiao Huaren Cidian_, 377; Chua Leong Kian, “Bendi yinghua shuyuan xiaoyou Li Denghui huiying Fudan daxue”&nbsp; 本迪英华书院小友李登辉汇英复旦大学 \[Bendi Yinghua College student Li Denghui\]; Chua Leong Kian, “[Lee Who? A Chinese Intellectual Worthy of Study](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080622-1.2.29.13),” _Straits Times_, 22 June 2008, 32. (From NewspaperSG)
 
 [^15]: van Sandick, _[Chineezen Buiten China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918)_, 252.
 
@@ -220,7 +220,7 @@ Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Re
 
 [^18]: _Jinan daxue bainian huayan, Xinjiapo xiaoyouhui liushiwu nian zhounian jinian te kan_ [暨南大学百年华诞, 新加坡校友会六十五周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292) \[The 100th anniversary of Jinan University and the 65th anniversary of the Singapore Alumni Association\] (Xīnjiapo 新加坡: Xīnjiapo jinan xiaoyou hui chuban weiyuanhui 新加坡暨南校友会出版委员会, 2006), 1. (Call no. Chinese RSING 378.51 JND)
 
-[^19]: _Jinan daxue bainian huayan, Xinjiapo xiaoyouhui liushiwu nian zhounian jinian te kan_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [暨南大学百年华诞, 新加坡校友会六十五周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292) \[The 100th anniversary of Jinan University and the 65th anniversary of the Singapore Alumni Association\] (Xīnjiapo 新加坡: Xīnjiapo jinan xiaoyou hui chuban weiyuanhui 新加坡暨南校友会出版委员会, 2006), 30–33. (Call no. Chinese RSING 378.51 JND)
+[^19]: _Jinan daxue bainian huayan, Xinjiapo xiaoyouhui liushiwu nian zhounian jinian tekan_ [暨南大学百年华诞, 新加坡校友会六十五周年纪念特刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292) \[The 100th anniversary of Jinan University and the 65th anniversary of the Singapore Alumni Association\] (Xīnjiapo 新加坡: Xīnjiapo jinan xiaoyou hui chuban weiyuanhui 新加坡暨南校友会出版委员会, 2006), 30–33. (Call no. Chinese RSING 378.51 JND)
 
 [^20]: van Sandick, _[Chineezen Buiten China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918)_, 251.
 
@@ -232,13 +232,13 @@ Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Re
 
 [^24]: For a translated section of Xue Fucheng’s Proposal see Philip A. Kuhn, “Xue Fucheng’s Proposal to Remove Stigma from Overseas Chinese (29 June 1893)” in Philip A. Kuhn, _[Chinese Among Others: Emigration in Modern Times](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13028434)_ (Lanham: Rowman &amp; Littlehead, 2008), 241–3. (Call no. RSEA 304.80951 KUH)
 
-[^25]: van Sandick, _[Chineezen Buiten China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918)_, 252–3.
+[^25]: van Sandick, _[Chineezen Buiten China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918)_, 252–53.
 
 [^26]: On 5 October 1908, 38 other boys from several schools in Java went to Nanjing. In 1909, the number of students from Java since the first dispatching to Jinan totalled 111. See van Sandick, _[Chineezen Buiten China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7324918)_, 252–4; “[Jinan daxue yu xinjiapo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12825292)” 30–33.
 
 [^27]: Lee Kong Chian: Entrepreneur, philanthropist, educator. He was head of Singapore ‘Zhonghua zhongshanghui’ (in Chinese) and head of ‘Xingma zhonghua Shanghui lianhehui’ (In Chinese). He was founder of certain Huaqiao schools and hospitals in Singapore. In the 1930s when Tan Kah Kee’s experienced difficulties in his business. Lee Kong Chian donated money to Xiamen University. In the 1930s–40s, Lee also established many primary schools and Guoguang High School in his home province, Fujian. He established the Lee Foundation that supports education.
 
-[^28]: Yuan Shikai, president of republican China at the time was reluctant to re-open the school out of fear that the Guomindang opposition would thrive at Jinan where most students had participated in the 1911 Revolution. Lee Ting Hui, _[Chinese Schools in British Malaya: Policies and Politics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648)_ (Singapore: South Seas Society, 2006), 28. (Call no. RSING 371.82995105951 LEE)
+[^28]: Yuan Shikai, president of republican China at the time was reluctant to reopen the school out of fear that the Guomindang opposition would thrive at Jinan where most students had participated in the 1911 Revolution. Lee Ting Hui, _[Chinese Schools in British Malaya: Policies and Politics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648)_ (Singapore: South Seas Society, 2006), 28. (Call no. RSING 371.82995105951 LEE)
 
 [^29]: Liu, “Preface,” in He Qian 何倩, ed., _Nanyang xuexiao zhi diaocha yu tongji_ [南洋华侨学校调查与统计](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472265) \[Nanyang Overseas Chinese School Survey and Statistics\] (Shanghai 上海：Shanghai Dahua yinshua gongsi 上海大华银画公司, 1930), 1–3, 570–1. (Call no. Chinese RDYTS 370.959 CNH)
 
@@ -260,7 +260,7 @@ Yen Ching-Hwang, [_The Overseas Chinese and the 1911 Revolution, With Special Re
 
 [^38]: Cai, 1927. All translations are mine unless otherwise noted.
 
-[^39]: NAS, _MBP_I (1 April 1925), 22–25.
+[^39]: NAS, _MBPI_ (1 April 1925), 22–25.
 
 [^40]: NAS, _MBPI_, no. 8 (1 October 1922), section 41. Emphasis added.
 
