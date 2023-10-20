@@ -51,8 +51,7 @@ Budding musicians saw Talentime as a way of gaining visibility and kick-starting
 
 The Crescendos themselves were catapulted into stardom after catching the eye of producer and compere Kingsley Morrando while participating in Talentime in 1962.[^15] Morrando talked Philips into recording the band’s debut single, _Mr Twister/Frankie_ (1963),[^16] which became the first record by a Singapore pop band released by an international record company.
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo5-rev3.png)
-<div style="background-color: white;">The Crescendos’ first record, <i>Mr Twister/Frankie</i> (1963), was a great success. <i>Courtesy of National Archives of Singapore.</i></div>
+![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo5-rev3.png) <div style="background-color: white;">The Crescendos’ first record, <i>Mr Twister/Frankie</i> (1963), was a great success. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Another group that found fame via Talentime was The Tidbits – a trio comprising teenage schoolgirls Serene Wee, her sister Merlina Wee and their cousin Bernadette De Souza. They clinched the top prize in the vocal group category with their rendition of “I Believe” in 1968.[^17] The Tidbits went on to release a vinyl recording featuring four songs, “I Believe”, “Breaking Up Is Hard to Do”, “Never My Love” and “Lace Covered Window”,[^18] becoming Southeast Asia’s first recording artistes on RCA’s international label.[^19]
 
