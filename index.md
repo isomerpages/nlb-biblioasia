@@ -842,5 +842,5 @@ sections:
       button: Down Memory Lane
       url: /vol-19/issue-4/jan-mar-2024/talentime-history-singapore/
       image: /images/Vol 19 Issue 4/7 Talentime/photo1 - rev1.png
-      alt: Image alt text
+      alt: A Brief History of Talentime
 ---
