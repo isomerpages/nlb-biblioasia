@@ -89,16 +89,20 @@ B29488115E_0001<br>
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-An accompanying book of the same name will be published soon. It charts the last four decades of the evolution of the work of William Lim Associates and W Architects over 220 conceptual sketches, architectural drawings and historical artefacts from their archives, along with behind-the-scenes stories of how the firm realised its creative visions. It will beavailable for reference and for loan at the Lee Kong Chian Reference Library and selected public libraries, as well as online via the NLB Mobile app.</div><br>
-	<img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev3.png">
-	<div style="background-color: #fff6ba;">
+An accompanying book of the same name will be published soon. It charts the last four decades of the evolution of the work of William Lim Associates and W Architects over 220 conceptual sketches, architectural drawings and historical artefacts from their archives, along with behind-the-scenes stories of how the firm realised its creative visions. It will beavailable for reference and for loan at the Lee Kong Chian Reference Library and selected public libraries, as well as online via the NLB Mobile app.
+</div><br>
+<img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev3.png">
+<div style="background-color: #fff6ba;">
 Published by the Urban Redevelopment Authority and National Library Board, 2023.
 </div><br>
-	<div style="background-color: #fff6ba; text-align:left; font-size:100%">
-A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s”, will take place at the lobby of the National Library Building. It will run from 28 November 2023 to 9 June 2024 and will showcase eight iconic buildings – from the National Theatre to Pinnacle@Duxton – that pushed the envelope of architecture in Singapore. A roving exhibition will also travel to Bishan Public Library (28 November 2023–31 January 2024), Jurong Regional Library (1 February 2024–31 March 2024) and Tampines Regional Library (1 April 2024–9 June 2024).</div>
+
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s”, will take place at the lobby of the National Library Building. It will run from 28 November 2023 to 9 June 2024 and will showcase eight iconic buildings – from the National Theatre to Pinnacle@Duxton – that pushed the envelope of architecture in Singapore. A roving exhibition will also travel to Bishan Public Library (28 November 2023–31 January 2024), Jurong Regional Library (1 February 2024–31 March 2024) and Tampines Regional Library (1 April 2024–9 June 2024).
+</div><br>
 	
-	<div style="background-color: #e0facf; text-align:left; font-size:100%">
-The works featured in the exhibition, “To Draw an Idea”, are part of the <a href="https://www.nlb.gov.sg/main/partner-us/Donate-to-our-Collections/highlights/Singapore-Architecture-Collection">Singapore Architecture Collection</a>, which showcases the country’s architectural and urban design journey, as well as the innovative works of pioneer and current architects and designers. The collection comprises architectural models, photographs, drawings, artefacts, oral history recordings and more. The collection forms part of a larger collaborative effort with the National Heritage Board, including the various museums, to build up a collection for the nation that covers a range of design disciplines, from fashion to graphic design and architecture.</div><br>
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+The works featured in the exhibition, “To Draw an Idea”, are part of the <a href="https://www.nlb.gov.sg/main/partner-us/Donate-to-our-Collections/highlights/Singapore-Architecture-Collection">Singapore Architecture Collection</a>, which showcases the country’s architectural and urban design journey, as well as the innovative works of pioneer and current architects and designers. The collection comprises architectural models, photographs, drawings, artefacts, oral history recordings and more. The collection forms part of a larger collaborative effort with the National Heritage Board, including the various museums, to build up a collection for the nation that covers a range of design disciplines, from fashion to graphic design and architecture.
+</div><br>
 </div>
 	
 
