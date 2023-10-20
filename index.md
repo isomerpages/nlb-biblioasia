@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/keramat_kusu_hero.png
   - infopic:
+      title: "Singapore's Got Talent: A Brief History of Talentime"
+      subtitle: Music
+      id: infopic
+      description: Although Talentime has been replaced by reality talent contests, it
+        will be remembered as a show that launched the musical careers of many
+        Singaporeans.
+      button: Down Memory Lane
+      url: /vol-19/issue-4/jan-mar-2024/talentime-history-singapore/
+      image: /images/Vol 19 Issue 4/7 Talentime/photo1 - rev1.png
+      alt: A Brief History of Talentime
+  - infopic:
       title: A Brief History of John Little at Raffles Place
       subtitle: Places and buildings
       id: infopic
@@ -832,15 +843,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: "Singapore's Got Talent: A Brief History of Talentime"
-      subtitle: Music
-      id: infopic
-      description: Although Talentime has been replaced by reality talent contests, it
-        will be remembered as a show that launched the musical careers of many
-        Singaporeans.
-      button: Down Memory Lane
-      url: /vol-19/issue-4/jan-mar-2024/talentime-history-singapore/
-      image: /images/Vol 19 Issue 4/7 Talentime/photo1 - rev1.png
-      alt: A Brief History of Talentime
 ---
