@@ -24,7 +24,7 @@ In 1960, Lim left the firm and started Malayan Architects Co-Partnership (MAC) w
 
 Following the dissolution of MAC in 1967, Lim co-founded Design Partnership (renamed DP Architects in 1975) with fellow pioneer architects Tay Kheng Soon and Koh Seow Chuan. The trio shaped Singapore’s skyline with more Brutalist pieces like People’s Park Complex (1973) and Woh Hup Complex (today’s Golden Mile Complex, gazetted in 2021).[^3]
 
-![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image2-rev.jpg)
+![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image2-rev2.png)
 <div style="background-color: white;">People’s Park Complex, 2023. <i>Photo by Jimmy Yap.</i></div>
 
 In 1981, Lim left DP Architects and established William Lim Associates (WLA) with architects Mok Wei Wei, Richard Ho and Carl Larson. This period saw Lim embrace Postmodernism, an architectural style that appeared in the late 1970s in response to the philosophy and style of Modernism, which rejected ornamentation and emphasised minimalism. Postmodernism is notable for features such as curved forms, decorative elements and bright colours. This shift was reflected in projects such as Church of Our Saviour (1985), Yeo Hiap Seng Factory (1986), Tampines North Community Centre (1989) and Marine Parade Community Building (1999).
