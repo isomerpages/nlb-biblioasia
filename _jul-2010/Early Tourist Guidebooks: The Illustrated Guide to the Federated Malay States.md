@@ -81,7 +81,7 @@ The guide is illustrated with the delicate watercolours of Mrs. H.C. Barnard and
 
 In 1910, the Malay States Information Agency was established with the primary objective to “advertise the productions and attractions of the States of the Malay Peninsula under British protection”,[^12] whether to investor, government official, planter, miner, tourist or traveller. The agency, located in London, received all official publications from the Federation Malay States government. This gave it an advantage in offering useful information on statistical and trade data. If the information was not available at the agency, it had the necessary connections to contact relevant official departments in the federation to retrieve the required information. The Federated Malay States was the first among the British colonies to set up such an agency. Almost immediately upon its establishment, public interest peaked, especially in the mining and agricultural fields of the Malay Peninsula. It was such a success that soon similar agencies were established for other colonies and protectorates.
 
-One of its first publications was the guide, printed in 1910, the same year the agency was established. Since it was released by the agency, the guide‘s contents were “officially revised and sanctioned…(and thus) regarded as a completely ‘authorised version’ of matters Malayan.”[^13] By the time the publication was in its fourth impression in 1923, the agency had become a well-respected institution, receiving several thousand visitors a year, offering lectures, brochures and other resources for visitors and potential investors.
+One of its first publications was the guide, printed in 1910, the same year the agency was established. Since it was released by the agency, the guide‘s contents were “officially revised and sanctioned… [and thus] regarded as a completely ‘authorised version’ of matters Malayan”.[^13] By the time the publication was in its fourth impression in 1923, the agency had become a well-respected institution, receiving several thousand visitors a year, offering lectures, brochures and other resources for visitors and potential investors.
 
 In 1985, the guide was republished by Oxford University Press and it remains a vital reference for insights into the beginnings of the Federated Malay States and its growth. Copies from the first issue of 1910 to the more current reprints are available at the National Library on microfilm.
 
@@ -139,13 +139,13 @@ Paul Kratoska, “Introduction,” in [_An Illustrated Guide to the Federated Ma
 
 [^3]: “[Tourist Tour in Java](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080713-1.2.74),” _Straits Times_, 13 July 1908, 7. (From NewspaperSG) &nbsp;
 
-[^4]: “[Jennings’ Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000216-1.2.29),” _Straits Times_, 16 February 1900, 2. (From NewspaperSG). It was compiled by F. K. Jennings who had established the agency at 3 Finlayson Green in 1899 – “[The Passenger Agency](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18991110-1.2.50),” _Straits Times_, 10 November 1899, 3. (From NewspaperSG)
+[^4]: “[Jennings’ Guide](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19000216-1.2.29),” _Straits Times_, 16 February 1900, 2. (From NewspaperSG). It was compiled by F.K. Jennings who had established the agency at 3 Finlayson Green in 1899 – “[The Passenger Agency](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18991110-1.2.50),” _Straits Times_, 10 November 1899, 3. (From NewspaperSG)
 
 [^5]: “[Come to Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19290504-1.2.34),” _Malayan Saturday Post_, 4 May 1929, 20. (From NewspaperSG)
 
-[^6]: Harrison in 1897, Robson in 1889, Hubback in 1895 and Dykes in 1892. It is uncertain when H. C. Robinson arrived in Malaya.
+[^6]: Harrison in 1897, Robson in 1889, Hubback in 1895 and Dykes in 1892. It is uncertain when H.C. Robinson arrived in Malaya.
 
-[^7]: Harrison had been Secretary to the Residents of Selangor (1919) and Perak (1921) as well as Commissioner of Lands of the FMS (1923). Robson was a member of the Federal Council (1909) and founder and editor of the Malay Mail (1896). Hubback became Chief Game Warden of the FMS in 1933 while Robinson was Director of Museums, FMS since 1908. Dykes was appointed Senior Warden of Mines for FMS in 1903.
+[^7]: Harrison had been Secretary to the Residents of Selangor (1919) and Perak (1921) as well as Commissioner of Lands of the FMS (1923). Robson was a member of the Federal Council (1909) and founder and editor of the *Malay Mail* (1896). Hubback became Chief Game Warden of the FMS in 1933 while Robinson was Director of Museums, FMS since 1908. Dykes was appointed Senior Warden of Mines for FMS in 1903.
 
 [^8]: [A Literary Guide – Mr C. W. Harrison’s Account of the F. M. S](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19200717-1.2.74).” _Straits Times_, 17 July 1920, 10. (From NewspaperSG)
 
@@ -153,7 +153,7 @@ Paul Kratoska, “Introduction,” in [_An Illustrated Guide to the Federated Ma
 
 [^10]: Nan Hall, “[The Tall Boy Who Came Back With an Album](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560617-1.2.98),” _Straits Times_, 17 June 1956, 1. (From NewspaperSG)
 
-[^11]: G. R. Lambert, well-known for his black- and-white photographs of Singapore and the Malay Peninsula was a contemporary of Kleingrothe. Kleingrothe had in fact begun his career in Southeast Asia as manager of the Deli branch of G. R. Lambert and Company.
+[^11]: G.R. Lambert, well known for his black-and-white photographs of Singapore and the Malay Peninsula, was a contemporary of Kleingrothe. Kleingrothe had in fact begun his career in Southeast Asia as manager of the Deli branch of G. R. Lambert and Company.
 
 [^12]: “Malayan Outpost: The Work of the Malay States Information Agency,” _British Malaya Magazine: Magazine of the Association of British Malaya_ (May 1926), 27–28. (Microfilm NL 7599 (1926–30)
 
