@@ -26,7 +26,7 @@ Mohamed Abdul Aziz* explores the heritage of the rich Malay civilisation through
 <a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-2/jul-2010/hadhramis-treasure-trove/">Bibliography, A Treasure Trove on Hadhramis in Southeast Asia Much to Discover</a><br>
 Librarian *Kartini Saparudin* highlights  resources held by the Lee Kong Chian Reference Library as well as the Institute of Southeast Asian Studies (ISEAS) library and the Central Library of the National University of Singapore (NUS) on the Hadhrami Arabs in Southeast Asia. [(PDF)](/files/pdf/vol-6/issue-2/v6-issue2_TreasureTrove.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-2/jul-2010/hadhrami-arab-southeast-asia/">Book Review – Bibliography on The Hadhrami Arabs in Southeast Asia With Special Reference to Singapore</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-2/jul-2010/hadhrami-arab-southeast-asia/">Book Review: The Hadhrami Arabs in Southeast Asia with Special Reference to Singapore: An Annotated Bibliography</a><br>
 Kriser Professor of Middle Eastern and Islamic Studies at New York University *Michael Gilsenan* provides his thoughts on the Bibliography on the Hadhrami Arabs in Southeast Asia with Special Reference to Singapore. [(PDF)](/files/pdf/vol-6/issue-2/v6-issue2_HadhramiArabs.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-2/jul-2010/illustrated-early-tourist-guidebook/">Early Tourist Guidebooks: The Illustrated Guide to the Federated Malay States</a><br>
