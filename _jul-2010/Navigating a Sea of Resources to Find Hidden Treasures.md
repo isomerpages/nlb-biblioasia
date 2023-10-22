@@ -5,7 +5,7 @@ description: Research Fellow Setefanus Suprajitno recalls his childhood,
   memories of the National Library and the path to becoming a Lee Kong Chian
   Research Fellow.
 ---
-####  Research Fellow *Setefanus Suprajitno* recalls his childhood, memories of the National Library and the path to becoming a Lee Kong Chian Research Fellow.
+#### *Setefanus Suprajitno* recalls his childhood, memories of the National Library and the path to becoming a Lee Kong Chian Research Fellow.
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%202/HiddenTreasures/CityHall1.jpg">
  <div style="background-color: white;">The office of the regent of Jember Regency, the City Hall is the most important building in Jember, East Java, Indonesia. <i>Courtesy of A. Irawan.</i></div>
