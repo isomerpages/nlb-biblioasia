@@ -106,9 +106,9 @@ Islam plays a major in the Hadhramis’ assimilation in the communities they res
 The status of the Arabs in the communities differs from state to state. In Malaya, and later Malaysia, the Hadhramis are recognised as *bumiputeras* (indigenous people of Malaysia) and enjoy the same privileges conferred upon Malays under the Federal Constitution. Similarly, in Indonesia and Brunei where Hadhramis still qualify for special privileges under the respective constitutions. In Singapore, however, Singapore Hadhramis maintain their special position in the republic’s social landscape but are not accorded the same rights as the Malays based on its policies of meritocracy, positive discrimination and multiculturalism.[^36] Several debates were held through the Singapore media in the 1980s that saw Arabs positioning themselves apart from the Malay community in Singapore.[^37]
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%202/TreasureTrove/jacobsen1.jpg">
- <div style="background-color: white;">All rights reserved, Routledge, 2009.</div>
+ <div style="background-color: white;"><i>All rights reserved, Routledge, 2009.</i></div>
 
-Nevertheless, the contributions of the Arabs towards their “host societies” have been tremendous. This has paved the way for further assimilation of the Arabs into the different communities. The economic impact of the Arabs on Hadhramaut was once tremendous; Ingrams estimated in 1934 that the total remittances pouring into Hadhramaut from abroad annually was a staggering total of 630,000 pounds sterling (equivalent to SGD 1.3 million). It was said that Hadhramaut became dependent on remittances from the diasporas, particularly from Southeast Asia.[^38]
+Nevertheless, the contributions of the Arabs towards their “host societies” have been tremendous. This has paved the way for further assimilation of the Arabs into the different communities. The economic impact of the Arabs on Hadhramaut was once tremendous; Ingrams estimated in 1934 that the total remittances pouring into Hadhramaut from abroad annually was a staggering total of 630,000 sterling pounds (equivalent to SGD 1.3 million). It was said that Hadhramaut became dependent on remittances from the diasporas, particularly from Southeast Asia.[^38]
 
 The impact of the Hadhrami emigration on the introduction and spread of commercial laws and techniques in the diasporas is evident. The setting up of Islamic institutions such as the Shariah court in Southeast Asia, for instance, was partly encouraged by legislative history of colonial powers. The establishment of the Shariah court in Singapore and Malaysia was also greatly influenced by Hadhrami Shafi’i legal texts at a time when other Muslims in the region preferred to be ruled by the Hanafi school of jurispudence. Rajeswary Brown starts in this direction of scholarship,[^39] although more could be done to examine if influence originated from the Hadhrami Shafi’i legal texts.[^40]
 
@@ -116,25 +116,25 @@ The impact of the Hadhrami emigration on the introduction and spread of commerci
 
 Due to time constraints, it was not possible to include articles from important primary documents such as the *Utusan Melayu* and other Malay and English sources published in Singapore. We made the decision to focus on *Berita Harian* and Arabic newspapers that were published in the 1920s–30s. *Utusan Melayu* would have had interesting insights for us as it was seen as a deliberate attempt to wrest power from Arab dominance in Malay publishing in Singapore.[^41]
 
-In addition, we would recommend for future projects to include documents from the National Archives of Singapore (NAS) containing information on the Arabs. This bibliography only includes bibliographical references on oral interviews done by the archives and a reference to Paul Kratoska’s index to British official records.[^42] We also recommend Jane Priestland’s *Records of Islam 1908–1972: British documentary sources* (Vols. 1–12) which has a plethora of British official documents for areas such as Indonesia and Africa but little on Singapore.[^43]
+In addition, we would recommend for future projects to include documents from the National Archives of Singapore containing information on the Arabs. This bibliography only includes bibliographical references on oral interviews done by the archives and a reference to Paul Kratoska’s index to British official records.[^42] We also recommend Jane Priestland’s *Records of Islam 1908–1972: British Documentary Sources* (Vols. 1–12) which has a plethora of British official documents for areas such as Indonesia and Africa but little on Singapore.[^43]
 
 There are vast collections of Dutch sources which we lacked access to. The Dutch sources chosen reflect the holdings in Singapore libraries and are often primary documents on the subject of Arabs and Islam in Indonesia. It would be good if a bibliography focusing on the Netherlands East Indies or Indonesia could be published in the future.
 
 Journals that indicate statistics on population and demography of Singapore are too numerous to be included in this bibliography.
 
-Apart from the publishing efforts by the Hadhrami communities in Southeast Asia, many of these sources that are available are manuscripts. These can be found in the Al-Ahqaf Library in Tarim, Hadhramaut; Jam’iyyat Khayr Library in Jakarta, Indonesia; and the Arabic legal documents of the Koh Seow Chuan Collection in the Lee Kong Chian Reference Library, National Library Singapore. The collection in Singapore comprises powerof-attorney documents, title deeds and wills. As mentioned earlier, many of these sources are still in private hands. This bibliography is a call for private donors to come forth and deposit their valuable copies with us or to provide them on loan for digitisation.
+Apart from the publishing efforts by the Hadhrami communities in Southeast Asia, many of these sources that are available are manuscripts. These can be found in the Al-Ahqaf Library in Tarim, Hadhramaut; Jam’iyyat Khayr Library in Jakarta, Indonesia; and the Arabic legal documents of the Koh Seow Chuan Collection in the Lee Kong Chian Reference Library, National Library, Singapore. The collection in Singapore comprises power-of-attorney documents, title deeds and wills. As mentioned earlier, many of these sources are still in private hands. This bibliography is a call for private donors to come forth and deposit their valuable copies with us or to provide them on loan for digitisation.
 
 #### **Conclusion**
 
 We hope scholars and heritage seekers interested in the Hadhramis in the Indian Ocean and Southeast Asia can benefit from this bibliography. In time, a more comprehensive, more organised, well-indexed and extensive bibliography may better reflect the true breadth and depth of works written on the subject.
 
-*This article was first published in the above mentioned bilbliography*.
+*This article was first published in the above mentioned bibliography.*
 
 <br>
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/Kartini.jpg" style="width: 100px; height: 100px;">
-<center> <b>Kartini Saparudin</b><br>Librarian<br> Lee Kong Chian Reference<br> Library National Library </center> </div>
+<center> <b>Kartini Saparudin</b><br>Librarian<br> Lee Kong Chian Reference<br>National Library </center> </div>
 
 #### **NOTES**
  
@@ -162,7 +162,7 @@ We hope scholars and heritage seekers interested in the Hadhramis in the Indian 
 
 [^12]: Natalie Mobini-Kesheh, [_The Hadrami Awakening: Community and Identity in the Netherlands East Indies, 1900–1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9846683) (Ithaca, N.Y: Southeast Asia Program Publications, Southeast Asia Program, Cornell University, 1999) (Call no. RSING 959.8022 MOB); Sharifah Zaleha Syed Hassan, “History and the Indigenization of the Arabs in Kedah, Malaysia,” _Proceedings of the International Conference on Yemeni- Hadramis in Southeast Asia: Identity Maintenance or Assimilation?_ (Kuala Lumpur: International Islamic University Malaysia, 26–28 August 2005), 40–67; Omar Farouk Bajunid, “The Arabs in Penang,” _Malaysia in History_ 21, no. 2 (1978), 1–16.
 
-[^13]: Muhammad Hasan Al-Aydrus reinforces this in his 1996 work Penyebaran Islam di Asia Tenggara: Asyraf Hadramaut dan peranannya. Al-Aydrus’ confident assertion that Islamisation in Southeast Asia, especially in Indonesia happen through the original nine wali or saints of Islam through the progeny of Ahmad bin Isa, who are mostly Hadhramis. Drewes makes this a subject of his study by looking at classical Indonesian texts.
+[^13]: Muhammad Hasan Al-Aydrus reinforces this in his 1996 work *Penyebaran Islam di Asia Tenggara: Asyraf Hadramaut dan peranannya*. Al-Aydrus’ confident assertion that Islamisation in Southeast Asia, especially in Indonesia happen through the original nine wali or saints of Islam through the progeny of Ahmad bin Isa, who are mostly Hadhramis. Drewes makes this a subject of his study by looking at classical Indonesian texts.
 
 [^14]: Arai, “‘Arab’ Periodicals in the First Half of the Twentieth Century.”
 
@@ -176,19 +176,19 @@ We hope scholars and heritage seekers interested in the Hadhramis in the Indian 
 
 [^19]: See section 2.5 of the bibliography for the works.
 
-[^20]: D. A. Ringkes, [_Nine Saints of Java_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8816560) (Kuala Lumpur: Malaysian Sociological Research Institute, 1996). (Call no. RSEA 297.092 RIN)
+[^20]: D.A. Ringkes, [_Nine Saints of Java_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8816560) (Kuala Lumpur: Malaysian Sociological Research Institute, 1996). (Call no. RSEA 297.092 RIN)
 
 [^21]: Alatas, “[Hadhramaut and the Hadhrami Diaspora](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13050804),” 33.
 
-[^22]: The Persians were mostly traders. Some of them were Christian missionaries who were in the Philippines and the areas of the Malay Archipelago such as Java, Sumatra, Sunda and Maluku.
+[^22]: The Persians were mostly traders. Some of them were Christian missionaries who were in the Philippines and the areas of the Malay archipelago such as Java, Sumatra, Sunda and Maluku.
 
 [^23]: Alatas, “[Hadhramaut and the Hadhrami Diaspora](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13050804),” 32.
 
-[^24]: L. W. C. Van Den Berg, [_Le Hadhramout Et Les Colonies Arabes Dans L’archipel Indien_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501) (Batavia: Impr. Du gouvernement, 1886). (Call no. RRARE 325.25309598 BER; microfilm NL7400)
+[^24]: L.W.C. van den Berg, [_Le Hadhramout Et Les Colonies Arabes Dans L’archipel Indien_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3231501) (Batavia: Impr. Du gouvernement, 1886). (Call no. RRARE 325.25309598 BER; microfilm NL7400)
 
-[^25]: Nico J. G. Kaptein, “Arabophobia and Terekat: How Sayyid Uthman Became Advisor to the Netherlands Colonial Administration,” in [_The Hadhrami Diaspora in Southeast Asia: Identity Maintenance or Assimilation?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077), ed. Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim (Boston: Brill, 2009), 38. (Call no. RSEA 305.89275335 HAD)
+[^25]: Nico J.G. Kaptein, “Arabophobia and Terekat: How Sayyid Uthman Became Advisor to the Netherlands Colonial Administration,” in [_The Hadhrami Diaspora in Southeast Asia: Identity Maintenance or Assimilation?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077), ed. Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim (Boston: Brill, 2009), 38. (Call no. RSEA 305.89275335 HAD)
 
-[^26]: Most of the British archival records are available in the India Office Record (IO) in the India and Oriental Office in the British Library, London and Public Record Office (PRO) in Kew, London. These are records of the British administration in Aden and correspondences of the Colonial Office and the Foreign Office. For Dutch sources, the documents are in the Collectie G. A. J. Hazeu (Hazeu Collection) and Collectie R. A. Kern (Kern Collection) in KITLV, Leiden, Netherlands and the Oriental Collection of the Leiden University. Some of the other colonial sources on Hadhrami exist in Seiyun Archives (SMA)
+[^26]: Most of the British archival records are available in the India Office Record in the India and Oriental Office in the British Library, London and Public Record Office in Kew, London. These are records of the British administration in Aden and correspondences of the Colonial Office and the Foreign Office. For Dutch sources, the documents are in the Collectie G. A. J. Hazeu (Hazeu Collection) and Collectie R. A. Kern (Kern Collection) in KITLV, Leiden, Netherlands and the Oriental Collection of the Leiden University. Some of the other colonial sources on Hadhrami exist in Seiyun Archives (SMA)
 
 [^27]: Nurfadzilah Yahaya, “Tea and Company: Interactions Between the Arab Elite and the British in Cosmopolitan Singapore,” in [_The Hadhrami Diaspora in Southeast Asia: Identity Maintenance or Assimilation?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077), ed. Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim (Boston: Brill, 2009), 71. (Call no. RSEA 305.89275335 HAD)
 
@@ -200,7 +200,7 @@ We hope scholars and heritage seekers interested in the Hadhramis in the Indian 
 
 [^31]: See Anthony Reid, “Indonesian Diplomacy: A Documentary Study of Atjehnese Foreign Policy in the Reign of Sultan Mahmud, 1870–1874,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 42, no. 2 (December 1969), 74–114 From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Jeyamalar Kathirithamby-Wells, “‘Strangers’ and ‘Stranger-Kings’: The Sayyid in Eighteenth-Century Maritime Southeast Asia,” _Journal of Southeast Asian Studies_ 40, no, 3 (October 2009), 567–91 From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Salma Nasution Khoo, “The Legacy of Tengku Syed Hussain,” _Pulau Pinang_ 2, no. 2 (1990), 12–14, 16–17. R. O. Winstedt, “The Early Ruler of Perak, Pahang and Aceh,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 10, no. 1 (January 1932), 32–44 From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; R. O. Winstedt, “The Temenggongs of Muar,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 10, no. 1 (January 1932), 30–31. From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
-[^32]: See section 3.3. The first use of the term “Pan-Islamism” was by Franz von Werner in Turkische Skizzen (1877). For more on literature on the term, see footnote 1 of Mohammad Redzuan Othman, “Pan-Islamic Appeal and Political Patronate: The Malay Perspective and the Ottoman Response,” _Sejarah_ 4, no. 4 (1996), 97–108.
+[^32]: See section 3.3. The first use of the term “pan-Islamism” was by Franz von Werner in *Turkische Skizzen* (1877). For more on literature on the term, see footnote 1 of Mohammad Redzuan Othman, “Pan-Islamic Appeal and Political Patronate: The Malay Perspective and the Ottoman Response,” _Sejarah_ 4, no. 4 (1996), 97–108.
 
 [^33]: See 3.5 of bibliography.
 
@@ -212,7 +212,7 @@ We hope scholars and heritage seekers interested in the Hadhramis in the Indian 
 
 [^37]: See section 3.2 of the bibliography.
 
-[^38]: See f. (2009). p. 10. For the Alkaff family’s use of their wealth to finance charitable activities and other political and social reforms, see Aljunied, Syed Muhd. Khairudin, “Hadhramis Within Malay Activism: The Role of Al-Saqqaf(s) in Post-War Singapore,” in [_The Hadhrami Diaspora in Southeast Asia: Identity Maintenance or Assimilation?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077), ed. Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim (Boston: Brill, 2009), 225–44. (Call no. RSEA 305.89275335 HAD)
+[^38]: See Ahmed Ibrahim Abushouk, 2009, p. 10. For the Alkaff family’s use of their wealth to finance charitable activities and other political and social reforms, see Aljunied, Syed Muhd. Khairudin, “Hadhramis Within Malay Activism: The Role of Al-Saqqaf(s) in Post-War Singapore,” in [_The Hadhrami Diaspora in Southeast Asia: Identity Maintenance or Assimilation?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077), ed. Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim (Boston: Brill, 2009), 225–44. (Call no. RSEA 305.89275335 HAD)
 
 [^39]: Rajeswary Ampalavanar Brown, “Capitalism and Islam: Arab Business Groups and Capital Flows in South East Asia,” in [_Remaking Management: Between Global and Local_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13126261), ed. Chris Smith, Brendan McSweeney and Robert Fitzgerald (New York: Cambridge University Press, 2008) (Call no. RBUS 658 REM); Rajeswary Ampalavanar Brown, “Islamic Endowments and the Land Economy in Singapore: The Genesis of an Ethical Capitalism, 1830–2007,” _South East Asia Research_ 16, no. 3 (November 2008), 343–403 From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Rajeswary Ampalavanar Brown, “The Decline of Arab Capitalism in Southeast Asia,” in [_The Hadhrami Diaspora in Southeast Asia: Identity Maintenance or Assimilation?_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077), ed. Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim (Boston: Brill, 2009), 109–33. (Call no. RSEA 305.89275335 HAD)
 
