@@ -5,13 +5,13 @@ description: Senior Librarian Bonny Tan examines the Illustrated Guide to the
   Federated Malay States, an early tourist guidebook available at the National
   Library.
 ---
-#### Senior Librarian&nbsp;_Bonny Tan_&nbsp;examines the&nbsp;_Illustrated Guide to the Federated Malay States_, an early tourist guidebook available at the National Library.
+#### Senior Librarian *Bonny Tan* examines the *Illustrated Guide to the Federated Malay States*, an early tourist guidebook available at the National Library.
 
-*        “We travel nowadays far more often and far further than our <br>        ancestors but we do not, as they say they did, hanker for hardship.<br>        We like to see new countries, new people and new ways of living,<br>          but we like a little 
-comfort hereto...”*[^1]
+**<center>“We travel nowadays far more often and far further than our ancestors but we do not, as they say they did, hanker for hardship. We like to see new countries, new people and new ways of living, but we like a little 
+comfort hereto...”[^1]</center>**
 
 <img style="width:100%;" src="/images/Vol%206%20Issue%202/FederatedMalayState/Malay%20Houseboats.jpg">
- <div style="background-color: white;">Malay houseboats on Pahang River at Kuala Lipis. <i>An illustrated guide to the Federated Malay States,</i>1910, p. 84.</div>
+ <div style="background-color: white;">Malay houseboats on Pahang River at Kuala Lipis. <i>An illustrated guide to the Federated Malay States, 1910, p. 84.</i></div>
 
 #### **The Audience: Early 20th Century**
 
