@@ -212,26 +212,25 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^31]: [Subaraj Rajathurai](         https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Benjamin Ho, 16 January 2018, transcript and MP3 audio, Reel/Disc 3 of 10, National Archives of Singapore (accession no. 004236), 56.
 
-[^32]: Lee Swee Hoon, “[Bird Lovers Submit Proposals for 300-ha Nature Reserve](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871214-1.2.26.3),” _Straits Times_, 14 December 1987, 14. (From NewspaperSG); [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 56–57.
+[^32]: Lee Swee Hoon, “[Bird Lovers Submit Proposals for 300-ha Nature Reserve](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871214-1.2.26.3),” _Straits Times_, 14 December 1987, 14. (From NewspaperSG); [Subaraj Rajathurai] (https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history 16 January 2018, Reel/Disc 3 of 10, 56–57.
 
-[^33]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 56.
+[^33]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history 16 January 2018, Reel/Disc 3 of 10, 56.
 
 [^34]: Janice Loo, “[Sungei Buloh Wetland Reserve](https://eresources.nlb.gov.sg/infopedia/articles/SIP_566_2005-02-01.html),” _Singapore Infopedia_, published 31 December 2015; Subaraj Rajathurai, “[The Man Behind Sungei Buloh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150816-1.2.37.10.2),” _Straits Times_, 16 August 2015, 6; Wing Chong, “[Volunteers’ Efforts Helped Save Sungei Buloh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150823-1.2.37.12),” _Straits Times_, 23 August 2015, 6. (From NewspaperSG)&nbsp;
 
 [^35]: Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
-[^36]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 57.
+[^36]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history 16 January 2018, Reel/Disc 3 of 10, 57.
 
 [^37]: “[Govt Committed to Nature Conservation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19931207-1.2.5),” _Straits Times_, 7 December 1993, 1. (From NewspaperSG)
 
-[^38]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 58.
+[^38]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history 16 January 2018, Reel/Disc 3 of 10, 58.
 
-[^39]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 58.
+[^39]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history 16 January 2018, Reel/Disc 3 of 10, 58.
 
-[^40]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 58, 59.
+[^40]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history 16 January 2018, Reel/Disc 3 of 10, 58, 59.
 
-
-[^41]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history 16 January 2018, Reel/Disc 3 of 10, 59.
+[^41]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history 16 January 2018, Reel/Disc 3 of 10, 59.
 
 [^42]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies”; Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
