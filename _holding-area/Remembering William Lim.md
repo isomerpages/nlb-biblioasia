@@ -43,22 +43,19 @@ Lim’s legacy lives on through his works as well as the next generation whose l
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
 <b> TO DRAW AN IDEA: RETRACING THE DESIGNS OF WILLIAM LIM ASSOCIATES – W ARCHITECTS</b>
-<br>
-</div>
-	
-<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
+	<br><br>
+
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 Organised by the Urban Redevelopment Authority and National Library Board, “To Draw an Idea” explores the works of one of Singapore’s most respected practices, set up by pioneer architect William Lim. Lim established William Lim Associates in 1981 after he left DP Architects. After Lim retired in 2003, the firm was renamed W Architects and it is now led by Mok Wei Wei and Ng Weng Pan.</div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-This exhibition looks at how the practice evolved against the backdrop of Singapore’s developing architectural scene over the last four decades. The many drawings displayed are not finished products and present in-progress snapshots of William Lim Associates’ and W Architects’ design process. The exhibition is scheduled to run from 28 November 2023 to 8 June 2024 at the URA Centre (Level 1 Atrium).</div>
-</div>
+This exhibition looks at how the practice evolved against the backdrop of Singapore’s developing architectural scene over the last four decades. The many drawings displayed are not finished products and present in-progress snapshots of William Lim Associates’ and W Architects’ design process. The exhibition is scheduled to run from 28 November 2023 to 8 June 2024 at the URA Centre (Level 1 Atrium).</div><br>
 
-<div style="background-color: #e0facf; padding:15px; margin: 10px; font-size=120%">
-<div style="background-color: #e0facf; text-align:left; font-size:100%">
+
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
 One of the projects undertaken by W Architects was the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby.</div><br>
 <img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg">
-<div style="background-color:#e0facf; text-align:left; font-size:100%">
+<div style="background-color:#fff6ba; text-align:left; font-size:100%">
 <b>Section from Empress Place</b> <br>
 2011<br>
 Digital print on paper<br>
@@ -67,10 +64,10 @@ B29493274G_0005<br>
 <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore.</i>
 </div>
 <br>
-<div style="background-color: #e0facf; text-align:left; font-size:100%">
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
 The exhibition also features the Lee Kong Chian Natural History Museum that opened in 2015. The museum uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (bottom).</div><br>
 <img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image6.jpg">
-<div style="background-color: #e0facf;"><b>Rock facade concrete detail</b><br>
+<div style="background-color: #fff6ba;"><b>Rock facade concrete detail</b><br>
 2013<br>
 Digital print on paper <br>
 841 x 1189 mm<br>
@@ -79,17 +76,15 @@ B29493498D_0002<br>
 </div><br>
 	
 <img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image5.jpg">
-<div style="background-color: #e0facf;">
+<div style="background-color: #fff6ba;">
 <b>Green facade elevation</b><br>
 2013<br>
 Digital print on paper with ink annotations<br>
 297x420mm<br>
 B29488115E_0001<br>
 <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i>
-</div>
-</div>
+</div><br>
 
-<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 An accompanying book of the same name will be published soon. It charts the last four decades of the evolution of the work of William Lim Associates and W Architects over 220 conceptual sketches, architectural drawings and historical artefacts from their archives, along with behind-the-scenes stories of how the firm realised its creative visions. It will beavailable for reference and for loan at the Lee Kong Chian Reference Library and selected public libraries, as well as online via the NLB Mobile app.
 </div><br>
@@ -104,7 +99,7 @@ A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s�
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 The works featured in the exhibition, “To Draw an Idea”, are part of the <a href="https://www.nlb.gov.sg/main/partner-us/Donate-to-our-Collections/highlights/Singapore-Architecture-Collection">Singapore Architecture Collection</a>, which showcases the country’s architectural and urban design journey, as well as the innovative works of pioneer and current architects and designers. The collection comprises architectural models, photographs, drawings, artefacts, oral history recordings and more. The collection forms part of a larger collaborative effort with the National Heritage Board, including the various museums, to build up a collection for the nation that covers a range of design disciplines, from fashion to graphic design and architecture.
-</div>
+</div><br>
 </div>
 	
 
