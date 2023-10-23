@@ -4,6 +4,12 @@ permalink: /topics/arts/music/
 description: ""
 third_nav_title: Arts
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/talentime-history-singapore/">Singapore's Got Talent: A Brief History of Talentime
+</a>
+ Although Talentime has been replaced by reality talent contests, it will be remembered as a show that launched the musical careers of many Singaporeans.<br>
+ <img src="/images/Vol%2019%20Issue%204/7%20Talentime/photo1%20-%20rev1.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano">A Grand Piano's Chequered History</a>
 A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it.
 
@@ -21,5 +27,3 @@ In this extract from the book From Keroncong to Xinyao, the author looks at why 
 
 <img src="/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image1.png">
 <hr>
-
-
