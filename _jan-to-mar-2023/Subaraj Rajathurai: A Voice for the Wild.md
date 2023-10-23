@@ -194,7 +194,7 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^22]: Leong, “[Doing What Comes Naturally](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6787394),” 27.
 
-[^23]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/460c0e96-6fb5-11e8-ae40-001a4a5ba61b-OHC004236_010/web/html5/index.html), oral history interview by Benjamin Ho, 28 May 2018, Reel/Disc 10 of 10, National Archives of Singapore (accession no. 004236), 199.
+[^23]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/460c0e96-6fb5-11e8-ae40-001a4a5ba61b-OHC004236_010/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Benjamin Ho, 28 May 2018, Reel/Disc 10 of 10, National Archives of Singapore (accession no. 004236), 199.
 
 [^24]: Irene Hoe, “[Is the Bukit Timah Nature Reserve Dying Slowly?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850324-1.2.9.6)” _Straits Times_, 24 March 1985, 3. (From Newspaper SG)
 
@@ -204,11 +204,11 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^27]: Grace Chua, “Look Out for Rare Bird at New Park,” <i>Straits Times</i>, 6 September 2009, 2. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^28]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 34, 45.
+[^28]: [Subaraj Rajathurai](         https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 34, 45.
 
-[^29]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 44.
+[^29]: [Subaraj Rajathurai](         https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 44.
 
-[^30]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 44.
+[^30]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e3397078-4db8-11e8-b81e-001a4a5ba61b-OHC004236_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview, 9 January 2018, Reel/Disc 2 of 10, 44.
 
 [^31]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/), oral history interview by Benjamin Ho, 16 January 2018, transcript and MP3 audio, Reel/Disc 3 of 10, National Archives of Singapore (accession no. 004236), 56.
 
