@@ -91,3 +91,8 @@ In the immediate postwar years, the Army also undertook the arduous process of r
 
 In 1940, the Army had acquired the place for $50,000 with a loan of $25,000 from the Straits Settlements government and a grant of $25,000 from its London headquarters. The building also became a training centre and accommodation for married officers.41 Restoration took six years, and in 1951, Governor of Singapore Franklin Gimson officially opened the building as The Salvation Army Command Headquarters.42
 
+In 1959, Lord, the officer who had gotten the Salvation Army to such an excellent start in 1935, returned to Singapore for a last visit.43 (After his release from internment at the end of the Japanese Occupation, Lord had returned to duty in Seoul in 1946. Unfortunately, he was captured by the North Koreans at the outbreak of the Korean War (1950–53) and interned until 1953.44) Lord was reported to have been amazed at Singapore’s political development. “I sincerely hope that the building of a new Asia is done on sound principles of democracy, righteousness and political integrity,” he said.45
+
+Lord would have been even more amazed to find out that the Salvation Army headquarters he had purchased in 1940 for $50,000 was sold in 1991 for $20 million.46 That sum was used to finance its new and larger headquarters in Bishan, which opened in 1994.47 &nbsp;
+
+Today, the Salvation Army in Singapore runs a host of programmes for children and youth, the elderly, migrant workers, former prisoners and the general community. It runs Gracehaven, a children’s home; the Peacehaven Nursing Home; Carehaven, a shelter for foreign domestic workers; and a few thrift stores around Singapore.
