@@ -3,3 +3,72 @@ title: The Salvation Army in Singapore
 permalink: /holding-area/vol-19/issue-4/jan-mar-2024/the-salvation-army-in-singapore/
 description: The history of the Salvation Army in Singapore goes back to at least 1935.
 ---
+#### The history of the Salvation Army in Singapore goes back to at least 1935.
+
+
+![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image1-rev.jpg)
+<div style="background-color: white;">William Lim, c. mid-2010s. <i>Courtesy of Lim Family.</i></div>
+
+
+Today the Salvation Army is a well-known institution in Singapore. Its thrift stores are popular with bargain hunters and those on a budget. During the Christmas season, its bell ringers, with their bright red kettles, are a common sight outside shopping mall entrances as they seek donations from passers-by.&nbsp;
+
+However, back in March 1935 when Lieutenant-Colonel Herbert A. Lord of the Salvation Army in Korea first came on a reconnaissance mission to see if colonial Singapore needed its help, the Army was not particularly well known. Lord told the _Straits Times_ that he was here to “investigate the possibilities of his organisation undertaking religious and social work in this city”.1
+
+Salvationists, as members of the Army are called, had been doing work in Southeast Asia as early as 1898 at the invitation of the Dutch government in the Dutch East Indies.2 In Java, the Army had taken charge of the leper, criminal and pauper populations. Like the British colonial administration in Singapore, the Dutch East Indies government did not have a social work agency. &nbsp;
+
+There were apparently early attempts by the Army to proselytise in Singapore at the beginning of the 20th century. According to the _Straits Budget_ in 1936, the “uniform of the Salvation Army was first seen in Singapore about 30 years ago, when one of its representatives was booed on the Esplanade”.3 The news report added that the Army was “facing prejudice and hostility all over the world owing to the novelty of its methods”.&nbsp;
+
+One reason could be that the Army evangelised through open-air meetings where men, as well as women, preached and sang accompanied by musicians, good and bad. Could the Salvationist who was booed at the Esplanade have been no less than the founder of the Army himself, General William Booth?4 The _Eastern Daily Mail and Straits Morning Advertiser_ had reported in November 1906 that Booth was heading to Japan to inspect the Army’s mission that had started there in 1895.5
+
+In the days of steamship travel, Singapore would have been a likely stopover enroute. In 1926, General Bramwell Booth, son of William Booth, on his way to Japan, had stayed long enough in Singapore to give a talk at the Victoria Theatre on the work of the Army in December that year.6 Organised by the Dutch Indies Salvationists, the talk could have also been intended as a fundraiser, for it was by invitation only and “Eurasians and Asiatics” who turned up uninvited were kept out until all the invitees were seated. Even with uninvited guests though, the Victoria Theatre had empty seats.7
+
+Two days later, the _Malayan Saturday Post_ commented somewhat snarkily that “the arrangements for the public lecture by General Booth on Thursday \[2 December\] at the Victoria Theatre were the most stupid imaginable”. “It is to be hoped that if the Salvation Army is to start work here arrangements would be left in the hands of more capable officers to carry out the work in the spirit of the founder and that there would be no hankering after the high and mighty.”8 However, a reporter from the _Malaya Tribune_ who had attended the same talk reported that a “packed house greet\[ed\] General Bramwell Booth”.9
+
+#### **First HQ at 47 Killiney Road**
+
+It took Herbert Lord a month to write up his report, get approval from London and set up the Army’s modest base in a shophouse at 47 Killiney Road, where the Lord family lived on the floor above. It also had a post office box number.10
+
+Lord found 10 Salvationists among the British troops stationed in Singapore whom he expected to form the core of the movement. “\[The Salvation Army\] will be on evangelical lines first and foremost, and social work will also be important particularly when additional funds are available,” Lord told the _Straits Budget_ in April 1935. Funds did become available almost immediately. In June 1935 the Army was roped in to handle the Rotary Club’s unemployment relief fund project.11
+
+During the Great Depression in the early 1930s, unemployment was high in Singapore. Formed in 1930, the Rotary Club had, in 1935, begun fundraising among its professional and wealthy membership to disburse cash to the unemployed. Soon afterwards, the colonial government started the Silver Jubilee Relief Fund as an endowment fund to commemorate the Silver Jubilee of King George V.12
+
+Before long, the government was also calling on the Army to help with the distribution of relief money from the Silver Jubilee Fund. Captain Frank Bainbridge, who had been the Relieving Officer for the Rotary Club Relief Fund, was made the Relieving Officer for the Silver Jubilee Fund, which began distributing money in April 1936.13 Bainbridge was put in charge of all aspects of this cash distribution. The Army was also represented on the Silver Jubilee Fund committee on which Lord, now a Brigadier, sat as a member.14
+
+The Army’s open-air services were held initially at the Esplanade, but it also had the use of the hall of the Young Men’s Christian Association in their Orchard Road premises during the rainy season.15 One popular location was the Municipal bandstand on Waterloo Street. In a town with few entertainment options at the time, such singing and loud music, albeit laced with preaching and calls to repent, would have attracted attention. The Army also took the opportunity to solicit donations at these services.&nbsp;
+
+However, in 1954 when the Army tried to resume its open-air services at the Esplanade, its application to the City Council was turned down. “The committee’s decision was a firm ‘no’ having regard to the number of religious sects in Singapore and the character of the Esplanade Walk,” reported the _Straits Budget_.16 The council was afraid that the Esplanade would turn into a “Hyde Park Corner”.17
+
+#### **Homes for Boys and Girls**
+
+By 1936, the Army had two homes in operation. One was the Boys’ Industrial Home on Kim Keat Road, whose aim was to rehabilitate delinquent youths by teaching them employable skills such as woodwork and carpentry, giving them a basic command of English and guiding them on how to lead a good Christian life. In his opening speech, Lord said that by “taking boys off the streets, they were reducing the number of potential criminals and creating useful men of the future”.18
+
+In March 1937, the home moved to new premises at 151 Thomson Road to accommodate more boys.19 A separate remand home subsequently opened in the same building to house boys convicted of juvenile offences.20
+
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 19.9px; line-height: 10.0px; font: 10.0px 'Minion Pro'}
+
+The other was the Women’s Industrial Home at 36 Paterson Road, which took in troubled or delinquent girls in their late teens.21 Speaking at the official opening of the home in February 1936, Lord said: “\[T\]his home would become a refuge that would provide freedom from the influence of evil temptation and companions; provide instruction, in the consequences of an evil life and the possibility of a virtuous one; give an opportunity to create new habits and nurture these habits in helpful surroundings; train girls in those things that would enable them to work; and create a centre from which those women could be sent out to useful positions in life and from which loving and watchful care could be exercised over them until they become permanently re-established.”22&nbsp;
+
+Some of the girls were rescued from a life on the streets by Salvationists who, dressed in their iconic white uniforms, hung out in red-light districts talking to the girls and offering them an opportunity for a different way of life. Mrs Herbert Lord, wife of the head of the Army in Singapore, speaking at a Rotary Club meeting in February 1941, said: “During 1940, 200 hours were spent on the streets, meeting the girls both in the streets and in the cafes; more than 100 cafes and cabarets were visited by Salvation Army women officers in uniform for the sole purpose of meeting and offering assistance to any girls who were willing to be helped.”23
+
+Tan Beng Neo, a resident of the Women’s Industrial Home, who later became a social worker, also acted as a translator for the European Salvationists on these night patrols. In her oral history interview, she said: “If they don’t like us they would walk away… Well, we don’t chase after them. But some of them greeted us… when they start to know that we were not doing any harm to them except trying to help.”24 &nbsp;
+
+The Women’s Industrial Home moved to 319 River Valley Road in 1937, where it began taking in orphans and young children whose families were unable to care for them. The numbers grew to such an extent that a Children’s Home was set up, first in a house on Upper Wilkie Road and subsequently a mansion on Pasir Panjang Road to accommodate the larger numbers.25
+
+During the Japanese Occupation, one of the temporary premises occupied by the Women’s Industrial Home was 30 Oxley Road, which was next to a Japanese military brothel at 26 Oxley Road.26 The home found a more permanent location at 381 Pasir Panjang Road in 1959. The Army, with help from the Rotary Club, had bought two adjoining houses in 1957 and converted them into a new girls’ home.27&nbsp;
+
+Not all the girls in the Women’s Home were rescued from prostitution or prison. The aforementioned Tan Beng Neo was a young probationary nurse who had run away from home after a violent disagreement with her parents. Seeking help, she went to the Mount Sophia home of the principal of Methodist Girls’ School, Tan’s former school. The principal took Tan to the Women’s Home on Paterson Road.
+
+Tan, a self-taught seamstress, made herself useful at the home by teaching the other residents how to sew. The Army took over the sponsorship of her nurse’s training and paid the $25 for her midwife’s certificate when she completed the course.28
+
+The young women were taught basic English, domestic work, sewing and needlework. And like the boys, jobs were found for them once they became employable as well as marriage partners. To ensure that the young women were not exploited once they left the home, potential employers and marriage partners were thoroughly screened.&nbsp;
+
+Although the colonial government gave the Army subsidies for the homes it ran, the money was never enough and there were regular appeals for donations. The residents in the homes were engaged in making a variety of handicrafts for sale to raise more funds for expenses. However, the iconic Salvation Army Christmas kettle complete with bell ringers, seen in front of malls all over the world to raise money during the Christmas season, was only introduced to Singapore in December 1988.29
+
+
+#### **Helping Former Prisoners**
+
+In 1936, the Army also started working with the Singapore Aftercare Association in the rehabilitation of discharged prisoners and to help them find employment.30 Army officers made prison visits to evangelise. They also identified prisoners in need of a helping hand to reintegrate into society once out of prison and even gave them temporary shelter.&nbsp;
+
+According to the report by Lord, in the first year, “571 interviews had been given to 144 men and women before and after discharge. Of this number, 115 desired the help of the Association, and out of that number eight were repatriated; seven were restored to friends who would look after them, as for various reasons it was not possible to offer them work; 54 were helped to get jobs; and in one case it was made possible for a man to have his previous source of income, which had been forfeited on account of crime, restored to him”.31
+
+In 1938, the Army opened the Discharged Prisoners’ Home on Race Course Road to provide a temporary hostel for those recently released from prison and to tide them over while employment was being found. “The Home will not be a final stopping place for them,” said Lord. “It would fulfil an urgent need, however, as many men coming out did want some place to which they could go for a few days.” The Singapore Aftercare Association bore the rent for the home.32
