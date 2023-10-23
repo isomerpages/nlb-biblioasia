@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/
-      button: The Origin Stories of Keramat Kusu
+      url: /vol-19/issue-2/jul-sep-2023/kampong-wak-sumang-punggol/
+      button: Remembering Punggol’s Kampong Wak Sumang
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/keramat_kusu_hero.png
+      background: /images/Vol 19 Issue 2/Tok Sumang/heroimage-waksumang.jpg
   - infopic:
       title: "Singapore's Got Talent: A Brief History of Talentime"
       subtitle: Music
