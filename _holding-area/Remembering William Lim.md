@@ -43,8 +43,9 @@ Lim’s legacy lives on through his works as well as the next generation whose l
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
 <b> TO DRAW AN IDEA: RETRACING THE DESIGNS OF WILLIAM LIM ASSOCIATES – W ARCHITECTS</b>
-<br><br>
+</div>
 	
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 Organised by the Urban Redevelopment Authority and National Library Board, “To Draw an Idea” explores the works of one of Singapore’s most respected practices, set up by pioneer architect William Lim. Lim established William Lim Associates in 1981 after he left DP Architects. After Lim retired in 2003, the firm was renamed W Architects and it is now led by Mok Wei Wei and Ng Weng Pan.</div><br>
 	
