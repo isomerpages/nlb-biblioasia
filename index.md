@@ -843,4 +843,15 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Remembering William Lim
+      subtitle: People
+      id: infopic
+      description: The late architect William Lim did more than shape Singapore’s
+        skyline. He was also deeply passionate about urban planning, culture,
+        the arts.
+      button: ARCHITECT EXTRAORDINAIRE
+      url: /vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/
+      image: /images/Vol 19 Issue 4/6 William Lim/william-lim.png
+      alt: Image alt text
 ---
