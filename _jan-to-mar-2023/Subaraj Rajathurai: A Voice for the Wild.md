@@ -154,7 +154,7 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^2]: Venessa Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1),” _Straits Times_, 20 February 2017, 1. (From NewspaperSG)
 
-[^3]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), oral history interview by Benjamin Ho, 9 January 2018, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 004236), 16–17.
+[^3]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Benjamin Ho, 9 January 2018, transcript and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore (accession no. 004236), 16–17.
 
 [^4]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies”; Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
@@ -164,21 +164,21 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^7]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 9 January 2018, Reel/Disc 1 of 10, 2, 9.
 
-[^8]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 12, 14, 16.
+[^8]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 9 January 2018, Reel/Disc 1 of 10, 12, 14, 16.
 
-[^9]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 17.
+[^9]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 9 January 2018, Reel/Disc 1 of 10, 17.
 
 [^10]: Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
-[^11]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 18, 19.
+[^11]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 9 January 2018, Reel/Disc 1 of 10, 18, 19.
 
-[^12]: Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1)”; [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 19, 20; “Subaraj Rajathurai,” Strix Wildlife Consultancy, accessed 30 September 2022, https://www.subaraj.com/www.subaraj.com/index.html.
+[^12]: Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1)”; [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 9 January 2018, Reel/Disc 1 of 10, 19, 20; “Subaraj Rajathurai,” Strix Wildlife Consultancy, accessed 30 September 2022, https://www.subaraj.com/www.subaraj.com/index.html.
 
 [^13]: Lim and Low, “‘Gentle Giant’ and Iconic Conservationist Subaraj Rajathurai Dies.”
 
 [^14]: Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
-[^15]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 20, 21; Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
+[^15]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 9 January 2018, Reel/Disc 1 of 10, 20, 21; Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 
 [^16]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 20, 21.
 
