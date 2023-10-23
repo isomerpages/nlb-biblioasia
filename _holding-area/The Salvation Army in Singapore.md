@@ -71,6 +71,14 @@ According to the report by Lord, in the first year, “571 interviews had been g
 
 In 1938, the Army opened the Discharged Prisoners’ Home on Race Course Road to provide a temporary hostel for those recently released from prison and to tide them over while employment was being found. “The Home will not be a final stopping place for them,” said Lord. “It would fulfil an urgent need, however, as many men coming out did want some place to which they could go for a few days.” The Singapore Aftercare Association bore the rent for the home.[^32]
 
+#### **The War**
+
+When the British surrendered Singapore on 15 February 1942, Japanese troops swept through the island, eventually entering the Army’s headquarters at Temple House (now the House of Tan Yeok Nee) at the junction of then Tank Road (now Clemenceau Avenue) and Penang Road.&nbsp;
+
+Tan recalled: “And they \[Japanese troops\] came into the Salvation Army Headquarters... and Yamashita \[Tomoyuki\], the General, wanted that place... We were fortunate because... Brigadier Lord and... Major \[Chas. F.\] Davidson... were able to speak Japanese... So they were able to ask... for certain things: ‘Can we take our things? We need our food and stuff.’... And we managed to get a piece of paper, all written in Japanese.”33
+
+That piece of paper proved invaluable. Tan said: “\[W\]e pasted it under a glass on the front door \[of 30 Oxley Road, its then location of the Women’s industrial Home\] and put a piece of wood behind it and nailed it. So that nobody could tear it or take it away. You know, that was a very precious piece of writing whatever it was… And... it was with the stamp of the General \[Yamashita\]. So nobody dared to come and molest us or do any harm to us... Because whenever the soldiers came in afterwards, we... bowed to them and tried to smile but pointed to the piece of paper on the door... We were very grateful for that piece of paper.”34
+
 The Army headquarters was stacked floor to ceiling with cartons of tinned food and bags of rice that British soldiers and civilians had helped Salvationists salvage from bombed-out warehouses, according to Tan.35 In addition to the paper guaranteeing safe passage, the Salvationists were also given one day to move as much of the food as they could haul to 30 Oxley Road.&nbsp;
 
 During the Japanese Occupation, while male European Salvationists were interned, two European women officers were able to continue their work outside the internment camp for several months before they were taken in.36 Together with the Asian Salvationists like Tan, they were dressed in their white Army uniforms and identified with arm bands issued by the Japanese.&nbsp;
