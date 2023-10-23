@@ -3,9 +3,7 @@ title: Director's Column
 permalink: /vol-6/issue-2/jul-2010/director-column/
 description: ""
 ---
-**The eagerly awaited exhibition Rihlah – Arabs in Southeast Asia (*Rihlah means journey in Arabic*) was launched at the National Library on 10 April**.
-
-To be held till October, the exhibition acknowledges the close ties between Southeast Asia and the Arab community. On display are photographs and artefacts ranging from personal documents to musical instruments many of which are on public display for the first time. Be enthralled by the rich history and culture of the Arabs in Southeast Asia. This exhibition is definitely a visual feast not to be missed.
+The eagerly awaited exhibition “Rihlah – Arabs in Southeast Asia” (*rihlah* is Arabic for “journey”) was launched at the National Library on 10 April. To be held till October, the exhibition acknowledges the close ties between Southeast Asia and the Arab community. On display are photographs and artefacts ranging from personal documents to musical instruments many of which are on public display for the first time. Be enthralled by the rich history and culture of the Arabs in Southeast Asia. This exhibition is definitely a visual feast not to be missed.
 
 The “Spotlight” article documents the development of the Tamil literary scene in Singapore which has more than one hundred years of history. Featured in the article are some Tamil literary pioneers who have contributed significantly to the growth of Tamil literature in Singapore. Some major Tamil literary works are also mentioned in the article.
 
