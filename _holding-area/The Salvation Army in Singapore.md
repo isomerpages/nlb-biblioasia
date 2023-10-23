@@ -6,7 +6,7 @@ description: The history of the Salvation Army in Singapore goes back to at leas
 #### The history of the Salvation Army in Singapore goes back to at least 1935.
 
 
-![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image1-rev.jpg)
+![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image.jpg)
 <div style="background-color: white;">William Lim, c. mid-2010s. <i>Courtesy of Lim Family.</i></div>
 
 
