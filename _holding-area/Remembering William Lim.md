@@ -43,6 +43,7 @@ Lim’s legacy lives on through his works as well as the next generation whose l
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
 <b> TO DRAW AN IDEA: RETRACING THE DESIGNS OF WILLIAM LIM ASSOCIATES – W ARCHITECTS</b>
+<br>
 </div>
 	
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
@@ -50,7 +51,7 @@ Lim’s legacy lives on through his works as well as the next generation whose l
 Organised by the Urban Redevelopment Authority and National Library Board, “To Draw an Idea” explores the works of one of Singapore’s most respected practices, set up by pioneer architect William Lim. Lim established William Lim Associates in 1981 after he left DP Architects. After Lim retired in 2003, the firm was renamed W Architects and it is now led by Mok Wei Wei and Ng Weng Pan.</div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-This exhibition looks at how the practice evolved against the backdrop of Singapore’s developing architectural scene over the last four decades. The many drawings displayed are not finished products and present in-progress snapshots of William Lim Associates’ and W Architects’ design process. The exhibition is scheduled to run from 28 November 2023 to 8 June 2024 at the URA Centre (Level 1 Atrium).</div><br>
+This exhibition looks at how the practice evolved against the backdrop of Singapore’s developing architectural scene over the last four decades. The many drawings displayed are not finished products and present in-progress snapshots of William Lim Associates’ and W Architects’ design process. The exhibition is scheduled to run from 28 November 2023 to 8 June 2024 at the URA Centre (Level 1 Atrium).</div>
 </div>
 
 <div style="background-color: #e0facf; padding:15px; margin: 10px; font-size=120%">
@@ -85,7 +86,7 @@ Digital print on paper with ink annotations<br>
 297x420mm<br>
 B29488115E_0001<br>
 <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i>
-</div><br>
+</div>
 </div>
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
@@ -103,7 +104,7 @@ A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s�
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 The works featured in the exhibition, “To Draw an Idea”, are part of the <a href="https://www.nlb.gov.sg/main/partner-us/Donate-to-our-Collections/highlights/Singapore-Architecture-Collection">Singapore Architecture Collection</a>, which showcases the country’s architectural and urban design journey, as well as the innovative works of pioneer and current architects and designers. The collection comprises architectural models, photographs, drawings, artefacts, oral history recordings and more. The collection forms part of a larger collaborative effort with the National Heritage Board, including the various museums, to build up a collection for the nation that covers a range of design disciplines, from fashion to graphic design and architecture.
-</div><br>
+</div>
 </div>
 	
 
