@@ -10,6 +10,11 @@ Although Talentime has been replaced by reality talent contests, it will be reme
  <img src="/images/Vol%2019%20Issue%204/7%20Talentime/photo1%20-%20rev1.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/videos/reels/arts/"> Professor Yu Chun Yee Plays on NLB's Heritage Piano</a>
+ <p>Professor Yu, who used to teach at the Royal College of Music in London, plays on the refurbished Chappell grand at the National Library.</p> 
+ <img style="width:100%;" src="/images/Videos:%20BiblioAsia%20Reels/prof%20yu%20chun%20yee.jpg"> 
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano">A Grand Piano's Chequered History</a>
 A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it.
 
