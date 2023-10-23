@@ -162,7 +162,7 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^6]: Leong Siew Lin, “Doing What Comes Naturally, That’s Sparrowhawk Subaraj,” [_Nature Watch_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6787394) (July–September 1994): 27. (From National Library, Singapore, call no. RSING q508.5957 NW)
 
-[^7]: [Subaraj Rajathurai](     https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236\_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews\_brandingLogo\_.png&amp;pn=21), interview, 9 January 2018, Reel/Disc 1 of 10, 2, 9.
+[^7]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 9 January 2018, Reel/Disc 1 of 10, 2, 9.
 
 [^8]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/), interview, 9 January 2018, Reel/Disc 1 of 10, 12, 14, 16.
 
