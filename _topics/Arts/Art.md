@@ -9,12 +9,6 @@ third_nav_title: Arts
  <img style="width:70%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/diard_duvaucel%20cover1.jpg"> 
 <hr>
 
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/videos/reels/arts/"> Professor Yu Chun Yee Plays on NLB's Heritage Piano</a>
- <p>Professor Yu, who used to teach at the Royal College of Music in London, plays on the refurbished Chappell grand at the National Library.</p> 
- <img style="width:100%;" src="/images/Videos:%20BiblioAsia%20Reels/prof%20yu%20chun%20yee.jpg"> 
-<hr>
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals"> The Forgotten Murals of Paya Lebar Airport</a>
  <p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p> 
  <img style="width:100%;" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> 
