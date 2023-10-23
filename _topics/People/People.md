@@ -4,6 +4,12 @@ permalink: /topics/people/
 description: ""
 third_nav_title: People
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a>
+The late architect William Lim did more than shape Singapore’s skyline. He was also deeply passionate about urban planning, culture, the arts and engaging the next generation.
+
+<img src="/images/Vol%2019%20Issue%204/6%20William%20Lim/william-lim.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/">The Curious Visit of Qing Ambassadors to Singapore</a>
 The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
 
