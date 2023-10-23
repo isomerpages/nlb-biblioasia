@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Arts
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/talentime-history-singapore/">Singapore's Got Talent: A Brief History of Talentime</a>
-Although Talentime has been replaced by reality talent contests, it will be remembered as a show that launched the musical careers of many Singaporeans.
+Although Talentime has been replaced by reality talent contests, it will be remembered as a show that launched the musical careers of many Singaporeans.<br>
 
-<img src="/images/Vol%2019%20Issue%203/Piano%20Repair%20Process/zhivko%20girginov%201.jpg">
+ <img src="/images/Vol%2019%20Issue%204/7%20Talentime/photo1%20-%20rev1.png">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano">A Grand Piano's Chequered History</a>
