@@ -71,10 +71,23 @@ According to the report by Lord, in the first year, “571 interviews had been g
 
 In 1938, the Army opened the Discharged Prisoners’ Home on Race Course Road to provide a temporary hostel for those recently released from prison and to tide them over while employment was being found. “The Home will not be a final stopping place for them,” said Lord. “It would fulfil an urgent need, however, as many men coming out did want some place to which they could go for a few days.” The Singapore Aftercare Association bore the rent for the home.32
 
-#### **The War**
+The Army headquarters was stacked floor to ceiling with cartons of tinned food and bags of rice that British soldiers and civilians had helped Salvationists salvage from bombed-out warehouses, according to Tan.35 In addition to the paper guaranteeing safe passage, the Salvationists were also given one day to move as much of the food as they could haul to 30 Oxley Road.&nbsp;
 
-When the British surrendered Singapore on 15 February 1942, Japanese troops swept through the island, eventually entering the Army’s headquarters at Temple House (now the House of Tan Yeok Nee) at the junction of then Tank Road (now Clemenceau Avenue) and Penang Road.&nbsp;
+During the Japanese Occupation, while male European Salvationists were interned, two European women officers were able to continue their work outside the internment camp for several months before they were taken in.36 Together with the Asian Salvationists like Tan, they were dressed in their white Army uniforms and identified with arm bands issued by the Japanese.&nbsp;
 
-Tan recalled: “And they \[Japanese troops\] came into the Salvation Army Headquarters... and Yamashita \[Tomoyuki\], the General, wanted that place... We were fortunate because... Brigadier Lord and... Major \[Chas. F.\] Davidson... were able to speak Japanese... So they were able to ask... for certain things: ‘Can we take our things? We need our food and stuff.’... And we managed to get a piece of paper, all written in Japanese.”33
+#### **Postwar Recovery**
 
-That piece of paper proved invaluable. Tan said: “\[W\]e pasted it under a glass on the front door \[of 30 Oxley Road, its then location of the Women’s industrial Home\] and put a piece of wood behind it and nailed it. So that nobody could tear it or take it away. You know, that was a very precious piece of writing whatever it was… And... it was with the stamp of the General \[Yamashita\]. So nobody dared to come and molest us or do any harm to us... Because whenever the soldiers came in afterwards, we... bowed to them and tried to smile but pointed to the piece of paper on the door... We were very grateful for that piece of paper.”34
+Although lasting less than four years, the Japanese Occupation left Singapore with scores of social issues: poverty, homelessness, hunger, crime, broken families, juvenile delinquency, gambling, opium addiction, and displaced and missing persons.&nbsp;
+
+The organisation of the War Relief Fund brought the interned Army officers quickly back to active duty. They took charge of the entire operation “including investigation and relief distribution, from a relief centre set up in the Victoria Memorial Hall”.37&nbsp;
+
+So quickly did the Army work that by October 1945, Colonel Bertha Grey, the first matron of the girls’ home on River Valley Road and the social secretary of the Army, had gotten the homes going again and Salvationists were staffing the People’s Restaurants.38 These “restaurants” scattered in town provided cheap meals for workers amid rising food prices. They had been started by the newly set-up Social Welfare Department established in April 1946 when the British Military Administration ended.&nbsp;
+
+On top of training to be Salvationists, many were also taught to undertake the social work tasks that were part and parcel of their evangelical work. In fact, the Army had been the only agency training social workers until the Department of Social Work was set up in the University of Malaya in 1952. Because Salvationists were among the earliest to receive social work training as part of their evangelical mission, some became the pioneer staff at the new Social Welfare Department.&nbsp;
+
+“Usually, most of the staff that helped the Social Welfare came from the Salvation Army,” said Tan. “You see, there was nothing, nobody was trained. Nobody was able to do the work… The practical part of it \[running the homes and providing social services\] was all run by most of the Salvation Army officers.”39
+
+In the immediate postwar years, the Army also undertook the arduous process of restoring their war-damaged Temple House headquarters. So named because of its Chinese-style architecture (known today as the House of Tan Yeok Nee), the property had been leased in January 1938 as the Army’s headquarters. A property then of the Church of England, it had once been a residence for girls called St Mary’s Home.40
+
+In 1940, the Army had acquired the place for $50,000 with a loan of $25,000 from the Straits Settlements government and a grant of $25,000 from its London headquarters. The building also became a training centre and accommodation for married officers.41 Restoration took six years, and in 1951, Governor of Singapore Franklin Gimson officially opened the building as The Salvation Army Command Headquarters.42
+
