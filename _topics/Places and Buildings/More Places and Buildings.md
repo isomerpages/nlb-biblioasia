@@ -55,8 +55,7 @@ Singapore has been burrowing underground since the 19th century, but it was only
 <img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/">They Died for All Free Men: Stories from Kranji War Cemetery
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/">They Died for All Free Men: Stories from Kranji War Cemetery</a>
 
 Remembering those who died while fighting the Japanese during World War II.
 
