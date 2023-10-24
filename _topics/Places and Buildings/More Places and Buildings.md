@@ -69,8 +69,7 @@ Sennett Estate is a unique milestone in the history of housing development in Si
 <img src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-padang/">A History of The Padang
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-padang/">A History of The Padang</a>
 
 **Kevin Tan**&nbsp;looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
 
