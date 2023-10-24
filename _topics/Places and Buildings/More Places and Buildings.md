@@ -28,8 +28,7 @@ Some Chinese bookstores in Singapore have managed to survive despite the challen
 <img src="/images/Vol%2018%20Issue%204/Chinese%20Bookstores_Chinese/View%20of%20North%20Bridge%20Road.jpg">  
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/">
-From Sarong Island With Love: Singapore’s Original Tourist Isle	</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/">From Sarong Island With Love: Singapore’s Original Tourist Isle</a>
 
 Before there was Sentosa, there was Sarong Island.
 
