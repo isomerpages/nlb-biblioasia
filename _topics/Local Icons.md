@@ -15,6 +15,14 @@ Established in 1972, Singapore Airlines has earned a reputation as a well-recogn
 <img src="/images/Vol%2018%20Issue%202/The%20Singapore%20Airlines%20Story/A%20Great%20Way%20to%20Fly:%20The%20Singapore%20Airlines%20Story%20-%20Image%201.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-padang/">A History of The Padang
+</a>
+
+**Kevin Tan**&nbsp;looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
+
+<img src="/images/Vol%2018%20Issue%201/The%20Padang/padang12.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/history-cathay-cinema-2022">Key Milestones in the History of Cathay Cinema</a>
 The closing of Cathay cinema at Handy Road, one of Singapore’s oldest cinemas, marks the end of an era. Here’s a look at the Cathay Building and cinema over the years.
 
