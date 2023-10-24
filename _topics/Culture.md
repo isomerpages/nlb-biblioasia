@@ -33,5 +33,10 @@ The story of how Johor ended up at the Chicago World’s Fair is an unexpected t
 <img src="/images/Vol%2018%20Issue%203/Johor%201893/johor_cover.jpg"> 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore/">How Chinese Buddhist Women Shaped the Food Landscape in Singapore</a>
 
+Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism.
+
+<img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png">
+<hr>
 
