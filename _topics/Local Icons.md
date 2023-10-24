@@ -23,11 +23,20 @@ Established in 1972, Singapore Airlines has earned a reputation as a well-recogn
 <img src="/images/Vol%2018%20Issue%201/The%20Padang/padang12.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital/">Labouring to Deliver: A History of Kandang Kerbau Hospital</a>
+
+The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. **Joanna Tan** delivers the story behind a hallowed Singapore institution.
+
+<img src="/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001245%20IMG0083.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/history-cathay-cinema-2022">Key Milestones in the History of Cathay Cinema</a>
 The closing of Cathay cinema at Handy Road, one of Singapore’s oldest cinemas, marks the end of an era. Here’s a look at the Cathay Building and cinema over the years.
 
 <img src="/images/Cathay/cathay-interior.jpg">
 <hr>
+
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/jurong-bird-park">How Jurong Bird Park was Hatched</a>
 On the 50th anniversary of its opening, Zoe Yeo gives us a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
