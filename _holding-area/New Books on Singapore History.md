@@ -9,8 +9,7 @@ By Faris Joraimi, Liew Kai Khiun, Abhishek Mehrotra and Jesse O’Neill
 National Library Board, Singapore (2023), ebook  <br>
 go.gov.sg/coa22
  
-![](/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover1.png)
-
+![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia.jpg)
 
 _Chapters on Asia (2022)_ features papers by the National Library’s Lee Kong Chian Research Fellows. With research based on the collections of the National Library and the National Archives of Singapore, this edition features essays on 19th-century Malay travellers, women’s participation in computerisation in Malaya (1930–65), representation of race in Singapore’s 19th-century English newspapers, and public bathing in Singapore before World War II.
 
