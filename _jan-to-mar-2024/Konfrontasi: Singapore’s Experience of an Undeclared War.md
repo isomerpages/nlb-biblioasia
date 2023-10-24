@@ -198,7 +198,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^29]: Abisheganaden, “[‘Assassinate the Tengku’ Order](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640423-1.2.2).”
 
-[^30]: Jaime Koh, “[Vigilante Corps](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-29_151550.html),” in _Singapore Infopedia_. From National Library Board Singapore. Article published 29 March 2016. The Vigilante Corps was absorbed into the Special Constabulary on 22 September 2022, marking the end of 55 years of service to the nation. See “SPF’s Vigilante Corps: The End of an Era,” _Frontline_, 12 January 2023, https://www.hometeamns.sg/frontline/spfs-vigilante-corps-the-end-of-an-era/.
+[^30]: Jaime Koh, “[Vigilante Corps](https://www.nlb.gov.sg/main/article-detail?cmsuuid=40185533-19f8-449a-b12c-91b2434f5b82),” in _Singapore Infopedia_. From National Library Board Singapore. Article published 29 March 2016. The Vigilante Corps was absorbed into the Special Constabulary on 22 September 2022, marking the end of 55 years of service to the nation. See “SPF’s Vigilante Corps: The End of an Era,” _Frontline_, 12 January 2023, https://www.hometeamns.sg/frontline/spfs-vigilante-corps-the-end-of-an-era/.
 
 [^31]: “[Big Hunt for Killers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650304-1.2.3),” _Straits Times_, 4 March 1965, 1. (From NewspaperSG)
 
