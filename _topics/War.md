@@ -76,3 +76,10 @@ The 1970s are often remembered as a time of rapid economic transformation and pr
 <img src="/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%201.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia/">The Final Hours of the Empress of Asia</a>
+
+The Empress of Asia sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
+
+<img src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg">
+<hr>
+
