@@ -36,4 +36,10 @@ Sennett Estate is a unique milestone in the history of housing development in Si
 <img src="/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan%20Bintang%20Tiga%20(2020)%20(orig).png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/towkays-houses/">Towkays at Home in Singapore</a>
+Mandalay Villa. House of Jade. House of Teo Hoo Lye. Yap Jo Lin gives us a tour of three opulent homes from the early 20th century.
+
+<img src="/images/vol-17-issue-4/towkay-house/Main-TKH.jpg">
+<hr>
+
 
