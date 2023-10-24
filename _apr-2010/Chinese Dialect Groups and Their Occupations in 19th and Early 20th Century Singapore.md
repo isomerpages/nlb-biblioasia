@@ -114,13 +114,13 @@ In the past, dialect group identity played an important role in the choice of oc
 
 There are a number of factors that have brought about this change, one of which could be occupational differentiation. When the island was first founded, the jobs available to the new immigrants were labour-intensive ones that were mostly associated with the primary sectors. The requirements for jobs were similar and employers tended to hire based on similar dialect origins, which also guaranteed similar language, culture and a certain level of trust (Mak, 1995). As the economy advanced and grew, jobs grew in complexity and required different skill sets. As a result, employers began to hire according to one’s skills or education rather than dialect group association. The presence of job placement and training agencies also perpetuated the importance of skills in a successful job search.
 
-A second reason for dialect group erosion could be the decreasing need to maintain ties with clansmen (Tan, 1986). Early immigrants felt a need to band together within similar dialect groups for security and support in a new environment. However, generations later, there is a much lower sense of cultural affinity to China, and a greater focus on nation-building in a multicultural Singapore instead.
+A second reason for dialect group erosion could be the decreasing need to maintain ties with clansmen (Tan, 1986). Early immigrants felt a need to band together within similar dialect groups for security and support in a new environment. However, generations later, there is a much lesser sense of cultural affinity to China, and a greater focus on nation-building in a multicultural Singapore instead.
 
-Another important factor that contributed to the erosion of dialect group identity would be the “Speak Mandarin” campaign launched in 1979, which promoted the use of Mandarin as a common language in a bid to unify the Chinese of different dialect groups.
+Another important factor that contributed to the erosion of dialect group identity would be the Speak Mandarin Campaign launched in 1979, which promoted the use of Mandarin as a common language in a bid to unify the Chinese of different dialect groups.
 
 
 #### **Conclusion**
-The early Chinese settlers who migrated to Singapore in the 19th and early 20th centuries banded together in their respective dialect groupings for security and support in a new environment, which reinforced the occupational specialisations associated with special dialect groups. Hokkiens, being early arrivals, had gained a lion’s share in lucrative trades like commerce, banking, shipping, and manufacturing, while Teochews were mostly agriculturalists and their financial strength was anchored in the planting and marketing of gambier and pepper. Cantonese dominated the crafts-related trades, Hakkas in pawnbroking, and Hainanese featured prominently in the services sector. While patterns could be observed between the types of occupations and dialect groups, it should be pointed out that the situation of “one dialect group one occupation” never existed and could only be regarded as a myth (Mak, 1995). Hence, even when a dialect group dominated a particular trade, there might still exist minority members from other dialect groups who were involved in the same trade.
+Early Chinese settlers who migrated to Singapore in the 19th and early 20th centuries banded together in their respective dialect groupings for security and support in a new environment, which reinforced the occupational specialisations associated with special dialect groups. The Hokkiens, being early arrivals, had gained a lion’s share in lucrative trades like commerce, banking, shipping, and manufacturing, while the Teochews were mostly agriculturalists and their financial strength was anchored in the planting and marketing of gambier and pepper. The Cantonese dominated the crafts-related trades, the Hakkas in pawnbroking, and the Hainanese featured prominently in the services sector. While patterns could be observed between the types of occupations and dialect groups, it should be pointed out that the situation of “one dialect group one occupation” never existed and could only be regarded as a myth (Mak, 1995). Hence, even when a dialect group dominated a particular trade, there might still exist minority members from other dialect groups who were involved in the same trade.
 
 Today, dialect groupings no longer play such an important role in occupational choice. While employers in the past tended to hire based on similar dialect origin, such clan affiliations are no longer as important in today’s recruitment scene, and have given way to other employment considerations such as educational qualifications and suitable skill sets instead.
 
@@ -132,7 +132,7 @@ Today, dialect groupings no longer play such an important role in occupational c
 
 #### **REFERENCES**
 
-B. W. Hodder, “Racial Groupings in Singapore,” [_The Journal of Tropical Geography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=909965) 1 (1953), 25–36. (Call no. RCLOS 910.0913 JTG; microflm NL10327)
+B.W. Hodder, “Racial Groupings in Singapore,” [_The Journal of Tropical Geography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=909965) 1 (1953), 25–36. (Call no. RCLOS 910.0913 JTG; microflm NL10327)
 
 Bonny Tan and Jane Wee, “[Tan Kah Kee](https://eresources.nlb.gov.sg/infopedia/articles/SIP_839_2004-12-28.html),” _Singapore Infopedia_, published 2016.
 
@@ -142,13 +142,13 @@ Cynthia Chou, “Teochews in the Kelong Industry,” in [_Chinese Dialect Groups
 
 Cynthia Chou and Lim Puay Yin, “Hokkiens in the Provision Shop Business,” in [_Chinese Dialect Groups: Traits and Trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946), ed. Thomas T.W. Tan (Singapore: Opinion Books, 1990), 21–37. (Call no. RSING 305.8951095957 CHI)
 
-J. D. Vaughan, [_The Manners and Customs of the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6340458) (Singapore: Oxford University Press, 1974). (Call no. RSING 390.0951 VAU)
+J.D. Vaughan, [_The Manners and Customs of the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6340458) (Singapore: Oxford University Press, 1974). (Call no. RSING 390.0951 VAU)
 
 Jeanne Louise Conceicao, “[Hainanese Community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1492_2009-03-25.html),” _Singapore Infopedia_, published 2009.
 
 Leow Bee Geok, [_Census of Population 2000: Demographic Characteristics. Statistical Release 1_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10405142) (Singapore: Department of Statistics, Ministry of Trade and Industry, 2001). (Call no. RSING q304. 6021095957 LEO)
 
-Li Y. Y., _Yige yi zhi de shi zhen: Ma lai ya huaren shi zhen shenghuo de diaocha yanjiu_ 一個移殖的市鎮：馬來亞華人市鎮生活的調查研究 \[An immigrant town: Life in a Chinese immigrant community in Southern Malaya\] (Taipei: Institute of Ethnology, Academemia Sinica, 1970)
+Li Y.Y., _Yige yi zhi de shi zhen: Ma lai ya huaren shi zhen shenghuo de diaocha yanjiu_ 一個移殖的市鎮：馬來亞華人市鎮生活的調查研究 \[An immigrant town: Life in a Chinese immigrant community in Southern Malaya\] (Taipei: Institute of Ethnology, Academemia Sinica, 1970)
 
 Mak Lau Fong, [_The Sociology of Secret Societies: A Study of Chinese Secret Societies in Singapore and Peninsula Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2622166) (New York: Oxford University Press, 1981). (Call no. RSING 366.095957 MAK)
 
@@ -168,17 +168,17 @@ Thomas Braddell, “Notices of Singapore,” [_Journal of Indian Archipelago and
 
 Thomas Braddell, “Notes on the Chinese in the Straits of Malacca,” [_Journal of the Indian Archipelago and Eastern Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604) 9, no. 2 (1855), 109–24. (Call no. RRARE 950.05 JOU; microfilm NL25797)
 
-Thomas T. W. Tan, ed., [_Chinese Dialect Groups: Traits and Trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946) (Singapore: Opinion Books, 1990). (Call no. RSING 305.8951095957 CHI)
+Thomas T.W. Tan, ed., [_Chinese Dialect Groups: Traits and Trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946) (Singapore: Opinion Books, 1990). (Call no. RSING 305.8951095957 CHI)
 
 Thomas Tsu-Wee Tan, (Singapore: Times Books International, 1986). (Call no. RSING 301.451951 TAN)
 
-W. A. Pickering, “The Chinese in the Straits of Malacca,” _Fraser’s Magazine_ (October 1876), 440.
+W.A. Pickering, “The Chinese in the Straits of Malacca,” _Fraser’s Magazine_ (October 1876), 440.
 
 W. Bartley, “Population of Singapore in 1819,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 11, no. 2 (December 1933), 177. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), vol. 1. (London: John Murray, 1921). (Call no. RCLOS 959.57 ONE)
 
-Yap M. T., “Hainanese in the Restaurant and Catering Business,” in [_Chinese Dialect Groups: Traits and Trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946), ed. Thomas T.W. Tan (Singapore: Opinion Books, 1990), 78–90. (Call no. RSING 305.8951095957 CHI)
+Yap M.T., “Hainanese in the Restaurant and Catering Business,” in [_Chinese Dialect Groups: Traits and Trades_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5681946), ed. Thomas T.W. Tan (Singapore: Opinion Books, 1990), 78–90. (Call no. RSING 305.8951095957 CHI)
 
 Yen Ching-Hwang, [_A Social History of the Chinese in Singapore and Malaya 1800–1911_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4182822) (Singapore: Oxford University Press, 1986). (Call no. RSING 301.45195105957 YE)
 
@@ -186,5 +186,5 @@ Yen Ching-Hwang, [_A Social History of the Chinese in Singapore and Malaya 1800�
 
 [^1]: Pee: a crude slang implying a lady’s genitals.
 
-[^2]: Cheng Lim-Keak, [_Social Change and the Chinese in Singapore: A Socio-Economic Geography With Special Reference To Bang Structure_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082374) (Singapore: Singapore University Press, 1985). (Call no. RSING 369.25957 CHE)
-claimed that between the years 1891 and 1947, Cantonese were the second largest group after Hokkiens, and were only overtaken by Teochews in numbers after 1947.
+[^2]: Cheng Lim-Keak ([_Social Change and the Chinese in Singapore: A Socio-Economic Geography With Special Reference To Bang Structure_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082374) (Singapore: Singapore University Press, 1985). (Call no. RSING 369.25957 CHE))
+claimed that between the years 1891 and 1947, the Cantonese were the second-largest group after the Hokkiens, and were only overtaken by the Teochews in numbers after 1947.
