@@ -27,3 +27,11 @@ Chinese bookstore Union Book has seen many changes over the last seven decades.
 <img src="/images/Vol%2018%20Issue%203/Union%20Book/1_coverimage.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema/">Movies Beneath A Starry, Starry Night</a>
+
+The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyday in the 1970s, it was packed bumper to bumper with vehicles. Sharon Teng tracks its rise and subsequent decline.
+
+<img src="/images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_bg.png">
+<hr>
+
+
