@@ -22,9 +22,11 @@ The Singapore Teachers’ Union wanted a clubhouse. They ended up building a hou
 <img src="/images/Vol%2019%20Issue%201/Teacher's%20Housing%20Estate/Teachers'_housing_estate.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate/">This Was Once Singapore’s Largest Planned Housing Development: A History of Sennett Estate</a>
 
+Sennett Estate is a unique milestone in the history of housing development in Singapore, and its quiet streets have had its fair share of excitement over the years.
 
-
-
+<img src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png">
+<hr>
 
 
