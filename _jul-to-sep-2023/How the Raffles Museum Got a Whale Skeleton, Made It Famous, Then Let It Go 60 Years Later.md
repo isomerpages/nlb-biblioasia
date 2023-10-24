@@ -161,13 +161,13 @@ The new museum was clearly still missing something: Jubi Lee’s debut in local 
 
 [^18]: Aroozoo, “[‘Redeeming’ Malayan History](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600924-1.2.46).”
 
-[^19]: Alvin Chua, “[Lee Kong Chian Natural History Museum](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1689_2010-07-15.html),” in *Singapore Infopedia*. From National Library Board. Article published 15 July 2020. 
+[^19]: Alvin Chua, “[Lee Kong Chian Natural History Museum]( (https://www.nlb.gov.sg/main/article-detail?cmsuuid=31a00307-ba27-4490-a422-7d598399b226),” in *Singapore Infopedia*. From National Library Board. Article published 15 July 2020. 
 
 [^20]: Timothy P. Barnard, ed., [*Nature Contained: Environmental Histories of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200148897) (Singapore: NUS Press, 2014), 179–211. (From National Library, Singapore, call no. RSING 304.2095957 NAT); Roland Sharma, “The Zoological Reference Collection: The Interim Years 1972–1980,” in [*Our Heritage: Zoological Reference Collection: Official Opening Souvenir Brochure*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200027585) (Singapore: National University of Singapore, 1988), 10. (From PublicationSG)  
 
 [^21]: Tan Sai Siong, “[No Gimmicks Please, Just the Whole Singapore Story](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19971031-1.2.92.8?),” *Straits Times*, 31 October 1997, 6. (From NewspaperSG)
 
-[^22]: Chua, “[Lee Kong Chian Natural History Museum](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1689_2010-07-15.html).”
+[^22]: Chua, “[Lee Kong Chian Natural History Museum](https://www.nlb.gov.sg/main/article-detail?cmsuuid=31a00307-ba27-4490-a422-7d598399b226).”
 
 [^23]: “[A Whale of a Gift for Malaysian National Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740506-1.2.51),” *Straits Times*, 6 May 1974, 8. (From NewspaperSG)
 
