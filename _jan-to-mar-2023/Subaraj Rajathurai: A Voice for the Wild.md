@@ -184,7 +184,7 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^17]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 9 January 2018, Reel/Disc 1 of 10, 21.
 
-[^18]: Lee Meiyu and Fiona Lim, “[Bukit Timah Nature Reserve](https://eresources.nlb.gov.sg/infopedia/articles/SIP_55_2004-12-20.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 19 November 2015.
+[^18]: Lee Meiyu and Fiona Lim, “[Bukit Timah Nature Reserve](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0c96eac2-2c65-4d1b-81b2-bf49eb626175),” in _Singapore Infopedia_. National Library Board Singapore. Article published 19 November 2015.
 
 [^19]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 9 January 2018, Reel/Disc 1 of 10, 21, 22.
 
