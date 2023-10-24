@@ -10,6 +10,12 @@ As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice.
 <img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital/">Labouring to Deliver: A History of Kandang Kerbau Hospital</a>
+
+The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. **Joanna Tan** delivers the story behind a hallowed Singapore institution.
+
+<img src="/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001245%20IMG0083.png">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/vaccinating-nation"> Vaccinating a Nation</a>
 <p>The history of vaccination in Singapore goes back to the days of William Farquhar. Ong Eng Chuan provides an overview of vaccination efforts to prevent epidemics from breaking out here.</p> 
