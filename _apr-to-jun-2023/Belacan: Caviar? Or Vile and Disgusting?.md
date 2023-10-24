@@ -179,7 +179,7 @@ Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Artic
 
 [^1]: “PM Lee Expresses Appreciation to Malaysia’s Queen for ‘Royal’ Sambal Belacan,” *Today*, 29 October 2019, https://www.todayonline.com/singapore/pm-lee-expresses-appreciation-permaisuri-agong-royal-sambal-belacan.
 
-[^2]: Hugh Clifford, [*In Court &amp; Kampong: Being Tales &amp; Sketches of Native Life in the Malay Peninsula*](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx) (London: Grant Richards, 1897), 137. (From BookSG)
+[^2]: Hugh Clifford, [*In Court &amp; Kampong: Being Tales &amp; Sketches of Native Life in the Malay Peninsula*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26) (London: Grant Richards, 1897), 137. (From BookSG)
 
 [^3]: John Crawfurd, [*A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries*](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx) (London: Bradbury &amp; Evans, 1856), 27. (From BookSG). Also see Gracie Lee, “[Crawfurd on Southeast Asia](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd),” *BiblioAsia* 11, no. 4 (January–March 2016): 16 –17. For more information on garum, see Sally Grainger, [*The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205370569) (Abingdon, Oxon; New York, NY: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
 
