@@ -42,8 +42,7 @@ The story of how Johor ended up at the Chicago World’s Fair is an unexpected t
 <img src="/images/Vol%2018%20Issue%203/Johor%201893/johor_cover.jpg"> 
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/">
-Union Book Stands Tall At 70</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/">Union Stands Tall At 70</a>
 
 Chinese bookstore Union Book has seen many changes over the last seven decades.
 
@@ -107,4 +106,3 @@ Singapore’s history is closely intertwined with that of Lingga’s. The kings 
 
 <img src="/images/vol-17-issue-4/mother-island/Lingga.jpg">
 <hr>
-
