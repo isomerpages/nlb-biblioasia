@@ -7,7 +7,6 @@ description: ""
 While the Monetary Authority of Singapore was established in 1971, it only became a full-fledged central bank some 30 years later.
 
 <img style="width:80%;" src="/images/Vol%2018%20Issue%203/MAS/1_MASbuilding.jpg">  
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-singapore-airlines">A Great Way to Fly: The Singapore Airlines Story</a>
@@ -38,8 +37,8 @@ As Singapore’s Changi Airport marks its 40th anniversary in 2021, Rebecca Tan 
 <img src="/images/vol-17-issue-3/how-changi-airport-came-to-be/Facing%20Page2.jpg">
 
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/shipyards-keppel-sembawang">The Story of Two Shipyards: Keppel & Sembawang</a>
-Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry. Wee Beng Geok traces the colonial origins of these two companies.
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/shipyards-keppel-sembawang">The Story of Two Shipyards: Keppel &amp; Sembawang</a>
+Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry.&nbsp;Wee Beng Geok&nbsp;traces the colonial origins of these two companies.
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/oriental-emporium/">Oriental Emporium: The End of an Era</a>
@@ -47,11 +46,11 @@ The Emporium chain of department stores entered the scene when the retail market
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/rdifs-gden-yrs/">Rediffusion’s Golden Years</a>
-Singapore’s only cable radio service was an instant hit when it was launched in 1949. Barbara Quek charts the history of the pioneering broadcasting station.
+Singapore’s only cable radio service was an instant hit when it was launched in 1949.&nbsp;Barbara Quek&nbsp;charts the history of the pioneering broadcasting station.
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/modern-by-design/">Becoming Modern By Design</a>
-The now-defunct Baharuddin Vocational Institute was Singapore’s first formal school for design. Justin Zhuang looks at how the institute laid the foundation for the design industry here.
+The now-defunct Baharuddin Vocational Institute was Singapore’s first formal school for design.&nbsp;Justin Zhuang&nbsp;looks at how the institute laid the foundation for the design industry here.
 
 
 
