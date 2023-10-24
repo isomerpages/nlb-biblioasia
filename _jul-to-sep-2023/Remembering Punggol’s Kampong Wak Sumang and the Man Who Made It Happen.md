@@ -199,7 +199,7 @@ The National Archives, UK,
 
 [^7]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 6.
 
-[^8]: Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 6, 10, 24. &nbsp;
+[^8]: Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 6, 10, 24. &nbsp;
 
 [^9]: Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 18.
 
