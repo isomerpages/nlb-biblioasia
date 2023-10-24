@@ -3,6 +3,14 @@ title: Medicine
 permalink: /topics/medicine/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist/">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a>
+
+As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice.
+
+<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png">
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/vaccinating-nation"> Vaccinating a Nation</a>
 <p>The history of vaccination in Singapore goes back to the days of William Farquhar. Ong Eng Chuan provides an overview of vaccination efforts to prevent epidemics from breaking out here.</p> 
 
