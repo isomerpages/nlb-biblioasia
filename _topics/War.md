@@ -27,7 +27,15 @@ Before the fall of Singapore in 1942, people prepared for the imminent war by st
 <img src="/images/Vol%2018%20Issue%204/War%20in%20Singapore/1e.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Rōmusha</a>
+During World War II, forced civilian labourers known as rōmushas were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 
+<img src="/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg">  
+<hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/">Cold War Rivalries Fuel Propaganda Battle in Singapore in the 1940s and 1950s</a>
+In the post-World War II period, Singapore was a battleground for ideological competition between the Soviet Union and China on one side, and the United States and United Kingdom on the other.
 
+<img src="/images/Vol%2018%20Issue%203/Cold%20War/1_cover.png">  
+<hr>
 
