@@ -60,7 +60,3 @@ This year marks the 80th anniversary of the Fall of Singapore. Featured in this 
 
 <img src="/images/Vol%2018%20Issue%202/从国家图书馆文献窥看日本占领时期的新加坡华社/从国家图书馆文献窥看日本占领时期的新加坡华社%20-%20Image%201.png">
 <hr>
-
-
-
-
