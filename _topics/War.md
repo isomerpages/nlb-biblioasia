@@ -39,3 +39,28 @@ In the post-World War II period, Singapore was a battleground for ideological co
 <img src="/images/Vol%2018%20Issue%203/Cold%20War/1_cover.png">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau/">A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the Bugis to Singapore</a>
+
+Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible misunderstanding that would change the course of history in Riau and Singapore.
+
+<img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%201.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/">They Died for All Free Men: Stories from Kranji War Cemetery
+</a>
+
+Remembering those who died while fighting the Japanese during World War II.
+
+<img src="/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Rows%20of%20headstones.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-to-sep-2022/national-library-japanese-occupation-collection/">从国家图书馆文献窥看日本占领时期的新加坡华社</a>
+
+This year marks the 80th anniversary of the Fall of Singapore. Featured in this essay is a showcase of items from the Chinese community relating to the Japanese Occupation of Singapore. These are available in the collection of the National Library, Singapore.
+
+<img src="/images/Vol%2018%20Issue%202/从国家图书馆文献窥看日本占领时期的新加坡华社/从国家图书馆文献窥看日本占领时期的新加坡华社%20-%20Image%201.png">
+<hr>
+
+
+
+
