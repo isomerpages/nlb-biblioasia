@@ -17,14 +17,9 @@ The local Taoist pantheon includes goddesses only found in Singapore, such as Li
 <img src="/images/Vol%2018%20Issue%204/Maiden%20Lim/image4.png">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/">Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of Firewalking</a>
+Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
 
-
-
-
-
-
-
-
-
-
+<img src="/images/Vol%2018%20Issue%203/Theemithi/1_cover.png"> 
+<hr>
 
