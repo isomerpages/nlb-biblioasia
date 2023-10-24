@@ -13,7 +13,7 @@ go.gov.sg/coa22
 
 _Chapters on Asia (2022)_ features papers by the National Library’s Lee Kong Chian Research Fellows. With research based on the collections of the National Library and the National Archives of Singapore, this edition features essays on 19th-century Malay travellers, women’s participation in computerisation in Malaya (1930–65), representation of race in Singapore’s 19th-century English newspapers, and public bathing in Singapore before World War II.
 
-#### **[For Arts’ Sake: Memoirs of a Singapore Arts Manager](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+#### **For Arts’ Sake: Memoirs of a Singapore Arts Manager**
 By Juliana Lim
 
 Talisman Publishing (2023), 264 pages <br>
