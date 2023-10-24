@@ -50,3 +50,25 @@ Chinese bookstore Union Book has seen many changes over the last seven decades.
 <img src="/images/Vol%2018%20Issue%203/Union%20Book/1_coverimage.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore/">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City State</a>
+
+Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space.
+
+<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/">They Died for All Free Men: Stories from Kranji War Cemetery
+</a>
+
+Remembering those who died while fighting the Japanese during World War II.
+
+<img src="/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Rows%20of%20headstones.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate/">This Was Once Singapore’s Largest Planned Housing Development: A History of Sennett Estate</a>
+
+Sennett Estate is a unique milestone in the history of housing development in Singapore, and its quiet streets have had its fair share of excitement over the years.
+
+<img src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png">
+<hr>
+
