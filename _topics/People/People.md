@@ -65,4 +65,11 @@ Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of 
 <img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg" style="width:50%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau/">A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the Bugis to Singapore</a>
+
+Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible misunderstanding that would change the course of history in Riau and Singapore.
+
+<img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%201.png">
+<hr>
+
 
