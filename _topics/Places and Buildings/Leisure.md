@@ -11,16 +11,14 @@ Three public bathhouses at Ellenborough Market, Canton Street and Clyde Terrace 
 <img src="/images/Vol%2019%20Issue%201/Public%20Bathhouses/Public%20Bathhouse_Tree%20and%20lake.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/">
-From Sarong Island With Love: Singapore’s Original Tourist Isle	</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/">From Sarong Island With Love: Singapore’s Original Tourist Isle	</a>
 
 Before there was Sentosa, there was Sarong Island.
 
 <img src="/images/Vol%2018%20Issue%203/Sarong%20Island/1_cover.jpg">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/">
-Union Book Stands Tall At 70</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/">Union Book Stands Tall At 70</a>
 
 Chinese bookstore Union Book has seen many changes over the last seven decades.
 
