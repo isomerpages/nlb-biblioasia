@@ -21,16 +21,17 @@ Thaipusam speaks of a migratory community that carries its deep-rooted cultural 
 <img src="/images/Vol%2018%20Issue%204/Thaipusam/Image%201.png">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/">Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of Firewalking</a>
+Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
 
+<img src="/images/Vol%2018%20Issue%203/Theemithi/1_cover.png"> 
+<hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/johor-chicago-world-fair/">Johor at the 1893 Chicago World’s Fair</a>
+The story of how Johor ended up at the Chicago World’s Fair is an unexpected twist in Malaya’s colonial past.
 
-
-
-
-
-
-
-
+<img src="/images/Vol%2018%20Issue%203/Johor%201893/johor_cover.jpg"> 
+<hr>
 
 
 
