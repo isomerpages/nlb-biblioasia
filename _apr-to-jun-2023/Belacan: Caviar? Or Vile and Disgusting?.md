@@ -209,7 +209,7 @@ Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Artic
 
 [^16]: “[Wednesday, 8th December](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget18971214-1.2.30),” *Straits Budget*, 14 December 1897, 5. (From NewspaperSG)
 
-[^17]: Thomas John Newbold, [*Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca*](https://eresources.nlb.gov.sg/printheritage/detail/8123f6c8-67a1-48c6-97a6-3357c3bc5966.aspx), vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
+[^17]: Thomas John Newbold, [*Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8123f6c8-67a1-48c6-97a6-3357c3bc5966), vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
 
 [^18]: David G. Stead, [*General Report Upon the Fisheries of British Malaya With Recommendations for Future Development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183923) (Sydney, New South Wales: Alfred James Kent, Government Printer, 1923), 253. (From National Library, Singapore, call no. RRARE 639.209595 STE; microfilm no. NL26000)
 
