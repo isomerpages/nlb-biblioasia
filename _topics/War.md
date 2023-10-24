@@ -46,7 +46,8 @@ Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible 
 <img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%201.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/">They Died for All Free Men: Stories from Kranji War Cemetery</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/">They Died for All Free Men: Stories from Kranji War Cemetery
+</a>
 
 Remembering those who died while fighting the Japanese during World War II.
 
@@ -60,8 +61,7 @@ This year marks the 80th anniversary of the Fall of Singapore. Featured in this 
 <img src="/images/Vol%2018%20Issue%202/从国家图书馆文献窥看日本占领时期的新加坡华社/从国家图书馆文献窥看日本占领时期的新加坡华社%20-%20Image%201.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-to-sep-2022/national-library-japanese-occupation-collection-english/">The Singapore Chinese Community During the Japanese Occupation
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-to-sep-2022/national-library-japanese-occupation-collection-english/">The Singapore Chinese Community During the Japanese Occupation</a>
 
 Singapore marked the 80th anniversary of its fall to the Japanese in 2022. This essay features items from the Chinese community relating to the occupation years. They belong to the collection of the National Library of Singapore.
 
