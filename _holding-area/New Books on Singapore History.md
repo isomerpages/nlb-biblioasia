@@ -47,3 +47,14 @@ Call no.: RSING 959.5703092 GRA-\[HIS\]
 
 
 This is the first known biography of Sir Charles Bullen Hugh Mitchell. As Governor of the Straits Settlements (1894–99), Mitchell steered Singapore to a strong financial position and was instrumental in the implementation of the Federation of Malay States. He was also District Grand Master of the Freemasons in the Eastern Archipelago, and this book contains a rare public account of freemasonry in Singapore during the 19th century.
+
+
+#### **[Sport in Singapore: The Rocky Road to Kallang Park](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+By Nick Aplin
+
+Sport Singapore (2023), 340 pages <br>
+Call no.: RSING 796.095957 APL
+ 
+![](/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover1.png)
+
+The second in a trilogy, this volume contains accounts by Singapore’s pioneer athletes and chronicles the country’s sporting transformation from the late 1940s to 1973, when the old National Stadium officially opened.
