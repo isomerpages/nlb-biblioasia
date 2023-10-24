@@ -218,7 +218,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^39]: “[Captured Indon Arms on Show](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641002-1.2.28),” _Straits Times_, 2 October 1964, 4; “[Confrontation Show a Big Hit](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641003-1.2.82),” _Straits Times_, 3 October 1964, 11; “[337,000 Saw This Show](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641013-1.2.31),” _Straits Times_, 13 October 1964, 4; “[Show Moves On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641025-1.2.41.13),” _Straits Times_, 25 October 1967, 7. (From NewspaperSG)
 
-[^40]: “[Konfrontasi (Confrontation) Ends](https://eresources.nlb.gov.sg/history/events/f950e04d-44d7-47ad-a10c-16dfb0cc9ce3),” in _HistorySG_. From National Library Board Singapore. Article published 2014; Ricklefs, _[History of Modern Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 289.
+[^40]: “[Konfrontasi (Confrontation) Ends](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f950e04d-44d7-47ad-a10c-16dfb0cc9ce3),” in _HistorySG_. From National Library Board Singapore. Article published 2014; Ricklefs, _[History of Modern Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 289.
 
 [^41]: Ricklefs, _[History of Modern Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 290.
 
