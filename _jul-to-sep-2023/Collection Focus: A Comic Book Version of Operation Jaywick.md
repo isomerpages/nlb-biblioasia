@@ -141,7 +141,7 @@ On 26 September 2013, a ceremony was held in Singapore to commemorate the 70th a
 
 [^10]: “SOA, M &amp; Z Special Units, Operation Jaywick Myths.”
 
-[^11]: Wong Heng, “[Double Tenth Incident](https://eresources.nlb.gov.sg/infopedia/articles/SIP_111_2005-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published January 2021; Bonny Tan, “[Elizabeth Choy](https://eresources.nlb.gov.sg/infopedia/articles/SIP_816_2005-01-25.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 June 2016.
+[^11]: Wong Heng, “[Double Tenth Incident](https://www.nlb.gov.sg/main/article-detail?cmsuuid=9f82451d-2e94-4f73-be28-295636c6eb3b),” in *Singapore Infopedia*. National Library Board Singapore. Article published January 2021; Bonny Tan, “[Elizabeth Choy](https://www.nlb.gov.sg/main/article-detail?cmsuuid=73f538cb-c39c-409d-b05e-f7c78480c606),” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 June 2016.
 
 [^12]: Janice Loo, “[They Died for All Free Men: Stories from Kranji War Cemetery](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/),” *BiblioAsia* 18, no. 2 (July–September 2022), 18–25.
 
