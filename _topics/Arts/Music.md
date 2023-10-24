@@ -32,3 +32,5 @@ In this extract from the book From Keroncong to Xinyao, the author looks at why 
 
 <img src="/images/Vol%2019%20Issue%202/SG%20Record%20Industry/image1.png">
 <hr>
+
+
