@@ -46,3 +46,23 @@ A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to
 
 <img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg">  
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Rōmusha</a>
+During World War II, forced civilian labourers known as rōmushas were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
+
+<img src="/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg">  
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a>
+While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
+
+<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/1_Loke%20Portrait.png">  
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/">Loke Wan Tho: A Photo Essay</a>
+Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of Cathay Organisation.
+
+<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg" style="width:50%;">
+<hr>
+
+
