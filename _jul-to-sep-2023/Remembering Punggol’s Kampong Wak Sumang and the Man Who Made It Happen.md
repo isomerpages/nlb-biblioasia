@@ -195,7 +195,7 @@ The National Archives, UK,
 
 [^5]: “[Pahang Civil War Breaks out](https://eresources.nlb.gov.sg/history/events/e0ab6637-5e31-4d23-8617-d2dacb1aa842),” in _HistorySG_, National Library Board Singapore. Article published 2014.
 
-[^6]: Mohd Raman Daud, “Tempa Nama Lewat Novelet,” _Berita Harian_, 28 April 2014, 7 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 4–5.
+[^6]: Mohd Raman Daud, “Tempa Nama Lewat Novelet,” _Berita Harian_, 28 April 2014, 7 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 4–5.
 
 [^7]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 6.
 
