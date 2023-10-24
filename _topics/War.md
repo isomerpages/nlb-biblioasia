@@ -46,8 +46,7 @@ Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible 
 <img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%201.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/">They Died for All Free Men: Stories from Kranji War Cemetery
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/">They Died for All Free Men: Stories from Kranji War Cemetery</a>
 
 Remembering those who died while fighting the Japanese during World War II.
 
@@ -82,4 +81,3 @@ The Empress of Asia sank off Tuas in February 1942 while carrying troops to figh
 
 <img src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg">
 <hr>
-
