@@ -27,6 +27,7 @@ Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of 
 The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
 
 <img src="/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/jurong-drive-in-cinema/">Movies Beneath A Starry, Starry Night</a>
 
@@ -34,5 +35,3 @@ The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyda
 
 <img src="/images/vol-17-issue-4/movies-beneath/Jurong_Drive-in_bg.png">
 <hr>
-
-
