@@ -72,3 +72,28 @@ Sennett Estate is a unique milestone in the history of housing development in Si
 <img src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-padang/">A History of The Padang
+</a>
+
+**Kevin Tan**&nbsp;looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
+
+<img src="/images/Vol%2018%20Issue%201/The%20Padang/padang12.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets/">No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of Singapore’s Changing Wet Markets</a>
+
+Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks at how these markets have changed over time.
+
+<img src="/images/Vol%2018%20Issue%201/Wet%20Market/editedmarket4.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital/">Labouring to Deliver: A History of Kandang Kerbau Hospital</a>
+
+The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. **Joanna Tan** delivers the story behind a hallowed Singapore institution.
+
+<img src="/images/Vol%2018%20Issue%201/KKH%20Hospital/19980001245%20IMG0083.png">
+<hr>
+
+
+
+
