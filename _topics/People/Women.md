@@ -22,4 +22,13 @@ Women who practised a particular form of Buddhism set up popular vegetarian rest
 **Vandana Aggarwal**  traces the origins of a venerable association for Indian women and the role it played in their lives.
 
 <img src="/images/Vol%2018%20Issue%201/Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/wong-din-haan/">Wong Din Haan: A Pioneer Educator</a>
+
+Wong Din Haan, who founded a girls’ school in Singapore, was also a champion for women’s rights.
+
+<img src="/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg">
+<hr>
+
 
