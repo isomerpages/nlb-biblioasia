@@ -22,3 +22,8 @@ Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of 
 <img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg" style="width:50%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee/">Cinema Pioneer Tan Cheng Kee</a>
+
+The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
+
+<img src="/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png">
