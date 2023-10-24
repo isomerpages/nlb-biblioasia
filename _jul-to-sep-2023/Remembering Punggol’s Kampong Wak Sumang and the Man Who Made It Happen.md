@@ -193,7 +193,7 @@ The National Archives, UK,
 
 [^4]: “[What’s in a Name](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900814-1.2.60.5.7),” _Straits Times,_ 14 August 1990, 7 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Saini Salleh, “[Sungai Wak Sumang Terus Menjadi Tempat Pertemuan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19871213-1.2.13.1),” _Berita Harian_, 13 December 1987, 3 (From NewspaperSG)
 
-[^5]: “[Pahang Civil War Breaks out](https://eresources.nlb.gov.sg/history/events/e0ab6637-5e31-4d23-8617-d2dacb1aa842),” in _HistorySG_, National Library Board Singapore. Article published 2014.
+[^5]: “[Pahang Civil War Breaks out](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e0ab6637-5e31-4d23-8617-d2dacb1aa842#:~:text=During%20the%20Pahang%20civil%20war,in%20the%20interior%20of%20Pahang),” in _HistorySG_, National Library Board Singapore. Article published 2014.
 
 [^6]: Mohd Raman Daud, “Tempa Nama Lewat Novelet,” _Berita Harian_, 28 April 2014, 7 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 4–5.
 
@@ -215,7 +215,7 @@ The National Archives, UK,
 
 [^15]: [Cucu2 Wak Sumang Diberi Flat](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860330-1.2.12.2)”, _Berita Minggu_, 30 March 1986, 2 (From NewspaperSG)
 
-[^16]: Mok Ly Yng, correspondence, January 2023; Joanna Tan, “[The Padang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2021-11-15_154605.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published March 2021. &nbsp;&nbsp;
+[^16]: Mok Ly Yng, correspondence, January 2023; Joanna Tan, “[The Padang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c3c58307-b306-4a38-846f-a0b7f13c0a7e),” in _Singapore Infopedia_. National Library Board Singapore. Article published March 2021. &nbsp;&nbsp;
 
 [^17]: Saini Salleh, “Perigi Tua Wak Sumang”_, Berita Harian,_ 8 January 1995, 3 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
@@ -251,7 +251,7 @@ The National Archives, UK,
 
 [^33]: [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/31cf7545-1160-11e3-83d5-0050568939ad-OHC000319_010/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 15 August 1984, transcript and MP3 audio, Reel/Disc 10 of 30, 134. \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
 
-[^34]: Stephanie Ho, “[Operation Sook Ching](https://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 17 June 2013. &nbsp;&nbsp;
+[^34]: Stephanie Ho, “[Operation Sook Ching](https://www.nlb.gov.sg/main/article-detail?cmsuuid=cc4da337-3bcd-4f96-bdc6-5210646bdd90),” in _Singapore Infopedia_. National Library Board Singapore. Article published 17 June 2013. &nbsp;&nbsp;
 
 [^35]: [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/31cf7545-1160-11e3-83d5-0050568939ad-OHC000319_010/web/html5/index.html), Reel/Disc 10 of 30, 134. \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
 
