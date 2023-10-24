@@ -13,16 +13,6 @@ go.gov.sg/coa22
 
 _Chapters on Asia (2022)_ features papers by the National Library’s Lee Kong Chian Research Fellows. With research based on the collections of the National Library and the National Archives of Singapore, this edition features essays on 19th-century Malay travellers, women’s participation in computerisation in Malaya (1930–65), representation of race in Singapore’s 19th-century English newspapers, and public bathing in Singapore before World War II.
 
-#### **For Arts’ Sake: Memoirs of a Singapore Arts Manager**
-By Juliana Lim
-
-Talisman Publishing (2023), 264 pages <br>
-Call no.: RSING 700.92 LIM
- 
-![](/images/Vol%2019%20Issue%204/New%20Books/forartssake2.jpg)
-
-Retired arts manager Juliana Lim provides a behind-the-scenes look at Singapore’s arts scene between the 1970s and the 2000s. Lim joined the Administrative Service in 1973 and was involved in overseeing major arts and cultural policies and initiatives such as the Cultural Vision 1999 and the building of the Esplanade – Theatres on the Bay. Her book looks at the ideas, policies and people behind this important period in the history of Singapore’s cultural development.
-
 
 #### **[Sing Musicals: A History of Singapore Musical Theatre](https://eservice.nlb.gov.sg/item_holding.aspx?id=206102861)**
 By Kenneth Lyen,  
