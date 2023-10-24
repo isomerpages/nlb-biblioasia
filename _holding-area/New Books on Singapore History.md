@@ -58,3 +58,16 @@ Call no.: RSING 796.095957 APL
 ![](/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover1.png)
 
 The second in a trilogy, this volume contains accounts by Singapore’s pioneer athletes and chronicles the country’s sporting transformation from the late 1940s to 1973, when the old National Stadium officially opened.
+
+
+
+
+#### **[新加坡九皇文化: 社群, 信仰与传统 The Nine Emperor Gods Festival in Singapore: Heritage, Culture, and Community](https://eservice.nlb.gov.sg/item_holding.aspx?id=205272591&amp;type=bid)**
+Edited by Koh Keng We et al.
+
+National Heritage Board; Singapore Chinese Cultural Centre (2023), 639 pages (vol 1.), 479 pages (vol. 2A), 397 pages (vol. 2B) <br>
+Call no.: RSING Chinese 299.514095957 NIN
+ 
+![](/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover1.png)
+
+Written in English and Chinese, these three volumes are the first nationwide study of the Nine Emperor Gods Festival – the largest Chinese religious festival in Singapore and Southeast Asia. Based on field research conducted at 15 major festival sites and temples in Singapore, the publication covers the 200-year-old history of the festival in Singapore, Southeast Asia and China, including the local temples and communities dedicated to the festival.
