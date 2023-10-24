@@ -199,15 +199,15 @@ The National Archives, UK,
 
 [^7]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 6.
 
-[^8]: Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 6, 10, 24. &nbsp;
+[^8]: Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 6, 10, 24. &nbsp;
 
-[^9]: Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 18.
+[^9]: Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 18.
 
 [^10]: Mastomo’s _Tok Sumang_ is most closely matched by the account of Jusoh Ahmad, who was the son of Ahmad, son of Lambak, son of Wak Sumang and Kopek. See Mohd Maidin, “[Penggesek Biola Yg Masyhor Buka Kg Wak Sumang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19830313-1.2.22),” _Berita Minggu_, 13 March 1983, 3. (From NewspaperSG) \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
 
 [^11]: The National Archives, UK, [_Map of Singapore Island, and Its Dependencies, 1852_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb830a64-115c-11e3-83d5-0050568939ad), map. (From National Archives of Singapore, accession no. SP006879); Mok Ly Yng, correspondence, March 2023.
 
-[^12]: [Mohd Amin Bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 15.50–24.33, National Archives of Singapore (accession no. 001597); Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 23.
+[^12]: [Mohd Amin Bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 15.50–24.33, National Archives of Singapore (accession no. 001597); Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 23.
 
 [^13]: [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5bdd7cd6-115f-11e3-83d5-0050568939ad-OHC000319_027/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 26 December 1985, transcript and MP3 audio, Reel/Disc 27 of 30, 340, 347, National Archives of Singapore (accession no. 000319). Awang Osman’s maternal grandfather was a son of Wak Sumang.
 
@@ -221,11 +221,11 @@ The National Archives, UK,
 
 [^18]: “[A Well That Never Runs Dry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950111-1.2.61.7.1),” _Straits Times,_ 11 January 1995, 11 (From NewspaperSG)&nbsp;
 
-[^19]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 35. &nbsp;
+[^19]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 35. &nbsp;
 
 [^20]: “[Municipal Commissioners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18760401-1.2.12),” _Straits Times,_ 1 April 1876, 1; “[The Municipality](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18840105-1.2.6.20),” _Straits Times Weekly Issue,_ 5 January 1884, 7 (From NewspaperSG)
 
-[^21]: Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 34–37.
+[^21]: Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 34–37.
 
 [^22]: “[Cucu2 Wak Sumang Diberi Flat](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860330-1.2.12.2).”
 
