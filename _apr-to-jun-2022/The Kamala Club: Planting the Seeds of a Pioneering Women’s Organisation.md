@@ -1,7 +1,8 @@
 ---
 title: "The Kamala Club: Planting the Seeds of a Pioneering Women’s Organisation"
 permalink: /vol-18/issue-1/apr-to-jun-2022/kamala-club/
-description: ""
+description: "**Vandana Aggarwal**  traces the origins of a venerable
+  association for Indian women and the role it played in their lives."
 image: /images/Vol 18 Issue 1/Kamala
   Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png
 ---

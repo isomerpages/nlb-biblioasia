@@ -1,7 +1,9 @@
 ---
 title: Printed on Rubber Latex Paper
 permalink: /vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper/
-description: ""
+description: An innovation patented in 1920 produced paper that was more
+  durable, had greater tensile strength and was resistant to folding, as Alex
+  Teoh tells us.
 image: /images/Vol 18 Issue 1/Rubber Latex Paper/covers_editted.png
 ---
 #### An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was resistant to folding, as **Alex Teoh** tells us.
@@ -9,7 +11,7 @@ image: /images/Vol 18 Issue 1/Rubber Latex Paper/covers_editted.png
 ![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/covers_editted.png)
 <div style="background-color: white;">Titles published by the Malay States Information Agency/Malayan Information Agency and printed on rubber latex paper. (Left to right) <i> Images reproduced from Eric MacFadyen, Rubber Planting in Malaya (London: Malay States Information Agency, 1924). (Not available in NLB holdings); Sport and Motoring in Malaya (London: Malay States Information Agency, 1924). (Not available in  NLB holdings); British Malaya: General Description of the Country and Life Therein (London: Malayan Information Agency, 1929). (Not available in NLB holdings)</i></div>
 
-During the British Empire Exhibition held at Wembley Park, England, from 23 April to 1 November 1924, a number of handbooks were published and distributed that promoted the economy and produce of British Malaya. Published by the London-based Malay States Information Agency, these handbooks included titles such as *British Malaya: Trade & Commerce*; *Rubber Planting in Malaya*; *Coconut Industry in Malaya*; *Big Game Shooting & Motoring in Malaya*; and *Mining in Malaya*.[^1]
+During the British Empire Exhibition held at Wembley Park, England, from 23 April to 1 November 1924, a number of handbooks were published and distributed that promoted the economy and produce of British Malaya. Published by the London-based Malay States Information Agency, these handbooks included titles such as *British Malaya: Trade &amp; Commerce*; *Rubber Planting in Malaya*; *Coconut Industry in Malaya*; *Big Game Shooting &amp; Motoring in Malaya*; and *Mining in Malaya*.[^1]
 
 ![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/edit_Mining%20in%20Malaya%20Cover.png)
 <div style="background-color: white;">Cover and title page of <i>Mining in Malaya</i>, which was printed on rubber latex paper.<i> Images reproduced from Gordon Eastley Greig, Mining in Malaya (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RCLOS 622.09595 GRE-[RFL]).</i></div>
@@ -53,37 +55,37 @@ A *Singapore Free Press* report summarised the problem: “In the first place, e
 
 #### **Commercial Latex Paper**
 
-There were some efforts to use rubber latex paper commercially. It was used for the printing of company reports of several major publicly listed companies and associations in Malaya, including Guthrie & Co., Fraser and Neave, Ltd., Robinson and Co., Singapore United Rubber and the Planters’ Association of Malaya.[^12] In 1923, London’s *Investors’ Chronicle* became the first newspaper to be printed on rubber latex paper.[^13]
+There were some efforts to use rubber latex paper commercially. It was used for the printing of company reports of several major publicly listed companies and associations in Malaya, including Guthrie &amp; Co., Fraser and Neave, Ltd., Robinson and Co., Singapore United Rubber and the Planters’ Association of Malaya.[^12] In 1923, London’s *Investors’ Chronicle* became the first newspaper to be printed on rubber latex paper.[^13]
 
 For the Malaya Pavilion at the British Empire Exhibition in 1924, the 2,000 copies of various pamphlets on different topics produced for sale used up two tons of paper, 3 percent of which was made of rubber latex.[^14]
 
 A company that manufactured latex paper was Messrs Lepard and Smiths, Limited, one of the oldest paper merchants in London. They produced envelopes, bank and bond papers aswell as cream laid writing papers, known as “Latex Papers”, at their warehouses in London. These were then shipped and stored in Singapore and elsewhere to meet demand.[^15]
 
-In Singapore and Malaya, latex paper was advertised and sold by major merchandisers like Fraser and Neave, Ltd.[^16], John Little & Co., Ltd.[^17] and G.H. Kiat & Co., Ltd.[^18] 
+In Singapore and Malaya, latex paper was advertised and sold by major merchandisers like Fraser and Neave, Ltd.[^16], John Little &amp; Co., Ltd.[^17] and G.H. Kiat &amp; Co., Ltd.[^18] 
 
 ![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/maltribune_19230619_0006.png)
-<div style="background-color: white;">G.H. Kiat & Co. advertising its latex paper. <i>Image reproduced from “Page 6 Advertisements Column 1,” Malaya Tribune, 19 June 1923, 6. (From NewspaperSG).
+<div style="background-color: white;">G.H. Kiat &amp; Co. advertising its latex paper. <i>Image reproduced from “Page 6 Advertisements Column 1,” Malaya Tribune, 19 June 1923, 6. (From NewspaperSG).
 </i></div>
 
-In 1925 and 1927, printing company Rickard on Cecil Street embarked on a targeted advertising campaign for its latex paper. The marketing slogan in the daily newspapers was “Keep Up the Price of Rubber by Having All Your Printing Done on Latex Paper” and “To Managers of Rubber Estates – Insist on Having All Your Printing – Letter Heads, Memos, Check Rolls, Etc. Etc. Done on Latex Paper”.[^19] The bookshop G.H. Kiat & Co. attempted to prod companies into using the paper by asking: “Are You Helping the Rubber Industry by Using Latex Paper?”[^20] 
+In 1925 and 1927, printing company Rickard on Cecil Street embarked on a targeted advertising campaign for its latex paper. The marketing slogan in the daily newspapers was “Keep Up the Price of Rubber by Having All Your Printing Done on Latex Paper” and “To Managers of Rubber Estates – Insist on Having All Your Printing – Letter Heads, Memos, Check Rolls, Etc. Etc. Done on Latex Paper”.[^19] The bookshop G.H. Kiat &amp; Co. attempted to prod companies into using the paper by asking: “Are You Helping the Rubber Industry by Using Latex Paper?”[^20] 
 
 ![](/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/straitstimes_19251109_0002.png)
 <div style="background-color: white;">A Rickard Ltd. advertisement encouraging consumers to use latex paper.<i> Image reproduced from “Page 2 Advertisements Column 2,” Straits Times, 9 November 1925, 2. (From NewspaperSG).</i></div>
 
-In 1926, John Little & Co. offered a new series of Christmas greetings cards featuring “etchings of local beauty spots by Mrs G. Sinclair”, printed on a special grade of latex paper.[^21] Three years later, John Little launched its exclusive stationery brand of writing pads, note paper and envelopes called Rubtext Stationery. These used “distinctive high quality paper with semi-smooth finish” and were made in two finishes, antique and ripple, with each finish in four colours – white, sea blue, maize and mauve.[^22]
+In 1926, John Little &amp; Co. offered a new series of Christmas greetings cards featuring “etchings of local beauty spots by Mrs G. Sinclair”, printed on a special grade of latex paper.[^21] Three years later, John Little launched its exclusive stationery brand of writing pads, note paper and envelopes called Rubtext Stationery. These used “distinctive high quality paper with semi-smooth finish” and were made in two finishes, antique and ripple, with each finish in four colours – white, sea blue, maize and mauve.[^22]
 
 However, after the 1930s, mentions of rubber latex paper dried up in the Malayan press. Although the term “rubber latex paper” may not be familiar to the younger generations today, we still have handbooks and publications that serve as reminders of this fascinating attempt to create a new market for a product that was very much a part of the history of Singapore and Malaya.
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Alex_Teoh.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%201/Authors/Alex_Teoh.png" style="width: 100px; height: 100px;">
 	<b>Alex Teoh</b> is a paper and book conservator, providing collection care for rare manuscripts, collectible prints, antique maps and antiquarian books. He is interested in the local material culture of the written text in Southeast Asia.</div>
 
 	
 #### **NOTES**
 
-[^1]: The National Library has some of these titles. See Malay States Information Service, [*British Malaya: Trade & Commerce*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4412330) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RDTYS 381.09595 BRI); Theodore Rathbone Hubback, John H.M. Robson and Howard Henry Banks, [*Big-game Shooting*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13047714) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RRARE 799.29595 HUB; Microfilm no. NL29281); Gordon Eastley Greig, [*Mining in Malaya*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4407353) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RCLOS 622.09595 GRE-[RFL])
+[^1]: The National Library has some of these titles. See Malay States Information Service, [*British Malaya: Trade &amp; Commerce*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4412330) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RDTYS 381.09595 BRI); Theodore Rathbone Hubback, John H.M. Robson and Howard Henry Banks, [*Big-game Shooting*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=13047714) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RRARE 799.29595 HUB; Microfilm no. NL29281); Gordon Eastley Greig, [*Mining in Malaya*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4407353) (London: Malay States Information Agency, 1924). (From National Library, Singapore, Call no. RCLOS 622.09595 GRE-[RFL])
 
 [^2]: Eric MacFadyen, *Rubber Planting in Malaya* (London: Malay States Information Agency, 1924). (Not available in NLB holdings)
 

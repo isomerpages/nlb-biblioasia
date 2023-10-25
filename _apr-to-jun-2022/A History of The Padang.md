@@ -1,10 +1,10 @@
 ---
 title: A History of The Padang
 permalink: /vol-18/issue-1/apr-to-jun-2022/history-padang/
-description: ""
+description: Kevin Tan looks at what makes the 4.3-hectare patch of green in
+  front of the former City Hall building so special.
 image: /images/Vol 18 Issue 1/The Padang/padang8.png
 ---
-
 #### **Kevin Tan** looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
 
 ![](/images/Vol%2018%20Issue%201/The%20Padang/padang12.png)
@@ -120,8 +120,8 @@ Given its age, historical significance and global prominence, it is timely that 
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Kevin_Tan.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%201/Authors/Kevin_Tan.png" style="width: 100px; height: 100px;">
 	<b>Dr Kevin Y.L. Tan</b> is Adjunct Professor at the Faculty of Law, National University of Singapore, and Visiting Professor at the S. Rajaratnam School of International Studies, Nanyang Technological University. He specialises in constitutional and administrative law, Singapore legal history and international human rights. He has written and edited over 50 books on the law, history and politics of Singapore.</div>
 
 	
@@ -140,15 +140,15 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^6]: “[Our Esplanade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19000823-1.2.24),” *Singapore Free Press and Mercantile Advertiser*, 23 August 1900, 3; “[Editorial](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19030812-1.2.9),” *Straits Times*, 12 August 1903, 4. (From NewspaperSG)
 
-[^7]: This famous etching was published in Sophia Raffles, [*Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F.R.S. &c. Particularly in the Government of Java, 1811–1816, and of Bencoolen and Its Dependencies 1817–1824; with Details of the Commerce and Resources of the Eastern Archipelago, and Selections from His Correspondence*](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx) (London: John Murray, 1830), 525. (From BookSG)
+[^7]: This famous etching was published in Sophia Raffles, [*Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F.R.S. &amp;c. Particularly in the Government of Java, 1811–1816, and of Bencoolen and Its Dependencies 1817–1824; with Details of the Commerce and Resources of the Eastern Archipelago, and Selections from His Correspondence*](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx) (London: John Murray, 1830), 525. (From BookSG)
 
-[^8]: For a depiction from the shoreline, see the painting titled *Singapore, From the Esplanade* by Captain Charles Ramsay Drinkwater Bethune published in James Augustus St John, *Views in the Eastern Archipelago: Borneo, Sarawak, Labuan, &c. &c. &c.* (London: McLean, 1847), 65. (Not available in NLB holdings)
+[^8]: For a depiction from the shoreline, see the painting titled *Singapore, From the Esplanade* by Captain Charles Ramsay Drinkwater Bethune published in James Augustus St John, *Views in the Eastern Archipelago: Borneo, Sarawak, Labuan, &amp;c. &amp;c. &amp;c.* (London: McLean, 1847), 65. (Not available in NLB holdings)
 
 [^9]: Buckley, [*Anecdotal History of Old Times in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239), 30. 
 
 [^10]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18481220-1.2.7),” *Straits Times*, 20 December 1848, 2. (From NewspaperSG)
 
-[^11]: Roland St John Braddell, “The Good Old Days” in Walter Makepeace, Gilbert E. Brooke & Roland St John Braddell, eds., [*One Hundred Years of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), vol. 2 (London: John Murray, 1921), 317. (From National Library, Singapore, Call no. RCLOS 959.51 ONE)
+[^11]: Roland St John Braddell, “The Good Old Days” in Walter Makepeace, Gilbert E. Brooke &amp; Roland St John Braddell, eds., [*One Hundred Years of Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), vol. 2 (London: John Murray, 1921), 317. (From National Library, Singapore, Call no. RCLOS 959.51 ONE)
 
 [^12]: Braddell, “[Good Old Days](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132),” 321. 
 

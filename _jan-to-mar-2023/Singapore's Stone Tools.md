@@ -189,7 +189,7 @@ Example:
 
 [^18]: Roland Braddell, “An Introduction to the Study of Ancient Times in the Malay Peninsula and the Straits of Malacca,” *Journal of the Malayan Branch of the Royal Asiatic Society* 14, no. 3 (December 1936): 36. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website). 
 
-[^19]: Alvin Chua, “[The Causeway](https://eresources.nlb.gov.sg/infopedia/articles/SIP_99_2004-12-30.html),” in Singapore Infopedia. National Library Board Singapore. Article published 2009.
+[^19]: Alvin Chua, “[The Causeway](https://www.nlb.gov.sg/main/article-detail?cmsuuid=74fd954b-2970-4c10-a74f-5df4c22eee28),” in Singapore Infopedia. National Library Board Singapore. Article published 2009.
 
 [^20]: Michael Bird et al., “[Evolution of the Sungei-Buloh-Kranji Mangrove Coast, Singapore](https://doi.org/10.1016/j.apgeog.2004.04.002),” *Applied Geography* 24, no. 3 (2004): 184, 192.
 
@@ -235,7 +235,7 @@ Example:
 
 [^41]: Defri Elias Simatupang, “Ekskavasi Dan Kajian Manajemen,” 66.
 
-[^42]: J.R. Logan, “The Orang Sletar of the River and Creeks of the Old Strait and Estuary of the Johore,” [*Journal of the Indian Archipelago and Eastern Asia* ](https://eresources.nlb.gov.sg/printheritage/detail/0c341d6f-717f-44bd-b6cf-19d650a2b63e.aspx)1 (1847): 302–304. (From BookSG); Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” in [*Tribal Communities in the Malay World: Historical, Cultural and Social Perspectives*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=11113017), ed. Geoffrey Benjamin and Cynthia Chou (Singapore: Institute of Southeast Asian Studies, 2002), 273–93. (From National Library, Singapore, call no. RSING 305.8959 TRI) 
+[^42]: J.R. Logan, “The Orang Sletar of the River and Creeks of the Old Strait and Estuary of the Johore,” [*Journal of the Indian Archipelago and Eastern Asia* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604) 1 (1847): 302–304. (From BookSG); Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” in [*Tribal Communities in the Malay World: Historical, Cultural and Social Perspectives*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=11113017), ed. Geoffrey Benjamin and Cynthia Chou (Singapore: Institute of Southeast Asian Studies, 2002), 273–93. (From National Library, Singapore, call no. RSING 305.8959 TRI) 
 
 [^43]: Adnan Jusoh, Mokhtar Saidin and Zuliskandar Ramli, “Zaman Paleolitik, Hoabinhian Dan Neolitik di Malaysia,” in [*Prasejarah Dan Protosejarah Tanah Melayu*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204226326), ed. Nik Hassan Shuhaimi Nik Abdul Rahman and Zuliskandar Ramli (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2018), 21–90. (From National Library, Singapore, call no. Malay RSEA 930.109595 PRA); David Bulbeck, “An Integrated Perspective on the Austronesian Diaspora: The Switch from Cereal Agriculture to Maritime Foraging in the Colonisation of Island Southeast Asia,” *Australian Archaeology* no. 67 (December 2008): 44. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Matthew R. Goodrum, “The Idea of Human Prehistory: The Natural Sciences, the Human Sciences, and the Problem of Human Origins in Victorian Britain,” *History and Philosophy of the Life Sciences* 34, nos. 1–2 (2012): 140–41. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 

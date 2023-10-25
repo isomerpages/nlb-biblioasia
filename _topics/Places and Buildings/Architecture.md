@@ -27,3 +27,19 @@ The house that Lee Kip Lin built has stood the test of time, reflecting its simp
 
 <img src="/images/Vol%2019%20Issue%202/Binjai/image2.png">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore/">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City State</a>
+
+Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space.
+
+<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/towkays-houses/">Towkays at Home in Singapore</a>
+Mandalay Villa. House of Jade. House of Teo Hoo Lye. Yap Jo Lin gives us a tour of three opulent homes from the early 20th century.
+
+<img src="/images/vol-17-issue-4/towkay-house/Main-TKH.jpg">
+<hr>
+
+
+

@@ -30,5 +30,7 @@ Repairing the National Library’s Chappell concert grand was no easy task. Zhiv
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s">Local Music Reaches a Crescendo: The Singapore Record Industry in the 1960s</a>
 In this extract from the book From Keroncong to Xinyao, the author looks at why the record industry in Singapore took off in the 1960s.
 
-<img src="/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image1.png">
+<img src="/images/Vol%2019%20Issue%202/SG%20Record%20Industry/image1.png">
 <hr>
+
+

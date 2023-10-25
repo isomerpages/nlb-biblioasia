@@ -1,7 +1,10 @@
 ---
 title: "The Orang Seletar: Rowing Across Changing Tides"
 permalink: /vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides/
-description: ""
+description: Singapore was once a home to the seafaring Orang Seletar who now
+  reside in Johor Bahru. **Ilya Katrinnada** takes them on a tour around
+  Singapore visiting Merlion Park, Sembawang Park and Lower Seletar Reservoir
+  Park.
 image: /images/Vol 18 Issue 1/Orang Seletar/orang_seletar_cover.png
 ---
 #### Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. **Ilya Katrinnada** takes them on a tour around Singapore visiting Merlion Park, Sembawang Park and Lower Seletar Reservoir Park.

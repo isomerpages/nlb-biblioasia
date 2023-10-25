@@ -6,7 +6,7 @@ description: Kwa Chong Guan from the S. Rajaratnam School of International
 ---
 #### *Kwa Chong Guan* from the S. Rajaratnam School of International Studies remembers the legacy, contributions and impact of former Finance, Defence and Education Minister Goh Keng Swee.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Dr%20Goh%20Victory.jpg"> 
+<img style="width:100%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Dr%20Goh%20Victory.jpg"> 
 <div style="background-color: white;">Goh Keng Swee chaired after his electoral victory in Kreta Ayer, 1963. <i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
 
 Prime Minister Lee Hsien Loong declared in his eulogy at the state funeral for Goh Keng Swee: “Dr Goh was one of our nation’s founding fathers… A whole generation of Singaporeans has grown up enjoying the fruits of growth and prosperity, because one of our ablest sons decided to fight for Singapore’s independence, progress and future.” How do we remember a founding father of a nation? Goh left a lasting impression on everyone he encountered. But more importantly, he changed the lives of many who worked alongside him, and in his public career, initiated policies that have fundamentally shaped the destiny of Singapore.
@@ -21,7 +21,7 @@ The deepest recollections about Goh must be the personal memories of those who h
 
 Goh’s public career is amply documented in the open public records. His accomplishments after assuming office as Singapore’s first Finance Minister in 1959 were also recorded comprehensively. His pronouncements as a member of Parliament for Kreta Ayer Constituency from 1959 to 1984 are contained in Hansard. His policy statements during his various tenures as Minister of Finance, Defence and Education are necessary reading for an appreciation of Goh’s analyses of the challenges he perceived as confronting Singapore and his arguments to support his views. His policy pronouncements are essential for any assessment of his contribution to the making of government policy. But this is not what most people will recall or identify him with. The proceedings of Parliament that are transcribed in Hansard do not make for enthralling reading. Neither the *Report on the Ministry of Education 1978*, issued by Goh and his Education Study Team in 1979, nor his earlier 215-page 1956 *Urban Income and Housing: A Report on the Social Survey of Singapore 1953–54* make easy reading. Different remembrances of Goh emerge depending largely upon which of the open public records one chooses to read and emphasise, and how critically and closely one examines the record for what it reveals or does not reveal.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Radio%20Singapore%20Forum1.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Radio%20Singapore%20Forum1.jpg">
  <div style="background-color: white;">Then Prime Minister Lee Kuan Yew with Goh Keng Swee and members of opposition parties taking part in a Radio Singapore forum on the merger referendum, 1962. <i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
  
 However, many of the official public records of Goh’s contributions to policymaking remain classified. These are the Cabinet papers that were tabled in his name or which he initiated. A deeper understanding of Goh’s role as a major policymaker who shaped post-1965 Singapore would be possible if these very significant Cabinet memoranda were to be declassified and made available for public consultation.
@@ -40,12 +40,12 @@ Goh’s contributions to laying the foundations of Singapore’s economic growth
 
 Goh’s role in Singapore’s political development will probably be remembered in the context of how he was able to envision the impact that politics could have upon Singapore’s economic development and how it should then be managed for economic growth. Unlike his colleagues, Goh did not seem as active in the vanguard of the ideological charge against colonialism or communism. He will be remembered more as the backroom strategist, planning Singapore’s long political futures to complement the economic growth he was driving. Goh’s rationale for joining Malaysia was largely, if not entirely, an economic imperative of a common market for Singapore’s economic survival. He will now be remembered as leading the initiative for separation as it became increasingly clear that a common market in Malaysia was not going to be forthcoming.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Fire%20Ravaged%20Kampong%20Tiong%20Bahru1.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Fire%20Ravaged%20Kampong%20Tiong%20Bahru1.jpg">
  <div style="background-color: white;">Goh Keng Swee and Lin You Eng touring the fire-ravaged Kampong Tiong Bahru area immediately after the disaster in 1961. <i>The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
 
 Post-1965, Goh’s role broadened to include the defence and education portfolios and he displayed his versatility as not only an economic architect, but also a social architect[^4] who laid the foundations of Singapore’s identity as a city-state. As in the pre-1965 era, his capacity for the lateral thinking of Singapore’s future as a city-state and its place in a tumultuous region is what many of us recall. We also remember his ability to go beyond solving the immediate problem of how to start up the armed forces or restructure the education system, instead conceiving defence as more than a military issue or understanding education as being about knowledge generation rather than rote learning.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Singapore%20Infantry.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Singapore%20Infantry.jpg">
  <div style="background-color: white;">Goh Keng Swee meeting the 1st and 2nd Singapore Infantry Regiments, 1965. <i>Ministry of Information, Communications and the Arts.</i></div>
 
 The discussion of how we are to remember Goh as the economic and social architect of Singapore’s transformation, as a problem solver and as Lee Kuan Yew’s ablest lieutenant will continue as more information from the public records becomes available, and more importantly as we look into Singapore’s future and decide whether the policies Dr Goh put in place continue to be relevant. Goh’s speeches are also key to an understanding of what he attempted to accomplish.
@@ -62,7 +62,7 @@ Another set of memories of Goh – of how he wished to be remembered – emerges
 
 Another recurring theme in Goh’s speeches is their accentuation on practice and disavowal of theory. Towards this end, Goh titled his second collection of essays *The Practice of Economic Growth* to emphasise this stand. However, he appears slightly apologetic when he then goes on to write that he has “delved more deeply into theory in chapter 7 (of *Some Unsolved Problems of Economic Growth*) than a practitioner should, the object of the exercise was to assess how far theory conforms with practice in the real world”. Clearly, Goh wanted to be remembered as a practitioner and not a theoretician. But that raises the question of what it was that ultimately motivated Goh’s practice? It was clearly not the mundane political issues of the day which drive most other politicians and Goh was scornful of ideological commitment to any form of socialism.
 
-<img style="width:80%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Opening%20Singapore%20Zoo.jpg">
+<img style="width:100%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/Opening%20Singapore%20Zoo.jpg">
  <div style="background-color: white;">Goh Keng Swee at the opening of the Singapore Zoological Gardens, 1973. <i> The Straits Times/The New Paper © Singapore Press Holdings Ltd. Reprinted with permission.</i></div>
 
 Ironically, Goh’s practice was actually driven by theory. “The practitioner”, he declared, “uses economic theory only to the extent that he finds it useful in comprehending the problem at hand, so that practical courses of action will emerge which can be evaluated not merely in narrow economic cost-benefit terms but by taking into account a wider range of considerations.” Thus not only chapter 7 of Goh’s *The Practice of Economic Growth* is concerned with economic theory, but a large number of other essays refer to Max Weber, Joseph Schumpeter or Peter Bauer at the expense of Keynesian economic theory. Goh’s preference of seeing the world through the spectacles of economic theory has its beginnings at the London School of Economics. In 1956, he had submitted a highly technical analysis of the problematic nature of estimating national income in underdeveloped countries, with Malaya as a case study, for his doctorate degree. Perhaps this adds to our paradoxical memory of Goh – a practitioner driven not by politics or ideology, but by theory.
@@ -75,6 +75,9 @@ Dr Goh and his colleagues’ response to separation as a Kuala Lumpur initiative
 force…”
 
 We can speculate as to why Goh chose to reveal this in 1996. Was it that in 1996, when Singapore was taxiing towards economic take-off to global-city status, it could finally be revealed that separation was a blessing in disguise?
+
+<img style="width:100%;" src="/images/Vol%206%20Issue%203/Goh%20Keng%20Swee/NDP%20Padang.jpg">
+<div style="background-color: white;">National Day Parade at the Padang, 1966. Dr Goh receiving then President Yusof Ishak.<i>Collection of Yusof Ishak, courtesy of National Archives of Singapore.</i></div>
 
 #### **From the Personal Recollections of His Peers**
 

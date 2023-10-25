@@ -1,6 +1,6 @@
 ---
 title: The Singapore Chinese Community During the Japanese Occupation
-permalink: /jul-to-sep-2022/national-library-japanese-occupation-collection-english/
+permalink: /vol-18/issue-2/jul-to-sep-2022/national-library-japanese-occupation-collection-english/
 description: ""
 ---
 #### Singapore marked the 80th anniversary of its fall to the Japanese in 2022. This essay features items from the Chinese community relating to the occupation years. They belong to the collection of the National Library of Singapore.
@@ -81,7 +81,7 @@ These invaluable archival documents offer insights into the daily lives of peopl
 
 |**新加坡福建会馆珍藏: 天福宫二战期间产业登记, 1942–1948**|
 
-|**\[Singapore Hokkien Huay Kuan Collection: Thian Hock Keong House Rent & Ground Rent Register, 1942–1948\]**|
+|**\[Singapore Hokkien Huay Kuan Collection: Thian Hock Keong House Rent &amp; Ground Rent Register, 1942–1948\]**|
   
 |Call no.: RRARE 369.25957 XJP-\[HHK\]|
 
@@ -173,7 +173,7 @@ The library also has issues of the Chinese edition of the [_Syonan Shimbun_](htt
 
 The National Archives of Singapore (NAS) has oral history interviews from people who lived through the war, sketches left behind by prisoners-of-war, and personal documents issued during the Japanese Occupation. These resources are available for viewing at the National Archives at Canning Rise. Those interested can email NAS at nas@nlb.gov.sg.
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> This is an edited and translated version of 从国家图书馆文献窥看日本占领时期的新加坡华社. Click <a href="https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection/">here</a> to read the original piece.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"> This is an edited and translated version of 从国家图书馆文献窥看日本占领时期的新加坡华社. Click <a href="https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection/">here</a>&nbsp;to read the original piece.</div>
 	
 <div style="background-color: white;">
 <br>
@@ -192,7 +192,7 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 
 [^5]: Cai Shijun 蔡史君, “Erzhan qi jian riben zhanling xia de xīnjiapo” 二战期间日本占领下的新加坡 \[Singapore during the Japanese Occupation in World War II\], _Yí hé shìjì_ [怡和世纪](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12303283) 24 (October 2014–January 2015): 93. (From National Library, Singapore, call no. Chinese RSING 369.25957 OPEHHC); Li Yeling 李业霖, ed., _Feng na jin ziliao xuanbian_ [奉纳金资料选编](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660) \[Selected resources about _Fengnajin_\] Kuala Lumpur, Malaysia: _Hua she yanjiu zhongxin_ 华社研究中心, 2000), 8 (From National Library, Singapore, call no. Chinese RSEA 959.5703 FNJ-\[HIS\])
 
-[^6]: Li, [_Feng na jin ziliao xuanbian_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660),  54.
+[^6]: Li, [_Feng na jin ziliao xuanbian_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660),&nbsp; 54.
 
 [^7]: Li, [_Feng na jin ziliao xuanbian_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12925660), 8–10.
 
@@ -200,7 +200,7 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 
 [^9]: Cai Shijun 蔡史君, ed., _Xin ma huaren kangzhan shiliao_ [新马华人抗战史料1937–1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=84454889) \[Malaysian Chinese resistance to Japan 1937-1945\] (Sigapore: 文史出版公司, 1984), 375-416. (From National Library, Singapore, call no. Chinese RSING 959.57023 MAL-\[HIS\])
 
-[^10]: Tan Yeok Seong, “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya,” [_Journal of the South Seas Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489)  6 (September 1946): 3–12. (From National Library, Singapore, call no. Chinese RCLOS 959.005 JSSS)
+[^10]: Tan Yeok Seong, “History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution from the Chinese in Malaya,” [_Journal of the&nbsp;South Seas&nbsp;Society_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84444489)  6 (September 1946): 3–12. (From National Library, Singapore, call no. Chinese RCLOS 959.005 JSSS)
 
 [^11]: The mass exhumation of the remains of the war dead was mainly led by the Singapore Chinese Chamber of Commerce in the 1960s. After exhumation work ended in October 1966, the Chinese Chamber of Commerce published the book, _Record on the Memorial to the People Who Died During the Japanese Occupation_ in 1969. It recorded in detail the entire process, from the exhumation work to the establishment of the Civilian War Memorial.
 

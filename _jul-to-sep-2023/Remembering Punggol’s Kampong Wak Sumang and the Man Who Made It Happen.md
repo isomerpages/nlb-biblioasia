@@ -168,7 +168,7 @@ Tok Sumang was unable to comprehend what the interpreter explained to the white 
 <a href="https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2e94054b-1160-11e3-83d5-0050568939ad-OHC000319_003/web/html5/index.html">Awang Bin Osman</a>,
 oral history interview by Mohd Yussoff Ahmad, 11 August 1984, transcript and MP3 audio, Reel/Disc 3 of 30, 31–33, National Archives of Singapore (accession no. 000319).<br><br>
 Mastomo, 
-<a href="https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx">
+<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded">
 	<i>Tok Sumang</i></a> (Singapore: Geliga Limited, 1957), 33. (From BookSG)<br><br>
 <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/424f611c-115e-11e3-83d5-0050568939ad">Mohd Amin Bin Abdul Wahab (Haji)</a>, oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 25.50–26.22, 28.30–29.40, National Archives of Singapore (accession no. 001597). <br><br>
 Rosli A Razak, “Evolusi Sejarah Punggol daripada sebuah Kampung Nelayan kepada Bandar Moden Mesra Alam,” <i>Berita</i>, 24 February 2023, https://berita.mediacorp.sg/singapura/evolusi-sejarah-punggol-daripada-sebuah-kampung-nelayan-kepada-bandar-moden-mesra-alam-735266.  <br><br>
@@ -189,25 +189,25 @@ The National Archives, UK,
 
 [^2]: Saini Salleh, “[Sungai Wak Sumang Terus Menjadi Tempat Pertemuan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19871213-1.2.13.1),” _Berita Harian_, 13 December 1987, 3 (From NewspaperSG)
 
-[^3]: This is the English translation by Ahmad Ubaidillah, a descendant of Wak Sumang. For the original Malay version, see Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx) (Singapore: Geliga Limited, 1957), 4. (From BookSG; accession no. B29234707A)
+[^3]: This is the English translation by Ahmad Ubaidillah, a descendant of Wak Sumang. For the original Malay version, see Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded) (Singapore: Geliga Limited, 1957), 4. (From BookSG; accession no. B29234707A)
 
 [^4]: “[What’s in a Name](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900814-1.2.60.5.7),” _Straits Times,_ 14 August 1990, 7 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Saini Salleh, “[Sungai Wak Sumang Terus Menjadi Tempat Pertemuan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19871213-1.2.13.1),” _Berita Harian_, 13 December 1987, 3 (From NewspaperSG)
 
-[^5]: “[Pahang Civil War Breaks out](https://eresources.nlb.gov.sg/history/events/e0ab6637-5e31-4d23-8617-d2dacb1aa842),” in _HistorySG_, National Library Board Singapore. Article published 2014.
+[^5]: “[Pahang Civil War Breaks out](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e0ab6637-5e31-4d23-8617-d2dacb1aa842#:~:text=During%20the%20Pahang%20civil%20war,in%20the%20interior%20of%20Pahang),” in _HistorySG_, National Library Board Singapore. Article published 2014.
 
-[^6]: Mohd Raman Daud, “Tempa Nama Lewat Novelet,” _Berita Harian_, 28 April 2014, 7 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 4–5.
+[^6]: Mohd Raman Daud, “Tempa Nama Lewat Novelet,” _Berita Harian_, 28 April 2014, 7 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 4–5.
 
-[^7]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 6.
+[^7]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 6.
 
-[^8]: Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 6, 10, 24. &nbsp;
+[^8]: Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 6, 10, 24. &nbsp;
 
-[^9]: Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 18.
+[^9]: Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 18.
 
 [^10]: Mastomo’s _Tok Sumang_ is most closely matched by the account of Jusoh Ahmad, who was the son of Ahmad, son of Lambak, son of Wak Sumang and Kopek. See Mohd Maidin, “[Penggesek Biola Yg Masyhor Buka Kg Wak Sumang](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19830313-1.2.22),” _Berita Minggu_, 13 March 1983, 3. (From NewspaperSG) \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
 
 [^11]: The National Archives, UK, [_Map of Singapore Island, and Its Dependencies, 1852_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb830a64-115c-11e3-83d5-0050568939ad), map. (From National Archives of Singapore, accession no. SP006879); Mok Ly Yng, correspondence, March 2023.
 
-[^12]: [Mohd Amin Bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 15.50–24.33, National Archives of Singapore (accession no. 001597); Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 23.
+[^12]: [Mohd Amin Bin Abdul Wahab (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/37c2a404-115e-11e3-83d5-0050568939ad), oral history interview by Ruzita Zaki, 23 January 1995, MP3 audio, Reel/Disc 1 of 44, 15.50–24.33, National Archives of Singapore (accession no. 001597); Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 23.
 
 [^13]: [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5bdd7cd6-115f-11e3-83d5-0050568939ad-OHC000319_027/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 26 December 1985, transcript and MP3 audio, Reel/Disc 27 of 30, 340, 347, National Archives of Singapore (accession no. 000319). Awang Osman’s maternal grandfather was a son of Wak Sumang.
 
@@ -215,17 +215,17 @@ The National Archives, UK,
 
 [^15]: [Cucu2 Wak Sumang Diberi Flat](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860330-1.2.12.2)”, _Berita Minggu_, 30 March 1986, 2 (From NewspaperSG)
 
-[^16]: Mok Ly Yng, correspondence, January 2023; Joanna Tan, “[The Padang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2021-11-15_154605.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published March 2021. &nbsp;&nbsp;
+[^16]: Mok Ly Yng, correspondence, January 2023; Joanna Tan, “[The Padang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c3c58307-b306-4a38-846f-a0b7f13c0a7e),” in _Singapore Infopedia_. National Library Board Singapore. Article published March 2021. &nbsp;&nbsp;
 
 [^17]: Saini Salleh, “Perigi Tua Wak Sumang”_, Berita Harian,_ 8 January 1995, 3 (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^18]: “[A Well That Never Runs Dry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950111-1.2.61.7.1),” _Straits Times,_ 11 January 1995, 11 (From NewspaperSG)&nbsp;
 
-[^19]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 35. &nbsp;
+[^19]: This is the English translation by Ahmad Ubaidillah. For the original Malay version, see Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 35. &nbsp;
 
 [^20]: “[Municipal Commissioners](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18760401-1.2.12),” _Straits Times,_ 1 April 1876, 1; “[The Municipality](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18840105-1.2.6.20),” _Straits Times Weekly Issue,_ 5 January 1884, 7 (From NewspaperSG)
 
-[^21]: Mastomo, [_Tok Sumang_](https://eresources.nlb.gov.sg/printheritage/detail/bfe0225f-eeec-407f-b25e-697e768c7ded.aspx), 34–37.
+[^21]: Mastomo, [_Tok Sumang_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bfe0225f-eeec-407f-b25e-697e768c7ded), 34–37.
 
 [^22]: “[Cucu2 Wak Sumang Diberi Flat](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19860330-1.2.12.2).”
 
@@ -251,7 +251,7 @@ The National Archives, UK,
 
 [^33]: [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/31cf7545-1160-11e3-83d5-0050568939ad-OHC000319_010/web/html5/index.html), oral history interview by Mohd Yussoff Ahmad, 15 August 1984, transcript and MP3 audio, Reel/Disc 10 of 30, 134. \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
 
-[^34]: Stephanie Ho, “[Operation Sook Ching](https://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 17 June 2013. &nbsp;&nbsp;
+[^34]: Stephanie Ho, “[Operation Sook Ching](https://www.nlb.gov.sg/main/article-detail?cmsuuid=cc4da337-3bcd-4f96-bdc6-5210646bdd90),” in _Singapore Infopedia_. National Library Board Singapore. Article published 17 June 2013. &nbsp;&nbsp;
 
 [^35]: [Awang Bin Osman](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/31cf7545-1160-11e3-83d5-0050568939ad-OHC000319_010/web/html5/index.html), Reel/Disc 10 of 30, 134. \[English translation by Hannah Yeo and Diyanah Kamarudin.\]
 

@@ -184,7 +184,7 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^17]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 9 January 2018, Reel/Disc 1 of 10, 21.
 
-[^18]: Lee Meiyu and Fiona Lim, “[Bukit Timah Nature Reserve](https://eresources.nlb.gov.sg/infopedia/articles/SIP_55_2004-12-20.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 19 November 2015.
+[^18]: Lee Meiyu and Fiona Lim, “[Bukit Timah Nature Reserve](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0c96eac2-2c65-4d1b-81b2-bf49eb626175),” in _Singapore Infopedia_. National Library Board Singapore. Article published 19 November 2015.
 
 [^19]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b1020146-4db8-11e8-b81e-001a4a5ba61b-OHC004236_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 9 January 2018, Reel/Disc 1 of 10, 21, 22.
 
@@ -216,7 +216,7 @@ In an interview with the _Straits Times_ in August 2022, Sankar noted that many 
 
 [^33]: [Subaraj Rajathurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/00dba138-4db9-11e8-b81e-001a4a5ba61b-OHC004236_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history 16 January 2018, Reel/Disc 3 of 10, 56.
 
-[^34]: Janice Loo, “[Sungei Buloh Wetland Reserve](https://eresources.nlb.gov.sg/infopedia/articles/SIP_566_2005-02-01.html),” _Singapore Infopedia_, published 31 December 2015; Subaraj Rajathurai, “[The Man Behind Sungei Buloh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150816-1.2.37.10.2),” _Straits Times_, 16 August 2015, 6; Wing Chong, “[Volunteers’ Efforts Helped Save Sungei Buloh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150823-1.2.37.12),” _Straits Times_, 23 August 2015, 6. (From NewspaperSG)&nbsp;
+[^34]: Janice Loo, “[Sungei Buloh Wetland Reserve](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a6fb17f3-c113-4a02-8908-6f36f95c75e4),” _Singapore Infopedia_, published 31 December 2015; Subaraj Rajathurai, “[The Man Behind Sungei Buloh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150816-1.2.37.10.2),” _Straits Times_, 16 August 2015, 6; Wing Chong, “[Volunteers’ Efforts Helped Save Sungei Buloh](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150823-1.2.37.12),” _Straits Times_, 23 August 2015, 6. (From NewspaperSG)&nbsp;
 
 [^35]: Lee, “[At Home with Nature](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20170220-1.2.56.1).”
 

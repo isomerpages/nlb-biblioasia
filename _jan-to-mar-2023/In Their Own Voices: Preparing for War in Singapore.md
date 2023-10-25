@@ -153,20 +153,35 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^3]: Soh Guan Bee, oral history interview by Low Lay Leng, 17 August 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e685a37a-115d-11e3-83d5-0050568939ad-OHC000310_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=13) and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore ([accession no. 000310](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e685a37a-115d-11e3-83d5-0050568939ad), 8–9.
 
 [^4]: Tan Ban Cheng, oral history interview by Low Lay Leng, 25 January 1979,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e7e9ea71-115d-11e3-83d5-0050568939ad-OHC000392_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)&nbsp;and MP3 audio Reel/Disc 1 of 9, National Archives of Singapore ([accession no. 000392](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000392)), 7.
+
 [^5]: Tan Guan Chuan, oral history interview by Low Lay Leng, 21 March 1984, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ebab8cb9-115d-11e3-83d5-0050568939ad-OHC000414_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=17) and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore ([accession no. 000414](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ebab8cb9-115d-11e3-83d5-0050568939ad)), 12–13.
+
 [^6]: Abdealli K Motiwalla, oral history interview by Chua Ser Koon, 19 August 1982,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/331756cf-115f-11e3-83d5-0050568939ad-OHC000204_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)&nbsp;and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore ([accession no. 000204](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/331756cf-115f-11e3-83d5-0050568939ad)), 1– 2.
+
 [^7]: [Abdealli K. Motiwalla](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/331756cf-115f-11e3-83d5-0050568939ad-OHC000204_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5), oral history interview, 19 August 1982, Reel/Disc 1 of 4, 3–4.
+
 [^8]: “[Singapore Will not be Evacuated in an Air Raid](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390508-1.2.96),”&nbsp;_Straits Times_, 8 May 1939, 14. (From NewspaperSG)
+
 [^9]: “[Accommodation for Poorer Evacuees](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19410501-1.2.67),”&nbsp;_Straits Budget_, 1 May 1941, 14. (From NewspaperSG)
+
 [^10]: “[Why No Shelters Have Been Built In Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410913-1.2.23),”&nbsp;_Singapore Free Press and Mercantile Advertiser_, 13 September 1941, 3. (From NewspaperSG)
+
 [^11]: “[Why No Shelters Have Been Built In Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410913-1.2.23).
+
 [^12]: Lee Tian Soo, oral history interview by Low Lay Leng, 23 April 1983,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/38aeebd2-115f-11e3-83d5-0050568939ad-OHC000265_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=13)&nbsp;and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore ([accession no. 000265](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/38aeebd2-115f-11e3-83d5-0050568939ad)), 8.
+
 [^13]: Tan Geok Koon, oral history interview by Claire Yeo, 11 August 2006,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e6bae038-1160-11e3-83d5-0050568939ad-OHC003067_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)&nbsp;and MP3 audio, Reel/Disc 1 of 2, National Archives of Singapore ([accession no. 003067](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e6bae038-1160-11e3-83d5-0050568939ad)), 3.
+
 [^14]: Chu Shuen Choo, oral history interview by Low Lay Leng, 15 August 1984,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e98a11b7-115d-11e3-83d5-0050568939ad-OHC000462_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=13)&nbsp;and MP3 audio, Reel/Disc 1 of 12, National Archives of Singapore ([accession no. 000462](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e98a11b7-115d-11e3-83d5-0050568939ad)), 9–10.
+
 [^15]: Rajabali Jumabhoy, oral history interview by Lim How Seng, 15 July 1981,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2c06d5d4-115f-11e3-83d5-0050568939ad-OHC000074_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)&nbsp;and MP3 audio, Reel/Disc 11 of 37, National Archives of Singapore ([accession no. 000074](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/2c06d5d4-115f-11e3-83d5-0050568939ad)), 72–73.
+
 [^16]: [Rajabali Jumabhoy](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2c06d5d4-115f-11e3-83d5-0050568939ad-OHC000074_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3), oral history interview, 15 July 1981, Reel/Disc 11 of 37, 72–73.
-[^17]: Michael Mukunathan, “[Rajabali Jumabhoy](https://eresources.nlb.gov.sg/infopedia/articles/SIP_859_2004-12-27.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016. 
+
+[^17]: Michael Mukunathan, “[Rajabali Jumabhoy](https://www.nlb.gov.sg/main/article-detail?cmsuuid=af046cc9-a994-478f-b9b3-d9e1ef3bfb0d),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016. 
+
 [^18]: [Rajabali Jumabhoy](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2c06d5d4-115f-11e3-83d5-0050568939ad-OHC000074_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3), oral history interview, 15 July 1981, Reel/Disc 11 of 37, 73–74.
+
 [^19]: Isa Ibrahim, oral history interview by Low Lay Leng, 6 January 1983,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e4e19c80-115d-11e3-83d5-0050568939ad-OHC000242_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)&nbsp;and MP3 audio, Reel/Disc 11 of 28, National Archives of Singapore ([accession no. 000242](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e4e19c80-115d-11e3-83d5-0050568939ad), 137.
 
 [^20]: Lee, [*The Syonan Years*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12661517), 44.
@@ -178,13 +193,16 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^23]: Gay Wan Guay, oral history interview by Low Lay Leng, 17 April 1984,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/95387ecb-1160-11e3-83d5-0050568939ad-OHC000374_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)&nbsp;and MP3 audio, Reel/Disc 1 of 22, National Archives of Singapore ([accession no. 000374](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/95387ecb-1160-11e3-83d5-0050568939ad)), 6–7.
 
 [^24]: Lee Kip Lee, oral history interview by Cindy Chou, 13 July 1994,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/d2e1d031-115f-11e3-83d5-0050568939ad-OHC001532_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)&nbsp;and MP3 audio, Reel/Disc 1 of 6, National Archives of Singapore ([accession no. 001532](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/d2e1d031-115f-11e3-83d5-0050568939ad)), 3.
+
 [^25]: Mani Letchumanan Masillamani, oral history interview by Jesley Chua Chee Huan, 23 April 2010,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/1ae11562-1162-11e3-83d5-0050568939ad-OHC003509_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9)&nbsp;and MP3 audio, Reel/Disc 2 of 20, National Archives of Singapore ([accession no. 003509](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1ae11562-1162-11e3-83d5-0050568939ad)), 41.
+
 [^26]: [Mani Letchumanan Masillamani](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/1ae11562-1162-11e3-83d5-0050568939ad-OHC003509_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), oral history interview, 23 April 2010, Reel/Disc 2 of 20, 43.
+
 [^27]: “[Scrap is Already Piling Up for ‘Salvage Week’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19410114-1.2.68),”&nbsp;_Singapore Free Press and Mercantile Advertiser_, 14 January 1941, 7 (From NewspaperSG)
 
 [^28]: Soh Chuan Lam, oral history interview by Low Lay Leng, 5 September 1983,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e93220dd-115d-11e3-83d5-0050568939ad-OHC000304_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)&nbsp;and MP3 audio, Reel/Disc 1 of 8, National Archives of Singapore ([accession no. 000304](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e93220dd-115d-11e3-83d5-0050568939ad)), 7.
 
-[^29]: Alec Soong and Goh Lee Kim, “[Singapore Volunteer Corps](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html),” in&nbsp;_Singapore Infopedia_. National Library Board Singapore. Article published October 2021.             
+[^29]: Alec Soong and Goh Lee Kim, “[Singapore Volunteer Corps](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e0a84f66-bb18-4d44-918a-5025bb78c90c),” in&nbsp;_Singapore Infopedia_. National Library Board Singapore. Article published October 2021.             
 
 [^30]: Chan Cheng Yean, oral history interview by Low Lay Leng, 8 March 1983,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c13e8c-115d-11e3-83d5-0050568939ad-OHC000248_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=1)&nbsp;and MP3 audio, Reel/Disc 4 of 10, National Archives of Singapore ([accession no. 000248](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e2c13e8c-115d-11e3-83d5-0050568939ad)), 37–38.
 

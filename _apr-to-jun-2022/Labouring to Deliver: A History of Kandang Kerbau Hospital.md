@@ -1,7 +1,9 @@
 ---
 title: "Labouring to Deliver: A History of Kandang Kerbau Hospital"
 permalink: /vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital/
-description: ""
+description: The old Kandang Kerbau Hospital was once known as the busiest
+  maternity hospital in the world. **Joanna Tan** delivers the story behind a
+  hallowed Singapore institution.
 image: /images/Vol 18 Issue 1/KKH Hospital/19980001245 IMG0083.png
 ---
 #### The old Kandang Kerbau Hospital was once known as the busiest maternity hospital in the world. **Joanna Tan** delivers the story behind a hallowed Singapore institution.
@@ -122,7 +124,7 @@ KK Hospital continues to strive for excellence and innovation in women’s and c
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol%2018%20Issue%201/Authors/Joanna_Tan.png" style="width: 100px; height: 100px;"/>
+<img src="/images/Vol%2018%20Issue%201/Authors/Joanna_Tan.png" style="width: 100px; height: 100px;">
 	<b>Joanna Tan</b> is a Senior Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection. Her responsibilities include collection management and content development as well as providing reference and research services.</div>
 	
 #### **NOTES**
@@ -131,7 +133,7 @@ KK Hospital continues to strive for excellence and innovation in women’s and c
 
 [^2]: Lea Wee, “[A New KK, But Keep the Little Ones Coming](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960929-1.2.84.4),” *Straits Times*, 29 September 1996, 2; Danny Lim, “[He’s Been Through a Birthquake](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19970823-1.2.13.7),” *New Paper*, 23 August 1997, 14; Arlina Arshad, “[Old KK Hospital Now a Historic Site](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030324-1.2.26.7.8),” *Straits Times*, 24 March 2003, 10. (From NewspaperSG)
 
-[^3]: Low Mei Mei, “[Birthplace of Many Beside a Bamboo Grove](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870324-1.2.27.4),” *Straits Times*, 24 March 1987, 16. (From NewspaperSG); Tan Kok Hian and Tay Eng Hseon, eds., [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621) (Singapore: Obstetrical & Gynaecological Society of Singapore and the National Heritage Board, 2003), 49. (From National Library, Singapore, Call no. RSING q618.095957 HIS)
+[^3]: Low Mei Mei, “[Birthplace of Many Beside a Bamboo Grove](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870324-1.2.27.4),” *Straits Times*, 24 March 1987, 16. (From NewspaperSG); Tan Kok Hian and Tay Eng Hseon, eds., [*The History of Obstetrics and Gynaecology in Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11905621) (Singapore: Obstetrical &amp; Gynaecological Society of Singapore and the National Heritage Board, 2003), 49. (From National Library, Singapore, Call no. RSING q618.095957 HIS)
 
 [^4]: Lim, “[He’s Been Through a Birthquake](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19970823-1.2.13.7).”
 

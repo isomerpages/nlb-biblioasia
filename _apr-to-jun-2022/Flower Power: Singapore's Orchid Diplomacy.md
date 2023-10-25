@@ -1,7 +1,9 @@
 ---
 title: "Flower Power: Singapore's Orchid Diplomacy"
 permalink: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/
-description: ""
+description: Singapore’s diplomatic efforts may take several forms, including
+  naming orchid hybrids after foreign dignitaries. **Rebecca Tan** tells us
+  more.
 image: /images/Vol 18 Issue 1/Orchid Diplomacy/Sealara Nelson Mandela (credit
   NParks).png
 ---
@@ -120,8 +122,8 @@ While some might hanker after an orchid named after a favourite celebrity, these
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The author is grateful to the National Parks Board and Peggy Tan, former president of the Orchid Society of South East Asia, for providing additional information for this essay.</div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Rebecca_tan.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%201/Authors/Rebecca_tan.png" style="width: 100px; height: 100px;">
 	<b>Rebecca Tan</b> is an Associate Librarian with the National Library, Singapore. She is part of the digital heritage team and works on curating and promoting access to the library’s digital collections.</div>
 
 #### **NOTES**
@@ -174,7 +176,7 @@ While some might hanker after an orchid named after a favourite celebrity, these
 
 [^24]:Teo, “[VIPs in Full Bloom](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19970610-1.2.9.1)”; “[An Orchid Gift for Japanese Royal Bride](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930529-1.2.58.2),” *Straits Times*, 29 May 1993, 28; “[S'pore Orchid for Japan's Royal Newlyweds](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930608-1.2.5),” *Straits Times*, 8 June 1993, 1. (From NewspaperSG)
 
-[^25]: Chen, “[He Grows Orchid Hybrids for VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20091122-1.2.3.7)”; Gwendolyn Ng, “[Worthy Boasts & Other Quirks](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090809-1.2.106.13),” *Straits Times*, 9 August 2009, 109. (From NewspaperSG) 
+[^25]: Chen, “[He Grows Orchid Hybrids for VIPs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20091122-1.2.3.7)”; Gwendolyn Ng, “[Worthy Boasts &amp; Other Quirks](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090809-1.2.106.13),” *Straits Times*, 9 August 2009, 109. (From NewspaperSG) 
 
 [^26]: National Parks Board, email, 17 December 2021. 
 

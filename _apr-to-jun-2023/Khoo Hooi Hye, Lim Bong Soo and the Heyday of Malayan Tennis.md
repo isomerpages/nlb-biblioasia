@@ -171,7 +171,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^8]: Nicholas G. Aplin and Quek Jin Jong, “Celestials in Touch: The Development of Sport and Exercise in Colonial Singapore,” *The International Journal of the History of Sport* 19, no. 2–3 (2002): 68, 72, NIE Digital Repository, https://repository.nie.edu.sg/handle/10497/19780.
 
-[^9]: The Celestial Reasoning Association was considered the first debating society formed by the Straits Chinese and the earliest literary society for educated Chinese. See Bonny Tan, “[Celestial Reasoning Association](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1366_2009-11-25.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published September 2020.
+[^9]: The Celestial Reasoning Association was considered the first debating society formed by the Straits Chinese and the earliest literary society for educated Chinese. See Bonny Tan, “[Celestial Reasoning Association](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0892544e-b15d-4f9a-a217-e57a65262f3c),” in *Singapore Infopedia*. National Library Board Singapore. Article published September 2020.
 
 [^10]: Lim Boon Keng in 1893; Song Ong Siang in 1894.
 
@@ -215,7 +215,7 @@ Sadly, the tantalising hopes of Singapore as a tennis power created by the spell
 
 [^30]: “[Hooi Hye Champion](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19290621-1.2.89).”  For the earlier 1921 report by the same correspondent, see “[Lawn Tennis](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19210909-1.2.56).”
 
-[^31]: Lim Bong Soo, “Some Impressions of My Trip to China,” in [*Straits Chinese Annual, 1930*](https://eresources.nlb.gov.sg/printheritage/detail/f2c50749-c17f-4ea0-8144-f380e2315834.aspx), ed. Song Ong Siang (Singapore: Kwa Siew Tee, Ho Hong Bank, 1930), 97. (From BookSG)
+[^31]: Lim Bong Soo, “Some Impressions of My Trip to China,” in [*Straits Chinese Annual, 1930*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f2c50749-c17f-4ea0-8144-f380e2315834), ed. Song Ong Siang (Singapore: Kwa Siew Tee, Ho Hong Bank, 1930), 97. (From BookSG)
 
 [^32]: Lim, “Some Impressions of My Trip to China,” 95.
 

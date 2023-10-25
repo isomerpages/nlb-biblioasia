@@ -366,7 +366,7 @@ Wylie, Alexander, <i>Memorials of Protestant Missionaries to the Chinese</i> (Sh
 
 [^24]: Mazelan Anuar, “[Through the Eye Glass](/vol-11/issue-4/jan-mar-2016/cermin-mata-benjamin-keasberry/),”&nbsp;_BiblioAsia_&nbsp;11, no. 4 (January–March 2016): 86–87.
 
-[^25]: Gracie Lee, “[Benjamin Keasberry](https://eresources.nlb.gov.sg/infopedia/articles/SIP_781_2005-01-03.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
+[^25]: Gracie Lee, “[Benjamin Keasberry](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f65a75d3-057e-44ca-adf8-cd8c68c15214),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2016.
 
 [^26]: _The Evangelical Magazine and Missionary Chronicle 1840_. (London: Thomas Ward and Co., 1840), HathiTrust, https://hdl.handle.net/2027/hvd.ah6ls8.
 

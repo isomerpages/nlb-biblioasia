@@ -21,8 +21,10 @@ The Asian Film Archive has been restoring old classics since 2014.
 <img src="/images/Vol%2018%20Issue%204/Asian%20Film/image14.png">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios/">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a>
 
+Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan.
 
-
-
+<img src="/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png">  
+<hr>
 

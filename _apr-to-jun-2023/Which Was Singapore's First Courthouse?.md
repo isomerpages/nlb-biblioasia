@@ -154,7 +154,7 @@ The Supreme Court, meanwhile, occupied the building at the junction of St Andrew
 Chong, Vince, “Old Parliament House, 4 Others Win Heritage Awards,” <i>Straits Times</i>, 13 October 2004, 9. (From Newslink via NLB’s <a href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
 “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19390804-1.2.79.aspx">Dignified Pageantry at Opening of New Supreme Court</a>,” <i>Singapore Free Press and Mercantile Advertiser</i>, 4 August 1939, 9. (From NewspaperSG)<br><br>
 “Facelift for Oldest Building a Winner,” <i>Straits Times</i>, 13 October 2004, 2. (From Newslink via NLB’s <a href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
-Faizah Zakaria, “<a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1770_2011-04-05.html">Supreme Court</a>,” in <i>Singapore Infopedia</i>. National Library Board Singapore. Article published 2011.<br><br>
+Faizah Zakaria, “<a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=867d2edc-815c-46bd-9835-211e4ecbbd29">Supreme Court</a>,” in <i>Singapore Infopedia</i>. National Library Board Singapore. Article published 2011.<br><br>
 Helmi Yusof, "PM Lee Unveils S$532m National Gallery," <i>Business Times</i>, 24 November 2015, 5. (From Newslink via NLB’s <a href="https://eresources.nlb.gov.sg/main/">	eResources</a> website)<br><br>
 Makepeace, Walter, Gilbert E. Brooke and Roland St. John Braddell, eds., <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718">	One
 Hundred Years of Singapore</a></i>, vol. 1 (Singapore: Oxford University Press, 1991), 179–180. (From National Library, Singapore, call no. RSING 959.57 ONE-[HIS])<br><br>
@@ -169,23 +169,23 @@ Tan, Clarissa, “A Supreme Makeover,” <i>Business Times</i>, 10 September 201
 
 #### **NOTES**
 
-[^1]: “Treaty of Friendship and Alliance concluded between the Honourable Sir Thomas Stamford Raffles Lieutenant Governor of Fort Marlborough and its Dependencies, Agent to the Most Noble Francis Marquess of Hastings Governor General of India, etc, for the Honorable English East India Company on the one part and their Highnesses Sultan Hussein Mahummud Shah Sultan of Johore and Datoo Tummungung Sree Maharajah Abdul Raman Chief of Singapoora and its Dependencies; n the other part”. See Charles Burton Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, vol. 1 (Singapore: Fraser and Neave, 1902), 38. (From BookSG)
+[^1]: “Treaty of Friendship and Alliance concluded between the Honourable Sir Thomas Stamford Raffles Lieutenant Governor of Fort Marlborough and its Dependencies, Agent to the Most Noble Francis Marquess of Hastings Governor General of India, etc, for the Honorable English East India Company on the one part and their Highnesses Sultan Hussein Mahummud Shah Sultan of Johore and Datoo Tummungung Sree Maharajah Abdul Raman Chief of Singapoora and its Dependencies; n the other part”. See Charles Burton Buckley, *[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)*, vol. 1 (Singapore: Fraser and Neave, 1902), 38. (From BookSG)
 
-[^2]: “Arrangements Made for the Government of Singapore, in June 1819” as reproduced in Thomas St John Braddell, *[The Law of the Straits Settlements: A Commentary](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4367158)* (Singapore: Kelly &amp; Walsh, 1915), 148–150. (From National Library, Singapore, call no. RRARE 348.5957026 BRA). Also see Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 58. Tanjong Malang is today the end of Shenton Way, near its junction with Prince Edward Road, while what was referred to as Tanjong Katong (or Deep Water Point) would be on the old coast where Still Road meets East Coast Road.
+[^2]: “Arrangements Made for the Government of Singapore, in June 1819” as reproduced in Thomas St John Braddell, *[The Law of the Straits Settlements: A Commentary](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4367158)* (Singapore: Kelly &amp; Walsh, 1915), 148–150. (From National Library, Singapore, call no. RRARE 348.5957026 BRA). Also see Buckley, *[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)*, 58. Tanjong Malang is today the end of Shenton Way, near its junction with Prince Edward Road, while what was referred to as Tanjong Katong (or Deep Water Point) would be on the old coast where Still Road meets East Coast Road.
 
 [^3]: This estimate is based on the fact that the 12-pounder smooth-bore British cannons of the early 19th century had a range of about 1.2 km, and Article 1 of the treaty stipulated that the jurisdiction extended “as far as the range of cannon shot, all around the factory”.
 
-[^4]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 39.
+[^4]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)*, 39.
 
-[^5]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 39.
+[^5]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)*, 39.
 
 [^6]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 39.
 
-[^7]: “Arrangements Made for the Government of Singapore in June 1819”. See Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 58.
+[^7]: “Arrangements Made for the Government of Singapore in June 1819”. See Buckley, *[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)*, 58.
 
-[^8]: Article 1. See Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 58. 
+[^8]: Article 1. See Buckley, *[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)*, 58. 
 
-[^9]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 58–59.
+[^9]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)*, 58–59.
 
 [^10]: Raffles Museum and Library, “Farquhar to Raffles, 2 November 1819,” *[L10: Singapore: Letters to Bencoolen](https://www.nas.gov.sg/archivesonline/private_records/record-details/b544bcee-e33b-11e9-b18a-001a4a5ba61b)*, Straits Settlements Records, 188–190. (From National Archives of Singapore)
 

@@ -1,7 +1,9 @@
 ---
 title: Siti Radhiah’s Cookbooks for the Modern Malay Woman
 permalink: /vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks/
-description: ""
+description: "A number of cookbooks written in the 1940s and 1950s helped expand
+  the traditional Malay culinary repertoire, as **Toffa Abdul Wahed** tells us.
+  "
 image: /images/vol-17-issue-4/cookbook/cookbook.png
 ---
 #### A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as **Toffa Abdul Wahed** tells us.  
@@ -106,7 +108,7 @@ Siti Radhiah may have included recipes from Indonesia and Brunei because she vie
 
 It is interesting to note that the cover of *Memilih Selera* features a Western woman about to carve what looks like a turkey even though the cookbook features only a handful of Western-style recipes, none of which is for a roasted fowl. It was not uncommon for publications at the time, such as popular postwar magazines like *Asmara, Aneka Warna* and *Fesyen*, to portray images of Western women, especially Hollywood celebrities, as these appealed to younger readers and the masses in general.[^32] 
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/SJ4Qoe6bniI" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/SJ4Qoe6bniI" frameborder="0" allowfullscreen=""></iframe></div>
 
 #### **A Guide for Life**
 
@@ -129,15 +131,15 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 *The author thanks Dr Geoffrey Pakiam for his assistance and advice.*
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-17-issue-4/authors/Toffa_Abdul_Wahed.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-4/authors/Toffa_Abdul_Wahed.png" style="width: 100px; height: 100px;">
 	<b>Toffa Abdul Wahed</b> is an Associate Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia collection. She was previously a research assistant (2018–20) for a project titled <i>Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption</i>, funded by the National Heritage Board’s Heritage Research Grant. </div>
 
 #### **NOTES**
 
 [^1]: Her name has also been spelled “Radiah” and “Radziah”, and her father’s name has also been spelled “Salleh”. For this essay, I have used the spelling “Radhiah” and “Saleh” from Siti Haida Harun’s cookbook. 
 
-[^2]: According to Christopher Tan, food writer and author of *The Way of Kueh* (2019), the word *kueh* or *kuih* refers to a diverse variety of sweet and savoury foods and snacks. *Kuih* is the formal spelling used in Malay today. I have used this spelling to replace all instances of *kueh* mentioned in the materials consulted for this essay, including Siti Radhiah’s cookbooks. See Christopher Tan, “[*The Way of Kueh: Savouring & Saving Singapore's Heritage Desserts*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932),” (Singapore: National Heritage Board, 2019), 2. (From National Library, Singapore, Call no. RSING 641.595957 TAN)
+[^2]: According to Christopher Tan, food writer and author of *The Way of Kueh* (2019), the word *kueh* or *kuih* refers to a diverse variety of sweet and savoury foods and snacks. *Kuih* is the formal spelling used in Malay today. I have used this spelling to replace all instances of *kueh* mentioned in the materials consulted for this essay, including Siti Radhiah’s cookbooks. See Christopher Tan, “[*The Way of Kueh: Savouring &amp; Saving Singapore's Heritage Desserts*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203962932),” (Singapore: National Heritage Board, 2019), 2. (From National Library, Singapore, Call no. RSING 641.595957 TAN)
 
 [^3]: Harun Aminurrashid, whose real name was Harun bin Muhamad Amin, was born in 1907 in Telok Kurau, Singapore. His other pen names include Har, Gustam Negara, Atma Jiwa and Si Ketuit. Besides writing textbooks and novels, Harun Aminurrashid was also the author of several publications, including *Warta Jenaka, Warta Ahad, Hiburan* and *Warta Malaya*. For a list of his works, see Abdul Ghani Hamid, [*Sebuah Catatan Ringkas Harun, Seorang Penulis*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7274038) (Singapore: Jawatankuasa Bulan Bahasa, 1994). (From National Library, Singapore, Call no. Malay RSING 899.2305 ABD)
 
@@ -185,7 +187,7 @@ In the later stage of her life, Siti Radhiah, true to her spirit of helping and 
 
 [^24]: Lenore Manderson, “The Shaping of the Kaum Ibu (Women’s Section) of the United Malays National Organisation,” *Signs* 3, no. 1 (Autumn 1977): 210–28. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^25]: Opened in 1947, Tenaga Murni at Onan Road was the first tailoring school for Malay women in Singapore. Recipes by its students were frequent features in *Fesyen*’s recipe column. Another of such school was Borneo Tailoring School located at 200 Joo Chiat Road. Despite its name, it was popular among Malay women who learned how to make Western cakes there. These schools also attracted students from other parts of British Malaya as well as Brunei. See “[Malay Women Take Up Tailoring & Embroidery](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490127-1.2.53),” *Straits Times*, 27 January 1949, 5; “[190 Girls Attend Tailoring School](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510314-1.2.47),” *Straits Times*, 14 March 1951, 4. (From NewspaperSG)
+[^25]: Opened in 1947, Tenaga Murni at Onan Road was the first tailoring school for Malay women in Singapore. Recipes by its students were frequent features in *Fesyen*’s recipe column. Another of such school was Borneo Tailoring School located at 200 Joo Chiat Road. Despite its name, it was popular among Malay women who learned how to make Western cakes there. These schools also attracted students from other parts of British Malaya as well as Brunei. See “[Malay Women Take Up Tailoring &amp; Embroidery](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490127-1.2.53),” *Straits Times*, 27 January 1949, 5; “[190 Girls Attend Tailoring School](http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510314-1.2.47),” *Straits Times*, 14 March 1951, 4. (From NewspaperSG)
 
 [^26]: In 1950, the first batch of teachers completed their training in domestic science at the Domestic Science Centre for Malay Women Teachers at Kuala Kangsar, Perak. The teachers were then posted to schools to teach domestic science to students from Standards IV to VI. See “[Domestic Science Centre in Perak](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/indiandailymail19500612-1.2.60),” *Indian Daily Mail*, 12 June 1950, 4. (From NewspaperSG)
 

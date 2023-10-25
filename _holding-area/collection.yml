@@ -2,5 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - New Books on Singapore History.md
+      - The Salvation Army in Singapore.md
       - Test2.md
       - Test page.md

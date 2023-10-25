@@ -1,7 +1,8 @@
 ---
 title: "We Are What We Eat: The Evolution of Chinese Food in Singapore"
 permalink: /vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore/
-description: ""
+description: Chinese food in Singapore is a product of the country’s history and
+  geography, reveals **Low Sze Wee**.
 image: /images/Vol 18 Issue 1/Chinese Food/chicken rice.png
 ---
 #### Chinese food in Singapore is a product of the country’s history and geography, reveals **Low Sze Wee**.
@@ -86,8 +87,8 @@ For more information, visit https://singaporeccc.org.sg/permanent-exhibition/.
 </div>
 	
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Low_Sze_Wee.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%201/Authors/Low_Sze_Wee.png" style="width: 100px; height: 100px;">
 	<b>Low Sze Wee</b> is Chief Executive Officer of the Singapore Chinese Cultural Centre. Formerly head of the curatorial departments at the Singapore Art Museum and then National Gallery Singapore, Sze Wee has curated many local and international exhibitions, including important retrospectives on Singaporean artists and the Singapore pavilion at the 50th Venice Biennale in 2003.</div>
 	
 #### **NOTES**

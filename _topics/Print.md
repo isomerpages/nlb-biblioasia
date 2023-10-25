@@ -15,10 +15,9 @@ The story of Operation Jaywick, a daring attack on Japanese ships at Keppel Harb
 <img src="/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_1.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper/">Printed on Rubber Latex Paper</a>
+An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was resistant to folding, as **Alex Teoh** tells us.
 
-
-
-
-
-
+<img src="/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/covers_editted.png">
+<hr>
 

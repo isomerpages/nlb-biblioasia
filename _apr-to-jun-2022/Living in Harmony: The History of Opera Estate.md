@@ -1,7 +1,9 @@
 ---
 title: "Living in Harmony: The History of Opera Estate"
 permalink: /vol-18/issue-1/apr-to-jun-2022/history-opera-estate/
-description: ""
+description: "**Asrina Tanuri** traces the development of Opera Estate from its
+  early beginnings as coconut and rubber plantations to a private residential
+  estate."
 image: /images/Vol 18 Issue 1/Opera Estate/Jalan Bintang Tiga (2020) (orig).png
 ---
 #### **Asrina Tanuri** traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
@@ -20,20 +22,20 @@ Opera Estate is a private residential estate bordered by New Upper Changi Road, 
 
 The area was part of almost 500 acres of coconut and rubber plantations owned by the Frankel family. Abraham Frankel had arrived in Singapore in 1888 from a poor village in Lithuania to pursue a better life for his family, and eventually became a prominent and wealthy merchant. The Frankels’ sprawling landholdings in Siglap (which was near the sea at the time before land reclamation) included a house in which the family lived until World War II.[^1]
 
-Around 1947, the land was acquired by Crédit Foncier d’Extrême-Orient, a pioneer Franco-Belgian land developer in Singapore, for about $1.1 million. The deal was brokered by Nassim & Co. Limited.[^2] The area was eventually divided into Frankel Estate and Opera Estate.
+Around 1947, the land was acquired by Crédit Foncier d’Extrême-Orient, a pioneer Franco-Belgian land developer in Singapore, for about $1.1 million. The deal was brokered by Nassim &amp; Co. Limited.[^2] The area was eventually divided into Frankel Estate and Opera Estate.
 
 #### **Private Residential Development**
 
-The development of Opera Estate into a residential area began in the 1950s.[^3] Crédit Foncier d’Extrême-Orient divided up the land and sold the plots to various developers who embarked on different housing projects in the estate. These included Crédit Foncier itself, the Singapore Trading Company and Nassim & Co.
+The development of Opera Estate into a residential area began in the 1950s.[^3] Crédit Foncier d’Extrême-Orient divided up the land and sold the plots to various developers who embarked on different housing projects in the estate. These included Crédit Foncier itself, the Singapore Trading Company and Nassim &amp; Co.
 
 ![](/images/Vol%2018%20Issue%201/Opera%20Estate/01%20-%20Opera%20Estate%20sign.png)
 <div style="background-color: white;"> Opera Estate is a private residential estate located in the eastern region of Singapore.  It was developed in the 1950s. <i>Photo by and courtesy of Asrina Tanuri.</i></div>
 
-Nassim & Co. in turn sold off a small parcel of land to a developer, Chua Chye Chua, in 1957. Chua recalled: “[T]he environment there… it was a semi-deserted place, jungle-like environment with a lot of rubber trees, ponds for the ducks and… pig [farms]. Then you have small hillocks made of limestone and so on. … [After I purchased the land], I have [*sic*] to do all this clearance, filling up all the ponds, knocking down the hillocks before I could start building. It took me some time.”[^4] Chua built 12 bungalows with modern sanitation which were sold between $15,000 and $18,000 each. 
+Nassim &amp; Co. in turn sold off a small parcel of land to a developer, Chua Chye Chua, in 1957. Chua recalled: “[T]he environment there… it was a semi-deserted place, jungle-like environment with a lot of rubber trees, ponds for the ducks and… pig [farms]. Then you have small hillocks made of limestone and so on. … [After I purchased the land], I have [*sic*] to do all this clearance, filling up all the ponds, knocking down the hillocks before I could start building. It took me some time.”[^4] Chua built 12 bungalows with modern sanitation which were sold between $15,000 and $18,000 each. 
 
 According to him, the houses in Opera Estate were not targeted at the wealthy: “They were the usual working-class people who are clerical workers or some semi-professional ones and so on. These are the kind of houses they can only afford to buy. Other houses in the other parts of Singapore would probably cost them well over a hundred thousand [dollars]. A hundred thousand [dollars] in those days were big money.”[^5] 
 
-In addition to bungalows, there were also smaller and cheaper terrace houses. The homes sold by Crédit Foncier were on Dafne and Aida streets and were one-storey terrace houses with asbestos roofs and cement floors. Their prices started at $9,760.[^6] Nassim & Co. sold single-storey terrace houses along Fidelio Street starting from $14,000. Each came with two bedrooms, a utility room, a spacious lounge and dining room, and a front and back garden.[^7] In 1957, Nassim & Co. advertised a “modern two-storey bungalow” with three bedrooms in Opera Estate for $24,900.[^8] 
+In addition to bungalows, there were also smaller and cheaper terrace houses. The homes sold by Crédit Foncier were on Dafne and Aida streets and were one-storey terrace houses with asbestos roofs and cement floors. Their prices started at $9,760.[^6] Nassim &amp; Co. sold single-storey terrace houses along Fidelio Street starting from $14,000. Each came with two bedrooms, a utility room, a spacious lounge and dining room, and a front and back garden.[^7] In 1957, Nassim &amp; Co. advertised a “modern two-storey bungalow” with three bedrooms in Opera Estate for $24,900.[^8] 
 
 ![](/images/Vol%2018%20Issue%201/Opera%20Estate/Opera-Estate%20Ad%20Hi%20Res.png)
 <div style="background-color: white;">  In 1957, a two-storey a bungalow in Opera Estate cost $24,900. <i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 21 March 1957, 3 (From NewspaperSG).
@@ -115,7 +117,7 @@ There are three parks in Opera Estate: Aida Park, which is between Aida Street a
 ![](/images/Vol%2018%20Issue%201/Opera%20Estate/Bangsawan%20Park%20(editted).png)
 <div style="background-color: white;"> Bangsawan Park on Jalan Bangsawan, 2022. It has a children’s playground and an exercise area. <i>Photo by and courtesy of Veronica Chee.</i></div>
 
-Swan Lake Avenue is also where you can find a row of shophouses housing eateries such as Baker & Cook and Plank Sourdough Pizza, as well as a number of food catering companies. 
+Swan Lake Avenue is also where you can find a row of shophouses housing eateries such as Baker &amp; Cook and Plank Sourdough Pizza, as well as a number of food catering companies. 
 
 ![](/images/Vol%2018%20Issue%201/Opera%20Estate/Swan%20Lake%20Avenue%20shophouses%20(2).png)
 <div style="background-color: white;"> Shophouses on Swan Lake Avenue, 2022. <i>Photo by and courtesy of Veronica Chee.</i></div>
@@ -139,8 +141,8 @@ Jalan Bintang Tiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Asrina_Tanuri.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%201/Authors/Asrina_Tanuri.png" style="width: 100px; height: 100px;">
 	<b>Asrina Tanuri</b> is a Manager (Research) with the National Library, Singapore, where she provides information services to government agencies. Her research areas include community safety and security, and adult learning.</div>
 
 	

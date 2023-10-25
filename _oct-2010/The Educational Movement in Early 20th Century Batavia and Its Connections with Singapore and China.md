@@ -1,5 +1,5 @@
 ---
-title: The Educational Movement in Early 20th Century Batavia and its
+title: The Educational Movement in Early 20th Century Batavia and Its
   Connections with Singapore and China
 permalink: /vol-6/issue-3/oct-2010/batavia-singapore-china-educational-movement/
 description: Lee Kong Chian Research Fellow Oiyan Liu explores how movements of

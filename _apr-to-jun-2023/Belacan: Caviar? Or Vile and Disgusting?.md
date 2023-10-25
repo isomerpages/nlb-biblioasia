@@ -179,13 +179,13 @@ Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Artic
 
 [^1]: “PM Lee Expresses Appreciation to Malaysia’s Queen for ‘Royal’ Sambal Belacan,” *Today*, 29 October 2019, https://www.todayonline.com/singapore/pm-lee-expresses-appreciation-permaisuri-agong-royal-sambal-belacan.
 
-[^2]: Hugh Clifford, [*In Court &amp; Kampong: Being Tales &amp; Sketches of Native Life in the Malay Peninsula*](https://eresources.nlb.gov.sg/printheritage/detail/7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26.aspx) (London: Grant Richards, 1897), 137. (From BookSG)
+[^2]: Hugh Clifford, [*In Court &amp; Kampong: Being Tales &amp; Sketches of Native Life in the Malay Peninsula*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7549ff6b-44f4-4f79-b6d1-cd9b75ef7a26) (London: Grant Richards, 1897), 137. (From BookSG)
 
-[^3]: John Crawfurd, [*A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries*](https://eresources.nlb.gov.sg/printheritage/detail/2f493163-969c-482a-aa4d-982efd9c5e7b.aspx) (London: Bradbury &amp; Evans, 1856), 27. (From BookSG). Also see Gracie Lee, “[Crawfurd on Southeast Asia](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd),” *BiblioAsia* 11, no. 4 (January–March 2016): 16 –17. For more information on garum, see Sally Grainger, [*The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205370569) (Abingdon, Oxon; New York, NY: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
+[^3]: John Crawfurd, [*A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b) (London: Bradbury &amp; Evans, 1856), 27. (From BookSG). Also see Gracie Lee, “[Crawfurd on Southeast Asia](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd),” *BiblioAsia* 11, no. 4 (January–March 2016): 16 –17. For more information on garum, see Sally Grainger, [*The Story of Garum: Fermented Fish Sauce and Salted Fish in the Ancient World*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205370569) (Abingdon, Oxon; New York, NY: Routledge, 2021). (From National Library, Singapore, call no. RSEA 338.4766494 GRA)
 
 [^4]: William Dampier, *Voyages and Descriptions: Vol.II. In Three Parts, Viz. I. A Supplement of the Voyage Round the World, ... 2. Two Voyages to Campeachy; ... 3. A Discourse of Trade-winds, Breezes, Storms, ... By Capt. William Dampier. Illustrated with Particular Maps and Draughts. To Which Is Added, a General Index to Both Volumes* (London: Printed for James Knapton, 1699), 28, Internet Archive, https://archive.org/details/voyagesdescripti00damp/page/n7/mode/2up.
 
-[^5]: William Marsden, [*The History of Sumatra: Containing an Account of the Government, Laws, Customs, and Manners of the Native Inhabitants, with a Description of the Natural Production, and a Relation of the Ancient Political State of that Island*](https://eresources.nlb.gov.sg/printheritage/detail/4f730f43-ac00-4177-920f-3f01259ccb09.aspx) (London: William Marsden, 1783), 57–58. (From BookSG)
+[^5]: William Marsden, [*The History of Sumatra: Containing an Account of the Government, Laws, Customs, and Manners of the Native Inhabitants, with a Description of the Natural Production, and a Relation of the Ancient Political State of that Island*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=4f730f43-ac00-4177-920f-3f01259ccb09) (London: William Marsden, 1783), 57–58. (From BookSG)
 
 [^6]: Kenneth Ruddle and Naomichi Ishige, “On the Origins, Diffusion and Cultural Context of Fermented Fish Products in Southeast Asia,” in *Globalization, Food and Social Identities in the Asia-Pacific Region*, reissued edition, ed. James Farrer (Tokyo: Sophia University Institute of Comparative Culture, 2021), 28–45, https://www.academia.edu/391558/On_the_Origins_Diffusion_and_Cultural_Context_of_Fermented_Fish_Products_in_Southeast_Asia. Fermented shrimp paste is also made and consumed in countries outside of Southeast Asia like Korea, China and Bangladesh.
 
@@ -195,7 +195,7 @@ Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Artic
 
 [^9]: Amin Sweeney, [*Karya Lengkap Abdullah bin Abdul Kadir Munsyi, Jilid 1*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12729835) (Jakarta: Kepustakaan Populer Gramedia, 2005), 134. (From National Library, Singapore, call no. Malay RSING 959.5 KAR)
 
-[^10]: Henry O. Forbes, [*A Naturalist’s Wanderings in the Eastern Archipelago, a Narrative of Travel and Exploration from 1878 to 1883*](https://eresources.nlb.gov.sg/printheritage/detail/08a1900b-229e-4fdd-857a-eb267c839f64.aspx) (London: Sampson Low, Marston, Searle &amp; Rivington, 1885), 60–61. (From BookSG)
+[^10]: Henry O. Forbes, [*A Naturalist’s Wanderings in the Eastern Archipelago, a Narrative of Travel and Exploration from 1878 to 1883*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=08a1900b-229e-4fdd-857a-eb267c839f64) (London: Sampson Low, Marston, Searle &amp; Rivington, 1885), 60–61. (From BookSG)
 
 [^11]: William T. Hornaday, [*Two Years in the Jungle: The Experiences of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo with Maps and Illustrations*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4256842) (London: K. Paul, Trench, 1885), 304. (From National Library, Singapore, call no. RRARE 910.4 HOR)
 
@@ -209,7 +209,7 @@ Salim Osman, “<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Artic
 
 [^16]: “[Wednesday, 8th December](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget18971214-1.2.30),” *Straits Budget*, 14 December 1897, 5. (From NewspaperSG)
 
-[^17]: Thomas John Newbold, [*Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca*](https://eresources.nlb.gov.sg/printheritage/detail/8123f6c8-67a1-48c6-97a6-3357c3bc5966.aspx), vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
+[^17]: Thomas John Newbold, [*Political and Statistical Account of the British Settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore: With a History of the Malayan States on the Peninsula of Malacca*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8123f6c8-67a1-48c6-97a6-3357c3bc5966), vol. 1. (London: John Murray, 1839), 145, 150. (From BookSG)
 
 [^18]: David G. Stead, [*General Report Upon the Fisheries of British Malaya With Recommendations for Future Development*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183923) (Sydney, New South Wales: Alfred James Kent, Government Printer, 1923), 253. (From National Library, Singapore, call no. RRARE 639.209595 STE; microfilm no. NL26000)
 

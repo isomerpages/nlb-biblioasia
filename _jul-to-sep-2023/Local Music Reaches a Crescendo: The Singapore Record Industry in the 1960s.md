@@ -6,9 +6,9 @@ description: In this extract from the book From Keroncong to Xinyao, the author
 image: /images/Vol 19 Issue 2/SG Record Industry/image1.png
 ---
 #### In this extract from the book _From Keroncong to Xinyao_, the author looks at why the record industry in Singapore took off in the 1960s.
-By Ross Laird
+By Ross Laird!
 
-![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image1.png)
+![](/images/Vol%2019%20Issue%202/SG%20Record%20Industry/image1.png)
 <div style="background-color: white;">Following its establishment in Singapore, Philips recorded local band The Crescendos, whose first record in 1963, <i>Mr Twister</i>, was a great success. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Despite the significant changes that had taken place in Singapore’s record industry in the 1950s, few could have predicted the even more dramatic transformations to come in the 1960s. At the start of the decade, the record industry in Singapore was still dominated by EMI (which had originally been known&nbsp;as Electric and Musical Industries, hence the initials). The few independent record labels that existed were relatively insignificant in market terms, and no other multinational record company had yet shown an interest in establishing a presence in Singapore.

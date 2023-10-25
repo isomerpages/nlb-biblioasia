@@ -182,7 +182,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^21]: “[Attempt to Blow Up Merdeka Bridge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640524-1.2.17),” _Straits Times_, 24 May 1964, 2; “[Sabotage Bid on Bridge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19640729-1.2.81),” _Straits Budget_, 29 July 1964, 13. (From NewspaperSG)
 
-[^22]: “MacDonald House,” National Heritage Board, last accessed 20 May 2023, https://www.roots.gov.sg/places/places-landing/Places/national-monuments/macdonald-house; National Library Board, “[Macdonald House Bombing Occurs](https://eresources.nlb.gov.sg/history/events/73fb133a-828a-4240-9801-421d7077369f),” in _HistorySG_. National Library Board Singapore. Article published 2014; Mohamed Effendy Abdul Hamid and Kartini Saparudin, “[MacDonald House Bomb Explosion](https://eresources.nlb.gov.sg/infopedia/articles/SIP_62_2004-12-17.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 7 August 2014.
+[^22]: “MacDonald House,” National Heritage Board, last accessed 20 May 2023, https://www.roots.gov.sg/places/places-landing/Places/national-monuments/macdonald-house; National Library Board, “[MacDonald House Bombing Occurs]( https://www.nlb.gov.sg/main/article-detail?cmsuuid=73fb133a-828a-4240-9801-421d7077369f),” in _HistorySG_. National Library Board Singapore. Article published 2014; Mohamed Effendy Abdul Hamid and Kartini Saparudin, “[MacDonald House Bomb Explosion](https://www.nlb.gov.sg/main/article-detail?cmsuuid=74869cd4-6dee-4f5d-8365-379484edd271),” in _Singapore Infopedia_. National Library Board Singapore. Article published 7 August 2014.
 
 [^23]: Jackie Sam, et al., “[Terror Bomb Kills 2 Girls at Bank](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650311-1.2.3),” _Straits Times_, 11 March 1965, 1. (From NewspaperSG)
 
@@ -198,7 +198,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^29]: Abisheganaden, “[‘Assassinate the Tengku’ Order](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640423-1.2.2).”
 
-[^30]: Jaime Koh, “[Vigilante Corps](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-29_151550.html),” in _Singapore Infopedia_. From National Library Board Singapore. Article published 29 March 2016. The Vigilante Corps was absorbed into the Special Constabulary on 22 September 2022, marking the end of 55 years of service to the nation. See “SPF’s Vigilante Corps: The End of an Era,” _Frontline_, 12 January 2023, https://www.hometeamns.sg/frontline/spfs-vigilante-corps-the-end-of-an-era/.
+[^30]: Jaime Koh, “[Vigilante Corps](https://www.nlb.gov.sg/main/article-detail?cmsuuid=40185533-19f8-449a-b12c-91b2434f5b82),” in _Singapore Infopedia_. From National Library Board Singapore. Article published 29 March 2016. The Vigilante Corps was absorbed into the Special Constabulary on 22 September 2022, marking the end of 55 years of service to the nation. See “SPF’s Vigilante Corps: The End of an Era,” _Frontline_, 12 January 2023, https://www.hometeamns.sg/frontline/spfs-vigilante-corps-the-end-of-an-era/.
 
 [^31]: “[Big Hunt for Killers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650304-1.2.3),” _Straits Times_, 4 March 1965, 1. (From NewspaperSG)
 
@@ -218,7 +218,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^39]: “[Captured Indon Arms on Show](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641002-1.2.28),” _Straits Times_, 2 October 1964, 4; “[Confrontation Show a Big Hit](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641003-1.2.82),” _Straits Times_, 3 October 1964, 11; “[337,000 Saw This Show](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641013-1.2.31),” _Straits Times_, 13 October 1964, 4; “[Show Moves On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641025-1.2.41.13),” _Straits Times_, 25 October 1967, 7. (From NewspaperSG)
 
-[^40]: “[Konfrontasi (Confrontation) Ends](https://eresources.nlb.gov.sg/history/events/f950e04d-44d7-47ad-a10c-16dfb0cc9ce3),” in _HistorySG_. From National Library Board Singapore. Article published 2014; Ricklefs, _[History of Modern Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 289.
+[^40]: “[Konfrontasi (Confrontation) Ends](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f950e04d-44d7-47ad-a10c-16dfb0cc9ce3),” in _HistorySG_. From National Library Board Singapore. Article published 2014; Ricklefs, _[History of Modern Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 289.
 
 [^41]: Ricklefs, _[History of Modern Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 290.
 

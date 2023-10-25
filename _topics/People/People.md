@@ -46,3 +46,51 @@ A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to
 
 <img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg">  
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Rōmusha</a>
+During World War II, forced civilian labourers known as rōmushas were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
+
+<img src="/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg">  
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a>
+While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
+
+<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/1_Loke%20Portrait.png">  
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/">Loke Wan Tho: A Photo Essay</a>
+Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of Cathay Organisation.
+
+<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg" style="width:50%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau/">A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the Bugis to Singapore</a>
+
+Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible misunderstanding that would change the course of history in Riau and Singapore.
+
+<img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%201.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist/">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a>
+
+As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice.
+
+<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides//">The Orang Seletar: Rowing Across Changing Tides</a>
+
+Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. **Ilya Katrinnada** takes them on a tour around Singapore visiting Merlion Park, Sembawang Park and Lower Seletar Reservoir Park.
+
+<img src="/images/Vol%2018%20Issue%201/Orang%20Seletar/orang_seletar_cover.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee/">Cinema Pioneer Tan Cheng Kee</a>
+
+The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
+
+<img src="/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png">
+<hr>
+
+

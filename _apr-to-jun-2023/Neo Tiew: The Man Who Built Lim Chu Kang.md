@@ -178,7 +178,7 @@ Singapore history, heritage and society. He is the author of <i>Singapore: A Ver
 
 #### **NOTES**
 
-[^1]: Jean Lim, “[Farmlands in Lim Chu Kang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1611_2009-11-30.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2009.
+[^1]: Jean Lim, “[Farmlands in Lim Chu Kang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=41ae78eb-a853-49bd-b9f8-807b8b368b1f),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2009.
 
 [^2]: Also known as Neo Ao Tiew (梁后宙).
 

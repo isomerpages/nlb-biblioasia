@@ -2,7 +2,8 @@
 title: "No Longer “Dirty, Unhygienic, Crowded and Messy”: The Story of
   Singapore’s Changing Wet Markets"
 permalink: /vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets/
-description: ""
+description: Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks
+  at how these markets have changed over time.
 image: /images/Vol 18 Issue 1/Wet Market/8ed6060f-1162-11e3-83d5-0050568939ad.png
 ---
 #### Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks at how these markets have changed over time.
@@ -142,8 +143,8 @@ Apart from the waning interest in wet markets, the issue of succession is also a
 It remains to be seen what will happen to the wet market in the future. Will it become increasingly irrelevant as busy working people turn to the convenience of supermarkets? Or will there always be a demand for the personal touch that wet markets can offer? There is no doubt that older Singaporeans still prefer the wet market and have fond childhood memories of tagging along with their parents to the markets – experiencing the sights, smells and sounds of these local landmarks that are so uniquely Singaporean.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%201/Authors/Zoe%20Yeo.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%201/Authors/Zoe%20Yeo.png" style="width: 100px; height: 100px;">
 	<b>Zoe Yeo</b> is a Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions at the National Library Board. She manages the Legal Deposit function and collection, including its collection policies, workflows and enforcement as well as engagement with publishers and the public.</div>
 
 #### **NOTES**
@@ -162,7 +163,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^7]: Alvin Tan, *Community Heritage Series II: Wet Markets* (Singapore: National Heritage Board, 2013), 5, accessed 3 February 2022, https://www.nhb.gov.sg/~/media/nhb/files/resources/publications/ebooks/nhb_ebook_wet_markets.pdf.
 
-[^8]: Lee Kip Lin, [*Telok Ayer Market: A Historical Account of the Market from the Founding of the Settlement of Singapore to the Present Time*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081045) (Singapore: Archives & Oral History Dept., 1983), 9–10. (From National Library, Singapore, Call no. RCLOS 725.21095957 LEE); Charles Burton Buckley, [*An Anecdotal History of Old Times in Singapore: From the Foundation of the Settlement… on February 6th, 1819 to the Transfer to the Colonial Office … on April 1st, 1867*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Oxford University Press, 1984), 74. (From National Library, Singapore, Call no. RSING 959.57 BUC)
+[^8]: Lee Kip Lin, [*Telok Ayer Market: A Historical Account of the Market from the Founding of the Settlement of Singapore to the Present Time*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081045) (Singapore: Archives &amp; Oral History Dept., 1983), 9–10. (From National Library, Singapore, Call no. RCLOS 725.21095957 LEE); Charles Burton Buckley, [*An Anecdotal History of Old Times in Singapore: From the Foundation of the Settlement… on February 6th, 1819 to the Transfer to the Colonial Office … on April 1st, 1867*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239) (Singapore: Oxford University Press, 1984), 74. (From National Library, Singapore, Call no. RSING 959.57 BUC)
 
 [^9]: Lee, [*Telok Ayer Market*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081045), 11, 16–17. 
 
@@ -192,7 +193,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^22]: Gretchen Liu, [*Raffles Hotel*](https://safe.menlosecurity.com/http:/eservice.nlb.gov.sg/item_holding.aspx?bid=6370450) (Singapore: Landmark Books, 1992), 212. (From National Library, Singapore, Call no. RSING 647.94595701 LIU)
 
-[^23]: Marsita Omar, “[Orchard Road Market](https://eresources.nlb.gov.sg/infopedia/articles/SIP_993__2009-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published April 2021; Ray K. Tyers, [*Ray Tyers’ Singapore: Then & Now*](https://safe.menlosecurity.com/http:/eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), revised and updated by Siow Jin Hua (Singapore: Landmark Books, 1993), 162, 164. (From National Library, Singapore, Call no. RSING 959.57 TYE-[HIS]); “[‘New Look’ Plan by URA for Orchard Rd](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781202-1.2.44),” *Straits Times*, 2 December 1978, 13. (From NewspaperSG)
+[^23]: Marsita Omar, “[Orchard Road Market](https://eresources.nlb.gov.sg/infopedia/articles/SIP_993__2009-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published April 2021; Ray K. Tyers, [*Ray Tyers’ Singapore: Then &amp; Now*](https://safe.menlosecurity.com/http:/eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), revised and updated by Siow Jin Hua (Singapore: Landmark Books, 1993), 162, 164. (From National Library, Singapore, Call no. RSING 959.57 TYE-[HIS]); “[‘New Look’ Plan by URA for Orchard Rd](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781202-1.2.44),” *Straits Times*, 2 December 1978, 13. (From NewspaperSG)
 
 [^24]: Tan, *Wet Markets*, 5; “[买菜光景 不同啰](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19950808-1.2.47.9)!” [“Grocery Shopping Scene Is Different”], 新明日报 [*Xin Min Ri Bao*], 8 August 1995, 16; 冯剑斌 [Feng Jianbin], “[湿巴刹气数未尽](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20091025-1.2.26.3)” [“Not the End of Wet Markets”], 联合早报 [*Lianhe Zaobao*], 25 October 2009, 24. (From NewspaperSG) 
 
@@ -208,7 +209,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^30]: Serendipity, “[Inscrutably Oriental](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741103-1.2.37).”
 
-[^31]: “[You Could Eat Bats & Lizards Here in the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20041016-1.2.12.3),” *New Paper*, 16 October 2004, 9. (From NewspaperSG)
+[^31]: “[You Could Eat Bats &amp; Lizards Here in the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20041016-1.2.12.3),” *New Paper*, 16 October 2004, 9. (From NewspaperSG)
 
 [^32]: “[Wet Market Slaughtering To Be Phased Out by ’92](Wet Market Slaughtering To Be Phased Out by ’92),” *Straits Times*, 6 July 1990, 3; Tan Ban Huat, “[Call for Study on Slaughter of Chickens at One Place](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820112-1.2.42),” *Straits Times*, 12 January 1982, 10. (From NewspaperSG)
 
