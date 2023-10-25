@@ -6,7 +6,7 @@ description: Visiting Senior Research Fellow Geoff Wade spotlights the National
   Comprising books from his personal library, the collection has more than 3,000
   rare and contemporary volumes.
 ---
-#### Visiting Senior Research Fellow *Geoff Wade* spotlights the National Library’s George Hicks Collection, generously donated by George Lyndon Hicks. Comprising books from his personal library, the collection has more than 3,000 rare and contemporary volumes.
+#### Research Fellow *Geoff Wade* spotlights the National Library’s George Hicks Collection, generously donated by George Lyndon Hicks. Comprising books from his personal library, the collection has more than 3,000 rare and contemporary volumes.
 
 <img style="width:100%;" src="/images/Vol%206%20Issue%201/GeorgeHicks/George%20Hicks%20award.jpg">
  <div style="background-color: white;">Dr N. Varaprasad, Chief Executive, National Library Board, presenting the Distinguished Patron of National Library award to Mr George Hicks on 26 February 2009.</div>
