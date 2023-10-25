@@ -132,13 +132,13 @@ Today, the Salvation Army in Singapore runs a host of programmes for children an
 [^14]: “[Local Distress Relief](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19360219-1.2.54),” _Malaya Tribune_, 19 February 1936, 9. (From NewspaperSG). The Silver Jubilee Fund Act is still found in the Statutes of Singapore. See “Silver Jubilee Fund (Singapore) Act (Chapter 294),” Singapore Statutes Online, last updated 5 September 2023, https://sso.agc.gov.sg/Act-Rev/SJFSA1936/Published/19870330.
 
 [^15]: “[Salvation Army in Y.M.C.A. Hall](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19361031-1.2.73)” _Straits Times_, 31 October 1936, 12. (From NewspaperSG)
-[^16]: “No Spiritual Uplift at the Esplanade,” _Straits Budget_, 26 August 1954, 12 . (From NewspaperSG)
-[^17]: “‘Army’ Prepares for Esplanade ‘War’,” _Straits Times_, 6 October 1954, 4. (From NewspaperSG)
-[^18]: “New Chance in Life for Destitute Boys,” _Straits Times_, 29 November 1936, 28. (From NewspaperSG)
-[^19]: “Salvation Army Boys’ Industrial Home,” _Morning Tribune_, 2 March 1937, 8. (From NewspaperSG)
-[^20]: “How Industrial and Remand Homes Boys are Trained,” _Straits Times_, 9 October 1938, 6; “Saving Young Boys from Prison,” _Straits Times_, 9 October 1938, 32. (From NewspaperSG)
-[^21]: How Salvation Army Home Helps Destitute Women,” _Straits Times_, 10 May 1940, 11. (From NewspaperSG)
-[^22]: “New Home for Women in Singapore,” _Pinang Gazette and Straits Chronicle_, 16 December 1935, 10; “Freedom from Influence of Social Evils,” _Pinang Gazette and Straits Chronicle_, 27 November 1936, 5. (From NewspaperSG)
+[^16]: “[No Spiritual Uplift at the Esplanade](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19540826-1.2.56),” _Straits Budget_, 26 August 1954, 12 . (From NewspaperSG)
+[^17]: “‘[Army’ Prepares for Esplanade ‘War’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541006-1.2.65),” _Straits Times_, 6 October 1954, 4. (From NewspaperSG)
+[^18]: “[New Chance in Life for Destitute Boys](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19361129-1.2.209),” _Straits Times_, 29 November 1936, 28. (From NewspaperSG)
+[^19]: “[Salvation Army Boys’ Industrial Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19370302-1.2.49),” _Morning Tribune_, 2 March 1937, 8. (From NewspaperSG)
+[^20]: “[How Industrial and Remand Homes Boys are Trained](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19381009-1.2.51),” _Straits Times_, 9 October 1938, 6; “[Saving Young Boys from Prison](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19381009-1.2.267),” _Straits Times_, 9 October 1938, 32. (From NewspaperSG)
+[^21]: [How Salvation Army Home Helps Destitute Women](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19400510-1.2.58),” _Straits Times_, 10 May 1940, 11. (From NewspaperSG)
+[^22]: “[New Home for Women in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19351216-1.2.58),” _Pinang Gazette and Straits Chronicle_, 16 December 1935, 10; “Freedom from Influence of Social Evils,” _Pinang Gazette and Straits Chronicle_, 27 November 1936, 5. (From NewspaperSG)
 [^23]: “Rescue Work Among Girls,” _Straits Times_, 13 February 1941, 11. (From NewspaperSG)
 [^24]: Tan Beng Neo, oral history interview by Liana Tan, 31 March 1984, transcript and MP3 audio, Reel/Disc 7 of 26, National Archives of Singapore (accession no. 000371), 100.
 [^25]: “Salvation Army to Open New Children’s Home,” _Straits Times_, 15 January 1939, 4. (From NewspaperSG)
