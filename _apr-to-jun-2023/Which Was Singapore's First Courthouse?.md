@@ -179,7 +179,7 @@ Tan, Clarissa, “A Supreme Makeover,” <i>Business Times</i>, 10 September 201
 
 [^5]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)*, 39.
 
-[^6]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*, 39.
+[^6]: Buckley, *[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)*, 39.
 
 [^7]: “Arrangements Made for the Government of Singapore in June 1819”. See Buckley, *[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)*, 58.
 
