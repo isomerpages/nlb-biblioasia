@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/Tok Sumang/heroimage-waksumang.jpg
   - infopic:
+      title: New Books on Singapore History (Jan 2024)
+      subtitle: Literature
+      id: infopic
+      description: Introducing five new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-19/issue-4/jan-mar-2024/new-books-singapore-history/
+      image: /images/Vol 19 Issue 4/New Books/chaptersonasia4.jpg
+      alt: Image alt text
+  - infopic:
       title: Remembering William Lim
       subtitle: People
       id: infopic
