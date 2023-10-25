@@ -121,10 +121,9 @@ Today, the Salvation Army in Singapore runs a host of programmes for children an
 [^5]: “About Us,” The Salvation Army Japan, last accessed 5 September 2023, https://www.salvationarmy.or.jp/english-home/history.
 [^6]: “[The Salvation Army](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19261204-1.2.32),” _Malayan Saturday Post_, 4 December 1926, 15. (From NewspaperSG)
 [^7]: “[The Salvation Army Meeting](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19261204-1.2.33),” _Malayan Saturday Post_, 4 December 1926, 15. (From NewspaperSG)
-[^8]: “The Salvation Army Meeting.”
-[^9]: “Salvation Army: Work of Organisation Explained by Head,” _Malaya Tribune_, 3 December 1926, 8. (From NewspaperSG)
-[^10]: “Salvation Army: Headquarters Established,” _Malaya Tribune_, 14 May 1935; 12; “Salvation Army,” _Straits Budget_, 23 May 1935, 14. (From NewspaperSG)
-
+[^8]: “[The Salvation Army Meeting](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19261204-1.2.33).”
+[^9]: “[Salvation Army: Work of Organisation Explained by Head](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19261203-1.2.53),” _Malaya Tribune_, 3 December 1926, 8. (From NewspaperSG)
+[^10]: “[Salvation Army: Headquarters Established](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350514-1.2.97),” _Malaya Tribune_, 14 May 1935; 12; “Salvation Army,” _Straits Budget_, 23 May 1935, 14. (From NewspaperSG)
 
 [^11]: “Salvation Army in Singapore,” _Straits Budget_, 25 April 1935, 8. (From NewspaperSG); Ho Chi Tim and Ann Wee, _Social Services_ (Singapore, Institute of Policy Studies and Straits Times Press, 2016), 34. (From National Library, Singapore, call no. RSING 361.95957 HO)
 
