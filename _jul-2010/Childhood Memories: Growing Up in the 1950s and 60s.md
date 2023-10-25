@@ -35,8 +35,6 @@ I am told that my physiognomy descends from Cheng Tee as he was tall and well-bu
 
 Today, there are no more slopes behind the National Library to roll down from. Steamships have been replaced by air carriers. Concubinage and child marriages have been outlawed. Nurses are “allowed” to marry. The “tick-tock” hawkers have long disappeared. One thing remains constant, though: the vibrancy, multilingualism and multiculturalism that form Singapore’s heritage.
 
-Song, Ong Siang ( 1902).&nbsp;_One hundred years’ history of the Chinese in Singapore_. London: John Murray.
-
 <br>
 <div style="background-color: white;">
 <br>
