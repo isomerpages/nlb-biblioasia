@@ -128,7 +128,7 @@ Today, the Salvation Army in Singapore runs a host of programmes for children an
 
 <div style="background-color: white;">
 <br>
-	<img src="/images/Authors/jamie%20le.png" style="width: 100px; height: 100px;">
+	<img src="/images/Authors/lee%20geok%20boi.png" style="width: 100px; height: 100px;">
 	<b>Lee Geok Boi</b> is an editorial consultant and author of several books focusing on aspects of Singapore’s pre- and postwar history. Cookbooks are her special interest.</div>
 	
  
