@@ -99,7 +99,7 @@ In the immediate postwar years, the Army also undertook the arduous process of r
 
 In 1940, the Army had acquired the place for $50,000 with a loan of $25,000 from the Straits Settlements government and a grant of $25,000 from its London headquarters. The building also became a training centre and accommodation for married officers.[^41] Restoration took six years, and in 1951, Governor of Singapore Franklin Gimson officially opened the building as The Salvation Army Command Headquarters.[^42]
 
-In 1959, Lord, the officer who had gotten the Salvation Army to such an excellent start in 1935, returned to Singapore for a last visit.[^43] (After his release from internment at the end of the Japanese Occupation, Lord had returned to duty in Seoul in 1946. Unfortunately, he was captured by the North Koreans at the outbreak of the Korean War (1950–53) and interned until 1953.44) Lord was reported to have been amazed at Singapore’s political development. “I sincerely hope that the building of a new Asia is done on sound principles of democracy, righteousness and political integrity,” he said.[^45]
+In 1959, Lord, the officer who had gotten the Salvation Army to such an excellent start in 1935, returned to Singapore for a last visit.[^43] (After his release from internment at the end of the Japanese Occupation, Lord had returned to duty in Seoul in 1946. Unfortunately, he was captured by the North Koreans at the outbreak of the Korean War (1950–53) and interned until 1953.[^44]) Lord was reported to have been amazed at Singapore’s political development. “I sincerely hope that the building of a new Asia is done on sound principles of democracy, righteousness and political integrity,” he said.[^45]
 
 Lord would have been even more amazed to find out that the Salvation Army headquarters he had purchased in 1940 for $50,000 was sold in 1991 for $20 million.[^46] That sum was used to finance its new and larger headquarters in Bishan, which opened in 1994.[^47] 
 
@@ -123,15 +123,15 @@ Today, the Salvation Army in Singapore runs a host of programmes for children an
 [^7]: “[The Salvation Army Meeting](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19261204-1.2.33),” _Malayan Saturday Post_, 4 December 1926, 15. (From NewspaperSG)
 [^8]: “[The Salvation Army Meeting](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19261204-1.2.33).”
 [^9]: “[Salvation Army: Work of Organisation Explained by Head](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19261203-1.2.53),” _Malaya Tribune_, 3 December 1926, 8. (From NewspaperSG)
-[^10]: “[Salvation Army: Headquarters Established](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350514-1.2.97),” _Malaya Tribune_, 14 May 1935; 12; “Salvation Army,” _Straits Budget_, 23 May 1935, 14. (From NewspaperSG)
+[^10]: “[Salvation Army: Headquarters Established](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350514-1.2.97),” _Malaya Tribune_, 14 May 1935; 12; “[Salvation Army](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19350523-1.2.99),” _Straits Budget_, 23 May 1935, 14. (From NewspaperSG)
 
-[^11]: “Salvation Army in Singapore,” _Straits Budget_, 25 April 1935, 8. (From NewspaperSG); Ho Chi Tim and Ann Wee, _Social Services_ (Singapore, Institute of Policy Studies and Straits Times Press, 2016), 34. (From National Library, Singapore, call no. RSING 361.95957 HO)
+[^11]: “[Salvation Army in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19350425-1.2.49),” _Straits Budget_, 25 April 1935, 8. (From NewspaperSG); Ho Chi Tim and Ann Wee, [_Social Services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202686062) (Singapore, Institute of Policy Studies and Straits Times Press, 2016), 34. (From National Library, Singapore, call no. RSING 361.95957 HO)
 
-[^12]: “Relief Funds,” _Morning Tribune_, 12 February 1936; 2. (From NewspaperSG)
-[^13]: Ho and Wee, _Social Services_, 32.
-[^14]: “Local Distress Relief,” _Malaya Tribune_, 19 February 1936, 9. (From NewspaperSG). The Silver Jubilee Fund Act is still found in the Statutes of Singapore. See “Silver Jubilee Fund (Singapore) Act (Chapter 294),” Singapore Statutes Online, last updated 5 September 2023, https://sso.agc.gov.sg/Act-Rev/SJFSA1936/Published/19870330.
+[^12]: “[Relief Funds](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19360212-1.2.19?qt=silver,%20jubilee,%20fund,%201935&amp;q=Silver%20Jubilee%20Fund%201935),” _Morning Tribune_, 12 February 1936; 2. (From NewspaperSG)
+[^13]: Ho and Wee, [_Social Services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202686062), 32.
+[^14]: “[Local Distress Relief](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19360219-1.2.54),” _Malaya Tribune_, 19 February 1936, 9. (From NewspaperSG). The Silver Jubilee Fund Act is still found in the Statutes of Singapore. See “Silver Jubilee Fund (Singapore) Act (Chapter 294),” Singapore Statutes Online, last updated 5 September 2023, https://sso.agc.gov.sg/Act-Rev/SJFSA1936/Published/19870330.
 
-[^15]: “Salvation Army in Y.M.C.A. Hall,” _Straits Times_, 31 October 1936, 12. (From NewspaperSG)
+[^15]: “[Salvation Army in Y.M.C.A. Hall](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19361031-1.2.73)” _Straits Times_, 31 October 1936, 12. (From NewspaperSG)
 [^16]: “No Spiritual Uplift at the Esplanade,” _Straits Budget_, 26 August 1954, 12 . (From NewspaperSG)
 [^17]: “‘Army’ Prepares for Esplanade ‘War’,” _Straits Times_, 6 October 1954, 4. (From NewspaperSG)
 [^18]: “New Chance in Life for Destitute Boys,” _Straits Times_, 29 November 1936, 28. (From NewspaperSG)
