@@ -5,9 +5,10 @@ description: The history of the Salvation Army in Singapore goes back to at leas
 ---
 #### The history of the Salvation Army in Singapore goes back to at least 1935.
 
+By Lee Geok Boi
 
-![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image.jpg)
-<div style="background-color: white;">William Lim, c. mid-2010s. <i>Courtesy of Lim Family.</i></div>
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/salvationarmy.jpg)
+<div style="background-color: white;">The headquarters of the Salvation Army in Bishan, 2023. <i>Photo by Jimmy Yap.</i></div>
 
 
 Today the Salvation Army is a well-known institution in Singapore. Its thrift stores are popular with bargain hunters and those on a budget. During the Christmas season, its bell ringers, with their bright red kettles, are a common sight outside shopping mall entrances as they seek donations from passers-by.
@@ -19,6 +20,10 @@ Salvationists, as members of the Army are called, had been doing work in Southea
 There were apparently early attempts by the Army to proselytise in Singapore at the beginning of the 20th century. According to the _Straits Budget_ in 1936, the “uniform of the Salvation Army was first seen in Singapore about 30 years ago, when one of its representatives was booed on the Esplanade”.[^3] The news report added that the Army was “facing prejudice and hostility all over the world owing to the novelty of its methods”.&nbsp;
 
 One reason could be that the Army evangelised through open-air meetings where men, as well as women, preached and sang accompanied by musicians, good and bad. Could the Salvationist who was booed at the Esplanade have been no less than the founder of the Army himself, General William Booth?[^4] The _Eastern Daily Mail and Straits Morning Advertiser_ had reported in November 1906 that Booth was heading to Japan to inspect the Army’s mission that had started there in 1895.[^5]
+
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/wbooth.jpg)
+<div style="background-color: white;">English Methodist minister William Booth, the founder and inaugural general of the Salvation Army, 1912. <i>Retrieved from Wikimedia Commons.</i></div>
+
 
 In the days of steamship travel, Singapore would have been a likely stopover enroute. In 1926, General Bramwell Booth, son of William Booth, on his way to Japan, had stayed long enough in Singapore to give a talk at the Victoria Theatre on the work of the Army in December that year.[^6] Organised by the Dutch Indies Salvationists, the talk could have also been intended as a fundraiser, for it was by invitation only and “Eurasians and Asiatics” who turned up uninvited were kept out until all the invitees were seated. Even with uninvited guests though, the Victoria Theatre had empty seats.[^7]
 
