@@ -15,8 +15,7 @@ _Chapters on Asia (2022)_ features papers by the National Library’s Lee Kong C
 
 
 #### **[Sing Musicals: A History of Singapore Musical Theatre](https://eservice.nlb.gov.sg/item_holding.aspx?id=206102861)**
-By Kenneth Lyen,  
-foreword by Tommy Koh
+By Kenneth Lyen, foreword by Tommy Koh
 
 World Scientific (2023), 184 pages <br>
 Call no.: RSING 782.14095957 LYE
