@@ -116,3 +116,52 @@ Today, the Salvation Army in Singapore runs a host of programmes for children an
 #### **NOTES**
 [^1]: “Salvation Army,” _Straits Times_, 15 March 1935, 13. (From NewspaperSG)
 [^2]: “Salvation Army Attack on Java,” _Straits Budget_, 10 March 1898, 8. (From NewspaperSG)
+[^3]: “Open-air Sermons,” _Straits Budget_, 5 November 1936, 5. (From NewspaperSG)
+[^4]: “General Booth Goes to Japan,” _Eastern Daily Mail and Straits Morning Advertiser_, 24 November 1906, 1. (From NewsppaerSG)
+[^5]: “About Us,” The Salvation Army Japan, last accessed 5 September 2023, https://www.salvationarmy.or.jp/english-home/history.
+[^6]: “The Salvation Army,” _Malayan Saturday Post_, 4 December 1926, 15. (From NewspaperSG)
+[^7]: “The Salvation Army Meeting,” _Malayan Saturday Post_, 4 December 1926, 15. (From NewspaperSG)
+[^8]: “The Salvation Army Meeting.”
+[^9]: “Salvation Army: Work of Organisation Explained by Head,” _Malaya Tribune_, 3 December 1926, 8. (From NewspaperSG)
+[^10]: “Salvation Army: Headquarters Established,” _Malaya Tribune_, 14 May 1935; 12; “Salvation Army,” _Straits Budget_, 23 May 1935, 14. (From NewspaperSG)
+
+
+[^11]: “Salvation Army in Singapore,” _Straits Budget_, 25 April 1935, 8. (From NewspaperSG); Ho Chi Tim and Ann Wee, _Social Services_ (Singapore, Institute of Policy Studies and Straits Times Press, 2016), 34. (From National Library, Singapore, call no. RSING 361.95957 HO)
+
+[^12]: “Relief Funds,” _Morning Tribune_, 12 February 1936; 2. (From NewspaperSG)
+[^13]: Ho and Wee, _Social Services_, 32.
+[^14]: “Local Distress Relief,” _Malaya Tribune_, 19 February 1936, 9. (From NewspaperSG). The Silver Jubilee Fund Act is still found in the Statutes of Singapore. See “Silver Jubilee Fund (Singapore) Act (Chapter 294),” Singapore Statutes Online, last updated 5 September 2023, https://sso.agc.gov.sg/Act-Rev/SJFSA1936/Published/19870330.
+
+[^15]: “Salvation Army in Y.M.C.A. Hall,” _Straits Times_, 31 October 1936, 12. (From NewspaperSG)
+[^16]: “No Spiritual Uplift at the Esplanade,” _Straits Budget_, 26 August 1954, 12 . (From NewspaperSG)
+[^17]: “‘Army’ Prepares for Esplanade ‘War’,” _Straits Times_, 6 October 1954, 4. (From NewspaperSG)
+[^18]: “New Chance in Life for Destitute Boys,” _Straits Times_, 29 November 1936, 28. (From NewspaperSG)
+[^19]: “Salvation Army Boys’ Industrial Home,” _Morning Tribune_, 2 March 1937, 8. (From NewspaperSG)
+[^20]: “How Industrial and Remand Homes Boys are Trained,” _Straits Times_, 9 October 1938, 6; “Saving Young Boys from Prison,” _Straits Times_, 9 October 1938, 32. (From NewspaperSG)
+[^21]: How Salvation Army Home Helps Destitute Women,” _Straits Times_, 10 May 1940, 11. (From NewspaperSG)
+[^22]: “New Home for Women in Singapore,” _Pinang Gazette and Straits Chronicle_, 16 December 1935, 10; “Freedom from Influence of Social Evils,” _Pinang Gazette and Straits Chronicle_, 27 November 1936, 5. (From NewspaperSG)
+[^23]: “Rescue Work Among Girls,” _Straits Times_, 13 February 1941, 11. (From NewspaperSG)
+[^24]: 
+[^25]: 
+[^26]: 
+[^27]: 
+[^28]: 
+[^29]: 
+[^30]: 
+[^31]: 
+[^32]: 
+[^33]: 
+[^34]: 
+[^35]: 
+[^36]: 
+[^37]: 
+[^38]: 
+[^39]: 
+[^40]: 
+[^41]: 
+[^42]: 
+[^43]: 
+[^44]: 
+[^45]: 
+[^46]: 
+[^47]: 
