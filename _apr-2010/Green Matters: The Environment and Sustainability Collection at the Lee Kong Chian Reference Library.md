@@ -69,27 +69,27 @@ Green is now mainstream. A *National Geographic* survey, Greendex[^8], shows tha
  <div style="background-color: white;"><i>All rights reserved, McGrawHill, 2009.</i>
 </div>
 
-However, media experts[^9] warn that marketing strategies dubbed “greenwashing” could be leading the eco-conscious astray as more companies are making false or misleading green marketing claim.
+However, media experts[^9] warn that marketing strategies dubbed “greenwashing” could be leading the eco-conscious astray as more companies are making false or misleading green marketing claims.
 
-With pressing interest in green economy, organisations are adapting to new environmental policy and regulations. Others are developing strategies for sustainable business or “green” their operation. Policy makers and business stakeholders wondering how policy decisions come about can be better informed from books such as *Environmental policy analysis and practice* (Greenberg, 2007). The author explains clearly how all policy considerations are broken down and tools that are widely used in policy analysis.
+With pressing interest in green economy, organisations are adapting to new environmental policy and regulations. Others are developing strategies for sustainable business or “greening” their operation. Policymakers and business stakeholders wondering how policy decisions come about can be better informed from books such as *Environmental Policy Analysis and Practice* (Greenberg, 2007). The author explains clearly how all policy considerations are broken down and tools that are widely used in policy analysis.
 
 The Singapore government has been a key driver for environmental change since independence. After 40 years of dedicated green and clean programmes, the country has won numerous international accolades. Readers interested to trace the remarkable transformation of Singapore can refer to books about Singapore’s experience with environmental management and pollution control.
 
-Energy-efficient buildings are universally recognised to reduce greenhouse gas emission. A Singapore Green Building Council (SGBC) was set up to drive the green-buildings movement in Singapore.[^10] The Building and Construction Authority (BCA) has announced ambitious efforts to have 80% of Singapore‘s buildings attain minimum green-certified standards by 2030. The “green collar” sector is expected to grow by leaps and bounds. There will be strong demand for manpower in the development, design, construction, operation and maintenance of green buildings.
+Energy-efficient buildings are universally recognised to reduce greenhouse gas emissions. A Singapore Green Building Council (SGBC) was set up to drive the green-buildings movement in Singapore.[^10] The Building and Construction Authority (BCA) has announced ambitious efforts to have 80% of Singapore‘s buildings attain minimum green-certified standards by 2030. The “green collar” sector is expected to grow by leaps and bounds. There will be strong demand for manpower in the development, design, construction, operation and maintenance of green buildings.
 
-Environmental planners, consultants and plant operators looking for references on energy efficient buildings, green architecture and ecocity will find many new titles on the topics, for example, *The green building bottom line: The real cost of sustainable building* (Melaver &amp; Mueller, 2009), *Ecomasterplanning* (Yeang, 2009) and *Green architecture now!* (Jodidio, 2009).
+Environmental planners, consultants and plant operators looking for references on energy-efficient buildings, green architecture and ecocity will find many new titles on the topics, for example, *The Green Building Bottom Line: The Real Cost of Sustainable Building* (Melaver &amp; Mueller, 2009), *Eco Master Planning* (Yeang, 2009) and *Green Architecture Now!* (Jodidio, 2009).
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/GreenMatters/Green%20Building%20Bottomline.jpg">
-<div style="background-color: white;">All rights reserved, John Wiley &amp; Sons, c2010.</div>
+<div style="background-color: white;"><i>All rights reserved, John Wiley &amp; Sons, c. 2010.</i></div>
 
-Green vehicles will soon hit the roads in Singapore. A multi-agency taskforce led by the Energy Market Authority (EMA) and Land Transport Authority (LTA) has embarked on national electric vehicles (EVs) test-bedding programme.[^11] It will allow testing of different EV prototypes and charging technologies and research into vehicle-to-grid (V2G) power. Anyone interested to know the technology and issues behind EV can refer to books such as *Future cars: Bio fuel, hybrid, electric, hydrogen, fuel economy in all sizes and shapes* (Bethscheider-Kieser, 2008) and *Plug-in electric vehicles: What role for Washington?* (Sandalow, 2009).
+Green vehicles will soon hit the roads in Singapore. A multi-agency taskforce led by the Energy Market Authority and Land Transport Authority has embarked on national electric vehicles (EVs) test-bedding programme.[^11] It will allow testing of different EV prototypes and charging technologies and research into vehicle-to-grid power. Anyone interested to know the technology and issues behind EV can refer to books such as *Future Cars: Bio Fuel, Hybrid, Electric, Hydrogen, Fuel Economy in All Sizes and Shapes* (Bethscheider-Kieser, 2008) and *Plug-in Electric Vehicles: What Role for Washington?* (Sandalow, 2009).
 
 <img src="/images/Vol%206%20Issue%201/GreenMatters/Eco%20Master%20Planning1.jpg" style="width:100%;">
- <div style="background-color: white;">All rights reserved, Chichester, 2009.</div>
+ <div style="background-color: white;"><i>All rights reserved, Chichester, 2009.</i></div>
 
 #### **Conclusion**
 
-It is currently believed that science and technology can provide effective solutions to most environmental problems. However, efforts to conserve natural resources and preserve the wilderness and even local culture should not be overlooked to ensure a healthy environment for all living beings on Earth. To quote a recent ad from The Singapore Environmental Council (SEC), “It starts with their lives. It ends with yours.” Humans and animals are all affected by global warming. Go, read green and live green.
+It is currently believed that science and technology can provide effective solutions to most environmental problems. However, efforts to conserve natural resources and preserve the wilderness and even local culture should not be overlooked to ensure a healthy environment for all living beings on Earth. To quote a recent ad from The Singapore Environmental Council, “It starts with their lives. It ends with yours.” Humans and animals are all affected by global warming. Go, read green and live green.
 
 <br>
 <div style="background-color: white;">
@@ -127,7 +127,7 @@ Joel Makower and Cara Pike, [_Strategies for the Green Economy: Opportunities an
 
 John Rubino, [_Clean Money: Picking Winners in the Green-Tech Boom_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13053340) &nbsp;(Hoboken: John Wiley &amp; Sons, 2009). (Call no. RBUS 332.6 RUB)
 
-Ken Yeang, [_Ecomasterplanning_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13188044) (Hoboken: Chichester, 2009). (Call no. RSEA 720.47 YEA)
+Ken Yeang, [_Eco Master Planning_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13188044) (Hoboken: Chichester, 2009). (Call no. RSEA 720.47 YEA)
 
 Lindsay Patrick Wesson, _Green Reads: Best Environmental Resources for Youth, K-12_ (Calif. Libraries Unlimited/ABC-CLIO, 2009)
 
