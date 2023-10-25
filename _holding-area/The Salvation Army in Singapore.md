@@ -57,7 +57,13 @@ Tan Beng Neo, a resident of the Women’s Industrial Home, who later became a so
 
 The Women’s Industrial Home moved to 319 River Valley Road in 1937, where it began taking in orphans and young children whose families were unable to care for them. The numbers grew to such an extent that a Children’s Home was set up, first in a house on Upper Wilkie Road and subsequently a mansion on Pasir Panjang Road to accommodate the larger numbers.[^25]
 
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/industrialhome.jpg)
+<div style="background-color: white;">The Girls’ Industrial Home on Pasir Panjang Road, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 During the Japanese Occupation, one of the temporary premises occupied by the Women’s Industrial Home was 30 Oxley Road, which was next to a Japanese military brothel at 26 Oxley Road.[^26] The home found a more permanent location at 381 Pasir Panjang Road in 1959. The Army, with help from the Rotary Club, had bought two adjoining houses in 1957 and converted them into a new girls’ home.[^27]
+
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/minister.jpg)
+<div style="background-color: white;">Minister for Culture and Social Affairs Othman Wok (second from left) visiting the Girls’ Industrial Home in Pasir Panjang, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Not all the girls in the Women’s Home were rescued from prostitution or prison. The aforementioned Tan Beng Neo was a young probationary nurse who had run away from home after a violent disagreement with her parents. Seeking help, she went to the Mount Sophia home of the principal of Methodist Girls’ School, Tan’s former school. The principal took Tan to the Women’s Home on Paterson Road.
 
@@ -96,11 +102,19 @@ The organisation of the War Relief Fund brought the interned Army officers quick
 
 So quickly did the Army work that by October 1945, Colonel Bertha Grey, the first matron of the girls’ home on River Valley Road and the social secretary of the Army, had gotten the homes going again and Salvationists were staffing the People’s Restaurants.[^38] These “restaurants” scattered in town provided cheap meals for workers amid rising food prices. They had been started by the newly set-up Social Welfare Department established in April 1946 when the British Military Administration ended.
 
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/peoplesrestaurant.jpg)
+<div style="background-color: white;">House of Tan Yeok Nee at the junction of Clemenceau Avenue and Penang Road, 1955. It served as the Salvation Army’s headquarters from 1938 to 1991. <i>Marjorie Doggett Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 On top of training to be Salvationists, many were also taught to undertake the social work tasks that were part and parcel of their evangelical work. In fact, the Army had been the only agency training social workers until the Department of Social Work was set up in the University of Malaya in 1952. Because Salvationists were among the earliest to receive social work training as part of their evangelical mission, some became the pioneer staff at the new Social Welfare Department.
 
 “Usually, most of the staff that helped the Social Welfare came from the Salvation Army,” said Tan. “You see, there was nothing, nobody was trained. Nobody was able to do the work… The practical part of it \[running the homes and providing social services\] was all run by most of the Salvation Army officers.”[^39]
 
 In the immediate postwar years, the Army also undertook the arduous process of restoring their war-damaged Temple House headquarters. So named because of its Chinese-style architecture (known today as the House of Tan Yeok Nee), the property had been leased in January 1938 as the Army’s headquarters. A property then of the Church of England, it had once been a residence for girls called St Mary’s Home.[^40]
+
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/houseoftanyeoknee.jpg)
+<div style="background-color: white;">House of Tan Yeok Nee at the junction of Clemenceau Avenue and Penang Road, 1955. It served as the Salvation Army’s headquarters from 1938 to 1991. <i>Marjorie Doggett Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 In 1940, the Army had acquired the place for $50,000 with a loan of $25,000 from the Straits Settlements government and a grant of $25,000 from its London headquarters. The building also became a training centre and accommodation for married officers.[^41] Restoration took six years, and in 1951, Governor of Singapore Franklin Gimson officially opened the building as The Salvation Army Command Headquarters.[^42]
 
