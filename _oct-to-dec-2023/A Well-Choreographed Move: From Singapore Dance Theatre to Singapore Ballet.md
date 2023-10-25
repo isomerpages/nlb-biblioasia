@@ -162,7 +162,7 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^10]: “[The Ascent of Goh Choo San](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840605-1.2.25.4).”
 
-[^11]: Sharon Teng, “[Goh Choo San](https://eresources.nlb.gov.sg/infopedia/articles/SIP_638_2005-01-10.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
+[^11]: Sharon Teng, “[Goh Choo San](https://www.nlb.gov.sg/main/article-detail?cmsuuid=eacf40a8-a446-46a8-9803-729b4899fe94),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
 
 [^12]: Francis Kim Leng Yeoh, “The Singapore National Dance Company: Reminiscences of an Artistic Director,” *SPAFA Journal* 3 (19 September 2019), https://www.spafajournal.org/index.php/spafajournal/article/view/610. 
 
