@@ -99,9 +99,9 @@ In the immediate postwar years, the Army also undertook the arduous process of r
 
 In 1940, the Army had acquired the place for $50,000 with a loan of $25,000 from the Straits Settlements government and a grant of $25,000 from its London headquarters. The building also became a training centre and accommodation for married officers.[^41] Restoration took six years, and in 1951, Governor of Singapore Franklin Gimson officially opened the building as The Salvation Army Command Headquarters.[^42]
 
-In 1959, Lord, the officer who had gotten the Salvation Army to such an excellent start in 1935, returned to Singapore for a last visit.[^43] (After his release from internment at the end of the Japanese Occupation, Lord had returned to duty in Seoul in 1946. Unfortunately, he was captured by the North Koreans at the outbreak of the Korean War (1950–53) and interned until 1953.44) Lord was reported to have been amazed at Singapore’s political development. “I sincerely hope that the building of a new Asia is done on sound principles of democracy, righteousness and political integrity,” he said.45
+In 1959, Lord, the officer who had gotten the Salvation Army to such an excellent start in 1935, returned to Singapore for a last visit.[^43] (After his release from internment at the end of the Japanese Occupation, Lord had returned to duty in Seoul in 1946. Unfortunately, he was captured by the North Koreans at the outbreak of the Korean War (1950–53) and interned until 1953.44) Lord was reported to have been amazed at Singapore’s political development. “I sincerely hope that the building of a new Asia is done on sound principles of democracy, righteousness and political integrity,” he said.[^45]
 
-Lord would have been even more amazed to find out that the Salvation Army headquarters he had purchased in 1940 for $50,000 was sold in 1991 for $20 million.46 That sum was used to finance its new and larger headquarters in Bishan, which opened in 1994.47 &nbsp;
+Lord would have been even more amazed to find out that the Salvation Army headquarters he had purchased in 1940 for $50,000 was sold in 1991 for $20 million.[^46] That sum was used to finance its new and larger headquarters in Bishan, which opened in 1994.[^47] 
 
 Today, the Salvation Army in Singapore runs a host of programmes for children and youth, the elderly, migrant workers, former prisoners and the general community. It runs Gracehaven, a children’s home; the Peacehaven Nursing Home; Carehaven, a shelter for foreign domestic workers; and a few thrift stores around Singapore.
 
@@ -141,27 +141,27 @@ Today, the Salvation Army in Singapore runs a host of programmes for children an
 [^21]: How Salvation Army Home Helps Destitute Women,” _Straits Times_, 10 May 1940, 11. (From NewspaperSG)
 [^22]: “New Home for Women in Singapore,” _Pinang Gazette and Straits Chronicle_, 16 December 1935, 10; “Freedom from Influence of Social Evils,” _Pinang Gazette and Straits Chronicle_, 27 November 1936, 5. (From NewspaperSG)
 [^23]: “Rescue Work Among Girls,” _Straits Times_, 13 February 1941, 11. (From NewspaperSG)
-[^24]: 
-[^25]: 
-[^26]: 
-[^27]: 
-[^28]: 
-[^29]: 
-[^30]: 
-[^31]: 
-[^32]: 
-[^33]: 
-[^34]: 
-[^35]: 
-[^36]: 
-[^37]: 
-[^38]: 
-[^39]: 
-[^40]: 
-[^41]: 
-[^42]: 
-[^43]: 
-[^44]: 
-[^45]: 
-[^46]: 
-[^47]: 
+[^24]: Tan Beng Neo, oral history interview by Liana Tan, 31 March 1984, transcript and MP3 audio, Reel/Disc 7 of 26, National Archives of Singapore (accession no. 000371), 100.
+[^25]: “Salvation Army to Open New Children’s Home,” _Straits Times_, 15 January 1939, 4. (From NewspaperSG)
+[^26]: Tan Beng Neo, oral history interview by Liana Tan, 10 April 1984, transcript and MP3 audio, Reel/Disc 13 of 26, National Archives of Singapore (accession no. 000371), 100.
+[^27]: “Salvation Army to Have New Home,” _Straits Times_, 8 November 1957, 5; “Salvation Army’s New Home,” _Singapore Standard_, 17 June 1958, 4. (From NewspaperSG)
+[^28]: Tan Beng Neo, oral history interview, 3 December 1983, Reel/Disc 5 of 26, 66, 68; Tan Beng Neo, oral history interview, 3 December 1983, Reel/Disc 6 of 26, 77.
+[^29]: “Kettle of Funds,” _Straits Times_, 20 December 1988, 18. (From NewspaperSG)
+[^30]: “Donations Needed,” _Straits Times_, 28 March 1936, 12. (From NewspaperSG)
+[^31]: “Helping Hand for Local Ex-prisoners,” _Straits Times_, 16 April 1937, 8. (From NewspaperSG)
+[^32]: “New Home for Discharged Prisoners,” _Straits Times_, 24 July 1938, 5. (From NewspaperSG)
+[^33]: Tan Beng Neo, oral history interview, 4 April 1984, Reel/Disc 10 of 26, 135.
+[^34]: Tan Beng Neo, oral history interview, 4 April 1984, Reel/Disc 10 of 26, 137.
+[^35]: Tan Beng Neo, oral history interview, 4 April 1984, Reel/Disc 10 of 26, 143.
+[^36]: Tan Beng Neo, oral history interview, 4 April 1984, Reel/Disc 12 of 26, 25:14 mins.
+[^37]: Ho and Wee, _Social Services_, 45.
+[^38]: Tan Beng Neo, oral history interview, 17 April 1984, Reel /Disc 17 of 26, 250.
+[^39]: Tan Beng Neo, oral history interview, 24 April 1984, Reel/Disc 21 of 26, 316.
+[^40]: “Temple House to Be Headquarters of Salvation Army,” _Singapore Free Press and Mercantile Advertiser_, 15 January 1938, 9. (From NewspaperSG)
+[^41]: “Salvation Army to Buy Old Chinese House,” _Straits Budget_, 14 March 1940, 17. (From NewspaperSG)
+[^42]: “The House of Tan Yeok Nee,” _Straits Times_, 16 March 1983, 10. (From NewspaperSG)
+[^43]: Salvation Leader Lord Is Surprised,” _Straits Budget,_ 13 May 1959, 9. (From NewspaperSG)
+[^44]: “Mrs Lord Knew He Would Return,” _Straits Times_, 22 April 1953. (From NewspaperSG)
+[^45]: “Salvation Leader Lord Is Surprised.”
+[^46]: “Salvation Army HQ Sold to Cockpit for $20m,” _Straits Times_, 20 April 1991, 20. (From NewspaperSG)
+[^47]: “A New Headquarters at Bishan,” _Straits Times_, 20 January 1994, 6. (From NewspaperSG)
