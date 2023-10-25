@@ -1,11 +1,11 @@
 ---
 title: "The Asian Children’s Collection: Multicultural Children’s Literature"
 permalink: /vol-6/issue-1/apr-2010/asian-children-multicultural-literature/
-description: "Senior Librarian Panna Kantilal and Librarian Norasyikin binte
+description: Senior Librarian Panna Kantilal and Librarian Norasyikin binte
   Ahmad Ismail share about the importance and highlights of the Asian Children’s
-  Collection. "
+  Collection.
 ---
-####  Senior Librarian _Panna Kantilal_ and Librarian _Norasyikin binte Ahmad Ismail_ share about the importance and highlights of the Asian Children’s Collection.
+####  Senior Librarian Panna Kantilal_&nbsp;and Librarian&nbsp;_Norasyikin binte Ahmad Ismail_&nbsp;share about the importance and highlights of the Asian Children’s Collection.
 
 <img style="width:50%;" src="/images/Vol%206%20Issue%201/ChildrenLiterature/bhangra%20babes(1).jpg">
  <div style="background-color: white;">All Rights Reserved, Corgi Yearling Books, 2005.</div>
@@ -23,7 +23,7 @@ The importance of this collection stems from the fact that it was developed with
 
 Research in this field has shown multicultural literature as a vehicle that encourages tolerance and understanding among children (Bainbridge, 1999). This is achieved because multicultural literature is “literature about racial or ethnic minority groups that are culturally and socially different from the white Anglo-Saxon majority” (Norton, 1999). As Bainbridge (1999) says “multicultural literature is literature that depicts and explores the lives of individuals who belong to a wide range of diverse groups” and hence it encourages positive attitudes towards difference. “If literature is a mirror that reflects human life, then all children who read or are read to need to see themselves reflected as part of humanity” (Loh, 2006).
 
-Therefore, it is important for children to read and be exposed to materials depicting their own culture and minority cultures. This is so because “books can be a powerful tool for promoting cultural understanding” and “reading about diverse perspectives enhances multicultural awareness” (Loh, 2006) as it supplies the reader with images, ideas and models that they can relate to. Moreover, it is crucial that children’s literature reflects the reality of our pluralistic society (Higgins, 2002) so that children are then better able to see themselves and their lives reflected in the books they read (Aoki, 1992; Slapin & Seale, 1992).
+Therefore, it is important for children to read and be exposed to materials depicting their own culture and minority cultures. This is so because “books can be a powerful tool for promoting cultural understanding” and “reading about diverse perspectives enhances multicultural awareness” (Loh, 2006) as it supplies the reader with images, ideas and models that they can relate to. Moreover, it is crucial that children’s literature reflects the reality of our pluralistic society (Higgins, 2002) so that children are then better able to see themselves and their lives reflected in the books they read (Aoki, 1992; Slapin &amp; Seale, 1992).
 
 A number of multicultural children’s literature is about the Asian diaspora, the dispersion of people from their original homeland (Free Dictionary). Originally this word was used for the dispersion of Jewish people outside their Holy Land, but now it has taken on a broader meaning connoting issues of social and cultural significance such as displacement, loss of a shared identity, shared values and customs. Hence issues of hybridism arise, mainly “the notion that there are no pure identities” (Clammer, 2002) and this is especially so in post-colonial societies.
 
@@ -62,21 +62,21 @@ Given the diversity of topics of interest available in the Asian children’s Co
 
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Panna.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Authors/Panna.jpg" style="width: 100px; height: 100px;">
  <center><b>Panna Kantilal</b><br>Senior Librarian <br>Professional Services<br> National Library </center></div>
  
 <br>
 <div style="background-color: white;">
-<br/>
-<img src="/images/Authors/Norasyikin.jpg" style="width: 100px; height: 100px;"/>
- <center><b>Norasyikin Binte Ahmad Ismail</b><br>Librarian <br>National Reference & Special Libraries<br> National Library </center></div>
+<br>
+<img src="/images/Authors/Norasyikin.jpg" style="width: 100px; height: 100px;">
+ <center><b>Norasyikin Binte Ahmad Ismail</b><br>Librarian <br>National Reference &amp; Special Libraries<br> National Library </center></div>
  
 #### **REFERENCES**
  
 Andrea Warren, _Escape From Saigon_ (New York: Farrar, Straus and Giroux, 2008)
 
-Ang Seow Leng et al., [_Asian Renaissance: The Singapore and Southeast Asian & Asian Children Collection Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654419) (Singapore: National Library Board, 2005). (Call no. RSING 025.21095957 ASI)
+Ang Seow Leng et al., [_Asian Renaissance: The Singapore and Southeast Asian &amp; Asian Children Collection Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654419) (Singapore: National Library Board, 2005). (Call no. RSING 025.21095957 ASI)
 
 Donna E. Norton, [_Multicultural Children’s Literature: Through the Eyes of Many Children_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12655350), 2nd ed. (N.J.: Pearson Prentice Hall, 2005). (Call no. R 810.9928208693 NOR)
 
@@ -101,6 +101,3 @@ Twyla J. Hill, “Multicultural Children’s Books: An American Fairy Tale,” _
 Virginia Loh, “Quantity and Quality: The Need for Culturally Authentic Trade Books in Asian American Young Adult Literature,” _The ALAN Review_ 34, no, 1 (Fall 2006), 44–61, https://scholar.lib.vt.edu/ejournals/ALAN/v34n1/loh.pdf
 
 Yang Hongying, _Mo’s Mischief: Pesky Monkeys_ (London: HarperCollins Children’s Books, 2018)
-
-
-
