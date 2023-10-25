@@ -138,29 +138,29 @@ Today, the Salvation Army in Singapore runs a host of programmes for children an
 [^19]: “[Salvation Army Boys’ Industrial Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19370302-1.2.49),” _Morning Tribune_, 2 March 1937, 8. (From NewspaperSG)
 [^20]: “[How Industrial and Remand Homes Boys are Trained](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19381009-1.2.51),” _Straits Times_, 9 October 1938, 6; “[Saving Young Boys from Prison](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19381009-1.2.267),” _Straits Times_, 9 October 1938, 32. (From NewspaperSG)
 [^21]: [How Salvation Army Home Helps Destitute Women](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19400510-1.2.58),” _Straits Times_, 10 May 1940, 11. (From NewspaperSG)
-[^22]: “[New Home for Women in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19351216-1.2.58),” _Pinang Gazette and Straits Chronicle_, 16 December 1935, 10; “Freedom from Influence of Social Evils,” _Pinang Gazette and Straits Chronicle_, 27 November 1936, 5. (From NewspaperSG)
-[^23]: “Rescue Work Among Girls,” _Straits Times_, 13 February 1941, 11. (From NewspaperSG)
-[^24]: Tan Beng Neo, oral history interview by Liana Tan, 31 March 1984, transcript and MP3 audio, Reel/Disc 7 of 26, National Archives of Singapore (accession no. 000371), 100.
-[^25]: “Salvation Army to Open New Children’s Home,” _Straits Times_, 15 January 1939, 4. (From NewspaperSG)
-[^26]: Tan Beng Neo, oral history interview by Liana Tan, 10 April 1984, transcript and MP3 audio, Reel/Disc 13 of 26, National Archives of Singapore (accession no. 000371), 100.
-[^27]: “Salvation Army to Have New Home,” _Straits Times_, 8 November 1957, 5; “Salvation Army’s New Home,” _Singapore Standard_, 17 June 1958, 4. (From NewspaperSG)
-[^28]: Tan Beng Neo, oral history interview, 3 December 1983, Reel/Disc 5 of 26, 66, 68; Tan Beng Neo, oral history interview, 3 December 1983, Reel/Disc 6 of 26, 77.
-[^29]: “Kettle of Funds,” _Straits Times_, 20 December 1988, 18. (From NewspaperSG)
-[^30]: “Donations Needed,” _Straits Times_, 28 March 1936, 12. (From NewspaperSG)
-[^31]: “Helping Hand for Local Ex-prisoners,” _Straits Times_, 16 April 1937, 8. (From NewspaperSG)
-[^32]: “New Home for Discharged Prisoners,” _Straits Times_, 24 July 1938, 5. (From NewspaperSG)
-[^33]: Tan Beng Neo, oral history interview, 4 April 1984, Reel/Disc 10 of 26, 135.
-[^34]: Tan Beng Neo, oral history interview, 4 April 1984, Reel/Disc 10 of 26, 137.
-[^35]: Tan Beng Neo, oral history interview, 4 April 1984, Reel/Disc 10 of 26, 143.
+[^22]: “[New Home for Women in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19351216-1.2.58),” _Pinang Gazette and Straits Chronicle_, 16 December 1935, 10; “[Freedom from Influence of Social Evils](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19361127-1.2.46),” _Pinang Gazette and Straits Chronicle_, 27 November 1936, 5. (From NewspaperSG)
+[^23]: “[Rescue Work Among Girls](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19410213-1.2.82),” _Straits Times_, 13 February 1941, 11. (From NewspaperSG)
+[^24]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e8336181-115d-11e3-83d5-0050568939ad-OHC000371_007/web/html5/index.html), oral history interview by Liana Tan, 31 March 1984, transcript and MP3 audio, Reel/Disc 7 of 26, National Archives of Singapore ([accession no. 000371](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000371)), 100.
+[^25]: “[Salvation Army to Open New Children’s Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390115-1.2.59?qt=children,%20home&amp;q=children%27s%20home),” _Straits Times_, 15 January 1939, 4. (From NewspaperSG)
+[^26]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e79bdf4d-115d-11e3-83d5-0050568939ad-OHC000371_013/web/html5/index.html), oral history interview by Liana Tan, 10 April 1984, transcript and MP3 audio, Reel/Disc 13 of 26, National Archives of Singapore ([accession no. 000371](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000371)), 100.
+[^27]: “[Salvation Army to Have New Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19571108-1.2.53),” _Straits Times_, 8 November 1957, 5; “[Salvation Army’s New Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19580617-1.2.40),” _Singapore Standard_, 17 June 1958, 4. (From NewspaperSG)
+[^28]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e831e7cc-115d-11e3-83d5-0050568939ad-OHC000371_005/web/html5/index.html), oral history interview, 3 December 1983, Reel/Disc 5 of 26, 66, 68; [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/4bc30c5b-115f-11e3-83d5-0050568939ad-OHC000371_006/web/html5/index.html), oral history interview, 3 December 1983, Reel/Disc 6 of 26, 77.
+[^29]: “[Kettle of Funds](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19881220-1.2.27.22.3),” _Straits Times_, 20 December 1988, 18. (From NewspaperSG)
+[^30]: “[Donations Needed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19360328-1.2.84),” _Straits Times_, 28 March 1936, 12. (From NewspaperSG)
+[^31]: “[Helping Hand for Local Ex-prisoners](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370416-1.2.28),” _Straits Times_, 16 April 1937, 8. (From NewspaperSG)
+[^32]: “[New Home for Discharged Prisoners](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19380724-1.2.54),” _Straits Times_, 24 July 1938, 5. (From NewspaperSG)
+[^33]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e4593a06-115d-11e3-83d5-0050568939ad-OHC000371_010/web/html5/index.html), oral history interview, 4 April 1984, Reel/Disc 10 of 26, 135.
+[^34]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e4593a06-115d-11e3-83d5-0050568939ad-OHC000371_010/web/html5/index.html), oral history interview, 4 April 1984, Reel/Disc 10 of 26, 137.
+[^35]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e4593a06-115d-11e3-83d5-0050568939ad-OHC000371_010/web/html5/index.html), oral history interview, 4 April 1984, Reel/Disc 10 of 26, 143.
 [^36]: Tan Beng Neo, oral history interview, 4 April 1984, Reel/Disc 12 of 26, 25:14 mins.
-[^37]: Ho and Wee, _Social Services_, 45.
-[^38]: Tan Beng Neo, oral history interview, 17 April 1984, Reel /Disc 17 of 26, 250.
-[^39]: Tan Beng Neo, oral history interview, 24 April 1984, Reel/Disc 21 of 26, 316.
-[^40]: “Temple House to Be Headquarters of Salvation Army,” _Singapore Free Press and Mercantile Advertiser_, 15 January 1938, 9. (From NewspaperSG)
-[^41]: “Salvation Army to Buy Old Chinese House,” _Straits Budget_, 14 March 1940, 17. (From NewspaperSG)
-[^42]: “The House of Tan Yeok Nee,” _Straits Times_, 16 March 1983, 10. (From NewspaperSG)
-[^43]: Salvation Leader Lord Is Surprised,” _Straits Budget,_ 13 May 1959, 9. (From NewspaperSG)
-[^44]: “Mrs Lord Knew He Would Return,” _Straits Times_, 22 April 1953. (From NewspaperSG)
-[^45]: “Salvation Leader Lord Is Surprised.”
-[^46]: “Salvation Army HQ Sold to Cockpit for $20m,” _Straits Times_, 20 April 1991, 20. (From NewspaperSG)
-[^47]: “A New Headquarters at Bishan,” _Straits Times_, 20 January 1994, 6. (From NewspaperSG)
+[^37]: Ho and Wee, [_Social Services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202686062), 45.
+[^38]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e79ebfed-115d-11e3-83d5-0050568939ad-OHC000371_017/web/html5/index.html), oral history interview, 17 April 1984, Reel /Disc 17 of 26, 250.
+[^39]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e868dbbc-115d-11e3-83d5-0050568939ad-OHC000371_021/web/html5/index.html), oral history interview, 24 April 1984, Reel/Disc 21 of 26, 316.
+[^40]: “[Temple House to Be Headquarters of Salvation Army](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19380115-1.2.91),” _Singapore Free Press and Mercantile Advertiser_, 15 January 1938, 9. (From NewspaperSG)
+[^41]: “[Salvation Army to Buy Old Chinese House](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19400314-1.2.66),” _Straits Budget_, 14 March 1940, 17. (From NewspaperSG)
+[^42]: “[The House of Tan Yeok Nee](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830316-1.2.124.13),” _Straits Times_, 16 March 1983, 10. (From NewspaperSG)
+[^43]: [Salvation Leader Lord Is Surprised](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19590513-1.2.36),” _Straits Budget,_ 13 May 1959, 9. (From NewspaperSG)
+[^44]: “[Mrs Lord Knew He Would Return](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19530422-1.2.96?qt=herbert,%20lord&amp;q=Herbert%20Lord%20),” _Straits Times_, 22 April 1953. (From NewspaperSG)
+[^45]: “[Salvation Leader Lord Is Surprised](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19590513-1.2.36).”
+[^46]: “[Salvation Army HQ Sold to Cockpit for $20m](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19910420-1.2.31.1),” _Straits Times_, 20 April 1991, 20. (From NewspaperSG)
+[^47]: “[A New Headquarters at Bishan](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940120-1.2.60.3.6),” _Straits Times_, 20 January 1994, 6. (From NewspaperSG)
