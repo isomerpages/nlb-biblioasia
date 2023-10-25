@@ -21,7 +21,7 @@ There were apparently early attempts by the Army to proselytise in Singapore at 
 
 One reason could be that the Army evangelised through open-air meetings where men, as well as women, preached and sang accompanied by musicians, good and bad. Could the Salvationist who was booed at the Esplanade have been no less than the founder of the Army himself, General William Booth?[^4] The _Eastern Daily Mail and Straits Morning Advertiser_ had reported in November 1906 that Booth was heading to Japan to inspect the Army’s mission that had started there in 1895.[^5]
 
-![](/images/Vol%2019%20Issue%204/Salvation%20Army/wbooth.jpg)
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/wbooth2.jpg)
 <div style="background-color: white;">English Methodist minister William Booth, the founder and inaugural general of the Salvation Army, 1912. <i>Retrieved from Wikimedia Commons.</i></div>
 
 
@@ -102,8 +102,8 @@ The organisation of the War Relief Fund brought the interned Army officers quick
 
 So quickly did the Army work that by October 1945, Colonel Bertha Grey, the first matron of the girls’ home on River Valley Road and the social secretary of the Army, had gotten the homes going again and Salvationists were staffing the People’s Restaurants.[^38] These “restaurants” scattered in town provided cheap meals for workers amid rising food prices. They had been started by the newly set-up Social Welfare Department established in April 1946 when the British Military Administration ended.
 
-![](/images/Vol%2019%20Issue%204/Salvation%20Army/peoplesrestaurant.jpg)
-<div style="background-color: white;">House of Tan Yeok Nee at the junction of Clemenceau Avenue and Penang Road, 1955. It served as the Salvation Army’s headquarters from 1938 to 1991. <i>Marjorie Doggett Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/peoplesrestaurant2.jpg)
+<div style="background-color: white;">The People’s Restaurants sold affordable and nutritious lunches to the masses, 1947. <i>Courtesy of Ministry of Communication and Information.</i></div>
 
 
 On top of training to be Salvationists, many were also taught to undertake the social work tasks that were part and parcel of their evangelical work. In fact, the Army had been the only agency training social workers until the Department of Social Work was set up in the University of Malaya in 1952. Because Salvationists were among the earliest to receive social work training as part of their evangelical mission, some became the pioneer staff at the new Social Welfare Department.
