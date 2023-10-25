@@ -6,12 +6,12 @@ description: The opening of the Suez Canal in 1869 along with advances in
   Tan explores travel guides for visitors seeking a leisurely but safe journey
   to the mystical but demystified Far East.
 ---
-#### The opening of the Suez Canal in 1869 along with advances in steamships, saw a boom in travellers visiting the East. Senior Librarian&nbsp;_Bonny Tan_&nbsp;explores travel guides for visitors seeking a leisurely but safe journey to the mystical but demystified Far East.
+#### The opening of the Suez Canal in 1869 along with advances in steamships, saw a boom in travellers visiting the East. Senior Librarian *Bonny Tan* explores travel guides for visitors seeking a leisurely but safe journey to the mystical but demystified Far East.
 
-     *“No part of the world is now to be sacred from the intrusive foot of the tourist*<br>    *and where the traveler goes, guide-books will ultimately follow….”*<br>        G. M. Reith, Padre in partibus, p. 1.
+<center>“No part of the world is now to be sacred from the intrusive foot of the tourist and where the traveler goes, guide-books will ultimately follow….”*<br>— G.M. Reith, <i>Padre in partibus</i>, p. 1.</center>
 
 <img src="/images/Vol%206%20Issue%201/TouristGuidebooks/Handbook%20to%20Singapore.jpg" style="width:50%;">
- <div style="background-color: white;">Inside page to <i>Handbook to Singapore</i> (Reith, 1892)</div>
+ <div style="background-color: white;">Inside page to <i>Handbook to Singapore</i> (Reith, 1892).</div>
 
 Travellers from Europe saw their journey to the East cut down by as much as half when the Suez Canal opened in 1869. Steamships, helped along with advances in their engine development, were preferred over sailing ships as they proved faster and more efficient. Beginning as mail services dispatching post, ships from companies like the Peninsular and Oriental Steam Navigation Company soon became vessels for ferrying passengers. In turn, travelogues written by the adventurous sojourner who happened to be sailor, civil servant or missionary soon evolved into travel guides published by travel companies for the paying tourist seeking a leisurely but safe journey to the mystical but demystified Far East.
 
@@ -220,4 +220,3 @@ Obituary – Rev. Dr. J. Moffatt,” (1944, June 29). _The Times_, 29 June 1944,
 [^3]:&nbsp;Davison’s and Ridley’s articles are found in chapter 13, but Davison’s is an abridged version of the original.
 
 [^4]: Reith argued against labour on Sunday despite the increase in wages. The matter was being discussed at the Colonial Office particularly among shipping firms, docks and mariners. “[The Rev. Mr. Reith - Sunday Labour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18910921-1.2.37),” _Straits Times_, 21 September 1891, 2. (From NewspaperSG)
-
