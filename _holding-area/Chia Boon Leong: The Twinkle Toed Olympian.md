@@ -4,7 +4,7 @@ permalink: /holding-area/permalink/chiaboonleongtest1/
 description: Although short in stature, footballer Chia Boon Leong was a force
   to be reckoned with.
 ---
-#### **Although short in stature, footballer Chia Boon Leong was a force to be reckoned with.**
+#### Although short in stature, footballer Chia Boon Leong was a force to be reckoned with.
 
 By Nick Aplin
 
@@ -16,7 +16,7 @@ Chia, who died in December 2022 at the age of 97, is widely considered to be one
 
 One of Chia’s major accomplishments was representing China’s soccer team at the 1948 London Olympics (he was one of three Malayan Chinese footballers chosen along with Yeap Cheng Eng and Chu Chee Seng).4 Chia later became a household name in the Asian football world during the immediate postwar years. His active playing career also coincided with a period of Singapore’s dominance of the Malaya Cup during the early 1950s. He competed at every available level, and after retiring became manager of the Singapore soccer team briefly as well as a council member of the Football Association of Singapore. 
 
-Early Life
+#### **Early Life**
 
 Born in Singapore on 1 January 1925, Chia was the sixth of seven sons. He lived in Pasir Panjang and was educated first at Pasir Panjang English School where he picked up the sport. He then attended Raffles Institution, excelling not only in soccer but also in athletics, hockey and rugby. He was also a founding member of Pasir Panjang Rovers football team, which later became one of the leading clubs in Singapore.5
 
@@ -26,7 +26,7 @@ Chia was just 17 years old when the Japanese captured Singapore in February 1942
 
 During the Occupation years, Chia was able to continue playing football when the Japanese formed the Syonan Sports Association.8 He also became a member of the Pasir Panjang Rovers football team that in 1943 won the Alsagoff Shield, an eight-game league tournament.9
 
-The Postwar Years
+#### **The Postwar Years**
 
 Immediately after the war, Chia began establishing himself as one of Singapore’s top footballers. In 1946, he played for Base Ordinance Depot, the Rovers Sports Association and the Singapore Chinese Football Association. 
 
@@ -40,8 +40,7 @@ The _North-China Daily News_ reported that Chia had won the admiration of local 
 
 Such was his performance that the crowd of presumably Tung Hwa supporters mobbed Chia as he left the stadium to head towards the bus. “They were so natural and spontaneous in their feelings. The crowds surged towards me in the stadium and I had to go out by another way. The police had to form a circle around me to let me through. I still flush with pride whenever I think of this incident,” he recalled. “It was once-in-a-lifetime feeling.”14 
 
-Playing in the Olympics  
-and the Malaya Cup 
+#### **Playing in the Olympics and the Malaya Cup**
 
 Partly as a result of these performances, Chia was selected to represent China at the 1948 London Olympic Games. At the time, although a British subject, under China’s rules, he was still considered a Chinese player by dint of his ethnicity.
 
@@ -59,7 +58,7 @@ Sadly, in February 1956, the _Singapore Standard_ reported that Chia will “def
 
 He then devoted time to his family and his career as a financial executive with Rediffusion.23 In a 1975 interview, Chia agreed that he could have continued to play for a few more years. “But, somehow, I couldn’t get over the feeling that it was better to beat a graceful exit than to be booed out of Jalan Besar Stadium,” he said. “I realised that I was losing a bit of my touch and I didn’t want to give any occasion for the crowd to get fed up with me,” he added.24 
 
-Post-Retirement Career
+#### **Post-Retirement Career**
 
 Chia did not give up football entirely though. In 1974, he was made a council member of the Football Association of Singapore, and in 1978 he was appointed manager of the Singapore soccer team, a role he held briefly.25 In August 1978, Chia participated in a goodwill tour to the Soviet Union under the Cultural Exchange Programme. In the party was a young Fandi Ahmad. 
 
