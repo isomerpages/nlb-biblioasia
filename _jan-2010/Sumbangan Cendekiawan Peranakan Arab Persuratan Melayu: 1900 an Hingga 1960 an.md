@@ -202,7 +202,7 @@ Khoo Kay Kim, Elinah Abdullah and Wan Meng Hao, [_Malays/Muslims in Singapore: S
 
 Li Chuan Siu, [_Ikhtisar Sejarah Kesusasteraan Melayu Baru, 1830–1945_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4118153) (Kuala Lumpur: Penerbitan Pustaka Antara, 1972). (Call no. Malay RSING 899.23008104 LI)
 
-Lim Lu Sia, “The Arabs of Singapore: A Sociographic Study of Their Place in the Muslim and Malay World of Singapore” (bachelor’s thesis, National University of Singapore, 1987)
+Lim Lu Sia, “The Arabs of Singapore: A Sociographic Study of Their Place in the Muslim and Malay World of Singapore” (Bachelor’s thesis, National University of Singapore, 1987)
 
 Maimunah Tahir, [_Modern Malay Literary Culture: A Historical Perspective_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4769138) (Singapore: ISEAS, 1987). (Call no. RSING M899.24009305 MAI)
 
@@ -254,9 +254,9 @@ Zulkipli bin Mahmud, [_Warta Malaya, Penyambung Lidah Bangsa Melayu, 1930–1941
 
 #### **NOTES**
 
-[^1]: C. M. Turnbull, _[A History of Modern Singapore, 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047)_ (Singapore: National University of Singapore Press, 2009), 34. (Call no. RSING 959.57 TUR)
+[^1]: C.M. Turnbull, _[A History of Modern Singapore, 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047)_ (Singapore: National University of Singapore Press, 2009), 34. (Call no. RSING 959.57 TUR)
 
-[^2]: Lim Lu Sia, “The Arabs of Singapore: A Sociographic Study of Their Place in the Muslim and Malay World of Singapore” (bachelor’s thesis, National University of Singapore, 1987), 23.
+[^2]: Lim Lu Sia, “The Arabs of Singapore: A Sociographic Study of Their Place in the Muslim and Malay World of Singapore” (Bachelor’s thesis, National University of Singapore, 1987), 23.
 
 [^3]: William, R. Roff, “The Malayo Muslim World of Singapore at the Close of the Nineteenth Century,” _Journal of Asian Studies_ 24, no. 1 (November 1964): 75–90. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
