@@ -160,6 +160,6 @@ Stuart Hall, “Who Needs Identity?” in _Questions of Cultural Identity_, ed. 
 
 Tim Edensor, “Performing Tourism, Staging Tourism: (Re)producing Tourist Space and Practice,” _Tourist Studies_ 1, no. 1 (2001), 59–81.
 
-Urban Redevelopment Authority (Singapore), [_Rediscover Singapore: An Explorer’s Guide to Funky Finds, Fab Fun and Fantastic Food_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11895049) (Singapore: Urban Redevelopment Authority by Media Corp Publishing Pte Ltd, 2003). (Call no. RSING 959.57 RED
+Urban Redevelopment Authority (Singapore), [_Rediscover Singapore: An Explorer’s Guide to Funky Finds, Fab Fun and Fantastic Food_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11895049) (Singapore: Urban Redevelopment Authority by Media Corp Publishing Pte Ltd, 2003). (Call no. RSING 959.57 RED)
 
-Valene L. Smith, ed., _Hosts and Guests: The Anthropology of Tourism_ (Philadelphia: University of Philadelphia Press, 1977)
+Valene L. Smith, ed., _Hosts and Guests: The Anthropology of Tourism_ (Philadelphia: University of Philadelphia Press, 1977).
