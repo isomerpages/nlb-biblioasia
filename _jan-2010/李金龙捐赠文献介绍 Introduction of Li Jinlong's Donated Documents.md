@@ -126,12 +126,12 @@ Chen Mei'e 陈美娥 “Mianhuai lijinlong jiaoshou” [缅怀李金龙教授](h
 
 Fang Shuishuang 方水双,“Yi haoyou lijinlong jiaoshou” [忆好友李金龙教授](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080111-1.2.31.5.1) \[Recalling my friend Professor Li Jinlong\], _Lianhe Zaobao_ _联合早报_, 11 January 2008, 18. (From NewspaperSG)
 
-He Wenxin 何文欣, “Bendi zhongyi shi shanxin yìzhen min dan pinmin ganshou si si qing” [本地中医师善心义诊民丹贫民感受丝丝情](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20020729-1.2.11.8) \[Local TCM physicians kindly treat the poor in Bintan and feel a little bit of love\], _Lianhe Zaoba_o _联合早报_, 29 July 2002, 6. (From NewspaperSG)
+He Wenxin 何文欣, “Bendi zhongyi shi shanxin yìzhen min dan pinmin ganshou si si qing” [本地中医师善心义诊民丹贫民感受丝丝情](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20020729-1.2.11.8) \[Local TCM physicians kindly treat the poor in Bintan and feel a little bit of love\], _Lianhe Zaobao_ _联合早报_, 29 July 2002, 6. (From NewspaperSG)
 
-Li Jinju 李金菊, “AnxI ba, laoshi!” [安息吧, 老师!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb20080108-1.2.14.1.3.1) \[Rest in peace, teacher!\], _Lianhe Wanbao_ _联合晚报_, 8 January 2008, 14. (From NewspaperSG)
+Li Jinju 李金菊, “Anxi ba, laoshi!” [安息吧, 老师!](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb20080108-1.2.14.1.3.1) \[Rest in peace, teacher!\], _Lianhe Wanbao_ _联合晚报_, 8 January 2008, 14. (From NewspaperSG)
 
 Wu Shuxian 吴淑贤 “300 Ming zhongyi jie renshi yu gongzhong zhui nian lijinlong yishi kegui yide,” [300名中医界人事与公众追念李金龙医师可贵医德](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080317-1.2.10.11) \[300 TCM personnel and the general public commemorate Dr. Li Jinlong's valuable medical ethics\], _Lianhe Zaobao_ _联合早报_, 17 March 2008, 7. (From NewspaperSG)
 
-Zhang Xina 张曦娜 “Yi xinjiapo “yizhen zhi fu” lijīnlong” [忆新加坡 “义诊之父”李金龙](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080314-1.2.59.5) \[Recalling Singapore's "Father of Free Clinic" Li Jinlong\], _Lianhe Zaobao_ _联合早报_, 14 March 2008, 8. (From NewspaperSG)
+Zhang Xina 张曦娜 “Yi xinjiapo ‘yizhen zhi fu’ lijīnlong” [忆新加坡 “义诊之父”李金龙](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20080314-1.2.59.5) \[Recalling Singapore's "Father of Free Clinic" Li Jinlong\], _Lianhe Zaobao_ _联合早报_, 14 March 2008, 8. (From NewspaperSG)
 
-Zou Wenxue and Huang Lirong 邹文学 and 黄丽容, “Huainian ben bao yizhen guwen lijinlong yishi xinjiapo de baiqiuen nali xuyao nali qu” [怀念本报义诊顾问李金龙医师新加坡的白求恩哪里需要哪里去](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb20080106-1.2.5.18) \[Ask Dr. Li Jinlong where Bethune in Singapore needs to go\], _Lianhe Zaoba_o _联合早报_, 6 January 2008, 10. (From NewspaperSG)
+Zou Wenxue and Huang Lirong 邹文学 and 黄丽容, “Huainian ben bao yizhen guwen lijinlong yishi xinjiapo de baiqiuen nali xuyao nali qu” [怀念本报义诊顾问李金龙医师新加坡的白求恩哪里需要哪里去](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb20080106-1.2.5.18) \[Ask Dr. Li Jinlong where Bethune in Singapore needs to go\], _Lianhe Zaobao_ _联合早报_, 6 January 2008, 10. (From NewspaperSG)
