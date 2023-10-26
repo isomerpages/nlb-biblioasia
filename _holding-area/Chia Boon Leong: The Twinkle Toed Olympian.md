@@ -97,10 +97,10 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 [^18]: “Singapore Wins Malaya Cup,” Singapore Standard, 15 August 1950, 10. (From NewspaperSG)
 [^19]: “Singapore Blaze to 6–0 Win,” Straits Times, 3 September 1951, 12; “Bakar Goal Gives Singapore the Cup Again,” Singapore Standard, 13 October 1952, 8. (From NewspaperSG)
 [^20]: “We Expect to Reach Soccer Finals – Soh,” Straits Times, 30 April 1954, 14. (From NewspaperSG)
-[^21]: 
-[^22]: 
-[^23]: 
-[^24]: 
-[^25]: 
-[^26]: 
-[^27]:
+[^21]: “E.C Dutton and Boon Leong for England,” Straits Times, 1 August 1954, 1; “Twinkle, Twinkle Little Star...,” New Nation, 18 April 1975, 10–11. (From NewspaperSG)
+[^22]: “‘Twinkle Toes’ Says Goodbye,” Singapore Standard, 24 February 1956, 14. (From NewsppaerSG)
+[^23]: Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97.”
+[^24]: “Twinkle, Twinkle Little Star....”
+[^25]: “Fandi on FAS Council,” Straits Times, 25 March 2001, 2; Joe Dorai, “Chia Named Manager Again,” Straits Times, 8 November 1979, 33. (From NewspaperSG)
+[^26]: Sazali Abdul Aziz, “Football: Old Is Gold As Former Stars Return to Jalan Besar for Book Launch,” Straits Times, 31 August 2022, https://www.straitstimes.com/sport/football/football-old-is-gold-as-former-stars-return-to-jalan-besar-for-book-launch.
+[^27]: Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97.”
