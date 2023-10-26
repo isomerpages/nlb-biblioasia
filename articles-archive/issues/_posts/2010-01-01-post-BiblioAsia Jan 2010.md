@@ -37,4 +37,4 @@ Principal Librarian *Lim Kim Char* and Senior Librarian *Ivy Lee* introduce the 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue-4/jan-2010/sharing-border-book-review/">Book Review – Sharing Borders</a><br>
 Librarian *Gracie Lee* reviews *Sharing Borders: Studies in Contemporary Singaporean-Malaysian Literature (I &amp; II)*. [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_SharingBorders.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue-4/jan-2010/julian-davison-research-fellow/">Lee Kong Chian Research Fellow: Dr Julian Davison</a><br>Meet Lee Kong Chian Research Fellow, *Dr Julian Davison*. [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_JulianDavidson.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue-4/jan-2010/julian-davison-research-fellow/">Lee Kong Chian Research Fellow: Dr Julian Davison</a><br>Lee Kong Chian Research Fellow *Dr Julian Davison* shares the story of his life and family. [(PDF)](/files/pdf/vol-5/issue-4/v5-issue4_JulianDavidson.pdf)
