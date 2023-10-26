@@ -5,22 +5,22 @@ description: Senior Research Associate Cheryl-Ann Low travels with colleague
   Zahara Aljunied to visit her family in Hadhramaut, finding hospitality,
   familiarity and common ground.
 ---
-#### Senior Research Associate&nbsp;_Cheryl-Ann Low_&nbsp;travels with colleague Zahara Aljunied to visit her family in Hadhramaut, finding hospitality, familiarity and common ground.
+#### Senior Research Associate *Cheryl-Ann Low* travels with colleague Zahara Aljunied to visit her family in Hadhramaut, finding hospitality, familiarity and common ground.
 
 <img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/Mudbrick%20mould.jpg">
- <div style="background-color: white;">Putting mud mixture into the mould</div>
+ <div style="background-color: white;">Putting mud mixture into the mould.</div>
 
-Most Singaporean Arabs originated from, or had close family ties with, Hadhramaut[^1] at the southern part of the Arabian Peninsula, in present-day Yemen. In March this year, my colleague Zahra Aljunied and I visited Hadhramaut with the purpose of finding materials alluding to the links between Hadhramaut and Southeast Asia, particularly Singapore.
+Most Singaporean Arabs originated from, or had close family ties with, Hadhramaut[^1], located at the southern part of the Arabian Peninsula, in present-day Yemen. In March this year, my colleague Zahra Aljunied and I visited Hadhramaut with the purpose of finding materials alluding to the links between Hadhramaut and Southeast Asia, particularly Singapore.
 
 Descended from Hadhramis Syed Mohammed Bin Harun Aljunied and his nephew Syed Omar Aljunied who came to Singapore via Palembang in the early 19th Century,[^2] Zahra’s family still has strong ties with Hadhramaut.
 
-We went to Hadhramaut with Zahra’s father and his wife who were there to celebrate the festival of Prophet Mohammed’s birthday. For most of our time there, we put up at Uncle Aljunied’s house in Tarim, which has numerous mosques and is well-known for its religious scholarship.[^3]
+We went to Hadhramaut with Zahra’s father and his wife who were there to celebrate the festival of Prophet Mohammed’s birthday. For most of our time there, we put up at Uncle Aljunied’s house in Tarim, which has numerous mosques and is well known for its religious scholarship.[^3]
 
 #### **Broken Roads to Date Palms**
 
 On 3 March, we boarded the plane at Sana’a in north Yemen for Seiyun, the town adjacent to Tarim. Due to foggy conditions and poor visibility at Seiyun, however, the flight was re-routed to land at Mukalla which was an approximately four-hour drive from Tarim. This drive introduced me to the landscape and climate of Hadhramaut.
 
-The mountains and valleys formed a grand view which took my breath away even as the sun beat down through the car windows and had me croaking “ma’a!” (water) every so often. However, the broken roads we drove past marked the devastation left by the flash floods of October 2008.[^4] Amidst the broken roads and re-building projects, patches of green vegetation had started to grow.
+The mountains and valleys formed a grand view which took my breath away even as the sun beat down through the car windows and had me croaking “ma’a!” (water) every so often. However, the broken roads we drove past marked the devastation left by the flash floods of October 2008.[^4] Amidst the broken roads and rebuilding projects, patches of green vegetation had started to grow.
 
 Hadhramaut is an arid environment, isolated by desert and mountains from the rest of the Arabian Peninsula.[^5] It has several tributaries and oases of fertile agricultural land, and floodwater and ground water which were used for irrigation.[^6] In general, however, the environment is harsh and agriculture difficult due to the extreme heat of long summers, cold winter winds, and sparse, unreliable rainfall.[^7]
 
@@ -28,9 +28,9 @@ During a visit to a Hadhrami gentleman, Zahra and I would come across a correspo
 
 It was evening as we neared Tarim; the mountainous views gave way to stretches of sandy roads punctuated by clusters of angular mud-brick buildings and groves of date palms. The car window framed these scenes, like a pretty series of tableaux as we passed. One could not help but marvel at the stark differences between the landscapes of Hadhramaut and tropical Southeast Asia, and it is no wonder that a Hadhrami migrant in Indonesia lauded in a poem the date palms of his homeland.[^10]
 
-The sun had set by the time we arrived at Uncle Aljunied’s house. As we entered the house and were warmly greeted by the womenfolk, Zahra managed to explain to me that we would seldom be using that entrance as the menfolk might be around that part of the house. The house was designed such that men and women could live separately from each other. Throughout my stay there, I saw Zahra’s gentlemen relatives only once — when we briefly exchanged greetings on the day of our arrival. 
+The sun had set by the time we arrived at Uncle Aljunied’s house. As we entered the house and were warmly greeted by the womenfolk, Zahra managed to explain to me that we would seldom be using that entrance as the menfolk might be around that part of the house. The house was designed such that men and women could live separately from each other. Throughout my stay there, I saw Zahra’s gentlemen relatives only once – when we briefly exchanged greetings on the day of our arrival. 
 
-#### **Hadhrami Hospitality — The Heart’s Welcome**
+#### **Hadhrami Hospitality – The Heart’s Welcome**
 
 In Tarim, Zahra was welcomed home with much glee and enthusiasm. Trailing tiredly behind her, I was surprised to be received in the same fashion by her family members — firmly clasped by my shoulders and greeted cheek to cheek, and greetings spoken in Arabic which I did not understand but recognised the warmth and welcome in the tone. I would soon encounter many more instances of hospitality imbued in the practices of Hadhramaut.
 
@@ -167,6 +167,3 @@ Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biograph
 [^20]: Jerome, Chiari and Borelli, “Architecture of Mud,” 41.
 
 [^21]: Jerome, Chiari and Borelli, “Architecture of Mud,” 41–42.
-
-
-
