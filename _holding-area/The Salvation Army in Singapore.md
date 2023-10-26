@@ -2,12 +2,14 @@
 title: The Salvation Army in Singapore
 permalink: /holding-area/permalink/salvationarmytest1/
 description: The history of the Salvation Army in Singapore goes back to at least 1935.
+image: /images/Vol 19 Issue 4/Salvation Army/salvationarmy.jpg
 ---
 #### The history of the Salvation Army in Singapore goes back to at least 1935.
 
+By Lee Geok Boi
 
-![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image.jpg)
-<div style="background-color: white;">William Lim, c. mid-2010s. <i>Courtesy of Lim Family.</i></div>
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/salvationarmy.jpg)
+<div style="background-color: white;">The headquarters of the Salvation Army in Bishan, 2023. <i>Photo by Jimmy Yap.</i></div>
 
 
 Today the Salvation Army is a well-known institution in Singapore. Its thrift stores are popular with bargain hunters and those on a budget. During the Christmas season, its bell ringers, with their bright red kettles, are a common sight outside shopping mall entrances as they seek donations from passers-by.
@@ -19,6 +21,10 @@ Salvationists, as members of the Army are called, had been doing work in Southea
 There were apparently early attempts by the Army to proselytise in Singapore at the beginning of the 20th century. According to the _Straits Budget_ in 1936, the “uniform of the Salvation Army was first seen in Singapore about 30 years ago, when one of its representatives was booed on the Esplanade”.[^3] The news report added that the Army was “facing prejudice and hostility all over the world owing to the novelty of its methods”.&nbsp;
 
 One reason could be that the Army evangelised through open-air meetings where men, as well as women, preached and sang accompanied by musicians, good and bad. Could the Salvationist who was booed at the Esplanade have been no less than the founder of the Army himself, General William Booth?[^4] The _Eastern Daily Mail and Straits Morning Advertiser_ had reported in November 1906 that Booth was heading to Japan to inspect the Army’s mission that had started there in 1895.[^5]
+
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/wbooth2.jpg)
+<div style="background-color: white;">English Methodist minister William Booth, the founder and inaugural general of the Salvation Army, 1912. <i>Retrieved from Wikimedia Commons.</i></div>
+
 
 In the days of steamship travel, Singapore would have been a likely stopover enroute. In 1926, General Bramwell Booth, son of William Booth, on his way to Japan, had stayed long enough in Singapore to give a talk at the Victoria Theatre on the work of the Army in December that year.[^6] Organised by the Dutch Indies Salvationists, the talk could have also been intended as a fundraiser, for it was by invitation only and “Eurasians and Asiatics” who turned up uninvited were kept out until all the invitees were seated. Even with uninvited guests though, the Victoria Theatre had empty seats.[^7]
 
@@ -52,7 +58,13 @@ Tan Beng Neo, a resident of the Women’s Industrial Home, who later became a so
 
 The Women’s Industrial Home moved to 319 River Valley Road in 1937, where it began taking in orphans and young children whose families were unable to care for them. The numbers grew to such an extent that a Children’s Home was set up, first in a house on Upper Wilkie Road and subsequently a mansion on Pasir Panjang Road to accommodate the larger numbers.[^25]
 
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/industrialhome.jpg)
+<div style="background-color: white;">The Girls’ Industrial Home on Pasir Panjang Road, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 During the Japanese Occupation, one of the temporary premises occupied by the Women’s Industrial Home was 30 Oxley Road, which was next to a Japanese military brothel at 26 Oxley Road.[^26] The home found a more permanent location at 381 Pasir Panjang Road in 1959. The Army, with help from the Rotary Club, had bought two adjoining houses in 1957 and converted them into a new girls’ home.[^27]
+
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/minister.jpg)
+<div style="background-color: white;">Minister for Culture and Social Affairs Othman Wok (second from left) visiting the Girls’ Industrial Home in Pasir Panjang, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Not all the girls in the Women’s Home were rescued from prostitution or prison. The aforementioned Tan Beng Neo was a young probationary nurse who had run away from home after a violent disagreement with her parents. Seeking help, she went to the Mount Sophia home of the principal of Methodist Girls’ School, Tan’s former school. The principal took Tan to the Women’s Home on Paterson Road.
 
@@ -91,11 +103,19 @@ The organisation of the War Relief Fund brought the interned Army officers quick
 
 So quickly did the Army work that by October 1945, Colonel Bertha Grey, the first matron of the girls’ home on River Valley Road and the social secretary of the Army, had gotten the homes going again and Salvationists were staffing the People’s Restaurants.[^38] These “restaurants” scattered in town provided cheap meals for workers amid rising food prices. They had been started by the newly set-up Social Welfare Department established in April 1946 when the British Military Administration ended.
 
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/peoplesrestaurant2.jpg)
+<div style="background-color: white;">The People’s Restaurants sold affordable and nutritious lunches to the masses, 1947. <i>Courtesy of Ministry of Communication and Information.</i></div>
+
+
 On top of training to be Salvationists, many were also taught to undertake the social work tasks that were part and parcel of their evangelical work. In fact, the Army had been the only agency training social workers until the Department of Social Work was set up in the University of Malaya in 1952. Because Salvationists were among the earliest to receive social work training as part of their evangelical mission, some became the pioneer staff at the new Social Welfare Department.
 
 “Usually, most of the staff that helped the Social Welfare came from the Salvation Army,” said Tan. “You see, there was nothing, nobody was trained. Nobody was able to do the work… The practical part of it \[running the homes and providing social services\] was all run by most of the Salvation Army officers.”[^39]
 
 In the immediate postwar years, the Army also undertook the arduous process of restoring their war-damaged Temple House headquarters. So named because of its Chinese-style architecture (known today as the House of Tan Yeok Nee), the property had been leased in January 1938 as the Army’s headquarters. A property then of the Church of England, it had once been a residence for girls called St Mary’s Home.[^40]
+
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/houseoftanyeoknee.jpg)
+<div style="background-color: white;">House of Tan Yeok Nee at the junction of Clemenceau Avenue and Penang Road, 1955. It served as the Salvation Army’s headquarters from 1938 to 1991. <i>Marjorie Doggett Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 In 1940, the Army had acquired the place for $50,000 with a loan of $25,000 from the Straits Settlements government and a grant of $25,000 from its London headquarters. The building also became a training centre and accommodation for married officers.[^41] Restoration took six years, and in 1951, Governor of Singapore Franklin Gimson officially opened the building as The Salvation Army Command Headquarters.[^42]
 
@@ -109,7 +129,7 @@ Today, the Salvation Army in Singapore runs a host of programmes for children an
 
 <div style="background-color: white;">
 <br>
-	<img src="/images/Authors/jamie%20le.png" style="width: 100px; height: 100px;">
+	<img src="/images/Authors/lee%20geok%20boi.png" style="width: 100px; height: 100px;">
 	<b>Lee Geok Boi</b> is an editorial consultant and author of several books focusing on aspects of Singapore’s pre- and postwar history. Cookbooks are her special interest.</div>
 	
  
