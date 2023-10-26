@@ -77,21 +77,21 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 	
 
 #### **NOTES**
-[^1]: “The Care and Precision He Put Into His Moves Showed His Uncanny Ball Sense...,” _New Nation_, 18 April 1975, 10–11. (From NewspaperSG
-[^2]: “The Care and Precision He Put Into His Moves Showed His Uncanny Ball Sense....”
-[^3]: “Goths Praise Twinkle Toes Boon Leong,” Singapore Free Press, 13 December 1951, 7. (From NewspaperSG)
-[^4]: “Chia Boon Leong, Yeap Cheng Eng and Chu Chee Seng, the Three Malayan Chinese Footballers Who Represented the China Olympic Soccer Team at the World Olympics, Are Seen at Bayan Lepas Airport, Penang, on Their Return from London,” Straits Budget, 2 September 1948, 18. (From NewspaperSG) 
-[^5]: “Twinkle, Twinkle Little Star...,” New Nation, 18 April 1975, 10–11. (From NewspaperSG)
-[^6]: Ng Keng Gene, “Ex-footballer Recounts Japanese Occupation, Being Screened for Execution and 1948 Olympics,” Straits Times, 13 February 2022, https://www.straitstimes.com/singapore/former-spore-footballer-chia-boon-leong-recounts-the-occupation-years-from-execution-screening-to-1948-olympics; Stephanie Ho, “Operation Sook Ching,” in Singapore Infopedia. From National Library Board Singapore. Article published 17 June 2013.
-[^7]: Ng, “Ex-footballer Recounts Japanese Occupation, Being Screened for Execution and 1948 Olympics.”
-[^8]: Ng, “Ex-footballer Recounts Japanese Occupation, Being Screened for Execution and 1948 Olympics.”
+[^1]: “[The Care and Precision He Put Into His Moves Showed His Uncanny Ball Sense...](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750418-1.2.20.1.2.aspx),” _New Nation_, 18 April 1975, 10–11. (From NewspaperSG
+[^2]: “[The Care and Precision He Put Into His Moves Showed His Uncanny Ball Sense....](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750418-1.2.20.1.2.aspx)”
+[^3]: “[Goths Praise Twinkle Toes Boon Leong](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19511213-1.2.106),” Singapore Free Press, 13 December 1951, 7. (From NewspaperSG)
+[^4]: “[Chia Boon Leong, Yeap Cheng Eng and Chu Chee Seng, the Three Malayan Chinese Footballers Who Represented the China Olympic Soccer Team at the World Olympics, Are Seen at Bayan Lepas Airport, Penang, on Their Return from London](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19480902-1.2.155),” Straits Budget, 2 September 1948, 18. (From NewspaperSG) 
+[^5]: “[Twinkle, Twinkle Little Star...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.1),” New Nation, 18 April 1975, 10–11. (From NewspaperSG)
+[^6]: Ng Keng Gene, “[Ex-footballer Recounts Japanese Occupation, Being Screened for Execution and 1948 Olympics](https://www.straitstimes.com/singapore/former-spore-footballer-chia-boon-leong-recounts-the-occupation-years-from-execution-screening-to-1948-olympics),” Straits Times, 13 February 2022, https://www.straitstimes.com/singapore/former-spore-footballer-chia-boon-leong-recounts-the-occupation-years-from-execution-screening-to-1948-olympics; Stephanie Ho, “[Operation Sook Ching](https://www.nlb.gov.sg/main/article-detail?cmsuuid=cc4da337-3bcd-4f96-bdc6-5210646bdd90),” in Singapore Infopedia. From National Library Board Singapore. Article published 17 June 2013.
+[^7]: Ng, “[Ex-footballer Recounts Japanese Occupation, Being Screened for Execution and 1948 Olympics](https://www.straitstimes.com/singapore/former-spore-footballer-chia-boon-leong-recounts-the-occupation-years-from-execution-screening-to-1948-olympics).”
+[^8]: Ng, “[Ex-footballer Recounts Japanese Occupation, Being Screened for Execution and 1948 Olympics](https://www.straitstimes.com/singapore/former-spore-footballer-chia-boon-leong-recounts-the-occupation-years-from-execution-screening-to-1948-olympics).”
 [^9]: David Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97,” Straits Times, 21 December 2022, https://www.straitstimes.com/sport/football/obituary-s-pore-s-only-olympic-footballer-twinkletoes-chia-boon-leong-dies-at-97.
-[^10]: “Malayan Chinese Picked for Tour,” Straits Times, 29 September 1947, 8. (From NewspaperSG)
-[^11]: Sonny Yap, “The Match of His Career...,” New Nation, 18 April 1975, 10–11. (From NewpaperSG)
-[^12]: Yap, “The Match of His Career....”
-[^13]: Yap, “The Match of His Career....”
-[^14]: Yap, “The Match of His Career....”
-[^15]: “Malayan Olympic Players Return,” Straits Times, 26 August 1948, 18. (From NewspaperSG)
+[^10]: “[Malayan Chinese Picked for Tour](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470929-1.2.50),” Straits Times, 29 September 1947, 8. (From NewspaperSG)
+[^11]: Sonny Yap, “[The Match of His Career...]()https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3,” New Nation, 18 April 1975, 10–11. (From NewpaperSG)
+[^12]: Yap, “[The Match of His Career....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3)”
+[^13]: Yap, “[The Match of His Career....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3)”
+[^14]: Yap, “[The Match of His Career....”
+[^15]: “Malayan Olympic Players Return,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3) Straits Times, 26 August 1948, 18. (From NewspaperSG)
 [^16]: “Boon Leong: ‘I’m Luckiest of Lot’,” Malaya Tribune, 23 August 1948, 8. (From NewspaperSG)
 [^17]: “Negri All Set for Cup Final,” Straits Times, 5 December 1948. (From NewspaperSG)
 [^18]: “Singapore Wins Malaya Cup,” Singapore Standard, 15 August 1950, 10. (From NewspaperSG)
