@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "Chia Boon Leong: The Twinkle Toed Olympian.md"
       - The Salvation Army in Singapore.md
       - Test2.md
       - Test page.md
