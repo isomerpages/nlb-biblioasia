@@ -124,7 +124,7 @@ Karya-karya Ahmad Lutfi juga dinilai Taib Samat (2002) sebagai “kelihatan Ahma
 #### **Syed Omar Abdul Rahman Alsagoff (1932–1991)**
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Syed%20Omar%20Alsagoff%20photo.jpg">
- <div style="background-color: white;">Gambar Syed Omar Alsagoff dalam Aktivis Melayu/Islam di Singapura. <i>All rights reserved, Persatuan Wartawan Melayu Singapura, 1997.</i></div>
+ <div style="background-color: white;">Gambar Syed Omar Alsagoff dalam <i>Aktivis Melayu/Islam di Singapura</i>. <i>All rights reserved, Persatuan Wartawan Melayu Singapura, 1997.</i></div>
 
 Seorang lagi cendekiawan yang bergiat dalam persuratan Melayu selepas Perang Dunia Kedua ialah Syed Omar bin Abdul Rahman Alsagoff. Lahir di Singapura pada 8 Oktober 1932 dan terdidik di Madrasah Aljunied serta Sekolah Monk’s Hill dan Victoria School, Singapura.
 
