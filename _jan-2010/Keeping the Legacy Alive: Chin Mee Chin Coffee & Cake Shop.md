@@ -81,8 +81,8 @@ Lily Kong and T. C. Chang, [_Joo Chiat: A Living Legacy_](https://eservice.nlb.g
 
 Myrna Braga-Blake, ed., [_Singapore Eurasians: Memories and Hopes_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6319425) (Singapore: Times Editions, 1922). (Call no. RSING 305.80405957 SIN)
 
-Roy Y. K Phua and Lily Kong, “Exploring Local Cultures,” in [_Portraits of places: History, community, and identity in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), ed. Brenda S. A. Yeoh and Lily Kong (Singapore: Times Editions, 1995). (Call no. RSING 959.57 POR)
+Roy Y.K Phua and Lily Kong, “Exploring Local Cultures,” in [_Portraits of places: History, community, and identity in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7468347), ed. Brenda S.A. Yeoh and Lily Kong (Singapore: Times Editions, 1995). (Call no. RSING 959.57 POR)
 
-T. T. B Koh, [_Rent Control in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4836470) (\[s.n.\]: \[n.p\], 1966). (Call no. RCLOS 346.04344 KOH)
+T.T.B Koh, [_Rent Control in Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4836470) (\[s.n.\]: \[n.p\], 1966). (Call no. RCLOS 346.04344 KOH)
 
 Urban Redevelopment Authority (Singapore), [_Procedures for Recovering Possession of Rent-Controlled Premises_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6368062) (Singapore: Urban Redevelopment Authority, 1992). (Call no. RSING 346.595704344 PRO)
