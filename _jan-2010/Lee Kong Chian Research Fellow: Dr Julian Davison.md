@@ -3,7 +3,7 @@ title: "Lee Kong Chian Research Fellow: Dr Julian Davison"
 permalink: /vol-5/issue-4/jan-2010/julian-davison-research-fellow/
 description: Meet Lee Kong Chian Research Fellow Dr Julian Davison.
 ---
-#### Meet Lee Kong Chian Research Fellow, Dr Julian Davison.
+#### Lee Kong Chian Research Fellow *Dr Julian Davison* shares the story of his life and family.
 
 <img style="width:100%;" src="/images/Vol%205%20Issue%204/JulianDavison/Julian%20Davison%20and%20father1.jpg">
  <div style="background-color: white;">Julian with his father on the verandah of No. 1 Lynwood Grove, 1959.</div>
