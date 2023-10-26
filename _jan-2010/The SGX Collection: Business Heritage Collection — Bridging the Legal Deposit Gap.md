@@ -27,12 +27,12 @@ The following are the major components of the SGX Collection.
 
 #### **Annual Reports**
 
-<img style="width:80%;" src="/images/Vol%205%20Issue%204/SGX/Presentation1.jpg">
+<img style="width:85%;" src="/images/Vol%205%20Issue%204/SGX/creative%20image.png">
  <div style="background-color: white;">From left: US version of the 1999 Annual Report of Creative Technology Ltd. <i>All rights reserved, Creative Technology Ltd, 1999</i>; The National Library Building on the cover of the 2004 Annual Report of Permasteelisa Pacific Holdings Ltd. <i>All rights reserved, Permasteelisa Pacific Holdings Ltd, 2004.</i></div>
 
 Annual reports are documents that show a listed company's activities for the financial year just ended. It is mandatory for publicly traded companies to issue annual reports after a financial year end as “business report cards” communicating their past progress to their investors/shareholders. These investors are entitled to a copy of the annual reports so long as they own shares in the companies.
 
-<img src="/images/Vol%205%20Issue%204/SGX/presentation4.jpg" style="width:100%;">
+<img src="/images/Vol%205%20Issue%204/SGX/creative%20image2.png" style="width:100%;">
  <div style="background-color: white;">From left: The SGX Centres 1 and 2 on the cover of the 2002 Annual Report of Permasteelisa Pacific Holdings Ltd. <i>All rights reserved, Permasteelisa Pacific Holdings Ltd, 2002.</i>; Singapore version of the 1999 Annual Report of Creative Technology Ltd. <i>All rights reserved, Creative Technology Ltd, 1999.</i></div>
 
 It has been harder for NLB to enforce LD on “publishers” of annual reports as opposed to conventional published books and magazines, as annual reports are widely considered to be non-traditional forms of publishing. A lot of listed companies do not even see themselves as “publishers” at all, as they feel their annual reports are just communication documents meant only for shareholders or potential investors.
