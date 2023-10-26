@@ -4,6 +4,11 @@ permalink: /topics/literature/
 description: ""
 third_nav_title: Arts
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/new-books-singapore-history/">New Books on Singapore History</a><br>
+
+<img src="![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)/images/Vol%2019%20Issue%202/New%20Books/book_1.png">
+<hr>
+
 #### **Interview with Rachel Heng**
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/jQjegt2YxCc?si=KJmfweHMNm12V4Dll" frameborder="0" allowfullscreen=""></iframe></div>
 
