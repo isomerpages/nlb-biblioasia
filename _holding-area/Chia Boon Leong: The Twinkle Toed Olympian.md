@@ -79,8 +79,6 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 | -------- | -------- | -------- | -------- | -------- |
 |2| 25 October | R.A.F. XI Singapore | Won | 5–1 |
 
-
-
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
