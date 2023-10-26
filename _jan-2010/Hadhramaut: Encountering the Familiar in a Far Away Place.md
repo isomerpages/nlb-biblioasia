@@ -5,7 +5,7 @@ description: Senior Research Associate Cheryl-Ann Low travels with colleague
   Zahara Aljunied to visit her family in Hadhramaut, finding hospitality,
   familiarity and common ground.
 ---
-#### Senior Research Associate *Cheryl-Ann Low* travels with colleague Zahara Aljunied to visit her family in Hadhramaut, finding hospitality, familiarity and common ground.
+#### Senior Research Associate *Cheryl-Ann Low* travels with colleague Zahara Aljunied to visit the latter’s family in Hadhramaut, finding hospitality, familiarity and common ground.
 
 <img style="width:100%;" src="/images/Vol%205%20Issue%204/Hadhramaut/IMG_0790.jpg">
  <div style="background-color: white;">Shibam, a UNESCO World Heritage site</div>
