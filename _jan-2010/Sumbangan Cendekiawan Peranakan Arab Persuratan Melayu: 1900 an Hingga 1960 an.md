@@ -6,10 +6,10 @@ description: Senior Librarian Sundusia Rosdi explores the contributions of
   several Arab immigrants in the literary fields of Malay journalism, publishing
   and printing from the 1900s to the 1960s.
 ---
-#### Senior Librarian&nbsp;_Sundusia Rosdi_&nbsp;explores the contributions of several Arab immigrants in the literary fields of Malay journalism, publishing and printing from the 1900s to the 1960s.
+#### Senior Librarian *Sundusia Rosdi* explores the contributions of several Arab immigrants in the literary fields of Malay journalism, publishing and printing from the 1900s to the 1960s.
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Transcending%20borders.jpg">
- <div style="background-color: white;">Antara buku-buku rujukan mengenai pendatang-pendatang Arab di Nusantara. All rights reserved, KITLV Press, 2002.</div>
+ <div style="background-color: white;">Antara buku-buku rujukan mengenai pendatang-pendatang Arab di Nusantara. <i>All rights reserved, KITLV Press, 2002.</i></div>
 
 #### **Dari Hadhramaut dan Mekah ke Nusantara**
 
@@ -21,14 +21,14 @@ Masyarakat Arab yang mewah mampu menghantar anakanak mereka belajar di luar nega
 
 #### **Penerbitan Sebagai Pemangkin Kesedaran Masyarakat Melayu**
 
-Sumbangan masyarakat Arab pada kemajuan ekonomi Singapura amnya dan pada masyarakat Melayu khususnya adalah sangat ketara. Dari aspek mengongsi dan mengagihkan (wakaf) harta, golongan ini bersifat dermawan dengan menaungi banyak pertubuhan-pertubuhan kebajikan dan membiayai pembinaan masjidmasjid, sekolah-sekolah serta lain-lain kemudahan awam untuk masyarakat Melayu / Islam setempat.
+Sumbangan masyarakat Arab pada kemajuan ekonomi Singapura amnya dan pada masyarakat Melayu khususnya adalah sangat ketara. Dari aspek mengongsi dan mengagihkan (wakaf) harta, golongan ini bersifat dermawan dengan menaungi banyak pertubuhan-pertubuhan kebajikan dan membiayai pembinaan masjidmasjid, sekolah-sekolah serta lain-lain kemudahan awam untuk masyarakat Melayu/Islam setempat.
 
-Menjelang abad ke 20, ramai orang-orang Arab telah dapat bergaul dengan masyarakat Melayu dan mereka telah menerima serta menganggap Malaya sebagai negara mereka seperti yang diakui oleh Syeikh Mohd. Salim AlKalali dalam akhbar AlImam, 23 Julai 1906 :[^4] “ …*sudah minum kami akan air susunya dan telah tumbuh daripadanya daging darah kami dan telah terbit daripadanya nikmat perhatian kesenangan kami. Tidakkah jadi terhutang kami kepada negerinya dan anak-anaknya?* …“[^5]
+Menjelang abad ke 20, ramai orang-orang Arab telah dapat bergaul dengan masyarakat Melayu dan mereka telah menerima serta menganggap Malaya sebagai negara mereka seperti yang diakui oleh Syeikh Mohd. Salim AlKalali dalam akhbar AlImam, 23 Julai 1906 :[^4] “sudah minum kami akan air susunya dan telah tumbuh daripadanya daging darah kami dan telah terbit daripadanya nikmat perhatian kesenangan kami. Tidakkah jadi terhutang kami kepada negerinya dan anak-anaknya?”[^5]
 
 Hakikat ini menyebabkan, golongan cendekiawan Arab merasa bertanggung jawab untuk membangunkan masyarakat Melayu yang dikatakan mundur berbanding masyarakat lain. Mereka melihat keperluan menyediakan satu media untuk penyebaran idea reformasi dan sebagai wadah bagi tuntutantuntutan kepada pemerintah British. Justeru bertujuan untuk membimbing dan memberi petunjuk kepada orang Melayu, Syed Sheikh al-Hadi bersama-sama beberapa cendekiawan Arab dan reformis Melayu telah mengasaskan akhbar *Al-Imam* (1906–1908) sebagai medan untuk melaungkan aspirasi masyarakat Melayu.
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Al-Imam.jpg">
- <div style="background-color: white;">Rujukan tentang akhbar <i>Al-Imam.</i> All rights reserved, Pustaka Antara, 1991.</div>
+ <div style="background-color: white;">Rujukan tentang akhbar <i>Al-Imam.</i> <i>All rights reserved, Pustaka Antara, 1991.</i></div>
 
 Terbitnya akhbar pertama reformis Melayu ini merupakan titik-tolak peranan penting cendekiawan Arab dalam evolusi penyebaran penulisan berkaitan reformasi berpengaruh Islam. Ia diserapi dan dialirkan di kalangan orang-orang celik-huruf Melayu yang mula peka tentang persuratan dan ehwal Melayu. *Al-Imam* turut melahirkan kekesalan pada kedudukan bahasa Melayu yang digunakan ramai orang Islam tetapi masih tidak mempunyai buku tentang sejarah Islam sebagai panduan dan teladan atau rujukan.[^6]
 
@@ -37,13 +37,13 @@ Meskipun *Al-Imam* dianggap membosankan kerana bersifat terlalu didaktik membinc
 #### **Syed Sheikh Ahmad al-Hadi (1867–1934)**
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/Sumbangan/Syed%20Shaykh%20al-Hady.jpg">
- <div style="background-color: white;">Syed Sheikh Ahmad al-Hadi bersama anaknya Syed Alwi al-Hadi semasa kecil. All rights reserved, Malaysian Sociological Research Insititute, 1999.</div>
+ <div style="background-color: white;">Syed Sheikh Ahmad al-Hadi bersama anaknya Syed Alwi al-Hadi semasa kecil. <i>All rights reserved, Malaysian Sociological Research Insititute, 1999.</i></div>
 
-Lahir di Melaka pada 22 November 1867, keluarganya berasal dari Hadhramaut, Yemen. Beliau pernah menuntut di Universiti Al-Azhar, Mesir yang banyak mempengaruhinya dengan idea-idea tokoh reformis Mesir, Muhammad Abduh (1849– 1905).
+Lahir di Melaka pada 22 November 1867, keluarganya berasal dari Hadhramaut, Yemen. Beliau pernah menuntut di Universiti Al-Azhar, Mesir yang banyak mempengaruhinya dengan idea-idea tokoh reformis Mesir, Muhammad Abduh (1849–1905).
 
 Selain menjadi penyunting terawal akhbar *Al-Imam*, Syed Sheikh al-Hadi turut menerajui penerbitan akhbar, *Al-Ikhwan* (1926–1931) yang membicarakan isu Islam, emansipasi wanita serta pendidikan anak-anak. Beliau menubuhkan syarikat percetakannya sendiri *Jelutong Press* di Pulau Pinang (1927–1932). Akhbar lain terbitannya; *Saudara* (1928–1941) menjurus kepada berita dan komen umum agama. Syed Sheikh al-Hadi juga pernah menjadi pembimbing pada wartawanwartawan muda seperti Abdul Rahim Kajai dan Ahmad bin Mohamed Rashid Talu. Roff (1993) berpendapat bahawa dalam bidang penulisan sumbangan Syed al-Hadi menerusi akhbar ini telah berupaya membawa pusat reformasi pemikiran, persuratan dan kesusasteraan Melayu dari Singapura beralih ke Pulau Pinang disekitar 1920–an.[^7]
 
-Walaupun novel pertamanya, *Hikayat Faridah Hanum (Hikayat Setia Asyik kepada Maashok-nya)* (1926) merupakan karya saduran dari novel Mesir, Zainal Abidin Ahmad (Za’ba) (1941) menganggapnya sebagai perintis Melayu bagi genre novel “… *Syed Syeikh’s tales at least point the way for new tales to be written on similar lines or even on more native lines. He was the first Malay writer in the Peninsula to introduce novel, and in consequence the rising generating are taking up story writing, while generally avoiding his Arabisms…”*.[^8] Pengkritik sastera, *Yahaya Ismail “… hanya menerima Hikayat Faridah Hanum sebagai karya yang menjadi pembuka jalan ke arah penciptaan novel Melayu yang asli, iaitu tidak lagi dalam bentuk saduran ataupun terjemahan.”*[^9]
+Walaupun novel pertamanya, *Hikayat Faridah Hanum (Hikayat Setia Asyik kepada Maashok-nya)* (1926) merupakan karya saduran dari novel Mesir, Zainal Abidin Ahmad (Za’ba) (1941) menganggapnya sebagai perintis Melayu bagi genre novel “Syed Syeikh’s tales at least point the way for new tales to be written on similar lines or even on more native lines. He was the first Malay writer in the Peninsula to introduce novel, and in consequence the rising generating are taking up story writing, while generally avoiding his Arabisms”.[^8] Pengkritik sastera, Yahaya Ismail “hanya menerima Hikayat Faridah Hanum sebagai karya yang menjadi pembuka jalan ke arah penciptaan novel Melayu yang asli, iaitu tidak lagi dalam bentuk saduran ataupun terjemahan”.[^9]
 
 Pembaca Melayu memberi sambutan hebat kepada novel ini kerana berasa terkesan dengan tema baru yang segar lagi kreatif serta menyimpang dari isu terdahulu tentang agama dan sastera klasik. Maka bermulalah satu tahap penting dalam perkembangan sastera Melayu moden kerana aspek perwatakan yang berlatarbelakangkan kehidupan sebenar masyarakat Islam Mesir. Kepopularan novel ini telah memberangsangkan penulisnya, lantas lahirlah karya-karya lainnya seperti *Hikayat Chinta Berahi* (1928) serta siri *Mata-Mata Gelap Rokambol*.
 
@@ -311,7 +311,3 @@ Zulkipli bin Mahmud, [_Warta Malaya, Penyambung Lidah Bangsa Melayu, 1930–1941
 [^28]: Syed Muhd. Khairudin Aljunied, “Hadhramis Within Malay Activism: The Role of Al-Saqqaf(s) in Post-War Singapore (1945–1965),” in _[Hadhrami Diaspora in Southeast Asia: Identity Maintenance or Assimilation?](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13167077)_ ed. Ahmed Ibrahim Abushouk and Hassan Ahmed Ibrahim (Leiden: Brill, 2009), 240. (Call no. RSEA 305.89275335 HAD)
 
 [^29]: Saparudin, “[Malay Women’s and Men’s Magazines](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-4/v4-issue4_WomenMenMagazines.pdf),” 29.
-
-
-
-
