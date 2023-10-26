@@ -68,23 +68,17 @@ Once we made the football connection, it did not take long before my wife and I 
 
 Remarkably, even in the last months before his death at 97, Chia still led an active life. On 31 August 2022, he attended the launch of the book, _Roar: Football Legends of Singapore_, at Jalan Besar Stadium where a plaster cast of his left foot was unveiled.[^26] Chia died of pneumonia on 20 December that year. He is survived by his wife Lily Lim and their three sons. Writing on Facebook, his second son Tony said: “Despite his failing health, (dad) was very concerned for my mum, telling her he was sad to be leaving her. We will miss him dearly, especially at family gatherings. I will have no expert to watch football games with any more.”[^27]
 
-	
-**Pre-tour match in Seremban**<br>
-|Game|Date|Opponent|Result|Score|
-| -------- | -------- | -------- | -------- | -------- |
-|1|22 October|Shanghai Chinese|Won|1–0|
-
-**Pre-tour match in Singapore**<br>
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|2| 25 October | R.A.F. XI Singapore | Won | 5–1 |
-	
 **Pre-tour match in Seremban**
 
 | Game | Date | Opponent | Result | Score | 
 | -------- | -------- | -------- | -------- | -------- |
 | 1 | 22 October | Shanghai Chinese | Won | 1–0 |
 
+**Pre-tour match in Singapore**<br>
+| Game | Date | Opponent | Result | Score |
+| -------- | -------- | -------- | -------- | -------- |
+|2| 25 October | R.A.F. XI Singapore | Won | 5–1 |
+	
 
 <div style="background-color: white;">
 <br>
