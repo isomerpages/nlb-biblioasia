@@ -79,7 +79,7 @@ Government policy had an impact on the kinds of music that was deemed acceptable
 ![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo10.png)
 <div style="background-color: white;"> Trophy and vinyl record from the 1968 <i>RTS Talentime. Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
-The government also sometimes intervened directly during the contest. During 1971’s Talentime, Johnny Tan tried his luck again. (He made it to the finals of _Radio Talentime_ in 1968.[^27])
+The government also sometimes intervened directly during the contest. During 1971’s Talentime, Johnny Tan tried his luck again. (He had made it to the finals of _Radio Talentime_ in 1968.[^27])
 
 Tan, apparently, was notable because of his campy stage persona. The _New Nation_ reported that “\[h\]alf-way through the recording, the shocking, bell-bottomed Johnny Tan, who had TV viewers here in fits of laughter two years ago, makes an equally hip-swaying entry. Blowing kisses around the studio and swinging his arms wildly, he makes his declaration with This is My Song”.[^28] After watching one of Tan’s performances, Culture Minister Jek Yeun Thong issued an order that “\[n\]o contestant similar to Johnny Tan may be allowed to participate in subsequent heats”.[^29]
 
