@@ -90,8 +90,8 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 [^11]: Sonny Yap, “[The Match of His Career...]()https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3,” New Nation, 18 April 1975, 10–11. (From NewpaperSG)
 [^12]: Yap, “[The Match of His Career....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3)”
 [^13]: Yap, “[The Match of His Career....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3)”
-[^14]: Yap, “[The Match of His Career....”
-[^15]: “[Malayan Olympic Players Return](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19480826-1.2.144),”](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3) Straits Times, 26 August 1948, 18. (From NewspaperSG)
+[^14]: Yap, “[The Match of His Career....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3)”
+[^15]: “[Malayan Olympic Players Return](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19480826-1.2.144),” Straits Times, 26 August 1948, 18. (From NewspaperSG)
 [^16]: “[Boon Leong: ‘I’m Luckiest of Lot’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19480823-1.2.109),” Malaya Tribune, 23 August 1948, 8. (From NewspaperSG)
 [^17]: “[Negri All Set for Cup Final](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19480905-1.2.112),” Straits Times, 5 December 1948. (From NewspaperSG)
 [^18]: “[Singapore Wins Malaya Cup](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19500815-1.2.141),” Singapore Standard, 15 August 1950, 10. (From NewspaperSG)
