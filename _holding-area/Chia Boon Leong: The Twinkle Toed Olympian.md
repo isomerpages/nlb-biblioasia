@@ -103,4 +103,4 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 [^24]: 
 [^25]: 
 [^26]: 
-[^27]: 
+[^27]:
