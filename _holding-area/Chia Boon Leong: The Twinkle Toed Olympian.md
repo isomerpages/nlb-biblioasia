@@ -91,16 +91,16 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 [^12]: Yap, “[The Match of His Career....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3)”
 [^13]: Yap, “[The Match of His Career....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3)”
 [^14]: Yap, “[The Match of His Career....”
-[^15]: “Malayan Olympic Players Return,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3) Straits Times, 26 August 1948, 18. (From NewspaperSG)
-[^16]: “Boon Leong: ‘I’m Luckiest of Lot’,” Malaya Tribune, 23 August 1948, 8. (From NewspaperSG)
-[^17]: “Negri All Set for Cup Final,” Straits Times, 5 December 1948. (From NewspaperSG)
-[^18]: “Singapore Wins Malaya Cup,” Singapore Standard, 15 August 1950, 10. (From NewspaperSG)
-[^19]: “Singapore Blaze to 6–0 Win,” Straits Times, 3 September 1951, 12; “Bakar Goal Gives Singapore the Cup Again,” Singapore Standard, 13 October 1952, 8. (From NewspaperSG)
-[^20]: “We Expect to Reach Soccer Finals – Soh,” Straits Times, 30 April 1954, 14. (From NewspaperSG)
-[^21]: “E.C Dutton and Boon Leong for England,” Straits Times, 1 August 1954, 1; “Twinkle, Twinkle Little Star...,” New Nation, 18 April 1975, 10–11. (From NewspaperSG)
-[^22]: “‘Twinkle Toes’ Says Goodbye,” Singapore Standard, 24 February 1956, 14. (From NewsppaerSG)
+[^15]: “[Malayan Olympic Players Return](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19480826-1.2.144),”](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3) Straits Times, 26 August 1948, 18. (From NewspaperSG)
+[^16]: “[Boon Leong: ‘I’m Luckiest of Lot’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19480823-1.2.109),” Malaya Tribune, 23 August 1948, 8. (From NewspaperSG)
+[^17]: “[Negri All Set for Cup Final](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19480905-1.2.112),” Straits Times, 5 December 1948. (From NewspaperSG)
+[^18]: “[Singapore Wins Malaya Cup](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19500815-1.2.141),” Singapore Standard, 15 August 1950, 10. (From NewspaperSG)
+[^19]: “[Singapore Blaze to 6–0 Win](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510903-1.2.138),” Straits Times, 3 September 1951, 12; “[Bakar Goal Gives Singapore the Cup Again](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19521013-1.2.93),” Singapore Standard, 13 October 1952, 8. (From NewspaperSG)
+[^20]: “[We Expect to Reach Soccer Finals – Soh](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540430-1.2.192),” Straits Times, 30 April 1954, 14. (From NewspaperSG)
+[^21]: “[E.C Dutton and Boon Leong for England](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540801-1.2.4),” Straits Times, 1 August 1954, 1; “[Twinkle, Twinkle Little Star...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.1),” New Nation, 18 April 1975, 10–11. (From NewspaperSG)
+[^22]: “‘[Twinkle Toes’ Says Goodbye](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19560224-1.2.198),” Singapore Standard, 24 February 1956, 14. (From NewsppaerSG)
 [^23]: Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97.”
-[^24]: “Twinkle, Twinkle Little Star....”
-[^25]: “Fandi on FAS Council,” Straits Times, 25 March 2001, 2; Joe Dorai, “Chia Named Manager Again,” Straits Times, 8 November 1979, 33. (From NewspaperSG)
+[^24]: “[Twinkle, Twinkle Little Star....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.1)”
+[^25]: “[Fandi on FAS Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20010325-1.2.5.13),” Straits Times, 25 March 2001, 2; Joe Dorai, “[Chia Named Manager Again](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19791108-1.2.124.10),” Straits Times, 8 November 1979, 33. (From NewspaperSG)
 [^26]: Sazali Abdul Aziz, “Football: Old Is Gold As Former Stars Return to Jalan Besar for Book Launch,” Straits Times, 31 August 2022, https://www.straitstimes.com/sport/football/football-old-is-gold-as-former-stars-return-to-jalan-besar-for-book-launch.
 [^27]: Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97.”
