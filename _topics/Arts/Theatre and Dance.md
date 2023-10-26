@@ -28,4 +28,3 @@ The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore
 
 <img src="/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png">
 <hr>
-
