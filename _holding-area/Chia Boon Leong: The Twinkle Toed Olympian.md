@@ -79,7 +79,8 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 | -------- | -------- | -------- | -------- | -------- |
 |2| 25 October | R.A.F. XI Singapore | Won | 5–1 |
 	
-**Pre-tour match in Seremban**<br><br>
+**Pre-tour match in Seremban**
+
 | Game | Date | Opponent | Result | Score | 
 | -------- | -------- | -------- | -------- | -------- |
 | 1 | 22 October | Shanghai Chinese | Won | 1–0 |
