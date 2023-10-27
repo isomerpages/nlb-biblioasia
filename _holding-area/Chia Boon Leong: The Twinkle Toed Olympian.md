@@ -100,6 +100,11 @@ Once we made the football connection, it did not take long before my wife and I 
 
 Remarkably, even in the last months before his death at 97, Chia still led an active life. On 31 August 2022, he attended the launch of the book, _Roar: Football Legends of Singapore_, at Jalan Besar Stadium where a plaster cast of his left foot was unveiled.[^26] Chia died of pneumonia on 20 December that year. He is survived by his wife Lily Lim and their three sons. Writing on Facebook, his second son Tony said: “Despite his failing health, (dad) was very concerned for my mum, telling her he was sad to be leaving her. We will miss him dearly, especially at family gatherings. I will have no expert to watch football games with any more.”[^27]
 
+
+#### **Post-Retirement Career**
+
+Between 22 October and 11 December 1947, the Lien Hwa team played 22 games around Asia. In total, Lien Hwa won 15 matches and lost three. Four matches ended in a draw. 
+
 **Pre-tour match in Seremban**
 
 | Game | Date | Opponent | Result | Score | 
@@ -128,7 +133,7 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 |7| 9 November | All-Hong Kong | Won | 1–0 |
 |8| 12 November | Sing Tao | Draw | 2–2 |
 
-**Tour matches in Shanghai **
+**Tour matches in Shanghai**
 
 | Game | Date | Opponent | Result | Score |
 | -------- | -------- | -------- | -------- | -------- |
@@ -138,7 +143,7 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 |12| 22 November | White Eagles | Won | 4–0 |
 |13| 23 November | Tung Hwa &amp; Tsing Peh XI | Lost | 4–2 |
 
-**Tour matches in Hong Kong **
+**Tour matches in Hong Kong**
 
 | Game | Date | Opponent | Result | Score |
 | -------- | -------- | -------- | -------- | -------- |
@@ -147,7 +152,7 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 |16| 29 November | Combined Chinese | Lost | 6–2 |
 
 
-**Tour matches in Manila **
+**Tour matches in Manila**
 
 | Game | Date | Opponent | Result | Score |
 | -------- | -------- | -------- | -------- | -------- |
@@ -159,11 +164,19 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 
 
 
-**Tour matches in Hong Kong **
+**Tour matches in Hong Kong**
 
 | Game | Date | Opponent | Result | Score |
 | -------- | -------- | -------- | -------- | -------- |
 |22| 11 December | Sing Tao | Lost | 5–0 |
+
+
+<div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.</div>
+
+  
+
+<br>
+"<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>" <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)
 
 
 <div style="background-color: white;">
