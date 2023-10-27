@@ -114,7 +114,7 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 **Pre-tour match in Singapore**
 
 | Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
+| -------- | --------- | -------- | -------- | -------- |
 |2| 25 October | R.A.F. XI Singapore | Won | 5–1 |
 	
 **Tour matches in Bangkok**
