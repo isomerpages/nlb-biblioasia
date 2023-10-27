@@ -114,7 +114,7 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 **Pre-tour match in Singapore**
 
 | Game | Date | Opponent | Result | Score |
-| -------- | ---------------- | -------- | -------- | -------- |
+| -------- | --------- | -------- | -------- | -------- |
 |2| 25 October | R.A.F. XI Singapore | Won | 5–1 |
 	
 **Tour matches in Bangkok**
@@ -173,12 +173,10 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 
 <div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.</div>
 
-  
-
-<br>
+ 
 <div style="background-color: white;">
 "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>" <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)</div>
-
+<br>
 
 <div style="background-color: white;">
 <br>
