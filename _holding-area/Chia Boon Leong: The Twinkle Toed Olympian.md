@@ -86,7 +86,7 @@ He then devoted time to his family and his career as a financial executive with 
 
 Chia did not give up football entirely though. In 1974, he was made a council member of the Football Association of Singapore, and in 1978 he was appointed manager of the Singapore soccer team, a role he held briefly.[^25] In August 1978, Chia participated in a goodwill tour to the Soviet Union under the Cultural Exchange Programme. In the party was a young Fandi Ahmad.
 
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/goodwilltour.jpg)
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/goodwilltour2.jpg)
 <div style="background-color: white;">Chia Boon Leong (third row, extreme right) on a goodwill tour to the Soviet Union under the Cultural Exchange Programme, 1978. Fandi Ahmad is in the second row, second from left. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
 
 
@@ -114,8 +114,7 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 
 <div style="background-color: white;">
 <br>
-	<img src="/images/Authors/lee%20geok%20bo2.png" style="width: 100px; height: 100px;">
-	<b>Lee Geok Boi</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
+<b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
 	
 	
 
