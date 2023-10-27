@@ -42,7 +42,7 @@ Before long, the government was also calling on the Army to help with the distri
 
 The Army’s open-air services were held initially at the Esplanade, but it also had the use of the hall of the Young Men’s Christian Association in their Orchard Road premises during the rainy season.[^15] One popular location was the Municipal bandstand on Waterloo Street. In a town with few entertainment options at the time, such singing and loud music, albeit laced with preaching and calls to repent, would have attracted attention. The Army also took the opportunity to solicit donations at these services.
 
-![](/images/Vol%2019%20Issue%204/Salvation%20Army/youngmenschristianassociation.jpg)
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/youngmenschristianassociation2.jpg)
 <div style="background-color: white;">The Young Men's Christian Association&nbsp;in Orchard Road, 1930s. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
 
 However, in 1954 when the Army tried to resume its open-air services at the Esplanade, its application to the City Council was turned down. “The committee’s decision was a firm ‘no’ having regard to the number of religious sects in Singapore and the character of the Esplanade Walk,” reported the _Straits Budget_.[^16] The council was afraid that the Esplanade would turn into a “Hyde Park Corner”.[^17]
@@ -51,7 +51,7 @@ However, in 1954 when the Army tried to resume its open-air services at the Espl
 
 By 1936, the Army had two homes in operation. One was the Boys’ Industrial Home on Kim Keat Road, whose aim was to rehabilitate delinquent youths by teaching them employable skills such as woodwork and carpentry, giving them a basic command of English and guiding them on how to lead a good Christian life. In his opening speech, Lord said that by “taking boys off the streets, they were reducing the number of potential criminals and creating useful men of the future”.[^18]
 
-![](/images/Vol%2019%20Issue%204/Salvation%20Army/kimkeatroad.jpg)
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/kimkeatroad2.jpg)
 <div style="background-color: white;">The Boys’ Industrial Home on Kim Keat Road opened on 28 November 1936. <i>Source: The Straits Times, 29 November 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 In March 1937, the home moved to new premises at 151 Thomson Road to accommodate more boys.[^19] A separate remand home subsequently opened in the same building to house boys convicted of juvenile offences.[^20]
@@ -79,7 +79,7 @@ The young women were taught basic English, domestic work, sewing and needlework.
 ![](/images/Vol%2019%20Issue%204/Salvation%20Army/minister.jpg)
 <div style="background-color: white;">Minister for Culture and Social Affairs Othman Wok (second from left) visiting the Girls’ Industrial Home in Pasir Panjang, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-![](/images/Vol%2019%20Issue%204/Salvation%20Army/othmanwok.jpg)
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/othmanwok2.jpg)
 <div style="background-color: white;">Othman Wok (extreme right) at the&nbsp;Girls’ Industrial Home in Pasir Panjang, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Although the colonial government gave the Army subsidies for the homes it ran, the money was never enough and there were regular appeals for donations. The residents in the homes were engaged in making a variety of handicrafts for sale to raise more funds for expenses. However, the iconic Salvation Army Christmas kettle complete with bell ringers, seen in front of malls all over the world to raise money during the Christmas season, was only introduced to Singapore in December 1988.[^29]
