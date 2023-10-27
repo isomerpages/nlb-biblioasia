@@ -32,6 +32,9 @@ Chia was just 17 years old when the Japanese captured Singapore in February 1942
 
 During the Occupation years, Chia was able to continue playing football when the Japanese formed the Syonan Sports Association.[^8] He also became a member of the Pasir Panjang Rovers football team that in 1943 won the Alsagoff Shield, an eight-game league tournament.[^9]
 
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/pasirpanjangrovers.jpg)
+<div style="background-color: white;">The Pasir Panjang Rovers football team won the Alsagoff Shield in the Syonan Sports Association League in 1943. Chia Boon Leong is in the front row, second from right. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **The Postwar Years**
 
 Immediately after the war, Chia began establishing himself as one of Singapore’s top footballers. In 1946, he played for Base Ordinance Depot, the Rovers Sports Association and the Singapore Chinese Football Association.
@@ -70,6 +73,10 @@ He then devoted time to his family and his career as a financial executive with 
 #### **Post-Retirement Career**
 
 Chia did not give up football entirely though. In 1974, he was made a council member of the Football Association of Singapore, and in 1978 he was appointed manager of the Singapore soccer team, a role he held briefly.[^25] In August 1978, Chia participated in a goodwill tour to the Soviet Union under the Cultural Exchange Programme. In the party was a young Fandi Ahmad.
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong2004.jpg)
+<div style="background-color: white;">Chia Boon Leong at the former Victoria School premises on Tyrwhitt Road, adjacent to Jalan Besar Stadium, 2004. <i>Photo by Tuck Loong, Image reproduced from Nick Aplin, David Waters and Leong May Lai, Singapore Olympians, The Complete Who's Who, 1936–2004 (Singapore: SNP Reference, 2005). (From National Library, Singapore, call no. RSING 796.09225957 APL).</i></div>
+
 
 I am honoured to say that I knew Chia personally. I first met him about 20 years ago at a service at Barker Road Methodist Church and I recognised him from afar. He was his mid-70s by then, and I recall that he was dressed very sharply. I approached him and he cheerfully confirmed his identity.
 
