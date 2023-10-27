@@ -41,6 +41,9 @@ Immediately after the war, Chia began establishing himself as one of Singapore�
 
 His star rose even further when he was chosen to be one of 18 footballers from Malaya and Singapore to form a Malayan Chinese touring team known as Lien Hwa (United Malayan Chinese).[^10] Between November and mid-December 1947, Lien Hwa toured Bangkok, Hong Kong, Shanghai and Manila, playing a total of 22 games against local teams. The final tally was an impressive 15 wins, three losses and four draws.
 
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/departure.jpg)
+<div style="background-color: white;">Chia Boon Leong (fifth from left) and his Lien Hwa team members prior to their departure for a 42-day tour of Bangkok, Hong Kong, Shanghai and Manila, 1947. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+
 In an interview with _New Nation_ in April 1975, Chia revealed that one of his fondest football memories arose during that tour, though not because of a game, but for the post-match reception given by the crowds.[^11]
 
 On 19 November 1947, Lien Hwa played Shanghai’s first-division champions Tung Hwa, beating them 5–3 in a match in Shanghai’s Canidrome stadium before a crowd of 12,000. Although Chia did not score a goal in the game, his performance caught everyone’s eye. The _China Press_ wrote that Chia “won the hearts of the fans and Tung Hwa players with his tireless game. He was almost in every movement, aiding the defence and forward-line and showed beyond doubt that he knew how to play the inside-forward berth more than well”.[^12]
@@ -58,6 +61,10 @@ Partly as a result of these performances, Chia was selected to represent China a
 
 Though the China team eventually lost 4–0 to Turkey on 2 August 1948, Chia “created a favourable impression with his speed and methodical play” and “had a grand time in London”. “The game was played at a terrific pace. The Turks were much bigger built than us. They were able to score only once in the first half,” Chia told the _Straits Times_ on his return. During the match, centre forward Chu Wing Keung sustained an injury and the team played with just 10 men in the second half. The heavy rain made matters worse for the Chinese.[^15] The 4–0 loss was no disgrace.
 
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chinaolympicfootball.jpg)
+<div style="background-color: white;">The China Olympic football team prior to their game against Turkey in London in 1948. Chia Boon Leong is second from left. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 The _Malaya Tribune_ reported that Chia’s photo appeared twice in the London newspapers, and that Chia “came for special mention for his speed, tricky and constructive play”. While in London, Chia also shook hands with the king and queen of England at a royal reception for athletes.[^16]
 
 After the Olympics, Chia continued to play for Singapore. The Malaya Cup resumed in 1948 with a combination of prewar veterans and new blood. That year, the Singapore team failed to reach the final, being eclipsed by Negeri Sembilan,[^17] but Chia showed his usual mettle.
@@ -65,6 +72,11 @@ After the Olympics, Chia continued to play for Singapore. The Malaya Cup resumed
 After suffering from a brief loss of confidence in 1949, Chia bounced back to claim a place in the All-Singapore team – a squad that included British Services players and local players. He then went on to play a pivotal role in Singapore’s successful bid in recapturing the Malaya Cup in 1950. “The first goal by Chia Boon Leong was as unexpected by Singapore supporters as it was by the Penang goalkeeper,” reported the _Singapore Standard_.[^18] It was the first time Singapore had won the cup in nine years. Chia also helped Singapore retain the trophy in 1951 and 1952.[^19]
 
 In May 1954, Chia was a member of the team representing Singapore at the second Asian Games in Manila.[^20] In August later that year, he was voted the most popular footballer in Malaya in a nationwide competition sponsored by Fraser and Neave, and won a two-month training stint with the London County Council College of Physical Education and Arsenal Football Club.[^21]
+
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/highburytraining.jpg)
+<div style="background-color: white;">Chia Boon Leong (right) and Edwin Dutton (left) chatting with Arsenal’s inside left, Jimmy Logie, at the Highbury training ground in 1954. Chia and Dutton were the winner and runner-up respectively of a Fraser and Neave competition to select Malaya’s most popular footballer. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 Sadly, in February 1956, the _Singapore Standard_ reported that Chia will “definitely not play for Singapore in this year’s Malaya Cup soccer matches”. “I have been playing soccer from the age of ten, but now I find it does not hold the same appeal for me as it did before,” Chia said.[^22] He had just turned 31 at the time.
 
@@ -74,11 +86,14 @@ He then devoted time to his family and his career as a financial executive with 
 
 Chia did not give up football entirely though. In 1974, he was made a council member of the Football Association of Singapore, and in 1978 he was appointed manager of the Singapore soccer team, a role he held briefly.[^25] In August 1978, Chia participated in a goodwill tour to the Soviet Union under the Cultural Exchange Programme. In the party was a young Fandi Ahmad.
 
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong2004.jpg)
-<div style="background-color: white;">Chia Boon Leong at the former Victoria School premises on Tyrwhitt Road, adjacent to Jalan Besar Stadium, 2004. <i>Photo by Tuck Loong, Image reproduced from Nick Aplin, David Waters and Leong May Lai, Singapore Olympians, The Complete Who's Who, 1936–2004 (Singapore: SNP Reference, 2005). (From National Library, Singapore, call no. RSING 796.09225957 APL).</i></div>
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/goodwilltour.jpg)
+<div style="background-color: white;">Chia Boon Leong (third row, extreme right) on a goodwill tour to the Soviet Union under the Cultural Exchange Programme, 1978. Fandi Ahmad is in the second row, second from left. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 I am honoured to say that I knew Chia personally. I first met him about 20 years ago at a service at Barker Road Methodist Church and I recognised him from afar. He was his mid-70s by then, and I recall that he was dressed very sharply. I approached him and he cheerfully confirmed his identity.
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong2004.jpg)
+<div style="background-color: white;">Chia Boon Leong at the former Victoria School premises on Tyrwhitt Road, adjacent to Jalan Besar Stadium, 2004. <i>Photo by Tuck Loong, Image reproduced from Nick Aplin, David Waters and Leong May Lai, Singapore Olympians, The Complete Who's Who, 1936–2004 (Singapore: SNP Reference, 2005). (From National Library, Singapore, call no. RSING 796.09225957 APL).</i></div>
 
 Once we made the football connection, it did not take long before my wife and I were invited to his home for homemade _kueh_ (cake) and to talk about soccer. We would pore over his photo albums and newspaper clippings. He was very proud that he had represented Singapore at the 1954 Asian Games and China at the 1948 London Olympics. At the same time, he was very humble as well. That was one enduring quality of his.
 
