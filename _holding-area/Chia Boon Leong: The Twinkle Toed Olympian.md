@@ -119,7 +119,26 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 |4| 4 November | Assumption | Won | 1–2 |
 |5| 6 November | Phra Nakorn | Won | 3-5 |
 |6| 7 November | Bangkok XI | Won | 6–0 |
-	
+		
+**Tour matches in Hong Kong**
+
+| Game | Date | Opponent | Result | Score |
+| -------- | -------- | -------- | -------- | -------- |
+|7| 9 November | All-Hong Kong | Won | 1–0 |
+|8| 12 November | Sing Tao | Draw | 2–2 |
+
+**Tour matches in Shanghai **
+
+| Game | Date | Opponent | Result | Score |
+| -------- | -------- | -------- | -------- | -------- |
+|9| 15 November | Railways | Won | 6–4 |
+|10| 16 November | Tsing Peh | Draw | 1–1 |
+|11| 19 November | Tung Hwa | Won | 5–3 |
+|12| 22 November | White Eagles | Won | 4–0 |
+|13| 23 November | Tung Hwa &amp; Tsing Peh XI | Lost | 4–2 |
+
+
+
 
 <div style="background-color: white;">
 <br>
