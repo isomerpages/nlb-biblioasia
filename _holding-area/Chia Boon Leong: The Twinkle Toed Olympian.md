@@ -137,7 +137,32 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 |12| 22 November | White Eagles | Won | 4–0 |
 |13| 23 November | Tung Hwa &amp; Tsing Peh XI | Lost | 4–2 |
 
+**Tour matches in Hong Kong **
 
+| Game | Date | Opponent | Result | Score |
+| -------- | -------- | -------- | -------- | -------- |
+|14| 26 November | Combined Services | Draw | 3–3 |
+|15| 28 November | Combined Civilians | Draw | 3–3 |
+|16| 29 November | Combined Chinese | Lost | 6–2 |
+
+
+**Tour matches in Manila **
+
+| Game | Date | Opponent | Result | Score |
+| -------- | -------- | -------- | -------- | -------- |
+|17| 2 December | Manila Football League | Won | 6–0 |
+|18| 3 December | All-Manila | Won | 3–1 |
+|19| 5 December | Manila All-Chinese | Won | 3–0 |
+|20| 6 December | Manila Football League | Won | 5–0 |
+|21| 7 December | All-Manila | Won | 2–0 |
+
+
+
+**Tour matches in Hong Kong **
+
+| Game | Date | Opponent | Result | Score |
+| -------- | -------- | -------- | -------- | -------- |
+|22| 11 December | Sing Tao | Lost | 5–0 |
 
 
 <div style="background-color: white;">
