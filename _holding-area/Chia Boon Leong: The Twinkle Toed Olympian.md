@@ -176,7 +176,8 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
   
 
 <br>
-"<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>" <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)
+<div style="background-color: white;">
+"<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>" <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)</div>
 
 
 <div style="background-color: white;">
