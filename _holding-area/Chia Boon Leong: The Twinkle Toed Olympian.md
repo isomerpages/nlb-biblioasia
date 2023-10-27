@@ -171,14 +171,11 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 |22| 11 December | Sing Tao | Lost | 5–0 |
 
 
-<div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.</div>
+<div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.<br><br>
 
-<br><br>
-<div style="background-color: white;"> "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>" <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)</div>
-<br>
+<div style="background-color: white;"> "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>" <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)<br><br>
 
-<div style="background-color: white;">
-<br>
+
 <b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
 	
 	
@@ -210,4 +207,4 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 [^24]: “[Twinkle, Twinkle Little Star....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.1)”
 [^25]: “[Fandi on FAS Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20010325-1.2.5.13),” _Straits Times_, 25 March 2001, 2; Joe Dorai, “[Chia Named Manager Again](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19791108-1.2.124.10),” _Straits Times_, 8 November 1979, 33. (From NewspaperSG)
 [^26]: Sazali Abdul Aziz, “Football: Old Is Gold As Former Stars Return to Jalan Besar for Book Launch,” _Straits Times_, 31 August 2022, https://www.straitstimes.com/sport/football/football-old-is-gold-as-former-stars-return-to-jalan-besar-for-book-launch.
-[^27]: Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97.”
+[^27]: Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97.”</div>
