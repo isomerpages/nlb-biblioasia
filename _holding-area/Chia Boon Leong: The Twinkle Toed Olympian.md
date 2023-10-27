@@ -10,11 +10,17 @@ By Nick Aplin
 
 The _Manila Times_ called him “small but terrible”. Shanghai’s _North-China Daily News_ described him as a “spark-plug and a glutton for work”. Singapore’s _Sunday Tribune_ said he was as “swift as a hare, with brilliant ball control and unlimited stamina”.[^1]
 
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong.jpg)
+<div style="background-color: white;">Chia Boon Leong at the training ground of Hedon Football Club in London, 1954. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+
 In a report of a 1948 match between Rovers S.C. and RAF Seletar, the _Malaya Tribune_ wrote that the year’s “most spectacular goal was scored by Chia Boon Leong. Receiving the ball near mid-field from \[Gan\] Kee Siang, he cleverly worked his way up the Seletar goal mouth, eluding three defenders on the way and when faced with the goalkeeper, deftly placed the ball into the net wide off him. The entire solo move was so neatly executed that the first to congratulate him were the Seletar defenders”.[^2]
 
 Chia, who died in December 2022 at the age of 97, is widely considered to be one of the most talented and highly regarded football players ever to represent Singapore. He acquired the nickname “Twinkle Toes” after John Mahon, former English international player and coach of the visiting Swedish Gothenburg team, told his men during a match in December 1951: “Watch that little fellow, with the twinkling feet, he works hard, dribbles hard, and is outstanding both in attack and defence.”[^3]
 
 One of Chia’s major accomplishments was representing China’s soccer team at the 1948 London Olympics (he was one of three Malayan Chinese footballers chosen along with Yeap Cheng Eng and Chu Chee Seng).[^4] Chia later became a household name in the Asian football world during the immediate postwar years. His active playing career also coincided with a period of Singapore’s dominance of the Malaya Cup during the early 1950s. He competed at every available level, and after retiring became manager of the Singapore soccer team briefly as well as a council member of the Football Association of Singapore.
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/malayanchinesefootballers.jpg)
+<div style="background-color: white;">Chia Boon Leong (left), Yeap Cheng Eng (middle) and Chu Chee Seng, were the three Malayan Chinese footballers who played for China in the 1948 Olympics in London. Photo taken at the Bayan Lepas Airport in Penang on their return from London. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Early Life**
 
@@ -43,6 +49,9 @@ Such was his performance that the crowd of presumably Tung Hwa supporters mobbed
 #### **Playing in the Olympics and the Malaya Cup**
 
 Partly as a result of these performances, Chia was selected to represent China at the 1948 London Olympic Games. At the time, although a British subject, under China’s rules, he was still considered a Chinese player by dint of his ethnicity.
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/cblage50.jpg)
+<div style="background-color: white;">Chia Boon Leong, age 50, in China’s Olympic football team jersey, 1975. He represented China in the 1948 London Olympics. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
 
 Though the China team eventually lost 4–0 to Turkey on 2 August 1948, Chia “created a favourable impression with his speed and methodical play” and “had a grand time in London”. “The game was played at a terrific pace. The Turks were much bigger built than us. They were able to score only once in the first half,” Chia told the _Straits Times_ on his return. During the match, centre forward Chu Wing Keung sustained an injury and the team played with just 10 men in the second half. The heavy rain made matters worse for the Chinese.[^15] The 4–0 loss was no disgrace.
 
