@@ -38,9 +38,11 @@ Today, there are no more slopes behind the National Library to roll down from. S
 <br>
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/Phyllis%20Ghim.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Authors/Phyllis%20Ghim.jpg" style="width: 80px; height: 100px;">
  <center><b>Phyllis Ghim-Lian Chew</b><br>Lee Kong Chian Research Fellow (2010)<br>National Library </center></div>
 
 #### **NOTES**
 
-[^1]: Song, Ong Siang, _One Hundred Years’ History of the Chinese in Singapore_ (London: John Murray, 1902)
+[^1]: Song, Ong Siang,&nbsp;_[_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3)_&nbsp;(London: John Murray,&nbsp;1923)
+
+1902)
