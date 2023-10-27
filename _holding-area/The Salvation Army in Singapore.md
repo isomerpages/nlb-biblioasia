@@ -42,7 +42,7 @@ Before long, the government was also calling on the Army to help with the distri
 
 The Army’s open-air services were held initially at the Esplanade, but it also had the use of the hall of the Young Men’s Christian Association in their Orchard Road premises during the rainy season.[^15] One popular location was the Municipal bandstand on Waterloo Street. In a town with few entertainment options at the time, such singing and loud music, albeit laced with preaching and calls to repent, would have attracted attention. The Army also took the opportunity to solicit donations at these services.
 
-![](/images/Vol%2019%20Issue%204/Salvation%20Army/youngmenschristianassociation2.jpg)
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/youngmenschristianassociation2b.jpg)
 <div style="background-color: white;">The Young Men's Christian Association&nbsp;in Orchard Road, 1930s. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
 
 However, in 1954 when the Army tried to resume its open-air services at the Esplanade, its application to the City Council was turned down. “The committee’s decision was a firm ‘no’ having regard to the number of religious sects in Singapore and the character of the Esplanade Walk,” reported the _Straits Budget_.[^16] The council was afraid that the Esplanade would turn into a “Hyde Park Corner”.[^17]
