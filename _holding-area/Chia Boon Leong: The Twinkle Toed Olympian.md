@@ -111,6 +111,15 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 | -------- | -------- | -------- | -------- | -------- |
 |2| 25 October | R.A.F. XI Singapore | Won | 5–1 |
 	
+**Tour matches in Bangkok**
+
+| Game | Date | Opponent | Result | Score |
+| -------- | -------- | -------- | -------- | -------- |
+|3| 2 November | Chai Sod	Won | Won | 2–4 |
+|4| 4 November | Assumption | Won | 1–2 |
+|5| 6 November | Phra Nakorn | Won | 3-5 |
+|6| 7 November | Bangkok XI | Won | 6–0 |
+	
 
 <div style="background-color: white;">
 <br>
