@@ -172,15 +172,13 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 
 
 <div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.<br><br>
-
 <div style="background-color: white;"> "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>" <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)<br><br>
-
-
 <b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
 	
 	
 
 #### **NOTES**
+	
 [^1]: “[The Care and Precision He Put Into His Moves Showed His Uncanny Ball Sense...](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750418-1.2.20.1.2.aspx),” _New Nation_, 18 April 1975, 10–11. (From NewspaperSG
 [^2]: “[The Care and Precision He Put Into His Moves Showed His Uncanny Ball Sense....](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750418-1.2.20.1.2.aspx)”
 [^3]: “[Goths Praise Twinkle Toes Boon Leong](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19511213-1.2.106),” _Singapore Free Press_, 13 December 1951, 7. (From NewspaperSG)
