@@ -78,7 +78,7 @@ The fort did not really replicate something that was in Portugal although it fol
 <img style="width:100%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/1Malacca%201630.jpg">
  <div style="background-color: white;">This map of 1630 shows the shape of the fort.<i> Image reproduced from Livro das Plantas das Fortalezas, Cidades e Povoações do Estado da Índia Orienta, p. 105. All rights reserved, Instituto de Investigação Científica Tropical, 1991.</i></div>
 
-It is problematic to apply the notion of colony and the attendant philosophies to refer to the time when the Portuguese captured Malacca. The Portuguese did not establish a large settlement of civilians and they did not hold much territory beyond the borders of the city itself. However their fortifications at least hinted at plans for permanence extending further than simply a factory. Nonetheless, their attitude towards the Malay Peninsula seemed ambivalent.
+It is problematic to apply the notion of colony and the attendant philosophies to refer to the time when the Portuguese captured Malacca. The Portuguese did not establish a large settlement of civilians and they did not hold much territory beyond the borders of the city itself. However. their fortifications at least hinted at plans for permanence extending further than simply a factory. Nonetheless, their attitude towards the Malay Peninsula seemed ambivalent.
 
 The idea of conversion to Catholicism was clearly part of the rhetoric of the Portuguese expansion. Nonetheless, the missions set up by the Jesuits, while endorsed by the Portuguese, were not really part of the official expansion nor were they something that the Portuguese crown invested in. It was very convenient to promote the idea of converting the Malay world from Islam to Christianity for audiences in Europe, particularly the Vatican, but in practice the Portuguese showed little interest in actually pursuing this.
 
@@ -92,23 +92,23 @@ According to Victor Savage, Malacca was in the 16th century, as Ayuthia was in t
 
 #### **Under the Dutch**
 
-When the Dutch took possession of Malacca, they did not attempt to do what they had initially done in Batavia (Jakarta today) — replicating a Dutch city. Likewise, they were not taking large numbers of civilian settlers to Malacca either. So it developed as an Asian city under European jurisdiction rather than a European city in the tropics. Direct European influence on architecture during the colonial period did not extend past official buildings.
+When the Dutch took possession of Malacca, they did not attempt to do what they had initially done in Batavia (Jakarta today) – replicating a Dutch city. Likewise, they were not taking large numbers of civilian settlers to Malacca either. So it developed as an Asian city under European jurisdiction rather than a European city in the tropics. Direct European influence on architecture during the colonial period did not extend past official buildings.
 
 Again, Malacca was not an economic success, as described in this account:
 
-   “*The conquerors found a fort, which, like all the works of*<br>   *the Portuguese, was built with a degree of strength, which*<br>   *has never since been imitated by any nation. They found*<br>   *the climate very healthy, though hot and moist; but the*<br>   *trade there was entirely decayed; the continual exactions*<br>   *having deterred all nations from resorting thither. It has*<br>   *not been revived by the company, either on account of*<br>   *some insuperable difficulties, or the want of moderation*<br>   *or the fear of injuring Batavia. The business is confined at*<br>   *present to the sale of a small quantity of opium, and a few*<br>   *blue linens, and to the purchase of elephants teeth, calin*,<br>   *which cofts 70 livres a hundred weight, and a \[end p. 166\]<br>   emsp; *small quantity of gold at 180 livres a mark*.” [^12]
+<center>“*The conquerors found a fort, which, like all the works of the Portuguese, was built with a degree of strength, which has never since been imitated by any nation. They found the climate very healthy, though hot and moist; but the trade there was entirely decayed; the continual exactions having deterred all nations from resorting thither. It has not been revived by the company, either on account of some insuperable difficulties, or the want of moderation or the fear of injuring Batavia. The business is confined at present to the sale of a small quantity of opium, and a few blue linens, and to the purchase of elephants teeth, calin, which cofts 70 livres a hundred weight, and a [end p. 166] small quantity of gold at 180 livres a mark.”[^12]</center>
 
 The Dutch built the State House and other administrative buildings, as well as private housing. But their arrival did not signal a rapid overhaul of the city, rather a slower evolution. The Dutch reuse of the fort demonstrated this continuity.[^13]
 
 <img style="width:100%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/Malacca%201679.jpg">
- <div style="background-color: white;">This print of Malacca in 1679 shows the centre of the town with Dutch-style buildings within the Portuguese fort.<i> Image reproduced from Hoyt, S.A. (1993). Old Malacca, p. 53. All rights reserved, Oxford University Press, 1993.</i></div>
+ <div style="background-color: white;">This print of Malacca in 1679 shows the centre of the town with Dutch-style buildings within the Portuguese fort. <i>Image reproduced from Hoyt, S.A. (1993). Old Malacca, p. 53. All rights reserved, Oxford University Press, 1993.</i></div>
 
 Malacca was unique in the region for not relying on an agrarian hinterland, due to its “unusually favourable position”.[^14] This position depended on supplies from outside, and a level of trade to maintain them, which did not always hold under the Dutch.
 
 Under the Dutch, there was a small European population. There was not much work for artisans and tradesmen,[^15] which meant that the European influence on material culture was less than in other colonies. Chinese and Indian artisans were often involved in construction and design. This led to the development of a unique visual idiom and these elements also helped to give the city (and its citizens) a particular identity.
 
 <img style="width:100%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/St%20John's%20Fort.jpg">
- <div style="background-color: white;">St. John’s Fort. <i>Courtesy of Katrina Gulliver.</i></div>
+ <div style="background-color: white;">St John’s Fort. <i>Courtesy of Katrina Gulliver.</i></div>
 
 The Dutch construction included St John’s Fort, which was sited for inland defence rather than defence against attack from the sea. As well as a demonstration of the politics involved, such an element of the built environment serves to imply a level of visual hostility to the surrounding area, and to reinforce insularity to the city.
 
@@ -116,7 +116,7 @@ MALACA, <br>  Which is a Town belonging to the Company, <br>  and was taken from
 
 Once again, we see a return to the standard descriptions of Malacca, that even in an account of its economic failure, it is referred to as the “magazine of the east” and in positive terms. Malacca’s ability to retain a positive image in European minds even as it was a poor investment merits further investigation, which I hope to pursue later.
 
-***The author wishes to acknowledge the contributions of Dr Merennage Radin Fernando, Senior Fellow, Humanities &amp; Social Studies Education, National Institute of Education, Nanyang Technological University, in reviewing the paper***.
+<i>The author wishes to acknowledge the contributions of Dr Merennage Radin Fernando, Senior Fellow, Humanities &amp; Social Studies Education, National Institute of Education, Nanyang Technological University, in reviewing the paper.</i>
 
 <br>
 <div style="background-color: white;">
@@ -129,9 +129,9 @@ Once again, we see a return to the standard descriptions of Malacca, that even i
 
 Barbara Watson Andaya, “Malacca Under the Dutch 1641–1795,” in [_Melaka: The Transformation of a Malay Capital_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636), ed. Kernial Singh Sandhu and Paul Wheatley (Kuala Lumpur: Oxford University Press, 1983). (Call no. RSEA 959.5141 MEL)
 
-David Dickson, _Truth’s Victory Over Error_ (Edinburgh: \[sn\], 1684)
+David Dickson, _Truth’s Victory Over Error_ (Edinburgh: \[sn\], 1684).
 
-Gaspora Balbi, _Viaggio Dell’indie Orientali_ (Venetia: Appresso Camillo Borgominieri, 1590)
+Gaspora Balbi, _Viaggio Dell’indie Orientali_ (Venetia: Appresso Camillo Borgominieri, 1590).
 
 George Bryan Souza, [_The Survival of Empire: Portuguese Trade and Society in China and the South China Sea, 1630–1754_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3756329) (Cambridge: Cambridge University Press, 1986). (Call no. RCLOS 382.09469051 SOU)
 
@@ -141,11 +141,11 @@ M.A.P. Meilink-Roelofsz, [_Asian Trade and European Influence in the Indonesian 
 
 Paul Wheatley, [_The Golden Khersonese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462) (Kuala Lumpur: University of Malaya Press, 1961). (Call no. RSING 959.5 WHE)
 
-Peter Heylyn, _Cosmographie in Four Books: Containing the Chorographie and Historie of the Whole World, and All the Principal Kingdoms, Provinces, Seas, and Isles Thereof_ (London: Harry Seile, 1652)
+Peter Heylyn, _Cosmographie in Four Books: Containing the Chorographie and Historie of the Whole World, and All the Principal Kingdoms, Provinces, Seas, and Isles Thereof_ (London: Harry Seile, 1652).
 
 Pierre D’ Avity, _The Estates, Empires, &amp; Principallities of the World_, trans. E. Grimston (London: Mathewe Lownes and John Bill, 1615)
 
-[Pierre-Daniel Huet](https://www.google.com.sg/search?tbo=p&amp;tbm=bks&amp;q=inauthor:%22Pierre-Daniel+Huet%22), _Memoirs of the Dutch Trade in All the States, Empires, and Kingdoms in the World_, trans. Samber (London: C. Rivington, 1719)
+[Pierre-Daniel Huet](https://www.google.com.sg/search?tbo=p&amp;tbm=bks&amp;q=inauthor:%22Pierre-Daniel+Huet%22), _Memoirs of the Dutch Trade in All the States, Empires, and Kingdoms in the World_, trans. Samber (London: C. Rivington, 1719).
 
 R. Araujo, “Letter to D. Afonso De Albuquerque, Malacca, 6 February,” in trans. M.J. Pintado, [_Portuguese Documents on Malacca_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6534928), vol. 1 (Kuala Lumpur: National Archives of Malaysia, 1993). (Call no. RSEA 959.5102 PIN)
 
@@ -159,13 +159,13 @@ Victor R. Savage, [_Western Impressions of Nature and Landscape in Southeast Asi
 
 [^1]: Paul Wheatley, _[The Golden Khersonese](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462)_ (Kuala Lumpur: University of Malaya Press, 1961), 138. (Call no. RSING 959.5 WHE)
 
-[^2]: Gaspora Balbi, _Viaggio Dell’indie Orientali_ (Venetia: Appresso Camillo Borgominieri, 1590)
+[^2]: Gaspora Balbi, _Viaggio Dell’indie Orientali_ (Venetia: Appresso Camillo Borgominieri, 1590).
 
 [^3]: Josede Acosta, _[The Naturall and Morall Historie of the East and West Indies](https://eresources.nlb.gov.sg/printheritage/detail/3af8aebd-eb45-4c2d-8453-3c9e6bd006f0.aspx)_ (London: Edward Blount and William Aspley, 1604), 37. (From BookSG; call no. RRARE 973.16 ACO; microfilm NL25702)
 
 [^4]: Pierre D’ Avity, _The Estates, Empires, &amp; Principallities of the World_, trans. E. Grimston (London: Mathewe Lownes and John Bill, 1615), 184.
 
-[^5]: David Dickson, _Truth’s Victory Over Error_ (Edinburgh: \[sn\], 1684)
+[^5]: David Dickson, _Truth’s Victory Over Error_ (Edinburgh: \[sn\], 1684).
 
 [^6]: Avity, _Estates, Empires &amp; Principallities_, 184.
 
@@ -185,6 +185,6 @@ Victor R. Savage, [_Western Impressions of Nature and Landscape in Southeast Asi
 
 [^14]: M.A.P. Meilink-Roelofsz, _[Asian Trade and European Influence in the Indonesian Archipelago Between 1500 and About 1600](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4500569)_ (The Hague: Martinus Nijhoff, 1962), 7. (Call no. RSEA 382.095 MEI)
 
-[^15]: Andaya, “_[Malacca Under the Dutch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636)_, 206.
+[^15]: Andaya, _[Malacca Under the Dutch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636)_, 206.
 
 [^16]: [Pierre-Daniel Huet](https://www.google.com.sg/search?tbo=p&amp;tbm=bks&amp;q=inauthor:%22Pierre-Daniel+Huet%22), _Memoirs of the Dutch Trade in All the States, Empires, and Kingdoms in the World_, trans. Samber (London: C. Rivington, 1719), 212.
