@@ -8,8 +8,9 @@ description: A major site of intra-Asia trade between India and China, Malacca
 ---
 #### A major site of intra-Asia trade between India and China, Malacca was also an important site in European expansion into Asia. Lee Kong Chian Research Fellow *Katrina Gulliver* examines the importance of Malacca to Europe, and how the city developed with European influence.
 
-<img style="width:100%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/1Rebuilding%20fort.jpg">
- <div style="background-color: white;">Some foundations of the fort were recently discovered and a section is being rebuilt to demonstrate how it would have looked during this time. <i>Courtesy of Katrina Gulliver.</i></div>
+
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/Malacca%201679.jpg">
+ <div style="background-color: white;">This print of Malacca in 1679 shows the centre of the town with Dutch-style buildings within the Portuguese fort. <i>Image reproduced from Hoyt, S.A. (1993). Old Malacca, p. 53. All rights reserved, Oxford University Press, 1993.</i></div>
 
 Malacca was controlled by European powers for more than 400 years – by the Portuguese in 1511, the Dutch in 1641, and the British, first temporarily in 1795, then from 1824 as part of the Anglo-Dutch Treaty, in which the city was exchanged for Bengkulu in Sumatra.
 
@@ -68,6 +69,10 @@ The second approach to colonial cities is a presumed intention of replication of
 
 The built environment at Malacca was shaped by the Portuguese, most famously in their construction of the fort.
 
+ 
+<img style="width:100%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/1Rebuilding%20fort.jpg">
+ <div style="background-color: white;">Some foundations of the fort were recently discovered and a section is being rebuilt to demonstrate how it would have looked during this time. <i>Courtesy of Katrina Gulliver.</i></div>
+
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/1afamosagate.jpg">
  <div style="background-color: white;">The remaining gate of the fort.<i> Courtesy of Katrina Gulliver</i></div>
 
@@ -99,9 +104,6 @@ Again, Malacca was not an economic success, as described in this account:
 <center>“*The conquerors found a fort, which, like all the works of the Portuguese, was built with a degree of strength, which has never since been imitated by any nation. They found the climate very healthy, though hot and moist; but the trade there was entirely decayed; the continual exactions having deterred all nations from resorting thither. It has not been revived by the company, either on account of some insuperable difficulties, or the want of moderation or the fear of injuring Batavia. The business is confined at present to the sale of a small quantity of opium, and a few blue linens, and to the purchase of elephants teeth, calin, which cofts 70 livres a hundred weight, and a [end p. 166] small quantity of gold at 180 livres a mark.”[^12]</center>
 
 The Dutch built the State House and other administrative buildings, as well as private housing. But their arrival did not signal a rapid overhaul of the city, rather a slower evolution. The Dutch reuse of the fort demonstrated this continuity.[^13]
-
-<img style="width:100%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/Malacca%201679.jpg">
- <div style="background-color: white;">This print of Malacca in 1679 shows the centre of the town with Dutch-style buildings within the Portuguese fort. <i>Image reproduced from Hoyt, S.A. (1993). Old Malacca, p. 53. All rights reserved, Oxford University Press, 1993.</i></div>
 
 Malacca was unique in the region for not relying on an agrarian hinterland, due to its “unusually favourable position”.[^14] This position depended on supplies from outside, and a level of trade to maintain them, which did not always hold under the Dutch.
 
