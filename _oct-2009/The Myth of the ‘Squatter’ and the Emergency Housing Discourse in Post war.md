@@ -104,6 +104,12 @@ Nonetheless, despite the failure of most Southeast Asian states to remove their 
 
 <i>The author wishes to acknowledge the contributions of Professor Alan Smart, Department of Anthropology, University of Calgary, in reviewing the paper.</i>
 
+<br>
+<div style="background-color: white;">
+<br>
+<img src="/images/Authors/Loh%20Kah%20Seng.jpg" style="width: 100px; height: 100px;">
+<center><b>Loh Kah Seng</b> <br>Lee Kong Chian Research Fellow <br> National Library</center> </div>
+
 #### **REFERENCES**
 
 Asef Bayat, “Globalisation and the Politics of the Informals in the Global South,” in _Urban Informality: Transnational Perspectives from the Middle East, Latin America, and South Asia_, ed. Ananya Roy and Nezar AlSayyad (Lanham: Lexington Books, 2004), 79–104.
