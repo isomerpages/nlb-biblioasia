@@ -6,14 +6,14 @@ description: A major site of intra-Asia trade between India and China, Malacca
   Research Fellow Katrina Gulliver examines the importance of Malacca to Europe,
   and how the city developed with European influence.
 ---
-#### A major site of intra-Asia trade between India and China, Malacca was also an important site in European expansion into Asia. Lee Kong Chian Research Fellow&nbsp;_Katrina Gulliver_&nbsp;examines the importance of Malacca to Europe, and how the city developed with European influence.
+#### A major site of intra-Asia trade between India and China, Malacca was also an important site in European expansion into Asia. Lee Kong Chian Research Fellow *Katrina Gulliver* examines the importance of Malacca to Europe, and how the city developed with European influence.
 
 <img style="width:100%;" src="/images/Vol%205%20Issue%203/EuropeanPerception/1Rebuilding%20fort.jpg">
  <div style="background-color: white;">Some foundations of the fort were recently discovered and a section is being rebuilt to demonstrate how it would have looked during this time. <i>Courtesy of Katrina Gulliver.</i></div>
 
 Malacca was controlled by European powers for more than 400 years – by the Portuguese in 1511, the Dutch in 1641, and the British, first temporarily in 1795, then from 1824 as part of the Anglo-Dutch Treaty, in which the city was exchanged for Bengkulu in Sumatra.
 
-Malacca held an important role in the European expansionist imagination. Tomé Pires said: “Whoever is lord of Malacca has his hand on the throat of Venice”. English texts from the 16th century onwards demonstrate a desire to capture the port, and the cultural position its name held as a symbol of wealth and the exotic. This paper looks at how Malacca was used, and how it demonstrates changing attitudes towards colonisation and the idea of the city.
+Malacca held an important role in the European expansionist imagination. Tomé Pires said: “Whoever is lord of Malacca has his hand on the throat of Venice.” English texts from the 16th century onwards demonstrate a desire to capture the port, and the cultural position its name held as a symbol of wealth and the exotic. This paper looks at how Malacca was used, and how it demonstrates changing attitudes towards colonisation and the idea of the city.
 
 Malacca was an important site in European expansion into Asia. In the 15th century, the city was a crucial nexus of a trade network from the Moluccas to Venice. Being at the “end of the monsoon”, it served as a major site for intra-Asia trade between China and India. I have chosen to look at the city from a different angle, in examining how important Malacca was to Europe, and how the city developed with European influence.
 
@@ -25,27 +25,28 @@ During Portuguese control of the city, the references became more common, both i
 
 The overlap in usage between Malacca and Golden Chersonese is discussed in this 1604 text:
 
-       *“Is it not easie to find Molaco in ancient bookes, which*<br>       *they called the golden Chersonese: the Cape of Comori,* <br>       *which was called the Promontorie of Coci; &amp; that great &amp;* <br>       *famous Iland of Sumatra, so well knowne by the ancient*<br>          *name of Taprobana.”*[^3]
+<center>“Is it not easie to find Molaco in ancient bookes, which they called the golden Chersonese: the Cape of Comori, which was called the Promontorie of Coci; &amp; that great &amp; famous Iland of Sumatra, so well knowne by the ancient name of Taprobana.”[^3]</center>
 
 The “great &amp; famous illand” description also demonstrates a growing level of assumed knowledge in Europe about the East Indies, and how much they had even by this stage (the English East India Company’s first mission was in 1601) become part of the mental map projected from Europe.
 
 A more detailed description of Malacca was given by Pierre d’Avity, translated into English in 1615:
 
-“*Malaca is seated upon the river of Gaza, and is a good* <br>  *faire Towne, having in circuit neere twentie miles. The* <br>  *originarie or first inhabitants of this place report, that the* <br>  *beginning came of six or seven fishermen, which came to* <br> *dwell there, but their number increased, by the arrivall of* <br>  *other fishermen of Siam, Pegu, and Bengola, who built a* <br>  *towne, and framed a particular language, taking all the* <br>  *best kind of speech from other nations. They named their* <br>  *towne Malaca, which is growne so rich and mightie in a* <br>  *short time by reason of her situation, as she contends* <br>  *for precedence with the greatest townes, yea with some* <br>      *realmes thereabouts*. <br>  *The Countrie people sleepe upon trees for feare of* <br>  *Tygers, whereof there are so many as they will come* <br>  *into the towne for a prey. The Portugals who tooke this* <br>  *towne from a king of the Moores, found the scituation so* <br>  *commodious, as they have made it in a manner the Center* <br>*of all the merchandise and trafficke of the East, and the*<br> *head of a kingdome, which extends from Sincapura to*<br>     *Pullo, and Cambilan*;”[^4] 
+<center>“Malaca is seated upon the river of Gaza, and is a good faire Towne, having in circuit neere twentie miles. The originarie or first inhabitants of this place report, that the beginning came of six or seven fishermen, which came to dwell there, but their number increased, by the arrivall of other fishermen of Siam, Pegu, and Bengola, who built a towne, and framed a particular language, taking all the best kind of speech from other nations. They named their towne Malaca, which is growne so rich and mightie in a short time by reason of her situation, as she contends for precedence with the greatest townes, yea with some realmes thereabouts. The Countrie people sleepe upon trees for feare of Tygers, whereof there are so many as they will come into the towne for a prey. The Portugals who tooke this towne from a king of the Moores, found the scituation so commodious, as they have made it in a manner the Center of all the merchandise and trafficke of the East, and the head of a kingdome, which extends from Sincapura to Pullo, and Cambilan;”[^4]</center>
 
 Here we see two elements emerging in the description: One is the wealth and success of the town, and the other its position as a central gathering place for traders from different regions, as what might be termed proto-multiculturalism.
 
-In Portuguese literature (the city is mentioned in the *Lusiad*, of 1572, an epic poem by Luis Vaz de Camoes, depicting Portuguese history and the events of the discovery of India as blessed by mythological figures) demonstrating even at this stage its role — and that of colonialism in general — in Portuguese national culture.
+In Portuguese literature (the city is mentioned in the *Lusiad* of 1572, an epic poem by Luís Vaz de Camões, depicting Portuguese history and the events of the discovery of India as blessed by mythological figures) demonstrating even at this stage its role – and that of colonialism in general – in Portuguese national culture.
 
 Malacca is mentioned in Book X, verse 44:
+
 Nor *Him* shalt *Thou* (though potent) scape, and flye, <br>  (Though sheltred in the Bosome of the *Morn*)  <br> MALACCA (and the Apple of her Eye) <br>  Prowd of thy wealthy Dow’r as her *first-born*. <br>  Thy *poyson’d Arrows*, those *Auxiliary*  <br> CRYSES I see (thy *Pay* That do not scorn) <br>  MALACCANS amorous, valiant JAVANS, <br>  Shall all obey the LUSITANIANS.
 
 And verse 57:
 
 Great *Actions* in the *Kingdom* of BINTAN<br> Thou shalt perform, MALACCA’S Foe: her *score*<br> Of *Ills* in one day *paying*, which *That* ran<br> Into, for many a hundred year before.
-With patient courage, more then of a man, <br>*Dangers*, and *Toyles*, sharp *Spikes*, *Hills* always hoare,<br> *Spears*, *Arrows*, *Trenches*, *Bulwarks*, *Fire and Sword*,<br> That thou shalt break, and quell, I pass my word.<br> (This text is from Richard Fanshawe’s 1655 translation; the work has been translated a number of times into English.)
+<br>With patient courage, more then of a man, <br>*Dangers*, and *Toyles*, sharp *Spikes*, *Hills* always hoare,<br> *Spears*, *Arrows*, *Trenches*, *Bulwarks*, *Fire and Sword*,<br> That thou shalt break, and quell, I pass my word.<br> (This text is from Richard Fanshawe’s 1655 translation; the work has been translated a number of times into English.)
 
-By the 17th century, Malacca was making a more regular appearance in literature written in English. As well as its inclusion in guides of the world, guides to spices and general histories, it was again featured in poetry. David Dickson was a Scottish preacher and his *Truth’s Victory over Error*, or, *An abridgement of the chief controversies in religion which since the apostles days to this time, have been, and are in agitation, between those of the Orthodox faith, and all adversaries whatsoever*… was a translation into English of Dickson’s sermons given in Latin. It is relevant that by this stage the city of Malacca was being specified rather than the more vague “Golden Cherson”.
+By the 17th century, Malacca was making a more regular appearance in literature written in English. As well as its inclusion in guides of the world, guides to spices and general histories, it was again featured in poetry. David Dickson was a Scottish preacher and his *Truth’s Victory over Error, or, An abridgement of the chief controversies in religion which since the apostles days to this time, have been, and are in agitation, between those of the Orthodox faith, and all adversaries whatsoever…* was a translation into English of Dickson’s sermons given in Latin. It is relevant that by this stage the city of Malacca was being specified rather than the more vague “Golden Cherson”.
 
      “As Ophirs Gold, which from Malacca came,<br>     Made Solomon on Earth the richest Man.<br>     So will this Book make rich thy heart and mind,<br>     With Divine Wisdom, Knowledge of all kind.<br>     Thee richer make than Croesus of great name,<br>     Thee wiser make than Solon of great fame. <br>     Than all the seven wise Sages, Greeces Glory,<br>      I do protest it’s true, and is no Story.”[^5]
 
@@ -53,7 +54,7 @@ We also see the direct Biblical link being used. Malacca was being firmly situat
 
 Under the heading “Manners of the People”, the residents were described by Pierre d’ Avity as follows:
 
-     “*There are in this place about a hundred families of* <br>     *Portugals, which live after the manner of their countrie,* <br>     *with a Bishop, and a Colledge of Jesuits, besides the* <br>      *Castell. They that are borne in this place weare long haire,* <br>      *they have malitious spirits, and take delight to commit* <br>     *murders in the night, to the end the authors may not be* <br>      *known. Both men and women make love alike, and thinke* <br>      *that there is not any Nation can mannage it so well: they* <br>      *make amarous songs and rimes, and doe wonderfully* <br>      *commend the power of love in their verses, which are* <br>      *wittie, well composed, and of a good grace. They have the* <br>      *nearest, and most elegant language of all the East: and*<br>     *therefore many at the Indies doe use it; as in England,* <br>      *Germanie, and the Low-countries they use* <br>        *the French tongue*.”[^6]
+<center>“There are in this place about a hundred families of Portugals, which live after the manner of their countrie, with a Bishop, and a Colledge of Jesuits, besides the Castell. They that are borne in this place weare long haire, they have malitious spirits, and take delight to commit murders in the night, to the end the authors may not be known. Both men and women make love alike, and thinke that there is not any Nation can mannage it so well: they make amarous songs and rimes, and doe wonderfully commend the power of love in their verses, which are wittie, well composed, and of a good grace. They have the nearest, and most elegant language of all the East: and therefore many at the Indies doe use it; as in England, Germanie, and the Low-countries they use the French tongue.”[^6]</center>
 
 He draws a clear distinction between the Christian Portuguese residents and the local community. The exoticism of the Malays in this description, as both murderers and passionate authors of romantic songs and poems is an interesting juxtaposition. It is particularly relevant that the Malays, or “they that are borne in this place” are not described as Muslims.
 
@@ -187,7 +188,3 @@ Victor R. Savage, [_Western Impressions of Nature and Landscape in Southeast Asi
 [^15]: Andaya, “_[Malacca Under the Dutch](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636)_, 206.
 
 [^16]: [Pierre-Daniel Huet](https://www.google.com.sg/search?tbo=p&amp;tbm=bks&amp;q=inauthor:%22Pierre-Daniel+Huet%22), _Memoirs of the Dutch Trade in All the States, Empires, and Kingdoms in the World_, trans. Samber (London: C. Rivington, 1719), 212.
-
-
-
-
