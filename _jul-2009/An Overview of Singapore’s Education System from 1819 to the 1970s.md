@@ -65,34 +65,34 @@ In 1955, the Ministry of Education was formally established. In the following ye
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/SingaporeEducation/Chan%20Chieu%20Kiat%20Commission.jpg">
  <div style="background-color: white;"><i>All rights reserved, Singapore Govt. Print. Off., 1961.</i></div>
 
-Throughout the 1960s, the government continued to pay attention to education – particularly vocational education – and ordered several more reviews. The impact that the type of education system had on the economy was of utmost interest to the government. With Singapore’s limited natural resources, the government realised that industrialisation would be the lifeline of Singapore’s economy and thus, “her human resources must be harnessed to the full”.[^21] A review led by Chan Chieu Kiat, “Report of the Commission of Inquiry into Vocational and Technical Education in Singapore” (the report subsequently became known as the Chan Chieu Kiat Commission) in 1961 suggested restructuring the secondary education system to accommodate vocational, technical and commercial education.[^22] In order that students and teaching staff of vocational institutions could keep up with the advancements in their chosen fields, the commission also suggested that “the setting up of a technical and scientific section in the National Library deserved urgent consideration”.[^23]
+Throughout the 1960s, the government continued to pay attention to education – particularly vocational education – and ordered several more reviews. The impact that the type of education system had on the economy was of utmost interest to the government. With Singapore’s limited natural resources, the government realised that industrialisation would be the lifeline of Singapore’s economy, and thus “her human resources must be harnessed to the full”.[^21] A review led by Chan Chieu Kiat, the “Report of the Commission of Inquiry into Vocational and Technical Education in Singapore” (subsequently known as the Chan Chieu Kiat Commission) in 1961 suggested restructuring the secondary education system to accommodate vocational, technical and commercial education.[^22] So that students and teaching staff of vocational institutions could keep up with the advancements in their chosen fields, the commission also suggested that “the setting up of a technical and scientific section in the National Library deserved urgent consideration”.[^23]
 
 <img style="width:80%;" src="/images/Vol%205%20Issue%202/SingaporeEducation/Presentation2.jpg">
- <div style="background-color: white;">(Left)<i> Commission of Inquiry into Education by Lim Tay Boh - Interim Report All rights reserved, Singapore Govt. Printer, 1962.</i> <br> (Right)<i> Commission of Inquiry into Education by Lim Tay Boh - Final Report (1964). All rights reserved, Singapore Govt. Printer, 1964.</i></div>
+ <div style="background-color: white;">Commission of Inquiry into Education by Lim Tay Boh - Interim Report. <i>All rights reserved, Singapore Govt. Printer, 1962</i>; Commission of Inquiry into Education by Lim Tay Boh – Final Report (1964). <i>All rights reserved, Singapore Govt. Printer, 1964.</i></div>
 
-The 1961 Chan Chieu Kiat Commission was complemented by the “Commission of Inquiry into Education” led by Lim Tay Boh the following year. The terms of reference of this commission were to “inquire into the Government’s Education Policy, its content and administration in all fields other than vocational and technical education, and to make recommendations.”[^24] This inquiry, however, did not review the two universities. This commission submitted an interim report in 1962, and a final report in 1963. Some of the key recommendations of this commission included the adjustment of class size and pupil-teacher ratio for primary and secondary schools, revision of the Primary School Leaving Examination by aligning the examination syllabus to the teaching in the schools, training of teachers, allowance and remuneration of principals and teaching staff, as well as skills and facilities that could enhance students’ learning. Examples of recommendations made were: “all trainee teachers and some of the experienced teachers should be given training in librarianship”, and “the necessity to appoint a qualified School Library Adviser at the Ministry of Education”.[^25]
+The 1961 Chan Chieu Kiat Commission was complemented by the “Commission of Inquiry into Education” led by Lim Tay Boh the following year. The terms of reference of this commission were to “inquire into the Government’s Education Policy, its content and administration in all fields other than vocational and technical education, and to make recommendations”.[^24] This inquiry, however, did not review the two universities. This commission submitted an interim report in 1962, and a final report in 1963. Some of the key recommendations of this commission included the adjustment of class size and pupil-teacher ratio for primary and secondary schools, revision of the Primary School Leaving Examination by aligning the examination syllabus to the teaching in the schools, training of teachers, allowance and remuneration of principals and teaching staff, as well as skills and facilities that could enhance students’ learning. Examples of recommendations made were: “all trainee teachers and some of the experienced teachers should be given training in librarianship”, and “the necessity to appoint a qualified School Library Adviser at the Ministry of Education”.[^25]
 
-The most significant review in the 1970s was the 1978 Goh Keng Swee Report on the state of education. This study, however, was not a formal commission of inquiry, and no terms of reference were spelt out for the team. Goh Keng Swee remarked that “the approach we (the team) take is that of the generalist, and not of the specialist” (1978 Report, p. ii).[^26]The team highlighted key problems in the education system at the time, such as the preference for English-stream schools, the importance of bilingual education, the necessity of streaming students according to their learning capabilities, moral education syllabus and administration at the Ministry of Education.
+The most significant review in the 1970s was the 1978 Goh Keng Swee Report on the state of education. This study, however, was not a formal commission of inquiry, and no terms of reference were spelt out for the team. Goh remarked that “the approach we [the team] take is that of the generalist, and not of the specialist” (1978 Report, p. ii).[^26]The team highlighted key problems in the education system at the time, such as the preference for English-stream schools, the importance of bilingual education, the necessity of streaming students according to their learning capabilities, moral education syllabus and administration at the Ministry of Education.
 
-This report had a farreaching impact on the development of education in the years to come. In 1979, primary three school pupils were streamed into Express, Normal or Monolingual classes. With the preference for English stream schools, all the four language-stream schools were merged into English-stream schools, where lessons on all subjects were conducted in English except for the mother tongue (Chinese, Malay or Tamil), which students studied as a second language. This merger was reflected in the 1984 “Directory of Schools and Institutions”, in which schools were no longer classified by language stream. As shown in the Preface of the Directory:
+This report had a far-reaching impact on the development of education in the years to come. In 1979, primary three pupils were streamed into Express, Normal or Monolingual classes. With the preference for English-stream schools, all the four language-stream schools were merged into English-stream schools, where lessons on all subjects were conducted in English except for the mother tongue (Chinese, Malay or Tamil), which students studied as a second language. This merger was reflected in the 1984 “Directory of Schools and Institutions”, in which schools were no longer classified by language stream. As shown in the Preface of the Directory:
 
-   “*From 1984 onwards, the schools listed in this Directory* <br>   *are no longer classified by language medium because of* <br>   *the standardisation of language medium in school, at the* <br>     *primary and secondary levels*.”[^27]
+<center>“From 1984 onwards, the schools listed in this Directory are no longer classified by language medium because of the standardisation of language medium in school, at the primary and secondary levels.”[^27]</center>
 
 The Ministry of Education also ensured that pupils who had the capability to study another language as a first language could continue to learn their mother tongue as a first language too. This was implemented under the Special Assistance Plan (SAP) in nine schools in 1979.
 
 #### **Conclusion**
 
-Singapore’s education system from 1819 to 1978 can be seen to have passed through three distinct phases. In the first phase, before the outbreak of World War II, there were other providers of education besides the British. The second phase took place after World War II, and was marked by the government’s concerted effort to centralise the curricular to maximise scarce resources in the immediate post-war years. The third phase was heralded by the creation of a national school system after the nation’s Independence in 1965. The legacy of different language traditions continued into the early 1980s. Even without an official history of these developmental phases, the motley of policy papers and reports kept in the Lee Kong Chian Reference Library capture the evolution and details of these phases.[^28]
+Singapore’s education system from 1819 to 1978 can be seen to have passed through three distinct phases. In the first phase, before the outbreak of World War II, there were other providers of education besides the British. The second phase took place after World War II, and was marked by the government’s concerted effort to centralise the curriculum to maximise scarce resources in the immediate postwar years. The third phase was heralded by the creation of a national school system after the nation’s Independence in 1965. The legacy of different language traditions continued into the early 1980s. Even without an official history of these developmental phases, the motley of policy papers and reports kept in the Lee Kong Chian Reference Library capture the evolution and details of these phases.[^28]
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/SingaporeEducation/Barnes%20Report.jpg">
- <div style="background-color: white;"><i>Report of the Committee on Malay Education (Barnes Report). All rights reserved, Kuala Lumpur Govt. Press, 1951.</i></div>
+ <div style="background-color: white;">Report of the Committee on Malay Education (Barnes Report). <i>All rights reserved, Kuala Lumpur Govt. Press, 1951.</i></div>
 
-Through the official reports and policies, one can see that the attempts by the government to exert control over all schools in Singapore were evident before World War II. The 1920 School Registration Ordinance can be considered to be the first such endeavour. Official reviews and inquiries were still being carried out along ethnic lines even after World War II. The following government reviews underscore this contention: “Report of the Committee on Malay Education” (Barnes Report) in 1951, “Report of a Mission invited by the Federation Government to Study the Problem of Education of Chinese in Malaya” (Fenn Report) in 1951, “All-Party Committee on Chinese Education appointed to look into the education needs of Chinese schools” in 1955, and the “Report of the All-party Committee on Chinese Education of the Singapore Legislative Assembly on Chinese education” in 1956.
+Through the official reports and policies, one can see that the attempts by the government to exert control over all schools in Singapore were evident before World War II. The 1920 School Registration Ordinance can be considered to be the first such endeavour. Official reviews and inquiries were still being carried out along ethnic lines even after World War II. The following government reviews underscore this contention: “Report of the Committee on Malay Education” (Barnes Report) in 1951, “Report of a Mission Invited by the Federation Government to Study the Problem of Education of Chinese in Malaya” (Fenn Report) in 1951, “All-Party Committee on Chinese Education Appointed to Look into the Education Needs of Chinese Schools” in 1955 and the “Report of the All-party Committee on Chinese Education of the Singapore Legislative Assembly on Chinese Education” in 1956.
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/SingaporeEducation/Chinese%20Schools.jpg">
- <div style="background-color: white;"><i>Report of a Mission invited by the Federation Government to Study the Problem of Education of Chinese in Malaya (Fenn Report). All rights reserved, Kuala Lumpur: Govt. Press, 1951. </i></div>
+ <div style="background-color: white;">Report of a Mission invited by the Federation Government to Study the Problem of Education of Chinese in Malaya (Fenn Report). <i>All rights reserved, Kuala Lumpur: Govt. Press, 1951. </i></div>
 
-It was not till the 1957 Registration of School Ordinance that we see another attempt by the government to consolidate the numerous “micro-systems” that existed within Singapore’s education system. The main shift away from policies with communal considerations to those stressing national concerns took place after self-rule was attained. Some of these developments were captured in the 1961 “Commission of Inquiry into Vocational and Technical Education in Singapore” (Chan Chieu Kiat Commission) and in the 1962 “Commission of Inquiry into Education” (Lim Tay Boh Commission). The 1978 Goh Keng Swee Report recommended the merger of all four language-stream schools into a common English-stream system. All schools were transformed into “English medium schools” by 1984. By then, it was no longer necessary to address educational issues peculiar to ethnicity and language stream as all policies and reviews subsequently applied to all Singapore schools.
+It was not till the 1957 Registration of School Ordinance that we see another attempt by the government to consolidate the numerous “micro-systems” that existed within Singapore’s education system. The main shift away from policies with communal considerations to those stressing national concerns took place after self-rule was attained. Some of these developments were captured in the 1961 “Commission of Inquiry into Vocational and Technical Education in Singapore” (Chan Chieu Kiat Commission) and in the 1962 “Commission of Inquiry into Education” (Lim Tay Boh Commission). The 1978 Goh Keng Swee Report recommended the merger of all four language-stream schools into a common English-stream system. All schools were transformed into English-medium schools by 1984. By then, it was no longer necessary to address educational issues peculiar to ethnicity and language stream as all policies and reviews subsequently applied to all Singapore schools.
 
 If readers wish to explore the subject further, I recommended David Chelliah’s *A History of the Educational Policy of the Straits Settlements with Recommendations for a New System Based on Vernaculars* (1940) and Saravanna Gopinathan’s *Towards a National System of Education in Singapore, 1945–1973* (1974). Both authors also consulted the resources that I have referred to in my article. Their works are available at Level 12 of the Lee Kong Chian Reference Library, National Library.
 
@@ -110,7 +110,7 @@ All-Party Committee on Singapore Chinese Middle Schools Students' Union, Singapo
 
 All Party Committee on Chinese Education, Singapore, [_Report of the All-Party Committee of the Singapore Legislative Assembly on Chinese Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4752089) (Singapore: Govt. Printer, 1956). (Call no. RCLOS 371.9795105957 SIN)
 
-C. M. Turnbull, [_A History of Singapore, 1819–1988_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825) (Singapore: Oxford University Press, 1989. (Call no. RSING 959.57 TUR)
+C.M. Turnbull, [_A History of Singapore, 1819–1988_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825) (Singapore: Oxford University Press, 1989. (Call no. RSING 959.57 TUR)
 
 Central Advisory Committee on Education, Malaya, [_Report on the Barnes Report on Malay Education and the Fenn-Wu Report on Chinese Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4315885) \[Kuala Lumpur: Govt. Press, 1951) (Call no. RDTYS 371.979920595 MAL)
 
@@ -120,13 +120,13 @@ Committee on a Polytechnic Institute for Singapore, Singapore, [_Committee on a 
 
 Committee on Malay Education, Malaya, [_Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4316064) (Kuala Lumpur: Govt. Press, 1951). (Call no. RCLOS 371.979920595 MAL; microfilm NL9546)
 
-F. J Morten and Straits Settlements, [_Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982392) (Straits Settlements. Legislative Council Command Paper no. 103 of 1932) (Singapore: Printed at the Govt. Print. Off., 1932). (Call no. RRARE q379.12; microfilm NL7596)
+F.J. Morten and Straits Settlements, [_Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982392) (Straits Settlements. Legislative Council Command Paper no. 103 of 1932) (Singapore: Printed at the Govt. Print. Off., 1932). (Call no. RRARE q379.12; microfilm NL7596)
 
-Francis H. K. Wong and Gwee Yee Hean, [_Official Reports on Education: Straits Settlements and the Federated Malay States, 1870–1939_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082297) (Singapore: Pan Pacific Book Distributors, 1980). (Call no. RCLOS 370.95957 WON)
+Francis H.K. Wong and Gwee Yee Hean, [_Official Reports on Education: Straits Settlements and the Federated Malay States, 1870–1939_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082297) (Singapore: Pan Pacific Book Distributors, 1980). (Call no. RCLOS 370.95957 WON)
 
 Goh Keng Swee and Education Study Team, [_Report on the Ministry of Education 1978_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082172) (Singapore: Printed by Singapore National Printers, 1979) (Call no. RSING 370.95957 SIN)
 
-H. R. Cheeseman, [_Report on Vocational Education in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980006) (Singapore: Printed at the Govt. Print. Off., 1938). (Call no. RRARE 371.42 CHE; microfilm NL9821)
+H.R. Cheeseman, [_Report on Vocational Education in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980006) (Singapore: Printed at the Govt. Print. Off., 1938). (Call no. RRARE 371.42 CHE; microfilm NL9821)
 
 Legislative Assembly, Singapore, [_White Paper on Education Policy_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981149) (Singapore Legislative Assembly Command Paper Cmd. 15 of 1956). (Singapore: Legislative Assembly, 1956). (Call no. RCLOS q370.95951 SIN; microfilm NL9547)
 
@@ -176,11 +176,11 @@ Straits Settlements, [_Report_](https://eservice.nlb.gov.sg/item_holding.aspx?bi
 
 Straits Settlements. Technical Education Committee, [_Report, 1925_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5091093) (Singapore: Technical Education Committee, 1925). (Call no. RRARE 607.5951 STR; microfilm NL7596)
 
-T. R. Doraisamy et al., [_150 Years of Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082032) (Singapore: TTC Publications Board, Teachers Training College, 1969). (Call no. RSING 370.95957 TEA)
+T.R. Doraisamy et al., [_150 Years of Education_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082032) (Singapore: TTC Publications Board, Teachers Training College, 1969). (Call no. RSING 370.95957 TEA)
 
 Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Origins and Outcome,” (Bachelor’s Thesis, National University of Singapore, 1990, https://scholarbank.nus.edu.sg/handle/10635/166959
 
-
+#### **NOTES**
 
 [^1]: Raffles, [_Memoir of the Life and Public Services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277), appendix and 38.
 
@@ -241,29 +241,29 @@ Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Or
 #### **APPENDIX: A Select List of Education Policies and Papers from 1819 to the 1970s**
      
 
-**1870:** Report of the Select Committee of the Legislative Council To Inquire Into the State of Education in the Colony (Woolley Report)
+**1870:** Report of the Select Committee of the Legislative Council to Inquire into the State of Education in the Colony (Woolley Report)
 
-**1894:** Report of the Committee Appointed To Inquire Into the System of Vernacular Education in the Colony (Isemonger Report)
+**1894:** Report of the Committee Appointed to Inquire into the System of Vernacular Education in the Colony (Isemonger Report)
 
-**1902:** Report of the Commission of Enquiry Into the System of English Education in the Colony (Kynnerseley Report)
+**1902:** Report of the Commission of Enquiry into the System of English Education in the Colony (Kynnerseley Report)
 
 **1917:** Report on Vernacular and Industrial Education in the Netherlands East Indies and the Philippines, by R.O. Winstedt
 
-**1919:** Report by the Committee Appointed by His Excellency the Governor To Advise As to a Scheme for the Advancement of Education Preparatory to a University in Singapore (Firmstone Report)
+**1919:** Report by the Committee Appointed by His Excellency the Governor to Advise As to a Scheme for the Advancement of Education Preparatory to a University in Singapore (Firmstone Report)
 
 **1919:** Report of the Committee on Technical and Industrial Education in the Federated Malay States (Lemon Report)
 
-**1922:** Report of the Committee Appointed by His Excellency the Government and High Commissioner To Consider the Working of the System of Education Grants-inAid Introduced in 1920 in the Straits Settlements and the Federated Malay States (Wolff Report)
+**1922:** Report of the Committee Appointed by His Excellency the Government and High Commissioner To Consider the Working of the System of Education Grants-in-Aid Introduced in 1920 in the Straits Settlements and the Federated Malay States (Wolff Report)
 
 **1925:** Report of the Technical Education Committee (Winstedt Report)
 
-**1927:** Report of the Committee Appointed To Draw Up a Scheme for a School of Agriculture as a Joint Institution for the Federated Malay States and Straits Settlement (Elles Report)
+**1927:** Report of the Committee Appointed to Draw Up a Scheme for a School of Agriculture as a Joint Institution for the Federated Malay States and Straits Settlement (Elles Report)
 
 **1928:** Proceedings of the Committee Appointed by His Excellency the Governor and High Commissioner To Report on the Question of Medical Research Throughout Malaya. (Command Paper – Straits Settlements. Legislative Council; No. 13 of 1929)
 
-**1932:** Report of the Committee to Consider the System of Grants-in-Aid to Schools in the Straits Settlements and the Federated Malay States (Morten Report) (Command paper - Straits Settlements. Legislative Council; no. 103 of 1932)
+**1932:** Report of the Committee to Consider the System of Grants-in-Aid to Schools in the Straits Settlements and the Federated Malay States (Morten Report) (Command Paper – Straits Settlements. Legislative Council; No. 103 of 1932)
 
-**1938:** Report on Vocational Education in Malay, by H. R. Cheeseman
+**1938:** Report on Vocational Education in Malay, by H.R. Cheeseman
 
 **1939:** Report of the Commission Appointed by the Secretary of State for the Colonies on Higher Education in Malaya (McLean Report)
 
@@ -271,17 +271,17 @@ Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Or
 
 **1951:** Report of the Committee on Malay Education (Barnes Report)
 
-**1951:** Chinese Schools and the Education of Chinese Malayans: The Report of a Mission Invited by the Federation Government To Study the Problem of the Education of Chinese in Malaya (Fenn Report)
+**1951:** Chinese Schools and the Education of Chinese Malayans: The Report of a Mission Invited by the Federation Government to Study the Problem of the Education of Chinese in Malaya (Fenn Report)
 
 **1951:** Report on the Barnes Report on Malay Education and the Fenn-Wu Report on Chinese Education
 
-**1953:** Chinese Schools - Bilingual Education and Increased Aid (Command Paper - Singapore. Legislative Council; Cmd. 81 of 1953)
+**1953:** Chinese Schools – Bilingual Education and Increased Aid (Command Paper – Singapore. Legislative Council; Cmd. 81 of 1953)
 
-1953: Report of the Committee on a Polytechnic Institute for Singapore
+**1953:** Report of the Committee on a Polytechnic Institute for Singapore
 
-**1956:** Singapore Chinese Middle Schools Students’ Union (Command Paper - Singapore. Legislative Assembly; Cmd. 53 of 1956)
+**1956:** Singapore Chinese Middle Schools Students’ Union (Command Paper – Singapore. Legislative Assembly; Cmd. 53 of 1956)
 
-**1956:** Report of the All-Party Committee of the Singapore Legislative Assembly on Chinese education (Led by Chew Swee Kee)
+**1956:** Report of the All-Party Committee of the Singapore Legislative Assembly on Chinese Education (Led by Chew Swee Kee)
 
 **1956:** White Paper on Education Policy (Command Paper – Legislative Assembly; Cmd. 15 of 1956)
 
@@ -292,5 +292,3 @@ Yeo Hailin, “The Registration of Schools Ordinance of British Malaya, 1920: Or
 **1964:** Final Report – Commission of Inquiry Into Education (Lim Tay Boh Commission)
 
 **1979:** Report on the Ministry of Education 1978 (Prepared by Goh Keng Swee and the Education Study Team)
-
-#### **NOTES**
