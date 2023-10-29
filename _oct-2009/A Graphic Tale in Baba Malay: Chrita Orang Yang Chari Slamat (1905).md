@@ -5,7 +5,7 @@ description: Senior Librarian Bonny Tan shines the spotlight on Chrita Orang
   Yang Chari Slamat, the Baba Malay translation of classic The Pilgrim’s
   Progress.
 ---
-#### Senior Librarian *Bonny Tan* shines the spotlight on *Chrita Orang Yang Chari Slamat*, the Baba Malay translation of classic *The Pilgrim’s Progress*.
+#### Senior Librarian *Bonny Tan* shines the spotlight on *Chrita Orang Yang Chari Slamat*, the Baba Malay translation of the classic, *The Pilgrim’s Progress*.
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/BabaMalay/Chrita%20Orang%20book%20cover.jpg">
  <div style="background-color: white;"><i>Chrita Orang Yang Chari Slamat</i> by John Bunyan; translated by William G. Shellabear. <i>All rights reserved, American Mission Press, 1905.</i></div>
