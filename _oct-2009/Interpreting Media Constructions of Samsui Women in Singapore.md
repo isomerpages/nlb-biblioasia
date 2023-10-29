@@ -135,11 +135,8 @@ It may be right to suggest that the direction of media constructions of *samsui*
 While some writings have emerged in recent years which provide a more in-depth engagement with the everyday life experiences of *samsui* women (for example, Low, 2005; Koo, 2006), more work of this nature needs to be produced in order to expand our knowledge concerning the life trajectories and experiences of *samsui* women.
 
 
-<br>
-<div style="background-color: white;">
-<br>
-<img src="/images/Authors/Loh%20Kah%20Seng.jpg" style="width: 100px; height: 100px;">
-<center><b>Kelvin E.Y. Low</b><br>Lee Kong Chian Research Fellow<br> National Library</center></div>
+
+<center><b>Kelvin E.Y. Low</b><br>Lee Kong Chian Research Fellow<br> National Library</center>
 
 #### **REFERENCES**
 
@@ -151,9 +148,9 @@ Allison Lim, “[Samsui Women Return After Emotional Trip to China To Meet Frien
 
 Audrey Chin and Constance Singam, [_Singapore Women Re-Presented_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12427651) (Singapore: Landmark Books, 2004). (Call no. RSING 305.4095957 CHI)
 
-C. H. Tang, “The Cantonese Women Building Labourers: A Study of a Group of Sam-Sui Women in the Building Trade,” \[Unpublished research paper, Department of Social Studies, University of Malaya in Singapore, 1960\]
+C.H. Tang, “The Cantonese Women Building Labourers: A Study of a Group of Sam-Sui Women in the Building Trade,” \[Unpublished research paper, Department of Social Studies, University of Malaya in Singapore, 1960\]
 
-C. L. Low, “40 Cents Rich,” in _[Singapore Life Lines](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12583818)_ (Singapore: Singapore Press Holdings, 2005), 8–15. (Call no. RSING q179.6 SIN)
+C.L. Low, “40 Cents Rich,” in _[Singapore Life Lines](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12583818)_ (Singapore: Singapore Press Holdings, 2005), 8–15. (Call no. RSING q179.6 SIN)
 
 Chan Kwee Sung, [_One More Story To Tell: Memories of Singapore, 1930s–1980s_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12460547) (Singapore: Landmark Books, 2005). (Call no. RSING 959.5705092 CHA)
 
@@ -163,7 +160,7 @@ Claire Chiang, “Female Migrants in Singapore: Towards a Strategy of Pragmatism
 
 Dhoraisingam S. Samuel, _[Singapore’s Heritage: Through Places of Historical Interest](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6252232)_ (Singapore: Elixir Consultancy Service, 1991). (Call no. RSING 959.57 SAM)
 
-E. P. Koo, “Stories of Two Samsui Women,” _[Nagapuspa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12712458)_ 6 (September–October 2006): 52–57. (Call no. RSING 294.305 N)
+E.P. Koo, “Stories of Two Samsui Women,” _[Nagapuspa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12712458)_ 6 (September–October 2006): 52–57. (Call no. RSING 294.305 N)
 
 “[Hongbao on Wheels Help Spread Festive Cheer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970203-1.2.7.4),” _Straits Times_, 3 February 1997, 3. (From NewspaperSG)
 
@@ -173,13 +170,13 @@ Jeff Partridge, _[Alexandra Hospital: From British Military to Civilian Institut
 
 Julie Kee, “[New Welfare Home To Be Training Centre Too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19961012-1.2.38.17),” _Straits Times_, 12 October 1996, 31. (From NewspaperSG)
 
-Kelvin E. Y. Low, “From Migrants to Pioneers: Heritage Appropriation and the Samsui Women in Singapore,” \[Paper presented at Mobile City Singapore, organised by the Asia Research Institute, and Faculty of Arts and Social Sciences, National University of Singapore, March 2007\]
+Kelvin E.Y. Low, “From Migrants to Pioneers: Heritage Appropriation and the Samsui Women in Singapore,” \[Paper presented at Mobile City Singapore, organised by the Asia Research Institute, and Faculty of Arts and Social Sciences, National University of Singapore, March 2007\]
 
-Kelvin E. Y. Low, “Moral Gatekeeping and Social Responsibility: Reflections on Doing Samsui Women Research,” _Tangent_ 6, no. 2 (2007): 93–105.
+Kelvin E.Y. Low, “Moral Gatekeeping and Social Responsibility: Reflections on Doing Samsui Women Research,” _Tangent_ 6, no. 2 (2007): 93–105.
 
 Kenneth Gaw, _[Superior Servants: The Legendary Cantonese Amahs of the Far East](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4773514)_ (Singapore: Oxford University Press, 1988). (Call no. RSING 331.481640460951 GAW)
 
-L. C. Lim, “Samsui Women: Women With a Will Stronger Than Iron,” in _[Down Memory Lane in Clogs: Growing Up in Chinatown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11472149)_, ed. Si Jing (Singapore: Asiapac Books, 2002), 225–37. (Call no. RSING 920.72 SI)
+L.C. Lim, “Samsui Women: Women With a Will Stronger Than Iron,” in _[Down Memory Lane in Clogs: Growing Up in Chinatown](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11472149)_, ed. Si Jing (Singapore: Asiapac Books, 2002), 225–37. (Call no. RSING 920.72 SI)
 
 Lily Kong, Brenda Yeoh and Peggy Teo, “Singapore and the Experience of Place in Old Age,” _Geographical Review_ 86, no. 4 (October 1996): 529–49. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
@@ -199,7 +196,7 @@ Singapore Contractors Association, “Tribute to Our History,” _[Contractor](h
 
 Suchen Christine Lim, _[Stories of the Chinese Overseas](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12278215)_ (Singapore: SNP editions, 2005). (Call no. RSING q909.04951 LIM)
 
-T. C. Chang and Shirlena Huang, “Recreating place, replacing memory: Creative destruction at the Singapore River,” [_Asia Pacific Viewpoint_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7806320) 46, no. 3 (December 2005): 267–80. (Call no. RSEA 950.05 APV)
+T.C. Chang and Shirlena Huang, “Recreating place, replacing memory: Creative destruction at the Singapore River,” [_Asia Pacific Viewpoint_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7806320) 46, no. 3 (December 2005): 267–80. (Call no. RSEA 950.05 APV)
 
 Tan Shzr Ee, “[We Built This City](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031214-1.2.56.2.1),” _Straits Times_, 14 December 2003, 2. (From NewspaperSG)
 
@@ -209,14 +206,14 @@ Thomas T.W. Tan, “Introduction to Chinese Culture, Dialect Groups and Their Tr
  
 #### **NOTES**
 
-[^1]: This paper forms a part of my ongoing Ph.D. research on social memory and historiography of samsui women in Singapore, and is a preliminary article written for general readership. I would like to thank Kevin Blackburn for his constructive comments on an earlier draft of the paper
+[^1]: This paper forms a part of my ongoing PhD research on social memory and historiography of *samsui* women in Singapore, and is a preliminary article written for general readership. I would like to thank Kevin Blackburn for his constructive comments on an earlier draft of the paper
 
 [^2]: Parliament of Singapore, _[Singapore Parliament Reports. Volume 77 (5th January 2004 to 19th May 2004)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12500659)_ (Singapore: Parliament, 2004). (Call no. RSING 328.595702 SIN)
 
 [^3]: In an article on Singapore’s greying community, samsui women were also described as “shrivelled and grey” (see Lim Yin Luen, “[Loneliness in the Twilight Years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950503-1.2.64.3.1),” _Straits Times_, 3 May 1995, 2. (From NewspaperSG)
 
-[^4]: See also, “[Hongbao on Wheels Help Spread Festive Cheer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970203-1.2.7.4),” _Straits Times_, 3 February 1997, 3. (From NewspaperSG) and “[Yusheng Lunch for 400 Senior Citizens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970131-1.2.7.6),” _Straits Times_, 31 January 1997, 3. (From NewspaperSG) in which samsui women were reported to have received red packets and food parcels from voluntary welfare associations, and been invited to a Lunar New Year Yusheng lunch hosted by the American International Assurance.
+[^4]: See also, “[Hongbao on Wheels Help Spread Festive Cheer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970203-1.2.7.4),” _Straits Times_, 3 February 1997, 3. (From NewspaperSG) and “[Yusheng Lunch for 400 Senior Citizens](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970131-1.2.7.6),” _Straits Times_, 31 January 1997, 3. (From NewspaperSG) in which *samsui* women were reported to have received red packets and food parcels from voluntary welfare associations, and been invited to a Lunar New Year *yusheng* lunch hosted by the American International Assurance.
 
 [^5]: These quotes are taken from a documentary produced in 1995 titled “An Immigrant’s Story: With Sweat, Tears and Toil – The Samsui Women” (Mediacorp News and Channel News Asia, Singapore).
 
-[^6]: A filmlet based on a samsui woman has recently been produced in conjunction with the 2007 National Day celebrations of Singapore’s 42nd anniversary of independence. In that clip, samsui woman Loke Tai Hoe was featured as having come from China in 1936, and after having worked for 42 years, her “efforts have finally paid off”, and she was seen sitting in the centre of a family portrait with her children and grandchildren.
+[^6]: A filmlet based on a samsui woman has recently been produced in conjunction with the 2007 National Day celebrations of Singapore’s 42nd anniversary of independence. In that clip, *samsui* woman Loke Tai Hoe was featured as having come from China in 1936, and after having worked for 42 years, her “efforts have finally paid off”, and she was seen sitting in the centre of a family portrait with her children and grandchildren.
