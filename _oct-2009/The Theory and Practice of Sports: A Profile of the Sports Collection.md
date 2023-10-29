@@ -25,7 +25,7 @@ With so much emphasis on the sports scene in Singapore today, this timely articl
 
 Sports professionals who are coaches, fitness instructors, personal trainers, physical education (PE) teachers, sports nutritionists, therapists, technicians and other specialists in the field have to be well versed in the scientific principles behind sports, understand how the human body functions and moves, and keep themselves updated on the latest research and developments. This knowledge of sports as both art and science enables them to help people improve their performance through the use of sporting equipment and ergogenic aids, the recommendation of new, improved and smarter training methods and plan diets that are tailored to the athlete’s specific training regime and sport.
 
-The sports collection at the Lee Kong Chian Reference Library caters to this information need with its range of materials on a broad spectrum of sports and exercise science topics:
+The sports collection at the Lee Kong Chian Reference Library caters to this information need with its range of materials on a broad spectrum of sports and exercise science topics.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b><i>Clinical Sports Nutrition</i></b><br>Burke, L. &amp; Deakin, V. (Eds.). Sydney: McGraw-Hill, 2006. Call no. R 613.2088796 CLI <br><br>
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/Sports/Clinical%20Sports.jpg">
