@@ -35,4 +35,4 @@ Librarian *Sundari Balasubramaniam* examines the strategic partnership between I
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue-3/oct-2009/national-library-customer-appreciation/">National Library Singapore Celebrates Customer Appreciation Day</a><br>Deputy Director *Low Kwee Fah* tells us about the celebrations at this year’s Customer Appreciation Day. [(PDF)](/files/pdf/vol-5/issue-3/v5-issue3_CustomerAppreciation.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue-3/oct-2009/mahani-awang-research-fellow/">Lee Kong Chian Research Fellow: Dr Mahani Binti Awang</a><br>The new Lee Kong Chian Research Fellow *Dr Mahani Binti Awang* shares her life story. [(PDF)](/files/pdf/vol-5/issue-3/v5-issue3_MahaniAwang.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-5/issue-3/oct-2009/mahani-awang-research-fellow/">Lee Kong Chian Research Fellow: Dr Mahani Awang</a><br>The new Lee Kong Chian Research Fellow *Dr Mahani Awang* shares her life story. [(PDF)](/files/pdf/vol-5/issue-3/v5-issue3_MahaniAwang.pdf)
