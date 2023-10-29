@@ -34,48 +34,32 @@ When I completed the book I felt a sense of satisfaction of having travelled lon
 
 #### **Singapore Publishing Scene**
 
-My second point is that this novel makes publishing history in Singapore for three main reasons: <br> i) The novel-writing scene has been quiet in Singapore for quite some time. For the past four years all the winners of the Singapore Literature Prize were poets. For a long while we were wondering: “Where have the novelists gone?”<br>ii) At the same time there has been no novel this long, and this interesting, published in Singapore. The only novel of significance that comes this close is *Shrimp People* written by Rex Shelly in 1991 and that was only 400 pages long.<br>iii) And perhaps a more significant reason is that *Paper Boat* is one of the few novels published in Singapore for the Asian and international markets. I recall that *Saint Jack* by Paul Theroux and *Tanamera* by Noel Barber and more recently several of Catherine Lim’s novels, all aimed at the international market, were published in London.
+My second point is that this novel makes publishing history in Singapore for three main reasons: <br> i) The novel-writing scene has been quiet in Singapore for quite some time. For the past four years all the winners of the Singapore Literature Prize were poets. For a long while we were wondering: “Where have the novelists gone?”<br>ii) At the same time there has been no novel this long and this interesting published in Singapore. The only novel of significance that comes this close is *Shrimp People* written by Rex Shelly in 1991 and that was only 400 pages long.<br>iii) And perhaps a more significant reason is that *Paper Boat* is one of the few novels published in Singapore for the Asian and international markets. I recall that *Saint Jack* by Paul Theroux and *Tanamera* by Noel Barber and more recently several of Catherine Lim’s novels, all aimed at the international market, were published in London.
 
-This is because Singapore serves as a hub for commerce, petrochemicals, transportation, computer generated graphics (CGI), TV-media linkup, etc, but not as a publishing hub like London or New York. What this novel does is to highlight the possibility that Singapore can also become a publishing hub, especially for fiction set in Asia. This novel would therefore draw the attention of other writers in Asia who would be encouraged to publish their novels in Singapore and international publishers like Flame of the Forest will be able to market them to the rest of the world. Alex Chacko the publisher needs to be congratulated for helping place Singapore in the literary map of the world.
+##### “It has been said that bad writing is unreadable and good writing is unread. In the case of Rajat’s <i>Paper Boat</i>, it is good writing that compels anyone who turns the first page to read on until the last line on page 782.”
+
+This is because Singapore serves as a hub for commerce, petrochemicals, transportation, computer-generated graphics (CGI), TV-media linkup, etc, but not as a publishing hub like London or New York. What this novel does is to highlight the possibility that Singapore can also become a publishing hub, especially for fiction set in Asia. This novel would therefore draw the attention of other writers in Asia who would be encouraged to publish their novels in Singapore and international publishers like Flame of the Forest will be able to market them to the rest of the world. Alex Chacko, the publisher, needs to be congratulated for helping place Singapore in the literary map of the world.
 
 
 #### **A Good Read**
 
 <img style="width:80%;" src="/images/Vol%205%20Issue%203/PaperBoat/1_Paper%20boat%20signing.jpg">
- <div style="background-color: white;">Autograph signing session by Rajat at Books Kinokuniya Singapore Main Store on 16 May 2009.</div>
+ <div style="background-color: white;">Autograph signing session by Rajat at Books Kinokuniya on 16 May 2009.</div>
 
 It has been said that bad writing is unreadable and good writing is unread. In the case of Rajat’s *Paper Boat*, it is good writing that compels anyone who turns the first page to read on until the last line on page 782. And what’s more, it makes publishing history in Singapore that is bound to position the city-state as one of the key centres of Asian fiction.
 
 *Paper Boat* is available for reference and loan at the National Library and its branches (Call no. RSING/SING S823 DAS).
 
 
-#### **About the Author of Paper Boat**
+#### **Rajat Das**
 
-Rajat Das, married with three children, invested a lifetime designing and developing heuristic tools of learning before embarking on *Paper Boat*. He grew up in India. A Singapore citizen, he lives with his wife Serene Choo and son Shomir. He’s an avid tennis and pool player.
+Married with three children, Rajat Das invested a lifetime designing and developing heuristic tools of learning before embarking on *Paper Boat*. Das is a Singapore citizen who grew up in India. He lives with his wife Serene Choo and son Shomir. He’s an avid tennis and pool player.
 
-     "Honestly, back even in school, Nalini had <br>
-      begun to realise that right from her birth a <br>
-     predestinating hand was guiding her. She <br>
-      was a paper boat, in the rough and rapid <br>
-      river of life, built by a chubby Godchild for his <br>      coarse amusement in heavy rain. She was the <br>      eponymous heroine of an adventure story. <br>
-      This boat would set sail with ease, complete <br>
-      a journey, enjoy thrills on the way, assimilate <br>
-     maritime knowledge, use that knowledge to <br>
-      work the next journey, and in this manner yaw <br>
-      and turn, to go on and on, smash, rise, smash, <br>
-      and up then again. <br>
-      This trip might perhaps be another of <br>
-      the treacherously exhilarating sojourns she would <br>
-     experience for a time, in ways few experienced <br>
-      them, and move on, only to fetch up at the next <br>
-      port of call. The divine beings up there had <br>
-     conjured up perhaps a legion of spare boats to <br> 
-      hand; what if the cause-and-effect hull sprang a <br>
-      leak now and then?" <br>
-        (Extracted from page 483–484, *Paper Boat*)
+<center>“Honestly, back even in school, Nalini had begun to realise that right from her birth a predestinating hand was guiding her. She was a paper boat, in the rough and rapid river of life, built by a chubby Godchild for his coarse amusement in heavy rain. She was the eponymous heroine of an adventure story. This boat would set sail with ease, complete a journey, enjoy thrills on the way, assimilate maritime knowledge, use that knowledge to work the next journey, and in this manner yaw and turn, to go on and on, smash, rise, smash, and up then again. <br><br>
+This trip might perhaps be another of the treacherously exhilarating sojourns she would experience for a time, in ways few experienced them, and move on, only to fetch up at the next port of call. The divine beings up there had conjured up perhaps a legion of spare boats to hand; what if the cause-and-effect hull sprang a leak now and then?” <br>(<i>Paper Boat</i>, pp. 483–484)
 
 <br>
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/R%20Ramachandran.jpg" style="width: 100px; height: 100px;">
-	<center><b>R Ramachandran</b><br>Executive Director<br> National Book Development Council of Singapore.</center></div>
+	<center><b>R. Ramachandran</b><br>Executive Director<br> National Book Development Council of Singapore</center></div></center>
