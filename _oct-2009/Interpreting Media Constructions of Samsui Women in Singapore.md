@@ -6,82 +6,82 @@ description: Lee Kong Chian Research Fellow Kelvin EY Low considers the
   constructions found in examples such as newspaper reports and popular history
   books.
 ---
-#### Lee Kong Chian Research Fellow&nbsp;_Kelvin EY Low_&nbsp;considers the different means through which&nbsp;_samsui_&nbsp;women are remembered vis-a-vis media constructions found in examples such as newspaper reports and popular history books.[^1]
+#### Lee Kong Chian Research Fellow *Kelvin E.Y. Low* considers the different ways in which *samsui* women are remembered in media constructions.[^1]
 
 <img style="width:100%;" src="/images/Vol%205%20Issue%203/SamsuiWomen/Samsui.jpg">
- <div style="background-color: white;">Samsui women on their way to their cleaning job at the Empress Place Building. <i>Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore.</i></div>
+ <div style="background-color: white;"><i>Samsui</i> women on their way to their cleaning job at the Empress Place Building. <i>Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Introduction**
 
 Migrating from southern China to Singapore in the early decades of the 20th century, *samsui* women have been routinely portrayed throughout Singapore’s history as among its pioneers who played a part in the building of the nation. In many avenues of social memory production based on *samsui* women, they have, more often than not, been presented in various ways as “pioneers”, “feminists” and “Cantonese women” who are set apart from other Chinese females in relation to their qualities of thrift, resilience and independence.
 
-This paper discusses the different means through which these women are remembered vis-a-vis media constructions found in such examples as newspaper reports and popular history books. These constructions of *samsui* women’s experiences are limited in view of their neglect of other dimensions in their everyday life experiences. Further issues are raised with regard to the need to reflect upon other avenues of memory-making in which we receive knowledge about these women, as well as how they are being remembered in both past and present contexts.
+This paper discusses the different means through which these women are remembered vis-à-vis media constructions found in such examples as newspaper reports and popular history books. These constructions of *samsui* women’s experiences are limited in view of their neglect of other dimensions in their everyday life experiences. Further issues are raised with regard to the need to reflect upon other avenues of memory-making in which we receive knowledge about these women, as well as how they are being remembered in both past and present contexts.
 
-#### ***Samsui* Women — A Brief Background**
+#### ***Samsui* Women – A Brief Background**
 
-*Samsui* women, or hong tou jin — translated literally as “red headscarf” (Lim, 2002) — came from peasant families in the *Samsui* area of the coastal province of Canton (Guangdong today) in China (Tang, 1960). These women often helped out and toiled in the fields at a very young age, and hence were able to find work at construction sites in Singapore when they left their homeland. This was primarily a result of the Alien Ordinance imposed on Singapore (then part of the Straits Settlements) by the British, which saw many *samsui* women migrating to Singapore in the 1930s (Lim, 2002). A quota was imposed on the numbers of male migrants entering Malaya, whereas no restrictions were enforced upon female migrants.
+*Samsui* women, or *hong tou jin* (literally “red headscarf”) (Lim, 2002), came from peasant families in the Samsui area of the coastal province of Canton (Guangdong today) in China (Tang, 1960). These women often helped out and toiled in the fields at a very young age, and hence were able to find work at construction sites in Singapore when they left their homeland. This was primarily a result of the Alien Ordinance imposed on Singapore (then part of the Straits Settlements) by the British, which saw many *samsui* women migrating to Singapore in the 1930s (Lim, 2002). A quota was imposed on the numbers of male migrants entering Malaya, whereas no restrictions were enforced upon female migrants.
 
-*Samsui* women went through a *sui haak* (middlemen) before securing a job in the building and construction industry overseas. One *samsui* woman for instance, paid 30 dollars to a *sui haak* to help her make the necessary arrangements to work overseas, which covered the fare for her journey, food and other migration procedures (Lim, 2002, p. 231). Tang (1960) estimates that between 1934 and 1938, about 190,000 women from China migrated to Malaya, and *samsui* women formed part of this wave of female migrants.
+*Samsui* women went through a *sui haak* (middlemen) before securing a job in the building and construction industry overseas. One *samsui* woman would paid 30 dollars to a *sui haak* to help her make the necessary arrangements to work overseas, which covered the fare for her journey, food and other migration procedures (Lim, 2002, p. 231). Tang (1960) estimates that between 1934 and 1938, about 190,000 women from China migrated to Malaya, and *samsui* women formed part of this wave of female migrants.
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/SamsuiWomen/Down%20memory%20lane%20in%20clogs.jpg">
-<div style="background-color: white;">All rights reserved, Asiapac Books, 2002.</div>
+<div style="background-color: white;"><i>All rights reserved, Asiapac Books, 2002.</i></div>
 
-The *samsui* female labourer was easily recognised and singled out by her distinctive red cloth headgear, black tunics and black pants (*samfoo*) which she wore to work every day (Lim, 2002, p. 230). Although the exact reason for donning the headgear is hitherto debatable, it is surmised that the first woman to wear it was Su Tong Po’s mistress in the Hakka district of China, by the name of Chao Yun (Lim, 2002). Through the passing of time, the headgear was adopted as the traditional headgear of Hakka women, who took along this tradition with them as they migrated south from China. Working alongside these Hakka women, *samsui* women also began to put on the red headgear to work. However, Lim (2002) points out that this account remains contested, and that the real reason and motivation for wearing the headgear is still not known.
+The *samsui* female labourer was easily recognised and singled out by her distinctive red cloth headgear, black tunic and black pants (*samfoo*) which she wore to work every day (Lim, 2002, p. 230). Although the exact reason for donning the headgear is hitherto debatable, it is surmised that the first woman to wear it was Su Tong Po’s mistress in the Hakka district of China, by the name of Chao Yun (Lim, 2002). Through the passing of time, the headgear was adopted as the traditional headgear of Hakka women, who took along this tradition with them as they migrated south from China. Working alongside these Hakka women, *samsui* women also began to put on the red headgear to work. However, Lim (2002) points out that this account remains contested, and that the real reason and motivation for wearing the headgear is still not known.
 
-*Samsui* women migrated to Singapore in the 1920s and 1930s. Some of them remained in Singapore, while others either passed on or returned to *Samsui*. In order to interpret media constructions of *samsui* women, the ensuing section will elucidate upon the ways through which these women are remembered vis-a-vis media memory-making channels.
+*Samsui* women migrated to Singapore in the 1920s and 1930s. Some of them remained in Singapore, while others either passed on or returned to Samsui. In order to interpret media constructions of *samsui* women, the ensuing section will elucidate upon the ways through which these women are remembered vis-à-vis media memory-making channels.
 
 #### **Cantonese/*Samsui* Women**
 
 <img style="width:100%;" src="/images/Vol%205%20Issue%203/SamsuiWomen/Presentation1.jpg">
- <div style="background-color: white;">(Left) All rights reserved, Landmark Books, c2004.  <br> (Right) All rights reserved, Oxford University Press, 1988.</div>
+ <div style="background-color: white;"><i>All rights reserved, Landmark Books, c2004; All rights reserved, Oxford University Press, 1988</i>.</div>
 
-Hailing from the *Samsui* province located in southern China, the women who typically worked in the construction industry are usually termed as *samsui* women, although some writers have pointed out that not all women who worked on construction sites came from *Samsui*. For instance, Chin and Singam note:
+Hailing from the Samsui province in southern China, the women who typically worked in the construction industry are usually termed as *samsui* women, although some writers have pointed out that not all women who worked on construction sites came from Samsui. For instance, Chin and Singam note:
 
-     “Indeed, it has become <br>     common for English <br>     speakers to refer to all <br>     still-surviving, old, single, <br>     immigrant Cantonese <br>     women as *Samsui *women. <br>     This lumps together, quite <br>     incorrectly, women from <br>     many districts — each <br>     distinct in sub-dialect and <br>     self-image.” <br>       (2004, p. 106)
+<center>“Indeed, it has become common for English speakers to refer to all still-surviving, old, single, immigrant Cantonese women as <i>Samsui</i> women. This lumps together, quite incorrectly, women from many districts – each distinct in sub-dialect and self-image.” (2004, p. 106)</center>
 
-     “Not all *Samsui* women <br>      came from the *Samsui* <br>      village in the Guangdong <br>      Province in China. <br>      But because of the <br>      preponderance of these <br>      women from *Samsui*, the <br>      term *Samsui* women has <br>      been used to describe <br>      all the Chinese women <br>     in similar occupations.” <br>       (2006, p. 40)
+A similar observation is also made by Yip:
 
-A more interesting point to note with regard to *samsui* women is their membership in the dialect group of the Cantonese. Framed as a “different and markedly independent category of Chinese women from the south” (Chin &amp; Singam 2004, p. 105), Cantonese women were known to be highly independent and feisty, and refused to, or rarely married (Chiang, 1994; Gaw, 1988; Samuel, 1991; Stockard, 1989; Tan, 1990; Topley, 1959).
+<center>“Not all <i>Samsui</i> women came from the Samsui village in the Guangdong Province in China. But because of the preponderance of these women from Samsui, the term <i>Samsui</i> women has been used to describe all the Chinese women in similar occupations.” (2006, p. 40)</center>
+
+A more interesting point to note with regard to *samsui* women is their membership in the dialect group of the Cantonese. Framed as a “different and markedly independent category of Chinese women from the south” (Chin &amp; Singam, 2004, p. 105), Cantonese women were known to be highly independent and feisty, and refused to or rarely married (Chiang, 1994; Gaw, 1988; Samuel, 1991; Stockard, 1989; Tan, 1990; Topley, 1959).
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/SamsuiWomen/Stories%20of%20Chinese%20Overseas.jpg">
- <div style="background-color: white;">All rights reserved, SNP Editions, c2005.</div>
+ <div style="background-color: white;"><i>All rights reserved, SNP Editions, c. 2005.</i></div>
 
-Along the lines of highlighting their Cantonese origin (see also, Kong et al., 1996), *samsui* women are also typically presented as emerging triumphant from hardships back in China, toiling in the fields, dealing with useless, opium-addicted husbands who were match-made to them in their teens, and being singled out as “strong-willed” (Lim, 2005, p. 141) or resilient (Chin &amp; Singam, 2004). Having framed *samsui* women as a group of independent Cantonese womenfolk, this approach becomes a useful resource for another level of representation, that of presenting them as “pioneers” and “feminists”, which I address next.
+Along the lines of highlighting their Cantonese origin (see also Kong et al., 1996), *samsui* women are also typically presented as emerging triumphant from hardships back in China, toiling in the fields, dealing with useless, opium-addicted husbands who were match-made to them in their teens, and being singled out as “strong-willed” (Lim, 2005, p. 141) or resilient (Chin &amp; Singam, 2004). Having framed *samsui* women as a group of independent Cantonese womenfolk, this approach becomes a useful resource for another level of representation, that of presenting them as “pioneers” and “feminists”, which I address next.
 
 #### **“Pioneers” and “Feminists”**
 
-Given the atypical work position of *samsui* women who toiled alongside men in the construction industry (and in other occupations), these women are often lauded and highlighted for their contributions to the physical infrastructure of Singapore’s built-up environment, so that “they are not forgotten as the early builders of our nation” (Chan, 2005, p. 59). Their roles in construction work see them involved in constructing landmark buildings such as, among others, Alexandra Hospital (Partridge, 1998), Meritus Mandarin Hotel, and Singapore Conference Hall, the last of which “is a site they helped erect way back in the 1960s” (Tan, 2003). Related to their pioneer status is that of claiming them as “Singapore’s first Asian feminist” (Tan, 2003), or “alpha women of yesteryear” (Yip, 2006, p. 41). Tan notes:
+Given the atypical work position of *samsui* women who toiled alongside men in the construction industry (and in other occupations), these women are often lauded and highlighted for their contributions to the physical infrastructure of Singapore’s built environment, so that “they are not forgotten as the early builders of our nation” (Chan, 2005, p. 59). Their roles in construction work see them involved in constructing landmark buildings such as, among others, Alexandra Hospital (Partridge, 1998), Meritus Mandarin Hotel and Singapore Conference Hall, the last of which “is a site they helped erect way back in the 1960s” (Tan, 2003). Related to their pioneer status is that of claiming them as “Singapore’s first Asian feminist” (Tan, 2003) or “alpha women of yesteryear” (Yip, 2006, p. 41). Tan (2003) notes:
 
-      “It is not just the obvious<br>     role she has played in the<br>     building of Singapore’s<br>     physical history, as<br>     testified by school<br>     textbooks and local soap<br>     operas. It is what she<br>     has come to stand for, as<br>     
-Singapore’s first<br>     Asian feminist.” (2003)
+<center>“It is not just the obvious role she has played in the building of Singapore’s physical history, as testified by school textbooks and local soap operas. It is what she has come to stand for, as Singapore’s first Asian feminist.”</center>
 
-Their link to feminism has also received a nod from former Nominated Member of Parliament, Dr Kanwaljit Soin, who praised *samsui* women at a Lunar New Year lunch:
+Their link to feminism has also received a nod from former Nominated Member of Parliament, Kanwaljit Soin, who praised *samsui* women at a Lunar New Year lunch:
 
-     “Singaporean women like to think we’ve achieved much<br>     in the past 30 years. But the *samsui* women set our<br>     direction when they came here 100 years ago (sic). I<br>     salute them as the original Asian feminists.”<br>        (*The Straits Times*, 5 February 2002)
+<center>“Singaporean women like to think we’ve achieved much in the past 30 years. But the <i>samsui</i> women set our direction when they came here 100 years ago [sic]. I salute them as the original Asian feminists.” (<i>The Straits Times</i>, 5 February 2002)</center>
 
 Similarly, *samsui* women have also been mentioned by another former Nominated Member of Parliament, Braema Mathiaparanam, who urged that some form of commemoration of these women should be carried out on National Day in order to remember their contributions.[^2]
 
 Apparently, the term “*samsui* women” hangs easily with those who talk about them as “pioneers” or “feminists”. Yet, such passing reverence or remembrances of these women are but limited glimpses of what we know about them and their life experiences. I discuss this further below, where I point out the utilisation of these terms upon the women by both the state and other institutions in furthering certain aims and goals.
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%203/SamsuiWomen/Women%20&amp;%20Chinese%20Patriarchy.jpg">
- <div style="background-color: white;">All rights reserved, Hong Kong University Press: Zed Books, 1994.</div>
+ <div style="background-color: white;"><i>All rights reserved, Hong Kong University Press: Zed Books, 1994.</i></div>
 
 #### **Elderly Women**
 
 Koo’s article, written based on two *samsui* women, tells of the women’s current position in their later years. Their frailty, vulnerability and helplessness are highlighted. The first *samsui* woman is Gui Jie, who was 92 at the time of the interview with Koo. She describes Gui Jie:
 
-     “Dressed in a grey blouse with flowers printed and black<br>     pants, her grey hair was short and tidy; her small frame<br>      somehow made the wheelchair appear to have plenty of<br>          room.” (2006, p. 56)
+<center>“Dressed in a grey blouse with flowers printed and black pants, her grey hair was short and tidy; her small frame somehow made the wheelchair appear to have plenty of room.” (2006, p. 56)</center>
  
 The other *samsui* woman is Di Jie, who was three years younger:
 
-     “Di Jie was temporarily staying at the Old People’s<br>      Home. As her application to the subsidy from the<br>     government and the daughter of her sister could no<br>      longer support her lodging fee of S$300 per month, Di<br>      Jie was trapped in a situation where no one could take<br>         
-care of her anymore…” (2006, p. 57)
+<center>“Di Jie was temporarily staying at the Old People’s Home. As her application to the subsidy from the government and the daughter of her sister could no longer support her lodging fee of S$300 per month, Di Jie was trapped in a situation where no one could take care of her anymore.” (2006, p. 57)</center>
 
 It is clear from Koo’s description of these two *samsui* ladies that she frames their current situation in a helpless and hapless manner, iterating their transition from being sturdy female construction workers to physically challenged elderly with little or no support.[^3]
 
 Similarly, in a local newspaper article, another *samsui* woman was mentioned as a recipient of home care help from a local organisation:
 
-     “She was once a robust *samsui* woman who could carry<br>     heavy loads effortlessly. But at the age of 89, just<br>      moving from her bed to her wheelchair is a challenge for<br>         Madam Heun Lin Yow.” (Chan, 2003)
+<center>“She was once a robust <i>samsui</i> woman who could carry heavy loads effortlessly. But at the age of 89, just moving from her bed to her wheelchair is a challenge for Madam Heun Lin Yow.” (Chan, 2003)</center>
 
 Additionally, *samsui* women have often been highlighted in the media as recipients of aid in various forms from charitable associations, receiving free medical checkups, being treated to Lunar New Year dinners and other special functions, among others (see Kee, 1996; Luo, 2005; Ramesh, 2006).[^4] In spite of their frailty, which is clearly a marked contrast from their earlier years, these women have often been presented as always incorporated into and remembered or noted and honoured for their contributions by society through such events as the Lunar New Year festivities, when special meals were provided for them.
 
@@ -220,5 +220,3 @@ Thomas T.W. Tan, “Introduction to Chinese Culture, Dialect Groups and Their Tr
 [^5]: These quotes are taken from a documentary produced in 1995 titled “An Immigrant’s Story: With Sweat, Tears and Toil – The Samsui Women” (Mediacorp News and Channel News Asia, Singapore).
 
 [^6]: A filmlet based on a samsui woman has recently been produced in conjunction with the 2007 National Day celebrations of Singapore’s 42nd anniversary of independence. In that clip, samsui woman Loke Tai Hoe was featured as having come from China in 1936, and after having worked for 42 years, her “efforts have finally paid off”, and she was seen sitting in the centre of a family portrait with her children and grandchildren.
-
-
