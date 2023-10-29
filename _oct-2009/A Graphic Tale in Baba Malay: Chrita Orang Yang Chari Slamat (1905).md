@@ -114,7 +114,7 @@ The story does not end here. In 1955, eight years after Shellabear’s death, hi
 
 Anak Singapura, “[Notes of the Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341212-1.2.38),” _Straits Times_, 12 December 1934, 10. (From NewspaperSG)
 
-C. M. Turnbull, _[A History of Singapore, 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_ (Singapore: Oxford Press, 1989). (Call no. RSING 959.57 TUR)
+C.M. Turnbull, _[A History of Singapore, 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_ (Singapore: Oxford University Press, 1989). (Call no. RSING 959.57 TUR)
 
 John Bunyan, _[Chrita Orang Yang Chari Slamat](https://eresources.nlb.gov.sg/printheritage/detail/152ef51f-0ad6-4647-ba6c-d4d207373799.aspx)_ (Singapore: American Mission Press, 1905). (From BookSG; call no. Malay RRARE 823.4 BUN; microfilm NL8790)
 
@@ -124,9 +124,9 @@ Robert Hunt, _[William Shellabear: A Biography](https://eservice.nlb.gov.sg/item
 
 &nbsp;“[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18870711-1.2.16),” _Straits Times_, 11 July 1887, 2. (From NewspaperSG)
 
-W. G. Shellabear, “Baba Malay: An Introduction to the Language of the Straits-Born Chinese,” _Journal of the Straits Branch of the Royal Asiatic Society_ no. 65 (December 1913): 49–63. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+W.G. Shellabear, “Baba Malay: An Introduction to the Language of the Straits-Born Chinese,” _Journal of the Straits Branch of the Royal Asiatic Society_ no. 65 (December 1913): 49–63. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-W. G. Shellabear, _The Life of the Reverend W. G. Shellabear, DD_, ed. and annotated Robert Hunt. (Unpublished)
+W.G. Shellabear, _The Life of the Reverend W. G. Shellabear, DD_, ed. and annotated Robert Hunt. (Unpublished)
 
 #### **NOTES**
 
@@ -136,16 +136,16 @@ W. G. Shellabear, _The Life of the Reverend W. G. Shellabear, DD_, ed. and annot
 
 [^3]: Song, 529.
 
-[^4]: W. G. Shellabear, _The Life of the Reverend W. G. Shellabear, DD_, ed. and annotated Robert Hunt, 37.
+[^4]: W.G. Shellabear, _The Life of the Reverend W. G. Shellabear, DD_, ed. and annotated Robert Hunt, 37.
 
 [^5]: Shellabear, _Reverend W. G. Shellabear,_ 37.
 
 [^6]: I was unable to find the translation by Keasberry or the earlier Javanese translations.
 
-[^7]: W. G. Shellabear, “Baba Malay: An Introduction to the Language of the Straits-Born Chinese,” _Journal of the Straits Branch of the Royal Asiatic Society_ no. 65 (December 1913): 49–63. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); John Bunyan, _[Chrita Orang Yang Chari Slamat](https://eresources.nlb.gov.sg/printheritage/detail/152ef51f-0ad6-4647-ba6c-d4d207373799.aspx)_ (Singapore: American Mission Press, 1905). (From BookSG; call no. Malay RRARE 823.4 BUN; microfilm NL8790)
+[^7]: W.G. Shellabear, “Baba Malay: An Introduction to the Language of the Straits-Born Chinese,” _Journal of the Straits Branch of the Royal Asiatic Society_ no. 65 (December 1913): 49–63. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); John Bunyan, _[Chrita Orang Yang Chari Slamat](https://eresources.nlb.gov.sg/printheritage/detail/152ef51f-0ad6-4647-ba6c-d4d207373799.aspx)_ (Singapore: American Mission Press, 1905). (From BookSG; call no. Malay RRARE 823.4 BUN; microfilm NL8790)
 
 [^8]: Shellabear was well aware of the use of these Hokkien terms and actually explained the different usage in both Baba Malay and vernacular Malay in his article Shellabear, “Baba Malay.”
 
 [^9]: Shellabear, _Reverend W. G. Shellabear,_ 37.
 
-[^10]: C. M. Turnbull, _[A History of Singapore, 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_ (Singapore: Oxford Press, 1989), 95. (Call no. RSING 959.57 TUR)
+[^10]: C.M. Turnbull, _[A History of Singapore, 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)_ (Singapore: Oxford University Press, 1989), 95. (Call no. RSING 959.57 TUR)
