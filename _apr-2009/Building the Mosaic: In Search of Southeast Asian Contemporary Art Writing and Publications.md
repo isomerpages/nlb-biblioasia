@@ -171,4 +171,4 @@ _[South East Asian Art: A New Spirit](https://eservice.nlb.gov.sg/item_holding.a
 
 Thavibu Gallery: Contemporary Art from Thailand, Vietnam and Burma (1998–), accessed 16 March 2007, https://www.thavibu.com/index.php.
 
-_The Substation Magazine_ (2007), accessed 16 March 2007, http://www.substation. org/mag/.
+_The Substation Magazine_ (2007), accessed 16 March 2007, http://www.substation.org/mag/.
