@@ -135,7 +135,7 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 
 <div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.<br><br>
 	<b>REFERENCE </b><br>
-	"<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)<br><br>
+	"<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)</div><br><br>
 	
 #### **Playing in the Olympics and the Malaya Cup**
 
@@ -214,4 +214,4 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 [^24]: “[Twinkle, Twinkle Little Star....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.1)”
 [^25]: “[Fandi on FAS Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20010325-1.2.5.13),” _Straits Times_, 25 March 2001, 2; Joe Dorai, “[Chia Named Manager Again](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19791108-1.2.124.10),” _Straits Times_, 8 November 1979, 33. (From NewspaperSG)
 [^26]: Sazali Abdul Aziz, “Football: Old Is Gold As Former Stars Return to Jalan Besar for Book Launch,” _Straits Times_, 31 August 2022, https://www.straitstimes.com/sport/football/football-old-is-gold-as-former-stars-return-to-jalan-besar-for-book-launch.
-[^27]: Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97.”</div>
+[^27]: Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97.”
