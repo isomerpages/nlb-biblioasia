@@ -1,5 +1,5 @@
 ---
-title: "Singapore's Got Talent: A Brief History of Talentime"
+title: "Singapore's Got Talent: When Talentime Ruled the Airwaves"
 permalink: /vol-19/issue-4/jan-mar-2024/talentime-history-singapore/
 description: Although Talentime has been replaced by reality talent contests, it
   will be remembered as a show that launched the musical careers of many
