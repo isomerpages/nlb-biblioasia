@@ -18,7 +18,7 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 3/Theemithi/hero_img_theemithi.jpg
   - infopic:
-      title: " The Salvation Army in Singapore"
+      title: The Salvation Army in Singapore
       subtitle: Local Icons
       id: infopic
       description: The history of the Salvation Army in Singapore goes back to at
@@ -49,7 +49,7 @@ sections:
       image: /images/Vol 19 Issue 4/6 William Lim/william-lim.png
       alt: Image alt text
   - infopic:
-      title: "Singapore's Got Talent: A Brief History of Talentime"
+      title: "Singapore's Got Talent: When Talentime Ruled the Airwavs"
       subtitle: Music
       id: infopic
       description: Although Talentime has been replaced by reality talent contests, it
