@@ -16,7 +16,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 2/Tok Sumang/heroimage-waksumang.jpg
+      background: /images/Vol 18 Issue 3/Theemithi/hero_img_theemithi.jpg
   - infopic:
       title: New Books on Singapore History (Jan 2024)
       subtitle: Literature
