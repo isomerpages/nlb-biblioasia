@@ -3,6 +3,13 @@ title: Local Icons
 permalink: /topics/local-icons/
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/salvation-army-singapore/">The Salvation Army in Singapore</a>
+The history of the Salvation Army in Singapore goes back to at least 1935.
+
+<img src="/images/Vol%2019%20Issue%204/Salvation%20Army/salvationarmy.jpg">
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank">The Making of the Monetary Authority of Singapore: How the MAS Became Singapore’s Central Bank</a>
 While the Monetary Authority of Singapore was established in 1971, it only became a full-fledged central bank some 30 years later.
 
