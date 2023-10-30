@@ -3,6 +3,17 @@ title: test-1
 permalink: /testinging/
 description: ""
 ---
+**<center>“There is no time more wasted than when a young fellow hangs bout his mother’s kitchen like a baby, neither knowing what poverty is, nor luxury, nor what is found in the world, an ignorance which is often the cause of his ruin.”[^1] <br>— Jan Huygen van Linschoten[^1]</center>**
+
+
+**<center>“There is no time more wasted than when a young fellow hangs bout his mother’s kitchen like a baby, neither knowing what poverty is, nor luxury, nor what is found in the world, an ignorance which is often the cause of his ruin.”[^1] <br>— Jan Huygen van Linschoten[^1]</center>**
+
+&gt; “There is no time more wasted than when a young fellow hangs bout his mother’s kitchen like a baby, neither knowing what poverty is, nor luxury, nor what is found in the world, an ignorance which is often the cause of his ruin.”[^1] <br>
+<p>— Jan Huygen van Linschoten[^1]
+
+
+
+
 <style>
     .box{position: relative;
         display: inline-block; }
@@ -18,7 +29,7 @@ description: ""
         color: #fff;
         width: 100%; }</style>
 
-<div class="box"> 
+</p><div class="box"> 
 <a href="/vol-17/issue-2/jul-sep-2021/murals" class="hovertext" title="Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Dahlia Shamsuddin has the inside story of how they came to be."><img style="float: left; width:100%; margin-bottom: 0.5em" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"></a> 
 <div class="text">  <p><b>The Forgotten Murals of Paya Lebar Airport</b></p> </div>
 </div>
