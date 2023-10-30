@@ -122,12 +122,12 @@ He finally returned to China only in 695 CE before his final passing in 713 CE, 
 
 #### **Contributions**
 
-The three accounts described the great Buddhist monasteries of India such as Nalanda, Vickramasila, Valabhi and Somapura. Nalanda in Bihar was one of the most famous institutions of learning in the Buddhist world from the seventh century until its destruction by Turushka invaders. All three monks documented the Buddhist monasteries as centres of learning with libraries of manuscripts. Xuanzang described the libraries of the Jetavana monastery at Buddhagaya as “richly furnished, not only with orthodox literature but also with Vedic and other non-Buddhistic works, and with treatises on the arts and sciences taught in India at the time.”
+The three accounts described the great Buddhist monasteries of India such as Nalanda, Vickramasila, Valabhi and Somapura. Nalanda in Bihar was one of the most famous institutions of learning in the Buddhist world from the seventh century until its destruction by Turushka invaders. All three monks documented the Buddhist monasteries as centres of learning with libraries of manuscripts. Xuanzang described the libraries of the Jetavana monastery at Buddhagaya as “richly furnished, not only with orthodox literature but also with Vedic and other non-Buddhistic works, and with treatises on the arts and sciences taught in India at the time”.
 
 <img src="/images/Vol%205%20Issue%202/JourneyWest/chasing%20the%20monk%20shadow.JPG" style="width:50%;">
  <div style="background-color: white;"><i>All rights reserved, Penguin, Viking, 2005.</i></div>
 
-All three travellers also gave a broad spectrum of perspectives on the different aspects of Buddhism, from its evolution to its decline in India. They also gave invaluable insights into the states and kingdoms of those times, and many of these kingdoms now remain only in such accounts.
+All three travellers also gave a broad spectrum of perspectives on the different aspects of Buddhism, from its evolution to its decline in India. They provided invaluable insights into the states and kingdoms of those times, and many of these kingdoms now remain only in such accounts.
 
 Archaeology may have unveiled some of the mysteries of these ancient kingdoms, such as Karashar and Kizil in the Gobi, or Borobodur in Java, but we can only imagine the days of their glory as the monks saw and described them.
 
@@ -135,7 +135,7 @@ With Yijing’s passing, the era of travel writing ended and would not become po
 
 From Faxian to Yijing, the travel accounts spanned a period of almost three centuries and gave a glimpse of the ages long removed by the sweep of history. Through their personalities and vivid descriptions, these writers have helped to bring those ages back to life. Perhaps more than anything else, they bring to us, at the beginning of the 21st century, the awareness of a rich and diverse Asian cultural heritage that has transcended time and place.
 
-***The author wishes to acknowledge the contributions of Dr Robert Knox, Former Keeper, Oriental &amp; Islamic Antiquities, The British Museum, in reviewing the paper***.
+<i>The author wishes to acknowledge the contributions of Dr Robert Knox, Former Keeper, Oriental &amp; Islamic Antiquities, The British Museum, in reviewing the paper.</i>
 
 <br>
 <div style="background-color: white;">
@@ -163,7 +163,7 @@ Richard B. Mather, “ Chinese and Indian Perceptions of Each Other Between the 
 
 Sukumar Dutt, [_Buddhist Monks and Monasteries of India: Their History and Their Contribution to Indian Culture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2335537) (London: G. Allen &amp; Unwin, 1963). (Call no. RUR 294.3657 DUT)
 
-_The Life of Xuanzang_, trans. S. B. K. Paul (London: Trench, Trubner &amp; Co., 1911)
+_The Life of Xuanzang_, trans. S.B.K. Paul (London: Trench, Trubner &amp; Co., 1911)
 
 Walter Liebenthal, “Chinese Buddhism During the 4th and 5th Centuries,” _Monumenta Nipponica_ 2, no. 1 (1955), 44–83. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
