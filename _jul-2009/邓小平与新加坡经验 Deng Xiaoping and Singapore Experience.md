@@ -6,7 +6,7 @@ description: Senior Library Vicky Gao highlights books and resources available
   Deng Xiao Ping and his 1978 visit to Singapore.
 image: /images/Vol 5 Issue 2/Deng Xiaopeng/leekuanyew3.jpg
 ---
-#### Senior Library&nbsp;_Vicky Gao_&nbsp;highlights books and resources available at the Lee Kong Chian Reference Library’s Chinese Collection on Chinese leader Deng Xiao Ping and his 1978 visit to Singapore.
+#### Senior Librarian *Vicky Gao* highlights books and resources available at the Lee Kong Chian Reference Library’s Chinese Collection on Chinese leader Deng Xiao Ping and his 1978 visit to Singapore.
 
 <img src="/images/Vol%205%20Issue%202/Deng%20Xiaopeng/leekuanyew3.jpg" style="width:80%;">
  <div style="background-color: white;"><i>1978年11月， 中国副总理邓小平莅临新加坡访问， 李光耀总理亲自到巴耶利峇机场迎接。 资料来源: 《庆祝新加坡-中国建交十周年纪念特刊》 版权所有: 新加坡新中友好协会, 中国中新友好协会, 2000.</i></div>
