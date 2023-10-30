@@ -18,6 +18,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 18 Issue 3/Theemithi/hero_img_theemithi.jpg
   - infopic:
+      title: " The Salvation Army in Singapore"
+      subtitle: Local Icons
+      id: infopic
+      description: The history of the Salvation Army in Singapore goes back to at
+        least 1935.
+      button: Acts of Charity
+      url: /vol-19/issue-4/jan-mar-2024/salvation-army-singapore/
+      image: /images/Vol 19 Issue 4/Salvation Army/salvationarmy.jpg
+      alt: Salvation Army
+  - infopic:
       title: New Books on Singapore History (Jan 2024)
       subtitle: Literature
       id: infopic
@@ -865,14 +875,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: " The Salvation Army in Singapore"
-      subtitle: Local Icons
-      id: infopic
-      description: The history of the Salvation Army in Singapore goes back to at
-        least 1935.
-      button: Acts of Charity
-      url: /vol-19/issue-4/jan-mar-2024/salvation-army-singapore/
-      image: /images/Vol 19 Issue 4/Salvation Army/salvationarmy.jpg
-      alt: Salvation Army
 ---
