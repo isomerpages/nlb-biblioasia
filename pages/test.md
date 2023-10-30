@@ -5,7 +5,6 @@ description: ""
 ---
 **<center>“There is no time more wasted than when a young fellow hangs bout his mother’s kitchen like a baby, neither knowing what poverty is, nor luxury, nor what is found in the world, an ignorance which is often the cause of his ruin.”[^1] <br>— Jan Huygen van Linschoten[^1]</center>**
 
-
 **<center>“There is no time more wasted than when a young fellow hangs bout his mother’s kitchen like a baby, neither knowing what poverty is, nor luxury, nor what is found in the world, an ignorance which is often the cause of his ruin.”[^1] <br>— Jan Huygen van Linschoten[^1]</center>**
 
 “There is no time more wasted than when a young fellow hangs bout his mother’s kitchen like a baby, neither knowing what poverty is, nor luxury, nor what is found in the world, an ignorance which is often the cause of his ruin.”[^1] <br>
@@ -14,6 +13,14 @@ description: ""
 
 &gt; &gt; “There is no time more wasted than when a young fellow hangs bout his mother’s kitchen like a baby, neither knowing what poverty is, nor luxury, nor what is found in the world, an ignorance which is often the cause of his ruin.”[^1] 
 <p>— Jan Huygen van Linschoten[^1]
+
+Linschoten was born in Haarlem, Netherlands, in 1563[^2] and as a young and “idle” man, he had been “addicted to see and travel”, his passion fed through “the reading of histories and strange adventures”.[^3] During Linschoten’s youth, Holland and Spain were often in conflict. Despite this, trade between the Dutch and the Spanish remained vibrant and Dutchmen frequently headed to Spain for employment or business. Among them were two of Linschoten’s brothers, followed inevitably by Linschoten who journeyed out when he was 17,[^4] travelling to Seville in a convoy of 80 ships. There Linschoten hoped to master the mariner’s lingua franca – Spanish – so that he could travel even further.
+
+
+
+
+	
+	
 	
 	
 	
