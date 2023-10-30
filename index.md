@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
-      button: " Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
+      button: "Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
         Firewalking"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
@@ -865,4 +865,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: " The Salvation Army in Singapore"
+      subtitle: Local Icons
+      id: infopic
+      description: The history of the Salvation Army in Singapore goes back to at
+        least 1935.
+      button: Acts of Charity
+      url: /vol-19/issue-4/jan-mar-2024/salvation-army-singapore/
+      image: /images/Vol 19 Issue 4/Salvation Army/salvationarmy.jpg
+      alt: Salvation Army
 ---
