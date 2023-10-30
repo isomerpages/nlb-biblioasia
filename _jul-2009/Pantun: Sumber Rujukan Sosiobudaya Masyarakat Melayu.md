@@ -7,7 +7,7 @@ description: Associate Librarian Juffri bin Supa’at shares how the pantun, the
   of life of the Malays.
 image: /images/Vol 5 Issue 2/Pantun/pantun melayu.jpg
 ---
-#### Associate Librarian *Juffri bin Supa’at* shares how the *pantun*, the traditional Malay verse or quatrain, is not just a manifestation of an aesthetic art form but also encapsulates and reflects the philosophy and way of life of the Malays.
+#### Associate Librarian *Juffri Supa’at* shares how the *pantun*, the traditional Malay verse or quatrain, is not just a manifestation of an aesthetic art form but also encapsulates and reflects the philosophy and way of life of the Malays.
 
 <i>Kalau pantun mengandung syarak, <br>Sampai kiamat ianya tegak. <br>Kalau pantun mengandung sunah, <br>Sampai kiamat takkan punah. <br>Kalau pantun mengandung adat, <br>Zaman-berzaman ia melekat. <br>Kalau pantun mengandung petuah, <br>Zaman-berzaman ia berfaedah. <br>Kalau pantun mengandung nasihat, <br>Turun-temurun memberi manfaat. <br>Kalau pantun mengandung amanah, <br>Sepanjang masa ia bertanah.</i>   <br>— Khazanah Pantun Melayu Riau, lvii
 
@@ -103,10 +103,14 @@ Selain itu terdapat juga perlakuan yang sumbang seperti yang digambarkan melalui
 
 Di dalam masyarakat Melayu, pantun mempunyai tempat yang istimewa dan sering ditonjolkan dalam kegiatan rasmi dan juga upacara adat dan tradisi. Penggunaan yang luas dan menyeluruh dalam kehidupan masyarakat Melayu sudah termaktub dan tercatat melalui pantun nasihat, pantun budi dan pantun adat dan agama yang menyampaikan nilai-nilai hidup bermasyarakat. Ia jelas tergambar melalui contoh-contoh pantun nasihat dan pantun budi berikut:
 
-Pantun Nasihat<br>  *Elok kayu kerana daunnya*,<br>  *Daun lebat tempat berteduh*<br>  *Elok Melayu kerana pantunnya*,<br>  *Pantun adat tempat bersuluh*.<br><br>  
+##### Pantun Nasihat
+
+*Elok kayu kerana daunnya*,<br>  *Daun lebat tempat berteduh*<br>  *Elok Melayu kerana pantunnya*,<br>  *Pantun adat tempat bersuluh*.<br><br>  
 *Elok kayu kerana daunnya*<br>  *Dahannya tinggi batangnya besar*;<br>  *Elok Melayu kerana pantunnya*,<br>  *Pantun berisi tunjuk ajar*.<br>  (Pantun nasehat, hlm. 15)<br><br>  
-*Teritip di tepi kota*, <br>   *Mari dikayu sampan pengail*; <br> *Imam khatib lagi berdosa*, <br>  *Bertambah pula kita yang jahil*. <br>  (A history of Classical Malay Literature, hlm 197)<br><br>  
-Pantun Budi <br> *Tinggi bukit gilang gemilang*,<br>  *Nampak dari si Tanjung Jati*,<br>  *Budi sedikit masakan hilang*,<br>  *Tetap dikenang sampai mati*.<br><br>
+*Teritip di tepi kota*, <br>   *Mari dikayu sampan pengail*; <br> *Imam khatib lagi berdosa*, <br>  *Bertambah pula kita yang jahil*. <br>  (A History of Classical Malay Literature, hlm 197)<br><br>  
+##### Pantun Budi 
+
+*Tinggi bukit gilang gemilang*,<br>  *Nampak dari si Tanjung Jati*,<br>  *Budi sedikit masakan hilang*,<br>  *Tetap dikenang sampai mati*.<br><br>
 *Budak-budak menumbuk padi*,<br>  *Padi huma dari Palembang*,<br> *Kalau hidup tidak berbudi*,<br>  *Tentu hina dipandang orang*.<br>  (1000 pantun dondang sayang, hlm 27)
 
 *Pulau Pandan jauh ke tengah*, <br>  *Di balik Pulau Angsa Dua*; <br>  *Hancur badan dikandung tanah*, <br>  *Budi yang baik dikenang jua*. <br>  (A History of Classical Malay Literature, hlm 197)
@@ -116,20 +120,21 @@ Perkataan budi mempunyai berbagai lapisan makna di dalam masyarakat Melayu. Makn
 <img src="/images/Vol%205%20Issue%202/Pantun/history%20of%20classical%20malay%20literature.jpg" style="width:50%;">
  <div style="background-color: white;"><i>All rights reserved, Oxford University Press, 1969.</i></div>
 
-#### **Pantun Adat dan Agama**
+##### **Pantun Adat dan Agama**
 
 Adat dan agama memainkan peranan utama dalam kehidupan masyarakat Melayu. Oleh itu, pantun-pantun berkenaan adat dan agama termaktub sebagai garis pandu yang membantu mengurus dan mengatur juga memahami falsafah kehidupan masyarakat Melayu umpamanya pantun berikut,
 
 *Lebat daun bunga tanjung*,<br>  *Berbau harum bunga cempaka*; <br>*Adat dijaga pusaka dijunjung*,<br>  *Baru terpelihara adat pusaka*.<br>  (Kumpulan pantun Melayu, hlm 44) <br> <br> 
-*Banyak bulan perkara bulan*,<br>  *Tidak semulia bulan puasa*<br> *Banyak Tuhan perkara Tuhan*<br>  *Tidak semulia Tuhan yang Esa*<br>  Kumpulan pantun Melayu, hlm 60)<br> <br> 
+*Banyak bulan perkara bulan*,<br>  *Tidak semulia bulan puasa*<br> *Banyak Tuhan perkara Tuhan*<br>  *Tidak semulia Tuhan yang Esa*<br>  (Kumpulan pantun Melayu, hlm 60)<br> <br> 
 *Hari ini hari Khamis*,<br>  *Besok hari Jumaat*; <br>*Barang siapa senyum dan manis*,<br>  *Itulah tanda umat Muhammad*.<br>  (Kumpulan pantun Melayu, hlm 61)
 
 Pantun-pantun ini menjelaskan peranan pantun sebagai wahana untuk “berpesan-pesan nilai-nilai luhur agama, budaya dan normanorma sosial masyarakatnya” (Tenas Effendy, 2005) dan “pembawa doa, hajat, harapan, nasihat, didikan, ajaran” (Muhammad Ariff Ahmad, 2004).
 
-#### **Pantun dan Alam Sekitar**
+##### **Pantun dan Alam Sekitar**
 
-Alam Melayu ini sudah barang tentu kaya dengan khazanah alam sama ada di darat ataupun di lautan. Keakraban masyarakat Melayu dengan alam ini jelas terpancar dalam pantun. Maka tidak hairanlah jika ia banyak menggambarkan persekitaran alam masyarakat yang melahirkannya. Tambahan, “alam terkembang” ini “dijadikan guru” dan banyak memberi pengajaran kepada masyarakat yang mengamatinya. <br> 
-   Sebagai contoh pantun-pantun ini,
+Alam Melayu ini sudah barang tentu kaya dengan khazanah alam sama ada di darat ataupun di lautan. Keakraban masyarakat Melayu dengan alam ini jelas terpancar dalam pantun. Maka tidak hairanlah jika ia banyak menggambarkan persekitaran alam masyarakat yang melahirkannya. Tambahan, “alam terkembang” ini “dijadikan guru” dan banyak memberi pengajaran kepada masyarakat yang mengamatinya.
+
+Sebagai contoh pantun-pantun ini,
  
 *Petir berdentum angin menderu*, <br>  *Hujan turun di laut dalam*; <br>  *Sudah ku tuntut petua guru*, <br>  *Berenang di laut macam di kolam*. <br>  (1000 pantun dondang sayang, hlm. 84) <br> <br>
 
@@ -137,11 +142,11 @@ Alam Melayu ini sudah barang tentu kaya dengan khazanah alam sama ada di darat a
 
 Pantun bukan sahaja mempunyai nilai seni yang indah bahkan merupakan sumber rujukan penting tentang keadaan sosial dan budaya masyarakat Melayu. Sebagaimana menurut R. O. Winstedt (1961), sekiranya seseorang yang membaca sastera rakyat seperti Awang Sulong Merah Muda dan Malim Deman dapat membantu ia memahami kehidupan dan adat istiadat masyarakat Melayu, maka sudah tentulah mereka yang dapat memahami pantun akan menyelami dan melihat dengan jelas ke dalam jiwa masyarakat itu. Hujah ini disokong oleh Daillie (1988), yang merumuskan bahawa pantun adalah ujaran pemikiran tamadun Melayu.
 
-“*The existence itself of the pantun for centuries – as the most popular and widespread mode of poetic expression, among other forms – has been the obvious evidence of the Malay people’s intellectual and artistic life, of their sense of beauty (the beauty of common, humble things, in everyday life), of their sensitiveness in general: an anonymous and oral form of poetry, original to the point that it is not to be found anywhere else on Earth, and only in a rather restricted area of the vast expanse of seas, islands and peninsula known as “the Malay world”; a form of poetry that is not the apanage of a few learned men only, but the common heritage of the people*.” (Daillie, 1988:150–151)
+“*The existence itself of the pantun for centuries – as the most popular and widespread mode of poetic expression, among other forms – has been the obvious evidence of the Malay people’s intellectual and artistic life, of their sense of beauty (the beauty of common, humble things, in everyday life), of their sensitiveness in general: an anonymous and oral form of poetry, original to the point that it is not to be found anywhere else on Earth, and only in a rather restricted area of the vast expanse of seas, islands and peninsula known as “the Malay world”; a form of poetry that is not the apanage of a few learned men only, but the common heritage of the people*.” (Daillie, 1988, pp. 150–51)
 
 Natijahnya, pantun harus terus dikaji kerana di dalam pantun terkandung pelbagai ilmu tentang lingkungan sosial dan budaya masyarakat Melayu. Maka bertepatanlah catatan ungkapan oleh Pak Tenas (2005) ini,
 
-   *Apa guna pantun dikaji*, <br>   *di dalamnya ada tuntunan budi*. <br>   *Pegangan hidup pedoman mati* <br>      *Meluruskan akan* <br>      *membersihkan hati* <br>      *Membaikkan akhlak* <br>      *mengelokkan pekerti* <br>     *supaya hidup tidak terkeji* <br>     *Bila mati rahmat menanti*. <br>     (Pantun Nasehat, hlm 58)
+<center><i>Apa guna pantun dikaji, <br>di dalamnya ada tuntunan budi. <br>Pegangan hidup pedoman mati<br>Meluruskan akan<br>membersihkan hati<br>Membaikkan akhlak<br>mengelokkan pekerti<br>supaya hidup tidak terkeji<br>Bila mati rahmat menanti. </i><br>(Pantun Nasehat, hlm 58)</center>
 
 <img src="/images/Vol%205%20Issue%202/Pantun/mari%20kita%20berpantun.JPG" style="width:50%;">
  <div style="background-color: white;"> <i>All rights reserved, Majlis Bahasa Melayu Singapura, 2004.</i></div>
@@ -149,14 +154,14 @@ Natijahnya, pantun harus terus dikaji kerana di dalam pantun terkandung pelbagai
 
 #### **Summary**
 
-*Pantun*, the traditional Malay verse or quatrains is not just a manifestation of an aesthetical art form but also encapsulates and reflects the philosophy and way of life of the Malays. As a cultural product that is widely used and practised at every level of the community, pantuns are important social and cultural sources of reference of the Malays.
+*Pantun*, traditional Malay verse or quatrains, is not just a manifestation of an aesthetic art form but also encapsulates and reflects the philosophy and way of life of the Malays. As a cultural product that is widely used and practised at every level of the community, *pantuns* are important social and cultural sources of reference of the Malays.
 
 
 <br>
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Juffri.jpg">
-<center><b>Juffri Supaat</b><br>Associate Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
+<center><b>Juffri Supa'at</b><br>Associate Librarian<br>Lee Kong Chian Reference Library<br>National Library</center></div>
 
 #### **RUJUKAN**
 
