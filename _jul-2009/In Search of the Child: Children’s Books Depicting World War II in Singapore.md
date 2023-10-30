@@ -136,12 +136,17 @@ One of the obvious conclusions that can be drawn is that while some efforts have
 She also warned that if “a country of a culture lacks such mirrors it has no way of knowing what it looks like; it must travel blind” (p. 16). We need our own literature, too, so that we may navigate this significant period of history, that we may better understand how and why those “few years generated racial tensions, poverty, corruption and a whole host of social evils” while at the same time serving as an eye-opener, as “the Japanese Occupation helped Singapore’s migrants to define the meaning of ‘home’” (Lee G.B., 2005, p. 333). Good fiction for children set during this period will not only help fill the void in this area, but will also go some way in helping to build up the corpus of Singaporean literature for children in English.
 
 <i>The author wishes to acknowledge the contributions of Dr Sandra Williams, Senior Lecturer, School of Education, University of Brighton, in reviewing the paper.</i>
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Khoo%20Sim%20Lyn.jpg">
+ <center><b>Khoo Sim Lyn</b><br>Lee Kong Chian Research Fellow <br> National Library </center></div>
 
 #### **REFERENCES**
 
 Aisha Akbar, [_Aisha Bee at War: A Very Frank Memoir_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5441635) (Singapore: Landmark Books, 1990). (Call no. RSING 959.57022 AIS)
 
-Andrew Tan Chee Khoon, _[Papa as a Little Boy Named Ah Khoon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13141198)_ (Singapore: Ring of Light Publishers, 2007). (Call no. RSING 959.5704092 TAN)
+Andrew Tan Chee Khoon, _[Papa As a Little Boy Named Ah Khoon](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13141198)_ (Singapore: Ring of Light Publishers, 2007). (Call no. RSING 959.5704092 TAN)
 
 Ang Seow Leng et al., [_Asian Renaissance: The Singapore and Southeast Asian &amp; Asian Children’s Collection Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12654419) (Singapore: National Library Board, Publishing &amp; Research Services, 2005). (Call no. RSING 025.21095957 ASS)
 
@@ -205,8 +210,3 @@ Yoshiko Uchida, _Desert Exile_ (Seattle: University of Washington Press, 1982)
 
 Yoshiko Uchida, _The Invisible Thread_ (New York: Beechtree, 1991)
 
-<br>
-<div style="background-color: white;">
-<br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Khoo%20Sim%20Lyn.jpg">
- <center><b>Khoo Sim Lyn</b><br>Lee Kong Chian Research Fellow <br> National Library </center></div>
