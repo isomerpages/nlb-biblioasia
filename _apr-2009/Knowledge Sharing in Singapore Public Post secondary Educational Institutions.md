@@ -126,7 +126,7 @@ Allan Luke, “The Future of Educational Research: Pragmatism, Alignment, Multid
 
 Bent Flyvbjerg, “Five Misunderstandings About Case-Study Research,” _Qualitative Inquiry_ 12, no. 2 (April 2006), 219–45.
 
-David Hargreaves, “The Production, Mediation and Use of Professional Knowledge Among Teachers and Doctors: A Comparative Analysis,” in _[Knowledge Management in the Learning Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10094269)_ (Paris: Organisation for Economic Co-operation and Development, 2000), 219–38. (Call no. RBUS q658.4038 KNO)
+David Hargreaves, “The Production, Mediation and Use of Professional Knowledge Among Teachers and Doctors: A Comparative Analysis,” in _[Knowledge Management in the Learning Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10094269)_ (Paris: Organization for Economic Cooperation and Development, 2000), 219–38. (Call no. RBUS q658.4038 KNO)
 
 Edward Sallis and Gary Jones, _Knowledge Management in Education: Enhancing Learning &amp; Education_ (UK: Kogan Page, 2002) &nbsp;
 
@@ -136,7 +136,7 @@ Manu Bhaskaran, Vikram Khanna and Tan Khee Giap, _[Report of The First Singapore
 
 Michael Fullan, Leading in a Culture of Change (San Francisco: Jossey-Bass, 2001)
 
-Organisation for Economic Co-operation and Development, _[Knowledge Management in the Learning Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10094269)_ (Paris: Organisation for Economic Co-operation and Development, 2000), 219–38. (Call no. RBUS q658.4038 KNO)
+Organization for Economic Cooperation and Development, _[Knowledge Management in the Learning Society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10094269)_ (Paris: Organization for Economic Cooperation and Development, 2000), 219–38. (Call no. RBUS q658.4038 KNO)
 
 “Presentation by Professor David Hargreaves”, Cambridge University (paper presented at the OECD de la Muette, Paris, 24 March 2004)
 
@@ -148,6 +148,6 @@ Robert K. Yin, _Applications of Case Study Research_, 34, 2nd ed. (Thousand Oaks
 
 “Statistics Digest Online,” Ministry of Education, accessed 8 May 2005, https://www.moe.gov.sg/.
 
-#### **NOTES**
+#### **NOTE**
 
 [^1]: The following databases were accessed: Academic Search Premier (via EbscoHOST), Australian Education Index, British Education Index, ERIC (via EbscoHOST), Education Research Complete (via EbscoHOST), Singapore’s National Institute of Education’s Dissertations and Theses Abstracts, ProQuest Dissertations and Theses, and ProQuest Education Journals.
