@@ -11,7 +11,7 @@ By Nick Aplin
 
 The _Manila Times_ called him “small but terrible”. Shanghai’s _North-China Daily News_ described him as a “spark-plug and a glutton for work”. Singapore’s _Sunday Tribune_ said he was as “swift as a hare, with brilliant ball control and unlimited stamina”.[^1]
 
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong2.jpg)
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong3.jpg)
 <div style="background-color: white;">Chia Boon Leong at the training ground of Hedon Football Club in London, 1954. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
 
 In a report of a 1948 match between Rovers S.C. and RAF Seletar, the _Malaya Tribune_ wrote that the year’s “most spectacular goal was scored by Chia Boon Leong. Receiving the ball near mid-field from \[Gan\] Kee Siang, he cleverly worked his way up the Seletar goal mouth, eluding three defenders on the way and when faced with the goalkeeper, deftly placed the ball into the net wide off him. The entire solo move was so neatly executed that the first to congratulate him were the Seletar defenders”.[^2]
