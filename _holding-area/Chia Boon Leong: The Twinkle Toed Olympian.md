@@ -52,6 +52,12 @@ In an interview with _New Nation_ in April 1975, Chia revealed that one of his f
 
 On 19 November 1947, Lien Hwa played Shanghai’s first-division champions Tung Hwa, beating them 5–3 in a match in Shanghai’s Canidrome stadium before a crowd of 12,000. Although Chia did not score a goal in the game, his performance caught everyone’s eye. The _China Press_ wrote that Chia “won the hearts of the fans and Tung Hwa players with his tireless game. He was almost in every movement, aiding the defence and forward-line and showed beyond doubt that he knew how to play the inside-forward berth more than well”.[^12]
 
+
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/lienhwafootballteam.jpg)
+<div style="background-color: white;">The Lien Hwa football team in Shanghai, 1947. They beat Shanghai’s first division champions Tung Hwa 5–3. Chia Boon Leong is in the front row second from right. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 The _North-China Daily News_ reported that Chia had won the admiration of local fans and described his stamina as amazing. “One minute he is seen helping his defence and the next one sees him rushing through the opposing halves and backs. Although Chia personally did not score a single point, he took part in almost every defence movement of his side”.[^13]
 
 Such was his performance that the crowd of presumably Tung Hwa supporters mobbed Chia as he left the stadium to head towards the bus. “They were so natural and spontaneous in their feelings. The crowds surged towards me in the stadium and I had to go out by another way. The police had to form a circle around me to let me through. I still flush with pride whenever I think of this incident,” he recalled. “It was once-in-a-lifetime feeling.”[^14]
