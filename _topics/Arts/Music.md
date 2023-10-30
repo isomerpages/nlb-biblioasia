@@ -4,7 +4,7 @@ permalink: /topics/arts/music/
 description: ""
 third_nav_title: Arts
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/talentime-history-singapore/">Singapore's Got Talent: A Brief History of Talentime</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/talentime-history-singapore/">Singapore's Got Talent: When Talentime Ruled the Airwaves</a>
 Although Talentime has been replaced by reality talent contests, it will be remembered as a show that launched the musical careers of many Singaporeans.
 
  <img src="/images/Vol%2019%20Issue%204/7%20Talentime/photo1%20-%20rev1.png">
@@ -32,5 +32,3 @@ In this extract from the book From Keroncong to Xinyao, the author looks at why 
 
 <img src="/images/Vol%2019%20Issue%202/SG%20Record%20Industry/image1.png">
 <hr>
-
-
