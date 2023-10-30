@@ -177,7 +177,7 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 |22| 11 December | Sing Tao | Lost | 5–0 |
 
 
-<div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.<br><br> "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>" <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)<br><br>
+<div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.<br><br> "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)<br><br>
 <b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
 	
 	
