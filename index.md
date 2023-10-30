@@ -9,8 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-2/jul-sep-2023/kampong-wak-sumang-punggol/
-      button: Remembering Punggol’s Kampong Wak Sumang
+      url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
+      button: " Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
+        Firewalking"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
