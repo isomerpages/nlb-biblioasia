@@ -2,12 +2,12 @@ collections:
   jan-to-mar-2024:
     output: true
     order:
-      - New Books on Singapore History.md
-      - Remembering William Lim.md
       - "Singapore's Got Talent: When Talentime Ruled the Airwaves.md"
       - The 1973 SEAP Games in Singapore.md
       - "Konfrontasi: Singapore’s Experience of an Undeclared War.md"
       - The Curious Visit of Qing Ambassadors to Singapore.md
       - The Salvation Army in Singapore.md
       - Restoring Classic Films from Asia.md
+      - Remembering William Lim.md
       - An Interview with Rachel Heng, Author of The Great Reclamation.md
+      - New Books on Singapore History.md
