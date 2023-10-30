@@ -1,6 +1,6 @@
 ---
 title: The Salvation Army in Singapore
-permalink: /holding-area/permalink/salvationarmytest1/
+permalink: /vol-19/issue-4/jan-mar-2024/salvation-army-singapore/
 description: The history of the Salvation Army in Singapore goes back to at least 1935.
 image: /images/Vol 19 Issue 4/Salvation Army/salvationarmy.jpg
 ---
@@ -42,11 +42,17 @@ Before long, the government was also calling on the Army to help with the distri
 
 The Army’s open-air services were held initially at the Esplanade, but it also had the use of the hall of the Young Men’s Christian Association in their Orchard Road premises during the rainy season.[^15] One popular location was the Municipal bandstand on Waterloo Street. In a town with few entertainment options at the time, such singing and loud music, albeit laced with preaching and calls to repent, would have attracted attention. The Army also took the opportunity to solicit donations at these services.
 
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/youngmenschristianassociation2b.jpg)
+<div style="background-color: white;">The Young Men's Christian Association&nbsp;in Orchard Road, 1930s. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
+
 However, in 1954 when the Army tried to resume its open-air services at the Esplanade, its application to the City Council was turned down. “The committee’s decision was a firm ‘no’ having regard to the number of religious sects in Singapore and the character of the Esplanade Walk,” reported the _Straits Budget_.[^16] The council was afraid that the Esplanade would turn into a “Hyde Park Corner”.[^17]
 
 #### **Homes for Boys and Girls**
 
 By 1936, the Army had two homes in operation. One was the Boys’ Industrial Home on Kim Keat Road, whose aim was to rehabilitate delinquent youths by teaching them employable skills such as woodwork and carpentry, giving them a basic command of English and guiding them on how to lead a good Christian life. In his opening speech, Lord said that by “taking boys off the streets, they were reducing the number of potential criminals and creating useful men of the future”.[^18]
+
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/kimkeatroad2.jpg)
+<div style="background-color: white;">The Boys’ Industrial Home on Kim Keat Road opened on 28 November 1936. <i>Source: The Straits Times, 29 November 1936 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 In March 1937, the home moved to new premises at 151 Thomson Road to accommodate more boys.[^19] A separate remand home subsequently opened in the same building to house boys convicted of juvenile offences.[^20]
 
@@ -58,19 +64,23 @@ Tan Beng Neo, a resident of the Women’s Industrial Home, who later became a so
 
 The Women’s Industrial Home moved to 319 River Valley Road in 1937, where it began taking in orphans and young children whose families were unable to care for them. The numbers grew to such an extent that a Children’s Home was set up, first in a house on Upper Wilkie Road and subsequently a mansion on Pasir Panjang Road to accommodate the larger numbers.[^25]
 
-![](/images/Vol%2019%20Issue%204/Salvation%20Army/industrialhome.jpg)
-<div style="background-color: white;">The Girls’ Industrial Home on Pasir Panjang Road, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 During the Japanese Occupation, one of the temporary premises occupied by the Women’s Industrial Home was 30 Oxley Road, which was next to a Japanese military brothel at 26 Oxley Road.[^26] The home found a more permanent location at 381 Pasir Panjang Road in 1959. The Army, with help from the Rotary Club, had bought two adjoining houses in 1957 and converted them into a new girls’ home.[^27]
 
-![](/images/Vol%2019%20Issue%204/Salvation%20Army/minister.jpg)
-<div style="background-color: white;">Minister for Culture and Social Affairs Othman Wok (second from left) visiting the Girls’ Industrial Home in Pasir Panjang, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/industrialhome.jpg)
+<div style="background-color: white;">The Girls’ Industrial Home on Pasir Panjang Road, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Not all the girls in the Women’s Home were rescued from prostitution or prison. The aforementioned Tan Beng Neo was a young probationary nurse who had run away from home after a violent disagreement with her parents. Seeking help, she went to the Mount Sophia home of the principal of Methodist Girls’ School, Tan’s former school. The principal took Tan to the Women’s Home on Paterson Road.
 
 Tan, a self-taught seamstress, made herself useful at the home by teaching the other residents how to sew. The Army took over the sponsorship of her nurse’s training and paid the $25 for her midwife’s certificate when she completed the course.[^28]
 
 The young women were taught basic English, domestic work, sewing and needlework. And like the boys, jobs were found for them once they became employable as well as marriage partners. To ensure that the young women were not exploited once they left the home, potential employers and marriage partners were thoroughly screened.
+
+
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/minister.jpg)
+<div style="background-color: white;">Minister for Culture and Social Affairs Othman Wok (second from left) visiting the Girls’ Industrial Home in Pasir Panjang, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+![](/images/Vol%2019%20Issue%204/Salvation%20Army/othmanwok2.jpg)
+<div style="background-color: white;">Othman Wok (extreme right) at the&nbsp;Girls’ Industrial Home in Pasir Panjang, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Although the colonial government gave the Army subsidies for the homes it ran, the money was never enough and there were regular appeals for donations. The residents in the homes were engaged in making a variety of handicrafts for sale to raise more funds for expenses. However, the iconic Salvation Army Christmas kettle complete with bell ringers, seen in front of malls all over the world to raise money during the Christmas season, was only introduced to Singapore in December 1988.[^29]
 
@@ -172,7 +182,7 @@ Today, the Salvation Army in Singapore runs a host of programmes for children an
 [^33]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e4593a06-115d-11e3-83d5-0050568939ad-OHC000371_010/web/html5/index.html), oral history interview, 4 April 1984, Reel/Disc 10 of 26, 135.
 [^34]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e4593a06-115d-11e3-83d5-0050568939ad-OHC000371_010/web/html5/index.html), oral history interview, 4 April 1984, Reel/Disc 10 of 26, 137.
 [^35]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e4593a06-115d-11e3-83d5-0050568939ad-OHC000371_010/web/html5/index.html), oral history interview, 4 April 1984, Reel/Disc 10 of 26, 143.
-[^36]: Tan Beng Neo, oral history interview, 4 April 1984, Reel/Disc 12 of 26, 25:14 mins.
+[^36]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000371), oral history interview, 4 April 1984, Reel/Disc 12 of 26, 25:14 mins.
 [^37]: Ho and Wee, [_Social Services_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202686062), 45.
 [^38]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e79ebfed-115d-11e3-83d5-0050568939ad-OHC000371_017/web/html5/index.html), oral history interview, 17 April 1984, Reel /Disc 17 of 26, 250.
 [^39]: [Tan Beng Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e868dbbc-115d-11e3-83d5-0050568939ad-OHC000371_021/web/html5/index.html), oral history interview, 24 April 1984, Reel/Disc 21 of 26, 316.

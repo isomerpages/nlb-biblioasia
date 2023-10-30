@@ -9,13 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-2/jul-sep-2023/kampong-wak-sumang-punggol/
-      button: Remembering Punggol’s Kampong Wak Sumang
+      url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
+      button: "Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
+        Firewalking"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 2/Tok Sumang/heroimage-waksumang.jpg
+      background: /images/Vol 18 Issue 3/Theemithi/hero_img_theemithi.jpg
+  - infopic:
+      title: " The Salvation Army in Singapore"
+      subtitle: Local Icons
+      id: infopic
+      description: The history of the Salvation Army in Singapore goes back to at
+        least 1935.
+      button: Acts of Charity
+      url: /vol-19/issue-4/jan-mar-2024/salvation-army-singapore/
+      image: /images/Vol 19 Issue 4/Salvation Army/salvationarmy.jpg
+      alt: Salvation Army
   - infopic:
       title: New Books on Singapore History (Jan 2024)
       subtitle: Literature
