@@ -168,7 +168,7 @@ Tay Thiam Chye, “Rethinking Dominant Party Defection: The Dual Coalition Dynam
 
 [^4]: Factional defection in this work differs from the more commonly occurring party defections from the opposition parties and minority ruling parties.
 
-[^5]: Mainstream factions are groups within the dominant party, which mainly control the mechanisms of the dominant party while the non-mainstream factions are the opposing group of factions within the dominant party. For details of the model and research design, see (Horiuchi and Tay, 2004; Tay, 2005).
+[^5]: Mainstream factions are groups within the dominant party, which mainly control the mechanisms of the dominant party while the non-mainstream factions are the opposing group of factions within the dominant party. For details of the model and research design, see Horiuchi and Tay (2004) and Tay (2005).
 
 [^6]: Coordination failure can be failure to form a coalition or the failure to agree on a common prime minister candidate among the opposition parties. Generally, parliaments need to hold a vote to choose the prime minister after the elections.
 
