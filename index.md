@@ -60,7 +60,7 @@ sections:
       image: /images/Vol 19 Issue 4/7 Talentime/photo1 - rev1.png
       alt: A Brief History of Talentime
   - infopic:
-      title: A Brief History of John Little at Raffles Place
+      title: A Short History of John Little at Raffles Place
       subtitle: Places and buildings
       id: infopic
       description: A look back at John Little’s 170-year history and the lasting mark
