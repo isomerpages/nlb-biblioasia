@@ -85,7 +85,7 @@ The GROs were structured hierarchically. At the constituency level, there was a 
 
 Since independence, the Singapore government believed that community issues needed to be managed by the community members themselves, and transferred some of the powers of the government agencies to the grassroots organisations, which formed the bases of the GROs’ system. GROs became a pillar of the PAP government and part of PAP’s political strategy. Over the years, many national movements, such as the National Courtesy Campaign and National Clean-up Campaign, were successfully implemented with the help of GROs. GROs drew on the traditional attitudes of community leaders and the assistance of community volunteers to form a network of organisations, and offered accessible venues and facilities for interaction and community services.
 
-#### **Institutionalisation of Grassroots Organisations**
+##### **Institutionalisation of Grassroots Organisations**
 
 Most of the challenges facing the communities required locally driven and creative solutions rather than a heavy-handed top-down approach of traditional government bureaucracies and programmes. GROs were community-based NGOs that were closely linked to the government. The GRO volunteers were residents who were energetic, passionate and proposed activities, initiatives, services and processes to address the social and economic challenges faced by their communities.
 
