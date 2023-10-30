@@ -62,50 +62,6 @@ The _North-China Daily News_ reported that Chia had won the admiration of local 
 
 Such was his performance that the crowd of presumably Tung Hwa supporters mobbed Chia as he left the stadium to head towards the bus. “They were so natural and spontaneous in their feelings. The crowds surged towards me in the stadium and I had to go out by another way. The police had to form a circle around me to let me through. I still flush with pride whenever I think of this incident,” he recalled. “It was once-in-a-lifetime feeling.”[^14]
 
-#### **Playing in the Olympics and the Malaya Cup**
-
-Partly as a result of these performances, Chia was selected to represent China at the 1948 London Olympic Games. At the time, although a British subject, under China’s rules, he was still considered a Chinese player by dint of his ethnicity.
-
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/age50b.jpg)
-<div style="background-color: white;">Chia Boon Leong, age 50, in China’s Olympic football team jersey, 1975. He represented China in the 1948 London Olympics. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
-
-Though the China team eventually lost 4–0 to Turkey on 2 August 1948, Chia “created a favourable impression with his speed and methodical play” and “had a grand time in London”. “The game was played at a terrific pace. The Turks were much bigger built than us. They were able to score only once in the first half,” Chia told the _Straits Times_ on his return. During the match, centre forward Chu Wing Keung sustained an injury and the team played with just 10 men in the second half. The heavy rain made matters worse for the Chinese.[^15] The 4–0 loss was no disgrace.
-
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chinaolympicfootball.jpg)
-<div style="background-color: white;">The China Olympic football team prior to their game against Turkey in London in 1948. Chia Boon Leong is second from left. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
-
-
-The _Malaya Tribune_ reported that Chia’s photo appeared twice in the London newspapers, and that Chia “came for special mention for his speed, tricky and constructive play”. While in London, Chia also shook hands with the king and queen of England at a royal reception for athletes.[^16]
-
-After the Olympics, Chia continued to play for Singapore. The Malaya Cup resumed in 1948 with a combination of prewar veterans and new blood. That year, the Singapore team failed to reach the final, being eclipsed by Negeri Sembilan,[^17] but Chia showed his usual mettle.
-
-After suffering from a brief loss of confidence in 1949, Chia bounced back to claim a place in the All-Singapore team – a squad that included British Services players and local players. He then went on to play a pivotal role in Singapore’s successful bid in recapturing the Malaya Cup in 1950. “The first goal by Chia Boon Leong was as unexpected by Singapore supporters as it was by the Penang goalkeeper,” reported the _Singapore Standard_.[^18] It was the first time Singapore had won the cup in nine years. Chia also helped Singapore retain the trophy in 1951 and 1952.[^19]
-
-In May 1954, Chia was a member of the team representing Singapore at the second Asian Games in Manila.[^20] In August later that year, he was voted the most popular footballer in Malaya in a nationwide competition sponsored by Fraser and Neave, and won a two-month training stint with the London County Council College of Physical Education and Arsenal Football Club.[^21]
-
-
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/highburytraining.jpg)
-<div style="background-color: white;">Chia Boon Leong (right) and Edwin Dutton (left) chatting with Arsenal’s inside left, Jimmy Logie, at the Highbury training ground in 1954. Chia and Dutton were the winner and runner-up respectively of a Fraser and Neave competition to select Malaya’s most popular footballer. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
-
-
-Sadly, in February 1956, the _Singapore Standard_ reported that Chia will “definitely not play for Singapore in this year’s Malaya Cup soccer matches”. “I have been playing soccer from the age of ten, but now I find it does not hold the same appeal for me as it did before,” Chia said.[^22] He had just turned 31 at the time.
-
-He then devoted time to his family and his career as a financial executive with Rediffusion.[^23] In a 1975 interview, Chia agreed that he could have continued to play for a few more years. “But, somehow, I couldn’t get over the feeling that it was better to beat a graceful exit than to be booed out of Jalan Besar Stadium,” he said. “I realised that I was losing a bit of my touch and I didn’t want to give any occasion for the crowd to get fed up with me,” he added.[^24]
-
-#### **Post-Retirement Career**
-
-Chia did not give up football entirely though. In 1974, he was made a council member of the Football Association of Singapore, and in 1978 he was appointed manager of the Singapore soccer team, a role he held briefly.[^25] In August 1978, Chia participated in a goodwill tour to the Soviet Union under the Cultural Exchange Programme. In the party was a young Fandi Ahmad.
-
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/goodwilltour2.jpg)
-<div style="background-color: white;">Chia Boon Leong (third row, extreme right) on a goodwill tour to the Soviet Union under the Cultural Exchange Programme, 1978. Fandi Ahmad is in the second row, second from left. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
-
-
-I am honoured to say that I knew Chia personally. I first met him about 20 years ago at a service at Barker Road Methodist Church and I recognised him from afar. He was his mid-70s by then, and I recall that he was dressed very sharply. I approached him and he cheerfully confirmed his identity.
-
-Once we made the football connection, it did not take long before my wife and I were invited to his home for homemade _kueh_ (cake) and to talk about soccer. We would pore over his photo albums and newspaper clippings. He was very proud that he had represented Singapore at the 1954 Asian Games and China at the 1948 London Olympics. At the same time, he was very humble as well. That was one enduring quality of his.
-
-Remarkably, even in the last months before his death at 97, Chia still led an active life. On 31 August 2022, he attended the launch of the book, _Roar: Football Legends of Singapore_, at Jalan Besar Stadium where a plaster cast of his left foot was unveiled.[^26] Chia died of pneumonia on 20 December that year. He is survived by his wife Lily Lim and their three sons. Writing on Facebook, his second son Tony said: “Despite his failing health, (dad) was very concerned for my mum, telling her he was sad to be leaving her. We will miss him dearly, especially at family gatherings. I will have no expert to watch football games with any more.”[^27]
-
 
 #### **THE LIEN HWA TOUR (1947)**
 
@@ -177,8 +133,56 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 |22| 11 December | Sing Tao | Lost | 5–0 |
 
 
-<div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.<br><br> "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)<br><br>
-<b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
+<div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.<br><br>
+	<b>REFERENCE </b><br>
+	"<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)<br><br>
+	
+#### **Playing in the Olympics and the Malaya Cup**
+
+Partly as a result of these performances, Chia was selected to represent China at the 1948 London Olympic Games. At the time, although a British subject, under China’s rules, he was still considered a Chinese player by dint of his ethnicity.
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/age50b.jpg)
+<div style="background-color: white;">Chia Boon Leong, age 50, in China’s Olympic football team jersey, 1975. He represented China in the 1948 London Olympics. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+
+Though the China team eventually lost 4–0 to Turkey on 2 August 1948, Chia “created a favourable impression with his speed and methodical play” and “had a grand time in London”. “The game was played at a terrific pace. The Turks were much bigger built than us. They were able to score only once in the first half,” Chia told the _Straits Times_ on his return. During the match, centre forward Chu Wing Keung sustained an injury and the team played with just 10 men in the second half. The heavy rain made matters worse for the Chinese.[^15] The 4–0 loss was no disgrace.
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chinaolympicfootball.jpg)
+<div style="background-color: white;">The China Olympic football team prior to their game against Turkey in London in 1948. Chia Boon Leong is second from left. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+The _Malaya Tribune_ reported that Chia’s photo appeared twice in the London newspapers, and that Chia “came for special mention for his speed, tricky and constructive play”. While in London, Chia also shook hands with the king and queen of England at a royal reception for athletes.[^16]
+
+After the Olympics, Chia continued to play for Singapore. The Malaya Cup resumed in 1948 with a combination of prewar veterans and new blood. That year, the Singapore team failed to reach the final, being eclipsed by Negeri Sembilan,[^17] but Chia showed his usual mettle.
+
+After suffering from a brief loss of confidence in 1949, Chia bounced back to claim a place in the All-Singapore team – a squad that included British Services players and local players. He then went on to play a pivotal role in Singapore’s successful bid in recapturing the Malaya Cup in 1950. “The first goal by Chia Boon Leong was as unexpected by Singapore supporters as it was by the Penang goalkeeper,” reported the _Singapore Standard_.[^18] It was the first time Singapore had won the cup in nine years. Chia also helped Singapore retain the trophy in 1951 and 1952.[^19]
+
+In May 1954, Chia was a member of the team representing Singapore at the second Asian Games in Manila.[^20] In August later that year, he was voted the most popular footballer in Malaya in a nationwide competition sponsored by Fraser and Neave, and won a two-month training stint with the London County Council College of Physical Education and Arsenal Football Club.[^21]
+
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/highburytraining.jpg)
+<div style="background-color: white;">Chia Boon Leong (right) and Edwin Dutton (left) chatting with Arsenal’s inside left, Jimmy Logie, at the Highbury training ground in 1954. Chia and Dutton were the winner and runner-up respectively of a Fraser and Neave competition to select Malaya’s most popular footballer. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+Sadly, in February 1956, the _Singapore Standard_ reported that Chia will “definitely not play for Singapore in this year’s Malaya Cup soccer matches”. “I have been playing soccer from the age of ten, but now I find it does not hold the same appeal for me as it did before,” Chia said.[^22] He had just turned 31 at the time.
+
+He then devoted time to his family and his career as a financial executive with Rediffusion.[^23] In a 1975 interview, Chia agreed that he could have continued to play for a few more years. “But, somehow, I couldn’t get over the feeling that it was better to beat a graceful exit than to be booed out of Jalan Besar Stadium,” he said. “I realised that I was losing a bit of my touch and I didn’t want to give any occasion for the crowd to get fed up with me,” he added.[^24]
+
+#### **Post-Retirement Career**
+
+Chia did not give up football entirely though. In 1974, he was made a council member of the Football Association of Singapore, and in 1978 he was appointed manager of the Singapore soccer team, a role he held briefly.[^25] In August 1978, Chia participated in a goodwill tour to the Soviet Union under the Cultural Exchange Programme. In the party was a young Fandi Ahmad.
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/goodwilltour2.jpg)
+<div style="background-color: white;">Chia Boon Leong (third row, extreme right) on a goodwill tour to the Soviet Union under the Cultural Exchange Programme, 1978. Fandi Ahmad is in the second row, second from left. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+I am honoured to say that I knew Chia personally. I first met him about 20 years ago at a service at Barker Road Methodist Church and I recognised him from afar. He was his mid-70s by then, and I recall that he was dressed very sharply. I approached him and he cheerfully confirmed his identity.
+
+Once we made the football connection, it did not take long before my wife and I were invited to his home for homemade _kueh_ (cake) and to talk about soccer. We would pore over his photo albums and newspaper clippings. He was very proud that he had represented Singapore at the 1954 Asian Games and China at the 1948 London Olympics. At the same time, he was very humble as well. That was one enduring quality of his.
+
+Remarkably, even in the last months before his death at 97, Chia still led an active life. On 31 August 2022, he attended the launch of the book, _Roar: Football Legends of Singapore_, at Jalan Besar Stadium where a plaster cast of his left foot was unveiled.[^26] Chia died of pneumonia on 20 December that year. He is survived by his wife Lily Lim and their three sons. Writing on Facebook, his second son Tony said: “Despite his failing health, (dad) was very concerned for my mum, telling her he was sad to be leaving her. We will miss him dearly, especially at family gatherings. I will have no expert to watch football games with any more.”[^27]
+
+
+<div style="background-color: white;"><b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
 	
 	
 
@@ -210,4 +214,4 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 [^24]: “[Twinkle, Twinkle Little Star....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.1)”
 [^25]: “[Fandi on FAS Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20010325-1.2.5.13),” _Straits Times_, 25 March 2001, 2; Joe Dorai, “[Chia Named Manager Again](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19791108-1.2.124.10),” _Straits Times_, 8 November 1979, 33. (From NewspaperSG)
 [^26]: Sazali Abdul Aziz, “Football: Old Is Gold As Former Stars Return to Jalan Besar for Book Launch,” _Straits Times_, 31 August 2022, https://www.straitstimes.com/sport/football/football-old-is-gold-as-former-stars-return-to-jalan-besar-for-book-launch.
-[^27]: Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97.”
+[^27]: Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97.”</div>
