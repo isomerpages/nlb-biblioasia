@@ -49,7 +49,7 @@ sections:
       image: /images/Vol 19 Issue 4/6 William Lim/william-lim.png
       alt: Image alt text
   - infopic:
-      title: "Singapore's Got Talent: When Talentime Ruled the Airwavs"
+      title: "Singapore's Got Talent: When Talentime Ruled the Airwaves"
       subtitle: Music
       id: infopic
       description: Although Talentime has been replaced by reality talent contests, it
