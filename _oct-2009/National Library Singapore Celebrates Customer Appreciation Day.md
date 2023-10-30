@@ -7,7 +7,7 @@ description: Deputy Director Low Kwee Fah tells us about the celebrations at
 #### Deputy Director *Low Kwee Fah* tells us about the celebrations at this year’s Customer Appreciation Day.
 
 <img style="width:80%;" src="/images/Vol%205%20Issue%203/CustomerAppreciation/Customer%20appreciation%20tea.jpg">
- <div style="background-color: white;">Advertisement on the National Library Singapore home page; Customers enjoying their cuppa on Level 10.
+ <div style="background-color: white;">Advertisement on the National Library Singapore home page; customers enjoying their cuppa on Level 10.
 </div>
 
 It has been four years since the National Library Singapore (NLS) reopened in July 2005 at Victoria Street. Today, the NLS receives about 5,000 visitors daily and the use of NLS services has grown from strength to strength. This would not have been possible without the strong and continuous support from our loyal customers.
