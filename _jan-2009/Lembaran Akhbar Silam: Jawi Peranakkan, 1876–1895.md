@@ -268,7 +268,7 @@ Ratnala Thulaja Naidu, [Jawi Peranakan](https://eresources.nlb.gov.sg/infopedia/
 
 [^6]: Zainal Abidin Ahmad, “Malay Journalism in Malaya,” _Journal of the Malayan Branch of the Royal Society_ 19, no. 2 (October 1941): 244–50 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). Also published in Abdullah Hussain and Khalid M. Hussain, [_Pendeta Za’ba Dalam Kenangan_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10128233) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 2000), 295. (Call no. R899.28092 ABD)
 
-[^7]: E. W. Birch, “The Vernacular Press in the Straits,” in [_Singapore 150 years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080128), ed. Mubin Sheppard (Singapore: Times Books International, 1982), 206. (Call no. RSING 959.57 SIN-HIS) (Originally published in _Journal of the Malaysian Branch Asiatic Society_ 42, no. 1(215) (July 1969): 192–5. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^7]: E.W. Birch, “The Vernacular Press in the Straits,” in [_Singapore 150 years_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080128), ed. Mubin Sheppard (Singapore: Times Books International, 1982), 206. (Call no. RSING 959.57 SIN-HIS) (Originally published in _Journal of the Malaysian Branch Asiatic Society_ 42, no. 1(215) (July 1969): 192–5. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 [^8]: Pada tahun 1881, satu pound sterling sama nilainya dengan $5.40 sen tetapi pada tahun 1896, satu pound sterling sama nilainya dengan $10.
 
