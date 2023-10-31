@@ -12,46 +12,46 @@ What’s in a name? In the case of a street, it helps to identify the location o
 
 Have you ever wondered why a street was given a particular name? Based on the Koh Seow Chuan Collection of legal documents and maps, we bring you nine streets of Singapore that connect us to the past. Much of Singapore’s early modern history is hidden behind street names we see everyday.
 
-In early Singapore, the Municipal Councillors or Commisioners were in charge of naming the streets. Streets were commonly named after prominent people, usually as a mark of appreciation for their contributions or services rendered to the community, society or state. Thus, behind the street names there are stories about the people they were named after, their lives and achievements, and the part they played in making Singapore what it is today.
+In early Singapore, the Municipal Councillors or Commissioners were in charge of naming the streets. Streets were commonly named after prominent people, usually as a mark of appreciation for their contributions or services rendered to the community, society or state. Thus, behind the street names there are stories about the people they were named after, their lives and achievements, and the part they played in making Singapore what it is today.
 
 #### **Jalan Tan Tock Seng**
 
 <img src="/images/Vol%204%20Issue%204/StreetNames/tantockseng1.jpg" style="width:50%;">
  <div style="background-color: white;">Tan Tock Seng – Singapore’s pioneering entrepreneur and philanthropist.
-<i>Lee, S. H. (1994). 150 years of caring: The legacy of Tan Tock Seng Hospital (pg 14). Singapore: The Hospital.</i></div>
+<i>Lee, S.H. (1994). 150 years of caring: The legacy of Tan Tock Seng Hospital (p. 14). Singapore: The Hospital.</i></div>
 
 Jalan Tan Tock Seng is named after Tan Tock Seng. Situated off Moulmein Road, the road had existed as an unnamed road when the Tan Tock Seng Hospital moved to its present site in 1909.
 
-<img src="/images/Vol%204%20Issue%204/StreetNames/tantockseng%20-%20justices.jpg" style="width:90%;">
- <div style="background-color: white;">Tan Tock Seng was much respected by the Chinese community as well as by the British. He was the first Asian Justice of the Peace in Singapore.<i>The Straits Times almanac, calendar and directory for the year 1846. (1846) (p. 34). Singapore: Straits Times Press. (Microfilm NL2363)</i></div>
+Tan Tock Seng was best known and remembered as a philanthropist especially for the poor in the Chinese community. His contribution towards the setting up of the Chinese Pauper’s Hospital at Pearl’s Hill, which later carried his name, ranked as one of the most significant acts of philanthropy in early Singapore and prompted others to give generously to society for generations to come.
 
-Tan Tock Seng was best known and remembered as a philanthropist especially towards the poor in the Chinese community. His contribution towards the setting up of the Chinese Pauper’s Hospital at Pearl’s Hill, which later carried his name, ranked as one of the most significant acts of philanthropy in early Singapore and prompted others to give generously to society for generations to come.
+<img src="/images/Vol%204%20Issue%204/StreetNames/tantockseng%20-%20justices.jpg" style="width:90%;">
+ <div style="background-color: white;">Tan Tock Seng was much respected by the Chinese community and by the British. He was the first Asian Justice of the Peace in Singapore.<i>The Straits Times almanac, calendar and directory for the year 1846. (1846) (p. 34). Singapore: Straits Times Press. (Microfilm NL2363)</i></div>
 
 #### **Chitty Road**
 
 <img src="/images/Vol%204%20Issue%204/StreetNames/chiitty1.jpg" style="width:50%;">
- <div style="background-color: white;">An Indian merchant in the 1900s. From the mid – 1920s, the term “Chetty” which had been used interchangeably with “Chitty” was being replaced by the more dignified term “Chettiar”. <i>Courtesy of National Archives of Singapore.</i></div>
+ <div style="background-color: white;">An Indian merchant in the 1900s. From the mid-1920s, the term “Chetty” which had been used interchangeably with “Chitty” was being replaced by the more dignified “Chettiar”. <i>Courtesy of National Archives of Singapore.</i></div>
 
-Chitty Road is named after the Chitty Melaka or the Peranakan Indian community who migrated from Malacca to Singapore during the late 19th century and settled in the “Little India” area. In the past, it joined Kampong Kapor Road with Jalan Besar.
+Chitty Road is named after the Chitty Melaka or Peranakan Indian community who migrated from Malacca to Singapore during the late 19th century and settled in the “Little India” area. In the past, it joined Kampong Kapor Road with Jalan Besar.
+
+Some of the Peranakan Indian immigrants found jobs in the public sector working for the colonial government while the others worked as merchants. Some of the merchants were engaged in money lending activities.
 
 <img src="/images/Vol%204%20Issue%204/StreetNames/promissory%20note.jpg" style="width:80%;">
  <div style="background-color: white;">A promissory note of R.M.C. Veerappa Chitty issued in 1886. This note was one of the loan contract documents use by moneylenders at that time.<i> Courtesy of Koh Seow Chuan.</i></div>
 
-Some of the Peranakan Indian immigrants found jobs in the public sector working for the colonial government while the others worked as merchants. Some of the merchants were engaged in money lending activities.
-
-#### **D’almeida Street**
+#### **D’Almeida Street**
 
 <img src="/images/Vol%204%20Issue%204/StreetNames/d'almedia.jpg" style="width:50%;">
  <div style="background-color: white;">Dr Jose D’Almeida – the patriarch of the D’Almeidas in Singapore and Singapore’s pioneering merchant.<i> Buckley, C.B. (1902). An anecdotal history of old times in Singapore (p. 184). Singapore: Fraser &amp; Neave. (Microfilm NL269).</i></div>
 
-Located in the oldest commercial section of Singapore Town in Raffles Place, D’almeida Street is named after Dr Jose D’Almeida. It is one of the oldest streets in Singapore situated in what was then known as “Commercial Square”, where many of the earliest mercantile firms were located. Reference has been made to the street’s name as early as 1861.
+Located in the oldest commercial section of Singapore Town in Raffles Place, D’Almeida Street is named after Dr Jose D’Almeida. It is one of the oldest streets in Singapore situated in what was then known as “Commercial Square”, where many of the earliest mercantile firms were located. Reference has been made to the street’s name as early as 1861.
 
 Jose D’Almeida was a surgeon in the Portuguese navy who came to Singapore in 1825. On his arrival, D’Almeida established his medical practice in Commercial Square (Raffles Place) under his own name. Soon he decided to become a merchant as well. His business flourished. Later, he included his sons as his business partners and the company was renamed Jose D’Almeida &amp; Sons.
 
 <img src="/images/Vol%204%20Issue%204/StreetNames/advertisement.jpg" style="width:80%;">
  <div style="background-color: white;">An advertisement in the Straits Times on the importation of foodstuffs and building materials by the company, Joze De Almeida &amp; Sons.<i>The Straits Times, 11 April 1846, p. 4. (From NewspaperSG).</i></div>
 
-Besides being a merchant, D’Almeida was believed to be the first to venture into plantations in Singapore. He experimented with planting various crops including cotton, coconuts, fruits and spices and coconut and spice plantations flourished.
+Besides being a merchant, D’Almeida was believed to be the first to venture into plantations in Singapore. He experimented with planting various crops including cotton, coconuts, fruits and spices.
 
 #### **Eu Tong Sen Street**
 
@@ -64,7 +64,7 @@ In 1918, part of Wayang Street in Chinatown was improved by Eu Tong Sen. The imp
  <div style="background-color: white;">In the Power of Attorney dated 18 February 1924, Eu Tong Sen appointed three persons as attorneys with power to act on his behalf in banking matters related to his business. 
 <i>Courtesy of Koh Seow Chuan.</i></div>
 
-Eu Tong Sen was very active in Malaya where he owned several tin mines, medicine shops as well as rubber plantations. He also immersed himself in public affairs being a Justice of the Peace in Perak as well as the Chinese representative in the Federal Council of the Federated Malay States from 1909 - 1920. He was conferred the Order of the British Empire (OBE) for his services.
+Eu Tong Sen was very active in Malaya where he owned several tin mines, medicine shops as well as rubber plantations. He also immersed himself in public affairs being a Justice of the Peace in Perak as well as the Chinese representative in the Federal Council of the Federated Malay States from 1909–20. He was conferred the Order of the British Empire for his services.
 
 #### **Kim Seng Road**
 
@@ -101,7 +101,7 @@ Whampoa Road is named after Hoo Ah Kay, a prominent entrepreneur and public serv
 <img src="/images/Vol%204%20Issue%204/StreetNames/whampoa_petition.jpg" style="width:80%;">
  <div style="background-color: white;">In the petition of Tan Tock Seng Hospital dated 3 May 1909, Whampoa was listed as Treasurer of Tan Tock Seng Hospital.<i> Courtesy of Koh Seow Chuan.</i></div>
 
-An enterprising and well-respected man, Whampoa was appointed a Justice of the Peace, a Grand Juror, and Consul for China, Japan and Russia in Singapore. He was the first local to be appointed to the Legislative Council in 1869. On 10 May 1876, he was appointed to the C.M.G. (Companionship of the Most Distinguished Order of St. Michael and St. George), the first Chinese to be bestowed this honour by Britain.
+An enterprising and well-respected man, Whampoa was appointed a Justice of the Peace, a Grand Juror, and Consul for China, Japan and Russia in Singapore. He was the first local to be appointed to the Legislative Council in 1869. On 10 May 1876, he was appointed to the C.M.G. (Companionship of the Most Distinguished Order of St Michael and St George), the first Chinese to be bestowed this honour by Britain.
 
 #### **Jiak Kim Street**
 
@@ -111,7 +111,7 @@ An enterprising and well-respected man, Whampoa was appointed a Justice of the P
 Jiak Kim Street is named in the late 1910s, after Tan Jiak Kim, a grandson of Tan Kim Seng. Before the development of the area, shops, offices, stores and godowns used to line the street. Now the area has been developed into one of riverfront living, with condominiums and a hotel.
 
 <img src="/images/Vol%204%20Issue%204/StreetNames/jiakkimmunicipal.jpg" style="width:80%;">
- <div style="background-color: white;">Tan Jiak Kim served as a Municipal Commissioner overseeing public transport, health, and utilities. <i> The Singapore and Straits directory for 1889. 1889 (p. 128). Singapore: Singapore and Straits Printing Office. (Microfilm NL1178). </i></div>
+ <div style="background-color: white;">Tan Jiak Kim served as a Municipal Commissioner overseeing public transport, health and utilities. <i> The Singapore and Straits directory for 1889 (p. 128). Singapore: Singapore and Straits Printing Office. (Microfilm NL1178). </i></div>
 
 Tan Jiak Kim is renowned for his service to the government and community. He was appointed to the Legislative Council in 1889 when he was only 30 years old. He was also a Municipal Commissioner, member of the Chinese Advisory Board, and a Justice of the Peace, and served on many Government commissions.
 
@@ -129,14 +129,14 @@ Lim Nee Soon played an active role in the public affairs of the Colony, especial
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>KOH SEOW CHUAN COLLECTION</b><br><br>
 	
-The Koh Seow Chuan Collection is a valuable resource for historical and social research on Singapore. The collaborations between the National Library Board and Mr Koh Seow Chuan have made it possible for members of the public to access his rich resources for research. The legal documents which include hand-crafted letters and petitions in their original form are some of the prized possessions of the collection.
+The Koh Seow Chuan Collection is a valuable resource for historical and social research on Singapore. The collaborations between the National Library Board and Koh Seow Chuan have made it possible for members of the public to access his rich resources for research. The legal documents which include hand-crafted letters and petitions in their original form are some of the prized possessions of the collection.
 	
-Members of the public may view the collection on the 10th floor of the Lee Kong Chian Reference Library during the library’s opening hours. Those wishing to consult the collection may approach the staff at the Information Counter at level 11. The collection is to be used within the library’s premises.<br><br>
+Members of the public may view the collection on Level 10 of the Lee Kong Chian Reference Library. Those wishing to consult the collection may approach the staff at the Information Counter at Level 11. The collection is to be used within the library’s premises.<br><br>
 	
-<b>ABOUT MR KOH SEOW CHUAN</b><br><br>
-Mr Koh Seow Chuan is a retired architect and a founder of DP Architects Pte Ltd, the firm that designed the Esplanade – Theatres on the Bay. He is also a world-renowned philatelist and avid collector of social historical documents, maps, antiques and arts. Both local and overseas researchers have benefited from his collection on Singapore history.<br><br>
+<b>ABOUT KOH SEOW CHUAN</b><br><br>
+Koh Seow Chuan is a retired architect and a founder of DP Architects Pte Ltd, the firm that designed the Esplanade – Theatres on the Bay. He is also a world-renowned philatelist and avid collector of social historical documents, maps, antiques and arts. Both local and overseas researchers have benefited from his collection on Singapore history.<br><br>
 	
-<b>BEHIND STREET NAMES: PROMINENT PEOPLE OF EARLY SINGAPORE EXHIBITION </b><br><br>
+<b>“BEHIND STREET NAMES: PROMINENT PEOPLE OF EARLY SINGAPORE” EXHIBITION </b><br><br>
 Lee Kong Chian Reference Library, Level 10<br> National Library 25 October 2008–15 March 2009<br> 10 am–9 pm (Closed on Public Holidays)</div>
 
 <br>
