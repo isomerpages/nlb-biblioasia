@@ -67,75 +67,10 @@ Such was his performance that the crowd of presumably Tung Hwa supporters mobbed
 
 Between 22 October and 11 December 1947, the Lien Hwa team played 22 games around Asia. In total, Lien Hwa won 15 matches and lost three. Four matches ended in a draw. 
 
-**Pre-tour match in Seremban**
 
-| Game | Date | Opponent | Result | Score | 
-| -------- | -------- | -------- | -------- | -------- |
-| 1 | 22 October | Shanghai Chinese | Won | 1–0 |
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/scoretable.jpg)
 
-**Pre-tour match in Singapore**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | --------- | -------- | -------- | -------- |
-|2| 25 October | R.A.F. XI Singapore | Won | 5–1 |
-	
-**Tour matches in Bangkok**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|3| 2 November | Chai Sod	Won | Won | 2–4 |
-|4| 4 November | Assumption | Won | 1–2 |
-|5| 6 November | Phra Nakorn | Won | 3-5 |
-|6| 7 November | Bangkok XI | Won | 6–0 |
-		
-**Tour matches in Hong Kong**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|7| 9 November | All-Hong Kong | Won | 1–0 |
-|8| 12 November | Sing Tao | Draw | 2–2 |
-
-**Tour matches in Shanghai**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|9| 15 November | Railways | Won | 6–4 |
-|10| 16 November | Tsing Peh | Draw | 1–1 |
-|11| 19 November | Tung Hwa | Won | 5–3 |
-|12| 22 November | White Eagles | Won | 4–0 |
-|13| 23 November | Tung Hwa &amp; Tsing Peh XI | Lost | 4–2 |
-
-**Tour matches in Hong Kong**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|14| 26 November | Combined Services | Draw | 3–3 |
-|15| 28 November | Combined Civilians | Draw | 3–3 |
-|16| 29 November | Combined Chinese | Lost | 6–2 |
-
-
-**Tour matches in Manila**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|17| 2 December | Manila Football League | Won | 6–0 |
-|18| 3 December | All-Manila | Won | 3–1 |
-|19| 5 December | Manila All-Chinese | Won | 3–0 |
-|20| 6 December | Manila Football League | Won | 5–0 |
-|21| 7 December | All-Manila | Won | 2–0 |
-
-
-
-**Tour matches in Hong Kong**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|22| 11 December | Sing Tao | Lost | 5–0 |
-
-
-<div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.<br><br>
-	<b>REFERENCE </b><br>
-	"<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)</div>
+<div style="background-color: white;">Note: Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game. "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)</div>
 	
 #### **Playing in the Olympics and the Malaya Cup**
 
