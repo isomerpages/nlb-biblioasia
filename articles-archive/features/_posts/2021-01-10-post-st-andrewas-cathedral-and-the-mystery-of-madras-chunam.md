@@ -1,12 +1,10 @@
 ---
-title: 'St Andrew’s Cathedral and the Mystery of Madras Chunam'
+title: St Andrew’s Cathedral and the Mystery of Madras Chunam
 permalink: /vol-16/issue-4/jan-mar-2021/st-andrew-cathedral/
 date: 2021-01-01T00:00:00.000Z
-breadcrumb: 'St Andrew’s Cathedral'
-third_nav_title: 'St Andrew’s Cathedral and the Mystery of Madras Chunam'
-
+breadcrumb: St Andrew’s Cathedral
+third_nav_title: St Andrew’s Cathedral and the Mystery of Madras Chunam
 ---
-
 <style>
 table { 
 	background-color: #ffeee1;
@@ -18,12 +16,11 @@ table {
 }
 </style>
 
-
 #### Was Madras *chunam* used inside St Andrew’s Cathedral? Maybe not, says **Yeo Kang Shua**, who has carefully examined the layers of plaster on its interior walls. 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/standrew/st-andrew.jpg">
+<br>
+<img src="/images/Vol-16-issue-4/StAndrew/St-Andrew.jpg">
 Completed in 1865 and consecrated as an Anglican cathedral in 1870, St Andrew’s is a national monument that regularly features in guidebooks of Singapore. Almost every description mentions that the interior walls of the building were plastered with Madras <i>chunam</i>, which is partly made of egg white. <i>Courtesy of Preservation of Sites and Monuments, National Heritage Board</i>.
 </div>
 
@@ -34,7 +31,7 @@ The use of Madras *chunam* is mentioned in the 1899 book, *Prisoners Their Own W
 “In dealing with the interior walls and columns, we used… ‘Madras *chunam*’, made from shell lime without sand; but with this lime we had whites of eggs and coarse sugar, or ‘jaggery’, beaten together to form a sort of paste, and mixed with water in which the husks of cocoanuts [*sic*] had been steeped. The walls and columns were plastered with this composition, and, after a certain period for drying, were rubbed with rock crystal or rounded stone until they took a beautiful polish, being occasionally dusted with fine soapstone powder, and so leaving a remarkably smooth and glossy surface….”[^3]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/standrew/JohnFred.jpg">
 A studio portrait of Major John Frederick Aldophus McNair in his uniform, c. 1900. McNair, who supervised the construction of St Andrew’s Church, recounted in his book, <i>Prisoners Their Own Warders</i>, that Madras <i>chunam</i> was used as a plaster for the interior walls and columns of the church. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
@@ -46,7 +43,7 @@ In his 1988 book, *Singapore: A Guide to Buildings, Streets, Places*, co-written
 Over the last 100 years, it has become axiomatic that Madras *chunam* was used in St Andrew’s. There is, however, just one problem: there is no physical evidence of Madras *chunam* on the walls of St Andrew’s. For close to a decade, I have been involved in conservation issues pertaining to the interior of St Andrew’s and, as part of this job, I have closely examined and analysed the plaster work at various locations within the building. Despite having taken and analysed numerous samples of the plaster, we have not found any trace of egg white, the tell-tale sign of Madras *chunam*.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/standrew/PlasterSample.jpg">
 Plaster sampling at one of the columns in St Andrew’s Cathedral. A sample of the plaster was taken from the surface to the brick substrate for laboratory analysis. In this photograph, a thin layer (2–3 mm) of grey Portland cement screed can be seen under the white paint layer. <i>Courtesy of Yeo Kang Shua</i>.
 </div>
@@ -138,7 +135,7 @@ Funding remained tight throughout the entire building process. In 1859, three ye
 Work progressed slowly over the next few years.[^31] In 1863, the tower with eight pinnacles, on which the base of the spire would be constructed, was built.[^32] It would take another two years before the spire was finally erected, signifying the completion of the handsome English gothic edifice.[^33] (The original design of the spire could not be realised and the spire was redesigned by Jasper Otway Mayne, an engineer in the Public Works Department.) In total, the construction of the church took nine years: five years to complete the main building and interiors, and another four for the tower and spire.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/standrew/StAndrewChurch.jpg">
 This elevation drawing of the proposed spire design for St Andrew’s Church (now St Andrew’s Cathedral) is attributed to Ronald MacPherson. However, his design was not realised and a simplified design (see inset photo) by Jasper Otway Mayne, an engineer with the Public Works Department, was constructed instead. Among the many differences, the <i>oeil-de-boeuf</i> (bull’s eye) windows at the belfry level were replaced by lancet windows, and the flying buttresses connecting the pinnacles to the spire, as well as <i>lucarne</i> (spire light), which is a type of dormer window, were removed. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i>.
 </div>
@@ -164,8 +161,8 @@ Having weighed the historical evidence – the budgetary constraints that affect
 |The author would like to acknowledge Wee Sheau Theng for her invaluable assistance in the course of this research.|
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/YeoKangShua.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol-16-issue-4/authors/YeoKangShua.png" style="width: 100px; height: 100px;">
 <b>Dr Yeo Kang Shua</b> is Associate Professor of Architectural History, Theory and Criticism, and Associate Head of Pillar (Research/Practice/Industry) at the Singapore University of Technology and Design.
 </div>
 
@@ -175,19 +172,19 @@ Having weighed the historical evidence – the budgetary constraints that affect
 
 [^1]: St Andrew’s Cathedral is the second church building on the site of the original St Andrew’s Church, named after the patron saint of Scotland. The original building was designed by Government Superintendent of Public Works George D. Coleman and completed in 1836. After the spire of the church had been struck by lightning in 1845 and 1849, the building was considered unsafe and later demolished. The second St Andrew’s Church was completed in 1865. It was consecrated as a cathedral in 1870 and became known as St Andrew’s Cathedral. See Cornelius-Takahama, V. (2017). *[St Andrew’s Cathedral](https://eresources.nlb.gov.sg/infopedia/articles/SIP_25_2_2008-12-01.html)*. Retrieved from Singapore Infopedia, National Library, Singapore.
 
-[^2]: McNair, J.F.A., & Bayliss, W.D. (1899). *[Prisoners their own warders: A record of the convict prison at Singapore established 1825, discontinued 1873, together with a cursory history of the convict establishments at Bencoolen, Penang and Malacca from the Year 1797](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815)*. Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)
+[^2]: McNair, J.F.A., &amp; Bayliss, W.D. (1899). *[Prisoners their own warders: A record of the convict prison at Singapore established 1825, discontinued 1873, together with a cursory history of the convict establishments at Bencoolen, Penang and Malacca from the Year 1797](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815)*. Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)
 
-[^3]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 98–100.
+[^3]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 98–100.
 
 [^4]: [Town and country](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280707-1.2.58). (1928, July 7). *The Straits Times*, p. 10; [Cathedral bells silent for first time in fifty years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360329-1.2.204). (1936, March 29). *The Straits Times*, p. 28; [Cathedral’s walls were coated with egg](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490913-1.2.31). (1949, September 13). *The Malaya Tribune*, p. 2; Davies, D. (1954, October 24). [Convicts and the whites of eggs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19541024-1.2.125). *The Straits Times*, p. 14; [The hazards of photography 100 years ago](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570707-1.2.111). (1957, July 7). *The Straits Times*, p. 12; [St. Andrew’s Cathedral](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710917-1.2.66.1). (1971, September 17). *New Nation*, p. 9; Chandy, G. (1979, December 3). [Christmas was special event even then](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19791203-1.2.34). *New Nation*, p. 9; Chia, A. (1981, July 19). [Peace and quiet pervades its grounds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810719-1.2.82.12). *The Straits Times*, p. 4; Teh, J.L. (2003, June 5). [Fewer cars might help this building last longer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20030605-1.2.6.1). *The New Paper*, p. 4; Ng, J.X. (2013, April 2). [White church, colourful past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20130402-1.2.67.5.1). *The Straits Times*, p. 8. Retrieved from NewspaperSG; Liu, G. (1996). *[In granite and chunam: The national monuments of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7919754)* (p. 174). Singapore: Landmark Books and Preservation of Monuments Board. (Call no.: RSING 725.94095957 LIU); Tan, B. (2015, October–December). [Convict labour in colonial Singapore](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/convict). *BiblioAsia, 11* (3), pp. 36–41. Retrieved from BiblioAsia website.
 
 [^5]: Keys, P. (1981, June 14). [Terrace houses](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810614-1.2.93.8.1). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^6]: Edwards, N., & Keys, P. (1988). *[Singapore: A guide to buildings, streets, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 114). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
+[^6]: Edwards, N., &amp; Keys, P. (1988). *[Singapore: A guide to buildings, streets, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 114). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
 
 [^7]: Toh, W.L. (2017, November 2). [Once upon a glorious time at the Istana](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20171102-1.2.51.3). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 
-[^8]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp.103–104.
+[^8]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp.103–104.
 
 [^9]: Zaccheus, M. (2016, November 17). [Caring for a 154-year-old Matriarch](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20161117-1.2.57.2). *The Straits Times*, p. 14. Retrieved from NewspaperSG. 
 
@@ -195,13 +192,13 @@ Having weighed the historical evidence – the budgetary constraints that affect
 
 [^11]: Holman, J. (1840). *Travels in Madras, Ceylon, Mauritius, Cormoro Islands, Zanzibar, Calcutta, etc. etc* (pp. 420–425). London: George Routledge. (Not available in NLB holdings)
 
-[^12]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 98–100.
+[^12]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 98–100.
 
 [^13]: Treese, S.A. (2018). *History and measurement of the base and derived units* (p. 429). Switzerland: Springer International Publishing. (Not available in NLB holdings)
 
-[^14]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 111.
+[^14]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 111.
 
-[^15]: Tesi, T. (2009). *The effect of linseed oil on the properties of lime-based restoration mortars* [Unpublished PhD thesis]. Universita di Bologna. Retrieved from Core website; Nunes, C., & Slizkova, Z. (2014, July–August). Hydrophobic lime-based mortars with linseed oil: Characterization and durability assessment. *Cement and Concrete Research, 61–62*, 28–39; Nunes, C., et al. (2018, November 20). Influence of linseed oil on the microstructure and composition of lime and lime-metakaolin pastes after a long curing time. *Construction and Building Materials, 189*, 787–796. Retrieved from ResearchGate.
+[^15]: Tesi, T. (2009). *The effect of linseed oil on the properties of lime-based restoration mortars* [Unpublished PhD thesis]. Universita di Bologna. Retrieved from Core website; Nunes, C., &amp; Slizkova, Z. (2014, July–August). Hydrophobic lime-based mortars with linseed oil: Characterization and durability assessment. *Cement and Concrete Research, 61–62*, 28–39; Nunes, C., et al. (2018, November 20). Influence of linseed oil on the microstructure and composition of lime and lime-metakaolin pastes after a long curing time. *Construction and Building Materials, 189*, 787–796. Retrieved from ResearchGate.
 
 [^16]: Fang, S., et al. (2014, January). A study of Tung-oil-lime putty – A traditional lime-based mortar. *International Journal of Adhesion and Adhesives, 48*, 224–230; Zhao, P., et al. (2015, June). Material characteristics of ancient Chinese lime binder and experimental reproductions with organic admixtures. *Construction and Building Materials, 84*, 477–488. Retrieved from ResearchGate.
 
@@ -215,15 +212,15 @@ Having weighed the historical evidence – the budgetary constraints that affect
 
 [^21]: [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18560304-1.2.17). (1856, March 4). *The Straits Times*, p. 4; [St. Andrews](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18700430-1.2.6). (1870, April 30). *The Straits Times*, p. 1; [Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18701224-1.2.4). (1870, December 24). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^22]: [Straits Times Saturday, Oct. 12, 1861](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18611012-1.2.3). (1861, October 12). *The Straits Times*, p. 19. Retrieved from NewspaperSG; [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 71–74, 97. 
+[^22]: [Straits Times Saturday, Oct. 12, 1861](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18611012-1.2.3). (1861, October 12). *The Straits Times*, p. 19. Retrieved from NewspaperSG; [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 71–74, 97. 
 
-[^23]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 71–74, 97; *[The Straits calendar and directory for 1861](https://eresources.nlb.gov.sg/printheritage/detail/59831a29-0622-4089-a120-ae79edb68ec6.aspx)* (pp. 26–27). (1861). Singapore: Printed at the Commercial Press. Retrieved from BookSG. In the *Straits Times* article, John Bennett was named the Executive Engineer while J.F.A. McNair was not mentioned. However, in McNair’s *Prisoners Their Own Warders*, it is mentioned that a Captain Purvis of the Madras Artillery had succeeded MacPherson in the role of Engineer and Superintendent of Convicts in 1857 but relinquished his position a year later. McNair then succeeded him, while Bennett was Assistant Superintendent of Convicts. Upon verification with *The Straits Calendar and Directory for 1861*, McNair was on leave in Europe and Bennett, who held the positions of Special Assistant Engineer and Deputy Superintendent of Convicts, was thus officiating as both the Executive Engineer and the Superintendent of Convicts in McNair’s absence.
+[^23]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, pp. 71–74, 97; *[The Straits calendar and directory for 1861](https://eresources.nlb.gov.sg/printheritage/detail/59831a29-0622-4089-a120-ae79edb68ec6.aspx)* (pp. 26–27). (1861). Singapore: Printed at the Commercial Press. Retrieved from BookSG. In the *Straits Times* article, John Bennett was named the Executive Engineer while J.F.A. McNair was not mentioned. However, in McNair’s *Prisoners Their Own Warders*, it is mentioned that a Captain Purvis of the Madras Artillery had succeeded MacPherson in the role of Engineer and Superintendent of Convicts in 1857 but relinquished his position a year later. McNair then succeeded him, while Bennett was Assistant Superintendent of Convicts. Upon verification with *The Straits Calendar and Directory for 1861*, McNair was on leave in Europe and Bennett, who held the positions of Special Assistant Engineer and Deputy Superintendent of Convicts, was thus officiating as both the Executive Engineer and the Superintendent of Convicts in McNair’s absence.
 
 [^24]: *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18611012-1.2.3)*, 12 Oct 1861, p. 19. It is interesting to note, however, that the church was recorded as opened for service on 6 October 1861 in *[The Straits Calendar and Directory for 1861](https://eresources.nlb.gov.sg/printheritage/detail/59831a29-0622-4089-a120-ae79edb68ec6.aspx)*. See *The Straits calendar and directory for 1861*, 1861, p. 42.
 
 [^25]: During construction, the original design of the spire by Ronald MacPherson was deemed unsuitable due to supposed settlement issues and thus said to have been redesigned by Jasper Otway Mayne, an engineer with the Public Works Department. See *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18701224-1.2.4)*, 24 Dec 1870, p. 1.
 
-[^26]: [McNair & Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 74; *[The Straits calendar and directory for 1863](https://eresources.nlb.gov.sg/printheritage/detail/59831a29-0622-4089-a120-ae79edb68ec6.aspx)* (p. 20). (1863). Singapore: Printed at the Commercial Press. Retrieved from BookSG.
+[^26]: [McNair &amp; Bayliss](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815), 1899, p. 74; *[The Straits calendar and directory for 1863](https://eresources.nlb.gov.sg/printheritage/detail/59831a29-0622-4089-a120-ae79edb68ec6.aspx)* (p. 20). (1863). Singapore: Printed at the Commercial Press. Retrieved from BookSG.
 
 [^27]: The Singapore Free Press: Notes on the annual report on the administration of the Straits Settlement for the year 1864–65. (1865, August 31). *[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18650831-1.2.3)*, p. 2. Retrieved from NewspaperSG; *[The Straits calendar and directory for 1865](https://eresources.nlb.gov.sg/printheritage/detail/5b9519ae-1aad-4cc8-891f-74407ed44f02.aspx)* (p. 21). (1865) Singapore: Printed at the Commercial Press. Retrieved from BookSG; *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18701224-1.2.4)*, 24 Dec 1870, p. 1. 
 
