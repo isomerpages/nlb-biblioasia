@@ -131,17 +131,17 @@ Interesting examples from periodicals reinforced the shared understanding by cul
  
 [^1]: Khoo Kay Kim, [_Majalah Dan Akhbar Melayu Sebagai Sumber Sejarah_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3891731) \[Malay papers and periodicals as historical sources\]. Bersama Dengan Satu Senarai Berkala-Berkala Melayu Sebelum Merdeka Dalam Pegangan Perpustakaan Universiti Malaya; Dan, Satu Bibliografi Mengenai Pengkajian Berkala Melayu \[With a list of Premerdeka Malay periodicals held in the University of Malaya Library; and, A bibliography on the study of Malay periodicals\] (Kuala Lumpur: Perpustakaan Universiti Malaya, 1984). (Call no. Malay RSEA 070.509595 KHO)
 
-[^2]: A. M. Iskandar Ahmad, [_Persuratkhabaran Melayu, 1876–1968_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2467010) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pelajaran, Malaysia, 1980). (Call no. RCLOS 079.595 AMI-\[SEA\])
+[^2]: A.M. Iskandar Ahmad, [_Persuratkhabaran Melayu, 1876–1968_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2467010) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pelajaran, Malaysia, 1980). (Call no. RCLOS 079.595 AMI-\[SEA\])
 
 [^3]: Kartini Saparudin, [_A Self More Refined: Representations of Women in the Malay Magazines of the 1950s and 1960s_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202835347) (Singapore: National University of Singapore, 2002). (Call no. RSING 305.42095957 KAR)
 
-[^4]: Kartini Saparudin, “Colonisation of Everyday Life” in the 1950s and 1960s: Towards the Malayan Dream,” (master’s theses, National University of Singapore, 2005)
+[^4]: Kartini Saparudin, “Colonisation of Everyday Life” in the 1950s and 1960s: Towards the Malayan Dream” (Master’s thesis, National University of Singapore, 2005).
 
 [^5]: Benedict Anderson, [_Imagined Communities: Reflections on the Origin and Spread of Nationalism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3300657) (New York: Verso, 1983), 49. (Call no. RU 320.54 AND)
 
 [^6]: Tim Harper, [_The End of Empire and the Making of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8664450) (Cambridge: Cambridge University Press, 1999), 274. (Call no. RSING 959.5105 HAR)
 
-[^7]: Kristin Ross, Fast Cars, Clean Bodies: Decolonization and the Reordering of French Culture (Cambridge, Mass.: MIT Press, 1995), 77–78.
+[^7]: Kristin Ross, _Fast Cars, Clean Bodies: Decolonization and the Reordering of French Culture_ (Cambridge, Mass.: MIT Press, 1995), 77–78.
 
 [^8]: William R. Roff, [_Bibliography of Malay and Arabic Periodicals Published in the Straits Settlements and Peninsular Malay States 1876–1941; With an Annotated Union List of Holdings in Malaysia, Singapore and the United Kingdom_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=542243) (London: Oxford University Press, 1972). (Call no. RCLOS 016.0599923 ROF)
 
