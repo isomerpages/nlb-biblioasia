@@ -70,7 +70,7 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 
 ![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/scoretable.jpg)
 
-<div style="background-color: white;">Note: Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game. "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)</div>
+<div style="background-color: white;">Note: Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game. "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">[Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)]</div>
 	
 #### **Playing in the Olympics and the Malaya Cup**
 
