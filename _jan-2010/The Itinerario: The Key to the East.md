@@ -52,7 +52,7 @@ Interwoven through Linschoten's narrative are parallel texts on the same subject
 
 The 36 illustrations in the original Dutch publication were drawn by Linschoten himself and engraved by the sons of famed Dutch engraver Joannes van Doetecum, Joannes Jnr and Baptista. Joannes Jnr engraved at least 24 plates along with the Plancius world map and the map of the island of Mozambique. The 1598 English translation should have 21 topographical plates and 32 portraits and views.[^13]
 
-<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/Capture1.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/mandarins.png">
  <div style="background-color: white;">Two-page fold out showing “How the mandarins of China, who are the principal authorities of government, are carried and delight in cruising on the rivers.” On the upper left is engraved Linschoten’s name, crediting him as the illustration’s creator.</div>
 
 The views, mostly stretch across two pages, are mainly of Goa and its region, showing stylised drawings of people. Linschoten claimed that his illustrations are true to life but in the 16th-century context, this means enhanced details rather than a lifelike quality. Examples of details are the vessels utilised for travelling, such as the palanquin carried by menservants or a riverboat floating serenely, and always some aspect of fashion and lifestyle. There are also plates describing natural products with details of fruits, leaves and the whole plant.
@@ -98,7 +98,7 @@ The king of fruits is not forgotten and there is a full chapter on the Duryoen[^
 
 ##### **Singapore**
 
-<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/Map%20.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/sumatra%20insula.png">
  <div style="background-color: white;"><i>Sumatra Insula</i> showing Singapore (“Sinca pura”) in the upper centre of the map, with Malacca identified not too far from it.
 </div>
 
