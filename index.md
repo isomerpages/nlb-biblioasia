@@ -884,6 +884,6 @@ sections:
       button: Scale the greatest height
       url: /sports/2023/11/mountain-everest-expedition-david-lim/
       image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
-        ropes.jpg
+        ropes1.jpg
       alt: Image alt text
 ---
