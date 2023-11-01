@@ -10,7 +10,7 @@ The history of the Salvation Army in Singapore goes back to at least 1935.
 <hr>
 
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/places-and-buildings/2023/10/john-little-raffles-place-department-store/">Coffee in the Basement, Tea on the Second Floor: A Short History of John Little at Raffles Place</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2023/10/john-little-raffles-place-department-store/">Coffee in the Basement, Tea on the Second Floor: A Short History of John Little at Raffles Place</a>
 A look back at John Little’s 170-year history and the lasting mark the store has made on our island.
 
 <img src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/2b%2019980005901%20img0109.jpg">
