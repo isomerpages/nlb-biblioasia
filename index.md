@@ -876,11 +876,14 @@ sections:
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
   - infopic:
-      title: Infopic
+      title: Conquering the World’s Tallest Mountain
       subtitle: Sports
       id: infopic
-      description: Conquering the World’s Tallest Mountain
+      description: David Lim led the 1st Singapore expedition team that successfully
+        scaled Mt. Everest. Read an excerpt from his book, Mountain to Climb
       button: Scale the greatest height
       url: /sports/2023/11/mountain-everest-expedition-david-lim/
+      image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
+        ropes.jpg
       alt: Image alt text
 ---
