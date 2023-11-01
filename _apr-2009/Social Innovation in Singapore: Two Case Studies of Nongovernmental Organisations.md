@@ -1,5 +1,5 @@
 ---
-title: "Social Innovation in Singapore: Two Case Studies of Non governmental
+title: "Social Innovation in Singapore: Two Case Studies of Nongovernmental
   Organisations"
 permalink: /vol-5/issue1/apr-2009/singapore-social-innovation-case-studies/
 description: Lee Kong Chian Research Fellow Zhang Liyan examines the phenomenon

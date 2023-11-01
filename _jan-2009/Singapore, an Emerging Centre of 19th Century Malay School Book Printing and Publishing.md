@@ -11,118 +11,121 @@ description: "Historical events suggest that Singapore emerged as a centre of
   Settlements under the Colonial Office and the Government Malay Press
   (1885–99)."
 ---
-#### Historical events suggest that Singapore emerged as a centre of Malay school book production in the 19th century through four phases of development: (i) Establishment of the Mission Press and the first printing in Malay in 1822; (ii) Missionary printing and Malay classes at the Singapore Institution (1817–46); (iii) Benjamin Peach Keasberry as the first official translator and printer of Malay school books (1847–75); and (iv) The Straits Settlements under the Colonial Office and the Government Malay Press (1885–99).
+#### Historical events suggest that Singapore emerged as a centre of Malay school book production in the 19th century. Lee Kong Chian Research Fellow *Lim Peng Han* traces the four phases of its development.
 
 
 #### **Identifying the Four Phases of Development**
 
 Historical events suggest that Singapore emerged as a centre of Malay school book production in the 19th century through four phases of development.
 
-Firstly, it was not accidental that the printing began in Singapore since its founding in 1819, but a conscious policy was likely to have been initiated by its founder, Sir Stamford Raffles and Dr William Morrison, the co-founder of the Anglo-Chinese College in Malacca (1818–1843).
+Firstly, it was not accidental that the printing began in Singapore since its founding in 1819, but a conscious policy was likely to have been initiated by its founder, Stamford Raffles, and Dr William Morrison, co-founder of the Anglo-Chinese College in Malacca (1818–43).
 
 #### **Introduction: British Presence in the Malay Peninsula**
 
-In 1786, the East India Company took possession of Penang. From 1786 to 1805, the island was a dependency of Bengal, and in 1805, Penang created the 4th Indian Presidency, with a large staff of officials (Mills, 1925, pp. 18–30). In that same year, Raffles became the secretary of the Penang Presidency at the age of 24. He learnt the Malay language and soon replaced the resident and interpreter with his letter writing abilities in the Malay language (Cross, 1921, pp. 33–34).
+In 1786, the East India Company took possession of Penang. From 1786 to 1805, the island was a dependency of Bengal, and in 1805, Penang created the 4th Indian Presidency, with a large staff of officials (Mills, 1925, pp. 18–30). In that same year, Raffles became the secretary of the Penang Presidency at the age of 24. He learnt the Malay language and soon replaced the resident and interpreter with his letter-writing abilities in the Malay language (Cross, 1921, pp. 33–34).
 
 #### **Raffles and the Manuscript Tradition**
 
 In 1810, Raffles was appointed Agent to the Governor-General of the Malay States by Governor-General Minto in Calcutta. Subsequently, Raffles set up a base in Malacca in December the same year to prepare for the invasion of Java in 1811 (Bastin, 1969, pp. 9–10). During this period, Raffles employed Ibrahim, Tambi Ahmad bin Nina Merikan, Munshi Abdullah, his uncle Ismail Lebai and his younger brother Mohammed as copyists of Malay “letters and texts” (Hill, 1955, p. 72).
 
-#### **The Founding of Singapore in 1819: The Singapore Institution and the First Printing Presses**
+#### **Founding of Singapore in 1819: Singapore Institution and the First Printing Presses**
 
-After Raffles founded Singapore in 1819, immigrants from Malacca, China, India and the neighbouring islands of the Netherlands East Indies flocked to the island (Saw, 1969, pp. 37–38). In 1824, the immigrant Malays made up about 43 per cent of the total population of Singapore. By 1860, the percentage dropped to about 15 per cent, as shown in Table 1. Chinese immigrants formed the largest racial group, at about 61 per cent in 1901. Malays were the largest minority race, compared with the Indians and Europeans.
+After Raffles founded Singapore in 1819, immigrants from Malacca, China, India and the neighbouring islands of the Netherlands East Indies flocked to the island (Saw, 1969, pp. 37–38). In 1824, immigrant Malays made up about 43 percent of the total population of Singapore. By 1860, this figure dropped to about 15 per cent, as shown in Table 1. Chinese immigrants formed the largest racial group, at about 61 percent in 1901. Malays were the largest minority race, compared with the Indians and Europeans.
+
+
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%201.JPG" style="width:100%;">
+ <div style="background-color: white;">Table 1: Population of Singapore by Race, 1824, 1834 and 1860 showing Malays as the largest minority ethnic group. <i>Crawfurd, 1839, p. 375; Newbold, 1839, p. 285; Braddell, 1861, p. 3.</i></div>
 
 #### **Raffles’ Education Policies for the New Settlement**
 
-Education was recognised by Raffles as one of the first needs of his new settlement (Neilson, n.d., p. 1). In 1819, Raffles wrote the first education policy for the island:<br>
+Education was recognised by Raffles as one of the first needs of his new settlement (Neilson, n.d., p. 1). In 1819, Raffles wrote the first education policy for the island:
 
-1\. To educate the sons of higher order of natives and others; <br><br> 2. To afford the means of instruction in the native languages to such of the Company’s servants and others as may desire it;<br><br>  3. To collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs and to publish and circulate in a correct form the most important of these, with such other works as may be calculated to raise the character of the institution and to be useful or instructive to the people (Raffles 1991, p. 33).
+1 To educate the sons of higher order of natives and others. <br><br> 2 To afford the means of instruction in the native languages to such of the Company’s servants and others as may desire it.<br><br>3 To collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs and to publish and circulate in a correct form the most important of these, with such other works as may be calculated to raise the character of the institution and to be useful or instructive to the people (Raffles, 1991, p. 33).
 
-Reverend Robert Morrison, the distinguished Chinese scholar and first Protestant missionary to China, then read a paper suggesting that the London Missionary Society (LMS) sponsored Anglo Chinese College (1815–1843) (Harrison 1979, pp. xi–xii) in Malacca be removed to Singapore and amalgamated with the proposed Singapore Institution (Philips 1908, p. 269). The modified proposed Singapore Institution was to consist of three departments:<br>
+Reverend Robert Morrison, the distinguished Chinese scholar and first Protestant missionary to China, then read a paper suggesting that the London Missionary Society (LMS)-sponsored Anglo-Chinese College (1815–43) (Harrison, 1979, pp. xi–xii) in Malacca be removed to Singapore and amalgamated with the proposed Singapore Institution (Philips, 1908, p. 269). The modified proposed Singapore Institution was to consist of three departments:<br>
 
-I. A scientific department for the common advantage of the several College that may be established.II. A literary and moral department for the Chinese, which the Anglo-Chinese College affords, and<br><br>II. A literary and moral department for the Chinese, which the Anglo-Chinese College affords, and<br><br>III. A literary and moral department for the Siamese, Malay, &amp; c., which will be provided for by the Malayan College (Raffles 1991, p. 75)
+I. A scientific department for the common advantage of the several College that may be established.<br><br>II. A literary and moral department for the Chinese, which the Anglo-Chinese College affords.<br><br>III. A literary and moral department for the Siamese, Malay, &amp; c., which will be provided for by the Malayan College (Raffles, 1991, p. 75).
 
-Raffles’ accounts of his educational schemes - one dated 1819, on the establishment of the Malay College at Singapore (Raffles 1991, pp. 23–38), and one dated 1823, describing the foundation and policy of the Singapore Institution (Raffles 1991, pp. 77–86), was intended for the whole region, the Malay Peninsula, Singapore and the Indonesian Archipelago. His educational schemes therefore were designed to include not only the principal peoples of the Malay Peninsula, but also the Javanese, the Bugis, the Siamese and other people from the surrounding islands (Hough, 1933, p. 166).
+Raffles’ accounts of his educational schemes – one dated 1819, on the establishment of the Malay College at Singapore (Raffles, 1991, pp. 23–38), and one dated 1823, describing the foundation and policy of the Singapore Institution (Raffles, 1991, pp. 77–86) – were intended for the whole region, the Malay Peninsula, Singapore and the Indonesian archipelago. His educational schemes therefore were designed to include not only the principal peoples of the Malay Peninsula, but also the Javanese, the Bugis, the Siamese and other people from the surrounding islands (Hough, 1933, p. 166).
 
-The second minute, dated 1823 at the meeting of the trustees, gave an account of the foundation and policy of the Singapore Institution. A proposed plan of the building drawn by Lieutenant Jackson was approved, and plans were made to purchase printing presses with “English, Malayan, and Siamese founts of types”, “and also to employ, on the account of the Institution”, a printer. LMS missionary Samuel Milton was appointed to take charge of the presses and superintend the printing. Mr John Argyle Maxwell, Secretary to the Institution, was requested to take charge of the Library and Museum of the Institution, and to act as the Librarian (Raffles, 1991, p. 83).
+The second minute, dated 1823 at the meeting of the trustees, gave an account of the foundation and policy of the Singapore Institution. A proposed plan of the building drawn by Lieutenant Jackson was approved, and plans were made to purchase printing presses with “English, Malayan, and Siamese founts of types”, “and also to employ, on the account of the Institution”, a printer. LMS missionary Samuel Milton was appointed to take charge of the presses and superintend the printing. John Argyle Maxwell, Secretary to the Institution, was requested to take charge of the Library and Museum of the Institution, and to act as the Librarian (Raffles, 1991, p. 83).
 
 As a collector of Malay manuscripts, Raffles would have known that he would need to translate European texts into Malay, and to convert Malay manuscripts into books for his proposed Singapore Institution. He also knew the importance of having printing presses, and would have known that the LMS missionaries brought the printing presses to Malacca to print the first Malay books as well as Chinese books (Ibrahim Ismail, 1982, pp. 193–195).
 
 #### **First Phase: First Printing in Malay in 1822**
 
-Rev Samuel Milton went to Singapore in October 1819 to establish a mission, and permission was given by Major Farquhar to set up a station upon his arrival (Milne 1820, p. 289). In 1821, Rev Claudius Henry Thomsen quit the LMS Malacca station to establish a Malay mission in Singapore (Medhurst ,1838, p. 315). Rev Thomsen and Munshi Abdullah “reached Singapore between the second quarter of 1821 and the middle of May, 1822” (Gibson-Hill, 1955, p. 195). Thomsen took with him a portable press and settled in Singapore (O’Sullivan, 1984, pp. 65–66). The first printing in Malay occurred in 1822 when Abdullah translated into Malay a Raffles proclamation making gambling and the opium farms illegal. The evidence is not conclusive but this was printed by the Mission Press and distributed around October 1822. The Mission Press, as it was designated, catered to the commercial and government needs of the infant settlement for eight years without a competitor (Byrd, 1970, pp. 13–14).
+Rev. Samuel Milton went to Singapore in October 1819 to establish a mission, and permission was given by Major Farquhar to set up a station upon his arrival (Milne, 1820, p. 289). In 1821, Rev. Claudius Henry Thomsen quit the LMS Malacca station to establish a Malay mission in Singapore (Medhurst ,1838, p. 315). Thomsen and Munshi Abdullah “reached Singapore between the second quarter of 1821 and the middle of May, 1822” (Gibson-Hill, 1955, p. 195). Thomsen took with him a portable press and settled in Singapore (O’Sullivan, 1984, pp. 65–66). The first printing in Malay occurred in 1822 when Abdullah translated into Malay a Raffles proclamation making gambling and the opium farms illegal. The evidence is not conclusive but this was printed by the Mission Press and distributed around October 1822. The Mission Press, as it was designated, catered to the commercial and government needs of the infant settlement for eight years without a competitor (Byrd, 1970, pp. 13–14).
 
-#### **Second Phase: Missionary Printing and the Malay Classes at the Singapore Institution, 1817–1846**
+#### **Second Phase: Missionary Printing and Malay Classes at the Singapore Institution, 1817–46**
 
-#### ***The LMS and the Malay Classes at the Singapore Institution, 1817–1846***
+##### ***The LMS and Malay Classes at the Singapore Institution, 1817–46***
 
-It was the LMS which first brought printing in Malay to the Straits Settlements by establishing stations in Malacca (1815–1843), Singapore (1819–1846) and Penang (1819–1844). The first printing in 1822 in Singapore was in Malay, (Byrd, 1970, p. 14) when LMS missionary Thomsen brought with him a press from Malacca the same year (O’Sullivan, 1984, pp. 65–66). In 1826, the colonies of Penang, Malacca and Singapore were amalgamated to form the Straits Settlements (Jarman, 1998, p. v.). In 1832, the seat of Government was transferred from Penang to Singapore (McKerron, 1948, p. 126)
+It was the LMS which first brought printing in Malay to the Straits Settlements by establishing stations in Malacca (1815–43), Singapore (1819–46) and Penang (1819–44). The first printing in 1822 in Singapore was in Malay, (Byrd, 1970, p. 14) when LMS missionary Thomsen brought with him a press from Malacca the same year (O’Sullivan, 1984, pp. 65–66). In 1826, the colonies of Penang, Malacca and Singapore were amalgamated to form the Straits Settlements (Jarman, 1998, p. v). In 1832, the seat of Government was transferred from Penang to Singapore (McKerron, 1948, p. 126)
 
-According to the Annual Reports of the Singapore Institution (1834–1837) and the Singapore Institution Free School (1838–1843), Malay religious tracts and books from the LMS stations in Penang, Singapore and Malacca were used by the Malay classes of the Singapore Institution.
+According to the annual reports of the Singapore Institution (1834–37) and the Singapore Institution Free School (1838–43), Malay religious tracts and books from the LMS stations in Penang, Singapore and Malacca were used by the Malay classes of the Singapore Institution.
 
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%201.JPG" style="width:100%;">
- <div style="background-color: white;">Table 1: Population of Singapore by Race, 1824, 834 and 1860 showing Malays as the largest minority ethnic group. <i>Crawfurd, 1839, p. 375; Newbold, 1839, p.285; Braddell, 1861, p. 3.</i></div>
 
-#### ***The American Board of Commissioners for Foreign Missions (ABCFM) and the Malay classes at the Singapore Institution, 1834–1842***
+##### ***The American Board of Commissioners for Foreign Missions (ABCFM) and Malay classes at the Singapore Institution, 1834–42***
 
-In 1834, the ABCFM established a station in Singapore after transferring their Chinese xylographic printing from Canton. Alfred North, a printer by training arrived in 1836 and became a special student of Munshi Abdullah. Only two tracts in Malay were printed (Croakley, 1998, p. 26). North collaborated with Munshi Abdullah to publish two Malay books, *Kesah Pelayaran Abdullah* (1838) (Gallop, 1990, p. 97) and *Sejarah Melayu* (1840/41) (Ibrahim Ismail, 1986, pp. 17–19). These books were used as school books in the Malay classes at the Singapore Institution in 1852 (Singapore Institution Free School, 1853, p. 21), and were the first school books published by a local author. Two years later, Munshi Abdullah passed away in Mecca (Raimy Che-Ross, 2000, p. 182). After the Opium War in 1842, many Chinese ports were opened and the LMS and ABCFM missionaries closed their stations and left for China (Graaf, 1969, p. 37).
+In 1834, the ABCFM established a station in Singapore after transferring their Chinese xylographic printing from Canton. Alfred North, a printer by training, arrived in 1836 and became a special student of Munshi Abdullah. Only two tracts in Malay were printed (Croakley, 1998, p. 26). North collaborated with Munshi Abdullah to publish two Malay books, *Kesah Pelayaran Abdullah* (1838) (Gallop, 1990, p. 97) and *Sejarah Melayu* (1840/41) (Ibrahim Ismail, 1986, pp. 17–19). These books were used as school books in the Malay classes at the Singapore Institution in 1852 (Singapore Institution Free School, 1853, p. 21), and were the first school books published by a local author. Two years later, Munshi Abdullah passed away in Mecca (Raimy Che-Ross, 2000, p. 182). After the Opium War in 1842, many Chinese ports were opened and the LMS and the ABCFM missionaries closed their stations and left for China (Graaf, 1969, p. 37).
 
-The history of the spread of Malay printing in Southeast Asia in the first half of the 19th century is very much the history of the Protestant activity in the region (Gallop, 1990, p. 92). In Singapore the ABCFM also contributed to the spread of Malay book printing and publishing.
+The history of the spread of Malay printing in Southeast Asia in the first half of the 19th century is very much the history of Protestant activity in the region (Gallop, 1990, p. 92). In Singapore, the ABCFM also contributed to the spread of Malay book printing and publishing.
 
-#### **Third Phase: Keasberry, the First Official Translator and Printer of Malay School Books, 1847–1875**
+#### **Third Phase: Keasberry, the First Official Translator and Printer of Malay School Books, 1847–75**
 
-In 1846, Benjamin Peach Keasberry was ordered to close the work in Singapore, but he refused to leave. On 2 April 1846, he wrote to the LMS in London, telling them that he could not “reconcile himself to the thought of this station being given.” (Haines, 1962, p. 226). He was convinced that his work lay among the Malay speaking population, although he was left without resources. He was allowed to use the mission press and the mission property at Bras Basah Road. Keasberry supported himself and his work by printing and teaching (Bachin, 1972, p. 12)
+In 1846, Benjamin Peach Keasberry was ordered to close the work in Singapore, but he refused to leave. On 2 April 1846, he wrote to the LMS in London, telling them that he could not “reconcile himself to the thought of this station being given” (Haines, 1962, p. 226). He was convinced that his work lay among the Malay-speaking population, although he was left without resources. He was allowed to use the mission press and the mission property at Bras Basah Road. Keasberry supported himself and his work by printing and teaching (Bachin, 1972, p. 12).
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%202.JPG" style="width:100%;">
  <div style="background-color: white;">Table 2: Enrolment of Malay Classes, Instructors, and Superintendents of the Malay School of the Singapore Institution, 1834–1841. <i> Singapore Free School, 1835, p. 2; Singapore Free School, 1836, p. 5; Singapore Free School, 1837, p. 7; Singapore Institution Free School, 1838, pp. 14, 72, 74; Singapore Institution Free School, 1839, p. 7; Singapore Institution Free School, 1840, p. 16; Singapore Institution Free School, 1841, p. 17; Singapore Institution Free School, 1843, p. 4.</i></div>
 
-In 1856, the Temmenggong of Johore and the East India Company (EIC) each contributed an annual sum of $1,500 to set up two Malay schools, one at Telok Blangah and the other at Kampong Glam, and to support Keasberry’s Malay mission school. In addition, part of the money was used to translate Malay manuscripts and publish them “to instruct Malay youth” (Jarman, 1998, p. 88). Keasberry was the first person to be officially appointed to translate and publish Malay school books for the Colony.
+In 1856, the Temmenggong of Johor and the East India Company (EIC) each contributed an annual sum of $1,500 to set up two Malay schools, one at Telok Blangah and the other at Kampong Glam, and to support Keasberry’s Malay mission school. In addition, part of the money was used to translate Malay manuscripts and publish them “to instruct Malay youth” (Jarman, 1998, p. 88). Keasberry was the first person to be officially appointed to translate and publish Malay school books for the colony.
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%203.JPG" style="width:100%;">
- <div style="background-color: white;">Table 3: Number of Pupil Boarders at Keasberry’s Malay Mission School During the Years 1847 to 1866 (selected years). Notes: According to the Annual Report on the Administration of the Straits Settlements from 1859 to 1864 there were mixed enrolments of boys and girls. <i> Buckley, 1965, p. 322; Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.</i></div>
+ <div style="background-color: white;">Table 3: Number of Pupil Boarders at Keasberry’s Malay Mission School, 1847–66 (selected years). <br>Note: According to the Annual Report on the Administration of the Straits Settlements, 1859–64, there were mixed enrolments of boys and girls. <i>Buckley, 1965, p. 322; Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.</i></div>
 
-Keasberry’s death brought an end to any extensive work in the Malay language on the peninsula for 20 years (Hunt, 1989, p. 41). In addition, the translation and production of Malay school books was interrupted, since his printing presses were sold to John Fraser and D. C. Neave in 1879 (Makepeace, 1908, p. 265). Fraser and Neave went on to publish directories, guides and company reports in English (Md Sidin Ahmad Ishak, 1992, p. 81).
+Keasberry’s death brought an end to any extensive work in the Malay language on the peninsula for 20 years (Hunt, 1989, p. 41). In addition, the translation and production of Malay school books was interrupted, since his printing presses were sold to John Fraser and D.C. Neave in 1879 (Makepeace, 1908, p. 265). Fraser and Neave went on to publish directories, guides and company reports in English (Md Sidin Ahmad Ishak, 1992, p. 81).
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%204.JPG" style="width:100%;">
- <div style="background-color: white;">Table 4: Total Enrolment and Average Attendance at Sekolah Abdullah (Abdullah’s School) From 1861 to 1866. <i>Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.</i></div>
+ <div style="background-color: white;">Table 4: Total Enrolment and Average Attendance at Sekolah Abdullah (Abdullah’s School), 1861–66. <i>Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.</i></div>
 
-#### **Fourth Phase: The Straits Settlements Under the Colonial Office and Expansion of Malay Government Schools: The Education Department’s Government Malay Press, 1885–1899**
+#### **Fourth Phase: Straits Settlements Under the Colonial Office and Expansion of Malay Government Schools: The Education Department’s Government Malay Press, 1885–99**
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%205.jpg" style="width:100%;">
- <div style="background-color: white;">Table 5: Total Enrolment and Average Attendance AT Telok Blangah Malay School From 1861 to 1866. <i>Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.</i></div>
+ <div style="background-color: white;">Table 5: Total Enrolment and Average Attendance at Telok Blangah Malay School, 1861–66. <i>Jarman, 1998, pp. 218, 366, 370, 522, 640, 744.</i></div>
 
-In 1867, the Straits Settlements were transferred from the control of the Indian Government to that of the Secretary of State for the Colonies in London. In 1870, the First Governor, Sir Harry Ord, appointed a Select Committee “to enquire into the State of Education in the Colony.” Upon the recommendations of the Committee, the first Inspector of Schools was appointed in 1872 to greatly extend and improve Malay vernacular schools (Wong &amp; Gwee, 1980, p. 11).
+In 1867, the Straits Settlements were transferred from the control of the Indian Government to that of the Secretary of State for the Colonies in London. In 1870, the first governor, Harry Ord, appointed a select committee “to enquire into the State of Education in the Colony”. Upon the recommendations of the Committee, the first Inspector of Schools was appointed in 1872 to greatly extend and improve Malay vernacular schools (Wong &amp; Gwee, 1980, p. 11).
 
-In 1891, 16 per cent of Malay boys aged 15 and below in the Straits Settlements were enrolled in Malay vernacular boys’ schools. By 1901, 22 per cent of Malay boys in the same age group went to Malay vernacular boys’ schools in the Straits Settlements (as shown in Table 6).
+In 1891, 16 percent of Malay boys aged 15 and below in the Straits Settlements were enrolled in Malay vernacular boys’ schools. By 1901, 22 percent of Malay boys in the same age group went to Malay vernacular boys’ schools in the Straits Settlements (as shown in Table 6).
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%206.JPG" style="width:100%;">
- <div style="background-color: white;">Table 6: Percentage of Malay Boys Aged 15 Years and Below in Malay Boys’ Schools in Singapore, Penang and Malacca in 1891 and 1901. <i>Hill, 1892, 284–287; Elcum, 1902, 218–222; Merewether, 1892, 43; Innes 1901, 19.</i></div>
+ <div style="background-color: white;">Table 6: Percentage of Malay Boys Aged 15 Years and Below in Malay Boys’ Schools in Singapore, Penang and Malacca in 1891 and 1901. <i>Hill, 1892, pp. 284–287; Elcum, 1902, pp. 218–222; Merewether, 1892, p. 43; Innes, 1901, p. 19.</i></div>
 
-#### **The Establishment and Growth of Government Malay Vernacular Girls’ Schools, 1884–1900**
+#### **Establishment and Growth of Government Malay Vernacular Girls’ Schools, 1884–1900**
 
-Malay girls’ schools were only founded in 1884, as there were difficulties to overcome in the establishment of such schools (Hill, 1885, p. 150). In 1901, no more than 2 per cent of Malay girls were enrolled in Malay vernacular girls’ schools in the Straits Settlements (as shown in Table 7). The rapid expansion of Malay vernacular schools in the 19th century was mainly confined to boys’ schools.
+Malay girls’ schools were only founded in 1884, as there were difficulties to overcome in the establishment of such schools (Hill, 1885, p. 150). In 1901, no more than 2 percent of Malay girls were enrolled in Malay vernacular girls’ schools in the Straits Settlements (as shown in Table 7). The rapid expansion of Malay vernacular schools in the 19th century was mainly confined to boys’ schools.
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%207.JPG" style="width:100%;">
- <div style="background-color: white;">Table 7: Percentage of Malay Girls Aged 15 Years and Below in Malay Girls’ Schools in Singapore, Penang and Malacca in 1891 and 1901.<i>: Hill 1892, 284–287; Elcum 1902, 218–222; Merewether 1892, 43; Innes 1901, 19.</i></div>
+ <div style="background-color: white;">Table 7: Percentage of Malay Girls Aged 15 Years and Below in Malay Girls’ Schools in Singapore, Penang and Malacca in 1891 and 1901.<i> Hill 1892, pp. 284–87; Elcum, 1902, pp. 218–22; Merewether, 1892, p. 43; Innes, 1901, p. 19.</i></div>
 
-It is likely that the shortage of Malay school books resulted in the Government’s purchase of two Malay vernacular newspapers, the *Jawi Peranakan* (1876) and *Sekolah Melayu* (1895) to be used as reading materials in the Government Malay schools (Jacobson, 1889, p. 216).
+It is likely that the shortage of Malay school books resulted in the government’s purchase of two Malay vernacular newspapers, the *Jawi Peranakan* (1876) and *Sekolah Melayu* (1895), to be used as reading materials in the government Malay schools (Jacobson, 1889, p. 216).
 
 <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%208.JPG" style="width:100%;">
- <div style="background-color: white;">Table 8: 19th Century Malay Vernacular Newspapers Used in Malay Vernacular Schools. <i>Lim, 1992, 6, 10; Roff, 1972, p. 21; Penny, 1888, 196–199; Hill, 1891, 102–105.</i></div>
+ <div style="background-color: white;">Table 8: 19th-century Malay Vernacular Newspapers Used in Malay Vernacular Schools. <i>Lim, 1992, pp. 6, 10; Roff, 1972, p. 21; Penny, 1888, pp. 196–99; Hill, 1891, pp. 102–05.</i></div>
 
-It was not until 1885 that Malay school book printing and publishing resumed with the setting up of the Government Malay Press. This was normally regarded as part of the Government Printing Office, and the books printed on this press bore the Government Press imprint (Proudfoot, 1993, p. 592). In 1888, the firm Kelly &amp; Walsh was appointed “to sell all books required in the schools (Penny, 1888, p. 189). By 1893, Kelly &amp; Walsh supplied books not only to the growing number of pupils and schools in the Straits Settlements, but also to those of the Malay States, Johore, Muar, Borneo and Sarawak (Hill, 1894, p. 322).
+It was not until 1885 that Malay school book printing and publishing resumed with the setting up of the Government Malay Press. This was normally regarded as part of the Government Printing Office, and the books printed on this press bore the Government Press imprint (Proudfoot, 1993, p. 592). In 1888, the firm Kelly &amp; Walsh was appointed “to sell all books required in the schools” (Penny, 1888, p. 189). By 1893, Kelly &amp; Walsh supplied books not only to the growing number of pupils and schools in the Straits Settlements, but also to those in the Malay States, Johor, Muar, Borneo and Sarawak (Hill, 1894, p. 322).
 
-In 1894, out of 24 Malay school books printed in Singapore, 19 or 73 per cent were produced by the Government Malay Press (as shown in Tables 9 and 10).
+In 1894, out of 24 Malay school books printed in Singapore, 19, or 73 percent, were produced by the Government Malay Press (as shown in Tables 9 and 10).
 
-<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%209.JPG" style="width:50%;">
+<img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%209.JPG" style="width:100%;">
  <div style="background-color: white;">Table 9: List of 24 Malay School Books Used in Malay Vernacular Schools in 1894. <i>Isemonger, 1894, p. 43; Proudfoot, 1993.</i></div>
- 
- <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%2010.JPG" style="width:100%;">
+<br>
+<br>
+ <img src="/images/Vol%204%20Issue%204/Emerging%20Centre/table%2010.JPG" style="width:80%;">
  <div style="background-color: white;">Table 10: 19 Out of 24 School Books Listed in 1894 Were Printed or Published by the Government Malay Press.</div>
 
-It was thus through these series of historical events and collaborations that Singapore emerged as a centre of 19th century Malay school book production and distribution in the Straits Settlements.
+It was thus through these series of historical events and collaborations that Singapore emerged as a centre of 19th-century Malay school book production and distribution in the Straits Settlements.
 
-***The author wishes to acknowledge the contributions of Dr Annabel Teh Gallop, Head, South and Southeast Asia section, The British Library in reviewing the paper.***
+<i>The author wishes to acknowledge the contributions of Dr Annabel Teh Gallop, Head, South and Southeast Asia section, The British Library in reviewing the paper.</i>
 
 <br>
 <div style="background-color: white;">
@@ -132,7 +135,7 @@ It was thus through these series of historical events and collaborations that Si
 
 #### **REFERENCES**
 
-A. H Hill, “An Annotated Translation of the Hikayat Abdullah,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 28, no. 3 (June 1955), 1–345. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+A.H. Hill, “An Annotated Translation of the Hikayat Abdullah,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 28, no. 3 (June 1955), 1–345. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 Abdullah Abdul Kadir and Annabel Teh Gallop, “Cerita Kapal ASAP,” trans. Annabel Teh Gallop, _Indonesian Circle_ no. 47–48 (1989), 3–18.
 
@@ -146,11 +149,11 @@ Brian Harrison, [_Holding the Fort: Malacca Under Two Flags_](https://eservice.n
 
 C. Bazell, “Education in Singapore,” in [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), ed. Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, vol. 1 (London: John Murray, 1921), 427–76. (Call no. RCLOS 959.51 MAK)
 
-C. E. Wurtzburg and W. Robinson, “The Baptist Mission Press at Bencoolen,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 23, no. 3 (August 1950): 136–42. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+C.E. Wurtzburg and W. Robinson, “The Baptist Mission Press at Bencoolen,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 23, no. 3 (August 1950): 136–42. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-C. M. Philips, C. M. (1908). “Raffles Institution, Singapore,” in [_Twentieth Century Impressions of Malaya: Its People, Commerce, Industries, and Resources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591), ed. Arnold Wright and H.A. Cartwright (London: Lloyd’s Greater Britain Publishing Company Ltd., 1908), 269–72. (Call no. RCLOS 959.3 TWE-\[SEA\])
+C.M. Philips. (1908). “Raffles Institution, Singapore,” in [_Twentieth Century Impressions of Malaya: Its People, Commerce, Industries, and Resources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591), ed. Arnold Wright and H.A. Cartwright (London: Lloyd’s Greater Britain Publishing Company Ltd., 1908), 269–72. (Call no. RCLOS 959.3 TWE-\[SEA\])
 
-C. M. Turnbull, “Melaka Under British Colonial Rule,” in [_Melaka: The Transformation of a Malay Capital, c. 1400–1980_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636), vol. 1, ed. Kernial Singh Sandhu and Paul Wheatley (Singapore: Institute of Southeast Asian Studies, 1983), 242–96. (Call no. RSEA 959.5141 MEL)
+C.M. Turnbull, “Melaka Under British Colonial Rule,” in [_Melaka: The Transformation of a Malay Capital, c. 1400–1980_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3012636), vol. 1, ed. Kernial Singh Sandhu and Paul Wheatley (Singapore: Institute of Southeast Asian Studies, 1983), 242–96. (Call no. RSEA 959.5141 MEL)
 
 C. Silvester Horne, [_The Story of the L.M.S_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2460931) (London: London Missionary Society, 1895). (Call no. RCLOS 266 HOR)
 
@@ -162,23 +165,23 @@ Demetrius Charles Boulger, [_The Life of Sir Stamford Raffles_](https://eservice
 
 Ding Choo Ming, “Access to Malay Manuscripts,” _Bijdragen tot de Taal-,Landen Volkenke_ 143, no. 4 (1987), 425–51. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-E. C Hill, _Annual Report of Education in the Straits Settlements for the Year 1884_ (Singapore: Government Printing Office, 1885)
+E.C. Hill, _Annual Report of Education in the Straits Settlements for the Year 1884_ (Singapore: Government Printing Office, 1885)
 
-E. C Hill, _Annual Report of Education in the Straits Settlements for the Year 1890_ (Singapore: Government Printing Office, 1891)
+E.C. Hill, _Annual Report of Education in the Straits Settlements for the Year 1890_ (Singapore: Government Printing Office, 1891)
 
 Ernest Chew, “The Foundation of a British Settlement,” in [_A History of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5914108), ed. Ernest C.T. Chew and Edwin Lee (Singapore: Oxford University Press, 1991), 36–40. (Call no. RSING 959.57 HIS)
 
-F. G. Penny, _Annual Report of Education in the Straits Settlements for the Year 1887_ (Singapore: Government Printing Office, 1888)
+F.G. Penny, _Annual Report of Education in the Straits Settlements for the Year 1887_ (Singapore: Government Printing Office, 1888)
 
-F. K. Bachin, “A Short Life of Benjamin Peach Keasberry,” in The Presbyterian Church in Singapore and Malaysia, [_90th Anniversary of the Church and 70th Anniversary of the Synod Commemoration Volume_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4592264) (Singapore: Presbyterian Church in Singapore and Malaysia, 1971), 11–13. (Call no. RSING 285.1595 PRE)
+F.K. Bachin, “A Short Life of Benjamin Peach Keasberry,” in The Presbyterian Church in Singapore and Malaysia, [_90th Anniversary of the Church and 70th Anniversary of the Synod Commemoration Volume_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4592264) (Singapore: Presbyterian Church in Singapore and Malaysia, 1971), 11–13. (Call no. RSING 285.1595 PRE)
 
 Francis H.K. Wong and Gwee Yee Hean, [_Official Reports in Education: Straits Settlements and the Federated Malay States_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082297) (Singapore: Pan Pacific Book Distributors Ltd., 1980). (Call no. RSING 370.95957 WON)
 
-G. A. Gibson-Hill, “The Date of Munshi Abdullah’s First Visit to Singapore,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 28, no.1 (March 1955), 191–95. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+G.A. Gibson-Hill, “The Date of Munshi Abdullah’s First Visit to Singapore,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 28, no.1 (March 1955), 191–95. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-G. G. Hough, “Notes on the Educational Policy of Sir Stamford Raffles,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 11, no. 2 (117) (December 1933), 166–70. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+G.G. Hough, “Notes on the Educational Policy of Sir Stamford Raffles,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 11, no. 2 (117) (December 1933), 166–70. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-H. J. de Graaf, [_Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=247220) (Amsterdam: Vangendt &amp; Co., 1969). (Call no. RCLOS 686.209598 GRA)
+H.J. de Graaf, [_Indonesia_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=247220) (Amsterdam: Vangendt &amp; Co., 1969). (Call no. RCLOS 686.209598 GRA)
 
 H. Marriott, “The Peoples of Singapore,” in [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), ed. Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell (London: John Murray, 1921), 341–76. (Call no. RCLOS 959.51 MAK)
 
@@ -212,7 +215,7 @@ Kartini Yayit, “Vanishing Landscapes: Malay Kampongs in Singapore,” (Bachelo
 
 Kevin Y. L. Tan, ed., “A Short Legal and Constitutional History of Singapore,” in [_The Singapore Legal System_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9337910) (Singapore: Singapore University Press, 1999), 26–66. (Call no. RSING 349.5957 SIN)
 
-L. A. Mills and C. O. Blagden, “British Malaya 1824–1867,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 3, no. 2 (November 1925): 1–198. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+L.A. Mills and C.O. Blagden, “British Malaya 1824–1867,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 3, no. 2 (November 1925): 1–198. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 57, no. 2 (247) (1984): 61–99. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
@@ -226,13 +229,13 @@ Md. Sidin Ahmad Ishak, “Malay Book Publishing and Printing in Malaya and Singa
 
 P.A.B. McKerron, _Report on Singapore for the Year 1947_ (Singapore: Government Printing Office, 1948)
 
-P. J. Begpie, [_The Malayan Peninsula: Embracing Its History, Manners and Customs of the Inhabitants, Politics, Natural History &amp;C. From Its Earliest Records_](https://eresources.nlb.gov.sg/printheritage/detail/f723409c-95e3-47d1-aeb3-cb2dbc568b8a.aspx) (Madras: Vepery Mission Press, 1834). (From BookSG; call no. RRARE 959.5 BEG; microfilm NL5827)
+P.J. Begpie, [_The Malayan Peninsula: Embracing Its History, Manners and Customs of the Inhabitants, Politics, Natural History &amp;C. From Its Earliest Records_](https://eresources.nlb.gov.sg/printheritage/detail/f723409c-95e3-47d1-aeb3-cb2dbc568b8a.aspx) (Madras: Vepery Mission Press, 1834). (From BookSG; call no. RRARE 959.5 BEG; microfilm NL5827)
 
 P. Lim Pui Huen, Marion Southerwood and Katherine Hui, [_Singapore, Malaysian and Brunei Newspapers: An International Union List_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6340966) (Singapore: Southeast Asian Studies, 1992). (Call no. RSING 016.0795957 LIM)
 
 Philip Lawson, [_The East India Company: A History_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6546064) (London: Longman, 1993). (Call no. RSING 382.0942050903)
 
-R. G. Jacobson, _Annual Report of Education in the Straits Settlements for the Year 1888_ (Singapore: Government Printing Office, 1889)
+R.G. Jacobson, _Annual Report of Education in the Straits Settlements for the Year 1888_ (Singapore: Government Printing Office, 1889)
 
 Raimy Che Ross, “Munshi Abdullah’s Voyage to Mecca: A Preliminary Introduction and Annotated Translation,” _Indonesia and the Malay World_ 28, no. 81 (July 2000):173–213, 182.
 
@@ -272,7 +275,7 @@ Thomas Stamford Raffles, [_Statement of the Services of Sir Stamford Raffles_](4
 
 Walter Makepeace, “The Press,” in [_Twentieth Century Impressions of Malaya: Its People, Commerce, Industries, and Resources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591), ed. Arnold Wright and H.A. Cartwright (London: Lloyd’s Greater Britain Publishing Company Ltd., 1908), 253–66. (Call no. RCLOS 959.3 TWE-\[SEA\])
 
-W. H. Medhurst, [_China: Its State and Prospects, With Special Reference to the Spread of the Gospel: Containing Allusions to the Antiquity, Extent, Population, Civilization, Literature, and Religion of the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4315422) (London: John Snow, 1838). (Call no. RRARE 266.0230951 MED)
+W.H. Medhurst, [_China: Its State and Prospects, With Special Reference to the Spread of the Gospel: Containing Allusions to the Antiquity, Extent, Population, Civilization, Literature, and Religion of the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4315422) (London: John Snow, 1838). (Call no. RRARE 266.0230951 MED)
 
 William Milne, _A Retrospect of the First Ten Years of the Protestant Mission to China_ &nbsp;(Malacca: Anglo-Chinese Press, 1820)
 

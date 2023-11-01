@@ -11,12 +11,15 @@ By Nick Aplin
 
 The _Manila Times_ called him “small but terrible”. Shanghai’s _North-China Daily News_ described him as a “spark-plug and a glutton for work”. Singapore’s _Sunday Tribune_ said he was as “swift as a hare, with brilliant ball control and unlimited stamina”.[^1]
 
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong.jpg)
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong3.jpg)
 <div style="background-color: white;">Chia Boon Leong at the training ground of Hedon Football Club in London, 1954. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
 
 In a report of a 1948 match between Rovers S.C. and RAF Seletar, the _Malaya Tribune_ wrote that the year’s “most spectacular goal was scored by Chia Boon Leong. Receiving the ball near mid-field from \[Gan\] Kee Siang, he cleverly worked his way up the Seletar goal mouth, eluding three defenders on the way and when faced with the goalkeeper, deftly placed the ball into the net wide off him. The entire solo move was so neatly executed that the first to congratulate him were the Seletar defenders”.[^2]
 
 Chia, who died in December 2022 at the age of 97, is widely considered to be one of the most talented and highly regarded football players ever to represent Singapore. He acquired the nickname “Twinkle Toes” after John Mahon, former English international player and coach of the visiting Swedish Gothenburg team, told his men during a match in December 1951: “Watch that little fellow, with the twinkling feet, he works hard, dribbles hard, and is outstanding both in attack and defence.”[^3]
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong2004.jpg)
+<div style="background-color: white;">Chia Boon Leong at the former Victoria School premises on Tyrwhitt Road, adjacent to Jalan Besar Stadium, 2004. <i>Photo by Tuck Loong, Image reproduced from Nick Aplin, David Waters and Leong May Lai, Singapore Olympians, The Complete Who's Who, 1936–2004 (Singapore: SNP Reference, 2005). (From National Library, Singapore, call no. RSING 796.09225957 APL).</i></div>
 
 One of Chia’s major accomplishments was representing China’s soccer team at the 1948 London Olympics (he was one of three Malayan Chinese footballers chosen along with Yeap Cheng Eng and Chu Chee Seng).[^4] Chia later became a household name in the Asian football world during the immediate postwar years. His active playing career also coincided with a period of Singapore’s dominance of the Malaya Cup during the early 1950s. He competed at every available level, and after retiring became manager of the Singapore soccer team briefly as well as a council member of the Football Association of Singapore.
 
@@ -33,7 +36,7 @@ Chia was just 17 years old when the Japanese captured Singapore in February 1942
 
 During the Occupation years, Chia was able to continue playing football when the Japanese formed the Syonan Sports Association.[^8] He also became a member of the Pasir Panjang Rovers football team that in 1943 won the Alsagoff Shield, an eight-game league tournament.[^9]
 
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/pasirpanjangrovers.jpg)
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/pasirpanjangrovers2.jpg)
 <div style="background-color: white;">The Pasir Panjang Rovers football team won the Alsagoff Shield in the Syonan Sports Association League in 1943. Chia Boon Leong is in the front row, second from right. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **The Postwar Years**
@@ -49,15 +52,31 @@ In an interview with _New Nation_ in April 1975, Chia revealed that one of his f
 
 On 19 November 1947, Lien Hwa played Shanghai’s first-division champions Tung Hwa, beating them 5–3 in a match in Shanghai’s Canidrome stadium before a crowd of 12,000. Although Chia did not score a goal in the game, his performance caught everyone’s eye. The _China Press_ wrote that Chia “won the hearts of the fans and Tung Hwa players with his tireless game. He was almost in every movement, aiding the defence and forward-line and showed beyond doubt that he knew how to play the inside-forward berth more than well”.[^12]
 
+
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/lienhwafootballteam.jpg)
+<div style="background-color: white;">The Lien Hwa football team in Shanghai, 1947. They beat Shanghai’s first division champions Tung Hwa 5–3. Chia Boon Leong is in the front row second from right. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 The _North-China Daily News_ reported that Chia had won the admiration of local fans and described his stamina as amazing. “One minute he is seen helping his defence and the next one sees him rushing through the opposing halves and backs. Although Chia personally did not score a single point, he took part in almost every defence movement of his side”.[^13]
 
 Such was his performance that the crowd of presumably Tung Hwa supporters mobbed Chia as he left the stadium to head towards the bus. “They were so natural and spontaneous in their feelings. The crowds surged towards me in the stadium and I had to go out by another way. The police had to form a circle around me to let me through. I still flush with pride whenever I think of this incident,” he recalled. “It was once-in-a-lifetime feeling.”[^14]
 
+
+#### **THE LIEN HWA TOUR (1947)**
+
+Between 22 October and 11 December 1947, the Lien Hwa team played 22 games around Asia. In total, Lien Hwa won 15 matches and lost three. Four matches ended in a draw. 
+
+
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/scoretable.jpg)
+
+<div style="background-color: white;">Note: Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game. "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">[Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)]</div>
+	
 #### **Playing in the Olympics and the Malaya Cup**
 
 Partly as a result of these performances, Chia was selected to represent China at the 1948 London Olympic Games. At the time, although a British subject, under China’s rules, he was still considered a Chinese player by dint of his ethnicity.
 
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/cblage50.jpg)
+![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/age50b.jpg)
 <div style="background-color: white;">Chia Boon Leong, age 50, in China’s Olympic football team jersey, 1975. He represented China in the 1948 London Olympics. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
 
 Though the China team eventually lost 4–0 to Turkey on 2 August 1948, Chia “created a favourable impression with his speed and methodical play” and “had a grand time in London”. “The game was played at a terrific pace. The Turks were much bigger built than us. They were able to score only once in the first half,” Chia told the _Straits Times_ on his return. During the match, centre forward Chu Wing Keung sustained an injury and the team played with just 10 men in the second half. The heavy rain made matters worse for the Chinese.[^15] The 4–0 loss was no disgrace.
@@ -93,86 +112,12 @@ Chia did not give up football entirely though. In 1974, he was made a council me
 
 I am honoured to say that I knew Chia personally. I first met him about 20 years ago at a service at Barker Road Methodist Church and I recognised him from afar. He was his mid-70s by then, and I recall that he was dressed very sharply. I approached him and he cheerfully confirmed his identity.
 
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong2004.jpg)
-<div style="background-color: white;">Chia Boon Leong at the former Victoria School premises on Tyrwhitt Road, adjacent to Jalan Besar Stadium, 2004. <i>Photo by Tuck Loong, Image reproduced from Nick Aplin, David Waters and Leong May Lai, Singapore Olympians, The Complete Who's Who, 1936–2004 (Singapore: SNP Reference, 2005). (From National Library, Singapore, call no. RSING 796.09225957 APL).</i></div>
-
 Once we made the football connection, it did not take long before my wife and I were invited to his home for homemade _kueh_ (cake) and to talk about soccer. We would pore over his photo albums and newspaper clippings. He was very proud that he had represented Singapore at the 1954 Asian Games and China at the 1948 London Olympics. At the same time, he was very humble as well. That was one enduring quality of his.
 
 Remarkably, even in the last months before his death at 97, Chia still led an active life. On 31 August 2022, he attended the launch of the book, _Roar: Football Legends of Singapore_, at Jalan Besar Stadium where a plaster cast of his left foot was unveiled.[^26] Chia died of pneumonia on 20 December that year. He is survived by his wife Lily Lim and their three sons. Writing on Facebook, his second son Tony said: “Despite his failing health, (dad) was very concerned for my mum, telling her he was sad to be leaving her. We will miss him dearly, especially at family gatherings. I will have no expert to watch football games with any more.”[^27]
 
 
-#### **Post-Retirement Career**
-
-Between 22 October and 11 December 1947, the Lien Hwa team played 22 games around Asia. In total, Lien Hwa won 15 matches and lost three. Four matches ended in a draw. 
-
-**Pre-tour match in Seremban**
-
-| Game | Date | Opponent | Result | Score | 
-| -------- | -------- | -------- | -------- | -------- |
-| 1 | 22 October | Shanghai Chinese | Won | 1–0 |
-
-**Pre-tour match in Singapore**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | --------- | -------- | -------- | -------- |
-|2| 25 October | R.A.F. XI Singapore | Won | 5–1 |
-	
-**Tour matches in Bangkok**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|3| 2 November | Chai Sod	Won | Won | 2–4 |
-|4| 4 November | Assumption | Won | 1–2 |
-|5| 6 November | Phra Nakorn | Won | 3-5 |
-|6| 7 November | Bangkok XI | Won | 6–0 |
-		
-**Tour matches in Hong Kong**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|7| 9 November | All-Hong Kong | Won | 1–0 |
-|8| 12 November | Sing Tao | Draw | 2–2 |
-
-**Tour matches in Shanghai**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|9| 15 November | Railways | Won | 6–4 |
-|10| 16 November | Tsing Peh | Draw | 1–1 |
-|11| 19 November | Tung Hwa | Won | 5–3 |
-|12| 22 November | White Eagles | Won | 4–0 |
-|13| 23 November | Tung Hwa &amp; Tsing Peh XI | Lost | 4–2 |
-
-**Tour matches in Hong Kong**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|14| 26 November | Combined Services | Draw | 3–3 |
-|15| 28 November | Combined Civilians | Draw | 3–3 |
-|16| 29 November | Combined Chinese | Lost | 6–2 |
-
-
-**Tour matches in Manila**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|17| 2 December | Manila Football League | Won | 6–0 |
-|18| 3 December | All-Manila | Won | 3–1 |
-|19| 5 December | Manila All-Chinese | Won | 3–0 |
-|20| 6 December | Manila Football League | Won | 5–0 |
-|21| 7 December | All-Manila | Won | 2–0 |
-
-
-
-**Tour matches in Hong Kong**
-
-| Game | Date | Opponent | Result | Score |
-| -------- | -------- | -------- | -------- | -------- |
-|22| 11 December | Sing Tao | Lost | 5–0 |
-
-
-<div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game.<br><br> "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>" <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)<br><br>
-<b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
+<div style="background-color: white;"><b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
 	
 	
 

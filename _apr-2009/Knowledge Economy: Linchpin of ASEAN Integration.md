@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Economy: Linchpin of Asean Integration"
+title: "Knowledge Economy: Linchpin of ASEAN Integration"
 permalink: /vol-5/issue1/apr-2009/knowledge-economy-linchpin-asean-integration/
 description: The keynote speech delivered by Dr Surin Pitsuwan,
   Secretary-General of ASEAN, on 17 October 2008 (Day Two) at the “Bridging
