@@ -875,4 +875,12 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Infopic
+      subtitle: Sports
+      id: infopic
+      description: Conquering the World’s Tallest Mountain
+      button: Scale the greatest height
+      url: /sports/2023/11/mountain-everest-expedition-david-lim/
+      alt: Image alt text
 ---
