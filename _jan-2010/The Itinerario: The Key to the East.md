@@ -128,7 +128,7 @@ J. Potter, “The World Through Travellers’ Eyes,” _Geographical_ 74, no. 4 
 
 Jan Huygen van Linschoten, _[The Voyage of John Huyghen Van Linschoten to the East Indies. From the Old English Translation of 1598. The First Book, Containing His Description of the East. Ed., the First Volume by the Late Arthur Coke Burnell, the Second Volume by P. A. Tiele](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_ (London: Printed for the Hakluyt Society, 1885). (Call no. RRARE 910.8 HAK; microfilm NL 24339, NL24340)
 
-John Hvighen van Linschoten, _[Iohn Hvighen Van Linschoten, His Discourse of Voyages Unto Y Easte &amp; West Indies: Deuided Into Foure Bookes](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, trans. W. Phillip (London: Iohn Wolfe, 1598) (From BookSG; call no. RRARE 910.8 LIN; microfilm NL8024)
+John Hvighen van Linschoten, _[Iohn Hvighen Van Linschoten, His Discourse of Voyages Unto Y Easte &amp; West Indies: Deuided Into Foure Bookes](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, trans. W. Phillip (London: Iohn Wolfe, 1598) (From BookSG; call no. RRARE 910.8 LIN; microfilm NL8024)
 
 Jurrien van Goor and Foskelien van Goor, _Prelude to Colonialism: The Dutch in Asia_ (Uitgeverij Verloren, 2004)
 
