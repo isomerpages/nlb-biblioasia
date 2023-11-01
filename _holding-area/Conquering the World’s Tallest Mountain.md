@@ -55,7 +55,7 @@ Discussions followed. The 48 hours’ notice was crucial. It was the minimum amo
 
 The game was on and I had to balance the risks of the team being stuck up high and keeping our resources together should a second attempt be required. But there was not a snowball's chance in hell I would have jeopardised any member unnecessarily for the sake of a summit. The 48 hours’ notice would give them time to retreat to BC even if they were on South Col. The team made good progress to C3 and we settled in for another long night.
 	
-![](/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/rozani%20climbing%20up%20lhoste%20face.jpg)
+<img style="width:75%;height:80%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/rozani%20climbing%20up%20lhoste%20face.jpg">
 <div style="background-color: white;">Rozani climbing up Lhoste Face to South Col, 18 May 1998.<i>Courtesy of David Lim.</i></div>
 
 The radio report on the morning of May 18 from the summit team showed that all had gone smoothly. They had slept using some bottled oxygen and were now en route to the Col. with an oxygen tank each. The LSE bottle would provide a modest flow of oxygen and have enough left over to use as an aid to sleep. At C2, Mok \[Ying Jang\] and I bid the sherpas a safe climb. The sherpas would climb, in a single day, to South Col. They never slept at C3. They wore smiles, but their eyes, darting left and right, reflected what they really felt. I had had that feeling before – the palm-moistening sensation as a summit push began.
