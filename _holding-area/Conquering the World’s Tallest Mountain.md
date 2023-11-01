@@ -20,7 +20,7 @@ This event comes 25 years after mountaineer and climber David Lim led the first 
 Unfortunately, one week after the team’s return, Lim was stricken with Guillain–Barré syndrome, a rare nerve disorder. Within days, his limbs were paralysed and his respiratory system shut down. Unable to speak, move or breathe, Lim endured 42 days in intensive care before his condition stabilised. He then spent six months recuperating in the hospital, where he had to re-learn basic skills such as writing, dressing himself and walking. Undeterred, Lim returned to mountaineering and has led more than 15 climbing expeditions since 1999, including the first all-Singaporean ascent of Aconcagua (6,961 m) in the Andes Mountain range in Argentina. 
 Mountain to Climb: The Quest from Everest and Beyond (1999) is Lim’s personal account of Singapore’s quest to climb Everest, including the failures, heartbreak and sacrifices. In this excerpt from Chapter 19, Lim recounts the events leading up to the team’s first attempt to summit Everest on 19 May 1998. (As this is an extract from the book, explanations have been added in square brackets to provide definitions and context for the BiblioAsia reader.)
 
-![](/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/route%20to%20summit1.jpg)
+<img style="width:75%;height:80%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/route%20to%20summit1.jpg">
 <div style="background-color: white;">Route to the summit. <i>Photo by Alan Silva.</i></div>
 
 <div><center>__________________________________________</center></div>
