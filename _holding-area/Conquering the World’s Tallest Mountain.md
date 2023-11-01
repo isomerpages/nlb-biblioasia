@@ -31,10 +31,10 @@ Cursing at this turn of events, I gave up trying to reach for the radio. Justin 
 
 “The game ain't over until the fat lady sings.”	
 
-![](/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/base%20camp.png)
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/base%20camp.png">
 <div style="background-color: white;">Singapore base camp on Everest.<i>Courtesy of David Lim.</i></div>
 	
-![](/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/david%20journal.jpg)
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/david%20journal.jpg">
 <div style="background-color: white;">David Lim journaling at Everest base camp.<i>Courtesy of David Lim.</i></div>
 	
 I lay in my tent, sleepless for most of the night, thinking about how that afternoon's coughing fit had either torn a ligament or a cartilage. A full dose of Voltaren painkiller was ineffectual. I awoke the following morning, May 16, hoping for the best. Another stab of pain doubled me over. I sat up, holding my side and turned to Edwin.
