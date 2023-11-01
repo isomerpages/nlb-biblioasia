@@ -22,6 +22,8 @@ Mountain to Climb: The Quest from Everest and Beyond (1999) is Lim’s personal 
 
 
 
+
+
   
 
 
@@ -63,5 +65,4 @@ Mountain to Climb: The Quest from Everest and Beyond (1999) is Lim’s personal 
 
 [^3]: Yong Li Xuan, “Search and Rescue Team Unable to Find Missing Singaporean Everest Climber, Says Wife,” _Straits Times_, 28 May 2023, https://www.straitstimes.com/singapore/search-and-rescue-team-unable-to-find-missing-singaporean-everest-climber-climber-s-wife.
 
-[^4}: David Lim, Mountain to Climb: The Quest from Everest and Beyond (Singapore: Epigram Books, 1999). (From National Library, Singapore, call no. RSING 796.522092 LIM); David Lim, Mountain to Climb: The Quest from Everest and Beyond (Singapore: South Col Adventures, 2006). (From National Library, Singapore, call no. RSING 796.522092 LIM)
-
+[^4]: David Lim, [Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: Epigram Books, 1999). (From National Library, Singapore, call no. RSING 796.522092 LIM); David Lim, Mountain to Climb: The Quest from Everest and Beyond[Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: South Col Adventures, 2006). (From National Library, Singapore, call no. RSING 796.522092 LIM)
