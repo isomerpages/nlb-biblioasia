@@ -62,15 +62,6 @@ The _North-China Daily News_ reported that Chia had won the admiration of local 
 
 Such was his performance that the crowd of presumably Tung Hwa supporters mobbed Chia as he left the stadium to head towards the bus. “They were so natural and spontaneous in their feelings. The crowds surged towards me in the stadium and I had to go out by another way. The police had to form a circle around me to let me through. I still flush with pride whenever I think of this incident,” he recalled. “It was once-in-a-lifetime feeling.”[^14]
 
-
-#### **THE LIEN HWA TOUR (1947)**
-
-Between 22 October and 11 December 1947, the Lien Hwa team played 22 games around Asia. In total, Lien Hwa won 15 matches and lost three. Four matches ended in a draw. 
-
-
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/scoretable.jpg)
-
-<div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game. "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">[Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)]</div>
 	
 #### **Playing in the Olympics and the Malaya Cup**
 
