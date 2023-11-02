@@ -125,9 +125,10 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 </div><br>
 <br>
 	
-<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/journal%20of%20a%20tour_yellow%20bg.jpg">
+<img style="width:55%;" src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/scoretable.png">
+<br>
 <div style="background-color: #fff6ba; text-align:left">
-	Title page of <i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G.</i></div><br>
+	Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game. “[<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1"><b>Lien Hwa Back After 42-Day Far East Tour</b></a>,”&nbsp;<i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG).]</div><br>
 
 </div>
 
