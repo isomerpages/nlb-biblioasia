@@ -52,7 +52,7 @@ Interwoven through Linschoten's narrative are parallel texts on the same subject
 
 The 36 illustrations in the original Dutch publication were drawn by Linschoten himself and engraved by the sons of famed Dutch engraver Joannes van Doetecum, Joannes Jnr and Baptista. Joannes Jnr engraved at least 24 plates along with the Plancius world map and the map of the island of Mozambique. The 1598 English translation should have 21 topographical plates and 32 portraits and views.[^13]
 
-<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/Capture1.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/mandarins.png">
  <div style="background-color: white;">Two-page fold out showing “How the mandarins of China, who are the principal authorities of government, are carried and delight in cruising on the rivers.” On the upper left is engraved Linschoten’s name, crediting him as the illustration’s creator.</div>
 
 The views, mostly stretch across two pages, are mainly of Goa and its region, showing stylised drawings of people. Linschoten claimed that his illustrations are true to life but in the 16th-century context, this means enhanced details rather than a lifelike quality. Examples of details are the vessels utilised for travelling, such as the palanquin carried by menservants or a riverboat floating serenely, and always some aspect of fashion and lifestyle. There are also plates describing natural products with details of fruits, leaves and the whole plant.
@@ -98,7 +98,7 @@ The king of fruits is not forgotten and there is a full chapter on the Duryoen[^
 
 ##### **Singapore**
 
-<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/Map%20.jpg">
+<img style="width:100%;" src="/images/Vol%205%20Issue%204/Itinerario/sumatra%20insula.png">
  <div style="background-color: white;"><i>Sumatra Insula</i> showing Singapore (“Sinca pura”) in the upper centre of the map, with Malacca identified not too far from it.
 </div>
 
@@ -128,7 +128,7 @@ J. Potter, “The World Through Travellers’ Eyes,” _Geographical_ 74, no. 4 
 
 Jan Huygen van Linschoten, _[The Voyage of John Huyghen Van Linschoten to the East Indies. From the Old English Translation of 1598. The First Book, Containing His Description of the East. Ed., the First Volume by the Late Arthur Coke Burnell, the Second Volume by P. A. Tiele](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_ (London: Printed for the Hakluyt Society, 1885). (Call no. RRARE 910.8 HAK; microfilm NL 24339, NL24340)
 
-John Hvighen van Linschoten, _[Iohn Hvighen Van Linschoten, His Discourse of Voyages Unto Y Easte &amp; West Indies: Deuided Into Foure Bookes](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, trans. W. Phillip (London: Iohn Wolfe, 1598) (From BookSG; call no. RRARE 910.8 LIN; microfilm NL8024)
+John Hvighen van Linschoten, _[Iohn Hvighen Van Linschoten, His Discourse of Voyages Unto Y Easte &amp; West Indies: Deuided Into Foure Bookes](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, trans. W. Phillip (London: Iohn Wolfe, 1598) (From BookSG; call no. RRARE 910.8 LIN; microfilm NL8024)
 
 Jurrien van Goor and Foskelien van Goor, _Prelude to Colonialism: The Dutch in Asia_ (Uitgeverij Verloren, 2004)
 
