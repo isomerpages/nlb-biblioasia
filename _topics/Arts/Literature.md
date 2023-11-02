@@ -6,7 +6,7 @@ third_nav_title: Arts
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/new-books-singapore-history/">New Books on Singapore History</a><br>
 
-<img src="![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)/images/Vol%2019%20Issue%202/New%20Books/book_1.png">
+<img src="/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg">
 <hr>
 
 #### **Interview with Rachel Heng**
