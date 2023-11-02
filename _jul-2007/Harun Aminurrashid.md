@@ -1,6 +1,6 @@
 ---
-title: Harun Aminurrishad
-permalink: /vol-3/issue2/jul-2007/harun-aminurrishad/
+title: Harun Aminurrashid
+permalink: /vol-3/issue2/jul-2007/harun-aminurrashid/
 description: Born Harun Bin Mohd Amin, Harun’s other pen names include Har,
   Gustam Negara, Atma Jiwa and Si Ketuit. He was a prolific writer and editor of
   several newspapers and magazines.
