@@ -7,7 +7,7 @@ description: Senior Librarian Bonny Tan explores Itinerario, a book by Dutchman
 ---
 ####  Senior Librarian *Bonny Tan* explores *Itinerario*, a book by Dutchman Jan Huygen van Linschoten that opened the secret passageway to the east for the Dutch and English.
 
-**<center>“There is no time more wasted than when a young fellow hangs bout his mother’s kitchen like a baby, neither knowing what poverty is, nor luxury, nor what is found in the world, an ignorance which is often the cause of his ruin.”[^1] <br>— Jan Huygen van Linschoten</center>**
+ <div style="background-color: white; text-align: center;"><b>“There is no time more wasted than when a young fellow hangs bout his mother’s kitchen like a baby, neither knowing what poverty is, nor luxury, nor what is found in the world, an ignorance which is often the cause of his ruin.”[^1] <br>— Jan Huygen van Linschoten</b></div>
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/Itinerario/Itinerario.jpg">
  <div style="background-color: white;">The title page of the 1598 English edition of the <i>Itinerario</i> from the copy at the National Library, Singapore.</div>
