@@ -111,7 +111,7 @@ Although lasting less than four years, the Japanese Occupation left Singapore wi
 
 The organisation of the War Relief Fund brought the interned Army officers quickly back to active duty. They took charge of the entire operation “including investigation and relief distribution, from a relief centre set up in the Victoria Memorial Hall”. The fund was set up when the British Military Administration (BMA) demonetised Japanese Occupancy currency.[^37]
 
-So quickly did the Army work that by October 1945, Colonel Bertha Grey, the first matron of the girls’ home on River Valley Road and the social secretary of the Army, had gotten the homes going again and Salvationists were staffing the People’s Restaurants.[^38] These “restaurants” scattered in town provided cheap meals for workers amid rising food prices. They had been started by the newly set-up Social Welfare Department established in April 1946 when the British Military Administration ended.
+So quickly did the Army work that by October 1945, Colonel Bertha Grey, the first matron of the girls’ home on River Valley Road and the social secretary of the Army, had gotten the homes going again and Salvationists were staffing the People’s Restaurants.[^38] These “restaurants” scattered in town provided cheap meals for workers amid rising food prices. They had been started by the newly set-up Social Welfare Department established in April 1946 when the BMA ended.
 
 ![](/images/Vol%2019%20Issue%204/Salvation%20Army/peoplesrestaurant2.jpg)
 <div style="background-color: white;">The People’s Restaurants sold affordable and nutritious lunches to the masses, 1947. <i>Courtesy of Ministry of Communication and Information.</i></div>
