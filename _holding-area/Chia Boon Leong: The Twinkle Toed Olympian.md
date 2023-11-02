@@ -117,6 +117,20 @@ Once we made the football connection, it did not take long before my wife and I 
 Remarkably, even in the last months before his death at 97, Chia still led an active life. On 31 August 2022, he attended the launch of the book, _Roar: Football Legends of Singapore_, at Jalan Besar Stadium where a plaster cast of his left foot was unveiled.[^26] Chia died of pneumonia on 20 December that year. He is survived by his wife Lily Lim and their three sons. Writing on Facebook, his second son Tony said: “Despite his failing health, (dad) was very concerned for my mum, telling her he was sad to be leaving her. We will miss him dearly, especially at family gatherings. I will have no expert to watch football games with any more.”[^27]
 
 
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>THE LIEN HWA TOUR (1947)</b><br>
+
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+&nbsp;&nbsp;&nbsp;<br>
+Between 22 October and 11 December 1947, the Lien Hwa team played 22 games around Asia. In total, Lien Hwa won 15 matches and lost three. Four matches ended in a draw.<br>
+</div><br>
+<br>
+	
+<img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/journal%20of%20a%20tour_yellow%20bg.jpg">
+<div style="background-color: #fff6ba; text-align:left">
+	Title page of <i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G.</i></div><br>
+
+</div>
+
 <div style="background-color: white;"><b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
 	
 	
