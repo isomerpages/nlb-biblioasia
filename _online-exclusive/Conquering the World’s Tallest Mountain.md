@@ -19,11 +19,13 @@ In May 2023, Singaporean Shrinivas Sainis Dattatraya, 39, went missing during an
 <div style="background-color: white;">In the western cwm (valley) with Lhoste dominating the far end of the valley. <i>Courtesy of David Lim.</i></div>
 
 This event comes 25 years after mountaineer and climber David Lim led the first Singapore expedition to successfully conquer Everest.[^4]  On 25 May 1998, Outward Bound Singapore instructor Edwin Siew became the first member from the team to reach the summit. He was followed by systems analyst Khoo Swee Chiow half an hour later. Lim himself did not make it to the summit due to an injury sustained during the climb.
+
 Unfortunately, one week after the team’s return, Lim was stricken with Guillain–Barré syndrome, a rare nerve disorder. Within days, his limbs were paralysed and his respiratory system shut down. Unable to speak, move or breathe, Lim endured 42 days in intensive care before his condition stabilised. He then spent six months recuperating in the hospital, where he had to re-learn basic skills such as writing, dressing himself and walking. Undeterred, Lim returned to mountaineering and has led more than 15 climbing expeditions since 1999, including the first all-Singaporean ascent of Aconcagua (6,961 m) in the Andes Mountain range in Argentina. 
-Mountain to Climb: The Quest from Everest and Beyond (1999) is Lim’s personal account of Singapore’s quest to climb Everest, including the failures, heartbreak and sacrifices. In this excerpt from Chapter 19, Lim recounts the events leading up to the team’s first attempt to summit Everest on 19 May 1998. (As this is an extract from the book, explanations have been added in square brackets to provide definitions and context for the BiblioAsia reader.)
+
+*Mountain to Climb: The Quest from Everest and Beyond* (1999) is Lim’s personal account of Singapore’s quest to climb Everest, including the failures, heartbreak and sacrifices. In this excerpt from Chapter 19, Lim recounts the events leading up to the team’s first attempt to summit Everest on 19 May 1998. (As this is an extract from the book, explanations have been added in square brackets to provide definitions and context for the BiblioAsia reader.)
 
 <img style="width:75%;height:80%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/route%20to%20summit1.jpg">
-<div style="background-color: white;">Route to the summit. <i>Photo by Alan Silva.</i></div>
+<div style="background-color: white;">Route to the summit. <i> Photo by Alan Silva.</i></div>
 
 <div><center>__________________________________________</center></div>
 	
@@ -34,10 +36,10 @@ Cursing at this turn of events, I gave up trying to reach for the radio. Justin 
 “The game ain't over until the fat lady sings.”	
 
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/base%20camp.png">
-<div style="background-color: white;">Singapore base camp on Everest.<i>Courtesy of David Lim.</i></div>
+<div style="background-color: white;">Singapore base camp on Everest.<i> Courtesy of David Lim.</i></div>
 	
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/david%20journal.jpg">
-<div style="background-color: white;">David Lim journaling at Everest base camp.<i>Courtesy of David Lim.</i></div>
+<div style="background-color: white;">David Lim journaling at Everest base camp.<i> Courtesy of David Lim.</i></div>
 	
 I lay in my tent, sleepless for most of the night, thinking about how that afternoon's coughing fit had either torn a ligament or a cartilage. A full dose of Voltaren painkiller was ineffectual. I awoke the following morning, May 16, hoping for the best. Another stab of pain doubled me over. I sat up, holding my side and turned to Edwin.
 
@@ -58,7 +60,7 @@ Discussions followed. The 48 hours’ notice was crucial. It was the minimum amo
 The game was on and I had to balance the risks of the team being stuck up high and keeping our resources together should a second attempt be required. But there was not a snowball's chance in hell I would have jeopardised any member unnecessarily for the sake of a summit. The 48 hours’ notice would give them time to retreat to BC even if they were on South Col. The team made good progress to C3 and we settled in for another long night.
 	
 <img style="width:75%;height:80%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/rozani%20climbing%20up%20lhoste%20face.jpg">
-<div style="background-color: white;">Rozani climbing up Lhoste Face to South Col, 18 May 1998.<i>Courtesy of David Lim.</i></div>
+<div style="background-color: white;">Rozani climbing up Lhoste Face to South Col, 18 May 1998.<i> Courtesy of David Lim.</i></div>
 
 The radio report on the morning of May 18 from the summit team showed that all had gone smoothly. They had slept using some bottled oxygen and were now en route to the Col. with an oxygen tank each. The LSE bottle would provide a modest flow of oxygen and have enough left over to use as an aid to sleep. At C2, Mok \[Ying Jang\] and I bid the sherpas a safe climb. The sherpas would climb, in a single day, to South Col. They never slept at C3. They wore smiles, but their eyes, darting left and right, reflected what they really felt. I had had that feeling before – the palm-moistening sensation as a summit push began.
 
@@ -71,9 +73,10 @@ Then the weather report came in. It said that the winds over the summit for the 
 But by 2.30 pm, it was clear that the situation with the sherpa was more serious than was earlier reported. A disjointed radio call from the face indicated that the sherpa had been hit by either a rock or an ice boulder and was suffering from a suspected broken femur. He was incapacitated near C3 and in great pain. Rob Morrison and Robert Boice from Hoffman's team had assisted the sherpa over a number of hours to the campsites. It was a combination of butt hauling and dragging, quite an effort at those altitudes. Sundeep Dhillon, a client from the Himalayan Kingdoms, was a doctor and he, too, went to the sherpa’s aid. I said it was no problem for them to spend the night in one of our tents and the spare oxygen could also be used if it was needed. At base camp a sled was being organised to evacuate the sherpa to BC. Our team radioed in at about 2 pm saying all was well and they would be resting up for the summit bid. They were ecstatic when I broke the good news to them about the weather. The gamble looked like it would pay off.
 
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/sg%20team%20at%20basecamp.jpg">
-<div style="background-color: white;">The first Singapore Everest expedition team at base camp, 1998. (Left to right: Johann, Bruce, Shani, Justin, Robert, Swee Chiow, Mok, Edwin, Leong, David and Rozani.) <i>Courtesy of David Lim.</i></div>
+<div style="background-color: white;">The first Singapore Everest expedition team at base camp, 1998. (Left to right: Johann, Bruce, Shani, Justin, Robert, Swee Chiow, Mok, Edwin, Leong, David and Rozani.) <i> Courtesy of David Lim.</i></div>
 
 At about 9.15 am, we heard Swee’s unmistakable voice. They had reached the South Summit. Mok, Leong [Chee Mun] and I let out a big cheer. It meant that they were well inside the turnaround time of noon and would bag the summit over the next hour. From the South Summit, the fresh bottle of Poisk that had been carried by their sherpa would be used. A higher flow-rate of 3-4 litres could be enjoyed for the hour long section negotiating the last problem, the Hillary Step. On returning to the South Summit after summitting, the LSE bottle would be retrieved (it would still have a few hours of oxygen left in it) by the climber and the descent to the Col would continue. The half-empty bottle left there earlier in the morning on the Balcony would provide enough oxygen until they reached the tents at South Col. And they had plenty in reserve and the oxygen sequencing seemed to be going nicely.
+
 Swee came on the radio again.
 	
 “We have a problem. There doesn't seem to be any rope left,” he said.
@@ -98,7 +101,7 @@ At that point, I broke into the conversation. I offered a partly used bottle fro
 
 I received one brief radio call from Roz at about noon but little was heard from the others until 2.30 pm when everyone had descended safely.
 
-Six days later, on 25 May 1998, Edwin Siew and Khoo Swee Chiow, accompanied by four Nepalese sherpas, successfully summited Mount Everest. It was the team’s second attempt. The Singapore Mount Everest team was conferred the Singapore Youth Award (Sports and Adventure) by the National Youth Council in July 1998, as their “exemplary dedication, discipline and determination to be the first Singapore team to conquer Mount Everest serve[d] as an inspiration to all Singaporeans”.[^5]  Mountain to Climb is available for reference at the Lee Kong Chian Reference Library and for loan at selected branch libraries (call nos. RSING 796.522092 LIM and SING 796.522092 LIM).
+*Six days later, on 25 May 1998, Edwin Siew and Khoo Swee Chiow, accompanied by four Nepalese sherpas, successfully summited Mount Everest. It was the team’s second attempt. The Singapore Mount Everest team was conferred the Singapore Youth Award (Sports and Adventure) by the National Youth Council in July 1998, as their “exemplary dedication, discipline and determination to be the first Singapore team to conquer Mount Everest serve[d] as an inspiration to all Singaporeans”.[^5]  Mountain to Climb is available for reference at the Lee Kong Chian Reference Library and for loan at selected branch libraries (call nos. RSING 796.522092 LIM and SING 796.522092 LIM).*
 
 <div style="background-color: white;">
 <br>
@@ -113,6 +116,6 @@ Six days later, on 25 May 1998, Edwin Siew and Khoo Swee Chiow, accompanied by f
 
 [^3]: Yong Li Xuan, “Search and Rescue Team Unable to Find Missing Singaporean Everest Climber, Says Wife,” _Straits Times_, 28 May 2023, https://www.straitstimes.com/singapore/search-and-rescue-team-unable-to-find-missing-singaporean-everest-climber-climber-s-wife.
 
-[^4]: David Lim, [Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: Epigram Books, 1999). (From National Library, Singapore, call no. RSING 796.522092 LIM); David Lim, Mountain to Climb: The Quest from Everest and Beyond[Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: South Col Adventures, 2006). (From National Library, Singapore, call no. RSING 796.522092 LIM)
+[^4]: David Lim, [Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: Epigram Books, 1999). (From National Library, Singapore, call no. RSING 796.522092 LIM); David Lim, [Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: South Col Adventures, 2006). (From National Library, Singapore, call no. RSING 796.522092 LIM)
 	
 [^5]: Daisy Ho, “[Everest Team Bags Award](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980630-1.2.31.1),” _Straits Times_, 30 June 1998, 23;&nbsp;“[Who Reached the Summit First?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980528-1.2.42.3.2.aspx),”&nbsp;_Straits Times_, 28 May 1998, 31. (From NewspaperSG)
