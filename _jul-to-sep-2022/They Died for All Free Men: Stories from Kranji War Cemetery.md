@@ -205,7 +205,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^34]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278), 213–16.
 
-[^35]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278), 248; Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092), 87–88.
+[^35]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278), 248.
 
 [^36]: Terry Pillay, “[A Living Tribute to Heroes Who Have No Graves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19570303-1.2.5),” *Sunday Standard*, 3 March 1957, 1 (From NewspaperSG)
 
