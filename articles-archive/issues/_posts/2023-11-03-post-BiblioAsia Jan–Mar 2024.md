@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Before the 1970s, it was not compulsory to wear a crash helmet while riding a motorcycle or scooter in Singapore. But a campaign encouraging people to voluntarily wear helmets failed, and the government had to use legislation instead.
+Talentime ruled the airwaves before it was first shown on television in 1967. The talent show launched the musical careers of bands such as The Crescendos and The Quests.
 
 <img src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/janaprcover.png">
 
