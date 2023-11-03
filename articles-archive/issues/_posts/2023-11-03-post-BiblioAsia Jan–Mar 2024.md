@@ -45,3 +45,15 @@ The history of the Salvation Army in Singapore goes back to at least 1935. *Lee 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/restoring-asian-films/">Restoring Classic Films from Asia</a><br>
 Besides restoring made-in-Singapore films, the Asian Film Archive is also involved in the preservation of other seminal Asian works. *Chew Tee Pao*.  [(PDF)]()
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a><br>
+The late architect William Lim did more than shape Singapore’s skyline. He was also deeply passionate about urban planning, culture, the arts and engaging the next generation. *Stephanie Pee*.  [(PDF)]()
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/interview-rachel-heng/">The Great Singapore Novel?</a><br>
+An interview with Rachel Heng, author of The Great Reclamation. *Soh Gek Han*.  [(PDF)]()
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/new-books-singapore-history/">New Books on Singapore History</a><br>
+New books available in the National Library’s collection.  [(PDF)]()
