@@ -114,7 +114,7 @@ Remarkably, even in the last months before his death at 97, Chia still led an ac
 &nbsp;&nbsp;&nbsp;<br>
 Between 22 October and 11 December 1947, the Lien Hwa team played 22 games around Asia. In total, Lien Hwa won 15 matches and lost three. Four matches ended in a draw.<br>
 </div><br>
-<br>
+
 	
 <img style="width:55%;" src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/scoretable.png">
 <br>
