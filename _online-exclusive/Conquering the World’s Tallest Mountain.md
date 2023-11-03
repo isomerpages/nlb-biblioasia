@@ -101,7 +101,7 @@ At that point, I broke into the conversation. I offered a partly used bottle fro
 
 I received one brief radio call from Roz at about noon but little was heard from the others until 2.30 pm when everyone had descended safely.
 
-*Six days later, on 25 May 1998, Edwin Siew and Khoo Swee Chiow, accompanied by four Nepalese sherpas, successfully summited Mount Everest. It was the team’s second attempt. The Singapore Mount Everest team was conferred the Singapore Youth Award (Sports and Adventure) by the National Youth Council in July 1998, as their “exemplary dedication, discipline and determination to be the first Singapore team to conquer Mount Everest serve[d] as an inspiration to all Singaporeans”.[^5]  Mountain to Climb is available for reference at the Lee Kong Chian Reference Library and for loan at selected branch libraries (call nos. RSING 796.522092 LIM and SING 796.522092 LIM).*
+*Six days later, on 25 May 1998, Edwin Siew and Khoo Swee Chiow, accompanied by four Nepalese sherpas, successfully summited Mount Everest. It was the team’s second attempt. The Singapore Mount Everest team was conferred the Singapore Youth Award (Sports and Adventure) by the National Youth Council in July 1998, as their “exemplary dedication, discipline and determination to be the first Singapore team to conquer Mount Everest serve[d] as an inspiration to all Singaporeans”.[^5]*  Mountain to Climb *is available for reference at the Lee Kong Chian Reference Library and for loan at selected branch libraries (call nos. RSING 796.522092 LIM and SING 796.522092 LIM.)*
 
 <div style="background-color: white;">
 <br>
@@ -112,7 +112,7 @@ I received one brief radio call from Roz at about noon but little was heard from
 
 [^1]: Mount Everest is known as Chomolungma by the Tibetans and Sagarmatha by the Nepalese, which mean “Goddess Mother of the World” and “Goddess of the Sky” respectively.
 
-[^2]: Freddie Wilkinson, “Want to climb Mount Everest? Here's What You Need to Know,” _National Geographic_, 29 October 2022, https://www.nationalgeographic.com/adventure/article/climbing-mount-everest-1.
+[^2]: Freddie Wilkinson, “Want to climb Mount Everest? Here's What You Need to Know,” _National Geographic_, 29 October 2022, https://www.nationalgeographic.com/adventure/article/climbing-mount-everest-1 .
 
 [^3]: Yong Li Xuan, “Search and Rescue Team Unable to Find Missing Singaporean Everest Climber, Says Wife,” _Straits Times_, 28 May 2023, https://www.straitstimes.com/singapore/search-and-rescue-team-unable-to-find-missing-singaporean-everest-climber-climber-s-wife.
 
