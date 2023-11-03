@@ -3,6 +3,7 @@ title: "They Died for All Free Men: Stories from Kranji War Cemetery"
 permalink: /vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/
 description: Remembering those who died while fighting the Japanese during World War II.
 image: /images/Vol 18 Issue 2/Kranji War Memorial/Memorial.png
+variant: markdown
 ---
 #### Remembering those who died while fighting the Japanese during World War II. 
 By Janice Loo
@@ -97,7 +98,7 @@ The Japanese caught up with the commandos and in the clashes that ensued, 13 men
 
 The other 10 Rimau commandos were captured and incarcerated at Outram Road Prison in Singapore, tried for espionage, and sentenced to death by beheading on 7 July 1945.[^34] Their remains rest in a collective grave in Kranji (plot 28, row A, headstones 1–10).
 
-Apart from the group of 10 men and Lyon (plot 27, row A, headstone 14), another two are buried in separate graves (plot 23, row D, headstone 19; and plot 32, row E, headstone 2) in Kranji, while four have their names etched on the Singapore Memorial (Columns 117 and 118). The remaining six lie in unmarked graves in the Riau Islands.[^35]
+Apart from the group of 10 men and Lyon, (plot 27, row A, headstone 14), another five are buried in separate graves (plot 23, row D, headstone 19 and 20; plot 32, row E, headstone 2 and 4; plot 27, row A, headstone 15). For the remaining seven, whose remains were not recovered, four have their names etched on the Singapore Memorial (Columns 117 and 118), and three are commemorated at the Plymouth Naval Memorial in England.[^35]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Tombstones.png)
 <div style="background-color: white;"> From left: The headstones of Corporal Raymond Lee Kim Teck of the Singapore Volunteer Corps, Lieutenant Colonel Ivan Lyon of the Gordon Highlanders and an unidentified sailor from the Royal Navy. <i>Photos by and courtesy of Janice Loo.
@@ -204,7 +205,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^34]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278), 213–16.
 
-[^35]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278), 248; Bose, [*Kranji*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12666092), 87–88.
+[^35]: Silver, [*Heroes of Rimau*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278), 248.
 
 [^36]: Terry Pillay, “[A Living Tribute to Heroes Who Have No Graves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaystandard19570303-1.2.5),” *Sunday Standard*, 3 March 1957, 1 (From NewspaperSG)
 

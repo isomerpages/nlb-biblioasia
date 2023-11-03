@@ -62,15 +62,6 @@ The _North-China Daily News_ reported that Chia had won the admiration of local 
 
 Such was his performance that the crowd of presumably Tung Hwa supporters mobbed Chia as he left the stadium to head towards the bus. “They were so natural and spontaneous in their feelings. The crowds surged towards me in the stadium and I had to go out by another way. The police had to form a circle around me to let me through. I still flush with pride whenever I think of this incident,” he recalled. “It was once-in-a-lifetime feeling.”[^14]
 
-
-#### **THE LIEN HWA TOUR (1947)**
-
-Between 22 October and 11 December 1947, the Lien Hwa team played 22 games around Asia. In total, Lien Hwa won 15 matches and lost three. Four matches ended in a draw. 
-
-
-![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/scoretable.jpg)
-
-<div style="background-color: white;">Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game. "<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">[Lien Hwa Back After 42-Day Far East Tour</a>," <i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG)]</div>
 	
 #### **Playing in the Olympics and the Malaya Cup**
 
@@ -117,7 +108,22 @@ Once we made the football connection, it did not take long before my wife and I 
 Remarkably, even in the last months before his death at 97, Chia still led an active life. On 31 August 2022, he attended the launch of the book, _Roar: Football Legends of Singapore_, at Jalan Besar Stadium where a plaster cast of his left foot was unveiled.[^26] Chia died of pneumonia on 20 December that year. He is survived by his wife Lily Lim and their three sons. Writing on Facebook, his second son Tony said: “Despite his failing health, (dad) was very concerned for my mum, telling her he was sad to be leaving her. We will miss him dearly, especially at family gatherings. I will have no expert to watch football games with any more.”[^27]
 
 
-<div style="background-color: white;"><b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>THE LIEN HWA TOUR (1947)</b><br>
+
+<div style="background-color: #fff6ba; text-align:left; font-size:100%">
+&nbsp;&nbsp;&nbsp;<br>
+Between 22 October and 11 December 1947, the Lien Hwa team played 22 games around Asia. In total, Lien Hwa won 15 matches and lost three. Four matches ended in a draw.<br>
+</div><br>
+
+	
+<img style="width:55%;" src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/scoretable2.png">
+<br>
+<div style="background-color: #fff6ba; text-align:left">
+	Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game. [“<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>,”&nbsp;<i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG).]</div>
+
+</div>
+
+<div style="background-color: white;"><br><b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
 	
 	
 

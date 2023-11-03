@@ -879,8 +879,8 @@ sections:
       title: Conquering the World’s Tallest Mountain
       subtitle: Sports
       id: infopic
-      description: David Lim led the 1st Singapore expedition team that successfully
-        scaled Mt. Everest. Read an excerpt from his book, Mountain to Climb
+      description: David Lim led the first Singapore team to successfully summit Mount
+        Everest in 1998. This is an excerpt from his book, Mountain to Climb.
       button: Scale the greatest height
       url: /sports/2023/11/mountain-everest-expedition-david-lim/
       image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
