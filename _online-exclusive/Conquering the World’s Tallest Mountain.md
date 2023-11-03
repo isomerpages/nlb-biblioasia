@@ -3,6 +3,7 @@ title: Conquering the World’s Tallest Mountain
 permalink: /sports/2023/11/mountain-everest-expedition-david-lim/
 description: Route to Everest Peak
 image: /images/Online Only Articles/Conquer the Tallest Mountain/route to summit1.jpg
+variant: markdown
 ---
 #### David Lim led the first Singapore expedition team that successfully scaled Mount Everest on 25 May 1998. This is an excerpt from his book,<i>Mountain to Climb: The Quest from Everest and Beyond.</i>
 
