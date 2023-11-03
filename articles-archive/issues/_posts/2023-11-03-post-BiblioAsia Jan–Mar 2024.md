@@ -52,7 +52,7 @@ The late architect William Lim did more than shape Singapore’s skyline. He was
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/interview-rachel-heng/">The Great Singapore Novel?</a><br>
-An interview with Rachel Heng, author of The Great Reclamation. *Soh Gek Han*.  [(PDF)]()
+An interview with Rachel Heng, author of *The Great Reclamation*. *Soh Gek Han*.  [(PDF)]()
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/new-books-singapore-history/">New Books on Singapore History</a><br>
