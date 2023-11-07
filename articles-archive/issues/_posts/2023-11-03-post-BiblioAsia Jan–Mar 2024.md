@@ -20,7 +20,7 @@ careers. *Jamie Lee and Mark Wong*.  [(PDF)]()
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/">The 1973 SEAP Games in Singapore</a><br>
-The 7th Southeast Asian Peninsular Games marked the first time that Singapore hosted an international sporting event since gaining independence in 1965. *Lim Tin Seng*.  [(PDF)]()
+Pat Chan, Heather Merican and Glory Barnabas made Singapore proud at the 7th Southeast Asian Peninsular Games. *Lim Tin Seng*.  [(PDF)]()
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/holding-area/permalink/chiaboonleongtest1/">Chia Boon Leong: The Twinkle-Toed Olympian</a><br>
@@ -28,7 +28,7 @@ Chia Boon Leong was the Fandi Ahmad of his time. *Nick Aplin*.  [(PDF)]()
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/">Konfrontasi: Singapore’s Experience of an Undeclared War</a><br>
-While most people associate the Konfrontasi with the Macdonald House bombing, the three-year campaign was much more than that single incident. *Alvin Tan*.  [(PDF)]()
+While most people associate the Konfrontasi with the MacDonald House bombing, the three-year campaign was much more than that single incident. *Alvin Tan*.  [(PDF)]()
 
 
 
