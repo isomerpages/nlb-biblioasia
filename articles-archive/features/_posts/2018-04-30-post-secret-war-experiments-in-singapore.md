@@ -4,6 +4,7 @@ date: 2018-04-30
 permalink: /vol-14/issue-1/apr-jun-2018/scret-war-expmt-insg/
 image: /images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret1.JPG
 layout: post
+variant: markdown
 ---
 #### The story of the Imperial Japanese Army farming bubonic plague-bearing fleas as biological weapons is very much fact, not fiction. **Cheong Suk-Wai** delves deeper.
 
@@ -29,7 +30,7 @@ The latter and his colleagues worked out of the stately building at Outram Park 
 
 #### **Burrowing Through Bookshelves**
 
-The terrifying details of Singapore as a base for Unit 731’s evil first came to light when Singaporean researcher and collector Lim Shao Bin was invited by the Singapore Society of Asian Studies to speak on the subject at the National Library on 4 November 2017. *The Straits Times* followed up with a newspaper report on 13 November.[^1] Lim, 61, began ferreting out the ugly truths about Unit 731 when he was in his 20s, poring through piles of books and papers cramming the dusty shelves of bookshops lining shabby but genteel Kanda Street in Tokyo.
+In September 1991, the _Straits Times_ wrote about the activities of Unit 731 following an interview with a former Singapore cabinet minister[^1] The Straits Times subsequently published a number of articles on this topic.[^2] Over two decades later, this topic resurfaced after Singaporean researcher and collector Lim Shao Bin was invited by the Singapore Society of Asian Studies to speak on the subject at the National Library on 4 November 2017. The Straits Times followed up with a newspaper report on 13 November. [^3] Lim, 61, began ferreting out the ugly truths about Unit 731 when he was in his 20s, poring through piles of books and papers cramming the dusty shelves of bookshops lining shabby but genteel Kanda Street in Tokyo.
 
 Lim is no eccentric, but an avid history buff and collector of memorabilia such as old postcards and photos of Singapore. His quest to uncover and piece together hidden details of the Japanese Occupation, including the atrocities of Unit 731, is his way of finding closure for his paternal grandfather’s senseless murder by the Japanese just after they surrendered to the Allied Forces in 1945 (see text box below).
 
@@ -48,7 +49,7 @@ In his memoir, Takebana also said that when he was first shipped in to Singapore
 
 Ironically, it was claimed that OKA 9420 was set up to rid Singapore of the plague and other infectious diseases. Some among its 600-strong staff thought that was true. Among them was Geoffrey Tan, who was one of those involved in making the anti-tetanus vaccine in Dai-ni lab. Tan stuck it out for four months before quitting. When Lim met Tan recently and asked him why he was willing to work there in the first place, the latter said that if the Japanese were developing vaccines against tetanus, “they cannot only be doing bad things”.
 
-In 2000, former Singaporean cabinet minister Othman Wok, who worked as a lab assistant in OKA 9420, wrote in his biography, *Never in My Wildest Dreams*, that he was certain Singapore had been a base for making biological weapons.[^2] For one thing, he was made to trap rats and then check his rodent bounty for fleas, which his colleagues in the lab would then retrieve for later use. Unfortunately, Othman, who died on 17 April 2017 at the age of 92, did not say more in his book about OKA 9420’s shady misdeeds.
+In 2000, former Singaporean cabinet minister Othman Wok, who worked as a lab assistant in OKA 9420, wrote in his biography, *Never in My Wildest Dreams*, that he was certain Singapore had been a base for making biological weapons.[^4] For one thing, he was made to trap rats and then check his rodent bounty for fleas, which his colleagues in the lab would then retrieve for later use. Unfortunately, Othman, who died on 17 April 2017 at the age of 92, did not say more in his book about OKA 9420’s shady misdeeds.
 
 But Lim unearthed more on this subject in Kanda Street. Besides the plague, he learnt from wartime documents found in Kanda Street bookshops that OKA 9420’s three labs cultivated such pandemic horrors as cholera, smallpox, malaria, typhus, dysentery and anthrax.
 
@@ -164,5 +165,8 @@ The next step of Lim’s quest is to find someone who can help him read and deci
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:Zaccheus, M. (2017, November 13). [WWII S’pore used as base to spread disease](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20171113-1.2.26.11). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
-[^2]:Othman Wok. (2000). [*Never in my wildest dreams*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10164769). Singapore: Raffles. (Call no.: RSING 324.259570092 OTH)
+
+[^1]: Phan Ming Yen (1991, September 19). <a href="https://eresources.nlb.gov.sg/newspapers/digitised/page/straitstimes19910919-1.1.24">WWII germ lab secret. </a><i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
+[^2]: See, for example, Phan Ming Yen (1991, September 25). <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19910925-1.2.32.16">US Army records mention wartime germ lab in S'pore.</a><i>The Straits Times</i>, p. 25 and Phan Ming Yen (1991, November 11). <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19911111-1.2.30.5">Germ lab’s head says work solely for research, vaccines</a><i>The Straits Times</i>, p. 20. Retrieved from NewspaperSG.
+[^3]:Zaccheus, M. (2017, November 13). [WWII S’pore used as base to spread disease](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20171113-1.2.26.11). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^4]:Othman Wok. (2000). [*Never in my wildest dreams*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10164769). Singapore: Raffles. (Call no.: RSING 324.259570092 OTH)
