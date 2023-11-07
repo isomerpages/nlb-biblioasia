@@ -30,7 +30,7 @@ The Crescendos started out in early 1961 as an all-male three-piece guitar band,
 
 The Crescendos’ first record, *Mr Twister*, was announced in February 1963,[^4] and by October had sold more than 10,000 copies. “Local dealers of Philips records confirmed that since the arrival of The Crescendos’ disc, a similar song by [famous American singer] Connie Francis on another label was ‘dropped’ by buyers who showed a marked preference for The Crescendos.”[^5] 
 
-![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image2.png)
+![](/images/Vol%2019%20Issue%202%2FSG%20Record%20Industry/image2.png)
 <div style="background-color: white;">The Crescendos (from left: Raymond Ho, Susan Lim, Leslie Chia and John Chee) recording at Television Singapura, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Within 18 months of the success of the first Crescendos release, there was a definite increase in activity within the local record industry. The Singapore branch of Philips began signing local acts quite aggressively and, in the mid-1960s, initiated a series of local records that developed into an exceptionally fine catalogue of Singapore pop releases.[^6]
@@ -47,7 +47,7 @@ By the end of the 1960s, there were hundreds of labels in Singapore catering to 
 
 Apart from supplying the Singapore market, many companies exported a significant percentage of their production, especially to Malaysia and Indonesia. One relatively small producer, Kwan Sia Record Company, which produced the Swan and Star Swan labels, reported that half of its 8,000 copies pressed from a single LP release was exported to Indonesia at a value of about $30,000.[^8]
 
-![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image3.png)
+![](/images/Vol%2019%20Issue%202%2FSG%20Record%20Industry/image3.png)
 <div style="background-color: white;">(Left) <i>Hala A’ Go-go</i>, a record released under the Swan label for Charlie &amp; His Go-Go Boys, 1967. Record companies like Kwang Sia Record Company (which produced the Swan label) also exported part of their production to overseas markets such as Malaysia and Indonesia. <i>Courtesy of National Archives of Singapore</i>.<br>(Right) <i>O.B. A Go Go</i>, a record released by Cosdel for The Trailers in 1967. This was a local band popular with teenagers in Singapore. <i>Courtesy of National Archives of Singapore.</i></div>
 
 By early 1967, Singapore was producing a total of 2.45 million records annually. According to the *Straits Times* in May 1967, three record companies – Life Record Industries, EMI Records (Southeast Asia) and Phonographic Industries – were expected to reach a total output of 8.925 million records in five years.[^9]
@@ -68,7 +68,7 @@ New music and entertainment venues specifically aimed at the youth demographic w
 
 Another example was “The Early Bird Show”, which was also held in a cinema, but at an early hour of the morning (hence its name), and not in conjunction with a film screening. “The ‘Early Bird Show’ has played to packed houses at Singapore’s Odeon Cinema. Starting at 8.45 a.m. each week, the show looks like being [sic] with us a long time yet, as it will continue as long as the fans respond,” reported *Radio Weekly* in July 1967.[^11]
 
-![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image5.png)
+![](/images/Vol%2019%20Issue%202%2FSG%20Record%20Industry/image5.png)
 <div style="background-color: white;">A local band (name not known) who was featured in “The Early Bird Show” at Odeon Cinema. The band members followed Western fashion trends, from their long hair to the bell-bottom pants. <i>Courtesy of National Archives of Singapore.</i></div>
 
 In addition, there were live concerts such as “A Night of Blue Beats”, “Pop Stars on Parade ’66”, “Top Talents ’66”, “What’s Up in Pops” and “Seven Sounds of Soul”. These featured all-star line-ups that differed from conventional concerts usually showcasing a single performer accompanied by one or two supporting artistes.
@@ -82,7 +82,7 @@ Other important platforms for local performers were the regular Talentime compet
 
 One novel event organised in the 1960s was the series of “Pool Parties” held at the Chinese Swimming Club. Everyone came in their swimsuit and could take a dip in the pool whenever they needed to cool off or in between dancing to the music of live bands. 
 
-![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image6.png)
+![](/images/Vol%2019%20Issue%202%2FSG%20Record%20Industry/image6.png)
 <div style="background-color: white;">An advertisement for a pool party at the Chinese Swimming Club, 1965. <i>Image reproduced from “Page 4 Advertisements Column 3,” Straits Times, 21 August 1965, 4. (From NewspaperSG).</i></div>
 
 It is possible to see connections between these modern live music performances and earlier forms of public entertainment such as Chinese street opera (*wayang*) and Malay opera (*bangsawan*) performed by travelling opera troupes on open-air stages, and even the relatively more recent *getai* (literally meaning “song stage”) performances associated with the Chinese Hungry Ghost festival.[^12]
@@ -103,7 +103,7 @@ From the mid-1960s onwards, even the conservative *Radio Weekly* began devoting 
 
 Another new development was sponsored radio programmes devoted to pop music. Cosdel Record Company, for example, promoted two radio shows: “Your Record Shop” on Radio Singapore and “Cosdel Pop Shop” on Rediffusion. These programmes played local records on the Cosdel label as well as imported labels that were distributed by Cosdel.[^15]
 
-![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image7.png)
+![](/images/Vol%2019%20Issue%202%2FSG%20Record%20Industry/image7.png)
 <div style="background-color: white;">A Cosdel advertisement promoting its radio shows, “Your Record Shop” and “Cosdel Pop Shop”, 1967. <i>Image reproduced from “Page 12 Advertisements Column 2,” Straits Times, 21 May 1967, 12. (From NewspaperSG)</i></div>
 
 By the late 1960s, local popular music was deemed important enough to be treated seriously, with regular columns appearing in daily newspapers and other print media. The lure of a much larger market in Malaysia and Indonesia also gave rise to Malay-language pop music publications that were based in Singapore.[^16]  
@@ -126,7 +126,7 @@ It is clear that the combination of a number of factors created a unique situati
 
 Like almost everywhere else in the world, Singapore was influenced by 1960s pop culture and garage bands (instrumental groups formed by teenagers who played more for fun than anything else) that became part of the local scene. In the 1960s, it was still possible to achieve a level of success and even make records without turning professional. This was why many recording artistes chose not to make music their full-time occupations. For instance, the Singapore all-girl band The Vampires started in 1965 when all its members were still in school.
 
-![](/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image8.png)
+![](/images/Vol%2019%20Issue%202%2FSG%20Record%20Industry/image8.png)
 <div style="background-color: white;">Singapore all-girl band The Vampires. The group was formed in 1965 when the girls were still in school. <i>Courtesy of LP Cover Lover.</i></div>
 
 Despite the many new developments in the entertainment scene and the dramatic spike in record industry activity, other aspects of the Singapore music scene were not that much different from what they had been in the 1950s. While there was still a limited number of professional bands and singers, there was a large pool of undiscovered amateur talent who appeared in Talentime quests and other similar events, charity concerts, parties, and occasionally professional concerts or dances.
@@ -134,7 +134,7 @@ Despite the many new developments in the entertainment scene and the dramatic sp
 As the local press devoted more space to its coverage of popular music, we have a more accurate picture of 1960s popular culture in Singapore compared to previous decades. Clearly, the youth culture and the dynamism of the 1960s made this period an especially fascinating one in the development of Singapore’s musical culture.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-<img src="/images%2FVol%2019%20Issue%202%2FSG%20Record%20Industry/image9.png"><br>
+<img src="/images/Vol%2019%20Issue%202%2FSG%20Record%20Industry/image9.png"><br>
 This is an edited chapter from the book, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205959499"><i>From Keroncong to Xinyao: The Record Industry in Singapore, 1903–1985</i></a>, by Ross Laird and published by the National Archives of Singapore (2023). The publication is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos. RSING 338.4778149095957 LAI and SING 338.4778149095957 LAI). It also retails at major bookstores as well as online. </div>
 
 <div style="background-color: white;">
