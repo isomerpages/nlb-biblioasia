@@ -9,12 +9,12 @@ image: /images/Vol 19 Issue 4/7 Talentime/photo1.png
 #### Although Talentime has been replaced by reality talent contests, it will be remembered as a show that launched the musical careers of many Singaporeans.
 By Jamie Lee and Mark Wong
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo1.png)
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo1.png)
 <div style="background-color: white;">The Tidbits clinched the top prize with their rendition of “I Believe” at the 1968 Talentime. They were one of the local bands to have recorded with RCA. <i>Jean Dabel Collection, courtesy of National Archives of Singapore.</i></div>
 
 In its heyday, Talentime was a major cultural phenomenon in Singapore. Through radio, and later television, the talent show gave aspiring singers and bands a chance to make it big on the national stage. In the 1960s, The Crescendos and The Quests were picked up by record labels after being talent-spotted on the show. Singer Jacintha Abisheganaden got her big break when she won the contest in 1976 as part of the group Vintage.
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo2-rev4.png)
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo2-rev4.png)
 <div style="background-color: white;">From left: Raymond Ho, Susan Lim, Leslie Chia and John Chee of The Crescendos, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Its hold on the public’s imagination, at least at one point, was remarkable. “\[T\]he first year that we put Talentime on to \[sic\] television \[in 1967\], there was no traffic on the road,” recalled veteran broadcaster Vernon Cyril Palmer in his oral history interview. “All traffic came to a halt. Anybody who was near an electronic shop would stop by and watch the programme through the display window. And most people stayed at home to watch the programme. That was how effective Talentime was.”[^1]
@@ -27,14 +27,14 @@ Beamish had been the one to come up with the name Talentime. “[The name] ‘Am
 
 The winner of the first Talentime round was 32-year-old Eurasian clerk Freddie Jansen, who sang “Surrender”. He “clocked highest on the applause meter” at the show on 18 February 1949.[^6] “Crooning is again the rage in Singapore,” trumpeted the *Sunday Times*. “With the introduction of Radio Malaya’s ‘Talentime’, the crooners and their soft mellow voices will no longer be confined to the microphones of the amusement parks and cabarets – or the bathrooms. Crooners will compete with each other in ‘Talentime’, and over the ether will come the voices of Singapore’s Bing Crosbys, Frank Sinatras and Perry Comos.”[^7]
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo4-rev2.png)
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo4-rev2.png)
 <div style="background-color: white;">Eurasian clerk Freddie Jansen was the winner of the first broadcast Talentime on 18 February 1949. <i>Image reproduced from “It’s Talentime Tonight,” Malaya Tribune, 27 April 1949, 8. (From NewspaperSG).</i></div>
 
 It turns out that the _Straits Times_ was mistaken that the future was crooning. On 27 April 1949, Larry Fenton and his Tin Can Toledos took the winner’s title at the first Talentime finals. The Tin Can Toledos were not crooners. Instead, they were a “cowboy novelty act in which Larry… sang, yodelled, did vocal gymnastics and impressions”.
 
 The finals were held at the Victoria Memorial Hall and a thousand-strong audience came to watch while thousands more listened to the subsequent broadcasts.[^8] It was so popular that 200 forged tickets were collected, in addition to the 850 officially issued tickets.[^9] (Remarkably, some five decades later, Larry would go on to win the first prize in Singapore Broadcasting Corporation’s _Talent Quest_ in February 1989. Then 73, he gave a “gutsy impersonation of a radio broadcasting station”.[^10])
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo3.png)
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo3.png)
 <div style="background-color: white;">Larry Fenton and the Tin Can Toledos. From left: Carl Miles, Leo Miles, Larry Fenton and Larry’s wife. <i>Image reproduced from “It’s Talentime Tonight,” Malaya Tribune, 27 April 1949, 8. (From NewspaperSG).</i></div>
 
 #### **The Young Ones**
@@ -44,14 +44,14 @@ Then there was the element of audience participation. This gave ordinary people 
 
 At least in the early years, the atmosphere was relaxed. “There were no rehearsals,” Gan recalled. “We just turned up and banged it out.”[^13] According to Reginald (Reggie) Verghese of The Quests, during the band’s 1963 Talentime experience, their “\[g\]uitars were out of tune. \[Music director\] Charlie Lazaroo threw us out. You know, there were no tuners at that time. So we tuned, then in the air-con, somebody’s guitar \[goes\] slightly out.”[^14]
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo7-rev3.png)
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo7-rev3.png)
 <div style="background-color: white;">Cover of 45rpm single <i>Tea Break/Pop Inn Theme (Watch Your Step)</i> (1965) by The Quests. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Budding musicians saw Talentime as a way of gaining visibility and kick-starting their careers. “During that time, there was only one English radio station,” recalled John Chee of The Crescendos. “So whoever it is would listen to that radio station would ultimately hear us because the disc jockeys at the time were also wanting to push local talent.”
 
 The Crescendos themselves were catapulted into stardom after catching the eye of producer and compere Kingsley Morrando while participating in Talentime in 1962.[^15] Morrando talked Philips into recording the band’s debut single, _Mr Twister/Frankie_ (1963),[^16] which became the first record by a Singapore pop band released by an international record company.
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo5-rev3.png) 
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo5-rev3.png) 
 <div style="background-color: white;">The Crescendos’ first record, <i>Mr Twister/Frankie</i> (1963), was a great success. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Another group that found fame via Talentime was The Tidbits – a trio comprising teenage schoolgirls Serene Wee, her sister Merlina Wee and their cousin Bernadette De Souza. They clinched the top prize in the vocal group category with their rendition of “I Believe” in 1968.[^17] The Tidbits went on to release a vinyl recording featuring four songs, “I Believe”, “Breaking Up Is Hard to Do”, “Never My Love” and “Lace Covered Window”,[^18] becoming Southeast Asia’s first recording artistes on RCA’s international label.[^19]
@@ -67,7 +67,7 @@ This fixation on adjudication could seem excessive at times. During the 1976 Eng
 #### **Video Killed the Radio Star**
 The launch of television on 15 February 1963 in Singapore, and eventually a televised version of Talentime four years later, resulted in the show emphasising spectacle. Audiences in the age of television had more stringent expectations for singers – not only did their musical performances have to be up to mark, but their entire visual language had to impress – from costumes and movements, down to facial expressions.
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo6.png)
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo6.png)
 <div style="background-color: white;">People waiting outside the Victoria Memorial Hall to catch their first glimpse of black-and-white TV images at the launch of Television Singapura on 15 February 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In 1978, The Masquerades performed in skin-tight costumes, red capes and sequinned masks.[^24] The group continued their gimmick of appearing masked until the finals. “The revelation of their faces at the end of their song, I Want to Give Everything to You (including their identity) was an appropriate close to their performance,” reported the _Straits Times_. The Masquerades eventually took third place in the vocal groups category.[^25]
@@ -76,7 +76,7 @@ Following Singapore’s independence in 1965, the airwaves were brought under th
 
 Government policy had an impact on the kinds of music that was deemed acceptable for Talentime. While musical genres such as psychedelic rock, metal and punk rock blossomed in North America and Western Europe between the 1960s and 1970s, RTS played it safe in compliance with the government’s anti-yellow culture campaign at the time.[^26]
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo10.png)
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo10.png)
 <div style="background-color: white;"> Trophy and vinyl record from the 1968 <i>RTS Talentime. Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 The government also sometimes intervened directly during the contest. During 1971’s Talentime, Johnny Tan tried his luck again. (He had made it to the finals of _Radio Talentime_ in 1968.[^27])
@@ -88,7 +88,7 @@ While everyone obviously wanted to win, being crowned rarely translated into pro
 
 Sugiman released a string of records, including _I Look at You_ (Columbia; 1968), _Kesah Chinta_ (Parlophone; 1971) and _Woman Woman_ (Columbia; undated).[^32] Another notable winner was, of course, Jacintha Abisheganaden.
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo8-rev3.png)
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo8-rev3.png)
 <div style="background-color: white;">The Vintage, winner of the 1976 Talentime. From left: Lim Cheng Hui, Lim Siauw Chong and Jacintha Abisheganaden. <i>Image reproduced from “Vintage Victory,” New Nation, 29 October 1976, 1. (From NewspaperSG).</i></div>
 
 If winning automatically translated into commercial success, losing the competition did not spell failure either. Quite a few contestants who did not make the finals went on to have long, successful careers in music.[^33] These include Joe Chandran of the X’periment, Alban De’Souza[^34] and Talib Ismail of Tania, and Mel Ferdinands of Gypsy.[^35]
@@ -106,7 +106,7 @@ Talentime would soon seem like an anachronism when the British reality televisio
 
 Auditions for _Singapore Idol_ that began in June 2004 attracted more than “3,000 wannabe-stars to warble for a shot at fame and a recording contract”. In the finals on 1 December that year, 8,000 people turned up at the Singapore Indoor Stadium to watch Taufik Batisah emerge as the winner.
 
-![](/images%2FVol%2019%20Issue%204%2F7%20Talentime/photo9-rev3.png)
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo9-rev3.png)
 <div style="background-color: white;"> <i>Singapore Idol</i> made its first winner, Taufik Batisah, a household name and launched his career. He is seen here performing at the May Day concert and carnival at Waterfront Bay by the Esplanade in 2005. <i>Ministry of Information, Communications and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 “Singapore Idol’s claim to fame is the fact that it managed to collectively rally Singaporeans from all walks of life to cheer, cry and hammer away at their mobile phones to vote for their favourite singer – not an American crooner or a British rapper, but a true-blue Singaporean soulster,” wrote Sujin Thomas of the _Straits Times_.[^41] _Singapore Idol_ continued for two more seasons – in 2006 and 2009.

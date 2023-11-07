@@ -32,7 +32,7 @@ The use of Madras *chunam* is mentioned in the 1899 book, *Prisoners Their Own W
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-16-issue-4/standrew/JohnFred.jpg">
+<img src="/images/Vol-16-issue-4/StAndrew/JohnFred.jpg">
 A studio portrait of Major John Frederick Aldophus McNair in his uniform, c. 1900. McNair, who supervised the construction of St Andrew’s Church, recounted in his book, <i>Prisoners Their Own Warders</i>, that Madras <i>chunam</i> was used as a plaster for the interior walls and columns of the church. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
 
@@ -44,7 +44,7 @@ Over the last 100 years, it has become axiomatic that Madras *chunam* was used i
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-16-issue-4/standrew/PlasterSample.jpg">
+<img src="/images/Vol-16-issue-4/StAndrew/PlasterSample.jpg">
 Plaster sampling at one of the columns in St Andrew’s Cathedral. A sample of the plaster was taken from the surface to the brick substrate for laboratory analysis. In this photograph, a thin layer (2–3 mm) of grey Portland cement screed can be seen under the white paint layer. <i>Courtesy of Yeo Kang Shua</i>.
 </div>
 
@@ -116,7 +116,7 @@ Vicat and Holman also held different views on the number of eggs required to mak
 
 |Coconut fibre in some form is cited as an ingredient by McNair though not by Vicat and Holman. It is unclear from McNair’s account if the lime plaster was mixed with water, together with the coconut fibre (husk) that was steeped in it, or just the water, with the husk removed. Coconut fibre is composed mainly of cellulose, hemicellulose and lignin, which are insoluble in water.[^19] Coconut fibre, however, is known to have been added to plaster to improve its tensile strength[^20] and it is not inconceivable that it was used in the mixture.|
 
-|<img src="/images/Vol-16-issue-4/standrew/LimeKiln.png">A lime kiln at Kampong Mata Ikan, 1967. Seashells (white pile on the left), which are made of calcium carbonate, are heated to approximately 900 degrees Celsius to produce calcium oxide, also known as quicklime. The man is using a woven rattan *pungki* or *pengki* (畚箕) (a shallow basket) to deposit what looks to be charcoal – fuel for the kiln – into an open pit. *Photo by Hor Kwok Kin. Retrieved from Photonico.*|
+|<img src="/images/Vol-16-issue-4/StAndrew/LimeKiln.png">A lime kiln at Kampong Mata Ikan, 1967. Seashells (white pile on the left), which are made of calcium carbonate, are heated to approximately 900 degrees Celsius to produce calcium oxide, also known as quicklime. The man is using a woven rattan *pungki* or *pengki* (畚箕) (a shallow basket) to deposit what looks to be charcoal – fuel for the kiln – into an open pit. *Photo by Hor Kwok Kin. Retrieved from Photonico.*|
 
 #### **Constructing St Andrew’s**
 
@@ -136,7 +136,7 @@ Work progressed slowly over the next few years.[^31] In 1863, the tower with eig
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol-16-issue-4/standrew/StAndrewChurch.jpg">
+<img src="/images/Vol-16-issue-4/StAndrew/StAndrewChurch.jpg">
 This elevation drawing of the proposed spire design for St Andrew’s Church (now St Andrew’s Cathedral) is attributed to Ronald MacPherson. However, his design was not realised and a simplified design (see inset photo) by Jasper Otway Mayne, an engineer with the Public Works Department, was constructed instead. Among the many differences, the <i>oeil-de-boeuf</i> (bull’s eye) windows at the belfry level were replaced by lancet windows, and the flying buttresses connecting the pinnacles to the spire, as well as <i>lucarne</i> (spire light), which is a type of dormer window, were removed. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i>.
 </div>
 
