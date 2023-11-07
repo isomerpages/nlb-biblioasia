@@ -9,7 +9,7 @@ variant: markdown
 ---
 Talentime ruled the airwaves before it was first shown on television in 1967. The talent show launched the musical careers of bands such as The Crescendos and The Quests.
 
-<img src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/janaprcover.png">
+<img src="/images/Vol%2019%20Issue%204/janmar2024cover.png">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2023/director-note/">Director's Note</a>
 
@@ -19,12 +19,12 @@ phenomenon that helped launched many musical
 careers. *Jamie Lee and Mark Wong*.  [(PDF)]()
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/">The 1973 SEAP Games in Singapore</a><br>
-Pat Chan, Heather Merican and Glory Barnabas made Singapore proud at the 7th Southeast Asian Peninsular Games. *Lim Tin Seng*.  [(PDF)]()
-
-
 <a style="text-decoration: none; font-weight: bold;" href="/holding-area/permalink/chiaboonleongtest1/">Chia Boon Leong: The Twinkle-Toed Olympian</a><br>
 Chia Boon Leong was the Fandi Ahmad of his time. *Nick Aplin*.  [(PDF)]()
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/">The 1973 SEAP Games in Singapore</a><br>
+Pat Chan, Heather Merican and Glory Barnabas made Singapore proud at the 7th Southeast Asian Peninsular Games. *Lim Tin Seng*.  [(PDF)]()
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/">Konfrontasi: Singapore’s Experience of an Undeclared War</a><br>
