@@ -5,6 +5,7 @@ date: 2023-11-03
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 Talentime ruled the airwaves before it was first shown on television in 1967. The talent show launched the musical careers of bands such as The Crescendos and The Quests.
 
