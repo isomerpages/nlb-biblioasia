@@ -160,6 +160,9 @@ The next step of Lim’s quest is to find someone who can help him read and deci
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret8.jpg" style="width: 100px; height: 100px;">
 <b>Cheong Suk-Wai</b> is a lawyer by training and a writer by choice. A former ASEAN Scholar and Thomson Foundation Scholar, she has been a construction litigator, a journalist and a public servant.
+	
+<b>Note</b>: An earlier version of this article incorrectly stated that the details of Unit 731’s activities first came to light in 2017. Details of this unit were actually published in the _Straits Times_ in 1991.
+
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
