@@ -122,21 +122,21 @@ I received one brief radio call from Roz at about noon but little was heard from
 <div style="background-color: white;"> Edwin Siew on the summit of Everest, 25 May 1998. <i> Photo by Bernardo Guarachi.</i></div>
 
 <div style="background-colour:#fff6ba; padding:10px; margin: 10px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br><br>
-	<b>Singapore</b>
-	David Lim Yew Lee, leader/climber (multimedia executive)
-	Justin Lean Jin Kiat, 25, climber/communications (student)
-	Khoo Swee Chiow, 33, climber (system analyst)
-	Leong Chee Mun, 33, climber (teacher)
-	Edwin Siew Cheok Wai, 28, climber (outdoor activities instructor)
-	Mok Ying Jang, 30, climber (physician)
-	Robert Goh Ee Kiat, 33, (defence engineer)
-	Mohd Rozani Maarof, 30, (service technician)
-	Shani Tan Siam Wei, 39, team doctor (anaesthetist)
-	Johann Annuar, 23, communications officer (student) 
-	Bruce Mackenzie Niven, 63, base camp manager (consultant)<br><br>
+<b>Singapore</b>
+David Lim Yew Lee, leader/climber (multimedia executive)
+Justin Lean Jin Kiat, 25, climber/communications (student)
+Khoo Swee Chiow, 33, climber (system analyst)
+Leong Chee Mun, 33, climber (teacher)
+Edwin Siew Cheok Wai, 28, climber (outdoor activities instructor)
+Mok Ying Jang, 30, climber (physician)
+Robert Goh Ee Kiat, 33, (defence engineer)
+Mohd Rozani Maarof, 30, (service technician)
+Shani Tan Siam Wei, 39, team doctor (anaesthetist)
+Johann Annuar, 23, communications officer (student) 
+Bruce Mackenzie Niven, 63, base camp manager (consultant)<br><br>
 	
-	<b>Nepal</b>
-	Man Bahadur Tamang (sirdar)
+<b>Nepal</b>
+Man Bahadur Tamang (sirdar)
 </div>
 
 <div style="background-color: white;">
