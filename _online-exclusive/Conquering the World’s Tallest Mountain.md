@@ -123,7 +123,7 @@ I received one brief radio call from Roz at about noon but little was heard from
 
 <div style="background-colour:#3fc3cc; padding:15px; margin: 15px; background: #3fc3cc;">In 2023, David Lim donated 140 items to the National Library Board, comprising mostly raw footage of the first Singapore Mount Everest expedition, the Singapore Latin-America expedition and various other climbs. He also donated a set of curated digitised footage extracted from the raw footage of the 1998 expedition.</div>
 
-<div style="background-colour:#fff6ba; padding:15px; margin: 15px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br><br>
+<div style="background-colour:#fff6ba; padding:15px; margin: 15px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br>
 <b>Singapore</b><br>
 David Lim Yew Lee, leader/climber (multimedia executive)<br>
 Justin Lean Jin Kiat, 25, climber/communications (student)<br>
