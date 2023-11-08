@@ -121,7 +121,7 @@ I received one brief radio call from Roz at about noon but little was heard from
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/edwin%20on%20everest%20summit1.png">
 <div style="background-color: white;"> Edwin Siew on the summit of Everest, 25 May 1998. <i> Photo by Bernardo Guarachi.</i></div>
 
-<div style="background-colour:#fff6ba; padding:15px; margin: 15px; background: #fff6ba;">In 2023, David Lim donated 140 items to the National Library Board, comprising mostly raw footage of the first Singapore Mount Everest expedition, the Singapore Latin-America expedition and various other climbs. He also donated a set of curated digitised footage extracted from the raw footage of the 1998 expedition.</div><br>
+<div style="background-colour:#fff6ba; padding:15px; margin: 15px; background: #fff6ba;">In 2023, David Lim donated 140 items to the National Library Board, comprising mostly raw footage of the first Singapore Mount Everest expedition, the Singapore Latin-America expedition and various other climbs. He also donated a set of curated digitised footage extracted from the raw footage of the 1998 expedition.</div>
 
 <div style="background-colour:#fff6ba; padding:15px; margin: 15px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br>
 <b>Singapore</b><br>
