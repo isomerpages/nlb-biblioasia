@@ -133,7 +133,10 @@ I received one brief radio call from Roz at about noon but little was heard from
 	Mohd Rozani Maarof, 30, (service technician)
 	Shani Tan Siam Wei, 39, team doctor (anaesthetist)
 	Johann Annuar, 23, communications officer (student) 
-	Bruce Mackenzie Niven, 63, base camp manager (consultant)
+	Bruce Mackenzie Niven, 63, base camp manager (consultant)<br><br>
+	
+	<b>Nepal</b>
+	Man Bahadur Tamang (sirdar)
 
 <div style="background-color: white;">
 <br>
