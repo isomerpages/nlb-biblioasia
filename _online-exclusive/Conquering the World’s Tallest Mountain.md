@@ -136,7 +136,7 @@ I received one brief radio call from Roz at about noon but little was heard from
 	Bruce Mackenzie Niven, 63, base camp manager (consultant)<br><br>
 	
 	<b>Nepal</b>
-	Man Bahadur Tamang (sirdar)
+	Man Bahadur Tamang (sirdar)</div>
 
 <div style="background-color: white;">
 <br>
@@ -153,4 +153,4 @@ I received one brief radio call from Roz at about noon but little was heard from
 
 [^4]: David Lim, [Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: Epigram Books, 1999). (From National Library, Singapore, call no. RSING 796.522092 LIM); David Lim, [Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: South Col Adventures, 2006). (From National Library, Singapore, call no. RSING 796.522092 LIM)
 	
-[^5]: Daisy Ho, “[Everest Team Bags Award](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980630-1.2.31.1),” _Straits Times_, 30 June 1998, 23;&nbsp;“[Who Reached the Summit First?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980528-1.2.42.3.2.aspx),”&nbsp;_Straits Times_, 28 May 1998, 31. (From NewspaperSG)</div>
+[^5]: Daisy Ho, “[Everest Team Bags Award](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980630-1.2.31.1),” _Straits Times_, 30 June 1998, 23;&nbsp;“[Who Reached the Summit First?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980528-1.2.42.3.2.aspx),”&nbsp;_Straits Times_, 28 May 1998, 31. (From NewspaperSG)
