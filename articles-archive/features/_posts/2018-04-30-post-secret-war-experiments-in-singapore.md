@@ -30,7 +30,7 @@ The latter and his colleagues worked out of the stately building at Outram Park 
 
 #### **Burrowing Through Bookshelves**
 
-In September 1991, the _Straits Times_ wrote about the activities of Unit 731 following an interview with a former Singapore cabinet minister.[^1] The Straits Times subsequently published a number of articles on this topic.[^2] Over two decades later, this topic resurfaced after Singaporean researcher and collector Lim Shao Bin was invited by the Singapore Society of Asian Studies to speak on the subject at the National Library on 4 November 2017. The <i>Straits Times</i> followed up with a newspaper report on 13 November. [^3] Lim, 61, began ferreting out the ugly truths about Unit 731 when he was in his 20s, poring through piles of books and papers cramming the dusty shelves of bookshops lining shabby but genteel Kanda Street in Tokyo.
+In September 1991, the _Straits Times_ wrote about the activities of Unit 731 following an interview with a former Singapore cabinet minister.[^1] The <i>Straits Times</i> subsequently published a number of articles on this topic.[^2] Over two decades later, this issue resurfaced after Singaporean researcher and collector Lim Shao Bin was invited by the Singapore Society of Asian Studies to speak on the subject at the National Library on 4 November 2017. The <i>Straits Times</i> followed up with a newspaper report on 13 November. [^3] Lim, 61, began ferreting out the ugly truths about Unit 731 when he was in his 20s, poring through piles of books and papers cramming the dusty shelves of bookshops lining shabby but genteel Kanda Street in Tokyo.
 
 Lim is no eccentric, but an avid history buff and collector of memorabilia such as old postcards and photos of Singapore. His quest to uncover and piece together hidden details of the Japanese Occupation, including the atrocities of Unit 731, is his way of finding closure for his paternal grandfather’s senseless murder by the Japanese just after they surrendered to the Allied Forces in 1945 (see text box below).
 
@@ -161,7 +161,7 @@ The next step of Lim’s quest is to find someone who can help him read and deci
 <img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret8.jpg" style="width: 100px; height: 100px;">
 <b>Cheong Suk-Wai</b> is a lawyer by training and a writer by choice. A former ASEAN Scholar and Thomson Foundation Scholar, she has been a construction litigator, a journalist and a public servant.<br>
 	
-<b>Note</b>: An earlier version of this article incorrectly stated that the details of Unit 731’s activities first came to light in 2017. Details of this unit were actually published in the _Straits Times_ in 1991.
+<b>Note</b>: An earlier version of this article incorrectly stated that the details of Unit 731’s activities first came to light in 2017. Details of this unit were actually published in the <i>Straits Times</i> in 1991.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
