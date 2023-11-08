@@ -137,7 +137,28 @@ Shani Tan Siam Wei, 39, team doctor (anaesthetist)<br>
 Johann Annuar, 23, communications officer (student)<br>
 Bruce Mackenzie Niven, 63, base camp manager (consultant)<br><br>
 <b>Nepal</b><br>
-	Man Bahadur Tamang (<i>sirdar</i>)
+	Man Bahadur Tamang (<i>sirdar</i>)<br><br>
+	<b>Climbing sherpas</b><br>
+	Kunga Sherpa (<i>deputy sirdar</i>)
+Dorje Phulilie
+Pasang Gambu
+Kami Rita
+Nawang Phurba
+Phurba Sherpa
+Fura Dorje
+Dawa Tshering
+Lhakpa Tshering
+Dawa Gyalzen
+Lila Bahadur Tamang<br><br>
+
+<b>Other base camp staff</b><br>
+Urke Tamang
+Sonam Lama
+Pralhad Pokharel (Liaison officer)
+Thal Bahadur Adhikari (Badri)
+Birbahadur Tamang
+Gun Bahadur Tamang
+Yula Tshering
 </div>
 
 <div style="background-color: white;">
