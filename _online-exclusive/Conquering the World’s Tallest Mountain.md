@@ -118,6 +118,23 @@ I received one brief radio call from Roz at about noon but little was heard from
 
 *Six days later, on 25 May 1998, Edwin Siew and Khoo Swee Chiow, accompanied by four Nepalese sherpas, successfully summited Mount Everest. It was the team’s second attempt. The Singapore Mount Everest team was conferred the Singapore Youth Award (Sports and Adventure) by the National Youth Council in July 1998, as their “exemplary dedication, discipline and determination to be the first Singapore team to conquer Mount Everest serve[d] as an inspiration to all Singaporeans”.[^5]*  Mountain to Climb *is available for reference at the Lee Kong Chian Reference Library and for loan at selected branch libraries (call nos. RSING 796.522092 LIM and SING 796.522092 LIM.)*
 
+<img style="”width:75%;”" src="”/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/edwin%20on%20everest%20summit.jpg”">
+<div style="background-color: white;"> Edwin Siew on the summit of Everest, 25 May 1998. <i> Photo by Bernardo Guarachi.</i></div>
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br><br>
+	<b>Singapore</b>
+	David Lim Yew Lee, leader/climber (multimedia executive)
+	Justin Lean Jin Kiat, 25, climber/communications (student)
+	Khoo Swee Chiow, 33, climber (system analyst)
+	Leong Chee Mun, 33, climber (teacher)
+	Edwin Siew Cheok Wai, 28, climber (outdoor activities instructor)
+	Mok Ying Jang, 30, climber (physician)
+	Robert Goh Ee Kiat, 33, (defence engineer)
+	Mohd Rozani Maarof, 30, (service technician)
+	Shani Tan Siam Wei, 39, team doctor (anaesthetist)
+	Johann Annuar, 23, communications officer (student) 
+	Bruce Mackenzie Niven, 63, base camp manager (consultant)
+
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/david%20lim%20profile.jpg">
@@ -133,4 +150,4 @@ I received one brief radio call from Roz at about noon but little was heard from
 
 [^4]: David Lim, [Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: Epigram Books, 1999). (From National Library, Singapore, call no. RSING 796.522092 LIM); David Lim, [Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: South Col Adventures, 2006). (From National Library, Singapore, call no. RSING 796.522092 LIM)
 	
-[^5]: Daisy Ho, “[Everest Team Bags Award](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980630-1.2.31.1),” _Straits Times_, 30 June 1998, 23;&nbsp;“[Who Reached the Summit First?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980528-1.2.42.3.2.aspx),”&nbsp;_Straits Times_, 28 May 1998, 31. (From NewspaperSG)
+[^5]: Daisy Ho, “[Everest Team Bags Award](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980630-1.2.31.1),” _Straits Times_, 30 June 1998, 23;&nbsp;“[Who Reached the Summit First?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980528-1.2.42.3.2.aspx),”&nbsp;_Straits Times_, 28 May 1998, 31. (From NewspaperSG)</div>
