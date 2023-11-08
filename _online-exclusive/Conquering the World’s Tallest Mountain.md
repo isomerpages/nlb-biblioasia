@@ -136,7 +136,8 @@ I received one brief radio call from Roz at about noon but little was heard from
 	Bruce Mackenzie Niven, 63, base camp manager (consultant)<br><br>
 	
 	<b>Nepal</b>
-	Man Bahadur Tamang (sirdar)</div>
+	Man Bahadur Tamang (sirdar)
+</div>
 
 <div style="background-color: white;">
 <br>
