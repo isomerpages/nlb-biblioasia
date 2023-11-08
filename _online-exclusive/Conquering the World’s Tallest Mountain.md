@@ -139,26 +139,26 @@ Bruce Mackenzie Niven, 63, base camp manager (consultant)<br><br>
 <b>Nepal</b><br>
 	Man Bahadur Tamang (<i>sirdar</i>)<br><br>
 	<b>Climbing sherpas</b><br>
-	Kunga Sherpa (<i>deputy sirdar</i>)
-Dorje Phulilie
-Pasang Gambu
-Kami Rita
-Nawang Phurba
-Phurba Sherpa
-Fura Dorje
-Dawa Tshering
-Lhakpa Tshering
-Dawa Gyalzen
+Kunga Sherpa (<i>deputy sirdar</i>)<br>
+Dorje Phulilie<br>
+Pasang Gambu<br>
+Kami Rita<br>
+Nawang Phurba<br>
+Phurba Sherpa<br>
+Fura Dorje<br>
+Dawa Tshering<br>
+Lhakpa Tshering<br>
+Dawa Gyalzen<br>
 Lila Bahadur Tamang<br><br>
 
 <b>Other base camp staff</b><br>
-Urke Tamang
-Sonam Lama
-Pralhad Pokharel (Liaison officer)
-Thal Bahadur Adhikari (Badri)
-Birbahadur Tamang
-Gun Bahadur Tamang
-Yula Tshering
+Urke Tamang<br>
+Sonam Lama<br>
+Pralhad Pokharel (Liaison officer)<br>
+Thal Bahadur Adhikari (Badri)<br>
+Birbahadur Tamang<br>
+Gun Bahadur Tamang<br>
+Yula Tshering<br><br>
 </div>
 
 <div style="background-color: white;">
