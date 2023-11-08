@@ -72,7 +72,7 @@ Then the weather report came in. It said that the winds over the summit for the 
 
 But by 2.30 pm, it was clear that the situation with the sherpa was more serious than was earlier reported. A disjointed radio call from the face indicated that the sherpa had been hit by either a rock or an ice boulder and was suffering from a suspected broken femur. He was incapacitated near C3 and in great pain. Rob Morrison and Robert Boice from Hoffman's team had assisted the sherpa over a number of hours to the campsites. It was a combination of butt hauling and dragging, quite an effort at those altitudes. Sundeep Dhillon, a client from the Himalayan Kingdoms, was a doctor and he, too, went to the sherpa’s aid. I said it was no problem for them to spend the night in one of our tents and the spare oxygen could also be used if it was needed. At base camp a sled was being organised to evacuate the sherpa to BC. Our team radioed in at about 2 pm saying all was well and they would be resting up for the summit bid. They were ecstatic when I broke the good news to them about the weather. The gamble looked like it would pay off.
 
-<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/mok%20on%20fixed%20ropes.jpg">
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/mok%20on%20fixed%20ropes.jpg"><br>
 
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/mok%20ladder.jpg">
 <div style="background-color: white;"> Mok on the fixed ropes (top) and inching down rickety ladders (above) at Khumbu Icefall, Everest. <i> Courtesy of David Lim.</i></div>
