@@ -121,7 +121,7 @@ I received one brief radio call from Roz at about noon but little was heard from
 <img style="”width:75%;”" src="”/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/edwin%20on%20everest%20summit.jpg”">
 <div style="background-color: white;"> Edwin Siew on the summit of Everest, 25 May 1998. <i> Photo by Bernardo Guarachi.</i></div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br><br>
+<div style="background-colour:#fff6ba; padding:10px; margin: 10px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br><br>
 	<b>Singapore</b>
 	David Lim Yew Lee, leader/climber (multimedia executive)
 	Justin Lean Jin Kiat, 25, climber/communications (student)
