@@ -135,7 +135,7 @@ Robert Goh Ee Kiat, 33, (defence engineer)<br>
 Mohd Rozani Maarof, 30, (service technician)<br>
 Shani Tan Siam Wei, 39, team doctor (anaesthetist)<br>
 Johann Annuar, 23, communications officer (student)<br>
-Bruce Mackenzie Niven, 63, base camp manager (consultant)<br><br>
+Bruce Mackenzie Niven, 63, base camp manager (consultant)<br>
 	
 <b>Nepal</b>
 	Man Bahadur Tamang (<i>sirdar</i>)
