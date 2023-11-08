@@ -4,6 +4,7 @@ permalink: /holding-area/permalink/chiaboonleongtest1/
 description: Although short in stature, footballer Chia Boon Leong was a force
   to be reckoned with.
 image: /images/Vol 19 Issue 4/Chia Boon Leong/chiaboonleong.jpg
+variant: markdown
 ---
 #### Although short in stature, footballer Chia Boon Leong was a force to be reckoned with.
 
@@ -116,7 +117,7 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 </div><br>
 
 	
-<img style="width:55%;" src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/scoretable2.png">
+<img style="width:55%;" src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/scoretable3.png">
 <br>
 <div style="background-color: #fff6ba; text-align:left">
 	Note: According to some newspaper reports, the team played 23 games, instead of 22. However, it has not been possible to find written reports of a 23rd game. [“<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">Lien Hwa Back After 42-Day Far East Tour</a>,”&nbsp;<i>Singapore Free Press</i>, 13 Dec 1947, 7. (From NewspaperSG).]</div>
