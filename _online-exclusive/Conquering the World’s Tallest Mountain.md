@@ -37,7 +37,7 @@ Cursing at this turn of events, I gave up trying to reach for the radio. Justin 
 
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/base%20camp.png">
 <div style="background-color: white;">Singapore base camp on Everest.<i> Courtesy of David Lim.</i></div>
-	
+
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/david%20journal.jpg">
 <div style="background-color: white;">David Lim journaling at Everest base camp.<i> Courtesy of David Lim.</i></div>
 	
@@ -72,6 +72,21 @@ Then the weather report came in. It said that the winds over the summit for the 
 
 But by 2.30 pm, it was clear that the situation with the sherpa was more serious than was earlier reported. A disjointed radio call from the face indicated that the sherpa had been hit by either a rock or an ice boulder and was suffering from a suspected broken femur. He was incapacitated near C3 and in great pain. Rob Morrison and Robert Boice from Hoffman's team had assisted the sherpa over a number of hours to the campsites. It was a combination of butt hauling and dragging, quite an effort at those altitudes. Sundeep Dhillon, a client from the Himalayan Kingdoms, was a doctor and he, too, went to the sherpa’s aid. I said it was no problem for them to spend the night in one of our tents and the spare oxygen could also be used if it was needed. At base camp a sled was being organised to evacuate the sherpa to BC. Our team radioed in at about 2 pm saying all was well and they would be resting up for the summit bid. They were ecstatic when I broke the good news to them about the weather. The gamble looked like it would pay off.
 
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/mok%20on%20fixed%20ropes.jpg"><br>
+
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/mok%20ladder.jpg">
+<div style="background-color: white;"> Mok on the fixed ropes (top) and inching down rickety ladders (above) at Khumbu Icefall, Everest. <i> Courtesy of David Lim.</i></div>
+
+Mok and I were in no condition to head up to C3. There was also a great deal of frustration at C2 and BC. C2 was largely deserted except for Hoffman's sherpas and there was not a soul at the tents of Himalayan Kingdoms. We began rummaging through their site for the special splints needed for the sherpa. After searching several tents, we found them. Most of the commercial team's radios had been fried when connected to a faulty electrical appliance so the group was hamstrung in terms of communications. The deputy guide, Jim Williams, had raced up to C3 to assist and was not at C2 either. Apa Sherpa, the eight-time summitter, refused to help further. It was understandable. He and his sherpas were saving their energy for their push up to the Col with Hoffman's team. Hoffman was gambling that he could summit with his team on May 20.
+
+At about 4 pm, the clouds had come in and most of the Cwm \[Welsh term for a valley\] below C2 was a mass of dirty, yellow clouds. At Whittaker’s camp, Mok and I found Tom Whittaker lying on his back. He had just come up, hoping to beat the cyclone. But he was late. He was a full day behind Hoffman and two days behind the main body of climbers. He looked exhausted and his voice was raspy. There was also a watery cough. He mentioned how he was going to rest a little and then climb directly to South Col from around 3 am the following morning. He would then be able to attempt the summit on May 20. Mok and I exchanged glances. Later I shared my views with Mok.
+
+“That guy’s going to kill himself if he tries that,” I said, unimpressed with Tom’s health and his ambitious climbing schedule.
+
+The next morning was a bright day, and the usual C2 chill dissipated with the sun. After breakfast all three of us waited impatiently as the climbers progressed. Radio calls to Bruce the Emir reported nothing new. The last call from Swee at about 6am reported that they had passed the Balcony and were en route to the South Summit. He sounded lucid and strong. There were few calls from the others and I hoped that they were well and had tuned in to our calls.
+
+The plan would be for our climbers to drop off a half-used bottle of Poisk \[oxygen\] on the Balcony. They would make a switch to the black LSE and breathe on that until the South Summit. I knew they had done this already. Swee reported that there was quite a bit of snow and the route was packed with the 40-plus climbers and sherpas. A slight breeze had picked up at C2 but the weather up high still looked pretty clear. Despite the loss of our own summit chances, we are all pretty excited at C2 and hoping for a big success.
+
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/sg%20team%20at%20basecamp.jpg">
 <div style="background-color: white;">The first Singapore Everest expedition team at base camp, 1998. (Left to right: Johann, Bruce, Shani, Justin, Robert, Swee Chiow, Mok, Edwin, Leong, David and Rozani.) <i> Courtesy of David Lim.</i></div>
 
@@ -103,6 +118,49 @@ I received one brief radio call from Roz at about noon but little was heard from
 
 *Six days later, on 25 May 1998, Edwin Siew and Khoo Swee Chiow, accompanied by four Nepalese sherpas, successfully summited Mount Everest. It was the team’s second attempt. The Singapore Mount Everest team was conferred the Singapore Youth Award (Sports and Adventure) by the National Youth Council in July 1998, as their “exemplary dedication, discipline and determination to be the first Singapore team to conquer Mount Everest serve[d] as an inspiration to all Singaporeans”.[^5]*  Mountain to Climb *is available for reference at the Lee Kong Chian Reference Library and for loan at selected branch libraries (call nos. RSING 796.522092 LIM and SING 796.522092 LIM.)*
 
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/edwin%20on%20everest%20summit1.png">
+<div style="background-color: white;"> Edwin Siew on the summit of Everest, 25 May 1998. <i> Photo by Bernardo Guarachi.</i></div>
+
+<div style="background-colour:#fff6ba; padding:15px; margin: 15px; background: #fff6ba;">In 2023, David Lim donated 140 items to the National Library Board, comprising mostly raw footage of the first Singapore Mount Everest expedition, the Singapore Latin-America expedition and various other climbs. He also donated a set of curated digitised footage extracted from the raw footage of the 1998 expedition.</div>
+
+<div style="background-colour:#fff6ba; padding:15px; margin: 15px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br>
+<b>Singapore</b><br>
+David Lim Yew Lee, leader/climber (multimedia executive)<br>
+Justin Lean Jin Kiat, 25, climber/communications (student)<br>
+Khoo Swee Chiow, 33, climber (system analyst)<br>
+Leong Chee Mun, 33, climber (teacher)<br>
+Edwin Siew Cheok Wai, 28, climber (outdoor activities instructor)<br>
+Mok Ying Jang, 30, climber (physician)<br>
+Robert Goh Ee Kiat, 33, (defence engineer)<br>
+Mohd Rozani Maarof, 30, (service technician)<br>
+Shani Tan Siam Wei, 39, team doctor (anaesthetist)<br>
+Johann Annuar, 23, communications officer (student)<br>
+Bruce Mackenzie Niven, 63, base camp manager (consultant)<br><br>
+<b>Nepal</b><br>
+	Man Bahadur Tamang (<i>sirdar</i>)<br><br>
+	<b>Climbing sherpas</b><br>
+Kunga Sherpa (<i>deputy sirdar</i>)<br>
+Dorje Phulilie<br>
+Pasang Gambu<br>
+Kami Rita<br>
+Nawang Phurba<br>
+Phurba Sherpa<br>
+Fura Dorje<br>
+Dawa Tshering<br>
+Lhakpa Tshering<br>
+Dawa Gyalzen<br>
+Lila Bahadur Tamang<br><br>
+
+<b>Other base camp staff</b><br>
+Urke Tamang<br>
+Sonam Lama<br>
+Pralhad Pokharel (Liaison officer)<br>
+Thal Bahadur Adhikari (Badri)<br>
+Birbahadur Tamang<br>
+Gun Bahadur Tamang<br>
+Yula Tshering<br>
+</div>
+
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/david%20lim%20profile.jpg">
@@ -116,6 +174,6 @@ I received one brief radio call from Roz at about noon but little was heard from
 
 [^3]: Yong Li Xuan, “Search and Rescue Team Unable to Find Missing Singaporean Everest Climber, Says Wife,” _Straits Times_, 28 May 2023, https://www.straitstimes.com/singapore/search-and-rescue-team-unable-to-find-missing-singaporean-everest-climber-climber-s-wife.
 
-[^4]: David Lim, [Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: Epigram Books, 1999). (From National Library, Singapore, call no. RSING 796.522092 LIM); David Lim, [Mountain to Climb: The Quest from Everest and Beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: South Col Adventures, 2006). (From National Library, Singapore, call no. RSING 796.522092 LIM)
+[^4]: David Lim, [<i>Mountain to Climb: The Quest from Everest and Beyond</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: Epigram Books, 1999). (From National Library, Singapore, call no. RSING 796.522092 LIM); David Lim, [<i>Mountain to Climb: The Quest from Everest and Beyond</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: South Col Adventures, 2006). (From National Library, Singapore, call no. RSING 796.522092 LIM)
 	
 [^5]: Daisy Ho, “[Everest Team Bags Award](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980630-1.2.31.1),” _Straits Times_, 30 June 1998, 23;&nbsp;“[Who Reached the Summit First?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980528-1.2.42.3.2.aspx),”&nbsp;_Straits Times_, 28 May 1998, 31. (From NewspaperSG)
