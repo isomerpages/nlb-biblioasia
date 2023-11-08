@@ -158,7 +158,7 @@ Pralhad Pokharel (Liaison officer)<br>
 Thal Bahadur Adhikari (Badri)<br>
 Birbahadur Tamang<br>
 Gun Bahadur Tamang<br>
-Yula Tshering<br><br>
+Yula Tshering<br>
 </div>
 
 <div style="background-color: white;">
