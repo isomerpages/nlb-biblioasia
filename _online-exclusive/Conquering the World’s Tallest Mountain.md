@@ -121,8 +121,8 @@ I received one brief radio call from Roz at about noon but little was heard from
 <img style="”width:75%;”" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/edwin%20on%20everest%20summit.jpg">
 <div style="background-color: white;"> Edwin Siew on the summit of Everest, 25 May 1998. <i> Photo by Bernardo Guarachi.</i></div>
 
-<div style="background-colour:#fff6ba; padding:5px; margin: 5px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br><br>
-<div style="font-size=smaller;">Singapore<br>
+<div style="background-colour:#fff6ba; padding:15px; margin: 15px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br><br>
+	<div style="font-size=smaller;"><b>Singapore</b><br>
 David Lim Yew Lee, leader/climber (multimedia executive)<br>
 Justin Lean Jin Kiat, 25, climber/communications (student)<br>
 Khoo Swee Chiow, 33, climber (system analyst)<br>
@@ -133,7 +133,7 @@ Robert Goh Ee Kiat, 33, (defence engineer)<br>
 Mohd Rozani Maarof, 30, (service technician)<br>
 Shani Tan Siam Wei, 39, team doctor (anaesthetist)<br>
 Johann Annuar, 23, communications officer (student)<br>
-Bruce Mackenzie Niven, 63, base camp manager (consultant)<br>
+Bruce Mackenzie Niven, 63, base camp manager (consultant)<br><br>
 	
 <b>Nepal</b>
 	Man Bahadur Tamang (<i>sirdar</i>)
