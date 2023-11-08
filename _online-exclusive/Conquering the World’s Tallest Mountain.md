@@ -122,7 +122,7 @@ I received one brief radio call from Roz at about noon but little was heard from
 <div style="background-color: white;"> Edwin Siew on the summit of Everest, 25 May 1998. <i> Photo by Bernardo Guarachi.</i></div>
 
 <div style="background-colour:#fff6ba; padding:15px; margin: 15px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br><br>
-	<div style="font-size=smaller;"><b>Singapore</b><br>
+<b>Singapore</b><br>
 David Lim Yew Lee, leader/climber (multimedia executive)<br>
 Justin Lean Jin Kiat, 25, climber/communications (student)<br>
 Khoo Swee Chiow, 33, climber (system analyst)<br>
@@ -137,7 +137,7 @@ Bruce Mackenzie Niven, 63, base camp manager (consultant)<br><br>
 	
 <b>Nepal</b>
 	Man Bahadur Tamang (<i>sirdar</i>)
-</div></div>
+</div>
 
 <div style="background-color: white;">
 <br>
