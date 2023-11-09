@@ -46,7 +46,7 @@ Then there was the element of audience participation. This gave ordinary people 
 At least in the early years, the atmosphere was relaxed. “There were no rehearsals,” Gan recalled. “We just turned up and banged it out.”[^13] According to Reginald (Reggie) Verghese of The Quests, during the band’s 1963 Talentime experience, their “\[g\]uitars were out of tune. \[Music director\] Charlie Lazaroo threw us out. You know, there were no tuners at that time. So we tuned, then in the air-con, somebody’s guitar \[goes\] slightly out.”[^14]
 
 ![](/images/Vol%2019%20Issue%204%2F7%20Talentime/the-quests.jpg)
-<div style="background-color: white;">The Quests were talent-spotted while taking part in Radio Talentime. They signed with EMI and their hit single “Shanty” knocked The Beatles off the local charts. From left: Quest members Jap Chong, Henry Chua, Lim Wee Guan, Reggie Verghese and Vernon Cornelius, 1966. <i>Courtesy of Vernon Cornelius.</i></div>
+<div style="background-color: white;">The Quests were talent-spotted while taking part in Radio Talentime. They signed with EMI and their hit single “Shanty” knocked The Beatles off the local charts. From left: Quest members Jap Chong, Henry Chua, Lim Wee Guan, Reggie Verghese and Vernon Cornelius, 1966. Photo taken at the Peter Robinson Studio on Orchard Road. <i>Courtesy of Vernon Cornelius.</i></div>
 
 Budding musicians saw Talentime as a way of gaining visibility and kick-starting their careers. “During that time, there was only one English radio station,” recalled John Chee of The Crescendos. “So whoever it is would listen to that radio station would ultimately hear us because the disc jockeys at the time were also wanting to push local talent.”
 
