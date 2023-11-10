@@ -69,7 +69,7 @@ Such was his performance that the crowd of presumably Tung Hwa supporters mobbed
 Partly as a result of these performances, Chia was selected to represent China at the 1948 London Olympic Games. At the time, although a British subject, under China’s rules, he was still considered a Chinese player by dint of his ethnicity.
 
 ![](/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/age50b.jpg)
-<div style="background-color: white;">Chia Boon Leong, age 50, in China’s Olympic football team jersey, 1975. He represented China in the 1948 London Olympics. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Chia Boon Leong, 50, in China’s Olympic football team jersey, 1975. He represented China in the 1948 London Olympics. <i>Chia Boon Leong Collection, courtesy of National Archives of Singapore.</i></div>
 
 Though the China team eventually lost 4–0 to Turkey on 2 August 1948, Chia “created a favourable impression with his speed and methodical play” and “had a grand time in London”. “The game was played at a terrific pace. The Turks were much bigger built than us. They were able to score only once in the first half,” Chia told the _Straits Times_ on his return. During the match, centre forward Chu Wing Keung sustained an injury and the team played with just 10 men in the second half. The heavy rain made matters worse for the Chinese.[^15] The 4–0 loss was no disgrace.
 
