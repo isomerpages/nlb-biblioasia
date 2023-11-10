@@ -14,5 +14,4 @@ Located at 32 Binjai Park, the family home of the late architect Lee Kip Lin has
 **Related article** <br>
 * [32 Binjai Park](/vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/)
 
-
 <hr>
