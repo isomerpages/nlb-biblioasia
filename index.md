@@ -18,6 +18,16 @@ sections:
       background: /images/Vol-12-issue-3/time-honoured-temple-design/hero image_temple
         design.png
   - infopic:
+      title: "Chia Boon Leong: The Twinkle-Toed Olympian"
+      subtitle: Sports
+      id: infopic
+      description: Although short in stature, footballer Chia Boon Leong was a force
+        to be reckoned with.
+      button: "“SMALL  BUT TERRIBLE” "
+      url: /vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/
+      image: /images/Vol 19 Issue 4/Chia Boon Leong/chiaboonleong2004.jpg
+      alt: Image alt text
+  - infopic:
       title: "My Childhood Memories: A Slice of Kampong Life"
       subtitle: Places and Buildings
       id: infopic
@@ -909,14 +919,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: "Chia Boon Leong: The Twinkle-Toed Olympian"
-      subtitle: Sports
-      id: infopic
-      description: Although short in stature, footballer Chia Boon Leong was a force
-        to be reckoned with.
-      button: "“SMALL  BUT TERRIBLE” "
-      url: /vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/
-      image: /images/Vol 19 Issue 4/Chia Boon Leong/chiaboonleong2004.jpg
-      alt: Image alt text
 ---
