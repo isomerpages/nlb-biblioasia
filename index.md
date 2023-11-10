@@ -18,7 +18,7 @@ sections:
       background: /images/Vol-12-issue-3/time-honoured-temple-design/hero image_temple
         design.png
   - infopic:
-      title: The Modernist Home of a Pioneer Architect
+      title: The Modernist Home of Pioneer Architect Lee Kip Lin
       subtitle: BiblioAsia Reels
       id: infopic
       description: The family home of architect Lee Kip Lin has stood the test of time
@@ -28,6 +28,17 @@ sections:
       url: https://www.youtube.com/embed/XA1HxdwLJEY
       image: "/images/Videos: BiblioAsia
         Reels/BiblioAsia_Reels___binjai_park_small_.png"
+      alt: Image alt text
+  - infopic:
+      title: Conquering the World’s Tallest Mountain
+      subtitle: Sports
+      id: infopic
+      description: David Lim led the first Singapore team to successfully summit Mount
+        Everest in 1998. This is an excerpt from his book, Mountain to Climb.
+      button: Scale the greatest height
+      url: /sports/2023/11/mountain-everest-expedition-david-lim/
+      image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
+        ropes1.jpg
       alt: Image alt text
   - infopic:
       title: The Salvation Army in Singapore
@@ -887,15 +898,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: Conquering the World’s Tallest Mountain
-      subtitle: Sports
-      id: infopic
-      description: David Lim led the first Singapore team to successfully summit Mount
-        Everest in 1998. This is an excerpt from his book, Mountain to Climb.
-      button: Scale the greatest height
-      url: /sports/2023/11/mountain-everest-expedition-david-lim/
-      image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
-        ropes1.jpg
-      alt: Image alt text
 ---
