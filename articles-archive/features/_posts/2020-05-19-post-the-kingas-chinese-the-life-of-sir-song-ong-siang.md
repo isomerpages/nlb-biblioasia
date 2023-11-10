@@ -3,7 +3,7 @@ title: "The King’s Chinese: The Life of Sir Song Ong Siang"
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/king/
 third_nav_title: "The King’s Chinese: The Life of Sir Song Ong Siang"
-image: /images/Vol-16-issue-1/King/King-title.jpg
+image: /images/Vol-16-issue-1/king/King-title.jpg
 ---
 
 <style>
@@ -21,7 +21,7 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/King/King-title.jpg">
+<img src="/images/Vol-16-issue-1/king/King-title.jpg">
 
 A painting of Song Ong Siang by J. Wentscher, 1936. <i>Courtesy of National Museum of Singapore, National Heritage Board</i>.
 
@@ -69,7 +69,7 @@ Although we do not know when Song’s forebears first arrived in Malaya from Fuj
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/King/Soon-Hoot-Kiam.png">
+<img src="/images/Vol-16-issue-1/king/Soon-Hoot-Kiam.png">
 
 Song Hoot Kiam, father of Song Ong Siang. Hoot Kiam Road in Singapore is named after him. <i>Image reproduced from Song, O.S. (1923). One Hundred Years' History of the Chinese in Singapore (p. 78). London: John Murray. Collection of the National Library, Singapore. (Accession no.: B20048226B)</i>.
 
@@ -83,7 +83,7 @@ That year, when he was just 15, Song sat for the High Scholarship examination. T
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/King/queens-scholars.png">
+<img src="/images/Vol-16-issue-1/king/queens-scholars.png">
 
 A group of Queen’s Scholars. Back row from left: James Aitken (1886), Charles Spence Angus (1886), P.V.S. Locke (1887) and Dunstan Alfred Aeria (1888). Seated on the ground: Lim Boon Keng on the left (1887) and Song Ong Siang on the right (1888). Photo by the Straits Photographic Studio in Singapore. <i>Image reproduced from Song, O.S. (1923). One Hundred Years' History of the Chinese in Singapore (p. 224). London: John Murray. Collection of the National Library, Singapore. (Accession no.: B20048226B)</i>.
 
@@ -107,7 +107,7 @@ Song returned to Singapore in October 1893 and immediately became active in the 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/King/church-members.jpg">
+<img src="/images/Vol-16-issue-1/king/church-members.jpg">
 
 Members of Prinsep Street Church, c. 1920s. Song Ong Siang is in a dark jacket in the middle of the front row (with his wife on his right). <i>Prinsep Street Presbyterian Church Collection, courtesy of National Archives of Singapore</i>.
 
@@ -175,7 +175,7 @@ On 29 September 1907, when Song was 36 years old, he married Helen Yeo Hee Neo (
 After a brief illness, Song died at home on 29 September 1941 at the age of 70. The funerary church service was conducted by Reverend T. Campbell Gibson at Song’s beloved Straits Chinese Presbyterian Church on Prinsep Street. The Union Jack-draped coffin was then placed on a gun carriage and conveyed to Bidadari Cemetery where officers and non-commissioned officers of the Chinese Company formed the guard-of-honour. Three volleys were fired and six regimental buglers sounded the last post.[^49]
 
 
-|<img src="/images/Vol-16-issue-1/King/One-hundred-book-mockup.png" style="width: 350px; height: 200px;" />|
+|<img src="/images/Vol-16-issue-1/king/One-hundred-book-mockup.png" style="width: 350px; height: 200px;" />|
 
 |*One Hundred Years’ History of the Chinese in Singapore: The Annotated Edition* is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.27 SON-[HIS] and SING 959.57 SON-[HIS]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204371926)). The book also retails at major bookshops in Singapore.|
 

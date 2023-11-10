@@ -3,11 +3,19 @@ title: More Places and Buildings
 permalink: /topics/places-and-buildings/more/
 description: ""
 third_nav_title: Places and Buildings
+variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2023/11/childhood-memories-kampong-wak-hassan/">My Childhood Memories: A Slice of Kampong Life</a>
+Kampong living reflects an idyllic bygone age, a time when life was much simpler.
+
+<img src="/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/grandfather_house.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2023/10/john-little-raffles-place-department-store/">Coffee in the Basement, Tea on the Second Floor: A Short History of John Little at Raffles Place</a>
 A look back at John Little’s 170-year history and the lasting mark the store has made on our island.
 
 <img src="/images/Online%20Only%20Articles/John%20Little%20at%20Raffles%20Place/2b%2019980005901%20img0109.jpg">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/">Neo Tiew: The Man Who Built Lim Chu Kang</a>
 The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area.

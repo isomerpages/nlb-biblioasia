@@ -25,7 +25,7 @@ sections:
         with its simple and yet modern design. His wife, Mrs Lee Li-ming, shares
         her insights.
       button: Watch the Video
-      url: https://www.youtube.com/embed/XA1HxdwLJEY
+      url: /videos/reels/architecture/
       image: "/images/Videos: BiblioAsia
         Reels/BiblioAsia_Reels___binjai_park_small_.png"
       alt: Image alt text

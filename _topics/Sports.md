@@ -2,7 +2,14 @@
 title: Sports
 permalink: /topics/sports/
 description: ""
+variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/sports/2023/11/mountain-everest-expedition-david-lim/">Conquering the World’s Tallest Mountain</a>
+David Lim led the first Singapore expedition team that successfully scaled Mount Everest on 25 May 1998. This is an excerpt from his book,&nbsp;<i>Mountain to Climb: The Quest from Everest and Beyond</i>.
+
+<img src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/sg%20team%20at%20basecamp.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/">The 1973 SEAP Games in Singapore</a>
 The 7th SEAP Games marked the first time that Singapore hosted an international sporting event since gaining independence in 1965.
 

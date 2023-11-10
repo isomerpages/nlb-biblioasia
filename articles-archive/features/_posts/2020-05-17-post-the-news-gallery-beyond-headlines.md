@@ -3,7 +3,7 @@ title: "The News Gallery: Beyond Headlines"
 permalink: /vol-16/issue-1/apr-jun-2020/the-news-gallery/
 date: 2020-04-01T00:00:00.000Z
 third_nav_title: 'The News Gallery – Beyond Headlines'
-image: /images/Vol-16-issue-1/news/behind_every_story.jpg
+image: /images/Vol-16-issue-1/News/behind_every_story.jpg
 ---
 
 <style>
@@ -21,7 +21,7 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/news/behind_every_story.jpg">
+<img src="/images/Vol-16-issue-1/News/behind_every_story.jpg">
 
 The “Behind Every Story” interactive zone showcases significant events from Singapore’s history to illustrate how news reporting can create different versions of reality. 	
 
@@ -57,7 +57,7 @@ This zone of the exhibition also showcases non-English-language newspapers that 
 
 |In 1921, the newspaper was sued for libel by Raja Shariman and Che Tak, assistant commissioners of police in the Federated Malay States. The heavy damages awarded against it proved to be financially crippling and *Utusan Malayu* ceased operations as a result.[^16]|
 
-| <img src="/images/Vol-16-issue-1/news/The_Singapore_Free_Press.png">|
+| <img src="/images/Vol-16-issue-1/News/The_Singapore_Free_Press.png">|
 
 |*The Singapore Free Press* was set up by William Napier, a lawyer; George D. Coleman, the first superintendent of public works; Edward Boustead, founder of Boustead and Company; and Walter Scott Lorrain, head of Lorrain, Sandilands and Company. This is the masthead of the issue dated 19 November 1835. *Retrieved from NewspaperSG.*|
 
@@ -68,7 +68,7 @@ Fake news is by no means a new phenomenon, but the internet and the new media ha
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/news/The_Straits_Times.png">
+<img src="/images/Vol-16-issue-1/News/The_Straits_Times.png">
 
 At the height of the Michael Fay incident in 1994, <i>The Straits Times</i> deliberately published the opinions of US columnists alongside its own to rebut their arguments. <i>The Straits Times, 8 April 1994. Retrieved from NewspaperSG. </i> 
 
@@ -78,7 +78,7 @@ At the height of the Michael Fay incident in 1994, <i>The Straits Times</i> deli
 
 Newspapers are not merely about serious news – they also contain advertisements, entertainment stories, food reviews, photographs, recipes, puzzles, comics and even “Aunt Agony” columns. The zone “Extra! Extra!” showcases other interesting aspects of newspapers. The exhibits will be regularly updated to highlight different elements found in newspapers, with the first instalment on games and quizzes such as crossword puzzles, spot the ball and sudoku. Subsequent exhibits will look at photojournalism, cartoons and caricatures, and advertisements.<br><br>There is also a digital station featuring electronic newspaper resources available to library users. Visitors can browse and search past and current news on NewspaperSG, the National Library’s online archives of Singapore’s newspapers dating back to 1831 as well as other databases that provide access to local and international newspapers.
 
-<img src="/images/Vol-16-issue-1/news/Fake_News.jpg">
+<img src="/images/Vol-16-issue-1/News/Fake_News.jpg">
 
 <div class="infobox">
 

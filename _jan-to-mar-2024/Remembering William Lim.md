@@ -5,6 +5,7 @@ description: The late architect William Lim did more than shape Singapore’s
   skyline. He was also deeply passionate about urban planning, culture, the arts
   and engaging the next generation.
 image: /images/Vol 19 Issue 4/6 William Lim/image1.jpg
+variant: markdown
 ---
 #### The late architect William Lim did more than shape Singapore’s skyline. He was also deeply passionate about urban planning, culture, the arts and engaging the next generation.
 
@@ -49,7 +50,7 @@ Lim’s legacy lives on through his works as well as the next generation whose l
 Organised by the Urban Redevelopment Authority and National Library Board, “To Draw an Idea” explores the works of one of Singapore’s most respected practices, set up by pioneer architect William Lim. Lim established William Lim Associates in 1981 after he left DP Architects. After Lim retired in 2003, the firm was renamed W Architects and it is now led by Mok Wei Wei and Ng Weng Pan.</div><br>
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-This exhibition looks at how the practice evolved against the backdrop of Singapore’s developing architectural scene over the last four decades. The many drawings displayed are not finished products and present in-progress snapshots of William Lim Associates’ and W Architects’ design process. The exhibition is scheduled to run from 28 November 2023 to 8 June 2024 at the URA Centre (Level 1 Atrium).</div><br>
+This exhibition looks at how the practice evolved against the backdrop of Singapore’s developing architectural scene over the last four decades. The many drawings displayed are not finished products and present in-progress snapshots of William Lim Associates’ and W Architects’ design processes. The exhibition is scheduled to run from 28 November 2023 to 8 June 2024 at the URA Centre (Level 1 Atrium).</div><br>
 
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
@@ -90,7 +91,7 @@ An accompanying book of the same name will be published soon. It charts the last
 </div><br>
 <img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev3.png">
 <div style="background-color: #fff6ba;">
-Published by the Urban Redevelopment Authority and National Library Board, 2023.
+Published by the National Library Board and Urban Redevelopment Authority, 2023.
 </div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">

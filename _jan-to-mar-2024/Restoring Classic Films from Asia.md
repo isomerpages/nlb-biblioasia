@@ -4,6 +4,7 @@ permalink: /vol-19/issue-4/jan-mar-2024/restoring-asian-films/
 description: Besides restoring made-in-Singapore films, the Asian Film Archive
   is also involved in the preservation of other seminal Asian works.
 image: /images/Vol 19 Issue 4/2 Restoring Classic Films/b81_19_0_images 1.png
+variant: markdown
 ---
 #### Besides restoring made-in-Singapore films, the Asian Film Archive is also involved in the preservation of other seminal Asian works. 
 
@@ -14,7 +15,7 @@ By Chew Tee Pao
 
 Since it was established about two decades ago, the Asian Film Archive (AFA) has restored many films connected to Singapore. These include classic titles from the golden age of Malay cinema such as K.M. Basker’s _Patah Hati_ (1952) and Hussein Haniff’s _Dang Anom_ (1962) to more recent Singapore movies like _Mee Pok Man_ (1995) and _Money No Enough_ (1998). However, as the name of the organisation implies, the AFA has also been active in restoring films from around the region. In 2005, when the archive was founded, director Mike De Leon became the first Filipino filmmaker to donate his works to the AFA for preservation.
 
-An eminent filmmaker of the second golden age of Philippine cinema from the 1970s to early 1980s, De Leon’s films arrived at the AFA in a variety of film formats that included 35 mm original picture and sound negatives, and De Leon’s own collection of surviving 35 mm exhibition prints.
+An eminent filmmaker of the second golden age of Philippine cinema from the 1970s to early 1980s, De Leon sent his films to the AFA in a variety of film formats that included 35 mm original picture and sound negatives, and his own collection of surviving 35 mm exhibition prints.
 
 
 #### **Mike De Leon’s Batch ’81**
@@ -27,7 +28,7 @@ Considering and navigating the legal and copyright issues are essential in prepa
 
 Produced at a time of great political unrest and turmoil during the period of martial law in the Philippines (1972–86) under then President Ferdinand Marcos, the psychological film chronicles fraternity Alpha Kappa Omega’s brutal initiation of new members as seen through the eyes of university student Sid Lucero. The film has been often referred to as one of the greatest Filipino films of all time and a metaphor for the Philippines under the Marcos regime.[^1]
 
-Using the original camera and sound negatives and a surviving positive print that had been preserved by the AFA since 2005, the film became the archive’s first restoration of a Filipino title. The original camera and sound negatives of _Batch ’81_ exhibited critical signs of “vinegar syndrome”, where films become brittle, shrink and emit an acidic odour. It had developed haloes and mould, with major green-hued defects on the emulsion. As a result, parts of the picture negative were unusable and the laboratory – L’Immagine Ritrovata in Bologna, Italy – overseeing the restoration had to integrate shots from the positive print during the process of digital restoration.
+With the original camera and sound negatives and a surviving positive print that had been preserved by the AFA since 2005, the film became the archive’s first restoration of a Filipino title. The original camera and sound negatives of _Batch ’81_ exhibited critical signs of “vinegar syndrome”, where films become brittle, shrink and emit an acidic odour. It had developed haloes and mould, with major green-hued defects on the emulsion. As a result, parts of the picture negative were unusable and the laboratory – L’Immagine Ritrovata in Bologna, Italy – overseeing the restoration had to integrate shots from the positive print during the process of digital restoration.
 
 With the assistance of a post-production company in Manila, De Leon and the film’s original cinematographer, Rody Lacap, supervised the colour grading using the restored scans. The colour-corrected restored scans were then returned to L’Immagine Ritrovata to produce new negatives of the film. The entire restoration, including generating new 35 mm negatives and print, took nearly a year.
 
