@@ -32,4 +32,52 @@ Kampong Wak Hassan – with its mix of Malay, Chinese (mostly Teochew) and India
 <div style="background-color: white;">A Malay attap house in Kampong Wak Hassan, 1986. <i>Courtesy of National Archives of Singapore.</i>
 </div>
 
+In the village, we would wake up to the loud booming voice of a Chinese fisherman from Johor. He would arrive in a motorboat filled with his catch for the day and set up a temporary spot near my grandfather’s provision shop to sell fishes such as grouper and _kembong_ (Indian mackerel). In those days, it was easy for Johor fishermen and villagers in the kampong to meet and trade, but as they grew older and with Singapore's stricter maritime law enforcement, such interactions soon came to a halt.
+
+In 1966, the kampong welcomed its first asphalt-paved main road, Jalan Kampong Wak Hassan, opened by Minister of State for Culture Lee Khoon Choy. During his speech, he praised the villagers as he had heard that “Kampong Wak Hassan is a model village where the Chinese, Malay and Indian villagers get along well with each other”.[^1] The other side lanes remained as sandy paths with potholes filled with stones or rocks of various shapes and sizes. Cyclists passing through needed to be skilful to avoid a bad fall.
+
+![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/minister_of_state.png)
+<div style="background-color: white;">Minister of State for Culture Lee Khoon Choy opens new road, Jalan Kampong Wak Hassan, at 15 milestone, Sembawang, on 16 July 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+
+[^1]: “[甘榜華哈山路開放 李炯才主持儀式](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19660718-1.2.35.5)” \[_Kampong Hua Hasan Road opens, Li Jiongcai presides over the ceremony_\], 星洲日報 \[_Xingzhou Ribao_\], 18 July 1966, 8. (From NewspaperSG)
+
 
