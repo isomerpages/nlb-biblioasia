@@ -91,9 +91,9 @@ Occasionally, we would also welcome foreigners sailing along the Johor Strait. T
 At the end of each day, one of my aunts would pull shut the metal grille sliding door, slotting the heavy wooden panels into the respective openings along the wooden frame and then latching the door with a long wooden pole. However, we would still get occasional visits from villagers requesting to buy some items that they needed even when the shop had closed for business. Even though we were closed, we would still get the item out of the shop for them.
 
 <b>The End of Kampong Life</b><br>
-In the 30 years after Singapore gained Independence in 1965, urban redevelopment took place rapidly and drastically transformed the physical landscape of Singapore. The 1966 Land Acquisition Act allowed the government to acquire private land for housing, commercial and industrial purposes. Between 1959 and 1984, a total of 177 square kilometres of land were acquired, constituting about one-third of the total land area of Singapore then. 
+In the 30 years after Singapore gained Independence in 1965, urban redevelopment took place rapidly and drastically transformed the physical landscape of Singapore. The 1966 Land Acquisition Act allowed the government to acquire private land for housing, commercial and industrial purposes. Between 1959 and 1984, a total of 177 square kilometres of land were acquired, constituting about one-third of the total land area of Singapore then.[^3] 
 
-To optimise land use, careful planning is required to develop large scale housing and industrial projects. Other factors for consideration include safeguarding land for future use, developing blueprints to stimulate Singapore’s economic growth and improving the quality of life for all Singaporeans.  With assistance from the United Nations Development Programme consultants, the government announced the first concept plan in 1971 that would guide the framework for infrastructure development and land use. This included provisions for future growth of new industrial areas in Sembawang and Seletar. 
+To optimise land use, careful planning is required to develop large scale housing and industrial projects. Other factors for consideration include safeguarding land for future use, developing blueprints to stimulate Singapore’s economic growth and improving the quality of life for all Singaporeans.[^4]  With assistance from the United Nations Development Programme consultants, the government announced the first concept plan in 1971 that would guide the framework for infrastructure development and land use. This included provisions for future growth of new industrial areas in Sembawang and Seletar.[^5]
 
 Kampong living became a thing of the past as villages were razed, and the people were resettled in high-rise Housing and Development Board flats. Kampong Wak Hassan, too, was not spared the wrecking ball. My grandfather’s provision shop and adjoining house were demolished in the early 2000s. On the site of the former kampong today is Watercove, an exclusive estate of 80 freehold luxury strata houses by the sea. 
 
@@ -103,36 +103,19 @@ In the past, people lived near the sea for their livelihood. Today, living by th
 <div style="background-color: white;">Malay houses in Kampong Wak Hassan, 1986.  <i>Courtesy of National Archives of Singapore.</i>
 </div>
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Ang_Seow_Leng.png">
+	<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore &amp; Southeast Asian Collection, developing content as well as providing reference and research services relating to Singapore and Southeast Asia.</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
+#### **NOTES** 
 
 [^1]: “[甘榜華哈山路開放 李炯才主持儀式](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/scjp19660718-1.2.35.5)” \[_Kampong Hua Hasan Road opens, Li Jiongcai presides over the ceremony_\], 星洲日報 \[_Xingzhou Ribao_\], 18 July 1966, 8. (From NewspaperSG)
 
 [^2]: “[Sembawang Park to Occupy 10 Hectares](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790508-1.2.53),” _Straits Times_, 8 May 1979, 9. (From NewspaperSG)
 
+[^3]: “[Land Acquisition Act Is Enforced](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1f669eff-bc82-49d1-a27c-2624e4cab8c6),” National Library Online, accessed 1 November 2023..
 
+[^4]: [_Singapore_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183594) (Singapore: Ministry of Information and The Arts, 1998), 187. (From National Library, Singapore, call no. RSING 959.57 SIN)
 
+[^5]: “[Singapore's First Concept Plan Is Completed](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c4c0b6bf-d674-4851-a3d4-fcc0b9d785d2),” National Library Online, accessed 1 November 2023.
