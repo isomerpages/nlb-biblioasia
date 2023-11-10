@@ -890,9 +890,9 @@ sections:
       title: The Modernist Home of a Pioneer Architect
       subtitle: BiblioAsia Reels
       id: infopic
-      description: "Located at 32 Binjai Park, the family home of the late architect
-        Lee Kip Lin stood the test of time with its simple and yet modern
-        design. "
+      description: The family home of architect Lee Kip Lin has stood the test of time
+        with its simple and yet modern design. His wife, Mrs Lee Li-ming, shares
+        her insights.
       button: Watch the Video
       url: https://www.youtube.com/embed/XA1HxdwLJEY
       image: "/images/Videos: BiblioAsia
