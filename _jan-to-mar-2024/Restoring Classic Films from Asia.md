@@ -4,6 +4,7 @@ permalink: /vol-19/issue-4/jan-mar-2024/restoring-asian-films/
 description: Besides restoring made-in-Singapore films, the Asian Film Archive
   is also involved in the preservation of other seminal Asian works.
 image: /images/Vol 19 Issue 4/2 Restoring Classic Films/b81_19_0_images 1.png
+variant: markdown
 ---
 #### Besides restoring made-in-Singapore films, the Asian Film Archive is also involved in the preservation of other seminal Asian works. 
 
@@ -14,7 +15,7 @@ By Chew Tee Pao
 
 Since it was established about two decades ago, the Asian Film Archive (AFA) has restored many films connected to Singapore. These include classic titles from the golden age of Malay cinema such as K.M. Basker’s _Patah Hati_ (1952) and Hussein Haniff’s _Dang Anom_ (1962) to more recent Singapore movies like _Mee Pok Man_ (1995) and _Money No Enough_ (1998). However, as the name of the organisation implies, the AFA has also been active in restoring films from around the region. In 2005, when the archive was founded, director Mike De Leon became the first Filipino filmmaker to donate his works to the AFA for preservation.
 
-An eminent filmmaker of the second golden age of Philippine cinema from the 1970s to early 1980s, De Leon’s films arrived at the AFA in a variety of film formats that included 35 mm original picture and sound negatives, and De Leon’s own collection of surviving 35 mm exhibition prints.
+An eminent filmmaker of the second golden age of Philippine cinema from the 1970s to early 1980s, De Leon sent his films to the AFA in a variety of film formats that included 35 mm original picture and sound negatives, and his own collection of surviving 35 mm exhibition prints.
 
 
 #### **Mike De Leon’s Batch ’81**
