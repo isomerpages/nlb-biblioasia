@@ -18,6 +18,17 @@ sections:
       background: /images/Vol-12-issue-3/time-honoured-temple-design/hero image_temple
         design.png
   - infopic:
+      title: "My Childhood Memories: A Slice of Kampong Life"
+      subtitle: Places and Buildings
+      id: infopic
+      description: "Kampong living reflects an idyllic bygone age, a time when life
+        was much simpler. "
+      button: Kampong Days
+      url: /places-and-buildings/2023/11/childhood-memories-kampong-wak-hassan/
+      image: /images/Online Only Articles/A Slice of Kampong
+        Life/grandfather_house.png
+      alt: Image alt text
+  - infopic:
       title: The Modernist Home of Pioneer Architect Lee Kip Lin
       subtitle: BiblioAsia Reels
       id: infopic
@@ -898,15 +909,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: "My Childhood Memories: A Slice of Kampong Life"
-      subtitle: Places and Buildings
-      id: infopic
-      description: "Kampong living reflects an idyllic bygone age, a time when life
-        was much simpler. "
-      button: Kampong Days
-      url: /places-and-buildings/2023/11/childhood-memories-kampong-wak-hassan/
-      image: /images/Online Only Articles/A Slice of Kampong
-        Life/grandfather_house.png
-      alt: Image alt text
 ---
