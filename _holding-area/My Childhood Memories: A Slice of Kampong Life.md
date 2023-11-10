@@ -99,8 +99,8 @@ Kampong living became a thing of the past as villages were razed, and the people
 
 In the past, people lived near the sea for their livelihood. Today, living by the sea is a coveted life of luxury by city dwellers.
 
-![]![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/malay_houses.png)(/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/fishermen.png)
-<div style="background-color: white;">Malay houses in Kampong Wak Hassan, 1986.  <i>Illustrated by Ang Seow Leng.</i>
+![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/malay_houses.png)
+<div style="background-color: white;">Malay houses in Kampong Wak Hassan, 1986.  <i>Courtesy of National Archives of Singapore.</i>
 </div>
 
 
