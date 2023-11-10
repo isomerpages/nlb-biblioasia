@@ -21,7 +21,8 @@ The next scene that greeted us were the coconut trees and myriad of fruit trees,
 <div style="background-color: white;">Detail from a 1973 map of Singapore showing the location of Kampong Wak Hassan in the &nbsp;north of Singapore, overlooking the Strait of Johor. <i>Singapore Land Authority Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
-**A Kampong by the Sea**<br>
+**A Kampong by the Sea**
+
 Before World War II, my great-grandfather left his home village in Jieyang, Guangdong, to seek a living in Nanyang (“South Seas”, 南洋; to refer to Southeast Asia by early Chinese migrants) when his sugar processing factory was destroyed by floods. He first settled down in Thailand. Burdened with debt and the need to feed his family, he started selling _chendol_ (a Southeast Asian dessert). Shortly after, also before the war, he relocated to Kampong Wak Hassan, a Malay village in northern Singapore facing the Strait of Johor.
 
 As most of the villagers were fishermen, my great-grandfather also became one and was joined by my grandfather. They worked hard to pay off the debts and saved enough to open a provision shop in the village. The shop and the adjoining house were fondly referred to by family as “Ah Gong’s house”.
@@ -42,7 +43,8 @@ In 1966, the kampong welcomed its first asphalt-paved main road, Jalan Kampong W
 
 At dusk when the dim streetlamps illuminated the roads, villagers turned in for the night lulled by the sound of soothing waves and the distant melody of someone strumming the guitar. During low tide evenings, Malay villagers carried kerosene lamp and waded in knee deep sea to catch prawns or squids under the starry skies. Back then, pollution was unheard of, and the air was fresh and clean.
 
-**Uniting People Through Food**<br>
+**Uniting People Through Food**
+
 Living near the coastal region means that there was always an abundant supply of seafood like crabs, shrimps and all sorts of fish. Children also had fun digging up cockles from the muddy shore bed.
 
 ![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/flower_crabs.png)
@@ -71,7 +73,8 @@ Besides homecooked Chinese food, we also had the opportunity to savour the delec
 
 I looked forward to such trips as her house exuded a heavenly fragrance of pandan (screw pine) and gula melaka (palm sugar) that wafted out from a small pot. She would patiently stir the fragrant syrup on a small charcoal stove while kneading dough.  My aunts learnt to cook Malay cuisine from the Malay villagers. I recall running to the beach with a bamboo sieve to scoop shrimps for my fourth aunt to add to the bubbling mee siam (a soupy noodle dish of rice vermicelli in a spicy, sweet and tangy gravy, with toppings like sliced hard-boiled egg, chives, bean sprouts and fried bean curd) gravy that she had prepared.
 
-<b>My Grandfather’s Provision shop</b><br> 
+<b>My Grandfather’s Provision shop</b>
+
 As my grandfather’s provision shop was the only one in the village selling daily necessities, villagers often showed up at the shop. Some would purchase items on credit, while children dropped by multiple times within one day for small purchases. To protect the canned food from moisture and the salt particles in the sea breeze, my grandfather wrapped them in plastic bags. The Malay customers seemed to understand my grandfather’s heavy Teochew-accented Malay. For the longest time, I mistakenly thought that my grandfather’s name was sinkeh. It was only later when I realised that this term, which mean “new guests”, was used to describe early Chinese migrants. 
 
 There was a kerosene tin in front of the shop where villagers would pay and fill up their recycled glass bottles with kerosene to light up their home lamps. Inside the shop, my grandfather used a simple pulley system made up of two Milo cans suspended from the ceiling to contain loose change. By the time my cousins and I were tall enough to reach the Milo cans, we were allowed to help in the shop. 
@@ -90,7 +93,8 @@ Occasionally, we would also welcome foreigners sailing along the Johor Strait. T
 
 At the end of each day, one of my aunts would pull shut the metal grille sliding door, slotting the heavy wooden panels into the respective openings along the wooden frame and then latching the door with a long wooden pole. However, we would still get occasional visits from villagers requesting to buy some items that they needed even when the shop had closed for business. Even though we were closed, we would still get the item out of the shop for them.
 
-<b>The End of Kampong Life</b><br>
+<b>The End of Kampong Life</b>
+
 In the 30 years after Singapore gained Independence in 1965, urban redevelopment took place rapidly and drastically transformed the physical landscape of Singapore. The 1966 Land Acquisition Act allowed the government to acquire private land for housing, commercial and industrial purposes. Between 1959 and 1984, a total of 177 square kilometres of land were acquired, constituting about one-third of the total land area of Singapore then.[^3] 
 
 To optimise land use, careful planning is required to develop large scale housing and industrial projects. Other factors for consideration include safeguarding land for future use, developing blueprints to stimulate Singapore’s economic growth and improving the quality of life for all Singaporeans.[^4]  With assistance from the United Nations Development Programme consultants, the government announced the first concept plan in 1971 that would guide the framework for infrastructure development and land use. This included provisions for future growth of new industrial areas in Sembawang and Seletar.[^5]
