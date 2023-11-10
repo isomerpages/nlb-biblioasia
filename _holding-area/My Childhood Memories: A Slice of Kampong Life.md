@@ -40,9 +40,18 @@ In 1966, the kampong welcomed its first asphalt-paved main road, Jalan Kampong W
 <div style="background-color: white;">Minister of State for Culture Lee Khoon Choy opens new road, Jalan Kampong Wak Hassan, at 15 milestone, Sembawang, on 16 July 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i>
 </div>
 
+At dusk when the dim streetlamps illuminated the roads, villagers turned in for the night lulled by the sound of soothing waves and the distant melody of someone strumming the guitar. During low tide evenings, Malay villagers carried kerosene lamp and waded in knee deep sea to catch prawns or squids under the starry skies. Back then, pollution was unheard of, and the air was fresh and clean.
 
+**Uniting People Through Food**<br>
+Living near the coastal region means that there was always an abundant supply of seafood like crabs, shrimps and all sorts of fish. Children also had fun digging up cockles from the muddy shore bed.
 
+![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/flower_crabs.png)
+<div style="background-color: white;">Flower crabs were abundant on the shore. <i>Illustrated by Ang Seow Leng.</i>
+</div>
 
+While it was easy to catch seafood, villagers had to travel further afield to the Chong Pang market to buy fresh fruits and vegetables. Every household reared some chickens and ducks for eggs and meat. Occasionally, one might spy an escaped goat exploring the neighbourhood. Cats, as popular pets, were the nemesis of roaches, lizards and rats. Villagers also grew their favourite fruit trees. My family was spoilt for choice with mango, starfruit, jackfruit, chiku, rambutan, mulberry and coconut trees.
+
+Whenever I stayed with my grandfather, I would spend a lot of time in the kitchen observing my aunts as they cooked. Once, a chicken whose neck had been partially severed, escaped from my aunt’s grip leaving behind a bloody trail on the floor. Till today, I still shudder when I recall that scene.
 
 
 
