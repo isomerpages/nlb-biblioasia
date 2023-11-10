@@ -18,7 +18,7 @@ sections:
       background: /images/Vol-12-issue-3/time-honoured-temple-design/hero image_temple
         design.png
   - infopic:
-      title: The Modernist Home of a Pioneer Architect
+      title: The Modernist Home of Pioneer Architect Lee Kip Lin
       subtitle: BiblioAsia Reels
       id: infopic
       description: The family home of architect Lee Kip Lin has stood the test of time
