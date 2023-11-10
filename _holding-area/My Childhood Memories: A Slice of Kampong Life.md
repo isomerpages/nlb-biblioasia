@@ -71,8 +71,7 @@ Besides homecooked Chinese food, we also had the opportunity to savour the delec
 
 I looked forward to such trips as her house exuded a heavenly fragrance of pandan (screw pine) and gula melaka (palm sugar) that wafted out from a small pot. She would patiently stir the fragrant syrup on a small charcoal stove while kneading dough.  My aunts learnt to cook Malay cuisine from the Malay villagers. I recall running to the beach with a bamboo sieve to scoop shrimps for my fourth aunt to add to the bubbling mee siam (a soupy noodle dish of rice vermicelli in a spicy, sweet and tangy gravy, with toppings like sliced hard-boiled egg, chives, bean sprouts and fried bean curd) gravy that she had prepared.
 
-My Grandfather’s Provision shop 
-
+<b>My Grandfather’s Provision shop</b><br> 
 As my grandfather’s provision shop was the only one in the village selling daily necessities, villagers often showed up at the shop. Some would purchase items on credit, while children dropped by multiple times within one day for small purchases. To protect the canned food from moisture and the salt particles in the sea breeze, my grandfather wrapped them in plastic bags. The Malay customers seemed to understand my grandfather’s heavy Teochew-accented Malay. For the longest time, I mistakenly thought that my grandfather’s name was sinkeh. It was only later when I realised that this term, which mean “new guests”, was used to describe early Chinese migrants. 
 
 There was a kerosene tin in front of the shop where villagers would pay and fill up their recycled glass bottles with kerosene to light up their home lamps. Inside the shop, my grandfather used a simple pulley system made up of two Milo cans suspended from the ceiling to contain loose change. By the time my cousins and I were tall enough to reach the Milo cans, we were allowed to help in the shop. 
@@ -85,12 +84,24 @@ Business picked up when Sembawang Park opened at the end of Sembawang Road in 19
 
 Occasionally, we would also welcome foreigners sailing along the Johor Strait. They would moor their sailboat in the middle of the sea and rest for a few days. Then they would borrow a sampan (a small wooden boat) belonging to the Malay villagers and row to the shore to buy groceries from my grandfather’s provision shop. We would take the opportunity to chat with them in English and listen in wonder as they regaled us with their adventures out at sea.
 
-![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/riding_a_bike.png)
-<div style="background-color: white;">Riding a bike in front of my grandfather’s house. He kept a dog and a number of chickens. <i>Illustrated by Ang Seow Leng.</i>
+![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/fishermen.png)
+<div style="background-color: white;">Fishermen in the village used sampan like these to go out to sea. He kept a dog and a number of chickens. <i>Illustrated by Ang Seow Leng.</i>
 </div>
 
+At the end of each day, one of my aunts would pull shut the metal grille sliding door, slotting the heavy wooden panels into the respective openings along the wooden frame and then latching the door with a long wooden pole. However, we would still get occasional visits from villagers requesting to buy some items that they needed even when the shop had closed for business. Even though we were closed, we would still get the item out of the shop for them.
 
+<b>The End of Kampong Life</b><br>
+In the 30 years after Singapore gained Independence in 1965, urban redevelopment took place rapidly and drastically transformed the physical landscape of Singapore. The 1966 Land Acquisition Act allowed the government to acquire private land for housing, commercial and industrial purposes. Between 1959 and 1984, a total of 177 square kilometres of land were acquired, constituting about one-third of the total land area of Singapore then. 
 
+To optimise land use, careful planning is required to develop large scale housing and industrial projects. Other factors for consideration include safeguarding land for future use, developing blueprints to stimulate Singapore’s economic growth and improving the quality of life for all Singaporeans.  With assistance from the United Nations Development Programme consultants, the government announced the first concept plan in 1971 that would guide the framework for infrastructure development and land use. This included provisions for future growth of new industrial areas in Sembawang and Seletar. 
+
+Kampong living became a thing of the past as villages were razed, and the people were resettled in high-rise Housing and Development Board flats. Kampong Wak Hassan, too, was not spared the wrecking ball. My grandfather’s provision shop and adjoining house were demolished in the early 2000s. On the site of the former kampong today is Watercove, an exclusive estate of 80 freehold luxury strata houses by the sea. 
+
+In the past, people lived near the sea for their livelihood. Today, living by the sea is a coveted life of luxury by city dwellers.
+
+![]![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/malay_houses.png)(/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/fishermen.png)
+<div style="background-color: white;">Malay houses in Kampong Wak Hassan, 1986.  <i>Illustrated by Ang Seow Leng.</i>
+</div>
 
 
 
