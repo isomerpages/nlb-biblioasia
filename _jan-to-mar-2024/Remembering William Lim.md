@@ -91,7 +91,7 @@ An accompanying book of the same name will be published soon. It charts the last
 </div><br>
 <img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev3.png">
 <div style="background-color: #fff6ba;">
-Published by the Urban Redevelopment Authority and National Library Board, 2023.
+Published by the National Library Board and Urban Redevelopment Authority, 2023.
 </div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
