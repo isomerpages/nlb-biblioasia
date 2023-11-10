@@ -18,6 +18,18 @@ sections:
       background: /images/Vol-12-issue-3/time-honoured-temple-design/hero image_temple
         design.png
   - infopic:
+      title: The Modernist Home of a Pioneer Architect
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: The family home of architect Lee Kip Lin has stood the test of time
+        with its simple and yet modern design. His wife, Mrs Lee Li-ming, shares
+        her insights.
+      button: Watch the Video
+      url: https://www.youtube.com/embed/XA1HxdwLJEY
+      image: "/images/Videos: BiblioAsia
+        Reels/BiblioAsia_Reels___binjai_park_small_.png"
+      alt: Image alt text
+  - infopic:
       title: The Salvation Army in Singapore
       subtitle: Local Icons
       id: infopic
@@ -885,17 +897,5 @@ sections:
       url: /sports/2023/11/mountain-everest-expedition-david-lim/
       image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
         ropes1.jpg
-      alt: Image alt text
-  - infopic:
-      title: The Modernist Home of a Pioneer Architect
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: The family home of architect Lee Kip Lin has stood the test of time
-        with its simple and yet modern design. His wife, Mrs Lee Li-ming, shares
-        her insights.
-      button: Watch the Video
-      url: https://www.youtube.com/embed/XA1HxdwLJEY
-      image: "/images/Videos: BiblioAsia
-        Reels/BiblioAsia_Reels___binjai_park_small_.png"
       alt: Image alt text
 ---
