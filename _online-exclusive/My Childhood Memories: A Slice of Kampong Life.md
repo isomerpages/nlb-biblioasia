@@ -88,7 +88,7 @@ Business picked up when Sembawang Park opened at the end of Sembawang Road in 19
 Occasionally, we would also welcome foreigners sailing along the Johor Strait. They would moor their sailboat in the middle of the sea and rest for a few days. Then they would borrow a sampan (a small wooden boat) belonging to the Malay villagers and row to the shore to buy groceries from my grandfather’s provision shop. We would take the opportunity to chat with them in English and listen in wonder as they regaled us with their adventures out at sea.
 
 ![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/fishermen.png)
-<div style="background-color: white;">Fishermen in the village used sampan like these to go out to sea. He kept a dog and a number of chickens. <i>Illustrated by Ang Seow Leng.</i>
+<div style="background-color: white;">Fishermen in the village used sampan like these to go out to sea. <i>Illustrated by Ang Seow Leng.</i>
 </div>
 
 At the end of each day, one of my aunts would pull shut the metal grille sliding door, slotting the heavy wooden panels into the respective openings along the wooden frame and then latching the door with a long wooden pole. However, we would still get occasional visits from villagers requesting to buy some items that they needed even when the shop had closed for business. Even though we were closed, we would still get the item out of the shop for them.
