@@ -886,4 +886,16 @@ sections:
       image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
         ropes1.jpg
       alt: Image alt text
+  - infopic:
+      title: The Modernist Home of a Pioneer Architect
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: "Located at 32 Binjai Park, the family home of the late architect
+        Lee Kip Lin stood the test of time with its simple and yet modern
+        design. "
+      button: Watch the Video
+      url: https://www.youtube.com/embed/XA1HxdwLJEY
+      image: "/images/Videos: BiblioAsia
+        Reels/BiblioAsia_Reels___binjai_park_small_.png"
+      alt: Image alt text
 ---
