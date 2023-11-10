@@ -1,6 +1,6 @@
 ---
 title: "Chia Boon Leong: The Twinkle-Toed Olympian"
-permalink: /holding-area/permalink/chiaboonleongtest1/
+permalink: /vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/
 description: Although short in stature, footballer Chia Boon Leong was a force
   to be reckoned with.
 image: /images/Vol 19 Issue 4/Chia Boon Leong/chiaboonleong.jpg
