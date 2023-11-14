@@ -9,21 +9,20 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-12/issue-3/oct-dec-2016/time-honoured-temple/
-      button: Time-honoured Temple Design
+      url: /vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/
+      button: The One that Got Away
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-12-issue-3/time-honoured-temple-design/hero image_temple
-        design.png
+      background: /images/Vol 19 Issue 2/Whale Skeleton/hero_img_whale.jpg
   - infopic:
       title: "Chia Boon Leong: The Twinkle-Toed Olympian"
       subtitle: Sports
       id: infopic
       description: Although short in stature, footballer Chia Boon Leong was a force
         to be reckoned with.
-      button: "“SMALL  BUT TERRIBLE” "
+      button: “SMALL  BUT TERRIBLE”
       url: /vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/
       image: /images/Vol 19 Issue 4/Chia Boon Leong/chiaboonleong2004.jpg
       alt: Image alt text
