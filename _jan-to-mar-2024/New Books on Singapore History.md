@@ -20,7 +20,7 @@ By Juliana Lim
 Talisman Publishing (2023), 264 pages <br>
 Call no.: RSING 700.92 LIM
  
-![](/images/Vol%2019%20Issue%204/New%20Books/forartssake.jpg)
+<img src="/images/Vol%2019%20Issue%204/New%20Books/forartssake.jpg" style="width: 100%;">
 
 Retired arts manager Juliana Lim provides a behind-the-scenes look at Singapore’s arts scene between the 1970s and the 2000s. Lim joined the Administrative Service in 1973 and was involved in overseeing major arts and cultural policies and initiatives such as the Cultural Vision 1999 and the building of the Esplanade – Theatres on the Bay. Her book looks at the ideas, policies and people behind this important period in the history of Singapore’s cultural development.
 
