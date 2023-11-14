@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/
-      button: The One that Got awayt Away
+      button: The One that Got Away
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
