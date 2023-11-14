@@ -5,9 +5,9 @@ description: ""
 third_nav_title: BiblioAsia Reels
 variant: markdown
 ---
-### A Reel-ly Good Story: History in Five Minutes
+###  <b>A Reel-ly Good Story: History in Five Minutes</b>
 
-<b>*BiblioAsia Reels* turns a *BiblioAsia* story into a short video. Take five to learn interesting things about Singapore history.</b>
+*BiblioAsia Reels* turns a *BiblioAsia* story into a short video. Take five to learn interesting things about Singapore history.
 
 #### <b>The Modernist Home of Pioneer Architect Lee Kip Lin</b>
  
