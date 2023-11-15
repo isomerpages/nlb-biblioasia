@@ -96,6 +96,11 @@ Geliga’s first female cartoonist was Nora Abdullah, whose real name was Che No
 <div style="background-color: white;">Nora Abdullah was Geliga’s first female cartoonist, and also the first female Malay comic artist in Singapore and Malaya. She produced her first comic book, <i>Cik Siti Wan Kembang</i>, at the age of 15. <i>Courtesy of Malay Heritage Centre.</i></div>
 
 
+
+<div style="background-color: white;">Siti Wan Kembang is the legendary queen who ruled Kelantan in the 17th century. <i>Image reproduced from Nora Abdullah, Cik Siti Wan Kembang (London: The British Library, 2010–2013). (From National Library, Singapore, call no. Malay RCLOS 899.28 NOR).</i></div>
+
+
+
 Geliga also published the popular _Geliga Komik Series_ (_Geliga’s Comic Series_) comprising more than 300 comic books. The second book in the series is titled _Helang Hitam_, published in 1956. Helang Hitam – meaning “Black Eagle” – is the alter ego of Harun and a cross between Robin, Batman’s sidekick, and the legendary outlaw Robin Hood. The villain in the story is Keris Mas, who robs a bank with his gang and escapes to a hideout on a deserted island. Helang Hitam manages to defeat and arrest Keris Mas, who is then put behind bars.[^21]
 
 
