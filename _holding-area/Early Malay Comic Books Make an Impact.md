@@ -130,7 +130,7 @@ In the 1960s, the Malay comic book publishing trade began shifting its centre fr
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/benjamin_khoo1.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/MazelanAnuar.png">
 	<b>Mazelan Anuar</b> is a Senior Librarian with the National Library, Singapore. His research interests are in early Singapore Malay publications and digital librarianship. He manages the National Library’s Malay-language collection as well as the NewspaperSG portal.</div>
 
 
