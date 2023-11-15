@@ -83,6 +83,12 @@ Geliga’s first female cartoonist was Nora Abdullah, whose real name was Che No
 
 Geliga also published the popular _Geliga Komik Series_ (_Geliga’s Comic Series_) comprising more than 300 comic books. The second book in the series is titled _Helang Hitam_, published in 1956. Helang Hitam – meaning “Black Eagle” – is the alter ego of Harun and a cross between Robin, Batman’s sidekick, and the legendary outlaw Robin Hood. The villain in the story is Keris Mas, who robs a bank with his gang and escapes to a hideout on a deserted island. Helang Hitam manages to defeat and arrest Keris Mas, who is then put behind bars.[^21]
 
+
+
+<div style="background-color: white;"> Helang Hitam – likely the first Malay comic superhero – is a cross between Robin, Batman’s sidekick, and the legendary outlaw Robin Hood.<i>Image reproduced from Jamaludin, Helang Hitam (Singapura: Geliga, 1956). (From PublicationSG).</i></div>
+
+
+
 Geliga was a major publisher of comic books, and when it closed in the early 1960s, the production of comic books in Singapore declined. Comic artists also stayed away due to issues relating to payment of royalty fees.[^22] Nora Abdullah’s comic book _Armina_, published in 1961 (number 309 under the _Geliga Komik Series_), was likely Geliga’s last comic book.[^23] &nbsp;
 
 In the 1960s, the Malay comic book publishing trade began shifting its centre from Singapore to Penang where Sinaran Brothers became the most prolific publisher of Malay comic books. Penang eventually supplanted Singapore as a centre for publishing Malay comic books.
