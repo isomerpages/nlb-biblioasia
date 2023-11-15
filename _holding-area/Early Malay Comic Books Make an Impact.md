@@ -136,9 +136,9 @@ In the 1960s, the Malay comic book publishing trade began shifting its centre fr
 
 #### **NOTES**
 	
-[^1]: Muliyadi Mahamood, Kartun dan Kartunis di Malaysia (Kuala Lumpur: Institut Terjemahan &amp; Buku Malaysia, 2015), 3–5. (From National Library, Singapore, call no. RSEA 741.59595 MUL); Muliyadi Mahamood, Dunia Kartun: Menyingkap Pelbagai Aspek Seni Kartun Dunia dan Tempatan (Kuala Lumpur: Creative Enterprise, 2010), 148–50. (From National Library, Singapore, call no. RART 741.5 MUL)
+[^1]: Muliyadi Mahamood, [Kartun dan Kartunis di Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?id=202096053) (Kuala Lumpur: Institut Terjemahan &amp; Buku Malaysia, 2015), 3–5. (From National Library, Singapore, call no. RSEA 741.59595 MUL); Muliyadi Mahamood, [Dunia Kartun: Menyingkap Pelbagai Aspek Seni Kartun Dunia dan Tempatan](https://eservice.nlb.gov.sg/item_holding.aspx?id=13678508) (Kuala Lumpur: Creative Enterprise, 2010), 148–50. (From National Library, Singapore, call no. RART 741.5 MUL)
 
-[^2]: Muliyadi Mahamood, The History of Malay Editorial Cartoons (1930s–1993) (Malaysia: Utusan Publication &amp; Dist., 2004), 17–20. (From National Library, Singapore, call no. RART 741.59595 MUL)
+[^2]: Muliyadi Mahamood, [The History of Malay Editorial Cartoons (1930s–1993)](https://eservice.nlb.gov.sg/item_holding.aspx?id=12241533) (Malaysia: Utusan Publication &amp; Dist., 2004), 17–20. (From National Library, Singapore, call no. RART 741.59595 MUL)
 
 [^3]: “Haji Ali – Kartunis Yang Hangat di Zaman Silam,” Berita Harian, 1 October 1985, 3. (From NewspaperSG) 
 
