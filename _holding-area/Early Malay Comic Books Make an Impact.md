@@ -106,11 +106,11 @@ K. Bali was the pen name of the multi-talented Abdul Rahim Abdullah. Born in Kel
 
 Geliga’s first female cartoonist was Nora Abdullah, whose real name was Che Nor Zaharah Abdullah.[^18] She was also the first female Malay comic artist in Singapore and Malaya. Born in Kelantan, Nora Abdullah published her first comic book, _Cik Siti Wan Kembang_, in 1955 at the age of 15.[^19] Siti Wan Kembang, known for her wisdom and mystical powers, is the name of the legendary queen who ruled Kelantan in the 17th century. Nora Abdullah published at least 12 comic books with Geliga but stopped drawing comics in 1960 and turned to painting portraits instead.[^20]
 
-
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/NoraAbdullah.jpg)
 <div style="background-color: white;">Nora Abdullah was Geliga’s first female cartoonist, and also the first female Malay comic artist in Singapore and Malaya. She produced her first comic book, <i>Cik Siti Wan Kembang</i>, at the age of 15. <i>Courtesy of Malay Heritage Centre.</i></div>
 
 
-
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/CheSitiWanKembang1956.jpg)
 <div style="background-color: white;">Siti Wan Kembang is the legendary queen who ruled Kelantan in the 17th century. <i>Image reproduced from Nora Abdullah, Cik Siti Wan Kembang (London: The British Library, 2010–2013). (From National Library, Singapore, call no. Malay RCLOS 899.28 NOR).</i></div>
 
 
