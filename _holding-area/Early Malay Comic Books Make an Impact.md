@@ -167,22 +167,22 @@ In the 1960s, the Malay comic book publishing trade began shifting its centre fr
 
 [^14]: “Geliga Limited,” in [Ensiklopedia Sejarah dan Kebudayaan Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?id=9532832) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 1 A-E. (From National Library, Singapore, call no. R 959.003 ENS)
 
-[^15]: Ahad Husain, Husni Dengan Perompak (Singapore: Geliga Limited, 1956). (From PublicationSG)
+[^15]: Ahad Husain, [Husni Dengan Perompak](https://eservice.nlb.gov.sg/item_holding.aspx?id=200054913) (Singapore: Geliga Limited, 1956). (From PublicationSG)
 
-[^16]: Muliyadi Mahamood, Dunia Kartun: Menyingkap Pelbagai Aspek Seni Kartun Dunia dan Tempatan (Kuala Lumpur: Creative Enterprise, 2010), 158–59. (From National Library, Singapore, call no. RART 741.5 MUL)
+[^16]: Muliyadi Mahamood, [Dunia Kartun: Menyingkap Pelbagai Aspek Seni Kartun Dunia dan Tempatan](https://eservice.nlb.gov.sg/item_holding.aspx?id=13678508) (Kuala Lumpur: Creative Enterprise, 2010), 158–59. (From National Library, Singapore, call no. RART 741.5 MUL)
 
-[^17]: “K. Bali,” in Ensiklopedia Sejarah dan Kebudayaan Melayu (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 2 F-L. (From National Library, Singapore, call no. R 959.003 ENS)
+[^17]: “K. Bali,” in [Ensiklopedia Sejarah dan Kebudayaan Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?id=9532832) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 2 F-L. (From National Library, Singapore, call no. R 959.003 ENS)
 
-[^18]: Jacqueline Lee and Chiang Yu Xiang, “Singapore Comics: Panels Past and Present,” BiblioAsia 17, no. 3 (October–December 2021): 4–11. 
-
-
-[^19]: Nora Abdullah, Cik Siti Wan Kembang (London: The British Library, 2010–2013). (From National Library, Singapore, call no. Malay RCLOS 899.28 NOR) 
-
-[^20]: “Pelukis Nora Maseh Tetap Melukis,” Berita Harian, 7 September 1969, 8. (From NewspaperSG)
-
-[^21]: Jamaludin, Helang Hitam (Singapura: Geliga, 1956). (From PublicationSG)
-
-[^22]: “Kelumpohan Peluksis2 Komik Melayu,” Berita Harian, 16 March 1962, 4. (From NewspaperSG)
+[^18]: Jacqueline Lee and Chiang Yu Xiang, “[Singapore Comics: Panels Past and Present](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/singapore-comics/),” BiblioAsia 17, no. 3 (October–December 2021): 4–11. 
 
 
-[^23]: Nora Abdullah, Armina (Singapura: Geliga, 1961). (From PublicationSG)
+[^19]: Nora Abdullah, [Cik Siti Wan Kembang](https://eservice.nlb.gov.sg/item_holding.aspx?id=200148008) (London: The British Library, 2010–2013). (From National Library, Singapore, call no. Malay RCLOS 899.28 NOR) 
+
+[^20]: “[Pelukis Nora Maseh Tetap Melukis](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19690907-1.2.57),” Berita Harian, 7 September 1969, 8. (From NewspaperSG)
+
+[^21]: Jamaludin, [Helang Hitam](https://eservice.nlb.gov.sg/item_holding.aspx?id=200088500) (Singapura: Geliga, 1956). (From PublicationSG)
+
+[^22]: “[Kelumpohan Peluksis2 Komik Melayu](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19620316-1.2.28),” Berita Harian, 16 March 1962, 4. (From NewspaperSG)
+
+
+[^23]: Nora Abdullah, [Armina](https://eservice.nlb.gov.sg/item_holding.aspx?id=200025929) (Singapura: Geliga, 1961). (From PublicationSG)
