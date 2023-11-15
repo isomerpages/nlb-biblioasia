@@ -95,7 +95,7 @@ Another publishing company in Singapore that waded into the business of publishi
 
 In 1956, Geliga decided to publish its first comic book – _Husni Dengan Perompak_ (_Husni and the Robbers_).[^15] It then went on to produce other comic books, collaborating with artists and writers such as Raja Hamzah, K. Bali and Nora Abdullah.
 
-
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/Husnidenganperompak.jpg)
 <div style="background-color: white;"><i>Husni Dengan Perompak</i> (<i>Husni and the Robbers</i>) is the first Malay comic book published by Geliga Press. <i>Image reproduced from Ahad Husain, Husni Dengan Perompak (Singapore: Geliga Limited, 1956). (From PublicationSG).</i></div>
 
 
