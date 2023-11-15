@@ -136,18 +136,18 @@ In the 1960s, the Malay comic book publishing trade began shifting its centre fr
 
 #### **NOTES**
 	
-[^1]: Muliyadi Mahamood, [Kartun dan Kartunis di Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?id=202096053) (Kuala Lumpur: Institut Terjemahan &amp; Buku Malaysia, 2015), 3–5. (From National Library, Singapore, call no. RSEA 741.59595 MUL); Muliyadi Mahamood, [Dunia Kartun: Menyingkap Pelbagai Aspek Seni Kartun Dunia dan Tempatan](https://eservice.nlb.gov.sg/item_holding.aspx?id=13678508) (Kuala Lumpur: Creative Enterprise, 2010), 148–50. (From National Library, Singapore, call no. RART 741.5 MUL)
+[^1]: Muliyadi Mahamood, [_Kartun dan Kartunis di Malaysia_](https://eservice.nlb.gov.sg/item_holding.aspx?id=202096053) (Kuala Lumpur: Institut Terjemahan &amp; Buku Malaysia, 2015), 3–5. (From National Library, Singapore, call no. RSEA 741.59595 MUL); Muliyadi Mahamood, [_Dunia Kartun: Menyingkap Pelbagai Aspek Seni Kartun Dunia dan Tempatan_](https://eservice.nlb.gov.sg/item_holding.aspx?id=13678508) (Kuala Lumpur: Creative Enterprise, 2010), 148–50. (From National Library, Singapore, call no. RART 741.5 MUL)
 
-[^2]: Muliyadi Mahamood, [The History of Malay Editorial Cartoons (1930s–1993)](https://eservice.nlb.gov.sg/item_holding.aspx?id=12241533) (Malaysia: Utusan Publication &amp; Dist., 2004), 17–20. (From National Library, Singapore, call no. RART 741.59595 MUL)
+[^2]: Muliyadi Mahamood, [_The History of Malay Editorial Cartoons (1930s–1993)_](https://eservice.nlb.gov.sg/item_holding.aspx?id=12241533) (Malaysia: Utusan Publication &amp; Dist., 2004), 17–20. (From National Library, Singapore, call no. RART 741.59595 MUL)
 
-[^3]: “[Haji Ali – Kartunis Yang Hangat di Zaman Silam](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19851001-1.2.24.1),” Berita Harian, 1 October 1985, 3. (From NewspaperSG) 
+[^3]: “[Haji Ali – Kartunis Yang Hangat di Zaman Silam](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19851001-1.2.24.1),” _Berita Harian_, 1 October 1985, 3. (From NewspaperSG) 
 
-[^4]: “[Wak Ketok Perintis Kartun Melayu](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian20150207-1.2.25.3),” Berita Harian, 7 February 2015, 20. (From NewspaperSG)
+[^4]: “[Wak Ketok Perintis Kartun Melayu](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian20150207-1.2.25.3),” _Berita Harian_, 7 February 2015, 20. (From NewspaperSG)
 
-[^5]: Jan Van Der Putten and Timothy P. Barnard, “Old Malay Heroes Never Die,” in Ian Gordon and Mark Jancovich, [Film and Comic Books](https://nlb.overdrive.com/media/720549) (Jackson: University Press of Mississippi, 2012), 668–69. (From NLB OverDrive); Nasjah Djamin, [Hang Tuah (Untuk Anak-Anak)](https://eservice.nlb.gov.sg/item_holding.aspx?id=12575630) (Djakarta: Balai Pustaka, 1951). (From National Library, Singapore, call no. RCLOS 398.209595 NAS-[ACL])
+[^5]: Jan Van Der Putten and Timothy P. Barnard, “Old Malay Heroes Never Die,” in Ian Gordon and Mark Jancovich, [_Film and Comic Books_](https://nlb.overdrive.com/media/720549) (Jackson: University Press of Mississippi, 2012), 668–69. (From NLB OverDrive); Nasjah Djamin, [_Hang Tuah (Untuk Anak-Anak)_](https://eservice.nlb.gov.sg/item_holding.aspx?id=12575630) (Djakarta: Balai Pustaka, 1951). (From National Library, Singapore, call no. RCLOS 398.209595 NAS-[ACL])
 
 
-[^6]: “Balai Pustaka,” in [Ensiklopedia Sejarah dan Kebudayaan Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?id=9532832) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 1 A-E. (From National Library, Singapore, call no. R 959.003 ENS); Van Der Putten and Barnard, “Old Malay Heroes Never Die,” 668–69.
+[^6]: “Balai Pustaka,” in [_Ensiklopedia Sejarah dan Kebudayaan Melayu_](https://eservice.nlb.gov.sg/item_holding.aspx?id=9532832) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 1 A-E. (From National Library, Singapore, call no. R 959.003 ENS); Van Der Putten and Barnard, “Old Malay Heroes Never Die,” 668–69.
 
 [^7]: “Nasjah Djamin,” in [Ensiklopedia Sejarah dan Kebudayaan Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?id=9532832) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 3 M-Q. (From National Library, Singapore, call no. R 959.003 ENS)
 
