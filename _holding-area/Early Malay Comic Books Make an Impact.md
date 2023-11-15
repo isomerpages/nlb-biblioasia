@@ -147,11 +147,11 @@ In the 1960s, the Malay comic book publishing trade began shifting its centre fr
 [^5]: Jan Van Der Putten and Timothy P. Barnard, “Old Malay Heroes Never Die,” in Ian Gordon and Mark Jancovich, [Film and Comic Books](https://nlb.overdrive.com/media/720549) (Jackson: University Press of Mississippi, 2012), 668–69. (From NLB OverDrive); Nasjah Djamin, [Hang Tuah (Untuk Anak-Anak)](https://eservice.nlb.gov.sg/item_holding.aspx?id=12575630) (Djakarta: Balai Pustaka, 1951). (From National Library, Singapore, call no. RCLOS 398.209595 NAS-[ACL])
 
 
-[^6]: “Balai Pustaka,” in Ensiklopedia Sejarah dan Kebudayaan Melayu (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 1 A-E. (From National Library, Singapore, call no. R 959.003 ENS); Van Der Putten and Barnard, “Old Malay Heroes Never Die,” 668–69.
+[^6]: “Balai Pustaka,” in [Ensiklopedia Sejarah dan Kebudayaan Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?id=9532832) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 1 A-E. (From National Library, Singapore, call no. R 959.003 ENS); Van Der Putten and Barnard, “Old Malay Heroes Never Die,” 668–69.
 
-[^7]: “Nasjah Djamin,” in Ensiklopedia Sejarah dan Kebudayaan Melayu (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 3 M-Q. (From National Library, Singapore, call no. R 959.003 ENS)
+[^7]: “Nasjah Djamin,” in [Ensiklopedia Sejarah dan Kebudayaan Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?id=9532832) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 3 M-Q. (From National Library, Singapore, call no. R 959.003 ENS)
 
-[^8]: Merayu Rawan, Pusaka Datuk Moyang (Singapore: Nilam, 1952). (From National Library, Singapore, call no. RCLOS Malay 741.5 MER)
+[^8]: Merayu Rawan, [Pusaka Datuk Moyang](https://eservice.nlb.gov.sg/item_holding.aspx?id=12605055) (Singapore: Nilam, 1952). (From National Library, Singapore, call no. RCLOS Malay 741.5 MER)
 
 
 [^9]: Annabel Teh Gallop, “Malay Comic Books from the 1950s and 1960s in the British Library,” Southeast Asia Library Group Newsletter, no. 54 (December 2022): 47–48. Southeast Asia Library Group, https://safe.menlosecurity.com/http://www.sealg.org/pdf/newsletter2022.pdf.
