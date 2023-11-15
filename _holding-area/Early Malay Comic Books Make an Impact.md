@@ -62,7 +62,7 @@ _Pusaka Datuk Moyang_ was written by Abdul Jalil Haji Nor, using the pen name Me
 
 The prolific writer and editor Harun Aminurrashid played a major role in the publication of _Pusaka Datuk Moyang_. In the foreword of the book, the Malay literary pioneer wrote that _Pusaka Datuk Moyang_ was initially published as a series in _Hiburan_. As the story was well received by the magazine’s readers, Harun encouraged the creator to compile it into a book. He opined that comic books are useful in teaching the young to be loyal, strong, well behaved and progressive.[^9]
 
-
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/HarunAminurrashid.jpg)
 <div style="background-color: white;">The prolific writer and editor Harun Aminurrashid was instrumental in the publication of <i>Pusaka Datuk Moyang</i>. <i>  Courtesy of Dewan Bahasa dan Pustaka.</i></div>
 
 
@@ -76,10 +76,12 @@ According to Razak, Harun Aminurrashid’s call for the production of Malay comi
 
 One interesting work that emerged during those early years was _Tungga dan Piring Terbang_ (_Tungga and the Flying Saucer_). This comic book was published in 1953 by Malayan-Indonesian Book Store (MIBS) and was the creation of Indonesian filmmaker and comic artist Nas (also known as Naz) Achnas.[^11] This comic book was a groundbreaking effort because at the time, Malay comic books typically depicted tales from ancient Malay _hikayat_ (meaning “stories” in Arabic). Written in Romanised Malay, _Tungga dan Piring Terbang_ is regarded as one of the earliest Malay science fiction comic books published in Singapore. Interestingly, Tungga and the other human characters resemble Malay warriors and nobility of the past.
 
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/Tunggadanpiringterbang.jpg)
 <div style="background-color: white;"><i>Tungga dan Piring Terbang</i> (<i>Tungga and the Flying Saucer</i>) is regarded as one of the earliest Malay science fiction comic books published in Singapore. <i>Image reproduced from Naz Achnas, Tungga dan Piring Terbang (Singapore: Malayan-Indonesian Book Store, 1953). (From National Library Online).</i></div>
 
 Tungga protects the crown prince, Lewangsa, after a revolt that results in the king’s death. While escaping, Tungga and Lewangsa encounter aliens who help them. Eventually, Tungga and Lewangsa manage to claim back the throne. Later, the aliens become disillusioned and disappointed by human greed and their penchant for fighting.
 
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/Tunggainside.jpg)
 <div style="background-color: white;">An inside page of<i>Tungga dan Piring Terbang</i>. <i>Image reproduced from Naz Achnas, Tungga dan Piring Terbang (Singapore: Malayan-Indonesian Book Store, 1953). (From National Library Online).</i></div>
 
 
