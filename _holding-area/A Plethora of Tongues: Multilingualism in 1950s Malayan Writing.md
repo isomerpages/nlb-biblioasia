@@ -70,71 +70,18 @@ In _The New Cauldron_, a popular literary magazine in the 1950s edited by studen
 ![](/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/thenewcauldron.jpg)
 <div style="background-color: white;"><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551118"><i>The New Cauldron</i></a>&nbsp;was a literary journal edited by students at the University of Malaya. <i>Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC)</i></div>
 
-  
+<b>Multivocal Writing as an Expression of Linguistic Citizenship</b><br>
+It is no coincidence that the Chinese-language and English-language writers in Malaya experimented with multivocality in their respective literary spheres within the same period. This is especially so because, as Han Suyin observed, there was little communication between the two communities.  It was the effervescent ambience of Malayan society in the 1950s that encouraged linguistic creativity and fostered the articulation of a unique locally grounded voice in writing. This voice was decidedly heterogeneous, with Chinese-language and English-language writers breaking with their respective literary traditions to invent an adulterated discourse that reflected the plethora of tongues spoken in Malaya.<br>
+      It is through this thrown-togetherness of tongues that writers in the 1950s gesture toward what we may call an imagined utopia in Malaya. Multivocal writing, therefore, is not simply about language and literature; it is the symptom of a milieu caught in the transition from colonialism to nationalism, in which citizenship and nationality were under intense negotiation. Multilingualism as an experimental mode of writing, then, speaks to transitions in identity. <br>
+Through their experimentation with plural voices, Sinophone and Anglophone writers endeavoured to “capture the utopic experience of thinking language otherwise”,  forging what sociolinguists call a linguistic citizenship. Linguistic citizenship refers to a condition where “representing languages in particular ways becomes crucial to, becomes the very dynamic through which, acts of agency and participation, and reconceptualizations of self in matrices of power occur”.  This concept allows us to understand how, as a modality of expression, literary composition is tied to the fervent sociopolitics of 1950s Malaya. <br>
+      Literary experimentations in that period have also left their imprint on our linguistic landscape today. Singlish, for example, can be seen as a contemporary incarnation of EngMalChin.  Endowed with a locale-specific consciousness, Singlish now features in writing to emblematise a distinctively Singaporean ethos, just as EngMalChin had aspired in the 1950s. Indeed, multivocality constitutes the fabric of our cultural expression today and is one of the many legacies left by our pioneer literary writers.
+			
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/leetongking_profile.jpg">
+	<b>Lee Tong King</b> is a Professor of Language and Communication in the School of English, University of Hong Kong. He was a National Library Singapore Lee Kong Chian Research Fellow in 2022–2023.</div>
 
-* * *
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-	
-	
-	
-	
-	
-	
-	
-	
-
-* * *
+#### **Notes**
 
 [^1]: Han Suyin, “An Outline of Malayan-Chinese Literature,” [_Eastern Horizon_](https://eservice.nlb.gov.sg/item_holding.aspx?id=4125524) 3, no. 6 (June 1964): 10. (From National Library, Singapore, call no. RCLOS 950.05 EHMR)
 
