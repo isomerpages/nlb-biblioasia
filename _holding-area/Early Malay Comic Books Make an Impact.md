@@ -22,6 +22,9 @@ One of the first Malay comics to appear came out in _Warta Jenaka_, which was la
 
 Not to be outdone, _Utusan Melayu_, another Jawi daily, also started a weekly supplement. _Utusan Zaman_ was launched in November 1939 and the paper’s cartoonist was Ali Sanat. One of his popular creations was Wak Ketok – a satirical character known for his comical antics. The character was used to encourage unity in the Malay community and to improve their way of life.[^3]
 
+<div style="background-color: white;">Wak Ketok by Ali Sanat is a satirical character known for his comical antics. <i>Collection of Haji Ali Sanat Family.</i></div>
+
+
 Ali Sanat was born in 1900 in Kampong Tembaga along Bussorah Street in Singapore. His father was a well-known Haj pilgrimage agent, who served pilgrims during their Singapore stopover en route to Mecca, and Ali Sanat helped his father manage these pilgrims.&nbsp;
 
 In the early 1950s, Ali Sanat created a new character, Wak Raya, when he went to work for another newspaper, _Melayu Raya_. He also contributed his works to the entertainment magazine _Asmara_, but decided to stop drawing after 1956 to focus on his funeral business. He died in 1997, at age 97.[^4]
