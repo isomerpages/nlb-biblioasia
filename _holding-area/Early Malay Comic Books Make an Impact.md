@@ -59,6 +59,10 @@ _Pusaka Datuk Moyang_ was written by Abdul Jalil Haji Nor, using the pen name Me
 
 The prolific writer and editor Harun Aminurrashid played a major role in the publication of _Pusaka Datuk Moyang_. In the foreword of the book, the Malay literary pioneer wrote that _Pusaka Datuk Moyang_ was initially published as a series in _Hiburan_. As the story was well received by the magazine’s readers, Harun encouraged the creator to compile it into a book. He opined that comic books are useful in teaching the young to be loyal, strong, well behaved and progressive.[^9]
 
+
+<div style="background-color: white;">The prolific writer and editor Harun Aminurrashid was instrumental in the publication of <i>Pusaka Datuk Moyang</i>. <i>  Courtesy of Dewan Bahasa dan Pustaka.</i></div>
+
+
 #### **Majalah Comics Melayu**
 
 Over in Johor Bahru, publisher and printer Sabirin Haji Mohd. Annie initiated the series _Majalah Comics Melayu_ (_Malay Comics Magazine_) in 1952 to compete with Nilam. The series, comprising 11 comic books, was published by Zawiyah Publishing House and printed by his company, Annies Printing Works. Seven out of the 11 books were drawn by Razak Ahmad.
