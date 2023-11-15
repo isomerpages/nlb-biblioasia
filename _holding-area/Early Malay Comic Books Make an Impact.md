@@ -25,7 +25,7 @@ Not to be outdone, _Utusan Melayu_, another Jawi daily, also started a weekly su
 ![](/images/Vol%2019%20Issue%204/Malay%20Comic/AliSanat.jpg)
 <div style="background-color: white;">Ali Sanat’s cartoons appeared in _Utusan Zaman_ and the entertainment magazine, <i>Asmara</i>. <i>Collection of Haji Ali Sanat Family.</i></div>
 
-![](/images/Vol%2019%20Issue%204/Malay%20Comic/WakKetok.jpg)
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/WakKetok2.jpg)
 <div style="background-color: white;">Wak Ketok by Ali Sanat is a satirical character known for his comical antics. <i>Collection of Haji Ali Sanat Family.</i></div>
 
 
