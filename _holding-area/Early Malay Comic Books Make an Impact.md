@@ -159,13 +159,13 @@ In the 1960s, the Malay comic book publishing trade began shifting its centre fr
 [^10]: Gallop, “Malay Comic Books from the 1950s and 1960s in the British Library.” 
 
 
-[^11]: Naz Achnas, Tungga dan Piring Terbang (Singapore: Malayan-Indonesian Book Store, 1953). (From National Library, Singapore); “Achnas, the Film-maker, Goes into Action,” Straits Times, 13 March 1955, 6. (From NewspaperSG)
+[^11]: Naz Achnas, [Tungga dan Piring Terbang](https://www.nlb.gov.sg/main/book-detail?cmsuuid=afec016d-8c75-433f-9b75-e24e04dea1d7) (Singapore: Malayan-Indonesian Book Store, 1953). (From National Library, Singapore); “[Achnas, the Film-maker, Goes into Action](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550313-1.2.43),” Straits Times, 13 March 1955, 6. (From NewspaperSG)
 
-[^12]: “Pengkritik2 Pasti Bidas Hebat 'Dosa Remaja',” Berita Harian, 20 May 1973, 11; “Bunga Mas Dijangka Jadi Filem Merdeka yg Terbaik Tahun Ini,” Berita Harian, 18 August 1973, 7. (From NewspaperSG)
+[^12]: “[Pengkritik2 Pasti Bidas Hebat 'Dosa Remaja'](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19730520-1.2.43.2),” Berita Harian, 20 May 1973, 11; “[Bunga Mas Dijangka Jadi Filem Merdeka yg Terbaik Tahun Ini](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19730818-1.2.49),” Berita Harian, 18 August 1973, 7. (From NewspaperSG)
 
 [^13]: Van Der Putten and Barnard, “Old Malay Heroes Never Die,” 804.
 
-[^14]: “Geliga Limited,” in Ensiklopedia Sejarah dan Kebudayaan Melayu (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 1 A-E. (From National Library, Singapore, call no. R 959.003 ENS)
+[^14]: “Geliga Limited,” in [Ensiklopedia Sejarah dan Kebudayaan Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?id=9532832) (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 1 A-E. (From National Library, Singapore, call no. R 959.003 ENS)
 
 [^15]: Ahad Husain, Husni Dengan Perompak (Singapore: Geliga Limited, 1956). (From PublicationSG)
 
