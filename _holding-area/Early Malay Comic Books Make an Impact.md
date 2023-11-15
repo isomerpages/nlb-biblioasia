@@ -63,8 +63,6 @@ One interesting work that emerged during those early years was _Tungga dan Pirin
 
 <div style="background-color: white;"><i>Tungga dan Piring Terbang</i> (<i>Tungga and the Flying Saucer</i>) is regarded as one of the earliest Malay science fiction comic books published in Singapore. <i>Image reproduced from Naz Achnas, Tungga dan Piring Terbang (Singapore: Malayan-Indonesian Book Store, 1953). (From National Library Online).</i></div>
 
-_Tungga dan Piring Terbang_ (_Tungga and the Flying Saucer_) is regarded as one of the earliest Malay science fiction comic books published in Singapore. _Image reproduced from Naz Achnas, Tungga dan Piring Terbang (Singapore: Malayan-Indonesian Book Store, 1953). (From National Library Online)._
-
 Tungga protects the crown prince, Lewangsa, after a revolt that results in the king’s death. While escaping, Tungga and Lewangsa encounter aliens who help them. Eventually, Tungga and Lewangsa manage to claim back the throne. Later, the aliens become disillusioned and disappointed by human greed and their penchant for fighting.
 
 However, Nas Achnas was more notable as a film-maker and his involvement in publishing received scant attention. The films he directed include _Pelangi_ (1951), _Dosa Remaja_ (1973) and _Bunga Mas_ (1973).[^12] After meeting Harun Aminurrashid sometime after the Japanese Occupation, Nas Achnas assisted Harun to establish _Kenchana_, a monthly news magazine published by MIBS, in 1947.
