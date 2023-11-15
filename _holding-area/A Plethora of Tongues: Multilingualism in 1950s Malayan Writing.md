@@ -44,6 +44,47 @@ Chinese writers were not alone in experimenting with the linguistic medium of th
 ![](/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/wgw_mu_1950.jpg)
 <div style="background-color: white;">Professor Wang Gungwu (pictured here in 1950) is the author of <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/pulse-malayan-literature-wang-gung-wu/"><i>Pulse</i></a>&nbsp;and a much-lauded scholar today. <i>Courtesy of Professor Wang Gungwu.</i></div>
 
+The initiative championed by Wang and his contemporaries, dubbed EngMalChin, was an ambitious attempt to create a new literary language based on English but specifically Malayan in constitution. A portmanteau that conflates “English”, “Malay” and “Chinese”, the term “alludes to the way in which the English of a poem made room for Malay and Chinese words and phrases”.[^10] Most exemplary of this linguistic style is Wang’s poem “Ahmad”,[^11] particularly its penultimate stanza featuring codeswitching into Malay:
+
+Thoughts of Camford fading,<br>
+Contentment creeping in.<br>
+Allah has been kind;<br>
+Orang puteh has been kind.<br>
+Only yesterday his brother said,<br>
+Can get lagi satu wife lah!<br>
+
+Insofar as the teaching and learning of English poetry in British Malaya very much subscribed to canonical classics à la T.S. Eliot and the like, the use of “Allah” (god in Islam), “Orang puteh” (white men) and “Can get lagi satu wife lah!” (Can get another wife lah!) would have been highly unusual for Wang’s readers. And therein lay the motivation for EngMalChin, specifically designed to invoke “plural imaginings of Malaya”.[^12]
+
+In a 1958 essay reflecting the ethos of EngMalChin, Wang reminisced that he and other student poets were “self-consciously Malayan” and were invested in the distinctiveness of English as it was used in Malaya: “What floored us was the illegitimate mixing of various languages; our stock example of this was ‘Itu stamp ta’ ada gum ta’ boleh stick-lah’ \[meaning “the stamp has no glue so it can’t stick”\]. What can we make of that? We could not even decide whether that was Malay with a few English words or English with a Malay syntax”.[^13]
+
+EngMalChin therefore thrived on an ambivalence that ensued from the fusion of different tongues. It branded itself as a linguistic signature that distinguished Malayan English from British English. In a 1950 article published in the journal _Young Malayans_, Beda Lim, a contemporary of Wang’s, described Malayan English as a “champurised language”; “champurised” taking reference from the Malay word _champur,_ meaning “to mix”, creatively inflected into a past perfect form as if it were an English word.
+
+In making a case for Malayan English as a “solution for Malaya”, Lim asserts that “Champurisation should not be frowned upon but rather should be regarded as a healthy development”, because “\[a\]lthough we \[Malayans\] use English words, the way we juxtapose them must necessarily be different from the way the English people do it”.[^14] Although the term EngMalChin did not appear in Lim’s article, the word _champur_ in its various forms (“champurised”, “champurisation”) embodied the multilingual ethos of EngMalChin.
+
+Although EngMalChin manifested itself primarily in poetry, it was not a purely aesthetic project; its sociopolitical agenda was clear from the outset. As Wang recalled: “We persisted, however, not so much for the art of poetry as for the ideal of the new Malayan consciousness. The emphasis in our search for ‘Malayan poetry’ was in the word, ‘Malayan’.”[^15] &nbsp;
+
+Before the close of the decade, however, it was clear that EngMalChin was a floundered mission. In his 1958 essay, Wang conceded that there was an inherent paradox of seeking a Malayan identity through an English-language matrix: “the most serious error was . . . the contradiction between our search for Malayan poetry and our decision to base that search on the English verse forms”.[^16] In addition, EngMalChin was very much a theoretical concept without a substantial empirical base. There were too few players in the game to render it meaningful.
+
+In _The New Cauldron_, a popular literary magazine in the 1950s edited by students from the University of Malaya, there is very scant evidence of EngMalChin, apart from a few of Wang’s own poems. The dearth of examples of “champurisation” in Malayan English poetry demonstrates that as a campaign, EngMalChin remained aspirational and never really took off in practice. Nevertheless, as a literary-linguistic ideal, it broke ground by engendering the possibility of a distinctive multilingual voice — or multivocality — for Malayan writing.
+
+![](/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/thenewcauldron.jpg)
+<div style="background-color: white;"><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551118"><i>The New Cauldron</i></a>&nbsp;was a literary journal edited by students at the University of Malaya. <i>Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC)</i></div>
+
+  
+
+* * *
+
+
+
+
+
+
+
+
+  
+
+
+
 
 
 
@@ -112,4 +153,18 @@ Chinese writers were not alone in experimenting with the linguistic medium of th
 [^8]: Miao Xiu 苗秀, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13985821) \[Singapore rooftops\] (\[Xinjiapo\] \[新加坡\]: Nan yang yin shua she 南洋印刷社, 1951), 6. (Emphasis added). (From National Library, Singapore, call no. Chinese C813.4 MX)
 
 [^9]: Li Wen 李文_,_ “Guanyu fangyan wenxue,” [關於方言文學](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19540707-1.2.35.2.1) \[About dialect literature\], _南洋商报 Nanyang Siang Pau,_ 7 July 1954, 8. (From NewspaperSG)
+
+[^10]: Rajeev S. Patke and Philip Holden, [_The Routledge Concise History of Southeast Asian Writing in English_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147) (London: Routledge, 2010), 51 (From National Library, Singapore, call no. RSING 895.9 PAT)
+
+[^11]: Wang Gungwu, “Ahmad”, _Pulau Ujong_, accessed 27 October 2023, [https://www.pulauujong.org/8-2/ahmad/](https://www.pulauujong.org/8-2/ahmad/). Originally published in Wang Gungwu, [_Pulse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030873) (Singapore: B. Lim, 1950). (From National Library, Singapore, call no. RSING 828.99595 WAN)
+
+[^12]: Brandon K Liew, “Engmalchin and the Plural Imaginings of Malaysia; or, the ‘Arty-Crafty Dodgers of Reality’,” _Exclamat!on: An Interdisciplinary Journal_ 2 (2018): 65, ResearchGate,   https://www.researchgate.net/publication/331273048\_Engmalchin\_and\_the\_Plural\_Imaginings\_of\_Malaysia\_or\_the\_'Arty-Crafty\_Dodgers\_of\_Reality'.
+
+[^13]: Wang Gungwu, “Trial and Error in Malayan Poetry,” _The Malayan Undergrad_ 9, no. 5 (1958): 6. (From National Library, Singapore, PublicationSG)
+
+[^14]: Beda Lim, “Malayan English: A ‘Champurised’ Language!” _Young Malayans_ 6, no. 91 (5 July 1950): 202.
+
+[^15]: Wang, “Trial and Error in Malayan Poetry,” 6.
+
+[^16]: Wang, “Trial and Error in Malayan Poetry,” 6. 
 
