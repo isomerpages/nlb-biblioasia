@@ -140,11 +140,11 @@ In the 1960s, the Malay comic book publishing trade began shifting its centre fr
 
 [^2]: Muliyadi Mahamood, [The History of Malay Editorial Cartoons (1930s–1993)](https://eservice.nlb.gov.sg/item_holding.aspx?id=12241533) (Malaysia: Utusan Publication &amp; Dist., 2004), 17–20. (From National Library, Singapore, call no. RART 741.59595 MUL)
 
-[^3]: “Haji Ali – Kartunis Yang Hangat di Zaman Silam,” Berita Harian, 1 October 1985, 3. (From NewspaperSG) 
+[^3]: “[Haji Ali – Kartunis Yang Hangat di Zaman Silam](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19851001-1.2.24.1),” Berita Harian, 1 October 1985, 3. (From NewspaperSG) 
 
-[^4]: “Wak Ketok Perintis Kartun Melayu,” Berita Harian, 7 February 2015, 20. (From NewspaperSG)
+[^4]: “[Wak Ketok Perintis Kartun Melayu](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian20150207-1.2.25.3),” Berita Harian, 7 February 2015, 20. (From NewspaperSG)
 
-[^5]: Jan Van Der Putten and Timothy P. Barnard, “Old Malay Heroes Never Die,” in Ian Gordon and Mark Jancovich, Film and Comic Books (Jackson: University Press of Mississippi, 2012), 668–69. (From NLB OverDrive); Nasjah Djamin, Hang Tuah (Untuk Anak-Anak) (Djakarta: Balai Pustaka, 1951). (From National Library, Singapore, call no. RCLOS 398.209595 NAS-[ACL])
+[^5]: Jan Van Der Putten and Timothy P. Barnard, “Old Malay Heroes Never Die,” in Ian Gordon and Mark Jancovich, [Film and Comic Books](https://nlb.overdrive.com/media/720549) (Jackson: University Press of Mississippi, 2012), 668–69. (From NLB OverDrive); Nasjah Djamin, [Hang Tuah (Untuk Anak-Anak)](https://eservice.nlb.gov.sg/item_holding.aspx?id=12575630) (Djakarta: Balai Pustaka, 1951). (From National Library, Singapore, call no. RCLOS 398.209595 NAS-[ACL])
 
 
 [^6]: “Balai Pustaka,” in Ensiklopedia Sejarah dan Kebudayaan Melayu (Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan, Malaysia, 1999), jil. 1 A-E. (From National Library, Singapore, call no. R 959.003 ENS); Van Der Putten and Barnard, “Old Malay Heroes Never Die,” 668–69.
