@@ -24,7 +24,7 @@ One of the first Malay comics to appear came out in _Warta Jenaka_, which was la
 Not to be outdone, _Utusan Melayu_, another Jawi daily, also started a weekly supplement. _Utusan Zaman_ was launched in November 1939 and the paper’s cartoonist was Ali Sanat. One of his popular creations was Wak Ketok – a satirical character known for his comical antics. The character was used to encourage unity in the Malay community and to improve their way of life.[^3]
 
 ![](/images/Vol%2019%20Issue%204/Malay%20Comic/AliSanat.jpg)
-<div style="background-color: white;">Ali Sanat’s cartoons appeared in _Utusan Zaman_ and the entertainment magazine, <i>Asmara</i>. <i>Collection of Haji Ali Sanat Family.</i></div>
+<div style="background-color: white;">Ali Sanat’s cartoons appeared in <i>Utusan Zaman</i> and the entertainment magazine, <i>Asmara</i>. <i>Collection of Haji Ali Sanat Family.</i></div>
 
 ![](/images/Vol%2019%20Issue%204/Malay%20Comic/WakKetok2.jpg)
 <div style="background-color: white;">Wak Ketok by Ali Sanat is a satirical character known for his comical antics. <i>Collection of Haji Ali Sanat Family.</i></div>
