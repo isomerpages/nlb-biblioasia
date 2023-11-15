@@ -82,9 +82,14 @@ Nas Achnas created a comic series, _Tunggadewa,_ that was featured in _Kenchana_
 
 #### **Geliga Press**
 
-Another publishing company in Singapore that waded into the business of publishing Malay comic books was Geliga Press established by Syed Omar Abdul Rahman Alsagoff in 1954. Beside publishing novels for adults and storybooks for children, it also produced magazines such as _Remaja_, _Asmara_ and _Suara Merdeka_ that were popular with the Malay community.[^14]&nbsp;
+Another publishing company in Singapore that waded into the business of publishing Malay comic books was Geliga Press established by Syed Omar Abdul Rahman Alsagoff in 1954. Beside publishing novels for adults and storybooks for children, it also produced magazines such as _Remaja_, _Asmara_ and _Suara Merdeka_ that were popular with the Malay community.[^14]
 
-In 1956, Geliga decided to publish its first comic book – _Husni Dengan Perompak_ (_Husni and the Robbers_).[^15] It then went on to produce other comic books, collaborating with artists and writers such as Raja Hamzah, K. Bali and Nora Abdullah.&nbsp;
+In 1956, Geliga decided to publish its first comic book – _Husni Dengan Perompak_ (_Husni and the Robbers_).[^15] It then went on to produce other comic books, collaborating with artists and writers such as Raja Hamzah, K. Bali and Nora Abdullah.
+
+
+<div style="background-color: white;"><i>Husni Dengan Perompak</i> (<i>Husni and the Robbers</i>) is the first Malay comic book published by Geliga Press. <i>Image reproduced from Ahad Husain, Husni Dengan Perompak (Singapore: Geliga Limited, 1956). (From PublicationSG).</i></div>
+
+
 
 Raja Hamzah was a prolific comic artist in Malay newspapers. Lat credited Raja Hamzah as an inspiration and influence. Raja Hamzah’s series of cartoons and comics appeared in _Utusan Melayu_ and, later, _Berita Harian. Dol Keropok, Wak Tempeh_ and _Keluarga Mat Jambol_ were the early cartoon series that made him popular. His works continued to be published in _Berita Harian_ and _Berita Minggu_ until his death in 1981.[^16]
 
