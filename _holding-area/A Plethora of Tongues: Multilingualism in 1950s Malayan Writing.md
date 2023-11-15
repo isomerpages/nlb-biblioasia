@@ -15,22 +15,101 @@ The 1950s were a decade of flux for Malaya. In the aftermath of the Japanese Occ
 <b>Uniqueness of Malayan Chinese Literature</b><br>
 Since the early 1950s, Chinese fiction writers in Malaya became more experimental with their language medium, which was a standard written Chinese, based on the Mandarin vernacular, or _bai hua_, hailing from the 1919 May Fourth Movement in China. The backdrop to such experimentation was a polemic, sometimes dubbed the Great Debate, that occurred between December 1947 and April 1948. This took the form of a “paper war” across the literary supplements of several major Chinese newspapers of the time, such as _Sin Chew Jit Poh_, _Nan Chiau Jit Pao_, and _Min Sheng Pau_.
 
-There were two camps, the Malayan-Chinese Literature School and the Overseas-Chinese Literature School,[^1] that expressed opposing stances around the contentious idea of the “uniqueness of Malayan Chinese literature”. The first group believed that the Chinese literature of Malaya should be distinct from China’s, as each had developed under very different sociopolitical circumstances. The latter group, comprising the so-called “immigrant writers” (writers from China who sojourned in Malaya), sometimes derogatorily called “refugee writers”, insisted that Malayan Chinese literature was but a diasporic offshoot of Chinese literature from China and not fundamentally “unique”.[\[2\]](#_ftn2)
+There were two camps, the Malayan-Chinese Literature School and the Overseas-Chinese Literature School,[^1] that expressed opposing stances around the contentious idea of the “uniqueness of Malayan Chinese literature”. The first group believed that the Chinese literature of Malaya should be distinct from China’s, as each had developed under very different sociopolitical circumstances. The latter group, comprising the so-called “immigrant writers” (writers from China who sojourned in Malaya), sometimes derogatorily called “refugee writers”, insisted that Malayan Chinese literature was but a diasporic offshoot of Chinese literature from China and not fundamentally “unique”.[^2]
 
-Twenty-five articles were exchanged in this debate, including a number by a minority of contributors who sat on the fence. While there was no clear winner of the debate, advocates of the “uniqueness of Malayan Chinese literature” eventually prevailed as a result of a historical contingency. After the British declared a state of emergency in Malaya in June 1948, the immigrant writers either voluntarily returned or were repatriated to China.[\[3\]](#_ftn3) Strict controls over imported reading material from China were imposed under the Emergency Regulations Ordinance (1948), comprising the Emergency (Publications—Import Control) Regulations and Emergency (Publications—Control of Sale and Circulation) Regulations.[\[4\]](#_ftn4) This further created a vacuum in Chinese-language literature,[\[5\]](#_ftn5) compelling Malayan Chinese writers to “seek their genius in themselves”[\[6\]](#_ftn6) and create works that spoke to locale-specific cultures and sensibilities.
+Twenty-five articles were exchanged in this debate, including a number by a minority of contributors who sat on the fence. While there was no clear winner of the debate, advocates of the “uniqueness of Malayan Chinese literature” eventually prevailed as a result of a historical contingency. After the British declared a state of emergency in Malaya in June 1948, the immigrant writers either voluntarily returned or were repatriated to China.[^3] Strict controls over imported reading material from China were imposed under the Emergency Regulations Ordinance (1948), comprising the Emergency (Publications—Import Control) Regulations and Emergency (Publications—Control of Sale and Circulation) Regulations.[^4] This further created a vacuum in Chinese-language literature,[^5] compelling Malayan Chinese writers to “seek their genius in themselves”[^6] and create works that spoke to locale-specific cultures and sensibilities.
+
+<b>Dialects and Malay in Chinese Fiction</b><br>
+It is within this context that an interesting linguistic phenomenon emerged among a new generation of Malayan Chinese writers in the 1950s. This was namely the representation of Chinese dialects, and, to a lesser extent, colloquial Malay (also known as Bazaar Malay) in fictional works composed in standard written Chinese. Miao Xiu (1920–1980) was one of the most prolific writers in this period who used this technique. Born in Singapore, Miao Xiu contributed an article to the _Sin Chew Jit Poh_ on 28 February 1948 under the pseudonym Wen Renjun, where he clearly expressed his support for the Malayan-Chinese Literature School.[^7] Hence, his writing unsurprisingly features Chinese dialects and colloquial expressions (including vulgarities) as the use of place-based language is one of the principal means through which the locale-specificity of Malayan Chinese literature can be manifested.
+
+![](/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/pg270_Aug11005_crop.jpg)
+<div style="background-color: white;">In this article by Miao Xiu, he explores Anglophone and Sinophone literary writing in 1950s Malaya, with a focus on how the phenomenon of language mixing arose in response to the socio-political exigencies of the period. It reveals the inextricable relationship between language, literature&nbsp;and society. <i>Reproduced from《論僑民意識與馬華獨特性》, 《星洲日報》[Xing Zhou Re Bao]，28 February 1948. Microfilm no. A01597333I. (From National Library, Singapore)</i></div>
+
+The majority of dialect segments in Chinese fiction from this period appears in dialogues, in apparent mimicry of the parole of locals, although they were occasionally found in the main narrative. Cantonese was frequently used, likely because it was among the most widely spoken dialects among the ethnic Chinese in Malaya. Miao Xiu’s family, for instance, hailed from Guangdong (Canton) and was almost certainly conversant in Cantonese. Cantonese is also more readily representable in writing as compared to, say, Hokkien, as it has its own unique set of characters used alongside standard characters. Cantonese words were often peppered throughout the text, although it was not uncommon for entire stretches of dialogue to be in Cantonese, particularly for characters from the working class (characters who were intellectuals generally did not converse in Chinese dialects). Apart from Cantonese, Hokkien and colloquial Malay words also popped up, contributing to the rich linguistic texture of the literary language.
+
+To take an example from Miao Xiu’s well-known novella _Under Singapore’s Roof_ (1951), consider these lines about Sai Sai, a character who reluctantly pays protection money – haggled down from five to three dollars – to a lackey of the 707 triad in exchange for protection from other gangs: “這鬼是「**七****0****七**」的「**草鞋**」（私會黨的總務），每逢禮拜晚就來黑巷向她賽賽討「**包爺費**」，為了免得別的私會黨的三星**臭卡**「**卡周**」（馬來語：欺凌），她賽賽不得不忍痛付給這鬼一筆保護費；可是這**臭卡**一開口就是**一巴掌**（**五扣**錢），講到口乾才減到**三扣**。”[^8]
+
+Here we see a succession of terms (in bold) that would surely baffle the non-local Chinese reader—and, for that matter, even a contemporary Chinese reader today. These include the name of a triad (**七****0****七**, or “707”), the informal term for someone who runs errands for triads (**草鞋****,** literally, “straw sandal”), the slang for “protection money” (**包爺費****,** literally, “fee for reserving the master”), the Malay term for “bully” (**卡周** or _kacau_), the colloquial word for “five dollars” (**一巴掌****,** literally “one slap”), and the term **扣**in Hokkien/Teochew for counting cash dollars.
+
+![](/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/2008_01220.jpg)
+<div style="background-color: white;">Cover of Xinjiapo Wuding Xia (Under Singapore’s Roof) by Miao Xiu (1951 <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
+On occasion, Cantonese and Hokkien were mixed within a single utterance. Miao’s book also features scenes where characters use different dialects in alternation, for example, when one person speaks in Cantonese and the other responds in Hokkien. This technique of code-switching creates a complex weave of different voices on the page, even though it also leads to a contrived linguistic style peculiar to the written form.<br>
+Annotations were often provided for terms transliterated from Chinese dialects or colloquial Malay (for instance 卡周 (ka zhou) refers to kacau in the example above). This suggests that fiction writers like Miao Xiu did not assume their readers would understand the non-Mandarin terms without assistance. For although Chinese dialects and colloquial Malay were commonplace on the streets during the 1950s, their representation in writing was, and still is, a marked practice. Indeed, there is some evidence to indicate that some readers of the day might have been alienated by the generous sprinkling of Chinese dialect words, particularly Cantonese.<br> 
+In a forum article published in Nanyang Siang Pau on 7 July 1954, one reader expressed frustration with a story written “entirely in Cantonese” published in the paper. The reader complained that Hokkien speakers like himself were unable to understand the story and maintained that literary authors should write mostly in standard Chinese.[^9] Hence, while the use of dialects (and colloquial Malay) in Chinese writing instantiated the “uniqueness of Malayan Chinese literature”, it was ultimately still experimental in nature.
+
+<b>EngMalChin andMalayan English Poetry</b><br>
+Chinese writers were not alone in experimenting with the linguistic medium of the literary arts. In the realm of Anglophone writing in Malaya, a similar development was taking place. Amid the rise of a Malayan consciousness, a group of young students at the University of Malaya came up with the novel idea of amalgamating the various languages spoken in the region to create a synthetic medium for English-language poetry. Most prominent among these young advocates was Wang Gungwu, who would later become one of the most influential historians of the Chinese diaspora.
+
+![](/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/wgw_mu_1950.jpg)
+<div style="background-color: white;">Professor Wang Gungwu (pictured here in 1950) is the author of <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/pulse-malayan-literature-wang-gung-wu/"><i>Pulse</i></a>&nbsp;and a much-lauded scholar today. <i>Courtesy of Professor Wang Gungwu.</i></div>
+
+
+
+
+
 
   
 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+	
+	
+	
+	
+	
+	
+	
+	
+
 * * *
 
-[\[1\]](#_ftnref1) Han Suyin, “An Outline of Malayan-Chinese Literature,” [_Eastern Horizon_](https://eservice.nlb.gov.sg/item_holding.aspx?id=4125524) 3, no. 6 (June 1964): 10. (From National Library, Singapore, call no. RCLOS 950.05 EHMR)
+[^1]: Han Suyin, “An Outline of Malayan-Chinese Literature,” [_Eastern Horizon_](https://eservice.nlb.gov.sg/item_holding.aspx?id=4125524) 3, no. 6 (June 1964): 10. (From National Library, Singapore, call no. RCLOS 950.05 EHMR)
 
-[\[2\]](#_ftnref2) Tang Eng Teik, “Uniqueness of Malayan Chinese Literature: Literary Polemic in the Forties,” _Asian Culture_ 12 (December 1988): 102–115. (From PublicationSG)
+[^2]: Tang Eng Teik, “Uniqueness of Malayan Chinese Literature: Literary Polemic in the Forties,” _Asian Culture_ 12 (December 1988): 102–115. (From PublicationSG)
 
-[\[3\]](#_ftnref3) Low Choo Chin, “The Repatriation of the Chinese as a Counter-Insurgency Policy During the Malayan Emergency,” _Journal of Southeast Asian Studies_ 45, no. 3 (October 2014): 363–92. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^3]: Low Choo Chin, “The Repatriation of the Chinese as a Counter-Insurgency Policy During the Malayan Emergency,” _Journal of Southeast Asian Studies_ 45, no. 3 (October 2014): 363–92. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-[\[4\]](#_ftnref4) [_Regulations Made Under the Emergency Regulations Ordinance_, 1948](https://eservice.nlb.gov.sg/item_holding.aspx?id=4315789) (F. of M. Ord. No. 10 of 1948) incorporating all amendments made up to the 31st March, 1953 (From National Library, Singapore, call no. RCLOS 348.595 MAL)
+[^4]: [_Regulations Made Under the Emergency Regulations Ordinance_, 1948](https://eservice.nlb.gov.sg/item_holding.aspx?id=4315789) (F. of M. Ord. No. 10 of 1948) incorporating all amendments made up to the 31st March, 1953 (From National Library, Singapore, call no. RCLOS 348.595 MAL)
 
-[\[5\]](#_ftnref5) Jeremey E. Taylor, “‘Not a Particularly Happy Expression’: ‘Malayanization’ and the China Threat in Britain’s Late-Colonial Southeast Asian Territories,” _The_ _Journal of Asian Studies_ 78, no. 4 (November 2019): 792, ResearchGate, https://www.researchgate.net/publication/335504060\_Not\_a\_Particularly\_Happy\_Expression\_Malayanization\_and\_the\_China\_Threat\_in\_Britain's\_Late-Colonial\_Southeast\_Asian\_Territories.
+[^5]: Jeremey E. Taylor, “‘Not a Particularly Happy Expression’: ‘Malayanization’ and the China Threat in Britain’s Late-Colonial Southeast Asian Territories,” _The_ _Journal of Asian Studies_ 78, no. 4 (November 2019): 792, ResearchGate, https://www.researchgate.net/publication/335504060_Not_a_Particularly_Happy_Expression_Malayanization_and_the_China_Threat_in_Britain's_Late-Colonial_Southeast_Asian_Territories.
 
-[\[6\]](#_ftnref6) Wang Gungwu, “A Short Introduction to Chinese Writing in Malaya,” in [_Bunga Emas: An Anthology of Contemporary Malaysian Literature (1930–1963)_](https://eservice.nlb.gov.sg/item_holding.aspx?id=4092184), ed. T. Wignesan (Malaysia: Rayirath Publications, 1964), 252. (From National Library, Singapore, call no. RCLOS 828.99595 BUN)
+[^6]: Wang Gungwu, “A Short Introduction to Chinese Writing in Malaya,” in [_Bunga Emas: An Anthology of Contemporary Malaysian Literature (1930–1963)_](https://eservice.nlb.gov.sg/item_holding.aspx?id=4092184), ed. T. Wignesan (Malaysia: Rayirath Publications, 1964), 252. (From National Library, Singapore, call no. RCLOS 828.99595 BUN)
+
+[^7]: Wen Renjun (Miao Xiu), “On Overseas Chinese Consciousness and the Uniqueness of Malayan Chinese,” _Sin Chew Jit Poh_, 28 February 1948. (Microfilm A01597329C)
+
+[^8]: Miao Xiu 苗秀, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13985821) \[Singapore rooftops\] (\[Xinjiapo\] \[新加坡\]: Nan yang yin shua she 南洋印刷社, 1951), 6. (Emphasis added). (From National Library, Singapore, call no. Chinese C813.4 MX)
+
+[^9]: Li Wen 李文_,_ “Guanyu fangyan wenxue,” [關於方言文學](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19540707-1.2.35.2.1) \[About dialect literature\], _南洋商报 Nanyang Siang Pau,_ 7 July 1954, 8. (From NewspaperSG)
+
