@@ -73,6 +73,9 @@ One interesting work that emerged during those early years was _Tungga dan Pirin
 
 Tungga protects the crown prince, Lewangsa, after a revolt that results in the king’s death. While escaping, Tungga and Lewangsa encounter aliens who help them. Eventually, Tungga and Lewangsa manage to claim back the throne. Later, the aliens become disillusioned and disappointed by human greed and their penchant for fighting.
 
+<div style="background-color: white;">An inside page of<i>Tungga dan Piring Terbang</i>. <i>Image reproduced from Naz Achnas, Tungga dan Piring Terbang (Singapore: Malayan-Indonesian Book Store, 1953). (From National Library Online).</i></div>
+
+
 However, Nas Achnas was more notable as a film-maker and his involvement in publishing received scant attention. The films he directed include _Pelangi_ (1951), _Dosa Remaja_ (1973) and _Bunga Mas_ (1973).[^12] After meeting Harun Aminurrashid sometime after the Japanese Occupation, Nas Achnas assisted Harun to establish _Kenchana_, a monthly news magazine published by MIBS, in 1947.
 
 Nas Achnas created a comic series, _Tunggadewa,_ that was featured in _Kenchana_. It is believed that this comic series was subsequently compiled and republished as a graphic novel although no copy of the book has ever been found, unfortunately. The cartoons by Nas Achnas, which were often a social commentary on Indonesian politics, were also featured in the entertainment magazine _Hiburan_.[^13]
