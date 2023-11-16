@@ -17,6 +17,18 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/Whale Skeleton/hero_img_whale.jpg
   - infopic:
+      title: "A Plethora of Tongues: Multilingualism in Malayan Writing"
+      subtitle: Culture
+      id: infopic
+      description: From the melting pot of cultures and language in postwar Singapore
+        came the search for a Malayan identity, negotiated and presented through
+        multilingualism.
+      button: Multilingualism in Malayan Writing
+      url: /culture/2023/11/multilingual-languages-malayan-writing-sg/
+      image: /images/Online Only Articles/A Plethora of
+        Tongues/20100000306_IMG0038.jpg
+      alt: Multilingualism
+  - infopic:
       title: "Chia Boon Leong: The Twinkle-Toed Olympian"
       subtitle: Sports
       id: infopic
