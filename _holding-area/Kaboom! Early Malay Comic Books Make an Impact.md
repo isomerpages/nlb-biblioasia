@@ -9,6 +9,10 @@ image: /images/Vol 19 Issue 4/Malay Comic/HelangHitam.jpg
 
 By Mazelan Anuar
 
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/2covers.jpg)
+<div style="background-color: white;"><i>Tungga dan Piring Terbang</i> (1953) and <i>Helang Hitam</i> (1956).
+
+
 When most people think about Malay comic books or comic book artists, the Malaysian artist Lat comes to mind. His distinctive drawings, which capture humorous slices of kampong life and life in the big city, have been tickling funny bones for several decades now.
 
 Lat got his big break as an editorial cartoonist in Malaysia’s _New Straits Times_ in the mid-1970s. In this way, he is part of a long tradition of Malay cartoonists who got their start in the local papers. In Singapore, some of the earliest editorial cartoons appeared in the 1930s in newspapers such as _Warta Jenaka_ and _Utusan Zaman_.&nbsp;
@@ -186,4 +190,4 @@ In the 1960s, the Malay comic book publishing trade began shifting its centre fr
 [^22]: “[Kelumpohan Peluksis2 Komik Melayu](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19620316-1.2.28),” _Berita Harian_, 16 March 1962, 4. (From NewspaperSG)
 
 
-[^23]: Nora Abdullah, [_Armina_](https://eservice.nlb.gov.sg/item_holding.aspx?id=200025929) (Singapura: Geliga, 1961). (From PublicationSG)
+[^23]: Nora Abdullah, [_Armina_](https://eservice.nlb.gov.sg/item_holding.aspx?id=200025929) (Singapura: Geliga, 1961). (From PublicationSG)</div>
