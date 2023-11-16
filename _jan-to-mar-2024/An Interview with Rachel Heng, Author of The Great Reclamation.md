@@ -37,10 +37,10 @@ In your long research process, is there anything that surprised you about Singap
 I don’t know that it’s anything that surprised me so much as there were many striking details. One detail that made it into the book was the conveyor belt. During the early phases of the land reclamation project, a conveyor belt moved the sand dug out to the coasts. Someone asked me if writing historical fiction is a big leap from speculative fiction. Not really, because the history is almost science fictional – the way in which the transformation was so audacious and involved technology to that extent – at that time. When you look at the photos, it looks like something out of <i>[Blade Runner]</i> or something. It’s really fascinating.
 
 <img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/bedok%20reclamation%20site.jpg" style="width:80%">
-<div style="background-color: white;text-align:center">Land digging at the Bedok reclamation site, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div><br>
+<div style="background-color: white;">Land digging at the Bedok reclamation site, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div><br>
 
 <img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/conveyor%20belt.jpg" style="background-color: white;width:55%">
-<div style="background-color: white;text-align:center">A conveyor belt moving earth from Bedok to the sea, 1960s. <i>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">A conveyor belt moving earth from Bedok to the sea, 1960s. <i>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore.</i></div>
 
 **Gek Han**  
 One of the many things I appreciate about your book is that you showed the nuances of moving into Housing and Development Board (HDB) apartments. It’s not black and  white – some characters like it; some don’t. In your research, do you get a sense that it was a generational divide?
@@ -56,7 +56,7 @@ As much as we like to believe we are fully objective human beings capable of com
 [Listen to the full BiblioAsia+ episode](https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/).</i>
 
 
-<div style="background-color: #fff6ba;text-align:center; font-size:120%">
+<div style="background-color: #fff6ba; font-size:120%">
 	<br>
 <b>ABOUT THE BOOK</b>
 <br><br>
