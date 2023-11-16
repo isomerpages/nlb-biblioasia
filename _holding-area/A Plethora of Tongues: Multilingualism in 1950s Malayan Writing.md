@@ -9,7 +9,8 @@ By Lee Tong King
 
 The 1950s were a decade of flux for Malaya. In the aftermath of the Japanese Occupation and prior to political independence from colonial rule, Malaya, including Singapore, was embroiled in the rise of anti-colonial sentiment and British suppression of communist insurgencies, culminating in the Emergency Act of 1948. While these intervening years were rife with ideological struggle and armed conflict, they also incubated the beginnings of distinctive Malayan literature – for instance seen though the incorporation of local vernacular into written works – thereby opening the doors to a vibrant tradition of creative writing in the region.
 
-![](/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/20100000306_IMG0038.jpg)
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/20100000306_IMG0038.jpg" style="width: 85%;">
+
 <div style="background-color: white;">Junction of North Bridge Road and Hock Lam Street (c.1950s). Various ethnicities and languages could be seen and heard in such streets in Singapore. <i>George Tricker Collection</i>, <i>courtesy of National Archives of Singapore.</i></div>
 
 <b>Uniqueness of Malayan Chinese Literature</b><br>
@@ -22,7 +23,8 @@ Twenty-five articles were exchanged in this debate, including a number by a mino
 <b>Dialects and Malay in Chinese Fiction</b><br>
 It is within this context that an interesting linguistic phenomenon emerged among a new generation of Malayan Chinese writers in the 1950s. This was namely the representation of Chinese dialects, and, to a lesser extent, colloquial Malay (also known as Bazaar Malay) in fictional works composed in standard written Chinese. Miao Xiu (1920–1980) was one of the most prolific writers in this period who used this technique. Born in Singapore, Miao Xiu contributed an article to the _Sin Chew Jit Poh_ on 28 February 1948 under the pseudonym Wen Renjun, where he clearly expressed his support for the Malayan-Chinese Literature School.[^7] Hence, his writing unsurprisingly features Chinese dialects and colloquial expressions (including vulgarities) as the use of place-based language is one of the principal means through which the locale-specificity of Malayan Chinese literature can be manifested.
 
-![](/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/pg270_Aug11005_crop.jpg)
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/pg270_Aug11005_crop.jpg" style="width: 95%;">
+
 <div style="background-color: white;">In this article by Miao Xiu, he explores Anglophone and Sinophone literary writing in 1950s Malaya, with a focus on how the phenomenon of language mixing arose in response to the socio-political exigencies of the period. It reveals the inextricable relationship between language, literature&nbsp;and society. <i>Reproduced from《論僑民意識與馬華獨特性》, 《星洲日報》[Xing Zhou Re Bao]，28 February 1948. Microfilm no. A01597333I. (From National Library, Singapore)</i></div>
 
 The majority of dialect segments in Chinese fiction from this period appears in dialogues, in apparent mimicry of the parole of locals, although they were occasionally found in the main narrative. Cantonese was frequently used, likely because it was among the most widely spoken dialects among the ethnic Chinese in Malaya. Miao Xiu’s family, for instance, hailed from Guangdong (Canton) and was almost certainly conversant in Cantonese. Cantonese is also more readily representable in writing as compared to, say, Hokkien, as it has its own unique set of characters used alongside standard characters. Cantonese words were often peppered throughout the text, although it was not uncommon for entire stretches of dialogue to be in Cantonese, particularly for characters from the working class (characters who were intellectuals generally did not converse in Chinese dialects). Apart from Cantonese, Hokkien and colloquial Malay words also popped up, contributing to the rich linguistic texture of the literary language.
@@ -31,7 +33,8 @@ To take an example from Miao Xiu’s well-known novella _Under Singapore’s Roo
 
 Here we see a succession of terms (in bold) that would surely baffle the non-local Chinese reader—and, for that matter, even a contemporary Chinese reader today. These include the name of a triad (**七****0****七**, or “707”), the informal term for someone who runs errands for triads (**草鞋****,** literally, “straw sandal”), the slang for “protection money” (**包爺費****,** literally, “fee for reserving the master”), the Malay term for “bully” (**卡周** or _kacau_), the colloquial word for “five dollars” (**一巴掌****,** literally “one slap”), and the term **扣**in Hokkien/Teochew for counting cash dollars.
 
-![](/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/2008_01220.jpg)
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/2008_01220.jpg" style="width: 75%;">
+
 <div style="background-color: white;">Cover of Xinjiapo Wuding Xia (Under Singapore’s Roof) by Miao Xiu (1951 <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 On occasion, Cantonese and Hokkien were mixed within a single utterance. Miao’s book also features scenes where characters use different dialects in alternation, for example, when one person speaks in Cantonese and the other responds in Hokkien. This technique of code-switching creates a complex weave of different voices on the page, even though it also leads to a contrived linguistic style peculiar to the written form.<br>
@@ -41,7 +44,8 @@ In a forum article published in Nanyang Siang Pau on 7 July 1954, one reader exp
 <b>EngMalChin andMalayan English Poetry</b><br>
 Chinese writers were not alone in experimenting with the linguistic medium of the literary arts. In the realm of Anglophone writing in Malaya, a similar development was taking place. Amid the rise of a Malayan consciousness, a group of young students at the University of Malaya came up with the novel idea of amalgamating the various languages spoken in the region to create a synthetic medium for English-language poetry. Most prominent among these young advocates was Wang Gungwu, who would later become one of the most influential historians of the Chinese diaspora.
 
-![](/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/wgw_mu_1950.jpg)
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/wgw_mu_1950.jpg" style="width: 75%;">
+
 <div style="background-color: white;">Professor Wang Gungwu (pictured here in 1950) is the author of <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/pulse-malayan-literature-wang-gung-wu/"><i>Pulse</i></a>&nbsp;and a much-lauded scholar today. <i>Courtesy of Professor Wang Gungwu.</i></div>
 
 The initiative championed by Wang and his contemporaries, dubbed EngMalChin, was an ambitious attempt to create a new literary language based on English but specifically Malayan in constitution. A portmanteau that conflates “English”, “Malay” and “Chinese”, the term “alludes to the way in which the English of a poem made room for Malay and Chinese words and phrases”.[^10] Most exemplary of this linguistic style is Wang’s poem “Ahmad”,[^11] particularly its penultimate stanza featuring codeswitching into Malay:
@@ -67,7 +71,7 @@ Before the close of the decade, however, it was clear that EngMalChin was a flou
 
 In _The New Cauldron_, a popular literary magazine in the 1950s edited by students from the University of Malaya, there is very scant evidence of EngMalChin, apart from a few of Wang’s own poems. The dearth of examples of “champurisation” in Malayan English poetry demonstrates that as a campaign, EngMalChin remained aspirational and never really took off in practice. Nevertheless, as a literary-linguistic ideal, it broke ground by engendering the possibility of a distinctive multilingual voice — or multivocality — for Malayan writing.
 
-![](/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/thenewcauldron.jpg)
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/thenewcauldron.jpg" style="width: 75%;">
 <div style="background-color: white;"><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551118"><i>The New Cauldron</i></a>&nbsp;was a literary journal edited by students at the University of Malaya. <i>Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC)</i></div>
 
 <b>Multivocal Writing as an Expression of Linguistic Citizenship</b><br>
