@@ -65,7 +65,7 @@ It was critical for a talent competition to get its judging criteria right. Elev
 
 This fixation on adjudication could seem excessive at times. During the 1976 English Talentime final, the two emcees spent half of the 70-minutes programme tallying up the scores from individual judges in front of a live audience.[^23]
 
-#### **Video Killed the Radio Star**
+#### **I Want My MTV**
 The launch of television on 15 February 1963 in Singapore, and eventually a televised version of Talentime four years later, resulted in the show emphasising spectacle. Audiences in the age of television had more stringent expectations for singers – not only did their musical performances have to be up to mark, but their entire visual language had to impress – from costumes and movements, down to facial expressions.
 
 ![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo6.png)
