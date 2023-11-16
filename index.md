@@ -918,4 +918,16 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: "A Plethora of Tongues: Multilingualism in Malayan Writing"
+      subtitle: Culture
+      id: infopic
+      description: From the melting pot of cultures and language in postwar Singapore
+        came the search for a Malayan identity, negotiated and presented through
+        multilingualism.
+      button: Multilingualism in Malayan Writing
+      url: /culture/2023/11/multilingual-languages-malayan-writing-sg/
+      image: /images/Online Only Articles/A Plethora of
+        Tongues/20100000306_IMG0038.jpg
+      alt: Multilingualism
 ---
