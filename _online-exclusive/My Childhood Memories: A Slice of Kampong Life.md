@@ -30,7 +30,7 @@ As most of the villagers were fishermen, my great-grandfather also became one an
 Kampong Wak Hassan – with its mix of Malay, Chinese (mostly Teochew) and Indian villagers – was one of several coastal villages dotting Singapore's northern coastline. Interestingly, there was a Teluk Jawa fishing village in Johor known as “Ang village” established during the 19th century as most of the Chinese villagers came from the same province as grandfather and were fishermen as well.
 
 ![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/malay_attap_house.png)
-<div style="background-color: white;">A Malay attap house in Kampong Wak Hassan, 1986. <i>Courtesy of National Archives of Singapore.</i>
+<div style="background-color: white;">A Malay house in Kampong Wak Hassan, 1986. <i>Courtesy of National Archives of Singapore.</i>
 </div>
 
 In the village, we would wake up to the loud booming voice of a Chinese fisherman from Johor. He would arrive in a motorboat filled with his catch for the day and set up a temporary spot near my grandfather’s provision shop to sell fishes such as grouper and _kembong_ (Indian mackerel). In those days, it was easy for Johor fishermen and villagers in the kampong to meet and trade, but as they grew older and with Singapore's stricter maritime law enforcement, such interactions soon came to a halt.
