@@ -27,7 +27,7 @@ It is within this context that an interesting linguistic phenomenon emerged amon
 
   <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/pg270_Aug11005_crop.jpg" style="width: 95%;">
 
-<div style="background-color: white;">In this article by Miao Xiu, he explores Anglophone and Sinophone literary writing in 1950s Malaya, with a focus on how the phenomenon of language mixing arose in response to the socio-political exigencies of the period. It reveals the inextricable relationship between language, literature&nbsp;and society. <i>Reproduced from《論僑民意識與馬華獨特性》, 《星洲日報》[Xing Zhou Re Bao]，28 February 1948. Microfilm no. A01597333I. (From National Library, Singapore)</i></div>
+<div style="background-color: white;">In this article by Miao Xiu, he explores Anglophone and Sinophone literary writing in 1950s Malaya, with a focus on how the phenomenon of language mixing arose in response to the socio-political exigencies of the period. It reveals the inextricable relationship between language, literature&nbsp;and society. <i>Reproduced from《論僑民意識與馬華獨特性》, 《星洲日報》[Xing Zhou Re Bao]，28 February 1948. Microfilm no. A01597333I. (From National Library, Singapore).</i></div>
 
 The majority of dialect segments in Chinese fiction from this period appears in dialogues, in apparent mimicry of the parole of locals, although they were occasionally found in the main narrative. Cantonese was frequently used, likely because it was among the most widely spoken dialects among the ethnic Chinese in Malaya. Miao Xiu’s family, for instance, hailed from Guangdong (Canton) and was almost certainly conversant in Cantonese. Cantonese is also more readily representable in writing as compared to, say, Hokkien, as it has its own unique set of characters used alongside standard characters. Cantonese words were often peppered throughout the text, although it was not uncommon for entire stretches of dialogue to be in Cantonese, particularly for characters from the working class (characters who were intellectuals generally did not converse in Chinese dialects). Apart from Cantonese, Hokkien and colloquial Malay words also popped up, contributing to the rich linguistic texture of the literary language.
 
@@ -37,7 +37,7 @@ Here we see a succession of terms (in bold) that would surely baffle the non-loc
 
   <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/2008_01220.jpg" style="width: 75%;">
 
-<div style="background-color: white;">Cover of Xinjiapo Wuding Xia (Under Singapore’s Roof) by Miao Xiu (1951 <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;">Cover of 《新加坡屋顶下》[Xinjiapo Wuding Xia] (Under Singapore’s Roof) by Miao Xiu (1951. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 On occasion, Cantonese and Hokkien were mixed within a single utterance. Miao’s book also features scenes where characters use different dialects in alternation, for example, when one person speaks in Cantonese and the other responds in Hokkien. This technique of code-switching creates a complex weave of different voices on the page, even though it also leads to a contrived linguistic style peculiar to the written form.<br>
 
