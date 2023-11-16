@@ -123,8 +123,8 @@ Geliga’s first female cartoonist was Nora Abdullah, whose real name was Che No
 Geliga also published the popular _Geliga Komik Series_ (_Geliga’s Comic Series_) comprising more than 300 comic books. The second book in the series is titled _Helang Hitam_, published in 1956. Helang Hitam – meaning “Black Eagle” – is the alter ego of Harun and a cross between Robin, Batman’s sidekick, and the legendary outlaw Robin Hood. The villain in the story is Keris Mas, who robs a bank with his gang and escapes to a hideout on a deserted island. Helang Hitam manages to defeat and arrest Keris Mas, who is then put behind bars.[^21]
 
 
-![](/images/Vol%2019%20Issue%204/Malay%20Comic/HelangHitam.jpg)
-<div style="background-color: white;"> Helang Hitam – likely the first Malay comic superhero – is a cross between Robin, Batman’s sidekick, and the legendary outlaw Robin Hood.<i>Image reproduced from Jamaludin, Helang Hitam (Singapura: Geliga, 1956). (From PublicationSG).</i></div>
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/HelangHitam2.jpg)
+<div style="background-color: white;"> Helang Hitam – likely the first Malay comic superhero – is a cross between Robin, Batman’s sidekick, and the legendary outlaw Robin Hood.<i> Image reproduced from Jamaludin, Helang Hitam (Singapura: Geliga, 1956). (From PublicationSG).</i></div>
 
 
 
