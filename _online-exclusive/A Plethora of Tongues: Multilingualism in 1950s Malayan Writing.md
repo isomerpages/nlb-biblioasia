@@ -116,7 +116,7 @@ Literary experimentations in that period have also left their imprint on our lin
 
 [^10]: Rajeev S. Patke and Philip Holden, [_The Routledge Concise History of Southeast Asian Writing in English_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147) (London: Routledge, 2010), 51 (From National Library, Singapore, call no. RSING 895.9 PAT)
 
-[^11]: Wang Gungwu, “Ahmad”, _Pulau Ujong_, accessed 27 October 2023, [https://www.pulauujong.org/8-2/ahmad/](https://www.pulauujong.org/8-2/ahmad/). Originally published in Wang Gungwu, [_Pulse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030873) (Singapore: B. Lim, 1950). (From National Library, Singapore, call no. RSING 828.99595 WAN)
+[^11]: Wang Gungwu, “Ahmad”, _Pulau Ujong_, accessed 27 October 2023, https://www.pulauujong.org/8-2/ahmad/. Originally published in Wang Gungwu, [_Pulse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030873) (Singapore: B. Lim, 1950). (From National Library, Singapore, call no. RSING 828.99595 WAN)
 
 [^12]: Brandon K Liew, “Engmalchin and the Plural Imaginings of Malaysia; or, the ‘Arty-Crafty Dodgers of Reality’,” _Exclamat!on: An Interdisciplinary Journal_ 2 (2018): 65, ResearchGate,   https://www.researchgate.net/publication/331273048\_Engmalchin\_and\_the\_Plural\_Imaginings\_of\_Malaysia\_or\_the\_'Arty-Crafty\_Dodgers\_of\_Reality'.
 
