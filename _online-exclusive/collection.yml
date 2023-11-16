@@ -2,6 +2,7 @@ collections:
   online-exclusive:
     output: true
     order:
+      - "A Plethora of Tongues: Multilingualism in 1950s Malayan Writing.md"
       - "My Childhood Memories: A Slice of Kampong Life.md"
       - Conquering the World’s Tallest Mountain.md
       - "Coffee in the Basement, Tea on the Second Floor: A Short History of
