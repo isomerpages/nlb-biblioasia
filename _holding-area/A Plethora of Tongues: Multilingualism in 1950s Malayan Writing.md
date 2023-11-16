@@ -113,5 +113,13 @@ Through their experimentation with plural voices, Sinophone and Anglophone write
 
 [^15]: Wang, “Trial and Error in Malayan Poetry,” 6.
 
-[^16]: Wang, “Trial and Error in Malayan Poetry,” 6. 
+[^16]: Wang, “Trial and Error in Malayan Poetry,” 6.
+
+[^17]: Han, “[An Outline of Malayan-Chinese Literature](https://eservice.nlb.gov.sg/item_holding.aspx?id=4125524),” 16. 
+
+[^18]: Christopher Stroud and Quentin Williams, “Multilingualism as Utopia: Fashioning Non-Racial Selves,” _AILA Review_ no. 30 (2017): 86.
+
+[^19]: Stroud and Williams, “Multilingualism as Utopia,” 185.
+
+[^20]: Shawn Hoo, “Singlish Modernism,” _Asymptote Journal_ (29 Oct 2020), https://www.asymptotejournal.com/blog/2020/10/29/singlish-modernism/.
 
