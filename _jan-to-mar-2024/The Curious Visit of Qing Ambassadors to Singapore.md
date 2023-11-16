@@ -4,6 +4,7 @@ permalink: /vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/
 description: The visit by Qing officials to Singapore in 1876 led to the
   establishment of the first Chinese consulate here a year later.
 image: /images/Vol 19 Issue 4/1   Qing Ambassadors/img_01_v2.png
+variant: markdown
 ---
 #### The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
 By Benjamin J.Q. Khoo
@@ -45,7 +46,7 @@ Upon landing, the visitors were met by William A. Pickering, the Chinese interpr
 
 Pickering could only apologise for the delay of the colonial secretary, John Douglas, due to the steamer having arrived earlier than expected. Douglas subsequently came to present his compliments but regretted that a proper reception in the form of a 15-gun salute and a guard of honour had to be prepared. This meant that a meeting with William Jervois, governor of the Straits Settlements, was embarrassingly postponed until four in the afternoon. 
 
-Meanwhile, as the party adjourned for tiffin, they were joined by Cai Guoxiang and Cai Guoxi, officials of the _Yang Wu_, a Qing corvette launched by the Fuzhou Shipyard in 1872.[^7] Accompanying the crew were some Singapore merchants, among them a certain Hoo Ah Kay (Hu Xuanze; 胡璇泽), more popularly known in Singapore as Whampoa (he was born in Whampoa [Huangpu], near Canton [Guangdong], China).
+Meanwhile, as the party adjourned for refreshments, they were joined by Cai Guoxiang and Cai Guoxi, officials of the _Yang Wu_, a Qing corvette launched by the Fuzhou Shipyard in 1872.[^7] Accompanying the crew were some Singapore merchants, among them a certain Hoo Ah Kay (Hu Xuanze; 胡璇泽), more popularly known in Singapore as Whampoa (he was born in Whampoa [Huangpu], near Canton [Guangdong], China).
 
 ![](/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_05.png)
 <div style="background-color: white;">Portrait of Hoo Ah Kay (Whampoa), 1850s. The Qing delegation visited his home and gardens, and were impressed by what they saw. <i>Courtesy of National Archives of Singapore. </i></div>
