@@ -61,7 +61,7 @@ On 19 November 1947, Lien Hwa played Shanghai’s first-division champions Tung 
 
 The _North-China Daily News_ reported that Chia had won the admiration of local fans and described his stamina as amazing. “One minute he is seen helping his defence and the next one sees him rushing through the opposing halves and backs. Although Chia personally did not score a single point, he took part in almost every defence movement of his side”.[^13]
 
-Such was his performance that the crowd of presumably Tung Hwa supporters mobbed Chia as he left the stadium to head towards the bus. “They were so natural and spontaneous in their feelings. The crowds surged towards me in the stadium and I had to go out by another way. The police had to form a circle around me to let me through. I still flush with pride whenever I think of this incident,” he recalled. “It was once-in-a-lifetime feeling.”[^14]
+Such was his performance that the crowd of presumably Tung Hwa supporters mobbed Chia as he left the stadium to head towards the bus. “They were so natural and spontaneous in their feelings. The crowds surged towards me in the stadium and I had to go out by another way. The police had to form a circle around me to let me through. I still flush with pride whenever I think of this incident,” he recalled. “It was [a] once-in-a-lifetime feeling.”[^14]
 
 	
 #### **Playing in the Olympics and the Malaya Cup**
