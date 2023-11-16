@@ -124,7 +124,7 @@ Geliga also published the popular _Geliga Komik Series_ (_Geliga’s Comic Serie
 
 
 
-Geliga was a major publisher of comic books, and when it closed in the early 1960s, the production of comic books in Singapore declined. Comic artists also stayed away due to issues relating to payment of royalty fees.[^22] Nora Abdullah’s comic book _Armina_, published in 1961 (number 309 under the _Geliga Komik Series_), was likely Geliga’s last comic book.[^23] &nbsp;
+Geliga was a major publisher of comic books, and when it closed in the early 1960s, the production of comic books in Singapore declined. Comic artists also stayed away due to issues relating to payment of royalty fees.[^22] Nora Abdullah’s comic book _Armina_, published in 1961 (number 309 under the _Geliga Komik Series_), was likely Geliga’s last comic book.[^23]
 
 In the 1960s, the Malay comic book publishing trade began shifting its centre from Singapore to Penang where Sinaran Brothers became the most prolific publisher of Malay comic books. Penang eventually supplanted Singapore as a centre for publishing Malay comic books.
 
