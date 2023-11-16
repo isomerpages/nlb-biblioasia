@@ -130,7 +130,7 @@ Literary experimentations in that period have also left their imprint on our lin
 
 [^17]: Han, “[An Outline of Malayan-Chinese Literature](https://eservice.nlb.gov.sg/item_holding.aspx?id=4125524),” 16. 
 
-[^18]: Christopher Stroud and Quentin Williams, “Multilingualism as Utopia: Fashioning Non-Racial Selves,” _AILA Review_ no. 30 (2017): 86.
+[^18]: Christopher Stroud and Quentin Williams, “Multilingualism as Utopia: Fashioning Non-Racial Selves,” _AILA Review_ no. 30 (2017): 86, https://www.academia.edu/39806721/Multilingualism_as_utopia_Fashioning_non_racial_selves
 
 [^19]: Stroud and Williams, “Multilingualism as Utopia,” 185.
 
