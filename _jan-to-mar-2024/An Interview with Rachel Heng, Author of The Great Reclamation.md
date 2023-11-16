@@ -5,7 +5,7 @@ description: ""
 image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/rachel heng.jpg
 variant: markdown
 ---
-#### <i>The Great Reclamation</i> is a fascinating historical novel about land reclamation in 1960s Singapore. Also a love story, the book has been named a _New York Times_ Editor’s Choice, and a “Best Book of 2023 So Far” by the _New Yorker_ and Amazon Books. Editor Soh Gek Han interviews Rachel Heng on her novel for the BiblioAsia+ podcast.
+#### <i>The Great Reclamation</i> is a fascinating historical novel about land reclamation in 1960s Singapore. Also a love story, the book has been named a _New York Times_ Editor’s Choice, and a “Best Book of 2023 So Far” by the _New Yorker_ and Amazon Books. Editor Soh Gek Han interviews Rachel Heng on her novel for a BiblioAsia+ podcast.
 
 <img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/rachel%20heng.jpg">
 <div style="background-color: white;text-align:center">Rachel Heng holding her latest book,<i>The Great Reclamation. Photo by Jimmy Yap, 2023.</i></div>
