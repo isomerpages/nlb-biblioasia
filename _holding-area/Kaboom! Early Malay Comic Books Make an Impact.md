@@ -45,7 +45,7 @@ Cartoons and caricatures continued to be featured in the columns of Malay newspa
 In 1951, Balai Antara published what is believed to be the first Malay comic book in Indonesia. Created by writer and artist Nasjah Djamin, _Hang Tuah (Untuk Anak-Anak)_, a comic for children in Romanised Malay, chronicles the heroics of the legendary Malay warrior Hang Tuah.[^5]
 
 ![](/images/Vol%2019%20Issue%204/Malay%20Comic/HangTuahinsidepage3.jpg)
-<div style="background-color: white;">An inside page of <i>Hang Tuah (Untuk Anak-Anak)</i>. The book is believed to be the first Malay comic published in Indonesia. <i>Image reproduced from Nasjah Djamin, Hang Tuah (Untuk Anak-Anak) (Djakarta: Balai Pustaka, 1951). (From National Library, Singapore, call no. RCLOS 398.209595 NAS-[ACL]).</i></div>
+<div style="background-color: white;"><i>Hang Tuah (Untuk Anak-Anak)</i> is believed to be the first Malay comic published in Indonesia. <i>Image reproduced from Nasjah Djamin, Hang Tuah (Untuk Anak-Anak) (Djakarta: Balai Pustaka, 1951). (From National Library, Singapore, call no. RCLOS 398.209595 NAS-[ACL]).</i></div>
 
 Born in Sumatra in 1924, Nasjah Djamin was an artist and a writer. During the Indonesian National Revolution (1945–49), he created posters and slogans with other artists. In 1949, he began working for Balai Pustaka (originally known as Kantoor voor de Volkslectuur), a body that had been established by the Dutch in 1908 to select suitable reading materials for schools and, at the same time, restrict published materials that were critical of Dutch rule and policies.[^6] He then joined the editorial team for the magazine _Budaya_ in 1953. Apart from drawing, Nasjah Djamin also wrote plays and short stories, and dabbled in theatre.[^7]
 
