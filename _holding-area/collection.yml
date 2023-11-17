@@ -2,6 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Example TiDirector's Notetle.md
+      - Director's Note.md
       - Test2.md
       - Test page.md
