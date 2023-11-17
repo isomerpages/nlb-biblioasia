@@ -930,4 +930,13 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: " Kaboom! Early Malay Comic Books Make an Impact"
+      subtitle: Print
+      id: infopic
+      description: The 1950s was the heyday for Malay comic books published in Singapore.
+      button: THE HEYDAY OF MALAY COMIC BOOKS
+      url: /vol-19/issue-4/jan-mar-2024/early-malay-comics/
+      image: /images/Vol 19 Issue 4/Malay Comic/2covers.jpg
+      alt: Kaboom!
 ---
