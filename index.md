@@ -17,6 +17,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 2/Whale Skeleton/hero_img_whale.jpg
   - infopic:
+      title: " Kaboom! Early Malay Comic Books Make an Impact"
+      subtitle: Print
+      id: infopic
+      description: The 1950s was the heyday for Malay comic books published in Singapore.
+      button: THE HEYDAY OF MALAY COMIC BOOKS
+      url: /vol-19/issue-4/jan-mar-2024/early-malay-comics/
+      image: /images/Vol 19 Issue 4/Malay Comic/2covers.jpg
+      alt: Kaboom!
+  - infopic:
       title: "A Plethora of Tongues: Multilingualism in Malayan Writing"
       subtitle: Culture
       id: infopic
@@ -930,13 +939,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: " Kaboom! Early Malay Comic Books Make an Impact"
-      subtitle: Print
-      id: infopic
-      description: The 1950s was the heyday for Malay comic books published in Singapore.
-      button: THE HEYDAY OF MALAY COMIC BOOKS
-      url: /vol-19/issue-4/jan-mar-2024/early-malay-comics/
-      image: /images/Vol 19 Issue 4/Malay Comic/2covers.jpg
-      alt: Kaboom!
 ---
