@@ -2,7 +2,14 @@
 title: Print
 permalink: /topics/print/
 description: ""
+variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/early-malay-comics/"> Kaboom! Early Malay Comic Books Make an Impact</a>
+The 1950s was the heyday for Malay comic books published in Singapore.
+
+<img src="/images/Vol%2019%20Issue%204/Malay%20Comic/2covers.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/singapore-early-printing">The Early History of Printing in Singapore</a>
 Printing in Singapore dates back 200 years with the establishment of a press by Christian missionaries. Their efforts to spread the gospel also helped bring the technology here.
 
@@ -20,4 +27,3 @@ An innovation patented in 1920 produced paper that was more durable, had greater
 
 <img src="/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/covers_editted.png">
 <hr>
-
