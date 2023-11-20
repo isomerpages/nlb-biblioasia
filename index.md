@@ -9,15 +9,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/
-      button: The One that Got Away
+      url: /vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/
+      button: A Rare Breed in Singapore Football
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 2/Whale Skeleton/hero_img_whale.jpg
+      background: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/choosengquee_hero_img.jpg
   - infopic:
-      title: " Kaboom! Early Malay Comic Books Make an Impact"
+      title: Kaboom! Early Malay Comic Books Make an Impact
       subtitle: Print
       id: infopic
       description: The 1950s was the heyday for Malay comic books published in Singapore.
