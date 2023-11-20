@@ -23,7 +23,7 @@ The next scene that greeted us were the coconut trees and myriad of fruit trees,
 
 **A Kampong by the Sea**
 
-Before World War II, my great-grandfather left his home village in Jieyang, Guangdong, to seek a living in Nanyang (“South Seas”, 南洋; to refer to Southeast Asia by early Chinese migrants) when his sugar processing factory was destroyed by floods. He first settled down in Thailand. Burdened with debt and the need to feed his family, he started selling _chendol_ (a Southeast Asian dessert). Shortly after, also before the war, he relocated to Kampong Wak Hassan, a Malay village in northern Singapore facing the Strait of Johor.
+Before World War II, my great-grandfather left his home village in Jieyang, Guangdong, to seek a living in Nanyang (“South Seas”, 南洋; often used to refer to Southeast Asia by early Chinese migrants) when his sugar processing factory was destroyed by floods. He first settled down in Thailand. Burdened with debt and the need to feed his family, he started selling _chendol_ (a Southeast Asian dessert). Shortly after, also before the war, he relocated to Kampong Wak Hassan, a Malay village in northern Singapore facing the Straits of Johor.
 
 As most of the villagers were fishermen, my great-grandfather also became one and was joined by my grandfather. They worked hard to pay off the debts and saved enough to open a provision shop in the village. The shop and the adjoining house were fondly referred to by family as “Ah Gong’s house”.
 
@@ -33,7 +33,7 @@ Kampong Wak Hassan – with its mix of Malay, Chinese (mostly Teochew) and India
 <div style="background-color: white;">A Malay house in Kampong Wak Hassan, 1986. <i>Courtesy of National Archives of Singapore.</i>
 </div>
 
-In the village, we would wake up to the loud booming voice of a Chinese fisherman from Johor. He would arrive in a motorboat filled with his catch for the day and set up a temporary spot near my grandfather’s provision shop to sell fishes such as grouper and _kembong_ (Indian mackerel). In those days, it was easy for Johor fishermen and villagers in the kampong to meet and trade, but as they grew older and with Singapore's stricter maritime law enforcement, such interactions soon came to a halt.
+In the village, we would wake up to the loud booming voice of a Chinese fisherman from Johor. He would arrive in a motorboat filled with his catch of the day and set up a temporary spot near my grandfather’s provision shop to sell fishes such as grouper and _kembong_ (Indian mackerel). In those days, it was easy for Johor fishermen and villagers in the kampong to meet and trade, but as they grew older and with Singapore's stricter maritime law enforcement, such interactions soon came to a halt.
 
 In 1966, the kampong welcomed its first asphalt-paved main road, Jalan Kampong Wak Hassan, opened by Minister of State for Culture Lee Khoon Choy. During his speech, he praised the villagers as he had heard that “Kampong Wak Hassan is a model village where the Chinese, Malay and Indian villagers get along well with each other”.[^1] The other side lanes remained as sandy paths with potholes filled with stones or rocks of various shapes and sizes. Cyclists passing through needed to be skilful to avoid a bad fall.
 
