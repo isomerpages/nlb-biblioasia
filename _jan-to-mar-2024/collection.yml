@@ -2,6 +2,7 @@ collections:
   jan-to-mar-2024:
     output: true
     order:
+      - Director's Note.md
       - "Singapore's Got Talent: When Talentime Ruled the Airwaves.md"
       - "Chia Boon Leong: The Twinkle Toed Olympian.md"
       - The 1973 SEAP Games in Singapore.md
