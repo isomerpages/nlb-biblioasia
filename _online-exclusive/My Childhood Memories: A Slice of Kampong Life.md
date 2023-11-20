@@ -23,7 +23,7 @@ The next scene that greeted us were the coconut trees and myriad of fruit trees,
 
 **A Kampong by the Sea**
 
-Before World War II, my great-grandfather left his home village in Jieyang, Guangdong, to seek a living in Nanyang (“South Seas”, 南洋; to refer to Southeast Asia by early Chinese migrants) when his sugar processing factory was destroyed by floods. He first settled down in Thailand. Burdened with debt and the need to feed his family, he started selling _chendol_ (a Southeast Asian dessert). Shortly after, also before the war, he relocated to Kampong Wak Hassan, a Malay village in northern Singapore facing the Strait of Johor.
+Before World War II, my great-grandfather left his home village in Jieyang, Guangdong, to seek a living in Nanyang (“South Seas”, 南洋; often used to refer to Southeast Asia by early Chinese migrants) when his sugar processing factory was destroyed by floods. He first settled down in Thailand. Burdened with debt and the need to feed his family, he started selling _chendol_ (a Southeast Asian dessert). Shortly after, also before the war, he relocated to Kampong Wak Hassan, a Malay village in northern Singapore facing the Straits of Johor.
 
 As most of the villagers were fishermen, my great-grandfather also became one and was joined by my grandfather. They worked hard to pay off the debts and saved enough to open a provision shop in the village. The shop and the adjoining house were fondly referred to by family as “Ah Gong’s house”.
 
@@ -33,7 +33,7 @@ Kampong Wak Hassan – with its mix of Malay, Chinese (mostly Teochew) and India
 <div style="background-color: white;">A Malay house in Kampong Wak Hassan, 1986. <i>Courtesy of National Archives of Singapore.</i>
 </div>
 
-In the village, we would wake up to the loud booming voice of a Chinese fisherman from Johor. He would arrive in a motorboat filled with his catch for the day and set up a temporary spot near my grandfather’s provision shop to sell fishes such as grouper and _kembong_ (Indian mackerel). In those days, it was easy for Johor fishermen and villagers in the kampong to meet and trade, but as they grew older and with Singapore's stricter maritime law enforcement, such interactions soon came to a halt.
+In the village, we would wake up to the loud booming voice of a Chinese fisherman from Johor. He would arrive in a motorboat filled with his catch of the day and set up a temporary spot near my grandfather’s provision shop to sell fishes such as grouper and _kembong_ (Indian mackerel). In those days, it was easy for Johor fishermen and villagers in the kampong to meet and trade, but as they grew older and with Singapore's stricter maritime law enforcement, such interactions soon came to a halt.
 
 In 1966, the kampong welcomed its first asphalt-paved main road, Jalan Kampong Wak Hassan, opened by Minister of State for Culture Lee Khoon Choy. During his speech, he praised the villagers as he had heard that “Kampong Wak Hassan is a model village where the Chinese, Malay and Indian villagers get along well with each other”.[^1] The other side lanes remained as sandy paths with potholes filled with stones or rocks of various shapes and sizes. Cyclists passing through needed to be skilful to avoid a bad fall.
 
@@ -48,7 +48,7 @@ At dusk when the dim streetlamps illuminated the roads, villagers turned in for 
 Living near the coastal region means that there was always an abundant supply of seafood like crabs, shrimps and all sorts of fish. Children also had fun digging up cockles from the muddy shore bed.
 
 ![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/flower_crabs.png)
-<div style="background-color: white;">Flower crabs were abundant on the shore. <i>Illustrated by Ang Seow Leng.</i>
+<div style="background-color: white;">Author’s memory of kampong life by the seaside – Flower crab and cat. <i>Illustrated by Ang Seow Leng.</i>
 </div>
 
 While it was easy to catch seafood, villagers had to travel further afield to the Chong Pang market to buy fresh fruits and vegetables. Every household reared some chickens and ducks for eggs and meat. Occasionally, one might spy an escaped goat exploring the neighbourhood. Cats, as popular pets, were the nemesis of roaches, lizards and rats. Villagers also grew their favourite fruit trees. My family was spoilt for choice with mango, starfruit, jackfruit, chiku, rambutan, mulberry and coconut trees.
@@ -56,7 +56,7 @@ While it was easy to catch seafood, villagers had to travel further afield to th
 Whenever I stayed with my grandfather, I would spend a lot of time in the kitchen observing my aunts as they cooked. Once, a chicken whose neck had been partially severed, escaped from my aunt’s grip leaving behind a bloody trail on the floor. Till today, I still shudder when I recall that scene.
 
 ![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/riding_a_bike.png)
-<div style="background-color: white;">Riding a bike in front of my grandfather’s house. He kept a dog and a number of chickens. <i>Illustrated by Ang Seow Leng.</i>
+<div style="background-color: white;">Author’s memory of kampong life by the seaside – An idyllic afternoon. <i>Illustrated by Ang Seow Leng.</i>
 </div>
 
 My grandfather passed away at a ripe old age of 103. I remember that he ate simply – just a bowl of rice porridge with steamed fish for breakfast. Lunch and dinner were also simple affairs, prepared by my fourth aunt. Similarly, grandmother was not a fussy eater. My grandparents never talked about what they used to eat back in their hometown of Jieyang. 
@@ -88,7 +88,7 @@ Business picked up when Sembawang Park opened at the end of Sembawang Road in 19
 Occasionally, we would also welcome foreigners sailing along the Johor Strait. They would moor their sailboat in the middle of the sea and rest for a few days. Then they would borrow a sampan (a small wooden boat) belonging to the Malay villagers and row to the shore to buy groceries from my grandfather’s provision shop. We would take the opportunity to chat with them in English and listen in wonder as they regaled us with their adventures out at sea.
 
 ![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/fishermen.png)
-<div style="background-color: white;">Fishermen in the village used sampan like these to go out to sea. <i>Illustrated by Ang Seow Leng.</i>
+<div style="background-color: white;">Author’s memory of kampong life by the seaside – The day’s catch. <i>Illustrated by Ang Seow Leng.</i>
 </div>
 
 At the end of each day, one of my aunts would pull shut the metal grille sliding door, slotting the heavy wooden panels into the respective openings along the wooden frame and then latching the door with a long wooden pole. However, we would still get occasional visits from villagers requesting to buy some items that they needed even when the shop had closed for business. Even though we were closed, we would still get the item out of the shop for them.
