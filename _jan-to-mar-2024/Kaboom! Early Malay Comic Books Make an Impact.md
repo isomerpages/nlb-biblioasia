@@ -1,6 +1,6 @@
 ---
 title: Kaboom! Early Malay Comic Books Make an Impact
-permalink: /holding-area/permalink/earlymalaycomicbookstest1/
+permalink: /vol-19/issue-4/jan-mar-2024/early-malay-comics/
 variant: markdown
 description: The 1950s was the heyday for Malay comic books published in Singapore.
 image: /images/Vol 19 Issue 4/Malay Comic/HelangHitam.jpg
@@ -8,6 +8,10 @@ image: /images/Vol 19 Issue 4/Malay Comic/HelangHitam.jpg
 #### The 1950s was the heyday for Malay comic books published in Singapore.
 
 By Mazelan Anuar
+
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/2covers.jpg)
+<div style="background-color: white;"><i>Tungga dan Piring Terbang</i> (1953) and <i>Helang Hitam</i> (1956).</div>
+
 
 When most people think about Malay comic books or comic book artists, the Malaysian artist Lat comes to mind. His distinctive drawings, which capture humorous slices of kampong life and life in the big city, have been tickling funny bones for several decades now.
 
@@ -40,8 +44,8 @@ Cartoons and caricatures continued to be featured in the columns of Malay newspa
 
 In 1951, Balai Antara published what is believed to be the first Malay comic book in Indonesia. Created by writer and artist Nasjah Djamin, _Hang Tuah (Untuk Anak-Anak)_, a comic for children in Romanised Malay, chronicles the heroics of the legendary Malay warrior Hang Tuah.[^5]
 
-![](/images/Vol%2019%20Issue%204/Malay%20Comic/HangTuahinsidepage2.jpg)
-<div style="background-color: white;">An inside page of <i>Hang Tuah (Untuk Anak-Anak)</i>. The book is believed to be the first Malay comic published in Indonesia. <i>Image reproduced from Nasjah Djamin, Hang Tuah (Untuk Anak-Anak) (Djakarta: Balai Pustaka, 1951). (From National Library, Singapore, call no. RCLOS 398.209595 NAS-[ACL]).</i></div>
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/HangTuahinsidepage3.jpg)
+<div style="background-color: white;"><i>Hang Tuah (Untuk Anak-Anak)</i> is believed to be the first Malay comic published in Indonesia. <i>Image reproduced from Nasjah Djamin, Hang Tuah (Untuk Anak-Anak) (Djakarta: Balai Pustaka, 1951). (From National Library, Singapore, call no. RCLOS 398.209595 NAS-[ACL]).</i></div>
 
 Born in Sumatra in 1924, Nasjah Djamin was an artist and a writer. During the Indonesian National Revolution (1945–49), he created posters and slogans with other artists. In 1949, he began working for Balai Pustaka (originally known as Kantoor voor de Volkslectuur), a body that had been established by the Dutch in 1908 to select suitable reading materials for schools and, at the same time, restrict published materials that were critical of Dutch rule and policies.[^6] He then joined the editorial team for the magazine _Budaya_ in 1953. Apart from drawing, Nasjah Djamin also wrote plays and short stories, and dabbled in theatre.[^7]
 
@@ -119,12 +123,12 @@ Geliga’s first female cartoonist was Nora Abdullah, whose real name was Che No
 Geliga also published the popular _Geliga Komik Series_ (_Geliga’s Comic Series_) comprising more than 300 comic books. The second book in the series is titled _Helang Hitam_, published in 1956. Helang Hitam – meaning “Black Eagle” – is the alter ego of Harun and a cross between Robin, Batman’s sidekick, and the legendary outlaw Robin Hood. The villain in the story is Keris Mas, who robs a bank with his gang and escapes to a hideout on a deserted island. Helang Hitam manages to defeat and arrest Keris Mas, who is then put behind bars.[^21]
 
 
-![](/images/Vol%2019%20Issue%204/Malay%20Comic/HelangHitam.jpg)
-<div style="background-color: white;"> Helang Hitam – likely the first Malay comic superhero – is a cross between Robin, Batman’s sidekick, and the legendary outlaw Robin Hood.<i>Image reproduced from Jamaludin, Helang Hitam (Singapura: Geliga, 1956). (From PublicationSG).</i></div>
+![](/images/Vol%2019%20Issue%204/Malay%20Comic/HelangHitam2.jpg)
+<div style="background-color: white;"> Helang Hitam – likely the first Malay comic superhero – is a cross between Robin, Batman’s sidekick, and the legendary outlaw Robin Hood.<i> Image reproduced from Jamaludin, Helang Hitam (Singapura: Geliga, 1956). (From PublicationSG).</i></div>
 
 
 
-Geliga was a major publisher of comic books, and when it closed in the early 1960s, the production of comic books in Singapore declined. Comic artists also stayed away due to issues relating to payment of royalty fees.[^22] Nora Abdullah’s comic book _Armina_, published in 1961 (number 309 under the _Geliga Komik Series_), was likely Geliga’s last comic book.[^23] &nbsp;
+Geliga was a major publisher of comic books, and when it closed in the early 1960s, the production of comic books in Singapore declined. Comic artists also stayed away due to issues relating to payment of royalty fees.[^22] Nora Abdullah’s comic book _Armina_, published in 1961 (number 309 under the _Geliga Komik Series_), was likely Geliga’s last comic book.[^23]
 
 In the 1960s, the Malay comic book publishing trade began shifting its centre from Singapore to Penang where Sinaran Brothers became the most prolific publisher of Malay comic books. Penang eventually supplanted Singapore as a centre for publishing Malay comic books.
 
