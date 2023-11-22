@@ -134,5 +134,3 @@ Wheatley, P. (1961). *[The Golden Khersonese: Studies in the historical geograph
 [^18]: Su, 2000, pp. 1–2.
 
 [^19]: [Wheatley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462), 1961, p. 81.
-
-a
