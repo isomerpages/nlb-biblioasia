@@ -36,7 +36,7 @@ While most people associate the Konfrontasi with the MacDonald House bombing, th
 The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.  *Benjamin J.Q. Khoo*.  [(PDF)](/files/pdf/Vol%2019/5__BiblioAsia_Jan_Mar2024_Qing_Ambassadors.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation-/">Kaboom! Early Malay Comic Books Make an Impact</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/early-malay-comics/">Kaboom! Early Malay Comic Books Make an Impact</a><br>
 The 1950s was the heyday for Malay comic books published in Singapore. *Mazelan Anuar*.  [(PDF)](/files/pdf/Vol%2019/6__BiblioAsia_Jan_Mar2024_Early_Malay_Comic_Books.pdf)
 
 

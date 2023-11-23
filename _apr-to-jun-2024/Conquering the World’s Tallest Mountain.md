@@ -1,6 +1,6 @@
 ---
 title: Conquering the World’s Tallest Mountain
-permalink: /sports/2023/11/mountain-everest-expedition-david-lim/
+permalink: /vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/
 description: Route to Everest Peak
 image: /images/Online Only Articles/Conquer the Tallest Mountain/route to summit1.jpg
 variant: markdown

@@ -1,6 +1,6 @@
 ---
 title: "A Plethora of Tongues: Multilingualism in 1950s Malayan Writing"
-permalink: /culture/2023/11/multilingual-languages-malayan-writing-sg/
+permalink: /vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/
 variant: markdown
 description: ""
 ---
