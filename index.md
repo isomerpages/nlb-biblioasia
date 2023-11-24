@@ -17,15 +17,6 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/choosengquee_hero_img.jpg
   - infopic:
-      title: Kaboom! Early Malay Comic Books Make an Impact
-      subtitle: Print
-      id: infopic
-      description: The 1950s was the heyday for Malay comic books published in Singapore.
-      button: THE HEYDAY OF MALAY COMIC BOOKS
-      url: /vol-19/issue-4/jan-mar-2024/early-malay-comics/
-      image: /images/Vol 19 Issue 4/Malay Comic/2covers.jpg
-      alt: Kaboom!
-  - infopic:
       title: "A Plethora of Tongues: Multilingualism in Malayan Writing"
       subtitle: Culture
       id: infopic
@@ -37,6 +28,26 @@ sections:
       image: /images/Online Only Articles/A Plethora of
         Tongues/20100000306_IMG0038.jpg
       alt: Multilingualism
+  - infopic:
+      title: Conquering the World’s Tallest Mountain
+      subtitle: Sports
+      id: infopic
+      description: David Lim led the first Singapore team to successfully summit Mount
+        Everest in 1998. This is an excerpt from his book, Mountain to Climb.
+      button: Scale the greatest height
+      url: /sports/2023/11/mountain-everest-expedition-david-lim/
+      image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
+        ropes1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Kaboom! Early Malay Comic Books Make an Impact
+      subtitle: Print
+      id: infopic
+      description: The 1950s was the heyday for Malay comic books published in Singapore.
+      button: THE HEYDAY OF MALAY COMIC BOOKS
+      url: /vol-19/issue-4/jan-mar-2024/early-malay-comics/
+      image: /images/Vol 19 Issue 4/Malay Comic/2covers.jpg
+      alt: Kaboom!
   - infopic:
       title: "Chia Boon Leong: The Twinkle-Toed Olympian"
       subtitle: Sports
@@ -69,17 +80,6 @@ sections:
       url: /videos/reels/architecture/
       image: "/images/Videos: BiblioAsia
         Reels/BiblioAsia_Reels___binjai_park_small_.png"
-      alt: Image alt text
-  - infopic:
-      title: Conquering the World’s Tallest Mountain
-      subtitle: Sports
-      id: infopic
-      description: David Lim led the first Singapore team to successfully summit Mount
-        Everest in 1998. This is an excerpt from his book, Mountain to Climb.
-      button: Scale the greatest height
-      url: /sports/2023/11/mountain-everest-expedition-david-lim/
-      image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
-        ropes1.jpg
       alt: Image alt text
   - infopic:
       title: The Salvation Army in Singapore
