@@ -35,7 +35,7 @@ sections:
       description: David Lim led the first Singapore team to successfully summit Mount
         Everest in 1998. This is an excerpt from his book, Mountain to Climb.
       button: Scale the greatest height
-      url: /sports/2023/11/mountain-everest-expedition-david-lim/
+      url: /vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/
       image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
         ropes1.jpg
       alt: Image alt text
