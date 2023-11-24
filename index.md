@@ -33,7 +33,7 @@ sections:
         came the search for a Malayan identity, negotiated and presented through
         multilingualism.
       button: Multilingualism in Malayan Writing
-      url: /culture/2023/11/multilingual-languages-malayan-writing-sg/
+      url: /vol-20/issue-1/apr-jun-2024/multilingual-languages-/vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/malayan-writing-sg/
       image: /images/Online Only Articles/A Plethora of
         Tongues/20100000306_IMG0038.jpg
       alt: Multilingualism
