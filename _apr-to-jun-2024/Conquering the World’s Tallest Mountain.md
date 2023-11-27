@@ -85,12 +85,12 @@ At about 4 pm, the clouds had come in and most of the Cwm \[Welsh term for a val
 
 “That guy’s going to kill himself if he tries that,” I said, unimpressed with Tom’s health and his ambitious climbing schedule.
 
-The next morning was a bright day, and the usual C2 chill dissipated with the sun. After breakfast all three of us waited impatiently as the climbers progressed. Radio calls to Bruce the Emir reported nothing new. The last call from Swee at about 6am reported that they had passed the Balcony and were en route to the South Summit. He sounded lucid and strong. There were few calls from the others and I hoped that they were well and had tuned in to our calls.
+The next morning was a bright day, and the usual C2 chill dissipated with the sun. After breakfast all three of us waited impatiently as the climbers progressed. Radio calls to Bruce the Emir reported nothing new. The last call from Swee at about 6 am reported that they had passed the Balcony and were en route to the South Summit. He sounded lucid and strong. There were few calls from the others and I hoped that they were well and had tuned in to our calls.
 
 The plan would be for our climbers to drop off a half-used bottle of Poisk \[oxygen\] on the Balcony. They would make a switch to the black LSE and breathe on that until the South Summit. I knew they had done this already. Swee reported that there was quite a bit of snow and the route was packed with the 40-plus climbers and sherpas. A slight breeze had picked up at C2 but the weather up high still looked pretty clear. Despite the loss of our own summit chances, we are all pretty excited at C2 and hoping for a big success.
 
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/sg%20team%20at%20basecamp.jpg">
-<div style="background-color: white;">The first Singapore Everest expedition team at base camp, 1998. (Left to right: Johann, Bruce, Shani, Justin, Robert, Swee Chiow, Mok, Edwin, Leong, David and Rozani.) <i> Courtesy of David Lim.</i></div>
+<div style="background-color: white;">The first Singapore Everest expedition team at base camp, 1998. From left: Johann, Bruce, Shani, Justin, Robert, Swee Chiow, Mok, Edwin, Leong, David and Rozani. <i> Courtesy of David Lim.</i></div>
 
 At about 9.15 am, we heard Swee’s unmistakable voice. They had reached the South Summit. Mok, Leong [Chee Mun] and I let out a big cheer. It meant that they were well inside the turnaround time of noon and would bag the summit over the next hour. From the South Summit, the fresh bottle of Poisk that had been carried by their sherpa would be used. A higher flow-rate of 3-4 litres could be enjoyed for the hour long section negotiating the last problem, the Hillary Step. On returning to the South Summit after summitting, the LSE bottle would be retrieved (it would still have a few hours of oxygen left in it) by the climber and the descent to the Col would continue. The half-empty bottle left there earlier in the morning on the Balcony would provide enough oxygen until they reached the tents at South Col. And they had plenty in reserve and the oxygen sequencing seemed to be going nicely.
 
@@ -154,7 +154,7 @@ Lila Bahadur Tamang<br><br>
 <b>Other base camp staff</b><br>
 Urke Tamang<br>
 Sonam Lama<br>
-Pralhad Pokharel (Liaison officer)<br>
+Pralhad Pokharel (liaison officer)<br>
 Thal Bahadur Adhikari (Badri)<br>
 Birbahadur Tamang<br>
 Gun Bahadur Tamang<br>
@@ -174,6 +174,6 @@ Yula Tshering<br>
 
 [^3]: Yong Li Xuan, “Search and Rescue Team Unable to Find Missing Singaporean Everest Climber, Says Wife,” _Straits Times_, 28 May 2023, https://www.straitstimes.com/singapore/search-and-rescue-team-unable-to-find-missing-singaporean-everest-climber-climber-s-wife.
 
-[^4]: David Lim, [<i>Mountain to Climb: The Quest from Everest and Beyond</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: Epigram Books, 1999). (From National Library, Singapore, call no. RSING 796.522092 LIM); David Lim, [<i>Mountain to Climb: The Quest from Everest and Beyond</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666998) (Singapore: South Col Adventures, 2006). (From National Library, Singapore, call no. RSING 796.522092 LIM)
+[^4]: David Lim, [<i>Mountain to Climb: The Quest from Everest and Beyond</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9482546) (Singapore: Epigram Books, 1999). (From National Library, Singapore, call no. RSING 796.522092 LIM); David Lim, [<i>Mountain to Climb: The Quest for Everest and Beyond</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666998) (Singapore: South Col Adventures, 2006). (From National Library, Singapore, call no. RSING 796.522092 LIM)
 	
 [^5]: Daisy Ho, “[Everest Team Bags Award](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980630-1.2.31.1),” _Straits Times_, 30 June 1998, 23;&nbsp;“[Who Reached the Summit First?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980528-1.2.42.3.2.aspx),”&nbsp;_Straits Times_, 28 May 1998, 31. (From NewspaperSG)
