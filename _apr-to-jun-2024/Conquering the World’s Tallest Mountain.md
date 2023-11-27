@@ -37,10 +37,10 @@ Cursing at this turn of events, I gave up trying to reach for the radio. Justin 
 
 “The game ain't over until the fat lady sings.”	
 
-<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/base%20camp.png">
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/IMG0081_new.png">
 <div style="background-color: white;">Singapore base camp on Everest.<i> Courtesy of David Lim.</i></div>
 
-<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/david%20journal.jpg">
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/IMG0019_edited.png">
 <div style="background-color: white;">David Lim journaling at Everest base camp.<i> Courtesy of David Lim.</i></div>
 	
 I lay in my tent, sleepless for most of the night, thinking about how that afternoon's coughing fit had either torn a ligament or a cartilage. A full dose of Voltaren painkiller was ineffectual. I awoke the following morning, May 16, hoping for the best. Another stab of pain doubled me over. I sat up, holding my side and turned to Edwin.
@@ -61,7 +61,7 @@ Discussions followed. The 48 hours’ notice was crucial. It was the minimum amo
 
 The game was on and I had to balance the risks of the team being stuck up high and keeping our resources together should a second attempt be required. But there was not a snowball's chance in hell I would have jeopardised any member unnecessarily for the sake of a summit. The 48 hours’ notice would give them time to retreat to BC even if they were on South Col. The team made good progress to C3 and we settled in for another long night.
 	
-<img style="width:75%;height:80%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/rozani%20climbing%20up%20lhoste%20face.jpg">
+<img style="width:75%;height:80%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/Rozani_climbing_up_Lhoste_new.png">
 <div style="background-color: white;">Mohd Rozani Maarof climbing up Lhoste Face to South Col, 18 May 1998.<i> Courtesy of David Lim.</i></div>
 
 The radio report on the morning of May 18 from the summit team showed that all had gone smoothly. They had slept using some bottled oxygen and were now en route to the Col. with an oxygen tank each. The LSE bottle would provide a modest flow of oxygen and have enough left over to use as an aid to sleep. At C2, Mok \[Ying Jang\] and I bid the sherpas a safe climb. The sherpas would climb, in a single day, to South Col. They never slept at C3. They wore smiles, but their eyes, darting left and right, reflected what they really felt. I had had that feeling before – the palm-moistening sensation as a summit push began.
@@ -74,9 +74,9 @@ Then the weather report came in. It said that the winds over the summit for the 
 
 But by 2.30 pm, it was clear that the situation with the sherpa was more serious than was earlier reported. A disjointed radio call from the face indicated that the sherpa had been hit by either a rock or an ice boulder and was suffering from a suspected broken femur. He was incapacitated near C3 and in great pain. Rob Morrison and Robert Boice from Hoffman's team had assisted the sherpa over a number of hours to the campsites. It was a combination of butt hauling and dragging, quite an effort at those altitudes. Sundeep Dhillon, a client from the Himalayan Kingdoms, was a doctor and he, too, went to the sherpa’s aid. I said it was no problem for them to spend the night in one of our tents and the spare oxygen could also be used if it was needed. At base camp a sled was being organised to evacuate the sherpa to BC. Our team radioed in at about 2 pm saying all was well and they would be resting up for the summit bid. They were ecstatic when I broke the good news to them about the weather. The gamble looked like it would pay off.
 
-<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/mok%20on%20fixed%20ropes.jpg"><br>
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/mok_on_fixed_ropes_new.png"><br>
 
-<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/mok%20ladder.jpg">
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/mok_ladder_new.png">
 <div style="background-color: white;"> Mok Ying Jang on the fixed ropes (top) and inching down rickety ladders (above) at Khumbu Icefall, Everest. <i> Courtesy of David Lim.</i></div>
 
 Mok and I were in no condition to head up to C3. There was also a great deal of frustration at C2 and BC. C2 was largely deserted except for Hoffman's sherpas and there was not a soul at the tents of Himalayan Kingdoms. We began rummaging through their site for the special splints needed for the sherpa. After searching several tents, we found them. Most of the commercial team's radios had been fried when connected to a faulty electrical appliance so the group was hamstrung in terms of communications. The deputy guide, Jim Williams, had raced up to C3 to assist and was not at C2 either. Apa Sherpa, the eight-time summitter, refused to help further. It was understandable. He and his sherpas were saving their energy for their push up to the Col with Hoffman's team. Hoffman was gambling that he could summit with his team on May 20.
