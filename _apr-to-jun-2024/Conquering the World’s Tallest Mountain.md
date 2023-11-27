@@ -89,7 +89,7 @@ The next morning was a bright day, and the usual C2 chill dissipated with the su
 
 The plan would be for our climbers to drop off a half-used bottle of Poisk \[oxygen\] on the Balcony. They would make a switch to the black LSE and breathe on that until the South Summit. I knew they had done this already. Swee reported that there was quite a bit of snow and the route was packed with the 40-plus climbers and sherpas. A slight breeze had picked up at C2 but the weather up high still looked pretty clear. Despite the loss of our own summit chances, we are all pretty excited at C2 and hoping for a big success.
 
-<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/sg%20team%20at%20basecamp.jpg">
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/4288_001_new.png">
 <div style="background-color: white;">The first Singapore Everest expedition team at base camp, 1998. From left: Johann, Bruce, Shani, Justin, Robert, Swee Chiow, Mok, Edwin, Leong, David and Rozani. <i> Courtesy of David Lim.</i></div>
 
 At about 9.15 am, we heard Swee’s unmistakable voice. They had reached the South Summit. Mok, Leong [Chee Mun] and I let out a big cheer. It meant that they were well inside the turnaround time of noon and would bag the summit over the next hour. From the South Summit, the fresh bottle of Poisk that had been carried by their sherpa would be used. A higher flow-rate of 3-4 litres could be enjoyed for the hour long section negotiating the last problem, the Hillary Step. On returning to the South Summit after summitting, the LSE bottle would be retrieved (it would still have a few hours of oxygen left in it) by the climber and the descent to the Col would continue. The half-empty bottle left there earlier in the morning on the Balcony would provide enough oxygen until they reached the tents at South Col. And they had plenty in reserve and the oxygen sequencing seemed to be going nicely.
@@ -120,7 +120,7 @@ I received one brief radio call from Roz at about noon but little was heard from
 
 <i>Six days later, on 25 May 1998, Edwin Siew and Khoo Swee Chiow, accompanied by four Nepalese sherpas, successfully summited Mount Everest. It was the team’s second attempt. The Singapore Mount Everest team was conferred the Singapore Youth Award (Sports and Adventure) by the National Youth Council in July 1998, as their “exemplary dedication, discipline and determination to be the first Singapore team to conquer Mount Everest serve[d] as an inspiration to all Singaporeans”.</i>[^5]   [Mountain to Climb](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12666998) <i>is available for reference at the Lee Kong Chian Reference Library and for loan at selected branch libraries (call nos. RSING 796.522092 LIM and SING 796.522092 LIM.)</i>
 
-<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/edwin%20on%20everest%20summit1.png">
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/edwin_on_summit_new.png">
 <div style="background-color: white;"> Edwin Siew on the summit of Everest, 25 May 1998. <i> Photo by Bernardo Guarachi.</i></div>
 
 <div style="background-colour:#fff6ba; padding:15px; margin: 15px; background: #fff6ba; font-size=larger"><b>MEMBERS OF THE SINGAPORE MOUNT EVEREST TEAM</b><br><br>
