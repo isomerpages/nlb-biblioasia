@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/
-      button: A Rare Breed in Singapore Football
+      url: /vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/
+      button: Crash helmets save lives
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/choosengquee_hero_img.jpg
+      background: /images/Vol 19 Issue 3/4 Crash Helmets/Helmets_Hero_Banner.jpg
   - infopic:
       title: "A Plethora of Tongues: Multilingualism in Malayan Writing"
       subtitle: Culture
