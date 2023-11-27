@@ -5,7 +5,7 @@ description: Route to Everest Peak
 image: /images/Online Only Articles/Conquer the Tallest Mountain/route to summit1.jpg
 variant: markdown
 ---
-#### David Lim led the first Singapore expedition team that successfully scaled Mount Everest on 25 May 1998. This is an excerpt from his book, <i>Mountain to Climb: The Quest from Everest and Beyond.</i>
+#### David Lim led the first Singapore expedition team that successfully scaled Mount Everest on 25 May 1998. This is an excerpt from his book, <i>Mountain to Climb: The Quest for Everest and Beyond.</i>
 
 By David Lim
 
