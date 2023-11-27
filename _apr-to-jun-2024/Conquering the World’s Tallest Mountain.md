@@ -77,7 +77,7 @@ But by 2.30 pm, it was clear that the situation with the sherpa was more serious
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/mok%20on%20fixed%20ropes.jpg"><br>
 
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/mok%20ladder.jpg">
-<div style="background-color: white;"> Mok on the fixed ropes (top) and inching down rickety ladders (above) at Khumbu Icefall, Everest. <i> Courtesy of David Lim.</i></div>
+<div style="background-color: white;"> Mok Ying Jang on the fixed ropes (top) and inching down rickety ladders (above) at Khumbu Icefall, Everest. <i> Courtesy of David Lim.</i></div>
 
 Mok and I were in no condition to head up to C3. There was also a great deal of frustration at C2 and BC. C2 was largely deserted except for Hoffman's sherpas and there was not a soul at the tents of Himalayan Kingdoms. We began rummaging through their site for the special splints needed for the sherpa. After searching several tents, we found them. Most of the commercial team's radios had been fried when connected to a faulty electrical appliance so the group was hamstrung in terms of communications. The deputy guide, Jim Williams, had raced up to C3 to assist and was not at C2 either. Apa Sherpa, the eight-time summitter, refused to help further. It was understandable. He and his sherpas were saving their energy for their push up to the Col with Hoffman's team. Hoffman was gambling that he could summit with his team on May 20.
 
