@@ -5,6 +5,7 @@ description: Although Talentime has been replaced by reality talent contests, it
   will be remembered as a show that launched the musical careers of many
   Singaporeans.
 image: /images/Vol 19 Issue 4/7 Talentime/photo1.png
+variant: markdown
 ---
 #### Although Talentime has been replaced by reality talent contests, it will be remembered as a show that launched the musical careers of many Singaporeans.
 By Jamie Lee and Mark Wong
@@ -44,8 +45,8 @@ Then there was the element of audience participation. This gave ordinary people 
 
 At least in the early years, the atmosphere was relaxed. “There were no rehearsals,” Gan recalled. “We just turned up and banged it out.”[^13] According to Reginald (Reggie) Verghese of The Quests, during the band’s 1963 Talentime experience, their “\[g\]uitars were out of tune. \[Music director\] Charlie Lazaroo threw us out. You know, there were no tuners at that time. So we tuned, then in the air-con, somebody’s guitar \[goes\] slightly out.”[^14]
 
-![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo7-rev3.png)
-<div style="background-color: white;">Cover of 45rpm single <i>Tea Break/Pop Inn Theme (Watch Your Step)</i> (1965) by The Quests. <i>Courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/the-quests.jpg)
+<div style="background-color: white;">The Quests were talent-spotted while taking part in Radio Talentime. They signed with EMI and their hit single “Shanty” knocked The Beatles off the local charts. From left: Quest members Jap Chong, Henry Chua, Lim Wee Guan, Reggie Verghese and Vernon Cornelius, 1966. Photo taken at the Peter Robinson Studio on Orchard Road. <i>Courtesy of Vernon Cornelius.</i></div>
 
 Budding musicians saw Talentime as a way of gaining visibility and kick-starting their careers. “During that time, there was only one English radio station,” recalled John Chee of The Crescendos. “So whoever it is would listen to that radio station would ultimately hear us because the disc jockeys at the time were also wanting to push local talent.”
 
@@ -64,7 +65,7 @@ It was critical for a talent competition to get its judging criteria right. Elev
 
 This fixation on adjudication could seem excessive at times. During the 1976 English Talentime final, the two emcees spent half of the 70-minutes programme tallying up the scores from individual judges in front of a live audience.[^23]
 
-#### **Video Killed the Radio Star**
+#### **I Want My MTV**
 The launch of television on 15 February 1963 in Singapore, and eventually a televised version of Talentime four years later, resulted in the show emphasising spectacle. Audiences in the age of television had more stringent expectations for singers – not only did their musical performances have to be up to mark, but their entire visual language had to impress – from costumes and movements, down to facial expressions.
 
 ![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo6.png)

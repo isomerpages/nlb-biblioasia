@@ -3,11 +3,12 @@ title: An Interview with Rachel Heng, Author of The Great Reclamation
 permalink: /vol-19/issue-4/jan-mar-2024/interview-rachel-heng/
 description: ""
 image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/rachel heng.jpg
+variant: markdown
 ---
-#### <i>The Great Reclamation</i> is a fascinating historical novel about land reclamation in 1960s Singapore. Also a love story, the book has been named a _New York Times_ Editor’s Choice, and a “Best Book of 2023 So Far” by the _New Yorker_ and Amazon Books. Editor Soh Gek Han interviews Rachel Heng on her novel for the BiblioAsia+ podcast.
+#### <i>The Great Reclamation</i> is a fascinating historical novel about land reclamation in 1960s Singapore. Also a love story, the book has been named a _New York Times_ Editor’s Choice, and a “Best Book of 2023 So Far” by the _New Yorker_ and Amazon Books. Editor Soh Gek Han interviews Rachel Heng on her novel for a BiblioAsia+ podcast.
 
 <img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/rachel%20heng.jpg">
-<div style="background-color: white;text-align:center">Rachel Heng holding her latest book,<i>The Great Reclamation. Photo by Jimmy Yap, 2023.</i></div>
+<div style="background-color: white;">Rachel Heng holding her latest book,<i>The Great Reclamation. Photo by Jimmy Yap, 2023.</i></div>
 
 **Gek Han**  
 Thank you so much for taking the time to do [this podcast](/podcast/the-great-reclamation/) with us. It’s really thrilling to see a book set in Singapore by a local writer getting such rave reviews worldwide and at home. How has it been like for you?
@@ -36,10 +37,10 @@ In your long research process, is there anything that surprised you about Singap
 I don’t know that it’s anything that surprised me so much as there were many striking details. One detail that made it into the book was the conveyor belt. During the early phases of the land reclamation project, a conveyor belt moved the sand dug out to the coasts. Someone asked me if writing historical fiction is a big leap from speculative fiction. Not really, because the history is almost science fictional – the way in which the transformation was so audacious and involved technology to that extent – at that time. When you look at the photos, it looks like something out of <i>[Blade Runner]</i> or something. It’s really fascinating.
 
 <img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/bedok%20reclamation%20site.jpg" style="width:80%">
-<div style="background-color: white;text-align:center">Land digging at the Bedok reclamation site, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div><br>
+<div style="background-color: white;">Land digging at the Bedok reclamation site, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div><br>
 
 <img src="/images/Vol%2019%20Issue%204/An%20Interview%20with%20Rachel%20Heng/conveyor%20belt.jpg" style="background-color: white;width:55%">
-<div style="background-color: white;text-align:center">A conveyor belt moving earth from Bedok to the sea, 1960s. <i>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">A conveyor belt moving earth from Bedok to the sea, 1960s. <i>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore.</i></div>
 
 **Gek Han**  
 One of the many things I appreciate about your book is that you showed the nuances of moving into Housing and Development Board (HDB) apartments. It’s not black and  white – some characters like it; some don’t. In your research, do you get a sense that it was a generational divide?
@@ -47,7 +48,7 @@ One of the many things I appreciate about your book is that you showed the nuanc
 **Rachel**  
 I think it was something that didn’t come up in my research, but from speaking to family members. I definitely heard about the excitement. My mom grew up in one of the crowded wooden \[shop\]houses on the five-footway. And she said whenever someone on the street got an HDB flat, the whole street would go and look at the flat when they moved in. And she knew all these details, like \[the flooring\] comes with linoleum, but if you can, you should put tiles. Or like the windows were a certain way, but you could change them. And then people would put tarps on the kitchen window.
 
-All these titbits of that experience. That must have been in the ’70s or ’80s, versus the ’60s in the book. I read about and also know older relatives who are afraid of lifts. They don’t want to be high up because they’re not used to it. And then from the oral history interviews, I got the sense of excitement and also a kind of ambivalence or fear. And then just extrapolating as a fiction writer, thinking about what it must have felt like when this is your reality, your entire life. Your family has lived this way for so long, and now suddenly, you’re plunged into a completely different reality, which arguably is the best setup for fiction, because that is what fiction is about. It’s about characters being pushed out of their comfort zone, and how they deal with that. So I tried to represent a range of experiences in the book. Some of the characters are totally for it. They’re like, “This is the way forward. We’re really excited.” And then other characters are deeply against it: they see it as a destruction of their way of life, they feel it as almost a violence, and they feel betrayed because everyone is going along with it. And then you have characters who can’t decide how they feel, but either go along or don’t, for whatever personal reasons. And I wrote it that way because I believe that politics are deeply personal.
+All these tidbits of that experience. That must have been in the ’70s or ’80s, versus the ’60s in the book. I read about and also know older relatives who are afraid of lifts. They don’t want to be high up because they’re not used to it. And then from the oral history interviews, I got the sense of excitement and also a kind of ambivalence or fear. And then just extrapolating as a fiction writer, thinking about what it must have felt like when this is your reality, your entire life. Your family has lived this way for so long, and now suddenly, you’re plunged into a completely different reality, which arguably is the best setup for fiction, because that is what fiction is about. It’s about characters being pushed out of their comfort zone, and how they deal with that. So I tried to represent a range of experiences in the book. Some of the characters are totally for it. They’re like, “This is the way forward. We’re really excited.” And then other characters are deeply against it: they see it as a destruction of their way of life, they feel it as almost a violence, and they feel betrayed because everyone is going along with it. And then you have characters who can’t decide how they feel, but either go along or don’t, for whatever personal reasons. And I wrote it that way because I believe that politics are deeply personal.
 
 As much as we like to believe we are fully objective human beings capable of coming to intellectual abstract conclusions in a vacuum, it’s just not true. When you talk to people, when you exist in the world, where you come from, what your family background is, the path of your life, where you find acceptance, where you don’t – all these things shape our political beliefs, what we believe a society should look like, what we believe it means to live in a society with other people. And much of that is so deeply rooted and almost inextricable that the characters aren’t even aware of the ways in which they are shaped by this. And so I want the book to have a wide range of voices from people who came from different places. They either agree or couldn’t agree, either compromise or don’t, and what that does to them as individuals.
 
@@ -55,7 +56,7 @@ As much as we like to believe we are fully objective human beings capable of com
 [Listen to the full BiblioAsia+ episode](https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/).</i>
 
 
-<div style="background-color: #fff6ba;text-align:center; font-size:120%">
+<div style="background-color: #fff6ba; font-size:120%">
 	<br>
 <b>ABOUT THE BOOK</b>
 <br><br>

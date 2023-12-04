@@ -9,14 +9,78 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
-      button: "Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
-        Firewalking"
+      url: /vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/
+      button: Crash helmets save lives
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Theemithi/hero_img_theemithi.jpg
+      background: /images/Vol 19 Issue 3/4 Crash Helmets/Helmets_Hero_Banner.jpg
+  - infopic:
+      title: "A Plethora of Tongues: Multilingualism in Malayan Writing"
+      subtitle: Culture
+      id: infopic
+      description: From the melting pot of cultures and language in postwar Singapore
+        came the search for a Malayan identity, negotiated and presented through
+        multilingualism.
+      button: Multilingualism in Malayan Writing
+      url: /vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/
+      image: /images/Online Only Articles/A Plethora of
+        Tongues/20100000306_IMG0038.jpg
+      alt: Multilingualism
+  - infopic:
+      title: Conquering the World’s Tallest Mountain
+      subtitle: Sports
+      id: infopic
+      description: David Lim led the first Singapore team to successfully summit Mount
+        Everest in 1998. This is an excerpt from his book, Mountain to Climb.
+      button: Scale the greatest height
+      url: /vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/
+      image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
+        ropes1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Kaboom! Early Malay Comic Books Make an Impact
+      subtitle: Print
+      id: infopic
+      description: The 1950s was the heyday for Malay comic books published in Singapore.
+      button: THE HEYDAY OF MALAY COMIC BOOKS
+      url: /vol-19/issue-4/jan-mar-2024/early-malay-comics/
+      image: /images/Vol 19 Issue 4/Malay Comic/2covers.jpg
+      alt: Kaboom!
+  - infopic:
+      title: "Chia Boon Leong: The Twinkle-Toed Olympian"
+      subtitle: Sports
+      id: infopic
+      description: Although short in stature, footballer Chia Boon Leong was a force
+        to be reckoned with.
+      button: “SMALL  BUT TERRIBLE”
+      url: /vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/
+      image: /images/Vol 19 Issue 4/Chia Boon Leong/chiaboonleong2004.jpg
+      alt: Image alt text
+  - infopic:
+      title: "My Childhood Memories: A Slice of Kampong Life"
+      subtitle: Places and Buildings
+      id: infopic
+      description: Kampong living reflects an idyllic bygone age, a time when life was
+        much simpler.
+      button: Kampong Days
+      url: /places-and-buildings/2023/11/childhood-memories-kampong-wak-hassan/
+      image: /images/Online Only Articles/A Slice of Kampong
+        Life/grandfather_house.png
+      alt: Image alt text
+  - infopic:
+      title: The Modernist Home of Pioneer Architect Lee Kip Lin
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: The family home of architect Lee Kip Lin has stood the test of time
+        with its simple and yet modern design. His wife, Mrs Lee Li-ming, shares
+        her insights.
+      button: Watch the Video
+      url: /videos/reels/architecture/
+      image: "/images/Videos: BiblioAsia
+        Reels/BiblioAsia_Reels___binjai_park_small_.png"
+      alt: Image alt text
   - infopic:
       title: The Salvation Army in Singapore
       subtitle: Local Icons
@@ -875,15 +939,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: Conquering the World’s Tallest Mountain
-      subtitle: Sports
-      id: infopic
-      description: David Lim led the first Singapore team to successfully summit Mount
-        Everest in 1998. This is an excerpt from his book, Mountain to Climb.
-      button: Scale the greatest height
-      url: /sports/2023/11/mountain-everest-expedition-david-lim/
-      image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
-        ropes1.jpg
-      alt: Image alt text
 ---

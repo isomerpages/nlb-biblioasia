@@ -4,6 +4,7 @@ permalink: /vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/
 description: The 7th SEAP Games marked the first time that Singapore hosted an
   international sporting event since gaining independence in 1965.
 image: /images/Vol 19 Issue 4/4 SEAP Games/image1.png
+variant: markdown
 ---
 ####    The 7th South East Asian Peninsular Games marked the first time that Singapore hosted an international sporting event since gaining independence in 1965.
 By Lim Tin Seng
@@ -33,9 +34,9 @@ Just as important as the sporting venues were the ancillary facilities such as t
 
 The housing estate was chosen as the Games Village because the flats were “ideally located and surrounded by all the necessary facilities and amenities” such as a new swimming complex with five pools and a sports complex with a 400-metre running track. Athletes could also avail themselves of the nearby cinemas, an emporium, 180 shops, a supermarket, a post office, a bus terminal, a hawker centre and a medical centre.[^6]
 
-“For the first time competitors will be housed in high rise flats and this will be a change for SEAP Games athletes who have lived in makeshift two-storey apartments and students’ hostels,” said E.W. Barker, president of the Singapore National Olympics Council and Othman Wok.[^7]
+“For the first time competitors will be housed in high rise flats and this will be a change for SEAP Games athletes who have lived in makeshift two-storey apartments and students’ hostels,” said E.W. Barker, president of the Singapore National Olympic Council, and Othman Wok.[^7]
 
-Each flat – with three bedrooms and a hall – was shared by six athletes and furnished with the “amenities of a luxurious hotel room”.[^8] The Games Village received a thumbs-up from athletes. “The organisers have done a wonderful job in providing first class accommodation,” said Singapore veteran hurdler Osman Merican. “What surprised me was the gang of women workers marching into our rooms in the mornings and tidying our beds and mopping up the caterers. This is something I have not experienced in other international games”.[^9]
+Each flat – with three bedrooms and a hall – was shared by six athletes and furnished with the “amenities of a luxurious hotel room”.[^8] The Games Village received a thumbs-up from athletes. “The organisers have done a wonderful job in providing first class accommodation,” said Singapore veteran hurdler Osman Merican. “What surprised me was the gang of women workers marching into our rooms in the mornings and tidying our beds and mopping up the caterers [sic]. This is something I have not experienced in other international games”.[^9]
 
 <img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/19980002733%20img0111.jpg" style="width:100%;">
  <div style="background-color: white;">Minister for Social Affairs Othman Wok (right) viewing a flat for athletes at the SEAP Games Village in Toa Payoh, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>

@@ -84,10 +84,10 @@ Kwa, C.G., Heng, D., &amp; Tan, T.Y. (2009). *[Singapore, a 700-year history: Fr
 
 林我铃著 [Lin, W.Z.0]. (1999). [龙牙门新考 : 中国古代南海两主要航道要冲的历史地理研究](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84579319) <i>[Long-ya-men reidentified: A historical geography study of two important junctions in the ancient Nanhai sea routes]</i>. Singapore: South Seas Society. (Call no.: Chinese RSING 911.5 LWL)
 
-Miskic, J.N. (2013). *[Singapore &amp; the Silk Road of the sea, 1300–1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868)*. Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
+Miksic, J.N. (2013). *[Singapore &amp; the Silk Road of the sea, 1300–1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868)*. Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
 
 
-Low, M.G.C–A. (2004). Singapore from the 14th to 19th century. In J.N. Miskic &amp; M.G.C–A, Low, (Eds.), *[Early Singapore 1300s–1819: Evidence in maps, text and artefacts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)* (pp. 16–17). Singapore: Singapore History Museum. (Call no.: RSING 959.5703 EAR)
+Low, M.G.C–A. (2004). Singapore from the 14th to 19th century. In J.N. Miksic &amp; M.G.C–A, Low, (Eds.), *[Early Singapore 1300s–1819: Evidence in maps, text and artefacts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)* (pp. 16–17). Singapore: Singapore History Museum. (Call no.: RSING 959.5703 EAR)
 
 Rockhill, W.W. (1915, March). Notes on the relations and trade of China with eastern archipelago and the coast of the Indian Ocean during the fourteenth century (Part II). <i>T’oung Pao, second series, 16</i> (1), 61–159, pp. 129–132. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
@@ -101,31 +101,31 @@ Wheatley, P. (1961). *[The Golden Khersonese: Studies in the historical geograph
 
 [^2]: Kwa, C.G., Heng, D., &amp; Tan, T.Y. (2009). *[Singapore, a 700-year history: From early emporium to world city](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984)* (p. 67). Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA)
 
-[^3]: Miskic, J.N. (2013). *[Singapore &amp; the Silk Road of the sea, 1300–1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868)* (p. 76). Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
+[^3]: Miksic, J.N. (2013). *[Singapore &amp; the Silk Road of the sea, 1300–1800](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868)* (p. 76). Singapore: NUS Press. (Call no.: RSING 959.57 MIK)
 
 [^4]: [Kwa, Heng &amp; Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13205984), 2009, p. 66.
 
 [^5]: Gibson-Hill, C.A. (1956, December). [Singapore Old Strait &amp; New Harbour 1300–1870](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989). Memoirs of the Raffles Museum, 3, plate facing, (p. 66). Singapore: G.P.O. (Call no.: RCLOS 959.52 BOG)
 
-[^6]: Also known as “red gold” from [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 178.
+[^6]: Also known as “red gold” from [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 178.
 
 [^7]: [Wheatley](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3283462), 1961, p. 83.
 
-[^8]: Low, M.G.C–A. (2004). Singapore from the 14th to 19th century. In J.N. Miskic &amp; M.G.C–A, Low, (Eds.), *[Early Singapore 1300s–1819: Evidence in maps, text and artefacts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)* (pp. 16–17). Singapore: Singapore History Museum. (Call no.: RSING 959.5703 EAR)
+[^8]: Low, M.G.C–A. (2004). Singapore from the 14th to 19th century. In J.N. Miksic &amp; M.G.C–A, Low, (Eds.), *[Early Singapore 1300s–1819: Evidence in maps, text and artefacts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12284523)* (pp. 16–17). Singapore: Singapore History Museum. (Call no.: RSING 959.5703 EAR)
 
-[^9]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 178.
+[^9]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 178.
 
-[^10]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, pp. 7–8.
+[^10]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, pp. 7–8.
 
-[^11]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, pp. 178–180.
+[^11]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, pp. 178–180.
 
-[^12]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, pp. 7–13.
+[^12]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, pp. 7–13.
 
-[^13]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 169.
+[^13]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 169.
 
 [^14]: Su, J. (2000). Preface. In <i>Su Jing, Dao Yi Zhi Lue Jiao Shi</i> [Annotations of Dao Yi Zhi Lue] (pp. 2–3). Beijing: Zhonghua Book Company. (Not available in NLB’s holdings)
 
-[^15]: [Miskic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 169.
+[^15]: [Miksic](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123868), 2013, p. 169.
 
 [^16]: Su, 2000, pp. 5–6.
 

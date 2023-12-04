@@ -3,7 +3,7 @@ title: "Milestones to the Metric System"
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/metric/
 third_nav_title: "Milestones to the Metric System"
-image: /images/Vol-16-issue-1/Metric/Metrication-title.jpg
+image: /images/Vol-16-issue-1/metric/Metrication-title.jpg
 ---
 
 <style>
@@ -26,7 +26,7 @@ table {
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/Metric/Metrication-title.jpg">
+<img src="/images/Vol-16-issue-1/metric/Metrication-title.jpg">
 
 A metric information stall set up at Circuit Road Market to educate residents during the Zonal Metric Educational Programme for the MacPherson constituency in 1979. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -79,7 +79,7 @@ The public sector set the pace for adopting the metric system because any change
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/Metric/Think-metric-and-books.png">
+<img src="/images/Vol-16-issue-1/metric/Think-metric-and-books.png">
 
 In the 1970s, the Singapore Metrication Board published a variety of posters with different themes to educate the public on the new metric system. Posters in four languages were displayed at government departments, schools, offices, factories, bus stops and even in coffee shops to reach out to as many people as possible. <i>Think Metric, Use Celsius and Think Metric, Metric is International are from the collection of the National Library, Singapore (Accession nos.: B21228880I; B15913223D). Learn the Metric Volume is from the Singapore Metrication Board Collection, courtesy of National Archives of Singapore</i>.
 
@@ -101,7 +101,7 @@ Vegetable sellers, however, were more recalcitrant. The same survey found that 3
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/Metric/fishmonger-daching.jpg">
+<img src="/images/Vol-16-issue-1/metric/fishmonger-daching.jpg">
 
 A fishmonger using a <i>daching</i>, 1960s. The <i>daching</i> was used to weigh items in <i>pikul</i>, <i>kati</i> and <i>tahil</i>. Metrication in Singapore made the traditional measuring scale obsolete. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 
@@ -129,7 +129,7 @@ From 1977 to 1980, the board conducted the Zonal Metric Educational Programme wh
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/Metric/Metric-conversion-tables.png">
+<img src="/images/Vol-16-issue-1/metric/Metric-conversion-tables.png">
 
 (Left) <i>Metric Conversion Tables</i> is a handy pocket-size booklet providing conversions for a variety of measurements, such as inches to millimetres, <i>tahils</i> to grams, gallons to litres, and even Fahrenheit to Celsius.<br><br>(Right) <i>A Metric Guide for Consumers</i> provides illustrations to help consumers learn and visualise in metric. For example, 1 kilogram is equivalent to the weight of four blocks of butter, and two normal-size tomatoes weigh about 100 grams. It also teaches consumers how to read a metric <i>daching</i> and spring scale. Both publications were produced in the 1970s. <i>Collection of the National Library, Singapore (Accession no.: B15913223D)</i>.
 
@@ -141,7 +141,7 @@ To complete the metrication process in Singapore, the board legislated standard 
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/Metric/documentry.jpg ">
+<img src="/images/Vol-16-issue-1/metric/documentry.jpg ">
 
 <i>It’s Happening in Singapore: Weights and Measures</i> is a 13-minute documentary produced by Radio and Television Singapore in May 1971 introducing the public to metric measurements and the benefits of the metric system. This programme can be viewed on Archives Online. <i>Mediacorp Pte Ltd, courtesy of National Archives of Singapore</i>.
 
@@ -155,7 +155,7 @@ There were two areas that the Singapore Metrication Board did not convert to met
 
 <div style="background-color: white;">
 <br/>
-<img src="/images/Vol-16-issue-1/Metric/Metrication-Digest.png ">
+<img src="/images/Vol-16-issue-1/metric/Metrication-Digest.png ">
 
 The Singapore Metrication Board produced two newsletters about metrication. <i>Metrication Digest</i> (1971) was printed primarily for the industrial, commercial and manufacturing sectors, providing up-to-date news on technical aspects such as standards, conversions and programmes for implementation. Copies were distributed to teachers, trade associations, professional institutes and chambers of commerce. <i>Our Metric Way</i> (1973–1981) was written in a simple and light-hearted manner with pictures, cartoons and articles to educate the general public on metrication. Copies were distributed to residents in housing estates across Singapore. <i>Collection of the National Library, Singapore (Accession nos.: B28825720A and B17562025F)</i>.
 
@@ -166,7 +166,7 @@ Although the metric system is widely used in Singapore today, remnants of the Im
 Looking back, Baey Lian Peck concluded that the measure of success of Singapore’s metrication was not whether it was implemented, but whether it caused disruptions and whether it brought about economic benefits to the country. On that score, he had no doubt. “I can proudly say we were quite successful in both these respects.”[^29]
 
 
-|<img src="/images/Vol-16-issue-1/Metric/use-metric.png">
+|<img src="/images/Vol-16-issue-1/metric/use-metric.png">
 
 A campaign poster produced in 1980. *Singapore Metrication Board Collection, courtesy of the National Archives of Singapore*.|
 

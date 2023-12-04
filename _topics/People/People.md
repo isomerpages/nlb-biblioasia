@@ -3,7 +3,20 @@ title: People
 permalink: /topics/people/
 description: ""
 third_nav_title: People
+variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/">Chia Boon Leong: The Twinkle-Toed Olympian</a>
+Although short in stature, footballer Chia Boon Leong was a force to be reckoned with.
+
+<img src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/age50b.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/">Conquering the World’s Tallest Mountain</a>
+David Lim led the first Singapore expedition team that successfully scaled Mount Everest on 25 May 1998. This is an excerpt from his book,&nbsp;<i>Mountain to Climb: The Quest from Everest and Beyond</i>.
+
+<img src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/sg%20team%20at%20basecamp.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a>
 The late architect William Lim did more than shape Singapore’s skyline. He was also deeply passionate about urban planning, culture, the arts and engaging the next generation.
 
@@ -92,5 +105,3 @@ The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore
 
 <img src="/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png">
 <hr>
-
-
