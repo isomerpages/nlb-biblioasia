@@ -18,3 +18,13 @@ In May 2023, Singaporean Shrinivas Sainis Dattatraya, 39, went missing during an
 
 <img style="width:80%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/western_cwm_new.png">
 <div style="background-color: white;">In the Western Cwm with Lhoste dominating the far end of the valley. <i>Courtesy of David Lim.</i></div>
+
+			
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/leetongking_profile.jpg">
+	<b>Lee Tong King</b> is a Professor of Language and Communication in the School of English, University of Hong Kong. He was a National Library Singapore Lee Kong Chian Research Fellow in 2022–2023.</div>
+
+#### **Notes**
+
+[^1]: Han Suyin, “An Outline of Malayan-Chinese Literature,” [_Eastern Horizon_](https://eservice.nlb.gov.sg/item_holding.aspx?id=4125524) 3, no. 6 (June 1964): 10. (From National Library, Singapore, call no. RCLOS 950.05 EHMR)
