@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/
-      button: Crash helmets save lives
+      url: /vol-19/issue-3/oct-dec-2023/singapore-early-printing/
+      button: History of Early Printing in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 3/4 Crash Helmets/Helmets_Hero_Banner.jpg
+      background: /images/Vol 19 Issue 3/10 Printing/Hero_img_early_printing.jpg
   - infopic:
       title: "A Plethora of Tongues: Multilingualism in Malayan Writing"
       subtitle: Culture
@@ -29,7 +29,7 @@ sections:
         Tongues/20100000306_IMG0038.jpg
       alt: Multilingualism
   - infopic:
-      title: Conquering the World’s Tallest Mountain
+      title: Conquering Everest, the World’s Tallest Mountain
       subtitle: Sports
       id: infopic
       description: David Lim led the first Singapore team to successfully summit Mount
