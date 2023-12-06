@@ -29,7 +29,7 @@ sections:
         Tongues/20100000306_IMG0038.jpg
       alt: Multilingualism
   - infopic:
-      title: Conquering the World’s Tallest Mountain
+      title: Conquering Everest, the World’s Tallest Mountain
       subtitle: Sports
       id: infopic
       description: David Lim led the first Singapore team to successfully summit Mount
