@@ -46,11 +46,11 @@ On another occasion, this time in a helicopter, Veronica asked to sit next to th
 
 But the realities and atrocities of war were unavoidable. Escorted by soldiers, Veronica remembers seeing signs of brutal confrontation as they passed underground tunnels, the sites of bloody fighting. “I’ll never forget it… Even now, talking about it, I have it in my vision. A dead body, covered in maggots.”&nbsp;
 
-Veronica returned home after her first tour and embarked on her second a little more than a year later in 1971. “Things \[were\] much \[more\] peaceful there than before. But the entertainment scene had also become poorer.”2 When asked if she would go for the third time, she replied that it was no longer worth it since the United States (US) were withdrawing its troops.
+Veronica returned home after her first tour and embarked on her second a little more than a year later in 1971. “Things \[were\] much \[more\] peaceful there than before. But the entertainment scene had also become poorer.”[^2] When asked if she would go for the third time, she replied that it was no longer worth it since the United States (US) were withdrawing its troops.
 
 #### **Harris Hamzah**
 
-In July 1969, the _Berita Harian_ newspaper announced that Singapore-Malay band Impian Bateks would embark on their first South Vietnam tour.3 The Impian Bateks comprised vocalist and manager Rudin Al-Haj, keyboardist Ismail Ahmad, drummer Jantan Majid, lead guitarist Harris Hamzah and bassist Suffian. When asked about their decision to go to Vietnam despite the dangers, Harris said, “Our families were worried, but the money was really too good.”&nbsp;
+In July 1969, the _Berita Harian_ newspaper announced that Singapore-Malay band Impian Bateks would embark on their first South Vietnam tour.[^3] The Impian Bateks comprised vocalist and manager Rudin Al-Haj, keyboardist Ismail Ahmad, drummer Jantan Majid, lead guitarist Harris Hamzah and bassist Suffian. When asked about their decision to go to Vietnam despite the dangers, Harris said, “Our families were worried, but the money was really too good.”&nbsp;
 
 The band stayed in their agent’s halfway house in Cho Lon, Saigon, and within days, it became clear that they were in a danger zone. Bursts of gunfire rang out day and night. News of bands being blown up mid-performance rattled young Harris: “Whenever I saw a box or a can left unattended, I’d stay away. We didn’t feel safe.”&nbsp;
 
