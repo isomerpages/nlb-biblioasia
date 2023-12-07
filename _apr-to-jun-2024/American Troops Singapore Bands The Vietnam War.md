@@ -88,7 +88,7 @@ Their worst experience was on 6 September 1969, when the band was in Da Nang at 
 
 By then, the Esquires had decided that they would not tempt fate further. They flew home in November 1969.&nbsp;
 
-Living to Tell
+#### **Living to Tell**
 
 Now in their 70s, Veronica, Harris and Steve are still living out their passion for music. Steve resides in Sweden and performs on cruise liners plying the Atlantic. Veronica lives an active life in France and performed at the Esplanade – Theatres on the Bay in early 2023. Harris still lives in Singapore and performs whenever he has the opportunity. The trio performed in extraordinary circumstances and lived to tell the tale. They, and other unsung entertainers, had given soldiers cheer, comfort, escape and some connection to their home and families faraway.
 			
