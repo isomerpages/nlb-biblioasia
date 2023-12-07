@@ -10,7 +10,7 @@ description: Lured by good money and adventure, local performers braved the
 By Boon Lai
 
 <img style="width:80%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/western_cwm_new.png">
-<div style="background-color: white;">In the Western Cwm with Lhoste dominating the far end of the valley. <i>Courtesy of David Lim.</i></div>
+<div style="background-color: white;">The graphic novel series, <i>The Once &amp; Marvellous DKD</i>, was inspired by the accounts of local talents who entertained American GIs during the Vietnam War. <i>Illustrations courtesy of Boon Lai. </i></div>
 
 To most people in Singapore who lived through the period, the Vietnam War, which ended in 1975, is a distant memory, an event that largely did not touch their lives personally. While fierce fighting was taking place in the region, to many in Singapore at the time, the main face of the war was drunk soldiers on rest and recreation leave.
 
