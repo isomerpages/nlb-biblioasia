@@ -52,6 +52,9 @@ Veronica recounted an incident at the Chu Lai barracks. It was dark and quiet, a
 
 Yet, Veronica remembers most of the troops as “nice and polite”. She said, “They were waiting just to touch you. They didn’t mean any harm. It was so sad. They were there – to live or die – they didn’t know… having been sent over.”
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image6.png)
+<div style="background-color: white;">Female dancers were always a big hit with the soldiers, 1969. <i>Courtesy of Veronica Young.</i></div>
+
 Once, onboard a C130 Hercules airplane en route to their next gig, Veronica overheard the pilots asking about the girls. She asked the crew for his headset and joined the conversation. “Which one are you?” the pilot asked. She replied coyly, “The small pretty one that sings. Now, which one do you want to know about?” Veronica was invited into the cockpit. “Would you like to fly?” the pilot asked. She jumped at the chance and squeezed into the co-pilot’s seat. She gripped the yoke tightly, sending the plane into a sudden dive, momentarily suspending everyone mid-air. Fortunately, the pilot quickly regained control and steadied the plane.
 
 On another occasion, this time in a helicopter, Veronica asked to sit next to the door gunner. Flying between Cam Ranh Bay and Da Nang, she asked if she could fire the mounted heavy M60 machine gun: “One shot?” She had to wait until they reached a clearing before the gunner gave her the go-ahead. He placed his hands on her and said, “But I gotta hold you.” She responded that she didn’t care what he did. “You can hold me or kiss me. Just let me shoot!” She pulled the trigger and bullets sprayed out in rapid fiery bursts, tearing through the air. The powerful recoil of the machine gun threw her violently back and she realised why the gunner had insisted on holding on to her.
