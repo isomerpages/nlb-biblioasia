@@ -99,4 +99,12 @@ Now in their 70s, Veronica, Harris and Steve are still living out their passion 
 
 #### **Notes**
 
-[^1]: Han Suyin, “An Outline of Malayan-Chinese Literature,” [_Eastern Horizon_](https://eservice.nlb.gov.sg/item_holding.aspx?id=4125524) 3, no. 6 (June 1964): 10. (From National Library, Singapore, call no. RCLOS 950.05 EHMR)
+[^1]: “‘Impian Bateks’ Akan Berhijrah Ka-Saigon,” _Berita Harian_, 13 July 1969, 12. (From NewspaperSG)&nbsp;
+
+[^2]: “Vietnam Through As ‘Breaking Ground’ Says Veronica,” _Straits Times_, 9 April 1971, 10. (From NewspaperSG)&nbsp;
+
+[^3]: “Penyani Pulang Rindukan Keluarga,” _Berita Harian_, 7 November 1969, 2. (From NewspaperSG)&nbsp;
+
+[^4]: “Da Nang Under Heavy Rocketing,” _Desert Sun_ 43, no. 29, 6 September 1969, https://cdnc.ucr.edu/?a=d&amp;d=DS19690906.2.3&amp;e=-------en--20--1--txt-txIN--------1.
+
+[^5]: “Apa Kata Gadis Manis Ini Yg Baru Pulang Dari Saigon,” _Berita Harian_, 9 April 1971, 8. (From NewspaperSG
