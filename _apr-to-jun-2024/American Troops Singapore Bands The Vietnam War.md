@@ -95,7 +95,7 @@ Now in their 70s, Veronica, Harris and Steve are still living out their passion 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/leetongking_profile.jpg">
-	<b>Lee Tong King</b> is a Professor of Language and Communication in the School of English, University of Hong Kong. He was a National Library Singapore Lee Kong Chian Research Fellow in 2022–2023.</div>
+	<b>Boon Lai</b> is a content creator, author, illustrator and filmmaker based in Singapore. Inspired by the true accounts of the rockers who toured the Vietnam War, he created the three-book graphic novel series, The Once &amp; Marvellous DKD (dkdgraphicnovel.com). </div>
 
 #### **Notes**
 
