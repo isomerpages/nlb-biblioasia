@@ -69,6 +69,9 @@ In July 1969, the _Berita Harian_ newspaper announced that Singapore-Malay band 
 
 The band stayed in their agent’s halfway house in Cho Lon, Saigon, and within days, it became clear that they were in a danger zone. Bursts of gunfire rang out day and night. News of bands being blown up mid-performance rattled young Harris: “Whenever I saw a box or a can left unattended, I’d stay away. We didn’t feel safe.”
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image5.png)
+<div style="background-color: white;">Veronica Young (centre) and the other entertainers rehearsing at the compound of the bungalow where they were housed in the Cho Lon area, with Harris Hamzah at the back, prior to the start of their tour, 1969. <i>Courtesy of Veronica Young.</i></div>
+
 Once considered the Pearl of the Orient, Saigon had developed the reputation of a Sin City. It was already overcrowded but more and more people kept flooding in, fleeing their battle-ravaged villages for the perceived safety of the city. The enormous inflow of US dollars drove prices up, and grossly inflated American goods were peddled alongside drugs, booze and sex. The Vietcong (a communist guerilla force supported by the North Vietnamese army to fight in the South) were everywhere, effectively putting Saigon under siege.
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/ImageA.png)
