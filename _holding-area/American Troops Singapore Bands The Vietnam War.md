@@ -136,7 +136,7 @@ The stories of Veronica Young, Harris Hamzah and Steve Bala Siren inspired a ser
 			
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/leetongking_profile.jpg">
+<img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai.png">
 	<b>Boon Lai</b> is a content creator, author, illustrator and filmmaker based in Singapore. Inspired by the true accounts of the rockers who toured the Vietnam War, he created the three-book graphic novel series, The Once &amp; Marvellous DKD (dkdgraphicnovel.com). </div>
 
 #### **Notes**
