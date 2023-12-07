@@ -107,4 +107,4 @@ Now in their 70s, Veronica, Harris and Steve are still living out their passion 
 
 [^4]: “Da Nang Under Heavy Rocketing,” _Desert Sun_ 43, no. 29, 6 September 1969, https://cdnc.ucr.edu/?a=d&amp;d=DS19690906.2.3&amp;e=-------en--20--1--txt-txIN--------1.
 
-[^5]: “Apa Kata Gadis Manis Ini Yg Baru Pulang Dari Saigon,” _Berita Harian_, 9 April 1971, 8. (From NewspaperSG
+[^5]: “[Apa Kata Gadis Manis Ini Yg Baru Pulang Dari Saigon](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19710409-1.2.47),” _Berita Harian_, 9 April 1971, 8. (From NewspaperSG
