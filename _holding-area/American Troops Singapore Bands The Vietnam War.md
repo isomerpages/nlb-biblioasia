@@ -20,6 +20,9 @@ Apart from daring local journalists, there was another group of Singaporeans who
 
 Once there, they were plunged into a situation unlike anything they had experienced before. Apart from keeping their instruments tuned, they had to learn to fire weapons (they were given a crash course). Getting to each gig did not involve merely a tour bus; sometimes, they were flown there in helicopters that would come under fire.
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/ImageC.png)
+<div style="background-color: white;">Entertainers being dropped off via a Huey chopper.&nbsp;<i>Illustration courtesy of Boon Lai.</i></div>
+
 This is what life in a war zone was like, as told by three musicians who experienced it: Veronica Young, Harris Hamzah and Steve Bala Siren. 
 
 #### **Veronica Young**
