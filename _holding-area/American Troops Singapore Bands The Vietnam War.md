@@ -57,6 +57,7 @@ The band stayed in their agent’s halfway house in Cho Lon, Saigon, and within 
 Once considered the Pearl of the Orient, Saigon had developed the reputation of a Sin City. It was already overcrowded but more and more people kept flooding in, fleeing their battle-ravaged villages for the perceived safety of the city. The enormous inflow of US dollars drove prices up, and grossly inflated American goods were peddled alongside drugs, booze and sex. The Vietcong (a communist guerilla force supported by the North Vietnamese army to fight in the South) were everywhere, effectively putting Saigon under siege.
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/ImageA.png)
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/ImageB.png)
 <div style="background-color: white;">In the Western Cwm with Lhoste dominating the far end of the valley. <i>Courtesy of David Lim.</i></div>
 
 “The \[US soldiers\] would talk to us,” said Harris. “Some of them would show us photographs of friends who were killed stepping on boobytraps and mines. Like them, we were also given \[dog\] tags to wear in case anything were to happen to us... Sometimes, when we boarded the transports, there would be someone there praying, as if we might not make it.”
