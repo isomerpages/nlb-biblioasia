@@ -20,7 +20,11 @@ Apart from daring local journalists, there was another group of Singaporeans who
 
 Once there, they were plunged into a situation unlike anything they had experienced before. Apart from keeping their instruments tuned, they had to learn to fire weapons (they were given a crash course). Getting to each gig did not involve merely a tour bus; sometimes, they were flown there in helicopters that would come under fire.&nbsp;
 
-This is what life in a war zone was like, as told by three musicians who experienced it: Veronica Young, Harris Hamzah and Steve Bala Siren. She was a versatile singer, performing with many bands (such as the Silver Strings and The Quests) and singing at local clubs, British military bases and in shows at Capitol Theatre or Odeon Theatre Katong. She was the winner of the “Singapore’s Millie Small” competition (Mille Small was a Jamaican singer best known for the 1964 hit “My Boy Lollipop”), which opened doors to other opportunities including recording deals under the Philips label. By the time she was 20, Veronica was performing extensively in Singapore, Malaysia and Borneo.&nbsp;
+This is what life in a war zone was like, as told by three musicians who experienced it: Veronica Young, Harris Hamzah and Steve Bala Siren. 
+
+#### **Veronica Young**
+
+She was a versatile singer, performing with many bands (such as the Silver Strings and The Quests) and singing at local clubs, British military bases and in shows at Capitol Theatre or Odeon Theatre Katong. She was the winner of the “Singapore’s Millie Small” competition (Mille Small was a Jamaican singer best known for the 1964 hit “My Boy Lollipop”), which opened doors to other opportunities including recording deals under the Philips label. By the time she was 20, Veronica was performing extensively in Singapore, Malaysia and Borneo.&nbsp;
 
 One day, she was approached by an agent about going to South Vietnam to play with local Malay band, the Impian Bateks. She jumped at the opportunity. “I was only concerned with singing, didn’t care or know much about what was happening around the world,” she said.&nbsp;
 
