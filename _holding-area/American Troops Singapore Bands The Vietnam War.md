@@ -29,6 +29,9 @@ This is what life in a war zone was like, as told by three musicians who experie
 
 Veronica Young got her break in 1964 at the age of 16 when she met prominent local musician Siva Choy. She was a versatile singer, performing with many bands (such as the Silver Strings and The Quests) and singing at local clubs, British military bases and in shows at Capitol Theatre or Odeon Theatre Katong. She was the winner of the “Singapore’s Millie Small” competition (Mille Small was a Jamaican singer best known for the 1964 hit “My Boy Lollipop”), which opened doors to other opportunities including recording deals under the Philips label. By the time she was 20, Veronica was performing extensively in Singapore, Malaysia and Borneo.
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image2.png)
+<div style="background-color: white;">Veronica Young was 16 when she first broke into the local music scene. <i>Courtesy of Veronica Young.</i></div>
+
 One day, she was approached by an agent about going to South Vietnam to play with local Malay band, the Impian Bateks. She jumped at the opportunity. “I was only concerned with singing, didn’t care or know much about what was happening around the world,” she said.
 
 Veronica flew to Saigon (Ho Chi Minh City today) with the Impian Bateks in 1969.[^1] Landing at Tan Son Nhat Airport, the grim reality hit her. She saw “\[a\] country that looked sad. War-torn. Soldiers everywhere… The situation was… like what we see in the movies”.
