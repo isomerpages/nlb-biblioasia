@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - American Troops Singapore Bands The Vietnam War.md
       - Testing My Skills.md
       - A Quick History of the Singapore Speedway.md
       - Test2.md
