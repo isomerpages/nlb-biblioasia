@@ -98,6 +98,9 @@ Harris described playing in Vietnam as “very challenging”. During the monsoo
 
 Steve Bala Siren was the founder and lead guitarist of the band Esquires. A Korean agent had offered the band US$2,000 per week for a six-month stint in Vietnam, along with half a million dollars of insurance money for their families in the event of death. The band, comprising Steve Bala Siren, Gilbert Louis (guitar), Charlie Sundaram (drums), Denys Logan (vocals) and Raymond Lazaroo (bass), agreed to go even though they had no idea what to expect. 
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10.png)
+<div style="background-color: white;">American GIs being entertained by the Esquires, 1969. <i>Courtesy of Steve Bala Siren.</i></div>
+
 The band arrived in May 1969 and Steve remembers the grim welcome of 50-millimetre gun turrets mounted on sandbags and signs of fresh skirmishes on the drive from the airport to Saigon. “There were gun turrets along the route, sandbags stacked,” he recalled. “Buildings were half-standing. The whole place was quiet and grayish.”
 
 For their first show, the Esquires flew to the US base in Cam Ranh Bay in a C130 Hercules. Upon arrival, Steve was assigned an M16 rifle and a .45 side revolver, and given a crash course on how to handle the weapons, change magazines and shoot.
