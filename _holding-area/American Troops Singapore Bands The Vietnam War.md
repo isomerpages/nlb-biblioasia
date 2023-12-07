@@ -113,6 +113,9 @@ Within 15 to 20 minutes, GIs appeared out of nowhere in camouflage – twigs and
 
 Danger was everywhere. During a show at a base in Chu Lai, bassist Raymond Lazaroo was playing just next to Steve and they both heard a sharp zipping sound cutting through between them. They looked at each other and turned back. In the wall behind them was a fresh bullet hole.
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image11.png)
+<div style="background-color: white;">From left: Raymond Lazaroo, Steve Bala Siren, Denys Logan and Charlie Sundaram. This photo of the Esquires performing was taken moments before a bullet zipped between Raymond and Steve, 1969. <i>Courtesy of Steve Bala Siren</i></div>
+
 Being ensconced in an American base did not mean that the performers were safer. Early one morning, Vietcong soldiers were spotted creeping around the barracks where the Esquires were staying. Sirens went off and the band was ordered to stay by their bunk beds. A fierce gunfight ensued. After the lockdown was lifted, they went to the mess hall for breakfast and saw the bloodied bodies of six Vietcong laid out on the floor.
 
 Steve had heard of other incidents too. “\[The Vietcong\] wiped out a whole Filipino band… they came into where \[the band\] was staying and took five boys and two girls,” he recalled. “All seven of them were shot dead. To the Vietcong, you are entertaining the GIs, so you’re just like the GIs. You are my enemy.” 
