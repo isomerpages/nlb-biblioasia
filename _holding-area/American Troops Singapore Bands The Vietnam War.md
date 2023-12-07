@@ -58,7 +58,7 @@ Once considered the Pearl of the Orient, Saigon had developed the reputation of 
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/ImageA.png)
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/ImageB.png)
-<div style="background-color: white;">In the Western Cwm with Lhoste dominating the far end of the valley. <i>Courtesy of David Lim.</i></div>
+<div style="background-color: white;">Saigon (Ho Chi Minh City today) developed a reputation as a Sin City during the war<i>. Illustrations courtesy of Boon Lai</i></div>
 
 “The \[US soldiers\] would talk to us,” said Harris. “Some of them would show us photographs of friends who were killed stepping on boobytraps and mines. Like them, we were also given \[dog\] tags to wear in case anything were to happen to us... Sometimes, when we boarded the transports, there would be someone there praying, as if we might not make it.”
 
