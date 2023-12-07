@@ -99,7 +99,7 @@ Now in their 70s, Veronica, Harris and Steve are still living out their passion 
 
 #### **Notes**
 
-[^1]: “‘Impian Bateks’ Akan Berhijrah Ka-Saigon,” _Berita Harian_, 13 July 1969, 12. (From NewspaperSG)&nbsp;
+[^1]: “[‘Impian Bateks’ Akan Berhijrah Ka-Saigon](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19690713-1.2.85),” _Berita Harian_, 13 July 1969, 12. (From NewspaperSG)&nbsp;
 
 [^2]: “Vietnam Through As ‘Breaking Ground’ Says Veronica,” _Straits Times_, 9 April 1971, 10. (From NewspaperSG)&nbsp;
 
