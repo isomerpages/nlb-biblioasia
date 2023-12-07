@@ -34,7 +34,13 @@ Veronica Young got her break in 1964 at the age of 16 when she met prominent loc
 
 One day, she was approached by an agent about going to South Vietnam to play with local Malay band, the Impian Bateks. She jumped at the opportunity. “I was only concerned with singing, didn’t care or know much about what was happening around the world,” she said.
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image3.png)
+<div style="background-color: white;">Veronica Young in South Vietnam, 1969. <i>Courtesy of Veronica Young.</i></div>
+
 Veronica flew to Saigon (Ho Chi Minh City today) with the Impian Bateks in 1969.[^1] Landing at Tan Son Nhat Airport, the grim reality hit her. She saw “\[a\] country that looked sad. War-torn. Soldiers everywhere… The situation was… like what we see in the movies”.
+
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image4.png)
+<div style="background-color: white;">Veronica Young and the Impian Bateks boarding the flight at Paya Lebar Airport to Vietnam, 1969. Harris Hamzah is on the extreme right. <i>Courtesy of Veronica Young.</i></div>
 
 A few days later, Veronica, the Impian Bateks, and two dancing girls (on occasion a Korean stripper would join them) started their tour. They went to American bases around then South Vietnam, such as Phu Bai, Phu Loi, Quang Tri, Chu Lai, Cam Ranh Bay, Da Nang. They travelled by road or air via army trucks, C130 planes CH-47 Chinooks and Huey helicopters, to and from the 10 major bases, to over 100 towns and military outposts throughout South Vietnam.
 
