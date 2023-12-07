@@ -56,6 +56,9 @@ Once, onboard a C130 Hercules airplane en route to their next gig, Veronica over
 
 On another occasion, this time in a helicopter, Veronica asked to sit next to the door gunner. Flying between Cam Ranh Bay and Da Nang, she asked if she could fire the mounted heavy M60 machine gun: “One shot?” She had to wait until they reached a clearing before the gunner gave her the go-ahead. He placed his hands on her and said, “But I gotta hold you.” She responded that she didn’t care what he did. “You can hold me or kiss me. Just let me shoot!” She pulled the trigger and bullets sprayed out in rapid fiery bursts, tearing through the air. The powerful recoil of the machine gun threw her violently back and she realised why the gunner had insisted on holding on to her.
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image3.png)
+<div style="background-color: white;">Veronica Young in South Vietnam, 1969. <i>Courtesy of Veronica Young.</i></div>
+
 But the realities and atrocities of war were unavoidable. Escorted by soldiers, Veronica remembers seeing signs of brutal confrontation as they passed underground tunnels, the sites of bloody fighting. “I’ll never forget it… Even now, talking about it, I have it in my vision. A dead body, covered in maggots.”
 
 Veronica returned home after her first tour and embarked on her second a little more than a year later in 1971. “Things \[were\] much \[more\] peaceful there than before. But the entertainment scene had also become poorer.”[^2] When asked if she would go for the third time, she replied that it was no longer worth it since the United States (US) were withdrawing its troops.
