@@ -44,6 +44,10 @@ Veronica flew to Saigon (Ho Chi Minh City today) with the Impian Bateks in 1969.
 
 A few days later, Veronica, the Impian Bateks, and two dancing girls (on occasion a Korean stripper would join them) started their tour. They went to American bases around then South Vietnam, such as Phu Bai, Phu Loi, Quang Tri, Chu Lai, Cam Ranh Bay, Da Nang. They travelled by road or air via army trucks, C130 planes CH-47 Chinooks and Huey helicopters, to and from the 10 major bases, to over 100 towns and military outposts throughout South Vietnam.
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image7.png)
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image8.png)
+<div style="background-color: white;">Veronica Young and the Impian Bateks riding a Chinook to their gig, 1969. <i>Courtesy of Veronica Young.</i></div>
+
 Veronica and the Impian Bateks were assigned a Filipino manager by their Korean agent. They played hundreds of gigs within the span of a few months. Their schedules were unpredictable and gruelling. “Sometimes, we had to leave in the morning and travel just to make a show at night,” she recalled. “Sometimes, it took us one to two days to get to the next destination.” She later discovered while they were receiving US$400 per month, the agents were getting US$400 per show.
 
 They performed indoors in clubs and mess halls and outdoors on makeshift stages. Conditions ranged from basic to downright poor. Sanitation was a major challenge. Female entertainers also attracted a lot of unwanted attention – shows often got wild, even with the military police present. Some soldiers would try to take advantage of the girls, even trying to sneak into their quarters. Friendly exchanges sometimes led to demands for sex or worse. 
