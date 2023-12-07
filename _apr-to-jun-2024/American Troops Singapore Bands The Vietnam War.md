@@ -101,9 +101,9 @@ Now in their 70s, Veronica, Harris and Steve are still living out their passion 
 
 [^1]: “[‘Impian Bateks’ Akan Berhijrah Ka-Saigon](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19690713-1.2.85),” _Berita Harian_, 13 July 1969, 12. (From NewspaperSG)&nbsp;
 
-[^2]: “Vietnam Through As ‘Breaking Ground’ Says Veronica,” _Straits Times_, 9 April 1971, 10. (From NewspaperSG)&nbsp;
+[^2]: “[Vietnam Through As ‘Breaking Ground’ Says Veronica](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710409-1.2.56),” _Straits Times_, 9 April 1971, 10. (From NewspaperSG)&nbsp;
 
-[^3]: “Penyani Pulang Rindukan Keluarga,” _Berita Harian_, 7 November 1969, 2. (From NewspaperSG)&nbsp;
+[^3]: “[Penyani Pulang Rindukan Keluarga](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19691107-1.2.17),” _Berita Harian_, 7 November 1969, 2. (From NewspaperSG)&nbsp;
 
 [^4]: “Da Nang Under Heavy Rocketing,” _Desert Sun_ 43, no. 29, 6 September 1969, https://cdnc.ucr.edu/?a=d&amp;d=DS19690906.2.3&amp;e=-------en--20--1--txt-txIN--------1.
 
