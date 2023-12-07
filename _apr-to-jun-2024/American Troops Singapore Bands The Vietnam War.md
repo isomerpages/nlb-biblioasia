@@ -82,9 +82,9 @@ Being ensconced in an American base did not mean that the performers were safer.
 
 Steve had heard of other incidents too. “\[The Vietcong\] wiped out a whole Filipino band… they came into where \[the band\] was staying and took five boys and two girls,” he recalled. “All seven of them were shot dead. To the Vietcong, you are entertaining the GIs, so you’re just like the GIs. You are my enemy.” &nbsp;
 
-Their worst experience was on 6 September 1969, when the band was in Da Nang at their agent’s villa called the Stone Elephant Villa. They had broken curfew and were outside when the shelling began after midnight. The band made a panicked run for their villa. Nearly 200 rockets pummelled Da Nang and nearby installations that night.4&nbsp;
+Their worst experience was on 6 September 1969, when the band was in Da Nang at their agent’s villa called the Stone Elephant Villa. They had broken curfew and were outside when the shelling began after midnight. The band made a panicked run for their villa. Nearly 200 rockets pummelled Da Nang and nearby installations that night.[^4]&nbsp;
 
-“When \[the rockets\] hit the ground, it was like millions of diamonds thrown up, right in front of us!” Reaching the villa, they hid under their metal beds. The onslaught persisted until dawn. In the end, 17 Vietnamese and three Americans were killed, with 23 Vietnamese and 120 Americans wounded.5&nbsp; &nbsp;
+“When \[the rockets\] hit the ground, it was like millions of diamonds thrown up, right in front of us!” Reaching the villa, they hid under their metal beds. The onslaught persisted until dawn. In the end, 17 Vietnamese and three Americans were killed, with 23 Vietnamese and 120 Americans wounded.[^5]&nbsp; &nbsp;
 
 By then, the Esquires had decided that they would not tempt fate further. They flew home in November 1969.&nbsp;
 
