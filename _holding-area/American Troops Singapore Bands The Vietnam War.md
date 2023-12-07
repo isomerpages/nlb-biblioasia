@@ -9,7 +9,7 @@ description: Lured by good money and adventure, local performers braved the
 #### Lured by good money and adventure, local performers braved the dangers of the Vietnam War to bring entertainment, escape and respite to war-weary American troops. 
 By Boon Lai
 
-<img style="width:80%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/western_cwm_new.png">
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image1.png)
 <div style="background-color: white;">The graphic novel series, <i>The Once &amp; Marvellous DKD</i>, was inspired by the accounts of local talents who entertained American GIs during the Vietnam War. <i>Illustrations courtesy of Boon Lai. </i></div>
 
 To most people in Singapore who lived through the period, the Vietnam War, which ended in 1975, is a distant memory, an event that largely did not touch their lives personally. While fierce fighting was taking place in the region, to many in Singapore at the time, the main face of the war was drunk soldiers on rest and recreation leave.
