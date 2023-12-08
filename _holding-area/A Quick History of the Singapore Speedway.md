@@ -128,7 +128,7 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 [^9]: “[The Home of Trophies](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300415-1.2.96),” _Malaya Tribune_, 15 April 1930, 17; “[Some Trophies](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300327-1.2.79),” _Malaya Tribune_, 27 March 1930, 10. (From NewspaperSG)
 
-[^10]: “Riders’ Club Gaining Members,” _Malaya Tribune_, 2 April 1930, 10 (From NewspaperSG); “Some Trophies.”&nbsp;
+[^10]: “[Riders’ Club Gaining Members](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300402-1.2.79),” _Malaya Tribune_, 2 April 1930, 10 (From NewspaperSG); “[Some Trophies](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300327-1.2.79).”
 
 [^11]: “Nearly Ready,” _Malaya Tribune_, 2 April 1930, 10. (From NewspaperSG)
 
