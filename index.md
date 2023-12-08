@@ -20,8 +20,8 @@ sections:
       title: The Story of Two Whales
       subtitle: BiblioAsia Reels
       id: infopic
-      description: "The skeleton of a blue whale was once the centrepiece of the
-        former Raffles Museum. What happened to it?  "
+      description: The skeleton of a blue whale was once the centrepiece of the former
+        Raffles Museum. What happened to it?
       button: Watch the Video
       url: /videos/reels/nature/
       image: "/images/Videos: BiblioAsia Reels/Whales.jpg"
