@@ -39,7 +39,7 @@ Here we see a succession of terms (in bold) that would surely baffle the non-loc
 
   <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/2008_01220.jpg" style="width: 75%;">
 
-<div style="background-color: white;">Cover of《新加坡屋顶下》(Xinjiapo Wuding Xia; Under Singapore's Roof) by Miao Xiu (1951). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;">Cover of《新加坡屋顶下》(Xinjiapo Wuding Xia; _Under Singapore's Roof_) by Miao Xiu (1951). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 On occasion, Cantonese and Hokkien were mixed within a single utterance. Miao Xiu’s book also features scenes where characters use different dialects in alternation, for example, when one person speaks in Cantonese and the other responds in Hokkien. This technique of code-switching creates a complex weave of different voices on the page, even though it also leads to a contrived linguistic style peculiar to the written form.<br>
 
@@ -53,7 +53,7 @@ Chinese writers were not alone in experimenting with the linguistic medium of th
 
   <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/wgw_mu_1950.jpg" style="width: 75%;">
 
-<div style="background-color: white;">Professor Wang Gungwu (pictured here in 1950) is the author of <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/pulse-malayan-literature-wang-gung-wu/"><i>Pulse</i></a>&nbsp;and a much-lauded scholar today. <i>Courtesy of Professor Wang Gungwu.</i></div>
+<div style="background-color: white;">Wang Gungwu (pictured here in 1950) is the author of <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/pulse-malayan-literature-wang-gung-wu/"><i>Pulse</i></a>&nbsp;and a much-lauded scholar today. <i>Courtesy of Professor Wang Gungwu.</i></div>
 
 The initiative championed by Wang and his contemporaries, dubbed EngMalChin, was an ambitious attempt to create a new literary language based on English but specifically Malayan in constitution. A portmanteau that conflates “English”, “Malay” and “Chinese”, the term “alludes to the way in which the English of a poem made room for Malay and Chinese words and phrases”.[^10] Most exemplary of this linguistic style is Wang’s poem “Ahmad”,[^11] particularly its penultimate stanza featuring code-mixing in English and Malay.
 
@@ -66,7 +66,7 @@ Can get lagi satu wife lah!<br>
 
 Insofar as the teaching and learning of English poetry in British Malaya very much subscribed to canonical classics à la T.S. Eliot and the like, the use of “Allah” (god in Islam), “Orang puteh” (white men) and “Can get lagi satu wife lah!” (Can get another wife lah!) would have been highly unusual for Wang’s readers. And therein lay the motivation for EngMalChin, specifically designed to invoke “plural imaginings of Malaya”.[^12]
 
-In a 1958 essay reflecting the ethos of EngMalChin, Wang reminisced that he and other student poets were “self-consciously Malayan” and were invested in the distinctiveness of English as it was used in Malaya: “What floored us was the illegitimate mixing of various languages; our stock example of this was ‘Itu stamp ta’ ada gum ta’ boleh stick-lah’ \[meaning “the stamp has no glue so it can’t stick”\]. What can we make of that? We could not even decide whether that was Malay with a few English words or English with a Malay syntax”.[^13]
+In a 1958 essay reflecting the ethos of EngMalChin, Wang reminisced that he and other student poets were “self-consciously Malayan” and were invested in the distinctiveness of English as it was used in Malaya: “What floored us was the illegitimate mixing of various languages; our stock example of this was ‘Itu stamp ta’ ada gum ta’ boleh stick-lah’ \[“the stamp has no glue so it can’t stick”\]. What can we make of that? We could not even decide whether that was Malay with a few English words or English with a Malay syntax”.[^13]
 
 EngMalChin therefore thrived on an ambivalence that ensued from the fusion of different tongues. It branded itself as a linguistic signature that distinguished Malayan English from British English. In a 1950 article published in the journal _Young Malayans_, Beda Lim, a contemporary of Wang’s, described Malayan English as a “champurised language”; “champurised” taking reference from the Malay word _champur,_ meaning “to mix”, creatively inflected into a past perfect form as if it were an English word.
 
