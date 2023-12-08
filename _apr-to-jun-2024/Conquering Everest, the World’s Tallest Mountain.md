@@ -15,7 +15,7 @@ Standing at 8,849 m (29,032 ft), the ascent up Everest[^1] requires years of pre
 
 In May 2023, Singaporean Shrinivas Sainis Dattatraya, 39, went missing during an attempt to climb Everest. He had reached the summit on 19 May but developed high-altitude cerebral edema and told his wife he was “unlikely to make it down the mountain”. Attempts to locate Shrinivas were unsuccessful and, in an Instagram post, his wife paid tribute to her husband noting that “…he lived fearlessly and to the fullest. He explored the depth of the sea and scaled the greatest heights of the Earth. And now, Shri is in the mountains, where he felt most at home.”[^3]
 
-<img style="width:80%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/western_cwm_new.png">
+<img style="width:85%;" src="/images/Online%20Only%20Articles/Conquer%20Tallest%20Mountain_12_23/enlarge_western_cwm.jpg">
 <div style="background-color: white;">In the Western Cwm with Lhoste dominating the far end of the valley. <i>Courtesy of David Lim.</i></div>
 
 This event comes 25 years after mountaineer and climber David Lim led the first Singapore expedition to successfully conquer Everest.[^4]  On 25 May 1998, Outward Bound Singapore instructor Edwin Siew became the first member from the team to reach the summit. He was followed by systems analyst Khoo Swee Chiow half an hour later. Lim himself did not make it to the summit due to an injury sustained during the climb.
