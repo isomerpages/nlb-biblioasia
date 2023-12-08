@@ -4,6 +4,7 @@ permalink: /vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/
 description: A grand piano that was to be the pride of Singapore failed to
   silence its critics. The odds, however, were always against it.
 image: /images/Vol 19 Issue 3/2 Grand Piano/hungarian-man.jpg
+variant: markdown
 ---
 #### A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it.
 By Bernard T.G. Tan
@@ -124,7 +125,7 @@ Theatre, which was undergoing major renovations. The theatre would be equipped w
 
 Before the new concert grand arrived, there were a number of major recitals at the Victoria Memorial Hall, such as those in March 1957 by the British pianist Irene Kohler. For her second recital, the *Straits Times* reported that she chose to use a small Steinway grand, perhaps loaned by Keller Piano, instead of the dreaded Chappell. Her only complaint was that the Steinway “had not been recently tuned”.[^37]
 
-#### **Chappell Bows out**
+#### **Chappell Bows Out**
 
 On 7 January 1958, the *Singapore Standard* reported that two Steinway pianos costing $22,000 had arrived from Hamburg. The grand piano was to be played for the first time on 10 January by Singapore pianist Gus Stein, the accompanist for the famed American harmonica player Larry Adler (whom I had been fortunate to hear at one of his many concerts in Singapore, possibly this very one).[^38]
 
@@ -207,7 +208,7 @@ For the repair process by Zhivko Girginov, click [here](https://biblioasia.nlb.g
 
 [^27]: “[Katchen on the Air Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550116-1.2.49),” _Straits Times_, 16 January 1955, 5. (From NewspaperSG)
 
-[^28]: “[A Singapore Surprise for Mr Katchen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550112-1.2.151)”, _Straits Times_, 12 January 1955, 8. (From Newspaper SG)
+[^28]: “[A Singapore Surprise for Mr Katchen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550112-1.2.151)”, _Straits Times_, 12 January 1955, 8. (From NewspaperSG)
 
 [^29]: Tinny Treble, “[Monument to a Blunder](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550121-1.2.140.6),” _Straits Times_, 21 January 1955, 8. (From NewspaperSG)
 
