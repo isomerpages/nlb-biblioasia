@@ -88,6 +88,11 @@ Speedway’s demise was likely due to a combination of factors. The public’s i
 
 The closure of the Speedway marked the end of dirt track bike racing in Singapore. In 1935, the _Malayan Tribune_ described the track as “disused and weed-grown”. The Speedway was demolished and eventually became part of Sennett Estate after construction began in 1951.[^26]
 
+
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image6.png) <br>
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image7.png)
+<div style="background-color: white;">A map of the area between Upper Serangoon Road and MacPherson Road shows the former Singapore Speedway – labelled “Old Speedway” in the 1938 map (left) – being replaced by the Sennett Estate in the 1953 map (right). <i>Survey Department Collection, courtesy of National Archives of Singapore.</i></div>
+
 There was one attempt to revive dirt track racing in Singapore. This time, an Australian group applied to the Singapore City Council in 1953 to hold dirt track midget car racing at Jalan Besar Stadium. However, the application was rejected on the grounds that dirt track racing would damage the football pitch.[^27]
 
 The next major motorcycle event held in Singapore was the Grand Prix, running from 1961 to 1973, which featured both car and motorcycle races.
@@ -100,22 +105,22 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/Yap_Jo_Lin.png">
 	<b>Boon Lai</b> is a content creator, author, illustrator and filmmaker based in Singapore. Inspired by the true accounts of the rockers who toured the Vietnam War, he created the three-book graphic novel series, The Once Marvellous DKD (dkdgraphicnovel.com). </div>
 
 #### **Notes**
 
-[^1]: Location derived from comparison of Survey Department, Singapore, _Survey Map of Singapore_, 1933, map. (From National Archives of Singapore accession no. SP002117)
+[^1]: Location derived from comparison of Survey Department, Singapore, [_Survey Map of Singapore_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8feb2b0-115c-11e3-83d5-0050568939ad), 1933, map. (From National Archives of Singapore accession no. SP002117)
 
-[^2]: “Dirt-Track Motor-Cycling,” _Straits Times_, 3 December 1928, 12. (From NewspaperSG)&nbsp;
+[^2]: “[Dirt-Track Motor-Cycling](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19281203-1.2.145),” _Straits Times_, 3 December 1928, 12. (From NewspaperSG)&nbsp;
 
-[^3]: “Speedway for Singapore,” _Straits Times_, 15 June 1929, 10. (From NewspaperSG)
+[^3]: “[Speedway for Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19290615-1.2.56),” _Straits Times_, 15 June 1929, 10. (From NewspaperSG)
 
 [^4]: “Keeps Speedway in the Spotlight,” _Mirror_ (Perth, Western Australia: 1921–1956), 9 November 1929, 9, http://nla.gov.au/nla.news-article76195192.&nbsp;
 
-[^5]: “Career of the Man Behind Successes in Car Racing,” _Malaya Tribune_, 14 April 1930, 19. (From NewspaperSG)
+[^5]: “[Career of the Man Behind Successes in Car Racing](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300414-1.2.124),” _Malaya Tribune_, 14 April 1930, 19. (From NewspaperSG)
 
-[^6]: “Speedway for Singapore. Dirt-Track Racing To Start Shortly,” _Singapore Budget_, 20 June 1929, 9; “The New Speedway,” _Malaya Tribune_, 1 March 1930, 10; “Singapore’s New Sport,” _Singapore Free Press and Mercantile Advertiser_, 8 March 1930, 20; “The New Speedway,” _Straits Times_, 24 February 1930, 13. (From NewspaperSG)
+[^6]: “[Speedway for Singapore. Dirt-Track Racing To Start Shortly](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19290620-1.2.35),” _Singapore Budget_, 20 June 1929, 9; “The New Speedway,” _Malaya Tribune_, 1 March 1930, 10; “Singapore’s New Sport,” _Singapore Free Press and Mercantile Advertiser_, 8 March 1930, 20; “The New Speedway,” _Straits Times_, 24 February 1930, 13. (From NewspaperSG)
 
 [^7]: “Dirt Track Speed Wizard Arrives,” _Singapore Free Press and Mercantile Advertiser_, 20 March 1930, 20; “More Riders Arriving,” _Malaya Tribune_, 26 March 1930, 10; “Passengers,” _Straits Budget_, 3 April 1930, 8. (From NewspaperSG)&nbsp;
 

@@ -166,7 +166,7 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 #### **Notes**
 
-[^1]: Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),” _Straits Times_, 29 May 1977, 2. (From NewspaperSG)
+[^1]: Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),” _Straits Times_, 29 May 1977, 22. (From NewspaperSG)
 
 [^2]: Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127).”
 
@@ -265,5 +265,3 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 [^49]: “[Choo Seng Quee Critically Ill](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830630-1.2.5.4.1?ST=1&amp;AT=search&amp;k=choo%20seng%20quee&amp;QT=choo,seng,quee&amp;oref=article),” _Singapore Monitor_, 30 June 1983, 4; “[Obituary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.119.1.aspx),” _Straits Times_, 1 July 1983, 44. (From NewspaperSG)
 
 [^50]: Jeffrey Low, “[A Beautiful Dreamer](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.141.1),” _Straits Times_, 1 July 1983, 47. (From NewspaperSG)
-
-
