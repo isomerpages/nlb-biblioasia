@@ -29,7 +29,6 @@ The Speedway was designed by Keys and Dowdeswell, a well-known architectural fir
 ![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image3.png)
 <div style="background-color: white;">Original plans drafted by Keys &amp; Dowdeswell in 1930 for the proposed Speedway. <i>Building Control Division Collection, courtesy of National Archives of Singapore.</i></div>
 
-
 The buildings at the Speedway included three octagonal ticket kiosks, a rectangular shed with seating for spectators, an enclosure for motorcyclists adjacent to the track, and men’s and women’s lavatories. There were two updates to the plans submitted for approval. The first was for the removal of a refreshment room with a bar counter, a “crush hall” or a foyer/reception area, and a manager’s office from the design. The changes might have been made to lower costs and/or accelerate the project’s completion. The second update was for additional seating along the racetrack.
 
 #### **Run-up to the Opening**
