@@ -112,7 +112,7 @@ Literary experimentations in that period have also left their imprint on our lin
 
 [^7]: Wen Renjun (Miao Xiu), “On Overseas Chinese Consciousness and the Uniqueness of Malayan Chinese,” _Sin Chew Jit Poh_, 28 February 1948. (Microfilm no. A01597329C)
 
-[^8]: Miao Xiu 苗秀, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13985821) \[Under Singapore's Roof\] (\[Xinjiapo\] \[新加坡\]: Nan yang yin shua she 南洋印刷社, 1951), 6. (Emphasis added). (From National Library, Singapore, call no. Chinese C813.4 MX)
+[^8]: Miao Xiu 苗秀, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13985821) \[Under Singapore's Roof\] (\[Xinjiapo\] \[新加坡\]: Nan yang yin shua she 南洋印刷社, 1951), 6. (Emphases added). (From National Library, Singapore, call no. Chinese C813.4 MX)
 
 [^9]: Li Wen 李文_,_ “Guanyu fangyan wenxue,” [關於方言文學](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19540707-1.2.35.2.1) \[About dialect literature\], _南洋商报 Nanyang Siang Pau,_ 7 July 1954, 8. (From NewspaperSG)
 
