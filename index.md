@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 3/10 Printing/Hero_img_early_printing.jpg
   - infopic:
+      title: The Story of Two Whales
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: The skeleton of a blue whale was once the centrepiece of the former
+        Raffles Museum. What happened to it?
+      button: Watch the Video
+      url: /videos/reels/nature/
+      image: "/images/Videos: BiblioAsia Reels/Whales.jpg"
+      alt: Image alt text
+  - infopic:
       title: "A Plethora of Tongues: Multilingualism in Malayan Writing"
       subtitle: Culture
       id: infopic
@@ -718,7 +728,7 @@ sections:
       subtitle: Places
       description: 面对数码时代和读者流失的挑战，新加坡的华文书店逆流生存。
       button: 两条书街，两座书城
-      url: /vol-18/issue-4/jan-mar-2023/postwar-Chinese-bookstores-Chinese-Text/
+      url: /vol-18/issue-4/jan-mar-2023/postwar-chinese-bookstores-chinese-text/
       image: /images/Vol 18 Issue 4/Chinese Bookstore/ChungHwaBooks.jpg
       alt: 大小坡两条书街
   - infopic:

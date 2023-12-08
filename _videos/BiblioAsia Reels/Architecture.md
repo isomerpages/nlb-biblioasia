@@ -12,6 +12,6 @@ third_nav_title: BiblioAsia Reels
 Located at 32 Binjai Park, the family home of the late architect Lee Kip Lin has stood the test of time with its simple and yet modern design. His wife, Mrs Lee Li-ming, shares some interesting features and characteristics of the house that was built in 1973.
 
 **Related article** <br>
-* [32 Binjai Park: The Modernist Home of An Architect](/vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/)
+* [How the Raffles Museum Got a Whale Skeleton, Made It Famous, Then Let It Go 60 Years Later](/vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/)
 
 <hr>
