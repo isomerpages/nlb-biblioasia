@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Example Title.md
       - A Quick History of the Singapore Speedway.md
       - American Troops Singapore Bands The Vietnam War.md
       - Testing My Skills.md
