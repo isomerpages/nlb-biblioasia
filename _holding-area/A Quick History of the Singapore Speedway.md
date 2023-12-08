@@ -112,9 +112,9 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 [^1]: Location derived from comparison of Survey Department, Singapore, [_Survey Map of Singapore_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8feb2b0-115c-11e3-83d5-0050568939ad), 1933, map. (From National Archives of Singapore accession no. SP002117)
 
-[^2]: “Dirt-Track Motor-Cycling,” _Straits Times_, 3 December 1928, 12. (From NewspaperSG)&nbsp;
+[^2]: “[Dirt-Track Motor-Cycling](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19281203-1.2.145),” _Straits Times_, 3 December 1928, 12. (From NewspaperSG)&nbsp;
 
-[^3]: “Speedway for Singapore,” _Straits Times_, 15 June 1929, 10. (From NewspaperSG)
+[^3]: “[Speedway for Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19290615-1.2.56),” _Straits Times_, 15 June 1929, 10. (From NewspaperSG)
 
 [^4]: “Keeps Speedway in the Spotlight,” _Mirror_ (Perth, Western Australia: 1921–1956), 9 November 1929, 9, http://nla.gov.au/nla.news-article76195192.&nbsp;
 
