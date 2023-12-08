@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Singapore Storytellers.md
-      - BiblioAsia Reels/Nature and the Environment.md
       - BiblioAsia Reels/.keep
       - BiblioAsia Reels/About the series.md
       - BiblioAsia Reels/Architecture.md
       - BiblioAsia Reels/Arts.md
+      - BiblioAsia Reels/Nature and the Environment.md
       - BiblioAsia Reels/War.md
       - From Book to Cook/.keep
       - From Book to Cook/About the Series.md
