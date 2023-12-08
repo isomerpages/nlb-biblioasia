@@ -126,7 +126,7 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 [^8]: “[Dirt Track Speed Wizard Arrives](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300320-1.2.126).”
 
-[^9]: “The Home of Trophies,” _Malaya Tribune_, 15 April 1930, 17; “Some Trophies,” _Malaya Tribune_, 27 March 1930, 10. (From NewspaperSG)
+[^9]: “[The Home of Trophies](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300415-1.2.96),” _Malaya Tribune_, 15 April 1930, 17; “[Some Trophies](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300327-1.2.79),” _Malaya Tribune_, 27 March 1930, 10. (From NewspaperSG)
 
 [^10]: “Riders’ Club Gaining Members,” _Malaya Tribune_, 2 April 1930, 10 (From NewspaperSG); “Some Trophies.”&nbsp;
 
