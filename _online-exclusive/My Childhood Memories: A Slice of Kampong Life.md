@@ -4,7 +4,8 @@ permalink: /places-and-buildings/2023/11/childhood-memories-kampong-wak-hassan/
 variant: markdown
 description: ""
 ---
-#### Kampong living reflects an idyllic bygone age, a time when life was much simpler.
+#### Kampong living reflects an idyllic bygone age, a time when life was much simpler.<br>
+(To read this in Chinese, click [here](https://biblioasia.nlb.gov.sg/places-and-buildings/2023/11/childhood-memories-kampong-wak-hassan-chinese/).)<br>
 By Ang Seow Leng
 
 ![](/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/grandfather_house.png)
