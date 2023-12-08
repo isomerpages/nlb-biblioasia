@@ -35,6 +35,9 @@ The buildings at the Speedway included three octagonal ticket kiosks, a rectangu
 
 As the inaugural race drew near, riders began arriving in Singapore, some of whom had travelled by ship.[^7] The star rider was Charles Datson. At the time, Datson had held the world two-mile record for three years and broken his own world record for the mile two years earlier in 1928.[^8]
 
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image5.png)
+<div style="background-color: white;">Charles Datson in an undated photo. He was declared the winner of the match against Sig Schlam held on 31 May 1930. Schlam’s motorcycle chain had snapped in the very first lap. <i>Courtesy of Australian Motorcycle News.</i></div>
+
 Each race day had two main events, each with a trophy – the Vernon Cup for amateur local riders and the Castrol Silver Gauntlet for professionals from further afield like England and Australia. While the Vernon Cup was meant for local racers, it also included riders from beyond Singapore and Malaya such as Sob Prasong from Thailand and Beppo Wahid from the Cocos Islands.
 
 The Castrol Silver Gauntlet was designed by local jewellers B.P. De Silva and sponsored by motor oil company Castrol.[^9] The Vernon Cup was sponsored by Francis Vernon, a member of the Speedway’s Riders’ Club that had been formed to bring together dirt bike enthusiasts who would serve as officials during the races.[^10]
