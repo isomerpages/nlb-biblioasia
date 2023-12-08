@@ -25,7 +25,7 @@ Construction of the Speedway started in February 1930 and was reported to have c
 
 The Speedway was designed by Keys and Dowdeswell, a well-known architectural firm in Singapore that had worked on Capitol Building and Capitol Theatre (both circa 1930). Founding partners Percy Hubert Keys and Frank Dowdeswell had been in government service when they designed the Fullerton Building in the late 1920s (now known as the Fullerton Hotel).
 
-![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image2.png)
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image2.png)<br>
 ![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image3.png)
 <div style="background-color: white;">Original plans drafted by Keys &amp; Dowdeswell in 1930 for the proposed Speedway. <i>Building Control Division Collection, courtesy of National Archives of Singapore.</i></div>
 
