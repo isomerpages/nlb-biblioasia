@@ -120,11 +120,11 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 [^5]: “[Career of the Man Behind Successes in Car Racing](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300414-1.2.124),” _Malaya Tribune_, 14 April 1930, 19. (From NewspaperSG)
 
-[^6]: “[Speedway for Singapore. Dirt-Track Racing To Start Shortly](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19290620-1.2.35),” _Singapore Budget_, 20 June 1929, 9; “The New Speedway,” _Malaya Tribune_, 1 March 1930, 10; “Singapore’s New Sport,” _Singapore Free Press and Mercantile Advertiser_, 8 March 1930, 20; “The New Speedway,” _Straits Times_, 24 February 1930, 13. (From NewspaperSG)
+[^6]: “[Speedway for Singapore. Dirt-Track Racing To Start Shortly](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19290620-1.2.35),” _Singapore Budget_, 20 June 1929, 9; “[The New Speedway](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300301-1.2.59),” _Malaya Tribune_, 1 March 1930, 10; “[Singapore’s New Sport](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300308-1.2.157),” _Singapore Free Press and Mercantile Advertiser_, 8 March 1930, 20; “[The New Speedway](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300224-1.2.99),” _Straits Times_, 24 February 1930, 13. (From NewspaperSG)
 
-[^7]: “Dirt Track Speed Wizard Arrives,” _Singapore Free Press and Mercantile Advertiser_, 20 March 1930, 20; “More Riders Arriving,” _Malaya Tribune_, 26 March 1930, 10; “Passengers,” _Straits Budget_, 3 April 1930, 8. (From NewspaperSG)&nbsp;
+[^7]: “[Dirt Track Speed Wizard Arrives](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300320-1.2.126),” _Singapore Free Press and Mercantile Advertiser_, 20 March 1930, 20; “[More Riders Arriving](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300326-1.2.78),” _Malaya Tribune_, 26 March 1930, 10; “[Passengers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19300403-1.2.24),” _Straits Budget_, 3 April 1930, 8. (From NewspaperSG)&nbsp;
 
-[^8]: “Dirt Track Speed Wizard Arrives.”
+[^8]: “[Dirt Track Speed Wizard Arrives](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300320-1.2.126).”
 
 [^9]: “The Home of Trophies,” _Malaya Tribune_, 15 April 1930, 17; “Some Trophies,” _Malaya Tribune_, 27 March 1930, 10. (From NewspaperSG)
 
