@@ -5,6 +5,7 @@ description: Uncle Choo masterminded Singapore’s famous Malaysia Cup victory i
   1977.  Four decades after his death, we remember his many contributions to the
   sport.
 image: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/chootears2.jpg
+variant: markdown
 ---
 #### Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in 1977. Four decades after his death, we remember his many contributions to the sport.
 By A. Thiyaga Raju and Gary Koh
@@ -165,21 +166,21 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 #### **Notes**
 
-[^1]: Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),” _Straits Times_, 29 May 1977. (From NewspaperSG)
+[^1]: Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),” _Straits Times_, 29 May 1977, 2. (From NewspaperSG)
 
 [^2]: Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127).”
 
-[^3]: “[Missed Place in Olympic XI](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490406-1.2.145),” _Singapore Free Press_, 6 April 1949, 10. (From Newspaper SG)
+[^3]: “[Missed Place in Olympic XI](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490406-1.2.145),” _Singapore Free Press_, 6 April 1949, 10. (From NewspaperSG)
 
-[^4]: Full Back, “[A Forecast for Senior League](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490319-1.2.111),” _Straits Times_, 19 March 1949, 12. (From Newspaper SG)
+[^4]: Full Back, “[A Forecast for Senior League](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490319-1.2.111),” _Straits Times_, 19 March 1949, 12. (From NewspaperSG)
 
-[^5]: “Nimrod”, “[Singapore Training for Malaya Cup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360508-1.2.113)”, _Singapore Free Press and Mercantile Advertiser_, 8 May 1936, 16. (From Newspaper SG)
+[^5]: “Nimrod”, “[Singapore Training for Malaya Cup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360508-1.2.113)”, _Singapore Free Press and Mercantile Advertiser_, 8 May 1936, 16. (From NewspaperSG)
 
-[^6]: “[Knock-knock, Enter Koh](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750718-1.2.20.1.1),” _New Nation_, 18 July 1975, 10–11. (From Newspaper SG)
+[^6]: “[Knock-knock, Enter Koh](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750718-1.2.20.1.1),” _New Nation_, 18 July 1975, 10–11. (From NewspaperSG)
 
-[^7]: “[Singapore Man Chosen for Olympic Selection](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390803-1.2.67),” _Malaya Tribune_, 3 August 1939, 12. (From Newspaper SG)
+[^7]: “[Singapore Man Chosen for Olympic Selection](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19390803-1.2.67),” _Malaya Tribune_, 3 August 1939, 12. (From NewspaperSG)
 
-[^8]: “[S’pore Soccer’s Biggest Rush for Players Is On](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480224-1.2.85),” _Malaya Tribune_, 24 February 1948, 7; “[S.A.F.A. Coach Has Plan for Victory](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490318-1.2.84),” _Straits Times_, 18 March 1949, 8. (From Newspaper SG)
+[^8]: “[S’pore Soccer’s Biggest Rush for Players Is On](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480224-1.2.85),” _Malaya Tribune_, 24 February 1948, 7; “[S.A.F.A. Coach Has Plan for Victory](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490318-1.2.84),” _Straits Times_, 18 March 1949, 8. (From NewspaperSG)
 
 [^9]: “Uncle Choo dan Latihan Fisik Timnas Era 1950-an,” Detikcom, 19 March 2013, https://sport.detik.com/sepakbola/pandit/d-2197914/uncle-choo-dan-latihan-fisik-timnas-era-1950-an.
 
@@ -203,11 +204,11 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 [^19]: “[Out…](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810108-1.2.108.3),” _Straits Times_, 8 January 1981, 31. (From NewspaperSG)
 
-[^20]: “[Schoolboy Star](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520303-1.2.149?qt=choo,%20seng,%20quee,%20charlie,%20chan&amp;q=choo%20seng%20quee%20charlie%20chan),” _Straits Times_, 3 March 1952, 12; Herman Rappa, “[Our 1955 Soccer Stars Have Started Training](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19500707-1.2.140),” _Singapore Standard_, 7 July 1950, 11. (From Newspaper SG)
+[^20]: “[Schoolboy Star](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520303-1.2.149?qt=choo,%20seng,%20quee,%20charlie,%20chan&amp;q=choo%20seng%20quee%20charlie%20chan),” _Straits Times_, 3 March 1952, 12; Herman Rappa, “[Our 1955 Soccer Stars Have Started Training](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19500707-1.2.140),” _Singapore Standard_, 7 July 1950, 11. (From NewspaperSG)
 
-[^21]: “[Soccerites May Be Champions Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540817-1.2.169),” _Straits Times_, 17 August 1954, 14. (From Newspaper SG)
+[^21]: “[Soccerites May Be Champions Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540817-1.2.169),” _Straits Times_, 17 August 1954, 14. (From NewspaperSG)
 
-[^22]: “[Only 15, But They Are Good Enough for Div. 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19570227-1.2.62),” _Singapore Free Press_, 27 February 1957, 14. (From Newspaper SG)
+[^22]: “[Only 15, But They Are Good Enough for Div. 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19570227-1.2.62),” _Singapore Free Press_, 27 February 1957, 14. (From NewspaperSG)
 
 [^23]: R. Suriamurthi, interview, 30 November 2021.
 
@@ -225,29 +226,29 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 [^30]: A. Thiyaga Raju, [_ROAR: Football Legends of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205824750), 93.
 
-[^31]: Philip Tan and Terry Ang, “[FAS Takes Back Seng Quee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760902-1.2.5),” _New Nation_, 2 September 1976, 1. (From Newspaper SG)
+[^31]: Philip Tan and Terry Ang, “[FAS Takes Back Seng Quee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760902-1.2.5),” _New Nation_, 2 September 1976, 1. (From NewspaperSG)
 
-[^32]:&nbsp;Jeffrey Low, “[Where Will It All End?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710630-1.2.71.2),” _New Nation_, 30 June 1971, 13. (From Newspaper SG)
+[^32]:&nbsp;Jeffrey Low, “[Where Will It All End?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710630-1.2.71.2),” _New Nation_, 30 June 1971, 13. (From NewspaperSG)
 
 [^33]: Quah Kim Song, interview, 21 June 2022.
 
-[^34]: Joe Dorai, “[How ‘Uncle’ Planned the M-Cup Coup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770605-1.2.100),” _Straits Times_, 5 June 1977, 24. (From Newspaper SG)
+[^34]: Joe Dorai, “[How ‘Uncle’ Planned the M-Cup Coup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770605-1.2.100),” _Straits Times_, 5 June 1977, 24. (From NewspaperSG)
 
 [^35]: Dorai, “[How ‘Uncle’ Planned the M-Cup Coup](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770605-1.2.100).”
 
-[^36]: Quah Kim Song, “[The Story Behind the Miracle](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770410-1.2.112),” _New Nation_, 10 April 1977, 32. (From Newspaper SG)
+[^36]: Quah Kim Song, “[The Story Behind the Miracle](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770410-1.2.112),” _New Nation_, 10 April 1977, 32. (From NewspaperSG)
 
 [^37]: Quah, “[The Story Behind the Miracle](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770410-1.2.112).”
 
 [^38]: Ko Po Hui, “Thankfully, Fans Did Not Have Their Way,” Bolasepako, 25 April 2022, https://www.bolasepako.com/2010/04/if-fans-got-their-way.html.
 
-[^39]: Joe Dorai, “[Fans Petition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761216-1.2.107),” _Straits Times_, 16 December 1976, 23. (From Newspaper SG)
+[^39]: Joe Dorai, “[Fans Petition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761216-1.2.107),” _Straits Times_, 16 December 1976, 23. (From NewspaperSG)
 
 [^40]: Joe Dorai, “[Fans Petition](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761216-1.2.107).”
 
 [^41]: “World Cup 1978 Qualifications”, The Rec.Sport.Soccer Statistics Foundation, last accessed 5 July 2023, https://www.rsssf.org/tables/78qual.html.
 
-[^42]: Percy Senevirante, “[S’pore Go Down Fighting](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770313-1.2.97),” _Straits Times_, 13 March 1977, 28. (From Newspaper SG)
+[^42]: Percy Senevirante, “[S’pore Go Down Fighting](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770313-1.2.97),” _Straits Times_, 13 March 1977, 28. (From NewspaperSG)
 
 [^43]: Dharsan Singh and Wilfred Yeo, “[Seng Quee in High Spirits](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770908-1.2.130),” _Straits Times_, 8 September 1977, 31. (From NewspaperSG)
 
@@ -255,12 +256,14 @@ Choo finally retired from coaching in January 1981.[^48] When he died on 30 June
 
 [^45]: Joe Dorai, “[Uncle Choo Has a March Date](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780102-1.2.115.3),” _Straits Times_, 2 January 1978, 23. (From NewspaperSG)
 
-[^46]: Philip Tan, “[Uncle Decides to Make Comeback](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790117-1.2.78.14),” _New Nation_, 17 January 1979, 18; Jeffrey Low, “[Honorable Draw](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800501-1.2.79),” _New Nation_, 1 May 1980, 17. (From Newspaper SG)
+[^46]: Philip Tan, “[Uncle Decides to Make Comeback](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19790117-1.2.78.14),” _New Nation_, 17 January 1979, 18; Jeffrey Low, “[Honorable Draw](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800501-1.2.79),” _New Nation_, 1 May 1980, 17. (From NewspaperSG)
 
-[^47]: Suresh Nair, “[Gold Medal for Seng Quee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800416-1.2.79),” _New Nation_, 16 April 1980, 18; Philip Tan and Suresh Nair, “[The Big Three](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780301-1.2.80.18),” _New Nation_, 1 March 1978, 18; Joe Dorai, “[S’pore Honours Ganesan, Choo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780809-1.2.99.1),” _Straits Times_, 9 August 1978, 25. (From Newspaper SG)
+[^47]: Suresh Nair, “[Gold Medal for Seng Quee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800416-1.2.79),” _New Nation_, 16 April 1980, 18; Philip Tan and Suresh Nair, “[The Big Three](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780301-1.2.80.18),” _New Nation_, 1 March 1978, 18; Joe Dorai, “[S’pore Honours Ganesan, Choo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780809-1.2.99.1),” _Straits Times_, 9 August 1978, 25. (From NewspaperSG)
 
 [^48]: [Uncle (‘I Hate Football’) Choo Calls It a Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810108-1.2.61.9),” _New Nation_, 8 January 1981, 17. (From NewspapeSG)
 
 [^49]: “[Choo Seng Quee Critically Ill](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830630-1.2.5.4.1?ST=1&amp;AT=search&amp;k=choo%20seng%20quee&amp;QT=choo,seng,quee&amp;oref=article),” _Singapore Monitor_, 30 June 1983, 4; “[Obituary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.119.1.aspx),” _Straits Times_, 1 July 1983, 44. (From NewspaperSG)
 
-[^50]: Jeffrey Low, “[A Beautiful Dreamer](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.141.1),” _Straits Times_, 1 July 1983, 47. (From Newspaper SG)
+[^50]: Jeffrey Low, “[A Beautiful Dreamer](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830701-1.2.141.1),” _Straits Times_, 1 July 1983, 47. (From NewspaperSG)
+
+
