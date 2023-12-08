@@ -46,6 +46,9 @@ To raise the profile of dirt track racing in Singapore, Speedway organisers disp
 Five days before the grand opening, the _Malaya Tribune_  
 carried a three-page story about the Speedway. Besides running profiles of the races and race organiser A.J. Reynolds, they also featured articles about the companies and brands involved in the event. These included beverages produced by Phoenix Aerated Water Works Factory, and Osram lights installed by General Electric. There was even an entire article devoted to the Speedway’s lavatory arrangements (organisers had apparently been wondering how to cater for the huge numbers expected until prominent Eurasian contractor G.R. Oehlers stepped in with some sanitary solutions).[^13]
 
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image4.png)
+<div style="background-color: white;">The Singapore Speedway advertising the match between Charles Datson, Singapore’s champion, and Sig Schlam, Western Australia’s “most fearless” rider. The men will compete in a special four-lap match. <i>Image reproduced from “To-Night at Singapore Speedway,” Singapore Free Press and Mercantile Advertiser, 24 May 1930, 9. (From NewspaperSG).</i></div>
+
 #### **Race Highlights**
 
 The inaugural race day was on the eve of Easter Sunday, 19 April 1930. Ticket prices ranged from 20 cents to $2.50. The $2.50 seats were in a special section with reserved seating. Grandstand tickets were priced at $2, followed by first-class tickets at $1, second-class at 50 cents and third-class at 20 cents. A large crowd turned up that day, including a number of cars from “up-country”, indicating that people had driven all the way from the Malay Peninsula to watch the races.[^14] Encouraged by the turn out, organisers added another 5,000 seats in the $1 and 50-cent sections ahead of the second race on 26 April.
