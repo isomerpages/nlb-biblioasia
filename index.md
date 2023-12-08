@@ -946,7 +946,7 @@ sections:
       description: "The skeleton of a blue whale was once the centrepiece of the
         former Raffles Museum. What happened to it?  "
       button: Watch the Video
-      url: https://biblioasia.nlb.gov.sg/videos/reels/nature/
+      url: /videos/reels/nature/
       image: "/images/Videos: BiblioAsia Reels/Whales.jpg"
       alt: Image alt text
 ---
