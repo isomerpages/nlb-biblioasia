@@ -118,7 +118,7 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 [^4]: “Keeps Speedway in the Spotlight,” _Mirror_ (Perth, Western Australia: 1921–1956), 9 November 1929, 9, http://nla.gov.au/nla.news-article76195192.&nbsp;
 
-[^5]: “Career of the Man Behind Successes in Car Racing,” _Malaya Tribune_, 14 April 1930, 19. (From NewspaperSG)
+[^5]: “[Career of the Man Behind Successes in Car Racing](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300414-1.2.124),” _Malaya Tribune_, 14 April 1930, 19. (From NewspaperSG)
 
 [^6]: “Speedway for Singapore. Dirt-Track Racing To Start Shortly,” _Singapore Budget_, 20 June 1929, 9; “The New Speedway,” _Malaya Tribune_, 1 March 1930, 10; “Singapore’s New Sport,” _Singapore Free Press and Mercantile Advertiser_, 8 March 1930, 20; “The New Speedway,” _Straits Times_, 24 February 1930, 13. (From NewspaperSG)
 
