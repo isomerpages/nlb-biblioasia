@@ -105,7 +105,7 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/Yap_Jo_Lin.png">
 	<b>Boon Lai</b> is a content creator, author, illustrator and filmmaker based in Singapore. Inspired by the true accounts of the rockers who toured the Vietnam War, he created the three-book graphic novel series, The Once Marvellous DKD (dkdgraphicnovel.com). </div>
 
 #### **Notes**
