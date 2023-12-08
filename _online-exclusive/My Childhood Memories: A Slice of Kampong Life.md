@@ -120,7 +120,7 @@ In the past, people lived near the sea for their livelihood. Today, living by th
 
 [^2]: “[Sembawang Park to Occupy 10 Hectares](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790508-1.2.53),” _Straits Times_, 8 May 1979, 9. (From NewspaperSG)
 
-[^3]: “[Land Acquisition Act Is Enforced](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1f669eff-bc82-49d1-a27c-2624e4cab8c6),” National Library Online, accessed 1 November 2023..
+[^3]: “[Land Acquisition Act Is Enforced](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1f669eff-bc82-49d1-a27c-2624e4cab8c6),” National Library Online, accessed 1 November 2023.
 
 [^4]: [_Singapore_](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183594) (Singapore: Ministry of Information and The Arts, 1998), 187. (From National Library, Singapore, call no. RSING 959.57 SIN)
 
