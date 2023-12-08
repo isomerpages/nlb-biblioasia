@@ -10,8 +10,8 @@ By Yap Jo Lin
 
 Before the bright lights, glitz, glamour and celebrity of the Formula One Singapore night race, there was the Singapore Grand Prix (which started in 1961). But 30 years before that, speedsters and curious locals alike were privy to the thrills and spills of motorcycle racing at a specially constructed dirt track called the Singapore Speedway.
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image1.png)
-<div style="background-color: white;">The graphic novel series, <i>The Once Marvellous DKD</i>, was inspired by the accounts of local talents who entertained American GIs during the Vietnam War. <i>Illustrations courtesy of Boon Lai. </i></div>
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image1.png)
+<div style="background-color: white;">Sketch of Speedway managing director A.J. Reynolds. <i>Image reproduced from “Career of the Man Behind Successes in Car Racing,” Malaya Tribune, 14 April 1930, 19. (From NewspaperSG). </i></div>
 
 The Speedway had a very short life. It hosted just six races from April to June 1930 before its closure, but it marks an interesting chapter in Singapore’s motor-racing history. It was located at Alkaff Avenue, near the junction of MacPherson and Upper Serangoon roads, roughly where Sennett Estate is today,[^1] and next to Alkaff Lake Gardens, which had opened a year earlier in 1929.
 
@@ -25,11 +25,18 @@ Construction of the Speedway started in February 1930 and was reported to have c
 
 The Speedway was designed by Keys and Dowdeswell, a well-known architectural firm in Singapore that had worked on Capitol Building and Capitol Theatre (both circa 1930). Founding partners Percy Hubert Keys and Frank Dowdeswell had been in government service when they designed the Fullerton Building in the late 1920s (now known as the Fullerton Hotel).
 
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image2.png)<br>
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image3.png)
+<div style="background-color: white;">Original plans drafted by Keys &amp; Dowdeswell in 1930 for the proposed Speedway. <i>Building Control Division Collection, courtesy of National Archives of Singapore.</i></div>
+
 The buildings at the Speedway included three octagonal ticket kiosks, a rectangular shed with seating for spectators, an enclosure for motorcyclists adjacent to the track, and men’s and women’s lavatories. There were two updates to the plans submitted for approval. The first was for the removal of a refreshment room with a bar counter, a “crush hall” or a foyer/reception area, and a manager’s office from the design. The changes might have been made to lower costs and/or accelerate the project’s completion. The second update was for additional seating along the racetrack.
 
 #### **Run-up to the Opening**
 
 As the inaugural race drew near, riders began arriving in Singapore, some of whom had travelled by ship.[^7] The star rider was Charles Datson. At the time, Datson had held the world two-mile record for three years and broken his own world record for the mile two years earlier in 1928.[^8]
+
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image5.png)
+<div style="background-color: white;">Charles Datson in an undated photo. He was declared the winner of the match against Sig Schlam held on 31 May 1930. Schlam’s motorcycle chain had snapped in the very first lap. <i>Courtesy of Australian Motorcycle News.</i></div>
 
 Each race day had two main events, each with a trophy – the Vernon Cup for amateur local riders and the Castrol Silver Gauntlet for professionals from further afield like England and Australia. While the Vernon Cup was meant for local racers, it also included riders from beyond Singapore and Malaya such as Sob Prasong from Thailand and Beppo Wahid from the Cocos Islands.
 
@@ -41,6 +48,9 @@ To raise the profile of dirt track racing in Singapore, Speedway organisers disp
 
 Five days before the grand opening, the _Malaya Tribune_  
 carried a three-page story about the Speedway. Besides running profiles of the races and race organiser A.J. Reynolds, they also featured articles about the companies and brands involved in the event. These included beverages produced by Phoenix Aerated Water Works Factory, and Osram lights installed by General Electric. There was even an entire article devoted to the Speedway’s lavatory arrangements (organisers had apparently been wondering how to cater for the huge numbers expected until prominent Eurasian contractor G.R. Oehlers stepped in with some sanitary solutions).[^13]
+
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image4.png)
+<div style="background-color: white;">The Singapore Speedway advertising the match between Charles Datson, Singapore’s champion, and Sig Schlam, Western Australia’s “most fearless” rider. The men will compete in a special four-lap match. <i>Image reproduced from “To-Night at Singapore Speedway,” Singapore Free Press and Mercantile Advertiser, 24 May 1930, 9. (From NewspaperSG).</i></div>
 
 #### **Race Highlights**
 

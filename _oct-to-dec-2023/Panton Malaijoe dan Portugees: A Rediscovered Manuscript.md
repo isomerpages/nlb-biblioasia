@@ -5,6 +5,7 @@ description: A forgotten manuscript found in the archive of a Portuguese museum
   offers an insight into the languages and traditions of a unique community in
   the Dutch East Indies.
 image: /images/Vol 19 Issue 3/5 Panton/image1.png
+variant: markdown
 ---
 #### A forgotten manuscript found in the archive of a Portuguese museum offers insights into the languages and traditions of a unique community in the Dutch East Indies.  
 By Hugo C. Cardoso
@@ -50,7 +51,7 @@ Vasconcelos was a leading figure in Portugal’s academic scene of the early 20t
 One of those manuscripts is *Panton Malaijoe dan Portugees*, but this was not confirmed until 2018 when Ivo Castro, a fellow professor at the University of Lisbon, and the MNA’s librarian, Lívia Coito, stumbled across it while rifling through a number of boxes in the archive.[^6] Aware of the history of the manuscript and of its scientific value, Castro shared the news with me and we invited three other specialists – Alan Baxter, Alexander Adelaar and Gijs Koster – to collaborate in a comprehensive study of the manuscript. Over the following three to four years, the team worked jointly and finally published *Livro de Pantuns* (*Book of Pantuns*), a bilingual (Portuguese and English) book dedicated to the manuscript.
 
 ![](/images/Vol%2019%20Issue%203/5%20Panton/image3.png)
-<div style="background-color: white;">Ivo Castro, Hugo C. Cardoso, Alan Baxter, Alexander Adelaar and Gijs Koster, eds., <i>Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa | Book of Pantuns: An Asian Manuscript of the National Museum of Archeology, Lisbon</i> (Lisbon: Imprensa Nacional, 2022). (From National Library, Singapore, call no. RSEA 899.281 CAS). </div>
+<div style="background-color: white;">Ivo Castro, Hugo C. Cardoso, Alan Baxter, Alexander Adelaar and Gijs Koster, eds., <i>Livro de Pantuns: Um Manuscrito Asiático do Museu Nacional de Arqueologia, Lisboa | Book of Pantuns: An Asian Manuscript of the National Museum of Archeology, Lisbon (Lisbon: Imprensa Nacional, 2022). (From National Library, Singapore, call no. RSEA 899.281 CAS).</i> </div>
 
 The core of *Livro de Pantuns* consists of an edition of the manuscript with a transcription of its contents (plus, in the case of the Malay texts, a proposed textual reconstruction and a version in modern Bahasa Indonesia). It also has proposed translations into Portuguese and English, with comprehensive footnotes containing commentaries about the manuscript and the authors’ analyses. The book also includes a full facsimile reproduction of the manuscript and four chapters in which the five authors explore various aspects of the document – namely the history and materiality of the manuscript, as well as the linguistic and literary characteristics of the Malay pantun and the Portuguese Creole *cantigas* (a Portuguese term for “song”).
 

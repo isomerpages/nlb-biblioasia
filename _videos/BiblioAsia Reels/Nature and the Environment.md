@@ -14,7 +14,8 @@ The skeleton of a blue whale was once the centrepiece of the former Raffles Muse
 Another whale skeleton, that of an adult female sperm whale, is currently on display at the Lee Kong Chian Natural History Museum. The whale carcass was found drifting off the coast of Jurong Island in July 2015. 
 
 **Related article** <br>
-* [32 Binjai Park: The Modernist Home of An Architect](/vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/)
+* [How the Raffles Museum Got a Whale Skeleton, Made It Famous, Then Let It Go 60 Years Later](/vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/)
+
 
 
 <hr>

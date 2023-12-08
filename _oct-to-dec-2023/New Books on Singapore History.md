@@ -2,6 +2,7 @@
 title: New Books on Singapore History
 permalink: /vol-19/issue-3/oct-dec-2023/new-books-singapore-history/
 description: ""
+variant: markdown
 ---
 #### **[Imagining Singapore: Pictorial Photography from the 1950s to the 1970s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206080449)**
 
@@ -23,7 +24,7 @@ Call no.: RSING 327.5957 ANG
 
 ![](/images/Vol%2019%20Issue%203/9%20New%20Books/book_2.png)
 
-This books covers the history of Singapore’s approach to diplomacy, defence and security from 1965 through to the 2020s. It shows how the concept of grand strategy applies to small states like Singapore, which integrates different diplomatic, political and defence-oriented tools.
+This book covers the history of Singapore’s approach to diplomacy, defence and security from 1965 through to the 2020s. It shows how the concept of grand strategy applies to small states like Singapore, which integrates different diplomatic, political and defence-oriented tools.
 
 #### **[The Price of Being Fair: The FairPrice Group Story](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206063623)**
 
