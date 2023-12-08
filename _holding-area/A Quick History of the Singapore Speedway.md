@@ -10,7 +10,7 @@ By Yap Jo Lin
 
 Before the bright lights, glitz, glamour and celebrity of the Formula One Singapore night race, there was the Singapore Grand Prix (which started in 1961). But 30 years before that, speedsters and curious locals alike were privy to the thrills and spills of motorcycle racing at a specially constructed dirt track called the Singapore Speedway.
 
-The Speedway had a very short life. It hosted just six races from April to June 1930 before its closure, but it marks an interesting chapter in Singapore’s motor-racing history. It was located at Alkaff Avenue, near the junction of MacPherson and Upper Serangoon roads, roughly where Sennett Estate is today,1 and next to Alkaff Lake Gardens, which had opened a year earlier in 1929. 
+The Speedway had a very short life. It hosted just six races from April to June 1930 before its closure, but it marks an interesting chapter in Singapore’s motor-racing history. It was located at Alkaff Avenue, near the junction of MacPherson and Upper Serangoon roads, roughly where Sennett Estate is today,1 and next to Alkaff Lake Gardens, which had opened a year earlier in 1929.&nbsp;
 
 News of the Speedway first broke on 3 December 1928, when the _Straits Times_ reported that Australian promoter F. Heron Pitcher was in town to set up a company, Singapore Speedway Limited, and that efforts were underway to identify a site.2 Pitcher claimed to have “ample evidence” that dirt track racing would have wide and universal appeal in Singapore. “I have no doubt that once the people see the races they will want more,” he said. “Besides having some of the greatest experts of the dirt track in the world performing on the Singapore track, opportunities will be given for local amateurs and professionals to race, for which trophies and cash prizes will be given.”3
 
@@ -20,7 +20,7 @@ In the months leading up to the Speedway’s debut, another Australian came on b
 
 Construction of the Speedway started in February 1930 and was reported to have cost $40,000. It was spread out over 11.5 acres with an initial planned capacity of 5,000 spectators. The racetrack was 440 yards (402 m) long and 8 inches (20 cm) thick. According to the _Singapore Free Press and Mercantile Advertiser_, the track comprised “a mixture of sand, cinders, decomposed granite, loam soil and screen \[granite powder\] and saturated with water, rendering it completely dustless”.6
 
-The Speedway was designed by Keys and Dowdeswell, a well-known architectural firm in Singapore that had worked on Capitol Building and Capitol Theatre (both circa 1930). Founding partners Percy Hubert Keys and Frank Dowdeswell had been in government service when they designed the Fullerton Building in the late 1920s (now known as the Fullerton Hotel). 
+The Speedway was designed by Keys and Dowdeswell, a well-known architectural firm in Singapore that had worked on Capitol Building and Capitol Theatre (both circa 1930). Founding partners Percy Hubert Keys and Frank Dowdeswell had been in government service when they designed the Fullerton Building in the late 1920s (now known as the Fullerton Hotel).&nbsp;
 
 The buildings at the Speedway included three octagonal ticket kiosks, a rectangular shed with seating for spectators, an enclosure for motorcyclists adjacent to the track, and men’s and women’s lavatories. There were two updates to the plans submitted for approval. The first was for the removal of a refreshment room with a bar counter, a “crush hall” or a foyer/reception area, and a manager’s office from the design. The changes might have been made to lower costs and/or accelerate the project’s completion. The second update was for additional seating along the racetrack.
 
@@ -48,9 +48,9 @@ Inclement weather saw the postponement of the third race from Saturday 3 May 193
 
 As exciting as it was, there was more drama off the track than on it. During the race, Reynolds was arrested on gambling charges. Each race programme had a unique number printed on it and it was declared that the holder of a randomly selected programme number would receive a $20 Robinson’s voucher. This was, in essence, a lottery. Reynolds pled guilty but his lawyer said Reynolds had only been trying to “encourage patrons” rather than promote gambling. Reynolds eventually received a nominal fine of $1.16
 
-Rain once again saw the postponement of the fourth and fifth races. The highlight of the fifth race (held on 31 May 1930) was a hotly anticipated matchup between racing stars Charles Datson and Sig Schlam. Datson was going into the match holding the world two-mile record, while Schlam held the four- and five-mile records at Claremont Speedway in Western Australia. The race was advertised as a personal challenge from Schlam with a bold promise that “both are confident of victory”. 
+Rain once again saw the postponement of the fourth and fifth races. The highlight of the fifth race (held on 31 May 1930) was a hotly anticipated matchup between racing stars Charles Datson and Sig Schlam. Datson was going into the match holding the world two-mile record, while Schlam held the four- and five-mile records at Claremont Speedway in Western Australia. The race was advertised as a personal challenge from Schlam with a bold promise that “both are confident of victory”.&nbsp;
 
-Unfortunately for Schlam, his motorcycle chain snapped in the very first lap. This meant he was out of the race as the rules stated that once the race had begun, whoever finished the four-lap course first would take the prize. Race organisers decided not to call for a rematch and declared Datson the winner. Datson finished the course at his leisure and spectators made known their disappointment at the anticlimactic race by “heckling” and “doing their utmost to create a stir”.17  
+Unfortunately for Schlam, his motorcycle chain snapped in the very first lap. This meant he was out of the race as the rules stated that once the race had begun, whoever finished the four-lap course first would take the prize. Race organisers decided not to call for a rematch and declared Datson the winner. Datson finished the course at his leisure and spectators made known their disappointment at the anticlimactic race by “heckling” and “doing their utmost to create a stir”.17 &nbsp;
 
 #### **The End of Racing**
 
@@ -65,22 +65,31 @@ What followed was a string of bad news for the Speedway. In an open letter publi
 On 21 June 1930, the _Singapore Free Press_ revealed that the Speedway had $9,000 in liabilities and almost no assets.22 In a letter to the Western Australian newspaper, _The Daily News_, on 31 July 1930, promoter  
 F. Heron Pitcher said that Reynolds had delivered the bad news to shareholders at a meeting on 11 June 1930. Pitcher also claimed that Reynolds was facing several High Court lawsuits and had booked passages to Australia for his family and some of his riders.
 
-According to Pitcher, two days before the group was scheduled to set sail for Australia, news had already leaked out that Reynolds had booked his own ticket to Colombo on the P&O liner _Khiva_, which eventually left Singapore on 13 June 1930. Pitcher ruefully remarked that “\[u\]p to the present only echo answers to our question, ‘Where is Reynolds?’”23
+According to Pitcher, two days before the group was scheduled to set sail for Australia, news had already leaked out that Reynolds had booked his own ticket to Colombo on the P&amp;O liner _Khiva_, which eventually left Singapore on 13 June 1930. Pitcher ruefully remarked that “\[u\]p to the present only echo answers to our question, ‘Where is Reynolds?’”23
 
 By 22 July 1930, the company was wound up, and on 6 August 1930 an auction was held to sell any Speedway assets of worth – from the much-vaunted electric lights right down to changkols (gardening hoes), buckets and brooms.24
 
 #### **Downfall of the Speedway**
 
-Speedway’s demise was likely due to a combination of factors. The public’s interest in the races – and willingness to pay for tickets – might have waned due to the lack of headlining star racers and disinterest in watching amateur riders. In his diatribe against Reynolds, Pitcher complained that too many races had been crammed into each session and that the initial turnout of 16,000 on opening night had never been repeated – the next best being closer to 4,000.25 Another reason could be the numerous times the races had to be postponed due to wet weather, which might have frustrated punters and caused inconvenience when races originally scheduled for a Saturday were held on a Wednesday instead. 
+Speedway’s demise was likely due to a combination of factors. The public’s interest in the races – and willingness to pay for tickets – might have waned due to the lack of headlining star racers and disinterest in watching amateur riders. In his diatribe against Reynolds, Pitcher complained that too many races had been crammed into each session and that the initial turnout of 16,000 on opening night had never been repeated – the next best being closer to 4,000.25 Another reason could be the numerous times the races had to be postponed due to wet weather, which might have frustrated punters and caused inconvenience when races originally scheduled for a Saturday were held on a Wednesday instead.&nbsp;
 
 The closure of the Speedway marked the end of dirt track bike racing in Singapore. In 1935, the _Malayan Tribune_ described the track as “disused and weed-grown”. The Speedway was demolished and eventually became part of Sennett Estate after construction began in 1951.26
 
 There was one attempt to revive dirt track racing in Singapore. This time, an Australian group applied to the Singapore City Council in 1953 to hold dirt track midget car racing at Jalan Besar Stadium. However, the application was rejected on the grounds that dirt track racing would damage the football pitch.27
 
-The next major motorcycle event held in Singapore was the Grand Prix, running from 1961 to 1973, which featured both car and motorcycle races. 
+The next major motorcycle event held in Singapore was the Grand Prix, running from 1961 to 1973, which featured both car and motorcycle races.&nbsp;
 
 #### **A Digital Return**
 
-Although dirt bike racing is history, the Singapore Speedway name has been resurrected in Nintendo’s Mario Kart game. In Mario Kart Tour, the new digital Singapore Speedway has three courses, showcasing the best of downtown Singapore. The first course focuses on the Marina Bay Sands area – including an exciting drive up to the hotel’s infinity pool. The second course goes along the Helix Bridge and Gardens by the Bay, and the third passes by the Esplanade, ArtScience Museum and Chinatown. 
+Although dirt bike racing is history, the Singapore Speedway name has been resurrected in Nintendo’s Mario Kart game. In Mario Kart Tour, the new digital Singapore Speedway has three courses, showcasing the best of downtown Singapore. The first course focuses on the Marina Bay Sands area – including an exciting drive up to the hotel’s infinity pool. The second course goes along the Helix Bridge and Gardens by the Bay, and the third passes by the Esplanade, ArtScience Museum and Chinatown.&nbsp;
 
 In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are combined into a single thrilling ride.28 So while the physical Speedway might be no more, it now lives on in the public consciousness of a new generation of Mario Kart fans around the world.
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai.png">
+	<b>Boon Lai</b> is a content creator, author, illustrator and filmmaker based in Singapore. Inspired by the true accounts of the rockers who toured the Vietnam War, he created the three-book graphic novel series, The Once &amp; Marvellous DKD (dkdgraphicnovel.com). </div>
+
+#### **Notes**
+
+[^1]: “[‘Impian Bateks’ Akan Berhijrah Ka-Saigon](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19690713-1.2.85),” _Berita Harian_, 13 July 1969, 12. (From NewspaperSG)
