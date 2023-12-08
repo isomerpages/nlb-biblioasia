@@ -40,7 +40,7 @@ Cursing at this turn of events, I gave up trying to reach for the radio. Justin 
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20Tallest%20Mountain_12_23/enlarge_IMG0081.jpg">
 <div style="background-color: white;">Singapore base camp on Everest.<i> Courtesy of David Lim.</i></div><br>
 
-<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/IMG0019_edited.png">
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20Tallest%20Mountain_12_23/IMG0019_edited.jpg">
 <div style="background-color: white;">David Lim journaling at Everest base camp.<i> Courtesy of David Lim.</i></div>
 	
 I lay in my tent, sleepless for most of the night, thinking about how that afternoon's coughing fit had either torn a ligament or a cartilage. A full dose of Voltaren painkiller was ineffectual. I awoke the following morning, May 16, hoping for the best. Another stab of pain doubled me over. I sat up, holding my side and turned to Edwin.
