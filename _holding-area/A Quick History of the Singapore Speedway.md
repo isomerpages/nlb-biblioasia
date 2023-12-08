@@ -88,6 +88,11 @@ Speedway’s demise was likely due to a combination of factors. The public’s i
 
 The closure of the Speedway marked the end of dirt track bike racing in Singapore. In 1935, the _Malayan Tribune_ described the track as “disused and weed-grown”. The Speedway was demolished and eventually became part of Sennett Estate after construction began in 1951.[^26]
 
+
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image6.png) <br>
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image7.png)
+<div style="background-color: white;">A map of the area between Upper Serangoon Road and MacPherson Road shows the former Singapore Speedway – labelled “Old Speedway” in the 1938 map (left) – being replaced by the Sennett Estate in the 1953 map (right). <i>Survey Department Collection, courtesy of National Archives of Singapore.</i></div>
+
 There was one attempt to revive dirt track racing in Singapore. This time, an Australian group applied to the Singapore City Council in 1953 to hold dirt track midget car racing at Jalan Besar Stadium. However, the application was rejected on the grounds that dirt track racing would damage the football pitch.[^27]
 
 The next major motorcycle event held in Singapore was the Grand Prix, running from 1961 to 1973, which featured both car and motorcycle races.
