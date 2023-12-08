@@ -95,4 +95,58 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 #### **Notes**
 
-[^1]: “[‘Impian Bateks’ Akan Berhijrah Ka-Saigon](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19690713-1.2.85),” _Berita Harian_, 13 July 1969, 12. (From NewspaperSG)
+[^1]: Location derived from comparison of Survey Department, Singapore, _Survey Map of Singapore_, 1933, map. (From National Archives of Singapore accession no. SP002117)
+
+[^2]: “Dirt-Track Motor-Cycling,” _Straits Times_, 3 December 1928, 12. (From NewspaperSG)&nbsp;
+
+[^3]: “Speedway for Singapore,” _Straits Times_, 15 June 1929, 10. (From NewspaperSG)
+
+[^4]: “Keeps Speedway in the Spotlight,” _Mirror_ (Perth, Western Australia: 1921–1956), 9 November 1929, 9, http://nla.gov.au/nla.news-article76195192.&nbsp;
+
+[^5]: “Career of the Man Behind Successes in Car Racing,” _Malaya Tribune_, 14 April 1930, 19. (From NewspaperSG)
+
+[^6]: “Speedway for Singapore. Dirt-Track Racing To Start Shortly,” _Singapore Budget_, 20 June 1929, 9; “The New Speedway,” _Malaya Tribune_, 1 March 1930, 10; “Singapore’s New Sport,” _Singapore Free Press and Mercantile Advertiser_, 8 March 1930, 20; “The New Speedway,” _Straits Times_, 24 February 1930, 13. (From NewspaperSG)
+
+[^7]: “Dirt Track Speed Wizard Arrives,” _Singapore Free Press and Mercantile Advertiser_, 20 March 1930, 20; “More Riders Arriving,” _Malaya Tribune_, 26 March 1930, 10; “Passengers,” _Straits Budget_, 3 April 1930, 8. (From NewspaperSG)&nbsp;
+
+[^8]: “Dirt Track Speed Wizard Arrives.”
+
+[^9]: “The Home of Trophies,” _Malaya Tribune_, 15 April 1930, 17; “Some Trophies,” _Malaya Tribune_, 27 March 1930, 10. (From NewspaperSG)
+
+[^10]: “Riders’ Club Gaining Members,” _Malaya Tribune_, 2 April 1930, 10 (From NewspaperSG); “Some Trophies.”&nbsp;
+
+[^11]: “Nearly Ready,” _Malaya Tribune_, 2 April 1930, 10. (From NewspaperSG)
+
+[^12]: “Speedway Ready,” _Malaya Tribune_, 5 April 1930, 10. (From NewspaperSG)
+
+[^13]: “Who Supplied the Materials Used To Build Singapore Speedway,” _Malaya Tribune_, 14 April 1930, 18. (From NewspaperSG)
+
+[^14]: “Sports and Pastimes. Record Opening Night,” _Malaya Tribune_, 21 April 1930, 10; “Serangoon Dirt-Track Thrills,” _Singapore Free Press and Mercantile Advertiser_, 21 April 1930, 10. (From NewspaperSG)
+
+[^15]: “Last Night’s Speedway Thrills,” _Singapore Free Press and Mercantile Advertiser_, 8 May 1930, 20; “Twins,” “Dirt-Track Racing Notes,” _Malayan Saturday Post_, 17 May 1930, 24. (From NewspaperSG)
+
+[^16]: “Speedway Manager Arrested,” _Straits Times_, 8 May 1930, 12. (From NewspaperSG)
+
+[^17]: “Page 9 Advertisements Column 5,” _Singapore Free Press and Mercantile Advertiser_, 24 May 1930, 9; “Speedway Attractions,” Malaya Tribune, 29 May 1930, 10; “Thrilling Riding at the Speedway,” _Singapore Free Press and Mercantile Advertiser_, 4 June 1930, 11; “Sports &amp; Pastimes. Clever English Rider,” _Malaya Tribune_, 2 June 1930, 10; “Topics of To-Day,” Malaya Tribune, 4 June 1930, 8. (From NewspaperSG)
+
+[^18]: “Dirt-Track Racing Notes,” _Malayan Saturday Post_, 14 June 1930, 41. (From NewspaperSG)
+
+[^19]: “The Singapore Speedway,” _Malaya Tribune_, 28 May 1930, 11. (From NewspaperSG)
+
+[^20]: “Meeting Suspended,” _Malaya Tribune_, 17 June 1930, 10. (From NewspaperSG)
+
+[^21]: “The Singapore Speedway. Dirt-Track Racing – Will the Club Continue?” _Malaya Tribune_, 19 June 1930, 10; “Reorganisation of the Speedways,” _Singapore Free Press and Mercantile Advertiser_, 21 June 1930, 20. (From NewspaperSG)
+
+[^22]: “Reorganisation of the Speedways,” _Singapore Free Press and Mercantile Advertiser_, 21 June 1930, 20. (From NewspaperSG)
+
+[^23]: “Singapore Speedway,” _The Daily News_ (Perth, WA: 1882–1955) (Home Final Edition), 31 July 1930, 5, http://nla.gov.au/nla.news-article83574622. The article mentions that the shareholders’ meeting took place on Wednesday, 11 July 1930. However, 11 July 1930 was a Friday. The meeting is more likely to have taken place on Wednesday 11 June 1930, two days before Reynolds left for Colombo. “Untitled,” _Malaya Tribune_, 12 June 1930, 7. (From NewspaperSG)
+
+[^24]: “Page 9 Advertisements Column 6: Distress Sale,” _Singapore Free Press and Mercantile Advertiser_, 31 July 1930, 9. (From NewspaperSG)
+
+[^25]: “Singapore Speedway,” _The Daily News (Perth, WA: 1882–1955)_ (Home Final Edition), 31 July 1930, 5, http://nla.gov.au/nla.news-article83574622.
+
+[^26]: “$5,000,000 Building Contract Signed,” _Straits Times_, 4 February 1951, 5. (From NewspaperSG)
+
+[^27]: “Council Says No to Dirt Track Racing,” _Straits Times_, 26 June 1953, 5. (From NewspaperSG)
+
+[^28]: “Singapore Speedway,” Super Mario Wiki, accessed 24 October 2023, https://www.mariowiki.com/Singapore\_Speedway.
