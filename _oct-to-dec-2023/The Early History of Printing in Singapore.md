@@ -5,6 +5,7 @@ description: Printing in Singapore dates back 200 years with the establishment
   of a press by Christian missionaries. Their efforts to spread the gospel also
   helped bring the technology here.
 image: /images/Vol 19 Issue 3/10 Printing/image_1a.png
+variant: markdown
 ---
 #### Printing in Singapore dates back 200 years with the establishment of a press by Christian missionaries. Their efforts to spread the gospel also helped bring the technology here. 
 By Gracie Lee
@@ -147,12 +148,12 @@ Early missionaries like Milton, Thomsen, Tracy, North, Keasberry and Dyer, and t
 <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=6f5dbed1-1dd2-411f-bac8-473b4c67e30b"><b>
 Journal of a Tour Along the Coast of Java and Bali etc, with a Short Account of the Island of Bali Particularly of Bali Baliling</b></a>&nbsp;&nbsp;&nbsp;<br>
 Singapore: Printed at the Mission Press, 1830.<br>
-Call no. RRARE 992.2 JOU; Accession no. B03013533G</div><br>
+Call no. RRARE 992.2 JOU; Accession no. B03013533G).</div><br>
 English Protestant missionary Walter Henry Medhurst of the London Missionary Society recounts his travels to Java and Bali with Reverend Jacob Tomlin in 1829. Parts of the journal have been republished many times for its rich descriptions of Bali. This is the earliest English book printed in Singapore that is found in the National Library’s collection.<br><br>
 	
 <img style="width:55%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/journal%20of%20a%20tour_yellow%20bg.jpg">
 <div style="background-color: #fff6ba; text-align:left">
-	Title page of <i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G.</i></div><br>
+Title page of <i>Journal of a Tour Along the Coast of Java and Bali. Collection of the National Library, Singapore (Call no. RRARE 992.2 JOU; Accession no. B03013533G).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d"><b>The First Report of the Singapore Christian Union, 1930</b></a><br>Singapore: Printed at the Mission Press, 1830.<br>
@@ -245,7 +246,7 @@ This mammoth work features articles on Singapore and Southeast Asia reprinted fr
 <b>SELECTED WORKS BY BENJAMIN KEASBERRY</b><br><br>
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">	
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5007604"><b>The Journal of the Indian Archipelago and Eastern Asia</b></a><br>Singapore: Printed at the Mission Press, 1847–48.<br>Call no. RRARE 950.05 JOU; Accession nos. B03014400A (v. 1).<br><br>
-Commonly referred to as Logan’s Journal after its editor, the Scottish lawyer James Richardson Logan, this is one of the earliest scholarly periodicals published in Singapore. The periodical covered a broad range of topics ranging from history to the natural science of Southeast Asia, and was published in two series between 1847 and 1859. The first two volumes were printed at the Mission Press. The page featured is from an article on the geological features of Singapore published in volume 1. The illustrated plate on the right was lithographed at the Mission Press..</div></div><br>
+Commonly referred to as Logan’s Journal after its editor, the Scottish lawyer James Richardson Logan, this is one of the earliest scholarly periodicals published in Singapore. The periodical covered a broad range of topics ranging from history to the natural science of Southeast Asia, and was published in two series between 1847 and 1859. The first two volumes were printed at the Mission Press. The page featured is from an article on the geological features of Singapore published in volume 1. The illustrated plate on the right was lithographed at the Mission Press.</div></div><br>
 
 <img style="width:80%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/journal%20of%20the%20indian%20archipelago_z.jpg">
 <div style="background-color: #fff6ba; text-align:left">
@@ -260,10 +261,10 @@ Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
 
 <img style="width:75%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/hikayat%20improved3.jpg">
 <div style="background-color: #fff6ba; text-align:left">
-	The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F</i></div><br>	
+	The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F)</i></div><br>	
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=7230342"><b>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami <i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i></b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1853.<br>Call no.: RRARE 225 BIB; Accession no.: B20119134J.<br><br>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=7230342"><b>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami <i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i></b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1853.<br>Call no. RRARE 225 BIB; Accession no.: B20119134J.<br><br>
 This translation of the Malay New Testament in Romanised Malay was edited and published by Benjamin Keasberry for the British and Foreign Bible Society in 1853. A revised edition was published in 1866.</div><br>
 
 <img style="width:45%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/kitab%20al-kudus_improved.jpg">
@@ -328,9 +329,9 @@ Wylie, Alexander, <i>Memorials of Protestant Missionaries to the Chinese</i> (Sh
 
 [^5]: Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 154–55.
 
-[^6]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 14; O’Sullivan, “The London Missionary Society,” 74; John S. Bastin, [_Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=200867141) (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014), 216. (From National Library, Singapore, call no.: RSING 959.5703 BAS); Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), vol. 2 (Singapore: World Scientific, 2020), 90–91. (From National Library, Singapore, call no. RSING 959.5 HAD); Raffles Museum and Library, “Proclamation by the Honble Sir Stamford Raffles Lieut. Governor of Fort Marlbro and Its Dependencies,” [_L17: Raffles: Letters to Singapore (Farquhar)_](https://www.nas.gov.sg/archivesonline/private_records/record-details/d4ffa0d5-d0a4-11ea-9f50-001a4a5ba61b), 1 January 1823, Straits Settlements Records. (From National Archives of Singapore)
+[^6]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 14; O’Sullivan, “The London Missionary Society,” 74; John S. Bastin, [_Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?id=200867141) (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014), 216. (From National Library, Singapore, call no. RSING 959.5703 BAS); Hadijah Rahmat, [_Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History_](https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136), vol. 2 (Singapore: World Scientific, 2020), 90–91. (From National Library, Singapore, call no. RSING 959.5 HAD); Raffles Museum and Library, “Proclamation by the Honble Sir Stamford Raffles Lieut. Governor of Fort Marlbro and Its Dependencies,” [_L17: Raffles: Letters to Singapore (Farquhar)_](https://www.nas.gov.sg/archivesonline/private_records/record-details/d4ffa0d5-d0a4-11ea-9f50-001a4a5ba61b), 1 January 1823, Straits Settlements Records. (From National Archives of Singapore)
 
-[^7]: Munshi Abdullah, [_The Hikayat Abdullah_](https://eservice.nlb.gov.sg/item_holding.aspx?id=13606908), trans. A.H. Hill (Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society, 2009), 187–88. (From National Library, Singapore, call no.: RSEA 959.5 ABD)
+[^7]: Munshi Abdullah, [_The Hikayat Abdullah_](https://eservice.nlb.gov.sg/item_holding.aspx?id=13606908), trans. A.H. Hill (Kuala Lumpur: The Malaysian Branch of the Royal Asiatic Society, 2009), 187–88. (From National Library, Singapore, call no. RSEA 959.5 ABD)
 
 [^8]: Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 158; O’Sullivan, “The London Missionary Society,” 74, 77.
 
@@ -370,7 +371,7 @@ Wylie, Alexander, <i>Memorials of Protestant Missionaries to the Chinese</i> (Sh
 
 [^26]: _The Evangelical Magazine and Missionary Chronicle 1840_. (London: Thomas Ward and Co., 1840), HathiTrust, https://hdl.handle.net/2027/hvd.ah6ls8.
 
-[^27]: Zhang Xiantao, [_The Origins of the Modern Chinese Press: The Influence of the Protestant Missionary Press in Late Qing China_](https://eservice.nlb.gov.sg/item_holding.aspx?id=12884681) (New York: Routledge, 2007), 105–06. (From National Library, Singapore, call no.: R 079.51 ZHA)
+[^27]: Zhang Xiantao, [_The Origins of the Modern Chinese Press: The Influence of the Protestant Missionary Press in Late Qing China_](https://eservice.nlb.gov.sg/item_holding.aspx?id=12884681) (New York: Routledge, 2007), 105–06. (From National Library, Singapore, call no. R 079.51 ZHA)
 
 [^28]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984), 5–6; Ching, “Printing Presses of the London Missionary Society Among the Chinese,” 258–83; Ibrahim Ismail, “Samuel Dyer and His Contributions to Chinese Typography,” _Library Quarterly_ 54, no. 2 (April 1985): 157–69. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
