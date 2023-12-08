@@ -261,7 +261,7 @@ Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
 
 <img style="width:75%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/hikayat%20improved3.jpg">
 <div style="background-color: #fff6ba; text-align:left">
-	The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F)</i></div><br>	
+	The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F).</i></div><br>	
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=7230342"><b>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami <i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i></b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1853.<br>Call no. RRARE 225 BIB; Accession no.: B20119134J.<br><br>
