@@ -489,7 +489,7 @@ Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He 
 
 [^26]: Yap, “[Happy Birthday...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1).”
 
-[^27]: “[SCFA to Play Negri Saturday](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560515-1.2.150),” _Straits Times_, 15 May 1956, 14; Yap, “[Happy Birthday...].(http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1).”
+[^27]: “[SCFA to Play Negri Saturday](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560515-1.2.150),” _Straits Times_, 15 May 1956, 14; Yap, “[Happy Birthday...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1).”
 
 [^28]: “[Farewell to a Legend](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761006-1.2.122),”&nbsp;_Straits Times_, 6 October 1976, 27. (From NewspaperSG)&nbsp;
 
