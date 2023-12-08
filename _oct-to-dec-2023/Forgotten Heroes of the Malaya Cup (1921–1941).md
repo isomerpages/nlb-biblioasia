@@ -4,12 +4,13 @@ permalink: /vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/
 description: We remember some legendary players of the interwar years who left
   an indelible mark on the local football scene.
 image: /images/Vol 19 Issue 3/6 Malaya Cup/malayacupheader2.jpg
+variant: markdown
 ---
 #### We remember some legendary players of the interwar years who left an indelible mark on the local football scene. 
 By Dr Nick Aplin
 
 ![](/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/malayacupheader2.jpg)
-<div style="background-color: white;">In the 1933 Malaya Cup final, Singapore defeated Selangor 8–2. Almost 10,000 spectators watched the match held at Anson Road Stadium in Singapore. <i>The Straits Times </i> described it as “one ofthe finest finals that has ever been played in the competition”. <i>Source: The Sunday Times, 6 August 1933 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">In the 1933 Malaya Cup final, Singapore defeated Selangor 8–2. Almost 10,000 spectators watched the match held at Anson Road Stadium in Singapore. <i>The Straits Times </i> described it as “one of the finest finals that has ever been played in the competition”. <i>Source: The Sunday Times, 6 August 1933 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 What does it take to become recognised as a hero in Singapore soccer? One answer is that you play for a successful team with talented teammates, and an extensive and supportive fan base. Maybe a player turned national coach. To be called a hero is very challenging indeed. Memories can fade. Names forgotten. Injuries intrude. And reputations suffer.
 
@@ -161,7 +162,7 @@ One of Choo’s greatest achievements was guiding Singapore to win the Malaysia 
 Malaya Cup (1930–36)<br>St Joseph’s Institution<br>Aston Athletic Club<br> 
 Chinese Companion Athletic Association<br> 	
 
-Born in Hong Kong, Khun Onn was known as KO to his friends, but more popularly known among the Chinese soccer community as “Fo Chia Tou” (meaning fire locomotive in Hokkien) because of his speed.[^24]  His most memorable Malaya Cup final was the replay of the 1930 match during which Singapore beat Selangor 3–0 at the Anson Road Stadium. Choy had already scored when the first game was abandoned because of heavy rain in Selangor. According to the New Nation, “In the replay, curiously Khun Onn drew first blood again. His goal sent the crowds into a frenzy; when he saw the Selangor’s goalkeeper losing control of a ball, he made a flying leap which propelled both him and the ball into the net”. [^25] 
+Born in Hong Kong, Khun Onn was known as KO to his friends, but more popularly known among the Chinese soccer community as “Fo Chia Tou” (meaning fire locomotive in Hokkien) because of his speed.[^24]  His most memorable Malaya Cup final was the replay of the 1930 match during which Singapore beat Selangor 3–0 at the Anson Road Stadium. Choy had already scored when the first game was abandoned because of heavy rain in Selangor. According to the New Nation, “In the replay, curiously Khun Onn drew first blood again. His goal sent the crowds into a frenzy; when he saw the Selangor’s goalkeeper losing control of a ball, he made a flying leap which propelled both him and the ball into the net”.[^25] 
 
 In 1930, the Singapore Chinese Football Association (SCFA) team became the Singapore Amateur Football Association League champion by defeating the strong Singapore Cricket Club 2–1. Both goals were scored by Choy. He credited players such as Roy Fairley Smith, Lim Yong Liang and John Then for developing his game.[^26]  
 
@@ -195,7 +196,7 @@ During the Japanese Occupation (1942–45), Chua became a committee member of th
 Malaya Cup (1923–30)<br> 
 Singapore Chinese Football Association (1920–33)<br>  
 
-Kicking a tennis ball near his home on Coleman Street marked the start of Foong Mun Fun’s football journey. In 1922, at age 17, Foong represented Anglo Chinese School. He was then spotted by Cheong Chee Lim and joined the Singapore Chinese Football Association (SCFA). The left-winger’s first Malaya Cup triumph came as an 18-year-old in 1923 when Singapore defeated Perak 2–1. [^32] 
+Kicking a tennis ball near his home on Coleman Street marked the start of Foong Mun Fun’s football journey. In 1922, at age 17, Foong represented Anglo Chinese School. He was then spotted by Cheong Chee Lim and joined the Singapore Chinese Football Association (SCFA). The left-winger’s first Malaya Cup triumph came as an 18-year-old in 1923 when Singapore defeated Perak 2–1.[^32] 
 
 Foong worked as the stadium clerk at Anson Road Stadium in 1924. As there was no office space in the stadium, John Sime, director of Sime Darby and also the president of the Singapore Football Association, allowed the stadium to make use of the premises at his Sime Darby office on Malacca Street.[^33]  Foong’s final Malaya Cup success (his fourth win) was in 1931. Two years later he retired and subsequently joined the SCFA Selection Committee.[^34] 
 
@@ -428,7 +429,7 @@ The players with the most number of appearances in the finals were Dolfattah (ni
 <img style="width:70%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/composition%20of%20sg%20football%20team.jpg"><br></div>
 </div><br> 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>NICK APLIN'S FANTASY 11</b><br><br>
-In my opinion, this is what a fantasy team made up of the players mentioned looks like.&nbsp;&nbsp; Some of you will feel differently and may also argue about the assigned positions. This is open for discussion of course.<br><br>
+In my opinion, this is what a fantasy team made up of the players mentioned looks like. Some of you will feel differently and may also argue about the assigned positions. This is open for discussion of course.<br><br>
 <img style="width:65%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/New%20Inserts/nick's%20fantasy.jpg"><br><br>         
 </div> 
 
@@ -478,7 +479,7 @@ Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He 
 
 [^21]: “[S’pore Soccer’s Biggest Rush for Players Is On](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480224-1.2.85),”&nbsp;_Malaya Tribune_, 24 February 1948, 7. (From Newspaper SG)&nbsp;
 
-[^22]: Ken Fernandez, “[First Job Will Be to Tour States](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580131-1.2.154),”&nbsp;_Straits Times_, 31 January 1958, 16; Philip Tan and Terry Ang, “[FAS Takes Back Seng Quee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760902-1.2.5),”&nbsp;_New Nation_, 2 September 1976, 1. (From Newspaper SG)
+[^22]: Ken Fernandez, “[First Job Will Be to Tour States](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580131-1.2.154),”&nbsp;_Straits Times_, 31 January 1958, 16; Philip Tan and Terry Ang, “[FAS Takes Back Seng Quee](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760902-1.2.5),”&nbsp;_New Nation_, 2 September 1976, 1. (From NewspaperSG)
 
 [^23]: Percy Senevirante, “[The Malaysia Cup Is Ours After 12 Long Years](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770529-1.2.127),”&nbsp;_Straits Times_, 29 May 1977. (From NewspaperSG)
 
@@ -486,9 +487,9 @@ Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He 
 
 [^25]: “[Singapore Win Malaya Cup](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300922-1.2.117),” _Singapore Free Press and Mercantile Advertiser_, 22 September 1930, 10; “[Choy Showed Way to Victory in This Malaya Cup Final](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.2),” _New Nation_, 13 June 1975, 10–11. (From NewspaperSG)
 
-[^26]: Yap, “[Happy Birthday...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1)”
+[^26]: Yap, “[Happy Birthday...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1).”
 
-[^27]: “[SCFA to Play Negri Saturday](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560515-1.2.150),” _Straits Times_, 15 May 1956, 14; Yap, “[Happy Birthday...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1)”)
+[^27]: “[SCFA to Play Negri Saturday](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560515-1.2.150),” _Straits Times_, 15 May 1956, 14; Yap, “[Happy Birthday...].(http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750613-1.2.21.1.1).”
 
 [^28]: “[Farewell to a Legend](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761006-1.2.122),”&nbsp;_Straits Times_, 6 October 1976, 27. (From NewspaperSG)&nbsp;
 
@@ -530,7 +531,7 @@ Dr Nick Aplin is the Deputy Director (Sport Heritage) at <i>Sport Singapore. He 
 
 [^47]: “Zheng Jiliang: Biographical Information,” Olympedia, last accessed 24 June 2023, https://www.olympedia.org/athletes/701215.&nbsp;
 
-[^48]: “[Malaya Cup Football](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290824-1.2.142),” _Singapore Free Press and Mercantile Advertiser_, 24 August 1929, 20. (From NewspaperSG
+[^48]: “[Malaya Cup Football](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19290824-1.2.142),” _Singapore Free Press and Mercantile Advertiser_, 24 August 1929, 20. (From NewspaperSG)
 
 [^49]: “[Opening of New Stadium](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19300102-1.2.80.1),” _Straits Budget_, 2 January 1930, 30. (From NewspaperSG)
 
