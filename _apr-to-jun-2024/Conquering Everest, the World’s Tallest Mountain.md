@@ -37,7 +37,7 @@ Cursing at this turn of events, I gave up trying to reach for the radio. Justin 
 
 “The game ain't over until the fat lady sings.”	
 
-<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/IMG0081_new.png">
+<img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20Tallest%20Mountain_12_23/enlarge_IMG0081.jpg">
 <div style="background-color: white;">Singapore base camp on Everest.<i> Courtesy of David Lim.</i></div><br>
 
 <img style="width:75%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/IMG0019_edited.png">
