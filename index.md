@@ -939,4 +939,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: The Story of Two Whales
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: "The skeleton of a blue whale was once the centrepiece of the
+        former Raffles Museum. What happened to it?  "
+      button: Watch the Video
+      url: https://biblioasia.nlb.gov.sg/videos/reels/nature/
+      image: "/images/Videos: BiblioAsia Reels/Whales.jpg"
+      alt: Image alt text
 ---
