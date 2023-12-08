@@ -11,7 +11,7 @@ The 1950s were a decade of flux for Malaya. In the aftermath of the Japanese Occ
 
   <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/20100000306_IMG0038.jpg" style="width: 85%;">
 
-<div style="background-color: white;">Junction of North Bridge Road and Hock Lam Street (c.1950s). Various ethnicities and languages could be seen and heard in such streets in Singapore. <i>George Tricker Collection</i>, <i>courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Junction of North Bridge Road and Hock Lam Street (c.1950s). Various ethnicities and languages could be seen and heard on such streets in Singapore. <i>George Tricker Collection</i>, <i>courtesy of National Archives of Singapore.</i></div>
 
 <b>Uniqueness of Malayan Chinese Literature</b><br>
 
