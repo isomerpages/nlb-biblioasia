@@ -106,17 +106,17 @@ Literary experimentations in that period have also left their imprint on our lin
 
 [^4]: [_Regulations Made Under the Emergency Regulations Ordinance_, 1948](https://eservice.nlb.gov.sg/item_holding.aspx?id=4315789) (F. of M. Ord. No. 10 of 1948) incorporating all amendments made up to the 31st March, 1953 (From National Library, Singapore, call no. RCLOS 348.595 MAL)
 
-[^5]: Jeremey E. Taylor, “‘Not a Particularly Happy Expression’: ‘Malayanization’ and the China Threat in Britain’s Late-Colonial Southeast Asian Territories,” _The_ _Journal of Asian Studies_ 78, no. 4 (November 2019): 792, ResearchGate, https://www.researchgate.net/publication/335504060_Not_a_Particularly_Happy_Expression_Malayanization_and_the_China_Threat_in_Britain's_Late-Colonial_Southeast_Asian_Territories.
+[^5]: Jeremy E. Taylor, “‘Not a Particularly Happy Expression’: ‘Malayanization’ and the China Threat in Britain’s Late-Colonial Southeast Asian Territories,” _The_ _Journal of Asian Studies_ 78, no. 4 (November 2019): 792, ResearchGate, https://www.researchgate.net/publication/335504060_Not_a_Particularly_Happy_Expression_Malayanization_and_the_China_Threat_in_Britain's_Late-Colonial_Southeast_Asian_Territories.
 
 [^6]: Wang Gungwu, “A Short Introduction to Chinese Writing in Malaya,” in [_Bunga Emas: An Anthology of Contemporary Malaysian Literature (1930–1963)_](https://eservice.nlb.gov.sg/item_holding.aspx?id=4092184), ed. T. Wignesan (Malaysia: Rayirath Publications, 1964), 252. (From National Library, Singapore, call no. RCLOS 828.99595 BUN)
 
-[^7]: Wen Renjun (Miao Xiu), “On Overseas Chinese Consciousness and the Uniqueness of Malayan Chinese,” _Sin Chew Jit Poh_, 28 February 1948. (Microfilm A01597329C)
+[^7]: Wen Renjun (Miao Xiu), “On Overseas Chinese Consciousness and the Uniqueness of Malayan Chinese,” _Sin Chew Jit Poh_, 28 February 1948. (Microfilm no. A01597329C)
 
 [^8]: Miao Xiu 苗秀, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13985821) \[Under Singapore's Roof\] (\[Xinjiapo\] \[新加坡\]: Nan yang yin shua she 南洋印刷社, 1951), 6. (Emphasis added). (From National Library, Singapore, call no. Chinese C813.4 MX)
 
 [^9]: Li Wen 李文_,_ “Guanyu fangyan wenxue,” [關於方言文學](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19540707-1.2.35.2.1) \[About dialect literature\], _南洋商报 Nanyang Siang Pau,_ 7 July 1954, 8. (From NewspaperSG)
 
-[^10]: Rajeev S. Patke and Philip Holden, [_The Routledge Concise History of Southeast Asian Writing in English_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147) (London: Routledge, 2010), 51 (From National Library, Singapore, call no. RSING 895.9 PAT)
+[^10]: Rajeev S. Patke and Philip Holden, [_The Routledge Concise History of Southeast Asian Writing in English_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147) (London: Routledge, 2010), 51. (From National Library, Singapore, call no. RSING 895.9 PAT)
 
 [^11]: Wang Gungwu, “Ahmad”, _Pulau Ujong_, accessed 27 October 2023, https://www.pulauujong.org/8-2/ahmad/. Originally published in Wang Gungwu, [_Pulse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030873) (Singapore: B. Lim, 1950). (From National Library, Singapore, call no. RSING 828.99595 WAN)
 
