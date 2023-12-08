@@ -5,6 +5,7 @@ description: As the history of the company shows, its new name is less about
   breaking away from the past as it is about leaping confidently into the
   future.
 image: /images/Vol 19 Issue 3/image1.png
+variant: markdown
 ---
 #### As the history of the company shows, its new name is less about breaking away from the past as it is about leaping confidently into the future.
 By Thammika Songkaeo
@@ -55,7 +56,7 @@ In 1987, Soo Khim and Then registered the new company as Singapore Dance Theatre
 ballets, and which would include an Asian sensibility. (Soo Khim continued in her role as director of SBA even after the dance company was set up.) They wanted to develop Singaporean dancers and interest audiences in works with an Asian influence. Goh also felt that the label of “Dance Theatre” provided the freedom to explore and experiment with more diverse works.[^16] Choo San’s death had been a severe blow, but the founders decided to go ahead.
 
 ![](/images/Vol%2019%20Issue%203/image6.png)
-<div style="background-color: white;">Goh Soo Khim (back row, fourth from the left), Anthony Then (back row, fifth from the right) and the dancers of the Singapore Dance Theatre, 1988. <i>Courtesy of Singapore Ballet</i></div>
+<div style="background-color: white;">Goh Soo Khim (back row, fourth from the left), Anthony Then (back row, fifth from the right) and the dancers of the Singapore Dance Theatre, 1988. <i>Courtesy of Singapore Ballet.</i></div>
 
 Speaking at the official launch of SDT in 1988, Second Deputy Prime Minister Ong Teng Cheong described the founding of the company as “timely” and said that it was “in line with the Government’s vision to transform Singapore into a cultured society by 1999, and in promoting excellence in the arts. It therefore deserves the support of every citizen”.[^17]
 
@@ -124,7 +125,7 @@ Most importantly, under Schergen, the company began to address the critical ques
 The name change in December 2021 was thus long overdue, according to Schergen. “By the time three decades had passed, a confident maturity to SDT was now in place and the company had its own unique identity,” he said. “To reflect this and show this confident maturity of the nature of our organisation, a decision has been made to rename ourselves as Singapore Ballet.”[^34]
 
 ![](/images/Vol%2019%20Issue%203/image11.png)
-<div style="background-color: white;">Rehearsing for Timothy Rushton’s <i>Quiver<i>, 2022. Photo by Chang Zi Min. <i>Courtesy of Singapore Ballet..</i></i></i></div><i><i>
+<div style="background-color: white;">Rehearsing for Timothy Rushton’s <i>Quiver<i>, 2022. Photo by Chang Zi Min. <i>Courtesy of Singapore Ballet.</i></i></i></div><i><i>
 
 #### **Always En Pointe**
 
@@ -210,4 +211,8 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^34]: Dewi Nurjuwita, “Singapore Dance Theatre Unveils Its New Name,” *Timeout*, 13 December 2021, https://www.timeout.com/singapore/news/singapore-dance-theatre-unveils-its-new-name-121321.
 
-[^35]: “Singapore Ballet 2023 Season,” *Ballet Herald*, 17 December 2022, https://www.balletherald.com/singapore-ballet-2023-season/.</i></i>
+[^35]: “Singapore Ballet 2023 Season,” *Ballet Herald*, 17 December 2022, https://www.balletherald.com/singapore-ballet-2023-season/.
+
+
+
+</i></i>
