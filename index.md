@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 3/10 Printing/Hero_img_early_printing.jpg
   - infopic:
+      title: The Story of Two Whales
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: "The skeleton of a blue whale was once the centrepiece of the
+        former Raffles Museum. What happened to it?  "
+      button: Watch the Video
+      url: /videos/reels/nature/
+      image: "/images/Videos: BiblioAsia Reels/Whales.jpg"
+      alt: Image alt text
+  - infopic:
       title: "A Plethora of Tongues: Multilingualism in Malayan Writing"
       subtitle: Culture
       id: infopic
@@ -939,14 +949,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: The Story of Two Whales
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: "The skeleton of a blue whale was once the centrepiece of the
-        former Raffles Museum. What happened to it?  "
-      button: Watch the Video
-      url: /videos/reels/nature/
-      image: "/images/Videos: BiblioAsia Reels/Whales.jpg"
-      alt: Image alt text
 ---
