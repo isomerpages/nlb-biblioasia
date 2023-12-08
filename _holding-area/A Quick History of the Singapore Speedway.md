@@ -5,7 +5,7 @@ variant: markdown
 description: The history of the Singapore Speedway was as fast and furious as
   the races it hosted.
 ---
-#### **The history of the Singapore Speedway was as fast and furious as the races it hosted.**
+#### The history of the Singapore Speedway was as fast and furious as the races it hosted.
 By Yap Jo Lin
 
 Before the bright lights, glitz, glamour and celebrity of the Formula One Singapore night race, there was the Singapore Grand Prix (which started in 1961). But 30 years before that, speedsters and curious locals alike were privy to the thrills and spills of motorcycle racing at a specially constructed dirt track called the Singapore Speedway.
