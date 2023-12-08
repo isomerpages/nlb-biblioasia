@@ -26,7 +26,7 @@ In 2023, Lim donated 140 items to the National Library Board, comprising mostly 
 
 Among the donations is a signed copy of his book, _Mountain to Climb: The Quest for Everest and Beyond_ (1999). The book is a personal account of the Singapore team’s quest to climb Everest, including the failures, heartbreak and sacrifices. To mark the 25th anniversary of the Everest climb, _BiblioAsia_ is publishing an extract of Chapter 19 of the book. In it, Lim recounts the events immediately leading up to the team’s first attempt to summit Everest on 19 May 1998.
 
-<img style="width:75%;height:80%;" src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/4285_001_new.png">
+<img style="width:75%;height:80%;" src="/images/Online%20Only%20Articles/Conquer%20Tallest%20Mountain_12_23/4285_001.jpg">
 <div style="background-color: white;">Route to the summit. <i> Photo by Alan Silva.</i></div>
 
 <div><center>__________________________________________</center></div>
