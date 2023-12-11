@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2023/11/childhood-memories-kampong-wak-hassan/">炊烟袅袅 甘榜回忆</a>
+甘榜的纯朴生活反映了过去悠然自得的时代，那时的生活要简单得多。
+
+<img src="/images/Online%20Only%20Articles/A%20Slice%20of%20Kampong%20Life/grandfather_house.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2023/11/childhood-memories-kampong-wak-hassan/">My Childhood Memories: A Slice of Kampong Life</a>
 Kampong living reflects an idyllic bygone age, a time when life was much simpler.
 
