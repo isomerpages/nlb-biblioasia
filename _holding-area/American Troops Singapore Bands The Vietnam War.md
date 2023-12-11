@@ -132,7 +132,7 @@ By then, the Esquires had decided that they would not tempt fate further. They f
 Now in their 70s, Veronica, Harris and Steve are still living out their passion for music. Steve resides in Sweden and performs on cruise liners plying the Atlantic. Veronica lives an active life in France and performed at the Esplanade – Theatres on the Bay in early 2023. Harris still lives in Singapore and performs whenever he has the opportunity. The trio performed in extraordinary circumstances and lived to tell the tale. They, and other unsung entertainers, had given soldiers cheer, comfort, escape and some connection to their home and families faraway.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-The stories of Veronica Young, Harris Hamzah and Steve Bala Siren inspired a serialised graphic novel <i>The Once</i> &amp; <i>Marvellous DKD</i>. This book is available for reference at the Lee Kong Chian Reference Library at Level 8 of the National Library Building (call no. RSING 741.595957 LAI).<br><br>
+The stories of Veronica Young, Harris Hamzah and Steve Bala Siren inspired a serialised graphic novel <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204463645"><i>The Once</i> &amp; <i>Marvellous DKD</i></a>. This book is available for reference at the Lee Kong Chian Reference Library at Level 8 of the National Library Building (call no. RSING 741.595957 LAI).<br><br>
 <img src="/images/Vol%2020%20Issue%201/Vietnam%20War/Image_book.png"></div>
 			
 <div style="background-color: white;">
