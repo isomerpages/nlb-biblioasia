@@ -35,7 +35,7 @@ The majority of dialect segments in Chinese fiction from this period appear in d
 
   <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/Miao_Xiu_1_edited.jpg" style="width: 65%;">
 
-<div style="background-color: white;">Cover of《新加坡屋顶下》(Xinjiapo Wuding Xia; _Under Singapore's Roof_) by Miao Xiu (1951). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;">Miao Xiu’s writings often feature Chinese dialects and colloquial expressions. <i>Image reproduced from Singapore Literary Pioneers Gallery Guide (Singapore: National Library Board Singapore, 2006), 43. (From National Library, Singapore, call no. S809 SIN).</i></div>
 
 To take an example from Miao Xiu’s well-known novella 《新加坡屋顶下》(Xinjiapo Wuding Xia _Under Singapore’s Roof_ (1951), consider these lines about Sai Sai, a character who reluctantly pays protection money – haggled down from five to three dollars – to a lackey of the 707 triad in exchange for protection from other gangs: “這鬼是「**七****0****七**」的「**草鞋**」（私會黨的總務），每逢禮拜晚就來黑巷向她賽賽討「**包爺費**」，為了免得別的私會黨的三星**臭卡**「**卡周**」（馬來語：欺凌），她賽賽不得不忍痛付給這鬼一筆保護費；可是這**臭卡**一開口就是**一巴掌**（**五扣**錢），講到口乾才減到**三扣**。”[^8]
 
