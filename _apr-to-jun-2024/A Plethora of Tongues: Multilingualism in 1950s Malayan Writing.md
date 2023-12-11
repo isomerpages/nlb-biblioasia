@@ -37,13 +37,13 @@ The majority of dialect segments in Chinese fiction from this period appear in d
 
 <div style="background-color: white;">Miao Xiu’s writings often feature Chinese dialects and colloquial expressions. <i>Image reproduced from Singapore Literary Pioneers Gallery Guide (Singapore: National Library Board Singapore, 2006), 43. (From National Library, Singapore, call no. S809 SIN).</i></div>
 
-To take an example from Miao Xiu’s well-known novella 《新加坡屋顶下》(<i>Xinjiapo Wuding Xia; Under Singapore’s Roof</i>, 1951), consider these lines about Sai Sai, a character who reluctantly pays protection money – haggled down from five to three dollars – to a lackey of the 707 triad in exchange for protection from other gangs: “這鬼是「**七****0****七**」的「**草鞋**」（私會黨的總務），每逢禮拜晚就來黑巷向她賽賽討「**包爺費**」，為了免得別的私會黨的三星**臭卡**「**卡周**」（馬來語：欺凌），她賽賽不得不忍痛付給這鬼一筆保護費；可是這**臭卡**一開口就是**一巴掌**（**五扣**錢），講到口乾才減到**三扣**。”[^8]
+To take an example from Miao Xiu’s well-known novella 《新加坡屋顶下》(<i>Xinjiapo Wuding Xia</i>; <i>Under Singapore’s Roof</i>, 1951), consider these lines about Sai Sai, a character who reluctantly pays protection money – haggled down from five to three dollars – to a lackey of the 707 triad in exchange for protection from other gangs: “這鬼是「**七****0****七**」的「**草鞋**」（私會黨的總務），每逢禮拜晚就來黑巷向她賽賽討「**包爺費**」，為了免得別的私會黨的三星**臭卡**「**卡周**」（馬來語：欺凌），她賽賽不得不忍痛付給這鬼一筆保護費；可是這**臭卡**一開口就是**一巴掌**（**五扣**錢），講到口乾才減到**三扣**。”[^8]
 
 Here we see a succession of terms (in bold) that would surely baffle the non-local Chinese reader – and, for that matter, even a contemporary Chinese reader today. These include the name of a triad (七0七, or “707”), the informal term for someone who runs errands for triads (草鞋, literally “straw sandal”), the slang for “protection money” (包爺費, literally “fee for reserving the master”), the Malay term for “bully” (卡周, or _kacau_), the colloquial word for “five dollars” (一巴掌, literally “one slap”), and the term 扣 in Hokkien/Teochew for counting cash dollars.
 
   <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/2008_01220.jpg" style="width: 75%;">
 
-<div style="background-color: white;">Cover of《新加坡屋顶下》(<i>Xinjiapo Wuding Xia; Under Singapore's Roof</i>) by Miao Xiu (1951). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;">Cover of《新加坡屋顶下》(<i>Xinjiapo Wuding Xia</i>; <i>Under Singapore's Roof</i>) by Miao Xiu (1951). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 On occasion, Cantonese and Hokkien were mixed within a single utterance. Miao Xiu’s book also features scenes where characters use different dialects in alternation, for example, when one person speaks in Cantonese and the other responds in Hokkien. This technique of code-switching creates a complex weave of different voices on the page, even though it also leads to a contrived linguistic style peculiar to the written form.<br>
 
