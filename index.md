@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/singapore-early-printing/
-      button: History of Early Printing in Singapore
+      url: /vol-19/issue-3/oct-dec-2023/malay-portuguese-pantuns/
+      button: "Panton Malaijoe dan Portugees: A Rediscovered Manuscript"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 3/10 Printing/Hero_img_early_printing.jpg
+      background: /images/Vol 19 Issue 3/5 Panton/panton_hero_img.jpg
   - infopic:
       title: 炊烟袅袅 甘榜回忆
       subtitle: Places and Buildings
