@@ -949,4 +949,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: 炊烟袅袅 甘榜回忆
+      subtitle: Places and Buildings
+      id: infopic
+      description: 甘榜的纯朴生活反映了过去悠然自得的时代，那时的生活要简单得多。
+      button: 甘榜的纯朴生活
+      url: /places-and-buildings/2023/11/childhood-memories-kampong-wak-hassan-chinese/
+      image: /images/Online Only Articles/A Slice of Kampong
+        Life/grandfather_house.png
+      alt: Image alt text
 ---
