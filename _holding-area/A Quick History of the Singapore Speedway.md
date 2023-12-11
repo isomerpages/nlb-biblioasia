@@ -91,7 +91,7 @@ The closure of the Speedway marked the end of dirt track bike racing in Singapor
 
 ![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image6.png) <br>
 ![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image7.png)
-<div style="background-color: white;">A map of the area between Upper Serangoon Road and MacPherson Road shows the former Singapore Speedway – labelled “Old Speedway” in the 1938 map (left) – being replaced by the Sennett Estate in the 1953 map (right). <i>Survey Department Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">A map of the area between Upper Serangoon Road and MacPherson Road shows the former Singapore Speedway – labelled “Old Speedway” in the 1938 map (top) – being replaced by the Sennett Estate in the 1953 map (bottom). <i>Survey Department Collection, courtesy of National Archives of Singapore.</i></div>
 
 There was one attempt to revive dirt track racing in Singapore. This time, an Australian group applied to the Singapore City Council in 1953 to hold dirt track midget car racing at Jalan Besar Stadium. However, the application was rejected on the grounds that dirt track racing would damage the football pitch.[^27]
 
@@ -120,48 +120,48 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 [^5]: “[Career of the Man Behind Successes in Car Racing](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300414-1.2.124),” _Malaya Tribune_, 14 April 1930, 19. (From NewspaperSG)
 
-[^6]: “[Speedway for Singapore. Dirt-Track Racing To Start Shortly](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19290620-1.2.35),” _Singapore Budget_, 20 June 1929, 9; “The New Speedway,” _Malaya Tribune_, 1 March 1930, 10; “Singapore’s New Sport,” _Singapore Free Press and Mercantile Advertiser_, 8 March 1930, 20; “The New Speedway,” _Straits Times_, 24 February 1930, 13. (From NewspaperSG)
+[^6]: “[Speedway for Singapore. Dirt-Track Racing To Start Shortly](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19290620-1.2.35),” _Singapore Budget_, 20 June 1929, 9; “[The New Speedway](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300301-1.2.59),” _Malaya Tribune_, 1 March 1930, 10; “[Singapore’s New Sport](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300308-1.2.157),” _Singapore Free Press and Mercantile Advertiser_, 8 March 1930, 20; “[The New Speedway](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300224-1.2.99),” _Straits Times_, 24 February 1930, 13. (From NewspaperSG)
 
-[^7]: “Dirt Track Speed Wizard Arrives,” _Singapore Free Press and Mercantile Advertiser_, 20 March 1930, 20; “More Riders Arriving,” _Malaya Tribune_, 26 March 1930, 10; “Passengers,” _Straits Budget_, 3 April 1930, 8. (From NewspaperSG)&nbsp;
+[^7]: “[Dirt Track Speed Wizard Arrives](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300320-1.2.126),” _Singapore Free Press and Mercantile Advertiser_, 20 March 1930, 20; “[More Riders Arriving](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300326-1.2.78),” _Malaya Tribune_, 26 March 1930, 10; “[Passengers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19300403-1.2.24),” _Straits Budget_, 3 April 1930, 8. (From NewspaperSG)&nbsp;
 
-[^8]: “Dirt Track Speed Wizard Arrives.”
+[^8]: “[Dirt Track Speed Wizard Arrives](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300320-1.2.126).”
 
-[^9]: “The Home of Trophies,” _Malaya Tribune_, 15 April 1930, 17; “Some Trophies,” _Malaya Tribune_, 27 March 1930, 10. (From NewspaperSG)
+[^9]: “[The Home of Trophies](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300415-1.2.96),” _Malaya Tribune_, 15 April 1930, 17; “[Some Trophies](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300327-1.2.79),” _Malaya Tribune_, 27 March 1930, 10. (From NewspaperSG)
 
-[^10]: “Riders’ Club Gaining Members,” _Malaya Tribune_, 2 April 1930, 10 (From NewspaperSG); “Some Trophies.”&nbsp;
+[^10]: “[Riders’ Club Gaining Members](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300402-1.2.79),” _Malaya Tribune_, 2 April 1930, 10 (From NewspaperSG); “[Some Trophies](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300327-1.2.79).”
 
-[^11]: “Nearly Ready,” _Malaya Tribune_, 2 April 1930, 10. (From NewspaperSG)
+[^11]: “[Nearly Ready](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300402-1.2.78),” _Malaya Tribune_, 2 April 1930, 10. (From NewspaperSG)
 
-[^12]: “Speedway Ready,” _Malaya Tribune_, 5 April 1930, 10. (From NewspaperSG)
+[^12]: “[Speedway Ready](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300405-1.2.94),” _Malaya Tribune_, 5 April 1930, 10. (From NewspaperSG)
 
-[^13]: “Who Supplied the Materials Used To Build Singapore Speedway,” _Malaya Tribune_, 14 April 1930, 18. (From NewspaperSG)
+[^13]: “[Who Supplied the Materials Used To Build Singapore Speedway](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300414-1.2.121),” _Malaya Tribune_, 14 April 1930, 18. (From NewspaperSG)
 
-[^14]: “Sports and Pastimes. Record Opening Night,” _Malaya Tribune_, 21 April 1930, 10; “Serangoon Dirt-Track Thrills,” _Singapore Free Press and Mercantile Advertiser_, 21 April 1930, 10. (From NewspaperSG)
+[^14]: “[Sports and Pastimes. Record Opening Night](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300421-1.2.55),” _Malaya Tribune_, 21 April 1930, 10; “[Serangoon Dirt-Track Thrills](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300421-1.2.42),” _Singapore Free Press and Mercantile Advertiser_, 21 April 1930, 10. (From NewspaperSG)
 
-[^15]: “Last Night’s Speedway Thrills,” _Singapore Free Press and Mercantile Advertiser_, 8 May 1930, 20; “Twins,” “Dirt-Track Racing Notes,” _Malayan Saturday Post_, 17 May 1930, 24. (From NewspaperSG)
+[^15]: “[Last Night’s Speedway Thrills](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300508-1.2.145),” _Singapore Free Press and Mercantile Advertiser_, 8 May 1930, 20; “Twins,” “[Dirt-Track Racing Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19300517-1.2.44),” _Malayan Saturday Post_, 17 May 1930, 24. (From NewspaperSG)
 
 [^16]: “Speedway Manager Arrested,” _Straits Times_, 8 May 1930, 12. (From NewspaperSG)
 
-[^17]: “Page 9 Advertisements Column 5,” _Singapore Free Press and Mercantile Advertiser_, 24 May 1930, 9; “Speedway Attractions,” Malaya Tribune, 29 May 1930, 10; “Thrilling Riding at the Speedway,” _Singapore Free Press and Mercantile Advertiser_, 4 June 1930, 11; “Sports &amp; Pastimes. Clever English Rider,” _Malaya Tribune_, 2 June 1930, 10; “Topics of To-Day,” Malaya Tribune, 4 June 1930, 8. (From NewspaperSG)
+[^17]: “[Page 9 Advertisements Column 5](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300524-1.2.44.5),” _Singapore Free Press and Mercantile Advertiser_, 24 May 1930, 9; “[Speedway Attractions](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300529-1.2.75),” Malaya Tribune, 29 May 1930, 10; “[Thrilling Riding at the Speedway](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300604-1.2.90),” _Singapore Free Press and Mercantile Advertiser_, 4 June 1930, 11; “[Sports Pastimes. Clever English Rider](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300602-1.2.60),” _Malaya Tribune_, 2 June 1930, 10; “[Topics of To-Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300604-1.2.40),” Malaya Tribune, 4 June 1930, 8. (From NewspaperSG)
 
-[^18]: “Dirt-Track Racing Notes,” _Malayan Saturday Post_, 14 June 1930, 41. (From NewspaperSG)
+[^18]: “[Dirt-Track Racing Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19300614-1.2.101),” _Malayan Saturday Post_, 14 June 1930, 41. (From NewspaperSG)
 
-[^19]: “The Singapore Speedway,” _Malaya Tribune_, 28 May 1930, 11. (From NewspaperSG)
+[^19]: “[The Singapore Speedway](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300528-1.2.95),” _Malaya Tribune_, 28 May 1930, 11. (From NewspaperSG)
 
-[^20]: “Meeting Suspended,” _Malaya Tribune_, 17 June 1930, 10. (From NewspaperSG)
+[^20]: “[Meeting Suspended](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300617-1.2.66),” _Malaya Tribune_, 17 June 1930, 10. (From NewspaperSG)
 
-[^21]: “The Singapore Speedway. Dirt-Track Racing – Will the Club Continue?” _Malaya Tribune_, 19 June 1930, 10; “Reorganisation of the Speedways,” _Singapore Free Press and Mercantile Advertiser_, 21 June 1930, 20. (From NewspaperSG)
+[^21]: “[The Singapore Speedway. Dirt-Track Racing – Will the Club Continue?](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300619-1.2.70)” _Malaya Tribune_, 19 June 1930, 10; “[Reorganisation of the Speedways](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300621-1.2.131),” _Singapore Free Press and Mercantile Advertiser_, 21 June 1930, 20. (From NewspaperSG)
 
-[^22]: “Reorganisation of the Speedways,” _Singapore Free Press and Mercantile Advertiser_, 21 June 1930, 20. (From NewspaperSG)
+[^22]: “[Reorganisation of the Speedways](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300621-1.2.131),” _Singapore Free Press and Mercantile Advertiser_, 21 June 1930, 20. (From NewspaperSG)
 
-[^23]: “Singapore Speedway,” _The Daily News_ (Perth, WA: 1882–1955) (Home Final Edition), 31 July 1930, 5, http://nla.gov.au/nla.news-article83574622. The article mentions that the shareholders’ meeting took place on Wednesday, 11 July 1930. However, 11 July 1930 was a Friday. The meeting is more likely to have taken place on Wednesday 11 June 1930, two days before Reynolds left for Colombo. “Untitled,” _Malaya Tribune_, 12 June 1930, 7. (From NewspaperSG)
+[^23]: “Singapore Speedway,” _The Daily News_ (Perth, WA: 1882–1955) (Home Final Edition), 31 July 1930, 5, http://nla.gov.au/nla.news-article83574622. The article mentions that the shareholders’ meeting took place on Wednesday, 11 July 1930. However, 11 July 1930 was a Friday. The meeting is more likely to have taken place on Wednesday 11 June 1930, two days before Reynolds left for Colombo. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300612-1.2.26),” _Malaya Tribune_, 12 June 1930, 7. (From NewspaperSG)
 
-[^24]: “Page 9 Advertisements Column 6: Distress Sale,” _Singapore Free Press and Mercantile Advertiser_, 31 July 1930, 9. (From NewspaperSG)
+[^24]: “Page 9 Advertisements Column 6: [Distress Sale](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300731-1.2.44.6),” _Singapore Free Press and Mercantile Advertiser_, 31 July 1930, 9. (From NewspaperSG)
 
 [^25]: “Singapore Speedway,” _The Daily News (Perth, WA: 1882–1955)_ (Home Final Edition), 31 July 1930, 5, http://nla.gov.au/nla.news-article83574622.
 
-[^26]: “$5,000,000 Building Contract Signed,” _Straits Times_, 4 February 1951, 5. (From NewspaperSG)
+[^26]: “[$5,000,000 Building Contract Signed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510204-1.2.51),” _Straits Times_, 4 February 1951, 5. (From NewspaperSG)
 
-[^27]: “Council Says No to Dirt Track Racing,” _Straits Times_, 26 June 1953, 5. (From NewspaperSG)
+[^27]: “[Council Says No to Dirt Track Racing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19530626-1.2.71),” _Straits Times_, 26 June 1953, 5. (From NewspaperSG)
 
 [^28]: “Singapore Speedway,” Super Mario Wiki, accessed 24 October 2023, https://www.mariowiki.com/Singapore\_Speedway.
