@@ -159,7 +159,7 @@ In the 1960s, the Malay comic book publishing trade began shifting its centre fr
 [^8]: Merayu Rawan, [_Pusaka Datuk Moyang_](https://eservice.nlb.gov.sg/item_holding.aspx?id=12605055) (Singapore: Nilam, 1952). (From National Library, Singapore, call no. RCLOS Malay 741.5 MER)
 
 
-[^9]: Annabel Teh Gallop, “Malay Comic Books from the 1950s and 1960s in the British Library,” _Southeast Asia Library Group Newsletter_, no. 54 (December 2022): 47–48. Southeast Asia Library Group, https://safe.menlosecurity.com/http://www.sealg.org/pdf/newsletter2022.pdf.
+[^9]: Annabel Teh Gallop, “Malay Comic Books from the 1950s and 1960s in the British Library,” _Southeast Asia Library Group Newsletter_, no. 54 (December 2022): 47–48. Southeast Asia Library Group, https://web.archive.org/20230202094121/seal.org/pdf/newslatter2022.pdf.
 
 [^10]: Gallop, “Malay Comic Books from the 1950s and 1960s in the British Library.” 
 
