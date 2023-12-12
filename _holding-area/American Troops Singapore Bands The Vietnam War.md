@@ -54,12 +54,12 @@ Veronica and the Impian Bateks were assigned a Filipino manager by their Korean 
 
 They performed indoors in clubs and mess halls and outdoors on makeshift stages. Conditions ranged from basic to downright poor. Sanitation was a major challenge. Female entertainers also attracted a lot of unwanted attention – shows often got wild, even with the military police present. Some soldiers would try to take advantage of the girls, even trying to sneak into their quarters. Friendly exchanges sometimes led to demands for sex or worse. 
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image6.png)
+<div style="background-color: white;">Female dancers were always a big hit with the soldiers, 1969. <i>Courtesy of Veronica Young.</i></div>
+
 Veronica recounted an incident at the Chu Lai barracks. It was dark and quiet, and she was alone at the cooking stove at the end of the barracks. She was boiling a pot of water, cutting chillies. She did not hear anything, but someone suddenly pounced on her and wrapped his arms around her. She instinctively thrust the knife in her hand backwards into the gut of her unseen assailant. There was heavy thud. She looked down and saw a GI groaning, writhing in pain, bloodied. Startled but relieved, she said, “Sorry… you got the wrong one.”
 
 Yet, Veronica remembers most of the troops as “nice and polite”. She said, “They were waiting just to touch you. They didn’t mean any harm. It was so sad. They were there – to live or die – they didn’t know… having been sent over.”
-
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image6.png)
-<div style="background-color: white;">Female dancers were always a big hit with the soldiers, 1969. <i>Courtesy of Veronica Young.</i></div>
 
 Once, onboard a C130 Hercules airplane en route to their next gig, Veronica overheard the pilots asking about the girls. She asked the crew for his headset and joined the conversation. “Which one are you?” the pilot asked. She replied coyly, “The small pretty one that sings. Now, which one do you want to know about?” Veronica was invited into the cockpit. “Would you like to fly?” the pilot asked. She jumped at the chance and squeezed into the co-pilot’s seat. She gripped the yoke tightly, sending the plane into a sudden dive, momentarily suspending everyone mid-air. Fortunately, the pilot quickly regained control and steadied the plane.
 
