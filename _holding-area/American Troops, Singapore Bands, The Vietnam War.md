@@ -143,7 +143,7 @@ The stories of Veronica Young, Harris Hamzah and Steve Bala Siren inspired a ser
 
 [^1]: “[‘Impian Bateks’ Akan Berhijrah Ka-Saigon](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19690713-1.2.85),” _Berita Harian_, 13 July 1969, 12. (From NewspaperSG)
 
-[^2]: “[Vietnam Through As ‘Breaking Ground’ Says Veronica](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710409-1.2.56),” _Straits Times_, 9 April 1971, 10. (From NewspaperSG)
+[^2]: “[Vietnam Through As ‘Breaking-Ground’ Says Veronica](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710409-1.2.56),” _Straits Times_, 9 April 1971, 10. (From NewspaperSG)
 
 [^3]: “[Penyani Pulang Rindukan Keluarga](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19691107-1.2.17),” _Berita Harian_, 7 November 1969, 2. (From NewspaperSG)
 
