@@ -13,7 +13,7 @@ By Boon Lai
 To most people in Singapore who lived through the period, the Vietnam War, which ended in 1975, is a distant memory, an event that largely did not touch their lives personally. While fierce fighting was taking place in the region, to many in Singapore at the time, the main face of the war was drunk soldiers on rest and recreation leave.
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image1.png)
-<div style="background-color: white;"><i>Illustrations courtesy of Boon Lai. </i></div>
+<div style="background-color: white;"><i>Illustration by Boon Lai.</i></div>
 
 However, for a small group of Singaporeans, the war in Vietnam was highly personal. Some of them were photographers and cameramen who worked for news organisations covering the war. Embedded with American troops who were doing the fighting in South Vietnam, they were exposed to the same dangers as the soldiers. And like the soldiers, some of them lost their lives.
 
