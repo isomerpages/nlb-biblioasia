@@ -189,7 +189,7 @@ Chua also played basketball for Siong Boo Athletic Association and was a top-cla
 During the Japanese Occupation (1942–45), Chua became a committee member of the football section of the Syonan Sports Association established by the Japanese. In 1948, after the war ended, he joined the China football team as a coach for the London Olympic Games.
 
 #### **Foong Mun Fun**
-<img style="width:40%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/foong%20mun%20fun.jpg">
+<img style="width:40%;" src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/FoongMunFun_edited.jpg">
  <div style="background-color: white;">Foong Mun Fun.<i> Image reproduced from “Singapore’s Football Test Team,” Malayan Saturday Post, 30 July 1927. (From NewspaperSG).</i></div>
 
 7 appearances in the Malaya Cup final (4 wins)<br> 
