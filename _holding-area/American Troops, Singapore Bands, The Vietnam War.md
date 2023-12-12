@@ -7,7 +7,7 @@ description: Lured by good money and adventure, local performers braved the
   war-weary American troops.
 image: /images/Vol 20 Issue 1/Vietnam War/Image1.png
 ---
-#### Lured by good money and adventure, local performers braved the dangers of the Vietnam War to bring entertainment, escape and respite to war-weary American troops. 
+#### Lured by the prospects of money and adventure, local performers braved the dangers of the Vietnam War to provide entertainment to American troops.
 By Boon Lai
 
 To most people in Singapore who lived through the period, the Vietnam War, which ended in 1975, is a distant memory, an event that largely did not touch their lives personally. While fierce fighting was taking place in the region, to many in Singapore at the time, the main face of the war was drunk soldiers on rest and recreation leave.
