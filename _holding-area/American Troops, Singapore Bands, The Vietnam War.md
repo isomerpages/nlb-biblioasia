@@ -81,6 +81,7 @@ The band stayed in their agent’s halfway house in Cho Lon, Saigon, and within 
 Once considered the Pearl of the Orient, Saigon had developed the reputation of a Sin City. It was already overcrowded but more and more people kept flooding in, fleeing their battle-ravaged villages for the perceived safety of the city. The enormous inflow of US dollars drove prices up, and grossly inflated American goods were peddled alongside drugs, booze and sex. The Vietcong (a communist guerilla force supported by the North Vietnamese army to fight in the South) were everywhere, effectively putting Saigon under siege.
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/ImageA.png)
+<br>
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/ImageB.png)
 <div style="background-color: white;">Saigon (Ho Chi Minh City today) developed a reputation as a Sin City during the war<i>. Illustrations courtesy of Boon Lai</i></div>
 
