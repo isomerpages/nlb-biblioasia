@@ -3,7 +3,14 @@ title: Music
 permalink: /topics/arts/music/
 description: ""
 third_nav_title: Arts
+variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/">American Troops, Singapore Bands, The Vietnam War</a>
+Lured by the prospects of money and adventure, local performers braved the dangers of the Vietnam War to provide entertainment to American troops.
+
+ <img src="/images/Vol%2020%20Issue%201/Vietnam%20War/sgband_vietnamwar_boonlai_cropped.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/talentime-history-singapore/">Singapore's Got Talent: When Talentime Ruled the Airwaves</a>
 Although Talentime has been replaced by reality talent contests, it will be remembered as a show that launched the musical careers of many Singaporeans.
 

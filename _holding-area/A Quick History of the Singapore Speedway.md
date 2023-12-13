@@ -4,6 +4,7 @@ permalink: /holding-area/test2/
 variant: markdown
 description: The history of the Singapore Speedway was as fast and furious as
   the races it hosted.
+image: /images/Vol 20 Issue 1/Singapore Speedway/Image1.png
 ---
 #### The history of the Singapore Speedway was as fast and furious as the races it hosted.
 By Yap Jo Lin
@@ -106,7 +107,7 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Yap_Jo_Lin.png">
-	<b>Boon Lai</b> is a content creator, author, illustrator and filmmaker based in Singapore. Inspired by the true accounts of the rockers who toured the Vietnam War, he created the three-book graphic novel series, The Once Marvellous DKD (dkdgraphicnovel.com). </div>
+	<b>Yap Jo Lin</b> is a Senior Archivist with the National Archives of Singapore. Her responsibilities include managing the archives’ collection of building plans.</div>
 
 #### **Notes**
 
@@ -140,9 +141,9 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 [^15]: “[Last Night’s Speedway Thrills](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300508-1.2.145),” _Singapore Free Press and Mercantile Advertiser_, 8 May 1930, 20; “Twins,” “[Dirt-Track Racing Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19300517-1.2.44),” _Malayan Saturday Post_, 17 May 1930, 24. (From NewspaperSG)
 
-[^16]: “Speedway Manager Arrested,” _Straits Times_, 8 May 1930, 12. (From NewspaperSG)
+[^16]: “[Speedway Manager Arrested](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300508-1.2.65),” _Straits Times_, 8 May 1930, 12. (From NewspaperSG)
 
-[^17]: “[Page 9 Advertisements Column 5](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300524-1.2.44.5),” _Singapore Free Press and Mercantile Advertiser_, 24 May 1930, 9; “[Speedway Attractions](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300529-1.2.75),” Malaya Tribune, 29 May 1930, 10; “[Thrilling Riding at the Speedway](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300604-1.2.90),” _Singapore Free Press and Mercantile Advertiser_, 4 June 1930, 11; “[Sports Pastimes. Clever English Rider](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300602-1.2.60),” _Malaya Tribune_, 2 June 1930, 10; “[Topics of To-Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300604-1.2.40),” Malaya Tribune, 4 June 1930, 8. (From NewspaperSG)
+[^17]: “[Page 9 Advertisements Column 5](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300524-1.2.44.5),” _Singapore Free Press and Mercantile Advertiser_, 24 May 1930, 9; “[Speedway Attractions](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300529-1.2.75),” Malaya Tribune, 29 May 1930, 10; “[Thrilling Riding at the Speedway](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300604-1.2.90),” _Singapore Free Press and Mercantile Advertiser_, 4 June 1930, 11; “[Sports &amp; Pastimes. Clever English Rider](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300602-1.2.60),” _Malaya Tribune_, 2 June 1930, 10; “[Topics of To-Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300604-1.2.40),” Malaya Tribune, 4 June 1930, 8. (From NewspaperSG)
 
 [^18]: “[Dirt-Track Racing Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19300614-1.2.101),” _Malayan Saturday Post_, 14 June 1930, 41. (From NewspaperSG)
 

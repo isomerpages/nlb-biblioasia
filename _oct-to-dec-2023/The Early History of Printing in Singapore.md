@@ -232,7 +232,8 @@ This is a facsimile reproduction of the 1837 edition of the Gospel of John, whic
 	
 <img style="width:70%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/New%20Folder/japanese%20bible4.jpg">
 <div style="background-color: #fff6ba;text-align:left">
-	Cover and pages from 約翰福音之傳: 複製及解説<i> (Yohane fukuin no den: Fukusei oyobi kaisetsu). Collection of the National Library, Singapore (Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E).</i></div><br>
+	Cover and pages from 約翰福音之傳: 複製及解説<i> (Yohane fukuin no den: Fukusei oyobi kaisetsu). Collection of th
+	e National Library, Singapore (Call no. RCLOS 226.5 YOH-[LSB]; Accession no. B32428440E).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=f9d3332f-3612-46d3-b134-b254d106aaf9"><b>Notices of the Indian Archipelago, and Adjacent Countries</b></a><br>Singapore: 1837.<br>Call no. RRARE 991 MOO; Accession no. B03013554J.<br><br>
@@ -317,7 +318,7 @@ Wylie, Alexander, <i>Memorials of Protestant Missionaries to the Chinese</i> (Sh
 <b>Gracie Lee</b> is a Senior Librarian with the National Library, Singapore. She works with the library’s rare materials collections, and enjoys uncovering and sharing the stories behind Singapore’s printed heritage.</div>
 
 
-#### Notes
+#### **NOTES**
 
 [^1]: Cecil K. Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081984) (Singapore: National Library, 1970), 9–10, 13. (From National Library, Singapore, call no. RCLOS 686.2095957 BYR); Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 57, no. 2 (247) (1984): 61–62, 67. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Ching Su, “Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss., University College London, 1996), 154–55, https://discovery.ucl.ac.uk/id/eprint/1317522/.
 

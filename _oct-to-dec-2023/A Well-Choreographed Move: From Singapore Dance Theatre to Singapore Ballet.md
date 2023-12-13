@@ -125,7 +125,7 @@ Most importantly, under Schergen, the company began to address the critical ques
 The name change in December 2021 was thus long overdue, according to Schergen. “By the time three decades had passed, a confident maturity to SDT was now in place and the company had its own unique identity,” he said. “To reflect this and show this confident maturity of the nature of our organisation, a decision has been made to rename ourselves as Singapore Ballet.”[^34]
 
 ![](/images/Vol%2019%20Issue%203/image11.png)
-<div style="background-color: white;">Rehearsing for Timothy Rushton’s <i>Quiver<i>, 2022. Photo by Chang Zi Min. <i>Courtesy of Singapore Ballet.</i></i></i></div><i><i>
+<div style="background-color: white;">Rehearsing for Timothy Rushton’s <i>Quiver<i>, 2022. Photo by Chang Zi Min. <i>Courtesy of Singapore Ballet.</i></i></i></div>
 
 #### **Always En Pointe**
 
@@ -139,9 +139,10 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/thammika.png">
-	<b>Thammika Songkaeo</b> is a resident of Singapore and the creative producer of <i>Changing Room</i> (www.twoglasses.org), a dance film and interactive screening experience. A student of ballet, Latin and street styles, she holds a Master of Fine Arts degree in creative writing from the Vermont College of Fine Arts. She is also an alumna of Williams College in Massachusetts and the University of Pennsylvania. </div>
+	<b>Thammika Songkaeo</b> is a resident of Singapore and the creative producer of <i>Changing Room</i> (www.twoglasses.org), a dance film and interactive screening experience. A student of ballet, Latin and street styles, she holds a Master of Fine Arts degree in creative writing from the Vermont College of Fine Arts. She is also an alumna of Williams College in Massachusetts and the University of Pennsylvania.</div>
 	
 #### **NOTES**
+
 
 [^1]: Janek Schergen, interview, 21 December 2022.
 
@@ -215,4 +216,3 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 
 
-</i></i>

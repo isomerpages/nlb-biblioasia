@@ -208,11 +208,11 @@ For the repair process by Zhivko Girginov, click [here](https://biblioasia.nlb.g
 
 [^27]: “[Katchen on the Air Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550116-1.2.49),” _Straits Times_, 16 January 1955, 5. (From NewspaperSG)
 
-[^28]: “[A Singapore Surprise for Mr Katchen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550112-1.2.151)”, _Straits Times_, 12 January 1955, 8. (From NewspaperSG)
+[^28]: “[A Singapore Surprise for Mr Katchen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550112-1.2.151),” _Straits Times_, 12 January 1955, 8. (From NewspaperSG)
 
 [^29]: Tinny Treble, “[Monument to a Blunder](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550121-1.2.140.6),” _Straits Times_, 21 January 1955, 8. (From NewspaperSG)
 
-[^30]: “[Katchen Recital in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570713-1.2.55)”, _Straits Times_, 13 July 1957, 4, (From NewspaperSG)
+[^30]: “[Katchen Recital in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570713-1.2.55),” _Straits Times_, 13 July 1957, 4, (From NewspaperSG)
 
 [^31]: V.F.D., “[Shanghai Pianist in an Impressive Appassionata](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19510109-1.2.156),” _Singapore Standard_, 9 January 1951, 11. (From NewspaperSG)
 

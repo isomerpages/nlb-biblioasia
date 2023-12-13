@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 3/5 Panton/panton_hero_img.jpg
   - infopic:
+      title: American Troops, Singapore Bands, The Vietnam War
+      subtitle: Music
+      id: infopic
+      description: Lured by the prospects of money and adventure, local performers
+        braved the dangers of the Vietnam War to provide entertainment to
+        American troops.
+      button: GIGS in Vietnam
+      url: /vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/
+      image: /images/Vol 20 Issue 1/Vietnam War/sgband_vietnamwar_boonlai_cropped.jpg
+      alt: Image alt text
+  - infopic:
       title: 炊烟袅袅 甘榜回忆
       subtitle: Places and Buildings
       id: infopic

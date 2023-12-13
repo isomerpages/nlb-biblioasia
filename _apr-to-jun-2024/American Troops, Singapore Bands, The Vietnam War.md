@@ -1,19 +1,19 @@
 ---
-title: American Troops Singapore Bands The Vietnam War
-permalink: /holding-area/test1/
+title: American Troops, Singapore Bands, The Vietnam War
+permalink: /vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/
 variant: markdown
 description: Lured by good money and adventure, local performers braved the
   dangers of the Vietnam War to bring entertainment, escape and respite to
   war-weary American troops.
 image: /images/Vol 20 Issue 1/Vietnam War/Image1.png
 ---
-#### Lured by good money and adventure, local performers braved the dangers of the Vietnam War to bring entertainment, escape and respite to war-weary American troops. 
+#### Lured by the prospects of money and adventure, local performers braved the dangers of the Vietnam War to provide entertainment to American troops.
 By Boon Lai
 
 To most people in Singapore who lived through the period, the Vietnam War, which ended in 1975, is a distant memory, an event that largely did not touch their lives personally. While fierce fighting was taking place in the region, to many in Singapore at the time, the main face of the war was drunk soldiers on rest and recreation leave.
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image1.png)
-<div style="background-color: white;">The graphic novel series, <i>The Once &amp; Marvellous DKD</i>, was inspired by the accounts of local talents who entertained American GIs during the Vietnam War. <i>Illustrations courtesy of Boon Lai. </i></div>
+<div style="background-color: white;"><i>Illustration by Boon Lai.</i></div>
 
 However, for a small group of Singaporeans, the war in Vietnam was highly personal. Some of them were photographers and cameramen who worked for news organisations covering the war. Embedded with American troops who were doing the fighting in South Vietnam, they were exposed to the same dangers as the soldiers. And like the soldiers, some of them lost their lives.
 
@@ -21,10 +21,12 @@ Apart from daring local journalists, there was another group of Singaporeans who
 
 Once there, they were plunged into a situation unlike anything they had experienced before. Apart from keeping their instruments tuned, they had to learn to fire weapons (they were given a crash course). Getting to each gig did not involve merely a tour bus; sometimes, they were flown there in helicopters that would come under fire.
 
+This is what life in a war zone was like, as told by three musicians who experienced it: Veronica Young, Harris Hamzah and Steve Bala Siren. 
+
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/ImageC.png)
 <div style="background-color: white;">Entertainers being dropped off via a Huey chopper.&nbsp;<i>Illustration courtesy of Boon Lai.</i></div>
 
-This is what life in a war zone was like, as told by three musicians who experienced it: Veronica Young, Harris Hamzah and Steve Bala Siren. 
+
 
 #### **Veronica Young**
 
@@ -46,6 +48,7 @@ Veronica flew to Saigon (Ho Chi Minh City today) with the Impian Bateks in 1969.
 A few days later, Veronica, the Impian Bateks, and two dancing girls (on occasion a Korean stripper would join them) started their tour. They went to American bases around then South Vietnam, such as Phu Bai, Phu Loi, Quang Tri, Chu Lai, Cam Ranh Bay, Da Nang. They travelled by road or air via army trucks, C130 planes CH-47 Chinooks and Huey helicopters, to and from the 10 major bases, to over 100 towns and military outposts throughout South Vietnam.
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image7.png)
+<br>
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image8.png)
 <div style="background-color: white;">Veronica Young and the Impian Bateks riding a Chinook to their gig, 1969. <i>Courtesy of Veronica Young.</i></div>
 
@@ -60,12 +63,11 @@ Yet, Veronica remembers most of the troops as “nice and polite”. She said, �
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image6.png)
 <div style="background-color: white;">Female dancers were always a big hit with the soldiers, 1969. <i>Courtesy of Veronica Young.</i></div>
 
+
+
 Once, onboard a C130 Hercules airplane en route to their next gig, Veronica overheard the pilots asking about the girls. She asked the crew for his headset and joined the conversation. “Which one are you?” the pilot asked. She replied coyly, “The small pretty one that sings. Now, which one do you want to know about?” Veronica was invited into the cockpit. “Would you like to fly?” the pilot asked. She jumped at the chance and squeezed into the co-pilot’s seat. She gripped the yoke tightly, sending the plane into a sudden dive, momentarily suspending everyone mid-air. Fortunately, the pilot quickly regained control and steadied the plane.
 
 On another occasion, this time in a helicopter, Veronica asked to sit next to the door gunner. Flying between Cam Ranh Bay and Da Nang, she asked if she could fire the mounted heavy M60 machine gun: “One shot?” She had to wait until they reached a clearing before the gunner gave her the go-ahead. He placed his hands on her and said, “But I gotta hold you.” She responded that she didn’t care what he did. “You can hold me or kiss me. Just let me shoot!” She pulled the trigger and bullets sprayed out in rapid fiery bursts, tearing through the air. The powerful recoil of the machine gun threw her violently back and she realised why the gunner had insisted on holding on to her.
-
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image3.png)
-<div style="background-color: white;">Veronica Young in South Vietnam, 1969. <i>Courtesy of Veronica Young.</i></div>
 
 But the realities and atrocities of war were unavoidable. Escorted by soldiers, Veronica remembers seeing signs of brutal confrontation as they passed underground tunnels, the sites of bloody fighting. “I’ll never forget it… Even now, talking about it, I have it in my vision. A dead body, covered in maggots.”
 
@@ -83,24 +85,25 @@ The band stayed in their agent’s halfway house in Cho Lon, Saigon, and within 
 Once considered the Pearl of the Orient, Saigon had developed the reputation of a Sin City. It was already overcrowded but more and more people kept flooding in, fleeing their battle-ravaged villages for the perceived safety of the city. The enormous inflow of US dollars drove prices up, and grossly inflated American goods were peddled alongside drugs, booze and sex. The Vietcong (a communist guerilla force supported by the North Vietnamese army to fight in the South) were everywhere, effectively putting Saigon under siege.
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/ImageA.png)
+<br>
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/ImageB.png)
 <div style="background-color: white;">Saigon (Ho Chi Minh City today) developed a reputation as a Sin City during the war<i>. Illustrations courtesy of Boon Lai</i></div>
 
 “The \[US soldiers\] would talk to us,” said Harris. “Some of them would show us photographs of friends who were killed stepping on boobytraps and mines. Like them, we were also given \[dog\] tags to wear in case anything were to happen to us... Sometimes, when we boarded the transports, there would be someone there praying, as if we might not make it.”
 
-Recounting chopper rides to remote outposts, Harris said that he sometimes had to sit on the sides of the choppers. “And the GIs, maybe drunk or high on drugs, would just shoot at anything they \[saw\].” Drug use was common among the GIs. “Maybe they were given drugs so that they \[could\] keep on fighting. It was everywhere. Like it was free. Sometimes, when they passed us their tipping helmets, they \[were\] full of marijuana joints!”
+Recounting chopper rides to remote outposts, Harris said that he sometimes had to sit on the sides of the choppers. “And the GIs, maybe drunk or high on drugs, would just shoot at anything they \[saw\].” Drug use was common among the GIs. “Maybe they were given drugs so that they \[could\] keep on fighting. It was everywhere. Like it was free." 
 
 Harris described playing in Vietnam as “very challenging”. During the monsoon season, it was get very wet and muddy. Behind trucks, on shaky stages, under tarpaulin canvases or parachutes – anything that could provide cover from the intense sun or rain – entertainers played on even with gunfights taking place nearby. They had to improvise. “Often we didn’t get to wash properly,” recalled Harris. “We wore the same clothes for days. They were stinking of dried sweat. We couldn’t always get clean water. I even bathed once using beer!”
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image9.png)
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image9_edit.png)
 <div style="background-color: white;">Setting up the stage at the back of an army truck, 1969. <i>Courtesy of Veronica Young.</i></div>
 
 #### **Steve Bala Siren**
 
-Steve Bala Siren was the founder and lead guitarist of the band Esquires. A Korean agent had offered the band US$2,000 per week for a six-month stint in Vietnam, along with half a million dollars of insurance money for their families in the event of death. The band, comprising Steve Bala Siren, Gilbert Louis (guitar), Charlie Sundaram (drums), Denys Logan (vocals) and Raymond Lazaroo (bass), agreed to go even though they had no idea what to expect. 
+Steve Bala Siren was the founder and lead guitarist of the band Esquires. A Korean agent had offered the band US$2,000 per week for a six-month stint in Vietnam, along with half a million dollars of insurance money for their families in the event of death. The band, comprising Steve Bala Siren, Gilbert Louis (guitar), Charlie Sundaram (drums), Denys Logan (vocals) and Raymond Lazaroo (bass), agreed to go even though they had no idea what to expect.
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10.png)
-<div style="background-color: white;">American GIs being entertained by the Esquires, 1969. <i>Courtesy of Steve Bala Siren.</i></div>
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image11.png)
+<div style="background-color: white;">From left: Raymond Lazaroo, Steve Bala Siren, Denys Logan and Charlie Sundaram. This photo of the Esquires performing was taken moments before a bullet zipped between Raymond and Steve, 1969. <i>Courtesy of Steve Bala Siren</i></div>
 
 The band arrived in May 1969 and Steve remembers the grim welcome of 50-millimetre gun turrets mounted on sandbags and signs of fresh skirmishes on the drive from the airport to Saigon. “There were gun turrets along the route, sandbags stacked,” he recalled. “Buildings were half-standing. The whole place was quiet and grayish.”
 
@@ -114,8 +117,8 @@ Within 15 to 20 minutes, GIs appeared out of nowhere in camouflage – twigs and
 
 Danger was everywhere. During a show at a base in Chu Lai, bassist Raymond Lazaroo was playing just next to Steve and they both heard a sharp zipping sound cutting through between them. They looked at each other and turned back. In the wall behind them was a fresh bullet hole.
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image11.png)
-<div style="background-color: white;">From left: Raymond Lazaroo, Steve Bala Siren, Denys Logan and Charlie Sundaram. This photo of the Esquires performing was taken moments before a bullet zipped between Raymond and Steve, 1969. <i>Courtesy of Steve Bala Siren</i></div>
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit.png)
+<div style="background-color: white;">American GIs being entertained by the Esquires, 1969. <i>Courtesy of Steve Bala Siren.</i></div>
 
 Being ensconced in an American base did not mean that the performers were safer. Early one morning, Vietcong soldiers were spotted creeping around the barracks where the Esquires were staying. Sirens went off and the band was ordered to stay by their bunk beds. A fierce gunfight ensued. After the lockdown was lifted, they went to the mess hall for breakfast and saw the bloodied bodies of six Vietcong laid out on the floor.
 
@@ -132,19 +135,19 @@ By then, the Esquires had decided that they would not tempt fate further. They f
 Now in their 70s, Veronica, Harris and Steve are still living out their passion for music. Steve resides in Sweden and performs on cruise liners plying the Atlantic. Veronica lives an active life in France and performed at the Esplanade – Theatres on the Bay in early 2023. Harris still lives in Singapore and performs whenever he has the opportunity. The trio performed in extraordinary circumstances and lived to tell the tale. They, and other unsung entertainers, had given soldiers cheer, comfort, escape and some connection to their home and families faraway.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-The stories of Veronica Young, Harris Hamzah and Steve Bala Siren inspired a serialised graphic novel <i>The Once</i> &amp; <i>Marvellous DKD</i>. This book is available for reference at the Lee Kong Chian Reference Library at Level 8 of the National Library Building (call no. RSING 741.595957 LAI).<br><br>
+The stories of Veronica Young, Harris Hamzah and Steve Bala Siren inspired a serialised graphic novel <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204463645"><i>The Once</i> &amp; <i>Marvellous DKD</i></a>. This book is available for reference at the Lee Kong Chian Reference Library at Level 8 of the National Library Building (call no. RSING 741.595957 LAI).<br><br>
 <img src="/images/Vol%2020%20Issue%201/Vietnam%20War/Image_book.png"></div>
 			
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai.png">
-	<b>Boon Lai</b> is a content creator, author, illustrator and filmmaker based in Singapore. Inspired by the true accounts of the rockers who toured the Vietnam War, he created the three-book graphic novel series, The Once &amp; Marvellous DKD (dkdgraphicnovel.com). </div>
+	<b>Boon Lai</b> is a content creator, author, illustrator and filmmaker based in Singapore. Inspired by the true accounts of the rockers who toured the Vietnam War, he created the three-book graphic novel series, <i>The Once &amp; Marvellous DKD</i> (dkdgraphicnovel.com). </div>
 
 #### **Notes**
 
 [^1]: “[‘Impian Bateks’ Akan Berhijrah Ka-Saigon](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19690713-1.2.85),” _Berita Harian_, 13 July 1969, 12. (From NewspaperSG)
 
-[^2]: “[Vietnam Through As ‘Breaking Ground’ Says Veronica](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710409-1.2.56),” _Straits Times_, 9 April 1971, 10. (From NewspaperSG)
+[^2]: “[Vietnam Through As ‘Breaking-Ground’ Says Veronica](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710409-1.2.56),” _Straits Times_, 9 April 1971, 10. (From NewspaperSG)
 
 [^3]: “[Penyani Pulang Rindukan Keluarga](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19691107-1.2.17),” _Berita Harian_, 7 November 1969, 2. (From NewspaperSG)
 
