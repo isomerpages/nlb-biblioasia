@@ -100,10 +100,10 @@ Harris described playing in Vietnam as “very challenging”. During the monsoo
 
 #### **Steve Bala Siren**
 
-Steve Bala Siren was the founder and lead guitarist of the band Esquires. A Korean agent had offered the band US$2,000 per week for a six-month stint in Vietnam, along with half a million dollars of insurance money for their families in the event of death. The band, comprising Steve Bala Siren, Gilbert Louis (guitar), Charlie Sundaram (drums), Denys Logan (vocals) and Raymond Lazaroo (bass), agreed to go even though they had no idea what to expect. 
+Steve Bala Siren was the founder and lead guitarist of the band Esquires. A Korean agent had offered the band US$2,000 per week for a six-month stint in Vietnam, along with half a million dollars of insurance money for their families in the event of death. The band, comprising Steve Bala Siren, Gilbert Louis (guitar), Charlie Sundaram (drums), Denys Logan (vocals) and Raymond Lazaroo (bass), agreed to go even though they had no idea what to expect.
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit.png)
-<div style="background-color: white;">American GIs being entertained by the Esquires, 1969. <i>Courtesy of Steve Bala Siren.</i></div>
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image11.png)
+<div style="background-color: white;">From left: Raymond Lazaroo, Steve Bala Siren, Denys Logan and Charlie Sundaram. This photo of the Esquires performing was taken moments before a bullet zipped between Raymond and Steve, 1969. <i>Courtesy of Steve Bala Siren</i></div>
 
 The band arrived in May 1969 and Steve remembers the grim welcome of 50-millimetre gun turrets mounted on sandbags and signs of fresh skirmishes on the drive from the airport to Saigon. “There were gun turrets along the route, sandbags stacked,” he recalled. “Buildings were half-standing. The whole place was quiet and grayish.”
 
@@ -117,8 +117,8 @@ Within 15 to 20 minutes, GIs appeared out of nowhere in camouflage – twigs and
 
 Danger was everywhere. During a show at a base in Chu Lai, bassist Raymond Lazaroo was playing just next to Steve and they both heard a sharp zipping sound cutting through between them. They looked at each other and turned back. In the wall behind them was a fresh bullet hole.
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image11.png)
-<div style="background-color: white;">From left: Raymond Lazaroo, Steve Bala Siren, Denys Logan and Charlie Sundaram. This photo of the Esquires performing was taken moments before a bullet zipped between Raymond and Steve, 1969. <i>Courtesy of Steve Bala Siren</i></div>
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit.png)
+<div style="background-color: white;">American GIs being entertained by the Esquires, 1969. <i>Courtesy of Steve Bala Siren.</i></div>
 
 Being ensconced in an American base did not mean that the performers were safer. Early one morning, Vietcong soldiers were spotted creeping around the barracks where the Esquires were staying. Sirens went off and the band was ordered to stay by their bunk beds. A fierce gunfight ensued. After the lockdown was lifted, they went to the mess hall for breakfast and saw the bloodied bodies of six Vietcong laid out on the floor.
 
