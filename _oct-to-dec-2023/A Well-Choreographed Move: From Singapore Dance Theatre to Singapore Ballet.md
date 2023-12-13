@@ -125,7 +125,7 @@ Most importantly, under Schergen, the company began to address the critical ques
 The name change in December 2021 was thus long overdue, according to Schergen. “By the time three decades had passed, a confident maturity to SDT was now in place and the company had its own unique identity,” he said. “To reflect this and show this confident maturity of the nature of our organisation, a decision has been made to rename ourselves as Singapore Ballet.”[^34]
 
 ![](/images/Vol%2019%20Issue%203/image11.png)
-<div style="background-color: white;">Rehearsing for Timothy Rushton’s <i>Quiver<i>, 2022. Photo by Chang Zi Min. <i>Courtesy of Singapore Ballet.</i></i></i></div><i><i>
+<div style="background-color: white;">Rehearsing for Timothy Rushton’s <i>Quiver<i>, 2022. Photo by Chang Zi Min. <i>Courtesy of Singapore Ballet.</i></i></i></div>
 
 #### **Always En Pointe**
 
@@ -133,7 +133,7 @@ In 2023, Singapore Ballet celebrates its 35th anniversary. Among the highlights 
 
 After three and a half decades, Singapore Ballet has become a part of the nation’s artistic and cultural spirit. Today, as the company continues to carve out a path for itself, it can look towards to its future with hope. Armed with a new-found confidence in its identity, Singapore Ballet is poised to soar to greater heights.
 
-(/images/Vol%2019%20Issue%203/image10.png)
+![](/images/Vol%2019%20Issue%203/image10.png)
 <div style="background-color: white;">Singapore Ballet’s performance of Timothy Rushton’s <i>Evening Voices</i>, 2023. Photo by Bernie Ng. <i>Courtesy of Singapore Ballet.</i></div>
 
 <div style="background-color: white;">
@@ -216,4 +216,3 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 
 
-</i></i>
