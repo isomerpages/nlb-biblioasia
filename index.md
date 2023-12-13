@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 3/5 Panton/panton_hero_img.jpg
   - infopic:
+      title: A Quick History of the Singapore Speedway
+      subtitle: Leisure
+      id: infopic
+      description: The history of the Singapore Speedway was as fast and furious as
+        the races it hosted.
+      button: MOTORCYLE RACING IN SINGAPORE
+      url: /vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing
+      image: /images/Vol 20 Issue 1/Singapore Speedway/Image2_edit.png
+      alt: Image alt text
+  - infopic:
       title: American Troops, Singapore Bands, The Vietnam War
       subtitle: Music
       id: infopic
@@ -969,14 +979,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: A Quick History of the Singapore Speedway
-      subtitle: Leisure
-      id: infopic
-      description: The history of the Singapore Speedway was as fast and furious as
-        the races it hosted.
-      button: MOTORCYLE RACING IN SINGAPORE
-      url: /vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing
-      image: /images/Vol 20 Issue 1/Singapore Speedway/Image2_edit.png
-      alt: Image alt text
 ---
