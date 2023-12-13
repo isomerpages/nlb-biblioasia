@@ -1,6 +1,6 @@
 ---
 title: A Quick History of the Singapore Speedway
-permalink: /holding-area/test2/
+permalink: /vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing/
 variant: markdown
 description: The history of the Singapore Speedway was as fast and furious as
   the races it hosted.
@@ -11,14 +11,14 @@ By Yap Jo Lin
 
 Before the bright lights, glitz, glamour and celebrity of the Formula One Singapore night race, there was the Singapore Grand Prix (which started in 1961). But 30 years before that, speedsters and curious locals alike were privy to the thrills and spills of motorcycle racing at a specially constructed dirt track called the Singapore Speedway.
 
-![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image1.png)
-<div style="background-color: white;">Sketch of Speedway managing director A.J. Reynolds. <i>Image reproduced from “Career of the Man Behind Successes in Car Racing,” Malaya Tribune, 14 April 1930, 19. (From NewspaperSG). </i></div>
-
 The Speedway had a very short life. It hosted just six races from April to June 1930 before its closure, but it marks an interesting chapter in Singapore’s motor-racing history. It was located at Alkaff Avenue, near the junction of MacPherson and Upper Serangoon roads, roughly where Sennett Estate is today,[^1] and next to Alkaff Lake Gardens, which had opened a year earlier in 1929.
 
 News of the Speedway first broke on 3 December 1928, when the _Straits Times_ reported that Australian promoter F. Heron Pitcher was in town to set up a company, Singapore Speedway Limited, and that efforts were underway to identify a site.[^2] Pitcher claimed to have “ample evidence” that dirt track racing would have wide and universal appeal in Singapore. “I have no doubt that once the people see the races they will want more,” he said. “Besides having some of the greatest experts of the dirt track in the world performing on the Singapore track, opportunities will be given for local amateurs and professionals to race, for which trophies and cash prizes will be given.”[^3]
 
 In the months leading up to the Speedway’s debut, another Australian came on board as managing director – a Mr A.J. Reynolds, whose last stint was as an advertising manager for Western Australia Speedways Ltd.[^4] Reynolds came to Singapore with almost three decades of experience in the entertainment and sports industries under his belt. He had a colourful past. When he was 15, Reynolds joined a troupe of acrobats touring Australia. He eventually left the troupe and received some technical training on the applications of electricity in commerce. He managed a few cinemas and several racetracks in Australia before turning his attention to racing in Singapore.[^5]
+
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image1.png)
+<div style="background-color: white;">Sketch of Speedway managing director A.J. Reynolds. <i>Image reproduced from “Career of the Man Behind Successes in Car Racing,” Malaya Tribune, 14 April 1930, 19. (From NewspaperSG). </i></div>
 
 #### **Speedway Construction**
 
@@ -26,8 +26,8 @@ Construction of the Speedway started in February 1930 and was reported to have c
 
 The Speedway was designed by Keys and Dowdeswell, a well-known architectural firm in Singapore that had worked on Capitol Building and Capitol Theatre (both circa 1930). Founding partners Percy Hubert Keys and Frank Dowdeswell had been in government service when they designed the Fullerton Building in the late 1920s (now known as the Fullerton Hotel).
 
-![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image2.png)<br>
-![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image3.png)
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image2_edit.png)<br>
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image3_edit.png)
 <div style="background-color: white;">Original plans drafted by Keys &amp; Dowdeswell in 1930 for the proposed Speedway. <i>Building Control Division Collection, courtesy of National Archives of Singapore.</i></div>
 
 The buildings at the Speedway included three octagonal ticket kiosks, a rectangular shed with seating for spectators, an enclosure for motorcyclists adjacent to the track, and men’s and women’s lavatories. There were two updates to the plans submitted for approval. The first was for the removal of a refreshment room with a bar counter, a “crush hall” or a foyer/reception area, and a manager’s office from the design. The changes might have been made to lower costs and/or accelerate the project’s completion. The second update was for additional seating along the racetrack.
@@ -47,8 +47,7 @@ To raise the profile of dirt track racing in Singapore, Speedway organisers disp
 
 #### **Media Coverage**
 
-Five days before the grand opening, the _Malaya Tribune_  
-carried a three-page story about the Speedway. Besides running profiles of the races and race organiser A.J. Reynolds, they also featured articles about the companies and brands involved in the event. These included beverages produced by Phoenix Aerated Water Works Factory, and Osram lights installed by General Electric. There was even an entire article devoted to the Speedway’s lavatory arrangements (organisers had apparently been wondering how to cater for the huge numbers expected until prominent Eurasian contractor G.R. Oehlers stepped in with some sanitary solutions).[^13]
+Five days before the grand opening, the _Malaya Tribune_ carried a three-page story about the Speedway. Besides running profiles of the races and race organiser A.J. Reynolds, they also featured articles about the companies and brands involved in the event. These included beverages produced by Phoenix Aerated Water Works Factory, and Osram lights installed by General Electric. There was even an entire article devoted to the Speedway’s lavatory arrangements (organisers had apparently been wondering how to cater for the huge numbers expected until prominent Eurasian contractor G.R. Oehlers stepped in with some sanitary solutions).[^13]
 
 ![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image4.png)
 <div style="background-color: white;">The Singapore Speedway advertising the match between Charles Datson, Singapore’s champion, and Sig Schlam, Western Australia’s “most fearless” rider. The men will compete in a special four-lap match. <i>Image reproduced from “To-Night at Singapore Speedway,” Singapore Free Press and Mercantile Advertiser, 24 May 1930, 9. (From NewspaperSG).</i></div>
@@ -57,8 +56,7 @@ carried a three-page story about the Speedway. Besides running profiles of the r
 
 The inaugural race day was on the eve of Easter Sunday, 19 April 1930. Ticket prices ranged from 20 cents to $2.50. The $2.50 seats were in a special section with reserved seating. Grandstand tickets were priced at $2, followed by first-class tickets at $1, second-class at 50 cents and third-class at 20 cents. A large crowd turned up that day, including a number of cars from “up-country”, indicating that people had driven all the way from the Malay Peninsula to watch the races.[^14] Encouraged by the turn out, organisers added another 5,000 seats in the $1 and 50-cent sections ahead of the second race on 26 April.
 
-Inclement weather saw the postponement of the third race from Saturday 3 May 1930 to Wednesday  
-7 May 1930. Besides the main events, there was a novelty 400-metre rickshaw race that took the winner 1 minute 44 seconds to complete.[^15]
+Inclement weather saw the postponement of the third race from Saturday 3 May 1930 to Wednesday 7 May 1930. Besides the main events, there was a novelty 400-metre rickshaw race that took the winner 1 minute 44 seconds to complete.[^15]
 
 As exciting as it was, there was more drama off the track than on it. During the race, Reynolds was arrested on gambling charges. Each race programme had a unique number printed on it and it was declared that the holder of a randomly selected programme number would receive a $20 Robinson’s voucher. This was, in essence, a lottery. Reynolds pled guilty but his lawyer said Reynolds had only been trying to “encourage patrons” rather than promote gambling. Reynolds eventually received a nominal fine of $1.[^16]
 
@@ -137,7 +135,7 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 [^13]: “[Who Supplied the Materials Used To Build Singapore Speedway](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300414-1.2.121),” _Malaya Tribune_, 14 April 1930, 18. (From NewspaperSG)
 
-[^14]: “[Sports and Pastimes. Record Opening Night](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300421-1.2.55),” _Malaya Tribune_, 21 April 1930, 10; “[Serangoon Dirt-Track Thrills](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300421-1.2.42),” _Singapore Free Press and Mercantile Advertiser_, 21 April 1930, 10. (From NewspaperSG)
+[^14]: “[Sports &amp; Pastimes. Record Opening Night](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300421-1.2.55),” _Malaya Tribune_, 21 April 1930, 10; “[Serangoon Dirt-Track Thrills](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300421-1.2.42),” _Singapore Free Press and Mercantile Advertiser_, 21 April 1930, 10. (From NewspaperSG)
 
 [^15]: “[Last Night’s Speedway Thrills](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300508-1.2.145),” _Singapore Free Press and Mercantile Advertiser_, 8 May 1930, 20; “Twins,” “[Dirt-Track Racing Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19300517-1.2.44),” _Malayan Saturday Post_, 17 May 1930, 24. (From NewspaperSG)
 
@@ -157,7 +155,7 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 [^23]: “Singapore Speedway,” _The Daily News_ (Perth, WA: 1882–1955) (Home Final Edition), 31 July 1930, 5, http://nla.gov.au/nla.news-article83574622. The article mentions that the shareholders’ meeting took place on Wednesday, 11 July 1930. However, 11 July 1930 was a Friday. The meeting is more likely to have taken place on Wednesday 11 June 1930, two days before Reynolds left for Colombo. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300612-1.2.26),” _Malaya Tribune_, 12 June 1930, 7. (From NewspaperSG)
 
-[^24]: “Page 9 Advertisements Column 6: [Distress Sale](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300731-1.2.44.6),” _Singapore Free Press and Mercantile Advertiser_, 31 July 1930, 9. (From NewspaperSG)
+[^24]: “[Page 9 Advertisements Column 6: Distress Sale](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300731-1.2.44.6),” _Singapore Free Press and Mercantile Advertiser_, 31 July 1930, 9. (From NewspaperSG)
 
 [^25]: “Singapore Speedway,” _The Daily News (Perth, WA: 1882–1955)_ (Home Final Edition), 31 July 1930, 5, http://nla.gov.au/nla.news-article83574622.
 

@@ -27,7 +27,7 @@ It is within this context that an interesting linguistic phenomenon emerged amon
 
 Born in Singapore, Miao Xiu contributed an article to the _Sin Chew Jit Poh_ on 28 February 1948 under the pseudonym Wen Renjun, where he clearly expressed his support for the Malayan-Chinese Literature School.[^7] Hence, his writing unsurprisingly features Chinese dialects and colloquial expressions (including vulgarities) as the use of place-based language is one of the principal means through which the locale-specificity of Malayan Chinese literature can be manifested.
 
-  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/pg270_Aug11005_crop.jpg" style="width: 95%;">
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/pg270_aug11005_crop_edited.jpg" style="width: 95%;">
 
 <div style="background-color: white;"> In this article, Miao Xiu advocated for a recognition of the “uniqueness of Malayan Chinese literature” and called on his fellow Malayan Chinese writers to participate in the local liberation movement through their writing. <i>Reproduced from《論僑民意識與馬華獨特性》, 《星洲日報》[Sin Chew Jit Poh]，28 February 1948. Microfilm no. A01597333I. (From National Library, Singapore).</i></div>
 
