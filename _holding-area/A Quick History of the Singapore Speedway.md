@@ -26,8 +26,8 @@ Construction of the Speedway started in February 1930 and was reported to have c
 
 The Speedway was designed by Keys and Dowdeswell, a well-known architectural firm in Singapore that had worked on Capitol Building and Capitol Theatre (both circa 1930). Founding partners Percy Hubert Keys and Frank Dowdeswell had been in government service when they designed the Fullerton Building in the late 1920s (now known as the Fullerton Hotel).
 
-![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image2.png)<br>
-![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image3.png)
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image2_edit.png)<br>
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image3_edit.png)
 <div style="background-color: white;">Original plans drafted by Keys &amp; Dowdeswell in 1930 for the proposed Speedway. <i>Building Control Division Collection, courtesy of National Archives of Singapore.</i></div>
 
 The buildings at the Speedway included three octagonal ticket kiosks, a rectangular shed with seating for spectators, an enclosure for motorcyclists adjacent to the track, and men’s and women’s lavatories. There were two updates to the plans submitted for approval. The first was for the removal of a refreshment room with a bar counter, a “crush hall” or a foyer/reception area, and a manager’s office from the design. The changes might have been made to lower costs and/or accelerate the project’s completion. The second update was for additional seating along the racetrack.
