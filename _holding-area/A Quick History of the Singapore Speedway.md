@@ -135,7 +135,7 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 [^13]: “[Who Supplied the Materials Used To Build Singapore Speedway](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300414-1.2.121),” _Malaya Tribune_, 14 April 1930, 18. (From NewspaperSG)
 
-[^14]: “[Sports and Pastimes. Record Opening Night](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300421-1.2.55),” _Malaya Tribune_, 21 April 1930, 10; “[Serangoon Dirt-Track Thrills](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300421-1.2.42),” _Singapore Free Press and Mercantile Advertiser_, 21 April 1930, 10. (From NewspaperSG)
+[^14]: “[Sports &amp; Pastimes. Record Opening Night](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300421-1.2.55),” _Malaya Tribune_, 21 April 1930, 10; “[Serangoon Dirt-Track Thrills](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300421-1.2.42),” _Singapore Free Press and Mercantile Advertiser_, 21 April 1930, 10. (From NewspaperSG)
 
 [^15]: “[Last Night’s Speedway Thrills](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300508-1.2.145),” _Singapore Free Press and Mercantile Advertiser_, 8 May 1930, 20; “Twins,” “[Dirt-Track Racing Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19300517-1.2.44),” _Malayan Saturday Post_, 17 May 1930, 24. (From NewspaperSG)
 
