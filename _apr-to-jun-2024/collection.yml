@@ -2,5 +2,6 @@ collections:
   apr-to-jun-2024:
     output: true
     order:
+      - American Troops, Singapore Bands, The Vietnam War.md
       - Conquering Everest, the World’s Tallest Mountain.md
       - "A Plethora of Tongues: Multilingualism in 1950s Malayan Writing.md"
