@@ -87,7 +87,7 @@ Once considered the Pearl of the Orient, Saigon had developed the reputation of 
 
 “The \[US soldiers\] would talk to us,” said Harris. “Some of them would show us photographs of friends who were killed stepping on boobytraps and mines. Like them, we were also given \[dog\] tags to wear in case anything were to happen to us... Sometimes, when we boarded the transports, there would be someone there praying, as if we might not make it.”
 
-Recounting chopper rides to remote outposts, Harris said that he sometimes had to sit on the sides of the choppers. “And the GIs, maybe drunk or high on drugs, would just shoot at anything they \[saw\].” Drug use was common among the GIs. “Maybe they were given drugs so that they \[could\] keep on fighting. It was everywhere. Like it was free. Sometimes, when they passed us their tipping helmets, they \[were\] full of marijuana joints!”
+Recounting chopper rides to remote outposts, Harris said that he sometimes had to sit on the sides of the choppers. “And the GIs, maybe drunk or high on drugs, would just shoot at anything they \[saw\].” Drug use was common among the GIs. “Maybe they were given drugs so that they \[could\] keep on fighting. It was everywhere. Like it was free. 
 
 Harris described playing in Vietnam as “very challenging”. During the monsoon season, it was get very wet and muddy. Behind trucks, on shaky stages, under tarpaulin canvases or parachutes – anything that could provide cover from the intense sun or rain – entertainers played on even with gunfights taking place nearby. They had to improvise. “Often we didn’t get to wash properly,” recalled Harris. “We wore the same clothes for days. They were stinking of dried sweat. We couldn’t always get clean water. I even bathed once using beer!”
 
