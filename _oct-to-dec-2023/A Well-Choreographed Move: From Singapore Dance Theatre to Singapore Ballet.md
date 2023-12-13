@@ -133,15 +133,16 @@ In 2023, Singapore Ballet celebrates its 35th anniversary. Among the highlights 
 
 After three and a half decades, Singapore Ballet has become a part of the nation’s artistic and cultural spirit. Today, as the company continues to carve out a path for itself, it can look towards to its future with hope. Armed with a new-found confidence in its identity, Singapore Ballet is poised to soar to greater heights.
 
-![](/images/Vol%2019%20Issue%203/image10.png)
+(/images/Vol%2019%20Issue%203/image10.png)
 <div style="background-color: white;">Singapore Ballet’s performance of Timothy Rushton’s <i>Evening Voices</i>, 2023. Photo by Bernie Ng. <i>Courtesy of Singapore Ballet.</i></div>
 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/thammika.png">
-	<b>Thammika Songkaeo</b> is a resident of Singapore and the creative producer of <i>Changing Room</i> (www.twoglasses.org), a dance film and interactive screening experience. A student of ballet, Latin and street styles, she holds a Master of Fine Arts degree in creative writing from the Vermont College of Fine Arts. She is also an alumna of Williams College in Massachusetts and the University of Pennsylvania. </div>
+	<b>Thammika Songkaeo</b> is a resident of Singapore and the creative producer of <i>Changing Room</i> (www.twoglasses.org), a dance film and interactive screening experience. A student of ballet, Latin and street styles, she holds a Master of Fine Arts degree in creative writing from the Vermont College of Fine Arts. She is also an alumna of Williams College in Massachusetts and the University of Pennsylvania.</div>
 	
 #### **NOTES**
+
 
 [^1]: Janek Schergen, interview, 21 December 2022.
 
