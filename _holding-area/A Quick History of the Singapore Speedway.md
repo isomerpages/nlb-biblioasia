@@ -47,8 +47,7 @@ To raise the profile of dirt track racing in Singapore, Speedway organisers disp
 
 #### **Media Coverage**
 
-Five days before the grand opening, the _Malaya Tribune_  
-carried a three-page story about the Speedway. Besides running profiles of the races and race organiser A.J. Reynolds, they also featured articles about the companies and brands involved in the event. These included beverages produced by Phoenix Aerated Water Works Factory, and Osram lights installed by General Electric. There was even an entire article devoted to the Speedway’s lavatory arrangements (organisers had apparently been wondering how to cater for the huge numbers expected until prominent Eurasian contractor G.R. Oehlers stepped in with some sanitary solutions).[^13]
+Five days before the grand opening, the _Malaya Tribune_ carried a three-page story about the Speedway. Besides running profiles of the races and race organiser A.J. Reynolds, they also featured articles about the companies and brands involved in the event. These included beverages produced by Phoenix Aerated Water Works Factory, and Osram lights installed by General Electric. There was even an entire article devoted to the Speedway’s lavatory arrangements (organisers had apparently been wondering how to cater for the huge numbers expected until prominent Eurasian contractor G.R. Oehlers stepped in with some sanitary solutions).[^13]
 
 ![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image4.png)
 <div style="background-color: white;">The Singapore Speedway advertising the match between Charles Datson, Singapore’s champion, and Sig Schlam, Western Australia’s “most fearless” rider. The men will compete in a special four-lap match. <i>Image reproduced from “To-Night at Singapore Speedway,” Singapore Free Press and Mercantile Advertiser, 24 May 1930, 9. (From NewspaperSG).</i></div>
