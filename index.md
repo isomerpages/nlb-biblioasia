@@ -969,4 +969,11 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Infopic
+      subtitle: Leisure
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
