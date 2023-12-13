@@ -970,10 +970,13 @@ sections:
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
   - infopic:
-      title: Infopic
+      title: A Quick History of the Singapore Speedway
       subtitle: Leisure
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: The history of the Singapore Speedway was as fast and furious as
+        the races it hosted.
+      button: MOTORCYLE RACING IN SINGAPORE
+      url: /vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing
+      image: /images/Vol 20 Issue 1/Singapore Speedway/Image2_edit.png
       alt: Image alt text
 ---
