@@ -958,4 +958,15 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: American Troops, Singapore Bands, The Vietnam War
+      subtitle: Music
+      id: infopic
+      description: Lured by the prospects of money and adventure, local performers
+        braved the dangers of the Vietnam War to provide entertainment to
+        American troops.
+      button: GIGS in Vietnam
+      url: /vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/
+      image: /images/Vol 20 Issue 1/Vietnam War/sgband_vietnamwar_boonlai_cropped.jpg
+      alt: Image alt text
 ---
