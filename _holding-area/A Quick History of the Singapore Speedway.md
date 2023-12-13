@@ -155,7 +155,7 @@ In Mario Kart 8 Deluxe, elements of all three Singapore Speedway courses are com
 
 [^23]: “Singapore Speedway,” _The Daily News_ (Perth, WA: 1882–1955) (Home Final Edition), 31 July 1930, 5, http://nla.gov.au/nla.news-article83574622. The article mentions that the shareholders’ meeting took place on Wednesday, 11 July 1930. However, 11 July 1930 was a Friday. The meeting is more likely to have taken place on Wednesday 11 June 1930, two days before Reynolds left for Colombo. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300612-1.2.26),” _Malaya Tribune_, 12 June 1930, 7. (From NewspaperSG)
 
-[^24]: “Page 9 Advertisements Column 6: [Distress Sale](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300731-1.2.44.6),” _Singapore Free Press and Mercantile Advertiser_, 31 July 1930, 9. (From NewspaperSG)
+[^24]: “[Page 9 Advertisements Column 6: Distress Sale](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300731-1.2.44.6),” _Singapore Free Press and Mercantile Advertiser_, 31 July 1930, 9. (From NewspaperSG)
 
 [^25]: “Singapore Speedway,” _The Daily News (Perth, WA: 1882–1955)_ (Home Final Edition), 31 July 1930, 5, http://nla.gov.au/nla.news-article83574622.
 
