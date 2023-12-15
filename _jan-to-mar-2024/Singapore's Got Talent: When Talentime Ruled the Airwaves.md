@@ -92,7 +92,7 @@ Sugiman released a string of records, including _I Look at You_ (Columbia; 1968)
 ![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo8-rev3.png)
 <div style="background-color: white;">The Vintage, winner of the 1976 Talentime. From left: Lim Cheng Hui, Lim Siauw Chong and Jacintha Abisheganaden. <i>Image reproduced from “Vintage Victory,” New Nation, 29 October 1976, 1. (From NewspaperSG).</i></div>
 
-If winning automatically translated into commercial success, losing the competition did not spell failure either. Quite a few contestants who did not make the finals went on to have long, successful careers in music.[^33] These include Joe Chandran of the X’periment, Alban De’Souza[^34] and Talib Ismail of Tania, and Mel Ferdinands of Gypsy.[^35]
+If winning didn't automatically translate into commercial success, losing the competition did not spell failure either. Quite a few contestants who did not make the finals went on to have long, successful careers in music.[^33] These include Joe Chandran of the X’periment, Alban De’Souza[^34] and Talib Ismail of Tania, and Mel Ferdinands of Gypsy.[^35]
 
 #### **Breaking Up Is Hard to Do**
 On 31 January 1980, RTS was dissolved and its functions were transferred to the Singapore Broadcasting Corporation (SBC). SBC reprised the Talentime format “uneventfully” through to the 1980s.[^36]
