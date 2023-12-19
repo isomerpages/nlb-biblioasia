@@ -114,7 +114,7 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^4]: Lim Wee Kiang, oral history interview by Mark Wong, 15 April 2010, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/9b68e224-1162-11e3-83d5-0050568939ad-OHC003502_003/web/html5/index.html)  and MP3 audio, Reel/Disc 1 of 5, National Archives of Singapore ([accession no. 003502](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003502)), 39.
 
-[^5]: Lim Wee Guan and Sam Toh Hong Seng, oral history interview by Jason Lim, 10 July 2007, transcript and MP3 audio, Reel/Disc 2 of 2, National Archives of Singapore (accession no. 003195), 56.
+[^5]: Lim Wee Guan and Sam Toh Hong Seng, oral history interview by Jason Lim, 10 July 2007, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/221dd144-1161-11e3-83d5-0050568939ad-OHC003195_002/web/html5/index.html) and MP3 audio, Reel/Disc 2 of 2, National Archives of Singapore ([accession no. 003195](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003195)), 56.
 
 [^6]: Yap Chin Tong, “Unruffled Hippie ‘Prince’ Puffs Away As He Draws for a Living...,” _Straits Times_, 26 September 1968, 11. (From NewspaperSG)
 
