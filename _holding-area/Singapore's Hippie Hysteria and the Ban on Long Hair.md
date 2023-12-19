@@ -166,21 +166,21 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^30]: “[Govt to Bosses: Don’t Employ the Long-Haired](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730717-1.2.11)”; Ngoo, “[5,700 Longhaired Men Warned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19741211-1.2.91),” _Straits Times_, 11 December 1974, 15.
 
-[^31]: “Now It’s Snip, Snip Time in the Schools,” _Straits Times_, 12 January 1972, 13. (From NewspaperSG)
+[^31]: “[Now It’s Snip, Snip Time in the Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720112-1.2.75),” _Straits Times_, 12 January 1972, 13. (From NewspaperSG)
 
-[^32]: Lim Wee Kiang, oral history interview by Mark Wong, 15 April 2010, transcript and MP3 audio, Reel/Disc 1 of 5, National Archives of Singapore (accession no. 003502), 39.
+[^32]: Lim Wee Kiang, oral history interview by Mark Wong, 15 April 2010, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c3abb69d-1161-11e3-83d5-0050568939ad-OHC003502_001/web/html5/index.html) and MP3 audio, Reel/Disc 1 of 5, National Archives of Singapore ([accession no. 003502](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003502)), 39.
 
-[^33]: “Student Protest Over Snip Snip,” _New Nation_, 18 January 1972, 3. (From NewspaperSG)
+[^33]: “[Student Protest Over Snip Snip](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720118-1.2.28),” _New Nation_, 18 January 1972, 3. (From NewspaperSG)
 
-[^34]: The Spoken Word, “Hitting at Long-Hair,” _New Nation_, 22 January 1972, 6. (From NewspaperSG)
+[^34]: The Spoken Word, “[Hitting at Long-Hair](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720122-1.2.63.2),” _New Nation_, 22 January 1972, 6. (From NewspaperSG)
 
-[^35]: Lim Suan Kooi, “Hair Row Starts Sit-In by 200,” _Straits Times_, 16 November 1972, 1. (From NewspaperSG)
+[^35]: Lim Suan Kooi, “[Hair Row Starts Sit-In by 200](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19721116-1.2.7),” _Straits Times_, 16 November 1972, 1. (From NewspaperSG)
 
-[^36]: “Call for ‘Strong Protest’ to S’pore by Tun Ismail,” _Straits Times_, 19 August 1970, 1. (From NewspaperSG)
+[^36]: “[Call for ‘Strong Protest’ to S’pore by Tun Ismail](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700819-1.2.2),” _Straits Times_, 19 August 1970, 1. (From NewspaperSG)
 
-[^37]: “Lee Puts Off Visit,” _Straits Times_, 20 August 1970, 1; Philip Khoo, “Police Stop Snipping of Hippie Hair,” _Straits Times_, 3 September 1970, 1. (From NewspaperSG)
+[^37]: “[Lee Puts Off Visit](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700820-1.2.3),” _Straits Times_, 20 August 1970, 1; Philip Khoo, “[Police Stop Snipping of Hippie Hair](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700903-1.2.10),” _Straits Times_, 3 September 1970, 1. (From NewspaperSG)
 
-[^38]: Lee Siew Hua, “Less Ado About Men With Long Hair,” _Straits Times_, 9 March 1986, 12. (From NewspaperSG)
+[^38]: Lee Siew Hua, “[Less Ado About Men With Long Hair](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860309-1.2.21.9),” _Straits Times_, 9 March 1986, 12. (From NewspaperSG)
 
-[^39]: Siti Rohanah Koid, “Yeah! Yeah! Yeah!,” _The New Paper_, 26 May 1993, 10. (From NewspaperSG)
+[^39]: Siti Rohanah Koid, “[Yeah! Yeah! Yeah!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19930526-1.2.17),” _The New Paper_, 26 May 1993, 10. (From NewspaperSG)
 
