@@ -106,13 +106,13 @@ The government also lifted restrictions on music previously banned for being ass
 
 #### **Notes**
 
-[^1]: Ministry of Culture, “Transcript of Press Interview Given by the Prime Minister, Mr. Lee Kuan Yew, at Sochi on 18th September, 1970,” speech, Sochi, Soviet Union, 18 September 1970, transcript. (From National Archives of Singapore, document no. lky19700918)&nbsp;
+[^1]: Ministry of Culture, “[Transcript of Press Interview Given by the Prime Minister, Mr. Lee Kuan Yew, at Sochi on 18th September, 1970](https://www.nas.gov.sg/archivesonline/speeches/record-details/727c22a5-115d-11e3-83d5-0050568939ad),” speech, Sochi, Soviet Union, 18 September 1970, transcript. (From National Archives of Singapore, document no. lky19700918)&nbsp;
 
-[^2]: “The Big Hippie Show Today,” _Eastern Sun_, 19 April 1968, 10. (From NewspaperSG)
+[^2]: “[The Big Hippie Show Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/easternsun19680419-1.2.15.35),” _Eastern Sun_, 19 April 1968, 10. (From NewspaperSG)
 
-[^3]: Lim Wee Kiang, oral history interview by Mark Wong, 24 November 2011, transcript and MP3 audio, Reel/Disc 3 of 5, National Archives of Singapore (accession no. 003502), 101.
+[^3]: Lim Wee Kiang, oral history interview by Mark Wong, 24 November 2011, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/9b68e224-1162-11e3-83d5-0050568939ad-OHC003502_003/web/html5/index.html) and MP3 audio, Reel/Disc 3 of 5, National Archives of Singapore ([accession no. 003502](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003502)), 101.
 
-[^4]: Lim Wee Kiang, oral history interview by Mark Wong, 15 April 2010, transcript and MP3 audio, Reel/Disc 1 of 5, National Archives of Singapore (accession no. 003502), 39.
+[^4]: Lim Wee Kiang, oral history interview by Mark Wong, 15 April 2010, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/9b68e224-1162-11e3-83d5-0050568939ad-OHC003502_003/web/html5/index.html)  and MP3 audio, Reel/Disc 1 of 5, National Archives of Singapore ([accession no. 003502](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003502)), 39.
 
 [^5]: Lim Wee Guan and Sam Toh Hong Seng, oral history interview by Jason Lim, 10 July 2007, transcript and MP3 audio, Reel/Disc 2 of 2, National Archives of Singapore (accession no. 003195), 56.
 
