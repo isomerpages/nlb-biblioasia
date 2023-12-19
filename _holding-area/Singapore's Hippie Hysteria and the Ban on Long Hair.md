@@ -136,9 +136,9 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^15]: Maureen Peters, “[Clip, Clip, Clip Way to Get Round the Causeway Clamp on Hippie Types...](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700411-1.2.114),” _Straits Times_, 11 April 1970, 15. (From NewspaperSG)
 
-[^16]: David Gan, “All Bearded Visitors Not Hippies, They Say,” _Straits Times_, 12 April 1970, 7. (From NewspaperSG)
+[^16]: David Gan, “[All Bearded Visitors Not Hippies, They Say](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700412-1.2.22.6),” _Straits Times_, 12 April 1970, 7. (From NewspaperSG)
 
-[^17]: “Unwanted Hippies on the ‘Wanted’ List,” _Straits Times_, 18 April 1970, 4. (From NewspaperSG)
+[^17]: “[Unwanted Hippies on the ‘Wanted’ List](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700418-1.2.40),” _Straits Times_, 18 April 1970, 4. (From NewspaperSG)
 
 [^18]: “Govt Says It Again: No Hippies,” _Straits Times_, 5 June 1970, 4. (From NewspaperSG)
 
