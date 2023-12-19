@@ -126,7 +126,7 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^10]: “‘[Drug’ Discs Pick Up New Listeners in S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700705-1.2.127),” _Straits Times_, 5 July 1970, 19. (From NewspaperSG)
 
-[^11]: “Keeping the Records Straight...,” _New Nation_, 7 April 1971, 7; ‘Drug Discs’ Under Study by Top Govt Team,” _Straits Times_, 14 March 1970, 5. (From NewspaperSG)
+[^11]: “[Keeping the Records Straight...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19710407-1.2.58),” _New Nation_, 7 April 1971, 7; [‘Drug Discs’ Under Study by Top Govt Team](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700314-1.2.40),” _Straits Times_, 14 March 1970, 5. (From NewspaperSG)
 
 [^12]: “Censor Takes Fanfare Page,” _New Nation_, 5 March 1971, 3. (From NewspaperSG)
 
