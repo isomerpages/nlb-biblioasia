@@ -116,9 +116,9 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^5]: Lim Wee Guan and Sam Toh Hong Seng, oral history interview by Jason Lim, 10 July 2007, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/221dd144-1161-11e3-83d5-0050568939ad-OHC003195_002/web/html5/index.html) and MP3 audio, Reel/Disc 2 of 2, National Archives of Singapore ([accession no. 003195](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003195)), 56.
 
-[^6]: Yap Chin Tong, “Unruffled Hippie ‘Prince’ Puffs Away As He Draws for a Living...,” _Straits Times_, 26 September 1968, 11. (From NewspaperSG)
+[^6]: Yap Chin Tong, “[Unruffled Hippie ‘Prince’ Puffs Away As He Draws for a Living...](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19680926-1.2.82),” _Straits Times_, 26 September 1968, 11. (From NewspaperSG)
 
-[^7]: National Council Against Drug Abuse (Singapore), _Towards a Drug Free Singapore: Strategies, Policies and Programmes Against Drugs_ (Singapore: National Council Against Drug Abuse, 1998), 9. (From National Library, Singapore, call no. RSING 362.293095957 TOW)
+[^7]: National Council Against Drug Abuse (Singapore), [_Towards a Drug Free Singapore: Strategies, Policies and Programmes Against Drugs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9165753) (Singapore: National Council Against Drug Abuse, 1998), 9. (From National Library, Singapore, call no. RSING 362.293095957 TOW)
 
 [^8]: National Council Against Drug Abuse (Singapore), _Towards a Drug Free Singapore_, 10; Central Narcotics Bureau, _Dare to Strike: 25 Years of the Central Narcotics Bureau_ (Singapore: The Bureau, 1996), 23. (From National Library, Singapore, call no. RSING 353.37095957 SIN)
 
