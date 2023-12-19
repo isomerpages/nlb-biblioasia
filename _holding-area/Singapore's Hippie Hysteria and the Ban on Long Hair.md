@@ -77,6 +77,9 @@ Musicians, who typically wore their hair long, bore the brunt of the campaign. T
 
 In August 1972, British pop singer Cliff Richard cancelled all three of his September concerts at the National Theatre, leaving fans disappointed. Richard and his band members had refused to cut their long hair, and it was believed that their applications for a professional visit pass was rejected by the Singapore authorities.[^26]
 
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image5.png)
+<div style="background-color: white;">A year after he cancelled his concerts in Singapore, Cliff Richard, still sporting long hair, was allowed into Singapore for a one-night stopover on 13 April 1973. Not here on a summer holiday, he was en route to Australia and New Zealand. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+
 Other top rock and pop groups, including The Who, Bee Gees, Cat Stevens, Tom Jones, Joe Cocker and the Chris Stainton Band, as well as Rick Nelson and the Stone Canyon Band, also scrapped their plans to perform in Singapore. Nelson’s promoter explained that they were passing over Singapore due to the “no-long-hair policy”, while other promoters were afraid that “any application made to the Immigration Department would be turned down” due to the long-hair policy.[^27]
 
 #### **Not Serving and Hiring: Men with Long Hair**
