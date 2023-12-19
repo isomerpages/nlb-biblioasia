@@ -164,7 +164,7 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^29]: “[Govt to Bosses: Don’t Employ the Long-Haired](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730717-1.2.11),” _Straits Times_, 17 July 1973, 1. (From NewspaperSG)
 
-[^30]: “[Govt to Bosses: Don’t Employ the Long-Haired](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730717-1.2.11)”; Ngoo, “5,700 Longhaired Men Warned,” _Straits Times_, 11 December 1974, 15.
+[^30]: “[Govt to Bosses: Don’t Employ the Long-Haired](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730717-1.2.11)”; Ngoo, “[5,700 Longhaired Men Warned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19741211-1.2.91),” _Straits Times_, 11 December 1974, 15.
 
 [^31]: “Now It’s Snip, Snip Time in the Schools,” _Straits Times_, 12 January 1972, 13. (From NewspaperSG)
 
