@@ -120,11 +120,11 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^7]: National Council Against Drug Abuse (Singapore), [_Towards a Drug Free Singapore: Strategies, Policies and Programmes Against Drugs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9165753) (Singapore: National Council Against Drug Abuse, 1998), 9. (From National Library, Singapore, call no. RSING 362.293095957 TOW)
 
-[^8]: National Council Against Drug Abuse (Singapore), _Towards a Drug Free Singapore_, 10; Central Narcotics Bureau, _Dare to Strike: 25 Years of the Central Narcotics Bureau_ (Singapore: The Bureau, 1996), 23. (From National Library, Singapore, call no. RSING 353.37095957 SIN)
+[^8]: National Council Against Drug Abuse (Singapore), [_Towards a Drug Free Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9165753), 10; Central Narcotics Bureau, [_Dare to Strike: 25 Years of the Central Narcotics Bureau_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8065643) (Singapore: The Bureau, 1996), 23. (From National Library, Singapore, call no. RSING 353.37095957 SIN)
 
-[^9]: Central Narcotics Bureau, _Dare to Strike_, 36–37.
+[^9]: Central Narcotics Bureau, [_Dare to Strike_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8065643), 36–37.
 
-[^10]: “‘Drug’ Discs Pick Up New Listeners in S’pore,” _Straits Times_, 5 July 1970, 19. (From NewspaperSG)
+[^10]: “‘[Drug’ Discs Pick Up New Listeners in S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700705-1.2.127),” _Straits Times_, 5 July 1970, 19. (From NewspaperSG)
 
 [^11]: “Keeping the Records Straight...,” _New Nation_, 7 April 1971, 7; ‘Drug Discs’ Under Study by Top Govt Team,” _Straits Times_, 14 March 1970, 5. (From NewspaperSG)
 
