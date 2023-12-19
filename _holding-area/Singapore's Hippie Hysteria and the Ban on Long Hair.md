@@ -134,7 +134,7 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^14]: Parliament of Singapore, Foreign Hippies (Banning of Entry into Singapore), vol. 30 of _Parliamentary Debates: Official Report_, 8 March 1971, cols. 547–548, https://sprs.parl.gov.sg/search/#/topic?reportid=009\_19710308\_S0005\_T0009.
 
-[^15]: Maureen Peters, “Clip, Clip, Clip Way to Get Round the Causeway Clamp on Hippie Types...,” _Straits Times_, 11 April 1970, 15. (From NewspaperSG)
+[^15]: Maureen Peters, “[Clip, Clip, Clip Way to Get Round the Causeway Clamp on Hippie Types...](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700411-1.2.114),” _Straits Times_, 11 April 1970, 15. (From NewspaperSG)
 
 [^16]: David Gan, “All Bearded Visitors Not Hippies, They Say,” _Straits Times_, 12 April 1970, 7. (From NewspaperSG)
 
