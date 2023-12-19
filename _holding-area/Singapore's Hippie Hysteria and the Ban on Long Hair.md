@@ -102,7 +102,7 @@ The government also lifted restrictions on music previously banned for being ass
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Yap_Jo_Lin.png">
-	<b>Yap Jo Lin</b> is a Senior Archivist with the National Archives of Singapore. Her responsibilities include managing the archives’ collection of building plans.</div>
+	<b>Andrea Kee</b> is an Associate Librarian with the National Library of Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development, as well as providing reference and research services.</div>
 
 #### **Notes**
 
