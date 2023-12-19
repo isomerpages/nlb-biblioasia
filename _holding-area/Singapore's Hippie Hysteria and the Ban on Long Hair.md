@@ -148,13 +148,13 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^21]: N.G. Kutty, “[Flexible Policy in Long-Hair Clamps](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720111-1.2.9),” _Straits Times_, 11 January 1972, 1. (From NewspaperSG)
 
-[^22]: N.G. Kutty, “Op Snip Snip at the Causeway,” _Straits Times_, 10 January 1972, 26. (From NewspaperSG)
+[^22]: N.G. Kutty, “[Op Snip Snip at the Causeway](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720110-1.2.149),” _Straits Times_, 10 January 1972, 26. (From NewspaperSG)
 
-[^23]: Kutty, “Op Snip Snip at the Causeway”; Kutty, “Flexible Policy in Long-Hair Clamps.”
+[^23]: Kutty, “[Op Snip Snip at the Causeway](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720110-1.2.149)”; Kutty, “[Flexible Policy in Long-Hair Clamps](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720111-1.2.9).”
 
-[^24]: “Sorting the Shaggy Sheep from the Hippie Goats,” _New Nation_, 31 January 1972, 9. (From NewspaperSG)
+[^24]: “[Sorting the Shaggy Sheep from the Hippie Goats](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720131-1.2.50.1),” _New Nation_, 31 January 1972, 9. (From NewspaperSG)
 
-[^25]: Gerry de Silva, “At Last Local Pop Groups Get a Chance at Top Billing,” _Straits Times_, 29 January 1972, 9. (From NewspaperSG)
+[^25]: Gerry de Silva, “[At Last Local Pop Groups Get a Chance at Top Billing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720129-1.2.73.3),” _Straits Times_, 29 January 1972, 9. (From NewspaperSG)
 
 [^26]: Gerry de Silva, “Cliff Kept His Locks, But EMI Lost $10,000,” _Straits Times_, 22 August 1972, 15; Peter Ong, “Why Cliff Will Not Come to Singapore,” _New Nation_, 19 August 1972, 1. (From NewspaperSG)
 
