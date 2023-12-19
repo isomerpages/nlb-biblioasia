@@ -6,7 +6,7 @@ description: Hippie culture was seen as a risk to Singaporean society in the
   1960s and 1970s, and efforts made to reduce its influence eventually led to a
   campaign against men with long hair.
 ---
-#### Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair. 
+]#### Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair. 
 By Andrea Kee
 
 In an interview in September 1970, just five years after Singapore became independent, Prime Minister Lee Kuan Yew was asked about the problems Singapore had to resolve in the near future. Unsurprisingly, he identified economic viability as the first task that the young nation had to address. What was surprising, however, was what he identified as the next most pressing problem facing Singapore.
@@ -128,7 +128,7 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^11]: “[Keeping the Records Straight...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19710407-1.2.58),” _New Nation_, 7 April 1971, 7; [‘Drug Discs’ Under Study by Top Govt Team](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700314-1.2.40),” _Straits Times_, 14 March 1970, 5. (From NewspaperSG)
 
-[^12]: “Censor Takes Fanfare Page,” _New Nation_, 5 March 1971, 3. (From NewspaperSG)
+[^12]: “[Censor Takes Fanfare Page](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19710305-1.2.36),” _New Nation_, 5 March 1971, 3. (From NewspaperSG)
 
 [^13]: “S’pore Bans Hippies,” _Straits Times_, 10 April 1970, 1. (From NewspaperSG)
 
