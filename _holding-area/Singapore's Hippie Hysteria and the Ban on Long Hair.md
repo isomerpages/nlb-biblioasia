@@ -11,7 +11,7 @@ By Andrea Kee
 
 In an interview in September 1970, just five years after Singapore became independent, Prime Minister Lee Kuan Yew was asked about the problems Singapore had to resolve in the near future. Unsurprisingly, he identified economic viability as the first task that the young nation had to address. What was surprising, however, was what he identified as the next most pressing problem facing Singapore.
 
-![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image1.png)
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image1.png)
 <div style="background-color: white;">Sketch of Speedway managing director A.J. Reynolds. <i>Image reproduced from “Career of the Man Behind Successes in Car Racing,” Malaya Tribune, 14 April 1930, 19. (From NewspaperSG). </i></div>
 
 “The second point is the problem of being exposed to deleterious influences, particularly from the ‘hippie’ culture which is spreading across the jet routes,” he said. “We are a very exposed society, having both an important air and sea junction, and the insidious penetration of songs, TV, skits, films, magazines all tending towards escapism and the taking of drugs, is a very dangerous threat to our young. We will have to be not only very firm in damping or wiping out such limitation, but also to try and inoculate our young people against such tendencies. It is a malady which has afflicted several of the big capitals in the West and would destroy us if it got a grip on Singapore.”[^1]
@@ -183,4 +183,3 @@ The government also lifted restrictions on music previously banned for being ass
 [^38]: Lee Siew Hua, “[Less Ado About Men With Long Hair](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860309-1.2.21.9),” _Straits Times_, 9 March 1986, 12. (From NewspaperSG)
 
 [^39]: Siti Rohanah Koid, “[Yeah! Yeah! Yeah!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19930526-1.2.17),” _The New Paper_, 26 May 1993, 10. (From NewspaperSG)
-
