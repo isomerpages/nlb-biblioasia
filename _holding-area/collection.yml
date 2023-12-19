@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Singapore's Hippie Hysteria and the Ban on Long Hair.md
       - Example Title.md
       - Testing My Skills.md
       - Test2.md

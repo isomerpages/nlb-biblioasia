@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/malay-portuguese-pantuns/
-      button: "Panton Malaijoe dan Portugees: A Rediscovered Manuscript"
+      url: /vol-12/issue-3/oct-dec-2016/building-faith/
+      button: "Building Faith: Wartime Churches in Syonan-to"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 3/5 Panton/panton_hero_img.jpg
+      background: /images/Vol-12-issue-3/building-faith/Wartime Church in Syonan_Hero
+        Image.jpg
   - infopic:
       title: A Quick History of the Singapore Speedway
       subtitle: Leisure
