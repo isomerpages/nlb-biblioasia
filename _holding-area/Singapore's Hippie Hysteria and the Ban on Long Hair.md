@@ -72,6 +72,9 @@ Speaking in January 1972, Foreign Minister S. Rajaratnam emphasised that the cam
 
 Musicians, who typically wore their hair long, bore the brunt of the campaign. The police visited nightclubs to advise long-haired musicians to trim their hair. While local musicians were willing to toe the line, some foreign performers were not as amenable, and cancelled their shows or stopped signing contracts with Singapore’s hotels and nightclubs altogether.[^25]
 
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image4.png)
+<div style="background-color: white;">Album cover of The Quests’ 1967 vinyl release, <i>The 33rd Revolution</i>. Band members are in floral printed shirts. <i>Courtesy of Vernon Cornelius.</i></div>
+
 In August 1972, British pop singer Cliff Richard cancelled all three of his September concerts at the National Theatre, leaving fans disappointed. Richard and his band members had refused to cut their long hair, and it was believed that their applications for a professional visit pass was rejected by the Singapore authorities.[^26]
 
 Other top rock and pop groups, including The Who, Bee Gees, Cat Stevens, Tom Jones, Joe Cocker and the Chris Stainton Band, as well as Rick Nelson and the Stone Canyon Band, also scrapped their plans to perform in Singapore. Nelson’s promoter explained that they were passing over Singapore due to the “no-long-hair policy”, while other promoters were afraid that “any application made to the Immigration Department would be turned down” due to the long-hair policy.[^27]
