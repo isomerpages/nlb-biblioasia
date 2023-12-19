@@ -130,7 +130,7 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^12]: “[Censor Takes Fanfare Page](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19710305-1.2.36),” _New Nation_, 5 March 1971, 3. (From NewspaperSG)
 
-[^13]: “S’pore Bans Hippies,” _Straits Times_, 10 April 1970, 1. (From NewspaperSG)
+[^13]: “[S’pore Bans Hippies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700410-1.2.4),” _Straits Times_, 10 April 1970, 1. (From NewspaperSG)
 
 [^14]: Parliament of Singapore, Foreign Hippies (Banning of Entry into Singapore), vol. 30 of _Parliamentary Debates: Official Report_, 8 March 1971, cols. 547–548, https://sprs.parl.gov.sg/search/#/topic?reportid=009\_19710308\_S0005\_T0009.
 
