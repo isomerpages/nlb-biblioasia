@@ -140,13 +140,13 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^17]: “[Unwanted Hippies on the ‘Wanted’ List](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700418-1.2.40),” _Straits Times_, 18 April 1970, 4. (From NewspaperSG)
 
-[^18]: “Govt Says It Again: No Hippies,” _Straits Times_, 5 June 1970, 4. (From NewspaperSG)
+[^18]: “[Govt Says It Again: No Hippies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700605-1.2.28),” _Straits Times_, 5 June 1970, 4. (From NewspaperSG)
 
-[^19]: “TV S’pore Bans Long Haired Artistes,” _Straits Times_, 10 June 1970, 27. (From NewspaperSG)
+[^19]: “[TV S’pore Bans Long Haired Artistes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700610-1.2.10),” _Straits Times_, 10 June 1970, 27. (From NewspaperSG)
 
-[^20]: Edward Liu, “Long Hair Youths Vanish from the Streets,” _Straits Times_, 2 October 1971, 30. (From NewspaperSG)
+[^20]: Edward Liu, “[Long Hair Youths Vanish from the Streets](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19711002-1.2.124),” _Straits Times_, 2 October 1971, 30. (From NewspaperSG)
 
-[^21]: N.G. Kutty, “Flexible Policy in Long-Hair Clamps,” _Straits Times_, 11 January 1972, 1. (From NewspaperSG)
+[^21]: N.G. Kutty, “[Flexible Policy in Long-Hair Clamps](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720111-1.2.9),” _Straits Times_, 11 January 1972, 1. (From NewspaperSG)
 
 [^22]: N.G. Kutty, “Op Snip Snip at the Causeway,” _Straits Times_, 10 January 1972, 26. (From NewspaperSG)
 
