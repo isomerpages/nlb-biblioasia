@@ -9,11 +9,11 @@ description: Hippie culture was seen as a risk to Singaporean society in the
 #### Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair. 
 By Andrea Kee
 
-In an interview in September 1970, just five years after Singapore became independent, Prime Minister Lee Kuan Yew was asked about the problems Singapore had to resolve in the near future. Unsurprisingly, he identified economic viability as the first task that the young nation had to address. What was surprising, however, was what he identified as the next most pressing problem facing Singapore. &nbsp;
+In an interview in September 1970, just five years after Singapore became independent, Prime Minister Lee Kuan Yew was asked about the problems Singapore had to resolve in the near future. Unsurprisingly, he identified economic viability as the first task that the young nation had to address. What was surprising, however, was what he identified as the next most pressing problem facing Singapore.
 
 “The second point is the problem of being exposed to deleterious influences, particularly from the ‘hippie’ culture which is spreading across the jet routes,” he said. “We are a very exposed society, having both an important air and sea junction, and the insidious penetration of songs, TV, skits, films, magazines all tending towards escapism and the taking of drugs, is a very dangerous threat to our young. We will have to be not only very firm in damping or wiping out such limitation, but also to try and inoculate our young people against such tendencies. It is a malady which has afflicted several of the big capitals in the West and would destroy us if it got a grip on Singapore.”[^1]
 
-Hippie culture had reached Singapore’s shores by the late 1960s. Hippies represented a countercultural movement and were associated with a particular lifestyle. The fashion was loose, flowy garments, and psychedelic colours and images were common. The fashion for men was long hair and beards. Hippies were sometimes known as flower children because of the association of flowers with the movement. The regular use of recreational drugs such as marijuana and LSD (lysergic acid diethylamide) was also seen as part of the lifestyle.&nbsp;
+Hippie culture had reached Singapore’s shores by the late 1960s. Hippies represented a countercultural movement and were associated with a particular lifestyle. The fashion was loose, flowy garments, and psychedelic colours and images were common. The fashion for men was long hair and beards. Hippies were sometimes known as flower children because of the association of flowers with the movement. The regular use of recreational drugs such as marijuana and LSD (lysergic acid diethylamide) was also seen as part of the lifestyle.
 
 The culture spread through, among other things, music, and local bands in Singapore soon began to show signs that the movement was taking hold in Singapore. In April 1968, the local band The Straydogs performed at a show titled _Purple Velvet Vaudeville_ at the National Theatre, an event that the _Eastern Sun_ dubbed “the big Hippie show”. The paper reported that the stage and auditorium were “decked up with flowers and other psychedelic decorations”.[^2]
 
@@ -94,6 +94,17 @@ Students from the University of Malaya protested the incident at the High Commis
 By the end of the 1970s, there were fewer reports in the press about the crackdown on long-haired men. In March 1986, Lee Siew Hua of the _Straits Times_ reported that “the long-hair-last signs have virtually disappeared even though officials maintain that the policy is very much alive”.[^38] Part of the reason for the easing up of long hair in the 1980s was simply due to changing trends. Hippies and hippie culture had long fallen out of fashion by then.
 
 The government also lifted restrictions on music previously banned for being associated with hippies. In May 1993, the Ministry of Information lifted its ban on a number of songs, including Beatles classics like “Lucy in the Sky with Diamonds”, “With a Little Help from My Friends” and “Sgt Pepper’s Lonely Hearts Club Band”. Fans of Bob Dylan were delighted that “Mr Tamborine Man” could finally play a song for them. Another song that got the green light, none too soon, was Creedence Clearwater Revival’s “Proud Mary”.[^39] The times, they were indeed, a-changing.
+
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Yap_Jo_Lin.png">
+	<b>Yap Jo Lin</b> is a Senior Archivist with the National Archives of Singapore. Her responsibilities include managing the archives’ collection of building plans.</div>
+
+#### **Notes**
+
+[^1]: Location derived from comparison of Survey Department, Singapore, [_Survey Map of Singapore_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8feb2b0-115c-11e3-83d5-0050568939ad), 1933, map. (From National Archives of Singapore accession no. SP002117)
+
 
 ![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image1.png)
 <div style="background-color: white;">Sketch of Speedway managing director A.J. Reynolds. <i>Image reproduced from “Career of the Man Behind Successes in Car Racing,” Malaya Tribune, 14 April 1930, 19. (From NewspaperSG). </i></div>
