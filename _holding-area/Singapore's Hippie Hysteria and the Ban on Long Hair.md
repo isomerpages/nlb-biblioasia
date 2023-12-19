@@ -24,6 +24,9 @@ The culture spread through, among other things, music, and local bands in Singap
 
 The Straydogs weren’t the only local band to embrace the movement. “We followed the flower \[power\], and we made flower coats,” recalled Sam Toh, who played bass guitar for The Quests. “And Vernon \[Cornelius\] has got a lot of ideas. And he was wearing flower things. We are all flower people.”[^5]
 
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image2.png)
+<div style="background-color: white;"> Vernon Cornelius of The Quests, looking groovy in a paisley shirt. Bassist Sam Toh is on the right. Lead guitarist Reggie Verghese is on the left. The band was recording their LP, <i>The 33rd Revolution</i>, at EMI’s studio in MacDonald House in September 1967. <i>Courtesy of Vernon Cornelius.</i></div>
+
 In September 1968, the _Straits Times_ reported that there were approximately 50 “Flower People” in Singapore sitting outside shopping centres and cinemas strumming their guitars and making chalk drawings on the pavements.[^6]
 
 #### **Drugs and the Hippie**
