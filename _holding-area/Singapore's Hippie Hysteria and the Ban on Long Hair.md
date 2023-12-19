@@ -156,15 +156,15 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^25]: Gerry de Silva, “[At Last Local Pop Groups Get a Chance at Top Billing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720129-1.2.73.3),” _Straits Times_, 29 January 1972, 9. (From NewspaperSG)
 
-[^26]: Gerry de Silva, “Cliff Kept His Locks, But EMI Lost $10,000,” _Straits Times_, 22 August 1972, 15; Peter Ong, “Why Cliff Will Not Come to Singapore,” _New Nation_, 19 August 1972, 1. (From NewspaperSG)
+[^26]: Gerry de Silva, “[Cliff Kept His Locks, But EMI Lost $10,000](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720822-1.2.85),” _Straits Times_, 22 August 1972, 15; Peter Ong, “[Why Cliff Will Not Come to Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720819-1.2.4),” _New Nation_, 19 August 1972, 1. (From NewspaperSG)
 
-[^27]: “Long-Hair Ban Keeps Pop Stars Out,” _New Nation_, 29 August 1972, 3. (From NewspaperSG)
+[^27]: “[Long-Hair Ban Keeps Pop Stars Out](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720829-1.2.30),” _New Nation_, 29 August 1972, 3. (From NewspaperSG)
 
-[^28]: “Long Hair Means a Long, Long Wait...,” _Straits Times_, 23 June 1972, 8; Irene Ngoo, “5,700 Longhaired Men Warned,” _Straits Times_, 11 December 1974, 15. (From NewspaperSG)
+[^28]: “[Long Hair Means a Long, Long Wait...](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720623-1.2.54),” _Straits Times_, 23 June 1972, 8; Irene Ngoo, “[5,700 Longhaired Men Warned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19741211-1.2.91),” _Straits Times_, 11 December 1974, 15. (From NewspaperSG)
 
-[^29]: “Govt to Bosses: Don’t Employ the Long-Haired,” _Straits Times_, 17 July 1973, 1. (From NewspaperSG)
+[^29]: “[Govt to Bosses: Don’t Employ the Long-Haired](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730717-1.2.11),” _Straits Times_, 17 July 1973, 1. (From NewspaperSG)
 
-[^30]: “Govt to Bosses: Don’t Employ the Long-Haired”; Ngoo, “5,700 Longhaired Men Warned,” _Straits Times_, 11 December 1974, 15.
+[^30]: “[Govt to Bosses: Don’t Employ the Long-Haired](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730717-1.2.11)”; Ngoo, “5,700 Longhaired Men Warned,” _Straits Times_, 11 December 1974, 15.
 
 [^31]: “Now It’s Snip, Snip Time in the Schools,” _Straits Times_, 12 January 1972, 13. (From NewspaperSG)
 
