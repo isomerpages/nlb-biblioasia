@@ -44,7 +44,7 @@ By April 1971, a total of 19 Western pop records had been classified as “detai
 The government’s decisions were not always easily understood. One of the songs that made it to the list of “detained publications” was “Proud Mary” by Creedence Clearwater Revival. In March 1971, the Culture Ministry actually instructed the Straits Times Group to remove a page from an issue of the magazine _Fanfare_ because it contained the lyrics of “Proud Mary”. As the _New Nation_ newspaper noted in its report, “The words of ‘Proud Mary’ appear to refer to an American river ferryboat and the generosity of the people who live on the banks of the river. It does not seem… to contain any references to drugs”.[^12]
 
 ![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image3.png)
-<div style="background-color: white;">The Ministry of Culture ordered Fanfare to tear out this page before putting the issue up for sale as it contained the sheet music and lyrics to “Proud Mary”, a “detained” song that supposedly made references to drugs. <i>Image reproduced from Fanfare, 5 March 1971 (Singapore: The Straits Times Group, 1971), 10. (From PublicationSG).</i></div>
+<div style="background-color: white;">The Ministry of Culture ordered <i>Fanfare</i> to tear out this page before putting the issue up for sale as it contained the sheet music and lyrics to “Proud Mary”, a “detained” song that supposedly made references to drugs. <i>Image reproduced from Fanfare, 5 March 1971 (Singapore: The Straits Times Group, 1971), 10. (From PublicationSG).</i></div>
 
 #### **Banning Hippies**
 
