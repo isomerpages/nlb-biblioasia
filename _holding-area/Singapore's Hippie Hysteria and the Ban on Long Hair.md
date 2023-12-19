@@ -12,7 +12,7 @@ By Andrea Kee
 In an interview in September 1970, just five years after Singapore became independent, Prime Minister Lee Kuan Yew was asked about the problems Singapore had to resolve in the near future. Unsurprisingly, he identified economic viability as the first task that the young nation had to address. What was surprising, however, was what he identified as the next most pressing problem facing Singapore.
 
 ![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image1.png)
-<div style="background-color: white;">Sketch of Speedway managing director A.J. Reynolds. <i>Image reproduced from “Career of the Man Behind Successes in Car Racing,” Malaya Tribune, 14 April 1930, 19. (From NewspaperSG). </i></div>
+<div style="background-color: white;">The cover of The Straydogs’ 1967 vinyl release of “Mum’s Too Pampering” and “I Can Only Give You Everything”. Dennis Lim is standing. second from the left. <i>Courtesy of Vernon Cornelius.</i></div>
 
 “The second point is the problem of being exposed to deleterious influences, particularly from the ‘hippie’ culture which is spreading across the jet routes,” he said. “We are a very exposed society, having both an important air and sea junction, and the insidious penetration of songs, TV, skits, films, magazines all tending towards escapism and the taking of drugs, is a very dangerous threat to our young. We will have to be not only very firm in damping or wiping out such limitation, but also to try and inoculate our young people against such tendencies. It is a malady which has afflicted several of the big capitals in the West and would destroy us if it got a grip on Singapore.”[^1]
 
