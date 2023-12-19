@@ -11,6 +11,9 @@ By Andrea Kee
 
 In an interview in September 1970, just five years after Singapore became independent, Prime Minister Lee Kuan Yew was asked about the problems Singapore had to resolve in the near future. Unsurprisingly, he identified economic viability as the first task that the young nation had to address. What was surprising, however, was what he identified as the next most pressing problem facing Singapore.
 
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image1.png)
+<div style="background-color: white;">Sketch of Speedway managing director A.J. Reynolds. <i>Image reproduced from “Career of the Man Behind Successes in Car Racing,” Malaya Tribune, 14 April 1930, 19. (From NewspaperSG). </i></div>
+
 “The second point is the problem of being exposed to deleterious influences, particularly from the ‘hippie’ culture which is spreading across the jet routes,” he said. “We are a very exposed society, having both an important air and sea junction, and the insidious penetration of songs, TV, skits, films, magazines all tending towards escapism and the taking of drugs, is a very dangerous threat to our young. We will have to be not only very firm in damping or wiping out such limitation, but also to try and inoculate our young people against such tendencies. It is a malady which has afflicted several of the big capitals in the West and would destroy us if it got a grip on Singapore.”[^1]
 
 Hippie culture had reached Singapore’s shores by the late 1960s. Hippies represented a countercultural movement and were associated with a particular lifestyle. The fashion was loose, flowy garments, and psychedelic colours and images were common. The fashion for men was long hair and beards. Hippies were sometimes known as flower children because of the association of flowers with the movement. The regular use of recreational drugs such as marijuana and LSD (lysergic acid diethylamide) was also seen as part of the lifestyle.
@@ -103,8 +106,81 @@ The government also lifted restrictions on music previously banned for being ass
 
 #### **Notes**
 
-[^1]: Location derived from comparison of Survey Department, Singapore, [_Survey Map of Singapore_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f8feb2b0-115c-11e3-83d5-0050568939ad), 1933, map. (From National Archives of Singapore accession no. SP002117)
+[^1]: Ministry of Culture, “Transcript of Press Interview Given by the Prime Minister, Mr. Lee Kuan Yew, at Sochi on 18th September, 1970,” speech, Sochi, Soviet Union, 18 September 1970, transcript. (From National Archives of Singapore, document no. lky19700918)&nbsp;
 
+[^2]: “The Big Hippie Show Today,” _Eastern Sun_, 19 April 1968, 10. (From NewspaperSG)
 
-![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image1.png)
-<div style="background-color: white;">Sketch of Speedway managing director A.J. Reynolds. <i>Image reproduced from “Career of the Man Behind Successes in Car Racing,” Malaya Tribune, 14 April 1930, 19. (From NewspaperSG). </i></div>
+[^3]: Lim Wee Kiang, oral history interview by Mark Wong, 24 November 2011, transcript and MP3 audio, Reel/Disc 3 of 5, National Archives of Singapore (accession no. 003502), 101.
+
+[^4]: Lim Wee Kiang, oral history interview by Mark Wong, 15 April 2010, transcript and MP3 audio, Reel/Disc 1 of 5, National Archives of Singapore (accession no. 003502), 39.
+
+[^5]: Lim Wee Guan and Sam Toh Hong Seng, oral history interview by Jason Lim, 10 July 2007, transcript and MP3 audio, Reel/Disc 2 of 2, National Archives of Singapore (accession no. 003195), 56.
+
+[^6]: Yap Chin Tong, “Unruffled Hippie ‘Prince’ Puffs Away As He Draws for a Living...,” _Straits Times_, 26 September 1968, 11. (From NewspaperSG)
+
+[^7]: National Council Against Drug Abuse (Singapore), _Towards a Drug Free Singapore: Strategies, Policies and Programmes Against Drugs_ (Singapore: National Council Against Drug Abuse, 1998), 9. (From National Library, Singapore, call no. RSING 362.293095957 TOW)
+
+[^8]: National Council Against Drug Abuse (Singapore), _Towards a Drug Free Singapore_, 10; Central Narcotics Bureau, _Dare to Strike: 25 Years of the Central Narcotics Bureau_ (Singapore: The Bureau, 1996), 23. (From National Library, Singapore, call no. RSING 353.37095957 SIN)
+
+[^9]: Central Narcotics Bureau, _Dare to Strike_, 36–37.
+
+[^10]: “‘Drug’ Discs Pick Up New Listeners in S’pore,” _Straits Times_, 5 July 1970, 19. (From NewspaperSG)
+
+[^11]: “Keeping the Records Straight...,” _New Nation_, 7 April 1971, 7; ‘Drug Discs’ Under Study by Top Govt Team,” _Straits Times_, 14 March 1970, 5. (From NewspaperSG)
+
+[^12]: “Censor Takes Fanfare Page,” _New Nation_, 5 March 1971, 3. (From NewspaperSG)
+
+[^13]: “S’pore Bans Hippies,” _Straits Times_, 10 April 1970, 1. (From NewspaperSG)
+
+[^14]: Parliament of Singapore, Foreign Hippies (Banning of Entry into Singapore), vol. 30 of _Parliamentary Debates: Official Report_, 8 March 1971, cols. 547–548, https://sprs.parl.gov.sg/search/#/topic?reportid=009\_19710308\_S0005\_T0009.
+
+[^15]: Maureen Peters, “Clip, Clip, Clip Way to Get Round the Causeway Clamp on Hippie Types...,” _Straits Times_, 11 April 1970, 15. (From NewspaperSG)
+
+[^16]: David Gan, “All Bearded Visitors Not Hippies, They Say,” _Straits Times_, 12 April 1970, 7. (From NewspaperSG)
+
+[^17]: “Unwanted Hippies on the ‘Wanted’ List,” _Straits Times_, 18 April 1970, 4. (From NewspaperSG)
+
+[^18]: “Govt Says It Again: No Hippies,” _Straits Times_, 5 June 1970, 4. (From NewspaperSG)
+
+[^19]: “TV S’pore Bans Long Haired Artistes,” _Straits Times_, 10 June 1970, 27. (From NewspaperSG)
+
+[^20]: Edward Liu, “Long Hair Youths Vanish from the Streets,” _Straits Times_, 2 October 1971, 30. (From NewspaperSG)
+
+[^21]: N.G. Kutty, “Flexible Policy in Long-Hair Clamps,” _Straits Times_, 11 January 1972, 1. (From NewspaperSG)
+
+[^22]: N.G. Kutty, “Op Snip Snip at the Causeway,” _Straits Times_, 10 January 1972, 26. (From NewspaperSG)
+
+[^23]: Kutty, “Op Snip Snip at the Causeway”; Kutty, “Flexible Policy in Long-Hair Clamps.”
+
+[^24]: “Sorting the Shaggy Sheep from the Hippie Goats,” _New Nation_, 31 January 1972, 9. (From NewspaperSG)
+
+[^25]: Gerry de Silva, “At Last Local Pop Groups Get a Chance at Top Billing,” _Straits Times_, 29 January 1972, 9. (From NewspaperSG)
+
+[^26]: Gerry de Silva, “Cliff Kept His Locks, But EMI Lost $10,000,” _Straits Times_, 22 August 1972, 15; Peter Ong, “Why Cliff Will Not Come to Singapore,” _New Nation_, 19 August 1972, 1. (From NewspaperSG)
+
+[^27]: “Long-Hair Ban Keeps Pop Stars Out,” _New Nation_, 29 August 1972, 3. (From NewspaperSG)
+
+[^28]: “Long Hair Means a Long, Long Wait...,” _Straits Times_, 23 June 1972, 8; Irene Ngoo, “5,700 Longhaired Men Warned,” _Straits Times_, 11 December 1974, 15. (From NewspaperSG)
+
+[^29]: “Govt to Bosses: Don’t Employ the Long-Haired,” _Straits Times_, 17 July 1973, 1. (From NewspaperSG)
+
+[^30]: “Govt to Bosses: Don’t Employ the Long-Haired”; Ngoo, “5,700 Longhaired Men Warned,” _Straits Times_, 11 December 1974, 15.
+
+[^31]: “Now It’s Snip, Snip Time in the Schools,” _Straits Times_, 12 January 1972, 13. (From NewspaperSG)
+
+[^32]: Lim Wee Kiang, oral history interview by Mark Wong, 15 April 2010, transcript and MP3 audio, Reel/Disc 1 of 5, National Archives of Singapore (accession no. 003502), 39.
+
+[^33]: “Student Protest Over Snip Snip,” _New Nation_, 18 January 1972, 3. (From NewspaperSG)
+
+[^34]: The Spoken Word, “Hitting at Long-Hair,” _New Nation_, 22 January 1972, 6. (From NewspaperSG)
+
+[^35]: Lim Suan Kooi, “Hair Row Starts Sit-In by 200,” _Straits Times_, 16 November 1972, 1. (From NewspaperSG)
+
+[^36]: “Call for ‘Strong Protest’ to S’pore by Tun Ismail,” _Straits Times_, 19 August 1970, 1. (From NewspaperSG)
+
+[^37]: “Lee Puts Off Visit,” _Straits Times_, 20 August 1970, 1; Philip Khoo, “Police Stop Snipping of Hippie Hair,” _Straits Times_, 3 September 1970, 1. (From NewspaperSG)
+
+[^38]: Lee Siew Hua, “Less Ado About Men With Long Hair,” _Straits Times_, 9 March 1986, 12. (From NewspaperSG)
+
+[^39]: Siti Rohanah Koid, “Yeah! Yeah! Yeah!,” _The New Paper_, 26 May 1993, 10. (From NewspaperSG)
+
