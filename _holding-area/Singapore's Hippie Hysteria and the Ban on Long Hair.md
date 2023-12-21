@@ -5,6 +5,7 @@ variant: markdown
 description: Hippie culture was seen as a risk to Singaporean society in the
   1960s and 1970s, and efforts made to reduce its influence eventually led to a
   campaign against men with long hair.
+image: /images/Vol 20 Issue 1/Hippie Hysteria/Image1.png
 ---
 #### Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair. 
 By Andrea Kee
@@ -24,6 +25,9 @@ The culture spread through, among other things, music, and local bands in Singap
 
 The Straydogs weren’t the only local band to embrace the movement. “We followed the flower \[power\], and we made flower coats,” recalled Sam Toh, who played bass guitar for The Quests. “And Vernon \[Cornelius\] has got a lot of ideas. And he was wearing flower things. We are all flower people.”[^5]
 
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image2.png)
+<div style="background-color: white;"> Vernon Cornelius of The Quests, looking groovy in a paisley shirt. Bassist Sam Toh is on the right. Lead guitarist Reggie Verghese is on the left. The band was recording their LP, <i>The 33rd Revolution</i>, at EMI’s studio in MacDonald House in September 1967. <i>Courtesy of Vernon Cornelius.</i></div>
+
 In September 1968, the _Straits Times_ reported that there were approximately 50 “Flower People” in Singapore sitting outside shopping centres and cinemas strumming their guitars and making chalk drawings on the pavements.[^6]
 
 #### **Drugs and the Hippie**
@@ -39,6 +43,9 @@ Because of the strong association between the hippie movement (including music) 
 By April 1971, a total of 19 Western pop records had been classified as “detained publications” under the Undesirable Publications Ordinance due to their “objectionable” lyrics that supposedly made references to drugs. These songs were not allowed to be sold or performed in public and included The Beatles’ “Happiness Is a Warm Gun” and “Lucy in the Sky with Diamonds”. The only record that was officially banned was the soundtrack for the Broadway rock-musical, _Hair_, which had to be surrendered to the government or be destroyed.[^11]
 
 The government’s decisions were not always easily understood. One of the songs that made it to the list of “detained publications” was “Proud Mary” by Creedence Clearwater Revival. In March 1971, the Culture Ministry actually instructed the Straits Times Group to remove a page from an issue of the magazine _Fanfare_ because it contained the lyrics of “Proud Mary”. As the _New Nation_ newspaper noted in its report, “The words of ‘Proud Mary’ appear to refer to an American river ferryboat and the generosity of the people who live on the banks of the river. It does not seem… to contain any references to drugs”.[^12]
+
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image3.png)
+<div style="background-color: white;">The Ministry of Culture ordered <i>Fanfare</i> to tear out this page before putting the issue up for sale as it contained the sheet music and lyrics to “Proud Mary”, a “detained” song that supposedly made references to drugs. <i>Image reproduced from Fanfare, 5 March 1971 (Singapore: The Straits Times Group, 1971), 10. (From PublicationSG).</i></div>
 
 #### **Banning Hippies**
 
@@ -66,7 +73,13 @@ Speaking in January 1972, Foreign Minister S. Rajaratnam emphasised that the cam
 
 Musicians, who typically wore their hair long, bore the brunt of the campaign. The police visited nightclubs to advise long-haired musicians to trim their hair. While local musicians were willing to toe the line, some foreign performers were not as amenable, and cancelled their shows or stopped signing contracts with Singapore’s hotels and nightclubs altogether.[^25]
 
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image4.png)
+<div style="background-color: white;">Album cover of The Quests’ 1967 vinyl release, <i>The 33rd Revolution</i>. Band members are in floral printed shirts. <i>Courtesy of Vernon Cornelius.</i></div>
+
 In August 1972, British pop singer Cliff Richard cancelled all three of his September concerts at the National Theatre, leaving fans disappointed. Richard and his band members had refused to cut their long hair, and it was believed that their applications for a professional visit pass was rejected by the Singapore authorities.[^26]
+
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image5.png)
+<div style="background-color: white;">A year after he cancelled his concerts in Singapore, Cliff Richard, still sporting long hair, was allowed into Singapore for a one-night stopover on 13 April 1973. Not here on a summer holiday, he was en route to Australia and New Zealand. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 Other top rock and pop groups, including The Who, Bee Gees, Cat Stevens, Tom Jones, Joe Cocker and the Chris Stainton Band, as well as Rick Nelson and the Stone Canyon Band, also scrapped their plans to perform in Singapore. Nelson’s promoter explained that they were passing over Singapore due to the “no-long-hair policy”, while other promoters were afraid that “any application made to the Immigration Department would be turned down” due to the long-hair policy.[^27]
 
@@ -96,12 +109,17 @@ Students from the University of Malaya protested the incident at the High Commis
 
 By the end of the 1970s, there were fewer reports in the press about the crackdown on long-haired men. In March 1986, Lee Siew Hua of the _Straits Times_ reported that “the long-hair-last signs have virtually disappeared even though officials maintain that the policy is very much alive”.[^38] Part of the reason for the easing up of long hair in the 1980s was simply due to changing trends. Hippies and hippie culture had long fallen out of fashion by then.
 
+
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image6.png)
+<div style="background-color: white;">All government offices had to display this poster and serve men with long hair last, 1972. <i>Source: The Straits Times, 23 June 1972 © SPH Media Limited. Permission required for reproduction. </i></div>
+
+
 The government also lifted restrictions on music previously banned for being associated with hippies. In May 1993, the Ministry of Information lifted its ban on a number of songs, including Beatles classics like “Lucy in the Sky with Diamonds”, “With a Little Help from My Friends” and “Sgt Pepper’s Lonely Hearts Club Band”. Fans of Bob Dylan were delighted that “Mr Tamborine Man” could finally play a song for them. Another song that got the green light, none too soon, was Creedence Clearwater Revival’s “Proud Mary”.[^39] The times, they were indeed, a-changing.
 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Yap_Jo_Lin.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/Andrea_Kee.png">
 	<b>Andrea Kee</b> is an Associate Librarian with the National Library of Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development, as well as providing reference and research services.</div>
 
 #### **Notes**

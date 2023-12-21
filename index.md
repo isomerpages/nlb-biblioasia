@@ -18,6 +18,16 @@ sections:
       background: /images/Vol-12-issue-3/building-faith/Wartime Church in Syonan_Hero
         Image.jpg
   - infopic:
+      title: Singapore’s Early Publications
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Printing in Singapore dates back about 200 years when Christian
+        missionaries established a printing press here to spread the gospel.
+      button: WATCH THE VIDEO
+      url: /videos/reels/print/
+      alt: Image alt text
+      image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
+  - infopic:
       title: A Quick History of the Singapore Speedway
       subtitle: Leisure
       id: infopic
