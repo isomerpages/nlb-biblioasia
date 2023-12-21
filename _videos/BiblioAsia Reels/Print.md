@@ -11,7 +11,7 @@ third_nav_title: BiblioAsia Reels
 
 Printing in Singapore dates back about 200 years when Christian missionaries established a printing press here to spread the gospel. &nbsp;Some of the early publications printed in Singapore include _Journal of a Tour Along the Coast of Java and Bali_&nbsp;(1830), 全人矩矱 (_Quan Ren Ju Yue_; 1836) and _Sejarah Melayu_ (_Malay Annals_; 1840).
 
-<b>Related Articles</b><br>
+<b>Related Article</b><br>
 
 [The Early History of Printing in Singapore](/vol-19/issue-3/oct-dec-2023/singapore-early-printing/)
 
