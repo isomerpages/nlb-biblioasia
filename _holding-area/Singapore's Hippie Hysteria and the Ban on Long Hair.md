@@ -12,9 +12,6 @@ By Andrea Kee
 
 In an interview in September 1970, just five years after Singapore became independent, Prime Minister Lee Kuan Yew was asked about the problems Singapore had to resolve in the near future. Unsurprisingly, he identified economic viability as the first task that the young nation had to address. What was surprising, however, was what he identified as the next most pressing problem facing Singapore.
 
-![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image1.png)
-<div style="background-color: white;">The cover of The Straydogs’ 1967 vinyl release of “Mum’s Too Pampering” and “I Can Only Give You Everything”. Dennis Lim is standing. second from the left. <i>Courtesy of Vernon Cornelius.</i></div>
-
 “The second point is the problem of being exposed to deleterious influences, particularly from the ‘hippie’ culture which is spreading across the jet routes,” he said. “We are a very exposed society, having both an important air and sea junction, and the insidious penetration of songs, TV, skits, films, magazines all tending towards escapism and the taking of drugs, is a very dangerous threat to our young. We will have to be not only very firm in damping or wiping out such limitation, but also to try and inoculate our young people against such tendencies. It is a malady which has afflicted several of the big capitals in the West and would destroy us if it got a grip on Singapore.”[^1]
 
 Hippie culture had reached Singapore’s shores by the late 1960s. Hippies represented a countercultural movement and were associated with a particular lifestyle. The fashion was loose, flowy garments, and psychedelic colours and images were common. The fashion for men was long hair and beards. Hippies were sometimes known as flower children because of the association of flowers with the movement. The regular use of recreational drugs such as marijuana and LSD (lysergic acid diethylamide) was also seen as part of the lifestyle.
@@ -22,6 +19,9 @@ Hippie culture had reached Singapore’s shores by the late 1960s. Hippies repre
 The culture spread through, among other things, music, and local bands in Singapore soon began to show signs that the movement was taking hold in Singapore. In April 1968, the local band The Straydogs performed at a show titled _Purple Velvet Vaudeville_ at the National Theatre, an event that the _Eastern Sun_ dubbed “the big Hippie show”. The paper reported that the stage and auditorium were “decked up with flowers and other psychedelic decorations”.[^2]
 
 “My sister dressed me up with a lot of flowers and sewed bulbs all over me,” recalled Dennis Lim, the band’s bass guitarist. “So, when the intro \[started\], I stepped on the switch, and I was all lighted up.”[^3] Lim also sported long hair that he had grown since his school days in anticipation of becoming a musician.[^4]
+
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image1.png)
+<div style="background-color: white;">The cover of The Straydogs’ 1967 vinyl release of “Mum’s Too Pampering” and “I Can Only Give You Everything”. Dennis Lim is standing, second from the left. <i>Courtesy of Vernon Cornelius.</i></div>
 
 The Straydogs weren’t the only local band to embrace the movement. “We followed the flower \[power\], and we made flower coats,” recalled Sam Toh, who played bass guitar for The Quests. “And Vernon \[Cornelius\] has got a lot of ideas. And he was wearing flower things. We are all flower people.”[^5]
 
@@ -78,7 +78,7 @@ Musicians, who typically wore their hair long, bore the brunt of the campaign. T
 
 In August 1972, British pop singer Cliff Richard cancelled all three of his September concerts at the National Theatre, leaving fans disappointed. Richard and his band members had refused to cut their long hair, and it was believed that their applications for a professional visit pass was rejected by the Singapore authorities.[^26]
 
-![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image5.png)
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image5_edit.png)
 <div style="background-color: white;">A year after he cancelled his concerts in Singapore, Cliff Richard, still sporting long hair, was allowed into Singapore for a one-night stopover on 13 April 1973. Not here on a summer holiday, he was en route to Australia and New Zealand. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 Other top rock and pop groups, including The Who, Bee Gees, Cat Stevens, Tom Jones, Joe Cocker and the Chris Stainton Band, as well as Rick Nelson and the Stone Canyon Band, also scrapped their plans to perform in Singapore. Nelson’s promoter explained that they were passing over Singapore due to the “no-long-hair policy”, while other promoters were afraid that “any application made to the Immigration Department would be turned down” due to the long-hair policy.[^27]
@@ -86,6 +86,9 @@ Other top rock and pop groups, including The Who, Bee Gees, Cat Stevens, Tom Jon
 #### **Not Serving and Hiring: Men with Long Hair**
 
 A few months after the start of Operation Snip Snip, the Ministry of Home Affairs announced that men with long hair would be served last at all government offices. Posters in English, Chinese and Malay with the message, “Males with long hair will be attended to last”, were displayed in government offices. Eventually, private-sector companies were also given these posters.[^28]
+
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image6.png)
+<div style="background-color: white;">All government offices had to display this poster and serve men with long hair last, 1972. <i>Source: The Straits Times, 23 June 1972 © SPH Media Limited. Permission required for reproduction. </i></div>
 
 The government also discouraged employers from hiring long-haired men. In July 1973, the Economic Development Board sent out a circular to the Singapore Manufacturers’ Association to inform that “the government strongly disapproved the appointment of long-haired male employees”.[^29]
 
@@ -108,11 +111,6 @@ Students from the University of Malaya protested the incident at the High Commis
 #### **Changing Trends**
 
 By the end of the 1970s, there were fewer reports in the press about the crackdown on long-haired men. In March 1986, Lee Siew Hua of the _Straits Times_ reported that “the long-hair-last signs have virtually disappeared even though officials maintain that the policy is very much alive”.[^38] Part of the reason for the easing up of long hair in the 1980s was simply due to changing trends. Hippies and hippie culture had long fallen out of fashion by then.
-
-
-![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image6.png)
-<div style="background-color: white;">All government offices had to display this poster and serve men with long hair last, 1972. <i>Source: The Straits Times, 23 June 1972 © SPH Media Limited. Permission required for reproduction. </i></div>
-
 
 The government also lifted restrictions on music previously banned for being associated with hippies. In May 1993, the Ministry of Information lifted its ban on a number of songs, including Beatles classics like “Lucy in the Sky with Diamonds”, “With a Little Help from My Friends” and “Sgt Pepper’s Lonely Hearts Club Band”. Fans of Bob Dylan were delighted that “Mr Tamborine Man” could finally play a song for them. Another song that got the green light, none too soon, was Creedence Clearwater Revival’s “Proud Mary”.[^39] The times, they were indeed, a-changing.
 
