@@ -18,8 +18,7 @@ Subscribe to get notified when the next episode drops:
 <img style="width: 28%" src="/images/Podcast/audiogram_yew_chong.jpg" align="left"><br clear="all">
  Listen on: [Spotify](https://open.spotify.com/episode/6NYgoIymDy90Ng76tWsjsr), [Apple Podcasts](https://podcasts.apple.com/us/podcast/artist-yip-yew-chong-paints-his-story-in-history/id1688142751?i=1000639313389), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZDE1YTc1MmMtYmU1Ni00ODE4LTliYWQtYzY5NmRhNzY0ZDJm?sa=X&amp;ved=0CAUQkfYCahcKEwiI56C6nqCDAxUAAAAAHQAAAAAQNA), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156)
  
- Yip Yew Chong’s 60-m long work, “I Paint My Singapore”, has been drawing crowds since it went on display at the Raffles City Convention Centre (ends 1 January 2024). Comprising 27 scenes of 1970s–1980s Singapore, it merges history, memory and nostalgia. In this episode of BiblioAsia+, Yew Chong explains how these works were created and reveals what he would love to paint but cannot.
-
+Yip Yew Chong’s 60-m long work, “I Paint My Singapore”, has been drawing crowds since it went on display at the Raffles City Convention Centre (the exhibition will end on 1 January 2024). Comprising 27 scenes of 1970s–1980s Singapore, the painting merges history, memory and nostalgia. In this episode of BiblioAsia+, Yew Chong explains how these works were created and reveals what he would love to paint but cannot.
 
 <a style="text-decoration: none; font-weight: bold;" href="/podcast/the-great-reclamation/"> The Great Reclamation</a> <br>
 <img style="width: 28%" src="/images/Podcast/ep%2013%20(rachel%20heng).jpg" align="left"><br clear="all">
