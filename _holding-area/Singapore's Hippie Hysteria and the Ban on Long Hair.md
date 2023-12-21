@@ -12,9 +12,6 @@ By Andrea Kee
 
 In an interview in September 1970, just five years after Singapore became independent, Prime Minister Lee Kuan Yew was asked about the problems Singapore had to resolve in the near future. Unsurprisingly, he identified economic viability as the first task that the young nation had to address. What was surprising, however, was what he identified as the next most pressing problem facing Singapore.
 
-![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image1.png)
-<div style="background-color: white;">The cover of The Straydogs’ 1967 vinyl release of “Mum’s Too Pampering” and “I Can Only Give You Everything”. Dennis Lim is standing, second from the left. <i>Courtesy of Vernon Cornelius.</i></div>
-
 “The second point is the problem of being exposed to deleterious influences, particularly from the ‘hippie’ culture which is spreading across the jet routes,” he said. “We are a very exposed society, having both an important air and sea junction, and the insidious penetration of songs, TV, skits, films, magazines all tending towards escapism and the taking of drugs, is a very dangerous threat to our young. We will have to be not only very firm in damping or wiping out such limitation, but also to try and inoculate our young people against such tendencies. It is a malady which has afflicted several of the big capitals in the West and would destroy us if it got a grip on Singapore.”[^1]
 
 Hippie culture had reached Singapore’s shores by the late 1960s. Hippies represented a countercultural movement and were associated with a particular lifestyle. The fashion was loose, flowy garments, and psychedelic colours and images were common. The fashion for men was long hair and beards. Hippies were sometimes known as flower children because of the association of flowers with the movement. The regular use of recreational drugs such as marijuana and LSD (lysergic acid diethylamide) was also seen as part of the lifestyle.
@@ -22,6 +19,9 @@ Hippie culture had reached Singapore’s shores by the late 1960s. Hippies repre
 The culture spread through, among other things, music, and local bands in Singapore soon began to show signs that the movement was taking hold in Singapore. In April 1968, the local band The Straydogs performed at a show titled _Purple Velvet Vaudeville_ at the National Theatre, an event that the _Eastern Sun_ dubbed “the big Hippie show”. The paper reported that the stage and auditorium were “decked up with flowers and other psychedelic decorations”.[^2]
 
 “My sister dressed me up with a lot of flowers and sewed bulbs all over me,” recalled Dennis Lim, the band’s bass guitarist. “So, when the intro \[started\], I stepped on the switch, and I was all lighted up.”[^3] Lim also sported long hair that he had grown since his school days in anticipation of becoming a musician.[^4]
+
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image1.png)
+<div style="background-color: white;">The cover of The Straydogs’ 1967 vinyl release of “Mum’s Too Pampering” and “I Can Only Give You Everything”. Dennis Lim is standing, second from the left. <i>Courtesy of Vernon Cornelius.</i></div>
 
 The Straydogs weren’t the only local band to embrace the movement. “We followed the flower \[power\], and we made flower coats,” recalled Sam Toh, who played bass guitar for The Quests. “And Vernon \[Cornelius\] has got a lot of ideas. And he was wearing flower things. We are all flower people.”[^5]
 
