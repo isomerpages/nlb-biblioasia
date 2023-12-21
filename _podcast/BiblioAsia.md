@@ -44,9 +44,9 @@ The Crescendos didn’t just rock the airways in Singapore in the 1960s. They ch
 
 <a style="text-decoration: none; font-weight: bold;" href="/podcast/keramat-kusu/">The Stories behind the Shrines on Kusu Island</a> <br>
 <img style="width: 28%" src="/images/Podcast/Photos_About/ep%209%20(shrines%20by%20william)v1.jpg" align="left"><br clear="all">
-Listen on: [Spotify](https://open.spotify.com/episode/12nHrDUKtxEF8F5zup9xK3), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-stories-behind-the-shrines-on-kusu-island/id1688142751?i=1000622165192), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZTVkMDUxNzEtNjI0Yy00MThkLTk2NDctNmY0YzRjNGVjMWVl?sa=X&amp;ved=0CAUQkfYCahcKEwiIuI3DuaiAAxUAAAAAHQAAAAAQCg), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Stories-Behind-the-Shrines-on-Kusu-Island-2115211) <br>
-People have been worshipping the shrines on Kusu Island since the mid-19th century. The people said to be buried at Kusu Island, however, haven’t always stayed the same, according to writer and researcher William L. Gibson. <br>
+Listen on: [Spotify](https://open.spotify.com/episode/12nHrDUKtxEF8F5zup9xK3), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-stories-behind-the-shrines-on-kusu-island/id1688142751?i=1000622165192), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZTVkMDUxNzEtNjI0Yy00MThkLTk2NDctNmY0YzRjNGVjMWVl?sa=X&amp;ved=0CAUQkfYCahcKEwiIuI3DuaiAAxUAAAAAHQAAAAAQCg), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Stories-Behind-the-Shrines-on-Kusu-Island-2115211) 
 
+People have been worshipping the shrines on Kusu Island since the mid-19th century. The people said to be buried at Kusu Island, however, haven’t always stayed the same, according to writer and researcher William L. Gibson. <br>
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/podcast/sarong-island/">The Mystery of Sarong Island</a><br>
@@ -102,4 +102,3 @@ Listen on: [Spotify](https://open.spotify.com/episode/4D67FbUNy43fDHajMH606E), [
 
 After Kosman Hassan volunteered to take his uncle’s place to work on the infamous Death Railway, no one heard from Kosman for three years. But his family never gave up hope.
 <br>
-
