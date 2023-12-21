@@ -989,4 +989,5 @@ sections:
       button: WATCH THE VIDEO
       url: /videos/reels/print/
       alt: Image alt text
+      image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
 ---
