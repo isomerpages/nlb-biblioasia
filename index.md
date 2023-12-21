@@ -980,4 +980,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: "Singapore’s Early Publications "
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Printing in Singapore dates back about 200 years when Christian
+        missionaries from the London Missionary Society established a printing
+        press here to spread the
+      button: WATCH THE VIDEO
+      url: /videos/reels/print/
+      alt: Image alt text
 ---
