@@ -4,6 +4,7 @@ title: BiblioAsia Apr-Jun 2017
 date: 2020-01-01T00:00:00.000Z
 breadcrumb: Apr-Jun 2017
 permalink: /vol-13/issue-1/apr-jun-2017/
+variant: markdown
 ---
 Charlie Chaplin's stopovers in Singapore, what it means to be Eurasian and Chinese puppet theatre are some of the highlights of this issue.
 
@@ -23,7 +24,7 @@ Thanks to land reclamation, the tiny red dot has broadened its shores substantia
 **[Chinese Puppet Theatre: Rekindling a Glorious Past](/vol-13/issue-1/apr-jun-2017/chinesepuppettheatre)** <br>
 Chinese puppetry is a tradition that is slowly losing ground in Singapore. *Caroline Chia* tells us why this art form should be preserved. [(PDF)](/files/pdf/vol-13/v13-issue1_Puppet.pdf)
 
-**[Through Time and Tide: A Survey of Singapore’s Reef](/vol-13/issue-1/apr-jun-2017/through-time-and-tide)** <br>
+**[Through Time and Tide: A Survey of Singapore’s Reefs](/vol-13/issue-1/apr-jun-2017/through-time-and-tide)** <br>
 The reefs that fringed Singapore’s coastline and islands have served for centuries as maritime markers, fishing grounds and even homes for island communities. *Marcus Ng* rediscovers the stories that lurk beneath the waves. [(PDF)](/files/pdf/vol-13/v13-issue1_Time.pdf)
 
 **[Gedung Kuning: Memories of a Malay Childhood](/vol-13/issue-1/apr-jun-2017/gedung-kuning)** <br>
