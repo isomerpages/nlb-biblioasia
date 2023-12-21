@@ -87,6 +87,9 @@ Other top rock and pop groups, including The Who, Bee Gees, Cat Stevens, Tom Jon
 
 A few months after the start of Operation Snip Snip, the Ministry of Home Affairs announced that men with long hair would be served last at all government offices. Posters in English, Chinese and Malay with the message, “Males with long hair will be attended to last”, were displayed in government offices. Eventually, private-sector companies were also given these posters.[^28]
 
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image6.png)
+<div style="background-color: white;">All government offices had to display this poster and serve men with long hair last, 1972. <i>Source: The Straits Times, 23 June 1972 © SPH Media Limited. Permission required for reproduction. </i></div>
+
 The government also discouraged employers from hiring long-haired men. In July 1973, the Economic Development Board sent out a circular to the Singapore Manufacturers’ Association to inform that “the government strongly disapproved the appointment of long-haired male employees”.[^29]
 
 Civil servants were warned that those who defied the hair rules would face disciplinary actions, including termination of service. Those in the private sector were not exempt from the rules as names of male workers who continued wearing their hair long despite warnings were shared with the government for “appropriate action” to be taken.[^30]
@@ -108,11 +111,6 @@ Students from the University of Malaya protested the incident at the High Commis
 #### **Changing Trends**
 
 By the end of the 1970s, there were fewer reports in the press about the crackdown on long-haired men. In March 1986, Lee Siew Hua of the _Straits Times_ reported that “the long-hair-last signs have virtually disappeared even though officials maintain that the policy is very much alive”.[^38] Part of the reason for the easing up of long hair in the 1980s was simply due to changing trends. Hippies and hippie culture had long fallen out of fashion by then.
-
-
-![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image6.png)
-<div style="background-color: white;">All government offices had to display this poster and serve men with long hair last, 1972. <i>Source: The Straits Times, 23 June 1972 © SPH Media Limited. Permission required for reproduction. </i></div>
-
 
 The government also lifted restrictions on music previously banned for being associated with hippies. In May 1993, the Ministry of Information lifted its ban on a number of songs, including Beatles classics like “Lucy in the Sky with Diamonds”, “With a Little Help from My Friends” and “Sgt Pepper’s Lonely Hearts Club Band”. Fans of Bob Dylan were delighted that “Mr Tamborine Man” could finally play a song for them. Another song that got the green light, none too soon, was Creedence Clearwater Revival’s “Proud Mary”.[^39] The times, they were indeed, a-changing.
 
