@@ -2,9 +2,9 @@ collections:
   podcast:
     output: true
     order:
-      - Episode 14/Transcript.md
-      - Episode 14/Artist Yip Yew Chong Paints His Story in History.md
       - Episode 14/.keep
+      - Episode 14/Artist Yip Yew Chong Paints His Story in History.md
+      - Episode 14/Transcript.md
       - BiblioAsia.md
       - Episode 13/.keep
       - Episode 13/The Great Reclamation.md
