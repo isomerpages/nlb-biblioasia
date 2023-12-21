@@ -4,12 +4,6 @@ permalink: /topics/print/
 description: ""
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/singapore-early-printing/"> Singapore’s Early Publications</a>
-Printing in Singapore dates back about 200 years when Christian missionaries from the London Missionary Society established a printing press here to spread the gospel.  Some of the publications by the press include Journal of a Tour Along the Coast of Java and Bali (1830) and Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru (The New Testament of Our Lord and Saviour Jesus Christ in Malay) (1831). 
-
-<img src="/images/Videos:%20BiblioAsia%20Reels/early_print.jpg">
-<hr>
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/early-malay-comics/"> Kaboom! Early Malay Comic Books Make an Impact</a>
 The 1950s was the heyday for Malay comic books published in Singapore.
 
