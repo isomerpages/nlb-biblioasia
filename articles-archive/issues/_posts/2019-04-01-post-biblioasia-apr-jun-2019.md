@@ -4,6 +4,7 @@ title: BiblioAsia Apr-Jun 2019
 date: 2020-01-01T00:00:00.000Z
 breadcrumb: Apr-Jun 2019
 permalink: /vol-15/issue-1/apr-jun-2019/
+variant: markdown
 ---
 In this special issue, we look at the National Archives to understand its role in Singapore. We also explore its many riches, such as its extensive oral history collection.
 
@@ -26,7 +27,7 @@ Who would have thought that obscure rainfall records from the 1960s would have a
 **[Pioneers of the Archives](/vol-15/issue-1/apr-jun-2019/pioneers-of-archives)** <br>
 *Fiona Tan* tells us about the people who laid the bedrock of the National Archives of Singapore, along with details of how the institution has evolved since its inception in 1938. [(PDF)](/files/pdf/vol-15/v15-issue1_Pioneers.pdf)
 
-**[Wartime Virtuals: Surviving the Japanese Occupation](/vol-15/issue-1/apr-jun-2019/wartime-victuals)** <br>
+**[Wartime Victuals: Surviving the Japanese Occupation](/vol-15/issue-1/apr-jun-2019/wartime-victuals)** <br>
 Desperate times call for desperate measures. *Lee Geok Boi* trawls the oral history collection of the National Archives to document how people coped with the precious little food they had during the war. [(PDF)](/files/pdf/vol-15/v15-issue1_WartimeVictuals.pdf)
 
 **[The Way We Were: The MITA Collection 1949–1969](/vol-15/issue-1/apr-jun-2019/the-way-we-were)** <br>
