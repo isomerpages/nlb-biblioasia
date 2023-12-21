@@ -9,7 +9,7 @@ third_nav_title: BiblioAsia Reels
  
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/Bfx3g3Xjqf0" frameborder="0" allowfullscreen=""></iframe></div>
 
-Printing in Singapore dates back about 200 years when Christian missionaries from the London Missionary Society established a printing press here to spread the gospel. &nbsp;Some of the publications by the press include _Journal of a Tour Along the Coast of Java and Bali_&nbsp;(1830) and _Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru_&nbsp;(_The New Testament of Our Lord and Saviour Jesus Christ in Malay_) (1831).
+Printing in Singapore dates back about 200 years when Christian missionaries established a printing press here to spread the gospel. &nbsp;Some of the early publications printed in Singapore include _Journal of a Tour Along the Coast of Java and Bali_&nbsp;(1830), 全人矩矱 (_Quan Ren Ju Yue_; 1836) and _Sejarah Melayu_ (_Malay Annals_; 1840).
 
 <b>Related Articles</b><br>
 
