@@ -1000,5 +1000,5 @@ sections:
       button: Operation Snip Snip
       url: /vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/
       image: /images/Vol 20 Issue 1/Hippie Hysteria/Image6.png
-      alt: Image alt text
+      alt: Hippie Hysteria
 ---
