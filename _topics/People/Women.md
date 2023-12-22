@@ -3,6 +3,7 @@ title: Women
 permalink: /topics/women/
 description: ""
 third_nav_title: People
+variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/">Women and the Typewriter in Singapore’s Herstories</a>
 The humble typewriter helped women become better educated, enter the workforce and contribute to society.
@@ -21,7 +22,7 @@ Women who practised a particular form of Buddhism set up popular vegetarian rest
 
 **Vandana Aggarwal**  traces the origins of a venerable association for Indian women and the role it played in their lives.
 
-<img src="/images/Vol%2018%20Issue%201/Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png">
+<img src="/images/Vol%2018%20Issue%201/Kamala%20Club/02-Members-with-Mrs-Indira-Gandhi-at-the-Club-premisis-in-Balestier.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/wong-din-haan/">Wong Din Haan: A Pioneer Educator</a>
@@ -37,5 +38,19 @@ A number of cookbooks written in the 1940s and 1950s helped expand the tradition
 <img src="/images/vol-17-issue-4/cookbook/cookbook.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/diff-sky/">A Different Sky: The Other Side of the Looking Glass</a>
+
+*Meira Chand*  explores the challenges of writing historical fiction.
+
+<img src="/images/Vol-16-issue-3/diff-sky/adiffsky-cover.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett/">Marjorie Doggett: Photographer of Singapore</a>
+
+*Edward Stokes* reflects on the life and work of Marjorie Doggett, a pioneering photographer.
+
+![](/images/Vol-16-issue-1/marjorie/Majorie-title.png)
+<img src="/images/Vol-16-issue-1/marjorie/Majorie-title.png" style="width:80%;">
+<hr>
 
 
