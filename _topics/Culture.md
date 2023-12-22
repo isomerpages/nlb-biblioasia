@@ -61,3 +61,21 @@ _Fiona Lim_&nbsp;and&nbsp;_Geoffrey Pakiam_&nbsp;look at a time-honoured traditi
 <img src="/images/Vol-16-issue-3/betel/betelchewinginsingapore.jpg" style="width:50%;">													
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue/">The Sticky Problem of Opium Revenue</a>
+*Diana S. Kim*  explains how the colonial government reduced its dependence on opium taxes.
+
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg" style="width:80%;">													
+<hr>
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/medium/">The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World
+</a>
+
+Self-mortification and the spilling of blood are hallmarks of the Chinese *tangki*. *Margaret Chan* explains the symbolism behind these practices.
+
+<img src="/images/Vol-16-issue-2/medium/HeibaiWuchang.jpg" style="width:80%;">													
+<hr>
+
+
+
+
