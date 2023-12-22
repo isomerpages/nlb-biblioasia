@@ -72,5 +72,29 @@ _Shereen Tay_&nbsp;recounts the National Library’s efforts to archive Singapor
 <img src="/images/Vol-16-issue-3/website/preservingdigital-opening.jpg" style="width:80%;">													
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/rain/">Cloudy with a Slight Chance of Rain: Singapore’s Meteorological Service</a>
+
+_Lim Tin Seng_&nbsp;examines temperature and rainfall records in Singapore over the past 200 years.
+
+<img src="/images/Vol-16-issue-2/rain/PilotBalloon1.jpg" style="width:50%;">													
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/metric/">Milestones to the Metric System</a>
+
+*Shereen Tay* traces how Singapore transitioned to the metric system in 10 short years.
+
+<img src="/images/Vol-16-issue-1/metric/Metrication-title.jpg" style="width:80%;">													
+<hr>
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/metric/">Milestones to the Metric System</a>
+
+*Shereen Tay* traces how Singapore transitioned to the metric system in 10 short years.
+
+<img src="/images/Vol-16-issue-1/metric/Metrication-title.jpg" style="width:80%;">													
+<hr>
+
+
+
 
 
