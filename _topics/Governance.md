@@ -2,7 +2,16 @@
 title: Governance
 permalink: /topics/governance/
 description: ""
+variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/">Singapore's Hippie Hysteria and the Ban on Long Hair</a>
+
+Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair.
+
+<img src="/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image6.png">
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">The Bumpy Ride to Making Crash Helmets Mandatory</a>
 Crash helmets might save lives but getting people to wear them was an uphill task.
 
@@ -34,5 +43,34 @@ Singapore has planted more than two million trees in the past 50 years. Lim Tin 
 
 <img src="/images/vol-17-issue-4/tree-planting/1-Header-2.jpg">
 <hr>
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue/">The Sticky Problem of Opium Revenue</a>
+*Diana S. Kim*  explains how the colonial government reduced its dependence on opium taxes.
+
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg" style="width:80%;">													
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/gunpoint/">At Gunpoint: Wiping Out Illegal Firearms in Singapore</a>
+
+Street shootouts and armed kidnappings used to be common. *Tan Chui Hua*  zeroes in on how these criminals were disarmed.
+
+<img src="/images/Vol-16-issue-3/gunpoint/openinggun-gunpoint-01.jpg" style="width:80%;">													
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/covid19/">Life in a Time of COVID-19</a>
+
+*Janice Loo*  explains the National Library’s crowdsourcing efforts to document the impact of the coronavirus pandemic.
+
+<img src="/images/Vol-16-issue-3/covid19/covid19-opening.jpg" style="width:50%;">													
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/website/">An Archive of Singapore Websites: Preserving the Digital</a>
+
+_Shereen Tay_&nbsp;recounts the National Library’s efforts to archive Singapore-related websites.
+
+<img src="/images/Vol-16-issue-3/website/preservingdigital-opening.jpg" style="width:80%;">													
+<hr>
+
 
 

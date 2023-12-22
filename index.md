@@ -18,6 +18,17 @@ sections:
       background: /images/Vol-12-issue-3/building-faith/Wartime Church in Syonan_Hero
         Image.jpg
   - infopic:
+      title: Singapore's Hippie Hysteria and the Ban on Long Hair
+      subtitle: Governance
+      id: infopic
+      description: Hippie culture was seen as a risk to Singapore in the 1960s and
+        1970s. To reduce its influence, the government began a campaign against
+        men with long hair.
+      button: Operation Snip Snip
+      url: /vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/
+      image: /images/Vol 20 Issue 1/Hippie Hysteria/Image6.png
+      alt: Hippie Hysteria
+  - infopic:
       title: Singapore’s Early Publications
       subtitle: BiblioAsia Reels
       id: infopic
