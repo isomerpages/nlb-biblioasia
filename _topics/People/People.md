@@ -8,13 +8,13 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/">Chia Boon Leong: The Twinkle-Toed Olympian</a>
 Although short in stature, footballer Chia Boon Leong was a force to be reckoned with.
 
-<img src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/age50b.jpg">
+<img src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/age50b.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/">Conquering the World’s Tallest Mountain</a>
 David Lim led the first Singapore expedition team that successfully scaled Mount Everest on 25 May 1998. This is an excerpt from his book,&nbsp;<i>Mountain to Climb: The Quest from Everest and Beyond</i>.
 
-<img src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/sg%20team%20at%20basecamp.jpg">
+<img src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/sg%20team%20at%20basecamp.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a>
@@ -26,19 +26,19 @@ The late architect William Lim did more than shape Singapore’s skyline. He was
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/">The Curious Visit of Qing Ambassadors to Singapore</a>
 The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
 
-<img src="/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01_v3.png">
+<img src="/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01_v3.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/">Coach Choo Seng Quee, A Giant of Singapore Football</a>
 Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in 1977.  Four decades after his death, we remember his many contributions to the sport.
 
-<img src="/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/a7spread.jpg">
+<img src="/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/a7spread.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/tok-sumang-english/">Tok Sumang: A Translation</a>
 A story about Wak Sumang, a man of great wisdom and many talents, and the founder of Kampong Punggol.
 
-<img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20cover%20reduced.jpg" style="width:50%;">
+<img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20cover%20reduced.jpg" style="width:40%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/">Neo Tiew: The Man Who Built Lim Chu Kang</a>
@@ -50,32 +50,32 @@ The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/tennis-history-singapore/">Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis</a>
 Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years.
 
-<img src="/images/Vol%2019%20Issue%201/Tennis/image1-edit.png">
+<img src="/images/Vol%2019%20Issue%201/Tennis/image1-edit.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/">Subaraj Rajathurai: A Voice for the Wild</a>
 
 A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to save Singapore’s green spaces.
 
-<img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg">  
+<img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Rōmusha</a>
 During World War II, forced civilian labourers known as rōmushas were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 
-<img src="/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg">  
+<img src="/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a>
 While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
 
-<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/1_Loke%20Portrait.png">  
+<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/1_Loke%20Portrait.png" style="width:70%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/">Loke Wan Tho: A Photo Essay</a>
 Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of Cathay Organisation.
 
-<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg" style="width:50%;">
+<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg" style="width:40%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau/">A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the Bugis to Singapore</a>
@@ -89,19 +89,19 @@ Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible 
 
 As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice.
 
-<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png">
+<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png" style="width:70%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides//">The Orang Seletar: Rowing Across Changing Tides</a>
 
 Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. **Ilya Katrinnada** takes them on a tour around Singapore visiting Merlion Park, Sembawang Park and Lower Seletar Reservoir Park.
 
-<img src="/images/Vol%2018%20Issue%201/Orang%20Seletar/orang_seletar_cover.png">
+<img src="/images/Vol%2018%20Issue%201/Orang%20Seletar/orang_seletar_cover.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/cinema-pioneer-tan-cheng-kee/">Cinema Pioneer Tan Cheng Kee</a>
 
 The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
 
-<img src="/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png">
+<img src="/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png" style="width:80%;">
 <hr>
