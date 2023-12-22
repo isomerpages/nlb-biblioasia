@@ -96,7 +96,7 @@ Singapore’s only cable radio service was an instant hit when it was launched i
 
 The resplendent Istana – where colonial governors and modern-day presidents once lived – celebrated its 150th anniversary in 2019. *Wong Sher Maine* recounts key moments in its history.
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana1.JPG" style="width:80%;">
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana1.JPG" style="width:50%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/shipyards-keppel-sembawang">The Story of Two Shipyards: Keppel &amp; Sembawang</a>
@@ -110,5 +110,3 @@ The Emporium chain of department stores entered the scene when the retail market
 
 <img src="/images/Vol-15-issue-2/oriental-emporium/Emporium1.JPG" style="width:80%;">
 <hr>
-
-
