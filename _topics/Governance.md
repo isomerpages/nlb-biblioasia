@@ -58,5 +58,19 @@ Street shootouts and armed kidnappings used to be common. *Tan Chui Hua*  zeroes
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-gunpoint-01.jpg" style="width:80%;">													
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/covid19/">Life in a Time of COVID-19</a>
+
+*Janice Loo*  explains the National Library’s crowdsourcing efforts to document the impact of the coronavirus pandemic.
+
+<img src="/images/Vol-16-issue-3/covid19/covid19-opening.jpg" style="width:50%;">													
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/website/">An Archive of Singapore Websites: Preserving the Digital</a>
+
+_Shereen Tay_&nbsp;recounts the National Library’s efforts to archive Singapore-related websites.
+
+<img src="/images/Vol-16-issue-3/website/preservingdigital-opening.jpg" style="width:80%;">													
+<hr>
+
 
 
