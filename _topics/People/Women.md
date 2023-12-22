@@ -59,4 +59,10 @@ Brothels in colonial Singapore, with its large male migrant population, did a ro
 <img src="/images/Vol-15-issue-4/when-women-were-commodities/w1.JPG" style="width:60%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/s-t-c-sea/">Snakes, Tigers and Cannibals: Ida Pfeiffer’s Travels in Southeast Asia</a>
+
+Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encountered human heads put out to dry and faced off angry cannibals. *John van Wyhe* recounts the adventures of this remarkable woman.
+
+<img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t1.JPG" style="width:80%;">
+<hr>
 
