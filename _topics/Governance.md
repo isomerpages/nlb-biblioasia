@@ -2,7 +2,16 @@
 title: Governance
 permalink: /topics/governance/
 description: ""
+variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/">
+Singapore's Hippie Hysteria and the Ban on Long Hair</a>
+
+Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair.
+
+<img src="/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/crash_helmet_header.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">The Bumpy Ride to Making Crash Helmets Mandatory</a>
 Crash helmets might save lives but getting people to wear them was an uphill task.
 
@@ -34,5 +43,3 @@ Singapore has planted more than two million trees in the past 50 years. Lim Tin 
 
 <img src="/images/vol-17-issue-4/tree-planting/1-Header-2.jpg">
 <hr>
-
-
