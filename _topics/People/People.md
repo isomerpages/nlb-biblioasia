@@ -113,5 +113,11 @@ The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore
 <img src="/images/Vol-16-issue-3/tiger/georgesclemenceau-thetigerinsg.jpg" style="width:50%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/karikal/">Karikal Mahal: The Lost Palace of a Fallen Cattle King</a>
+
+*William L. Gibson*  uncovers the story behind the pair of grand buildings along Still Road South.
+
+<img src="/images/Vol-16-issue-3/karikal/karikalmahal-building.jpg" style="width:80%;">
+<hr>
 
 
