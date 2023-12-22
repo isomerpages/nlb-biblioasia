@@ -130,6 +130,15 @@ Singapore’s history is closely intertwined with that of Lingga’s. The kings 
 <img src="/images/Vol-16-issue-3/queenstown/queenstown-libopening.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/ghcafe/">G.H. Cafe: A Dining Landmark on Battery Road</a>
+	
+This cafe once loomed large in Singapore’s dining and social scene. *Vandana Aggarwal* traces its rise and disappearance.
+
+<img src="/images/Vol-16-issue-2/ghcafe/GHCafe.jpg" style="width:80%;">
+<hr>
+
+
+
 
 
 
