@@ -58,6 +58,6 @@ Chinese food in Singapore is a product of the country’s history and geography,
 
 _Fiona Lim_&nbsp;and&nbsp;_Geoffrey Pakiam_&nbsp;look at a time-honoured tradition that is no longer fashionable.
 
-<img src="/images/Vol-16-issue-3/betel/betelchewinginsingapore.jpg">
+<img src="/images/Vol-16-issue-3/betel/betelchewinginsingapore.jpg" style="width:50%;">													
 <hr>
 
