@@ -120,4 +120,26 @@ The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore
 <img src="/images/Vol-16-issue-3/karikal/karikalmahal-building.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles/">Stamford Raffles and the Two French Naturalists</a>
+
+Two young French naturalists were hired by Stamford Raffles in December 1818 to collect wildlife specimens in the region and they were with him when Raffles landed in Singapore in 1819. *Danièle Weiler* looks at their life and work.
+
+<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="width:70%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague/">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
+
+*Kevin Y.L. Tan* tells us how Penang-born doctor Wu Lien-Teh fought the pneumonic plague in Manchuria and popularised the use of face masks.
+
+<img src="/images/Vol-16-issue-2/plague/DrWuLienTeh.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/sangnila/">Sang Nila Utama: Separating Myth from Reality</a>
+
+Sang Nila Utama helped established the legitimacy of the Melaka Sultanate, says *Derek Heng*.
+
+<img src="/images/Vol-16-issue-2/sangnila/SejarahMelayu.jpg" style="width:80%;">
+<hr>
+
+
 
