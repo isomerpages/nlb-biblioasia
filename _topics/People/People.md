@@ -148,6 +148,12 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 <img src="/images/Vol-16-issue-1/history/History-title2.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/king/">The King’s Chinese: The Life of Sir Song Ong Siang</a>
+
+*Kevin Y.L. Tan* pens a portrait of the first person in Malaya to be knighted and the author of One Hundred Years’ History of the Chinese in Singapore.
+
+<img src="/images/Vol-16-issue-1/king/King-title.jpg" style="width:50%;">
+<hr>
 
 
 
