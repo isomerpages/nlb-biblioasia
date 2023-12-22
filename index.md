@@ -990,4 +990,15 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Singapore's Hippie Hysteria and the Ban on Long Hair
+      subtitle: Governance
+      id: infopic
+      description: Hippie culture was seen as a risk to Singaporean society in the
+        1960s and 1970s, and efforts made to reduce its influence eventually led
+        to a campaign against m
+      button: Operation Snip Snip
+      url: /vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/
+      image: /images/Vol 20 Issue 1/Hippie Hysteria/Image6.png
+      alt: Image alt text
 ---
