@@ -48,6 +48,12 @@ The closing of Cathay cinema at Handy Road, one of Singapore’s oldest cinemas,
 <img src="/images/Cathay/cathay-interior.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/changi-airport">How Changi Airport Came To Be</a>
+As Singapore’s Changi Airport marks its 40th anniversary in 2021, Rebecca Tan uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
+
+<img src="/images/vol-17-issue-3/how-changi-airport-came-to-be/Facing%20Page2.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/jurong-bird-park">How Jurong Bird Park was Hatched</a>
 On the 50th anniversary of its opening, Zoe Yeo gives us a bird’s-eye view of the setting up of one of Singapore’s most popular tourist attractions.
 
@@ -60,11 +66,11 @@ Many generations of Singaporeans have shopped in Robinsons since its founding in
 <img src="/images/Vol-16-issue-4/Robinsons/RememberingRobinsons.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/changi-airport">How Changi Airport Came To Be</a>
-As Singapore’s Changi Airport marks its 40th anniversary in 2021, Rebecca Tan uncovers fascinating facts behind the decision to build the airport and how it eventually took shape.
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-4/jan-mar-2021/modern-by-design/">Becoming Modern By Design</a>
+The now-defunct Baharuddin Vocational Institute was Singapore’s first formal school for design.&nbsp;Justin Zhuang&nbsp;looks at how the institute laid the foundation for the design industry here.
 
-<img src="/images/vol-17-issue-3/how-changi-airport-came-to-be/Facing%20Page2.jpg" style="width:80%;">
-
+<img src="/images/Vol-16-issue-4/ModernByDesign/BecomingModernByDesign.jpg" style="width:80%;">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/shipyards-keppel-sembawang">The Story of Two Shipyards: Keppel &amp; Sembawang</a>
 Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry.&nbsp;Wee Beng Geok&nbsp;traces the colonial origins of these two companies.
