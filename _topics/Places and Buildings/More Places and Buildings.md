@@ -121,6 +121,15 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 Singapore’s history is closely intertwined with that of Lingga’s. The kings that once reigned from its shores played a pivotal role in the fate of the Malay world, including the birth of modern Singapore, as Faris Joraimi reveals.
 
 <img src="/images/vol-17-issue-4/mother-island/Lingga.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/queenstown/">Looking Back at Queenstown Library’s 50 Years</a>
+
+*Paddy Jonathan Ong*  traces the history of Singapore’s first branch library.
+
+<img src="/images/Vol-16-issue-3/queenstown/queenstown-libopening.jpg" style="width:80%;">
+<hr>
+
 
 
 
