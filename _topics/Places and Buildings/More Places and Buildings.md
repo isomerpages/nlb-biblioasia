@@ -137,7 +137,12 @@ This cafe once loomed large in Singapore’s dining and social scene. *Vandana A
 <img src="/images/Vol-16-issue-2/ghcafe/GHCafe.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/keong-saik/">Keong Saik Road: The Other Side of the Red-Light District</a>
 
+*Charmaine Leung* says there is more to the place than its reputation suggests.
+
+<img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-title.jpg" style="width:80%;">
+<hr>
 
 
 
