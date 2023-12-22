@@ -79,7 +79,12 @@ The now-defunct Baharuddin Vocational Institute was Singapore’s first formal s
 <img src="/images/Vol-16-issue-3/queenstown/queenstown-libopening.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/causeway/">From Sea to Road: Building the Causeway</a>
 
+The foundation stone for the Causeway was laid 100 years ago. We look back at the history of this road and rail link.
+
+<img src="/images/Vol-16-issue-2/causeway/Causeway.jpg" style="width:80%;">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/rdifs-gden-yrs/">Rediffusion’s Golden Years</a>
 Singapore’s only cable radio service was an instant hit when it was launched in 1949.&nbsp;Barbara Quek&nbsp;charts the history of the pioneering broadcasting station.
