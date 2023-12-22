@@ -1,0 +1,752 @@
+collections:
+  archive:
+    output: true
+    order:
+      - >-
+        features/2006-10-01-post-Journey of Faith: Haj Pilgrimage in the
+        Malay Archipelago before the 20th Century.md
+      - features/2012-03-31-post-Director's Note (March 2012).md
+      - features/2013-10-30-post-Director's Column .md
+      - >-
+        features/2013-10-30-post-Hawkers: From Public Nuisance to
+        National Icons.md
+      - >-
+        features/2013-10-30-post-Into the Melting Pot: Food As
+        Culture.md
+      - >-
+        features/2013-10-30-post-Spicy Nation: From India to
+        Singapore.md
+      - >-
+        features/2013-10-30-post-“Mrs Beeton” in Malaya: Women,
+        Cookbooks and the Makings of the Housewife.md
+      - >-
+        features/2014-01-01-post- A Colonial Heritage:  Collections of
+        the  Anglican Diocese of Singapore.md
+      - features/2014-01-01-post-A Tale of Many Hands.md
+      - >-
+        features/2014-01-01-post-From Here to Eternity: Archiving and
+        Immortality.md
+      - "features/2014-01-01-post-Kampung Living: A–Z.md"
+      - >-
+        features/2014-01-01-post-Old Singapore: Places in Pictures and
+        Oral History.md
+      - >-
+        features/2014-01-01-post-Singapore Men of Science and Medicine
+        in China (1911–1949).md
+      - >-
+        features/2014-01-01-post-The Jiapu Chronicles: What’s in a
+        Name?.md
+      - "features/2014-01-01-post-The Unlikely Composer: Tsao Chieh.md"
+      - features/2014-01-01-post-Time–forgotten Trades.md
+      - features/2014-01-01-post-directors-note-jan-mar-2014.md
+      - features/2014-01-01-post-邱菽园与康有为的友谊与交往 — 再读邱菽园后人王清建先生珍藏历史文献.md
+      - features/2014-04-01-post-1980.md
+      - features/2014-04-01-post-A Journey into Memory.md
+      - features/2014-04-01-post-Director's Note Apr–Jun 2014.md
+      - features/2014-04-01-post-Folk Tales from Asia.md
+      - features/2014-04-01-post-My Memories of Reading.md
+      - features/2014-04-01-post-The Library of Memory .md
+      - >-
+        features/2014-04-01-post-first-words-women-poets-from-singapore.md
+      - >-
+        features/2014-04-01-post-going-places-the-place-poetry-of-singapore.md
+      - >-
+        features/2014-04-01-post-heat-and-rain-in-the-poetry-of-khoo-seok-wan.md
+      - >-
+        features/2014-04-01-post-suratman-markasan-malay-literature-and-social-memory.md
+      - >-
+        features/2014-04-01-post-சிங்கப்பூர் பெண் எழுத்தாளர்கள் – ஒரு
+        பார்வை.md
+      - >-
+        features/2014-07-01-post-A Quiet Revolution: Women and Work in
+        Industrialising Singapore.md
+      - features/2014-07-01-post-Dr Carl Schoonover on Being SURE.md
+      - >-
+        features/2014-07-01-post-Home and Away: Literary Reflections on
+        Nation and Identity.md
+      - >-
+        features/2014-07-01-post-Of Belacan and Curry Puffs: A Taste of
+        Singapore’s Past.md
+      - >-
+        features/2014-07-01-post-Parades, Flags and Rallies: Celebrating
+        Singapore’s National Day.md
+      - features/2014-07-01-post-So, What is a Singaporean?.md
+      - >-
+        features/2014-07-01-post-chinese-clan-associations-in-singapore-then-and-now.md
+      - features/2014-07-01-post-directors-note-jul-sep-2014.md
+      - features/2014-07-01-post-remembering-john-turnbull-thomson.md
+      - features/2014-07-01-post-standing-firm-stories-of-ubin.md
+      - features/2014-07-01-post-邱菽园与晚清政府四位福建籍高官的交往.md
+      - >-
+        features/2014-10-01-post-Aw Boon Haw and His Tiger Balm
+        Newspaper Advertisements 1916–1954.md
+      - >-
+        features/2014-10-01-post-Designed for Use: library@orchard Makes
+        a Comeback.md
+      - features/2014-10-01-post-Director's Note (Oct–Dec) 2014.md
+      - features/2014-10-01-post-Exploring My Own Backyard.md
+      - >-
+        features/2014-10-01-post-In Vogue: Singapore Fashion Trends from
+        1960s to 1990s.md
+      - features/2014-10-01-post-Over Orchard.md
+      - "features/2014-10-01-post-Planning a Nation: The Concept Plan.md"
+      - features/2014-10-01-post-Punkahs Everywhere.md
+      - >-
+        features/2014-10-01-post-Raffles Hotel & the Romance of
+        Travel.md
+      - >-
+        features/2014-10-01-post-Singapore Through the Eyes of 19th
+        century Westerners.md
+      - features/2014-10-01-post-lee-kip-lin-kampung-boy-conservateur.md
+      - features/2014-10-01-post-tales-of-the-dragons-tooth-strait.md
+      - >-
+        features/2014-10-01-post-writing-from-the-periphery-dorothy-cator-in-british-north-borneo.md
+      - features/2015-01-01-post-a-nation-of-islands.md
+      - >-
+        features/2015-01-01-post-darwin-in-cambridge-and-wallace-in-the-malay-archipelago.md
+      - features/2015-01-01-post-directors-note-jan-mar-2015.md
+      - >-
+        features/2015-01-01-post-geolgraphic-celebrating-maps-and-their-stories.md
+      - >-
+        features/2015-01-01-post-lay-of-the-land-the-national-archives-of-singapores-map-collection.md
+      - >-
+        features/2015-01-01-post-maps-as-statements-of-power-and-domination.md
+      - >-
+        features/2015-01-01-post-musicsg-a-repository-of-singapores-musical-heritage.md
+      - >-
+        features/2015-01-01-post-on-the-trail-of-francis-p-ng-author-of-fmsr.md
+      - >-
+        features/2015-01-01-post-points-of-departure-charting-memories-through-collective-imaginations.md
+      - >-
+        features/2015-01-01-post-the-national-librarys-rare-maps-collection.md
+      - features/2015-01-01-post-the-secret-maps-of-singapore.md
+      - features/2015-01-01-post-travelog-melayu.md
+      - >-
+        features/2015-04-01-post-a-moving-journey-film-archiving-and-curatorship.md
+      - >-
+        features/2015-04-01-post-culture-on-celluloid-alternative-films-in-singapore.md
+      - features/2015-04-01-post-directors-note-apr-jun-2015.md
+      - >-
+        features/2015-04-01-post-from-tents-to-picture-palaces-early-singapore-cinema.md
+      - features/2015-04-01-post-from-the-directors-chair.md
+      - features/2015-04-01-post-life-stories.md
+      - features/2015-04-01-post-my-leap-into-movies.md
+      - features/2015-04-01-post-my-movie-memorabilia.md
+      - >-
+        features/2015-04-01-post-searching-for-singapore-in-old-maps-and-sea-charts.md
+      - >-
+        features/2015-04-01-post-spies-virgins-pimps-and-hitmen-singapore-through-the-western-lens.md
+      - >-
+        features/2015-04-01-post-the-golden-age-of-malay-cinema-1947-1972.md
+      - >-
+        features/2015-04-01-post-the-revival-of-singapore-cinema-1995-2014.md
+      - >-
+        features/2015-07-01-post-Mohamed Eunos Abdullah: The Father of
+        Malay Journalism.md
+      - >-
+        features/2015-07-01-post-Poetry 101: It Does Not Have to
+        Rhyme.md
+      - features/2015-07-01-post-Seizing the Singapore Dream.md
+      - features/2015-07-01-post-Singapore's Sporting Greats.md
+      - >-
+        features/2015-07-01-post-The Art of Movement: Dance on the
+        Singapore Stage.md
+      - >-
+        features/2015-07-01-post-The French Can: Pineapples, Sardines
+        and the Gallic Connection.md
+      - >-
+        features/2015-07-01-post-all-creatures-great-and-small-singapores-first-zoos.md
+      - features/2015-07-01-post-directors-note-jul-sep-2015.md
+      - features/2015-07-01-post-sketches-of-singapore.md
+      - features/2015-07-01-post-stories-we-can-call-our-own.md
+      - >-
+        features/2015-07-01-post-the-music-madness-and-magic-of-dick-lee.md
+      - >-
+        features/2015-10-01-post-Chasing the Dragon: The Scourge of
+        Opium.md
+      - features/2015-10-01-post-Director's Note Oct Dec 2015.md
+      - >-
+        features/2015-10-01-post-Pay It Forward: The Tamil Digital
+        Heritage Project.md
+      - >-
+        features/2015-10-01-post-bugis-street-from-sleazy-to-sanitised.md
+      - features/2015-10-01-post-convict-labour-in-colonial-singapore.md
+      - >-
+        features/2015-10-01-post-desperate-housewives-the-lure-of-chap-ji-kee.md
+      - >-
+        features/2015-10-01-post-di-balik-pintu-seksualiti-di-dalam-sastera-melayu.md
+      - >-
+        features/2015-10-01-post-men-in-blue-a-history-of-the-singapore-police-force.md
+      - >-
+        features/2015-10-01-post-money-making-bodies-prostitution-in-colonial-southeast-asia.md
+      - >-
+        features/2015-10-01-post-nl-collections-singapore-botanic-gardens.md
+      - features/2015-10-01-post-the-circus-comes-to-town.md
+      - >-
+        features/2015-10-01-post-triads-coolies-and-pimps-chinatown-in-former-times.md
+      - >-
+        features/2015-10-01-post-wartime-propaganda-the-battle-for-minds-and-hearts.md
+      - features/2016-01-01-post-directors-note-jan-mar-2016.md
+      - features/2016-01-14-post-Malaya Through One Man’s Eyes.md
+      - features/2016-01-16-post-A Battle Captured in a Map.md
+      - features/2016-01-18-post-A Bilingual Dictionary by a Scotsman.md
+      - >-
+        features/2016-01-18-post-A Missionary’s Guide to Java and
+        Bali.md
+      - features/2016-01-18-post-A Tribute Fit For A Prince.md
+      - features/2016-01-18-post-An Expat’s Impressions of Singapore.md
+      - features/2016-01-18-post-Birds of the Malay Peninsula.md
+      - features/2016-01-18-post-Singapore’s First School.md
+      - features/2016-01-22-post-A Bona Fide History Book.md
+      - features/2016-01-22-post-A Poetic Travelogue in Tamil.md
+      - features/2016-01-22-post-A Portuguese Map of Sincapura.md
+      - features/2016-01-22-post-A War Crimes Trial Snapshot.md
+      - features/2016-01-22-post-Celebrating a Centenary.md
+      - features/2016-01-22-post-Legends of the Malay Kings.md
+      - features/2016-01-22-post-Logan’s Journal.md
+      - features/2016-01-22-post-Notes on a Little Island.md
+      - features/2016-01-22-post-Propaganda Paper.md
+      - features/2016-01-22-post-Raffles' Political Manoeuvres.md
+      - features/2016-01-22-post-Raffles’ Letters of Intrigue.md
+      - features/2016-01-22-post-The Book That Almost Didn’t Happen.md
+      - >-
+        features/2016-01-22-post-The Map That Opened Up Southeast
+        Asia.md
+      - features/2016-01-26-post-Crawfurd on Southeast Asia.md
+      - features/2016-01-26-post-The Rare Materials Collection.md
+      - features/2016-01-30-post-Stories from the Stacks.md
+      - features/2016-01-31-post-A Chinese Classic in Baba Malay.md
+      - features/2016-01-31-post-A Christian Sermon in Malay.md
+      - features/2016-01-31-post-A Colonial Cookbook.md
+      - features/2016-01-31-post-A Dictionary That Bridged Two Races .md
+      - features/2016-01-31-post-A Gift of Books.md
+      - features/2016-01-31-post-A Glimpse of 1930s Singapore .md
+      - features/2016-01-31-post-A Handy Cookbook .md
+      - features/2016-01-31-post-A Magazine for the Straits Chinese .md
+      - features/2016-01-31-post-A Qur'an Made in Singapore.md
+      - features/2016-01-31-post-About Babas and the Chinese.md
+      - features/2016-01-31-post-About Law and Order .md
+      - features/2016-01-31-post-Cartoons of Terror .md
+      - >-
+        features/2016-01-31-post-Early History of the Chinese Community
+        .md
+      - >-
+        features/2016-01-31-post-English Nursery Rhymes with a Malay
+        Spin .md
+      - features/2016-01-31-post-Hear Ye Hear Ye.md
+      - features/2016-01-31-post-In Aid of the Motherland.md
+      - features/2016-01-31-post-Indian Muslim Devotional Poems .md
+      - features/2016-01-31-post-Of Spells and Magic .md
+      - features/2016-01-31-post-Preserving Our Published Heritage.md
+      - features/2016-01-31-post-Singapore in Sepia.md
+      - >-
+        features/2016-01-31-post-Singapore’s Role in the Chinese
+        Revolution.md
+      - features/2016-01-31-post-Stories of Abdullah .md
+      - features/2016-01-31-post-The First Directory .md
+      - >-
+        features/2016-01-31-post-The First English and Malay
+        Dictionary.md
+      - features/2016-01-31-post-The First Newspaper.md
+      - features/2016-01-31-post-The First Public Library.md
+      - features/2016-01-31-post-The Gospel in Chinese .md
+      - features/2016-01-31-post-The Pulse of Malayan Literature .md
+      - features/2016-01-31-post-Through the Eye Glass .md
+      - features/2016-01-31-post-When Singapore Was Cinca Pula.md
+      - features/2016-04-01-post-directors-note-apr-jun-2016.md
+      - features/2016-04-02-post-old-world-amusement-parks.md
+      - >-
+        features/2016-04-03-post-gaston-melies-and-his-lost-films-of-singapore.md
+      - >-
+        features/2016-04-04-post-one-small-voice-the-monodrama-in-singapore-theatre.md
+      - features/2016-04-05-post-the-story-of-singapore-radio-1924-41.md
+      - features/2016-04-06-post-seni-persembahan-bangsawan.md
+      - features/2016-04-07-post-singapore-tv-from-local-to-global.md
+      - >-
+        features/2016-04-08-post-collecting-the-scattered-remains-the-raffles-library-and-museum.md
+      - features/2016-04-09-post-in-remembrance-of-reading.md
+      - features/2016-04-10-post-cover-to-cover.md
+      - features/2016-04-11-post-the-george-hicks-collection.md
+      - features/2016-04-12-post-the-bastin-collection-on-raffles.md
+      - features/2016-04-15-post-spinal-guide-the-anatomy-of-a-book.md
+      - features/2016-07-01-post-eu-tong-sen-and-his-business-empire.md
+      - features/2016-07-02-post-index-to-singapore-information.md
+      - features/2016-07-03-post-best-non-fiction-book-of-the-year.md
+      - >-
+        features/2016-07-04-post-angels-in-white-early-nursing-in-singapore.md
+      - >-
+        features/2016-07-05-post-the-fruit-of-his-labour-david-marshalls-old-apple-tree.md
+      - >-
+        features/2016-07-06-post-beach-road-camp-and-the-singapore-volunteer-corps.md
+      - >-
+        features/2016-07-07-post-singapores-first-japanese-resident-yamamoto-otokichi.md
+      - >-
+        features/2016-07-08-post-bygone-brands-five-names-that-are-no-more.md
+      - >-
+        features/2016-07-09-post-forgotten-foods-and-mealtime-memories.md
+      - features/2016-07-10-post-mem-dont-mess-with-the-cook.md
+      - features/2016-07-11-post-bahau-a-utopia-that-went-awry.md
+      - features/2016-07-12-post-my-grandmothers-story.md
+      - features/2016-07-20-post-directors-note-jul-sep-2016.md
+      - features/2016-09-29-post-law-of-the-land.md
+      - features/2016-10-01-post-baring-mind-and-soul---tan-swie-han.md
+      - features/2016-10-01-post-directors-note-oct-dec-2016.md
+      - features/2016-10-02-post--the-works-of-tan-swie-hian.md
+      - features/2016-10-03-post-Saving Pearl Bank Apartments.md
+      - >-
+        features/2016-10-04-post-as-good-as-gold-the-making-of-a-financial-centre.md
+      - >-
+        features/2016-10-05-post-soft-hands-but-steely-hearts-women-and-their-art.md
+      - features/2016-10-06-post-public-housing-private-lives.md
+      - features/2016-10-07-post-time-honoured-temple-design.md
+      - >-
+        features/2016-10-08-post-the-padang-centrepiece-of-colonial-design.md
+      - features/2016-10-12-post-the-tiger-within.md
+      - features/2016-10-15-post-s-r-nathan-50-stories-from-my-life.md
+      - >-
+        features/2016-10-28-post-building-faith-wartime-churches-in-syonan-to.md
+      - features/2017-01-01-post-directors-note-jan-mar-2017.md
+      - >-
+        features/2017-01-02-post-Beneath the Glitz and Glamour: The
+        Untold Story of the “Lancing” Girls.md
+      - features/2017-01-03-post-windows-into-history.md
+      - >-
+        features/2017-01-04-post-from-pauper-to-philanthropist-the-tan-tock-seng-story.md
+      - >-
+        features/2017-01-05-post-1960s-fashion-the-legacy-of-made-to-measure.md
+      - >-
+        features/2017-01-06-post-claudius-henry-thomsen-a-pioneer-in-malay-printing.md
+      - features/2017-01-07-post-from-britannia-to-the-nco-club.md
+      - >-
+        features/2017-01-08-post-ties-that-bind-the-story-of-two-brother-poets.md
+      - features/2017-01-09-post-the-sook-ching.md
+      - >-
+        features/2017-01-10-post-surviving-the-japanese-occupation-war-and-its-legacies.md
+      - features/2017-01-11-post-.md
+      - features/2017-01-12-post-party-time-at-the-raffles.md
+      - >-
+        features/2017-01-13-post-script-and-stage-theatre-in-singapore-from-the-50s-to-80s.md
+      - features/2017-04-01-post-directors-note-apr-jun-2017.md
+      - features/2017-04-02-post-chaplin-in-singapore.md
+      - features/2017-04-03-post-meeting-with-the-sea.md
+      - >-
+        features/2017-04-04-post-land-from-sand-singapores-reclamation-story.md
+      - >-
+        features/2017-04-05-post-chinese-puppet-theatre-rekindling-a-glorious-past.md
+      - >-
+        features/2017-04-06-post-through-time-and-tide-a-survey-of-singapores-reefs.md
+      - >-
+        features/2017-04-07-post-gedung-kuning-memories-of-a-malay-childhood.md
+      - >-
+        features/2017-04-08-post-the-doctor-turned-diplomat-john-crawfurds-writings-on-the-malay-peninsula.md
+      - features/2017-04-09-post-mangroves-a-tale-of-survival.md
+      - features/2017-04-10-post--1920.md
+      - >-
+        features/2017-04-11-post-voices-that-remain-oral-history-accounts-of-the-japanese-occupation.md
+      - features/2017-04-12-post-the-guitar-man-alex-abisheganaden.md
+      - features/2017-07-01-post-directors-note-jul-sep-2017.md
+      - features/2017-07-02-post-fake-news-since-when-was-it-news.md
+      - features/2017-07-03-post-a-history-of-singapore-horror.md
+      - features/2017-07-04-post-east-of-suez-the-mystique-of-travel.md
+      - features/2017-07-05-post-murder-most-malevolent.md
+      - features/2017-07-06-post-sci-fi-in-singapore-1970s-to-1990s.md
+      - >-
+        features/2017-07-06-post-swan-and-maclaren-pioneers-of-modernist-architecture.md
+      - >-
+        features/2017-07-08-post-alam-puisi-melayu-singapura-selepas-merdeka.md
+      - >-
+        features/2017-07-09-post-reel-life-singapore-the-films-of-clyde-e-elliott.md
+      - >-
+        features/2017-07-10-post-an-unusual-ambition-the-early-librarians.md
+      - features/2017-07-11-post-1936-1960--.md
+      - features/2017-07-12-post-heaven-earth-and-brotherhood.md
+      - features/2017-07-13-post-50-years-of-national-service.md
+      - >-
+        features/2017-07-14-post-tales-of-the-malay-world-manuscripts-and-early-books.md
+      - features/2017-10-01-post-directors-note-oct-dec-2017.md
+      - >-
+        features/2017-10-02-post-a-lifetime-of-labour-cantonese-amahs-in-singapore.md
+      - >-
+        features/2017-10-03-post-micro-india-the-chettiars-of-market-street.md
+      - >-
+        features/2017-10-04-post-scots-in-singapore-remembering-their-legacy.md
+      - >-
+        features/2017-10-05-post-the-road-to-nationalisation-public-buses-in-singapore.md
+      - features/2017-10-06-post-a-tale-of-two-churches.md
+      - >-
+        features/2017-10-06-post-nyonya-needlework-and-the-printed-page.md
+      - features/2017-10-07-post-early-malay-printing-in-singapore.md
+      - >-
+        features/2017-10-08-post-the-symbolism-behind-the-third-charter-of-justice.md
+      - features/2017-10-09-post-rambling-around-bras-basah.md
+      - features/2017-10-10-post-mr-songs-european-escapade.md
+      - >-
+        features/2017-10-10-post-traditional-chinese-medicine-in-singapore.md
+      - >-
+        features/2017-10-12-post-the-way-we-were-fashion-through-the-decades.md
+      - features/2018-01-01-post-directors-note-jan-mar-2018.md
+      - features/2018-01-02-post-manuscripts-from-our-global-past.md
+      - features/2018-01-03-post-the-stories-they-could-tell.md
+      - features/2018-01-04-post-women-on-a-mission.md
+      - features/2018-01-05-post-living-it-up-at-the-capitol.md
+      - features/2018-01-06-post-warm-tidings-in-a-cold-war.md
+      - features/2018-01-07-post-memory-laps-pool-time-recollections.md
+      - >-
+        features/2018-01-08-post-recipes-for-the-ideal-singaporean-female.md
+      - features/2018-01-09-post-stamping-history.md
+      - >-
+        features/2018-01-10-post-when-tigers-used-to-roam-nature-and-environment-in-singapore.md
+      - >-
+        features/2018-01-11-post-kelly-and-walsh-purveyor-publisher-and-printer.md
+      - >-
+        features/2018-01-12-post-may-singapore-flourish-revisiting-the-municipal-coat-of-arms.md
+      - features/2018-01-14-post-textbooks-we-remember.md
+      - >-
+        features/2018-04-30-post--classical-and-modern-chinese-education.md
+      - >-
+        features/2018-04-30-post-blooming-lies-the-vanda-miss-joaquim-story.md
+      - features/2018-04-30-post-chinese-renaissance-architecture.md
+      - features/2018-04-30-post-directors-note-apr-jun-2018.md
+      - >-
+        features/2018-04-30-post-first-issues-publications-from-the-past.md
+      - >-
+        features/2018-04-30-post-four-taps-the-story-of-singapore-water.md
+      - features/2018-04-30-post-hunting-down-the-malayan-mata-hari.md
+      - >-
+        features/2018-04-30-post-portraits-from-the-lee-brothers-studio.md
+      - features/2018-04-30-post-ramen-teh-food-war-and-memory.md
+      - features/2018-04-30-post-secret-war-experiments-in-singapore.md
+      - >-
+        features/2018-04-30-post-st-johns-island-from-gateway-to-getaway.md
+      - >-
+        features/2018-04-30-post-warrior-women-the-rani-of-jhansi-regiment.md
+      - features/2018-07-31-post-directors-note-jul-sep-2018.md
+      - features/2018-07-31-post-globetrotting-mums-then-and-now.md
+      - features/2018-07-31-post-going-shopping-in-the-60s.md
+      - >-
+        features/2018-07-31-post-in-search-of-the-seven-sisters-festival.md
+      - >-
+        features/2018-07-31-post-japan-in-southeast-asia-the-lim-shao-bin-collection.md
+      - features/2018-07-31-post-malay-seafarers-in-liverpool.md
+      - features/2018-07-31-post-our-home-sweet-home.md
+      - >-
+        features/2018-07-31-post-preserving-nanan-history-in-singapore.md
+      - >-
+        features/2018-07-31-post-revulsion-and-reverence-crocodiles-in-singapore.md
+      - features/2018-07-31-post-sporting-glory.md
+      - features/2018-07-31-post-the-aye-bke-and-cte-of-expressways.md
+      - >-
+        features/2018-07-31-post-the-stuff-of-dreams-singapores-early-print-ads.md
+      - features/2018-10-31-post-1920-1960.md
+      - features/2018-10-31-post-an-ode-to-two-women.md
+      - features/2018-10-31-post-archiving-the-singapore-wide-web.md
+      - >-
+        features/2018-10-31-post-blazing-a-trail-the-fight-for-womens-rights-in-singapore.md
+      - features/2018-10-31-post-directors-note-oct-dec-2018.md
+      - >-
+        features/2018-10-31-post-five-ashore-in-singapore-a-european-spy-film.md
+      - >-
+        features/2018-10-31-post-in-honour-of-war-heroes-the-legacy-of-colin-st-clair-oakes.md
+      - >-
+        features/2018-10-31-post-magic-or-medicine-malay-healing-practices.md
+      - features/2018-10-31-post-makan-places-and-coffee-socks.md
+      - >-
+        features/2018-10-31-post-papers-from-the-past-the-lee-family-archives.md
+      - >-
+        features/2018-10-31-post-the-german-medicine-deity-singapores-early-pharmacies.md
+      - features/2018-10-31-post-the-house-of-ripples.md
+      - features/2018-10-31-post-wheels-of-change-1896-1970.md
+      - >-
+        features/2019-01-31-post-bridging-history-passageways-across-water.md
+      - >-
+        features/2019-01-31-post-creative-collectives-abdul-ghani-abdul-hamid-and-his-contemporaries.md
+      - features/2019-01-31-post-directors-note-jan-mar-2019.md
+      - >-
+        features/2019-01-31-post-farquhar-and-raffles-the-untold-story.md
+      - >-
+        features/2019-01-31-post-iron-spearhead-the-story-of-a-communist-hitman.md
+      - >-
+        features/2019-01-31-post-life-lessons-in-a-chetty-melaka-kitchen.md
+      - >-
+        features/2019-01-31-post-looking-back-at-700-years-of-singapore.md
+      - >-
+        features/2019-01-31-post-mrs-dare-and-her-magnificent-driving-machine.md
+      - >-
+        features/2019-01-31-post-singapore-stopover-the-entertainment-circuit-1920-1940.md
+      - features/2019-01-31-post-singapores-chin-kang-heritage.md
+      - features/2019-01-31-post-the-modern-malayan-home.md
+      - features/2019-01-31-post-when-there-were-farms.md
+      - features/2019-04-01-post-directors-note-apr-jun-2019.md
+      - >-
+        features/2019-04-21-post-Encountering Evidence in the Archives
+        (In Many Ways and of Many Things).md
+      - features/2019-04-21-post-Stories of the Little People.md
+      - >-
+        features/2019-04-21-post-The Way We Were: The MITA Collection
+        1949–1969.md
+      - features/2019-04-21-post-When Disco Fever Raged.md
+      - >-
+        features/2019-04-21-post-building-history-from-stamford-road-to-canning-rise.md
+      - >-
+        features/2019-04-21-post-feeding-the-hungry-children-in-post-war-singapore.md
+      - features/2019-04-21-post-looking-back-looking-forward.md
+      - features/2019-04-21-post-making-history.md
+      - features/2019-04-21-post-researching-s-rajaratnam.md
+      - >-
+        features/2019-04-21-post-wartime-victuals-surviving-the-japanese-occupation.md
+      - features/2019-04-25-post-pioneers-of-the-archives.md
+      - >-
+        features/2019-05-21-post-the-unresolved-past-reflections-on-war-and-memory.md
+      - >-
+        features/2019-07-31-post-Doctor, Doctor!: Singapore’s Medical
+        Services.md
+      - >-
+        features/2019-07-31-post-Don’t Mention the Corpses: The Erasure
+        of Violence in Colonial Writings on Southeast Asia.md
+      - >-
+        features/2019-07-31-post-From the Archives: The Work of
+        Photographer KF Wong.md
+      - >-
+        features/2019-07-31-post-Georgette Chen: Artist
+        Extraordinaire.md
+      - >-
+        features/2019-07-31-post-Groundbreaking: The Origins of
+        Contemporary Art in Singapore.md
+      - features/2019-07-31-post-On Writers and Their Manuscripts.md
+      - "features/2019-07-31-post-Oriental Emporium: The End of an Era.md"
+      - >-
+        features/2019-07-31-post-The Story of Two Shipyards: Keppel &
+        Sembawang.md
+      - >-
+        features/2019-07-31-post-To Wreck or to Recreate: Giving New
+        Life to Singapore’s Built Heritage.md
+      - "features/2019-07-31-post-US Ex Ex: An Expedition for the Ages.md"
+      - features/2019-07-31-post-directors-note-jul-sep-2019.md
+      - >-
+        features/2019-07-31-post-“I Hasten to Beg Your Indulgence…”:
+        When Declassifying Can Also Mean Decoding.md
+      - >-
+        features/2019-10-30-post-Navaratri Golu: The Hindu Festival of
+        Dolls.md
+      - >-
+        features/2019-10-30-post-a-slice-of-singapore-in-the-biodiversity-heritage-library.md
+      - >-
+        features/2019-10-30-post-civilians-in-the-crossfire-the-malayan-emergency-crossfire.md
+      - >-
+        features/2019-10-30-post-daguerreotypes-to-dry-plates-photography-in-19th-century-singapore.md
+      - >-
+        features/2019-10-30-post-dieppe-barracks-our-little-kingdom-in-sembawang.md
+      - >-
+        features/2019-10-30-post-exploring-an-artists-mind-the-tan-swie-hian-collection.md
+      - >-
+        features/2019-10-30-post-fleeing-to-uncertainty-my-fathers-story.md
+      - features/2019-10-30-post-on-paper-singapore-before-1867.md
+      - features/2019-10-30-post-the-making-of-xin-ke-.md
+      - features/2019-10-31-post-directors-note-oct-dec-2019.md
+      - >-
+        features/2019-10-31-post-give-me-shelter-the-five-footway-story.md
+      - features/2020-01-21-post-Trial by Firing Squad.md
+      - features/2020-01-21-post-directors-note-jan-mar-2020.md
+      - features/2020-01-21-post-early-printing-in-indochina.md
+      - >-
+        features/2020-01-21-post-from-lat-pau-to-zaobao-a-history-of-chinese-newspapers.md
+      - >-
+        features/2020-01-21-post-head-count-the-history-of-census-taking-in-singapore.md
+      - features/2020-01-21-post-rediffusions-golden-years.md
+      - >-
+        features/2020-01-21-post-snakes-tigers-and-cannibals-ida-pfeiffers-travels-in-southeast-asia.md
+      - features/2020-01-21-post-the-istana-turns-150.md
+      - features/2020-01-21-post-the-theatres-of-bangsawan.md
+      - >-
+        features/2020-01-21-post-the-vietnam-war-through-singaporean-eyes.md
+      - features/2020-04-01-post-History Through Postcards.md
+      - features/2020-05-17-post-the-news-gallery-beyond-headlines.md
+      - features/2020-05-18-post-milestones-to-the-metric-system.md
+      - >-
+        features/2020-05-19-post-the-kingas-chinese-the-life-of-sir-song-ong-siang.md
+      - features/2020-05-20-post-witness-to-history.md
+      - features/2020-05-21-post-the-thespians-of-raf-seletar.md
+      - >-
+        features/2020-05-22-post-marjorie-doggett-photographer-of-singapore.md
+      - >-
+        features/2020-05-23-post-keong-saik-road-the-other-side-of-the-red-light-district.md
+      - features/2020-05-25-post-malay-seals-from-singapore.md
+      - >-
+        features/2020-05-26-post-leprosy-a-story-of-suffering-lessbrgreaterbut-also-of-hope.md
+      - >-
+        features/2020-05-27-post-mad-dogs-and-englishmen-rabies-in-19th-century-singapore.md
+      - features/2020-05-28-post-directors-note.md
+      - >-
+        features/2020-07-02-post-sang-nila-utama-separating-myth-from-reality.md
+      - features/2020-07-03-post-picturing-singapore-a-visual-history.md
+      - >-
+        features/2020-07-04-post-early-printing-in-myanmar-and-thailand.md
+      - >-
+        features/2020-07-05-post-the-chinese-spirit-medium-ancient-rituals-and-practices-in-a-modern-world.md
+      - >-
+        features/2020-07-06-post-from-sea-to-road-building-the-causeway.md
+      - >-
+        features/2020-07-07-post-cloudy-with-a-slight-chance-of-rainlessbrgreatersingapores-meteorological-service.md
+      - >-
+        features/2020-07-08-post-gh-cafe-a-dining-landmark-on-battery-road.md
+      - >-
+        features/2020-07-08-post-the-plague-fighter-dr-wu-lien-teh-and-his-work.md
+      - features/2020-07-09-post-cholera-in-19th-century-singapore.md
+      - >-
+        features/2020-07-10-post-stamford-raffles-and-the-two-french-naturalists.md
+      - features/2020-07-11-post-directors-note.md
+      - features/2020-10-01-post-book-review-the-year-1000.md
+      - >-
+        features/2020-10-02-post-an-archive-of-singapore-websites-preserving-the-digital.md
+      - features/2020-10-03-post-eacentaaaaecaa-aea-aeeaece.md
+      - features/2020-10-04-post-life-in-a-time-of-covid-19.md
+      - >-
+        features/2020-10-05-post-the-borobudur-mysterious-gold-plates-and-singing-maps.md
+      - >-
+        features/2020-10-06-post-karikal-mahal-the-lost-palace-of-a-fallen-cattle-king.md
+      - >-
+        features/2020-10-07-post-a-different-sky-the-other-side-of-the-looking-glass.md
+      - features/2020-10-08-post-planning-to-build-building-to-plan.md
+      - >-
+        features/2020-10-09-post-looking-back-at-queenstown-libraryas-50-years.md
+      - >-
+        features/2020-10-10-post-the-atigera-in-singapore-georges-clemenceauas-visit-in-1920.md
+      - >-
+        features/2020-10-11-post-at-gunpoint-wiping-out-illegal-firearms-in-singapore.md
+      - features/2020-10-12-post-the-sticky-problem-of-opium-revenue.md
+      - >-
+        features/2020-10-13-post-a-bite-of-history-betel-chewing-in-singapore.md
+      - features/2020-10-14-post-directors-note.md
+      - features/2021-01-01-post-asthma-amahs-and-amazing-food.md
+      - >-
+        features/2021-01-02-post-a-rugged-society-adventure-and-nation-building.md
+      - features/2021-01-03-post-becoming-modern-by-design.md
+      - features/2021-01-04-post-the-young-ones.md
+      - >-
+        features/2021-01-05-post-the-extraordinary-life-of-kunnuck-mistree.md
+      - features/2021-01-06-post-let-there-be-light.md
+      - features/2021-01-07-post-stories-from-the-stacks.md
+      - features/2021-01-08-post-remembering-robinsons.md
+      - features/2021-01-09-post-raffles-displaced.md
+      - >-
+        features/2021-01-10-post-st-andrewas-cathedral-and-the-mystery-of-madras-chunam.md
+      - features/2021-01-11-post-love-is-a-many-layered-thing.md
+      - features/2021-01-12-post-directors-note.md
+      - features/2021-01-21-post-when-women-were-commodities.md
+      - >-
+        features/2021-04-01-post-of-parks-trees-and-gardens-the-greening-of-singapore.md
+      - >-
+        features/2021-04-02-post-deforestation-in-19th-century-singapore.md
+      - >-
+        features/2021-04-03-post-from-gambier-to-pepper-plantation-agriculture-in-singapore.md
+      - features/2021-04-04-post-finding-magic-everywhere.md
+      - >-
+        features/2021-04-05-post-the-nature-of-poetry-an-odyssey-across-time.md
+      - >-
+        features/2021-04-06-post-man-vs-nature-speculative-fiction-and-the-environment.md
+      - >-
+        features/2021-04-07-post-ishak-ahmad-and-the-story-of-malayan-waters.md
+      - >-
+        features/2021-04-08-post-a-beastly-business-regulating-the-wildlife-trade-in-colonial-singapore.md
+      - features/2021-04-09-post-nature-conservation-in-singapore.md
+      - >-
+        features/2021-04-10-post-a-banquet-of-malayan-fruits-botanical-art-in-the-melaka-straits.md
+      - features/2021-04-11-post-singaporeas-environmental-histories.md
+      - features/2021-04-12-post-directors-note.md
+      - >-
+        features/2021-07-01-post-chinese-graphic-artists-in-pre-war-singapore.md
+      - features/2021-07-02-post-how-jurong-bird-park-was-hatched.md
+      - >-
+        features/2021-07-03-post-mansion-blocks-flats-and-tenements-the-advent-of-apartment-living.md
+      - >-
+        features/2021-07-04-post-urang-banjar-from-south-kalimantan-to-singapore.md
+      - >-
+        features/2021-07-05-post-the-evolution-of-straits-born-cuisine.md
+      - >-
+        features/2021-07-06-post-mulans-many-faces-the-different-versions-in-the-asian-childrens-literature-collection.md
+      - features/2021-07-07-post-early-printing-in-the-philippines.md
+      - >-
+        features/2021-07-08-post-malay-muslim-weddings-keeping-up-with-the-times.md
+      - features/2021-07-09-post-vaccinating-a-nation.md
+      - >-
+        features/2021-07-10-post-the-forgotten-murals-of-paya-lebar-airport.md
+      - features/2021-07-11-post-directors-note-jul-sep-2021.md
+      - >-
+        features/2021-09-01-post-unravelling-the-mystery-of-ubins-german-girl-shrine.md
+      - features/2021-10-13-post-textbox-test.md
+      - issues/2005-10-31-post-BiblioAsia Inaugural Issue.md
+      - issues/2005-11-30-post-BiblioAsia Nov 2005.md
+      - issues/2006-02-28-post-BiblioAsia Feb 2006.md
+      - issues/2006-04-30-post-BiblioAsia Apr 2006 .md
+      - issues/2006-07-31-post-BiblioAsia Jul 2006.md
+      - issues/2006-10-31-post-BiblioAsia Oct 2006.md
+      - issues/2007-01-01-post-BiblioAsia Jan 2007.md
+      - issues/2007-04-01-post-BiblioAsia Apr 2007.md
+      - issues/2007-07-01-post-BiblioAsia Jul 2007.md
+      - issues/2007-10-01-post-BiblioAsia Oct 2007.md
+      - issues/2008-01-01-post-BiblioAsia Jan 2008.md
+      - issues/2008-04-01-post-BiblioAsia Apr 2008.md
+      - issues/2008-07-01-post-BiblioAsia Jul 2008.md
+      - issues/2008-10-01-post-BiblioAsia Oct 2008.md
+      - issues/2009-01-01-post-BiblioAsia Jan 2009.md
+      - issues/2009-04-01-post-BiblioAsia Apr 2009.md
+      - issues/2009-07-01-post-BiblioAsia Jul 2009.md
+      - issues/2009-10-01-post-BiblioAsia Oct 2009.md
+      - issues/2010-01-01-post-BiblioAsia Jan 2010.md
+      - issues/2010-04-01-post-BiblioAsia Apr 2010.md
+      - issues/2010-07-01-post-BiblioAsia Jul 2010.md
+      - issues/2010-10-01-post-BiblioAsia Oct 2010.md
+      - issues/2011-01-16-post-BiblioAsia Jan 2011.md
+      - issues/2011-04-30-post-BiblioAsia Apr 2011.md
+      - issues/2011-07-01-post-BiblioAsia Jul 2011.md
+      - issues/2011-10-01-post-BiblioAsia Oct–Dec 2011.md
+      - issues/2012-03-31-post-BiblioAsia Mar 2012.md
+      - issues/2012-05-31-post-BiblioAsia May 2012.md
+      - issues/2012-07-01-post-BiblioAsia Jul 2012.md
+      - issues/2012-10-01-post-BiblioAsia Oct–Dec 2012.md
+      - issues/2013-01-01-post-BiblioAsia Jan–Mar 2013.md
+      - issues/2013-04-01-post-BiblioAsia Apr–Jun 2013.md
+      - issues/2013-07-01-post-BiblioAsia Jul–Sep 2013.md
+      - issues/2013-10-01-post-BiblioAsia Oct–Dec 2013.md
+      - issues/2014-01-01-post-biblioasia-jan-mar-2014.md
+      - issues/2014-04-01-post-biblioasia-apr-jun-2014.md
+      - issues/2014-07-01-post-BiblioAsia Jul–Sep 2014.md
+      - issues/2014-10-01-post-biblioasia-oct-dec-2014.md
+      - issues/2015-01-01-post-biblioasia-jan-mar-2015.md
+      - issues/2015-04-01-post-biblioasia-apr-jun-2015.md
+      - issues/2015-07-01-post-biblioasia-jul-sep-2015.md
+      - issues/2015-12-01-post-biblioasia-oct-dec-2015.md
+      - issues/2016-01-01-post-BiblioAsia Jan to Mar 2016.md
+      - issues/2016-04-01-post-biblioasia-apr-jun-2016.md
+      - issues/2016-07-01-post-biblioasia-jul-sep-2016.md
+      - issues/2016-10-01-post-biblioasia-oct-dec-2016.md
+      - issues/2017-01-01-post-biblioasia-jan-mar-2017.md
+      - issues/2017-04-01-post-biblioasia-apr-jun-2017.md
+      - issues/2017-07-01-post-biblioasia-jul-sep-2017.md
+      - issues/2017-10-01-post-biblioasia-oct-dec-2017.md
+      - issues/2018-01-01-post-biblioasia-jan-mar-2018.md
+      - issues/2018-04-01-post-biblioasia-apr-jun-2018.md
+      - issues/2018-07-01-post-biblioasia-jul-sep-2018.md
+      - issues/2018-10-01-post-biblioasia-oct-dec-2018.md
+      - issues/2019-01-01-post-biblioasia-jan-mar-2019.md
+      - issues/2019-04-01-post-biblioasia-apr-jun-2019.md
+      - issues/2019-07-01-post-biblioasia-jul-sep-2019.md
+      - issues/2019-10-01-post-biblioasia-oct-dec-2019.md
+      - issues/2020-01-01-post-biblioasia-jan-mar-2020.md
+      - issues/2020-01-03-post-past-issues.md
+      - issues/2020-05-14-post-biblioasia-apr-jun-2020.md
+      - issues/2020-07-01-post-biblioasia-jul-sep-2020.md
+      - issues/2020-10-01-post-biblioasia-oct-dec-2020.md
+      - issues/2021-01-01-post-biblioasia-jan-mar-2021.md
+      - issues/2021-04-01-post-biblioasia-apr-jun-2021.md
+      - issues/2021-07-12-post-biblioasia-jul-sep-2021.md
+      - issues/2021-10-01-post-biblioasia-oct-dec-2021.md
+      - issues/2022-01-17-post-BiblioAsia Jan–Mar 2022.md
+      - issues/2022-04-12-post-BiblioAsia Apr–Jun 2022.md
+      - issues/2022-07-08-post-BiblioAsia Jul–Sep 2022.md
+      - issues/2022-09-08-post-BiblioAsia Oct–Dec 2022.md
+      - issues/2022-11-25-post-BiblioAsia Jan–Mar 2023.md
+      - issues/2023-03-08-post-BiblioAsia Apr–Jun 2023.md
+      - issues/2023-05-19-post-BiblioAsia Jul–Sep 2023.md
+      - issues/2023-08-22-post-BiblioAsia Oct–Dec 2023.md
+      - issues/2023-11-03-post-BiblioAsia Jan–Mar 2024.md
