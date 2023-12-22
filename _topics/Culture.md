@@ -53,3 +53,11 @@ Chinese food in Singapore is a product of the country’s history and geography,
 
 <img src="/images/Vol%2018%20Issue%201/Chinese%20Food/chicken%20rice.png">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/betel-chewing/">A Bite of History: Betel Chewing in Singapore</a>
+
+_Fiona Lim_&nbsp;and&nbsp;_Geoffrey Pakiam_&nbsp;look at a time-honoured tradition that is no longer fashionable.
+
+<img src="/images/Vol-16-issue-3/betel/betelchewinginsingapore.jpg">
+<hr>
+
