@@ -76,7 +76,7 @@ _Shereen Tay_&nbsp;recounts the National Library’s efforts to archive Singapor
 
 _Lim Tin Seng_&nbsp;examines temperature and rainfall records in Singapore over the past 200 years.
 
-<img src="/images/Vol-16-issue-2/rain/PilotBalloon1.jpg" style="width:50%;">													
+<img src="/images/Vol-16-issue-2/rain/PilotBalloon1.jpg" style="width:70%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/metric/">Milestones to the Metric System</a>
