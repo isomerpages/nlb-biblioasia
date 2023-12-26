@@ -29,7 +29,7 @@ A grand piano that was to be the pride of Singapore failed to silence its critic
 Printing in Singapore dates back 200 years with the establishment of a press by Christian missionaries. Their efforts to spread the gospel also helped spread knowledge of the printing press here. *Gracie Lee*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/5new_biblioasia_oct_dec_2023_early_printing.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/">Revisiting the Mystery of the Missing Gold Coins</a><br>
-Two ancient gold coins, probably from Aceh, were discovered in Singapore in the middle of the 19th century. Unfortunately, they mysteriously disappeared a few decades later. *Foo Shu Tieng*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/6%20biblioasia%20oct–dec%202023%20gold%20coins.pdf)
+Two ancient gold coins, probably from Aceh, were discovered in Singapore in the middle of the 19th century. Unfortunately, they mysteriously disappeared a few decades later. *Foo Shu Tieng*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/6new_biblioasia_oct_dec_2023_gold_coins.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/malay-portuguese-pantuns/">Panton Malaijoe dan Portugees: A Rediscovered Manuscript Sheds Light on the Languages and Traditions of Colonial Batavia</a><br>
 A forgotten manuscript found in the archive of a Portuguese museum offers insights into the languages and traditions of a unique community in the Dutch East Indies. *Hugo C. Cardoso*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/7%20biblioasia%20oct–dec%202023%20malay%20pantun.pdf)
