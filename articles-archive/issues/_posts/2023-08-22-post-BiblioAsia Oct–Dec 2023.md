@@ -17,7 +17,7 @@ Before the 1970s, it was not compulsory to wear a crash helmet while riding a mo
 Getting people to wear crash helmets was an 
 uphill task. *Sharad Pandian*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/1new_biblioasia_oct_dec_2023_crash_helmets.pdf)
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/">Forgotten Heroes of the Malaya Cup (1921–1941)</a><br>
-Before the war, these footballers were household names in Singapore. *Nick Aplin*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/2%20biblioasia%20oct–dec%202023%20malaya%20cup.pdf)
+Before the war, these footballers were household names in Singapore. *Nick Aplin*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/2new_biblioasia_oct_dec_2023_malaya_cup.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/">Coach Choo Seng Quee: A Giant of Singapore Football</a><br>
 Four decades after his death, we remember Choo Seng Quee’s many contributions to the sport. *A. Thiyaga Raju and Gary Koh*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/3%20biblioasia%20oct–dec%202023%20choo%20seng%20quee.pdf)
