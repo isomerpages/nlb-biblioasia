@@ -38,6 +38,6 @@ A forgotten manuscript found in the archive of a Portuguese museum offers insigh
 The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government. *Jacqueline Lee*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/8new_biblioasia_oct_dec_2023_eat_more_wheat.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/">A Well-Choreographed Move: From Singapore Dance Theatre to Singapore Ballet</a><br>
-The company’s new name is less about breaking away from the past as it is about leaping confidently into the future. *Thammika Songkaeo*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/9%20biblioasia%20oct–dec%202023%20ballet.pdf)
+The company’s new name is less about breaking away from the past as it is about leaping confidently into the future. *Thammika Songkaeo*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/9new_biblioasia_oct_dec_2023_ballet.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/new-books-singapore-history/">New Books on Singapore History </a><br>New books available in the National Library’s collection. [(PDF)](/files/pdf/Vol%2019/Issue%203/10%20biblioasia%20oct–dec%202023%20new%20book.pdf)
