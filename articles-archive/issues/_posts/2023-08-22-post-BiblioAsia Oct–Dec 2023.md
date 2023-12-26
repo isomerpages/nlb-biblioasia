@@ -5,6 +5,7 @@ date: 2023-08-22
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 Before the 1970s, it was not compulsory to wear a crash helmet while riding a motorcycle or scooter in Singapore. But a campaign encouraging people to voluntarily wear helmets failed, and the government had to use legislation instead.
 
@@ -14,8 +15,7 @@ Before the 1970s, it was not compulsory to wear a crash helmet while riding a mo
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">The Bumpy Ride to Making Crash Helmets Mandatory</a><br>
 Getting people to wear crash helmets was an 
-uphill task. *Sharad Pandian*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/1%20biblioasia%20oct–dec%202023%20crash%20helmets.pdf)
-
+uphill task. *Sharad Pandian*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/1new_biblioasia_oct_dec_2023_crash_helmets.pdf)
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/">Forgotten Heroes of the Malaya Cup (1921–1941)</a><br>
 Before the war, these footballers were household names in Singapore. *Nick Aplin*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/2%20biblioasia%20oct–dec%202023%20malaya%20cup.pdf)
 
