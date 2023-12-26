@@ -96,6 +96,9 @@ Civil servants were warned that those who defied the hair rules would face disci
 
 Schools also held regular “hair inspections”, and boys with long hair who refused to comply with warnings were given haircuts immediately. The lucky ones got their hair professionally cut by a barber hired by the school, while the unfortunate ones received a haircut from a teacher or the principal.[^31] However, the savvy ones would find ways to avoid detection.&nbsp; “Every time before I go to school, I would bundle my \[long\] hair and clip \[it up\] so it looked short,” said Dennis Lim of The Straydogs.[^32]
 
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/hair_dos_and_don_ts.png)
+<div style="background-color: white;"> The sketches issued to vocational institutes and schools to serve as guidelines to staff and students on what was an acceptable hair length for boys. <i>Source: The Straits Times, 24 November 1971 © SPH Media Limited. Permission required for reproduction. </i></div>
+
 Predictably, not all students were fans of Operation Snip Snip. On 18 January 1972, a group of University of Singapore students staged a protest and told reporters that “the campaign against long hair is an infringement of our individual rights”. The students marched around campus carrying posters and placards, some of which read, “When your hair is long, your rights are short”.[^33]
 
 Regardless, supportive letters appeared in the local newspapers. “My thanks go to the government for its campaign against drug-taking and long hair,” wrote a letter writer to the _New Nation_. “If prompt action was not taken earlier to check hippism, drug abuse and long hair, I believe our country by this time would have seen teenagers in shabby clothes with long hair and perhaps with drugs in their pockets, walking all over the clean and green island of Singapore.”[^34]
