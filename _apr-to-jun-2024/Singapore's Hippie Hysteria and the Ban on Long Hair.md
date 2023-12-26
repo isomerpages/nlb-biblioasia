@@ -96,6 +96,9 @@ Civil servants were warned that those who defied the hair rules would face disci
 
 Schools also held regular “hair inspections”, and boys with long hair who refused to comply with warnings were given haircuts immediately. The lucky ones got their hair professionally cut by a barber hired by the school, while the unfortunate ones received a haircut from a teacher or the principal.[^31] However, the savvy ones would find ways to avoid detection.&nbsp; “Every time before I go to school, I would bundle my \[long\] hair and clip \[it up\] so it looked short,” said Dennis Lim of The Straydogs.[^32]
 
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/hair_dos_and_don_ts.png)
+<div style="background-color: white;"> The sketches issued to vocational institutes and schools to serve as guidelines to staff and students on what was an acceptable hair length for boys. <i>Source: The Straits Times, 24 November 1971 © SPH Media Limited. Permission required for reproduction. </i></div>
+
 Predictably, not all students were fans of Operation Snip Snip. On 18 January 1972, a group of University of Singapore students staged a protest and told reporters that “the campaign against long hair is an infringement of our individual rights”. The students marched around campus carrying posters and placards, some of which read, “When your hair is long, your rights are short”.[^33]
 
 Regardless, supportive letters appeared in the local newspapers. “My thanks go to the government for its campaign against drug-taking and long hair,” wrote a letter writer to the _New Nation_. “If prompt action was not taken earlier to check hippism, drug abuse and long hair, I believe our country by this time would have seen teenagers in shabby clothes with long hair and perhaps with drugs in their pockets, walking all over the clean and green island of Singapore.”[^34]
@@ -103,6 +106,9 @@ Regardless, supportive letters appeared in the local newspapers. “My thanks go
 #### **Other Consequences**
 
 The campaign against long hair led to unexpected consequences. In November 1972, some 200 apprentices from Sembawang Shipyard staged a sit-in during their lunch hour to protest fellow shipwright apprentice Koh Tze Jin’s hair-related seven-day suspension. Earlier that week, he had received a one-day suspension for refusing to get a haircut as he felt that his hair was well above his collar. In response, he shaved his head bald. Koh told reporters that he did so “to avoid any further arguments with the company”. Unfortunately, his bosses saw his shaved head as an act of protest and suspended him for seven days, igniting the sit-in.[^35]
+
+![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/shaved_hair.png)
+<div style="background-color: white;"> Koh Tze Jin was issued a seven-day suspension from work after his shaved head was seen as a protest against anti-long hair rules. His colleagues staged a sit-in to protest his suspension.<i>Source: The Straits Times, 16 November 1972 © SPH Media Limited. Permission required for reproduction. </i></div>
 
 It even led to a minor international incident with Malaysia in August 1970. Three Malaysian youths were caught up in an anti-long hair raid in Orchard Road and detained by Singapore police. They later accused the police of mistreating them and forcing them to get haircuts. Although the Criminal Investigation Department (CID) investigators who detained them stated in an internal report that the youths had agreed to the haircut, the damage was already done.[^36]
 

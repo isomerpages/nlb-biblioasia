@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-12/issue-3/oct-dec-2016/building-faith/
-      button: "Building Faith: Wartime Churches in Syonan-to"
+      url: /podcast/yip-yew-chong/
+      button: Artist Yip Yew Chong Paints His Story in History
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-12-issue-3/building-faith/Wartime Church in Syonan_Hero
-        Image.jpg
+      background: /images/Podcast/yew_chong_hero_banner.jpg
   - infopic:
       title: Singapore's Hippie Hysteria and the Ban on Long Hair
       subtitle: Governance
