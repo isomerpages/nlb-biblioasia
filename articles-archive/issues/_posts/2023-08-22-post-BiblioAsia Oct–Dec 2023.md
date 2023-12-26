@@ -32,7 +32,7 @@ Printing in Singapore dates back 200 years with the establishment of a press by 
 Two ancient gold coins, probably from Aceh, were discovered in Singapore in the middle of the 19th century. Unfortunately, they mysteriously disappeared a few decades later. *Foo Shu Tieng*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/6new_biblioasia_oct_dec_2023_gold_coins.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/malay-portuguese-pantuns/">Panton Malaijoe dan Portugees: A Rediscovered Manuscript Sheds Light on the Languages and Traditions of Colonial Batavia</a><br>
-A forgotten manuscript found in the archive of a Portuguese museum offers insights into the languages and traditions of a unique community in the Dutch East Indies. *Hugo C. Cardoso*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/7%20biblioasia%20oct–dec%202023%20malay%20pantun.pdf)
+A forgotten manuscript found in the archive of a Portuguese museum offers insights into the languages and traditions of a unique community in the Dutch East Indies. *Hugo C. Cardoso*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/7new_biblioasia_oct_dec_2023_malay_pantun.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/">Going Against the (Rice) Grain: The “Eat More Wheat” Campaign</a><br>
 The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government. *Jacqueline Lee*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/8%20biblioasia%20oct–dec%202023%20eat%20more%20wheat.pdf)
