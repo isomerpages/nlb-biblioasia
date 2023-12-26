@@ -20,7 +20,7 @@ uphill task. *Sharad Pandian*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/1new_bibli
 Before the war, these footballers were household names in Singapore. *Nick Aplin*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/2new_biblioasia_oct_dec_2023_malaya_cup.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/">Coach Choo Seng Quee: A Giant of Singapore Football</a><br>
-Four decades after his death, we remember Choo Seng Quee’s many contributions to the sport. *A. Thiyaga Raju and Gary Koh*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/3%20biblioasia%20oct–dec%202023%20choo%20seng%20quee.pdf)
+Four decades after his death, we remember Choo Seng Quee’s many contributions to the sport. *A. Thiyaga Raju and Gary Koh*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/3new_biblioasia_oct_dec_2023_choo_seng_quee.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/">A Grand Piano’s Chequered History: The Journey of a Chappell Grand Piano from the Victoria Memorial Hall to the National Library Building </a><br>
 A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it. *Bernard T.G. Tan*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/4%20biblioasia%20oct–dec%202023%20grand%20piano.pdf)
