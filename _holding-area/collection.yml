@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Photo Studios During the Japanese Occupation.md
       - Example Title.md
       - Testing My Skills.md
       - Test2.md
