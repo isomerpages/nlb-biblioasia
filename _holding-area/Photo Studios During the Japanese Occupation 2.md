@@ -28,12 +28,12 @@ By early October 1942, Daguerre Studio was listed in the _Syonan Times_ – the 
 
 Tai Tong Ah Studio (大东亚) fell into the second category of photo studios. It was established in October 1942 by the photographer Chew Kong (b. circa 1905, Taishan, China). Chew had already been contributing his photographs to various newspapers before the war. In the final days leading to the fall of Singapore, he tried to join the Singapore Overseas Chinese Anti-Japanese Volunteer Army (also known as Dalforce), which was hastily established in December 1941.&nbsp;
 
-Some months after surviving Operation Sook Ching,\[^9\] Chew joined an Indian-owned studio at 78 Bras Basah Road (most likely Ukken’s Studio).\[^10\] When the owner was conscripted to work in the Japanese army, he sold the business to Chew cheaply. Chew then renamed the studio Tai Tong Ah. Chew did not bother applying to be an officially appointed photographer because he already had sufficient work and did not believe that the appointment would help his business.\[^11\]
+Some months after surviving Operation Sook Ching,[^9] Chew joined an Indian-owned studio at 78 Bras Basah Road (most likely Ukken’s Studio).[^10] When the owner was conscripted to work in the Japanese army, he sold the business to Chew cheaply. Chew then renamed the studio Tai Tong Ah. Chew did not bother applying to be an officially appointed photographer because he already had sufficient work and did not believe that the appointment would help his business.[^11]
 
 **The Challenges of Working  
 During the Japanese Occupation**
 
-Photographers working during the Japanese Occupation faced a number of challenges. During this period, every single photograph printed by the photo studios had to be checked by the dreaded Kempeitai, the Japanese Imperial Army’s military police. The photos had to be brought to the YMCA building on Orchard Road for vetting. Images concerning the private affairs between a man and a woman were prohibited along with photographs of soldiers from other countries.\[^12\]
+Photographers working during the Japanese Occupation faced a number of challenges. During this period, every single photograph printed by the photo studios had to be checked by the dreaded Kempeitai, the Japanese Imperial Army’s military police. The photos had to be brought to the YMCA building on Orchard Road for vetting. Images concerning the private affairs between a man and a woman were prohibited along with photographs of soldiers from other countries.[^12]
 
 To avoid the hassle of being questioned by the Kempeitai, Chew would usually decline to develop the negatives that some random customers brought to the studio. “I would claim that I had run out of chemicals,” he said.\[^13\]
 
