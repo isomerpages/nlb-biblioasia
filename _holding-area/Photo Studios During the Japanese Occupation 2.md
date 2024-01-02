@@ -171,17 +171,18 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 [^34]: On 21 October 1943, freedom fighter Subhas Chandra Bose (1897–1945) announced the formation of the Provisional Government of Azad Hind (Free India) in Singapore. With the support of the Japanese imperialists, Bose proclaimed the start of war to liberate India from British colonialism. He raised funds for the movement and recruited people for its army, which made a push for India, via the Myanmar border, in April 1944.
 
-[^35]: David Ng Shin Chong, oral history interview, 5 June 1986, Reel/Disc 8 of 13, 82–85. Veteran journalist Han Tan Juan reported a different version of the incident. See 벴禱 Han Tan Juan, “Jingtou xia de lishi” 쓸庫苟돨저袈 \[History under the lens\], 젬북功괩 _Lianhe Wanbao_, 1 March 1986, 14. (From NewspaperSG)
+[^35]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f60839dc-115d-11e3-83d5-0050568939ad-OHC000670_008/web/html5/index.html), oral history interview, 5 June 1986, Reel/Disc 8 of 13, 82–85. Veteran journalist Han Tan Juan reported a different version of the incident. See 韩山元 Han Tan Juan, “Jingtou xia de lishi” 镜头下的历史 [History under the lens], 联合晚报 _Lianhe Wanbao_, 1 March 1986, 14. (From NewspaperSG)
 
-[^36]: Lim Ming Joon, oral history interview, 21 October 1983, Reel/Disc 6 of 7, 84, 88–89.
+[^36]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2548912a-1160-11e3-83d5-0050568939ad-OHC000333_006/web/html5/index.html), oral history interview, 21 October 1983, Reel/Disc 6 of 7, 84, 88–89.
 
-[^37]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 5 January 1984, transcript and MP3, Reel/Disc 7 of 8, National Archives of Singapore (accession no. 000089), 77–82.
+[^37]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 5 January 1984, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/df688028-115d-11e3-83d5-0050568939ad-OHC000089_007/web/html5/index.html) and MP3, Reel/Disc 7 of 8, National Archives of Singapore ([accession no. 000089](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000089)), 77–82.
 
-[^38]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 5 January 1984, transcript and MP3 audio, Reel/Disc 8 of 8, National Archives of Singapore (accession no. 000089), 90.
+[^38]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 5 January 1984, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2b317576-115f-11e3-83d5-0050568939ad-OHC000089_008/web/html5/index.html) and MP3 audio, Reel/Disc 8 of 8, National Archives of Singapore ([accession no. 000089](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000089)), 90.
 
-[^39]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, transcript and MP3 audio, Reel/Disc 9 of 13, National Archives of Singapore (accession no. 000670), 101–04.
+[^39]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/7eff0e44-115f-11e3-83d5-0050568939ad-OHC000670_009/web/html5/index.html) and MP3 audio, Reel/Disc 9 of 13, National Archives of Singapore ([accession no. 000670](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000670)), 101–04.
 
-[^40]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 11 June 1986, transcript and MP3 audio, Reel/Disc 10 of 13, National Archives of Singapore (accession no. 000670), 107.&nbsp;
+[^40]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 11 June 1986, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f60b512b-115d-11e3-83d5-0050568939ad-OHC000670_010/web/html5/index.html
+) and MP3 audio, Reel/Disc 10 of 13, National Archives of Singapore ([accession no. 000670](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000670)), 107.
 
 [^41]: Zhuang, “Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore,” 28.&nbsp;
 
