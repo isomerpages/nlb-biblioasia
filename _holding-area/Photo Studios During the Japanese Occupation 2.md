@@ -191,4 +191,4 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 [^43]: Chew Kong, oral history interview by Tan Beng Luan, 17 November 1983, MP3 audio, Reel/Disc 5 of 6, National Archives of Singapore (accession no. 000066), 15:57.
 
-\[^44\]: Personal correspondence with the daughters of Chu Sui Mang, 23 March 2022.
+[^44]: Personal correspondence with the daughters of Chu Sui Mang, 23 March 2022.
