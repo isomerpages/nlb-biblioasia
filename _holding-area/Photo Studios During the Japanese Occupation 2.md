@@ -96,7 +96,7 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 <img style="width: 100px; height: 100px;" src="/images/Authors/Yap\_Jo\_Lin.png">
 
-<b>**Zhuang Wubin**</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and is currently a National Library Digital Fellow. Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
+<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and is currently a National Library Digital Fellow. Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
 
   
 
