@@ -152,17 +152,17 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 [^24]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/424ac227-115f-11e3-83d5-0050568939ad-OHC000333_003/web/html5/index.html), oral history interview, 14 October 1983, Reel/Disc 3 of 7, 41–42.
 
-[^25]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 62, 64–65.
+[^25]: [Chew Kong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/273a65ab-115f-11e3-83d5-0050568939ad-OHC000056_005/web/html5/index.html), oral history interview, 27 October 1983, Reel/Disc 5 of 9, 62, 64–65.
 
-[^26]: Lim Ming Joon, oral history interview, 21 October 1983, Reel/Disc 6 of 7, 78–79.
+[^26]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2548912a-1160-11e3-83d5-0050568939ad-OHC000333_006/web/html5/index.html), oral history interview, 21 October 1983, Reel/Disc 6 of 7, 78–79.
 
-[^27]: It is possible that Chew Kong actually meant Syonan Chureito in Bukit Batok, an obelisk dedicated to the Japanese war dead, instead of Syonan Jinja. He could also be referring to both shrines as one. See Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 73.
+[^27]: It is possible that Chew Kong actually meant Syonan Chureito in Bukit Batok, an obelisk dedicated to the Japanese war dead, instead of Syonan Jinja. He could also be referring to both shrines as one. See [Chew Kong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/273a65ab-115f-11e3-83d5-0050568939ad-OHC000056_005/web/html5/index.html), oral history interview, 27 October 1983, Reel/Disc 5 of 9, 73.
 
-[^28]: For more information about Syonan Jinja and Chureito, see Kevin Blackburn and Edmund Lim, “The Japanese War Memorials of Singapore: Monuments of Commemoration and Symbols of Japanese Imperial Ideology,” _South East Asia Research_ 7, no. 3 (November 1999): 321–40. (From JSTOR via NLB’s eResources website)
+[^28]: For more information about Syonan Jinja and Chureito, see Kevin Blackburn and Edmund Lim, “The Japanese War Memorials of Singapore: Monuments of Commemoration and Symbols of Japanese Imperial Ideology,” _South East Asia Research_ 7, no. 3 (November 1999): 321–40. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^29]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, transcript and MP3 audio, Reel/Disc 8 of 9, National Archives of Singapore (accession no. 000056), 115–16.
+[^29]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/dfe0ab40-115d-11e3-83d5-0050568939ad-OHC000056_008/web/html5/index.html) and MP3 audio, Reel/Disc 8 of 9, National Archives of Singapore ([accession no. 000056](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000056)), 115–16.
 
-[^30]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, transcript and MP3 audio, Reel/Disc 7 of 9, National Archives of Singapore (accession no. 000056), 95–97.
+[^30]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/dedba697-115d-11e3-83d5-0050568939ad-OHC000056_007/web/html5/index.html) and MP3 audio, Reel/Disc 7 of 9, National Archives of Singapore ([accession no. 000056](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000056)), 95–97.
 
 [^31]: Lim Kay Tong and Yiu Tiong Chai, _Cathay: 55 Years of Cinema_ (Singapore: Landmark Books for Meileen Choo, 1991), 101. (From National Library, Singapore, call no. RSING 791.43095957 LIM)
 
