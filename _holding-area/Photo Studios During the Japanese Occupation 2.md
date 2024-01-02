@@ -123,13 +123,13 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 [^9]: Operation Sook Ching was conducted from 21 February to 4 March 1942 during which Chinese males between the ages of 18 and 50 were summoned to various mass screening centres and those suspected of being anti-Japanese were executed.
 
-[^10]: If Chew Kong’s memory of the address was accurate, the studio was owned by K.J. Ukken and was known as Ukken’s Studio. See “Page 3 Advertisements Column 2,” _Syonan Times_, 20 October 1942, 3. (From NewspaperSG)
+[^10]: If Chew Kong’s memory of the address was accurate, the studio was owned by K.J. Ukken and was known as Ukken’s Studio. See “[Page 3 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19421020-1.2.33.2),” _Syonan Times_, 20 October 1942, 3. (From NewspaperSG)
 
-[^11]: Chew Kong, oral history interview by Tan Beng Luan, 27 October 1983, transcript and MP3 audio, Reel/Disc 4 of 9, National Archives of Singapore (accession no. 000056), 59–61.
+[^11]: Chew Kong, oral history interview by Tan Beng Luan, 27 October 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/dfdffc55-115d-11e3-83d5-0050568939ad-OHC000056_004/web/html5/index.html) and MP3 audio, Reel/Disc 4 of 9, National Archives of Singapore ([accession no. 000056](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000056)), 59–61.
 
-[^12]: Chew Kong, oral history interview by Tan Beng Luan, 27 October 1983, transcript and MP3 audio, Reel/Disc 5 of 9, National Archives of Singapore (accession no. 000056), 62–64.
+[^12]: Chew Kong, oral history interview by Tan Beng Luan, 27 October 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/273a65ab-115f-11e3-83d5-0050568939ad-OHC000056_005/web/html5/index.html) and MP3 audio, Reel/Disc 5 of 9, National Archives of Singapore ([accession no. 000056](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000056)), 62–64.
 
-[^13]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 71–72.
+[^13]: [Chew Kong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/273a65ab-115f-11e3-83d5-0050568939ad-OHC000056_005/web/html5/index.html), oral history interview, 27 October 1983, Reel/Disc 5 of 9, 71–72.
 
 [^14]: Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, National Archives of Singapore (accession no. 000333), 50–51.
 
