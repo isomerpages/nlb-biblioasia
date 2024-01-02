@@ -144,50 +144,50 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 [^20]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 5 of 8, National Archives of Singapore (accession no. 000089), 53.
 
-\[^21\]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 6 of 8, National Archives of Singapore (accession no. 000089), 64, 66.
+[^21]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 6 of 8, National Archives of Singapore (accession no. 000089), 64, 66.
 
-\[^22\]: Mark R. Frost and Yu-Mei Balasingamchow, _Singapore: A Biography_ (Singapore: Editions Didier Millet and National Museum of Singapore, 2009), 301. (From National Library, Singapore, call no. RSING 959.57 FRO-\[HIS\])
+[^22]: Mark R. Frost and Yu-Mei Balasingamchow, _Singapore: A Biography_ (Singapore: Editions Didier Millet and National Museum of Singapore, 2009), 301. (From National Library, Singapore, call no. RSING 959.57 FRO-\[HIS\])
 
-\[^23\]: Lim Ming Joon, oral history interview, 14 October 1983, Reel/Disc 4 of 7, 43–44.
+[^23]: Lim Ming Joon, oral history interview, 14 October 1983, Reel/Disc 4 of 7, 43–44.
 
-\[^24\]: Lim Ming Joon, oral history interview, 14 October 1983, Reel/Disc 3 of 7, 41–42.
+[^24]: Lim Ming Joon, oral history interview, 14 October 1983, Reel/Disc 3 of 7, 41–42.
 
-\[^25\]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 62, 64–65.
+[^25]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 62, 64–65.
 
-\[^26\]: Lim Ming Joon, oral history interview, 21 October 1983, Reel/Disc 6 of 7, 78–79.
+[^26]: Lim Ming Joon, oral history interview, 21 October 1983, Reel/Disc 6 of 7, 78–79.
 
-\[^27\]: It is possible that Chew Kong actually meant Syonan Chureito in Bukit Batok, an obelisk dedicated to the Japanese war dead, instead of Syonan Jinja. He could also be referring to both shrines as one. See Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 73.
+[^27]: It is possible that Chew Kong actually meant Syonan Chureito in Bukit Batok, an obelisk dedicated to the Japanese war dead, instead of Syonan Jinja. He could also be referring to both shrines as one. See Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 73.
 
-\[^28\]: For more information about Syonan Jinja and Chureito, see Kevin Blackburn and Edmund Lim, “The Japanese War Memorials of Singapore: Monuments of Commemoration and Symbols of Japanese Imperial Ideology,” _South East Asia Research_ 7, no. 3 (November 1999): 321–40. (From JSTOR via NLB’s eResources website)
+[^28]: For more information about Syonan Jinja and Chureito, see Kevin Blackburn and Edmund Lim, “The Japanese War Memorials of Singapore: Monuments of Commemoration and Symbols of Japanese Imperial Ideology,” _South East Asia Research_ 7, no. 3 (November 1999): 321–40. (From JSTOR via NLB’s eResources website)
 
-\[^29\]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, transcript and MP3 audio, Reel/Disc 8 of 9, National Archives of Singapore (accession no. 000056), 115–16.
+[^29]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, transcript and MP3 audio, Reel/Disc 8 of 9, National Archives of Singapore (accession no. 000056), 115–16.
 
-\[^30\]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, transcript and MP3 audio, Reel/Disc 7 of 9, National Archives of Singapore (accession no. 000056), 95–97.
+[^30]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, transcript and MP3 audio, Reel/Disc 7 of 9, National Archives of Singapore (accession no. 000056), 95–97.
 
-\[^31\]: Lim Kay Tong and Yiu Tiong Chai, _Cathay: 55 Years of Cinema_ (Singapore: Landmark Books for Meileen Choo, 1991), 101. (From National Library, Singapore, call no. RSING 791.43095957 LIM)
+[^31]: Lim Kay Tong and Yiu Tiong Chai, _Cathay: 55 Years of Cinema_ (Singapore: Landmark Books for Meileen Choo, 1991), 101. (From National Library, Singapore, call no. RSING 791.43095957 LIM)
 
-\[^32\]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, transcript and MP3 audio, Reel/Disc 7 of 13, National Archives of Singapore (accession no. 000670), 76–78; David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, transcript and MP3 audio, Reel/Disc 8 of 13, National Archives of Singapore (accession no. 000670), 82.
+[^32]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, transcript and MP3 audio, Reel/Disc 7 of 13, National Archives of Singapore (accession no. 000670), 76–78; David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, transcript and MP3 audio, Reel/Disc 8 of 13, National Archives of Singapore (accession no. 000670), 82.
 
-\[^33\]: David Ng Shin Chong, oral history interview, 5 June 1986, Reel/Disc 8 of 13, 88–90.
+[^33]: David Ng Shin Chong, oral history interview, 5 June 1986, Reel/Disc 8 of 13, 88–90.
 
-\[^34\]: On 21 October 1943, freedom fighter Subhas Chandra Bose (1897–1945) announced the formation of the Provisional Government of Azad Hind (Free India) in Singapore. With the support of the Japanese imperialists, Bose proclaimed the start of war to liberate India from British colonialism. He raised funds for the movement and recruited people for its army, which made a push for India, via the Myanmar border, in April 1944.
+[^34]: On 21 October 1943, freedom fighter Subhas Chandra Bose (1897–1945) announced the formation of the Provisional Government of Azad Hind (Free India) in Singapore. With the support of the Japanese imperialists, Bose proclaimed the start of war to liberate India from British colonialism. He raised funds for the movement and recruited people for its army, which made a push for India, via the Myanmar border, in April 1944.
 
-\[^35\]: David Ng Shin Chong, oral history interview, 5 June 1986, Reel/Disc 8 of 13, 82–85. Veteran journalist Han Tan Juan reported a different version of the incident. See 벴禱 Han Tan Juan, “Jingtou xia de lishi” 쓸庫苟돨저袈 \[History under the lens\], 젬북功괩 _Lianhe Wanbao_, 1 March 1986, 14. (From NewspaperSG)
+[^35]: David Ng Shin Chong, oral history interview, 5 June 1986, Reel/Disc 8 of 13, 82–85. Veteran journalist Han Tan Juan reported a different version of the incident. See 벴禱 Han Tan Juan, “Jingtou xia de lishi” 쓸庫苟돨저袈 \[History under the lens\], 젬북功괩 _Lianhe Wanbao_, 1 March 1986, 14. (From NewspaperSG)
 
-\[^36\]: Lim Ming Joon, oral history interview, 21 October 1983, Reel/Disc 6 of 7, 84, 88–89.
+[^36]: Lim Ming Joon, oral history interview, 21 October 1983, Reel/Disc 6 of 7, 84, 88–89.
 
-\[^37\]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 5 January 1984, transcript and MP3, Reel/Disc 7 of 8, National Archives of Singapore (accession no. 000089), 77–82.
+[^37]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 5 January 1984, transcript and MP3, Reel/Disc 7 of 8, National Archives of Singapore (accession no. 000089), 77–82.
 
-\[^38\]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 5 January 1984, transcript and MP3 audio, Reel/Disc 8 of 8, National Archives of Singapore (accession no. 000089), 90.
+[^38]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 5 January 1984, transcript and MP3 audio, Reel/Disc 8 of 8, National Archives of Singapore (accession no. 000089), 90.
 
-\[^39\]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, transcript and MP3 audio, Reel/Disc 9 of 13, National Archives of Singapore (accession no. 000670), 101–04.
+[^39]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, transcript and MP3 audio, Reel/Disc 9 of 13, National Archives of Singapore (accession no. 000670), 101–04.
 
-\[^40\]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 11 June 1986, transcript and MP3 audio, Reel/Disc 10 of 13, National Archives of Singapore (accession no. 000670), 107.&nbsp;
+[^40]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 11 June 1986, transcript and MP3 audio, Reel/Disc 10 of 13, National Archives of Singapore (accession no. 000670), 107.&nbsp;
 
-\[^41\]: Zhuang, “Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore,” 28.&nbsp;
+[^41]: Zhuang, “Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore,” 28.&nbsp;
 
-\[^42\]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, transcript and MP3 audio, Reel/Disc 9 of 9, National Archives of Singapore (accession no. 000056), 129.
+[^42]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, transcript and MP3 audio, Reel/Disc 9 of 9, National Archives of Singapore (accession no. 000056), 129.
 
-\[^43\]: Chew Kong, oral history interview by Tan Beng Luan, 17 November 1983, MP3 audio, Reel/Disc 5 of 6, National Archives of Singapore (accession no. 000066), 15:57.
+[^43]: Chew Kong, oral history interview by Tan Beng Luan, 17 November 1983, MP3 audio, Reel/Disc 5 of 6, National Archives of Singapore (accession no. 000066), 15:57.
 
 \[^44\]: Personal correspondence with the daughters of Chu Sui Mang, 23 March 2022.
