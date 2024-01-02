@@ -14,7 +14,7 @@ The Japanese Occupation of Singapore that began in February 1942 and ended in Se
 
 The demand for certain photographic services resumed. Some of the prewar photo studios that had serviced people wanting to mark significant events in their lives were able to reopen their businesses. It was not business as usual though. The studios had a significant new clientele, which were the military personnel and residents connected to the Japanese administration. The studios also had to be creative, as items like film were in short supply.&nbsp;
 
-**Chinese Photo Studios**
+#### **Chinese Photo Studios**
 
 During the period when Singapore was known as Syonan-to (“Light of the South”; 昭南島), there were at least two types of Chinese-run photo studios. There were those established before the war, some of which resumed operations during the Occupation period. There were also studios that opened during the Occupation years.
 
@@ -30,7 +30,7 @@ Tai Tong Ah Studio (大东亚) fell into the second category of photo studios. I
 
 Some months after surviving Operation Sook Ching,[^9] Chew joined an Indian-owned studio at 78 Bras Basah Road (most likely Ukken’s Studio).[^10] When the owner was conscripted to work in the Japanese army, he sold the business to Chew cheaply. Chew then renamed the studio Tai Tong Ah. Chew did not bother applying to be an officially appointed photographer because he already had sufficient work and did not believe that the appointment would help his business.[^11]
 
-**The Challenges of Working During the Japanese Occupation**
+#### **The Challenges of Working During the Japanese Occupation**
 
 Photographers working during the Japanese Occupation faced a number of challenges. During this period, every single photograph printed by the photo studios had to be checked by the dreaded Kempeitai, the Japanese Imperial Army’s military police. The photos had to be brought to the YMCA building on Orchard Road for vetting. Images concerning the private affairs between a man and a woman were prohibited along with photographs of soldiers from other countries.[^12]
 
@@ -50,7 +50,7 @@ The whole ordeal of detention and interrogation lasted six months.[^20] After co
 
   
 
-**Customers of the Photo Studios**
+#### **Customers of the Photo Studios**
 
 The Japanese Occupation marked the “birth of the territory’s first bureaucratically obsessed state”, which “undertook the first ever registration of Singapore and Malaya’s entire population”.[^22]The officially appointed studios were tasked to produce these photographs.
 
@@ -64,7 +64,7 @@ Among the people whom Chew photographed were women who worked in the Japanese se
 
 During the Occupation, civilian residents in Singapore tried, as best as they could, to carry on with their lives. People continued to work, to live and to get married. As a result, there was still a modest demand for wedding portraits. The demand for photography was not entirely frivolous. Apart from marking the occasion, the photographs also served as visual evidence that a woman was married, thus conferring some protection from the Japanese. Chew recalled, in particular, doing the wedding portraits of Chinese women who married Japanese men. He remembered photographing around six such couples. “From the way they spoke Chinese, I think the women were from the educated class,” Chew said.[^30]
 
-**Working for the Japanese**
+#### **Working for the Japanese**
 
 Alongside the photo studios that managed to remain open, there were a few photographers who were asked to work for the Japanese. The photographer David Ng Shin Chong (b. 1919, Singapore) had apprenticed at Natural Studio before the war. During the Occupation period, he worked for the Japanese in Cathay Building, which housed the Japanese Military Propaganda Department, the Military Information Bureau and the Japanese Broadcasting Department.[^31] His job was to develop film while his colleague, Cai, did the printing and enlargement. For his work, Ng was paid a small salary, but more crucially, he was given rations – rice, sugar, salt and, once a year, some coarse fabric that he would use to make clothes.[^32] 
 
@@ -72,7 +72,7 @@ Most of the photographs that Ng and Cai produced were for propaganda purposes. N
 
 The other memorable incident was when Ng and Cai were tasked to take photographs as Japanese and Indian troops charged up a hill in Sembawang in a mock attack while carrying the flag of the Provisional Government of Azad Hind (Free India), the Japanese-supported effort to use Indian nationalists against the British in India.[^34] Shortly after, Ng’s photograph appeared on the cover of a local magazine, which reported that the forces had reached Burma and secured victory. Their photographs were also printed in a photo spread in the magazine. Relating the incident more than four decades later, Ng let out a curse and chuckled: “What a joke!”[^35]
 
-**Freedom At Last**
+#### **Freedom At Last**
 
 Towards the end of 1944, Lim Ming Joon heard rumours that the Allied forces were planning to retake Singapore. Worried that fierce fighting would break out, Lim relocated his family to Alor Gajah in Melaka where they lived there for eight months until the Japanese surrender. A friend helped to look after Daguerre Studio, though by then there were very few customers.[^36]
 
@@ -101,8 +101,7 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
   
 
   
-
-**Notes**
+#### **NOTES**
 
 [^1]: Zhuang Wubin, “[Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios),” _BiblioAsia_ 18, no. 2 (September 2022): 27–28.
 
