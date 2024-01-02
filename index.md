@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /podcast/yip-yew-chong/
-      button: Artist Yip Yew Chong Paints His Story in History
+      url: /vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/
+      button: " Going Against the (Rice) Grain: The “Eat More Wheat” Campaign"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Podcast/yew_chong_hero_banner.jpg
+      background: /images/Vol 19 Issue 3/Wheat/hero_img_wheat.jpg
   - infopic:
       title: Singapore's Hippie Hysteria and the Ban on Long Hair
       subtitle: Governance
