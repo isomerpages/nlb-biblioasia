@@ -105,11 +105,11 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 **Notes**
 
-\[^1\]: Zhuang Wubin, “Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore,” _BiblioAsia_ 18, no. 2 (September 2022): 27–28.
+[^1]: Zhuang Wubin, “Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore,” _BiblioAsia_ 18, no. 2 (September 2022): 27–28.
 
-\[^2\]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 2 of 8, National Archives of Singapore (accession no. 000089), 16.
+[^2]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 2 of 8, National Archives of Singapore (accession no. 000089), 16.
 
-\[^3\]: Lim Seng @ Lim Tow Tuan, oral history interview, 28 December 1983, transcript and MP3 audio, Reel/Disc 3 of 8, National Archives of Singapore (accession no. 000089), 17.
+[^3]: Lim Seng @ Lim Tow Tuan, oral history interview, 28 December 1983, transcript and MP3 audio, Reel/Disc 3 of 8, National Archives of Singapore (accession no. 000089), 17.
 
 \[^4\]: Lim Seng @ Lim Tow Tuan, oral history interview, 28 December 1983, Reel/Disc 3 of 8, 20–21.
 
