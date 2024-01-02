@@ -163,11 +163,11 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 [^30]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/dedba697-115d-11e3-83d5-0050568939ad-OHC000056_007/web/html5/index.html) and MP3 audio, Reel/Disc 7 of 9, National Archives of Singapore ([accession no. 000056](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000056)), 95–97.
 
-[^31]: Lim Kay Tong and Yiu Tiong Chai, _Cathay: 55 Years of Cinema_ (Singapore: Landmark Books for Meileen Choo, 1991), 101. (From National Library, Singapore, call no. RSING 791.43095957 LIM)
+[^31]: Lim Kay Tong and Yiu Tiong Chai, [_Cathay: 55 Years of Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=66095688) (Singapore: Landmark Books for Meileen Choo, 1991), 101. (From National Library, Singapore, call no. RSING 791.43095957 LIM)
 
-[^32]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, transcript and MP3 audio, Reel/Disc 7 of 13, National Archives of Singapore (accession no. 000670), 76–78; David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, transcript and MP3 audio, Reel/Disc 8 of 13, National Archives of Singapore (accession no. 000670), 82.
+[^32]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f9b85fc5-115d-11e3-83d5-0050568939ad-OHC000670_007/web/html5/index.html) and MP3 audio, Reel/Disc 7 of 13, National Archives of Singapore ([accession no. 000670](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000670)), 76–78; David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f60839dc-115d-11e3-83d5-0050568939ad-OHC000670_008/web/html5/index.html) and MP3 audio, Reel/Disc 8 of 13, National Archives of Singapore ([accession no. 000670](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000670)), 82.
 
-[^33]: David Ng Shin Chong, oral history interview, 5 June 1986, Reel/Disc 8 of 13, 88–90.
+[^33]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f60839dc-115d-11e3-83d5-0050568939ad-OHC000670_008/web/html5/index.html), oral history interview, 5 June 1986, Reel/Disc 8 of 13, 88–90.
 
 [^34]: On 21 October 1943, freedom fighter Subhas Chandra Bose (1897–1945) announced the formation of the Provisional Government of Azad Hind (Free India) in Singapore. With the support of the Japanese imperialists, Bose proclaimed the start of war to liberate India from British colonialism. He raised funds for the movement and recruited people for its army, which made a push for India, via the Myanmar border, in April 1944.
 
