@@ -184,10 +184,10 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 [^40]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 11 June 1986, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f60b512b-115d-11e3-83d5-0050568939ad-OHC000670_010/web/html5/index.html
 ) and MP3 audio, Reel/Disc 10 of 13, National Archives of Singapore ([accession no. 000670](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000670)), 107.
 
-[^41]: Zhuang, “Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore,” 28.&nbsp;
+[^41]: Zhuang, “[Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios),” 28.
 
-[^42]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, transcript and MP3 audio, Reel/Disc 9 of 9, National Archives of Singapore (accession no. 000056), 129.
+[^42]: Chew Kong, oral history interview by Tan Beng Luan, 3 November 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2621f919-115f-11e3-83d5-0050568939ad-OHC000056_009/web/html5/index.html) and MP3 audio, Reel/Disc 9 of 9, National Archives of Singapore ([accession no. 000056](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000056)), 129.
 
-[^43]: Chew Kong, oral history interview by Tan Beng Luan, 17 November 1983, MP3 audio, Reel/Disc 5 of 6, National Archives of Singapore (accession no. 000066), 15:57.
+[^43]: Chew Kong, oral history interview by Tan Beng Luan, 17 November 1983, MP3 audio, Reel/Disc 5 of 6, National Archives of Singapore ([accession no. 000066](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000066)), 15:57.
 
 [^44]: Personal correspondence with the daughters of Chu Sui Mang, 23 March 2022.
