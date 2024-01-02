@@ -104,7 +104,7 @@ According to David Ng, those who worked at Cathay Building were among the first 
 Ng used these items well. During the surrender ceremony held at the Municipal Building in Singapore on 12 September 1945, Ng went there with his camera. As he was not a press photographer, Ng could not enter the building so he took a few photographs from the Padang, with the intention of commemorating the occasion. Ng quickly realised there was a demand for these photographs and he made a small fortune from selling the images.[^39] Later that year, Ng rented a space in a shop beside Liberty Cabaret on North Bridge Road and established David Photo.[^40]
 
 ![](/images/Vol%2019%20Issue%204/Photo%20Studios/TheJapanesedelegation.jpg)
-<div style="background-color: white;">The Japanese delegation marching down St Andrew’s Road after signing the surrender documents at the Municipal Building on 12 September 1945. This is one of the photos that David Ng Shin Chong took from the Padang after the surrender ceremony. He later made money from selling the photos <i>David Ng Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">The Japanese delegation marching down St Andrew’s Road after signing the surrender documents at the Municipal Building on 12 September 1945. This is one of the photos that David Ng Shin Chong took from the Padang after the surrender ceremony. He later made money from selling the photos. <i>David Ng Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 After the war, Lim Ming Joon continued to run Daguerre Studio on Middle Road. Over time, he became known for taking commemorative group portraits for schools, guilds and unions. He remained active professionally until his death in 1991.[^41]
