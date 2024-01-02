@@ -111,15 +111,15 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 [^3]: Lim Seng @ Lim Tow Tuan, oral history interview, 28 December 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/df7ff58a-115d-11e3-83d5-0050568939ad-OHC000089_003/web/html5/index.html) and MP3 audio, Reel/Disc 3 of 8, National Archives of Singapore ([accession no. 000089](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000089)), 17.
 
-[^4]: Lim Seng @ Lim Tow Tuan, oral history interview, 28 December 1983, Reel/Disc 3 of 8, 20–21.
+[^4]: [Lim Seng @ Lim Tow Tuan](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/df7ff58a-115d-11e3-83d5-0050568939ad-OHC000089_003/web/html5/index.html), oral history interview, 28 December 1983, Reel/Disc 3 of 8, 20–21.
 
-[^5]: Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 3 of 7, National Archives of Singapore (accession no. 000333), 39–40.
+[^5]: Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/424ac227-115f-11e3-83d5-0050568939ad-OHC000333_003/web/html5/index.html) and MP3 audio, Reel/Disc 3 of 7, National Archives of Singapore ([accession no. 000333](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000333)), 39–40.
 
-[^6]: “Page 3 Advertisements Column 2,” _Syonan Times_, 6 October 1942, 3. (From NewspaperSG)
+[^6]: “[Page 3 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19421006-1.2.38.2),” _Syonan Times_, 6 October 1942, 3. (From NewspaperSG)
 
-[^7]: Lim Ming Joon, oral history interview, 14 October 1983, Reel/Disc 3 of 7, 40.&nbsp;
+[^7]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/424ac227-115f-11e3-83d5-0050568939ad-OHC000333_003/web/html5/index.html), oral history interview, 14 October 1983, Reel/Disc 3 of 7, 40.
 
-[^8]: Lim Ming Joon, oral history interview by Tan Beng Luan, 21 October 1983, transcript and MP3 audio, Reel/Disc 6 of 7, National Archives of Singapore (accession no. 000333), 75–76, 78.
+[^8]: Lim Ming Joon, oral history interview by Tan Beng Luan, 21 October 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2548912a-1160-11e3-83d5-0050568939ad-OHC000333_006/web/html5/index.html) and MP3 audio, Reel/Disc 6 of 7, National Archives of Singapore ([accession no. 000333](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000333)), 75–76, 78.
 
 [^9]: Operation Sook Ching was conducted from 21 February to 4 March 1942 during which Chinese males between the ages of 18 and 50 were summoned to various mass screening centres and those suspected of being anti-Japanese were executed.
 
