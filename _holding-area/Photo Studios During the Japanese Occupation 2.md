@@ -141,17 +141,17 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 [^18]: Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f35b2426-115d-11e3-83d5-0050568939ad-OHC000518_003/web/html5/index.html) and MP3 audio, Reel/Disc 3 of 4, National Archives of Singapore ([accession no. 000518](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000518)), 36–39.
 
-[^19]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f014b92d-115d-11e3-83d5-0050568939ad-OHC000518_001/web/html5/index.html) and MP3 audio, Reel/Disc 4 of 8, National Archives of Singapore (accession no. 000089), 27–35.&nbsp;
+[^19]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2ae7a608-115f-11e3-83d5-0050568939ad-OHC000089_004/web/html5/index.html) and MP3 audio, Reel/Disc 4 of 8, National Archives of Singapore ([accession no. 000089](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000089)), 27–35.&nbsp;
 
-[^20]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 5 of 8, National Archives of Singapore (accession no. 000089), 53.
+[^20]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/df67874e-115d-11e3-83d5-0050568939ad-OHC000089_005/web/html5/index.html) and MP3 audio, Reel/Disc 5 of 8, National Archives of Singapore ([accession no. 000089](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000089)), 53.
 
-[^21]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 6 of 8, National Archives of Singapore (accession no. 000089), 64, 66.
+[^21]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/df680501-115d-11e3-83d5-0050568939ad-OHC000089_006/web/html5/index.html) and MP3 audio, Reel/Disc 6 of 8, National Archives of Singapore ([accession no. 000089](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000089)), 64, 66.
 
-[^22]: Mark R. Frost and Yu-Mei Balasingamchow, _Singapore: A Biography_ (Singapore: Editions Didier Millet and National Museum of Singapore, 2009), 301. (From National Library, Singapore, call no. RSING 959.57 FRO-\[HIS\])
+[^22]: Mark R. Frost and Yu-Mei Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13229116) (Singapore: Editions Didier Millet and National Museum of Singapore, 2009), 301. (From National Library, Singapore, call no. RSING 959.57 FRO-\[HIS\])
 
-[^23]: Lim Ming Joon, oral history interview, 14 October 1983, Reel/Disc 4 of 7, 43–44.
+[^23]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e23cede5-115d-11e3-83d5-0050568939ad-OHC000333_004/web/html5/index.html), oral history interview, 14 October 1983, Reel/Disc 4 of 7, 43–44.
 
-[^24]: Lim Ming Joon, oral history interview, 14 October 1983, Reel/Disc 3 of 7, 41–42.
+[^24]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/424ac227-115f-11e3-83d5-0050568939ad-OHC000333_003/web/html5/index.html), oral history interview, 14 October 1983, Reel/Disc 3 of 7, 41–42.
 
 [^25]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 62, 64–65.
 
