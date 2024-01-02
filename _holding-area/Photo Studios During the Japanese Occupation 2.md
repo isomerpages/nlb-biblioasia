@@ -58,35 +58,35 @@ For Daguerre and Tai Tong Ah, service personnel and immigrants connected to the 
 
 A more common request was by military personnel who wanted group photographs at their barracks so that they could send the prints home.[^24] “Japanese and Taiwanese personnel were especially enamoured with taking portraits in military attire,” Chew of Tai Tong Ah recalled. Special occasions, including the birthday of a superior, also warranted photo-taking.[^25]
 
-Photographers were sometimes asked to accompany military personnel as they went sightseeing in their newly conquered territories. Lim Ming Joon was taken on a leisure trip to Johor Bahru by a Japanese officer. One of the stops was the royal palace, where Lim took a portrait of the officer for commemoration.\[^26\] In Singapore, Chew accompanied different groups of soldiers to Haw Par Villa and Syonan Jinja.\[^27\] Located near MacRitchie Reservoir, Syonan Jinja was a Shinto shrine that commemorated the conquest of Singapore and served to instil patriotism towards the Japanese emperor.\[^28\]
+Photographers were sometimes asked to accompany military personnel as they went sightseeing in their newly conquered territories. Lim Ming Joon was taken on a leisure trip to Johor Bahru by a Japanese officer. One of the stops was the royal palace, where Lim took a portrait of the officer for commemoration.[^26] In Singapore, Chew accompanied different groups of soldiers to Haw Par Villa and Syonan Jinja.[^27] Located near MacRitchie Reservoir, Syonan Jinja was a Shinto shrine that commemorated the conquest of Singapore and served to instil patriotism towards the Japanese emperor.[^28]
 
-Among the people whom Chew photographed were women who worked in the Japanese sex industry. Once, he was asked to go to a big house in Pasir Panjang which was full of women asking him for group photographs. Most of the women were Japanese, but Chew believed there might be Taiwanese and Korean women among them. “Some of them also enjoyed having their individual portraits taken,” he recalled.\[^29\]
+Among the people whom Chew photographed were women who worked in the Japanese sex industry. Once, he was asked to go to a big house in Pasir Panjang which was full of women asking him for group photographs. Most of the women were Japanese, but Chew believed there might be Taiwanese and Korean women among them. “Some of them also enjoyed having their individual portraits taken,” he recalled.[^29]
 
-During the Occupation, civilian residents in Singapore tried, as best as they could, to carry on with their lives. People continued to work, to live and to get married. As a result, there was still a modest demand for wedding portraits. The demand for photography was not entirely frivolous. Apart from marking the occasion, the photographs also served as visual evidence that a woman was married, thus conferring some protection from the Japanese. Chew recalled, in particular, doing the wedding portraits of Chinese women who married Japanese men. He remembered photographing around six such couples. “From the way they spoke Chinese, I think the women were from the educated class,” Chew said.\[^30\]
+During the Occupation, civilian residents in Singapore tried, as best as they could, to carry on with their lives. People continued to work, to live and to get married. As a result, there was still a modest demand for wedding portraits. The demand for photography was not entirely frivolous. Apart from marking the occasion, the photographs also served as visual evidence that a woman was married, thus conferring some protection from the Japanese. Chew recalled, in particular, doing the wedding portraits of Chinese women who married Japanese men. He remembered photographing around six such couples. “From the way they spoke Chinese, I think the women were from the educated class,” Chew said.[^30]
 
 **Working for the Japanese**
 
-Alongside the photo studios that managed to remain open, there were a few photographers who were asked to work for the Japanese. The photographer David Ng Shin Chong (b. 1919, Singapore) had apprenticed at Natural Studio before the war. During the Occupation period, he worked for the Japanese in Cathay Building, which housed the Japanese Military Propaganda Department, the Military Information Bureau and the Japanese Broadcasting Department.\[^31\] His job was to develop film while his colleague, Cai, did the printing and enlargement. For his work, Ng was paid a small salary, but more crucially, he was given rations – rice, sugar, salt and, once a year, some coarse fabric that he would use to make clothes.\[^32\] &nbsp;
+Alongside the photo studios that managed to remain open, there were a few photographers who were asked to work for the Japanese. The photographer David Ng Shin Chong (b. 1919, Singapore) had apprenticed at Natural Studio before the war. During the Occupation period, he worked for the Japanese in Cathay Building, which housed the Japanese Military Propaganda Department, the Military Information Bureau and the Japanese Broadcasting Department.[^31] His job was to develop film while his colleague, Cai, did the printing and enlargement. For his work, Ng was paid a small salary, but more crucially, he was given rations – rice, sugar, salt and, once a year, some coarse fabric that he would use to make clothes.[^32] 
 
-Most of the photographs that Ng and Cai produced were for propaganda purposes. Ng remembered two incidents vividly. The first was a set of photographs taken after the Japanese had shot down an American B-29. Back at Cathay Building, Ng developed the negatives and in the frames, he saw an American sergeant who was still alive but tied to a tree. There were also many images of the wreckage of the bomber. The resulting photographs were displayed at the Great World amusement park and subsequently sent to Japan.\[^33\]
+Most of the photographs that Ng and Cai produced were for propaganda purposes. Ng remembered two incidents vividly. The first was a set of photographs taken after the Japanese had shot down an American B-29. Back at Cathay Building, Ng developed the negatives and in the frames, he saw an American sergeant who was still alive but tied to a tree. There were also many images of the wreckage of the bomber. The resulting photographs were displayed at the Great World amusement park and subsequently sent to Japan.[^33]
 
-The other memorable incident was when Ng and Cai were tasked to take photographs as Japanese and Indian troops charged up a hill in Sembawang in a mock attack while carrying the flag of the Provisional Government of Azad Hind (Free India), the Japanese-supported effort to use Indian nationalists against the British in India.\[^34\] Shortly after, Ng’s photograph appeared on the cover of a local magazine, which reported that the forces had reached Burma and secured victory. Their photographs were also printed in a photo spread in the magazine. Relating the incident more than four decades later, Ng let out a curse and chuckled: “What a joke!”\[^35\]
+The other memorable incident was when Ng and Cai were tasked to take photographs as Japanese and Indian troops charged up a hill in Sembawang in a mock attack while carrying the flag of the Provisional Government of Azad Hind (Free India), the Japanese-supported effort to use Indian nationalists against the British in India.[^34] Shortly after, Ng’s photograph appeared on the cover of a local magazine, which reported that the forces had reached Burma and secured victory. Their photographs were also printed in a photo spread in the magazine. Relating the incident more than four decades later, Ng let out a curse and chuckled: “What a joke!”[^35]
 
 **Freedom At Last**
 
-Towards the end of 1944, Lim Ming Joon heard rumours that the Allied forces were planning to retake Singapore. Worried that fierce fighting would break out, Lim relocated his family to Alor Gajah in Melaka where they lived there for eight months until the Japanese surrender. A friend helped to look after Daguerre Studio, though by then there were very few customers.\[^36\]
+Towards the end of 1944, Lim Ming Joon heard rumours that the Allied forces were planning to retake Singapore. Worried that fierce fighting would break out, Lim relocated his family to Alor Gajah in Melaka where they lived there for eight months until the Japanese surrender. A friend helped to look after Daguerre Studio, though by then there were very few customers.[^36]
 
-His nephew, Lim Tow Tuan, who had spent much of the last months of the Occupation in Outram Prison, was released after Japan surrendered. One of the first things he did was to return to the studio to take a self-portrait to mark his suffering and eventual release.\[^37\] Lim also changed his name as he felt that his name had been sullied by the imprisonment. With people who knew him very well, he used Lim Tow Tuan. For mere acquaintances, he went by the name Lim Seng.\[^38\]
+His nephew, Lim Tow Tuan, who had spent much of the last months of the Occupation in Outram Prison, was released after Japan surrendered. One of the first things he did was to return to the studio to take a self-portrait to mark his suffering and eventual release.[^37] Lim also changed his name as he felt that his name had been sullied by the imprisonment. With people who knew him very well, he used Lim Tow Tuan. For mere acquaintances, he went by the name Lim Seng.[^38]
 
-According to David Ng, those who worked at Cathay Building were among the first to learn about the surrender. His Japanese superior conveyed the announcement and asked Ng what his plans were. When Ng told him that he would continue working as a photographer, his superior promptly gave Ng and Cai some of the photo supplies and equipment, including chemicals, paper, enlarger and a few cameras.&nbsp;
+According to David Ng, those who worked at Cathay Building were among the first to learn about the surrender. His Japanese superior conveyed the announcement and asked Ng what his plans were. When Ng told him that he would continue working as a photographer, his superior promptly gave Ng and Cai some of the photo supplies and equipment, including chemicals, paper, enlarger and a few cameras.
 
-Ng used these items well. During the surrender ceremony held at the Municipal Building in Singapore on 12 September 1945, Ng went there with his camera. As he was not a press photographer, Ng could not enter the building so he took a few photographs from the Padang, with the intention of commemorating the occasion. Ng quickly realised there was a demand for these photographs and he made a small fortune from selling the images.\[^39\] Later that year, Ng rented a space in a shop beside Liberty Cabaret on North Bridge Road and established David Photo.\[^40\]
+Ng used these items well. During the surrender ceremony held at the Municipal Building in Singapore on 12 September 1945, Ng went there with his camera. As he was not a press photographer, Ng could not enter the building so he took a few photographs from the Padang, with the intention of commemorating the occasion. Ng quickly realised there was a demand for these photographs and he made a small fortune from selling the images.[^39] Later that year, Ng rented a space in a shop beside Liberty Cabaret on North Bridge Road and established David Photo.[^40]
 
-After the war, Lim Ming Joon continued to run Daguerre Studio on Middle Road. Over time, he became known for taking commemorative group portraits for schools, guilds and unions. He remained active professionally until his death in 1991.\[^41\]
+After the war, Lim Ming Joon continued to run Daguerre Studio on Middle Road. Over time, he became known for taking commemorative group portraits for schools, guilds and unions. He remained active professionally until his death in 1991.[^41]
 
-As for Tai Tong Ah, Chew Kong closed it after the war as he preferred to work freelance, taking on photo commissions and contributing images to newspapers.\[^42\] However, in May 1949, he opened Kong Photo Studio on Geylang Road.\[^43\]
+As for Tai Tong Ah, Chew Kong closed it after the war as he preferred to work freelance, taking on photo commissions and contributing images to newspapers.[^42] However, in May 1949, he opened Kong Photo Studio on Geylang Road.[^43]
 
-With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee Fee. Today, his daughters continue to run Fee Fee House of Photographics on a modest scale in Hong Lim Complex.\[^44\] It is one of the few remaining photo businesses established locally prewar, which survived the Japanese Occupation and advances in photography.&nbsp;
+With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee Fee. Today, his daughters continue to run Fee Fee House of Photographics on a modest scale in Hong Lim Complex.[^44] It is one of the few remaining photo businesses established locally prewar, which survived the Japanese Occupation and advances in photography.&nbsp;
 
   
 
@@ -110,39 +110,39 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 [^3]: Lim Seng @ Lim Tow Tuan, oral history interview, 28 December 1983, transcript and MP3 audio, Reel/Disc 3 of 8, National Archives of Singapore (accession no. 000089), 17.
 
-\[^4\]: Lim Seng @ Lim Tow Tuan, oral history interview, 28 December 1983, Reel/Disc 3 of 8, 20–21.
+[^4]: Lim Seng @ Lim Tow Tuan, oral history interview, 28 December 1983, Reel/Disc 3 of 8, 20–21.
 
-\[^5\]: Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 3 of 7, National Archives of Singapore (accession no. 000333), 39–40.
+[^5]: Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 3 of 7, National Archives of Singapore (accession no. 000333), 39–40.
 
-\[^6\]: “Page 3 Advertisements Column 2,” _Syonan Times_, 6 October 1942, 3. (From NewspaperSG)
+[^6]: “Page 3 Advertisements Column 2,” _Syonan Times_, 6 October 1942, 3. (From NewspaperSG)
 
-\[^7\]: Lim Ming Joon, oral history interview, 14 October 1983, Reel/Disc 3 of 7, 40.&nbsp;
+[^7]: Lim Ming Joon, oral history interview, 14 October 1983, Reel/Disc 3 of 7, 40.&nbsp;
 
-\[^8\]: Lim Ming Joon, oral history interview by Tan Beng Luan, 21 October 1983, transcript and MP3 audio, Reel/Disc 6 of 7, National Archives of Singapore (accession no. 000333), 75–76, 78.
+[^8]: Lim Ming Joon, oral history interview by Tan Beng Luan, 21 October 1983, transcript and MP3 audio, Reel/Disc 6 of 7, National Archives of Singapore (accession no. 000333), 75–76, 78.
 
-\[^9\]: Operation Sook Ching was conducted from 21 February to 4 March 1942 during which Chinese males between the ages of 18 and 50 were summoned to various mass screening centres and those suspected of being anti-Japanese were executed.
+[^9]: Operation Sook Ching was conducted from 21 February to 4 March 1942 during which Chinese males between the ages of 18 and 50 were summoned to various mass screening centres and those suspected of being anti-Japanese were executed.
 
-\[^10\]: If Chew Kong’s memory of the address was accurate, the studio was owned by K.J. Ukken and was known as Ukken’s Studio. See “Page 3 Advertisements Column 2,” _Syonan Times_, 20 October 1942, 3. (From NewspaperSG)
+[^10]: If Chew Kong’s memory of the address was accurate, the studio was owned by K.J. Ukken and was known as Ukken’s Studio. See “Page 3 Advertisements Column 2,” _Syonan Times_, 20 October 1942, 3. (From NewspaperSG)
 
-\[^11\]: Chew Kong, oral history interview by Tan Beng Luan, 27 October 1983, transcript and MP3 audio, Reel/Disc 4 of 9, National Archives of Singapore (accession no. 000056), 59–61.
+[^11]: Chew Kong, oral history interview by Tan Beng Luan, 27 October 1983, transcript and MP3 audio, Reel/Disc 4 of 9, National Archives of Singapore (accession no. 000056), 59–61.
 
-\[^12\]: Chew Kong, oral history interview by Tan Beng Luan, 27 October 1983, transcript and MP3 audio, Reel/Disc 5 of 9, National Archives of Singapore (accession no. 000056), 62–64.
+[^12]: Chew Kong, oral history interview by Tan Beng Luan, 27 October 1983, transcript and MP3 audio, Reel/Disc 5 of 9, National Archives of Singapore (accession no. 000056), 62–64.
 
-\[^13\]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 71–72.
+[^13]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 71–72.
 
-\[^14\]: Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, National Archives of Singapore (accession no. 000333), 50–51.
+[^14]: Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, National Archives of Singapore (accession no. 000333), 50–51.
 
-\[^15\]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 67–70.
+[^15]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 67–70.
 
-\[^16\]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 67–70.
+[^16]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 67–70.
 
-\[^17\]: Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, transcript and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore (accession no. 000518), 8–11; Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, transcript and MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 000518), 18.
+[^17]: Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, transcript and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore (accession no. 000518), 8–11; Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, transcript and MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 000518), 18.
 
-\[^18\]: Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, transcript and MP3 audio, Reel/Disc 3 of 4, National Archives of Singapore (accession no. 000518), 36–39.
+[^18]: Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, transcript and MP3 audio, Reel/Disc 3 of 4, National Archives of Singapore (accession no. 000518), 36–39.
 
-\[^19\]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 4 of 8, National Archives of Singapore (accession no. 000089), 27–35.&nbsp;
+[^19]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 4 of 8, National Archives of Singapore (accession no. 000089), 27–35.&nbsp;
 
-\[^20\]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 5 of 8, National Archives of Singapore (accession no. 000089), 53.
+[^20]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 5 of 8, National Archives of Singapore (accession no. 000089), 53.
 
 \[^21\]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 6 of 8, National Archives of Singapore (accession no. 000089), 64, 66.
 
