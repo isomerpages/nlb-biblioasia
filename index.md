@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/
-      button: " Going Against the (Rice) Grain: The “Eat More Wheat” Campaign"
+      url: /vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/
+      button: "A Well-Choreographed Move: From Singapore Dance Theatre to Singapore
+        Ballet"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 3/Wheat/hero_img_wheat.jpg
+      background: /images/Vol 19 Issue 3/hero_img_ballet.jpg
   - infopic:
       title: Singapore's Hippie Hysteria and the Ban on Long Hair
       subtitle: Governance
