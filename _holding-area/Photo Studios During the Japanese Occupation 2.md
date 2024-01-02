@@ -85,11 +85,19 @@ Most of the photographs that Ng and Cai produced were for propaganda purposes. N
 
 The other memorable incident was when Ng and Cai were tasked to take photographs as Japanese and Indian troops charged up a hill in Sembawang in a mock attack while carrying the flag of the Provisional Government of Azad Hind (Free India), the Japanese-supported effort to use Indian nationalists against the British in India.[^34] Shortly after, Ng’s photograph appeared on the cover of a local magazine, which reported that the forces had reached Burma and secured victory. Their photographs were also printed in a photo spread in the magazine. Relating the incident more than four decades later, Ng let out a curse and chuckled: “What a joke!”[^35]
 
+![](/images/Vol%2019%20Issue%204/Photo%20Studios/KallangAirport1942.jpg)
+<div style="background-color: white;">Japanese soldiers in Kallang Airport, 1942. This is likely one of the photos taken by David Ng Shin Chong during the Japanese Occupation. <i>David Ng Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 #### **Freedom At Last**
 
 Towards the end of 1944, Lim Ming Joon heard rumours that the Allied forces were planning to retake Singapore. Worried that fierce fighting would break out, Lim relocated his family to Alor Gajah in Melaka where they lived there for eight months until the Japanese surrender. A friend helped to look after Daguerre Studio, though by then there were very few customers.[^36]
 
 His nephew, Lim Tow Tuan, who had spent much of the last months of the Occupation in Outram Prison, was released after Japan surrendered. One of the first things he did was to return to the studio to take a self-portrait to mark his suffering and eventual release.[^37] Lim also changed his name as he felt that his name had been sullied by the imprisonment. With people who knew him very well, he used Lim Tow Tuan. For mere acquaintances, he went by the name Lim Seng.[^38]
+
+![](/images/Vol%2019%20Issue%204/Photo%20Studios/LimTowTuan.jpg)
+<div style="background-color: white;">A few days after the Japanese surrendered on 15 August 1945, Lim Tow Tuan was released from Outram Prison. One of the first things he did after returning to Daguerre Studio was to take a self-portrait to mark his suffering and eventual release. This is possibly the photograph he took that day. <i>Lim Seng Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 According to David Ng, those who worked at Cathay Building were among the first to learn about the surrender. His Japanese superior conveyed the announcement and asked Ng what his plans were. When Ng told him that he would continue working as a photographer, his superior promptly gave Ng and Cai some of the photo supplies and equipment, including chemicals, paper, enlarger and a few cameras.
 
