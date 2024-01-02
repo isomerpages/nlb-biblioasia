@@ -131,17 +131,17 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 [^13]: [Chew Kong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/273a65ab-115f-11e3-83d5-0050568939ad-OHC000056_005/web/html5/index.html), oral history interview, 27 October 1983, Reel/Disc 5 of 9, 71–72.
 
-[^14]: Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, National Archives of Singapore (accession no. 000333), 50–51.
+[^14]: Lim Ming Joon, oral history interview by Tan Beng Luan, 14 October 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e23cede5-115d-11e3-83d5-0050568939ad-OHC000333_004/web/html5/index.html) and MP3 audio, Reel/Disc 4 of 7, National Archives of Singapore ([accession no. 000333](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000333)), 50–51.
 
-[^15]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 67–70.
+[^15]: [Chew Kong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/273a65ab-115f-11e3-83d5-0050568939ad-OHC000056_005/web/html5/index.html), oral history interview, 27 October 1983, Reel/Disc 5 of 9, 67–70.
 
-[^16]: Chew Kong, oral history interview, 27 October 1983, Reel/Disc 5 of 9, 67–70.
+[^16]: [Chew Kong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/273a65ab-115f-11e3-83d5-0050568939ad-OHC000056_005/web/html5/index.html), oral history interview, 27 October 1983, Reel/Disc 5 of 9, 67–70.
 
-[^17]: Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, transcript and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore (accession no. 000518), 8–11; Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, transcript and MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 000518), 18.
+[^17]: Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f014b92d-115d-11e3-83d5-0050568939ad-OHC000518_001/web/html5/index.html) and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore ([accession no. 000518](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000518)), 8–11; Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/7d358156-115f-11e3-83d5-0050568939ad-OHC000518_002/web/html5/index.html) and MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore ([accession no. 000518](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000518)), 18.
 
-[^18]: Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, transcript and MP3 audio, Reel/Disc 3 of 4, National Archives of Singapore (accession no. 000518), 36–39.
+[^18]: Chu Sui Mang, oral history interview by Tan Beng Luan, 30 December 1984, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f35b2426-115d-11e3-83d5-0050568939ad-OHC000518_003/web/html5/index.html) and MP3 audio, Reel/Disc 3 of 4, National Archives of Singapore ([accession no. 000518](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000518)), 36–39.
 
-[^19]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 4 of 8, National Archives of Singapore (accession no. 000089), 27–35.&nbsp;
+[^19]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f014b92d-115d-11e3-83d5-0050568939ad-OHC000518_001/web/html5/index.html) and MP3 audio, Reel/Disc 4 of 8, National Archives of Singapore (accession no. 000089), 27–35.&nbsp;
 
 [^20]: Lim Seng @ Lim Tow Tuan, oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 5 of 8, National Archives of Singapore (accession no. 000089), 53.
 
