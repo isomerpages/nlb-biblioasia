@@ -45,6 +45,13 @@ A little-known collection from 1818 to 1820 commissioned under the watch of two 
 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/history-through-postcards/"> History Through Postcards</a>
+<p>One postcard may not say much, but a collection of postcards can speak volumes.&nbsp;**Stephanie Pee**&nbsp;tells us what&nbsp;_Postcard Impressions of Early 20th-century Singapore_&nbsp;has to say.</p>
+
+<img src="/images/Vol-16-issue-1/Postcards/malay_village.png">
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/tan-swie-hian-coll/">Exploring an Artist’s Mind: The Tan Swie Hian Collection</a>
 What makes the difference between a good artist and a brilliant one?&nbsp;Goh Yu Mei&nbsp;delves into the books and artworks that have inspired a literary and artistic genius.
 <hr>
