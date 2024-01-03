@@ -2,6 +2,7 @@
 title: War
 permalink: /topics/war/
 description: ""
+variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/">Konfrontasi: Singapore’s Experience of an Undeclared War</a>
 Opposing the formation of the Federation of Malaysia, Indonesia waged a three-year armed conflict against Malaysia and Singapore.
@@ -79,4 +80,12 @@ The 1970s are often remembered as a time of rapid economic transformation and pr
 The Empress of Asia sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
 
 <img src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/viet-war-through-sg/">The Vietnam War Through Singaporean Eyes
+</a>
+
+Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived.&nbsp;**Shirlene Noordin**&nbsp;has the story.
+
+<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v5.JPG">
 <hr>
