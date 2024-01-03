@@ -2,6 +2,7 @@
 title: Medicine
 permalink: /topics/medicine/
 description: ""
+variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist/">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a>
 
@@ -33,6 +34,19 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 <img style="width:100%;" src="/images/Vol-16-issue-2/cholera/monstrous.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/leprosy">Leprosy: A Story of Suffering, But Also of Hope</a>
+People struck with leprosy were shunned and forced to live in isolation at the Trafalgar Home in Yio Chu Kang.&nbsp;Danielle Lim&nbsp;tracks the history of this disfiguring disease in Singapore.
+
+<img style="width:100%;" src="/images/Vol-16-issue-1/leprosy/leprosy-title.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/medical-services">Doctor, Doctor!: Singapore’s Medical Services</a>
+Milestones in Singapore’s medical scene – among other subjects – are captured through fascinating oral history narratives in a new book written by&nbsp;Cheong Suk-Wai&nbsp;and published by the National Archives of Singapore.
+
+<img style="width:100%;" src="/images/Vol-15-issue-2/singapore-medical-services/Doctor1.JPG">
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/magic-or-med-m-heal/">Magic or Medicine? Malay Healing Practices</a>
 <p>Is traditional Malay medicine based on superstition and folklore or grounded in scientific evidence? Nadirah Norruddin uncovers the varying perceptions of Malay medicine in colonial Malaya.</p> 
 
@@ -41,20 +55,17 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/angels-in-white">Angels in White: Early Nursing in Singapore</a>
 <p>In the 1820s, some “nurses” in Singapore were actually chained convicts. Pattarin Kusolpalin chronicles the history of nursing from 1819 until Independence.</p> 
+
+<img style="width:100%;" src="/images/Vol-12-issue-2/angels-in-white/06-angelsinwhite.jpg">
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/overseas-chinese">Singapore Men of Science and Medicine in China (1911–1949)</a>
 <p>Wayne Soon sheds light on the enduring and underrated legacy of Overseas Chinese doctors such as Lim Boon Keng and Robert Lim on China’s medical institutions.</p> 
-<hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/medical-services">Doctor, Doctor!: Singapore’s Medical Services</a>
-Milestones in Singapore’s medical scene – among other subjects – are captured through fascinating oral history narratives in a new book written by&nbsp;Cheong Suk-Wai&nbsp;and published by the National Archives of Singapore.
-<hr>
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/leprosy">Leprosy: A Story of Suffering, But Also of Hope</a>
-People struck with leprosy were shunned and forced to live in isolation at the Trafalgar Home in Yio Chu Kang.&nbsp;Danielle Lim&nbsp;tracks the history of this disfiguring disease in Singapore.
-
-
-
-
+<img style="width:100%;" src="/images/vol-9-issue-4/sgmanofscienceandmedicine/group_of_chinese.jpg">
 
 <hr>
+
+
+
