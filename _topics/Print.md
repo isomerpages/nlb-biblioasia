@@ -41,6 +41,12 @@ An innovation patented in 1920 produced paper that was more durable, had greater
 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/the-news-gallery/"> The News Gallery: Beyond Headlines</a>
+<p>There is more to news than meets the eye.&nbsp;**Mazelan Anuar**&nbsp;and&nbsp;**Faridah Ibrahim**&nbsp;give us the scoop on the National Library’s latest exhibition.</p>
+
+<img src="/images/Vol-16-issue-1/News/behind_every_story.jpg">
+
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao/">From Lat Pau to Zaobao: A History of Chinese Newspapers</a>
 Chinese newspapers have been published in Singapore since the 19th century.&nbsp;**Lee Meiyu**&nbsp;looks at how they have evolved and examines their impact on the Chinese community here.
