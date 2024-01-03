@@ -24,6 +24,9 @@ During the period when Singapore was known as Syonan-to (“Light of the South�
 
 Daguerre Studio fell into the first category. It was set up in 1931 by Lim Ming Joon (circa 1904–91, b. Hainan). Two Japanese photographers had helped him pick up the trade and establish his business. In the latter half of 1941, his nephew Lim Tow Tuan (b. 1916, Hainan) joined him as an unpaid apprentice.[^1]
 
+![](/images/Vol%2019%20Issue%204/Photo%20Studios/MingJoon.jpg)
+<div style="background-color: white;">Lim Ming Joon of Daguerre Studio. <i>Image reproduced from To Chee Eng, “Ming Joon Is Still Clicking Away at 85,” Weekend East, 19 June 1987, 3. (From NewspaperSG).</i></div>
+
 The Japanese invasion began in December 1941 and Daguerre Studio on Middle Road was among the many buildings in the city that suffered damage from&nbsp; air raids. A bomb fell behind the studio, shattering the glass panels on the roof.[^2] “The Japanese soldiers had already reached Johor Bahru. \[We\] decided to move all our photographic equipment to my uncle’s wooden hut at the 6th milestone of Hougang, in a village of coconut trees. \[We\] had bought some rice and food, which we also moved there,” recalled Lim Tow Tuan. “I stayed with my uncle in the village.”[^3]
 
 A few weeks after the Japanese had established control over Singapore, Lim Ming Joon and his nephew decided to reopen Daguerre. They walked from Hougang to Middle Road and found that their studio had not been badly damaged, although the shattered glass panels meant that it was not possible to operate on rainy days. Eventually, they began to get a few customers as people trickled in to take identification photographs.[^4] One of the Japanese photographers, who had previously helped Lim, returned to Singapore and helped Lim apply to the Labour Control Office for Daguerre Studio to be one of the officially appointed photographers on the island.[^5] That provided a boost to his business.
