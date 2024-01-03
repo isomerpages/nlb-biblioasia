@@ -21,5 +21,5 @@ The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/theatres-of-bangsw/"> The Theatres of Bangsawan</a><br>
 In the days before cinema,&nbsp;_bangsawan_&nbsp;performances entertained the masses.&nbsp;<b>Tan Chui Hua</b>&nbsp;looks at the rise and fall of&nbsp;_bangsawan_&nbsp;venues in Singapore.
 
-<img src="/images/Vol%2019%20Issue%203/image1.png">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/Royal.JPG">
 <hr>
