@@ -3,6 +3,7 @@ title: Film and Photography
 permalink: /topics/film-photography/
 description: ""
 third_nav_title: Arts
+variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/restoring-asian-films/">Restoring Classic Films from Asia</a>
 Besides restoring made-in-Singapore films, the Asian Film Archive is also involved in the preservation of other seminal Asian works.
@@ -38,4 +39,10 @@ Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of 
 Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan.
 
 <img src="/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png">  
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett/">Marjorie Doggett: Photographer of Singapore</a>
+**Edward Stokes**&nbsp;reflects on&nbsp;_Characters of Light_&nbsp;by Marjorie Doggett, first published in 1957, and on his own recent book,&nbsp;_Marjorie Doggett’s Singapore_, which portrays her life and work here.
+
+<img src="/images/Vol-16-issue-1/marjorie/Majorie-title.png">  
 <hr>
