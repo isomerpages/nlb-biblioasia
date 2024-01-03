@@ -50,5 +50,5 @@ The development of the arts in Singapore is unimaginable without this arts centr
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/thespians/"> The Thespians of RAF Seletar</a><br>
 The RAF Seletar Theatre Club was a highly regarded amateur drama group in Singapore for more than 20 years.&nbsp;**Suriati Sani**&nbsp;provides a snapshot of the club’s history.
 
-<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/Royal.JPG![](/images/Vol-16-issue-1/Seletar/Seletar-title.jpg)">
+<img src="/images/Vol-16-issue-1/Seletar/Seletar-title.jpg">
 <hr>
