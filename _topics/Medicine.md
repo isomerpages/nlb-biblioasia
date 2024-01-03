@@ -25,7 +25,15 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
-<p>The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.</p> 
+<p>The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.</p>
+
+<img style="width:100%;" src="/images/Vol-16-issue-2/plague/EpidemicinManchuria.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/mad-dogs/">Mad Dogs and Englishmen: Rabies in 19th-century Singapore</a>
+<p> Fears of the deadly disease here led to more than 22,000 dogs being killed during the 1890s.&nbsp;**Timothy P. Barnard**&nbsp;sniffs out the details of this long-forgotten episode.</p> 
+
+<img style="width:100%;" src="/images/Vol-16-issue-1/mad-dogs/lady-with-dog.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/cholera">Cholera in 19th-century Singapore</a>
@@ -33,6 +41,7 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 
 <img style="width:100%;" src="/images/Vol-16-issue-2/cholera/monstrous.jpg">
 <hr>
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/leprosy">Leprosy: A Story of Suffering, But Also of Hope</a>
 People struck with leprosy were shunned and forced to live in isolation at the Trafalgar Home in Yio Chu Kang.&nbsp;Danielle Lim&nbsp;tracks the history of this disfiguring disease in Singapore.
