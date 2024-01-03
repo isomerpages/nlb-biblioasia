@@ -18,6 +18,12 @@ The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore
 <img src="/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/thespians/"> The Thespians of RAF Seletar</a><br>
+The RAF Seletar Theatre Club was a highly regarded amateur drama group in Singapore for more than 20 years.&nbsp;**Suriati Sani**&nbsp;provides a snapshot of the club’s history.
+
+<img src="/images/Vol-16-issue-1/Seletar/Seletar-title.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/theatres-of-bangsw/"> The Theatres of Bangsawan</a><br>
 In the days before cinema,&nbsp;_bangsawan_&nbsp;performances entertained the masses.&nbsp;<b>Tan Chui Hua</b>&nbsp;looks at the rise and fall of&nbsp;_bangsawan_&nbsp;venues in Singapore.
 
