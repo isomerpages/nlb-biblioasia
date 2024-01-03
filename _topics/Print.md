@@ -28,6 +28,12 @@ An innovation patented in 1920 produced paper that was more durable, had greater
 <img src="/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/covers_editted.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals"> Malay Seals from Singapore</a>
+<p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
+<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg">
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao/">From Lat Pau to Zaobao: A History of Chinese Newspapers</a>
 Chinese newspapers have been published in Singapore since the 19th century.&nbsp;**Lee Meiyu**&nbsp;looks at how they have evolved and examines their impact on the Chinese community here.
 
