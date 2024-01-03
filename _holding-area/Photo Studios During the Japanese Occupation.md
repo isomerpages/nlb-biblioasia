@@ -15,6 +15,9 @@ The Japanese Occupation of Singapore that began in February 1942 and ended in Se
 
 The demand for certain photographic services resumed. Some of the prewar photo studios that had serviced people wanting to mark significant events in their lives were able to reopen their businesses. It was not business as usual though. The studios had a significant new clientele, which were the military personnel and residents connected to the Japanese administration. The studios also had to be creative, as items like film were in short supply.&nbsp;
 
+![](/images/Vol%2019%20Issue%204/Photo%20Studios/NorthBridge.jpg)
+<div style="background-color: white;">After the Japanese surrender, David Ng Shin Chongrented a small space in a shop on North Bridge Road and established David Photo, 1945. <i>David Ng Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Chinese Photo Studios**
 
 During the period when Singapore was known as Syonan-to (“Light of the South”; 昭南島), there were at least two types of Chinese-run photo studios. There were those established before the war, some of which resumed operations during the Occupation period. There were also studios that opened during the Occupation years.
@@ -49,7 +52,7 @@ It was sometimes possible to buy fresh film intended for military use, which had
 Like many others living in Japanese-occupied Singapore, they also had to survive coming into contact with the Kempeitai. Chu Sui Mang (b. 1922–96, Singapore), who ran Fee Fee Photographic Store (it was not a photo studio but provided photographic supplies and services) at 160 Cross Street, survived two encounters with the Kempeitai. Chu reopened Fee Fee after the Occupation began as he still had some photo supplies left. However, in the subsequent months, Chu was arrested twice on trumped-up charges. “My hand became crooked,” Chu recalled the torture that he had suffered. “The beating made me deaf in the ear.”[^17] He was eventually allowed to go home but had to report to the special police whenever they needed him to develop and print photographs. Chu was only given meals and was not paid for his work. This lasted for some months.[^18]
 
 ![](/images/Vol%2019%20Issue%204/Photo%20Studios/greetingcard.jpg)
-<div style="background-color: white;">This is a greeting card, presumably sent to Lee Brothers Studio by Fee Fee Photographic Store, which provided photographic supplies and services, sometime during the 1930s <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">This is a greeting card, presumably sent to Lee Brothers Studio by Fee Fee Photographic Store, which provided photographic supplies and services, sometime during the 1930s. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
 
 Another person who survived a run-in with the Kempeitai was Lim Tow Tuan, the nephew of the owner of Daguerre. Someone named Lim as a member of the anti-Japanese resistance and he was picked up by the Kempeitai around September 1944 and detained at its centre on Smith Street. The interrogation began two months later, and Lim was subjected to daily beatings and torture to get him to admit that he was involved in the resistance. “After more than a month of waterboarding, I had a dream at night. Someone patted me and told me to admit the charges, or else I would be beaten to death,” Lim recalled. The following day, Lim admitted to the false accusation. Upon hearing his confession, the attitude of the interrogating officer changed immediately. The officer asked if he was hurt and whether he wanted coffee or tea, Lim recalled.[^19]
 
@@ -59,7 +62,7 @@ The whole ordeal of detention and interrogation lasted six months.[^20] After co
 
 #### **Customers of the Photo Studios**
 
-The Japanese Occupation marked the “birth of the territory’s first bureaucratically obsessed state”, which “undertook the first ever registration of Singapore and Malaya’s entire population”.[^22]The officially appointed studios were tasked to produce these photographs.
+The Japanese Occupation marked the “birth of the territory’s first bureaucratically obsessed state”, which “undertook the first ever registration of Singapore and Malaya’s entire population”.[^22] The officially appointed studios were tasked to produce these photographs.
 
 For Daguerre and Tai Tong Ah, service personnel and immigrants connected to the Japanese authorities also made up an important part of their clientele. Not long after the start of the Occupation, an officer asked Lim Ming Joon of Daguerre to accompany him to Bukit Timah. The officer believed that his friend had fallen in battle in the area and wanted to take a photograph of his final resting place to send back to Japan. “After failing to find his friend’s remains, the officer poured an offering of alcohol into the stream and muttered a few words in tears,” Lim said.[^23]
 
@@ -207,8 +210,7 @@ With the return of peace to Singapore, Chu Sui Mang rebuilt his business at Fee 
 
 [^39]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 5 June 1986, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/7eff0e44-115f-11e3-83d5-0050568939ad-OHC000670_009/web/html5/index.html) and MP3 audio, Reel/Disc 9 of 13, National Archives of Singapore ([accession no. 000670](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000670)), 101–04.
 
-[^40]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 11 June 1986, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f60b512b-115d-11e3-83d5-0050568939ad-OHC000670_010/web/html5/index.html
-) and MP3 audio, Reel/Disc 10 of 13, National Archives of Singapore ([accession no. 000670](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000670)), 107.
+[^40]: David Ng Shin Chong, oral history interview by Ang Siew Ghim, 11 June 1986, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f60b512b-115d-11e3-83d5-0050568939ad-OHC000670_010/web/html5/index.html) and MP3 audio, Reel/Disc 10 of 13, National Archives of Singapore ([accession no. 000670](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000670)), 107.
 
 [^41]: Zhuang, “[Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios),” 28.
 
