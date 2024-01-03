@@ -34,6 +34,14 @@ An innovation patented in 1920 produced paper that was more durable, had greater
 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/history-through-postcards/"> History Through Postcards</a>
+<p>One postcard may not say much, but a collection of postcards can speak volumes.&nbsp;**Stephanie Pee**&nbsp;tells us what&nbsp;_Postcard Impressions of Early 20th-century Singapore_&nbsp;has to say.</p>
+
+<img src="/images/Vol-16-issue-1/Postcards/malay_village.png">
+
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao/">From Lat Pau to Zaobao: A History of Chinese Newspapers</a>
 Chinese newspapers have been published in Singapore since the 19th century.&nbsp;**Lee Meiyu**&nbsp;looks at how they have evolved and examines their impact on the Chinese community here.
 
