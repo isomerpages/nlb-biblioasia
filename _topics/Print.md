@@ -33,3 +33,9 @@ Chinese newspapers have been published in Singapore since the 19th century.&nbsp
 
 <img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image8.JPG">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/printing-in-indochi/">Printed on Rubber Latex Paper</a>
+An innovation patented in 1920 produced paper that was more durable, had greater tensile strength and was resistant to folding, as **Alex Teoh** tells us.
+
+<img src="/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/covers_editted.png">
+<hr>
