@@ -8,7 +8,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/">Photo Studios During the Japanese Occupation</a>
 During the Japanese Occupation, local photographers worked under challenging conditions.
 
-<img src="/images/Vol%2019%20Issue%204/Photo%20Studios/NorthBridge.jpg">  
+<img src="/images/Vol%2019%20Issue%204/Photo%20Studios/TheJapanesedelegation.jpg">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/restoring-asian-films/">Restoring Classic Films from Asia</a>
