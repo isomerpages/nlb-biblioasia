@@ -1,6 +1,6 @@
 ---
 title: Photo Studios During the Japanese Occupation
-permalink: /holding-area/permalink/photostudiostest/
+permalink: /vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/
 variant: markdown
 description: During the Japanese Occupation, local photographers worked under
   challenging conditions.
@@ -32,7 +32,7 @@ The Japanese invasion began in December 1941 and Daguerre Studio on Middle Road 
 A few weeks after the Japanese had established control over Singapore, Lim Ming Joon and his nephew decided to reopen Daguerre. They walked from Hougang to Middle Road and found that their studio had not been badly damaged, although the shattered glass panels meant that it was not possible to operate on rainy days. Eventually, they began to get a few customers as people trickled in to take identification photographs.[^4] One of the Japanese photographers, who had previously helped Lim, returned to Singapore and helped Lim apply to the Labour Control Office for Daguerre Studio to be one of the officially appointed photographers on the island.[^5] That provided a boost to his business.
 
 ![](/images/Vol%2019%20Issue%204/Photo%20Studios/LabourIdentityBooklet_.jpg)
-<div style="background-color: white;">During the Japanese Occupation, people who applied for the Labour Identity Booklet (shown here) would be required to submit an identification photograph. The booklet was issued by the Labour Control Office of Malaya and Sumatra. This was one reason for the modest, sustained demand for photographic services during the war. <i>Image reproduced from 勞務手帖: 馬來スマトラ勞務管理協會 = Malaya Sumatra Romukanrikyokai, 1942. (From National Library, Singapore, call no. RRARE 331.095957 MAL)._</i></div>
+<div style="background-color: white;">During the Japanese Occupation, people who applied for the Labour Identity Booklet (shown here) would be required to submit an identification photograph. The booklet was issued by the Labour Control Office of Malaya and Sumatra. This was one reason for the modest, sustained demand for photographic services during the war. <i>Image reproduced from 勞務手帖: 馬來スマトラ勞務管理協會 = Malaya Sumatra Romukanrikyokai, 1942. (From National Library, Singapore, call no. RRARE 331.095957 MAL).</i></div>
 
 By early October 1942, Daguerre Studio was listed in the _Syonan Times_ – the newspaper that replaced the _Straits Times_ during the Occupation years – as an officially appointed photo studio.[^6] With the appointment, Lim believed that those associated with the Japanese authorities were more likely to patronise his studio.[^7] After the appointment, Japanese customers, including soldiers, became more polite to him. They would bow and greet Lim before entering the premises. In general, he found that the Japanese were respectful towards photographers.[^8]
 

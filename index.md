@@ -18,6 +18,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 3/hero_img_ballet.jpg
   - infopic:
+      title: Photo Studios During the Japanese Occupation
+      subtitle: Photography
+      id: infopic
+      description: During the Japanese Occupation, local photographers worked under
+        challenging conditions.
+      button: Photography in Difficult Times
+      url: /vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/
+      image: /images/Vol 19 Issue 4/Photo Studios/NorthBridge.jpg
+      alt: Photo Studios
+  - infopic:
       title: Singapore's Hippie Hysteria and the Ban on Long Hair
       subtitle: Governance
       id: infopic
