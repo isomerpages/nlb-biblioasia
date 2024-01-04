@@ -56,7 +56,7 @@ The National Library recently received a sizable collection of letters, document
 <img src="/images/Vol-16-issue-3/kim-mui/kim-openingcover.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/kim-mui/">New Books on Singapore History</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/book-review/">Book Review: The Year 1000</a>
 
-<img src="/images/Vol%2018%20Issue%204/New%20Books/book1.png">
+<img src="/images/Vol-16-issue-3/book-review/year1000-opening.jpg">
 <hr>
