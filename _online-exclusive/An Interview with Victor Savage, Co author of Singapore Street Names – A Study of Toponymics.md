@@ -186,32 +186,65 @@ And then there is Xilin Avenue. Xilin is a <i>hanyu pinyin</i> name for Sek Lim,
 <img style="width:60%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/desker_road.png">
 <div style="background-color: white;"> Desker Road is part of the red-light district where enterprising people sell a multitude of accessories associated with the trade, c. 1980. <i> Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 	
-**Jimmy**
-
+<b>Jimmy</b><br>
 That's very interesting. Apart from library research, you also conducted oral history interviews.
 
-**Victor**
-
+<b>Victor</b><br>
 I interviewed different people. I interviewed the Somapah family. They said that Hunmah Somapah (1870–1919) was already rich when he came to Singapore. It was initially thought that Somapah was an Indian convict \[who was\] brought to Singapore and made it rich here, and then a road was named after him. So there are all these issues to sort out. People have different interpretations of their family history.
 
-**Jimmy**
-
+<b>Jimmy</b><br>
 How about heritage buffs on the Internet? Did that change how you put the book together?
 
-**Victor**
-
+<b>Victor</b><br>
 There are many bloggers, and these people have a lot of information. But there are some sections unexplored. For example, how did Middle Road get its name? There's no record of it. My view is that on the north side of the Singapore River, where European town was, Europeans had residence from the Singapore River to Bras Basah. Then from Bras Basah to Middle Road was the Eurasian community.
 
-**Jimmy**
-
+<b>Jimmy</b><br>
 They went to the Portuguese Church.
 
-**Victor**
-
+<b>Victor</b><br>
 The churches and schools were there. On one side of Middle Road near Mount Sophia was the Jewish community. Bencoolen Street was the Malay community, because Malays from Bencoolen, Sumatra went there. We go down Middle Road, where there's a big Japanese community. Further down at Beach Road is the Hainanese community. Middle Street is very interesting. Different ethnic groups are all parked in different areas. But then again, how do we get the word “middle”? One theory is that it’s middle between Singapore River and Kampong Glam.
+	
+	
+<img style="width:80%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/middle_road.png">
+<div style="background-color: white;"> Mystery still surrounds how Middle Road got its name. This photo, c. 1993, shows David Elias Building, which is at the junction of Short Street and Middle Road. Built in 1928 by Jewish Merchant David Elias, the building was gazetted for conservation in 1994.  <i> Courtesy of National Archives of Singapore.</i></div>
+	
 
+<b>Jimmy</b><br>
+What are your plans? Your book \[<i>_Lion City Narratives_</i>\](https://eservice.nlb.gov.sg/item\_holding.aspx?bid=205602997) was published in 2021.
+
+<b>Victor</b><br>
+That’s about Western impressions in Singapore from 1819 to 1963. The new book is from 1963 to the present. The tentative title is <i>_The Green Dot: Singapore’s Audacious Narrative_</i>. \[It’s about how\] Singaporeans view Singapore. All the politicians and all that.
+
+<b>Jimmy</b><br>
+Sounds a very big book. And then you also have another book on nature?
+
+<b>Victor</b><br>
+That will be 2024 or 2025. \[That’s on how\] Southeast Asia views nature.
+
+<b>Jimmy</b><br>
+What have you been doing since you retired? Have you been writing books?
+
+<b>Victor</b><br>
+Yes. I retired in 2016. I was Director of Alumni Relations at NUS \[National University of Singapore\]. It was a very big portfolio, looking after 260,000 alumni, including Lee Kuan Yew.
+
+<b>Jimmy</b><br>
+Via Raffles College.
+
+<b>Victor</b><br>
+Yes, Raffles College. That's why I know a lot of people because I organised a lot of functions. After I left NUS, I was employed by RSIS \[S. Rajaratnam School of International Studies\] as a fellow.
+
+<b>Jimmy</b><br>
+Are you going to write your memoirs?
+
+<b>Victor</b><br>
+Well, I’ve started. I've written a whole section on my relationship with Lee Kuan Yew. Not a personal relationship, but at different periods of my life, there were incidences.
 	
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>ABOUT THE BOOK</b><br><br>
+	<img style="width:40%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/singapore_street_names.png">
+ 
+Place names tell us much about a country — its history, its landscape, its people, its aspirations, its self-image. The study of place names unlocks the stories that are in every street name and landmark. This revised and expanded 4th edition of the book incorporates additional information, from archival research as well as interviews, that have come to light since the last edition.
 	
+The book can be found in bookshops around Singapore. It is also available at the Lee Kong Chian Reference Library and selected public libraries ([call no. 915.9570014 SAV](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205854725)) and on NLB OverDrive as an [ebook](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205955291).	</div><br><br>
 	
 	
 
