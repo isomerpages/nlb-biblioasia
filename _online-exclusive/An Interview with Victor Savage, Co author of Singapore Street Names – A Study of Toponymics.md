@@ -210,7 +210,7 @@ The churches and schools were there. On one side of Middle Road near Mount Sophi
 	
 
 <b>Jimmy</b><br>
-What are your plans? Your book \[<i>_Lion City Narratives_</i>\](https://eservice.nlb.gov.sg/item\_holding.aspx?bid=205602997) was published in 2021.
+What are your plans? Your book <i>[Lion City Narratives](https://eservice.nlb.gov.sg/item\_holding.aspx?bid=205602997)</i> was published in 2021.
 
 <b>Victor</b><br>
 That’s about Western impressions in Singapore from 1819 to 1963. The new book is from 1963 to the present. The tentative title is <i>_The Green Dot: Singapore’s Audacious Narrative_</i>. \[It’s about how\] Singaporeans view Singapore. All the politicians and all that.
@@ -237,7 +237,7 @@ Yes, Raffles College. That's why I know a lot of people because I organised a lo
 Are you going to write your memoirs?
 
 <b>Victor</b><br>
-Well, I’ve started. I've written a whole section on my relationship with Lee Kuan Yew. Not a personal relationship, but at different periods of my life, there were incidences.
+Well, I’ve started. I've written a whole section on my relationship with Lee Kuan Yew. Not a personal relationship, but at different periods of my life, there were incidences.<br><br>
 	
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>ABOUT THE BOOK</b><br><br>
 	<img style="width:40%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/singapore_street_names.png">
