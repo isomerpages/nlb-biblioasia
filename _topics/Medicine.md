@@ -24,6 +24,14 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 <img style="width: 100%;" src="/images/vol-17-issue-2/vaccination/Waitingtobevaccinated.jpg"> 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/covid19/">Life in a Time of COVID-19</a>
+
+*Janice Loo*  explains the National Library’s crowdsourcing efforts to document the impact of the coronavirus pandemic.
+
+<img src="/images/Vol-16-issue-3/covid19/covid19-opening.jpg" style="width:50%;">													
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
 <p>The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.</p>
 
