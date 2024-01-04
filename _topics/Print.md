@@ -27,3 +27,35 @@ An innovation patented in 1920 produced paper that was more durable, had greater
 
 <img src="/images/Vol%2018%20Issue%201/Rubber%20Latex%20Paper/covers_editted.png">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals"> Malay Seals from Singapore</a>
+<p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
+<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg">
+
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/history-through-postcards/"> History Through Postcards</a>
+<p>One postcard may not say much, but a collection of postcards can speak volumes.&nbsp;**Stephanie Pee**&nbsp;tells us what&nbsp;_Postcard Impressions of Early 20th-century Singapore_&nbsp;has to say.</p>
+
+<img src="/images/Vol-16-issue-1/Postcards/malay_village.png">
+
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/the-news-gallery/"> The News Gallery: Beyond Headlines</a>
+<p>There is more to news than meets the eye.&nbsp;**Mazelan Anuar**&nbsp;and&nbsp;**Faridah Ibrahim**&nbsp;give us the scoop on the National Library’s latest exhibition.</p>
+
+<img src="/images/Vol-16-issue-1/News/behind_every_story.jpg">
+
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao/">From Lat Pau to Zaobao: A History of Chinese Newspapers</a>
+Chinese newspapers have been published in Singapore since the 19th century.&nbsp;**Lee Meiyu**&nbsp;looks at how they have evolved and examines their impact on the Chinese community here.
+
+<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image8.JPG">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/printing-in-indochi/">Early Printing In Indochina</a>
+In the first of two essays on the history of printing in mainland Southeast Asia,&nbsp;**Gracie Lee**&nbsp;examines the impact of the printing press in Vietnam, Cambodia and Laos.
+
+<img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina5.JPG">
+<hr>

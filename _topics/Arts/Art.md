@@ -3,6 +3,7 @@ title: Art
 permalink: /topics/art/
 description: ""
 third_nav_title: Arts
+variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/arts/2023/10/painters-diard-duvaucel-farquhar/"> About the Painters: Seeking the Unnamed Artists Behind Diard and Duvaucel's Natural History Drawings</a>
  <p>Natural history drawings might seem clinical and cold, but an unlikely medium pulls back the curtains to find the humanity behind them.</p> 
@@ -40,6 +41,15 @@ A little-known collection from 1818 to 1820 commissioned under the watch of two 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals"> Malay Seals from Singapore</a>
 <p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
+<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg">
+
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/history-through-postcards/"> History Through Postcards</a>
+<p>One postcard may not say much, but a collection of postcards can speak volumes.&nbsp;**Stephanie Pee**&nbsp;tells us what&nbsp;_Postcard Impressions of Early 20th-century Singapore_&nbsp;has to say.</p>
+
+<img src="/images/Vol-16-issue-1/Postcards/malay_village.png">
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/tan-swie-hian-coll/">Exploring an Artist’s Mind: The Tan Swie Hian Collection</a>

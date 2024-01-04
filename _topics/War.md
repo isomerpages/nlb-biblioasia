@@ -2,6 +2,7 @@
 title: War
 permalink: /topics/war/
 description: ""
+variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/">Konfrontasi: Singapore’s Experience of an Undeclared War</a>
 Opposing the formation of the Federation of Malaysia, Indonesia waged a three-year armed conflict against Malaysia and Singapore.
@@ -79,4 +80,27 @@ The 1970s are often remembered as a time of rapid economic transformation and pr
 The Empress of Asia sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
 
 <img src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/witness-to-history/">Witness to History</a>
+
+Major-General Feng Yee represented China at the Japanese surrender ceremony here. *Seow Peck Ngiam* tells us about his life.
+
+<img src="/images/Vol-16-issue-1/history/History-title2.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/viet-war-through-sg/">The Vietnam War Through Singaporean Eyes
+</a>
+
+Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived.&nbsp;**Shirlene Noordin**&nbsp;has the story.
+
+<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v5.JPG">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/trial-by-firing-sqd/">Trial by Firing Squad
+</a>
+
+In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion.&nbsp;**Umej Bhatia**&nbsp;recreates the final moments of the mutineers as they pay the ultimate price for their actions.
+
+<img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial1.JPG">
 <hr>
