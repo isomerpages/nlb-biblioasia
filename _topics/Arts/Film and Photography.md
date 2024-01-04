@@ -48,6 +48,12 @@ Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the pol
 <img src="/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/picturessg/">Picturing Singapore: A Visual History</a>
+Photographs are an important means to understand Singapore’s history and heritage.&nbsp;**Janice Loo**&nbsp;shares highlights from the National Library’s PictureSG Collection.
+
+<img src="/images/Vol-16-issue-2/picturessg/ThianHockKeng.jpg" style="width:105%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett/">Marjorie Doggett: Photographer of Singapore</a>
 **Edward Stokes**&nbsp;reflects on&nbsp;_Characters of Light_&nbsp;by Marjorie Doggett, first published in 1957, and on his own recent book,&nbsp;_Marjorie Doggett’s Singapore_, which portrays her life and work here.
 
