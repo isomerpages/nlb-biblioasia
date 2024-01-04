@@ -1001,4 +1001,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Photo Studios During the Japanese Occupation
+      subtitle: Photography
+      id: infopic
+      description: During the Japanese Occupation, local photographers worked under
+        challenging conditions.
+      button: Photography in Difficult Times
+      url: /vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/
+      image: /images/Vol 19 Issue 4/Photo Studios/NorthBridge.jpg
+      alt: Image alt text
 ---
