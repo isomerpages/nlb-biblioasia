@@ -48,3 +48,10 @@ A forgotten manuscript found in the archive of a Portuguese museum offers an ins
 
 <img src="/images/Vol%2018%20Issue%204/New%20Books/book1.png">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/diff-sky/">A Different Sky: The Other Side of the Looking Glass</a>
+
+*Meira Chand*  explores the challenges of writing historical fiction.
+
+<img src="/images/Vol-16-issue-3/diff-sky/adiffsky-cover.jpg" style="width:80%;">
+<hr>
