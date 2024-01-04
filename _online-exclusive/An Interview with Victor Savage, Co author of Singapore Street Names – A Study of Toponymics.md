@@ -67,7 +67,7 @@ One example is Mount Sophia. There is so much debate about who it’s named afte
 
 <img style="width:40%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/sophia_blackmore.jpg">
 <div style="background-color: white;"> 
-	
+
 Sophia Blackmore was the founder of the Methodist Mission Girls’ School which was, at one point, located on Sophia Road. From [National Library Online](https://www.nlb.gov.sg/main/image-detail?cmsuuid=972f43e4-5f81-4ff1-86d4-e29882151ed5).<br></div>
 
 <b>Jimmy</b><br>
@@ -242,7 +242,7 @@ Well, I’ve started. I've written a whole section on my relationship with Lee K
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>ABOUT THE BOOK</b><br><br>
 	<img style="width:40%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/singapore_street_names.png">
  
-Place names tell us much about a country — its history, its landscape, its people, its aspirations, its self-image. The study of place names unlocks the stories that are in every street name and landmark. This revised and expanded 4th edition of the book incorporates additional information, from archival research as well as interviews, that have come to light since the last edition.
+Place names tell us much about a country — its history, its landscape, its people, its aspirations, its self-image. The study of place names unlocks the stories that are in every street name and landmark. This revised and expanded 4th edition of the book incorporates additional information, from archival research as well as interviews, that have come to light since the last edition.<br>
 	
 The book can be found in bookshops around Singapore. It is also available at the Lee Kong Chian Reference Library and selected public libraries ([call no. 915.9570014 SAV](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205854725)) and on NLB OverDrive as an [ebook](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205955291).	</div><br><br>
 	
