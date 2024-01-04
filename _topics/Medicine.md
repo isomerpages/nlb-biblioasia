@@ -30,18 +30,17 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 <img style="width:100%;" src="/images/Vol-16-issue-2/plague/EpidemicinManchuria.jpg">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/mad-dogs/">Mad Dogs and Englishmen: Rabies in 19th-century Singapore</a>
-<p> Fears of the deadly disease here led to more than 22,000 dogs being killed during the 1890s.&nbsp;**Timothy P. Barnard**&nbsp;sniffs out the details of this long-forgotten episode.</p> 
-
-<img style="width:100%;" src="/images/Vol-16-issue-1/mad-dogs/lady-with-dog.jpg">
-<hr>
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/cholera">Cholera in 19th-century Singapore</a>
 <p>The colony experienced its first cholera outbreak in 1841, and several epidemics in the decades thereafter. Bonny Tan examines how the battle against this deadly illness was won.</p> 
 
 <img style="width:100%;" src="/images/Vol-16-issue-2/cholera/monstrous.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/mad-dogs/">Mad Dogs and Englishmen: Rabies in 19th-century Singapore</a>
+<p> Fears of the deadly disease here led to more than 22,000 dogs being killed during the 1890s.&nbsp;**Timothy P. Barnard**&nbsp;sniffs out the details of this long-forgotten episode.</p> 
+
+<img style="width:100%;" src="/images/Vol-16-issue-1/mad-dogs/lady-with-dog.jpg">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/leprosy">Leprosy: A Story of Suffering, But Also of Hope</a>
 People struck with leprosy were shunned and forced to live in isolation at the Trafalgar Home in Yio Chu Kang.&nbsp;Danielle Lim&nbsp;tracks the history of this disfiguring disease in Singapore.
@@ -75,6 +74,3 @@ Milestones in Singapore’s medical scene – among other subjects – are captu
 <img style="width:100%;" src="/images/vol-9-issue-4/sgmanofscienceandmedicine/group_of_chinese.jpg">
 
 <hr>
-
-
-
