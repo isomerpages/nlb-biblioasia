@@ -68,7 +68,7 @@ One example is Mount Sophia. There is so much debate about who it’s named afte
 <img style="width:40%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/sophia_blackmore.jpg">
 <div style="background-color: white;"> 
 	
-Sophia Blackmore was the founder of the Methodist Mission Girls’ School which was, at one point, located on Sophia Road. From [National Library Online](https://www.nlb.gov.sg/main/image-detail?cmsuuid=972f43e4-5f81-4ff1-86d4-e29882151ed5).
+Sophia Blackmore was the founder of the Methodist Mission Girls’ School which was, at one point, located on Sophia Road. From [National Library Online](https://www.nlb.gov.sg/main/image-detail?cmsuuid=972f43e4-5f81-4ff1-86d4-e29882151ed5).<br></div>
 
 <b>Jimmy</b><br>
 Each one of these entries could be a book by itself.
@@ -259,4 +259,3 @@ The book can be found in bookshops around Singapore. It is also available at the
 
 
 
-</div>
