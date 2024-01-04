@@ -2,6 +2,7 @@
 title: Food
 permalink: /topics/food/
 description: ""
+variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign">Going Against the (Rice) Grain: The “Eat More Wheat” Campaign</a>
 The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government.
@@ -34,3 +35,11 @@ A number of cookbooks written in the 1940s and 1950s helped expand the tradition
 
 <img src="/images/vol-17-issue-4/cookbook/cookbook.png">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/ghcafe/">G.H. Cafe: A Dining Landmark on Battery Road</a>
+	
+This cafe once loomed large in Singapore’s dining and social scene. *Vandana Aggarwal* traces its rise and disappearance.
+
+<img src="/images/Vol-16-issue-2/ghcafe/GHCafe.jpg" style="width:80%;">
+<hr>
+
