@@ -244,7 +244,7 @@ Well, I’ve started. I've written a whole section on my relationship with Lee K
  
 Place names tell us much about a country — its history, its landscape, its people, its aspirations, its self-image. The study of place names unlocks the stories that are in every street name and landmark. This revised and expanded 4th edition of the book incorporates additional information, from archival research as well as interviews, that have come to light since the last edition.<br>
 	
-The book can be found in bookshops around Singapore. It is also available at the Lee Kong Chian Reference Library and selected public libraries ([call no. 915.9570014 SAV](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205854725)) and on NLB OverDrive as an [ebook](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205955291).	</div><br><br>
+The book can be found in bookshops around Singapore. It is also available at the Lee Kong Chian Reference Library and selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205854725">(call no. 915.9570014 SAV)</a> and on NLB OverDrive as an <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205955291"> ebook</a>.	</div><br><br>
 	
 	
 
