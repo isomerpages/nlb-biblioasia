@@ -2,7 +2,14 @@
 title: Nature and the Environment
 permalink: /topics/nature/
 description: ""
+variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles/">Stamford Raffles and the Two French Naturalists</a>
+**Danièle Weiler**&nbsp;uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.
+
+<img src="/images/Vol-16-issue-2/raffles/stork.jpg">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/">How the Raffles Museum Got a Whale Skeleton, Made It Famous, Then Let It Go 60 Years Later</a>
 The skeleton of a blue whale took pride of place at the former Raffles Museum for more than 60 years before it was gifted to the National Museum of Malaysia in 1974.
 
@@ -27,5 +34,3 @@ Singapore has planted more than two million trees in the past 50 years. Lim Tin 
 
 <img src="/images/vol-17-issue-4/tree-planting/1-Header-2.jpg">
 <hr>
-
-

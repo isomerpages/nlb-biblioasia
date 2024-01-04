@@ -5,16 +5,16 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/">Chia Boon Leong: The Twinkle-Toed Olympian</a>
-Although short in stature, footballer Chia Boon Leong was a force to be reckoned with.
-
-<img src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/age50b.jpg" style="width:80%;">
-<hr>
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/">Conquering the World’s Tallest Mountain</a>
 David Lim led the first Singapore expedition team that successfully scaled Mount Everest on 25 May 1998. This is an excerpt from his book,&nbsp;<i>Mountain to Climb: The Quest from Everest and Beyond</i>.
 
 <img src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/sg%20team%20at%20basecamp.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/">Chia Boon Leong: The Twinkle-Toed Olympian</a>
+Although short in stature, footballer Chia Boon Leong was a force to be reckoned with.
+
+<img src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/age50b.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a>
@@ -154,6 +154,3 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 
 <img src="/images/Vol-16-issue-1/king/King-title.jpg" style="width:50%;">
 <hr>
-
-
-

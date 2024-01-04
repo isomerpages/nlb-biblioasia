@@ -8,7 +8,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/">Photo Studios During the Japanese Occupation</a>
 During the Japanese Occupation, local photographers worked under challenging conditions.
 
-<img src="/images/Vol%2019%20Issue%204/Photo%20Studios/NorthBridge.jpg">  
+<img src="/images/Vol%2019%20Issue%204/Photo%20Studios/TheJapanesedelegation.jpg">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/restoring-asian-films/">Restoring Classic Films from Asia</a>
@@ -46,6 +46,12 @@ Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of 
 Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan.
 
 <img src="/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png">  
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/picturessg/">Picturing Singapore: A Visual History</a>
+Photographs are an important means to understand Singapore’s history and heritage.&nbsp;**Janice Loo**&nbsp;shares highlights from the National Library’s PictureSG Collection.
+
+<img src="/images/Vol-16-issue-2/picturessg/ThianHockKeng.jpg" style="width:105%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett/">Marjorie Doggett: Photographer of Singapore</a>

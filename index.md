@@ -25,7 +25,7 @@ sections:
         challenging conditions.
       button: Photography in Difficult Times
       url: /vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/
-      image: /images/Vol 19 Issue 4/Photo Studios/NorthBridge.jpg
+      image: /images/Vol 19 Issue 4/Photo Studios/TheJapanesedelegation.jpg
       alt: Photo Studios
   - infopic:
       title: Singapore's Hippie Hysteria and the Ban on Long Hair
