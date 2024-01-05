@@ -181,7 +181,7 @@ We’ve dealt with other issues, like red light districts [such as Desker Road].
 And then there is Xilin Avenue. Xilin is a <i>hanyu pinyin</i> name for Sek Lim, a Chinese man. I interviewed his grandchildren. He had a huge piece of land from Changi all the way to Bedok. The grandchildren said that their grandfather had seven wives. And he had built houses for all seven: four on one side of the Bedok river and three on the other side. The grandfather was very strict, and they were very scared of him. Yet his inheritance didn’t go to his children, but to the grandchildren. 
 	
 
-<img style="width:80%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/desker_road.png">
+<img style="width:90%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/desker_road.png">
 <div style="background-color: white;"> Desker Road is part of the red-light district where enterprising people sell a multitude of accessories associated with the trade, c. 1980. <i> Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 	
 <b>Jimmy</b><br>
