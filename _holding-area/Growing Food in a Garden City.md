@@ -111,32 +111,31 @@ It is ironic, however, that to the earlier generations, the farm-to-table concep
 
 [^5]: Ebenezer Howard, _Garden Cities of Tomorrow_, (London: S. Sonnenschein &amp; Co., 1902), 22.
 
-\[1\] Robert Freestone and Andrew Wheeler, “Integrating Health into Town Planning: A History,” in _The Routledge Handbook of Planning for Health and Well-Being:&nbsp;Shaping a Sustainable and Healthy Future_, ed. Hugh Barton, Susan Thompson, Sarah Burgess, Marcus Grant (Oxon and Routledge, 2015), 17–36.
+[^6]: Robert Freestone and Andrew Wheeler, “Integrating Health into Town Planning: A History,” in _The Routledge Handbook of Planning for Health and Well-Being:&nbsp;Shaping a Sustainable and Healthy Future_, ed. Hugh Barton, Susan Thompson, Sarah Burgess, Marcus Grant (Oxon and Routledge, 2015), 17–36.
 
-\[1\] “[Vegetable Growing In Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19190215-1.2.16),” _Singapore Free Press and Mercantile Advertiser,_ 15 February 1919, 5. (From NewspaperSG)
+[^7]: “[Vegetable Growing In Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19190215-1.2.16),” _Singapore Free Press and Mercantile Advertiser,_ 15 February 1919, 5. (From NewspaperSG)
 
-\[1\] Salma Khalik, “Khoo Teck Puat Hospital Wins International Design Award, Beating US and Japanese Buildings” _Straits Times,_ 13 December 2017, https://www.straitstimes.com/singapore/ktph-wins-international-design-award-beating-us-and-japanese-buildings.
+[^8]: Salma Khalik, “Khoo Teck Puat Hospital Wins International Design Award, Beating US and Japanese Buildings” _Straits Times,_ 13 December 2017, https://www.straitstimes.com/singapore/ktph-wins-international-design-award-beating-us-and-japanese-buildings.
 
-\[1\] N. Flavell, “Urban Allotment Gardens in the Eighteenth Century: The Case of Sheffield,” _The Agricultural History Review_ 51, no. 1 (2003): 95–106. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^9]: N. Flavell, “Urban Allotment Gardens in the Eighteenth Century: The Case of Sheffield,” _The Agricultural History Review_ 51, no. 1 (2003): 95–106. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-\[1\] See Margaret Wiles, _The Gardens of the British Working Class_ (London: Yale University Press, 2014)
+[^10]: See Margaret Wiles, _The Gardens of the British Working Class_ (London: Yale University Press, 2014)
 
-\[1\] “Malaya's Food Supply,” _The Singapore Free Press and Mercantile Advertiser_, 24 January 1918, 50.
+[^11]: “Malaya's Food Supply,” _The Singapore Free Press and Mercantile Advertiser_, 24 January 1918, 50.
 
-\[1\] These gardens are clearly marked on National Archives (Singapore), [_Map of the Town and Environs of Singapore from an Actual Survey by G.D. Coleman_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad)_,_ 1839, map. (From National Archives of Singapore, accession no. SP006292)
+[^12]: These gardens are clearly marked on National Archives (Singapore), [_Map of the Town and Environs of Singapore from an Actual Survey by G.D. Coleman_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad)_,_ 1839, map. (From National Archives of Singapore, accession no. SP006292)
 
-\[1\] “[Shortage of Rice](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19190423-1.2.7),” _Malaya Tribune_, 23 April 1919, 4. (From NewspaperSG)
+[^13]: “[Shortage of Rice](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19190423-1.2.7),” _Malaya Tribune_, 23 April 1919, 4. (From NewspaperSG)
 
+[^14]: “[Home Gardens in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19311121-1.2.81),” _Malaya Tribune,_ 21 November 1931, 10. (From NewspaperSG)
 
-[\[1\]](#_ftnref1) “[Home Gardens in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19311121-1.2.81),” _Malaya Tribune,_ 21 November 1931, 10. (From NewspaperSG)
+[^15]: “[Fine Vegetables From Governor's Gardens](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19401008-1.2.74),” _Straits Times,_ 8 October 1940, 10. (From NewspaperSG)
 
-[\[2\]](#_ftnref2) “[Fine Vegetables From Governor's Gardens](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19401008-1.2.74),” _Straits Times,_ 8 October 1940, 10. (From NewspaperSG)
+[^16]: “[Good Use Now Being Made of Singapore's Refuse](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19401115-1.2.57),” _Malaya Tribune,_ 15 November 1940, 6. (From NewspaperSG)
 
-[\[3\]](#_ftnref3) “[Good Use Now Being Made of Singapore's Refuse](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19401115-1.2.57),” _Malaya Tribune,_ 15 November 1940, 6. (From NewspaperSG)
+[^17]: “[This Means You](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19400810-1.2.17),” _Morning Tribune,_ 10 August 1940, 2; “[‘Grow More Food’ Campaign](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19401103-1.2.41),” _Straits Times_, 3 November 1940, 5. (From Newspaper SG)
 
-[\[1\]](#_ftnref1) “[This Means You](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19400810-1.2.17),” _Morning Tribune,_ 10 August 1940, 2; “[‘Grow More Food’ Campaign](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19401103-1.2.41),” _Straits Times_, 3 November 1940, 5. (From Newspaper SG)
-
-[\[2\]](#_ftnref2) “[Vegetable Growing To be Increased](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19391012-1.2.27),” _Malaya Tribune,_ 12 October 1939, 2. (From NewspaperSG)
+[^18]: “[Vegetable Growing To be Increased](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19391012-1.2.27),” _Malaya Tribune,_ 12 October 1939, 2. (From NewspaperSG)
 
 [\[3\]](#_ftnref3) [Mehervan Singh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/f47aa7f0-115d-11e3-83d5-0050568939ad), oral history interview by Pitt Kuan Wah. 17 May 1985, MP3 audio, Reel/Disc 16 of 67, National Archives of Singapore (accession no. 000553)
 
