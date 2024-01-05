@@ -75,6 +75,39 @@ Most of the gardens we see today constitute part of NParks’ Community in Bloom
 
 <img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/yio_chu_kang_herb.png" style="width: 100%;"><div style="background-color: white;"> Vegetable plots at Jalan Gambas with Housing and Development Board (HDB) flats in the background, 1986. Courtesy of National Archives of Singapore.</div>
 
+According to former NParks director Ng Cheow Kheng, who oversaw the creation of the CIB initiative, the term “Community in Bloom” was directly adapted from the Canadian “Communities in Bloom” movement,[\[1\]](#_ftn1) which involves various municipalities across Canada competing to create aesthetically pleasing urban green spaces.[\[2\]](#_ftn2)
+
+Canada’s Communities in Bloom was in turn modelled on – and even obtained expert guidance from – the Britain in Bloom initiative,[\[3\]](#_ftn3) which is similarly a nation-wide competition that sees Britain’s various towns, cities, and villages compete in beautifying their built environments by means of gardens.[\[4\]](#_ftn4) Hence, despite its relatively recent origins, Singapore’s CIB can still nonetheless trace its genealogy all the way back to the Garden City Movement in Britain.
+
+**Conclusion**<br>
+In his history of community gardening in America, Thomas Basset argues that these green spaces were often direct responses to specific crises or emergencies, war and economic crises and accompanying social changes. For example, the so-called Relief Gardens programme (1930–39) was a means to ensure the food security of American workers made destitute by the Great Depression. Similarly, the Victory Gardens movement (1941–45) was a response to stresses placed upon America’s agricultural food production systems by the Second World War.[\[1\]](#_ftn1)
+
+From this perspective, NParks’ Gardening with Edibles initiative can be regarded as the latest example of how edible urban gardening has been used by governments to respond to food security concerns. The British and the Japanese authorities who governed Singapore during the late 20th century launched a series of Grow More Food campaigns to address agricultural supply disruptions because of war and environmental crises. In the same way, NParks’ Gardening with Edibles can regarded as part of the Singapore government’s policy response to an increasingly volatile global food security landscape.[\[2\]](#_ftn2)
+
+Indeed, the history of urban gardening holds up a mirror to contemporary concerns. In Asia’s developed cities, urban wellbeing and food security continue to be an issue. The trend of greening cities, for example, is motivated largely for the same reasons that the model city was designed: to create a healthy space to live in. Short- to medium-term disasters, such as the Ukraine War or the COVID-19 pandemic, and long-term situations like the climate emergency have, and will, disrupt global and local trade supplies, revealing the absolute necessity of finding local alternatives, reducing carbon footprint, and supporting the local economy.
+
+It is ironic, however, that to the earlier generations, the farm-to-table concept, or growing food in a back garden, balcony or community allotment would not have been considered trendy or green, but simply essential to everyday life. Urban gardening may be one of today’s big trends, but it is by no means new and is part of multiple narratives that have influenced formal and informal gardening practices over the years. The study of all these connected themes through history provides a connection to our past and a way to learn for our future.
+
+<i>This research was funded by the Singapore National Heritage Board (NHB) under a Heritage Research Grant (HRG) entitled ‘The “Other” Garden City: Documenting Singapore’s Edible Gardening Heritage’ awarded over 2022–24.</i>
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+* * *
+
+[\[1\]](#_ftnref1) Thomas Bassett, “Reaping on the Margins: A Century of Community Gardening in America,” _Landscape_ 25 (January 1981): 1–8, ResearchGate, https://www.researchgate.net/publication/279907300\_Reaping\_on\_the\_margins\_A\_century\_of\_community\_gardening\_in\_America.
+
+[\[2\]](#_ftnref2) Siau Ming En, “The Big Read: Far From People’s Minds, but Food Security a Looming Issue,” _Today Online_, 26 May 2017, https://www.todayonline.com/singapore/big-read-far-peoples-minds-food-security-looming-issue.
+  
+
+
+
 
 
 
@@ -184,5 +217,17 @@ Most of the gardens we see today constitute part of NParks’ Community in Bloom
 [\[11\]](#_ftnref11) [Raymond Ho Chee John](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b02b18cc-1161-11e3-83d5-0050568939ad-OHC003163_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, Reel/Disc 1 of 4, 12–13.
 
 [\[12\]](#_ftnref12) Joginder Singh, oral history interview by Low Lay Leng, 7 December 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e7061c4e-115d-11e3-83d5-0050568939ad-OHC000365_008/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 8 of 11, National Archives of Singapore, ([accession no. 000365](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e7061c4e-115d-11e3-83d5-0050568939ad)), 93–94.
+
+\[1\] National Library Board, Singapore and National Parks Board, Singapore, [_Community in Bloom: My Community, My Gardens_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7a6e03fc-39f6-4013-ba51-6e0d4d8ef732) (Singapore: National Library Board and National Parks Board, 2014), 11. (From BookSG)
+
+\[1\] “Community Gardens,” National Parks Board, last updated 24 April 2023, https://www.nparks.gov.sg/gardening/community-gardens.
+
+\[1\] “New National Masterplan to Encourage More to Garden,” National Parks Board, 2 November 2017, https://www.nparks.gov.sg/news/2017/11/new-national-masterplan-to-encourage-more-to-garden.
+
+\[1\] Ng Cheow Kheng, oral history interview by Kiang-Koh Lai Lin, 17 June 2014, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/a/a9eecdea-0688-11e4-a330-0050568939ad-OHC003879_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 6 of 10, National Archives of Singapore, ([accession no. 003879](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/a9eecdea-0688-11e4-a330-0050568939ad)), 86.
+
+\[1\] Marc Lalonde, “Vaughan, Canada, Undertakes Study to Assess the Benefits of Public Green Spaces,” in _Global Models of Urban Planning: Best Practices Outside of the United States_, ed. Roger L. Kemp and Carl J. Stephani (Jefferson:McFarland &amp; Company, 2014), 195–97.
+
+\[1\] Richard Benfield, [_Garden Tourism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202499499) (Oxofordshire: CABI, 2013), 132. (From Naitonal Library, Singapore, call no. 338.4791 BEN); See also “About Us,” Communities in Bloom, 2023, https://www.communitiesinbloom.ca/program/about-us/.
 
 
