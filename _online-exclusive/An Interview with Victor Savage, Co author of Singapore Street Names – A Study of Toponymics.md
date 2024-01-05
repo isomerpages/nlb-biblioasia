@@ -32,7 +32,7 @@ What made you decide to publish a book on toponymics in 2003, 20 years ago?
 Brenda and I got into this because of our PhDs. Brenda wrote her PhD on a very important topic on the colonial clash with locals in spatial terms. Locals and Europeans both wanted their names in place names, so there was a lot of conflict. She had a chapter, in fact, on toponymics in her PhD, and it's in her book by Oxford University Press. 
 
 <b>Jimmy</b><br>
-I think I have that book. <i>[Contesting Space](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7753213)</i>, right?
+I think I have that book. [*Contesting Space*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7753213), right?
 
 <b>Victor</b><br>
 Yeah, <i>Contesting Space</i>. So, I came to the topic, because my PhD was on a broader topic on Southeast Asia. In the long research I did for my book on Southeast Asia, I was studying the human-nature relationship with Southeast Asia, how the Westerners viewed nature in Southeast Asia. So, I found a lot of toponymics that Westerners wrote about. Why Bangkok was called Bangkok or Ayutthaya. I had a file on the side about all these. 
