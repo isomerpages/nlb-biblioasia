@@ -90,17 +90,14 @@ It is ironic, however, that to the earlier generations, the farm-to-table concep
 
 <i>This research was funded by the Singapore National Heritage Board (NHB) under a Heritage Research Grant (HRG) entitled ‘The “Other” Garden City: Documenting Singapore’s Edible Gardening Heritage’ awarded over 2022–24.</i>
 
-
+<div style="background-color: white;">
+<br>
+<img style="width: 200px; height: 100px;" src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/profiles.png">
+	<b>Fiona Williamson</b> is an Associate Professor in Environmental History and <b>Joshua Goh</b> is a PhD candidate on the Asian Urbanisms Postgraduate programme at Singapore Management University. 
+</div>
  
+#### **Notes**
  
- 
- 
- 
- 
- 
-
-* * *
-
 [\[1\]](#_ftnref1) Thomas Bassett, “Reaping on the Margins: A Century of Community Gardening in America,” _Landscape_ 25 (January 1981): 1–8, ResearchGate, https://www.researchgate.net/publication/279907300\_Reaping\_on\_the\_margins\_A\_century\_of\_community\_gardening\_in\_America.
 
 [\[2\]](#_ftnref2) Siau Ming En, “The Big Read: Far From People’s Minds, but Food Security a Looming Issue,” _Today Online_, 26 May 2017, https://www.todayonline.com/singapore/big-read-far-peoples-minds-food-security-looming-issue.
