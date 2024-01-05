@@ -32,7 +32,7 @@ What made you decide to publish a book on toponymics in 2003, 20 years ago?
 Brenda and I got into this because of our PhDs. Brenda wrote her PhD on a very important topic on the colonial clash with locals in spatial terms. Locals and Europeans both wanted their names in place names, so there was a lot of conflict. She had a chapter, in fact, on toponymics in her PhD, and it's in her book by Oxford University Press. 
 
 <b>Jimmy</b><br>
-I think I have that book. [<i>Contesting Space](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7753213)</i>, right?
+I think I have that book. <i>[Contesting Space](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7753213)</i>, right?
 
 <b>Victor</b><br>
 Yeah, <i>Contesting Space</i>. So, I came to the topic, because my PhD was on a broader topic on Southeast Asia. In the long research I did for my book on Southeast Asia, I was studying the human-nature relationship with Southeast Asia, how the Westerners viewed nature in Southeast Asia. So, I found a lot of toponymics that Westerners wrote about. Why Bangkok was called Bangkok or Ayutthaya. I had a file on the side about all these. 
@@ -245,17 +245,3 @@ Well, I’ve started. I've written a whole section on my relationship with Lee K
 Place names tell us much about a country — its history, its landscape, its people, its aspirations, its self-image. The study of place names unlocks the stories that are in every street name and landmark. This revised and expanded 4th edition of the book incorporates additional information, from archival research as well as interviews, that have come to light since the last edition.<br><br>
 	
 The book can be found in bookshops around Singapore. It is also available at the Lee Kong Chian Reference Library and selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205854725">(call no. 915.9570014 SAV)</a> and on NLB OverDrive as an <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=205955291">ebook</a>.	</div><br><br>
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
