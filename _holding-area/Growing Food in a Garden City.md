@@ -7,9 +7,9 @@ description: ""
 ####  Urban edible gardening in Singapore might be all the rage now, but the movement has roots that date back to the early 20th century.
 By Fiona Williamson and Joshua Goh
 
-In June 2020, the National Parks Board (NParks) launched Gardening with Edibles, an initiative that saw the distribution of nearly 460,000 seed packs to interested households. Each pack contained approximately 1,000 vegetable seeds, allowing Singaporeans to grow a few rounds of crops ranging from tomatoes to leafy vegetables like kalian.  The initiative’s main purpose was to drive home the importance of food security as part of a wider national campaign, Our Singapore Food Story.  
+In June 2020, the National Parks Board (NParks) launched Gardening with Edibles, an initiative that saw the distribution of nearly 460,000 seed packs to interested households. Each pack contained approximately 1,000 vegetable seeds, allowing Singaporeans to grow a few rounds of crops ranging from tomatoes to leafy vegetables like kalian.[^1] The initiative’s main purpose was to drive home the importance of food security as part of a wider national campaign, Our Singapore Food Story.[^2]  
 
-Due to Singapore’s heavy reliance on imported food, most locals rarely have a hand in producing the food they eat. In 2020, fewer than 3,100 Singapore residents (or 0.14 percent of the labour force) were involved in industries such as agriculture and fishing.  Gardening with Edibles bridges this wide disconnect between farm and table by providing Singaporeans with the experience of growing their own food.
+Due to Singapore’s heavy reliance on imported food, most locals rarely have a hand in producing the food they eat. In 2020, fewer than 3,100 Singapore residents (or 0.14 percent of the labour force) were involved in industries such as agriculture and fishing.[^3]  Gardening with Edibles bridges this wide disconnect between farm and table by providing Singaporeans with the experience of growing their own food.
 
 Edible gardening is not a recent phenomenon in Singapore; Gardening with Edibles was preceded by the Grow More Food campaigns. These initiatives and practices of edible gardening in modern Singapore emerged from a confluence of food security concerns and planning ideals from the Garden City Movement in Britain and demonstrate just how deeply rooted edible gardening is in the Singapore Story.
 
@@ -20,36 +20,38 @@ Edible gardening is not a recent phenomenon in Singapore; Gardening with Edibles
 **Edible Gardens for Health and Wellbeing**<br>
 With the advent of a Garden City Movement in the late 1800s, the connection between gardens and urban wellbeing was widely touted by social improvers and town planners in Britain and the U.S. In Britain, for example, Edwin Chadwick and Benjamin Ward Richardson had both proposed models for healthy cities wherein gardens played significant roles in urban wellbeing. 
 
-Richardson’s model city narrative Hygeia (1876) argued that cities must have tree-lined boulevards and green spaces and homes should be “surrounded with garden space, [to] add not only to the beauty but to the healthiness of the city”.  One of the most influential writers of the late 19th century was Ebenezer Howard, whose Garden Cities of Tomorrow (1898, reprinted 1902) birthed the concept of the garden city “to raise the standard of health and comfort of all true workers of whatever grade – the means by which these objects are to be achieved being a healthy, natural, and economic combination of town and country life”.  
+Richardson’s model city narrative Hygeia (1876) argued that cities must have tree-lined boulevards and green spaces and homes should be “surrounded with garden space, [to] add not only to the beauty but to the healthiness of the city”.[^4]  One of the most influential writers of the late 19th century was Ebenezer Howard, whose Garden Cities of Tomorrow (1898, reprinted 1902) birthed the concept of the garden city “to raise the standard of health and comfort of all true workers of whatever grade – the means by which these objects are to be achieved being a healthy, natural, and economic combination of town and country life”.[^5]  
 
-Such ideas eventually found their way into official circles in Singapore through trans-imperial knowledge networks. In the 1910s and 1920s, a series of imperial health conferences drew connections between planning, housing and health, and linked ideas of social justice amid the popularity of new labour movements to access to green, healthy space and food. These concerns intensified at the outbreak of war in 1914, when many people failed to pass the basic health requirements to enter military service, probably the first time such a mass health screening had taken place.  
+Such ideas eventually found their way into official circles in Singapore through trans-imperial knowledge networks. In the 1910s and 1920s, a series of imperial health conferences drew connections between planning, housing and health, and linked ideas of social justice amid the popularity of new labour movements to access to green, healthy space and food. These concerns intensified at the outbreak of war in 1914, when many people failed to pass the basic health requirements to enter military service, probably the first time such a mass health screening had taken place.[^6]  
 
-While these urban planning movements did not directly address edible gardens, some of Singapore’s health institutions did set up kitchen gardens to improve patient wellbeing. In 1917, for example, an institution for the mentally ill had created a kitchen garden. By 1918, “excellent fresh vegetables were available … aggregating 10,534 pounds for the staff and ‘inmates’ grown by the patients themselves”, reported the Singapore Free Press.  Edible gardens had been incorporated into Singapore’s hospitals long before Khoo Teck Puat Hospital developed its “A garden in a hospital” concept. 
+While these urban planning movements did not directly address edible gardens, some of Singapore’s health institutions did set up kitchen gardens to improve patient wellbeing. In 1917, for example, an institution for the mentally ill had created a kitchen garden. By 1918, “excellent fresh vegetables were available … aggregating 10,534 pounds for the staff and ‘inmates’ grown by the patients themselves”, reported the Singapore Free Press.[^7]  Edible gardens had been incorporated into Singapore’s hospitals long before Khoo Teck Puat Hospital developed its “A garden in a hospital” concept.[^8] 
 
 
 
 **Edible Gardens for Food Security**<br>
-At the same time, food security concerns provided further impetus for colonial authorities to promote edible gardening as a means of ensuring the wellbeing of working-class families. This was not a new idea as there had been edible gardens in British cities since the late 1700s. Local governments rented out small plots of land to urban dwellers who wanted, or needed, to grow their own food, rather than buy it.   Such allotments proved to be an enduring aspect of working-class British culture all the way through the 20th century.  
-From the 1910s, there had been growing international concern that agricultural output would not match population growth. The outbreak of the First World War in 1914 demonstrated that when global supply lines were severely disrupted for long periods, countries overly reliant on imported goods struggled to be self-sustainable. It was remarked in 1918 how “[t]he cost of a few sprigs of ‘chukup manis’, a few scraggy beans, or a cucumber or two, is astonishing in Singapore … and altogether the supply of local grown foods is altogether inadequate”.  
-The local situation had been compounded by the gradual erosion of market gardening in Singapore, traditionally undertaken in the 19th century by many Chinese communities to the east of the town centre, around Rochor through Bendemeer.  By 1919, an impending rice shortage across Malaya meant that plantation workers were encouraged to “get busy and cultivate gardens, planting food stuffs such as ragi [finger millet], yams and maize to be eaten instead of rice”.  
+At the same time, food security concerns provided further impetus for colonial authorities to promote edible gardening as a means of ensuring the wellbeing of working-class families. This was not a new idea as there had been edible gardens in British cities since the late 1700s. Local governments rented out small plots of land to urban dwellers who wanted, or needed, to grow their own food, rather than buy it.[^9] Such allotments proved to be an enduring aspect of working-class British culture all the way through the 20th century.[^10]  
+
+From the 1910s, there had been growing international concern that agricultural output would not match population growth. The outbreak of the First World War in 1914 demonstrated that when global supply lines were severely disrupted for long periods, countries overly reliant on imported goods struggled to be self-sustainable. It was remarked in 1918 how “[t]he cost of a few sprigs of ‘chukup manis’, a few scraggy beans, or a cucumber or two, is astonishing in Singapore … and altogether the supply of local grown foods is altogether inadequate”.[^11]  
+
+The local situation had been compounded by the gradual erosion of market gardening in Singapore, traditionally undertaken in the 19th century by many Chinese communities to the east of the town centre, around Rochor through Bendemeer.[^12] By 1919, an impending rice shortage across Malaya meant that plantation workers were encouraged to “get busy and cultivate gardens, planting food stuffs such as ragi [finger millet], yams and maize to be eaten instead of rice”.[^13]  
 
 ![](/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/map_paddyfields.png)
 <div style="background-color: white;"> Detail of map showing paddy fields, sugar and cotton plantations, and vegetable gardens as indicated in <i>Map of the Town and Environs of Singapore from an Actual Survey</i> (1839) by G.D. Coleman. <i>Collection of the National Archives of Singapore.</i></div>
 
 The 1920s and 1930s saw a string of environmental crises, which either directly or indirectly affected Singapore and other parts of Asia. Soil erosion due to unsustainable farming practices and unusually severe periods of drought led to major agricultural producers such as India, the U.S. and China suffering severe economic hardship, with a knock-on effect on global food supply and prices. In Singapore, the concurrent decline in the rubber industry in the early 1920s meant less disposable income for many families. This triggered a mass interest in growing their own food.
 
-Across Malaya, the British government started various campaigns to teach schoolchildren gardening skills and provided incentives for better-off people to convert their flower gardens into vegetable patches. In 1932, for example, “It was decided, especially in view of the economic situation, that … an effort should be made to stimulate interest in home gardens by village competitions open to all races.”[\[1\]](#_ftn1)
+Across Malaya, the British government started various campaigns to teach schoolchildren gardening skills and provided incentives for better-off people to convert their flower gardens into vegetable patches. In 1932, for example, “It was decided, especially in view of the economic situation, that … an effort should be made to stimulate interest in home gardens by village competitions open to all races.”[^14]
 
-Even government institutions had functional gardens. Government House, for example, had a garden where “nearly 20 varieties of vegetables” were grown over 130 acres, including “lettuce, cucumber, mint, radishes, and water cress”, which were collected daily for their own kitchens. “Rarely does Government House have to go to the markets for its vegetables and there is often such an abundance that quantities over domestic requirements are sent to the Child Welfare Centre”.[\[2\]](#_ftn2) Composting for sustainability and productivity was also strongly encouraged to “\[make\] the people of Malaya self-supporting in vegetable food.”[\[3\]](#_ftn3)
+Even government institutions had functional gardens. Government House, for example, had a garden where “nearly 20 varieties of vegetables” were grown over 130 acres, including “lettuce, cucumber, mint, radishes, and water cress”, which were collected daily for their own kitchens. “Rarely does Government House have to go to the markets for its vegetables and there is often such an abundance that quantities over domestic requirements are sent to the Child Welfare Centre”.[^15] Composting for sustainability and productivity was also strongly encouraged to “\[make\] the people of Malaya self-supporting in vegetable food.”[^16]
 
 <img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/pupils_gardening.png" style="width: 75%;"> 
 <div style="background-color: white;"> Pupils gardening in Bukit Panjang Government School, 1950. <i>Bukit Panjang Government School Collection, courtesy of National Archives of Singapore.</i></div>
 
-The pressure to grow more food increased in 1939 with the start of the Second World War. By now, there was a concerted Grow More Food campaign coordinated through various government departments, including the Rural Board and the Department of Agriculture, alongside the Malaysian Agricultural and Horticultural Society (MAHA), with communications managed by the Department of Information.[\[1\]](#_ftn1) Aside from information disseminated through posters and schools, “demonstration plots” were set up in places like Pasir Panjang Park, “to stimulate public interest in vegetable gardening … particularly green leafy vegetables and fruits”.[\[2\]](#_ftn2)
+The pressure to grow more food increased in 1939 with the start of the Second World War. By now, there was a concerted Grow More Food campaign coordinated through various government departments, including the Rural Board and the Department of Agriculture, alongside the Malaysian Agricultural and Horticultural Society (MAHA), with communications managed by the Department of Information.[^17] Aside from information disseminated through posters and schools, “demonstration plots” were set up in places like Pasir Panjang Park, “to stimulate public interest in vegetable gardening … particularly green leafy vegetables and fruits”.[^18]
 
-Mehervan Singh, a Singapore resident who had moved to the island from India as a child, recalled the government employing “student gardeners” to learn how to grow vegetables and in turn teach the general public. Singh was one such gardener and had been trained by the then director of the Singapore Botanic Garden Dr R. E. Holden at the outbreak of the war in 1939. He was also “attached to one Mr. Yap, an agricultural inspector” where he “learned a great deal about growing vegetables” often through visiting market gardens. Singh put this “knowledge to good use at a vegetable garden set up along Ayer Rajah Road and another off Pasir Panjang Road” where they grew produce including _kangkong_ (water spinach), long beans, French beans, cucumbers, bittergourds, green pumpkins, lady’s fingers, brinjals, chilies, tomatoes, radish, and papayas.[\[3\]](#_ftn3)
+Mehervan Singh, a Singapore resident who had moved to the island from India as a child, recalled the government employing “student gardeners” to learn how to grow vegetables and in turn teach the general public. Singh was one such gardener and had been trained by the then director of the Singapore Botanic Garden Dr R. E. Holden at the outbreak of the war in 1939. He was also “attached to one Mr. Yap, an agricultural inspector” where he “learned a great deal about growing vegetables” often through visiting market gardens. Singh put this “knowledge to good use at a vegetable garden set up along Ayer Rajah Road and another off Pasir Panjang Road” where they grew produce including _kangkong_ (water spinach), long beans, French beans, cucumbers, bittergourds, green pumpkins, lady’s fingers, brinjals, chilies, tomatoes, radish, and papayas.[^19]
 
-That same year, an experiment in self-sustainability was undertaken at the Health Department with composting supplies drawn “from about 10,000 inhabitants” and around 14 acres of land “cultivated for the production of vegetable and fruit” and its produce was “shared among the Health Department laborers … it is believed that over 200 of them \[saved\] at the rate of 20 cents a week as a result of their daily ration of vegetables.”[\[4\]](#_ftn4)
+That same year, an experiment in self-sustainability was undertaken at the Health Department with composting supplies drawn “from about 10,000 inhabitants” and around 14 acres of land “cultivated for the production of vegetable and fruit” and its produce was “shared among the Health Department laborers … it is believed that over 200 of them \[saved\] at the rate of 20 cents a week as a result of their daily ration of vegetables.”[^20]
 
 During the Japanese Occupation (1942–45), continued food shortages and exorbitant prices saw the continuation of the Grow More Food campaign under the new government. At Farrer Park, for example, there had been “a nice patch of grassland situated just opposite Race Course lane” which was a children’s playground. When the war broke out, “the British Military Authorities … dug trenches and man-holes all over … When the \[Japanese\] came in, they encouraged the planting of food. So, people turned the playground into a miniature farm. The planks from the swings and see-saws went to help in the building of squatters’ huts.”[\[5\]](#_ftn5)
 
@@ -98,51 +100,7 @@ It is ironic, however, that to the earlier generations, the farm-to-table concep
  
 #### **Notes**
  
-[\[1\]](#_ftnref1) Thomas Bassett, “Reaping on the Margins: A Century of Community Gardening in America,” _Landscape_ 25 (January 1981): 1–8, ResearchGate, https://www.researchgate.net/publication/279907300\_Reaping\_on\_the\_margins\_A\_century\_of\_community\_gardening\_in\_America.
-
-[\[2\]](#_ftnref2) Siau Ming En, “The Big Read: Far From People’s Minds, but Food Security a Looming Issue,” _Today Online_, 26 May 2017, https://www.todayonline.com/singapore/big-read-far-peoples-minds-food-security-looming-issue.
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-
-\[1\] Goh Chiow Tong, “NParks to Give Packets of Vegetable Seeds to Households to Encourage Home Gardening” _Channel News Asia_, 18 June 2020, &nbsp;https://www.todayonline.com/singapore/nparks-give-packets-vegetable-seeds-households-encourage-home-gardening.
+[^1]: Goh Chiow Tong, “NParks to Give Packets of Vegetable Seeds to Households to Encourage Home Gardening” _Channel News Asia_, 18 June 2020, &nbsp;https://www.todayonline.com/singapore/nparks-give-packets-vegetable-seeds-households-encourage-home-gardening.
 
 \[1\] “Our SG Food Story”, Singapore Food Agency, 21 August 2020, https://www.sfa.gov.sg/fromSGtoSG/our-sg-food-story.
 
