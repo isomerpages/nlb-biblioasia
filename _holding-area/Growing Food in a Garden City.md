@@ -227,4 +227,9 @@ It is ironic, however, that to the earlier generations, the farm-to-table concep
 
 \[1\] Richard Benfield, [_Garden Tourism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202499499) (Oxofordshire: CABI, 2013), 132. (From Naitonal Library, Singapore, call no. 338.4791 BEN); See also “About Us,” Communities in Bloom, 2023, https://www.communitiesinbloom.ca/program/about-us/.
 
+  Benfield, Garden Tourism, 132–33.
+  Thomas Bassett, “Reaping on the Margins: A Century of Community Gardening in America,” Landscape 25 (January 1981): 1–8, ResearchGate, https://www.researchgate.net/publication/279907300_Reaping_on_the_margins_A_century_of_community_gardening_in_America.
+  Siau Ming En, “The Big Read: Far From People’s Minds, but Food Security a Looming Issue,” Today Online, 26 May 2017, https://www.todayonline.com/singapore/big-read-far-peoples-minds-food-security-looming-issue. 
+
+
 
