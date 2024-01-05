@@ -35,7 +35,8 @@ From the 1910s, there had been growing international concern that agricultural o
 
 The local situation had been compounded by the gradual erosion of market gardening in Singapore, traditionally undertaken in the 19th century by many Chinese communities to the east of the town centre, around Rochor through Bendemeer.[^12] By 1919, an impending rice shortage across Malaya meant that plantation workers were encouraged to “get busy and cultivate gardens, planting food stuffs such as ragi [finger millet], yams and maize to be eaten instead of rice”.[^13]  
 
-![](/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/map_paddyfields.png)
+<img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/closeup_map_paddy_fields.png" style="width: 100%;"><br>
+<img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/map_paddy_fields.png" style="width: 100%;"> 
 <div style="background-color: white;"> Detail of map showing paddy fields, sugar and cotton plantations, and vegetable gardens as indicated in <i>Map of the Town and Environs of Singapore from an Actual Survey</i> (1839) by G.D. Coleman. <i>Collection of the National Archives of Singapore.</i></div>
 
 The 1920s and 1930s saw a string of environmental crises, which either directly or indirectly affected Singapore and other parts of Asia. Soil erosion due to unsustainable farming practices and unusually severe periods of drought led to major agricultural producers such as India, the U.S. and China suffering severe economic hardship, with a knock-on effect on global food supply and prices. In Singapore, the concurrent decline in the rubber industry in the early 1920s meant less disposable income for many families. This triggered a mass interest in growing their own food.
