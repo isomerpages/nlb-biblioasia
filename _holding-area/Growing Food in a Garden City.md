@@ -93,7 +93,11 @@ Indeed, the history of urban gardening holds up a mirror to contemporary concern
 
 It is ironic, however, that to the earlier generations, the farm-to-table concept, or growing food in a back garden, balcony or community allotment would not have been considered trendy or green, but simply essential to everyday life. Urban gardening may be one of today’s big trends, but it is by no means new and is part of multiple narratives that have influenced formal and informal gardening practices over the years. The study of all these connected themes through history provides a connection to our past and a way to learn for our future.
 
-<i>This research was funded by the Singapore National Heritage Board (NHB) under a Heritage Research Grant (HRG) entitled ‘The “Other” Garden City: Documenting Singapore’s Edible Gardening Heritage’ awarded over 2022–24.</i>
+
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>This research was funded by the Singapore National Heritage Board (NHB) under a Heritage Research Grant (HRG) entitled ‘The “Other” Garden City: Documenting Singapore’s Edible Gardening Heritage’ awarded over 2022–24. </b>
+<br></div>
+
 
 <div style="background-color: white;">
 <br>
