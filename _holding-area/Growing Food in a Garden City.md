@@ -137,55 +137,57 @@ It is ironic, however, that to the earlier generations, the farm-to-table concep
 
 [^18]: “[Vegetable Growing To be Increased](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19391012-1.2.27),” _Malaya Tribune,_ 12 October 1939, 2. (From NewspaperSG)
 
-[\[3\]](#_ftnref3) [Mehervan Singh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/f47aa7f0-115d-11e3-83d5-0050568939ad), oral history interview by Pitt Kuan Wah. 17 May 1985, MP3 audio, Reel/Disc 16 of 67, National Archives of Singapore (accession no. 000553)
+[^19]: [Mehervan Singh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/f47aa7f0-115d-11e3-83d5-0050568939ad), oral history interview by Pitt Kuan Wah. 17 May 1985, MP3 audio, Reel/Disc 16 of 67, National Archives of Singapore (accession no. 000553)
 
-[\[4\]](#_ftnref4) “[Good Use Now Being Made of Singapore's Refuse](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19401115-1.2.57).”
+[^20]: “[Good Use Now Being Made of Singapore's Refuse](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19401115-1.2.57).”
 
-[\[5\]](#_ftnref5) Tse-Kwang Hsu, “Children’s Paradise in Farrer Park” [_The Rafflesian_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4401138) 21, no. 2 (November 1947): 18–20. (From National Library, Singapore, call no. RCLOS 373.5957 R)
+[^21]: Tse-Kwang Hsu, “Children’s Paradise in Farrer Park” [_The Rafflesian_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4401138) 21, no. 2 (November 1947): 18–20. (From National Library, Singapore, call no. RCLOS 373.5957 R)
 
-[\[6\]](#_ftnref6) Kevin Blackburn and Karl Hack, [_War Memory and the Making of Modern Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14230768) (Singapore: NUS Press), 207. (From National Library, Singapore, call no. RSING 940.53595 BLA)
+[^22]: Kevin Blackburn and Karl Hack, [_War Memory and the Making of Modern Malaysia and Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14230768) (Singapore: NUS Press), 207. (From National Library, Singapore, call no. RSING 940.53595 BLA)
 
-[\[7\]](#_ftnref7) Bernard Fong Fook Chak, oral history interview by Verena Tay Siew Hin, 19 February 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/23277c57-115e-11e3-83d5-0050568939ad-OHC001406_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 3 of 8, 28, National Archives of Singapore ([accession no. 001406](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/23277c57-115e-11e3-83d5-0050568939ad)), 28.
+[^23]: Bernard Fong Fook Chak, oral history interview by Verena Tay Siew Hin, 19 February 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/23277c57-115e-11e3-83d5-0050568939ad-OHC001406_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 3 of 8, 28, National Archives of Singapore ([accession no. 001406](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/23277c57-115e-11e3-83d5-0050568939ad)), 28.
 
-[\[1\]](#_ftnref1) Mark Ravinder Frost and Yu-Mei Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116) (Singapore: Editions Didier Millet, 2009), 307. (From National Library, Singapore, call no. RSING 959.57 FRO)
+[^24]: Mark Ravinder Frost and Yu-Mei Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116) (Singapore: Editions Didier Millet, 2009), 307. (From National Library, Singapore, call no. RSING 959.57 FRO)
 
-[\[2\]](#_ftnref2) Ismail bin Zain, oral history interview by Tan Beng Luan, 5 September 1985, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/81e2da10-115f-11e3-83d5-0050568939ad-OHC000601_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 4 of 5, National Archives of Singapore ([accession no. 000601](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/81e2da10-115f-11e3-83d5-0050568939ad)), 46.
+[^25]: Ismail bin Zain, oral history interview by Tan Beng Luan, 5 September 1985, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/81e2da10-115f-11e3-83d5-0050568939ad-OHC000601_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 4 of 5, National Archives of Singapore ([accession no. 000601](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/81e2da10-115f-11e3-83d5-0050568939ad)), 46.
 
-[\[3\]](#_ftnref3) [Ismail bin Zain](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/81e2da10-115f-11e3-83d5-0050568939ad-OHC000601_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 5 September 1985, Reel/Disc 4 of 5, 44–47.
+[^26]: [Ismail bin Zain](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/81e2da10-115f-11e3-83d5-0050568939ad-OHC000601_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 5 September 1985, Reel/Disc 4 of 5, 44–47.
 
-[\[4\]](#_ftnref4) Paul H. Kratoska, “The Post-1945 Food Shortage in British Malaya,” _Journal of Southeast Asian Studies_ 19, no. 1 (March 1988): 32–33. (From JSTOR via NLB’s&nbsp;[eResources](http://eresources.nlb.gov.sg/)&nbsp;website)
+[^27]: Paul H. Kratoska, “The Post-1945 Food Shortage in British Malaya,” _Journal of Southeast Asian Studies_ 19, no. 1 (March 1988): 32–33. (From JSTOR via NLB’s&nbsp;[eResources](http://eresources.nlb.gov.sg/)&nbsp;website)
 
-[\[5\]](#_ftnref5) “[Spectre of Famine](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19460221-1.2.27),” _Malaya Tribune_, 21 February 1946, 2–3. (From NewspaperSG)
+[^28]: “[Spectre of Famine](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19460221-1.2.27),” _Malaya Tribune_, 21 February 1946, 2–3. (From NewspaperSG)
 
-[\[6\]](#_ftnref6) “[Grow More Food](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19451214-1.2.20.2),” _Straits Times_, 14 December 1945, 2. (From NewspaperSG)
+[^29]: “[Grow More Food](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19451214-1.2.20.2),” _Straits Times_, 14 December 1945, 2. (From NewspaperSG)
 
-[\[7\]](#_ftnref7) “[Measures to Relax Moratorium Being Examined](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19451125-1.2.29),” _Sunday Tribune (Singapore)_, 25 November 1945, 4; “[Government Aid to Grow More Food](https://eresources.nlb.gov.sg/newspapers/digitised/article/indiandailymail19460309-1.2.36),” _Indian Daily Mail_, 9 March 1946, 4. (From NewspaperSG)
+[^30]: “[Measures to Relax Moratorium Being Examined](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19451125-1.2.29),” _Sunday Tribune (Singapore)_, 25 November 1945, 4; “[Government Aid to Grow More Food](https://eresources.nlb.gov.sg/newspapers/digitised/article/indiandailymail19460309-1.2.36),” _Indian Daily Mail_, 9 March 1946, 4. (From NewspaperSG)
 
-[\[8\]](#_ftnref8) “[S’pore ‘Grow More Food’ Exhibition](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19460808-1.2.3),” _Malaya Tribune_, 8 August 1946, 1. (From NewspaperSG)
+[^31]: “[S’pore ‘Grow More Food’ Exhibition](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19460808-1.2.3),” _Malaya Tribune_, 8 August 1946, 1. (From NewspaperSG)
 
-[\[9\]](#_ftnref9) See “[Found---Way to Grow More Food](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19610528-1.2.37),” _Straits Times_, 28 May 1961, 5. (From Newspaper SG)
+[^32]: See “[Found---Way to Grow More Food](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19610528-1.2.37),” _Straits Times_, 28 May 1961, 5. (From Newspaper SG)
 
-[\[10\]](#_ftnref10) Raymond Ho Chee John, interview by Joseph C. Pereira, 1 June 2007, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b02b18cc-1161-11e3-83d5-0050568939ad-OHC003163_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore, ([accession no. 003163](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/b02b18cc-1161-11e3-83d5-0050568939ad)), 1–2.
+[^33]: Raymond Ho Chee John, interview by Joseph C. Pereira, 1 June 2007, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b02b18cc-1161-11e3-83d5-0050568939ad-OHC003163_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 1 of 4, National Archives of Singapore, ([accession no. 003163](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/b02b18cc-1161-11e3-83d5-0050568939ad)), 1–2.
 
-[\[11\]](#_ftnref11) [Raymond Ho Chee John](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b02b18cc-1161-11e3-83d5-0050568939ad-OHC003163_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, Reel/Disc 1 of 4, 12–13.
+[^34]: [Raymond Ho Chee John](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b02b18cc-1161-11e3-83d5-0050568939ad-OHC003163_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, Reel/Disc 1 of 4, 12–13.
 
-[\[12\]](#_ftnref12) Joginder Singh, oral history interview by Low Lay Leng, 7 December 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e7061c4e-115d-11e3-83d5-0050568939ad-OHC000365_008/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 8 of 11, National Archives of Singapore, ([accession no. 000365](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e7061c4e-115d-11e3-83d5-0050568939ad)), 93–94.
+[^35]: Joginder Singh, oral history interview by Low Lay Leng, 7 December 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e7061c4e-115d-11e3-83d5-0050568939ad-OHC000365_008/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 8 of 11, National Archives of Singapore, ([accession no. 000365](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e7061c4e-115d-11e3-83d5-0050568939ad)), 93–94.
 
-\[1\] National Library Board, Singapore and National Parks Board, Singapore, [_Community in Bloom: My Community, My Gardens_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7a6e03fc-39f6-4013-ba51-6e0d4d8ef732) (Singapore: National Library Board and National Parks Board, 2014), 11. (From BookSG)
+[^36]: National Library Board, Singapore and National Parks Board, Singapore, [_Community in Bloom: My Community, My Gardens_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7a6e03fc-39f6-4013-ba51-6e0d4d8ef732) (Singapore: National Library Board and National Parks Board, 2014), 11. (From BookSG)
 
-\[1\] “Community Gardens,” National Parks Board, last updated 24 April 2023, https://www.nparks.gov.sg/gardening/community-gardens.
+[^37]: “Community Gardens,” National Parks Board, last updated 24 April 2023, https://www.nparks.gov.sg/gardening/community-gardens.
 
-\[1\] “New National Masterplan to Encourage More to Garden,” National Parks Board, 2 November 2017, https://www.nparks.gov.sg/news/2017/11/new-national-masterplan-to-encourage-more-to-garden.
+[^38]: “New National Masterplan to Encourage More to Garden,” National Parks Board, 2 November 2017, https://www.nparks.gov.sg/news/2017/11/new-national-masterplan-to-encourage-more-to-garden.
 
-\[1\] Ng Cheow Kheng, oral history interview by Kiang-Koh Lai Lin, 17 June 2014, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/a/a9eecdea-0688-11e4-a330-0050568939ad-OHC003879_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 6 of 10, National Archives of Singapore, ([accession no. 003879](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/a9eecdea-0688-11e4-a330-0050568939ad)), 86.
+[^39]: Ng Cheow Kheng, oral history interview by Kiang-Koh Lai Lin, 17 June 2014, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/a/a9eecdea-0688-11e4-a330-0050568939ad-OHC003879_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and MP3 audio, Reel/Disc 6 of 10, National Archives of Singapore, ([accession no. 003879](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/a9eecdea-0688-11e4-a330-0050568939ad)), 86.
 
-\[1\] Marc Lalonde, “Vaughan, Canada, Undertakes Study to Assess the Benefits of Public Green Spaces,” in _Global Models of Urban Planning: Best Practices Outside of the United States_, ed. Roger L. Kemp and Carl J. Stephani (Jefferson:McFarland &amp; Company, 2014), 195–97.
+[^40]: Marc Lalonde, “Vaughan, Canada, Undertakes Study to Assess the Benefits of Public Green Spaces,” in _Global Models of Urban Planning: Best Practices Outside of the United States_, ed. Roger L. Kemp and Carl J. Stephani (Jefferson:McFarland &amp; Company, 2014), 195–97.
 
-\[1\] Richard Benfield, [_Garden Tourism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202499499) (Oxofordshire: CABI, 2013), 132. (From Naitonal Library, Singapore, call no. 338.4791 BEN); See also “About Us,” Communities in Bloom, 2023, https://www.communitiesinbloom.ca/program/about-us/.
+[^41]: Richard Benfield, [_Garden Tourism_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202499499) (Oxofordshire: CABI, 2013), 132. (From Naitonal Library, Singapore, call no. 338.4791 BEN); See also “About Us,” Communities in Bloom, 2023, https://www.communitiesinbloom.ca/program/about-us/.
 
-  Benfield, Garden Tourism, 132–33.
-  Thomas Bassett, “Reaping on the Margins: A Century of Community Gardening in America,” Landscape 25 (January 1981): 1–8, ResearchGate, https://www.researchgate.net/publication/279907300_Reaping_on_the_margins_A_century_of_community_gardening_in_America.
-  Siau Ming En, “The Big Read: Far From People’s Minds, but Food Security a Looming Issue,” Today Online, 26 May 2017, https://www.todayonline.com/singapore/big-read-far-peoples-minds-food-security-looming-issue. 
+[^42]:  Benfield, Garden Tourism, 132–33.
+
+[^43]:  Thomas Bassett, “Reaping on the Margins: A Century of Community Gardening in America,” Landscape 25 (January 1981): 1–8, ResearchGate, https://www.researchgate.net/publication/279907300_Reaping_on_the_margins_A_century_of_community_gardening_in_America.
+
+[^44]:  Siau Ming En, “The Big Read: Far From People’s Minds, but Food Security a Looming Issue,” Today Online, 26 May 2017, https://www.todayonline.com/singapore/big-read-far-peoples-minds-food-security-looming-issue. 
 
 
 
