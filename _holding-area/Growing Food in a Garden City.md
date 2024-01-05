@@ -17,7 +17,7 @@ Edible gardening is not a recent phenomenon in Singapore; Gardening with Edibles
 <div style="background-color: white;"> A vegetable farm in Punggol, 1970s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i>
 </div>
 
-**Edible Gardens for Health and Wellbeing**<br>
+**Edible Gardens for Health and Wellbeing**<br><br>
 With the advent of a Garden City Movement in the late 1800s, the connection between gardens and urban wellbeing was widely touted by social improvers and town planners in Britain and the U.S. In Britain, for example, Edwin Chadwick and Benjamin Ward Richardson had both proposed models for healthy cities wherein gardens played significant roles in urban wellbeing. 
 
 Richardson’s model city narrative Hygeia (1876) argued that cities must have tree-lined boulevards and green spaces and homes should be “surrounded with garden space, [to] add not only to the beauty but to the healthiness of the city”.[^4]  One of the most influential writers of the late 19th century was Ebenezer Howard, whose Garden Cities of Tomorrow (1898, reprinted 1902) birthed the concept of the garden city “to raise the standard of health and comfort of all true workers of whatever grade – the means by which these objects are to be achieved being a healthy, natural, and economic combination of town and country life”.[^5]  
@@ -28,7 +28,7 @@ While these urban planning movements did not directly address edible gardens, so
 
 
 
-**Edible Gardens for Food Security**<br>
+**Edible Gardens for Food Security**<br><br>
 At the same time, food security concerns provided further impetus for colonial authorities to promote edible gardening as a means of ensuring the wellbeing of working-class families. This was not a new idea as there had been edible gardens in British cities since the late 1700s. Local governments rented out small plots of land to urban dwellers who wanted, or needed, to grow their own food, rather than buy it.[^9] Such allotments proved to be an enduring aspect of working-class British culture all the way through the 20th century.[^10]  
 
 From the 1910s, there had been growing international concern that agricultural output would not match population growth. The outbreak of the First World War in 1914 demonstrated that when global supply lines were severely disrupted for long periods, countries overly reliant on imported goods struggled to be self-sustainable. It was remarked in 1918 how “[t]he cost of a few sprigs of ‘chukup manis’, a few scraggy beans, or a cucumber or two, is astonishing in Singapore … and altogether the supply of local grown foods is altogether inadequate”.[^11]  
@@ -72,7 +72,7 @@ Even those with seemingly secure middle-class jobs maintained edible gardens to 
 <img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/vegetable_plots.png" style="width: 100%;"> 
 <div style="background-color: white;"> Vegetable plots at Jalan Gambas with Housing and Development Board (HDB) flats in the background, 1986. <i>   Courtesy of National Archives of Singapore.</i></div>
 
-**Edible Gardens for Community Cohesion**<br>
+**Edible Gardens for Community Cohesion**<br><br>
 Though the edible gardens planted under the Grow More Food campaigns are long gone, edible urban gardening continues to be practised in space-scarce Singapore, especially in community gardens. Run by grassroots organisations like Resident’s Committees, community gardens are ubiquitous green spaces that can be found in many private and public housing estates across the island. 
 
 Most of the gardens we see today constitute part of NParks’ Community in Bloom (CIB) initiative. First launched in May 2005 at Mayfair Park Estate, CIB aims to “encourage people to come together to form gardening groups within their communities”.[^36]  As of today, there are over 1,900 community gardens established under CIB.[^37] Though not envisioned as food production spaces, edible plants like kangkong are often grown in community gardens. In fact, 80 percent of the community gardens in Housing and Development Board (HDB) estates grow some sort of edible plant.[^38]  
@@ -84,7 +84,7 @@ According to former NParks director Ng Cheow Kheng, who oversaw the creation of 
 
 Canada’s Communities in Bloom was in turn modelled on – and even obtained expert guidance from – the Britain in Bloom initiative,[^41] which is similarly a nation-wide competition that sees Britain’s various towns, cities, and villages compete in beautifying their built environments by means of gardens.[^42] Hence, despite its relatively recent origins, Singapore’s CIB can still nonetheless trace its genealogy all the way back to the Garden City Movement in Britain.
 
-**Conclusion**<br>
+**Conclusion**<br><br>
 In his history of community gardening in America, Thomas Basset argues that these green spaces were often direct responses to specific crises or emergencies, war and economic crises and accompanying social changes. For example, the so-called Relief Gardens programme (1930–39) was a means to ensure the food security of American workers made destitute by the Great Depression. Similarly, the Victory Gardens movement (1941–45) was a response to stresses placed upon America’s agricultural food production systems by the Second World War.[^43]
 
 From this perspective, NParks’ Gardening with Edibles initiative can be regarded as the latest example of how edible urban gardening has been used by governments to respond to food security concerns. The British and the Japanese authorities who governed Singapore during the late 20th century launched a series of Grow More Food campaigns to address agricultural supply disruptions because of war and environmental crises. In the same way, NParks’ Gardening with Edibles can regarded as part of the Singapore government’s policy response to an increasingly volatile global food security landscape.[^44]
