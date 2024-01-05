@@ -66,9 +66,7 @@ There is great demand for the book. When the publisher gives me trouble, I remin
 One example is Mount Sophia. There is so much debate about who it’s named after. The owner of the land, Prinsep, had a daughter named Sophia. And then there was a headmistress of a school there [Methodist Mission Girls’ School] who was also named Sophia. The final verdict now is that it was named after Raffles’s second wife, Sophia Hull. Mount Sophia is also called the Second Governor’s Hill. His first residence is at Fort Canning Hill. You see the whole thing is hard to detect. 
 
 <img style="width:40%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/sophia_blackmore.jpg">
-<div style="background-color: white;"> 
-
-Sophia Blackmore was the founder of the Methodist Mission Girls’ School which was, at one point, located on Sophia Road. From [National Library Online](https://www.nlb.gov.sg/main/image-detail?cmsuuid=972f43e4-5f81-4ff1-86d4-e29882151ed5).<br></div>
+<div style="background-color: white;">Sophia Blackmore was the founder of the Methodist Mission Girls’ School which was, at one point, located on Sophia Road. <i>Image reproduced from The Methodist Girls' School Alumnae Presents a Night at the Opera with the Stars of the New York Metropolitan Opera. (Singapore: Methodist Girls' School Alumnae Association, 1982), 4.</i>  From <a href="https://www.nlb.gov.sg/main/image-detail?cmsuuid=972f43e4-5f81-4ff1-86d4-e29882151ed5">National Library Online</a>.<br></div>
 
 <b>Jimmy</b><br>
 Each one of these entries could be a book by itself.
@@ -183,7 +181,7 @@ We’ve dealt with other issues, like red light districts [such as Desker Road].
 And then there is Xilin Avenue. Xilin is a <i>hanyu pinyin</i> name for Sek Lim, a Chinese man. I interviewed his grandchildren. He had a huge piece of land from Changi all the way to Bedok. The grandchildren said that their grandfather had seven wives. And he had built houses for all seven: four on one side of the Bedok river and three on the other side. The grandfather was very strict, and they were very scared of him. Yet his inheritance didn’t go to his children, but to the grandchildren. 
 	
 
-<img style="width:60%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/desker_road.png">
+<img style="width:90%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/desker_road.png">
 <div style="background-color: white;"> Desker Road is part of the red-light district where enterprising people sell a multitude of accessories associated with the trade, c. 1980. <i> Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 	
 <b>Jimmy</b><br>
