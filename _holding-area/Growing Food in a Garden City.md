@@ -69,7 +69,8 @@ The importance of the edible gardens promoted by the BMA during the post-war per
 
 Even those with seemingly secure middle-class jobs maintained edible gardens to save money. For instance, Joginder Singh, who had moved to Singapore in the 1920s when his father had been transferred here, remembers cultivating a piece of land owned by his father after the war: “\[M\]y father had a plot of land of his own. And immediately after office, and before going to office every morning, I would be there in that plot of land, trying to make vegetables grow... And whenever we eat the vegetables, they had to come out of our own garden... We did have to buy, no doubt, but then what we planted also was quite a substantial amount.”[^35]
 
-<img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/vegetable_plots.png" style="width: 75%;"><div style="background-color: white;"> Vegetable plots at Jalan Gambas with Housing and Development Board (HDB) flats in the background, 1986. Courtesy of National Archives of Singapore.</div>
+<img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/vegetable_plots.png" style="width: 100%;"> 
+<div style="background-color: white;"> Vegetable plots at Jalan Gambas with Housing and Development Board (HDB) flats in the background, 1986. <i>   Courtesy of National Archives of Singapore.</i></div>
 
 **Edible Gardens for Community Cohesion**<br>
 Though the edible gardens planted under the Grow More Food campaigns are long gone, edible urban gardening continues to be practised in space-scarce Singapore, especially in community gardens. Run by grassroots organisations like Resident’s Committees, community gardens are ubiquitous green spaces that can be found in many private and public housing estates across the island. 
