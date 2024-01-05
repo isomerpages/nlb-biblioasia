@@ -96,7 +96,7 @@ It is ironic, however, that to the earlier generations, the farm-to-table concep
 
 
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>This research was funded by the Singapore National Heritage Board (NHB) under a Heritage Research Grant (HRG) entitled ‘The “Other” Garden City: Documenting Singapore’s Edible Gardening Heritage’ awarded over 2022–24. </b>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger">This research was funded by the Singapore National Heritage Board (NHB) under a Heritage Research Grant (HRG) entitled ‘The “Other” Garden City: Documenting Singapore’s Edible Gardening Heritage’ awarded over 2022–24. 
 <br></div>
 
 
