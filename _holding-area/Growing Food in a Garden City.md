@@ -77,7 +77,8 @@ Though the edible gardens planted under the Grow More Food campaigns are long go
 Most of the gardens we see today constitute part of NParks’ Community in Bloom (CIB) initiative. First launched in May 2005 at Mayfair Park Estate, CIB aims to “encourage people to come together to form gardening groups within their communities”.[^36]  As of today, there are over 1,900 community gardens established under CIB.[^37] Though not envisioned as food production spaces, edible plants like kangkong are often grown in community gardens. In fact, 80 percent of the community gardens in Housing and Development Board (HDB) estates grow some sort of edible plant.[^38]  
 
 <img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/yio_chu_kang_herb.png" style="width: 100%;">
-<div style="background-color: white;">Vegetable plots at Jalan Gambas with Housing and Development Board (HDB) flats in the background, 1986. <i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Vegetable plots at Jalan Gambas with Housing and Development Board (HDB) flats in the background, 1986. <i>Courtesy of National Archives of Singapore.</i>
+</div>
 
 According to former NParks director Ng Cheow Kheng, who oversaw the creation of the CIB initiative, the term “Community in Bloom” was directly adapted from the Canadian “Communities in Bloom” movement,[^39] which involves various municipalities across Canada competing to create aesthetically pleasing urban green spaces.[^40]
 
