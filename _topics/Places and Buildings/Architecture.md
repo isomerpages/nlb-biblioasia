@@ -70,5 +70,5 @@ The resplendent Istana – where colonial governors and modern-day presidents on
 
 The foundation stone for the Causeway was laid 100 years ago. We look back at the history of this road and rail link.
 
-<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging2.JPG" style="width:80%;">
+<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging1.JPG" style="width:80%;">
 <hr>
