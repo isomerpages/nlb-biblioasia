@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Growing Food in a Garden City.md
       - Example Title.md
       - Testing My Skills.md
       - Test2.md
