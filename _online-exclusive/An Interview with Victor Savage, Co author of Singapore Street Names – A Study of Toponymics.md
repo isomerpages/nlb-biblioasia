@@ -1,6 +1,6 @@
 ---
-title: An Interview with Victor Savage, Co author of Singapore Street Names – A
-  Study of Toponymics
+title: "An Interview with Victor Savage, Co-author of Singapore Street Names: A
+  Study of Toponymics"
 permalink: /places-and-buildings/2024/1/singapore-street-names-victor-savage/
 variant: markdown
 description: ""
