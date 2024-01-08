@@ -14,7 +14,7 @@ BiblioAsia+ is a podcast about Singapore stories: some unfamiliar, others forgot
 Subscribe to get notified when the next episode drops:
 [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156). 
 
-<a style="text-decoration: none; font-weight: bold;" href="/podcast/the-great-reclamation/"> Artist Yip Yew Chong Paints His Story in History</a> <br>
+<a style="text-decoration: none; font-weight: bold;" href="/podcast/yip-yew-chong/"> Artist Yip Yew Chong Paints His Story in History</a> <br>
 <img style="width: 28%" src="/images/Podcast/audiogram_yew_chong.jpg" align="left"><br clear="all">
  Listen on: [Spotify](https://open.spotify.com/episode/6NYgoIymDy90Ng76tWsjsr), [Apple Podcasts](https://podcasts.apple.com/us/podcast/artist-yip-yew-chong-paints-his-story-in-history/id1688142751?i=1000639313389), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZDE1YTc1MmMtYmU1Ni00ODE4LTliYWQtYzY5NmRhNzY0ZDJm?sa=X&amp;ved=0CAUQkfYCahcKEwiI56C6nqCDAxUAAAAAHQAAAAAQNA), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Artist-Yip-Yew-Chong-Paints-His-Story-in-History-2278281)
  
