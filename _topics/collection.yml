@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - History.md
       - Editor's Picks.md
       - Archaeology.md
       - Arts/.keep
@@ -14,6 +13,7 @@ collections:
       - Culture.md
       - Food.md
       - Governance.md
+      - History.md
       - Local Icons.md
       - Maps.md
       - Medicine.md
