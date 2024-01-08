@@ -1,13 +1,14 @@
 ---
 title: Growing Food in a Garden City
-permalink: /holding-area/permalink/urban-gardening/
+permalink: /nature-and-the-environment/2024/1/singapore-edible-urban-garden/
 variant: markdown
-description: ""
+description: Urban Garden
+image: /images/Online Only Articles/Growing Food in a Garden City/kim_tian.png
 ---
 ####  Urban edible gardening in Singapore might be all the rage now, but the movement has roots that date back to the early 20th century.
 By Fiona Williamson and Joshua Goh
 
-In June 2020, the National Parks Board (NParks) launched Gardening with Edibles, an initiative that saw the distribution of nearly 460,000 seed packs to interested households. Each pack contained approximately 1,000 vegetable seeds, allowing Singaporeans to grow a few rounds of crops ranging from tomatoes to leafy vegetables like kalian.[^1] The initiative’s main purpose was to drive home the importance of food security as part of a wider national campaign, Our Singapore Food Story.[^2]  
+In June 2020, the National Parks Board (NParks) launched Gardening with Edibles, an initiative that saw the distribution of nearly 460,000 seed packs to interested households. Each pack contained approximately 1,000 vegetable seeds, allowing Singaporeans to grow a few rounds of crops ranging from tomatoes to leafy vegetables like *kalian*.[^1] The initiative’s main purpose was to drive home the importance of food security as part of a wider national campaign, Our Singapore Food Story.[^2]  
 
 Due to Singapore’s heavy reliance on imported food, most locals rarely have a hand in producing the food they eat. In 2020, fewer than 3,100 Singapore residents (or 0.14 percent of the labour force) were involved in industries such as agriculture and fishing.[^3]  Gardening with Edibles bridges this wide disconnect between farm and table by providing Singaporeans with the experience of growing their own food.
 
@@ -20,7 +21,7 @@ Edible gardening is not a recent phenomenon in Singapore; Gardening with Edibles
 **Edible Gardens for Health and Wellbeing**<br><br>
 With the advent of a Garden City Movement in the late 1800s, the connection between gardens and urban wellbeing was widely touted by social improvers and town planners in Britain and the U.S. In Britain, for example, Edwin Chadwick and Benjamin Ward Richardson had both proposed models for healthy cities wherein gardens played significant roles in urban wellbeing. 
 
-Richardson’s model city narrative Hygeia (1876) argued that cities must have tree-lined boulevards and green spaces and homes should be “surrounded with garden space, [to] add not only to the beauty but to the healthiness of the city”.[^4]  One of the most influential writers of the late 19th century was Ebenezer Howard, whose Garden Cities of Tomorrow (1898, reprinted 1902) birthed the concept of the garden city “to raise the standard of health and comfort of all true workers of whatever grade – the means by which these objects are to be achieved being a healthy, natural, and economic combination of town and country life”.[^5]  
+Richardson’s model city narrative *Hygeia* (1876) argued that cities must have tree-lined boulevards and green spaces and homes should be “surrounded with garden space, [to] add not only to the beauty but to the healthiness of the city”.[^4]  One of the most influential writers of the late 19th century was Ebenezer Howard, whose *Garden Cities of Tomorrow* (1898, reprinted 1902) birthed the concept of the garden city “to raise the standard of health and comfort of all true workers of whatever grade – the means by which these objects are to be achieved being a healthy, natural, and economic combination of town and country life”.[^5]  
 
 Such ideas eventually found their way into official circles in Singapore through trans-imperial knowledge networks. In the 1910s and 1920s, a series of imperial health conferences drew connections between planning, housing and health, and linked ideas of social justice amid the popularity of new labour movements to access to green, healthy space and food. These concerns intensified at the outbreak of war in 1914, when many people failed to pass the basic health requirements to enter military service, probably the first time such a mass health screening had taken place.[^6]  
 
@@ -37,7 +38,7 @@ The local situation had been compounded by the gradual erosion of market gardeni
 
 <img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/closeup_map_paddy_fields.png" style="width: 100%;"><br>
 <img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/map_paddy_fields.png" style="width: 100%;"> 
-<div style="background-color: white;"> Detail of map showing paddy fields, sugar and cotton plantations, and vegetable gardens as indicated in <i>Map of the Town and Environs of Singapore from an Actual Survey</i> (1839) by G.D. Coleman. <i>Collection of the National Archives of Singapore.</i></div>
+<div style="background-color: white;"> Detail of map (top) showing paddy fields, sugar and cotton plantations, and vegetable gardens as indicated in <i>Map of the Town and Environs of Singapore from an Actual Survey</i> (above, 1839) by G.D. Coleman. <i>Collection of the National Archives of Singapore.</i></div>
 
 The 1920s and 1930s saw a string of environmental crises, which either directly or indirectly affected Singapore and other parts of Asia. Soil erosion due to unsustainable farming practices and unusually severe periods of drought led to major agricultural producers such as India, the U.S. and China suffering severe economic hardship, with a knock-on effect on global food supply and prices. In Singapore, the concurrent decline in the rubber industry in the early 1920s meant less disposable income for many families. This triggered a mass interest in growing their own food.
 
@@ -76,7 +77,7 @@ Even those with seemingly secure middle-class jobs maintained edible gardens to 
 **Edible Gardens for Community Cohesion**<br><br>
 Though the edible gardens planted under the Grow More Food campaigns are long gone, edible urban gardening continues to be practised in space-scarce Singapore, especially in community gardens. Run by grassroots organisations like Resident’s Committees, community gardens are ubiquitous green spaces that can be found in many private and public housing estates across the island. 
 
-Most of the gardens we see today constitute part of NParks’ Community in Bloom (CIB) initiative. First launched in May 2005 at Mayfair Park Estate, CIB aims to “encourage people to come together to form gardening groups within their communities”.[^36]  As of today, there are over 1,900 community gardens established under CIB.[^37] Though not envisioned as food production spaces, edible plants like kangkong are often grown in community gardens. In fact, 80 percent of the community gardens in Housing and Development Board (HDB) estates grow some sort of edible plant.[^38]  
+Most of the gardens we see today constitute part of NParks’ Community in Bloom (CIB) initiative. First launched in May 2005 at Mayfair Park Estate, CIB aims to “encourage people to come together to form gardening groups within their communities”.[^36]  As of today, there are over 1,900 community gardens established under CIB.[^37] Though not envisioned as food production spaces, edible plants like *kangkong* are often grown in community gardens. In fact, 80 percent of the community gardens in Housing and Development Board (HDB) estates grow some sort of edible plant.[^38]  
 
 <img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/yio_chu_kang_herb.png" style="width: 100%;"> 
 <div style="background-color: white;"> (Left) Yio Chu Kang Zone 7 herb garden is an edible garden located between HDB blocks. (Right) Community gardeners from The Giving Garden (located atop a multistorey carpark) at Kim Tian West with their harvest of leafy vegetables.<i>   Courtesy of National Parks Board.</i></div>
@@ -194,7 +195,4 @@ It is ironic, however, that to the earlier generations, the farm-to-table concep
 
 [^43]:  Thomas Bassett, “Reaping on the Margins: A Century of Community Gardening in America,” Landscape 25 (January 1981): 1–8, ResearchGate, https://www.researchgate.net/publication/279907300_Reaping_on_the_margins_A_century_of_community_gardening_in_America.
 
-[^44]:  Siau Ming En, “The Big Read: Far From People’s Minds, but Food Security a Looming Issue,” Today Online, 26 May 2017, https://www.todayonline.com/singapore/big-read-far-peoples-minds-food-security-looming-issue. 
-
-
-
+[^44]:  Siau Ming En, “The Big Read: Far From People’s Minds, but Food Security a Looming Issue,” Today Online, 26 May 2017, https://www.todayonline.com/singapore/big-read-far-peoples-minds-food-security-looming-issue.

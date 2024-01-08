@@ -97,10 +97,16 @@ Four journalists from Singapore covered the Vietnam War for the international ne
 <img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v5.JPG">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/trial-by-firing-sqd/">Trial by Firing Squad
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/trial-by-firing-sqd/">Trial by Firing Squad</a>
 
 In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion.&nbsp;**Umej Bhatia**&nbsp;recreates the final moments of the mutineers as they pay the ultimate price for their actions.
 
 <img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial1.JPG">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/iron-spearhead-hitmn/">Iron Spearhead: The Story of a Communist Hitman</a>
+
+**Ronnie Tan**&nbsp;and&nbsp;**Goh Yu Mei**&nbsp;recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
+
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron1.JPG">
 <hr>

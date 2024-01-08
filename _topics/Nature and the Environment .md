@@ -4,6 +4,13 @@ permalink: /topics/nature/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/nature-and-the-environment/2024/1/singapore-edible-urban-garden/">Growing Food in a Garden City</a>
+
+Urban edible gardening in Singapore might be all the rage now, but the movement has roots that date back to the early 20th century.
+
+<img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/pupils_gardening.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles/">Stamford Raffles and the Two French Naturalists</a>
 **Danièle Weiler**&nbsp;uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.
 
@@ -34,3 +41,4 @@ Singapore has planted more than two million trees in the past 50 years. Lim Tin 
 
 <img src="/images/vol-17-issue-4/tree-planting/1-Header-2.jpg">
 <hr>
+

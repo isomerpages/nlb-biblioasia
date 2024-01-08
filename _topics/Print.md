@@ -66,3 +66,24 @@ In the first of two essays on the history of printing in mainland Southeast Asia
 
 <img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina5.JPG">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/modern-malayan-home/">The Modern Malayan Home</a>
+
+Along with the introduction of running water and electricity at the turn of the 20th century were advertisements featuring modern home appliances.&nbsp;**Georgina Wong**&nbsp;has the story.
+
+<img src="/images/Vol-14-issue-4/the-modern-malayan-home/malayan1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/sg-chin-kang-hertge/">Singapore’s Chin Kang Heritage</a>
+
+To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library.&nbsp;**Jessie Yak**&nbsp;shares highlights from the collection.
+  
+<img src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/when-there-wre-farms/">When There Were Farms</a>
+
+To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library.&nbsp;**Jessie Yak**&nbsp;shares highlights from the collection.
+  
+<img src="/images/Vol-14-issue-4/when-there-were-farms/Farm1.JPG" style="width:80%;">
+<hr>
