@@ -66,3 +66,9 @@ The resplendent Istana – where colonial governors and modern-day presidents on
 <img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/bridging-history-wtr/">Bridging History: Passageways Across Water</a>
+
+The foundation stone for the Causeway was laid 100 years ago. We look back at the history of this road and rail link.
+
+<img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging2.JPG" style="width:80%;">
+<hr>
