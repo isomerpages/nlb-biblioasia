@@ -153,4 +153,12 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 *Kevin Y.L. Tan* pens a portrait of the first person in Malaya to be knighted and the author of One Hundred Years’ History of the Chinese in Singapore.
 
 <img src="/images/Vol-16-issue-1/king/King-title.jpg" style="width:50%;">
+
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/fnr-untold-story/">Farquhar &amp; Raffles: The Untold Story</a>
+
+ The founding of Singapore in 1819 and its early development have traditionally been attributed to Sir Stamford Raffles.&nbsp;**Nadia Wright**&nbsp;claims that his role has been exaggerated at the expense of another.
+
+<img src="/images/Vol-14-issue-4/farquhar-and-raffles/Untold1.JPG" style="width:80%;">
 <hr>
