@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/
-      button: "A Well-Choreographed Move: From Singapore Dance Theatre to Singapore
-        Ballet"
+      url: /vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/
+      button: Revisiting the Mystery of the Missing Gold Coins
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 3/hero_img_ballet.jpg
+      background: /images/Vol 19 Issue 3/8 Gold Coins/missinggoldcoins_hero_img2.jpg
   - infopic:
       title: Photo Studios During the Japanese Occupation
       subtitle: Photography
