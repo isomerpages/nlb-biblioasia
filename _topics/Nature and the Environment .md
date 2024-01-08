@@ -8,7 +8,7 @@ variant: markdown
 
 Urban edible gardening in Singapore might be all the rage now, but the movement has roots that date back to the early 20th century.
 
-<img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/pupils_gardening.png">
+<img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/pupils_gardening.png" style="width:70%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles/">Stamford Raffles and the Two French Naturalists</a>
