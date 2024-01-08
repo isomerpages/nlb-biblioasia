@@ -97,8 +97,7 @@ Four journalists from Singapore covered the Vietnam War for the international ne
 <img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v5.JPG">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/trial-by-firing-sqd/">Trial by Firing Squad
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/trial-by-firing-sqd/">Trial by Firing Squad</a>
 
 In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion.&nbsp;**Umej Bhatia**&nbsp;recreates the final moments of the mutineers as they pay the ultimate price for their actions.
 
