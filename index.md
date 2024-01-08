@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 3/8 Gold Coins/missinggoldcoins_hero_img2.jpg
   - infopic:
+      title: Artist Yip Yew Chong Paints His Story in History
+      subtitle: PODCAST
+      id: infopic
+      description: Yip Yew Chong’s 60-metre-long work, “I Paint My Singapore”, merges
+        history, memory and nostalgia.
+      button: LISTEN TO BIBLIOASIA+
+      url: /podcast/yip-yew-chong/
+      image: /images/Podcast/audiogram_yew_chong.jpg
+      alt: Image alt text
+  - infopic:
       title: Photo Studios During the Japanese Occupation
       subtitle: Photography
       id: infopic
