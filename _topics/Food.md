@@ -43,3 +43,12 @@ This cafe once loomed large in Singapore’s dining and social scene. *Vandana A
 <img src="/images/Vol-16-issue-2/ghcafe/GHCafe.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/life-lson-chetty-m-k/">Life Lessons in a Chetty Melaka Kitchen</a>
+
+Thrift, hard work and resilience are qualities that can be nurtured through food.&nbsp;**Chantal Sajan**&nbsp;recalls the legacy of her grandaunt.
+
+<img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty1.JPG">
+<hr>
+
+
+
