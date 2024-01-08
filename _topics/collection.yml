@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - Collection Highlights.md
       - Editor's Picks.md
       - Archaeology.md
       - Arts/.keep
@@ -11,6 +10,7 @@ collections:
       - Arts/Literature.md
       - Arts/Music.md
       - Arts/Theatre and Dance.md
+      - Collection Highlights.md
       - Culture.md
       - Food.md
       - Governance.md
