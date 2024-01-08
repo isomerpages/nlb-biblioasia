@@ -2,6 +2,7 @@ collections:
   online-exclusive:
     output: true
     order:
+      - Growing Food in a Garden City.md
       - An Interview with Victor Savage, Co author of Singapore Street Names – A
         Study of Toponymics.md
       - "My Childhood Memories: A Slice of Kampong Life.md"
