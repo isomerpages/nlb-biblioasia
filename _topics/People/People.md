@@ -169,3 +169,10 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 
 <img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron1.JPG">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/creative-collectives/">Creative Collectives: Abdul Ghani Abdul Hamid and His Contemporaries</a>
+
+**Nadia Ramli**&nbsp;traces the history of the Malay art scene in early Singapore through a collection of art-related ephemera, catalogues and publications at the National Library. 
+
+<img src="/images/Vol-14-issue-4/creative-collectives/xz.JPG">
+<hr>
