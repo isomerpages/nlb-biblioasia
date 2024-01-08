@@ -66,3 +66,12 @@ In the first of two essays on the history of printing in mainland Southeast Asia
 
 <img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina5.JPG">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/modern-malayan-home/">The Modern Malayan Home</a>
+
+Along with the introduction of running water and electricity at the turn of the 20th century were advertisements featuring modern home appliances.&nbsp;**Georgina Wong**&nbsp;has the story.
+
+<img src="/images/Vol-14-issue-4/the-modern-malayan-home/malayan1.JPG" style="width:80%;">
+<hr>
+
+
