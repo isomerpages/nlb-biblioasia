@@ -80,4 +80,3 @@ Sara Siew examines the link between visual art and the written word through the 
 <img src="/images/Vol-14-issue-4/creative-collectives/xz.JPG">
 <hr>
 
-<hr>
