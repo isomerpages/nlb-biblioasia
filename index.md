@@ -1010,4 +1010,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Artist Yip Yew Chong Paints His Story in History
+      subtitle: PODCAST
+      id: infopic
+      description: Yip Yew Chong’s 60-metre-long work, “I Paint My Singapore”, merges
+        history, memory and nostalgia.
+      button: LISTEN TO BIBLIOASIA+
+      url: /podcast/yip-yew-chong/
+      image: /images/Podcast/audiogram_yew_chong.jpg
+      alt: Image alt text
 ---
