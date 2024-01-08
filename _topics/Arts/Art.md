@@ -73,6 +73,11 @@ Sara Siew examines the link between visual art and the written word through the 
 <img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/creative-collectives/">Creative Collectives: Abdul Ghani Abdul Hamid and His Contemporaries</a>
 
+**Nadia Ramli**&nbsp;traces the history of the Malay art scene in early Singapore through a collection of art-related ephemera, catalogues and publications at the National Library. 
+
+<img src="/images/Vol-14-issue-4/creative-collectives/xz.JPG">
+<hr>
 
 <hr>
