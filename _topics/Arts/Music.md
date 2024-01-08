@@ -39,3 +39,10 @@ In this extract from the book From Keroncong to Xinyao, the author looks at why 
 
 <img src="/images/Vol%2019%20Issue%202/SG%20Record%20Industry/image1.png">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/sg-stopover-circuit/">Singapore Stopover: The Entertainment Circuit 1920–1940</a>
+
+The city was a major pit stop for visiting entertainers and sportsmen in the early 20th century, according to the writer&nbsp;**Paul French**.
+
+<img src="/images/Vol-14-issue-4/singapore-stopover/Stopover1.JPG">
+<hr>
