@@ -1020,4 +1020,15 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Growing Food in a Garden City
+      subtitle: "Nature and the Environment "
+      id: infopic
+      description: Urban edible gardening in Singapore might be all the rage now, but
+        the movement has roots that date back to the early 20th century.
+      button: Eat Your Greens
+      url: /nature-and-the-environment/2024/1/singapore-edible-urban-garden/
+      image: /images/Online Only Articles/Growing Food in a Garden
+        City/pupils_gardening.png
+      alt: Image alt text
 ---
