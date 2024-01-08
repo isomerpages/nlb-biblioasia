@@ -66,3 +66,9 @@ Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encount
 <img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/mrs-dare-driv-mchn/">Mrs Dare and Her Magnificent Driving Machine</a>
+
+The intrepid Mrs G.M. Dare – true to her name – was Singapore’s first woman driver. In April 1907, she embarked on a 686-mile road trip across the Malay Peninsula.
+
+<img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare1.JPG" style="width:60%;">
+<hr>
