@@ -32,6 +32,7 @@ Wong Din Haan, who founded a girls’ school in Singapore, was also a champion f
 <img src="/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg">
 <hr>
 
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks/">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
 A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as **Toffa Abdul Wahed** tells us. 
 
@@ -71,4 +72,11 @@ Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encount
 The intrepid Mrs G.M. Dare – true to her name – was Singapore’s first woman driver. In April 1907, she embarked on a 686-mile road trip across the Malay Peninsula.
 
 <img src="/images/Vol-14-issue-4/mrs-dare-and-her-mag-drv-mcn/MrsDare1.JPG" style="width:60%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/modern-malayan-home/">The Modern Malayan Home</a>
+
+Along with the introduction of running water and electricity at the turn of the 20th century were advertisements featuring modern home appliances.&nbsp;**Georgina Wong**&nbsp;has the story.
+
+<img src="/images/Vol-14-issue-4/the-modern-malayan-home/malayan1.JPG" style="width:80%;">
 <hr>
