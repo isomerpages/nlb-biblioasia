@@ -43,7 +43,7 @@ sections:
       title: Artist Yip Yew Chong Paints His Story in History
       subtitle: PODCAST
       id: infopic
-      description: Yip Yew Chong’s 60-metre-long work, “I Paint My Singapore”, merges
+      description: Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, merges
         history, memory and nostalgia.
       button: LISTEN TO BIBLIOASIA+
       url: /podcast/yip-yew-chong/
