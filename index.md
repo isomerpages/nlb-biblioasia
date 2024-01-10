@@ -1031,4 +1031,16 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Interview with Victor Savage
+      subtitle: more places and Buildings
+      id: infopic
+      description: From Desker Road to Xilin Avenue, street signs around Singapore
+        recall the lives of people whose stories are a part of the nation’s
+        history.
+      button: Naming Singapore's streets
+      url: places-and-buildings/2024/1/singapore-street-names-victor-savage/
+      image: /images/Online Only Articles/Interview with Victor
+        Savage/victor_savage.png
+      alt: Victor savage
 ---
