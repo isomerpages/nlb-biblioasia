@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### **Interview with Victor Savage, Co-author of Singapore Street Names: A Study of Toponymics**
+From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation's history.
+
+<img style="width:80%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/desker_road.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing">A Quick History of the Singapore Speedway</a>
 The history of the Singapore Speedway was as fast and furious as the races it hosted.
 

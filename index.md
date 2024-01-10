@@ -17,6 +17,18 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 3/8 Gold Coins/missinggoldcoins_hero_img2.jpg
   - infopic:
+      title: Interview with Victor Savage
+      subtitle: more places and Buildings
+      id: infopic
+      description: From Desker Road to Xilin Avenue, street signs around Singapore
+        recall the lives of people whose stories are a part of the nation’s
+        history.
+      button: Naming Singapore's streets
+      url: places-and-buildings/2024/1/singapore-street-names-victor-savage/
+      image: /images/Online Only Articles/Interview with Victor
+        Savage/victor_savage.png
+      alt: Victor savage
+  - infopic:
       title: Growing Food in a Garden City
       subtitle: Nature and the Environment
       id: infopic
