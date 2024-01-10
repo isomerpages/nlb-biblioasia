@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+<img style="width:80%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/desker_road.png">
+<div style="background-color: white;"> 
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing">A Quick History of the Singapore Speedway</a>
 The history of the Singapore Speedway was as fast and furious as the races it hosted.
 
@@ -147,4 +151,4 @@ This cafe once loomed large in Singapore’s dining and social scene. *Vandana A
 
 
 
-<hr>
+<hr></div>
