@@ -37,7 +37,7 @@ sections:
       button: Eat Your Greens
       url: /nature-and-the-environment/2024/1/singapore-edible-urban-garden/
       image: /images/Online Only Articles/Growing Food in a Garden City/kim_tian.png
-      alt: Urban banban Garden
+      alt: Urban arden
   - infopic:
       title: Artist Yip Yew Chong Paints His Story in History
       subtitle: PODCAST
