@@ -26,7 +26,7 @@ sections:
       button: Naming Singapore's streets
       url: places-and-buildings/2024/1/singapore-street-names-victor-savage/
       image: /images/Online Only Articles/Interview with Victor
-        Savage/victor_savage.png
+        Savage/victor_savage_5184x3456px.jpg
       alt: Victor savage
   - infopic:
       title: Growing Food in a Garden City
