@@ -26,7 +26,7 @@ sections:
       button: Naming Singapore's streets
       url: places-and-buildings/2024/1/singapore-street-names-victor-savage/
       image: /images/Online Only Articles/Interview with Victor
-        Savage/victor_savage.png
+        Savage/victor_savage_5184x3456px.jpg
       alt: Victor savage
   - infopic:
       title: Growing Food in a Garden City
@@ -46,7 +46,7 @@ sections:
         history, memory and nostalgia.
       button: LISTEN TO BIBLIOASIA+
       url: /podcast/yip-yew-chong/
-      image: /images/Podcast/audiogram_yew_chong.jpg
+      image: /images/Podcast/YC_painting_3.jpg
       alt: Image alt text
   - infopic:
       title: Photo Studios During the Japanese Occupation
