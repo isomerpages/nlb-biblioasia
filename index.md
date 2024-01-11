@@ -46,7 +46,7 @@ sections:
         history, memory and nostalgia.
       button: LISTEN TO BIBLIOASIA+
       url: /podcast/yip-yew-chong/
-      image: /images/Podcast/YCpainting2.JPG
+      image: /images/Podcast/YC_painting_3.jpg
       alt: Image alt text
   - infopic:
       title: Photo Studios During the Japanese Occupation
