@@ -75,6 +75,18 @@ Safe-distancing configurations ranged from basic to elaborate, and some even res
 
 The collection includes photographs from InstaSG, a community of Singapore Instagram photographers. InstaSG, which runs regular photo competitions where entries are submitted via hashtags, organised an open call in March 2021 for photographs documenting life in Singapore during the pandemic. Their established panel of judges, which includes professional photographers, shortlisted about 100 best entries and these were contributed to NL.
 
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/workers.jpg)
+<div style="background-color: white;">“Workers in nearby offices pack their lunch back to their office, 8 Jun 2020. Singapore is in phase one after circuit breaker and eating out is still not allowed.” <i>Contributed by Gavin Foo as part of InstaSG’s photo competition.</i></div>
+
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/dedicationsd.jpg)
+<div style="background-color: white;">“Appreciating the dedication shown by these safe distancing ambassadors keeping our Covid-19 cases as low as possible. They ensure that no one walks around without masks or intermingling at almost every corner of our country come rain or shine.” <i>Contributed by Gavin Foo as part of InstaSG’s photo competition.</i></div>
+
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/adapting.jpg)
+<div style="background-color: white;">“Uncles in Chinatown adapting to the new normal.” <i>Contributed by Dennis Fajardo as part of InstaSG’s photo competition.</i></div>
+
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Festival.jpg)
+<div style="background-color: white;">“The Nine Emperor Gods Festival was a much subdued affair in 2020. The finale at East Coast Beach had many restrictions with safe distancing and masks wearing strictly enforced.” <i>Contributed by William Ong as part of InstaSG’s photo competition.</i></div>
+
 
 #### **“Singapore Makan” and “Young Singapore”**
 
