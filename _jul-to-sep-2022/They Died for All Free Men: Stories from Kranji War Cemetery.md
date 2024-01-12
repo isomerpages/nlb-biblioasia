@@ -15,6 +15,9 @@ It was shortly after 4 am on 8 December 1941 when 17 Japanese naval bombers took
 
 That air raid claimed 61 lives and injured 133. Among those who died was Corporal Raymond Lee Kim Teck of the Straits Settlements Volunteer Force. His remains (plot 36, row E, headstone 12) rest among the graves of other Commonwealth casualties from the war on the tranquil grounds of the Kranji War Cemetery.[^2]
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/watch?v=-LwBu7HDNwU" frameborder="0" allowfullscreen=""></iframe></div> 
+
+
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
 <b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/kranji-war-cemetery/">Lest We Forget: Kranji War Cemetery</a>"</b>
 <br> 
