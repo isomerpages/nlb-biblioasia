@@ -102,9 +102,17 @@ In the second phase, a call to collect materials from the general public relatin
 
 Social media has greatly changed and shaped the food and dining scene in Singapore.[^1] Set up in 2021, the HappyCat.黑皮猫 YouTube channel creates behind-the-scenes videos documenting popular hawkers and their food.[^2]
 
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/playlist.jpg)
+<div style="background-color: white;">Videos from the HappyCat.黑皮猫 YouTube channel were contributed to “Singapore Makan”.</div>
+
+
 The channel contributed 25 of their most popular videos to the initiative. These include a Michelin Bib Gourmand 2019 awardee, Koh Brother Pig’s Organ Soup (Teochew-style clear soup boiled from pig bones, offal and preserved mustard vegetables), established in 1955, and another Michelin-recommended stall, the Tiong Bahru Lien Fa Shui Jin Pau (dumplings with jade-like skin resembling crystal and come in three types of savoury fillings – red bean, yam and turnip), established in 1961. These videos fill gaps in the documentation of our food heritage, focusing on famous stalls and well-loved dishes that we are familiar with today before they may be gone for good.
 
 Tekka Online Market (now closed) was an e-commerce platform for shoppers to order their products online from one of Singapore’s oldest wet markets.[^3] It was created by the Infocomm Media Development Authority and creative agency BLKJ so that “shop owners and customers can find new – and safer – ways of doing things during the circuit breaker period”.[^4]
+
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Web.jpg)
+<div style="background-color: white;">Tekka Online Market’s website was contributed to “Singapore Makan”.</div>
+
 
 As lockdown measures limited the number of people and the number of times people were allowed to visit wet markets, businesses in these markets were affected. The website and a promotional video were collected, capturing how groceries were purchased and sold online during the Covid-19 pandemic.&nbsp; &nbsp;
 
@@ -114,7 +122,15 @@ The study of contemporary youth culture is an emerging and ever-evolving topic. 
 
 Sam See is an internationally known stand-up comedian who has participated in multiple international comedy festivals, including the Edinburgh Festival Fringe in 2022. His show, _Government Approved Sex_, was listed by _Fest Magazine_ as one of “The Best of the Edinburgh Festivals”.[^5] He has been featured on Comedy Central Asia’s _Stand-up Asia_ and Singapore’s comedy panel show _Ok Chope!_.[^6] His Instagram account, website, posters, manuscripts and performing materials were contributed to “Young Singapore”.&nbsp;
 
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Instagram.jpg)
+<div style="background-color: white;">Sam See’s Instagram account, manuscripts, performing materials, posters and documents about his shows were contributed to “Young Singapore”.</div>
+
+
 Kevin Martens Wong founded Kodrah Kristang (Awaken, Kristang) in 2016 to revitalise the endangered Kristang language – which is spoken by people of mixed Portuguese and Malay ancestry – through language classes, the Kristang Language Festival, an English-Kristang board game and an online dictionary.[^7] Wong was the 2017 recipient of both the President’s Volunteer and Philanthropy Award (Individual, Youth) and the Lee Hsien Loong Award for Outstanding All-Round Achievement.[^8] His websites (Kodrah Kristang and Merlionsman) and Facebook account were contributed to “Young Singapore” , and are representative of heritage initiatives that have gone online to do their part in preserving Singapore’s history. &nbsp;
+
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/socialmedia.jpg)
+<div style="background-color: white;">Kevin Martens Wong’s websites and Facebook account were contributed to “Young Singapore”.</div>
+
 
 #### **Contributing to Contemporary Collecting**
 
