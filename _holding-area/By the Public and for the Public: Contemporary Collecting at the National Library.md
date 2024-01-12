@@ -46,9 +46,20 @@ Yvonne Cheng and her husband welcomed their first child during the circuit break
 
 Through these photographs, Muhammad Farhan Osman provided an intimate glimpse of how his family celebrated Hari Raya Puasa on 24 May 2020 during the circuit breaker. Due to the ban on gatherings with family or friends who do not live together, Muslims took to video conferencing apps such as Zoom to connect and celebrate virtually with loved ones. The communal prayer calls (_takbir_) and a live sermon were also broadcasted over radio and online channels such as YouTube and the Facebook pages of the Islamic Religious Council of Singapore (Muis) and local mosques.
 
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Zoom.jpg)
+<div style="background-color: white;">Muhammad Farhan Osman and his family used Zoom to connect with relatives, friends and the wider community during Hari Raya Puasa in 2020. <i>Photos contributed by Muhammad Farhan Osman.</i></div>
+
+
 The collection also features stories and photographs of those working on the frontlines to keep Singapore safe, as well as individuals whose acts of charity and kindness made a difference in the community.&nbsp;
 
 Dr Shyamala Thilagaratnam – who is also an avid photographer – and her team at the Health Promotion Board organised and implemented swab operations at migrant worker dormitories. The photos that she contributed formed part of a photo essay titled “Covid Chronicles”. Oliver Guo and Amanda Chua are active volunteers who gathered their family and friends to sew transparent face masks using fabric donated by CYC Tailors. Unlike opaque masks, these clear ones facilitate better communication as they allow lip-reading by those who may be deaf or hard-of-hearing.
+
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Swab.jpg)
+<div style="background-color: white;"> Administering swab tests at a migrant worker dormitory, 23 April 2020. This photo forms part of a photo essay titled “Covid Chronicles”. <i>Photo contributed by Dr Shyamala Thilagaratnam.</i></div>
+
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/sewing.jpg)
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/transparentmask.jpg)
+<div style="background-color: white;">The pandemic brought massive disruptions to international travel. These scenes of Singapore’s Changi Airport devoid of its usual bustle were captured on 28 March 2020. <i>Photos contributed by Tan Yong Lin.</i></div>
 
 A highlight of the collection drive included a substantial contribution from artist and independent curator Berny Tan. She shared some 640 photographs&nbsp; taken of safe-distancing markers around Singapore between March and August 2020. These represent the earliest, most conspicuous and widespread change in the landscape as coloured sticky strips were stuck to floors, and hazard tape draped over structures and furniture to demarcate where people should queue or sit.&nbsp;
 
