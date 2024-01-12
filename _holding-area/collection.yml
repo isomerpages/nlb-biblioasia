@@ -2,6 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - "By the Public and for the Public: Contemporary Collecting at the
+        National Library.md"
       - Example Title.md
       - Testing My Skills.md
       - Test2.md
