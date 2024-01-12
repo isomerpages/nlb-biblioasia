@@ -33,3 +33,50 @@ More than 5,700 items were received, mainly digital photographs accompanied by b
 There were also shared snapshots of daily life reflecting how people adapted to the restrictions, how they found creative ways to spend time at home, and how they kept in touch with family and friends. Notably, the submissions also covered how the pandemic affected festive celebrations and important events such as weddings and births.&nbsp;
 
 Yvonne Cheng and her husband welcomed their first child during the circuit breaker in May 2020. Cheng wote: “In doing our part to stay safe and stay home, even my husband’s mother (a first-time grandma) couldn’t visit and cuddle with him. The postpartum period has always been a time when family and emotional support are important, yet we can only connect virtually and be there for one another in a very different way than we have imagined.”
+
+Through these photographs, Muhammad Farhan Osman provided an intimate glimpse of how his family celebrated Hari Raya Puasa on 24 May 2020 during the circuit breaker. Due to the ban on gatherings with family or friends who do not live together, Muslims took to video conferencing apps such as Zoom to connect and celebrate virtually with loved ones. The communal prayer calls (_takbir_) and a live sermon were also broadcasted over radio and online channels such as YouTube and the Facebook pages of the Islamic Religious Council of Singapore (Muis) and local mosques.
+
+The collection also features stories and photographs of those working on the frontlines to keep Singapore safe, as well as individuals whose acts of charity and kindness made a difference in the community.&nbsp;
+
+Dr Shyamala Thilagaratnam – who is also an avid photographer – and her team at the Health Promotion Board organised and implemented swab operations at migrant worker dormitories. The photos that she contributed formed part of a photo essay titled “Covid Chronicles”. Oliver Guo and Amanda Chua are active volunteers who gathered their family and friends to sew transparent face masks using fabric donated by CYC Tailors. Unlike opaque masks, these clear ones facilitate better communication as they allow lip-reading by those who may be deaf or hard-of-hearing.
+
+A highlight of the collection drive included a substantial contribution from artist and independent curator Berny Tan. She shared some 640 photographs&nbsp; taken of safe-distancing markers around Singapore between March and August 2020. These represent the earliest, most conspicuous and widespread change in the landscape as coloured sticky strips were stuck to floors, and hazard tape draped over structures and furniture to demarcate where people should queue or sit.&nbsp;
+
+Safe-distancing configurations ranged from basic to elaborate, and some even resembled artworks. Over time, these bore the signs of wear and tear, and depending on the severity of the restrictions, the markings were maintained, adjusted, removed and applied anew. Tan’s contributions helped to capture the ephemeral nature of safe-distancing markers – once a ubiquitous feature of life during the pandemic.
+
+The collection includes photographs from InstaSG, a community of Singapore Instagram photographers. InstaSG, which runs regular photo competitions where entries are submitted via hashtags, organised an open call in March 2021 for photographs documenting life in Singapore during the pandemic. Their established panel of judges, which includes professional photographers, shortlisted about 100 best entries and these were contributed to NL.
+
+
+#### **“Singapore Makan” and “Young Singapore”**
+
+With the success of “Documenting Covid-19 in Singapore”, NL recently launched a new collecting project focusing on local food and youth culture, titled “Singapore Makan” and “Young Singapore” respectively, in 2023.&nbsp;
+
+This two-year project aims to collect photographs, videos, social media accounts, websites, publications, posters, manuscripts and more to capture the changing food and youth culture landscape in present-day Singapore for future generations.&nbsp; &nbsp;
+
+Phase one of the project in January 2023 targeted personalities and organisations in the food and culinary industry, such as wet market stall holders, heritage food bloggers, private fine-dining chefs and home-based cooks, as well as youths who are active in the heritage, arts and sustainability sectors. These personalities and organisations were identified for their unique services/products or the significant contributions they have made to the respective sector.&nbsp;
+
+In the second phase, a call to collect materials from the general public relating to the local food and youth culture was issued in October 2023. People could send in their contributions via the new crowdsourcing portal, “Singapore Memories: Documenting Our Stories Together”.
+
+#### **Highlights from “Singapore Makan”**&nbsp;
+
+Social media has greatly changed and shaped the food and dining scene in Singapore.1 Set up in 2021, the HappyCat.붚튄챔 YouTube channel creates behind-the-scenes videos documenting popular hawkers and their food.2
+
+The channel contributed 25 of their most popular videos to the initiative. These include a Michelin Bib Gourmand 2019 awardee, Koh Brother Pig’s Organ Soup (Teochew-style clear soup boiled from pig bones, offal and preserved mustard vegetables), established in 1955, and another Michelin-recommended stall, the Tiong Bahru Lien Fa Shui Jin Pau (dumplings with jade-like skin resembling crystal and come in three types of savoury fillings – red bean, yam and turnip), established in 1961. These videos fill gaps in the documentation of our food heritage, focusing on famous stalls and well-loved dishes that we are familiar with today before they may be gone for good.
+
+Tekka Online Market (now closed) was an e-commerce platform for shoppers to order their products online from one of Singapore’s oldest wet markets.3 It was created by the Infocomm Media Development Authority and creative agency BLKJ so that “shop owners and customers can find new – and safer – ways of doing things during the circuit breaker period”.4
+
+As lockdown measures limited the number of people and the number of times people were allowed to visit wet markets, businesses in these markets were affected. The website and a promotional video were collected, capturing how groceries were purchased and sold online during the Covid-19 pandemic.&nbsp; &nbsp;
+
+**Highlights from “Young Singapore”**
+
+The study of contemporary youth culture is an emerging and ever-evolving topic. It is transient and ephemeral with every generation having its own culture. Sam See and Kevin Martens Wong are part of a new generation of youths who are actively leveraging social media to promote their causes and their work.&nbsp;
+
+Sam See is an internationally known stand-up comedian who has participated in multiple international comedy festivals, including the Edinburgh Festival Fringe in 2022. His show, _Government Approved Sex_, was listed by _Fest Magazine_ as one of “The Best of the Edinburgh Festivals”.5 He has been featured on Comedy Central Asia’s _Stand-up Asia_ and Singapore’s comedy panel show _Ok Chope!_.6 His Instagram account, website, posters, manuscripts and performing materials were contributed to “Young Singapore”.&nbsp;
+
+Kevin Martens Wong founded Kodrah Kristang (Awaken, Kristang) in 2016 to revitalise the endangered Kristang language – which is spoken by people of mixed Portuguese and Malay ancestry – through language classes, the Kristang Language Festival, an English-Kristang board game and an online dictionary.7 Wong was the 2017 recipient of both the President’s Volunteer and Philanthropy Award (Individual, Youth) and the Lee Hsien Loong Award for Outstanding All-Round Achievement.8 His websites (Kodrah Kristang and Merlionsman) and Facebook account were contributed to “Young Singapore” , and are representative of heritage initiatives that have gone online to do their part in preserving Singapore’s history. &nbsp;
+
+Contributing to Contemporary Collecting
+
+The National Library welcomes everyone to be a part of the Contemporary Collecting initiative to preserve a slice of contemporary Singapore.&nbsp;
+
+If you want to contribute something regarding youth culture or food, you may submit documentary materials that you own or created through the portal, “Singapore Memories: Documenting Our Stories Together” (http://www.singaporememories.gov.sg/). You may also nominate websites and content by contacting us at contemporary\_collecting@nlb.gov.sg. Selected materials will be added into our national collection for preservation and research purposes.
