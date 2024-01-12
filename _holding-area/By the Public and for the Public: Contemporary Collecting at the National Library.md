@@ -59,11 +59,11 @@ In the second phase, a call to collect materials from the general public relatin
 
 #### **Highlights from “Singapore Makan”**&nbsp;
 
-Social media has greatly changed and shaped the food and dining scene in Singapore.1 Set up in 2021, the HappyCat.붚튄챔 YouTube channel creates behind-the-scenes videos documenting popular hawkers and their food.2
+Social media has greatly changed and shaped the food and dining scene in Singapore.[^1] Set up in 2021, the HappyCat.黑皮猫 YouTube channel creates behind-the-scenes videos documenting popular hawkers and their food.[^2]
 
 The channel contributed 25 of their most popular videos to the initiative. These include a Michelin Bib Gourmand 2019 awardee, Koh Brother Pig’s Organ Soup (Teochew-style clear soup boiled from pig bones, offal and preserved mustard vegetables), established in 1955, and another Michelin-recommended stall, the Tiong Bahru Lien Fa Shui Jin Pau (dumplings with jade-like skin resembling crystal and come in three types of savoury fillings – red bean, yam and turnip), established in 1961. These videos fill gaps in the documentation of our food heritage, focusing on famous stalls and well-loved dishes that we are familiar with today before they may be gone for good.
 
-Tekka Online Market (now closed) was an e-commerce platform for shoppers to order their products online from one of Singapore’s oldest wet markets.3 It was created by the Infocomm Media Development Authority and creative agency BLKJ so that “shop owners and customers can find new – and safer – ways of doing things during the circuit breaker period”.4
+Tekka Online Market (now closed) was an e-commerce platform for shoppers to order their products online from one of Singapore’s oldest wet markets.[^3] It was created by the Infocomm Media Development Authority and creative agency BLKJ so that “shop owners and customers can find new – and safer – ways of doing things during the circuit breaker period”.[^4]
 
 As lockdown measures limited the number of people and the number of times people were allowed to visit wet markets, businesses in these markets were affected. The website and a promotional video were collected, capturing how groceries were purchased and sold online during the Covid-19 pandemic.&nbsp; &nbsp;
 
@@ -71,12 +71,42 @@ As lockdown measures limited the number of people and the number of times people
 
 The study of contemporary youth culture is an emerging and ever-evolving topic. It is transient and ephemeral with every generation having its own culture. Sam See and Kevin Martens Wong are part of a new generation of youths who are actively leveraging social media to promote their causes and their work.&nbsp;
 
-Sam See is an internationally known stand-up comedian who has participated in multiple international comedy festivals, including the Edinburgh Festival Fringe in 2022. His show, _Government Approved Sex_, was listed by _Fest Magazine_ as one of “The Best of the Edinburgh Festivals”.5 He has been featured on Comedy Central Asia’s _Stand-up Asia_ and Singapore’s comedy panel show _Ok Chope!_.6 His Instagram account, website, posters, manuscripts and performing materials were contributed to “Young Singapore”.&nbsp;
+Sam See is an internationally known stand-up comedian who has participated in multiple international comedy festivals, including the Edinburgh Festival Fringe in 2022. His show, _Government Approved Sex_, was listed by _Fest Magazine_ as one of “The Best of the Edinburgh Festivals”.[^5] He has been featured on Comedy Central Asia’s _Stand-up Asia_ and Singapore’s comedy panel show _Ok Chope!_.[^6] His Instagram account, website, posters, manuscripts and performing materials were contributed to “Young Singapore”.&nbsp;
 
-Kevin Martens Wong founded Kodrah Kristang (Awaken, Kristang) in 2016 to revitalise the endangered Kristang language – which is spoken by people of mixed Portuguese and Malay ancestry – through language classes, the Kristang Language Festival, an English-Kristang board game and an online dictionary.7 Wong was the 2017 recipient of both the President’s Volunteer and Philanthropy Award (Individual, Youth) and the Lee Hsien Loong Award for Outstanding All-Round Achievement.8 His websites (Kodrah Kristang and Merlionsman) and Facebook account were contributed to “Young Singapore” , and are representative of heritage initiatives that have gone online to do their part in preserving Singapore’s history. &nbsp;
+Kevin Martens Wong founded Kodrah Kristang (Awaken, Kristang) in 2016 to revitalise the endangered Kristang language – which is spoken by people of mixed Portuguese and Malay ancestry – through language classes, the Kristang Language Festival, an English-Kristang board game and an online dictionary.[^7] Wong was the 2017 recipient of both the President’s Volunteer and Philanthropy Award (Individual, Youth) and the Lee Hsien Loong Award for Outstanding All-Round Achievement.[^8] His websites (Kodrah Kristang and Merlionsman) and Facebook account were contributed to “Young Singapore” , and are representative of heritage initiatives that have gone online to do their part in preserving Singapore’s history. &nbsp;
 
-Contributing to Contemporary Collecting
+#### **Contributing to Contemporary Collecting**
 
 The National Library welcomes everyone to be a part of the Contemporary Collecting initiative to preserve a slice of contemporary Singapore.&nbsp;
 
 If you want to contribute something regarding youth culture or food, you may submit documentary materials that you own or created through the portal, “Singapore Memories: Documenting Our Stories Together” (http://www.singaporememories.gov.sg/). You may also nominate websites and content by contacting us at contemporary\_collecting@nlb.gov.sg. Selected materials will be added into our national collection for preservation and research purposes.
+
+
+
+<div style="background-color: white;">
+<br>
+	<img src="/images/Authors/mark%20wong.png" style="width: 100px; height: 100px;">
+	<b>Mark Wong</b> is an Assistant Director/Senior Specialist (Oral History) with the Oral History Centre at the National Archives of Singapore, where he leads the oral history project on Singapore’s experiences with COVID-19. He is a Council Member and Regional Representative (Asia) of the International Oral History Association.</div>
+
+<div style="background-color: white;">
+<br>
+	<img src="/images/Authors/jamie%20lee.png" style="width: 100px; height: 100px;">
+	<b>Jamie Lee</b> is an Assistant Archivist with the Audio Visual Archives Department, National Archives of Singapore. A lifelong advocate of the moving image, she works to connect Singaporeans with their audiovisual heritage by curating records and their metadata. She is currently completing her Master’s in Library and Information Science specialising in Archival Studies at the University of Wisconsin-Milwaukee.</div>
+
+#### **NOTES**
+
+[^1]:  
+
+[^2]:  
+
+[^3]:  
+
+[^4]:  
+
+[^5]:  
+
+[^6]:  
+
+[^7]:  
+
+[^8]:  
