@@ -58,10 +58,15 @@ Dr Shyamala Thilagaratnam – who is also an avid photographer – and her team 
 <div style="background-color: white;"> Administering swab tests at a migrant worker dormitory, 23 April 2020. This photo forms part of a photo essay titled “Covid Chronicles”. <i>Photo contributed by Dr Shyamala Thilagaratnam.</i></div>
 
 ![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/sewing.jpg)
+<div style="background-color: white;"> Amanda Chua (left), Oliver Guo (middle) and Oliver’s mother, Cheong Yoke Fong, sewing the masks, 2020. <i>Photo contributed by Oliver Guo and Amanda Chua.</i></div>
+
 ![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/transparentmask.jpg)
 <div style="background-color: white;">The pandemic brought massive disruptions to international travel. These scenes of Singapore’s Changi Airport devoid of its usual bustle were captured on 28 March 2020. <i>Photos contributed by Tan Yong Lin.</i></div>
 
 A highlight of the collection drive included a substantial contribution from artist and independent curator Berny Tan. She shared some 640 photographs&nbsp; taken of safe-distancing markers around Singapore between March and August 2020. These represent the earliest, most conspicuous and widespread change in the landscape as coloured sticky strips were stuck to floors, and hazard tape draped over structures and furniture to demarcate where people should queue or sit.&nbsp;
+
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/voiddeck.jpg)
+<div style="background-color: white;"> Community facilities in the void decks of Housing and Development Board flats were cordoned off with tape as part of measures to contain the spread of the virus (left). Red sticky tape and decals were used to mark out where people should queue in a local eatery (right). <i>Photos contributed by Berny Tan.</i></div>
 
 Safe-distancing configurations ranged from basic to elaborate, and some even resembled artworks. Over time, these bore the signs of wear and tear, and depending on the severity of the restrictions, the markings were maintained, adjusted, removed and applied anew. Tan’s contributions helped to capture the ephemeral nature of safe-distancing markers – once a ubiquitous feature of life during the pandemic.
 
