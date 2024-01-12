@@ -6,10 +6,10 @@ variant: markdown
 description: Singapore’s National Library is hard at work collecting new forms
   of documentary materials today for the sake of future generations.
 ---
-#### Although Talentime has been replaced by reality talent contests, it will be remembered as a show that launched the musical careers of many Singaporeans.
-By Jamie Lee and Mark Wong
+#### Singapore’s National Library is hard at work collecting new forms of documentary materials today for the sake of future generations.
+By Janice Loo and Lee Meiyu
 
-![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo1.png)
+![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo1/.png)
 <div style="background-color: white;">The pandemic brought massive disruptions to international travel. These scenes of Singapore’s Changi Airport devoid of its usual bustle were captured on 28 March 2020. <i>Photos contributed by Tan Yong Lin.</i></div>
    
 To&nbsp;put together an account of the past, historians typically go through things like manuscripts, letters, diaries, memoirs, documents and photographs. These primary sources provide the raw material from which historians reconstruct the past, which is why these items are carefully preserved by libraries, archives and museums all over the world.&nbsp; &nbsp;
