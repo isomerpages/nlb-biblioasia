@@ -85,13 +85,13 @@ If you want to contribute something regarding youth culture or food, you may sub
 
 <div style="background-color: white;">
 <br>
-	<img src="/images/Authors/mark%20wong.png" style="width: 100px; height: 100px;">
-	<b>Mark Wong</b> is an Assistant Director/Senior Specialist (Oral History) with the Oral History Centre at the National Archives of Singapore, where he leads the oral history project on Singapore’s experiences with COVID-19. He is a Council Member and Regional Representative (Asia) of the International Oral History Association.</div>
+	<img src="/images/Authors/mark%20wong/.png" style="width: 100px; height: 100px;">
+	<b>Janice Loo</b> is a Librarian with the National Library, Singapore. She is part of the team that looks after the Singapore and Southeast Asia Collection, and Rare Materials Collection. Her work includes collection development, content creation, as well as research and reference assistance on topics relating to Singapore and the region.</div>
 
 <div style="background-color: white;">
 <br>
-	<img src="/images/Authors/jamie%20lee.png" style="width: 100px; height: 100px;">
-	<b>Jamie Lee</b> is an Assistant Archivist with the Audio Visual Archives Department, National Archives of Singapore. A lifelong advocate of the moving image, she works to connect Singaporeans with their audiovisual heritage by curating records and their metadata. She is currently completing her Master’s in Library and Information Science specialising in Archival Studies at the University of Wisconsin-Milwaukee.</div>
+	<img src="/images/Authors/jamie%20lee/.png" style="width: 100px; height: 100px;">
+	<b>Lee Meiyu</b> is a Senior Manager with the National Library Board. She manages the statutory functions of the National Library Singapore, including its Legal Deposit Collection.</div>
 
 #### **NOTES**
 
