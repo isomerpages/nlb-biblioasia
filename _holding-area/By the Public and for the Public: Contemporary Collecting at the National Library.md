@@ -40,6 +40,10 @@ There were also shared snapshots of daily life reflecting how people adapted to 
 
 Yvonne Cheng and her husband welcomed their first child during the circuit breaker in May 2020. Cheng wote: “In doing our part to stay safe and stay home, even my husband’s mother (a first-time grandma) couldn’t visit and cuddle with him. The postpartum period has always been a time when family and emotional support are important, yet we can only connect virtually and be there for one another in a very different way than we have imagined.”
 
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/yvonne.jpg)
+<div style="background-color: white;"> Yvonne Cheng and her husband with their newborn, 14 May 2020. <i>Photo contributed by Yvonne Cheng.</i></div>
+
+
 Through these photographs, Muhammad Farhan Osman provided an intimate glimpse of how his family celebrated Hari Raya Puasa on 24 May 2020 during the circuit breaker. Due to the ban on gatherings with family or friends who do not live together, Muslims took to video conferencing apps such as Zoom to connect and celebrate virtually with loved ones. The communal prayer calls (_takbir_) and a live sermon were also broadcasted over radio and online channels such as YouTube and the Facebook pages of the Islamic Religious Council of Singapore (Muis) and local mosques.
 
 The collection also features stories and photographs of those working on the frontlines to keep Singapore safe, as well as individuals whose acts of charity and kindness made a difference in the community.&nbsp;
