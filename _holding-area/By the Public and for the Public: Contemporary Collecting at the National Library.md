@@ -95,18 +95,18 @@ If you want to contribute something regarding youth culture or food, you may sub
 
 #### **NOTES**
 
-[^1]:  
+[^1]: “Over Half of Singaporeans Rely on Social Media to Discover New Restaurants: Study,” SevenRooms, 18 June 2023, https://sevenrooms.com/en/press/over-half-of-singaporeans-rely-on-social-media-to-discover-new-restaurants/.
 
-[^2]:  
+[^2]: HappyCat.黑皮猫, “About”, YouTube, last accessed 16 December 2023, https://www.youtube.com/@HappyCat./about.
 
-[^3]:  
+[^3]: “Tekka Online Market,” BLKJ, 1 November 2023, https://www.blkjhavas.agency/tekkaonlinemarket.
 
-[^4]:  
+[^4]: Audrey Tan, “Coronavirus: Wet Market Stalls Go Online to Accommodate Shoppers During Circuit Breaker,” _Straits Times_, 3 May 2020, https://www.straitstimes.com/singapore/health/coronavirus-wet-market-stalls-go-online-to-accommodate-shoppers-during-circuit.
 
-[^5]:  
+[^5]: “The Best of the 2022 Edinburgh Festivals,” _Fest Magazine_, 26 August 2022, https://www.festmag.com/edinburgh/features/the-best-of-the-2022-edinburgh-festivals.
 
-[^6]:  
+[^6]: “About,” Mr Sam See, last accessed 16 December 2023, https://www.mrsamsee.com/.
 
-[^7]:  
+[^7]: Hashirin Nurin Hashimi, “5 Minutes With... Kevin Martens Wong, Founder of Kodrah Kristang,” _Tatler_, 26 August 2019, https://www.tatlerasia.com/the-scene/people-parties/5-minutes-with-kevin-martens-wong-director-of-kodra-kristang.
 
-[^8]:  
+[^8]: Cheow Sue-Ann, “8 Individuals and Organisations Win President’s Volunteerism and Philanthropy Awards,” _Straits Times_, 29 November 2017, https://www.straitstimes.com/singapore/8-individuals-and-organisations-win-presidents-volunteerism-and-philanthropy-awards; Ministry of Education, “Lee Hsien Loong Award for Outstanding All-Round Achievement,” 2017, https://www.moe.gov.sg/-/media/files/news/press/2017/annex-b---special-awards-2017.pdf.
