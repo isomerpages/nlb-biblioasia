@@ -57,7 +57,7 @@ Phase one of the project in January 2023 targeted personalities and organisation
 
 In the second phase, a call to collect materials from the general public relating to the local food and youth culture was issued in October 2023. People could send in their contributions via the new crowdsourcing portal, “Singapore Memories: Documenting Our Stories Together”.
 
-#### **Highlights from “Singapore Makan”**&nbsp;
+**Highlights from “Singapore Makan”**&nbsp;
 
 Social media has greatly changed and shaped the food and dining scene in Singapore.[^1] Set up in 2021, the HappyCat.黑皮猫 YouTube channel creates behind-the-scenes videos documenting popular hawkers and their food.[^2]
 
