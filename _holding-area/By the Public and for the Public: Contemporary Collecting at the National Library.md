@@ -9,7 +9,8 @@ description: Singapore’s National Library is hard at work collecting new forms
 #### Singapore’s National Library is hard at work collecting new forms of documentary materials today for the sake of future generations.
 By Janice Loo and Lee Meiyu
 
-![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo1/.png)
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/facingpage.jpg)
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Airport1.jpg)
 <div style="background-color: white;">The pandemic brought massive disruptions to international travel. These scenes of Singapore’s Changi Airport devoid of its usual bustle were captured on 28 March 2020. <i>Photos contributed by Tan Yong Lin.</i></div>
    
 To&nbsp;put together an account of the past, historians typically go through things like manuscripts, letters, diaries, memoirs, documents and photographs. These primary sources provide the raw material from which historians reconstruct the past, which is why these items are carefully preserved by libraries, archives and museums all over the world.&nbsp; &nbsp;
@@ -26,9 +27,14 @@ The value of contemporary collecting can be readily appreciated through the Nati
 
 Singapore saw its first case of Covid-19 on 23 January 2020, marking the start of stringent measures to contain the spread of the disease. Between 7 April and 1 June, the government imposed a “circuit breaker” period to pre-empt further transmissions. Schools, offices and most retail outlets were closed, and social gatherings prohibited.
 
-To record and document the impact of&nbsp; Covid-19 on everyday life, NL partnered with the National Museum of Singapore on a project called “Documenting&nbsp; Covid-19 in Singapore” from 22 May 2020 to 30 June 2021. This was a collection drive for the public to contribute photographs, personal stories, videos, ephemera, web material and objects on their experiences during the pandemic.
+To record and document the impact of&nbsp;Covid-19 on everyday life, NL partnered with the National Museum of Singapore on a project called “Documenting&nbsp; Covid-19 in Singapore” from 22 May 2020 to 30 June 2021. This was a collection drive for the public to contribute photographs, personal stories, videos, ephemera, web material and objects on their experiences during the pandemic.
 
 More than 5,700 items were received, mainly digital photographs accompanied by brief descriptions or personal anecdotes, from some 470 individuals and organisations. It was timely to launch the collection drive during the partial lockdown as it enabled people to record and contribute scenes that were unique to that moment. There were many photographs depicting changes that people observed around them, such as shuttered retail shops and restaurants, deserted streets, and empty buses and trains, as well as the appearance of safe-distancing markers to guide people to keep at least one metre from each other to reduce the risk of virus transmission.&nbsp;
+
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Bus1.jpg)
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Bus2.jpg)
+<div style="background-color: white;"> Safe-distancing markers on a public bus, 9 May 2020 (top), and closure of the beach at East Coast Park, 27 April 2020 (bottom). These photos are part of a series about the circuit breaker titled “A Broken Circuit: Singapore Amidst&nbsp; Covid-19”. <i>Photos contributed by Sebastian Soong.</i></div>
+
 
 There were also shared snapshots of daily life reflecting how people adapted to the restrictions, how they found creative ways to spend time at home, and how they kept in touch with family and friends. Notably, the submissions also covered how the pandemic affected festive celebrations and important events such as weddings and births.&nbsp;
 
