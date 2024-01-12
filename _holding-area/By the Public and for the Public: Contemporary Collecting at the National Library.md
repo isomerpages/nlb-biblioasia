@@ -70,6 +70,9 @@ A highlight of the collection drive included a substantial contribution from art
 
 Safe-distancing configurations ranged from basic to elaborate, and some even resembled artworks. Over time, these bore the signs of wear and tear, and depending on the severity of the restrictions, the markings were maintained, adjusted, removed and applied anew. Tan’s contributions helped to capture the ephemeral nature of safe-distancing markers – once a ubiquitous feature of life during the pandemic.
 
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/safedistance.jpg)
+<div style="background-color: white;">Safe-distancing markers at the open-air plaza of the Star Vista mall. <i>Photos contributed by Berny Tan.</i></div>
+
 The collection includes photographs from InstaSG, a community of Singapore Instagram photographers. InstaSG, which runs regular photo competitions where entries are submitted via hashtags, organised an open call in March 2021 for photographs documenting life in Singapore during the pandemic. Their established panel of judges, which includes professional photographers, shortlisted about 100 best entries and these were contributed to NL.
 
 
