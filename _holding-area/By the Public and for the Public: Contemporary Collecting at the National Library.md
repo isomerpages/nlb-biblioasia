@@ -128,7 +128,7 @@ Sam See is an internationally known stand-up comedian who has participated in mu
 
 Kevin Martens Wong founded Kodrah Kristang (Awaken, Kristang) in 2016 to revitalise the endangered Kristang language – which is spoken by people of mixed Portuguese and Malay ancestry – through language classes, the Kristang Language Festival, an English-Kristang board game and an online dictionary.[^7] Wong was the 2017 recipient of both the President’s Volunteer and Philanthropy Award (Individual, Youth) and the Lee Hsien Loong Award for Outstanding All-Round Achievement.[^8] His websites (Kodrah Kristang and Merlionsman) and Facebook account were contributed to “Young Singapore” , and are representative of heritage initiatives that have gone online to do their part in preserving Singapore’s history. &nbsp;
 
-![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/socialmedia.jpg)
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/socialmedia2.jpg)
 <div style="background-color: white;">Kevin Martens Wong’s websites and Facebook account were contributed to “Young Singapore”.</div>
 
 
