@@ -65,7 +65,7 @@ Dr Shyamala Thilagaratnam – who is also an avid photographer – and her team 
 
 A highlight of the collection drive included a substantial contribution from artist and independent curator Berny Tan. She shared some 640 photographs&nbsp; taken of safe-distancing markers around Singapore between March and August 2020. These represent the earliest, most conspicuous and widespread change in the landscape as coloured sticky strips were stuck to floors, and hazard tape draped over structures and furniture to demarcate where people should queue or sit.&nbsp;
 
-![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/voiddeck.jpg)
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/voiddeck2.jpg)
 <div style="background-color: white;"> Community facilities in the void decks of Housing and Development Board flats were cordoned off with tape as part of measures to contain the spread of the virus (left). Red sticky tape and decals were used to mark out where people should queue in a local eatery (right). <i>Photos contributed by Berny Tan.</i></div>
 
 Safe-distancing configurations ranged from basic to elaborate, and some even resembled artworks. Over time, these bore the signs of wear and tear, and depending on the severity of the restrictions, the markings were maintained, adjusted, removed and applied anew. Tan’s contributions helped to capture the ephemeral nature of safe-distancing markers – once a ubiquitous feature of life during the pandemic.
@@ -79,7 +79,7 @@ The collection includes photographs from InstaSG, a community of Singapore Insta
 <div style="background-color: white;">“Workers in nearby offices pack their lunch back to their office, 8 Jun 2020. Singapore is in phase one after circuit breaker and eating out is still not allowed.” <i>Contributed by Gavin Foo as part of InstaSG’s photo competition.</i></div>
 
 ![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/dedicationsd.jpg)
-<div style="background-color: white;">“Appreciating the dedication shown by these safe distancing ambassadors keeping our Covid-19 cases as low as possible. They ensure that no one walks around without masks or intermingling at almost every corner of our country come rain or shine.” <i>Contributed by Gavin Foo as part of InstaSG’s photo competition.</i></div>
+<div style="background-color: white;">“Appreciating the dedication shown by these safe distancing ambassadors keeping our Covid-19 cases as low as possible. They ensure that no one walks around without masks or intermingling at almost every corner of our country come rain or shine.” <i>Photo contributed by Mohammad Izhar Md Razali as part of InstaSG’s photo competition</i></div>
 
 ![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/adapting.jpg)
 <div style="background-color: white;">“Uncles in Chinatown adapting to the new normal.” <i>Contributed by Dennis Fajardo as part of InstaSG’s photo competition.</i></div>
