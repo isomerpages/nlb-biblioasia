@@ -102,7 +102,7 @@ In the second phase, a call to collect materials from the general public relatin
 
 Social media has greatly changed and shaped the food and dining scene in Singapore.[^1] Set up in 2021, the HappyCat.黑皮猫 YouTube channel creates behind-the-scenes videos documenting popular hawkers and their food.[^2]
 
-![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/playlist.jpg)
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/playlist2.jpg)
 <div style="background-color: white;">Videos from the HappyCat.黑皮猫 YouTube channel were contributed to “Singapore Makan”.</div>
 
 
