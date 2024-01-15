@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/
-      button: Revisiting the Mystery of the Missing Gold Coins
+      url: /vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/
+      button: Malaya Cup Heroes
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 3/8 Gold Coins/missinggoldcoins_hero_img2.jpg
+      background: /images/MalayaCup_Hero_img.jpg
   - infopic:
       title: Interview with Victor Savage
       subtitle: more places and Buildings
