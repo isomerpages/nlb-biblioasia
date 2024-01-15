@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Joseph Conrad’s Singapore.md
       - "By the Public and for the Public: Contemporary Collecting at the
         National Library.md"
       - Example Title.md
