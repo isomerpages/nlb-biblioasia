@@ -25,6 +25,7 @@ sections:
       url: vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/
       alt: Image alt text
       button: collecting for posterity
+      image: /images/Contemporary_collecting__10_.JPG
   - infopic:
       title: Interview with Victor Savage
       subtitle: more places and Buildings
