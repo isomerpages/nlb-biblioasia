@@ -17,7 +17,7 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/MalayaCup_Hero_img.jpg
   - infopic:
-      title: By the Public and for the Publicic
+      title: By the Public and for the Public
       subtitle: Collection Highlights
       id: infopic
       description: Singapore’s National Library is hard at work collecting new forms
