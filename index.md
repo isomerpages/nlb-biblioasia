@@ -1042,4 +1042,12 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Contemporary Collecting at the National Library
+      subtitle: Collection Highlights
+      id: infopic
+      description: Singapore’s National Library is hard at work collecting new forms
+        of documentary materials today for the sake of future generations.
+      url: vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/
+      alt: Image alt text
 ---
