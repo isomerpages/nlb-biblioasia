@@ -98,7 +98,7 @@ These characters and places eventually end up populating _Almayer’s Folly_, Co
 <div style="background-color: white;">
 <br>
 	<img src="/images/Authors/Lee_Meiyu.png" style="width: 100px; height: 100px;">
-	<b>Ian Burnet</b> is the author of _Joseph Conrad’s Eastern Voyages – Tales of Singapore and an East Borneo River_ (2021). He is also the author of <i>Archipelago – A Journey Across Indonesia</i> (2015), and <i>Where Australia Collides with Asia – The Epic Voyages of Joseph Banks, Charles Darwin, Alfred Russel Wallace and the Origin of On the Origin of Species</i> (2017).</div>
+	<b>Ian Burnet</b> is the author of <i>Joseph Conrad’s Eastern Voyages – Tales of Singapore and an East Borneo River</i> (2021). He is also the author of <i>Archipelago – A Journey Across Indonesia</i> (2015), and <i>Where Australia Collides with Asia – The Epic Voyages of Joseph Banks, Charles Darwin, Alfred Russel Wallace and the Origin of On the Origin of Species</i> (2017).</div>
 
 #### **NOTES**
 
