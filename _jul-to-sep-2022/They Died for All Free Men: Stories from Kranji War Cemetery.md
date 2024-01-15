@@ -146,7 +146,7 @@ Australian War Memorial. “2/18th Australian Infantry Battalion.” Accessed 8 
   
 Commonwealth War Graves Commission. “Sergeant Gordon Laing.” Accessed 8 April 2022. https://www.cwgc.org/find-records/find-war-dead/casualty-details/2136317/gordon-laing/.
 
-<img style="width: 100px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/Janice\_Loo.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/Janice_Loo.png">
 	<b>Janice Loo</b>&nbsp;is a Librarian with the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.
 
 #### **NOTES**
