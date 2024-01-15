@@ -102,4 +102,36 @@ These characters and places eventually end up populating _Almayer’s Folly_, Co
 
 #### **NOTES**
 
-[^1]: “Over Half of Singaporeans Rely on Social Media to Discover New Restaurants: Study,” SevenRooms, 18 June 2023, https://sevenrooms.com/en/press/over-half-of-singaporeans-rely-on-social-media-to-discover-new-restaurants/.
+[^1]: Tim Middleton, _Joseph Conrad_, Routledge Guides to Literature series (New York: Routledge, 2006), 172, https://www.taylorfrancis.com/books/mono/10.4324/9780203603055/joseph-conrad-tim-middleton.
+
+[^2]: Joseph Conrad, _Tales of an Eastern Port: The Singapore Novellas of Joseph Conrad_ (Singapore: NUS Press, 2023), 19. (From National Library, Singapore, call no. RSING 823.912 CON)
+
+[^3]: Conrad, _Tales of an Eastern Port_, 124.
+
+[^4]: Jerry Allen, _The Sea Years of Joseph Conrad_ (London: Methuen, 1967), 148. (From National Library, Singapore, call no. RSING 823.912 CON-\[JSB\])
+
+[^5]: Joseph Conrad, _Lord Jim_ (Edinburgh &amp; London: William Blackwood and Sons, 1914), 36. (From National Library, Singapore, call no. RCLOS 823.912 CON-\[JSB\])
+
+[^6]: Conrad, _Lord Jim_, 10.&nbsp;
+
+[^7]: Joseph Conrad, _The Works of Joseph Conrad: The Mirror of the Sea; a Personal Record_ (London, Toronto: J.M. Dent &amp; Sons Ltd., 1923), 54–55. (From National Library, Singapore, call no. RCLOS 823.912 CON-\[JSB\])
+
+[^8]: Conrad, _The Works of Joseph Conrad: The Mirror of the Sea; a Personal Record_, 55.
+
+[^9]: Conrad, _Lord Jim_, 11.
+
+[^10]: Joseph Conrad, _The Rescue: A Romance of the Shallows_ (London; Toronto: J.M. Dent &amp; Sons Ltd., 1920), 95. (From National Library, Singapore, call no. RCLOS 823.912 CON-\[SEA\])&nbsp; Norman Sherry, “Conrad and the S.S.Vidar,” _Review of English Studies_ 14, no. 54 (May, 1963): 158. (From JSTOR via NLB’s eResources website)
+
+[^11]: Norman Sherry, “Conrad and the S.S.Vidar,” _Review of English Studies_ 14, no. 54 (May, 1963): 158. (From JSTOR via NLB’s eResources website)
+
+[^12]: “Vidar,” Tyne Built Ships, last accessed 30 November 2023, http://www.tynebuiltships.co.uk/V-Ships/vidar1871.html.
+
+[^13]: Conrad, _Tales of an Eastern Port_, 123–24.
+
+[^14]: Conrad, _Tales of an Eastern Port_, 139.
+
+[^15]: Norman Sherry, “‘Exact Biography’ and The Shadow-Line,” _PMLA_ 79, no. 5 (December 1964): 620–25. (From JSTOR via NLB’s eResources website); “Joseph Conrad Collection,” Archives at Yale, last accessed 3 January 2024, https://archives.yale.edu/repositories/11/resources/588.
+
+[^16]: Conrad, _Tales of an Eastern Port_, 142.
+
+[^17]: Joseph Conrad, _A Personal Record_ (La Guerche-sur-l’Aubois: eBooksLib, 2005). (From NLB OverDrive)
