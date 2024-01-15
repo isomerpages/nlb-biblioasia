@@ -135,7 +135,7 @@ Kevin Martens Wong founded Kodrah Kristang (Awaken, Kristang) in 2016 to revital
 
 The National Library welcomes everyone to be a part of the Contemporary Collecting initiative to preserve a slice of contemporary Singapore.&nbsp;
 
-If you want to contribute something regarding youth culture or food, you may submit documentary materials that you own or created through the portal, “Singapore Memories: Documenting Our Stories Together” (http://www.singaporememories.gov.sg/). You may also nominate websites and content by contacting us at contemporary\_collecting@nlb.gov.sg. Selected materials will be added into our national collection for preservation and research purposes.
+If you want to contribute something regarding youth culture or food, you may submit documentary materials that you own or created through the portal, “Singapore Memories: Documenting Our Stories Together” ([http://www.singaporememories.gov.sg/](http://www.singaporememories.gov.sg/)). You may also nominate websites and content by contacting us at [contemporary_collecting@nlb.gov.sg](mailto:contemporary_collecting@nlb.gov.sg). Selected materials will be added into our national collection for preservation and research purposes.
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The National Library would like to thank all contributors to the initiative. Unfortunately, due to the large number of contributors, we are unable to mention everyone in this article.
 </div>
