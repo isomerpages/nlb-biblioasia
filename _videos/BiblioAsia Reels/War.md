@@ -5,7 +5,7 @@ description: ""
 third_nav_title: BiblioAsia Reels
 variant: markdown
 ---
-**Kranji War Memorial: Lest We Forget**
+#### **Kranji War Memorial: Lest We Forget**
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-LwBu7HDNwU?si=7yXAcupYaezIg48V"></iframe>
 
 Unveiled on 2 March 1957, the Kranji War Memorial honours over 25,000 men and women from Singapore, Britain, Australia, Canada, Sri Lanka, India, Malaya, the Netherlands and New Zealand who gave up their lives in the line of duty defending Singapore during the Second World War.
