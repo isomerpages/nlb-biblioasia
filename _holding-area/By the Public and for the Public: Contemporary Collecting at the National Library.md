@@ -10,8 +10,7 @@ image: /images/Vol 19 Issue 4/Contemporary Collecting/facingpage.jpg
 #### Singapore’s National Library is hard at work collecting new forms of documentary materials today for the sake of future generations.
 By Janice Loo and Lee Meiyu
 
-![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/facingpage.jpg)
-![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Airport1.jpg)
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/facingpage2.jpg)
 <div style="background-color: white;">The pandemic brought massive disruptions to international travel. These scenes of Singapore’s Changi Airport devoid of its usual bustle were captured on 28 March 2020. <i>Photos contributed by Tan Yong Lin.</i></div>
    
 To&nbsp;put together an account of the past, historians typically go through things like manuscripts, letters, diaries, memoirs, documents and photographs. These primary sources provide the raw material from which historians reconstruct the past, which is why these items are carefully preserved by libraries, archives and museums all over the world.&nbsp; &nbsp;
@@ -32,8 +31,7 @@ To record and document the impact of&nbsp;Covid-19 on everyday life, NL partnere
 
 More than 5,700 items were received, mainly digital photographs accompanied by brief descriptions or personal anecdotes, from some 470 individuals and organisations. It was timely to launch the collection drive during the partial lockdown as it enabled people to record and contribute scenes that were unique to that moment. There were many photographs depicting changes that people observed around them, such as shuttered retail shops and restaurants, deserted streets, and empty buses and trains, as well as the appearance of safe-distancing markers to guide people to keep at least one metre from each other to reduce the risk of virus transmission.&nbsp;
 
-![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Bus1.jpg)
-![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Bus2.jpg)
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Bus.jpg)
 <div style="background-color: white;"> Safe-distancing markers on a public bus, 9 May 2020 (top), and closure of the beach at East Coast Park, 27 April 2020 (bottom). These photos are part of a series about the circuit breaker titled “A Broken Circuit: Singapore Amidst&nbsp; Covid-19”. <i>Photos contributed by Sebastian Soong.</i></div>
 
 
@@ -47,7 +45,7 @@ Yvonne Cheng and her husband welcomed their first child during the circuit break
 
 Through these photographs, Muhammad Farhan Osman provided an intimate glimpse of how his family celebrated Hari Raya Puasa on 24 May 2020 during the circuit breaker. Due to the ban on gatherings with family or friends who do not live together, Muslims took to video conferencing apps such as Zoom to connect and celebrate virtually with loved ones. The communal prayer calls (_takbir_) and a live sermon were also broadcasted over radio and online channels such as YouTube and the Facebook pages of the Islamic Religious Council of Singapore (Muis) and local mosques.
 
-![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Zoom.jpg)
+![](/images/Vol%2019%20Issue%204/Contemporary%20Collecting/Zoom2.jpg)
 <div style="background-color: white;">Muhammad Farhan Osman and his family used Zoom to connect with relatives, friends and the wider community during Hari Raya Puasa in 2020. <i>Photos contributed by Muhammad Farhan Osman.</i></div>
 
 
