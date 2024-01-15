@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/
-      button: Revisiting the Mystery of the Missing Gold Coins
+      url: /vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/
+      button: Malaya Cup Heroes
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
