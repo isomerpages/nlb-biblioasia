@@ -5,7 +5,7 @@ description: Remembering those who died while fighting the Japanese during World
 image: /images/Vol 18 Issue 2/Kranji War Memorial/Memorial.png
 variant: markdown
 ---
-#### Remembering those who died while fighting the Japanese during World War II.
+### Remembering those who died while fighting the Japanese during World War II.
 
 By Janice Loo
 
@@ -115,8 +115,7 @@ She was 81-year-old Madam Cheng Seang Ho, nicknamed the Passionaria of Malaya (a
 Today, memorial services are held twice annually. One service is held on the Sunday closest to Remembrance Day on 11 November, while the other is held on ANZAC (Australian and New Zealand Army Corps) Day on 25 April in honour of Australian and New Zealand soldiers.[^41]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Memorial.png)
-
-The inscription on the Singapore Memorial reads “They Died for All Free Men”, 2022. _Photo by and courtesy of Janice Loo._
+<div style="background-color: white;">The inscription on the Singapore Memorial reads “They Died for All Free Men”, 2022.<i> Photo by and courtesy of Janice Loo.</i></div>
 
 What began as a site of imperial memory has also evolved to take on new meaning as Singaporeans visit the cemetery as part of national education and historical tours. Interpreted through the lens of nation-building, the cemetery holds lessons on the importance of self-reliance and self-determination, as it commemorates locals who had contributed to the defence of Singapore during World War II and as the war marked the turning point towards decolonisation.[^42]
 
@@ -131,9 +130,7 @@ Laing is believed to have been killed in this engagement along with 82 other men
 The items relating to Laing were donated by his grand-nephew, Dayne Cowan, to the library in 2019.  
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Textbox%20images.png)
-
-  
-(Clockwise from top) Portrait of Sergeant Gordon Laing in uniform. This belonged to Laing’s sister, Ilena, whom Laing was very close to. There are holes on the corners as Ilena had tacked the portrait on her wall; Condolence letter (undated) and commemoration scroll from King George VI to Gordon Laing’s parents; Letter from the Commonwealth of Australia Department of the Army on the campaign stars and war medals posthumously awarded to Gordon Laing for his service during World War II. _Collection of the National Library, Singapore._  
+<div style="background-color: white;">(Clockwise from top) Portrait of Sergeant Gordon Laing in uniform. This belonged to Laing’s sister, Ilena, whom Laing was very close to. There are holes on the corners as Ilena had tacked the portrait on her wall; Condolence letter (undated) and commemoration scroll from King George VI to Gordon Laing’s parents; Letter from the Commonwealth of Australia Department of the Army on the campaign stars and war medals posthumously awarded to Gordon Laing for his service during World War II.<i> Collection of the National Library, Singapore.</i></div>  
   
 **REFERENCES**  
   
