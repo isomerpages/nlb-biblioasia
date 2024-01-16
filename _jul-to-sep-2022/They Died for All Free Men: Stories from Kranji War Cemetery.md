@@ -81,8 +81,7 @@ In total, the Malay Regiment lost 159 lives (six British officers, seven Malay o
 Among those buried in Kranji is Lieutenant Colonel Ivan Lyon of the Gordon Highlanders (a&nbsp;line infantry&nbsp;regiment&nbsp;of the&nbsp;British Army&nbsp;that existed from 1881 to 1994). In September 1943, Lyon, described as a “cool-headed, icy-calm and professional soldier”, led a team of 14 Australian and British commandos from Allied Z Special Unit in Operation Jaywick, a bold mission to sabotage Japanese ships in Singapore’s Keppel Harbour.[^24]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/P00986_001--2-.png)
-
-Australian and British commandos from Allied Z Special Unit on board the _Krait_ en route to Singapore to sabotage Japanese shipping at Keppel Harbour, 1943. Ivan Lyon is in the back row, third from the left. _Courtesy of the Australian War Memorial, P00986.001._
+<div style="background-color: white;">Australian and British commandos from Allied Z Special Unit on board the <i>Krait</i> en route to Singapore to sabotage Japanese shipping at Keppel Harbour, 1943. Ivan Lyon is in the back row, third from the left.<i> Courtesy of the Australian War Memorial, P00986.001.</i></div>
 
 On 2 September, the commandos departed Exmouth Harbour, Western Australia, in a captured Japanese fishing vessel, the _Kofuku Maru_. It had been repurposed and renamed _Krait_, after the small but deadly snake found in tropical Asia. Disguised as local fishermen, the men ditched their uniforms for sarongs and painted their bodies brown.[^25]
 
@@ -103,8 +102,7 @@ The other 10 Rimau commandos were captured and incarcerated at Outram Road Priso
 Apart from the group of 10 men and Lyon, (plot 27, row A, headstone 14), another five are buried in separate graves (plot 23, row D, headstone 19 and 20; plot 32, row E, headstone 2 and 4; plot 27, row A, headstone 15). For the remaining seven, whose remains were not recovered, four have their names etched on the Singapore Memorial (Columns 117 and 118), and three are commemorated at the Plymouth Naval Memorial in England.[^35]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Tombstones.png)
-
-From left: The headstones of Corporal Raymond Lee Kim Teck of the Singapore Volunteer Corps, Lieutenant Colonel Ivan Lyon of the Gordon Highlanders and an unidentified sailor from the Royal Navy. _Photos by and courtesy of Janice Loo._
+<div style="background-color: white;">From left: The headstones of Corporal Raymond Lee Kim Teck of the Singapore Volunteer Corps, Lieutenant Colonel Ivan Lyon of the Gordon Highlanders and an unidentified sailor from the Royal Navy.<i> Photos by and courtesy of Janice Loo.</i></div>
 
 #### **Lest We Forget**
 
