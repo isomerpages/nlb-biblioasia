@@ -17,6 +17,9 @@ A metal plaque dedicated to Joseph Conrad stands in front of the Fullerton Hotel
 
 The plaque, which is well over 2 metres high, can be found just across a small road from the hotel, close to Cavenagh Bridge. Flanked by shrubbery, the memorial’s placement is no coincidence. Conrad had been a seaman before turning to writing and Singapore had served as his homeport for five months in the late 1880s. Conrad would have been a regular visitor to the spot where the Fullerton Hotel is now because this was where the Master Attendant’s Office had been. (The Master Attendant, whom Conrad referred to as the Harbour Master, was responsible for the control of shipping in the roadstead.)
 
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image3.png)
+<div>The memorial plaque in honour of Joseph Conrad, located in front of the Fullerton Hotel, 2023. <i>Photo by Jimmy Yap.</i></div>
+
 Although Conrad did not spend much time in this region, it made a deep impression on him; about half of everything he wrote revolves around this part of the world. This includes five novels and more than a dozen short stories and novellas. Many of them were directly based on his experience as first mate on a ship that sailed regularly from Singapore to a small trading post about 48 km up the Berau River on the east coast of Borneo between 1887 and 1888.&nbsp;
 
 The people, places and events Conrad encountered in the region come alive in works like _Almayer’s Folly_ (1895), _The Outcast of the Islands_ (1896), _Lord Jim_ (1900), _Victor_y (1915) and _The Rescue_ (1920). It is his excellent visual memory of people, landscape, estuaries, rivers, climate, jungle foliage, commerce, local politics, religion and dress that bring his fictional world to life.
