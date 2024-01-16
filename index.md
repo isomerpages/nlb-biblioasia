@@ -1060,6 +1060,7 @@ sections:
         and women who gave up their lives defending Singapore during the Second
         World War.
       button: watch the video
-      url: videos/reels/war/
+      url: /videos/reels/war/
       alt: Image alt text
+      image: /images/Kranji_War_Memorial_video_2.PNG
 ---
