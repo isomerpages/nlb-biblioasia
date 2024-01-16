@@ -82,6 +82,9 @@ As soon as he could walk unaided, Conrad checked out of the hospital for a furth
 
 Once Conrad had fully recovered, he would walk daily from the Officers’ Sailors Home towards the Master Attendant’s Office to look for a passage home. Along the way, he would have passed the white spire of St Andrew’s Cathedral, the frontages of the new government buildings, the famous Hotel de l’Europe (site of the former Supreme Court building and part of the National Gallery Singapore today) and along the shaded Esplanade with its enormous trees towards the Singapore River. He would then cross Cavenagh Bridge to reach the Master Attendant’s Office at the other end of the bridge.
 
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image10.png)
+<div>Hotel de l'Europe on the corner of High Street and Esplanade Road, c. 1906. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
 Cavenagh Bridge, opened in 1869, straddled the entrance to the Singapore River and provided one of the most famous views of Singapore. In the late 19th century, Boat Quay would have been packed with a myriad of lighters, tongkangs and sampans bringing goods and people onto the river. The crescent of buildings and warehouses along the quay was taken up with the unloading and loading of these boats. Hundreds of coolies unloaded huge crates, casks, boxes and bales of British manufactured goods into the warehouses, followed by the loading of bales of gambier, bundles of rattans, and bags of tin, sago, tapioca, rice, pepper and spices for export to foreign markets. Conrad describes this scene in his book, _The Rescue_
 
 ![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image8.png)
