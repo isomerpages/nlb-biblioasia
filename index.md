@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/MalayaCup_Hero_img.jpg
   - infopic:
+      title: By the Public and for the Public
+      subtitle: Collection Highlights
+      id: infopic
+      description: Singapore’s National Library is hard at work collecting new forms
+        of documentary materials today for the sake of future generations.
+      url: vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/
+      alt: Image alt text
+      button: collecting for posterity
+      image: /images/Contemporary_collecting__10_.JPG
+  - infopic:
       title: Interview with Victor Savage
       subtitle: more places and Buildings
       id: infopic
@@ -889,6 +899,15 @@ sections:
       image: /images/Vol 18 Issue 3/MAS/2_queue.jpg
       alt: monetary authority singapore
   - infopic:
+      title: "Flower Power: Singapore’s Orchid Diplomacy"
+      subtitle: nature
+      description: When Queen Elizabeth II visited Singapore in 1972, the orchid
+        <i>Dendrobium</i> Elizabeth was named in her honour.
+      button: Orchids for vips and more
+      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
+      image: /images/19980002762 IMG0016.jpg
+      alt: Orchid Diplomacy
+  - infopic:
       title: The Early Days of Family Planning in Singapore
       subtitle: Governance
       description: Singapore’s family planning programme did not start with the “Stop
@@ -906,15 +925,6 @@ sections:
       url: https://biblioasia.nlb.gov.sg/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/
       alt: Union Book
       image: /images/Union Book 2022.jpg
-  - infopic:
-      title: "Flower Power: Singapore’s Orchid Diplomacy"
-      subtitle: nature
-      description: When Queen Elizabeth II visited Singapore in 1972, the orchid
-        <i>Dendrobium</i> Elizabeth was named in her honour.
-      button: Orchids for vips and more
-      url: /vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy
-      image: /images/19980002762 IMG0016.jpg
-      alt: Orchid Diplomacy
   - infopic:
       title: A Royal Wedding Gone Wrong
       subtitle: War

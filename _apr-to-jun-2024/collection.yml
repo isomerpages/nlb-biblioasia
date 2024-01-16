@@ -2,6 +2,8 @@ collections:
   apr-to-jun-2024:
     output: true
     order:
+      - "By the Public and for the Public: Contemporary Collecting at the
+        National Library.md"
       - Photo Studios During the Japanese Occupation.md
       - Singapore's Hippie Hysteria and the Ban on Long Hair.md
       - A Quick History of the Singapore Speedway.md
