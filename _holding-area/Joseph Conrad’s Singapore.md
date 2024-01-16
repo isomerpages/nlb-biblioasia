@@ -99,9 +99,6 @@ This was a microcosm of the people of the archipelago and they would all have co
 
 On the _Vidar_, Conrad makes four voyages from Singapore to the Berau River in Borneo before signing off from the ship on 4 January 1888. He lowered himself and his seabag into a sampan in the harbour and was rowed ashore to Johnston’s Pier from where he took a horse-drawn cab to the Officers’ Sailors Home.&nbsp;
 
-![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image9.png)
-<div>Joseph Conrad commanded the <i>Otago</i> between 1888 and 1889. <i>Courtesy of State Library of Queensland. </i></div>
-
 He had just given up a good berth and a comfortable life in a fine little steamship with an excellent master. However, Conrad’s ambition was to command a sailing ship, a square rigger, not in the comfortable waters of the East Indies, but on the great oceans of the world. In _The Shadow-Line_, which is based on Conrad’s own experience of his first command, the protagonist, who was accompanied by his captain, describes a similar event, of signing off from a ship, as taking place in the Harbour Office, in a “lofty, big, cool white room” where everyone is in white.
 
 The official behind the desk we approached grinned amiably and kept it up till, in answer to his perfunctory question, “Sign off and on again?” my Captain answered, “No! Signing off for good.” And then his grin vanished in sudden solemnity. He did not look at me again till he handed me my papers with a sorrowful expression, as if they had been my passports for Hades. While I was putting them away he murmured some question to the Captain, and I heard the latter answer good-humouredly: “No. He leaves us to go home.” “Oh!” the other exclaimed, nodding mournfully over my sad condition.[^13]
@@ -111,6 +108,9 @@ The official behind the desk we approached grinned amiably and kept it up till, 
 Conrad was ashore for two weeks when he received a message on 19 January 1888 that the Harbour Master would like to see him urgently. The Harbour Master explained that the master of a British ship, the _Otago_, had died in Bangkok and the Consul-General there had cabled him to request for a competent man to take command.[^14] Since Conrad already had his Master’s ticket, the Harbour Master gave him an agreement which read:
 
 This is to inform you that you are required to proceed in the S.S. _Melita_ to Bangkok and you will report your arrival to the British Consul and produce this memorandum which will show that I have engaged you to be the Master of the _Otago_.[^15]
+
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image9.png)
+<div>Joseph Conrad commanded the <i>Otago</i> between 1888 and 1889. <i>Courtesy of State Library of Queensland. </i></div>
 
 Conrad would undoubtedly have been thrilled by this twist of fate. Perhaps he felt the same way the protagonist did in _The Shadow-Line_, who likewise had just been given his first command:
 
