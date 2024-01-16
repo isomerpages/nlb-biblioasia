@@ -45,6 +45,9 @@ Close to the Master Attendant’s Office was Emmerson’s Tiffin Rooms on Flint 
 
 At the junction of Flint Street and Battery Road was the ship chandler McAlister and Company. A vast cavern-like space, the store contained every sundry item that a ship needed to put to sea.
 
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image5.png)
+<div> In this 1890 map, the Master Attendant’s Office can be seen in the bottom left, next to the post office. McAlister and Company is located at no. 5, at the junction of Flint Street and Battery Road. Emmerson’s Tiffin Rooms is listed as occupying the upper floors of nos. 1 and 2. <i>Image reproduced from B.E. D’Aranjo, The Stranger’s Guide to Singapore (Singapore: Sirangoon Press, 1890), 4f, 4g. (From National Library Online).</i></div>
+
 Records show that Conrad was discharged from the _Palestine_ on 3 April 1883 and he remained in Singapore for the whole of April while waiting for a passage back to England. He would have stayed in the Officers’ Sailors Home on High Street, behind St Andrew’s Cathedral, until he embarked on his return passage in May that year.
 
 In _The Shadow-Line_, he described the home, which he called the Officers’ Home, as a “large bungalow with a wide verandah and a curiously suburban-looking little garden of bushes and a few trees between it and the street. That institution partook somewhat of the character of a residential club, but with a slightly Governmental flavour about it, because it was administered by the Harbour Office. Its manager was officially styled Chief Steward”.[^3]
