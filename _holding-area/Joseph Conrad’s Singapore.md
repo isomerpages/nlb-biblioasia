@@ -24,6 +24,10 @@ Although Conrad did not spend much time in this region, it made a deep impressio
 
 The people, places and events Conrad encountered in the region come alive in works like _Almayer’s Folly_ (1895), _The Outcast of the Islands_ (1896), _Lord Jim_ (1900), _Victor_y (1915) and _The Rescue_ (1920). It is his excellent visual memory of people, landscape, estuaries, rivers, climate, jungle foliage, commerce, local politics, religion and dress that bring his fictional world to life.
 
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image2.png)
+<div>Portrait of Joseph Conrad by George Charles Beresford, 1904.
+<i>© National Portrait Gallery, London.</i></div>
+
 #### **Sojourn in Singapore**
 
 Conrad first set foot on Singapore’s shores in 1883. At the time, he was the second mate on the _Palestine_, which was carrying coal from England to Bangkok. The ship set off from Newcastle in November 1881 but while crossing the English Channel, the _Palestine_ met strong winds and started to leak. It limped back to Falmouth in Cornwall for repairs and finally left for Bangkok on 17 September 1882. Unfortunately, in March 1883, its cargo of coal caught fire and the ship sank near Sumatra. The officers and crew were rescued and taken to Singapore on the British steamship _Sissie_.[^1] Here, the _Sissie_ joined the forest of masts anchored in New Harbour (renamed Keppel Harbour in 1900) while around them were hundreds of Chinese tongkangs (a small type of boat used to carry goods along rivers) and Malay prows unloading goods from trading vessels.&nbsp;
