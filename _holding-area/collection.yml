@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - New Books on Singapore History.md
       - Joseph Conrad’s Singapore.md
       - Example Title.md
       - Testing My Skills.md
