@@ -69,14 +69,12 @@ C Company Commander Captain H. R. Rix (plot 11, row D, headstone 1)[^18] gave or
 Second Lieutenant Adnan Saidi of C Company, who was himself badly hurt, exhorted his platoon to fight till the end, exemplifying the motto that he had chosen for them: _Biar putih tulang, jangan putih mata_, a Malay saying that is the equivalent of “death before dishonour”.[^21] After taking Bukit Chandu, the Japanese troops set about capturing and executing the surviving members of C Company, including Adnan. According to eyewitness accounts, Adnan was shot and bayoneted to death. His body was hung upside down from a tree and the Japanese forbade its removal for burial.[^22]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/020000564_0027.png)
-
-Second Lieutenant Adnan Saidi, platoon commander of the Malay Regiment, led his men in a brave last stand against the Japanese at the Battle of Bukit Chandu. _Image reproduced from Mubin Sheppard, The Malay Regiment 1933–1947 (Kuala Lumpur: Department of Public Relations, Malay Peninsula, 1947), 17. (From National Library, Singapore, call no. RCLOS 355.31 SHE-\[RFL\])._
+<div style="background-color: white;">Second Lieutenant Adnan Saidi, platoon commander of the Malay Regiment, led his men in a brave last stand against the Japanese at the Battle of Bukit Chandu. <i> Image reproduced from Mubin Sheppard, The Malay Regiment 1933–1947 (Kuala Lumpur: Department of Public Relations, Malay Peninsula, 1947), 17. (From National Library, Singapore, call no. RCLOS 355.31 SHE-\[RFL\]).</i></div>
 
 In total, the Malay Regiment lost 159 lives (six British officers, seven Malay officers and 146 other ranks) during the battle at Pasir Panjang. Adnan and 26 other Malay soldiers who died during that battle, and whose bodies were never recovered, are commemorated on Columns 385 to 390 of the Singapore Memorial.[^23]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Adnan%20Saidi%20and%20other%20Malay%20Regiment%20war%20dead%20inscribed%20on%20Col%20385.png)
-
-Second Lieutenant Adnan Saidi and 26 other Malay soldiers from the Malay Regiment, whose bodies were never recovered, are commemorated on Columns 385 to 390 of the Singapore Memorial, 2022. _Photo by and courtesy of Janice Loo._
+<div style="background-color: white;">Second Lieutenant Adnan Saidi and 26 other Malay soldiers from the Malay Regiment, whose bodies were never recovered, are commemorated on Columns 385 to 390 of the Singapore Memorial, 2022.<i> Photo by and courtesy of Janice Loo.</i></div>
 
 #### **The Commandos of Jaywick and Rimau**
 
