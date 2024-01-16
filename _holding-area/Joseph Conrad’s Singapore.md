@@ -78,7 +78,10 @@ Conrad was discharged from the _Highland Forest_ on 1 July 1887 and sent on the 
 
 The hospital stood on a hill, and a gentle breeze entering through the windows, always flung wide open, brought into the bare room the softness of the sky, the languor of the earth, the bewitching breath of the Eastern waters. There were perfumes in it, suggestions of infinite repose, the gift of endless dreams. Jim looked every day over the thickets of gardens, beyond the roofs of the town, over the fronds of palms growing on the shore, at that roadstead which is a thoroughfare to the East, – at the roadstead dotted by garlanded islets, lighted by festal sunshine, its ships like toys, its brilliant activity resembling a holiday pageant, with the eternal serenity of the Eastern sky overhead and the smiling peace of the Eastern seas possessing the space as far as the horizon.[^9]
 
-As soon as he could walk unaided, Conrad checked out of the hospital for a further period of rehabilitation and to look for a berth back to England. While waiting, he stayed in the Officers’ Sailors Home again and spent time with the other seamen in the port.&nbsp;
+As soon as he could walk unaided, Conrad checked out of the hospital for a further period of rehabilitation and to look for a berth back to England. While waiting, he stayed in the Officers’ Sailors Home again and spent time with the other seamen in the port.
+
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image11.png)
+<div>The old general post office. The Master Attendant’s Office would have been on the left. c. 1900. <i>Andrew Tan Collection, courtesy of National Archives of Singapore.</i></div>
 
 Once Conrad had fully recovered, he would walk daily from the Officers’ Sailors Home towards the Master Attendant’s Office to look for a passage home. Along the way, he would have passed the white spire of St Andrew’s Cathedral, the frontages of the new government buildings, the famous Hotel de l’Europe (site of the former Supreme Court building and part of the National Gallery Singapore today) and along the shaded Esplanade with its enormous trees towards the Singapore River. He would then cross Cavenagh Bridge to reach the Master Attendant’s Office at the other end of the bridge.
 
