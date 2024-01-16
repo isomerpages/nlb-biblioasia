@@ -10,8 +10,7 @@ variant: markdown
 By Janice Loo
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Rows%20of%20headstones.png)
-
-The Kranji War Cemetery with the Singapore Memorial in the background, 2022. _Photo by and courtesy of Janice Loo._
+<div style="background-color: white;">The Kranji War Cemetery with the Singapore Memorial in the background, 2022. <i>Photo by and courtesy of Janice Loo.</i></div>
 
 It was shortly after 4 am on 8 December 1941 when 17 Japanese naval bombers took off from Saigon (now known as Ho Chi Minh City) to attack the airfields at Tengah and Seletar in Singapore.[^1]
 
@@ -19,9 +18,11 @@ That air raid claimed 61 lives and injured 133. Among those who died was Corpora
 
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-LwBu7HDNwU?si=ZEf95Kdqa6u7PffC"></iframe>
 
-**Listen to the podcast episode "[Lest We Forget: Kranji War Cemetery](https://biblioasia.nlb.gov.sg/podcast/kranji-war-cemetery/)"**
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/kranji-war-cemetery/">Lest We Forget: Kranji War Cemetery</a>"</b>
+<br> 
+<img src="/images/Podcast/ad%20banner%20biblioasia.jpg" alt="singapore history podcast" style="width:95%">  </center></div> 
 
-![singapore history podcast](/images/Podcast/ad%20banner%20biblioasia.jpg)
 
 #### **Kranji and the Battle for Singapore**
 

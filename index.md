@@ -27,6 +27,17 @@ sections:
       button: collecting for posterity
       image: /images/Contemporary_collecting__10_.JPG
   - infopic:
+      title: "Kranji War Memorial: Lest We Forget"
+      subtitle: biblioasia reels
+      id: infopic
+      description: Unveiled on 2 March 1957, the Kranji War Memorial honours the men
+        and women who gave up their lives defending Singapore during the Second
+        World War.
+      button: watch the video
+      url: /videos/reels/war/
+      alt: Image alt text
+      image: /images/Kranji_War_Memorial_video_2.PNG
+  - infopic:
       title: Interview with Victor Savage
       subtitle: more places and Buildings
       id: infopic
