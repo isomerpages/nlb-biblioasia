@@ -1052,4 +1052,14 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: "Kranji War Memorial: Lest We Forget"
+      subtitle: biblioasia reels
+      id: infopic
+      description: Unveiled on 2 March 1957, the Kranji War Memorial honours the men
+        and women who gave up their lives defending Singapore during the Second
+        World War.
+      button: watch the video
+      url: videos/reels/war/
+      alt: Image alt text
 ---
