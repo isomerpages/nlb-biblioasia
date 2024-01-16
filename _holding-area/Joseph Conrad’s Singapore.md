@@ -10,7 +10,10 @@ description: Joseph Conrad’s visits to Singapore in the late 19th century are
 By Ian Burnet
 
 
-A metal plaque dedicated to Joseph Conrad stands in front of the Fullerton Hotel in Singapore. The text on the memorial describes Conrad as a “British Master Mariner and great English writer who made Singapore and the whole of Southeast Asia better known to the world”.&nbsp;
+A metal plaque dedicated to Joseph Conrad stands in front of the Fullerton Hotel in Singapore. The text on the memorial describes Conrad as a “British Master Mariner and great English writer who made Singapore and the whole of Southeast Asia better known to the world”.
+
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image1.png)
+<div>The Master Attendant’s Office next to Cavenagh Bridge, 1890. The distinctive roof of the post office can be seen in the background. Photo by G.R.Lambert. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
 The plaque, which is well over 2 metres high, can be found just across a small road from the hotel, close to Cavenagh Bridge. Flanked by shrubbery, the memorial’s placement is no coincidence. Conrad had been a seaman before turning to writing and Singapore had served as his homeport for five months in the late 1880s. Conrad would have been a regular visitor to the spot where the Fullerton Hotel is now because this was where the Master Attendant’s Office had been. (The Master Attendant, whom Conrad referred to as the Harbour Master, was responsible for the control of shipping in the roadstead.)
 
