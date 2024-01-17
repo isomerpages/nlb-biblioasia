@@ -23,7 +23,7 @@ The plaque, which is well over 2 metres high, can be found just across a small r
 
 Although Conrad did not spend much time in this region, it made a deep impression on him; about half of everything he wrote revolves around this part of the world. This includes five novels and more than a dozen short stories and novellas. Many of them were directly based on his experience as first mate on a ship that sailed regularly from Singapore to a small trading post about 48 km up the Berau River on the east coast of Borneo between 1887 and 1888.&nbsp;
 
-The people, places and events Conrad encountered in the region come alive in works like _Almayer’s Folly_ (1895), _The Outcast of the Islands_ (1896), _Lord Jim_ (1900), _Victor_y (1915) and _The Rescue_ (1920). It is his excellent visual memory of people, landscape, estuaries, rivers, climate, jungle foliage, commerce, local politics, religion and dress that bring his fictional world to life.
+The people, places and events Conrad encountered in the region come alive in works like _Almayer’s Folly_ (1895), _The Outcast of the Islands_ (1896), _Lord Jim_ (1900), _Victory_ (1915) and _The Rescue_ (1920). It is his excellent visual memory of people, landscape, estuaries, rivers, climate, jungle foliage, commerce, local politics, religion and dress that bring his fictional world to life.
 
 ![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image2.png)
 <div>Portrait of Joseph Conrad by George Charles Beresford, 1904.
