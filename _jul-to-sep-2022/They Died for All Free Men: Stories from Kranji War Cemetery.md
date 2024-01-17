@@ -119,25 +119,14 @@ Today, memorial services are held twice annually. One service is held on the Sun
 
 What began as a site of imperial memory has also evolved to take on new meaning as Singaporeans visit the cemetery as part of national education and historical tours. Interpreted through the lens of nation-building, the cemetery holds lessons on the importance of self-reliance and self-determination, as it commemorates locals who had contributed to the defence of Singapore during World War II and as the war marked the turning point towards decolonisation.[^42]
 
-**A SERGEANT IN THE LIBRARY**  
-  
-The National Library of Singapore holds a small collection of personal documents, war medals, photographs, postcards, letters and newspaper clippings relating to Sergeant Gordon Laing, who is commemorated on Column 119 of the Singapore Memorial.  
-  
-Laing had served in the 2/18th Australian Infantry Battalion, part of the 22nd Brigade, 8th Australian Division. The 2/18th arrived in Singapore on 18 February 1941 and was immediately sent north to Port Dickson in Malaya for training. In March, they moved to Seremban, then to Jemaluang on the east coast in late August, before ending up in Mersing in early September. The battalion saw its first major action in an ambush on about 1,000 enemy troops at the Nithsdale Estate south of Mersing on 27 January 1942.  
-  
-Laing is believed to have been killed in this engagement along with 82 other men on that fateful day. The battalion withdrew to Singapore following the Nithsdale ambush and was redeployed to defend the island’s northwestern coastline.  
-  
-The items relating to Laing were donated by his grand-nephew, Dayne Cowan, to the library in 2019.  
-
-![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Textbox%20images.png)
-<div style="background-color: white;">(Clockwise from top) Portrait of Sergeant Gordon Laing in uniform. This belonged to Laing’s sister, Ilena, whom Laing was very close to. There are holes on the corners as Ilena had tacked the portrait on her wall; Condolence letter (undated) and commemoration scroll from King George VI to Gordon Laing’s parents; Letter from the Commonwealth of Australia Department of the Army on the campaign stars and war medals posthumously awarded to Gordon Laing for his service during World War II.<i> Collection of the National Library, Singapore.</i></div>  
-  
-**REFERENCES**  
-  
-Australian War Memorial. “2/18th Australian Infantry Battalion.” Accessed 8 April 2022. https://www.awm.gov.au/collection/U56061.  
-  
-Commonwealth War Graves Commission. “Sergeant Gordon Laing.” Accessed 8 April 2022. https://www.cwgc.org/find-records/find-war-dead/casualty-details/2136317/gordon-laing/.
-
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>A SERGEANT IN THE LIBRARY </b><br><br>
+The National Library of Singapore holds a small collection of personal documents, war medals, photographs, postcards, letters and newspaper clippings relating to Sergeant Gordon Laing, who is commemorated on Column 119 of the Singapore Memorial.
+<br><br>Laing had served in the 2/18th Australian Infantry Battalion, part of the 22nd Brigade, 8th Australian Division. The 2/18th arrived in Singapore on 18 February 1941 and was immediately sent north to Port Dickson in Malaya for training. In March, they moved to Seremban, then to Jemaluang on the east coast in late August, before ending up in Mersing in early September. The battalion saw its first major action in an ambush on about 1,000 enemy troops at the Nithsdale Estate south of Mersing on 27 January 1942.<br><br>Laing is believed to have been killed in this engagement along with 82 other men on that fateful day. The battalion withdrew to Singapore following the Nithsdale ambush and was redeployed to defend the island’s northwestern coastline.<br><br>The items relating to Laing were donated by his grand-nephew, Dayne Cowan, to the library in 2019.<br><br>
+<img src="/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Textbox%20images.png" style="width: 800px"><br>(Clockwise from top) Portrait of Sergeant Gordon Laing in uniform. This belonged to Laing’s sister, Ilena, whom Laing was very close to. There are holes on the corners as Ilena had tacked the portrait on her wall; Condolence letter (undated) and commemoration scroll from King George VI to Gordon Laing’s parents; Letter from the Commonwealth of Australia Department of the Army on the campaign stars and war medals posthumously awarded to Gordon Laing for his service during World War II. <i>Collection of the National Library, Singapore.</i><br><br><b>REFERENCES</b>
+<br><br>Australian War Memorial. “2/18th Australian Infantry Battalion.” Accessed 8 April 2022. https://www.awm.gov.au/collection/U56061.
+<br><br>Commonwealth War Graves Commission. “Sergeant Gordon Laing.” Accessed 8 April 2022. https://www.cwgc.org/find-records/find-war-dead/casualty-details/2136317/gordon-laing/.<br>
+</div>
+<br>
 <img style="width: 100px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/Janice_Loo.png">
 	<b>Janice Loo</b>&nbsp;is a Librarian with the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.
 
