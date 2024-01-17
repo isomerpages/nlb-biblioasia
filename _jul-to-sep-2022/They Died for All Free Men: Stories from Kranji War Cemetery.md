@@ -5,7 +5,7 @@ description: Remembering those who died while fighting the Japanese during World
 image: /images/Vol 18 Issue 2/Kranji War Memorial/Memorial.png
 variant: markdown
 ---
-#### Remembering those who died while fighting the Japanese during World War II.
+### Remembering those who died while fighting the Japanese during World War II.
 
 By Janice Loo
 
@@ -31,8 +31,7 @@ Located in the northwestern part of Singapore, the Kranji area became a military
 Kranji was a key battle site during the Japanese invasion. With the loss of Malaya, the retreating Allied units were redeployed in a new defence perimeter around Singapore. The 8th Australian Division, comprising the 22nd and 27th Brigades, was stationed to defend the northwestern coastline that became the initial battleground from 8 to 10 February 1942. Overstretched and outnumbered, the Australian troops bore the brunt of the initial Japanese assault. Of the 2,690 burials and inscriptions of missing Australian personnel at the cemetery, 519 have their date of death recorded as between 8 and 10 February 1942, suggesting that they fell in action during the opening battles. The location of the cemetery is thus significant considering that Kranji was where the war began and ended for many.[^4]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/map_edited.png)
-
-Detail from a 1942 map of Singapore showing positions of the 22nd and 27th Brigades of the 8th Australian Division. _Image from Alamy Stock Photo._
+<div style="background-color: white;">Detail from a 1942 map of Singapore showing positions of the 22nd and 27th Brigades of the 8th Australian Division.<i> Image from Alamy Stock Photo.</i></div>
 
 Situated on a low hill overlooking the Strait of Johor, the cemetery started out as a small graveyard attached to a prisoner-of-war (POW) camp and makeshift hospital during the Japanese Occupation.[^5]
 
@@ -53,8 +52,7 @@ Four other commemorative panels stand around the Singapore Memorial. Located on 
 The panel at the western end of the Singapore Memorial, known as the Singapore (Unmaintainable Graves) Memorial, is dedicated to more than 250 casualties who had died in campaigns in Singapore and Malaya, but whose known graves in civil cemeteries could not be assured maintenance by the CWGC and which could not be transferred to Kranji due to religious reasons.[^13] Nearby, the Chinese Memorial in Plot 44 marks a collective grave for 69 Chinese servicemen who were killed by the Japanese in February 1942.
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Kranji%20Aerial%20Image_Weixiang_cropped_high%20res.png)
-
-An aerial view of Kranji War Cemetery and the Singapore Memorial. _Photo by and courtesy of Weixiang Schrödinger Lim._
+<div style="background-color: white;">An aerial view of Kranji War Cemetery and the Singapore Memorial. <i> Photo by and courtesy of Weixiang Schrödinger Lim.</i></div> 
 
 #### **Soldiers of the Last Stand**
 
@@ -71,22 +69,19 @@ C Company Commander Captain H. R. Rix (plot 11, row D, headstone 1)[^18] gave or
 Second Lieutenant Adnan Saidi of C Company, who was himself badly hurt, exhorted his platoon to fight till the end, exemplifying the motto that he had chosen for them: _Biar putih tulang, jangan putih mata_, a Malay saying that is the equivalent of “death before dishonour”.[^21] After taking Bukit Chandu, the Japanese troops set about capturing and executing the surviving members of C Company, including Adnan. According to eyewitness accounts, Adnan was shot and bayoneted to death. His body was hung upside down from a tree and the Japanese forbade its removal for burial.[^22]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/020000564_0027.png)
-
-Second Lieutenant Adnan Saidi, platoon commander of the Malay Regiment, led his men in a brave last stand against the Japanese at the Battle of Bukit Chandu. _Image reproduced from Mubin Sheppard, The Malay Regiment 1933–1947 (Kuala Lumpur: Department of Public Relations, Malay Peninsula, 1947), 17. (From National Library, Singapore, call no. RCLOS 355.31 SHE-\[RFL\])._
+<div style="background-color: white;">Second Lieutenant Adnan Saidi, platoon commander of the Malay Regiment, led his men in a brave last stand against the Japanese at the Battle of Bukit Chandu. <i> Image reproduced from Mubin Sheppard, The Malay Regiment 1933–1947 (Kuala Lumpur: Department of Public Relations, Malay Peninsula, 1947), 17. (From National Library, Singapore, call no. RCLOS 355.31 SHE-\[RFL\]).</i></div>
 
 In total, the Malay Regiment lost 159 lives (six British officers, seven Malay officers and 146 other ranks) during the battle at Pasir Panjang. Adnan and 26 other Malay soldiers who died during that battle, and whose bodies were never recovered, are commemorated on Columns 385 to 390 of the Singapore Memorial.[^23]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Adnan%20Saidi%20and%20other%20Malay%20Regiment%20war%20dead%20inscribed%20on%20Col%20385.png)
-
-Second Lieutenant Adnan Saidi and 26 other Malay soldiers from the Malay Regiment, whose bodies were never recovered, are commemorated on Columns 385 to 390 of the Singapore Memorial, 2022. _Photo by and courtesy of Janice Loo._
+<div style="background-color: white;">Second Lieutenant Adnan Saidi and 26 other Malay soldiers from the Malay Regiment, whose bodies were never recovered, are commemorated on Columns 385 to 390 of the Singapore Memorial, 2022.<i> Photo by and courtesy of Janice Loo.</i></div>
 
 #### **The Commandos of Jaywick and Rimau**
 
 Among those buried in Kranji is Lieutenant Colonel Ivan Lyon of the Gordon Highlanders (a&nbsp;line infantry&nbsp;regiment&nbsp;of the&nbsp;British Army&nbsp;that existed from 1881 to 1994). In September 1943, Lyon, described as a “cool-headed, icy-calm and professional soldier”, led a team of 14 Australian and British commandos from Allied Z Special Unit in Operation Jaywick, a bold mission to sabotage Japanese ships in Singapore’s Keppel Harbour.[^24]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/P00986_001--2-.png)
-
-Australian and British commandos from Allied Z Special Unit on board the _Krait_ en route to Singapore to sabotage Japanese shipping at Keppel Harbour, 1943. Ivan Lyon is in the back row, third from the left. _Courtesy of the Australian War Memorial, P00986.001._
+<div style="background-color: white;">Australian and British commandos from Allied Z Special Unit on board the <i>Krait</i> en route to Singapore to sabotage Japanese shipping at Keppel Harbour, 1943. Ivan Lyon is in the back row, third from the left.<i> Courtesy of the Australian War Memorial, P00986.001.</i></div>
 
 On 2 September, the commandos departed Exmouth Harbour, Western Australia, in a captured Japanese fishing vessel, the _Kofuku Maru_. It had been repurposed and renamed _Krait_, after the small but deadly snake found in tropical Asia. Disguised as local fishermen, the men ditched their uniforms for sarongs and painted their bodies brown.[^25]
 
@@ -107,8 +102,7 @@ The other 10 Rimau commandos were captured and incarcerated at Outram Road Priso
 Apart from the group of 10 men and Lyon, (plot 27, row A, headstone 14), another five are buried in separate graves (plot 23, row D, headstone 19 and 20; plot 32, row E, headstone 2 and 4; plot 27, row A, headstone 15). For the remaining seven, whose remains were not recovered, four have their names etched on the Singapore Memorial (Columns 117 and 118), and three are commemorated at the Plymouth Naval Memorial in England.[^35]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Tombstones.png)
-
-From left: The headstones of Corporal Raymond Lee Kim Teck of the Singapore Volunteer Corps, Lieutenant Colonel Ivan Lyon of the Gordon Highlanders and an unidentified sailor from the Royal Navy. _Photos by and courtesy of Janice Loo._
+<div style="background-color: white;">From left: The headstones of Corporal Raymond Lee Kim Teck of the Singapore Volunteer Corps, Lieutenant Colonel Ivan Lyon of the Gordon Highlanders and an unidentified sailor from the Royal Navy.<i> Photos by and courtesy of Janice Loo.</i></div>
 
 #### **Lest We Forget**
 
@@ -121,32 +115,18 @@ She was 81-year-old Madam Cheng Seang Ho, nicknamed the Passionaria of Malaya (a
 Today, memorial services are held twice annually. One service is held on the Sunday closest to Remembrance Day on 11 November, while the other is held on ANZAC (Australian and New Zealand Army Corps) Day on 25 April in honour of Australian and New Zealand soldiers.[^41]
 
 ![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Memorial.png)
-
-The inscription on the Singapore Memorial reads “They Died for All Free Men”, 2022. _Photo by and courtesy of Janice Loo._
+<div style="background-color: white;">The inscription on the Singapore Memorial reads “They Died for All Free Men”, 2022.<i> Photo by and courtesy of Janice Loo.</i></div>
 
 What began as a site of imperial memory has also evolved to take on new meaning as Singaporeans visit the cemetery as part of national education and historical tours. Interpreted through the lens of nation-building, the cemetery holds lessons on the importance of self-reliance and self-determination, as it commemorates locals who had contributed to the defence of Singapore during World War II and as the war marked the turning point towards decolonisation.[^42]
 
-**A SERGEANT IN THE LIBRARY**  
-  
-The National Library of Singapore holds a small collection of personal documents, war medals, photographs, postcards, letters and newspaper clippings relating to Sergeant Gordon Laing, who is commemorated on Column 119 of the Singapore Memorial.  
-  
-Laing had served in the 2/18th Australian Infantry Battalion, part of the 22nd Brigade, 8th Australian Division. The 2/18th arrived in Singapore on 18 February 1941 and was immediately sent north to Port Dickson in Malaya for training. In March, they moved to Seremban, then to Jemaluang on the east coast in late August, before ending up in Mersing in early September. The battalion saw its first major action in an ambush on about 1,000 enemy troops at the Nithsdale Estate south of Mersing on 27 January 1942.  
-  
-Laing is believed to have been killed in this engagement along with 82 other men on that fateful day. The battalion withdrew to Singapore following the Nithsdale ambush and was redeployed to defend the island’s northwestern coastline.  
-  
-The items relating to Laing were donated by his grand-nephew, Dayne Cowan, to the library in 2019.  
-
-![](/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Textbox%20images.png)
-
-  
-(Clockwise from top) Portrait of Sergeant Gordon Laing in uniform. This belonged to Laing’s sister, Ilena, whom Laing was very close to. There are holes on the corners as Ilena had tacked the portrait on her wall; Condolence letter (undated) and commemoration scroll from King George VI to Gordon Laing’s parents; Letter from the Commonwealth of Australia Department of the Army on the campaign stars and war medals posthumously awarded to Gordon Laing for his service during World War II. _Collection of the National Library, Singapore._  
-  
-**REFERENCES**  
-  
-Australian War Memorial. “2/18th Australian Infantry Battalion.” Accessed 8 April 2022. https://www.awm.gov.au/collection/U56061.  
-  
-Commonwealth War Graves Commission. “Sergeant Gordon Laing.” Accessed 8 April 2022. https://www.cwgc.org/find-records/find-war-dead/casualty-details/2136317/gordon-laing/.
-
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>A SERGEANT IN THE LIBRARY </b><br><br>
+The National Library of Singapore holds a small collection of personal documents, war medals, photographs, postcards, letters and newspaper clippings relating to Sergeant Gordon Laing, who is commemorated on Column 119 of the Singapore Memorial.
+<br><br>Laing had served in the 2/18th Australian Infantry Battalion, part of the 22nd Brigade, 8th Australian Division. The 2/18th arrived in Singapore on 18 February 1941 and was immediately sent north to Port Dickson in Malaya for training. In March, they moved to Seremban, then to Jemaluang on the east coast in late August, before ending up in Mersing in early September. The battalion saw its first major action in an ambush on about 1,000 enemy troops at the Nithsdale Estate south of Mersing on 27 January 1942.<br><br>Laing is believed to have been killed in this engagement along with 82 other men on that fateful day. The battalion withdrew to Singapore following the Nithsdale ambush and was redeployed to defend the island’s northwestern coastline.<br><br>The items relating to Laing were donated by his grand-nephew, Dayne Cowan, to the library in 2019.<br><br>
+<img src="/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Textbox%20images.png" style="width: 800px"><br>(Clockwise from top) Portrait of Sergeant Gordon Laing in uniform. This belonged to Laing’s sister, Ilena, whom Laing was very close to. There are holes on the corners as Ilena had tacked the portrait on her wall; Condolence letter (undated) and commemoration scroll from King George VI to Gordon Laing’s parents; Letter from the Commonwealth of Australia Department of the Army on the campaign stars and war medals posthumously awarded to Gordon Laing for his service during World War II. <i>Collection of the National Library, Singapore.</i><br><br><b>REFERENCES</b>
+<br><br>Australian War Memorial. “2/18th Australian Infantry Battalion.” Accessed 8 April 2022. https://www.awm.gov.au/collection/U56061.
+<br><br>Commonwealth War Graves Commission. “Sergeant Gordon Laing.” Accessed 8 April 2022. https://www.cwgc.org/find-records/find-war-dead/casualty-details/2136317/gordon-laing/.<br>
+</div>
+<br>
 <img style="width: 100px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/Janice_Loo.png">
 	<b>Janice Loo</b>&nbsp;is a Librarian with the National Library, Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.
 
