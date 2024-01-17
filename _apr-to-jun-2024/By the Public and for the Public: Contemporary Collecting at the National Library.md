@@ -142,7 +142,7 @@ If you want to contribute something regarding youth culture or food, you may sub
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/Janice1.jpg" style="width: 100px; height: 100px;">
+<img src="/images/Authors/janice_round.png" style="width: 100px; height: 100px;">
 	<b>Janice Loo</b> is a Librarian with the National Library, Singapore. She is part of the team that looks after the Singapore and Southeast Asia Collection, and Rare Materials Collection. Her work includes collection development, content creation, as well as research and reference assistance on topics relating to Singapore and the region.</div>
 
 <div style="background-color: white;">
