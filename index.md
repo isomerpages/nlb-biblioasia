@@ -1070,8 +1070,8 @@ sections:
       description: Joseph Conrad’s visits to Singapore in the late 19th century are
         immortalised in some of his novels, such as Lord Jim and The
         Shadow-Line.
-      button: Button Text
+      button: Sojourn in Singapore
       url: /vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore
       image: /images/Plaque.PNG
-      alt: Image alt text
+      alt: Joseph Conrad
 ---
