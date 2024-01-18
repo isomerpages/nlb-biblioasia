@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/MalayaCup_Hero_img.jpg
   - infopic:
+      title: Joseph Conrad's Singapore
+      subtitle: people
+      id: infopic
+      description: Joseph Conrad’s visits to Singapore in the late 19th century are
+        immortalised in some of his novels, such as Lord Jim and The
+        Shadow-Line.
+      button: Sojourn in Singapore
+      url: /vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore
+      image: /images/Plaque.PNG
+      alt: Joseph Conrad
+  - infopic:
       title: By the Public and for the Public
       subtitle: Collection Highlights
       id: infopic
@@ -1063,15 +1074,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: Joseph Conrad's Singapore
-      subtitle: people
-      id: infopic
-      description: Joseph Conrad’s visits to Singapore in the late 19th century are
-        immortalised in some of his novels, such as Lord Jim and The
-        Shadow-Line.
-      button: Sojourn in Singapore
-      url: /vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore
-      image: /images/Plaque.PNG
-      alt: Joseph Conrad
 ---
