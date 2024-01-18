@@ -25,7 +25,7 @@ Although Conrad did not spend much time in this region, it made a deep impressio
 
 The people, places and events Conrad encountered in the region come alive in works like _Almayer’s Folly_ (1895), _The Outcast of the Islands_ (1896), _Lord Jim_ (1900), _Victory_ (1915) and _The Rescue_ (1920). It is his excellent visual memory of people, landscape, estuaries, rivers, climate, jungle foliage, commerce, local politics, religion and dress that bring his fictional world to life.
 
-![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image2.png)
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image2_edited.png)
 <div>Portrait of Joseph Conrad by George Charles Beresford, 1904.
 <i>© National Portrait Gallery, London.</i></div>
 
@@ -89,6 +89,9 @@ Once Conrad had fully recovered, he would walk daily from the Officers’ Sailor
 “Cavenagh Bridge, opened in 1869, straddled the entrance to the Singapore River and provided one of the most famous views of Singapore. In the late 19th century, Boat Quay would have been packed with a myriad of lighters, tongkangs and sampans bringing goods and people onto the river. The crescent of buildings and warehouses along the quay was taken up with the unloading and loading of these boats. Hundreds of coolies unloaded huge crates, casks, boxes and bales of British manufactured goods into the warehouses, followed by the loading of bales of gambier, bundles of rattans, and bags of tin, sago, tapioca, rice, pepper and spices for export to foreign markets. Conrad describes this scene in his book, _The Rescue_.”
 
 “\[O\]ne evening about six months before Lingard’s last trip, as they were crossing the short bridge over the canal where native craft lay moored in clusters… JÖrgenson pointed at the mass of _praus_, coasting boats, and _sampans_ that, jammed together in the canal, lay covered with mats and flooded by the cold moonlight, with here and there a dim lantern burning amongst the confusion of high sterns, spars, masts, and lowered sails.”[^10]
+
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image14.png)
+<div>A 1900s postcard of Cavenagh Bridge. Completed in 1869, it is the oldest bridge in Singapore that still exists in its original form today. <i>Courtesy of National Archives of Singapore.</i></div>
 
 ![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image8.png)
 <div>View of Boat Quay from Cavenagh Bridge, c. 1906. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
