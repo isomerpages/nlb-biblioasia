@@ -24,7 +24,7 @@ sections:
         immortalised in some of his novels, such as Lord Jim and The
         Shadow-Line.
       button: Sojourn in Singapore
-      url: /vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore
+      url: /vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/
       image: /images/Plaque.PNG
       alt: Joseph Conrad
   - infopic:
