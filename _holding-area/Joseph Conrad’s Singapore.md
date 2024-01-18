@@ -90,7 +90,7 @@ Cavenagh Bridge, opened in 1869, straddled the entrance to the Singapore River a
 
 “\[O\]ne evening about six months before Lingard’s last trip, as they were crossing the short bridge over the canal where native craft lay moored in clusters… JÖrgenson pointed at the mass of _praus_, coasting boats, and _sampans_ that, jammed together in the canal, lay covered with mats and flooded by the cold moonlight, with here and there a dim lantern burning amongst the confusion of high sterns, spars, masts, and lowered sails.”[^10]
 
-![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image14.png)
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/image13.png)
 <div>A 1900s postcard of Cavenagh Bridge. Completed in 1869, it is the oldest bridge in Singapore that still exists in its original form today. <i>Courtesy of National Archives of Singapore.</i></div>
 
 ![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image8.png)
