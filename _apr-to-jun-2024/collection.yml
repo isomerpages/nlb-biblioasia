@@ -2,6 +2,7 @@ collections:
   apr-to-jun-2024:
     output: true
     order:
+      - Joseph Conrad’s Singapore.md
       - "By the Public and for the Public: Contemporary Collecting at the
         National Library.md"
       - Photo Studios During the Japanese Occupation.md
