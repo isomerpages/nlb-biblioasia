@@ -51,7 +51,7 @@ Call no.: RSING 641.595951 PER
 
 ![](/images/Vol%2020%20Issue%201/New%20Books%20on%20Singapore%20history/book4.png)
 
-The Chitty Melaka are descendants of Tamil traders who settled in Melaka during the reign of the Melaka Sultanate and married local women. Embark on a culinary journey with nearly 100 Peranakan Indian recipes – from everyday dishes to festive fare. Each recipe draws inspiration from the diverse skills and stories of different community, collectively echoing the wisdom and warmth of nenek, a term of endearment for grandmothers.
+The Chitty Melaka are descendants of Tamil traders who settled in Melaka during the reign of the Melaka Sultanate and married local women. Embark on a culinary journey with nearly 100 Peranakan Indian recipes – from everyday dishes to festive fare. Each recipe draws inspiration from the diverse skills and stories of different community, collectively echoing the wisdom and warmth of *nenek*, a term of endearment for grandmothers.
 
 
 #### **[Sport in Singapore: Visions for Change](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300007221)**

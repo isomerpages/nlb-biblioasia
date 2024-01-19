@@ -2,7 +2,7 @@
 title: Transcript
 permalink: /podcast/my-grandfather-was-a-romusha/transcript/
 description: ""
-third_nav_title: Episode 1
+third_nav_title: Rōmusha of WWII
 ---
 [Music playing]
 

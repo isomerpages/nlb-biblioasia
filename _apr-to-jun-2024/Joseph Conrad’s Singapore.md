@@ -1,10 +1,11 @@
 ---
 title: Joseph Conrad’s Singapore
-permalink: /holding-area/josephconradtest/
+permalink: /vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/
 variant: markdown
 description: Joseph Conrad’s visits to Singapore in the late 19th century are
   immortalised in some of his novels, such as Lord Jim, The End of the Tether
   and The Shadow-Line.
+image: /images/Vol 20 Issue 1/Joseph Conrad/Image1.png
 ---
 #### Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as _Lord Jim_, _The End of the Tether_ and _The Shadow-Line_.  
 By Ian Burnet
@@ -12,19 +13,19 @@ By Ian Burnet
 
 A metal plaque dedicated to Joseph Conrad stands in front of the Fullerton Hotel in Singapore. The text on the memorial describes Conrad as a “British Master Mariner and great English writer who made Singapore and the whole of Southeast Asia better known to the world”.
 
-![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image1.png)
-<div>The Master Attendant’s Office next to Cavenagh Bridge, 1890. The distinctive roof of the post office can be seen in the background. Photo by G.R.Lambert. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
-
-The plaque, which is well over 2 metres high, can be found just across a small road from the hotel, close to Cavenagh Bridge. Flanked by shrubbery, the memorial’s placement is no coincidence. Conrad had been a seaman before turning to writing and Singapore had served as his homeport for five months in the late 1880s. Conrad would have been a regular visitor to the spot where the Fullerton Hotel is now because this was where the Master Attendant’s Office had been. (The Master Attendant, whom Conrad referred to as the Harbour Master, was responsible for the control of shipping in the roadstead.)
-
 ![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image3.png)
 <div>The memorial plaque in honour of Joseph Conrad, located in front of the Fullerton Hotel, 2023. <i>Photo by Jimmy Yap.</i></div>
 
+The plaque, which is well over 2 metres high, can be found just across a small road from the hotel, close to Cavenagh Bridge. Flanked by shrubbery, the memorial’s placement is no coincidence. Conrad had been a seaman before turning to writing and Singapore had served as his homeport for five months in the late 1880s. Conrad would have been a regular visitor to the spot where the Fullerton Hotel is now because this was where the Master Attendant’s Office had been. (The Master Attendant, whom Conrad referred to as the Harbour Master, was responsible for the control of shipping in the roadstead.)
+
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image1.png)
+<div>The Master Attendant’s Office next to Cavenagh Bridge, 1890. The distinctive roof of the post office can be seen in the background. Photo by G.R.Lambert. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
+
 Although Conrad did not spend much time in this region, it made a deep impression on him; about half of everything he wrote revolves around this part of the world. This includes five novels and more than a dozen short stories and novellas. Many of them were directly based on his experience as first mate on a ship that sailed regularly from Singapore to a small trading post about 48 km up the Berau River on the east coast of Borneo between 1887 and 1888.&nbsp;
 
-The people, places and events Conrad encountered in the region come alive in works like _Almayer’s Folly_ (1895), _The Outcast of the Islands_ (1896), _Lord Jim_ (1900), _Victor_y (1915) and _The Rescue_ (1920). It is his excellent visual memory of people, landscape, estuaries, rivers, climate, jungle foliage, commerce, local politics, religion and dress that bring his fictional world to life.
+The people, places and events Conrad encountered in the region come alive in works like _Almayer’s Folly_ (1895), _The Outcast of the Islands_ (1896), _Lord Jim_ (1900), _Victory_ (1915) and _The Rescue_ (1920). It is his excellent visual memory of people, landscape, estuaries, rivers, climate, jungle foliage, commerce, local politics, religion and dress that bring his fictional world to life.
 
-![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image2.png)
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image2_edited.png)
 <div>Portrait of Joseph Conrad by George Charles Beresford, 1904.
 <i>© National Portrait Gallery, London.</i></div>
 
@@ -39,9 +40,9 @@ This was Conrad’s first view of Singapore. Before him was Johnston’s Pier, t
 
 Singapore is the “Eastern port” referred to in _Lord Jim_, _The End of the Tether_ (1902) and _The Shadow-Line_ (1917), even though Conrad never names the port. In _The End of the Tether_, Captain Henry Whalley of the steamer _Sofala_ describes the busy harbour with the ships and the Riau Islands in the background:
 
-Some of these avenues ended at the sea. It was a terraced shore, and beyond, upon the level expanse, profound and glistening like the gaze of a dark-blue eye, an oblique band of stippled purple lengthened itself indefinitely through the gap between a couple of verdant twin islets. The masts and spars of a few ships far away, hull down in the outer roads, sprang straight from the water in a fine maze of rosy lines pencilled on the clear shadow of the eastern board.[^2]
+“Some of these avenues ended at the sea. It was a terraced shore, and beyond, upon the level expanse, profound and glistening like the gaze of a dark-blue eye, an oblique band of stippled purple lengthened itself indefinitely through the gap between a couple of verdant twin islets. The masts and spars of a few ships far away, hull down in the outer roads, sprang straight from the water in a fine maze of rosy lines pencilled on the clear shadow of the eastern board.”[^2]
 
-Close to the Master Attendant’s Office was Emmerson’s Tiffin Rooms on Flint Street, which drew sailors, merchants and visitors to its daily lunch menu. It advertised a Tiffin à la carte that is best described as Mulligatawny soup and a Malay chicken curry and rice. These men liked the noisy camaraderie of the place, where patrons exchanged tales of ships, sailors, disasters at sea, piracy, and the latest rumours.&nbsp; &nbsp;
+Close to the Master Attendant’s Office was Emmerson’s Tiffin Rooms on Flint Street, which drew sailors, merchants and visitors to its daily lunch menu. It advertised a Tiffin à la carte that is best described as Mulligatawny soup and a Malay chicken curry and rice. These men liked the noisy camaraderie of the place, where patrons exchanged tales of ships, sailors, disasters at sea, piracy, and the latest rumours.
 
 At the junction of Flint Street and Battery Road was the ship chandler McAlister and Company. A vast cavern-like space, the store contained every sundry item that a ship needed to put to sea.
 
@@ -76,24 +77,24 @@ As Conrad’s injuries persisted even after the _Highland Forest_ had unloaded i
 
 Conrad was discharged from the _Highland Forest_ on 1 July 1887 and sent on the next ship for hospitalisation in Singapore. Here, he was registered at the hospital as a “Distressed British Seaman” to recuperate. In _The Mirror of the Sea_, a collection of autobiographical essays, Conrad describes what it was like lying on his back in a Far Eastern hospital and having “plenty of leisure to remember the dreadful cold and snow of Amsterdam, while looking at the fronds of the palm-trees tossing and rustling at the height of the window”.[^8] Conrad’s experience is the likely inspiration for the scene in _Lord Jim_ when the young seaman recuperates in a hospital in that unnamed Eastern port:
 
-The hospital stood on a hill, and a gentle breeze entering through the windows, always flung wide open, brought into the bare room the softness of the sky, the languor of the earth, the bewitching breath of the Eastern waters. There were perfumes in it, suggestions of infinite repose, the gift of endless dreams. Jim looked every day over the thickets of gardens, beyond the roofs of the town, over the fronds of palms growing on the shore, at that roadstead which is a thoroughfare to the East, – at the roadstead dotted by garlanded islets, lighted by festal sunshine, its ships like toys, its brilliant activity resembling a holiday pageant, with the eternal serenity of the Eastern sky overhead and the smiling peace of the Eastern seas possessing the space as far as the horizon.[^9]
+“The hospital stood on a hill, and a gentle breeze entering through the windows, always flung wide open, brought into the bare room the softness of the sky, the languor of the earth, the bewitching breath of the Eastern waters. There were perfumes in it, suggestions of infinite repose, the gift of endless dreams. Jim looked every day over the thickets of gardens, beyond the roofs of the town, over the fronds of palms growing on the shore, at that roadstead which is a thoroughfare to the East, – at the roadstead dotted by garlanded islets, lighted by festal sunshine, its ships like toys, its brilliant activity resembling a holiday pageant, with the eternal serenity of the Eastern sky overhead and the smiling peace of the Eastern seas possessing the space as far as the horizon.”[^9]
 
 As soon as he could walk unaided, Conrad checked out of the hospital for a further period of rehabilitation and to look for a berth back to England. While waiting, he stayed in the Officers’ Sailors Home again and spent time with the other seamen in the port.
-
-![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image11.png)
-<div>The old general post office. The Master Attendant’s Office would have been on the left. c. 1900. <i>Andrew Tan Collection, courtesy of National Archives of Singapore.</i></div>
 
 Once Conrad had fully recovered, he would walk daily from the Officers’ Sailors Home towards the Master Attendant’s Office to look for a passage home. Along the way, he would have passed the white spire of St Andrew’s Cathedral, the frontages of the new government buildings, the famous Hotel de l’Europe (site of the former Supreme Court building and part of the National Gallery Singapore today) and along the shaded Esplanade with its enormous trees towards the Singapore River. He would then cross Cavenagh Bridge to reach the Master Attendant’s Office at the other end of the bridge.
 
 ![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image10.png)
 <div>Hotel de l'Europe on the corner of High Street and Esplanade Road, c. 1906. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
-Cavenagh Bridge, opened in 1869, straddled the entrance to the Singapore River and provided one of the most famous views of Singapore. In the late 19th century, Boat Quay would have been packed with a myriad of lighters, tongkangs and sampans bringing goods and people onto the river. The crescent of buildings and warehouses along the quay was taken up with the unloading and loading of these boats. Hundreds of coolies unloaded huge crates, casks, boxes and bales of British manufactured goods into the warehouses, followed by the loading of bales of gambier, bundles of rattans, and bags of tin, sago, tapioca, rice, pepper and spices for export to foreign markets. Conrad describes this scene in his book, _The Rescue_
+Cavenagh Bridge, opened in 1869, straddled the entrance to the Singapore River and provided one of the most famous views of Singapore. In the late 19th century, Boat Quay would have been packed with a myriad of lighters, tongkangs and sampans bringing goods and people onto the river. The crescent of buildings and warehouses along the quay was taken up with the unloading and loading of these boats. Hundreds of coolies unloaded huge crates, casks, boxes and bales of British manufactured goods into the warehouses, followed by the loading of bales of gambier, bundles of rattans, and bags of tin, sago, tapioca, rice, pepper and spices for export to foreign markets. Conrad describes this scene in his book, _The Rescue_:
+
+“\[O\]ne evening about six months before Lingard’s last trip, as they were crossing the short bridge over the canal where native craft lay moored in clusters… JÖrgenson pointed at the mass of _praus_, coasting boats, and _sampans_ that, jammed together in the canal, lay covered with mats and flooded by the cold moonlight, with here and there a dim lantern burning amongst the confusion of high sterns, spars, masts, and lowered sails.”[^10]
+
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/image13.png)
+<div>A 1900s postcard of Cavenagh Bridge. Completed in 1869, it is the oldest bridge in Singapore that still exists in its original form today. <i>Courtesy of National Archives of Singapore.</i></div>
 
 ![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image8.png)
 <div>View of Boat Quay from Cavenagh Bridge, c. 1906. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore.</i></div>
-
-\[O\]ne evening about six months before Lingard’s last trip, as they were crossing the short bridge over the canal where native craft lay moored in clusters… JÖrgenson pointed at the mass of _praus_, coasting boats, and _sampans_ that, jammed together in the canal, lay covered with mats and flooded by the cold moonlight, with here and there a dim lantern burning amongst the confusion of high sterns, spars, masts, and lowered sails.[^10]
 
 #### **Voyages on the Vidar**
 
@@ -107,26 +108,26 @@ On the _Vidar_, Conrad makes four voyages from Singapore to the Berau River in B
 
 He had just given up a good berth and a comfortable life in a fine little steamship with an excellent master. However, Conrad’s ambition was to command a sailing ship, a square rigger, not in the comfortable waters of the East Indies, but on the great oceans of the world. In _The Shadow-Line_, which is based on Conrad’s own experience of his first command, the protagonist, who was accompanied by his captain, describes a similar event, of signing off from a ship, as taking place in the Harbour Office, in a “lofty, big, cool white room” where everyone is in white.
 
-The official behind the desk we approached grinned amiably and kept it up till, in answer to his perfunctory question, “Sign off and on again?” my Captain answered, “No! Signing off for good.” And then his grin vanished in sudden solemnity. He did not look at me again till he handed me my papers with a sorrowful expression, as if they had been my passports for Hades. While I was putting them away he murmured some question to the Captain, and I heard the latter answer good-humouredly: “No. He leaves us to go home.” “Oh!” the other exclaimed, nodding mournfully over my sad condition.[^13]
+“The official behind the desk we approached grinned amiably and kept it up till, in answer to his perfunctory question, “Sign off and on again?” my Captain answered, “No! Signing off for good.” And then his grin vanished in sudden solemnity. He did not look at me again till he handed me my papers with a sorrowful expression, as if they had been my passports for Hades. While I was putting them away he murmured some question to the Captain, and I heard the latter answer good-humouredly: “No. He leaves us to go home.” “Oh!” the other exclaimed, nodding mournfully over my sad condition.”[^13]
 
 #### **Commanding the Otago**
 
 Conrad was ashore for two weeks when he received a message on 19 January 1888 that the Harbour Master would like to see him urgently. The Harbour Master explained that the master of a British ship, the _Otago_, had died in Bangkok and the Consul-General there had cabled him to request for a competent man to take command.[^14] Since Conrad already had his Master’s ticket, the Harbour Master gave him an agreement which read:
 
-This is to inform you that you are required to proceed in the S.S. _Melita_ to Bangkok and you will report your arrival to the British Consul and produce this memorandum which will show that I have engaged you to be the Master of the _Otago_.[^15]
+“This is to inform you that you are required to proceed in the S.S. _Melita_ to Bangkok and you will report your arrival to the British Consul and produce this memorandum which will show that I have engaged you to be the Master of the _Otago_.”[^15]
 
 ![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image9.png)
 <div>Joseph Conrad commanded the <i>Otago</i> between 1888 and 1889. <i>Courtesy of State Library of Queensland. </i></div>
 
 Conrad would undoubtedly have been thrilled by this twist of fate. Perhaps he felt the same way the protagonist did in _The Shadow-Line_, who likewise had just been given his first command:
 
-And now here I had my command, absolutely in my pocket, in a way undeniable indeed, but most unexpected; beyond my imaginings, outside all reasonable expectations, and even notwithstanding the existence of some sort of obscure intrigue to keep it away from me. It is true that the intrigue was feeble, but it helped the feeling of wonder – as if I had been specially destined for that ship I did not know, by some power higher than the prosaic agencies of the commercial world.[^16]
+“And now here I had my command, absolutely in my pocket, in a way undeniable indeed, but most unexpected; beyond my imaginings, outside all reasonable expectations, and even notwithstanding the existence of some sort of obscure intrigue to keep it away from me. It is true that the intrigue was feeble, but it helped the feeling of wonder – as if I had been specially destined for that ship I did not know, by some power higher than the prosaic agencies of the commercial world.”[^16]
 
 The _Melita_ was leaving for Bangkok that evening and Conrad would be on it. He arrived in Bangkok on 24 January 1888 and as the coastal steamer came up the river, its captain was able to point out Conrad’s new ship. The lines of its fine body and well-proportioned spars pleased Conrad immensely as this was a high-class vessel, a vessel he would be proud to command.&nbsp;
 
 After almost two years away, Conrad returned to London in May 1889, idle and without a ship. His memory and imagination returned to Singapore and the Malay Archipelago, and he began writing a novel based on his voyages from Singapore on the _Vidar_. As he wrote in his autobiographical work, _A Personal Record_ (1912), the characters from his time on the Berau River began to visit him while he was in-between work in London:
 
-It was in the front sitting-room of furnished apartments in a Pimlico square that they first began to live again with a vividness and poignancy quite foreign to our former real intercourse. I had been treating myself to a long stay on shore, and in the necessity of occupying my mornings, Almayer (that old acquaintance) came nobly to the rescue. Before long, as was only proper, his wife and daughter joined him round my table and then the rest of that Pantai band came full of words and gestures. Unknown to my respectable landlady, it was my practice directly after my breakfast to hold animated receptions of Malays, Arabs, and half-castes.[^17]
+“It was in the front sitting-room of furnished apartments in a Pimlico square that they first began to live again with a vividness and poignancy quite foreign to our former real intercourse. I had been treating myself to a long stay on shore, and in the necessity of occupying my mornings, Almayer (that old acquaintance) came nobly to the rescue. Before long, as was only proper, his wife and daughter joined him round my table and then the rest of that Pantai band came full of words and gestures. Unknown to my respectable landlady, it was my practice directly after my breakfast to hold animated receptions of Malays, Arabs, and half-castes.”[^17]
 
 These characters and places eventually end up populating _Almayer’s Folly_, Conrad’s first novel. Published in 1895, the work would launch Conrad’s career as a writer. He would go on to draw upon his experiences in the Malay world in subsequent novels and short stories. Along the way, he helped craft a particular image of Singapore, the Malay Archipelgo and the Dutch East Indies in the imagination of the reading public.
 

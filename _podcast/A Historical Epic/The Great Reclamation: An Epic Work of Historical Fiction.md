@@ -1,9 +1,10 @@
 ---
-title: The Great Reclamation
+title: "The Great Reclamation: An Epic Work of Historical Fiction"
 permalink: /podcast/the-great-reclamation/
 description: ""
 image: /images/Podcast/ep 13 (rachel heng).jpg
-third_nav_title: Episode 13
+third_nav_title: A Historical Epic
+variant: tiptap
 ---
 [*The Great Reclamation*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=206018224) is a work of historical fiction set in Singapore that has received rave reviews from the *New Yorker* and the *New York Times*. A love story, it also took five years of serious research into a variety of topics, including land reclamation, the Japanese occupation, and postwar politics in Singapore. Listen to author Rachel Heng talk about her book and her fascinating research process, which includes a *BiblioAsia* article on [land reclamation](/vol-13/issue-1/apr-jun-2017/land-from-sand/) she referred to!
 

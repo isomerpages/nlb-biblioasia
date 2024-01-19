@@ -3,15 +3,19 @@ collections:
     output: true
     order:
       - BiblioAsia.md
-      - Episode 14/.keep
-      - Episode 14/Artist Yip Yew Chong Paints His Story in History.md
-      - Episode 14/Transcript.md
-      - Episode 13/.keep
-      - Episode 13/The Great Reclamation.md
-      - Episode 13/Transcript.md
-      - Episode 12/.keep
-      - Episode 12/What’s Become of the Seafaring Orang Seletar?.md
-      - Episode 12/Transcript.md
+      - The German Girl Shrine/.keep
+      - The German Girl Shrine/The True Story Behind Ubin's German Girl Shrine.md
+      - The German Girl Shrine/Transcript.md
+      - Yip Yew Chong/.keep
+      - Yip Yew Chong/Artist Yip Yew Chong Paints His Story in History.md
+      - Yip Yew Chong/Transcript.md
+      - A Historical Epic/.keep
+      - "A Historical Epic/The Great Reclamation: An Epic Work of Historical
+        Fiction.md"
+      - A Historical Epic/Transcript.md
+      - Orang Seletar/.keep
+      - Orang Seletar/What’s Become of the Seafaring Orang Seletar?.md
+      - Orang Seletar/Transcript.md
       - Episode 11/.keep
       - "Episode 11/Lest We Forget: Kranji War Cemetery.md"
       - Episode 11/Transcript.md
@@ -42,6 +46,6 @@ collections:
       - Episode 2/.keep
       - Episode 2/Taoist Folk Goddesses of Singapore.md
       - Episode 2/Transcript.md
-      - Episode 1/.keep
-      - Episode 1/My Grandfather Was a Rōmusha.md
-      - Episode 1/Transcript.md
+      - Rōmusha of WWII/.keep
+      - Rōmusha of WWII/My Grandfather Was a Rōmusha.md
+      - Rōmusha of WWII/Transcript.md
