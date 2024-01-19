@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/MalayaCup_Hero_img.jpg
   - infopic:
+      title: The True Story Behind Ubin's German Girl Shrine
+      subtitle: podcast
+      id: infopic
+      description: A young German girl met an untimely end on Pulau Ubin in 1914. A
+        shrine set up in her honour becomes Internet-famous.
+      button: Listen to Biblioasia+
+      alt: Ubin's German Girl Shrine
+      url: /podcast/german-girl-shrine/
+      image: /images/Podcast/isomer_home_william.jpg
+  - infopic:
       title: Joseph Conrad's Singapore
       subtitle: people
       id: infopic

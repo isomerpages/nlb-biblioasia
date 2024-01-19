@@ -5,7 +5,7 @@ description: ""
 image: /images/Podcast/podcast logo.jpg
 variant: markdown
 ---
-tre#### **About** ####
+#### **About** ####
 BiblioAsia+ is a podcast about Singapore stories: some unfamiliar, others forgotten, all fascinating. Does Singapore have a stone age? What’s happened to the murals at the old Paya Lebar airport? Who were the local tennis greats? Find out in this history-focused podcast by the National Library of Singapore.
 
 <img src="/images/Podcast/podcast%20logo.jpg" style="width:50%; height:auto;">
@@ -14,11 +14,11 @@ BiblioAsia+ is a podcast about Singapore stories: some unfamiliar, others forgot
 Subscribe to get notified when the next episode drops:
 [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156). 
 
-<a style="text-decoration: none; font-weight: bold;" href="/podcast/yip-yew-chong/"> The True Story Behind Ubin's German Girl Shrine</a> <br>
+<a style="text-decoration: none; font-weight: bold;" href="/podcast/german-girl-shrine/"> The True Story Behind Ubin's German Girl Shrine</a> <br>
 <img style="width: 28%" src="/images/Podcast/audiogram_william.jpg" align="left"><br clear="all">
 Listen on: [Spotify](https://open.spotify.com/episode/5GYGnnrXcLX9WEae1XvILj), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-true-story-behind-ubins-german-girl-shrine/id1688142751?i=1000642186612), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MTBiYjgzYWMtOWVlOC00ZWQ3LTkxNjktMWMyZWM1ODViMzk2?sa=X&amp;ved=0CAUQkfYCahcKEwjQo-WZ6uiDAxUAAAAAHQAAAAAQCg)
 
-A young German girl meet an untimely end on Pulau Ubin in 1914. A shrine set up in her honour becomes Internet-famous. Following a deep search into the historical records, writer and researcher William Gibson discovers some inconvenient truths behind one of Singapore’s best-known shrines.
+A young German girl met an untimely end on Pulau Ubin in 1914. A shrine set up in her honour becomes Internet-famous. Following a deep search into the historical records, writer and researcher William Gibson discovers some inconvenient truths behind one of Singapore’s best-known shrines.
 
 
 
