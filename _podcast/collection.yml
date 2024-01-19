@@ -2,9 +2,9 @@ collections:
   podcast:
     output: true
     order:
-      - The German Girl Shrine/Transcript.md
-      - The German Girl Shrine/The True Story Behind Ubin's German Girl Shrine.md
       - The German Girl Shrine/.keep
+      - The German Girl Shrine/The True Story Behind Ubin's German Girl Shrine.md
+      - The German Girl Shrine/Transcript.md
       - BiblioAsia.md
       - Episode 14/.keep
       - Episode 14/Artist Yip Yew Chong Paints His Story in History.md
