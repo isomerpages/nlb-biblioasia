@@ -5,7 +5,7 @@ description: ""
 image: /images/Podcast/podcast logo.jpg
 variant: markdown
 ---
-#### **About** ####
+tre#### **About** ####
 BiblioAsia+ is a podcast about Singapore stories: some unfamiliar, others forgotten, all fascinating. Does Singapore have a stone age? What’s happened to the murals at the old Paya Lebar airport? Who were the local tennis greats? Find out in this history-focused podcast by the National Library of Singapore.
 
 <img src="/images/Podcast/podcast%20logo.jpg" style="width:50%; height:auto;">
@@ -24,11 +24,12 @@ A young German girl meet an untimely end on Pulau Ubin in 1914. A shrine set up 
 
 <a style="text-decoration: none; font-weight: bold;" href="/podcast/yip-yew-chong/"> Artist Yip Yew Chong Paints His Story in History</a> <br>
 <img style="width: 28%" src="/images/Podcast/audiogram_yew_chong.jpg" align="left"><br clear="all">
-Listen on: [Spotify](https://open.spotify.com/episode/6NYgoIymDy90Ng76tWsjsr), [Apple Podcasts](https://podcasts.apple.com/us/podcast/artist-yip-yew-chong-paints-his-story-in-history/id1688142751?i=1000639313389), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZDE1YTc1MmMtYmU1Ni00ODE4LTliYWQtYzY5NmRhNzY0ZDJm?sa=X&amp;ved=0CAUQkfYCahcKEwiI56C6nqCDAxUAAAAAHQAAAAAQNA), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Artist-Yip-Yew-Chong-Paints-His-Story-in-History-2278281)
- 
-Yip Yew Chong’s 60-m long work, “I Paint my Singapore”, has been drawing crowds when it went on display at the Raffles City Convention Centre. Comprising 27 scenes of 1970s–1980s Singapore, the painting merges history, memory and nostalgia. In this episode of BiblioAsia+, Yew Chong explains how these works were created and reveals what he would love to paint but cannot.
+Listen on: [Spotify](https://open.spotify.com/episode/6NYgoIymDy90Ng76tWsjsr), [Apple Podcasts](https://podcasts.apple.com/us/podcast/artist-yip-yew-chong-paints-his-story-in-history/id1688142751?i=1000639313389), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZDE1YTc1MmMtYmU1Ni00ODE4LTliYWQtYzY5NmRhNzY0ZDJm?sa=X&amp;ved=0CAUQkfYCahcKEwiI56C6nqCDAxUAAAAAHQAAAAAQNA), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Artist-Yip-Yew-Chong-Paints-His-Story-in-History-2278281)<br>
 
-<a style="text-decoration: none; font-weight: bold;" href="/podcast/the-great-reclamation/"> The Great Reclamation</a> <br>
+Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, drew huge crowds when it went on display at the Raffles City Convention Centre. Comprising 27 scenes of 1970s–1980s Singapore, the painting merges history, memory and nostalgia. In this episode of BiblioAsia+, Yew Chong explains how these works were created and reveals what he would love to paint but cannot.
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/podcast/the-great-reclamation/"> The Great Reclamation: A Singaporean Historical Epic</a> <br>
 <img style="width: 28%" src="/images/Podcast/ep%2013%20(rachel%20heng).jpg" align="left"><br clear="all">
 Listen on: [Spotify](https://open.spotify.com/episode/6vGhTAmDHGqSJulPUEurv6), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-great-reclamation/id1688142751?i=1000625199927), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MzRlY2UzN2QtOWMyNC00MDI3LTkyODAtYzlhODUxYjEzYWYy?sa=X&amp;ved=0CAUQkfYCahcKEwiw0brBiO-AAxUAAAAAHQAAAAAQAQ), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Great-Reclamation-2115201)<br>
 
