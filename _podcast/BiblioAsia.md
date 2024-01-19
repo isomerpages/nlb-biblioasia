@@ -14,7 +14,7 @@ BiblioAsia+ is a podcast about Singapore stories: some unfamiliar, others forgot
 Subscribe to get notified when the next episode drops:
 [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156). 
 
-<a style="text-decoration: none; font-weight: bold;" href="/podcast/yip-yew-chong/"> The True Story Behind Ubin's German Girl Shrine</a> <br>
+<a style="text-decoration: none; font-weight: bold;" href="/podcast/german-girl-shrine/"> The True Story Behind Ubin's German Girl Shrine</a> <br>
 <img style="width: 28%" src="/images/Podcast/audiogram_william.jpg" align="left"><br clear="all">
 Listen on: [Spotify](https://open.spotify.com/episode/5GYGnnrXcLX9WEae1XvILj), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-true-story-behind-ubins-german-girl-shrine/id1688142751?i=1000642186612), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MTBiYjgzYWMtOWVlOC00ZWQ3LTkxNjktMWMyZWM1ODViMzk2?sa=X&amp;ved=0CAUQkfYCahcKEwjQo-WZ6uiDAxUAAAAAHQAAAAAQCg)
 
