@@ -1074,4 +1074,12 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: "A young German girl meet an untimely end on Pulau Ubin in 1914. A
+        shrine set up in her honour becomes Internet-famous. "
+      button: Button Text
+      alt: Image alt text
 ---
