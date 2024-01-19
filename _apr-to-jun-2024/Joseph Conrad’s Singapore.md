@@ -21,6 +21,9 @@ The plaque, which is well over 2 metres high, can be found just across a small r
 ![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image1.png)
 <div>The Master Attendant’s Office next to Cavenagh Bridge, 1890. The distinctive roof of the post office can be seen in the background. Photo by G.R.Lambert. <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
+![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image7.png)
+<div>Fullerton Hotel and Cavenagh Bridge, 2023. The old Master Attendant’s Office would have been at the river-facing front of today’s Fullerton Hotel. <i>Photo by Jimmy Yap.</i></div>
+
 Although Conrad did not spend much time in this region, it made a deep impression on him; about half of everything he wrote revolves around this part of the world. This includes five novels and more than a dozen short stories and novellas. Many of them were directly based on his experience as first mate on a ship that sailed regularly from Singapore to a small trading post about 48 km up the Berau River on the east coast of Borneo between 1887 and 1888.&nbsp;
 
 The people, places and events Conrad encountered in the region come alive in works like _Almayer’s Folly_ (1895), _The Outcast of the Islands_ (1896), _Lord Jim_ (1900), _Victory_ (1915) and _The Rescue_ (1920). It is his excellent visual memory of people, landscape, estuaries, rivers, climate, jungle foliage, commerce, local politics, religion and dress that bring his fictional world to life.
@@ -47,15 +50,12 @@ Close to the Master Attendant’s Office was Emmerson’s Tiffin Rooms on Flint 
 At the junction of Flint Street and Battery Road was the ship chandler McAlister and Company. A vast cavern-like space, the store contained every sundry item that a ship needed to put to sea.
 
 ![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image5.png)
-<div> In this 1890 map, the Master Attendant’s Office can be seen in the bottom left, next to the post office. McAlister and Company is located at no. 5, at the junction of Flint Street and Battery Road. Emmerson’s Tiffin Rooms is listed as occupying the upper floors of nos. 1 and 2. <i>Image reproduced from B.E. D’Aranjo, The Stranger’s Guide to Singapore (Singapore: Sirangoon Press, 1890), 4f, 4g. (From National Library Online).</i></div>
+<div> In this 1890 map, the Master Attendant’s Office can be seen in the top left, next to the post office. McAlister and Company is located at no. 5, at the junction of Flint Street and Battery Road. Emmerson’s Tiffin Rooms is listed as occupying the upper floors of nos. 1 and 2. <i>Image reproduced from B.E. D’Aranjo, The Stranger’s Guide to Singapore (Singapore: Sirangoon Press, 1890), 4f, 4g. (From National Library Online).</i></div>
 
 ![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image6.png)
 <div>  In this view from across the Singapore River, the Fullerton Hotel to the left of Cavenagh Bridge is where the Master Attendant’s Office would have been. To the immediate right of the bridge would have been Flint’s Building, where Emmerson’s Tiffin Rooms was located. It is now Maybank Tower. McAlister and Company’s godown would have been immediately opposite, just across Flint Street, where the Bank of China building stands today. <i>Photo by Jimmy Yap.</i></div>
 
 Records show that Conrad was discharged from the _Palestine_ on 3 April 1883 and he remained in Singapore for the whole of April while waiting for a passage back to England. He would have stayed in the Officers’ Sailors Home on High Street, behind St Andrew’s Cathedral, until he embarked on his return passage in May that year.
-
-![](/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image7.png)
-<div>Fullerton Hotel and Cavenagh Bridge, 2023. The old Master Attendant’s Office would have been at the river-facing front of today’s Fullerton Hotel. <i>Photo by Jimmy Yap.</i></div>
 
 In _The Shadow-Line_, he described the home, which he called the Officers’ Home, as a “large bungalow with a wide verandah and a curiously suburban-looking little garden of bushes and a few trees between it and the street. That institution partook somewhat of the character of a residential club, but with a slightly Governmental flavour about it, because it was administered by the Harbour Office. Its manager was officially styled Chief Steward”.[^3]
 
