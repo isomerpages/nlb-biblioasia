@@ -1075,11 +1075,13 @@ sections:
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: The True Story Behind Ubin's German Girl Shrine
+      subtitle: podcast
       id: infopic
-      description: "A young German girl meet an untimely end on Pulau Ubin in 1914. A
-        shrine set up in her honour becomes Internet-famous. "
-      button: Button Text
-      alt: Image alt text
+      description: A young German girl meet an untimely end on Pulau Ubin in 1914. A
+        shrine set up in her honour becomes Internet-famous.
+      button: Listen to Biblioasia+
+      alt: Ubin's German Girl Shrine
+      url: /podcast/german-girl-shrine/
+      image: /images/Podcast/isomer_home_william.jpg
 ---
