@@ -15,13 +15,13 @@ Subscribe to get notified when the next episode drops:
 [Spotify](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN), [Apple Podcasts](https://podcasts.apple.com/us/podcast/biblioasia/id1688142751), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156). 
 
 <a style="text-decoration: none; font-weight: bold;" href="/podcast/yip-yew-chong/"> The True Story Behind Ubin's German Girl Shrine</a> <br>
-
-
+<img style="width: 28%" src="/images/Podcast/audiogram_william.jpg" align="left"><br clear="all">
+Listen on: [Spotify](https://open.spotify.com/episode/5GYGnnrXcLX9WEae1XvILj), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-true-story-behind-ubins-german-girl-shrine/id1688142751?i=1000642186612), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MTBiYjgzYWMtOWVlOC00ZWQ3LTkxNjktMWMyZWM1ODViMzk2?sa=X&amp;ved=0CAUQkfYCahcKEwjQo-WZ6uiDAxUAAAAAHQAAAAAQCg)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/podcast/yip-yew-chong/"> Artist Yip Yew Chong Paints His Story in History</a> <br>
 <img style="width: 28%" src="/images/Podcast/audiogram_yew_chong.jpg" align="left"><br clear="all">
- Listen on: [Spotify](https://open.spotify.com/episode/6NYgoIymDy90Ng76tWsjsr), [Apple Podcasts](https://podcasts.apple.com/us/podcast/artist-yip-yew-chong-paints-his-story-in-history/id1688142751?i=1000639313389), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZDE1YTc1MmMtYmU1Ni00ODE4LTliYWQtYzY5NmRhNzY0ZDJm?sa=X&amp;ved=0CAUQkfYCahcKEwiI56C6nqCDAxUAAAAAHQAAAAAQNA), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Artist-Yip-Yew-Chong-Paints-His-Story-in-History-2278281)
+Listen on: [Spotify](https://open.spotify.com/episode/6NYgoIymDy90Ng76tWsjsr), [Apple Podcasts](https://podcasts.apple.com/us/podcast/artist-yip-yew-chong-paints-his-story-in-history/id1688142751?i=1000639313389), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZDE1YTc1MmMtYmU1Ni00ODE4LTliYWQtYzY5NmRhNzY0ZDJm?sa=X&amp;ved=0CAUQkfYCahcKEwiI56C6nqCDAxUAAAAAHQAAAAAQNA), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Artist-Yip-Yew-Chong-Paints-His-Story-in-History-2278281)
  
 Yip Yew Chong’s 60-m long work, “I Paint my Singapore”, has been drawing crowds when it went on display at the Raffles City Convention Centre. Comprising 27 scenes of 1970s–1980s Singapore, the painting merges history, memory and nostalgia. In this episode of BiblioAsia+, Yew Chong explains how these works were created and reveals what he would love to paint but cannot.
 
