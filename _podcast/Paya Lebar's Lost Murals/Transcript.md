@@ -2,7 +2,7 @@
 title: Transcript
 permalink: /podcast/murals/transcript/
 description: ""
-third_nav_title: The Lost Murals
+third_nav_title: Paya Lebar's Lost Murals
 ---
 [Music playing]
 
