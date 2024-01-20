@@ -57,7 +57,7 @@ At the junction of Flint Street and Battery Road was the ship chandler McAlister
 
 Records show that Conrad was discharged from the _Palestine_ on 3 April 1883 and he remained in Singapore for the whole of April while waiting for a passage back to England. He would have stayed in the Officers’ Sailors Home on High Street, behind St Andrew’s Cathedral, until he embarked on his return passage in May that year.
 
-In _The Shadow-Line_, he described the home, which he called the Officers’ Home, as a “large bungalow with a wide verandah and a curiously suburban-looking little garden of bushes and a few trees between it and the street. That institution partook somewhat of the character of a residential club, but with a slightly Governmental flavour about it, because it was administered by the Harbour Office. Its manager was officially styled Chief Steward”.[^3]
+In _The Shadow-Line_, he describes the home, which he refers to as the Officers’ Home, as a “large bungalow with a wide verandah and a curiously suburban-looking little garden of bushes and a few trees between it and the street. That institution partook somewhat of the character of a residential club, but with a slightly Governmental flavour about it, because it was administered by the Harbour Office. Its manager was officially styled Chief Steward”.[^3]
 
 Conrad also frequented the port area, including the various cafes and bars where seamen congregated to swap stories and compare voyages.[^4] It is likely that while waiting to return to England in 1883, he would have become acquainted with the scandal around the pilgrim ship _Jeddah_, whose events provided the inspiration for the setting of _Lord Jim_.&nbsp;
 
