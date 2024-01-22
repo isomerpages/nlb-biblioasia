@@ -39,9 +39,9 @@ That was also what her younger sister Soo Khim did, or at least tried to do. Soo
 
 After graduating in 1966, Soo Khim returned to Singapore and joined her sister Soo Nee as a principal trainer at the SBA. When Soo Nee emigrated to Canada, Soo Khim took over the reins as director and principal in 1971.[^7]
 
-At one point, the third Goh sibling, Choo San, had been hailed by the *New York Times* as “the most sought after choreographer in America”. Beyond being a successful dancer himself, he was also a renowned choreographer to the point that Mikhail Baryshnikov, one of the leading male dancers in the United States and a noted dance director, commissioned Choo San to create a work in 1978.[^8] “From my point of view, he’s one of the few young choreographers who has musical instinct,” recalled Baryshnikov. “He works… with such happiness. He never suffers. He’s very sure.”[^9]
+At one point, the third Goh sibling, Choo San, had been hailed by the *New York Times* as “the most sought after choreographer in America”. Beyond being a successful dancer himself, he was also a renowned choreographer to the point that Mikhail Baryshnikov, one of the leading male dancers in the United States and a noted dance director, commissioned Choo San to create a work for him, which premiered in 1981.[^8] “From my point of view, he’s one of the few young choreographers who has musical instinct,” recalled Baryshnikov. “He works… with such happiness. He never suffers. He’s very sure.”[^9]
 
-Choo San went on to create works for the Paris Opera Ballet, the Australian Ballet and the American Ballet Theatre,[^10] before eventually becoming the artistic director of the Washington Ballet in 1984.[^11]
+Choo San went on to create works for the Paris Opera Ballet, the Australian Ballet and the American Ballet Theatre,[^10] before eventually becoming the associate artistic director of the Washington Ballet in 1984.[^11]
 
 That same year, Francis Yeoh, founding artistic director of the Singapore National Dance Company, approached Soo Khim and Anthony Then, a dancer and choreographer, to helm the ballet section of the National Dance Company.[^12] Inspired by the Washington Ballet – which had performed Choo San’s *In the Glow of the Night* and the internationally acclaimed[^13] *Fives* at the 1982 Singapore Festival of Arts – Soo Khim and Then decided to form a company of approximately the same size and artistic vision.[^14] 
 
@@ -120,7 +120,7 @@ Schergen brought with him a wealth of experience in running a ballet company sus
 
 In 2013, Schergen oversaw SDT’s move into spanking new premises at the Bugis+ mall on Victoria Street. Its location within the Bugis arts and cultural district allows the company to further engage the public through its education and outreach programmes.[^33]
 
-Most importantly, under Schergen, the company began to address the critical question of whether it is a classical ballet company that does contemporary works, or a contemporary company that does classical works. Over time, the company began adding more and more full-length classical ballets such as *Graduation Ball*, *Giselle* and *Coppélia* to its repertoire. While these were well received by audiences, Schergen knew that the burgeoning emphasis on classical ballet meant that the company’s name – Singapore Dance Theatre – was looking increasingly ill-fitting.
+Most importantly, under Schergen, the company began to address the critical question of whether it is a classical ballet company that does contemporary works, or a contemporary company that does classical works. Over time, the company began adding more and more full-length classical ballets such as *Giselle* and *Coppélia* to its repertoire. While these were well received by audiences, Schergen knew that the burgeoning emphasis on classical ballet meant that the company’s name – Singapore Dance Theatre – was looking increasingly ill-fitting.
 
 The name change in December 2021 was thus long overdue, according to Schergen. “By the time three decades had passed, a confident maturity to SDT was now in place and the company had its own unique identity,” he said. “To reflect this and show this confident maturity of the nature of our organisation, a decision has been made to rename ourselves as Singapore Ballet.”[^34]
 
@@ -129,7 +129,7 @@ The name change in December 2021 was thus long overdue, according to Schergen. �
 
 #### **Always En Pointe**
 
-In 2023, Singapore Ballet celebrates its 35th anniversary. Among the highlights of its season for the year are “Masterpiece in Motion” in July, which includes Goh Choo San’s Configurations originally created for Baryshnikov in 1978, “Ballet Under the Stars” in September and world premiere of Schergen’s Cinderella in December.[^35] Back in May, the company performed at Our Tampines Hub’s Festive Arts Theatre for the first time, stepping not only into the hearts of Singaporeans, but also into the heartlands. 
+In 2023, Singapore Ballet celebrates its 35th anniversary. Among the highlights of its season for the year are “Masterpiece in Motion” in July, which includes Goh Choo San’s <i>Configurations</i> originally created for Baryshnikov that premiered in 1981, “Ballet Under the Stars” in September and the world premiere of Schergen’s Cinderella in December.[^35] Back in May, the company performed at Our Tampines Hub’s Festive Arts Theatre for the first time, stepping not only into the hearts of Singaporeans, but also into the heartlands. 
 
 After three and a half decades, Singapore Ballet has become a part of the nation’s artistic and cultural spirit. Today, as the company continues to carve out a path for itself, it can look towards to its future with hope. Armed with a new-found confidence in its identity, Singapore Ballet is poised to soar to greater heights.
 
@@ -213,6 +213,3 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 [^34]: Dewi Nurjuwita, “Singapore Dance Theatre Unveils Its New Name,” *Timeout*, 13 December 2021, https://www.timeout.com/singapore/news/singapore-dance-theatre-unveils-its-new-name-121321.
 
 [^35]: “Singapore Ballet 2023 Season,” *Ballet Herald*, 17 December 2022, https://www.balletherald.com/singapore-ballet-2023-season/.
-
-
-
