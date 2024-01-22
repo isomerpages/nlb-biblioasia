@@ -8,7 +8,7 @@ description: ""
 
 Singapore’s National Library is hard at work collecting new forms of documentary materials today for the sake of future generations.
 
-<img src="/images/Vol%2019%20Issue%204/Contemporary%20Collecting/facingpage2.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%201/Contemporary/Contemporary_collecting__6__1.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/when-there-wre-farms/">When There Were Farms</a>
@@ -17,7 +17,3 @@ To mark its centenary, a Chinese clan association recently donated its archives 
   
 <img src="/images/Vol-14-issue-4/when-there-were-farms/Farm1.JPG" style="width:80%;">
 <hr>
-
-
-
-
