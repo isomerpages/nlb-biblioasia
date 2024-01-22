@@ -16,7 +16,7 @@ Subscribe to get notified when the next episode drops:
 
 <a style="text-decoration: none; font-weight: bold;" href="/podcast/german-girl-shrine/"> The True Story Behind Ubin's German Girl Shrine</a> <br>
 <img style="width: 28%" src="/images/Podcast/audiogram_william.jpg" align="left"><br clear="all">
-Listen on: [Spotify](https://open.spotify.com/episode/5GYGnnrXcLX9WEae1XvILj), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-true-story-behind-ubins-german-girl-shrine/id1688142751?i=1000642186612), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MTBiYjgzYWMtOWVlOC00ZWQ3LTkxNjktMWMyZWM1ODViMzk2?sa=X&amp;ved=0CAUQkfYCahcKEwjQo-WZ6uiDAxUAAAAAHQAAAAAQCg)
+Listen on: [Spotify](https://open.spotify.com/episode/5GYGnnrXcLX9WEae1XvILj), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-true-story-behind-ubins-german-girl-shrine/id1688142751?i=1000642186612), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MTBiYjgzYWMtOWVlOC00ZWQ3LTkxNjktMWMyZWM1ODViMzk2?sa=X&amp;ved=0CAUQkfYCahcKEwjQo-WZ6uiDAxUAAAAAHQAAAAAQCg), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-True-Story-Behind-Ubin%E2%80%99s-German-Girl-Shrine-2295936)
 
 A young German girl met an untimely end on Pulau Ubin in 1914. A shrine set up in her honour becomes Internet-famous. Following a deep search into the historical records, writer and researcher William Gibson discovers some inconvenient truths behind one of Singapore’s best-known shrines.
 
