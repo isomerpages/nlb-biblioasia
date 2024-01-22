@@ -129,7 +129,7 @@ The name change in December 2021 was thus long overdue, according to Schergen. �
 
 #### **Always En Pointe**
 
-In 2023, Singapore Ballet celebrates its 35th anniversary. Among the highlights of its season for the year are “Masterpiece in Motion” in July, which includes Goh Choo San’s Configurations originally created for Baryshnikov in 1978, “Ballet Under the Stars” in September and world premiere of Schergen’s Cinderella in December.[^35] Back in May, the company performed at Our Tampines Hub’s Festive Arts Theatre for the first time, stepping not only into the hearts of Singaporeans, but also into the heartlands. 
+In 2023, Singapore Ballet celebrates its 35th anniversary. Among the highlights of its season for the year are “Masterpiece in Motion” in July, which includes Goh Choo San’s <i>Configurations</i> originally created for Baryshnikov that premiered in 1981, “Ballet Under the Stars” in September and the world premiere of Schergen’s Cinderella in December.[^35] Back in May, the company performed at Our Tampines Hub’s Festive Arts Theatre for the first time, stepping not only into the hearts of Singaporeans, but also into the heartlands. 
 
 After three and a half decades, Singapore Ballet has become a part of the nation’s artistic and cultural spirit. Today, as the company continues to carve out a path for itself, it can look towards to its future with hope. Armed with a new-found confidence in its identity, Singapore Ballet is poised to soar to greater heights.
 
