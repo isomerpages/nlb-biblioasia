@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 3/Wheat/hero_img_wheat.jpg
   - infopic:
+      title: New Books on Singapore History (Apr 2024)
+      subtitle: Literature
+      id: infopic
+      description: Introducing five new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-20/issue-1/apr-jun-2024/new-books-singapore-history/
+      image: /images/Vol 19 Issue 4/New Books/sportinsg3.jpg
+      alt: Image alt text
+  - infopic:
       title: The True Story Behind Ubin's German Girl Shrine
       subtitle: podcast
       id: infopic
@@ -1084,14 +1094,4 @@ sections:
       url: /videos/poet-francis-p-ng-night-train
       image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
       alt: Francis P. Ng
-  - infopic:
-      title: New Books on Singapore History (Apr 2024)
-      subtitle: Literature
-      id: infopic
-      description: Introducing five new books available in the National Library’s
-        collection.
-      button: New Reads
-      url: /vol-20/issue-1/apr-jun-2024/new-books-singapore-history/
-      image: /images/Vol 19 Issue 4/New Books/sportinsg3.jpg
-      alt: Image alt text
 ---
