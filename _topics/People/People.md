@@ -5,17 +5,18 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/">Joseph Conrad’s Singapore</a>
+Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as _Lord Jim_, _The End of the Tether_ and _The Shadow-Line_.  
+
+<img src="/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image2_edited.png" style="width:50%;">
+<hr>
+
 #### **Interview with Victor Savage, Co-author of Singapore Street Names: A Study of Toponymics**
 From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation's history.
 
 <img style="width:80%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/desker_road.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/">Joseph Conrad’s Singapore</a>
-Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as _Lord Jim_, _The End of the Tether_ and _The Shadow-Line_.  
-
-<img src="/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image3.png" style="width:50%;">
-<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/">Conquering the World’s Tallest Mountain</a>
 David Lim led the first Singapore expedition team that successfully scaled Mount Everest on 25 May 1998. This is an excerpt from his book,&nbsp;<i>Mountain to Climb: The Quest from Everest and Beyond</i>.
