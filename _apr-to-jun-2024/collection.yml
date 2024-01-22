@@ -2,6 +2,7 @@ collections:
   apr-to-jun-2024:
     output: true
     order:
+      - New Books on Singapore History.md
       - Singapore's Hippie Hysteria and the Ban on Long Hair.md
       - American Troops, Singapore Bands, The Vietnam War.md
       - A Quick History of the Singapore Speedway.md
