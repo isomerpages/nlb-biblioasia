@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - New Books on Singapore History.md
       - Example Title.md
       - Testing My Skills.md
       - Test2.md

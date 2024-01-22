@@ -9,13 +9,23 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/
-      button: Malaya Cup Heroes
+      url: /vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/
+      button: Eat More Wheat
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/MalayaCup_Hero_img.jpg
+      background: /images/Vol 19 Issue 3/Wheat/hero_img_wheat.jpg
+  - infopic:
+      title: New Books on Singapore History (Apr 2024)
+      subtitle: Literature
+      id: infopic
+      description: Introducing five new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-20/issue-1/apr-jun-2024/new-books-singapore-history/
+      image: /images/Vol 19 Issue 4/New Books/sportinsg3.jpg
+      alt: Image alt text
   - infopic:
       title: The True Story Behind Ubin's German Girl Shrine
       subtitle: podcast

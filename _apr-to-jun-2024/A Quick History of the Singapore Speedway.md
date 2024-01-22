@@ -1,6 +1,6 @@
 ---
 title: A Quick History of the Singapore Speedway
-permalink: /vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing/
+permalink: /vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcycle-racing/
 variant: markdown
 description: The history of the Singapore Speedway was as fast and furious as
   the races it hosted.
