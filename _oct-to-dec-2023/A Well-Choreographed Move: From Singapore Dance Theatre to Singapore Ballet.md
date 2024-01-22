@@ -39,7 +39,7 @@ That was also what her younger sister Soo Khim did, or at least tried to do. Soo
 
 After graduating in 1966, Soo Khim returned to Singapore and joined her sister Soo Nee as a principal trainer at the SBA. When Soo Nee emigrated to Canada, Soo Khim took over the reins as director and principal in 1971.[^7]
 
-At one point, the third Goh sibling, Choo San, had been hailed by the *New York Times* as “the most sought after choreographer in America”. Beyond being a successful dancer himself, he was also a renowned choreographer to the point that Mikhail Baryshnikov, one of the leading male dancers in the United States and a noted dance director, commissioned Choo San to create a work in 1978.[^8] “From my point of view, he’s one of the few young choreographers who has musical instinct,” recalled Baryshnikov. “He works… with such happiness. He never suffers. He’s very sure.”[^9]
+At one point, the third Goh sibling, Choo San, had been hailed by the *New York Times* as “the most sought after choreographer in America”. Beyond being a successful dancer himself, he was also a renowned choreographer to the point that Mikhail Baryshnikov, one of the leading male dancers in the United States and a noted dance director, commissioned Choo San to create a work for him, which premiered in 1981.[^8] “From my point of view, he’s one of the few young choreographers who has musical instinct,” recalled Baryshnikov. “He works… with such happiness. He never suffers. He’s very sure.”[^9]
 
 Choo San went on to create works for the Paris Opera Ballet, the Australian Ballet and the American Ballet Theatre,[^10] before eventually becoming the artistic director of the Washington Ballet in 1984.[^11]
 
@@ -213,6 +213,3 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 [^34]: Dewi Nurjuwita, “Singapore Dance Theatre Unveils Its New Name,” *Timeout*, 13 December 2021, https://www.timeout.com/singapore/news/singapore-dance-theatre-unveils-its-new-name-121321.
 
 [^35]: “Singapore Ballet 2023 Season,” *Ballet Herald*, 17 December 2022, https://www.balletherald.com/singapore-ballet-2023-season/.
-
-
-
