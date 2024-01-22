@@ -6,7 +6,7 @@ description: Three large murals used to grace the walls of Paya Lebar Airport,
   daughter of one of the artists involved, recounts her efforts to uncover the
   fate of her father’s mural.
 image: /images/Podcast/ep 3 (murals by dahlia) teaser.jpg
-third_nav_title: Episode 3
+third_nav_title: Paya Lebar's Lost Murals
 ---
 Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Librarian Dahlia Shamsuddin, the daughter of one of the artists involved, recounts her efforts to uncover the fate of her father’s mural.
 
