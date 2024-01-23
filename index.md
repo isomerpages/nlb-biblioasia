@@ -138,7 +138,7 @@ sections:
       description: The history of the Singapore Speedway was as fast and furious as
         the races it hosted.
       button: MOTORCYLE RACING IN SINGAPORE
-      url: /vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing
+      url: /vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcycle-racing
       image: /images/Vol 20 Issue 1/Singapore Speedway/Image2_edit.png
       alt: Image alt text
   - infopic:
