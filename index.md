@@ -175,7 +175,7 @@ sections:
       title: "A Plethora of Tongues: Multilingualism in Malayan Writing"
       subtitle: Culture
       id: infopic
-      description: From the melting pot of cultures and language in postwar Singapore
+      description: From the melting pot of cultures and languages in postwar Singapore
         came the search for a Malayan identity, negotiated and presented through
         multilingualism.
       button: Multilingualism in Malayan Writing
