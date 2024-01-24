@@ -6,6 +6,7 @@ description: The skeleton of a blue whale took pride of place at the former
   Raffles Museum for more than 60 years before it was gifted to the National
   Museum of Malaysia in 1974.
 image: /images/Vol 19 Issue 2/Whale Skeleton/image1.png
+variant: markdown
 ---
 #### The skeleton of a blue whale took pride of place at the former Raffles Museum for more than 60 years before it was gifted to the National Museum of Malaysia in 1974.
 By Nathaniel Soon
@@ -101,6 +102,8 @@ The assistant director of the Science Centre, R.S. Bhathal, wasted no time in of
 In 1987, the National Museum celebrated its centenary. To mark this milestone occasion, a selection of “historic fauna” like the crocodile, orang utan and leatherback turtle, all of which once called the museum home, were brought back for three weeks from 29 September to 18 October. To the disappointment of many, the returning zoological exhibits did not include the blue whale. Richard Poh, who was then the museum’s director explained: “Many people remember and ask about it, but unfortunately we can’t bring it back for the exhibition as it is in Kuala Lumpur.”[^28]
 
 The book, *One Hundred Years of the National Museum*, by Gretchen Liu was also produced to commemorate the museum’s rich history.[^29] In reviewing the publication, Irene Hoe of the *Straits Times* recounted: “As a child, I remember going to the museum – as often as I could persuade anyone to take me – to see ‘my whale’, ‘my tiger’, and ‘my snake’, among other treasures of natural history which packed the place… ‘My whale’, for instance,… sat in storage until a European taxidermist assembled it, suspended it from the ceiling with a steel rope and set it in my memory indelibly.”[^30] 
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ROdZe1JjMhA?si=TNXBZN7AsqXpiaah" height="315" width="560"></iframe>
 
 A groundswell of public interest for a proper museum dedicated to Singapore’s natural history was materialising. In 1998, NUS established the Raffles Museum of Biodiversity Research to formally manage the Zoological Reference Collection. This institution, however, was more of a research centre with public display galleries.[^31]
 

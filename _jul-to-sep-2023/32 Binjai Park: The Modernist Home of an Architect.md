@@ -4,6 +4,7 @@ permalink: /vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/
 description: The house that Lee Kip Lin built has stood the test of time,
   reflecting its simple yet modern and clean design.
 image: /images/Vol 19 Issue 2/Binjai/image2.png
+variant: markdown
 ---
 #### The house that Lee Kip Lin built has stood the test of time, reflecting its simple yet modern and clean design. 
 By Lim Tin Seng and Lee Peng Hui
@@ -24,6 +25,8 @@ From the street, the 3,800-square-foot home (353 sqm) is unassuming, with its wh
 <div style="background-color: white;">A recent photograph of the house taken from the front gate looking into the car porch, 2022. <i>Courtesy of Dr Lee Peng Hui.</i></div>
 
 The house boasts a high ceiling with exposed timber beams and rafters as well as unobstructed, seamless access to the living room, dining room, veranda and garden. The open layout draws in natural light and breeze to create a spacious and airy feel, making the interior seem larger than it is. 
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XA1HxdwLJEY?si=UNfESgHifNFh-qLt" height="315" width="560"></iframe>
 
 The relatively modest house sits on 21,304 square feet of land (1,979 sqm), most of which is occupied by a garden where the grass has been allowed to grow out, allowing biodiversity to thrive. Taking centre stage is a tall, majestic Binjai tree, which has been listed as a heritage tree by the National Parks Board.[^3] Wild chickens can be seen pecking away, while the pet cat lazes nearby.
 
