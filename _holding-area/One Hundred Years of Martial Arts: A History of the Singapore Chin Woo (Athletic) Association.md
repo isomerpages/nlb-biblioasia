@@ -13,7 +13,6 @@ By Seow Peck Ngiam
 
 Fans of Bruce Lee (李小龙) will remember the 1972 movie _Fist of Fury_ (精武门) with Lee starring as Chen Zhen (陈真), whose skills as a martial artist helps restore Chinese self-respect and honour. Set in Shanghai during the early 20th century, the movie depicts Lee as a student of a great martial arts master, Huo Yuanjia (霍元甲).[^1]
 
-(/images/Vol%2019%20Issue%201/Balacan/balacan_5.png)
 <div style="background-color: white;">Mak Piah uses a <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps) for making <i>belacan</i>. <i>Source: Berita Harian, 9 July 1983. ©&nbsp;SPH Media Limited. Permission required for reproduction.</i></div>
 
 While Chen Zhen only existed in the movie, Huo was a real person. He is associated with the founding of the Shanghai Chin Woo (Athletic) Federation (上海 中央精武体育总会), one of the early public martial arts institutions in China, and which still exists today.[^2]
