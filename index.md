@@ -796,16 +796,6 @@ sections:
       image: /images/Vol 19 Issue 1/Tennis/image1-edit.png
       alt: Tennis
   - infopic:
-      title: The Chinese Community During the Japanese Occupation
-      subtitle: War
-      description: A showcase of items from the Chinese community relating to the
-        Japanese Occupation. These are from the collection of the National
-        Library of Singapore.
-      button: The Chinese and World War II
-      url: https://biblioasia.nlb.gov.sg/jul-to-sep-2022/national-library-japanese-occupation-collection-english/
-      image: /images/Vol 18 Issue 2/S'pore Chinese_Japanese/Hokkien Huay Kuan.png
-      alt: Chinese in WWII
-  - infopic:
       title: New Books on Singapore History
       description: A quick look at four new books available in the National Library’s
         collection.
@@ -1047,51 +1037,4 @@ sections:
       image: /images/Vol 18 Issue 2/Subterranean Singapore/Subterranean Singapore -
         Image 1.png
       alt: Subterranean Singapore
-  - infopic:
-      title: A History of Sennett Estate
-      subtitle: Places
-      description: It was once Singapore’s largest planned housing development and saw
-        action during Konfrontasi in the 1960s.
-      button: Sennett Estate
-      url: /vol-18/issue-2/jul-sep-2022/history-sennett-estate
-      image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
-        Estate - Image 2.png
-      alt: sennett estate
-  - infopic:
-      title: Japanese and Chinese Photo Studios in Prewar Singapore
-      subtitle: Photography
-      description: Chinese and Japanese  photography studios had to negotiate the
-        politics of race, class and clan in the early 20th century.
-      button: Negotiating Boundaries
-      url: /vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios
-      image: /images/Vol 18 Issue 2/Chinese Japanese Photo
-        Studios/agsphoto_17551_full.png
-      alt: prewar photography studios
-  - infopic:
-      title: Into the Night
-      subtitle: "Video: stories from biblioasia"
-      description: Cabaret dancers like Rose Chan were famous. But what were their
-        lives really like?
-      button: Beneath the Glitz and Glamour
-      url: /videos/into-the-night
-      image: "/images/Videos: BA Stories/into the night.jpg"
-      alt: Cabaret dancers
-  - infopic:
-      title: The Story of Singapore’s Changing Wet Markets
-      subtitle: places
-      button: wet markets now and then
-      url: /vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets
-      image: /images/Vol 18 Issue 1/Highlight3.png
-      description: Wet markets have existed in Singapore since 1825. Zoe Yeo looks at
-        how these markets have changed over time.
-      alt: wet markets
-  - infopic:
-      title: The Poet and the Night Train
-      subtitle: "Video: Stories from BiblioAsia"
-      description: He writes Singapore’s first book-length poem, then vanishes from
-        history. Discover how the mystery of the missing poet was solved.
-      button: Singapore's forgotten poet
-      url: /videos/poet-francis-p-ng-night-train
-      image: "/images/Videos: BA Stories/Francis P NG forgotten poet.jpg"
-      alt: Francis P. Ng
 ---
