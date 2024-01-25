@@ -35,6 +35,9 @@ About a year later, on 9 August 1922, it was officially registered by the coloni
 
 In 1953, the association mooted the establishment of a federation comprising the various Chin Woo athletic associations in Malaya (南洋中国精武会总会). The purpose was to “unite Chin Woo associations in Singapore and all over Malaya, encourage each other, jointly promote Chin Woo, improve the level of martial arts, enhance the efficiency of administration, contribute to the economy, and sponsor charitable and public welfare undertakings”.[^8] The Chinese name of the federation was changed to 马来亚精武体育会总会 (Malaya Chin Woo Athletic Association Federation) when it was registered in 1954.[^9] (The federation has also been referred to as 南洋马来亚精武体育会总会 \[Nanyang Malaya Chin Woo Athletic Association Federation\].[^10])
 
+![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image7.png)
+<div style="background-color: white;">When Singapore was proclaimed a City of the British Commonwealth by a royal charter on 22 September 1951, Chin Woo was part of the procession from Lau Pat Sat to Shenton Way to celebrate the event. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
+
 #### **Martial Arts and Lion Dancing**
 
 Singapore Chin Woo teaches a variety of traditional Chinese martial arts, originating mainly from the Yellow River, Yangtze River and Pearl River regions of China. Its core curriculum revolves around 10 basic sets of martial arts forms (基本十套拳), namely Tai Tui (潭腿), Gong Li Quan (功力拳), Da Zhan Quan (大战拳), Jie Quan (节拳), Qun Yang Gun (群羊棍), Ba Gua Dao (八卦刀), Wu Hu Qiang (五虎枪), Jie Tan Tui (接潭腿), Tao Quan (套拳), Dan Dao Chuan Qiang (单刀串枪), as well as various forms of Tai Ji (太极).[^11]
