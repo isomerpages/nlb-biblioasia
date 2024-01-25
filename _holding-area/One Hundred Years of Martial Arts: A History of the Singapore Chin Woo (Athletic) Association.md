@@ -19,7 +19,7 @@ Fans of Bruce Lee (李小龙) will remember the 1972 movie _Fist of Fury_ (精�
 
 While Chen Zhen only existed in the movie, Huo was a real person. He is associated with the founding of the Shanghai Chin Woo (Athletic) Federation (上海 中央精武体育总会), one of the early public martial arts institutions in China, and which still exists today.[^2]
 
-Branching Out to Singapore
+#### **Branching Out to Singapore**
 
 After its founding in Shanghai in the early 20th century, the federation expanded, setting up branches around China. In 1920, representatives from the federation travelled to Southeast Asia to encourage the overseas Chinese to set up martial arts schools in their own communities. In Singapore, the delegation was warmly welcomed by prominent Chinese leaders such as Lim Boon Keng, Eu Tong Sen and Lim Nee Soon. Martial arts performances and documentary screenings were held, which were well received by the Chinese community.[^3]
 
@@ -29,7 +29,7 @@ About a year later, on 9 August 1922, it was officially registered by the coloni
 
 In 1953, the association mooted the establishment of a federation comprising the various Chin Woo athletic associations in Malaya (南洋中国精武会总会). The purpose was to “unite Chin Woo associations in Singapore and all over Malaya, encourage each other, jointly promote Chin Woo, improve the level of martial arts, enhance the efficiency of administration, contribute to the economy, and sponsor charitable and public welfare undertakings”.[^8] The Chinese name of the federation was changed to 马来亚精武体育会总会 (Malaya Chin Woo Athletic Association Federation) when it was registered in 1954.[^9] (The federation has also been referred to as 南洋马来亚精武体育会总会 \[Nanyang Malaya Chin Woo Athletic Association Federation\].[^10])
 
-Martial Arts and Lion Dancing
+#### **Martial Arts and Lion Dancing**
 
 Singapore Chin Woo teaches a variety of traditional Chinese martial arts, originating mainly from the Yellow River, Yangtze River and Pearl River regions of China. Its core curriculum revolves around 10 basic sets of martial arts forms (基本十套拳), namely Tai Tui (潭腿), Gong Li Quan (功力拳), Da Zhan Quan (大战拳), Jie Quan (节拳), Qun Yang Gun (群羊棍), Ba Gua Dao (八卦刀), Wu Hu Qiang (五虎枪), Jie Tan Tui (接潭腿), Tao Quan (套拳), Dan Dao Chuan Qiang (单刀串枪), as well as various forms of Tai Ji (太极).[^11]
 
@@ -41,8 +41,7 @@ The period between the 1960s and the 1980s was the peak of the lion dance troupe
 
 The troupe eventually also began performing the Southern Lion dance after He Shun (何顺), a famous Southern Lion Dance practitioner joined the association in 1953. Through his efforts, as well as those of other teachers, the troupe won the Southern Lion Excellence Award at the 7th National Pugilistic Competition in 1984.[^15]
 
-Chin Woo’s Donation of Materials  
-to the National Library
+#### **Chin Woo’s Donation of Materials to the National Library**
 
 In 2023, the association donated 150 items to the National Library. The donated materials comprise both physical and digital photographs as well as records and publications produced by Chin Woo, including a digital copy of their 100th anniversary publication.
 
