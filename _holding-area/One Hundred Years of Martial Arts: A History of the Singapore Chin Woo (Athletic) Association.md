@@ -52,3 +52,13 @@ The association managed to raise more than a thousand dollars, and this document
 Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chinese martial arts associations in Singapore.16 In addition to martial arts, lion dance and flag dancing, Chin Woo conducts Chinese language classes and bookkeeping classes. They also have a choir and a Peking opera troupe, and offer recreational and fitness activities such as football, basketball, wrestling, dance and yoga.17
 
 <div>The digital items donated by the Singapore Chin Woo (Athletic) Association can be accessed via National Library Online (https://www.nlb.gov.sg/main/nlonline) in due course. Those interested in viewing the physical items can also check to see if the items are available on the NLB website.</div>
+
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Andrea_Kee.png">
+	<b>Andrea Kee</b> is an Associate Librarian with the National Library of Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development, as well as providing reference and research services.</div>
+
+#### **Notes**
+
+[^1]: Ministry of Culture, “[Transcript of Press Interview Given by the Prime Minister, Mr. Lee Kuan Yew, at Sochi on 18th September, 1970](https://www.nas.gov.sg/archivesonline/speeches/record-details/727c22a5-115d-11e3-83d5-0050568939ad),” speech, Sochi, Soviet Union, 18 September 1970, transcript. (From National Archives of Singapore, document no. lky19700918)&nbsp;
