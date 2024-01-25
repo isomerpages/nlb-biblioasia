@@ -6,8 +6,7 @@ description: During the Japanese Occupation, local photographers worked under
   challenging conditions.
 image: /images/Vol 19 Issue 4/Photo Studios/KallangAirport1942.jpg
 ---
-**During the Japanese Occupation, local photographers worked under challenging conditions.**
-
+#### During the Japanese Occupation, local photographers worked under challenging conditions.
 By Zhuang Wubin
 
   
