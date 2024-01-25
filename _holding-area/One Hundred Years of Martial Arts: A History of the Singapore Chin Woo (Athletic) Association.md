@@ -63,4 +63,37 @@ Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chines
 
 #### **Notes**
 
-[^1]: Ministry of Culture, “[Transcript of Press Interview Given by the Prime Minister, Mr. Lee Kuan Yew, at Sochi on 18th September, 1970](https://www.nas.gov.sg/archivesonline/speeches/record-details/727c22a5-115d-11e3-83d5-0050568939ad),” speech, Sochi, Soviet Union, 18 September 1970, transcript. (From National Archives of Singapore, document no. lky19700918)&nbsp;
+[^1]: Dwayne Wong (Omowale), “‘No Dogs and No Chinese Allowed’: The Historical Significance of Bruce Lee’s ‘Fist of Fury’,” _HuffPost_, 15 March 2016, https://www.huffpost.com/entry/no-dogs-and-no-chinese-al\_b\_9455424; “Enthusiasts Mark Martial Arts Master Huo Yuanjia’s 150th Birthday in Shanghai,” CGTN, 23 January 2019, https://news.cgtn.com/news/3d3d514f314d544d32457a6333566d54/index.html.
+
+[^2]: Lee Xiu 李秀, “Bai nian jingwu ti yu zai malaixiya de fa zhan ji ying xiang yan jiu” 百年精武体育在马来西亚的发展及影响研究 \[The study of the development and influence of century-old Chin Woo in Malaysia\], _Journal of Huangshan University_ 13, no. 5 (October 2011): 96. (From JSTOR via NLB’s eResources website)
+
+[^3]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会四十五周年会庆纪念刊 _1921–1966 = Singapore Chin Woo (Athletic) Association, 45th Anniversary Celebration Souvenir_ (Singapore: Singapore Chin Woo \[Athletic\] Association, 1966), 189. (From National Library, Singapore, call no. RCLOS Chinese 796.8159 SIN)
+
+[^4]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会四十五周年会庆纪念刊, 80.
+
+[^5]: “Our History,” Singapore Chin Woo (Athletic) Association, last accessed 8 January 2024, https://sgchinwoo.com/our-history; Untitled, _Singapore Free Press and Mercantile Advertiser (1884-1942)_, 12 August 1922, 6. (From NewspaperSG)
+
+[^6]: “Our History.” &nbsp;
+
+[^7]: Lee, “Bai nian jingwu ti yu zai malaixiya de fa zhan ji ying xiang yan jiu,” 96–100; “Our Emblem and Flag,” Singapore Chin Woo (Athletic) Association, last accesses 8 January 2024, https://sgchinwoo.com/our-emblem-and-flag/.
+
+[^8]: Gong Pengcheng 龚鹏程, “Jing wu tiyu hui zai nanyang de fa zhan,” 精武体育会在南洋的发展 (The development of the Chin Woo Athletic Association in Southeast Asia), 少林与太极 (_Shaolin and Taiji_), no. 6 (2021), 52–55, https://m.fx361.com/news/2021/1012/8937357.html; “Ge de Jingwuhui dai biao ji yi shang jue zu lianhe jigou ding ming wei Nanyang zhongguo jingwuhui zonghui tong guo zhang cheng xu chu chang wu wei yuan ji ge bu zhi yuan” 各地精武会代表集怡商决组联合机构定名为南洋中国精武会总会通过章程选出常务委员及各部职员 (Representatives of Chinese martial arts associations from various states met in Ipoh and decided on the formation of Nanyang Zhongguo Jingwuhui Zonghui), 南洋商报 _Nanyang Siang Pau_, 6 May 1953, 9. (From NewspaperSG)
+
+[^9]: “Ma jingwu zonghui yi huo zhun zhu ce”马精武总会 已获准注册 (Registration of Chin Woo federation of Malaya has been approved),  
+星洲日报 _Sin Chew Jit Poh_, 19 February 1954, 8. (From NewspaperSG)
+
+[^10]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会五十周年会庆纪念刊 _1921–1971 = Singapore Chin Woo (Athletic) Association, 50th Anniversary Celebration Souvenir_ (Singapore: Singapore Chin Woo \[Athletic\] Association, 1971), 240. (From National Library, Singapore, call no. RCLOS Chinese 796.8155095957 SIN)
+
+[^11]: “Martial Arts,” Singapore Chin Woo (Athletic) Association, last accessed 8 January 2024, https://sgchinwoo.com/martial-arts/.
+
+[^12]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会四十五周年会庆纪念刊, 80.
+
+[^13]: “Oriental Papermaking Fibres,” Centre for Cultural Materials Conservation, last accessed 8 January 2024, https://cultural-conservation.unimelb.edu.au/manilahempabaca.html.
+
+[^14]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会一百周年纪念刊 = _Singapore Chin Woo (Athletic) Association 100 Anniversary_ (Singapore: Singapore Chin Woo \[Athletic\] Association, 2021),66–67. (From National Library, Singapore, call no. RSING Chinese 796.8155095957 SIN)
+
+[^15]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会一百周年纪念刊, 66–67.
+
+[^16]: “Our History.”
+
+[^17]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会一百周年纪念刊, 34.lky19700918)&nbsp;
