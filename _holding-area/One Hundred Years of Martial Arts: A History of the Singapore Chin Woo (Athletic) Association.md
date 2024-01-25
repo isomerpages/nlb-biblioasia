@@ -50,6 +50,9 @@ The period between the 1960s and the 1980s was the peak of the lion dance troupe
 
 The troupe eventually also began performing the Southern Lion dance after He Shun (何顺), a famous Southern Lion Dance practitioner joined the association in 1953. Through his efforts, as well as those of other teachers, the troupe won the Southern Lion Excellence Award at the 7th National Pugilistic Competition in 1984.[^15]
 
+![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image6.png)
+<div style="background-color: white;">Chin Woo’s award-winning lion dance troupe was often invited for performances. This lion dance was performed at the opening ceremony of the Primary Production Department’s exhibition booth at an agricultural show in Kallang Park in September 1965. Prime Minister Lee Kuan Yew was the guest of honour. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
+
 #### **Chin Woo’s Donation of Materials to the National Library**
 
 In 2023, the association donated 150 items to the National Library. The donated materials comprise both physical and digital photographs as well as records and publications produced by Chin Woo, including a digital copy of their 100th anniversary publication.
