@@ -79,7 +79,7 @@ Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chines
 
 [^8]: Gong Pengcheng 龚鹏程, “Jing wu tiyu hui zai nanyang de fa zhan,” 精武体育会在南洋的发展 (The development of the Chin Woo Athletic Association in Southeast Asia), 少林与太极 (_Shaolin and Taiji_), no. 6 (2021), 52–55, https://m.fx361.com/news/2021/1012/8937357.html; “Ge de Jingwuhui dai biao ji yi shang jue zu lianhe jigou ding ming wei Nanyang zhongguo jingwuhui zonghui tong guo zhang cheng xu chu chang wu wei yuan ji ge bu zhi yuan” 各地精武会代表集怡商决组联合机构定名为南洋中国精武会总会通过章程选出常务委员及各部职员 (Representatives of Chinese martial arts associations from various states met in Ipoh and decided on the formation of Nanyang Zhongguo Jingwuhui Zonghui), 南洋商报 _Nanyang Siang Pau_, 6 May 1953, 9. (From NewspaperSG)
 
-[^9]: “Ma jingwu zonghui yi huo zhun zhu ce”马精武总会 已获准注册 (Registration of Chin Woo federation of Malaya has been approved),  
+[^9]: “[Ma jingwu zonghui yi huo zhun zhu ce](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19540219-1.2.67.5)”马精武总会 已获准注册 (Registration of Chin Woo federation of Malaya has been approved),  
 星洲日报 _Sin Chew Jit Poh_, 19 February 1954, 8. (From NewspaperSG)
 
 [^10]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会五十周年会庆纪念刊 _1921–1971 = Singapore Chin Woo (Athletic) Association, 50th Anniversary Celebration Souvenir_ (Singapore: Singapore Chin Woo \[Athletic\] Association, 1971), 240. (From National Library, Singapore, call no. RCLOS Chinese 796.8155095957 SIN)
