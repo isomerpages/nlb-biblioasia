@@ -80,7 +80,7 @@ Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chines
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/.png"><b>Seow Peck Ngiam</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include selection, evaluation and management of materials for the Chinese and donor collections. She also conducts research and writes on collection highlights for the library.</div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Seow_Peck_Ngiam.png"><b>Seow Peck Ngiam</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include selection, evaluation and management of materials for the Chinese and donor collections. She also conducts research and writes on collection highlights for the library.</div>
 
 #### **Notes**
 
