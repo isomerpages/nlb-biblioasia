@@ -69,6 +69,9 @@ Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chines
 ![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image8.png)
 <div style="background-color: white;">Chin Woo’s Peking opera troupe was established in 1959 and performed notable martial arts-related works such as Xin Tie Gong Ji (新铁公鸡) and San Cha Kou (三岔口). Shown here is a stage scene of San Cha Kou in the 1960s. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
 
+![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image9.png)
+<div style="background-color: white;">A view of the completed Chin Woo athletic field in Tanjong Pagar. A steel sign that reads “Chin Woo (Athletic) Association Athletic Field” in Chinese is visible at the entrance, c. 1940s. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
+
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The digital items donated by the Singapore Chin Woo (Athletic) Association can be accessed via National Library Online (https://www.nlb.gov.sg/main/nlonline) in due course. Those interested in viewing the physical items can also check to see if the items are available on the NLB website.</div>
 
 
