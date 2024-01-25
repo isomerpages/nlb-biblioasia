@@ -41,6 +41,9 @@ Singapore Chin Woo teaches a variety of traditional Chinese martial arts, origin
 
 The association also became particularly well known for its lion dance troupe in Singapore. The troupe was founded in 1934 after a pair of northern lions were brought to Singapore by Wei Yuan Feng (魏元峰), a pioneer martial arts instructor who was formerly with Chin Woo in Shanghai.[^12]
 
+![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image4.png)
+<div style="background-color: white;">Queen Elizabeth II being greeted by a Golden Lion Dance performance by the Chin Woo lion dance troupe during her visit to Tanjong Pagar Conservation Area, 1989. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
+
 The heads of the lions, however, were heavy and uncomfortable and so Wei, together with another instructor Fang You Chang (方又昌), decided to remake them. Instead of mud and sand, they used bamboo for the lion’s head, which was decorated with golden paper and golden yellow wool. They also made a cape for the lion’s body using golden yellow Manila hemp, a strong fibrous material from the Philippines.[^13] Thus was born the association’s distinctive golden lion.
 
 The period between the 1960s and the 1980s was the peak of the lion dance troupe. In 1976, the image of the association’s lion was printed on Singapore’s $10 note. Today, the Golden Lion dance is a signature of the association and integrates gongs, drums and the _suona_ (唢呐), a Chinese wind instrument.[^14]
