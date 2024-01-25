@@ -66,6 +66,9 @@ The association managed to raise more than a thousand dollars, and this document
 
 Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chinese martial arts associations in Singapore.[^16] In addition to martial arts, lion dance and flag dancing, Chin Woo conducts Chinese language classes and bookkeeping classes. They also have a choir and a Peking opera troupe, and offer recreational and fitness activities such as football, basketball, wrestling, dance and yoga.[^17]
 
+![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image8.png)
+<div style="background-color: white;">Chin Woo’s Peking opera troupe was established in 1959 and performed notable martial arts-related works such as Xin Tie Gong Ji (新铁公鸡) and San Cha Kou (三岔口). Shown here is a stage scene of San Cha Kou in the 1960s. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
+
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The digital items donated by the Singapore Chin Woo (Athletic) Association can be accessed via National Library Online (https://www.nlb.gov.sg/main/nlonline) in due course. Those interested in viewing the physical items can also check to see if the items are available on the NLB website.</div>
 
 
