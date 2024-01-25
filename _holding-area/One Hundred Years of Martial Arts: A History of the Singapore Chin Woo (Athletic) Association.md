@@ -56,6 +56,9 @@ In 2023, the association donated 150 items to the National Library. The donated 
 
 One interesting record dates back to 1946 and documents the association’s plans for expanding its athletic field which was used for regular training sessions. Chin Woo had leased a 4,880 sq ft (453 sq m) space from the government and money was needed to fund its refurbishment, rent and other miscellaneous expenses.
 
+![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image5.png)
+<div style="background-color: white;">Chin Woo’s membership increased as Singapore rebuilt its society and economy after the Japanese Occupation (1942–45). This record, dating back to 1946, documents the association’s plans for expanding its athletic field in Tanjong Pagar. It also lists all donations sought for the expansion of the training ground and for expenses such as rent for the land and other miscellaneous purposes. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
+
 The association managed to raise more than a thousand dollars, and this document records all the donations. The largest single donation was $700 and came from Nanyang Hwa Pek Thung Hsiang Hoey (南洋华北同乡会), a clan made up of members from provinces in northern China. It had been founded by Wei, the martial arts instructor with Chin Woo.
 
 Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chinese martial arts associations in Singapore.[^16] In addition to martial arts, lion dance and flag dancing, Chin Woo conducts Chinese language classes and bookkeeping classes. They also have a choir and a Peking opera troupe, and offer recreational and fitness activities such as football, basketball, wrestling, dance and yoga.[^17]
