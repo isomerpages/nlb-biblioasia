@@ -23,6 +23,9 @@ While Chen Zhen only existed in the movie, Huo was a real person. He is associat
 
 After its founding in Shanghai in the early 20th century, the federation expanded, setting up branches around China. In 1920, representatives from the federation travelled to Southeast Asia to encourage the overseas Chinese to set up martial arts schools in their own communities. In Singapore, the delegation was warmly welcomed by prominent Chinese leaders such as Lim Boon Keng, Eu Tong Sen and Lim Nee Soon. Martial arts performances and documentary screenings were held, which were well received by the Chinese community.[^3]
 
+![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image2.png)
+<div style="background-color: white;">Since its founding in 1921, the Chin Woo Association had moved a few times before relocating to its current premises at 90 Neil Road in 1940, where it remains to this present day. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
+
 Inspired by the visit, Cai Jinglin (蔡景麟), a Singapore-based martial arts instructor with links to Shanghai Chin Woo, teamed up with Yang Zhaozhen (杨兆桢) and led a founding committee that included businessmen like Lim Nee Soon. The Singapore branch of the federation was established in 1921.[^4]
 
 About a year later, on 9 August 1922, it was officially registered by the colonial government as the Chinese Chin Wu (Athletic) Association (星洲中国精武体育会).[^5] (In 1960, the organisation assumed its current name, the Singapore Chin Woo \[Athletic\] Association.[^6]) The association’s objectives are to impart martial arts, strengthen the body and mind, and instil “wisdom, benevolence, courage” (“智、仁、勇”) in its members, as embodied in its emblem of a shield with five pointed edges.[^7]
