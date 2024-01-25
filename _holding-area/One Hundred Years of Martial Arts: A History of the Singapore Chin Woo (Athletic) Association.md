@@ -82,18 +82,18 @@ Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chines
 [^9]: “[Ma jingwu zonghui yi huo zhun zhu ce](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19540219-1.2.67.5)”马精武总会 已获准注册 (Registration of Chin Woo federation of Malaya has been approved),  
 星洲日报 _Sin Chew Jit Poh_, 19 February 1954, 8. (From NewspaperSG)
 
-[^10]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会五十周年会庆纪念刊 _1921–1971 = Singapore Chin Woo (Athletic) Association, 50th Anniversary Celebration Souvenir_ (Singapore: Singapore Chin Woo \[Athletic\] Association, 1971), 240. (From National Library, Singapore, call no. RCLOS Chinese 796.8155095957 SIN)
+[^10]: Singapore Chin Woo (Athletic) Association, [新加坡精武体育会五十周年会庆纪念刊 _1921–1971 = Singapore Chin Woo (Athletic) Association, 50th Anniversary Celebration Souvenir_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200065679) (Singapore: Singapore Chin Woo \[Athletic\] Association, 1971), 240. (From National Library, Singapore, call no. RCLOS Chinese 796.8155095957 SIN)
 
 [^11]: “Martial Arts,” Singapore Chin Woo (Athletic) Association, last accessed 8 January 2024, https://sgchinwoo.com/martial-arts/.
 
-[^12]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会四十五周年会庆纪念刊, 80.
+[^12]: Singapore Chin Woo (Athletic) Association, [新加坡精武体育会四十五周年会庆纪念刊](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200065664), 80.
 
 [^13]: “Oriental Papermaking Fibres,” Centre for Cultural Materials Conservation, last accessed 8 January 2024, https://cultural-conservation.unimelb.edu.au/manilahempabaca.html.
 
-[^14]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会一百周年纪念刊 = _Singapore Chin Woo (Athletic) Association 100 Anniversary_ (Singapore: Singapore Chin Woo \[Athletic\] Association, 2021),66–67. (From National Library, Singapore, call no. RSING Chinese 796.8155095957 SIN)
+[^14]: Singapore Chin Woo (Athletic) Association, [新加坡精武体育会一百周年纪念刊 = _Singapore Chin Woo (Athletic) Association 100 Anniversary_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205688888) (Singapore: Singapore Chin Woo \[Athletic\] Association, 2021),66–67. (From National Library, Singapore, call no. RSING Chinese 796.8155095957 SIN)
 
-[^15]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会一百周年纪念刊, 66–67.
+[^15]: Singapore Chin Woo (Athletic) Association, [新加坡精武体育会一百周年纪念刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205688888), 66–67.
 
 [^16]: “Our History.”
 
-[^17]: Singapore Chin Woo (Athletic) Association, 新加坡精武体育会一百周年纪念刊, 34.lky19700918)&nbsp;
+[^17]: Singapore Chin Woo (Athletic) Association, [新加坡精武体育会一百周年纪念刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205688888), 34.
