@@ -13,6 +13,9 @@ By Seow Peck Ngiam
 
 Fans of Bruce Lee (李小龙) will remember the 1972 movie _Fist of Fury_ (精武门) with Lee starring as Chen Zhen (陈真), whose skills as a martial artist helps restore Chinese self-respect and honour. Set in Shanghai during the early 20th century, the movie depicts Lee as a student of a great martial arts master, Huo Yuanjia (霍元甲).1
 
+(/images/Vol%2019%20Issue%201/Balacan/balacan_5.png)
+<div style="background-color: white;">Mak Piah uses a <i>sondong</i> (push-net) to catch <i>udang geragau</i> (small shrimps) for making <i>belacan</i>. <i>Source: Berita Harian, 9 July 1983. ©&nbsp;SPH Media Limited. Permission required for reproduction.</i></div>
+
 While Chen Zhen only existed in the movie, Huo was a real person. He is associated with the founding of the Shanghai Chin Woo (Athletic) Federation (上海  
 中央精武体育总会), one of the early public martial arts institutions in China, and which still exists today.2 &nbsp; &nbsp;
 
@@ -51,7 +54,9 @@ The association managed to raise more than a thousand dollars, and this document
 
 Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chinese martial arts associations in Singapore.16 In addition to martial arts, lion dance and flag dancing, Chin Woo conducts Chinese language classes and bookkeeping classes. They also have a choir and a Peking opera troupe, and offer recreational and fitness activities such as football, basketball, wrestling, dance and yoga.17
 
-<div>The digital items donated by the Singapore Chin Woo (Athletic) Association can be accessed via National Library Online (https://www.nlb.gov.sg/main/nlonline) in due course. Those interested in viewing the physical items can also check to see if the items are available on the NLB website.</div>
+
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The digital items donated by the Singapore Chin Woo (Athletic) Association can be accessed via National Library Online (https://www.nlb.gov.sg/main/nlonline) in due course. Those interested in viewing the physical items can also check to see if the items are available on the NLB website.</div>
 
 
 <div style="background-color: white;">
