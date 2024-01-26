@@ -70,7 +70,7 @@ The association managed to raise more than a thousand dollars, and this document
 Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chinese martial arts associations in Singapore.[^16] In addition to martial arts, lion dance and flag dancing, Chin Woo conducts Chinese language classes and bookkeeping classes. They also have a choir and a Peking opera troupe, and offer recreational and fitness activities such as football, basketball, wrestling, dance and yoga.[^17]
 
 ![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image8.png)
-<div style="background-color: white;">Chin Woo’s Peking opera troupe was established in 1959 and performed notable martial arts-related works such as <i>Xin Tie Gong Ji</i> (新铁公鸡) and <i>San Cha Kou (三岔口)</i>. Shown here is a stage scene of San Cha Kou in the 1960s. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
+<div style="background-color: white;">Chin Woo’s Peking opera troupe was established in 1959 and performed notable martial arts-related works such as <i>Xin Tie Gong Ji</i> (新铁公鸡) and <i>San Cha Kou (三岔口)</i>. Shown here is a stage scene of <i>San Cha Kou in the 1960s</i>. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
 
 ![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image9.png)
 <div style="background-color: white;">A view of the completed Chin Woo athletic field in Tanjong Pagar. A steel sign that reads “Chin Woo (Athletic) Association Athletic Field” in Chinese is visible at the entrance, c. 1940s. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
