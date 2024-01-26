@@ -24,7 +24,8 @@ sections:
         collection.
       button: New Reads
       url: /vol-20/issue-1/apr-jun-2024/new-books-singapore-history/
-      image: /images/Vol 19 Issue 4/New Books/sportinsg3.jpg
+      image: /images/Vol 20 Issue 1/New Books on Singapore
+        history/food_peranakan_indian.png
       alt: Image alt text
   - infopic:
       title: The True Story Behind Ubin's German Girl Shrine
