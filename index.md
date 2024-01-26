@@ -277,7 +277,7 @@ sections:
         Singaporeans.
       button: Down Memory Lane
       url: /vol-19/issue-4/jan-mar-2024/talentime-history-singapore/
-      image: /images/Vol 19 Issue 4/7 Talentime/photo1 - rev1.png
+      image: /images/Vol 19 Issue 4/7 Talentime/titbits_homepage.png
       alt: A Brief History of Talentime
   - infopic:
       title: A Short History of John Little at Raffles Place
