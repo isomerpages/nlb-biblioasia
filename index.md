@@ -151,7 +151,8 @@ sections:
         American troops.
       button: GIGS in Vietnam
       url: /vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/
-      image: /images/Vol 20 Issue 1/Vietnam War/sgband_vietnamwar_boonlai_cropped1.png
+      image: /images/Online Only Articles/Conquer Tallest
+        Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
   - infopic:
       title: 炊烟袅袅 甘榜回忆
