@@ -86,7 +86,7 @@ Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chines
 
 [^1]: Dwayne Wong (Omowale), “‘No Dogs and No Chinese Allowed’: The Historical Significance of Bruce Lee’s ‘Fist of Fury’,” _HuffPost_, 15 March 2016, https://www.huffpost.com/entry/no-dogs-and-no-chinese-al\_b\_9455424; “Enthusiasts Mark Martial Arts Master Huo Yuanjia’s 150th Birthday in Shanghai,” CGTN, 23 January 2019, https://news.cgtn.com/news/3d3d514f314d544d32457a6333566d54/index.html.
 
-[^2]: Lee Xiu 李秀, “Bai nian jingwu ti yu zai malaixiya de fa zhan ji ying xiang yan jiu” 百年精武体育在马来西亚的发展及影响研究 \[The study of the development and influence of century-old Chin Woo in Malaysia\], _Journal of Huangshan University_ 13, no. 5 (October 2011): 96. (From JSTOR via NLB’s eResources website)
+[^2]: Lee Xiu 李秀, “Bai nian jingwu ti yu zai malaixiya de fa zhan ji ying xiang yan jiu” 百年精武体育在马来西亚的发展及影响研究 \[The study of the development and influence of century-old Chin Woo in Malaysia\], _Journal of Huangshan University_ 13, no. 5 (October 2011): 96. (From JSTOR via NLB’s [eResources]()https://eresources.nlb.gov.sg/main website)
 
 [^3]: Singapore Chin Woo (Athletic) Association, [新加坡精武体育会四十五周年会庆纪念刊 _1921–1966 = Singapore Chin Woo (Athletic) Association, 45th Anniversary Celebration Souvenir_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200065664) (Singapore: Singapore Chin Woo \[Athletic\] Association, 1966), 189. (From National Library, Singapore, call no. RCLOS Chinese 796.8159 SIN)
 
@@ -98,7 +98,7 @@ Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chines
 
 [^7]: Lee, “Bai nian jingwu ti yu zai malaixiya de fa zhan ji ying xiang yan jiu,” 96–100; “Our Emblem and Flag,” Singapore Chin Woo (Athletic) Association, last accesses 8 January 2024, https://sgchinwoo.com/our-emblem-and-flag/.
 
-[^8]: Gong Pengcheng 龚鹏程, “Jing wu tiyu hui zai nanyang de fa zhan,” 精武体育会在南洋的发展 (The development of the Chin Woo Athletic Association in Southeast Asia), 少林与太极 (_Shaolin and Taiji_), no. 6 (2021), 52–55, https://m.fx361.com/news/2021/1012/8937357.html; “Ge de Jingwuhui dai biao ji yi shang jue zu lianhe jigou ding ming wei Nanyang zhongguo jingwuhui zonghui tong guo zhang cheng xu chu chang wu wei yuan ji ge bu zhi yuan” 各地精武会代表集怡商决组联合机构定名为南洋中国精武会总会通过章程选出常务委员及各部职员 (Representatives of Chinese martial arts associations from various states met in Ipoh and decided on the formation of Nanyang Zhongguo Jingwuhui Zonghui), 南洋商报 _Nanyang Siang Pau_, 6 May 1953, 9. (From NewspaperSG)
+[^8]: Gong Pengcheng 龚鹏程, “Jing wu tiyu hui zai nanyang de fa zhan,” 精武体育会在南洋的发展 (The development of the Chin Woo Athletic Association in Southeast Asia), 少林与太极 (_Shaolin and Taiji_), no. 6 (2021), 52–55, https://m.fx361.com/news/2021/1012/8937357.html; “[Ge de Jingwuhui dai biao ji yi shang jue zu lianhe jigou ding ming wei Nanyang zhongguo jingwuhui zonghui tong guo zhang cheng xu chu chang wu wei yuan ji ge bu zhi yuan](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19530506-1.2.32.14)” 各地精武会代表集怡商决组联合机构定名为南洋中国精武会总会通过章程选出常务委员及各部职员 (Representatives of Chinese martial arts associations from various states met in Ipoh and decided on the formation of Nanyang Zhongguo Jingwuhui Zonghui), 南洋商报 _Nanyang Siang Pau_, 6 May 1953, 9. (From NewspaperSG)
 
 [^9]: “[Ma jingwu zonghui yi huo zhun zhu ce](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19540219-1.2.67.5)”马精武总会 已获准注册 (Registration of Chin Woo federation of Malaya has been approved), 星洲日报 _Sin Chew Jit Poh_, 19 February 1954, 8. (From NewspaperSG)
 
