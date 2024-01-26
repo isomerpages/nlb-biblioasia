@@ -152,7 +152,7 @@ Singapore Broadcasting Corporation, “[7th SEAP Games Singapore 1973](https://w
 
 [^4]: Lee Kuan Yew, “[The Official Opening of the National Stadium](https://www.nas.gov.sg/archivesonline/speeches/record-details/7359f206-115d-11e3-83d5-0050568939ad),” speech, National Stadium, 21 July 1973, transcript, Ministry of Culture. (From National Archives of Singapore document no. lky19730721)
 
-[^5]: “[Toa Payoh Is Games village](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720121.2.122),” _Straits Times_, 21 January 1972, 24. (From NewspaperSG))
+[^5]: “[Toa Payoh Is Games village](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720121.2.122),” _Straits Times_, 21 January 1972, 24. (From NewspaperSG)
 
 [^6]: “[Minjoot Named Village Head](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730804-1.2.78.13),” _Straits Times_, 4 August 1973, 23. (From NewspaperSG)
 
