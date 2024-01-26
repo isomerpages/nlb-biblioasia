@@ -192,8 +192,8 @@ sections:
         Everest in 1998. This is an excerpt from his book, Mountain to Climb.
       button: Scale the greatest height
       url: /vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/
-      image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
-        ropes1.jpg
+      image: /images/Online Only Articles/Conquer Tallest
+        Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
   - infopic:
       title: Kaboom! Early Malay Comic Books Make an Impact
