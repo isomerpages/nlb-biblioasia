@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/
-      button: Eat More Wheat
+      url: /vol-19/issue-4/jan-mar-2024/talentime-history-singapore/
+      button: A Brief History of Talentime
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 3/Wheat/hero_img_wheat.jpg
+      background: /images/Vol 19 Issue 4/7 Talentime/Talentime_Hero_img.jpg
   - infopic:
       title: New Books on Singapore History (Apr 2024)
       subtitle: Literature
@@ -24,7 +24,8 @@ sections:
         collection.
       button: New Reads
       url: /vol-20/issue-1/apr-jun-2024/new-books-singapore-history/
-      image: /images/Vol 19 Issue 4/New Books/sportinsg3.jpg
+      image: /images/Vol 20 Issue 1/New Books on Singapore
+        history/food_peranakan_indian.png
       alt: Image alt text
   - infopic:
       title: The True Story Behind Ubin's German Girl Shrine
@@ -150,7 +151,7 @@ sections:
         American troops.
       button: GIGS in Vietnam
       url: /vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/
-      image: /images/Vol 20 Issue 1/Vietnam War/sgband_vietnamwar_boonlai_cropped.jpg
+      image: /images/Vol 20 Issue 1/Vietnam War/sgband_vietnamwar_boonlai_cropped1.png
       alt: Image alt text
   - infopic:
       title: 炊烟袅袅 甘榜回忆
@@ -191,8 +192,8 @@ sections:
         Everest in 1998. This is an excerpt from his book, Mountain to Climb.
       button: Scale the greatest height
       url: /vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/
-      image: /images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed
-        ropes1.jpg
+      image: /images/Online Only Articles/Conquer Tallest
+        Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
   - infopic:
       title: Kaboom! Early Malay Comic Books Make an Impact
@@ -276,7 +277,7 @@ sections:
         Singaporeans.
       button: Down Memory Lane
       url: /vol-19/issue-4/jan-mar-2024/talentime-history-singapore/
-      image: /images/Vol 19 Issue 4/7 Talentime/photo1 - rev1.png
+      image: /images/Vol 19 Issue 4/7 Talentime/titbits_homepage.png
       alt: A Brief History of Talentime
   - infopic:
       title: A Short History of John Little at Raffles Place

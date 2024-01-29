@@ -4,6 +4,7 @@ permalink: /vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi
 description: Opposing the formation of the Federation of Malaysia, Indonesia
   waged a three-year armed conflict against Malaysia and Singapore.
 image: /images/Vol 19 Issue 4/3 Konfrontasi/sph 2305605v_img 1.png
+variant: markdown
 ---
 #### Opposing the formation of the Federation of Malaysia, Indonesia waged a three-year armed conflict against Malaysia and Singapore. 
 By Alvin Tan
@@ -178,7 +179,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^19]: “[Hotel Bomb Linked With Other Blasts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640309-1.2.26),” _Straits Times_, 9 March 1964, 5. (From NewspaperSG)
 
-[^20]: “[Record of the Wreckers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650516-1.2.85),” _Straits Times_, 16 May 1965, 16; Abu Fazil and Cheong Yip Seng, “[Bomb Kills Two](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19640422-1.2.25),” _Straits Budget_, 22 April 1964, 8. (From NewspaperSG
+[^20]: “[Record of the Wreckers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650516-1.2.85),” _Straits Times_, 16 May 1965, 16; Abu Fazil and Cheong Yip Seng, “[Bomb Kills Two](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19640422-1.2.25),” _Straits Budget_, 22 April 1964, 8. (From NewspaperSG)
 
 [^21]: “[Attempt to Blow Up Merdeka Bridge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640524-1.2.17),” _Straits Times_, 24 May 1964, 2; “[Sabotage Bid on Bridge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19640729-1.2.81),” _Straits Budget_, 29 July 1964, 13. (From NewspaperSG)
 

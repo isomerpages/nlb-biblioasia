@@ -130,7 +130,7 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 
 #### **NOTES**
 	
-[^1]: “[The Care and Precision He Put Into His Moves Showed His Uncanny Ball Sense...](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750418-1.2.20.1.2.aspx),” _New Nation_, 18 April 1975, 10–11. (From NewspaperSG
+[^1]: “[The Care and Precision He Put Into His Moves Showed His Uncanny Ball Sense...](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750418-1.2.20.1.2.aspx),” _New Nation_, 18 April 1975, 10–11. (From NewspaperSG)
 [^2]: “[The Care and Precision He Put Into His Moves Showed His Uncanny Ball Sense....](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750418-1.2.20.1.2.aspx)”
 [^3]: “[Goths Praise Twinkle Toes Boon Leong](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19511213-1.2.106),” _Singapore Free Press_, 13 December 1951, 7. (From NewspaperSG)
 [^4]: “[Chia Boon Leong, Yeap Cheng Eng and Chu Chee Seng, the Three Malayan Chinese Footballers Who Represented the China Olympic Soccer Team at the World Olympics, Are Seen at Bayan Lepas Airport, Penang, on Their Return from London](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19480902-1.2.155),” _Straits Budget_, 2 September 1948, 18. (From NewspaperSG) 
@@ -140,7 +140,7 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 [^8]: Ng, “[Ex-footballer Recounts Japanese Occupation, Being Screened for Execution and 1948 Olympics](https://www.straitstimes.com/singapore/former-spore-footballer-chia-boon-leong-recounts-the-occupation-years-from-execution-screening-to-1948-olympics).”
 [^9]: David Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97,” _Straits Times_, 21 December 2022, https://www.straitstimes.com/sport/football/obituary-s-pore-s-only-olympic-footballer-twinkletoes-chia-boon-leong-dies-at-97.
 [^10]: “[Malayan Chinese Picked for Tour](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19470929-1.2.50),” _Straits Times_, 29 September 1947, 8. (From NewspaperSG)
-[^11]: Sonny Yap, “[The Match of His Career...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3),” _New Nation_, 18 April 1975, 10–11. (From NewpaperSG)
+[^11]: Sonny Yap, “[The Match of His Career...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3),” _New Nation_, 18 April 1975, 10–11. (From NewspaperSG)
 [^12]: Yap, “[The Match of His Career....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3)”
 [^13]: Yap, “[The Match of His Career....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3)”
 [^14]: Yap, “[The Match of His Career....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3)”
@@ -151,7 +151,7 @@ Between 22 October and 11 December 1947, the Lien Hwa team played 22 games aroun
 [^19]: “[Singapore Blaze to 6–0 Win](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510903-1.2.138),” _Straits Times_, 3 September 1951, 12; “[Bakar Goal Gives Singapore the Cup Again](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19521013-1.2.93),” _Singapore Standard_, 13 October 1952, 8. (From NewspaperSG)
 [^20]: “[We Expect to Reach Soccer Finals – Soh](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540430-1.2.192),” _Straits Times_, 30 April 1954, 14. (From NewspaperSG)
 [^21]: “[E.C Dutton and Boon Leong for England](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540801-1.2.4),” _Straits Times_, 1 August 1954, 1; “[Twinkle, Twinkle Little Star...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.1),” _New Nation_, 18 April 1975, 10–11. (From NewspaperSG)
-[^22]: “‘[Twinkle Toes’ Says Goodbye](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19560224-1.2.198),” _Singapore Standard_, 24 February 1956, 14. (From NewsppaerSG)
+[^22]: “‘[Twinkle Toes’ Says Goodbye](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19560224-1.2.198),” _Singapore Standard_, 24 February 1956, 14. (From NewspaperSG)
 [^23]: Lee, “S’pore’s Only Olympic Footballer ‘Twinkletoes’ Chia Boon Leong Dies at 97.”
 [^24]: “[Twinkle, Twinkle Little Star....](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.1)”
 [^25]: “[Fandi on FAS Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20010325-1.2.5.13),” _Straits Times_, 25 March 2001, 2; Joe Dorai, “[Chia Named Manager Again](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19791108-1.2.124.10),” _Straits Times_, 8 November 1979, 33. (From NewspaperSG)
