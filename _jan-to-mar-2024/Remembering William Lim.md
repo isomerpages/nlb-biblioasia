@@ -8,6 +8,7 @@ image: /images/Vol 19 Issue 4/6 William Lim/image1.jpg
 variant: markdown
 ---
 #### The late architect William Lim did more than shape Singapore’s skyline. He was also deeply passionate about urban planning, culture, the arts and engaging the next generation.
+By Stephanie Pee
 
 
 ![](/images/Vol%2019%20Issue%204/6%20William%20Lim/image1-rev.jpg)
