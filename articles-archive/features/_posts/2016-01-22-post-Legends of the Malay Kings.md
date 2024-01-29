@@ -25,7 +25,7 @@ image: /images/vol-11-issue-4/legend-of-malay-kings/03a_malaykings.jpg
 <b>Publisher:</b> American Mission Press (Singapore)<br>
 <b>Language:</b> Romanised Malay<br>
 <b>Type:</b> Book; 190 pages<br>
-<b>Call no.:</b>  RRARE 9.51 SEJ<br>
+<b>Call no.:</b>  RRARE 959.5 SEJ<br>
 <b>Accession no.:</b> B20025340E</span>
 
 <div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/legend-of-malay-kings/03a_malaykings.jpg"><i>Sejarah Melayu</i> includes an introduction by Stamford Raffles and was used as a study aid to groom British scholar administrators in the colonial service. <i>All rights reserved, National Library Board, Singapore.</i></div>
