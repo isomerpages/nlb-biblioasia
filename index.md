@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/
-      button: Eat More Wheat
+      url: /vol-19/issue-4/jan-mar-2024/talentime-history-singapore/
+      button: A Brief History of Talentime
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 3/Wheat/hero_img_wheat.jpg
+      background: /images/Vol 19 Issue 4/7 Talentime/Talentime_Hero_img.jpg
   - infopic:
       title: New Books on Singapore History (Apr 2024)
       subtitle: Literature
