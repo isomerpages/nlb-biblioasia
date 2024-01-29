@@ -4,6 +4,13 @@ permalink: /topics/collection-highlights/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/">A History of the Singapore Chin Woo (Athletic) Association</a>
+
+The Singapore Chin Woo (Athletic) Association donated its collection of photographs and materials to the National Library, Singapore, in 2023. Find out more about the history of one of Singapore’s oldest martial arts associations.
+  
+<img src="/images/Vol%2020%20Issue%201/Chin%20Woo/chin_woo.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/">By the Public and for the Public: Contemporary Collecting at the National Library</a>
 
 Singapore’s National Library is hard at work collecting new forms of documentary materials today for the sake of future generations.
