@@ -2,6 +2,8 @@ collections:
   apr-to-jun-2024:
     output: true
     order:
+      - "One Hundred Years of Martial Arts: A History of the Singapore Chin Woo
+        (Athletic) Association.md"
       - New Books on Singapore History.md
       - Singapore's Hippie Hysteria and the Ban on Long Hair.md
       - American Troops, Singapore Bands, The Vietnam War.md

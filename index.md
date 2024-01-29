@@ -17,6 +17,18 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 4/7 Talentime/Talentime_Hero_img.jpg
   - infopic:
+      title: A History of the Singapore Chin Woo (Athletic) Association
+      subtitle: Collection Highlights
+      id: infopic
+      description: |-
+        One of Singapore’s oldest martial arts associations
+        donated its unique collection of photographs and
+        materials to the National Library, Singapore.
+      button: An enduring martial arts association
+      url: /vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/
+      image: /images/Vol 20 Issue 1/Chin Woo/chin_woo.png
+      alt: Image alt text
+  - infopic:
       title: New Books on Singapore History (Apr 2024)
       subtitle: Literature
       id: infopic
@@ -25,7 +37,7 @@ sections:
       button: New Reads
       url: /vol-20/issue-1/apr-jun-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 1/New Books on Singapore
-        history/food_peranakan_indian.png
+        history/food_peranakan_indian1.png
       alt: Image alt text
   - infopic:
       title: The True Story Behind Ubin's German Girl Shrine
