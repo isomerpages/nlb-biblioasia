@@ -3,6 +3,7 @@ title: The Salvation Army in Singapore
 permalink: /vol-19/issue-4/jan-mar-2024/salvation-army-singapore/
 description: The history of the Salvation Army in Singapore goes back to at least 1935.
 image: /images/Vol 19 Issue 4/Salvation Army/salvationarmy.jpg
+variant: markdown
 ---
 #### The history of the Salvation Army in Singapore goes back to at least 1935.
 
@@ -147,7 +148,7 @@ Today, the Salvation Army in Singapore runs a host of programmes for children an
 [^1]: “[Salvation Army](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350315-1.2.85),” _Straits Times_, 15 March 1935, 13. (From NewspaperSG)
 [^2]: “[Salvation Army Attack on Java](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18980310-1.2.72?qt=salvation,%20army&amp;q=Salvation%20Army),” _Straits Budget_, 10 March 1898, 8. (From NewspaperSG)
 [^3]: “[Open-air Sermons](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19361105-1.2.5.3),” _Straits Budget_, 5 November 1936, 5. (From NewspaperSG)
-[^4]: “[General Booth Goes to Japan](https://eresources.nlb.gov.sg/newspapers/digitised/article/easterndaily19061124-1.2.11),” _Eastern Daily Mail and Straits Morning Advertiser_, 24 November 1906, 1. (From NewsppaerSG)
+[^4]: “[General Booth Goes to Japan](https://eresources.nlb.gov.sg/newspapers/digitised/article/easterndaily19061124-1.2.11),” _Eastern Daily Mail and Straits Morning Advertiser_, 24 November 1906, 1. (From NewspaperSG)
 [^5]: “About Us,” The Salvation Army Japan, last accessed 5 September 2023, https://www.salvationarmy.or.jp/english-home/history.
 [^6]: “[The Salvation Army](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19261204-1.2.32),” _Malayan Saturday Post_, 4 December 1926, 15. (From NewspaperSG)
 [^7]: “[The Salvation Army Meeting](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19261204-1.2.33),” _Malayan Saturday Post_, 4 December 1926, 15. (From NewspaperSG)
