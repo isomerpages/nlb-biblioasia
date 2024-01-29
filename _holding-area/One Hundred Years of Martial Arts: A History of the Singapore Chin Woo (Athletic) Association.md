@@ -31,6 +31,9 @@ After its founding in Shanghai in the early 20th century, the federation expande
 
 Inspired by the visit, Cai Jinglin (蔡景麟), a Singapore-based martial arts instructor with links to Shanghai Chin Woo, teamed up with Yang Zhaozhen (杨兆桢) and led a founding committee that included businessmen like Lim Nee Soon. The Singapore branch of the federation was established in 1921.[^4]
 
+![](/images/Vol%2020%20Issue%201/Chin%20Woo/newimage1.png)
+<div style="background-color: white;">Early members of Chin Woo, 1920. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
+
 About a year later, on 9 August 1922, it was officially registered by the colonial government as the Chinese Chin Wu (Athletic) Association (星洲中国精武体育会).[^5] (In 1960, the organisation assumed its current name, the Singapore Chin Woo \[Athletic\] Association.[^6]) The association’s objectives are to impart martial arts, strengthen the body and mind, and instil “wisdom, benevolence, courage” (“智、仁、勇”) in its members, as embodied in its emblem of a shield with five pointed edges.[^7]
 
 ![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image3.png)
@@ -76,9 +79,7 @@ Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chines
 ![](/images/Vol%2020%20Issue%201/Chin%20Woo/Image8.png)
 <div style="background-color: white;">Chin Woo’s Peking opera troupe was established in 1959 and performed notable martial arts-related works such as <i>Xin Tie Gong Ji</i> (新铁公鸡) and <i>San Cha Kou</i> (三岔口). Shown here is a stage scene of <i>San Cha Kou in the 1960s</i>. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
 
-
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The digital items donated by the Singapore Chin Woo (Athletic) Association can be accessed via National Library Online (https://www.nlb.gov.sg/main/nlonline) in due course. Those interested in viewing the physical items can also check to see if the items are available on the NLB website.</div>
-
 
 <div style="background-color: white;">
 <br>
