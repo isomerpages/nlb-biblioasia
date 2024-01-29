@@ -41,7 +41,7 @@ After graduating in 1966, Soo Khim returned to Singapore and joined her sister S
 
 At one point, the third Goh sibling, Choo San, had been hailed by the *New York Times* as “the most sought after choreographer in America”. Beyond being a successful dancer himself, he was also a renowned choreographer to the point that Mikhail Baryshnikov, one of the leading male dancers in the United States and a noted dance director, commissioned Choo San to create a work for him, which premiered in 1981.[^8] “From my point of view, he’s one of the few young choreographers who has musical instinct,” recalled Baryshnikov. “He works… with such happiness. He never suffers. He’s very sure.”[^9]
 
-Choo San went on to create works for Joffrey Ballet, Houston Ballet, Pennsylvania Ballet, Boston Ballet and Alvin Riley Dance Theater,[^10] before eventually becoming the associate artistic director of the Washington Ballet in 1984.[^11]
+Choo San went on to create works for Joffrey Ballet, Houston Ballet, Pennsylvania Ballet, Boston Ballet and Alvin Ailey American Dance Theater,[^10] before eventually becoming the associate artistic director of the Washington Ballet in 1984.[^11]
 
 That same year, Francis Yeoh, founding artistic director of the Singapore National Dance Company, approached Soo Khim and Anthony Then, a dancer and choreographer, to helm the ballet section of the National Dance Company.[^12] Inspired by the Washington Ballet – which had performed Choo San’s *In the Glow of the Night* and the internationally acclaimed[^13] *Fives* at the 1982 Singapore Festival of Arts – Soo Khim and Then decided to form a company of approximately the same size and artistic vision.[^14] 
 
