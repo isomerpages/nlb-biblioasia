@@ -64,7 +64,7 @@ B29493274G\_0005<br>
 
 </div><br>
 
-The exhibition also features the Lee Kong Chian Natural History Museum that opened in 2015. The museum uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (bottom).
+The exhibition also features the Lee Kong Chian Natural History Museum that opened in 2015. The museum uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (bottom).<br>
 
 <img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image6.jpg">
 <div style="background-color: #fff6ba;"><b>Rock facade concrete detail</b>
