@@ -95,9 +95,7 @@ As much as Ooi was critical of Western attitudes and some Westernised Asians, he
 
 
 
-* * *
 
-[\[1\]](#_ftnref1) Ooi, “[A Drop of Ink](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540602-1.2.81),” 6.
 
   
 
