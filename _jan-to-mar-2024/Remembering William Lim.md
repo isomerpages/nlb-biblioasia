@@ -54,7 +54,6 @@ The exhibition is based on materials that have been donated to the Singapore Arc
 In the exhibition, one of the projects featured is the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby.
 	
 <img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg">
-
 <div style="background-color:#fff6ba; text-align:left; font-size:100%">
 <b>Section from Empress Place</b> <br>
 2011<br>
@@ -93,9 +92,7 @@ A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s�
 <img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev3.png">
 
 <div style="background-color: #fff6ba;">
-
 Published by the National Library Board and Urban Redevelopment Authority, 2023.
-
 </div><br>
 	
 	
