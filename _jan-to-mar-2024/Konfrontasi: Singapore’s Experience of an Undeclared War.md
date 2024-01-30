@@ -161,7 +161,7 @@ On 10 March 2015, on the 50th anniversary of the MacDonald House bombing, a memo
 
 [^10]: George McT. Kahin, “Malaysia and Indonesia,” _Pacific Affairs_ 37, no. 3 (Autumn 1964): 260; Donald Hindley, “Indonesia’s Confrontation with Malaysia: A Search for Motives,” _Asian Survey_ 4, no. 6 (June 1964): 907. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-[^11]: Lim Tin Seng, “[Merger with Malaysia](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2017-11-06_110458.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published 3 November 2017.
+[^11]: Lim Tin Seng, “[Merger with Malaysia](https://www.nlb.gov.sg/main/article-detail?cmsuuid=09a2ef2c-743e-44f3-9bb4-39c6ed34c90d),” in _Singapore Infopedia_. National Library Board Singapore. Article published 3 November 2017.
 
 [^12]: Mackie, _[Konfrontasi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=266560)_, 181; M.C. Ricklefs, _[A History of Modern Indonesia, c. 1300 to the Present](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6437245)_, 2nd ed. (Basingstoke: Macmillan, 1993), 273. (From National Library, Singapore, call no. RSEA 959.8 RIC). Ricklefs asserts that the term “Ganyang Malaysia” has been “usually but less accurately translated as ‘Crush Malaysia’”.
 
