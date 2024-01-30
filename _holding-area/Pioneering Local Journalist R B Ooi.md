@@ -30,11 +30,63 @@ From 1954–58, Ooi was the editor-in-chief of the _Singapore Standard_. He rejo
 
 After his stint at the _Eastern Sun_, Ooi became a freelance writer (penning a regular column titled “Impromptu” for the _Straits Echo_) and broadcaster (hosting a monthly current affairs radio talk show called “Window on the World”). In 1968, he received the Ahli Mangku Negara (Defender of the Realm) decoration from the Yang di-Pertuan Agong of Malaysia. Ooi’s last column was published in the _Straits Echo_ shortly after his death in Kuala Lumpur in December 1972.
 
+![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/conferment.png)
+<div style="background-color: white;"> (Left) R.B. Ooi t work, 1940s. (Right) R.B. Ooi being conferred the Ahli Mangku Negara by the Yang di-Pertuan Agong of Malaysia, 1968. <i>Courtesy of Irene Lim.</i>
+</div>
+
+<b>Early Life</b><br>
+Ooi was born and raised in Bukit Mertajam on a coconut plantation “bigger than Singapore” established by his great-grandfather Ooi Tung Kheng, an immigrant from China who was one of the founders of Bukit Mertajam.[^4] Ooi attended a Methodist primary school and studied at the Anglo-Chinese School (ACS) on Penang Island for his secondary education. He would catch the 4.30 am mail train from Singapore to Prai every morning, then the ferry to Georgetown, before cycling to school. He won a scholarship after topping a state-wide exam.
+
+![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/01.png)
+<div style="background-color: white;"> This family photo was taken on the birthday of Linda Lim’s great-great-great grandmother Saw Kim Lian (centre) in Bukit Mertajam, c.1923. <i>Courtesy of Irene Lim.</i>
+</div>
+
+![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/friends.png)
+<div style="background-color: white;"> (Left) R.B. Ooi with his Straits Chinese friends, date unknown. (Right) A young R.B. Ooi, date unknown.<i>Courtesy of Irene Lim.</i>
+</div>
+
+On 15 September 1925, Ooi spotted Edna Kung Gek Neo (1910–2003) on the train. Struck by her beauty, he noted down her name and address from her luggage tag and wrote to her father proposing marriage. Finding out that the Ooi family were educated wealthy landowners, Edna’s father, Kung Tian Siong (1876–1958), a Singapore businessman and direct descendant of Confucius,[^5]  agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at the Wesley Church in Singapore on 5 December 1925, when he was 19 and Edna 15. 
+
+![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/wedding.png)
+<div style="background-color: white;">(Left) R.B. Ooi and Edna Kung’s wedding at Wesley Church, 1925. (Right) Ooi and Kung also had a traditional Chinese wedding at the Ooi family home in Bukit Mertajam, 1925.<i>Courtesy of Irene Lim.</i>
+</div>
+
+To fulfil his mother’s wishes, Ooi and Edna had a second wedding in Bukit Mertajam according to Chinese rites. They had four children: Irene (born in 1927 in Kuala Lumpur), and Violet (1932), Eric (1934) and Sylvia (1936) who were born in Singapore following the family’s move there. Unfortunately, the marriage broke down. My grandmother, Edna, remarried towards the end of the war while my grandfather did not remarry.
+
+<b>Being Malayan</b><br>
+In his writings, which can be seen in the papers donated, Ooi would, sometimes uneasily, inhabit and navigate the British colonial/Western world and the Peranakan (that is, Malay-influenced) Chinese traditional culture into which he had been born and raised.
+
+His writings reveal that he was a proudly self-conscious Straits Chinese, embodying the three strands of their history and identity – Chinese, Malay and British/Western. Ooi wrote about many aspects of Straits Chinese life and culture. In “The Babas and Nonyas”,[^6] he recounted the incorporation of Malay music, drama, dance, religion and food into Peranakan culture. He noted that the babas (Peranakan men are known as baba, while the women are known as nonya) supported Malay opera and keroncong music competitions, described their “religious liberalism” as they worshipped at Malay shrines while seeking help from Thai bomohs (shamans), and praised their “innovative genius” in being able to adapt and learn from various cultures. 
+
+Ooi was also a passionate advocate of what we would today call multiculturalism, which he saw as a necessary foundation for unity and progress in Malaysia. In 1941, Ooi wrote in the Malaya Tribune that “[t]he Straits Chinese, through their long association with Malays understand the Malays better than new arrivals from China… [who] do not know their language and seldom mix with them”.[^7] 
+
+Thirty years later, in 1972, he wrote that the “Malayan Chinese must cultivate a Malayan consciousness and consider themselves people of this country and of nowhere else… the Straits Chinese or Babas endorsed this view because they considered themselves assimilated or integrated Malayans”.[^8] 
+
+<b>Western Influence</b><br>
+However, Ooi was also critical of the Straits Chinese for their British affectations, political apathy and class snobbery. “It is the Chinese from the fourth generation onwards who are more British than the British and they are to be found in the Colony of Singapore and the Straits Settlements of Penang and Malacca,” he wrote in the _Singapore Standard_ in 1954.[^9]
+
   
 
 * * *
+
+
+
 [^1]: Excerpt from letter from R.B. Ooi to his daughter Irene Lim dated 21 November 1969. The letter is among other materials donated by Lim to the National Library of Singapore for the R.B. Ooi and Edna Kung Collection. For more on Lim’s life, see Irene Lim, [_90 Years in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204446401) (Singapore: Pagesetters Services Pte Ltd., 2020). (From National Library, Singapore call no. RSING 307.7609595 LIM). An excerpt from this memoir was published as Irene Lim, “[Asthma, Amahs and Amazing Food](https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/asthma/),” _BiblioAsia_ 16, no. 4 (January–March 2021): 64–68.
 
 [^2]: Excerpt of letter from R.B. Ooi to Irene Lim, 21 November 1969.
 
 [^3]: For example, a column ranted that “the Japanese are the last people on earth to treat you like human beings once you are under their yoke”. See R.B. Ooi, “[Plain Talk to the People](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19420110-1.2.45),” _Malaya Tribune_, 10 January 1942, 4. (From NewspaperSG)
+
+[^4]: “[Braved the Pioneering Days in Malaya: Death of Madam Saw Kim Lian At Age of 90](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19331118-1.2.20),” _Straits Times_ 18 November 1933, 6; Ooi Chor Hooi, “[Life in the Coconut Groves](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19390101-1.2.11),” _Straits Times Annual_, 1 January 1939, 16–17. (From NewspaperSG)
+
+[^5]: Linda Y.C. Lim, _Four Chinese Families in British Colonial Malaya – Confucius, Christianity and Revolution_, 4th ed. (Singapore: Blurb, 2019), https://www.blurb.com/b/5022666-four-chinese-families-in-british-colonial-malaya-c.
+
+[^6]: “The Babas and Nonyas,” Parts 1, 2, 3, manuscript circa 1970–72.
+
+[^7]: R.B. Ooi, “Through Chinese Eyes,” Malaya Tribune, 19 April 1941, 6. (From NewspaperSG)
+
+[^8]: “How to Think Malaysian,” Straits Echo, 16 October 1972. (Microfilm NL7162)
+
+[^9]: R.B. Ooi, “[A Drop of Ink](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540605-1.2.67),” _Singapore Standard,_ 5 June 1954, 6 (From NewspaperSG). This article is mainly a scathing review of U.S. Supreme Court Justice (later Chief Justice) William O. Douglas’ 1953 book, [_North from Malaya_](https://catalogue.nlb.gov.sg/search/card?recordId=1520719)_._ Douglas wrote the book after a whirlwind British-escorted tour of Malaya and was full of hilarious errors. See William O. Douglas, [_North from Malaya_](https://catalogue.nlb.gov.sg/search/card?recordId=1520719) (Garden City, N.Y: Doubleday, 1953). (From National Library, Singapore call no. RCLOS 959 DOU-\[RFL\])
+
+
