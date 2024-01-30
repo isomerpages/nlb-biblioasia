@@ -51,7 +51,7 @@ The Urban Redevelopment Authority and National Library Board are organising the 
 	
 The exhibition is based on materials that have been donated to the Singapore Architecture Collection, managed by the URA, NLB and the National Heritage Board, in close partnership with the Singapore Institute of Architects, the National University of Singapore and the Singapore University of Technology and Design. Stakeholders from the industry and academia have also contributed their ideas on the direction and focus of this new collection.
 	
-In the exhibition, one of the projects featured is the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby.
+In the exhibition, one of the projects featured is the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby.<br>
 	
 <img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg">
 <div style="background-color:#fff6ba; text-align:left; font-size:100%">
