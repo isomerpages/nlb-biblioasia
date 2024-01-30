@@ -59,7 +59,7 @@ In the exhibition, one of the projects featured is the renovation of the Victori
 2011<br>
 Digital print on paper<br>
 594x841mm<br>
-B29493274G\_0005<br>
+B29493274G_0005<br>
 <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore.</i>
 
 </div><br>
@@ -71,7 +71,7 @@ The exhibition also features the Lee Kong Chian Natural History Museum that open
 2013<br>
 Digital print on paper <br>
 841 x 1189 mm<br>
-B29493498D\_0002<br>
+B29493498D_0002<br>
 <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i>
 </div><br>
 
@@ -81,7 +81,7 @@ B29493498D\_0002<br>
 2013<br>
 Digital print on paper with ink annotations<br>
 297x420mm<br>
-B29488115E\_0001<br>
+B29488115E_0001<br>
 <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore. </i>
 </div><br>
 	
