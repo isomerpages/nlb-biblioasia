@@ -47,9 +47,9 @@ Lim’s legacy lives on through his works as well as the next generation whose l
 <b> TO DRAW AN IDEA: RETRACING THE DESIGNS OF WILLIAM LIM ASSOCIATES – W ARCHITECTS</b>
 	<br><br>
 
-The Urban Redevelopment Authority and National Library Board are organising the exhibition “To Draw an Idea” at the URA Centre (Level 1 Atrium) from 28 November 2023 to 8 June 2024. It examines the inspiration, motivation, conceptual design and thought processes behind the works of Singapore architectural firms, William Lim Associates and W Architects, through their creations that shape the designs of many local, well-known buildings over the past four decades – from the 1980s to today.
+The Urban Redevelopment Authority and National Library Board are organising the exhibition “To Draw an Idea” at the URA Centre (Level 1 Atrium) from 28 November 2023 to 8 June 2024. It examines the inspiration, motivation, conceptual design and thought processes behind the works of Singapore architectural firms, William Lim Associates and W Architects, through their creations that shape the designs of many local, well-known buildings over the past four decades – from the 1980s to today.<br>
 	
-The exhibition is based on materials that have been donated to the Singapore Architecture Collection, managed by the URA, NLB and the National Heritage Board, in close partnership with the Singapore Institute of Architects, the National University of Singapore and the Singapore University of Technology and Design. Stakeholders from the industry and academia have also contributed their ideas on the direction and focus of this new collection.
+The exhibition is based on materials that have been donated to the Singapore Architecture Collection, managed by the URA, NLB and the National Heritage Board, in close partnership with the Singapore Institute of Architects, the National University of Singapore and the Singapore University of Technology and Design. Stakeholders from the industry and academia have also contributed their ideas on the direction and focus of this new collection.<br>
 	
 In the exhibition, one of the projects featured is the renovation of the Victoria Theatre and Victoria Concert Hall in 2010. The project saw the renovation of key spaces and features, including a double-volume foyer within the theatre and the concert hall’s main lobby.<br>
 	
