@@ -56,7 +56,6 @@ In the exhibition, one of the projects featured is the renovation of the Victori
 <img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image4.jpg">
 
 <div style="background-color:#fff6ba; text-align:left; font-size:100%">
-
 <b>Section from Empress Place</b> <br>
 2011<br>
 Digital print on paper<br>
