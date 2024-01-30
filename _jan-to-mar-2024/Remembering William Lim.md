@@ -62,7 +62,7 @@ Digital print on paper<br>
 B29493274G\_0005<br>
 <i>William Lim Associates and W Architects Pte Ltd Collection. Collection of the National Library, Singapore.</i>
 
-</div>
+</div><br>
 
 The exhibition also features the Lee Kong Chian Natural History Museum that opened in 2015. The museum uses off-form concrete, which involves a casting process that is difficult to control. Shown here is the formwork pattern and casting sequence for each building floor (below). The structure also has a distinctive facade featuring vegetation native to Singapore (bottom).
 
