@@ -78,6 +78,33 @@ In 1948, in the _Malaya Tribune_, Ooi called Westerners out for their ignorance 
 As much as Ooi was critical of Western attitudes and some Westernised Asians, he expressed in the _Straits Echo_ in 1972 that he did not support erasures of place names and other markers of Malaysia’s colonial heritage. He wrote: “New histories are being written in \[Asia and Africa to\] rub out former colonial influences. Histories can be written to suit the new people in power, but previous historical influences are embedded deep in the subconscious minds of the people. Their cultures, religions, languages and social customs will contain earmarks of the waves of civilisations that had washed over them in the course of centuries.”[^12]
 
 <b>Curtailing Press Freedom</b><br>
+Ooi was the consummate newspaperman and believed that freedom of the press was essential.  He had spent most of his journalistic career in Singapore and saw the independence of Singapore’s newspapers being eroded. 
+
+He revealed in an interview that during his two-year tenure at the Eastern Sun between 1966 and 1968, he had experienced run-ins with then Singapore Prime Minister Lee Kuan Yew. Lee had “on several occasions, in front of all the other editors in Singapore (he called us up as a group very often), accused me of being an MCA or UMNO [Malaysian Chinese Association or United Malays National Organisation] spy. Also, he often sent his political commissars to our office to see what we were doing, PAP [People’s Action Party] agents were put on our staff and morale was very low”.  This was one of the major reasons why Ooi subsequently left Singapore in 1968 and moved to Kuala Lumpur. 
+
+In that same interview, Ooi described 1971 as a “disastrous year” for journalism in Singapore. That was the year Lee had shut down the Eastern Sun and the Singapore Herald, and also jailed the owner and editors of the Nanyang Siang Pau Chinese newspaper without trial. Ooi attributed these actions to Lee suspecting that the press in Singapore was “being financed by foreign interests to gain control of Singapore.” The end result was that “[w]hatever his bogeys are, the press in Singapore is a docile and commercial one controlled by him”.  In an unpublished work in 1971 donated to the National Library, Ooi detailed the history of English-language newspapers in Malaya. 
+
+In a 1972 commentary in the Straits Echo, Ooi called for newspapers in Singapore and Malaysia to be separated. “If Singapore does not want foreign capital in and foreign control of its newspapers, why should Malaysia allow Singapore capital to control Malaysian newspapers?” he argued. “Malaysia should have her own independent Press.” 
+
+Ooi also frequently, both in private and in public, railed against the insularity and parochialism of Singaporeans. “Though Singapore claims to be a metropolis, yet the average Singaporean is more parochial than village folks… While Singapore has made economic progress, it has lost its soul. Money is the god Singapore worships.” 
+
+<b>Family, Culture and Nation</b><br>
+Ooi’s writings reflect the issues he cared most about – culture, identity, ethnicity, language, education and race relations – which are still salient today in both Singapore and Malaysia.&nbsp; Though still contentious in societal terms, the national and familial contexts are more positive than what Ooi had come to believe toward the end of his life.&nbsp;
+
+Ooi’s descendants have fared well. His grandchildren and great-grandchildren in Malaysia have married across ethnicities and cultures and are fluent in multiple languages. Several of them, mostly women, did their undergraduate studies in England in engineering, law, accountancy and economics, and all returned home (to Malaysia) thereafter. English remains the dominant family language, as are Western attire, music and other “cultural” habits.
+
+I’m sure my grandfather would be pleased that scholarly research on Straits Chinese history and culture is flourishing today, and that there has been a revival of Straits Chinese arts and culture in both Singapore and Malaysia, with thriving Peranakan associations, cuisine, performing arts and literature. Explorations of local history and “heritage” that formed such a large part of his writing have become popular, even entrenched, in both countries.
+
+As a teenager in Singapore, I wanted to be a writer and corresponded with my grandfather who lived in Malaya at the time. Education had always been important to him, and he wanted his daughter, Irene, to go to university, which the Second World War and familial disruptions had sadly rendered impossible. Despite his antipathy to foreign university education and academics, he was very proud when I went to Cambridge University as an undergraduate, then the pinnacle of British colonial academic aspirations, and later to Yale.
+
+I think he would have been pleased to learn of my own inclinations toward writing popular commentaries on current affairs, which were published in newspapers like the _Straits Times_ when I was doing my PhD. These include pieces challenging the status quo (in my case, primarily on economic policy, but also on race, inequality and East-West tensions), which could be considered the kind of “political writing” he had done.
+
+In my retirement, I co-founded and co-edit an academic blog promoting scholarship “of, for and by Singapore”, which also advocates for academic freedom.[\[1\]](#_ftn1) In Singapore in 2017, I gave a keynote speech at my alma mater, Methodist Girls’ School, closely tracking my grandfather’s own arguments for multiculturalism, but for the 21st century. This was years before I read his work.[\[2\]](#_ftn2) To paraphrase a popular saying, the durian does not fall far from the tree.
+
+  
+
+* * *
+
 
 
   
@@ -126,5 +153,19 @@ As much as Ooi was critical of Western attitudes and some Westernised Asians, he
 [^11]: “Snobbery Again in Malaya,” _Malaya Tribune,_ 8 August 1948. (Microfilm NL2147)
 
 [^12]: “Can History Be Scrubbed Off?” _Straits Echo,_ 7 December 1972. (Microfilm NL7252)
+
+[^13]: Ooi first wrote about this with respect to Emergency regulations. See Ooi, “A Drop of Ink,” 6.
+
+[^14]: Interview cited in John A. Lent, “Protecting the People,” Index on Censorship 4, no. 3 (1975): 8, https://www.tandfonline.com/doi/abs/10.1080/03064227508532443.
+
+[^15]: R.B. Ooi, “The Press of Malaysia and Singapore,” Manuscript, November 1971.
+
+[^16]: “The Press on a Tight-Rope,” _Straits Echo,_ 3 July 1972. (Microfilm NL7126)
+
+[^17]: “The Regimented Singaporean,” _Straits Echo_, 16 January 1972. (Microfilm NL6974)
+
+[^18]: “About Us,” Academia SG, https://www.academia.sg/about/.&nbsp;
+
+[^19]: Linda Lim, “Singapore and the World: Looking Back and Looking Ahead,” The Online Citizen, 4 June 2017, https://www.theonlinecitizen.com/2017/06/04/singapore-and-the-world-looking-back-and-looking-ahead/.
 
 
