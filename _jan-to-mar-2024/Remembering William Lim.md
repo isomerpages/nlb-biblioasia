@@ -90,7 +90,13 @@ An accompanying book of the same name has been published. It charts the last fou
 
 A satellite exhibition, “Dare to Design: Singapore Architecture 1960s–2000s”, will take place at the lobby of the National Library Building. It will run from 28 November 2023 to 9 June 2024 and will showcase eight iconic buildings – from the National Theatre to Pinnacle@Duxton – that pushed the envelope of architecture in Singapore. A roving exhibition will also travel to Bishan Public Library (28 November 2023–31 January 2024), Jurong Regional Library (1 February 2024–31 March 2024) and Tampines Regional Library (1 April 2024–9 June 2024).
 	
-	
+<img style="width:70%;" src="/images/Vol%2019%20Issue%204/6%20William%20Lim/image7-rev3.png">
+
+<div style="background-color: #fff6ba;">
+
+Published by the National Library Board and Urban Redevelopment Authority, 2023.
+
+</div><br>
 	
 	
 	
