@@ -67,6 +67,6 @@ Lim’s legacy lives on through his works as well as the next generation whose l
 
 [^9]: Esplanade Offstage, “William Lim.”
 
-[^10]: “In Memoriam: William Lim Siew Wai, Eminent Architect and Benefactor of NUS Cultural Studies Programme,” NUS Faculty of Arts &amp; Social Sciences, 19 January 2023, https://fass.nus.edu.sg/news/2023/01/19/in-memoriam-william-lim-siew-wai-eminent-architect-and-benefactor-of-nus-cultural-studies-programme/; Zhuang, “[William Lim Siew Wai](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-04-01_161334.html).”
+[^10]: “In Memoriam: William Lim Siew Wai, Eminent Architect and Benefactor of NUS Cultural Studies Programme,” NUS Faculty of Arts &amp; Social Sciences, 19 January 2023, https://fass.nus.edu.sg/news/2023/01/19/in-memoriam-william-lim-siew-wai-eminent-architect-and-benefactor-of-nus-cultural-studies-programme/; Zhuang, “[William Lim Siew Wai](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a2addb8-54d3-4fc5-a3cf-ace2f76fd9bc).”
 
 [^11]: Zhuang, “[William Lim Siew Wai](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a2addb8-54d3-4fc5-a3cf-ace2f76fd9bc).”
