@@ -65,6 +65,40 @@ Thirty years later, in 1972, he wrote that the “Malayan Chinese must cultivate
 <b>Western Influence</b><br>
 However, Ooi was also critical of the Straits Chinese for their British affectations, political apathy and class snobbery. “It is the Chinese from the fourth generation onwards who are more British than the British and they are to be found in the Colony of Singapore and the Straits Settlements of Penang and Malacca,” he wrote in the _Singapore Standard_ in 1954.[^9]
 
+He was particularly critical of foreign-educated university graduates, whom he felt “\[could not\] adjust themselves to their home environments… at this juncture many Malayan graduates feel that their own indigenous cultures are far inferior to what they have acquired in western countries...&nbsp; They were loud in their complaints that Malaya was an uncivilised and uncultured country, because they could not indulge in the fripperies of modern living”.[^10]
+
+![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/13.png)
+<div style="background-color: white;"> R.B. Ooi working on his typewriter, date unknown. <i>Courtesy of Irene Lim.</i>
+</div>
+
+In 1948, in the _Malaya Tribune_, Ooi called Westerners out for their ignorance of Malaya, their sense of superiority, snobbery and racial prejudice, which led to discrimination of locals:&nbsp;
+
+“The British have been administering Malaya for over a century, yet the people in Britain know very little about Malaya… The stories with British heroes subtly preached the superiority of the ‘orang puteh’ in every imaginable situation… Now with snobbery returning to Singapore, some Europeans here… are daily becoming more ‘snooty’… Let them be more human, more friendly, and forget their colour, and they will find Asians more friendly to them.”[^11]
+
+As much as Ooi was critical of Western attitudes and some Westernised Asians, he expressed in the _Straits Echo_ in 1972 that he did not support erasures of place names and other markers of Malaysia’s colonial heritage. He wrote: “New histories are being written in \[Asia and Africa to\] rub out former colonial influences. Histories can be written to suit the new people in power, but previous historical influences are embedded deep in the subconscious minds of the people. Their cultures, religions, languages and social customs will contain earmarks of the waves of civilisations that had washed over them in the course of centuries.”[^12]
+
+<b>Curtailing Press Freedom</b><br>
+
+
+  
+
+* * *
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+
+[\[1\]](#_ftnref1) Ooi, “[A Drop of Ink](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540602-1.2.81),” 6.
+
   
 
 * * *
@@ -88,5 +122,11 @@ However, Ooi was also critical of the Straits Chinese for their British affectat
 [^8]: “How to Think Malaysian,” Straits Echo, 16 October 1972. (Microfilm NL7162)
 
 [^9]: R.B. Ooi, “[A Drop of Ink](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540605-1.2.67),” _Singapore Standard,_ 5 June 1954, 6 (From NewspaperSG). This article is mainly a scathing review of U.S. Supreme Court Justice (later Chief Justice) William O. Douglas’ 1953 book, [_North from Malaya_](https://catalogue.nlb.gov.sg/search/card?recordId=1520719)_._ Douglas wrote the book after a whirlwind British-escorted tour of Malaya and was full of hilarious errors. See William O. Douglas, [_North from Malaya_](https://catalogue.nlb.gov.sg/search/card?recordId=1520719) (Garden City, N.Y: Doubleday, 1953). (From National Library, Singapore call no. RCLOS 959 DOU-\[RFL\])
+
+[^10]: Ooi, “[A Drop of Ink](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540602-1.2.81),” 6.
+
+[^11]: “Snobbery Again in Malaya,” _Malaya Tribune,_ 8 August 1948. (Microfilm NL2147)
+
+[^12]: “Can History Be Scrubbed Off?” _Straits Echo,_ 7 December 1972. (Microfilm NL7252)
 
 
