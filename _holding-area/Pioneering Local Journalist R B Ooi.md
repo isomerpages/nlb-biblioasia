@@ -101,35 +101,26 @@ I think he would have been pleased to learn of my own inclinations toward writin
 
 In my retirement, I co-founded and co-edit an academic blog promoting scholarship “of, for and by Singapore”, which also advocates for academic freedom.[^18] In Singapore in 2017, I gave a keynote speech at my alma mater, Methodist Girls’ School, closely tracking my grandfather’s own arguments for multiculturalism, but for the 21st century. This was years before I read his work.[^19] To paraphrase a popular saying, the durian does not fall far from the tree.
 
+![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/family.png)
+<div style="background-color: white;">The engagement of Nadia Azahari (centre), daughter of Eric Ooi and Julia Daham (first row extreme left), to Megat Muzaffar Shah bin Datuk Mohamad Nor in Kuala Lumpur, 2010. <i>Courtesy of Irene Lim.</i>
+</div>
+
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
+<b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br>
+	
+Donated in 2023 by Mrs Irene Lim, daughter of R.B. Ooi, items in the collection include typescripts of Ooi’s articles, which cover a range of topics besides the economic, social and political situation in the region. Other highlights are his articles for the Foreign News Service such as “The New Nation of Malaysia” (c.1962); an unpublished article, “The English Press of Malaysia and Singapore” (1971); scripts for Radio Malaysia, including one for “Window on the World” about the death of former Indonesian president Sukarno (1970); and personal letters and photographs. Materials from the collection can be viewed at Level 11 of the Lee Kong Chian Reference Library via online reservation from the third quarter of 2024.
+	
+	
+</div><br>
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/linda_profile_foto.png">
+	<b>Linda Lim</b> is a Singaporean economist and Professor Emerita of corporate strategy and international business at the University of Michigan Ross School of Business. She also served as director of the University’s Center for Southeast Asian Studies.
+</div>
+ 
+#### **Notes**
   
-
-* * *
-
-
-
-  
-
-* * *
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-* * *
-
-
-
 [^1]: Excerpt from letter from R.B. Ooi to his daughter Irene Lim dated 21 November 1969. The letter is among other materials donated by Lim to the National Library of Singapore for the R.B. Ooi and Edna Kung Collection. For more on Lim’s life, see Irene Lim, [_90 Years in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204446401) (Singapore: Pagesetters Services Pte Ltd., 2020). (From National Library, Singapore call no. RSING 307.7609595 LIM). An excerpt from this memoir was published as Irene Lim, “[Asthma, Amahs and Amazing Food](https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/asthma/),” _BiblioAsia_ 16, no. 4 (January–March 2021): 64–68.
 
 [^2]: Excerpt of letter from R.B. Ooi to Irene Lim, 21 November 1969.
@@ -142,7 +133,7 @@ In my retirement, I co-founded and co-edit an academic blog promoting scholarshi
 
 [^6]: “The Babas and Nonyas,” Parts 1, 2, 3, manuscript circa 1970–72.
 
-[^7]: R.B. Ooi, “Through Chinese Eyes,” Malaya Tribune, 19 April 1941, 6. (From NewspaperSG)
+[^7]: R.B. Ooi, “[Through Chinese Eyes](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19410419-1.2.79),” <i>Malaya Tribune</i>, 19 April 1941, 6. (From NewspaperSG)
 
 [^8]: “How to Think Malaysian,” Straits Echo, 16 October 1972. (Microfilm NL7162)
 
@@ -167,5 +158,3 @@ In my retirement, I co-founded and co-edit an academic blog promoting scholarshi
 [^18]: “About Us,” Academia SG, https://www.academia.sg/about/.&nbsp;
 
 [^19]: Linda Lim, “Singapore and the World: Looking Back and Looking Ahead,” The Online Citizen, 4 June 2017, https://www.theonlinecitizen.com/2017/06/04/singapore-and-the-world-looking-back-and-looking-ahead/.
-
-
