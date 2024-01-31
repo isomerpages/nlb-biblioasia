@@ -104,7 +104,6 @@ In my retirement, I co-founded and co-edit an academic blog promoting scholarshi
 <img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/family.png" style="width: 85%;">
 <div style="background-color: white;">The engagement of Nadia Azahari (centre), daughter of Eric Ooi and Julia Daham (first row extreme left), to Megat Muzaffar Shah bin Datuk Mohamad Nor in Kuala Lumpur, 2010. <i>Courtesy of Irene Lim.</i>
 </div><br>
-
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
 <b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br>
 	
