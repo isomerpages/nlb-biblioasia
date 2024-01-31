@@ -104,6 +104,13 @@ In 1915, sepoys in Singapore revolted against their British officers in a bloody
 <img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial1.JPG">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/unresolved-past/">The Unresolved Past: Reflections on War and Memory</a>
+
+Why recall traumatic memories of war when it is painful for both perpetrators and victims? <b>Kwok Kian Woon</b> considers the stakes in remembering and understanding war experiences in times of relative peace.
+
+<img src="/images/Vol-15-issue-1/the-unresolved-past/01_unresolvedpast.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/iron-spearhead-hitmn/">Iron Spearhead: The Story of a Communist Hitman</a>
 
 **Ronnie Tan**&nbsp;and&nbsp;**Goh Yu Mei**&nbsp;recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
