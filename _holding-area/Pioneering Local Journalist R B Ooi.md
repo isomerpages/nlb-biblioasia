@@ -18,7 +18,7 @@ R.B. Ooi, born Ooi Chor Hooi (1905–72), was my maternal grandfather. He was on
 <b>Career in Journalism</b><br>
 Ooi started out as a junior reporter for the Penang-based newspaper, Straits Echo, in 1923. He was the first Chinese reporter among other Ceylon-Eurasian, British and Australian staff. In 1924, he joined the Treasury in Kuala Lumpur as a clerk. Between 1929 and 1933, Ooi worked as an assistant secretary at the Pontianak Gold Mine, which was owned by his father-in-law, Kung Tian Siong. He then went on to work for Duncan Roberts, managing the International Correspondence Schools at 10 Collyer Quay in Singapore. Ooi also moonlighted as a part-time reporter for the Straits Echo from 1923–28, and the Malaya Tribune from 1934 to 42, under the penname R.B. Ooi. 
 
-![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/04.png)
+<img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/04.png" style="width: 85%;">
 <div style="background-color: white;"> R.B. Ooi with his father-in-law, Kung Tian Siong, on Siglap Beach, 1939. <i>Courtesy of Irene Lim.</i>
 </div>
 
@@ -30,24 +30,24 @@ From 1954–58, Ooi was the editor-in-chief of the _Singapore Standard_. He rejo
 
 After his stint at the _Eastern Sun_, Ooi became a freelance writer (penning a regular column titled “Impromptu” for the _Straits Echo_) and broadcaster (hosting a monthly current affairs radio talk show called “Window on the World”). In 1968, he received the Ahli Mangku Negara (Defender of the Realm) decoration from the Yang di-Pertuan Agong of Malaysia. Ooi’s last column was published in the _Straits Echo_ shortly after his death in Kuala Lumpur in December 1972.
 
-![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/conferment.png)
+<img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/conferment.png" style="width: 90%;">
 <div style="background-color: white;"> (Left) R.B. Ooi t work, 1940s. (Right) R.B. Ooi being conferred the Ahli Mangku Negara by the Yang di-Pertuan Agong of Malaysia, 1968. <i>Courtesy of Irene Lim.</i>
 </div>
 
 <b>Early Life</b><br>
 Ooi was born and raised in Bukit Mertajam on a coconut plantation “bigger than Singapore” established by his great-grandfather Ooi Tung Kheng, an immigrant from China who was one of the founders of Bukit Mertajam.[^4] Ooi attended a Methodist primary school and studied at the Anglo-Chinese School (ACS) on Penang Island for his secondary education. He would catch the 4.30 am mail train from Singapore to Prai every morning, then the ferry to Georgetown, before cycling to school. He won a scholarship after topping a state-wide exam.
 
-![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/01.png)
+<img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/01.png" style="width: 90%;">
 <div style="background-color: white;"> This family photo was taken on the birthday of Linda Lim’s great-great-great grandmother Saw Kim Lian (centre) in Bukit Mertajam, c.1923. <i>Courtesy of Irene Lim.</i>
 </div>
 
-![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/friends.png)
+<img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/friends.png" style="width: 90%;">
 <div style="background-color: white;"> (Left) R.B. Ooi with his Straits Chinese friends, date unknown. (Right) A young R.B. Ooi, date unknown.<i>Courtesy of Irene Lim.</i>
 </div>
 
 On 15 September 1925, Ooi spotted Edna Kung Gek Neo (1910–2003) on the train. Struck by her beauty, he noted down her name and address from her luggage tag and wrote to her father proposing marriage. Finding out that the Ooi family were educated wealthy landowners, Edna’s father, Kung Tian Siong (1876–1958), a Singapore businessman and direct descendant of Confucius,[^5]  agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at the Wesley Church in Singapore on 5 December 1925, when he was 19 and Edna 15. 
 
-![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/wedding.png)
+<img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/wedding.png" style="width: 90%;">
 <div style="background-color: white;">(Left) R.B. Ooi and Edna Kung’s wedding at Wesley Church, 1925. (Right) Ooi and Kung also had a traditional Chinese wedding at the Ooi family home in Bukit Mertajam, 1925.<i>Courtesy of Irene Lim.</i>
 </div>
 
@@ -67,7 +67,7 @@ However, Ooi was also critical of the Straits Chinese for their British affectat
 
 He was particularly critical of foreign-educated university graduates, whom he felt “\[could not\] adjust themselves to their home environments… at this juncture many Malayan graduates feel that their own indigenous cultures are far inferior to what they have acquired in western countries...&nbsp; They were loud in their complaints that Malaya was an uncivilised and uncultured country, because they could not indulge in the fripperies of modern living”.[^10]
 
-![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/13.png)
+<img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/13.png" style="width: 85%;">
 <div style="background-color: white;"> R.B. Ooi working on his typewriter, date unknown. <i>Courtesy of Irene Lim.</i>
 </div>
 
@@ -101,9 +101,9 @@ I think he would have been pleased to learn of my own inclinations toward writin
 
 In my retirement, I co-founded and co-edit an academic blog promoting scholarship “of, for and by Singapore”, which also advocates for academic freedom.[^18] In Singapore in 2017, I gave a keynote speech at my alma mater, Methodist Girls’ School, closely tracking my grandfather’s own arguments for multiculturalism, but for the 21st century. This was years before I read his work.[^19] To paraphrase a popular saying, the durian does not fall far from the tree.
 
-![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/family.png)
+<img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/family.png" style="width: 85%;">
 <div style="background-color: white;">The engagement of Nadia Azahari (centre), daughter of Eric Ooi and Julia Daham (first row extreme left), to Megat Muzaffar Shah bin Datuk Mohamad Nor in Kuala Lumpur, 2010. <i>Courtesy of Irene Lim.</i>
-</div>
+</div><br>
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
 <b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br>
