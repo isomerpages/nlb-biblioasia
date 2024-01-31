@@ -91,3 +91,10 @@ The very first census here was conducted in 1824. *Ang Seow Leng* reveals how do
 
 <img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount1.JPG" style="width:80%;">													
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/lookingbackforward/">Looking Back, Looking Forward</a>
+
+<b>Shashi Jayakumar</b>&nbsp;examines the role of the National Archives as the official custodian of government records and the people’s collective memory.
+
+<img src="/images/Vol-15-issue-1/looking-back-looking-forward/01_lookingbackforward.jpg" style="width:80%;">													
+<hr>
