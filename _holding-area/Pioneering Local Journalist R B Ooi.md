@@ -103,14 +103,14 @@ In my retirement, I co-founded and co-edit an academic blog promoting scholarshi
 
 ![](/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/family.png)
 <div style="background-color: white;">The engagement of Nadia Azahari (centre), daughter of Eric Ooi and Julia Daham (first row extreme left), to Megat Muzaffar Shah bin Datuk Mohamad Nor in Kuala Lumpur, 2010. <i>Courtesy of Irene Lim.</i>
-</div>
+</div><br>
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
 <b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br>
 	
 Donated in 2023 by Mrs Irene Lim, daughter of R.B. Ooi, items in the collection include typescripts of Ooi’s articles, which cover a range of topics besides the economic, social and political situation in the region. Other highlights are his articles for the Foreign News Service such as “The New Nation of Malaysia” (c.1962); an unpublished article, “The English Press of Malaysia and Singapore” (1971); scripts for Radio Malaysia, including one for “Window on the World” about the death of former Indonesian president Sukarno (1970); and personal letters and photographs. Materials from the collection can be viewed at Level 11 of the Lee Kong Chian Reference Library via online reservation from the third quarter of 2024.
 	
-</div><br>
+</div>
 
 <div style="background-color: white;">
 <br>
