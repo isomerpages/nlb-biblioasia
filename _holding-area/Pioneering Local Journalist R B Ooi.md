@@ -82,161 +82,84 @@ In 1948, in the <i>Malaya Tribune</i>, Ooi called Westerners out for their ignor
 As much as Ooi was critical of Western attitudes and some Westernised Asians, he expressed in the <em>Straits Echo</em> in 1972 that he did not support erasures of place names and other markers of Malaysia’s colonial heritage. He wrote: “New histories are being written in [Asia and Africa to] rub out former colonial influences. Histories can be written to suit the new people in power, but previous historical influences are embedded deep in the subconscious minds of the people. Their cultures, religions, languages and social customs will contain earmarks of the waves of civilisations that had washed over them in the course of centuries.”[^12]
 
 <b>Curtailing Press Freedom</b><br>
-Ooi was the consummate newspaperman and believed that freedom of the press
-was essential.[^13] He had spent most of his journalistic career in Singapore
-and saw the independence of Singapore’s newspapers being eroded.<p></p>
-<p>He revealed in an interview that during his two-year tenure at the <em>Eastern Sun</em> between
-1966 and 1968, he had experienced run-ins with then Singapore Prime Minister
-Lee Kuan Yew. Lee had “on several occasions, in front of all the other
-editors in Singapore (he called us up as a group very often), accused me
-of being an MCA or UMNO [Malaysian Chinese Association or United Malays
-National Organisation] spy. Also, he often sent his political commissars
-to our office to see what we were doing, PAP [People’s Action Party] agents
-were put on our staff and morale was very low”.[^14] This was one of the
-major reasons why Ooi subsequently left Singapore in 1968 and moved to
-Kuala Lumpur.</p>
-<p>In that same interview, Ooi described 1971 as a “disastrous year” for
-journalism in Singapore. That was the year Lee had shut down the <em>Eastern Sun</em> and
-the <em>Singapore Herald</em>, and also jailed the owner and editors of
-the <em>Nanyang Siang Pau</em> Chinese newspaper without trial. Ooi attributed
-these actions to Lee suspecting that the press in Singapore was “being
-financed by foreign interests to gain control of Singapore.” The end result
-was that “[w]hatever his bogeys are, the press in Singapore is a docile
-and commercial one controlled by him”.[^15] In an unpublished work in 1971
-donated to the National Library, Ooi detailed the history of English-language
-newspapers in Malaya.</p>
-<p>In a 1972 commentary in the <em>Straits Echo</em>, Ooi called for newspapers
-in Singapore and Malaysia to be separated. “If Singapore does not want
-foreign capital in and foreign control of its newspapers, why should Malaysia
-allow Singapore capital to control Malaysian newspapers?” he argued. “Malaysia
-should have her own independent Press.”[^16]</p>
-<p>Ooi also frequently, both in private and in public, railed against the
-insularity and parochialism of Singaporeans. “Though Singapore claims to
-be a metropolis, yet the average Singaporean is more parochial than village
-folks… While Singapore has made economic progress, it has lost its soul.
-Money is the god Singapore worships.”[^17]</p>
-<p><strong>Family, Culture and Nation</strong>
-<br>
-</p>
-<p>Ooi’s writings reflect the issues he cared most about – culture, identity,
-ethnicity, language, education and race relations – which are still salient
-today in both Singapore and Malaysia.&nbsp;Though still contentious in
-societal terms, the national and familial contexts are more positive than
-what Ooi had come to believe toward the end of his life.&nbsp;</p>
-<p>Ooi’s descendants have fared well. His grandchildren and great-grandchildren
-in Malaysia have married across ethnicities and cultures and are fluent
-in multiple languages. Several of them, mostly women, did their undergraduate
-studies in England in engineering, law, accountancy and economics, and
-all returned home (to Malaysia) thereafter. English remains the dominant
-family language, as are Western attire, music and other “cultural” habits.</p>
-<p>I’m sure my grandfather would be pleased that scholarly research on Straits
-Chinese history and culture is flourishing today, and that there has been
-a revival of Straits Chinese arts and culture in both Singapore and Malaysia,
-with thriving Peranakan associations, cuisine, performing arts and literature.
-Explorations of local history and “heritage” that formed such a large part
-of his writing have become popular, even entrenched, in both countries.</p>
-<p>As a teenager in Singapore, I wanted to be a writer and corresponded with
-my grandfather who lived in Malaysia at the time. Education had always
-been important to him, and he wanted his daughter, Irene, to go to university,
-which the Second World War and familial disruptions had sadly rendered
-impossible. Despite his antipathy to foreign university education and academics,
-he was very proud when I went to Cambridge University as an undergraduate,
-then the pinnacle of British colonial academic aspirations, and later to
-Yale.</p>
-<p>I think he would have been pleased to learn of my own inclinations toward
-writing popular commentaries on current affairs, which were published in
-newspapers like the <em>Straits Times</em> when I was doing my PhD. These
-include pieces challenging the status quo (in my case, primarily on economic
-policy, but also on race, inequality and East-West tensions), which could
-be considered the kind of “political writing” he had done.</p>
-<p>In my retirement, I co-founded and co-edit an academic blog promoting
-scholarship “of, for and by Singapore”, which also advocates for academic
-freedom.[^18] In Singapore in 2017, I gave a keynote speech at my alma
-mater, Methodist Girls’ School, closely tracking my grandfather’s own arguments
-for multiculturalism, but for the 21st century. This was years before I
-read his work.[^19] To paraphrase a popular saying, the durian does not
-fall far from the tree.</p>
-<div class="isomer-image-wrapper">
+Ooi was the consummate newspaperman and believed that freedom of the press was essential.[^13] He had spent most of his journalistic career in Singapore and saw the independence of Singapore’s newspapers being eroded.
+
+He revealed in an interview that during his two-year tenure at the <i>Eastern Sun</i> between 1966 and 1968, he had experienced run-ins with then Singapore Prime Minister Lee Kuan Yew. Lee had “on several occasions, in front of all the other editors in Singapore (he called us up as a group very often), accused me of being an MCA or UMNO [Malaysian Chinese Association or United Malays
+National Organisation] spy. Also, he often sent his political commissars to our office to see what we were doing, PAP [People’s Action Party] agents were put on our staff and morale was very low”.[^14] This was one of the major reasons why Ooi subsequently left Singapore in 1968 and moved to Kuala Lumpur.
+
+In that same interview, Ooi described 1971 as a “disastrous year” for journalism in Singapore. That was the year Lee had shut down the <i>Eastern Sun</i> and the <i>Singapore Herald</i>, and also jailed the owner and editors of the <i>Nanyang Siang Pau</i> Chinese newspaper without trial. Ooi attributed these actions to Lee suspecting that the press in Singapore was “being financed by foreign interests to gain control of Singapore.” The end result was that “[w]hatever his bogeys are, the press in Singapore is a docile
+and commercial one controlled by him”.[^15] In an unpublished work in 1971 donated to the National Library, Ooi detailed the history of English-language newspapers in Malaya.
+
+In a 1972 commentary in the <i>Straits Echo</i>, Ooi called for newspapers in Singapore and Malaysia to be separated. “If Singapore does not want foreign capital in and foreign control of its newspapers, why should Malaysia allow Singapore capital to control Malaysian newspapers?” he argued. “Malaysia should have her own independent Press.”[^16]
+
+Ooi also frequently, both in private and in public, railed against the insularity and parochialism of Singaporeans. “Though Singapore claims to be a metropolis, yet the average Singaporean is more parochial than village folks… While Singapore has made economic progress, it has lost its soul. Money is the god Singapore worships.”[^17]
+
+<b>Family, Culture and Nation</b><br>
+Ooi’s writings reflect the issues he cared most about – culture, identity, ethnicity, language, education and race relations – which are still salient today in both Singapore and Malaysia. Though still contentious in societal terms, the national and familial contexts are more positive than what Ooi had come to believe toward the end of his life.
+
+Ooi’s descendants have fared well. His grandchildren and great-grandchildren in Malaysia have married across ethnicities and cultures and are fluent in multiple languages. Several of them, mostly women, did their undergraduate studies in England in engineering, law, accountancy and economics, and all returned home (to Malaysia) thereafter. English remains the dominant
+family language, as are Western attire, music and other “cultural” habits.
+
+I’m sure my grandfather would be pleased that scholarly research on Straits Chinese history and culture is flourishing today, and that there has been a revival of Straits Chinese arts and culture in both Singapore and Malaysia, with thriving Peranakan associations, cuisine, performing arts and literature. Explorations of local history and “heritage” that formed such a large part of his writing have become popular, even entrenched, in both countries.
+
+As a teenager in Singapore, I wanted to be a writer and corresponded with my grandfather who lived in Malaysia at the time. Education had always been important to him, and he wanted his daughter, Irene, to go to university, which the Second World War and familial disruptions had sadly rendered impossible. Despite his antipathy to foreign university education and academics, he was very proud when I went to Cambridge University as an undergraduate, then the pinnacle of British colonial academic aspirations, and later to Yale.
+
+I think he would have been pleased to learn of my own inclinations toward writing popular commentaries on current affairs, which were published in newspapers like the <i>Straits Times</i> when I was doing my PhD. These include pieces challenging the status quo (in my case, primarily on economic policy, but also on race, inequality and East-West tensions), which could be considered the kind of “political writing” he had done.
+
+In my retirement, I co-founded and co-edit an academic blog promoting scholarship “of, for and by Singapore”, which also advocates for academic freedom.[^18] In Singapore in 2017, I gave a keynote speech at my alma mater, Methodist Girls’ School, closely tracking my grandfather’s own arguments for multiculturalism, but for the 21st century. This was years before I
+read his work.[^19] To paraphrase a popular saying, the durian does not fall far from the tree.
+
 <img style="width: 85%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/family.png">
-</div>
-<p>The engagement of Nadia Azahari (centre), daughter of Eric Ooi and Julia
-Daham (first row extreme left), to Megat Muzaffar Shah bin Datuk Mohamad
-Nor in Kuala Lumpur, 2010. <em>Courtesy of Irene Lim.</em>
-</p>
-<p>
-<br>
-</p>
-<p><strong>THE R.B. OOI AND EDNA KUNG COLLECTION</strong>
-<br>
-</p>
-<p>Donated in 2023 by Mrs Irene Lim, daughter of R.B. Ooi, items in the collection
-include typescripts of Ooi’s articles, which cover a range of topics besides
-the economic, social and political situation in the region. Other highlights
-are his articles for the Foreign News Service such as “The New Nation of
-Malaysia” (c.1962); an unpublished article, “The English Press of Malaysia
-and Singapore” (1971); scripts for Radio Malaysia, including one for “Window
-on the World” about the death of former Indonesian president Sukarno (1970);
-and personal letters and photographs. Materials from the collection can
-be viewed at Level 11 of the Lee Kong Chian Reference Library via online
-reservation from the third quarter of 2024.</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
+
+<div style="background-color:white;">The engagement of Nadia Azahari (centre), daughter of Eric Ooi and Julia Daham (first row extreme left), to Megat Muzaffar Shah bin Datuk Mohamad Nor in Kuala Lumpur, 2010. <i>Courtesy of Irene Lim.</i></div><br>
+
+<div style="background-color: #fff6ba; text-align:left; font-size:95%">
+<b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br>
+
+Donated in 2023 by Mrs Irene Lim, daughter of R.B. Ooi, items in the collection include typescripts of Ooi’s articles, which cover a range of topics besides the economic, social and political situation in the region. Other highlights are his articles for the Foreign News Service such as “The New Nation of Malaysia” (c.1962); an unpublished article, “The English Press of Malaysia and Singapore” (1971); scripts for Radio Malaysia, including one for “Window on the World” about the death of former Indonesian president Sukarno (1970); and personal letters and photographs. Materials from the collection can be viewed at Level 11 of the Lee Kong Chian Reference Library via online reservation from the third quarter of 2024.<br></div>
+
 <img style="width: 100px; height: 100px;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/linda_profile_foto.png">
-</div>
-<p><strong>Linda Lim</strong> is a Singaporean economist and Professor Emerita
-of corporate strategy and international business at the University of Michigan
-Ross School of Business. She also served as director of the University’s
-Center for Southeast Asian Studies.</p>
-<h4><strong>Notes</strong></h4>
-<p>[^1]: Excerpt from letter from R.B. Ooi to his daughter Irene Lim dated
-21 November 1969. The letter is among other materials donated by Lim to
-the National Library of Singapore for the R.B. Ooi and Edna Kung Collection.
-For more on Lim’s life, see Irene Lim, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204446401" rel="noopener noreferrer nofollow" target="_blank">90 Years in Singapore</a></em> (Singapore:
-Pagesetters Services Pte Ltd., 2020). (From National Library, Singapore
-call no. RSING 307.7609595 LIM). An excerpt from this memoir was published
-as Irene Lim, “<a href="https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/asthma/" rel="noopener noreferrer nofollow" target="_blank">Asthma, Amahs and Amazing Food</a>,” <em>BiblioAsia</em> 16,
-no. 4 (January–March 2021): 64–68.</p>
-<p>[^2]: Excerpt of letter from R.B. Ooi to Irene Lim, 21 November 1969.</p>
-<p>[^3]: For example, a column ranted that “the Japanese are the last people
-on earth to treat you like human beings once you are under their yoke”.
-See R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19420110-1.2.45" rel="noopener noreferrer nofollow" target="_blank">Plain Talk to the People</a>,” <em>Malaya Tribune</em>,
-10 January 1942, 4. (From NewspaperSG)</p>
-<p>[^4]: “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19331118-1.2.20" rel="noopener noreferrer nofollow" target="_blank">Braved the Pioneering Days in Malaya: Death of Madam Saw Kim Lian At Age of 90</a>,” <em>Straits Times</em> 18
-November 1933, 6; Ooi Chor Hooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19390101-1.2.11" rel="noopener noreferrer nofollow" target="_blank">Life in the Coconut Groves</a>,” <em>Straits Times Annual</em>,
-1 January 1939, 16–17. (From NewspaperSG)</p>
-<p>[^5]: Linda Y.C. Lim, <em>Four Chinese Families in British Colonial Malaya – Confucius, Christianity and Revolution</em>,
-4th ed. (Singapore: Blurb, 2019), https://www.blurb.com/b/5022666-four-chinese-families-in-british-colonial-malaya-c.</p>
-<p>[^6]: “The Babas and Nonyas,” Parts 1, 2, 3, manuscript circa 1970–72.</p>
-<p>[^7]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19410419-1.2.79" rel="noopener noreferrer nofollow" target="_blank">Through Chinese Eyes</a>,” <em>Malaya Tribune</em>,
-19 April 1941, 6. (From NewspaperSG)</p>
-<p>[^8]: “How to Think Malaysian,” Straits Echo, 16 October 1972. (Microfilm
-NL7162)</p>
-<p>[^9]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540605-1.2.67" rel="noopener noreferrer nofollow" target="_blank">A Drop of Ink</a>,” <em>Singapore Standard,</em> 5
-June 1954, 6 (From NewspaperSG). This article is mainly a scathing review
-of U.S. Supreme Court Justice (later Chief Justice) William O. Douglas’
-1953 book, <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=1520719" rel="noopener noreferrer nofollow" target="_blank">North from Malaya</a>.</em> Douglas
-wrote the book after a whirlwind British-escorted tour of Malaya and was
-full of hilarious errors. See William O. Douglas, <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=1520719" rel="noopener noreferrer nofollow" target="_blank">North from Malaya</a></em> (Garden
-City, N.Y: Doubleday, 1953). (From National Library, Singapore call no.
-RCLOS 959 DOU-[RFL])</p>
-<p>[^10]: Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540602-1.2.81" rel="noopener noreferrer nofollow" target="_blank">A Drop of Ink</a>,”
-6.</p>
-<p>[^11]: “Snobbery Again in Malaya,” <em>Malaya Tribune,</em> 8 August 1948.
-(Microfilm NL2147)</p>
-<p>[^12]: “Can History Be Scrubbed Off?” <em>Straits Echo,</em> 7 December
-1972. (Microfilm NL7252)</p>
-<p>[^13]: Ooi first wrote about this with respect to Emergency regulations.
-See Ooi, “A Drop of Ink,” 6.</p>
-<p>[^14]: Interview cited in John A. Lent, “Protecting the People,” Index
-on Censorship 4, no. 3 (1975): 8, https://www.tandfonline.com/doi/abs/10.1080/03064227508532443.</p>
-<p>[^15]: R.B. Ooi, “The Press of Malaysia and Singapore,” Manuscript, November
-1971.</p>
-<p>[^16]: “The Press on a Tight-Rope,” <em>Straits Echo,</em> 3 July 1972.
-(Microfilm NL7126)</p>
-<p>[^17]: “The Regimented Singaporean,” <em>Straits Echo</em>, 16 January
-1972. (Microfilm NL6974)</p>
-<p>[^18]: “About Us,” Academia SG, https://www.academia.sg/about/.&nbsp;</p>
-<p>[^19]: Linda Lim, “Singapore and the World: Looking Back and Looking Ahead,”
-The Online Citizen, 4 June 2017, https://www.theonlinecitizen.com/2017/06/04/singapore-and-the-world-looking-back-and-looking-ahead/.</p>
+
+<b>Linda Lim</b> is a Singaporean economist and Professor Emerita of corporate strategy and international business at the University of Michigan Ross School of Business. She also served as director of the University’s Center for Southeast Asian Studies.
+
+#### **Notes**
+
+[^1]: Excerpt from letter from R.B. Ooi to his daughter Irene Lim dated 21 November 1969. The letter is among other materials donated by Lim to the National Library of Singapore for the R.B. Ooi and Edna Kung Collection. For more on Lim’s life, see Irene Lim, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204446401"><i>90 Years in Singapore</i></a> (Singapore: Pagesetters Services Pte Ltd., 2020). (From National Library, Singapore call no. RSING 307.7609595 LIM). An excerpt from this memoir was published as Irene Lim, “<a href="https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/asthma/">Asthma, Amahs and Amazing Food</a>,” <i>BiblioAsia</i> 16, no. 4 (January–March 2021): 64–68.
+
+[^2]: Excerpt of letter from R.B. Ooi to Irene Lim, 21 November 1969.
+
+[^3]: For example, a column ranted that “the Japanese are the last people on earth to treat you like human beings once you are under their yoke”. See R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19420110-1.2.45">Plain Talk to the People</a>,” <i>Malaya Tribune</i>, 10 January 1942, 4. (From NewspaperSG)
+
+[^4]: “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19331118-1.2.20">Braved the Pioneering Days in Malaya: Death of Madam Saw Kim Lian At Age of 90</a>,” <i>Straits Times</i> 18 November 1933, 6; Ooi Chor Hooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19390101-1.2.11">Life in the Coconut Groves</a>,” <i>Straits Times Annual</i>, 1 January 1939, 16–17. (From NewspaperSG)
+
+[^5]: Linda Y.C. Lim, <i>Four Chinese Families in British Colonial Malaya – Confucius, Christianity and Revolution</i>, 4th ed. (Singapore: Blurb, 2019), https://www.blurb.com/b/5022666-four-chinese-families-in-british-colonial-malaya-c.
+
+[^6]: “The Babas and Nonyas,” Parts 1, 2, 3, manuscript circa 1970–72.
+
+[^7]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19410419-1.2.79">Through Chinese Eyes</a>,” <i>Malaya Tribune</i>, 19 April 1941, 6. (From NewspaperSG)
+
+[^8]: “How to Think Malaysian,” Straits Echo, 16 October 1972. (Microfilm NL7162)
+
+[^9]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540605-1.2.67">A Drop of Ink</a>,” <i>Singapore Standard,</i> 5 June 1954, 6 (From NewspaperSG). This article is mainly a scathing review of U.S. Supreme Court Justice (later Chief Justice) William O. Douglas’ 1953 book, <i><a href="https://catalogue.nlb.gov.sg/search/card?recordId=1520719">North from Malaya</a>.</i> Douglas wrote the book after a whirlwind British-escorted tour of Malaya and was full of hilarious errors. See William O. Douglas, <i><a href="https://catalogue.nlb.gov.sg/search/card?recordId=1520719">North from Malaya</a></i> (Garden City, N.Y: Doubleday, 1953). (From National Library, Singapore call no.
+RCLOS 959 DOU-[RFL])
+
+[^10]: Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540602-1.2.81">A Drop of Ink</a>,”
+6.
+
+[^11]: “Snobbery Again in Malaya,” <em>Malaya Tribune,</em> 8 August 1948. (Microfilm NL2147)
+
+[^12]: “Can History Be Scrubbed Off?” <em>Straits Echo,</em> 7 December 1972. (Microfilm NL7252)
+
+[^13]: Ooi first wrote about this with respect to Emergency regulations. See Ooi, “A Drop of Ink,” 6.
+
+[^14]: Interview cited in John A. Lent, “Protecting the People,” Index on Censorship 4, no. 3 (1975): 8, https://www.tandfonline.com/doi/abs/10.1080/03064227508532443.
+
+[^15]: R.B. Ooi, “The Press of Malaysia and Singapore,” Manuscript, November 1971.
+
+[^16]: “The Press on a Tight-Rope,” <em>Straits Echo,</em> 3 July 1972. (Microfilm NL7126)
+
+[^17]: “The Regimented Singaporean,” <em>Straits Echo</em>, 16 January 1972. (Microfilm NL6974)
+
+[^18]: “About Us,” Academia SG, https://www.academia.sg/about/.
+
+[^19]: Linda Lim, “Singapore and the World: Looking Back and Looking Ahead,” The Online Citizen, 4 June 2017, https://www.theonlinecitizen.com/2017/06/04/singapore-and-the-world-looking-back-and-looking-ahead/.
