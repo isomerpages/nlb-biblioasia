@@ -27,89 +27,46 @@ In 1942, the family left Singapore for Bukit Mertajam in Province Wellesley (now
 
 Returning to Singapore after the war, Ooi became chief reporter, then sub-editor and columnist for the <i>Malaya Tribune</i> 1945–49). He then worked for the Information Department in Kuala Lumpur as a press officer in 1949 (until 1954) during the Malayan Emergency.
 
-From 1954–58, Ooi was the editor-in-chief of the <i>Singapore Standard</i>. He rejoined the Information Department in 1958 and was appointed Head of the Press and Liaison sections in May 1960. He was the editor-in-chief of the <em>Malayan Times</em> (1962–65) and later the <em>Eastern Sun</em> in Singapore (1966–68).
+From 1954–58, Ooi was the editor-in-chief of the <i>Singapore Standard</i>. He rejoined the Information Department in 1958 and was appointed Head of the Press and Liaison sections in May 1960. He was the editor-in-chief of the <i>Malayan Times</i> (1962–65) and later the <i>Eastern Sun</i> in Singapore (1966–68).
 
-After his stint at the <em>Eastern Sun</em>, Ooi became a freelance writer
-(penning a regular column titled “Impromptu” for the <em>Straits Echo</em>)
-and broadcaster (hosting a monthly current affairs radio talk show called
-“Window on the World”). In 1968, he received the Ahli Mangku Negara (Defender
-of the Realm) decoration from the Yang di-Pertuan Agong of Malaysia. Ooi’s
-last column was published in the <em>Straits Echo</em> shortly after his
-death in Kuala Lumpur in December 1972.<p></p>
-<div class="isomer-image-wrapper">
+After his stint at the <i>Eastern Sun</i>, Ooi became a freelance writer (penning a regular column titled “Impromptu” for the <i>Straits Echo</i>) and broadcaster (hosting a monthly current affairs radio talk show called “Window on the World”). In 1968, he received the Ahli Mangku Negara (Defender of the Realm) decoration from the Yang di-Pertuan Agong of Malaysia. Ooi’s last column was published in the <i>Straits Echo</i> shortly after his death in Kuala Lumpur in December 1972.
+
 <img style="width: 90%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/conferment.png">
-</div>
-<p>(Left) R.B. Ooi t work, 1940s. (Right) R.B. Ooi being conferred the Ahli
-Mangku Negara by the Yang di-Pertuan Agong of Malaysia, 1968. <em>Courtesy of Irene Lim.</em>
-</p>
-<p><strong>Early Life</strong>
-<br>
-</p>
-<p>Ooi was born and raised in Bukit Mertajam on a coconut plantation “bigger
-than Singapore” established by his great-grandfather Ooi Tung Kheng, an
-immigrant from China who was one of the founders of Bukit Mertajam.[^4]
-Ooi attended a Methodist primary school and studied at the Anglo-Chinese
-School (ACS) on Penang Island for his secondary education. He would catch
-the 4.30 am mail train from Singapore to Prai every morning, then the ferry
-to Georgetown, before cycling to school. He won a scholarship after topping
-a state-wide exam.</p>
-<div class="isomer-image-wrapper">
+<div style="background-color:white;">(Left) R.B. Ooi t work, 1940s. (Right) R.B. Ooi being conferred the Ahli Mangku Negara by the Yang di-Pertuan Agong of Malaysia, 1968. <i>Courtesy of Irene Lim.</i></div>
+
+<b>Early Life</b><br>
+Ooi was born and raised in Bukit Mertajam on a coconut plantation “bigger than Singapore” established by his great-grandfather Ooi Tung Kheng, an immigrant from China who was one of the founders of Bukit Mertajam.[^4] Ooi attended a Methodist primary school and studied at the Anglo-Chinese School (ACS) on Penang Island for his secondary education. He would catch the 4.30 am mail train from Singapore to Prai every morning, then the ferry to Georgetown, before cycling to school. He won a scholarship after topping a state-wide exam.
+
 <img style="width: 90%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/01.png">
-</div>
-<p>This family photo was taken on the birthday of Linda Lim’s great-great-great
-grandmother Saw Kim Lian (centre) in Bukit Mertajam, c.1923. <em>Courtesy of Irene Lim.</em>
-</p>
-<div class="isomer-image-wrapper">
+
+<div style="background-color:white;">This family photo was taken on the birthday of Linda Lim’s great-great-great
+grandmother Saw Kim Lian (centre) in Bukit Mertajam, c.1923. <i>Courtesy of Irene Lim.</i></div><br>
+
 <img style="width: 90%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/friends.png">
-</div>
-<p>(Left) R.B. Ooi with his Straits Chinese friends, date unknown. (Right)
-A young R.B. Ooi, date unknown.<em>Courtesy of Irene Lim.</em>
-</p>
-<p>On 15 September 1925, Ooi spotted Edna Kung Gek Neo (1910–2003) on the
-train. Struck by her beauty, he noted down her name and address from her
-luggage tag and wrote to her father proposing marriage. Finding out that
-the Ooi family were educated wealthy landowners, Edna’s father, Kung Tian
-Siong (1876–1958), a Singapore businessman and direct descendant of Confucius,[^5]
-agreed. The Kungs were Christian, so Ooi was baptised for the wedding held
-at the Wesley Church in Singapore on 5 December 1925, when he was 19 and
-Edna 15.</p>
-<div class="isomer-image-wrapper">
+
+<div style="background-color:white;">(Left) R.B. Ooi with his Straits Chinese friends, date unknown. (Right)
+A young R.B. Ooi, date unknown.<i> Courtesy of Irene Lim.</i></div>
+
+On 15 September 1925, Ooi spotted Edna Kung Gek Neo (1910–2003) on the train. Struck by her beauty, he noted down her name and address from her luggage tag and wrote to her father proposing marriage. Finding out that the Ooi family were educated wealthy landowners, Edna’s father, Kung Tian Siong (1876–1958), a Singapore businessman and direct descendant of Confucius,[^5]
+agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at the Wesley Church in Singapore on 5 December 1925, when he was 19 and Edna 15.<p></p>
+
 <img style="width: 90%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/wedding.png">
-</div>
-<p>(Left) R.B. Ooi and Edna Kung’s wedding at Wesley Church, 1925. (Right)
-Ooi and Kung also had a traditional Chinese wedding at the Ooi family home
-in Bukit Mertajam, 1925.<em>Courtesy of Irene Lim.</em>
-</p>
-<p>To fulfil his mother’s wishes, Ooi and Edna had a second wedding in Bukit
-Mertajam according to Chinese rites. They had four children: Irene (born
-in 1927 in Kuala Lumpur), and Violet (1932), Eric (1934) and Sylvia (1936)
-who were born in Singapore following the family’s move there. Unfortunately,
-the marriage broke down. My grandmother, Edna, remarried towards the end
-of the war while my grandfather did not remarry.</p>
-<p><strong>Being Malayan</strong>
-<br>
-</p>
-<p>In his writings, which can be seen in the papers donated, Ooi would, sometimes
-uneasily, inhabit and navigate the British colonial/Western world and the
-Peranakan (that is, Malay-influenced) Chinese traditional culture into
-which he had been born and raised.</p>
-<p>His writings reveal that he was a proudly self-conscious Straits Chinese,
-embodying the three strands of their history and identity – Chinese, Malay
-and British/Western. Ooi wrote about many aspects of Straits Chinese life
-and culture. In “The Babas and Nonyas”,[^6] he recounted the incorporation
-of Malay music, drama, dance, religion and food into Peranakan culture.
-He noted that the <em>babas</em> (Peranakan men are known as <em>baba</em>,
-while the women are known as <em>nonya</em>) supported Malay opera and <em>keroncong</em> music
-competitions, described their “religious liberalism” as they worshipped
-at Malay shrines while seeking help from Thai <em>bomohs </em>(shamans),
-and praised their “innovative genius” in being able to adapt and learn
-from various cultures.</p>
-<p>Ooi was also a passionate advocate of what we would today call multiculturalism,
+
+<div style="background-color:white;">(Left) R.B. Ooi and Edna Kung’s wedding at Wesley Church, 1925. (Right) Ooi and Kung also had a traditional Chinese wedding at the Ooi family home in Bukit Mertajam, 1925.<i> Courtesy of Irene Lim.</i></div>
+
+To fulfil his mother’s wishes, Ooi and Edna had a second wedding in Bukit Mertajam according to Chinese rites. They had four children: Irene (born in 1927 in Kuala Lumpur), and Violet (1932), Eric (1934) and Sylvia (1936) who were born in Singapore following the family’s move there. Unfortunately, the marriage broke down. My grandmother, Edna, remarried towards the end of the war while my grandfather did not remarry.
+
+<b>Being Malayan</b><br>
+In his writings, which can be seen in the papers donated, Ooi would, sometimes uneasily, inhabit and navigate the British colonial/Western world and the Peranakan (that is, Malay-influenced) Chinese traditional culture into which he had been born and raised.
+
+His writings reveal that he was a proudly self-conscious Straits Chinese, embodying the three strands of their history and identity – Chinese, Malay and British/Western. Ooi wrote about many aspects of Straits Chinese life and culture. In “The Babas and Nonyas”,[^6] he recounted the incorporation of Malay music, drama, dance, religion and food into Peranakan culture. He noted that the <i>babas</i> (Peranakan men are known as <i>baba</i>, while the women are known as <i>nonya</i>) supported Malay opera and <i>keroncong</i> music competitions, described their “religious liberalism” as they worshipped at Malay shrines while seeking help from Thai <em>bomohs </em>(shamans), and praised their “innovative genius” in being able to adapt and learn from various cultures.
+
+Ooi was also a passionate advocate of what we would today call multiculturalism,
 which he saw as a necessary foundation for unity and progress in Malaysia.
 In 1941, Ooi wrote in the <em>Malaya Tribune</em> that “[t]he Straits Chinese,
 through their long association with Malays understand the Malays better
 than new arrivals from China… [who] do not know their language and seldom
-mix with them”.[^7]</p>
+mix with them”.[^7]<p></p>
 <p>Thirty years later, in 1972, he wrote that the “Malayan Chinese must cultivate
 a Malayan consciousness and consider themselves people of this country
 and of nowhere else… the Straits Chinese or Babas endorsed this view because
