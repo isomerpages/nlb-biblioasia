@@ -172,7 +172,7 @@ cultures are far inferior to what they have acquired in western countries...&nbs
 They were loud in their complaints that Malaya was an uncivilised and uncultured
 country, because they could not indulge in the fripperies of modern living”.[^10]</p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="60%" width="80%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/13.png">
+<img style="width: 80%; height: 65%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/13.png">
 </div>
 <p>R.B. Ooi working on his typewriter, date unknown. <em>Courtesy of Irene Lim.</em>
 </p>
