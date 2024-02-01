@@ -150,7 +150,10 @@ This cafe once loomed large in Singapore’s dining and social scene. *Vandana A
 <img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-title.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/building-history/">Building History: From Stamford Road to Canning Rise</a>
+<b>Abigail Huang</b>&nbsp;tracks the movement of the National Archives of Singapore, from its early days in the Raffles Museum and Library on Stamford Road to an old school building at the foot of Fort Canning.
 
-
-
+<img src="/images/Vol-15-issue-1/building-history/01a_buildinghistory.jpg" style="width:80%;">
 <hr>
+
+
