@@ -114,7 +114,7 @@ sections:
       image: /images/Podcast/YC_painting_3.jpg
       alt: Image alt text
   - infopic:
-      title: Photo Studios During the Japanese Occupation
+      title: Photo Studios and Photography During the Japanese Occupation
       subtitle: Photography
       id: infopic
       description: During the Japanese Occupation, local photographers worked under
