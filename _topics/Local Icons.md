@@ -111,6 +111,12 @@ The Emporium chain of department stores entered the scene when the retail market
 <img src="/images/Vol-15-issue-2/oriental-emporium/Emporium1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/building-history/">Building History: From Stamford Road to Canning Rise</a>
+<b>Abigail Huang</b>&nbsp;tracks the movement of the National Archives of Singapore, from its early days in the Raffles Museum and Library on Stamford Road to an old school building at the foot of Fort Canning.
+
+<img src="/images/Vol-15-issue-1/building-history/01a_buildinghistory.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/bridging-history-wtr/">Bridging History: Passageways Across Water</a>
 
 The foundation stone for the Causeway was laid 100 years ago. We look back at the history of this road and rail link.
