@@ -4,30 +4,19 @@ permalink: /holding-area/permalink/rb-ooi/
 variant: markdown
 description: RB Ooi
 ---
-<h4>As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing to fore issues at the heart of the nation.</h4>
-<p>By Linda Lim</p>
-<p>Being in a war zone is always dangerous, even for non-combatants, as R.B. Ooi, the former editor for the Singapore Standard and the Eastern Sun could
-attest.</p>
-<p>During the Malayan Emergency (1948–60), Ooi worked as a press officer to General Gerald Templer, the British High Commissioner for Malaya, who had been tasked to deal with the communist guerillas. In a 1969 letter to his daughter, Irene Lim, Ooi wrote that he had spent three years “covering the jungle war for the government, local and foreign press…” That meant spending time with British troops in the jungle. And while they tried not to draw attention, apparently, the communists knew they were there. Ooi further wrote that a surrendered Malay communist had come up to him and asked what they had been doing in the jungle near Bentong, Pahang, with a Gurkha patrol. “He and his men were waiting to ambush the Gurkhas when he saw us following the Gurkhas in thick jungle with film camera and still camera. He thought we were from Hollywood, so did not shoot…”[^1]</p>
-<p>Ooi also had to worry about being shot by the British as well. “Once I was sent to the jungle to study the morale of British troops. Those young
-soldiers were scared stiff when they entered a rubber estate. One of them
-tripped over a wire and set off an alarm in a hill. The soldiers ran up
-the hill firing like mad and so we had to run with them or else we might
-be fired upon by both sides… Those were dangerous years for me and two
-of my cameramen colleagues. I should have got an OBE [The Most Excellent
-Order of the British Empire] for that.”[^2]</p>
-<p>R.B. Ooi, born Ooi Chor Hooi (1905–72), was my maternal grandfather. He
-was one of the earliest local Malayan journalists writing in English and
-had worked for newspapers from the <em>Straits Echo</em> to the <em>Malayan Times</em>.
-In 2023, Irene Lim – his daughter and my mother – donated his personal
-papers and photos to the National Library of Singapore. These are now held
-in the R.B. Ooi and Edna Kung Collection. His writings give us a window
-into discourses – such as multiculturalism and the Malayan identity – that
-publicly preoccupied the English-educated in the colonial and immediate
-post-colonial periods in Singapore and Malaysia.</p>
-<p><strong>Career in Journalism</strong>
-<br>
-</p>
+#### As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing to fore issues at the heart of the nation.
+By Linda Lim
+
+Being in a war zone is always dangerous, even for non-combatants, as R.B. Ooi, the former editor for the Singapore Standard and the Eastern Sun could attest.
+
+During the Malayan Emergency (1948–60), Ooi worked as a press officer to General Gerald Templer, the British High Commissioner for Malaya, who had been tasked to deal with the communist guerillas. In a 1969 letter to his daughter, Irene Lim, Ooi wrote that he had spent three years “covering the jungle war for the government, local and foreign press…” That meant spending time with British troops in the jungle. And while they tried not to draw attention, apparently, the communists knew they were there. Ooi further wrote that a surrendered Malay communist had come up to him and asked what they had been doing in the jungle near Bentong, Pahang, with a Gurkha patrol. “He and his men were waiting to ambush the Gurkhas when he saw us following the Gurkhas in thick jungle with film camera and still camera. He thought we were from Hollywood, so did not shoot…”[^1]
+
+Ooi also had to worry about being shot by the British as well. “Once I was sent to the jungle to study the morale of British troops. Those young soldiers were scared stiff when they entered a rubber estate. One of them tripped over a wire and set off an alarm in a hill. The soldiers ran up the hill firing like mad and so we had to run with them or else we might be fired upon by both sides… Those were dangerous years for me and two of my cameramen colleagues. I should have got an OBE [The Most Excellent Order of the British Empire] for that.”[^2]
+
+R.B. Ooi, born Ooi Chor Hooi (1905–72), was my maternal grandfather. He was one of the earliest local Malayan journalists writing in English and had worked for newspapers from the <i>Straits Echo</i> to the <i>Malayan Times</i>. In 2023, Irene Lim – his daughter and my mother – donated his personal papers and photos to the National Library of Singapore. These are now held in the R.B. Ooi and Edna Kung Collection. His writings give us a window into discourses – such as multiculturalism and the Malayan identity – that
+publicly preoccupied the English-educated in the colonial and immediate post-colonial periods in Singapore and Malaysia.
+
+<b>Career in Journalism</b><br>
 <p>Ooi started out as a junior reporter for the Penang-based newspaper, <em>Straits Echo</em>,
 in 1923. He was the first Chinese reporter among other Ceylon-Eurasian,
 British and Australian staff. In 1924, he joined the Treasury in Kuala
