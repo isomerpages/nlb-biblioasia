@@ -59,40 +59,25 @@ To fulfil his mother’s wishes, Ooi and Edna had a second wedding in Bukit Mert
 <b>Being Malayan</b><br>
 In his writings, which can be seen in the papers donated, Ooi would, sometimes uneasily, inhabit and navigate the British colonial/Western world and the Peranakan (that is, Malay-influenced) Chinese traditional culture into which he had been born and raised.
 
-His writings reveal that he was a proudly self-conscious Straits Chinese, embodying the three strands of their history and identity – Chinese, Malay and British/Western. Ooi wrote about many aspects of Straits Chinese life and culture. In “The Babas and Nonyas”,[^6] he recounted the incorporation of Malay music, drama, dance, religion and food into Peranakan culture. He noted that the <i>babas</i> (Peranakan men are known as <i>baba</i>, while the women are known as <i>nonya</i>) supported Malay opera and <i>keroncong</i> music competitions, described their “religious liberalism” as they worshipped at Malay shrines while seeking help from Thai <em>bomohs </em>(shamans), and praised their “innovative genius” in being able to adapt and learn from various cultures.
+His writings reveal that he was a proudly self-conscious Straits Chinese, embodying the three strands of their history and identity – Chinese, Malay and British/Western. Ooi wrote about many aspects of Straits Chinese life and culture. In “The Babas and Nonyas”,[^6] he recounted the incorporation of Malay music, drama, dance, religion and food into Peranakan culture. He noted that the <i>babas</i> (Peranakan men are known as <i>baba</i>, while the women are known as <i>nonya</i>) supported Malay opera and <i>keroncong</i> music competitions, described their “religious liberalism” as they worshipped at Malay shrines while seeking help from Thai <i>bomohs </i>(shamans), and praised their “innovative genius” in being able to adapt and learn from various cultures.
 
-Ooi was also a passionate advocate of what we would today call multiculturalism,
-which he saw as a necessary foundation for unity and progress in Malaysia.
-In 1941, Ooi wrote in the <em>Malaya Tribune</em> that “[t]he Straits Chinese,
-through their long association with Malays understand the Malays better
-than new arrivals from China… [who] do not know their language and seldom
-mix with them”.[^7]<p></p>
-<p>Thirty years later, in 1972, he wrote that the “Malayan Chinese must cultivate
-a Malayan consciousness and consider themselves people of this country
-and of nowhere else… the Straits Chinese or Babas endorsed this view because
-they considered themselves assimilated or integrated Malayans”.[^8]</p>
-<p><strong>Western Influence</strong>
-<br>
-</p>
-<p>However, Ooi was also critical of the Straits Chinese for their British
-affectations, political apathy and class snobbery. “It is the Chinese from
-the fourth generation onwards who are more British than the British and
-they are to be found in the Colony of Singapore and the Straits Settlements
-of Penang and Malacca,” he wrote in the <em>Singapore Standard</em> in 1954.[^9]</p>
-<p>He was particularly critical of foreign-educated university graduates,
-whom he felt “[could not] adjust themselves to their home environments…
-at this juncture many Malayan graduates feel that their own indigenous
-cultures are far inferior to what they have acquired in western countries...&nbsp;
-They were loud in their complaints that Malaya was an uncivilised and uncultured
-country, because they could not indulge in the fripperies of modern living”.[^10]</p>
-<div class="isomer-image-wrapper">
+Ooi was also a passionate advocate of what we would today call multiculturalism, which he saw as a necessary foundation for unity and progress in Malaysia. In 1941, Ooi wrote in the <i>Malaya Tribune</i> that “[t]he Straits Chinese, through their long association with Malays understand the Malays better than new arrivals from China… [who] do not know their language and seldom
+mix with them”.[^7]
+
+Thirty years later, in 1972, he wrote that the “Malayan Chinese must cultivate a Malayan consciousness and consider themselves people of this country and of nowhere else… the Straits Chinese or Babas endorsed this view because they considered themselves assimilated or integrated Malayans”.[^8]
+
+<b>Western Influence</b><br>
+However, Ooi was also critical of the Straits Chinese for their British affectations, political apathy and class snobbery. “It is the Chinese from the fourth generation onwards who are more British than the British and they are to be found in the Colony of Singapore and the Straits Settlements of Penang and Malacca,” he wrote in the <em>Singapore Standard</em> in 1954.[^9]
+
+He was particularly critical of foreign-educated university graduates, whom he felt “[could not] adjust themselves to their home environments… at this juncture many Malayan graduates feel that their own indigenous cultures are far inferior to what they have acquired in western countries... They were loud in their complaints that Malaya was an uncivilised and uncultured country, because they could not indulge in the fripperies of modern living”.[^10]
+
 <img style="width: 80%; height: 65%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/13.png">
-</div>
-<p>R.B. Ooi working on his typewriter, date unknown. <em>Courtesy of Irene Lim.</em>
-</p>
-<p>In 1948, in the <em>Malaya Tribune</em>, Ooi called Westerners out for
+
+<div style="background-color:white;">R.B. Ooi working on his typewriter, date unknown. <i>Courtesy of Irene Lim.</i></div>
+
+In 1948, in the <i>Malaya Tribune</i>, Ooi called Westerners out for
 their ignorance of Malaya, their sense of superiority, snobbery and racial
-prejudice, which led to discrimination of locals:&nbsp;</p>
+prejudice, which led to discrimination of locals:&nbsp;<p></p>
 <p>“The British have been administering Malaya for over a century, yet the
 people in Britain know very little about Malaya… The stories with British
 heroes subtly preached the superiority of the ‘orang puteh’ in every imaginable
