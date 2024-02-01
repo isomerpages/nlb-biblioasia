@@ -119,3 +119,10 @@ Oral history is often considered as “little” – personal accounts of humble
 
 <img src="/images/Vol-15-issue-1/stories-of-little-people/01_littleppl.png" style="width:80%;">													
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/feeding-the-hungry/">Feeding the Hungry: Children in Post-War Singapore</a>
+
+In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore.&nbsp;<b>Cheryl-Ann Low</b>&nbsp;has the details.
+
+<img src="/images/Vol-15-issue-1/feeding-the-hungry/01_hungrychildren.png" style="width:80%;">													
+<hr>
