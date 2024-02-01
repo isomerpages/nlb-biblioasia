@@ -105,3 +105,10 @@ Who would have thought that obscure rainfall records from the 1960s would have a
 
 <img src="/images/Vol-15-issue-1/evidence-in-the-archives/01_encountering.jpg" style="width:80%;">													
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/the-way-we-were/">The Way We Were: The MITA Collection 1949–1969</a>
+
+Photographs can capture subtext that is sometimes more evocative than the intended subject, as&nbsp;<b>Gretchen Liu</b>&nbsp;discovered when she explored the early work of the Photo Unit.
+
+<img src="/images/Vol-15-issue-1/the-way-we-were/02c_waywewere.jpg" style="width:80%;">													
+<hr>
