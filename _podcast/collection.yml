@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - BiblioAsia.md
-      - Ancient Gold Coins/.keep
-      - Ancient Gold Coins/The Lost Gold Coins of the Old Singapore Library.md
-      - Ancient Gold Coins/Transcript.md
+      - Lost Gold Coins/.keep
+      - Lost Gold Coins/The Lost Gold Coins of the Old Singapore Library.md
+      - Lost Gold Coins/Transcript.md
       - The German Girl Shrine/.keep
       - The German Girl Shrine/The True Story Behind Ubin's German Girl Shrine.md
       - The German Girl Shrine/Transcript.md
