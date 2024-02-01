@@ -23,30 +23,19 @@ Ooi started out as a junior reporter for the Penang-based newspaper, <i>Straits 
 <img style="width: 85%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/04.png">
 <div style="background-color:white;">R.B. Ooi with his father-in-law, Kung Tian Siong, on Siglap Beach, 1939. <i>Courtesy of Irene Lim.</i></div>
 
-In 1942, the family left Singapore for Bukit Mertajam in Province Wellesley
-(now Seberang Prai), Malaysia, having been informed by Ooi’s “Malay journalist
-friend” (possibly Yusof Ishak, who later became the first president of
-Singapore in 1965) that he was on a death blacklist for anti-Japanese articles
-he had published before the Japanese Occupation (1942–45).[^3] A year later,
-Ooi got a job at Juru Rubber Estate in Province Wellesley, an experience
-that provided much material for his later articles on “life in the <em>ulu</em>”
-(<em>ulu</em> referring to remote wild places).<p></p>
-<p>Returning to Singapore after the war, Ooi became chief reporter, then
-sub-editor and columnist for the <em>Malaya Tribune</em> (1945–49). He then
-worked for the Information Department in Kuala Lumpur as a press officer
-in 1949 (until 1954) during the Malayan Emergency.&nbsp;</p>
-<p>From 1954–58, Ooi was the editor-in-chief of the <em>Singapore Standard</em>.
-He rejoined the Information Department in 1958 and was appointed Head of
-the Press and Liaison sections in May 1960. He was the editor-in-chief
-of the <em>Malayan Times</em> (1962–65) and later the <em>Eastern Sun</em> in
-Singapore (1966–68).</p>
-<p>After his stint at the <em>Eastern Sun</em>, Ooi became a freelance writer
+In 1942, the family left Singapore for Bukit Mertajam in Province Wellesley (now Seberang Prai), Malaysia, having been informed by Ooi’s “Malay journalist friend” (possibly Yusof Ishak, who later became the first president of Singapore in 1965) that he was on a death blacklist for anti-Japanese articles he had published before the Japanese Occupation (1942–45).[^3] A year later, Ooi got a job at Juru Rubber Estate in Province Wellesley, an experience that provided much material for his later articles on “life in the <i>ulu</i>” (<i>ulu</i> referring to remote wild places).
+
+Returning to Singapore after the war, Ooi became chief reporter, then sub-editor and columnist for the <i>Malaya Tribune</i> 1945–49). He then worked for the Information Department in Kuala Lumpur as a press officer in 1949 (until 1954) during the Malayan Emergency.
+
+From 1954–58, Ooi was the editor-in-chief of the <i>Singapore Standard</i>. He rejoined the Information Department in 1958 and was appointed Head of the Press and Liaison sections in May 1960. He was the editor-in-chief of the <em>Malayan Times</em> (1962–65) and later the <em>Eastern Sun</em> in Singapore (1966–68).
+
+After his stint at the <em>Eastern Sun</em>, Ooi became a freelance writer
 (penning a regular column titled “Impromptu” for the <em>Straits Echo</em>)
 and broadcaster (hosting a monthly current affairs radio talk show called
 “Window on the World”). In 1968, he received the Ahli Mangku Negara (Defender
 of the Realm) decoration from the Yang di-Pertuan Agong of Malaysia. Ooi’s
 last column was published in the <em>Straits Echo</em> shortly after his
-death in Kuala Lumpur in December 1972.</p>
+death in Kuala Lumpur in December 1972.<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/conferment.png">
 </div>
