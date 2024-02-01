@@ -175,6 +175,13 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 <img src="/images/Vol-15-issue-1/pioneers-of-the-archives/01a_pioneers.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/s-rajaratnam/">Researching S. Rajaratnam</a>
+
+Writing a biography can be tedious, painstaking work. But the effort can also be uplifting and inspirational, as&nbsp;<b>Irene Ng</b>&nbsp;discovered when she began researching the life of S. Rajaratnam.
+
+<img src="/images/Vol-15-issue-1/researching-s-rajaratnam/02a_rajaratnam.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/fnr-untold-story/">Farquhar &amp; Raffles: The Untold Story</a>
 
  The founding of Singapore in 1819 and its early development have traditionally been attributed to Sir Stamford Raffles.&nbsp;**Nadia Wright**&nbsp;claims that his role has been exaggerated at the expense of another.
