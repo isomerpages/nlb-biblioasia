@@ -8,8 +8,8 @@ third_nav_title: Lost Gold Coins
 <p>In the mid-19th century, two ancient gold coins were uncovered near present-day
 Keppel Harbour. Unfortunately, the Malay coins vanished before they could
 be studied carefully. The Jawi inscriptions on the coins were recorded
-though but they didn’t make sense. More than a 180 years later, Foo Shu
-Tieng tries to solve the case.</p>
+though but they didn’t make sense. More than 180 years later, Foo Shu Tieng
+tries to solve the case.</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on <a href="https://open.spotify.com/episode/5GYGnnrXcLX9WEae1XvILj" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
