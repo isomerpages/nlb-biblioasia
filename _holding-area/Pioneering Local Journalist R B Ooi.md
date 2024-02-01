@@ -75,30 +75,16 @@ He was particularly critical of foreign-educated university graduates, whom he f
 
 <div style="background-color:white;">R.B. Ooi working on his typewriter, date unknown. <i>Courtesy of Irene Lim.</i></div>
 
-In 1948, in the <i>Malaya Tribune</i>, Ooi called Westerners out for
-their ignorance of Malaya, their sense of superiority, snobbery and racial
-prejudice, which led to discrimination of locals:&nbsp;<p></p>
-<p>“The British have been administering Malaya for over a century, yet the
-people in Britain know very little about Malaya… The stories with British
-heroes subtly preached the superiority of the ‘orang puteh’ in every imaginable
-situation… Now with snobbery returning to Singapore, some Europeans here…
-are daily becoming more ‘snooty’… Let them be more human, more friendly,
-and forget their colour, and they will find Asians more friendly to them.”[^11]</p>
-<p>As much as Ooi was critical of Western attitudes and some Westernised
-Asians, he expressed in the <em>Straits Echo</em> in 1972 that he did not
-support erasures of place names and other markers of Malaysia’s colonial
-heritage. He wrote: “New histories are being written in [Asia and Africa
-to] rub out former colonial influences. Histories can be written to suit
-the new people in power, but previous historical influences are embedded
-deep in the subconscious minds of the people. Their cultures, religions,
-languages and social customs will contain earmarks of the waves of civilisations
-that had washed over them in the course of centuries.”[^12]</p>
-<p><strong>Curtailing Press Freedom</strong>
-<br>
-</p>
-<p>Ooi was the consummate newspaperman and believed that freedom of the press
+In 1948, in the <i>Malaya Tribune</i>, Ooi called Westerners out for their ignorance of Malaya, their sense of superiority, snobbery and racial prejudice, which led to discrimination of locals:
+
+“The British have been administering Malaya for over a century, yet the people in Britain know very little about Malaya… The stories with British heroes subtly preached the superiority of the ‘orang puteh’ in every imaginable situation… Now with snobbery returning to Singapore, some Europeans here…are daily becoming more ‘snooty’… Let them be more human, more friendly, and forget their colour, and they will find Asians more friendly to them.”[^11]
+
+As much as Ooi was critical of Western attitudes and some Westernised Asians, he expressed in the <em>Straits Echo</em> in 1972 that he did not support erasures of place names and other markers of Malaysia’s colonial heritage. He wrote: “New histories are being written in [Asia and Africa to] rub out former colonial influences. Histories can be written to suit the new people in power, but previous historical influences are embedded deep in the subconscious minds of the people. Their cultures, religions, languages and social customs will contain earmarks of the waves of civilisations that had washed over them in the course of centuries.”[^12]
+
+<b>Curtailing Press Freedom</b><br>
+Ooi was the consummate newspaperman and believed that freedom of the press
 was essential.[^13] He had spent most of his journalistic career in Singapore
-and saw the independence of Singapore’s newspapers being eroded.</p>
+and saw the independence of Singapore’s newspapers being eroded.<p></p>
 <p>He revealed in an interview that during his two-year tenure at the <em>Eastern Sun</em> between
 1966 and 1968, he had experienced run-ins with then Singapore Prime Minister
 Lee Kuan Yew. Lee had “on several occasions, in front of all the other
