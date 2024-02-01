@@ -180,7 +180,7 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 
 Writing a biography can be tedious, painstaking work. But the effort can also be uplifting and inspirational, as&nbsp;<b>Irene Ng</b>&nbsp;discovered when she began researching the life of S. Rajaratnam.
 
-<img src="/images/Vol-15-issue-1/researching-s-rajaratnam/02a_rajaratnam.jpg" style="width:80%;">
+<img src="/images/Vol-15-issue-1/researching-s-rajaratnam/02a_rajaratnam.jpg" style="width:80%; height:75%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/fnr-untold-story/">Farquhar &amp; Raffles: The Untold Story</a>
