@@ -168,6 +168,13 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/pioneers-of-archives/">Pioneers of the Archives</a>
+
+<b>Fiona Tan</b>&nbsp;tells us about the people who laid the bedrock of the National Archives of Singapore, along with details of how the institution has evolved since its inception in 1938.
+
+<img src="/images/Vol-15-issue-1/pioneers-of-the-archives/01a_pioneers.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/fnr-untold-story/">Farquhar &amp; Raffles: The Untold Story</a>
 
  The founding of Singapore in 1819 and its early development have traditionally been attributed to Sir Stamford Raffles.&nbsp;**Nadia Wright**&nbsp;claims that his role has been exaggerated at the expense of another.
