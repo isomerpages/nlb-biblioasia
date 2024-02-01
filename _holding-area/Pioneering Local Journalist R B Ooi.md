@@ -6,23 +6,10 @@ description: RB Ooi
 ---
 <h4>As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing to fore issues at the heart of the nation.</h4>
 <p>By Linda Lim</p>
-<p>Being in a war zone is always dangerous, even for non-combatants, as R.B.
-Ooi, the former editor for the Singapore Standard and the Eastern Sun could
+<p>Being in a war zone is always dangerous, even for non-combatants, as R.B. Ooi, the former editor for the Singapore Standard and the Eastern Sun could
 attest.</p>
-<p>During the Malayan Emergency (1948–60), Ooi worked as a press officer
-to General Gerald Templer, the British High Commissioner for Malaya, who
-had been tasked to deal with the communist guerillas. In a 1969 letter
-to his daughter, Irene Lim, Ooi wrote that he had spent three years “covering
-the jungle war for the government, local and foreign press…” That meant
-spending time with British troops in the jungle. And while they tried not
-to draw attention, apparently, the communists knew they were there. Ooi
-further wrote that a surrendered Malay communist had come up to him and
-asked what they had been doing in the jungle near Bentong, Pahang, with
-a Gurkha patrol. “He and his men were waiting to ambush the Gurkhas when
-he saw us following the Gurkhas in thick jungle with film camera and still
-camera. He thought we were from Hollywood, so did not shoot…”[^1]</p>
-<p>Ooi also had to worry about being shot by the British as well. “Once I
-was sent to the jungle to study the morale of British troops. Those young
+<p>During the Malayan Emergency (1948–60), Ooi worked as a press officer to General Gerald Templer, the British High Commissioner for Malaya, who had been tasked to deal with the communist guerillas. In a 1969 letter to his daughter, Irene Lim, Ooi wrote that he had spent three years “covering the jungle war for the government, local and foreign press…” That meant spending time with British troops in the jungle. And while they tried not to draw attention, apparently, the communists knew they were there. Ooi further wrote that a surrendered Malay communist had come up to him and asked what they had been doing in the jungle near Bentong, Pahang, with a Gurkha patrol. “He and his men were waiting to ambush the Gurkhas when he saw us following the Gurkhas in thick jungle with film camera and still camera. He thought we were from Hollywood, so did not shoot…”[^1]</p>
+<p>Ooi also had to worry about being shot by the British as well. “Once I was sent to the jungle to study the morale of British troops. Those young
 soldiers were scared stiff when they entered a rubber estate. One of them
 tripped over a wire and set off an alarm in a hill. The soldiers ran up
 the hill firing like mad and so we had to run with them or else we might
