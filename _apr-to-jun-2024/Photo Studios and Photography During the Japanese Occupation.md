@@ -1,5 +1,5 @@
 ---
-title: Photo Studios During the Japanese Occupation
+title: Photo Studios and Photography During the Japanese Occupation
 permalink: /vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/
 variant: markdown
 description: During the Japanese Occupation, local photographers worked under
