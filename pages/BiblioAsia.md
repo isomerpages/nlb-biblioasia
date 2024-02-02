@@ -11,12 +11,13 @@ forgotten, all fascinating. Does Singapore have a stone age? What’s happened
 to the murals at the old Paya Lebar airport? Who were the local tennis
 greats? Find out in this history-focused podcast by the National Library
 of Singapore.</p>
-<p>Listen to All Episodes: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
+<p></p>
+<p>Listen to all episodes: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
 <a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8" rel="noopener noreferrer nofollow" target="_blank">Google Podcasts</a>,
 <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/616799db4d9b61001398f79b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BiblioAsia+" src="/images/Podcast/biblioasia_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Podcast About Singapore History</div><div class="isomer-card-description">Available on Spotify, Apple Podcasts and Wherever You Listen</div><div class="isomer-card-link">Subscribe to get notified when the next episode drops</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/616799db4d9b61001398f79b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BiblioAsia+" src="/images/Podcast/biblioasia_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Podcast About Singapore History</div><div class="isomer-card-description">Available on Spotify, Apple Podcasts and wherever you listen.</div><div class="isomer-card-link">Subscribe to get notified when the next episode drops</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -46,7 +47,7 @@ this episode of BiblioAsia+, Yew Chong explains how he created this work
 and reveals what he would love to paint but has not.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Great Reclamation: A Singaporean Historical Epic" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p>
 <br>
