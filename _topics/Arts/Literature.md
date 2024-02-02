@@ -67,3 +67,10 @@ No great work of literature is completed in just one draft. In an age where writ
 
 <img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers1.JPG" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/violence-writings/">Don’t Mention the Corpses: The Erasure of Violence in Colonial Writings on Southeast Asia</a>
+
+History may be written by the victors, but what they conveniently leave out can be more telling.&nbsp;<b>Farish Noor</b>&nbsp;reminds us of the violent side of colonial conquest.
+
+<img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG">
+<hr>
