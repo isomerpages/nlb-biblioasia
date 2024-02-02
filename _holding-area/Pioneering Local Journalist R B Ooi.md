@@ -122,9 +122,7 @@ As a teenager in Singapore, I wanted to be a writer and corresponded with my gra
 I think he would have been pleased to learn of my own inclinations toward writing popular commentaries on current affairs, which were published in newspapers like the <i>Straits Times</i> when I was doing my PhD. These include pieces challenging the status quo (in my case, primarily on economic policy, but also on race, inequality and East-West tensions), which could be considered the kind of “political writing” he had done.
 
 In my retirement, I co-founded and co-edit an academic blog promoting scholarship “of, for and by Singapore”, which also advocates for academic freedom.[^18] In Singapore in 2017, I gave a keynote speech at my alma mater, Methodist Girls’ School, closely tracking my grandfather’s own arguments for multiculturalism, but for the 21st century. This was years before I
-read his work.[^19] To paraphrase a popular saying, the durian does not fall far from the tree.
-
-
+read his work.[^19] To paraphrase a popular saying, the durian does not fall far from the tree.<br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:95%">
 <b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br>
