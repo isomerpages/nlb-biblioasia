@@ -10,15 +10,11 @@ variant: tiptap
 forgotten, all fascinating. Does Singapore have a stone age? What’s happened
 to the murals at the old Paya Lebar airport? Who were the local tennis
 greats? Find out in this history-focused podcast by the National Library
-of Singapore.</p>
+of Singapore on <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
+<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8" rel="noopener noreferrer nofollow" target="_blank">Google Podcasts</a> and
+<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
 <p></p>
-<p>Listen to all episodes: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
-<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8" rel="noopener noreferrer nofollow" target="_blank">Google Podcasts</a>,
-<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>
-</p>
-<p></p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/616799db4d9b61001398f79b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BiblioAsia+" src="/images/Podcast/biblioasia_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Podcast About Singapore History</div><div class="isomer-card-description">Available on Spotify, Apple Podcasts and wherever you listen.</div><div class="isomer-card-link">Subscribe to get notified when the next episode drops</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/616799db4d9b61001398f79b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BiblioAsia+" src="/images/Podcast/biblioasia_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Podcast About Singapore History by the National Library of Singapore</div><div class="isomer-card-description">Available on Spotify, Apple Podcasts and wherever you listen.</div><div class="isomer-card-link">Subscribe to get notified when the next episode drops</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
