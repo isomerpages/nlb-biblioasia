@@ -56,11 +56,11 @@ grandmother Saw Kim Lian (centre) in Bukit Mertajam, c.1923. <i>Courtesy of Iren
 On 15 September 1925, Ooi spotted Edna Kung Gek Neo (1910–2003) on the train. Struck by her beauty, he noted down her name and address from her luggage tag and wrote to her father proposing marriage. Finding out that the Ooi family were educated wealthy landowners, Edna’s father, Kung Tian Siong (1876–1958), a Singapore businessman and direct descendant of Confucius,[^5]
 agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at the Wesley Church in Singapore on 5 December 1925, when he was 19 and Edna 15.
 
-<img style="width: 80%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/02.png"><br>
+<img style="width: 80%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/02.png">
+<div style="background-color:white;">R.B. Ooi and Edna Kung’s wedding at Wesley Church, 1925.<i> Courtesy of Irene Lim.</i></div><br>
 
 <img style="width: 80%; height: 70%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/03.png">
-
-<div style="background-color:white;">(Top) R.B. Ooi and Edna Kung’s wedding at Wesley Church, 1925. (Bottom) Ooi and Kung also had a traditional Chinese wedding at the Ooi family home in Bukit Mertajam, 1925.<i> Courtesy of Irene Lim.</i></div>
+<div style="background-color:white;">Ooi and Kung also had a traditional Chinese wedding at the Ooi family home in Bukit Mertajam, 1925.<i> Courtesy of Irene Lim.</i></div>
 
 To fulfil his mother’s wishes, Ooi and Edna had a second wedding in Bukit Mertajam according to Chinese rites. They had four children: Irene (born in 1927 in Kuala Lumpur), and Violet (1932), Eric (1934) and Sylvia (1936) who were born in Singapore following the family’s move there. Unfortunately, the marriage broke down. My grandmother, Edna, remarried towards the end of the war while my grandfather did not remarry.
 
@@ -124,7 +124,7 @@ I think he would have been pleased to learn of my own inclinations toward writin
 In my retirement, I co-founded and co-edit an academic blog promoting scholarship “of, for and by Singapore”, which also advocates for academic freedom.[^18] In Singapore in 2017, I gave a keynote speech at my alma mater, Methodist Girls’ School, closely tracking my grandfather’s own arguments for multiculturalism, but for the 21st century. This was years before I
 read his work.[^19] To paraphrase a popular saying, the durian does not fall far from the tree.<br>
 
-<div style="background-color: #fff6ba; text-align:left; font-size:95%">
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:95%">
 <b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br><br>
 
 Donated in 2023 by Mrs Irene Lim, daughter of R.B. Ooi, items in the collection include typescripts of Ooi’s articles, which cover a range of topics besides the economic, social and political situation in the region. <br><br>	
