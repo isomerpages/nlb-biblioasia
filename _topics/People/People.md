@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2024/2/singapore-local-journalist-rb-ooi-newspaper/">Pioneering Local Journalist R.B. Ooi</a>
+
+As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing to fore issues at the heart of the nation.
+
+<img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/05.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/">Joseph Conrad’s Singapore</a>
 Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as _Lord Jim_, _The End of the Tether_ and _The Shadow-Line_.  
 
