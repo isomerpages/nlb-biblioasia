@@ -14,7 +14,8 @@ of Singapore.</p>
 <p></p>
 <p>Listen to all episodes: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
 <a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8" rel="noopener noreferrer nofollow" target="_blank">Google Podcasts</a>,
-<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
+<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>
+</p>
 <p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/616799db4d9b61001398f79b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BiblioAsia+" src="/images/Podcast/biblioasia_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Podcast About Singapore History</div><div class="isomer-card-description">Available on Spotify, Apple Podcasts and wherever you listen.</div><div class="isomer-card-link">Subscribe to get notified when the next episode drops</div></div></a>
@@ -63,6 +64,20 @@ the waters around Seletar island, says writer and educator Ilya Katrinnada.</div
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/kranji-war-cemetery/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lest We Forget: Kranji War Cemetery" src="/images/Podcast/Kranji_war.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lest We Forget: Kranji War Cemetery</div><div class="isomer-card-description">Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Chin Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/recording-industry/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Recording Industry in Singapore, 1903–1985" src="/images/Podcast/Ross.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">The Recording Industry in Singapore, 1903–1985</div>
+<div class="isomer-card-description">The Crescendos didn’t just rock the airways in Singapore in the 1960s.
+They changed the entire music recording industry, says sound archivist
+Ross Laird.</div>
+<div class="isomer-card-link">Listen to the episode</div>
+</div>
+</a>
 </div>
 <p>
 <br>
