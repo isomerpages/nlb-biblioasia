@@ -118,7 +118,7 @@ during the stone age? Maybe. Or maybe not.</div>
 in the city. Toffa Abdul Wahed sniffs out the condiment’s long history.</div>
 <div class="isomer-card-link">Lisen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="The Forgotten Murals of Paya Lebar Airport" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Forgotten Murals of Paya Lebar Airport" src="/images/Podcast/dhalia.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Forgotten Murals of Paya Lebar Airport</div><div class="isomer-card-description">The enormous murals at the old Paya Lebar Airport were iconic landmarks for travellers. But after the air force took over the airport, the murals vanished.</div><div class="isomer-card-link">https://biblioasia.nlb.gov.sg/podcast/murals/</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/murals/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Forgotten Murals of Paya Lebar Airport" src="/images/Podcast/dhalia.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Forgotten Murals of Paya Lebar Airport</div><div class="isomer-card-description">The enormous murals at the old Paya Lebar Airport were iconic landmarks for travellers. But after the air force took over the airport, the murals vanished.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/taoist-folk-goddesses-singapore/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -133,9 +133,7 @@ goddess. Writer Ng Yi-Sheng talks about Maiden Lim and two other local
 Taoist deities in this intriguing podcast.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/grandfather-romusha-thai-burma-railway/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="My Grandfather Was a Romusha" src="/images/Podcast/romusha_podcast.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">My Grandfather Was a Romusha</div><div class="isomer-card-description">After Kosman Hassan volunteered to take his uncle’s place to work on the infamous Death Railway, no one heard from Kosman for three years. But his family never gave up hope.
-
-</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/grandfather-romusha-thai-burma-railway/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="My Grandfather Was a Romusha" src="/images/Podcast/romusha_podcast.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">My Grandfather Was a Romusha</div><div class="isomer-card-description">After Kosman Hassan volunteered to take his uncle’s place to work on the infamous Death Railway, no one heard from Kosman for three years. But his family never gave up hope.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 </div>
 <p>
 <br>
