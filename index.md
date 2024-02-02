@@ -808,4 +808,14 @@ sections:
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
       image: /images/Vol 19 Issue 1/Tennis/image1-edit.png
       alt: Tennis
+  - infopic:
+      title: Pioneering Local Journalist R.B. Ooi
+      subtitle: People
+      id: infopic
+      description: As a journalist, R.B. Ooi always had his finger on the pulse of
+        Malaya, bringing to fore issues at the heart of the nation.
+      button: A consummate newspaperman
+      url: /people/2024/2/singapore-local-journalist-rb-ooi-newspaper/
+      image: /images/Online Only Articles/Pioneering Journalist RB Ooi/05.png
+      alt: Image alt text
 ---
