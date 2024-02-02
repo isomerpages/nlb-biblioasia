@@ -127,9 +127,9 @@ read his work.[^19] To paraphrase a popular saying, the durian does not fall far
 <div style="background-color: #fff6ba; text-align:left; font-size:95%">
 <b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br><br>
 
-Donated in 2023 by Mrs Irene Lim, daughter of R.B. Ooi, items in the collection include typescripts of Ooi’s articles, which cover a range of topics besides the economic, social and political situation in the region. 
+Donated in 2023 by Mrs Irene Lim, daughter of R.B. Ooi, items in the collection include typescripts of Ooi’s articles, which cover a range of topics besides the economic, social and political situation in the region. <br>
 	
-Other highlights are his articles for the Foreign News Service such as “The New Nation of Malaysia” (c.1962); an unpublished article, “The English Press of Malaysia and Singapore” (1971); scripts for Radio Malaysia, including one for “Window on the World” about the death of former Indonesian president Sukarno (1970); and personal letters and photographs. 
+Other highlights are his articles for the Foreign News Service such as “The New Nation of Malaysia” (c.1962); an unpublished article, “The English Press of Malaysia and Singapore” (1971); scripts for Radio Malaysia, including one for “Window on the World” about the death of former Indonesian president Sukarno (1970); and personal letters and photographs.<br>
 	
 Materials from the collection can be viewed at Level 11 of the Lee Kong Chian Reference Library via online reservation from the third quarter of 2024.<br></div>
 
