@@ -43,9 +43,9 @@ Lumpur, Ipoh and Phnom Penh, while his canvases have been shown in art
 galleries.</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p>Woon Tai Ho, <em>The Art of Joy: The Journey of Yip Yew Chong </em>(Singapore:
+<p>Woon Tai Ho, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003267" rel="noopener noreferrer nofollow" target="_blank">The Art of Joy: The Journey of Yip Yew Chong</a> </em>(Singapore:
 World Scientific Publishing, 2023).</p>
-<p>Yip Yew Chong, <em>I Paint my Singapore: Familiar Scenes of Home</em> (Singapore:
+<p>Yip Yew Chong,<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300013604" rel="noopener noreferrer nofollow" target="_blank">I Paint my Singapore: Familiar Scenes of Home</a> </em>(Singapore:
 Landmark Books, 2023).</p>
 <p></p>
 <h4><strong>Credits</strong></h4>
