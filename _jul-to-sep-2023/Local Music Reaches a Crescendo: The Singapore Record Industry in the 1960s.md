@@ -4,6 +4,7 @@ permalink: /vol-19/issue-2/jul-sep-2023/singapore-record-industry-1960s/
 description: In this extract from the book From Keroncong to Xinyao, the author
   looks at why the record industry in Singapore took off in the 1960s.
 image: /images/Vol 19 Issue 2/SG Record Industry/image1.png
+variant: markdown
 ---
 #### In this extract from the book _From Keroncong to Xinyao_, the author looks at why the record industry in Singapore took off in the 1960s.
 By Ross Laird!
@@ -19,7 +20,7 @@ Most Singapore recordings in the late 1950s and early 1960s were either traditio
 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
 <b>Listen to the podcast episode<br>  "<a href="https://biblioasia.nlb.gov.sg/podcast/recording-industry/">The Recording Industry in Singapore, 1903-1985</a>"</b><br> 
-<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
 
 
 #### **New Competitive Forces Emerge**
