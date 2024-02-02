@@ -100,9 +100,9 @@ Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chines
 
 [^2]: Lee Xiu 李秀, “Bai nian jingwu ti yu zai malaixiya de fa zhan ji ying xiang yan jiu” 百年精武体育在马来西亚的发展及影响研究 \[The study of the development and influence of century-old Chin Woo in Malaysia\], _Journal of Huangshan University_ 13, no. 5 (October 2011): 96. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^3]: Singapore Chin Woo (Athletic) Association, [新加坡精武体育会四十五周年会庆纪念刊 _1921–1966 = Singapore Chin Woo (Athletic) Association, 45th Anniversary Celebration Souvenir_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200065664) (Singapore: Singapore Chin Woo \[Athletic\] Association, 1966), 189. (From National Library, Singapore, call no. RCLOS Chinese 796.8159 SIN)
+[^3]: Singapore Chin Woo (Athletic) Association, [新加坡精武体育会四十五周年会庆纪念刊 _1921–1966 = Singapore Chin Woo (Athletic) Association, 45th Anniversary Celebration Souvenir_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84542905) (Singapore: Singapore Chin Woo \[Athletic\] Association, 1966), 189. (From National Library, Singapore, call no. RCLOS Chinese 796.8159 SIN)
 
-[^4]: Singapore Chin Woo (Athletic) Association, [新加坡精武体育会四十五周年会庆纪念刊](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200065664), 80.
+[^4]: Singapore Chin Woo (Athletic) Association, [新加坡精武体育会四十五周年会庆纪念刊](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84542905), 80.
 
 [^5]: “Our History,” Singapore Chin Woo (Athletic) Association, last accessed 8 January 2024, https://sgchinwoo.com/our-history; [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19220812-1.2.17), _Singapore Free Press and Mercantile Advertiser (1884-1942)_, 12 August 1922, 6. (From NewspaperSG)
 
