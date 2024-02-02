@@ -4,6 +4,7 @@ permalink: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
 description: Two remarkable athletes served up a storm to make Malaya a
   tennis  power to contend with during the interwar years.
 image: /images/Vol 19 Issue 1/Tennis/image2.png
+variant: markdown
 ---
 #### Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years.
 By Abhishek Mehrotra
@@ -37,7 +38,7 @@ However, as the local Straits Chinese community grew larger, more prosperous and
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
 <b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/tennis/">Malaya's Prewar Tennis Greats</a>"</b>
 <br> 
-<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
 
 The duo, taking their sporting cues from the West rather than the East, exhorted the local Chinese to become more physically active through their new quarterly journal – the *Straits Chinese Magazine* (the two men were the editors). An article titled “Physical Religion” in the inaugural issue in March 1897 stressed the need for physical as well as mental fitness. 
 
