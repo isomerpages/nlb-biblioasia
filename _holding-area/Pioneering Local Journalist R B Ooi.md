@@ -38,7 +38,7 @@ From 1954–58, Ooi was the editor-in-chief of the <i>Singapore Standard</i>. He
 
 After his stint at the <i>Eastern Sun</i>, Ooi became a freelance writer (penning a regular column titled “Impromptu” for the <i>Straits Echo</i>) and broadcaster (hosting a monthly current affairs radio talk show called “Window on the World”). In 1968, he received the Ahli Mangku Negara (Defender of the Realm) decoration from the Yang di-Pertuan Agong of Malaysia. Ooi’s last column was published in the <i>Straits Echo</i> shortly after his death in Kuala Lumpur in December 1972.
 
-<img style="width: 60%; height: 60%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/07.png">
+<img style="width: 50%; height: 50%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/07.png">
 <div style="background-color:white;">R.B. Ooi being conferred the Ahli Mangku Negara by the Yang di-Pertuan Agong of Malaysia, 1968. <i>Courtesy of Irene Lim.</i></div>
 
 #### **Early Life**
