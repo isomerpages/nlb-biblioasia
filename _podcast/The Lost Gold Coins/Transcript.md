@@ -260,11 +260,11 @@ gold coins?</p>
 So it basically performs the same function as the coins, but it’s a little
 harder to study because obviously there are fewer written records about
 it. But they use these cowrie shells during the slave trade, and they use
-them all up to like the mid-19th century. And so in Singapore there’s some
-remnants of it. You can see like it’s often mentioned, cowrie shells, in
-trading reports. But to what extent and you know how big the trade was,
-that’s a question to be answered. So that’s something that I’d be interested
-in studying. Yeah.</p>
+them all up to like the mid-19th century. And so in Singapore there’re
+some remnants of it. You can see it’s often mentioned, cowrie shells, in
+trading reports. But to what extent and how big the trade was, that’s a
+question to be answered. So that’s something that I’d be interested in
+studying. Yeah.</p>
 <p></p>
 <p><strong>Jimmy</strong> 
 <br>What is the cowrie shell? I mean, is it a seashell?</p>
@@ -299,7 +299,7 @@ moment?</p>
 <p><strong>Shu</strong> 
 <br>The Tomb Raider game that was rebooted. I think it was maybe 2013. So
 maybe it’s an older game. But I saw there was a Southeast Asian plot inside
-as one of the artifacts there. I was like, “Oh, yes, they thought of us.”
+as one of the artefacts there. I was like, “Oh, yes, they thought of us.”
 Ban Chang pottery. This is the moment for us to shine, that kind of thing.
 So that was my favourite moment, but I’m not sure if others would feel
 the same.</p>
