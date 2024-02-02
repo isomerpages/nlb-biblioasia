@@ -19,7 +19,7 @@ Ooi also had to worry about being shot by the British as well. “Once I was sen
 R.B. Ooi, born Ooi Chor Hooi (1905–72), was my maternal grandfather. He was one of the earliest local Malayan journalists writing in English and had worked for newspapers from the <i>Straits Echo</i> to the <i>Malayan Times</i>. In 2023, Irene Lim – his daughter and my mother – donated his personal papers and photos to the National Library of Singapore. These are now held in the R.B. Ooi and Edna Kung Collection. His writings give us a window into discourses – such as multiculturalism and the Malayan identity – that
 publicly preoccupied the English-educated in the colonial and immediate post-colonial periods in Singapore and Malaysia.
 
-<img style="width: 70%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/09.png">
+<img style="width: 60%; height: 50%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/09.png">
 <div style="background-color:white;">A young R.B. Ooi, date unknown.<i> Courtesy of Irene Lim.</i></div>
 
 #### **Career in Journalism**
@@ -38,7 +38,7 @@ From 1954–58, Ooi was the editor-in-chief of the <i>Singapore Standard</i>. He
 
 After his stint at the <i>Eastern Sun</i>, Ooi became a freelance writer (penning a regular column titled “Impromptu” for the <i>Straits Echo</i>) and broadcaster (hosting a monthly current affairs radio talk show called “Window on the World”). In 1968, he received the Ahli Mangku Negara (Defender of the Realm) decoration from the Yang di-Pertuan Agong of Malaysia. Ooi’s last column was published in the <i>Straits Echo</i> shortly after his death in Kuala Lumpur in December 1972.
 
-<img style="width: 80%; height: 80%;" height="80%;" width="80%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/07.png">
+<img style="width: 60%; height: 60%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/07.png">
 <div style="background-color:white;">R.B. Ooi being conferred the Ahli Mangku Negara by the Yang di-Pertuan Agong of Malaysia, 1968. <i>Courtesy of Irene Lim.</i></div>
 
 #### **Early Life**
@@ -50,7 +50,7 @@ Ooi was born and raised in Bukit Mertajam on a coconut plantation “bigger than
 grandmother Saw Kim Lian (centre) in Bukit Mertajam, c.1923. <i>Courtesy of Irene Lim.</i></div>
 
 
-<img style="width: 80%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/11.png">
+<img style="width: 65%; height: 55%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/11.png">
 <div style="background-color:white;">R.B. Ooi with his Straits Chinese friends, date unknown.<i> Courtesy of Irene Lim.</i></div>
 
 On 15 September 1925, Ooi spotted Edna Kung Gek Neo (1910–2003) on the train. Struck by her beauty, he noted down her name and address from her luggage tag and wrote to her father proposing marriage. Finding out that the Ooi family were educated wealthy landowners, Edna’s father, Kung Tian Siong (1876–1958), a Singapore businessman and direct descendant of Confucius,[^5]
@@ -59,7 +59,7 @@ agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at th
 <img style="width: 70%; height: 65%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/02.png">
 <div style="background-color:white;">R.B. Ooi and Edna Kung’s wedding at Wesley Church, 1925.<i> Courtesy of Irene Lim.</i></div>
 
-<img style="width: 80%; height: 65%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/03.png">
+<img style="width: 60%; height: 50%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/03.png">
 <div style="background-color:white;">Ooi and Kung also had a traditional Chinese wedding at the Ooi family home in Bukit Mertajam, 1925.<i> Courtesy of Irene Lim.</i></div>
 
 To fulfil his mother’s wishes, Ooi and Edna had a second wedding in Bukit Mertajam according to Chinese rites. They had four children: Irene (born in 1927 in Kuala Lumpur), and Violet (1932), Eric (1934) and Sylvia (1936) who were born in Singapore following the family’s move there. Unfortunately, the marriage broke down. My grandmother, Edna, remarried towards the end of the war while my grandfather did not remarry.
