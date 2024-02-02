@@ -151,6 +151,12 @@ This cafe once loomed large in Singapore’s dining and social scene. *Vandana A
 <img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-title.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/shipyards-keppel-sembawang">The Story of Two Shipyards: Keppel &amp; Sembawang</a>
+Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry.&nbsp;Wee Beng Geok&nbsp;traces the colonial origins of these two companies.
+
+<img src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship1.JPG" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/building-history/">Building History: From Stamford Road to Canning Rise</a>
 <b>Abigail Huang</b>&nbsp;tracks the movement of the National Archives of Singapore, from its early days in the Raffles Museum and Library on Stamford Road to an old school building at the foot of Fort Canning.
 
