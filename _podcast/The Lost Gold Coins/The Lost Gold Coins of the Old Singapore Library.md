@@ -10,7 +10,9 @@ Keppel Harbour. Unfortunately, the Malay coins vanished before they could
 be studied carefully. The Jawi inscriptions on the coins were recorded,
 though they didn’t make sense. More than 180 years later, Foo Shu Tieng
 tries to solve the case.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FSfswvJFm8w?si=ezooPfIIqaPKZWWz"></iframe>
+</div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on <a href="https://open.spotify.com/episode/5GYGnnrXcLX9WEae1XvILj" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
 <a href="https://podcasts.apple.com/us/podcast/the-true-story-behind-ubins-german-girl-shrine/id1688142751?i=1000642186612" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MTBiYjgzYWMtOWVlOC00ZWQ3LTkxNjktMWMyZWM1ODViMzk2?sa=X&amp;ved=0CAUQkfYCahcKEwjQo-WZ6uiDAxUAAAAAHQAAAAAQCg" rel="noopener noreferrer nofollow" target="_blank">Google Podcasts</a>,
