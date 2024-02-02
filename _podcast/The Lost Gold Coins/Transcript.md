@@ -101,7 +101,7 @@ the museum world?</p>
 <p><strong>Shu</strong> 
 <br>Actually, yes. It’s actually a fairly common thing. I don’t know if you’ve
 read the newspaper articles recently, but I think in August [2023], the
-British Museum alone mentioned more than 1300 artifacts stolen recently.
+British Museum alone mentioned more than 1300 artefacts stolen recently.
 It’s fairly common, often surprisingly related to the either crime syndicates,
 or sometimes terrorist funding. So these are, you know, issues that plague
 us all. But if you want to know a good book about this particular issue,
@@ -220,7 +220,7 @@ Anything else?</p>
 <p></p>
 <p><strong>Shu</strong> 
 <br>Primarily Northern Song coins. But the earliest coins that we found actually
-date from the Tang Dynasty. With the discovery of the shipwreck artifacts,
+date from the Tang Dynasty. With the discovery of the shipwreck artefacts,
 it’s possible that there are more. So I haven’t looked at all the materials
 yet, but from the ones that I’ve seen from the land-based sites, they’re
 mostly from the Northern Song period. But Tang Dynasty ones, I mean, they
