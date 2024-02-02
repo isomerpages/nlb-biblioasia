@@ -13,7 +13,7 @@ of the National Library of Singapore. In today’s episode, we’re going to
 dive into the <a href="https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/" rel="noopener noreferrer nofollow" target="_blank">mystery of two ancient gold coins</a> that
 were discovered in Singapore in the middle of the 19th century, and that
 later went missing. With me today is Foo Shu Tieng, a librarian of the
-National Library, who is also an archeologist. She’s written about these
+National Library, who is also an archaeologist. She’s written about these
 coins in BiblioAsia. And she’s going to help us to get to the bottom of
 this mystery. Welcome back to BiblioAsio+, Shu. How are you?</p>
 <p></p>
@@ -251,9 +251,9 @@ to make that clear, it’s a few million years apart.
 <br>
 </p>
 <p><strong>Jimmy</strong> 
-<br>So yeah, okay. It’s an archeological, not paleontological. What’s an archeological
-mystery that you would like to solve, you know, besides this, all these
-gold coins?</p>
+<br>So yeah, okay. It’s an archaeological, not paleontological. What’s an
+archaeological mystery that you would like to solve, you know, besides
+this, all these gold coins?</p>
 <p></p>
 <p><strong>Shu</strong> 
 <br>Okay, so other than coins, another ancient trading item was cowrie shells.
@@ -293,7 +293,7 @@ But whether they extend it all the way south to Johore or even Singapore,
 that’s another question.</p>
 <p></p>
 <p><strong>Jimmy</strong> 
-<br>What is your favourite archeological movie or archeological pop culture
+<br>What is your favourite archaeological movie or archaeological pop culture
 moment?</p>
 <p></p>
 <p><strong>Shu</strong> 
@@ -305,10 +305,10 @@ So that was my favourite moment, but I’m not sure if others would feel
 the same.</p>
 <p></p>
 <p><strong>Jimmy</strong> 
-<br>Complete the sentence: Archeology is....</p>
+<br>Complete the sentence: Archaeology is....</p>
 <p></p>
 <p><strong>Shu</strong> 
-<br>Archeology is life.
+<br>Archaeology is life.
 <br>
 </p>
 <p><strong>Jimmy</strong> 
@@ -324,7 +324,7 @@ basically.</p>
 <br>And what are you working on now?</p>
 <p></p>
 <p><strong>Shu</strong> 
-<br>You’ll be surprised, but it’s nothing to do with archeology. I’m working
+<br>You’ll be surprised, but it’s nothing to do with archaeology. I’m working
 on a couple of encyclopedia articles on the paramedic and ambulance.</p>
 <p></p>
 <p><strong>Jimmy</strong> 
