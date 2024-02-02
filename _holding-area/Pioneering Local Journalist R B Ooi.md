@@ -155,13 +155,13 @@ Materials from the collection can be viewed at Level 11 of the Lee Kong Chian Re
 
 [^9]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540605-1.2.67">A Drop of Ink</a>,” <i>Singapore Standard,</i> 5 June 1954, 6. (From NewspaperSG). This article is mainly a scathing review of U.S. Supreme Court Justice (later Chief Justice) William O. Douglas’ 1953 book, <i><a href="https://catalogue.nlb.gov.sg/search/card?recordId=1520719">North from Malaya</a>.</i> Douglas wrote the book after a whirlwind British-escorted tour of Malaya and was full of hilarious errors. See William O. Douglas, <i><a href="https://catalogue.nlb.gov.sg/search/card?recordId=1520719">North from Malaya</a></i> (Garden City, N.Y: Doubleday, 1953). (From National Library, Singapore call no. RCLOS 959 DOU-[RFL])
 
-[^10]: Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540602-1.2.81">A Drop of Ink</a>.”
+[^10]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540602-1.2.81">A Drop of Ink</a>,” <i>Singapore Standard</i>, 2 June 1954, 6. (From NewspaperSG)
 
 [^11]: “Snobbery Again in Malaya,” <em>Malaya Tribune,</em> 8 August 1948. (Microfilm NL2147)
 
 [^12]: “Can History Be Scrubbed Off?” <em>Straits Echo,</em> 7 December 1972. (Microfilm NL7252)
 
-[^13]: Ooi first wrote about this with respect to Emergency regulations. See Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540602-1.2.81">A Drop of Ink</a>.”
+[^13]: Ooi first wrote about this with respect to Emergency regulations. See R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540521-1.2.99">A Drop of Ink</a>,” <i>Singapore Standard</i>, 21 May 1954, 6. (From NewspaperSG)
 
 [^14]: Interview cited in John A. Lent, “Protecting the People,” Index on Censorship 4, no. 3 (1975): 8, https://www.tandfonline.com/doi/abs/10.1080/03064227508532443.
 
