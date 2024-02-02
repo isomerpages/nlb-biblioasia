@@ -15,8 +15,8 @@ tries to solve the case.</p>
 </div>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on <a href="https://open.spotify.com/episode/5GYGnnrXcLX9WEae1XvILj" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
-<a href="https://podcasts.apple.com/us/podcast/the-true-story-behind-ubins-german-girl-shrine/id1688142751?i=1000642186612" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MTBiYjgzYWMtOWVlOC00ZWQ3LTkxNjktMWMyZWM1ODViMzk2?sa=X&amp;ved=0CAUQkfYCahcKEwjQo-WZ6uiDAxUAAAAAHQAAAAAQCg" rel="noopener noreferrer nofollow" target="_blank">Google Podcasts</a>,
+<p>Available on <a href="https://open.spotify.com/episode/7ytNibGncmYyTYbVJ5QiHw" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
+<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/YmRiMDAxYmUtYjIzOC00YzZmLTlkZjItNzJmMDIyYjY5NzNj?sa=X&amp;ved=0CAUQkfYCahcKEwjwpLrFkYyEAxUAAAAAHQAAAAAQCg" rel="noopener noreferrer nofollow" target="_blank">Google Podcasts</a>,
 <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-True-Story-Behind-Ubin%E2%80%99s-German-Girl-Shrine-2295936" rel="noopener noreferrer nofollow" target="_blank">melisten</a>
 </p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a> to
