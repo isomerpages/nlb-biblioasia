@@ -5,6 +5,7 @@ description: During World War II, forced civilian labourers known as rōmushas
   were used by the Imperial Japanese Army for hard labour. They helped to build
   the Death Railway.
 image: /images/Vol 18 Issue 3/Romusha/3_Bapak_50s copy.jpg
+variant: markdown
 ---
 #### During World War II, forced civilian labourers known as *rōmusha* were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 By Shirlene Noordin
@@ -56,7 +57,7 @@ I didn’t think to ask more questions when my grandfather was alive. I was too 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
 <b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Rōmusha</a>"</b>
 <br> 
-<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
 
 #### **Early Life**
 

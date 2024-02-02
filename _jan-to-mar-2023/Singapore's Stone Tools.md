@@ -4,6 +4,7 @@ permalink: /vol-18/issue-4/jan-mar-2023/stone-tools-singapore/
 description: Stone tools have been found in and around Singapore since the late
   19th century. Much about them remains a mystery.
 image: /images/Vol 18 Issue 4/Stone Tools/image1.png
+variant: markdown
 ---
 #### Stone tools have been found in and around Singapore since the late 19th century. Much about them remains a mystery.
 By Foo Shu Tieng
@@ -35,7 +36,7 @@ There is also evidence to show that rocks were used by Orang Asli groups, such a
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
 <b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/stone-tools/">Stone Age in Singapore</a>"</b>
 <br> 
-<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
 
 #### **Stone Tools in 	Singapore and Johor**
 

@@ -37,6 +37,12 @@ Based on this information, it appears likely that the coins were lost when the S
 
 A check with the National Museum of Singapore in December 2022 confirmed that the two coins are not in their collection.[^12] The coins are not with the National Library either.
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/">The Lost Gold Coins of the Old Singapore Library</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
+
+
 #### **Identifying the Gold Coins**
 
 To establish if the coins were really from Aceh, new readings of the inscriptions on the coins should be made and, more importantly, tested to see if these are reasonable alternatives. To do this, I sought help from colleagues, Librarian Toffa Abdul Wahed and Senior Librarian Mazelan Anuar, who transliterated Logan’s Rumi text back into Jawi and then compared the Jawi text with those from other Acehnese coins. In doing this, we tried to see if we could find a plausible alternative reading for the Singapore Library coins, based on the assumption that the original transliteration in the report was an inaccurate but still a best-guess effort that relied on the shape of the words.

@@ -6,6 +6,7 @@ description: Theemithi is much more than just the firewalking festival. It is a
   cycle of rituals that involves the re-enactment of events from the
   Mahabharatam over several months.
 image: /images/Vol 18 Issue 3/Theemithi/1_cover.png
+variant: markdown
 ---
 #### Theemithi is much more than just the firewalking festival. It is a cycle of rituals that involves the re-enactment of events from the Mahabharatam over several months.
 By Nalina Gopal
@@ -32,7 +33,7 @@ Inscriptional evidence points to the prevalence of the reading of the poem as ea
 <b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/firewalking/">Beyond Firewalking
 </a>"</b>
 <br> 
-<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
 
 The goddess Draupadi (also spelled Drowpathai), whose worship is associated with Theemithi, is the deified heroine of the Mahabharatam. Draupadi is the wife of the five Pandava brothers. Wronged by the Kauravas, the scheming cousins of the brothers, she vows vengeance. An 18-day battle – known as the Kurukshetra War – ensues, resulting in the victory of the Pandavas and the appeasement of Draupadi.[^5]
 

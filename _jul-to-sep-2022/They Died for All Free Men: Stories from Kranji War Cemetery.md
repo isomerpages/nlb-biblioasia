@@ -18,10 +18,6 @@ That air raid claimed 61 lives and injured 133. Among those who died was Corpora
 
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-LwBu7HDNwU?si=ZEf95Kdqa6u7PffC"></iframe>
 
-<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
-<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/kranji-war-cemetery/">Lest We Forget: Kranji War Cemetery</a>"</b>
-<br> 
-<img src="/images/Podcast/ad%20banner%20biblioasia.jpg" alt="singapore history podcast" style="width:95%">  </center></div> 
 
 
 #### **Kranji and the Battle for Singapore**
@@ -45,7 +41,10 @@ Organised in a square formation of 100 headstones (five rows of 20 headstones), 
 
 Beyond the graves, on the hill’s highest point, stands the Singapore Memorial – also designed by Oakes. This structure features 12 stone-clad columns bearing the inscribed names of over 24,000 missing personnel with no known graves. The columns are surmounted by a flat, wing-shaped roof. A 22-metre-tall pylon, which resembles the tail unit of an aeroplane, rises from the centre and is capped by a star.[^11]
 
-Want more of what you’re reading? Get BiblioAsia’s latest stories delivered to your inbox. Subscribe [here](https://form.gov.sg/#!/616799db4d9b61001398f79b).
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/kranji-war-cemetery/">Lest We Forget: Kranji War Cemetery</a>"</b>
+<br> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
 
 Four other commemorative panels stand around the Singapore Memorial. Located on the eastern terrace is the Singapore Civil Hospital Grave Memorial, which lists the names of 107 Commonwealth servicemen whose remains lie buried along with those of 300 civilians in a mass grave at the Singapore General Hospital. Situated behind the Singapore Memorial is the Singapore Cremation Memorial, which remembers some 800 casualties, mostly Indian soldiers, whose remains were cremated in accordance with their religious beliefs.[^12]
 

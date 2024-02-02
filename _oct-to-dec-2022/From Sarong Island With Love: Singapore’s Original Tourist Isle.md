@@ -3,6 +3,7 @@ title: "From Sarong Island With Love: Singapore’s Original Tourist Isle"
 permalink: /vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/
 description: Before there was Sentosa, there was Sarong Island.
 image: /images/Vol 18 Issue 3/Sarong Island/1_cover.jpg
+variant: markdown
 ---
 #### Before there was Sentosa, there was Sarong Island. 
 By Lim Tin Seng
@@ -60,7 +61,7 @@ In the early 1960s, Lee decided to live in the White House after she separated f
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
 <b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/sarong-island/">The Mystery of Sarong Island</a>"</b>
 <br> 
-<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
 
 The walk from the sampan to the White House was also a bit of a journey, as the *Straits Times* noted when it reported how Lee’s guests had arrived on the island for a party in 1962. After stepping out from the sampan as gracefully as they could, the guests had to “climb a steep hillock through a winding cemented pathway to reach the house. Some of the lady guests, who had been there before, were armed with an extra pair of low-heeled shoes. Those invited for the first time had the experience of walking like an acrobat on a tightrope.” It was worth it, though, said the paper. “The cool breeze, the beautiful scenery, the far-away lights, and the moon throwing its soft radiance on passing shops… make Christina’s ‘White House’ like Shangri-La.”[^11] 
 

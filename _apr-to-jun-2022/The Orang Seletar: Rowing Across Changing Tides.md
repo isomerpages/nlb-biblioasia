@@ -6,6 +6,7 @@ description: Singapore was once a home to the seafaring Orang Seletar who now
   Singapore visiting Merlion Park, Sembawang Park and Lower Seletar Reservoir
   Park.
 image: /images/Vol 18 Issue 1/Orang Seletar/orang_seletar_cover.png
+variant: markdown
 ---
 #### Singapore was once a home to the seafaring Orang Seletar who now reside in Johor Bahru. **Ilya Katrinnada** takes them on a tour around Singapore visiting Merlion Park, Sembawang Park and Lower Seletar Reservoir Park.
 
@@ -21,7 +22,7 @@ This one-day tour[^3] in October 2019 around parts of Singapore – where they o
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
 <b>Listen to the podcast episode <br>"<a href="https://biblioasia.nlb.gov.sg/podcast/orang-seletar/">What’s Become of the Seafaring Orang Seletar?</a>"</b>
 <br> 
-<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div> 
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
 
 #### **Who Are the Orang Seletar?**
 

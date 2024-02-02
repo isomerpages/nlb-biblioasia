@@ -4,6 +4,7 @@ permalink: /vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/
 description: Fermented shrimp is a staple in many cuisines of Southeast Asia,
   though it takes some getting used to.
 image: /images/Vol 19 Issue 1/Balacan/balacan_1.png
+variant: markdown
 ---
 #### Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes some getting used to. 
 By Toffa Abdul Wahed
@@ -21,7 +22,7 @@ In 2019, Prime Minister Lee Hsien Loong conveyed his thanks to the Malaysian que
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
 <b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/belacan/">Belacan: Caviar or Vile?</a>"</b>
 <br> 
-<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
 
 Hugh Clifford, who served as Governor of the Straits Settlements between 1927 and 1929, referred to *belacan* as “that evil-smelling condiment which [had] been so ludicrously misnamed the Malayan Caviare” in his 1897 account of the Malay Peninsula. He wrote that the coasts reeked of “rank odours” as a result of women villagers “labouring incessantly in drying and salting the fish which [had] been taken by the men, or pounding prawns into *blâchan*” throughout the fishing season. The stench was so strong that “all the violence of the fresh, strong, monsoon winds” would only “partially purge” the villages of it.[^2]
 
