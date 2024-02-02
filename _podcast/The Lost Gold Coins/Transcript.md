@@ -66,12 +66,12 @@ out, okay, if the coins were discovered during this period, where could
 they have gone? And so I looked through other important early coins to
 figure out: okay, this coin went here, this coin was there. And so from
 there, possibly people can try and see whether or not they can trace back
-to that discovery. But, you know, this is not just the only, you know,
-possibility. There could be other times when the coins went missing.</p>
+to that discovery. But this is not just the only possibility. There could
+be other times when the coins went missing.</p>
 <p></p>
 <p><strong>Jimmy</strong> 
 <br>So Shu Tieng, that’s very interesting. But do we know that the coins weren’t
-stolen rather than, you know, transferred out?
+stolen rather than transferred out?
 <br>
 </p>
 <p><strong>Shu</strong> 
@@ -129,9 +129,9 @@ along the Malay Peninsula and also in Sumatra. And so the significance
 of these two coins in particular is that they’re actually Islamic. They
 depict a very different period from the 17th century, which we thought
 that was maybe, you know, this 14th century period, which is the Temasek
-period. And then later on, you know, there was a fishing village in 1890.
-That’s like the general Singapore history, right? Over time in the past
-couple of decades, historians have actually started to uncover more historical
+period. And then later on, there was a fishing village in 1890. That’s
+like the general Singapore history, right? Over time in the past couple
+of decades, historians have actually started to uncover more historical
 documents that say that in the 17th, 18th century, actually, there was
 something else in Singapore.</p>
 <p></p>
@@ -139,10 +139,10 @@ something else in Singapore.</p>
 especially at Telok Blangah, what there was and to what extent. A scholar
 by the name of Dr. Peter Borschberg at the National University of Singapore
 found a particular, I think it’s like archival material, about a Flemish
-gem trader by the name of Jacque de Couture. And he mentioned that, you
-know, in Sentosa there was Orang Laut and trade. So there was a harbourmaster
-in the area. So I suspect that this coin might be related to that. And
-so maybe these coins were used for regional trade.</p>
+gem trader by the name of Jacque de Couture. And he mentioned that in Sentosa
+there was Orang Laut and trade. So there was a harbourmaster in the area.
+So I suspect that this coin might be related to that. And so maybe these
+coins were used for regional trade.</p>
 <p></p>
 <p><strong>Jimmy</strong> 
 <br>It shows that there was economic activity in the 17th century in Singapore,
@@ -179,8 +179,8 @@ or not there were similar names or similar symbols. And since the two coins
 had something in common, the sort of backside of the coin. So I suspected
 that they might have been from the same king or similar dynasty or something
 like that. So that’s where we started our journey. And from there we propose
-a theory. Of course, you know, researchers can always chime in with other
-theories, but we really think that this is probably one of the most…</p>
+a theory. Of course, researchers can always chime in with other theories,
+but we really think that this is probably one of the most…</p>
 <p></p>
 <p><strong>Jimmy</strong> 
 <br>Plausible.</p>
@@ -197,10 +197,10 @@ For example, did John Miksic say anything?</p>
 <br>Unfortunately, John Miksic is not versed in Jawi. So somebody who is actually
 versed in Jawi would be able to do further research. So there has been
 great interest [especially from] people from Malaysia, because I think
-in Malaysia, Jawi is actually, you know, a potential course that you can
-learn during your schooling days. So anybody can, you know, sort of try
-and see what it means on their own. And so that could be something else
-we can, you know, look forward to in the next 5 to 10 years, hopefully.</p>
+in Malaysia, Jawi is actually a potential course that you can learn during
+your schooling days. So anybody can sort of try and see what it means on
+their own. And so that could be something else we can look forward to in
+the next 5 to 10 years, hopefully.</p>
 <p></p>
 <p><strong>Jimmy</strong> 
 <br>So has anyone been in touch with you about your article?</p>
@@ -211,8 +211,8 @@ He contacted me recently because the coins are obviously found in Telok
 Blangah area. And so he was looking at <em>keramat</em> in the area. And
 so he saw that, hey, this is something interesting. So yeah, so we compared
 notes, and he does think that the first coin is correct. The second coin
-is still you know up for grabs. But I think, you know, we have one of the
-plausible answers, if not the plausible answer.</p>
+is still up for grabs. But I think we have one of the plausible answers,
+if not the plausible answer.</p>
 <p></p>
 <p><strong>Jimmy</strong> 
 <br>Okay, that’s great. We have the Malay coins and mainly Northern Song coins.
@@ -252,8 +252,7 @@ to make that clear, they're a few million years apart.
 </p>
 <p><strong>Jimmy</strong> 
 <br>So yeah, okay. It’s archaeological, not paleontological. What’s an archaeological
-mystery that you would like to solve, you know, besides this, all these
-gold coins?</p>
+mystery that you would like to solve besides this, all these gold coins?</p>
 <p></p>
 <p><strong>Shu</strong> 
 <br>Okay, so other than coins, another ancient trading item was cowrie shells.
