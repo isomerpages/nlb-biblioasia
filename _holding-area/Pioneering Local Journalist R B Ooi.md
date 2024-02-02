@@ -19,7 +19,7 @@ Ooi also had to worry about being shot by the British as well. “Once I was sen
 R.B. Ooi, born Ooi Chor Hooi (1905–72), was my maternal grandfather. He was one of the earliest local Malayan journalists writing in English and had worked for newspapers from the <i>Straits Echo</i> to the <i>Malayan Times</i>. In 2023, Irene Lim – his daughter and my mother – donated his personal papers and photos to the National Library of Singapore. These are now held in the R.B. Ooi and Edna Kung Collection. His writings give us a window into discourses – such as multiculturalism and the Malayan identity – that
 publicly preoccupied the English-educated in the colonial and immediate post-colonial periods in Singapore and Malaysia.
 
-<img style="width: 60%; height: 50%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/09.png">
+<img style="width: 50%; height: 45%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/09.png">
 <div style="background-color:white;">A young R.B. Ooi, date unknown.<i> Courtesy of Irene Lim.</i></div>
 
 #### **Career in Journalism**
