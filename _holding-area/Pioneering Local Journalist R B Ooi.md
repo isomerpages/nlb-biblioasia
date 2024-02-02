@@ -22,8 +22,7 @@ publicly preoccupied the English-educated in the colonial and immediate post-col
 <img style="width: 70%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/09.png">
 <div style="background-color:white;">A young R.B. Ooi, date unknown.<i> Courtesy of Irene Lim.</i></div>
 
-<b>Career in Journalism</b><br>
-
+<b>Career in Journalism</b><br><br>
 Ooi started out as a junior reporter for the Penang-based newspaper, <i>Straits Echo</i>, in 1923. He was the first Chinese reporter among other Ceylon-Eurasian, British and Australian staff. In 1924, he joined the Treasury in Kuala Lumpur as a clerk. Between 1929 and 1933, Ooi worked as an assistant secretary at the Pontianak Gold Mine, which was owned by his father-in-law, Kung Tian Siong. He then went on to work for Duncan Roberts, managing the International Correspondence Schools at 10 Collyer Quay in Singapore. Ooi also moonlighted as a part-time reporter for the <i>Straits Echo</i> from 1923–28, and the <i>Malaya Tribune </i>from 1934 to 42, under the penname R.B. Ooi.
 
 
