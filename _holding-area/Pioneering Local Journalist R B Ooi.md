@@ -112,6 +112,9 @@ Ooi’s writings reflect the issues he cared most about – culture, identity, e
 Ooi’s descendants have fared well. His grandchildren and great-grandchildren in Malaysia have married across ethnicities and cultures and are fluent in multiple languages. Several of them, mostly women, did their undergraduate studies in England in engineering, law, accountancy and economics, and all returned home (to Malaysia) thereafter. English remains the dominant
 family language, as are Western attire, music and other “cultural” habits.
 
+<img style="width: 85%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/family.png">
+<div style="background-color:white;">The engagement of Nadia Azahari (centre), daughter of Eric Ooi and Julia Daham (first row extreme left), to Megat Muzaffar Shah bin Datuk Mohamad Nor in Kuala Lumpur, 2010. <i>Courtesy of Irene Lim.</i></div>
+
 I’m sure my grandfather would be pleased that scholarly research on Straits Chinese history and culture is flourishing today, and that there has been a revival of Straits Chinese arts and culture in both Singapore and Malaysia, with thriving Peranakan associations, cuisine, performing arts and literature. Explorations of local history and “heritage” that formed such a large part of his writing have become popular, even entrenched, in both countries.
 
 As a teenager in Singapore, I wanted to be a writer and corresponded with my grandfather who lived in Malaysia at the time. Education had always been important to him, and he wanted his daughter, Irene, to go to university, which the Second World War and familial disruptions had sadly rendered impossible. Despite his antipathy to foreign university education and academics, he was very proud when I went to Cambridge University as an undergraduate, then the pinnacle of British colonial academic aspirations, and later to Yale.
@@ -121,9 +124,7 @@ I think he would have been pleased to learn of my own inclinations toward writin
 In my retirement, I co-founded and co-edit an academic blog promoting scholarship “of, for and by Singapore”, which also advocates for academic freedom.[^18] In Singapore in 2017, I gave a keynote speech at my alma mater, Methodist Girls’ School, closely tracking my grandfather’s own arguments for multiculturalism, but for the 21st century. This was years before I
 read his work.[^19] To paraphrase a popular saying, the durian does not fall far from the tree.
 
-<img style="width: 85%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/family.png">
 
-<div style="background-color:white;">The engagement of Nadia Azahari (centre), daughter of Eric Ooi and Julia Daham (first row extreme left), to Megat Muzaffar Shah bin Datuk Mohamad Nor in Kuala Lumpur, 2010. <i>Courtesy of Irene Lim.</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:95%">
 <b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br>
