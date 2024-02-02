@@ -124,7 +124,7 @@ I think he would have been pleased to learn of my own inclinations toward writin
 In my retirement, I co-founded and co-edit an academic blog promoting scholarship “of, for and by Singapore”, which also advocates for academic freedom.[^18] In Singapore in 2017, I gave a keynote speech at my alma mater, Methodist Girls’ School, closely tracking my grandfather’s own arguments for multiculturalism, but for the 21st century. This was years before I
 read his work.[^19] To paraphrase a popular saying, the durian does not fall far from the tree.<br>
 
-<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:95%">
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br><br>
 
 Donated in 2023 by Mrs Irene Lim, daughter of R.B. Ooi, items in the collection include typescripts of Ooi’s articles, which cover a range of topics besides the economic, social and political situation in the region. <br><br>	
