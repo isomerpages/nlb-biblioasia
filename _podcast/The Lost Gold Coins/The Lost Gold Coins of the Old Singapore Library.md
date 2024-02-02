@@ -20,7 +20,17 @@ tries to solve the case.</p>
 get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Shu Talked About</strong></h4>
-<p></p>
+<p>02:11 – When and where the coins were found
+<br>04:35 – Whether the coins were stolen
+<br>05:48 – How common artefact theft is
+<br>06:30 – What coins can tell us about Singapore’s history
+<br>08:53 – Why and how Shu reexamined the Jawi transcription on the coins
+<br>10:43 – Response to Shu's research on the coins
+<br>11:57 – Other ancient coins found in Singapore
+<br>12:49 – A common misconception of archaeology
+<br>13:21 — An archaeological mystery that Shu would like to solve
+<br>15:26 – Shu’s favourite archaeological pop-culture moment
+<br>16:00 – Archaeology is…</p>
 <h4><strong>About the Guest</strong></h4>
 <p>Foo Shu Tieng is Associate Librarian with the National Library, Singapore,
 and works with the Singapore and Southeast Asia collections. She has written
