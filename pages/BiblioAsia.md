@@ -77,6 +77,36 @@ They changed the entire music recording industry, says sound archivist
 Ross Laird.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/keramat-kusu/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Stories Behind the Shrines on Kusu Island" src="/images/Podcast/william_2023.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Stories Behind the Shrines on Kusu Island</div><div class="isomer-card-description">People have been worshipping the shrines on Kusu Island since the mid-19th century. The people said to be buried at Kusu Island, however, haven’t always stayed the same, according to writer and researcher William L. Gibson.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/sarong-island/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Mystery of Sarong Island" src="/images/Podcast/tinseng.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">The Mystery of Sarong Island</div>
+<div class="isomer-card-description">How can an entire island appear and then disappear? Especially one that
+was said to be Singapore’s first island resort? Librarian Lim Tin Seng
+solves the mystery of Sarong Island.</div>
+<div class="isomer-card-link">Listen to the episode</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/firewalking/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Beyond Firewalking" src="/images/Podcast/nalina.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Beyond Firewalking</div><div class="isomer-card-description">The Hindu firewalking festival – Theemithi – draws massive crowds every year. But less well-known are the many important rituals that precede Theemithi, some very dramatic, like the sacrifice of Aravan, the chakravarti kottai and the padukalam.
+
+</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/stone-tools/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Stone Age in Singapore" src="/images/Podcast/Shu.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Stone Age in Singapore</div>
+<div class="isomer-card-description">Archaeologists have found stone tools in Tanjong Tajam on Pulau Ubin and
+Tanjong Karang (now Tuas). Is this evidence of people living in Singapore
+during the stone age? Maybe. Or maybe not.</div>
+<div class="isomer-card-link">Listen to the episode</div>
+</div>
 </a>
 </div>
 <p>
