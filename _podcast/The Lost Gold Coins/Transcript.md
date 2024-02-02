@@ -89,7 +89,7 @@ Raffles Museum, I wasn’t able to find the coins.</p>
 use an Occam’s Razor kind of thing – that sometimes the simplest explanation
 is probably… I mean, it’s not very sexy. You know, there were other break-ins,
 and so it might have been one of the break-ins at the Raffles Museum in
-the 1890s, for example. When they wrote the <em>100 Years of Singapore</em>,
+the 1890s, for example. When they wrote <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years of Singapore</a></em>,
 all they have is basically the transliteration of the coins. So that’s
 what I think happened.
 <br>
@@ -333,7 +333,7 @@ on a couple of encyclopedia articles on the paramedic and ambulance.</p>
 <p><strong>Shu</strong> 
 <br>Okay, but that’s what I’m working on. Honestly.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay. Shu Tieng, thanks for joining us on BiblioAsia+ today. To learn
 more about these mysterious gold coins, check out Shu Tieng’s article on
 the <em>BiblioAsia</em> website. Thanks, Shu Tieng.</p>
