@@ -57,7 +57,8 @@ On 15 September 1925, Ooi spotted Edna Kung Gek Neo (1910–2003) on the train. 
 agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at the Wesley Church in Singapore on 5 December 1925, when he was 19 and Edna 15.
 
 <img style="width: 70%; height: 65%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/02.png">
-<div style="background-color:white;">R.B. Ooi and Edna Kung’s wedding at Wesley Church, 1925.<i> Courtesy of Irene Lim.</i></div><br>
+<div style="background-color:white;">R.B. Ooi and Edna Kung’s wedding at Wesley Church, 1925.<i> Courtesy of Irene Lim.</i></div>
+
 <img style="width: 80%; height: 65%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/03.png">
 <div style="background-color:white;">Ooi and Kung also had a traditional Chinese wedding at the Ooi family home in Bukit Mertajam, 1925.<i> Courtesy of Irene Lim.</i></div>
 
