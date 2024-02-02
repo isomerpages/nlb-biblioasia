@@ -245,7 +245,7 @@ dinosaurs.</p>
 <br>
 </p>
 <p><strong>Shu</strong> 
-<br>Yeah. So just to be clear, it’s paleontology. If you’re interested in
+<br>Yeah. So just to be clear, it’s palaeontology. If you’re interested in
 dinosaurs, if you’re interested in archaeology, it’s about humans. So just
 to make that clear, it’s a few million years apart.
 <br>
