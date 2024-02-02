@@ -45,7 +45,7 @@ best shot.</p>
 <p></p>
 <p>Unfortunately, there’s just a few houses depicted on the map, and so we’re
 not quite sure what happened back then. The land belonged to the sultan
-or actually the Temenggong Daeng Ibraham. basically the Temenggong actually
+or actually the Temenggong Daeng Ibrahim. basically the Temenggong actually
 purchased them from the convicts. And eventually in 1849, when the Singapore
 Library was set up and all that, he actually donated them.</p>
 <p></p>
@@ -165,12 +165,12 @@ that the transliteration was wrong. I was comparing them to more modern
 research about the coins, and I was looking at the coins and they didn’t
 make sense. So I suspected that it might have been wrong. And so I think
 it might have been an issue with like thinking that there are similar words.
-It’s like having like in Chinese, for example, just one stroke or a couple
-of strokes wrong could be something completely different, right? And so
-I thought this could have also happened with the coins because it’s in
-Arabic script. The coins might not have been very good copies. They might
-have been worn. And so I asked a couple of my colleagues to actually help
-me try to figure this out.</p>
+It’s like having in Chinese, for example, just one stroke or a couple of
+strokes wrong could be something completely different, right? And so I
+thought this could have also happened with the coins because it’s in Arabic
+script. The coins might not have been very good copies. They might have
+been worn. And so I asked a couple of my colleagues to actually help me
+try to figure this out.</p>
 <p></p>
 <p>So basically what I did was I brought over the books that had the Arabic
 versions of the names of kings in Aceh. And then I asked them to transliterate
@@ -245,15 +245,15 @@ dinosaurs.</p>
 <br>
 </p>
 <p><strong>Shu</strong> 
-<br>Yeah. So just to be clear, it’s palaeontology. If you’re interested in
-dinosaurs, if you’re interested in archaeology, it’s about humans. So just
-to make that clear, it’s a few million years apart.
+<br>Yeah. So just to be clear, it’s palaeontology if you’re interested in
+dinosaurs; if you’re interested in archaeology, it’s about humans. So just
+to make that clear, they're a few million years apart.
 <br>
 </p>
 <p><strong>Jimmy</strong> 
-<br>So yeah, okay. It’s an archaeological, not paleontological. What’s an
-archaeological mystery that you would like to solve, you know, besides
-this, all these gold coins?</p>
+<br>So yeah, okay. It’s archaeological, not paleontological. What’s an archaeological
+mystery that you would like to solve, you know, besides this, all these
+gold coins?</p>
 <p></p>
 <p><strong>Shu</strong> 
 <br>Okay, so other than coins, another ancient trading item was cowrie shells.
@@ -261,9 +261,9 @@ So it basically performs the same function as the coins, but it’s a little
 harder to study because obviously there are fewer written records about
 it. But they use these cowrie shells during the slave trade, and they use
 them all up to like the mid-19th century. And so in Singapore there’re
-some remnants of it. You can see it’s often mentioned, cowrie shells, in
-trading reports. But to what extent and how big the trade was, that’s a
-question to be answered. So that’s something that I’d be interested in
+some remnants of it. You can see they are often mentioned, cowrie shells,
+in trading reports. But to what extent and how big the trade was, that’s
+a question to be answered. So that’s something that I’d be interested in
 studying. Yeah.</p>
 <p></p>
 <p><strong>Jimmy</strong> 
