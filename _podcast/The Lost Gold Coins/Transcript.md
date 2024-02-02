@@ -314,7 +314,7 @@ the same.</p>
 <p><strong>Jimmy</strong> 
 <br>What does that mean?</p>
 <p></p>
-<p><strong>Shu</strong>
+<p><strong>Shu</strong> 
 <br>It’s knowing that the past is discoverable, and so it gives you life’s
 mission. And so the library also is sort of gives you a mission where you
 think that the past is discoverable, right? So we’re all working in concert,
@@ -334,8 +334,7 @@ on a couple of encyclopedia articles on the paramedic and ambulance.</p>
 <br>Okay, but that’s what I’m working on. Honestly.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Shu Tieng, thanks for joining us on BiblioAsia+ today. To learn
+<br>Okay. Shu Tieng, thanks for joining us on BiblioAsia+ today. To learn
 more about these mysterious gold coins, check out Shu Tieng’s article on
 the <em>BiblioAsia</em> website. Thanks, Shu Tieng.</p>
 <p></p>
