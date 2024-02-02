@@ -47,7 +47,24 @@ this episode of BiblioAsia+, Yew Chong explains how he created this work
 and reveals what he would love to paint but has not.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Great Reclamation: A Singaporean Historical Epic" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Great Reclamation: A Singaporean Historical Epic" src="/images/Podcast/rachel.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Great Reclamation: A Singaporean Historical Epic</div><div class="isomer-card-description">The Great Reclamation is a work of historical fiction set in Singapore that has received rave reviews. Listen to author Rachel Heng talk about her book and her fascinating research process, which includes a BiblioAsia article on land reclamation she referred to!
+
+</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/orang-seletar/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="What’s Become of the Seafaring Orang Seletar?" src="/images/Podcast/Ilya.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">What’s Become of the Seafaring Orang Seletar?</div>
+<div class="isomer-card-description">The Orang Seletar used to live on boats that plied the Johor Strait. They
+were here when Raffles landed in 1819. Today, however, they have settled
+in kampongs in Johore. Some of the older ones still remember playing in
+the waters around Seletar island, says writer and educator Ilya Katrinnada.</div>
+<div class="isomer-card-link">Listen to the episode</div>
+</div>
+</a>
 </div>
 <p>
 <br>
