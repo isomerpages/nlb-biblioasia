@@ -132,7 +132,6 @@ Other highlights are his articles for the Foreign News Service such as “The Ne
 Materials from the collection can be viewed at Level 11 of the Lee Kong Chian Reference Library via online reservation from the third quarter of 2024.<br></div>
 
 <img style="width: 100px; height: 100px;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/linda_profile_foto.png">
-
 <b>Linda Lim</b> is a Singaporean economist and Professor Emerita of corporate strategy and international business at the University of Michigan Ross School of Business. She also served as director of the University’s Center for Southeast Asian Studies.
 
 #### **Notes**
