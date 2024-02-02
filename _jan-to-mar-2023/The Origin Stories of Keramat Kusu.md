@@ -4,6 +4,7 @@ permalink: /vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/
 description: Pilgrimages to the keramat on Kusu Island have been going on since
   the middle of the 19th century.
 image: /images/Vol 18 Issue 4/Keramat Kusu/Pulau Tembakul1.jpg
+variant: markdown
 ---
 #### Pilgrimages to the *keramat* on Kusu Island have been going on since the mid-19th century.
 By William L. Gibson
@@ -22,7 +23,7 @@ Sunny Kusu Island – little more than a dome-shaped granite outcropping connect
 <b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/keramat-kusu/">The Stories Behind the Shrines on Kusu Island
 </a>"</b>
 <br> 
-<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
 
 Around 1822, the British erected a signal on the island and as a result, the earliest maps of Singapore refer to it as “Signal Island”. The island was later renamed “Peak Island” and sometime in 1877, a brick obelisk harbour marker was erected on its south shore.[^2] 
 
