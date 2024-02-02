@@ -30,7 +30,8 @@ about <a href="https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/stone-t
 <h4><strong>Resources</strong></h4>
 <p>Foo Shu Tieng, "<a href="https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/" rel="noopener noreferrer nofollow" target="_blank">Revisiting the Mystery of the Missing Gold Coins</a>," <em>BiblioAsia</em> 19,
 no. 3 (2023).</p>
-<p></p>
+<p>Louise Tythacott and Panggah Ardiyansyah, eds., <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=204463768" rel="noopener noreferrer nofollow" target="_blank">Returning Southeast Asia's Past: Objects, Museums, and Restitution</a></em> (Singapore:
+NUS Press, 2021)</p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap. Sound engineering
 was done by One Dash. The background music "Di Tanjong Katong" was composed
