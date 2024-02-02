@@ -81,7 +81,7 @@ However, Ooi was also critical of the Straits Chinese for their British affectat
 
 He was particularly critical of foreign-educated university graduates, whom he felt “[could not] adjust themselves to their home environments… at this juncture many Malayan graduates feel that their own indigenous cultures are far inferior to what they have acquired in western countries... They were loud in their complaints that Malaya was an uncivilised and uncultured country, because they could not indulge in the fripperies of modern living”.[^10]
 
-<img style="width: 80%; height: 65%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/13.png">
+<img style="width: 60%; height: 60%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/13.png">
 
 <div style="background-color:white;">R.B. Ooi working on his typewriter, date unknown. <i>Courtesy of Irene Lim.</i></div>
 
