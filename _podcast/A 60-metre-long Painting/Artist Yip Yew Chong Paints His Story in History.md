@@ -28,7 +28,7 @@ in Kreta Ayer
 <br>23:56 – What he finds hard to paint
 <br>24:49 – Painting alone in studio versus in public, and indoors versus
 outdoors
-<br>26:54 – Recent books about Yew Chong and his work: <em>The Art of Joy</em> and <em>I Paint my Singapore</em>
+<br>26:54 – Recent books about Yew Chong and his work: <em>The Art of Joy</em> and <em>I Paint my Singapore</em> 
 <br>31:12 – What he is working on now
 <br>34:11 – What he wants to paint but hasn’t
 <br>34:58 – How he overcomes artist’s block
