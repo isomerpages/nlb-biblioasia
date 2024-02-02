@@ -105,3 +105,24 @@ Who would have thought that obscure rainfall records from the 1960s would have a
 
 <img src="/images/Vol-15-issue-1/evidence-in-the-archives/01_encountering.jpg" style="width:80%;">													
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/the-way-we-were/">The Way We Were: The MITA Collection 1949–1969</a>
+
+Photographs can capture subtext that is sometimes more evocative than the intended subject, as&nbsp;<b>Gretchen Liu</b>&nbsp;discovered when she explored the early work of the Photo Unit.
+
+<img src="/images/Vol-15-issue-1/the-way-we-were/02c_waywewere.jpg" style="width:80%;">													
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/stories-little-people/">Stories of the Little People</a>
+
+Oral history is often considered as “little” – personal accounts of humble folk, as opposed to “big” or written history on serious topics. But “little” does not mean negligible or inferior, says&nbsp;<b>Cheong Suk-Wai</b>.
+
+<img src="/images/Vol-15-issue-1/stories-of-little-people/01_littleppl.png" style="width:80%;">													
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/feeding-the-hungry/">Feeding the Hungry: Children in Post-War Singapore</a>
+
+In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore.&nbsp;<b>Cheryl-Ann Low</b>&nbsp;has the details.
+
+<img src="/images/Vol-15-issue-1/feeding-the-hungry/01_hungrychildren.png" style="width:80%;">													
+<hr>

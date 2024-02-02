@@ -53,6 +53,13 @@ The RAF Seletar Theatre Club was a highly regarded amateur drama group in Singap
 <img src="/images/Vol-16-issue-1/Seletar/Seletar-title.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/disco-fever/">When Disco Fever Raged</a>
+
+Pulsating music, strobe lights and postage-stamp dance floors packed with shimmying bodies.&nbsp;<b>Tan Chui Hua</b>&nbsp;gives you the lowdown on the history of the disco scene in Singapore.
+
+<img style="width:80%; height:80%;" src="/images/Vol-15-issue-1/when-disco-fever-raged/01_disco.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/sg-stopover-circuit/">Singapore Stopover: The Entertainment Circuit 1920–1940</a>
 
 The city was a major pit stop for visiting entertainers and sportsmen in the early 20th century, according to the writer&nbsp;**Paul French**.

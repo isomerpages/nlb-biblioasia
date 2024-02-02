@@ -67,6 +67,12 @@ Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encount
 <img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/georgette-chen">Georgette Chen: Artist Extraordinaire</a>
+Sara Siew examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
+
+<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist1.JPG" style="width:80%; height:90%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/mrs-dare-driv-mchn/">Mrs Dare and Her Magnificent Driving Machine</a>
 
 The intrepid Mrs G.M. Dare – true to her name – was Singapore’s first woman driver. In April 1907, she embarked on a 686-mile road trip across the Malay Peninsula.
@@ -87,5 +93,3 @@ Thrift, hard work and resilience are qualities that can be nurtured through food
 
 <img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty1.JPG">
 <hr>
-
-

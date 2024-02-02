@@ -60,3 +60,17 @@ The National Library recently received a sizable collection of letters, document
 
 <img src="/images/Vol-16-issue-3/book-review/year1000-opening.jpg">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/writers-manuscripts/">On Writers and Their Manuscripts</a>
+
+No great work of literature is completed in just one draft. In an age where writers have gone paperless, novelist&nbsp;<b>Meira Chand</b>&nbsp;ponders over the value of manuscripts, and what they might reveal about a writer’s thought process.
+
+<img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/violence-writings/">Don’t Mention the Corpses: The Erasure of Violence in Colonial Writings on Southeast Asia</a>
+
+History may be written by the victors, but what they conveniently leave out can be more telling.&nbsp;<b>Farish Noor</b>&nbsp;reminds us of the violent side of colonial conquest.
+
+<img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG">
+<hr>

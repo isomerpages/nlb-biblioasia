@@ -5,10 +5,11 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
-#### **Interview with Victor Savage, Co-author of Singapore Street Names: A Study of Toponymics**
-From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation's history.
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/1/singapore-street-names-victor-savage/">Interview with Victor Savage, Co-author of Singapore Street Names: A Study of Toponymics</a>
 
-<img style="width:80%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/desker_road.png">
+From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation’s history.
+
+<img src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/victor_savage.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing">A Quick History of the Singapore Speedway</a>
@@ -150,7 +151,8 @@ This cafe once loomed large in Singapore’s dining and social scene. *Vandana A
 <img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-title.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/building-history/">Building History: From Stamford Road to Canning Rise</a>
+<b>Abigail Huang</b>&nbsp;tracks the movement of the National Archives of Singapore, from its early days in the Raffles Museum and Library on Stamford Road to an old school building at the foot of Fort Canning.
 
-
-
+<img src="/images/Vol-15-issue-1/building-history/01a_buildinghistory.jpg" style="width:80%;">
 <hr>

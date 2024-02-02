@@ -67,6 +67,20 @@ In the first of two essays on the history of printing in mainland Southeast Asia
 <img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina5.JPG">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/writers-manuscripts/">On Writers and Their Manuscripts</a>
+
+No great work of literature is completed in just one draft. In an age where writers have gone paperless, novelist&nbsp;<b>Meira Chand</b>&nbsp;ponders over the value of manuscripts, and what they might reveal about a writer’s thought process.
+
+<img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/making-history/">Making History</a>
+
+A treaty that sealed Singapore’s fate, a contract for the sale of child brides, and a drawing of an iconic theatre are among the items showcased in a new book,&nbsp;_50 Records from History_, published by the National Archives of Singapore.
+  
+<img src="/images/Vol-15-issue-1/making-history/01a_history.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/modern-malayan-home/">The Modern Malayan Home</a>
 
 Along with the introduction of running water and electricity at the turn of the 20th century were advertisements featuring modern home appliances.&nbsp;**Georgina Wong**&nbsp;has the story.

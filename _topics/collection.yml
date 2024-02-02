@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Editor's Picks.md
+      - Adventure.md
       - Archaeology.md
       - Arts/.keep
       - Arts/Art.md
