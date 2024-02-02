@@ -289,7 +289,7 @@ cowry shells in southern China.</p>
 cowrie shells. We don’t know why. So there’s some weird thing going on,
 right? For example, in Sukhothai, they were using these cowry shells often
 for small change. And so this extended all the way south to the Kedah area.
-But whether they extend it all the way south to Johore or even Singapore,
+But whether they extend it all the way south to Johor or even Singapore,
 that’s another question.</p>
 <p></p>
 <p><strong>Jimmy</strong> 
