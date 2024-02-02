@@ -98,7 +98,7 @@ Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chines
 
 [^1]: Dwayne Wong (Omowale), “‘No Dogs and No Chinese Allowed’: The Historical Significance of Bruce Lee’s ‘Fist of Fury’,” _HuffPost_, 15 March 2016, https://www.huffpost.com/entry/no-dogs-and-no-chinese-al\_b\_9455424; “Enthusiasts Mark Martial Arts Master Huo Yuanjia’s 150th Birthday in Shanghai,” CGTN, 23 January 2019, https://news.cgtn.com/news/3d3d514f314d544d32457a6333566d54/index.html.
 
-[^2]: Lee Xiu 李秀, “Bai nian jingwu ti yu zai malaixiya de fa zhan ji ying xiang yan jiu” 百年精武体育在马来西亚的发展及影响研究 \[The study of the development and influence of century-old Chin Woo in Malaysia\], _Journal of Huangshan University_ 13, no. 5 (October 2011): 96. (From JSTOR via NLB’s [eResources]()https://eresources.nlb.gov.sg/main website)
+[^2]: Lee Xiu 李秀, “Bai nian jingwu ti yu zai malaixiya de fa zhan ji ying xiang yan jiu” 百年精武体育在马来西亚的发展及影响研究 \[The study of the development and influence of century-old Chin Woo in Malaysia\], _Journal of Huangshan University_ 13, no. 5 (October 2011): 96. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 [^3]: Singapore Chin Woo (Athletic) Association, [新加坡精武体育会四十五周年会庆纪念刊 _1921–1966 = Singapore Chin Woo (Athletic) Association, 45th Anniversary Celebration Souvenir_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200065664) (Singapore: Singapore Chin Woo \[Athletic\] Association, 1966), 189. (From National Library, Singapore, call no. RCLOS Chinese 796.8159 SIN)
 
