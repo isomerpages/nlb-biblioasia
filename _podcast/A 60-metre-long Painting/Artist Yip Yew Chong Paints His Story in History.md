@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: A 60-metre-long Painting
 ---
-<p>Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, has been drawing
-crowds when it went on display at the Raffles City Convention Centre. Comprising
+<p>Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, drew crowds
+when it went on display at the Raffles City Convention Centre. Comprising
 27 scenes of 1970s–1980s Singapore, the painting merges history, memory
 and nostalgia. In this episode of BiblioAsia+, Yew Chong explains how he
 created this work and reveals what he would love to paint but has not.</p>
