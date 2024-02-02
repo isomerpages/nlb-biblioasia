@@ -2,7 +2,6 @@ collections:
   podcast:
     output: true
     order:
-      - BiblioAsia.md
       - The Lost Gold Coins/.keep
       - The Lost Gold Coins/The Lost Gold Coins of the Old Singapore Library.md
       - The Lost Gold Coins/Transcript.md
