@@ -58,7 +58,6 @@ agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at th
 
 <img style="width: 80%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/02.png">
 <div style="background-color:white;">R.B. Ooi and Edna Kung’s wedding at Wesley Church, 1925.<i> Courtesy of Irene Lim.</i></div><br>
-
 <img style="width: 80%; height: 70%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/03.png">
 <div style="background-color:white;">Ooi and Kung also had a traditional Chinese wedding at the Ooi family home in Bukit Mertajam, 1925.<i> Courtesy of Irene Lim.</i></div>
 
