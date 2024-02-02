@@ -17,7 +17,7 @@ of Singapore.</p>
 <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/616799db4d9b61001398f79b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BiblioAsia+" src="/images/Podcast/biblioasia_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Podcast About Singapore History</div><div class="isomer-card-description">Available on Spotify, Apple Podcasts and wherever you listen.</div><div class="isomer-card-link">Subscribe to get notified when the next episode drops</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/616799db4d9b61001398f79b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BiblioAsia+" src="/images/Podcast/biblioasia_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Podcast About Singapore History </div><div class="isomer-card-description">Available on Spotify, Apple Podcasts and wherever you listen.</div><div class="isomer-card-link">Subscribe to get notified when the next episode drops</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -47,9 +47,7 @@ this episode of BiblioAsia+, Yew Chong explains how he created this work
 and reveals what he would love to paint but has not.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Great Reclamation: A Singaporean Historical Epic" src="/images/Podcast/rachel.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Great Reclamation: A Singaporean Historical Epic</div><div class="isomer-card-description">The Great Reclamation is a work of historical fiction set in Singapore that has received rave reviews. Listen to author Rachel Heng talk about her book and her fascinating research process, which includes a BiblioAsia article on land reclamation she referred to!
-
-</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Great Reclamation: A Singaporean Historical Epic" src="/images/Podcast/rachel.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Great Reclamation: A Singaporean Historical Epic</div><div class="isomer-card-description">The Great Reclamation is a work of historical fiction set in Singapore that has received rave reviews. Listen to author Rachel Heng talk about her book and her fascinating research process, which includes a BiblioAsia article on land reclamation she referred to!</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/orang-seletar/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -64,7 +62,7 @@ in kampongs in Johore. Some of the older ones still remember playing in
 the waters around Seletar island, says writer and educator Ilya Katrinnada.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/kranji-war-cemetery/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lest We Forget: Kranji War Cemetery" src="/images/Podcast/Kranji_war.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lest We Forget: Kranji War Cemetery</div><div class="isomer-card-description">Lt Adnan of the Malay Regiment and Lt Col Ivan Lyon of Operation Jaywick are commemorated here. But so are people like Cpl Raymond Lee and civilian fighter Sim Chin Foo, who joined Dalforce. Librarian Janice Loo profiles those buried or memorialised at the Kranji War Cemetery.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 </div>
 <p>
 <br>
