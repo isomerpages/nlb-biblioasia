@@ -45,16 +45,16 @@ After his stint at the <i>Eastern Sun</i>, Ooi became a freelance writer (pennin
 
 Ooi was born and raised in Bukit Mertajam on a coconut plantation “bigger than Singapore” established by his great-grandfather Ooi Tung Kheng, an immigrant from China who was one of the founders of Bukit Mertajam.[^4] Ooi attended a Methodist primary school and studied at the Anglo-Chinese School (ACS) on Penang Island for his secondary education. He would catch the 4.30 am mail train from Singapore to Prai every morning, then the ferry to Georgetown, before cycling to school. He won a scholarship after topping a state-wide exam.
 
-<img style="width: 90%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/01.png">
+<img style="width: 80%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/01.png">
 <div style="background-color:white;">This family photo was taken on the birthday of Linda Lim’s great-great-great
 grandmother Saw Kim Lian (centre) in Bukit Mertajam, c.1923. <i>Courtesy of Irene Lim.</i></div>
 
 
-<img style="width: 90%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/11.png">
-<div style="background-color:white;">R.B. Ooi with his Straits Chinese friends, date unknown. (Right) A young R.B. Ooi, date unknown.<i> Courtesy of Irene Lim.</i></div>
+<img style="width: 80%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/11.png">
+<div style="background-color:white;">R.B. Ooi with his Straits Chinese friends, date unknown.<i> Courtesy of Irene Lim.</i></div>
 
 On 15 September 1925, Ooi spotted Edna Kung Gek Neo (1910–2003) on the train. Struck by her beauty, he noted down her name and address from her luggage tag and wrote to her father proposing marriage. Finding out that the Ooi family were educated wealthy landowners, Edna’s father, Kung Tian Siong (1876–1958), a Singapore businessman and direct descendant of Confucius,[^5]
-agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at the Wesley Church in Singapore on 5 December 1925, when he was 19 and Edna 15.<p></p>
+agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at the Wesley Church in Singapore on 5 December 1925, when he was 19 and Edna 15.
 
 <img style="width: 90%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/wedding.png">
 
