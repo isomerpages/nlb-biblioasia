@@ -4,6 +4,7 @@ permalink: /vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/
 description: The local Taoist pantheon includes goddesses only found in
   Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 image: /images/Vol 18 Issue 4/Maiden Lim/Huang Guniang2.jpg
+variant: markdown
 ---
 #### The local Taoist pantheon includes goddesses only found in Singapore, such as Lin Guniang, Lei Niangniang and Huang Guniang.
 By Ng Yi-Sheng
@@ -23,7 +24,7 @@ This is a shame. Lin Guniang – also known as Hongshan Lin Guniang (红山林�
 <b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/taoist-folk-goddesses-singapore/">Taoist Folk Goddesses of Singapore
 </a>"</b>
 <br> 
-<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad%20banner%20biblioasia.jpg">  </center></div>
+<img style="width:95%" alt="singapore history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">  </center></div>
 
 The notion of a homegrown goddess may sound bizarre. In fact, several such deities exist. By far the most famous is the German Girl of Pulau Ubin, also known as Nadu Guniang (拿督姑娘), recently written about by William L. Gibson for *BiblioAsia*.[^3] Photographer Ronni Pinsler has documented at least half a dozen more on his Facebook group “Local Gods &amp; Their Legends”[^4] and on his website, “The Book of Xian Shen”.[^5]
 
