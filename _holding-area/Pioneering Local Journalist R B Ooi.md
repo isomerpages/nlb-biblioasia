@@ -11,7 +11,8 @@ Being in a war zone is always dangerous, even for non-combatants, as R.B. Ooi, t
 
 During the Malayan Emergency (1948–60), Ooi worked as a press officer to General Gerald Templer, the British High Commissioner for Malaya, who had been tasked to deal with the communist guerillas. In a 1969 letter to his daughter, Irene Lim, Ooi wrote that he had spent three years “covering the jungle war for the government, local and foreign press…” That meant spending time with British troops in the jungle. And while they tried not to draw attention, apparently, the communists knew they were there. Ooi further wrote that a surrendered Malay communist had come up to him and asked what they had been doing in the jungle near Bentong, Pahang, with a Gurkha patrol. “He and his men were waiting to ambush the Gurkhas when he saw us following the Gurkhas in thick jungle with film camera and still camera. He thought we were from Hollywood, so did not shoot…”[^1]
 
-<img style="width: 85%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/05.png"><div style="background-color:white;">R.B. Ooi at work, 1940s. <i>Courtesy of Irene Lim.</i></div>
+<img style="width: 85%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/05.png">
+<div style="background-color:white;">R.B. Ooi at work, 1940s. <i>Courtesy of Irene Lim.</i></div>
 
 Ooi also had to worry about being shot by the British as well. “Once I was sent to the jungle to study the morale of British troops. Those young soldiers were scared stiff when they entered a rubber estate. One of them tripped over a wire and set off an alarm in a hill. The soldiers ran up the hill firing like mad and so we had to run with them or else we might be fired upon by both sides… Those were dangerous years for me and two of my cameramen colleagues. I should have got an OBE [The Most Excellent Order of the British Empire] for that.”[^2]
 
