@@ -11,12 +11,16 @@ Being in a war zone is always dangerous, even for non-combatants, as R.B. Ooi, t
 
 During the Malayan Emergency (1948–60), Ooi worked as a press officer to General Gerald Templer, the British High Commissioner for Malaya, who had been tasked to deal with the communist guerillas. In a 1969 letter to his daughter, Irene Lim, Ooi wrote that he had spent three years “covering the jungle war for the government, local and foreign press…” That meant spending time with British troops in the jungle. And while they tried not to draw attention, apparently, the communists knew they were there. Ooi further wrote that a surrendered Malay communist had come up to him and asked what they had been doing in the jungle near Bentong, Pahang, with a Gurkha patrol. “He and his men were waiting to ambush the Gurkhas when he saw us following the Gurkhas in thick jungle with film camera and still camera. He thought we were from Hollywood, so did not shoot…”[^1]
 
+<img style="width: 85%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/05.png">
+<div style="background-color:white;">R.B. Ooi t work, 1940s. <i>Courtesy of Irene Lim.</i></div>
+
 Ooi also had to worry about being shot by the British as well. “Once I was sent to the jungle to study the morale of British troops. Those young soldiers were scared stiff when they entered a rubber estate. One of them tripped over a wire and set off an alarm in a hill. The soldiers ran up the hill firing like mad and so we had to run with them or else we might be fired upon by both sides… Those were dangerous years for me and two of my cameramen colleagues. I should have got an OBE [The Most Excellent Order of the British Empire] for that.”[^2]
 
 R.B. Ooi, born Ooi Chor Hooi (1905–72), was my maternal grandfather. He was one of the earliest local Malayan journalists writing in English and had worked for newspapers from the <i>Straits Echo</i> to the <i>Malayan Times</i>. In 2023, Irene Lim – his daughter and my mother – donated his personal papers and photos to the National Library of Singapore. These are now held in the R.B. Ooi and Edna Kung Collection. His writings give us a window into discourses – such as multiculturalism and the Malayan identity – that
 publicly preoccupied the English-educated in the colonial and immediate post-colonial periods in Singapore and Malaysia.
 
 <b>Career in Journalism</b><br>
+
 Ooi started out as a junior reporter for the Penang-based newspaper, <i>Straits Echo</i>, in 1923. He was the first Chinese reporter among other Ceylon-Eurasian, British and Australian staff. In 1924, he joined the Treasury in Kuala Lumpur as a clerk. Between 1929 and 1933, Ooi worked as an assistant secretary at the Pontianak Gold Mine, which was owned by his father-in-law, Kung Tian Siong. He then went on to work for Duncan Roberts, managing the International Correspondence Schools at 10 Collyer Quay in Singapore. Ooi also moonlighted as a part-time reporter for the <i>Straits Echo</i> from 1923–28, and the <i>Malaya Tribune </i>from 1934 to 42, under the penname R.B. Ooi.
 
 
@@ -31,15 +35,17 @@ From 1954–58, Ooi was the editor-in-chief of the <i>Singapore Standard</i>. He
 
 After his stint at the <i>Eastern Sun</i>, Ooi became a freelance writer (penning a regular column titled “Impromptu” for the <i>Straits Echo</i>) and broadcaster (hosting a monthly current affairs radio talk show called “Window on the World”). In 1968, he received the Ahli Mangku Negara (Defender of the Realm) decoration from the Yang di-Pertuan Agong of Malaysia. Ooi’s last column was published in the <i>Straits Echo</i> shortly after his death in Kuala Lumpur in December 1972.
 
-<img style="width: 90%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/conferment.png">
-<div style="background-color:white;">(Left) R.B. Ooi t work, 1940s. (Right) R.B. Ooi being conferred the Ahli Mangku Negara by the Yang di-Pertuan Agong of Malaysia, 1968. <i>Courtesy of Irene Lim.</i></div>
+<img style="width: 80%; height: 80%;" height="80%;" width="80%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/07.png">
+<div style="background-color:white;">R.B. Ooi being conferred the Ahli Mangku Negara by the Yang di-Pertuan Agong of Malaysia, 1968. <i>Courtesy of Irene Lim.</i></div>
 
 <b>Early Life</b><br>
+
 Ooi was born and raised in Bukit Mertajam on a coconut plantation “bigger than Singapore” established by his great-grandfather Ooi Tung Kheng, an immigrant from China who was one of the founders of Bukit Mertajam.[^4] Ooi attended a Methodist primary school and studied at the Anglo-Chinese School (ACS) on Penang Island for his secondary education. He would catch the 4.30 am mail train from Singapore to Prai every morning, then the ferry to Georgetown, before cycling to school. He won a scholarship after topping a state-wide exam.
 
 <img style="width: 90%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/01.png">
 <div style="background-color:white;">This family photo was taken on the birthday of Linda Lim’s great-great-great
-grandmother Saw Kim Lian (centre) in Bukit Mertajam, c.1923. <i>Courtesy of Irene Lim.</i></div><br>
+grandmother Saw Kim Lian (centre) in Bukit Mertajam, c.1923. <i>Courtesy of Irene Lim.</i></div>
+
 
 <img style="width: 90%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/friends.png">
 <div style="background-color:white;">(Left) R.B. Ooi with his Straits Chinese friends, date unknown. (Right) A young R.B. Ooi, date unknown.<i> Courtesy of Irene Lim.</i></div>
@@ -54,6 +60,7 @@ agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at th
 To fulfil his mother’s wishes, Ooi and Edna had a second wedding in Bukit Mertajam according to Chinese rites. They had four children: Irene (born in 1927 in Kuala Lumpur), and Violet (1932), Eric (1934) and Sylvia (1936) who were born in Singapore following the family’s move there. Unfortunately, the marriage broke down. My grandmother, Edna, remarried towards the end of the war while my grandfather did not remarry.
 
 <b>Being Malayan</b><br>
+
 In his writings, which can be seen in the papers donated, Ooi would, sometimes uneasily, inhabit and navigate the British colonial/Western world and the Peranakan (that is, Malay-influenced) Chinese traditional culture into which he had been born and raised.
 
 His writings reveal that he was a proudly self-conscious Straits Chinese, embodying the three strands of their history and identity – Chinese, Malay and British/Western. Ooi wrote about many aspects of Straits Chinese life and culture. In “The Babas and Nonyas”,[^6] he recounted the incorporation of Malay music, drama, dance, religion and food into Peranakan culture. He noted that the <i>babas</i> (Peranakan men are known as <i>baba</i>, while the women are known as <i>nonya</i>) supported Malay opera and <i>keroncong</i> music competitions, described their “religious liberalism” as they worshipped at Malay shrines while seeking help from Thai <i>bomohs </i>(shamans), and praised their “innovative genius” in being able to adapt and learn from various cultures.
@@ -64,6 +71,7 @@ mix with them”.[^7]
 Thirty years later, in 1972, he wrote that the “Malayan Chinese must cultivate a Malayan consciousness and consider themselves people of this country and of nowhere else… the Straits Chinese or Babas endorsed this view because they considered themselves assimilated or integrated Malayans”.[^8]
 
 <b>Western Influence</b><br>
+
 However, Ooi was also critical of the Straits Chinese for their British affectations, political apathy and class snobbery. “It is the Chinese from the fourth generation onwards who are more British than the British and they are to be found in the Colony of Singapore and the Straits Settlements of Penang and Malacca,” he wrote in the <em>Singapore Standard</em> in 1954.[^9]
 
 He was particularly critical of foreign-educated university graduates, whom he felt “[could not] adjust themselves to their home environments… at this juncture many Malayan graduates feel that their own indigenous cultures are far inferior to what they have acquired in western countries... They were loud in their complaints that Malaya was an uncivilised and uncultured country, because they could not indulge in the fripperies of modern living”.[^10]
@@ -79,6 +87,7 @@ In 1948, in the <i>Malaya Tribune</i>, Ooi called Westerners out for their ignor
 As much as Ooi was critical of Western attitudes and some Westernised Asians, he expressed in the <em>Straits Echo</em> in 1972 that he did not support erasures of place names and other markers of Malaysia’s colonial heritage. He wrote: “New histories are being written in [Asia and Africa to] rub out former colonial influences. Histories can be written to suit the new people in power, but previous historical influences are embedded deep in the subconscious minds of the people. Their cultures, religions, languages and social customs will contain earmarks of the waves of civilisations that had washed over them in the course of centuries.”[^12]
 
 <b>Curtailing Press Freedom</b><br>
+
 Ooi was the consummate newspaperman and believed that freedom of the press was essential.[^13] He had spent most of his journalistic career in Singapore and saw the independence of Singapore’s newspapers being eroded.
 
 He revealed in an interview that during his two-year tenure at the <i>Eastern Sun</i> between 1966 and 1968, he had experienced run-ins with then Singapore Prime Minister Lee Kuan Yew. Lee had “on several occasions, in front of all the other editors in Singapore (he called us up as a group very often), accused me of being an MCA or UMNO [Malaysian Chinese Association or United Malays
@@ -92,6 +101,7 @@ In a 1972 commentary in the <i>Straits Echo</i>, Ooi called for newspapers in Si
 Ooi also frequently, both in private and in public, railed against the insularity and parochialism of Singaporeans. “Though Singapore claims to be a metropolis, yet the average Singaporean is more parochial than village folks… While Singapore has made economic progress, it has lost its soul. Money is the god Singapore worships.”[^17]
 
 <b>Family, Culture and Nation</b><br>
+
 Ooi’s writings reflect the issues he cared most about – culture, identity, ethnicity, language, education and race relations – which are still salient today in both Singapore and Malaysia. Though still contentious in societal terms, the national and familial contexts are more positive than what Ooi had come to believe toward the end of his life.
 
 Ooi’s descendants have fared well. His grandchildren and great-grandchildren in Malaysia have married across ethnicities and cultures and are fluent in multiple languages. Several of them, mostly women, did their undergraduate studies in England in engineering, law, accountancy and economics, and all returned home (to Malaysia) thereafter. English remains the dominant
