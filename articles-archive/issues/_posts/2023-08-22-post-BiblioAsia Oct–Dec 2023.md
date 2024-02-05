@@ -39,4 +39,5 @@ The call for Singaporeans to switch from eating rice to eating wheat in 1967 did
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet/">A Well-Choreographed Move: From Singapore Dance Theatre to Singapore Ballet</a><br>
 The company’s new name is less about breaking away from the past as it is about leaping confidently into the future. *Thammika Songkaeo*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/9revised_biblioasia_oct_dec_2023_Ballet.pdf)
+
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/new-books-singapore-history/">New Books on Singapore History </a><br>New books available in the National Library’s collection. [(PDF)](/files/pdf/Vol%2019/Issue%203/10new_biblioasia_oct_dec_2023_new_books.pdf)
