@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 4/1   Qing Ambassadors/hero_image_qing.jpg
   - infopic:
+      title: The Lost Gold Coins of the Old Singapore Library
+      subtitle: podcast
+      id: infopic
+      description: " More than 180 years after two ancient gold coins went missing,
+        librarian Foo Shu Tieng tries to solve the case."
+      button: listen to the podcast
+      url: https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/
+      image: /images/Podcast/isomer_Shu.jpg
+      alt: Image alt text
+  - infopic:
       title: Pioneering Local Journalist R.B. Ooi
       subtitle: People
       id: infopic
