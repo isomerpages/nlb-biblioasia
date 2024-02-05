@@ -1,5 +1,5 @@
 ---
-title: Pioneering Local Journalist R B Ooi
+title: "Pioneering Local Journalist R.B. Ooi"
 permalink: /people/2024/2/singapore-local-journalist-rb-ooi-newspaper/
 variant: markdown
 description: RB Ooi
