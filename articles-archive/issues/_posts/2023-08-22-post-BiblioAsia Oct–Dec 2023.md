@@ -27,7 +27,7 @@ Four decades after his death, we remember Choo Seng Quee’s many contributions 
 A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it. *Bernard T.G. Tan*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/4revised_biblioasia_oct_dec_2023_grand_piano.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/singapore-early-printing/">The Early History of Printing in Singapore</a><br>
-Printing in Singapore dates back 200 years with the establishment of a press by Christian missionaries. Their efforts to spread the gospel also helped spread knowledge of the printing press here. *Gracie Lee*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/5new_biblioasia_oct_dec_2023_early_printing.pdf)
+Printing in Singapore dates back 200 years with the establishment of a press by Christian missionaries. Their efforts to spread the gospel also helped spread knowledge of the printing press here. *Gracie Lee*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/5revised_biblioasia_oct_dec_2023_early_printing.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/">Revisiting the Mystery of the Missing Gold Coins</a><br>
 Two ancient gold coins, probably from Aceh, were discovered in Singapore in the middle of the 19th century. Unfortunately, they mysteriously disappeared a few decades later. *Foo Shu Tieng*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/6new_biblioasia_oct_dec_2023_gold_coins.pdf)
