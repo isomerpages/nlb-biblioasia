@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/
-      button: Visit of Qing Ambassadors to Singapore
+      button: Qing Ambassadors in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
