@@ -25,7 +25,7 @@ sections:
       button: listen to the podcast
       url: https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/
       image: /images/Podcast/isomer_Shu.jpg
-      alt: Image alt text
+      alt: Lost Gold Coins Library
   - infopic:
       title: Pioneering Local Journalist R.B. Ooi
       subtitle: People
