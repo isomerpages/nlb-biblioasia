@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-4/jan-mar-2024/talentime-history-singapore/
-      button: A Brief History of Talentime
+      url: /vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/
+      button: Visit of Qing Ambassadors to Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 4/7 Talentime/Talentime_Hero_img.jpg
+      background: /images/Vol 19 Issue 4/1   Qing Ambassadors/hero_image_qing.jpg
   - infopic:
       title: Pioneering Local Journalist R.B. Ooi
       subtitle: People
