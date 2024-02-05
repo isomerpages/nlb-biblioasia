@@ -20,8 +20,8 @@ sections:
       title: The Lost Gold Coins of the Old Singapore Library
       subtitle: podcast
       id: infopic
-      description: " More than 180 years after two ancient gold coins went missing,
-        librarian Foo Shu Tieng tries to solve the case."
+      description: More than 180 years after two ancient gold coins went missing,
+        librarian Foo Shu Tieng tries to solve the case.
       button: listen to the podcast
       url: https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/
       image: /images/Podcast/isomer_Shu.jpg
