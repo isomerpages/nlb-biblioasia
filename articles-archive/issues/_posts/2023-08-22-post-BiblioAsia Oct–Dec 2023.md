@@ -18,10 +18,10 @@ Getting people to wear crash helmets was an
 uphill task. *Sharad Pandian*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/1revised_biblioasia_oct_dec_2023_crash_helmets.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/">Forgotten Heroes of the Malaya Cup (1921–1941)</a><br>
-Before the war, these footballers were household names in Singapore. *Nick Aplin*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/2new_biblioasia_oct_dec_2023_malaya_cup.pdf)
+Before the war, these footballers were household names in Singapore. *Nick Aplin*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/2revised_biblioasia_oct_dec_2023_malaya_cup.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/">Coach Choo Seng Quee: A Giant of Singapore Football</a><br>
-Four decades after his death, we remember Choo Seng Quee’s many contributions to the sport. *A. Thiyaga Raju and Gary Koh*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/3new_biblioasia_oct_dec_2023_choo_seng_quee.pdf)
+Four decades after his death, we remember Choo Seng Quee’s many contributions to the sport. *A. Thiyaga Raju and Gary Koh*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/3revised_biblioasia_oct_dec_2023_choo_seng_quee.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/">A Grand Piano’s Chequered History: The Journey of a Chappell Grand Piano from the Victoria Memorial Hall to the National Library Building </a><br>
 A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it. *Bernard T.G. Tan*.  [(PDF)](/files/pdf/Vol%2019/Issue%203/4new_biblioasia_oct_dec_2023_grand_piano.pdf)
