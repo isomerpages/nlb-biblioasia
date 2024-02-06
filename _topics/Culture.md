@@ -51,7 +51,7 @@ Women who practised a particular form of Buddhism set up popular vegetarian rest
 
 Chinese food in Singapore is a product of the country’s history and geography, reveals **Low Sze Wee**.
 
-<img src="/images/Vol%2018%20Issue%201/Chinese%20Food/hokkien%20mee.png">
+<img src="/images/Vol%2018%20Issue%201/Chinese%20Food/hokkien%20mee.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/betel-chewing/">A Bite of History: Betel Chewing in Singapore</a>
@@ -72,5 +72,5 @@ Chinese food in Singapore is a product of the country’s history and geography,
 
 Self-mortification and the spilling of blood are hallmarks of the Chinese *tangki*. **Margaret Chan** explains the symbolism behind these practices.
 
-<img src="/images/Vol-16-issue-2/medium/TanEngHing.jpg" style="width:80%;">													
+<img src="/images/Vol-16-issue-2/medium/TanEngHing.jpg" style="width:85%;">													
 <hr>
