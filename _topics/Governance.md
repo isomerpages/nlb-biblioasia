@@ -74,21 +74,21 @@ Street shootouts and armed kidnappings used to be common. **Tan Chui Hua**  zero
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/rain/">Cloudy with a Slight Chance of Rain: Singapore’s Meteorological Service</a>
 
-_Lim Tin Seng_&nbsp;examines temperature and rainfall records in Singapore over the past 200 years.
+**Lim Tin Seng**&nbsp;examines temperature and rainfall records in Singapore over the past 200 years.
 
 <img src="/images/Vol-16-issue-2/rain/PilotBalloon1.jpg" style="width:70%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/metric/">Milestones to the Metric System</a>
 
-*Shereen Tay* traces how Singapore transitioned to the metric system in 10 short years.
+**Shereen Tay** traces how Singapore transitioned to the metric system in 10 short years.
 
 <img src="/images/Vol-16-issue-1/metric/Metrication-title.jpg" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/head-count-history/">Head Count: The History of Census-taking in Singapore</a>
 
-The very first census here was conducted in 1824. *Ang Seow Leng* reveals how doing a headcount has evolved over the last 200 years. 
+The very first census here was conducted in 1824. **Ang Seow Leng** reveals how doing a headcount has evolved over the last 200 years. 
 
 <img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount1.JPG" style="width:80%;">													
 <hr>
