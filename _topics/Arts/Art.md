@@ -26,8 +26,10 @@ Alvin Tan documents the painstaking process behind the restoration of the statue
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals"> The Forgotten Murals of Paya Lebar Airport</a>
- <p>Three large murals used to grace the walls of Paya Lebar Airport. **Dahlia Shamsuddin** has the inside story of how they came to be.</p> 
- <img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg" style="width:80%;"> 
+
+Three large murals used to grace the walls of Paya Lebar Airport. **Dahlia Shamsuddin** has the inside story of how they came to be. 
+
+<img src="/images/vol-17-issue-2/murals/murals_update.png" style="width:80%;"> 
 <hr>
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/chinese-artists"> Chinese Graphic Artists in Pre-war Singapore</a>
