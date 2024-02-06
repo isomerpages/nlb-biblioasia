@@ -37,57 +37,58 @@ Singapore’s diplomatic efforts may take several forms, including naming orchid
 <img src="/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Sealara%20Nelson%20Mandela%20(credit%20NParks).png" style="width:70%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="//vol-17/issue-4/jan-to-mar-2022/tree-planting-day/">The Blossoming of Tree Planting Day</a>
-Singapore has planted more than two million trees in the past 50 years. Lim Tin Seng traces the roots of Tree Planting Day.
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day/">The Blossoming of Tree Planting Day</a>
 
-<img src="/images/vol-17-issue-4/tree-planting/1-Header-2.jpg" style="width:70%;">
+Singapore has planted more than two million trees in the past 50 years. <b>Lim Tin Seng</b> traces the roots of Tree Planting Day.
+
+<img src="/images/vol-17-issue-4/tree-planting/3-LKY.jpg" style="width:120%;">
 <hr>
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue/">The Sticky Problem of Opium Revenue</a>
-*Diana S. Kim*  explains how the colonial government reduced its dependence on opium taxes.
+<b>Diana S. Kim</b> explains how the colonial government reduced its dependence on opium taxes.
 
 <img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/gunpoint/">At Gunpoint: Wiping Out Illegal Firearms in Singapore</a>
 
-Street shootouts and armed kidnappings used to be common. *Tan Chui Hua*  zeroes in on how these criminals were disarmed.
+Street shootouts and armed kidnappings used to be common. **Tan Chui Hua**  zeroes in on how these criminals were disarmed.
 
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-gunpoint-01.jpg" style="width:100%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/covid19/">Life in a Time of COVID-19</a>
 
-*Janice Loo*  explains the National Library’s crowdsourcing efforts to document the impact of the coronavirus pandemic.
+**Janice Loo**  explains the National Library’s crowdsourcing efforts to document the impact of the coronavirus pandemic.
 
 <img src="/images/Vol-16-issue-3/covid19/covid19-opening.jpg" style="width:50%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/website/">An Archive of Singapore Websites: Preserving the Digital</a>
 
-_Shereen Tay_&nbsp;recounts the National Library’s efforts to archive Singapore-related websites.
+**Shereen Tay**&nbsp;recounts the National Library’s efforts to archive Singapore-related websites.
 
 <img src="/images/Vol-16-issue-3/website/preservingdigital-opening.jpg" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/rain/">Cloudy with a Slight Chance of Rain: Singapore’s Meteorological Service</a>
 
-_Lim Tin Seng_&nbsp;examines temperature and rainfall records in Singapore over the past 200 years.
+**Lim Tin Seng**&nbsp;examines temperature and rainfall records in Singapore over the past 200 years.
 
 <img src="/images/Vol-16-issue-2/rain/PilotBalloon1.jpg" style="width:70%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/metric/">Milestones to the Metric System</a>
 
-*Shereen Tay* traces how Singapore transitioned to the metric system in 10 short years.
+**Shereen Tay** traces how Singapore transitioned to the metric system in 10 short years.
 
 <img src="/images/Vol-16-issue-1/metric/Metrication-title.jpg" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/head-count-history/">Head Count: The History of Census-taking in Singapore</a>
 
-The very first census here was conducted in 1824. *Ang Seow Leng* reveals how doing a headcount has evolved over the last 200 years. 
+The very first census here was conducted in 1824. **Ang Seow Leng** reveals how doing a headcount has evolved over the last 200 years. 
 
 <img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount1.JPG" style="width:80%;">													
 <hr>
