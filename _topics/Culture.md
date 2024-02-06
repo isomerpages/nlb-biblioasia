@@ -56,13 +56,13 @@ Chinese food in Singapore is a product of the country’s history and geography,
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/betel-chewing/">A Bite of History: Betel Chewing in Singapore</a>
 
-_Fiona Lim_&nbsp;and&nbsp;_Geoffrey Pakiam_&nbsp;look at a time-honoured tradition that is no longer fashionable.
+**Fiona Lim** and **Geoffrey Pakiam** look at a time-honoured tradition that is no longer fashionable.
 
 <img src="/images/Vol-16-issue-3/betel/betelchewinginsingapore.jpg" style="width:50%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue/">The Sticky Problem of Opium Revenue</a>
-*Diana S. Kim*  explains how the colonial government reduced its dependence on opium taxes.
+**Diana S. Kim**  explains how the colonial government reduced its dependence on opium taxes.
 
 <img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg" style="width:80%;">													
 <hr>
@@ -70,7 +70,7 @@ _Fiona Lim_&nbsp;and&nbsp;_Geoffrey Pakiam_&nbsp;look at a time-honoured traditi
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/medium/">The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World</a>
 
-Self-mortification and the spilling of blood are hallmarks of the Chinese *tangki*. *Margaret Chan* explains the symbolism behind these practices.
+Self-mortification and the spilling of blood are hallmarks of the Chinese *tangki*. **Margaret Chan** explains the symbolism behind these practices.
 
 <img src="/images/Vol-16-issue-2/medium/TanEngHing.jpg" style="width:80%;">													
 <hr>
