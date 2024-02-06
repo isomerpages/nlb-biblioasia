@@ -2,6 +2,7 @@
 title: Editor's Picks
 permalink: /editors-picks/
 description: ""
+variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand/">Land From Sand: Singapore’s Reclamation Story</a>
 Thanks to land reclamation, the tiny red dot has broadened its shores substantially. Lim Tin Seng discovers just how much Singapore has grown since colonial times.
@@ -36,5 +37,5 @@ Singapore’s film industry gets a reboot as it enters a new phase of its develo
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague/">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
 The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work. 
 
-<img src="/images/Vol-16-issue-2/plague/DrWuLienTeh.jpg">
+<img src="/images/Vol-16-issue-2/plague/DrWuLienTeh.jpg" style="width:80%;">
 <hr>

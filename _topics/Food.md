@@ -7,7 +7,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign">Going Against the (Rice) Grain: The “Eat More Wheat” Campaign</a>
 The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government.
 
-<img src="/images/Vol%2019%20Issue%203/Wheat/image1.png">
+<img src="/images/Vol%2019%20Issue%203/Wheat/image1.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan">Belacan: Caviar? Or Vile and Disgusting?</a>
@@ -27,7 +27,7 @@ Women who practised a particular form of Buddhism set up popular vegetarian rest
 
 Chinese food in Singapore is a product of the country’s history and geography, reveals **Low Sze Wee**.
 
-<img src="/images/Vol%2018%20Issue%201/Chinese%20Food/hokkien%20mee.png">
+<img src="/images/Vol%2018%20Issue%201/Chinese%20Food/hokkien%20mee.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks/">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
@@ -48,5 +48,5 @@ This cafe once loomed large in Singapore’s dining and social scene. *Vandana A
 
 Thrift, hard work and resilience are qualities that can be nurtured through food.&nbsp;**Chantal Sajan**&nbsp;recalls the legacy of her grandaunt.
 
-<img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty1.JPG">
+<img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty1.JPG" style="width:80%;">
 <hr>

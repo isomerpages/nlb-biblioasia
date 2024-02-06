@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/arts/2023/10/painters-diard-duvaucel-farquhar/"> About the Painters: Seeking the Unnamed Artists Behind Diard and Duvaucel's Natural History Drawings</a>
  <p>Natural history drawings might seem clinical and cold, but an unlikely medium pulls back the curtains to find the humanity behind them.</p> 
- <img style="width:70%;" src="/images/Online%20Only%20Articles/About%20the%20Painters/diard_duvaucel%20cover1.jpg"> 
+<img src="/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-mar-2022/diardduvaucel/">French Impressions: 19th Century Natural History Drawings of Singapore and Southeast Asia</a>
@@ -22,8 +22,8 @@ A little-known collection from 1818 to 1820 commissioned under the watch of two 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals"> The Forgotten Murals of Paya Lebar Airport</a>
- <p>Three large murals used to grace the walls of Paya Lebar Airport. Dahlia Shamsuddin has the inside story of how they came to be.</p> 
- <img style="width:100%;" src="/images/vol-17-issue-2/murals/Mural_Main2.jpg"> 
+ <p>Three large murals used to grace the walls of Paya Lebar Airport. **Dahlia Shamsuddin** has the inside story of how they came to be.</p> 
+ <img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg" style="width:80%;"> 
 <hr>
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/chinese-artists"> Chinese Graphic Artists in Pre-war Singapore</a>
@@ -32,7 +32,7 @@ A little-known collection from 1818 to 1820 commissioned under the watch of two 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malayan-fruits"> A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</a> 
 <p>Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? </p>
-<img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg">
+<img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles"> Stamford Raffles and the Two French Naturalists</a>
@@ -41,14 +41,14 @@ A little-known collection from 1818 to 1820 commissioned under the watch of two 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals"> Malay Seals from Singapore</a>
 <p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
-<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg">
+<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg" style="width:80%;">
 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/history-through-postcards/"> History Through Postcards</a>
 <p>One postcard may not say much, but a collection of postcards can speak volumes.&nbsp;**Stephanie Pee**&nbsp;tells us what&nbsp;_Postcard Impressions of Early 20th-century Singapore_&nbsp;has to say.</p>
 
-<img src="/images/Vol-16-issue-1/Postcards/malay_village.png">
+<img src="/images/Vol-16-issue-1/Postcards/malay_village.png" style="width:80%;">
 
 <hr>
 
@@ -67,17 +67,17 @@ Sara Siew examines the link between visual art and the written word through the 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history">Windows into History</a>
 <p>Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. Yeo Kang Shua and Swati Chandgadkar reveal their findings.</p> 
-<img src="/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png">
+<img src="/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">The Tiger Within</a>
 <p>These fanged beasts are by turns both captivating as they are terrifying. Patricia Bjaaland Welch explores the tiger motif in the art and literature of Asia.</p> 
-<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg">
+<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/creative-collectives/">Creative Collectives: Abdul Ghani Abdul Hamid and His Contemporaries</a>
 
 **Nadia Ramli**&nbsp;traces the history of the Malay art scene in early Singapore through a collection of art-related ephemera, catalogues and publications at the National Library. 
 
-<img src="/images/Vol-14-issue-4/creative-collectives/xz.JPG">
+<img src="/images/Vol-14-issue-4/creative-collectives/xz.JPG" style="width:80%;">
 <hr>
