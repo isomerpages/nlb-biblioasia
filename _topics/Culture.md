@@ -68,7 +68,7 @@ _Fiona Lim_&nbsp;and&nbsp;_Geoffrey Pakiam_&nbsp;look at a time-honoured traditi
 <hr>
 
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/medium/">The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/images/Vol-16-issue-2/medium/TanEngHing.jpg">The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World</a>
 
 Self-mortification and the spilling of blood are hallmarks of the Chinese *tangki*. *Margaret Chan* explains the symbolism behind these practices.
 
