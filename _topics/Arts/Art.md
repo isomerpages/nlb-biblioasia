@@ -18,7 +18,11 @@ A little-known collection from 1818 to 1820 commissioned under the watch of two 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/stjosephchurch">Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
-<p>Alvin Tan documents the painstaking process behind the restoration of the statues in St Joseph’s Church.</p> 
+
+Alvin Tan documents the painstaking process behind the restoration of the statues in St Joseph’s Church.
+
+<img src="/images/vol-17-issue-3/st-joseph/st_joseph3.png" style="width:80%;"> 
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals"> The Forgotten Murals of Paya Lebar Airport</a>
