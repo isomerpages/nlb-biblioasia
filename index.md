@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 4/1   Qing Ambassadors/hero_image_qing.jpg
+      background: /images/Vol 19 Issue 4/1   Qing Ambassadors/qing_hero_imagev2.png
   - infopic:
       title: The Lost Gold Coins of the Old Singapore Library
       subtitle: podcast
