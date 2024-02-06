@@ -37,7 +37,7 @@ Singapore’s diplomatic efforts may take several forms, including naming orchid
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day/">The Blossoming of Tree Planting Day</a>
-Singapore has planted more than two million trees in the past 50 years. Lim Tin Seng traces the roots of Tree Planting Day.
+Singapore has planted more than two million trees in the past 50 years. **Lim Tin Seng** traces the roots of Tree Planting Day.
 
 <img src="/images/vol-17-issue-4/tree-planting/3-LKY.jpg" style="width:120%;">
 <hr>
