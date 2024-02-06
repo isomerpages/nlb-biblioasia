@@ -47,11 +47,11 @@ Women who practised a particular form of Buddhism set up popular vegetarian rest
 <img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="//vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore/">We Are What We Eat: The Evolution of Chinese Food in Singapore</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore/">We Are What We Eat: The Evolution of Chinese Food in Singapore</a>
 
 Chinese food in Singapore is a product of the country’s history and geography, reveals **Low Sze Wee**.
 
-<img src="/images/Vol%2018%20Issue%201/Chinese%20Food/chicken%20rice.png">
+<img src="/images/Vol%2018%20Issue%201/Chinese%20Food/hokkien%20mee.png">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/betel-chewing/">A Bite of History: Betel Chewing in Singapore</a>
