@@ -38,21 +38,22 @@ Singapore’s diplomatic efforts may take several forms, including naming orchid
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day/">The Blossoming of Tree Planting Day</a>
-Singapore has planted more than two million trees in the past 50 years. Lim Tin Seng traces the roots of Tree Planting Day.
+
+Singapore has planted more than two million trees in the past 50 years. <b>Lim Tin Seng</b> traces the roots of Tree Planting Day.
 
 <img src="/images/vol-17-issue-4/tree-planting/3-LKY.jpg" style="width:120%;">
 <hr>
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue/">The Sticky Problem of Opium Revenue</a>
-*Diana S. Kim*  explains how the colonial government reduced its dependence on opium taxes.
+<b>Diana S. Kim</b> explains how the colonial government reduced its dependence on opium taxes.
 
 <img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/gunpoint/">At Gunpoint: Wiping Out Illegal Firearms in Singapore</a>
 
-Street shootouts and armed kidnappings used to be common. *Tan Chui Hua*  zeroes in on how these criminals were disarmed.
+Street shootouts and armed kidnappings used to be common. **Tan Chui Hua**  zeroes in on how these criminals were disarmed.
 
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-gunpoint-01.jpg" style="width:100%;">													
 <hr>
