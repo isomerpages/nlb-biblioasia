@@ -27,10 +27,11 @@ Women who practised a particular form of Buddhism set up popular vegetarian rest
 
 Chinese food in Singapore is a product of the country’s history and geography, reveals **Low Sze Wee**.
 
-<img src="/images/Vol%2018%20Issue%201/Chinese%20Food/chicken%20rice.png">
+<img src="/images/Vol%2018%20Issue%201/Chinese%20Food/hokkien%20mee.png">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks/">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
+
 A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as **Toffa Abdul Wahed** tells us. 
 
 <img src="/images/vol-17-issue-4/cookbook/cookbook.png">
