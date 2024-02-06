@@ -27,7 +27,7 @@ Women who practised a particular form of Buddhism set up popular vegetarian rest
 
 Chinese food in Singapore is a product of the country’s history and geography, reveals **Low Sze Wee**.
 
-<img src="/images/Vol%2018%20Issue%201/Chinese%20Food/hokkien%20mee.png">
+<img src="/images/Vol%2018%20Issue%201/Chinese%20Food/hokkien%20mee.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks/">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
