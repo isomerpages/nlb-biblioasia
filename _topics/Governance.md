@@ -47,7 +47,7 @@ Singapore has planted more than two million trees in the past 50 years. Lim Tin 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue/">The Sticky Problem of Opium Revenue</a>
 *Diana S. Kim*  explains how the colonial government reduced its dependence on opium taxes.
 
-<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg" style="width:80%;">													
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg" style="width:120%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/gunpoint/">At Gunpoint: Wiping Out Illegal Firearms in Singapore</a>
