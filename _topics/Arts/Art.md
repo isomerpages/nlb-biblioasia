@@ -50,8 +50,10 @@ Advertising art began playing a bigger role in the economy after several talente
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals"> Malay Seals from Singapore</a>
-<p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
-<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg" style="width:80%;">
+
+Malay seals of the 19th century hold important information, says Annabel Teh Gallop.
+
+<img src="/images/Vol-16-issue-1/malay-seals/malay_seals_titles_topic.png" style="width:80%;">
 
 <hr>
 
