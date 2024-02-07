@@ -86,7 +86,11 @@ Sara Siew examines the link between visual art and the written word through the 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/contemporary-art">Groundbreaking: The Origins of Contemporary Art in Singapore</a>
+
 1988 has been held as the watershed year in which Singapore’s contemporary art took root with the establishment of The Artists Village.&nbsp;Jeffrey Say&nbsp;debunks this view, asserting that the contemporary art movement began earlier.
+
+<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking1.JPG" style="width:80%; height:90%;">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history">Windows into History</a>
 <p>Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. Yeo Kang Shua and Swati Chandgadkar reveal their findings.</p> 
