@@ -2,6 +2,7 @@
 title: The Singapore Chinese Community During the Japanese Occupation
 permalink: /vol-18/issue-2/jul-to-sep-2022/national-library-japanese-occupation-collection-english/
 description: ""
+variant: markdown
 ---
 #### Singapore marked the 80th anniversary of its fall to the Japanese in 2022. This essay features items from the Chinese community relating to the occupation years. They belong to the collection of the National Library of Singapore.
 By Lee Meiyu and Seow Peck Ngiam
@@ -178,7 +179,8 @@ The National Archives of Singapore (NAS) has oral history interviews from people
 <div style="background-color: white;">
 <br>
 <img style="width: 200px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/Lee%20Meiyu%20and%20Seow%20Peck%20Ngiam.png">
-	<b>Lee Meiyu</b> (李梅瑜, left) is a senior librarian with the National Library, Singapore. Her research interest lies in the Singapore Chinese community. She is one of the writers behind the 2012 exhibition guide, <i>Money by Mail to China: Dreams and Struggles of Early Migrants</i>, and <i>Roots: Tracing Family Histories – A Resource Guide</i>, in 2013. <b>Seow Peck Ngiam</b> (萧碧莹, right) is a senior librarian with the National Library, Singapore. Her responsibilities include collection development and management of donor collections such as the Hsu Yun Tsiao Collection. She also conducts research and writes on collection highlights for the library.</div>
+	<b>Lee Meiyu</b> (李梅瑜, left) is a senior librarian with the National Library, Singapore. Her research interest lies in the Singapore Chinese community. She is one of the writers behind the 2012 exhibition guide, <i>Money by Mail to China: Dreams and Struggles of Early Migrants</i>, and <i>Roots: Tracing Family Histories – A Resource Guide</i>, in 2013.<br>
+<b>Seow Peck Ngiam</b> (萧碧莹, right) is a senior librarian with the National Library, Singapore. Her responsibilities include collection development and management of donor collections such as the Hsu Yun Tsiao Collection. She also conducts research and writes on collection highlights for the library.</div>
 
 #### **NOTES**
  
