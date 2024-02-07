@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”.md"
       - "The Trishaws and Tricycles of Singapore: Selected Photos by Liesel
         Strauss.md"
       - Example Title.md
