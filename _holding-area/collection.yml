@@ -2,6 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - "The Trishaws and Tricycles of Singapore: Selected Photos by Liesel
+        Strauss.md"
       - Example Title.md
       - Testing My Skills.md
       - Test2.md
