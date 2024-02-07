@@ -71,7 +71,11 @@ One postcard may not say much, but a collection of postcards can speak volumes.&
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/tan-swie-hian-coll/">Exploring an Artist’s Mind: The Tan Swie Hian Collection</a>
+
 What makes the difference between a good artist and a brilliant one?&nbsp;Goh Yu Mei&nbsp;delves into the books and artworks that have inspired a literary and artistic genius.
+
+<img src="/images/Vol-16-issue-1/Postcards/fall_of_singapore_topic.png" style="width:80%;">
+
 <hr>
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/georgette-chen">Georgette Chen: Artist Extraordinaire</a>
