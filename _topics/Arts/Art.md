@@ -64,9 +64,9 @@ Malay seals of the 19th century hold important information, says Annabel Teh Gal
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/history-through-postcards/"> History Through Postcards</a>
-<p>One postcard may not say much, but a collection of postcards can speak volumes.&nbsp;**Stephanie Pee**&nbsp;tells us what&nbsp;_Postcard Impressions of Early 20th-century Singapore_&nbsp;has to say.</p>
+One postcard may not say much, but a collection of postcards can speak volumes.&nbsp;**Stephanie Pee**&nbsp;tells us what&nbsp;_Postcard Impressions of Early 20th-century Singapore_&nbsp;has to say.
 
-<img src="/images/Vol-16-issue-1/Postcards/malay_village.png" style="width:80%;">
+<img src="/images/Vol-16-issue-1/Postcards/fall_of_singapore_topic.png" style="width:80%;">
 
 <hr>
 
