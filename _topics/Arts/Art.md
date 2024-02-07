@@ -89,7 +89,7 @@ Sara Siew examines the link between visual art and the written word through the 
 
 1988 has been held as the watershed year in which Singapore’s contemporary art took root with the establishment of The Artists Village.&nbsp;Jeffrey Say&nbsp;debunks this view, asserting that the contemporary art movement began earlier.
 
-<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking1.JPG" style="width:80%; height:90%;">
+<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/groundbreaking1_topic.png" style="width:80%; height:90%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history">Windows into History</a>
