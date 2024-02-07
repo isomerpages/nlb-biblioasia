@@ -42,7 +42,7 @@ These photos make up just a small handful of pictures of Singapore that Liesel t
 <div style="background-color: white;">A newspaper and cardboard collector pedalling his cargo tricycle, c.1990.  <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/vendor_trishaw_rider.png" style="width: 80%;">
-<div style="background-color: white;">Besides transportingvarious bycle riders sometimes also sold things from their tricycle. Vendor selling household items from a tricycle, 1990s.  <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
+<div style="background-color: white;">Besides transporting various goods, cargo tricycle riders sometimes also sold things from their tricycle. Vendor selling household items from a tricycle, 1990s. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 
 * * *
 
