@@ -33,7 +33,11 @@ Three large murals used to grace the walls of Paya Lebar Airport. **Dahlia Shams
 <hr>
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/chinese-artists"> Chinese Graphic Artists in Pre-war Singapore</a>
- <p>Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works. </p>
+
+Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works. 
+
+<img src="/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg" style="width:80%;"> 
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malayan-fruits"> A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</a> 
