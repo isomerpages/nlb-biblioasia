@@ -79,6 +79,7 @@ What makes the difference between a good artist and a brilliant one?&nbsp;Goh Yu
 <hr>
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/georgette-chen">Georgette Chen: Artist Extraordinaire</a>
+
 Sara Siew examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
 
 <img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist5.JPG" style="width:80%; height:90%;">
