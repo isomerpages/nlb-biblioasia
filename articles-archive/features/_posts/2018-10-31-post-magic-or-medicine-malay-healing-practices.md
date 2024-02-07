@@ -113,7 +113,7 @@ State controls and the exposure to Western education further put paid to the ser
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
 	<b>Healing Practices </b>
   <br><br>
-One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.</p>
+One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
 <table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
   <tr>
     <td>&nbsp; &nbsp;</td>

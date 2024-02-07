@@ -18,16 +18,26 @@ A little-known collection from 1818 to 1820 commissioned under the watch of two 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/stjosephchurch">Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
-<p>Alvin Tan documents the painstaking process behind the restoration of the statues in St Joseph’s Church.</p> 
+
+Alvin Tan documents the painstaking process behind the restoration of the statues in St Joseph’s Church.
+
+<img src="/images/vol-17-issue-3/st-joseph/st_joseph3.png" style="width:80%;"> 
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/murals"> The Forgotten Murals of Paya Lebar Airport</a>
- <p>Three large murals used to grace the walls of Paya Lebar Airport. **Dahlia Shamsuddin** has the inside story of how they came to be.</p> 
- <img src="/images/vol-17-issue-2/murals/Mural_Main2.jpg" style="width:80%;"> 
+
+Three large murals used to grace the walls of Paya Lebar Airport. **Dahlia Shamsuddin** has the inside story of how they came to be. 
+
+<img src="/images/vol-17-issue-2/murals/murals_update.png" style="width:80%;"> 
 <hr>
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-2/jul-sep-2021/chinese-artists"> Chinese Graphic Artists in Pre-war Singapore</a>
- <p>Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works. </p>
+
+Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works. 
+
+<img src="/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg" style="width:80%;"> 
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malayan-fruits"> A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</a> 
