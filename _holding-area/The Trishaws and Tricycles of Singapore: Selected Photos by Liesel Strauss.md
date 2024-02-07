@@ -44,7 +44,7 @@ Materials from the Liesel Strauss Collection at Level 11 of the Lee Kong Chian R
 
 </div>
 
+#### **Notes**
 
-* * *
 
 [^1]: Liesel Strauss, “[Local Food Industries, Defu Lane](https://catalogue.nlb.gov.sg/search/card?recordId=206040150), Singapore, 2002.” \[photographs\]. Call no. RCLOS 338.47664095957 STR (From National Library, Singapore)
