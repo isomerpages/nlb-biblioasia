@@ -51,7 +51,7 @@ Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits?
 
 Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.
 
-<img src="/images/Vol-17-issue-1/malayan-fruits/malayan_fruits_topic.jpg" style="width:80%;">
+<img src="/images/Vol-16-issue-2/raffles/pierre_topic.png" style="width:80%;">
 
 <hr>
 
