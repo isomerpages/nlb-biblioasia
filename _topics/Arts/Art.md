@@ -93,8 +93,10 @@ Sara Siew examines the link between visual art and the written word through the 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history">Windows into History</a>
-<p>Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. Yeo Kang Shua and Swati Chandgadkar reveal their findings.</p> 
-<img src="/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png" style="width:80%;">
+
+Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. Yeo Kang Shua and Swati Chandgadkar reveal their findings. 
+
+<img src="/images/Vol-12-issue-4/windows-into-history/4_windows_into_history_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">The Tiger Within</a>
