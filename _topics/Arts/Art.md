@@ -41,24 +41,32 @@ Advertising art began playing a bigger role in the economy after several talente
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malayan-fruits"> A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</a> 
-<p>Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? </p>
-<img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="width:80%;">
+
+Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits?
+
+<img src="/images/Vol-17-issue-1/malayan-fruits/malayan_fruits_topic.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles"> Stamford Raffles and the Two French Naturalists</a>
-<p>Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.</p>
+
+Danièle Weiler uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.
+
+<img src="/images/Vol-16-issue-2/raffles/pierre_topic.png" style="width:80%;">
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals"> Malay Seals from Singapore</a>
-<p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
-<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg" style="width:80%;">
+
+Malay seals of the 19th century hold important information, says Annabel Teh Gallop.
+
+<img src="/images/Vol-16-issue-1/malay-seals/malay_seals_titles_topic.png" style="width:80%;">
 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/history-through-postcards/"> History Through Postcards</a>
-<p>One postcard may not say much, but a collection of postcards can speak volumes.&nbsp;**Stephanie Pee**&nbsp;tells us what&nbsp;_Postcard Impressions of Early 20th-century Singapore_&nbsp;has to say.</p>
+One postcard may not say much, but a collection of postcards can speak volumes.&nbsp;**Stephanie Pee**&nbsp;tells us what&nbsp;_Postcard Impressions of Early 20th-century Singapore_&nbsp;has to say.
 
-<img src="/images/Vol-16-issue-1/Postcards/malay_village.png" style="width:80%;">
+<img src="/images/Vol-16-issue-1/Postcards/fall_of_singapore_topic.png" style="width:80%;">
 
 <hr>
 
