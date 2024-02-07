@@ -16,14 +16,13 @@ These photos make up just a small handful of pictures of Singapore that Liesel t
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/with_passenger.png" style="width: 80%;">
 <div style="background-color: white;">A trishaw with passenger at Syed Alwi Road, 1993. This was how locals commonly got around Singapore in the 1950s and 60s. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 
-
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/trishaws_at_geylang_serai.png" style="width: 80%;">
 <div style="background-color: white;">Trishaws at Geylang Serai market, 1992. These trishaws were likely waiting for passengers needing a ride after going to the market. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/convoy_trishaws.png" style="width: 80%;">
 <div style="background-color: white;">A convoy of trishaws operated by Singapore Explorer awaiting tourists in Chinatown, c. 2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 
-<img src="/images/Online%20Only%20Articles/Liesel_Trishaws/rider_taking_break.png" style="width: 80%;">
+<img src="/images/Online%20Only%20Articles/Liesel_Trishaws/rider_taking_break.png" style="width: 80%; height: 75%;">
 <div style="background-color: white;">As the popularity of trishaws declined, their riders could often be found taking breaks, even napping, in the shade of their sidecars’ canopies while awaiting passengers. Here, a trishaw rider takes a break outside Chinatown Complex, 1993. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 
 * * *
