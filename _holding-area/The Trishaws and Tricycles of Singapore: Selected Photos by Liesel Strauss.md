@@ -25,6 +25,9 @@ These photos make up just a small handful of pictures of Singapore that Liesel t
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/rider_taking_break.png" style="width: 80%; height: 75%;">
 <div style="background-color: white;">As the popularity of trishaws declined, their riders could often be found taking breaks, even napping, in the shade of their sidecars’ canopies while awaiting passengers. Here, a trishaw rider takes a break outside Chinatown Complex, 1993. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 
+<img src="/images/Online%20Only%20Articles/Liesel_Trishaws/rider_comfortable.png" style="width: 80%; height: 75%;">
+<div style="background-color: white;">A rider makes himself comfortable under the shade of a tree, 2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
+
 * * *
 
 [^1]: Liesel Strauss, “[Local Food Industries, Defu Lane](https://catalogue.nlb.gov.sg/search/card?recordId=206040150), Singapore, 2002.” \[photographs\]. Call no. RCLOS 338.47664095957 STR (From National Library, Singapore)
