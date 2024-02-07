@@ -38,3 +38,21 @@ In terms of research, a lot of time was spent online looking at photos of Singap
 It was through his research in the archives that he discovered that the 150-year-old Sri Krishnan Temple on Waterloo Street looked very different in the 1970s from how it does today. “Today, that temple is so elaborate and so colourful,” he said. “But in the 1970s, it was just a simple temple with a _gopuram_ \[pyramid-shaped tower\] on the roof and the statute of Sri Krishnan in the archway.” Thanks to his research, Yip was able to depict the temple accurately. 
 
 In addition to capturing scenes of a Singapore lost to time, what also adds charm to Yip’s work is that each scene has mini stories embedded within them.
+
+In depicting the old Central Sikh Temple on Queen Street (the temple is now on Towner Road), Yip painted a non-bearded Sikh serving food because the artist wanted to tell the story he had read about a Chinese man who had entered the faith. “He wanted to be a Sikh, wanted to embrace the religion, but he couldn’t grow a beard… but the Sikh community welcomed him so he just wore a turban and he served in the temple and the community.”
+
+In another scene, Yip painted a wake being held in the void deck of a Housing and Development Board apartment block. Members of the funeral band are disembarking from the lorry that brought them to the wake. Nearby, a parking attendant in a straw hat is writing out a ticket. Around the corner, a man in grey is hurrying down the road in a desperate attempt to avoid a ticket. 
+
+#### **A Penchant for the Past**
+
+Yip is the latest cultural worker to mine history to create art. Rachel Heng’s novel, _The Great Reclamation_, is another example of a recent work based on occurences or events that have actually happened in Singapore. While Yip pored over old photos, Heng devoured oral history transcripts from the archives and dived into old newspaper reports from NewspaperSG, an archive of old local newspapers that the National Library makes available to the public. 
+
+This interest in history is not just coming from artists and writers, but also from the general public as well. Over the years, there has been greater interest in both preserving and revisiting the past. This can be seen in the clamour to conserve old buildings as well as the mushrooming of groups on Facebook dedicated to sharing photos and memories of days (and places) gone by. 
+
+Even if this is only driven by a very human desire to revisit the “good old days”, that has value too. For individuals, nostalgia can help improve their mood as they reminisce about life back in the day. It can also be good for society. Nostalgia creates a sense of place, a feeling of connection, generates shared stories – these all help to knit a people together. 
+
+In all fairness, it must be said that the good old days weren’t necessarily always that good. In the BiblioAsia+ podcast, Yip recalled how, at one point, there were as many as five different families living on the same floor of the tiny shophouse on Sago Lane that his family had rented. While he recalled that memory fondly, it is unlikely that many people would want to return to a Singapore where that was common.
+
+Likewise, if you look at the scene of men unloading cargo off boats in the Singapore River, you can see that the river was filled with activity and human life. At the same time, the river itself was probably devoid of aquatic life, choked as it was with waste and effluent. The painting, of course, also fails to capture the appalling stench that the river was a byword for.
+
+At the time of writing, Yip has yet to find a buyer for his monumental work. He said he hoped to find someone, preferably a custodian or curator, who would be able to “conserve, re-exhibit and develop it further, such as into a multimedia experience that can travel around the world”. There are probably not many individuals or institutions with the ability and space to purchase and then exhibit a 60-metre-long painting. Yip, nonetheless, is hopeful that a buyer will eventually emerge. And indeed, if the black, fetid waters of the Singapore River can be transformed into an environment where fish thrive and even otters frolic, then just about anything is possible.
