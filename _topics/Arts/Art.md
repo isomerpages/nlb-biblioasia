@@ -100,7 +100,9 @@ Drawings discovered in a Belgian archive help fill gaps in the history of staine
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">The Tiger Within</a>
-<p>These fanged beasts are by turns both captivating as they are terrifying. Patricia Bjaaland Welch explores the tiger motif in the art and literature of Asia.</p> 
+
+These fanged beasts are by turns both captivating as they are terrifying. Patricia Bjaaland Welch explores the tiger motif in the art and literature of Asia.
+
 <img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="width:80%;">
 <hr>
 
