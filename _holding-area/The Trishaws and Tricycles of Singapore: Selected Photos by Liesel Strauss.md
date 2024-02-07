@@ -34,6 +34,13 @@ These photos make up just a small handful of pictures of Singapore that Liesel t
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/man_pedalling_trishaw.png" style="width: 80%;">
 <div style="background-color: white;">Man pedalling trishaw along Dunlop Street, c.2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 
+
+<img src="/images/Online%20Only%20Articles/Liesel_Trishaws/cargo_tricycle.png" style="width: 80%; height: 75%;">
+<div style="background-color: white;">Similar to trishaws are cargo tricycles, used to transport bulky items instead of passengers. They are commonly used by scrap collectors, like this one along Dickson Road, c.2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
+
+<img src="/images/Online%20Only%20Articles/Liesel_Trishaws/newspaper_collector.png" style="width: 80%;">
+<div style="background-color: white;">A newspaper and cardboard collector pedalling his cargo tricycle, c.1990.  <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
+
 * * *
 
 [^1]: Liesel Strauss, “[Local Food Industries, Defu Lane](https://catalogue.nlb.gov.sg/search/card?recordId=206040150), Singapore, 2002.” \[photographs\]. Call no. RCLOS 338.47664095957 STR (From National Library, Singapore)
