@@ -47,6 +47,9 @@ These photos make up just a small handful of pictures of Singapore that Liesel t
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/street_vendor.png" style="width: 80%;">
 <div style="background-color: white;">Street vendor transporting fresh flowers from a cargo tricycle, c.2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 
+<img src="/images/Online%20Only%20Articles/Liesel_Trishaws/liesel_on_trishaw.png" style="width: 80%;">
+<div style="background-color: white;">Liesel Strauss on a trishaw, 2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
+
 * * *
 
 [^1]: Liesel Strauss, “[Local Food Industries, Defu Lane](https://catalogue.nlb.gov.sg/search/card?recordId=206040150), Singapore, 2002.” \[photographs\]. Call no. RCLOS 338.47664095957 STR (From National Library, Singapore)
