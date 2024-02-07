@@ -7,7 +7,7 @@ variant: markdown
 #### Singapore marked the 80th anniversary of its fall to the Japanese in 2022. This essay features items from the Chinese community relating to the occupation years. They belong to the collection of the National Library of Singapore.
 By Lee Meiyu and Seow Peck Ngiam
 
-|<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Foo%20Chin%20Hua.png">|
+<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Foo%20Chin%20Hua.png">
 
 The Foo Chin Hwa Collection contains photographs of the exhumation process of the remains of the war dead organised by the Chinese Chamber of Commerce in 1963. These photographs serve as invaluable visual records of the process. The photographs reveal that after the remains were unearthed, they were washed and dried under a tent before being placed in an urn, which was then sealed. |On the day that the remains were unearthed, board members of the Chinese Chamber of Commerce and families of the victims held prayers. _Foo Chin Hwa Collection, National Library Singapore._
 
