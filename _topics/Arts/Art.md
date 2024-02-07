@@ -110,5 +110,5 @@ These fanged beasts are by turns both captivating as they are terrifying. Patric
 
 **Nadia Ramli**&nbsp;traces the history of the Malay art scene in early Singapore through a collection of art-related ephemera, catalogues and publications at the National Library. 
 
-<img src="/images/Vol-14-issue-4/creative-collectives/xz.JPG" style="width:80%;">
+<img src="/images/Vol-14-issue-4/creative-collectives/xz_topic.png" style="width:80%;">
 <hr>
