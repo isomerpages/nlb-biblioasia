@@ -103,7 +103,7 @@ Drawings discovered in a Belgian archive help fill gaps in the history of staine
 
 These fanged beasts are by turns both captivating as they are terrifying. Patricia Bjaaland Welch explores the tiger motif in the art and literature of Asia.
 
-<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="width:80%;">
+<img src="/images/Vol-12-issue-3/the-tiger-within/tiger_within_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/creative-collectives/">Creative Collectives: Abdul Ghani Abdul Hamid and His Contemporaries</a>
