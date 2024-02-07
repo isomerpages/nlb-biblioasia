@@ -41,8 +41,10 @@ Advertising art began playing a bigger role in the economy after several talente
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/malayan-fruits"> A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits</a> 
-<p>Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? </p>
-<img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg" style="width:80%;">
+
+Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits?
+
+<img src="/images/Vol-17-issue-1/malayan-fruits/malayan_fruits_topic.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles"> Stamford Raffles and the Two French Naturalists</a>
