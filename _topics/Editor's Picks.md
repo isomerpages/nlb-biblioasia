@@ -13,7 +13,7 @@ Thanks to land reclamation, the tiny red dot has broadened its shores substantia
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-1/apr-jun-2021/manvsnature/">Man vs Nature: Speculative Fiction and the Environment</a>
 Jacqueline Lee surveys the landscape of Singapore speculative fiction to see how writers address pressing environmental concerns in their novels and short stories.
 
-<img src="/images/Vol-17-issue-1/manvsnature/medusa.jpg">
+<img src="/images/Vol-17-issue-1/manvsnature/medusa_topics.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
