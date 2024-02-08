@@ -71,31 +71,45 @@ One postcard may not say much, but a collection of postcards can speak volumes.&
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/tan-swie-hian-coll/">Exploring an Artist’s Mind: The Tan Swie Hian Collection</a>
+
 What makes the difference between a good artist and a brilliant one?&nbsp;Goh Yu Mei&nbsp;delves into the books and artworks that have inspired a literary and artistic genius.
+
+<img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore1.JPG" style="width:80%;">
+
 <hr>
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/georgette-chen">Georgette Chen: Artist Extraordinaire</a>
+
 Sara Siew examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
 
-<img src="/images/Vol-15-issue-2/artist-extraordinaire/Artist1.JPG" style="width:80%; height:90%;">
+<img src="/images/Vol-15-issue-2/artist-extraordinaire/artist5_topic.png" style="width:80%; height:90%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/contemporary-art">Groundbreaking: The Origins of Contemporary Art in Singapore</a>
+
 1988 has been held as the watershed year in which Singapore’s contemporary art took root with the establishment of The Artists Village.&nbsp;Jeffrey Say&nbsp;debunks this view, asserting that the contemporary art movement began earlier.
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history">Windows into History</a>
-<p>Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. Yeo Kang Shua and Swati Chandgadkar reveal their findings.</p> 
-<img src="/images/Vol-12-issue-4/windows-into-history/4-windows_into_history.png" style="width:80%;">
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">The Tiger Within</a>
-<p>These fanged beasts are by turns both captivating as they are terrifying. Patricia Bjaaland Welch explores the tiger motif in the art and literature of Asia.</p> 
-<img src="/images/Vol-12-issue-3/the-tiger-within/01-tiger-within.jpg" style="width:80%;">
+<img src="/images/Vol-15-issue-2/origins-of-art-in-sg/groundbreaking1_topic.png" style="width:80%; height:90%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/creative-collectives/">Creative Collectives: Abdul Ghani Abdul Hamid and His Contemporaries</a>
 
 **Nadia Ramli**&nbsp;traces the history of the Malay art scene in early Singapore through a collection of art-related ephemera, catalogues and publications at the National Library. 
 
-<img src="/images/Vol-14-issue-4/creative-collectives/xz.JPG" style="width:80%;">
+<img src="/images/Vol-14-issue-4/creative-collectives/xz_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history">Windows into History</a>
+
+Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. Yeo Kang Shua and Swati Chandgadkar reveal their findings. 
+
+<img src="/images/Vol-12-issue-4/windows-into-history/4_windows_into_history_topic.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">The Tiger Within</a>
+
+These fanged beasts are by turns both captivating as they are terrifying. Patricia Bjaaland Welch explores the tiger motif in the art and literature of Asia.
+
+<img src="/images/Vol-12-issue-3/the-tiger-within/tiger_within_topic.png" style="width:80%;">
+<hr>
+

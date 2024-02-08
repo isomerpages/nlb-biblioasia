@@ -10,7 +10,7 @@ image: /images/Vol 20 Issue 1/Vietnam War/Image1.png
 #### Lured by the prospects of money and adventure, local performers braved the dangers of the Vietnam War to provide entertainment to American troops.
 By Boon Lai
 
-To most people in Singapore who lived through the period, the Vietnam War, which ended in 1975, is a distant memory, an event that largely did not touch their lives personally. While fierce fighting was taking place in the region, to many in Singapore at the time, the main face of the war was drunk soldiers on rest and recreation leave.
+The Vietnam War which ended in 1975 is a distant memory to most people in Singapore who lived through the period, an event that largely did not touch their lives personally. While fierce fighting was taking place in the region, to many in Singapore at the time, the main face of the war was drunk soldiers on rest and recreation leave.
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image1.png)
 <div style="background-color: white;"><i>Illustration by Boon Lai.</i></div>
@@ -45,7 +45,7 @@ Veronica flew to Saigon (Ho Chi Minh City today) with the Impian Bateks in 1969.
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image4.png)
 <div style="background-color: white;">Veronica Young and the Impian Bateks boarding the flight at Paya Lebar Airport to Vietnam, 1969. Harris Hamzah is on the extreme right. <i>Courtesy of Veronica Young.</i></div>
 
-A few days later, Veronica, the Impian Bateks, and two dancing girls (on occasion a Korean stripper would join them) started their tour. They went to American bases around then South Vietnam, such as Phu Bai, Phu Loi, Quang Tri, Chu Lai, Cam Ranh Bay, Da Nang. They travelled by road or air via army trucks, C130 planes CH-47 Chinooks and Huey helicopters, to and from the 10 major bases, to over 100 towns and military outposts throughout South Vietnam.
+A few days later, Veronica, the Impian Bateks, and two dancing girls (on occasion a Korean stripper would join them) started their tour. They went to American bases around then South Vietnam, such as Phu Bai, Phu Loi, Quang Tri, Chu Lai, Cam Ranh Bay, Da Nang. They travelled by road or air via army trucks, C130 planes, CH-47 Chinooks and Huey helicopters, to and from the 10 major bases, to over 100 towns and military outposts throughout South Vietnam.
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image7.png)
 <br>
@@ -93,7 +93,7 @@ Once considered the Pearl of the Orient, Saigon had developed the reputation of 
 
 Recounting chopper rides to remote outposts, Harris said that he sometimes had to sit on the sides of the choppers. “And the GIs, maybe drunk or high on drugs, would just shoot at anything they \[saw\].” Drug use was common among the GIs. “Maybe they were given drugs so that they \[could\] keep on fighting. It was everywhere. Like it was free." 
 
-Harris described playing in Vietnam as “very challenging”. During the monsoon season, it was get very wet and muddy. Behind trucks, on shaky stages, under tarpaulin canvases or parachutes – anything that could provide cover from the intense sun or rain – entertainers played on even with gunfights taking place nearby. They had to improvise. “Often we didn’t get to wash properly,” recalled Harris. “We wore the same clothes for days. They were stinking of dried sweat. We couldn’t always get clean water. I even bathed once using beer!”
+Harris described playing in Vietnam as “very challenging”. During the monsoon season, it would get very wet and muddy. Behind trucks, on shaky stages, under tarpaulin canvases or parachutes – anything that could provide cover from the intense sun or rain – entertainers played on even with gunfights taking place nearby. They had to improvise. “Often we didn’t get to wash properly,” recalled Harris. “We wore the same clothes for days. They were stinking of dried sweat. We couldn’t always get clean water. I even bathed once using beer!”
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image9_edit.png)
 <div style="background-color: white;">Setting up the stage at the back of an army truck, 1969. <i>Courtesy of Veronica Young.</i></div>
