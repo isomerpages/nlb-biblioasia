@@ -116,5 +116,5 @@ Listen to Yip Yew Chong talk about his work on the BiblioAsia+ podcast or watch 
 			
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai/.png">
-	<b>Jimmy Yap</b> is the Editor-in-Chief of <i>BiblioAsia</i>.</div>
+
+<b>Jimmy Yap</b> is the Editor-in-Chief of <i>BiblioAsia</i>.</div>
