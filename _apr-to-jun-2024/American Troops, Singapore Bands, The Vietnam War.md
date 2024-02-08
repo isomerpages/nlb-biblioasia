@@ -93,7 +93,7 @@ Once considered the Pearl of the Orient, Saigon had developed the reputation of 
 
 Recounting chopper rides to remote outposts, Harris said that he sometimes had to sit on the sides of the choppers. “And the GIs, maybe drunk or high on drugs, would just shoot at anything they \[saw\].” Drug use was common among the GIs. “Maybe they were given drugs so that they \[could\] keep on fighting. It was everywhere. Like it was free." 
 
-Harris described playing in Vietnam as “very challenging”. During the monsoon season, it was get very wet and muddy. Behind trucks, on shaky stages, under tarpaulin canvases or parachutes – anything that could provide cover from the intense sun or rain – entertainers played on even with gunfights taking place nearby. They had to improvise. “Often we didn’t get to wash properly,” recalled Harris. “We wore the same clothes for days. They were stinking of dried sweat. We couldn’t always get clean water. I even bathed once using beer!”
+Harris described playing in Vietnam as “very challenging”. During the monsoon season, it would get very wet and muddy. Behind trucks, on shaky stages, under tarpaulin canvases or parachutes – anything that could provide cover from the intense sun or rain – entertainers played on even with gunfights taking place nearby. They had to improvise. “Often we didn’t get to wash properly,” recalled Harris. “We wore the same clothes for days. They were stinking of dried sweat. We couldn’t always get clean water. I even bathed once using beer!”
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image9_edit.png)
 <div style="background-color: white;">Setting up the stage at the back of an army truck, 1969. <i>Courtesy of Veronica Young.</i></div>
