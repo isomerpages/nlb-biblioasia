@@ -16,6 +16,12 @@ Jacqueline Lee surveys the landscape of Singapore speculative fiction to see how
 <img src="/images/Vol-17-issue-1/manvsnature/medusa_topics.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague/">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
+The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work. 
+
+<img src="/images/Vol-16-issue-2/plague/drwulienteh_topic.png" style="width:80%;height:120%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
 Mazelan Anuar tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
 
@@ -34,8 +40,3 @@ Singapore’s film industry gets a reboot as it enters a new phase of its develo
 <img src="/images/vol-11-issue-1/revivalofsgcinema/bg4.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague/">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
-The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work. 
-
-<img src="/images/Vol-16-issue-2/plague/drwulienteh_topic.png" style="width:80%;height:120%;">
-<hr>
