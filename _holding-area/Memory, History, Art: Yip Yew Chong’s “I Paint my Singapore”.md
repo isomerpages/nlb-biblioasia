@@ -10,6 +10,11 @@ By Jimmy Yap
 
 As an artist, Yip Yew Chong made a name for himself painting outdoor murals in places such as Chinatown, Kampong Glam and Tiong Bahru. He would produce huge scenes – mostly with an historical bent – while perched on a ladder, regularly battling the elements. His most recent claim to fame, however, is a little different. While undoubtedly large – “I Paint my Singapore” is a 60-metre-long work – most of the painting was done indoors in the comfort of Yip’s studio. And while outdoor murals are a transient medium, exposed as they are to the merciless sun and the pelting rain, Yip’s latest painting is meant to last.&nbsp;
 
+
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image1-.png)
+<div style="background-color: white;">Yip Yew Chong pointing at the painting of his family in their shophouse on Sago Lane, 2023. <i>Photo by Woo Pei Qi. </i></div>
+
+
 The public’s response to “I Paint my Singapore” has been remarkable. So many people wanted to view the painting, which was exhibited at the foyer of the Raffles City Convention Centre, that the organisers had to do crowd control.
 
 #### **A Slice of the Past**
@@ -21,6 +26,10 @@ Well-known places and landmarks like the former Van Kleef Aquarium and Little In
 The atmosphere at the exhibition, where the work was displayed from 30 November 2023 to 1 February 2024, was more akin to a bazaar than an art gallery, especially in its closing days. But what was more interesting than the size of the crowd was what they were spotted doing. Rather than gazing pensively at each canvas, people could be seen animatedly discussing different scenes with their friends. Within intergenerational groups, you would often hear impromptu history lessons being conducted.&nbsp;
 
 Pointing to a boat filled with recruits en route to Pulau Tekong, a father in his 40s recounted to his young daughter what it was like being ferried on that craft. “When it rained, we all got wet,” he explained, noting the lack of shelter. (She did not seem impressed by the anecdote.) A middle-aged women pointed to a hill in Jurong and told her companions, “That’s where our church is.” People also shared their favourite scenes on social media.&nbsp;
+
+
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image1-.png)
+<div style="background-color: white;">Transporting recruits and military equipment to Pulau Tekong on a vessel known as a ramp-powered lighter. <i>Photo by Jimmy Yap. </i></div>
 
 Yip estimates that the people who came to view his work numbered in the tens of thousands. What was it about this particular work that drew so many people and that sparked off all these conversations?
 
