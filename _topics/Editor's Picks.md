@@ -19,7 +19,7 @@ Jacqueline Lee surveys the landscape of Singapore speculative fiction to see how
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
 Mazelan Anuar tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
 
-<img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting.png" style="width:80%;">
+<img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/">Claudius Henry Thomsen: A Pioneer in Malay Printing</a>
