@@ -60,6 +60,10 @@ In depicting the old Central Sikh Temple on Queen Street (the temple is now on T
 
 In another scene, Yip painted a wake being held in the void deck of a Housing and Development Board apartment block. Members of the funeral band are disembarking from the lorry that brought them to the wake. Nearby, a parking attendant in a straw hat is writing out a ticket. Around the corner, a man in grey is hurrying down the road in a desperate attempt to avoid a ticket.&nbsp;
 
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/voiddeck.jpg)
+<div style="background-color: white;">A wake being held in the void deck. <i>Photo by Jimmy Yap. </i></div>
+
+
 #### **A Penchant for the Past**
 
 Yip is the latest cultural worker to mine history to create art. Rachel Heng’s novel, _The Great Reclamation_, is another example of a recent work based on occurences or events that have actually happened in Singapore. While Yip pored over old photos, Heng devoured oral history transcripts from the archives and dived into old newspaper reports from NewspaperSG, an archive of old local newspapers that the National Library makes available to the public.&nbsp;
