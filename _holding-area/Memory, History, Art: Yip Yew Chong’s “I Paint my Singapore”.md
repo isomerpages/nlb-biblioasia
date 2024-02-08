@@ -24,8 +24,7 @@ Pointing to a boat filled with recruits en route to Pulau Tekong, a father in hi
 
 Yip estimates that the people who came to view his work numbered in the tens of thousands. What was it about this particular work that drew so many people and that sparked off all these conversations?
 
-Veteran diplomat Tommy Koh, who opened the exhibition on 29 November 2023, noted that Yip’s art was accessible and called Yip “the people’s artist”.  
-Koh said that the enormous work resonated with people because “it is such a monumental achievement and because the different panels remind people of the places they grew up in or have special memories for”.
+Veteran diplomat Tommy Koh, who opened the exhibition on 29 November 2023, noted that Yip’s art was accessible and called Yip “the people’s artist”. Koh said that the enormous work resonated with people because “it is such a monumental achievement and because the different panels remind people of the places they grew up in or have special memories for”.
 
 Yip agreed that familiarity was a big part of the appeal. In response to an emailed query, Yip said he believed that the painting struck a chord with people because “they can see themselves, their families, relatives and friends; their homes, where they’ve played, worked, studied, served NS etc. in the painting”.
 
