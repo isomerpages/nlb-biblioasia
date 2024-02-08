@@ -54,6 +54,10 @@ In addition to capturing scenes of a Singapore lost to time, what also adds char
 
 In depicting the old Central Sikh Temple on Queen Street (the temple is now on Towner Road), Yip painted a non-bearded Sikh serving food because the artist wanted to tell the story he had read about a Chinese man who had entered the faith. “He wanted to be a Sikh, wanted to embrace the religion, but he couldn’t grow a beard… but the Sikh community welcomed him so he just wore a turban and he served in the temple and the community.”
 
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SriKrishnan.jpg)
+<div style="background-color: white;">The Sri Krishnan Temple in the 1970s. <i>Photo by Jimmy Yap. </i></div>
+
+
 In another scene, Yip painted a wake being held in the void deck of a Housing and Development Board apartment block. Members of the funeral band are disembarking from the lorry that brought them to the wake. Nearby, a parking attendant in a straw hat is writing out a ticket. Around the corner, a man in grey is hurrying down the road in a desperate attempt to avoid a ticket.&nbsp;
 
 #### **A Penchant for the Past**
