@@ -80,6 +80,9 @@ In all fairness, it must be said that the good old days weren’t necessarily al
 
 Likewise, if you look at the scene of men unloading cargo off boats in the Singapore River, you can see that the river was filled with activity and human life. At the same time, the river itself was probably devoid of aquatic life, choked as it was with waste and effluent. The painting, of course, also fails to capture the appalling stench that the river was a byword for.
 
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SingaporeRiver.jpg)
+<div style="background-color: white;">Unloading goods from boats on the Singapore River in the 1970s. <i>Photo by Jimmy Yap. </i></div>
+
 At the time of writing, Yip has yet to find a buyer for his monumental work. He said he hoped to find someone, preferably a custodian or curator, who would be able to “conserve, re-exhibit and develop it further, such as into a multimedia experience that can travel around the world”. There are probably not many individuals or institutions with the ability and space to purchase and then exhibit a 60-metre-long painting. Yip, nonetheless, is hopeful that a buyer will eventually emerge. And indeed, if the black, fetid waters of the Singapore River can be transformed into an environment where fish thrive and even otters frolic, then just about anything is possible.
 
 
