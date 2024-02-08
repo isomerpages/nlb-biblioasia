@@ -33,6 +33,10 @@ Well-known places and landmarks like the former Van Kleef Aquarium and Little In
 
 The atmosphere at the exhibition, where the work was displayed from 30 November 2023 to 1 February 2024, was more akin to a bazaar than an art gallery, especially in its closing days. But what was more interesting than the size of the crowd was what they were spotted doing. Rather than gazing pensively at each canvas, people could be seen animatedly discussing different scenes with their friends. Within intergenerational groups, you would often hear impromptu history lessons being conducted.&nbsp;
 
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Ruralscene3.jpg)
+<div style="background-color: white;">Idyllic kampong life. <i>Photo by Jimmy Yap. </i></div>
+
+
 Pointing to a boat filled with recruits en route to Pulau Tekong, a father in his 40s recounted to his young daughter what it was like being ferried on that craft. “When it rained, we all got wet,” he explained, noting the lack of shelter. (She did not seem impressed by the anecdote.) A middle-aged women pointed to a hill in Jurong and told her companions, “That’s where our church is.” People also shared their favourite scenes on social media.&nbsp;
 
 
@@ -57,13 +61,16 @@ It was through his research in the archives that he discovered that the 150-year
 <div style="background-color: white;">The Sri Krishnan Temple undergoing extensive renovations, 1985–89. <i>Courtesy of National Archives of Singapore.</i></div>
 
 
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SriKrishnan.jpg)
+<div style="background-color: white;">The Sri Krishnan Temple in the 1970s. <i>Photo by Jimmy Yap. </i></div>
+
 
 In addition to capturing scenes of a Singapore lost to time, what also adds charm to Yip’s work is that each scene has mini stories embedded within them.
 
 In depicting the old Central Sikh Temple on Queen Street (the temple is now on Towner Road), Yip painted a non-bearded Sikh serving food because the artist wanted to tell the story he had read about a Chinese man who had entered the faith. “He wanted to be a Sikh, wanted to embrace the religion, but he couldn’t grow a beard… but the Sikh community welcomed him so he just wore a turban and he served in the temple and the community.”
 
-![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SriKrishnan.jpg)
-<div style="background-color: white;">The Sri Krishnan Temple in the 1970s. <i>Photo by Jimmy Yap. </i></div>
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Chineseman.jpg)
+<div style="background-color: white;">A Chinese convert to Sikhism serving food at the Central Sikh Temple. <i>Photo by Jimmy Yap. </i></div>
 
 
 In another scene, Yip painted a wake being held in the void deck of a Housing and Development Board apartment block. Members of the funeral band are disembarking from the lorry that brought them to the wake. Nearby, a parking attendant in a straw hat is writing out a ticket. Around the corner, a man in grey is hurrying down the road in a desperate attempt to avoid a ticket.&nbsp;
@@ -77,6 +84,10 @@ In another scene, Yip painted a wake being held in the void deck of a Housing an
 Yip is the latest cultural worker to mine history to create art. Rachel Heng’s novel, _The Great Reclamation_, is another example of a recent work based on occurences or events that have actually happened in Singapore. While Yip pored over old photos, Heng devoured oral history transcripts from the archives and dived into old newspaper reports from NewspaperSG, an archive of old local newspapers that the National Library makes available to the public.&nbsp;
 
 This interest in history is not just coming from artists and writers, but also from the general public as well. Over the years, there has been greater interest in both preserving and revisiting the past. This can be seen in the clamour to conserve old buildings as well as the mushrooming of groups on Facebook dedicated to sharing photos and memories of days (and places) gone by.&nbsp;
+
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/NationalLibrary.jpg)
+<div style="background-color: white;">The old National Library building on Stamford Road. <i>Photo by Jimmy Yap. </i></div>
+
 
 Even if this is only driven by a very human desire to revisit the “good old days”, that has value too. For individuals, nostalgia can help improve their mood as they reminisce about life back in the day. It can also be good for society. Nostalgia creates a sense of place, a feeling of connection, generates shared stories – these all help to knit a people together.&nbsp;
 
