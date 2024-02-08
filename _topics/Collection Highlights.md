@@ -4,6 +4,13 @@ permalink: /topics/collection-highlights/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/collection-highlights/2024/2/trishaws-cargo-tricycle-transport-singapore/">The Trishaws and Tricycles of Singapore: Selected Photos by Liesel Strauss</a>
+
+These photos by Liesel Strauss spotlight the humble trishaw and cargo tricycle and remind of us of how Singapore used to be not too long ago.
+  
+<img src="/images/Online%20Only%20Articles/Liesel_Trishaws/with_passenger.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/">A History of the Singapore Chin Woo (Athletic) Association</a>
 
 The Singapore Chin Woo (Athletic) Association donated its collection of photographs and materials to the National Library, Singapore, in 2023. Find out more about the history of one of Singapore’s oldest martial arts associations.
