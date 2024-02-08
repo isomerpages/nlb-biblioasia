@@ -45,6 +45,11 @@ In terms of research, a lot of time was spent online looking at photos of Singap
 
 It was through his research in the archives that he discovered that the 150-year-old Sri Krishnan Temple on Waterloo Street looked very different in the 1970s from how it does today. “Today, that temple is so elaborate and so colourful,” he said. “But in the 1970s, it was just a simple temple with a _gopuram_ \[pyramid-shaped tower\] on the roof and the statute of Sri Krishnan in the archway.” Thanks to his research, Yip was able to depict the temple accurately.&nbsp;
 
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SriKrishnanTemple.jpg)
+<div style="background-color: white;">The Sri Krishnan Temple undergoing extensive renovations, 1985–89. <i>Courtesy of National Archives of Singapore.</i></div>
+
+
+
 In addition to capturing scenes of a Singapore lost to time, what also adds charm to Yip’s work is that each scene has mini stories embedded within them.
 
 In depicting the old Central Sikh Temple on Queen Street (the temple is now on Towner Road), Yip painted a non-bearded Sikh serving food because the artist wanted to tell the story he had read about a Chinese man who had entered the faith. “He wanted to be a Sikh, wanted to embrace the religion, but he couldn’t grow a beard… but the Sikh community welcomed him so he just wore a turban and he served in the temple and the community.”
