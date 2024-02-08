@@ -11,7 +11,7 @@ By Jimmy Yap
 As an artist, Yip Yew Chong made a name for himself painting outdoor murals in places such as Chinatown, Kampong Glam and Tiong Bahru. He would produce huge scenes – mostly with an historical bent – while perched on a ladder, regularly battling the elements. His most recent claim to fame, however, is a little different. While undoubtedly large – “I Paint my Singapore” is a 60-metre-long work – most of the painting was done indoors in the comfort of Yip’s studio. And while outdoor murals are a transient medium, exposed as they are to the merciless sun and the pelting rain, Yip’s latest painting is meant to last.&nbsp;
 
 
-![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image1-.png)
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/YipYewChong.jpg)
 <div style="background-color: white;">Yip Yew Chong pointing at the painting of his family in their shophouse on Sago Lane, 2023. <i>Photo by Woo Pei Qi. </i></div>
 
 
@@ -28,7 +28,7 @@ The atmosphere at the exhibition, where the work was displayed from 30 November 
 Pointing to a boat filled with recruits en route to Pulau Tekong, a father in his 40s recounted to his young daughter what it was like being ferried on that craft. “When it rained, we all got wet,” he explained, noting the lack of shelter. (She did not seem impressed by the anecdote.) A middle-aged women pointed to a hill in Jurong and told her companions, “That’s where our church is.” People also shared their favourite scenes on social media.&nbsp;
 
 
-![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image1-.png)
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/BoatToTekong1.jpg)
 <div style="background-color: white;">Transporting recruits and military equipment to Pulau Tekong on a vessel known as a ramp-powered lighter. <i>Photo by Jimmy Yap. </i></div>
 
 Yip estimates that the people who came to view his work numbered in the tens of thousands. What was it about this particular work that drew so many people and that sparked off all these conversations?
