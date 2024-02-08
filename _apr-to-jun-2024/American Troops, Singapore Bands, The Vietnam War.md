@@ -45,7 +45,7 @@ Veronica flew to Saigon (Ho Chi Minh City today) with the Impian Bateks in 1969.
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image4.png)
 <div style="background-color: white;">Veronica Young and the Impian Bateks boarding the flight at Paya Lebar Airport to Vietnam, 1969. Harris Hamzah is on the extreme right. <i>Courtesy of Veronica Young.</i></div>
 
-A few days later, Veronica, the Impian Bateks, and two dancing girls (on occasion a Korean stripper would join them) started their tour. They went to American bases around then South Vietnam, such as Phu Bai, Phu Loi, Quang Tri, Chu Lai, Cam Ranh Bay, Da Nang. They travelled by road or air via army trucks, C130 planes CH-47 Chinooks and Huey helicopters, to and from the 10 major bases, to over 100 towns and military outposts throughout South Vietnam.
+A few days later, Veronica, the Impian Bateks, and two dancing girls (on occasion a Korean stripper would join them) started their tour. They went to American bases around then South Vietnam, such as Phu Bai, Phu Loi, Quang Tri, Chu Lai, Cam Ranh Bay, Da Nang. They travelled by road or air via army trucks, C130 planes, CH-47 Chinooks and Huey helicopters, to and from the 10 major bases, to over 100 towns and military outposts throughout South Vietnam.
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image7.png)
 <br>
