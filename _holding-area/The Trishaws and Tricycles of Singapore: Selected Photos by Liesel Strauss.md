@@ -44,9 +44,9 @@ These photos make up just a small handful of pictures of Singapore that Liesel t
 	<b>Liesel Strauss lives in Germany and is a nurse by training. She came to Singapore in 1992 when her husband, Werner, a Lutheran pastor, was offered the position of Port Chaplain by the Lutheran Church of Singapore. During her time here, Liesel was an active member of Friends of the Museum, an avid docent, and volunteer for the elderly.<br><br>
 Between 2020-22 she donated more than 3,900 photos and slides of heritage districts, places of interest, places of worship, festivals and street scenes of Singapore to the National Library Board. Her images capture the richness of life in Singapore in the 1990s and 2000s and feature traditional businesses, industries and itinerant trades as well as places and streets that today are rare sights or no longer exist.<br><br>
    Materials from the Liesel Strauss Collection at Level 11 of the Lee Kong Chian Reference Library can be found by searching “Liesel Strauss” on the <a href="https://catalogue.nlb.gov.sg/">NLB catalogue</a> or viewed at <a href="https://www.nlb.gov.sg/main/onesearch/result?type=image&amp;page=1&amp;collection=Liesel+Strauss+Collection&amp;nlonline=true">NL Online</a>.<br>
-	</b></div></b></div><b>
+</b></div></b></div><b><b>
 	
 #### **Notes**
 
 [^1]: Liesel Strauss, "<a href="https://catalogue.nlb.gov.sg/search/card?recordId=206040150">Local Food Industries, Defu Lane</a>, Singapore, 2002.” \[photographs\]. Call no. RCLOS 338.47664095957 STR (From National Library, Singapore)
-</b>
+</b></b>
