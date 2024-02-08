@@ -23,6 +23,10 @@ Yip’s latest work captures Singapore as it was in the 1970s and 1980s. The wor
 
 Well-known places and landmarks like the former Van Kleef Aquarium and Little India feature in this painting. But Yip also painted more quotidian scenes – of everyday life in housing estates and outlying areas of Singapore. These have probably had greater resonance with Singaporeans.
 
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/VanKleefAquarium.jpg)
+<div style="background-color: white;">The Van Kleef Aquarium used to be along River Valley Road, at the foot of Fort Canning Hill. It closed in 1996 and the building was demolished in 1998. <i>Photo by Jimmy Yap. </i></div>
+
+
 The atmosphere at the exhibition, where the work was displayed from 30 November 2023 to 1 February 2024, was more akin to a bazaar than an art gallery, especially in its closing days. But what was more interesting than the size of the crowd was what they were spotted doing. Rather than gazing pensively at each canvas, people could be seen animatedly discussing different scenes with their friends. Within intergenerational groups, you would often hear impromptu history lessons being conducted.&nbsp;
 
 Pointing to a boat filled with recruits en route to Pulau Tekong, a father in his 40s recounted to his young daughter what it was like being ferried on that craft. “When it rained, we all got wet,” he explained, noting the lack of shelter. (She did not seem impressed by the anecdote.) A middle-aged women pointed to a hill in Jurong and told her companions, “That’s where our church is.” People also shared their favourite scenes on social media.&nbsp;
