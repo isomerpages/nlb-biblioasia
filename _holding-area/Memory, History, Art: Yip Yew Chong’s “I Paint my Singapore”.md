@@ -49,6 +49,10 @@ Veteran diplomat Tommy Koh, who opened the exhibition on 29 November 2023, noted
 
 Yip agreed that familiarity was a big part of the appeal. In response to an emailed query, Yip said he believed that the painting struck a chord with people because “they can see themselves, their families, relatives and friends; their homes, where they’ve played, worked, studied, served NS etc. in the painting”.
 
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Chinatown1a.jpg)
+<div style="background-color: white;">A market in Chinatown. <i>Photo by Jimmy Yap. </i></div>
+
+
 The 54-year-old artist said that he chose to paint scenes of Singapore of the 1970s and 1980s because the period was personally significant to him. “The decades are my growing-up years as a child and as a youth, and I have fond memories \[of that time\].”&nbsp;
 
 Because everything has changed so much in the ensuing decades, Yip had to rely on his memory, supplemented by extensive research, to paint each scene. In a BiblioAsia+ podcast, Yip said he had spent more time thinking about the work and researching it than actually painting it.&nbsp;
