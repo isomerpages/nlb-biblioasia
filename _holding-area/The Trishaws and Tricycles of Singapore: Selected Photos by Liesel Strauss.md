@@ -48,5 +48,5 @@ Between 2020-22 she donated more than 3,900 photos and slides of heritage distri
 	
 #### **Notes**
 
-	[^1]: Liesel Strauss, “[Local Food Industries, Defu Lane](https://catalogue.nlb.gov.sg/search/card?recordId=206040150), Singapore, 2002.” \[photographs\]. Call no. RCLOS 338.47664095957 STR (From National Library, Singapore)
+	[^1]: Liesel Strauss, "<a href="https://catalogue.nlb.gov.sg/search/card?recordId=206040150">Local Food Industries, Defu Lane</a>, Singapore, 2002.” \[photographs\]. Call no. RCLOS 338.47664095957 STR (From National Library, Singapore)
 </b></b>
