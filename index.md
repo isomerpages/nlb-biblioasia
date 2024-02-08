@@ -828,4 +828,15 @@ sections:
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
       image: /images/Vol 19 Issue 1/Tennis/image1-edit.png
       alt: Tennis
+  - infopic:
+      title: The Trishaws and Tricycles of Singapore By Liesel Strauss
+      subtitle: Collection Highlights
+      id: infopic
+      description: These photos by Liesel Strauss spotlight the humble trishaw and
+        cargo tricycle and remind of us of how Singapore used to be not too long
+        ago.
+      button: Transport by three wheels
+      url: /collection-highlights/2024/2/trishaws-cargo-tricycle-transport-singapore/
+      image: /images/Online Only Articles/Liesel_Trishaws/with_passenger.png
+      alt: Transport by three wheels
 ---
