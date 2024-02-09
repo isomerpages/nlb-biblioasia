@@ -22,7 +22,7 @@ In the months leading up to the Speedway’s debut, another Australian came on b
 
 #### **Speedway Construction**
 
-Construction of the Speedway started in February 1930 and was reported to have cost $40,000. It was spread out over 11.5 acres with an initial planned capacity of 5,000 spectators. The racetrack was 440 yards (402 m) long and 8 inches (20 cm) thick. According to the _Singapore Free Press and Mercantile Advertiser_, the track comprised “a mixture of sand, cinders, decomposed granite, loam soil and screen \[granite powder\] and saturated with water, rendering it completely dustless”.[^6]
+Construction of the Speedway started in February 1930 and was reported to have cost $40,000. It was spread out over 11.5 acres (about with an initial planned capacity of 5,000 spectators. The racetrack was 440 yards (402 m) long and 8 inches (20 cm) thick. According to the _Singapore Free Press and Mercantile Advertiser_, the track comprised “a mixture of sand, cinders, decomposed granite, loam soil and screen \[granite powder\] and saturated with water, rendering it completely dustless”.[^6]
 
 The Speedway was designed by Keys and Dowdeswell, a well-known architectural firm in Singapore that had worked on Capitol Building and Capitol Theatre (both circa 1930). Founding partners Percy Hubert Keys and Frank Dowdeswell had been in government service when they designed the Fullerton Building in the late 1920s (now known as the Fullerton Hotel).
 
