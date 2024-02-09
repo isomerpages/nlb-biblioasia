@@ -43,7 +43,7 @@ Here we see a succession of terms (in bold) that would surely baffle the non-loc
 
   <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/2008_01220.jpg" style="width: 75%;">
 
-<div style="background-color: white;">Cover of《新加坡屋顶下》(<i>Xinjiapo Wuding Xia</i>; <i>Under Singapore's Roof</i>) by Miao Xiu (1951). (From National Library, Singapore, call no. Chinese C813.4 MX).</div>
+<div style="background-color: white;">Cover of《新加坡屋顶下》(<i>Xinjiapo Wuding Xia</i>; <i>Under Singapore's Roof</i>) by Miao Xiu (1951). (<i>From National Library, Singapore, call no. Chinese C813.4 MX</i>).</div>
 
 On occasion, Cantonese and Hokkien were mixed within a single utterance. Miao Xiu’s book also features scenes where characters use different dialects in alternation, for example, when one person speaks in Cantonese and the other responds in Hokkien. This technique of code-switching creates a complex weave of different voices on the page, even though it also leads to a contrived linguistic style peculiar to the written form.<br>
 
