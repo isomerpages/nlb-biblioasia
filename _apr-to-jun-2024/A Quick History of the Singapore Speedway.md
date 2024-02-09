@@ -54,7 +54,7 @@ Five days before the grand opening, the _Malaya Tribune_ carried a three-page st
 
 #### **Race Highlights**
 
-The inaugural race day was on the eve of Easter Sunday, 19 April 1930. Ticket prices ranged from 20 cents to $2.50. The $2.50 seats were in a special section with reserved seating. Grandstand tickets were priced at $2, followed by first-class tickets at $1, second-class at 50 cents and third-class at 20 cents. A large crowd turned up that day, including a number of cars from “up-country”, indicating that people had driven all the way from the Malay Peninsula to watch the races.[^14] Encouraged by the turn out, organisers added another 5,000 seats in the $1 and 50-cent sections ahead of the second race on 26 April.
+The inaugural race day was on the eve of Easter Sunday, 19 April 1930. Ticket prices ranged from 20 cents to $2.50 (the <i>Straits Times</i> cost 10 cents at the time). The $2.50 seats were in a special section with reserved seating. Grandstand tickets were priced at $2, followed by first-class tickets at $1, second-class at 50 cents and third-class at 20 cents. A large crowd turned up that day, including a number of cars from “up-country”, indicating that people had driven all the way from the Malay Peninsula to watch the races.[^14] Encouraged by the turn out, organisers added another 5,000 seats in the $1 and 50-cent sections ahead of the second race on 26 April.
 
 Inclement weather saw the postponement of the third race from Saturday 3 May 1930 to Wednesday 7 May 1930. Besides the main events, there was a novelty 400-metre rickshaw race that took the winner 1 minute 44 seconds to complete.[^15]
 

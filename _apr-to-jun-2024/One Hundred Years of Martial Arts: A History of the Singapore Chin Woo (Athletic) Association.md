@@ -88,7 +88,7 @@ Today, the Singapore Chin Woo (Athletic) Association is one of the oldest Chines
 ![](/images/Vol%2020%20Issue%201/Chin%20Woo/newimage4.png)
 <div style="background-color: white;">A performance of Peking opera, <i>Wu Song Da Hu</i> (武松打虎), c. 1960s. <i>Donated by Singapore Chin Woo (Athletic) Association. Collection of the National Library, Singapore.</i></div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The digital items donated by the Singapore Chin Woo (Athletic) Association can be accessed via National Library Online (https://www.nlb.gov.sg/main/nlonline) in due course. Those interested in viewing the physical items can also check to see if the items are available on the NLB website.</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The Singapore Chin Woo (Athletic) Association collection will be made available at the National Library and online in due course. Find more materials in the collection from our (<a href="https://search.nlb.gov.sg/onesearch/">catalogue</a>) and (<a href="https://www.nlb.gov.sg/main/nlonline">website</a>).</div>
 
 <div style="background-color: white;">
 <br>
