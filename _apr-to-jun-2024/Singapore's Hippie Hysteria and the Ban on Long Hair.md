@@ -7,7 +7,7 @@ description: Hippie culture was seen as a risk to Singaporean society in the
   campaign against men with long hair.
 image: /images/Vol 20 Issue 1/Hippie Hysteria/Image1.png
 ---
-#### Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair. 
+:#### Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair. 
 By Andrea Kee
 
 In an interview in September 1970, just five years after Singapore became independent, Prime Minister Lee Kuan Yew was asked about the problems Singapore had to resolve in the near future. Unsurprisingly, he identified economic viability as the first task that the young nation had to address. What was surprising, however, was what he identified as the next most pressing problem facing Singapore.
@@ -204,4 +204,6 @@ Looking back, it might seem odd that the government would want to regulate men�
 [^37]: Lee Siew Hua, “[Less Ado About Men With Long Hair](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860309-1.2.21.9),” _Straits Times_, 9 March 1986, 12. (From NewspaperSG)
 
 [^38]: Siti Rohanah Koid, “[Yeah! Yeah! Yeah!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19930526-1.2.17),” _The New Paper_, 26 May 1993, 10. (From NewspaperSG)
+
+[^39]: "[Sorting the Shaggy Sheep from the Hippie Goats](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720131-1.2.50.1)," <i>New Nation</i>, 31 January 1972. 9. (From NewspaperSG)
 
