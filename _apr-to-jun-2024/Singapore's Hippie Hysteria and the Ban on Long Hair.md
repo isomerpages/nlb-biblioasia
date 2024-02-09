@@ -205,5 +205,5 @@ Looking back, it might seem odd that the government would want to regulate men�
 
 [^38]: Siti Rohanah Koid, “[Yeah! Yeah! Yeah!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19930526-1.2.17),” _The New Paper_, 26 May 1993, 10. (From NewspaperSG)
 
-[^39]: "[Sorting the Shaggy Sheep from the Hippie Goats](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720131-1.2.50.1)," <i>New Nation</i>, 31 January 1972. 9. (From NewspaperSG)
+[^39]: "[Sorting the Shaggy Sheep from the Hippie Goats](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720131-1.2.50.1)," <i>New Nation</i>, 31 January 1972, 9. (From NewspaperSG)
 
