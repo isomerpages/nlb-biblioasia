@@ -140,7 +140,7 @@ If you want to contribute something regarding youth culture or food, you may sub
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">The National Library would like to thank all contributors to the initiative. Unfortunately, due to the large number of contributors, we are unable to mention everyone in this article.
 </div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">Find photographs contributed by the public on National Library Online ([https://www.nlb.gov.sg/main/nlonline](https://www.nlb.gov.sg/main/nlonline)).</div>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">Find photographs contributed by the public on <a href="https://www.nlb.gov.sg/main/nlonline">National Library Online</a>.</div>
 
 <div style="background-color: white;">
 <br>
