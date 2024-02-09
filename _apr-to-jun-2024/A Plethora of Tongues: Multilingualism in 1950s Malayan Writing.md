@@ -25,7 +25,7 @@ Twenty-five articles were exchanged in this debate, including a number by a mino
 
 It is within this context that an interesting linguistic phenomenon emerged among a new generation of Malayan Chinese writers in the 1950s. This was namely the representation of Chinese dialects and, to a lesser extent, colloquial Malay (also known as Bazaar Malay) in fictional works composed in standard written Chinese. Miao Xiu (1920–80) was one of the most prolific writers in this period who used this technique. 
 
-Born in Singapore, Miao Xiu contributed an article to the _Sin Chew Jit Poh_ on 28 February 1948 under the pseudonym Wen Renjun, where he clearly expressed his support for the Malayan-Chinese Literature School.[^7] Hence, his writing unsurprisingly features Chinese dialects and colloquial expressions (including vulgarities) as the use of place-based language is one of the principal means through which the locale-specificity of Malayan Chinese literature can be manifested.
+Born in Singapore, Miao Xiu (under the pseudonym Wen Renjun) clearly expressed support for the Malayan-Chinese Literature School in an article he contributed to the _Sin Chew Jit Poh_ on 28 February 1948.[^7] Hence, his writing unsurprisingly features Chinese dialects and colloquial expressions (including vulgarities) as the use of place-based language is one of the principal means through which the locale-specificity of Malayan Chinese literature can be manifested.
 
   <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/pg270_aug11005_crop_edited.jpg" style="width: 95%;">
 
@@ -43,7 +43,7 @@ Here we see a succession of terms (in bold) that would surely baffle the non-loc
 
   <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/2008_01220.jpg" style="width: 75%;">
 
-<div style="background-color: white;">Cover of《新加坡屋顶下》(<i>Xinjiapo Wuding Xia</i>; <i>Under Singapore's Roof</i>) by Miao Xiu (1951). <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;">Cover of《新加坡屋顶下》(<i>Xinjiapo Wuding Xia</i>; <i>Under Singapore's Roof</i>) by Miao Xiu (1951). (From National Library, Singapore, call no. Chinese C813.4 MX)</div>
 
 On occasion, Cantonese and Hokkien were mixed within a single utterance. Miao Xiu’s book also features scenes where characters use different dialects in alternation, for example, when one person speaks in Cantonese and the other responds in Hokkien. This technique of code-switching creates a complex weave of different voices on the page, even though it also leads to a contrived linguistic style peculiar to the written form.<br>
 
