@@ -15,7 +15,7 @@ The Japanese Occupation of Singapore that began in February 1942 and ended in Se
 The demand for certain photographic services resumed. Some of the prewar photo studios that had serviced people wanting to mark significant events in their lives were able to reopen their businesses. It was not business as usual though. The studios had a significant new clientele, which were the military personnel and residents connected to the Japanese administration. The studios also had to be creative, as items like film were in short supply.&nbsp;
 
 ![](/images/Vol%2019%20Issue%204/Photo%20Studios/NorthBridge.jpg)
-<div style="background-color: white;">After the Japanese surrender, David Ng Shin Chongrented a small space in a shop on North Bridge Road and established David Photo, 1945. <i>David Ng Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">After the Japanese surrender, David Ng Shin Chong rented a small space in a shop on North Bridge Road and established David Photo, 1945. <i>David Ng Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Chinese Photo Studios**
 
