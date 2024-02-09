@@ -69,8 +69,6 @@ One of the “victims” stopped at the Woodlands checkpoint was Malaysian busin
 
 Singaporean males with long hair were permitted entry, but they had to surrender their passports and could only collect them at the Immigration Headquarters the following day after getting their hair trimmed. While travellers were inconvenienced, barbers like M. Kandasamy near the checkpoint enjoyed a boom. “In my 20 years as a barber, I have never had such business. I closed shop at 10.30 pm yesterday instead of 8 pm as usual,” he said. Kandasamy also charged 30 cents more per cut instead of the usual $1.20.[^23]
 
-Speaking in January 1972, Foreign Minister S. Rajaratnam emphasised that the campaign against long hair was not an effort to “dictate hair styles and sartorial styles” but rather to eradicate hippieism. “If length of hair was simply a question of tonsorial style then there would have been no occasion for the government to intervene,” he said. “But unfortunately, long hair has been adopted by the hippies as a badge of their brotherhood. \[…\] By attacking and down grading one of the symbols to which hippies attach great importance we would be deterring many innocent young people who are just being fashionable from being drawn into what is basically an obscene and pernicious lifestyle.”[^24]
-
 Musicians, who typically wore their hair long, bore the brunt of the campaign. The police visited nightclubs to advise long-haired musicians to trim their hair. While local musicians were willing to toe the line, some foreign performers were not as amenable, and cancelled their shows or stopped signing contracts with Singapore’s hotels and nightclubs altogether.[^25]
 
 ![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image4.png)
