@@ -22,7 +22,7 @@ The public’s response to “I Paint my Singapore” has been remarkable. So ma
 
 Yip’s latest work captures Singapore as it was in the 1970s and 1980s. The work (acrylic on canvas) consists of 27 panels (about the length of five double-decker buses lined up) that form a continuous scene, like a panorama, but one that switches perspective from one canvas to the next, from street scene to bird’s-eye view. Another interesting aspect is that Yip has removed the facade of some of the buildings so that people can see what’s happening inside, a little like X-ray vision.&nbsp;
 
-![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/HDBinterior.jpg)
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/HDBinterior2.jpg)
 <div style="background-color: white;">Looking inside Housing and Development Board flat. <i>Photo by Jimmy Yap. </i></div>
 
 
@@ -41,7 +41,7 @@ The atmosphere at the exhibition, where the work was displayed from 30 November 
 Pointing to a boat filled with recruits en route to Pulau Tekong, a father in his 40s recounted to his young daughter what it was like being ferried on that craft. “When it rained, we all got wet,” he explained, noting the lack of shelter. (She did not seem impressed by the anecdote.) A middle-aged women pointed to a hill in Jurong and told her companions, “That’s where our church is.” People also shared their favourite scenes on social media.&nbsp;
 
 
-![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/BoatToTekong1.jpg)
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/BoatToTekong3.jpg)
 <div style="background-color: white;">Transporting recruits and military equipment to Pulau Tekong on a vessel known as a ramp-powered lighter. <i>Photo by Jimmy Yap. </i></div>
 
 Yip estimates that the people who came to view his work numbered in the tens of thousands. What was it about this particular work that drew so many people and that sparked off all these conversations?
@@ -50,7 +50,7 @@ Veteran diplomat Tommy Koh, who opened the exhibition on 29 November 2023, noted
 
 Yip agreed that familiarity was a big part of the appeal. In response to an emailed query, Yip said he believed that the painting struck a chord with people because “they can see themselves, their families, relatives and friends; their homes, where they’ve played, worked, studied, served NS etc. in the painting”.
 
-![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Chinatown1a.jpg)
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Chinatown1b.jpg)
 <div style="background-color: white;">A market in Chinatown. <i>Photo by Jimmy Yap. </i></div>
 
 
@@ -62,12 +62,12 @@ In terms of research, a lot of time was spent online looking at photos of Singap
 
 It was through his research in the archives that he discovered that the 150-year-old Sri Krishnan Temple on Waterloo Street looked very different in the 1970s from how it does today. “Today, that temple is so elaborate and so colourful,” he said. “But in the 1970s, it was just a simple temple with a _gopuram_ \[pyramid-shaped tower\] on the roof and the statute of Sri Krishnan in the archway.” Thanks to his research, Yip was able to depict the temple accurately.&nbsp;
 
+
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SriKrishnan2.jpg)
+<div style="background-color: white;">The Sri Krishnan Temple in the 1970s. <i>Photo by Jimmy Yap. </i></div>
+
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SriKrishnanTemple.jpg)
 <div style="background-color: white;">The Sri Krishnan Temple undergoing extensive renovations, 1985–89. <i>Courtesy of National Archives of Singapore.</i></div>
-
-
-![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SriKrishnan.jpg)
-<div style="background-color: white;">The Sri Krishnan Temple in the 1970s. <i>Photo by Jimmy Yap. </i></div>
 
 
 In addition to capturing scenes of a Singapore lost to time, what also adds charm to Yip’s work is that each scene has mini stories embedded within them.
