@@ -113,8 +113,8 @@ At the time of writing, Yip has yet to find a buyer for his monumental work. He 
 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-Listen to Yip Yew Chong talk about his work on the BiblioAsia+ podcast or watch him on BiblioAsia Reels on YouTube. His book,  
-<i>I Paint my Singapore: Familiar Scenes of Home</i> (Landmark Books, 2023), reproduces all the 27 scenes that make up the full painting. Another book, <i>Art of Joy: The Journey of Yip Yew Chong</i> (World Scientific, 2024), discusses how Yip became an artist. Both books are available for purchase at bookstores. <i>I Paint my Singapore</i> can be reserved via PublicationSG, while <i>Art of Joy</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos. RSING 759.95957 WOO and SING 759.95957 WOO).</div>
+Listen to Yip Yew Chong talk about his work on the <a href="https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/">BiblioAsia+ podcast</a> or watch him on BiblioAsia Reels on YouTube. His book,  
+<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300013604"><i>I Paint my Singapore: Familiar Scenes of Home</i></a> (Landmark Books, 2023), reproduces all the 27 scenes that make up the full painting. Another book, <a href="https://catalogue.nlb.gov.sg/search/card?recordId=300003267"><i>Art of Joy: The Journey of Yip Yew Chong</i></a> (World Scientific, 2024), discusses how Yip became an artist. Both books are available for purchase at bookstores. <i>I Paint my Singapore</i> can be reserved via PublicationSG, while <i>Art of Joy</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos. RSING 759.95957 WOO and SING 759.95957 WOO).</div>
 			
 <div style="background-color: white;">
 <br>
