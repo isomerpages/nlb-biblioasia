@@ -88,7 +88,7 @@ In another scene, Yip painted a wake being held in the void deck of a Housing an
 
 #### **A Penchant for the Past**
 
-Yip is the latest cultural worker to mine history to create art. Rachel Heng’s novel, _The Great Reclamation_, is another example of a recent work based on occurences or events that have actually happened in Singapore. While Yip pored over old photos, Heng devoured oral history transcripts from the archives and dived into old newspaper reports from NewspaperSG, an archive of old local newspapers that the National Library makes available to the public.&nbsp;
+Yip is the latest cultural worker to mine history to create art. Rachel Heng’s novel, [_The Great Reclamation_](https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/), is another example of a recent work based on occurences or events that have actually happened in Singapore. While Yip pored over old photos, Heng devoured oral history transcripts from the archives and dived into old newspaper reports from NewspaperSG, an archive of old local newspapers that the National Library makes available to the public.&nbsp;
 
 This interest in history is not just coming from artists and writers, but also from the general public as well. Over the years, there has been greater interest in both preserving and revisiting the past. This can be seen in the clamour to conserve old buildings as well as the mushrooming of groups on Facebook dedicated to sharing photos and memories of days (and places) gone by.&nbsp;
 
