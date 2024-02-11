@@ -74,8 +74,8 @@ In addition to capturing scenes of a Singapore lost to time, what also adds char
 
 In depicting the old Central Sikh Temple on Queen Street (the temple is now on Towner Road), Yip painted a non-bearded Sikh serving food because the artist wanted to tell the story he had read about a Chinese man who had entered the faith. “He wanted to be a Sikh, wanted to embrace the religion, but he couldn’t grow a beard… but the Sikh community welcomed him so he just wore a turban and he served in the temple and the community.”
 
-![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Chineseman.jpg)
-<div style="background-color: white;">A Chinese convert to Sikhism serving food at the Central Sikh Temple. <i>Photo by Jimmy Yap. </i></div>
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Chineseman2.jpg)
+<div style="background-color: white;">A Chinese convert to Sikhism (in orange turban) serving food at the Central Sikh Temple. <i>Photo by Jimmy Yap. </i></div>
 
 
 In another scene, Yip painted a wake being held in the void deck of a Housing and Development Board apartment block. Members of the funeral band are disembarking from the lorry that brought them to the wake. Nearby, a parking attendant in a straw hat is writing out a ticket. Around the corner, a man in grey is hurrying down the road in a desperate attempt to avoid a ticket.&nbsp;
@@ -98,13 +98,13 @@ Even if this is only driven by a very human desire to revisit the “good old da
 
 In all fairness, it must be said that the good old days weren’t necessarily always that good. In the BiblioAsia+ podcast, Yip recalled how, at one point, there were as many as five different families living on the same floor of the tiny shophouse on Sago Lane that his family had rented. While he recalled that memory fondly, it is unlikely that many people would want to return to a Singapore where that was common.
 
-![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/YipYewChongshouse.jpg)
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/YipYewChongshouse2.jpg)
 <div style="background-color: white;">Yip Yew Chong (boy in blue shorts) and his family in their shophouse on Sago Lane watching a Cantonese opera performance. <i>Photo by Jimmy Yap. </i></div>
 
 
 Likewise, if you look at the scene of men unloading cargo off boats in the Singapore River, you can see that the river was filled with activity and human life. At the same time, the river itself was probably devoid of aquatic life, choked as it was with waste and effluent. The painting, of course, also fails to capture the appalling stench that the river was a byword for.
 
-![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SingaporeRiver.jpg)
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SingaporeRiver2.jpg)
 <div style="background-color: white;">Unloading goods from boats on the Singapore River in the 1970s. <i>Photo by Jimmy Yap. </i></div>
 
 At the time of writing, Yip has yet to find a buyer for his monumental work. He said he hoped to find someone, preferably a custodian or curator, who would be able to “conserve, re-exhibit and develop it further, such as into a multimedia experience that can travel around the world”. There are probably not many individuals or institutions with the ability and space to purchase and then exhibit a 60-metre-long painting. Yip, nonetheless, is hopeful that a buyer will eventually emerge. And indeed, if the black, fetid waters of the Singapore River can be transformed into an environment where fish thrive and even otters frolic, then just about anything is possible.
