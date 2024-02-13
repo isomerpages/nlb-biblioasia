@@ -36,7 +36,7 @@ Three large murals used to grace the walls of Paya Lebar Airport. **Dahlia Shams
 
 Advertising art began playing a bigger role in the economy after several talented graphic artists moved from China to Singapore from the 1920s onwards. Lee Chor Lin highlights their works. 
 
-<img src="/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg" style="width:80%;"> 
+<img src="/images/vol-17-issue-2/chinesegraphic/ChineseGraphic_Main.jpg" style="width:80%;height:80%;"> 
 
 <hr>
 
@@ -112,4 +112,3 @@ These fanged beasts are by turns both captivating as they are terrifying. Patric
 
 <img src="/images/Vol-12-issue-3/the-tiger-within/tiger_within_topic.png" style="width:80%;">
 <hr>
-
