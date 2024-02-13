@@ -472,7 +472,7 @@ sections:
         to the sport.
       button: Uncle Choo, the Legend
       url: /vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/
-      image: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/uncle choo gets award.jpg
+      image: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/choo_award_homepage.png
       alt: Image alt text
   - infopic:
       title: "Lest We Forget: Kranji War Cemetery"
