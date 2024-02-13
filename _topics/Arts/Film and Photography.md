@@ -26,7 +26,7 @@ Money No Enough, Forever Fever and The Teenage Textbook Movie kickstarted a new 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/">Repairing and Restoring Singapore’s Reel Heritage</a>
 The Asian Film Archive has been restoring old classics since 2014.
 
-<img src="/images/Vol%2018%20Issue%204/Asian%20Film/image14.png" style="width:80%;">  
+<img src="/images/Vol%2018%20Issue%204/Asian%20Film/ramli_topic.png" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a>
