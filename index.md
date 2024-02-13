@@ -510,7 +510,7 @@ sections:
         with over 10,000 local recordings made before 1960.
       button: Listen to BiblioAsia+
       url: /podcast/recording-industry/
-      image: /images/Podcast/ross ep10.jpg
+      image: /images/Podcast/Ross.jpg
       alt: Recording Industry
   - infopic:
       title: A Grand Piano's Chequered History
