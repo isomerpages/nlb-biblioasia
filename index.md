@@ -836,6 +836,6 @@ sections:
         power to contend with during the interwar years.
       button: Two Tennis Champs
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
-      image: /images/Vol 19 Issue 1/Tennis/image1-edit.png
+      image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
 ---
