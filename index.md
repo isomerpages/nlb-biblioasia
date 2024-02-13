@@ -788,8 +788,8 @@ sections:
         building a housing estate.
       button: HOUSES FOR TEACHERS
       url: /vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/
-      image: /images/Vol 19 Issue 1/Teacher's Housing Estate/THE_13 view of estate
-        from Yio Chu Kang bustop1.jpg
+      image: /images/Vol 19 Issue 1/Teacher's Housing
+        Estate/teachers_housing_estate_homepage.png
       alt: Image alt text
   - infopic:
       title: Portugal's Linguistic Legacy in Southeast Asia
