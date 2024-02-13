@@ -353,7 +353,7 @@ sections:
         them.
       button: Naming the Unnamed
       url: /arts/2023/10/painters-diard-duvaucel-farquhar/
-      image: /images/Online Only Articles/About the Painters/diard_duvaucel cover1.jpg
+      image: /images/Online Only Articles/About the Painters/mnhn_poissons_topic.png
       alt: About the Painters
   - infopic:
       title: The 1973 SEAP Games in Singapore
@@ -472,7 +472,7 @@ sections:
         to the sport.
       button: Uncle Choo, the Legend
       url: /vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/
-      image: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/uncle choo gets award.jpg
+      image: /images/Vol 19 Issue 3/7 Coach Choo Seng Quee/choo_award_homepage.png
       alt: Image alt text
   - infopic:
       title: "Lest We Forget: Kranji War Cemetery"
@@ -510,7 +510,7 @@ sections:
         with over 10,000 local recordings made before 1960.
       button: Listen to BiblioAsia+
       url: /podcast/recording-industry/
-      image: /images/Podcast/ross ep10.jpg
+      image: /images/Podcast/Ross.jpg
       alt: Recording Industry
   - infopic:
       title: A Grand Piano's Chequered History
@@ -788,8 +788,8 @@ sections:
         building a housing estate.
       button: HOUSES FOR TEACHERS
       url: /vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/
-      image: /images/Vol 19 Issue 1/Teacher's Housing Estate/THE_13 view of estate
-        from Yio Chu Kang bustop1.jpg
+      image: /images/Vol 19 Issue 1/Teacher's Housing
+        Estate/teachers_housing_estate_homepage.png
       alt: Image alt text
   - infopic:
       title: Portugal's Linguistic Legacy in Southeast Asia
@@ -799,8 +799,7 @@ sections:
         places more than others.
       button: PORTUGUESE CREOLES IN SOUTHEAST ASIA
       url: /vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/
-      image: /images/Vol 19 Issue 1/Portuguese/Eurasian Association Contingent at
-        Chingay Parade 2010-crop.jpg
+      image: /images/Vol 19 Issue 1/Portuguese/eurasian_chingay_homepage.png
       alt: Image alt text
   - infopic:
       title: "Neo Tiew: The Man Who Built Lim Chu Kang"
@@ -828,7 +827,7 @@ sections:
         the workforce and contribute to society.
       button: Women and the Typewriter
       url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
-      image: /images/Vol 19 Issue 1/Women Typewriter/Woman Typewriter.jpg
+      image: /images/Vol 19 Issue 1/Women Typewriter/woman_typewriter_homepage.png
       alt: Women Typewriters
   - infopic:
       title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
@@ -837,6 +836,6 @@ sections:
         power to contend with during the interwar years.
       button: Two Tennis Champs
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
-      image: /images/Vol 19 Issue 1/Tennis/image1-edit.png
+      image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
 ---
