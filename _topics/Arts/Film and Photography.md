@@ -51,7 +51,7 @@ Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the pol
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/picturessg/">Picturing Singapore: A Visual History</a>
 Photographs are an important means to understand Singapore’s history and heritage.&nbsp;**Janice Loo**&nbsp;shares highlights from the National Library’s PictureSG Collection.
 
-<img src="/images/Vol-16-issue-2/picturessg/thian_hock_keng_topic.png" style="width:100%;">
+<img src="/images/Vol-16-issue-2/picturessg/thian_hock_keng_topic.png" style="width:90%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett/">Marjorie Doggett: Photographer of Singapore</a>
