@@ -353,7 +353,7 @@ sections:
         them.
       button: Naming the Unnamed
       url: /arts/2023/10/painters-diard-duvaucel-farquhar/
-      image: /images/Online Only Articles/About the Painters/diard_duvaucel cover1.jpg
+      image: /images/Online Only Articles/About the Painters/mnhn_poissons_topic.png
       alt: About the Painters
   - infopic:
       title: The 1973 SEAP Games in Singapore
