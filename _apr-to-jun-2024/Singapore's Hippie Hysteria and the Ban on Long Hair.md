@@ -7,7 +7,7 @@ description: Hippie culture was seen as a risk to Singaporean society in the
   campaign against men with long hair.
 image: /images/Vol 20 Issue 1/Hippie Hysteria/Image1.png
 ---
-#### Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair. 
+:#### Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair. 
 By Andrea Kee
 
 In an interview in September 1970, just five years after Singapore became independent, Prime Minister Lee Kuan Yew was asked about the problems Singapore had to resolve in the near future. Unsurprisingly, he identified economic viability as the first task that the young nation had to address. What was surprising, however, was what he identified as the next most pressing problem facing Singapore.
@@ -69,57 +69,58 @@ One of the “victims” stopped at the Woodlands checkpoint was Malaysian busin
 
 Singaporean males with long hair were permitted entry, but they had to surrender their passports and could only collect them at the Immigration Headquarters the following day after getting their hair trimmed. While travellers were inconvenienced, barbers like M. Kandasamy near the checkpoint enjoyed a boom. “In my 20 years as a barber, I have never had such business. I closed shop at 10.30 pm yesterday instead of 8 pm as usual,” he said. Kandasamy also charged 30 cents more per cut instead of the usual $1.20.[^23]
 
-Speaking in January 1972, Foreign Minister S. Rajaratnam emphasised that the campaign against long hair was not an effort to “dictate hair styles and sartorial styles” but rather to eradicate hippieism. “If length of hair was simply a question of tonsorial style then there would have been no occasion for the government to intervene,” he said. “But unfortunately, long hair has been adopted by the hippies as a badge of their brotherhood. \[…\] By attacking and down grading one of the symbols to which hippies attach great importance we would be deterring many innocent young people who are just being fashionable from being drawn into what is basically an obscene and pernicious lifestyle.”[^24]
-
-Musicians, who typically wore their hair long, bore the brunt of the campaign. The police visited nightclubs to advise long-haired musicians to trim their hair. While local musicians were willing to toe the line, some foreign performers were not as amenable, and cancelled their shows or stopped signing contracts with Singapore’s hotels and nightclubs altogether.[^25]
+Musicians, who typically wore their hair long, bore the brunt of the campaign. The police visited nightclubs to advise long-haired musicians to trim their hair. While local musicians were willing to toe the line, some foreign performers were not as amenable, and cancelled their shows or stopped signing contracts with Singapore’s hotels and nightclubs altogether.[^24]
 
 ![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image4.png)
 <div style="background-color: white;">Album cover of The Quests’ 1967 vinyl release, <i>The 33rd Revolution</i>. Band members are in floral printed shirts. <i>Courtesy of Vernon Cornelius.</i></div>
 
-In August 1972, British pop singer Cliff Richard cancelled all three of his September concerts at the National Theatre, leaving fans disappointed. Richard and his band members had refused to cut their long hair, and it was believed that their applications for a professional visit pass was rejected by the Singapore authorities.[^26]
+In August 1972, British pop singer Cliff Richard cancelled all three of his September concerts at the National Theatre, leaving fans disappointed. Richard and his band members had refused to cut their long hair, and it was believed that their applications for a professional visit pass was rejected by the Singapore authorities.[^25]
 
 ![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image5_edit.png)
 <div style="background-color: white;">A year after he cancelled his concerts in Singapore, Cliff Richard, still sporting long hair, was allowed into Singapore for a one-night stopover on 13 April 1973. Not here on a summer holiday, he was en route to Australia and New Zealand. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
-Other top rock and pop groups, including The Who, Bee Gees, Cat Stevens, Tom Jones, Joe Cocker and the Chris Stainton Band, as well as Rick Nelson and the Stone Canyon Band, also scrapped their plans to perform in Singapore. Nelson’s promoter explained that they were passing over Singapore due to the “no-long-hair policy”, while other promoters were afraid that “any application made to the Immigration Department would be turned down” due to the long-hair policy.[^27]
+Other top rock and pop groups, including The Who, Bee Gees, Cat Stevens, Tom Jones, Joe Cocker and the Chris Stainton Band, as well as Rick Nelson and the Stone Canyon Band, also scrapped their plans to perform in Singapore. Nelson’s promoter explained that they were passing over Singapore due to the “no-long-hair policy”, while other promoters were afraid that “any application made to the Immigration Department would be turned down” due to the long-hair policy.[^26]
 
 #### **Not Serving and Hiring: Men with Long Hair**
 
-A few months after the start of Operation Snip Snip, the Ministry of Home Affairs announced that men with long hair would be served last at all government offices. Posters in English, Chinese and Malay with the message, “Males with long hair will be attended to last”, were displayed in government offices. Eventually, private-sector companies were also given these posters.[^28]
+A few months after the start of Operation Snip Snip, the Ministry of Home Affairs announced that men with long hair would be served last at all government offices. Posters in English, Chinese and Malay with the message, “Males with long hair will be attended to last”, were displayed in government offices. Eventually, private-sector companies were also given these posters.[^27]
 
 ![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image6.png)
 <div style="background-color: white;">All government offices had to display this poster and serve men with long hair last, 1972. <i>Source: The Straits Times, 23 June 1972 © SPH Media Limited. Permission required for reproduction. </i></div>
 
-The government also discouraged employers from hiring long-haired men. In July 1973, the Economic Development Board sent out a circular to the Singapore Manufacturers’ Association to inform that “the government strongly disapproved the appointment of long-haired male employees”.[^29]
+The government also discouraged employers from hiring long-haired men. In July 1973, the Economic Development Board sent out a circular to the Singapore Manufacturers’ Association to inform that “the government strongly disapproved the appointment of long-haired male employees”.[^28]
 
-Civil servants were warned that those who defied the hair rules would face disciplinary actions, including termination of service. Those in the private sector were not exempt from the rules as names of male workers who continued wearing their hair long despite warnings were shared with the government for “appropriate action” to be taken.[^30]
+Civil servants were warned that those who defied the hair rules would face disciplinary actions, including termination of service. Those in the private sector were not exempt from the rules as names of male workers who continued wearing their hair long despite warnings were shared with the government for “appropriate action” to be taken.[^29]
 
-Schools also held regular “hair inspections”, and boys with long hair who refused to comply with warnings were given haircuts immediately. The lucky ones got their hair professionally cut by a barber hired by the school, while the unfortunate ones received a haircut from a teacher or the principal.[^31] However, the savvy ones would find ways to avoid detection.&nbsp; “Every time before I go to school, I would bundle my \[long\] hair and clip \[it up\] so it looked short,” said Dennis Lim of The Straydogs.[^32]
+Schools also held regular “hair inspections”, and boys with long hair who refused to comply with warnings were given haircuts immediately. The lucky ones got their hair professionally cut by a barber hired by the school, while the unfortunate ones received a haircut from a teacher or the principal.[^30] However, the savvy ones would find ways to avoid detection.&nbsp; “Every time before I go to school, I would bundle my \[long\] hair and clip \[it up\] so it looked short,” said Dennis Lim of The Straydogs.[^31]
 
 ![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/hair_dos_and_don_ts.png)
 <div style="background-color: white;"> The sketches issued to vocational institutes and schools to serve as guidelines to staff and students on what was an acceptable hair length for boys. <i>Source: The Straits Times, 24 November 1971 © SPH Media Limited. Permission required for reproduction. </i></div>
 
-Predictably, not all students were fans of Operation Snip Snip. On 18 January 1972, a group of University of Singapore students staged a protest and told reporters that “the campaign against long hair is an infringement of our individual rights”. The students marched around campus carrying posters and placards, some of which read, “When your hair is long, your rights are short”.[^33]
+Predictably, not all students were fans of Operation Snip Snip. On 18 January 1972, a group of University of Singapore students staged a protest and told reporters that “the campaign against long hair is an infringement of our individual rights”. The students marched around campus carrying posters and placards, some of which read, “When your hair is long, your rights are short”.[^32]
 
-Regardless, supportive letters appeared in the local newspapers. “My thanks go to the government for its campaign against drug-taking and long hair,” wrote a letter writer to the _New Nation_. “If prompt action was not taken earlier to check hippism, drug abuse and long hair, I believe our country by this time would have seen teenagers in shabby clothes with long hair and perhaps with drugs in their pockets, walking all over the clean and green island of Singapore.”[^34]
+Regardless, supportive letters appeared in the local newspapers. “My thanks go to the government for its campaign against drug-taking and long hair,” wrote a letter writer to the _New Nation_. “If prompt action was not taken earlier to check hippism, drug abuse and long hair, I believe our country by this time would have seen teenagers in shabby clothes with long hair and perhaps with drugs in their pockets, walking all over the clean and green island of Singapore.”[^33]
 
 #### **Other Consequences**
 
-The campaign against long hair led to unexpected consequences. In November 1972, some 200 apprentices from Sembawang Shipyard staged a sit-in during their lunch hour to protest fellow shipwright apprentice Koh Tze Jin’s hair-related seven-day suspension. Earlier that week, he had received a one-day suspension for refusing to get a haircut as he felt that his hair was well above his collar. In response, he shaved his head bald. Koh told reporters that he did so “to avoid any further arguments with the company”. Unfortunately, his bosses saw his shaved head as an act of protest and suspended him for seven days, igniting the sit-in.[^35]
+The campaign against long hair led to unexpected consequences. In November 1972, some 200 apprentices from Sembawang Shipyard staged a sit-in during their lunch hour to protest fellow shipwright apprentice Koh Tze Jin’s hair-related seven-day suspension. Earlier that week, he had received a one-day suspension for refusing to get a haircut as he felt that his hair was well above his collar. In response, he shaved his head bald. Koh told reporters that he did so “to avoid any further arguments with the company”. Unfortunately, his bosses saw his shaved head as an act of protest and suspended him for seven days, igniting the sit-in.[^34]
 
 ![](/images/Vol%2020%20Issue%201/Hippie%20Hysteria/shaved_hair.png)
 <div style="background-color: white;"> Koh Tze Jin was issued a seven-day suspension from work after his shaved head was seen as a protest against anti-long hair rules. His colleagues staged a sit-in to protest his suspension.<i>Source: The Straits Times, 16 November 1972 © SPH Media Limited. Permission required for reproduction. </i></div>
 
-It even led to a minor international incident with Malaysia in August 1970. Three Malaysian youths were caught up in an anti-long hair raid in Orchard Road and detained by Singapore police. They later accused the police of mistreating them and forcing them to get haircuts. Although the Criminal Investigation Department (CID) investigators who detained them stated in an internal report that the youths had agreed to the haircut, the damage was already done.[^36]
+It even led to a minor international incident with Malaysia in August 1970. Three Malaysian youths were caught up in an anti-long hair raid in Orchard Road and detained by Singapore police. They later accused the police of mistreating them and forcing them to get haircuts. Although the Criminal Investigation Department (CID) investigators who detained them stated in an internal report that the youths had agreed to the haircut, the damage was already done.[^35]
 
-Students from the University of Malaya protested the incident at the High Commission in Kuala Lumpur, prompting Prime Minister Lee Kuan Yew to postpone a planned visit with Tunku Abdul Rahman. Reports stated that the postponement was “mainly to avoid embarrassing both governments”. As a result of this incident, Singapore issued an apology to the Malaysian government and all hair-cutting by the CID ceased.[^37]
+Students from the University of Malaya protested the incident at the High Commission in Kuala Lumpur, prompting Prime Minister Lee Kuan Yew to postpone a planned visit with Tunku Abdul Rahman. Reports stated that the postponement was “mainly to avoid embarrassing both governments”. As a result of this incident, Singapore issued an apology to the Malaysian government and all hair-cutting by the CID ceased.[^36]
 
 #### **Changing Trends**
 
-By the end of the 1970s, there were fewer reports in the press about the crackdown on long-haired men. In March 1986, Lee Siew Hua of the _Straits Times_ reported that “the long-hair-last signs have virtually disappeared even though officials maintain that the policy is very much alive”.[^38] Part of the reason for the easing up of long hair in the 1980s was simply due to changing trends. Hippies and hippie culture had long fallen out of fashion by then.
+By the end of the 1970s, there were fewer reports in the press about the crackdown on long-haired men. In March 1986, Lee Siew Hua of the _Straits Times_ reported that “the long-hair-last signs have virtually disappeared even though officials maintain that the policy is very much alive”.[^37] Part of the reason for the easing up of long hair in the 1980s was simply due to changing trends. Hippies and hippie culture had long fallen out of fashion by then.
 
-The government also lifted restrictions on music previously banned for being associated with hippies. In May 1993, the Ministry of Information lifted its ban on a number of songs, including Beatles classics like “Lucy in the Sky with Diamonds”, “With a Little Help from My Friends” and “Sgt Pepper’s Lonely Hearts Club Band”. Fans of Bob Dylan were delighted that “Mr Tamborine Man” could finally play a song for them. Another song that got the green light, none too soon, was Creedence Clearwater Revival’s “Proud Mary”.[^39] The times, they were indeed, a-changing.
+The government also lifted restrictions on music previously banned for being associated with hippies. In May 1993, the Ministry of Information lifted its ban on a number of songs, including Beatles classics like “Lucy in the Sky with Diamonds”, “With a Little Help from My Friends” and “Sgt Pepper’s Lonely Hearts Club Band”. Fans of Bob Dylan were delighted that “Mr Tamborine Man” could finally play a song for them. Another song that got the green light, none too soon, was Creedence Clearwater Revival’s “Proud Mary”.[^38] 
 
+Looking back, it might seem odd that the government would want to regulate men’s hair styles back in the 1960s and 70s. Perhaps the most eloquent explanation comes from Foreign Minister S. Rajaratnam who said in 1972 that the government “was not concerned whether men have long hair, short hair or no hair at all. It is not so stupid as to believe that the future of Singapore will be determined by the length of the dead cells its citizens sprout”. It was, he explained, “hippieism not hair style we are attacking” and added that the government did not believe that “hippieism can be eradicated simply by shearing locks”. What the government hoped was that by focusing and attacking long hair, “one of the symbols to which hippies attach great importance, we would be deterring many young people who are just being fashionable from being drawn into what is basically an obscene and pernicious lifestyle”.[^39]
+
+&nbsp;Hippies and hippie culture have become a footnote in history. These days, men with long hair are more likely to tie their hair up in a ponytail or neatly tuck them into a man bun. Long shaggy hair is more closely associated with 80s bands like Bon Jovi and Guns N’ Roses rather than flower power and hippies. The times, indeed, have been a-changing.
 
 <div style="background-color: white;">
 <br>
@@ -174,34 +175,35 @@ The government also lifted restrictions on music previously banned for being ass
 
 [^23]: Kutty, “[Op Snip Snip at the Causeway](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720110-1.2.149)”; Kutty, “[Flexible Policy in Long-Hair Clamps](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720111-1.2.9).”
 
-[^24]: “[Sorting the Shaggy Sheep from the Hippie Goats](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720131-1.2.50.1),” _New Nation_, 31 January 1972, 9. (From NewspaperSG)
+[^24]: Gerry de Silva, “[At Last Local Pop Groups Get a Chance at Top Billing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720129-1.2.73.3),” _Straits Times_, 29 January 1972, 9. (From NewspaperSG)
 
-[^25]: Gerry de Silva, “[At Last Local Pop Groups Get a Chance at Top Billing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720129-1.2.73.3),” _Straits Times_, 29 January 1972, 9. (From NewspaperSG)
+[^25]: Gerry de Silva, “[Cliff Kept His Locks, But EMI Lost $10,000](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720822-1.2.85),” _Straits Times_, 22 August 1972, 15; Peter Ong, “[Why Cliff Will Not Come to Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720819-1.2.4),” _New Nation_, 19 August 1972, 1. (From NewspaperSG)
 
-[^26]: Gerry de Silva, “[Cliff Kept His Locks, But EMI Lost $10,000](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720822-1.2.85),” _Straits Times_, 22 August 1972, 15; Peter Ong, “[Why Cliff Will Not Come to Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720819-1.2.4),” _New Nation_, 19 August 1972, 1. (From NewspaperSG)
+[^26]: “[Long-Hair Ban Keeps Pop Stars Out](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720829-1.2.30),” _New Nation_, 29 August 1972, 3. (From NewspaperSG)
 
-[^27]: “[Long-Hair Ban Keeps Pop Stars Out](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720829-1.2.30),” _New Nation_, 29 August 1972, 3. (From NewspaperSG)
+[^27]: “[Long Hair Means a Long, Long Wait...](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720623-1.2.54),” _Straits Times_, 23 June 1972, 8; Irene Ngoo, “[5,700 Longhaired Men Warned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19741211-1.2.91),” _Straits Times_, 11 December 1974, 15. (From NewspaperSG)
 
-[^28]: “[Long Hair Means a Long, Long Wait...](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720623-1.2.54),” _Straits Times_, 23 June 1972, 8; Irene Ngoo, “[5,700 Longhaired Men Warned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19741211-1.2.91),” _Straits Times_, 11 December 1974, 15. (From NewspaperSG)
+[^28]: “[Govt to Bosses: Don’t Employ the Long-Haired](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730717-1.2.11),” _Straits Times_, 17 July 1973, 1. (From NewspaperSG)
 
-[^29]: “[Govt to Bosses: Don’t Employ the Long-Haired](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730717-1.2.11),” _Straits Times_, 17 July 1973, 1. (From NewspaperSG)
+[^29]: “[Govt to Bosses: Don’t Employ the Long-Haired](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730717-1.2.11)”; Ngoo, “[5,700 Longhaired Men Warned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19741211-1.2.91),” _Straits Times_, 11 December 1974, 15.
 
-[^30]: “[Govt to Bosses: Don’t Employ the Long-Haired](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730717-1.2.11)”; Ngoo, “[5,700 Longhaired Men Warned](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19741211-1.2.91),” _Straits Times_, 11 December 1974, 15.
+[^30]: “[Now It’s Snip, Snip Time in the Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720112-1.2.75),” _Straits Times_, 12 January 1972, 13. (From NewspaperSG)
 
-[^31]: “[Now It’s Snip, Snip Time in the Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720112-1.2.75),” _Straits Times_, 12 January 1972, 13. (From NewspaperSG)
+[^31]: Lim Wee Kiang, oral history interview by Mark Wong, 15 April 2010, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c3abb69d-1161-11e3-83d5-0050568939ad-OHC003502_001/web/html5/index.html) and MP3 audio, Reel/Disc 1 of 5, National Archives of Singapore ([accession no. 003502](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003502)), 39.
 
-[^32]: Lim Wee Kiang, oral history interview by Mark Wong, 15 April 2010, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c3abb69d-1161-11e3-83d5-0050568939ad-OHC003502_001/web/html5/index.html) and MP3 audio, Reel/Disc 1 of 5, National Archives of Singapore ([accession no. 003502](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003502)), 39.
+[^32]: “[Student Protest Over Snip Snip](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720118-1.2.28),” _New Nation_, 18 January 1972, 3. (From NewspaperSG)
 
-[^33]: “[Student Protest Over Snip Snip](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720118-1.2.28),” _New Nation_, 18 January 1972, 3. (From NewspaperSG)
+[^33]: The Spoken Word, “[Hitting at Long-Hair](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720122-1.2.63.2),” _New Nation_, 22 January 1972, 6. (From NewspaperSG)
 
-[^34]: The Spoken Word, “[Hitting at Long-Hair](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720122-1.2.63.2),” _New Nation_, 22 January 1972, 6. (From NewspaperSG)
+[^34]: Lim Suan Kooi, “[Hair Row Starts Sit-In by 200](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19721116-1.2.7),” _Straits Times_, 16 November 1972, 1. (From NewspaperSG)
 
-[^35]: Lim Suan Kooi, “[Hair Row Starts Sit-In by 200](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19721116-1.2.7),” _Straits Times_, 16 November 1972, 1. (From NewspaperSG)
+[^35]: “[Call for ‘Strong Protest’ to S’pore by Tun Ismail](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700819-1.2.2),” _Straits Times_, 19 August 1970, 1. (From NewspaperSG)
 
-[^36]: “[Call for ‘Strong Protest’ to S’pore by Tun Ismail](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700819-1.2.2),” _Straits Times_, 19 August 1970, 1. (From NewspaperSG)
+[^36]: “[Lee Puts Off Visit](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700820-1.2.3),” _Straits Times_, 20 August 1970, 1; Philip Khoo, “[Police Stop Snipping of Hippie Hair](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700903-1.2.10),” _Straits Times_, 3 September 1970, 1. (From NewspaperSG)
 
-[^37]: “[Lee Puts Off Visit](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700820-1.2.3),” _Straits Times_, 20 August 1970, 1; Philip Khoo, “[Police Stop Snipping of Hippie Hair](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700903-1.2.10),” _Straits Times_, 3 September 1970, 1. (From NewspaperSG)
+[^37]: Lee Siew Hua, “[Less Ado About Men With Long Hair](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860309-1.2.21.9),” _Straits Times_, 9 March 1986, 12. (From NewspaperSG)
 
-[^38]: Lee Siew Hua, “[Less Ado About Men With Long Hair](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860309-1.2.21.9),” _Straits Times_, 9 March 1986, 12. (From NewspaperSG)
+[^38]: Siti Rohanah Koid, “[Yeah! Yeah! Yeah!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19930526-1.2.17),” _The New Paper_, 26 May 1993, 10. (From NewspaperSG)
 
-[^39]: Siti Rohanah Koid, “[Yeah! Yeah! Yeah!](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19930526-1.2.17),” _The New Paper_, 26 May 1993, 10. (From NewspaperSG)
+[^39]: "[Sorting the Shaggy Sheep from the Hippie Goats](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19720131-1.2.50.1)," <i>New Nation</i>, 31 January 1972, 9. (From NewspaperSG)
+

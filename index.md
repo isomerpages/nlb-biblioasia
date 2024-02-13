@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/
-      button: Qing Ambassadors in Singapore
+      url: /vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/
+      button: The 1973 SEAP Games in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 4/1   Qing Ambassadors/qing_hero_imagev2.png
+      background: /images/Vol 19 Issue 4/4 SEAP Games/hero_img-seap games_rev.jpg
   - infopic:
       title: The Trishaws and Tricycles of Singapore By Liesel Strauss
       subtitle: Collection Highlights
