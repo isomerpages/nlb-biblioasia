@@ -8,7 +8,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/">Photo Studios and Photography During the Japanese Occupation</a>
 During the Japanese Occupation, local photographers worked under challenging conditions.
 
-<img src="/images/Vol%2019%20Issue%204/Photo%20Studios/japanesedelegation1_topic.png" style="width:80%;">  
+<img src="/images/Vol%2019%20Issue%204/Photo%20Studios/japanesedelegation1_topic.png" style="width:80%;height:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/restoring-asian-films/">Restoring Classic Films from Asia</a>
@@ -32,7 +32,7 @@ The Asian Film Archive has been restoring old classics since 2014.
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a>
 While best known as a giant in the movie business in Malaya, Loke Wan Tho was also passionate about bird photography and the arts.
 
-<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/1_Loke%20Portrait.png">  
+<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho/mercedescar_topic.jpg" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/">Loke Wan Tho: A Photo Essay</a>
