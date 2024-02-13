@@ -57,5 +57,5 @@ Photographs are an important means to understand Singapore’s history and herit
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett/">Marjorie Doggett: Photographer of Singapore</a>
 **Edward Stokes**&nbsp;reflects on&nbsp;_Characters of Light_&nbsp;by Marjorie Doggett, first published in 1957, and on his own recent book,&nbsp;_Marjorie Doggett’s Singapore_, which portrays her life and work here.
 
-<img src="/images/Vol-16-issue-1/marjorie/marjorie_victor_topic.png">  
+<img src="/images/Vol-16-issue-1/marjorie/marjorie_victor_topic.png" style="width:80%;">  
 <hr>
