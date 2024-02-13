@@ -45,7 +45,7 @@ Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of 
 
 Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan.
 
-<img src="/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png" style="width:80%;">  
+<img src="/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/lorry_topic.png" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/picturessg/">Picturing Singapore: A Visual History</a>
