@@ -1,5 +1,5 @@
 ---
-title: "Pioneering Local Journalist R.B. Ooi"
+title: Pioneering Local Journalist R.B. Ooi
 permalink: /people/2024/2/singapore-local-journalist-rb-ooi-newspaper/
 variant: markdown
 description: RB Ooi
@@ -153,7 +153,7 @@ Materials from the collection can be viewed at Level 11 of the Lee Kong Chian Re
 
 [^8]: “How to Think Malaysian,” <i>Straits Echo</i>, 16 October 1972. (Microfilm NL7162)
 
-[^9]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540605-1.2.67">A Drop of Ink</a>,” <i>Singapore Standard,</i> 5 June 1954, 6. (From NewspaperSG). This article is mainly a scathing review of U.S. Supreme Court Justice (later Chief Justice) William O. Douglas’ 1953 book, <i><a href="https://catalogue.nlb.gov.sg/search/card?recordId=1520719">North from Malaya</a>.</i> Douglas wrote the book after a whirlwind British-escorted tour of Malaya and was full of hilarious errors. See William O. Douglas, <i><a href="https://catalogue.nlb.gov.sg/search/card?recordId=1520719">North from Malaya</a></i> (Garden City, N.Y: Doubleday, 1953). (From National Library, Singapore call no. RCLOS 959 DOU-[RFL])
+[^9]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540605-1.2.67">A Drop of Ink</a>,” <i>Singapore Standard,</i> 5 June 1954, 6. (From NewspaperSG). This article is mainly a scathing review of U.S. Supreme Court Justice (later Chief Justice) William O. Douglas’ 1953 book, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=1520719">North from Malaya</a>.</i> Douglas wrote the book after a whirlwind British-escorted tour of Malaya and was full of hilarious errors. See William O. Douglas, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=1520719">North from Malaya</a></i> (Garden City, N.Y: Doubleday, 1953). (From National Library, Singapore call no. RCLOS 959 DOU-[RFL])
 
 [^10]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540602-1.2.81">A Drop of Ink</a>,” <i>Singapore Standard</i>, 2 June 1954, 6. (From NewspaperSG)
 
