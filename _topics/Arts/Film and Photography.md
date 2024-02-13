@@ -38,24 +38,24 @@ While best known as a giant in the movie business in Malaya, Loke Wan Tho was al
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cinema/">Loke Wan Tho: A Photo Essay</a>
 Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of Cathay Organisation.
 
-<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/Chua%20Mia%20Tee,%20Portrait%20of%20Dato%20Loke%20Wan%20Tho.jpg" style="width:50%;">
+<img src="/images/Vol%2018%20Issue%203/Loke%20Wan%20Tho%20More%20Resources/loke_sports_centre_topic.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/japanese-chinese-photo-studios/">Negotiating Boundaries: Japanese and Chinese Photo Studios in Prewar Singapore</a>
 
 Photo studios such Yong Fong, Lee Brothers and Daguerre had to negotiate the politics of race, class and clan.
 
-<img src="/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/agsphoto_17551_full.png" style="width:80%;">  
+<img src="/images/Vol%2018%20Issue%202/Chinese%20Japanese%20Photo%20Studios/lorry_topic.png" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/picturessg/">Picturing Singapore: A Visual History</a>
 Photographs are an important means to understand Singapore’s history and heritage.&nbsp;**Janice Loo**&nbsp;shares highlights from the National Library’s PictureSG Collection.
 
-<img src="/images/Vol-16-issue-2/picturessg/ThianHockKeng.jpg" style="width:105%;">
+<img src="/images/Vol-16-issue-2/picturessg/thian_hock_keng_topic.png" style="width:90%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/doggett/">Marjorie Doggett: Photographer of Singapore</a>
 **Edward Stokes**&nbsp;reflects on&nbsp;_Characters of Light_&nbsp;by Marjorie Doggett, first published in 1957, and on his own recent book,&nbsp;_Marjorie Doggett’s Singapore_, which portrays her life and work here.
 
-<img src="/images/Vol-16-issue-1/marjorie/Majorie-title.png">  
+<img src="/images/Vol-16-issue-1/marjorie/marjorie_victor_topic.png" style="width:80%;">  
 <hr>
