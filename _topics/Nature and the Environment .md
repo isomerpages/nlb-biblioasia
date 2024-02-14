@@ -8,13 +8,13 @@ variant: markdown
 
 Urban edible gardening in Singapore might be all the rage now, but the movement has roots that date back to the early 20th century.
 
-<img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/pupils_gardening.png" style="width:80%;">
+<img src="/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/kim_tian.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles/">Stamford Raffles and the Two French Naturalists</a>
 **Danièle Weiler**&nbsp;uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.
 
-<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="width:80%;">  
+<img src="/images/Vol-16-issue-2/raffles/pierre_topic.png" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/whales-skeletons-museums/">How the Raffles Museum Got a Whale Skeleton, Made It Famous, Then Let It Go 60 Years Later</a>
