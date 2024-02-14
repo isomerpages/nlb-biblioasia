@@ -22,7 +22,7 @@ The Singapore Chin Woo (Athletic) Association donated its collection of photogra
 
 Singapore’s National Library is hard at work collecting new forms of documentary materials today for the sake of future generations.
 
-<img src="/images/Vol%2020%20Issue%201/Contemporary/Contemporary_collecting__6__1.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%201/Contemporary/Contemporary_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/making-history/">Making History</a>
