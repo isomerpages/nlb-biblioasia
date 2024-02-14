@@ -34,7 +34,7 @@ David Lim led the first Singapore expedition team that successfully scaled Mount
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/">Chia Boon Leong: The Twinkle-Toed Olympian</a>
 Although short in stature, footballer Chia Boon Leong was a force to be reckoned with.
 
-<img src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/age50b.jpg" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a>
