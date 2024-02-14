@@ -28,7 +28,7 @@ A forgotten manuscript found in the archive of a Portuguese museum offers an ins
 
 The National Library recently received a sizable collection of letters, documents, books and other paper ephemera from the Kim Mui Hoey Kuan.&nbsp;**Lee Meiyu**&nbsp;examines the historical links the clan association has forged between Singapore and Kinmen.
 
-<img src="/images/Vol-16-issue-3/kim-mui/kim-openingcover.jpg" style="width:80%;">
+<img src="/images/Vol-16-issue-3/kim-mui/kim_mui_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/writers-manuscripts/">On Writers and Their Manuscripts</a>
