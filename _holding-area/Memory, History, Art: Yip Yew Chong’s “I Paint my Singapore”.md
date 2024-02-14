@@ -23,7 +23,7 @@ The public’s response to “I Paint my Singapore” has been remarkable. So ma
 Yip’s latest work captures Singapore as it was in the 1970s and 1980s. The work (acrylic on canvas) consists of 27 panels (about the length of five double-decker buses lined up) that form a continuous scene, like a panorama, but one that switches perspective from one canvas to the next, from street scene to bird’s-eye view. Another interesting aspect is that Yip has removed the facade of some of the buildings so that people can see what’s happening inside, a little like X-ray vision.&nbsp;
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/HDBinterior2.jpg)
-<div style="background-color: white;">Looking inside Housing and Development Board flats. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">Looking inside Housing and Development Board flats. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 
 Well-known places and landmarks like the former Van Kleef Aquarium and Little India feature in this painting. But Yip also painted more quotidian scenes – of everyday life in housing estates and outlying areas of Singapore. These have probably had greater resonance with Singaporeans.
@@ -47,7 +47,7 @@ Veteran diplomat Tommy Koh, who opened the exhibition on 29 November 2023, noted
 
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Ruralscene3.jpg)
-<div style="background-color: white;">Idyllic kampong life. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">A hilltop village in the Sembawang-Nee Soon area. <i>Photo by Jimmy Yap. </i></div>
 
 
 Yip agreed that familiarity was a big part of the appeal. In response to an emailed query, Yip said he believed that the painting struck a chord with people because “they can see themselves, their families, relatives and friends; their homes, where they’ve played, worked, studied, served NS etc. in the painting”.
