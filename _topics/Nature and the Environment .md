@@ -33,7 +33,7 @@ A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to
 
 Singapore’s diplomatic efforts may take several forms, including naming orchid hybrids after foreign dignitaries. **Rebecca Tan** tells us more.
 
-<img src="/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Sealara%20Nelson%20Mandela%20(credit%20NParks).png">
+<img src="/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/flowers_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day/">The Blossoming of Tree Planting Day</a>
