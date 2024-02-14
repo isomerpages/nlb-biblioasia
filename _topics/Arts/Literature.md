@@ -42,5 +42,5 @@ No great work of literature is completed in just one draft. In an age where writ
 
 History may be written by the victors, but what they conveniently leave out can be more telling.&nbsp;<b>Farish Noor</b>&nbsp;reminds us of the violent side of colonial conquest.
 
-<img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG">
+<img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG" style="width:80%;">
 <hr>
