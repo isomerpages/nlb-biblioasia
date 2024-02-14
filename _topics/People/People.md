@@ -22,7 +22,7 @@ Joseph Conrad’s visits to Singapore in the late 19th century are immortalised 
 
 From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation’s history.
 
-<img src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/victor_savage.png" style="width:80%;">
+<img src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/victorsavage_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/">Conquering the World’s Tallest Mountain</a>
