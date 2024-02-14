@@ -46,7 +46,7 @@ The late architect William Lim did more than shape Singapore’s skyline. He was
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/">The Curious Visit of Qing Ambassadors to Singapore</a>
 The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
 
-<img src="/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01_v3.png" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/qing_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/">Coach Choo Seng Quee, A Giant of Singapore Football</a>
