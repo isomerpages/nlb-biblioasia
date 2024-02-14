@@ -29,7 +29,7 @@ Singapore’s National Library is hard at work collecting new forms of documenta
 
 A treaty that sealed Singapore’s fate, a contract for the sale of child brides, and a drawing of an iconic theatre are among the items showcased in a new book,&nbsp;_50 Records from History_, published by the National Archives of Singapore.
   
-<img src="/images/Vol-15-issue-1/making-history/01a_history.png" style="width:80%;">
+<img src="/images/Vol-15-issue-1/making-history/history_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/when-there-wre-farms/">When There Were Farms</a>
