@@ -8,13 +8,13 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/">American Troops, Singapore Bands, The Vietnam War</a>
 Lured by the prospects of money and adventure, local performers braved the dangers of the Vietnam War to provide entertainment to American troops.
 
- <img src="/images/Vol%2020%20Issue%201/Vietnam%20War/sgband_vietnamwar_boonlai_cropped1.png">
+ <img src="/images/Vol%2020%20Issue%201/Vietnam%20War/sgband_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/talentime-history-singapore/">Singapore's Got Talent: When Talentime Ruled the Airwaves</a>
 Although Talentime has been replaced by reality talent contests, it will be remembered as a show that launched the musical careers of many Singaporeans.
 
- <img src="/images/Vol%2019%20Issue%204/7%20Talentime/photo1%20-%20rev1.png">
+ <img src="/images/Vol%2019%20Issue%204/7%20Talentime/photo1%20-%20rev1.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/videos/reels/arts/"> Professor Yu Chun Yee Plays on NLB's Heritage Piano</a>
