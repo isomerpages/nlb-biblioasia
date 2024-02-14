@@ -35,7 +35,7 @@ The National Library recently received a sizable collection of letters, document
 
 No great work of literature is completed in just one draft. In an age where writers have gone paperless, novelist&nbsp;<b>Meira Chand</b>&nbsp;ponders over the value of manuscripts, and what they might reveal about a writer’s thought process.
 
-<img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers1.JPG" style="width:80%;">
+<img src="/images/Vol-15-issue-2/on-writers-and-manuscripts/Writers1.JPG" style="width:80%; height:85%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/violence-writings/">Don’t Mention the Corpses: The Erasure of Violence in Colonial Writings on Southeast Asia</a>
