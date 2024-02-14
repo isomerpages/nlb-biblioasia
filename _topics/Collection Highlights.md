@@ -15,7 +15,7 @@ These photos by Liesel Strauss spotlight the humble trishaw and cargo tricycle a
 
 The Singapore Chin Woo (Athletic) Association donated its collection of photographs and materials to the National Library, Singapore, in 2023. Find out more about the history of one of Singapore’s oldest martial arts associations.
   
-<img src="/images/Vol%2020%20Issue%201/Chin%20Woo/chin_woo.png" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%201/Chin%20Woo/chin_woo_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/">By the Public and for the Public: Contemporary Collecting at the National Library</a>
