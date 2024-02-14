@@ -11,11 +11,6 @@ From the melting pot of cultures and languages in postwar Singapore emerged the 
 <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/plethora_topic.png" style="width:80%;">  
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/new-books-singapore-history/">New Books on Singapore History</a><br>
-
-<img src="/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg">
-<hr>
-
 #### **Interview with Rachel Heng**
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/jQjegt2YxCc?si=KJmfweHMNm12V4Dll" frameborder="0" allowfullscreen=""></iframe></div>
 
@@ -29,36 +24,11 @@ A forgotten manuscript found in the archive of a Portuguese museum offers an ins
 <img src="/images/Vol%2019%20Issue%203/5%20Panton/image1.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/new-books-singapore-history"> New Books on Singapore History</a><br>
-
-<img src="/images/Vol%2019%20Issue%203/9%20New%20Books/book_1.png">
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/new-books-singapore-history">New Books on Singapore History</a><br>
-
-<img src="/images/Vol%2019%20Issue%202/New%20Books/book_1.png">
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/new-books-singapore-history">New Books on Singapore History</a><br>
-
-<img src="/images/Vol%2019%20Issue%201/New%20Books/The_Reverent_Journey_cover.png">
-<hr> 
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/new-books-singapore-history">New Books on Singapore History</a>
-
-<img src="/images/Vol%2018%20Issue%204/New%20Books/book1.png">
-<hr>
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/diff-sky/">跨境影响、情系侨乡: 新加坡金门会馆特藏</a>
 
 The National Library recently received a sizable collection of letters, documents, books and other paper ephemera from the Kim Mui Hoey Kuan.&nbsp;**Lee Meiyu**&nbsp;examines the historical links the clan association has forged between Singapore and Kinmen.
 
 <img src="/images/Vol-16-issue-3/kim-mui/kim-openingcover.jpg" style="width:80%;">
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/book-review/">Book Review: The Year 1000</a>
-
-<img src="/images/Vol-16-issue-3/book-review/year1000-opening.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/writers-manuscripts/">On Writers and Their Manuscripts</a>
