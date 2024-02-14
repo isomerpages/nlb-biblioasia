@@ -26,7 +26,7 @@ The skeleton of a blue whale took pride of place at the former Raffles Museum fo
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/subaraj-rajathurai-nature/">Subaraj Rajathurai: A Voice for the Wild</a>
 A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to save Singapore’s green spaces.
 
-<img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/Facing%20Page.jpg" style="width:80%;">  
+<img src="/images/Vol%2018%20Issue%204/Subaraj%20Rajathurai/subaraj_topic.png" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/">Flower Power: Singapore's Orchid Diplomacy</a>
