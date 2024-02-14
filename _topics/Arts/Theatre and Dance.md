@@ -27,5 +27,5 @@ The RAF Seletar Theatre Club was a highly regarded amateur drama group in Singap
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/theatres-of-bangsw/"> The Theatres of Bangsawan</a><br>
 In the days before cinema,&nbsp;_bangsawan_&nbsp;performances entertained the masses.&nbsp;<b>Tan Chui Hua</b>&nbsp;looks at the rise and fall of&nbsp;_bangsawan_&nbsp;venues in Singapore.
 
-<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/Royal.JPG" style="width:80%;">
+<img src="/images/Vol-15-issue-4/theatres-of-bangsawan/bangsawan_topic.png" style="width:80%;">
 <hr>
