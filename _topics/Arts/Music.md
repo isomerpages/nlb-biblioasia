@@ -25,7 +25,7 @@ Although Talentime has been replaced by reality talent contests, it will be reme
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano">A Grand Piano's Chequered History</a>
 A grand piano that was to be the pride of Singapore failed to silence its critics. The odds, however, were always against it.
 
-<img src="/images/Vol%2019%20Issue%203/2%20Grand%20Piano/irene%20kohler.jpg">
+<img src="/images/Vol%2019%20Issue%203/2%20Grand%20Piano/hungarian-man.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/chappell-piano-repair-zhivko-girginov">The Process of Restoring the Chappell Concert Grand</a>
