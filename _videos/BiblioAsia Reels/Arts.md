@@ -12,8 +12,7 @@ variant: markdown
 Yip Yew Chong’s masterpiece “I Paint my Singapore” captures scenes of everyday life in Singapore in the 1970s and 80s. Find out how the visual artist ensured historical accuracy in this 60-metre-long work.
 
 **Related podcast episode and article** <br>
-* 
-
+* [Artist Yip Yew Chong Paints His Story in History](https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/)
 * [Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”](https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/)<br>
 
 <hr>
