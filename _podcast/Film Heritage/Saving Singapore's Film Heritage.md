@@ -23,8 +23,7 @@ get notified when the next episode drops.</p>
 <h4><strong>What Tee Pao Talked About</strong></h4>
 <p>2:23 – Challenges of restoring <em>The Teenage Textbook Movie</em> (1998)
 <br>8:06 – How AFA restored <em>They Call Her… Cleopatra Wong</em> (1978) without
-the original negatives, a movie that film director Quentin Tarantino drew
-inspiration from
+the original negatives
 <br>13:26 – The sad fate of P. Ramlee’s <em>Seniman Bujang Lapok</em> (1961)
 <br>16:20 – The restoration process for Sri Lankan film<em> Bambaru Avith</em>,
 which was selected for Cannes Film Festival in 2020
