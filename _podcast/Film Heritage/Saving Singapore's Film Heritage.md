@@ -7,8 +7,8 @@ third_nav_title: Film Heritage
 ---
 <p>Thanks to restoration, classic films like <em>The Teenage Textbook Movie </em>(1998)
 can still be shown on a big screen 20 years after its cinema run. On a
-mission to save Asia’s film heritage, film archivist Chew Tee Pao saves
-important movies and gives them a second life.</p>
+mission to save Singapore's film heritage, film archivist Chew Tee Pao
+saves important movies and gives them a second life.</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on <a href="https://open.spotify.com/episode/7ytNibGncmYyTYbVJ5QiHw" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
