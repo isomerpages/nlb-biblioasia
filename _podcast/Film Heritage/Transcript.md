@@ -22,8 +22,7 @@ it.</p>
 <p></p>
 <p>[Audio]</p>
 <p></p>
-<p><strong>Jimmy</strong> 
-<br>That, of course, was the famous introduction to <em>The Teenage Textbook Movie</em>.
+<p>That, of course, was the famous introduction to <em>The Teenage Textbook Movie</em>.
 Tell me about the challenges of restoring <em>The Teenage Textbook Movie</em>.</p>
 <p></p>
 <p><strong>Tee Pao</strong> 
