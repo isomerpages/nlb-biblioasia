@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”</a>
+
+Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, melds memories and research to produce stories about Singapore.
+
+<img src="/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/ruralscene3_topic.png" style="width:80%;"> 
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/arts/2023/10/painters-diard-duvaucel-farquhar/"> About the Painters: Seeking the Unnamed Artists Behind Diard and Duvaucel's Natural History Drawings</a>
  <p>Natural history drawings might seem clinical and cold, but an unlikely medium pulls back the curtains to find the humanity behind them.</p> 
 <img src="/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg">

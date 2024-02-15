@@ -17,6 +17,37 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 4/4 SEAP Games/hero_img-seap games_rev.jpg
   - infopic:
+      title: Saving Singapore’s Film Heritage
+      subtitle: podcast
+      id: infopic
+      description: Thanks to restoration, classic films like <i>The Teenage Textbook
+        Movie</i> (1998) can still be shown on a big screen 20 years after its
+        cinema run.
+      button: Listen to the episode
+      url: /podcast/saving-singapores-film-heritage/
+      image: /images/Podcast/isomer_teepao.jpg
+      alt: Saving Film Heritage
+  - infopic:
+      title: "Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”"
+      subtitle: Art
+      id: infopic
+      description: Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, melds
+        memories and research to produce stories about Singapore.
+      button: Scenes of old Singapore
+      url: /vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/
+      image: /images/Vol 20 Issue 1/Yip Yew Chong/ruralscene3_topic.png
+      alt: Image alt text
+  - infopic:
+      title: Yip Yew Chong’s “I Paint my Singapore”
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Yip Yew Chong’s masterpiece captures scenes of a bygone Singapore.
+        Find out how he ensured historical accuracy in this 60-metre-long work.
+      button: WATCH THE VIDEO
+      url: /videos/reels/arts/
+      image: "/images/Videos: BiblioAsia Reels/yipyewchong_img.png"
+      alt: Image alt text
+  - infopic:
       title: The Trishaws and Tricycles of Singapore By Liesel Strauss
       subtitle: Collection Highlights
       id: infopic

@@ -15,14 +15,14 @@ As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/">Joseph Conrad’s Singapore</a>
 Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as _Lord Jim_, _The End of the Tether_ and _The Shadow-Line_.  
 
-<img src="/images/Vol%2020%20Issue%201/Joseph%20Conrad/Image2_edited.png" style="width:90%;">
+<img src="/images/Vol%2020%20Issue%201/Joseph%20Conrad/josephconrad_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/1/singapore-street-names-victor-savage/">Interview with Victor Savage, Co-author of Singapore Street Names: A Study of Toponymics</a>
 
 From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation’s history.
 
-<img src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/victor_savage.png" style="width:80%;">
+<img src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/victorsavage_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/">Conquering the World’s Tallest Mountain</a>
@@ -34,7 +34,7 @@ David Lim led the first Singapore expedition team that successfully scaled Mount
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/">Chia Boon Leong: The Twinkle-Toed Olympian</a>
 Although short in stature, footballer Chia Boon Leong was a force to be reckoned with.
 
-<img src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/age50b.jpg" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%204/Chia%20Boon%20Leong/chiaboonleong_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a>
@@ -46,7 +46,7 @@ The late architect William Lim did more than shape Singapore’s skyline. He was
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/">The Curious Visit of Qing Ambassadors to Singapore</a>
 The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
 
-<img src="/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/img_01_v3.png" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/qing_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/">Coach Choo Seng Quee, A Giant of Singapore Football</a>

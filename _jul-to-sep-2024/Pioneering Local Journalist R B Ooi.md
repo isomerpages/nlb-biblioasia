@@ -1,6 +1,6 @@
 ---
-title: Pioneering Local Journalist R.B. Ooi
-permalink: /people/2024/2/singapore-local-journalist-rb-ooi-newspaper/
+title: Pioneering Local Journalist R B Ooi
+permalink: /vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/
 variant: markdown
 description: RB Ooi
 ---

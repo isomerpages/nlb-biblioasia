@@ -3,7 +3,20 @@ title: Arts
 permalink: /videos/reels/arts/
 description: ""
 third_nav_title: BiblioAsia Reels
+variant: markdown
 ---
+#### **Yip Yew Chong’s “I Paint my Singapore”**
+
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/UIF61oX7im0" frameborder="0" allowfullscreen=""></iframe></div>
+
+Yip Yew Chong’s masterpiece “I Paint my Singapore” captures scenes of everyday life in Singapore in the 1970s and 80s. Find out how the visual artist ensured historical accuracy in this 60-metre-long work.
+
+**Related podcast episode and article** <br>
+* [Artist Yip Yew Chong Paints His Story in History](/podcast/yip-yew-chong/)
+* [Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”](/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/)<br>
+
+<hr>
+
 #### **86-year-old Professor Yu Chun Yee Plays Chopin's Nocturne on NLB's Heritage Piano**
  
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/eM1aWlQUvvo" frameborder="0" allowfullscreen=""></iframe></div>

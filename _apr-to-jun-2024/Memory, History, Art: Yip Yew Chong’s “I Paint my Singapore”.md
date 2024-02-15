@@ -1,6 +1,6 @@
 ---
 title: "Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”"
-permalink: /holding-area/permalink/paint-my-singapore/
+permalink: /vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/
 variant: markdown
 description: Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, melds
   memories and research to produce stories about Singapore.
@@ -18,12 +18,14 @@ As an artist, Yip Yew Chong made a name for himself painting outdoor murals in p
 
 The public’s response to “I Paint my Singapore” has been remarkable. So many people wanted to view the painting, which was exhibited at the foyer of the Raffles City Convention Centre, that the organisers had to do crowd control.
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/UIF61oX7im0" frameborder="0" allowfullscreen=""></iframe></div>
+
 #### **A Slice of the Past**
 
 Yip’s latest work captures Singapore as it was in the 1970s and 1980s. The work (acrylic on canvas) consists of 27 panels (about the length of five double-decker buses lined up) that form a continuous scene, like a panorama, but one that switches perspective from one canvas to the next, from street scene to bird’s-eye view. Another interesting aspect is that Yip has removed the facade of some of the buildings so that people can see what’s happening inside, a little like X-ray vision.&nbsp;
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/HDBinterior2.jpg)
-<div style="background-color: white;">Looking inside Housing and Development Board flats. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">Looking inside Housing and Development Board flats. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 
 Well-known places and landmarks like the former Van Kleef Aquarium and Little India feature in this painting. But Yip also painted more quotidian scenes – of everyday life in housing estates and outlying areas of Singapore. These have probably had greater resonance with Singaporeans.
@@ -47,13 +49,13 @@ Veteran diplomat Tommy Koh, who opened the exhibition on 29 November 2023, noted
 
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Ruralscene3.jpg)
-<div style="background-color: white;">Idyllic kampong life. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">A hilltop village in the Sembawang-Nee Soon area. <i>Photo by Jimmy Yap. </i></div>
 
 
 Yip agreed that familiarity was a big part of the appeal. In response to an emailed query, Yip said he believed that the painting struck a chord with people because “they can see themselves, their families, relatives and friends; their homes, where they’ve played, worked, studied, served NS etc. in the painting”.
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Chinatown1b.jpg)
-<div style="background-color: white;">A market in Chinatown. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">Kreta Ayer by day. <i>Photo by Jimmy Yap. </i></div>
 
 
 The 54-year-old artist said that he chose to paint scenes of Singapore of the 1970s and 1980s because the period was personally significant to him. “The decades are my growing-up years as a child and as a youth, and I have fond memories \[of that time\].”&nbsp;
@@ -77,7 +79,7 @@ In addition to capturing scenes of a Singapore lost to time, what also adds char
 In depicting the old Central Sikh Temple on Queen Street (the temple is now on Towner Road), Yip painted a non-bearded Sikh serving food because the artist wanted to tell the story he had read about a Chinese man who had entered the faith. “He wanted to be a Sikh, wanted to embrace the religion, but he couldn’t grow a beard… but the Sikh community welcomed him so he just wore a turban and he served in the temple and the community.”
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Chineseman2.jpg)
-<div style="background-color: white;">A Chinese convert to Sikhism (in orange turban) serving food at the Central Sikh Temple. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">A Chinese convert to Sikhism (in orange turban) serving food at the Central Sikh Temple that used to be on Queen Street. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 
 In another scene, Yip painted a wake being held in the void deck of a Housing and Development Board apartment block. Members of the funeral band are disembarking from the lorry that brought them to the wake. Nearby, a parking attendant in a straw hat is writing out a ticket. Around the corner, a man in grey is hurrying down the road in a desperate attempt to avoid a ticket.&nbsp;
@@ -110,10 +112,10 @@ Likewise, if you look at the scene of men unloading cargo off boats in the Singa
 <div style="background-color: white;">Unloading goods from boats on the Singapore River in the 1970s. <i>Photo by Jimmy Yap. </i></div>
 
 At the time of writing, Yip has yet to find a buyer for his monumental work. He said he hoped to find someone, preferably a custodian or curator, who would be able to “conserve, re-exhibit and develop it further, such as into a multimedia experience that can travel around the world”. There are probably not many individuals or institutions with the ability and space to purchase and then exhibit a 60-metre-long painting. Yip, nonetheless, is hopeful that a buyer will eventually emerge. And indeed, if the black, fetid waters of the Singapore River can be transformed into an environment where fish thrive and even otters frolic, then just about anything is possible.
-
+BiblioAsia Reels on YouTube
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-Listen to Yip Yew Chong talk about his work on the <a href="https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/">BiblioAsia+ podcast</a> or watch him on BiblioAsia Reels on YouTube. His book,  
+Listen to Yip Yew Chong talk about his work on the <a href="https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/">BiblioAsia+ podcast</a> or watch him on <a href="https://youtu.be/UIF61oX7im0?si=0zx3A4HSoAKPhbgt">BiblioAsia Reels on YouTube</a>. His book,  
 <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300013604"><i>I Paint my Singapore: Familiar Scenes of Home</i></a> (Landmark Books, 2023), reproduces all the 27 scenes that make up the full painting. Another book, <a href="https://catalogue.nlb.gov.sg/search/card?recordId=300003267"><i>Art of Joy: The Journey of Yip Yew Chong</i></a> (World Scientific, 2024), discusses how Yip became an artist. Both books are available for purchase at bookstores. <i>I Paint my Singapore</i> can be reserved via PublicationSG, while <i>Art of Joy</i> is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (Call nos. RSING 759.95957 WOO and SING 759.95957 WOO).</div>
 			
 <div style="background-color: white;">
