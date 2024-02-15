@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Film Heritage
 ---
 <p>[Music playing]</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Jimmy</strong> 
 <br><em>The</em>  <em>Teenage Textbook</em>  <em>Movie</em> came out in 1998, and
 at the time it was just considered a funny movie. Today, however, people
