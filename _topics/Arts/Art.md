@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
+
+Alvin Tan documents the painstaking process behind the restoration of the statues in St Joseph’s Church.
+
+<img src="/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/ruralscene3_topic.png" style="width:80%;"> 
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/arts/2023/10/painters-diard-duvaucel-farquhar/"> About the Painters: Seeking the Unnamed Artists Behind Diard and Duvaucel's Natural History Drawings</a>
  <p>Natural history drawings might seem clinical and cold, but an unlikely medium pulls back the curtains to find the humanity behind them.</p> 
 <img src="/images/vol-17-issue-4/diard-duvaucel/DiardDuvaucel2.jpg">
