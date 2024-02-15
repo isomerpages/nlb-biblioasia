@@ -20,9 +20,9 @@ sections:
       title: Saving Singapore’s Film Heritage
       subtitle: podcast
       id: infopic
-      description: "Thanks to restoration, classic films like <i>The Teenage Textbook
+      description: Thanks to restoration, classic films like <i>The Teenage Textbook
         Movie</i> (1998) can still be shown on a big screen 20 years after its
-        cinema run. "
+        cinema run.
       button: Listen to the episode
       url: /podcast/saving-singapores-film-heritage/
       image: /images/Podcast/isomer_teepao.jpg
