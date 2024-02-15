@@ -11,9 +11,9 @@ mission to save Singapore's film heritage, film archivist Chew Tee Pao
 saves important movies and gives them a second life.</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on <a href="https://open.spotify.com/episode/7ytNibGncmYyTYbVJ5QiHw" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
-<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u> 
-</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/YmRiMDAxYmUtYjIzOC00YzZmLTlkZjItNzJmMDIyYjY5NzNj?sa=X&amp;ved=0CAUQkfYCahcKEwjwpLrFkYyEAxUAAAAAHQAAAAAQCg" rel="noopener noreferrer nofollow" target="_blank"><u>Google Podcasts</u></a>,
+<p>Available on <a href="https://open.spotify.com/episode/5wc69omxO1qs8idh0yrXky" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
+<a href="https://podcasts.apple.com/us/podcast/saving-singapores-film-heritage/id1688142751?i=1000645409192" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u> 
+</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NDE1NGI4ZjgtNGIyOS00MWY5LWE3ODQtMWFlMzhiMjEzYTlm?sa=X&amp;ved=0CAUQkfYCahcKEwjY2Irs06yEAxUAAAAAHQAAAAAQCg" rel="noopener noreferrer nofollow" target="_blank"><u>Google Podcasts</u></a>,
 <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Lost-Gold-Coins-of-the-Old-Singapore-Library-2304471" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u>
 </a>
 </p>
