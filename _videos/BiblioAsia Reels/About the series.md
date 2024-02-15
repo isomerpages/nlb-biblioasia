@@ -12,6 +12,9 @@ video. Take five to learn interesting things about Singapore history.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UIF61oX7im0"></iframe>
 </div>
+<p>Yip Yew Chong’s masterpiece “I Paint my Singapore” captures scenes of
+everyday life in Singapore in the 1970s and 80s. Find out how the visual
+artist ensured historical accuracy in this 60-metre-long work.</p>
 <h4><strong>Kranji War Memorial: Lest We Forget</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-LwBu7HDNwU?si=7yXAcupYaezIg48V"></iframe>
