@@ -10,7 +10,7 @@ variant: tiptap
 video. Take five to learn interesting things about Singapore history.</p>
 <h4><strong>Yip Yew Chong’s “I Paint my Singapore”</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UIF61oX7im0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UIF61oX7im0?si=3GFNXy5rMAWMFIcp"></iframe>
 </div>
 <p>Yip Yew Chong’s masterpiece “I Paint my Singapore” captures scenes of
 everyday life in Singapore in the 1970s and 80s. Find out how the visual
