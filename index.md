@@ -842,8 +842,8 @@ sections:
       title: Yip Yew Chong’s “I Paint my Singapore”
       subtitle: BiblioAsia Reels
       id: infopic
-      description: "Yip Yew Chong’s masterpiece captures scenes of everyday life in
-        Singapore in the 1970s and 80s. "
+      description: Yip Yew Chong’s masterpiece captures scenes of everyday life in
+        Singapore in the 1970s and 80s.
       button: WATCH THE VIDEO
       url: /videos/reels/arts/
       image: "/images/Videos: BiblioAsia Reels/yipyewchong_img.png"
