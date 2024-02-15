@@ -13,7 +13,7 @@ Yip Yew Chong’s masterpiece “I Paint my Singapore” captures scenes of ever
 
 **Related podcast episode and article** <br>
 * [BiblioAsia+ episode on <i>The Great Reclamation</i>](/podcast/the-great-reclamation/) <br>
-* [An Interview with Rachel Heng, Author of <i>The Great Reclamation</i>](/vol-19/issue-4/jan-mar-2024/interview-rachel-heng/)  
+
 
 <hr>
 
