@@ -12,7 +12,7 @@ important movies and gives them a second life.</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on <a href="https://open.spotify.com/episode/7ytNibGncmYyTYbVJ5QiHw" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
-<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u>
+<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u> 
 </a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/YmRiMDAxYmUtYjIzOC00YzZmLTlkZjItNzJmMDIyYjY5NzNj?sa=X&amp;ved=0CAUQkfYCahcKEwjwpLrFkYyEAxUAAAAAHQAAAAAQCg" rel="noopener noreferrer nofollow" target="_blank"><u>Google Podcasts</u></a>,
 <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Lost-Gold-Coins-of-the-Old-Singapore-Library-2304471" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u>
 </a>
