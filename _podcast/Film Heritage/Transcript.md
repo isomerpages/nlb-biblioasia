@@ -199,7 +199,7 @@ to be it’s going to take some, you know, like putting together a jigsaw,
 right? Putting different pieces from different sources and trying to fit
 it into to make a complete image. There were of course some challenges
 because the image quality, the clarity, the definition of the image actually,
-you know, between the 16 mm and 35 actually differs quite a bit.</p>
+you know, between the 16 mm and 35 mm actually differs quite a bit.</p>
 <p></p>
 <p>And of course they’ve experienced different kinds of deterioration already.
 So obviously that 35 mm, you know, it’s generally magenta looking. So it’s
