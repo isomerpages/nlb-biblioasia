@@ -848,4 +848,14 @@ sections:
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
       image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
+  - infopic:
+      title: "Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”"
+      subtitle: Arts
+      id: infopic
+      description: Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, melds
+        memories and research to produce stories about Singapore.
+      button: Scenes of old Singapore
+      url: /vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/
+      image: /images/Vol 20 Issue 1/Yip Yew Chong/ruralscene3_topic.png
+      alt: Image alt text
 ---
