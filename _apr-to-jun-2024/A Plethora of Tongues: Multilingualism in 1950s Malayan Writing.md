@@ -41,7 +41,7 @@ To take an example from Miao Xiu’s well-known novella 《新加坡屋顶下》
 
 Here we see a succession of terms (in bold) that would surely baffle the non-local Chinese reader – and, for that matter, even a contemporary Chinese reader today. These include the name of a triad (七0七, or “707”), the informal term for someone who runs errands for triads (草鞋, literally “straw sandal”), the slang for “protection money” (包爺費, literally “fee for reserving the master”), the Malay term for “bully” (卡周, or _kacau_), the colloquial word for “five dollars” (一巴掌, literally “one slap”), and the term 扣 in Hokkien/Teochew for counting cash dollars.
 
-  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/undersingaporeroof_img.jpg" style="width: 75%;">
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/undersingaporeroof_img.jpg" style="width: 75%; height:75%;">
 
 <div style="background-color: white;">Cover of《新加坡屋顶下》(<i>Xinjiapo Wuding Xia</i>; <i>Under Singapore's Roof</i>) by Miao Xiu (1951). (<i>From National Library, Singapore, call no. Chinese C813.4 MX</i>).</div>
 
