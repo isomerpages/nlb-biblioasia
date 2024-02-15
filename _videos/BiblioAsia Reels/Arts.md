@@ -14,7 +14,6 @@ Yip Yew Chong’s masterpiece “I Paint my Singapore” captures scenes of ever
 **Related podcast episode and article** <br>
 * [Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/holding-area/permalink/paint-my-singapore/)<br>
 
-
 <hr>
 
 #### **86-year-old Professor Yu Chun Yee Plays Chopin's Nocturne on NLB's Heritage Piano**
