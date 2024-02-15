@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 4/4 SEAP Games/hero_img-seap games_rev.jpg
   - infopic:
+      title: Saving Singapore’s Film Heritage
+      subtitle: podcast
+      id: infopic
+      description: "Thanks to restoration, classic films like <i>The Teenage Textbook
+        Movie</i> (1998) can still be shown on a big screen 20 years after its
+        cinema run. "
+      button: Listen to the episode
+      url: /podcast/saving-singapores-film-heritage/
+      image: /images/Podcast/isomer_teepao.jpg
+      alt: Saving Film Heritage
+  - infopic:
       title: "Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”"
       subtitle: Art
       id: infopic
