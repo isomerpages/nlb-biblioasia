@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Making the Invisible Visible: Restoring the Statues of St Joseph’s Church on Victoria Street</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”</a>
 
-Alvin Tan documents the painstaking process behind the restoration of the statues in St Joseph’s Church.
+Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, melds memories and research to produce stories about Singapore.
 
 <img src="/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/ruralscene3_topic.png" style="width:80%;"> 
 
