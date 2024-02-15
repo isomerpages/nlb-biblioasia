@@ -18,6 +18,8 @@ As an artist, Yip Yew Chong made a name for himself painting outdoor murals in p
 
 The public’s response to “I Paint my Singapore” has been remarkable. So many people wanted to view the painting, which was exhibited at the foyer of the Raffles City Convention Centre, that the organisers had to do crowd control.
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/UIF61oX7im0" frameborder="0" allowfullscreen=""></iframe></div>
+
 #### **A Slice of the Past**
 
 Yip’s latest work captures Singapore as it was in the 1970s and 1980s. The work (acrylic on canvas) consists of 27 panels (about the length of five double-decker buses lined up) that form a continuous scene, like a panorama, but one that switches perspective from one canvas to the next, from street scene to bird’s-eye view. Another interesting aspect is that Yip has removed the facade of some of the buildings so that people can see what’s happening inside, a little like X-ray vision.&nbsp;
