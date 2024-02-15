@@ -10,6 +10,9 @@ can still be shown on a big screen 20 years after its cinema run. On a
 mission to preserve Singapore's film heritage, film archivist Chew Tee
 Pao saves important movies and gives them a second life.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Podcast/isomer_teepao.jpg">
+</div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on <a href="https://open.spotify.com/episode/5wc69omxO1qs8idh0yrXky" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/saving-singapores-film-heritage/id1688142751?i=1000645409192" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u> 
