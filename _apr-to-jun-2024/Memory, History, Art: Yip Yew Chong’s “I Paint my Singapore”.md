@@ -49,8 +49,7 @@ Veteran diplomat Tommy Koh, who opened the exhibition on 29 November 2023, noted
 
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Ruralscene3.jpg)
-<div style="background-color: white;">A hilltop village in the Sembawang-Nee Soon area. <i>Photo by Jimmy Yap. </i></div>
-
+<div style="background-color: white;">A hilltop village in the Sembawang-Nee Soon area. <i>Photo by Jimmy Yap. </i></div><br><br>
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>  
 <b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/](https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/)"> Artist Yip Yew Chong Paints His Story in History</a>"</b>  
 <br>  
