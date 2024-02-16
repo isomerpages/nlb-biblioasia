@@ -89,6 +89,11 @@ The restoration of _Surat Untuk Bidadari_ took about six months. Fortunately, Ga
 
 Garin told me the film serves as capsule for a time that cannot be revisited and re-experienced since Sumba has become a hotspot for local tourists in the last decade. He was appreciative that the film can now be seen as close to its original form by new audiences.[^12]
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>  
+<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/](https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/)"> Saving Singapore’s Film Heritage </a>"</b>  
+<br>  
+<img style="width:95%" alt="singapore history podcast Saving Singapore’s Film Heritage" src="/images/Podcast/ad_banner_biblioasia.jpg"> </center></div>
+
 
 #### **Dharmasena Pathiraja's Bambaru Avith**
 
