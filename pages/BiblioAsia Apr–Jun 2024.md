@@ -45,7 +45,7 @@ the search for a Malayan identity, negotiated and presented through the
 lens of multilingualism in Malayan literature.</div>
 <div class="isomer-card-link">Read the article</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line." src="/images/Vol 20 Issue 1/Joseph Conrad/Image1_edited.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Joseph Conrad’s Singapore</div><div class="isomer-card-description">Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line.</div><div class="isomer-card-link">Read the article</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line." src="/images/Vol 20 Issue 1/Joseph Conrad/Image1_edited.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Joseph Conrad’s Singapore</div><div class="isomer-card-description">Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line. </div><div class="isomer-card-link">Read the article</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -55,11 +55,11 @@ lens of multilingualism in Malayan literature.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">By the Public and for the Public: Contemporary Collecting at the National
 Library</div>
-<div class="isomer-card-description">Singapore’s National Library is hard at work collecting new forms of documentary
-materials today for the sake of future generations.</div>
+<div class="isomer-card-description">Singapore’s National Library is collecting new forms of documentary materials
+today for the sake of future generations.</div>
 <div class="isomer-card-link">Read the article</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Route to Everest Peak" src="/images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed ropes1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Conquering Everest, the World’s Tallest Mountain</div><div class="isomer-card-description">Route to Everest Peak</div><div class="isomer-card-link">Read the article</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Route to Everest Peak" src="/images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed ropes1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Conquering Everest, the World’s Tallest Mountain</div><div class="isomer-card-description">David Lim led the first Singapore team to successfully summit Mount Everest in 1998. This is an excerpt from his book, Mountain to Climb.</div><div class="isomer-card-link">Read the article</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -69,10 +69,8 @@ materials today for the sake of future generations.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">One Hundred Years of Martial Arts: A History of the Singapore Chin Woo
 (Athletic) Association</div>
-<div class="isomer-card-description">The Singapore Chin Woo (Athletic) Association donated its collection of
-photographs and materials to the National Library, Singapore, in 2023.
-Find out more about the history of one of Singapore’s oldest martial arts
-associations.</div>
+<div class="isomer-card-description">One of Singapore’s oldest martial arts associations donated its unique
+collection of photographs and materials to the National Library, Singapore.</div>
 <div class="isomer-card-link">Read the article</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/new-books-singapore-history/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="New books available in the National Library’s collection." src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">New Books on Singapore History</div><div class="isomer-card-description">New books available in the National Library’s collection.</div><div class="isomer-card-link">Read the article</div></div></a>
