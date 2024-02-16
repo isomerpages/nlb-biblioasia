@@ -60,5 +60,21 @@ materials today for the sake of future generations.</div>
 <div class="isomer-card-link">Read the article</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Route to Everest Peak" src="/images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed ropes1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Conquering Everest, the World’s Tallest Mountain</div><div class="isomer-card-description">Route to Everest Peak</div><div class="isomer-card-link">Read the article</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Singapore Chin Woo (Athletic) Association donated its collection of photographs and materials to the National Library, Singapore, in 2023. Find out more about the history of one of Singapore’s oldest martial arts associations." src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">One Hundred Years of Martial Arts: A History of the Singapore Chin Woo
+(Athletic) Association</div>
+<div class="isomer-card-description">The Singapore Chin Woo (Athletic) Association donated its collection of
+photographs and materials to the National Library, Singapore, in 2023.
+Find out more about the history of one of Singapore’s oldest martial arts
+associations.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
 </div>
 <p></p>
