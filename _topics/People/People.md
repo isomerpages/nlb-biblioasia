@@ -12,7 +12,7 @@ As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing
 <img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/05.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/">Joseph Conrad’s Singapore</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/">Joseph Conrad’s Singapore</a>
 Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as _Lord Jim_, _The End of the Tether_ and _The Shadow-Line_.  
 
 <img src="/images/Vol%2020%20Issue%201/Joseph%20Conrad/josephconrad_topic.png" style="width:80%;">
