@@ -4,35 +4,21 @@ permalink: /holding-area/test-dir/
 variant: markdown
 description: ""
 ---
+Walk into most art galleries and you’ll see visitors padding quietly through the space, thoughtfully contemplating the works. This was _not_ the scene at the exhibition of Yip Yew Chong’s “I Paint my Singapore”. All around, people were chattering away as they shared their memories with their companions, prompted by scenes of Singapore in the 1970s and 1980s.&nbsp;
 
+Yip, a visual artist, had spent a considerable amount of time doing research to ensure that the details in the painting were accurate and the reactions he got suggest he succeeded. Artworks like this validate the importance of history and memory, which is why we made Yip and his painting our [cover story](/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/) this month.
 
+One reason “I Paint my Singapore” received so much attention was because it was a 60-metre-long painting; its length made it notable. Likewise, it was the length, this time of men’s hair rather than artworks, that made the government pay attention in the 1960s and 1970s. Librarian Andrea Kee revisits the campaign against long-haired men – aptly called [Operation Snip Snip](/vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/) – and uncovers the bald truth behind it.
 
+Long-haired musicians were among the people caught up in the campaign against hippie culture. Not all musicians were peacenik hippies though. In the late 1960s, one small group of local musicians decided that they would try their luck in South Vietnam, [entertaining American troops](/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/). Writer and content creator Boon Lai finds out why they risked life and limb to perform in a war zone.
 
+Speaking of war, writer and curator Zhuang Wubin’s examination of [photo studios during the Japanese Occupation](/vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/) is a fascinating study of the challenges that photographers had to go through during that period.&nbsp;
 
+In this issue, you’ll also read about the fast and furious [history of dirt bike racing](/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcycle-racing/), see Singapore through the eyes of [Joseph Conrad](/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/), and learn what [Singlish was like before the word was invented](/vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/).&nbsp;
 
+In addition, we look at the [contemporary collecting](/vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/) effort by the National Library to acquire and preserve materials for posterity. We also check out some interesting things that were recently donated to us, such as items relating to the first [Singapore Mount Everest expedition](/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/), and photos and documents from a [100-year-old martial arts association](/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/).&nbsp;
 
-
-
-
-
-
-
-
-
-
-As some of you would’ve noticed, we recently installed a public piano in the lobby of the National Library Building and it’s been a wonderful addition to the space. Every day, someone will slide up to the concert grand to play a tune, whether it’s a classical piece or a pop song. There’s just something about music that makes us want to sing and dance. This remarkable ability of music to move us goes a long way to explain why [Talentime](/vol-19/issue-4/jan-mar-2024/talentime-history-singapore/), the local talent show, struck a chord with Singaporeans between the 1960s and 1980s. Jamie Lee and Mark Wong’s duet is a fitting tribute to a show that once ruled the airwaves.
-
-Back in 1973, Karen Carpenter sang about how she’d listen to the radio waiting for her favourite songs while Elton John remembered when rock was young. That was also the year that Patricia Chan, Heather Merican and Glory Barnabas helped everyone stand taller thanks to their exploits at the [7th Southeast Asian Peninsular Games](/vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/) that were held in Singapore. Lim Tin Seng’s account of their achievements is a commemoration of the 50th anniversary of the games as well as a fitting way to mark Shanti Pereira’s amazing performance at this year’s Asian Games in Hangzhou.
-
-On a more sombre note, it was 60 years ago that a car bomb exploded in Sennett Estate, killing two bystanders. The two men who died were the first victims of the bombing campaign in Singapore that was part of [Konfrontasi](/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/). Unfortunately, more innocents would perish before a peace treaty was signed in 1966. Alvin Tan uncovers the gruesome details of this undeclared war.
-
-While even undeclared wars have armies, not all armies fight literal wars. One well-known army that sees a different kind of battle is the [Salvation Army](/vol-19/issue-4/jan-mar-2024/salvation-army-singapore/), a Protestant church and charitable organisation whose roots in Singapore go back to the 1930s. Lee Geok Boi recces the situation to trace how the Army fought to provide a better life for young men and women in need, and how the Army reacted when faced with an actual hostile army during the Japanese Occupation.&nbsp;
-
-This issue also looks at what happened when officials of the [Qing Imperial Court](/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/) visited Singapore in 1876, the achievements of footballer [Chia Boon Leong](/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/), the challenges of [restoring classic Asian films](/vol-19/issue-4/jan-mar-2024/restoring-asian-films/), a history of [Malay comic books](/vol-19/issue-4/jan-mar-2024/early-malay-comics/), the life of the late architect [William Lim](/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/), and what inspired Rachel Heng to write her critically acclaimed novel, [_The Great Reclamation_](/vol-19/issue-4/jan-mar-2024/interview-rachel-heng/).
-
-As you can see, we spare no effort to unearth great stories for your reading pleasure. Enjoy!
-
-
+Interestingly, even though the focus of the group was martial arts, not everybody was kung-fu fighting. What else did they get up to? You’ll have to read the article to find out.
 
 <div style="background-color: white;">
 <br>
