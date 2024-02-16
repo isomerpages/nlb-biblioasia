@@ -35,7 +35,7 @@ it hosted.</div>
 <a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="From the melting pot of cultures and languages in postwar Singapore emerged the search for a Malayan identity, negotiated and presented through the lens of multilingualism in Malayan literature." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="From the melting pot of cultures and languages in postwar Singapore emerged the search for a Malayan identity, negotiated and presented through the lens of multilingualism in Malayan literature." src="/images/Online Only Articles/A Plethora of Tongues/plethora_topic.png">
 </div>
 </div>
 <div class="isomer-card-body">
