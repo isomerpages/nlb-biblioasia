@@ -20,5 +20,18 @@ campaign against men with long hair.</div>
 <div class="isomer-card-link">Read the article</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lured by good money and adventure, local performers braved the dangers of the Vietnam War to bring entertainment, escape and respite to war-weary American troops." src="/images/Vol 20 Issue 1/Vietnam War/Image1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">American Troops, Singapore Bands, The Vietnam War</div><div class="isomer-card-description">Lured by good money and adventure, local performers braved the dangers of the Vietnam War to bring entertainment, escape and respite to war-weary American troops.</div><div class="isomer-card-link">Read the article</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcycle-racing/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The history of the Singapore Speedway was as fast and furious as the races it hosted." src="/images/Vol 20 Issue 1/Singapore Speedway/Image2_edit.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A Quick History of the Singapore Speedway</div>
+<div class="isomer-card-description">The history of the Singapore Speedway was as fast and furious as the races
+it hosted.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
 </div>
 <p></p>
