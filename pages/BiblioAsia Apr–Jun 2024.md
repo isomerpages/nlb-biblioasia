@@ -9,7 +9,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair." src="/images/Vol 20 Issue 1/Hippie Hysteria/Image1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair." src="/images/Vol 20 Issue 1/Hippie Hysteria/Image2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -30,7 +30,7 @@ campaign against men with long hair.</div>
 <div class="isomer-card-title">A Quick History of the Singapore Speedway</div>
 <div class="isomer-card-description">The history of the Singapore Speedway was as fast and furious as the races
 it hosted.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Read the article</div>
 </div>
 </a>
 </div>
