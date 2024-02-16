@@ -62,6 +62,12 @@ The 54-year-old artist said that he chose to paint scenes of Singapore of the 19
 
 Because everything has changed so much in the ensuing decades, Yip had to rely on his memory, supplemented by extensive research, to paint each scene. In a [BiblioAsia+ podcast](https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/), Yip said he had spent more time thinking about the work and researching it than actually painting it.&nbsp;
 
+
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>  
+<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/](https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/)"> Artist Yip Yew Chong Paints His Story in History</a>"</b>  
+<br>  
+<img style="width:95%" alt="singapore history podcast Artist Yip Yew Chong Paints His Story in History" src="/images/Podcast/ad_banner_biblioasia.jpg"> </center></div>
+
 In terms of research, a lot of time was spent online looking at photos of Singapore of that period, with the National Archives of Singapore being an important source, he said.
 
 It was through his research in the archives that he discovered that the 150-year-old Sri Krishnan Temple on Waterloo Street looked very different in the 1970s from how it does today. “Today, that temple is so elaborate and so colourful,” he said. “But in the 1970s, it was just a simple temple with a _gopuram_ \[pyramid-shaped tower\] on the roof and the statue of Sri Krishnan in the archway.” Thanks to his research, Yip was able to depict the temple accurately.&nbsp;

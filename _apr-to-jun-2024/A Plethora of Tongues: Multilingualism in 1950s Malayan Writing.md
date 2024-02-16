@@ -2,7 +2,9 @@
 title: "A Plethora of Tongues: Multilingualism in 1950s Malayan Writing"
 permalink: /vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/
 variant: markdown
-description: ""
+description: From the melting pot of cultures and languages in postwar Singapore
+  emerged the search for a Malayan identity, negotiated and presented through
+  the lens of multilingualism in Malayan literature.
 ---
 ####  From the melting pot of cultures and languages in postwar Singapore emerged the search for a Malayan identity, negotiated and presented through the lens of multilingualism in Malayan literature.
 By Lee Tong King

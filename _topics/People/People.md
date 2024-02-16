@@ -5,7 +5,7 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/people/2024/2/singapore-local-journalist-rb-ooi-newspaper/">Pioneering Local Journalist R.B. Ooi</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/">Pioneering Local Journalist R.B. Ooi</a>
 
 As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing to fore issues at the heart of the nation.
 

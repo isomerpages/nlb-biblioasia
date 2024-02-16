@@ -17,6 +17,10 @@ Since it was established about two decades ago, the Asian Film Archive (AFA) has
 
 An eminent filmmaker of the second golden age of Philippine cinema from the 1970s to early 1980s, De Leon sent his films to the AFA in a variety of film formats that included 35 mm original picture and sound negatives, and his own collection of surviving 35 mm exhibition prints.
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>  
+<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/](https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/)"> Saving Singapore’s Film Heritage </a>"</b>  
+<br>  
+<img style="width:95%" alt="singapore history podcast Saving Singapore’s Film Heritage" src="/images/Podcast/ad_banner_biblioasia.jpg"> </center></div>
 
 #### **Mike De Leon’s Batch ’81**
 
@@ -88,7 +92,6 @@ The print from Sinematek Indonesia was affected by dirt and shrinkage and had nu
 The restoration of _Surat Untuk Bidadari_ took about six months. Fortunately, Garin was available to catch a work-in-progress preview of the restoration at the Oldham Theatre at the National Archives of Singapore, where the AFA holds its regular screenings. Having not seen the film play on a big screen in over 20 years, he reminisced about the making of the film and shared anecdotes as we watched the film.&nbsp;
 
 Garin told me the film serves as capsule for a time that cannot be revisited and re-experienced since Sumba has become a hotspot for local tourists in the last decade. He was appreciative that the film can now be seen as close to its original form by new audiences.[^12]
-
 
 #### **Dharmasena Pathiraja's Bambaru Avith**
 

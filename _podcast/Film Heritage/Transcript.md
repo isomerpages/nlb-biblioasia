@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Film Heritage
 ---
 <p>[Music playing]</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Jimmy</strong> 
 <br><em>The</em>  <em>Teenage Textbook</em>  <em>Movie</em> came out in 1998, and
 at the time it was just considered a funny movie. Today, however, people
@@ -22,8 +22,7 @@ it.</p>
 <p></p>
 <p>[Audio]</p>
 <p></p>
-<p><strong>Jimmy</strong> 
-<br>That, of course, was the famous introduction to <em>The Teenage Textbook Movie</em>.
+<p>That, of course, was the famous introduction to <em>The Teenage Textbook Movie</em>.
 Tell me about the challenges of restoring <em>The Teenage Textbook Movie</em>.</p>
 <p></p>
 <p><strong>Tee Pao</strong> 

@@ -5,6 +5,7 @@ description: Money No Enough, Forever Fever and The Teenage Textbook Movie
   kickstarted a new era in Singaporean cinema, making them prime candidates for
   restoration.
 image: /images/Vol 19 Issue 2/Restoring SG Films/money_no_enough.png
+variant: markdown
 ---
 #### *Money No Enough, Forever Fever* and *The Teenage Textbook Movie* kickstarted a new era in Singaporean cinema, making them prime candidates for restoration. 
 By Chew Tee Pao
@@ -15,6 +16,12 @@ By Chew Tee Pao
 Film restoration is often thought of as a process that is necessary for older films, perhaps like those produced in the 1950s and 1960s by Cathay-Keris Films and the Shaw Brothers’ Malay Film Productions. When films such as *Patah Hati* (1952) and *Seniman Bujang Lapok* (1961) were made, they were regarded simply as commercial entertainment and little effort was made to store them well. Today, they are considered classics and much time and effort has been spent to restore these prints and preserve them for posterity.
 
 However, even films of a more recent vintage are candidates for restoration. Often, a movie is seen as a commercial enterprise, made with an eye towards ensuring relatively quick returns for investors. It is only with the passage of time that some of these movies become classics and end up as candidates for restoration. 
+
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>  
+<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/](https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/)"> Saving Singapore’s Film Heritage </a>"</b>  
+<br>  
+<img style="width:95%" alt="singapore history podcast Saving Singapore’s Film Heritage" src="/images/Podcast/ad_banner_biblioasia.jpg"> </center></div>
+
 
 #### **Mee Pok Man**
 

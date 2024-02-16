@@ -3,14 +3,20 @@ title: Repairing and Restoring Singapore’s Reel Heritage
 permalink: /vol-18/issue-4/jan-mar-2023/asian-film-archive-restoration/
 description: The Asian Film Archive has been restoring old classics since 2014.
 image: /images/Vol 18 Issue 4/Asian Film/image14.png
+variant: markdown
 ---
 #### The Asian Film Archive has been restoring old classics since 2014.
 By Chew Tee Pao
 
 ![](/images/Vol%2018%20Issue%204/Asian%20Film/image14.png)
-<div style="background-color: white;">Neng Yatimah and P. Ramlee in <i>Patah Hati</i> by K.M. Basker. <i>Courtesy of Shaw Organisation Pte Ltd.</i></div>
+<div style="background-color: white;">Neng Yatimah and P. Ramlee in&nbsp;<i>Patah Hati</i>&nbsp;by K.M. Basker.&nbsp;<i>Courtesy of Shaw Organisation Pte Ltd.</i></div>
 
 Wong Kar Wai’s *In the Mood for Love* (2000). David Lean’s *Lawrence of Arabia* (1962). Charlie Chaplin’s *Modern Times* (1936). Satyajit Ray’s *Pather Panchali* (1955). These are just a handful of canonical works by the auteurs of world cinema that have been digitally restored in the last 10 years.
+
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>  
+<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/](https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/)"> Saving Singapore’s Film Heritage </a>"</b>  
+<br>  
+<img style="width:95%" alt="singapore history podcast Saving Singapore’s Film Heritage" src="/images/Podcast/ad_banner_biblioasia.jpg"> </center></div>
 
 In 2012, the World Cinema Project and the National Museum of Singapore restored the Indonesian film *Lewat Djam Malam* (1954, Usmar Ismail). This project marked a major milestone for the restoration of Southeast Asian films with international support. In the ensuing years, films like *Mee Pok Man* (1995, Singapore), *Manila in the Claws of Light* (1982, Philippines), *Mukhsin* (2006, Malaysia), *Tiga Dara* (1957, Indonesia) and *Santi-Vina* (1954, Thailand) have been restored by both private and public archival institutions.
 
@@ -134,7 +140,7 @@ When combusted, nitrate film has a high burning point, is virtually inextinguish
 
 The restoration of *Permata Di-Perlimbahan* took almost a year to complete before it was presented at AFA’s annual film and art event, “State of Motion 2020: Rushes of Time”. 
 
-#### **The Fate of P. Ramlee’s Seniman Bujang Lapok**
+#### **The Fate of P. Ramlee’s&nbsp;Seniman Bujang Lapok**
 
 The first Malay classic film that I encountered when I started work at AFA was *Seniman Bujang Lapok* (1961) by the Malay film icon P. Ramlee. A self-referential spoof of the Malay film industry of the late 1950s to early 1960s, the film never fails to make audiences young and old laugh. The film exists today in video format and on poor quality VCD and DVD releases.
 
@@ -160,16 +166,14 @@ After inspection, the film element will need to be repaired to ensure it can wit
 <br><br>
 Cleaning is essential to remove mould and projection oil from the film before digitisation can take place. Besides manual cleaning, the restorer may also utilise ultrasonic cleaning equipment with high-frequency, high-intensity sound waves in a liquid to facilitate and enhance the removal of foreign contaminants from the material’s surfaces at different speeds. This is all dependent on the condition of the material. The film is then air-blown to dry it completely before it can be scanned.
 <br><br>
-	<img
-src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h12m30s403.jpg">
+	<img src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h12m30s403.jpg">
 <div> Laboratory staff operating an ultrasonic film cleaner. <i>Courtesy of L’Immagine Ritrovata.</i></div>
 <br>
 <b>Film Scanning</b> 
 <br><br>
 Film scanning is a process that captures each frame of film with its own digital file. The standard for motion pictures is 24 frames per second and each frame of film would have a corresponding Digital Picture Exchange (DPX) image file. A 90-minute film would have approximately 129,600 of these high-resolution digital scans, which would then be ingested and assembled using the restoration software.
 <br><br>
-<img
-src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h13m27s433.jpg">
+<img src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h13m27s433.jpg">
 <div>A 35mm print loaded onto a film scanner <i>Courtesy of L’Immagine Ritrovata.</i></div>
 <br>
 <b>Film Comparison</b>
@@ -180,32 +184,28 @@ No two sets of film elements, even from the same title, are the same. This is be
 <br><br>
 The most labour-intensive component of film restoration involves using a combination of manual and automated digital tools to de-flicker, de-warp, remove dirt and scratches, stabilise images, as well as reconstruct missing and damaged frames. 
 <br><br>
-<img
-src="/images/Vol%2018%20Issue%204/Asian%20Film/Stills_Danga_Anom_01_Bef_Aft.jpg">
+<img src="/images/Vol%2018%20Issue%204/Asian%20Film/Stills_Danga_Anom_01_Bef_Aft.jpg">
 <div> Screenshots from <i>Dang Anom. Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
 <br>
 <b>Sound Restoration</b>
 <br><br>
 The audio tracks on a film element are digitised separately using a dedicated sound capturing device. Audio restoration software is used to eliminate or reduce clicks, crackles, and bumps, smoothen excessive noise and balance the overall tone for a better auditory experience. The sound restoration process happens concurrently with the image restoration, and the restored audio will eventually get synchronised with the restored image.
 <br><br>
-<img
-src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h15m21s242.jpg">
+<img src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h15m21s242.jpg">
 <div>Digitised sound on audio restoration software.<i>Courtesy of L’Immagine Ritrovata.</i></div>
 <br>
 <b>Colour Correction</b>
 <br><br>
 Colour correction is a process that is necessary to recover the original tone and colour of the film due to colour fade that could also affect the contrast and exposure levels of the image. This is necessary even for black-and-white films since there are gradations of black and white tones.
 <br><br>
-<img
-src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h18m20s758.jpg">
-<div>Screen shots from <i>Dang Anom </i>before and after colour correction.<i> Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
+<img src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h18m20s758.jpg">
+<div>Screen shots from&nbsp;<i>Dang Anom </i>before and after colour correction.<i> Courtesy of Cathay-Keris Films Pte Ltd.</i></div>
 <br>
 <b>Subtitling</b>
 <br><br>
 Translation and subtitling are vital components of restoration for the contemporary circulation and exhibition of classic films, especially when the film contains any foreign language that might impede the general viewer experience.<br>
 <br>
-<img
-src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h25m01s744.jpg">
+<img src="/images/Vol%2018%20Issue%204/Asian%20Film/vlcsnap-2022-08-13-19h25m01s744.jpg">
 <div>Screenshot from <i>Sultan  Mahmood Mangkat Dijulang. Coutesy of Cathay-Keris Films Pte Ltd.</i></div>
 <br>
 <b>Film Mastering</b>
@@ -216,8 +216,7 @@ With the restored and colour corrected scans, the restorer can generate the outp
 <br><br>
 From the restoration, digital files and formats are generated and saved for different purposes. In AFA, hard drives are used to access the restored materials, and Linear Tape-Open (LTO), a form of data cartridge formatted for long term digital storage, is used for preservation.
 <br><br>
-<img
-src="/images/Vol%2018%20Issue%204/Asian%20Film/Drives.jpg">
+<img src="/images/Vol%2018%20Issue%204/Asian%20Film/Drives.jpg">
 <div> Hard drives (left) and a Linear Tape-Open cartridge (right). <i>Courtesy of Asian Film Archive.</i></div>
 <br>
 <b>Print and Processing</b>
@@ -235,16 +234,15 @@ Heritage institutions, including archives like the Asian Film Archive (AFA), lev
          
 
 For more on the Asian Film Archive, go to 
-<a 	
-href="www.asianfilmarchive.org">	www.asianfilmarchive.org</a>. </div>
+<a href="www.asianfilmarchive.org">	www.asianfilmarchive.org</a>. </div>
 	
 
 
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%204/Authors/Chew_Tee_Pao.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%204/Authors/Chew_Tee_Pao.png" style="width: 100px; height: 100px;">
 	<b>Chew Tee Pao</b> has been with the Asian Film Archive (AFA) since 2009. As an archivist since 2014, he has overseen the restoration of over 30 films from the AFA collection.</div>
 	
 
