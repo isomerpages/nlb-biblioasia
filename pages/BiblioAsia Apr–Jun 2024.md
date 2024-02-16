@@ -39,13 +39,13 @@ it hosted.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title">A Plethora of Tongues: Multilingualism in 1950s Malayan Writing</div>
 <div class="isomer-card-description">From the melting pot of cultures and languages in postwar Singapore emerged
 the search for a Malayan identity, negotiated and presented through the
 lens of multilingualism in Malayan literature.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Read the article</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line." src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Joseph Conrad’s Singapore</div><div class="isomer-card-description">Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line." src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Joseph Conrad’s Singapore</div><div class="isomer-card-description">Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line.</div><div class="isomer-card-link">Read the article</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -57,7 +57,7 @@ lens of multilingualism in Malayan literature.</div>
 Library</div>
 <div class="isomer-card-description">Singapore’s National Library is hard at work collecting new forms of documentary
 materials today for the sake of future generations.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Read the article</div>
 </div>
 </a>
 </div>
