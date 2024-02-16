@@ -45,11 +45,11 @@ the search for a Malayan identity, negotiated and presented through the
 lens of multilingualism in Malayan literature.</div>
 <div class="isomer-card-link">Read the article</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line." src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Joseph Conrad’s Singapore</div><div class="isomer-card-description">Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line.</div><div class="isomer-card-link">Read the article</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line." src="/images/Vol 20 Issue 1/Joseph Conrad/Image1_edited.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Joseph Conrad’s Singapore</div><div class="isomer-card-description">Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line.</div><div class="isomer-card-link">Read the article</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore’s National Library is hard at work collecting new forms of documentary materials today for the sake of future generations." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore’s National Library is hard at work collecting new forms of documentary materials today for the sake of future generations." src="/images/Vol 20 Issue 1/Contemporary/Contemporary_collecting__6__1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
