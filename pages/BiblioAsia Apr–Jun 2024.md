@@ -59,6 +59,6 @@ Library</div>
 materials today for the sake of future generations.</div>
 <div class="isomer-card-link">Read the article</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Route to Everest Peak" src="/images/Online Only Articles/Conquer the Tallest Mountain/mok on fixed ropes1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Conquering Everest, the World’s Tallest Mountain</div><div class="isomer-card-description">Route to Everest Peak</div><div class="isomer-card-link">Read the article</div></div></a>
 </div>
 <p></p>
