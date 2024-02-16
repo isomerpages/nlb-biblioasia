@@ -46,6 +46,6 @@ the search for a Malayan identity, negotiated and presented through the
 lens of multilingualism in Malayan literature.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line." src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Joseph Conrad’s Singapore</div><div class="isomer-card-description">Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as Lord Jim, The End of the Tether and The Shadow-Line.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
