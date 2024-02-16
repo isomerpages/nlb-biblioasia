@@ -49,8 +49,12 @@ Veteran diplomat Tommy Koh, who opened the exhibition on 29 November 2023, noted
 
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Ruralscene3.jpg)
-<div style="background-color: white;">A hilltop village in the Sembawang-Nee Soon area. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">A hilltop village in the Sembawang-Nee Soon area. <i>Photo by Jimmy Yap. </i></div><br>
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>  
+<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/](https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/)"> Artist Yip Yew Chong Paints His Story in History</a>"</b>  
+<br>  
+<img style="width:95%" alt="singapore history podcast Artist Yip Yew Chong Paints His Story in History" src="/images/Podcast/ad_banner_biblioasia.jpg"> </center></div>
 
 Yip agreed that familiarity was a big part of the appeal. In response to an emailed query, Yip said he believed that the painting struck a chord with people because “they can see themselves, their families, relatives and friends; their homes, where they’ve played, worked, studied, served NS etc. in the painting”.
 
