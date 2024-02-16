@@ -217,7 +217,7 @@ sections:
       image: /images/Vol 20 Issue 1/Singapore Speedway/Image2_edit.png
       alt: Image alt text
   - infopic:
-      title: American Troops, Singapore Bands, The Vietnam War
+      title: American Troops. Singapore Bands. The Vietnam War
       subtitle: Music
       id: infopic
       description: Lured by the prospects of money and adventure, local performers
