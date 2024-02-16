@@ -73,8 +73,8 @@ materials today for the sake of future generations.</div>
 photographs and materials to the National Library, Singapore, in 2023.
 Find out more about the history of one of Singapore’s oldest martial arts
 associations.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Read the article</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/new-books-singapore-history/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="New books available in the National Library’s collection." src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">New Books on Singapore History</div><div class="isomer-card-description">New books available in the National Library’s collection.</div><div class="isomer-card-link">Read the article</div></div></a>
 </div>
 <p></p>
