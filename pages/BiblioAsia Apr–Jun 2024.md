@@ -32,6 +32,6 @@ campaign against men with long hair.</div>
 it hosted.</div>
 <div class="isomer-card-link">Read the article</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="During the Japanese Occupation, local photographers worked under challenging conditions." src="/images/Vol 19 Issue 4/Photo Studios/KallangAirport1942.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Photo Studios and Photography During the Japanese Occupation</div><div class="isomer-card-description">During the Japanese Occupation, local photographers worked under challenging conditions.</div><div class="isomer-card-link">Read the article</div></div></a>
 </div>
 <p></p>
