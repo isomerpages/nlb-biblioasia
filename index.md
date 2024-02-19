@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/
-      button: The Twinkle-Toed Olympian
+      button: FOOTBALLER CHIA BOON LEONG
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
