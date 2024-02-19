@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/">American Troops, Singapore Bands, The Vietnam War</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/">American Troops. Singapore Bands. The Vietnam War</a>
 Lured by the prospects of money and adventure, local performers braved the dangers of the Vietnam War to provide entertainment to American troops.
 
  <img src="/images/Vol%2020%20Issue%201/Vietnam%20War/sgband_topic.png" style="width:80%;">
