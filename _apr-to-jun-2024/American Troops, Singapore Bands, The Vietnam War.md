@@ -1,5 +1,5 @@
 ---
-title: American Troops, Singapore Bands, The Vietnam War
+title: "American Troops. Singapore Bands. The Vietnam War"
 permalink: /vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/
 variant: markdown
 description: Lured by good money and adventure, local performers braved the
