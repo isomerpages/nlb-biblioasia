@@ -1,6 +1,6 @@
 ---
 title: BiblioAsia Apr–Jun 2024
-permalink: /vol-20/issue-1/apr-jun-2024/
+permalink: /vol-20/issue-1/test-apr-jun-2024/
 variant: tiptap
 description: ""
 ---
