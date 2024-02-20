@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-Detail from Yip Yew Chong’s “I Paint my Singapore”. Photo by Jimmy Yap.
-
 <img src="/images/Vol%2020%20Issue%201/Biblioasia_20_1_cover.png">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/jan-mar-2024/director-note/">Director's Note</a>
@@ -44,4 +42,4 @@ David Lim led the first Singapore team to successfully summit Mount Everest in 1
 One of Singapore’s oldest martial arts associations donated its unique collection of photographs and materials to the National Library, Singapore. *Seow Peck Ngiam*. [(PDF)](/files/pdf/Vol%2019/1__BiblioAsia_Jan_Mar2024_Talentime.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/new-books-singapore-history/">New Books on Singapore History</a><br>
-	New books available in the National Library’s collection.
+	New books available in the National Library’s collection. [(PDF)](/files/pdf/Vol%2019/1__BiblioAsia_Jan_Mar2024_Talentime.pdf)
