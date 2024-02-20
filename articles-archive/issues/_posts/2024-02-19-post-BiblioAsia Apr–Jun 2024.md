@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-Talentime ruled the airwaves before it was first shown on television in 1967. The talent show launched the musical careers of bands such as The Crescendos and The Quests.
+Detail from Yip Yew Chong’s “I Paint my Singapore”. Photo by Jimmy Yap.
 
 <img src="/images/Vol%2020%20Issue%201/Biblioasia_20_1_cover.png">
 
