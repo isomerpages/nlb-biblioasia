@@ -9,7 +9,7 @@ variant: markdown
 ---
 <img src="/images/Vol%2020%20Issue%201/Biblioasia_20_1_cover.png">
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/jan-mar-2024/director-note/">Director's Note</a>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/director-note/">Director's Note</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Memory. History. Art: Yip Yew Chong’s “I Paint my Singapore”</a><br>
 Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, mixes memories and research to produce stories about Singapore. *Jimmy Yap*. [(PDF)](/files/pdf/Vol%2019/1__BiblioAsia_Jan_Mar2024_Talentime.pdf)
