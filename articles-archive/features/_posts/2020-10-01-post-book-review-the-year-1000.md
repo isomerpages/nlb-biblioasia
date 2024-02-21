@@ -53,7 +53,7 @@ Hansen says the solution lies in how we respond to these shifts in society. Hist
 <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204421079">(Call nos.: R909.1 HAN; 909.1 HAN)</a> and on <a href="https://nlb.overdrive.com">NLB OverDrive</a>.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: The Guangzhou Massacre saw the slaying of the inhabitants of Guangzhou in 878–79 by the rebel army of Huang Chao, who attempted to overthrow the Tang dynasty. Most of the victims were wealthy foreign merchants, mainly Arabs and Persians. 
