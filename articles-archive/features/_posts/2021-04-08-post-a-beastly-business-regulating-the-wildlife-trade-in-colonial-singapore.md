@@ -157,7 +157,7 @@ at the time.
 <b>Fiona Tan</b> is an Archivist with the Records Management department at the National Archives of Singapore. She started her journey with the archives as an undergraduate studying history, poring over microfilms at the old Archives Reading Room. This research formed the basis of her dissertation, which is abridged in this article.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
