@@ -166,7 +166,7 @@ The story of these graphic artists of a bygone era will contribute greatly to ou
 Singapore. She is also a Lee Kong Chian Research Fellow (2019). [Photo by Melisa Teo]
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
 #### **NOTES**
