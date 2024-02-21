@@ -192,7 +192,7 @@ parades have become more important as a money-making venture rather than a relig
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: The Three Pure Ones (San Qing 三清) refer to the Daoist Trinity, the three highest gods in the Daoist pantheon. The three gods are Yuanshi Tianzhun (元始天尊), Lingbao Tianzhun (灵宝天尊) and Daode Tianzhun (道德天尊).
