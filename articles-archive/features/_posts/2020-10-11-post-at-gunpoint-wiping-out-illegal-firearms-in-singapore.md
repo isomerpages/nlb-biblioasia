@@ -196,7 +196,7 @@ Although gun violence was effectively contained in Singapore during the 1980s an
 <b>Tan Chui Hua</b> is a researcher and writer who has worked on various projects documenting the heritage of Singapore, including a number of heritage trails and publications. She is a regular contributor to <i>BiblioAsia</i>.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Khoo, P. (1968, November 12). [As the lights went out, Loh fired his machine-gun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19681112-1.2.73). *The Straits Times*, p. 11; [A gun battle that began at dawn](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19681111-1.2.58). (1968, November 11). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
