@@ -200,7 +200,7 @@ Malaya’s loss was, however, China’s gain. Wu left for China at a time when i
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Wu, L.-T. (2014). *[Plague fighter: The autobiography of a modern Chinese physician](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787)*. Penang: Areca Books. (Call no.: RSEA 610.92 WU)
