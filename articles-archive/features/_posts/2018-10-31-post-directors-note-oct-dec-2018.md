@@ -26,7 +26,7 @@ With gender-related issues so much in the news today, [Phyllis Chew](/vol-14/iss
 
 In another, and mellower, look at women, [Robert Yeo](/vol-14/issue-3/oct-dec-2018/an-ode-to-two-women/) pays tribute to his daughter Sha Min and the acclaimed writer Catherine Lim, in an extract from a forthcoming sequel to his memoir, *Routes: A Singaporean Memoir 1940–1975*.
 
-Finally, we showcase two collections from the National Library: [Ong Eng Chuan](/vol-14/issue-3/oct-dec-2018/makan-place-coffee-s/) highlights publications featuring some of Singapore’s best hawker stalls from our Legal Deposit Collection.
+Finally, we showcase two collections from the National Library: [Ong Eng Chuan](/vol-14/issue-3/oct-dec-2018/papers-from-past/) previews significant items from the Lee Kip Lee and Lee Kip Lin Family Archives of personal and business papers belonging to a prominent Peranakan family in British Malaya; while [Barbara Quek](/vol-14/issue-3/oct-dec-2018/makan-place-coffee-s/) highlights publications featuring some of Singapore’s best hawker stalls from our Legal Deposit Collection.
 
 On the subject of Legal Deposit, I should take this opportunity to highlight the recent amendment to the National Library Board Act which now allows us to archive Singapore websites without having to seek the express permission of website owners. [Shereen Tay](/vol-14/issue-3/oct-dec-2018/archive-sg-wide-web/) stresses the importance of systematically archiving the often ephemeral nature of web content for our future generations.
 
