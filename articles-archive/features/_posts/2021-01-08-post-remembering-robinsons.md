@@ -240,4 +240,4 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 <b>Kevin Khoo</b> is a Senior Manager with the Oral History Centre at the National Archives of Singapore.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
