@@ -141,7 +141,7 @@ One of the traits of a great cuisine is its ability to retain its traditional ro
 author of several books and a prolific writer of cookbooks focusing on Asian cuisines and, in particular, Southeast Asian recipes. 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]:  Eurasians are persons with mixed European and Asian lineage. Most Eurasians in Singapore can trace the European part of their ancestry to the Portuguese, Dutch or British, while others are of Danish, French, German, Italian or Spanish descent. See Ho, S. (2013, July 25). [*Eurasian community.*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html) Retrieved from Singapore Infopedia website.
