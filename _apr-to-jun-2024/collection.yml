@@ -2,6 +2,7 @@ collections:
   apr-to-jun-2024:
     output: true
     order:
+      - Director's Note.md
       - "Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”.md"
       - Singapore's Hippie Hysteria and the Ban on Long Hair.md
       - American Troops, Singapore Bands, The Vietnam War.md
