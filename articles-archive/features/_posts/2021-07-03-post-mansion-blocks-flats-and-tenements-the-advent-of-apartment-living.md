@@ -149,7 +149,7 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 <b>Dr Julian Davison</b>  is an anthropologist, architectural historian and former Lee Kong Chian Research Fellow of the National Library, Singapore. He grew up in Singapore and Malaysia, but currently lives here as a writer and television presenter, specialising in Singapore architecture and local history.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Georges-Eugène Haussmann, commonly known as Baron Haussmann (1809–91), was a French official who served as prefect of Seine (1853–70) and was chosen by Emperor Napoleon III to carry out a massive urban renewal programme of new boulevards, parks and public works in Paris.  
