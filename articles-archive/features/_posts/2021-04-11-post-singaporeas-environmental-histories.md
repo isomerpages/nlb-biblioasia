@@ -141,7 +141,7 @@ The study of Southeast Asia’s natural history has been driven by many factors,
 
 <div class="infobox"> 
 <img src="/images/Vol-17-issue-1/humanxnature/x.png" style="width: 200px; height: 230px;">
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 Visit the <a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/humanxnature/">“Human x Nature: Environmental Histories of Singapore”</a> exhibition at the Gallery on Level 10 of the National Library building on Victoria Street. Featuring over 150 artefacts, it explores our relationship with the natural world, from cultural understandings and scientific study to commercial and urban land use. It also examines efforts at conservation and restoration.
 </div>
 
@@ -151,7 +151,7 @@ Visit the <a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibition
 <b>Georgina Wong</b> is a Curator with Programmes &amp; Exhibitions at the National Library, Singapore. She is co-curator of the “Human x Nature: Environmental Histories of Singapore” exhibition.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
