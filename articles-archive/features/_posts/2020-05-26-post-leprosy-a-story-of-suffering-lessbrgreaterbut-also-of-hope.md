@@ -199,7 +199,7 @@ With multi-drug therapy providing an effective cure, leprosy is no longer the dr
 finalist at the 2019 Singapore Book Awards. She is a lecturer at Nanyang and Republic polytechnics.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
 ##### NOTES
 [^1]: Khong, K.Y. (1969, September). Leprosy in Singapore: A survey of this disease between the years 1962–1967. *Singapore Medical Journal, 10* (3), 194–197, p. 194. Retrieved from  Singapore Medical Journal website. 
