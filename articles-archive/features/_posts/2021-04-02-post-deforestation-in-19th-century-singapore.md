@@ -133,7 +133,7 @@ The relationship between forests and the climate is complex. A look at the envir
 <b>Chia Jie Lin</b> is an Assistant Curator with Programmes &amp; Exhibitions at the National Library, Singapore. She is co-curator of the “Human x Nature: Environmental Histories of Singapore” exhibition.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
