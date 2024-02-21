@@ -27,4 +27,4 @@ While we celebrate Team Singapore’s outstanding performance at the SEA Games a
 
 <b>Ms Tay Ai Cheng</b><br>Deputy Chief Executive <br>National Library Board
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
