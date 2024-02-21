@@ -142,7 +142,7 @@ After Feng’s death in 1947, the family followed the Chinese Nationalist Party 
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a> 
+<a href="/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a> 
 
 #### **NOTES**
 
