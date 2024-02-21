@@ -103,4 +103,4 @@ Visit NLB’s BookSG website to access the [Tamil Digital Heritage Collection](h
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
