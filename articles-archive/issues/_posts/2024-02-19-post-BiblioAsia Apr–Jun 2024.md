@@ -33,7 +33,7 @@ From the melting pot of cultures and languages in postwar Singapore came the sea
 Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as _Lord Jim_, _The End of the Tether_ and _The Shadow-Line_. *Ian Burnet*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_JosephConrad.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/">By the Public and for the Public: Contemporary Collecting at the National Library</a><br>
-Singapore’s National Library is collecting new forms of documentary materials today for the sake of future generations. *Janice Loo and Lee Meiyu*.
+Singapore’s National Library is collecting new forms of documentary materials today for the sake of future generations. *Janice Loo and Lee Meiyu*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_ContemporaryCollecting.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/">Conquering the World’s Tallest Mountain</a><br>
 David Lim led the first Singapore team to successfully summit Mount Everest in 1998. This is an excerpt from his book, _Mountain to Climb_. *David Lim*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_MountEverest.pdf)
