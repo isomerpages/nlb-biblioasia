@@ -5,6 +5,13 @@ breadcrumb: Overview
 collection_name: past-issues
 variant: markdown
 ---
+#### Volume 20
+
+|                                                              |                                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![BiblioAsia 19-1 cover](/images/covers/ba20_1_cover.jpg)[Apr–Jun 2023](https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/)<br>[Apr–Jun 2023 (PDF)](/files/pdf/biblioasia_apr_jun_2024_5mb.pdf)|![BiblioAsia 19-2 cover](/images/covers/ba19-02%20cover.jpg)[Jul-Sep 2023](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/)<br>[Jul-Sep 2023 (PDF)](/files/pdf/biblioasia%20jul-sep%2023%20below%205mbv2.pdf)|
+
+
 #### Volume 19
 
 |                                                              |                                                              |
