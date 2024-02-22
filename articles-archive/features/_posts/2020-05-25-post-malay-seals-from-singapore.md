@@ -223,7 +223,7 @@ Traditional Malay seals were generally personal official seals. Behind the offic
 <b> Dr Annabel Teh Gallop</b> is head of the Southeast Asian Collection at The British Library. She works on Malay and Indonesian manuscripts and has a particular interest in letters, documents, seals, and the illumination of Qur’ans and other Islamic manuscripts from Southeast Asia.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
 ##### REFERENCES
 

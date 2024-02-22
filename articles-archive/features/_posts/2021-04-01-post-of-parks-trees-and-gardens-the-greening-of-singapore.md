@@ -161,7 +161,7 @@ The latest Singapore Green Plan takes it one step further by merging the trend t
 <b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

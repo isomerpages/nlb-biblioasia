@@ -156,7 +156,7 @@ Although newness brings excitement, if we are not deliberate in preserving the s
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: See Loo, J. (2017, Oct–Dec). [A lifetime of labour: Cantonese amahs in Singapore](http://www.nlb.gov.sg/biblioasia/2017/10/02/a-lifetime-of-labour-cantonese-amahs-in-singapore/). *BiblioAsia, 13* (3): 2–9. Retrieved from BiblioAsia website.

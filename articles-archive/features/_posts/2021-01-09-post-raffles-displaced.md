@@ -225,7 +225,7 @@ Panellist Faris Joraimi noted that much of the commentary assumed that those who
 <b>Ng Yi-Sheng</b> is a poet, fictionist, playwright and researcher. His books include his debut poetry collection last boy, which won the Singapore Literature Prize in 2008; the short story collection <i>Lion City</i>, which won the Singapore Literature Prize in 2020, and the performance lecture compilation <i>Black Waters, Pink Sands</i>.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

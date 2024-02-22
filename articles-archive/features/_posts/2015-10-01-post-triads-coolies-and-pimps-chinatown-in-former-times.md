@@ -177,7 +177,7 @@ Chinese street hawkers plying their trade outside Telok Ayer Market, c. 1915. <i
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
 #### REFERENCES
 [Anti-opium society’s fine work](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370318-1.2.54.aspx). (1937, March 18). *The Singapore Free Press and Mercantile Advertiser (1884–1942)*, p. 6. Retrieved from NewspaperSG.

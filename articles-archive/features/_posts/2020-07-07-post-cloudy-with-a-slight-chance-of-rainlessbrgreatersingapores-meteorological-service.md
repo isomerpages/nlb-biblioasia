@@ -172,7 +172,7 @@ In July 2019, the MEWR announced that a Climate Science Research Programme Offic
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Singapore’s average sea level now 14 cm higher than ‘pre-1970 levels’: Met Service. (2020, March 23). *CNA*. Retrieved from Channel NewsAsia website.

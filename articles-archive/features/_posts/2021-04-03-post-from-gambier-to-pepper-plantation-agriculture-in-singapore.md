@@ -157,7 +157,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 <b>Timothy Pwee</b> is a Senior Librarian with the National Library, Singapore. He is interested in Singapore’s business and natural histories and is developing the library’s donor collections around these areas.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

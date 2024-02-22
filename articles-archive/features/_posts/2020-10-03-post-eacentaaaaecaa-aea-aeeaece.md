@@ -112,7 +112,7 @@ table {
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 #### **注释**
 [^1]: 江柏炜（2015年12月）。〈“两座岛、一群人”：1949年以前新加坡金门会馆的跨境运作〉，载华[《人研究国际学报》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13187145) 第7卷，第2期，页3- 4。（ 索书号：RSING 09.05951 IJDCS）；江柏炜（2010）。[《星洲浯民：新加坡金门人的宗乡会馆》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13582525)（页1-3，71，73）。金门：金门县文化局。（ 索书号：RSING 369.25957 JBW）。

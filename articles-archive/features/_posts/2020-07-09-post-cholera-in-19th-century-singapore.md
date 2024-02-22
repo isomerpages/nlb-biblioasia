@@ -189,7 +189,7 @@ Although there are still sporadic instances of cholera infections in sanitised S
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: [The Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18410401-1.2.12). (1841, April 1). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG. 

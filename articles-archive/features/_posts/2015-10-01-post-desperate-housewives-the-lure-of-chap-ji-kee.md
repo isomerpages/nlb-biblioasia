@@ -135,7 +135,7 @@ While it is entirely plausible that *chap ji kee* might still be played in some 
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
 
 #### REFERENCES

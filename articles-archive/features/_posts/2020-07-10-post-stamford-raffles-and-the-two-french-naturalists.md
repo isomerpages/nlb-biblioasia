@@ -186,7 +186,7 @@ Georges Cuvier named a species of deer, the <i>Rucervus duvaucelii</i>, commonly
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Notice sur les voyages de MM. Diard et Duvaucel, naturalistes français, dans les Indes orientales et dans les iles de la Sonde, extraite de leur correspondance et lue à l’Académie des sciences le 14 mai 1821 par M. le baron George Cuvier, membre de l’institut. *Revue Encyclopédique, ou analyse raisonnée des productions les plus remarquables dans la littérature, les sciences et les arts, par une réunion de Membres de l’Institut et d’autres hommes de lettres*. Tome X. Paris, Avril 1821 (p .478); Société Asiatique. (1824, Mars–Avril). Notice sur le voyage de M. Duvaucel. *Journal Asiatique*, IV, pp. 137–145. (Not available in NLB holdings)

@@ -143,7 +143,7 @@ There is one final aspect that gives the Dumbarton Folio, and indeed natural his
 <b>Faris Joraimi</b> is a student at Yale-NUS College and will graduate in 2021. He studies the history of the Malay world, and has written for <i>Mynah, Budi Kritik, S/pores</i> and <i>New Naratif</i>. Faris was also co-editor of <i>Raffles Renounced: Towards a Merdeka History</i> (2021), a volume of essays on decolonial history in Singapore.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

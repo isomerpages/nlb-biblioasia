@@ -166,7 +166,7 @@ Having weighed the historical evidence – the budgetary constraints that affect
 <b>Dr Yeo Kang Shua</b> is Associate Professor of Architectural History, Theory and Criticism, and Associate Head of Pillar (Research/Practice/Industry) at the Singapore University of Technology and Design.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

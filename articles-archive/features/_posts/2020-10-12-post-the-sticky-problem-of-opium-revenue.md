@@ -155,7 +155,7 @@ Visitors to the Opium Treatment Centre on St John’s Island, 1957. The facility
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: [No fund money to cure opium addicts](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19520917-1.2.68). (1952, September 17). *The Straits Times*, p. 4. Retrieved from NewspaperSG. 

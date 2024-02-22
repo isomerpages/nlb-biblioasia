@@ -176,7 +176,7 @@ As such, although a literary character, Sang Nila Utama played a large and impor
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **REFERENCES**
 Lin, C. (2019, May 5). HDB unveils plans for new park in Bidadari estate. *CNA*. Retrieved from Channel NewsAsia website.

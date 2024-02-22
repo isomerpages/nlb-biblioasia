@@ -95,4 +95,4 @@ Girl posing with an Indian milkman’s calf, with the Winstedt Road flats in the
 <i>There Was a Time: Singapore from Self-Rule to Independence, 1959–1965</i> – produced by Landmark Books in collaboration with the National Archives of Singapore (NAS) – is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204483324">Call nos.: RSING 959.5705 THE-[HIS] and SING 959.5705 THE</a>). Comprising some 238 images, largely taken from the collections of the NAS, the 288-page pictorial book also retails at major bookshops in Singapore.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>

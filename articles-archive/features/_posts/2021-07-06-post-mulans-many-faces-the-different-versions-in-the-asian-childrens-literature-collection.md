@@ -137,7 +137,7 @@ The book is available for reference at the Lee Kong Chian Reference Library and 
 <b>Michelle Heng</b> is a Librarian with the National Library, Singapore. She has curated a tribute showcase, “Edwin Thumboo – Time-travelling: A Poetry Exhibition” in 2012, and compiled and edited an annotated bibliography on Edwin Thumboo, <i>Singapore Word Maps: A Chapbook of Edwin Thumboo’s New and Selected Place Poems</i> (2012) as well as the <i>Selected Poems of Goh Poh Seng</i> (2013).
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
 #### **RELATED ARTICLES**

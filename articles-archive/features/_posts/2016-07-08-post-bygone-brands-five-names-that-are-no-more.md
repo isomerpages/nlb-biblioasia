@@ -151,7 +151,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 	<b>Sue-Ann Chia</b> is a journalist with over 15 years experience covering politics and current affairs at various newspapers, including <i>The Straits Times</i> and <i>Today</i>. She is currently the Associate Director at the Asia Journalism Fellowship and a Director at The Nutgraf, a boutique writing and media consultancy.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
+<a href="/vol-12/issue-2/jul-sep-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

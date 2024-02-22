@@ -217,7 +217,7 @@ The aesthetic quality of the building plans, their breadth and comprehensiveness
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 
 #### **NOTES**

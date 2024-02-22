@@ -130,7 +130,7 @@ The new and improved bird park will include themed walk-through aviaries designe
 <b>Zoe Yeo</b> is an Associate Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions at the National Library Board. She manages the Legal Deposit function and collection, including its collection policies, workflows and enforcement as well as engagement with publishers and the public.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
 #### **NOTES**

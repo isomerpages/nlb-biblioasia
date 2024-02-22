@@ -169,7 +169,7 @@ The heart of *Marjorie Doggett’s Singapore* are the photographs from *Characte
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: The Marjorie Doggett Collection, with negatives, prints and documents, provided the primary research foundation for *Marjorie Doggett’s Singapore* and this essay. The materials were arranged in detail by Edward Stokes for his research needs. However, as the collection is currently being formally catalogued by the National Archives of Singapore, it is not possible here to give specific text references.

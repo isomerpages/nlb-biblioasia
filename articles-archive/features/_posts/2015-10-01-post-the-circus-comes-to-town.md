@@ -156,4 +156,4 @@ These fancy performing costumes were mostly designed and hand-sewn by Sze Ling F
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
