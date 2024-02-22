@@ -156,7 +156,7 @@ Skeat’s work is less interesting for the things he says about the Malays but m
 <b>Dr Farish A. Noor</b> is Associate Professor at the S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore. His recent works include <i>Racial Difference and the Colonial Wars of 19th Century Southeast Asia</i> (edited with Peter Carey, 2021), and <i>Data Collecting in Colonial Southeast Asia 1800–1900: Framing the Other</i> (2020).
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

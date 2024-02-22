@@ -191,7 +191,7 @@ After a brief illness, Song died at home on 29 September 1941 at the age of 70. 
 **Dr Kevin Y.L. Tan** is Adjunct Professor at the Faculty of Law, National University of Singapore, and at the S. Rajaratnam School of International Studies, Nanyang Technological University. He specialises in Constitutional and Administrative Law, International Law and International Human Rights. He has written and edited over 50 books on the law, history and politics of Singapore.
 
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Song, O.S. (1923). *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx)*. London: John Murray. (Accession no.: B02956336A) [Note: For the purposes of this article, references to Song’s classic book will be to the original version.]

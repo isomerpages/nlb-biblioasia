@@ -217,7 +217,7 @@ The initials “MKS” that were once emblazoned in a crest on the pediment abov
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Lee Kip Lin claims Kader Sultan bought a plot of about 20 acres “between East Coast Road and the sea” in 1917. Lee, K.L. (2015). *[The Singapore house, 1819–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201187608)* (p. 55). Singapore: Marshall Cavendish. (Call no.: RSING 728.095957 LEE). However, Lee cites no source and I could find no corroborating evidence for this date. Singapore Land Authority records for the property begin only in 1928.

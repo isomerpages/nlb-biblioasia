@@ -140,7 +140,7 @@ While estimates are not available, the number of people who identify as being Ur
 <b>Nasri Shah</b>   is a Curator with the Malay Heritage Centre. His past projects include “Mereka Utusan” (2016) and “Women in Action” (2018), which focused on histories of the Malay publishing industry and women’s rights movement respectively.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

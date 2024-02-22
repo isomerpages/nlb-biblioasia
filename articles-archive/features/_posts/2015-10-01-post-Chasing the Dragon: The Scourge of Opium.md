@@ -170,7 +170,7 @@ In 1934, the register was closed and no new applicants were accepted except for 
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
 #### REFERENCES
 

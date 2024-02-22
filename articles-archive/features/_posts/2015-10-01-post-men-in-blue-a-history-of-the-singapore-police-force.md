@@ -153,7 +153,7 @@ In the words of Assistant Superintendent Ryan Koh, the poster boy for the island
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
 #### REFERENCES
 [60 years ago](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940121-1.2.74.7.3.3.aspx). (1994, January 21). The Straits Times, p. 22. Retrieved from NewspaperSG. 

@@ -135,7 +135,7 @@ In spite of such possible variance, making sense of the complexities of the past
 <b>Dr Meira Chand’s</b> multicultural heritage is reflected in the nine novels she has published. <i>A Different Sky</i> made it to Oprah Winfrey’s reading list for November 2011, and was long-listed for the International IMPAC Dublin Literary Award in 2012. Her latest book, <i>Sacred Waters</i>, was published in 2018. She has a PhD in Creative Writing, and lived in Japan and India before moving to Singapore in 1997.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 
 #### **NOTES**

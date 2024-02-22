@@ -116,7 +116,7 @@ Elemen-elemen seks dan seksualiti dalam sastera harus dinilai dengan teliti. Sek
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
 #### RUJUKAN
 Ahmad Lutfi. (1948). *[Pelayan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201265143)*. Singapura: Qalam Publisher. (No. panggilan: RCLOS 899.283 AHM)

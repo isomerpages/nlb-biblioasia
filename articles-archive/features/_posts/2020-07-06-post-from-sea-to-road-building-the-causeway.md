@@ -182,7 +182,7 @@ On 31 January 1942, British troops set off two explosions on the Causeway. The f
 
 |*All images from the National Archives of Malaysia reproduced in this essay are taken from this book.*|
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: The FMS, which was established in 1895, was a federation of four British protected states comprising Selangor, Perak, Negeri Sembilan and Pahang, with Kuala Lumpur as its capital.

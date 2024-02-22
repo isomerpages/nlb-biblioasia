@@ -156,7 +156,7 @@ From cataloguing the fish diversity of Malayan seas as a scientific member of th
 <b>Assistant Professor Anthony Medrano</b> is the National University of Singapore Presidential Young Professor of Environmental Studies at Yale-NUS College. He is a former Ziff Environmental Fellow at Harvard University and has a PhD in History from the University of Wisconsin-Madison.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

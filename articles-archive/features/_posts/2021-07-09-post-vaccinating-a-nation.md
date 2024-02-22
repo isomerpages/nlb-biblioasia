@@ -143,7 +143,7 @@ As Prime Minister Lee Hsien Loong said in his address to the nation on 31 May 20
 <b>Ong Eng Chuan</b> is a Senior Librarian with the National Library, Singapore, where he manages the Rare Materials Collection. His research interest is in early Singapore publications.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
 #### **RELATED ARTICLES**

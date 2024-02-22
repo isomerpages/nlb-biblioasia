@@ -121,7 +121,7 @@ The SEAC propaganda campaign, together with campaigns mounted by American and Au
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
 #### References
 Auckland, R.G. (1972). *Air-dropped propaganda currency*. Stockton-on-Tees: John W.Baker Ltd. (Not available in NLB holdings)

@@ -130,7 +130,7 @@ By the mid-1970s, however, the cafe’s accounts were in the red. The management
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Goh, P.S. (2020). *[If we dream too long](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203934902)* (p. 28). Singapore: NUS Press. (Call no.: RSING S823 GOH)

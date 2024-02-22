@@ -133,7 +133,7 @@ Public discourse reflects the centrality of this rugged ideal – take for insta
 <b>Shaun Seah</b> is doing his Masters in East Asian Studies at Columbia University. He has a BA (History) from Fitzwilliam College, Cambridge University. Educated at Maris Stella High School and ACS (Independent), he was a Cadet Lieutenant in the National Cadet Corps and a Venture Scout.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

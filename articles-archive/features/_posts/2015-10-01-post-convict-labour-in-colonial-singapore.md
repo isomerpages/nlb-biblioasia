@@ -191,7 +191,7 @@ The National Library of Singapore and the National Archives hold both primary an
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
 #### REFERENCES
 Anderson, C. (2012). *[Subaltern lives: Biographies of colonialism in the Indian Ocean world, 1790–1920](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201166721)*. Cambridge: Cambridge University Press. (Call no.: RSEA 365.34 AND)
