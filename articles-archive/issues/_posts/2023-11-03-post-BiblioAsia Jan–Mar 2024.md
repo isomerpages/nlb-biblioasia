@@ -44,7 +44,7 @@ The history of the Salvation Army in Singapore goes back to at least 1935. *Lee 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/restoring-asian-films/">Restoring Classic Films from Asia</a><br>
-Besides restoring made-in-Singapore films, the Asian Film Archive is also involved in the preservation of other seminal Asian works. *Chew Tee Pao*.  [(PDF)](/files/pdf/Vol%2019/8__BiblioAsia_Jan_Mar2024_Asian_Film.pdf)
+Besides restoring made-in-Singapore films, the Asian Film Archive is also involved in the preservation of other seminal Asian works. *Chew Tee Pao*.  [(PDF)](/files/pdf/Vol%2019/8z_BiblioAsia_Jan_Mar2024_Asian_Film.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a><br>
