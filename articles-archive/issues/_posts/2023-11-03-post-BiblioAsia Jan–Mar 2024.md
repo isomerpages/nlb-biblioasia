@@ -32,7 +32,7 @@ While most people associate the Konfrontasi with the MacDonald House bombing, th
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/">The Curious Visit of Qing Ambassadors to Singapore</a><br>
-The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.  *Benjamin J.Q. Khoo*.  [(PDF)](/files/pdf/Vol%2019/5__BiblioAsia_Jan_Mar2024_Qing_Ambassadors.pdf)
+The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.  *Benjamin J.Q. Khoo*.  [(PDF)](/files/pdf/Vol%2019/5z_BiblioAsia_Jan_Mar2024_Qing_Ambassadors.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/early-malay-comics/">Kaboom! Early Malay Comic Books Make an Impact</a><br>
