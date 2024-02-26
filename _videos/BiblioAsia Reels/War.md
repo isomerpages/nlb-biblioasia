@@ -23,7 +23,7 @@ Unveiled on 2 March 1957, the Kranji War Memorial honours over 25,000 men and wo
 
 Disguised as local fishermen, Australian and British commandos carried out Operation Jaywick, a daring raid on Japanese ships at Keppel Harbour in Singapore.
 
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n8ufqND2a2w"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n8ufqND2a2w"></iframe>
 
 “At 5.15 a.m. on the morning of September 27, 1943 a terrific explosion shook the harbour of Singapore and a big Japanese tanker went up in flames. She was the first of seven ships to blow up at their moorings – victims of Operation Jaywick, a daring sabotage expedition in World War Two carried out by men of Unit Z of the Australian Experimental Station.”
 
