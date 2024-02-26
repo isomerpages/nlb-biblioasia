@@ -26,7 +26,7 @@ during the Second World War.</p>
 <hr>
 <h4><strong>Singapore’s Early Publications</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Bfx3g3Xjqf0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Bfx3g3Xjqf0"></iframe>
 </div>
 <p>Printing in Singapore dates back about 200 years when Christian missionaries
 established a printing press here to spread the gospel. &nbsp;Some of the
@@ -36,7 +36,7 @@ early publications printed in Singapore include <em>Journal of a Tour Along the 
 <hr>
 <h4><strong>The Story of Two Whales</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ROdZe1JjMhA"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ROdZe1JjMhA"></iframe>
 </div>
 <p>The skeleton of a blue whale was once the centrepiece of the former Raffles
 Museum. The skeleton was gifted to the National Museum of Malaysia in 1974.</p>
@@ -46,7 +46,7 @@ was found drifting off the coast of Jurong Island in July 2015.</p>
 <hr>
 <h4><strong>The Modernist Home of Pioneer Architect Lee Kip Lin</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XA1HxdwLJEY"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XA1HxdwLJEY"></iframe>
 </div>
 <p>Located at <a href="/vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house/" rel="noopener noreferrer nofollow" target="_blank">32 Binjai Park</a>,
 the family home of the late architect Lee Kip Lin has stood the test of
@@ -56,7 +56,7 @@ was built in 1973.</p>
 <hr>
 <h4><strong>A Clandestine Operation in Keppel Harbour</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n8ufqND2a2w"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/n8ufqND2a2w"></iframe>
 </div>
 <p>On 26 September 1943, a team of Australian and British commandos and sailors
 launched a daring raid on Japanese ships in Singapore’s Keppel Harbour.
@@ -65,7 +65,7 @@ book titled <em><a href="https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-20
 <hr>
 <h4><strong>The Frying Pan Piano</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/osLu3J8sGTg"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/osLu3J8sGTg"></iframe>
 </div>
 <p>The <a href="/vol-19/issue-3/oct-dec-2023/chappell-steinway-piano/" rel="noopener noreferrer nofollow" target="_blank">concert grand piano</a> at
 the National Library Building once graced the stage of the Victoria Memorial
@@ -75,7 +75,7 @@ at the Memorial Hall, and how it ended up with such a reputation.</p>
 <hr>
 <h4><strong>Professor Yu Chun Yee Performs on the Chappell Grand</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eM1aWlQUvvo"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eM1aWlQUvvo"></iframe>
 </div>
 <p>Professor Yu Chun Yee previously taught at the Royal College of Music
 in London. At age 18, he won the prestigious Singapore Musical Society’s
@@ -88,7 +88,7 @@ a public piano at the National Library Building.</p>
 <hr>
 <h4><strong>Interview with Rachel Heng</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jQjegt2YxCc?si=KJmfweHMNm12V4Dll"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jQjegt2YxCc?si=KJmfweHMNm12V4Dll"></iframe>
 </div>
 <p><em>The Great Reclamation</em>&nbsp;is a work of historical fiction set
 in Singapore that has received rave reviews from the&nbsp;<em>New Yorker</em>&nbsp;and
