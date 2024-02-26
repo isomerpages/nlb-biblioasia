@@ -28,8 +28,7 @@ Pat Chan, Heather Merican and Glory Barnabas made Singapore proud at the 7th Sou
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/">Konfrontasi: Singapore’s Experience of an Undeclared War</a><br>
-While most people associate the Konfrontasi with the MacDonald House bombing, the three-year campaign was much more than that single incident. *Alvin Tan*.  [(PDF)](/files/pdf/Vol%2019/4__BiblioAsia_Jan_Mar2024_Konfrontasi.pdf)
-
+While most people associate the Konfrontasi with the MacDonald House bombing, the three-year campaign was much more than that single incident. *Alvin Tan*.  [(PDF)](/files/pdf/Vol%2019/4z_BiblioAsia_Jan_Mar2024_Konfrontasi_v2.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/">The Curious Visit of Qing Ambassadors to Singapore</a><br>
