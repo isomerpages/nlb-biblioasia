@@ -20,7 +20,7 @@ careers. *Jamie Lee and Mark Wong*. [(PDF)](/files/pdf/Vol%2019/1z_BiblioAsia_Ja
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/">Chia Boon Leong: The Twinkle-Toed Olympian</a><br>
-Chia Boon Leong was the Fandi Ahmad of his time. *Nick Aplin*.  [(PDF)](/files/pdf/Vol%2019/2__BiblioAsia_Jan_Mar2024_Chia_Boon_Leong.pdf)
+Chia Boon Leong was the Fandi Ahmad of his time. *Nick Aplin*.  [(PDF)](/files/pdf/Vol%2019/2z_BiblioAsia_Jan_Mar2024_Chia_Boon_Leong.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/">The 1973 SEAP Games in Singapore</a><br>
