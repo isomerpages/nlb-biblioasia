@@ -16,7 +16,7 @@ Talentime ruled the airwaves before it was first shown on television in 1967. Th
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/talentime-history-singapore/">Singapore’s Got Talent: A Brief History of Talentime</a><br>
 Back in the day, Talentime was a major cultural
 phenomenon that helped launched many musical
-careers. *Jamie Lee and Mark Wong*. [(PDF)](/files/pdf/Vol%2019/1__BiblioAsia_Jan_Mar2024_Talentime.pdf)
+careers. *Jamie Lee and Mark Wong*. [(PDF)](/files/pdf/Vol%2019/1z_BiblioAsia_Jan_Mar2024_Talentime.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/">Chia Boon Leong: The Twinkle-Toed Olympian</a><br>
