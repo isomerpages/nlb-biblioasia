@@ -36,11 +36,11 @@ The visit by Qing officials to Singapore in 1876 led to the establishment of the
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/early-malay-comics/">Kaboom! Early Malay Comic Books Make an Impact</a><br>
-The 1950s was the heyday for Malay comic books published in Singapore. *Mazelan Anuar*.  [(PDF)](/files/pdf/Vol%2019/6__BiblioAsia_Jan_Mar2024_Early_Malay_Comic_Books.pdf)
+The 1950s was the heyday for Malay comic books published in Singapore. *Mazelan Anuar*.  [(PDF)](/files/pdf/Vol%2019/6z_BiblioAsia_Jan_Mar2024_Early_Malay_Comic_Books.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/salvation-army-singapore/">The Salvation Army in Singapore</a><br>
-The history of the Salvation Army in Singapore goes back to at least 1935. *Lee Geok Boi*.  [(PDF)](/files/pdf/Vol%2019/7__BiblioAsia_Jan_Mar2024_Salvation_Army.pdf)
+The history of the Salvation Army in Singapore goes back to at least 1935. *Lee Geok Boi*.  [(PDF)](/files/pdf/Vol%2019/7z_BiblioAsia_Jan_Mar2024_Salvation_Army.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/restoring-asian-films/">Restoring Classic Films from Asia</a><br>
