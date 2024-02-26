@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/
-      button: FOOTBALLER CHIA BOON LEONG
+      url: /vol-19/issue-4/jan-mar-2024/early-malay-comics/
+      button: Early Malay Comic Books
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 4/Chia Boon Leong/HeroImage_ChiaBoonLeong_4.jpg
+      background: /images/Vol 19 Issue 4/Malay Comic/HeroImage_malaycomic2.jpg
   - infopic:
       title: Saving Singapore’s Film Heritage
       subtitle: podcast
