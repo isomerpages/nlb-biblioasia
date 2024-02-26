@@ -24,7 +24,7 @@ Chia Boon Leong was the Fandi Ahmad of his time. *Nick Aplin*.  [(PDF)](/files/p
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/">The 1973 SEAP Games in Singapore</a><br>
-Pat Chan, Heather Merican and Glory Barnabas made Singapore proud at the 7th Southeast Asian Peninsular Games. *Lim Tin Seng*.  [(PDF)](/files/pdf/Vol%2019/3__BiblioAsia_Jan_Mar2024_Seap_Games.pdf)
+Pat Chan, Heather Merican and Glory Barnabas made Singapore proud at the 7th Southeast Asian Peninsular Games. *Lim Tin Seng*.  [(PDF)](/files/pdf/Vol%2019/3z_BiblioAsia_Jan_Mar2024_Seap_Games_v2.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/">Konfrontasi: Singapore’s Experience of an Undeclared War</a><br>
