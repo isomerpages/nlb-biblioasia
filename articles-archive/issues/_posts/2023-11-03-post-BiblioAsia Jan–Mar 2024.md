@@ -48,12 +48,12 @@ Besides restoring made-in-Singapore films, the Asian Film Archive is also involv
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a><br>
-The late architect William Lim did more than shape Singapore’s skyline. He was also deeply passionate about urban planning, culture, the arts and engaging the next generation. *Stephanie Pee*.  [(PDF)](/files/pdf/Vol%2019/9__BiblioAsia_Jan_Mar2024_William_Lim.pdf)
+The late architect William Lim did more than shape Singapore’s skyline. He was also deeply passionate about urban planning, culture, the arts and engaging the next generation. *Stephanie Pee*.  [(PDF)](/files/pdf/Vol%2019/9z_BiblioAsia_Jan_Mar2024_William_Lim.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/interview-rachel-heng/">The Great Singapore Novel?</a><br>
-An interview with Rachel Heng, author of *The Great Reclamation*. *Soh Gek Han*.  [(PDF)](/files/pdf/Vol%2019/10__BiblioAsia_Jan_Mar2024_Rachel_Heng.pdf)
+An interview with Rachel Heng, author of *The Great Reclamation*. *Soh Gek Han*.  [(PDF)](/files/pdf/Vol%2019/10z_BiblioAsia_Jan_Mar2024_Rachel_Heng.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/new-books-singapore-history/">New Books on Singapore History</a><br>
-New books available in the National Library’s collection.  [(PDF)](/files/pdf/Vol%2019/New_Books.pdf)
+New books available in the National Library’s collection.  [(PDF)](/files/pdf/Vol%2019/zNew_Books.pdf)
