@@ -135,7 +135,7 @@ Irene Lim’s memoir, <i>90 Years in Singapore</i>, is available for reference a
 <b>Irene Lim</b>, who turns 94 years old this June, began documenting her life stories in 1989. Her daughter, University of Michigan professor Linda Lim, collected these and compiled them into a recently published book, <i>90 Years in Singapore</i>.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

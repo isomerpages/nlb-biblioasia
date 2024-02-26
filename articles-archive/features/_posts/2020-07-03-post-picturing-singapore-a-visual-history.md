@@ -172,7 +172,7 @@ In seeking to build a robust pictorial record of Singapore, the challenge today 
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: BookSG is a collection of books and other printed materials digitised from the collections of the National Library of Singapore, and complemented by selected works from The British Library’s Oriental & India Office Collection (http://eresources.nlb.gov.sg/printheritage).

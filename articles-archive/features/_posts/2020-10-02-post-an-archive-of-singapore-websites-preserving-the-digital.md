@@ -91,7 +91,7 @@ The Nature Society is a non-governmental organisation advocating nature conserva
 <b>Shereen Tay</b> is an Associate Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions of the National Library Board, particularly web archiving.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Access the special collection on the COVID-19 pandemic in Singapore at https://eresources.nlb.gov.sg/webarchives/special-collection/detail/10252.

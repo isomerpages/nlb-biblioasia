@@ -181,7 +181,7 @@ By making design education accessible to the man in the street, BVI was instrume
 <b>Justin Zhuang</b> is a writer and researcher who sees the world through design. He has written about the development of the design industry in Singapore, including <i>Independence: The History of Graphic Design in Singapore Since the 1960s</i> and <i>Fifty Years of Singapore Design</i>.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

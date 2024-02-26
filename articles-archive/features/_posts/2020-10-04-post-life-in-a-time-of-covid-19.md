@@ -52,7 +52,7 @@ include collection management and content development as well as research and re
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: World Health Organization. (2020). WHO Coronavirus Disease (COVID-19) Dashboard. Retrieved 5 October 2020 from https://covid19.who.int/

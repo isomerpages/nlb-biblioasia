@@ -182,7 +182,7 @@ The National Library and National Archives of Singapore are the custodians of Si
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-1/apr-jun-2020/"><center>Back to Issue</center></a>
 
 ##### **NOTES**
 [^1]: Ooi, K.B. (2013). *[Serving a new nation: Baey Lian Peck's Singapore story](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200165779)* (p. 50). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.5705092 OOI)

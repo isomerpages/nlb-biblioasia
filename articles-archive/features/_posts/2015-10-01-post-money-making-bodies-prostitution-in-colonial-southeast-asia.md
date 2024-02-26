@@ -149,7 +149,7 @@ Most of the women implicated in the trade were of humble origins, and although a
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
 #### REFERENCES
 Manderson, L. (1990). *Race, colonial mentality and public health in early twentieth century Malaya*. In P.J. Rimmer &amp; L.M. Allen (Eds.), *[The underside of Malaysian history: Pullers, prostitutes, plantation workers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5661319)*. Singapore: Singapore University Press for Malaysia Society of the Asian Studies Association. (Call no.: RSING 305.56209595 UND) 

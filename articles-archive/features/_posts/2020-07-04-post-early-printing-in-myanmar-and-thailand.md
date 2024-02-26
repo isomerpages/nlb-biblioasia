@@ -143,7 +143,7 @@ Tan, B. (2016, Jan–Mar). [A magazine for the Straits Chinese](http://www.nlb.g
 
 Tan, B. (2017, Jan–Mar). [Claudius Henry Thomsen: A pioneer in Malay printing](http://www.nlb.gov.sg/biblioasia/2017/01/06/claudius-henry-thomsen-a-pioneer-in-malay-printing/). *BiblioAsia, 12* (4), 26–31.
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-2/Jul-sep-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Herbert, P., & Milner, A. (Eds.). (1989). *[South-East Asia: Languages and literature: A select guide](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5277487)* (p. 9). Arran, Scotland: Kiscadale Publications. (Call no.: RSING 495 SOU); San, S.M. (2010, December). Early printing in Burma. *Southeast Asia Library Group Newsletter*, 42, 32–33. Retrieved from Southeast Asia Library Group website; Pearn, B.R. (1960). Burmese printed books before Judson (pp. 475–476). *[Fiftieth Anniversary Publications, No. 2](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4391346)*. Rangoon: Burma Research Society. (Call no.: RCLOS 959.1 BUR-[GBH]); Bigandet, P.A. (1996; orig. 1887). *[An outline of the history of the Catholic Burmese mission from the year 1720 to 1887](http://eservice.nlb.gov.sg/item_holding.aspx?bid=9461380)* (pp. 12–23). Bangkok, Thailand: White Orchid Press. (Call no.: RSEA 266.2591 BIG); National Library of Australia. (n.d.) *Alphabetum barmanum, seu, bomanum: Regni avae finitimarum regionum*. Retrieved from National Library of Australia website; Thae, T.H. (2011, January 3). *Barnabite legacy a treasure for collectors*. Retrieved from Myanmar Times website.

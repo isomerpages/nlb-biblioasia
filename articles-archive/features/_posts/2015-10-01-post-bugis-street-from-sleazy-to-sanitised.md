@@ -183,7 +183,7 @@ Today, there are occasional attempts to revive Bugis Street in novels, plays and
 
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-3/oct-dec-2015/"><center>Back to Issue</center></a>
 
 #### References
 Aleshire, I. (1985, February 6). [Study on Bugis Street gives hawkers reprieve](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850206-1.2.74.aspx). *The Straits Times*, p. 44. Retrieved from NewspaperSG.

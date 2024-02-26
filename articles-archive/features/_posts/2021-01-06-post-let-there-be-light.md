@@ -193,7 +193,7 @@ The bulb of this street lamp along Phillip Street photographed in 1968 resembles
 <img src="/images/Vol-16-issue-4/authors/TimPwee.png" style="width: 100px; height: 100px;"/>
 <b>Timothy Pwee</b> is a Senior Librarian with the National Library, Singapore. He is interested in Singapore’s business and natural histories, and is developing the library’s donor collections around these areas.
 </div>
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

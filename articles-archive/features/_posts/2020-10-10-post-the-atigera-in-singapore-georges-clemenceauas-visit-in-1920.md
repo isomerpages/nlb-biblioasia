@@ -157,7 +157,7 @@ Some years later, Guillemard wrote in *The Times* of London about Clemenceau’s
 <b>Lim Tin Seng</b> is a Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories</i> – <i>A Resource Guide (2013), Harmony and Development: ASEAN-China Relations (2009)</i> and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-3/oct-dec-2020/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: [M. Clemenceau: Singapore gives splendid welcome](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19201018-1.2.53.aspx). (1920, October 18). *The Straits Times*, p. 9; [Last moments of ‘the tiger’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19291125-1.2.41.aspx). (1929, November 25). *The Straits Times*, p. 11. Retrieved from NewspaperSG.

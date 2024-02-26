@@ -133,7 +133,7 @@ significant today.
 <b>Dahlia Shamsuddin </b> is a Senior Librarian with the Resource Discovery &amp; Management, National Library Board, where she catalogues legal deposit, gift and donor materials. She has worked in public, academic, law and national libraries doing reference, circulation, digital and print cataloguing work.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
+<a href="/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 
 #### **RELATED ARTICLES**

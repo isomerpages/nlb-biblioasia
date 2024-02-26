@@ -180,7 +180,7 @@ These extracts are reproduced from <i>Stories from the Stacks: Selections from t
 <b>Mok Ly Yng</b> is a map research consultant with more than 20 years of experience. He has provided mapping consultancy to several map exhibitions, books and heritage projects.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 

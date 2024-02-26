@@ -165,7 +165,7 @@ I first came across Kunnuck Mistree’s name in 2015 while transcribing the Stra
 <b>Vandana Aggarwal</b> is a teacher and a freelance journalist. An active citizen archivist for the National Archives of Singapore, she is the author of <i>Voice of Indian Women: The Kamala Club Singapore</i> (2018). She enjoys reading and researching about history.
 </div>
 
-<a href="https://nlb-ba-staging.netlify.app/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
+<a href="/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
