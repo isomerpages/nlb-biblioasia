@@ -137,4 +137,32 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 
 [^20]: Aloysius Leo De Conceicao, oral history interview by Zaleha Osman, 1 December 1998, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e8f9625d-115f-11e3-83d5-0050568939ad-OHC002057_013/web/html5/index.html) and MP3 audio,  Reel/Disc 13 of 22, National Archives of Singapore ([accession no. 002057](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002057)), 142.
 
-[^21]: 
+[^21]: “Our Very Own Mr Chips,” *New Nation*, 9 March 1980, 5. (From NewspaperSG)
+
+[^22]: “[Selangor Ice Ring](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251230-1.2.72.2),” *Straits Times*, 30 December 1925, 10; “[Our Ice Supplies](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19150211-1.2.5.15),” *Malaya Tribune*, 11 February 1915, 5. (From NewspaperSG)
+
+[^23]: “[A New Singapore Factory](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19321115-1.2.139.6),” *Straits Times*, 15 November 1932, 2; “[Cold Storage Co.](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260430-1.2.64),” *Singapore Free Press and Mercantile Advertiser*, 30 April 1926, 9. (From NewspaperSG)
+
+[^24]: Tregonning, [*The Singapore Cold Storage*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078048), 1903–1966, 26.
+
+[^25]: “[Ice Production in the Tropics](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19320102-1.2.133.63),” *Singapore Free Press and Mercantile Advertiser*, 2 January 1932, 25; “[A New Singapore Factory](https://eresources.nlb.gov.sg/newspapers/digitised/page/straitstimes19321115-1.1.22),” *Straits Times*, 15 November 1932, 2. (From NewspaperSG)
+
+[^26]: “[Singapore Cold Storage to Increase Capital](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19480819-1.2.51),” *Morning Tribune*, 19 August 1948, 4. (From NewspaperSG)
+
+[^27]: “[Ice Shortage Hits Fisheries](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470819-1.2.66),” *Singapore Free Press*, 19 August 1947, 5; “[Merchants Allege Ice Black Market](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470831-1.2.65),” *Straits Times*, 31 August 1947, 7; “[Ice Black-Market Is Broken](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490116-1.2.68),” Straits Times, 16 January 1949, 7. (From NewspaperSG)
+
+[^28]: [Ice Black-Market Is Broken](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490116-1.2.68)”; “[Fall in Ice Prices](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490720-1.2.108),” *Straits Times*, 20 July 1949, 8; “[Ice Was Cheaper](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490723-1.2.49),” *Singapore Free Press*, 23 July 1949, 4. (From NewspaperSG)
+
+[^29]: “[2 Groups Oppose Ice Price Rise](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520624-1.2.30),” *Singapore Standard*, 24 June 1952, 2. (From NewspaperSG)
+
+[^30]: “[Ice Men Give in on Price](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520712-1.2.109),” *Straits Times*, 12 July 1952, 7; “[So Singapore Will Get Less Fish](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520702-1.2.143),” *Straits Times*, 2 July 1952, 8. (From NewspaperSG)
+
+[^31]: K.L. Chan, “[Co-operative for Ice Water](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19790628-1.2.16),” *New Nation*, 28 June 1979, 3; “[Ice to Cost More for Fish Traders](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19790629-1.2.37),” *Straits Times*, 29 June 1979, 9. (From NewspaperSG)
+
+[^32]: “[Activities and Products](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720710-1.2.67.4),” *Straits Times*, 10 July 1972, 13; “[It’s a Problem in Singapore with Temperature in 80s](),” *Singapore Free Press*, 28 August 1959, 6. (From NewspaperSG)
+
+[^33]: “[Ice Factory Fire Sequel](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300710-1.2.39),” *Singapore Free Press and Mercantile Advertiser*, 10 July 1930, 10. (From NewspaperSG)
+
+[^34]: Gabriel Chen, “[Tuck Lee Ice Gets Cooler with Time](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20070822-1.2.60.26.1),” *Straits Times*, 22 August 2007, 47. (From NewspaperSG); “[This Company Hit the Bigtime With Its Frozen Assets](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20050809-1.2.123.130.3),” *Straits Times*, 9 August 2005, 90; Smita Krishnaswamy, “[Ice King Adds on Beverages](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090916-1.2.58.3.3),” *Straits Times*, 16 September 2009. 43. (From NewspaperSG)
+
+[^35]: Prisca Ang, “[JM Ice Keeps Things Cool with Bots and Tech](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20150616-1.2.32.1),” *Business Times*, 16 June 2015, 26. (From NewspaperSG); “Profile,” JM Ice, last accessed 31 January 2024, https://www.jmice.com.sg/pages/profile.
