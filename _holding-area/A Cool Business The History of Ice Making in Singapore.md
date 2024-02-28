@@ -94,3 +94,21 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 <br>
 <img src="/images/Authors/gohleekim.png" style="width: 100px; height: 100px;">
 	<b>Goh Lee Kim</b> is a Librarian with the National Library, Singapore. She is part of the team that curates and promotes access to the library’s digital collections.</div>
+
+
+#### **Notes**
+[^1]: “[The Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18450828-1.2.9),” *Singapore Free Press and Mercantile Advertiser*, 28 August 1845, 2. (From NewspaperSG)
+
+[^2]: “[Annual Retrospect, 1854](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18550105-1.2.6),” *Singapore Free Press and Mercantile Advertiser*, 5 January 1855, 3. (From NewspaperSG)
+
+[^3]: “[Notice](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18580506-1.2.3.5),” *Singapore Free Press and Mercantile Advertiser*, 6 May 1858, 2. (From NewspaperSG)
+
+[^4]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18611205-1.2.4),” *Singapore Free Press and Mercantile Advertiser*, 5 December 1861, 3. (From NewspaperSG); “[Our Ice Supply](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18650826-1.2.3),” *Straits Times*, 26 August 1865, 1. (From NewspaperSG)
+
+[^5]: “[Singapore Ice Works](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18610810-1.2.35.5),” *Straits Times*, 10 August 1861, 4. (From NewspaperSG); “[Singapore Ice Works River Valley Road](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780424-1.2.11.1),” *Singapore Daily Times*, 24 April 1878, 1; “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18611205-1.2.4).”  
+
+[^6]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18611205-1.2.4)”; “[Our Ice Supply](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18650826-1.2.3).”
+
+[^7]: Ismail Kassim, “[Godown Was a Huge Fridge](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750125-1.2.18.15),” *New Nation*, 25 January 1975, 12; Sharon Yeo, “[Step Nearer That Dream](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810404-1.2.140.2),” *Straits Times*, 4 April 1981, 1. (From NewspaperSG)
+
+[^8]: 
