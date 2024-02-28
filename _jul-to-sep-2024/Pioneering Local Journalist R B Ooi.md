@@ -93,7 +93,7 @@ As much as Ooi was critical of Western attitudes and some Westernised Asians, he
 
 #### **Curtailing Press Freedom**
 
-Ooi was the consummate newspaperman and believed that freedom of the press was essential.[^13] He had spent most of his journalistic career in Singapore and saw the independence of Singapore’s newspapers being eroded.
+Ooi was a consummate newspaperman and believed that freedom of the press was essential.[^13] He had spent most of his journalistic career in Singapore and saw the independence of Singapore’s newspapers being eroded.
 
 He revealed in an interview that during his two-year tenure at the <i>Eastern Sun</i> between 1966 and 1968, he had experienced run-ins with then Singapore Prime Minister Lee Kuan Yew. Lee had “on several occasions, in front of all the other editors in Singapore (he called us up as a group very often), accused me of being an MCA or UMNO [Malaysian Chinese Association or United Malays
 National Organisation] spy. Also, he often sent his political commissars to our office to see what we were doing, PAP [People’s Action Party] agents were put on our staff and morale was very low”.[^14] This was one of the major reasons why Ooi subsequently left Singapore in 1968 and moved to Kuala Lumpur.
