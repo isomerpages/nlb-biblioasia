@@ -62,7 +62,7 @@ agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at th
 <img style="width: 60%; height: 50%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/03.png">
 <div style="background-color:white;">Ooi and Kung also had a traditional Chinese wedding at the Ooi family home in Bukit Mertajam, 1925.<i> Courtesy of Irene Lim.</i></div>
 
-To fulfil his mother’s wishes, Ooi and Edna had a second wedding in Bukit Mertajam according to Chinese rites. They had four children: Irene (born in 1927 in Kuala Lumpur), and Violet (1932), Eric (1934) and Sylvia (1936) who were born in Singapore following the family’s move there. Unfortunately, the marriage broke down. My grandmother, Edna, remarried towards the end of the war while my grandfather did not remarry.
+To fulfil his mother’s wishes, Ooi and Edna had a second wedding in Bukit Mertajam according to Chinese rites. They had four children: Irene (born in 1927 in Kuala Lumpur), Violet (1932), Eric (1934) and Sylvia (1936) who were born in Singapore following the family’s move there. Unfortunately, the marriage broke down. My grandmother, Edna, remarried towards the end of the war while my grandfather did not remarry.
 
 #### **Being Malayan**
 
