@@ -73,7 +73,7 @@ sections:
       subtitle: People
       id: infopic
       description: As a journalist, R.B. Ooi always had his finger on the pulse of
-        Malaya, bringing to fore issues at the heart of the nation.
+        Malaya, bringing to the fore issues at the heart of the nation.
       button: A consummate newspaperman
       url: /vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/
       image: /images/Online Only Articles/Pioneering Journalist RB Ooi/05.png

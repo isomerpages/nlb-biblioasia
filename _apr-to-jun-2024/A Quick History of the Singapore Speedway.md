@@ -74,8 +74,7 @@ On 17 June 1930, the _Malaya Tribune_ noted that “reorganisation is taking pla
 
 What followed was a string of bad news for the Speedway. In an open letter published in the _Malaya Tribune_, rider Cho Jolly asked, “Is the Dirt-Track Club still in existence?” He also revealed that he was writing on behalf of his fellow riders “as we have not received what is due to us in the shape of prizes \[for the final Speedway race\]”. Meanwhile, most of the “star” racers from Australia and England had left for home.[^21]
 
-On 21 June 1930, the _Singapore Free Press_ revealed that the Speedway had $9,000 in liabilities and almost no assets.[^22] In a letter to the Western Australian newspaper, _The Daily News_, on 31 July 1930, promoter  
-F. Heron Pitcher said that Reynolds had delivered the bad news to shareholders at a meeting on 11 June 1930. Pitcher also claimed that Reynolds was facing several High Court lawsuits and had booked passages to Australia for his family and some of his riders.
+On 21 June 1930, the _Singapore Free Press_ revealed that the Speedway had $9,000 in liabilities and almost no assets.[^22] In a letter to the Western Australian newspaper, _The Daily News_, on 31 July 1930, promoter F. Heron Pitcher said that Reynolds had delivered the bad news to shareholders at a meeting on 11 June 1930. Pitcher also claimed that Reynolds was facing several High Court lawsuits and had booked passages to Australia for his family and some of his riders.
 
 According to Pitcher, two days before the group was scheduled to set sail for Australia, news had already leaked out that Reynolds had booked his own ticket to Colombo on the P&amp;O liner _Khiva_, which eventually left Singapore on 13 June 1930. Pitcher ruefully remarked that “\[u\]p to the present only echo answers to our question, ‘Where is Reynolds?’”[^23]
 
