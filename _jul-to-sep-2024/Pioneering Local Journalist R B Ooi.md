@@ -51,7 +51,7 @@ grandmother Saw Kim Lian (centre) in Bukit Mertajam, c.1923. <i>Courtesy of Iren
 
 
 <img style="width: 65%; height: 55%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/11.png">
-<div style="background-color:white;">R.B. Ooi with his Straits Chinese friends, date unknown.<i> Courtesy of Irene Lim.</i></div>
+<div style="background-color:white;">R.B. Ooi (seated, left) with his Straits Chinese friends, date unknown.<i> Courtesy of Irene Lim.</i></div>
 
 On 15 September 1925, Ooi spotted Edna Kung Gek Neo (1910–2003) on the train. Struck by her beauty, he noted down her name and address from her luggage tag and wrote to her father proposing marriage. Finding out that the Ooi family were educated wealthy landowners, Edna’s father, Kung Tian Siong, a Singapore businessman and direct descendant of Confucius,[^5]
 agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at the Wesley Church in Singapore on 5 December 1925, when he was 19 and Edna 15.
@@ -105,7 +105,7 @@ Ooi also frequently, both in private and in public, railed against the insularit
 
 #### **Family, Culture and Nation**
 
-Ooi’s writings reflect the issues he cared most about – culture, identity, ethnicity, language, education and race relations – which are still salient today in both Singapore and Malaysia. Though still contentious in societal terms, the national and familial contexts are more positive than what Ooi had come to believe toward the end of his life.
+Ooi’s writings reflect the issues he cared most about – culture, identity, ethnicity, language, education and race relations – which are still salient today in both Singapore and Malaysia. Though still contentious in societal terms, the national and familial contexts are more positive than what Ooi had come to believe towards the end of his life.
 
 Ooi’s descendants have fared well. His grandchildren and great-grandchildren in Malaysia have married across ethnicities and cultures and are fluent in multiple languages. Several of them, mostly women, did their undergraduate studies in England in engineering, law, accountancy and economics, and all returned home (to Malaysia) thereafter. English remains the dominant
 family language, as are Western attire, music and other “cultural” habits.
