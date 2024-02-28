@@ -111,4 +111,30 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 
 [^7]: Ismail Kassim, “[Godown Was a Huge Fridge](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750125-1.2.18.15),” *New Nation*, 25 January 1975, 12; Sharon Yeo, “[Step Nearer That Dream](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810404-1.2.140.2),” *Straits Times*, 4 April 1981, 1. (From NewspaperSG)
 
-[^8]: 
+[^8]: “[Straits Ice Company](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18810216-1.2.8.3),” *Singapore Daily Times*, 16 February 1881, 2. (From NewspaperSG)
+
+[^9]: “[Reuter’s Telegram](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18820616-1.2.9.2),” *Singapore Daily Times*, 16 June 1882, 2; “[Singapore Ice Works and Straits Ice Company](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18820620-1.2.8.4),” *Singapore Daily Times*, 20 June 1882, 2. (From NewspaperSG)
+
+[^10]: “[Municipal Commission](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18911229-1.2.54),” *Singapore Free Press and Mercantile Advertiser*, 29 December 1891, 10; “[A Visit to the New Singapore Ice Works](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18980303-1.2.111),” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 3 March 1898, 145. (From NewspaperSG)
+
+[^11]: Victor R. Savage and Brenda S.A. Yeoh, [*Singapore Street Names: A Study of Toponymics*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205854725) (Singapore: Marshall Cavendish Editions, 2023), 396–97. (From National Library, Singapore, call no. RSING 915.9570014 SAV-[TRA]); “In Pictures: Sungei Road Through the Years”, *Straits Times*, 5 July 2017, https://www.straitstimes.com/multimedia/photos/in-pictures-sungei-road-through-the-years.  
+
+[^12]: “[Local Industries](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18970105-1.2.38),” *Straits Budget*, 5 January 1897, 3. (From NewspaperSG)
+
+[^13]: “[Cold Storage (Nov. 30th)](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18981201-1.2.11),” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 1 December 1898, 2. (From NewspaperSG)
+
+[^14]: Cold Storage Holdings (Singapore), [*The Cold Storage Group of Companies 1903–1978*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181943), 1978), 4. (From National Library, Singapore, call no. RCLOS 338.76413 COL) “[New Singapore Ice Works](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19060403-1.2.41),” *Straits Times*, 3 April 1906, 5. (From NewspaperSG); K.G. Tregonning, [*The Singapore Cold Storage, 1903–1966*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078048) (Singapore: Cold Storage Holdings Ltd, 1967), 13. (From National Library, Singapore, call no. RCLOS 664.02852 TRE)
+
+[^15]: Goh Chor Boon, [*Technology and Entrepôt Colonialism in Singapore, 1819–1940*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200130222) (Singapore: Institute of Southeast Asian Studies, 2013), 181. (From National Library, Singapore, call no. RSING 338.064095957 GOH)
+
+[^16]: “[The Passing of Natural Ice](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260614-1.2.68),” *Singapore Free Press and Mercantile Advertiser*, 14 June 1926, 11. (From NewspaperSG)
+
+[^17]: “[Notice](eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18681105-1.2.14.3),” *Singapore Daily Times*, 16 February 1881, 2. (From NewspaperSG)
+
+[^18]: “[Big Shipment of Refrigerators](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19360520-1.2.14),” *Malaya Tribune*, 20 May 1936, 5. (From NewspaperSG)
+
+[^19]: “[Refreshment in Refrigeration](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300812-1.2.129),” *Singapore Free Press and Mercantile Advertiser*, 12 August 1930, 18. (From NewspaperSG)
+
+[^20]: Aloysius Leo De Conceicao, oral history interview by Zaleha Osman, 1 December 1998, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e8f9625d-115f-11e3-83d5-0050568939ad-OHC002057_013/web/html5/index.html) and MP3 audio,  Reel/Disc 13 of 22, National Archives of Singapore ([accession no. 002057](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002057)), 142.
+
+[^21]: 
