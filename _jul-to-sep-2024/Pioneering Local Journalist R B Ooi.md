@@ -4,7 +4,7 @@ permalink: /vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/
 variant: markdown
 description: RB Ooi
 ---
-#### As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing to fore issues at the heart of the nation.
+#### As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing to the fore issues at the heart of the nation.
 By Linda Lim
 
 Being in a war zone is always dangerous, even for non-combatants, as R.B. Ooi, the former editor for the Singapore Standard and the Eastern Sun could attest.
