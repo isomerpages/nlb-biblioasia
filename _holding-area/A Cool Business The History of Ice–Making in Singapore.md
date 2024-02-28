@@ -163,7 +163,7 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 
 [^31]: K.L. Chan, “[Co-operative for Ice Water](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19790628-1.2.16),” *New Nation*, 28 June 1979, 3; “[Ice to Cost More for Fish Traders](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19790629-1.2.37),” *Straits Times*, 29 June 1979, 9. (From NewspaperSG)
 
-[^32]: “[Activities and Products](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720710-1.2.67.4),” *Straits Times*, 10 July 1972, 13; “[It’s a Problem in Singapore with Temperature in 80s](),” *Singapore Free Press*, 28 August 1959, 6. (From NewspaperSG)
+[^32]: “[Activities and Products](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720710-1.2.67.4),” *Straits Times*, 10 July 1972, 13; “[It’s a Problem in Singapore with Temperature in 80s](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19590828-1.2.42),” *Singapore Free Press*, 28 August 1959, 6. (From NewspaperSG)
 
 [^33]: “[Ice Factory Fire Sequel](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300710-1.2.39),” *Singapore Free Press and Mercantile Advertiser*, 10 July 1930, 10. (From NewspaperSG)
 
