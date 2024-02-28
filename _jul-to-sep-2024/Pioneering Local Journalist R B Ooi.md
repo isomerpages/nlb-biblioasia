@@ -7,7 +7,7 @@ description: RB Ooi
 #### As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing to the fore issues at the heart of the nation.
 By Linda Lim
 
-Being in a war zone is always dangerous, even for non-combatants, as R.B. Ooi, the former editor for the Singapore Standard and the Eastern Sun could attest.
+Being in a war zone is always dangerous, even for non-combatants, as R.B. Ooi, the former editor for the Singapore Standard and the Eastern Sun, could attest.
 
 During the Malayan Emergency (1948–60), Ooi worked as a press officer to General Gerald Templer, the British High Commissioner for Malaya, who had been tasked to deal with the communist guerillas. In a 1969 letter to his daughter, Irene Lim, Ooi wrote that he had spent three years “covering the jungle war for the government, local and foreign press…” That meant spending time with British troops in the jungle. And while they tried not to draw attention, apparently, the communists knew they were there. Ooi further wrote that a surrendered Malay communist had come up to him and asked what they had been doing in the jungle near Bentong, Pahang, with a Gurkha patrol. “He and his men were waiting to ambush the Gurkhas when he saw us following the Gurkhas in thick jungle with film camera and still camera. He thought we were from Hollywood, so did not shoot…”[^1]
 
