@@ -74,12 +74,23 @@ Ice was such an integral component of the fishing industry that when local ice f
 
 In a joint letter issued by the Singapore Fish Merchants’ Association and Singapore Wholesale Merchants’ Association, they wrote that “we have now decided that it will no longer be possible to bring into Singapore second and third grade fish, for fear of incurring financial losses”. The ice manufacturers backed down, at least, at that point.[^30] Over time though, the price of ice continued to climb – reaching $34.20 per ton in June 1979 – impacting the cost of fish for residents.[^31]
 
+![](/images/Vol%2020%20Issue%201/Ice%20Making/image6.jpg)
+<div style="background-color: white;">Workers loading large ice blocks, meant for fishing companies, onto a lorry using sharp hooks, 1960s. The ice helped to keep catches fresh while out at sea <i>Primary Production Department Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **A Cool Business**
 
 Meanwhile, more ice factories came and went in the second half of the 20th century. After the acquisition of New Singapore Ice Works by Cold Storage in 1958, of the major factories that had operated in Singapore in the 19th century, only Cold Storage and Atlas Ice remained in business.[^32]
 
 In addition to these large companies, there were also others. One well-known ice supplier is Tuck Lee Ice, which has been in operation here since 1924. Originally owned by Kwok Ku Loong,[^33] it was sold to Hauw Kiat in 1957, an immigrant from China who moved to Indonesia and later Singapore. Hauw’s descendants took over the business after his death in 1961 and successfully modernised ice-making by introducing food-grade ice hygienically made by machines. They also sold ice in smaller cubes that were more convenient compared to the conventional larger blocks of ice typically sold by other ice manufacturers. The company has since ventured into providing ice sculptures for events, beverage distribution, and transport and logistics services for temperature-sensitive items. The Hauw family still owns and manages the company to this day.[^34]
 
+![](/images/Vol%2020%20Issue%201/Ice%20Making/image7.jpg)
+<div style="background-color: white;">Pushing a cart loaded with ice blocks near Ellenborough Market, 1980. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore</i></div>
+
 Another supplier that has rejuvenated the ice industry and continues to thrive in Singapore today is Jurong Marine Cold Storage (JM Ice), established in 1971. In 2015, the company moved away from the industry’s traditional reliance on tough physical labour by investing in robotic automation in its packaging process. “We were facing a big headache as no one wanted to work as an ice-packer,” said Eric Lee, one of the company’s two executive directors. With the robotic arms, its workers were redeployed to other jobs.[^35]
 
 Given Singapore’s tropical climate, ice manufacturers will never face a chilly reception from the market. 
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Authors/gohleekim.png" style="width: 100px; height: 100px;">
+	<b>Goh Lee Kim</b> is a Librarian with the National Library, Singapore. She is part of the team that curates and promotes access to the library’s digital collections.</div>
