@@ -119,8 +119,7 @@ As a teenager in Singapore, I wanted to be a writer and corresponded with my gra
 
 I think he would have been pleased to learn of my own inclinations toward writing popular commentaries on current affairs, which were published in newspapers like the <i>Straits Times</i> when I was doing my PhD. These include pieces challenging the status quo (in my case, primarily on economic policy, but also on race, inequality and East-West tensions), which could be considered the kind of “political writing” he had done.
 
-In my retirement, I co-founded and co-edit an academic blog promoting scholarship “of, for and by Singapore”, which also advocates for academic freedom.[^18] In Singapore in 2017, I gave a keynote speech at my alma mater, Methodist Girls’ School, closely tracking my grandfather’s own arguments for multiculturalism, but for the 21st century. This was years before I
-read his work.[^19] To paraphrase a popular saying, the durian does not fall far from the tree.<br>
+In my retirement, I co-founded and co-edit an academic blog promoting scholarship “of, for and by Singapore”, which also advocates for academic freedom.[^18] In Singapore in 2017, I gave a keynote speech at my alma mater, Methodist Girls’ School, closely tracking my grandfather’s own arguments for multiculturalism, but for the 21st century. This was years before I read his work.[^19] To paraphrase a popular saying, the durian does not fall far from the tree.<br>
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br><br>
@@ -135,7 +134,7 @@ Materials from the collection can be viewed at Level 11 of the Lee Kong Chian Re
 
 #### **Notes**
 
-[^1]: Excerpt from letter from R.B. Ooi to his daughter Irene Lim dated 21 November 1969. The letter is among other materials donated by Lim to the National Library of Singapore for the R.B. Ooi and Edna Kung Collection. For more on Lim’s life, see Irene Lim, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204446401"><i>90 Years in Singapore</i></a> (Singapore: Pagesetters Services Pte Ltd., 2020). (From National Library, Singapore call no. RSING 307.7609595 LIM). An excerpt from this memoir was published as Irene Lim, “<a href="https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/asthma/">Asthma, Amahs and Amazing Food</a>,” <i>BiblioAsia</i> 16, no. 4 (January–March 2021): 64–68.
+[^1]: Excerpt from letter from R.B. Ooi to his daughter Irene Lim dated 21 November 1969. The letter is among the materials donated by Lim to the National Library of Singapore for the R.B. Ooi and Edna Kung Collection. For more on Lim’s life, see Irene Lim, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204446401"><i>90 Years in Singapore</i></a> (Singapore: Pagesetters Services Pte Ltd., 2020). (From National Library, Singapore, call no. RSING 307.7609595 LIM). An excerpt from this memoir was published as Irene Lim, “<a href="https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/asthma/">Asthma, Amahs and Amazing Food</a>,” <i>BiblioAsia</i> 16, no. 4 (January–March 2021): 64–68.
 
 [^2]: Excerpt of letter from R.B. Ooi to Irene Lim, 21 November 1969.
 
@@ -145,7 +144,7 @@ Materials from the collection can be viewed at Level 11 of the Lee Kong Chian Re
 
 [^5]: Linda Y.C. Lim, <i>Four Chinese Families in British Colonial Malaya – Confucius, Christianity and Revolution</i>, 4th ed. (Singapore: Blurb, 2019), https://www.blurb.com/b/5022666-four-chinese-families-in-british-colonial-malaya-c.
 
-[^6]: “The Babas and Nonyas,” Parts 1, 2, 3, manuscript circa 1970–72.
+[^6]: “The Babas and Nonyas,” Parts 1, 2, 3, manuscript c. 1970–72.
 
 [^7]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19410419-1.2.79">Through Chinese Eyes</a>,” <i>Malaya Tribune</i>, 19 April 1941, 6. (From NewspaperSG)
 
