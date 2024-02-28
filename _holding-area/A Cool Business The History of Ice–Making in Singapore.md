@@ -20,6 +20,7 @@ The lack of ice and refrigeration meant that food items like meat and fish were 
 In 1854, prominent merchant Hoo Ah Kay (better known as Whampoa) and his partner Gilbert Angus began to import natural ice from America for his Ice House in Boat Quay. This provided residents in Singapore with their first supply of ice. “A great boon has been conferred upon the community of Singapore by the establishment of an ice house which has now been in operation for several months,” the <i>Singapore Free Press and Mercantile Advertiser</i> reported. “We trust that the spirited projectors of this public benefit will receive such support and encouragement as to induce them to render their undertaking a permanent one.”[^2] 
 
 Sadly, the venture did not last more than three years and by 30 November 1857, Whampoa had left the partnership due to heavy financial losses.[^3]
+
 American company Tudor Ice took over Ice House in 1861 but did no better, also incurring losses and leaving frustrated residents stranded with supply disruptions stretching months. “It was repeatedly stated by Mr [Frederic] Tudor’s managers that the consumption was not nearly sufficient to meet the cost of the ice and other expenses, and that a loss had been incurred by that gentleman of nearly $20,000, and further that unless a much greater quantity was sold the supply must be stopped,” the <i>Singapore Free Press and Mercantile Advertiser</i> reported in December that year.[^4]  
 
 Fortunately, for Singapore residents, 1861 was also the year that Singapore Ice Works opened its doors on River Valley Road. In August, the company became the first to make and sell ice produced locally. It was sold for three cents per pound, two cents lower than imported ice. The company’s proprietor, Riley, Hargreaves &amp; Co., had sunk in a fortune to procure the latest ice-making machinery for the venture, which quickly gained public support due to its more stable supply compared to Tudor.[^5]
@@ -120,7 +121,7 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 
 [^10]: “[Municipal Commission](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18911229-1.2.54),” *Singapore Free Press and Mercantile Advertiser*, 29 December 1891, 10; “[A Visit to the New Singapore Ice Works](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18980303-1.2.111),” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 3 March 1898, 145. (From NewspaperSG)
 
-[^11]: Victor R. Savage and Brenda S.A. Yeoh, [*Singapore Street Names: A Study of Toponymics*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205854725) (Singapore: Marshall Cavendish Editions, 2023), 396–97. (From National Library, Singapore, call no. RSING 915.9570014 SAV-[TRA]); “In Pictures: Sungei Road Through the Years”, *Straits Times*, 5 July 2017, https://www.straitstimes.com/multimedia/photos/in-pictures-sungei-road-through-the-years.  
+[^11]: Victor R. Savage and Brenda S.A. Yeoh, [*Singapore Street Names: A Study of Toponymics*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205854725) (Singapore: Marshall Cavendish Editions, 2023), 396–97. (From National Library, Singapore, call no. RSING 915.9570014 SAV-[TRA]); “[In Pictures: Sungei Road Through the Years](https://www.straitstimes.com/multimedia/photos/in-pictures-sungei-road-through-the-years)”, *Straits Times*, 5 July 2017, https://www.straitstimes.com/multimedia/photos/in-pictures-sungei-road-through-the-years.  
 
 [^12]: “[Local Industries](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18970105-1.2.38),” *Straits Budget*, 5 January 1897, 3. (From NewspaperSG)
 
@@ -140,7 +141,7 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 
 [^20]: Aloysius Leo De Conceicao, oral history interview by Zaleha Osman, 1 December 1998, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e8f9625d-115f-11e3-83d5-0050568939ad-OHC002057_013/web/html5/index.html) and MP3 audio,  Reel/Disc 13 of 22, National Archives of Singapore ([accession no. 002057](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002057)), 142.
 
-[^21]: “Our Very Own Mr Chips,” *New Nation*, 9 March 1980, 5. (From NewspaperSG)
+[^21]: “[Our Very Own Mr Chips](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800309-1.2.19),” *New Nation*, 9 March 1980, 5. (From NewspaperSG)
 
 [^22]: “[Selangor Ice Ring](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251230-1.2.72.2),” *Straits Times*, 30 December 1925, 10; “[Our Ice Supplies](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19150211-1.2.5.15),” *Malaya Tribune*, 11 February 1915, 5. (From NewspaperSG)
 
@@ -152,7 +153,7 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 
 [^26]: “[Singapore Cold Storage to Increase Capital](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19480819-1.2.51),” *Morning Tribune*, 19 August 1948, 4. (From NewspaperSG)
 
-[^27]: “[Ice Shortage Hits Fisheries](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470819-1.2.66),” *Singapore Free Press*, 19 August 1947, 5; “[Merchants Allege Ice Black Market](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470831-1.2.65),” *Straits Times*, 31 August 1947, 7; “[Ice Black-Market Is Broken](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490116-1.2.68),” Straits Times, 16 January 1949, 7. (From NewspaperSG)
+[^27]: “[Ice Shortage Hits Fisheries](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470819-1.2.66),” *Singapore Free Press*, 19 August 1947, 5; “[Merchants Allege Ice Black Market](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470831-1.2.65),” *Straits Times*, 31 August 1947, 7; “[Ice Black-Market Is Broken](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490116-1.2.68),” *Straits Times*, 16 January 1949, 7. (From NewspaperSG)
 
 [^28]: [Ice Black-Market Is Broken](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490116-1.2.68)”; “[Fall in Ice Prices](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490720-1.2.108),” *Straits Times*, 20 July 1949, 8; “[Ice Was Cheaper](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19490723-1.2.49),” *Singapore Free Press*, 23 July 1949, 4. (From NewspaperSG)
 
