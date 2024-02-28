@@ -124,7 +124,7 @@ In my retirement, I co-founded and co-edit an academic blog promoting scholarshi
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <b>THE R.B. OOI AND EDNA KUNG COLLECTION</b><br><br>
 
-Donated in 2023 by Mrs Irene Lim, daughter of R.B. Ooi, the more than 30items in the collection include typescripts of Ooi’s articles, which cover a range of topics besides the economic, social and political situation in the region. <br><br>	
+Donated in 2023 by Mrs Irene Lim, daughter of R.B. Ooi, the more than 300 items in the collection include typescripts of Ooi’s articles, which cover a range of topics besides the economic, social and political situation in the region. <br><br>	
 Other highlights are his articles for the Foreign News Service such as “The New Nation of Malaysia” (c.1962); an unpublished article, “The English Press of Malaysia and Singapore” (1971); scripts for Radio Malaysia, including one for “Window on the World” about the death of former Indonesian president Sukarno; and personal letters and photographs.<br><br>	
 Materials from the collection can be viewed at Level 11 of the Lee Kong Chian Reference Library via online reservation from the third quarter of 2024.<br></div>
 
@@ -150,7 +150,7 @@ Materials from the collection can be viewed at Level 11 of the Lee Kong Chian Re
 
 [^8]: “How to Think Malaysian,” <i>Straits Echo</i>, 16 October 1972. (Microfilm NL7162)
 
-[^9]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540605-1.2.67">A Drop of Ink</a>,” <i>Singapore Standard,</i> 5 June 1954, 6. (From NewspaperSG). This article is mainly a scathing review of U.S. Supreme Court Justice (later Chief Justice) William O. Douglas’ 1953 book, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=1520719">North from Malaya</a>.</i> Douglas wrote the book after a whirlwind British-escorted tour of Malaya and it was full of hilarious errors. See William O. Douglas, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=1520719">North from Malaya</a></i> (Garden City, N.Y: Doubleday, 1953). (From National Library, Singapore, call no. RCLOS 959 DOU-[RFL])
+[^9]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540605-1.2.67">A Drop of Ink</a>,” <i>Singapore Standard,</i> 5 June 1954, 6. (From NewspaperSG). This article is mainly a scathing review of U.S. Supreme Court Justice (later Chief Justice) William O. Douglas’ 1953 book, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=1520719">North from Malaya</a>.</i> Douglas wrote the book after a whirlwind British-escorted tour of Malaya and it was full of hilarious errors. See William O. Douglas, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=1520719">North from Malaya</a></i> (Garden City, NY: Doubleday, 1953). (From National Library, Singapore, call no. RCLOS 959 DOU-[RFL])
 
 [^10]: R.B. Ooi, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19540602-1.2.81">A Drop of Ink</a>,” <i>Singapore Standard</i>, 2 June 1954, 6. (From NewspaperSG)
 
