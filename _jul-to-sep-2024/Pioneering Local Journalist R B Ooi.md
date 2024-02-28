@@ -24,7 +24,7 @@ publicly preoccupied the English-educated in the colonial and immediate post-col
 
 #### **Career in Journalism**
 
-Ooi started out as a junior reporter for the Penang-based newspaper, <i>Straits Echo</i>, in 1923. He was the first Chinese reporter among other Ceylon-Eurasian, British and Australian staff. In 1924, he joined the Treasury in Kuala Lumpur as a clerk. Between 1929 and 1933, Ooi worked as an assistant secretary at the Pontianak Gold Mine, which was owned by his father-in-law, Kung Tian Siong. He then went on to work for Duncan Roberts, managing the International Correspondence Schools at 10 Collyer Quay in Singapore. Ooi also moonlighted as a part-time reporter for the <i>Straits Echo</i> from 1923–28, and the <i>Malaya Tribune </i>from 1934 to 42, under the penname R.B. Ooi.
+Ooi started out as a junior reporter for the Penang-based newspaper, <i>Straits Echo</i>, in 1923. He was the first Chinese reporter among other Ceylonese-Eurasian, British and Australian staff. In 1924, he joined the Treasury in Kuala Lumpur as a clerk. Between 1929 and 1933, Ooi worked as an assistant secretary at the Pontianak Gold Mine, which was owned by his father-in-law, Kung Tian Siong (1876–1958). He then went on to work for Duncan Roberts, managing the International Correspondence Schools at 10 Collyer Quay in Singapore. Ooi also moonlighted as a part-time reporter for the <i>Straits Echo</i> from 1923–28, and the <i>Malaya Tribune </i>from 1934–42, under the penname R.B. Ooi.
 
 
 <img style="width: 85%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/04.png">
@@ -32,9 +32,9 @@ Ooi started out as a junior reporter for the Penang-based newspaper, <i>Straits 
 
 In 1942, the family left Singapore for Bukit Mertajam in Province Wellesley (now Seberang Prai), Malaysia, having been informed by Ooi’s “Malay journalist friend” (possibly Yusof Ishak, who later became the first president of Singapore in 1965) that he was on a death blacklist for anti-Japanese articles he had published before the Japanese Occupation (1942–45).[^3] A year later, Ooi got a job at Juru Rubber Estate in Province Wellesley, an experience that provided much material for his later articles on “life in the <i>ulu</i>” (<i>ulu</i> referring to remote wild places).
 
-Returning to Singapore after the war, Ooi became chief reporter, then sub-editor and columnist for the <i>Malaya Tribune</i> 1945–49). He then worked for the Information Department in Kuala Lumpur as a press officer in 1949 (until 1954) during the Malayan Emergency.
+Returning to Singapore after the war, Ooi became chief reporter, then sub-editor and columnist for the <i>Malaya Tribune</i> 1945–49). He later worked for the Information Department in Kuala Lumpur as a press officer in 1949 (until 1954) during the Malayan Emergency.
 
-From 1954–58, Ooi was the editor-in-chief of the <i>Singapore Standard</i>. He rejoined the Information Department in 1958 and was appointed Head of the Press and Liaison sections in May 1960. He was the editor-in-chief of the <i>Malayan Times</i> (1962–65) and later the <i>Eastern Sun</i> in Singapore (1966–68).
+From 1954–58, Ooi was the editor-in-chief of the <i>Singapore Standard</i>. He rejoined the Information Department in 1958 and was appointed head of the press and liaison sections in May 1960. He was subsequently editor-in-chief of the <i>Malayan Times</i> (1962–65) and later the <i>Eastern Sun</i> in Singapore (1966–68).
 
 After his stint at the <i>Eastern Sun</i>, Ooi became a freelance writer (penning a regular column titled “Impromptu” for the <i>Straits Echo</i>) and broadcaster (hosting a monthly current affairs radio talk show called “Window on the World”). In 1968, he received the Ahli Mangku Negara (Defender of the Realm) decoration from the Yang di-Pertuan Agong of Malaysia. Ooi’s last column was published in the <i>Straits Echo</i> shortly after his death in Kuala Lumpur in December 1972.
 
