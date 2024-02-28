@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - A Cool Business The History of Ice Making in Singapore.md
       - Example Title.md
       - Testing My Skills.md
       - Test2.md
