@@ -48,10 +48,38 @@ Usage of ice for domestic and commercial purposes also grew in tandem. Ice was s
 
 Domestically, ice was used to keep food fresh or chilled before refrigerators arrived in Singapore in the 1930s.[^18] Affluent families would store perishable foods and dairy products in insulated ice chests, which were kept cold with regular replenishments of ice.[^19] “The box would be made of wood,” recounted Aloysius Leo De Conceicao, a former bank officer and funeral minister. “But inside the box it was lined with a zinc or aluminium piece so that you could take out the ice and wash it and put back the ice… And then you put whatever you wanted, you wanted to chill your drinks or you wanted to keep a little things frozen or your leftover foods, you could keep it there.”[^20]
 
+![](/images/Vol%2020%20Issue%201/Ice%20Making/image3.jpg)
+<div style="background-color: white;">Advertisement for an ice chest. Before refrigerators were common, households kept food in ice chests to make them last longer. These ice chests were typically made of wood and included a top shelf where ice was stored to chill the food below. <i>Image reproduced from the Straits Times, 19 September 1906, 3. (From NewspaperSG).</i></div>
+
+![](/images/Vol%2020%20Issue%201/Ice%20Making/image4.jpg)
+<div style="background-color: white;">An ice bucket in a Peranakan home, early 20th century. Before refrigerators, households used buckets like this to store ice. <i>Courtesy of Peranakan Museum.</i></div>
+
 As factories traditionally sold ice in large blocks, consumers who required smaller amounts turned to ice sellers, who would purchase ice blocks from the factories and resell them in smaller pieces. The work was arduous as ice sellers had to manually haul heavy blocks of ice each day using sharp hooks and cut them into smaller pieces before delivering the ice to buyers using trucks, carts and even bicycles. 
 
 There were many of such small-time ice sellers in the 1950s and 1960s, but the numbers had dwindled by the 1980s. “There used to be three of us selling ice all within sight of one another. But that was in the fifties and sixties when Bukit Timah Road at the seventh mile was packed with drink carts,” ice seller Lim Lian Heng, 71, told the <i>New Nation</i> in 1980. “It’s [now] almost impossible for anyone to want to do such work. How many young men want to lug 70 katis of freezing ice with their bare arms 30 to 40 times a day?”[^21]
 
+![](/images/Vol%2020%20Issue%201/Ice%20Making/image5.jpg)
+<div style="background-color: white;">An Indian ice seller, 1900s. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
 Ice manufacturing was a very competitive business though. Even before Cold Storage opened its plant in 1916, there were already five ice factories in Singapore: Straits Ice Company (arguably the largest factory then), New Singapore Ice Works, Kallang Ice Works, Singapore Ice Factory and Chan Ngo Bee Ice Factory.[^22] By the 1920s, the industry had consolidated into three main players: New Singapore Ice Works, Cold Storage and Atlas Ice Company of Malacca, which opened in 1925.[^23]
 
 In the 1930s, refrigerators began replacing ice chests in homes, and domestic usage of ice declined.[^24] But ice-making remained a crucial industry commercially, especially to the flourishing fishing trade which required high-grade ice to keep catches fresh. By 1932, about 150 tons of ice were still produced daily in Singapore, mainly by Cold Storage and New Singapore Ice Works.[^25]
+
+#### **Impact on the Price of Fish**
+During the Japanese Occupation of Singapore (1942–45), many ice factories were destroyed in bombing raids, and fell into disuse and disrepair. When the war ended, the ice companies attempted to restart operations, including Cold Storage. “Much of our plant and equipment suffered severely from neglect during the Japanese regime and we have had to meet, and are still facing very heavy replacement and renewal expenditure,” the company reported in a circular to shareholders in August 1948. “Prewar activities in all directions have, however, been fully resuscitated and, in many directions, considerably extended.”[^26]
+
+As ice production was stymied by old and damaged machinery, and replacements from overseas were delayed, the price of ice spiked. A black market by “middlemen manipulating deals between ice manufacturers and the ultimate consumers” further drove up prices, from $22.40 per ton in 1946 to more than $100 per ton in 1947. This threatened the survival of many fishing companies which could not afford to purchase the ice.[^27] Fortunately, by 1948, the situation improved as new machines arrived and the black market was stamped out. Amid intense competition among ice manufacturers, prices dropped to $20 per ton in 1949, benefitting both businesses and households.[^28]
+
+Ice was such an integral component of the fishing industry that when local ice factories attempted to raise prices to $22.40 per ton in July 1952, fish dealers and merchants protested against the “unjustified” and “unwarranted” price increase, which they claimed would “not only add to the cost of living, but also increase the price of fish”.[^29]
+
+In a joint letter issued by the Singapore Fish Merchants’ Association and Singapore Wholesale Merchants’ Association, they wrote that “we have now decided that it will no longer be possible to bring into Singapore second and third grade fish, for fear of incurring financial losses”. The ice manufacturers backed down, at least, at that point.[^30] Over time though, the price of ice continued to climb – reaching $34.20 per ton in June 1979 – impacting the cost of fish for residents.[^31]
+
+#### **A Cool Business**
+
+Meanwhile, more ice factories came and went in the second half of the 20th century. After the acquisition of New Singapore Ice Works by Cold Storage in 1958, of the major factories that had operated in Singapore in the 19th century, only Cold Storage and Atlas Ice remained in business.[^32]
+
+In addition to these large companies, there were also others. One well-known ice supplier is Tuck Lee Ice, which has been in operation here since 1924. Originally owned by Kwok Ku Loong,[^33] it was sold to Hauw Kiat in 1957, an immigrant from China who moved to Indonesia and later Singapore. Hauw’s descendants took over the business after his death in 1961 and successfully modernised ice-making by introducing food-grade ice hygienically made by machines. They also sold ice in smaller cubes that were more convenient compared to the conventional larger blocks of ice typically sold by other ice manufacturers. The company has since ventured into providing ice sculptures for events, beverage distribution, and transport and logistics services for temperature-sensitive items. The Hauw family still owns and manages the company to this day.[^34]
+
+Another supplier that has rejuvenated the ice industry and continues to thrive in Singapore today is Jurong Marine Cold Storage (JM Ice), established in 1971. In 2015, the company moved away from the industry’s traditional reliance on tough physical labour by investing in robotic automation in its packaging process. “We were facing a big headache as no one wanted to work as an ice-packer,” said Eric Lee, one of the company’s two executive directors. With the robotic arms, its workers were redeployed to other jobs.[^35]
+
+Given Singapore’s tropical climate, ice manufacturers will never face a chilly reception from the market. 
