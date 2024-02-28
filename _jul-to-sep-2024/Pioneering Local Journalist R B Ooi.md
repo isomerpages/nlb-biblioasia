@@ -7,7 +7,7 @@ description: RB Ooi
 #### As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing to the fore issues at the heart of the nation.
 By Linda Lim
 
-Being in a war zone is always dangerous, even for non-combatants, as R.B. Ooi, the former editor for the Singapore Standard and the Eastern Sun, could attest.
+Being in a war zone is always dangerous, even for non-combatants, as R.B. Ooi, the former editor for the <i>Singapore Standard</i> and the <i>Eastern Sun</i>, could attest.
 
 During the Malayan Emergency (1948–60), Ooi worked as a press officer to General Gerald Templer, the British High Commissioner for Malaya, who had been tasked to deal with the communist guerillas. In a 1969 letter to his daughter, Mrs Irene Lim, Ooi wrote that he had spent three years “covering the jungle war for the government, local and foreign press". That meant spending time with British troops in the jungle. And while they tried not to draw attention, apparently the communists knew they were there. Ooi further wrote that a surrendered Malay communist had come up to him and asked what they had been doing in the jungle near Bentong, Pahang, with a Gurkha patrol. “He and his men were waiting to ambush the Gurkhas when he saw us following the Gurkhas in thick jungle with film camera and still camera. He thought we were from Hollywood, so did not shoot…”[^1]
 
@@ -32,14 +32,14 @@ Ooi started out as a junior reporter for the Penang-based newspaper, <i>Straits 
 
 In 1942, the family left Singapore for Bukit Mertajam in Province Wellesley (now Seberang Prai), Malaysia, having been informed by Ooi’s “Malay journalist friend” (possibly Yusof Ishak, who later became the first president of Singapore in 1965) that he was on a death blacklist for anti-Japanese articles he had published before the Japanese Occupation (1942–45).[^3] A year later, Ooi got a job at Juru Rubber Estate in Province Wellesley, an experience that provided much material for his later articles on “life in the <i>ulu</i>” (<i>ulu</i> referring to remote wild places).
 
-Returning to Singapore after the war, Ooi became chief reporter, then sub-editor and columnist for the <i>Malaya Tribune</i> 1945–49). He later worked for the Information Department in Kuala Lumpur as a press officer in 1949 (until 1954) during the Malayan Emergency.
+Returning to Singapore after the war, Ooi became chief reporter, then sub-editor and columnist for the <i>Malaya Tribune</i> (1945–49). He later worked for the Information Department in Kuala Lumpur as a press officer in 1949 (until 1954) during the Malayan Emergency.
 
 From 1954–58, Ooi was the editor-in-chief of the <i>Singapore Standard</i>. He rejoined the Information Department in 1958 and was appointed head of the press and liaison sections in May 1960. He was subsequently editor-in-chief of the <i>Malayan Times</i> (1962–65) and later the <i>Eastern Sun</i> in Singapore (1966–68).
 
 After his stint at the <i>Eastern Sun</i>, Ooi became a freelance writer (penning a regular column titled “Impromptu” for the <i>Straits Echo</i>) and broadcaster (hosting a monthly current affairs radio talk show called “Window on the World”). In 1968, he received the Ahli Mangku Negara (Defender of the Realm) decoration from the Yang di-Pertuan Agong of Malaysia. Ooi’s last column was published in the <i>Straits Echo</i> shortly after his death in Kuala Lumpur in December 1972.
 
 <img style="width: 50%; height: 50%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/07.png">
-<div style="background-color:white;">R.B. Ooi being conferred the Ahli Mangku Negara by the Yang di-Pertuan Agong of Malaysia, 1968. <i>Image reproduced from "A Royal Honour," Eastern Sun, 6 April 1968, 4. (From NewspaperSG)</i></div>
+<div style="background-color:white;">R.B. Ooi being conferred the Ahli Mangku Negara by the Yang di-Pertuan Agong of Malaysia, 1968. <i>Image reproduced from "A Royal Honour," Eastern Sun, 6 April 1968, 4. (From NewspaperSG).</i></div>
 
 #### **Early Life**
 
@@ -62,7 +62,7 @@ agreed. The Kungs were Christian, so Ooi was baptised for the wedding held at th
 <img style="width: 60%; height: 50%;" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/03.png">
 <div style="background-color:white;">R.B. Ooi and Kung's traditional Chinese wedding at the Ooi family home in Bukit Mertajam, 1925.<i> Courtesy of Irene Lim.</i></div>
 
-To fulfil his mother’s wishes, Ooi and Edna had a second wedding in Bukit Mertajam according to Chinese rites. They had four children: Irene (born in 1927 in Kuala Lumpur), Violet (1932), Eric (1934) and Sylvia (1936) the latter three were born in Singapore following the family’s move there. Unfortunately, the marriage broke down. My grandmother, Edna, remarried towards the end of the war while my grandfather did not remarry.
+To fulfil his mother’s wishes, Ooi and Edna had a second wedding in Bukit Mertajam according to Chinese rites. They had four children: Irene (born in 1927 in Kuala Lumpur), Violet (1932), Eric (1934) and Sylvia (1936), the latter three were born in Singapore following the family’s move there. Unfortunately, the marriage broke down. My grandmother, Edna, remarried towards the end of the war while my grandfather did not.
 
 #### **Being Malayan**
 
