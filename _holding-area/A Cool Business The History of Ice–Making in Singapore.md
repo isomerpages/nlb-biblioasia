@@ -133,7 +133,7 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 
 [^16]: “[The Passing of Natural Ice](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260614-1.2.68),” *Singapore Free Press and Mercantile Advertiser*, 14 June 1926, 11. (From NewspaperSG)
 
-[^17]: “[Notice](eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18681105-1.2.14.3),” *Singapore Daily Times*, 16 February 1881, 2. (From NewspaperSG)
+[^17]: “[Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singdailytimes18681105-1.2.14.3),” *Singapore Daily Times*, 16 February 1881, 2. (From NewspaperSG)
 
 [^18]: “[Big Shipment of Refrigerators](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19360520-1.2.14),” *Malaya Tribune*, 20 May 1936, 5. (From NewspaperSG)
 
