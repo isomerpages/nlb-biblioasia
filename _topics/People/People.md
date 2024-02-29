@@ -165,7 +165,7 @@ Sang Nila Utama helped established the legitimacy of the Melaka Sultanate, says 
 
 Major-General Feng Yee represented China at the Japanese surrender ceremony here. *Seow Peck Ngiam* tells us about his life.
 
-<img src="/images/Vol-16-issue-1/history/History-title2.jpg" style="width:80%;">
+<img src="/images/Vol-16-issue-1/history/History-title2.jpg" style="width:80%; height:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/king/">The King’s Chinese: The Life of Sir Song Ong Siang</a>
