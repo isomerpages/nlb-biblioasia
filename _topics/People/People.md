@@ -83,7 +83,7 @@ A gentle giant with a larger-than-life personality, Subaraj Rajathurai helped to
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Rōmusha</a>
 During World War II, forced civilian labourers known as rōmushas were used by the Imperial Japanese Army for hard labour. They helped to build the Death Railway.
 
-<img src="/images/Vol%2018%20Issue%203/Romusha/1_cover_thaimap.jpg" style="width:80%;">  
+<img src="/images/Vol%2018%20Issue%203/Romusha/romusha_topic.png" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/loke-wan-tho-cathay-cinema/">Loke Wan Tho: The Man Who Built Cathay</a>
