@@ -102,7 +102,7 @@ Loke Wan Tho was a renaissance man, says his niece, Choo Meileen, chairwoman of 
 
 Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible misunderstanding that would change the course of history in Riau and Singapore.
 
-<img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%201.png">
+<img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/wedding_gone_wrong_topic.png" style="width:70%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist/">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a>
