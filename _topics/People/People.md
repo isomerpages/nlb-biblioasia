@@ -201,7 +201,7 @@ Writing a biography can be tedious, painstaking work. But the effort can also be
 
 **Ronnie Tan**&nbsp;and&nbsp;**Goh Yu Mei**&nbsp;recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
 
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron1.JPG" style="width:80%;">
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/iron1_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/creative-collectives/">Creative Collectives: Abdul Ghani Abdul Hamid and His Contemporaries</a>
