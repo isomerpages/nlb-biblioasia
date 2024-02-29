@@ -180,7 +180,7 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 
 <b>Fiona Tan</b>&nbsp;tells us about the people who laid the bedrock of the National Archives of Singapore, along with details of how the institution has evolved since its inception in 1938.
 
-<img src="/images/Vol-15-issue-1/pioneers-of-the-archives/01a_pioneers.jpg" style="width:80%;">
+<img src="/images/Vol-15-issue-1/pioneers-of-the-archives/pioneerarchives_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/s-rajaratnam/">Researching S. Rajaratnam</a>
