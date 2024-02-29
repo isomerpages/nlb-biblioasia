@@ -123,7 +123,7 @@ Singapore was once a home to the seafaring Orang Seletar who now reside in Johor
 
 The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore. **Barbara Quek** looks at these cinemas, and the man behind the curtain.
 
-<img src="/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/cover.png" style="width:90%;">
+<img src="/images/Vol%2018%20Issue%201/Tan%20Cheng%20Kee/chengkee_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/tiger/">The “Tiger” in Singapore: Georges Clemenceau’s Visit in 1920</a>
