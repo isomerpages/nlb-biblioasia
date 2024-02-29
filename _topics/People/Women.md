@@ -18,7 +18,7 @@ Women who practised a particular form of Buddhism set up popular vegetarian rest
 <img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/buddhist_women_topic.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="vol-18/issue-1/apr-to-jun-2022/kamala-club/">The Kamala Club: Planting the Seeds of a Pioneering Women’s Organisation</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/kamala-club/">The Kamala Club: Planting the Seeds of a Pioneering Women’s Organisation</a>
 
 **Vandana Aggarwal**  traces the origins of a venerable association for Indian women and the role it played in their lives.
 
