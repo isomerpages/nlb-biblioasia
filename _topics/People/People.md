@@ -172,7 +172,7 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 
 *Kevin Y.L. Tan* pens a portrait of the first person in Malaya to be knighted and the author of One Hundred Years’ History of the Chinese in Singapore.
 
-<img src="/images/Vol-16-issue-1/king/King-title.jpg" style="width:50%;">
+<img src="/images/Vol-16-issue-1/king/king_chinese_topic.png" style="width:80%;">
 
 <hr>
 
