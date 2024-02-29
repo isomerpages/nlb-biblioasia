@@ -8,7 +8,7 @@ variant: markdown
 
 As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice.
 
-<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png">
+<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/chaotzeecheng_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital/">Labouring to Deliver: A History of Kandang Kerbau Hospital</a>
@@ -35,7 +35,7 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
 <p>The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. Kevin Y.L. Tan documents his life and work.</p>
 
-<img style="width:100%;" src="/images/Vol-16-issue-2/plague/EpidemicinManchuria.jpg">
+<img style="width:80%;" src="/images/Vol-16-issue-2/plague/drwulienteh_topic.png">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/cholera">Cholera in 19th-century Singapore</a>
