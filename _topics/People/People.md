@@ -52,13 +52,13 @@ The visit by Qing officials to Singapore in 1876 led to the establishment of the
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/choo-seng-quee-football-coach/">Coach Choo Seng Quee, A Giant of Singapore Football</a>
 Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in 1977.  Four decades after his death, we remember his many contributions to the sport.
 
-<img src="/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/a7spread.jpg" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%203/7%20Coach%20Choo%20Seng%20Quee/choo_award_homepage.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/tok-sumang-english/">Tok Sumang: A Translation</a>
 A story about Wak Sumang, a man of great wisdom and many talents, and the founder of Kampong Punggol.
 
-<img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/tok%20sumang%20cover%20reduced.jpg" style="width:40%;">
+<img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/toksumang_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/">Neo Tiew: The Man Who Built Lim Chu Kang</a>
