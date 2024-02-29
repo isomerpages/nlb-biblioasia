@@ -151,14 +151,14 @@ Two young French naturalists were hired by Stamford Raffles in December 1818 to 
 
 *Kevin Y.L. Tan* tells us how Penang-born doctor Wu Lien-Teh fought the pneumonic plague in Manchuria and popularised the use of face masks.
 
-<img src="/images/Vol-16-issue-2/plague/DrWuLienTeh.jpg" style="width:80%;">
+<img src="/images/Vol-16-issue-2/plague/drwulienteh_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/sangnila/">Sang Nila Utama: Separating Myth from Reality</a>
 
 Sang Nila Utama helped established the legitimacy of the Melaka Sultanate, says *Derek Heng*.
 
-<img src="/images/Vol-16-issue-2/sangnila/SejarahMelayu.jpg" style="width:80%;">
+<img src="/images/Vol-16-issue-2/sangnila/sangnila_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/witness-to-history/">Witness to History</a>
