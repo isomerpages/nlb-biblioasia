@@ -144,7 +144,7 @@ The Alhambra and Marlborough theatres were famous landmarks in pre-war Singapore
 
 Two young French naturalists were hired by Stamford Raffles in December 1818 to collect wildlife specimens in the region and they were with him when Raffles landed in Singapore in 1819. *Danièle Weiler* looks at their life and work.
 
-<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="width:70%;">
+<img src="/images/Vol-16-issue-2/raffles/pierre_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/plague/">The Plague Fighter: Dr Wu Lien-Teh and His Work</a>
