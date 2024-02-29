@@ -109,7 +109,7 @@ Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible 
 
 As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice.
 
-<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%201.png" style="width:70%;">
+<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/chaotzeecheng_topic.png" style="width:70%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides//">The Orang Seletar: Rowing Across Changing Tides</a>
