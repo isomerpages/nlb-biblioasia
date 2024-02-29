@@ -91,5 +91,5 @@ Along with the introduction of running water and electricity at the turn of the 
 
 Thrift, hard work and resilience are qualities that can be nurtured through food.&nbsp;**Chantal Sajan**&nbsp;recalls the legacy of her grandaunt.
 
-<img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty1.JPG">
+<img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/chetty1_topic.png" style="width:80%;">
 <hr>
