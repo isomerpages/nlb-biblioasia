@@ -50,7 +50,7 @@ A number of cookbooks written in the 1940s and 1950s helped expand the tradition
 
 *Edward Stokes* reflects on the life and work of Marjorie Doggett, a pioneering photographer.
 
-<img src="/images/Vol-16-issue-1/marjorie/Majorie-title.png" style="width:80%;">
+<img src="/images/Vol-16-issue-1/marjorie/marjorie_victor_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/women-w-commodities/">When Women Were Commodities</a>
