@@ -29,7 +29,7 @@ Women who practised a particular form of Buddhism set up popular vegetarian rest
 
 Wong Din Haan, who founded a girls’ school in Singapore, was also a champion for women’s rights.
 
-<img src="/images/vol-17-issue-4/Wong-Din-Haan/Cover-WongDinHaan-R.jpg">
+<img src="/images/vol-17-issue-4/Wong-Din-Haan/wongdinhaan_topic.jpg" style="width:80%;">
 <hr>
 
 
