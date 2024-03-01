@@ -120,7 +120,7 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 
 **Asrina Tanuri** traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
 
-<img src="/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan%20Bintang%20Tiga%20(2020)%20(orig).png" style="width:80%;">
+<img src="/images/Vol%2018%20Issue%201/Opera%20Estate/jalanbintangtiga_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/pulau-lingga/">Mother Island: Finding Singapore's Past in Pulau Lingga</a>
