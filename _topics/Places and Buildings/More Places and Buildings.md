@@ -106,7 +106,7 @@ Sennett Estate is a unique milestone in the history of housing development in Si
 
 Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks at how these markets have changed over time.
 
-<img src="/images/Vol%2018%20Issue%201/Wet%20Market/editedmarket4.png">
+<img src="/images/Vol%2018%20Issue%201/Wet%20Market/sagostreetmarket_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital/">Labouring to Deliver: A History of Kandang Kerbau Hospital</a>
