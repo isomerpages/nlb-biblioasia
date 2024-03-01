@@ -44,7 +44,7 @@ The Jurong Drive-in was Singapore’s one and only drive-in cinema. In its heyda
 
 The development of the arts in Singapore is unimaginable without this arts centre dedicated to alternative voices. Key individuals from its early history tell Clarissa Oon how it got started.
 
-<img src="/images/vol-17-issue-4/substation/substation.png" style="width:80%;">
+<img src="/images/vol-17-issue-4/substation/substation_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/thespians/"> The Thespians of RAF Seletar</a><br>
@@ -57,7 +57,7 @@ The RAF Seletar Theatre Club was a highly regarded amateur drama group in Singap
 
 Pulsating music, strobe lights and postage-stamp dance floors packed with shimmying bodies.&nbsp;<b>Tan Chui Hua</b>&nbsp;gives you the lowdown on the history of the disco scene in Singapore.
 
-<img src="/images/Vol-15-issue-1/when-disco-fever-raged/01_disco.png" style="width:80%;">
+<img src="/images/Vol-15-issue-1/when-disco-fever-raged/disco_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/sg-stopover-circuit/">Singapore Stopover: The Entertainment Circuit 1920–1940</a>
