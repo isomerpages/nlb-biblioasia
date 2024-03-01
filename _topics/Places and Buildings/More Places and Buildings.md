@@ -85,7 +85,7 @@ Chinese bookstore Union Book has seen many changes over the last seven decades.
 
 Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space.
 
-<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png" style="width:80%;">
+<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/subterranean_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate/">This Was Once Singapore’s Largest Planned Housing Development: A History of Sennett Estate</a>
