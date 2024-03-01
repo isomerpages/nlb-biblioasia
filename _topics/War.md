@@ -111,6 +111,13 @@ History may be written by the victors, but what they conveniently leave out can 
 <img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/american-expedition/">US Ex Ex: An Expedition for the Ages</a>
+
+The Wilkes Expedition – as it is popularly known – vastly expanded the borders of scientific learning.&nbsp;<b>Vidya Schalk</b>&nbsp;explains how this historic American naval mission between 1838 and 1842 is linked to Singapore.
+
+<img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex1.JPG" style="width: 80%; height: 100%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/unresolved-past/">The Unresolved Past: Reflections on War and Memory</a>
 
 Why recall traumatic memories of war when it is painful for both perpetrators and victims? <b>Kwok Kian Woon</b> considers the stakes in remembering and understanding war experiences in times of relative peace.
