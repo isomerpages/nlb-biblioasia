@@ -14,7 +14,7 @@ The late architect William Lim did more than shape Singapore’s skyline. He was
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/golden-mile-complex">Golden Mile Complex: Five Decades of an Architectural Icon</a>
 The collective sale and conservation of Golden Mile Complex will restore a visionary building designed for a “new look Singapore” 50 years ago. But it also means the loss of a unique community that had developed there.
 
-<img src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden_mile_complex_3.png">
+<img src="/images/Vol%2019%20Issue%202/Golden%20Mile%20Complex/golden_mile_complex_3.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/golden-mile-complex-photos">Saving a Landmark But Losing a Community: Golden Mile Complex</a>
