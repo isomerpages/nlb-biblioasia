@@ -12,8 +12,8 @@ By Jimmy Yap
 As an artist, Yip Yew Chong made a name for himself painting outdoor murals in places such as Chinatown, Kampong Glam and Tiong Bahru. He would produce huge scenes – mostly with a historical bent – while perched on a ladder, regularly battling the elements. His most recent claim to fame, however, is a little different. While undoubtedly large – “I Paint my Singapore” is a 60-metre-long work – most of the painting was done indoors in the comfort of Yip’s studio. And while outdoor murals are a transient medium, exposed as they are to the merciless sun and the pelting rain, Yip’s latest painting is meant to last.&nbsp;
 
 
-![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/YipYewChong.jpg)
-<div style="background-color: white;">Yip Yew Chong pointing at the painting of his family in their shophouse on Sago Lane, 2023. <i>Photo by Woo Pei Qi. </i></div>
+![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/i_paint_singapore_yip.png)
+<div style="background-color: white;"><i>“I Paint my Singapore”</i> at the Raffles City Convention Centre. <i>Photo by Woo Pei Qi. </i></div>
 
 
 The public’s response to “I Paint my Singapore” has been remarkable. So many people wanted to view the painting, which was exhibited at the foyer of the Raffles City Convention Centre, that the organisers had to do crowd control.
