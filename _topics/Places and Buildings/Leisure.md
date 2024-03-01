@@ -16,14 +16,14 @@ The history of the Singapore Speedway was as fast and furious as the races it ho
 
 Three public bathhouses at Ellenborough Market, Canton Street and Clyde Terrace were built by the Municipality in the late 19th century.
 
-<img src="/images/Vol%2019%20Issue%201/Public%20Bathhouses/Public%20Bathhouse_Tree%20and%20lake.png" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%201/Public%20Bathhouses/trees_and_lake_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-sarong-island-sentosa-singapore/">From Sarong Island With Love: Singapore’s Original Tourist Isle	</a>
 
 Before there was Sentosa, there was Sarong Island.
 
-<img src="/images/Vol%2018%20Issue%203/Sarong%20Island/1_cover.jpg" style="width:80%;">
+<img src="/images/Vol%2018%20Issue%203/Sarong%20Island/sarong_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-union-book-bras-basah-singapore/">Union Book Stands Tall At 70</a>
