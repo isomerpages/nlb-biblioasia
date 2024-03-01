@@ -30,12 +30,12 @@ Fortunately, for Singapore residents, 1861 was also the year that Singapore Ice 
 ![](/images/Vol%2020%20Issue%201/Ice%20Making/imageadd2.jpg)
 <div style="background-color: white;">A replica of Whampoa’s Ice House in Boat Quay, 2024. <i>Photo by Goh Lee Kim.</i></div>
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/image1.jpg)
-<div style="background-color: white;">Straits Ice Company, 1900s.  It began operations in February 1881. <i>Courtesy of National Archives of Singapore.</i></div>
-
 #### **A Necessary Commodity**
 
 Other companies began to enter the market, increasing the overall supply of ice to the island. Singapore Ice Works thrived as the main ice factory until February 1881 when Straits Ice Company, owned by Howarth, Erskine &amp; Co., began operations.[^8]
+
+![](/images/Vol%2020%20Issue%201/Ice%20Making/image1.jpg)
+<div style="background-color: white;">Straits Ice Company, 1900s.  It began operations in February 1881. <i>Courtesy of National Archives of Singapore.</i></div>
 
 The resulting price war ended with the sale of Singapore Ice Works in June 1882 to Howarth, Erskine &amp; Co., which amalgamated both companies and appointed Katz Brothers as its agent, selling a pound of ice at one-and-a-half cents.[^9] The Singapore Distilled Water Ice Company (later renamed New Singapore Ice Works) subsequently opened in March 1890.[^10] The factory used to be at Sungei Road until it relocated in 1984. Thanks to the factory, the area became known as <i>Gek Sng Kio</i> (结霜桥, meaning “Frosted Bridge” in Hokkien).[^11]
 
@@ -62,6 +62,9 @@ Domestically, ice was used to keep food fresh or chilled before refrigerators ar
 <div style="background-color: white;">An ice bucket in a Peranakan home, early 20th century. Before refrigerators, households used buckets like this to store ice. <i>Courtesy of Peranakan Museum.</i></div>
 
 As factories traditionally sold ice in large blocks, consumers who required smaller amounts turned to ice sellers, who would purchase ice blocks from the factories and resell them in smaller pieces. The work was arduous as ice sellers had to manually haul heavy blocks of ice each day using sharp hooks and cut them into smaller pieces before delivering the ice to buyers using trucks, carts and even bicycles. 
+
+![](/images/Vol%2020%20Issue%201/Ice%20Making/imageadd1.jpg)
+<div style="background-color: white;">An ice seller cutting large ice blocks into smaller pieces with an iron saw, 1992.<i>Liesel Strauss Collection, National Library, Singapore.</i></div>
 
 There were many of such small-time ice sellers in the 1950s and 1960s, but the numbers had dwindled by the 1980s. “There used to be three of us selling ice all within sight of one another. But that was in the fifties and sixties when Bukit Timah Road at the seventh mile was packed with drink carts,” ice seller Lim Lian Heng, 71, told the <i>New Nation</i> in 1980. “It’s [now] almost impossible for anyone to want to do such work. How many young men want to lug 70 katis of freezing ice with their bare arms 30 to 40 times a day?”[^21]
 
