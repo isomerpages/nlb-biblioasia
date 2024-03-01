@@ -27,6 +27,9 @@ Fortunately, for Singapore residents, 1861 was also the year that Singapore Ice 
 
 “The public must now decide whether it will support an establishment which will ensure a permanent supply of ice [Singapore Ice Works], or give the preference to a person who offers no guarantee that he will keep up a more regular import [Tudor] than has hitherto been the case,” wrote the <i>Singapore Free Press and Mercantile Advertiser</i> in December 1861. By 1865, Tudor had closed after the government enforced the sale of Ice House to Singapore Ice Works over the former’s supply disruptions.[^6] (The building once occupied by Ice House continued to stand in Boat Quay until it was demolished in 1981 for the widening of River Valley Road; a replica in Clarke Quay is still around today.[^7])
 
+![](/images/Vol%2020%20Issue%201/Ice%20Making/imageadd2.jpg)
+<div style="background-color: white;">A replica of Whampoa’s Ice House in Boat Quay, 2024. <i>Photo by Goh Lee Kim.</i></div>
+
 ![](/images/Vol%2020%20Issue%201/Ice%20Making/image1.jpg)
 <div style="background-color: white;">Straits Ice Company, 1900s.  It began operations in February 1881. <i>Courtesy of National Archives of Singapore.</i></div>
 
