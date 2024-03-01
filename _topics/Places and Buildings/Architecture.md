@@ -45,7 +45,7 @@ Mandalay Villa. House of Jade. House of Teo Hoo Lye. Yap Jo Lin gives us a tour 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/building/">Planning to Build, Building to Plan</a>
 The building plans in the National Archives are a treasure trove, says *Yap Jo Lin*.
 
-<img src="/images/Vol-16-issue-3/building/planningbuilding-cover.jpg" style="width:80%;">
+<img src="/images/Vol-16-issue-3/building/planningbuilding_topic.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/karikal)/">Karikal Mahal: The Lost Palace of a Fallen Cattle King</a>
