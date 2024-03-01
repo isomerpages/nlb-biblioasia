@@ -63,7 +63,7 @@ The foundation stone for the Causeway was laid 100 years ago. We look back at th
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/istana-turns-150/">The Istana Turns 150</a>
 The resplendent Istana – where colonial governors and modern-day presidents once lived – celebrated its 150th anniversary in 2019. *Wong Sher Maine* recounts key moments in its history. 
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana1.JPG" style="width:80%;">
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/istana1_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/bridging-history-wtr/">Bridging History: Passageways Across Water</a>
