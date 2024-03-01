@@ -13,7 +13,7 @@ As an artist, Yip Yew Chong made a name for himself painting outdoor murals in p
 
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/i_paint_singapore_yip.png)
-<div style="background-color: white;"><i>“I Paint my Singapore”</i> at the Raffles City Convention Centre. <i>Photo by Woo Pei Qi. </i></div>
+<div style="background-color: white;">“I Paint my Singapore” at the Raffles City Convention Centre. <i>Photo by Woo Pei Qi. </i></div>
 
 
 The public’s response to “I Paint my Singapore” has been remarkable. So many people wanted to view the painting, which was exhibited at the foyer of the Raffles City Convention Centre, that the organisers had to do crowd control.
