@@ -31,13 +31,13 @@ An innovation patented in 1920 produced paper that was more durable, had greater
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/earlyprinting/"> Early Printing in Myanmar and Thailand</a>
 <p>In the second of two essays on the history of printing in mainland Southeast Asia, <b>Gracie Lee</b> recounts how Christian missionaries brought printing technology to Myanmar and Thailand.</p>
 
-<img src="/images/Vol-16-issue-2/earlyprinting/Alphabetum&amp;Comparative.jpg">
+<img src="/images/Vol-16-issue-2/earlyprinting/Alphabetum&amp;Comparative.jpg" style="width:80%;">
 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals"> Malay Seals from Singapore</a>
 <p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
-<img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg" style="width:80%;">
+<img src="/images/Vol-16-issue-1/malay-seals/temenggung_topic.png" style="width:80%;">
 
 <hr>
 
