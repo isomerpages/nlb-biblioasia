@@ -113,7 +113,7 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 
 [^3]: “[Notice](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18580506-1.2.3.5),” *Singapore Free Press and Mercantile Advertiser*, 6 May 1858, 2. (From NewspaperSG)
 
-[^4]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18611205-1.2.4),” *Singapore Free Press and Mercantile Advertiser*, 5 December 1861, 3. (From NewspaperSG); “[Our Ice Supply](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18650826-1.2.3),” *Straits Times*, 26 August 1865, 1. (From NewspaperSG)
+[^4]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18611205-1.2.4),” *Singapore Free Press and Mercantile Advertiser*, 5 December 1861, 3; “[Our Ice Supply](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18650826-1.2.3),” *Straits Times*, 26 August 1865, 1. (From NewspaperSG)
 
 [^5]: “[Singapore Ice Works](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18610810-1.2.35.5),” *Straits Times*, 10 August 1861, 4. (From NewspaperSG); “[Singapore Ice Works River Valley Road](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780424-1.2.11.1),” *Singapore Daily Times*, 24 April 1878, 1; “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18611205-1.2.4).”  
 
