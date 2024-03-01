@@ -27,14 +27,14 @@ The Singapore Teachers’ Union wanted a clubhouse. They ended up building a hou
 
 Sennett Estate is a unique milestone in the history of housing development in Singapore, and its quiet streets have had its fair share of excitement over the years.
 
-<img src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png" style="width:80%;">
+<img src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/sennettestate_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-opera-estate/">Living in Harmony: The History of Opera Estate</a>
 
 **Asrina Tanuri** traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
 
-<img src="/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan%20Bintang%20Tiga%20(2020)%20(orig).png" style="width:80%;">
+<img src="/images/Vol%2018%20Issue%201/Opera%20Estate/jalanbintangtiga_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/towkays-houses/">Towkays at Home in Singapore</a>
