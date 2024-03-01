@@ -26,14 +26,14 @@ With the en bloc sale of Golden Mile Complex in 2021, the tenants of the shoppin
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/lee-kip-lin-binjai-park-house">32 Binjai Park: The Modernist Home of an Architect</a>
 The house that Lee Kip Lin built has stood the test of time, reflecting its simple yet modern and clean design.
 
-<img src="/images/Vol%2019%20Issue%202/Binjai/image2.png" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%202/Binjai/binjai_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/underground-space-singapore/">Subterranean Singapore: A Deep Dive into Manmade Tunnels and Caverns Underground in the City State</a>
 
 Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space.
 
-<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png">
+<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/subterranean_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/towkays-houses/">Towkays at Home in Singapore</a>
@@ -42,10 +42,10 @@ Mandalay Villa. House of Jade. House of Teo Hoo Lye. Yap Jo Lin gives us a tour 
 <img src="/images/vol-17-issue-4/towkay-house/Main-TKH.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/building)/">Planning to Build, Building to Plan</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/building/">Planning to Build, Building to Plan</a>
 The building plans in the National Archives are a treasure trove, says *Yap Jo Lin*.
 
-<img src="/images/Vol-16-issue-3/building/planningbuilding-cover.jpg" style="width:80%;">
+<img src="/images/Vol-16-issue-3/building/planningbuilding_topic.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/karikal)/">Karikal Mahal: The Lost Palace of a Fallen Cattle King</a>
@@ -63,7 +63,7 @@ The foundation stone for the Causeway was laid 100 years ago. We look back at th
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/istana-turns-150/">The Istana Turns 150</a>
 The resplendent Istana – where colonial governors and modern-day presidents once lived – celebrated its 150th anniversary in 2019. *Wong Sher Maine* recounts key moments in its history. 
 
-<img src="/images/Vol-15-issue-4/the-istana-turns-150/Istana1.JPG" style="width:80%;">
+<img src="/images/Vol-15-issue-4/the-istana-turns-150/istana1_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/bridging-history-wtr/">Bridging History: Passageways Across Water</a>

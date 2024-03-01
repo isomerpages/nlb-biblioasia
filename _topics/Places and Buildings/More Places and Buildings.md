@@ -9,13 +9,13 @@ variant: markdown
 
 From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation’s history.
 
-<img src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/victor_savage.png" style="width:80%;">
+<img src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/middle_road_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing">A Quick History of the Singapore Speedway</a>
 The history of the Singapore Speedway was as fast and furious as the races it hosted.
 
-<img src="/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image2_edit.png" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%201/Singapore%20Speedway/speedway_topic.png" style="width:80%;">
 <hr>
 
 
@@ -40,7 +40,7 @@ A look back at John Little’s 170-year history and the lasting mark the store h
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/">Neo Tiew: The Man Who Built Lim Chu Kang</a>
 The opening up of Lim Chu Kang owes much to the efforts of Neo Tiew, who helped clear the land and later became the headman of the area.
 
-<img src="/images/Vol%2019%20Issue%201/Neo%20Tiew/Neo_Tiew.png" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%201/Neo%20Tiew/neotiew_group_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/singapore-courthouse-maxwell/">Which Was Singapore's First Courthouse?</a>
@@ -85,14 +85,14 @@ Chinese bookstore Union Book has seen many changes over the last seven decades.
 
 Singapore has been burrowing underground since the 19th century, but it was only after Independence that serious efforts were made to use subterranean space.
 
-<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/Subterranean%20Singapore%20-%20Image%201.png" style="width:80%;">
+<img src="/images/Vol%2018%20Issue%202/Subterranean%20Singapore/subterranean_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-sennett-estate/">This Was Once Singapore’s Largest Planned Housing Development: A History of Sennett Estate</a>
 
 Sennett Estate is a unique milestone in the history of housing development in Singapore, and its quiet streets have had its fair share of excitement over the years.
 
-<img src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/A%20History%20of%20Sennett%20Estate%20-%20Image%201.png">
+<img src="/images/Vol%2018%20Issue%202/A%20History%20of%20Sennett%20Estate/sennettestate_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-padang/">A History of The Padang</a>
@@ -106,7 +106,7 @@ Sennett Estate is a unique milestone in the history of housing development in Si
 
 Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks at how these markets have changed over time.
 
-<img src="/images/Vol%2018%20Issue%201/Wet%20Market/editedmarket4.png">
+<img src="/images/Vol%2018%20Issue%201/Wet%20Market/sagostreetmarket_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/history-kandang-kerbau-hospital/">Labouring to Deliver: A History of Kandang Kerbau Hospital</a>
@@ -120,7 +120,7 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 
 **Asrina Tanuri** traces the development of Opera Estate from its early beginnings as coconut and rubber plantations to a private residential estate.
 
-<img src="/images/Vol%2018%20Issue%201/Opera%20Estate/Jalan%20Bintang%20Tiga%20(2020)%20(orig).png" style="width:80%;">
+<img src="/images/Vol%2018%20Issue%201/Opera%20Estate/jalanbintangtiga_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/pulau-lingga/">Mother Island: Finding Singapore's Past in Pulau Lingga</a>

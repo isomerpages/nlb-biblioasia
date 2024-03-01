@@ -27,12 +27,15 @@ Fortunately, for Singapore residents, 1861 was also the year that Singapore Ice 
 
 “The public must now decide whether it will support an establishment which will ensure a permanent supply of ice [Singapore Ice Works], or give the preference to a person who offers no guarantee that he will keep up a more regular import [Tudor] than has hitherto been the case,” wrote the <i>Singapore Free Press and Mercantile Advertiser</i> in December 1861. By 1865, Tudor had closed after the government enforced the sale of Ice House to Singapore Ice Works over the former’s supply disruptions.[^6] (The building once occupied by Ice House continued to stand in Boat Quay until it was demolished in 1981 for the widening of River Valley Road; a replica in Clarke Quay is still around today.[^7])
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/image1.jpg)
-<div style="background-color: white;">Straits Ice Company, 1900s.  It began operations in February 1881. <i>Courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2020%20Issue%201/Ice%20Making/imageadd2.jpg)
+<div style="background-color: white;">A replica of Whampoa’s Ice House in Boat Quay, 2024. <i>Photo by Goh Lee Kim.</i></div>
 
 #### **A Necessary Commodity**
 
 Other companies began to enter the market, increasing the overall supply of ice to the island. Singapore Ice Works thrived as the main ice factory until February 1881 when Straits Ice Company, owned by Howarth, Erskine &amp; Co., began operations.[^8]
+
+![](/images/Vol%2020%20Issue%201/Ice%20Making/image1.jpg)
+<div style="background-color: white;">Straits Ice Company, 1900s.  It began operations in February 1881. <i>Courtesy of National Archives of Singapore.</i></div>
 
 The resulting price war ended with the sale of Singapore Ice Works in June 1882 to Howarth, Erskine &amp; Co., which amalgamated both companies and appointed Katz Brothers as its agent, selling a pound of ice at one-and-a-half cents.[^9] The Singapore Distilled Water Ice Company (later renamed New Singapore Ice Works) subsequently opened in March 1890.[^10] The factory used to be at Sungei Road until it relocated in 1984. Thanks to the factory, the area became known as <i>Gek Sng Kio</i> (结霜桥, meaning “Frosted Bridge” in Hokkien).[^11]
 
@@ -59,6 +62,9 @@ Domestically, ice was used to keep food fresh or chilled before refrigerators ar
 <div style="background-color: white;">An ice bucket in a Peranakan home, early 20th century. Before refrigerators, households used buckets like this to store ice. <i>Courtesy of Peranakan Museum.</i></div>
 
 As factories traditionally sold ice in large blocks, consumers who required smaller amounts turned to ice sellers, who would purchase ice blocks from the factories and resell them in smaller pieces. The work was arduous as ice sellers had to manually haul heavy blocks of ice each day using sharp hooks and cut them into smaller pieces before delivering the ice to buyers using trucks, carts and even bicycles. 
+
+![](/images/Vol%2020%20Issue%201/Ice%20Making/imageadd1.jpg)
+<div style="background-color: white;">An ice seller cutting large ice blocks into smaller pieces with an iron saw, 1992.<i>Liesel Strauss Collection, National Library, Singapore.</i></div>
 
 There were many of such small-time ice sellers in the 1950s and 1960s, but the numbers had dwindled by the 1980s. “There used to be three of us selling ice all within sight of one another. But that was in the fifties and sixties when Bukit Timah Road at the seventh mile was packed with drink carts,” ice seller Lim Lian Heng, 71, told the <i>New Nation</i> in 1980. “It’s [now] almost impossible for anyone to want to do such work. How many young men want to lug 70 katis of freezing ice with their bare arms 30 to 40 times a day?”[^21]
 
@@ -107,7 +113,7 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 
 [^3]: “[Notice](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18580506-1.2.3.5),” *Singapore Free Press and Mercantile Advertiser*, 6 May 1858, 2. (From NewspaperSG)
 
-[^4]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18611205-1.2.4),” *Singapore Free Press and Mercantile Advertiser*, 5 December 1861, 3. (From NewspaperSG); “[Our Ice Supply](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18650826-1.2.3),” *Straits Times*, 26 August 1865, 1. (From NewspaperSG)
+[^4]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18611205-1.2.4),” *Singapore Free Press and Mercantile Advertiser*, 5 December 1861, 3; “[Our Ice Supply](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18650826-1.2.3),” *Straits Times*, 26 August 1865, 1. (From NewspaperSG)
 
 [^5]: “[Singapore Ice Works](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18610810-1.2.35.5),” *Straits Times*, 10 August 1861, 4. (From NewspaperSG); “[Singapore Ice Works River Valley Road](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780424-1.2.11.1),” *Singapore Daily Times*, 24 April 1878, 1; “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18611205-1.2.4).”  
 
@@ -127,7 +133,7 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 
 [^13]: “[Cold Storage (Nov. 30th)](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18981201-1.2.11),” *Singapore Free Press and Mercantile Advertiser (Weekly)*, 1 December 1898, 2. (From NewspaperSG)
 
-[^14]: Cold Storage Holdings (Singapore), [*The Cold Storage Group of Companies 1903–1978*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181943), 1978), 4. (From National Library, Singapore, call no. RCLOS 338.76413 COL) “[New Singapore Ice Works](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19060403-1.2.41),” *Straits Times*, 3 April 1906, 5. (From NewspaperSG); K.G. Tregonning, [*The Singapore Cold Storage, 1903–1966*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078048) (Singapore: Cold Storage Holdings Ltd, 1967), 13. (From National Library, Singapore, call no. RCLOS 664.02852 TRE)
+[^14]: Cold Storage Holdings (Singapore), [*The Cold Storage Group of Companies 1903–1978*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181943) (Singapore: Cold Storage Holdings, 1978), 4. (From National Library, Singapore, call no. RCLOS 338.76413 COL); “[New Singapore Ice Works](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19060403-1.2.41),” *Straits Times*, 3 April 1906, 5. (From NewspaperSG); K.G. Tregonning, [*The Singapore Cold Storage, 1903–1966*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078048) (Singapore: Cold Storage Holdings Ltd, 1967), 13. (From National Library, Singapore, call no. RCLOS 664.02852 TRE)
 
 [^15]: Goh Chor Boon, [*Technology and Entrepôt Colonialism in Singapore, 1819–1940*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200130222) (Singapore: Institute of Southeast Asian Studies, 2013), 181. (From National Library, Singapore, call no. RSING 338.064095957 GOH)
 
@@ -167,6 +173,6 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 
 [^33]: “[Ice Factory Fire Sequel](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300710-1.2.39),” *Singapore Free Press and Mercantile Advertiser*, 10 July 1930, 10. (From NewspaperSG)
 
-[^34]: Gabriel Chen, “[Tuck Lee Ice Gets Cooler with Time](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20070822-1.2.60.26.1),” *Straits Times*, 22 August 2007, 47. (From NewspaperSG); “[This Company Hit the Bigtime With Its Frozen Assets](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20050809-1.2.123.130.3),” *Straits Times*, 9 August 2005, 90; Smita Krishnaswamy, “[Ice King Adds on Beverages](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090916-1.2.58.3.3),” *Straits Times*, 16 September 2009. 43. (From NewspaperSG)
+[^34]: Gabriel Chen, “[Tuck Lee Ice Gets Cooler with Time](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20070822-1.2.60.26.1),” *Straits Times*, 22 August 2007, 47; “[This Company Hit the Bigtime With Its Frozen Assets](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20050809-1.2.123.130.3),” *Straits Times*, 9 August 2005, 90; Smita Krishnaswamy, “[Ice King Adds on Beverages](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090916-1.2.58.3.3),” *Straits Times*, 16 September 2009. 43. (From NewspaperSG)
 
 [^35]: Prisca Ang, “[JM Ice Keeps Things Cool with Bots and Tech](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20150616-1.2.32.1),” *Business Times*, 16 June 2015, 26. (From NewspaperSG); “Profile,” JM Ice, last accessed 31 January 2024, https://www.jmice.com.sg/pages/profile.
