@@ -19,7 +19,7 @@ Printing in Singapore dates back 200 years with the establishment of a press by 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor">Collection Focus: A Comic Book Version of Operation Jaywick</a>
 The story of Operation Jaywick, a daring attack on Japanese ships at Keppel Harbour in September 1943, is retold in a comic aimed at boys published in London in 1965.
 
-<img src="/images/Vol%2019%20Issue%202/Operation%20Jaywick/image_1.png" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%202/Operation%20Jaywick/opjaywick_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/rubber-latex-paper/">Printed on Rubber Latex Paper</a>
@@ -29,7 +29,7 @@ An innovation patented in 1920 produced paper that was more durable, had greater
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/earlyprinting/"> Early Printing in Myanmar and Thailand</a>
-<p>In the second of two essays on the history of printing in mainland Southeast Asia,&nbsp;**Gracie Lee**&nbsp;recounts how Christian missionaries brought printing technology to Myanmar and Thailand.</p>
+<p>In the second of two essays on the history of printing in mainland Southeast Asia, <b>Gracie Lee</b> recounts how Christian missionaries brought printing technology to Myanmar and Thailand.</p>
 
 <img src="/images/Vol-16-issue-2/earlyprinting/Alphabetum&amp;Comparative.jpg">
 
