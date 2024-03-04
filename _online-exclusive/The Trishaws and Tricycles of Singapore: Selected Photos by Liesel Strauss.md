@@ -37,15 +37,19 @@ These photos make up just a small handful of pictures of Singapore that Liesel t
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/street_vendor.png" style="width: 80%;">
 <div style="background-color: white;">Street vendor transporting fresh flowers from a cargo tricycle, c.2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/liesel_on_trishaw.png" style="width: 80%;">
-<div style="background-color: white;">Liesel Strauss on a trishaw, 2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
-
+<div style="background-color: white;">Liesel Strauss on a trishaw, 2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div>
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>ABOUT THE LIESEL STRAUSS COLLECTION</b><br><br> 
 <div style="background-color: #fff6ba; text-align:left">
 Liesel Strauss lives in Germany and is a nurse by training. She came to Singapore in 1992 when her husband, Werner, a Lutheran pastor, was offered the position of Port Chaplain by the Lutheran Church of Singapore. During her time here, Liesel was an active member of Friends of the Museum, an avid docent, and volunteer for the elderly.<br><br>
 Between 2020-22 she donated more than 3,900 photos and slides of heritage districts, places of interest, places of worship, festivals and street scenes of Singapore to the National Library Board. Her images capture the richness of life in Singapore in the 1990s and 2000s and feature traditional businesses, industries and itinerant trades as well as places and streets that today are rare sights or no longer exist.<br><br>
-Materials from the Liesel Strauss Collection at Level 11 of the Lee Kong Chian Reference Library can be found by searching “Liesel Strauss” on the <a href="https://catalogue.nlb.gov.sg/">NLB catalogue</a> or viewed at <a href="https://www.nlb.gov.sg/main/onesearch/result?type=image&amp;page=1&amp;collection=Liesel+Strauss+Collection&amp;nlonline=true">NL Online</a>.<br>
-</div></div>
+Materials from the Liesel Strauss Collection at Level 11 of the Lee Kong Chian Reference Library can be found by searching “Liesel Strauss” on the <a href="https://catalogue.nlb.gov.sg/">NLB catalogue</a> or viewed at <a href="https://www.nlb.gov.sg/main/onesearch/result?type=image&amp;page=1&amp;collection=Liesel+Strauss+Collection&amp;nlonline=true">NL Online</a>.
+</div><br></div>
+
+<div style="background-color: white;">
+<br>
+	<img src="/images/Authors/stephanie%20pee.png" style="width: 100px; height: 100px;">
+	<b>Stephanie Pee</b> is a Manager with the Publishing team at the National Library, Singapore.</div>
 	
 #### **Notes**
 
