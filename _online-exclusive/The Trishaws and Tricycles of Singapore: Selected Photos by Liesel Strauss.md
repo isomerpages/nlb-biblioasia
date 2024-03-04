@@ -6,7 +6,7 @@ description: Trishaws and Tricycles
 image: /images/Online Only Articles/Liesel_Trishaws/with_passenger.png
 ---
 #### These photos by Liesel Strauss spotlight the humble trishaw and cargo tricycle and remind of us of how Singapore used to be not too long ago.
-By Liesel Strauss
+By Stephanie Pee
 
 Our most recent memories of trishaws (bicycles fitted with a sidecar) might be a convoy of (sometimes) brightly lit trishaws in Bugis or Chinatown, ferrying tourists around the Bugis or Chinatown areas to take in their sights and sounds. Trishaws were once an essential, affordable, and common mode of transport in Singapore. Scrap collectors transporting their bulky hauls on cargo tricycles offer another reminder of how Singapore once was.
 
