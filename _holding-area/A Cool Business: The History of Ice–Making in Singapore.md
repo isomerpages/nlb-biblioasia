@@ -28,7 +28,7 @@ Fortunately, for Singapore residents, 1861 was also the year that Singapore Ice 
 “The public must now decide whether it will support an establishment which will ensure a permanent supply of ice [Singapore Ice Works], or give the preference to a person who offers no guarantee that he will keep up a more regular import [Tudor] than has hitherto been the case,” wrote the <i>Singapore Free Press and Mercantile Advertiser</i> in December 1861. By 1865, Tudor had closed after the government enforced the sale of Ice House to Singapore Ice Works over the former’s supply disruptions.[^6] (The building once occupied by Ice House continued to stand in Boat Quay until it was demolished in 1981 for the widening of River Valley Road; a replica in Clarke Quay is still around today.[^7])
 
 ![](/images/Vol%2020%20Issue%201/Ice%20Making/imageadd2.jpg)
-<div style="background-color: white;">A replica of Whampoa’s Ice House in Boat Quay, 2024. <i>Photo by Goh Lee Kim.</i></div>
+<div style="background-color: white;">A replica of Whampoa’s Ice House in Clarke Quay, 2024. <i>Photo by Goh Lee Kim.</i></div>
 
 #### **A Necessary Commodity**
 
@@ -64,7 +64,7 @@ Domestically, ice was used to keep food fresh or chilled before refrigerators ar
 As factories traditionally sold ice in large blocks, consumers who required smaller amounts turned to ice sellers, who would purchase ice blocks from the factories and resell them in smaller pieces. The work was arduous as ice sellers had to manually haul heavy blocks of ice each day using sharp hooks and cut them into smaller pieces before delivering the ice to buyers using trucks, carts and even bicycles. 
 
 ![](/images/Vol%2020%20Issue%201/Ice%20Making/imageadd1.jpg)
-<div style="background-color: white;">An ice seller cutting large ice blocks into smaller pieces with an iron saw, 1992.<i>Liesel Strauss Collection, National Library, Singapore.</i></div>
+<div style="background-color: white;">An ice seller cutting large ice blocks into smaller pieces with an iron saw, 1992. <i>Liesel Strauss Collection, National Library, Singapore.</i></div>
 
 There were many of such small-time ice sellers in the 1950s and 1960s, but the numbers had dwindled by the 1980s. “There used to be three of us selling ice all within sight of one another. But that was in the fifties and sixties when Bukit Timah Road at the seventh mile was packed with drink carts,” ice seller Lim Lian Heng, 71, told the <i>New Nation</i> in 1980. “It’s [now] almost impossible for anyone to want to do such work. How many young men want to lug 70 katis of freezing ice with their bare arms 30 to 40 times a day?”[^21]
 
