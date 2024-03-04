@@ -37,7 +37,8 @@ These photos make up just a small handful of pictures of Singapore that Liesel t
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/street_vendor.png" style="width: 80%;">
 <div style="background-color: white;">Street vendor transporting fresh flowers from a cargo tricycle, c.2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/liesel_on_trishaw.png" style="width: 80%;">
-<div style="background-color: white;">Liesel Strauss on a trishaw, 2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
+<div style="background-color: white;">Liesel Strauss on a trishaw, 2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div>
+
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>ABOUT THE LIESEL STRAUSS COLLECTION</b><br><br> 
 <div style="background-color: #fff6ba; text-align:left">
 Liesel Strauss lives in Germany and is a nurse by training. She came to Singapore in 1992 when her husband, Werner, a Lutheran pastor, was offered the position of Port Chaplain by the Lutheran Church of Singapore. During her time here, Liesel was an active member of Friends of the Museum, an avid docent, and volunteer for the elderly.<br><br>
