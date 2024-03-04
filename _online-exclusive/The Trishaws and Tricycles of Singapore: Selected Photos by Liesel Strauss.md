@@ -46,6 +46,11 @@ Liesel Strauss lives in Germany and is a nurse by training. She came to Singapor
 Between 2020-22 she donated more than 3,900 photos and slides of heritage districts, places of interest, places of worship, festivals and street scenes of Singapore to the National Library Board. Her images capture the richness of life in Singapore in the 1990s and 2000s and feature traditional businesses, industries and itinerant trades as well as places and streets that today are rare sights or no longer exist.<br><br>
 Materials from the Liesel Strauss Collection at Level 11 of the Lee Kong Chian Reference Library can be found by searching “Liesel Strauss” on the <a href="https://catalogue.nlb.gov.sg/">NLB catalogue</a> or viewed at <a href="https://www.nlb.gov.sg/main/onesearch/result?type=image&amp;page=1&amp;collection=Liesel+Strauss+Collection&amp;nlonline=true">NL Online</a>.<br>
 </div></div>
+
+<div style="background-color: white;">
+<br>
+	<img src="/images/Authors/stephanie%20pee.png" style="width: 100px; height: 100px;">
+	<b>Stephanie Pee</b> is a Manager with the Publishing team at the National Library, Singapore.</div>
 	
 #### **Notes**
 
