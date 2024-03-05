@@ -6,6 +6,7 @@ third_nav_title: History Through Postcards
 image: /images/Vol-16-issue-1/Postcards/Lim_Shao_Bin_mockup.png
 layout: post
 description: ""
+variant: markdown
 ---
 #### One postcard may not say much, but a collection of postcards can speak volumes. **Stephanie Pee** tells us what *Postcard Impressions of Early 20th-century Singapore* has to say. 
 
@@ -120,9 +121,8 @@ This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo
 
 </div>
 
-|**About the Lim Shao Bin Collection**|
-
-|The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.[^6]<br><br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.[^7]<br><br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – *Harada’s Guide* (1919) and *Shingapōru Gaiyō* (1923).<br><br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history.|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>About the Lim Shao Bin Collection</b><br><br>
+The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.[^6]<br><br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.[^7]<br><br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – *Harada’s Guide* (1919) and *Shingapōru Gaiyō* (1923).<br><br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history.</div>
 
 #### **Early Japanese Community** 
 
@@ -153,9 +153,9 @@ Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima T
 
 <br>
 
-|<img src="/images/Vol-16-issue-1/Postcards/Lim_Shao_Bin_mockup.png" style="width: 200px; height: 200px;">|
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><img src="/images/Vol-16-issue-1/Postcards/Lim_Shao_Bin_mockup.png" style="width: 200px; height: 200px;">
 
-|<b><i>Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community</i></b>, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382)). It also retails at major bookshops in Singapore.|
+<b><i>Postcard Impressions of Early 20th-century Singapore: Perspectives from the Japanese Community</i></b>, researched and written by Regina Hong, Ling Xi Min and Professor Naoko Shimazu, is co-published by the National Library, Singapore, and Marshall Cavendish International (Asia). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries ([Call nos.: RSING 959.57 HON-[HIS] and SING 959.57 HON-[HIS]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204353382)). It also retails at major bookshops in Singapore.</div>
 
 
 <div style="background-color: white;">
