@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 4/Salvation Army/Hero_img_SalvationArmy2b.jpg
   - infopic:
+      title: "A Cool Business: The History of Ice-Making in Singapore"
+      subtitle: History
+      id: infopic
+      description: Ice has been an indispensable commodity in tropical Singapore since
+        the late 19th century.
+      button: ICY ENDEAVOURS
+      alt: Image alt text
+      url: /vol-20/issue-2/jul-sep-2024/history-ice-making-singapore/
+      image: /images/Vol 20 Issue 1/Ice Making/image6.jpg
+  - infopic:
       title: Saving Singapore’s Film Heritage
       subtitle: podcast
       id: infopic
