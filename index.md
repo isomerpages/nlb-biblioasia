@@ -870,10 +870,13 @@ sections:
       image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: "A Cool Business: The History of Ice-Making in Singapore"
+      subtitle: History
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Ice has been an indispensable commodity in tropical Singapore since
+        the late 19th century.
+      button: ICY ENDEAVOURS
       alt: Image alt text
+      url: /vol-20/issue-2/jul-sep-2024/history-ice-making-singapore/
+      image: /images/Vol 20 Issue 1/Ice Making/image6.jpg
 ---
