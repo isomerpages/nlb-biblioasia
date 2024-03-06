@@ -25,7 +25,7 @@ sections:
       button: ICY ENDEAVOURS
       alt: Image alt text
       url: /vol-20/issue-2/jul-sep-2024/history-ice-making-singapore/
-      image: /images/Vol 20 Issue 1/Ice Making/image6.jpg
+      image: /images/Vol 20 Issue 2/IceMaking/image6.jpg
   - infopic:
       title: Saving Singapore’s Film Heritage
       subtitle: podcast
