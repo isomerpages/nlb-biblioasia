@@ -115,7 +115,11 @@ This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo
 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>ABOUT THE LIM SHAO BIN COLLECTION</b><br><br>
-The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.[^6]<br><br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.[^7]<br><br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – *Harada’s Guide* (1919) and *Shingapōru Gaiyō* (1923).<br><br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history.</div>
+The postcards in the book are from a collection donated by researcher and collector Lim Shao Bin to the National Library Board.<br><br>Lim began collecting Japanese historical materials on Singapore and Southeast Asia when he was living in Japan in the 1980s. Between 2016 and 2020, he donated more than 1,500 items to the National Library Board, which had been painstakingly amassed over a 30-year period.<br><br>The collection represents a rich resource for the study of the pre-war Japanese community in Singapore as well as Japan’s military expansion and subsequent occupation of Southeast Asia during World War II. It comprises maps, newspapers, postcards, books, periodicals, primary documents and ephemera dating from the 1860s to the 2000s. Notable items include Japanese wartime maps and some of the earliest locally published Japanese guides on Singapore – *Harada’s Guide* (1919) and *Shingapōru Gaiyō* (1923).<br><br>Lim donated these rare materials to encourage research and scholarship into an important period of Singapore’s multifaceted history.<br><br>
+	<b>REFERENCES</b><br><br>
+For more information on the collection, see Lee, G. (2018, Jul–Sep). <a href="http://www.nlb.gov.sg/biblioasia/2018/07/11/japan-in-southeast-asia-the-lim-shao-bin-collection/">Japan in Southeast Asia: The Lim Shao Bin Collection</a>. <i>BiblioAsia, 14 (2).</i> (Retrieved  from BiblioAsia website)<br><br>
+	Lim Shao Bin is the editor of <i>Images of Singapore from the Japanese Perspective (1868–1941)</i>, which contains over 1,000 images from postcards, maps and photo albums that trace shifting Japanese perspectives of Singapore. See Lim, T.W. &amp; Lim, S.B. (2004). <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12410034">Images of Singapore from the Japanese perspective (1868–1941)</a></i>. Singapore: The Japanese Cultural Society. (Call no.: RSING 959.57 IMA-[HIS])
+</div>
 
 #### **Early Japanese Community** 
 
@@ -133,7 +137,7 @@ This undated postcard features a Japanese woman, likely a <i>karayuki-san</i>, i
 
 </div>
 
-Some postcards featured the <i>karayuki-san</i> posing provocatively in their kimonos, which reinforced the image of Singapore “as a centre of romanticism, exoticism, and easy sex”.[^8] Regardless whether the women were indeed *karayuki-san* or whether they were even living in Singapore, the fact that these postcards were bought and used suggests that the women formed part of the impressions that early travellers held of Singapore. 
+Some postcards featured the <i>karayuki-san</i> posing provocatively in their kimonos, which reinforced the image of Singapore “as a centre of romanticism, exoticism, and easy sex”.[^6] Regardless whether the women were indeed *karayuki-san* or whether they were even living in Singapore, the fact that these postcards were bought and used suggests that the women formed part of the impressions that early travellers held of Singapore. 
 
 As not much has been written about the pre-war Japanese community in Singapore, these postcards provide insights into the lives of these migrants and their social networks, and also offer new perspectives of Singapore society in the early 20th century.
 
@@ -171,8 +175,4 @@ Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima T
 
 [^5]: Nishihara, 2017, p. 88.
 
-[^6]: For more information on the collection, see Lee, G. (2018, Jul–Sep). [Japan in Southeast Asia: The Lim Shao Bin Collection](http://www.nlb.gov.sg/biblioasia/2018/07/11/japan-in-southeast-asia-the-lim-shao-bin-collection/). *BiblioAsia, 14 (2).* Retrieved  from BiblioAsia website.
-
-[^7]: Lim Shao Bin is the editor of *Images of Singapore from the Japanese Perspective (1868–1941)*, which contains over 1,000 images from postcards, maps and photo albums that trace shifting Japanese perspectives of Singapore. See Lim, T.W. &amp; Lim, S.B. (2004). *[Images of Singapore from the Japanese perspective (1868–1941)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12410034)*. Singapore: The Japanese Cultural Society. (Call no.: RSING 959.57 IMA-[HIS])
-
-[^8]: Warren, J. (1993). *[Ah ku and karayuki-san: Prostitution in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (p. 252). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
+[^6]: Warren, J. (1993). *[Ah ku and karayuki-san: Prostitution in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (p. 252). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
