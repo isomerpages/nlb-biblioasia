@@ -111,7 +111,7 @@ The photo featured on this undated postcard is part of a series of four photogra
 <br>
 <img src="/images/Vol-16-issue-1/Postcards/SBG.png">
 
-This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo. The brief message on the front of the postcard says that the sender is writing from “far away” and that the picture is of Singapore. Postmarked 15 March 1906 (Singapore); 19 March 1906 (Hong Kong); 24 March 1906 (Tokyo). <i>Accession no.: B32440324K_0011.</i>
+This postcard featuring the Botanic Gardens was addressed to T. Matsuki in Tokyo. The brief message on the front of the postcard says that the sender is writing from “far away” and that the picture is of Singapore. Postmarked 15 March 1906 (Singapore); 19 March 1906 (Hong Kong); 24 March 1906 (Tokyo). <i>Accession no.: B32440324K_0011.</i></div>
 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>About the Lim Shao Bin Collection</b><br><br>
@@ -168,4 +168,4 @@ Featuring the Nihonbashi Broadway in Tokyo, this postcard was sent by Fukujima T
 [^5]: Nishihara, 2017, p. 88.
 [^6]: For more information on the collection, see Lee, G. (2018, Jul–Sep). [Japan in Southeast Asia: The Lim Shao Bin Collection](http://www.nlb.gov.sg/biblioasia/2018/07/11/japan-in-southeast-asia-the-lim-shao-bin-collection/). *BiblioAsia, 14 (2).* Retrieved  from BiblioAsia website.
 [^7]: Lim Shao Bin is the editor of *Images of Singapore from the Japanese Perspective (1868–1941)*, which contains over 1,000 images from postcards, maps and photo albums that trace shifting Japanese perspectives of Singapore. See Lim, T.W. &amp; Lim, S.B. (2004). *[Images of Singapore from the Japanese perspective (1868–1941)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12410034)*. Singapore: The Japanese Cultural Society. (Call no.: RSING 959.57 IMA-[HIS])
-[^8]: Warren, J. (1993). *[Ah ku and karayuki-san: Prostitution in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (p. 252). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)</div>
+[^8]: Warren, J. (1993). *[Ah ku and karayuki-san: Prostitution in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062)* (p. 252). Singapore: NUS Press. (Call no.: RSING 306.74095957 WAR)
