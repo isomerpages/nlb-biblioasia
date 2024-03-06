@@ -9,7 +9,7 @@ image: /images/Vol 20 Issue 1/Ice Making/image0.jpg
 #### Ice has been an indispensable commodity in tropical Singapore since the late 19th century.  
 By Goh Lee Kim
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/image0.jpg)
+![](/images/Vol%2020%20Issue%202/IceMaking/image0.jpg)
 <div style="background-color: white;">Whampoa’s Ice House in Boat Quay, 1958. <i>National Library, Singapore.</i></div>
 
 There’s nothing like downing an ice-cold drink on a scorching hot day. And in Singapore, hot days are aplenty. But the option to grab a cold drink wasn’t always readily available. Before mechanical ice-making was invented, ice had to be imported into Singapore. Blocks of ice were cut out from frozen lakes and rivers and shipped in, a journey that would take many months. Of course, by the time the cargo arrived, up to half of the ice would have melted despite the thick sawdust insulation.
@@ -27,19 +27,19 @@ Fortunately, for Singapore residents, 1861 was also the year that Singapore Ice 
 
 “The public must now decide whether it will support an establishment which will ensure a permanent supply of ice [Singapore Ice Works], or give the preference to a person who offers no guarantee that he will keep up a more regular import [Tudor] than has hitherto been the case,” wrote the <i>Singapore Free Press and Mercantile Advertiser</i> in December 1861. By 1865, Tudor had closed after the government enforced the sale of Ice House to Singapore Ice Works over the former’s supply disruptions.[^6] (The building once occupied by Ice House continued to stand in Boat Quay until it was demolished in 1981 for the widening of River Valley Road; a replica in Clarke Quay is still around today.[^7])
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/imageadd2.jpg)
+![](/images/Vol%2020%20Issue%202/IceMaking/imageadd2.jpg)
 <div style="background-color: white;">A replica of Whampoa’s Ice House in Clarke Quay, 2024. <i>Photo by Goh Lee Kim.</i></div>
 
 #### **A Necessary Commodity**
 
 Other companies began to enter the market, increasing the overall supply of ice to the island. Singapore Ice Works thrived as the main ice factory until February 1881 when Straits Ice Company, owned by Howarth, Erskine &amp; Co., began operations.[^8]
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/image1.jpg)
+![](/images/Vol%2020%20Issue%202/IceMaking/image1.jpg)
 <div style="background-color: white;">Straits Ice Company, 1900s.  It began operations in February 1881. <i>Courtesy of National Archives of Singapore.</i></div>
 
 The resulting price war ended with the sale of Singapore Ice Works in June 1882 to Howarth, Erskine &amp; Co., which amalgamated both companies and appointed Katz Brothers as its agent, selling a pound of ice at one-and-a-half cents.[^9] The Singapore Distilled Water Ice Company (later renamed New Singapore Ice Works) subsequently opened in March 1890.[^10] The factory used to be at Sungei Road until it relocated in 1984. Thanks to the factory, the area became known as <i>Gek Sng Kio</i> (结霜桥, meaning “Frosted Bridge” in Hokkien).[^11]
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/image2.jpg)
+![](/images/Vol%2020%20Issue%202/IceMaking/image2.jpg)
 <div style="background-color: white;">New Singapore Ice Works on Sungei Road, 1982. The site of this factory at Sungei Road from 1890 until its relocation in 1984 gave the area its colloquial name of <i>Gek Sng Kio</i> (结霜桥, meaning “Frosted Bridge”). <i>Lee Kip Lin Collection, National Library, Singapore.</i></div>
 
 By the 1890s, ice was seen as a necessity. An article in the <i>Straits Budget</i> in January 1897 waxed lyrical about ice. “Where should we be without it! We might, at a pinch, do without many things. Whiskey, for instance, might go, though heaven forfend; we could even abolish the harmless necessary soda; but ice we cannot do without. Ice is like the dew from heaven; it blesses all alike. It cools parched palates and heated brows; it is a boon either in the sick chamber or the banquetting hall.”[^12]
@@ -55,20 +55,20 @@ Usage of ice for domestic and commercial purposes also grew in tandem. Ice was s
 
 Domestically, ice was used to keep food fresh or chilled before refrigerators arrived in Singapore in the 1930s.[^18] Affluent families would store perishable foods and dairy products in insulated ice chests, which were kept cold with regular replenishments of ice.[^19] “The box would be made of wood,” recounted Aloysius Leo De Conceicao, a former bank officer and funeral minister. “But inside the box it was lined with a zinc or aluminium piece so that you could take out the ice and wash it and put back the ice… And then you put whatever you wanted, you wanted to chill your drinks or you wanted to keep a little things frozen or your leftover foods, you could keep it there.”[^20]
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/image3.jpg)
+![](/images/Vol%2020%20Issue%202/IceMaking/image3.jpg)
 <div style="background-color: white;">Advertisement for an ice chest. Before refrigerators were common, households kept food in ice chests to make them last longer. These ice chests were typically made of wood and included a top shelf where ice was stored to chill the food below. <i>Image reproduced from the Straits Times, 19 September 1906, 3. (From NewspaperSG).</i></div>
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/image4.jpg)
+![](/images/Vol%2020%20Issue%202/IceMaking/image4.jpg)
 <div style="background-color: white;">An ice bucket in a Peranakan home, early 20th century. Before refrigerators, households used buckets like this to store ice. <i>Courtesy of Peranakan Museum.</i></div>
 
 As factories traditionally sold ice in large blocks, consumers who required smaller amounts turned to ice sellers, who would purchase ice blocks from the factories and resell them in smaller pieces. The work was arduous as ice sellers had to manually haul heavy blocks of ice each day using sharp hooks and cut them into smaller pieces before delivering the ice to buyers using trucks, carts and even bicycles. 
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/imageadd1.jpg)
+![](/images/Vol%2020%20Issue%202/IceMaking/imageadd1.jpg)
 <div style="background-color: white;">An ice seller cutting large ice blocks into smaller pieces with an iron saw, 1992. <i>Liesel Strauss Collection, National Library, Singapore.</i></div>
 
 There were many of such small-time ice sellers in the 1950s and 1960s, but the numbers had dwindled by the 1980s. “There used to be three of us selling ice all within sight of one another. But that was in the fifties and sixties when Bukit Timah Road at the seventh mile was packed with drink carts,” ice seller Lim Lian Heng, 71, told the <i>New Nation</i> in 1980. “It’s [now] almost impossible for anyone to want to do such work. How many young men want to lug 70 katis of freezing ice with their bare arms 30 to 40 times a day?”[^21]
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/image5.jpg)
+![](/images/Vol%2020%20Issue%202/IceMaking/image5.jpg)
 <div style="background-color: white;">An Indian ice seller, 1900s. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 Ice manufacturing was a very competitive business though. Even before Cold Storage opened its plant in 1916, there were already five ice factories in Singapore: Straits Ice Company (arguably the largest factory then), New Singapore Ice Works, Kallang Ice Works, Singapore Ice Factory and Chan Ngo Bee Ice Factory.[^22] By the 1920s, the industry had consolidated into three main players: New Singapore Ice Works, Cold Storage and Atlas Ice Company of Malacca, which opened in 1925.[^23]
@@ -85,7 +85,7 @@ Ice was such an integral component of the fishing industry that when local ice f
 
 In a joint letter issued by the Singapore Fish Merchants’ Association and Singapore Wholesale Merchants’ Association, they wrote that “we have now decided that it will no longer be possible to bring into Singapore second and third grade fish, for fear of incurring financial losses”. The ice manufacturers backed down, at least, at that point.[^30] Over time though, the price of ice continued to climb – reaching $34.20 per ton in June 1979 – impacting the cost of fish for residents.[^31]
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/image6.jpg)
+![](/images/Vol%2020%20Issue%202/IceMaking/image6.jpg)
 <div style="background-color: white;">Workers loading large ice blocks, meant for fishing companies, onto a lorry using sharp hooks, 1960s. The ice helped to keep catches fresh while out at sea <i>Primary Production Department Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **A Cool Business**
@@ -94,7 +94,7 @@ Meanwhile, more ice factories came and went in the second half of the 20th centu
 
 In addition to these large companies, there were also others. One well-known ice supplier is Tuck Lee Ice, which has been in operation here since 1924. Originally owned by Kwok Ku Loong,[^33] it was sold to Hauw Kiat in 1957, an immigrant from China who moved to Indonesia and later Singapore. Hauw’s descendants took over the business after his death in 1961 and successfully modernised ice-making by introducing food-grade ice hygienically made by machines. They also sold ice in smaller cubes that were more convenient compared to the conventional larger blocks of ice typically sold by other ice manufacturers. The company has since ventured into providing ice sculptures for events, beverage distribution, and transport and logistics services for temperature-sensitive items. The Hauw family still owns and manages the company to this day.[^34]
 
-![](/images/Vol%2020%20Issue%201/Ice%20Making/image7.jpg)
+![](/images/Vol%2020%20Issue%202/IceMaking/image7.jpg)
 <div style="background-color: white;">Pushing a cart loaded with ice blocks near Ellenborough Market, 1980. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore</i></div>
 
 Another supplier that has rejuvenated the ice industry and continues to thrive in Singapore today is Jurong Marine Cold Storage (JM Ice), established in 1971. In 2015, the company moved away from the industry’s traditional reliance on tough physical labour by investing in robotic automation in its packaging process. “We were facing a big headache as no one wanted to work as an ice-packer,” said Eric Lee, one of the company’s two executive directors. With the robotic arms, its workers were redeployed to other jobs.[^35]
