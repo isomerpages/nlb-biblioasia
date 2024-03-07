@@ -7,13 +7,14 @@ description: Three large murals used to grace the walls of Paya Lebar Airport,
   fate of her father’s mural.
 image: /images/Podcast/ep 3 (murals by dahlia) teaser.jpg
 third_nav_title: Paya Lebar's Lost Murals
+variant: markdown
 ---
 Three large murals used to grace the walls of Paya Lebar Airport, depicting scenes from Singapore and Malaysia. Librarian Dahlia Shamsuddin, the daughter of one of the artists involved, recounts her efforts to uncover the fate of her father’s mural.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vcouoiLZi8A?si=XDMJZhQArSOejEeZ" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/episode/7Gpzkdqb8ILfsRCTXYsQaj), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-forgotten-murals-of-paya-lebar-airport/id1688142751?i=1000617459856), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NGFlZWM5ODYtZWE5Mi00NWIzLTk5MjEtNmQ1MzcwZjg2MDZi?sa=X&amp;ved=0CAcQkfYCahcKEwjQ656Prc__AhUAAAAAHQAAAAAQDA) and [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Forgotten-Murals-of-Paya-Lebar-Airport-2115236).
+Available on: [Spotify](https://open.spotify.com/episode/7Gpzkdqb8ILfsRCTXYsQaj), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-forgotten-murals-of-paya-lebar-airport/id1688142751?i=1000617459856), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NGFlZWM5ODYtZWE5Mi00NWIzLTk5MjEtNmQ1MzcwZjg2MDZi?sa=X&amp;ved=0CAcQkfYCahcKEwjQ656Prc__AhUAAAAAHQAAAAAQDA), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Forgotten-Murals-of-Paya-Lebar-Airport-2115236).
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
