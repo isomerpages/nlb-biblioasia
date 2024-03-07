@@ -21,6 +21,6 @@ are accustomed to is always a tall order. At the same time, they also had
 to address the public’s belief that the substitutes were not as good or
 delicious.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Presentation4.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Presentation4.jpg">
 </div>
 <p></p>
