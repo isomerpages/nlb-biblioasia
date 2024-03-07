@@ -15,9 +15,9 @@ he created the three-book graphic novel series,&nbsp;<em><a href="https://dkdgra
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on <a href="https://open.spotify.com/episode/7ytNibGncmYyTYbVJ5QiHw" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
-<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u>
+<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u> 
 </a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/YmRiMDAxYmUtYjIzOC00YzZmLTlkZjItNzJmMDIyYjY5NzNj?sa=X&amp;ved=0CAUQkfYCahcKEwjwpLrFkYyEAxUAAAAAHQAAAAAQCg" rel="noopener noreferrer nofollow" target="_blank"><u>Google Podcasts</u></a>,
-<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Lost-Gold-Coins-of-the-Old-Singapore-Library-2304471" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u>
+<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Lost-Gold-Coins-of-the-Old-Singapore-Library-2304471" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u> 
 </a>.</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
@@ -33,8 +33,9 @@ he created the three-book graphic novel series,&nbsp;The Once &amp; Marvellous
 DKD.&nbsp;</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p>Foo Shu Tieng, "<a href="https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins/" rel="noopener noreferrer nofollow" target="_blank"><u>Revisiting the Mystery of the Missing Gold Coins</u></a>," <em>BiblioAsia</em> 19,
-no. 3 (2023).</p>
+<p>Charles H. Waterhouse, Vietnam Sketchbook. Drawings from Delta to DMZ
+(Rutland, Vt., C. E.: Tuttle Co.).</p>
+<p></p>
 <p>Louise Tythacott and Panggah Ardiyansyah, eds., <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=204463768" rel="noopener noreferrer nofollow" target="_blank"><u>Returning Southeast Asia's Past: Objects, Museums, and Restitution</u></a></em> (Singapore:
 NUS Press, 2021)</p>
 <p></p>
