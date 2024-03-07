@@ -20,36 +20,36 @@ get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>Season 2</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/singapore-bands-wartime-vietnam/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Bands in Wartime Vietnam" src="/images/Podcast/boonlai_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Bands in Wartime Vietnam</div><div class="isomer-card-description">In the 1960s and ’70s, lured by adventure and money, Singaporean musicians went to South Vietnam to perform for American troops during the war. They were met with cheers, bullets and assault.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artist Yip Yew Chong Paints His Story in History" src="/images/Podcast/Yew_Chong_600_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Saving Singapore's Film Heritage" src="/images/Podcast/teepao.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Artist Yip Yew Chong Paints His Story in History</div>
-<div class="isomer-card-description">Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore” comprises 27
-scenes of 1970s–1980s Singapore, merging history, memory and nostalgia.
-Yew Chong explains how he created this work and reveals what he would love
-to paint but has not.</div>
+<div class="isomer-card-title">Saving Singapore's Film Heritage</div>
+<div class="isomer-card-description">Thanks to restoration, classic films like The Teenage Textbook Movie (1998)
+can still be shown on a big screen 20 years after its cinema run. On a
+mission to preserve Singapore's film heritage, film archivist Chew Tee
+Pao saves important movies and gives them a second life.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Saving Singapore's Film Heritage" src="/images/Podcast/teepao.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Saving Singapore's Film Heritage</div><div class="isomer-card-description">Thanks to restoration, classic films like The Teenage Textbook Movie (1998) can still be shown on a big screen 20 years after its cinema run. On a mission to preserve Singapore's film heritage, film archivist Chew Tee Pao saves important movies and gives them a second life.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Lost Gold Coins of the Old Singapore Library" src="/images/Podcast/Shu_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Lost Gold Coins of the Old Singapore Library</div><div class="isomer-card-description">In the mid-19th century, two ancient gold coins were found near present-day Keppel Harbour. Unfortunately, the coins vanished before they were studied carefully. Their Jawi inscriptions were recorded, though they didn’t make sense. More than 180 years later, Foo Shu Tieng tries to solve the case.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/german-girl-shrine/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Lost Gold Coins of the Old Singapore Library" src="/images/Podcast/Shu_600_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The True Story Behind Ubin's German Girl Shrine" src="/images/Podcast/william600_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">The Lost Gold Coins of the Old Singapore Library</div>
-<div class="isomer-card-description">In the mid-19th century, two ancient gold coins were found near present-day
-Keppel Harbour. Unfortunately, the coins vanished before they were studied
-carefully. Their Jawi inscriptions were recorded, though they didn’t make
-sense. More than 180 years later, Foo Shu Tieng tries to solve the case.</div>
+<div class="isomer-card-title">The True Story Behind Ubin's German Girl Shrine</div>
+<div class="isomer-card-description">A young German girl met an untimely end on Pulau Ubin in 1914. A shrine
+set up in her honour becomes Internet-famous. Following a deep search into
+the historical records, writer and researcher William Gibson discovers
+some inconvenient truths behind one of Singapore’s best-known shrines.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/german-girl-shrine/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The True Story Behind Ubin's German Girl Shrine" src="/images/Podcast/william600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The True Story Behind Ubin's German Girl Shrine</div><div class="isomer-card-description">A young German girl met an untimely end on Pulau Ubin in 1914. A shrine set up in her honour becomes Internet-famous. Following a deep search into the historical records, writer and researcher William Gibson discovers some inconvenient truths behind one of Singapore’s best-known shrines.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Artist Yip Yew Chong Paints His Story in History" src="/images/Podcast/Yew_Chong_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Artist Yip Yew Chong Paints His Story in History</div><div class="isomer-card-description">Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore” comprises 27 scenes of 1970s–1980s Singapore, merging history, memory and nostalgia. Yew Chong explains how he created this work and reveals what he would love to paint but has not.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 </div>
 <p></p>
 <h4><strong>Season 1</strong></h4>
