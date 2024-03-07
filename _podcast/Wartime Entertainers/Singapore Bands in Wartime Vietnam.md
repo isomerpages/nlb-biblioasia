@@ -8,10 +8,9 @@ third_nav_title: Wartime Entertainers
 <p>In the 1960s and ’70s, lured by adventure and money, Singaporean musicians
 went to South Vietnam to perform for American troops during the war. They
 were met with cheers, bullets and assault.</p>
-<p></p>
-<p>Boon Lai&nbsp;is an author, an illustrator and a filmmaker based in Singapore.
-Inspired by the true accounts of the rockers who toured the Vietnam War,
-he created the three-book graphic novel series,&nbsp;<em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204463645" rel="noopener noreferrer" target="_blank"><u>The Once &amp; Marvellous DKD</u></a>.</em>&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2Pu0xVFXlN8?si=oWR3QCjIS_Fw9O8p"></iframe>
+</div>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on <a href="https://open.spotify.com/episode/2y8wl7lKlIl5p2T51PVPML" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
@@ -42,7 +41,7 @@ during the 1960s and ’70s
 <h4><strong>About the Guest</strong></h4>
 <p>Boon Lai&nbsp;is an author, an illustrator and a filmmaker based in Singapore.
 Inspired by the true accounts of the rockers who toured the Vietnam War,
-he created the three-book graphic novel series,&nbsp;<em>The Once &amp; Marvellous DKD</em>.&nbsp;</p>
+he created the three-book graphic novel series,&nbsp;<em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204463645" rel="noopener noreferrer" target="_blank"><u>The Once &amp; Marvellous DKD</u></a>.</em>&nbsp;</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
 <p>Boon Lai, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/" rel="noopener noreferrer nofollow" target="_blank">American Troops. Singapore Bands. The Vietnam War</a>,"
