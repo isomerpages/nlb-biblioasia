@@ -611,7 +611,8 @@ here and good luck on the fourth book!</p>
 <p><strong>Boon Lai</strong> 
 <br>The second trilogy. Thanks very much.</p>
 <p></p>
-<p></p>
-<p></p>
-<hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SP(1]</a>Ok to add?</p>
+<p><strong>Jimmy</strong>
+<br>If you’ve enjoyed this episode,&nbsp;<a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>subscribe to the podcast</u></a>&nbsp;and
+the&nbsp;<em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank"><u>BiblioAsia</u></a></em>&nbsp;
+<a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank"><u>newsletter</u>
+</a>. Thank you for joining me on BiblioAsia+.</p>
