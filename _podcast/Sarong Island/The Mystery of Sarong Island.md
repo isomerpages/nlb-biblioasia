@@ -5,13 +5,14 @@ description: Librarian Lim Tin Seng rediscovers Singapore’s first island resor
   getaway and solves various mysterious surrounding it, including where Sarong
   Island is now.
 third_nav_title: Sarong Island
+variant: markdown
 ---
 Librarian Lim Tin Seng rediscovers Singapore’s first island resort getaway and solves various mysteries surrounding it, including where Sarong Island is now.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/M-XFggJcMpI?si=PWNRky7nJ0AZdy_f" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/episode/5hjhacY4GSbiRJ86HKK4Qt), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-mystery-of-sarong-island/id1688142751?i=1000621411676), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NmU0NWM4OGYtMDZjOS00MjFmLThiZDktMDk0MTI1NWE0YjQ1?sa=X&amp;ved=0CAUQkfYCahcKEwi4-au865aAAxUAAAAAHQAAAAAQAQ) and [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Mystery-of-Sarong-Island-2115246).
+Available on: [Spotify](https://open.spotify.com/episode/5hjhacY4GSbiRJ86HKK4Qt), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-mystery-of-sarong-island/id1688142751?i=1000621411676), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NmU0NWM4OGYtMDZjOS00MjFmLThiZDktMDk0MTI1NWE0YjQ1?sa=X&amp;ved=0CAUQkfYCahcKEwi4-au865aAAxUAAAAAHQAAAAAQAQ), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Mystery-of-Sarong-Island-2115246).
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
