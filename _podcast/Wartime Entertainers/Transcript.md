@@ -12,12 +12,12 @@ South Vietnam to perform for American troops. In addition to stars though,
 a bunch of musicians from Singapore were also roped in. Why did local musicians
 choose to perform in South Vietnam in a war zone, and what was the experience
 like? I’m Jimmy Yap, and with me to talk about these musicians during the
-Vietnam War, is Boon Lai.</p>
+Vietnam War is Boon Lai.</p>
 <p></p>
 <p>He's a co-author and illustrator of the graphic novel trilogy, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204463645" rel="noopener noreferrer nofollow" target="_blank">The Once &amp; Marvelous DKD</a></em>,
 which is based on these local bands. In addition, he’s also written about
-<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/" rel="noopener noreferrer nofollow" target="_blank">these bands in</a><em><a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia</a></em>.
-Welcome to BiblioAsia+ Boon Lai. How are you?</p>
+these bands in <em><a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia</a></em>.
+Welcome to BiblioAsia+, Boon Lai. How are you?</p>
 <p></p>
 <p><strong>Boon Lai</strong> 
 <br>I’m good. Thanks for having me.</p>
@@ -611,7 +611,8 @@ here and good luck on the fourth book!</p>
 <p><strong>Boon Lai</strong> 
 <br>The second trilogy. Thanks very much.</p>
 <p></p>
-<p></p>
-<p></p>
-<hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SP(1]</a>Ok to add?</p>
+<p><strong>Jimmy</strong>
+<br>If you’ve enjoyed this episode,&nbsp;<a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>subscribe to the podcast</u></a>&nbsp;and
+the&nbsp;<em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank"><u>BiblioAsia</u></a></em>&nbsp;
+<a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank"><u>newsletter</u>
+</a>. Thank you for joining me on BiblioAsia+.</p>
