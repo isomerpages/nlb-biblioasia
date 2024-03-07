@@ -127,6 +127,11 @@ a set of curated digitised footage extracted from the raw footage of the
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>In 2023, David Lim donated 140 items to the National Library Board, comprising
 mostly raw footage of the first Singapore Mount Everest expedition, the
 Singapore Latin-America expedition and various other climbs. He also donated
