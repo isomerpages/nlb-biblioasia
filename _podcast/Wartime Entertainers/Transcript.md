@@ -77,44 +77,44 @@ screenplay anyway.</p>
 <br>Yeah. Yeah. So, what happened was right after that, I started my three
 years of research.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Wow. Did Joseph give you the names of the people who went to Vietnam?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>He mentioned quite a number. Veronica Young, definitely. And then Impian
 Bateks and then Steve Bala and the Esquires and others like Robert Suriya
 and Cedric and even Shirley Naya.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Wow, some big names, eh?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Yeah, big names in the Singapore scene, actually, at that point of time.
 Yeah. So, I got the names, I went into Facebook and start looking…</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Stalking all these guys.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Stalking, sending them messages. And eventually the ones who responded
 were the three of them. Right. I think the rest did not get the message
 or you know, they probably thought I was a stalker. Yeah. So that’s how
 I got in touch with Veronica, Harris and Steve Bala.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>When did these musicians go to Vietnam? In the late sixties, was it?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>So, the ones that we’re talking about like Veronica, Steve, they went
 up late 1960s. Now late 1960s in Vietnam at that point of time. You can
 imagine the fighting at that point of time was pretty fierce. So it was
 getting quite intense. And by some accounts, the Americans even had up
 to 500,000 troops.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>It’s not a small number.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>From my research, what I found was that there were many little bases formed
 along the coast, right from Saigon, all the way up to the DMZ [demilitarized
 zone]. Each base was technically a little city on its own. Built with American
@@ -126,13 +126,13 @@ warfare, so there was no way you could tell [who they were] – they would
 come in plain clothes. They looked like everyone else you could identify.
 This is enemy. This is friend. So it was kind of an edgy situation.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>American troops were fighting and, of course, you know, dying. But entertainers
 were actually sent to these camps to entertain the troops. Right. So, I’m
 guessing, you know, did they get rotated and have a bit of R&amp;R in-country?
 Is that what happened?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Well, I think the US military thought that “Okay, well, it’s a very stressful
 situation”, right? I mean, you have soldiers who have been drafted at a
 very young age, right? Coming in from, you know, some rural parts of America,
@@ -144,23 +144,23 @@ Back then, you know, it was still the early days of television. You didn’t
 have iPhones. The only thing you had was basically radio and records. So,
 music had been a very big part of their lives.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Hence, like, Good Morning Vietnam.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Exactly. So, a lot of audio back then, you know, not as much visual yet.
 They had their entertainment on a regular basis, almost nightly basis,
 whenever they could get it.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Right.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>What you had were our performers who were assigned to travel up from,
 you know, from Saigon. And then they’d hit each individual base as they
 went up. And they would be performing for the soldiers.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So you mentioned in your <em>BiblioAsia</em> article that there were a number
 of local musicians that went up to Vietnam specifically, Veronica Young,
 Impian Bateks and Steve Bala Siren, right? And you know, these were young
@@ -168,7 +168,7 @@ musicians who decided to go up and do gigs in South Vietnam. It was in
 the middle of a war zone. Why did these people decide to do something that
 sounds, on hindsight, pretty dangerous?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Well, I think we have to remember they were really young, in their early
 twenties. So, if you think about the Singapore sixties music scene, people
 like Veronica Young and Impian Bateks, that was during the golden age of
@@ -186,10 +186,10 @@ about not small amounts of money. They were going to be paid in US dollars
 and in quantums of what, at least three to four times of what they were
 earning in Singapore.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Wow. Okay. That’s a significant incentive.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Money was a very big motivation, right? They had to consider their own
 futures, their families, they had to support family as well. But I think
 there was also a tinge of, “hey, this is something new”, right? This is
@@ -201,11 +201,11 @@ having said that, not every band accepted the offers. There were those
 who basically turned the offers down, because, you know, they thought it
 was too dangerous, or the family or the parents did not allow them to go.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>These trips to South Vietnam – they were arranged by, you said, recruitment
 agents?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Yeah, they were arranged by recruitment agents, so, okay, I’ll go into
 the technicality a little bit because I think it’s worth understanding
 the bigger picture. We know now that show business and the business of
@@ -217,10 +217,10 @@ one of the ways entertainers were brought in was the official way: they
 would go through the USO, the United Services Organization, which kind
 of supports the US military needs, right?</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Entertainment needs.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Entertainment, and everything else, whatever, any kind of, noncombat related.
 USO would bring in big names back then, like Bob Hope, Nancy Sinatra, for
 instance, James Brown. And of course, being big names, they were pretty
@@ -252,19 +252,19 @@ or the entertainers and say, “Okay, would you want to come up to South
 Vietnam? I think you’re a good match. You know, the G.I.s are going to
 love you because of the kind of songs that you were performing.”</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So, selling them a bit.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Selling them that, you know, selling that sizzle. And then if they sensed
 that, okay if they were a little bit worried about certain things, “Okay,
 fine, we’ll throw a $500,000 insurance in case you are killed or you get,
 you know, maimed or anything like that.” So, they had ways to try to recruit…</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Musicians.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Musicians. So as soon as the musicians decided to join in, they would
 get themselves packed up, flown from Paya Lebar airport&nbsp;all the way
 up to Tân Sơn Nhất, in Saigon back then. As soon as they landed, they would
@@ -278,41 +278,41 @@ as well. For instance, Steve and Esquires, they even had to audition before
 a committee of staff sergeants. The staff sergeants were determining their
 rate, how much they could actually command for each performance.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What was the rate like?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>The really good ones – just so happen to be Filipinos – were getting something,
 if I’m not mistaken, like US$800–US$1,000 per show.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Wow. Significant amount of money.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Significant. Very significant. Then they’d just wait for the day when
 they [would] get called up and sent out. Yeah.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So, the Filipinos were getting like 800 bucks a show. How much were the
 Singaporeans getting?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Singaporeans... let me, let me try to recall the number.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Not as much as $800.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Not as much. They were getting like $400, maybe eight. Okay, sometimes.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>But still, you know, you multiply that by the total number of shows that
 you do. Yeah, you know, it’s a significant amount of money. Just give us
 a bit of an idea, you know, what kind of situations these musicians faced.
 I mean, they weren’t out in the field playing music, while a battle was
 raging, for example, right? It’s not what happened.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>I recall once where Veronica told me about a nightly curfew, right? So
 definitely because Saigon at that point of time was being besieged, technically,
 they had a nightly curfew. So there an occasion when, you know, she needed
@@ -329,23 +329,23 @@ as safe as Saigon. Yeah. Things could have exploded at any point of time.</p>
 performing in pubs and clubs and on stage. And suddenly somebody would
 hurl a grenade at the band – and that’s it.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Oh wow.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>You know, many, many there were many reports of that happening.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>They really didn’t like the music or...? This was the Vietcong attack.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>It’s basically anything can happen at any point of time, right, even before
 they left Saigon. As soon as they left Saigon, things got even more…</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Hairy.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>The bands had no clue what their weekly or even their daily schedules
 were going to be like. They did have a manager assigned to them, and the
 manager would go just ahead of them, you know, to different bases, try
@@ -356,10 +356,10 @@ hundreds of places. [What] their daily routine was, they couldn’t say because
 it was so unpredictable. They would be transported to a base. It could
 be an outpost even.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Not necessarily a “base” base, but it could just be an outpost.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>It could be an outpost. Like, for instance, I think, Steve and Esquires,
 they basically got into some pretty rural areas as well. This is very interesting.
 Steve mentioned that they were flown into somewhere in the jungle on a
@@ -375,58 +375,58 @@ to be playing to? Monkeys or what?”</p>
 <p>But as soon as they started tuning their equipment and all of that, within
 10 feet, 15 minutes, soldiers [started coming] out from the jungle.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>They came out in their camos. And helmets and weapons?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Yeah yeah, all covered and all that. They would just come out and for
 that period of time they would just go crazy. They would just let loose
 – a lot of, a lot of beer, a lot of drugs, apparently joints, and the band.
 The band also travelled with strippers, right? Just to spice things up.
 They had strippers as well.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>And, this was dangerous, right? I mean, going to all these outposts was
 not safe.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Definitely not safe. So, all of them mention at one point of time, getting
 shot at.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Yeah, distinctly unsafe.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>And yeah, you know, the Esquires were performing on stage and suddenly
 they heard a <em>zing</em>, like something just zipping past them. And then
 when they looked behind at the backdrop, there was a bullet hole. Somebody
 had actually just taken a pot shot at them.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Oh man. That’s scary.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Yeah. And then even when they’re on the road travelling to their destinations,
 occasionally the driver would shout, “Okay, guys, hit the deck!” And that’s
 it. They had to just sprawl [on the floor] and that’s it. And then bullets
 would tear through the canvases and stuff like that. It was not safe.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Veronica, as a woman, you know, clearly must have had a slightly different
 experience, from Haris Hamzah and Steve Bala. You know, can you give us
 an idea of what that was like?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>In a war situation in that kind of environment, it was pretty dangerous,
 uncomfortable... Now add to the fact that you have a lot of, stressed-up,
 young men far away from home, where social order was breaking down and
 as soon as they see women – it could be singers or even strippers and all
 of that – all the basic instincts are stirred up right?</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Unwanted male attention.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>They got a lot of attention. I mean, they got a lot of attention from
 the soldiers, of course. Veronica mentioned that the soldiers would find
 every opportunity to look at you, to touch you. There were also cases where,
@@ -437,10 +437,10 @@ you know, where the soldiers would try to, you know, pressure the women
 for sex or sexual favours. They would also try to get their way with the
 women.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>But there’s a great story about Veronica defending herself.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>As Veronica mentioned, one night when she was in one of the bases, she
 was at one end of the barracks, cooking noodles and stuff like that for
 dinner, for the band and herself. And as she was preparing, cutting up
