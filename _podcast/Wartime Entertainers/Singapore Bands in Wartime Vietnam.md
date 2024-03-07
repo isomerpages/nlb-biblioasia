@@ -24,8 +24,21 @@ get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Boon Lai Talked About</strong></h4>
 <p>02:01 – How Boon Lai came to know of local musicians who went to Vietnam
-during the 1960s and ’70s</p>
-<p></p>
+during the 1960s and ’70s
+<br>05:33 – When these musicians went to Vietnam
+<br>08:47 – Why these musicians decided to perform in the warzone
+<br>11:30 – How these musicians were recruited
+<br>15:56 – How much they were paid
+<br>16:44 – Nightly curfews
+<br>18:35 – Daily schedules of musicians
+<br>20:50 – Close call with bullets
+<br>21:53 – Musician Veronica Young’s experience as a woman
+<br>24:53 – How long Impian Bateks and other musicians played in Saigon
+<br>27:12 – Boon Lai’s three-year research process
+<br>28:58 –Boon Lai’s DKD sequel
+<br>29:44 – Hardest thing about creating a historical graphic novel
+<br>
+</p>
 <h4><strong>About the Guest</strong></h4>
 <p>Boon Lai&nbsp;is an author, an illustrator and a filmmaker based in Singapore.
 Inspired by the true accounts of the rockers who toured the Vietnam War,
