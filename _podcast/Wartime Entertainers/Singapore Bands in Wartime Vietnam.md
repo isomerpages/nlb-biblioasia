@@ -29,14 +29,17 @@ during the 1960s and ’70s</p>
 <h4><strong>About the Guest</strong></h4>
 <p>Boon Lai&nbsp;is an author, an illustrator and a filmmaker based in Singapore.
 Inspired by the true accounts of the rockers who toured the Vietnam War,
-he created the three-book graphic novel series,&nbsp;The Once &amp; Marvellous
-DKD.&nbsp;</p>
+he created the three-book graphic novel series,&nbsp;<em>The Once &amp; Marvellous DKD</em>.&nbsp;</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
+<p>Boon Lai, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204463645" rel="noopener noreferrer nofollow" target="_blank">The Once &amp; Marvellous DKD</a></em>,
+bks 1–3 (Singapore: Mentalworks, 2019–2020).</p>
 <p>Joseph C. Pereira,<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=14220601" rel="noopener noreferrer nofollow" target="_blank">Apache over Singapore: The Story of Singapore Sixties Music, vol. 1</a></em> (Singapore:
 Select Publishing, 2011).</p>
 <p>Joseph C. Pereira, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=200180088" rel="noopener noreferrer nofollow" target="_blank">Beyond the Tea Dance: The Story of Singapore Sixties Music, vol. 2</a></em> (Singapore:
 Select Publishing, 2014).</p>
+<p>Joseph C. Pereira, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=9606045" rel="noopener noreferrer nofollow" target="_blank">Legends of the Golden Venus</a></em> (Singapore:
+Times Editions, 1999).</p>
 <p>Charles H. Waterhouse, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=706952" rel="noopener noreferrer nofollow" target="_blank">Vietnam Sketchbook. Drawings from Delta to DMZ</a> </em>(Rutland,
 Vermont: Tuttle Co., 1968).</p>
 <p></p>
