@@ -6,6 +6,9 @@ image: /images/Podcast/podcast logo.jpg
 variant: tiptap
 ---
 <h4><strong>About</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="biblioasia+ history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">
+</div>
 <p>BiblioAsia+ is a podcast about Singapore stories: some unfamiliar, others
 forgotten, all fascinating. Does Singapore have a stone age? What’s happened
 to the murals at the old Paya Lebar airport? Who were the local tennis
@@ -14,10 +17,6 @@ greats? Find out in this history-focused podcast. Available on <a href="https://
 <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
 <p><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a> to
 get notified when the next episode drops.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="biblioasia+ history podcast" src="/images/Podcast/ad_banner_biblioasia.jpg">
-</div>
-<p></p>
 <h4><strong>Season 2</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.biblioasia.nlb.gov.sg/podcast/singapore-bands-wartime-vietnam/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Bands in Wartime Vietnam" src="/images/Podcast/boonlai_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Bands in Wartime Vietnam</div><div class="isomer-card-description">In the 1960s and ’70s, lured by adventure and money, Singaporean musicians went to South Vietnam to perform for American troops during the war. They were met with cheers, bullets and assault.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/" class="isomer-card">
