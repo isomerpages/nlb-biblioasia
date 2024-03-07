@@ -78,7 +78,7 @@ the wellbeing of working-class families. This was not a new idea as there
 had been edible gardens in British cities since the late 1700s. Local governments
 rented out small plots of land to urban dwellers who wanted, or needed,
 to grow their own food, rather than buy it. <a href="#_ftn9" rel="noopener noreferrer nofollow" target="_blank">[9]</a> Such allotments proved to be an enduring aspect of
-working-class British culture all the way through the 20th century.<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
+working-class British culture all the way through the 20th century.<a href="#_ftn10" rel="noopener noreferrer nofollow" target="_blank">[10]</a>
 </p>
 <p>From the 1910s, there had been growing international concern that agricultural
 output would not match population growth. The outbreak of the First World
@@ -104,6 +104,8 @@ to be eaten instead of rice”.<a href="#_ftn5" rel="noopener noreferrer nofollo
 <p>Detail of map showing paddy fields, sugar and cotton plantations, and
 vegetable gardens as indicated in <em>Map of the Town and Environs of Singapore from an Actual Survey</em> (1839)
 by G.D. Coleman. <em>Map of the Town and Environs of Singapore from an Actual Survey by G.D. Coleman. Courtesy of National Archives of Singapore.</em> 
+</p>
+<p>
 <br>
 </p>
 <p></p>
@@ -147,7 +149,7 @@ US and Japanese Buildings” <em>Straits Times,</em> 13 December 2017, <a href="
 Flavell, “Urban Allotment Gardens in the Eighteenth Century: The Case of
 Sheffield,” <em>The Agricultural History Review </em>51, no. 1 (2003): 95–106.
 (From JSTOR via NLB’s <a href="http://eresources.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">eResources</a> website)</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> See
+<p><a href="#_ftnref10" rel="noopener noreferrer nofollow" target="_blank">[10]</a> See
 Margaret Wiles, <em>The Gardens of the British Working Class</em> (London:
 Yale University Press, 2014)</p>
 <p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> “Malaya's
