@@ -4,7 +4,7 @@ permalink: /vol-20/issue-2/jul-sep-2024/history-ice-making-singapore/
 variant: markdown
 description: Ice has been an indispensable commodity in tropical Singapore since
   the late 19th century.
-image: /images/Vol 20 Issue 1/Ice Making/image0.jpg
+image: /images/Vol 20 Issue 2/IceMaking/image0.jpg
 ---
 #### Ice has been an indispensable commodity in tropical Singapore since the late 19th century.  
 By Goh Lee Kim
