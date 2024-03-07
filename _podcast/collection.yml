@@ -2,7 +2,6 @@ collections:
   podcast:
     output: true
     order:
-      - Wartime Entertainers.md
       - Film Heritage/.keep
       - Film Heritage/Saving Singapore's Film Heritage.md
       - Film Heritage/Transcript.md
