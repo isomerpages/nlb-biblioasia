@@ -136,7 +136,7 @@ a set of curated digitised footage extracted from the raw footage of the
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Added background colour in Word doc first but still no background colour</p>
 <hr>
 <h3><br>NOTES</h3>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Goh
@@ -189,6 +189,4 @@ map. (From National Archives of Singapore, accession no. SP006292)</p>
 <p><a href="#_ftnref13" rel="noopener noreferrer nofollow" target="_blank">[13]</a> “
 <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19190423-1.2.7" rel="noopener noreferrer nofollow" target="_blank">Shortage of Rice</a>,” <em>Malaya Tribune</em>, 23 April 1919, 4. (From
 NewspaperSG)</p>
-<p>
-<br>
-</p>
+<p></p>
