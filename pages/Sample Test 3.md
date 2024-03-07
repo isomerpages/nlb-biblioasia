@@ -42,13 +42,13 @@ roles in urban wellbeing.</p>
 <p>Richardson’s model city narrative <em>Hygeia</em> (1876) argued that cities
 must have tree-lined boulevards and green spaces and homes should be “surrounded
 with garden space, [to] add not only to the beauty but to the healthiness
-of the city”.<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><u>[1]</u></a> One
+of the city”.<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank"><u>[4]</u></a> One
 of the most influential writers of the late 19th century was Ebenezer Howard,
 whose <em>Garden Cities of Tomorrow</em> (1898, reprinted 1902) birthed the
 concept of the garden city “to raise the standard of health and comfort
 of all true workers of whatever grade – the means by which these objects
 are to be achieved being a healthy, natural, and economic combination of
-town and country life”.<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank"><u>[2]</u></a>
+town and country life”.<a href="#_ftn5" rel="noopener noreferrer nofollow" target="_blank"><u>[5]</u></a>
 </p>
 <p>Such ideas eventually found their way into official circles in Singapore
 through trans-imperial knowledge networks. In the 1910s and 1920s, a series
@@ -57,7 +57,7 @@ and health, and linked ideas of social justice amid the popularity of new
 labour movements to access to green, healthy space and food. These concerns
 intensified at the outbreak of war in 1914, when many people failed to
 pass the basic health requirements to enter military service, probably
-the first time such a mass health screening had taken place.<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank"><u>[3]</u></a>
+the first time such a mass health screening had taken place.<a href="#_ftn6" rel="noopener noreferrer nofollow" target="_blank"><u>[6]</u></a>
 </p>
 <p>While these urban planning movements did not directly address edible gardens,
 some of Singapore’s health institutions did set up kitchen gardens to improve
@@ -65,32 +65,17 @@ patient wellbeing. In 1917, for example, an institution for the mentally
 ill had created a kitchen garden. By 1918, “excellent fresh vegetables
 were available … aggregating 10,534 pounds for the staff and ‘inmates’
 grown by the patients themselves”, reported the<em> Singapore Free Press</em>.
-<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank"><u>[4]</u> 
+<a href="#_ftn7" rel="noopener noreferrer nofollow" target="_blank"><u>[7]</u>
 </a>Edible gardens had been incorporated into Singapore’s hospitals long before
 Khoo Teck Puat Hospital developed its “A garden in a hospital” concept.
-<a href="#_ftn5" rel="noopener noreferrer nofollow" target="_blank"><u>[5]</u>
+<a href="#_ftn8" rel="noopener noreferrer nofollow" target="_blank"><u>[8]</u>
 </a>
 </p>
 <p>
 <br>
 </p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><u>[1]</u></a> Benjamin
-Ward Richardson, <em>Hygeia: A City of Health</em>, (London: Macmillan and
-Co, 1876), 20.</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank"><u>[2]</u></a> Ebenezer
-Howard, <em>Garden Cities of Tomorrow</em>, (London: S. Sonnenschein &amp;
-Co., 1902), 22.</p>
-<h1><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank"><u>[3]</u></a> Robert Freestone and Andrew Wheeler, “Integrating Health into Town Planning: A History,” in <em>The Routledge Handbook of Planning for Health and Well-Being:&nbsp;Shaping a Sustainable and Healthy Future</em>, ed. Hugh Barton, Susan Thompson, Sarah Burgess, Marcus Grant (Oxon and Routledge, 2015), 17–36.</h1>
-<p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank"><u>[4]</u></a> “
-<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19190215-1.2.16" rel="noopener noreferrer nofollow" target="_blank"><u>Vegetable Growing In Singapore</u> 
-</a>,” <em>Singapore Free Press and Mercantile Advertiser,</em> 15 February
-1919, 5. (From NewspaperSG)</p>
-<p><a href="#_ftnref5" rel="noopener noreferrer nofollow" target="_blank"><u>[5]</u></a> Salma
-Khalik, “Khoo Teck Puat Hospital Wins International Design Award, Beating
-US and Japanese Buildings” <em>Straits Times,</em> 13 December 2017, <a href="https://www.straitstimes.com/singapore/ktph-wins-international-design-award-beating-us-and-japanese-buildings" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/ktph-wins-international-design-award-beating-us-and-japanese-buildings</a>.
-<br>
-</p>
+<p></p>
 <hr>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Goh
 Chiow Tong, “NParks to Give Packets of Vegetable Seeds to Households to
@@ -108,7 +93,24 @@ Ministry of Manpower, 2020), A7, <a rel="noopener noreferrer nofollow" target="_
 On the contribution of local farms to Singapore food’s supply, see “Our
 Singapore Food Story- The Three Food Baskets”, Singapore Food Agency, 13
 August 2021, <a rel="noopener noreferrer nofollow" target="_blank">https://www.sfa.gov.sg/food-farming/sgfoodstory</a>.</p>
-<p></p>
+<p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank"><u>[4]</u></a> Benjamin
+Ward Richardson, <em>Hygeia: A City of Health</em>, (London: Macmillan and
+Co, 1876), 20.</p>
+<p><a href="#_ftnref5" rel="noopener noreferrer nofollow" target="_blank"><u>[5]</u></a> Ebenezer
+Howard, <em>Garden Cities of Tomorrow</em>, (London: S. Sonnenschein &amp;
+Co., 1902), 22.</p>
+<p><a href="#_ftnref6" rel="noopener noreferrer nofollow" target="_blank"><u>[6]</u></a> Robert
+Freestone and Andrew Wheeler, “Integrating Health into Town Planning: A
+History,” in The Routledge Handbook of Planning for Health and Well-Being:&nbsp;Shaping
+a Sustainable and Healthy Future, ed. Hugh Barton, Susan Thompson, Sarah
+Burgess, Marcus Grant (Oxon and Routledge, 2015), 17–36.</p>
+<p><a href="#_ftnref7" rel="noopener noreferrer nofollow" target="_blank"><u>[7]</u></a> “
+<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19190215-1.2.16" rel="noopener noreferrer nofollow" target="_blank"><u>Vegetable Growing In Singapore</u> 
+</a>,” <em>Singapore Free Press and Mercantile Advertiser,</em> 15 February
+1919, 5. (From NewspaperSG)</p>
+<p><a href="#_ftnref8" rel="noopener noreferrer nofollow" target="_blank"><u>[8]</u></a> Salma
+Khalik, “Khoo Teck Puat Hospital Wins International Design Award, Beating
+US and Japanese Buildings” <em>Straits Times,</em> 13 December 2017, <a href="https://www.straitstimes.com/singapore/ktph-wins-international-design-award-beating-us-and-japanese-buildings" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/ktph-wins-international-design-award-beating-us-and-japanese-buildings</a>.</p>
 <p></p>
 <p>
 <br>
