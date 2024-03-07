@@ -14,9 +14,10 @@ created this work and reveals what he would love to paint but has not.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ll0gh59a3pQ?si=PWlDREHoBzZCRFGI"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on <a href="https://open.spotify.com/episode/6NYgoIymDy90Ng76tWsjsr" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
+<p>Available on: <a href="https://open.spotify.com/episode/6NYgoIymDy90Ng76tWsjsr" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
 <a href="https://podcasts.apple.com/us/podcast/artist-yip-yew-chong-paints-his-story-in-history/id1688142751?i=1000639313389" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/ZDE1YTc1MmMtYmU1Ni00ODE4LTliYWQtYzY5NmRhNzY0ZDJm?sa=X&amp;ved=0CAUQkfYCahcKEwiI56C6nqCDAxUAAAAAHQAAAAAQNA" rel="noopener noreferrer nofollow" target="_blank">Google Podcasts</a>,
-<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Artist-Yip-Yew-Chong-Paints-His-Story-in-History-2278281" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
+<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Artist-Yip-Yew-Chong-Paints-His-Story-in-History-2278281" rel="noopener noreferrer nofollow" target="_blank">melisten</a>
+</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a> to
 get notified when the next episode drops.</p>
 <p></p>
