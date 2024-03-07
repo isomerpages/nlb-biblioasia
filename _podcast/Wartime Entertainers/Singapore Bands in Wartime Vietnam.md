@@ -32,6 +32,8 @@ Inspired by the true accounts of the rockers who toured the Vietnam War,
 he created the three-book graphic novel series,&nbsp;<em>The Once &amp; Marvellous DKD</em>.&nbsp;</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
+<p>Boon Lai, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/" rel="noopener noreferrer nofollow" target="_blank">American Troops. Singapore Bands. The Vietnam War</a>,"
+BiblioAsia 20, no. 1 (2023).</p>
 <p>Boon Lai, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204463645" rel="noopener noreferrer nofollow" target="_blank">The Once &amp; Marvellous DKD</a></em>,
 bks 1–3 (Singapore: Mentalworks, 2019–2020).</p>
 <p>Joseph C. Pereira,<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=14220601" rel="noopener noreferrer nofollow" target="_blank">Apache over Singapore: The Story of Singapore Sixties Music, vol. 1</a></em> (Singapore:
