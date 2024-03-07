@@ -2,9 +2,9 @@ collections:
   podcast:
     output: true
     order:
-      - Wartime Entertainers/Transcript.md
-      - Wartime Entertainers/Singapore Bands in Wartime Vietnam.md
       - Wartime Entertainers/.keep
+      - Wartime Entertainers/Singapore Bands in Wartime Vietnam.md
+      - Wartime Entertainers/Transcript.md
       - Film Heritage/.keep
       - Film Heritage/Saving Singapore's Film Heritage.md
       - Film Heritage/Transcript.md
