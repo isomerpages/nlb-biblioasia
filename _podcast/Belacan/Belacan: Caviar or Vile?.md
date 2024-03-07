@@ -6,13 +6,14 @@ description: A food that has been called rank and disgusting is a beloved
   history of belacan (fermented shrimp) in Southeast Asia and Singapore.
 image: /images/Podcast/ep 4 (belacan by toffa) teaser.jpg
 third_nav_title: Belacan
+variant: markdown
 ---
 A food that has been called rank and disgusting is a beloved condiment in Southeast Asia. Librarian Toffa Abdul Wahed talks about the long history of *belacan* (fermented shrimp) in Southeast Asia and Singapore.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PrpvKof23zU?si=ZQNfSHJXPw09PR8E" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/episode/44jFPdoQ8w4HHltZ6WVxd8), [Apple Podcasts](https://podcasts.apple.com/us/podcast/belacan-caviar-or-vile/id1688142751?i=1000617460051), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/N2IwOGNkM2UtNDRkNS00OTg2LTkyOWMtNjg0NDhlZGNkNmVi?sa=X&amp;ved=0CAcQkfYCahcKEwjQ656Prc__AhUAAAAAHQAAAAAQFA), and [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Belacan--Caviar-or-Vile--2115261).
+Available on: [Spotify](https://open.spotify.com/episode/44jFPdoQ8w4HHltZ6WVxd8), [Apple Podcasts](https://podcasts.apple.com/us/podcast/belacan-caviar-or-vile/id1688142751?i=1000617460051), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/N2IwOGNkM2UtNDRkNS00OTg2LTkyOWMtNjg0NDhlZGNkNmVi?sa=X&amp;ved=0CAcQkfYCahcKEwjQ656Prc__AhUAAAAAHQAAAAAQFA), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Belacan--Caviar-or-Vile--2115261).
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 

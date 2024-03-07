@@ -6,13 +6,14 @@ description: "Writer Abhishek Mehrotra serves up a history of Malaya’s prewar
   who won 9 Malaya Cups and 12 Singapore Championships between them."
 image: /images/Podcast/podcast logo.jpg
 third_nav_title: Malaya's Prewar Tennis Greats
+variant: markdown
 ---
 Writer Abhishek Mehrotra serves up a history of Malaya’s prewar tennis scene, focusing on two tennis greats: Khoo Hooi Hye and Lim Bong Soo, who won 9 Malaya Cups and 12 Singapore Championships between them.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0tOln4SF3uw?si=nj5esIQPqGLnDff6" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/episode/3FxCFroVDr8s6kWphZM5dX), [Apple Podcasts](https://podcasts.apple.com/us/podcast/malayas-prewar-tennis-greats/id1688142751?i=1000618378685), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MWUxMzIwYTYtZmQwNi00ZWExLTllMGQtYzI5ZGM1MTlhZjMz?sa=X&amp;ved=0CAUQkfYCahcKEwiwu9KegeL_AhUAAAAAHQAAAAAQCg) and [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Malaya-s-Prewar-Tennis-Greats-2115241).
+Available on: [Spotify](https://open.spotify.com/episode/3FxCFroVDr8s6kWphZM5dX), [Apple Podcasts](https://podcasts.apple.com/us/podcast/malayas-prewar-tennis-greats/id1688142751?i=1000618378685), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MWUxMzIwYTYtZmQwNi00ZWExLTllMGQtYzI5ZGM1MTlhZjMz?sa=X&amp;ved=0CAUQkfYCahcKEwiwu9KegeL_AhUAAAAAHQAAAAAQCg), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Malaya-s-Prewar-Tennis-Greats-2115241).
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 

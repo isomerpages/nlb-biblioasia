@@ -5,13 +5,14 @@ description: Stone tools have been found in and around Singapore since the late
   19th century, but much about them remains a mystery, according to librarian
   and archaeologist Foo Shu Tieng.
 third_nav_title: Stone Age in Singapore
+variant: markdown
 ---
 Stone tools have been found in and around Singapore since the late 19th century, but much about them remains a mystery, according to librarian and archaeologist Foo Shu Tieng.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/X5d-u_1Mk8Q?si=TknXTQ88IBJ7irrl" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/episode/4HQaaXkCjvSGtOBeoh7m2v), [Apple Podcasts](https://podcasts.apple.com/us/podcast/stone-age-in-singapore/id1688142751?i=1000619152656), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MGQ0OGNlM2UtOWExMi00ZjI2LTlmYTUtMGU2ODgzNjg2NGQ3?sa=X&amp;ved=0CAUQkfYCahcKEwiA993t6vP_AhUAAAAAHQAAAAAQAQ) and [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Stone-Age-in-Singapore-2115256).
+Available on: [Spotify](https://open.spotify.com/episode/4HQaaXkCjvSGtOBeoh7m2v), [Apple Podcasts](https://podcasts.apple.com/us/podcast/stone-age-in-singapore/id1688142751?i=1000619152656), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/MGQ0OGNlM2UtOWExMi00ZjI2LTlmYTUtMGU2ODgzNjg2NGQ3?sa=X&amp;ved=0CAUQkfYCahcKEwiA993t6vP_AhUAAAAAHQAAAAAQAQ), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Stone-Age-in-Singapore-2115256).
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
