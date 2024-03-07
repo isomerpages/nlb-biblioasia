@@ -13,7 +13,7 @@ greats? Find out in this history-focused podcast. Available on <a href="https://
 <a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8" rel="noopener noreferrer nofollow" target="_blank">Google Podcasts</a> and
 <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
 <p></p>
-<h4>Season 2</h4>
+<h4><strong>Season 2</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/616799db4d9b61001398f79b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A Podcast About Singapore History by the National Library of Singapore" src="/images/Podcast/biblioasia_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Podcast About Singapore History by the National Library of Singapore</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Subscribe to get notified when the next episode drops</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.biblioasia.nlb.gov.sg/podcast/singapore-bands-wartime-vietnam/" class="isomer-card">
 <div class="isomer-card-image">
@@ -61,7 +61,7 @@ some inconvenient truths behind one of Singapore’s best-known shrines.</div>
 </a>
 </div>
 <p></p>
-<h4>Season 1</h4>
+<h4><strong>Season 1</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/616799db4d9b61001398f79b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BiblioAsia+" src="/images/Podcast/biblioasia_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Podcast About Singapore History by the National Library of Singapore</div><div class="isomer-card-link">Subscribe to get notified when the next episode drops</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-great-reclamation/" class="isomer-card">
 <div class="isomer-card-image">
