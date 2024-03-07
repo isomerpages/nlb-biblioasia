@@ -65,7 +65,7 @@ patient wellbeing. In 1917, for example, an institution for the mentally
 ill had created a kitchen garden. By 1918, “excellent fresh vegetables
 were available … aggregating 10,534 pounds for the staff and ‘inmates’
 grown by the patients themselves”, reported the<em> Singapore Free Press</em>.
-<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank"><u>[4]</u>
+<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank"><u>[4]</u> 
 </a>Edible gardens had been incorporated into Singapore’s hospitals long before
 Khoo Teck Puat Hospital developed its “A garden in a hospital” concept.
 <a href="#_ftn5" rel="noopener noreferrer nofollow" target="_blank"><u>[5]</u>
@@ -83,7 +83,7 @@ Howard, <em>Garden Cities of Tomorrow</em>, (London: S. Sonnenschein &amp;
 Co., 1902), 22.</p>
 <h1><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank"><u>[3]</u></a> Robert Freestone and Andrew Wheeler, “Integrating Health into Town Planning: A History,” in <em>The Routledge Handbook of Planning for Health and Well-Being:&nbsp;Shaping a Sustainable and Healthy Future</em>, ed. Hugh Barton, Susan Thompson, Sarah Burgess, Marcus Grant (Oxon and Routledge, 2015), 17–36.</h1>
 <p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank"><u>[4]</u></a> “
-<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19190215-1.2.16" rel="noopener noreferrer nofollow" target="_blank"><u>Vegetable Growing In Singapore</u>
+<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19190215-1.2.16" rel="noopener noreferrer nofollow" target="_blank"><u>Vegetable Growing In Singapore</u> 
 </a>,” <em>Singapore Free Press and Mercantile Advertiser,</em> 15 February
 1919, 5. (From NewspaperSG)</p>
 <p><a href="#_ftnref5" rel="noopener noreferrer nofollow" target="_blank"><u>[5]</u></a> Salma
