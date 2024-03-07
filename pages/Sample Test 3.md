@@ -105,9 +105,37 @@ to be eaten instead of rice”.<a href="#_ftn13" rel="noopener noreferrer nofoll
 vegetable gardens as indicated in <em>Map of the Town and Environs of Singapore from an Actual Survey</em> (1839)
 by G.D. Coleman. <em>Map of the Town and Environs of Singapore from an Actual Survey by G.D. Coleman. Courtesy of National Archives of Singapore.</em>
 </p>
+<hr>
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In 2023, David Lim donated 140 items to the National Library Board, comprising
+mostly raw footage of the first Singapore Mount Everest expedition, the
+Singapore Latin-America expedition and various other climbs. He also donated
+a set of curated digitised footage extracted from the raw footage of the
+1998 expedition.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In 2023, David Lim donated 140 items to the National Library Board, comprising
+mostly raw footage of the first Singapore Mount Everest expedition, the
+Singapore Latin-America expedition and various other climbs. He also donated
+a set of curated digitised footage extracted from the raw footage of the
+1998 expedition.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <hr>
 <h3><br>NOTES</h3>
