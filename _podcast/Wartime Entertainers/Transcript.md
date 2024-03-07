@@ -17,7 +17,7 @@ Vietnam War, is Boon Lai.</p>
 <p>He's a co-author and illustrator of the graphic novel trilogy, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204463645" rel="noopener noreferrer nofollow" target="_blank">The Once &amp; Marvelous DKD</a></em>,
 which is based on these local bands. In addition, he’s also written about
 these bands in <em><a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia</a></em>.
-Welcome to BiblioAsia+ Boon Lai. How are you?</p>
+Welcome to BiblioAsia+, Boon Lai. How are you?</p>
 <p></p>
 <p><strong>Boon Lai</strong> 
 <br>I’m good. Thanks for having me.</p>
