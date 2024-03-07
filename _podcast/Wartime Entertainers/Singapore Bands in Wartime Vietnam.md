@@ -33,11 +33,12 @@ he created the three-book graphic novel series,&nbsp;The Once &amp; Marvellous
 DKD.&nbsp;</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p>Charles H. Waterhouse, Vietnam Sketchbook. Drawings from Delta to DMZ
-(Rutland, Vt., C. E.: Tuttle Co.).</p>
-<p></p>
-<p>Louise Tythacott and Panggah Ardiyansyah, eds., <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=204463768" rel="noopener noreferrer nofollow" target="_blank"><u>Returning Southeast Asia's Past: Objects, Museums, and Restitution</u></a></em> (Singapore:
-NUS Press, 2021)</p>
+<p>Joseph C. Pereira,<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=14220601" rel="noopener noreferrer nofollow" target="_blank">Apache over Singapore: The Story of Singapore Sixties Music, vol. 1</a></em> (Singapore:
+Select Publishing, 2011).</p>
+<p>Joseph C. Pereira, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=200180088" rel="noopener noreferrer nofollow" target="_blank">Beyond the Tea Dance: The Story of Singapore Sixties Music, vol. 2</a></em> (Singapore:
+Select Publishing, 2014).</p>
+<p>Charles H. Waterhouse, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=706952" rel="noopener noreferrer nofollow" target="_blank">Vietnam Sketchbook. Drawings from Delta to DMZ</a> </em>(Rutland,
+Vermont: Tuttle Co., 1968).</p>
 <p></p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
