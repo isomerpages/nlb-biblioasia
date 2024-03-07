@@ -77,7 +77,7 @@ colonial authorities to promote edible gardening as a means of ensuring
 the wellbeing of working-class families. This was not a new idea as there
 had been edible gardens in British cities since the late 1700s. Local governments
 rented out small plots of land to urban dwellers who wanted, or needed,
-to grow their own food, rather than buy it. <a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Such allotments proved to be an enduring aspect of
+to grow their own food, rather than buy it. <a href="#_ftn9" rel="noopener noreferrer nofollow" target="_blank">[9]</a> Such allotments proved to be an enduring aspect of
 working-class British culture all the way through the 20th century.<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
 </p>
 <p>From the 1910s, there had been growing international concern that agricultural
@@ -103,31 +103,12 @@ to be eaten instead of rice”.<a href="#_ftn5" rel="noopener noreferrer nofollo
 </div>
 <p>Detail of map showing paddy fields, sugar and cotton plantations, and
 vegetable gardens as indicated in <em>Map of the Town and Environs of Singapore from an Actual Survey</em> (1839)
-by G.D. Coleman. <em>Map of the Town and Environs of Singapore from an Actual Survey by G.D. Coleman. Courtesy of National Archives of Singapore.</em>
+by G.D. Coleman. <em>Map of the Town and Environs of Singapore from an Actual Survey by G.D. Coleman. Courtesy of National Archives of Singapore.</em> 
 <br>
 </p>
-<hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> N.
-Flavell, “Urban Allotment Gardens in the Eighteenth Century: The Case of
-Sheffield,” <em>The Agricultural History Review </em>51, no. 1 (2003): 95–106.
-(From JSTOR via NLB’s <a href="http://eresources.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">eResources</a> website)</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> See
-Margaret Wiles, <em>The Gardens of the British Working Class</em> (London:
-Yale University Press, 2014)</p>
-<p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> “Malaya's
-Food Supply,” <em>The Singapore Free Press and Mercantile Advertiser</em>,
-24 January 1918, 50.</p>
-<p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> These
-gardens are clearly marked on National Archives (Singapore), <em><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Map of the Town and Environs of Singapore from an Actual Survey by G.D. Coleman</a>, </em>1839,
-map. (From National Archives of Singapore, accession no. SP006292)</p>
-<p><a href="#_ftnref5" rel="noopener noreferrer nofollow" target="_blank">[5]</a> “
-<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19190423-1.2.7" rel="noopener noreferrer nofollow" target="_blank">Shortage of Rice</a>,” <em>Malaya Tribune</em>, 23 April 1919, 4. (From
-NewspaperSG)
-<br>
-</p>
-<hr>
 <p></p>
 <hr>
+<h3><br>NOTES</h3>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Goh
 Chiow Tong, “NParks to Give Packets of Vegetable Seeds to Households to
 Encourage Home Gardening” <em>Channel News Asia</em>, 18 June 2020, &nbsp;
@@ -162,7 +143,22 @@ Burgess, Marcus Grant (Oxon and Routledge, 2015), 17–36.</p>
 <p><a href="#_ftnref8" rel="noopener noreferrer nofollow" target="_blank"><u>[8]</u></a> Salma
 Khalik, “Khoo Teck Puat Hospital Wins International Design Award, Beating
 US and Japanese Buildings” <em>Straits Times,</em> 13 December 2017, <a href="https://www.straitstimes.com/singapore/ktph-wins-international-design-award-beating-us-and-japanese-buildings" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/ktph-wins-international-design-award-beating-us-and-japanese-buildings</a>.</p>
-<p></p>
+<p><a href="#_ftnref9" rel="noopener noreferrer nofollow" target="_blank">[9]</a> N.
+Flavell, “Urban Allotment Gardens in the Eighteenth Century: The Case of
+Sheffield,” <em>The Agricultural History Review </em>51, no. 1 (2003): 95–106.
+(From JSTOR via NLB’s <a href="http://eresources.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">eResources</a> website)</p>
+<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> See
+Margaret Wiles, <em>The Gardens of the British Working Class</em> (London:
+Yale University Press, 2014)</p>
+<p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> “Malaya's
+Food Supply,” <em>The Singapore Free Press and Mercantile Advertiser</em>,
+24 January 1918, 50.</p>
+<p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> These
+gardens are clearly marked on National Archives (Singapore), <em><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Map of the Town and Environs of Singapore from an Actual Survey by G.D. Coleman</a>, </em>1839,
+map. (From National Archives of Singapore, accession no. SP006292)</p>
+<p><a href="#_ftnref5" rel="noopener noreferrer nofollow" target="_blank">[5]</a> “
+<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19190423-1.2.7" rel="noopener noreferrer nofollow" target="_blank">Shortage of Rice</a>,” <em>Malaya Tribune</em>, 23 April 1919, 4. (From
+NewspaperSG)</p>
 <p>
 <br>
 </p>
