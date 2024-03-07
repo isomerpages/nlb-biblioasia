@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Wartime Entertainers
 ---
 <p>[Music playing]</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>During the war in Vietnam in the 1960s, big-name entertainers went to
 South Vietnam to perform for American troops. In addition to stars though,
 a bunch of musicians from Singapore were also roped in. Why did local musicians
@@ -19,30 +19,30 @@ which is based on these local bands. In addition, he’s also written about
 <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/" rel="noopener noreferrer nofollow" target="_blank">these bands in</a><em><a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia</a></em>.
 Welcome to BiblioAsia+ Boon Lai. How are you?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>I’m good. Thanks for having me.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>You’ve written about these guys in <em>BiblioAsia</em>. How did you come
 to know about them?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Well, the interesting thing was around 2016, I was producing a short documentary
 for a Singapore Heritage film fest, and I chose to make a documentary based
 on Singapore sixties music.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay. Did you know very much about Singapore sixties music at the time?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Well, I mean, just as much as, you know, as anyone who had a passing interest.
 So, what I did was I got in touch with <a href="https://catalogue.nlb.gov.sg/search/card?id=4c517319-80bb-11ee-9d6b-6d86ef49420c&amp;entityType=Agent" rel="noopener noreferrer nofollow" target="_blank">Joseph Pereira</a>,
 who actually wrote three books on the subject.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Yeah, he’s practically a local expert.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Yeah, he’s a local expert in this. And I introduced myself and I said,
 “I’m interested to just interview you and just have you talk about the
 sixties music scene.” So, what happened was we spent three or four days
@@ -54,10 +54,10 @@ had to find new ways of making a living.” And he mentioned that some of
 the bands actually even had to go up to South Vietnam to perform. So as
 soon as I heard that, as a storyteller, it was kind of like a…</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Light bulb moment?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Light bulb moment. I was struck with this mental image of our Singapore
 bands, young kids flying in on <em>Huey </em>helicopters, choppers over
 treetops and then music, Rolling Stones music, blasting as they were, you
@@ -70,10 +70,10 @@ okay, the immediate way of getting the story together would be to do a
 graphic novel, because for me, I see the graphic novel as a form of a visualised
 screenplay anyway.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Right, right, right.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Yeah. Yeah. So, what happened was right after that, I started my three
 years of research.</p>
 <p></p>
@@ -519,85 +519,68 @@ I mean, male or female, you can’t just go in, pampered and all of that
 and expect to survive.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It was a pretty rough environment.</p>
+<br>It was a pretty rough environment.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>It was a very rough environment. The entertainers who made it, made it
+<br>It was a very rough environment. The entertainers who made it, made it
 through, had a steely quality about them.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, that wouldn’t be me. How long did Impian Bateks play in Saigon,
+<br>Yeah, that wouldn’t be me. How long did Impian Bateks play in Saigon,
 a year?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Typically it would have been three to four months. Three to four months,
+<br>Typically it would have been three to four months. Three to four months,
 kind of to try things out to see if they could survive it.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Literally.</p>
+<br>Literally.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Literally. And within three to four months, just imagine one day they
+<br>Literally. And within three to four months, just imagine one day they
 can do minimum two shows, maybe three.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, that many.</p>
+<br>Yeah, that many.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Yes. So, we see the math is starting to work out.</p>
-<p></p>
-<p>Two shows a day over three to four months. It’s not a holiday. Within
-three to four months they would have done hundreds of performance shows.
-it sounds impossible, but actually they did it, right? They would have
-done the hundreds. So, they say after that, three to four months were up,
-and then they have a choice. There were bands who actually stayed on and
-renewed their contracts. So, despite the situation, the dangers, and all
-that we mentioned, they came back.</p>
+<br>Yes. So, we see the math is starting to work out. Two shows a day over
+three to four months. It’s not a holiday. Within three to four months they
+would have done hundreds of performance shows. it sounds impossible, but
+actually they did it, right? They would have done the hundreds. So, they
+say after that, three to four months were up, and then they have a choice.
+There were bands who actually stayed on and renewed their contracts. So,
+despite the situation, the dangers, and all that we mentioned, they came
+back.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Money was too good.</p>
+<br>Money was too good.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Money was too good. Or it could be addiction. I don’t know. I spoke to
+<br>Money was too good. Or it could be addiction. I don’t know. I spoke to
 Joseph about this, and he said it could be the addiction.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>The adrenaline?</p>
+<br>The adrenaline?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>The adrenaline – because that became normal, having spent three months,
+<br>The adrenaline – because that became normal, having spent three months,
 four months, some up to even a year; some went again and again and again
 and again, right? Because they felt that, “Hey, if I made it through the
 first time, I could still do it if I apply the same wit.” Veronica did
 at least two tours. She went back.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>With the Impian Bateks?</p>
+<br>With the Impian Bateks?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>No, the second time she was with another group.</p>
+<br>No, the second time she was with another group.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And Esquires?</p>
+<br>And Esquires?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>They completed the tour, and that was it. Because their experience was
+<br>They completed the tour, and that was it. Because their experience was
 pretty intense. They had incidents or situations where they were right
 in the midst of shelling, bombing and night raid bombing in Danang. They
 really felt that things were getting really, really precarious for them.
@@ -606,14 +589,12 @@ just call it quits. There were cases of, many cases of, entertainers getting
 killed. Yeah, it was not uncommon.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>This is all very interesting. You know, so you’re saying that it took
+<br>This is all very interesting. You know, so you’re saying that it took
 you three years to put together <em>The Once Marvelous DKD</em>? What was
 your research process like?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>I spoke to the guys. I decided that I wanted to get as close as possible
+<br>I spoke to the guys. I decided that I wanted to get as close as possible
 to the experience that these guys had gone through. I started with the
 library. And there was this book called the <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=706952" rel="noopener noreferrer nofollow" target="_blank">Vietnam Sketchbook</a></em> published
 in 1968, a short series of sketches by a G.I. I thought that was a good
@@ -625,13 +606,11 @@ Vietnam War. I also read quite a number by [American comic book artist]
 Will Eisner.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>What did the research into all these people, how did that, you know, influence
+<br>What did the research into all these people, how did that, you know, influence
 your graphic novel?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>I saw in them the spirit that I suspected was there. For someone to do
+<br>I saw in them the spirit that I suspected was there. For someone to do
 this, they must have a certain way about them. They actually embodied the
 spirit of, well, we call it foolhardy, being stupid or, you know, dangerous,
 being adventurous or being, you know, totally unaware, right? Being innocent.
@@ -640,12 +619,10 @@ but put in a situation that is really, really way beyond [them], what [could]
 they can expect to come out of [it], right?</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So now that you’ve completed a trilogy, what are you working on now?</p>
+<br>So now that you’ve completed a trilogy, what are you working on now?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>I’m actually working on the sequel now. This one will be the DKD Cold
+<br>I’m actually working on the sequel now. This one will be the DKD Cold
 War. <em>DKD Cold War</em> will be about another young band in the midst
 of the rock revolution. They have their own personal issues right smack
 [during] the threat of nuclear annihilation. And I think as teenagers back
@@ -653,64 +630,50 @@ then, I can recall at that point of time in the eighties, the fear of nuclear
 war was very real.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Thank you very much, Boon Lai, for coming down to the studio and sharing
+<br>Thank you very much, Boon Lai, for coming down to the studio and sharing
 all this with us. I want to now take this interview into a slightly different
-direction.</p>
-<p></p>
-<p>So, let me ask you, what’s the hardest thing about creating a historical
-graphic novel?</p>
+direction. So, let me ask you, what’s the hardest thing about creating
+a historical graphic novel?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>The research was challenging because I think it’s also the way I did the
+<br>The research was challenging because I think it’s also the way I did the
 research. I wanted to get in as deep as I could.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Complete the sentence. History is...</p>
+<br>Complete the sentence. History is...</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>History. History to me is a treasure trove of human drama. I feel it’s
+<br>History. History to me is a treasure trove of human drama. I feel it’s
 a treasure trove of human drama. Yeah, because, well, human drama – presented
 and framed in a certain way, right? It’s rather subjective.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, historical fiction is....?</p>
+<br>Okay, historical fiction is....</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>The way I did with DKD was, I would look at it as human drama amplified,
+<br>The way I did with DKD was, I would look at it as human drama amplified,
 but inspired by real events. This is humanity at its best, at its worst,
 right? Yeah.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, cool. Boon Lai, thank you very much for joining us on BiblioAsia+.
+<br>Okay, cool. Boon Lai, thank you very much for joining us on BiblioAsia+.
 It’s been a pleasure having you. And I certainly learned a lot. To find
 out more about the experiences of Veronica Young, Harris Hamzah and Steve
 Bala and all these local musicians who were at one point young and crazy
 enough to perform in a war zone, you have to read both Boon Lai’s <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/" rel="noopener noreferrer nofollow" target="_blank">article</a> in <em>BiblioAsia</em> and
 also check out his <a href="https://catalogue.nlb.gov.sg/search/card?recordId=204463645" rel="noopener noreferrer nofollow" target="_blank">trilogy</a>,
 which I believe is in the National Library’s collection. Check it out at
-<a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>.</p>
-<p></p>
-<p>I once again thank you very much for being here and good luck on the fourth
-book!</p>
+<a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>. I once again thank you very much for being
+here and good luck on the fourth book!</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Four, five and six.</p>
+<br>Four, five and six.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh wow. Okay, the second trilogy. Hey, good luck then.</p>
+<br>Oh wow. Okay, the second trilogy. Hey, good luck then.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>The second trilogy. Thanks very much.</p>
+<br>The second trilogy. Thanks very much.</p>
 <p></p>
 <p></p>
 <p></p>
