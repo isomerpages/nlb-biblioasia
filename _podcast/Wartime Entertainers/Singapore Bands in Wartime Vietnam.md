@@ -13,11 +13,12 @@ were met with cheers, bullets and assault.</p>
 </div>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on <a href="https://open.spotify.com/episode/2y8wl7lKlIl5p2T51PVPML" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
+<p>Available on: <a href="https://open.spotify.com/episode/2y8wl7lKlIl5p2T51PVPML" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/singapore-bands-in-wartime-vietnam/id1688142751?i=1000648327193" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u> 
 </a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/OGNiNGFhYTQtMmJhYi00NWE5LTljYTUtZjhiN2VlYzNkNmNk?sa=X&amp;ved=0CAUQkfYCahcKEwiwq5uH5-GEAxUAAAAAHQAAAAAQAQ" rel="noopener noreferrer nofollow" target="_blank"><u>Google Podcasts</u></a>,
-<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Lost-Gold-Coins-of-the-Old-Singapore-Library-2304471" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u> 
-</a>.</p>
+<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Lost-Gold-Coins-of-the-Old-Singapore-Library-2304471" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u>
+</a>
+</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
