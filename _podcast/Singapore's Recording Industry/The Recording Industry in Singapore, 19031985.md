@@ -5,13 +5,14 @@ description: Singapore used to be a major recording centre in Southeast Asia,
   with over 10,000 local recordings made before 1960. Hear the story from sound
   archivist Ross Laird, author of From Keroncong to Xinyao.
 third_nav_title: Singapore's Recording Industry
+variant: markdown
 ---
 Singapore used to be a major recording centre in Southeast Asia, with over 10,000 local recordings made before 1960. Hear the story from sound archivist Ross Laird, author of *From Keroncong to Xinyao*.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0CjUWHrPAWQ?si=98eMPlP4BMzio_8L" height="315" width="560"></iframe>
 
 #### **Listen to the Full Episode** ####
-Available on [Spotify](https://open.spotify.com/episode/3dl1waKmiCYXXAQpdLJGrb), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-recording-industry-in-singapore-1903-1985/id1688142751?i=1000622945042), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NWQ3YzhkZDktYWRlOC00NGYwLThiZjEtOWUwZTFkZmQ0Njgx?sa=X&amp;ved=0CAUQkfYCahcKEwiQgq7phLqAAxUAAAAAHQAAAAAQCg) and [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Recording-Industry-in-Singapore--1903-1985-2115206).
+Available on: [Spotify](https://open.spotify.com/episode/3dl1waKmiCYXXAQpdLJGrb), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-recording-industry-in-singapore-1903-1985/id1688142751?i=1000622945042), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/NWQ3YzhkZDktYWRlOC00NGYwLThiZjEtOWUwZTFkZmQ0Njgx?sa=X&amp;ved=0CAUQkfYCahcKEwiQgq7phLqAAxUAAAAAHQAAAAAQCg), [melisten](https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Recording-Industry-in-Singapore--1903-1985-2115206).
 
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
