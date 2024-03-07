@@ -78,54 +78,44 @@ screenplay anyway.</p>
 years of research.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wow. Did Joseph give you the names of the people who went to Vietnam?</p>
+<br>Wow. Did Joseph give you the names of the people who went to Vietnam?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>He mentioned quite a number. Veronica Young, definitely. And then Impian
+<br>He mentioned quite a number. Veronica Young, definitely. And then Impian
 Bateks and then Steve Bala and the Esquires and others like Robert Suriya
 and Cedric and even Shirley Naya.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wow, some big names, eh?</p>
+<br>Wow, some big names, eh?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Yeah, big names in the Singapore scene, actually, at that point of time.
+<br>Yeah, big names in the Singapore scene, actually, at that point of time.
 Yeah. So, I got the names, I went into Facebook and start looking…</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Stalking all these guys.</p>
+<br>Stalking all these guys.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Stalking, sending them messages. And eventually the ones who responded
+<br>Stalking, sending them messages. And eventually the ones who responded
 were the three of them. Right. I think the rest did not get the message
 or you know, they probably thought I was a stalker. Yeah. So that’s how
 I got in touch with Veronica, Harris and Steve Bala.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>When did these musicians go to Vietnam? In the late sixties, was it?</p>
+<br>When did these musicians go to Vietnam? In the late sixties, was it?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>So, the ones that we’re talking about like Veronica, Steve, they went
+<br>So, the ones that we’re talking about like Veronica, Steve, they went
 up late 1960s. Now late 1960s in Vietnam at that point of time. You can
 imagine the fighting at that point of time was pretty fierce. So it was
 getting quite intense. And by some accounts, the Americans even had up
 to 500,000 troops.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s not a small number.</p>
+<br>It’s not a small number.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>From my research, what I found was that there were many little bases formed
+<br>From my research, what I found was that there were many little bases formed
 along the coast, right from Saigon, all the way up to the DMZ [demilitarized
 zone]. Each base was technically a little city on its own. Built with American
 money, American technology, and all of that. So, that was kind of situation
@@ -137,15 +127,13 @@ come in plain clothes. They looked like everyone else you could identify.
 This is enemy. This is friend. So it was kind of an edgy situation.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>American troops were fighting and, of course, you know, dying. But entertainers
+<br>American troops were fighting and, of course, you know, dying. But entertainers
 were actually sent to these camps to entertain the troops. Right. So, I’m
 guessing, you know, did they get rotated and have a bit of R&amp;R in-country?
 Is that what happened?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Well, I think the US military thought that “Okay, well, it’s a very stressful
+<br>Well, I think the US military thought that “Okay, well, it’s a very stressful
 situation”, right? I mean, you have soldiers who have been drafted at a
 very young age, right? Coming in from, you know, some rural parts of America,
 haven’t even seen the world, prior to that, arriving in Vietnam. And suddenly
@@ -157,28 +145,23 @@ have iPhones. The only thing you had was basically radio and records. So,
 music had been a very big part of their lives.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Hence, like, Good Morning Vietnam.</p>
+<br>Hence, like, Good Morning Vietnam.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Exactly. So, a lot of audio back then, you know, not as much visual yet.
+<br>Exactly. So, a lot of audio back then, you know, not as much visual yet.
 They had their entertainment on a regular basis, almost nightly basis,
 whenever they could get it.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
+<br>Right.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>What you had were our performers who were assigned to travel up from,
+<br>What you had were our performers who were assigned to travel up from,
 you know, from Saigon. And then they’d hit each individual base as they
 went up. And they would be performing for the soldiers.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So you mentioned in your <em>BiblioAsia</em> article that there were a number
+<br>So you mentioned in your <em>BiblioAsia</em> article that there were a number
 of local musicians that went up to Vietnam specifically, Veronica Young,
 Impian Bateks and Steve Bala Siren, right? And you know, these were young
 musicians who decided to go up and do gigs in South Vietnam. It was in
@@ -186,8 +169,7 @@ the middle of a war zone. Why did these people decide to do something that
 sounds, on hindsight, pretty dangerous?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Well, I think we have to remember they were really young, in their early
+<br>Well, I think we have to remember they were really young, in their early
 twenties. So, if you think about the Singapore sixties music scene, people
 like Veronica Young and Impian Bateks, that was during the golden age of
 Singapore music that started around the sixties and then peaked around
@@ -205,12 +187,10 @@ and in quantums of what, at least three to four times of what they were
 earning in Singapore.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wow. Okay. That’s a significant incentive.</p>
+<br>Wow. Okay. That’s a significant incentive.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Money was a very big motivation, right? They had to consider their own
+<br>Money was a very big motivation, right? They had to consider their own
 futures, their families, they had to support family as well. But I think
 there was also a tinge of, “hey, this is something new”, right? This is
 something new. This sounds exciting. You know, it’s like a promise of adventure.
@@ -222,13 +202,11 @@ who basically turned the offers down, because, you know, they thought it
 was too dangerous, or the family or the parents did not allow them to go.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>These trips to South Vietnam – they were arranged by, you said, recruitment
+<br>These trips to South Vietnam – they were arranged by, you said, recruitment
 agents?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Yeah, they were arranged by recruitment agents, so, okay, I’ll go into
+<br>Yeah, they were arranged by recruitment agents, so, okay, I’ll go into
 the technicality a little bit because I think it’s worth understanding
 the bigger picture. We know now that show business and the business of
 entertaining US troops was a very, very big business, right?</p>
@@ -240,24 +218,22 @@ would go through the USO, the United Services Organization, which kind
 of supports the US military needs, right?</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Entertainment needs.</p>
+<br>Entertainment needs.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Entertainment, and everything else, whatever, any kind of, noncombat related.
+<br>Entertainment, and everything else, whatever, any kind of, noncombat related.
 USO would bring in big names back then, like Bob Hope, Nancy Sinatra, for
 instance, James Brown. And of course, being big names, they were pretty
-safe. I mean, they knew their way of going about [would be] well-organized,
-well-planned. I mean, you can’t have a disaster, right? Yeah. So that would
+safe. I mean, they knew their way of going about [would be] well organized,
+well planned. I mean, you can’t have a disaster, right? Yeah. So that would
 be that one way.</p>
 <p></p>
 <p>The second way would be independent bands on their own accord, who would
-go up as volunteers.</p>
-<p>There were no offers or whatever. They would just go on their own accord,
-and they would occasionally strike deals with the military and say, “Okay,
-we’ll perform for you guys. You know, if you can cover our, maybe, accommodation
-and or even our transportation needs and all of that.”</p>
+go up as volunteers.There were no offers or whatever. They would just go
+on their own accord, and they would occasionally strike deals with the
+military and say, “Okay, we’ll perform for you guys. You know, if you can
+cover our, maybe, accommodation and or even our transportation needs and
+all of that.”</p>
 <p></p>
 <p>Now, the third way would be, apparently, each US base was given free rein
 to arrange their own entertainment. Right, now, this is where it gets interesting
@@ -267,41 +243,35 @@ that was pretty corrupt in that sense.</p>
 <p></p>
 <p>And then you had people who heard about this, who heard that, “hey, there’s
 money to be earned”, right? You had agents popping up and saying, “Okay,
-good, fine, you guys need entertainers? I’ll go find.”</p>
-<p></p>
-<p>So, there were agents going all over the region, right? Korea, Thailand,
-we mentioned Singapore, Malaysia, the Philippines and all of that. And
-so, when we talk about Singapore, the agents would come over here, and
-they would visit the clubs, our local scene. And as soon as they saw certain
-bands, they would approach the band or the entertainers and say, “Okay,
-would you want to come up to South Vietnam? I think you’re a good match.
-You know, the G.I.s are going to love you because of the kind of songs
-that you were performing.”</p>
+good, fine, you guys need entertainers? I’ll go find.” So, there were agents
+going all over the region, right? Korea, Thailand, we mentioned Singapore,
+Malaysia, the Philippines and all of that. And so, when we talk about Singapore,
+the agents would come over here, and they would visit the clubs, our local
+scene. And as soon as they saw certain bands, they would approach the band
+or the entertainers and say, “Okay, would you want to come up to South
+Vietnam? I think you’re a good match. You know, the G.I.s are going to
+love you because of the kind of songs that you were performing.”</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, selling them a bit.</p>
+<br>So, selling them a bit.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Selling them that, you know, selling that sizzle. And then if they sensed
+<br>Selling them that, you know, selling that sizzle. And then if they sensed
 that, okay if they were a little bit worried about certain things, “Okay,
 fine, we’ll throw a $500,000 insurance in case you are killed or you get,
 you know, maimed or anything like that.” So, they had ways to try to recruit…</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Musicians.</p>
+<br>Musicians.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Musicians. So as soon as the musicians decided to join in, they would
-get themselves packed up, flown from Paya Lebar airport <a rel="noopener noreferrer nofollow" target="_blank">[in Singapore] </a><a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SP(1]</a>&nbsp;all
-the way up to Tân Sơn Nhất, in Saigon back then. As soon as they landed,
-they would get quickly bundled up, cleared through immigration and checkpoints,
-and they would be sent to halfway houses in areas like Cholon district,
-you know, seedy areas and all of that. And, within a few days, these guys
-would have to, you know, get their instruments ready.</p>
+<br>Musicians. So as soon as the musicians decided to join in, they would
+get themselves packed up, flown from Paya Lebar airport&nbsp;all the way
+up to Tân Sơn Nhất, in Saigon back then. As soon as they landed, they would
+get quickly bundled up, cleared through immigration and checkpoints, and
+they would be sent to halfway houses in areas like Cholon district, you
+know, seedy areas and all of that. And, within a few days, these guys would
+have to, you know, get their instruments ready.</p>
 <p></p>
 <p>And that was another thing that happened, which I thought was rather interesting
 as well. For instance, Steve and Esquires, they even had to audition before
@@ -309,51 +279,41 @@ a committee of staff sergeants. The staff sergeants were determining their
 rate, how much they could actually command for each performance.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>What was the rate like?</p>
+<br>What was the rate like?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>The really good ones – just so happen to be Filipinos – were getting something,
+<br>The really good ones – just so happen to be Filipinos – were getting something,
 if I’m not mistaken, like US$800–US$1,000 per show.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wow. Significant amount of money.</p>
+<br>Wow. Significant amount of money.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Significant. Very significant. Then they’d just wait for the day when
+<br>Significant. Very significant. Then they’d just wait for the day when
 they [would] get called up and sent out. Yeah.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, the Filipinos were getting like 800 bucks a show. How much were the
+<br>So, the Filipinos were getting like 800 bucks a show. How much were the
 Singaporeans getting?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Ah Singaporeans... let me, let me try to recall the number.</p>
+<br>Singaporeans... let me, let me try to recall the number.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Not as much as $800.</p>
+<br>Not as much as $800.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Not as much. They were getting like $400, maybe eight. Okay, sometimes.</p>
+<br>Not as much. They were getting like $400, maybe eight. Okay, sometimes.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But still, you know, you multiply that by the total number of shows that
+<br>But still, you know, you multiply that by the total number of shows that
 you do. Yeah, you know, it’s a significant amount of money. Just give us
 a bit of an idea, you know, what kind of situations these musicians faced.
 I mean, they weren’t out in the field playing music, while a battle was
 raging, for example, right? It’s not what happened.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>I recall once where Veronica told me about a nightly curfew, right? So
+<br>I recall once where Veronica told me about a nightly curfew, right? So
 definitely because Saigon at that point of time was being besieged, technically,
 they had a nightly curfew. So there an occasion when, you know, she needed
 help for one of the band members who was sick and all of that.</p>
@@ -370,31 +330,23 @@ performing in pubs and clubs and on stage. And suddenly somebody would
 hurl a grenade at the band – and that’s it.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh wow.</p>
+<br>Oh wow.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>You know, many, many there were many reports of that happening.</p>
+<br>You know, many, many there were many reports of that happening.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>They really didn’t like the music or...? This was the Vietcong attack.</p>
+<br>They really didn’t like the music or...? This was the Vietcong attack.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>It’s basically anything can happen at any point of time, right, even before
+<br>It’s basically anything can happen at any point of time, right, even before
 they left Saigon. As soon as they left Saigon, things got even more…</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Hairy.</p>
-<p></p>
-<p></p>
+<br>Hairy.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>The bands had no clue what their weekly or even their daily schedules
+<br>The bands had no clue what their weekly or even their daily schedules
 were going to be like. They did have a manager assigned to them, and the
 manager would go just ahead of them, you know, to different bases, try
 to book them, get them to play as many gigs as possible, whatever was available.</p>
@@ -405,12 +357,10 @@ it was so unpredictable. They would be transported to a base. It could
 be an outpost even.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Not necessarily a “base” base, but it could just be an outpost.</p>
+<br>Not necessarily a “base” base, but it could just be an outpost.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>It could be an outpost. Like, for instance, I think, Steve and Esquires,
+<br>It could be an outpost. Like, for instance, I think, Steve and Esquires,
 they basically got into some pretty rural areas as well. This is very interesting.
 Steve mentioned that they were flown into somewhere in the jungle on a
 helicopter, and the chopper would land at what they called the landing
@@ -426,70 +376,58 @@ to be playing to? Monkeys or what?”</p>
 10 feet, 15 minutes, soldiers [started coming] out from the jungle.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>They came out in their camos. And helmets and weapons?</p>
+<br>They came out in their camos. And helmets and weapons?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Yeah yeah, all covered and all that. They would just come out and for
+<br>Yeah yeah, all covered and all that. They would just come out and for
 that period of time they would just go crazy. They would just let loose
 – a lot of, a lot of beer, a lot of drugs, apparently joints, and the band.
 The band also travelled with strippers, right? Just to spice things up.
 They had strippers as well.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And, this was dangerous, right? I mean, going to all these outposts was
+<br>And, this was dangerous, right? I mean, going to all these outposts was
 not safe.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Definitely not safe. So, all of them mention at one point of time, getting
+<br>Definitely not safe. So, all of them mention at one point of time, getting
 shot at.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, distinctly unsafe.</p>
+<br>Yeah, distinctly unsafe.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>And yeah, you know, the Esquires were performing on stage and suddenly
+<br>And yeah, you know, the Esquires were performing on stage and suddenly
 they heard a <em>zing</em>, like something just zipping past them. And then
 when they looked behind at the backdrop, there was a bullet hole. Somebody
 had actually just taken a pot shot at them.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh man. That’s scary.</p>
+<br>Oh man. That’s scary.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>Yeah. And then even when they’re on the road travelling to their destinations,
+<br>Yeah. And then even when they’re on the road travelling to their destinations,
 occasionally the driver would shout, “Okay, guys, hit the deck!” And that’s
 it. They had to just sprawl [on the floor] and that’s it. And then bullets
 would tear through the canvases and stuff like that. It was not safe.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Veronica, as a woman, you know, clearly must have had a slightly different
+<br>Veronica, as a woman, you know, clearly must have had a slightly different
 experience, from Haris Hamzah and Steve Bala. You know, can you give us
 an idea of what that was like?</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>In a war situation in that kind of environment, it was pretty dangerous,
+<br>In a war situation in that kind of environment, it was pretty dangerous,
 uncomfortable... Now add to the fact that you have a lot of, stressed-up,
 young men far away from home, where social order was breaking down and
 as soon as they see women – it could be singers or even strippers and all
 of that – all the basic instincts are stirred up right?</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Unwanted male attention.</p>
+<br>Unwanted male attention.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>They got a lot of attention. I mean, they got a lot of attention from
+<br>They got a lot of attention. I mean, they got a lot of attention from
 the soldiers, of course. Veronica mentioned that the soldiers would find
 every opportunity to look at you, to touch you. There were also cases where,
 well, where female entertainers were being friendly with the soldiers,
@@ -500,16 +438,14 @@ for sex or sexual favours. They would also try to get their way with the
 women.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But there’s a great story about Veronica defending herself.</p>
+<br>But there’s a great story about Veronica defending herself.</p>
 <p></p>
 <p><strong>Boon Lai</strong>
-</p>
-<p>As Veronica mentioned, one night when she was in one of the bases, she
+<br>As Veronica mentioned, one night when she was in one of the bases, she
 was at one end of the barracks, cooking noodles and stuff like that for
 dinner, for the band and herself. And as she was preparing, cutting up
-the chilli, knife in hand and all of that, suddenly there was a figure
-that came up to her and grabbed her from behind, very large and big, grabbed
+the chili, knife in hand and all of that, suddenly there was a figure that
+came up to her and grabbed her from behind, very large and big, grabbed
 her from behind.</p>
 <p></p>
 <p>Now, being the gutsy lady that she is, she thrust the knife back, stabbed
@@ -518,32 +454,32 @@ of <em>gungho</em> characteristic to survive that environment. You’re right.
 I mean, male or female, you can’t just go in, pampered and all of that
 and expect to survive.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>It was a pretty rough environment.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>It was a very rough environment. The entertainers who made it, made it
 through, had a steely quality about them.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Yeah, that wouldn’t be me. How long did Impian Bateks play in Saigon,
 a year?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Typically it would have been three to four months. Three to four months,
 kind of to try things out to see if they could survive it.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Literally.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Literally. And within three to four months, just imagine one day they
 can do minimum two shows, maybe three.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Yeah, that many.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Yes. So, we see the math is starting to work out. Two shows a day over
 three to four months. It’s not a holiday. Within three to four months they
 would have done hundreds of performance shows. it sounds impossible, but
@@ -553,33 +489,33 @@ There were bands who actually stayed on and renewed their contracts. So,
 despite the situation, the dangers, and all that we mentioned, they came
 back.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Money was too good.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Money was too good. Or it could be addiction. I don’t know. I spoke to
 Joseph about this, and he said it could be the addiction.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>The adrenaline?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>The adrenaline – because that became normal, having spent three months,
 four months, some up to even a year; some went again and again and again
 and again, right? Because they felt that, “Hey, if I made it through the
 first time, I could still do it if I apply the same wit.” Veronica did
 at least two tours. She went back.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>With the Impian Bateks?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>No, the second time she was with another group.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>And Esquires?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>They completed the tour, and that was it. Because their experience was
 pretty intense. They had incidents or situations where they were right
 in the midst of shelling, bombing and night raid bombing in Danang. They
@@ -588,12 +524,12 @@ So maybe they thought, okay, might be a good idea to heed the signs and
 just call it quits. There were cases of, many cases of, entertainers getting
 killed. Yeah, it was not uncommon.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>This is all very interesting. You know, so you’re saying that it took
 you three years to put together <em>The Once Marvelous DKD</em>? What was
 your research process like?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>I spoke to the guys. I decided that I wanted to get as close as possible
 to the experience that these guys had gone through. I started with the
 library. And there was this book called the <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=706952" rel="noopener noreferrer nofollow" target="_blank">Vietnam Sketchbook</a></em> published
@@ -605,11 +541,11 @@ it gave me an understanding of that place.</p>
 Vietnam War. I also read quite a number by [American comic book artist]
 Will Eisner.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What did the research into all these people, how did that, you know, influence
 your graphic novel?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>I saw in them the spirit that I suspected was there. For someone to do
 this, they must have a certain way about them. They actually embodied the
 spirit of, well, we call it foolhardy, being stupid or, you know, dangerous,
@@ -618,10 +554,10 @@ I kind of like the fact that they embodied all the qualities of youth,
 but put in a situation that is really, really way beyond [them], what [could]
 they can expect to come out of [it], right?</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So now that you’ve completed a trilogy, what are you working on now?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>I’m actually working on the sequel now. This one will be the DKD Cold
 War. <em>DKD Cold War</em> will be about another young band in the midst
 of the rock revolution. They have their own personal issues right smack
@@ -629,33 +565,33 @@ of the rock revolution. They have their own personal issues right smack
 then, I can recall at that point of time in the eighties, the fear of nuclear
 war was very real.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Thank you very much, Boon Lai, for coming down to the studio and sharing
 all this with us. I want to now take this interview into a slightly different
 direction. So, let me ask you, what’s the hardest thing about creating
 a historical graphic novel?</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>The research was challenging because I think it’s also the way I did the
 research. I wanted to get in as deep as I could.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Complete the sentence. History is...</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>History. History to me is a treasure trove of human drama. I feel it’s
 a treasure trove of human drama. Yeah, because, well, human drama – presented
 and framed in a certain way, right? It’s rather subjective.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay, historical fiction is....</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>The way I did with DKD was, I would look at it as human drama amplified,
 but inspired by real events. This is humanity at its best, at its worst,
 right? Yeah.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay, cool. Boon Lai, thank you very much for joining us on BiblioAsia+.
 It’s been a pleasure having you. And I certainly learned a lot. To find
 out more about the experiences of Veronica Young, Harris Hamzah and Steve
@@ -666,13 +602,13 @@ which I believe is in the National Library’s collection. Check it out at
 <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>. I once again thank you very much for being
 here and good luck on the fourth book!</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>Four, five and six.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Oh wow. Okay, the second trilogy. Hey, good luck then.</p>
 <p></p>
-<p><strong>Boon Lai</strong>
+<p><strong>Boon Lai</strong> 
 <br>The second trilogy. Thanks very much.</p>
 <p></p>
 <p></p>
