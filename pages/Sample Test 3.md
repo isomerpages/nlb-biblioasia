@@ -23,4 +23,19 @@ delicious.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Presentation4.jpg">
 </div>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;“Eat More Wheat” Campaign in 1967</strong>
+</p>
+<p>Soon after Singapore’s independence, the Eat More Wheat campaign was launched
+to encourage the public to eat more wheat and less rice. At that time,
+wheat was half the price of rice, and rice prices had increased due to
+a world shortage.<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>
+</p>
+<p>
+<br>
+</p>
+<hr>
+<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> “
+<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19670913-1.2.138" rel="noopener noreferrer nofollow" target="_blank">How To Save $22m – By Dr. Goh</a>,” Straits Budget, 13 September 1967,
+19. (From NewspaperSG)</p>
+<hr>
 <p></p>
