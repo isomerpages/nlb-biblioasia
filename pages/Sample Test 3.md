@@ -4,3 +4,23 @@ permalink: /permalink/sampletest3/
 variant: tiptap
 description: ""
 ---
+<h2><strong>Forgotten Food Campaigns</strong></h2>
+<p>By Anonymous</p>
+<p><em>Do you remember Singapore’s past food campaigns such as “Eat More Wheat” and “Eat Frozen Fish”? Librarian </em>Jacqueline
+Lee<em> dishes up food campaign collaterals from the National Library Board's collections.</em>
+</p>
+<p>Singapore has been called a <a href="https://biblioasia.nlb.gov.sg/vol-8/issue-4/jan-mar-2013/singapore-campaigns/" rel="noopener noreferrer nofollow" target="_blank">“city of campaigns”</a>.
+Over the past few decades, there have been hundreds of campaigns on a variety
+of themes from productivity to family planning to courtesy.</p>
+<p>When my colleague mentioned that she had come across library materials
+on frozen food campaigns in the 1980s, I became intrigued and started researching
+food campaigns beginning from Singapore’s independence.</p>
+<p>These campaigns aimed to change public behaviour when it came to the foods
+they ate. Getting people to eat something different from the foods they
+are accustomed to is always a tall order. At the same time, they also had
+to address the public’s belief that the substitutes were not as good or
+delicious.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Presentation4.jpg">
+</div>
+<p></p>
