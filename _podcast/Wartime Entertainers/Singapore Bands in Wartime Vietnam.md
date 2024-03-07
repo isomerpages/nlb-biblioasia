@@ -11,7 +11,7 @@ were met with cheers, bullets and assault.</p>
 <p></p>
 <p>Boon Lai&nbsp;is an author, an illustrator and a filmmaker based in Singapore.
 Inspired by the true accounts of the rockers who toured the Vietnam War,
-he created the three-book graphic novel series,&nbsp;<em><a href="https://dkdgraphicnovel.com/" rel="noopener noreferrer" target="_blank"><u>The Once &amp; Marvellous DKD</u></a>.</em>&nbsp;</p>
+he created the three-book graphic novel series,&nbsp;<em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204463645" rel="noopener noreferrer" target="_blank"><u>The Once &amp; Marvellous DKD</u></a>.</em>&nbsp;</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on <a href="https://open.spotify.com/episode/7ytNibGncmYyTYbVJ5QiHw" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
