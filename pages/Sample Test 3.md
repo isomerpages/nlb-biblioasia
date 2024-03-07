@@ -87,15 +87,15 @@ for long periods, countries overly reliant on imported goods struggled
 to be self-sustainable. It was remarked in 1918 how “[t]he cost of a few
 sprigs of ‘chukup manis’, a few scraggy beans, or a cucumber or two, is
 astonishing in Singapore … and altogether the supply of local grown foods
-is altogether inadequate”.<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a>
+is altogether inadequate”.<a href="#_ftn11" rel="noopener noreferrer nofollow" target="_blank">[11]</a>
 </p>
 <p>The local situation had been compounded by the gradual erosion of market
 gardening in Singapore, traditionally undertaken in the 19th century by
 many Chinese communities to the east of the town centre, around Rochor
-through Bendemeer.<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> By 1919, an impending rice shortage across Malaya
+through Bendemeer.<a href="#_ftn12" rel="noopener noreferrer nofollow" target="_blank">[12]</a> By 1919, an impending rice shortage across Malaya
 meant that plantation workers were encouraged to “get busy and cultivate
 gardens, planting food stuffs such as ragi [finger millet], yams and maize
-to be eaten instead of rice”.<a href="#_ftn5" rel="noopener noreferrer nofollow" target="_blank">[5]</a>
+to be eaten instead of rice”.<a href="#_ftn13" rel="noopener noreferrer nofollow" target="_blank">[13]</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -103,7 +103,7 @@ to be eaten instead of rice”.<a href="#_ftn5" rel="noopener noreferrer nofollo
 </div>
 <p>Detail of map showing paddy fields, sugar and cotton plantations, and
 vegetable gardens as indicated in <em>Map of the Town and Environs of Singapore from an Actual Survey</em> (1839)
-by G.D. Coleman. <em>Map of the Town and Environs of Singapore from an Actual Survey by G.D. Coleman. Courtesy of National Archives of Singapore.</em> 
+by G.D. Coleman. <em>Map of the Town and Environs of Singapore from an Actual Survey by G.D. Coleman. Courtesy of National Archives of Singapore.</em>
 </p>
 <p>
 <br>
@@ -152,13 +152,13 @@ Sheffield,” <em>The Agricultural History Review </em>51, no. 1 (2003): 95–10
 <p><a href="#_ftnref10" rel="noopener noreferrer nofollow" target="_blank">[10]</a> See
 Margaret Wiles, <em>The Gardens of the British Working Class</em> (London:
 Yale University Press, 2014)</p>
-<p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> “Malaya's
+<p><a href="#_ftnref11" rel="noopener noreferrer nofollow" target="_blank">[11]</a> “Malaya's
 Food Supply,” <em>The Singapore Free Press and Mercantile Advertiser</em>,
 24 January 1918, 50.</p>
-<p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> These
+<p><a href="#_ftnref12" rel="noopener noreferrer nofollow" target="_blank">[12]</a> These
 gardens are clearly marked on National Archives (Singapore), <em><a href="https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb0ace86-115c-11e3-83d5-0050568939ad" rel="noopener noreferrer nofollow" target="_blank">Map of the Town and Environs of Singapore from an Actual Survey by G.D. Coleman</a>, </em>1839,
 map. (From National Archives of Singapore, accession no. SP006292)</p>
-<p><a href="#_ftnref5" rel="noopener noreferrer nofollow" target="_blank">[5]</a> “
+<p><a href="#_ftnref13" rel="noopener noreferrer nofollow" target="_blank">[13]</a> “
 <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19190423-1.2.7" rel="noopener noreferrer nofollow" target="_blank">Shortage of Rice</a>,” <em>Malaya Tribune</em>, 23 April 1919, 4. (From
 NewspaperSG)</p>
 <p>
