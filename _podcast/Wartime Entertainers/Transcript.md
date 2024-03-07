@@ -12,7 +12,7 @@ South Vietnam to perform for American troops. In addition to stars though,
 a bunch of musicians from Singapore were also roped in. Why did local musicians
 choose to perform in South Vietnam in a war zone, and what was the experience
 like? I’m Jimmy Yap, and with me to talk about these musicians during the
-Vietnam War, is Boon Lai.</p>
+Vietnam War is Boon Lai.</p>
 <p></p>
 <p>He's a co-author and illustrator of the graphic novel trilogy, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204463645" rel="noopener noreferrer nofollow" target="_blank">The Once &amp; Marvelous DKD</a></em>,
 which is based on these local bands. In addition, he’s also written about
