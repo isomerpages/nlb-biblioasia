@@ -7,9 +7,9 @@ third_nav_title: The Lost Gold Coins
 ---
 <p>In the mid-19th century, two ancient gold coins were uncovered near present-day
 Keppel Harbour. Unfortunately, the Acehnese coins vanished before they
-could be studied carefully. The Jawi inscriptions on the coins were recorded,
-though they didn’t make sense. More than 180 years later, Foo Shu Tieng
-tries to solve the case.</p>
+could be studied carefully. Their Jawi inscriptions were recorded, though
+they didn’t make sense. More than 180 years later, Foo Shu Tieng tries
+to solve the case.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FSfswvJFm8w?si=ezooPfIIqaPKZWWz"></iframe>
 </div>
