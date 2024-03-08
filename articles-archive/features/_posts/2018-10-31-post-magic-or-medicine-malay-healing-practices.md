@@ -111,8 +111,8 @@ With the introduction of Western-style healthcare, including clinics and hospita
 
 State controls and the exposure to Western education further put paid to the services of traditional Malay healers. Although their numbers have drastically dwindled over the years, traditional Malay medicine continues to play an ancillary – and occasionally complementary – role to Western medicine today for those who recognise its efficacy in providing ritual care and treating spiritual ailments and conditions not yet acknowledged in Western medical science.
 	
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block;">
-	<b>Healing Practices </b>
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block;">
+	<b>HEALING PRACTICES </b>
   <br><br>
 One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
 <table span="" style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block;">
@@ -134,12 +134,12 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 <td>Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days.</td>
 <td>Reduce both ingredients to fine pulp. Apply to patient’s head.</td>
 </tr>
-</tbody></table>
+</tbody></table><br><br>
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>REFERENCE</b>
 <br><br>
 	Burkill, I.H., &amp; Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
-</span>
+</span></div><br>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>HUMOURAL THEORY AND MALAY MEDICINE</b>
@@ -233,4 +233,3 @@ Wilkinson, R.J. (1908–10). [*Papers on Malay subjects. [First series, 4], Life
 [^20]:Singapore. The Statutes of the Republic of Singapore. (1999, December 30). *Poisons Act* (Cap 234, 1999 Rev. ed.). Retrieved from Singapore Statutes Online website.
 [^21]:Newbold, T.J. (2015). [*Political and statistical account of the British settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore, with a history of the Malayan states on the peninsula of Malacca vol, 2 of 2*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202784871) (p. 242). London: Forgotten Books. (Call no.: RSING 959.5 NEW)
 [^22]: Squeamishness, heartburn and fevers arise when the “fire” element is too strong. The “water” element causes damp chills and vomiting.
-</span>
