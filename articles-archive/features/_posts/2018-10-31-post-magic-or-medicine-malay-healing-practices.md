@@ -111,69 +111,6 @@ With the introduction of Western-style healthcare, including clinics and hospita
 
 State controls and the exposure to Western education further put paid to the services of traditional Malay healers. Although their numbers have drastically dwindled over the years, traditional Malay medicine continues to play an ancillary – and occasionally complementary – role to Western medicine today for those who recognise its efficacy in providing ritual care and treating spiritual ailments and conditions not yet acknowledged in Western medical science.
 
-<div style="background-color: #fdf5e6; padding:15px; margin: 15px; font-size=120%">
-	<b>HEALING PRACTICES </b><br><br>
-	One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.<br><br>
-
-<table style="margin-left:2.75pt;border-collapse:collapse;border:none;mso-yfti-tbllook:
- 1180;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:
- none" cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:55.4pt;border:none;border-bottom:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="82"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt">&nbsp;</span></p></td><td style="width:120.9pt;border:none;border-bottom:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="161"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:11.0pt">For Violent Headaches and Loss of Energy</span></p></td><td style="width:120.8pt;border:none;border-bottom:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="161"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:11.0pt">For Dizziness and Vertigo</span></p></td><td style="width:120.95pt;border:none;border-bottom:
-  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="161"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:11.0pt">For Night Chills</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:61.4pt;border:none;border-bottom:solid windowtext 0.5pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="82"><p style="margin-bottom:0in;text-align:right;
-  line-height:normal" align="right" class="MsoNormal"><span style="font-size:11.0pt">Ingredients</span></p></td><td style="width:120.9pt;border:none;border-bottom:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="161"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:11.0pt">Cumin seeds (5 cents)<br>Garlic (10 cents)<br>Indian hemp<br>Ginger<br><i>Smilax china</i><br>Mace (35 cents)<br>Nutmeg (5 cents)<br>Henbane<br>Javanese ginger</span></p></td><td style="width:120.8pt;border:none;border-bottom:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="161"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:11.0pt">5 young shoots of betel vine<br>Red onion<br>Fennel seeds</span></p></td><td style="width:120.95pt;border:none;border-bottom:
-  solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0in 5.4pt 0in 5.4pt" valign="top" width="161"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><i><span style="font-size:11.0pt">Daun medan</span></i><span style="font-size:11.0pt"> (root of an unidentified plant)<br>7 kernels of the fruit of the candle nut</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:61.4pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="82"><p style="margin-bottom:0in;text-align:right;
-  line-height:normal" align="right" class="MsoNormal"><span style="font-size:11.0pt">Method</span></p></td><td style="width:120.9pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="161"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:11.0pt">Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete.</span></p></td><td style="width:120.8pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="161"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:11.0pt">Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days.</span></p></td><td style="width:120.95pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="161"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:11.0pt">Reduce both ingredients to fine pulp. Apply to patient’s head.</span></p></td></tr></tbody></table><br><br>
-<b>REFERENCE</b>
-<br><br>
-	Burkill, I.H., &amp; Ismail Munshi. (1930). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669"><i>The medical book of Malayan medicine</i></a>. (Singapore: Botanic Gardens, call no. RCLOS 615.3209595 MED).
-</div><br><br>
-
-
-	
-<div style="background-colour: #fdf5e6; padding: 10px; margin: 10px; background:#fdf5e6; display:block;">
-	<b>HEALING PRACTICES </b>
-  <br><br>
-One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
-<table span="" style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block;">
-<tbody><tr>
-<td>&nbsp; &nbsp;</td>
-<td>For Violent Headaches and Loss of Energy</td>
-<td>For Dizziness and Vertigo</td>
-<td>For Night Chills</td>
-</tr>
-<tr>
-<td>Ingredients</td>
-<td>Cumin seeds (5 cents) <br> Garlic (10 cents)<br>Indian hemp<br>Ginger<br><i>Smilax china</i><br>Mace (35 cents) <br> Nutmeg (5 cents) <br> Henbane <br>Javanese ginger</td>
-<td> 5 young shoots of betel vine <br>Red onion <br>Fennel seeds</td>
-<td> <i>Daun medan</i> (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut</td>
-</tr>
-<tr>
-<td> Method</td>
-<td>Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete.</td>
-<td>Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days.</td>
-<td>Reduce both ingredients to fine pulp. Apply to patient’s head.</td>
-</tr>
-</tbody></table><br><br>
-<b>REFERENCE</b>
-<br><br>
-	Burkill, I.H., &amp; Ismail Munshi. (1930). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669"><i>The medical book of Malayan medicine</i></a>. (Singapore: Botanic Gardens, call no. RCLOS 615.3209595 MED).
-</div><br>
-
 <div style="background-color: #fdf5e6; padding:10
 						px; margin: 10px; font-size=120%">
 	<b>HEALING PRACTICES </b><br><br>
@@ -203,7 +140,7 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 <b>REFERENCE</b>
 <br>
 	Burkill, I.H., &amp; Ismail Munshi. (1930). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669"><i>The medical book of Malayan medicine</i></a>. (Singapore: Botanic Gardens, call no. RCLOS 615.3209595 MED).
-</div><br><br>
+</div><br>
 
 <div style="background-colour: #fdf5e6; padding: 10px; margin: 10px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>HUMOURAL THEORY AND MALAY MEDICINE</b>
