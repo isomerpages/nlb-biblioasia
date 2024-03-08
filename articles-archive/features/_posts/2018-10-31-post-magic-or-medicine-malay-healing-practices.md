@@ -4,6 +4,7 @@ date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/magic-or-med-m-heal/
 image: /images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG
 layout: post
+variant: markdown
 ---
 #### Is traditional Malay medicine based on superstition and folklore or grounded in scientific evidence? **Nadirah Norruddin** uncovers the varying perceptions of Malay medicine in colonial Malaya.
 
@@ -110,34 +111,34 @@ With the introduction of Western-style healthcare, including clinics and hospita
 
 State controls and the exposure to Western education further put paid to the services of traditional Malay healers. Although their numbers have drastically dwindled over the years, traditional Malay medicine continues to play an ancillary – and occasionally complementary – role to Western medicine today for those who recognise its efficacy in providing ritual care and treating spiritual ailments and conditions not yet acknowledged in Western medical science.
 	
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
+<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block;">
 	<b>Healing Practices </b>
   <br><br>
 One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
-<table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
-  <tr>
-    <td>&nbsp; &nbsp;</td>
-    <td>For Violent Headaches and Loss of Energy</td>
-    <td>For Dizziness and Vertigo</td>
-		<td>For Night Chills</td>
-  </tr>
+<table span="" style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block;">
+<tbody><tr>
+<td>&nbsp; &nbsp;</td>
+<td>For Violent Headaches and Loss of Energy</td>
+<td>For Dizziness and Vertigo</td>
+<td>For Night Chills</td>
+</tr>
 <tr>
 <td>Ingredients</td>
 <td>Cumin seeds (5 cents) <br> Garlic (10 cents)<br>Indian hemp<br>Ginger<br><i>Smilax china</i><br>Mace (35 cents) <br> Nutmeg (5 cents) <br> Henbane <br>Javanese ginger</td>
 <td> 5 young shoots of betel vine <br>Red onion <br>Fennel seeds</td>
 <td> <i>Daun medan</i> (root of an unidentified plant) <br> 7 kernels of the fruit of the candle nut</td>
 </tr>
-	  <tr>
-    <td> Method</td>
-    <td>Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete.</td>
-    <td>Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days.</td>
-		<td>Reduce both ingredients to fine pulp. Apply to patient’s head.</td>
-  </tr>
-</table>
+<tr>
+<td> Method</td>
+<td>Pound all ingredients together and mix with honey to form into tablets. Patient to take tablets until course of treatment is complete.</td>
+<td>Grind finely. Place the pulp on a piece of cloth. Squeeze the juice into the patient’s eyes for three days.</td>
+<td>Reduce both ingredients to fine pulp. Apply to patient’s head.</td>
+</tr>
+</tbody></table>
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>REFERENCE</b>
+<b>REFERENCE</b>
 <br><br>
-	Burkill, I.H., & Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
+	Burkill, I.H., &amp; Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
 </span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
@@ -167,7 +168,7 @@ Also known as “Mak Bidan” or “dukun beranak”, these midwives specialise 
 <br><br>
 Dennys, N.B. (1894). [<i>A descriptive dictionary of British Malaya</i>](https://eresources.nlb.gov.sg/printheritage/detail/aea703a6-d3b0-4a4e-956b-82390c582891.aspx) (p. 104). London: London and China Telegraph. (Retrieved from BookSG; Accession no.: B02984605A)
 <br><br>
-Gerrard, P.N. (1905). [<i>A vocabulary of Malay medical terms</i> ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5454824)(p. 24). Singapore: Kelly & Walsh. (Call no.: RRARE 610.39928 GER; Microfilm no.: NL27512)
+Gerrard, P.N. (1905). [<i>A vocabulary of Malay medical terms</i> ](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5454824)(p. 24). Singapore: Kelly &amp; Walsh. (Call no.: RRARE 610.39928 GER; Microfilm no.: NL27512)
 <br><br>
 Skeat, W.W. (1900). [<i>Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula</i>](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx) (pp. 424–425). London: Macmillan and Co., Limited. (Retrieved from BookSG; Accession no.: B02930611K)
 <br><br>
@@ -191,15 +192,15 @@ Harun Mat Piah. (2006). [*Kitab tib: Ilmu perubatan Melayu*](http://eservice.nlb
 
 Manderson, L. (1996). [*Sickness and the state: Health and illness in colonial Malaya, 1870–1940*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=7603543). New York: Cambridge University Press. (Call no.: RSEA 362.1095951 MAN)
 
-Matheson, V., & Hooker, M. (1988). Jawi literature in Patani: The maintenance of an Islamic tradition. *Journal of the Malaysian Branch of the Royal Asiatic Society, 61*(1)(254), 1–86. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+Matheson, V., &amp; Hooker, M. (1988). Jawi literature in Patani: The maintenance of an Islamic tradition. *Journal of the Malaysian Branch of the Royal Asiatic Society, 61*(1)(254), 1–86. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 McHugh, J.N. (1955). [*Hantu hantu: An account of ghost belief in modern Malaya*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4500047). Singapore: Donald Moore. (Call no.: RCLOS 398.47 MAC-[RFL])
 
-Mohd. Affendi Mohd.Shafri & Intan Azura Shahdan. (Eds.). (2017). [*Malay medical manuscripts: Heritage from the garden of healing*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203011255). Kajang, Selangor, Malaysia: Akademi Jawi Malaysia. (Call no.: RSEA 610.95 INT)
+Mohd. Affendi Mohd.Shafri &amp; Intan Azura Shahdan. (Eds.). (2017). [*Malay medical manuscripts: Heritage from the garden of healing*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=203011255). Kajang, Selangor, Malaysia: Akademi Jawi Malaysia. (Call no.: RSEA 610.95 INT)
 
 Mohd. Taib Osman. (1989). [*Malay folk beliefs: An integration of disparate elements*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=5391123). Kuala Lumpur: Dewan Bahasa dan Pustaka, Kementerian Pendidikan Malaysia. (Call no.: RSEA 398.4109595 MOH)
 
-Muhamad Zakaria & Mustafa Ali Mohd. (1992). [*Tumbuhan dan perubatan tradisional*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6307820). Kuala Lumpur: Fajar Bakti. (Call no.: Malay RSING 615.88209595 MUH)
+Muhamad Zakaria &amp; Mustafa Ali Mohd. (1992). [*Tumbuhan dan perubatan tradisional*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6307820). Kuala Lumpur: Fajar Bakti. (Call no.: Malay RSING 615.88209595 MUH)
 
 Ong, H.T. (Ed.). (2011). [*To heal the sick: The story of healthcare and doctors in Penang*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202468002). Georgetown: Penang Medical Practitioners’ Society. (Call no.: RSEA 362.1095951 TO)
 
@@ -215,7 +216,7 @@ Wilkinson, R.J. (1908–10). [*Papers on Malay subjects. [First series, 4], Life
 [^3]:Blagden, C.O. (1896, July). Notes on the folk-lore and popular religion of the Malays. *Journal of the Straits Branch of the Royal Asiatic Society*, 29, 1. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 [^4]:Malay healers used Quranic verses to supplement the efficacy of herbs and medicinal plants. Supplications remain at the heart of Malay healing. A healer may choose to use only plants and herbs with supplications but without *wafaq*, while another may use fewer plants and herbs and more *wafaq* in his practice.
 [^5]:A prominent Patani scholar, Sheikh Ahmad al-Fathani, laboured his discourse in Islamic knowledge with the science of medicine. His manuscript, *Tayyib al-Ihsan fi Tibb al-Insan*, which was produced in 1895, was widely consulted by traditional healers in 20th-century Malaya.
-[^6]:John D. Gimlette was a physician who resided in the Malay state of Kelantan for many years and was extremely interested in the subject of Malay poisons, sorcery and cures. See Gimlette, J.D. (1915). [*Malay poisons and charm cures*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202517206). London: J. & A. Churchill. (Call no.: RRARE 398.4 GIM-[JSB]). [Note: For the digitised 1923 edition, see [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/81b91bde-03e5-468d-8c7f-1baec9396f4a.aspx).]
+[^6]:John D. Gimlette was a physician who resided in the Malay state of Kelantan for many years and was extremely interested in the subject of Malay poisons, sorcery and cures. See Gimlette, J.D. (1915). [*Malay poisons and charm cures*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202517206). London: J. &amp; A. Churchill. (Call no.: RRARE 398.4 GIM-[JSB]). [Note: For the digitised 1923 edition, see [BookSG](https://eresources.nlb.gov.sg/printheritage/detail/81b91bde-03e5-468d-8c7f-1baec9396f4a.aspx).]
 [^7]:[Gimlette](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202517206), 1915, p. 106.
 [^8]:Winzeler, R.L. (1983). The study of Malay magic. *Bijdragen Tot De Taal-, Land- En Volkenkunde, 139*(4), 435–458, p. 436. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 [^9]:[Malay “doctors”](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18960922-1.2.23). (1896, September 22). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG.
@@ -223,7 +224,7 @@ Wilkinson, R.J. (1908–10). [*Papers on Malay subjects. [First series, 4], Life
 [^11]:Winzeler, 1983, p. 447.
 [^12]:Thomas N. Annandale was a Scottish zoologist, entomologist, anthropologist and herpetologist, who became interested in Malay animism, related magical lore and curers. 
 [^13]:From pineapples (*Ananassa sativa*) and *keladi* (*Alocasia denudata*) to *cheraka* (Plumbaginasea), the poisons Gimlette examined have been described to contain active ingredients useful in the study of modern medicine.
-[^14]:Gerrard, P.N. (1905). *A vocabulary of Malay medical terms*. Singapore: Kelly & Walsh. (Microfilm no.: NL27512)
+[^14]:Gerrard, P.N. (1905). *A vocabulary of Malay medical terms*. Singapore: Kelly &amp; Walsh. (Microfilm no.: NL27512)
 [^15]:Anthropologist Thomas Fraser notes that in village processions led by the *pawang* who is healing a physically ill or possessed patient, the *imam* (Islamic worship leader) is also involved to officiate the ritual from a religious perspective. This prevents any possible conflict with Islamic beliefs that may border on *shirk* (idolatory or Polytheism).
 [^16]:[Why fewer babies are now dying in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350721-1.2.68). (1935, July 21). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 [^17]:In the Malay villages, traditional healers were involved in sanctifying the village via ceremonies and rituals, and were also involved in the affairs of the state. Known as the *Maharaja Lela* in Selangor or *Sultan Muda* in Perak, a *bomoh* enjoyed unfettered entry into the palace compounds.
@@ -232,3 +233,4 @@ Wilkinson, R.J. (1908–10). [*Papers on Malay subjects. [First series, 4], Life
 [^20]:Singapore. The Statutes of the Republic of Singapore. (1999, December 30). *Poisons Act* (Cap 234, 1999 Rev. ed.). Retrieved from Singapore Statutes Online website.
 [^21]:Newbold, T.J. (2015). [*Political and statistical account of the British settlements in the Straits of Malacca, viz. Pinang, Malacca, and Singapore, with a history of the Malayan states on the peninsula of Malacca vol, 2 of 2*](http://eservice.nlb.gov.sg/item_holding.aspx?bid=202784871) (p. 242). London: Forgotten Books. (Call no.: RSING 959.5 NEW)
 [^22]: Squeamishness, heartburn and fevers arise when the “fire” element is too strong. The “water” element causes damp chills and vomiting.
+</span>
