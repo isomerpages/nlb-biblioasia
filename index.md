@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 4/Salvation Army/Hero_img_SalvationArmy2b.jpg
   - infopic:
+      title: Singapore Bands in Wartime Vietnam
+      subtitle: Podcast
+      id: infopic
+      description: In the 1960s and ’70s, Singaporean musicians went to South Vietnam
+        to perform for US troops during the war. They were met with cheers,
+        bullets and assault.
+      button: Listen to the episode
+      url: /podcast/singapore-bands-wartime-vietnam/
+      image: /images/Podcast/isomer_Boonlai.jpg
+      alt: Image alt text
+  - infopic:
       title: "A Cool Business: The History of Ice-Making in Singapore"
       subtitle: History
       id: infopic
@@ -879,15 +890,4 @@ sections:
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
       image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
-  - infopic:
-      title: Singapore Bands in Wartime Vietnam
-      subtitle: Podcast
-      id: infopic
-      description: In the 1960s and ’70s, Singaporean musicians went to South Vietnam
-        to perform for US troops during the war. They were met with cheers,
-        bullets and assault.
-      button: Listen to the episode
-      url: /podcast/singapore-bands-wartime-vietnam/
-      image: /images/Podcast/isomer_Boonlai.jpg
-      alt: Image alt text
 ---
