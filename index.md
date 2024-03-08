@@ -879,4 +879,15 @@ sections:
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
       image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
+  - infopic:
+      title: Singapore Bands in Wartime Vietnam
+      subtitle: Podcast
+      id: infopic
+      description: In the 1960s and ’70s, Singaporean musicians went to South Vietnam
+        to perform for US troops during the war. They were met with cheers,
+        bullets and assault.
+      button: Listen to the episode
+      url: /podcast/singapore-bands-wartime-vietnam/
+      image: /images/Podcast/isomer_Boonlai.jpg
+      alt: Image alt text
 ---
