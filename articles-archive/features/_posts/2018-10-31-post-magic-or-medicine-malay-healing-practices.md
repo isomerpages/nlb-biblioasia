@@ -111,7 +111,7 @@ With the introduction of Western-style healthcare, including clinics and hospita
 
 State controls and the exposure to Western education further put paid to the services of traditional Malay healers. Although their numbers have drastically dwindled over the years, traditional Malay medicine continues to play an ancillary – and occasionally complementary – role to Western medicine today for those who recognise its efficacy in providing ritual care and treating spiritual ailments and conditions not yet acknowledged in Western medical science.
 	
-<div style="background-colour: #fdf5e6; padding: 15px; margin: 15px; background:#fdf5e6; display:block;">
+<div style="background-colour: #fdf5e6; padding: 10px; margin: 10px; background:#fdf5e6; display:block;">
 	<b>HEALING PRACTICES </b>
   <br><br>
 One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s <i>The Medical Book of Malayan Medicine</i>. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
@@ -140,7 +140,7 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 	Burkill, I.H., &amp; Ismail Munshi. (1930). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669"><i>The medical book of Malayan medicine</i></a>. (Singapore: Botanic Gardens, call no. RCLOS 615.3209595 MED).
 </div><br>
 
-<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<div style="background-colour: #fdf5e6; padding: 10px; margin: 10px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>HUMOURAL THEORY AND MALAY MEDICINE</b>
 <br><br>
 Humoural theory, which is one of the oldest theories of medicine, is organised around the four humours – blood, phlegm, yellow bile and black bile – and is associated with the four elements of earth (flesh), water (phlegm), air/wind (temperament), and fire (blood). The four elements are in turn paired up with the four qualities of cold, hot, moist and dry. Each individual has a particular humoural makeup, or “constitution”. As optimal health is attained when the humours are in harmonious balance, any imbalance of the humours may result in disease and sickness.
