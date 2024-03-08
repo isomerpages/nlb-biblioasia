@@ -6,7 +6,7 @@ image: /images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG
 layout: post
 variant: markdown
 ---
-#### Is traditional Malay medicine based on superstition and folklore or grounded in scientific evidence? **Nadirah Norruddin** uncovers the varying perceptions of Malay medicine in colonial Malaya.
+### Is traditional Malay medicine based on superstition and folklore or grounded in scientific evidence? **Nadirah Norruddin** uncovers the varying perceptions of Malay medicine in colonial Malaya.
 
 <img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG">
 <div style="background-color: white;">The <i>bomoh akar kayu</i> (<i>akar kayu</i> means “roots” in Malay) believes that nature is the source of life and is imbued with restorative qualities. The <i>bomoh akar kayu</i> is well versed in the healing properties of plants and herbs, and forages hilly areas and dense forests like the one illustrated here in search of plants to make <i>ubat</i> (medicine). This 1869 print titled “Bathing Place Near Selita” in Singapore is by Austrian naturalist Eugen von Ransonnet. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
@@ -141,7 +141,7 @@ One of the most notable Malay medical manuscripts translated into English is Ism
 	Burkill, I.H., &amp; Ismail Munshi. (1930). [<i>The medical book of Malayan medicine</i>](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669). Singapore: Botanic Gardens. (Call no.: RCLOS 615.3209595 MED)
 </span></div><br>
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
+<div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>HUMOURAL THEORY AND MALAY MEDICINE</b>
 <br><br>
 Humoural theory, which is one of the oldest theories of medicine, is organised around the four humours – blood, phlegm, yellow bile and black bile – and is associated with the four elements of earth (flesh), water (phlegm), air/wind (temperament), and fire (blood). The four elements are in turn paired up with the four qualities of cold, hot, moist and dry. Each individual has a particular humoural makeup, or “constitution”. As optimal health is attained when the humours are in harmonious balance, any imbalance of the humours may result in disease and sickness.
@@ -173,7 +173,7 @@ Gerrard, P.N. (1905). [<i>A vocabulary of Malay medical terms</i> ](http://eserv
 Skeat, W.W. (1900). [<i>Malay magic: Being an introduction to the folklore and popular religion of the Malay Peninsula</i>](https://eresources.nlb.gov.sg/printheritage/detail/5aaeccbf-d44a-4b4b-a6ef-c6dd1f78458e.aspx) (pp. 424–425). London: Macmillan and Co., Limited. (Retrieved from BookSG; Accession no.: B02930611K)
 <br><br>
 Wilkinson, R.J. (1908–10). [<i>Papers on Malay subjects. [First series, 4], Life and customs</i>](https://eresources.nlb.gov.sg/printheritage/detail/cbae6616-f86a-4d1b-a8aa-9550fdcc980b.aspx) (p. 1). Kuala Lumpur: Printed at the F.M.S. Govt. Press. (Retrieved from BookSG; Microfilm no.: NL263)
-</span>
+</div>
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed7.jpg" style="width: 100px; height: 100px;">
