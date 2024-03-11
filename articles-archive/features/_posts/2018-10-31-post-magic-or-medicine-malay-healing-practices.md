@@ -138,7 +138,7 @@ State controls and the exposure to Western education further put paid to the ser
 </tbody></table><br><br>
 
 <b>REFERENCE</b>
-<br>
+<br><br>
 	Burkill, I.H., &amp; Ismail Munshi. (1930). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669"><i>The medical book of Malayan medicine</i></a>. (Singapore: Botanic Gardens, call no. RCLOS 615.3209595 MED).
 </div><br>
 
