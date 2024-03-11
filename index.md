@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-4/jan-mar-2024/salvation-army-singapore/
-      button: The Salvation Army in Singapore
+      url: /vol-19/issue-4/jan-mar-2024/restoring-asian-films/
+      button: Restoring Classic Films in Asia
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 4/Salvation Army/Hero_img_SalvationArmy2b.jpg
+      background: /images/Vol 19 Issue 4/2 Restoring Classic
+        Films/Restoring_Asian_films_Hero_img.jpg
   - infopic:
       title: Singapore Bands in Wartime Vietnam
       subtitle: Podcast
