@@ -328,19 +328,15 @@ gong si, 教育出版公司, 1995), 102–3. (Call no. Chinese RSING 959.570092 
 [^7]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
 101.
 
-[^8]: Yeo Mang Thong 姚梦桐, 邱锡云和“钱子文”(“Khoo Seok Wan and ‘Qian Zi Wen’ ”),&nbsp; <em>亚__洲文化</em>  <em>Asian Culture</em> no.
-8 (1986): 57.
+[^8]: Yeo Mang Thong 姚梦桐, 邱锡云和“钱子文”(“Khoo Seok Wan and ‘Qian Zi Wen’ ”),&nbsp; <em>亚__洲文化</em>  <em>Asian Culture</em> no. 8 (1986): 57.
 
 [^9]: Yeo, 邱锡云和 “钱子文”, 58
 
-[^10]: Yeo, 邱锡云和 “钱子文”, 56. Khoo has another earlier work: “Qian Zi Wen”,
-purportedly published in 1899, has not been sighted.
+[^10]: Yeo, 邱锡云和 “钱子文”, 56. Khoo has another earlier work: “Qian Zi Wen”, purportedly published in 1899, has not been sighted.
 
 [^11]: Yingxin School Souvenir Magazine, 1938, 5–8.
 
-[^12]: “Issues Discussed at the Meeting held at Thian Hock Temple” <em>Lat Pau</em>,
-17 December 1906, 3, 10E࣡; “School History” Tuan Mong School’s 25th Anniversary,
-1.
+[^12]: “Issues Discussed at the Meeting held at Thian Hock Temple” <em>Lat Pau</em>, 17 December 1906, 3, 10E࣡; “School History” Tuan Mong School’s 25th Anniversary, 1.
 
 [^13]: Yoke Eng School’s Souvenir Magazine, 43–44.
 
@@ -350,9 +346,7 @@ Held at Thian Hock Temple” <em>Lat Pau</em>, &nbsp;26 December 1906, 3;
 Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
 407–9.
 
-[^15]: LKCRL collection: Elementary General Knowledge Suitable for Nanyang
-Chinese Schools, 1935; The Latest Moral Education Textbook for the Nanyang
-Chinese Primary Schools, 1941.
+[^15]: LKCRL collection: Elementary General Knowledge Suitable for Nanyang Chinese Schools, 1935; The Latest Moral Education Textbook for the Nanyang Chinese Primary Schools, 1941.
 
 [^16]: Jinan University 80th Anniversary Souvenir Magazine, 1988, 44–45.
 
