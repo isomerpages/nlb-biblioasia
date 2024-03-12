@@ -329,7 +329,7 @@ keywords, such as title or subject.
 
 [^11]: Yingxin School Souvenir Magazine, 1938, 5–8.
 
-[^12]: “Issues Discussed at the Meeting held at Thian Hock Temple” <i>Lat Pau</i>, 17 December 1906, 3, 10E࣡; “School History” Tuan Mong School’s 25th Anniversary, 1.
+[^12]: “Issues Discussed at the Meeting held at Thian Hock Temple” <i>Lat Pau</i>, 17 December 1906, 3, 10E࣡; School History” Tuan Mong School’s 25th Anniversary, 1.
 
 [^13]: Yoke Eng School’s Souvenir Magazine, 43–44.
 
