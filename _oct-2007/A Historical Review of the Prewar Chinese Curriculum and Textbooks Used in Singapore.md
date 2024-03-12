@@ -353,8 +353,7 @@ keywords, such as title or subject.
 
 [^23]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1928</i></a> (Singapore: Government Printing Office, 1928), 240. (Microfilm NL396)
 
-[^24]: For example, in the Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1929</i></a> (Singapore: Government Printing Office, 1929), 910 (Microfilm NL397); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1930</i></a> (Singapore: Government Printing Office, 1930), 745 (Microfilm NL397); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1931</i></a> (Singapore:
-Government Printing Office, 1931), 822. (Microfilm NL2921)
+[^24]: For example, in the Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1929</i></a> (Singapore: Government Printing Office, 1929), 910 (Microfilm NL397); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1930</i></a> (Singapore: Government Printing Office, 1930), 745 (Microfilm NL397); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1931</i></a>(Singapore: Government Printing Office, 1931), 822. (Microfilm NL2921)
 
 [^25]: Example of English and Chinese language readers are: Lim Chong Hsin, <i>My Book of ABC</i>, 1930; <i>New Chinese Language Textbooks</i>, vol. 2, 1924. (LKCRL collection).
 
