@@ -12,7 +12,7 @@ variant: markdown
 #### Studies on the education of overseas Chinese communities have often been carried out within the framework of examining the education policies and politics of China and that of the local governments. By examining other local events and factors, a more exact picture of the Chinese modern education in Singapore could be discerned.
 
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%201.JPG">
-<div style="background-color: white;">Elementary General Knowledge Suitable for Nanyang Chinese Schools). (1935). Shanghai: Chung Hwa Book Co.Celia Mary Ferguson and National Library Board, Singapore, 2008.</div>
+<div style="background-color: white;">Elementary General Knowledge Suitable for Nanyang Chinese Schools). (1935). <i>Shanghai: Chung Hwa Book Co.Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
 
 #### Introduction
 The Chinese society of Singapore in the 19th century was by and large,
@@ -75,7 +75,7 @@ to the students.[^8]
 
 
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%202.JPG">
-<div style="background-color: white;">Thousand Characters Textbook for Public Education). (1940). Shanghai: The Commercial Press.</div>
+<div style="background-color: white;">Thousand Characters Textbook for Public Education). (1940). <i>Shanghai: The Commercial Press.</i></div>
 
 In 1902, Khoo selected 479 characters from the original text and added
 another 521 more commonly used words to form a new Millenary Classics (Xin
@@ -154,7 +154,7 @@ writing textbooks for use in the Chinese schools in the 1920s.
 
 
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%203.JPG">
-<div style="background-color: white;">New Chinese Language Textbook. (1927). Shanghai: The Commercial Press.</div>
+<div style="background-color: white;">New Chinese Language Textbook. (1927). <i>Shanghai: The Commercial Press.</i></div>
 
 In 1923, the British Education Department explored the possibility of
 compiling textbooks locally, which would be suited to local needs.[^20]
@@ -174,7 +174,7 @@ all the text-books used in Chinese schools are published and printed in
 Shanghai”.[^24]
 
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%204.JPG">
-<div style="background-color: white;">Arithmetic Textbook for Nanyang Chinese Primary Schools. (1941), vol. 8. Distributed by: The Commercial Press (Singapore).</div>
+<div style="background-color: white;">Arithmetic Textbook for Nanyang Chinese Primary Schools. (1941), vol. 8. Distributed by: <i>The Commercial Press (Singapore).</i></div>
 
 #### Survey of Modern Chinese Textbooks Used in Local Schools
 The Chinese textbooks that were used in these modern schools in Singapore
@@ -208,7 +208,7 @@ A similar approach was also applied to subjects like History and Geography.[^27]
 
 
 <img style="width:80%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/presentation2.jpg">
-<div style="background-color: white;">Abacus for Upper-primary Schools. (1938), vols. 1–4. Distributed by: The World Book Co., Singapore.</div>
+<div style="background-color: white;">Abacus for Upper-primary Schools. (1938), vols. 1–4. Distributed by: <i>The World Book Co., Singapore.</i></div>
 
 Besides the subjects above, practical subjects that helped the students
 secure jobs after they graduated were also taught. There were textbooks
@@ -218,7 +218,7 @@ within English establishments. Letter-writing lessons showed the students
 how to draft simple correspondences should their future work require so.[^28]
 
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%206.JPG">
-<div style="background-color: white;">Letter-writing for Upper Primary Nanyang Schools. (1941), vol. 1. Distributed by: The World Book Co., Singapore.</div>
+<div style="background-color: white;">Letter-writing for Upper Primary Nanyang Schools. (1941), vol. 1. Distributed by: <i>The World Book Co., Singapore.</i></div>
 
 Students were also inculcated with general knowledge about the world they
 lived in. General Knowledge, Nature Study and Hygiene textbooks explained
@@ -229,7 +229,7 @@ types of transportation, personal hygiene to prevent the spreading of germs
 and many other issues.[^29]
 
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%207.JPG">
-<div style="background-color: white;">Nature Study for Upper Primary Schools. (1939), vol. 2. Distributed by: The World Book Co., Singapore.</div>
+<div style="background-color: white;">Nature Study for Upper Primary Schools. (1939), vol. 2. Distributed by: <i>The World Book Co., Singapore.</i></div>
 
 Besides the textbooks above, there were also textbooks that instilled
 values to mould and shape one’s character. Moral Education, Art and Music
@@ -241,7 +241,7 @@ fine arts and music. Students also learned teamwork and keeping good health
 through sports.
 
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%208.JPG">
-<div style="background-color: white;">The Latest Moral Education Textbook for the Nanyang Chinese Primary Schools). (1941). Distributed by Chung Hwa Book Co. (Singapore).</div>
+<div style="background-color: white;">The Latest Moral Education Textbook for the Nanyang Chinese Primary Schools). (1941). Distributed by <i>Chung Hwa Book Co. (Singapore).</i></div>
 
 While it appears that the modern Chinese education before 1941 had retained
 certain cultural and moral values of the old tradition, by and large, from
