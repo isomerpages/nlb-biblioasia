@@ -295,7 +295,7 @@ appreciation of the generous donations from the various individuals. Opening
 in November 2007, the Gallery is located at Level 10 of the National Library.
 These donated materials are available for consultation upon request at
 the Information Counter located at Level 11. Library patrons may search
-the textbook collection through the Library’s online catalogue at <a href="https://www.nlb.gov.sg/main/home" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/home</a> using
+the textbook collection through the Library’s online catalogue at <a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a> using
 keywords, such as title or subject.
 <br><br>
 
