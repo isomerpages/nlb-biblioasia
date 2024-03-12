@@ -315,14 +315,11 @@ keywords, such as title or subject.
 
 [^4]: Ke Mulin 柯木林, <i>Xin hua li shi ren wu lie zhuan</i>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628">新华历史人物列传</a> [Who’s Who in the Singapore Chinese Community] (Xinjiapo 新加坡: Jiao yu chu ban gong si, 教育出版公司, 1995), 102–3. (Call no. Chinese RSING 959.570092 WHO)
 
-[^5]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>,
-101.
+[^5]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>, 101.
 
-[^6]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>,
-101.
+[^6]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>, 101.
 
-[^7]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>,
-101.
+[^7]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>, 101.
 
 [^8]: Yeo Mang Thong 姚梦桐, 邱锡云和“钱子文”(“Khoo Seok Wan and ‘Qian Zi Wen’ ”),&nbsp; <i>亚__洲文化</i>  <i>Asian Culture</i> no. 8 (1986): 57.
 
