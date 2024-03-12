@@ -408,11 +408,10 @@ vols. 1 and 2, 1941. &nbsp;
 
 [^29]: LKCRL collection: _General Knowledge Textbook for Nanyang Chinese
 Primary S_chools, vol. 5, 1935; <em>Nature Study for Upper-primary Schools</em>,
-vol. 2, 1939; <em>Hygiene Textbook for Kindergarten</em>, 19uu, 1937.&lt;
+vol. 2, 1939; <em>Hygiene Textbook for Kindergarten</em>, 19uu, 1937.
 
 [^30]: LKCRL collection: <em>Standard Moral Education Textbook for Malayan Chinese Primary Schools</em>,
 vol. 2, 19--; <em>Beautiful Songs</em>, vols. 1–6, 1935. Private collection: <em>Extra-curricular Sports: Track and Field</em>,
 1936. &nbsp;
 
-[^31]: <em>Chinese Heritage Centre Bulletin</em>, no. 2 (September 2003),
-44–43.
+[^31]: <em>Chinese Heritage Centre Bulletin</em>, no. 2 (September 2003), 44–43.
