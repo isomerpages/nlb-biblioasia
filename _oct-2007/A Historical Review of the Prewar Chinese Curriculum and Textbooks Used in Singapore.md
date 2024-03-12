@@ -343,8 +343,7 @@ keywords, such as title or subject.
 
 [^18]: <i>Straits Settlements Government Gazettes</i>, 29 October 1920, no. 21, sections 10, 11, 18, 19.
 
-[^19]: <i>Straits Settlements Government Gazettes</i>, 11 September 1925, no. 15; <i>Straits Settlements Gvernment Gazettes</i>, 28 May 1926, no. 5; <i>Straits Settlements Government Gazettes</i>, 4 January 1929, no.
-4; <i>Straits Settlements Government Gazettes</i>, 22 January 1932, no. 132; <i>Straits Settlements Government Gazettes</i>, 14 May 1937, no. 40; <i>Straits Settlements Government Gazettes</i>, 7 January 1938, no. 40; <i>Straits Settlements Government Gazettes</i>, 20 May 1938, no. 1949.
+[^19]: <i>Straits Settlements Government Gazettes</i>, 11 September 1925, no. 15; <i>Straits Settlements Gvernment Gazettes</i>, 28 May 1926, no. 5; <i>Straits Settlements Government Gazettes</i>, 4 January 1929, no. 4; <i>Straits Settlements Government Gazettes</i>, 22 January 1932, no. 132; <i>Straits Settlements Government Gazettes</i>, 14 May 1937, no. 40; <i>Straits Settlements Government Gazettes</i>, 7 January 1938, no. 40; <i>Straits Settlements Government Gazettes</i>, 20 May 1938, no. 1949.
 
 [^20]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1923</i></a> (Singapore: Government Printing Office, 1923), 121. (Microfilm NL394)
 
