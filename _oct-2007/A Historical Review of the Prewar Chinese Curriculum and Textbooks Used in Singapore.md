@@ -9,7 +9,7 @@ description: Studies on the education of overseas Chinese communities have often
   Singapore could be discerned.
 variant: markdown
 ---
-#### Studies on the education of overseas Chinese communities have often been carried out within the framework of examining the education policies and politics of China and that of the local governments. By examining other local events and factors, a more exact picture of the Chinese modern education in Singapore could be discerned.
+i#### Studies on the education of overseas Chinese communities have often been carried out within the framework of examining the education policies and politics of China and that of the local governments. By examining other local events and factors, a more exact picture of the Chinese modern education in Singapore could be discerned.
 
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%201.JPG">
 <div style="background-color: white;">Elementary General Knowledge Suitable for Nanyang Chinese Schools). (1935). <i>Shanghai: Chung Hwa Book Co.Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
@@ -310,9 +310,9 @@ keywords, such as title or subject.
 [^1]: Straits Settlements, <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909">Annual Report 1887</a></i> (Singapore: Government Printing Office, 1887), 2 (Microfilm NL619); Straits Settlements, <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816069">Annual Report 1900</a></i> (Singapore:
 Government Printing Office, 1900), 82. (Microfilm NL1132)
 
-[^2]: Lee, Ting Hui, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648" rel="noopener noreferrer nofollow" target="_blank">Chinese Schools in British Malaya: Policies and Politics</a></em> (Singapore:
+[^2]: Lee, Ting Hui, <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648">Chinese Schools in British Malaya: Policies and Politics</a></i> (Singapore:
 South Seas Society, 2006), 3 (Call no. RSING 371.82995105951 LEE); Xu Suwu
-许苏吾, <em>Xinjiapo hua qiao jiao yu quan mao</em>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472332" rel="noopener noreferrer nofollow" target="_blank">新加坡华侨教育全貌</a> [Overview
+许苏吾, <i>Xinjiapo hua qiao jiao yu quan mao</i>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472332">新加坡华侨教育全貌</a> [Overview
 of overseas chinese education in Singapore] (Xinjiapo 新加坡: [Zhu zhe] [著者],
 1950), p. 14. (Call no. Chinese RCLOS 370.95957 HSW)
 
