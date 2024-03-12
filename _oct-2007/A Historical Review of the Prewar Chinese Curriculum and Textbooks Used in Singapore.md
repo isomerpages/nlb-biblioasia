@@ -304,7 +304,7 @@ keywords, such as title or subject.
 <b>Wee Tong Bao</b> 
 <br>Reference Librarian
 <br>Lee Kong Chian Reference Library
-<br>National Library<br><br>
+<br>National Library<br>
 
 #### NOTES
 [^1]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1887</i></a> (Singapore: Government Printing Office, 1887), 2 (Microfilm NL619); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816069"><i>Annual Report 1900</i></a>(Singapore: Government Printing Office, 1900), 82. (Microfilm NL1132)
