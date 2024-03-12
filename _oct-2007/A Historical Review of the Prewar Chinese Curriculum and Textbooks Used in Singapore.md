@@ -9,7 +9,7 @@ description: Studies on the education of overseas Chinese communities have often
   Singapore could be discerned.
 variant: markdown
 ---
-<h4>Studies on the education of overseas Chinese communities have often been carried out within the framework of examining the education policies and politics of China and that of the local governments. By examining other local events and factors, a more exact picture of the Chinese modern education in Singapore could be discerned.</h4>
+#### Studies on the education of overseas Chinese communities have often been carried out within the framework of examining the education policies and politics of China and that of the local governments. By examining other local events and factors, a more exact picture of the Chinese modern education in Singapore could be discerned.
 <div class="isomer-image-wrapper">
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%201.JPG">
 </div>
