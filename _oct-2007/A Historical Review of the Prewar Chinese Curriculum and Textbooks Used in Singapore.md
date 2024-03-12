@@ -10,13 +10,12 @@ description: Studies on the education of overseas Chinese communities have often
 variant: markdown
 ---
 #### Studies on the education of overseas Chinese communities have often been carried out within the framework of examining the education policies and politics of China and that of the local governments. By examining other local events and factors, a more exact picture of the Chinese modern education in Singapore could be discerned.
-<div class="isomer-image-wrapper">
+
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%201.JPG">
-</div>
-<p><em>Elementary General Knowledge Suitable for Nanyang Chinese Schools). (1935). Shanghai: Chung Hwa Book Co.Celia Mary Ferguson and National Library Board, Singapore, 2008.</em>
-</p>
-<h4><strong>Introduction</strong></h4>
-<p>The Chinese society of Singapore in the 19th century was by and large,
+<div style="background-color: white;">Elementary General Knowledge Suitable for Nanyang Chinese Schools). (1935). Shanghai: Chung Hwa Book Co.Celia Mary Ferguson and National Library Board, Singapore, 2008.</div>
+
+#### Introduction
+The Chinese society of Singapore in the 19th century was by and large,
 a transient community, comprising mostly Chinese immigrants from China.
 The majority of Chinese immigrants were males who had come to “Nanyang”
 in search of employment or to trade. Many of them left their families in
@@ -30,8 +29,9 @@ not merely a quantitative change within the Chinese community. With the
 increase in the number of females and children in the community, there
 were also fundamental changes in the nature of the community. The newly
 formed family units brought about an increasing need for social institutions,
-including schools for their children.</p>
-<p>The early 20th century was a time of uncertainty and great changes for
+including schools for their children.
+
+The early 20th century was a time of uncertainty and great changes for
 China. The Qing Dynasty, in its attempt to sustain the imperial regime,
 instituted a series of changes, including the modernisation of China’s
 education system. It was during this period that China started to transform
@@ -40,9 +40,10 @@ China had shaped similar initiatives of the Chinese overseas. The matter
 may be more complex and one can examine the reality of the matter by taking
 a closer look at the actual situation in Singapore, in particular, through
 the curriculum and school textbooks used by the local modern vernacular
-schools.</p>
-<h4><strong>At The Dawn of Modern Vernacular Chinese Education</strong></h4>
-<p>Up till the time when modern Chinese vernacular schools were founded in
+schools.
+
+#### At The Dawn of Modern Vernacular Chinese Education
+Up till the time when modern Chinese vernacular schools were founded in
 the first decade of the 20th century, Chinese classical texts like the
 Trimetrical Classics (Sanzijing), the Hundred Families Surnames (Baijiaxing)
 and the Millenary Classics (Qianziwen) were known to have been used in
@@ -53,8 +54,9 @@ just seven years old.[^4] In 1888, he returned to China to prepare for
 the Imperial Examinations. Six years later, he took part in the Imperial
 Examinations and was awarded the title of Ju Ren. Though educated in the
 Chinese classics, Song Ong Siang also described Khoo as “a man … strongly
-in sympathy with the revolutionary movement in China”.[^5]</p>
-<p>Evidence of this “strong sympathy” was his involvement in the founding
+in sympathy with the revolutionary movement in China”.[^5]
+
+Evidence of this “strong sympathy” was his involvement in the founding
 of the Singapore Chinese Girls’ Schools in 1899. He donated $3,000 towards
 the establishment of this school of the Straits Chinese, an act which Song
 felt was “worthy [of] more than [just] a passing mention, for at that time”,[^6]
@@ -69,13 +71,13 @@ who studied it for many years ended up still not being able to write their
 own names, compose simple letters or grasp the rudiments of the Chinese
 language. Hence, he concluded that if the teachers clung on to tradition
 and persisted in using these textbooks, it would ultimately be detrimental
-to the students.[^8]</p>
-<div class="isomer-image-wrapper">
+to the students.[^8]
+
+
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%202.JPG">
-</div>
-<p><em>Thousand Characters Textbook for Public Education). (1940). Shanghai: The Commercial Press.</em>
-</p>
-<p>In 1902, Khoo selected 479 characters from the original text and added
+<div style="background-color: white;">Thousand Characters Textbook for Public Education). (1940). Shanghai: The Commercial Press.</div>
+
+In 1902, Khoo selected 479 characters from the original text and added
 another 521 more commonly used words to form a new Millenary Classics (Xin
 Chu Qiziwen). As Khoo was a talented poet, he put this poetic flair to
 good use when he put these 1,000 characters into 52 sentences, each with
@@ -83,8 +85,9 @@ four characters. The sentences were grouped into eight chapters. The topics
 in these chapters ranged from teaching students how to recognise items
 from every day life and at the same time, instilling values in them.[^9]
 This new Millenary Classics is the earliest known existing textbook produced
-locally for elementary education in Singapore.[^10]</p>
-<p>As the winds of modernisation garnered greater momentum at the turn of
+locally for elementary education in Singapore.[^10]
+
+As the winds of modernisation garnered greater momentum at the turn of
 the 20th century, the major Chinese dialectal communities founded several
 modern Chinese schools in Singapore. The Cantonese founded the Yeung Ching
 School (Yangzheng Xuetang) in 1905. The next year, the Hakkas set up Yingxin
@@ -92,8 +95,9 @@ School and Khee Fatt School (Qifa Xuetang).[^11] In 1906, the Toh Lam School
 (Daonan Xuetang) and the Tuan Mong School (Duan Meng Xuetang) were founded
 by the Hokkiens and the Teochews respectively.[^12] As for the Hainanese,
 they too started a modern school, Yoke Eng School (Yu Ying Xuetang), for
-their children in 1910.[^13]</p>
-<p>Although the syllabi and teaching styles of these schools have not been
+their children in 1910.[^13]
+
+Although the syllabi and teaching styles of these schools have not been
 thoroughly documented, it is certain that they were not old-style schools
 (si shu). It was during this time that the 1911 Revolution in China also
 resulted in fundamental change in the socio-political culture for China.
@@ -112,21 +116,25 @@ China, the China printers normally had a “Nanyang” edition of their publicat
 that incorporated local “needs” and “conditions”.[^15] China also recognised
 this difference and even set up special colleges such as the Jinan Da Xue
 (Chi-Nan University) to train teachers specifically for Chinese schools
-in Nanyang.[^16]</p>
-<h4><strong>The Colonial Government and Textbooks for Local Needs</strong></h4>
-<p>After 1911, most of the colonial governments in Southeast Asia grew apprehensive
+in Nanyang.[^16]
+
+#### The Colonial Government and Textbooks for Local Needs
+After 1911, most of the colonial governments in Southeast Asia grew apprehensive
 of the political influences from China. In the Straits Settlements, the
 Colonial authorities passed the School Registration Ordinance of 1920.
 It heralded British direct involvement with the education of all children
 in Singapore. They were concerned no longer just with the English-stream
-schools and Malay vernacular schools.</p>
-<p>With this Ordinance, the local government sought to “gain control over
-all schools in the Colony”. The government officially declared three points:</p>
-<p>Firstly, that the schools shall be properly conducted as schools; secondly,
+schools and Malay vernacular schools.
+
+With this Ordinance, the local government sought to “gain control over
+all schools in the Colony”. The government officially declared three points:
+
+Firstly, that the schools shall be properly conducted as schools; secondly,
 that the teachers in them have efficient training for teaching, and thirdly,
 that the teaching shall not be of such a kind that is against the interest
-of the Government of the Colony.[^17]</p>
-<p>Under this Ordinance, both the managers and teachers of all schools were
+of the Government of the Colony.[^17]
+
+Under this Ordinance, both the managers and teachers of all schools were
 required to register with the Education Department within three months,
 for existing schools, and one month for new schools. In addition, any changes
 in the teaching staff or committee of management of the registered schools
@@ -134,20 +142,21 @@ had to be reported to the Education Department within one month. Every
 registered school was also to be opened to inspections by the Director
 of Education and he was empowered to declare schools unlawful if the schools,
 the teachers or the managers were found to be involved in political propaganda
-detrimental (or prejudicial) to the interests of the Colony.[^18]</p>
-<p>To ensure that the objectives of the Ordinance were met, the Ordinance
+detrimental (or prejudicial) to the interests of the Colony.[^18]
+
+To ensure that the objectives of the Ordinance were met, the Ordinance
 and the General Regulations were repeatedly amended to make them more effective.
 The first amendment to the Ordinance was made in 1925 and it was amended
 again in the following year to make it even more stringent. The General
 Regulations were also revised for the same purpose.[^19] In addition to
 legislation, the Straits Settlements Education Department also started
-writing textbooks for use in the Chinese schools in the 1920s.</p>
-<div class="isomer-image-wrapper">
+writing textbooks for use in the Chinese schools in the 1920s.
+
+
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%203.JPG">
-</div>
-<p><em>New Chinese Language Textbook. (1927). Shanghai: The Commercial Press.</em>
-</p>
-<p>In 1923, the British Education Department explored the possibility of
+<div style="background-color: white;">New Chinese Language Textbook. (1927). Shanghai: The Commercial Press.</div>
+
+In 1923, the British Education Department explored the possibility of
 compiling textbooks locally, which would be suited to local needs.[^20]
 The preparation of the books was slightly delayed, but by 1925, it was
 reported that “primary school readers and text-books on hygiene and geography
@@ -162,14 +171,13 @@ written Readers by a local firm in 1928.[^23] However, it appears that
 these textbooks were hardly used in the Chinese vernacular schools. From
 1929 onwards, the <em>Straits Settlements Annual Reports</em> reported, “practically
 all the text-books used in Chinese schools are published and printed in
-Shanghai”.[^24]t</p>
-<div class="isomer-image-wrapper">
+Shanghai”.[^24]
+
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%204.JPG">
-</div>
-<p><em>Arithmetic Textbook for Nanyang Chinese Primary Schools. (1941), vol. 8. Distributed by: The Commercial Press (Singapore).</em>
-</p>
-<h4><strong>Survey of Modern Chinese Textbooks Used in Local Schools</strong></h4>
-<p>The Chinese textbooks that were used in these modern schools in Singapore
+<div style="background-color: white;">Arithmetic Textbook for Nanyang Chinese Primary Schools. (1941), vol. 8. Distributed by: The Commercial Press (Singapore).</div>
+
+#### Survey of Modern Chinese Textbooks Used in Local Schools
+The Chinese textbooks that were used in these modern schools in Singapore
 covered a wide range of subjects. Students were taught Chinese (Guo Wen
 Guo Yu), English (Ying Yu ፞J), Letter-writing (Chi Du), Mathematics (Suan
 Shu), Abacus (Zhu Suan), Geography (Di Li), History (Li Shi), Science (Ke
@@ -181,8 +189,9 @@ from the textbooks that survived till today, we could see that the schools
 of that period provided their students with a modern education, one that
 differed greatly from the old-style private teaching where the students
 recited the lines of the Confucian classics after their teachers and committed
-these texts to memory.</p>
-<p>An examination of the textbooks on these subjects showed that they broke
+these texts to memory.
+
+An examination of the textbooks on these subjects showed that they broke
 away from the traditional curricula (ie. the Confucian classics) and were
 similar to the Western tradition of education. Learning took place on a
 progressive path. In the case of languages, students were introduced to
@@ -195,62 +204,61 @@ like Mathematics, simple concepts such as counting, addition and subtraction
 were taught before the students learned about multiplication and division.
 For the students in higher levels, they were introduced to specialised
 branches of mathematics such as Algebra, Geometry and Trigonometry.[^26]
-A similar approach was also applied to subjects like History and Geography.[^27]</p>
-<div class="isomer-image-wrapper">
+A similar approach was also applied to subjects like History and Geography.[^27]
+
+
 <img style="width:80%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/presentation2.jpg">
-</div>
-<p><em>Abacus for Upper-primary Schools. (1938), vols. 1–4. Distributed by: The World Book Co., Singapore.</em>
-</p>
-<p>Besides the subjects above, practical subjects that helped the students
+<div style="background-color: white;">Abacus for Upper-primary Schools. (1938), vols. 1–4. Distributed by: The World Book Co., Singapore.</div>
+
+Besides the subjects above, practical subjects that helped the students
 secure jobs after they graduated were also taught. There were textbooks
 on Abacus and Letter-writing. Equipped with the knowledge of how to use
 the abacus, students could work as book keeping clerks in shops and even
 within English establishments. Letter-writing lessons showed the students
-how to draft simple correspondences should their future work require so.[^28]</p>
-<div class="isomer-image-wrapper">
+how to draft simple correspondences should their future work require so.[^28]
+
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%206.JPG">
-</div>
-<p><em>Letter-writing for Upper Primary Nanyang Schools. (1941), vol. 1. Distributed by: The World Book Co., Singapore.</em>
-</p>
-<p>Students were also inculcated with general knowledge about the world they
+<div style="background-color: white;">Letter-writing for Upper Primary Nanyang Schools. (1941), vol. 1. Distributed by: The World Book Co., Singapore.</div>
+
+Students were also inculcated with general knowledge about the world they
 lived in. General Knowledge, Nature Study and Hygiene textbooks explained
 the changes in housing as human beings evolved (from the caves to the trees
 and eventually houses), parts of a plant and how they pollinate, organs
 of a modern government (parliament, constitutions, courts, etc), various
 types of transportation, personal hygiene to prevent the spreading of germs
-and many other issues.[^29]</p>
-<div class="isomer-image-wrapper">
+and many other issues.[^29]
+
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%207.JPG">
-</div>
-<p><em>Nature Study for Upper Primary Schools. (1939), vol. 2. Distributed by: The World Book Co., Singapore.</em>
-</p>
-<p>Besides the textbooks above, there were also textbooks that instilled
+<div style="background-color: white;">Nature Study for Upper Primary Schools. (1939), vol. 2. Distributed by: The World Book Co., Singapore.</div>
+
+Besides the textbooks above, there were also textbooks that instilled
 values to mould and shape one’s character. Moral Education, Art and Music
 were taught in schools too.[^30] In Moral Education, values that were perpetuated
 in the Confucian texts such as respect to the elders, good behaviour, cherish
 public property, care for another person and other similar subject matters
 were taught. Art and music lessons were held to teach students how to appreciate
 fine arts and music. Students also learned teamwork and keeping good health
-through sports.</p>
-<div class="isomer-image-wrapper">
+through sports.
+
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%208.JPG">
-</div>
-<p><em>The Latest Moral Education Textbook for the Nanyang Chinese Primary Schools). (1941). Distributed by Chung Hwa Book Co. (Singapore).</em>
-</p>
-<p>While it appears that the modern Chinese education before 1941 had retained
+<div style="background-color: white;">The Latest Moral Education Textbook for the Nanyang Chinese Primary Schools). (1941). Distributed by Chung Hwa Book Co. (Singapore).</div>
+
+While it appears that the modern Chinese education before 1941 had retained
 certain cultural and moral values of the old tradition, by and large, from
 the curriculum and textbooks used in the schools, we can deduce that Chinese
 education in Singapore had evolved into a modern form. Besides the influences
 from the changes and practices in China and in the English schools, some
 Chinese in Singapore had also taken the lead themselves, just as Khoo had
-shown the way.</p>
-<h4><strong>Conclusion: Sources and Location</strong></h4>
-<p>Studies on the education of the Chinese communities overseas have often
+shown the way.
+
+#### Conclusion: Sources and Location
+Studies on the education of the Chinese communities overseas have often
 been carried out within the framework of examining education policies and
 politics of China and that of the local governments. By examining other
 local events and factors, a more exact picture of the Chinese modern education
-in Singapore could be mapped out.</p>
-<p>Firstly, from the efforts of Khoo, we can see that Chinese education in
+in Singapore could be mapped out.
+
+Firstly, from the efforts of Khoo, we can see that Chinese education in
 Singapore did not entirely follow China’s lead. Besides Khoo, there were
 many like-minded individuals who played an active role in setting up schools
 for the Chinese community in Singapore. These school founders were propelled
@@ -259,14 +267,16 @@ them to chart out an education that was best suited to the environment
 here. They had to ensure that the curriculum taught were not just propagation
 of tradition values but included practical skills and modern values, which
 would equip the students adequately to face the challenges of the “modern
-world”.</p>
-<p>Currently in Singapore, besides private individuals, several institutions
+world”.
+
+Currently in Singapore, besides private individuals, several institutions
 are known to have collections of these textbooks used before 1941. These
 institutions include: the National University of Singapore Chinese Library,
 Singapore History Museum, Chinese Heritage Centre, Singapore Federation
 of Chinese Clans Associations and the Lee Kong Chian Reference Library
-of the National Library, Singapore.</p>
-<p>Due to the antiquarian nature of these books, they are generally not available
+of the National Library, Singapore.
+
+Due to the antiquarian nature of these books, they are generally not available
 to the public. Nevertheless, these institutions have opened their collection
 to the public in other ways. For example, in 2003, when the Chinese Heritage
 Centre received a donation of Chinese-school textbooks, periodicals, school
@@ -275,8 +285,9 @@ an Indonesia-Chinese, Professor Eddy Hermawan,[^31] the Centre organised
 an exhibition titled “Grooming Future Generations Through Education: Chinese-School
 Textbooks in Singapore, Malaysia and Indonesia before 1965”, in 2003. Items
 from the National Library’s collection and private individuals were also
-showcased at the exhibition.</p>
-<p>Since the opening of the Lee Kong Chian Reference Library at Victoria
+showcased at the exhibition.
+
+Since the opening of the Lee Kong Chian Reference Library at Victoria
 Street in 2005, the Library has received numerous donations, including
 several hundreds volumes of textbooks. A selection of these textbooks will
 be displayed at the National Library’s newly created Donors Gallery in
@@ -285,50 +296,58 @@ in November 2007, the Gallery is located at Level 10 of the National Library.
 These donated materials are available for consultation upon request at
 the Information Counter located at Level 11. Library patrons may search
 the textbook collection through the Library’s online catalogue at <a href="https://www.nlb.gov.sg/main/home" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/home</a> using
-keywords, such as title or subject.</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
+keywords, such as title or subject.
+<br><br>
+
+
 <img style="width: 100px; height: 100px;" height="auto" width="100%" src="/images/Authors/Tong%20Bao%20.jpg">
-</div>
-<p><strong>Wee Tong Bao</strong> 
+<b>Wee Tong Bao</b> 
 <br>Reference Librarian
 <br>Lee Kong Chian Reference Library
-<br>National Library</p>
-<h4><strong>NOTES</strong></h4>
-<p>[^1]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1887</a></em> (Singapore:
+<br>National Library<br><br>
+
+#### NOTES
+[^1]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1887</a></em> (Singapore:
 Government Printing Office, 1887), 2 (Microfilm NL619); Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816069" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1900</a></em> (Singapore:
-Government Printing Office, 1900), 82. (Microfilm NL1132)</p>
-<p>[^2]: Lee, Ting Hui, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648" rel="noopener noreferrer nofollow" target="_blank">Chinese Schools in British Malaya: Policies and Politics</a></em> (Singapore:
+Government Printing Office, 1900), 82. (Microfilm NL1132)
+
+[^2]: Lee, Ting Hui, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648" rel="noopener noreferrer nofollow" target="_blank">Chinese Schools in British Malaya: Policies and Politics</a></em> (Singapore:
 South Seas Society, 2006), 3 (Call no. RSING 371.82995105951 LEE); Xu Suwu
 许苏吾, <em>Xinjiapo hua qiao jiao yu quan mao</em>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472332" rel="noopener noreferrer nofollow" target="_blank">新加坡华侨教育全貌</a> [Overview
 of overseas chinese education in Singapore] (Xinjiapo 新加坡: [Zhu zhe] [著者],
-1950), p. 14. (Call no. Chinese RCLOS 370.95957 HSW)</p>
-<p>[^3]: Song Ong Siang, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese in Singapore</a></em> (Singapore:
-Oxford University Press, 1984), 101. (Call no. RSING 959.57 SON)</p>
-<p>[^4]: Ke Mulin 柯木林, <em>Xin hua li shi ren wu lie zhuan</em>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628" rel="noopener noreferrer nofollow" target="_blank">新华历史人物列传</a> [Who’s
+1950), p. 14. (Call no. Chinese RCLOS 370.95957 HSW)
+
+[^3]: Song Ong Siang, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese in Singapore</a></em> (Singapore:
+Oxford University Press, 1984), 101. (Call no. RSING 959.57 SON)
+
+[^4]: Ke Mulin 柯木林, <em>Xin hua li shi ren wu lie zhuan</em>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628" rel="noopener noreferrer nofollow" target="_blank">新华历史人物列传</a> [Who’s
 Who in the Singapore Chinese Community] (Xinjiapo 新加坡: Jiao yu chu ban
-gong si, 教育出版公司, 1995), 102–3. (Call no. Chinese RSING 959.570092 WHO)</p>
-<p>[^5]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
-101.</p>
-<p>[^6]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
-101.</p>
-<p>[^7]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
-101.</p>
-<p>[^8]: Yeo Mang Thong 姚梦桐, 邱锡云和“钱子文”(“Khoo Seok Wan and ‘Qian Zi Wen’ ”),&nbsp; <em>亚__洲文化</em>  <em>Asian Culture</em> no.
-8 (1986): 57.</p>
-<p>[^9]: Yeo, 邱锡云和 “钱子文”, 58</p>
-<p>[^10]: Yeo, 邱锡云和 “钱子文”, 56. Khoo has another earlier work: “Qian Zi Wen”,
-purportedly published in 1899, has not been sighted.</p>
-<p>[^11]: Yingxin School Souvenir Magazine, 1938, 5–8.</p>
-<p>[^12]: “Issues Discussed at the Meeting held at Thian Hock Temple” <em>Lat Pau</em>,
+gong si, 教育出版公司, 1995), 102–3. (Call no. Chinese RSING 959.570092 WHO)
+
+[^5]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
+101.
+
+[^6]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
+101.
+
+[^7]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
+101.
+
+[^8]: Yeo Mang Thong 姚梦桐, 邱锡云和“钱子文”(“Khoo Seok Wan and ‘Qian Zi Wen’ ”),&nbsp; <em>亚__洲文化</em>  <em>Asian Culture</em> no.
+8 (1986): 57.
+
+[^9]: Yeo, 邱锡云和 “钱子文”, 58
+
+[^10]: Yeo, 邱锡云和 “钱子文”, 56. Khoo has another earlier work: “Qian Zi Wen”,
+purportedly published in 1899, has not been sighted.
+
+[^11]: Yingxin School Souvenir Magazine, 1938, 5–8.
+
+[^12]: “Issues Discussed at the Meeting held at Thian Hock Temple” <em>Lat Pau</em>,
 17 December 1906, 3, 10E࣡; “School History” Tuan Mong School’s 25th Anniversary,
-1.</p>
-<p>[^13]: Yoke Eng School’s Souvenir Magazine, 43–44.</p>
+1.
+
+[^13]: Yoke Eng School’s Souvenir Magazine, 43–44.<p></p>
 <p>[^14]: “An Important Meeting of the Hokkien Merchants, <em>Lat Pau</em>,
 17 December 1906, 3, 10; “Announcement of the Decisions Made at the Meeting
 Held at Thian Hock Temple” <em>Lat Pau</em>, &nbsp;26 December 1906, 3;
