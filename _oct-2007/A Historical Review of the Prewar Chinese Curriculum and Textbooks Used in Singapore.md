@@ -307,8 +307,7 @@ keywords, such as title or subject.
 <br>National Library<br><br>
 
 #### NOTES
-[^1]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1887</i></a> (Singapore: Government Printing Office, 1887), 2 (Microfilm NL619); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816069"><i>Annual Report 1900</i></a> (Singapore:
-Government Printing Office, 1900), 82. (Microfilm NL1132)
+[^1]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1887</i></a> (Singapore: Government Printing Office, 1887), 2 (Microfilm NL619); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816069"><i>Annual Report 1900</i></a>(Singapore: Government Printing Office, 1900), 82. (Microfilm NL1132)
 
 [^2]: Lee, Ting Hui, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648"><i>Chinese Schools in British Malaya: Policies and Politics</i></a> (Singapore: South Seas Society, 2006), 3 (Call no. RSING 371.82995105951 LEE); Xu Suwu 许苏吾, <i>Xinjiapo hua qiao jiao yu quan mao</i>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472332">新加坡华侨教育全貌</a> [Overview of overseas chinese education in Singapore] (Xinjiapo 新加坡: [Zhu zhe] [著者], 1950), p. 14. (Call no. Chinese RCLOS 370.95957 HSW)
 
