@@ -312,23 +312,20 @@ Government Printing Office, 1900), 82. (Microfilm NL1132)
 
 [^2]: Lee, Ting Hui, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648"><i>Chinese Schools in British Malaya: Policies and Politics</i></a> (Singapore: South Seas Society, 2006), 3 (Call no. RSING 371.82995105951 LEE); Xu Suwu 许苏吾, <i>Xinjiapo hua qiao jiao yu quan mao</i>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472332">新加坡华侨教育全貌</a> [Overview of overseas chinese education in Singapore] (Xinjiapo 新加坡: [Zhu zhe] [著者], 1950), p. 14. (Call no. Chinese RCLOS 370.95957 HSW)
 
-[^3]: Song Ong Siang, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese in Singapore</a></em> (Singapore:
-Oxford University Press, 1984), 101. (Call no. RSING 959.57 SON)
+[^3]: Song Ong Siang, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese in Singapore</i></a> (Singapore: Oxford University Press, 1984), 101. (Call no. RSING 959.57 SON)
 
-[^4]: Ke Mulin 柯木林, <em>Xin hua li shi ren wu lie zhuan</em>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628" rel="noopener noreferrer nofollow" target="_blank">新华历史人物列传</a> [Who’s
-Who in the Singapore Chinese Community] (Xinjiapo 新加坡: Jiao yu chu ban
-gong si, 教育出版公司, 1995), 102–3. (Call no. Chinese RSING 959.570092 WHO)
+[^4]: Ke Mulin 柯木林, <i>Xin hua li shi ren wu lie zhuan</i>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628">新华历史人物列传</a> [Who’s Who in the Singapore Chinese Community] (Xinjiapo 新加坡: Jiao yu chu ban gong si, 教育出版公司, 1995), 102–3. (Call no. Chinese RSING 959.570092 WHO)
 
-[^5]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
+[^5]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>,
 101.
 
-[^6]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
+[^6]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>,
 101.
 
-[^7]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
+[^7]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>,
 101.
 
-[^8]: Yeo Mang Thong 姚梦桐, 邱锡云和“钱子文”(“Khoo Seok Wan and ‘Qian Zi Wen’ ”),&nbsp; <em>亚__洲文化</em>  <em>Asian Culture</em> no. 8 (1986): 57.
+[^8]: Yeo Mang Thong 姚梦桐, 邱锡云和“钱子文”(“Khoo Seok Wan and ‘Qian Zi Wen’ ”),&nbsp; <i>亚__洲文化</i>  <i>Asian Culture</i> no. 8 (1986): 57.
 
 [^9]: Yeo, 邱锡云和 “钱子文”, 58
 
@@ -336,33 +333,28 @@ gong si, 教育出版公司, 1995), 102–3. (Call no. Chinese RSING 959.570092 
 
 [^11]: Yingxin School Souvenir Magazine, 1938, 5–8.
 
-[^12]: “Issues Discussed at the Meeting held at Thian Hock Temple” <em>Lat Pau</em>, 17 December 1906, 3, 10E࣡; “School History” Tuan Mong School’s 25th Anniversary, 1.
+[^12]: “Issues Discussed at the Meeting held at Thian Hock Temple” <i>Lat Pau</i>, 17 December 1906, 3, 10E࣡; “School History” Tuan Mong School’s 25th Anniversary, 1.
 
 [^13]: Yoke Eng School’s Souvenir Magazine, 43–44.
 
-[^14]: “An Important Meeting of the Hokkien Merchants, <em>Lat Pau</em>,
+[^14]: “An Important Meeting of the Hokkien Merchants, <i>Lat Pau</i>,
 17 December 1906, 3, 10; “Announcement of the Decisions Made at the Meeting
-Held at Thian Hock Temple” <em>Lat Pau</em>, &nbsp;26 December 1906, 3;
-Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
+Held at Thian Hock Temple” <i>Lat Pau</i>, &nbsp;26 December 1906, 3;
+Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>,
 407–9.
 
 [^15]: LKCRL collection: Elementary General Knowledge Suitable for Nanyang Chinese Schools, 1935; The Latest Moral Education Textbook for the Nanyang Chinese Primary Schools, 1941.
 
 [^16]: Jinan University 80th Anniversary Souvenir Magazine, 1988, 44–45.
 
-[^17]: <em>Straits Settlements Legislative Council Proceedings</em>, 31
+[^17]: <i>Straits Settlements Legislative Council Proceedings</i>, 31
 May 1921.
 
-[^18]: <em>Straits Settlements Government Gazettes</em>, 29 October 1920,
+[^18]: <i>Straits Settlements Government Gazettes</i>, 29 October 1920,
 no. 21, sections 10, 11, 18, 19.
 
-[^19]: <em>Straits Settlements Government Gazettes</em>, 11 September 1925,
-no. 15; <em>Straits Settlements Government Gazettes</em>, 28 May 1926, no.
-5; <em>Straits Settlements Government Gazettes</em>, 4 January 1929, no.
-4; <em>Straits Settlements Government Gazettes</em>, 22 January 1932, no.
-132; <em>Straits Settlements Government Gazettes</em>, 14 May 1937, no.
-40; <em>Straits Settlements Government Gazettes</em>, 7 January 1938, no.
-40; <em>Straits Settlements Government Gazettes</em>, 20 May 1938, no. 1949.
+[^19]: <i>Straits Settlements Government Gazettes</i>, 11 September 1925, no. 15; <i>Straits Settlements Government Gazettes</i>, 28 May 1926, no. 5; <i>Straits Settlements Government Gazettes</i>, 4 January 1929, no.
+4; <i>Straits Settlements Government Gazettes</i>, 22 January 1932, no. 132; <i>Straits Settlements Government Gazettes</i>, 14 May 1937, no. 40; <i>Straits Settlements Government Gazettes</i>, 7 January 1938, no. 40; <i>Straits Settlements Government Gazettes</i>, 20 May 1938, no. 1949.
 
 [^20]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1923</a></em> (Singapore:
 Government Printing Office, 1923), 121. (Microfilm NL394)
