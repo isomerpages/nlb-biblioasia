@@ -307,8 +307,7 @@ keywords, such as title or subject.
 <br>National Library<br><br>
 
 #### NOTES
-[^1]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1887</a></em> (Singapore:
-Government Printing Office, 1887), 2 (Microfilm NL619); Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816069" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1900</a></em> (Singapore:
+[^1]: Straits Settlements, <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909">Annual Report 1887</a></i> (Singapore: Government Printing Office, 1887), 2 (Microfilm NL619); Straits Settlements, <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816069">Annual Report 1900</a></i> (Singapore:
 Government Printing Office, 1900), 82. (Microfilm NL1132)
 
 [^2]: Lee, Ting Hui, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648" rel="noopener noreferrer nofollow" target="_blank">Chinese Schools in British Malaya: Policies and Politics</a></em> (Singapore:
