@@ -333,23 +333,17 @@ keywords, such as title or subject.
 
 [^13]: Yoke Eng School’s Souvenir Magazine, 43–44.
 
-[^14]: “An Important Meeting of the Hokkien Merchants, <i>Lat Pau</i>,
-17 December 1906, 3, 10; “Announcement of the Decisions Made at the Meeting
-Held at Thian Hock Temple” <i>Lat Pau</i>, &nbsp;26 December 1906, 3;
-Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>,
-407–9.
+[^14]: “An Important Meeting of the Hokkien Merchants, <i>Lat Pau</i>, 17 December 1906, 3, 10; “Announcement of the Decisions Made at the Meeting Held at Thian Hock Temple” <i>Lat Pau</i>, &nbsp;26 December 1906, 3; Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>, 407–9.
 
 [^15]: LKCRL collection: Elementary General Knowledge Suitable for Nanyang Chinese Schools, 1935; The Latest Moral Education Textbook for the Nanyang Chinese Primary Schools, 1941.
 
 [^16]: Jinan University 80th Anniversary Souvenir Magazine, 1988, 44–45.
 
-[^17]: <i>Straits Settlements Legislative Council Proceedings</i>, 31
-May 1921.
+[^17]: <i>Straits Settlements Legislative Council Proceedings</i>, 31 May 1921.
 
-[^18]: <i>Straits Settlements Government Gazettes</i>, 29 October 1920,
-no. 21, sections 10, 11, 18, 19.
+[^18]: <i>Straits Settlements Government Gazettes</i>, 29 October 1920, no. 21, sections 10, 11, 18, 19.
 
-[^19]: <i>Straits Settlements Government Gazettes</i>, 11 September 1925, no. 15; <i>Straits Settlements Government Gazettes</i>, 28 May 1926, no. 5; <i>Straits Settlements Government Gazettes</i>, 4 January 1929, no.
+[^19]: <i>Straits Settlements Government Gazettes</i>, 11 September 1925, no. 15; <i>Straits Settlements Gvernment Gazettes</i>, 28 May 1926, no. 5; <i>Straits Settlements Government Gazettes</i>, 4 January 1929, no.
 4; <i>Straits Settlements Government Gazettes</i>, 22 January 1932, no. 132; <i>Straits Settlements Government Gazettes</i>, 14 May 1937, no. 40; <i>Straits Settlements Government Gazettes</i>, 7 January 1938, no. 40; <i>Straits Settlements Government Gazettes</i>, 20 May 1938, no. 1949.
 
 [^20]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1923</i></a> (Singapore: Government Printing Office, 1923), 121. (Microfilm NL394)
