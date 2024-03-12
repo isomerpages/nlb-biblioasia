@@ -362,39 +362,21 @@ no. 21, sections 10, 11, 18, 19.
 
 [^22]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1927</i></a> (Singapore: Government Printing Office, 1927), 176. (Microfilm NL396)
 
-[^23]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1928</a></em> (Singapore:
-Government Printing Office, 1928), 240. (Microfilm NL396)
+[^23]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1928</i></a> (Singapore: Government Printing Office, 1928), 240. (Microfilm NL396)
 
-[^24]: For example, in the Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1929</a></em> (Singapore:
-Government Printing Office, 1929), 910 (Microfilm NL397); Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1930</a></em> (Singapore:
-Government Printing Office, 1930), 745 (Microfilm NL397); Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1931</a></em> (Singapore:
+[^24]: For example, in the Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1929</i></a> (Singapore: Government Printing Office, 1929), 910 (Microfilm NL397); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1930</i></a> (Singapore: Government Printing Office, 1930), 745 (Microfilm NL397); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1931</i></a> (Singapore:
 Government Printing Office, 1931), 822. (Microfilm NL2921)
 
-[^25]: Example of English and Chinese language readers are: Lim Chong
-Hsin, <em>My Book of ABC</em>, 1930; <em>New Chinese Language Textbooks</em>,
-vol. 2, 1924. (LKCRL collection).
+[^25]: Example of English and Chinese language readers are: Lim Chong Hsin, <i>My Book of ABC</i>, 1930; <i>New Chinese Language Textbooks</i>, vol. 2, 1924. (LKCRL collection).
 
-[^26]: LKCRL collection: <em>Arithmetic Textbook for Nanyang Chinese Primary Schools</em>,
-vol 1, 1930; _Arithmetic Textbook for Nanyang Chinese Primary Sch_ools,
-vol. 8, 1941. &nbsp;
+[^26]: LKCRL collection: <i>Arithmetic Textbook for Nanyang Chinese Primary Schools</i>, vol 1, 1930; <i>Arithmetic Textbook for Nanyang Chinese Primary Schools</i>, vol. 8, 1941. &nbsp;
 
-[^27]: Examples of History textbooks are: <em>History Textbooks for Nanyang Upper Primary Schools</em>,
-vols. 1 and 4. Examples of Geography textbooks are: <em>Geography Textbooks for Nanyang Upper Primary Schools</em>,
-vols. 1 and 4, 1941. Note: The last two Geography textbooks are from the
-Singapore History Museum.
+[^27]: Examples of History textbooks are: <i>History Textbooks for Nanyang Upper Primary Schools</i>, vols. 1 and 4. Examples of Geography textbooks are: <i>Geography Textbooks for Nanyang Upper Primary Schools</i>, vols. 1 and 4, 1941. Note: The last two Geography textbooks are from the Singapore History Museum.
 
-[^28]: Some examples of Abacus and Letter-writing textbooks in the LKCRL
-collections are: <em>Abacus for Upper-primary Schools</em>, vols. 1–4, 1938;
-Annotated Letter-writing for Students, part 1, 1919; Letter-writing for
-Lower-primary Nanyang Schools, vols. 7 and 8, 1941; <em>Letter-writing for Upper -primary Nanyang Schools</em>,
-vols. 1 and 2, 1941. &nbsp;
+[^28]: Some examples of Abacus and Letter-writing textbooks in the LKCRL collections are: <i>Abacus for Upper-primary Schools</i>, vols. 1–4, 1938; Annotated Letter-writing for Students, part 1, 1919; Letter-writing for Lower-primary Nanyang Schools, vols. 7 and 8, 1941; <i>Letter-writing for Upper -primary Nanyang Schools</i>, vols. 1 and 2, 1941. &nbsp;
 
-[^29]: LKCRL collection: _General Knowledge Textbook for Nanyang Chinese
-Primary S_chools, vol. 5, 1935; <em>Nature Study for Upper-primary Schools</em>,
-vol. 2, 1939; <em>Hygiene Textbook for Kindergarten</em>, 19uu, 1937.
+[^29]: LKCRL collection: <i>General Knowledge Textbook for Nanyang Chinese Primary Schools</i>, vol. 5, 1935; <i>Nature Study for Upper-primary Schools</i>, vol. 2, 1939; <i>Hygiene Textbook for Kindergarten</i>, 19uu, 1937.
 
-[^30]: LKCRL collection: <em>Standard Moral Education Textbook for Malayan Chinese Primary Schools</em>,
-vol. 2, 19--; <em>Beautiful Songs</em>, vols. 1–6, 1935. Private collection: <em>Extra-curricular Sports: Track and Field</em>,
-1936. &nbsp;
+[^30]: LKCRL collection: <i>Standard Moral Education Textbook for Malayan Chinese Primary Schools</i>, vol. 2, 19--; <i>Beautiful Songs</i>, vols. 1–6, 1935. Private collection: <i>Extra-curricular Sports: Track and Field</i>, 1936. &nbsp;
 
-[^31]: <em>Chinese Heritage Centre Bulletin</em>, no. 2 (September 2003), 44–43.
+[^31]: <i>Chinese Heritage Centre Bulletin</i>, no. 2 (September 2003), 44–43.
