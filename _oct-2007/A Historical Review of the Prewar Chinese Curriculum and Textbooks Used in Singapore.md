@@ -295,7 +295,7 @@ appreciation of the generous donations from the various individuals. Opening
 in November 2007, the Gallery is located at Level 10 of the National Library.
 These donated materials are available for consultation upon request at
 the Information Counter located at Level 11. Library patrons may search
-the textbook collection through the Library’s online catalogue at <a href="https://www.nlb.gov.sg/main/home" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/home</a> using
+the textbook collection through the Library’s online catalogue at <a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a> using
 keywords, such as title or subject.
 <br><br>
 
@@ -304,120 +304,67 @@ keywords, such as title or subject.
 <b>Wee Tong Bao</b> 
 <br>Reference Librarian
 <br>Lee Kong Chian Reference Library
-<br>National Library<br><br>
+<br>National Library<br>
 
 #### NOTES
-[^1]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1887</a></em> (Singapore:
-Government Printing Office, 1887), 2 (Microfilm NL619); Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816069" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1900</a></em> (Singapore:
-Government Printing Office, 1900), 82. (Microfilm NL1132)
+[^1]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1887</i></a> (Singapore: Government Printing Office, 1887), 2 (Microfilm NL619); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816069"><i>Annual Report 1900</i></a>(Singapore: Government Printing Office, 1900), 82. (Microfilm NL1132)
 
-[^2]: Lee, Ting Hui, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648" rel="noopener noreferrer nofollow" target="_blank">Chinese Schools in British Malaya: Policies and Politics</a></em> (Singapore:
-South Seas Society, 2006), 3 (Call no. RSING 371.82995105951 LEE); Xu Suwu
-许苏吾, <em>Xinjiapo hua qiao jiao yu quan mao</em>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472332" rel="noopener noreferrer nofollow" target="_blank">新加坡华侨教育全貌</a> [Overview
-of overseas chinese education in Singapore] (Xinjiapo 新加坡: [Zhu zhe] [著者],
-1950), p. 14. (Call no. Chinese RCLOS 370.95957 HSW)
+[^2]: Lee, Ting Hui, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12740648"><i>Chinese Schools in British Malaya: Policies and Politics</i></a> (Singapore: South Seas Society, 2006), 3 (Call no. RSING 371.82995105951 LEE); Xu Suwu 许苏吾, <i>Xinjiapo hua qiao jiao yu quan mao</i>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84472332">新加坡华侨教育全貌</a> [Overview of overseas chinese education in Singapore] (Xinjiapo 新加坡: [Zhu zhe] [著者], 1950), p. 14. (Call no. Chinese RCLOS 370.95957 HSW)
 
-[^3]: Song Ong Siang, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese in Singapore</a></em> (Singapore:
-Oxford University Press, 1984), 101. (Call no. RSING 959.57 SON)
+[^3]: Song Ong Siang, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese in Singapore</i></a> (Singapore: Oxford University Press, 1984), 101. (Call no. RSING 959.57 SON)
 
-[^4]: Ke Mulin 柯木林, <em>Xin hua li shi ren wu lie zhuan</em>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628" rel="noopener noreferrer nofollow" target="_blank">新华历史人物列传</a> [Who’s
-Who in the Singapore Chinese Community] (Xinjiapo 新加坡: Jiao yu chu ban
-gong si, 教育出版公司, 1995), 102–3. (Call no. Chinese RSING 959.570092 WHO)
+[^4]: Ke Mulin 柯木林, <i>Xin hua li shi ren wu lie zhuan</i>  <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84500628">新华历史人物列传</a> [Who’s Who in the Singapore Chinese Community] (Xinjiapo 新加坡: Jiao yu chu ban gong si, 教育出版公司, 1995), 102–3. (Call no. Chinese RSING 959.570092 WHO)
 
-[^5]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
-101.
+[^5]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>, 101.
 
-[^6]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
-101.
+[^6]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>, 101.
 
-[^7]: Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
-101.
+[^7]: Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>, 101.
 
-[^8]: Yeo Mang Thong 姚梦桐, 邱锡云和“钱子文”(“Khoo Seok Wan and ‘Qian Zi Wen’ ”),&nbsp; <em>亚__洲文化</em>  <em>Asian Culture</em> no.
-8 (1986): 57.
+[^8]: Yeo Mang Thong 姚梦桐, 邱锡云和“钱子文”(“Khoo Seok Wan and ‘Qian Zi Wen’ ”),&nbsp; <i>亚__洲文化</i>  <i>Asian Culture</i> no. 8 (1986): 57.
 
 [^9]: Yeo, 邱锡云和 “钱子文”, 58
 
-[^10]: Yeo, 邱锡云和 “钱子文”, 56. Khoo has another earlier work: “Qian Zi Wen”,
-purportedly published in 1899, has not been sighted.
+[^10]: Yeo, 邱锡云和 “钱子文”, 56. Khoo has another earlier work: “Qian Zi Wen”, purportedly published in 1899, has not been sighted.
 
 [^11]: Yingxin School Souvenir Magazine, 1938, 5–8.
 
-[^12]: “Issues Discussed at the Meeting held at Thian Hock Temple” <em>Lat Pau</em>,
-17 December 1906, 3, 10E࣡; “School History” Tuan Mong School’s 25th Anniversary,
-1.
+[^12]: “Issues Discussed at the Meeting held at Thian Hock Temple” <i>Lat Pau</i>, 17 December 1906, 3, 10E࣡; School History” Tuan Mong School’s 25th Anniversary, 1.
 
 [^13]: Yoke Eng School’s Souvenir Magazine, 43–44.
 
-[^14]: “An Important Meeting of the Hokkien Merchants, <em>Lat Pau</em>,
-17 December 1906, 3, 10; “Announcement of the Decisions Made at the Meeting
-Held at Thian Hock Temple” <em>Lat Pau</em>, &nbsp;26 December 1906, 3;
-Song, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287" rel="noopener noreferrer nofollow" target="_blank">One Hundred Years’ History of the Chinese</a></em>,
-407–9.
+[^14]: “An Important Meeting of the Hokkien Merchants, <i>Lat Pau</i>, 17 December 1906, 3, 10; “Announcement of the Decisions Made at the Meeting Held at Thian Hock Temple” <i>Lat Pau</i>, &nbsp;26 December 1906, 3; Song, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287"><i>One Hundred Years’ History of the Chinese</i></a>, 407–9.
 
-[^15]: LKCRL collection: Elementary General Knowledge Suitable for Nanyang
-Chinese Schools, 1935; The Latest Moral Education Textbook for the Nanyang
-Chinese Primary Schools, 1941.
+[^15]: LKCRL collection: Elementary General Knowledge Suitable for Nanyang Chinese Schools, 1935; The Latest Moral Education Textbook for the Nanyang Chinese Primary Schools, 1941.
 
 [^16]: Jinan University 80th Anniversary Souvenir Magazine, 1988, 44–45.
 
-[^17]: <em>Straits Settlements Legislative Council Proceedings</em>, 31
-May 1921.
+[^17]: <i>Straits Settlements Legislative Council Proceedings</i>, 31 May 1921.
 
-[^18]: <em>Straits Settlements Government Gazettes</em>, 29 October 1920,
-no. 21, sections 10, 11, 18, 19.
+[^18]: <i>Straits Settlements Government Gazettes</i>, 29 October 1920, no. 21, sections 10, 11, 18, 19.
 
-[^19]: <em>Straits Settlements Government Gazettes</em>, 11 September 1925,
-no. 15; <em>Straits Settlements Government Gazettes</em>, 28 May 1926, no.
-5; <em>Straits Settlements Government Gazettes</em>, 4 January 1929, no.
-4; <em>Straits Settlements Government Gazettes</em>, 22 January 1932, no.
-132; <em>Straits Settlements Government Gazettes</em>, 14 May 1937, no.
-40; <em>Straits Settlements Government Gazettes</em>, 7 January 1938, no.
-40; <em>Straits Settlements Government Gazettes</em>, 20 May 1938, no. 1949.
+[^19]: <i>Straits Settlements Government Gazettes</i>, 11 September 1925, no. 15; <i>Straits Settlements Government Gazettes</i>, 28 May 1926, no. 5; <i>Straits Settlements Government Gazettes</i>, 4 January 1929, no. 4; <i>Straits Settlements Government Gazettes</i>, 22 January 1932, no. 132; <i>Straits Settlements Government Gazettes</i>, 14 May 1937, no. 40; <i>Straits Settlements Government Gazettes</i>, 7 January 1938, no. 40; <i>Straits Settlements Government Gazettes</i>, 20 May 1938, no. 1949.
 
-[^20]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1923</a></em> (Singapore:
-Government Printing Office, 1923), 121. (Microfilm NL394)
+[^20]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1923</i></a> (Singapore: Government Printing Office, 1923), 121. (Microfilm NL394)
 
-[^21]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1925</a></em> (Singapore:
-Government Printing Office, 1925), 225. (Microfilm NL621)
+[^21]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1925</i></a> (Singapore: Government Printing Office, 1925), 225. (Microfilm NL621)
 
-[^22]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1927</a></em> (Singapore:
-Government Printing Office, 1927), 176. (Microfilm NL396)
+[^22]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1927</i></a> (Singapore: Government Printing Office, 1927), 176. (Microfilm NL396)
 
-[^23]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1928</a></em> (Singapore:
-Government Printing Office, 1928), 240. (Microfilm NL396)
+[^23]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1928</i></a> (Singapore: Government Printing Office, 1928), 240. (Microfilm NL396)
 
-[^24]: For example, in the Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1929</a></em> (Singapore:
-Government Printing Office, 1929), 910 (Microfilm NL397); Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1930</a></em> (Singapore:
-Government Printing Office, 1930), 745 (Microfilm NL397); Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1931</a></em> (Singapore:
-Government Printing Office, 1931), 822. (Microfilm NL2921)
+[^24]: For example, in the Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1929</i></a> (Singapore: Government Printing Office, 1929), 910 (Microfilm NL397); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1930</i></a> (Singapore: Government Printing Office, 1930), 745 (Microfilm NL397); Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1931</i></a>(Singapore: Government Printing Office, 1931), 822. (Microfilm NL2921)
 
-[^25]: Example of English and Chinese language readers are: Lim Chong
-Hsin, <em>My Book of ABC</em>, 1930; <em>New Chinese Language Textbooks</em>,
-vol. 2, 1924. (LKCRL collection).
+[^25]: Example of English and Chinese language readers are: Lim Chong Hsin, <i>My Book of ABC</i>, 1930; <i>New Chinese Language Textbooks</i>, vol. 2, 1924. (LKCRL collection).
 
-[^26]: LKCRL collection: <em>Arithmetic Textbook for Nanyang Chinese Primary Schools</em>,
-vol 1, 1930; _Arithmetic Textbook for Nanyang Chinese Primary Sch_ools,
-vol. 8, 1941. &nbsp;
+[^26]: LKCRL collection: <i>Arithmetic Textbook for Nanyang Chinese Primary Schools</i>, vol 1, 1930; <i>Arithmetic Textbook for Nanyang Chinese Primary Schools</i>, vol. 8, 1941. &nbsp;
 
-[^27]: Examples of History textbooks are: <em>History Textbooks for Nanyang Upper Primary Schools</em>,
-vols. 1 and 4. Examples of Geography textbooks are: <em>Geography Textbooks for Nanyang Upper Primary Schools</em>,
-vols. 1 and 4, 1941. Note: The last two Geography textbooks are from the
-Singapore History Museum.
+[^27]: Examples of History textbooks are: <i>History Textbooks for Nanyang Upper Primary Schools</i>, vols. 1 and 4. Examples of Geography textbooks are: <i>Geography Textbooks for Nanyang Upper Primary Schools</i>, vols. 1 and 4, 1941. Note: The last two Geography textbooks are from the Singapore History Museum.
 
-[^28]: Some examples of Abacus and Letter-writing textbooks in the LKCRL
-collections are: <em>Abacus for Upper-primary Schools</em>, vols. 1–4, 1938;
-Annotated Letter-writing for Students, part 1, 1919; Letter-writing for
-Lower-primary Nanyang Schools, vols. 7 and 8, 1941; <em>Letter-writing for Upper -primary Nanyang Schools</em>,
-vols. 1 and 2, 1941. &nbsp;
+[^28]: Some examples of Abacus and Letter-writing textbooks in the LKCRL collections are: <i>Abacus for Upper-primary Schools</i>, vols. 1–4, 1938; Annotated Letter-writing for Students, part 1, 1919; Letter-writing for Lower-primary Nanyang Schools, vols. 7 and 8, 1941; <i>Letter-writing for Upper -primary Nanyang Schools</i>, vols. 1 and 2, 1941. &nbsp;
 
-[^29]: LKCRL collection: _General Knowledge Textbook for Nanyang Chinese
-Primary S_chools, vol. 5, 1935; <em>Nature Study for Upper-primary Schools</em>,
-vol. 2, 1939; <em>Hygiene Textbook for Kindergarten</em>, 19uu, 1937.&lt;
+[^29]: LKCRL collection: <i>General Knowledge Textbook for Nanyang Chinese Primary Schools</i>, vol. 5, 1935; <i>Nature Study for Upper-primary Schools</i>, vol. 2, 1939; <i>Hygiene Textbook for Kindergarten</i>, 19uu, 1937.
 
-[^30]: LKCRL collection: <em>Standard Moral Education Textbook for Malayan Chinese Primary Schools</em>,
-vol. 2, 19--; <em>Beautiful Songs</em>, vols. 1–6, 1935. Private collection: <em>Extra-curricular Sports: Track and Field</em>,
-1936. &nbsp;
+[^30]: LKCRL collection: <i>Standard Moral Education Textbook for Malayan Chinese Primary Schools</i>, vol. 2, 19--; <i>Beautiful Songs</i>, vols. 1–6, 1935. Private collection: <i>Extra-curricular Sports: Track and Field</i>, 1936. &nbsp;
 
-[^31]: <em>Chinese Heritage Centre Bulletin</em>, no. 2 (September 2003),
-44–43.<p></p>
+[^31]: <i>Chinese Heritage Centre Bulletin</i>, no. 2 (September 2003), 44–43.
