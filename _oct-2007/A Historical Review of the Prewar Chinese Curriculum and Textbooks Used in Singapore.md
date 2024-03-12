@@ -356,14 +356,11 @@ no. 21, sections 10, 11, 18, 19.
 [^19]: <i>Straits Settlements Government Gazettes</i>, 11 September 1925, no. 15; <i>Straits Settlements Government Gazettes</i>, 28 May 1926, no. 5; <i>Straits Settlements Government Gazettes</i>, 4 January 1929, no.
 4; <i>Straits Settlements Government Gazettes</i>, 22 January 1932, no. 132; <i>Straits Settlements Government Gazettes</i>, 14 May 1937, no. 40; <i>Straits Settlements Government Gazettes</i>, 7 January 1938, no. 40; <i>Straits Settlements Government Gazettes</i>, 20 May 1938, no. 1949.
 
-[^20]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1923</a></em> (Singapore:
-Government Printing Office, 1923), 121. (Microfilm NL394)
+[^20]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1923</i></a> (Singapore: Government Printing Office, 1923), 121. (Microfilm NL394)
 
-[^21]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1925</a></em> (Singapore:
-Government Printing Office, 1925), 225. (Microfilm NL621)
+[^21]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1925</i></a> (Singapore: Government Printing Office, 1925), 225. (Microfilm NL621)
 
-[^22]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1927</a></em> (Singapore:
-Government Printing Office, 1927), 176. (Microfilm NL396)
+[^22]: Straits Settlements, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909"><i>Annual Report 1927</i></a> (Singapore: Government Printing Office, 1927), 176. (Microfilm NL396)
 
 [^23]: Straits Settlements, <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=200816909" rel="noopener noreferrer nofollow" target="_blank">Annual Report 1928</a></em> (Singapore:
 Government Printing Office, 1928), 240. (Microfilm NL396)
