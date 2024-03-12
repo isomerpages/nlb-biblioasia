@@ -295,7 +295,7 @@ keywords, such as title or subject.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100px; height: 100px;" height="auto" width="100%" src="/images/Authors/Tong%20Bao%20.jpg">
 </div>
-<p><strong>Wee Tong Bao</strong>
+<p><strong>Wee Tong Bao</strong> 
 <br>Reference Librarian
 <br>Lee Kong Chian Reference Library
 <br>National Library</p>
