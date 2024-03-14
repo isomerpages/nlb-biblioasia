@@ -12,7 +12,7 @@ variant: markdown
 #### Studies on the education of overseas Chinese communities have often been carried out within the framework of examining the education policies and politics of China and that of the local governments. By examining other local events and factors, a more exact picture of the Chinese modern education in Singapore could be discerned.
 
 <img style="width:50%;" height="auto" width="100%" src="/images/Vol%203%20Issue%203/ChineseCurriculumTextbooks/chinese%20textbooks%20image%201.JPG">
-<div style="background-color: white;">Elementary General Knowledge Suitable for Nanyang Chinese Schools). (1935). <i>Shanghai: Chung Hwa Book Co.Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
+<div style="background-color: white;">Elementary General Knowledge Suitable for Nanyang Chinese Schools). (1935). <i>Shanghai: Chung Hwa Book Co., Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
 
 #### Introduction
 The Chinese society of Singapore in the 19th century was by and large,
