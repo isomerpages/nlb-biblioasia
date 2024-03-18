@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-19/issue-4/jan-mar-2024/restoring-asian-films/
-      button: Restoring Classic Films in Asia
+      url: /vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/
+      button: Remembering William Lim
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 19 Issue 4/2 Restoring Classic
-        Films/Restoring_Asian_films_Hero_img.jpg
+      background: /images/Vol 19 Issue 4/6 William Lim/Hero_img_William.jpg
   - infopic:
       title: Singapore Bands in Wartime Vietnam
       subtitle: Podcast
