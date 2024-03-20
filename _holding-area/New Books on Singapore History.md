@@ -29,7 +29,7 @@ Call no.: RSING 320.54095957 THU
 Examining Singapore’s decolonisation movement between 1953 and 1963, historian Thum Ping Tjin argues how the schisms of race, class, language and the meaning of self-determination drove the events of decolonisation, the creation of Malaysia, and Singapore’s subsequent separation from Malaysia. These topics continue to actively shape Singaporean society today.
 
 
-#### **[Once Upon an Island: Images of Singapore (1950–1980) Through the Lens of Dr. Ivan Polunin]()**
+#### **[Once Upon an Island: Images of Singapore (1950–1980) Through the Lens of Dr. Ivan Polunin](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300020429)**
 
 By Ivan Polunin, edited by Asmara Rabier
 
@@ -41,26 +41,25 @@ Call no.: RSING 959.5705022 POL \[HIS\]
 Containing nearly 1,000 iconic images of Singapore from the archives of Dr Ivan Polunin (1920–2010), _Once Upon an Island_ showcases lost customs, crafts, traditions and landscapes that no longer exist in modern-day Singapore. A medical doctor, filmmaker, photographer, and lecturer at the then University of Singapore, Polunin documented the flora and fauna, indigenous tribes, photography, film and traditional folk music of Southeast Asia.
 
 
-#### **[Heritage Food of the Peranakan Indians: In a Chitty Melaka Kitchen](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003913)**
+#### **[ Singaporean Creatures: Histories of Humans and Other Animals in the Garden City](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300023913)**
 
-By Peranakan Indian (Chitty Melaka) Association Singapore
+Edited by Timothy P. Barnard
 
-Peranakan Indian (Chitty Melaka) Association Singapore (2023), 200 pages <br>
-Call no.: RSING 641.595951 PER
+NUS Press (2024), 286 pages <br>
+Call no.: RSING 304.2095957 SIN
 
-![](/images/Vol%2020%20Issue%201/New%20Books%20on%20Singapore%20history/book4.png)
+![](/images/Vol%2020%20Issue%201/New%20Books%20on%20Singapore%20history/book4a.png)
 
-The Chitty Melaka are descendants of Tamil traders who settled in Melaka during the reign of the Melaka Sultanate and married local women. Embark on a culinary journey with nearly 100 Peranakan Indian recipes – from everyday dishes to festive fare. Each recipe draws inspiration from the diverse skills and stories of different community, collectively echoing the wisdom and warmth of *nenek*, a term of endearment for grandmothers.
-
-
-#### **[Sport in Singapore: Visions for Change](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300007221)**
-
-By Nick Aplin 
-
-Sport Singapore (2023), 340 pages <br>
-Call no.: RSING 796.0605957 APL
-
-![](/images/Vol%2020%20Issue%201/New%20Books%20on%20Singapore%20history/book5.png)
+How have human−animal relationships shaped Singaporean society – socially, economically, politically and environmentally – over the last half century? This work of historical and ecological analysis examines the development of Singapore as a modern, urbanised nation-state amid the challenges of planning and development.
 
 
-In this final part of a trilogy, Nick Aplin charts the phases of development of Sport Singapore (previously Singapore Sports Council) under six chief executive officers since 1973. The visions of the organisation reflect the challenges of the time.
+#### **[To Draw an Idea: Retracing the Designs of William Lim Associates – W Architects](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206124820)**
+
+By National Library Board and Urban Redevelopment Authority
+
+National Library Board and Urban Redevelopment Authority (2023), 252 pages<br>
+Call no.: RSING 720.95957 TO
+
+![](/images/Vol%2020%20Issue%201/New%20Books%20on%20Singapore%20history/book5a.png)
+
+_To Draw an Idea_&nbsp;charts W&nbsp;Architects’&nbsp;evolution over the last four decades and the design development of its key projects since its founding in 1981 by pioneer local architect William Lim. Featured in the book are more than 200 conceptual sketches, architectural drawings and artefacts from the firm’s archives, along with behind-the-scenes stories of how the firm realised its creative visions.
