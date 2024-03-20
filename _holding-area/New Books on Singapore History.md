@@ -4,7 +4,7 @@ permalink: /holding-area/permalink/new-books-singapore-history/
 variant: markdown
 description: ""
 ---
-#### **[An Unfinished Canvas: Life of Koh Seow Chuan](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205869943a)**
+#### **[An Unfinished Canvas: Life of Koh Seow Chuan](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300029371)**
 
 By Tai Ho Woon
 
@@ -16,29 +16,29 @@ Call no.: RSING 720.92 WOO
 Koh Seow Chuan is a cofounder of DP Architects (formerly Design Partnership), a multinational design firm and one of Singapore’s pioneer archi-tecture firms. _An Unfinished Canvas_ traces his journey as an architect, and also as a stamp collector, a national swimmer and an art collector.
 
 
-#### **[Andrew Gn: Fashioning Singapore and the World](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206104038)**
+#### **[Nationalism and Decolonisation in Singapore: The Malayan Generation, 1953–1963](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206105168)**
 
-By Jackie Yoong, Petra Slinkard and Tan Siok Sun
+By Thum Ping Tjin
 
-Asian Civilisations Museum (2023), 302 pages <br>
-Call no.: RSING 746.92095957 AND
+Routledge (2023), 350 pages <br>
+Call no.: RSING 320.54095957 THU
 
-![](/images/Vol%2020%20Issue%201/New%20Books%20on%20Singapore%20history/book2.png)
-
-
-Andrew Gn is one of Singapore’s most prolific designers. The three essays and over 100 designs reveal the cross-cultural influences that inspire his creative process, his focus on intricate craftsmanship and his cultural identity as a designer. Gn’s high-end, ready-to-wear creations are worn by celebrities and royalty.
+![](/images/Vol%2020%20Issue%201/New%20Books%20on%20Singapore%20history/book2a.png)
 
 
-#### **[Belitung: The Afterlives of a Shipwreck](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206079740)**
+Examining Singapore’s decolonisation movement between 1953 and 1963, historian Thum Ping Tjin argues how the schisms of race, class, language and the meaning of self-determination drove the events of decolonisation, the creation of Malaysia, and Singapore’s subsequent separation from Malaysia. These topics continue to actively shape Singaporean society today.
 
-By Natali Pearson
 
-NUS Press (2023), 227 pages <br>
-Call no.: RSING 910.45209598196 PEA
+#### **[Once Upon an Island: Images of Singapore (1950–1980) Through the Lens of Dr. Ivan Polunin]()**
 
-![](/images/Vol%2020%20Issue%201/New%20Books%20on%20Singapore%20history/book3.png)
+By Ivan Polunin, edited by Asmara Rabier
 
-The Belitung is one of the most significant shipwreck discoveries of recent times, revealing the scale of ancient commercial endeavours and the centrality of the ocean within the Silk Road story. Natali Pearson reveals valuable new information about the Belitung salvage, obtained firsthand from the salvagers, and the details of the many conflicts and relationships that developed.
+Suntree Media Pte Ltd (2024), 439 pages <br>
+Call no.: RSING 959.5705022 POL \[HIS\]
+
+![](/images/Vol%2020%20Issue%201/New%20Books%20on%20Singapore%20history/book3a.png)
+
+Containing nearly 1,000 iconic images of Singapore from the archives of Dr Ivan Polunin (1920–2010), _Once Upon an Island_ showcases lost customs, crafts, traditions and landscapes that no longer exist in modern-day Singapore. A medical doctor, filmmaker, photographer, and lecturer at the then University of Singapore, Polunin documented the flora and fauna, indigenous tribes, photography, film and traditional folk music of Southeast Asia.
 
 
 #### **[Heritage Food of the Peranakan Indians: In a Chitty Melaka Kitchen](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003913)**
