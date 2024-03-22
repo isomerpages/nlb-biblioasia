@@ -890,4 +890,14 @@ sections:
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
       image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
+  - infopic:
+      title: New Books on Singapore History (Jul 2024)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at five new books available in the National Library’s
+        collection.
+      button: New Read
+      url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
+      image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
+      alt: Image alt text
 ---
