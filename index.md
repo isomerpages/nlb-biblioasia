@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 19 Issue 4/6 William Lim/Hero_img_William.jpg
   - infopic:
+      title: New Books on Singapore History (Jul 2024)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at five new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
+      image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
+      alt: Image alt text
+  - infopic:
       title: Singapore Bands in Wartime Vietnam
       subtitle: Podcast
       id: infopic
