@@ -22,7 +22,7 @@ sections:
       id: infopic
       description: A quick look at five new books available in the National Library’s
         collection.
-      button: New Read
+      button: New Reads
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
