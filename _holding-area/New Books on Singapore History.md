@@ -14,7 +14,7 @@ Call no.: RSING 720.92 WOO
 ![](/images/Vol%2020%20Issue%202/New%20Books/Canvas.jpg)
 
 
-Koh Seow Chuan is a cofounder of DP Architects (formerly Design Partnership), a multinational design firm and one of Singapore’s pioneer archi-tecture firms. _An Unfinished Canvas_ traces his journey as an architect, and also as a stamp collector, a national swimmer and an art collector.
+Koh Seow Chuan is a cofounder of DP Architects (formerly Design Partnership), a multinational design firm and one of Singapore’s pioneer architecture firms. _An Unfinished Canvas_ traces his journey as an architect, and also as a stamp collector, a national swimmer and an art collector.
 
 
 #### **[Nationalism and Decolonisation in Singapore: The Malayan Generation, 1953–1963](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206105168)**
