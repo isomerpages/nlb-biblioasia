@@ -2,5 +2,6 @@ collections:
   jul-to-sep-2024:
     output: true
     order:
+      - New Books on Singapore History.md
       - "A Cool Business: The History of Ice–Making in Singapore.md"
       - Pioneering Local Journalist R B Ooi.md
