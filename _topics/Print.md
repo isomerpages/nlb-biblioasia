@@ -99,5 +99,5 @@ To mark its centenary, a Chinese clan association recently donated its archives 
 
 To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library.&nbsp;**Jessie Yak**&nbsp;shares highlights from the collection.
   
-<img src="/images/Vol-14-issue-4/when-there-were-farms/Farm1.JPG" style="width:80%;">
+<img src="/images/Vol-14-issue-4/when-there-were-farms/farm_topic.png" style="width:80%;">
 <hr>
