@@ -16,7 +16,7 @@ The story of Operation Jaywick, a daring attack on Japanese ships at Keppel Harb
 <img src="/images/Vol%2019%20Issue%202/Operation%20Jaywick/opjaywick_topic.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/videos/reels/war/">Operation Jaywick Retold as a Comic Book for Boys</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/videos/reels/war/">A Clandestine Operation in Keppel Harbour</a>
 Disguised as local fishermen, Australian and British commandos launched a clandestine raid on Japanese ships in Singapore’s Keppel Harbour.
 
 <img src="/images/Videos:%20BiblioAsia%20Reels/victory%20boys.png" style="width:80%;">
