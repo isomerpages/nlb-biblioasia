@@ -122,7 +122,7 @@ The Wilkes Expedition – as it is popularly known – vastly expanded the borde
 
 Why recall traumatic memories of war when it is painful for both perpetrators and victims? <b>Kwok Kian Woon</b> considers the stakes in remembering and understanding war experiences in times of relative peace.
 
-<img src="/images/Vol-15-issue-1/the-unresolved-past/01_unresolvedpast.jpg">
+<img src="/images/Vol-15-issue-1/the-unresolved-past/unresolvedpast_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/wartime-victuals/">Wartime Victuals: Surviving the Japanese Occupation</a>
