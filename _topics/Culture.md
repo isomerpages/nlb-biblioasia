@@ -64,7 +64,7 @@ Chinese food in Singapore is a product of the country’s history and geography,
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue/">The Sticky Problem of Opium Revenue</a>
 **Diana S. Kim**  explains how the colonial government reduced its dependence on opium taxes.
 
-<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg" style="width:80%;">													
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue_topic.png" style="width:80%;">													
 <hr>
 
 
@@ -72,5 +72,5 @@ Chinese food in Singapore is a product of the country’s history and geography,
 
 Self-mortification and the spilling of blood are hallmarks of the Chinese *tangki*. **Margaret Chan** explains the symbolism behind these practices.
 
-<img src="/images/Vol-16-issue-2/medium/TanEngHing.jpg" style="width:85%;">													
+<img src="/images/Vol-16-issue-2/medium/medium_topic.png" style="width:85%;">													
 <hr>
