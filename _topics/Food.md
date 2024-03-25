@@ -48,5 +48,5 @@ This cafe once loomed large in Singapore’s dining and social scene. *Vandana A
 
 Thrift, hard work and resilience are qualities that can be nurtured through food.&nbsp;**Chantal Sajan**&nbsp;recalls the legacy of her grandaunt.
 
-<img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/Chetty1.JPG" style="width:80%;">
+<img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/chetty1_topic.png" style="width:80%;">
 <hr>
