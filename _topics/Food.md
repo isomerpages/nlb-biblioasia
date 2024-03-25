@@ -20,7 +20,7 @@ Fermented shrimp is a staple in many cuisines of Southeast Asia, though it takes
 
 Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism.
 
-<img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png">
+<img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/buddhist_women_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore/">We Are What We Eat: The Evolution of Chinese Food in Singapore</a>
@@ -41,7 +41,7 @@ A number of cookbooks written in the 1940s and 1950s helped expand the tradition
 	
 This cafe once loomed large in Singapore’s dining and social scene. *Vandana Aggarwal* traces its rise and disappearance.
 
-<img src="/images/Vol-16-issue-2/ghcafe/GHCafe.jpg" style="width:80%;">
+<img src="![](/images/Vol-16-issue-2/ghcafe/GHCafe_topic.png)/images/Vol-16-issue-2/ghcafe/GHCafe.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/life-lson-chetty-m-k/">Life Lessons in a Chetty Melaka Kitchen</a>
