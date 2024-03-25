@@ -72,7 +72,7 @@ Singapore marked the 80th anniversary of its fall to the Japanese in 2022. This 
 
 The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars.
 
-<img src="/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%201.png">
+<img src="/images/Vol%2018%20Issue%202/Red%20terror/Red%20terror%20-%20Image%201.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia/">The Final Hours of the Empress of Asia</a>
