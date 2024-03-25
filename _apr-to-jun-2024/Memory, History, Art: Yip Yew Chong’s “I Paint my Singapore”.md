@@ -31,7 +31,7 @@ Yip’s latest work captures Singapore as it was in the 1970s and 1980s. The wor
 Well-known places and landmarks like the former Van Kleef Aquarium and Little India feature in this painting. But Yip also painted more quotidian scenes – of everyday life in housing estates and outlying areas of Singapore. These have probably had greater resonance with Singaporeans.
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/VanKleefAquarium.jpg)
-<div style="background-color: white;">The Van Kleef Aquarium used to be along River Valley Road, at the foot of Fort Canning Hill. It closed in 1996 and the building was demolished in 1998. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">The Van Kleef Aquarium used to be along River Valley Road, at the foot of Fort Canning Hill. It closed in 1996 and the building was demolished in 1998. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 
 The atmosphere at the exhibition, where the work was displayed from 30 November 2023 to 1 February 2024, was more akin to a bazaar than an art gallery, especially in its closing days. But what was more interesting than the size of the crowd was what they were spotted doing. Rather than gazing pensively at each canvas, people could be seen animatedly discussing different scenes with their friends. Within intergenerational groups, you would often hear impromptu history lessons being conducted.&nbsp;
@@ -41,7 +41,7 @@ Pointing to a boat filled with recruits en route to Pulau Tekong, a father in hi
 
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/BoatToTekong3.jpg)
-<div style="background-color: white;">Transporting recruits and military equipment to Pulau Tekong on a vessel known as a ramp-powered lighter. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">Transporting recruits and military equipment to Pulau Tekong on a vessel known as a ramp-powered lighter. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 Yip estimates that the people who came to view his work numbered in the tens of thousands. What was it about this particular work that drew so many people and that sparked off all these conversations?
 
@@ -49,13 +49,13 @@ Veteran diplomat Tommy Koh, who opened the exhibition on 29 November 2023, noted
 
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Ruralscene3.jpg)
-<div style="background-color: white;">A hilltop village in the Sembawang-Nee Soon area. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">A hilltop village in the Sembawang-Nee Soon area. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 
 Yip agreed that familiarity was a big part of the appeal. In response to an emailed query, Yip said he believed that the painting struck a chord with people because “they can see themselves, their families, relatives and friends; their homes, where they’ve played, worked, studied, served NS etc. in the painting”.
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/Chinatown1b.jpg)
-<div style="background-color: white;">Kreta Ayer by day. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">Kreta Ayer by day. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 
 The 54-year-old artist said that he chose to paint scenes of Singapore of the 1970s and 1980s because the period was personally significant to him. “The decades are my growing-up years as a child and as a youth, and I have fond memories \[of that time\].”&nbsp;
@@ -74,7 +74,7 @@ It was through his research in the archives that he discovered that the 150-year
 
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SriKrishnan2.jpg)
-<div style="background-color: white;">The Sri Krishnan Temple in the 1970s. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">The Sri Krishnan Temple in the 1970s. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SriKrishnanTemple.jpg)
 <div style="background-color: white;">The Sri Krishnan Temple undergoing extensive renovations, 1985–89. <i>Courtesy of National Archives of Singapore.</i></div>
@@ -91,7 +91,7 @@ In depicting the old Central Sikh Temple on Queen Street (the temple is now on T
 In another scene, Yip painted a wake being held in the void deck of a Housing and Development Board apartment block. Members of the funeral band are disembarking from the lorry that brought them to the wake. Nearby, a parking attendant in a straw hat is writing out a ticket. Around the corner, a man in grey is hurrying down the road in a desperate attempt to avoid a ticket.&nbsp;
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/voiddeck.jpg)
-<div style="background-color: white;">A wake being held in the void deck. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">A wake being held in the void deck. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 
 #### **A Penchant for the Past**
@@ -101,7 +101,7 @@ Yip is the latest cultural worker to mine history to create art. Rachel Heng’s
 This interest in history is not just coming from artists and writers, but also from the general public as well. Over the years, there has been greater interest in both preserving and revisiting the past. This can be seen in the clamour to conserve old buildings as well as the mushrooming of groups on Facebook dedicated to sharing photos and memories of days (and places) gone by.&nbsp;
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/NationalLibrary.jpg)
-<div style="background-color: white;">The old National Library building on Stamford Road. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">The old National Library building on Stamford Road. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 
 Even if this is only driven by a very human desire to revisit the “good old days”, that has value too. For individuals, nostalgia can help improve their mood as they reminisce about life back in the day. It can also be good for society. Nostalgia creates a sense of place, a feeling of connection, generates shared stories – these all help to knit a people together.&nbsp;
@@ -109,13 +109,13 @@ Even if this is only driven by a very human desire to revisit the “good old da
 In all fairness, it must be said that the good old days weren’t necessarily always that good. In the BiblioAsia+ podcast, Yip recalled how, at one point, there were as many as five different families living on the same floor of the tiny shophouse on Sago Lane that his family had rented. While he recalled that memory fondly, it is unlikely that many people would want to return to a Singapore where that was common.
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/YipYewChongshouse2.jpg)
-<div style="background-color: white;">Yip Yew Chong (boy in blue shorts) and his family in their shophouse on Sago Lane watching a Cantonese opera performance. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">Yip Yew Chong (boy in blue shorts) and his family in their shophouse on Sago Lane watching a Cantonese opera performance. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 
 Likewise, if you look at the scene of men unloading cargo off boats in the Singapore River, you can see that the river was filled with activity and human life. At the same time, the river itself was probably devoid of aquatic life, choked as it was with waste and effluent. The painting, of course, also fails to capture the appalling stench that the river was a byword for.
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/SingaporeRiver2.jpg)
-<div style="background-color: white;">Unloading goods from boats on the Singapore River in the 1970s. <i>Photo by Jimmy Yap. </i></div>
+<div style="background-color: white;">Unloading goods from boats on the Singapore River in the 1970s. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 At the time of writing, Yip has yet to find a buyer for his monumental work. He said he hoped to find someone, preferably a custodian or curator, who would be able to “conserve, re-exhibit and develop it further, such as into a multimedia experience that can travel around the world”. There are probably not many individuals or institutions with the ability and space to purchase and then exhibit a 60-metre-long painting. Yip, nonetheless, is hopeful that a buyer will eventually emerge. And indeed, if the black, fetid waters of the Singapore River can be transformed into an environment where fish thrive and even otters frolic, then just about anything is possible.
 BiblioAsia Reels on YouTube
