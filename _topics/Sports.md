@@ -20,7 +20,7 @@ Although short in stature, footballer Chia Boon Leong was a force to be reckoned
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/">Conquering Everest, the World’s Tallest Mountain</a>
 David Lim led the first Singapore expedition team that successfully scaled Mount Everest on 25 May 1998. This is an excerpt from his book,&nbsp;<i>Mountain to Climb: The Quest from Everest and Beyond</i>.
 
-<img src="/images/Online%20Only%20Articles/Conquer%20the%20Tallest%20Mountain/sg%20team%20at%20basecamp.jpg">
+<img src="/images/Online%20Only%20Articles/Conquer%20Tallest%20Mountain_12_23/mteverest_topic.png">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/seventh-seap-games-1973/">The 1973 SEAP Games in Singapore</a>
