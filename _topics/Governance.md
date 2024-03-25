@@ -8,7 +8,7 @@ variant: markdown
 
 Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair.
 
-<img src="/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image6.png" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%201/Hippie%20Hysteria/hippie_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">The Bumpy Ride to Making Crash Helmets Mandatory</a>
