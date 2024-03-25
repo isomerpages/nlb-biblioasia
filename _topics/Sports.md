@@ -7,7 +7,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcycle-racing">A Quick History of the Singapore Speedway</a>
 The history of the Singapore Speedway was as fast and furious as the races it hosted.
 
-<img src="/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image2_edit.png">
+<img src="/images/Vol%2020%20Issue%201/Singapore%20Speedway/speedway_topic.png">
 <hr>
 
 
