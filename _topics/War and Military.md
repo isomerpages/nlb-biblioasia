@@ -79,7 +79,7 @@ The 1970s are often remembered as a time of rapid economic transformation and pr
 
 The Empress of Asia sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
 
-<img src="/images/vol-17-issue-4/empress-of-asia/1_Smoke.jpg">
+<img src="/images/vol-17-issue-4/empress-of-asia/empressasia_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/witness-to-history/">Witness to History</a>
