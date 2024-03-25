@@ -41,14 +41,14 @@ Singapore’s diplomatic efforts may take several forms, including naming orchid
 
 Singapore has planted more than two million trees in the past 50 years. <b>Lim Tin Seng</b> traces the roots of Tree Planting Day.
 
-<img src="/images/vol-17-issue-4/tree-planting/treeplanting_topic.png" style="width:120%;">
+<img src="/images/vol-17-issue-4/tree-planting/treeplanting_topic.png" style="width:80%;">
 <hr>
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue/">The Sticky Problem of Opium Revenue</a>
 <b>Diana S. Kim</b> explains how the colonial government reduced its dependence on opium taxes.
 
-<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg" style="width:80%;">													
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue_topic.png" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/gunpoint/">At Gunpoint: Wiping Out Illegal Firearms in Singapore</a>
