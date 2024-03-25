@@ -41,7 +41,7 @@ A number of cookbooks written in the 1940s and 1950s helped expand the tradition
 	
 This cafe once loomed large in Singapore’s dining and social scene. *Vandana Aggarwal* traces its rise and disappearance.
 
-<img src="![](/images/Vol-16-issue-2/ghcafe/GHCafe_topic.png)/images/Vol-16-issue-2/ghcafe/GHCafe.jpg" style="width:80%;">
+<img src="/images/Vol-16-issue-2/ghcafe/GHCafe_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/life-lson-chetty-m-k/">Life Lessons in a Chetty Melaka Kitchen</a>
