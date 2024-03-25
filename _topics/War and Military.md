@@ -129,7 +129,7 @@ Why recall traumatic memories of war when it is painful for both perpetrators an
 
 Desperate times call for desperate measures.&nbsp;<b>Lee Geok Boi</b>&nbsp;trawls the oral history collection of the National Archives to document how people coped with the precious little food they had during the war.
 
-<img src="/images/Vol-15-issue-1/wartime-victuals/01_wartime.jpg" style="width:80%;">
+<img src="/images/Vol-15-issue-1/wartime-victuals/wartimevictuals_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/iron-spearhead-hitmn/">Iron Spearhead: The Story of a Communist Hitman</a>
