@@ -94,21 +94,21 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 
 Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived.&nbsp;**Shirlene Noordin**&nbsp;has the story.
 
-<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v5.JPG">
+<img src="/images/Vol-15-issue-4/the-vietnam-war-through-sg-eye/v5.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/trial-by-firing-sqd/">Trial by Firing Squad</a>
 
 In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion.&nbsp;**Umej Bhatia**&nbsp;recreates the final moments of the mutineers as they pay the ultimate price for their actions.
 
-<img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial1.JPG">
+<img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/violence-writings/">Don’t Mention the Corpses: The Erasure of Violence in Colonial Writings on Southeast Asia</a>
 
 History may be written by the victors, but what they conveniently leave out can be more telling.&nbsp;<b>Farish Noor</b>&nbsp;reminds us of the violent side of colonial conquest.
 
-<img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG">
+<img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/american-expedition/">US Ex Ex: An Expedition for the Ages</a>
@@ -129,12 +129,12 @@ Why recall traumatic memories of war when it is painful for both perpetrators an
 
 Desperate times call for desperate measures.&nbsp;<b>Lee Geok Boi</b>&nbsp;trawls the oral history collection of the National Archives to document how people coped with the precious little food they had during the war.
 
-<img src="/images/Vol-15-issue-1/wartime-victuals/01_wartime.jpg">
+<img src="/images/Vol-15-issue-1/wartime-victuals/01_wartime.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/iron-spearhead-hitmn/">Iron Spearhead: The Story of a Communist Hitman</a>
 
 **Ronnie Tan**&nbsp;and&nbsp;**Goh Yu Mei**&nbsp;recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
 
-<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/Iron1.JPG">
+<img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/iron1_topic.png" style="width:80%;">
 <hr>
