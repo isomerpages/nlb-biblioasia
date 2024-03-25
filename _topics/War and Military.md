@@ -25,7 +25,7 @@ Disguised as local fishermen, Australian and British commandos launched a clande
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/preparing-war-singapore/">In Their Own Voices: Preparing for War in Singapore</a>
 Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units.
 
-<img src="/images/Vol%2018%20Issue%204/War%20in%20Singapore/1e.png" style="width:80%;">
+<img src="/images/Vol%2018%20Issue%204/War%20in%20Singapore/preparingwar_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/grandfather-romusha-thai-burma-railway/">My Grandfather Was a Rōmusha</a>
@@ -37,28 +37,28 @@ During World War II, forced civilian labourers known as rōmushas were used by t
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/cold-war-propaganda-singapore/">Cold War Rivalries Fuel Propaganda Battle in Singapore in the 1940s and 1950s</a>
 In the post-World War II period, Singapore was a battleground for ideological competition between the Soviet Union and China on one side, and the United States and United Kingdom on the other.
 
-<img src="/images/Vol%2018%20Issue%203/Cold%20War/1_cover.png">  
+<img src="/images/Vol%2018%20Issue%203/Cold%20War/1_cover.png" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau/">A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the Bugis to Singapore</a>
 
 Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible misunderstanding that would change the course of history in Riau and Singapore.
 
-<img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/A%20Royal%20Wedding%20Gone%20Wrong%20-%20Image%201.png">
+<img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/wedding_gone_wrong_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/kranji-war-cemetery/">They Died for All Free Men: Stories from Kranji War Cemetery</a>
 
 Remembering those who died while fighting the Japanese during World War II.
 
-<img src="/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Rows%20of%20headstones.png">
+<img src="/images/Vol%2018%20Issue%202/Kranji%20War%20Memorial/Rows%20of%20headstones.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-to-sep-2022/national-library-japanese-occupation-collection/">从国家图书馆文献窥看日本占领时期的新加坡华社</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/jul-to-sep-2022/national-library-japanese-occupation-collection/">从国家图书馆文献窥看日本占领时期的新加坡华社</a>
 
 This year marks the 80th anniversary of the Fall of Singapore. Featured in this essay is a showcase of items from the Chinese community relating to the Japanese Occupation of Singapore. These are available in the collection of the National Library, Singapore.
 
-<img src="/images/Vol%2018%20Issue%202/从国家图书馆文献窥看日本占领时期的新加坡华社/从国家图书馆文献窥看日本占领时期的新加坡华社%20-%20Image%201.png">
+<img src="/images/Vol%2018%20Issue%202/从国家图书馆文献窥看日本占领时期的新加坡华社/从国家图书馆文献窥看日本占领时期的新加坡华社%20-%20Image%201.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-to-sep-2022/national-library-japanese-occupation-collection-english/">The Singapore Chinese Community During the Japanese Occupation</a>
