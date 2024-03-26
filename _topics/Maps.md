@@ -12,6 +12,9 @@ variant: markdown
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur">The Borobudur, Mysterious Gold Plates and Singing Maps</a>
 <p>Unsolved historical puzzles from Southeast Asia are key elements of the recently published thriller The Java Enigma by debut novelist Erni Salleh.</p>
+
+<img src="/images/Vol-16-issue-3/borobudur/theborobudur_topic.png" style="width:80%;">
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/india-tercera-nuova-tavola">When Singapore Was Cinca Pula</a>
@@ -20,23 +23,30 @@ variant: markdown
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/portuguese-map-sincapura-janssen">A Portuguese Map of Sincapura</a>
 <p>The title page of Malaca, l’Inde Méridionale et le Cathay has a floral border and bears the distinct red vertical stamp of the Syonan Library (Syonan Tosyokan) – the name the National Library was known as during the Japanese Occupation.</p>
+
+<img src="/images/vol-11-issue-4/portuguese-map-of-sincapura/portugesemap_topic.png" style="width:80%;">
+
 <hr>
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/map-south-east-asia-exacta-accurata-linschoten"> The Map That Opened Up Southeast Asia</a>
 <p>The National Library has two different versions of the Exacta &amp; Accurata map, both dated 1596: a black and-white copy donated by the philanthropist and architect Koh Seow Chuan, and this hand-coloured version in the David Parry Southeast Asian Map Collection.</p> 
 
-<img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/02a_mapthatopenedsea.jpg" style="width:80%;">
+<img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/mapthatopenedsea_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/contrafactur-battle-dutch-portuguese-de-bry">A Battle Captured in a Map</a>
 <p>This 1606 engraved map by the de Bry family is one of the earliest in the National Library’s Rare Materials Collection that shows a distinct coastline of Singapore. </p>
+
+<img src="/images/vol-11-issue-4/battle-captured-in-a-map/battlemap_topic.png" style="width:80%;">
+<hr>
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/search-sg-old-map"> Searching for Singapore in Old Maps and Sea Charts</a>
 <p>Kwa Chong Guan dissects the history of maps and tells us how Singapore was perceived and located in early modern European maps of the region.</p> 
 
-<img src="/images/vol-11-issue-1/searchingforsg/Cantino_Chart.jpg" style="width:80%;">
+<img src="/images/vol-11-issue-1/searchingforsg/CantinoChart_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/rare-map"> The National Library's Rare Maps Collection</a>
