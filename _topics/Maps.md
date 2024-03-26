@@ -71,5 +71,5 @@ Chia Jie Lin highlights interesting cartographic efforts from the National Libra
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-collection">Lay of the Land: The National Archives of Singapore’s Map Collection</a>
 <p>From Singapore’s days as a colony to modern times, maps have been an integral part of the nation’s development. Kevin Khoo highlights the National Archives of Singapore’s 10,000-strong map collection.</p> 
 
-<img src="/images/vol-10-issue-4/layoftheland/1971MapSGIsland_topic.png">
+<img src="/images/vol-10-issue-4/layoftheland/1971MapSGIsland_topic.png" style="width:80%;">
 <hr>
