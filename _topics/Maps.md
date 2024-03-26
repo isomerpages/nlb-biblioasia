@@ -2,11 +2,12 @@
 title: Maps
 permalink: /topics/maps/
 description: ""
+variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography">Cartography and the Rise of Colonial Empires in Asia</a>
 <p>Chia Jie Lin highlights interesting cartographic efforts from the National Library’s latest exhibition on Asian maps.</p> 
 
-<img src="/images/vol-17-issue-4/cartography/1-Map.jpg" style="width:100%; height: 280px; object-fit: cover"> 
+<img src="/images/vol-17-issue-4/cartography/1-Map.jpg" style="width:80%; height: 500px; object-fit: cover"> 
 <hr>
 
 
@@ -34,7 +35,7 @@ description: ""
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/map-south-east-asia-exacta-accurata-linschoten"> The Map That Opened Up Southeast Asia</a>
-<p>The National Library has two different versions of the Exacta & Accurata map, both dated 1596: a black and-white copy donated by the philanthropist and architect Koh Seow Chuan, and this hand-coloured version in the David Parry Southeast Asian Map Collection.</p> 
+<p>The National Library has two different versions of the Exacta &amp; Accurata map, both dated 1596: a black and-white copy donated by the philanthropist and architect Koh Seow Chuan, and this hand-coloured version in the David Parry Southeast Asian Map Collection.</p> 
 <img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/02a_mapthatopenedsea.jpg">
 <hr>
 
