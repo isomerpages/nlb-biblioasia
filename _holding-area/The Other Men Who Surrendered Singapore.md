@@ -140,7 +140,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 #### **Notes**
 
-[^1]: Clifford Kinvig, “General Percival and the Fall of Singapore,” in _Sixty Years On: The Fall of Singapore Revisited_, ed. Brian Farrell and Sandy Hunter (Singapore: Eastern Universities Press, 2002), 240. (From National Library, Singapore, call no. RSING 940.5425 SIX-\[WAR\])
+[^1]: Clifford Kinvig, “General Percival and the Fall of Singapore,” in [_Sixty Years On: The Fall of Singapore Revisited_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11730807), ed. Brian Farrell and Sandy Hunter (Singapore: Eastern Universities Press, 2002), 240. (From National Library, Singapore, call no. RSING 940.5425 SIX-\[WAR\])
 
 [^2]: Stephanie Ho, “Battle of Singapore,” in Singapore _Infopedia_. National Library Board Singapore. Article published 19 July 2013.
 
