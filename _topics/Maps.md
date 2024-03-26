@@ -13,7 +13,8 @@ variant: markdown
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/rare-map"> The National Library's Rare Maps Collection</a>
 <p>The National Library has a collection of rare maps dating back to the 15th century. Makeswary Periasamy shares the significance and history of these maps and their makers.</p> 
-<img src="/images/vol-10-issue-4/raremap/wall_map.jpg">
+
+<img src="/images/vol-10-issue-4/raremap/wall_map.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/search-sg-old-map"> Searching for Singapore in Old Maps and Sea Charts</a>
