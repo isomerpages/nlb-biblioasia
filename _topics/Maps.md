@@ -52,7 +52,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/rare-map"> The National Library's Rare Maps Collection</a>
 <p>The National Library has a collection of rare maps dating back to the 15th century. Makeswary Periasamy shares the significance and history of these maps and their makers.</p> 
 
-<img src="/images/vol-10-issue-4/raremap/wall_map.jpg" style="width:80%;">
+<img src="/images/vol-10-issue-4/raremap/wallmap_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-as-statement"> Maps as Statements of Power and Domination</a>
@@ -70,5 +70,5 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-collection">Lay of the Land: The National Archives of Singapore’s Map Collection</a>
 <p>From Singapore’s days as a colony to modern times, maps have been an integral part of the nation’s development. Kevin Khoo highlights the National Archives of Singapore’s 10,000-strong map collection.</p> 
 
-<img src="/images/vol-10-issue-4/layoftheland/backgrounds_resss.jpg">
+<img src="/images/vol-10-issue-4/layoftheland/1971MapSGIsland_topic.png">
 <hr>
