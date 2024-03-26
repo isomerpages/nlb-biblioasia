@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography">Cartography and the Rise of Colonial Empires in Asia</a>
-<p>Chia Jie Lin highlights interesting cartographic efforts from the National Library’s latest exhibition on Asian maps.</p> 
+Chia Jie Lin highlights interesting cartographic efforts from the National Library’s latest exhibition on Asian maps.
 
 <img src="/images/vol-17-issue-4/cartography/1-Map.jpg" style="width:80%; height: 350px; object-fit: cover"> 
 <hr>
@@ -42,8 +42,6 @@ variant: markdown
 <p>This 1606 engraved map by the de Bry family is one of the earliest in the National Library’s Rare Materials Collection that shows a distinct coastline of Singapore. </p>
 
 <img src="/images/vol-11-issue-4/battle-captured-in-a-map/battlemap_topic.png" style="width:80%;">
-<hr>
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/search-sg-old-map"> Searching for Singapore in Old Maps and Sea Charts</a>
