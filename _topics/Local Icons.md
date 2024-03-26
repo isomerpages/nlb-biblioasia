@@ -89,7 +89,7 @@ The foundation stone for the Causeway was laid 100 years ago. We look back at th
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/rdifs-gden-yrs/">Rediffusion’s Golden Years</a>
 Singapore’s only cable radio service was an instant hit when it was launched in 1949.&nbsp;Barbara Quek&nbsp;charts the history of the pioneering broadcasting station.
 
-<img src="/images/Vol-15-issue-4/rediffusions-golden-years/Small%20Radio.JPG" style="width:80%;">
+<img src="/images/Vol-15-issue-4/rediffusions-golden-years/rediffusion_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/istana-turns-150/">The Istana Turns 150</a>
