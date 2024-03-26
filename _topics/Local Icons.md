@@ -45,7 +45,7 @@ The old Kandang Kerbau Hospital was once known as the busiest maternity hospital
 #### <a style="text-decoration: none; font-weight: bold;" href="/history-cathay-cinema-2022">Key Milestones in the History of Cathay Cinema</a>
 The closing of Cathay cinema at Handy Road, one of Singapore’s oldest cinemas, marks the end of an era. Here’s a look at the Cathay Building and cinema over the years.
 
-<img src="/images/Cathay/cathay-interior.jpg">
+<img src="/images/Cathay/cathay-interior.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/changi-airport">How Changi Airport Came To Be</a>
