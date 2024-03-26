@@ -15,5 +15,5 @@ Ice has been an indispensable commodity in tropical Singapore since the late 19t
 
  Singapore’s history didn’t begin in 1819 when Stamford Raffles made footfall on the island.&nbsp;**Tan Tai Yong**&nbsp;makes sense of our 700-year history in this wide-ranging essay.
 
-<img src="/images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/LookingBack1.JPG" style="width:80%;">
+<img src="/images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/LookingBack_topic.png" style="width:80%;">
 <hr>
