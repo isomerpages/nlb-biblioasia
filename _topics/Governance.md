@@ -125,5 +125,5 @@ Oral history is often considered as “little” – personal accounts of humble
 
 In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore.&nbsp;<b>Cheryl-Ann Low</b>&nbsp;has the details.
 
-<img src="/images/Vol-15-issue-1/feeding-the-hungry/01_hungrychildren.png" style="width:80%;">													
+<img src="/images/Vol-15-issue-1/feeding-the-hungry/hungrychildren_topic.png" style="width:80%;">													
 <hr>
