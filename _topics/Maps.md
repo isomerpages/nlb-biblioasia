@@ -39,7 +39,8 @@ Chia Jie Lin highlights interesting cartographic efforts from the National Libra
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/contrafactur-battle-dutch-portuguese-de-bry">A Battle Captured in a Map</a>
-<p>This 1606 engraved map by the de Bry family is one of the earliest in the National Library’s Rare Materials Collection that shows a distinct coastline of Singapore. </p>
+
+This 1606 engraved map by the de Bry family is one of the earliest in the National Library’s Rare Materials Collection that shows a distinct coastline of Singapore. 
 
 <img src="/images/vol-11-issue-4/battle-captured-in-a-map/battlemap_topic.png" style="width:80%;">
 <hr>
