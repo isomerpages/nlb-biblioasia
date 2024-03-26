@@ -16,6 +16,9 @@ Decades after the surrender of Allied forces to the Japanese on 15 February 1942
 
 While Percival, as the commander in charge of Malaya, was ultimately responsible for making the decision, that decision to surrender was not made alone. On that fateful day, the&nbsp; surrender was decided by Percival in consultation with 11 other men.
 
+<img src="/images/nama.png">
+<div style="background-color:white;">Lieutenant-General Arthur Ernest Percival (extreme right) and his party on their way to the Ford Factory in Bukit Timah to surrender Singapore to the Japanese on 15 February 1942. <i>© IWM HU 2781.</i></div>
+
 On the morning of the 15th, Percival had called for a meeting in the Battlebox, the underground bunker at Fort Canning, which had served as his headquarters in the last days of the Malayan Campaign. The aim of the meeting was to update the key commanders of the dire situation facing Singapore and to decide on the next course of action.
 
 The war in Malaya had begun with troops of the Japanese 25th Army landing in Kota Bahru in northern Malaya, and Singora and Patani in southern Thailand on 8 December 1941. On the same day, Japanese planes dropped the first bombs on Singapore, killing 61 and injuring 133 people. Two months later, on 8 February 1942, the first Japanese troops landed in Singapore via the northwestern coastline of the island.[^2]
