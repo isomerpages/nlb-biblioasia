@@ -8,13 +8,13 @@ variant: markdown
 
 Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair.
 
-<img src="/images/Vol%2020%20Issue%201/Hippie%20Hysteria/Image6.png" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%201/Hippie%20Hysteria/hippie_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/crash-helmets-mandatory/">The Bumpy Ride to Making Crash Helmets Mandatory</a>
 Crash helmets might save lives but getting people to wear them was an uphill task.
 
-<img src="/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/crash_helmet_header.jpg" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%203/4%20Crash%20Helmets/crash_helmet_header.jpg" style="width:90%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign">Going Against the (Rice) Grain: The “Eat More Wheat” Campaign</a>
@@ -27,42 +27,42 @@ The call for Singaporeans to switch from eating rice to eating wheat in 1967 did
 
 Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972, but goes back even earlier to 1949.
 
-<img src="/images/Vol%2018%20Issue%203/Family%20Planning/Cover.png" style="width:80%;">
+<img src="/images/Vol%2018%20Issue%203/Family%20Planning/BuonaVista.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/">Flower Power: Singapore's Orchid Diplomacy</a>
 
 Singapore’s diplomatic efforts may take several forms, including naming orchid hybrids after foreign dignitaries. **Rebecca Tan** tells us more.
 
-<img src="/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Sealara%20Nelson%20Mandela%20(credit%20NParks).png" style="width:70%;">
+<img src="/images/Vol%2018%20Issue%201/Orchid%20Diplomacy/Nelson%20Mandela.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/tree-planting-day/">The Blossoming of Tree Planting Day</a>
 
 Singapore has planted more than two million trees in the past 50 years. <b>Lim Tin Seng</b> traces the roots of Tree Planting Day.
 
-<img src="/images/vol-17-issue-4/tree-planting/3-LKY.jpg" style="width:120%;">
+<img src="/images/vol-17-issue-4/tree-planting/treeplanting_topic.png" style="width:80%;">
 <hr>
 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue/">The Sticky Problem of Opium Revenue</a>
 <b>Diana S. Kim</b> explains how the colonial government reduced its dependence on opium taxes.
 
-<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg" style="width:80%;">													
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue_topic.png" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/gunpoint/">At Gunpoint: Wiping Out Illegal Firearms in Singapore</a>
 
 Street shootouts and armed kidnappings used to be common. **Tan Chui Hua**  zeroes in on how these criminals were disarmed.
 
-<img src="/images/Vol-16-issue-3/gunpoint/openinggun-gunpoint-01.jpg" style="width:100%;">													
+<img src="/images/Vol-16-issue-3/gunpoint/gunpoint_topic.png" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/covid19/">Life in a Time of COVID-19</a>
 
 **Janice Loo**  explains the National Library’s crowdsourcing efforts to document the impact of the coronavirus pandemic.
 
-<img src="/images/Vol-16-issue-3/covid19/covid19-opening.jpg" style="width:50%;">													
+<img src="/images/Vol-16-issue-3/covid19/covid19_topic.png" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/website/">An Archive of Singapore Websites: Preserving the Digital</a>
@@ -76,7 +76,7 @@ Street shootouts and armed kidnappings used to be common. **Tan Chui Hua**  zero
 
 **Lim Tin Seng**&nbsp;examines temperature and rainfall records in Singapore over the past 200 years.
 
-<img src="/images/Vol-16-issue-2/rain/PilotBalloon1.jpg" style="width:70%;">													
+<img src="/images/Vol-16-issue-2/rain/rain_topic.png" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/metric/">Milestones to the Metric System</a>
@@ -97,7 +97,7 @@ The very first census here was conducted in 1824. **Ang Seow Leng** reveals how 
 
 <b>Shashi Jayakumar</b>&nbsp;examines the role of the National Archives as the official custodian of government records and the people’s collective memory.
 
-<img src="/images/Vol-15-issue-1/looking-back-looking-forward/01_lookingbackforward.jpg" style="width:80%;">													
+<img src="/images/Vol-15-issue-1/looking-back-looking-forward/lookingbackforward_topic.png" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/evidence-in-archives/">Encountering Evidence in the Archives (In Many Ways and of Many Things)</a>
@@ -118,12 +118,12 @@ Photographs can capture subtext that is sometimes more evocative than the intend
 
 Oral history is often considered as “little” – personal accounts of humble folk, as opposed to “big” or written history on serious topics. But “little” does not mean negligible or inferior, says&nbsp;<b>Cheong Suk-Wai</b>.
 
-<img src="/images/Vol-15-issue-1/stories-of-little-people/01_littleppl.png" style="width:80%;">													
+<img src="/images/Vol-15-issue-1/stories-of-little-people/littleppl_topic.png" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/feeding-the-hungry/">Feeding the Hungry: Children in Post-War Singapore</a>
 
 In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore.&nbsp;<b>Cheryl-Ann Low</b>&nbsp;has the details.
 
-<img src="/images/Vol-15-issue-1/feeding-the-hungry/01_hungrychildren.png" style="width:80%;">													
+<img src="/images/Vol-15-issue-1/feeding-the-hungry/hungrychildren_topic.png" style="width:80%;">													
 <hr>

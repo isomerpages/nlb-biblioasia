@@ -58,7 +58,7 @@ An innovation patented in 1920 produced paper that was more durable, had greater
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao/">From Lat Pau to Zaobao: A History of Chinese Newspapers</a>
 Chinese newspapers have been published in Singapore since the 19th century.&nbsp;**Lee Meiyu**&nbsp;looks at how they have evolved and examines their impact on the Chinese community here.
 
-<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/Image8.JPG" style="width:80%;">
+<img src="/images/Vol-15-issue-4/history-of-chinese-newspapers/laupasat_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/printing-in-indochi/">Early Printing In Indochina</a>
@@ -99,5 +99,5 @@ To mark its centenary, a Chinese clan association recently donated its archives 
 
 To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library.&nbsp;**Jessie Yak**&nbsp;shares highlights from the collection.
   
-<img src="/images/Vol-14-issue-4/when-there-were-farms/Farm1.JPG" style="width:80%;">
+<img src="/images/Vol-14-issue-4/when-there-were-farms/farm_topic.png" style="width:80%;">
 <hr>

@@ -7,13 +7,13 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/">A Plethora of Tongues: Multilingualism in 1950s Malayan Writing</a>
 From the melting pot of cultures and languages in postwar Singapore emerged the search for a Malayan identity, negotiated and presented through multilingualism in Malayan literature.
 
-<img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/20100000306_IMG0038.jpg" style="width:80%;">  
+<img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/plethora_topic.png" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/">Portugal's Linguistic Legacy in Southeast Asia</a>
 While Portugal may not have had a large presence in this region, remnants of the Portuguese language continue to linger on, in some places more than others.
 
-<img src="/images/Vol%2019%20Issue%201/Portuguese/People_in_village.png">  
+<img src="/images/Vol%2019%20Issue%201/Portuguese/eurasian_chingay_homepage.png" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-4/jan-mar-2023/taoist-folk-goddesses-singapore/">Maiden Lim and Her Sisters: Taoist Folk Goddesses of Singapore</a>
@@ -44,7 +44,7 @@ The story of how Johor ended up at the Chicago World’s Fair is an unexpected t
 
 Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism.
 
-<img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%201.png">
+<img src="/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/buddhist_women_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore/">We Are What We Eat: The Evolution of Chinese Food in Singapore</a>
@@ -58,13 +58,13 @@ Chinese food in Singapore is a product of the country’s history and geography,
 
 **Fiona Lim** and **Geoffrey Pakiam** look at a time-honoured tradition that is no longer fashionable.
 
-<img src="/images/Vol-16-issue-3/betel/betelchewinginsingapore.jpg" style="width:50%;">													
+<img src="/images/Vol-16-issue-3/betel/betelchewing_topic.png" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/opium-revenue/">The Sticky Problem of Opium Revenue</a>
 **Diana S. Kim**  explains how the colonial government reduced its dependence on opium taxes.
 
-<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg" style="width:80%;">													
+<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue_topic.png" style="width:80%;">													
 <hr>
 
 
@@ -72,5 +72,5 @@ Chinese food in Singapore is a product of the country’s history and geography,
 
 Self-mortification and the spilling of blood are hallmarks of the Chinese *tangki*. **Margaret Chan** explains the symbolism behind these practices.
 
-<img src="/images/Vol-16-issue-2/medium/TanEngHing.jpg" style="width:85%;">													
+<img src="/images/Vol-16-issue-2/medium/medium_topic.png" style="width:85%;">													
 <hr>
