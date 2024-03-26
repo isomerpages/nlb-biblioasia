@@ -7,7 +7,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography">Cartography and the Rise of Colonial Empires in Asia</a>
 <p>Chia Jie Lin highlights interesting cartographic efforts from the National Library’s latest exhibition on Asian maps.</p> 
 
-<img src="/images/vol-17-issue-4/cartography/1-Map.jpg" style="width:80%; height: 500px; object-fit: cover"> 
+<img src="/images/vol-17-issue-4/cartography/1-Map.jpg" style="width:80%; height: 350px; object-fit: cover"> 
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur">The Borobudur, Mysterious Gold Plates and Singing Maps</a>
@@ -19,6 +19,9 @@ variant: markdown
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/india-tercera-nuova-tavola">When Singapore Was Cinca Pula</a>
 <i>India Tercera Nuova Tavola</i> is one of the first early modern maps of Southeast Asia. It is also the National Library’s oldest map that makes reference to a C. Cinca Pula, which scholars believe refers to either the town of Singapore, one of several straits on which Singapore sits, or the southern tip of the Malay Peninsula. 
+
+<img src="/images/vol-11-issue-4/India_Tercera_topic.png" style="width:80%;">
+
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/portuguese-map-sincapura-janssen">A Portuguese Map of Sincapura</a>
