@@ -19,7 +19,8 @@ variant: markdown
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/search-sg-old-map"> Searching for Singapore in Old Maps and Sea Charts</a>
 <p>Kwa Chong Guan dissects the history of maps and tells us how Singapore was perceived and located in early modern European maps of the region.</p> 
-<img src="/images/vol-11-issue-1/searchingforsg/Cantino_Chart.jpg">
+
+<img src="/images/vol-11-issue-1/searchingforsg/Cantino_Chart.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/india-tercera-nuova-tavola">When Singapore Was Cinca Pula</a>
@@ -28,7 +29,8 @@ variant: markdown
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-as-statement"> Maps as Statements of Power and Domination</a>
 <p>Drawing from his personal collection of maps amassed over three decades, Dr Farish A. Noor invites us to truly read maps and look beyond their geographical boundaries.</p> 
-<img src="/images/vol-10-issue-4/statementsofpoweranddomination/batik.jpg">
+
+<img src="/images/vol-10-issue-4/statementsofpoweranddomination/batik.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur">The Borobudur, Mysterious Gold Plates and Singing Maps</a>
@@ -37,7 +39,8 @@ variant: markdown
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/map-south-east-asia-exacta-accurata-linschoten"> The Map That Opened Up Southeast Asia</a>
 <p>The National Library has two different versions of the Exacta &amp; Accurata map, both dated 1596: a black and-white copy donated by the philanthropist and architect Koh Seow Chuan, and this hand-coloured version in the David Parry Southeast Asian Map Collection.</p> 
-<img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/02a_mapthatopenedsea.jpg">
+
+<img src="/images/vol-11-issue-4/map-that-opened-southeast-asia/02a_mapthatopenedsea.jpg" style="width:80%;">
 <hr>
 
 
@@ -47,6 +50,7 @@ variant: markdown
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/secretmap">The Secret Maps of Singapore</a>
 <p>Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. Bonny Tan explores the origins of these one-of-a-kind maps.</p> 
+
 <img src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg">
 <hr>
 
@@ -58,5 +62,6 @@ variant: markdown
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-collection">Lay of the Land: The National Archives of Singapore’s Map Collection</a>
 <p>From Singapore’s days as a colony to modern times, maps have been an integral part of the nation’s development. Kevin Khoo highlights the National Archives of Singapore’s 10,000-strong map collection.</p> 
+
 <img src="/images/vol-10-issue-4/layoftheland/backgrounds_resss.jpg">
 <hr>
