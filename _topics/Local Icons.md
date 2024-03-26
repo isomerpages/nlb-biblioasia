@@ -76,7 +76,7 @@ The now-defunct Baharuddin Vocational Institute was Singapore’s first formal s
 
 *Paddy Jonathan Ong*  traces the history of Singapore’s first branch library.
 
-<img src="/images/Vol-16-issue-3/queenstown/queenstown-libopening.jpg" style="width:80%;">
+<img src="/images/Vol-16-issue-3/queenstown/queenstown_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/causeway/">From Sea to Road: Building the Causeway</a>
