@@ -19,7 +19,7 @@ A look back at John Little’s 170-year history and the lasting mark the store h
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-central-bank">The Making of the Monetary Authority of Singapore: How the MAS Became Singapore’s Central Bank</a>
 While the Monetary Authority of Singapore was established in 1971, it only became a full-fledged central bank some 30 years later.
 
-<img style="width:80%;" src="/images/Vol%2018%20Issue%203/MAS/1_MASbuilding.jpg">  
+<img style="width:80%;" src="/images/Vol%2018%20Issue%203/MAS/mas_topic.png">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/history-singapore-airlines">A Great Way to Fly: The Singapore Airlines Story</a>
