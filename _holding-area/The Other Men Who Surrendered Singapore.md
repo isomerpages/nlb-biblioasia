@@ -9,7 +9,7 @@ description: Arthur E. Percival should not have been made the convenient
 #### Arthur E. Percival should not have been made the convenient scapegoat for the fall of Singapore on 15 February 1942. Eleven other men had taken the decision with him to surrender Singapore to the Japanese.  
 By Phan Ming Yen
 
-Decades after the surrender of Allied forces to the Japanese on 15 February 1942, much of the blame for the fall of Singapore remains associated with Lieutenant-General Arthur E. Percival, General Officer Commanding Malaya. As military historian Clifford Kinvig noted, Percival was not merely associated with the defeat but “he seemed to some commentators to bear a large responsibility for it”.1
+Decades after the surrender of Allied forces to the Japanese on 15 February 1942, much of the blame for the fall of Singapore remains associated with Lieutenant-General Arthur E. Percival, General Officer Commanding Malaya. As military historian Clifford Kinvig noted, Percival was not merely associated with the defeat but “he seemed to some commentators to bear a large responsibility for it”.[^1]
 
 <img src="/images/nama.png">
 <div style="background-color:white;">Lieutenant-General Arthur Ernest Percival (extreme right) and his party on their way to the Ford Factory in Bukit Timah to surrender Singapore to the Japanese on 15 February 1942. <i>© IWM HU 2781.</i></div>
