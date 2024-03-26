@@ -35,7 +35,7 @@ While the spotlight has typically fallen on Percival, Heath, Bennett and Simmons
 
 Their reported silence and concurrence can perhaps be understood – within present-day management discourse – as “acquiescent silence”. This is the silence of individuals who “accept the prevailing circumstances and who are not inclined to speak, participate or spend effort to change current status”, or they are of the opinion that “it is pointless and unnecessary to express” their viewpoint. They think “that remaining silent could protect their relationships and allow them to perform their job better”.14 Nonetheless, an overview of who these men were can perhaps serve as a starting point for further research into broadening the existing narratives of the surrender.
 
-Cyril Hew Dalrymple Wild (1908–46)
+#### **Cyril Hew Dalrymple Wild (1908–46)**
 
 Among the eight, Wild is probably the most interesting. Wild, together with Percival, Newbigging and Torrance, had been members of the surrender party and were photographed walking towards the Ford Factory to meet with Lieutenant-General Tomoyuki Yamashita, commander of the Japanese 25th Army. It was Wild who carried the white flag. 
 
