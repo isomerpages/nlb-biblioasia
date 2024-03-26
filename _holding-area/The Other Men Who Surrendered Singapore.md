@@ -138,6 +138,10 @@ The actual surrender took place on the premises of the Ford Factory in Bukit Tim
 	
 Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit https://corporate.nas.gov.sg/former-ford-factory/overview/)<br></div>
 
+<div style="background-color: white;">
+<img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/linda_profile_foto.png" style="width: 100px; height:100px;">
+<b>Linda Lim</b> is a Singaporean economist and Professor Emerita of corporate strategy and international business at the University of Michigan Ross School of Business. She also served as director of the University’s Center for Southeast Asian Studies.</div>
+
 #### **Notes**
 
 [^1]: Clifford Kinvig, “General Percival and the Fall of Singapore,” in [_Sixty Years On: The Fall of Singapore Revisited_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11730807), ed. Brian Farrell and Sandy Hunter (Singapore: Eastern Universities Press, 2002), 240. (From National Library, Singapore, call no. RSING 940.5425 SIX-\[WAR\])
