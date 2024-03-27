@@ -148,7 +148,7 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^2]: “[A Marsupial Pugilist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18960609-1.2.139),” _Straits Budget_, 9 June 1896, 12. (From NewspaperSG)
 
-[^3]: H.L. Hopkin, “[Boxing Nights in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19271207-1.2.32),” _Straits Times_, 7 December 1927, 8. (From NewspaperSG). When newspapers advertised the bout as the “flyweight championship of Malaya”, several readers complained that the title was undeserved. The _Malaya Tribune_, rather sensibly, responded that there were “no formal championship competitions for boxers in Singapore, or anywhere else in Malaya”. And it went on to add, “Meanwhile, who can dispute any man’s right to claim any title except by fighting him for it?” See “Boxing,” _Malaya Tribune_, 8 July 1921, 5. (From NewspaperSG)
+[^3]: H.L. Hopkin, “[Boxing Nights in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19271207-1.2.32),” _Straits Times_, 7 December 1927, 8. (From NewspaperSG). When newspapers advertised the bout as the “flyweight championship of Malaya”, several readers complained that the title was undeserved. The _Malaya Tribune_, rather sensibly, responded that there were “no formal championship competitions for boxers in Singapore, or anywhere else in Malaya”. And it went on to add, “Meanwhile, who can dispute any man’s right to claim any title except by fighting him for it?” See “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19210708-1.2.43),” _Malaya Tribune_, 8 July 1921, 5. (From NewspaperSG)
 
 [^4]: Lim Kee Chan, oral history interview by Chong Ching Liang, 18 April 1999, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f396ab09-115f-11e3-83d5-0050568939ad-OHC001770_006/web/html5/index.html) and MP3 audio, Reel/Disc 6 of 13, National Archives of Singapore ([accession no. 0001770](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001770)), 105–06.&nbsp;
 
@@ -156,9 +156,9 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^6]: No record of a Tait brothers’-owned circus travelling to Singapore in 1920 is available in the archives. Edwin Tait did, however, bring a circus over as part of the Malaya-Borneo exhibition in 1922.
 
-[^7]: Lim Kee Chan, oral history interview, 18 April 1999, Reel/Disc 6 of 13, 105–06.
+[^7]: [Lim Kee Chan](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f396ab09-115f-11e3-83d5-0050568939ad-OHC001770_006/web/html5/index.html), oral history interview, 18 April 1999, Reel/Disc 6 of 13, 105–06.
 
-[^8]: Nick Aplin and Quek Jin Jong, “Celestials in Touch: Sport and the Chinese in Colonial Singapore,” in _Sport in Asian Society: Past and Present_, ed. J.A. Mangan and Fan Hong (London; Portland, Or.: Cass, 2003), 70. (From National Library, Singapore, call no. R 796.095 SPO)&nbsp;
+[^8]: Nick Aplin and Quek Jin Jong, “Celestials in Touch: Sport and the Chinese in Colonial Singapore,” in [_Sport in Asian Society: Past and Present_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12328575), ed. J.A. Mangan and Fan Hong (London; Portland, Or.: Cass, 2003), 70. (From National Library, Singapore, call no. R 796.095 SPO)&nbsp;
 
 [^9]: Teresa Oei, “My Uncle, The Peranakan Boxing Champion,” _The Peranakan Association Newsletter_ (December 1995): 3–4, https://www.peranakan.org.sg/magazine/1995/1995\_Issue\_5.pdf.&nbsp;
 
