@@ -7,10 +7,9 @@ third_nav_title: A Local Olympian
 ---
 <p>Nicknamed “Twinkle Toes” for his agility, Chia Boon Leong (1925–2022)
 is widely regarded as one of Singapore‘s most talented football players.
-Academic and author Nick Aplin talks about the footballer’s sporting achievements
-and their friendship.</p>
-<p></p>
-<h4><strong>Listen to the Full Episode</strong></h4>
+Academic and author Nick Aplin talks about the footballer’s sporting achievements,
+his character and their friendship.</p>
+<h4><br><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/episode/2y8wl7lKlIl5p2T51PVPML" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/singapore-bands-in-wartime-vietnam/id1688142751?i=1000648327193" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts </u>
 </a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/OGNiNGFhYTQtMmJhYi00NWE5LTljYTUtZjhiN2VlYzNkNmNk?sa=X&amp;ved=0CAUQkfYCahcKEwiwq5uH5-GEAxUAAAAAHQAAAAAQAQ" rel="noopener noreferrer nofollow" target="_blank"><u>Google Podcasts</u></a>,
