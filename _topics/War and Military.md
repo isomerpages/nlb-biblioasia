@@ -89,8 +89,7 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 <img src="/images/Vol-16-issue-1/history/History-title2.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/viet-war-through-sg/">The Vietnam War Through Singaporean Eyes
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/viet-war-through-sg/">The Vietnam War Through Singaporean Eyes</a>
 
 Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived.&nbsp;**Shirlene Noordin**&nbsp;has the story.
 
