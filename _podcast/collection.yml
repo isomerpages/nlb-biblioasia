@@ -2,6 +2,8 @@ collections:
   podcast:
     output: true
     order:
+      - "A Homegrown Football Olympian/Chia Boon Leong: The Homegrown Football
+        Olympian.md"
       - A Homegrown Football Olympian/.keep
       - Wartime Entertainers/.keep
       - Wartime Entertainers/Singapore Bands in Wartime Vietnam.md
