@@ -147,7 +147,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 <div style="background-color: white;">
 <img src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/linda_profile_foto.png" style="width: 100px; height:100px;">
-<b>Linda Lim</b> is a Singaporean economist and Professor Emerita of corporate strategy and international business at the University of Michigan Ross School of Business. She also served as director of the University’s Center for Southeast Asian Studies.</div>
+<b>Phan Ming Yen</b> is an independent writer, researcher and producer. A former journalist and arts manager, his current areas of research are on the Malayan Campaign and Japanese Occupation in Singapore. He has written about 19th-century music in Singapore and also on the Syonan Symphony Orchestra during the Occupation.</div>
 
 #### **Notes**
 
