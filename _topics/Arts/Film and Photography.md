@@ -67,6 +67,13 @@ The oldest known photographs of Singapore were taken by Europeans in the early 1
 <img src="/images/Vol-15-issue-3/daguerreotypes-to-dry-plates/Daguerreotypes5.JPG" style="width:80%;">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/the-making-of-xin-ke/">The Making of Xin Ke (新客)</a>
+
+This 1927 silent Chinese movie is the first feature film to be made in Singapore and Malaya.&nbsp;**Jocelyn Lau**&nbsp;traces its genesis with researcher Toh Hun Ping and translation editor Lucien Low.
+
+<img src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe1.JPG" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/wong-ken-foo/">From the Archives: The Work of Photographer KF Wong</a>
 K.F. Wong shot to international fame with his images of Borneo, though not without controversy.&nbsp;**Zhuang Wubin**&nbsp;examines Wong’s work and sees beyond their historical value.
 
