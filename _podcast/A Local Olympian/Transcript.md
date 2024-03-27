@@ -90,14 +90,15 @@ row in front of me and he just said, “He was better.”
 </p>
 <p><strong>Jimmy</strong> 
 <br>Okay.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Nick</strong> 
 <br>And this is somebody who’d actually seen him play. But it’s a dangerous
 thing to undermine Fandi’s status.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Jimmy</strong> 
-<br>Absolutely, absolutely.</p>
-<p>&nbsp;</p>
+<br>Absolutely, absolutely.
+<br>
+</p>
 <p><strong>Nick</strong> 
 <br>But Boon Leong was one who could do it. So, I’m fully in favor of reinforcing
 that view that – I used the words: he was in the same class as Fandi, as
@@ -124,7 +125,7 @@ nation has to be affiliated to the IOC.</p>
 1947, but they were unable to put together a team anyway. There weren’t
 enough good players to justify the time and the expenditure. So, for him
 the only option was China and they knew all about him in China, partly
-because of their Lian Hua tour in 1947, given how well he had performed,
+because of their Lian Hua tour in 1947, given how well he had performebd,
 partly because of how he played against some of the Chinese touring teams
 like Tsingtao.</p>
 <p>&nbsp;</p>
@@ -141,16 +142,16 @@ he was in the starting 11.</p>
 <p><strong>Nick</strong> 
 <br>No, I think it’s really hard luck to go all that way and to go straight
 into a knockout competition and you lose in the first game. That’s it,
-bye bye.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong> 
+bye bye.
+<br>
+<br><strong>Jimmy</strong> 
 <br>That was very, very painful.</p>
-<p>&nbsp;</p>
-<p><strong>Nick</strong> 
+<p>
+<br><strong>Nick</strong> 
 <br>Very it’s very painful. But I mean, they knew what the rules were before
 they went. But whereas nowadays, you have group stages, at least three
 or four, three games before you move on.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Jimmy</strong> 
 <br>You met Boon Leong himself, didn’t you, about 20 years ago. Tell us about
 the meeting.</p>
@@ -317,7 +318,7 @@ at 2 pm.” Okay. You know, that’s great. And I’ll get ready for that.</p>
 <p>&nbsp;</p>
 <p>Now, with my advancing years, I thought about the two previous weeks,
 Friday at 5 pm, Friday, 5 pm. This time it was 2 pm. So, I’m sort of gearing
-up. I'm having a bit of a snooze. I'm getting ready. Phonecall from the
+up. I'm having a bit of a snooze. I'm getting ready. Phone call from the
 PA. “Nick, are you. Are you nearby? Are you coming?” And I said, “Why,
 it’s 5 pm, isn’t it?” “No, no, this interview is 2 pm. How long will it
 take you to get down here? He is going to wait for you.” Okay, So I rush,
@@ -341,7 +342,7 @@ we talked about sport and about him maybe for an hour and a half.</p>
 <p><strong>Nick</strong> 
 <br>There was never an issue of “Let’s make this quick.” And he was brilliant.
 He was perfect. And I presented him with a copy of book 1, <em><a href="https://catalogue.nlb.gov.sg/search/card?id=7da07a8f-2b30-5440-9218-8aea5b8eb218&amp;entityType=FormatGroup" rel="noopener noreferrer nofollow" target="_blank">The Colonial Legacy</a></em>.
-When Book 3 was due to come out, I thought, “Can we invite the president?”
+When book three was due to come out, I thought, “Can we invite the president?”
 Because now he was in line.</p>
 <p>&nbsp;</p>
 <p>He was going through the election process. Can we invite him along? Can
