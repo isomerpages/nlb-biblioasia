@@ -12,6 +12,9 @@ By Abhishek Mehrotra
 
 On 15 July 1896, an advertisement in the _Straits Times Maritime Journal and General News_ invited readers in Singapore to witness what it promised would be a marvellous exhibition of boxing by “The Wonder of the Age – ‘Peter Jackson’”. [^1]
 
+![](/images/Vol%2020%20Issue%202/Boxing/Image1.png)
+<div style="background-color: white;">The cover of The Straydogs’ 1967 vinyl release of “Mum’s Too Pampering” and “I Can Only Give You Everything”. Dennis Lim is standing, second from the left. <i>Courtesy of Vernon Cornelius.</i></div>
+
 This would normally not have caught the attention of this 21st-century researcher had it not been for a singular fact: Peter Jackson was a boxing kangaroo. It had arrived in Singapore from Fremantle, Western Australia, on the steamship _Sultan_ in June.[^2]
 
 It would take another quarter of a century before human beings replaced sparring marsupials in newspaper ads and the public imagination.
