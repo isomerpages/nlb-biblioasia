@@ -180,11 +180,11 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^18]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231015-1.2.82.1),” _Straits Times_, 15 October 1923, 10; “[First Real Local Champion](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19371106-1.2.119.34).” _Morning Tribune_, 6 November 1937, 8. (From NewspaperSG).
 
-[^19]: “Boxing.”
+[^19]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231015-1.2.82.1).”
 
-[^20]: “Boxing.”
+[^20]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231015-1.2.82.1).”
 
-[^21]: “Boxing.”
+[^21]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231015-1.2.82.1).”
 
 [^22]: “Boxing.” Almost immediately, the Battling Key – Young Pelky fight attained legendary status in Singapore’s boxing circles. In later years, varying claims would be made about the size of the audience – ranging from 6,000 to 12,000. See, for example, “First Real Local Champion” and Rippa, “Battling Key – Battler and Philanthropist.”
 
