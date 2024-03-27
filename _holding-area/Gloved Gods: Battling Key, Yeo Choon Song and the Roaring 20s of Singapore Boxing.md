@@ -208,9 +208,9 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^32]: “[Boxing: Friday March 4 at Happy Valley](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19270303-1.2.28.1),” _Malaya Tribune_, 3 March 1927, 7; “Key–Song To-Night,” _Malaya Tribune,_ 4 March 1927, 10. (From NewspaperSG)&nbsp;
 
-[^33]: “Sporting News: Boxing,” _Malaya Tribune_, 5 March 1927, 10. (From NewspaperSG)
+[^33]: “[Sporting News: Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19270305-1.2.70),” _Malaya Tribune_, 5 March 1927, 10. (From NewspaperSG)
 
-[^34]: “Sporting News: Boxing.”&nbsp;
+[^34]: “[Sporting News: Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19270305-1.2.70).”
 
 [^35]: The description of the evening’s events has been adapted from “Last Night’s Results,” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 5 March 1927, 20. (From NewspaperSG)
 
