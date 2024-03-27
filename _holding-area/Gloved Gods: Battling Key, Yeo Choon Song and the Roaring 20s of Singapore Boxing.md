@@ -10,36 +10,35 @@ description: In the aftermath of World War I, the “noble art” became wildly
 #### In the aftermath of World War I, the “noble art” became wildly popular in Singapore thanks to two Straits Chinese who took on all-comers, including each other.
 By Abhishek Mehrotra
 
-On 15 July 1896, an advertisement in the _Straits Times Maritime Journal and General News_ invited readers in Singapore to witness what it promised would be a marvellous exhibition of boxing by “The Wonder of the Age – ‘Peter Jackson’”. 1
+On 15 July 1896, an advertisement in the _Straits Times Maritime Journal and General News_ invited readers in Singapore to witness what it promised would be a marvellous exhibition of boxing by “The Wonder of the Age – ‘Peter Jackson’”. [^1]
 
-This would normally not have caught the attention of this 21st-century researcher had it not been for a singular fact: Peter Jackson was a boxing kangaroo. It had arrived in Singapore from Fremantle, Western Australia, on the steamship _Sultan_ in June.2
+This would normally not have caught the attention of this 21st-century researcher had it not been for a singular fact: Peter Jackson was a boxing kangaroo. It had arrived in Singapore from Fremantle, Western Australia, on the steamship _Sultan_ in June.[^2]
 
 It would take another quarter of a century before human beings replaced sparring marsupials in newspaper ads and the public imagination.
 
-Beginnings of Professional Boxing
+#### **Beginnings of Professional Boxing**
 
-When World War I ended in 1919, Singapore had a restless population of migrant Chinese labourers thirsting for some cheap entertainment. Gradually, the island started to gain popularity as a stopover for travelling exhibitions and circuses. According to at least one source, it was “Colonel” Frank Fillis of the famed Fillis circus who started the trend in 1921 with a hastily organised “flyweight champion­ship of Malaya” after ticket sales for the circus started to flag. The fight between two locals, Fred de Souza (also known as the Red Warren) and  
-Kong Ah Yong, raked in over $4,000.3
+When World War I ended in 1919, Singapore had a restless population of migrant Chinese labourers thirsting for some cheap entertainment. Gradually, the island started to gain popularity as a stopover for travelling exhibitions and circuses. According to at least one source, it was “Colonel” Frank Fillis of the famed Fillis circus who started the trend in 1921 with a hastily organised “flyweight champion­ship of Malaya” after ticket sales for the circus started to flag. The fight between two locals, Fred de Souza (also known as the Red Warren) and Kong Ah Yong, raked in over $4,000.[^3]
 
-In another source, it was the brothers Edwin and Stewart Tait who first brought boxing to these shores.4
+In another source, it was the brothers Edwin and Stewart Tait who first brought boxing to these shores.[^4]
 
-The Taits, Americans from Tacoma in Washington state, were entertainment moguls with business interests on either side of the Pacific. Their main base of operations in Southeast Asia was the Philippines – then a US colony – where they owned five carnivals and assisted in the running of the Manila racecourse.5 &nbsp;
+The Taits, Americans from Tacoma in Washington state, were entertainment moguls with business interests on either side of the Pacific. Their main base of operations in Southeast Asia was the Philippines – then a US colony – where they owned five carnivals and assisted in the running of the Manila racecourse.[^5]
 
-More than anything though, the brothers loved boxing.&nbsp;
+More than anything though, the brothers loved boxing.
 
-In 1920, the Taits brought a travelling circus to Singapore, and in an apparently spur-of-the-moment decision, constructed a makeshift boxing ring to host exhibition bouts after the evening’s main entertainments were done.6 The first few fights were between Filippino circus workers. As interest grew and larger crowds started gathering, the brothers invited daring onlookers to fight them.7
+In 1920, the Taits brought a travelling circus to Singapore, and in an apparently spur-of-the-moment decision, constructed a makeshift boxing ring to host exhibition bouts after the evening’s main entertainments were done.[^6] The first few fights were between Filippino circus workers. As interest grew and larger crowds started gathering, the brothers invited daring onlookers to fight them.[^7]
 
 This humble beginning was the taproot from which sprang the heady, golden years of boxing in Singapore.&nbsp;
 
-The sport held a peculiar fascination for the locals. Unlike cricket, tennis or swimming – which were mostly confined to exclusive upper-class clubs for the affluent – boxing belonged “to the greater mayhem and disorder of the streets”.8
+The sport held a peculiar fascination for the locals. Unlike cricket, tennis or swimming – which were mostly confined to exclusive upper-class clubs for the affluent – boxing belonged “to the greater mayhem and disorder of the streets”.[^8]
 
-It also lent itself to betting. In a remarkably short span of time, boxing bouts took their place alongside cards and dominoes as a favoured betting avenue.&nbsp; Boxers became cult figures.
+It also lent itself to betting. In a remarkably short span of time, boxing bouts took their place alongside cards and dominoes as a favoured betting avenue. Boxers became cult figures.
 
-Pulling No Punches
+#### **Pulling No Punches**
 
 The first local hero was an unlikely one – a Straits Chinese named Tan Teng Kee. Born in 1898 to a respected family whose head was a _sinseh_ (traditional Chinese physician), Tan had attended the venerable St Joseph’s Institution – a natural stepping stone to a “respectable” white-collar profession.9 To the family’s shock though, Tan decided to don boxing gloves. His nom de guerre: Battling Key.
 
-The circumstances leading up to Battling Key’s decision are lost to history. What is known is that by August 1921, only a year after boxing had come to Singapore, he was facing off against a certain C. Oehlers in the final of the colony’s amateur lightweight championship at the packed Palladium Theatre (site of the Orchard Gateway today).10
+The circumstances leading up to Battling Key’s decision are lost to history. What is known is that by August 1921, only a year after boxing had come to Singapore, he was facing off against a certain C. Oehlers in the final of the colony’s amateur lightweight championship at the packed Palladium Theatre (site of the Orchard Gateway today).[^10]
 
 The _Straits Times_ was on hand to record the events of that fine August evening. “About halfway through the second \[round\], Oehlers rushed, wide open and Teng Kee, quick to seize the opportunity, met him with a right upper cut. It was a peach of a punch, landing well on the point and with force behind it, and Oehlers went down and out. There are distinct possibilities in Teng Kee. A lad who learns how to place a punch like that practically by instinct might go far with proper handling.”11 Battling Key had won the match in the only knockout of the evening.
 
