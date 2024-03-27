@@ -24,8 +24,8 @@ get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>About the Guest</strong></h4>
 <p>Dr Nick Aplin is the Deputy Director (Sport Heritage) at Sport Singapore.
-He is the author of the <em>Sport in Singapore</em> series: <em>The Colonial Legacy </em>(2019), <em>The Rocky Road to Kallang Park</em> (2023)
-and <em>Visions for Change </em>(2023).</p>
+He is the author of the <em>Sport in Singapore</em> series:<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042" rel="noopener noreferrer nofollow" target="_blank">The Colonial Legacy</a> </em>(2019),
+<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206068467" rel="noopener noreferrer nofollow" target="_blank">The Rocky Road to Kallang Park</a>(2023) and <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300007221" rel="noopener noreferrer nofollow" target="_blank">Visions for Change</a> </em>(2023).</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
 <p></p>
