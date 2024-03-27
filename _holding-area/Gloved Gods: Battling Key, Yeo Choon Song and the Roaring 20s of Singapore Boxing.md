@@ -158,6 +158,9 @@ Still adamant, Key was “determined to try and come back”. He found some back
 
 Unfortunately, a match on 19 March 1935 was Key’s swan song. He was lined up against Jimmy Nelson from Kuala Lumpur. After a promising start in the earlier rounds, Key went down after a “light glancing blow on the chin” in the fifth round. He got up immediately but was sent down again with a right hook. When the seventh round began, he lost consciousness and was admitted to the local general hospital.[^48]
 
+![](/images/Vol%2020%20Issue%202/Boxing/Image10.png)
+<div style="background-color: white;">Yeo Choon Song (Y.C. Song) died on 20 February 1988 at the age of 83. He was described as “a classy fighter, known for his bravery in taking on all-comers”. <i>Source: The Straits Times, 27 February 1988 © SPH Media Limited. Permission required for reproduction.</i></div>
+
 On 20 March 1935, nine months before Yeo fought for the last time, Battling Key, the former Malayan boxing idol, died without regaining consciousness. He was just 37 years old.[^49]
 
 Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at the age of 83. In his obituary, the _Straits Times_ described him as “a classy fighter, known for his bravery in taking on all-comers”.[^50]
