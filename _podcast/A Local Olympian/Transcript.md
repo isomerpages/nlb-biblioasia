@@ -342,7 +342,7 @@ a happy conclusion to this. Tharman was brilliant. It was as though nothing
 had happened. He’d been working on something else. He came in, and I think
 we talked about sport and about him maybe for an hour and a half.</p>
 <p>
-<br><strong>Jimmy</strong>
+<br><strong>Jimmy</strong> 
 <br>Oh really?
 <br>
 </p>
@@ -476,18 +476,18 @@ right, when it’s raining outside, it doesn’t make it any less of a sport.
 <br>Yeah. Are you going to argue that monopoly is a sport?
 <br>
 </p>
-<p><strong>Nick</strong>
+<p><strong>Nick</strong> 
 <br>Interesting question. Some people will definitely say yes. They will say
 if it’s treated in a strictly competitive way with rules and regulations,
 with regular competitions, international competitions maybe, and so on,
 If it has the same scale, then it will have the same context. I would never
 say no. I know some activities are more sport-like than others.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay, complete the sentence: Sport is...
 <br>
 </p>
-<p><strong>Nick</strong>
+<p><strong>Nick</strong> 
 <br>Sport is? Complete the sentence. That’s the toughest question. Sport is
 one of the ultimate challenges physically and mentally that human beings
 engage in.</p>
