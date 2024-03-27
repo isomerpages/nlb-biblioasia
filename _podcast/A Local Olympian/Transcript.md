@@ -112,10 +112,9 @@ he was born in Singapore.
 <p><strong>Nick</strong> 
 <br>Born in Singapore, did not speak Chinese.
 <br>
-</p>
-<p><strong>Jimmy</strong> 
+<br><strong>Jimmy</strong> 
 <br>I didn’t realise he didn’t speak Chinese.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Nick</strong> 
 <br>This just makes it even more interesting. So where to start really… Football
 in those days, just postwar, was influenced by politics because the Chinese
@@ -130,7 +129,7 @@ the only option was China and they knew all about him in China, partly
 because of their Lian Hua tour in 1947, given how well he had performebd,
 partly because of how he played against some of the Chinese touring teams
 like Tsingtao.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Jimmy</strong> 
 <br>And this was in 1948, the London Olympics, London Olympics and in China,
 he was in the starting 11.</p>
@@ -334,14 +333,15 @@ late.
 <br>
 </p>
 <p><strong>Jimmy</strong> 
-<br>Oh no.</p>
-<p></p>
+<br>Oh no.
+<br>
+</p>
 <p><strong>Nick</strong> 
 <br>But as you can tell, I wouldn’t be telling this story if there wasn’<s>'</s>t
 a happy conclusion to this. Tharman was brilliant. It was as though nothing
 had happened. He’d been working on something else. He came in, and I think
-we talked about sport and about him maybe for an hour and a half.</p>
-<p>
+we talked about sport and about him maybe for an hour and a half.
+<br>
 <br><strong>Jimmy</strong> 
 <br>Oh really?
 <br>
@@ -408,7 +408,7 @@ he’s connected, that he is a sportsman. And lots of people wouldn’t have
 known that either. And so, I think it helps create a good, positive environment
 for sport heritage. And now we see we can always bring in [that] the president
 launched this.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Jimmy</strong> 
 <br>Nick, you’ve been so wonderful coming today for the podcast. We’ve sort
 of come to the end of the substantive part of the podcast. Now we want
