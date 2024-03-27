@@ -209,7 +209,7 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^30]: Lim, “[Song Did Not Believe in Second-Best Performance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810426-1.2.70.10.1).”
 
-[^31]: [Singapore Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19251006-1.2.83),” _Pinang Gazette and Straits Chronicle_, 6 October 1925, 13. (From NewspaperSG)
+[^31]: “[Singapore Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19251006-1.2.83),” _Pinang Gazette and Straits Chronicle_, 6 October 1925, 13. (From NewspaperSG)
 
 [^32]: “[Boxing: Friday March 4 at Happy Valley](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19270303-1.2.28.1),” _Malaya Tribune_, 3 March 1927, 7; “Key–Song To-Night,” _Malaya Tribune,_ 4 March 1927, 10. (From NewspaperSG)&nbsp;
 
