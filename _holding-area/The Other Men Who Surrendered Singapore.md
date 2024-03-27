@@ -76,52 +76,51 @@ Born in Guelph in Ontario, Canada, Torrance had served with the Canadian Army in
 
 After the fall of Singapore, Torrance was first interned in Changi Prison, then in Formosa and later in Mukden (present-day Shenyang), Manchuria. He returned to Guelph after the war, his health having been severely affected by his internment. Torrance died in his winter home in the Bahamas in 1958.[^27]
 
-Till today, Guelph remains proud of Torrance. In May 2023, online news site _Guelph Today_ featured Torrance in an article titled “Guelph’s Military Contribution Goes Beyond Lt.-Col. John McCrae”.28
+Till today, Guelph remains proud of Torrance. In May 2023, online news site _Guelph Today_ featured Torrance in an article titled “Guelph’s Military Contribution Goes Beyond Lt.-Col. John McCrae”.[^28]
 
 #### **Alec Warren Greenlaw Wildey (1890–1981)**
 
-Wildey was Commander, HQ Anti-Aircraft Defences, Malaya, and the meeting at the Battle Box took place in his office. A recipient of the Military Cross for his actions in World War I, Wildey arrived in Singapore in 1937 as Commander, 3rd Anti-Aircraft Brigade Royal Artillery. From 1940 to 1942, he assumed the role of Commander, Anti-Aircraft Defences, Malaya.29
+Wildey was Commander, HQ Anti-Aircraft Defences, Malaya, and the meeting at the Battle Box took place in his office. A recipient of the Military Cross for his actions in World War I, Wildey arrived in Singapore in 1937 as Commander, 3rd Anti-Aircraft Brigade Royal Artillery. From 1940 to 1942, he assumed the role of Commander, Anti-Aircraft Defences, Malaya.[^29]
 
-Unfortunately, soon after arriving in Singapore, Wildey was involved in a fatal car accident. On 23 December 1937, the press reported about a “fatal motor accident in Keppel Road soon after midnight on 20 Dec” in which Wildey was charged with “causing the death of a ricksha-puller by negligent driving”.30
+Unfortunately, soon after arriving in Singapore, Wildey was involved in a fatal car accident. On 23 December 1937, the press reported about a “fatal motor accident in Keppel Road soon after midnight on 20 Dec” in which Wildey was charged with “causing the death of a ricksha-puller by negligent driving”.[^30]
 
-Wildey was acquitted in February 1938, with the chief court inspector stating that he had received instructions from the deputy public prosecutor to ask for a withdrawal of the charge. A verdict of misadventure was returned with “no evidence of criminal negligence or rashness on the part of Col. Wildey”.31&nbsp; &nbsp;
+Wildey was acquitted in February 1938, with the chief court inspector stating that he had received instructions from the deputy public prosecutor to ask for a withdrawal of the charge. A verdict of misadventure was returned with “no evidence of criminal negligence or rashness on the part of Col. Wildey”.[^31]
 
-In 1946, Wildey was made a Commander of the Order of the British Empire. In the recommendation, it was said that during the Malayan Campaign, Wildey had “show\[n\] himself cool and resourceful in dealing with situations as they developed”.32
+In 1946, Wildey was made a Commander of the Order of the British Empire. In the recommendation, it was said that during the Malayan Campaign, Wildey had “show\[n\] himself cool and resourceful in dealing with situations as they developed”.[^32]
 
 #### **Ivan Simson (1890–1971)**
 
-Simson was Chief Engineer of the Malaya Command with the additional duties of Director-General of Civil Defence during the last six weeks of the Malayan Campaign.33 He was the officer who updated the meeting on 15 February 1942 of the dire water situation.&nbsp;
+Simson was Chief Engineer of the Malaya Command with the additional duties of Director-General of Civil Defence during the last six weeks of the Malayan Campaign.[^33] He was the officer who updated the meeting on 15 February 1942 of the dire water situation.
 
-Before the outbreak of war, Simson had recommended an overhaul and construction of fixed defences but this was dismissed by the Malaya Command and Percival on the basis that such work was bad for morale.34&nbsp;
+Before the outbreak of war, Simson had recommended an overhaul and construction of fixed defences but this was dismissed by the Malaya Command and Percival on the basis that such work was bad for morale.[^34]
 
-Simson’s views of the surrender can be found in his account of the Malayan campaign, _Singapore: Too Little, Too Late: Some Aspects of the Malayan Disaster in 1942_, first published in 1970.35
+Simson’s views of the surrender can be found in his account of the Malayan campaign, _Singapore: Too Little, Too Late: Some Aspects of the Malayan Disaster in 1942_, first published in 1970.[^35]
 
 #### **Arthur Harold Dickinson (1892–1978)**
 
-Dickinson was the only member of the civil government present at the meeting on 15 February 1942. He joined the Straits Settlements police force in Singapore in 1912, and most of his career in the Special Branch was spent in Singapore, Melaka and Penang.36
+Dickinson was the only member of the civil government present at the meeting on 15 February 1942. He joined the Straits Settlements police force in Singapore in 1912, and most of his career in the Special Branch was spent in Singapore, Melaka and Penang.[^36]
 
-Dickinson was made an Officer of the Order of the British Empire in 1937 for his “tactful handling” of a series of strikes in the Federated Malay States. In 1939, he was promoted to Inspector-General of Police, Straits Settlements, and established the Malayan Security Service in September that year. This replaced the Straits Settlements and Malayan Police Special Branches.37
+Dickinson was made an Officer of the Order of the British Empire in 1937 for his “tactful handling” of a series of strikes in the Federated Malay States. In 1939, he was promoted to Inspector-General of Police, Straits Settlements, and established the Malayan Security Service in September that year. This replaced the Straits Settlements and Malayan Police Special Branches.[^37]
 
-In a blog entry in 2013, Dickinson’s great-granddaughter Johanna Whitaker recalled how throughout her childhood, she had heard stories of her great-grandparents during their period of internment in Changi Prison, eating “snails and cockroaches for sustenance throughout those tough years and when the war was over and they were released… they were mere skeletons”.38
+In a blog entry in 2013, Dickinson’s great-granddaughter Johanna Whitaker recalled how throughout her childhood, she had heard stories of her great-grandparents during their period of internment in Changi Prison, eating “snails and cockroaches for sustenance throughout those tough years and when the war was over and they were released… they were mere skeletons”.[^38]
 
 #### **Eric Whitlock Goodman (1893–1981)**
 
-Goodman was senior gunnery advisor to Percival and served as Commander Royal Artillery of the 9th Indian Division, Malaya. During the meeting on 15 February 1942, he had reported on the ammunition reserves. A recipient of the Military Cross in World War I, Goodman was also awarded the Distinguished Service Order in 1937.39
+Goodman was senior gunnery advisor to Percival and served as Commander Royal Artillery of the 9th Indian Division, Malaya. During the meeting on 15 February 1942, he had reported on the ammunition reserves. A recipient of the Military Cross in World War I, Goodman was also awarded the Distinguished Service Order in 1937.[^39]
 
-Goodman’s account of the meeting in his diary is factual in tone, stating that he attended a conference “in which it was decided that it was useless to continue the fight as water and ammunition were failing and food too was running short due to losses by capture. I think too that conditions in the native part of the city were a great anxiety – the numbers of unburied dead lying about”.40
+Goodman’s account of the meeting in his diary is factual in tone, stating that he attended a conference “in which it was decided that it was useless to continue the fight as water and ammunition were failing and food too was running short due to losses by capture. I think too that conditions in the native part of the city were a great anxiety – the numbers of unburied dead lying about”.[^40]
 
-Goodman died on 8 December 1981. In an obituary by Major Frederick James Howard Nelson, Goodman’s Brigade Major in the 9th Indian Division, Nelson remembered Goodman as one who whenever “things looked hopeless he was sure to appear in person and by his apparent unconcern for danger restored the confidence of all ranks”.41
+Goodman died on 8 December 1981. In an obituary by Major Frederick James Howard Nelson, Goodman’s Brigade Major in the 9th Indian Division, Nelson remembered Goodman as one who whenever “things looked hopeless he was sure to appear in person and by his apparent unconcern for danger restored the confidence of all ranks”.[^41]
 
 #### **Hubert Francis Lucas (1897–1990)**
 
-Lucas was Chief Administration Officer of the Malaya Command from 1940 to 1942. He fought in World War I  
-and was educated at the Royal Military Academy as well as Cambridge University.42
+Lucas was Chief Administration Officer of the Malaya Command from 1940 to 1942. He fought in World War I and was educated at the Royal Military Academy as well as Cambridge University.[^42]
 
-In 1946, Lucas was made a Commander of the Order of the British Empire. He was commended for having “tackled” the administrative problems of transportation, supply and accommodation during the Malayan Campaign with “coolness and resource”, and the good results achieved within the services were largely due to his leadership.43
+In 1946, Lucas was made a Commander of the Order of the British Empire. He was commended for having “tackled” the administrative problems of transportation, supply and accommodation during the Malayan Campaign with “coolness and resource”, and the good results achieved within the services were largely due to his leadership.[^43]
 
 #### **In Retrospect**
 
-Ultimately, the decision to surrender was a unanimous one albeit, perhaps, with reluctance. In the spirit of counterfactual history (addressing the “what if” question), one cannot help but wonder what the outcome would have been if the decision to launch a counterattack to recapture Bukit Timah had been taken – a comment that Bennet had made, according to Wild, when the commanders were discussing the details of the surrender. However, Wild had dismissed the comment “made not as a serious contribution to the discussion but as something to quote afterwards”. Wild reported that the comment had been “received with silence”.44
+Ultimately, the decision to surrender was a unanimous one albeit, perhaps, with reluctance. In the spirit of counterfactual history (addressing the “what if” question), one cannot help but wonder what the outcome would have been if the decision to launch a counterattack to recapture Bukit Timah had been taken – a comment that Bennet had made, according to Wild, when the commanders were discussing the details of the surrender. However, Wild had dismissed the comment “made not as a serious contribution to the discussion but as something to quote afterwards”. Wild reported that the comment had been “received with silence”.[^44]
 
 &nbsp;On the 50th anniversary of the fall of Singapore in 1992, this writer, in an article for the _Straits Times_, posed the following question to four historians – two from the National University of Singapore, a historian from Japan and a historian from the United States: Could the British army have held on against the invading Japanese army in 1942 and turned the tide? All four were unanimous in saying that the Japanese would have eventually prevailed.”45
 
