@@ -186,9 +186,9 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^21]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231015-1.2.82.1).”
 
-[^22]: “Boxing.” Almost immediately, the Battling Key – Young Pelky fight attained legendary status in Singapore’s boxing circles. In later years, varying claims would be made about the size of the audience – ranging from 6,000 to 12,000. See, for example, “First Real Local Champion” and Rippa, “Battling Key – Battler and Philanthropist.”
+[^22]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231015-1.2.82.1).” Almost immediately, the Battling Key – Young Pelky fight attained legendary status in Singapore’s boxing circles. In later years, varying claims would be made about the size of the audience – ranging from 6,000 to 12,000. See, for example, “[First Real Local Champion](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19371106-1.2.119.34)” and Rippa, “[Battling Key – Battler and Philanthropist](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19470928-1.2.89).”
 
-[^23]: Rippa, “Battling Key – Battler and Philanthropist.”&nbsp;
+[^23]: Rippa, “[Battling Key – Battler and Philanthropist](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19470928-1.2.89).”
 
 [^24]: Filemon G. Salaysay, “Heartaches of a Promoter,” _Singapore Free Press_, 16 January 1954, 7. (From NewspaperSG)
 
