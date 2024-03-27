@@ -176,6 +176,12 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/wong-ken-foo/">From the Archives: The Work of Photographer KF Wong</a>
+K.F. Wong shot to international fame with his images of Borneo, though not without controversy.&nbsp;**Zhuang Wubin**&nbsp;examines Wong’s work and sees beyond their historical value.
+
+<img src="/images/Vol-15-issue-2/from-the-archives/kfwong_topic.png" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/pioneers-of-archives/">Pioneers of the Archives</a>
 
 <b>Fiona Tan</b>&nbsp;tells us about the people who laid the bedrock of the National Archives of Singapore, along with details of how the institution has evolved since its inception in 1938.
