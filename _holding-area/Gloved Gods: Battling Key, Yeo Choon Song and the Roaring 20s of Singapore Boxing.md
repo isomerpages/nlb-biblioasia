@@ -178,7 +178,7 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^17]: Herman Rippa, “[Battling Key – Battler and Philanthropist](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19470928-1.2.89),” _Sunday Tribune_, 28 September 1947, 10. (From NewspaperSG).
 
-[^18]: “Boxing,” _Straits Times_, 15 October 1923, 10; “First Real Local Champion.” _Morning Tribune_, 6 November 1937, 8. (From NewspaperSG).
+[^18]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231015-1.2.82.1),” _Straits Times_, 15 October 1923, 10; “[First Real Local Champion](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19371106-1.2.119.34).” _Morning Tribune_, 6 November 1937, 8. (From NewspaperSG).
 
 [^19]: “Boxing.”
 
