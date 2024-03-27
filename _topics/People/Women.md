@@ -55,7 +55,7 @@ A number of cookbooks written in the 1940s and 1950s helped expand the tradition
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/women-w-commodities/">When Women Were Commodities</a>
 
-Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. *Adeline Foo* examines the lives of the unfortunate girls and women who were sold into prostitution.
+Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. *Adeline Foo*  examines the lives of the unfortunate girls and women who were sold into prostitution.
 
 <img src="/images/Vol-15-issue-4/when-women-were-commodities/w3_topic.png" style="width:80%;">
 <hr>
