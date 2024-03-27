@@ -168,15 +168,15 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^12]: Such was the sport’s popularity that in one of the three fights – it is not known which – between Battling Key and Johnny Carvalho, the Sultan of Johor bet $5,000, presumably on the Johor man.&nbsp; See Seconds Out, “[Chinese and Boxing in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19350128-1.2.132),” _Pinang Gazette and Straits Chronicle_, 28 January 1935, 12. (From NewspaperSG)
 
-[^13]: “Last Night’s Boxing Sensation,” _Singapore Free Press and Mercantile Advertiser_, 4 August 1922, 12. (From NewspaperSG)
+[^13]: “[Last Night’s Boxing Sensation](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19220804-1.2.54),” _Singapore Free Press and Mercantile Advertiser_, 4 August 1922, 12. (From NewspaperSG)
 
-[^14]: Lim, “‘Key’ Never Quit Even When Chips Were Down,” _Straits Times_, 12 April 1981, 37. (From NewspaperSG)
+[^14]: Lim, “‘[Key’ Never Quit Even When Chips Were Down](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810412-1.2.88.31.2),” _Straits Times_, 12 April 1981, 37. (From NewspaperSG)
 
-[^15]: “Battling Key Is Willing,” _Straits Times_, 15 August 1922, 10. (From NewspaperSG)
+[^15]: “[Battling Key Is Willing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19220815-1.2.75.6),” _Straits Times_, 15 August 1922, 10. (From NewspaperSG)
 
-[^16]: Lim, “‘Key’ Never Quit Even When Chips Were Down.”
+[^16]: Lim, “[‘Key’ Never Quit Even When Chips Were Down](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810412-1.2.88.31.2).”
 
-[^17]: Herman Rippa, “Battling Key – Battler and Philanthropist,” _Sunday Tribune_, 28 September 1947, 10. (From NewspaperSG).
+[^17]: Herman Rippa, “[Battling Key – Battler and Philanthropist](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19470928-1.2.89),” _Sunday Tribune_, 28 September 1947, 10. (From NewspaperSG).
 
 [^18]: “Boxing,” _Straits Times_, 15 October 1923, 10; “First Real Local Champion.” _Morning Tribune_, 6 November 1937, 8. (From NewspaperSG).
 
