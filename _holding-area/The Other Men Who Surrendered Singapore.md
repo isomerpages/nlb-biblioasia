@@ -149,8 +149,6 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 <img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yeng.png">
 <b>Phan Ming Yen</b> is an independent writer, researcher and producer. A former journalist and arts manager, his current areas of research are on the Malayan Campaign and Japanese Occupation in Singapore. He has written about 19th-century music in Singapore and also on the Syonan Symphony Orchestra during the Occupation.</div>
 
-
-
 #### **Notes**
 
 [^1]: Clifford Kinvig, “General Percival and the Fall of Singapore,” in [_Sixty Years On: The Fall of Singapore Revisited_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11730807), ed. Brian Farrell and Sandy Hunter (Singapore: Eastern Universities Press, 2002), 240. (From National Library, Singapore, call no. RSING 940.5425 SIX-\[WAR\])
