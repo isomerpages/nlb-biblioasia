@@ -64,6 +64,9 @@ Crowds would often follow Key whenever he emerged on the streets and reports fro
 
 In October 1923, two months after it was inaugurated, New World amusement park hosted its biggest event. Battling Key, by now the undisputed lightweight champion of all of Malaya, was up against Young Pelky (real name Lope Tenorio; he would later rank within the top five junior lightweights in the US), a tall, slim Filipino who “carried a punch like a mule’s kick” in a 10-round blockbuster.[^18]
 
+![](/images/Vol%2020%20Issue%202/Boxing/Image4.png)
+<div style="background-color: white;">New World amusement park opened on 1 August 1923. The match between Battling Key and Young Pelky was held there two months later. <i>David Turner Collection, courtesy of National Archives of Singapore. </i></div>
+
 The atmosphere was electric. Ticket prices for ringside seats around the open-air arena had been hiked from the standard $5 to $10 (and even resold for $20 and more) and yet not a single one was unoccupied. Around them, a crowd of 6,000 shifted restlessly as dusk fell on the mid-October day. Powerful lamps from all four corners set the ring aglow. The local man strode out first, to a massive roar. Young Pelky, a showman himself, took his time – walking leisurely and chatting with friends in the crowd – before making his way to the ring.[^19]
 
 As soon as the bell went, the fight began. “Everyone who saw it will admit that it was a good go. There was no science about it,” reported the _Straits Times_. “Each man went for all he was worth, swung wildly and at times missed by feet; still it was the kind of thing which kept the crowd interested.”[^20]
