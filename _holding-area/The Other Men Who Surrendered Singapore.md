@@ -15,7 +15,7 @@ Decades after the surrender of Allied forces to the Japanese on 15 February 1942
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/Image1.png) 
 <div style="background-color:white;">Lieutenant-General Arthur Ernest Percival (extreme right) and his party on their way to the Ford Factory in Bukit Timah to surrender Singapore to the Japanese on 15 February 1942. <i>© IWM HU 2781.</i></div>
 
-While Percival, as the commander in charge of Malaya, was ultimately responsible for making the decision, that decision to surrender was not made alone. On that fateful day, the&nbsp; surrender was decided by Percival in consultation with 11 other men.
+While Percival, as the commander in charge of Malaya, was ultimately responsible for making the decision, that decision to surrender was not made alone. On that fateful day, the surrender was decided by Percival in consultation with 11 other men.
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/Image2.png)
 <div style="background-color:white;">Lieutenant-General Arthur Ernest Percival arriving in Singapore to take up his appointment as General Officer Commanding Malaya, 1941. <i>© IWM K 652.</i></div>
@@ -231,7 +231,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^27]: Ed Butts, “Guelph’s Military Contribution Goes Beyond Lt.-Col. John McCrae,” _Guelph Today_, 20 May 2023, https://www.guelphtoday.com/then-and-now/guelphs-military-contributions-go-beyond-lt-col-john-mccrae-7007689. As of 2012, some historians have commented on the uncertainty of his date of death, noting that several sources stated it as 1948 although in 1957 Torrance was recorded as having travelled from the Bahamas to Liverpool on the _Empress of Britain_. See Corfield and Corfield, _The Fall of Singapore_, 667.
 
-[^27]: Butts, “Guelph’s Military Contribution Goes Beyond Lt.-Col. John McCrae.” John McCrae was a poet and solider who wrote the famous World War I poem, “In Flanders Fields”.&nbsp;
+[^28]: Butts, “Guelph’s Military Contribution Goes Beyond Lt.-Col. John McCrae.” John McCrae was a poet and solider who wrote the famous World War I poem, “In Flanders Fields”.&nbsp;
 
 [^29]: “British Army Officers 1939–1945,” World War II Unit Histories &amp; Officers, accessed 11 March 2024, https://www.unithistories.com/officers/Army\_officers\_W01a.html.
 
