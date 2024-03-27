@@ -128,6 +128,9 @@ It is a pity that no photos or ephemera exist from the second encounter between 
 
 A third, deciding encounter took place 14 months later, on 5 October 1928 – this time at Singapore’s premier venue, the New World stadium. Newspapers hyped up the animosity between the two, going back to the time Yeo had complained about Key’s gloves during the duo’s first encounter the previous year.[^37]
 
+![](/images/Vol%2020%20Issue%202/Boxing/Image8.png)
+<div style="background-color: white;">An advertisement for the third match between Battling Key and Yeo Choon Song (Y.C. Song) on 5 October 1927. <i>Image reproduced from Malaya Tribune, 4 October 1928, 12. (From NewspaperSG).</i></div>
+
 “Followers of boxing can rest assured of an exciting fight, for neither of the pair has any love for the other,” wrote the _Malaya Tribune_. “In other words, it will be a grudge fight.” Key even baited his younger opponent, saying he hoped Yeo would actually fight and “not turn the ring into a race track”.[^38]
 
 In truth though, Key was the underdog. He was 30 years old, and years of punishment in the ring had taken their toll. Even though Yeo was nursing an injury to the left hand sustained in a recent bout, he was the clear favourite.
