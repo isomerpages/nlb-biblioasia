@@ -36,11 +36,11 @@ Heath (1885–1954) commanded the III Indian Corps from 1941 to 1942 as part of 
 
 In Percival’s notes of the meeting, Heath had argued that “there is only one possible course to adopt” and that was to do what Percival ought to have done two days ago, “namely to surrender immediately”. Heath added that the defenders could not “resist another determined Japanese attack and that to sacrifice countless lives by a failure to appreciate the true situation would be an act of extreme folly”.[^10] Bennett agreed with Heath and dismissed Percival’s proposal for a counterattack. When Percival sought the opinion of others, Simmons was recorded to have said that he was “reluctant to surrender”, but could see no other alternative.[^11]
 
-The rest, according to Percival, “either remained silent or expressed their concurrence” with Simmons. Major Cyril Hew Dalrymple Wild, Heath’s General Staff Officer, recalled in his own notes that the “decision to ask for terms was taken without a dissentient voice”.12
+The rest, according to Percival, “either remained silent or expressed their concurrence” with Simmons. Major Cyril Hew Dalrymple Wild, Heath’s General Staff Officer, recalled in his own notes that the “decision to ask for terms was taken without a dissentient voice”.[^12]
 
-While the spotlight has typically fallen on Percival, Heath, Bennett and Simmons as the most senior officers in the room, the remaining eight men were also part of the decision-making process. They were Major Cyril Hew Dalrymple Wild,13 Brigadier Thomas Kennedy Newbigging, Brigadier-General Kenneth Sanderson Torrance, Brigadier Alec Warren Greenlaw Wildey, Director-General Ivan Simson, Inspector-General Arthur Harold Dickinson, Brigadier Eric Whitlock Goodman and Brigadier Hubert Francis Lucas.&nbsp;
+While the spotlight has typically fallen on Percival, Heath, Bennett and Simmons as the most senior officers in the room, the remaining eight men were also part of the decision-making process. They were Major Cyril Hew Dalrymple Wild,[^13] Brigadier Thomas Kennedy Newbigging, Brigadier-General Kenneth Sanderson Torrance, Brigadier Alec Warren Greenlaw Wildey, Director-General Ivan Simson, Inspector-General Arthur Harold Dickinson, Brigadier Eric Whitlock Goodman and Brigadier Hubert Francis Lucas.
 
-Their reported silence and concurrence can perhaps be understood – within present-day management discourse – as “acquiescent silence”. This is the silence of individuals who “accept the prevailing circumstances and who are not inclined to speak, participate or spend effort to change current status”, or they are of the opinion that “it is pointless and unnecessary to express” their viewpoint. They think “that remaining silent could protect their relationships and allow them to perform their job better”.14 Nonetheless, an overview of who these men were can perhaps serve as a starting point for further research into broadening the existing narratives of the surrender.
+Their reported silence and concurrence can perhaps be understood – within present-day management discourse – as “acquiescent silence”. This is the silence of individuals who “accept the prevailing circumstances and who are not inclined to speak, participate or spend effort to change current status”, or they are of the opinion that “it is pointless and unnecessary to express” their viewpoint. They think “that remaining silent could protect their relationships and allow them to perform their job better”.[^14] Nonetheless, an overview of who these men were can perhaps serve as a starting point for further research into broadening the existing narratives of the surrender.
 
 #### **Cyril Hew Dalrymple Wild (1908–46)**
 
@@ -60,7 +60,7 @@ In her book about the people buried in Hong Kong Cemetery, teacher and historian
 
 James Bradley, a former prisoner-of-war whose life Wild had saved while they were both working on the infamous Thai-Burma Railway, wrote a biography of his saviour titled _Cyril Wild: The Tall Man Who Never Slept_, first published in 1991. During his internment, Wild put his Japanese language skills to good use and relentlessly interceded on behalf of his fellow prisoners-of-war. This led his Japanese captors to call him _nemuranu se no takai otoko_ (“the tall man who never slept”).21
 
-Thomas Kennedy Newbigging (1891–1968)
+#### **Thomas Kennedy Newbigging (1891–1968)**
 
 Newbigging has generally been identified as the officer who carried the Union Jack as part of the surrender party that met the Japanese army at Ford Factory on 15 February 1942. This, however, is a matter of some dispute as one account suggests that it was Torrance who carried the Union Jack.22
 
@@ -70,7 +70,7 @@ A week after the surrender meeting, and while incarcerated at Changi Prison, New
 
 Newbigging was later interned in Formosa (present-day Taiwan) and then Manchuria. He retired in 1946.25
 
-Kenneth Sanderson Torrance (1896–1958)
+#### **Kenneth Sanderson Torrance (1896–1958)**
 
 Born in Guelph in Ontario, Canada, Torrance had served with the Canadian Army in World War I where he was awarded the Military Cross. In the interwar years, he transferred to the British Army and served in India and then in Malaya at the outbreak of World War II. Torrance later served as Brigadier General Staff, Malaya Command, and was awarded the Order of the British Empire in the 1942 New Year’s Honours List ceremony for his bravery while serving the British forces during the Malayan campaign.26
 
@@ -78,7 +78,7 @@ After the fall of Singapore, Torrance was first interned in Changi Prison, then 
 
 Till today, Guelph remains proud of Torrance. In May 2023, online news site _Guelph Today_ featured Torrance in an article titled “Guelph’s Military Contribution Goes Beyond Lt.-Col. John McCrae”.28
 
-Alec Warren Greenlaw Wildey (1890–1981)
+#### **Alec Warren Greenlaw Wildey (1890–1981)**
 
 Wildey was Commander, HQ Anti-Aircraft Defences, Malaya, and the meeting at the Battle Box took place in his office. A recipient of the Military Cross for his actions in World War I, Wildey arrived in Singapore in 1937 as Commander, 3rd Anti-Aircraft Brigade Royal Artillery. From 1940 to 1942, he assumed the role of Commander, Anti-Aircraft Defences, Malaya.29
 
@@ -88,7 +88,7 @@ Wildey was acquitted in February 1938, with the chief court inspector stating th
 
 In 1946, Wildey was made a Commander of the Order of the British Empire. In the recommendation, it was said that during the Malayan Campaign, Wildey had “show\[n\] himself cool and resourceful in dealing with situations as they developed”.32
 
-Ivan Simson (1890–1971)
+#### **Ivan Simson (1890–1971)**
 
 Simson was Chief Engineer of the Malaya Command with the additional duties of Director-General of Civil Defence during the last six weeks of the Malayan Campaign.33 He was the officer who updated the meeting on 15 February 1942 of the dire water situation.&nbsp;
 
@@ -96,7 +96,7 @@ Before the outbreak of war, Simson had recommended an overhaul and construction 
 
 Simson’s views of the surrender can be found in his account of the Malayan campaign, _Singapore: Too Little, Too Late: Some Aspects of the Malayan Disaster in 1942_, first published in 1970.35
 
-Arthur Harold Dickinson (1892–1978)
+#### **Arthur Harold Dickinson (1892–1978)**
 
 Dickinson was the only member of the civil government present at the meeting on 15 February 1942. He joined the Straits Settlements police force in Singapore in 1912, and most of his career in the Special Branch was spent in Singapore, Melaka and Penang.36
 
@@ -104,7 +104,7 @@ Dickinson was made an Officer of the Order of the British Empire in 1937 for his
 
 In a blog entry in 2013, Dickinson’s great-granddaughter Johanna Whitaker recalled how throughout her childhood, she had heard stories of her great-grandparents during their period of internment in Changi Prison, eating “snails and cockroaches for sustenance throughout those tough years and when the war was over and they were released… they were mere skeletons”.38
 
-Eric Whitlock Goodman (1893–1981)
+#### **Eric Whitlock Goodman (1893–1981)**
 
 Goodman was senior gunnery advisor to Percival and served as Commander Royal Artillery of the 9th Indian Division, Malaya. During the meeting on 15 February 1942, he had reported on the ammunition reserves. A recipient of the Military Cross in World War I, Goodman was also awarded the Distinguished Service Order in 1937.39
 
@@ -112,14 +112,14 @@ Goodman’s account of the meeting in his diary is factual in tone, stating that
 
 Goodman died on 8 December 1981. In an obituary by Major Frederick James Howard Nelson, Goodman’s Brigade Major in the 9th Indian Division, Nelson remembered Goodman as one who whenever “things looked hopeless he was sure to appear in person and by his apparent unconcern for danger restored the confidence of all ranks”.41
 
-Hubert Francis Lucas (1897–1990)
+#### **Hubert Francis Lucas (1897–1990)**
 
 Lucas was Chief Administration Officer of the Malaya Command from 1940 to 1942. He fought in World War I  
 and was educated at the Royal Military Academy as well as Cambridge University.42
 
 In 1946, Lucas was made a Commander of the Order of the British Empire. He was commended for having “tackled” the administrative problems of transportation, supply and accommodation during the Malayan Campaign with “coolness and resource”, and the good results achieved within the services were largely due to his leadership.43
 
-In Retrospect
+#### **In Retrospect**
 
 Ultimately, the decision to surrender was a unanimous one albeit, perhaps, with reluctance. In the spirit of counterfactual history (addressing the “what if” question), one cannot help but wonder what the outcome would have been if the decision to launch a counterattack to recapture Bukit Timah had been taken – a comment that Bennet had made, according to Wild, when the commanders were discussing the details of the surrender. However, Wild had dismissed the comment “made not as a serious contribution to the discussion but as something to quote afterwards”. Wild reported that the comment had been “received with silence”.44
 
