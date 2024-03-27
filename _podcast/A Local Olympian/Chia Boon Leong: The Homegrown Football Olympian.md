@@ -28,7 +28,18 @@ He is the author of the <em>Sport in Singapore</em> series:<em> <a href="https:/
 <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206068467" rel="noopener noreferrer nofollow" target="_blank">The Rocky Road to Kallang Park</a>(2023) and <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300007221" rel="noopener noreferrer nofollow" target="_blank">Visions for Change</a> </em>(2023).</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p></p>
+<p>Nick Aplin, “<a href="https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/" rel="noopener noreferrer nofollow" target="_blank">Chia Boon Leong: The Twinkle-Toed Olympian</a>,”
+BiblioAsia 19, no. 4 (Jan–Mar 2024).</p>
+<p>Nick Aplin, <em><a href="Sport%20in%20Singapore:%20The%20Colonial%20Legacy" rel="noopener noreferrer nofollow" target="_blank">Sport in Singapore: The Colonial Legacy</a></em> (Singapore:
+Sport Singapore, 2019).</p>
+<p>Nick Aplin, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206068467" rel="noopener noreferrer nofollow" target="_blank">Sport in Singapore: The Rocky Road to Kallang Park</a></em> (Singapore:
+Sport Singapore, 2023).</p>
+<p>Nick Aplin, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300007221" rel="noopener noreferrer nofollow" target="_blank">Sport in Singapore: Visions for Change: 50 Years of the Singapore Sports Council 1973–2023</a></em> (Singapore:
+Sport Singapore, 2023).</p>
+<p>&nbsp;“<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.1" rel="noopener noreferrer nofollow" target="_blank">Twinkle, Twinkle Little Star…</a>,”&nbsp;<em>New Nation</em>,
+18 April 1975, 10–11. (From NewspaperSG)&nbsp;</p>
+<p>Sonny Yap, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3" rel="noopener noreferrer nofollow" target="_blank">The Match of His Career…</a>,”&nbsp;<em>New Nation</em>,
+18 April 1975, 10–11. (From NewspaperSG)&nbsp;</p>
 <p></p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
