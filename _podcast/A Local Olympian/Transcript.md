@@ -6,7 +6,7 @@ description: ""
 third_nav_title: A Local Olympian
 ---
 <p>[Music playing]</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Football is a sport that many Singaporeans love, but I’m not sure if the
 game loves Singapore back quite as much. Sure, we’ve had our local heroes.
 For those of us of a certain age, names like Fandi Ahmad, Quah Kim Song,
@@ -19,16 +19,16 @@ heads the Sport Heritage at Sport Singapore, and he was also a friend of
 the late Boon Leong. Nick is here to tell us all about the man and the
 legend. Welcome to BiblioAsia+, Nick. Thank you for coming down.
 <br>
-<br><strong>Nick</strong>
+<br><strong>Nick</strong> 
 <br>Thank you very much for inviting me. This is a very pleasant new experience.
 <br>
-<br><strong>Jimmy</strong>
+<br><strong>Jimmy</strong> 
 <br>You wrote a very interesting story in <em>BiblioAsia</em> on <a href="https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/" rel="noopener noreferrer nofollow" target="_blank">Chia Boon Leong</a>,
 who has been described as one of Singapore’<s>'</s>s most talented footballers.
 And his nickname was Twinkle Toes. So, tell us a bit about this nickname.
 How did he get his nickname?
 <br>
-<br><strong>Nick</strong>
+<br><strong>Nick</strong> 
 <br>Okay. The story begins in 1951 when there was a touring team from Sweden,
 I believe. A Scandinavian team managed or coached by an Englishman called
 Maun. And he was watching the game that they played – almost like a charity
@@ -37,53 +37,45 @@ by Boon Leong’s movement, the quickness of his thoughts and his twinkling
 toes. And so, the name stuck because of an Englishman representing a Scandinavian
 team in Singapore.
 <br>
-<br><strong>Jimmy</strong>
+<br><strong>Jimmy</strong> 
 <br>Very, very international. Give us an example, an idea of how talented
 Boon Leong was.
 <br>
-</p>
-<p><strong>Nick</strong>
+<br><strong>Nick</strong> 
 <br>I can do this probably in two ways. One is to describe slightly one of
 the games that he played, or he was represented in, when the team went
 on tour to China. The second way is – because I never actually saw him
 play I’m reluctant to make an objective outright statement – I’m going
 to quote somebody that I know in Singapore who saw him. So, the example,
 the playing example was when the Lian Hua [United Chinese] team visited
-Shanghai.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Okay. So, first of all, tell our listeners, you know, what’s the Lian
-Hua team?</p>
-<p>&nbsp;</p>
-<p><strong>Nick</strong>
-</p>
-<p>It’s like the collective Chinese of Malaya team, which was going to visit
+Shanghai.
+<br>
+<br><strong>Jimmy</strong>
+<br>Okay. So, first of all, tell our listeners, you know, what’s the Lian
+Hua team?
+<br>
+<br><strong>Nick</strong>
+<br>It’s like the collective Chinese of Malaya team, which was going to visit
 various countries in East Asia. He was involved in the match against the
 strongest Shanghai team, the league champions, and there was a huge crowd
-watching the game.</p>
-<p>&nbsp;</p>
-<p>I think it was probably quite cold because it was in November 1947, and
-the Lian Hua team beat the Shanghai team. I think it was 5-3, something
-like that. Boon Leong didn’t score any of the goals, but he so impressed
-the fans that they mobbed him at the end in a friendly sort of way, and
-they sort of escorted him out and made a big fuss of him.</p>
-<p>&nbsp;</p>
+watching the game. I think it was probably quite cold because it was in
+November 1947, and the Lian Hua team beat the Shanghai team. I think it
+was 5-3, something like that. Boon Leong didn’t score any of the goals,
+but he so impressed the fans that they mobbed him at the end in a friendly
+sort of way, and they sort of escorted him out and made a big fuss of him.&nbsp;</p>
 <p>And I think that that was a key moment for him in establishing how important
 he thought the fans’ responses to him were. He clearly was the best player
 on the pitch. Today, we would talk about assists, you know, that he was
 helping to create goals and so on. But based on the responses of the fans
 – Chinese fans to him alone, not to the rest of the team – I believe he
-was a very, very good player.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>I mean, most of the time the supporters of the home team don’t generally
+was a very, very good player.
+<br>
+<br><strong>Jimmy</strong>
+<br>I mean, most of the time the supporters of the home team don’t generally
 go off and congratulate the opposing team who have beaten the home team.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Nick</strong>
-</p>
-<p>Exactly. So, they must have been impressed, subject to view. Okay, fair
+<br>Exactly. So, they must have been impressed, subject to view. Okay, fair
 enough. My second illustration concerns a gentleman called Dhillion, Mr.
 Dhillion, who was the secretary-general of the Singapore National Olympic
 Council. And this example actually happened in May last year [2023] when
@@ -93,11 +85,11 @@ who had been playing during the time period that the book covers. And I
 thought, “I’ll be very cheeky and to the audience.” And I said, “Look,
 I’m not really sure, but I know he was very, very good. Some people say
 he was just as good as Fandi, recently.” Mr. Dhillion was sitting in the
-row in front of me and he just said, “He was better.”</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
+row in front of me and he just said, “He was better.”
+<br>
 </p>
-<p>Okay.</p>
+<p><strong>Jimmy</strong>
+<br>Okay.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
 </p>
@@ -167,19 +159,16 @@ bye bye.</p>
 <p>That was very, very painful.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>Very it’s very painful. But I mean, they knew what the rules were before
+<br>Very it’s very painful. But I mean, they knew what the rules were before
 they went. But whereas nowadays, you have group stages, at least three
 or four, three games before you move on.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You met Boon Leong himself, didn’t you, about 20 years ago. Tell us about
+<br>You met Boon Leong himself, didn’t you, about 20 years ago. Tell us about
 the meeting.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>The first meeting was at Barker Road Methodist Church with his wife. He
+<br>The first meeting was at Barker Road Methodist Church with his wife. He
 used to come along to the early morning service and then they used to live
 in Gold Hill, which is just a short step away. He looked like a well brought
 up, smart, nicely turned-out gentleman, and he was just sort of standing
@@ -190,12 +179,10 @@ about football, this, you know, this was the central thing in his life.
 So, I explained who I was and I introduced my wife.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You were working for Sports Singapore at that time.</p>
+<br>You were working for Sports Singapore at that time.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>No. I was at NIE, NTU teaching the teachers. I was there until 2019. So,
+<br>No. I was at NIE, NTU teaching the teachers. I was there until 2019. So,
 in a sense, at heart, I’m an educator. I’m qualified as an educator. I’ve
 only been at Sport Singapore for four years now. So, we, you know, we met
 and it became very clear that he was somebody that I wanted to know better
@@ -203,12 +190,10 @@ for my research. So, I forget how we did it, but we arranged to be invited
 to his house.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You invited yourself over?</p>
+<br>You invited yourself over?</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>Not on that day. Not on that day. It took a little while, but we went
+<br>Not on that day. Not on that day. It took a little while, but we went
 to visit. And Li Choo, his wife, would make some nice little sweet things
 to eat. And, importantly, he would show me his albums, his press cuttings
 and also his medals, or at least some of his medals, because he didn’t
@@ -222,24 +207,20 @@ Oh no. Maybe it was his 90th birthday. They had a celebration at the Shangri-La,
 and he asked me if I would talk about his career.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh wow. Okay.</p>
+<br>Oh wow. Okay.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>So quite something for an <em>ang moh</em> to go along to a birthday party
+<br>So quite something for an <em>ang moh</em> to go along to a birthday party
 and literally be asked to go up to the front. And there were 200 or 300
 people there. I guess, you know, it was a big deal. So, my job was to do
 a presentation and to talk about him and Li Choo. And I revealed some details
 about their courtship.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>What was Boon Leong like as a person?</p>
+<br>What was Boon Leong like as a person?</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>A very, very gentle, soft, soft-spoken. He was proud of what he’d done,
+<br>A very, very gentle, soft, soft-spoken. He was proud of what he’d done,
 what he’d achieved, things like the Lian Hua tour, or things like being
 a representative of Singapore at the Asian Games. So, he had the chance
 to do that, not represent China.</p>
@@ -254,32 +235,26 @@ players who were just being introduced to the Kallang Roar, Kallang Wave.</p>
 <p>So, he had a large role to play and he used to take squads over to England
 to train. He played against other countries. So, he got very, very involved
 after that. He was caring and sharing. He was very, very keen to go and
-watch the big games at the National Stadium, even the Sports Hub.</p>
-<p>&nbsp;</p>
-<p>Yes, he liked to watch even though he couldn’t play anymore. This was
-in his heart. You know, obviously.</p>
-<p>&nbsp;</p>
+watch the big games at the National Stadium, even the Sports Hub. Yes,
+he liked to watch even though he couldn’t play anymore. This was in his
+heart. You know, obviously.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Obviously, you knew Boon Leong and so that, you know, that helped you
+<br>Obviously, you knew Boon Leong and so that, you know, that helped you
 to write the article. But tell us a little bit about the research process
 because you couldn’t just rely on your 20 years of conversations with Boon
 Leong to write about him.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Nick</strong>
-</p>
-<p>No, no, no. It’s been an interesting process. When I first came to Singapore,
+<br>No, no, no. It’s been an interesting process. When I first came to Singapore,
 I was not interested in the history of sport.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>When was that, by the way?</p>
+<br>When was that, by the way?</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>I came at the end of 1985, started work 1 January 1986, and I was employed
+<br>I came at the end of 1985, started work 1 January 1986, and I was employed
 to teach sport, psychology, motor learning as well as all the different
 sports in a practical sense. The catalyst, and this is worth knowing, was
 meeting up with Tang Pui Wah, the first female Olympian from Singapore.
@@ -287,13 +262,11 @@ And it’s a bit of a convoluted story behind all of that but that was the
 –</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I’m so sorry. But for the people who are tuning in, Pui Wah, what sport
+<br>I’m so sorry. But for the people who are tuning in – Pui Wah, what sport
 was she in?</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>She was an athlete. She was a sprinter and a hurdler. She went to the
+<br>She was an athlete. She was a sprinter and a hurdler. She went to the
 Olympic Games in 1952, which was hosted in Helsinki. She would normally
 have been engaged in inter-state competitions [and] Malayan state competitions.
 And she dominated the scene for, I don’t know, a period of three or four
@@ -323,26 +296,22 @@ the other Olympians? And so, it became an important personal task to write
 a book: <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12474475" rel="noopener noreferrer nofollow" target="_blank">Singapore Olympians</a></em>.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>There’s something special about sporting heritage. And I was there at
+<br>There’s something special about sporting heritage. And I was there at
 the launch of your last book. And the president [Tharman Shanmugaratnam],
 you took him around, didn’t you, at the exhibition? He was very interested.
 He was taking out his phone and [taking] pictures of the exhibits on the
 standees.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>Yes. Perhaps I should tell you part of the story of that… I’d be very
+<br>Yes. Perhaps I should tell you part of the story of that… I’d be very
 guarded because people are going to hear this. I am acquainted with the
 president.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Ah okay. You have coffee with him regularly?</p>
+<br>Ah okay. You have coffee with him regularly?</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>No, I wouldn’t say that… It is an interesting story that goes with it.
+<br>No, I wouldn’t say that… It is an interesting story that goes with it.
 A couple of years ago, I was advised by Tek Yin, you should talk to Tharman
 Shanmugaratnam, who was a senior minister at the time, because he is a
 sportsman. He understands these things. He will have some perceptions about
@@ -359,33 +328,29 @@ at 2 pm.” Okay. You know, that’s great. And I’ll get ready for that.</p>
 <p>&nbsp;</p>
 <p>Now, with my advancing years, I thought about the two previous weeks,
 Friday at 5 pm, Friday, 5 pm. This time it was 2 pm. So, I’m sort of gearing
-up. I'm having a bit of a snooze. I'm getting ready.</p>
-<p>&nbsp;</p>
-<p>Phonecall from the PA. “Nick, are you. Are you nearby? Are you coming?”
-And I said, “Why, it’s 5 pm, isn’t it?” “No, no, this interview is 2 pm.
-How long will it take you to get down here? He is going to wait for you.”
-Okay, So I rush, I go down. There’s a thunderstorm when I get down to the
-Treasury and I’m not sure exactly where to park. I probably end up being
-an hour and a half late.</p>
+up. I'm having a bit of a snooze. I'm getting ready. Phonecall from the
+PA. “Nick, are you. Are you nearby? Are you coming?” And I said, “Why,
+it’s 5 pm, isn’t it?” “No, no, this interview is 2 pm. How long will it
+take you to get down here? He is going to wait for you.” Okay, So I rush,
+I go down. There’s a thunderstorm when I get down to the Treasury and I’m
+not sure exactly where to park. I probably end up being an hour and a half
+late.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh no.</p>
+<br>Oh no.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>But as you can tell, I wouldn’t be telling this story if there wasn’<s>'</s>t
+<br>But as you can tell, I wouldn’t be telling this story if there wasn’<s>'</s>t
 a happy conclusion to this. Tharman was brilliant. It was as though nothing
 had happened. He’d been working on something else. He came in, and I think
 we talked about sport and about him maybe for an hour and a half.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 </p>
-<p>Oh really.</p>
+<p>Oh really?</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>There was never an issue of “Let’s make this quick.” And he was brilliant.
+<br>There was never an issue of “Let’s make this quick.” And he was brilliant.
 He was perfect. And I presented him with a copy of book 1, <em><a href="https://catalogue.nlb.gov.sg/search/card?id=7da07a8f-2b30-5440-9218-8aea5b8eb218&amp;entityType=FormatGroup" rel="noopener noreferrer nofollow" target="_blank">The Colonial Legacy</a></em>.
 When Book 3 was due to come out, I thought, “Can we invite the president?”
 Because now he was in line.</p>
@@ -416,15 +381,13 @@ to meet this guy who’d kept him waiting, I don’t know. But he was wonderful.
 He was so affable.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>He was clearly interested, you know. I’ve been to these things and people
+<br>He was clearly interested, you know. I’ve been to these things and people
 just walk around and nod. But he’s stopping. He’s taking pictures with
 his phone. He’s talking to you. I did not realise he was that much of a
 sportsman.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>He was a hockey player. Ah, okay. And I think he was from SJI [St. Joseph's
+<br>He was a hockey player. Ah, okay. And I think he was from SJI [St. Joseph's
 Institution], and they used to wear green-and-white socks, apparently,
 something like that. He told me that. So. Yes, but I think he was probably
 also a cricketer. Maybe other sports – it’s quite common for people of
@@ -433,16 +396,14 @@ a hockey player.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Sporting prowess and achievements of sporting excellence are very inspirational.
+<br>Sporting prowess and achievements of sporting excellence are very inspirational.
 Right. So, you know, as I said, you know most people are not that interested
 in heritage. We tell them so-and-so had won an Olympic medal, that’s like
 a big thing. I'm so glad that Sport Singapore is putting effort into Singapore
 sports heritage.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>To be fair we must give credit to the president himself. His demeanor
+<br>To be fair we must give credit to the president himself. His demeanor
 during the whole process is helping us because other people are aware that
 he’s connected, that he is a sportsman. And lots of people wouldn’t have
 known that either. And so, I think it helps create a good, positive environment
@@ -450,44 +411,35 @@ for sport heritage. And now we see we can always bring in [that] the president
 launched this.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Nick, you’ve been so wonderful coming today for the podcast. We’ve sort
-of come to the end of the substantive part of the podcast.</p>
-<p>&nbsp;</p>
-<p>Now we want to try and turn to lighter topics. Well, you’ve written a
-series of books about Kasparov and Karpov. Yes, you know, so you obviously
-know a little bit about chess. Chess and sport, how are they similar?</p>
+<br>Nick, you’ve been so wonderful coming today for the podcast. We’ve sort
+of come to the end of the substantive part of the podcast. Now we want
+to try and turn to lighter topics. Well, you’ve written a series of books
+about Kasparov and Karpov. Yes, you know, so you obviously know a little
+bit about chess. Chess and sport, how are they similar?</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>How are they similar? The easy answer to the question is chess is sport.</p>
+<br>How are they similar? The easy answer to the question is chess is sport.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>No, it’s not.</p>
+<br>No, it’s not.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>The normal approach is to say there’s no physicality.</p>
+<br>The normal approach is to say there’s no physicality.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Don’t sweat that much.</p>
+<br>Don’t sweat that much.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>Ah, you’d be wrong there. It’s a highly physical activity. The argument
+<br>Ah, you’d be wrong there. It’s a highly physical activity. The argument
 against chess is, you know, you’re sitting down, there’s minimal movement,
 and so on. And that’s not wrong. In one of the world championship matches,
 Karpov lost seven kilos during the competition.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Really? Wow.</p>
+<br>Really? Wow.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>It’s because the body has a mental component as well, which uses up energy
+<br>It’s because the body has a mental component as well, which uses up energy
 and so on. So, often the common argument is there is no physicality in
 the way that athletics is running and football is kicking a ball and running
 about. But it is physical. It’s at one end of a spectrum, let’s say, in
@@ -501,20 +453,16 @@ competitions. So maybe during the last, I don’t know, 30, 40 years, physical
 training has become part of training for chess.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, I did not know this.</p>
+<br>Oh, I did not know this.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>So, it’s not just a sit down and relax and just move pieces and so on.</p>
+<br>So, it’s not just a sit down and relax and just move pieces and so on.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Take a bite of a cheeseburger.</p>
+<br>Take a bite of a cheeseburger.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>So, my position would be, yes, it is a sport because in my case, it satisfies
+<br>So, my position would be, yes, it is a sport because in my case, it satisfies
 some of the same desires as when I was at school. I played rugby, cricket
 and on rainy days, playtime. You had to go inside. So, what can I do? That
 is competitive? I think this is the key. The competitive side of chess
@@ -522,8 +470,7 @@ makes it parallel to these other things. But you do it inside when it’s
 right, when it’s raining outside, it doesn’t make it any less of a sport.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah. Are you going to argue that monopoly is a sport?</p>
+<br>Yeah. Are you going to argue that monopoly is a sport?</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
 </p>
@@ -544,12 +491,10 @@ one of the ultimate challenges physically and mentally that human beings
 engage in.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Speaking as someone who’s written a bunch of history books, history is…?</p>
+<br>Speaking as someone who’s written a bunch of history books, history is…?</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong>
-</p>
-<p>History is very, very dynamic; it’s not easy to pin down. It’s not always
+<br>History is very, very dynamic; it’s not easy to pin down. It’s not always
 objective, but it is fascinating. And for me, the discovery phase of the
 history process, I mean that, in a sense that happens first, the writing
 and the critical evaluation comes later, discovering new things that have
@@ -557,21 +502,16 @@ apparently been forgotten or neglected or disregarded. It’s actually a
 big thrill.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I fully agree. Yes, thank you very much for coming on the show. It’s been
+<br>I fully agree. Yes, thank you very much for coming on the show. It’s been
 a pleasure having you. It’s been a pleasure talking to you. To learn more
-about Chia Boon Leong, check out our BiblioAsia website at <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>
-</p>
-<p>&nbsp;</p>
-<p>Nick, thank you once again for coming on the show.</p>
-<p>&nbsp;</p>
+about Chia Boon Leong, check out our BiblioAsia website. Nick, thank you
+once again for coming on the show.</p>
+<p></p>
 <p><strong>Nick</strong>
-</p>
-<p>And thank you, because I’ve enjoyed this just as much as you have.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Okay, great. If you’ve enjoyed this episode,&nbsp;<a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">subscribe to the podcast</a>&nbsp;and
+<br>And thank you, because I’ve enjoyed this just as much as you have.
+<br>
+<br><strong>Jimmy</strong>
+<br>Okay, great. If you’ve enjoyed this episode,&nbsp;<a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">subscribe to the podcast</a>&nbsp;and
 the&nbsp;<em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia</a></em>&nbsp;&nbsp;
 <a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter&nbsp;</a>. Thank you for joining me on BiblioAsia+.</p>
 <p>&nbsp;</p>
