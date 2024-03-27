@@ -146,7 +146,7 @@ The actual surrender took place on the premises of the Ford Factory in Bukit Tim
 Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit https://corporate.nas.gov.sg/former-ford-factory/overview/)<br></div>
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Min_Yeng.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yeng.png">
 <b>Phan Ming Yen</b> is an independent writer, researcher and producer. A former journalist and arts manager, his current areas of research are on the Malayan Campaign and Japanese Occupation in Singapore. He has written about 19th-century music in Singapore and also on the Syonan Symphony Orchestra during the Occupation.</div>
 
 
