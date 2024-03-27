@@ -2,6 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - "Gloved Gods: Battling Key, Yeo Choon Song and the Roaring 20s of
+        Singapore Boxing.md"
       - The Other Men Who Surrendered Singapore.md
       - Example Title.md
       - Testing My Skills.md
