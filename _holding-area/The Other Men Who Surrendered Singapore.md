@@ -35,7 +35,13 @@ Bennett (1887–1962) was Commander of the 8th Division of the Australian Imperi
 
 Simmons (1888–1952) was Commander of the Singapore Fortress and responsible for the defence of Singapore, the adjoining islands and the eastern area of Johor. He was the subject of a biography, _The Story of Major General F.K. Simmons, CEB, MVO, MC, a Man Among Men_, by Percival. In Percival’s eyes, Simmons had a “particularly tactful and courteous manner which was an undoubted asset in his dealings with the civilians of Singapore. He worked unceasingly for the welfare of the troops in that city”.[^8]
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_4.png)
+<div style="background-color:white;">Major-General Frank Keith Simmons was Commander of the Singapore Fortress, and responsible for the defence of Singapore, the adjoining islands and the eastern area of Johor. <i>Courtesy of Paul Godley. Image reproduced from generals.dk</i></div>
+
 Heath (1885–1954) commanded the III Indian Corps from 1941 to 1942 as part of the Malaya Command and had been entrusted with defending northern Malaya. Before his arrival in Malaya, he had gained success as the General Officer Commanding the 5th Indian Infantry Division in the East African Campaign where he planned and executed an assault on the Italian Army at the Battle of Keren in Eritrea in March 1941. In Heath’s obituary, the _Straits Times_ noted that he had been a “soldier whose tactics have been praised by his superiors” and he had served with “distinction in many frontier incidents”.[^9]
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_5.png)
+<div style="background-color:white;">Lieutenant-General Lewis Macclesfield Heath commanded the III Indian Corps from 1941 to 1942 as part of the Malaya Command and had been entrusted with defending northern Malaya. <i>Courtesy of Paul Godley. Image reproduced from generals.dk.</i></div>
 
 In Percival’s notes of the meeting, Heath had argued that “there is only one possible course to adopt” and that was to do what Percival ought to have done two days ago, “namely to surrender immediately”. Heath added that the defenders could not “resist another determined Japanese attack and that to sacrifice countless lives by a failure to appreciate the true situation would be an act of extreme folly”.[^10] Bennett agreed with Heath and dismissed Percival’s proposal for a counterattack. When Percival sought the opinion of others, Simmons was recorded to have said that he was “reluctant to surrender”, but could see no other alternative.[^11]
 
