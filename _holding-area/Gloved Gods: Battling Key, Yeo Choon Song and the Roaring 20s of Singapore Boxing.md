@@ -184,62 +184,62 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^20]: “Boxing.”
 
-“Boxing.”&nbsp;
+[^21]: “Boxing.”
 
-“Boxing.” Almost immediately, the Battling Key – Young Pelky fight attained legendary status in Singapore’s boxing circles. In later years, varying claims would be made about the size of the audience – ranging from 6,000 to 12,000. See, for example, “First Real Local Champion” and Rippa, “Battling Key – Battler and Philanthropist.”
+[^22]: “Boxing.” Almost immediately, the Battling Key – Young Pelky fight attained legendary status in Singapore’s boxing circles. In later years, varying claims would be made about the size of the audience – ranging from 6,000 to 12,000. See, for example, “First Real Local Champion” and Rippa, “Battling Key – Battler and Philanthropist.”
 
-Rippa, “Battling Key – Battler and Philanthropist.”&nbsp;
+[^23]: Rippa, “Battling Key – Battler and Philanthropist.”&nbsp;
 
-Filemon G. Salaysay, “Heartaches of a Promoter,” _Singapore Free Press_, 16 January 1954, 7. (From NewspaperSG)
+[^24]: Filemon G. Salaysay, “Heartaches of a Promoter,” _Singapore Free Press_, 16 January 1954, 7. (From NewspaperSG)
 
-“The Big Fight,” _Malaya Tribune_, 21 July 1922, 8. (From NewspaperSG)
+[^25]: “The Big Fight,” _Malaya Tribune_, 21 July 1922, 8. (From NewspaperSG)
 
-“Boxing,” _Malaya Tribune_, 4 January 1924, 8. (From NewspaperSG). Similar syndicates mushroomed across the region – the Penang Boxing Syndicate and the Oriental Boxing Syndicate being two others frequently mentioned in that era’s newspapers.
+[^26]: “Boxing,” _Malaya Tribune_, 4 January 1924, 8. (From NewspaperSG). Similar syndicates mushroomed across the region – the Penang Boxing Syndicate and the Oriental Boxing Syndicate being two others frequently mentioned in that era’s newspapers.
 
-“Box: Song Knocks Out Cowboy Reyes,” _Straits Times_, 7 January 1927, 10. (From NewspaperSG). This is not to imply that there weren’t other local champion boxers in Singapore at the time. The Eurasian Walley brothers, Boy and Bud, were considered legends in the flyweight category with the former coming close to winning the world crown. See Boy Walley, “The Pride of Malaya,” _The Sportsman_ 2, no. 9 (6 May 1931): 10. (From NUS Libraries)
+[^27]: “Box: Song Knocks Out Cowboy Reyes,” _Straits Times_, 7 January 1927, 10. (From NewspaperSG). This is not to imply that there weren’t other local champion boxers in Singapore at the time. The Eurasian Walley brothers, Boy and Bud, were considered legends in the flyweight category with the former coming close to winning the world crown. See Boy Walley, “The Pride of Malaya,” _The Sportsman_ 2, no. 9 (6 May 1931): 10. (From NUS Libraries)
 
-Lim Kee Chan, “Song Did Not Believe in Second-Best Performance,” _Straits Times_, 26 April 1981, 27. (From NewspaperSG)
+[^28]: Lim Kee Chan, “Song Did Not Believe in Second-Best Performance,” _Straits Times_, 26 April 1981, 27. (From NewspaperSG)
 
-Lim, “Song Did Not Believe in Second-Best Performance.”
+[^29]: Lim, “Song Did Not Believe in Second-Best Performance.”
 
-Lim, “Song Did Not Believe in Second-Best Performance.”
+[^30]: Lim, “Song Did Not Believe in Second-Best Performance.”
 
-Singapore Boxing,” _Pinang Gazette and Straits Chronicle_, 6 October 1925, 13. (From NewspaperSG)
+[^31]: Singapore Boxing,” _Pinang Gazette and Straits Chronicle_, 6 October 1925, 13. (From NewspaperSG)
 
-“Boxing: Friday March 4 at Happy Valley,” _Malaya Tribune_, 3 March 1927, 7; “Key–Song To-Night,” _Malaya Tribune,_ 4 March 1927, 10. (From NewspaperSG)&nbsp;
+[^32]: “Boxing: Friday March 4 at Happy Valley,” _Malaya Tribune_, 3 March 1927, 7; “Key–Song To-Night,” _Malaya Tribune,_ 4 March 1927, 10. (From NewspaperSG)&nbsp;
 
-“Sporting News: Boxing,” _Malaya Tribune_, 5 March 1927, 10. (From NewspaperSG)
+[^33]: “Sporting News: Boxing,” _Malaya Tribune_, 5 March 1927, 10. (From NewspaperSG)
 
-“Sporting News: Boxing.”&nbsp;
+[^34]: “Sporting News: Boxing.”&nbsp;
 
-The description of the evening’s events has been adapted from “Last Night’s Results,” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 5 March 1927, 20. (From NewspaperSG)
+[^35]: The description of the evening’s events has been adapted from “Last Night’s Results,” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 5 March 1927, 20. (From NewspaperSG)
 
-“Song Wins Well Over Key,” _Straits Times_, 13 August 1927, 10. (From NewspaperSG)
+[^36]: “Song Wins Well Over Key,” _Straits Times_, 13 August 1927, 10. (From NewspaperSG)
 
-“Key and Song Ready for Big Fight,” _Malaya Tribune_, 4 October 1928, 10. (From NewspaperSG)
+[^37]: “Key and Song Ready for Big Fight,” _Malaya Tribune_, 4 October 1928, 10. (From NewspaperSG)
 
-“The Battling Key-Y.C. Song Fight,” _Malaya Tribune_, 26 September, 1928, 10 (From NewspaperSG)
+[^38]: “The Battling Key-Y.C. Song Fight,” _Malaya Tribune_, 26 September, 1928, 10 (From NewspaperSG)
 
-“Song Beats Key for Second Time,” _Straits Times_, 6 October 1928, 10. (From NewspaperSG)
+[^39]: “Song Beats Key for Second Time,” _Straits Times_, 6 October 1928, 10. (From NewspaperSG)
 
-“Song Beats Key for Second Time.”
+[^40]: “Song Beats Key for Second Time.”
 
-Several issues of _The Sportsman_ are available in NUS Libraries and provide a fascinating insight into the state of sport in the colony at the time. These can be accessed&nbsp; at digitalgems.nus.edu.sg/collection/11092/items.
+[^41]: Several issues of _The Sportsman_ are available in NUS Libraries and provide a fascinating insight into the state of sport in the colony at the time. These can be accessed&nbsp; at digitalgems.nus.edu.sg/collection/11092/items.
 
-“T.F. Hwang Takes You Down Memory Lane,” _Straits Times_, 28 June 1975, 14. (From NewspaperSG)
+[^41]: “T.F. Hwang Takes You Down Memory Lane,” _Straits Times_, 28 June 1975, 14. (From NewspaperSG)
 
-“Y.C. Song to Retire From Boxing,” _Straits Times_, 20 June 1931, 13. (From NewspaperSG)
+[^42]: “Y.C. Song to Retire From Boxing,” _Straits Times_, 20 June 1931, 13. (From NewspaperSG)
 
-“Leighton”, “Amie Raphael Outpoints Alde While the Crowd Yawns,” _Straits Times_, 7 December 1935, 15. (From NewspaperSG)
+[^43]: “Leighton”, “Amie Raphael Outpoints Alde While the Crowd Yawns,” _Straits Times_, 7 December 1935, 15. (From NewspaperSG)
 
-Herman Rippa, “Y.C. Song, Red Warren &amp; Dudley Cambrooke,” _Sunday Tribune_ (Singapore), 12 October 1947, 11. (From NewspaperSG)
+[^44]: Herman Rippa, “Y.C. Song, Red Warren &amp; Dudley Cambrooke,” _Sunday Tribune_ (Singapore), 12 October 1947, 11. (From NewspaperSG)
 
-“First Real Local Champion.”&nbsp;
+[^45]: “First Real Local Champion.”&nbsp;
 
-“Chinese and Boxing in Malaya.”
+[^46]: “Chinese and Boxing in Malaya.”
 
-“Battling Key Dies After Contest,” _Malaya Tribune_, 20 March 1935, 12. (From NewspaperSG)
+[^47]: “Battling Key Dies After Contest,” _Malaya Tribune_, 20 March 1935, 12. (From NewspaperSG)
 
-“Battling Key Dies After Contest.”
+[^48]: “Battling Key Dies After Contest.”
 
-Lim Kee Chan, “Boxing Pro Choon Song Dies,” _Straits Times_, 24 February 1988, 25. (From NewspaperSG)
+[^49]: Lim Kee Chan, “Boxing Pro Choon Song Dies,” _Straits Times_, 24 February 1988, 25. (From NewspaperSG)
