@@ -59,3 +59,9 @@ Photographs are an important means to understand Singapore’s history and herit
 
 <img src="/images/Vol-16-issue-1/marjorie/marjorie_victor_topic.png" style="width:80%;">  
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/wong-ken-foo/">From the Archives: The Work of Photographer KF Wong</a>
+K.F. Wong shot to international fame with his images of Borneo, though not without controversy.&nbsp;**Zhuang Wubin**&nbsp;examines Wong’s work and sees beyond their historical value.
+
+<img src="/images/Vol-15-issue-2/from-the-archives/kfwong_topic.png" style="width:80%;">  
+<hr>
