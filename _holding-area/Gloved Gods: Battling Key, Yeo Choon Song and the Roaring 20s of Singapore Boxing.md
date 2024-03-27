@@ -226,20 +226,20 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^41]: Several issues of _The Sportsman_ are available in NUS Libraries and provide a fascinating insight into the state of sport in the colony at the time. These can be accessed&nbsp; at digitalgems.nus.edu.sg/collection/11092/items.
 
-[^41]: “T.F. Hwang Takes You Down Memory Lane,” _Straits Times_, 28 June 1975, 14. (From NewspaperSG)
+[^42]: “T.F. Hwang Takes You Down Memory Lane,” _Straits Times_, 28 June 1975, 14. (From NewspaperSG)
 
-[^42]: “Y.C. Song to Retire From Boxing,” _Straits Times_, 20 June 1931, 13. (From NewspaperSG)
+[^43]: “Y.C. Song to Retire From Boxing,” _Straits Times_, 20 June 1931, 13. (From NewspaperSG)
 
-[^43]: “Leighton”, “Amie Raphael Outpoints Alde While the Crowd Yawns,” _Straits Times_, 7 December 1935, 15. (From NewspaperSG)
+[^44]: “Leighton”, “Amie Raphael Outpoints Alde While the Crowd Yawns,” _Straits Times_, 7 December 1935, 15. (From NewspaperSG)
 
-[^44]: Herman Rippa, “Y.C. Song, Red Warren &amp; Dudley Cambrooke,” _Sunday Tribune_ (Singapore), 12 October 1947, 11. (From NewspaperSG)
+[^45]: Herman Rippa, “Y.C. Song, Red Warren &amp; Dudley Cambrooke,” _Sunday Tribune_ (Singapore), 12 October 1947, 11. (From NewspaperSG)
 
-[^45]: “First Real Local Champion.”&nbsp;
+[^46]: “First Real Local Champion.”&nbsp;
 
-[^46]: “Chinese and Boxing in Malaya.”
+[^47]: “Chinese and Boxing in Malaya.”
 
-[^47]: “Battling Key Dies After Contest,” _Malaya Tribune_, 20 March 1935, 12. (From NewspaperSG)
+[^48]: “Battling Key Dies After Contest,” _Malaya Tribune_, 20 March 1935, 12. (From NewspaperSG)
 
-[^48]: “Battling Key Dies After Contest.”
+[^49]: “Battling Key Dies After Contest.”
 
-[^49]: Lim Kee Chan, “Boxing Pro Choon Song Dies,” _Straits Times_, 24 February 1988, 25. (From NewspaperSG)
+[^50]: Lim Kee Chan, “Boxing Pro Choon Song Dies,” _Straits Times_, 24 February 1988, 25. (From NewspaperSG)
