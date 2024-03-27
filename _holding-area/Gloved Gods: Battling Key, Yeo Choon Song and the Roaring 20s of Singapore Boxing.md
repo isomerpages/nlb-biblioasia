@@ -13,7 +13,6 @@ By Abhishek Mehrotra
 On 15 July 1896, an advertisement in the _Straits Times Maritime Journal and General News_ invited readers in Singapore to witness what it promised would be a marvellous exhibition of boxing by “The Wonder of the Age – ‘Peter Jackson’”. [^1]
 
 ![](/images/Vol%2020%20Issue%202/Boxing/Image1.png)
-<div style="background-color: white;">The cover of The Straydogs’ 1967 vinyl release of “Mum’s Too Pampering” and “I Can Only Give You Everything”. Dennis Lim is standing, second from the left. <i>Courtesy of Vernon Cornelius.</i></div>
 
 This would normally not have caught the attention of this 21st-century researcher had it not been for a singular fact: Peter Jackson was a boxing kangaroo. It had arrived in Singapore from Fremantle, Western Australia, on the steamship _Sultan_ in June.[^2]
 
@@ -31,7 +30,7 @@ More than anything though, the brothers loved boxing.
 
 In 1920, the Taits brought a travelling circus to Singapore, and in an apparently spur-of-the-moment decision, constructed a makeshift boxing ring to host exhibition bouts after the evening’s main entertainments were done.[^6] The first few fights were between Filippino circus workers. As interest grew and larger crowds started gathering, the brothers invited daring onlookers to fight them.[^7]
 
-This humble beginning was the taproot from which sprang the heady, golden years of boxing in Singapore.&nbsp;
+This humble beginning was the taproot from which sprang the heady, golden years of boxing in Singapore.
 
 The sport held a peculiar fascination for the locals. Unlike cricket, tennis or swimming – which were mostly confined to exclusive upper-class clubs for the affluent – boxing belonged “to the greater mayhem and disorder of the streets”.[^8]
 
@@ -40,6 +39,9 @@ It also lent itself to betting. In a remarkably short span of time, boxing bouts
 #### **Pulling No Punches**
 
 The first local hero was an unlikely one – a Straits Chinese named Tan Teng Kee. Born in 1898 to a respected family whose head was a _sinseh_ (traditional Chinese physician), Tan had attended the venerable St Joseph’s Institution – a natural stepping stone to a “respectable” white-collar profession.9 To the family’s shock though, Tan decided to don boxing gloves. His nom de guerre: Battling Key.
+
+![](/images/Vol%2020%20Issue%202/Boxing/Image2.png)
+<div style="background-color: white;">Battling Key, the lightweight champion. <i>Image reproduced from Malayan Saturday Post, 30 July 1927, 32. (From NewspaperSG).</i></div>
 
 The circumstances leading up to Battling Key’s decision are lost to history. What is known is that by August 1921, only a year after boxing had come to Singapore, he was facing off against a certain C. Oehlers in the final of the colony’s amateur lightweight championship at the packed Palladium Theatre (site of the Orchard Gateway today).[^10]
 
