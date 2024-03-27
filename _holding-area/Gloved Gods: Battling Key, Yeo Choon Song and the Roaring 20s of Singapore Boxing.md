@@ -75,6 +75,9 @@ The first few rounds were evenly matched before Pelky’s cannons started findin
 
 Lesser men may have thrown in the towel, but the battered Key returned for the eighth round. It took four more thunderous blows from Pelky, including one square on the jaw, before the local hero hit the floor and stayed there. The Filipino had won but the _Straits Times_ noted that “the courage with which Key stuck it to the end made him the popular hero”.[^22] Later reports claimed that the many Chinese women who had come to witness their idol left the arena weeping.[^23]
 
+![](/images/Vol%2020%20Issue%202/Boxing/Image5.png)
+<div style="background-color: white;">Battling Key (second from left) with Young Aman, N.A. Jansen, Makatangay and L.S. Fond. <i>Image reproduced from Malayan Saturday Post, 20 July 1929, 17. (From NewspaperSG).  </i></div>
+
 #### **Promoting Boxing**
 
 Soon, a semblance of structure began to take shape around the sport. Up-and-coming fighters would be pitted against each other on weeknight matches, which were presumably cheaper than the seats on Friday or Saturday nights. For boxing managers, always on the lookout for new talent, these were fantastic scouting opportunities. The most promising fighters were first upgraded to weekend support acts – engaging in preliminary fights to warm the crowd up. Those who did well would eventually become the main acts themselves, the ones who brought the crowd traipsing through the doors of Happy Valley (an older open-air arena on Anson Road) or New World.
