@@ -20,13 +20,13 @@ his character and their friendship.</p>
 get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Nick Talked About</strong></h4>
-<p>02:04 – How Boon Leong got his nickname, Twinke Toes
+<p>02:04 – How Boon Leong got his nickname, Twinkle Toes
 <br>06:32 – How Boon Leong ended up in the Olympics playing for China
 <br>08:25 – Nick's meeting with Boon Leong, and their friendship
 <br>12:31 – Nick's research process and his start in writing about local athletes
 <br>16:00 – How Nick's first meeting with President Tharman Shanmugaratnam
 went
-<br>19:03 – Launch of Nick's book with the president as the VIP
+<br>19:03 – Nick's book launch with the president as the guest of honour
 <br>22:40 – How chess and sport are similar
 <br>26:05 – What sport and history are to Nick</p>
 <h4><strong>About the Guest</strong></h4>
