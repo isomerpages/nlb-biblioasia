@@ -100,6 +100,9 @@ Even as boxing flourished in the colony, a nagging doubt crept into promoters’
 
 Luckily for the promoters, even as Battling Key was thrilling audiences, yet another strapping Straits Chinese fighter was biding his time. Legend has it that Yeo Choon Song (known as Y.C. Song in the press), a boxing-besotted teenager like many of his contemporaries, was in the audience for an evening of bouts at Happy Valley when he remarked to his friends: “I think I can beat most of those boxers.”[^28]
 
+![](/images/Vol%2020%20Issue%202/Boxing/Image6.png)
+<div style="background-color: white;">An advertisement for the first match between Battling Key and Yeo Choon Song (Y.C. Song) on 4 March 1927. <i>Image reproduced from Malaya Tribune, 3 March 1927, 7. (From NewspaperSG).</i></div>
+
 As luck would have it, one of Yeo’s friends was acquainted with boxing manager Tan Ngee Yong and took Yeo to meet Tan at River Valley Road the very next morning. Within a year, Tan and his burly Straits Chinese protege had become a crack team. In 1924, when he was all of 18, Yeo went on a tear – winning 20 fights in a row and becoming known for his fearlessness backed with quick, accurate punches with the right-hand, a walloping left and a solid defence.[^29]
 
 Over the next few years, Yeo became a regular fixture on the boxing circuit, moving from four rounds to eight and beyond, from relatively low-key weekdays to glittering weekends. However, Yeo really shot to fame when he knocked out Filippino legend, the veteran Cowboy Reyes, in January 1927 with a left hook to the body that almost sent Reyes “back to the Philippines”.[^30]
