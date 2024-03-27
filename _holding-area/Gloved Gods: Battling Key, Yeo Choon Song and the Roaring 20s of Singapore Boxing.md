@@ -140,7 +140,7 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Andrea_Kee.png">
-	<b>Andrea Kee</b> is a Librarian with the National Library of Singapore, and works with the Singapore and Southeast Asia collections. Her responsibilities include collection management, content development, as well as providing reference and research services.</div>
+	<b>Abhishek Mehrotra</b> is a researcher and writer whose interests include media and society in colonial Singapore, urban toponymy and post-independence India. He is working on his first book – a biography of T.N. Seshan, one of India’s most prominent bureaucrats. The book, commissioned by HarperCollins, is slated for release in 2025. Abhishek is a former Lee Kong Chian Research Fellow (2021–2022).</div>
 
 #### **Notes**
 
