@@ -212,13 +212,13 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^34]: “[Sporting News: Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19270305-1.2.70).”
 
-[^35]: The description of the evening’s events has been adapted from “Last Night’s Results,” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 5 March 1927, 20. (From NewspaperSG)
+[^35]: The description of the evening’s events has been adapted from “[Last Night’s Results](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270305-1.2.159),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 5 March 1927, 20. (From NewspaperSG)
 
-[^36]: “Song Wins Well Over Key,” _Straits Times_, 13 August 1927, 10. (From NewspaperSG)
+[^36]: “[Song Wins Well Over Key](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270813-1.2.54.11),” _Straits Times_, 13 August 1927, 10. (From NewspaperSG)
 
-[^37]: “Key and Song Ready for Big Fight,” _Malaya Tribune_, 4 October 1928, 10. (From NewspaperSG)
+[^37]: “[Key and Song Ready for Big Fight](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19281004-1.2.69),” _Malaya Tribune_, 4 October 1928, 10. (From NewspaperSG)
 
-[^38]: “The Battling Key-Y.C. Song Fight,” _Malaya Tribune_, 26 September, 1928, 10 (From NewspaperSG)
+[^38]: “[The Battling Key-Y.C. Song Fight](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19280926-1.2.73),” _Malaya Tribune_, 26 September, 1928, 10 (From NewspaperSG)
 
 [^39]: “Song Beats Key for Second Time,” _Straits Times_, 6 October 1928, 10. (From NewspaperSG)
 
