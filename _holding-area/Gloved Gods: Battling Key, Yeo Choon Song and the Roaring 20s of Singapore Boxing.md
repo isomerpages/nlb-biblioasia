@@ -164,9 +164,9 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^10]: Locals called Emerald Hill Road, on which the Palladium was located, _tang leng tiam yia yee hang_ (“Tanglin Cinema Street” in Teochew).&nbsp;
 
-[^11]: “Boxing,” _Straits Times_, 15 August 1921, 10. (From NewspaperSG)&nbsp;
+[^11]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19210815-1.2.55.8),” _Straits Times_, 15 August 1921, 10. (From NewspaperSG)&nbsp;
 
-[^12]: Such was the sport’s popularity that in one of the three fights – it is not known which – between Battling Key and Johnny Carvalho, the Sultan of Johor bet $5,000, presumably on the Johor man.&nbsp; See Seconds Out, “Chinese and Boxing in Malaya,” _Pinang Gazette and Straits Chronicle_, 28 January 1935, 12. (From NewspaperSG)
+[^12]: Such was the sport’s popularity that in one of the three fights – it is not known which – between Battling Key and Johnny Carvalho, the Sultan of Johor bet $5,000, presumably on the Johor man.&nbsp; See Seconds Out, “[Chinese and Boxing in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19350128-1.2.132),” _Pinang Gazette and Straits Chronicle_, 28 January 1935, 12. (From NewspaperSG)
 
 [^13]: “Last Night’s Boxing Sensation,” _Singapore Free Press and Mercantile Advertiser_, 4 August 1922, 12. (From NewspaperSG)
 
