@@ -110,6 +110,13 @@ In 1915, sepoys in Singapore revolted against their British officers in a bloody
 <img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/flee-to-uncertainty/">Fleeing to Uncertainty: My Father’s Story</a>
+
+Barely 13 years old then, K. Ramakanthan and his family escaped with their lives from Perak to Johor during the Japanese Occupation.&nbsp;**Aishwariyaa Ramakanthan**&nbsp;recounts her father’s harrowing journey.
+
+<img src="/images/Vol-15-issue-3/fleeing-to-uncertainty/Fleeing1.JPG" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/violence-writings/">Don’t Mention the Corpses: The Erasure of Violence in Colonial Writings on Southeast Asia</a>
 
 History may be written by the victors, but what they conveniently leave out can be more telling.&nbsp;<b>Farish Noor</b>&nbsp;reminds us of the violent side of colonial conquest.
