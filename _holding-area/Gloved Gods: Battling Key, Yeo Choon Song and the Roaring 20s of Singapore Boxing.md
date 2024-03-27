@@ -146,27 +146,27 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^1]: “New Advertisements,” _Straits Maritime Journal and General News_, 15 July 1896, 5. (From Newspaper SG)
 
-“A Marsupial Pugilist,” _Straits Budget_, 9 June 1896, 12. (From NewspaperSG)
+[^2]: “A Marsupial Pugilist,” _Straits Budget_, 9 June 1896, 12. (From NewspaperSG)
 
-H.L. Hopkin, “Boxing Nights in Singapore,” _Straits Times_, 7 December 1927, 8. (From NewspaperSG). When newspapers advertised the bout as the “flyweight championship of Malaya”, several readers complained that the title was undeserved. The _Malaya Tribune_, rather sensibly, responded that there were “no formal championship competitions for boxers in Singapore, or anywhere else in Malaya”. And it went on to add, “Meanwhile, who can dispute any man’s right to claim any title except by fighting him for it?” See “Boxing,” _Malaya Tribune_, 8 July 1921, 5. (From NewspaperSG)
+[^3]: H.L. Hopkin, “Boxing Nights in Singapore,” _Straits Times_, 7 December 1927, 8. (From NewspaperSG). When newspapers advertised the bout as the “flyweight championship of Malaya”, several readers complained that the title was undeserved. The _Malaya Tribune_, rather sensibly, responded that there were “no formal championship competitions for boxers in Singapore, or anywhere else in Malaya”. And it went on to add, “Meanwhile, who can dispute any man’s right to claim any title except by fighting him for it?” See “Boxing,” _Malaya Tribune_, 8 July 1921, 5. (From NewspaperSG)
 
-Lim Kee Chan, oral history interview by Chong Ching Liang, 18 April 1999, transcript and MP3 audio, Reel/Disc 6 of 13, National Archives of Singapore (accession no. 0001770), 105–06.&nbsp;
+[^4]: Lim Kee Chan, oral history interview by Chong Ching Liang, 18 April 1999, transcript and MP3 audio, Reel/Disc 6 of 13, National Archives of Singapore (accession no. 0001770), 105–06.&nbsp;
 
-Joseph R. Svinth, “The Origins of Philippines Boxing, 1899–1929,” _Journal of Combative Sport_, July 2001, https://ejmas.com/jcs/jcsart\_svinth\_0701.htm.&nbsp;
+[^5]: Joseph R. Svinth, “The Origins of Philippines Boxing, 1899–1929,” _Journal of Combative Sport_, July 2001, https://ejmas.com/jcs/jcsart\_svinth\_0701.htm.&nbsp;
 
-No record of a Tait brothers’-owned circus travelling to Singapore in 1920 is available in the archives. Edwin Tait did, however, bring a circus over as part of the Malaya-Borneo exhibition in 1922.
+[^6]: No record of a Tait brothers’-owned circus travelling to Singapore in 1920 is available in the archives. Edwin Tait did, however, bring a circus over as part of the Malaya-Borneo exhibition in 1922.
 
-Lim Kee Chan, oral history interview, 18 April 1999, Reel/Disc 6 of 13, 105–06.
+[^7]: Lim Kee Chan, oral history interview, 18 April 1999, Reel/Disc 6 of 13, 105–06.
 
-Nick Aplin and Quek Jin Jong, “Celestials in Touch: Sport and the Chinese in Colonial Singapore,” in _Sport in Asian Society: Past and Present_, ed. J.A. Mangan and Fan Hong (London; Portland, Or.: Cass, 2003), 70. (From National Library, Singapore, call no. R 796.095 SPO)&nbsp;
+[^8]: Nick Aplin and Quek Jin Jong, “Celestials in Touch: Sport and the Chinese in Colonial Singapore,” in _Sport in Asian Society: Past and Present_, ed. J.A. Mangan and Fan Hong (London; Portland, Or.: Cass, 2003), 70. (From National Library, Singapore, call no. R 796.095 SPO)&nbsp;
 
-Teresa Oei, “My Uncle, The Peranakan Boxing Champion,” _The Peranakan Association Newsletter_ (December 1995): 3–4, https://www.peranakan.org.sg/magazine/1995/1995\_Issue\_5.pdf.&nbsp;
+[^9]: Teresa Oei, “My Uncle, The Peranakan Boxing Champion,” _The Peranakan Association Newsletter_ (December 1995): 3–4, https://www.peranakan.org.sg/magazine/1995/1995\_Issue\_5.pdf.&nbsp;
 
-Locals called Emerald Hill Road, on which the Palladium was located, _tang leng tiam yia yee hang_ (“Tanglin Cinema Street” in Teochew).&nbsp;
+[^10]: Locals called Emerald Hill Road, on which the Palladium was located, _tang leng tiam yia yee hang_ (“Tanglin Cinema Street” in Teochew).&nbsp;
 
-“Boxing,” _Straits Times_, 15 August 1921, 10. (From NewspaperSG)&nbsp;
+[^11]: “Boxing,” _Straits Times_, 15 August 1921, 10. (From NewspaperSG)&nbsp;
 
-Such was the sport’s popularity that in one of the three fights – it is not known which – between Battling Key and Johnny Carvalho, the Sultan of Johor bet $5,000, presumably on the Johor man.&nbsp; See Seconds Out, “Chinese and Boxing in Malaya,” _Pinang Gazette and Straits Chronicle_, 28 January 1935, 12. (From NewspaperSG)
+[^12]: Such was the sport’s popularity that in one of the three fights – it is not known which – between Battling Key and Johnny Carvalho, the Sultan of Johor bet $5,000, presumably on the Johor man.&nbsp; See Seconds Out, “Chinese and Boxing in Malaya,” _Pinang Gazette and Straits Chronicle_, 28 January 1935, 12. (From NewspaperSG)
 
 “Last Night’s Boxing Sensation,” _Singapore Free Press and Mercantile Advertiser_, 4 August 1922, 12. (From NewspaperSG)
 
@@ -194,9 +194,9 @@ Filemon G. Salaysay, “Heartaches of a Promoter,” _Singapore Free Press_, 16 
 
 “The Big Fight,” _Malaya Tribune_, 21 July 1922, 8. (From NewspaperSG)
 
-“Boxing,” _Malaya Tribune_, 4 January 1924, 8. (From NewspaperSG). Similar syndicates mushroomed across the region – the Penang Boxing Syndicate and the Oriental Boxing Syndicate being two others frequently mentioned in that era’s newspapers.&nbsp;
+“Boxing,” _Malaya Tribune_, 4 January 1924, 8. (From NewspaperSG). Similar syndicates mushroomed across the region – the Penang Boxing Syndicate and the Oriental Boxing Syndicate being two others frequently mentioned in that era’s newspapers.
 
-“Box: Song Knocks Out Cowboy Reyes,” _Straits Times_, 7 January 1927, 10. (From NewspaperSG). This is not to imply that there weren’t other local champion boxers in Singapore at the time. The Eurasian Walley brothers, Boy and Bud, were considered legends in the flyweight category with the former coming close to winning the world crown. See Boy Walley, “The Pride of Malaya,” _The Sportsman_ 2, no. 9 (6 May 1931): 10. (From NUS Libraries) &nbsp;
+“Box: Song Knocks Out Cowboy Reyes,” _Straits Times_, 7 January 1927, 10. (From NewspaperSG). This is not to imply that there weren’t other local champion boxers in Singapore at the time. The Eurasian Walley brothers, Boy and Bud, were considered legends in the flyweight category with the former coming close to winning the world crown. See Boy Walley, “The Pride of Malaya,” _The Sportsman_ 2, no. 9 (6 May 1931): 10. (From NUS Libraries)
 
 Lim Kee Chan, “Song Did Not Believe in Second-Best Performance,” _Straits Times_, 26 April 1981, 27. (From NewspaperSG)
 
