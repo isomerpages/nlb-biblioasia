@@ -52,11 +52,17 @@ The rest, according to Percival, “either remained silent or expressed their co
 
 While the spotlight has typically fallen on Percival, Heath, Bennett and Simmons as the most senior officers in the room, the remaining eight men were also part of the decision-making process. They were Major Cyril Hew Dalrymple Wild,[^13] Brigadier Thomas Kennedy Newbigging, Brigadier-General Kenneth Sanderson Torrance, Brigadier Alec Warren Greenlaw Wildey, Director-General Ivan Simson, Inspector-General Arthur Harold Dickinson, Brigadier Eric Whitlock Goodman and Brigadier Hubert Francis Lucas.
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_7.png)
+<div style="background-color:white;">A diorama of the meeting of the 12 commanders at the Battlebox on 15 February 1942. <i>Photo by Phan Ming Yen.</i></div>
+
 Their reported silence and concurrence can perhaps be understood – within present-day management discourse – as “acquiescent silence”. This is the silence of individuals who “accept the prevailing circumstances and who are not inclined to speak, participate or spend effort to change current status”, or they are of the opinion that “it is pointless and unnecessary to express” their viewpoint. They think “that remaining silent could protect their relationships and allow them to perform their job better”.[^14] Nonetheless, an overview of who these men were can perhaps serve as a starting point for further research into broadening the existing narratives of the surrender.
 
 #### **Cyril Hew Dalrymple Wild (1908–46)**
 
 Among the eight, Wild is probably the most interesting. Wild, together with Percival, Newbigging and Torrance, had been members of the surrender party and were photographed walking towards the Ford Factory to meet with Lieutenant-General Tomoyuki Yamashita, commander of the Japanese 25th Army. It was Wild who carried the white flag.
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_8.png)
+<div style="background-color:white;">Major Cyril Hew Dalrymple Wild testifying before the International Military Tribunal for the Far East in Tokyo. <i>Wegner, U.S. Army Signal Corps, Harry S. Truman Library &amp; Museum. </i></div>
 
 Wild acted as Percival’s interpreter for the occasion. He was fluent in Japanese having studied the language while working for the Rising Sun Petroleum Company in Yokohama in 1931, leaving only in early 1941. Wild rejoined the British army in June 1940. As Heath’s General Staff Officer, he was given the task of speaking to journalists and was on duty at operations headquarters in Kuala Lumpur on 7 December 1941 when he heard the news of Japanese ships heading towards Malaya.[^15]
 
@@ -65,6 +71,9 @@ Wild died in 1946 and conspiracy theories surround his death to this day, largel
 In September that year, Wild had testified before the International Military Tribunal for the Far East in Tokyo on the initial Japanese landings in Kota Bahru and subsequent atrocities by the Japanese army. Wild, however, died in a plane crash on 25 September 1946 in Hong Kong, en route to Singapore from Tokyo.[^17] 
 
 In 2014, the Hong Kong broadsheet, _South China Morning Post_, revisited the incident in an article headlined “Cover Up at Kai Tak? ‘Allies Caused Hong Kong Plane Crash That Killed 19 to Assassinate British Investigator’”. The article cited war veteran Arthur Lane who said that at the time of the accident, Wild had been “building a solid case that could have seen the Japanese emperor held accountable for some of the worst atrocities carried out by his troops in the early decades of the last century”. It also made the sensational claim that Wild had been “killed to preserve the imperial lineage in Japan and halt the spread of communism across Asia”.[^18]
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_9.png)
+<div style="background-color:white;">Japanese troops crossing the Causeway into Singapore after constructing a girder bridge over the 70-foot (21 m) gap, 1942. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 Lane alleged that “a few days before his death, Colonel Wild had made it known to the American authorities that he had enough evidence to be able to convict Hirohito \[the emperor of Japan\] of war crimes, including bacteriological warfare experiments” and Wild “was then ordered to cancel any further work in this direction and to hand over all the documentation he had so far accumulated”.[^19]
 
@@ -122,6 +131,9 @@ Goodman was senior gunnery advisor to Percival and served as Commander Royal Art
 
 Goodman’s account of the meeting in his diary is factual in tone, stating that he attended a conference “in which it was decided that it was useless to continue the fight as water and ammunition were failing and food too was running short due to losses by capture. I think too that conditions in the native part of the city were a great anxiety – the numbers of unburied dead lying about”.[^40]
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_10.png)
+<div style="background-color:white;">Indian labourers clearing debris in Singapore after a Japanese air raid, 1942. <i>© IWM HU 57224.</i></div>
+
 Goodman died on 8 December 1981. In an obituary by Major Frederick James Howard Nelson, Goodman’s Brigade Major in the 9th Indian Division, Nelson remembered Goodman as one who whenever “things looked hopeless he was sure to appear in person and by his apparent unconcern for danger restored the confidence of all ranks”.[^41]
 
 #### **Hubert Francis Lucas (1897–1990)**
@@ -134,7 +146,10 @@ In 1946, Lucas was made a Commander of the Order of the British Empire. He was c
 
 Ultimately, the decision to surrender was a unanimous one albeit, perhaps, with reluctance. In the spirit of counterfactual history (addressing the “what if” question), one cannot help but wonder what the outcome would have been if the decision to launch a counterattack to recapture Bukit Timah had been taken – a comment that Bennet had made, according to Wild, when the commanders were discussing the details of the surrender. However, Wild had dismissed the comment “made not as a serious contribution to the discussion but as something to quote afterwards”. Wild reported that the comment had been “received with silence”.[^44]
 
-&nbsp;On the 50th anniversary of the fall of Singapore in 1992, this writer, in an article for the _Straits Times_, posed the following question to four historians – two from the National University of Singapore, a historian from Japan and a historian from the United States: Could the British army have held on against the invading Japanese army in 1942 and turned the tide? All four were unanimous in saying that the Japanese would have eventually prevailed.”[^45]
+On the 50th anniversary of the fall of Singapore in 1992, this writer, in an article for the _Straits Times_, posed the following question to four historians – two from the National University of Singapore, a historian from Japan and a historian from the United States: Could the British army have held on against the invading Japanese army in 1942 and turned the tide? All four were unanimous in saying that the Japanese would have eventually prevailed.”[^45]
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_11.png)
+<div style="background-color:white;">The victory photo taken immediately after the surrender of Singapore to the Japanese on 15 February 1942. <i> Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 American military historian Stanley L. Falk said that there was no way the British could have held on and turned the tide: “Singapore was lost from the beginning. Given the preponderance of Japanese military strength and the fact that they could have brought in more military strength if needed, it was inevitable that Singapore would fall.”[^46]
 
