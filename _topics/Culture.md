@@ -74,3 +74,10 @@ Self-mortification and the spilling of blood are hallmarks of the Chinese *tangk
 
 <img src="/images/Vol-16-issue-2/medium/medium_topic.png" style="width:85%;">													
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/navaratri-golu/">Navaratri Golu: The Hindu Festival of Dolls</a>
+
+Celebrated by Hindus of South Indian origins, the Golu festival is a lively melange of colourful dolls, womenhood and spirituality.&nbsp;**Anasuya Soundararajan**&nbsp;shares with us its origins.
+
+<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri1.JPG" style="width:85%;">													
+<hr>
