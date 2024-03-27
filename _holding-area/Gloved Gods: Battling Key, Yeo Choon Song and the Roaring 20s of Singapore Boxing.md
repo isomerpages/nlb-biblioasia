@@ -190,11 +190,11 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^23]: Rippa, “[Battling Key – Battler and Philanthropist](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19470928-1.2.89).”
 
-[^24]: Filemon G. Salaysay, “Heartaches of a Promoter,” _Singapore Free Press_, 16 January 1954, 7. (From NewspaperSG)
+[^24]: Filemon G. Salaysay, “[Heartaches of a Promoter](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19540116-1.2.50.34),” _Singapore Free Press_, 16 January 1954, 7. (From NewspaperSG)
 
-[^25]: “The Big Fight,” _Malaya Tribune_, 21 July 1922, 8. (From NewspaperSG)
+[^25]: “[The Big Fight](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220721-1.2.57.1),” _Malaya Tribune_, 21 July 1922, 8. (From NewspaperSG)
 
-[^26]: “Boxing,” _Malaya Tribune_, 4 January 1924, 8. (From NewspaperSG). Similar syndicates mushroomed across the region – the Penang Boxing Syndicate and the Oriental Boxing Syndicate being two others frequently mentioned in that era’s newspapers.
+[^26]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19240104-1.2.78),” _Malaya Tribune_, 4 January 1924, 8. (From NewspaperSG). Similar syndicates mushroomed across the region – the Penang Boxing Syndicate and the Oriental Boxing Syndicate being two others frequently mentioned in that era’s newspapers.
 
 [^27]: “Box: Song Knocks Out Cowboy Reyes,” _Straits Times_, 7 January 1927, 10. (From NewspaperSG). This is not to imply that there weren’t other local champion boxers in Singapore at the time. The Eurasian Walley brothers, Boy and Bud, were considered legends in the flyweight category with the former coming close to winning the world crown. See Boy Walley, “The Pride of Malaya,” _The Sportsman_ 2, no. 9 (6 May 1931): 10. (From NUS Libraries)
 
