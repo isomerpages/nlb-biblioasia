@@ -196,13 +196,13 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^26]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19240104-1.2.78),” _Malaya Tribune_, 4 January 1924, 8. (From NewspaperSG). Similar syndicates mushroomed across the region – the Penang Boxing Syndicate and the Oriental Boxing Syndicate being two others frequently mentioned in that era’s newspapers.
 
-[^27]: “Box: Song Knocks Out Cowboy Reyes,” _Straits Times_, 7 January 1927, 10. (From NewspaperSG). This is not to imply that there weren’t other local champion boxers in Singapore at the time. The Eurasian Walley brothers, Boy and Bud, were considered legends in the flyweight category with the former coming close to winning the world crown. See Boy Walley, “The Pride of Malaya,” _The Sportsman_ 2, no. 9 (6 May 1931): 10. (From NUS Libraries)
+[^27]: “[Box: Song Knocks Out Cowboy Reyes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270107-1.2.65.2),” _Straits Times_, 7 January 1927, 10. (From NewspaperSG). This is not to imply that there weren’t other local champion boxers in Singapore at the time. The Eurasian Walley brothers, Boy and Bud, were considered legends in the flyweight category with the former coming close to winning the world crown. See Boy Walley, “The Pride of Malaya,” _The Sportsman_ 2, no. 9 (6 May 1931): 10. (From NUS Libraries)
 
-[^28]: Lim Kee Chan, “Song Did Not Believe in Second-Best Performance,” _Straits Times_, 26 April 1981, 27. (From NewspaperSG)
+[^28]: Lim Kee Chan, “[Song Did Not Believe in Second-Best Performance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810426-1.2.70.10.1),” _Straits Times_, 26 April 1981, 27. (From NewspaperSG)
 
-[^29]: Lim, “Song Did Not Believe in Second-Best Performance.”
+[^29]: Lim, “[Song Did Not Believe in Second-Best Performance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810426-1.2.70.10.1).”
 
-[^30]: Lim, “Song Did Not Believe in Second-Best Performance.”
+[^30]: Lim, “[Song Did Not Believe in Second-Best Performance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810426-1.2.70.10.1).”
 
 [^31]: Singapore Boxing,” _Pinang Gazette and Straits Chronicle_, 6 October 1925, 13. (From NewspaperSG)
 
