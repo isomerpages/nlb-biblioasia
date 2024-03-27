@@ -91,29 +91,29 @@ row in front of me and he just said, “He was better.”
 <p><strong>Jimmy</strong> 
 <br>Okay.</p>
 <p>&nbsp;</p>
-<p><strong>Nick</strong>
+<p><strong>Nick</strong> 
 <br>And this is somebody who’d actually seen him play. But it’s a dangerous
 thing to undermine Fandi’s status.</p>
 <p>&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Absolutely, absolutely.</p>
 <p>&nbsp;</p>
-<p><strong>Nick</strong>
+<p><strong>Nick</strong> 
 <br>But Boon Leong was one who could do it. So, I’m fully in favor of reinforcing
 that view that – I used the words: he was in the same class as Fandi, as
 I think it’s safe to say that.</p>
 <p>&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So how did Boon Leong end up in the Olympics playing for China? Even though
 he was born in Singapore.</p>
 <p>&nbsp;</p>
-<p><strong>Nick</strong>
+<p><strong>Nick</strong> 
 <br>Born in Singapore, did not speak Chinese.</p>
 <p>&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I didn’t realise he didn’t speak Chinese.</p>
 <p>&nbsp;</p>
-<p><strong>Nick</strong>
+<p><strong>Nick</strong> 
 <br>This just makes it even more interesting. So where to start really… Football
 in those days, just postwar, was influenced by politics because the Chinese
 were going to have a revolution. And so, he knew that Singapore itself
@@ -128,22 +128,22 @@ because of their Lian Hua tour in 1947, given how well he had performed,
 partly because of how he played against some of the Chinese touring teams
 like Tsingtao.</p>
 <p>&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>And this was in 1948, the London Olympics, London Olympics and in China,
 he was in the starting 11.</p>
 <p>&nbsp;</p>
-<p><strong>Nick</strong>
+<p><strong>Nick</strong> 
 <br>They played one game. Against Turkey.</p>
 <p>&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>In which they did not do so well.</p>
 <p>&nbsp;</p>
-<p><strong>Nick</strong>
+<p><strong>Nick</strong> 
 <br>No, I think it’s really hard luck to go all that way and to go straight
 into a knockout competition and you lose in the first game. That’s it,
 bye bye.</p>
 <p>&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>That was very, very painful.</p>
 <p>&nbsp;</p>
 <p><strong>Nick</strong> 
