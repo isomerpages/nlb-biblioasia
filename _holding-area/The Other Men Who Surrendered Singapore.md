@@ -248,7 +248,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^36]: Leon Comber, _Malaya’s Secret Police: The Role of the Special Branch in the Malayan Emergency_ (Singapore: Institute of Southeast Asian Studies, 2008), 47. (From National Library Singapore, call no. RSING 363.283095951 COM)
 
-[^37]: “New Inspector-General, Police Appointed,” _Singapore Free Press and Mercantile Advertiser_, 5 August 1939, 7. (From NewspaperSG); Comber, _Malaya’s Secret Police_, 26.
+[^37]: “[New Inspector-General, Police Appointed](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390805-1.2.68),” _Singapore Free Press and Mercantile Advertiser_, 5 August 1939, 7. (From NewspaperSG); Comber,  _[Malaya’s Secret Police](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13055676)_, 26.
 
 [^38]: Johanna Whitaker, “Singapore – Where East Meets West,” Visions of Johanna, 28 November 2013, https://visionsofjohanna.org/singapore-where-east-meets-west/.
 
