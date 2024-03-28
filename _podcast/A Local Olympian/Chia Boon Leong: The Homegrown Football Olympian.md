@@ -16,8 +16,8 @@ achievements, his character and their friendship.
 </div>
 <h4><br><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/episode/0u6zlPR4vAIfOfggi3zA42" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
-<a href="https://podcasts.apple.com/us/podcast/chia-boon-leong-the-homegrown-football-olympian/id1688142751?i=1000650691964" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u>
-</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Singapore-Bands-in-Wartime-Vietnam-2323896" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u></a>
+<a href="https://podcasts.apple.com/us/podcast/chia-boon-leong-the-homegrown-football-olympian/id1688142751?i=1000650691964" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u> 
+</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Chia-Boon-Leong--The-Homegrown-Football-Olympian-2354766" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u></a>
 </p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
