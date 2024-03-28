@@ -13,7 +13,7 @@ By Phan Ming Yen
 Decades after the surrender of Allied forces to the Japanese on 15 February 1942, much of the blame for the fall of Singapore remains associated with Lieutenant-General Arthur E. Percival, General Officer Commanding Malaya. As military historian Clifford Kinvig noted, Percival was not merely associated with the defeat but “he seemed to some commentators to bear a large responsibility for it”.[^1]
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/Image1.png) 
-<div style="background-color:white;">Lieutenant-General Arthur Ernest Percival (extreme right) and his party on their way to the Ford Factory in Bukit Timah to surrender Singapore to the Japanese on 15 February 1942. <i>© IWM HU 2781.</i></div>
+<div style="background-color:white;">Lieutenant-General Arthur Ernest Percival (extreme right) and his party on their way to the Ford Factory in Bukit Timah to surrender Singapore to the Japanese on 15 February 1942. © <i>IWM HU 2781.</i></div>
 
 While Percival, as the commander in charge of Malaya, was ultimately responsible for making the decision, that decision to surrender was not made alone. On that fateful day, the surrender was decided by Percival in consultation with 11 other men.
 
