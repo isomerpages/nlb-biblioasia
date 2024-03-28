@@ -18,7 +18,7 @@ Decades after the surrender of Allied forces to the Japanese on 15 February 1942
 While Percival, as the commander in charge of Malaya, was ultimately responsible for making the decision, that decision to surrender was not made alone. On that fateful day, the surrender was decided by Percival in consultation with 11 other men.
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/Image2.png)
-<div style="background-color:white;">Lieutenant-General Arthur Ernest Percival arriving in Singapore to take up his appointment as General Officer Commanding Malaya, 1941. <i>© IWM K 652.</i></div>
+<div style="background-color:white;">Lieutenant-General Arthur Ernest Percival arriving in Singapore to take up his appointment as General Officer Commanding Malaya, 1941. © <i>IWM K 652.</i></div>
 
 On the morning of the 15th, Percival had called for a meeting in the Battlebox, the underground bunker at Fort Canning, which had served as his headquarters in the last days of the Malayan Campaign. The aim of the meeting was to update the key commanders of the dire situation facing Singapore and to decide on the next course of action.
 
