@@ -186,11 +186,11 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^5]: “Prince of Wales and H.M.S. Repulse Sunk off Malaya,” _Malaya Tribune_, 11 December 1941, 3. (From NewspaperSG)
 
-[^6]: Henry Gordon Bennett, _Why Singapore Fell_ (London: Angus and Robertson Ltd, 1944). (From National Library, Singapore, call no. RCLOS 940.5425 BEN)&nbsp;
+[^6]: Henry Gordon Bennett, _[Why Singapore Fell](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12283885)_ (London: Angus and Robertson Ltd, 1944). (From National Library, Singapore, call no. RCLOS 940.5425 BEN)&nbsp;
 
 [^7]: “Lieutenant General Henry Gordon Bennett,” Australian War Memorial, accessed 8 March 2024, https://www.awm.gov.au/collection/P11032385.
 
-[^8]: Arthur Ernest Percival, _The War in Malaya_ (London: Eyre and Spottiswoode, 1949), 33. (From National Library, Singapore, call no. RSING 940.53595 PER)
+[^8]: Arthur Ernest Percival, _[The War in Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202825692)_ (London: Eyre and Spottiswoode, 1949), 33. (From National Library, Singapore, call no. RSING 940.53595 PER)
 
 [^9]: “ [Malayan General Dies, 68](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540114-1.2.177),” _Straits Times_, 14 January 1954, 8. (From NewspapersSG)&nbsp;
 
