@@ -216,9 +216,9 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^20]: Patricia Lim, _Forgotten Souls: A Social History of the Hong Kong Cemetery_ (Hong Kong: Hong Kong University Press, 2011), 539, https://hkupress.hku.hk/index.php?route=product/product&amp;product\_id=923. &nbsp;
 
-[^21]: Bradley, _Cyril Wild_, 5–6.
+[^21]: Bradley,  [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 5–6.
 
-[^22]: A discussion on who carried the Union Jack can be found in _Reflections &amp; Memories of War Vol 1: Battle of Singapore: Fall of the Impregnable Fortress_ (p. 293), and _Cyril Wild_ (p. 91). In Cyril Wild’s biography, James Bradley states that Thomas Kennedy Newbigging carried the Union Jack when contact was first made, while Kenneth Sanderson Torrance carried the Union Jack at the surrender meeting with Yamashita. In _The Fall of Singapore: 90 Days_ (p. 668), a photograph of the surrender party identifies Newbigging as the officer who carried the Union Jack.
+[^22]: A discussion on who carried the Union Jack can be found in  _[Reflections &amp; Memories of War Vol 1: Battle of Singapore: Fall of the Impregnable Fortress](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14251298)_ (p. 293), and [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918) (p. 91). In Cyril Wild’s biography, James Bradley states that Thomas Kennedy Newbigging carried the Union Jack when contact was first made, while Kenneth Sanderson Torrance carried the Union Jack at the surrender meeting with Yamashita. In _The Fall of Singapore: 90 Days_ (p. 668), a photograph of the surrender party identifies Newbigging as the officer who carried the Union Jack.
 
 [^23]: Peter Thompson, _[The Battle of Singapore: The True Story of the Greatest Catastrophe of World War II](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200184105)_ (London: Piatkus, 2006), 487. (From National Library, Singapore, call no. 940.5425)
 
