@@ -262,9 +262,9 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^43]: “Recommendation for Award for Lucas, Hubert Francis, Rank: Temporary Brigadier,” WO 373/87/222, The National Archives, accessed 8 March 2024, https://discovery.nationalarchives.gov.uk/details/r/D7391394.
 
-[^44]: Bradley, _Cyril Wild_, 40.&nbsp;
+[^44]: Bradley, [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 40.
 
-[^45]: Phan Ming Yen, “British Could Not Have Held On,” _Straits Times_, 15 February 1992, 20. (From NewspaperSG)&nbsp;
+[^45]: Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).” _Straits Times_, 15 February 1992, 20. (From NewspaperSG)&nbsp;
 
 [^46]: Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).”
 
