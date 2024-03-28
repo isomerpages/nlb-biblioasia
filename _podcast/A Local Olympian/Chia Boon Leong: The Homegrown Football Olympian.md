@@ -7,8 +7,8 @@ third_nav_title: A Local Olympian
 ---
 <p>Nicknamed “Twinkle Toes” for his agility, Chia Boon Leong (1925–2022)
 is widely regarded as one of Singapore‘s most talented football players.
-Academic and author Nick Aplin talks about the footballer’s sporting achievements,
-his character and their friendship.</p>
+Academic and sports historian Nick Aplin talks about the footballer’s sporting
+achievements, his character and their friendship.</p>
 <h4><br><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/episode/2y8wl7lKlIl5p2T51PVPML" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/singapore-bands-in-wartime-vietnam/id1688142751?i=1000648327193" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts </u>
@@ -30,7 +30,7 @@ went
 <br>22:40 – How chess and sport are similar
 <br>26:05 – What sport and history are to Nick</p>
 <h4><strong>About the Guest</strong></h4>
-<p>Dr Nick Aplin is the Deputy Director (Sport Heritage) at Sport Singapore.
+<p>Dr Nick Aplin is Deputy Director (Sport Heritage) at Sport Singapore.
 He is the author of the <em>Sport in Singapore</em> series:<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042" rel="noopener noreferrer nofollow" target="_blank">The Colonial Legacy</a> </em>(2019),
 <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206068467" rel="noopener noreferrer nofollow" target="_blank">The Rocky Road to Kallang Park</a>(2023) and <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300007221" rel="noopener noreferrer nofollow" target="_blank">Visions for Change</a> </em>(2023).</p>
 <p></p>
