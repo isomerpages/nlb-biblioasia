@@ -192,13 +192,13 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^8]: Arthur Ernest Percival, _The War in Malaya_ (London: Eyre and Spottiswoode, 1949), 33. (From National Library, Singapore, call no. RSING 940.53595 PER)
 
-[^9]: “Malayan General Dies, 68,” _Straits Times_, 14 January 1954, 8. (From NewspapersSG)&nbsp;
+[^9]: “ [Malayan General Dies, 68](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540114-1.2.177),” _Straits Times_, 14 January 1954, 8. (From NewspapersSG)&nbsp;
 
-[^10]: “Minutes of Meeting by Arthur Earnest Percival As Copied from the Original by Tan Teng Teng, Founder Curator of the Battlebox,” in _Private Papers of Lieutenant General A E Percival_, Imperial War Museums, https://www.iwm.org.uk/collections/item/object/1030003865, and also from Romen Bose, _Secrets of the Battlebox_ (Singapore: Marshall Cavendish, 2011), 112. (From National Library, Singapore, call no. RSING 940.5425 BOS-\[WAR\])
+[^10]: “Minutes of Meeting by Arthur Earnest Percival As Copied from the Original by Tan Teng Teng, Founder Curator of the Battlebox,” in _Private Papers of Lieutenant General A E Percival_, Imperial War Museums, https://www.iwm.org.uk/collections/item/object/1030003865, and also from Romen Bose,  _[Secrets of the Battlebox](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13699415) (Singapore: Marshall Cavendish, 2011), 112. (From National Library, Singapore, call no. RSING 940.5425 BOS-\[WAR\])
 
-[^11]: Bose, _Secrets of the Battlebox_, 112.
+[^11]: Bose, _[Secrets of the Battlebox](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13699415)_, 112.
 
-[^12]: James Bradley, _Cyril Wild: The Tall Man Who Never Slept (Nemuranu Se No Takai Otoko)_ (West Sussex: Woodfield, 1997), 40. (From National Library, Singapore, call no. R 940.547252092 BRA-\[WAR\])
+[^12]: James Bradley, _[Cyril Wild: The Tall Man Who Never Slept (Nemuranu Se No Takai Otoko)](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918)_ (West Sussex: Woodfield, 1997), 40. (From National Library, Singapore, call no. R 940.547252092 BRA-\[WAR\])
 
 [^13]: Cyril Hew Dalrymple Wild was promoted to full Colonel in 1946. See Bradley, [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 122.
 
