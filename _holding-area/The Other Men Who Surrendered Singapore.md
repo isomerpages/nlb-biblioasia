@@ -53,7 +53,8 @@ The rest, according to Percival, “either remained silent or expressed their co
 While the spotlight has typically fallen on Percival, Heath, Bennett and Simmons as the most senior officers in the room, the remaining eight men were also part of the decision-making process. They were Major Cyril Hew Dalrymple Wild,[^13] Brigadier Thomas Kennedy Newbigging, Brigadier-General Kenneth Sanderson Torrance, Brigadier Alec Warren Greenlaw Wildey, Director-General Ivan Simson, Inspector-General Arthur Harold Dickinson, Brigadier Eric Whitlock Goodman and Brigadier Hubert Francis Lucas.
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_7.png)
-<div style="background-color:white;">A diorama of the meeting of the 12 commanders at the Battlebox on 15 February 1942. <i>Photo by Phan Ming Yen.</i></div>
+<div style="background-color:white;">A diorama of the meeting of the 12 commanders at the Battlebox on 15 February 1942. <i>Courtesy of Global Cultural Alliance.
+</i></div>
 
 Their reported silence and concurrence can perhaps be understood – within present-day management discourse – as “acquiescent silence”. This is the silence of individuals who “accept the prevailing circumstances and who are not inclined to speak, participate or spend effort to change current status”, or they are of the opinion that “it is pointless and unnecessary to express” their viewpoint. They think “that remaining silent could protect their relationships and allow them to perform their job better”.[^14] Nonetheless, an overview of who these men were can perhaps serve as a starting point for further research into broadening the existing narratives of the surrender.
 
