@@ -901,4 +901,15 @@ sections:
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
       image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
+  - infopic:
+      title: "Chia Boon Leong: The Homegrown Football Olympian"
+      subtitle: PODCAST
+      id: infopic
+      description: Nicknamed “Twinkle Toes” for his agility, Chia Boon Leong
+        (1925–2022) is widely regarded as one of Singapore‘s most talented
+        football players.
+      button: Listen to the episode
+      url: /podcast/chia-boon-leong-homegrown-football-olympian/
+      image: /images/Podcast/isomer_Nick.jpg
+      alt: Image alt text
 ---
