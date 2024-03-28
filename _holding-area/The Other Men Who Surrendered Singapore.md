@@ -224,9 +224,9 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^24]: Thompson, _The Battle of Singapore_, 536.
 
-[^25]: Corfield and Corfield, _The Fall of Singapore_, 668.
+[^25]: Corfield and Corfield, _[The Fall of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288)_, 668.
 
-[^26]: Corfield and Corfield, _The Fall of Singapore_, 667.&nbsp;
+[^26]: Corfield and Corfield, _[The Fall of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288)_, 667.&nbsp;
 
 [^27]: Ed Butts, “Guelph’s Military Contribution Goes Beyond Lt.-Col. John McCrae,” _Guelph Today_, 20 May 2023, https://www.guelphtoday.com/then-and-now/guelphs-military-contributions-go-beyond-lt-col-john-mccrae-7007689. As of 2012, some historians have commented on the uncertainty of his date of death, noting that several sources stated it as 1948 although in 1957 Torrance was recorded as having travelled from the Bahamas to Liverpool on the _Empress of Britain_. See Corfield and Corfield, _[The Fall of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288)_, 667.
 
