@@ -13,12 +13,12 @@ By Phan Ming Yen
 Decades after the surrender of Allied forces to the Japanese on 15 February 1942, much of the blame for the fall of Singapore remains associated with Lieutenant-General Arthur E. Percival, General Officer Commanding Malaya. As military historian Clifford Kinvig noted, Percival was not merely associated with the defeat but “he seemed to some commentators to bear a large responsibility for it”.[^1]
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/Image1.png) 
-<div style="background-color:white;">Lieutenant-General Arthur Ernest Percival (extreme right) and his party on their way to the Ford Factory in Bukit Timah to surrender Singapore to the Japanese on 15 February 1942. <i>© IWM HU 2781.</i></div>
+<div style="background-color:white;">Lieutenant-General Arthur Ernest Percival (extreme right) and his party on their way to the Ford Factory in Bukit Timah to surrender Singapore to the Japanese on 15 February 1942. © <i>IWM HU 2781.</i></div>
 
 While Percival, as the commander in charge of Malaya, was ultimately responsible for making the decision, that decision to surrender was not made alone. On that fateful day, the surrender was decided by Percival in consultation with 11 other men.
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/Image2.png)
-<div style="background-color:white;">Lieutenant-General Arthur Ernest Percival arriving in Singapore to take up his appointment as General Officer Commanding Malaya, 1941. <i>© IWM K 652.</i></div>
+<div style="background-color:white;">Lieutenant-General Arthur Ernest Percival arriving in Singapore to take up his appointment as General Officer Commanding Malaya, 1941. © <i>IWM K 652.</i></div>
 
 On the morning of the 15th, Percival had called for a meeting in the Battlebox, the underground bunker at Fort Canning, which had served as his headquarters in the last days of the Malayan Campaign. The aim of the meeting was to update the key commanders of the dire situation facing Singapore and to decide on the next course of action.
 
@@ -36,7 +36,7 @@ Bennett (1887–1962) was Commander of the 8th Division of the Australian Imperi
 Simmons (1888–1952) was Commander of the Singapore Fortress and responsible for the defence of Singapore, the adjoining islands and the eastern area of Johor. He was the subject of a biography, _The Story of Major General F.K. Simmons, CEB, MVO, MC, a Man Among Men_, by Percival. In Percival’s eyes, Simmons had a “particularly tactful and courteous manner which was an undoubted asset in his dealings with the civilians of Singapore. He worked unceasingly for the welfare of the troops in that city”.[^8]
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_4.png)
-<div style="background-color:white;">Major-General Frank Keith Simmons was Commander of the Singapore Fortress, and responsible for the defence of Singapore, the adjoining islands and the eastern area of Johor. <i>Courtesy of Paul Godley. Image reproduced from generals.dk</i></div>
+<div style="background-color:white;">Major-General Frank Keith Simmons was Commander of the Singapore Fortress, and responsible for the defence of Singapore, the adjoining islands and the eastern area of Johor. <i>Courtesy of Paul Godley. Image reproduced from generals.dk.</i></div>
 
 Heath (1885–1954) commanded the III Indian Corps from 1941 to 1942 as part of the Malaya Command and had been entrusted with defending northern Malaya. Before his arrival in Malaya, he had gained success as the General Officer Commanding the 5th Indian Infantry Division in the East African Campaign where he planned and executed an assault on the Italian Army at the Battle of Keren in Eritrea in March 1941. In Heath’s obituary, the _Straits Times_ noted that he had been a “soldier whose tactics have been praised by his superiors” and he had served with “distinction in many frontier incidents”.[^9]
 
@@ -133,7 +133,7 @@ Goodman was senior gunnery advisor to Percival and served as Commander Royal Art
 Goodman’s account of the meeting in his diary is factual in tone, stating that he attended a conference “in which it was decided that it was useless to continue the fight as water and ammunition were failing and food too was running short due to losses by capture. I think too that conditions in the native part of the city were a great anxiety – the numbers of unburied dead lying about”.[^40]
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_10.png)
-<div style="background-color:white;">Indian labourers clearing debris in Singapore after a Japanese air raid, 1942. <i>© IWM HU 57224.</i></div>
+<div style="background-color:white;">Indian labourers clearing debris in Singapore after a Japanese air raid, 1942. © <i>IWM HU 57224.</i></div>
 
 Goodman died on 8 December 1981. In an obituary by Major Frederick James Howard Nelson, Goodman’s Brigade Major in the 9th Indian Division, Nelson remembered Goodman as one who whenever “things looked hopeless he was sure to appear in person and by his apparent unconcern for danger restored the confidence of all ranks”.[^41]
 
@@ -178,37 +178,37 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^1]: Clifford Kinvig, “General Percival and the Fall of Singapore,” in [_Sixty Years On: The Fall of Singapore Revisited_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11730807), ed. Brian Farrell and Sandy Hunter (Singapore: Eastern Universities Press, 2002), 240. (From National Library, Singapore, call no. RSING 940.5425 SIX-\[WAR\])
 
-[^2]: Stephanie Ho, “Battle of Singapore,” in Singapore _Infopedia_. National Library Board Singapore. Article published 19 July 2013.
+[^2]: Stephanie Ho, “[Battle of Singapore](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1afe9a7e-f0bd-4b11-9fe3-bb3aab31c3e8),” in Singapore _Infopedia_. National Library Board Singapore. Article published 19 July 2013.
 
-[^3]: Stanley Tan Tik Loong, _Reflections &amp; Memories of War Vol 1: Battle of Singapore: Fall of the Impregnable Fortress_ (Singapore: National Archives of Singapore, 2011), 287. (From National Library, Singapore, call no. RSING 940.5425957 TAN)
+[^3]: Stanley Tan Tik Loong, _[Reflections &amp; Memories of War Vol 1: Battle of Singapore: Fall of the Impregnable Fortress](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14251298)_ (Singapore: National Archives of Singapore, 2011), 287. (From National Library, Singapore, call no. RSING 940.5425957 TAN)
 
-[^4]: “Lieutenant General Arthur Percival’s Dispatch on Operations, 8 December 1941 to 15 February 1942,” in _Disaster in the Far East 1940–1942: The Defence of Malaya, Japanese Capture of Hong Kong and the Fall of Singapore_, comp. John Grehan and Martin Mace&nbsp; (Barnsley, Yorkshire: Pen &amp; Sword Military, 2015), 310. (From National Library, Singapore, call no. RSING 940.5425 DIS-\[WAR\])
+[^4]: “Lieutenant General Arthur Percival’s Dispatch on Operations, 8 December 1941 to 15 February 1942,” in _[Disaster in the Far East 1940–1942: The Defence of Malaya, Japanese Capture of Hong Kong and the Fall of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202454765)_, comp. John Grehan and Martin Mace&nbsp; (Barnsley, Yorkshire: Pen &amp; Sword Military, 2015), 310. (From National Library, Singapore, call no. RSING 940.5425 DIS-\[WAR\])
 
-[^5]: “Prince of Wales and H.M.S. Repulse Sunk off Malaya,” _Malaya Tribune_, 11 December 1941, 3. (From NewspaperSG)
+[^5]: “[Prince of Wales and H.M.S. Repulse Sunk of Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19411211-1.2.55),” _Malaya Tribune_, 11 December 1941, 3. (From NewspaperSG)
 
-[^6]: Henry Gordon Bennett, _Why Singapore Fell_ (London: Angus and Robertson Ltd, 1944). (From National Library, Singapore, call no. RCLOS 940.5425 BEN)&nbsp;
+[^6]: Henry Gordon Bennett, _[Why Singapore Fell](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12283885)_ (London: Angus and Robertson Ltd, 1944). (From National Library, Singapore, call no. RCLOS 940.5425 BEN)&nbsp;
 
 [^7]: “Lieutenant General Henry Gordon Bennett,” Australian War Memorial, accessed 8 March 2024, https://www.awm.gov.au/collection/P11032385.
 
-[^8]: Arthur Ernest Percival, _The War in Malaya_ (London: Eyre and Spottiswoode, 1949), 33. (From National Library, Singapore, call no. RSING 940.53595 PER)
+[^8]: Arthur Ernest Percival, _[The War in Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202825692)_ (London: Eyre and Spottiswoode, 1949), 33. (From National Library, Singapore, call no. RSING 940.53595 PER)
 
-[^9]: “Malayan General Dies, 68,” _Straits Times_, 14 January 1954, 8. (From NewspapersSG)&nbsp;
+[^9]: “ [Malayan General Dies, 68](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540114-1.2.177),” _Straits Times_, 14 January 1954, 8. (From NewspapersSG)&nbsp;
 
-[^10]: “Minutes of Meeting by Arthur Earnest Percival As Copied from the Original by Tan Teng Teng, Founder Curator of the Battlebox,” in _Private Papers of Lieutenant General A E Percival_, Imperial War Museums, https://www.iwm.org.uk/collections/item/object/1030003865, and also from Romen Bose, _Secrets of the Battlebox_ (Singapore: Marshall Cavendish, 2011), 112. (From National Library, Singapore, call no. RSING 940.5425 BOS-\[WAR\])
+[^10]: “Minutes of Meeting by Arthur Earnest Percival As Copied from the Original by Tan Teng Teng, Founder Curator of the Battlebox,” in _Private Papers of Lieutenant General A E Percival_, Imperial War Museums, https://www.iwm.org.uk/collections/item/object/1030003865, and also from Romen Bose,  _[Secrets of the Battlebox](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13699415) (Singapore: Marshall Cavendish, 2011), 112. (From National Library, Singapore, call no. RSING 940.5425 BOS-\[WAR\])
 
-[^11]: Bose, _Secrets of the Battlebox_, 112.
+[^11]: Bose, _[Secrets of the Battlebox](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13699415)_, 112.
 
-[^12]: James Bradley, _Cyril Wild: The Tall Man Who Never Slept (Nemuranu Se No Takai Otoko)_ (West Sussex: Woodfield, 1997), 40. (From National Library, Singapore, call no. R 940.547252092 BRA-\[WAR\])
+[^12]: James Bradley, _[Cyril Wild: The Tall Man Who Never Slept (Nemuranu Se No Takai Otoko)](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918)_ (West Sussex: Woodfield, 1997), 40. (From National Library, Singapore, call no. R 940.547252092 BRA-\[WAR\])
 
-[^13]: Cyril Hew Dalrymple Wild was promoted to full Colonel in 1946. See Bradley, _Cyril Wild_, 122.
+[^13]: Cyril Hew Dalrymple Wild was promoted to full Colonel in 1946. See Bradley, [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 122.
 
 [^14]: Mehtap Sarikaya and Sabahat Bayrak Kök, “Could Participative Decision Making Be Solution for Oganizational Silence Problem,” _European Scientific Journal_ (August 2016 Special Edition): 15, https://eujournal.org/index.php/esj/issue/view/243.
 
-[^15]: Justin Corfield and Robin Corfield, _The Fall of Singapore: 90 Days: November 1941– February 1942_ (Singapore: Talisman, 2012), 668. (From National Library, Singapore, call no. RSING 940.5425957 COR-\[WAR\])
+[^15]: Justin Corfield and Robin Corfield, _[The Fall of Singapore: 90 Days: November 1941– February 1942](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288)_ (Singapore: Talisman, 2012), 668. (From National Library, Singapore, call no. RSING 940.5425957 COR-\[WAR\])
 
-[^16]: Bradley, _Cyril Wild_, 122.
+[^16]: Bradley, [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 122.
 
-[^17]: Imperial War Museum, “Colonel Cyril Hew Dalrymple Wild, the Third Son of Herbert Wild, Bishop of Newcastle,” 1942–46, Private Records. (From National Archives of Singapore, accession no. IWM 66/227/1)
+[^17]: Imperial War Museum, “[Colonel Cyril Hew Dalrymple Wild, the Third Son of Herbert Wild, Bishop of Newcastle](https://www.nas.gov.sg/archivesonline/private_records/record-details/f1b910ac-115b-11e3-83d5-0050568939ad),” 1942–46, Private Records. (From National Archives of Singapore, accession no. IWM 66/227/1)
 
 [^18]: Julian Ryall, “Cover Up at Kai Tak? Allies ‘Caused Hong Kong Plane Crash That Killed 19 To Assassinate British Investigator’,” _South China Morning Post_, 9 August 2014, https://www.scmp.com/magazines/post-magazine/article/1569054/blame-resistant.&nbsp;
 
@@ -216,39 +216,39 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^20]: Patricia Lim, _Forgotten Souls: A Social History of the Hong Kong Cemetery_ (Hong Kong: Hong Kong University Press, 2011), 539, https://hkupress.hku.hk/index.php?route=product/product&amp;product\_id=923. &nbsp;
 
-[^21]: Bradley, _Cyril Wild_, 5–6.
+[^21]: Bradley,  [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 5–6.
 
-[^22]: A discussion on who carried the Union Jack can be found in _Reflections &amp; Memories of War Vol 1: Battle of Singapore: Fall of the Impregnable Fortress_ (p. 293), and _Cyril Wild_ (p. 91). In Cyril Wild’s biography, James Bradley states that Thomas Kennedy Newbigging carried the Union Jack when contact was first made, while Kenneth Sanderson Torrance carried the Union Jack at the surrender meeting with Yamashita. In _The Fall of Singapore: 90 Days_ (p. 668), a photograph of the surrender party identifies Newbigging as the officer who carried the Union Jack.
+[^22]: A discussion on who carried the Union Jack can be found in  _[Reflections &amp; Memories of War Vol 1: Battle of Singapore: Fall of the Impregnable Fortress](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14251298)_ (p. 293), and [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918) (p. 91). In Cyril Wild’s biography, James Bradley states that Thomas Kennedy Newbigging carried the Union Jack when contact was first made, while Kenneth Sanderson Torrance carried the Union Jack at the surrender meeting with Yamashita. In _[The Fall of Singapore: 90 Days](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288)_ (p. 668), a photograph of the surrender party identifies Newbigging as the officer who carried the Union Jack.
 
-[^23]: Peter Thompson, _The Battle of Singapore: The True Story of the Greatest Catastrophe of World War II_ (London: Piatkus, 2006), 487. (From National Library, Singapore, call no. 940.5425)
+[^23]: Peter Thompson, _[The Battle of Singapore: The True Story of the Greatest Catastrophe of World War II](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200184105)_ (London: Piatkus, 2006), 487. (From National Library, Singapore, call no. 940.5425)
 
-[^24]: Thompson, _The Battle of Singapore_, 536.
+[^24]: Thompson, _[The Battle of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200184105)_, 536.
 
-[^25]: Corfield and Corfield, _The Fall of Singapore_, 668.
+[^25]: Corfield and Corfield, _[The Fall of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288)_, 668.
 
-[^26]: Corfield and Corfield, _The Fall of Singapore_, 667.&nbsp;
+[^26]: Corfield and Corfield, _[The Fall of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288)_, 667.&nbsp;
 
-[^27]: Ed Butts, “Guelph’s Military Contribution Goes Beyond Lt.-Col. John McCrae,” _Guelph Today_, 20 May 2023, https://www.guelphtoday.com/then-and-now/guelphs-military-contributions-go-beyond-lt-col-john-mccrae-7007689. As of 2012, some historians have commented on the uncertainty of his date of death, noting that several sources stated it as 1948 although in 1957 Torrance was recorded as having travelled from the Bahamas to Liverpool on the _Empress of Britain_. See Corfield and Corfield, _The Fall of Singapore_, 667.
+[^27]: Ed Butts, “Guelph’s Military Contribution Goes Beyond Lt.-Col. John McCrae,” _Guelph Today_, 20 May 2023, https://www.guelphtoday.com/then-and-now/guelphs-military-contributions-go-beyond-lt-col-john-mccrae-7007689. As of 2012, some historians have commented on the uncertainty of his date of death, noting that several sources stated it as 1948 although in 1957 Torrance was recorded as having travelled from the Bahamas to Liverpool on the _Empress of Britain_. See Corfield and Corfield, _[The Fall of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288)_, 667.
 
-[^28]: Butts, “Guelph’s Military Contribution Goes Beyond Lt.-Col. John McCrae.” John McCrae was a poet and solider who wrote the famous World War I poem, “In Flanders Fields”.&nbsp;
+[^28]: Butts, “Guelph’s Military Contribution Goes Beyond Lt.-Col. John McCrae.” John McCrae was a poet and solider who wrote the famous World War I poem, “In Flanders Fields”.
 
 [^29]: “British Army Officers 1939–1945,” World War II Unit Histories &amp; Officers, accessed 11 March 2024, https://www.unithistories.com/officers/Army\_officers\_W01a.html.
 
-[^30]: “Colonel Charged with Causing Death: Sequel to Keppel Road Accident,” _Straits Budget_, 23 December 1937, 8. (From NewspapersSG)&nbsp;
+[^30]: “[Colonel Charged with Causing Death: Sequel to Keppel Road Accident](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19371223-1.2.22),” _Straits Budget_, 23 December 1937, 8. (From NewspapersSG)&nbsp;
 
-[^31]: “Colonel Wildey Acquitted,” _Malaya Tribune_, 18 February 1938, 8; “Counsel Blames Bad Keppel Road Lighting,” _Straits Budget_, 3 March 1938, 10. (From NewspaperSG)
+[^31]: “[Colonel Wildey Acquitted](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19380218-1.2.85),” _Malaya Tribune_, 18 February 1938, 8; “[Counsel Blames Bad Keppel Road Lighting](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19380303-1.2.33),”   _Straits Budget_, 3 March 1938, 10. (From NewspaperSG)
 
 [^32]: “Recommendation for Award for Wildey, Alec Warren Greenlaw, Rank: Colonel,” WO 373/87/225, The National Archives, accessed 8 March 2024, https://discovery.nationalarchives.gov.uk/details/r/D7391397.
 
 [^33]: “Simson, Ivan,” Generals.dk, accessed 11 March 2024, https://generals.dk/general/Simson/Ivan/Great\_Britain.html.
 
-[^34]: Malcolm H. Murfett, _Between Two Oceans: A Military History of Singapore from First Settlement to Final British Withdrawal_ (Oxford: Oxford University Press, 1999), 186. (From National Library, Singapore, call no. RSING 355.0095957 BET)
+[^34]: Malcolm H. Murfett, _[Between Two Oceans: A Military History of Singapore from First Settlement to Final British Withdrawal](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9310557)_ (Oxford: Oxford University Press, 1999), 186. (From National Library, Singapore, call no. RSING 355.0095957 BET)
 
-[^35]: Ivan Simson, _Singapore: Too Little, Too Late: Some Aspects of the Malayan Disaster in 1942_ (London: Leo Cooper, 1970). (From National Library, Singapore, call no. RSING 940.5425 SIM-\[WAR\])
+[^35]: Ivan Simson, _[Singapore: Too Little, Too Late: Some Aspects of the Malayan Disaster in 1942](https://eservice.nlb.gov.sg/redir/itemdetails?bid=357673)_ (London: Leo Cooper, 1970). (From National Library, Singapore, call no. RSING 940.5425 SIM-\[WAR\])
 
-[^36]: Leon Comber, _Malaya’s Secret Police: The Role of the Special Branch in the Malayan Emergency_ (Singapore: Institute of Southeast Asian Studies, 2008), 47. (From National Library Singapore, call no. RSING 363.283095951 COM)
+[^36]: Leon Comber, _[Malaya’s Secret Police: The Role of the Special Branch in the Malayan Emergency](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13055676)_ (Singapore: Institute of Southeast Asian Studies, 2008), 47. (From National Library Singapore, call no. RSING 363.283095951 COM)
 
-[^37]: “New Inspector-General, Police Appointed,” _Singapore Free Press and Mercantile Advertiser_, 5 August 1939, 7. (From NewspaperSG); Comber, _Malaya’s Secret Police_, 26.
+[^37]: “[New Inspector-General, Police Appointed](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390805-1.2.68),” _Singapore Free Press and Mercantile Advertiser_, 5 August 1939, 7. (From NewspaperSG); Comber,  _[Malaya’s Secret Police](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13055676)_, 26.
 
 [^38]: Johanna Whitaker, “Singapore – Where East Meets West,” Visions of Johanna, 28 November 2013, https://visionsofjohanna.org/singapore-where-east-meets-west/.
 
@@ -262,15 +262,15 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^43]: “Recommendation for Award for Lucas, Hubert Francis, Rank: Temporary Brigadier,” WO 373/87/222, The National Archives, accessed 8 March 2024, https://discovery.nationalarchives.gov.uk/details/r/D7391394.
 
-[^44]: Bradley, _Cyril Wild_, 40.&nbsp;
+[^44]: Bradley, [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 40.
 
-[^45]: Phan Ming Yen, “British Could Not Have Held On,” _Straits Times_, 15 February 1992, 20. (From NewspaperSG)&nbsp;
+[^45]: Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).” _Straits Times_, 15 February 1992, 20. (From NewspaperSG)&nbsp;
 
-[^46]: Phan, “British Could Not Have Held On.”
+[^46]: Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).”
 
-[^47]: Phan, “British Could Not Have Held On.”
+[^47]: Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).”
 
-[^48]: Phan, “British Could Not Have Held On.”
+[^48]:  Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).”
 
 [^49]: See Brian P. Farrell, “The Other Side of the Hill: Western Interpretations of the Japanese Experience in the Malayan Campaign and Conquest of Singapore 1941–42,” _NIDS Military History Studies Annual_, no. 19 (March 2016): 80–96, https://dl.ndl.go.jp/pid/11442214/1/1.
 
