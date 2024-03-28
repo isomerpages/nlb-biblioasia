@@ -7,7 +7,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/">Konfrontasi: Singapore’s Experience of an Undeclared War</a>
 Opposing the formation of the Federation of Malaysia, Indonesia waged a three-year armed conflict against Malaysia and Singapore.
 
-<img src="/images/Vol%2019%20Issue%204/3%20Konfrontasi/konfrontasi_topic.png" style="width:80%;">
+<img src="/images/Vol%2019%20Issue%204/3%20Konfrontasi/konfrontasi_topic.png" style="width:80%; height:80%">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor">Collection Focus: A Comic Book Version of Operation Jaywick</a>
@@ -65,7 +65,7 @@ This year marks the 80th anniversary of the Fall of Singapore. Featured in this 
 
 Singapore marked the 80th anniversary of its fall to the Japanese in 2022. This essay features items from the Chinese community relating to the occupation years. They belong to the collection of the National Library of Singapore.
 
-<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Foo%20Chin%20Hua.png">
+<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Foo%20Chin%20Hua.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/communist-party-malaya-singapore/">Red Terror: The Forgotten Story of CPM Violence and Subversion in Newly Independent Singapore</a>
@@ -89,8 +89,7 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 <img src="/images/Vol-16-issue-1/history/History-title2.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/viet-war-through-sg/">The Vietnam War Through Singaporean Eyes
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/viet-war-through-sg/">The Vietnam War Through Singaporean Eyes</a>
 
 Four journalists from Singapore covered the Vietnam War for the international news media. Only one survived.&nbsp;**Shirlene Noordin**&nbsp;has the story.
 
@@ -102,6 +101,20 @@ Four journalists from Singapore covered the Vietnam War for the international ne
 In 1915, sepoys in Singapore revolted against their British officers in a bloody rebellion.&nbsp;**Umej Bhatia**&nbsp;recreates the final moments of the mutineers as they pay the ultimate price for their actions.
 
 <img src="/images/Vol-15-issue-4/trial-by-firing-squad/Trial1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/civilians-in-crsfire/">Civilians in the Crossfire: The Malayan Emergency Crossfire</a>
+
+**Ronnie Tan**&nbsp;recounts the hardship suffered by civilians as a result of the British government’s fight against the communists during the Malayan Emergency.
+
+<img src="/images/Vol-15-issue-3/civilians-in-the-crossfire/Civilians1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/flee-to-uncertainty/">Fleeing to Uncertainty: My Father’s Story</a>
+
+Barely 13 years old then, K. Ramakanthan and his family escaped with their lives from Perak to Johor during the Japanese Occupation.&nbsp;**Aishwariyaa Ramakanthan**&nbsp;recounts her father’s harrowing journey.
+
+<img src="/images/Vol-15-issue-3/fleeing-to-uncertainty/fleeing_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/violence-writings/">Don’t Mention the Corpses: The Erasure of Violence in Colonial Writings on Southeast Asia</a>

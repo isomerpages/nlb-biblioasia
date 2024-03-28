@@ -93,6 +93,22 @@ The very first census here was conducted in 1824. **Ang Seow Leng** reveals how 
 <img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount1.JPG" style="width:80%;">													
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/preservation-buildings/">To Wreck or to Recreate: Giving New Life to Singapore’s Built Heritage
+</a>
+
+Nearly 70 years have passed since a committee was set up to look into the preservation of buildings and sites with historical value.&nbsp;**Lim Tin Seng**&nbsp;charts the journey.
+
+<img src="/images/Vol-15-issue-2/to-wreck-or-to-recreate/Wreck1.JPG" style="width:80%;">													
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/archives-declassification/">“I Hasten to Beg Your Indulgence…”: When Declassifying Can Also Mean Decoding
+</a>
+
+When the National Archives embarked on the declassification initiative to unlock documents previously labelled as “secret” and “confidential” for public access, it also had to decipher what was actually written, says&nbsp;**K.U. Menon**.
+
+<img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding1.JPG" style="width:80%;">													
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/lookingbackforward/">Looking Back, Looking Forward</a>
 
 <b>Shashi Jayakumar</b>&nbsp;examines the role of the National Archives as the official custodian of government records and the people’s collective memory.

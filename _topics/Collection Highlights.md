@@ -25,6 +25,13 @@ Singapore’s National Library is hard at work collecting new forms of documenta
 <img src="/images/Vol%2020%20Issue%201/Contemporary/Contemporary_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/singapore-before1867/">On Paper: Singapore Before 1867</a>
+
+Paintings by John Turnbull Thomson, poems in Jawi script, an early 19th-century map of Asia and a Russian traveller’s tale of Singapore are some of the paper artefacts featured in the National Library’s latest exhibition, “On Paper: Singapore Before 1867”.
+  
+<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper1.JPG" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/making-history/">Making History</a>
 
 A treaty that sealed Singapore’s fate, a contract for the sale of child brides, and a drawing of an iconic theatre are among the items showcased in a new book,&nbsp;_50 Records from History_, published by the National Archives of Singapore.

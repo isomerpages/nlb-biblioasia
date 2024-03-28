@@ -151,6 +151,19 @@ This cafe once loomed large in Singapore’s dining and social scene. *Vandana A
 <img src="/images/Vol-16-issue-1/keong-saik-road/keong-saik-title.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/give-me-shelter-stry/">Give Me Shelter: The Five-footway Story</a>
+
+The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore.&nbsp;**Fiona Lim**&nbsp;relives its colourful history.
+
+<img src="/images/Vol-15-issue-3/give-me-shelter/Shelter1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/oriental-emporium/">Oriental Emporium: The End of an Era</a>
+The Emporium chain of department stores entered the scene when the retail market in Singapore was still in its infancy. **Kam Kit Geok** takes a closer look at a much-loved shopping icon.
+
+<img src="/images/Vol-15-issue-2/oriental-emporium/Emporium1.JPG" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/shipyards-keppel-sembawang">The Story of Two Shipyards: Keppel &amp; Sembawang</a>
 Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry.&nbsp;Wee Beng Geok&nbsp;traces the colonial origins of these two companies.
 

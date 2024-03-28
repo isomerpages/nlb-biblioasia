@@ -67,6 +67,13 @@ In the first of two essays on the history of printing in mainland Southeast Asia
 <img src="/images/Vol-15-issue-4/early-printing-in-indochina/IndoChina5.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/singapore-before1867/">On Paper: Singapore Before 1867</a>
+
+Paintings by John Turnbull Thomson, poems in Jawi script, an early 19th-century map of Asia and a Russian traveller’s tale of Singapore are some of the paper artefacts featured in the National Library’s latest exhibition, “On Paper: Singapore Before 1867”.
+  
+<img src="/images/Vol-15-issue-3/on-paper-singapore-before-1867/OnPaper1.JPG" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/writers-manuscripts/">On Writers and Their Manuscripts</a>
 
 No great work of literature is completed in just one draft. In an age where writers have gone paperless, novelist&nbsp;<b>Meira Chand</b>&nbsp;ponders over the value of manuscripts, and what they might reveal about a writer’s thought process.
