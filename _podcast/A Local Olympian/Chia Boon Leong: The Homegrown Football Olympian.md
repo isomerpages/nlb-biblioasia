@@ -40,7 +40,7 @@ He is the author of the <em>Sport in Singapore</em> series:<em> <a href="https:/
 <h4><strong>Resources</strong></h4>
 <p>Nick Aplin, “<a href="https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/" rel="noopener noreferrer nofollow" target="_blank">Chia Boon Leong: The Twinkle-Toed Olympian</a>,” <em>BiblioAsia </em>19,
 no. 4 (Jan–Mar 2024).</p>
-<p>Nick Aplin, <em><a href="Sport%20in%20Singapore:%20The%20Colonial%20Legacy" rel="noopener noreferrer nofollow" target="_blank">Sport in Singapore: The Colonial Legacy</a></em> (Singapore:
+<p>Nick Aplin, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042" rel="noopener noreferrer nofollow" target="_blank">Sport in Singapore: The Colonial Legacy</a></em> (Singapore:
 Sport Singapore, 2019).</p>
 <p>Nick Aplin, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206068467" rel="noopener noreferrer nofollow" target="_blank">Sport in Singapore: The Rocky Road to Kallang Park</a></em> (Singapore:
 Sport Singapore, 2023).</p>
