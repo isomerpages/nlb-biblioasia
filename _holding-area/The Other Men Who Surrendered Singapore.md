@@ -133,7 +133,7 @@ Goodman was senior gunnery advisor to Percival and served as Commander Royal Art
 Goodman’s account of the meeting in his diary is factual in tone, stating that he attended a conference “in which it was decided that it was useless to continue the fight as water and ammunition were failing and food too was running short due to losses by capture. I think too that conditions in the native part of the city were a great anxiety – the numbers of unburied dead lying about”.[^40]
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_10.png)
-<div style="background-color:white;">Indian labourers clearing debris in Singapore after a Japanese air raid, 1942. <i>© IWM HU 57224.</i></div>
+<div style="background-color:white;">Indian labourers clearing debris in Singapore after a Japanese air raid, 1942. © <i>IWM HU 57224.</i></div>
 
 Goodman died on 8 December 1981. In an obituary by Major Frederick James Howard Nelson, Goodman’s Brigade Major in the 9th Indian Division, Nelson remembered Goodman as one who whenever “things looked hopeless he was sure to appear in person and by his apparent unconcern for danger restored the confidence of all ranks”.[^41]
 
