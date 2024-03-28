@@ -206,7 +206,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^15]: Justin Corfield and Robin Corfield, _The Fall of Singapore: 90 Days: November 1941– February 1942_ (Singapore: Talisman, 2012), 668. (From National Library, Singapore, call no. RSING 940.5425957 COR-\[WAR\])
 
-[^16]: Bradley, _Cyril Wild_, 122.
+[^16]: Bradley,  [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 122.
 
 [^17]: Imperial War Museum, “Colonel Cyril Hew Dalrymple Wild, the Third Son of Herbert Wild, Bishop of Newcastle,” 1942–46, Private Records. (From National Archives of Singapore, accession no. IWM 66/227/1)
 
