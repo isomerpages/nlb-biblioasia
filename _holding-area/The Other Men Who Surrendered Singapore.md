@@ -222,7 +222,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^23]: Peter Thompson, _The Battle of Singapore: The True Story of the Greatest Catastrophe of World War II_ (London: Piatkus, 2006), 487. (From National Library, Singapore, call no. 940.5425)
 
-[^24]: Thompson, _The Battle of Singapore_, 536.
+[^24]: Thompson, _[The Battle of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200184105)_, 536.
 
 [^25]: Corfield and Corfield, _[The Fall of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288)_, 668.
 
