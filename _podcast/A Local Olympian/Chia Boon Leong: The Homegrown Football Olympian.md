@@ -8,13 +8,16 @@ third_nav_title: A Local Olympian
 <p>Nicknamed “Twinkle Toes” for his agility, Chia Boon Leong (1925–2022)
 is widely regarded as one of Singapore‘s most talented football players.
 Academic and sports historian Nick Aplin talks about the footballer’s sporting
-achievements, his character and their friendship.</p>
+achievements, his character and their friendship.
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MtfD9Z-_fas?si=IhjDwVQ9kEdPynuE"></iframe>
+</div>
 <h4><br><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/episode/2y8wl7lKlIl5p2T51PVPML" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/singapore-bands-in-wartime-vietnam/id1688142751?i=1000648327193" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts </u>
-</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8/episode/OGNiNGFhYTQtMmJhYi00NWE5LTljYTUtZjhiN2VlYzNkNmNk?sa=X&amp;ved=0CAUQkfYCahcKEwiwq5uH5-GEAxUAAAAAHQAAAAAQAQ" rel="noopener noreferrer nofollow" target="_blank"><u>Google Podcasts</u></a>,
-<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Singapore-Bands-in-Wartime-Vietnam-2323896" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u>
-</a>
+</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Singapore-Bands-in-Wartime-Vietnam-2323896" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u></a>
 </p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
