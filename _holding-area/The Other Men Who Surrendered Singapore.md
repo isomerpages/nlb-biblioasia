@@ -180,7 +180,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^2]: Stephanie Ho, “Battle of Singapore,” in Singapore _Infopedia_. National Library Board Singapore. Article published 19 July 2013.
 
-[^3]: Stanley Tan Tik Loong, _Reflections &amp; Memories of War Vol 1: Battle of Singapore: Fall of the Impregnable Fortress_ (Singapore: National Archives of Singapore, 2011), 287. (From National Library, Singapore, call no. RSING 940.5425957 TAN)
+[^3]: Stanley Tan Tik Loong, _[Reflections &amp; Memories of War Vol 1: Battle of Singapore: Fall of the Impregnable Fortress](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14251298)_ (Singapore: National Archives of Singapore, 2011), 287. (From National Library, Singapore, call no. RSING 940.5425957 TAN)
 
 [^4]: “Lieutenant General Arthur Percival’s Dispatch on Operations, 8 December 1941 to 15 February 1942,” in _[Disaster in the Far East 1940–1942: The Defence of Malaya, Japanese Capture of Hong Kong and the Fall of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202454765)_, comp. John Grehan and Martin Mace&nbsp; (Barnsley, Yorkshire: Pen &amp; Sword Military, 2015), 310. (From National Library, Singapore, call no. RSING 940.5425 DIS-\[WAR\])
 
