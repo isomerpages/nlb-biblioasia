@@ -234,7 +234,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^29]: “British Army Officers 1939–1945,” World War II Unit Histories &amp; Officers, accessed 11 March 2024, https://www.unithistories.com/officers/Army\_officers\_W01a.html.
 
-[^30]: “Colonel Charged with Causing Death: Sequel to Keppel Road Accident,” _Straits Budget_, 23 December 1937, 8. (From NewspapersSG)&nbsp;
+[^30]: “[Colonel Charged with Causing Death: Sequel to Keppel Road Accident](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19371223-1.2.22),” _Straits Budget_, 23 December 1937, 8. (From NewspapersSG)&nbsp;
 
 [^31]: “[Colonel Wildey Acquitted](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19380218-1.2.85),” _Malaya Tribune_, 18 February 1938, 8; “[Counsel Blames Bad Keppel Road Lighting](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19380303-1.2.33),”   _Straits Budget_, 3 March 1938, 10. (From NewspaperSG)
 
