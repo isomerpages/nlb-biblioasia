@@ -242,9 +242,9 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^33]: “Simson, Ivan,” Generals.dk, accessed 11 March 2024, https://generals.dk/general/Simson/Ivan/Great\_Britain.html.
 
-[^34]: Malcolm H. Murfett, _Between Two Oceans: A Military History of Singapore from First Settlement to Final British Withdrawal_ (Oxford: Oxford University Press, 1999), 186. (From National Library, Singapore, call no. RSING 355.0095957 BET)
+[^34]: Malcolm H. Murfett, _[Between Two Oceans: A Military History of Singapore from First Settlement to Final British Withdrawal](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9310557)_ (Oxford: Oxford University Press, 1999), 186. (From National Library, Singapore, call no. RSING 355.0095957 BET)
 
-[^35]: Ivan Simson, _[Singapore: Too Little, Too Late: Some Aspects of the Malayan Disaster in 1942](https://eservice.nlb.gov.sg/redir/itemdetails?bid=357673)_(London: Leo Cooper, 1970). (From National Library, Singapore, call no. RSING 940.5425 SIM-\[WAR\])
+[^35]: Ivan Simson, _[Singapore: Too Little, Too Late: Some Aspects of the Malayan Disaster in 1942](https://eservice.nlb.gov.sg/redir/itemdetails?bid=357673)_ (London: Leo Cooper, 1970). (From National Library, Singapore, call no. RSING 940.5425 SIM-\[WAR\])
 
 [^36]: Leon Comber, _[Malaya’s Secret Police: The Role of the Special Branch in the Malayan Emergency](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13055676)_ (Singapore: Institute of Southeast Asian Studies, 2008), 47. (From National Library Singapore, call no. RSING 363.283095951 COM)
 
