@@ -266,11 +266,11 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^45]: Phan Ming Yen, “British Could Not Have Held On,” _Straits Times_, 15 February 1992, 20. (From NewspaperSG)&nbsp;
 
-[^46]: Phan, “British Could Not Have Held On.”
+[^46]: Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).”
 
-[^47]: Phan, “British Could Not Have Held On.”
+[^47]: Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).”
 
-[^48]: Phan, “British Could Not Have Held On.”
+[^48]:  Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).”
 
 [^49]: See Brian P. Farrell, “The Other Side of the Hill: Western Interpretations of the Japanese Experience in the Malayan Campaign and Conquest of Singapore 1941–42,” _NIDS Military History Studies Annual_, no. 19 (March 2016): 80–96, https://dl.ndl.go.jp/pid/11442214/1/1.
 
