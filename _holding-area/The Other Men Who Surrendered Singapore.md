@@ -204,7 +204,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^14]: Mehtap Sarikaya and Sabahat Bayrak Kök, “Could Participative Decision Making Be Solution for Oganizational Silence Problem,” _European Scientific Journal_ (August 2016 Special Edition): 15, https://eujournal.org/index.php/esj/issue/view/243.
 
-[^15]: Justin Corfield and Robin Corfield, _[The Fall of Singapore: 90 Days: November 1941– February 1942](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288) (Singapore: Talisman, 2012), 668. (From National Library, Singapore, call no. RSING 940.5425957 COR-\[WAR\])
+[^15]: Justin Corfield and Robin Corfield, [_The Fall of Singapore: 90 Days: November 1941– February 1942_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288) (Singapore: Talisman, 2012), 668. (From National Library, Singapore, call no. RSING 940.5425957 COR-\[WAR\])
 
 [^16]: Bradley, [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 122.
 
