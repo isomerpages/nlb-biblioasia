@@ -388,10 +388,10 @@ sportsman.</p>
 <p><strong>Nick</strong> 
 <br>He was a hockey player.
 <br>
-<br><strong>Jimmy</strong>
+<br><strong>Jimmy</strong> 
 <br>Ah, okay.
 <br>
-<br><strong>Nick</strong>
+<br><strong>Nick</strong> 
 <br>So yes, but I think he was probably also a cricketer. Maybe other sports
 – it’s quite common for people of that generation to be multi-talented.
 It’s not so easy. Yeah. So, he was a hockey player.
