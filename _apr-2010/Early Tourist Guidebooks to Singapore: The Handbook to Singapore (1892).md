@@ -170,7 +170,7 @@ G.M. Reith, [_A Padre in Partibus: Being Notes and Impressions of a Brief Holida
 
 G.M. Reith, [_Handbook to Singapore With Map_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13202689) (Singapore: Fraser &amp; Neave, 1907). (Call no. RRARE 959.5703 REI; microfilm NL24341, NL30196)
 
-G.M. Reith, [_Handbook to Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082247) (Singapore: Oxford University Press, 1985). (Call no. RSING 959.57 REI)
+G.M. Reith, [_Handbook to Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082247) (Singapore: Oxford University Press, 1985). (Call no. RSING 959.57 REI)
 
 H.T.S., “[Padre’s Guide to Singapore Was the First Ever](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601001-1.2.61.1),” _Straits Times_, 1 October 1960, 6. (From NewspaperSG)
 
