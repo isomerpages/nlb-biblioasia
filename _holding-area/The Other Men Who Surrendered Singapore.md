@@ -264,7 +264,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^44]: Bradley, [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 40.
 
-[^45]: Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).” _Straits Times_, 15 February 1992, 20. (From NewspaperSG)&nbsp;
+[^45]: Phan Ming Yen,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16),” _Straits Times_, 15 February 1992, 20. (From NewspaperSG)
 
 [^46]: Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).”
 
