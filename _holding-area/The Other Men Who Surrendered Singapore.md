@@ -184,7 +184,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^4]: “Lieutenant General Arthur Percival’s Dispatch on Operations, 8 December 1941 to 15 February 1942,” in _[Disaster in the Far East 1940–1942: The Defence of Malaya, Japanese Capture of Hong Kong and the Fall of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202454765)_, comp. John Grehan and Martin Mace&nbsp; (Barnsley, Yorkshire: Pen &amp; Sword Military, 2015), 310. (From National Library, Singapore, call no. RSING 940.5425 DIS-\[WAR\])
 
-[^5]: “[Prince of Wales and H.M.S. Repulse Sunk of Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19411211-1.2.55),” _Malaya Tribune_, 11 December 1941, 3. (From NewspaperSG)
+[^5]: “[Prince of Wales and H.M.S. Repulse Sunk off Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19411211-1.2.55),” _Malaya Tribune_, 11 December 1941, 3. (From NewspaperSG)
 
 [^6]: Henry Gordon Bennett, _[Why Singapore Fell](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12283885)_ (London: Angus and Robertson Ltd, 1944). (From National Library, Singapore, call no. RCLOS 940.5425 BEN)&nbsp;
 
