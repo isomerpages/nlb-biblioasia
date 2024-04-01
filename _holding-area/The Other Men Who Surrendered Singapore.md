@@ -177,7 +177,7 @@ The actual surrender took place on the premises of the Ford Factory in Bukit Tim
 <img src="/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_14.png">
 Facade of the old Ford Factory on Upper Bukit Timah Road. <i>Courtesy of National Archives of Singapore.</i>
 	<br><br>
-Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit https://corporate.nas.gov.sg/former-ford-factory/overview/)<br></div>
+Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit <a> https://corporate.nas.gov.sg/former-ford-factory/overview/)</a><br></div>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yen.png">
