@@ -265,7 +265,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^40]: “Brigadier E.W. Goodman: Singapore,” Britain at War, accessed 8 March 2024, https://www.britain-at-war.org.uk/WW2/Brigadier\_EW\_Goodman/html/singapore.htm.
 
-[^41]: “Brigadier E.W. Goodman: Obituary,” Britain at War. accessed 8 March 2024, https://www.britain-at-war.org.uk/WW2/Brigadier\_EW\_Goodman/html/orbituary.htm.
+[^41]: “Brigadier E.W. Goodman: Obituary,” Britain at War, accessed 8 March 2024, https://www.britain-at-war.org.uk/WW2/Brigadier\_EW\_Goodman/html/orbituary.htm.
 
 [^42]: “Brigadier Hubert Francis Lucas,” The Peerage, accessed 11 March 2024, https://www.thepeerage.com/p35016.htm.
 
