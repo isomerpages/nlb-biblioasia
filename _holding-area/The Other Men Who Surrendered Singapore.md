@@ -88,6 +88,8 @@ Newbigging has generally been identified as the officer who carried the Union Ja
 
 Newbigging was the Deputy Adjutant-General, Malaya Command, from 1941 to 1942 and had received the Military Cross for his actions during World War I. He had first gone with Wild and Hugh Fraser, colonial secretary of the Straits Settlements, to deliver a letter from Percival to Yamashita following the morning meeting. They met with Colonel Ichiji Sugita (who would serve as Yamashita’s interpreter later that afternoon), who handed a letter to Newbigging requesting that Percival personally meet with Yamashita.[^23]
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_12.png)
+
 A week after the surrender meeting, and while incarcerated at Changi Prison, Newbigging was said to have spoken to Sugita after British internees realised a massacre of the Chinese population was taking place. He is reported to have said: “I ask that you should not shoot any more Chinese and that you should not ask our men to assist you by burying them.”[^24]
 
 Newbigging was later interned in Formosa (present-day Taiwan) and then Manchuria. He retired in 1946.[^25]
