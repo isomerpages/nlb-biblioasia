@@ -210,7 +210,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^17]: Imperial War Museum, “[Colonel Cyril Hew Dalrymple Wild, the Third Son of Herbert Wild, Bishop of Newcastle](https://www.nas.gov.sg/archivesonline/private_records/record-details/f1b910ac-115b-11e3-83d5-0050568939ad),” 1942–46, Private Records. (From National Archives of Singapore, accession no. IWM 66/227/1)
 
-[^18]: Julian Ryall, “Cover Up at Kai Tak? Allies ‘Caused Hong Kong Plane Crash That Killed 19 To Assassinate British Investigator’,” _South China Morning Post_, 9 August 2014, https://www.scmp.com/magazines/post-magazine/article/1569054/blame-resistant.&nbsp;
+[^18]: Julian Ryall, “Cover Up at Kai Tak? Allies ‘Caused Hong Kong Plane Crash That Killed 19 To Assassinate British Investigator’,” _South China Morning Post_, 9 August 2014, https://www.scmp.com/magazines/post-magazine/article/1569054/blame-resistant.
 
 [^19]: Ryall, “Cover Up at Kai Tak?”&nbsp;
 
