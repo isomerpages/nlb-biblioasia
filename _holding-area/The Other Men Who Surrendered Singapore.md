@@ -203,7 +203,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^9]: “ [Malayan General Dies, 68](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540114-1.2.177),” _Straits Times_, 14 January 1954, 8. (From NewspapersSG)&nbsp;
 
-[^10]: “Minutes of Meeting by Arthur Earnest Percival As Copied from the Original by Tan Teng Teng, Founder Curator of the Battlebox,” in _Private Papers of Lieutenant General A E Percival_, Imperial War Museums, https://www.iwm.org.uk/collections/item/object/1030003865, and also from Romen Bose,  _Secrets of the Battlebox_ (https://eservice.nlb.gov.sg/redir/itemdetails?bid=13699415) (Singapore: Marshall Cavendish, 2011), 112. (From National Library, Singapore, call no. RSING 940.5425 BOS-\[WAR\])
+[^10]: “Minutes of Meeting by Arthur Earnest Percival As Copied from the Original by Tan Teng Teng, Founder Curator of the Battlebox,” in _Private Papers of Lieutenant General A E Percival_, Imperial War Museums, https://www.iwm.org.uk/collections/item/object/1030003865, and also from Romen Bose,   _[Secrets of the Battlebox](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13699415)_ (Singapore: Marshall Cavendish, 2011), 112. (From National Library, Singapore, call no. RSING 940.5425 BOS-\[WAR\])
 
 [^11]: Bose, _[Secrets of the Battlebox](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13699415)_, 112.
 
