@@ -141,7 +141,7 @@ G.M Reith, <i>The Breezy Pentlands</i> (Edinburgh: T. and N Foulis, 1910)<br><br
 
 G. M. Reith, <i>Reminiscences of the United Free Church General Assembly (1900–1929)</i> (London: The Moray Press, 1933)<br><br>
 
-Wen, C. \[pseud\] and G. M. Reith, ed. <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12782537">The Chinese Crisis from Within</a></i>
+Lim Boon Keng, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12782537">The Chinese Crisis from Within</a></i>
 (London: Grant Richards, 1901). (Call no. RRARE 951.04 LIM; microfilm no. NL24331)</div>
 
 <br>
