@@ -166,7 +166,7 @@ C.M. Turnbull, â€œReviewed Work(s): 1907 Handbook to Singapore by G. M. Reith,â€
 
 G.M. Reith, [_Handbook to Singapore: With Map and a Plan of the Botanic Gardens_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2cf2ccde-1931-4e93-b265-a46254084820) (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)
 
-G.M. Reith, [_A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407220) (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)
+G.M. Reith, [_A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407220) (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)
 
 G.M. Reith, [_Handbook to Singapore With Map_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13202689) (Singapore: Fraser &amp; Neave, 1907). (Call no. RRARE 959.5703 REI; microfilm NL24341, NL30196)
 
