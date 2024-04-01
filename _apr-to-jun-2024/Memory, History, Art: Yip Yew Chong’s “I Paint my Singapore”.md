@@ -28,7 +28,7 @@ Yip’s latest work captures Singapore as it was in the 1970s and 1980s. The wor
 <div style="background-color: white;">Looking inside Housing and Development Board flats. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
 
 
-Well-known places and landmarks like the former Van Kleef Aquarium and Little India feature in this painting. But Yip also painted more quotidian scenes – of everyday life in housing estates and outlying areas of Singapore. These have probably had greater resonance with Singaporeans.
+Well-known places and landmarks like the former National Theatre and Little India feature in this painting. But Yip also painted more quotidian scenes – of everyday life in housing estates and outlying areas of Singapore. These have probably had greater resonance with Singaporeans.
 
 ![](/images/Vol%2020%20Issue%201/Yip%20Yew%20Chong/VanKleefAquarium.jpg)
 <div style="background-color: white;">The Van Kleef Aquarium used to be along River Valley Road, at the foot of Fort Canning Hill. It closed in 1996 and the building was demolished in 1998. Detail from “I Paint my Singapore”. <i>Photo by Jimmy Yap. </i></div>
