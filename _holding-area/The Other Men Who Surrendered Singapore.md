@@ -24,6 +24,9 @@ On the morning of the 15th, Percival had called for a meeting in the Battlebox, 
 
 The war in Malaya had begun with troops of the Japanese 25th Army landing in Kota Bahru in northern Malaya, and Singora and Patani in southern Thailand on 8 December 1941. On the same day, Japanese planes dropped the first bombs on Singapore, killing 61 and injuring 133 people. Two months later, on 8 February 1942, the first Japanese troops landed in Singapore via the northwestern coastline of the island.[^2]
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_9.png)
+<div style="background-color:white;">Japanese troops crossing the Causeway into Singapore after constructing a girder bridge over the 70-foot (21 m) gap, 1942. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
 Now, after a week of intense fighting and bombardment, the battle front had been reduced to a semi-circle about three miles from Singapore’s city centre.[^3] The island had less than 24 hours’ worth of water left, and food and ammunition reserves were running desperately low.[^4] Naval power had been lost with the sinking of the HMS _Prince of Wales_ and HMS _Repulse_ off the coast of Kuantan on 10 December 1941, while Royal Air Force (RAF) planes had been outclassed by Japanese aircraft.[^5] On 9 February 1942, all RAF aircraft were withdrawn to the former Netherlands East Indies.
 
 Among the other 11 men huddled together in the same room as Percival, three were senior officers who, according to Percival’s minutes of the meeting, had asserted their views when opinion was sought for the next course of action. They were Lieutenant-General Henry Gordon Bennett, Major-General Frank Keith Simmons and Lieutenant-General Lewis Macclesfield Heath.
@@ -72,9 +75,6 @@ Wild died in 1946 and conspiracy theories surround his death to this day, largel
 In September that year, Wild had testified before the International Military Tribunal for the Far East in Tokyo on the initial Japanese landings in Kota Bahru and subsequent atrocities by the Japanese army. Wild, however, died in a plane crash on 25 September 1946 in Hong Kong, en route to Singapore from Tokyo.[^17] 
 
 In 2014, the Hong Kong broadsheet, _South China Morning Post_, revisited the incident in an article headlined “Cover Up at Kai Tak? ‘Allies Caused Hong Kong Plane Crash That Killed 19 to Assassinate British Investigator’”. The article cited war veteran Arthur Lane who said that at the time of the accident, Wild had been “building a solid case that could have seen the Japanese emperor held accountable for some of the worst atrocities carried out by his troops in the early decades of the last century”. It also made the sensational claim that Wild had been “killed to preserve the imperial lineage in Japan and halt the spread of communism across Asia”.[^18]
-
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_9.png)
-<div style="background-color:white;">Japanese troops crossing the Causeway into Singapore after constructing a girder bridge over the 70-foot (21 m) gap, 1942. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 Lane alleged that “a few days before his death, Colonel Wild had made it known to the American authorities that he had enough evidence to be able to convict Hirohito \[the emperor of Japan\] of war crimes, including bacteriological warfare experiments” and Wild “was then ordered to cancel any further work in this direction and to hand over all the documentation he had so far accumulated”.[^19]
 
