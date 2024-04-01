@@ -5,6 +5,7 @@ description: The opening of the Suez Canal in 1869 along with advances in
   steamships, saw a boom in travellers visiting the East. Senior Librarian Bonny
   Tan explores travel guides for visitors seeking a leisurely but safe journey
   to the mystical but demystified Far East.
+variant: markdown
 ---
 #### The opening of the Suez Canal in 1869 along with advances in steamships, saw a boom in travellers visiting the East. Senior Librarian *Bonny Tan* explores travel guides for visitors seeking a leisurely but safe journey to the mystical but demystified Far East.
 
@@ -98,7 +99,7 @@ And then as if to explain both why such offence is likely to be made by one espe
 
 Both Kratoska and Turnbull agree that the handbook is a child of its time – “a competent guide to a colonial city and a colonial way of life” (Reith, 1985, p. x) as well as offering “a justifiable pride in showing off the settlement to visitors” (Turnbull, 1988, p. 302). It was after all written from a British perspective for the Western tourist and we must read it with a Scotsman’s sense of humour!
 
-The guidebook can be read online at the Singapore Pages at <a href="BookSG">BookSG</a>. The 1907 reprint by Walter Makepeace as well as the Oxford Press 1985 reprint are also available at the National Library. Photographic plates for this article were derived from the Souvenir of Singapore, 1914 which is also available at the Singapore Pages at  <a href="BookSG">BookSG</a>
+The guidebook can be read online at the Singapore Pages at <a href="https://www.nlb.gov.sg/main/nlonline">BookSG</a>. The 1907 reprint by Walter Makepeace as well as the Oxford Press 1985 reprint are also available at the National Library. Photographic plates for this article were derived from the Souvenir of Singapore, 1914 which is also available at the Singapore Pages at  <a href="https://www.nlb.gov.sg/main/nlonline">BookSG</a>
 
 
 #### **About George Murray Reith (1863, Aberdeen, Scotland–27 February 1948, Edinburgh)**
@@ -132,15 +133,15 @@ Upon his return to Scotland, he was appointed minister to St Cuthbert’s United
     
 G.M. Reith, <i><a>A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam</a></i> (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)<br><br>
 
-G.M. Reith, <i><a>Handbook to Singapore: With Map and a Plan of the Botanic Gardens</a></i> (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)<br><br>
+G.M. Reith, <i><a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=2cf2ccde-1931-4e93-b265-a46254084820">Handbook to Singapore: With Map and a Plan of the Botanic Gardens</a></i> (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)<br><br>
 	  
-G.M. Reith,  “The Opium Problem in the Straits Settlements,”<a><i>Transactions of the Straits Philosophical Society</i></a> 1 (12 August 1893), 94. (Microfilm NL5718)<br><br>
+G.M. Reith,  “The Opium Problem in the Straits Settlements,”<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5047111"><i>Transactions of the Straits Philosophical Society</i></a> 1 (12 August 1893), 94. (Microfilm NL5718)<br><br>
 
 G.M Reith, <i>The Breezy Pentlands</i> (Edinburgh: T. and N Foulis, 1910)<br><br>
 
 G. M. Reith, <i>Reminiscences of the United Free Church General Assembly (1900–1929)</i> (London: The Moray Press, 1933)<br><br>
 
-Wen, C. \[pseud\] and G. M. Reith, ed. <i><a>The Chinese Crisis from Within</a></i>
+Wen, C. \[pseud\] and G. M. Reith, ed. <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12782537">The Chinese Crisis from Within</a></i>
 (London: Grant Richards, 1901). (Call no. RRARE 951.04 LIM; microfilm no. NL24331)</div>
 
 <br>
