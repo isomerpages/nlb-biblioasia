@@ -131,7 +131,7 @@ Upon his return to Scotland, he was appointed minister to St Cuthbert’s United
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>LIST OF  PUBLICATIONS</b><br><br>
     
-G.M. Reith, <i><a>A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam</a></i> (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)<br><br>
+G.M. Reith, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407220">A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam</a></i> (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)<br><br>
 
 G.M. Reith, <i><a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=2cf2ccde-1931-4e93-b265-a46254084820">Handbook to Singapore: With Map and a Plan of the Botanic Gardens</a></i> (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)<br><br>
 	  
