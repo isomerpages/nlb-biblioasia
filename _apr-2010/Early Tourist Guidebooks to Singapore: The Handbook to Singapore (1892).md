@@ -152,7 +152,7 @@ Lim Boon Keng, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=127
 
 
 #### **REFERENCES**
-Charles Burton Buckley, _An Anecdotal History of Old Times in Singapore: (With Portraits and Illustrations) From the Foundation of the Settlement … on February 6th, 1819 to the Transfer to the Colonial Office … on April 1st, 1867_, vols. [1](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx) and [2](https://eresources.nlb.gov.sg/printheritage/detail/e895d2b3-00f6-40b0-9db7-4177648c2771.aspx) (Singapore: Fraser &amp; Neave, 1902). (From BookSG; call no. RRARE 959.57 BUC; microfilm NL269)
+Charles Burton Buckley, _An Anecdotal History of Old Times in Singapore: (With Portraits and Illustrations) From the Foundation of the Settlement … on February 6th, 1819 to the Transfer to the Colonial Office … on April 1st, 1867_, vols. [1](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717) and [2](https://eresources.nlb.gov.sg/printheritage/detail/e895d2b3-00f6-40b0-9db7-4177648c2771.aspx) (Singapore: Fraser &amp; Neave, 1902). (From BookSG; call no. RRARE 959.57 BUC; microfilm NL269)
 
 B.E. D’Aranjo, [_Stranger’s Guide to Singapore With Maps_](https://eresources.nlb.gov.sg/printheritage/detail/d70f531e-aa4b-4129-95ac-7bbacc8f43e2.aspx) (Singapore: Singapore Press, 1890). (From BookSG; call no. RRARE 959.57 DAR; microfilm NL2550)
 
