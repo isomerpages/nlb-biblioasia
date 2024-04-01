@@ -165,7 +165,7 @@ The reasons for the British defeat have generally ranged from flaws in the overa
 Whatever decision taken on 15 February 1942 may not have made a difference to the final outcome. However, it is a decision that should not been viewed as the burden of just one man to bear. The room for dialogue and conversation on its narrative still remains open.
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-<b>Battlebox and Former Ford Factory</b><br><br>
+<b>BATTLEBOX AND FORMER FORD FACTORY</b><br><br>
 The meeting on 15 February 1942 when Lieutenant-General Arthur E. Percival, General Officer Commanding Malaya, made the decision to surrender with 11 other commanders took place at the Battlebox – an underground bunker at Fort Canning. Admission to the Battlebox is free. (For more details, see https://battlebox.sg/)<br><br>
 The actual surrender took place on the premises of the Ford Factory in Bukit Timah, which had been turned into the temporary headquarters of Lieutenant-General Tomoyuki Yamashita, Commander of the Japanese 25th Army. On the afternoon of 15 February, Percival met Yamashita at the factory to discuss surrender terms. Yamashita demanded an immediate, unconditional surrender and threatened to launch a devastating attack on the city that night. Percival signed the surrender document at 7.50 pm.<br><br>
 Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit https://corporate.nas.gov.sg/former-ford-factory/overview/)<br></div>
