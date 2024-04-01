@@ -24,6 +24,9 @@ On the morning of the 15th, Percival had called for a meeting in the Battlebox, 
 
 The war in Malaya had begun with troops of the Japanese 25th Army landing in Kota Bahru in northern Malaya, and Singora and Patani in southern Thailand on 8 December 1941. On the same day, Japanese planes dropped the first bombs on Singapore, killing 61 and injuring 133 people. Two months later, on 8 February 1942, the first Japanese troops landed in Singapore via the northwestern coastline of the island.[^2]
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_9.png)
+<div style="background-color:white;">Japanese troops crossing the Causeway into Singapore after constructing a girder bridge over the 70-foot (21 m) gap, 1942. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
 Now, after a week of intense fighting and bombardment, the battle front had been reduced to a semi-circle about three miles from Singapore’s city centre.[^3] The island had less than 24 hours’ worth of water left, and food and ammunition reserves were running desperately low.[^4] Naval power had been lost with the sinking of the HMS _Prince of Wales_ and HMS _Repulse_ off the coast of Kuantan on 10 December 1941, while Royal Air Force (RAF) planes had been outclassed by Japanese aircraft.[^5] On 9 February 1942, all RAF aircraft were withdrawn to the former Netherlands East Indies.
 
 Among the other 11 men huddled together in the same room as Percival, three were senior officers who, according to Percival’s minutes of the meeting, had asserted their views when opinion was sought for the next course of action. They were Lieutenant-General Henry Gordon Bennett, Major-General Frank Keith Simmons and Lieutenant-General Lewis Macclesfield Heath.
@@ -72,9 +75,6 @@ Wild died in 1946 and conspiracy theories surround his death to this day, largel
 In September that year, Wild had testified before the International Military Tribunal for the Far East in Tokyo on the initial Japanese landings in Kota Bahru and subsequent atrocities by the Japanese army. Wild, however, died in a plane crash on 25 September 1946 in Hong Kong, en route to Singapore from Tokyo.[^17] 
 
 In 2014, the Hong Kong broadsheet, _South China Morning Post_, revisited the incident in an article headlined “Cover Up at Kai Tak? ‘Allies Caused Hong Kong Plane Crash That Killed 19 to Assassinate British Investigator’”. The article cited war veteran Arthur Lane who said that at the time of the accident, Wild had been “building a solid case that could have seen the Japanese emperor held accountable for some of the worst atrocities carried out by his troops in the early decades of the last century”. It also made the sensational claim that Wild had been “killed to preserve the imperial lineage in Japan and halt the spread of communism across Asia”.[^18]
-
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_9.png)
-<div style="background-color:white;">Japanese troops crossing the Causeway into Singapore after constructing a girder bridge over the 70-foot (21 m) gap, 1942. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 Lane alleged that “a few days before his death, Colonel Wild had made it known to the American authorities that he had enough evidence to be able to convict Hirohito \[the emperor of Japan\] of war crimes, including bacteriological warfare experiments” and Wild “was then ordered to cancel any further work in this direction and to hand over all the documentation he had so far accumulated”.[^19]
 
@@ -165,7 +165,7 @@ The reasons for the British defeat have generally ranged from flaws in the overa
 Whatever decision taken on 15 February 1942 may not have made a difference to the final outcome. However, it is a decision that should not been viewed as the burden of just one man to bear. The room for dialogue and conversation on its narrative still remains open.
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-<b>Battlebox and Former Ford Factory</b><br><br>
+<b>BATTLEBOX AND FORMER FORD FACTORY</b><br><br>
 The meeting on 15 February 1942 when Lieutenant-General Arthur E. Percival, General Officer Commanding Malaya, made the decision to surrender with 11 other commanders took place at the Battlebox – an underground bunker at Fort Canning. Admission to the Battlebox is free. (For more details, see https://battlebox.sg/)<br><br>
 The actual surrender took place on the premises of the Ford Factory in Bukit Timah, which had been turned into the temporary headquarters of Lieutenant-General Tomoyuki Yamashita, Commander of the Japanese 25th Army. On the afternoon of 15 February, Percival met Yamashita at the factory to discuss surrender terms. Yamashita demanded an immediate, unconditional surrender and threatened to launch a devastating attack on the city that night. Percival signed the surrender document at 7.50 pm.<br><br>
 Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit https://corporate.nas.gov.sg/former-ford-factory/overview/)<br></div>
@@ -184,7 +184,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^4]: “Lieutenant General Arthur Percival’s Dispatch on Operations, 8 December 1941 to 15 February 1942,” in _[Disaster in the Far East 1940–1942: The Defence of Malaya, Japanese Capture of Hong Kong and the Fall of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202454765)_, comp. John Grehan and Martin Mace&nbsp; (Barnsley, Yorkshire: Pen &amp; Sword Military, 2015), 310. (From National Library, Singapore, call no. RSING 940.5425 DIS-\[WAR\])
 
-[^5]: “[Prince of Wales and H.M.S. Repulse Sunk of Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19411211-1.2.55),” _Malaya Tribune_, 11 December 1941, 3. (From NewspaperSG)
+[^5]: “[Prince of Wales and H.M.S. Repulse Sunk off Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19411211-1.2.55),” _Malaya Tribune_, 11 December 1941, 3. (From NewspaperSG)
 
 [^6]: Henry Gordon Bennett, _[Why Singapore Fell](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12283885)_ (London: Angus and Robertson Ltd, 1944). (From National Library, Singapore, call no. RCLOS 940.5425 BEN)&nbsp;
 
@@ -210,11 +210,11 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^17]: Imperial War Museum, “[Colonel Cyril Hew Dalrymple Wild, the Third Son of Herbert Wild, Bishop of Newcastle](https://www.nas.gov.sg/archivesonline/private_records/record-details/f1b910ac-115b-11e3-83d5-0050568939ad),” 1942–46, Private Records. (From National Archives of Singapore, accession no. IWM 66/227/1)
 
-[^18]: Julian Ryall, “Cover Up at Kai Tak? Allies ‘Caused Hong Kong Plane Crash That Killed 19 To Assassinate British Investigator’,” _South China Morning Post_, 9 August 2014, https://www.scmp.com/magazines/post-magazine/article/1569054/blame-resistant.&nbsp;
+[^18]: Julian Ryall, “Cover Up at Kai Tak? Allies ‘Caused Hong Kong Plane Crash That Killed 19 To Assassinate British Investigator’,” _South China Morning Post_, 9 August 2014, https://www.scmp.com/magazines/post-magazine/article/1569054/blame-resistant.
 
 [^19]: Ryall, “Cover Up at Kai Tak?”&nbsp;
 
-[^20]: Patricia Lim, _Forgotten Souls: A Social History of the Hong Kong Cemetery_ (Hong Kong: Hong Kong University Press, 2011), 539, https://hkupress.hku.hk/index.php?route=product/product&amp;product\_id=923. &nbsp;
+[^20]: Patricia Lim, _Forgotten Souls: A Social History of the Hong Kong Cemetery_ (Hong Kong: Hong Kong University Press, 2011), 539, https://hkupress.hku.hk/index.php?route=product/product&amp;product\_id=923.
 
 [^21]: Bradley,  [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 5–6.
 
@@ -264,7 +264,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^44]: Bradley, [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 40.
 
-[^45]: Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).” _Straits Times_, 15 February 1992, 20. (From NewspaperSG)&nbsp;
+[^45]: Phan Ming Yen,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16),” _Straits Times_, 15 February 1992, 20. (From NewspaperSG)
 
 [^46]: Phan,  “[British Could Not Have Held On](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920215-1.2.27.16).”
 
