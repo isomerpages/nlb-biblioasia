@@ -119,14 +119,14 @@ he was born in Singapore.
 <br>This just makes it even more interesting. So where to start really… Football
 in those days, just postwar, was influenced by politics because the Chinese
 were going to have a revolution. And so, he knew that Singapore itself
-did not have an Olympic committee. In order to play in the World Cup, your
-nation has to be affiliated to the IOC.</p>
+did not have an Olympic committee. In order to play, your nation has to
+be affiliated to the IOC [International Olympic Committee].</p>
 <p></p>
 <p>And Singapore didn’t have any such committee until the 1940s, actually
 1947, but they were unable to put together a team anyway. There weren’t
 enough good players to justify the time and the expenditure. So, for him
 the only option was China and they knew all about him in China, partly
-because of their Lian Hua tour in 1947, given how well he had performebd,
+because of their Lian Hua tour in 1947, given how well he had performed,
 partly because of how he played against some of the Chinese touring teams
 like Tsingtao.</p>
 <p></p>
@@ -386,14 +386,17 @@ his phone. He’s talking to you. I did not realise he was that much of a
 sportsman.</p>
 <p></p>
 <p><strong>Nick</strong> 
-<br>He was a hockey player. Ah, okay. And I think he was from SJI [St. Joseph's
-Institution], and they used to wear green-and-white socks, apparently,
-something like that. He told me that. So. Yes, but I think he was probably
-also a cricketer. Maybe other sports – it’s quite common for people of
-that generation to be multi-talented. It’s not so easy. Yeah. So, he was
-a hockey player.</p>
-<p></p>
-<p><strong>Jimmy</strong> 
+<br>He was a hockey player.
+<br>
+<br><strong>Jimmy</strong> 
+<br>Ah, okay.
+<br>
+<br><strong>Nick</strong> 
+<br>So yes, but I think he was probably also a cricketer. Maybe other sports
+– it’s quite common for people of that generation to be multi-talented.
+It’s not so easy. Yeah. So, he was a hockey player.
+<br>
+<br><strong>Jimmy</strong> 
 <br>Sporting prowess and achievements of sporting excellence are very inspirational.
 Right. So, you know, as I said, you know most people are not that interested
 in heritage. We tell them so-and-so had won an Olympic medal, that’s like

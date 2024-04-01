@@ -82,11 +82,17 @@ In her book about the people buried in Hong Kong Cemetery, teacher and historian
 
 James Bradley, a former prisoner-of-war whose life Wild had saved while they were both working on the infamous Thai-Burma Railway, wrote a biography of his saviour titled _Cyril Wild: The Tall Man Who Never Slept_, first published in 1991. During his internment, Wild put his Japanese language skills to good use and relentlessly interceded on behalf of his fellow prisoners-of-war. This led his Japanese captors to call him _nemuranu se no takai otoko_ (“the tall man who never slept”).[^21]
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_13.jpg)
+<div style="background-color:white;">The Thai-Burma Railway is a 415-kilometre railway stretching from Ban Pong, Thailand, to Thanbyuzayat, Burma (now Myanmar).<i></i></div>
+
 #### **Thomas Kennedy Newbigging (1891–1968)**
 
 Newbigging has generally been identified as the officer who carried the Union Jack as part of the surrender party that met the Japanese army at Ford Factory on 15 February 1942. This, however, is a matter of some dispute as one account suggests that it was Torrance who carried the Union Jack.[^22]
 
 Newbigging was the Deputy Adjutant-General, Malaya Command, from 1941 to 1942 and had received the Military Cross for his actions during World War I. He had first gone with Wild and Hugh Fraser, colonial secretary of the Straits Settlements, to deliver a letter from Percival to Yamashita following the morning meeting. They met with Colonel Ichiji Sugita (who would serve as Yamashita’s interpreter later that afternoon), who handed a letter to Newbigging requesting that Percival personally meet with Yamashita.[^23]
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_12.png)
+<div style="background-color:white;">“The Meeting of General Yamashita and General Percival” (1942), an oil painting by Saburo Miyamoto. <i>All rights reserved. Tan, S.T.L., et al. (2011). Battle for Singapore: Fall of the Impregnable Fortress (Vol. 1). Singapore: National Archives of Singapore.</i></div>
 
 A week after the surrender meeting, and while incarcerated at Changi Prison, Newbigging was said to have spoken to Sugita after British internees realised a massacre of the Chinese population was taking place. He is reported to have said: “I ask that you should not shoot any more Chinese and that you should not ask our men to assist you by burying them.”[^24]
 
@@ -168,7 +174,10 @@ Whatever decision taken on 15 February 1942 may not have made a difference to th
 <b>BATTLEBOX AND FORMER FORD FACTORY</b><br><br>
 The meeting on 15 February 1942 when Lieutenant-General Arthur E. Percival, General Officer Commanding Malaya, made the decision to surrender with 11 other commanders took place at the Battlebox – an underground bunker at Fort Canning. Admission to the Battlebox is free. (For more details, see https://battlebox.sg/)<br><br>
 The actual surrender took place on the premises of the Ford Factory in Bukit Timah, which had been turned into the temporary headquarters of Lieutenant-General Tomoyuki Yamashita, Commander of the Japanese 25th Army. On the afternoon of 15 February, Percival met Yamashita at the factory to discuss surrender terms. Yamashita demanded an immediate, unconditional surrender and threatened to launch a devastating attack on the city that night. Percival signed the surrender document at 7.50 pm.<br><br>
-Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit https://corporate.nas.gov.sg/former-ford-factory/overview/)<br></div>
+<img src="/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_14.png">
+Facade of the old Ford Factory on Upper Bukit Timah Road. <i>Courtesy of National Archives of Singapore.</i>
+	<br><br>
+Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit <a> https://corporate.nas.gov.sg/former-ford-factory/overview/)</a><br></div>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yen.png">
@@ -194,7 +203,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^9]: “ [Malayan General Dies, 68](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540114-1.2.177),” _Straits Times_, 14 January 1954, 8. (From NewspapersSG)&nbsp;
 
-[^10]: “Minutes of Meeting by Arthur Earnest Percival As Copied from the Original by Tan Teng Teng, Founder Curator of the Battlebox,” in _Private Papers of Lieutenant General A E Percival_, Imperial War Museums, https://www.iwm.org.uk/collections/item/object/1030003865, and also from Romen Bose,  _[Secrets of the Battlebox](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13699415) (Singapore: Marshall Cavendish, 2011), 112. (From National Library, Singapore, call no. RSING 940.5425 BOS-\[WAR\])
+[^10]: “Minutes of Meeting by Arthur Earnest Percival As Copied from the Original by Tan Teng Teng, Founder Curator of the Battlebox,” in _Private Papers of Lieutenant General A E Percival_, Imperial War Museums, https://www.iwm.org.uk/collections/item/object/1030003865, and also from Romen Bose, _[Secrets of the Battlebox](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13699415)_ (Singapore: Marshall Cavendish, 2011), 112. (From National Library, Singapore, call no. RSING 940.5425 BOS-\[WAR\])
 
 [^11]: Bose, _[Secrets of the Battlebox](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13699415)_, 112.
 
@@ -256,7 +265,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^40]: “Brigadier E.W. Goodman: Singapore,” Britain at War, accessed 8 March 2024, https://www.britain-at-war.org.uk/WW2/Brigadier\_EW\_Goodman/html/singapore.htm.
 
-[^41]: “Brigadier E.W. Goodman: Obituary,” accessed 8 March 2024, https://www.britain-at-war.org.uk/WW2/Brigadier\_EW\_Goodman/html/orbituary.htm.
+[^41]: “Brigadier E.W. Goodman: Obituary,” Britain at War, accessed 8 March 2024, https://www.britain-at-war.org.uk/WW2/Brigadier\_EW\_Goodman/html/orbituary.htm.
 
 [^42]: “Brigadier Hubert Francis Lucas,” The Peerage, accessed 11 March 2024, https://www.thepeerage.com/p35016.htm.
 
