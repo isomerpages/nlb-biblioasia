@@ -214,7 +214,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^19]: Ryall, “Cover Up at Kai Tak?”&nbsp;
 
-[^20]: Patricia Lim, _Forgotten Souls: A Social History of the Hong Kong Cemetery_ (Hong Kong: Hong Kong University Press, 2011), 539, https://hkupress.hku.hk/index.php?route=product/product&amp;product\_id=923. &nbsp;
+[^20]: Patricia Lim, _Forgotten Souls: A Social History of the Hong Kong Cemetery_ (Hong Kong: Hong Kong University Press, 2011), 539, https://hkupress.hku.hk/index.php?route=product/product&amp;product\_id=923.
 
 [^21]: Bradley,  [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 5–6.
 
