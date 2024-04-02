@@ -206,7 +206,7 @@ Obituary – Rev. Dr. J. Moffatt,” (1944, June 29). _The Times_, 29 June 1944,
 
 “[The Rev. Mr. Reith - Sunday Labour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18910921-1.2.37),” _Straits Times_, 21 September 1891, 2. (From NewspaperSG)
 
-[_The Traveller’s Malay Pronouncing Hand-Book: For the Use of Travelers and Newcomers to Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200637742) (Singapore: Frazer &amp; Neave, 1907). (Call no. RRARE 499.2883421 TRA)
+[_The Traveller’s Malay Pronouncing Hand-Book: For the Use of Travelers and Newcomers to Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200637742) (Singapore: Fraser &amp; Neave, 1907). (Call no. RRARE 499.2883421 TRA)
 
 ### **NOTES**
 
