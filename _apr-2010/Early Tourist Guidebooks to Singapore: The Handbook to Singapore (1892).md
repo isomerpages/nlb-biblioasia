@@ -168,8 +168,6 @@ G.M. Reith, [_Handbook to Singapore: With Map and a Plan of the Botanic Gardens_
 
 G.M. Reith, [_A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407220) (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)
 
-G.M. Reith, [_Handbook to Singapore With Map_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13202689) (Singapore: Fraser &amp; Neave, 1907). (Call no. RRARE 959.5703 REI; microfilm NL24341, NL30196)
-
 G.M. Reith, [_Handbook to Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082247) (Singapore: Oxford University Press, 1985). (Call no. RSING 959.57 REI)
 
 H.T.S., “[Padre’s Guide to Singapore Was the First Ever](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601001-1.2.61.1),” _Straits Times_, 1 October 1960, 6. (From NewspaperSG)
