@@ -184,7 +184,7 @@ Obituary – Rev. Dr. J. Moffatt,” (1944, June 29). _The Times_, 29 June 1944,
 
 “[Presbyterian Church Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18930302-1.2.30),” _Straits Times_, 2 March 1893, 3. (From NewspaperSG)
 
-“[Presbyterian Church – Celebration of 50 Years of Work](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280302-1.2.71),” Straits Times, 2 March 1928, 11. (From NewspaperSG)
+“[Presbyterian Church – Celebration of 50 Years of Work](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280302-1.2.71),” <i>Straits Times</i>, 2 March 1928, 11. (From NewspaperSG)
 
 “Single Person Record Details: NA8646 George Murray Reith,” Scottish Archive Network, https://catalogue.nrscotland.gov.uk/scancatalogue/person.aspx?code=NA8646
 
