@@ -39,14 +39,14 @@ It also lent itself to betting. In a remarkably short span of time, boxing bouts
 
 #### **Pulling No Punches**
 
-The first local hero was an unlikely one – a Straits Chinese named Tan Teng Kee. Born in 1898 to a respected family whose head was a _sinseh_ (traditional Chinese physician), Tan had attended the venerable St Joseph’s Institution – a natural stepping stone to a “respectable” white-collar profession.9 To the family’s shock though, Tan decided to don boxing gloves. His nom de guerre: Battling Key.
+The first local hero was an unlikely one – a Straits Chinese named Tan Teng Kee. Born in 1898 to a respected family whose head was a _sinseh_ (traditional Chinese physician), Tan had attended the venerable St Joseph’s Institution – a natural stepping stone to a “respectable” white-collar profession.[^9] To the family’s shock though, Tan decided to don boxing gloves. His nom de guerre: Battling Key.
 
 ![](/images/Vol%2020%20Issue%202/Boxing/Image2.png)
 <div style="background-color: white;">Battling Key, the lightweight champion. <i>Image reproduced from Malayan Saturday Post, 30 July 1927, 32. (From NewspaperSG).</i></div>
 
 The circumstances leading up to Battling Key’s decision are lost to history. What is known is that by August 1921, only a year after boxing had come to Singapore, he was facing off against a certain C. Oehlers in the final of the colony’s amateur lightweight championship at the packed Palladium Theatre (site of the Orchard Gateway today).[^10]
 
-The _Straits Times_ was on hand to record the events of that fine August evening. “About halfway through the second \[round\], Oehlers rushed, wide open and Teng Kee, quick to seize the opportunity, met him with a right upper cut. It was a peach of a punch, landing well on the point and with force behind it, and Oehlers went down and out. There are distinct possibilities in Teng Kee. A lad who learns how to place a punch like that practically by instinct might go far with proper handling.”11 Battling Key had won the match in the only knockout of the evening.
+The _Straits Times_ was on hand to record the events of that fine August evening. “About halfway through the second \[round\], Oehlers rushed, wide open and Teng Kee, quick to seize the opportunity, met him with a right upper cut. It was a peach of a punch, landing well on the point and with force behind it, and Oehlers went down and out. There are distinct possibilities in Teng Kee. A lad who learns how to place a punch like that practically by instinct might go far with proper handling.”[^11] Battling Key had won the match in the only knockout of the evening.
 
 On the back of this triumph came a trio of fights in 1922 that showed just how far&nbsp; Battling Key had come. The first was against Johnny Carvalho, a fierce hitter from across the strait who was dubbed the “Johore Tiger” for his ferocity. In the first go, in April that year, Singapore’s star man outpointed Carvalho over six rounds. Carvalho evened the score a mere two months later, battling to a win in 10 rounds in front of a mesmerised crowd at the Victoria Theatre. On 3 August, the duo met one final time in front of a capacity crowd almost sick with anticipation.[^12]
 
