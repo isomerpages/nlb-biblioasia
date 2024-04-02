@@ -4,6 +4,8 @@ date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/looking-back-at-sg/
 image: /images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/LookingBack1.JPG
 layout: post
+description: ""
+variant: markdown
 ---
 #### Singapore’s history didn’t begin in 1819 when Stamford Raffles made footfall on the island. **Tan Tai Yong** makes sense of our 700-year history in this wide-ranging essay.
 
@@ -28,7 +30,7 @@ Archaeological finds provide evidence that early Singapore imported ceramic ware
 
 <img src="/images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/700a.JPG">
 <div style="background-color: white;">(Left) This gold armlet and rings are part of a larger cache of gold ornaments recovered in 1926 at Fort Canning. Reminiscent of East Javanese craftsmanship during the time of the Majapahit empire (c.1293–c.1500), these ornaments are proof that Singapore’s history predates Stamford Raffles’ arrival by more than 500 years. <i>Courtesy of National Museum of Singapore, National Heritage Board</i>.<br>
-(Right) Earthernware shards from circa 14–15th century recovered from Empress Place indicate that Singapore had social, economic and cultural links with other population centres in maritime Southeast Asia, including Sumatra, Java and Borneo. <i>Image reproduced from Kwa, C.G., Heng, D.T.S., & Tan, T.Y. (2009). Singapore, a 700-Year History: From Early Emporium to World City (p. 44). Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA-[HIS])</i></div>
+(Right) Earthernware shards from circa 14–15th century recovered from Empress Place indicate that Singapore had social, economic and cultural links with other population centres in maritime Southeast Asia, including Sumatra, Java and Borneo. <i>Image reproduced from Kwa, C.G., Heng, D.T.S., &amp; Tan, T.Y. (2009). Singapore, a 700-Year History: From Early Emporium to World City (p. 44). Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA-[HIS])</i></div>
 
 All this is proof that Singapore was already a city of considerable stature centuries even before Raffles set foot here. Hundreds of years before modern Singapore came to be, the island was already firmly embedded in a wider regional web and frequently engaged with powers and political entities well beyond its immediate borders.
 
@@ -139,35 +141,35 @@ Professor <b>Tan Tai Yong</b>  is the second President and Professor of Humaniti
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/"><center>Back to Issue</center></a>
 
 #### **Notes**
-[^1]: Frost, M.R., & Balasingamchow, Y.-M. (2009). [*Singapore: A biography*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116) (pp. 40–46, 48). Singapore: Editions Didier Millet and National Museum of Singapore. (Call no.: RSING 959.57 FRO-[HIS]) 
+[^1]: Frost, M.R., &amp; Balasingamchow, Y.-M. (2009). [*Singapore: A biography*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116) (pp. 40–46, 48). Singapore: Editions Didier Millet and National Museum of Singapore. (Call no.: RSING 959.57 FRO-[HIS]) 
 [^2]: Haughton, H.T. (1882, June). Landing of Raffles in Singapore by an eye-witness. *Journal of the Straits Branch of the Royal Asiatic Society*, 10, p. 286. Retrieved from Internet Archive. 
-[^3]: Heng, D. (2011). Situating Temasik within the larger regional context: Maritime Asia and Malay State formation in the pre-modern era (pp. 46–47). In D. Heng & Syed Muhd Khairudin Aljunied (Eds.), [*Singapore in global history*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14033899&). Amsterdam: Amsterdam University Press. (Call no.: RSING 959.57-[HIS]); [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116&), 2009, pp. 24–26.
-[^4]: Kwa, C.G, Heng, D., & Tan, T.Y. (2009). [*Singapore, a 700-year history: From early emporium to world city*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984) (p. 23). Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA-[HIS]); Heng, 2011, p. 44. 
-[^5]: [Kwa, Heng & Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984), 2009, p. 24; Brown, C.C. (1952). The Malay Annals. [*Journal of the Malayan Branch of the Royal Asiatic Society*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709)*, 25*(2), 29–31. Singapore: Malayan Branch, Royal Asiatic Society. (Call no.: RCLOS 959.5 JMBRAS-[GBH] 
+[^3]: Heng, D. (2011). Situating Temasik within the larger regional context: Maritime Asia and Malay State formation in the pre-modern era (pp. 46–47). In D. Heng &amp; Syed Muhd Khairudin Aljunied (Eds.), [*Singapore in global history*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14033899&amp;). Amsterdam: Amsterdam University Press. (Call no.: RSING 959.57-[HIS]); [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116&amp;), 2009, pp. 24–26.
+[^4]: Kwa, C.G, Heng, D., &amp; Tan, T.Y. (2009). [*Singapore, a 700-year history: From early emporium to world city*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984) (p. 23). Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA-[HIS]); Heng, 2011, p. 44. 
+[^5]: [Kwa, Heng &amp; Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984), 2009, p. 24; Brown, C.C. (1952). The Malay Annals. [*Journal of the Malayan Branch of the Royal Asiatic Society*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982709)*, 25*(2), 29–31. Singapore: Malayan Branch, Royal Asiatic Society. (Call no.: RCLOS 959.5 JMBRAS-[GBH] 
 [^6]: Ptak, J. (1995). Images of Maritime Asia in two Yuan texts: “Daoyi zhilue” and “Yiyu zhi”. *Journal of Song-Yuan Studies, 25*, 47–75. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^7]: [Kwa, Heng & Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984), 2009, p. 64.
-[^8]: Tan, T. Y. (2005). Early entrepot portal: Trade and founding of Singapore (p. 1). In A. Lau & L. Lau (Eds.), [*Maritime heritage of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12589371). Singapore: Suntree Media. (Call no.: RSING q387.5095957 MAR)
-[^9]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 47.
+[^7]: [Kwa, Heng &amp; Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984), 2009, p. 64.
+[^8]: Tan, T. Y. (2005). Early entrepot portal: Trade and founding of Singapore (p. 1). In A. Lau &amp; L. Lau (Eds.), [*Maritime heritage of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12589371). Singapore: Suntree Media. (Call no.: RSING q387.5095957 MAR)
+[^9]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 47.
 [^10]: [Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12589371), 2005, p. 4
-[^11]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 18, 63, 65; [Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12589371), 2005, p. 3.
+[^11]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 18, 63, 65; [Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12589371), 2005, p. 3.
 [^12]: Rajaratnam, S. (1972, February 6). [*Singapore: Global city*](https://www.nas.gov.sg/archivesonline/private_records/record-details/e6daf456-115b-11e3-83d5-0050568939ad); National Archives of Singapore. (2016, June 24). [*Connecting Singapore to the world – from submarine cables to satellite earth stations*](https://www.nas.gov.sg/archivesonline/policy_history/card?id=2). Retrieved from National Archives of Singapore website.
-[^13]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 63; Abdullah Abdul Kadir (1849). [*Hikayat Abdullah*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079095). Singapore: Mission Press. (Microfilm nos.: NL7912, NL9717, NL7810) 
+[^13]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 63; Abdullah Abdul Kadir (1849). [*Hikayat Abdullah*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4079095). Singapore: Mission Press. (Microfilm nos.: NL7912, NL9717, NL7810) 
 [^14]: Abdullah Abdul Kadir. (1985). [*The Hikayat Abdullah: The autobiography*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4437767) (A.H. Hill, Trans.) (p. 162). Singapore: Oxford University Press. (Call no.: RSING 959.51032 ABD) (Original work published 1969).
-[^15]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 132, 150; [*Singapore: Island, city, state*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5514194). (1990). (p. 83). Singapore: Times Editions. (Call no.: RSING 959.5705 SIN-[ISK]) 
-[^16]: [*Singapore: Island, city, state*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 1990, pp. 84–85; [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 152, 204–205.
-[^17]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 182.
-[^18]:[Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 182–183.
-[^19]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 189, 197.
-[^20]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 194–195.
-[^21]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 275, 314.
-[^22]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 306, 315.
-[^23]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 322, 323.
-[^24]: [Frost & Balasingamchow, 2009](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), pp. 23, 63.
-[^25]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 66.
-[^26]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 84.
-[^27]: Lee, P., & Wang, N. (2017, January). Port cities: Multi-cultural emporiums of Asia. *Muse SG, 9*, p. 5. Singapore: National Heritage Board. Available via PublicationSG. 
-[^28]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 200–202.
-[^29]: [Frost & Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 414, 417.
+[^15]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 132, 150; [*Singapore: Island, city, state*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5514194). (1990). (p. 83). Singapore: Times Editions. (Call no.: RSING 959.5705 SIN-[ISK]) 
+[^16]: [*Singapore: Island, city, state*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 1990, pp. 84–85; [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 152, 204–205.
+[^17]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 182.
+[^18]:[Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 182–183.
+[^19]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 189, 197.
+[^20]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 194–195.
+[^21]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 275, 314.
+[^22]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 306, 315.
+[^23]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 322, 323.
+[^24]: [Frost &amp; Balasingamchow, 2009](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), pp. 23, 63.
+[^25]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 66.
+[^26]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, p. 84.
+[^27]: Lee, P., &amp; Wang, N. (2017, January). Port cities: Multi-cultural emporiums of Asia. *Muse SG, 9*, p. 5. Singapore: National Heritage Board. Available via PublicationSG. 
+[^28]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 200–202.
+[^29]: [Frost &amp; Balasingamchow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13229116), 2009, pp. 414, 417.
 [^30]: Chong, T. (2011, July). Manufacturing authenticity: The cultural production of national identities in Singapore. [*Modern Asian Studies*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=914729)*, 45*(4), p. 887. London: Cambridge University Press. (Call no.: R 950 MAS) 
-[^31]: The exception was that Special Assistance Plan schools offered both English and Chinese at the first language level. See Alfred, H., & Tan, J. (1983, December 22). [It’s English for all by 1987](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831222-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^31]: The exception was that Special Assistance Plan schools offered both English and Chinese at the first language level. See Alfred, H., &amp; Tan, J. (1983, December 22). [It’s English for all by 1987](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19831222-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 [^32]:Wee, A. (1989, February 17). [Racial limits set for HDB estates](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890217-1.2.2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.

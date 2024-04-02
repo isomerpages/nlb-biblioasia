@@ -92,7 +92,7 @@ Newbigging has generally been identified as the officer who carried the Union Ja
 Newbigging was the Deputy Adjutant-General, Malaya Command, from 1941 to 1942 and had received the Military Cross for his actions during World War I. He had first gone with Wild and Hugh Fraser, colonial secretary of the Straits Settlements, to deliver a letter from Percival to Yamashita following the morning meeting. They met with Colonel Ichiji Sugita (who would serve as Yamashita’s interpreter later that afternoon), who handed a letter to Newbigging requesting that Percival personally meet with Yamashita.[^23]
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_12.png)
-<div style="background-color:white;">“The Meeting of General Yamashita and General Percival” (1942), an oil painting by Saburo Miyamoto. <i>All rights reserved. Tan, S.T.L., et al. (2011). Battle for Singapore: Fall of the Impregnable Fortress (Vol. 1). Singapore: National Archives of Singapore.</i></div>
+<div style="background-color:white;">“The Meeting of General Yamashita and General Percival” (1942), an oil painting by Saburo Miyamoto.&nbsp;<i>Image reproduced from Stanley Tan Tik Loong,&nbsp;Reflections &amp; Memories of War Vol 1: Battle of Singapore: Fall of the Impregnable Fortress&nbsp;(Singapore: National Archives of Singapore, 2011),&nbsp;xx. (From National Library, Singapore, call no. RSING 940.5425957 TAN).</i></div>
 
 A week after the surrender meeting, and while incarcerated at Changi Prison, Newbigging was said to have spoken to Sugita after British internees realised a massacre of the Chinese population was taking place. He is reported to have said: “I ask that you should not shoot any more Chinese and that you should not ask our men to assist you by burying them.”[^24]
 
@@ -177,7 +177,7 @@ The actual surrender took place on the premises of the Ford Factory in Bukit Tim
 <img src="/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_14.png">
 Facade of the old Ford Factory on Upper Bukit Timah Road. <i>Courtesy of National Archives of Singapore.</i>
 	<br><br>
-Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit <a> https://corporate.nas.gov.sg/former-ford-factory/overview/)</a><br></div>
+Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit <a> https://corporate.nas.gov.sg/former-ford-factory/overview/</a>).<br></div>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yen.png">

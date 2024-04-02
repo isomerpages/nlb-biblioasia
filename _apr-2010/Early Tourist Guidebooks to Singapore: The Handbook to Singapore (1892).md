@@ -5,6 +5,7 @@ description: The opening of the Suez Canal in 1869 along with advances in
   steamships, saw a boom in travellers visiting the East. Senior Librarian Bonny
   Tan explores travel guides for visitors seeking a leisurely but safe journey
   to the mystical but demystified Far East.
+variant: markdown
 ---
 #### The opening of the Suez Canal in 1869 along with advances in steamships, saw a boom in travellers visiting the East. Senior Librarian *Bonny Tan* explores travel guides for visitors seeking a leisurely but safe journey to the mystical but demystified Far East.
 
@@ -98,7 +99,7 @@ And then as if to explain both why such offence is likely to be made by one espe
 
 Both Kratoska and Turnbull agree that the handbook is a child of its time – “a competent guide to a colonial city and a colonial way of life” (Reith, 1985, p. x) as well as offering “a justifiable pride in showing off the settlement to visitors” (Turnbull, 1988, p. 302). It was after all written from a British perspective for the Western tourist and we must read it with a Scotsman’s sense of humour!
 
-The guidebook can be read online at the Singapore Pages at <a href="BookSG">BookSG</a>. The 1907 reprint by Walter Makepeace as well as the Oxford Press 1985 reprint are also available at the National Library. Photographic plates for this article were derived from the Souvenir of Singapore, 1914 which is also available at the Singapore Pages at  <a href="BookSG">BookSG</a>
+The guidebook can be accessed on <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=2cf2ccde-1931-4e93-b265-a46254084820">NL Online</a>. The 1907 reprint by Walter Makepeace as well as the Oxford Press 1985 reprint are also available at the National Library. Photographic plates for this article were derived from the <i>Souvenir of Singapore, 1914,</i> which is also available on <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=248b6b23-c39d-457a-8f06-bfd41c921231">NL Online</a>.
 
 
 #### **About George Murray Reith (1863, Aberdeen, Scotland–27 February 1948, Edinburgh)**
@@ -130,18 +131,18 @@ Upon his return to Scotland, he was appointed minister to St Cuthbert’s United
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>LIST OF  PUBLICATIONS</b><br><br>
     
-G.M. Reith, <i><a>A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam</a></i> (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)<br><br>
+G.M. Reith, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407220">A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam</a></i> (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)<br><br>
 
-G.M. Reith, <i><a>Handbook to Singapore: With Map and a Plan of the Botanic Gardens</a></i> (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)<br><br>
+G.M. Reith, <i><a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=2cf2ccde-1931-4e93-b265-a46254084820">Handbook to Singapore: With Map and a Plan of the Botanic Gardens</a></i> (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)<br><br>
 	  
-G.M. Reith,  “The Opium Problem in the Straits Settlements,”<a><i>Transactions of the Straits Philosophical Society</i></a> 1 (12 August 1893), 94. (Microfilm NL5718)<br><br>
+G.M. Reith,  “The Opium Problem in the Straits Settlements,”<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5047111"><i>Transactions of the Straits Philosophical Society</i></a> 1 (12 August 1893), 94. (Microfilm NL5718)<br><br>
 
 G.M Reith, <i>The Breezy Pentlands</i> (Edinburgh: T. and N Foulis, 1910)<br><br>
 
-G. M. Reith, <i>Reminiscences of the United Free Church General Assembly (1900–1929)</i> (London: The Moray Press, 1933)<br><br>
+G.M. Reith, <i>Reminiscences of the United Free Church General Assembly (1900–1929)</i> (London: The Moray Press, 1933)<br><br>
 
-Wen, C. \[pseud\] and G. M. Reith, ed. <i><a>The Chinese Crisis from Within</a></i>
-(London: Grant Richards, 1901). (Call no. RRARE 951.04 LIM; microfilm no. NL24331)</div>
+Lim Boon Keng, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12782537">The Chinese Crisis from Within</a></i>
+(Singapore: Select Pub., 2006). (Call no. RRARE 951.04 LIM; microfilm no. NL24331)</div>
 
 <br>
 <div style="background-color: white;">
@@ -151,9 +152,9 @@ Wen, C. \[pseud\] and G. M. Reith, ed. <i><a>The Chinese Crisis from Within</a><
 
 
 #### **REFERENCES**
-Charles Burton Buckley, _An Anecdotal History of Old Times in Singapore: (With Portraits and Illustrations) From the Foundation of the Settlement … on February 6th, 1819 to the Transfer to the Colonial Office … on April 1st, 1867_, vols. [1](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx) and [2](https://eresources.nlb.gov.sg/printheritage/detail/e895d2b3-00f6-40b0-9db7-4177648c2771.aspx) (Singapore: Fraser &amp; Neave, 1902). (From BookSG; call no. RRARE 959.57 BUC; microfilm NL269)
+Charles Burton Buckley, _An Anecdotal History of Old Times in Singapore: (With Portraits and Illustrations) From the Foundation of the Settlement … on February 6th, 1819 to the Transfer to the Colonial Office … on April 1st, 1867_, vols. [1](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717) and [2](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e895d2b3-00f6-40b0-9db7-4177648c2771) (Singapore: Fraser &amp; Neave, 1902). (From BookSG; call no. RRARE 959.57 BUC; microfilm NL269)
 
-B.E. D’Aranjo, [_Stranger’s Guide to Singapore With Maps_](https://eresources.nlb.gov.sg/printheritage/detail/d70f531e-aa4b-4129-95ac-7bbacc8f43e2.aspx) (Singapore: Singapore Press, 1890). (From BookSG; call no. RRARE 959.57 DAR; microfilm NL2550)
+B.E. D’Aranjo, [_Stranger’s Guide to Singapore With Maps_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7171069) (Singapore: Singapore Press, 1890). (From BookSG; call no. RRARE 959.57 DAR; microfilm NL2550)
 
 C.M. Turnbull, “Reviewed Work(s): 1907 Handbook to Singapore by G. M. Reith,” _The China Quarterly_ no. 114 (1988), 301–02. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
@@ -163,13 +164,11 @@ C.M. Turnbull, “Reviewed Work(s): 1907 Handbook to Singapore by G. M. Reith,�
 
 “Ecclesiastical Intelligence,” _The Times_, 11 May 1901, 10.
 
-G.M. Reith, [_Handbook to Singapore: With Map and a Plan of the Botanic Gardens_](https://eresources.nlb.gov.sg/printheritage/detail/2cf2ccde-1931-4e93-b265-a46254084820.aspx) (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)
+G.M. Reith, [_Handbook to Singapore: With Map and a Plan of the Botanic Gardens_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2cf2ccde-1931-4e93-b265-a46254084820) (Singapore: Singapore and Straits Print Office, 1892). (From BookSG; call no. RRARE 959.57 REI; microfilm NL7522)
 
-G.M. Reith, [_A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4407220) (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)
+G.M. Reith, [_A Padre in Partibus: Being Notes and Impressions of a Brief Holiday Tour Through Java, the Eastern Archipelago and Siam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407220) (Singapore: Singapore and Straits Print. Off., 1897). (Call no. RRARE 959.8022 REI; microfilm NL5829)
 
-G.M. Reith, [_Handbook to Singapore With Map_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13202689) (Singapore: Fraser &amp; Neave, 1907). (Call no. RRARE 959.5703 REI; microfilm NL24341, NL30196)
-
-G.M. Reith, [_Handbook to Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082247) (Singapore: Oxford University Press, 1985). (Call no. RSING 959.57 REI)
+G.M. Reith, [_Handbook to Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082247) (Singapore: Oxford University Press, 1985). (Call no. RSING 959.57 REI)
 
 H.T.S., “[Padre’s Guide to Singapore Was the First Ever](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601001-1.2.61.1),” _Straits Times_, 1 October 1960, 6. (From NewspaperSG)
 
@@ -181,15 +180,15 @@ Max E. Fletcher, “The Suez Canal and World Shipping, 1869–1914,” _The Jour
 
 Obituary – Rev. Dr. J. Moffatt,” (1944, June 29). _The Times_, 29 June 1944, 7.
 
-“Personalia 275,” _The Aberdeen University Review_ 3, no. 7 (1915), 275, [https://archive.org/details/aberdeenuniversi03univuoft/page/274/mode/2up](https://archive.org/details/aberdeenuniversi03univuoft/page/274/mode/2up)
+“Personalia 275,” _The Aberdeen University Review_ 3, no. 7 (1915), 275, https://archive.org/details/aberdeenuniversi03univuoft/page/274/mode/2up
 
 “[Presbyterian Church Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18930302-1.2.30),” _Straits Times_, 2 March 1893, 3. (From NewspaperSG)
 
-“[Presbyterian Church – Celebration of 50 Years of Work](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280302-1.2.71),” S_traits Times_, 2 March 1928, 11. (From NewspaperSG)
+“[Presbyterian Church – Celebration of 50 Years of Work](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280302-1.2.71),” <i>Straits Times</i>, 2 March 1928, 11. (From NewspaperSG)
 
 “Single Person Record Details: NA8646 George Murray Reith,” Scottish Archive Network, https://catalogue.nrscotland.gov.uk/scancatalogue/person.aspx?code=NA8646
 
-[_Souvenir of Singapore, 1914_](https://eresources.nlb.gov.sg/printheritage/detail/248b6b23-c39d-457a-8f06-bfd41c921231.aspx) (\[S.l.: s.n.\], 1914). (From BookSG; call no. RRARE 959.57 SOU; microfilm NL16348)
+[_Souvenir of Singapore, 1914_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=248b6b23-c39d-457a-8f06-bfd41c921231) (\[S.l.: s.n.\], 1914). (From BookSG; call no. RRARE 959.57 SOU; microfilm NL16348)
 
 “[The New Presbyterian Minister](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18960425-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 25 April 1896, 2. (From NewspaperSG)
 
@@ -207,7 +206,7 @@ Obituary – Rev. Dr. J. Moffatt,” (1944, June 29). _The Times_, 29 June 1944,
 
 “[The Rev. Mr. Reith - Sunday Labour](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18910921-1.2.37),” _Straits Times_, 21 September 1891, 2. (From NewspaperSG)
 
-[_The Traveller’s Malay Pronouncing Hand-Book: For the Use of Travelers and Newcomers to Singapore_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12847814) (Singapore: Frazer &amp; Neave, 1907). (Call no. RRARE 499.2883421 TRA)
+[_The Traveller’s Malay Pronouncing Hand-Book: For the Use of Travelers and Newcomers to Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200637742) (Singapore: Fraser &amp; Neave, 1907). (Call no. RRARE 499.2883421 TRA)
 
 ### **NOTES**
 
