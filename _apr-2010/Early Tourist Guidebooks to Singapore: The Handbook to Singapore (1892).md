@@ -188,7 +188,7 @@ Obituary – Rev. Dr. J. Moffatt,” (1944, June 29). _The Times_, 29 June 1944,
 
 “Single Person Record Details: NA8646 George Murray Reith,” Scottish Archive Network, https://catalogue.nrscotland.gov.uk/scancatalogue/person.aspx?code=NA8646
 
-[_Souvenir of Singapore, 1914_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=248b6b23-c39d-457a-8f06-bfd41c921231) (\[S.l.: s.n.\], 1914). (From BookSG; call no. RRARE 959.57 SOU; microfilm NL16348)
+[_Souvenir of Singapore, 1914_] (https://www.nlb.gov.sg/main/book-detail?cmsuuid=248b6b23-c39d-457a-8f06-bfd41c921231) (\[S.l.: s.n.\], 1914). (From BookSG; call no. RRARE 959.57 SOU; microfilm NL16348)
 
 “[The New Presbyterian Minister](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18960425-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 25 April 1896, 2. (From NewspaperSG)
 
