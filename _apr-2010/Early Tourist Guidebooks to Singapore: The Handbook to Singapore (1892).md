@@ -180,7 +180,7 @@ Max E. Fletcher, “The Suez Canal and World Shipping, 1869–1914,” _The Jour
 
 Obituary – Rev. Dr. J. Moffatt,” (1944, June 29). _The Times_, 29 June 1944, 7.
 
-“Personalia 275,” _The Aberdeen University Review_ 3, no. 7 (1915), 275, [https://archive.org/details/aberdeenuniversi03univuoft/page/274/mode/2up](https://archive.org/details/aberdeenuniversi03univuoft/page/274/mode/2up)
+“Personalia 275,” _The Aberdeen University Review_ 3, no. 7 (1915), 275, https://archive.org/details/aberdeenuniversi03univuoft/page/274/mode/2up
 
 “[Presbyterian Church Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18930302-1.2.30),” _Straits Times_, 2 March 1893, 3. (From NewspaperSG)
 
