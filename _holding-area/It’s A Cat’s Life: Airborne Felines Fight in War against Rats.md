@@ -46,7 +46,7 @@ While the cats were undoubtedly excellent hunters, the platoons of airborne cats
 However, on 22 April 1965, the _Straits Times_ reported the sad news that “\[the\] five cats air-dropped into a frontline position of the 3rd Bn. (Battalion), Royal Australian Regiment, south-east of \[Kuching\], to fight an invasion of rats, have become war casualties.” The Australians reported that the cats had been killed by the large and aggressive rats. The _Sarawak Tribune_ suggested to use tame pythons, which were “recognised Sarawak rodent exterminators”. [^12]
 
 <img src="/images/Online%20Only%20Articles/Cats/straittimes_19650422_0017.png" style="width: 85%;">
-<div style="background-color: white;">The <i>Straits Times</i> ran the news of the deaths of five cats by large and aggressive rats in Sarawak on 22 April 1965. Image reproduced from “’Paratroop Cats Defeated by Frontline Rats”, 22 April 1965, <i>Straits Times</i>, 18. (From NewspaperSG).</div>
+<div style="background-color: white;">The <i>Straits Times</i> ran the news of the deaths of five cats by large and aggressive rats in Sarawak on 22 April 1965. Image reproduced from “’Paratroop Cats Defeated by Frontline Rats”, <i>Straits Times</i>, 22 April 1965, 18. (From NewspaperSG).</div>
 
 In response to the news of the demise of the cats, the RAF in Labuan had some advice for “any military unit throwing cats into action against border rats: Get them in peak condition first by feeding them well.”[^13]
 
