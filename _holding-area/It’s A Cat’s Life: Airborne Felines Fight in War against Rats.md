@@ -39,6 +39,19 @@ A jungle fort in north Malaya had requested for cats to chase away rats and mice
 
 The cats seemed to take the experience well. “\[The cats\] both seemed quite jolly about the whole thing. They were none the worse for the parachute drop... When the seals were broken, the two cats jumped out of their airborne container, licked their paws, and walked away,” the _Straits Times_ on 21 June 1954 reported an officer of 55 Company RASC Air Despatch as saying. Deeming the experiment a success, the plan was for the cats to be parachuted later that week to do their job in their new home. [^9]
 
+####  **Other Cat Missions**
+
+While the cats were undoubtedly excellent hunters, the platoons of airborne cats were not always successful in their missions. One tragic event took place in Sarawak in the mid-1960s. During Konfrontasi (the Indonesia-Malaysia confrontation) in mid-1960s, Australian military units were stationed in Sarawak to protect Malaysia from potential attacks by Indonesian forces.[^10] When the Australian troops took over the position in 1965, they found it was “overrun by large rats”. They asked the Royal Army Service Corps (RASC) for five cats to resolve the problem. The cats were obtained from the Kuching Veterinary Department by the RASC.[^11]
+
+However, on 22 April 1965, the _Straits Times_ reported the sad news that “\[the\] five cats air-dropped into a frontline position of the 3rd Bn. (Battalion), Royal Australian Regiment, south-east of \[Kuching\], to fight an invasion of rats, have become war casualties.” The Australians reported that the cats had been killed by the large and aggressive rats. The _Sarawak Tribune_ suggested to use tame pythons, which were “recognised Sarawak rodent exterminators”. [^12]
+
+  
+
+* * *
+
+
+
+
   
 
 * * *
@@ -85,3 +98,9 @@ The cats seemed to take the experience well. “\[The cats\] both seemed quite j
 [^8]: “[Two Jolly Sky Cats Jump from Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540621-1.2.3),” _Straits Times_, 21 June 1954, 1. (From NewspaperSG)
 
 [^9]: “[Two Jolly Sky Cats Jump from Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540621-1.2.3).”
+
+[^10]: “Indonesian Confrontation,” National Museum Australia. Accessed 1 April 2024, https://www.nma.gov.au/defining-moments/resources/indonesian-confrontation.
+
+[^11]: “[Paratroop Cats Defeated by Frontline Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650422-1.2.151),” S_traits Times_, 22 April 1965, 18. (From NewspaperSG)
+
+[^12]: “[Paratroop Cats Defeated by Frontline Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650422-1.2.151).”
