@@ -62,21 +62,21 @@ It is unclear when the RAF stopped airdropping cats to remote locations. Advance
 
 #### **Notes**
  
-[^1]: “[It Rained Cats in Sarawak](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600317-1.2.109),” _Singapore Free Press_, 17 March 1960, 7. (From NewspaperSG)
+[^1]: “[It Rained Cats in Sarawak](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600317-1.2.109),” <i>Singapore Free Press</i>, 17 March 1960, 7. (From NewspaperSG)
 
-[^2]: “[Those Cats Go in Bang on Target](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600322-1.2.17),” _Straits Times_, 22 March 1960, 2. (From NewspaperSG)
+[^2]: “[Those Cats Go in Bang on Target](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600322-1.2.17),” <i>Straits Times</i>, 22 March 1960, 2. (From NewspaperSG)
 
 [^3]: “[Those Cats Go in Bang on Target](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600322-1.2.17).”
 
 [^4]: “[Wanted: 30 Flying Cats To Rout Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600309-1.2.56),” _Straits Times_, 9 March 1960, 5. (From NewspaperSG)
 
-[^5]: “[Rural Boy from Sarawak](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080419-1.2.9.2),” _Business Times_, 19 April 2008, 3. (From NewspaperSG)
+[^5]: “[Rural Boy from Sarawak](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080419-1.2.9.2),” <i>Business Times</i>, 19 April 2008, 3. (From NewspaperSG)
 
-[^6]: “[Paracats End Rat Menace to the Crops](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600418-1.2.57),” _Straits Times_, 18 April 1960, 7. (From NewspaperSG)
+[^6]: “[Paracats End Rat Menace to the Crops](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600418-1.2.57),” <i>Straits Times</i>, 18 April 1960, 7. (From NewspaperSG)
 
-[^7]: “[Cat Came by Plane](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19531220-1.2.21),” _Straits Times_, 20 December 1953, 1. (From NewspaperSG)
+[^7]: “[Cat Came by Plane](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19531220-1.2.21),” <i>Straits Times</i>, 20 December 1953, 1. (From NewspaperSG)
 
-[^8]: “[Two Jolly Sky Cats Jump from Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540621-1.2.3),” _Straits Times_, 21 June 1954, 1. (From NewspaperSG)
+[^8]: “[Two Jolly Sky Cats Jump from Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540621-1.2.3),” <i>Straits Times</i>, 21 June 1954, 1. (From NewspaperSG)
 
 [^9]: “[Two Jolly Sky Cats Jump from Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540621-1.2.3).”
 
@@ -86,7 +86,7 @@ It is unclear when the RAF stopped airdropping cats to remote locations. Advance
 
 [^12]: “[Paratroop Cats Defeated by Frontline Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650422-1.2.151).”
 	
-[^13]: “[Survival Tip for Front-line Pussy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650601-1.2.109),” _Straits Times_, 1 June 1965, 15. (From NewspaperSG)
+[^13]: “[Survival Tip for Front-line Pussy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650601-1.2.109),” <i>Straits Times</i>, 1 June 1965, 15. (From NewspaperSG)
 
 [^14]: “[Survival Tip for Front-line Pussy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650601-1.2.109).”
 
