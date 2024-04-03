@@ -58,7 +58,7 @@ It is unclear when the RAF stopped airdropping cats to remote locations. Advance
 	
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Cats/siesie.png">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Cats/siesie1.png">
 	<b>Ho Sie Sie</b> is a manager at Resource Discovery and Management. When she’s not looking at books, she’s looking at cats.</div>
 
 #### **Notes**
