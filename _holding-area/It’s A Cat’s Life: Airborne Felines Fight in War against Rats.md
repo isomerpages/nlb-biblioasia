@@ -70,7 +70,7 @@ It is unclear when the RAF stopped airdropping cats to remote locations. Advance
 
 [^4]: “[Wanted: 30 Flying Cats To Rout Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600309-1.2.56),” _Straits Times_, 9 March 1960, 5. (From NewspaperSG)
 
-[^5]: “[Rural Boy from Sarawak](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600418-1.2.57),” _Business Times_, 19 April 2008, 3. (From NewspaperSG)
+[^5]: “[Rural Boy from Sarawak](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080419-1.2.9.2),” _Business Times_, 19 April 2008, 3. (From NewspaperSG)
 
 [^6]: “[Paracats End Rat Menace to the Crops](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600418-1.2.57),” _Straits Times_, 18 April 1960, 7. (From NewspaperSG)
 
