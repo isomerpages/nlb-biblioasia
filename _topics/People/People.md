@@ -176,6 +176,13 @@ Major-General Feng Yee represented China at the Japanese surrender ceremony here
 
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/flee-to-uncertainty/">Fleeing to Uncertainty: My Father’s Story</a>
+
+Barely 13 years old then, K. Ramakanthan and his family escaped with their lives from Perak to Johor during the Japanese Occupation.&nbsp;**Aishwariyaa Ramakanthan**&nbsp;recounts her father’s harrowing journey.
+
+<img src="/images/Vol-15-issue-3/fleeing-to-uncertainty/fleeing_topic.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/wong-ken-foo/">From the Archives: The Work of Photographer KF Wong</a>
 K.F. Wong shot to international fame with his images of Borneo, though not without controversy.&nbsp;**Zhuang Wubin**&nbsp;examines Wong’s work and sees beyond their historical value.
 
