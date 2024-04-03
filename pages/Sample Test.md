@@ -98,8 +98,5 @@ description: ""
 	Burkill, I.H., &amp; Ismail Munshi. (1930). <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980669"><i>The medical book of Malayan medicine</i></a>. (Singapore: Botanic Gardens, call no. RCLOS 615.3209595 MED).
 </div><br><br>
 
-
-
-	
-
-	
+<img src="/images/Online%20Only%20Articles/Cats/kuching.png" style="width: 85%;">
+<div style="background-color: white;">Kuching is also known as the City of Cats, 2009. <i>From Wikimedia Commons.</i></div>
