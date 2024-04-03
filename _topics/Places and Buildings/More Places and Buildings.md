@@ -162,7 +162,7 @@ The five-footway – the equivalent to the modern-day pavement or sidewalk – w
 
 Military camps and training areas comprise a significant portion of Singapore’s land use. What can a single camp tell us about Singapore’s geopolitical history? A lot, as it turns out, says&nbsp;**Chua Jun Yan**.
 
-<img src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe1.JPG" style="width:80%;">
+<img src="/images/Vol-15-issue-3/dieppe-barracks/dieppe1_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/oriental-emporium/">Oriental Emporium: The End of an Era</a>
