@@ -99,6 +99,13 @@ The resplendent Istana – where colonial governors and modern-day presidents on
 <img src="/images/Vol-15-issue-4/the-istana-turns-150/istana1_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/dieppe-barracks/">Dieppe Barracks: “Our Little Kingdom” in Sembawang</a>
+
+Military camps and training areas comprise a significant portion of Singapore’s land use. What can a single camp tell us about Singapore’s geopolitical history? A lot, as it turns out, says&nbsp;**Chua Jun Yan**.
+
+<img src="/images/Vol-15-issue-3/dieppe-barracks/Dieppe1.JPG" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/shipyards-keppel-sembawang">The Story of Two Shipyards: Keppel &amp; Sembawang</a>
 Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry.&nbsp;Wee Beng Geok&nbsp;traces the colonial origins of these two companies.
 
