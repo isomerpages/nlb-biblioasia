@@ -85,4 +85,3 @@ The cats seemed to take the experience well. “\[The cats\] both seemed quite j
 [^8]: “[Two Jolly Sky Cats Jump from Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540621-1.2.3),” _Straits Times_, 21 June 1954, 1. (From NewspaperSG)
 
 [^9]: “[Two Jolly Sky Cats Jump from Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540621-1.2.3).”
-
