@@ -47,60 +47,21 @@ However, on 22 April 1965, the _Straits Times_ reported the sad news that “\[t
 
 <img src="/images/Online%20Only%20Articles/Cats/straittimes_19650422_0017.png" style="width: 85%;">
 <div style="background-color: white;">The <i>Straits Times</i> ran the news of the deaths of five cats by large and aggressive rats in Sarawak on 22 April 1965. Image reproduced from “’Paratroop Cats Defeated by Frontline Rats”, 22 April 1965, <i>Straits Times<i>, 18. (From NewspaperSG).</i></i></div><i><i><br>
-In response to the news of the demise of the cats, the RAF in Labuan had some advice for “any military unit throwing cats into action against border rats: Get them in peak condition first by feeding them well.”[\[1\]](#_ftn1)
+In response to the news of the demise of the cats, the RAF in Labuan had some advice for “any military unit throwing cats into action against border rats: Get them in peak condition first by feeding them well.”[^13]
 
-A grey-and-brown tabby named Mum was held up as proof that well-fed and cared-for cats would make quick work of rats. “(R)ats in the Bario area of Sarawak’s Fourth Division seem to have met their match in ‘Mum’… \[In the officers’ mess on Labuan\], she lived on the fat of the land – chicken, beef, mutton and fish.” However, in response to an SOS request for a cat from 101 Squadron in Bario, Mum and her three kittens were sent off to duty by helicopter. The foursome were reported to be “more than holding \[their\] own against overwhelming odds.”[\[2\]](#_ftn2)
+A grey-and-brown tabby named Mum was held up as proof that well-fed and cared-for cats would make quick work of rats. “(R)ats in the Bario area of Sarawak’s Fourth Division seem to have met their match in ‘Mum’… \[In the officers’ mess on Labuan\], she lived on the fat of the land – chicken, beef, mutton and fish.” However, in response to an SOS request for a cat from 101 Squadron in Bario, Mum and her three kittens were sent off to duty by helicopter. The foursome were reported to be “more than holding \[their\] own against overwhelming odds.”[^14]
 
-Their martial ability aside, there were also instances where some cats proved to be less than willing to engage in their duties. On 14 June 1966, the _Straits Times_ reported the disappearance of two “tomcats recruited to reduce the bush-rat population in company areas of the 4th Bn. Royal Australian Regiment”. “Two ‘trackers’ in an Australian infantry unit in Borneo are AWOL after being on duty for less than an hour. All hope of finding them has been abandoned and searches called off. Army authorities say that if they turn up they face a cat-martial with a maximum sentence of 14 days CB (confined to baskets) and a ratless diet of rice and fishheads.”[\[3\]](#_ftn3)
+Their martial ability aside, there were also instances where some cats proved to be less than willing to engage in their duties. On 14 June 1966, the _Straits Times_ reported the disappearance of two “tomcats recruited to reduce the bush-rat population in company areas of the 4th Bn. Royal Australian Regiment”. “Two ‘trackers’ in an Australian infantry unit in Borneo are AWOL after being on duty for less than an hour. All hope of finding them has been abandoned and searches called off. Army authorities say that if they turn up they face a cat-martial with a maximum sentence of 14 days CB (confined to baskets) and a ratless diet of rice and fishheads.”[^15]
 
 It is unclear when the RAF stopped airdropping cats to remote locations. Advancements in pest control and alternative methods in controlling the rat population, coupled with improved road infrastructure and construction, likely spelt the end of the practice.
-
-  
-
-* * *
-
-[\[1\]](#_ftnref1) “[Survival Tip for Front-line Pussy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650601-1.2.109),” _Straits Times_, 1 June 1965, 15. (From NewspaperSG)
-
-[\[2\]](#_ftnref2) “[Survival Tip for Front-line Pussy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650601-1.2.109).”
-
-[\[3\]](#_ftnref3) “[Two Face Catmartial if Caught](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660614-1.2.61),” _Straits Times_, 14 June 1966, 9. (From NewspaperSG)
-
-  
-
-* * *
-
-
-
-
-  
-
-* * *
-
-
-
-
-  
-
-* * *
-
-
-  
-
-* * *
-
-
-  
-
-
-
 	
-	
-	
-	
-	
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Cats/siesie.png">
+	<b>Ho Sie Sie</b> is a manager at Resource Discovery and Management. When she’s not looking at books, she’s looking at cats.</div>
 
-* * *
-
+#### **Notes**
+ 
 [^1]: “[It Rained Cats in Sarawak](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600317-1.2.109),” _Singapore Free Press_, 17 March 1960, 7. (From NewspaperSG)
 
 [^2]: “[Those Cats Go in Bang on Target](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600322-1.2.17),” _Straits Times_, 22 March 1960, 2. (From NewspaperSG)
@@ -123,4 +84,10 @@ It is unclear when the RAF stopped airdropping cats to remote locations. Advance
 
 [^11]: “[Paratroop Cats Defeated by Frontline Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650422-1.2.151),” S_traits Times_, 22 April 1965, 18. (From NewspaperSG)
 
-[^12]: “[Paratroop Cats Defeated by Frontline Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650422-1.2.151).”</i></i>
+[^12]: “[Paratroop Cats Defeated by Frontline Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650422-1.2.151).”
+	
+[^13]: “[Survival Tip for Front-line Pussy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650601-1.2.109),” _Straits Times_, 1 June 1965, 15. (From NewspaperSG)
+
+[^14]: “[Survival Tip for Front-line Pussy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650601-1.2.109).”
+
+[^15]: “[Two Face Catmartial if Caught](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660614-1.2.61),” _Straits Times_, 14 June 1966, 9. (From NewspaperSG)</i></i>
