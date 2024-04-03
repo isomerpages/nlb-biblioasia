@@ -90,4 +90,4 @@ It is unclear when the RAF stopped airdropping cats to remote locations. Advance
 
 [^14]: “[Survival Tip for Front-line Pussy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650601-1.2.109).”
 
-[^15]: “[Two Face Catmartial if Caught](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660614-1.2.61),” _Straits Times_, 14 June 1966, 9. (From NewspaperSG)</i></i>
+[^15]: “[Two Face Catmartial if Caught](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660614-1.2.61),” <i>Straits Times</i>, 14 June 1966, 9. (From NewspaperSG)</i></i>
