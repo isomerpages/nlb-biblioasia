@@ -82,7 +82,7 @@ It is unclear when the RAF stopped airdropping cats to remote locations. Advance
 
 [^10]: “Indonesian Confrontation,” National Museum Australia. Accessed 1 April 2024, https://www.nma.gov.au/defining-moments/resources/indonesian-confrontation.
 
-[^11]: “[Paratroop Cats Defeated by Frontline Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650422-1.2.151),” S_traits Times_, 22 April 1965, 18. (From NewspaperSG)
+[^11]: “[Paratroop Cats Defeated by Frontline Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650422-1.2.151),” <i>Straits Times</i>, 22 April 1965, 18. (From NewspaperSG)
 
 [^12]: “[Paratroop Cats Defeated by Frontline Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650422-1.2.151).”
 	
