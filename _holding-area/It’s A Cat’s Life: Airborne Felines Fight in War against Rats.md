@@ -5,3 +5,5 @@ variant: markdown
 description: It's A Cat's Life
 image: /images/Online Only Articles/Cats/kuching.png
 ---
+####  In 1960, 23 unsuspecting cats found themselves being airdropped into Bario, Sarawak, as part of a rat-busting operation.
+By Ho Sie Sie
