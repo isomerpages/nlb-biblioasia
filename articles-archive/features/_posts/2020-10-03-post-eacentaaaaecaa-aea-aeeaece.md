@@ -3,10 +3,10 @@ title: "跨境影响、情系侨乡: 新加坡金门会馆特藏"
 permalink: /vol-16/issue-3/oct-dec-2020/kim-mui/
 date: 2020-10-01T00:00:00.000Z
 image: /images/Vol-16-issue-3/kim-mui/kim-openingcover.jpg
-breadcrumb: '新加坡金门会馆特藏'
+breadcrumb: 新加坡金门会馆特藏
 third_nav_title: "跨境影响、情系侨乡: 新加坡金门会馆特藏"
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #ffffff;
@@ -21,7 +21,7 @@ table {
 #### The National Library recently received a sizable collection of letters, documents, books and other paper ephemera from the Kim Mui Hoey Kuan. **Lee Meiyu** examines the historical links the clan association has forged between Singapore and Kinmen.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/kim-mui/kim-openingcover.jpg">
 
 原址于史密斯街的金门会馆在1974年因政府市区重建计划被征用。金门会馆于1985年迁进建于庆
@@ -59,7 +59,7 @@ table {
 |新加坡金门会馆特藏，新加坡国家图书馆。|
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/kim-mui/kim-landscapechiposter.jpg">
 
 <b>《为图今后金门航行便利劝请乡人》年份不详</b><br>此布告由23间金门机构与学校（例如教育局、金门商会、金山保董公会、金门公学、金门高阳学校等等）所发。布告叙述“金门公司为便利金门交通而创置金星轮船，金门旅社应为金星轮船住宿”。布告也痛诉其他轮船服务“出自异乡人之手……惟一目的在乎营利故不恤吾乡人……南洋乡侨……特出而组织金门轮船公司”。因此，布告劝请金门乡人支持金星轮。此布告不只是一份记录了轮船公司和旅社部成立缘由的重要文献，还显示了当时新加坡金门会馆对于原侨乡福利的关怀以及金门官方与非官方机构所给予的支持。<br><br>新加坡金门会馆特藏，新加坡国家图书馆。
@@ -67,7 +67,7 @@ table {
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/kim-mui/kim-fourbook.jpg">
 
 新加坡金门籍的作家为新加坡华族文化贡献良多。捐献资料中也包括了他们的文艺作品。左起：剧作家关新艺的《关新艺鳞爪集》；作家方然的《岩下草》；诗人寒川的《山山皆秀色》；书法家邱少华的《墨海寄余生》。<br><br>新加坡金门会馆特藏，新加坡国家图书馆。
@@ -75,7 +75,7 @@ table {
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/kim-mui/kim-tworedbook.jpg">
 
 金门会馆的出版物和战后内部文件不但详述了会馆的发展史，还记录了战后会馆是如何继续在金门与新加坡华社中扮演了重要的角色。图为《筹建金门会馆大厦记录簿》和《金门会馆会员大会记录》。<br><br>新加坡金门会馆特藏，新加坡国家图书馆。
@@ -83,7 +83,7 @@ table {
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/kim-mui/kim-twochineseposter.png">
 
 <b>金门十保乡长与金门县长向金门轮船有限公司借款两千元大洋相关书信（共三封信件，图为其中两封）1929—1930年</b><br>1929年，金门十保乡长和晋省代表三人写信给金门轮船公司叙述因金门各项捐税多为外人包办，导致物价昂贵，民生痛苦。因此提议设立金门县财政经理处，往后捐
@@ -105,8 +105,8 @@ table {
 |作者感谢蔡其生（金门会馆主席）、许振义博士（金门会馆副外事主任，《金门先贤录》及金门会馆150周年庆图文集主编）和陈成欣（金门会馆文教部主任）审阅此文。|
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/authors/LeeMelyu.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-3/authors/LeeMelyu.png" style="width: 100px; height: 100px;">
 
 <b>李梅瑜</b>是新加坡国家图书馆新加坡与东南亚馆藏的图书馆员。她的研究兴趣包括新加坡华人社群。她也是2012年“家书抵万金：新加坡侨批文化展”以及2013年“根：追溯家族历史”展览指南的作者之一。
 
@@ -127,4 +127,4 @@ table {
 [^10]: [江柏炜](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13582525)，2010，页103-104。
 [^11]: [薛残白](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84563371)，1986，页29、52；[江柏炜](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13582525)，2010，页79-82，200-201；许振义主编（2015）。[《 金门先贤录·新加坡篇》](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201430754)（页222）。新加坡：新加坡金门会馆。（索书号：RCO305.895105957 KIN）。
 [^12]: 2019年，金门会馆发现一盒封尘已久的文件。经图书馆员整理，发现超过200份关于金门轮船公司和金门公司旅社部的内部文件。文件年份介于1922年至1930年之间，弥补了已知现存文件的缺稀年份。文件包括了收据、营业报告、结册簿、华侨银行有限公司的存款条目、对数单等等。多数为来往信件。书信内容是当时轮船公司与旅社部向董事部所发的报告或需商讨的事项。其中包括各类财务报告，还有有关船务、人事、贷款、救济、公司注册等事项。所发现的各类财务报告，将有助于学者们了解轮船公司和旅社部成立初期的财政情况。
-[^13]: [江柏炜](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13582525)，2010，页83-84；[许振义](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201430754)，2015，页187，227；戚常卉（2001年4月）。〈国家、宗族与新加坡金门人的国家认同研究计划简介〉。载[《东南亚区域研究通讯》](https://www.rchss.sinica.edu.tw/capas/publication/newsletter/N13/newsletter13.pdf)第13期，页38。
+[^13]: [江柏炜](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13582525)，2010，页83-84；[许振义](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201430754)，2015，页187，227；戚常卉（2001年4月）。〈国家、宗族与新加坡金门人的国家认同研究计划简介〉。载《东南亚区域研究通讯》第13期，页38。
