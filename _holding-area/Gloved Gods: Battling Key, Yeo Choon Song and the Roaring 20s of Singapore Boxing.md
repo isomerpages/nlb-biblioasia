@@ -147,6 +147,11 @@ Key lasted the entire 10 rounds, hanging on in the hopes of landing a miraculous
 
 The Key–Yeo fights gave an enormous boost to boxing in Singapore, setting the stage for the 1930s, a decade that many would go on to describe as the “golden age of boxing”. In 1930, one of Singapore’s earliest sports magazines – _The Sportsman_ – was launched with boxing’s popularity reflected in the enormous space devoted to it.[^41] Schoolboys who could not afford tickets to fights collected and exchanged posters. Some even cut out photos of their favourite boxers from newspaper articles to create entire albums. In 1931, another entertainment venue, Great World, was established with regular, well-attended fight nights.[^42]
 
+
+![](/images/Vol%2020%20Issue%202/Boxing/Image11.jpg)
+<div style="background-color: white;">Great World, which opened on 1 June 1931, was the venue of boxing matches. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 For the two men who had done so much for the sport though, the end was long drawn. After establishing himself as the best local boxer, Yeo struggled with injuries – one to his dominant left hand proving particularly nettlesome. In 1931, when he was only 25, Yeo announced his retirement due to “personal reasons”, having only fought a handful of bouts since that historic evening in 1928 (by defeating Battling Key), when the world had appeared to be in his grasp.[^43]
 
 Two years later, Yeo reappeared in the ring and carried on until 1935, when his final fight against the middling Al Nichlos ended in a draw.[^44] As far as written records are concerned, Yeo seemed to have dropped off the pages of history. A retrospective look at his career in 1947 bemoaned the fact that “had he come under the wing of an experienced trainer-manager”, he might have become as famous as the man he had dethroned in 1928.[^45] Yeo’s disappearance was characteristically understated: even during his fighting days, he had never been the most colourful of characters, letting his fists to do all the talking.
