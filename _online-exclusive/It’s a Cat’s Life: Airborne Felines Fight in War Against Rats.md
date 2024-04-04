@@ -1,6 +1,6 @@
 ---
 title: "It’s a Cat’s Life: Airborne Felines Fight in War Against Rats"
-permalink: /holding-area/cats-life1/
+permalink: /history/2024/4/cats-rats-parachute-malaya/
 variant: markdown
 description: It's A Cat's Life
 image: /images/Online Only Articles/Cats/kuching.png
