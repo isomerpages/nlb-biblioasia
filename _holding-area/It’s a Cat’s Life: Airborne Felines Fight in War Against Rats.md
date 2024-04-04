@@ -46,20 +46,20 @@ While the cats were undoubtedly excellent hunters, the platoons of airborne cats
 However, on 22 April 1965, the _Straits Times_ reported the sad news that “\[the\] five cats air-dropped into a frontline position of the 3rd Bn. (Battalion), Royal Australian Regiment, south-east of \[Kuching\], to fight an invasion of rats, have become war casualties". The Australians reported that the cats had been killed by the large and aggressive rats. The _Sarawak Tribune_ suggested to use tame pythons, which were “recognised Sarawak rodent exterminators”. [^12]
 
 <img src="/images/Online%20Only%20Articles/Cats/straittimes_19650422_0017.png" style="width: 85%;">
-<div style="background-color: white;">The <i>Straits Times</i> ran the news of the deaths of five cats by large and aggressive rats in Sarawak on 22 April 1965. Image reproduced from “’Paratroop Cats Defeated by Frontline Rats”, <i>Straits Times</i>, 22 April 1965, 18. (From NewspaperSG).</div>
+<div style="background-color: white;">The <i>Straits Times</i> ran the news of the deaths of five cats by large and aggressive rats in Sarawak on 22 April 1965. <i>Source: The Straits Times, 22 April 1965 © SPH Media Limited. Permission required for reporduction. </i></div>
 
-In response to the news of the demise of the cats, the RAF in Labuan had some advice for “any military unit throwing cats into action against border rats: Get them in peak condition first by feeding them well.”[^13]
+In response to the news of the demise of the cats, the RAF in Labuan had some advice for “any military unit throwing cats into action against border rats: Get them in peak condition first by feeding them well".[^13]
 
-A grey-and-brown tabby named Mum was held up as proof that well-fed and cared-for cats would make quick work of rats. “(R)ats in the Bario area of Sarawak’s Fourth Division seem to have met their match in ‘Mum’… \[In the officers’ mess on Labuan\], she lived on the fat of the land – chicken, beef, mutton and fish.” However, in response to an SOS request for a cat from 101 Squadron in Bario, Mum and her three kittens were sent off to duty by helicopter. The foursome were reported to be “more than holding \[their\] own against overwhelming odds.”[^14]
+A grey-and-brown tabby named Mum was held up as proof that well-fed and cared-for cats would make quick work of rats. “[R]ats in the Bario area of Sarawak’s Fourth Division seem to have met their match in ‘Mum’… \[In the officers’ mess on Labuan\], she lived on the fat of the land – chicken, beef, mutton and fish.” However, in response to an SOS request for a cat from 101 Squadron in Bario, Mum and her three kittens were sent off to duty by helicopter. The foursome were reported to be “more than holding \[their\] own against overwhelming odds".[^14]
 
 Their martial ability aside, there were also instances where some cats proved to be less than willing to engage in their duties. On 14 June 1966, the _Straits Times_ reported the disappearance of two “tomcats recruited to reduce the bush-rat population in company areas of the 4th Bn. Royal Australian Regiment”. “Two ‘trackers’ in an Australian infantry unit in Borneo are AWOL after being on duty for less than an hour. All hope of finding them has been abandoned and searches called off. Army authorities say that if they turn up they face a cat-martial with a maximum sentence of 14 days CB (confined to baskets) and a ratless diet of rice and fishheads.”[^15]
 
-It is unclear when the RAF stopped airdropping cats to remote locations. Advancements in pest control and alternative methods in controlling the rat population, coupled with improved road infrastructure and construction, likely spelt the end of the practice.
+It is unclear when the RAF stopped airdropping cats to remote locations. Advancements in pest control and alternative methods in controlling the rat population, coupled with improved road infrastructure and construction, likely spelled the end of the practice.
 	
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Cats/siesie1.png">
-	<b>Ho Sie Sie</b> is a manager at Resource Discovery and Management. When she’s not looking at books, she’s looking at cats.</div>
+	<b>Ho Sie Sie</b> is a manager at Resource Discovery and Management, National Library Board. When she’s not looking at books, she’s looking at cats.</div>
 
 #### **Notes**
  
@@ -69,7 +69,7 @@ It is unclear when the RAF stopped airdropping cats to remote locations. Advance
 
 [^3]: “[Those Cats Go in Bang on Target](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600322-1.2.17).”
 
-[^4]: “[Wanted: 30 Flying Cats To Rout Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600309-1.2.56),” _Straits Times_, 9 March 1960, 5. (From NewspaperSG)
+[^4]: “[Wanted: 30 Flying Cats to Rout Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600309-1.2.56),” _Straits Times_, 9 March 1960, 5. (From NewspaperSG)
 
 [^5]: “[Rural Boy from Sarawak](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20080419-1.2.9.2),” <i>Business Times</i>, 19 April 2008, 3. (From NewspaperSG)
 
@@ -81,7 +81,7 @@ It is unclear when the RAF stopped airdropping cats to remote locations. Advance
 
 [^9]: “[Two Jolly Sky Cats Jump from Bomber](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540621-1.2.3).”
 
-[^10]: “Indonesian Confrontation,” National Museum Australia. Accessed 1 April 2024, https://www.nma.gov.au/defining-moments/resources/indonesian-confrontation.
+[^10]: “Indonesian Confrontation,” National Museum Australia, accessed 1 April 2024, https://www.nma.gov.au/defining-moments/resources/indonesian-confrontation.
 
 [^11]: “[Paratroop Cats Defeated by Frontline Rats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650422-1.2.151),” <i>Straits Times</i>, 22 April 1965, 18. (From NewspaperSG)
 
@@ -91,4 +91,4 @@ It is unclear when the RAF stopped airdropping cats to remote locations. Advance
 
 [^14]: “[Survival Tip for Front-line Pussy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650601-1.2.109).”
 
-[^15]: “[Two Face Catmartial if Caught](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660614-1.2.61),” <i>Straits Times</i>, 14 June 1966, 9. (From NewspaperSG)
+[^15]: “[Two Face Catmartial If Caught](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660614-1.2.61),” <i>Straits Times</i>, 14 June 1966, 9. (From NewspaperSG)
