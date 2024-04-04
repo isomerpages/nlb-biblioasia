@@ -104,9 +104,6 @@ Luckily for the promoters, even as Battling Key was thrilling audiences, yet ano
 ![](/images/Vol%2020%20Issue%202/Boxing/Image7_.jpg)
 <div style="background-color: white;">Yeo Choon Song (Y.C. Song), the featherweight champion. <i>Image reproduced from Malayan Saturday Post, 30 July 1927, 32. (From NewspaperSG).</i></div>
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image6.jpg)
-<div style="background-color: white;">An advertisement for the first match between Battling Key and Yeo Choon Song (Y.C. Song) on 4 March 1927. <i>Image reproduced from Malaya Tribune, 3 March 1927, 7. (From NewspaperSG).</i></div>
-
 As luck would have it, one of Yeo’s friends was acquainted with boxing manager Tan Ngee Yong and took Yeo to meet Tan at River Valley Road the very next morning. Within a year, Tan and his burly Straits Chinese protege had become a crack team. In 1924, when he was all of 18, Yeo went on a tear – winning 20 fights in a row and becoming known for his fearlessness backed with quick, accurate punches with the right-hand, a walloping left and a solid defence.[^29]
 
 Over the next few years, Yeo became a regular fixture on the boxing circuit, moving from four rounds to eight and beyond, from relatively low-key weekdays to glittering weekends. However, Yeo really shot to fame when he knocked out Filippino legend, the veteran Cowboy Reyes, in January 1927 with a left hook to the body that almost sent Reyes “back to the Philippines”.[^30]
@@ -116,6 +113,10 @@ It was a blow that resounded across the colony, loud enough for the Straits Spor
 Key had, of course, spent the previous years taking on all-comers in Singapore and overseas. In 1925, he had wrested the Malayan lightweight title back by beating the Kuala Lumpur champion Vincent Pereira, before winning audiences the region over with his indomitable performances in Manila, Hong Kong, Saigon and Bangkok.[^31]
 
 The promoters moved quickly. Battling Key would fight Yeo on 4 March 1927 at the Happy Valley arena for the featherweight championship title of Malaya. A better script could not have been written. For the first time in Singapore’s boxing history, two local Chinese were providing the main event. One a pioneering legend; the other hammering on the door to greatness. Tickets were set at $3, $2, $1 and 50 cents, with the _Malaya Tribune_ predicting a “crush at the box office”.[^32]
+
+![](/images/Vol%2020%20Issue%202/Boxing/Image6.jpg)
+<div style="background-color: white;">An advertisement for the first match between Battling Key and Yeo Choon Song (Y.C. Song) on 4 March 1927. <i>Image reproduced from Malaya Tribune, 3 March 1927, 7. (From NewspaperSG).</i></div>
+
 
 The night’s festivities got off to a promising start when Singapore’s Young Hassan beat Filipino Bagani Tawide in one of the preliminary fights to become Malaya’s bantamweight champion. Soon, Battling Key and Yeo emerged – both in supremely fit condition – for 10 rounds of three minutes each.[^33]
 
