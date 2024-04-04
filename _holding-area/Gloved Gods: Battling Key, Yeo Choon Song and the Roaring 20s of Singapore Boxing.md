@@ -41,7 +41,7 @@ It also lent itself to betting. In a remarkably short span of time, boxing bouts
 
 The first local hero was an unlikely one – a Straits Chinese named Tan Teng Kee. Born in 1898 to a respected family whose head was a _sinseh_ (traditional Chinese physician), Tan had attended the venerable St Joseph’s Institution – a natural stepping stone to a “respectable” white-collar profession.[^9] To the family’s shock though, Tan decided to don boxing gloves. His nom de guerre: Battling Key.
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image2.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image2.jpg)
 <div style="background-color: white;">Battling Key, the lightweight champion. <i>Image reproduced from Malayan Saturday Post, 30 July 1927, 32. (From NewspaperSG).</i></div>
 
 The circumstances leading up to Battling Key’s decision are lost to history. What is known is that by August 1921, only a year after boxing had come to Singapore, he was facing off against a certain C. Oehlers in the final of the colony’s amateur lightweight championship at the packed Palladium Theatre (site of the Orchard Gateway today).[^10]
@@ -50,7 +50,7 @@ The _Straits Times_ was on hand to record the events of that fine August evening
 
 On the back of this triumph came a trio of fights in 1922 that showed just how far&nbsp; Battling Key had come. The first was against Johnny Carvalho, a fierce hitter from across the strait who was dubbed the “Johore Tiger” for his ferocity. In the first go, in April that year, Singapore’s star man outpointed Carvalho over six rounds. Carvalho evened the score a mere two months later, battling to a win in 10 rounds in front of a mesmerised crowd at the Victoria Theatre. On 3 August, the duo met one final time in front of a capacity crowd almost sick with anticipation.[^12]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image3.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image3.jpg)
 <div style="background-color: white;">The match between Battling Key and Johnny Carvalho on 3 August 1922 was over in 105 seconds, with Key emerging victorious. <i>Image reproduced from Malaya Tribune, 21 July 1922, 8. (From NewspaperSG).</i></div>
 
 The duel was over in 105 seconds.
@@ -76,7 +76,7 @@ The first few rounds were evenly matched before Pelky’s cannons started findin
 
 Lesser men may have thrown in the towel, but the battered Key returned for the eighth round. It took four more thunderous blows from Pelky, including one square on the jaw, before the local hero hit the floor and stayed there. The Filipino had won but the _Straits Times_ noted that “the courage with which Key stuck it to the end made him the popular hero”.[^22] Later reports claimed that the many Chinese women who had come to witness their idol left the arena weeping.[^23]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image5.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image5.jpg)
 <div style="background-color: white;">Battling Key (second from left) with Young Aman, N.A. Jansen, Makatangay and L.S. Fond. <i>Image reproduced from Malayan Saturday Post, 20 July 1929, 17. (From NewspaperSG).  </i></div>
 
 #### **Promoting Boxing**
@@ -101,10 +101,10 @@ Even as boxing flourished in the colony, a nagging doubt crept into promoters’
 
 Luckily for the promoters, even as Battling Key was thrilling audiences, yet another strapping Straits Chinese fighter was biding his time. Legend has it that Yeo Choon Song (known as Y.C. Song in the press), a boxing-besotted teenager like many of his contemporaries, was in the audience for an evening of bouts at Happy Valley when he remarked to his friends: “I think I can beat most of those boxers.”[^28]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image7_.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image7_.jpg)
 <div style="background-color: white;">Yeo Choon Song (Y.C. Song), the featherweight champion. <i>Image reproduced from Malayan Saturday Post, 30 July 1927, 32. (From NewspaperSG).</i></div>
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image6.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image6.jpg)
 <div style="background-color: white;">An advertisement for the first match between Battling Key and Yeo Choon Song (Y.C. Song) on 4 March 1927. <i>Image reproduced from Malaya Tribune, 3 March 1927, 7. (From NewspaperSG).</i></div>
 
 As luck would have it, one of Yeo’s friends was acquainted with boxing manager Tan Ngee Yong and took Yeo to meet Tan at River Valley Road the very next morning. Within a year, Tan and his burly Straits Chinese protege had become a crack team. In 1924, when he was all of 18, Yeo went on a tear – winning 20 fights in a row and becoming known for his fearlessness backed with quick, accurate punches with the right-hand, a walloping left and a solid defence.[^29]
@@ -129,7 +129,7 @@ It is a pity that no photos or ephemera exist from the second encounter between 
 
 A third, deciding encounter took place 14 months later, on 5 October 1928 – this time at Singapore’s premier venue, the New World stadium. Newspapers hyped up the animosity between the two, going back to the time Yeo had complained about Key’s gloves during the duo’s first encounter the previous year.[^37]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image8.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image8.jpg)
 <div style="background-color: white;">An advertisement for the third match between Battling Key and Yeo Choon Song (Y.C. Song) on 5 October 1927. <i>Image reproduced from Malaya Tribune, 4 October 1928, 12. (From NewspaperSG).</i></div>
 
 “Followers of boxing can rest assured of an exciting fight, for neither of the pair has any love for the other,” wrote the _Malaya Tribune_. “In other words, it will be a grudge fight.” Key even baited his younger opponent, saying he hoped Yeo would actually fight and “not turn the ring into a race track”.[^38]
@@ -150,7 +150,7 @@ For the two men who had done so much for the sport though, the end was long draw
 
 Two years later, Yeo reappeared in the ring and carried on until 1935, when his final fight against the middling Al Nichlos ended in a draw.[^44] As far as written records are concerned, Yeo seemed to have dropped off the pages of history. A retrospective look at his career in 1947 bemoaned the fact that “had he come under the wing of an experienced trainer-manager”, he might have become as famous as the man he had dethroned in 1928.[^45] Yeo’s disappearance was characteristically understated: even during his fighting days, he had never been the most colourful of characters, letting his fists to do all the talking.
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image9.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image9.jpg)
 <div style="background-color: white;">Battling Key died on 20 March 1935 after a match with Jimmy Nelson of Kuala Lumpur. <i>Image reproduced from “Battling Key Dies After Contest,” Malaya Tribune, 20 March 1935, 12. (From NewspaperSG).</i></div>
 
 Battling Key, on the other hand, simply refused to give up boxing even after his losses to Yeo had made it clear his best days were behind him. Promoters were wary of backing an ageing fighter and in the 1930s, Key was reduced to traipsing round with a scrapbook under his arm, pleading with his former acquaintances in the boxing fraternity to give him another chance. Eventually, the Singapore Boxing Board of Control – formed sometime in the early 1930s to ensure boxer safety – banned him from fighting in the colony on account of his health.[^46]
@@ -159,7 +159,7 @@ Still adamant, Key was “determined to try and come back”. He found some back
 
 Unfortunately, a match on 19 March 1935 was Key’s swan song. He was lined up against Jimmy Nelson from Kuala Lumpur. After a promising start in the earlier rounds, Key went down after a “light glancing blow on the chin” in the fifth round. He got up immediately but was sent down again with a right hook. When the seventh round began, he lost consciousness and was admitted to the local general hospital.[^48]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image10.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image10.jpg)
 <div style="background-color: white;">Yeo Choon Song (Y.C. Song) died on 20 February 1988 at the age of 83. He was described as “a classy fighter, known for his bravery in taking on all-comers”. <i>Source: The Straits Times, 27 February 1988 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 On 20 March 1935, nine months before Yeo fought for the last time, Battling Key, the former Malayan boxing idol, died without regaining consciousness. He was just 37 years old.[^49]
