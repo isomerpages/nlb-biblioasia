@@ -18,6 +18,16 @@ sections:
       background: /images/vol-11-issue-4/a-singapore-made-quran/quran singapore_hero
         img.jpg
   - infopic:
+      title: "It’s a Cat’s Life: Airborne Felines Fight War Against Rats"
+      subtitle: History
+      id: infopic
+      description: In 1960, 23 unsuspecting cats found themselves being airdropped
+        into Bario, Sarawak, as part of a rat-busting operation.
+      button: It’s Raining Cats!
+      url: /history/2024/4/cats-rats-parachute-malaya/
+      image: /images/Online Only Articles/Cats/kuching.png
+      alt: Image alt text
+  - infopic:
       title: "Chia Boon Leong: The Homegrown Football Olympian"
       subtitle: PODCAST
       id: infopic
@@ -912,14 +922,4 @@ sections:
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
       image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
-  - infopic:
-      title: "It’s a Cat’s Life: Airborne Felines Fight War Against Rats"
-      subtitle: History
-      id: infopic
-      description: In 1960, 23 unsuspecting cats found themselves being airdropped
-        into Bario, Sarawak, as part of a rat-busting operation.
-      button: It’s Raining Cats!
-      url: /history/2024/4/cats-rats-parachute-malaya/
-      image: /images/Online Only Articles/Cats/kuching.png
-      alt: Image alt text
 ---
