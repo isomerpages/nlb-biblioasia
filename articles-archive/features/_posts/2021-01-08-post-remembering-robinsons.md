@@ -4,6 +4,7 @@ permalink: /vol-16/issue-4/jan-mar-2021/robinsons/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Remembering Robinsons
 third_nav_title: Remembering Robinsons
+variant: markdown
 ---
 <style>
 table { 
@@ -93,7 +94,7 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 |**NOTES**|
 
-|1. Yap, W.C. (Interviewer). (1997, November 3). *[Oral history interview with Ng Joo Kee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)* [Transcript of MP3 recording no. 001970/4/1, p. 4]. Retrieved from National Archives of Singapore website.|
+|1. Yap, W.C. (Interviewer). (1997, November 3). *[Oral history interview with Ng Joo Kee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no. 001970/4/1, p. 4]. Retrieved from National Archives of Singapore website.|
 
 |2. Low, Y. (2020, November 2). Upmarket or mass market? Retail experts say Robinsons’ confused identity contributed to its closure. *Today*. Retrieved from Today website.|
 
