@@ -50,10 +50,10 @@ The _Straits Times_ was on hand to record the events of that fine August evening
 
 On the back of this triumph came a trio of fights in 1922 that showed just how far&nbsp; Battling Key had come. The first was against Johnny Carvalho, a fierce hitter from across the strait who was dubbed the “Johore Tiger” for his ferocity. In the first go, in April that year, Singapore’s star man outpointed Carvalho over six rounds. Carvalho evened the score a mere two months later, battling to a win in 10 rounds in front of a mesmerised crowd at the Victoria Theatre. On 3 August, the duo met one final time in front of a capacity crowd almost sick with anticipation.[^12]
 
+The duel was over in 105 seconds.
+
 ![](/images/Vol%2020%20Issue%202/Boxing/Image3.jpg)
 <div style="background-color: white;">The match between Battling Key and Johnny Carvalho on 3 August 1922 was over in 105 seconds, with Key emerging victorious. <i>Image reproduced from Malaya Tribune, 21 July 1922, 8. (From NewspaperSG).</i></div>
-
-The duel was over in 105 seconds.
 
 “Teng Kee left his corner with a rush when the gong sounded, and Carvalho was evidently taken by surprise at the swiftness of his opponent’s tactics… \[Teng Kee\] was out to win without giving Carvalho a chance. He scored almost immediately, before the Johore man had much time to realise what was happening, with a right to the face… landed a right swing well to the side of the jaw. Carvalho went down and there was a roar from all parts of the building. Half way through the count he rose upon one knee, and seemed to make an effort to rise. He failed to do and Teng Kee was immediately lifted to the shoulders of his seconds and chaired round the ring to the accompaniment of a perfect storm of applause.”[^13]
 
