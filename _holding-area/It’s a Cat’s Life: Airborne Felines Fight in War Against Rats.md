@@ -10,7 +10,7 @@ By Ho Sie Sie
 
 In tropical Sarawak, it often rains cats and dogs. On 17 March 1960, somewhat unusually, it rained only cats – 23 cats to be precise. The cats, together with 7,000 lb (3,175 kg) of equipment and supplies, were parachuted by the Royal Air Force (RAF) into Bario in the Kelabit Highlands in Sarawak, from a height of 400 ft (122 m). “It ‘rained’ cats in the Bario District of the Kelabit Highlands in Sarawak,” announced the _Singapore Free Press_.[^1]
 
-After five test runs over the drop zone, the cats were dropped off via a “giant Beverly transport” plane. The _Straits Times_ reported that “\[h\]undreds of excited Kelabits on the ground watched the big operation which took more than an hour.”[^2]
+After five test runs over the drop zone, the cats were dropped off via a “giant Beverly transport” plane. The _Straits Times_ reported that “\[h\]undreds of excited Kelabits on the ground watched the big operation which took more than an hour".[^2]
 
 “\[The cats\] landed bang in the middle of the zone. After the operation, the operations officer of the Sarawak Civil Aviation Department, Mr John Seal, congratulated the R.A.F. on ‘a magnificent job’.”[^3] Operation Cat Drop was a success.
 
@@ -33,7 +33,7 @@ The Kuching cats were not the first felines to be ferried by the RAF on pest inf
 However, a few months after that, the _Straits Times_ reported without ambiguity that two cats (one black, one white) were dropped from a height of 350 feet (106 m) in parachute containers from an RAF Valetta to an airfield in Kuala Lumpur.
 
 <img src="/images/Online%20Only%20Articles/Cats/valetta.png" style="width: 85%;">
-<div style="background-color: white;">A Valetta in Singapore, 1953.<i>Courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">A Valetta in Singapore, 1953. <i>Courtesy of National Archives of Singapore.</i></div>
 
 A jungle fort in north Malaya had requested for cats to chase away rats and mice that had been destroying their food supplies. To deliver the animals to the remote location, the RAF wanted to see if was possible to parachute the animals down.[^8]
 
