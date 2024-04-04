@@ -4,6 +4,7 @@ date: 2017-04-05
 permalink: /vol-13/issue-1/apr-jun-2017/chinesepuppettheatre/
 image: /images/Vol-13-issue-1/chinese-puppet-theatre/01a_chinesepuppet.png
 layout: post
+variant: markdown
 ---
 #### Chinese puppetry is a tradition that is slowly losing ground in Singapore. **Caroline Chia** tells us why this art form should be preserved.
 
@@ -137,7 +138,7 @@ Kraus, R.C. (2012). *[The cultural revolution: A very short introduction](http:/
 
 **Book chapter**
 
-Chia, C. (2015). Potehi in Singapore, survival and change. In K. Fushiki & R. Ruizendaal (Eds.), *[Potehi: Glove puppet theatre in Southeast Asia and Taiwan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202888873)*. Taiwan: Taiyuan Publishing. (Call no.: RSEA 791.530951249 POT)
+Chia, C. (2015). Potehi in Singapore, survival and change. In K. Fushiki &amp; R. Ruizendaal (Eds.), *[Potehi: Glove puppet theatre in Southeast Asia and Taiwan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202888873)*. Taiwan: Taiyuan Publishing. (Call no.: RSEA 791.530951249 POT)
 
 **Journal article**
 
@@ -151,17 +152,17 @@ Chia, C. (2016). *The interaction of oral and literate practices in Singaporean 
 
 **Oral history interviews**
 
-Chiang, C. (Interviewer). (1982, February). *[Oral history interview with Ng Yew Kian](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e083290c-115d-11e3-83d5-0050568939ad-OHC000158_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3)* [Transcript of MP3 recording no. 000158/10/04, p. 43]. Retrieved from National Archives of Singapore website.
+Chiang, C. (Interviewer). (1982, February). *[Oral history interview with Ng Yew Kian](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e083290c-115d-11e3-83d5-0050568939ad-OHC000158_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of MP3 recording no. 000158/10/04, p. 43]. Retrieved from National Archives of Singapore website.
 
-Chua, C.H. (Interviewer). (1988, January 19). *[Oral history interview with Ng Yew Kian](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e081dbe0-115d-11e3-83d5-0050568939ad-OHC000158_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)* [Transcript of  MP3 recording No. 000874/04/01, pp. 3–8]. Retrieved from National Archives of Singapore website.
+Chua, C.H. (Interviewer). (1988, January 19). *[Oral history interview with Ng Yew Kian](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e081dbe0-115d-11e3-83d5-0050568939ad-OHC000158_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=15)* [Transcript of  MP3 recording No. 000874/04/01, pp. 3–8]. Retrieved from National Archives of Singapore website.
 
-Chua, C.H. (Interviewer). (1988, May 28). *[Oral history interview with Tay Lee Huat](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/8/85962698-115f-11e3-83d5-0050568939ad-OHC000893_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)* [Transcript of MP3 recording no. 000893/09/01, pp. 5–6]. Retrieved from National Archives of Singapore website.
+Chua, C.H. (Interviewer). (1988, May 28). *[Oral history interview with Tay Lee Huat](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/8/85962698-115f-11e3-83d5-0050568939ad-OHC000893_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* [Transcript of MP3 recording no. 000893/09/01, pp. 5–6]. Retrieved from National Archives of Singapore website.
 
-Chua, S.B. (Interviewer). (1988, June 6). *[Oral history interview with Lee Chye Ee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/a/a262b005-115f-11e3-83d5-0050568939ad-OHC000936_002%28ENG%29/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of MP3 recording no. 000936/10/02, pp. 24–26]. Retrieved from National Archives of Singapore website.
+Chua, S.B. (Interviewer). (1988, June 6). *[Oral history interview with Lee Chye Ee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/a/a262b005-115f-11e3-83d5-0050568939ad-OHC000936_002%28ENG%29/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)* [Transcript of MP3 recording no. 000936/10/02, pp. 24–26]. Retrieved from National Archives of Singapore website.
 
-Wang, Z.C. (Interviewer). (1988, January 16). *[Oral history interview with Foo Tiang Soon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/954aa539-115f-11e3-83d5-0050568939ad-OHC000875_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=31)* [Transcript of MP3 recording no. 000875/03/01, pp. 23–24, 27]. Retrieved from National Archives of Singapore website.
+Wang, Z.C. (Interviewer). (1988, January 16). *[Oral history interview with Foo Tiang Soon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/954aa539-115f-11e3-83d5-0050568939ad-OHC000875_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=31)* [Transcript of MP3 recording no. 000875/03/01, pp. 23–24, 27]. Retrieved from National Archives of Singapore website.
 
-Wang, Z.C. (Interviewer). (1987, December 15). *[Oral history interview with Long Hian Keng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4ac2ee4c-115e-11e3-83d5-0050568939ad-OHC000859_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3)* [Transcript of MP3 recording no. 000859/06/02, p. 18]. Retrieved from National Archives of Singapore website.
+Wang, Z.C. (Interviewer). (1987, December 15). *[Oral history interview with Long Hian Keng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4ac2ee4c-115e-11e3-83d5-0050568939ad-OHC000859_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of MP3 recording no. 000859/06/02, p. 18]. Retrieved from National Archives of Singapore website.
 
 **Personal interviews**
 
