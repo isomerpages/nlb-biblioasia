@@ -5,11 +5,12 @@ permalink: /vol-10/issue-3/oct-dec-2014/singapore-orchard-road-history/
 image: /images/vol-10-issue-3/overorchard/orchard_road.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 #### Orchard Road as we know it today is a far cry from its quiet beginnings as a plantation and residential area. **Fiona Tan** takes us back in time to revisit some of Orchard’s most distinctive landmarks.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/overorchard/orchard_road.jpg" style="width:70%;">
 Orchard Road, named after the fruit orchards and nutmeg plantations that were wiped out by plant diseases in the late 1860s, continued to be lined by other surviving trees well into the early 1900s, as seen in this image. <i>Courtesy of National Archives of Singapore.</i></div>
 
@@ -21,7 +22,7 @@ Orchard Road, named after the fruit orchards and nutmeg plantations that were wi
 <span style="text-align:right; display:inline-block; line-height:1.5; font-size:1rem;">– Tan Wee Him, who spent his formative years in the 1950s and 1960s in Orchard Road. <i>Courtesy of an interview with the Oral History Centre.</i>[^1]</span>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/overorchard/orchard_road_railway_bridge.jpg" style="width:70%;">
 The overhead link between the two buildings that comprise Orchard Gateway today harkens back to the railway bridge (1903–1932) that was once found in Orchard Road. It is a reminder that we can find resemblances of the past in Orchard Road’s present if we look hard enough – perhaps some consolation to Tan Wee Him (see quote above) and his like-minded peers. <i>Courtesy of National Archives of Singapore.</i></div>
 
@@ -32,11 +33,11 @@ It is hard to imagine the Orchard Road of yesteryear, as Tan Wee Him reminds us,
 The specific stretch of Orchard Road covered in the aerial map (see below) – which is a composite of three separate aerial photographs taken in 1957 – stretches from Tanglin Circus on the bottom left and ends at the Young Men’s Christian Association building on the top right. This article only highlights 10 of the landmarks along Orchard Road. Visitors who want to enjoy the full experience should visit the exhibition, where a 3.5m by 3.5m version of the map, accompanying display panels and a Kinect station that allows visitors to download more information, will transport people back into the Orchard Road of times past.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/overorchard/Aerial_Map.jpg" style="width:100%;">
 Note: This image is a composite of three aerial photographs of the South Central region taken by the Royal Air Force, dated 14 February 1957. Orchard Road – from Young Men’s Christian Association building (top right) to Tanglin Circus (bottom left) – is highlighted. Graphics with thanks to Kingsmen Pte Ltd.
-<br><br>Landmarks identified based on 1957 <i>Singapore Street Directory and Guide</i>, (Singapore: Survey Dept, 1957) and <i>Over Singapore: 50 years ago: An aerial view in the 1950s</i> (Singapore: Editions Didier Millet in association with NAS, 2007) by Brenda Yeoh & Theresa Wong.
-<br/><br/>
+<br><br>Landmarks identified based on 1957 <i>Singapore Street Directory and Guide</i>, (Singapore: Survey Dept, 1957) and <i>Over Singapore: 50 years ago: An aerial view in the 1950s</i> (Singapore: Editions Didier Millet in association with NAS, 2007) by Brenda Yeoh &amp; Theresa Wong.
+<br><br>
 	<b>Legend</b>: 1. Orchard Road Police Station; 2. C. K. Tang; 3. Heeren Building; 4. Singapore Chinese Girls’ School; 5. Cold Storage; 6. Pavilion; 7. Koek Road hawkers; 8. Amber Mansions; 9. Cathay Building; 10. Young Men’s Christian Association.</div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>01 Orchard Road Police Station</b>
@@ -58,9 +59,9 @@ C. K. Tang in the 1960s. It was demolished in 1982, replaced with an enlarged Ta
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>03 Heeren Building</b>
 <br><br>
 Located at the junction of Orchard Road and Cairnhill Road, Heeren Building was designed by Keys and Dowdeswell, a Shanghai architectural firm also responsible for Capitol Cinema and Fullerton Hotel.[^8] A more modest three-storey building in the firm’s typical pseudo-Classical style, the Heeren featured long cantilevered balconies and a strong cornice as prominent elements, similar to Capitol Cinema.[^9] It was a familiar sight and home to many beloved establishments such as the Heeren beauty salon, Beethoven Music House and even a fur shop! Tan Wee Him recollects:
-<br/><br/>
+<br><br>
 “Now, Heeren Building is another old colonial building, three or four storeys. Right at the corner is a barber shop, facing the traffic light junction. And that row, in the old Hereen Building, facing Orchard Road side, has a record shop. And at the corner is a first shop called Ali Joo, where every time people want to go Europe or England, the rich and famous will go there and buy their fur coat”.[^10]
-<br/><br/>
+<br><br>
 In 1990, the old Heeren Building was demolished for a road realignment project.[^11] In 1997, a $300-million 28-storey shopping and office complex known as the Heeren opened on part of the same site, taking over the row of pre-war shophouses linking the old Heeren Building to the former Yen San Building.[^12]
 <br><br>
 <img src="/images/vol-10-issue-3/overorchard/heeren_building.jpg" style="width:70%;">
@@ -78,9 +79,9 @@ Singapore Chinese Girls’ School students putting up a gymnastics display at th
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>05 Cold Storage</b>
 <br><br>
 Cold Storage, a standalone building at the time, was a landmark in Orchard Road from 1905 onwards.[^18] In addition to catering to the local demand for frozen meat and imported groceries, Cold Storage was also known for its eateries, such as Magnolia Snack Bar. Tan Wee Him recalls his student years in the 1960s:
-<br/><br/>
+<br><br>
 “In the good old days, the snack bar was a popular haunt for students... Magnolia Snack Bar is supposed to be the in-place where you go for a milkshake, or the popular fish and chips for $1.80... [The milkshake] would easily cost around 80 cents... they gave you a tall glass and it also come with the aluminium mixer that contains the other half of the milkshake. So you actually got something more than you bargained for, for maybe 80, 90 cents! ... The snack bar was upfront. But Cold Storage has a restaurant on the second floor of the supermarket itself. And it’s called Salad Bowl”.[^19]
-<br/><br/>
+<br><br>
 The Salad Bowl was famous for its set lunches, with three courses going for under S$6 in the 1970s. Although the Cold Storage building was supplanted by Centrepoint in the 1980s,[^20] the supermarket chain now is a common sight in many malls (including Centrepoint), both along and beyond Orchard Road. 
 <br><br>
 <img src="/images/vol-10-issue-3/overorchard/cold_storage.jpg" style="width:70%;">
@@ -90,9 +91,9 @@ Cold Storage at the junction of Orchard Road and Koek Road, captured below in 19
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>06 Pavilion</b>
 <br><br>
 Formerly known as the Palladium (1913–1925), the Pavilion cinema was a pioneer in screening films along Orchard Road. Described as an architectural “reproduction of the Stoll houses in England”, its similarities with the grand theatres built by Sir Oswald Stoll in England in the early 20th century did not end there.[^21] The films screened at the Pavilion catered mainly to British tastes. As English expat George Yuille Caldwell, a frequent patron of the Pavilion in the late 1950s and early 1960s, recalls: 
-<br/><br/>
+<br><br>
 “On the whole, it was more convenient for the expats to go to the Pavilion Cinema... I think it had two angular pediments on the street front and probably a sign saying “Pavilion Cinema”... [T]here was a restaurant there as well, we used to have dinner there. You either have fish and chips or you had steak and chips, a prawn cocktail for starters and probably an ice-cream and chocolate sauce. And then you just walked straight through the door, from the restaurant, into the circle of the cinema. And you’d take your whiskey with you. And then halfway through the film, the film would stop, and you would go out, get another whiskey, and bring it back into the cinema with you. And then the film would start again...”[^22]
-<br/><br/>
+<br><br>
 The building was demolished in 1969 and replaced with Phoenix Hotel and Specialists’ Shopping Centre.[^23] Both buildings have since been demolished and replaced by Orchard Gateway.
 <br><br>
 <img src="/images/vol-10-issue-3/overorchard/Pavilion.png" style="width:70%;">
@@ -102,13 +103,13 @@ Such was the view that greeted the person who stepped out of the Pavilion cinema
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>07 Koek Road Hawkers</b>
 <br><br>
 Located in the vicinity of Orchard Road Market, Koek Road and Koek Lane were home to many hawkers and the site of many mouth-watering memories for people who remember this street food haunt. Pakirisamy Rajagopal fondly recollects the variety of food available there in the 1950s:
-<br/><br/>
+<br><br>
 “So the favourite joint that I used to go to is Koek Road where you have your <i>kolo mee</i>, your <i>char kway teow</i>, your <i>mee goreng</i>, your soup <i>kambing</i>, name whatever you want. The roadside stalls will open up after 6pm. Whereas the coffeeshop stalls are open from morning to nighttime...
-<br/><br/>
+<br><br>
 “And in the same stretch of the old dirty looking coffee shop, there was a dirty little monsoon drain with a platform over it, 30 huge rats running around. The Teck Kee Pau, which is now in Bukit Timah Road, originated from there...
-<br/><br/>
+<br><br>
 “The <i>kway teow</i> man, the <i>hokkien mee</i> chap, [wore] just a singlet. [He] would be having a little towel... – I remember the white towel...[with] the name Good Morning – he would have it round his neck; he would sit down and fry the <i>hokkien mee</i>. His was the best <i>hokkien mee</i> of the whole of Singapore at that time”.[^24]
-<br/><br/>
+<br><br>
 As early as 1933, Municipal Commissioners had prohibited itinerant hawkers from overcrowding Koek Road and Koek Lane.[^25] However, patrons were spoilt for choice and often unconcerned with the finer points of hawker licensing and other legal details, despite the occasional complaint of road obstruction.[^26] That compromise lasted till the mid-1970s when the Koek Road and Koek Lane hawkers, itinerant or otherwise, were relocated, some to the new Cuppage Centre.[^27]
 <br><br>
 <img src="/images/vol-10-issue-3/overorchard/Koek_Road_hawkers.png" style="width:70%;">
@@ -147,7 +148,7 @@ NAS has a collection of over 45,000 aerial photographs taken from 1946 to 1968, 
 
 Set up in 1979, the Oral History Centre records, documents, preserves and disseminates oral history interviews of national and historical significance. Using a rigorous methodology and approach towards interviewing, the oral history collection not only provides researchers with a detailed look into an individual’s life, but also allows rich insights into social, political and economic circumstances. Comprising more than 20,000 interview hours from over 3,600 individuals, the collection allows us to listen firsthand to the voices of these eyewitnesses of history.
 
-<br/>
+<br>
 <img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/overorchard/Fiona_Tan.jpg">
 <p style="font-size:15px;"><b>Fiona Tan</b> is an Assistant Archivist (Outreach) with the National Archives of Singapore. Fairly new to the occupation but not the institution, she firmly believes that archival research often yields unexpected finds for those who persevere. She continues to promote the quirky and curious nature of the archives through her work. She thanks Eric Chin, Irene Lim, June Pok, Janelle Chua, Denise Ng and Noor Fadilah Yusof for their inputs to this article.</p>
 
@@ -173,7 +174,7 @@ Braddell, R. (1947, April 19). [Memories of ©16 Singapore: Fun and games in sti
 
 [Check in, check out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050716-1.2.101.7.2). (2005, July 16). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5b8d5ce-1160-11e3-83d5-0050568939ad-OHC003058_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=1)* [Transcript of MP3 recording no. 003058/07/02, pp. 31–64]. Retrieved from National Archives of Singapore.
+Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5b8d5ce-1160-11e3-83d5-0050568939ad-OHC003058_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=34)* [Transcript of MP3 recording no. 003058/07/02, pp. 31–64]. Retrieved from National Archives of Singapore.
 
 [Cold storage depot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19050406-1.2.35.2). (1905, April 6). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
@@ -187,7 +188,7 @@ Davidson, J. (2010). *[Singapore shophouse](https://eservice.nlb.gov.sg/item_hol
 
 [Down goes Heeren Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900309-1.2.36.20.1). (1990, March 9). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-Edwards, n., & Keys, P. (1988). *[Singapore: A guide to buildings, street, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 220). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
+Edwards, n., &amp; Keys, P. (1988). *[Singapore: A guide to buildings, street, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 220). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
 
 Flower, R. (2002). *[The Y: First 100 years in Singapore, 1902–2002](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11179222)* (pp. 6–8). Singapore: YMCA. (Call no.: RSING q267.395957 FLO)
 
@@ -205,13 +206,13 @@ Lee, E. (1990). *[Historic buildings of Singapore](https://eservice.nlb.gov.sg/i
 
 Lee, K.L. (2002, October 7). [Cockpit site was once Kempeitai station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20021007-1.2.21.6). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
 
-Lim, B. (Interviewer). (2012, November 1). *[Oral history interview with George Yuille Caldwell](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1ca4571d-1163-11e3-83d5-0050568939ad?keywords=George+Yuille+Caldwell+&&keywords-type=all)* [MP3 recording no. 003776/38//15]. Retrieved from NewspaperSG.
+Lim, B. (Interviewer). (2012, November 1). *[Oral history interview with George Yuille Caldwell](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1ca4571d-1163-11e3-83d5-0050568939ad?keywords=George+Yuille+Caldwell+&amp;&amp;keywords-type=all)* [MP3 recording no. 003776/38//15]. Retrieved from NewspaperSG.
 
-Lim, J. (Interviewer). (2002, August 13). *[Oral history interview with Pakirisamy Rajagopal](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/467d4390-1160-11e3-83d5-0050568939ad?keywords=Pakirisamy+Rajagopal+&&keywords-type=all)* [MP3 recording no. 002599/08//02]. Retrieved from National Archives of Singapore website.
+Lim, J. (Interviewer). (2002, August 13). *[Oral history interview with Pakirisamy Rajagopal](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/467d4390-1160-11e3-83d5-0050568939ad?keywords=Pakirisamy+Rajagopal+&amp;&amp;keywords-type=all)* [MP3 recording no. 002599/08//02]. Retrieved from National Archives of Singapore website.
 
-Lim, K.T., & Yiu, T.C. (1991). *[Cathay: 55 years of cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*. Singapore: Landmark Books for Meileen Choo. (Call no.: RSING 791.43095957 LIM)
+Lim, K.T., &amp; Yiu, T.C. (1991). *[Cathay: 55 years of cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)*. Singapore: Landmark Books for Meileen Choo. (Call no.: RSING 791.43095957 LIM)
 
-Lim, P.H., & Chong, G.P. (1982, March 7). [New era coming to C K Tang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820307-1.2.49). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+Lim, P.H., &amp; Chong, G.P. (1982, March 7). [New era coming to C K Tang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820307-1.2.49). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
 Lyne, R., et al. (1992). *[The YMCA of Singapore: 90 years of service to the community](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6377686)*. Singapore: YMCA.  (Call no.: RSING 267.395957 YMC)
 
@@ -253,23 +254,23 @@ Tan, L. (1982, May 22). [The Tang Dynasty](http://eresources.nlb.gov.sg/newspape
 
 Toh, E. (1991, July 10). [Owner of Heeren site gets nod to build $300m complex](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910710-1.2.55.6). <i>The Straits Times</i>, p. 36. Retrieved from NewspaperSG.
 
-Tyers, R., & Siow, J.H. (1993). *[Ray Tyers’ Singapore: Then & now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235)*. Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
+Tyers, R., &amp; Siow, J.H. (1993). *[Ray Tyers’ Singapore: Then &amp; now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235)*. Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
 
 [Waiting for the beat](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19970417-1.2.7). (1997, April 17). <i>The Business Times</i>, p. 1. Retrieved from NewspaperSG.
 
-Wan, M.H., & Lau, J. (2009). *[Heritage places of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774)*. Singapore Marshall Cavendish International. (Call no.: RSING 959.57 WAN)
+Wan, M.H., &amp; Lau, J. (2009). *[Heritage places of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13220774)*. Singapore Marshall Cavendish International. (Call no.: RSING 959.57 WAN)
 
-Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in the 1950s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12823429)*. Singapore: Editions Didier Millet in association with NAS. (Call no.: RSING 779.995957 YEO)
+Yeoh, B., &amp; Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in the 1950s](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12823429)*. Singapore: Editions Didier Millet in association with NAS. (Call no.: RSING 779.995957 YEO)
 
 #### **NOTES**
 
-[^1]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5b8d5ce-1160-11e3-83d5-0050568939ad-OHC003058_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=1)* [Transcript of MP3 recording no. 003058/07/02, pp. 31–64]. Retrieved from National Archives of Singapore.
+[^1]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5b8d5ce-1160-11e3-83d5-0050568939ad-OHC003058_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=1)* [Transcript of MP3 recording no. 003058/07/02, pp. 31–64]. Retrieved from National Archives of Singapore.
 
 [^2]: Tan, J. (1982, July 10). [Demolishers catch up with police station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820710-1.2.69). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
 [^3]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820710-1.2.69)*, 10 Jul 1982, p. 12; Peer, M.A. (2002). *[Policing Singapore in the 19th and 20th centuries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11732855)* (p. 109). Singapore: Singapore Police Force. (Call no.: RSING 363.2095957 PEE)
 
-[^4]: Lim, P.H., & Chong, G.P. (1982, March 7). [New era coming to C K Tang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820307-1.2.49). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+[^4]: Lim, P.H., &amp; Chong, G.P. (1982, March 7). [New era coming to C K Tang](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820307-1.2.49). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
 [^5]: Tan, L. (1982, May 22). [The Tang Dynasty](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820522-1.2.130.2). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
@@ -279,9 +280,9 @@ Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in t
 
 [^8]: [Down goes Heeren Building](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900309-1.2.36.20.1). (1990, March 9). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-[^9]: Edwards, n., & Keys, P. (1988). *[Singapore: A guide to buildings, street, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 220). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
+[^9]: Edwards, n., &amp; Keys, P. (1988). *[Singapore: A guide to buildings, street, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 220). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
 
-[^10]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=34)* [Transcript of MP3 recording no. 003058/07/01, pp. 1–30]. Retrieved from National Archives of Singapore
+[^10]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=34)* [Transcript of MP3 recording no. 003058/07/01, pp. 1–30]. Retrieved from National Archives of Singapore
 
 [^11]: Ang, A. (1990, February 17). [Heeren Building has to make way for road project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900217-1.2.32.2.2). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
@@ -299,17 +300,17 @@ Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in t
 
 [^18]: [Cold storage depot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19050406-1.2.35.2). (1905, April 6). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-[^19]: *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=34)*, 9 Jun 2006.
+[^19]: *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=34)*, 9 Jun 2006.
 
 [^20]: [Cold storage plans to move out to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821126-1.2.180.1). (1982, November 26). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
 [^21]: [Modern entertainment: The Palladium picture palace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19131224-1.2.70). (1913, December 24). <i>The Singapore Free Press</i>, p. 12. Retrieved from NewspaperSG.
 
-[^22]: Lim, B. (Interviewer). (2012, November 1). *[Oral history interview with George Yuille Caldwell](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1ca4571d-1163-11e3-83d5-0050568939ad?keywords=George+Yuille+Caldwell+&&keywords-type=all)* [MP3 recording no. 003776/38//15]. Retrieved from NewspaperSG.
+[^22]: Lim, B. (Interviewer). (2012, November 1). *[Oral history interview with George Yuille Caldwell](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1ca4571d-1163-11e3-83d5-0050568939ad?keywords=George+Yuille+Caldwell+&amp;&amp;keywords-type=all)* [MP3 recording no. 003776/38//15]. Retrieved from NewspaperSG.
 
 [^23]: [23-storey hotel going up on old Pavilion site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690722-1.2.53). (1969, July 22). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-[^24]: Lim, J. (Interviewer). (2002, August 13). *[Oral history interview with Pakirisamy Rajagopal](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/467d4390-1160-11e3-83d5-0050568939ad?keywords=Pakirisamy+Rajagopal+&&keywords-type=all)* [MP3 recording no. 002599/08//02]. Retrieved from National Archives of Singapore website.
+[^24]: Lim, J. (Interviewer). (2002, August 13). *[Oral history interview with Pakirisamy Rajagopal](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/467d4390-1160-11e3-83d5-0050568939ad?keywords=Pakirisamy+Rajagopal+&amp;&amp;keywords-type=all)* [MP3 recording no. 002599/08//02]. Retrieved from National Archives of Singapore website.
 
 [^25]: [Municipal action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19330331-1.2.19). (1933, March 31). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
@@ -327,11 +328,11 @@ Yeoh, B., & Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view in t
 
 [^32]: Ang, P.H. (1983, July 6). [Everything must go](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19830706-1.2.6.12). <i>Singapore Monitor</i>, p. 6. Retrieved from NewspaperSG.
 
-[^33]: Tyers, R., & Siow, J.H. (1993). *[Ray Tyers’ Singapore: Then & now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235)* (p. 67). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
+[^33]: Tyers, R., &amp; Siow, J.H. (1993). *[Ray Tyers’ Singapore: Then &amp; now](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235)* (p. 67). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
 
-[^34]: Lim, K.T., & Yiu, T.C. (1991). *[Cathay: 55 years of cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)* (p. 98). Singapore: Landmark Books for Meileen Choo. (Call no.: RSING 791.43095957 LIM)
+[^34]: Lim, K.T., &amp; Yiu, T.C. (1991). *[Cathay: 55 years of cinema](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688)* (p. 98). Singapore: Landmark Books for Meileen Choo. (Call no.: RSING 791.43095957 LIM)
 
-[^35]: [Lim & Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 98
+[^35]: [Lim &amp; Yiu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6095688), 1991, p. 98
 
 [^36]: National Heritage Board. (2015, December 7). <i>Former Cathay Building</i> (now The Cathay). Retrieved from Roots.sg website.
 
