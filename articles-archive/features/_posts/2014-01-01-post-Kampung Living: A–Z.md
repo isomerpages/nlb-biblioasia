@@ -5,12 +5,12 @@ permalink: /vol-9/issue-4/jan-march-2014/kampung-living-singapore/
 image: /images/vol-9-issue-4/kampong/trained_midwife.jpg
 layout: post
 description: ""
+variant: markdown
 ---
-
 #### It’s hard to believe that Singapore was once a sleepy village outpost. Re-live those nostalgic kampung days with this laundry list of life as it once was.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/kampong/malay_house.jpg" style="width:70%;">
 A Malay house in Kampong Bedok Luat. <i>Courtesy of National Archives of Singapore.</i></div>
 
@@ -25,7 +25,7 @@ Many older Singaporeans would argue that their <i>kampung</i> days had a lot mor
 Starting grandmother’s old kitchen fire[^2] was a huff-and-puff affair.[^3] Pre-war households mostly relied on firewood, except for a few city dwellers who used <i>arang</i> (charcoal), gas or electricity.[^4] Many <i>kampung</i> folks manually stoked the fire from their firewood or <i>arang</i> stoves, fanning the coals furiously to keep them burning. Firewood and <i>arang</i> were sold by weight (or <i>pikul</i>) and delivered via pedal tricycle or a two-wheel wooden cart. Although more expensive, many women preferred <i>arang</i> as it could be broken into small pieces by hand unlike firewood which had to be chopped with a hatchet.[^5] Accompanying the <i>arang</i> was the clay stove or <i>anglo</i>.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/kampong/nyonya.jpg" style="width:70%;">
 A Nonya lady cooking in her kitchen using firewood. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -38,7 +38,7 @@ The <i>bidan kampung</i> (also known as <i>Mak Bidan</i> in Malay, or <i>jie she
 The modern <i>bidan</i> or government-trained midwife, fondly called “missy”, surfaced when the colonial government felt that the infant mortality rate was too high and that Singapore needed the guiding hand of western maternity services. The “missy” visited <i>kampungs</i> and co-existed with the <i>bidan</i>. Her trademark was the neat white uniform, but keeping it white was a challenge during her <i>kampung</i> rounds. The sight of a “missy” was often a welcome forebearer of an <i>akan datang</i> (meaning “coming soon”) member to the <i>kampung</i>.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/kampong/trained_midwife.jpg" style="width:70%;">
 Infant growth assessment carried out by a trained midwife or “missy”, in 1950. <i>School of Nursing collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -55,7 +55,7 @@ Having fruit trees in the house compound was a treat for <i>kampung</i> resident
 Fruiting seasons were a heady affair that reminded villagers of nature’s bounty: “Life lost its monotony when the countryside resounded with the thud of falling durians and red bunches of luscious rambutans brightened the landscape. All around were trees laden with mangosteens, <i>langsat, rambai, nangka</i> and other seasonal fruits.”[^20]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/kampong/durian_plantation.jpg">
 A man at a durian plantation circa 1915. <i>Courtesy of National Archives of Singapore.</i></div>
 
@@ -72,7 +72,7 @@ Often, a common tongue bridged many cultural gaps. In those days, it was common 
 This was a tossing game, geared towards girls with delicate fingers and usually played sitting cross-legged on the floor. The “stones” — handmade by the girls themselves — were actually small pyramid shaped sachets simply sewn from scraps of cloth and filled with green beans, sand or rice grains. Instead of five, some used seven stones. The game is played by “throwing [the stones] up into the air and catching them back in some form of patterned movements.”[^23] Each stage has a particular pattern and increases in complexity as the player progresses in the game.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/kampong/five_stones.jpg">
 Five Stones is played with five small triangular cloth bags filled with seeds, rice grains or sand (1960s). <i>Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -91,7 +91,7 @@ If unlucky, the ball would <i>kena</i> (hit) your face or head (followed by “<
 Street food vendors used to travel from <i>kampung</i> to <i>kampung</i> peddling their signature delicacies. An expectant crowd would gather in anticipation of the tantalising food, such as ice balls, <i>char kway teow</i> (noodles) and satay.[^27] Unfortunately, the “dirt-cheap” hawker food was often dirt-riddled too.[^28] In the 1960s, in a move to improve food hygiene, food peddlers were relocated to centralised hawker centres.[^29]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/kampong/bus_services.jpg" style="width:70%;">
 Unlicensed hawkers outside the Jalan Eunos Wet Market in 1958. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -104,7 +104,7 @@ Unlike <i>hantam bola</i>, <i>jelon</i> is played within a set boundary. This ga
 The aim of this game is to get a free piggyback ride from your opponent (pictured below).
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/kampong/keleret.jpg" style="width:70%;">
 <i>Keleret</i> must be played in pairs or teams. Flat stones or tiles (<i>batu keleret</i>) are thrown to get close to the target line or circle (1950s). <i>Courtesy of Singapore Sports Council (SSC) collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -121,7 +121,7 @@ The mosquito bus (1920s–1950s) was a form of public transport that appeared ab
 For all that ruckus, the mosquito buses could only take six seating passengers and one standing. Little wonder that when bigger motorcars appeared, these buses lost their buzz. By the 1950s, they were allowed to ply only in rural areas and the outer fringes of the city.[^31]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/kampong/unlicensed_hawkers.jpg">
 Tay Koh Yat bus service’s “Mosquito Buses” at Sembawang (1955). <i>F. W. York collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -142,7 +142,7 @@ This game of catch comprises two teams: police who chase and the thieves who fle
 In the days before the convenience of tap water at home, <i>kampung</i> residents had to queue at the common standpipes or wells to draw their water; the worst time for this was in the morning when everyone was getting ready for work or school. After things quietened, the next tranche of users were usually housewives who would crowd around the standpipes to do their washing. Invariably, it was more than just dirt that was swapped as the standpipe also doubled up as the village rumour mill. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/kampong/common_standpipe.jpg" style="width:70%;">
 Women washing laundry at a common standpipe, circa 1960s. <i>Courtesy of National Archives of Singapore.</i></div>
 
@@ -179,7 +179,7 @@ Cattlemen and milkmen were mostly Tamils from South India. Serangoon was a cattl
 In the 1930s, the area between Cross Street and New Bridge Road was known as Kampong Susu (milk <i>kampung</i>) and the place lived up to its name from the many Indian milk sellers “identified by a tiny top knot of hair”.[^47] These Indian milkmen (or <i>bhai jual susu</i> to the Malays) ran door-to-door delivering fresh milk. Sometimes, the cow was milked on the spot: “[The milkmen came] with a cow and people [would] just buy the adulterated or diluted sort of thing. So fresh milk was really fresh...”[^48]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/kampong/dhoby.jpg">
 Close-up of Indian <i>dhoby</i> ironing clothes in Serangoon Road (1982). <i>Courtesy of National Archives of Singapore.</i></div>
 
@@ -241,9 +241,9 @@ Campbell, W. (1974, March 15). [Trading patterns change to keep pace with modern
 
 Chan, K.S. (2001, November 26). [Cooking with old king coal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011126-1.2.93.4.3). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
 
-Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mable Martens](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
+Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mable Martens](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
 
-Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=9)* [Transcript of MP3 recording no. 000447/64/63, pp. 562, 566]. Retrieved from National Archives of Singapore website.
+Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=9)* [Transcript of MP3 recording no. 000447/64/63, pp. 562, 566]. Retrieved from National Archives of Singapore website.
 
 Chun, S.L. (2008, August 31). More than 1 type of kampong in Singapore. <i>Good Morning Yesterday</i>. Retrieved from Goodmorningyesterday.blogspot.sg. website.
 
@@ -277,7 +277,7 @@ Leong, S. (2008–2013). Hantam bola. Retrieved from [http://www.singsupplies.co
 
 [Local](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500809-1.2.5). (1850, August 9). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 4. Retrieved from NewspaperSG.
 
-Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=7)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
+Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
 
 Nazerin Harun. (2012, June 7). <i>Pemenggal kepala</i>. Retrieved from nazerihn.blogspot.sg website.
 
@@ -295,15 +295,15 @@ Seetoh, K. (2013, May 28). <i>The karipap princess</i>. Retrieved from Makanatio
 
 Soo, E.J. (2010, August 23). Is the old 555 notebook or the new iPad better. <i>AsiaOne</i>. Retrieve from AsiaOne website. 
 
-Suhami Ahmad & Krew Apo2 Yolah. (2012, March 14). <i>Zaman hingus meleleh</i>. Retrieved from anaknegori.blogspot.
+Suhami Ahmad &amp; Krew Apo2 Yolah. (2012, March 14). <i>Zaman hingus meleleh</i>. Retrieved from anaknegori.blogspot.
 
 Suppiah, P. (2005, January 20). [A clean break?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050120-1.2.33.9) Not yet. <i>Today</i>, p. 30. Retrieved from NewspaperSG.
 
 Syair Kampung Gelam Terbakar. <i>Melayu Online</i>. Retrieved from Melayu Online website. 
 
-Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
+Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
 
-Tan, S., & Tay, M. (2003). <i>World food: Malaysia & Singapore</i> (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
+Tan, S., &amp; Tay, M. (2003). <i>World food: Malaysia &amp; Singapore</i> (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
 
 [Teh tarik dan jambatan bawa nostalgia masa silam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19900609-1.2.24.9). (1990, June 9). <i>Berita Harian</i>, p. 10. Retrieved from NewspaperSG.
 
@@ -350,13 +350,13 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^14]: [The unborn give her no peace](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19501028-1.2.63.46). (1950, October 28). <i>The Singapore Free Press</i>, p. 5. Retrieved from NewspaperSG.
 
-[^15]: Suhami Ahmad & Krew Apo2 Yolah. (2012, March 14). <i>Zaman hingus meleleh</i>. Retrieved from anaknegori.blogspot.
+[^15]: Suhami Ahmad &amp; Krew Apo2 Yolah. (2012, March 14). <i>Zaman hingus meleleh</i>. Retrieved from anaknegori.blogspot.
 
 [^16]: Lee, A. (1985, October 13). [From kampong girl to a flat-dweller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851013-1.2.65.31.7). <i>The Straits Times</i>, p. 36. Retrieved from NewspaperSG.
 
 [^17]: Salmah Semono. (1979, March 4). [Pemainan masa lalu jalin ikatan kejiranan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19790304-1.2.23). <i>Berita Harian</i>, p. 4. Retrieved from NewspaperSG.
 
-[^18]: Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* [Transcript of MP3 recording no. 000447/64/63, p. 566]. Retrieved from National Archives of Singapore website.
+[^18]: Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9)* [Transcript of MP3 recording no. 000447/64/63, p. 566]. Retrieved from National Archives of Singapore website.
 
 [^19]: “Orang Sebarang”. (1936, July 23). [And then the durian. Too costly in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360723-1.2.148.3). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
@@ -368,13 +368,13 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^23]: Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicilan.wordpress.com website.
 
-[^24]: [Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9), 15 Feb 1985, p. 562.
+[^24]: [Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), 15 Feb 1985, p. 562.
 
 [^25]: Leong, S. (2008–2013). Hantam bola. Retrieved from [http://www.singsupplies.com/showthread.php?152987-Hantam-bola](http://www.singsupplies.com/showthread.php?152987-Hantam-bola)
 
 [^26]: <i>Tengok tu macam tak ada pape</i>. (2012, October 16). Retrieved from Facebook.com website. 
 
-[^27]: Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mable Martens](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
+[^27]: Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mable Martens](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
 
 [^28]: [An upcountry tourist in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491231-1.2.95.1). (1949, December 31). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
@@ -388,7 +388,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^33]: Nor-Afidah Abd Rahman. (2012, June 1). Then and now: Games children play. <i>iremembersg</i>. Retrieved from iremember.sg website.
 
-[^34]: Tan, S., & Tay, M. (2003). <i>World food: Malaysia & Singapore</i> (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
+[^34]: Tan, S., &amp; Tay, M. (2003). <i>World food: Malaysia &amp; Singapore</i> (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
 
 [^35]: Tan, L.L. (1983, February 19). [Use that mortar and pestle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830219-1.2.138.5.1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
@@ -398,7 +398,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^38]: Irahhajerah. (2011, May 1). <i>Ingat tak mainan canggih kita zaman kanak-kanak dulu harga dia 20 sen jer?</i> Retrieved from irahhajerah.blogspot.sg website.
 
-[^39]: Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
+[^39]: Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
 
 [^40]: Soo, E.J. (2010, August 23). Is the old 555 notebook or the new iPad better. <i>AsiaOne</i>. Retrieve from AsiaOne website. 
 
@@ -410,7 +410,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^44]: [Teh tarik dan jambatan bawa nostalgia masa silam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19900609-1.2.24.9). (1990, June 9). <i>Berita Harian</i>, p. 10. Retrieved from NewspaperSG.
 
-[^45]: Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
+[^45]: Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
 
 [^46]: [Local](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500809-1.2.5). (1850, August 9). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 4. Retrieved from NewspaperSG.
 

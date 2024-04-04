@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "It’s a Cat’s Life: Airborne Felines Fight in War Against Rats.md"
       - "Gloved Gods: Battling Key, Yeo Choon Song and the Roaring 20s of
         Singapore Boxing.md"
       - The Other Men Who Surrendered Singapore.md

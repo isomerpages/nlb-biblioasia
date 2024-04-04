@@ -41,7 +41,7 @@ It also lent itself to betting. In a remarkably short span of time, boxing bouts
 
 The first local hero was an unlikely one – a Straits Chinese named Tan Teng Kee. Born in 1898 to a respected family whose head was a _sinseh_ (traditional Chinese physician), Tan had attended the venerable St Joseph’s Institution – a natural stepping stone to a “respectable” white-collar profession.[^9] To the family’s shock though, Tan decided to don boxing gloves. His nom de guerre: Battling Key.
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image2.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image2.jpg)
 <div style="background-color: white;">Battling Key, the lightweight champion. <i>Image reproduced from Malayan Saturday Post, 30 July 1927, 32. (From NewspaperSG).</i></div>
 
 The circumstances leading up to Battling Key’s decision are lost to history. What is known is that by August 1921, only a year after boxing had come to Singapore, he was facing off against a certain C. Oehlers in the final of the colony’s amateur lightweight championship at the packed Palladium Theatre (site of the Orchard Gateway today).[^10]
@@ -50,10 +50,10 @@ The _Straits Times_ was on hand to record the events of that fine August evening
 
 On the back of this triumph came a trio of fights in 1922 that showed just how far&nbsp; Battling Key had come. The first was against Johnny Carvalho, a fierce hitter from across the strait who was dubbed the “Johore Tiger” for his ferocity. In the first go, in April that year, Singapore’s star man outpointed Carvalho over six rounds. Carvalho evened the score a mere two months later, battling to a win in 10 rounds in front of a mesmerised crowd at the Victoria Theatre. On 3 August, the duo met one final time in front of a capacity crowd almost sick with anticipation.[^12]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image3.png)
-<div style="background-color: white;">The match between Battling Key and Johnny Carvalho on 3 August 1922 was over in 105 seconds, with Key emerging victorious. <i>Image reproduced from Malaya Tribune, 21 July 1922, 8. (From NewspaperSG).</i></div>
-
 The duel was over in 105 seconds.
+
+![](/images/Vol%2020%20Issue%202/Boxing/Image3.jpg)
+<div style="background-color: white;">The match between Battling Key and Johnny Carvalho on 3 August 1922 was over in 105 seconds, with Key emerging victorious. <i>Image reproduced from Malaya Tribune, 21 July 1922, 8. (From NewspaperSG).</i></div>
 
 “Teng Kee left his corner with a rush when the gong sounded, and Carvalho was evidently taken by surprise at the swiftness of his opponent’s tactics… \[Teng Kee\] was out to win without giving Carvalho a chance. He scored almost immediately, before the Johore man had much time to realise what was happening, with a right to the face… landed a right swing well to the side of the jaw. Carvalho went down and there was a roar from all parts of the building. Half way through the count he rose upon one knee, and seemed to make an effort to rise. He failed to do and Teng Kee was immediately lifted to the shoulders of his seconds and chaired round the ring to the accompaniment of a perfect storm of applause.”[^13]
 
@@ -76,7 +76,7 @@ The first few rounds were evenly matched before Pelky’s cannons started findin
 
 Lesser men may have thrown in the towel, but the battered Key returned for the eighth round. It took four more thunderous blows from Pelky, including one square on the jaw, before the local hero hit the floor and stayed there. The Filipino had won but the _Straits Times_ noted that “the courage with which Key stuck it to the end made him the popular hero”.[^22] Later reports claimed that the many Chinese women who had come to witness their idol left the arena weeping.[^23]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image5.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image5.jpg)
 <div style="background-color: white;">Battling Key (second from left) with Young Aman, N.A. Jansen, Makatangay and L.S. Fond. <i>Image reproduced from Malayan Saturday Post, 20 July 1929, 17. (From NewspaperSG).  </i></div>
 
 #### **Promoting Boxing**
@@ -101,11 +101,8 @@ Even as boxing flourished in the colony, a nagging doubt crept into promoters’
 
 Luckily for the promoters, even as Battling Key was thrilling audiences, yet another strapping Straits Chinese fighter was biding his time. Legend has it that Yeo Choon Song (known as Y.C. Song in the press), a boxing-besotted teenager like many of his contemporaries, was in the audience for an evening of bouts at Happy Valley when he remarked to his friends: “I think I can beat most of those boxers.”[^28]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image7_.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image7_.jpg)
 <div style="background-color: white;">Yeo Choon Song (Y.C. Song), the featherweight champion. <i>Image reproduced from Malayan Saturday Post, 30 July 1927, 32. (From NewspaperSG).</i></div>
-
-![](/images/Vol%2020%20Issue%202/Boxing/Image6.png)
-<div style="background-color: white;">An advertisement for the first match between Battling Key and Yeo Choon Song (Y.C. Song) on 4 March 1927. <i>Image reproduced from Malaya Tribune, 3 March 1927, 7. (From NewspaperSG).</i></div>
 
 As luck would have it, one of Yeo’s friends was acquainted with boxing manager Tan Ngee Yong and took Yeo to meet Tan at River Valley Road the very next morning. Within a year, Tan and his burly Straits Chinese protege had become a crack team. In 1924, when he was all of 18, Yeo went on a tear – winning 20 fights in a row and becoming known for his fearlessness backed with quick, accurate punches with the right-hand, a walloping left and a solid defence.[^29]
 
@@ -116,6 +113,10 @@ It was a blow that resounded across the colony, loud enough for the Straits Spor
 Key had, of course, spent the previous years taking on all-comers in Singapore and overseas. In 1925, he had wrested the Malayan lightweight title back by beating the Kuala Lumpur champion Vincent Pereira, before winning audiences the region over with his indomitable performances in Manila, Hong Kong, Saigon and Bangkok.[^31]
 
 The promoters moved quickly. Battling Key would fight Yeo on 4 March 1927 at the Happy Valley arena for the featherweight championship title of Malaya. A better script could not have been written. For the first time in Singapore’s boxing history, two local Chinese were providing the main event. One a pioneering legend; the other hammering on the door to greatness. Tickets were set at $3, $2, $1 and 50 cents, with the _Malaya Tribune_ predicting a “crush at the box office”.[^32]
+
+![](/images/Vol%2020%20Issue%202/Boxing/Image6.jpg)
+<div style="background-color: white;">An advertisement for the first match between Battling Key and Yeo Choon Song (Y.C. Song) on 4 March 1927. <i>Image reproduced from Malaya Tribune, 3 March 1927, 7. (From NewspaperSG).</i></div>
+
 
 The night’s festivities got off to a promising start when Singapore’s Young Hassan beat Filipino Bagani Tawide in one of the preliminary fights to become Malaya’s bantamweight champion. Soon, Battling Key and Yeo emerged – both in supremely fit condition – for 10 rounds of three minutes each.[^33]
 
@@ -129,7 +130,7 @@ It is a pity that no photos or ephemera exist from the second encounter between 
 
 A third, deciding encounter took place 14 months later, on 5 October 1928 – this time at Singapore’s premier venue, the New World stadium. Newspapers hyped up the animosity between the two, going back to the time Yeo had complained about Key’s gloves during the duo’s first encounter the previous year.[^37]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image8.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image8.jpg)
 <div style="background-color: white;">An advertisement for the third match between Battling Key and Yeo Choon Song (Y.C. Song) on 5 October 1927. <i>Image reproduced from Malaya Tribune, 4 October 1928, 12. (From NewspaperSG).</i></div>
 
 “Followers of boxing can rest assured of an exciting fight, for neither of the pair has any love for the other,” wrote the _Malaya Tribune_. “In other words, it will be a grudge fight.” Key even baited his younger opponent, saying he hoped Yeo would actually fight and “not turn the ring into a race track”.[^38]
@@ -146,11 +147,16 @@ Key lasted the entire 10 rounds, hanging on in the hopes of landing a miraculous
 
 The Key–Yeo fights gave an enormous boost to boxing in Singapore, setting the stage for the 1930s, a decade that many would go on to describe as the “golden age of boxing”. In 1930, one of Singapore’s earliest sports magazines – _The Sportsman_ – was launched with boxing’s popularity reflected in the enormous space devoted to it.[^41] Schoolboys who could not afford tickets to fights collected and exchanged posters. Some even cut out photos of their favourite boxers from newspaper articles to create entire albums. In 1931, another entertainment venue, Great World, was established with regular, well-attended fight nights.[^42]
 
+
+![](/images/Vol%2020%20Issue%202/Boxing/Image11.jpg)
+<div style="background-color: white;">Great World, which opened on 1 June 1931, was the venue of boxing matches. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 For the two men who had done so much for the sport though, the end was long drawn. After establishing himself as the best local boxer, Yeo struggled with injuries – one to his dominant left hand proving particularly nettlesome. In 1931, when he was only 25, Yeo announced his retirement due to “personal reasons”, having only fought a handful of bouts since that historic evening in 1928 (by defeating Battling Key), when the world had appeared to be in his grasp.[^43]
 
 Two years later, Yeo reappeared in the ring and carried on until 1935, when his final fight against the middling Al Nichlos ended in a draw.[^44] As far as written records are concerned, Yeo seemed to have dropped off the pages of history. A retrospective look at his career in 1947 bemoaned the fact that “had he come under the wing of an experienced trainer-manager”, he might have become as famous as the man he had dethroned in 1928.[^45] Yeo’s disappearance was characteristically understated: even during his fighting days, he had never been the most colourful of characters, letting his fists to do all the talking.
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image9.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image9.jpg)
 <div style="background-color: white;">Battling Key died on 20 March 1935 after a match with Jimmy Nelson of Kuala Lumpur. <i>Image reproduced from “Battling Key Dies After Contest,” Malaya Tribune, 20 March 1935, 12. (From NewspaperSG).</i></div>
 
 Battling Key, on the other hand, simply refused to give up boxing even after his losses to Yeo had made it clear his best days were behind him. Promoters were wary of backing an ageing fighter and in the 1930s, Key was reduced to traipsing round with a scrapbook under his arm, pleading with his former acquaintances in the boxing fraternity to give him another chance. Eventually, the Singapore Boxing Board of Control – formed sometime in the early 1930s to ensure boxer safety – banned him from fighting in the colony on account of his health.[^46]
@@ -159,7 +165,7 @@ Still adamant, Key was “determined to try and come back”. He found some back
 
 Unfortunately, a match on 19 March 1935 was Key’s swan song. He was lined up against Jimmy Nelson from Kuala Lumpur. After a promising start in the earlier rounds, Key went down after a “light glancing blow on the chin” in the fifth round. He got up immediately but was sent down again with a right hook. When the seventh round began, he lost consciousness and was admitted to the local general hospital.[^48]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image10.png)
+![](/images/Vol%2020%20Issue%202/Boxing/Image10.jpg)
 <div style="background-color: white;">Yeo Choon Song (Y.C. Song) died on 20 February 1988 at the age of 83. He was described as “a classy fighter, known for his bravery in taking on all-comers”. <i>Source: The Straits Times, 27 February 1988 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 On 20 March 1935, nine months before Yeo fought for the last time, Battling Key, the former Malayan boxing idol, died without regaining consciousness. He was just 37 years old.[^49]
@@ -170,7 +176,7 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/Abhishek_Mehrotra.png">
-	<b>Abhishek Mehrotra</b> is a researcher and writer whose interests include media and society in colonial Singapore, urban toponymy and post-independence India. He is working on his first book – a biography of T.N. Seshan, one of India’s most prominent bureaucrats. The book, commissioned by HarperCollins, is slated for release in 2025. Abhishek is a former Lee Kong Chian Research Fellow (2021–2022).</div>
+	<b>Abhishek Mehrotra</b> is a researcher and writer whose interests include media and society in colonial Singapore, urban toponymy and post-independence India. He is working on his first book – a biography of T.N. Seshan, one of India’s most prominent bureaucrats. The book, commissioned by HarperCollins, is slated for release in 2025. Abhishek is a former Lee Kong Chian Research Fellow (2021–22).</div>
 
 #### **Notes**
 
@@ -208,7 +214,7 @@ Meanwhile, Yeo outlived his erstwhile opponent and died on 20 February 1988 at t
 
 [^17]: Herman Rippa, “[Battling Key – Battler and Philanthropist](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19470928-1.2.89),” _Sunday Tribune_, 28 September 1947, 10. (From NewspaperSG).
 
-[^18]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231015-1.2.82.1),” _Straits Times_, 15 October 1923, 10; “[First Real Local Champion](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19371106-1.2.119.34).” _Morning Tribune_, 6 November 1937, 8. (From NewspaperSG).
+[^18]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231015-1.2.82.1),” _Straits Times_, 15 October 1923, 10; “[First Real Local Champion](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19371106-1.2.119.34),” _Morning Tribune_, 6 November 1937, 8. (From NewspaperSG).
 
 [^19]: “[Boxing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231015-1.2.82.1).”
 

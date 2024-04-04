@@ -4,6 +4,7 @@ permalink: /vol-16/issue-4/jan-mar-2021/robinsons/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Remembering Robinsons
 third_nav_title: Remembering Robinsons
+variant: markdown
 ---
 <style>
 table { 
@@ -93,7 +94,7 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 |**NOTES**|
 
-|1. Yap, W.C. (Interviewer). (1997, November 3). *[Oral history interview with Ng Joo Kee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)* [Transcript of MP3 recording no. 001970/4/1, p. 4]. Retrieved from National Archives of Singapore website.|
+|1. Yap, W.C. (Interviewer). (1997, November 3). *[Oral history interview with Ng Joo Kee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no. 001970/4/1, p. 4]. Retrieved from National Archives of Singapore website.|
 
 |2. Low, Y. (2020, November 2). Upmarket or mass market? Retail experts say Robinsons’ confused identity contributed to its closure. *Today*. Retrieved from Today website.|
 
@@ -219,7 +220,7 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 |4. Ng, B. (Interviewer). (2012, November 1). *[Oral history interview with George Yuille Caldwell](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1c80cc22-1163-11e3-83d5-0050568939ad)* [MP3 recording no. 003776/38/14]. Retrieved from National Archives of Singapore website.|
 
-|5. Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d8484310-1160-11e3-83d5-0050568939ad-OHC003058_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=1)* [Transcript of MP3 recording no. 003058/07/03, pp. 65–67]. Retrieved from National Archives of Singapore website.|
+|5. Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/d8484310-1160-11e3-83d5-0050568939ad-OHC003058_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of MP3 recording no. 003058/07/03, pp. 65–67]. Retrieved from National Archives of Singapore website.|
 
 |6. *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721122-1.2.2)*, 22 Nov 1972, p. 1.|
 

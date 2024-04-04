@@ -38,13 +38,13 @@ Bennett (1887–1962) was Commander of the 8th Division of the Australian Imperi
 
 Simmons (1888–1952) was Commander of the Singapore Fortress and responsible for the defence of Singapore, the adjoining islands and the eastern area of Johor. He was the subject of a biography, _The Story of Major General F.K. Simmons, CEB, MVO, MC, a Man Among Men_, by Percival. In Percival’s eyes, Simmons had a “particularly tactful and courteous manner which was an undoubted asset in his dealings with the civilians of Singapore. He worked unceasingly for the welfare of the troops in that city”.[^8]
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_4.png)
-<div style="background-color:white;">Major-General Frank Keith Simmons was Commander of the Singapore Fortress, and responsible for the defence of Singapore, the adjoining islands and the eastern area of Johor. <i>Courtesy of Paul Godley. Image reproduced from generals.dk.</i></div>
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_15_preview2.png)
+<div style="background-color:white;">Major-General Frank Keith Simmons (right) with General Archibald Wavell (left) and Brigadier Arthur Drury Curtis (centre), c. 1940. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 Heath (1885–1954) commanded the III Indian Corps from 1941 to 1942 as part of the Malaya Command and had been entrusted with defending northern Malaya. Before his arrival in Malaya, he had gained success as the General Officer Commanding the 5th Indian Infantry Division in the East African Campaign where he planned and executed an assault on the Italian Army at the Battle of Keren in Eritrea in March 1941. In Heath’s obituary, the _Straits Times_ noted that he had been a “soldier whose tactics have been praised by his superiors” and he had served with “distinction in many frontier incidents”.[^9]
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_5.png)
-<div style="background-color:white;">Lieutenant-General Lewis Macclesfield Heath commanded the III Indian Corps from 1941 to 1942 as part of the Malaya Command and had been entrusted with defending northern Malaya. <i>Courtesy of Paul Godley. Image reproduced from generals.dk.</i></div>
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_16_preview.png)
+<div style="background-color:white;">Lieutenant-General Lewis Macclesfield&nbsp;Heath commanded the III Indian Corps from 1941 to 1942 as part of the Malaya Command and had been entrusted with defending northern Malaya. This photo was taken in 1939&nbsp;at&nbsp;Bassano &amp; Vandyk Studios,&nbsp;38 Dover Street, London. © <i>National Portrait Gallery, London.</i></div>
 
 In Percival’s notes of the meeting, Heath had argued that “there is only one possible course to adopt” and that was to do what Percival ought to have done two days ago, “namely to surrender immediately”. Heath added that the defenders could not “resist another determined Japanese attack and that to sacrifice countless lives by a failure to appreciate the true situation would be an act of extreme folly”.[^10] Bennett agreed with Heath and dismissed Percival’s proposal for a counterattack. When Percival sought the opinion of others, Simmons was recorded to have said that he was “reluctant to surrender”, but could see no other alternative.[^11]
 
@@ -92,7 +92,7 @@ Newbigging has generally been identified as the officer who carried the Union Ja
 Newbigging was the Deputy Adjutant-General, Malaya Command, from 1941 to 1942 and had received the Military Cross for his actions during World War I. He had first gone with Wild and Hugh Fraser, colonial secretary of the Straits Settlements, to deliver a letter from Percival to Yamashita following the morning meeting. They met with Colonel Ichiji Sugita (who would serve as Yamashita’s interpreter later that afternoon), who handed a letter to Newbigging requesting that Percival personally meet with Yamashita.[^23]
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_12.png)
-<div style="background-color:white;">“The Meeting of General Yamashita and General Percival” (1942), an oil painting by Saburo Miyamoto.&nbsp;<i>Image reproduced from Stanley Tan Tik Loong,&nbsp;Reflections &amp; Memories of War Vol 1: Battle of Singapore: Fall of the Impregnable Fortress&nbsp;(Singapore: National Archives of Singapore, 2011),&nbsp;xx. (From National Library, Singapore, call no. RSING 940.5425957 TAN).</i></div>
+<div style="background-color:white;">“The Meeting of General Yamashita and General Percival” (1942), an oil painting by Saburo Miyamoto.&nbsp;<i>Image reproduced from Stanley Tan Tik Loong,&nbsp;Reflections &amp; Memories of War Vol 1: Battle for Singapore: Fall of the Impregnable Fortress&nbsp;(Singapore: National Archives of Singapore, 2011),&nbsp;294. (From National Library, Singapore, call no. RSING 940.5425957 TAN).</i></div>
 
 A week after the surrender meeting, and while incarcerated at Changi Prison, Newbigging was said to have spoken to Sugita after British internees realised a massacre of the Chinese population was taking place. He is reported to have said: “I ask that you should not shoot any more Chinese and that you should not ask our men to assist you by burying them.”[^24]
 
@@ -173,6 +173,9 @@ Whatever decision taken on 15 February 1942 may not have made a difference to th
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <b>BATTLEBOX AND FORMER FORD FACTORY</b><br><br>
 The meeting on 15 February 1942 when Lieutenant-General Arthur E. Percival, General Officer Commanding Malaya, made the decision to surrender with 11 other commanders took place at the Battlebox – an underground bunker at Fort Canning. Admission to the Battlebox is free. (For more details, see https://battlebox.sg/)<br><br>
+<img src="/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_17.png">
+Entrance to the Battlebox, 2022. It is currently a museum and tourist attraction. <i>Photo by Jimmy Yap.</i>
+	<br><br>
 The actual surrender took place on the premises of the Ford Factory in Bukit Timah, which had been turned into the temporary headquarters of Lieutenant-General Tomoyuki Yamashita, Commander of the Japanese 25th Army. On the afternoon of 15 February, Percival met Yamashita at the factory to discuss surrender terms. Yamashita demanded an immediate, unconditional surrender and threatened to launch a devastating attack on the city that night. Percival signed the surrender document at 7.50 pm.<br><br>
 <img src="/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_14.png">
 Facade of the old Ford Factory on Upper Bukit Timah Road. <i>Courtesy of National Archives of Singapore.</i>
@@ -227,7 +230,7 @@ Today, the surrender site is known as the Former Ford Factory. It houses a perma
 
 [^21]: Bradley,  [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918), 5–6.
 
-[^22]: A discussion on who carried the Union Jack can be found in  _[Reflections &amp; Memories of War Vol 1: Battle of Singapore: Fall of the Impregnable Fortress](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14251298)_ (p. 293), and [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918) (p. 91). In Cyril Wild’s biography, James Bradley states that Thomas Kennedy Newbigging carried the Union Jack when contact was first made, while Kenneth Sanderson Torrance carried the Union Jack at the surrender meeting with Yamashita. In _[The Fall of Singapore: 90 Days](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288)_ (p. 668), a photograph of the surrender party identifies Newbigging as the officer who carried the Union Jack.
+[^22]: A discussion on who carried the Union Jack can be found in  _[Reflections &amp; Memories of War Vol 1: Battle for Singapore: Fall of the Impregnable Fortress](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14251298)_ (p. 293), and [_Cyril Wild_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14337918) (p. 91). In Cyril Wild’s biography, James Bradley states that Thomas Kennedy Newbigging carried the Union Jack when contact was first made, while Kenneth Sanderson Torrance carried the Union Jack at the surrender meeting with Yamashita. In _[The Fall of Singapore: 90 Days](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14296288)_ (p. 668), a photograph of the surrender party identifies Newbigging as the officer who carried the Union Jack.
 
 [^23]: Peter Thompson, _[The Battle of Singapore: The True Story of the Greatest Catastrophe of World War II](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200184105)_ (London: Piatkus, 2006), 487. (From National Library, Singapore, call no. 940.5425)
 

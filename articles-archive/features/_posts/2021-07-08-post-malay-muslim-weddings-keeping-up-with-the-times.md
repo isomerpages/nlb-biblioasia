@@ -4,6 +4,7 @@ date: 2021-07-08
 permalink: /vol-17/issue-2/jul-sep-2021/malay-weddings/
 image: /images/vol-17-issue-2/malayweddings/MalayWedding-Main.jpg
 layout: post
+variant: markdown
 ---
 #### Customs and traditions change over time. **Asrina Tanuri** and **Nadya Suradi** trace how Malay-Muslim weddings in Singapore have evolved since the 1950s.
 
@@ -210,7 +211,7 @@ Today, however, the <i>mak andam</i> has been relegated to a less important role
 
 [^11]: [Muhammad Ariff Ahmad](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12993522), 2007, pp. 274–275; Hadijah Rahmat. (2005). *[Kilat senja: Sejarah sosial dan budaya kampung-kampung di Singapura](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182)* (pp. 243–244). Singapore: HS Yang Publishing. (Call no.: Malay RSING 959.57 HAD) 
 
-[^12]: Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). *[Oral history interview with Abu Talib bin Ally](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5a6951c5-115e-11e3-83d5-0050568939ad-OHC001216_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=21)* [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
+[^12]: Encik Abdul Ghani bin Hamid (Interviewer). (1991, January 16). *[Oral history interview with Abu Talib bin Ally](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5a6951c5-115e-11e3-83d5-0050568939ad-OHC001216_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=21)* [MP3 recording no. 001216/11/3, p. 63]. Retrieved from National Archives of Singapore website. 
 
 [^13]: Mohd Yussoff Ahmad. (Interviewer). (1987, March 12). *[Oral history interview with Aliman bin Hassan (Haji)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fee070a7-115d-11e3-83d5-0050568939ad)* [MP3 recording no. 000797/11/2]. Retrieved from National Archives of Singapore website. 
 
