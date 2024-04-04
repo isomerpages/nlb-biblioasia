@@ -220,7 +220,7 @@ As Singaporeans bid farewell to a much-loved icon, we look back at some of the d
 
 |4. Ng, B. (Interviewer). (2012, November 1). *[Oral history interview with George Yuille Caldwell](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1c80cc22-1163-11e3-83d5-0050568939ad)* [MP3 recording no. 003776/38/14]. Retrieved from National Archives of Singapore website.|
 
-|5. Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d8484310-1160-11e3-83d5-0050568939ad-OHC003058_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=1)* [Transcript of MP3 recording no. 003058/07/03, pp. 65–67]. Retrieved from National Archives of Singapore website.|
+|5. Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/d8484310-1160-11e3-83d5-0050568939ad-OHC003058_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of MP3 recording no. 003058/07/03, pp. 65–67]. Retrieved from National Archives of Singapore website.|
 
 |6. *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721122-1.2.2)*, 22 Nov 1972, p. 1.|
 
