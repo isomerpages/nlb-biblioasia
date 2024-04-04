@@ -4,6 +4,13 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/history/2024/4/cats-rats-parachute-malaya/">It’s a Cat’s Life: Airborne Felines Fight in War Against Rats</a>
+
+In 1960, 23 unsuspecting cats found themselves being airdropped into Bario, Sarawak, as part of a rat-busting operation.
+
+<img src="/images/Online%20Only%20Articles/Cats/kuching.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/history-ice-making-singapore/">A Cool Business: The History of Ice-Making in Singapore</a>
 
 Ice has been an indispensable commodity in tropical Singapore since the late 19th century.
