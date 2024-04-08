@@ -2,6 +2,7 @@
 title: Test2
 permalink: /holding-area/permalink/
 description: ""
+variant: markdown
 ---
 # Practice Here
 **Bold here**<br>
@@ -86,3 +87,6 @@ Hyperlink here: (see coding below)
 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>HOW THE STREETS GOT THEIR NAMES </b><br><br></div></div></div>
+
+#### **Create oval Author's photo**
+<img style="width:auto;height:110px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/Authors/akshata%20patkar.jpg">
