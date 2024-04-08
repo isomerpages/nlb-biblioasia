@@ -114,7 +114,7 @@ Key had, of course, spent the previous years taking on all-comers in Singapore a
 
 The promoters moved quickly. Battling Key would fight Yeo on 4 March 1927 at the Happy Valley arena for the featherweight championship title of Malaya. A better script could not have been written. For the first time in Singapore’s boxing history, two local Chinese were providing the main event. One a pioneering legend; the other hammering on the door to greatness. Tickets were set at $3, $2, $1 and 50 cents, with the _Malaya Tribune_ predicting a “crush at the box office”.[^32]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image6.jpg)
+![](/images/Vol%2020%20Issue%202/Boxing/Image6a.jpg)
 <div style="background-color: white;">An advertisement for the first match between Battling Key and Yeo Choon Song (Y.C. Song) on 4 March 1927. <i>Image reproduced from Malaya Tribune, 3 March 1927, 7. (From NewspaperSG).</i></div>
 
 
@@ -130,7 +130,7 @@ It is a pity that no photos or ephemera exist from the second encounter between 
 
 A third, deciding encounter took place 14 months later, on 5 October 1928 – this time at Singapore’s premier venue, the New World stadium. Newspapers hyped up the animosity between the two, going back to the time Yeo had complained about Key’s gloves during the duo’s first encounter the previous year.[^37]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image8.jpg)
+![](/images/Vol%2020%20Issue%202/Boxing/Image8a.jpg)
 <div style="background-color: white;">An advertisement for the third match between Battling Key and Yeo Choon Song (Y.C. Song) on 5 October 1927. <i>Image reproduced from Malaya Tribune, 4 October 1928, 12. (From NewspaperSG).</i></div>
 
 “Followers of boxing can rest assured of an exciting fight, for neither of the pair has any love for the other,” wrote the _Malaya Tribune_. “In other words, it will be a grudge fight.” Key even baited his younger opponent, saying he hoped Yeo would actually fight and “not turn the ring into a race track”.[^38]
