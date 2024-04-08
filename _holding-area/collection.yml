@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - The Scoop on Otak Blangah.md
       - Soon Kueh Stories.md
       - Peeling Back the Layers of Bunga Kobis.md
       - Rediscovering Mee Maidin.md
