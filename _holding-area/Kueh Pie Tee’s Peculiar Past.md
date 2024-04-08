@@ -4,7 +4,7 @@ permalink: /holding-area/kueh-pie-tee/
 variant: markdown
 description: ""
 ---
-#### Where did _kueh pie tee_ get its name? Why is it considered a Peranakan dish? Cookbook author Christopher Tan dives into the mystery of this crispy snack as he makes them using vintage moulds.<br>
+#### Where did _kueh pie tee_ get its name? Why is it considered a Peranakan dish? Cookbook author Christopher Tan dives into the mystery of this crispy snack as he makes them using vintage moulds.
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/w_d1IQKeguM" frameborder="0" allowfullscreen=""></iframe></div><br>
 
