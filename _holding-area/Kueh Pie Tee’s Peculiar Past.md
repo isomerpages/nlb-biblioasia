@@ -32,4 +32,3 @@ Christopher used different moulds to make the _pie tee_ shells, including local 
 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/Kueh%20pie%20tee/american_moulds_set.jpg" style="width:80%">
 <div style="background-color: white;">The American moulds by Hirco came in a set of many different shapes and could be unscrewed from the handle.</div>
-
