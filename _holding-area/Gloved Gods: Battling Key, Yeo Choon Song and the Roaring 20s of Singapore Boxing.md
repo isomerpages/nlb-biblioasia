@@ -41,7 +41,7 @@ It also lent itself to betting. In a remarkably short span of time, boxing bouts
 
 The first local hero was an unlikely one – a Straits Chinese named Tan Teng Kee. Born in 1898 to a respected family whose head was a _sinseh_ (traditional Chinese physician), Tan had attended the venerable St Joseph’s Institution – a natural stepping stone to a “respectable” white-collar profession.[^9] To the family’s shock though, Tan decided to don boxing gloves. His nom de guerre: Battling Key.
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image2.jpg)
+![](/images/Vol%2020%20Issue%202/Boxing/Image2a.jpg)
 <div style="background-color: white;">Battling Key, the lightweight champion. <i>Image reproduced from Malayan Saturday Post, 30 July 1927, 32. (From NewspaperSG).</i></div>
 
 The circumstances leading up to Battling Key’s decision are lost to history. What is known is that by August 1921, only a year after boxing had come to Singapore, he was facing off against a certain C. Oehlers in the final of the colony’s amateur lightweight championship at the packed Palladium Theatre (site of the Orchard Gateway today).[^10]
@@ -101,7 +101,7 @@ Even as boxing flourished in the colony, a nagging doubt crept into promoters’
 
 Luckily for the promoters, even as Battling Key was thrilling audiences, yet another strapping Straits Chinese fighter was biding his time. Legend has it that Yeo Choon Song (known as Y.C. Song in the press), a boxing-besotted teenager like many of his contemporaries, was in the audience for an evening of bouts at Happy Valley when he remarked to his friends: “I think I can beat most of those boxers.”[^28]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image7_.jpg)
+![](/images/Vol%2020%20Issue%202/Boxing/Image7_a.jpg)
 <div style="background-color: white;">Yeo Choon Song (Y.C. Song), the featherweight champion. <i>Image reproduced from Malayan Saturday Post, 30 July 1927, 32. (From NewspaperSG).</i></div>
 
 As luck would have it, one of Yeo’s friends was acquainted with boxing manager Tan Ngee Yong and took Yeo to meet Tan at River Valley Road the very next morning. Within a year, Tan and his burly Straits Chinese protege had become a crack team. In 1924, when he was all of 18, Yeo went on a tear – winning 20 fights in a row and becoming known for his fearlessness backed with quick, accurate punches with the right-hand, a walloping left and a solid defence.[^29]
