@@ -58,8 +58,8 @@ Prior to the 1970s, Singapore used three different systems of weights and measur
 
 #### **Related Books**
 
-Hing, Susie.&nbsp;_[In a Malayan Kitchen](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437)_.&nbsp;Singapore: Mun Seong Press, 1956. (From National Library, Singapore, call no. RCLOS **641.59595 HIN-\[RFL\]**)
+Hing, Susie.&nbsp;_[In a Malayan Kitchen](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437)_.&nbsp;Singapore: Mun Seong Press, 1956. (From National Library, Singapore, call no. RCLOS 641.59595 HIN-\[RFL\])
 
-Lee, Chin Koon. _[Mrs. Lee's Cookbook: Nonya Recipes and Other Favourite Recipes](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081778)_. Singapore: The Author, 1974. (From National Library, Singapore, call no. RSING **641.595957 LEE**)
+Lee, Chin Koon. _[Mrs. Lee's Cookbook: Nonya Recipes and Other Favourite Recipes](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081778)_. Singapore: The Author, 1974. (From National Library, Singapore, call no. RSING 641.595957 LEE)
 
 Wee, Sharon. _[Growing Up In a Nonya Kitchen: Singapore Recipes From My Mother](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14293039)_. Singapore: Marshall Cavendish Cuisine, 2012. (From National Library, Singapore, call no. RSING 641.595957 WEE)
