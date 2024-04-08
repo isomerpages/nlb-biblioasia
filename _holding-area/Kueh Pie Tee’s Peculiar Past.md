@@ -24,3 +24,12 @@ Susie Hing’s recipe is for “Kroket Tjanker (Java Kwei Patti)”, but accordi
 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/Kueh%20pie%20tee/kwei_patti_recipe.png" style="width:80%">
 <div style="background-color: white;">Recipe for <i>kwei patti</i>, showing measurements in ounces and <i>kati</i>. These imperial and local measurements were dropped after the metric system was adopted in Singapore in 1971.</div>
+
+Christopher used different moulds to make the _pie tee_ shells, including local modern and vintage _pie tee_ moulds, and American moulds.
+
+<img src="/images/Videos:%20From%20Book%20to%20Cook/Kueh%20pie%20tee/american_moulds_box.jpg" style="width:80%">
+<div style="background-color: white;">The American moulds made by Hirco, perhaps sometime during the 1950s–70s.</div><br>
+
+<img src="/images/Videos:%20From%20Book%20to%20Cook/Kueh%20pie%20tee/american_moulds_set.jpg" style="width:80%">
+<div style="background-color: white;">The American moulds by Hirco came in a set of many different shapes and could be unscrewed from the handle.</div>
+
