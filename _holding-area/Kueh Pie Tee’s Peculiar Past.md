@@ -14,9 +14,7 @@ Join award-winning cookbook author Christopher Tan as he investigates the myster
 Using both local moulds and American “patty irons” dating back to the 1950s–70s, Christopher shows us the different shell shapes that can be made, and how the fillings have changed over time – from cream or milk-based sauces in the Western version to those inspired by the local <i>popiah</i>.
 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/Kueh%20pie%20tee/kueh_pie_tee.png" style="width:80%">
-<div style="background-color: white;"><i>Kueh pie tee</i> shells with rims, also called “top hats”. Commercially made shells do not typically come with rims as they break easily during the packing process.</div>
-
-
+<div style="background-color: white;"><i>Kueh pie tee</i> shells with rims, also called “top hats”. Commercially made shells do not typically come with rims as they break easily during the packing process.</div><br>
 <img src="/images/Videos:%20From%20Book%20to%20Cook/Kueh%20pie%20tee/christopher_paddy.png" style="width:80%">
 <div style="background-color: white;">Host Paddy (left) watching nervously as Christopher blots excess hot oil from one of the moulds before it is dipped into the batter and returned to hot oil for frying.</div>
 
@@ -33,3 +31,35 @@ Christopher used different moulds to make the _pie tee_ shells, including local 
 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/Kueh%20pie%20tee/american_moulds_set.jpg" style="width:80%">
 <div style="background-color: white;">The American moulds by Hirco came in a set of many different shapes and could be unscrewed from the handle.</div>
+
+#### **Related Articles**
+
+[Peranakan (Straits Chinese) Community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1138ea9d-9dbe-4f09-9fef-ba2c7105eb91)
+
+In Singapore today, the term “Peranakan” generally refers to a person of mixed Chinese and Malay/Indonesian heritage. Many Singapore Peranakans trace their origins to 15th-century Melaka, where their ancestors were thought to be Chinese traders who married local women.
+
+[Babas and Nonyas: The Peranakan Chinese in Singapore](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/baba-nonya-peranakan-chinese/)
+
+The local Baba community has a social history that is as fascinating as their material culture is colourful. Known as Peranakan (or Peranakan Cina), the Babas are an acculturated community of Southern Chinese domiciled in the Straits Settlements since they first settled in Melaka in the 16th century.
+
+[Love Is a Many-Layered Thing](https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/kueh-lapis)  
+What lies in this vale of tiers? Christopher Tan delves into _lapis legit_, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers.
+
+[The Evolution of Straits-born Cuisine](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine/)
+
+Lee Geok Boi looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be.
+
+[“Mrs Beeton” in Malaya: Women, Cookbooks and the Makings of the Housewife](https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/beeton-malaya-women-cookbooks-housewives/)
+
+Beyond their literal content, cookbooks offer interesting insights into the domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
+
+[Milestones to the Metric System](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/metric)  
+Prior to the 1970s, Singapore used three different systems of weights and measures. Shereen Tay traces how we transitioned to the metric system.
+
+#### **Related Books**
+
+Hing, Susie.&nbsp;_[In a Malayan Kitchen](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437)_.&nbsp;Singapore: Mun Seong Press, 1956. (From National Library, Singapore, call no. RCLOS **641.59595 HIN-\[RFL\]**)
+
+Lee, Chin Koon. _[Mrs. Lee's Cookbook: Nonya Recipes and Other Favourite Recipes](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081778)_. Singapore: The Author, 1974. (From National Library, Singapore, call no. RSING **641.595957 LEE**)
+
+Wee, Sharon. _[Growing Up In a Nonya Kitchen: Singapore Recipes From My Mother](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14293039)_. Singapore: Marshall Cavendish Cuisine, 2012. (From National Library, Singapore, call no. RSING 641.595957 WEE)
