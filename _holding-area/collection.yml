@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "Sea Snail & Papaya Curry: A Eurasian Specialty.md"
       - The Scoop on Otak Blangah.md
       - Soon Kueh Stories.md
       - Peeling Back the Layers of Bunga Kobis.md
