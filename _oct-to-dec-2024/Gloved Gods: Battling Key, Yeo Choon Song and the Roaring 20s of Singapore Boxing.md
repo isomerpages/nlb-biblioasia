@@ -13,7 +13,7 @@ By Abhishek Mehrotra
 
 On 15 July 1896, an advertisement in the _Straits Times Maritime Journal and General News_ invited readers in Singapore to witness what it promised would be a marvellous exhibition of boxing by “The Wonder of the Age – ‘Peter Jackson’”. [^1]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image1.png)
+<img src="/images/Vol%2020%20Issue%202/Boxing/Image1.png" style="width: 85%;">
 
 This would normally not have caught the attention of this 21st-century researcher had it not been for a singular fact: Peter Jackson was a boxing kangaroo. It had arrived in Singapore from Fremantle, Western Australia, on the steamship _Sultan_ in June.[^2]
 
@@ -65,7 +65,7 @@ Crowds would often follow Key whenever he emerged on the streets and reports fro
 
 In October 1923, two months after it was inaugurated, New World amusement park hosted its biggest event. Battling Key, by now the undisputed lightweight champion of all of Malaya, was up against Young Pelky (real name Lope Tenorio; he would later rank within the top five junior lightweights in the US), a tall, slim Filipino who “carried a punch like a mule’s kick” in a 10-round blockbuster.[^18]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image4.png)
+<img src="/images/Vol%2020%20Issue%202/Boxing/Image4.png" style="width: 85%;">
 <div style="background-color: white;">New World amusement park opened on 1 August 1923. The match between Battling Key and Young Pelky was held there two months later. <i>David Turner Collection, courtesy of National Archives of Singapore. </i></div>
 
 The atmosphere was electric. Ticket prices for ringside seats around the open-air arena had been hiked from the standard $5 to $10 (and even resold for $20 and more) and yet not a single one was unoccupied. Around them, a crowd of 6,000 shifted restlessly as dusk fell on the mid-October day. Powerful lamps from all four corners set the ring aglow. The local man strode out first, to a massive roar. Young Pelky, a showman himself, took his time – walking leisurely and chatting with friends in the crowd – before making his way to the ring.[^19]
@@ -76,7 +76,7 @@ The first few rounds were evenly matched before Pelky’s cannons started findin
 
 Lesser men may have thrown in the towel, but the battered Key returned for the eighth round. It took four more thunderous blows from Pelky, including one square on the jaw, before the local hero hit the floor and stayed there. The Filipino had won but the _Straits Times_ noted that “the courage with which Key stuck it to the end made him the popular hero”.[^22] Later reports claimed that the many Chinese women who had come to witness their idol left the arena weeping.[^23]
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image5.jpg)
+<img src="/images/Vol%2020%20Issue%202/Boxing/Image5.jpg" style="width: 85%;">
 <div style="background-color: white;">Battling Key (second from left) with Young Aman, N.A. Jansen, Makatangay and L.S. Fond. <i>Image reproduced from Malayan Saturday Post, 20 July 1929, 17. (From NewspaperSG).  </i></div>
 
 #### **Promoting Boxing**
@@ -147,8 +147,7 @@ Key lasted the entire 10 rounds, hanging on in the hopes of landing a miraculous
 
 The Key–Yeo fights gave an enormous boost to boxing in Singapore, setting the stage for the 1930s, a decade that many would go on to describe as the “golden age of boxing”. In 1930, one of Singapore’s earliest sports magazines – _The Sportsman_ – was launched with boxing’s popularity reflected in the enormous space devoted to it.[^41] Schoolboys who could not afford tickets to fights collected and exchanged posters. Some even cut out photos of their favourite boxers from newspaper articles to create entire albums. In 1931, another entertainment venue, Great World, was established with regular, well-attended fight nights.[^42]
 
-
-![](/images/Vol%2020%20Issue%202/Boxing/Image11.jpg)
+<img src="/images/Vol%2020%20Issue%202/Boxing/Image11.jpg" style="width: 85%;">
 <div style="background-color: white;">Great World, which opened on 1 June 1931, was the venue of boxing matches. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
 
 
@@ -156,7 +155,7 @@ For the two men who had done so much for the sport though, the end was long draw
 
 Two years later, Yeo reappeared in the ring and carried on until 1935, when his final fight against the middling Al Nichlos ended in a draw.[^44] As far as written records are concerned, Yeo seemed to have dropped off the pages of history. A retrospective look at his career in 1947 bemoaned the fact that “had he come under the wing of an experienced trainer-manager”, he might have become as famous as the man he had dethroned in 1928.[^45] Yeo’s disappearance was characteristically understated: even during his fighting days, he had never been the most colourful of characters, letting his fists to do all the talking.
 
-![](/images/Vol%2020%20Issue%202/Boxing/Image9.jpg)
+<img src="/images/Vol%2020%20Issue%202/Boxing/Image9.jpg" style="width: 85%;">
 <div style="background-color: white;">Battling Key died on 20 March 1935 after a match with Jimmy Nelson of Kuala Lumpur. <i>Image reproduced from “Battling Key Dies After Contest,” Malaya Tribune, 20 March 1935, 12. (From NewspaperSG).</i></div>
 
 Battling Key, on the other hand, simply refused to give up boxing even after his losses to Yeo had made it clear his best days were behind him. Promoters were wary of backing an ageing fighter and in the 1930s, Key was reduced to traipsing round with a scrapbook under his arm, pleading with his former acquaintances in the boxing fraternity to give him another chance. Eventually, the Singapore Boxing Board of Control – formed sometime in the early 1930s to ensure boxer safety – banned him from fighting in the colony on account of his health.[^46]
