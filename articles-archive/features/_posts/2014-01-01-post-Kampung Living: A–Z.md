@@ -241,7 +241,7 @@ Campbell, W. (1974, March 15). [Trading patterns change to keep pace with modern
 
 Chan, K.S. (2001, November 26). [Cooking with old king coal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011126-1.2.93.4.3). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
 
-Chew, D. (Interviewer). (1984, January 17). <a href="https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7"><i>Oral history interview with Mable Martens</i></a> [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
+Chew, D. (Interviewer). (1984, January 17). <a href="https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7"><i>Oral history interview with Mabel Martens</i></a> [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
 
 Chew, D. (Interviewer). (1985, February 15). <a href="https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9"><i>Oral history interview with Ronald Benjamin Milne</i></a> [Transcript of MP3 recording no. 000447/64/63, pp. 562, 566]. Retrieved from National Archives of Singapore website.
 
@@ -398,7 +398,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^38]: Irahhajerah. (2011, May 1). <i>Ingat tak mainan canggih kita zaman kanak-kanak dulu harga dia 20 sen jer?</i> Retrieved from irahhajerah.blogspot.sg website.
 
-[^39]: Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
+[^39]: Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
 
 [^40]: Soo, E.J. (2010, August 23). Is the old 555 notebook or the new iPad better. <i>AsiaOne</i>. Retrieve from AsiaOne website. 
 
