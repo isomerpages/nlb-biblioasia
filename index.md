@@ -25,7 +25,7 @@ sections:
         into Bario, Sarawak, as part of a rat-busting operation.
       button: It’s Raining Cats!
       url: /history/2024/4/cats-rats-parachute-malaya/
-      image: /images/Online Only Articles/Cats/kuching.png
+      image: /images/Online Only Articles/Cats/valetta.png
       alt: Image alt text
   - infopic:
       title: "Chia Boon Leong: The Homegrown Football Olympian"
@@ -922,4 +922,14 @@ sections:
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
       image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
+  - infopic:
+      title: Battling Key, Yeo Choon Song and Singapore Boxing
+      subtitle: Sports
+      id: infopic
+      description: In the aftermath of World War I, the “noble art” became wildly
+        popular in Singapore thanks to two Straits Chinese who took on
+        all-comers, including each other.
+      button: PULLING NO PUNCHES
+      url: /vol-20/issue-3/oct-dec-2024/singapore-boxing-battling-key-yeo-choon-song/
+      alt: Image alt text
 ---
