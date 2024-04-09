@@ -923,7 +923,7 @@ sections:
       image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
   - infopic:
-      title: "Gloved Gods: Yeo Choon Song and the Roaring 20s of Boxing"
+      title: Battling Key, Yeo Choon Song and Singapore Boxing
       subtitle: Sports
       id: infopic
       description: In the aftermath of World War I, the “noble art” became wildly
