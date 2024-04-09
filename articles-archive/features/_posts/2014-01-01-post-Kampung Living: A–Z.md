@@ -368,7 +368,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^23]: Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicilan.wordpress.com website.
 
-[^24]: [Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), 15 Feb 1985, p. 562.
+[^24]: [Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), 15 Feb 1985, p. 562.
 
 [^25]: Leong, S. (2008–2013). Hantam bola. Retrieved from [http://www.singsupplies.com/showthread.php?152987-Hantam-bola](http://www.singsupplies.com/showthread.php?152987-Hantam-bola)
 
