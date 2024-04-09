@@ -932,4 +932,5 @@ sections:
       button: PULLING NO PUNCHES
       url: /vol-20/issue-3/oct-dec-2024/singapore-boxing-battling-key-yeo-choon-song/
       alt: Image alt text
+      image: /images/Vol 20 Issue 3/Boxing/Image1.png
 ---
