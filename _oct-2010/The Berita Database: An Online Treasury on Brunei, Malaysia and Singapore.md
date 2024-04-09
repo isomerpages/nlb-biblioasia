@@ -3,6 +3,7 @@ title: "The Berita Database: An Online Treasury on Brunei, Malaysia and Singapor
 permalink: /vol-6/issue-4/jan-2011/brunei-malaysia-singapore-berita-treasury/
 description: Jeffrey L. Ferrier, a curator at the Ohio University Libraries,
   introduces the Berita Database managed by the staff at Ohio University.
+variant: markdown
 ---
 #### *Jeffrey L. Ferrier*, a curator at the Ohio University Libraries, introduces the Berita Database managed by the staff at Ohio University.
 
@@ -38,8 +39,6 @@ The David K. Wyatt Thai Database (<a href="cicdatabank.library.ohiou.edu/opac/th
 Another unique and exciting resource for those interested in the Chinese Diaspora is the Database for Publications on Overseas Chinese (<a href="cicdatabank.library.ohiou.edu/opac/overseas.php">cicdatabank.library.ohiou.edu/ opac/overseas.php</a>). Researchers can locate references for periodical articles, books, and book chapters on the overseas Chinese in many parts of the world. Its wide geographic and linguistic scope makes this database a critical research aid to all those interested in this subject. Published works on the diasporic Chinese in Mandarin, Japanese, English, Dutch, Malay, Thai and other Western languages can be found here.
 
 The far reach of these online resources is clearly demonstrated by the fact that the CIC Databank was accessed 18,958 times by users from 136 different countries between January 2009 and January 2010, according to data gathered by Google Analytics. For many, these databases open doors to a wide variety of rich historical resources.
-
-**Individuals who would like additional information on any of the databases mentioned in this article may contact Jeffrey Ferrier, Curator of the Center for International Collections, Ohio University Libraries, at <a href="https://www.ohio.edu/cis/profile/ferrier">https://www.ohio.edu/cis/profile/ferrier</a>**
 
 <br>
 <div style="background-color: white;">
