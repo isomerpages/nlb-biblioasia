@@ -356,7 +356,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^17]: Salmah Semono. (1979, March 4). [Pemainan masa lalu jalin ikatan kejiranan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19790304-1.2.23). <i>Berita Harian</i>, p. 4. Retrieved from NewspaperSG.
 
-[^18]: Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9)* [Transcript of MP3 recording no. 000447/64/63, p. 566]. Retrieved from National Archives of Singapore website.
+[^18]: Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9)* [Transcript of MP3 recording no. 000447/64/63, p. 566]. Retrieved from National Archives of Singapore website.
 
 [^19]: “Orang Sebarang”. (1936, July 23). [And then the durian. Too costly in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360723-1.2.148.3). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
