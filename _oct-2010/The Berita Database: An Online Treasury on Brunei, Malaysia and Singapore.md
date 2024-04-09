@@ -3,6 +3,7 @@ title: "The Berita Database: An Online Treasury on Brunei, Malaysia and Singapor
 permalink: /vol-6/issue-4/jan-2011/brunei-malaysia-singapore-berita-treasury/
 description: Jeffrey L. Ferrier, a curator at the Ohio University Libraries,
   introduces the Berita Database managed by the staff at Ohio University.
+variant: markdown
 ---
 #### *Jeffrey L. Ferrier*, a curator at the Ohio University Libraries, introduces the Berita Database managed by the staff at Ohio University.
 
@@ -20,7 +21,7 @@ This online database allows researchers to find references to relevant books, bo
 *Berita* includes many important periodicals, which cover a wide variety of subjects relating to Brunei, Malaysia and Singapore, including titles published in Asia, Australia, the United States and Europe. These indexed periodicals include: *Aka-demika*; *Art and Asia Pacific*; *Asian Studies Review*; *Borneo Research Bulletin*; *Contemporary Southeast Asia*; *Dewan Bahasa*; *Dewan Sastera*; *Indonesia and the Malay World*; *The Journal of Development Communication*; *Journal of Tropical Forest Science*; *Journal of the Malaysian Branch of the Royal Asiatic Society*; *Review of Indonesian and Malaysian Affairs*; *Sarawak Museum Journal*; *Jurnal Institut Perkhidmatan Awam*; and *Singapore Economic Review and Sojourn*. A complete list of the serials that *Berita* covers is available online.
 
 <img style="width:80%;" src="/images/Vol%206%20Issue%203/BeritaDatabase/Presentation2.jpg">
- <div style="background-color: white;">From left: A rare Thai book, *Āthit kap phændin Thai*, on the Thai resistance to the Japanese invasion during WW II. <i>All rights reserved, Samnakphim Sahakit, 1949</i>; <i>All rights reserved, Institute of Southeast Asian Studies</i>; <i>All rights reserved, Institute of Southeast Asian Studies</i>.</div>
+ <div style="background-color: white;">From left: A rare Thai book, <i>Āthit kap phændin Thai</i>, on the Thai resistance to the Japanese invasion during WW II. <i>All rights reserved, Samnakphim Sahakit, 1949</i>; <i>All rights reserved, Institute of Southeast Asian Studies</i>; <i>All rights reserved, Institute of Southeast Asian Studies</i>.</div>
 
 In addition to periodical articles, the database also includes individual book chapters, books, and selected conference papers. The diversity of publication formats and languages it offers, combined with the free access for researchers worldwide, makes *Berita* an especially valuable research tool.
 
@@ -38,8 +39,6 @@ The David K. Wyatt Thai Database (<a href="cicdatabank.library.ohiou.edu/opac/th
 Another unique and exciting resource for those interested in the Chinese Diaspora is the Database for Publications on Overseas Chinese (<a href="cicdatabank.library.ohiou.edu/opac/overseas.php">cicdatabank.library.ohiou.edu/ opac/overseas.php</a>). Researchers can locate references for periodical articles, books, and book chapters on the overseas Chinese in many parts of the world. Its wide geographic and linguistic scope makes this database a critical research aid to all those interested in this subject. Published works on the diasporic Chinese in Mandarin, Japanese, English, Dutch, Malay, Thai and other Western languages can be found here.
 
 The far reach of these online resources is clearly demonstrated by the fact that the CIC Databank was accessed 18,958 times by users from 136 different countries between January 2009 and January 2010, according to data gathered by Google Analytics. For many, these databases open doors to a wide variety of rich historical resources.
-
-**Individuals who would like additional information on any of the databases mentioned in this article may contact Jeffrey Ferrier, Curator of the Center for International Collections, Ohio University Libraries, at <a href="https://www.ohio.edu/cis/profile/ferrier">https://www.ohio.edu/cis/profile/ferrier</a>**
 
 <br>
 <div style="background-color: white;">
