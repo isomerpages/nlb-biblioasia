@@ -18,6 +18,17 @@ sections:
       background: /images/vol-11-issue-4/a-singapore-made-quran/quran singapore_hero
         img.jpg
   - infopic:
+      title: Battling Key, Yeo Choon Song and Singapore Boxing
+      subtitle: Sports
+      id: infopic
+      description: In the aftermath of World War I, the “noble art” became wildly
+        popular in Singapore thanks to two Straits Chinese who took on
+        all-comers, including each other.
+      button: PULLING NO PUNCHES
+      url: /vol-20/issue-3/oct-dec-2024/singapore-boxing-battling-key-yeo-choon-song/
+      alt: Image alt text
+      image: /images/Vol 20 Issue 3/Boxing/Image1.png
+  - infopic:
       title: "It’s a Cat’s Life: Airborne Felines Fight War Against Rats"
       subtitle: History
       id: infopic
@@ -922,15 +933,4 @@ sections:
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
       image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
-  - infopic:
-      title: Battling Key, Yeo Choon Song and Singapore Boxing
-      subtitle: Sports
-      id: infopic
-      description: In the aftermath of World War I, the “noble art” became wildly
-        popular in Singapore thanks to two Straits Chinese who took on
-        all-comers, including each other.
-      button: PULLING NO PUNCHES
-      url: /vol-20/issue-3/oct-dec-2024/singapore-boxing-battling-key-yeo-choon-song/
-      alt: Image alt text
-      image: /images/Vol 20 Issue 3/Boxing/Image1.png
 ---
