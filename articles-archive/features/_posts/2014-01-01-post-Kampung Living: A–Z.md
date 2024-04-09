@@ -243,7 +243,7 @@ Chan, K.S. (2001, November 26). [Cooking with old king coal](http://eresources.n
 
 Chew, D. (Interviewer). (1984, January 17). <a href="https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388\_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews\_brandingLogo\_.png&amp;pn=7"><i>Oral history interview with Mable Martens</i></a> [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
 
-Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=9)* [Transcript of MP3 recording no. 000447/64/63, pp. 562, 566]. Retrieved from National Archives of Singapore website.
+Chew, D. (Interviewer). (1985, February 15). <a href="https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=9"><i>Oral history interview with Ronald Benjamin Milne</i></a> [Transcript of MP3 recording no. 000447/64/63, pp. 562, 566]. Retrieved from National Archives of Singapore website.
 
 Chun, S.L. (2008, August 31). More than 1 type of kampong in Singapore. <i>Good Morning Yesterday</i>. Retrieved from Goodmorningyesterday.blogspot.sg. website.
 
