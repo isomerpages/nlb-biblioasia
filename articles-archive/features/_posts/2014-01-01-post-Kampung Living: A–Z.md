@@ -301,7 +301,7 @@ Suppiah, P. (2005, January 20). [A clean break?](http://eresources.nlb.gov.sg/ne
 
 Syair Kampung Gelam Terbakar. <i>Melayu Online</i>. Retrieved from Melayu Online website. 
 
-Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
+Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155\_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews\_brandingLogo\_.png&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
 
 Tan, S., &amp; Tay, M. (2003). <i>World food: Malaysia &amp; Singapore</i> (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
 
