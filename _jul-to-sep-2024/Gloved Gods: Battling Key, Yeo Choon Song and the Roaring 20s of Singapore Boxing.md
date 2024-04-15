@@ -1,7 +1,7 @@
 ---
 title: "Gloved Gods: Battling Key, Yeo Choon Song and the Roaring 20s of
   Singapore Boxing"
-permalink: /vol-20/issue-3/oct-dec-2024/singapore-boxing-battling-key-yeo-choon-song/
+permalink: /vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/
 variant: markdown
 description: In the aftermath of World War I, the “noble art” became wildly
   popular in Singapore thanks to two Straits Chinese who took on all comers,
