@@ -226,8 +226,8 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^40]: [到敌人照相馆拍照 立卑一对男女几遭痛惩](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19380626-1.2.69) 		[“A Couple at Lipis was Almost Severely Punished for Having Their Portrait Taken at the Enemy’s Photo Studio”], 	南洋商报 [*Nanyang Siang Pau*], 26 June 1938, 10. (From NewspaperSG)
 
-[^41]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4428bb12-115f-11e3-83d5-0050568939ad-OHC000333_001/web/html5/index.html), interview, 30 Sep 1983, Reel/Disc 1 of 7, 9.
+[^41]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/462ce10c-115f-11e3-83d5-0050568939ad-OHC000334_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), interview, 30 Sep 1983, Reel/Disc 1 of 7, 9.
 
-[^42]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4428bb12-115f-11e3-83d5-0050568939ad-OHC000333_001/web/html5/index.html), interview, 30 Sep 1983, Reel/Disc 1 of 7, 5.
+[^42]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/462ce10c-115f-11e3-83d5-0050568939ad-OHC000334_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), interview, 30 Sep 1983, Reel/Disc 1 of 7, 5.
 
 [^43]: “[Japanese Go Out of Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19411206-1.2.30).”
