@@ -204,7 +204,7 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^29]: Song Chin Sing, ed., [*Passage of Time: Singapore Bookstore Stories 1881–2016*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202743110) (Singapore: Chou Sing Chu Foundation, 2016), 162–65. (From National Library, Singapore, call no. RSING 070.5095957 CHO)
 
-[^30]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 35. 
+[^30]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 23 Sep 1983, Reel/Disc 3 of 7, 35. 
 
 [^31]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4635e4e9-115f-11e3-83d5-0050568939ad-OHC000334_004/web/html5/index.html), interview 23 Sep 1983, Reel/Disc 4 of 7, 44.
 
