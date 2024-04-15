@@ -208,7 +208,7 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^31]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4635e4e9-115f-11e3-83d5-0050568939ad-OHC000334_004/web/html5/index.html), interview 23 Sep 1983, Reel/Disc 4 of 7, 44.
 
-[^32]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e23cede5-115d-11e3-83d5-0050568939ad-OHC000333_004/web/html5/index.html), oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, 27:38, National Archives of Singapore (accession no. 000333), 49.
+[^32]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/4635e4e9-115f-11e3-83d5-0050568939ad-OHC000334_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, 27:38, National Archives of Singapore (accession no. 000333), 49.
 
 [^33]: [Lim Seng @ Lim Tow Tuan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/27a25577-115f-11e3-83d5-0050568939ad-OHC000089_002/web/html5/index.html), oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 2 of 8, 27:53, National Archives of Singapore (accession no. 000089), 12–15.
 
