@@ -188,7 +188,7 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^21]: [Lee Hin Meng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3754c339-115f-11e3-83d5-0050568939ad), interview, 17 May 1984, Reel/Disc 1 of 3.  
 
-[^22]: [Wong Kum Fatt]https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f0fa15ad-115d-11e3-83d5-0050568939ad-OHC000474_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), oral history interview by Yao Souchou, 6 October 1984, transcript and MP3 audio, Reel/Disc 1 of 6, 27:56, National Archives of Singapore (accession no. 000474), 7.
+[^22]: [Wong Kum Fatt](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f0fa15ad-115d-11e3-83d5-0050568939ad-OHC000474_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), oral history interview by Yao Souchou, 6 October 1984, transcript and MP3 audio, Reel/Disc 1 of 6, 27:56, National Archives of Singapore (accession no. 000474), 7.
 
 [^23]: Elaine Chiew Peck Leng, “Self-Fashioning towards Modernity: Early Chinese Studio Photography of Chinese Women” (unpublished manuscript, 2021), PDF file. This manuscript is prepared for the fulfilment of the Singapore Chinese Cultural Centre grant. 
 
