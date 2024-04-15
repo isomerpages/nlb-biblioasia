@@ -192,7 +192,7 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^23]: Elaine Chiew Peck Leng, “Self-Fashioning towards Modernity: Early Chinese Studio Photography of Chinese Women” (unpublished manuscript, 2021), PDF file. This manuscript is prepared for the fulfilment of the Singapore Chinese Cultural Centre grant. 
 
-[^24]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f95e4eaf-115d-11e3-83d5-0050568939ad-OHC000670_004/web/html5), oral history interview by Ang Siew Ghim, 27 May 1986, transcript and MP3 audio, Reel/Disc 4 of 13, 29:26, National Archives of Singapore (accession no. 000670), 37–38.
+[^24]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f95e4eaf-115d-11e3-83d5-0050568939ad-OHC000670_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Ang Siew Ghim, 27 May 1986, transcript and MP3 audio, Reel/Disc 4 of 13, 29:26, National Archives of Singapore (accession no. 000670), 37–38.
 
 [^25]: 韩山元 [Han Tan Juan], [如何为三千人拍照](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860818-1.2.21.1.1) [“How to Take a Photograph for Three Thousand People”], 联合晚报 [*Lianhe Wanbao*], 18 August 1986, 8. (From NewspaperSG)
 
