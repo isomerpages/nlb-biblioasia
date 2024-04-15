@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran/
-      button: A Qur'an Made in Singapore
+      url: /vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/
+      button: American Troops. Singapore Bands. The Vietnam War
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/vol-11-issue-4/a-singapore-made-quran/quran singapore_hero
-        img.jpg
+      background: /images/Vol 20 Issue 1/Vietnam War/Hero_img_vietnam_war2.jpg
   - infopic:
       title: Battling Key, Yeo Choon Song and Singapore Boxing
       subtitle: Sports
