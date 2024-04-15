@@ -174,7 +174,7 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^14]: Zhuang, “[From the Archives: The Work of Photographer K.F. Wong](https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/wong-ken-foo).”
 
-[^15]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f6118535-115d-11e3-83d5-0050568939ad-OHC000670_013/web/html5), oral history interview by Ang Siew Ghim, 11 June 1986, transcript and MP3 audio, Reel/Disc 13 of 13, 28:50, National Archives of Singapore (accession no. 000670), 136.
+[^15]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f6118535-115d-11e3-83d5-0050568939ad-OHC000670_013/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5), oral history interview by Ang Siew Ghim, 11 June 1986, transcript and MP3 audio, Reel/Disc 13 of 13, 28:50, National Archives of Singapore (accession no. 000670), 136.
 
 [^16]: For a history of Lee Brothers Studio, see Gretchen Liu, “[Portraits from the Lee Brothers Studio](https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/portrait-lee-bro-std/),” *BiblioAsia* 14, no. 1 (April–June 2018). [Note: In 1994, more than 2,500 excess or uncollected prints from Lee Brothers were donated to the National Archives of Singapore by Lee Hin Ming, the eldest son of Lee Poh Yan.]
 
