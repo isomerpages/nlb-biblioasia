@@ -241,9 +241,9 @@ Campbell, W. (1974, March 15). [Trading patterns change to keep pace with modern
 
 Chan, K.S. (2001, November 26). [Cooking with old king coal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011126-1.2.93.4.3). <i>The Straits Times</i>, p. 16. Retrieved from NewspaperSG.
 
-Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mable Martens](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
+Chew, D. (Interviewer). (1984, January 17). <a href="https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7"><i>Oral history interview with Mabel Martens</i></a> [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
 
-Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=9)* [Transcript of MP3 recording no. 000447/64/63, pp. 562, 566]. Retrieved from National Archives of Singapore website.
+Chew, D. (Interviewer). (1985, February 15). <a href="https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9"><i>Oral history interview with Ronald Benjamin Milne</i></a> [Transcript of MP3 recording no. 000447/64/63, pp. 562, 566]. Retrieved from National Archives of Singapore website.
 
 Chun, S.L. (2008, August 31). More than 1 type of kampong in Singapore. <i>Good Morning Yesterday</i>. Retrieved from Goodmorningyesterday.blogspot.sg. website.
 
@@ -301,7 +301,7 @@ Suppiah, P. (2005, January 20). [A clean break?](http://eresources.nlb.gov.sg/ne
 
 Syair Kampung Gelam Terbakar. <i>Melayu Online</i>. Retrieved from Melayu Online website. 
 
-Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
+Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
 
 Tan, S., &amp; Tay, M. (2003). <i>World food: Malaysia &amp; Singapore</i> (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
 
@@ -356,7 +356,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^17]: Salmah Semono. (1979, March 4). [Pemainan masa lalu jalin ikatan kejiranan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19790304-1.2.23). <i>Berita Harian</i>, p. 4. Retrieved from NewspaperSG.
 
-[^18]: Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9)* [Transcript of MP3 recording no. 000447/64/63, p. 566]. Retrieved from National Archives of Singapore website.
+[^18]: Chew, D. (Interviewer). (1985, February 15). *[Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9)* [Transcript of MP3 recording no. 000447/64/63, p. 566]. Retrieved from National Archives of Singapore website.
 
 [^19]: “Orang Sebarang”. (1936, July 23). [And then the durian. Too costly in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360723-1.2.148.3). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
@@ -368,13 +368,13 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^23]: Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicilan.wordpress.com website.
 
-[^24]: [Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), 15 Feb 1985, p. 562.
+[^24]: [Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), 15 Feb 1985, p. 562.
 
 [^25]: Leong, S. (2008–2013). Hantam bola. Retrieved from [http://www.singsupplies.com/showthread.php?152987-Hantam-bola](http://www.singsupplies.com/showthread.php?152987-Hantam-bola)
 
 [^26]: <i>Tengok tu macam tak ada pape</i>. (2012, October 16). Retrieved from Facebook.com website. 
 
-[^27]: Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mable Martens](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
+[^27]: Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mabel Martens](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
 
 [^28]: [An upcountry tourist in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491231-1.2.95.1). (1949, December 31). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
@@ -398,7 +398,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^38]: Irahhajerah. (2011, May 1). <i>Ingat tak mainan canggih kita zaman kanak-kanak dulu harga dia 20 sen jer?</i> Retrieved from irahhajerah.blogspot.sg website.
 
-[^39]: Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
+[^39]: Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
 
 [^40]: Soo, E.J. (2010, August 23). Is the old 555 notebook or the new iPad better. <i>AsiaOne</i>. Retrieve from AsiaOne website. 
 
@@ -410,7 +410,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^44]: [Teh tarik dan jambatan bawa nostalgia masa silam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19900609-1.2.24.9). (1990, June 9). <i>Berita Harian</i>, p. 10. Retrieved from NewspaperSG.
 
-[^45]: Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
+[^45]: Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
 
 [^46]: [Local](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500809-1.2.5). (1850, August 9). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 4. Retrieved from NewspaperSG.
 
