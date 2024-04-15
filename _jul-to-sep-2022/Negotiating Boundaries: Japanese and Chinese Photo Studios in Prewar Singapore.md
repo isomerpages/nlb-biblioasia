@@ -198,7 +198,7 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^26]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c7eca4-115d-11e3-83d5-0050568939ad-OHC000334_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=13), oral history interview by Tan Beng Luan, 23 September 1983, transcript and MP3 audio, Reel/Disc 2 of 7, 28:07, National Archives of Singapore (accession no. 000334), 24–28; [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 23 Sep 1983, Reel/Disc 3 of 7, 30–31.
 
-[^27]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 34.
+[^27]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 23 Sep 1983, Reel/Disc 3 of 7, 34.
 
 [^28]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4428bb12-115f-11e3-83d5-0050568939ad-OHC000333_001/web/html5/index.html), oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
 
