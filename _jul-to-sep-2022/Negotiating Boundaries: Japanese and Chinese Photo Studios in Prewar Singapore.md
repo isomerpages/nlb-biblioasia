@@ -216,9 +216,9 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^35]: 莫美颜 [Mok Mei Ngan], [海南人最早的照相馆](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19980215-1.2.61.1) [“The First Photo Studio of the Hainanese”], 联合早报 [*Lianhe Zaobao*], 15 February 1998, 42. (From NewspaperSG)
 
-[^36]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36–38, 40-41.
+[^36]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36–38, 40-41.
 
-[^37]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36.
+[^37]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36.
 
 [^38]: 王振春 [Wang Zhenchun], [话说密驼路](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205402192) [*Speaking of Middle Road*] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, [如何为三千人拍照](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860818-1.2.21.1.1).  
 
