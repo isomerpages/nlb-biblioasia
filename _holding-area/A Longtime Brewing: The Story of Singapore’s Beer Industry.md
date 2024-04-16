@@ -62,9 +62,22 @@ ABC became synonymous with its main brew, Anchor Beer, a light pilsener that use
 <img src="/images/Online%20Only%20Articles/Beer/sundaytribune_19340121_0002_cropped.png" style="width: 85%;">
 <div style="background-color: white;">This notice was run in the <i>Sunday Tribune</i> announcing ABC’s partnership with Phoneix Aerated Water Works for the retail distribution of Anchor Beer. <i>Image reproduced from “Importance Announcement,” Sunday Tribune, 21 January 1934, 2. (From NewspaperSG).</i></div>
 
-  
+#### **Beer Brewing During the Japanese Occupation**
 
+When war broke out in Europe in 1939, the Germans who were managing ABC left Singapore, putting hundreds of local employees at risk of losing their jobs. The Malayan government formed a committee to manage the brewery in the interim, but ultimately acknowledged that “making beer is not really a Government’s business”.[^18] As a result, ABC was put up for sale by the Malayan government in 1940.[^19] In 1941, Malayan Breweries officially acquired ABC, merging the two competitors.[^20]
 
+The war saw the government implementing new import duties and “wartime taxes” from 1 December 1939, causing an increase in sale prices of beer Adding to this was a shortage of raw materials needed to brew the beer.
+
+The increase in cost did not reduce the demand for beer. In fact, there was an increase in demand for “intoxicating drink” such as beer, whiskey and champagne. For instance, $600,000 worth of liquor was consumed during the holiday season in 1940. This was equivalent to more than 160,000 gallons of alcohol, with beer and ale accounting for almost half of the total at about 75,000 gallons.[^21]
+
+During the Japanese Occupation of Singapore, the breweries were seized by the Japanese and renamed Kirin Beer Kaisha.[^22] The Japanese military authorities reopened the breweries in 1942,[^23] hiring locals to work there. However, their hiring process was sometimes unorthodox. For instance, Jocelyn Simon De Souza had been hired by the Japanese to “start the \[ABC\] brewery”[^24] because his “Japanese friend had spoken highly” of him and he “look\[ed\] like a very nice person”.[^25] He had worked at APC, the Asiatic Petroleum Company, and had no experience in brewing. Unfazed, De Souza picked up a book on brewing and learnt on the job.
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>LISTEN TO JOCELYN SIMON DE SOUZA’S STORY</b><br>
+
+Scan the QR code below to hear De Souza’s full story of working at the brewery during the Japanese Occupation.<br>
+	<img src="/images/Online%20Only%20Articles/Beer/qr_code.png" style="width: 25%;"></div>
+	
+	
 
   
 
@@ -125,3 +138,27 @@ ABC became synonymous with its main brew, Anchor Beer, a light pilsener that use
 [^16]: “[Phoenix Aerated Water Works](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19360110-1.2.82),” _Malaya Tribune_, 10 January 1936, 14. (From NewspaperSG)
 
 [^17]: “[Page 6 Advertisements Column 3](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340127-1.2.50.3),” _Singapore Free Press_, 27 January 1934, 6. (From NewspaperSG)
+
+[^18]: “[Government Selling a Gift from Hitler](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19400521-1.2.32),” _Morning Tribune_, 21 May 1940, 6. (From NewspaperSG)
+
+[^19]: “[Government Selling a Gift from Hitler](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19400521-1.2.32).”
+
+[^20]: National Heritage Board, “Former Archipelago Brewery Company,” National Heritage Board, last updated 2 November 2021, https://www.roots.gov.sg/en/places/places-landing/Places/landmarks/my-queenstown-heritage-trail/former-archipelago-brewery-company.
+
+[^21]: “[Malaya Buys More Liquor Since War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19400110-1.2.70),” _Straits Times_, 10 January 1940, 10. (From NewspaperSG). Wartime taxes implemented during that period added 50 cents to the price of a quart bottle of champagne, 92 cents to port, sherry and other sweet still wines, 13 cents to claret and other still white wines, 42 cents to a quart of whiskey and between 3 to 5 cents to a bottle of local or foreign beer.
+
+[^22]: “[20,000,000 Bottles Every Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490824-1.2.53),” _Singapore Free Press_, 24 August 1949, 4. (From NewspaperSG)
+
+[^23]: “[Time for a Tiger](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420402-1.2.10),” _Shonan Times_ (Syonan Shimbun), 2 April 1942, 3. (From NewspaperSG)
+
+[^24]: [Jocelyn Simon De Souza](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad), oral history interview by Yogini Yogarajah, 11 November 1981, MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 000126).
+
+[^25]: [De Souza](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad), oral history interview, reel/disc 2 of 4.
+
+
+  
+
+
+
+  
+
