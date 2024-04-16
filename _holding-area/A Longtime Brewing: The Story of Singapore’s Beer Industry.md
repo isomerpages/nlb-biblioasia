@@ -47,6 +47,10 @@ By 1935, Malayan Breweries had turned its attentions toward exporting Tiger Beer
 <img src="/images/Online%20Only%20Articles/Beer/business_drink_beer.png" style="width: 85%;">
 <div style="background-color: white;">Tiger Beer was advertised as a nutritious health drink. <i>Source: (left) Straits Times, 1 December 1932, (right) 16 September 1935 © SPH Media Limited. Permission required for reproduction.</i></div>
 
+#### **Tiger’s Rival**
+
+Malayan Breweries, however, was not alone in eyeing the local beer drinking market. In 1933, Archipelago Brewery Company (ABC) opened Singapore’s second brewery, which was also located along Alexandra Road. ABC was backed by Messrs O’Wehry and Co. of Batavia, and Becks Brewery from Germany, whose beers had been imported into Malaya since 1893. ABC also boasted a million-dollar set up and claimed to have a production capacity of 450,000 gallons of beer a year.
+
   
 
 
