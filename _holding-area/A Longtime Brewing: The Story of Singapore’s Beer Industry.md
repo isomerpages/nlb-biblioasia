@@ -11,8 +11,49 @@ Given Singapore’s warm climate, it will not come as a surprise that people are
 
 Local giant Tiger Beer dominates the scene, and indeed has been doing so for decades. However, the history of beer making in Singapore isn’t limited to Tiger Beer. Another beer with a long history in Singapore is Anchor Beer. Both Tiger and Anchor beers are made by Asia Pacific Breweries (APB), who also produce another well-known local brand, ABC Stout.
 
+#### **Reliance on Imported Beer**
+
+Both Anchor and Tiger beers go back to the early 1930s. Before that, the beer consumed in Singapore was entirely imported.[^2] Some brands include Carlsberg (Scandinavia), Worthington (Britain) and Sakura (Japan). These beers were expensive, especially after accounting for transportation and other logistical costs. Beer in the 1930s cost an average of 20 cents, which might not seem like much but this was about half the daily standard wages for labourers back then (40 and 32 cents per day for men and women respectively).[^3]
+
+<img src="/images/Online%20Only%20Articles/Beer/worthington_carlsberg.png" style="width: 85%;">
+<div style="background-color: white;">(Left) A 1930 Worthington advertisement. <i>Source: Straits Times, 28 October 1930 © SPH Media Limited. Permission required for reproduction.</i> (Right) A 1916 ad for Carlsberg. <i>Image reproduced from “Drink! Drink! Carlsberg Beer!,” Singapore Free Press and mercantile Advertiser (1884-1942), 9 May 1916, 9. (From NewspaperSG)</i></div>
+
+Seeing a gap in the industry, The Straits Brewery Limited proposed in 1904 to start a brewery in Singapore.[^4] However, as promising as things sounded, the idea never got off the ground.
+
+#### **From Aerated Water to Liquid Gold**
+
+The story of local beer brewing in Singapore really starts with Fraser &amp; Neave (better known as F&amp;N), though the company was not set-up to brew beer. Indeed, it didn’t take on this name until later. In 1883, Englishmen John Fraser and David Chalmers Neave founded the Singapore and Straits Aerated Water Company and by 1890, the company specialised in manufacturing “soda water, seltzer water, potass water, lemonade, tonic, ginger ale” for Singapore’s clubs, hotels and residences. From just 20 employees, the company grew to become one of the island’s largest companies with 63 employees and branches in other parts of Malaya and Asia by 1913.[^5] In 1898, the business went public and was renamed Fraser &amp; Neave.[^6]
+
+The start of World War One (1914–18) saw F&amp;N reducing capacity to survive and it took years after the war ended for it to recover. F&amp;N then decided to partner with one of Holland’s most important breweries, Heineken. The partnership allowed both companies to further their development and expansion. Heineken was able to gain a foothold into Asia while F&amp;N had access to Heineken’s technical expertise in brewing quality beer.[^7] This partnership led to the establishment of Malayan Breweries Limited, the first modern brewery (located behind Alexandra Brickworks) built in Singapore with a capital of $1 million in 1931.[^8]
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
   
 
 * * *
 
 [^1]: “Singapore Beer Industry Outlook 2022-2026,” Reportlinker, accessed 5 September 2023, https://www.reportlinker.com/clp/country/87/726413.
+
+[^2]: “[Page 3 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18940522-1.2.20.1),” _Daily Advertiser_, 22 May 1894, 3. (From NewspaperSG)
+
+[^3]: “[Indian Labour Wages ‘More than Fair](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19390504-1.2.49)’,” _Straits Budget_, 4 May 1939, 14. (From NewspaperSG)
+
+[^4]: “[New Industry for Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19040412-1.2.46),” _Straits Times_, 12 April 1904, 5. (From NewspaperSG)
+
+[^5]: Alvin Chua, “[Fraser &amp; Neave (F&amp;N)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e62e3636-f9b6-4852-9816-1b01561c2b80),” _Singapore Infopedia_, published 2011.
+
+[^6]: “[Know Your Company](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840107-1.2.45.31),” _Straits Times_, 7 January 1984, 24. (From NewspaperSG)
+
+[^7]: “[130 Years of History in a Heineken Bottle](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940424-1.2.49.8.1.5),” _Straits Times_, 24 April 1994, 9. (From NewspaperSG)
+
+[^8]: “[A Wonderful Achievement](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320930-1.2.62),” _Straits Times_, 30 September 1932, 12. (From NewspaperSG)
