@@ -51,6 +51,18 @@ By 1935, Malayan Breweries had turned its attentions toward exporting Tiger Beer
 
 Malayan Breweries, however, was not alone in eyeing the local beer drinking market. In 1933, Archipelago Brewery Company (ABC) opened Singapore’s second brewery, which was also located along Alexandra Road. ABC was backed by Messrs O’Wehry and Co. of Batavia, and Becks Brewery from Germany, whose beers had been imported into Malaya since 1893. ABC also boasted a million-dollar set up and claimed to have a production capacity of 450,000 gallons of beer a year.
 
+<img src="/images/Online%20Only%20Articles/Beer/archipelago_breweries.png" style="width: 85%;">
+<div style="background-color: white;">Archipegalo Brewery Company (ABC) was built at Alexandra Road in 1933. It was later acquired by Malayan Breweries. <i>Source: Straits Times, 17 November 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+ABC became synonymous with its main brew, Anchor Beer, a light pilsener that used English hops and Australian malt.[^15] It also produced Diamond Pilsener, Goat’s Head Stout and ABC Stout. To promote Anchor, ABC partnered with the Phoenix Aerated Water Works to give the beer for free with each delivered order of Phoenix Aerated Water.[^16] ABC also worked with Phoenix Aerated Water Works for its retail distribution, which allowed Anchor to be delivered directly to customers at unchanged prices.[^17]
+
+<img src="/images/Online%20Only%20Articles/Beer/anchor_beer.png" style="width: 85%;">
+<div style="background-color: white;">Advertisement for Anchor Beer. <i>Source: Straits Times, 30 July 1934 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+  
+
+
+
   
 
 
@@ -104,3 +116,9 @@ Malayan Breweries, however, was not alone in eyeing the local beer drinking mark
 [^13]: “[First Concern of Its Kind in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19350503-1.2.131.97),” _Singapore Free Press_, 3 May 1935, 34. (From NewspaperSG)
 
 [^14]: Malayan Breweries Limited, _Annual Report_ (Singapore: Malayan Breweries, 1989), 1989, 6. (Available via PublicationSG)
+
+[^15]: “[Tiger’s Rival](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19331106-1.2.32),” _Singapore Free Press_, 6 November 1933, 3. (From NewspaperSG)
+
+[^16]: “[Phoenix Aerated Water Works](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19360110-1.2.82),” _Malaya Tribune_, 10 January 1936, 14. (From NewspaperSG)
+
+[^17]: “[Page 6 Advertisements Column 3](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340127-1.2.50.3),” _Singapore Free Press_, 27 January 1934, 6. (From NewspaperSG)
