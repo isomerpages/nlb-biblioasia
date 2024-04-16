@@ -109,13 +109,9 @@ APB has had to keep up with the latest trends to appeal to younger customers and
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>LEE KUAN YEW AND ANCHOR BEER</b><br>
 	
 An unlikely presence in the networking sessions, deals, and negotiations of the late Prime Minister Lee Kuan Yew was Anchor beer. He had often offered – and been offered – Anchor to leaders he met.<br><br>
-
-In his memoir _The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1_ he recounts his meeting with a communist underground leader. Lee’s purpose was to forge an alliance with communists to gain the support of the Chinese-educated masses in 1961:<br><br>
-	
+In his memoir _The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1_ he recounts his meeting with a communist underground leader. Lee’s purpose was to forge an alliance with communists to gain the support of the Chinese-educated masses in 1961:<br><br>	
 “I walked up two flights of stairs of an uncompleted block in darkness. Construction materials still littered the place, and there was no electricity or water. When I entered the candlelit room the girl indicated, the Plen was already waiting. It was furnished only with two armchairs and a table standing between them. He knew I was a beer drinker and provided warm Anchor beer. He opened a bottle, poured me a mug, and topped up his own. He drank first. I hoped I did not show any hesitation before I drank mine.”[^41]<br><br>
-
 Lee also shared how he won the support of political party members through food and Anchor beer: “Throughout 1958–59, I had been seeing Devan Nair, Lim Chin Siong, Fong Swee Suan, Woodhull and Puthucheary in their new detention camp, located just outside Changi Prison, once every three or four weeks. I would bring them a large pot of delicious chicken curry that my cook had prepared, freshly baked bread bought from a bakery on the way to Changi and, when permission was granted, some large bottles of Anchor beer.”[^42]<br><br>
-
 <img src="/images/Online%20Only%20Articles/Beer/group_photo.png" style="width: 85%;">
 <div style="background-color: #fff6ba;">A group photo taken by Lee Kuan Yew when he visited (from left to right) Lim Chin Siong, Sidney Woodhull, Fong Swee Suan and Devan Nair in the Changi detention camp in 1958. <i>Image reproduced from The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1. (Singapore: Marshall Cavendish International Editions, 2012), 381. (From National Library, Singapore, call no. RSING_ 959.5705092 LEE).</i></div></div>
 
