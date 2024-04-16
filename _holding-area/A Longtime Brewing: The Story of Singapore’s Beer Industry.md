@@ -106,6 +106,24 @@ In 1990, Malayan Breweries changed its name to Asia Pacific Breweries (Singapore
 
 APB has had to keep up with the latest trends to appeal to younger customers and remain relevant and competitive. They have engaged K-pop stars as ambassadors and created fresh flavours such as ones infused with soju and even alcohol-free beer.[^39] With more than 300 beer and cider brands globally under The Heineken Company today, it seems like Singapore's beer industry is set to keep on brewing.[^40]
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>LEE KUAN YEW AND ANCHOR BEER</b><br>
+	
+An unlikely presence in the networking sessions, deals, and negotiations of the late Prime Minister Lee Kuan Yew was Anchor beer. He had often offered – and been offered – Anchor to leaders he met.
+
+In his memoir _The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1_ he recounts his meeting with a communist underground leader. Lee’s purpose was to forge an alliance with communists to gain the support of the Chinese-educated masses in 1961:
+	
+“I walked up two flights of stairs of an uncompleted block in darkness. Construction materials still littered the place, and there was no electricity or water. When I entered the candlelit room the girl indicated, the Plen was already waiting. It was furnished only with two armchairs and a table standing between them. He knew I was a beer drinker and provided warm Anchor beer. He opened a bottle, poured me a mug, and topped up his own. He drank first. I hoped I did not show any hesitation before I drank mine.”[^41]
+
+Lee also shared how he won the support of political party members through food and Anchor beer: “Throughout 1958–59, I had been seeing Devan Nair, Lim Chin Siong, Fong Swee Suan, Woodhull and Puthucheary in their new detention camp, located just outside Changi Prison, once every three or four weeks. I would bring them a large pot of delicious chicken curry that my cook had prepared, freshly baked bread bought from a bakery on the way to Changi and, when permission was granted, some large bottles of Anchor beer.”[^42]
+
+  
+
+
+	
+
+Scan the QR code below to hear De Souza’s full story of working at the brewery during the Japanese Occupation.<br><br>
+	<img src="/images/Online%20Only%20Articles/Beer/qr_code.png" style="width: 150px; height: 150px;"><br></div>
+
   
 
   
@@ -221,3 +239,7 @@ APB has had to keep up with the latest trends to appeal to younger customers and
 [^39]: “Our Story,” APB Singapore, accessed 31 October 2023, https://www.apbsingapore.com.sg/who-we-are/.
 
 [^40]: “Meet the Tigers,” Tiger Beer, accessed 4 January 2024, https://www.tigerbeer.com/sg/en/agegate?returnUrl=https%3A%2F%2Fwww.tigerbeer.com%2Fsg%2Fen%2Four-beers.
+
+[^41]: Lee Kuan Yew, _[The Singapore Story: Memoirs of Lee Kuan Yew](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201266968)_ (Marshall Cavendish International, 2014), 466. (From National Library, Singapore, call no. RSING 959.5705092 LEE)
+
+[^42]: Lee, _[The Singapore Story](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201266968)_, 379.
