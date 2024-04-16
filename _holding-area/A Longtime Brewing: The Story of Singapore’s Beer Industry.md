@@ -75,7 +75,7 @@ During the Japanese Occupation of Singapore, the breweries were seized by the Ja
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>LISTEN TO JOCELYN SIMON DE SOUZA’S STORY</b><br>
 
 Scan the QR code below to hear De Souza’s full story of working at the brewery during the Japanese Occupation.<br>
-	<img src="/images/Online%20Only%20Articles/Beer/qr_code.png" style="width: 25%;"></div>
+	<img src="/images/Online%20Only%20Articles/Beer/qr_code.png" style="width: 20%; align:left;"></div>
 	
 	
 
@@ -154,11 +154,3 @@ Scan the QR code below to hear De Souza’s full story of working at the brewery
 [^24]: [Jocelyn Simon De Souza](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad), oral history interview by Yogini Yogarajah, 11 November 1981, MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 000126).
 
 [^25]: [De Souza](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad), oral history interview, reel/disc 2 of 4.
-
-
-  
-
-
-
-  
-
