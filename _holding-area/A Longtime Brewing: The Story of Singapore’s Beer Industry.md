@@ -57,7 +57,10 @@ Malayan Breweries, however, was not alone in eyeing the local beer drinking mark
 ABC became synonymous with its main brew, Anchor Beer, a light pilsener that used English hops and Australian malt.[^15] It also produced Diamond Pilsener, Goat’s Head Stout and ABC Stout. To promote Anchor, ABC partnered with the Phoenix Aerated Water Works to give the beer for free with each delivered order of Phoenix Aerated Water.[^16] ABC also worked with Phoenix Aerated Water Works for its retail distribution, which allowed Anchor to be delivered directly to customers at unchanged prices.[^17]
 
 <img src="/images/Online%20Only%20Articles/Beer/anchor_beer.png" style="width: 85%;">
-<div style="background-color: white;">Advertisement for Anchor Beer. <i>Source: Straits Times, 30 July 1934 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">Advertisement for Anchor Beer. <i>Source: Straits Times, 30 July 1934 © SPH Media Limited. Permission required for reproduction.</i></div><br>
+
+<img src="/images/Online%20Only%20Articles/Beer/sundaytribune_19340121_0002_cropped.png" style="width: 85%;">
+<div style="background-color: white;">This notice was run in the <i>Sunday Tribune</i> announcing ABC’s partnership with Phoneix Aerated Water Works for the retail distribution of Anchor Beer. <i>Image reproduced from “Importance Announcement,” Sunday Tribune, 21 January 1934, 2. (From NewspaperSG).</i></div>
 
   
 
