@@ -94,6 +94,20 @@ In 1950, service men in Malaya “drank more than 3,300,000 bottles of N.A.A.F.I
 
 Dr Leonard Bels, the brew master at Malayan Breweries from 1949 to 1974, noted that “\[t\]hese soldiers are some of our best customers... And mighty drinkers, these soldiers are, too. The British forces here easily take in between 2.5 and 3.5 million cans per month… “. This thirst for local beer had an important impact outside Singapore as well, Bels noted. “\[They\] take our reputation with them wherever they go. For example, we are doing well in London because British soldiers ask their club manager\[s\] for Singapore beer. So accustomed are they to the taste.”[^32]
 
+<img src="/images/Online%20Only%20Articles/Beer/20220000214_img1191.png" style="width: 85%;">
+<div style="background-color: white;">Military personnel enjoying a pint, including Tiger Beer, at the Navy, Army and Air Force Institutes (NAAFI), 1960s. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div><br>
+
+<img src="/images/Online%20Only%20Articles/Beer/20190000006_img0007.png" style="width: 85%;">
+<div style="background-color: white;">An employee overseeing the filling and bottling of Tiger Beer on the bottling line at the brewery, 1960s. <i>E. Wolters Collection, courtesy of National Archives of Singapore.</i></div>
+
+Malayan Breweries continued to grow from strength to strength. It extended its foothold and influence beyond Singapore and Malaya by acquiring subsidiary companies and breweries in Papua New Guinea in 1955 and New Zealand in 1956.[^33] By 1968, Tiger Beer was being exported to the U.S, the Middle East, Africa, Bulgaria, Thailand, Indonesia, Australia, and New Zealand.[^34] By 1981, the company had “reached a new record for beer sales” in beer exports from Singapore, including the production of Heineken and Amstel beer”.[^35]
+
+In 1990, Malayan Breweries changed its name to Asia Pacific Breweries (Singapore) Limited (APB) with a new logo to reflect its global status more accurately.[^36] In 2013, APB became fully owned by Heineken and renamed as Heineken Asia Pacific. Today, Tiger Beer is brewed in 11 countries and available in more than 75. [^37] It has even appeared in films such as the Marvel superhero movie _The Winter Soldier_ and the spinechilling horror flick _IT Chapter Two_.[^38]
+
+APB has had to keep up with the latest trends to appeal to younger customers and remain relevant and competitive. They have engaged K-pop stars as ambassadors and created fresh flavours such as ones infused with soju and even alcohol-free beer.[^39] With more than 300 beer and cider brands globally under The Heineken Company today, it seems like Singapore's beer industry is set to keep on brewing.[^40]
+
+  
+
   
 
   
@@ -191,3 +205,19 @@ Dr Leonard Bels, the brew master at Malayan Breweries from 1949 to 1974, noted t
 [^31]: “[Beer Becomes National Drink](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19510628-1.2.146),” _Singapore Standard_, 28 June 2951, 9. (From NewspaperSG)
 
 [^32]: “[The Golden Brew of Dr Bels](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19680811-1.2.101.6),” _Straits Times_, 11 August 1968, 11. (From NewspaperSG)
+
+[^33]: “[The Growth of Malayan Breweries](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621117-1.2.175.20),” _Straits Times_, 17 November 1962, 8. (From NewspaperSG)
+
+[^34]: “[The Golden Brew of Dr Bels](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19680811-1.2.101.6).”
+
+[^35]: “[Record Beer Sales](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810727-1.2.109.22.6),” _Straits Times_, 27 July 1981, 4. (From NewspaperSG)
+
+[^36]: “[M Breweries Changes Name, Logo](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19900313-1.2.12.8),” _Business Times_, 13 March 1990, 3. (From NewspaperSG)
+
+[^37]: “Asia Pacific,” The Heineken Company (Cambodia), accessed 31 October 2023, https://www.heinekencambodia.com/asia-pacific.
+
+[^38]: “Tiger Beer Product Placement Database”, Product Placement Blog, accessed 31 October 2023, https://productplacementblog.com/tag/tiger-beer/.
+
+[^39]: “Our Story,” APB Singapore, accessed 31 October 2023, https://www.apbsingapore.com.sg/who-we-are/.
+
+[^40]: “Meet the Tigers,” Tiger Beer, accessed 4 January 2024, https://www.tigerbeer.com/sg/en/agegate?returnUrl=https%3A%2F%2Fwww.tigerbeer.com%2Fsg%2Fen%2Four-beers.
