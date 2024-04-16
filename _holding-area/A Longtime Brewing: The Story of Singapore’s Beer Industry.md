@@ -75,7 +75,7 @@ During the Japanese Occupation of Singapore, the breweries were seized by the Ja
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>LISTEN TO JOCELYN SIMON DE SOUZA’S STORY</b><br>
 
 Scan the QR code below to hear De Souza’s full story of working at the brewery during the Japanese Occupation.<br><br>
-	<img src="/images/Online%20Only%20Articles/Beer/qr_code.png" style="position: absolute; left: 450px; width: 150px; height: 150px;"><br><br><br><br><br></div>
+	<img src="/images/Online%20Only%20Articles/Beer/qr_code.png" style="position: absolute; left: 550px; width: 150px; height: 150px;"><br><br><br><br><br></div>
 	
 According to De Souza, employees at the brewery were entitled to 18 small bottles of beer, which was particularly useful as an object of barter during the Occupation years. A bottle of beer then cost about 30 to 50 cents and De Souza remembered his wife would exchange beer for a chance to buy meat.[^26]
 
