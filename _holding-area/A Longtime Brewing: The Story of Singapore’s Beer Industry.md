@@ -74,8 +74,8 @@ During the Japanese Occupation of Singapore, the breweries were seized by the Ja
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>LISTEN TO JOCELYN SIMON DE SOUZA’S STORY</b><br>
 
-Scan the QR code below to hear De Souza’s full story of working at the brewery during the Japanese Occupation.<br>
-	<img src="/images/Online%20Only%20Articles/Beer/qr_code.png" style="position: absolute; left: 350px; width: 150px; height: 150px;"><br><br><br><br><br></div><br><br>
+Scan the QR code below to hear De Souza’s full story of working at the brewery during the Japanese Occupation.<br><br>
+	<img src="/images/Online%20Only%20Articles/Beer/qr_code.png" style="position: absolute; left: 350px; width: 150px; height: 150px;"><br><br><br><br><br></div><br>
 	
 	
 
