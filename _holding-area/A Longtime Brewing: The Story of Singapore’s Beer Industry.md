@@ -26,6 +26,34 @@ The story of local beer brewing in Singapore really starts with Fraser &amp; Nea
 
 The start of World War One (1914–18) saw F&amp;N reducing capacity to survive and it took years after the war ended for it to recover. F&amp;N then decided to partner with one of Holland’s most important breweries, Heineken. The partnership allowed both companies to further their development and expansion. Heineken was able to gain a foothold into Asia while F&amp;N had access to Heineken’s technical expertise in brewing quality beer.[^7] This partnership led to the establishment of Malayan Breweries Limited, the first modern brewery (located behind Alexandra Brickworks) built in Singapore with a capital of $1 million in 1931.[^8]
 
+<img src="/images/Online%20Only%20Articles/Beer/malayan_breweries.png" style="width: 85%;">
+<div style="background-color: white;">Malayan Breweries Limited was the first modern brewery built in Singapore behind Alexandra Brickworks, 1962. <i>Source: Straits Times, 17 November 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+The happy product of that marriage was born in 1932 when Tiger Beer, a homegrown lager beer, made its debut. At its launch, beer was given away for free and “over two hundred guests … \[were\] given as much beer as they desired, and an eloquent tribute to the new beverage lay in the fact that many who were not regular drinkers asked for a second glass, while others had a third.”[^9]
+
+Tiger Beer was an instant success, particularly among British servicemen in Malaya due to its refreshing taste and affordable price. Within two years of its launch, Tiger Beer accounted for over two thirds of beer consumed in British Malaya.[^10]
+
+<img src="/images/Online%20Only%20Articles/Beer/tiger_beer.png" style="width: 85%;">
+<div style="background-color: white;">A 1932 advertisement for Tiger Beer. <i>Image reproduced from “Tiger Beer,” Singapore Free Press and Mercantile Advertiser, 8 October 1932, 20. (From NewspaperSG).</i></div>
+
+The success of Malayan Breweries was largely due to the technical expertise provided by Heineken, which had a 40 percent stake in the company. Besides its expertise in brewing, Heineken also brought in sophisticated laboratory facilities and highly trained personnel. These included master brewers and technical managers who maintained strict quality standards that was crucial to Tiger’s success.[^11]
+
+#### **Time for a Tiger!**
+
+Tiger Beer was launched with the catchphrase “Time for a Tiger” in 1932. A tagline that is still familiar with many today, the phrase was subsequently made famous by British author Anthony Burgess who named his 1956 novel, _Time for a Tiger_. This book was the first instalment of his Malayan trilogy, _The Long Day Wanes_.[^12]
+
+By 1935, Malayan Breweries had turned its attentions toward exporting Tiger Beer, which had started to gain popularity beyond the Malayan market in countries like Hong Kong.[^13] It expanded its brewery twice – in 1937 and 1939 – to keep up with the growing demand.[^14]
+
+  
+
+
+
+  
+
+
+  
+
+
   
 
 
@@ -57,3 +85,15 @@ The start of World War One (1914–18) saw F&amp;N reducing capacity to survive 
 [^7]: “[130 Years of History in a Heineken Bottle](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940424-1.2.49.8.1.5),” _Straits Times_, 24 April 1994, 9. (From NewspaperSG)
 
 [^8]: “[A Wonderful Achievement](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320930-1.2.62),” _Straits Times_, 30 September 1932, 12. (From NewspaperSG)
+
+[^9]: “[Free Beer!](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19351008-1.2.60.8), _Straits Times_, 3 October 1932, 6. (From NewspaperSG)
+
+[^10]: “[First Brewery in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19351008-1.2.60.8),” _Singapore Free_ _Press_, 8 October 1935, 6. (From NewspaperSG)
+
+[^11]: Malayan Breweries Limited, _[Annual Report](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5112828)_ (Singapore: Malayan Breweries, 1975), 19. (From National Library, Singapore, call no. RCLOS 338.4766342 MBAR)
+
+[^12]: Nicolas Khong, “STB and Tiger Beer in First Big Joint Campaign to Promote Singapore,” _Today_, 14 June 2019, https://www.todayonline.com/singapore/stb-and-tiger-beer-first-big-joint-campaign-promote-singapore.
+
+[^13]: “[First Concern of Its Kind in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19350503-1.2.131.97),” _Singapore Free Press_, 3 May 1935, 34. (From NewspaperSG)
+
+[^14]: Malayan Breweries Limited, _Annual Report_ (Singapore: Malayan Breweries, 1989), 1989, 6. (Available via PublicationSG)
