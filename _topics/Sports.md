@@ -4,7 +4,7 @@ permalink: /topics/sports/
 description: ""
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/singapore-boxing-battling-key-yeo-choon-song/">Gloved Gods: Battling Key, Yeo Choon Song and the Roaring 20s of Singapore Boxing</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/">Gloved Gods: Battling Key, Yeo Choon Song and the Roaring 20s of Singapore Boxing</a>
 
 <img src="/images/Vol%2020%20Issue%203/Boxing/Image1.png" style="width:80%;">
 <hr>
