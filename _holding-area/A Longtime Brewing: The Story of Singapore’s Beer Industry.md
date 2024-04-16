@@ -82,6 +82,20 @@ According to De Souza, employees at the brewery were entitled to 18 small bottle
 When the raw materials to brew beer started to run out, De Souza “start\[ed\] to reduce the malt content in the brew and increase with local rice content… then it came to the stage where \[they\] couldn’t reduce anymore.”[^27] This was not a sustainable solution as the beer’s quality was affected. Despite the Japanese importing malt from Japan, it was still not enough to maintain the usual strength of Tiger Beer.
 
 To deal with the shortage of raw ingredients, an alternative version of Tiger Beer was created, called Tiger Cub. It used a smaller bottle and less malt, resulting in a brew that was lighter than the original. Tiger Cub remained in production until 1947 when the original Tiger Beer made its return.[^28]
+
+<img src="/images/Online%20Only%20Articles/Beer/tiger_cub.png" style="width: 85%;">
+<div style="background-color: white;">(Left) Tiger Cub was a lighter brew produced in response to a lack of raw ingredients to make the original Tiger Beer. (Right) These ads were published in January 1947 to publicise the return of the original full-strength Tiger Beer. <i>Asia Pacific Breweries Singapore.</i></div>
+
+#### **Post-war and Changes in Sales Strategies**
+
+The end of the war saw a boost in beer consumption, with demand largely driven by British troops who preferred local beer to imported beer due to its lower cost – local beer was 65 cents per quart, compared to a dollar for imported beer.[^29]
+
+In 1950, service men in Malaya “drank more than 3,300,000 bottles of N.A.A.F.I beer worth more than $2,500,000” which worked out “to about 14 bottles for each soldier every month” that year.[^30] They consumed so much beer that, in 1951, beer was described as the “national drink of Malaya” based on sales volume.[^31]
+
+Dr Leonard Bels, the brew master at Malayan Breweries from 1949 to 1974, noted that “\[t\]hese soldiers are some of our best customers... And mighty drinkers, these soldiers are, too. The British forces here easily take in between 2.5 and 3.5 million cans per month… “. This thirst for local beer had an important impact outside Singapore as well, Bels noted. “\[They\] take our reputation with them wherever they go. For example, we are doing well in London because British soldiers ask their club manager\[s\] for Singapore beer. So accustomed are they to the taste.”[^32]
+
+  
+
   
 
 
@@ -169,3 +183,11 @@ To deal with the shortage of raw ingredients, an alternative version of Tiger Be
 [^27]: [De Souza](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad), oral history interview, reel/disc 2 of 4.
 
 [^28]: APB Stories, “Tiger Cub,” accessed 5 September 2023, https://apbstories.com/stories/tiger-cub/.
+
+[^29]: “[B.O.R.s Drank 3.3 Mil Bottles Beers Last Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510204-1.2.53),” _Straits Times_, 4 February 1951, 5. (From NewspaperSG)
+
+[^30]: “[B.O.R.s Drank 3.3 Mil Bottles Beers Last Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510204-1.2.53).”
+
+[^31]: “[Beer Becomes National Drink](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19510628-1.2.146),” _Singapore Standard_, 28 June 2951, 9. (From NewspaperSG)
+
+[^32]: “[The Golden Brew of Dr Bels](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19680811-1.2.101.6),” _Straits Times_, 11 August 1968, 11. (From NewspaperSG)
