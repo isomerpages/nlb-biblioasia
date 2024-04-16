@@ -106,7 +106,7 @@ In 1990, Malayan Breweries changed its name to Asia Pacific Breweries (Singapore
 
 APB has had to keep up with the latest trends to appeal to younger customers and remain relevant and competitive. They have engaged K-pop stars as ambassadors and created fresh flavours such as ones infused with soju and even alcohol-free beer.[^39] With more than 300 beer and cider brands globally under The Heineken Company today, it seems like Singapore's beer industry is set to keep on brewing.[^40]
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>LEE KUAN YEW AND ANCHOR BEER</b><br>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>LEE KUAN YEW AND ANCHOR BEER</b><br><br>
 	
 An unlikely presence in the networking sessions, deals, and negotiations of the late Prime Minister Lee Kuan Yew was Anchor beer. He had often offered – and been offered – Anchor to leaders he met.<br><br>
 In his memoir _The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1_ he recounts his meeting with a communist underground leader. Lee’s purpose was to forge an alliance with communists to gain the support of the Chinese-educated masses in 1961:<br><br>	
