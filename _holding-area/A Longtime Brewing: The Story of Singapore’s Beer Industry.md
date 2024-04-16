@@ -77,21 +77,14 @@ During the Japanese Occupation of Singapore, the breweries were seized by the Ja
 Scan the QR code below to hear De Souza’s full story of working at the brewery during the Japanese Occupation.<br><br>
 	<img src="/images/Online%20Only%20Articles/Beer/qr_code.png" style="position: absolute; left: 450px; width: 150px; height: 150px;"><br><br><br><br><br></div>
 	
-According to De Souza, employees at the brewery were entitled to 18 small bottles of beer, which was particularly useful as an object of barter during the Occupation years. A bottle of beer then cost about 30 to 50 cents and De Souza remembered his wife would exchange beer for a chance to buy meat.[\[1\]](#_ftn1)&nbsp;
+According to De Souza, employees at the brewery were entitled to 18 small bottles of beer, which was particularly useful as an object of barter during the Occupation years. A bottle of beer then cost about 30 to 50 cents and De Souza remembered his wife would exchange beer for a chance to buy meat.[^26]
 
-When the raw materials to brew beer started to run out, De Souza “start\[ed\] to reduce the malt content in the brew and increase with local rice content… then it came to the stage where \[they\] couldn’t reduce anymore.”[\[2\]](#_ftn2) This was not a sustainable solution as the beer’s quality was affected. Despite the Japanese importing malt from Japan, it was still not enough to maintain the usual strength of Tiger Beer.
+When the raw materials to brew beer started to run out, De Souza “start\[ed\] to reduce the malt content in the brew and increase with local rice content… then it came to the stage where \[they\] couldn’t reduce anymore.”[^27] This was not a sustainable solution as the beer’s quality was affected. Despite the Japanese importing malt from Japan, it was still not enough to maintain the usual strength of Tiger Beer.
 
-To deal with the shortage of raw ingredients, an alternative version of Tiger Beer was created, called Tiger Cub. It used a smaller bottle and less malt, resulting in a brew that was lighter than the original. Tiger Cub remained in production until 1947 when the original Tiger Beer made its return.[\[3\]](#_ftn3)
-
+To deal with the shortage of raw ingredients, an alternative version of Tiger Beer was created, called Tiger Cub. It used a smaller bottle and less malt, resulting in a brew that was lighter than the original. Tiger Cub remained in production until 1947 when the original Tiger Beer made its return.[^28]
   
 
-* * *
 
-[\[1\]](#_ftnref1) [De Souza](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad), oral history interview, reel/disc 2 of 4.
-
-[\[2\]](#_ftnref2) [De Souza](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad), oral history interview, reel/disc 2 of 4.
-
-[\[3\]](#_ftnref3) APB Stories, “Tiger Cub,” accessed 5 September 2023, https://apbstories.com/stories/tiger-cub/.
 	
 	
 
@@ -170,3 +163,9 @@ To deal with the shortage of raw ingredients, an alternative version of Tiger Be
 [^24]: [Jocelyn Simon De Souza](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad), oral history interview by Yogini Yogarajah, 11 November 1981, MP3 audio, Reel/Disc 2 of 4, National Archives of Singapore (accession no. 000126).
 
 [^25]: [De Souza](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad), oral history interview, reel/disc 2 of 4.
+
+[^26]: [De Souza](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad), oral history interview, reel/disc 2 of 4.
+
+[^27]: [De Souza](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad), oral history interview, reel/disc 2 of 4.
+
+[^28]: APB Stories, “Tiger Cub,” accessed 5 September 2023, https://apbstories.com/stories/tiger-cub/.
