@@ -116,50 +116,15 @@ In his memoir _The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1_ he recoun
 
 Lee also shared how he won the support of political party members through food and Anchor beer: “Throughout 1958–59, I had been seeing Devan Nair, Lim Chin Siong, Fong Swee Suan, Woodhull and Puthucheary in their new detention camp, located just outside Changi Prison, once every three or four weeks. I would bring them a large pot of delicious chicken curry that my cook had prepared, freshly baked bread bought from a bakery on the way to Changi and, when permission was granted, some large bottles of Anchor beer.”[^42]
 
-  
+<img src="/images/Online%20Only%20Articles/Beer/group_photo.png" style="width: 85%;">
+<div style="background-color: #fff6ba;">A group photo taken by Lee Kuan Yew when he visited (from left to right) Lim Chin Siong, Sidney Woodhull, Fong Swee Suan and Devan Nair in the Changi detention camp in 1958. <i>Image reproduced from The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1. (Singapore: Marshall Cavendish International Editions, 2012), 381. (From National Library, Singapore, call no. RSING_ 959.5705092 LEE).</i></div></div>
 
-
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Cats/siesie1.png">
+	<b>Ho Sie Sie</b>is a Manager at the Resource Discovery and Management, National Library Board. She is trained to tap a glass of Tiger Beer at 45 degrees to get the ideal layer of foam.
 	
-
-Scan the QR code below to hear De Souza’s full story of working at the brewery during the Japanese Occupation.<br><br>
-	<img src="/images/Online%20Only%20Articles/Beer/qr_code.png" style="width: 150px; height: 150px;"><br></div>
-
+#### **Notes**
   
-
-  
-
-  
-
-
-	
-	
-
-  
-
-
-
-  
-
-
-  
-
-
-  
-
-
-
-  
-
-
-
-  
-
-
-
-  
-
-* * *
-
 [^1]: “Singapore Beer Industry Outlook 2022-2026,” Reportlinker, accessed 5 September 2023, https://www.reportlinker.com/clp/country/87/726413.
 
 [^2]: “[Page 3 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18940522-1.2.20.1),” _Daily Advertiser_, 22 May 1894, 3. (From NewspaperSG)
