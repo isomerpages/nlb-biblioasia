@@ -3,6 +3,7 @@ title: "In Touch with My Routes: Becoming a Tourist in Singapore"
 permalink: /vol-5/issue-4/jan-2010/singapore-tourist-touch-routes/
 description: Lee Kong Chian Research Fellow Desmond Wee ponders the Singaporean
   identity while being a tourist in Singapore.
+variant: markdown
 ---
 ####  Lee Kong Chian Research Fellow *Desmond Wee* ponders the Singaporean identity while being a tourist in Singapore.
 
@@ -28,7 +29,7 @@ In an indispensable relationship between tourism and identity in which one infor
 
 #### **Representing Tourist**
 
-After a visit to the Singapore Visitors Centre, I was armed with things to do around Sıngapore. From the “topless” Hippo Bus tours which gave me an overview of the city, I ventured into the four ethnic quarters in the name of cultural tourism. I visited Chinatown, Little India, Kampong Glam and the colonial district; I took a bumboat ride along the Singapore River to marvel at the waterfall spouting out of the Merlion’s mouth. Since I was travelling alone and could not take photographs of myself and my experience on the boat, I sought postcards like any tourist would. I also consulted the National Library educational e-resource, *OnAsia*  <a href="http://www.onasia.com/nlb">http://www.onasia.com/nlb</a>) which consisted of “high-quality copyrighted images created by some of Asia's finest photojournalists and photographers”, featuring “photographic essays, stock photographs and conceptual images that represent a unique visual description of Asia, offering online access to a comprehensive collection of historical, political, social, and cultural images”. By using two search criteria: “tourism” and “tourist”, I extracted and sought an analysis of visual imagery and descriptions which determined *place* in a tourist setting.
+After a visit to the Singapore Visitors Centre, I was armed with things to do around Sıngapore. From the “topless” Hippo Bus tours which gave me an overview of the city, I ventured into the four ethnic quarters in the name of cultural tourism. I visited Chinatown, Little India, Kampong Glam and the colonial district; I took a bumboat ride along the Singapore River to marvel at the waterfall spouting out of the Merlion’s mouth. Since I was travelling alone and could not take photographs of myself and my experience on the boat, I sought postcards like any tourist would. I also consulted the National Library educational e-resource, *OnAsia* which consisted of “high-quality copyrighted images created by some of Asia's finest photojournalists and photographers”, featuring “photographic essays, stock photographs and conceptual images that represent a unique visual description of Asia, offering online access to a comprehensive collection of historical, political, social, and cultural images”. By using two search criteria: “tourism” and “tourist”, I extracted and sought an analysis of visual imagery and descriptions which determined *place* in a tourist setting.
 
 <img src="/images/Vol%205%20Issue%204/TouristRoutes/Bumboat%20tourists.jpg" style="width:100%;">
  <div style="background-color: white;">Figure 2: A boat carrying tourists along the Singapore River near Clarke Quay, 2006. <i>© Erick Danzer/OnAsia.com</i></div>
