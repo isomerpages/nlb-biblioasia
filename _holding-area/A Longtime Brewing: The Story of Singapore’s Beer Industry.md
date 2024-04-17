@@ -66,7 +66,7 @@ ABC became synonymous with its main brew, Anchor Beer, a light pilsener that use
 
 When war broke out in Europe in 1939, the Germans who were managing ABC left Singapore, putting hundreds of local employees at risk of losing their jobs. The Malayan government formed a committee to manage the brewery in the interim, but ultimately acknowledged that “making beer is not really a Government’s business”.[^18] As a result, ABC was put up for sale by the Malayan government in 1940.[^19] In 1941, Malayan Breweries officially acquired ABC, merging the two competitors.[^20]
 
-The war saw the government implementing new import duties and “wartime taxes” from 1 December 1939, causing an increase in sale prices of beer Adding to this was a shortage of raw materials needed to brew the beer.
+The war saw the government implementing new import duties and “wartime taxes” from 1 December 1939, causing an increase in sale prices of beer. Adding to this was a shortage of raw materials needed to brew the beer.
 
 The increase in cost did not reduce the demand for beer. In fact, there was an increase in demand for “intoxicating drink” such as beer, whiskey and champagne. For instance, $600,000 worth of liquor was consumed during the holiday season in 1940. This was equivalent to more than 160,000 gallons of alcohol, with beer and ale accounting for almost half of the total at about 75,000 gallons.[^21]
 
