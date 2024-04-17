@@ -7,7 +7,7 @@ third_nav_title: A Boxing Superstar
 ---
 <p>[Music playing]</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Hi, everyone. My name is Jimmy Yap, and I’m the Editor-in-Chief of <em>BiblioAsia</em>,
 a publication of the National Library of Singapore. When you mention the
 sport of boxing today, you’ll probably think of people like Muhammad Ali
@@ -22,14 +22,14 @@ Fellow of the National Library of Singapore. And his works have been published
 in <em>Mekong Review</em>, Jom and of course, <em><a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia</a></em>.&nbsp;</p>
 <p>Welcome back to BiblioAsia+, Abhishek. How have you been?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>I’m good, Jimmy. Thanks for having me again.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>It’s always a pleasure to have you and your beard. Tell us a bit about
 boxing, you know, in Singapore. When and where and how did it come to Singapore?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Okay, so there are a few stories around it. I think they’ve just become
 legend now. One of the most, I suppose, widely disseminated one is that
 in the 20s, Singapore was a burgeoning entertainment centre and there were
@@ -49,57 +49,49 @@ first.</p>
 <p>And that itself has its roots in the fact that the Philippines, at the
 time in the early 20th century, was, of course, an American colony.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Colony.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yes. So, [American] sailors were stationed in those stations, on ships
 in across the Philippines. They started sparring first. Then the local
 population, you know, took it up. And then from Philippines as well. And
 it’s sort of like a wave of, you know, fighters spreading out across the
 region and making it popular in our part of the world.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I’m fascinated by that because, of course, you have famous people like
 Manny Pacquiao. Actually, Filipino boxing actually goes back that far back.</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>Yes. And even for me, it was a big discovery. I suppose it should be obvious
+<br>Yes. And even for me, it was a big discovery. I suppose it should be obvious
 on hindsight, but I had no idea that, you know, Philippines is where it
 all began for Southeast Asia at least. So, they have a very long pedigree
 of producing very, very good fighters. In fact, some of them from the Philippines,
 ended up going to the US and fighting for the world championships or whatever
 they were called at the time.</p>
-<p></p>
 <p>So, yes, so the Philippines was where it all began.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s amazing. Why do you think boxing has this appeal for people, you
+<br>It’s amazing. Why do you think boxing has this appeal for people, you
 know, back then and now?</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>I mean, I’m not really a sociologist, but I have some theories.</p>
-<p>&nbsp;</p>
+<br>I mean, I’m not really a sociologist, but I have some theories.&nbsp;</p>
 <p>Let’s consider the sports that were popular in Singapore at that time.
 You had tennis – confined to exclusive clubs. Then you had cricket. Very
 similar. Football was, of course, starting to take off at the time, but
 boxing really was, you know, the sport of the masses that was easily accessible.</p>
-<p></p>
 <p>You didn’t need a lot of equipment. You could just set up like a ring
 somewhere and just go a few rounds. So that’s one reason, which is why
 it became popular amongst, you know, your so-called not-so-upper class
 people.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>The man in the street, the hoi polloi.</p>
+<br>The man in the street, the hoi polloi.</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>The hoi polloi. And at the time, as we know, there were these waves and
+<br>The hoi polloi. And at the time, as we know, there were these waves and
 waves of migration to Singapore, from China especially. So, these were
 people who were thirsting for some entertainment. In general, if you consider
 boxing a sport, I think it speaks to something very primal within us and
@@ -107,7 +99,6 @@ we will speak about it in detail later. But Tan Teng Kee, Battling Key,
 who you mentioned earlier, was at that time one of the most popular boxers
 in Singapore. We fast forward to the late 20s and when he’s challenged
 by an up-and-coming boxer, he was beaten up very badly.</p>
-<p></p>
 <p>And there are reports at the time indicating that the crowd was like,
 there was a serious bloodlust happening. So, they called upon this younger
 guy to finish him off, like that was the chant going on, “Finish him off,
@@ -116,8 +107,7 @@ something a little more primal that sort of, you know, the primal parts
 of a brain are hooked onto a violent sport like boxing.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I think, I mean, I like the word you use, <em>blood lust</em>. And I think
+<br>I think, I mean, I like the word you use, <em>blood lust</em>. And I think
 that definitely goes back to like, you know, the Romans and the Colosseum.
 Gladiators fight. Two people facing off. And with the prospect of blood.
 So, at the time, you know, the people who attended the boxing matches and
@@ -125,15 +115,13 @@ in the 20s who were they? I mean, so they were like the man in the street,
 you were saying?</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>Yes, primarily. If an arena had about seating for 7,000, 8,000 people,
+<br>Yes, primarily. If an arena had about seating for 7,000, 8,000 people,
 which was the case at the time, the vast majority, more than 80 percent,
 85 percent would be your man-on-the-street or, you know, the people who
 were.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Your blue collar.</p>
+<br>Your blue collar.</p>
 <p></p>
 <p><strong>Abhishek</strong>
 </p>
@@ -144,65 +132,54 @@ But it’s not clear whether he placed on him or on his opponent. But yeah,
 he placed that sum of money.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s interesting that you mention the Sultan of Johor placing a $5,000
+<br>That’s interesting that you mention the Sultan of Johor placing a $5,000
 bet. So gambling is a big part of boxing as well.</p>
-<p></p>
 <p>Yes. Yeah. Thanks for reminding me. So again, if you sort of look back
 at accounts of the time, these are things that would not be considered
 politically correct today. The Chinese love for gambling and sticking,
 you know, serious on the outcomes of these sporting matches. So, boxing,
 again, really spoke to that instinct.</p>
-<p></p>
 <p>It allowed people to quickly place bets and I guess some of them became
 rich, but mostly I would assume they lost money. But that was a big, big
 pull towards the sport as well.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Tell me about Tan Teng Kee, you know, and the Battling Key. You
+<br>Okay. Tell me about Tan Teng Kee, you know, and the Battling Key. You
 know how he got his nickname. What do we know about him?</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>So, he’s a very interesting character. And I mean, of course, as we talk
+<br>So, he’s a very interesting character. And I mean, of course, as we talk
 more that will become apparent. But he was from a fairly well-to-do Straits
 Chinese family. Very established, from the old accounts. It seems like
 his father was actually a <em>sinseh </em>[traditional Chinese medical doctor]<em> </em>and
 if I’m not mistaken, there were three boys in the family and two girls.</p>
-<p></p>
 <p>I don’t remember the exact size of the family, but basically all of them
 went to Catholic institutions. And of course, the assumption was that they
 would all go into, you know, proper white-collar jobs, whether it’s in
 the government or private enterprise. But Teng Kee took a different route,
 which was quite shocking for his family.</p>
-<p></p>
 <p>So, when they tried to sort of dissuade him from taking up this rather
 violent sport, he was adamant that, you know, <em>I love boxing so much that I’m just</em>,
 you know, <em>even if I die in the ring, it’s fine</em>. <em>But I’m going to stick to this</em>.
 But we don’t know, unfortunately, the influences on him, because he really
 was the first boxing superstar in Singapore, and this was like in the 1920s.</p>
-<p></p>
 <p>So, we don’t know how he sort of came across the sport. Was it just the
 circuses that were coming over and putting up these, you know, makeshift
 rings, or was it some publication he came across? But yeah, by the 1920s,
 21, he’s already like, you know, an up-and-comer. And within a couple of
-years, he was like a household name.</p>
-<p></p>
-<p></p>
-<p><strong>Jimmy</strong>
+years, he was like a household name.
+<br>
 </p>
-<p>Do we know anything about it? Like, how was he like, a tall guy? Was he
+<p><strong>Jimmy</strong>
+<br>Do we know anything about it? Like, how was he like, a tall guy? Was he
 like a, you know, was he good-looking?</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>He was apparently very good-looking. So, interestingly, he also seems
+<br>He was apparently very good-looking. So, interestingly, he also seems
 to be one of the first sports people whose popularity transcended gender
 as well. So, the women loved him. And apparently even when he would lose,
 his female supporters would be weeping and crying, which was quite remarkable
 for the time.</p>
-<p></p>
 <p>Very, very good-looking guy. Again, this is just going by, you know, the
 grainy photos that we have and had – he seems to have had a certain swagger
 about him, which, again, you know, appealed to, I suppose, to the men as
@@ -211,28 +188,23 @@ of the house and people following him in the streets, which again seems
 like, you know, it just seems so fascinating for the time.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You know, one of the major matches that you talk about in your <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/" rel="noopener noreferrer nofollow" target="_blank">article in </a><em><a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia</a></em> is
+<br>You know, one of the major matches that you talk about in your <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/" rel="noopener noreferrer nofollow" target="_blank">article in </a><em><a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia</a></em> is
 his match with Yeo Choon Song [YC Song]. Who doesn’t seem to have a very
 exciting nickname, unlike the Battling Key, but this is the first time
 that you had, you know, the featherweight championship in Malaya where
-they were like two Chinese guys fighting each other.</p>
-<p></p>
-<p>Now, tell me about that match.</p>
+they were like two Chinese guys fighting each other. Now, tell me about
+that match.</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>So, when we talk about Yeo Choon Song and Battling Key, we can’t focus
+<br>So, when we talk about Yeo Choon Song and Battling Key, we can’t focus
 on one match. It was like a trio of matches. And for a period of about
 – I think it was about 18 months or so. And so, this happened in 1927.
 And as I mentioned earlier, Battling Key came up in the early 20s.</p>
-<p></p>
 <p>So, by the time he was 27, he was already a well-established figure. In
 fact, some reports say that he was already on his way down in terms of
 his boxing prowess. But in terms of his popularity he still remained one
 of the biggest draws, and of course, Singapore’s population being predominantly
 Chinese – everyone was hoping for a fellow Chinese challenger.</p>
-<p></p>
 <p>And that arrived in the form of, you know, YC Song. And the first match
 took place in, if I’m not mistaken, in March of 1927. And it was, of course,
 to an absolutely sold-out crowd at this big arena in Tanjong Pagar, Happy
@@ -247,23 +219,18 @@ or eighth round, when it seems like, you know, Battling Key is done, he
 just lashes out with a punch and happens to catch YC Song over his left
 eye to the point where, you know, it’s a massive cut on his eye and this
 guy is just bleeding all over his face.</p>
-<p></p>
 <p>You can’t allow that to go on. So, despite the fact that it was YC Song
 who was leading, the referee was forced to call the fight to an end and
 award it to Battling Key.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Ah so, Battling Key won the first...</p>
-<p></p>
+<br>Ah so, Battling Key won the first...</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>He won the first of their encounters.</p>
+<br>He won the first of their encounters.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wow. Okay. I’m very excited now.</p>
+<br>Wow. Okay. I’m very excited now.</p>
 <p></p>
 <p><strong>Abhishek</strong>
 </p>
@@ -776,18 +743,18 @@ of, you know, cowered under the garb of civilisation and civility. But
 in especially in a contact sport like boxing and not just the participants,
 but the viewers as well.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay, Abhishek, thank you for joining me on BiblioAsia+. To learn more
 about boxing in Singapore, please do read <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/" rel="noopener noreferrer nofollow" target="_blank">Abhishek’s article</a> on
 BiblioAsia. Thank you for coming over and being our guest this afternoon.</p>
 <p>
-<br><strong>Abhishek</strong>
+<br><strong>Abhishek</strong> 
 <br>Thank you so much, Jimmy.
 <br>
-<br><strong>Jimmy</strong>
+<br><strong>Jimmy</strong> 
 <br>If you’ve enjoyed this episode,&nbsp;<a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>subscribe to the podcast</u></a>&nbsp;and
 the&nbsp;<em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank"><u>BiblioAsia</u></a></em>&nbsp;&nbsp;
-<a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank"><u>newsletter&nbsp;</u>
+<a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank"><u>newsletter&nbsp;</u> 
 </a>. Thank you for joining me on BiblioAsia+.</p>
 <p>&nbsp;</p>
 <p></p>
