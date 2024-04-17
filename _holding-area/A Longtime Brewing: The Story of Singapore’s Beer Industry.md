@@ -33,7 +33,7 @@ The happy product of that marriage was born in 1932 when Tiger Beer, a homegrown
 
 Tiger Beer was an instant success, particularly among British servicemen in Malaya due to its refreshing taste and affordable price. Within two years of its launch, Tiger Beer accounted for over two thirds of beer consumed in British Malaya.[^10]
 
-<img src="/images/Online%20Only%20Articles/Beer/tiger_beer.png" style="width: 85%;">
+<img src="/images/Online%20Only%20Articles/Beer/tiger_beer.png" style="width: 55%;">
 <div style="background-color: white;">A 1932 advertisement for Tiger Beer. <i>Image reproduced from “Tiger Beer,” Singapore Free Press and Mercantile Advertiser, 8 October 1932, 20. (From NewspaperSG).</i></div>
 
 The success of Malayan Breweries was largely due to the technical expertise provided by Heineken, which had a 40 percent stake in the company. Besides its expertise in brewing, Heineken also brought in sophisticated laboratory facilities and highly trained personnel. These included master brewers and technical managers who maintained strict quality standards that was crucial to Tiger’s success.[^11]
