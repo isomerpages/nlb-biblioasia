@@ -45,8 +45,21 @@ Research Fellow (2021–22).</p>
 <p></p>
 <h4>Resources</h4>
 <p>Abhishek Mehrotra, "Gloved Gods: Battling Key, Yeo Choon Song and the
-Roaring ‘20s of Singapore Boxing, " <em>BiblioAsia</em> 20, no. 2 (July–September
+Roaring ‘20s of Singapore Boxing," <em>BiblioAsia</em> 20, no. 2 (July–September
 2024).</p>
+<p></p>
+<p>Nick Aplin and Quek Jin Jong, “Celestials in Touch: Sport and the Chinese
+in Colonial Singapore,” in <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12328575" rel="noopener noreferrer nofollow" target="_blank"><u>Sport in Asian Society: Past and Present</u></a></em>,
+ed. J.A. Mangan and Fan Hong (London; Portland, Or.: Cass, 2003). (From
+National Library, Singapore, call no. R 796.095 SPO)&nbsp;</p>
+<p></p>
+<p>H.L. Hopkin, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19271207-1.2.32" rel="noopener noreferrer nofollow" target="_blank"><u>Boxing Nights in Singapore</u></a>,” <em>Straits Times</em>,
+7 December 1927, 8. (From NewspaperSG).</p>
+<p></p>
+<p>Lim Kee Chan, oral history interview by Chong Ching Liang, 18 April 1999,
+<a href="https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f396ab09-115f-11e3-83d5-0050568939ad-OHC001770_006/web/html5/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>transcript</u>
+</a>and MP3 audio, Reel/Disc 6 of 13, National Archives of Singapore (<a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001770" rel="noopener noreferrer nofollow" target="_blank"><u>accession no. 0001770</u></a>).</p>
+<p></p>
 <h4>Credits</h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by One Dash. The background music "Di
