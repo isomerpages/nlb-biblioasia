@@ -119,7 +119,8 @@ Lee, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201266968">Th
 </div>
 
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Cats/siesie1.png"><b>Ho Sie Sie </b>is a Manager at the Resource Discovery and Management, National Library Board. She is trained to tap a glass of Tiger Beer at 45 degrees to get the ideal layer of foam.<br>
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Cats/siesie1.png">
+	<b>Ho Sie Sie </b>is a Manager at the Resource Discovery and Management, National Library Board. She is trained to tap a glass of Tiger Beer at 45 degrees to get the ideal layer of foam.
 	
 #### **Notes**
   
