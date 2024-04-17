@@ -232,13 +232,13 @@ award it to Battling Key.</p>
 <p><strong>Jimmy</strong> 
 <br>Wow. Okay. I’m very excited now.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>So were the crowds.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>That sets it up for the next fight.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yes. So, and that happens very quickly because, you know, we have to remember
 that boxing was obviously a business – and there were people putting money
 behind the entire, you know, organising the whole thing. So, when they
@@ -263,10 +263,10 @@ eye.</p>
 on. We don’t know the exact reasons why, but he allows it. And eventually
 it’s Song who prevails. So now we are tied at 1-1.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Wow. Okay, so you need a tiebreaker then?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yep. And that happened. That took a while coming. We’re not sure of the
 reasons why. Battling Key also used to travel a lot in the region, so perhaps
 he just didn’t have the time to fight Song again. Nonetheless, it took
@@ -276,10 +276,10 @@ a few years earlier.</p>
 all the way. He is just punching Battling Key left right and centre and
 to the point where it just seems like Battling Key is punch drunk.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>How many rounds does it go?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>This was 10 rounds. By now, of course, Song has a solid following as well.
 So, you have his supporters in full voice, you know, roaring for him to
 finish off Battling Key. The interesting part also is that the two didn’t
@@ -294,23 +294,23 @@ them the all clear.</p>
 guy. He was an established legend. And then all these youngsters, you know,
 accusing him of –</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Cheating really.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yeah. By the time you come to the third fight, there is some serious,
 you know, bad blood between them. But Song is younger, fitter. He has not
 had the punishment that Battling Key has had for the past six, seven years.
 So eventually it is he who prevails and that sort of in a way brings down
 the curtain on Battling Key as a premier name in Singapore.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So, Battling Key had a stage as Singapore’s premier fighter for like,
 I don’t know, five years or so. And then, Song comes along, defeats him
 in three very exciting bouts, and becomes the undisputed champion. Then
 what happens to Song?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yeah, so that’s the unfortunate part. From the reports at the time, it
 seems like in one of his other fights, Song got a serious injury to his
 left hand, which was his dominant hand, and he just could not recover from
@@ -328,17 +328,17 @@ then he is around for another two, three years. He wins a few other big
 fights, but by the time he’s 25, which was in 1931, he’s already announced
 his retirement.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>How old was Battling Key when YC Song beat him?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Battling Key would have been 29 the first time they met and then 30 the
 last time they met.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>All right.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>So, there was an age gap of about seven years between them. Battling Key
 was born in 1898 and Song in 1906 – 1905 or 06. So, in 1931, when he was
 only in his mid-20s, which is not very old for a boxer at all, he announces
@@ -346,20 +346,20 @@ his retirement. He eventually, you know, rescinded that and came back to
 fight a couple of years later. But he sort of, like, really disappears
 from, you know, our sporting history.</p>
 <p>
-<br><strong>Jimmy</strong>
+<br><strong>Jimmy</strong> 
 <br>And hangs up his gloves and becomes like a preacher or something.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>So again, I think one of the reasons is that [Song] was not as colourful
 a character, not larger-than-life compared to Battling Key, which perhaps
 was why the promoters didn’t give him the chances that he might have otherwise
 gotten.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay. Looking back, what do you think was the legacy of that particular
 match or that period in time?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yeah, I think the period in time has a bigger legacy than those matches.
 Unfortunately, they were built up as this battle of, you know, the king
 and the young contender for the throne. But like I said, Song really could
@@ -369,10 +369,10 @@ in establishing a boxing ecosystem in Singapore, which really led to what,
 you know, writers decades later would consider the golden era of Singapore
 boxing, which was actually the 30s.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So, the 30s are known as the golden era for boxing.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yeah. I mean it’s interesting because if you look at the reports from
 that time, there are multiple articles talking about, mourning about how,
 you know, boxing is no longer as popular, etc. But if you look at articles
@@ -380,19 +380,19 @@ written by old timers much, much later, they really consider the 1930s
 to have been a time when boxing was flourishing not just in Singapore but
 across the Straits and all of Malaya as well.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Without going into too much detail because we want everyone to read your
 amazing article, tell us a little bit about Battling Key’s ending of his
 career.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yeah, it was a very sad ending even when you read about it 90 years later,
 it really sort of breaks your heart.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>It hits you.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Well said. Yes, it does. It does hit you because, you know, as I mentioned,
 after his fight with YC Song, the impression that was created was that
 this guy is over the hill now. And also, he really [couldn’t], you know,
@@ -407,27 +407,27 @@ albums with his previous victories, etc.</p>
 <p>But eventually, you know, he was forced to start fighting more and more
 outside Singapore in other parts of Malaya.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>In presumably less prestigious, less well-paying venues.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Almost nothing. So just for comparison, in his heyday, he could command
 $2,000. By the time we come to the end of his career, he was willing to
 fight for $30.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Wow. Okay.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>So, it was a big sort of downfall or decline for someone who was really
 the first megastar.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>You have to read Abhishek’s article to find out how it all ends, which
 is quite tragic. Let’s pull back the camera a little bit and look at the
 environment in which all these fights took place.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Right. And to be honest, I mean, that is almost as entertaining, if not
 more entertaining than Battling Key and his fights with Yeo Choon Song,
 because very quickly in the early 20s, like I said, there was this ecosystem
@@ -455,12 +455,12 @@ everything, even something as basic as renting chairs at the venue.</p>
 these are obviously just official expenses. And there was a lot of what
 you would consider as shady business going on as well.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Tell me about shady business. I’m always interested in shady businesses.
 I’m trying to supplement my income with shady businesses as well. Hopefully
 you can give me some ideas.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Then you will like this. The idea was to drum up hype around any given
 fight. If one is a promoter, you just want to, you know, tell the crowd
 that this is going to be the best fight of all time. Which is not so different
@@ -471,16 +471,16 @@ ranging and hopefully favourable coverage.</p>
 through which you could get the press on your side, whether it was… whether
 it was –</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Wine, women and song.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yes. Thank you for filling in those blanks.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>You’re such a prude, Abhishek.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>I was searching for the right words. I’m not sure when the entertainment
 tax was implemented in Singapore. I think it was sometime in the ‘30s as
 well. But the promoters wanted to get around it as well so they would promise
@@ -504,10 +504,10 @@ right at the bottom of the chain who’s doing all these things.</p>
 of the ticket printed and then again, not venture anywhere close to the
 arena, you know, but in the more far-flung areas of the island, really.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So, they were pirating the ticket? Wow.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Sadly, no mobile phones then for e-tickets. When you were going in with
 your ticket and you’re handing it to the guy who’s collecting them, the
 ticket collector is supposed to tear the stub and give it to you. Conveniently,
@@ -516,27 +516,27 @@ himself. He would have one more accomplice who’d come, collect those tickets.
 Pass it to another guy waiting outside. This guy would go a little further
 afield and you know.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Set it off.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Set it off. So, there was this entire sort of, mini sort of mafia cartel,
 auto, black market, whatever you want to call it, going on.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>It sounds amazing.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>It's fascinating.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>A little too much work for me, though, personally. But, you know, if you
 come across slightly easier ways of making money, Abhishek, let me know.</p>
 <p>Last time you were in the studio with us, you were talking about tennis
 and how you know, going professional at the time was verboten. But boxing
 was very different.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yes. And again, I just have theories about it. I suppose someone who’s
 done, you know, more detailed research into this particular aspect would
 know more. But I think it still goes back to the origins of boxing and
@@ -549,127 +549,101 @@ so looked down upon. Having said that, there was also a Singapore Amateur
 Boxing Association that was formed in 1929.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. So, this is very different from the professionals.</p>
+<br>Okay. So, this is very different from the professionals.</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>Yes. So again, I can’t go into too much detail because I haven’t done
+<br>Yes. So again, I can’t go into too much detail because I haven’t done
 – my focus was primarily on professional boxing, but it seems like there
 were a lot of boxing centres and a lot of competitions being held for amateur
 boxers as well. But the primary impetus for the sport, from my reading,
 at least in those early years, came from professional boxing.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And it makes a lot of sense. I mean, that’s where the money was. So presumably
+<br>And it makes a lot of sense. I mean, that’s where the money was. So presumably
 that’s where all the best boxers would head for, right?</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>Absolutely. And it became like a bit of an aspirational sport for a lot
+<br>Absolutely. And it became like a bit of an aspirational sport for a lot
 of these youngsters who maybe I mean, ironically, the two people we have
 talked about are, you know, actually not from those classes. They are,
 like I said, Tan Teng Kee was from a very well-established Chinese family,
 but a lot of the boxers who followed, it does seem like their backgrounds
 were more blue-collar.</p>
-<p></p>
 <p>So, it became like an aspiration for these youngsters to get into the
 ring, fight for a few years and because you also remember that it was a
 very short career. So, you get punched up and down over a period of years
 and you lose your abilities very quickly.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>A way, somewhat, for a young working-class guy to, you know, rise up,
+<br>A way, somewhat, for a young working-class guy to, you know, rise up,
 earn some money. Absolutely. And punch, beat people up for a living.</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>Absolutely. And get the adulation along the way.</p>
+<br>Absolutely. And get the adulation along the way.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Way to fame and fortune, right?</p>
+<br>Way to fame and fortune, right?</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>Absolutely. Yeah. It did tick all those boxes.</p>
+<br>Absolutely. Yeah. It did tick all those boxes.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>This is what I plan to do now. I’ve found my calling to be a boxer. Abhishek,
+<br>This is what I plan to do now. I’ve found my calling to be a boxer. Abhishek,
 thank you for joining us. We’ve sort of come to the end of the meaty part
 of the lead interview. Now we come to the less meaty but much more entertaining
 part where we ask these stupid questions.</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>Looking forward to it.</p>
+<br>Looking forward to it.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Would you rather be a professional boxer or would you be a tennis player?</p>
+<br>Would you rather be a professional boxer or would you be a tennis player?</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>I think – I don’t have the chin to be a boxer. A strong chin is very important
+<br>I think – I don’t have the chin to be a boxer. A strong chin is very important
 in boxing. I have a tiny chin.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Hence the beard.</p>
+<br>Hence the beard.</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>Exactly, so I think I will stick to a non-contact, gentlemanly sport like
+<br>Exactly, so I think I will stick to a non-contact, gentlemanly sport like
 tennis.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But if you had to pick a combat sport, and it doesn’t matter what it is,
+<br>But if you had to pick a combat sport, and it doesn’t matter what it is,
 what would your nickname be?</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>That’s a tough one.</p>
+<br>That’s a tough one.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>The Bearded One.</p>
+<br>The Bearded One.</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>Yeah. Well, since you mentioned the beard, let’s go with The Bearded Basher.</p>
+<br>Yeah. Well, since you mentioned the beard, let’s go with The Bearded Basher.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I like that. I like that. The Bearded Basher – I like that. Now, I’ll
+<br>I like that. I like that. The Bearded Basher – I like that. Now, I’ll
 say a word to you, and you respond. For example, fatherhood.</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>Anxiety mixed with a sprinkling of excitement.</p>
+<br>Anxiety mixed with a sprinkling of excitement.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>For people who don’t know, Abhishek will soon be a father and he’s looking
+<br>For people who don’t know, Abhishek will soon be a father and he’s looking
 forward to spending time with his daughter and being much, much poorer
 because he no longer has any money.</p>
-<p></p>
 <p>Last question. Sports is…</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>A reflection of human nature.</p>
+<br>A reflection of human nature.</p>
 <p></p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Well, what does that mean?</p>
+<br>Well, what does that mean?</p>
 <p></p>
 <p><strong>Abhishek</strong>
-</p>
-<p>I think it, like we discussed earlier in boxing, for example, it really
+<br>I think it, like we discussed earlier in boxing, for example, it really
 brings out some of our more primal instincts, instincts that have sort
 of, you know, cowered under the garb of civilisation and civility. But
 in especially in a contact sport like boxing and not just the participants,
