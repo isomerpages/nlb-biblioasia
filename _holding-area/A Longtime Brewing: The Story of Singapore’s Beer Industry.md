@@ -95,7 +95,6 @@ Dr Leonard Bels, the brew master at Malayan Breweries from 1949 to 1974, noted t
 
 <img src="/images/Online%20Only%20Articles/Beer/20220000214_img1191.png" style="width: 85%;">
 <div style="background-color: white;">Military personnel enjoying a pint, including Tiger Beer, at the Navy, Army and Air Force Institutes (NAAFI), 1960s. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div><br>
-
 <img src="/images/Online%20Only%20Articles/Beer/20190000006_img0007.png" style="width: 85%;">
 <div style="background-color: white;">An employee overseeing the filling and bottling of Tiger Beer on the bottling line at the brewery, 1960s. <i>E. Wolters Collection, courtesy of National Archives of Singapore.</i></div>
 
