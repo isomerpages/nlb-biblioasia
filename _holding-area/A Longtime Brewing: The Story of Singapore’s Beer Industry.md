@@ -112,8 +112,7 @@ Lee also shared how he won the support of political party members through food a
 <img src="/images/Online%20Only%20Articles/Beer/group_photo.png" style="width: 65%;">
 <div style="background-color: #fff6ba;">A group photo taken by Lee Kuan Yew when he visited (from left to right) Lim Chin Siong, Sidney Woodhull, Fong Swee Suan and Devan Nair in the Changi detention camp in 1958. <i>Image reproduced from The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1. (Singapore: Marshall Cavendish International Editions, 2012), 381. (From National Library, Singapore, call no. RSING_ 959.5705092 LEE).</i></div><br><br>	
 <b>REFERENCES</b><br><br>
-Lee Kuan Yew, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201266968">The Singapore Story: Memoirs of Lee Kuan Yew</a></i> (Marshall Cavendish International, 2014), 466. (From National Library, Singapore, call no. RSING 959.5705092 LEE)<br><br>
-Lee, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201266968">The Singapore Story</a></i>, 379.
+Lee Kuan Yew, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201266968">The Singapore Story: Memoirs of Lee Kuan Yew</a></i> (Marshall Cavendish International, 2014), 379, 466. (From National Library, Singapore, call no. RSING 959.5705092 LEE)<br><br>
 
 </div><br>
 
