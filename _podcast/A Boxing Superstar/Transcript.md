@@ -32,10 +32,10 @@ boxing, you know, in Singapore. When and where and how did it come to Singapore?
 <p><strong>Abhishek</strong> 
 <br>Okay, so there are a few stories around it. I think they’ve just become
 legend now. One of the most, I suppose, widely disseminated one is that
-in the 20s, Singapore was a burgeoning entertainment centre and there were
-a lot of traveling circuses coming over from all over the region. The Philippines,
-Indonesia, etc. So, the story goes that a set of circus promoters, a set
-of brothers, brought a circus to Singapore.</p>
+in the ’20s, Singapore was a burgeoning entertainment centre and there
+were a lot of traveling circuses coming over from all over the region.
+The Philippines, Indonesia, etc. So, the story goes that a set of circus
+promoters, a set of brothers, brought a circus to Singapore.</p>
 <p>And they were huge boxing fans. After the circus ended for the day, they
 [would] set up an impromptu ring and they [would get] two of their Filipino
 workers to just spar for a few rounds to see if there was any sort of interest.
@@ -442,7 +442,7 @@ of entertainment and really the population was thirsting for it. So, the
 first major sort of venue that opened that I think our listeners would
 have heard of was New World – where City Square Residences and City Square
 Mall is today in Little India.</p>
-<p>And this was in 1923 or '24. And very quickly there were like [others]
+<p>And this was in 1923 or ’24. And very quickly there were like [others]
 and then you had Great World, which opened in 1929. And then, of course,
 Happy World opened in the mid-to-late-30s. So, there was this entire ecosystem
 of entertainment venues, of promoters, managers going around, but having
@@ -548,21 +548,21 @@ from the streets, which is, I think, the primary reason where it was not
 so looked down upon. Having said that, there was also a Singapore Amateur
 Boxing Association that was formed in 1929.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay. So, this is very different from the professionals.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yes. So again, I can’t go into too much detail because I haven’t done
 – my focus was primarily on professional boxing, but it seems like there
 were a lot of boxing centres and a lot of competitions being held for amateur
 boxers as well. But the primary impetus for the sport, from my reading,
 at least in those early years, came from professional boxing.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>And it makes a lot of sense. I mean, that’s where the money was. So presumably
 that’s where all the best boxers would head for, right?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Absolutely. And it became like a bit of an aspirational sport for a lot
 of these youngsters who maybe I mean, ironically, the two people we have
 talked about are, you know, actually not from those classes. They are,
@@ -574,75 +574,75 @@ ring, fight for a few years and because you also remember that it was a
 very short career. So, you get punched up and down over a period of years
 and you lose your abilities very quickly.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>A way, somewhat, for a young working-class guy to, you know, rise up,
 earn some money. Absolutely. And punch, beat people up for a living.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Absolutely. And get the adulation along the way.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Way to fame and fortune, right?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Absolutely. Yeah. It did tick all those boxes.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>This is what I plan to do now. I’ve found my calling to be a boxer. Abhishek,
 thank you for joining us. We’ve sort of come to the end of the meaty part
 of the lead interview. Now we come to the less meaty but much more entertaining
 part where we ask these stupid questions.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Looking forward to it.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Would you rather be a professional boxer or would you be a tennis player?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>I think – I don’t have the chin to be a boxer. A strong chin is very important
 in boxing. I have a tiny chin.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Hence the beard.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Exactly, so I think I will stick to a non-contact, gentlemanly sport like
 tennis.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>But if you had to pick a combat sport, and it doesn’t matter what it is,
 what would your nickname be?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>That’s a tough one.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>The Bearded One.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Yeah. Well, since you mentioned the beard, let’s go with The Bearded Basher.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I like that. I like that. The Bearded Basher – I like that. Now, I’ll
 say a word to you, and you respond. For example, fatherhood.</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>Anxiety mixed with a sprinkling of excitement.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>For people who don’t know, Abhishek will soon be a father and he’s looking
 forward to spending time with his daughter and being much, much poorer
 because he no longer has any money.</p>
 <p>Last question. Sports is…</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>A reflection of human nature.</p>
 <p></p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Well, what does that mean?</p>
 <p></p>
-<p><strong>Abhishek</strong>
+<p><strong>Abhishek</strong> 
 <br>I think it, like we discussed earlier in boxing, for example, it really
 brings out some of our more primal instincts, instincts that have sort
 of, you know, cowered under the garb of civilisation and civility. But
