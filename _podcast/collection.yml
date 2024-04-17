@@ -2,9 +2,9 @@ collections:
   podcast:
     output: true
     order:
-      - A Boxing Superstar/Transcript.md
-      - A Boxing Superstar/The Tragedy of Singapore’s First Boxing Superstar.md
       - A Boxing Superstar/.keep
+      - A Boxing Superstar/The Tragedy of Singapore’s First Boxing Superstar.md
+      - A Boxing Superstar/Transcript.md
       - A Local Olympian/.keep
       - "A Local Olympian/Chia Boon Leong: The Homegrown Football Olympian.md"
       - A Local Olympian/Transcript.md
