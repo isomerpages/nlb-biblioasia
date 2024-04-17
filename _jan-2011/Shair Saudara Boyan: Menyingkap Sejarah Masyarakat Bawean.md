@@ -347,7 +347,7 @@ _Persatuan Bawean Singapura_, https://opengovsg.com/corporate/S34SS0001G.
 
 [^26]: “[Boyanese](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833),” 70. Kelab Pondok Peranakan Gelam merupakan symbol keharmonian masyarakat berbilang kaum di Singapura. Semasa rusuhan kaum yang dicetuskan oleh gurila-gurila Parti Komunis Malaya (Bintang Tiga) di Singapura pada tahun 1947, masyarakat Bawean di kawasan ini dilindungi oleh jiran-jiran Cina mereka di daerah in, “Pondok Peranakan Gelam Club,” [https://www.roots.gov.sg/en/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club](https://www.roots.gov.sg/en/places/places-landing/Places/historic-sites/pondok-peranakan-gelam-club).
 
-[^27]: Lelaman Persatuan Bawean Singapura (https://muziumpbs.blogspot.com/p/persatuan-bawean-singapura.html)
+[^27]: Sejarah Persatuan Bawean Singapura. Retrieved 2024, April 17, from https://muziumpbs.blogspot.com/p/persatuan-bawean-singapura.html
 
 [^28]: “[Boyanese](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12768833),” 70.
 
