@@ -97,7 +97,7 @@ people who were thirsting for some entertainment. In general, if you consider
 boxing a sport, I think it speaks to something very primal within us and
 we will speak about it in detail later. But Tan Teng Kee, Battling Key,
 who you mentioned earlier, was at that time one of the most popular boxers
-in Singapore. We fast forward to the late 20s and when he’s challenged
+in Singapore. We fast forward to the late ’20s and when he’s challenged
 by an up-and-coming boxer, he was beaten up very badly.</p>
 <p>And there are reports at the time indicating that the crowd was like,
 there was a serious bloodlust happening. So, they called upon this younger
@@ -111,7 +111,7 @@ of a brain are hooked onto a violent sport like boxing.</p>
 that definitely goes back to like, you know, the Romans and the Colosseum.
 Gladiators fight. Two people facing off. And with the prospect of blood.
 So, at the time, you know, the people who attended the boxing matches and
-in the 20s who were they? I mean, so they were like the man in the street,
+in the ’20s who were they? I mean, so they were like the man in the street,
 you were saying?</p>
 <p></p>
 <p><strong>Abhishek</strong> 
@@ -199,7 +199,7 @@ that match.</p>
 <br>So, when we talk about Yeo Choon Song and Battling Key, we can’t focus
 on one match. It was like a trio of matches. And for a period of about
 – I think it was about 18 months or so. And so, this happened in 1927.
-And as I mentioned earlier, Battling Key came up in the early 20s.</p>
+And as I mentioned earlier, Battling Key came up in the early ’20s.</p>
 <p>So, by the time he was 27, he was already a well-established figure. In
 fact, some reports say that he was already on his way down in terms of
 his boxing prowess. But in terms of his popularity he still remained one
@@ -430,13 +430,13 @@ environment in which all these fights took place.</p>
 <p><strong>Abhishek</strong> 
 <br>Right. And to be honest, I mean, that is almost as entertaining, if not
 more entertaining than Battling Key and his fights with Yeo Choon Song,
-because very quickly in the early 20s, like I said, there was this ecosystem
+because very quickly in the early ’20s, like I said, there was this ecosystem
 of promoters, managers, syndicates that came together to organise different
 sorts of fights. And also, I suppose in a happy coincidence, this was the
-time when if you look at it economically, the mid-20s was the Roaring 20s
+time when if you look at it economically, the mid-20s was the Roaring ’20s
 for Singapore as well. Singapore and its population was making more money
 than it ever had, which of course led to, you know, cash to spend on entertainment.</p>
-<p>So, through the 20s you had, like I have mentioned, circuses already,
+<p>So, through the ’20s you had, like I have mentioned, circuses already,
 but you had – cabaret was coming up gradually, then you had other forms
 of entertainment and really the population was thirsting for it. So, the
 first major sort of venue that opened that I think our listeners would
