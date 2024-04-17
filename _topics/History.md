@@ -4,6 +4,13 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/history/2024/4/beer-brewing-production-brewery-singapore/">**A Longtime Brewing: The Story of Singapore’s Beer Industry**</a>
+
+From Tiger to craft beer, beer brewing in Singapore had a long and storied history.
+
+<img src="/images/Online%20Only%20Articles/Beer/20190000006_img0007.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/history/2024/4/cats-rats-parachute-malaya/">It’s a Cat’s Life: Airborne Felines Fight in War Against Rats</a>
 
 In 1960, 23 unsuspecting cats found themselves being airdropped into Bario, Sarawak, as part of a rat-busting operation.
