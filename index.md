@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 1/Vietnam War/Hero_img_vietnam_war2.jpg
   - infopic:
+      title: "A Longtime Brewing: The Story of Singapore’s Beer Industry"
+      subtitle: History
+      id: infopic
+      description: From Tiger to craft beer, beer brewing in Singapore had a long and
+        storied history.
+      button: The Perfect Pint
+      url: /history/2024/4/beer-brewing-production-brewery-singapore/
+      image: /images/Online Only Articles/Beer/20190000006_img0007.png
+      alt: Image alt text
+  - infopic:
       title: Battling Key, Yeo Choon Song and Singapore Boxing
       subtitle: Sports
       id: infopic
@@ -932,14 +942,4 @@ sections:
       url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
       image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
       alt: Tennis
-  - infopic:
-      title: "A Longtime Brewing: The Story of Singapore’s Beer Industry"
-      subtitle: History
-      id: infopic
-      description: From Tiger to craft beer, beer brewing in Singapore had a long and
-        storied history.
-      button: The Perfect Pint
-      url: /history/2024/4/beer-brewing-production-brewery-singapore/
-      image: /images/Online Only Articles/Beer/20190000006_img0007.png
-      alt: Image alt text
 ---
