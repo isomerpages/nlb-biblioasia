@@ -4,7 +4,7 @@ permalink: /holding-area/singapore-s-beer-industry/
 variant: markdown
 description: ""
 ---
-#### **From Tiger to craft beer, beer brewing in Singapore had a long and storied history.**
+#### **From Tiger to craft beer, beer brewing in Singapore has had a long and storied history.**
 By Ho Sie Sie
 
 Given Singapore’s warm climate, it will not come as a surprise that people are partial to the occasional glass of ice-cold beer. Or perhaps, more than an occasional glass. Beer production in Singapore is set to reach 200,000 metric tonnes by 2026. In 2021, Singapore was ranked 83rd among key markets across the world for beer production.[^1]
