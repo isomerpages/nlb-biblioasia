@@ -6,8 +6,9 @@ description: ""
 third_nav_title: A Boxing Superstar
 ---
 <p>Tan Teng Kee was the Mike Tyson of Singapore boxing in the 1920s. Known
-as Battling Key, the larger-than-life boxer attracted crowds wherever he
-went. Which makes his drastic&nbsp;downfall&nbsp;all the more tragic.</p>
+as <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/" rel="noopener noreferrer nofollow" target="_blank">Battling Key</a>,
+the larger-than-life boxer attracted crowds wherever he went. Which makes
+his drastic&nbsp;downfall&nbsp;all the more tragic.</p>
 <p></p>
 <h4>Listen to the Full Episode</h4>
 <p>Available on: <a href="https://open.spotify.com/episode/0u6zlPR4vAIfOfggi3zA42" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
@@ -43,7 +44,9 @@ book is slated for release in 2025. Abhishek is a former Lee Kong Chian
 Research Fellow (2021–22).</p>
 <p></p>
 <h4>Resources</h4>
-<p></p>
+<p>Abhishek Mehrotra, "Gloved Gods: Battling Key, Yeo Choon Song and the
+Roaring ‘20s of Singapore Boxing, " <em>BiblioAsia</em> 20, no. 2 (July–September
+2024).</p>
 <h4>Credits</h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by One Dash. The background music "Di
