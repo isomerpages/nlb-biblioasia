@@ -4,7 +4,7 @@ permalink: /holding-area/singapore-s-beer-industry/
 variant: markdown
 description: ""
 ---
-#### **From Tiger to craft beer, beer brewing in Singapore has a long and storied history.**
+#### **From Tiger to craft beer, beer brewing in Singapore had a long and storied history.**
 By Ho Sie Sie
 
 Given Singapore’s warm climate, it will not come as a surprise that people are partial to the occasional glass of ice-cold beer. Or perhaps, more than an occasional glass. Beer production in Singapore is set to reach 200,000 metric tonnes by 2026. In 2021, Singapore was ranked 83rd among key markets across the world for beer production.[^1]
@@ -22,7 +22,7 @@ Seeing a gap in the industry, The Straits Brewery Limited proposed in 1904 to st
 
 #### **From Aerated Water to Liquid Gold**
 
-The story of local beer brewing in Singapore really starts with Fraser &amp; Neave (better known as F&amp;N), though the company was not set-up to brew beer. Indeed, it didn’t take on this name until later. In 1883, Englishmen John Fraser and David Chalmers Neave founded the Singapore and Straits Aerated Water Company and by 1890, the company specialised in manufacturing “soda water, seltzer water, potass water, lemonade, tonic, ginger ale” for Singapore’s clubs, hotels and residences. From just 20 employees, the company grew to become one of the island’s largest companies with 63 employees and branches in other parts of Malaya and Asia by 1913.[^5] In 1898, the business went public and was renamed Fraser &amp; Neave.[^6]
+The story of local beer brewing in Singapore really starts with Fraser &amp; Neave (better known as F&amp;N), though the company was not set up to brew beer. Indeed, it didn’t take on this name until later. In 1883, Englishmen John Fraser and David Chalmers Neave founded the Singapore and Straits Aerated Water Company and by 1890, the company specialised in manufacturing “soda water, seltzer water, potass water, lemonade, tonic, ginger ale” for Singapore’s clubs, hotels and residences. From just 20 employees, the company grew to become one of the island’s largest companies with 63 employees and branches in other parts of Malaya and Asia by 1913.[^5] In 1898, the business went public and was renamed Fraser &amp; Neave.[^6]
 
 The start of World War One (1914–18) saw F&amp;N reducing capacity to survive and it took years after the war ended for it to recover. F&amp;N then decided to partner with one of Holland’s most important breweries, Heineken. The partnership allowed both companies to further their development and expansion. Heineken was able to gain a foothold into Asia while F&amp;N had access to Heineken’s technical expertise in brewing quality beer.[^7] This partnership led to the establishment of Malayan Breweries Limited, the first modern brewery (located behind Alexandra Brickworks) built in Singapore with a capital of $1 million in 1931.[^8]
 
