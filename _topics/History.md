@@ -4,7 +4,7 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/history/2024/4/beer-brewing-production-brewery-singapore/">**A Longtime Brewing: The Story of Singapore’s Beer Industry**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/history/2024/4/beer-brewing-production-brewery-singapore/">**A Long Time Brewing: The Story of Singapore’s Beer Industry**</a>
 
 From Tiger to craft beer, beer brewing in Singapore had a long and storied history.
 

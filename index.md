@@ -28,7 +28,7 @@ sections:
       image: /images/Podcast/isomer_abhishek.jpg
       alt: Image alt text
   - infopic:
-      title: "A Longtime Brewing: The Story of Singapore’s Beer Industry"
+      title: "A Long Time Brewing: The Story of Singapore’s Beer Industry"
       subtitle: History
       id: infopic
       description: From Tiger to craft beer, beer brewing in Singapore had a long and
