@@ -10,8 +10,7 @@ variant: tiptap
 forgotten, all fascinating. Does Singapore have a stone age? What’s happened
 to the murals at the old Paya Lebar airport? Who were the local tennis
 greats? Find out in this history-focused podcast. Available on <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
-<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8" rel="noopener noreferrer nofollow" target="_blank">Google Podcasts</a> and
-<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
+<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>and <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
 <p><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a> to
 get notified when the next episode drops.</p>
 <div class="isomer-image-wrapper">
