@@ -38,10 +38,9 @@ tennis
 <h4><strong>About the Guest</strong></h4>
 <p>Abhishek Mehrotra&nbsp;is a researcher and writer whose interests include
 media and society in colonial Singapore, urban toponymy and post-independence
-India. He is working on his first book – a biography of T.N. Seshan, one
-of India’s most prominent bureaucrats. Commissioned by HarperCollins, the
-book is slated for release in 2025. Abhishek is a former Lee Kong Chian
-Research Fellow (2021–22).</p>
+India. He is working on his first book – a biography of T.N. Seshan (HarperCollins,
+2025), one of India’s most prominent bureaucrats. Abhishek is a former
+Lee Kong Chian Research Fellow (2021–22).</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
 <p>Abhishek Mehrotra, "Gloved Gods: Battling Key, Yeo Choon Song and the
