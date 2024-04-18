@@ -64,7 +64,7 @@ Because everything has changed so much in the ensuing decades, Yip had to rely o
 
 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>  
-<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/](https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/)"> Artist Yip Yew Chong Paints His Story in History</a>"</b>  
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/"> Artist Yip Yew Chong Paints His Story in History</a>"</b>  
 <br>  
 <img style="width:95%" alt="singapore history podcast Artist Yip Yew Chong Paints His Story in History" src="/images/Podcast/ad_banner_biblioasia.jpg"> </center></div>
 
