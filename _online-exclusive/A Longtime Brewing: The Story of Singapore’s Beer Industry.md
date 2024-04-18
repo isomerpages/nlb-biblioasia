@@ -78,7 +78,7 @@ When the raw materials to brew beer started to run out, De Souza “start\[ed\] 
 To deal with the shortage of raw ingredients, an alternative version of Tiger Beer was created, called Tiger Cub. It used a smaller bottle and less malt, resulting in a brew that was lighter than the original. Tiger Cub remained in production until 1947 when the original Tiger Beer made its return.[^28]
 
 <img src="/images/Online%20Only%20Articles/Beer/tiger_cub_rev.png" style="width: 80%;">
-<div style="background-color: white;">(Left) Tiger Cub was a lighter brew produced in response to a lack of raw ingredients to make the original Tiger Beer. (Right) These ads were published in January 1947 to publicise the return of the original full-strength Tiger Beer. <i>Asia Pacific Breweries Singapore.</i></div>
+<div style="background-color: white;">(Left) Tiger Cub was a lighter brew produced in response to a lack of raw ingredients to make the original Tiger Beer. (Right) These ads were published in January 1947 to publicise the return of the original full-strength Tiger Beer. <i>Courtesy of Asia Pacific Breweries Singapore.</i></div>
 
 #### **Post-war and Changes in Sales Strategies**
 
