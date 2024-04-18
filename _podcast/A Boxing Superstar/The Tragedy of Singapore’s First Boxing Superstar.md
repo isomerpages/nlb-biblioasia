@@ -43,9 +43,8 @@ of T.N. Seshan, one of India’s most prominent bureaucrats. Abhishek is
 a former Lee Kong Chian Research Fellow (2021–22).</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p>Abhishek Mehrotra, "Gloved Gods: Battling Key, Yeo Choon Song and the
-Roaring ‘20s of Singapore Boxing," <em>BiblioAsia</em> 20, no. 2 (July–September
-2024).</p>
+<p>Abhishek Mehrotra, "<a href="/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/" rel="noopener noreferrer nofollow" target="_blank">Gloved Gods: Battling Key, Yeo Choon Song and the Roaring 20s of Singapore Boxing</a>," <em>BiblioAsia</em> 20,
+no. 2 (July–September 2024).</p>
 <p></p>
 <p>Nick Aplin and Quek Jin Jong, “Celestials in Touch: Sport and the Chinese
 in Colonial Singapore,” in <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12328575" rel="noopener noreferrer nofollow" target="_blank"><u>Sport in Asian Society: Past and Present</u></a></em>,
