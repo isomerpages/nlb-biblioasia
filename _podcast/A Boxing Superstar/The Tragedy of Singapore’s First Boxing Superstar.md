@@ -11,7 +11,7 @@ the larger-than-life boxer attracted crowds wherever he went. Which makes
 his drastic&nbsp;downfall&nbsp;all the more tragic.</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: <a href="https://open.spotify.com/episode/0u6zlPR4vAIfOfggi3zA42" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
+<p>Available on: <a href="https://open.spotify.com/episode/1CtCj8pMYp33OOlQiz7eTG" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/chia-boon-leong-the-homegrown-football-olympian/id1688142751?i=1000650691964" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts </u>
 </a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Chia-Boon-Leong--The-Homegrown-Football-Olympian-2354766" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u></a>
 </p>
@@ -24,7 +24,7 @@ get notified when the next episode drops.</p>
 <br>06:43 – Who attended boxing matches in 1920s Singapore
 <br>08:13 – Background and rise of Tan Teng Kee or Battling Key
 <br>10:43 – Battling Key's matches with Yeo Choon Song
-<br>16:07 – Song's complaint about Battling Key's gloves
+<br>16:07 – Song's complaint about Key's gloves
 <br>17:14 – What happened to Song after beating Key
 <br>20:56 – Key's downfall
 <br>22:31 – Boxing ecosystem and corruption
