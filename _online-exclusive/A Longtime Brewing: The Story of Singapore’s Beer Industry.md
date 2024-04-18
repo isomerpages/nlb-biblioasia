@@ -80,7 +80,7 @@ To deal with the shortage of raw ingredients, an alternative version of Tiger Be
 <img src="/images/Online%20Only%20Articles/Beer/tiger_cub_rev.png" style="width: 80%;">
 <div style="background-color: white;">(Left) Tiger Cub was a lighter brew produced in response to a lack of raw ingredients to make the original Tiger Beer. (Right) These ads were published in January 1947 to publicise the return of the original full-strength Tiger Beer. <i>Courtesy of Asia Pacific Breweries Singapore.</i></div>
 
-#### **Post-war and Changes in Sales Strategies**
+#### **Postwar and Changes in Sales Strategies**
 
 The end of the war saw a boost in beer consumption, with demand largely driven by British troops who preferred local beer to imported beer due to its lower cost – local beer was 65 cents per quart, compared to a dollar for imported beer.[^29]
 
@@ -106,7 +106,7 @@ In his memoir <i>The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1</i>, he 
 Lee also shared how he won the support of political party members through food and Anchor beer: “Throughout 1958–59, I had been seeing Devan Nair, Lim Chin Siong, Fong Swee Suan, Woodhull and Puthucheary in their new detention camp, located just outside Changi Prison, once every three or four weeks. I would bring them a large pot of delicious chicken curry that my cook had prepared, freshly baked bread bought from a bakery on the way to Changi and, when permission was granted, some large bottles of Anchor beer.”<br><br>
 <img src="/images/Online%20Only%20Articles/Beer/group_photo.png" style="width: 65%;">
 <div style="background-color: #fff6ba;">A group photo taken by Lee Kuan Yew when he visited (from left to right) Lim Chin Siong, Sidney Woodhull, Fong Swee Suan and Devan Nair in the Changi detention camp in 1958. <i>Image reproduced from The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1. (Singapore: Marshall Cavendish International Editions, 2012), 381. (From National Library, Singapore, call no. RSING_ 959.5705092 LEE).</i></div><br><br>	
-<b>REFERENCES</b><br><br>
+<b>REFERENCE</b><br><br>
 Lee Kuan Yew, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201266968">The Singapore Story: Memoirs of Lee Kuan Yew</a></i> (Marshall Cavendish International, 2014), 379, 466. (From National Library, Singapore, call no. RSING 959.5705092 LEE)<br><br>
 
 </div><br>
