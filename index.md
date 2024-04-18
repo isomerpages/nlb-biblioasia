@@ -849,13 +849,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: A History of The Padang
-      subtitle: Places and Buildings
-      description: Kevin Tan looks at what makes the 4.3-hectare patch of green in
-        front of the former City Hall building so special.
-      button: A NATIONAL MONUMENT
-      url: /vol-18/issue-1/apr-to-jun-2022/history-padang
-      image: /images/Vol 18 Issue 1/The Padang/Padang 1911.png
-      alt: Image alt text
 ---
