@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 1/Vietnam War/Hero_img_vietnam_war2.jpg
   - infopic:
+      title: The Tragedy of Singapore’s First Boxing Superstar
+      subtitle: Podcast
+      id: infopic
+      description: Tan Teng Kee was the Mike Tyson of Singapore boxing in the 1920s.
+        Known as Battling Key, the larger-than-life boxer attracted crowds
+        wherever he went.
+      button: Battling Key
+      url: /podcast/singapores-first-boxing-superstar-tan-tang-kee/
+      image: /images/Podcast/isomer_abhishek.jpg
+      alt: Image alt text
+  - infopic:
       title: "A Longtime Brewing: The Story of Singapore’s Beer Industry"
       subtitle: History
       id: infopic

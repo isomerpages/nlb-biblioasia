@@ -13,7 +13,7 @@ his drastic&nbsp;downfall&nbsp;all the more tragic.</p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/episode/1CtCj8pMYp33OOlQiz7eTG" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/the-tragedy-of-singapores-first-boxing-superstar/id1688142751?i=1000652812814" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts </u>
-</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Chia-Boon-Leong--The-Homegrown-Football-Olympian-2354766" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u></a>
+</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Tragedy-of-Singapore%E2%80%99s-First-Boxing-Superstar-2400186" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u></a>
 </p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
@@ -43,9 +43,8 @@ of T.N. Seshan, one of India’s most prominent bureaucrats. Abhishek is
 a former Lee Kong Chian Research Fellow (2021–22).</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p>Abhishek Mehrotra, "Gloved Gods: Battling Key, Yeo Choon Song and the
-Roaring ‘20s of Singapore Boxing," <em>BiblioAsia</em> 20, no. 2 (July–September
-2024).</p>
+<p>Abhishek Mehrotra, "<a href="/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/" rel="noopener noreferrer nofollow" target="_blank">Gloved Gods: Battling Key, Yeo Choon Song and the Roaring '20s of Singapore Boxing</a>," <em>BiblioAsia</em> 20,
+no. 2 (July–September 2024).</p>
 <p></p>
 <p>Nick Aplin and Quek Jin Jong, “Celestials in Touch: Sport and the Chinese
 in Colonial Singapore,” in <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12328575" rel="noopener noreferrer nofollow" target="_blank"><u>Sport in Asian Society: Past and Present</u></a></em>,
