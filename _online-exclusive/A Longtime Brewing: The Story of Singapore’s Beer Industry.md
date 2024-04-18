@@ -16,7 +16,7 @@ Local giant Tiger Beer dominates the scene, and indeed has been doing so for dec
 Both Anchor and Tiger beers go back to the early 1930s. Before that, the beer consumed in Singapore was entirely imported.[^2] Some brands include Carlsberg (Scandinavia), Worthington (Britain) and Sakura (Japan). These beers were expensive, especially after accounting for transportation and other logistical costs. Beer in the 1930s cost an average of 20 cents, which might not seem like much but this was about half the daily standard wages for labourers back then (40 and 32 cents per day for men and women respectively).[^3]
 
 <img src="/images/Online%20Only%20Articles/Beer/worthington_carlsberg.png" style="width: 85%;">
-<div style="background-color: white;">(Left) A 1930 Worthington advertisement. <i>Source: Straits Times, 28 October 1930 © SPH Media Limited. Permission required for reproduction.</i> (Right) A 1916 ad for Carlsberg. <i>Image reproduced from “Drink! Drink! Carlsberg Beer!,” Singapore Free Press and mercantile Advertiser (1884-1942), 9 May 1916, 9. (From NewspaperSG)</i></div>
+<div style="background-color: white;">(Left) A 1930 Worthington advertisement. <i>Image reproduced from "Worthington," Straits Times, 28 October 1930, 1 (From NewspaperSG).</i> (Right) A 1916 ad for Carlsberg. <i>Image reproduced from “Drink! Drink! Carlsberg Beer!,” Singapore Free Press and mercantile Advertiser (1884-1942), 9 May 1916, 9. (From NewspaperSG)</i></div>
 
 Seeing a gap in the industry, The Straits Brewery Limited proposed in 1904 to start a brewery in Singapore.[^4] However, as promising as things sounded, the idea never got off the ground.
 
@@ -45,7 +45,7 @@ Tiger Beer was launched with the catchphrase “Time for a Tiger” in 1932. A t
 By 1935, Malayan Breweries had turned its attentions toward exporting Tiger Beer, which had started to gain popularity beyond the Malayan market in countries like Hong Kong.[^13] It expanded its brewery twice – in 1937 and 1939 – to keep up with the growing demand.[^14]
 
 <img src="/images/Online%20Only%20Articles/Beer/business_drink_beer.png" style="width: 85%;">
-<div style="background-color: white;">Tiger Beer was advertised as a nutritious health drink. <i>Source: (left) Straits Times, 1 December 1932, (right) 16 September 1935 © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">Tiger Beer was advertised as a nutritious health drink. (Left)<i>Image reproduced from "The Hustling Business Man," Straits Times, 1 December 1932, 13. (From NewspaperSG).</i> (Right)<i> Image reproduced from "Drink Tiger Beer," Straits Times, 16 September 1935, 13. (From NewspaperSG).</i></div>
 
 #### **Tiger’s Rival**
 
@@ -57,7 +57,7 @@ Malayan Breweries, however, was not alone in eyeing the local beer drinking mark
 ABC became synonymous with its main brew, Anchor Beer, a light pilsener that used English hops and Australian malt.[^15] It also produced Diamond Pilsener, Goat’s Head Stout and ABC Stout. To promote Anchor, ABC partnered with the Phoenix Aerated Water Works to give the beer for free with each delivered order of Phoenix Aerated Water.[^16] ABC also worked with Phoenix Aerated Water Works for its retail distribution, which allowed Anchor to be delivered directly to customers at unchanged prices.[^17]
 
 <img src="/images/Online%20Only%20Articles/Beer/anchor_beer.png" style="width: 55%;">
-<div style="background-color: white;">Advertisement for Anchor Beer. <i>Source: Straits Times, 30 July 1934 © SPH Media Limited. Permission required for reproduction.</i></div><br>
+<div style="background-color: white;">Advertisement for Anchor Beer. <i>Image reproduced from "The Cure for Thirst," Straits Times, 30 July 1934, 15. (From NewspaperSG).</i></div><br>
 <img src="/images/Online%20Only%20Articles/Beer/sundaytribune_19340121_0002_cropped.png" style="width: 55%;">
 <div style="background-color: white;">This notice was run in the <i>Sunday Tribune</i> announcing ABC’s partnership with Phoneix Aerated Water Works for the retail distribution of Anchor Beer. <i>Image reproduced from “Importance Announcement,” Sunday Tribune, 21 January 1934, 2. (From NewspaperSG).</i></div>
 
@@ -69,13 +69,10 @@ The war saw the government implementing new import duties and “wartime taxes�
 
 The increase in cost did not reduce the demand for beer. In fact, there was an increase in demand for “intoxicating drink” such as beer, whiskey and champagne. For instance, $600,000 worth of liquor was consumed during the holiday season in 1940. This was equivalent to more than 160,000 gallons of alcohol, with beer and ale accounting for almost half of the total at about 75,000 gallons.[^21]
 
-During the Japanese Occupation of Singapore, the breweries were seized by the Japanese and renamed Kirin Beer Kaisha.[^22] The Japanese military authorities reopened the breweries in 1942,[^23] hiring locals to work there. However, their hiring process was sometimes unorthodox. For instance, Jocelyn Simon De Souza had been hired by the Japanese to “start the \[ABC\] brewery”[^24] because his “Japanese friend had spoken highly” of him and he “look\[ed\] like a very nice person”.[^25] He had worked at APC, the Asiatic Petroleum Company, and had no experience in brewing. Unfazed, De Souza picked up a book on brewing and learnt on the job.
+During the Japanese Occupation of Singapore, the breweries were seized by the Japanese and renamed Kirin Beer Kaisha.[^22] The Japanese military authorities reopened the breweries in 1942,[^23] hiring locals to work there. However, their hiring process was sometimes unorthodox. For instance, Jocelyn Simon De Souza had been hired by the Japanese to “start the \[ABC\] brewery”[^24] because his “Japanese friend had spoken highly” of him and he “look\[ed\] like a very nice person”.[^25] He had worked at APC, the Asiatic Petroleum Company, and had no experience in brewing. Unfazed, De Souza picked up a book on brewing and learnt on the job. 
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>LISTEN TO JOCELYN SIMON DE SOUZA’S STORY</b><br>
+\[Listen to Jocelyn Simon De Souza’s story <a href="https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dfbe2412-115d-11e3-83d5-0050568939ad">here</a>.\]
 
-Scan the QR code below to hear De Souza’s full story of working at the brewery during the Japanese Occupation.<br><br>
-	<img src="/images/Online%20Only%20Articles/Beer/qr_code.png" style="width: 150px; height: 150px;"><br></div>
-	
 According to De Souza, employees at the brewery were entitled to 18 small bottles of beer, which was particularly useful as an object of barter during the Occupation years. A bottle of beer then cost about 30 to 50 cents and De Souza remembered his wife would exchange beer for a chance to buy meat.[^26]
 
 When the raw materials to brew beer started to run out, De Souza “start\[ed\] to reduce the malt content in the brew and increase with local rice content… then it came to the stage where \[they\] couldn’t reduce anymore.”[^27] This was not a sustainable solution as the beer’s quality was affected. Despite the Japanese importing malt from Japan, it was still not enough to maintain the usual strength of Tiger Beer.
@@ -83,9 +80,9 @@ When the raw materials to brew beer started to run out, De Souza “start\[ed\] 
 To deal with the shortage of raw ingredients, an alternative version of Tiger Beer was created, called Tiger Cub. It used a smaller bottle and less malt, resulting in a brew that was lighter than the original. Tiger Cub remained in production until 1947 when the original Tiger Beer made its return.[^28]
 
 <img src="/images/Online%20Only%20Articles/Beer/tiger_cub_rev.png" style="width: 80%;">
-<div style="background-color: white;">(Left) Tiger Cub was a lighter brew produced in response to a lack of raw ingredients to make the original Tiger Beer. (Right) These ads were published in January 1947 to publicise the return of the original full-strength Tiger Beer. <i>Asia Pacific Breweries Singapore.</i></div>
+<div style="background-color: white;">(Left) Tiger Cub was a lighter brew produced in response to a lack of raw ingredients to make the original Tiger Beer. (Right) These ads were published in January 1947 to publicise the return of the original full-strength Tiger Beer. <i>Courtesy of Asia Pacific Breweries Singapore.</i></div>
 
-#### **Post-war and Changes in Sales Strategies**
+#### **Postwar and Changes in Sales Strategies**
 
 The end of the war saw a boost in beer consumption, with demand largely driven by British troops who preferred local beer to imported beer due to its lower cost – local beer was 65 cents per quart, compared to a dollar for imported beer.[^29]
 
@@ -111,7 +108,7 @@ In his memoir <i>The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1</i>, he 
 Lee also shared how he won the support of political party members through food and Anchor beer: “Throughout 1958–59, I had been seeing Devan Nair, Lim Chin Siong, Fong Swee Suan, Woodhull and Puthucheary in their new detention camp, located just outside Changi Prison, once every three or four weeks. I would bring them a large pot of delicious chicken curry that my cook had prepared, freshly baked bread bought from a bakery on the way to Changi and, when permission was granted, some large bottles of Anchor beer.”<br><br>
 <img src="/images/Online%20Only%20Articles/Beer/group_photo.png" style="width: 65%;">
 <div style="background-color: #fff6ba;">A group photo taken by Lee Kuan Yew when he visited (from left to right) Lim Chin Siong, Sidney Woodhull, Fong Swee Suan and Devan Nair in the Changi detention camp in 1958. <i>Image reproduced from The Singapore Story: Memoirs of Lee Kuan Yew, Volume 1. (Singapore: Marshall Cavendish International Editions, 2012), 381. (From National Library, Singapore, call no. RSING_ 959.5705092 LEE).</i></div><br><br>	
-<b>REFERENCES</b><br><br>
+<b>REFERENCE</b><br><br>
 Lee Kuan Yew, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201266968">The Singapore Story: Memoirs of Lee Kuan Yew</a></i> (Marshall Cavendish International, 2014), 379, 466. (From National Library, Singapore, call no. RSING 959.5705092 LEE)<br><br>
 
 </div><br>
