@@ -849,4 +849,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: The Tragedy of Singapore’s First Boxing Superstar
+      subtitle: Podcast
+      id: infopic
+      description: Tan Teng Kee was the Mike Tyson of Singapore boxing in the 1920s.
+        Known as Battling Key, the larger-than-life boxer attracted crowds
+        wherever he went.
+      button: Battling Key
+      url: /podcast/singapores-first-boxing-superstar-tan-tang-kee/
+      image: /images/Podcast/isomer_abhishek.jpg
+      alt: Image alt text
 ---
