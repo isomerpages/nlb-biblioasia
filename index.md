@@ -850,15 +850,6 @@ sections:
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
   - infopic:
-      title: New Books on Singapore History (Apr 2023)
-      subtitle: Literature
-      description: A quick look at five new books available in the National Library’s
-        collection.
-      button: New Reads
-      url: /vol-19/issue-1/apr-jun-2023/new-books-singapore-history/
-      image: /images/Vol 19 Issue 1/New Books/New Book_Reverent Journey v2.jpg
-      alt: Image alt text
-  - infopic:
       title: A History of The Padang
       subtitle: Places and Buildings
       description: Kevin Tan looks at what makes the 4.3-hectare patch of green in
@@ -867,79 +858,4 @@ sections:
       url: /vol-18/issue-1/apr-to-jun-2022/history-padang
       image: /images/Vol 18 Issue 1/The Padang/Padang 1911.png
       alt: Image alt text
-  - infopic:
-      title: "Belacan: Caviar? Or Vile and Disgusting?"
-      subtitle: Food
-      description: Fermented shrimp is a staple in many cuisines of Southeast Asia,
-        though it takes some getting used to.
-      button: ALSO KNOWN AS BAGOONG, KAPI AND TERASI
-      url: /vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/
-      image: /images/Vol 19 Issue 1/Balacan/balacan_1.png
-      alt: Image alt text
-  - infopic:
-      title: Which Was Singapore's First Courthouse?
-      subtitle: Places and Buildings
-      description: Singapore’s former Parliament building, known today as The Arts
-        House, was used as a courthouse from 1828 to 1939.
-      button: SINGAPORE’S COURTHOUSES
-      url: /vol-19/issue-1/apr-jun-2023/singapore-courthouse-maxwell
-      image: /images/Vol 19 Issue 1/Courthouse/Former_courthouse.png
-      alt: Image alt text
-  - infopic:
-      title: "Terraces on Tagore: The Curious Origins of Teachers' Estate"
-      subtitle: Places and Buildings
-      description: The Singapore Teachers’ Union wanted a clubhouse. They ended up
-        building a housing estate.
-      button: HOUSES FOR TEACHERS
-      url: /vol-19/issue-1/apr-jun-2023/teachers-estate-singapore/
-      image: /images/Vol 19 Issue 1/Teacher's Housing
-        Estate/teachers_housing_estate_homepage.png
-      alt: Image alt text
-  - infopic:
-      title: Portugal's Linguistic Legacy in Southeast Asia
-      subtitle: Culture
-      description: While Portugal may not have had a large presence in this region,
-        remnants of the Portuguese language continue to linger on, in some
-        places more than others.
-      button: PORTUGUESE CREOLES IN SOUTHEAST ASIA
-      url: /vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/
-      image: /images/Vol 19 Issue 1/Portuguese/eurasian_chingay_homepage.png
-      alt: Image alt text
-  - infopic:
-      title: "Neo Tiew: The Man Who Built Lim Chu Kang"
-      subtitle: People
-      description: The opening up of Lim Chu Kang owes much to the efforts of Neo
-        Tiew, who helped clear the land and later became the headman of the
-        area.
-      button: Neo Tiew’s Legacy
-      url: /vol-19/issue-1/apr-jun-2023/neo-tiew-estate-singapore/
-      image: /images/Vol 19 Issue 1/Neo Tiew/Group_photo.png
-      alt: Image alt text
-  - infopic:
-      title: Singapore’s Public Bathhouses of the 1880s
-      subtitle: Leisure
-      description: Three public bathhouses at Ellenborough Market, Canton Street and
-        Clyde Terrace were built by the Municipality in the late 19th century.
-      button: Singapore’s Public Bathhouses
-      url: /vol-19/issue-1/apr-jun-2023/public-bathhouses-singapore/
-      image: /images/Vol 19 Issue 1/Public Bathhouses/Children.png
-      alt: Image alt text
-  - infopic:
-      title: Women and the Typewriter in Singapore’s Herstories
-      subtitle: Women
-      description: The humble typewriter helped women become better educated, enter
-        the workforce and contribute to society.
-      button: Women and the Typewriter
-      url: /vol-19/issue-1/apr-jun-2023/women-typewriter-singapore/
-      image: /images/Vol 19 Issue 1/Women Typewriter/woman_typewriter_homepage.png
-      alt: Women Typewriters
-  - infopic:
-      title: Khoo Hooi Hye, Lim Bong Soo and the Heyday of Malayan Tennis
-      subtitle: Sports
-      description: Two remarkable athletes served up a storm to make Malaya a tennis
-        power to contend with during the interwar years.
-      button: Two Tennis Champs
-      url: /vol-19/issue-1/apr-jun-2023/tennis-history-singapore/
-      image: /images/Vol 19 Issue 1/Tennis/tennis_homepage.png
-      alt: Tennis
 ---
