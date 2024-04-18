@@ -10,8 +10,7 @@ variant: tiptap
 forgotten, all fascinating. Does Singapore have a stone age? What’s happened
 to the murals at the old Paya Lebar airport? Who were the local tennis
 greats? Find out in this history-focused podcast. Available on <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
-<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vYmlibGlvYXNpYS8" rel="noopener noreferrer nofollow" target="_blank">Google Podcasts</a> and
-<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
+<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>and <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
 <p><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">Subscribe</a> to
 get notified when the next episode drops.</p>
 <div class="isomer-image-wrapper">
@@ -19,7 +18,7 @@ get notified when the next episode drops.</p>
 </div>
 <p></p>
 <h4><strong>Season 2</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/podcast/tan-teng-kee-boxing-superstar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Tragedy of Singapore’s First Boxing Superstar" src="/images/Podcast/Abhishek_season2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Tragedy of Singapore’s First Boxing Superstar</div><div class="isomer-card-description">Tan Teng Kee was the Mike Tyson of Singapore boxing in the 1920s. Known as Battling Key, the larger-than-life boxer attracted crowds wherever he went. Which makes his drastic downfall all the more tragic.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/podcast/singapores-first-boxing-superstar-tan-tang-kee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Tragedy of Singapore’s First Boxing Superstar" src="/images/Podcast/Abhishek_season2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Tragedy of Singapore’s First Boxing Superstar</div><div class="isomer-card-description">Tan Teng Kee was the Mike Tyson of Singapore boxing in the 1920s. Known as Battling Key, the larger-than-life boxer attracted crowds wherever he went. Which makes his drastic downfall all the more tragic.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/podcast/chia-boon-leong-homegrown-football-olympian/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

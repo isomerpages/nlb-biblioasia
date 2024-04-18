@@ -11,8 +11,8 @@ the larger-than-life boxer attracted crowds wherever he went. Which makes
 his drastic&nbsp;downfall&nbsp;all the more tragic.</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: <a href="https://open.spotify.com/episode/0u6zlPR4vAIfOfggi3zA42" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
-<a href="https://podcasts.apple.com/us/podcast/chia-boon-leong-the-homegrown-football-olympian/id1688142751?i=1000650691964" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts </u>
+<p>Available on: <a href="https://open.spotify.com/episode/1CtCj8pMYp33OOlQiz7eTG" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
+<a href="https://podcasts.apple.com/us/podcast/the-tragedy-of-singapores-first-boxing-superstar/id1688142751?i=1000652812814" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts </u>
 </a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Chia-Boon-Leong--The-Homegrown-Football-Olympian-2354766" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u></a>
 </p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
@@ -24,7 +24,7 @@ get notified when the next episode drops.</p>
 <br>06:43 – Who attended boxing matches in 1920s Singapore
 <br>08:13 – Background and rise of Tan Teng Kee or Battling Key
 <br>10:43 – Battling Key's matches with Yeo Choon Song
-<br>16:07 – Song's complaint on Battling Key's gloves
+<br>16:07 – Song's complaint about Key's gloves
 <br>17:14 – What happened to Song after beating Key
 <br>20:56 – Key's downfall
 <br>22:31 – Boxing ecosystem and corruption
@@ -38,10 +38,9 @@ tennis
 <h4><strong>About the Guest</strong></h4>
 <p>Abhishek Mehrotra&nbsp;is a researcher and writer whose interests include
 media and society in colonial Singapore, urban toponymy and post-independence
-India. He is working on his first book – a biography of T.N. Seshan, one
-of India’s most prominent bureaucrats. Commissioned by HarperCollins, the
-book is slated for release in 2025. Abhishek is a former Lee Kong Chian
-Research Fellow (2021–22).</p>
+India. He is working on his first book (HarperCollins, 2025) – a biography
+of T.N. Seshan, one of India’s most prominent bureaucrats. Abhishek is
+a former Lee Kong Chian Research Fellow (2021–22).</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
 <p>Abhishek Mehrotra, "Gloved Gods: Battling Key, Yeo Choon Song and the
