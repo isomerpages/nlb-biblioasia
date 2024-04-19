@@ -12,9 +12,9 @@ description: ""
 Khir Johari, food historian and award-winning author of _The_ _Food of Singapore Malays_ (2021), makes _mee maidin_ – a noodle dish based on a krill ragù – and tells us more about its origins. Why does a 1986 cookbook call it “mee mahdin”? And how was krill, once abundant in Singapore’s waters, caught using traditional fishing methods?
 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/2Mee%20Maidin/Mee_Maidin.jpg" style="width:80%">
- <div style="background-color: white;"><i>Mee maidin</i>, served with garnishes like lettuce, bean sprouts, tofu, chillies, eggs and calamansi.</div><br>
+<div style="background-color: white;"><i>Mee maidin</i>, served with garnishes like lettuce, bean sprouts, tofu, chillies, eggs and calamansi.</div><br>
 <img src="/images/Videos:%20From%20Book%20to%20Cook/2Mee%20Maidin/Khir_and_Paddy.jpg" style="width:80%">
- <div style="background-color: white;">Host Paddy (right) tasting Khir’s freshly cooked krill ragù.</div>
+<div style="background-color: white;">Host Paddy (right) tasting Khir’s freshly cooked krill ragù.</div>
  
 #### **Recipes**
 
@@ -23,4 +23,4 @@ Khir learnt how to make _mee maidin_ from Nordin (whom he called Wak Din), a man
 According Khir’s research, Nordin inherited the recipe from Hussein, a migrant from South India who created the dish when he settled in Kampong Glam. Hajjah Asfiah Haji Abdullah, who wrote the 1986 cookbook, _Hidangan Warisan Kita_ (_Our Heritage Dishes_), featured the recipe in her book and named the dish “Mee Mahdin” – likely in honour of Nordin and his wife, Salmah.
 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/2Mee%20Maidin/Mee_Mahdin_Recipe.jpg" style="width:80%">
- <div style="background-color: white;">“Mee mahdin” recipe from Hajjah Asfiah bte Haji Abdullah, <i>Hidangan Warisan Kita</i> (Times Books International, 1986).</div>
+<div style="background-color: white;">“Mee mahdin” recipe from Hajjah Asfiah bte Haji Abdullah, <i>Hidangan Warisan Kita</i> (Times Books International, 1986).</div>
