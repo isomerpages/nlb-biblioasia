@@ -38,71 +38,44 @@ According Khir’s research, Nordin inherited the recipe from Hussein, a migrant
 600 ml cold water<br>
 salt to taste<br>
 
-Ingredients (A):
+<b>Ingredients (A)</b>:<br>
+(finely ground, separate)<br>
+5 red pepper seeds<br>
+5 green peppercorns<br>
+300 g wet geragau prawns<br>
+¼ grated coconut with the skin removed<br>
 
-(finely ground, separate)
-
-5 red pepper seeds
-
-5 green peppercorns
-
-300 g wet geragau prawns
-
-¼ grated coconut with the skin removed
-
-Ingredients (B):
-
-(finely sliced ​​and deep fried)
-
-12 red onions
-
-6 garlic cloves
+<b>Ingredients (B)</b>:<br>
+(finely sliced ​​and deep fried)<br>
+12 red onions<br>
+6 garlic cloves<br>
 
 1.&nbsp;&nbsp;&nbsp; Mix ingredients A in a saucepan. Add 600 ml of cold water and salt to taste. Stir evenly. Heat over slow fire. Then add wheat flour and coconut milk, stir again and let it boil.
 
 2.&nbsp;&nbsp;&nbsp; To serve, put some mee and bean sprouts in a bowl. Pour in the sauce. Place the salad leaves, tofu, red pepper, fried onions, green pepper and eggs on top.
 
-Khir’s recipe
+##### Khir’s recipe<br>
+30 shallot cloves<br>
+3-4 tbsp. salt (for brining)<br>
+3 cups cooking oil<br>
+2 kg krill<br>
+1 cup water (for boiling the krill)<br>
+20 stalks dried chilli<br>
+12 garlic cloves (approx. 95 g)<br>
+400 g coconut cream sans emulsifier<br>
+2 tbsp. flat sugar<br>
+1 tbsp. salt or to taste<br>
+1 tbsp. flat cornstarch<br>
+1 kg yellow noodles<br>
 
-30 shallot cloves
-
-3-4 tbsp. salt (for brining)
-
-3 cups cooking oil
-
-2 kg krill
-
-1 cup water (for boiling the krill)
-
-20 stalks dried chilli
-
-12 garlic cloves (approx. 95 g)
-
-400 g coconut cream sans emulsifier
-
-2 tbsp. flat sugar
-
-1 tbsp. salt or to taste
-
-1 tbsp. flat cornstarch
-
-1 kg yellow noodles
-
-For the garnish:
-
-1 head lettuce, sliced
-
-200 g bean sprouts
-
-fried firm tofu
-
-green and red chillies, deseeded and sliced
-
-hard boiled eggs
-
-calamansi
-
-soy sauce
+<b>For the garnish</b>:<br>
+1 head lettuce, sliced<br>
+200 g bean sprouts<br>
+fried firm tofu<br>
+green and red chillies, deseeded and sliced<br>
+hard boiled eggs<br>
+calamansi<br>
+soy sauce<br>
 
 1.&nbsp;&nbsp;&nbsp; Slice the shallots into thin, uniform slices. Brine for 10–15 minutes to draw out excess moisture, then remove, rinse well and pat dry.
 
@@ -122,10 +95,10 @@ soy sauce
 
 9.&nbsp;&nbsp;&nbsp; Stir in the coconut cream.
 
-10. Give the ragù a touch of sweetness with sugar. Test for saltiness.
+10.&nbsp;&nbsp;&nbsp; Give the ragù a touch of sweetness with sugar. Test for saltiness.
 
-11. Add a little water to the corn starch to create a paste, then blend it in with the ragù.
+11.&nbsp;&nbsp;&nbsp; Add a little water to the corn starch to create a paste, then blend it in with the ragù.
 
-12. Add the crushed fried shallots.
+12.&nbsp;&nbsp;&nbsp; Add the crushed fried shallots.
 
-13. Assemble and serve with yellow noodles and garnishes.
+13.&nbsp;&nbsp;&nbsp; Assemble and serve with yellow noodles and garnishes.
