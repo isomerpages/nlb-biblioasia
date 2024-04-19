@@ -50,9 +50,9 @@ salt to taste<br>
 12 red onions<br>
 6 garlic cloves<br>
 
-1.&nbsp;&nbsp;&nbsp; Mix ingredients A in a saucepan. Add 600 ml of cold water and salt to taste. Stir evenly. Heat over slow fire. Then add wheat flour and coconut milk, stir again and let it boil.
+1. Mix ingredients A in a saucepan. Add 600 ml of cold water and salt to taste. Stir evenly. Heat over slow fire. Then add wheat flour and coconut milk, stir again and let it boil.
 
-2.&nbsp;&nbsp;&nbsp; To serve, put some mee and bean sprouts in a bowl. Pour in the sauce. Place the salad leaves, tofu, red pepper, fried onions, green pepper and eggs on top.
+2. To serve, put some mee and bean sprouts in a bowl. Pour in the sauce. Place the salad leaves, tofu, red pepper, fried onions, green pepper and eggs on top.
 
 ##### Khir’s recipe<br>
 30 shallot cloves<br>
@@ -77,28 +77,28 @@ hard boiled eggs<br>
 calamansi<br>
 soy sauce<br>
 
-1.&nbsp;&nbsp;&nbsp; Slice the shallots into thin, uniform slices. Brine for 10–15 minutes to draw out excess moisture, then remove, rinse well and pat dry.
+1. Slice the shallots into thin, uniform slices. Brine for 10–15 minutes to draw out excess moisture, then remove, rinse well and pat dry.
 
-2.&nbsp;&nbsp;&nbsp; Heat the cooking oil over low to medium heat, then fry the sliced shallots until lightly golden. Remove from oil and pat with a paper towel to remove excess oil. The shallots will continue to brown slightly due to carryover cooking. 1/3 of the fried shallots will be used as garnish and the rest will be for the ragù. Keep the shallot oil for the ragù.
+2. Heat the cooking oil over low to medium heat, then fry the sliced shallots until lightly golden. Remove from oil and pat with a paper towel to remove excess oil. The shallots will continue to brown slightly due to carryover cooking. 1/3 of the fried shallots will be used as garnish and the rest will be for the ragù. Keep the shallot oil for the ragù.
 
-3.&nbsp;&nbsp;&nbsp; Using a colander, wash and clean the krill.
+3. Using a colander, wash and clean the krill.
 
-4.&nbsp;&nbsp;&nbsp; Bring 1 cup of water to a boil in a medium size pot. Add in the krill.
+4. Bring 1 cup of water to a boil in a medium size pot. Add in the krill.
 
-5.&nbsp;&nbsp;&nbsp; Coarse grind the cooked krill (with ½ cup water if stuck).
+5. Coarse grind the cooked krill (with ½ cup water if stuck).
 
-6.&nbsp;&nbsp;&nbsp; To prepare the chilli paste, first cut the dried chillies and remove the seeds. Then boil the chillies to soften them. Blend the softened chillies into a paste. Add the garlic to create the _rempah_ (add a little water if it’s too chunky).
+6. To prepare the chilli paste, first cut the dried chillies and remove the seeds. Then boil the chillies to soften them. Blend the softened chillies into a paste. Add the garlic to create the _rempah_ (add a little water if it’s too chunky).
 
-7.&nbsp;&nbsp;&nbsp; Sauté the _rempah_ in the shallot oil until the _rempah_ is slightly darker and the oil separates, about 12 minutes.
+7. Sauté the _rempah_ in the shallot oil until the _rempah_ is slightly darker and the oil separates, about 12 minutes.
 
-8.&nbsp;&nbsp;&nbsp; Add in the ground krill.
+8. Add in the ground krill.
 
-9.&nbsp;&nbsp;&nbsp; Stir in the coconut cream.
+9. Stir in the coconut cream.
 
-10.&nbsp;&nbsp;&nbsp; Give the ragù a touch of sweetness with sugar. Test for saltiness.
+10. Give the ragù a touch of sweetness with sugar. Test for saltiness.
 
-11.&nbsp;&nbsp;&nbsp; Add a little water to the corn starch to create a paste, then blend it in with the ragù.
+11. Add a little water to the corn starch to create a paste, then blend it in with the ragù.
 
-12.&nbsp;&nbsp;&nbsp; Add the crushed fried shallots.
+12. Add the crushed fried shallots.
 
-13.&nbsp;&nbsp;&nbsp; Assemble and serve with yellow noodles and garnishes.
+13. Assemble and serve with yellow noodles and garnishes.
