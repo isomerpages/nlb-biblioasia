@@ -24,3 +24,108 @@ According Khir’s research, Nordin inherited the recipe from Hussein, a migrant
 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/2Mee%20Maidin/Mee_Mahdin_Recipe.jpg" style="width:80%">
 <div style="background-color: white;">“Mee mahdin” recipe from Hajjah Asfiah bte Haji Abdullah, <i>Hidangan Warisan Kita</i> (Times Books International, 1986).</div>
+
+##### Hajjah Asfiah’s ingredients and instructions<br>
+600 g yellow noodles, dipped and tossed<br>
+300 g bean sprouts, roots removed, dipped and tossed<br>
+5 red peppers, sliced<br>
+5 green peppers, sliced<br>
+250 g lettuce leaves, sliced<br>
+3 pieces of tofu, half-fried and cut into small pieces<br>
+5 chicken eggs, boiled and quartered<br>
+2 tablespoons wheat flour<br>
+1/4 grated coconut, squeeze 300 ml of coconut milk<br>
+600 ml cold water<br>
+salt to taste<br>
+
+Ingredients (A):
+
+(finely ground, separate)
+
+5 red pepper seeds
+
+5 green peppercorns
+
+300 g wet geragau prawns
+
+¼ grated coconut with the skin removed
+
+Ingredients (B):
+
+(finely sliced ​​and deep fried)
+
+12 red onions
+
+6 garlic cloves
+
+1.&nbsp;&nbsp;&nbsp; Mix ingredients A in a saucepan. Add 600 ml of cold water and salt to taste. Stir evenly. Heat over slow fire. Then add wheat flour and coconut milk, stir again and let it boil.
+
+2.&nbsp;&nbsp;&nbsp; To serve, put some mee and bean sprouts in a bowl. Pour in the sauce. Place the salad leaves, tofu, red pepper, fried onions, green pepper and eggs on top.
+
+Khir’s recipe
+
+30 shallot cloves
+
+3-4 tbsp. salt (for brining)
+
+3 cups cooking oil
+
+2 kg krill
+
+1 cup water (for boiling the krill)
+
+20 stalks dried chilli
+
+12 garlic cloves (approx. 95 g)
+
+400 g coconut cream sans emulsifier
+
+2 tbsp. flat sugar
+
+1 tbsp. salt or to taste
+
+1 tbsp. flat cornstarch
+
+1 kg yellow noodles
+
+For the garnish:
+
+1 head lettuce, sliced
+
+200 g bean sprouts
+
+fried firm tofu
+
+green and red chillies, deseeded and sliced
+
+hard boiled eggs
+
+calamansi
+
+soy sauce
+
+1.&nbsp;&nbsp;&nbsp; Slice the shallots into thin, uniform slices. Brine for 10–15 minutes to draw out excess moisture, then remove, rinse well and pat dry.
+
+2.&nbsp;&nbsp;&nbsp; Heat the cooking oil over low to medium heat, then fry the sliced shallots until lightly golden. Remove from oil and pat with a paper towel to remove excess oil. The shallots will continue to brown slightly due to carryover cooking. 1/3 of the fried shallots will be used as garnish and the rest will be for the ragù. Keep the shallot oil for the ragù.
+
+3.&nbsp;&nbsp;&nbsp; Using a colander, wash and clean the krill.
+
+4.&nbsp;&nbsp;&nbsp; Bring 1 cup of water to a boil in a medium size pot. Add in the krill.
+
+5.&nbsp;&nbsp;&nbsp; Coarse grind the cooked krill (with ½ cup water if stuck).
+
+6.&nbsp;&nbsp;&nbsp; To prepare the chilli paste, first cut the dried chillies and remove the seeds. Then boil the chillies to soften them. Blend the softened chillies into a paste. Add the garlic to create the _rempah_ (add a little water if it’s too chunky).
+
+7.&nbsp;&nbsp;&nbsp; Sauté the _rempah_ in the shallot oil until the _rempah_ is slightly darker and the oil separates, about 12 minutes.
+
+8.&nbsp;&nbsp;&nbsp; Add in the ground krill.
+
+9.&nbsp;&nbsp;&nbsp; Stir in the coconut cream.
+
+10. Give the ragù a touch of sweetness with sugar. Test for saltiness.
+
+11. Add a little water to the corn starch to create a paste, then blend it in with the ragù.
+
+12. Add the crushed fried shallots.
+
+13. Assemble and serve with yellow noodles and garnishes.
