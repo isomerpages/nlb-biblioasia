@@ -6,6 +6,7 @@ description: Making the journey to Mecca to fulfil the obligation of the Haj is
   a long and cherished ambition for most Muslims. In heeding the call of the
   Ka’bah (House of God) in Mecca, where all Muslims turned to in their prayers,
   the Haj is not for the faint-hearted or the ill-prepared.
+variant: markdown
 ---
 ####  Making the journey to Mecca to fulfil the obligation of the Haj is a long and cherished ambition for most Muslims. In heeding the call of the&nbsp;_Ka’bah_&nbsp;(House of God) in Mecca, where all Muslims turned to in their prayers, the Haj is not for the faint-hearted or the ill-prepared.
 <img src="/images/vol-2-issue-3/Journey%20of%20faith/Kaabar%20BW.jpg">
@@ -189,7 +190,7 @@ William Facey, “[Queen of the India Trade](https://archive.aramcoworld.com/iss
 William Gervase Clarence-Smith, “The Rise and Fall of Hadhrami Shipping in the Indian Ocean, c.1750–c.1940,” in&nbsp;_Ships and the Development of Maritime Technology in the Indian Ocean_, ed. David Parkin and Ruth Barnes (London: RoutledgeCurzon, 2002), 227–58.
 
 #### **NOTES**
-[^1]: Wiliam Facey, “&nbsp;[Queen of the India Trade](http://www.saudiaramcoworld.com/issue/200506/queen.of.the.india.trade.htm),”&nbsp;_Saudi Aramco World_&nbsp;56, no. 6 (2005).
+[^1]: Wiliam Facey, “&nbsp;Queen of the India Trade,”&nbsp;_Saudi Aramco World_&nbsp;56, no. 6 (2005), https://archive.aramcoworld.com/issue/200506/queen.of.the.india.trade.htm.
     
 [^2]: _Haji di Semenanjung Malaysia: Sejarah dan perkembangannya sejak tahun 1300-1405H (1896-1985M)_&nbsp;(Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 115.&nbsp;
     
