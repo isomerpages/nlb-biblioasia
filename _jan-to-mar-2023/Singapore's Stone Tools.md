@@ -170,7 +170,7 @@ Example:
 
 [^8]: Sonia Harmand et al., “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” *Nature 521* (May 2015): 310–15, https://www.nature.com/articles/nature14464
 
-[^9]: David Clinnick and Sharon Lim, “[In Search of Prehistoric Singapore](https://www.roots.gov.sg/resources-landing/publications/education-and-community-outreach/Muse-SG-Vol-10-Issue-2),” *Muse* SG 10, no. 2 (2018): 40.
+[^9]: David Clinnick and Sharon Lim, “In Search of Prehistoric Singapore,” *Muse* SG 10, no. 2 (2018): 40, https://www.roots.gov.sg/resources-landing/publications/education-and-community-outreach/Muse-SG-Vol-10-Issue-2
 
 [^10]: A. Terry Rambo, “A Note on Stone Tool Use by the Orang Asli (Aborigines) of Peninsular Malaysia,” *Asian Perspectives* 22, no. 2 (1979): 116–17. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
