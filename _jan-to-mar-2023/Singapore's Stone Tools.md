@@ -192,7 +192,7 @@ Example:
 
 [^19]: Alvin Chua, “[The Causeway](https://www.nlb.gov.sg/main/article-detail?cmsuuid=74fd954b-2970-4c10-a74f-5df4c22eee28),” in Singapore Infopedia. National Library Board Singapore. Article published 2009.
 
-[^20]: Michael Bird et al., “[Evolution of the Sungei-Buloh-Kranji Mangrove Coast, Singapore](https://doi.org/10.1016/j.apgeog.2004.04.002),” *Applied Geography* 24, no. 3 (2004): 184, 192.
+[^20]: Michael Bird et al., “Evolution of the Sungei-Buloh-Kranji Mangrove Coast, Singapore,” *Applied Geography* 24, no. 3 (2004): 184, 192, https://doi.org/10.1016/j.apgeog.2004.04.002
 
 [^21]: “[Most Famous Professor in Asia Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19380505-1.2.66),” *Straits Budget*, 5 May 1938, 14. (From NewspaperSG)
 
