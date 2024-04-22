@@ -15,4 +15,6 @@ In an early version of the play, Kon also had a very different motivation in min
 
 And while very much a Singaporean story – Emily Gan is, after all, a Peranakan matriarch living in the Peranakan enclave of Emerald Hill in Singapore – the play also owes much to Singapore’s northern neighbour. Like many Singaporeans, Emily has many links with Malaysia: playwright Stella Kon was living in Ipoh when she began writing the play, and indeed, Emily first debuted in Malaysia.
 
-The first ever performance of the play took place in 1984 in Seremban, Negri Sembilan. That production by the Five Arts Centre was directed by Malaysian teacher, theatre director and playwright Chin San Sooi with Leow Puay Tin as the first Emily.[^1] The play became so beloved across the Causeway that Pearlly Chua, who first began performing as Emily in 1990, has done so hundreds of times over the last three decades. 
+The first ever performance of the play took place in 1984 in Seremban, Negri Sembilan. That production by the Five Arts Centre was directed by Malaysian teacher, theatre director and playwright Chin San Sooi with Leow Puay Tin as the first Emily.[^1] The play became so beloved across the Causeway that Pearlly Chua, who first began performing as Emily in 1990, has done so hundreds of times over the last three decades.
+
+#### **Beginnings in Ipoh**
