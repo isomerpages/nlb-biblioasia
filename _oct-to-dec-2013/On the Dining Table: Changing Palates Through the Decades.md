@@ -5,6 +5,7 @@ description: What we eat is often shaped not only by culture and tradition but
   also society and government policies. Through one family’s changing palate,
   find out how all these factors have influenced what appears on the dinner
   table.
+variant: markdown
 ---
 #### What we eat is often shaped not only by culture and tradition, but also society and government policies. Through one family’s changing palate, find out how all these factors have influenced what appears on the dining table.
 
@@ -75,7 +76,7 @@ Certain common hawker dishes have also been gradually disappearing from the culi
  
 The loss in food heritage is also felt in the home. My family does not consciously partake of traditional Teochew cuisine at home anymore. Everyday dishes are not uniquely Teochew, except for special occasions such as festivals and celebrations when our family buys Teochew confectionery or steamed *kueh* (cakes).
  
-In 2013, four students from the Wee Kim Wee School of Communication and Information at the Nanyang Technological University worked on a project that aimed to raise awareness of the origins of Singapore’s food heritage. They interviewed hawkers of signature local dishes. The findings – sponsored by the National Heritage Board and supported by the Singapore Memory Project – can be found at the                         [Tastes of Yesteryear](http://www.tastesofyesteryear.com/)      website.          
+In 2013, four students from the Wee Kim Wee School of Communication and Information at the Nanyang Technological University worked on a project that aimed to raise awareness of the origins of Singapore’s food heritage. They interviewed hawkers of signature local dishes. The findings – sponsored by the National Heritage Board and supported by the Singapore Memory Project.
 
 Deborah Lupton is of the view that “food consumption habits are not simply tied to biological needs but serve to mark boundaries between social classes, geographical regions, nations, cultures, genders, life cycle stages, religions and occupations, to distinguish rituals, traditions, festivals, seasons and times of day”.[^13] Where food can be culturally reproduced from generation to generation, it is a denominator that distinguishes one group from another. The act of preparing food is “part of [an] individual’s incorporation into a culture, of making it ‘their own’, which then culminates in the act of eating … [and] sharing the act of eating brings people into the same community”.[^14]
 
