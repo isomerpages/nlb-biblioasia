@@ -60,3 +60,6 @@ Chin immediately saw the potential in Emily and quickly cast around for a produc
 This Malaysian premiere was likely a major factor that prodded Singapore to finally stage Emily in 1985 at the Singapore Drama Festival. Malaysian director Krishen Jit commented that “Kon is better received in his country [Malaysia] than her own because her experimental methods go down better north of the Causeway”. In response,  Singaporean playwright Robert Yeo, who was chair of the Drama Advisory Committee at the Ministry of Community Development, denied that Singapore was not accepting enough of experimental theatre. “Singaporeans are just asking themselves whether they can produce Stella’s plays,” Yeo said. “I don’t think we are averse to experimental theatre at all.”[^30]
 
 Singaporean director Max Le Blond said he was immediately intrigued on seeing the script.[^31] Actress Margaret Chan was similarly smitten. “I liked it and said yes right after I read it… I memorised the script within two days.”[^32] Chan’s performance mesmerised Stella Kon. After watching it at the 1985 Singapore Drama Festival, Kon told the audience: “Margaret gave it flesh and breath and blood.” Later, she went backstage to congratulate Chan and told her: “I’m exhilarated, I’m over the moon.” [^33]
+
+#### **Achieving Cult Status**
+
