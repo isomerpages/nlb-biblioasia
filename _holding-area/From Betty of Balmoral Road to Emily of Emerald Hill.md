@@ -18,3 +18,6 @@ And while very much a Singaporean story – Emily Gan is, after all, a Peranakan
 The first ever performance of the play took place in 1984 in Seremban, Negri Sembilan. That production by the Five Arts Centre was directed by Malaysian teacher, theatre director and playwright Chin San Sooi with Leow Puay Tin as the first Emily.[^1] The play became so beloved across the Causeway that Pearlly Chua, who first began performing as Emily in 1990, has done so hundreds of times over the last three decades.
 
 #### **Beginnings in Ipoh**
+
+Kon, who is Peranakan, spent her formative years in Emerald Hill Road and had been exposed to theatre at an early age. She was inspired by her mother, Rosie Lim Guat Kheng, who was an amateur actress, and Kon’s theatre-loving father Lim Kok Ann.[^2] While studying at the University of Singapore (now National University of Singapore), Kon wrote a short play titled Birds of a Feather in 1966 which was staged by the university’s students on an exchange trip to France.
+
