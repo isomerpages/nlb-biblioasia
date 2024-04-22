@@ -164,13 +164,13 @@ Example:
 
 [^5]: M.W.F. Tweedie, “The Stone Age of Malaya,” *Journal of the Malayan Branch of the Royal Asiatic Society* 26, no. 2 (162) (October 1953): 6–7. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); M.W.F. Tweedie, “The Malayan Neolithic,” *Journal of the Polynesian Society* 58, no. 1 (March 1949): 19–35. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website). Roger Duff, [*Stone Adzes of Southeast Asia: An Illustrated Typology*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=68544) (Christchurch: Canterbury Museum Trust Board, 1970). (From National Library, Singapore, call no. RCLOS 915.903 DUF) 
 
-[^6]: Mike J.C. Walker, [*Quaternary Dating Methods*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12680597) (England: J. Wiley, 2005). (From National Library, Singapore, call no. R 551.701 WAL); Miriam Noel Haidle and Alfred F. Pawlik, “Missing Types: Overcoming the Typology Dilemma of Lithic Archaeology in Southeast Asia," *Bulletin of the Indo-Pacific Prehistory Association* 29 (June 2009): 2–5, https://journals.lib.washington.edu/index.php/BIPPA/article/view/9470/0
+[^6]: Mike J.C. Walker, [*Quaternary Dating Methods*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12680597) (England: J. Wiley, 2005). (From National Library, Singapore, call no. R 551.701 WAL); Miriam Noel Haidle and Alfred F. Pawlik, “Missing Types: Overcoming the Typology Dilemma of Lithic Archaeology in Southeast Asia," *Bulletin of the Indo-Pacific Prehistory Association* 29 (June 2009): 2–5, https://journals.lib.washington.edu/index.php/BIPPA/article/view/9470/0.
 
-[^7]: Frederick L. Dunn, “Radiocarbon Dating the Malayan Neolithic,” *The Prehistoric Society* 32 (December 1966): 352–53, https://doi.org/10.1017/S0079497X0001447X
+[^7]: Frederick L. Dunn, “Radiocarbon Dating the Malayan Neolithic,” *The Prehistoric Society* 32 (December 1966): 352–53, https://doi.org/10.1017/S0079497X0001447X.
 
-[^8]: Sonia Harmand et al., “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” *Nature 521* (May 2015): 310–15, https://www.nature.com/articles/nature14464
+[^8]: Sonia Harmand et al., “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” *Nature 521* (May 2015): 310–15, https://www.nature.com/articles/nature14464.
 
-[^9]: David Clinnick and Sharon Lim, “In Search of Prehistoric Singapore,” *Muse* SG 10, no. 2 (2018): 40, https://www.roots.gov.sg/resources-landing/publications/education-and-community-outreach/Muse-SG-Vol-10-Issue-2
+[^9]: David Clinnick and Sharon Lim, “In Search of Prehistoric Singapore,” *Muse* SG 10, no. 2 (2018): 40, https://www.roots.gov.sg/resources-landing/publications/education-and-community-outreach/Muse-SG-Vol-10-Issue-2.
 
 [^10]: A. Terry Rambo, “A Note on Stone Tool Use by the Orang Asli (Aborigines) of Peninsular Malaysia,” *Asian Perspectives* 22, no. 2 (1979): 116–17. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
@@ -192,7 +192,7 @@ Example:
 
 [^19]: Alvin Chua, “[The Causeway](https://www.nlb.gov.sg/main/article-detail?cmsuuid=74fd954b-2970-4c10-a74f-5df4c22eee28),” in Singapore Infopedia. National Library Board Singapore. Article published 2009.
 
-[^20]: Michael Bird et al., “Evolution of the Sungei-Buloh-Kranji Mangrove Coast, Singapore,” *Applied Geography* 24, no. 3 (2004): 184, 192, https://doi.org/10.1016/j.apgeog.2004.04.002
+[^20]: Michael Bird et al., “Evolution of the Sungei-Buloh-Kranji Mangrove Coast, Singapore,” *Applied Geography* 24, no. 3 (2004): 184, 192, https://doi.org/10.1016/j.apgeog.2004.04.002.
 
 [^21]: “[Most Famous Professor in Asia Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19380505-1.2.66),” *Straits Budget*, 5 May 1938, 14. (From NewspaperSG)
 
@@ -202,15 +202,15 @@ Example:
 
 [^24]: Tweedie, “Stone Age in Malaya,” 69, 84–85.
 
-[^25]: Stephen Chua et al., “[A New Holocene Sea-level Record for Singapore](https://doi.org/10.1177/09596836211019096),” *The Holocene* 31, no. 9 (June 2021): 1387. Another study on Holocene sea levels within the Johor Strait only showed sea level rise between 7,550 BCE and 4,550 BCE. See Michael I. Bird et al., “[An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise: A New Sea-level Curve from Singapore](https://doi.org/10.1016/j.ecss.2006.07.004),” *Estuarine Coastal and Shelf Science* 71, no. 3–4 (February 2007): 523.
+[^25]: Stephen Chua et al., “A New Holocene Sea-level Record for Singapore,” *The Holocene* 31, no. 9 (June 2021): 1387, https://doi.org/10.1177/09596836211019096; Another study on Holocene sea levels within the Johor Strait only showed sea level rise between 7,550 BCE and 4,550 BCE. See Michael I. Bird et al., “An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise: A New Sea-level Curve from Singapore,” *Estuarine Coastal and Shelf Science* 71, no. 3–4 (February 2007): 523, https://doi.org/10.1016/j.ecss.2006.07.004.
 
 [^26]: Tweedie, “Stone Age in Malaya,” 85.
 
 [^27]: Ahmad Hakimi Khairuddin, “Penempatan Masyarakat Neolitik di Johor,” in [*Arkeologi Di Malaysia: Dahulu Dan Kini*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203987462), ed. Asyaari Muhamad (Kuala Lumpur: Universiti Kebangsaan Malaysia, 2018), 86–89. (From National Library, Singapore, call no. Malay RSEA 939.595 ARK); Omar and Muhammad Affizul Misman, “Extents and Distribution of Mangroves in Malaysia,” in [*Status of Mangroves in Malaysia*](https://www.mybis.gov.my/pb/4805), ed. Hamdan Omar, Tariq Mubarak Husin and Ismail Parlan (Selangor Darul Ehsan: Forest Research Institute Malaysia, 2020), 12–37.
 
-[^28]: H.R. van Heekeren, [*The Stone Age of Indonesia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=541252), 2nd edition (The Hague: Martinus Nijhoff, 1972), 165–67. (From National Library, Singapore, call no. RCLOS 991 VITLV-[GH]); Ketut Wiradnyana, “[Artefak Neolitik di Pulau Weh: Bukti Keberadaan Austronesia Prasejarah di Indonesia Bagian Barat](https://doi.org/10.24832/nw.v6i1.79),” *Naditira Widya* 6, no. 1 (April 2012), 5–13.
+[^28]: H.R. van Heekeren, [*The Stone Age of Indonesia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=541252), 2nd edition (The Hague: Martinus Nijhoff, 1972), 165–67. (From National Library, Singapore, call no. RCLOS 991 VITLV-[GH]); Ketut Wiradnyana, “Artefak Neolitik di Pulau Weh: Bukti Keberadaan Austronesia Prasejarah di Indonesia Bagian Barat,” *Naditira Widya* 6, no. 1 (April 2012), 5–13, https://doi.org/10.24832/nw.v6i1.79.
 
-[^29]: Hsiao Mei Goh, et al., “[The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia](https://doi.org/10.15184/aqy.2020.158),” *Antiquity* 94, no. 377, e25 (October 2020): 1–9; Michael J. Shott, “[History Written in Stone: Evolutionary Analysis of Stone Tools in Archaeology](https://doi.org/10.1007/s12052-011-0344-3),” *Evolution: Education and Outreach* 4 (2011): 435.
+[^29]: Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” *Antiquity* 94, no. 377, e25 (October 2020): 1–9, https://doi.org/10.15184/aqy.2020.158; Michael J. Shott, “History Written in Stone: Evolutionary Analysis of Stone Tools in Archaeology,” *Evolution: Education and Outreach* 4 (2011): 435, https://doi.org/10.1007/s12052-011-0344-3.
 
 [^30]: Elizabeth Moore, “[The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia](http://journalarticle.ukm.my/1195/1/SARI27%5B2%5D2009_%5B12%5D.pdf),” *Sari – International Journal of the Malay World and Civilisation* 27, no. 2 (2009), 268–69; “[The ‘Tuan Jangot’ Is Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530613-1.2.5),” *Straits Times*, 13 June 1953, 1. (From NewspaperSG)
 
