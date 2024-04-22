@@ -133,7 +133,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^1]: “Business Traveller Asia-Pacific Awards 2020 Results,” Business Traveller Asia-Pacific, 13 October 2020. https://www.businesstraveller.com/awards/business-traveller-asia-pacific-awards-2020-results/; “World’s Best Airline Cabin Crew,” Skytrax World Airline Awards, accessed 16 June 2022, https://www.worldairlineawards.com/worlds-best-airline-cabin-crew-2021/.
 
-[^2]: [Lim Chin Beng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews\_brandingLogo_.png), oral history interview by Patricia Lee, 5 September 2000, transcript and MP3 audio, Reel/Disc 2 of 3, National Archives of Singapore (accession no. 002358), 20.
+[^2]: [Lim Chin Beng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Patricia Lee, 5 September 2000, transcript and MP3 audio, Reel/Disc 2 of 3, National Archives of Singapore (accession no. 002358), 20.
 
 [^3]: Allen, [*SIA: Take-off to Success*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=5526825), 21–22; Christopher Fyfe, [*Wheels in Malaya: The Wearne Brothers and Their Company*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=11406555) (Claremont, W. Aust.: Lana Press, 2002), 121–30. (From National Library, Singapore, call no. RSING q629.2220922 FYF)
 
