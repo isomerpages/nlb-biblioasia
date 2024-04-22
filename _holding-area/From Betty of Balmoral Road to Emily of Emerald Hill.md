@@ -89,3 +89,5 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yen.png">
 <b>Dr Eriko Ogihara-Schuck</b>, originally from Japan, is a lecturer in American Studies at Technische Universität Dortmund, Germany. She is the author of <i>Miyazaki’s Animism Abroad: The Reception of Japanese Religious Themes by American and German Audiences (McFarland, 2014)</i>. </div>
+
+#### **Notes**
