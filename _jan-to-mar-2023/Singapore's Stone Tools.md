@@ -212,7 +212,7 @@ Example:
 
 [^29]: Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” *Antiquity* 94, no. 377, e25 (October 2020): 1–9, https://doi.org/10.15184/aqy.2020.158; Michael J. Shott, “History Written in Stone: Evolutionary Analysis of Stone Tools in Archaeology,” *Evolution: Education and Outreach* 4 (2011): 435, https://doi.org/10.1007/s12052-011-0344-3.
 
-[^30]: Elizabeth Moore, “[The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia](http://journalarticle.ukm.my/1195/1/SARI27%5B2%5D2009_%5B12%5D.pdf),” *Sari – International Journal of the Malay World and Civilisation* 27, no. 2 (2009), 268–69; “[The ‘Tuan Jangot’ Is Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530613-1.2.5),” *Straits Times*, 13 June 1953, 1. (From NewspaperSG)
+[^30]: Elizabeth Moore, “The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia,” *Sari – International Journal of the Malay World and Civilisation* 27, no. 2 (2009), 268–69, http://journalarticle.ukm.my/1195/1/SARI27%5B2%5D2009_%5B12%5D.pdf; “[The ‘Tuan Jangot’ Is Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530613-1.2.5),” *Straits Times*, 13 June 1953, 1. (From NewspaperSG)
 
 [^31]: Tweedie, “Stone Age in Malaya,” 70; “[Raffles Museum To Go Digging for Facts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19491023-1.2.43),” *Sunday Tribune (Singapore)*, 23 October 1949, 4. (From NewspaperSG) 
 
