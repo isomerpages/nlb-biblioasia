@@ -72,3 +72,16 @@ Their fascination with the play is, of course, a crucial reason for its longevit
 But audience demand is also an important factor as well. After all, if no one buys tickets, no theatre company can afford to produce the play. “I stage the play every year because people ask me to do so,” Chin said.[^44] Woo Yee Saik, who produced Chin’s Emily in 2002 in Georgetown, Penang, and would go on to produce four more Emily performances, said that he has met many people, both Peranakans and non-Peranakans, who told him that they have someone similar to Emily in their family – either their mother, grandmother or aunt.[^45]
 
 #### **My Personal Experience with Emily**
+
+I watched Emily live on stage for the first time in Kuala Lumpur in July 2023. Watching the play in person was a much more intense experience than watching the online videos (of Pearlly Chua, Margaret Chan and Laura Kee). I remember most vividly a scene where Emily was meant to cry. Chua actually did not cry as the tears did not roll down her face. Instead, the tears just pooled in her eyes which made her eyes shine under the bright stage lights. To me, this was more poignant than if she had actually cried.
+
+One of the attractions of the play is its ability to foster community bonding. I saw many Peranakan women among the audience wearing the sarong kebaya (an outfit made up of a sheer embroidered blouse paired with a batik sarong). The play definitely provided an opportunity for the Peranakans to come together and celebrate their culture and customs. 
+
+A community bonding also took place within the play between Emily and the audience as well as among the audience, and it left a deep impression on me. I was thrilled to see Emily suddenly approaching the audience during the market scene. In another scene, during the birthday party for Richard, the entire audience was invited to sing “Happy Birthday” to him. It was truly mesmerising to feel that, by seeing Emily coming down to us and by singing for her son, I was being included into her huge multiracial and multicultural community. 
+
+Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also perhaps a good time for me, and for audiences in both Malaysia and Singapore, to send birthday wishes to Emily, both the character and the play. “Happy birthday Emily! Here’s to another 40 years!” Or as the Peranakans would say at auspicious occasions: “Panjang-panjang umor!” (Long life!).
+
+
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+<b></b>
+	In 1987, Stella Kon donated early drafts of her iconic play, <i>Emily of Emerald</i> Hill, to the National Library as well as a notebook where she has jotted down some initial thoughts and ideas for the play. These include the very first draft titled <i>Portrait of a Nonya: A Monodrama</i> and the fourth draft, <i>Emily of Emerald Hil</i>. She followed up with another donation in 2015 of 39 manuscripts and typescripts of her other plays. These items can be viewed via walk-in requests at the Level 11 Information Counter of the Lee Kong Chian Reference Library, National Library Building, or upon prior reservation via the catalogue.<br></div>
