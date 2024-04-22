@@ -6,6 +6,7 @@ description: Established in 1972, Singapore Airlines has earned a reputation as
   luxurious in-flight experiences.
 image: "/images/Vol 18 Issue 2/The Singapore Airlines Story/A Great Way to Fly:
   The Singapore Airlines Story - Image 1.png"
+variant: markdown
 ---
 #### Established in 1972, Singapore Airlines has earned a reputation as a well-recognised brand known for its impeccable service standards and luxurious in-flight experiences.
 By Ang Seow Leng
@@ -124,19 +125,19 @@ In an interview with the *Straits Times* in May 2022, chief executive officer of
 The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Changi Airport Terminal 3 in May 2022 also showed SIA’s “confidence in Singapore’s future as a pre-eminent global air hub”.[^46] So long as SIA sticks to its guiding principle of striving for excellence, it will undoubtedly continue to be a great way to fly.
 	
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png" style="width: 100px; height: 100px;">
 	<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the National Library’s collections, developing content as well as providing reference and research services.</div>
 	
 #### **NOTES**
 
 [^1]: “Business Traveller Asia-Pacific Awards 2020 Results,” Business Traveller Asia-Pacific, 13 October 2020. https://www.businesstraveller.com/awards/business-traveller-asia-pacific-awards-2020-results/; “World’s Best Airline Cabin Crew,” Skytrax World Airline Awards, accessed 16 June 2022, https://www.worldairlineawards.com/worlds-best-airline-cabin-crew-2021/.
 
-[^2]: [Lim Chin Beng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), oral history interview by Patricia Lee, 5 September 2000, transcript and MP3 audio, Reel/Disc 2 of 3, National Archives of Singapore (accession no. 002358), 20.
+[^2]: [Lim Chin Beng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358\_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews\_brandingLogo\_.png), oral history interview by Patricia Lee, 5 September 2000, transcript and MP3 audio, Reel/Disc 2 of 3, National Archives of Singapore (accession no. 002358), 20.
 
-[^3]: Allen, [*SIA: Take-off to Success*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5526825), 21–22; Christopher Fyfe, [*Wheels in Malaya: The Wearne Brothers and Their Company*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11406555) (Claremont, W. Aust.: Lana Press, 2002), 121–30. (From National Library, Singapore, call no. RSING q629.2220922 FYF)
+[^3]: Allen, [*SIA: Take-off to Success*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=5526825), 21–22; Christopher Fyfe, [*Wheels in Malaya: The Wearne Brothers and Their Company*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=11406555) (Claremont, W. Aust.: Lana Press, 2002), 121–30. (From National Library, Singapore, call no. RSING q629.2220922 FYF)
 
-[^4]: “[Ten Proud Years: Great Day in the History of Malayan Airways](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570501-1.2.122), 1947–1957,” *Straits Times*, 1 May 1957, 12; “[Malayan Air Service Daily From May 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470412-1.2.62),” *Malaya Tribune*, 12 April 1947, 5. (From NewspaperSG); Allen, [*SIA: Take-off to Success*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=5526825), 19.
+[^4]: “[Ten Proud Years: Great Day in the History of Malayan Airways](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570501-1.2.122), 1947–1957,” *Straits Times*, 1 May 1957, 12; “[Malayan Air Service Daily From May 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19470412-1.2.62),” *Malaya Tribune*, 12 April 1947, 5. (From NewspaperSG); Allen, [*SIA: Take-off to Success*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=5526825), 19.
 
 [^5]: “[Malaysian Airways: New Name of Your National Airline](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631130-1.2.116.1),” *Straits Times*, 30 November 1963, 17; “[Up Goes the Flag](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630917-1.2.2),” *Straits Times*, 17 September 1963, 1; “[MAL Is Now MSA](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661231-1.2.13),” *Straits Times*, 31 December 1966, 1. (From NewspaperSG)
 
@@ -148,13 +149,13 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^9]: Arthur Richards and Rita Loong, “[Big Champagne Party by Union to Mark the Birth of SIA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721001-1.2.9.26),” *Straits Times*, 1 October 1972, 7. (From NewspaperSG)
 
-[^10]: Goh Yong Kiat, [*Where Lions Fly: 100 Years of Aviation in Singapore (1911–2011)*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14273872) (Singapore: Straits Times Press Reference, 2012), 95. (From National Library, Singapore, call no. RSING 387.7095957 GOH); “[MSA It Is!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720129-1.2.2)”
+[^10]: Goh Yong Kiat, [*Where Lions Fly: 100 Years of Aviation in Singapore (1911–2011)*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14273872) (Singapore: Straits Times Press Reference, 2012), 95. (From National Library, Singapore, call no. RSING 387.7095957 GOH); “[MSA It Is!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720129-1.2.2)”
 
 [^11]: [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 21.
 
 [^12]: “[SIA-Garuda Air Rights Signing Today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720914-1.2.125),” *Straits Times*, 14 September 1972, 28; “[SIA Will Fly to Karachi This Month](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721010-1.2.53),” *Straits Times*, 10 October 1972, 10. (From NewspaperSG)
 
-[^13]: Bill Campbell, “[SIA's $2 Bil Wingspread](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780510-1.2.2),” *Straits Times*, 10 May 1978, 1. (From NewspaperSG); Goh, [*Where Lions Fly*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14273872), 108, 136.
+[^13]: Bill Campbell, “[SIA's $2 Bil Wingspread](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19780510-1.2.2),” *Straits Times*, 10 May 1978, 1. (From NewspaperSG); Goh, [*Where Lions Fly*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14273872), 108, 136.
 
 [^14]: “SIA Group Cuts Full Year Net Loss By 78%, Posts Second Half Operating Profit As Travel Demand Returns,” Singapore Airlines, 18 May 2022, https://www.singaporeair.com/saar5/pdf/Investor-Relations/Financial-Results/News-Release/nr-q4fy2122.pdf; Natasha Ganesan, “SIA Group’s Passenger Traffic Continues to Rise in May Amid Strong Recovery in Air Travel,” *Channel NewsAsia*, 15 June 2022, https://www.channelnewsasia.com/singapore/singapore-airlines-scoot-passenger-traffic-may-2022-covid-19-travel-2748461.
 
@@ -168,7 +169,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^19]: Jocelyn Lee, “New Singapore Girl Wax Figure Modelled After Yummy Mummy Chosen Out of 4,500 SIA Stewardesses,” *New Paper*, 4 March 2015, https://www.tnp.sg/news/others/new-singapore-girl-wax-figure-modelled-after-yummy-mummy-chosen-out-4500-sia.
 
-[^20]: Sylvia Tan, [*Above & Beyond: A Collection of Recipes from the Singapore Airlines International Culinary Panel*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13561739) (Singapore: Marshall Cavendish Cuisine, 2010), 13. (From National Library, Singapore, call no. RSING 641.59 ABO)
+[^20]: Sylvia Tan, [*Above &amp; Beyond: A Collection of Recipes from the Singapore Airlines International Culinary Panel*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13561739) (Singapore: Marshall Cavendish Cuisine, 2010), 13. (From National Library, Singapore, call no. RSING 641.59 ABO)
 
 [^21]: “World's Best Economy Class Airlines 2021,” Skytrax World Airline Awards, accessed 16 June 2022, https://www.worldairlineawards.com/worlds-best-economy-class-airlines-2021/.
 
@@ -176,9 +177,9 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^23]: [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
 
-[^24]: Lee Kuan Yew, [*From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=9981172) (Singapore: Times Editions: Singapore Press Holdings, 2000), 229. (From National Library, Singapore, call no. RSING 959.57092 LEE); [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
+[^24]: Lee Kuan Yew, [*From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=9981172) (Singapore: Times Editions: Singapore Press Holdings, 2000), 229. (From National Library, Singapore, call no. RSING 959.57092 LEE); [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
 
-[^25]: Ken Hickson, [*Mr SIA: Fly Past*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201057444) (Singapore: World Scientific Publishing, 2014), 83–84; [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 17.
+[^25]: Ken Hickson, [*Mr SIA: Fly Past*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=201057444) (Singapore: World Scientific Publishing, 2014), 83–84; [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 17.
 
 [^26]: [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 18; Agnes Wee, “[Germany Accuses SIA of Undercutting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19811113-1.2.4),” *Business Times*, 13 November 1981, 1; “[An End to the Turbulence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811212-1.2.92),” *Straits Times*, 12 December 1981, 16. (From NewspaperSG)
 
@@ -186,19 +187,19 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^28]: Ahmad Osman, “[SIA Dispute: PM Steps In](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801127-1.2.2),” *Straits Times*, 27 November 1980, 1. (From NewspaperSG)
 
-[^29]: “[Shades of the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031221-1.2.5.8.2),” *Straits Times*, 21 December 2003, 8. (From NewspaperSG); Hickson, [*Mr SIA*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201057444), 56.
+[^29]: “[Shades of the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031221-1.2.5.8.2),” *Straits Times*, 21 December 2003, 8. (From NewspaperSG); Hickson, [*Mr SIA*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=201057444), 56.
 
-[^30]: “[Shades of the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031221-1.2.5.8.2)”; Lydia Lim, “[Govt Acting to Prevent ‘Broken Heads’ at SIA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031202-1.2.2),” *Straits Times*, 2 December 2003, 1. (From NewspaperSG)
+[^30]: “[Shades of the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031221-1.2.5.8.2)”; Lydia Lim, “[Govt Acting to Prevent ‘Broken Heads’ at SIA](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031202-1.2.2),”&nbsp;*Straits Times*, 2 December 2003, 1. (From NewspaperSG)
 
 [^31]: Ministry of Information, Communications and the Arts, “[In Principle Agreement Mediated by MOM Reached Between Singapore Airlines Ltd (SIA) and the Air Line Pilots Association Singapore (ALPA-S)](https://www.nas.gov.sg/archivesonline/speeches/record-details/761a116c-115d-11e3-83d5-0050568939ad),” press release, 30 June 2003, National Archives of Singapore (document no. 2003063003); Ministry of Information, Communications and the Arts, “[Improving Labour Relations in Singapore Airlines (SIA): Prime Minister’s Office Press Statement](https://www.nas.gov.sg/archivesonline/speeches/record-details/781a11f1-115d-11e3-83d5-0050568939ad),” press release, 30 November 2003, National Archives of Singapore (document no. 2003113001).
 
-[^32]: Bilveer Singh, [*Skyjacking of SQ 117: Causes, Course and Consequences*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6088656) (Singapore: Crescent Design Associates, 1991), 41, 48. (From National Library. Singapore, call no. RSING 364.154095957 BIL)
+[^32]: Bilveer Singh, [*Skyjacking of SQ 117: Causes, Course and Consequences*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6088656) (Singapore: Crescent Design Associates, 1991), 41, 48. (From National Library. Singapore, call no. RSING 364.154095957 BIL)
 
 [^33]: “Thunderbolt: The SQ117 Story,” Public Service Division, Prime Minister's Office, accessed 16 June 2022, https://www.psd.gov.sg/heartofpublicservice/our-people/4-24-7/thunderbolt-the-sq117-story/.
 
-[^34]: Singapore. Ministry of Transport, [*Analysis of the Accident to Singapore Airlines Flight SQ 006, Boeing 747-412, 9V-SPK at Chiang Kai-Shek Airport, Taipei, Taiwan, on 31 October 2000*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=11516487) (Singapore: Ministry of Transport, 2002), iv. (From National Library, Singapore, call no. RSING 363.124650951249 SIN); “[Crash Tarnishes Clean Record](https://safe.menlosecurity.com/http:/news.bbc.co.uk/2/hi/asia-pacific/1001007.stm),” BBC News, 1 November 2000, http://news.bbc.co.uk/2/hi/asia-pacific/1001007.stm.
+[^34]: Singapore. Ministry of Transport, [*Analysis of the Accident to Singapore Airlines Flight SQ 006, Boeing 747-412, 9V-SPK at Chiang Kai-Shek Airport, Taipei, Taiwan, on 31 October 2000*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=11516487) (Singapore: Ministry of Transport, 2002), iv. (From National Library, Singapore, call no. RSING 363.124650951249 SIN); “[Crash Tarnishes Clean Record](https://safe.menlosecurity.com/http:/news.bbc.co.uk/2/hi/asia-pacific/1001007.stm),” BBC News, 1 November 2000, http://news.bbc.co.uk/2/hi/asia-pacific/1001007.stm.
 
-[^35]: National Transportation Safety Committee, [*Investigation of Aircraft Accident SilkAir Flight MI 185 Boeing B737-300, 9V-TRF, Musi River, Palembang, Indonesia, 19 December 1997: Final Report*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=10293443) (Indonesia: Department of Communications, 2000), 1. (From National Library, Singapore, call no. RSING 363.12465 INV)
+[^35]: National Transportation Safety Committee, [*Investigation of Aircraft Accident SilkAir Flight MI 185 Boeing B737-300, 9V-TRF, Musi River, Palembang, Indonesia, 19 December 1997: Final Report*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10293443) (Indonesia: Department of Communications, 2000), 1. (From National Library, Singapore, call no. RSING 363.12465 INV)
 
 [^36]: Mike Eggleton, “The Surge of Low-cost Carriers in Asia,” Advito, accessed 17 June 2022, https://www.advito.com/resources/the-surge-of-low-cost-carriers-in-asia/.
 
