@@ -164,13 +164,13 @@ Example:
 
 [^5]: M.W.F. Tweedie, “The Stone Age of Malaya,” *Journal of the Malayan Branch of the Royal Asiatic Society* 26, no. 2 (162) (October 1953): 6–7. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); M.W.F. Tweedie, “The Malayan Neolithic,” *Journal of the Polynesian Society* 58, no. 1 (March 1949): 19–35. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website). Roger Duff, [*Stone Adzes of Southeast Asia: An Illustrated Typology*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=68544) (Christchurch: Canterbury Museum Trust Board, 1970). (From National Library, Singapore, call no. RCLOS 915.903 DUF) 
 
-[^6]: Mike J.C. Walker, [*Quaternary Dating Methods*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12680597) (England: J. Wiley, 2005). (From National Library, Singapore, call no. R 551.701 WAL); Miriam Noel Haidle and Alfred F. Pawlik, “[Missing Types: Overcoming the Typology Dilemma of Lithic Archaeology in Southeast Asia](https://journals.lib.washington.edu/index.php/BIPPA/article/view/9470/0),” *Bulletin of the Indo-Pacific Prehistory Association* 29 (June 2009): 2–5. 
+[^6]: Mike J.C. Walker, [*Quaternary Dating Methods*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12680597) (England: J. Wiley, 2005). (From National Library, Singapore, call no. R 551.701 WAL); Miriam Noel Haidle and Alfred F. Pawlik, “Missing Types: Overcoming the Typology Dilemma of Lithic Archaeology in Southeast Asia," *Bulletin of the Indo-Pacific Prehistory Association* 29 (June 2009): 2–5, https://journals.lib.washington.edu/index.php/BIPPA/article/view/9470/0.
 
-[^7]: Frederick L. Dunn, “[Radiocarbon Dating the Malayan Neolithic](https://doi.org/10.1017/S0079497X0001447X),” *The Prehistoric Society* 32 (December 1966): 352–53. 
+[^7]: Frederick L. Dunn, “Radiocarbon Dating the Malayan Neolithic,” *The Prehistoric Society* 32 (December 1966): 352–53, https://doi.org/10.1017/S0079497X0001447X.
 
-[^8]: Sonia Harmand et al., “[3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya](https://www.nature.com/articles/nature14464),” *Nature 521* (May 2015): 310–15.
+[^8]: Sonia Harmand et al., “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya,” *Nature 521* (May 2015): 310–15, https://www.nature.com/articles/nature14464.
 
-[^9]: David Clinnick and Sharon Lim, “[In Search of Prehistoric Singapore](https://www.roots.gov.sg/resources-landing/publications/education-and-community-outreach/Muse-SG-Vol-10-Issue-2),” *Muse* SG 10, no. 2 (2018): 40.
+[^9]: David Clinnick and Sharon Lim, “In Search of Prehistoric Singapore,” *Muse* SG 10, no. 2 (2018): 40, https://www.roots.gov.sg/resources-landing/publications/education-and-community-outreach/Muse-SG-Vol-10-Issue-2.
 
 [^10]: A. Terry Rambo, “A Note on Stone Tool Use by the Orang Asli (Aborigines) of Peninsular Malaysia,” *Asian Perspectives* 22, no. 2 (1979): 116–17. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
@@ -192,7 +192,7 @@ Example:
 
 [^19]: Alvin Chua, “[The Causeway](https://www.nlb.gov.sg/main/article-detail?cmsuuid=74fd954b-2970-4c10-a74f-5df4c22eee28),” in Singapore Infopedia. National Library Board Singapore. Article published 2009.
 
-[^20]: Michael Bird et al., “[Evolution of the Sungei-Buloh-Kranji Mangrove Coast, Singapore](https://doi.org/10.1016/j.apgeog.2004.04.002),” *Applied Geography* 24, no. 3 (2004): 184, 192.
+[^20]: Michael Bird et al., “Evolution of the Sungei-Buloh-Kranji Mangrove Coast, Singapore,” *Applied Geography* 24, no. 3 (2004): 184, 192, https://doi.org/10.1016/j.apgeog.2004.04.002.
 
 [^21]: “[Most Famous Professor in Asia Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19380505-1.2.66),” *Straits Budget*, 5 May 1938, 14. (From NewspaperSG)
 
@@ -202,17 +202,17 @@ Example:
 
 [^24]: Tweedie, “Stone Age in Malaya,” 69, 84–85.
 
-[^25]: Stephen Chua et al., “[A New Holocene Sea-level Record for Singapore](https://doi.org/10.1177/09596836211019096),” *The Holocene* 31, no. 9 (June 2021): 1387. Another study on Holocene sea levels within the Johor Strait only showed sea level rise between 7,550 BCE and 4,550 BCE. See Michael I. Bird et al., “[An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise: A New Sea-level Curve from Singapore](https://doi.org/10.1016/j.ecss.2006.07.004),” *Estuarine Coastal and Shelf Science* 71, no. 3–4 (February 2007): 523.
+[^25]: Stephen Chua et al., “A New Holocene Sea-level Record for Singapore,” *The Holocene* 31, no. 9 (June 2021): 1387, https://doi.org/10.1177/09596836211019096; Another study on Holocene sea levels within the Johor Strait only showed sea level rise between 7,550 BCE and 4,550 BCE. See Michael I. Bird et al., “An Inflection in the Rate of Early Mid-Holocene Eustatic Sea-Level Rise: A New Sea-level Curve from Singapore,” *Estuarine Coastal and Shelf Science* 71, no. 3–4 (February 2007): 523, https://doi.org/10.1016/j.ecss.2006.07.004.
 
 [^26]: Tweedie, “Stone Age in Malaya,” 85.
 
 [^27]: Ahmad Hakimi Khairuddin, “Penempatan Masyarakat Neolitik di Johor,” in [*Arkeologi Di Malaysia: Dahulu Dan Kini*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203987462), ed. Asyaari Muhamad (Kuala Lumpur: Universiti Kebangsaan Malaysia, 2018), 86–89. (From National Library, Singapore, call no. Malay RSEA 939.595 ARK); Omar and Muhammad Affizul Misman, “Extents and Distribution of Mangroves in Malaysia,” in [*Status of Mangroves in Malaysia*](https://www.mybis.gov.my/pb/4805), ed. Hamdan Omar, Tariq Mubarak Husin and Ismail Parlan (Selangor Darul Ehsan: Forest Research Institute Malaysia, 2020), 12–37.
 
-[^28]: H.R. van Heekeren, [*The Stone Age of Indonesia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=541252), 2nd edition (The Hague: Martinus Nijhoff, 1972), 165–67. (From National Library, Singapore, call no. RCLOS 991 VITLV-[GH]); Ketut Wiradnyana, “[Artefak Neolitik di Pulau Weh: Bukti Keberadaan Austronesia Prasejarah di Indonesia Bagian Barat](https://doi.org/10.24832/nw.v6i1.79),” *Naditira Widya* 6, no. 1 (April 2012), 5–13.
+[^28]: H.R. van Heekeren, [*The Stone Age of Indonesia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=541252), 2nd edition (The Hague: Martinus Nijhoff, 1972), 165–67. (From National Library, Singapore, call no. RCLOS 991 VITLV-[GH]); Ketut Wiradnyana, “Artefak Neolitik di Pulau Weh: Bukti Keberadaan Austronesia Prasejarah di Indonesia Bagian Barat,” *Naditira Widya* 6, no. 1 (April 2012), 5–13, https://doi.org/10.24832/nw.v6i1.79.
 
-[^29]: Hsiao Mei Goh, et al., “[The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia](https://doi.org/10.15184/aqy.2020.158),” *Antiquity* 94, no. 377, e25 (October 2020): 1–9; Michael J. Shott, “[History Written in Stone: Evolutionary Analysis of Stone Tools in Archaeology](https://doi.org/10.1007/s12052-011-0344-3),” *Evolution: Education and Outreach* 4 (2011): 435.
+[^29]: Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” *Antiquity* 94, no. 377, e25 (October 2020): 1–9, https://doi.org/10.15184/aqy.2020.158; Michael J. Shott, “History Written in Stone: Evolutionary Analysis of Stone Tools in Archaeology,” *Evolution: Education and Outreach* 4 (2011): 435, https://doi.org/10.1007/s12052-011-0344-3.
 
-[^30]: Elizabeth Moore, “[The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia](http://journalarticle.ukm.my/1195/1/SARI27%5B2%5D2009_%5B12%5D.pdf),” *Sari – International Journal of the Malay World and Civilisation* 27, no. 2 (2009), 268–69; “[The ‘Tuan Jangot’ Is Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530613-1.2.5),” *Straits Times*, 13 June 1953, 1. (From NewspaperSG)
+[^30]: Elizabeth Moore, “The Williams-Hunt Collection: Aerial Photographs and Cultural Landscapes in Malaysia and Southeast Asia,” *Sari – International Journal of the Malay World and Civilisation* 27, no. 2 (2009), 268–69, http://journalarticle.ukm.my/1195/1/SARI27%5B2%5D2009_%5B12%5D.pdf; “[The ‘Tuan Jangot’ Is Dead](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530613-1.2.5),” *Straits Times*, 13 June 1953, 1. (From NewspaperSG)
 
 [^31]: Tweedie, “Stone Age in Malaya,” 70; “[Raffles Museum To Go Digging for Facts](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19491023-1.2.43),” *Sunday Tribune (Singapore)*, 23 October 1949, 4. (From NewspaperSG) 
 
@@ -222,17 +222,17 @@ Example:
 
 [^34]: Gregory A. Waselkov, “Shellfish Gathering and Shell Midden Archaeology,” *Advances in Archaeological Method and Theory* 10 (1987): 93–210. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
 
-[^35]: Defri Elias Simatupang et al., “[Ekskavasi Dan Kajian Manajemen Arkeologi Situs Bukit Kerang Kawal Darat di Kabupaten Bintan, Provinsi Kepulauan Riau](http://repositori.kemdikbud.go.id/18820/),” *Berita Penelitian Arkeologi* 32 (Medan: Balai Arkeologi Sumatera Utara, 2017), 26, 33,; Taufiqurrahman Setiawan, “Melihat Kembali Nilai Penting Bukit Kerang Kawal Darat,” in [*Daratan dan Kepulauan Riau: Dalam Catatan Arkeologi dan Sejarah*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205462244) ed. Sofwan Noerwidi (Jakarta: PT. Pustaka Obor Indonesia, 2021), 85–97. (From National Library, Singapore, call no. Malay RSEA 959.81 DAR)
+[^35]: Defri Elias Simatupang et al., “Ekskavasi Dan Kajian Manajemen Arkeologi Situs Bukit Kerang Kawal Darat di Kabupaten Bintan, Provinsi Kepulauan Riau,” *Berita Penelitian Arkeologi* 32 (Medan: Balai Arkeologi Sumatera Utara, 2017), 26, 33, http://repositori.kemdikbud.go.id/18820/; Taufiqurrahman Setiawan, “Melihat Kembali Nilai Penting Bukit Kerang Kawal Darat,” in [*Daratan dan Kepulauan Riau: Dalam Catatan Arkeologi dan Sejarah*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205462244) ed. Sofwan Noerwidi (Jakarta: PT. Pustaka Obor Indonesia, 2021), 85–97. (From National Library, Singapore, call no. Malay RSEA 959.81 DAR)
 
-[^36]: Ketut Wiradnyana et al., “[Verifikasi dan Identifikasi Objek Arkeologi di Kepulauan Riau dan Sumatera Utara](http://repositori.kemdikbud.go.id/8653/),” in *Berita Penelitian Arkeologi* 23 (Medan: Balai Arkeologi Medan, 2010), 9–12, 17–18, 30–33; Simatupang, “Ekskavasi Dan Kajian Manajemen,” 34.
+[^36]: Ketut Wiradnyana et al., “Verifikasi dan Identifikasi Objek Arkeologi di Kepulauan Riau dan Sumatera Utara,” in *Berita Penelitian Arkeologi* 23 (Medan: Balai Arkeologi Medan, 2010), 9–12, 17–18, 30–33; Simatupang, “Ekskavasi Dan Kajian Manajemen,” 34, http://repositori.kemdikbud.go.id/8653/.
 
-[^37]: Simatupang, “Ekskavasi dan Kajian Manajemen,” 57. The uncalibrated date for Kawal Darat was 1680±110 BP (around 300 CE). Ketut Wiradnyana, “[Pentarikhan Baru Situs Hoabinhian dan Berbagai Kemungkinannya](https://garuda.kemdikbud.go.id/documents/detail/602829),” *Sangkahala: Berkala Arkeologi* 13, no. 26 (2010): 226. 
+[^37]: Simatupang, “Ekskavasi dan Kajian Manajemen,” 57. The uncalibrated date for Kawal Darat was 1680±110 BP (around 300 CE). Ketut Wiradnyana, “Pentarikhan Baru Situs Hoabinhian dan Berbagai Kemungkinannya,” *Sangkahala: Berkala Arkeologi* 13, no. 26 (2010): 226, https://garuda.kemdikbud.go.id/documents/detail/602829.
 
 [^38]: Mokhtar Saidin, Jaffrey Abdullah and Jalil Osman, “Masa Depan USM Dan Usu Dalam Penyelidikan Arkeologi Serantau,” in *Prosiding Seminar Antarabangsa: Mengungkap Perabadan Asia Tenggara Melalui Tapak Padang Lawas Dan Tapak Sungai Batu, Kedah*, ed. Mokhtar Saidin and Suprayitno (Medan: Pusat Penyelidikan Arkeologi Global, Universiti Sains Malaysia, 2011), 4; Zuliskandar Ramli, “Zaman Prasejarah Di Malaysia Dalam Konteks Peninggalan Masyarakat Pesisir Pantai,” *Jurnal Arkeologi Malaysia* 28 (2015): 36. 
 
 [^39]: Simatupang, “Ekskavasi Dan Kajian Manajemen,” 30–31, 42.
 
-[^40]: Ryan Rabett et al, “[Inland Shell Midden Site-formation: Investigation into a Late Pleistocene to Early Holocene Midden from Tràng An, Northern Vietnam](https://doi.org/10.1016/j.quaint.2010.01.025),” *Quaternary International* 239, no. 1–2 (2011): 153–69.
+[^40]: Ryan Rabett et al, “Inland Shell Midden Site-formation: Investigation into a Late Pleistocene to Early Holocene Midden from Tràng An, Northern Vietnam,” *Quaternary International* 239, no. 1–2 (2011): 153–69, https://doi.org/10.1016/j.quaint.2010.01.025.
 
 [^41]: Defri Elias Simatupang, “Ekskavasi Dan Kajian Manajemen,” 66.
 
@@ -242,9 +242,9 @@ Example:
 
 [^44]: “Introduction to Archaeology: Glossary”, Archaeological Institute of America, accessed 1 August 2022, https://www.archaeological.org/programs/educators/introduction-to-archaeology/glossary/.
 
-[^45]: “Introduction to Archaeology” and Ignacio de la Torre, “[The Origins of the Acheulean: Past and Present Perspectives on a Major Transition in Human Evolution](https://doi.org/10.1098/rstb.2015.0245),” *Philosophical Transactions of the Royal Society B* 371, no. 1698 (July 2016):1–5. 
+[^45]: “Introduction to Archaeology” and Ignacio de la Torre, “The Origins of the Acheulean: Past and Present Perspectives on a Major Transition in Human Evolution,” *Philosophical Transactions of the Royal Society B* 371, no. 1698 (July 2016):1–5, https://doi.org/10.1098/rstb.2015.0245.
 
-[^46]: Robin Dennell, “[Life Without the Movius Line: The Structure of the East and Southeast Asian Early Paleolithic](https://doi.org/10.1016/j.quaint.2015.09.001),” *Quaternary International* 400 (May 2016): 14–22.
+[^46]: Robin Dennell, “Life Without the Movius Line: The Structure of the East and Southeast Asian Early Paleolithic,” *Quaternary International* 400 (May 2016): 14–22, https://doi.org/10.1016/j.quaint.2015.09.001.
 
 [^47]: Graeme Barker, Tim Reynolds and David Gilbertson, “The Human Use of Caves in Peninsular and Island Southeast Asia: Research Themes,” *Asian Perspectives* 44, no. 1 (Spring 2005): 6 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
@@ -262,20 +262,20 @@ Example:
 
 [^54]: Tweedie, “Stone Age in Malaya,” 6; Jusoh, Saidin and Ramli, “[Zaman Paleolitik](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204226326),” 36.
 
-[^55]: Adam Brumm, “[Lightning Teeth and Ponari Sweat: Folk Theories and Magical Uses of Prehistoric Stone Axes (and Adzes) in Island Southeast Asia and the Origin of Thunderstone Beliefs](https://doi.org/10.1080/03122417.2018.1468059),” Australian Archaeology 84, no. 1 (2018), 37–55 ; Joseph Needham, [*Science &amp; Civilisation in China*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=7032984) Vol. III (London: Cambridge University Press, 1959), 434 (From National Library, Singapore, call no. R 509.51 NEE); Edwin O. Reischauer, “The Thunder-Weapon in Ancient Japan,” *Harvard Journal of Asiatic Studies* 5, no. 2 (June 1940), 137–41. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Yi Seonbok, “['Thunder-Axes’ and the Traditional View of Stone Tools in Korea](https://doi.org/10.1163/156852302322454567),” *Journal of East Asian Archaeology* 4 (2002), 294–306; Matthew R. Goodrum, “Questioning Thunderstones and Arrowheads: The Problem of Recognizing and Interpreting Stone Artifacts in the Seventeenth Century,” *Early Science and Medicine* 13, no. 5 (2008), 482 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Tomasz Kurasiński, “[Against Disease, Suffering, and Other Plagues: The Magic-Healing Role of Thunderstones in the Middle Ages and Modern Times](https://doi.org/10.23858/FAH34.2021.001),” *Fasiculi Archaeologiae Historicae* 34 (2021), 9–10.
+[^55]: Adam Brumm, “[Lightning Teeth and Ponari Sweat: Folk Theories and Magical Uses of Prehistoric Stone Axes (and Adzes) in Island Southeast Asia and the Origin of Thunderstone Beliefs](https://doi.org/10.1080/03122417.2018.1468059),” Australian Archaeology 84, no. 1 (2018), 37–55 ; Joseph Needham, [*Science &amp; Civilisation in China*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=7032984) Vol. III (London: Cambridge University Press, 1959), 434 (From National Library, Singapore, call no. R 509.51 NEE); Edwin O. Reischauer, “The Thunder-Weapon in Ancient Japan,” *Harvard Journal of Asiatic Studies* 5, no. 2 (June 1940), 137–41. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Yi Seonbok, “['Thunder-Axes’ and the Traditional View of Stone Tools in Korea](https://doi.org/10.1163/156852302322454567),” *Journal of East Asian Archaeology* 4 (2002), 294–306; Matthew R. Goodrum, “Questioning Thunderstones and Arrowheads: The Problem of Recognizing and Interpreting Stone Artifacts in the Seventeenth Century,” *Early Science and Medicine* 13, no. 5 (2008), 482 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Tomasz Kurasiński, “Against Disease, Suffering, and Other Plagues: The Magic-Healing Role of Thunderstones in the Middle Ages and Modern Times,” *Fasiculi Archaeologiae Historicae* 34 (2021), 9–10, https://doi.org/10.23858/FAH34.2021.001.
 
-[^56]: Brad Pillans and Philip Leonard Gibbard, “[The Quaternary Period](https://www.researchgate.net/publication/279428084_The_Quaternary_Period),” in *The Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 981.
+[^56]: Brad Pillans and Philip Leonard Gibbard, “The Quaternary Period,” in *The Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 981, https://www.researchgate.net/publication/279428084_The_Quaternary_Period.
 
 [^57]: Leong Sau Heng, “[Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia](https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944;),” *Indo-Pacific Prehistory Association Bulletin* 10 (1991): 153; Stephen Chia, “Archaeological Evidence of Early Human Occupation in Malaysia,” in *Austronesian Diaspora and the Ethnogenesis of People in Indonesian Archipelago*, ed. Truman Simanjuntak, Ingrid H. E. Pojoh and Mohammad Hisyam (Jakarta: Indonesian Institute of Sciences; International Center for Prehistoric and Austronesian Studies; Indonesian National Committee for UNESCO, 2006), 241–43. (From National Library, Singapore, call no. RSEA 959.8 INT)
 
 [^58]: David Bulbeck and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in [*The Oxford Handbook of Early Southeast Asia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205657526), ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 128. (From National Library, Singapore, call no. RSEA 959.01 OXF)
 
-[^59]: Hsiao Mei Goh, et al., “[The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia](https://doi.org/10.15184/aqy.2020.158),” *Antiquity* 94, no. 377, e25 (October 2020): 1, Cambridge University Press.
+[^59]: Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” *Antiquity* 94, no. 377, e25 (October 2020): 1, Cambridge University Press, https://doi.org/10.15184/aqy.2020.158.
 
-[^60]: Truman Simanjuntak, François Sémah and Claire Gaillard, “[The Paleolithic in Indonesia: Nature and Chronology](http://doi.org/10.1016/j.quaint.2009.07.022),” *Quaternary International* 223, no. 3 (2010): 418. 
+[^60]: Truman Simanjuntak, François Sémah and Claire Gaillard, “The Paleolithic in Indonesia: Nature and Chronology,” *Quaternary International* 223, no. 3 (2010): 418, http://doi.org/10.1016/j.quaint.2009.07.022.
 
-[^61]: Hubert Forestier, et al., “[The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context](https://doi.org/10.1016/j.anthro.2022.102996),” *L’Anthropologie* 126, no. 1 (January–March 2022), 102996: 32. 
+[^61]: Hubert Forestier, et al., “The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context,” *L’Anthropologie* 126, no. 1 (January–March 2022), 102996: 32, https://doi.org/10.1016/j.anthro.2022.102996.
 
-[^62]: Zhaoyun Zhu et al., “[Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago](https://www.nature.com/articles/s41586-018-0299-4),” *Nature* 559 (11 July 2018), 608–12.
+[^62]: Zhaoyun Zhu et al., “Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago,” *Nature* 559 (11 July 2018), 608–12, https://www.nature.com/articles/s41586-018-0299-4.
 
-[^63]: Sonia Harmand et al., “[3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya](https://www.nature.com/articles/nature14464),” *Nature* 521 (May 2015), 310–15.
+[^63]: Sonia Harmand et al., “3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya” *Nature* 521 (May 2015), 310–15, https://www.nature.com/articles/nature14464.
