@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Emily.md
       - "Sea Snail & Papaya Curry: A Eurasian Specialty.md"
       - The Scoop on Otak Blangah.md
       - Soon Kueh Stories.md
