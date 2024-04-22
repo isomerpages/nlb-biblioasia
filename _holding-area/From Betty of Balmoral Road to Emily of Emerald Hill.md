@@ -21,3 +21,6 @@ The first ever performance of the play took place in 1984 in Seremban, Negri Sem
 
 Kon, who is Peranakan, spent her formative years in Emerald Hill Road and had been exposed to theatre at an early age. She was inspired by her mother, Rosie Lim Guat Kheng, who was an amateur actress, and Kon’s theatre-loving father Lim Kok Ann.[^2] While studying at the University of Singapore (now National University of Singapore), Kon wrote a short play titled Birds of a Feather in 1966 which was staged by the university’s students on an exchange trip to France.
 
+Following her marriage and move to Ipoh in 1967, Kon began writing longer plays. In 1971, her double-bill of two science-fiction plays, A Breeding Pair, was produced by the Ipoh Players, the resident theatre company of Ipoh’s Anglo Chinese School.[^3] Its director was Chin San Sooi. 
+
+Kon first began writing Emily of Emerald Hill in Ipoh in 1982, and completed it in Britain when she moved there for the education of her two sons. The idea for the play originally came from Ong Su-Ming, one of the leaders of the school’s theatre company. On hearing Kon lament that the plays which had earlier won her the first prize at the Singapore Playwriting Competition had not yet been staged in Singapore because they needed a large cast, Ong suggested that she write plays with a single character.[^4]
