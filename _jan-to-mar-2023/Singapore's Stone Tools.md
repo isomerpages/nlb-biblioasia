@@ -226,13 +226,13 @@ Example:
 
 [^36]: Ketut Wiradnyana et al., “Verifikasi dan Identifikasi Objek Arkeologi di Kepulauan Riau dan Sumatera Utara,” in *Berita Penelitian Arkeologi* 23 (Medan: Balai Arkeologi Medan, 2010), 9–12, 17–18, 30–33; Simatupang, “Ekskavasi Dan Kajian Manajemen,” 34, http://repositori.kemdikbud.go.id/8653/.
 
-[^37]: Simatupang, “Ekskavasi dan Kajian Manajemen,” 57. The uncalibrated date for Kawal Darat was 1680±110 BP (around 300 CE). Ketut Wiradnyana, “Pentarikhan Baru Situs Hoabinhian dan Berbagai Kemungkinannya,” *Sangkahala: Berkala Arkeologi* 13, no. 26 (2010): 226, https://garuda.kemdikbud.go.id/documents/detail/602829
+[^37]: Simatupang, “Ekskavasi dan Kajian Manajemen,” 57. The uncalibrated date for Kawal Darat was 1680±110 BP (around 300 CE). Ketut Wiradnyana, “Pentarikhan Baru Situs Hoabinhian dan Berbagai Kemungkinannya,” *Sangkahala: Berkala Arkeologi* 13, no. 26 (2010): 226, https://garuda.kemdikbud.go.id/documents/detail/602829.
 
 [^38]: Mokhtar Saidin, Jaffrey Abdullah and Jalil Osman, “Masa Depan USM Dan Usu Dalam Penyelidikan Arkeologi Serantau,” in *Prosiding Seminar Antarabangsa: Mengungkap Perabadan Asia Tenggara Melalui Tapak Padang Lawas Dan Tapak Sungai Batu, Kedah*, ed. Mokhtar Saidin and Suprayitno (Medan: Pusat Penyelidikan Arkeologi Global, Universiti Sains Malaysia, 2011), 4; Zuliskandar Ramli, “Zaman Prasejarah Di Malaysia Dalam Konteks Peninggalan Masyarakat Pesisir Pantai,” *Jurnal Arkeologi Malaysia* 28 (2015): 36. 
 
 [^39]: Simatupang, “Ekskavasi Dan Kajian Manajemen,” 30–31, 42.
 
-[^40]: Ryan Rabett et al, “[Inland Shell Midden Site-formation: Investigation into a Late Pleistocene to Early Holocene Midden from Tràng An, Northern Vietnam](https://doi.org/10.1016/j.quaint.2010.01.025),” *Quaternary International* 239, no. 1–2 (2011): 153–69.
+[^40]: Ryan Rabett et al, “Inland Shell Midden Site-formation: Investigation into a Late Pleistocene to Early Holocene Midden from Tràng An, Northern Vietnam,” *Quaternary International* 239, no. 1–2 (2011): 153–69, https://doi.org/10.1016/j.quaint.2010.01.025.
 
 [^41]: Defri Elias Simatupang, “Ekskavasi Dan Kajian Manajemen,” 66.
 
@@ -242,9 +242,9 @@ Example:
 
 [^44]: “Introduction to Archaeology: Glossary”, Archaeological Institute of America, accessed 1 August 2022, https://www.archaeological.org/programs/educators/introduction-to-archaeology/glossary/.
 
-[^45]: “Introduction to Archaeology” and Ignacio de la Torre, “[The Origins of the Acheulean: Past and Present Perspectives on a Major Transition in Human Evolution](https://doi.org/10.1098/rstb.2015.0245),” *Philosophical Transactions of the Royal Society B* 371, no. 1698 (July 2016):1–5. 
+[^45]: “Introduction to Archaeology” and Ignacio de la Torre, “The Origins of the Acheulean: Past and Present Perspectives on a Major Transition in Human Evolution,” *Philosophical Transactions of the Royal Society B* 371, no. 1698 (July 2016):1–5, https://doi.org/10.1098/rstb.2015.0245.
 
-[^46]: Robin Dennell, “[Life Without the Movius Line: The Structure of the East and Southeast Asian Early Paleolithic](https://doi.org/10.1016/j.quaint.2015.09.001),” *Quaternary International* 400 (May 2016): 14–22.
+[^46]: Robin Dennell, “Life Without the Movius Line: The Structure of the East and Southeast Asian Early Paleolithic,” *Quaternary International* 400 (May 2016): 14–22, https://doi.org/10.1016/j.quaint.2015.09.001.
 
 [^47]: Graeme Barker, Tim Reynolds and David Gilbertson, “The Human Use of Caves in Peninsular and Island Southeast Asia: Research Themes,” *Asian Perspectives* 44, no. 1 (Spring 2005): 6 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
@@ -262,20 +262,20 @@ Example:
 
 [^54]: Tweedie, “Stone Age in Malaya,” 6; Jusoh, Saidin and Ramli, “[Zaman Paleolitik](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204226326),” 36.
 
-[^55]: Adam Brumm, “[Lightning Teeth and Ponari Sweat: Folk Theories and Magical Uses of Prehistoric Stone Axes (and Adzes) in Island Southeast Asia and the Origin of Thunderstone Beliefs](https://doi.org/10.1080/03122417.2018.1468059),” Australian Archaeology 84, no. 1 (2018), 37–55 ; Joseph Needham, [*Science &amp; Civilisation in China*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=7032984) Vol. III (London: Cambridge University Press, 1959), 434 (From National Library, Singapore, call no. R 509.51 NEE); Edwin O. Reischauer, “The Thunder-Weapon in Ancient Japan,” *Harvard Journal of Asiatic Studies* 5, no. 2 (June 1940), 137–41. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Yi Seonbok, “['Thunder-Axes’ and the Traditional View of Stone Tools in Korea](https://doi.org/10.1163/156852302322454567),” *Journal of East Asian Archaeology* 4 (2002), 294–306; Matthew R. Goodrum, “Questioning Thunderstones and Arrowheads: The Problem of Recognizing and Interpreting Stone Artifacts in the Seventeenth Century,” *Early Science and Medicine* 13, no. 5 (2008), 482 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Tomasz Kurasiński, “[Against Disease, Suffering, and Other Plagues: The Magic-Healing Role of Thunderstones in the Middle Ages and Modern Times](https://doi.org/10.23858/FAH34.2021.001),” *Fasiculi Archaeologiae Historicae* 34 (2021), 9–10.
+[^55]: Adam Brumm, “[Lightning Teeth and Ponari Sweat: Folk Theories and Magical Uses of Prehistoric Stone Axes (and Adzes) in Island Southeast Asia and the Origin of Thunderstone Beliefs](https://doi.org/10.1080/03122417.2018.1468059),” Australian Archaeology 84, no. 1 (2018), 37–55 ; Joseph Needham, [*Science &amp; Civilisation in China*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=7032984) Vol. III (London: Cambridge University Press, 1959), 434 (From National Library, Singapore, call no. R 509.51 NEE); Edwin O. Reischauer, “The Thunder-Weapon in Ancient Japan,” *Harvard Journal of Asiatic Studies* 5, no. 2 (June 1940), 137–41. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Yi Seonbok, “['Thunder-Axes’ and the Traditional View of Stone Tools in Korea](https://doi.org/10.1163/156852302322454567),” *Journal of East Asian Archaeology* 4 (2002), 294–306; Matthew R. Goodrum, “Questioning Thunderstones and Arrowheads: The Problem of Recognizing and Interpreting Stone Artifacts in the Seventeenth Century,” *Early Science and Medicine* 13, no. 5 (2008), 482 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); Tomasz Kurasiński, “Against Disease, Suffering, and Other Plagues: The Magic-Healing Role of Thunderstones in the Middle Ages and Modern Times,” *Fasiculi Archaeologiae Historicae* 34 (2021), 9–10, https://doi.org/10.23858/FAH34.2021.001.
 
-[^56]: Brad Pillans and Philip Leonard Gibbard, “[The Quaternary Period](https://www.researchgate.net/publication/279428084_The_Quaternary_Period),” in *The Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 981.
+[^56]: Brad Pillans and Philip Leonard Gibbard, “The Quaternary Period,” in *The Geologic Time Scale* (Oxford, U.K.: Elsevier, 2012), 981, https://www.researchgate.net/publication/279428084_The_Quaternary_Period.
 
 [^57]: Leong Sau Heng, “[Jenderam Hilir and the Mid-Holocene Prehistory of the West Coast Plain of Peninsular Malaysia](https://journals.lib.washington.edu/index.php/BIPPA/article/viewFile/11304/9944;),” *Indo-Pacific Prehistory Association Bulletin* 10 (1991): 153; Stephen Chia, “Archaeological Evidence of Early Human Occupation in Malaysia,” in *Austronesian Diaspora and the Ethnogenesis of People in Indonesian Archipelago*, ed. Truman Simanjuntak, Ingrid H. E. Pojoh and Mohammad Hisyam (Jakarta: Indonesian Institute of Sciences; International Center for Prehistoric and Austronesian Studies; Indonesian National Committee for UNESCO, 2006), 241–43. (From National Library, Singapore, call no. RSEA 959.8 INT)
 
 [^58]: David Bulbeck and Ben Marwick, “Stone Industries of Mainland and Island Southeast Asia,” in [*The Oxford Handbook of Early Southeast Asia*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205657526), ed. Charles F.W. Higham and Nam C. Kim (Oxford: Oxford University Press, 2022), 128. (From National Library, Singapore, call no. RSEA 959.01 OXF)
 
-[^59]: Hsiao Mei Goh, et al., “[The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia](https://doi.org/10.15184/aqy.2020.158),” *Antiquity* 94, no. 377, e25 (October 2020): 1, Cambridge University Press.
+[^59]: Hsiao Mei Goh, et al., “The Paleolithic Stone Assemblage of Kota Tampan, West Malaysia,” *Antiquity* 94, no. 377, e25 (October 2020): 1, Cambridge University Press, https://doi.org/10.15184/aqy.2020.158.
 
-[^60]: Truman Simanjuntak, François Sémah and Claire Gaillard, “[The Paleolithic in Indonesia: Nature and Chronology](http://doi.org/10.1016/j.quaint.2009.07.022),” *Quaternary International* 223, no. 3 (2010): 418. 
+[^60]: Truman Simanjuntak, François Sémah and Claire Gaillard, “The Paleolithic in Indonesia: Nature and Chronology,” *Quaternary International* 223, no. 3 (2010): 418, http://doi.org/10.1016/j.quaint.2009.07.022.
 
-[^61]: Hubert Forestier, et al., “[The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context](https://doi.org/10.1016/j.anthro.2022.102996),” *L’Anthropologie* 126, no. 1 (January–March 2022), 102996: 32. 
+[^61]: Hubert Forestier, et al., “The First Lithic Industry of Mainland Southeast Asia: Evidence of the Earliest Hominin in a Tropical Context,” *L’Anthropologie* 126, no. 1 (January–March 2022), 102996: 32, https://doi.org/10.1016/j.anthro.2022.102996.
 
-[^62]: Zhaoyun Zhu et al., “[Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago](https://www.nature.com/articles/s41586-018-0299-4),” *Nature* 559 (11 July 2018), 608–12.
+[^62]: Zhaoyun Zhu et al., “Hominin Occupation of the Chinese Loess Plateau since about 2.1 Million Years Ago,” *Nature* 559 (11 July 2018), 608–12, https://www.nature.com/articles/s41586-018-0299-4.
 
 [^63]: Sonia Harmand et al., “[3.3 Million Year-old Stone Tools from Lomekwi 3, West Turkana, Kenya](https://www.nature.com/articles/nature14464),” *Nature* 521 (May 2015), 310–15.
