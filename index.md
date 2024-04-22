@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/
-      button: American Troops. Singapore Bands. The Vietnam War
+      url: /vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcycle-racing/
+      button: A Quick History of the Singapore Speedway
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 1/Vietnam War/Hero_img_vietnam_war2.jpg
+      background: /images/Vol 20 Issue 1/Singapore Speedway/Hero_img_Speedway2.jpg
   - infopic:
       title: The Tragedy of Singapore’s First Boxing Superstar
       subtitle: Podcast
