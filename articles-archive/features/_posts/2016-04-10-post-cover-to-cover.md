@@ -4,6 +4,7 @@ date: 2016-04-10
 permalink: /vol-12/issue-1/apr-jun-2016/cover-to-cover/
 image: /images/Vol-12-issue-1/cover-to-cover/01_covertocover.jpg
 layout: post
+variant: markdown
 ---
 #### **Barbara Quek** and **Zoe Yeo** highlight entertainment magazine covers of yesteryear from the collections of the National Library.
 
@@ -19,7 +20,7 @@ The “golden age of Malay cinema” between 1947 and 1972 saw the emergence of 
 
 Since the early 1950s, women in Singapore have fought for basic rights in marriage, education and work. The growing awareness of women’s rights, aided by the launch of the Singapore Council of Women in 1952 and the Women’s Charter in 1961, unleashed a slew of magazines targeted exclusively at women, such as *Malayan Lady* and *Her World* – launched in 1959 and 1960 respectively. *Her World* was the first of its kind, and has outlived many of its competitors to become the most popular woman’s magazine in Singapore today.
 
-The launch of Singapore’s first television station, Television Singapura, in February 1963 was a game changer in the entertainment scene. Television was such a novelty in those days that viewers were just as entertained by commercials as they were by the actual programmes. Magazines such as *TV & Radio Magazine* (电视与广播), and later *Fanfare* and *Radio & TV Times*, appeared on the scene to capitalise on the allure of television and the accompanying line-up of local celebrities it ushered. *Fanfare* is no longer around but *TV & Radio Magazine* and *Radio & TV Times* have since evolved to become the hugely popular *i-Weekly* and *8 DAYS* respectively, two of Singapore’s longest-running entertainment magazines.
+The launch of Singapore’s first television station, Television Singapura, in February 1963 was a game changer in the entertainment scene. Television was such a novelty in those days that viewers were just as entertained by commercials as they were by the actual programmes. Magazines such as *TV &amp; Radio Magazine* (电视与广播), and later *Fanfare* and *Radio &amp; TV Times*, appeared on the scene to capitalise on the allure of television and the accompanying line-up of local celebrities it ushered. *Fanfare* is no longer around but *TV &amp; Radio Magazine* and *Radio &amp; TV Times* have since evolved to become the hugely popular *i-Weekly* and *8 DAYS* respectively, two of Singapore’s longest-running entertainment magazines.
 
 #### **Covers from Yesteryear**
 
@@ -99,9 +100,9 @@ Billed as “The Weekly for Swingers”, *Fanfare* was the leading English-langu
 
 <div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-1/cover-to-cover/14a_covertocover.jpg"></div>
 
-(Clockwise from top left) **电视与广播** *TV & Radio Magazine* (18 February 1963); **电视周刊** *TV Weekly* (1 January 1977); **i周刊** *i-Weekly* (8–15 November 1997); and **电视广播周刊** *TV & Radio Weekly* (24–30 January 1981)
+(Clockwise from top left) **电视与广播** *TV &amp; Radio Magazine* (18 February 1963); **电视周刊** *TV Weekly* (1 January 1977); **i周刊** *i-Weekly* (8–15 November 1997); and **电视广播周刊** *TV &amp; Radio Weekly* (24–30 January 1981)
 
-One of the first local showbiz magazines published in Chinese, 电视与广播 (*TV & Radio Magazine*) kept readers up-to-date with the latest entertainment news in the region during the 1960s and 70s. Launched on 18 February 1963 just three days after TV was introduced in Singapore on 15 February, the magazine featured TV broadcaster 梁路诗 as its first cover girl. With TV sets becoming more common in households, the magazine was renamed 电视周刊 (*TV Weekly*) on 1 January 1977 to provide more content on TV programmes. Actress Tay Seen Yei (郑心愉), who was also a reporter with the Chinese daily *Min Pao*, graced the cover of the first issue. 电视广播周刊 (*TV & Radio Weekly*), published on 24January 1981 with Hong Kong actress Carol Cheng (郑裕玲) on the cover, replaced *TV Weekly* at a time when Hong Kong drama serials such as *Man in the Net* became hugely popular with local viewers. In 1997, the magazine was rebranded again, this time as i周刊 (*i-Weekly*), touted as Singapore’s No. 1 Chinese magazine and an all-time favourite for delivering a weekly staple of celebrity news and interviews, and TV and movie features. Featured on the inaugural issue of *i-Weekly* (8–15 November 1997) are local actresses Ann Kok (郭舒贤) (left) and Zoe Tay (郑惠玉) (right).
+One of the first local showbiz magazines published in Chinese, 电视与广播 (*TV &amp; Radio Magazine*) kept readers up-to-date with the latest entertainment news in the region during the 1960s and 70s. Launched on 18 February 1963 just three days after TV was introduced in Singapore on 15 February, the magazine featured TV broadcaster 梁路诗 as its first cover girl. With TV sets becoming more common in households, the magazine was renamed 电视周刊 (*TV Weekly*) on 1 January 1977 to provide more content on TV programmes. Actress Tay Seen Yei (郑心愉), who was also a reporter with the Chinese daily *Min Pao*, graced the cover of the first issue. 电视广播周刊 (*TV &amp; Radio Weekly*), published on 24January 1981 with Hong Kong actress Carol Cheng (郑裕玲) on the cover, replaced *TV Weekly* at a time when Hong Kong drama serials such as *Man in the Net* became hugely popular with local viewers. In 1997, the magazine was rebranded again, this time as i周刊 (*i-Weekly*), touted as Singapore’s No. 1 Chinese magazine and an all-time favourite for delivering a weekly staple of celebrity news and interviews, and TV and movie features. Featured on the inaugural issue of *i-Weekly* (8–15 November 1997) are local actresses Ann Kok (郭舒贤) (left) and Zoe Tay (郑惠玉) (right).
 
 <div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-1/cover-to-cover/15_covertocover.jpg"></div>
 
@@ -113,18 +114,18 @@ Published as a monthly in black and white, *BigO* (or Before I Get Old) had a sm
 
 <div style="background-color: white;"><br><img style="width:600px" src="/images/Vol-12-issue-1/cover-to-cover/16_covertocover.jpg"></div>
 
-***Radio & TV Times*** (25 October 1980) and ***8 DAYS*** (20 October 1990)
+***Radio &amp; TV Times*** (25 October 1980) and ***8 DAYS*** (20 October 1990)
 
-When Radio Television Singapore was restructured as Singapore Broadcasting Corporation on 1 February 1980, it ushered in a new era in television. *Radio & TV Times* became its vehicle to publicise its line-up of both locally produced Chinese dramas and imported Western TV shows – such as the TV series *Battlestar Galactica* on the cover of the maiden issue – as well as the latest news in entertainment to English-speaking readers. In October 1990, *Radio & TV Times* was given a design makeover and renamed *8 DAYS*. This early issue (20 October 1990) featured Whitney Houston on its cover, and in December 2009, the magazine celebrated the launch of its 1,000th issue. The focus of the magazine has since shifted from celebrity gossip and TV-related news to include film, music, books and food reviews.
+When Radio Television Singapore was restructured as Singapore Broadcasting Corporation on 1 February 1980, it ushered in a new era in television. *Radio &amp; TV Times* became its vehicle to publicise its line-up of both locally produced Chinese dramas and imported Western TV shows – such as the TV series *Battlestar Galactica* on the cover of the maiden issue – as well as the latest news in entertainment to English-speaking readers. In October 1990, *Radio &amp; TV Times* was given a design makeover and renamed *8 DAYS*. This early issue (20 October 1990) featured Whitney Houston on its cover, and in December 2009, the magazine celebrated the launch of its 1,000th issue. The focus of the magazine has since shifted from celebrity gossip and TV-related news to include film, music, books and food reviews.
 
 <div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6"><b>WHAT IS PUBLICATIONSG</b>
 <br><br>
-	Launched in October 2015, PublicationSG is a dedicated online catalogue of all physical materials found in the Legal Deposit Collection, a rich archive of nearly 1.1 million items that is now available for public  access. Serials and magazines comprise 70 percent of the collection, with 25 percent being books and the rest made up of audiovisual materials and maps as well as ephemera. Members of the public can place reservations to view legal deposit items at $1.55 each at the information counters of the Lee Kong Chian Reference Library on levels 7–13 of the National Library Building, or via an online form at <a href="http://www.eservice.nlb.gov.sg/forms/publicationsg">eservice.nlb.gov.sg/forms/publicationsg</a>. The items can only be viewed at designated work stations in the reference library.</div>
+	Launched in October 2015, PublicationSG is a dedicated online catalogue of all physical materials found in the Legal Deposit Collection, a rich archive of nearly 1.1 million items that is now available for public  access. Serials and magazines comprise 70 percent of the collection, with 25 percent being books and the rest made up of audiovisual materials and maps as well as ephemera. Members of the public can place reservations to view legal deposit items at $1.55 each at the information counters of the Lee Kong Chian Reference Library on levels 7–13 of the National Library Building, or via an <a href="https://form.gov.sg/600008f1ba0ee20011f16351">online form</a>. The items can only be viewed at designated work stations in the reference library.</div>
 	
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-1/cover-to-cover/barbara.png">
-<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy & Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
+<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
 
 <div style="background-color: white;">
@@ -141,7 +142,7 @@ Arora, M. (Ed.). (2007). *[Small steps, giant leaps: A history of AWARE and the 
 
 Big O. (2016). *BigO*. Retrieved from BigO website.
 
-Chew, P., & Lam, J. (Eds.). (1993). *[Voices & choices: The women’s movement in Singapore](https://eservice.nlb.gov.sg/itemholding.aspx?bid=6470289)*. Singapore: Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI)
+Chew, P., &amp; Lam, J. (Eds.). (1993). *[Voices &amp; choices: The women’s movement in Singapore](https://eservice.nlb.gov.sg/itemholding.aspx?bid=6470289)*. Singapore: Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI)
 
 Chia, E. (2004, March 19). *[BAE watch](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20040319-1.2.62.1)*. *Today*, p. 48. Retrieved from NewspaperSG.
 
