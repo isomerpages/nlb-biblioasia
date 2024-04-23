@@ -286,7 +286,7 @@ It is a festival rendered invisible not by the lack of, but by the excess of lig
 
 [^28]: Babb, “Walking on Flowers in Singapore: A Hindu Festival,” 334.
 
-[^29]: [Soundara Rajan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/05fc6d4e-115e-11e3-83d5-0050568939ad-OHC000845_016/web/html5/index.html), oral history interview by Kartini Lim Chiwen, 17 December 1987, transcript and MP3 audio, Reel/Disc 16 of 23, 30:09, National Archives of Singapore (accession no. 000845), 176–78.  
+[^29]: [Soundara Rajan](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/05fc6d4e-115e-11e3-83d5-0050568939ad-OHC000845_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Kartini Lim Chiwen, 17 December 1987, transcript and MP3 audio, Reel/Disc 16 of 23, 30:09, National Archives of Singapore (accession no. 000845), 176–78.  
 
 [^30]: H.T. Haughton, “Native Names of Streets in Singapore,” *Journal of the Malaysian Branch of the Royal Asiatic Society* 42, no. 1 (215) (July 1969): 205. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
