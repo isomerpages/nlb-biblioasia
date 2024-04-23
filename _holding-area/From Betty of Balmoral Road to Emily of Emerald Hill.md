@@ -5,6 +5,7 @@ variant: markdown
 description: A study of early drafts of Emily of Emerald Hill reveals
   fascinating choices and paths not taken.
 ---
+
 #### A study of early drafts of Emily of Emerald Hill reveals fascinating choices and paths not taken.
 By Eriko Ogihara-Schuck
 
@@ -124,3 +125,16 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 [^15]: William Luce, _The Belle of Amherst_ (Boston: Houghton Mifflin Company, 1978), 2.
 
 [^16]: Kon, [_Portrait of a Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 8; 17.
+
+[^17]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114), 38–39.
+
+[^18]: Luce, _The Belle of Amherst_, 22–24.
+
+[^19]: Stella Kon, oral history interview, 9 August 2006, Reel/Disc 22 of 36, 3:23–54.
+
+[^20]: It was a “superb solution” on the part of William Luce to involve the audience in the play in this manner. Correspondence with Grant Hayter-Menzies, 3 April 2024. For the detailed episode about how Luce came up with this solution, see Grant Hayter-Menzies, _Staging Emily Dickinson:_ _The History and Enduring Influence of William Luce's The Belle of Amherst_. Jeffferson (NC: McFarland, 2023), 119–20.
+
+[^21]: Kon, [_Portrait of a Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 3.
+
+[^22]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114), 29–30.
+
