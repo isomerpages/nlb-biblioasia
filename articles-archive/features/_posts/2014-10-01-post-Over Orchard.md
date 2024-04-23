@@ -282,7 +282,7 @@ Yeoh, B., &amp; Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view 
 
 [^9]: Edwards, n., &amp; Keys, P. (1988). *[Singapore: A guide to buildings, street, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 220). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
 
-[^10]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=34)* [Transcript of MP3 recording no. 003058/07/01, pp. 1–30]. Retrieved from National Archives of Singapore
+[^10]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=34)* [Transcript of MP3 recording no. 003058/07/01, pp. 1–30]. Retrieved from National Archives of Singapore
 
 [^11]: Ang, A. (1990, February 17). [Heeren Building has to make way for road project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900217-1.2.32.2.2). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
