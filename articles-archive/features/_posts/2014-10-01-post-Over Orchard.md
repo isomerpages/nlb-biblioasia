@@ -300,7 +300,7 @@ Yeoh, B., &amp; Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view 
 
 [^18]: [Cold storage depot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19050406-1.2.35.2). (1905, April 6). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-[^19]: *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=34)*, 9 Jun 2006.
+[^19]: *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=34)*, 9 Jun 2006.
 
 [^20]: [Cold storage plans to move out to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821126-1.2.180.1). (1982, November 26). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
