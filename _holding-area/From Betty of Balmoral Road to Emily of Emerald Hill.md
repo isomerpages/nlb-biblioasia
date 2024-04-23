@@ -74,6 +74,9 @@ This Malaysian premiere was likely a major factor that prodded Singapore to fina
 
 Singaporean director Max Le Blond said he was immediately intrigued on seeing the script.[^31] Actress Margaret Chan was similarly smitten. “I liked it and said yes right after I read it… I memorised the script within two days.”[^32] Chan’s performance mesmerised Stella Kon. After watching it at the 1985 Singapore Drama Festival, Kon told the audience: “Margaret gave it flesh and breath and blood.” Later, she went backstage to congratulate Chan and told her: “I’m exhilarated, I’m over the moon.” [^33]
 
+![](/images/Vol%2020%20Issue%202/Emily/img2.png)
+<div style="background-color:white;"> Singaporean actress Margaret Chan in the 1985 production of <i>Emily of Emerald Hill</i> for the Singapore Drama Festival. It was directed by university lecturer Max Le Blond. <i>Courtesy of Dr Margaret Chan.</i></div>
+
 #### **Achieving Cult Status**
 
 Even as Emily grew in cult status in Singapore, the same happened in Malaysia. In Malaysia, the play was first perceived as delving into a “relatively little known Malaysian sub-culture” (referring to Peranakan culture).[^34] But it eventually came to exemplify Malaysia’s cultural diversity,[^35] and earned “a significant and special place in Malaysian theatre”[^36] as Malaysia’s longest-running play.[^37]
