@@ -4,11 +4,12 @@ date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/sg-first-zoo/
 image: /images/vol-11-issue-2/zoo/Entrance_of_zoo.jpg
 layout: post
+variant: markdown
 ---
 #### Few people are aware that the island’s first public zoo was set up in 1875. **Lim Tin Seng** traces the history of wildlife parks in Singapore.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-2/zoo/Entrance_of_zoo.jpg">
 Entrance of the Singapore Miniature Zoo in Pasir Panjang that was started by Tong Seng Mun in 1957. <i>Tong Seng Mun Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -32,7 +33,7 @@ In 1867, Harry St George Ord, governor of the Straits Settlements (1867–73), s
 Murton hired William Krohn, a zoology expert, as the superintendent of the Zoological Garden.[^14] By 1877, the developed parts of the gardens were dotted with enclosures housing an impressive collection of about 150 animals. Many were gifts from administrators and dignitaries from Singapore and Malaya: the governor of the Straits Settlements, Andrew Clarke (1873–75), presented the zoo with a female two-horned rhinoceros, while the British resident of Perak, Ernest Birch, gave a sloth-bear, and the sultan of Terengganu gifted a tiger. The public also donated a pair of orangutans, a leopard, a number of deer and other small animals. The King of Siam gave the zoo a leopard and the Acclimatisation Society in Melbourne an emu, a great kangaroo, three bed kangaroos and a brush-tailed rock wallaby.[^15]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-11-issue-2/zoo/darkhand_gibbon.jpg">
 This dark-handed gibbon hanging off a mangosteen tree is one of the paintings that William Farquhar commissioned Chinese artists to do between 1803 and 1818 when he was resident and commandant of Malacca. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
@@ -48,13 +49,13 @@ Ridley held high regard for the Botanic Gardens zoo, describing it as an attract
 The next zoo was a private venture by William Lawrence Soma Basapa in 1928.[^20] Basapa was an Anglican Indian landowner who had an unequivocal passion for animals. In fact, he was an animal trader by profession, and had a pet Bengal tiger named Apay, which he led around with a chain since it was four years old. In the early 1920s, Basapa converted part of his estate at 317 Serangoon Road into a space for his collection of animals and birds.[^21] Among the first who visited Basapa’s private menagerie was Albert Einstein, the father of modern physics, who described it as a “wonderful zoological garden” when he visited Singapore in 1922.[^22] Unfortunately, Basapa had to relocate his animals in 1928 when his neighbours, the Rural Board and even his wife complained about the noise and the stench of his zoo.[^23]
 
 <div style="background-color: white;">
-<br/>
-<img  src="/images/vol-11-issue-2/zoo/basapa.jpg">
+<br>
+<img src="/images/vol-11-issue-2/zoo/basapa.jpg">
 William Lawrence Soma Basapa. <i>Courtesy of the Basapa Family.</i>
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-2/zoo/tiger.jpg">
 William Lawrence Soma Basapa with his favourite pet Bengal tiger Apay. <i>Courtesy of the Basapa Family</i>.
 </div>
@@ -88,13 +89,13 @@ All this while, the zoo held steadfast to its open concept and exhibited the ani
 Many of these attractions were conceived during Bernard Harrison’s term as executive director from 1981 to 2002. After graduating from the University of Manchester with double honours in zoology and psychology, Harrison joined the zoo as an assistant administrative officer in 1973 and rose through the ranks. With his shaggy hair and preference for T-shirts and cargo shorts over designer suits, Harrison was affectionately regarded by employees as a bohemian Tarzan of sorts. However, beneath his laid-back appearance was a deep and abiding interest in animals. With his creativity and willingness to think big and take risks in executing bold ideas, Harrison was able to transform the Singapore Zoo into what it is today.[^54]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-2/zoo/elephant_re.jpg">
 A couple riding an elephant at the Singapore Zoological Gardens in the mid-1980s. Singapore Tourist Promotion Board Collection. <i>Courtesy of Singapore Tourist Promotion Board (STPB) Collection, National Archives of Singapore</i>.
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-2/zoo/deers.jpg">
 Deers inside a fenced enclosure at the Singapore Zoological Gardens in 1973. <i>Courtesy of Ho Seng Huat</i>.
 </div>
@@ -141,7 +142,7 @@ Singapore Zoological Gardens. (1973). *[Official guidebook](https://eservice.nlb
 
 Singapore Zoological Gardens. (1986). *[The Singapore Zoological Gardens: A tropical garden for animals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4599956)*. Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.7445957 SIN)
 
-Singh, K. (2014). *[Naked ape, naked boss: Bernard Harrison: The man behind the Singapore Zoo & the world's first Night Safari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200180093)*. Singapore: Marshall Cavendish. (Call no.: RSING 590.735957092 SIN)
+Singh, K. (2014). *[Naked ape, naked boss: Bernard Harrison: The man behind the Singapore Zoo &amp; the world's first Night Safari](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200180093)*. Singapore: Marshall Cavendish. (Call no.: RSING 590.735957092 SIN)
 
 Song, O.S. (1984). *[One hundred years' history of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082287)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 SON)
 
@@ -211,9 +212,9 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^31]: [Scenes at Singapore's Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380925-1.2.245). (1938, September 25). <i>The Straits Times</i>, p. 32. Retrieved from NewspaperSG.
 
-[^32]: Pitt, K.W. (1985, September 16). *[Oral history interview with Mohinder Singh](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f431d9a8-115d-11e3-83d5-0050568939ad-OHC000546_058/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=7)* [Transcript of MP3 recording no. 000546/65/58, p. 583]. Retrieved from National Archives of Singapore website.
+[^32]: Pitt, K.W. (1985, September 16). *[Oral history interview with Mohinder Singh](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f431d9a8-115d-11e3-83d5-0050568939ad-OHC000546_058/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 000546/65/58, p. 583]. Retrieved from National Archives of Singapore website.
 
-[^33]: Braddell, R. (1934). *[The lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)* (pp. 124–125). London: Methuen & Co. (Call no.: RRARE 959.57 BRA; Microfilm: NL25437; Accession no.: B29033830F)
+[^33]: Braddell, R. (1934). *[The lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)* (pp. 124–125). London: Methuen &amp; Co. (Call no.: RRARE 959.57 BRA; Microfilm: NL25437; Accession no.: B29033830F)
 
 [^34]: [S’pore zoo starts from scratch](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461020-1.2.61). (1946, October 20). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
