@@ -5,6 +5,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/syonan-shimbun/
 image: /images/vol-11-issue-4/propaganda-paper/01_propagandapaper.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656">The Syonan Shimbun</a></i>
@@ -47,7 +48,7 @@ The first issue of *The Shonan Times*, dated 20 February 1942, was printed in En
 
 A Chinese edition, *Zhaonan ri bao* (昭南日报), was introduced on 21 February, 1942. Priced at seven cents a copy, the paper was put together at the Robinson Road offices of *Xingzhou ri bao* (星洲日报), the pre-war Chinese newspaper.[^6] From November 1942, *Zhaonan ri bao* was issued only in the afternoons.[^7]
 
-<div style="background-color: white;"><img style="width:500px"  src="/images/vol-11-issue-4/propaganda-paper/03a_propagandapaper.jpg"><i>Zhaonan ri bao</i> (昭南日报), the Chinese edition of the newspaper, was first published on 21 February 1942. <i>All rights reserved, National Library Board, Singapore.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/propaganda-paper/03a_propagandapaper.jpg"><i>Zhaonan ri bao</i> (昭南日报), the Chinese edition of the newspaper, was first published on 21 February 1942. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
 *The Syonan Shimbun* and the *Zhaonan ri bao* both carried little in the way of objective news. Apart from official notices, announcements, advertisements and obituaries, as well as the odd Saturday or movie supplement, the newspapers contained mainly Japanese wartime propaganda. Any local news the newspapers carried was heavily censored by the Japanese authorities.[^8] As such, the dailies were not particularly thick nor informative – peaking at six pages for the English edition, and a mere four pages for the Chinese edition.[^9]
 
@@ -71,7 +72,7 @@ The section in the papers that were probably of most interest to local readers w
 
 [^1]:Lee, G.B. (2005). *[The Syonan years: Singapore under Japanese rule 1942–1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12661517)* (pp. 19, 270). Singapore: National Archives of Singapore and Epigram Pte Ltd. (Call no.: RSING q940.53957 LEE); [The meaning of Syonan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420221-1.2.3). (1942, February 21). *The Syonan Times*, p. 1. Retrieved from NewspaperSG.
 
-[^2]:Pitt, K.W., & Leong, W.K. (Eds.). (2009). *[Syonan years 1942–1945: Living beneath the rising sun](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13221326)* (p. 112). Singapore: National Archives of Singapore. (Call no.: RSING 940.530745957 TAN-[WAR]); [The Shonan Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420220-1.2.1). (1942, February 20). *The Shonan Times*, p. 1. Retrieved from NewspaperSG.
+[^2]:Pitt, K.W., &amp; Leong, W.K. (Eds.). (2009). *[Syonan years 1942–1945: Living beneath the rising sun](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13221326)* (p. 112). Singapore: National Archives of Singapore. (Call no.: RSING 940.530745957 TAN-[WAR]); [The Shonan Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420220-1.2.1). (1942, February 20). *The Shonan Times*, p. 1. Retrieved from NewspaperSG.
 
 [^3]:Turnbull, C.M. (1995). *[Dateline Singapore: 150 years of The Straits Times](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7471414)* (p. 116). Singapore: Times Editions for Singapore Press Holdings. (Call no.: RSING 079.5957 TUR); *[The Shonan Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420220-1.2.1)*, 20 Feb 1942, p. 1; *[The Syonan Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420221-1.2.3)*, 21 Feb 1942, p. 1.
 
@@ -79,7 +80,7 @@ The section in the papers that were probably of most interest to local readers w
 
 [^5]:*[The Syonan Shimbun](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656).* (1943, December 8); *[The Syonan Shimbun](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656)*. (1945, September 4).
 
-[^6]:*[Zhaonan ri bao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423).* (1942, February 21); Lim, L.H. (Interviewer). (2006, March 20). *[Oral history interview with Chua Kian Aik](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/117691ec-1161-11e3-83d5-0050568939ad-OHC003033007/web/html5/index.html?launchlogo=tablet/OralHistoryInterviewsbrandingLogo.png)* [Transcript of MP4 recording no. 003033/10/07, p. 146]. Retrieved from National Archives of Singapore website.
+[^6]:*[Zhaonan ri bao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423).* (1942, February 21); Lim, L.H. (Interviewer). (2006, March 20). *[Oral history interview with Chua Kian Aik](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/117691ec-1161-11e3-83d5-0050568939ad-OHC003033_007/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=15)* [Transcript of MP4 recording no. 003033/10/07, p. 146]. Retrieved from National Archives of Singapore website.
 
 [^7]:*[Zhaonan ri bao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423).* (21 February 1942–31 May 1944).
 
