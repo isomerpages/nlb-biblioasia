@@ -5,6 +5,7 @@ date: 2021-04-01T00:00:00.000Z
 breadcrumb: Singapore’s Environmental Histories
 third_nav_title: Singapore’s Environmental Histories
 image: /images/Vol-17-issue-1/humanxnature/birdofparadise.jpg
+variant: markdown
 ---
 <style>
 table { 
@@ -138,12 +139,6 @@ Another of Ridley’s legacies would have a profound impact on the global econom
 His subsequent relentless promotion of the commercial value of rubber and the large-scale introduction of the tree in Malaya spurred the growth of the rubber industry in Malaya.[^28] By the 1930s, Malaya had become the world’s largest rubber producer, with rubber plantations sprouting up across Singapore and the peninsula. “Everyone went mad”, said Ridley. “Every bit of waste ground, orchards and even gardens were planted [with rubber trees]. No one talked of anything else.”[^29]
 
 The study of Southeast Asia’s natural history has been driven by many factors, including colonialism, territorial expansion and the European pursuit of knowledge. This perception of nature, shaped primarily by collection, classification and ultimately profit, paved the way for the large-scale exploitation and transformation of the landscape of Singapore and the region.  
-
-<div class="infobox"> 
-<img src="/images/Vol-17-issue-1/humanxnature/x.png" style="width: 200px; height: 230px;">
-<a href="/vol-17/issue-1/apr-jun-2021/"><center>Back to Issue</center></a>
-Visit the <a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/humanxnature/">“Human x Nature: Environmental Histories of Singapore”</a> exhibition at the Gallery on Level 10 of the National Library building on Victoria Street. Featuring over 150 artefacts, it explores our relationship with the natural world, from cultural understandings and scientific study to commercial and urban land use. It also examines efforts at conservation and restoration.
-</div>
 
 <div style="background-color: white;">
 <br>
