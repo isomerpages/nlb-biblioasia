@@ -20,12 +20,12 @@ Khir Johari, food historian and award-winning author of _The_ _Food of Singapore
 
 Khir learnt how to make _mee maidin_ from Nordin (whom he called Wak Din), a man who used to sell the dish commercially at 34 Bussorah Street, formerly known as Kampong Kaji, in Kampong Glam.
 
-According Khir’s research, Nordin inherited the recipe from Hussein, a migrant from South India who created the dish when he settled in Kampong Glam. Hajjah Asfiah Haji Abdullah, who wrote the 1986 cookbook, _Hidangan Warisan Kita_ (_Our Heritage Dishes_), featured the recipe in her book and named the dish “Mee Mahdin” – likely in honour of Nordin and his wife, Salmah.
+According Khir’s research, Nordin inherited the recipe from Hussein, a migrant from South India who created the dish when he settled in Kampong Glam. Hajah Asfiah Haji Abdullah, who wrote the 1986 cookbook, _Hidangan Warisan Kita_ (_Our Heritage Dishes_), featured the recipe in her book and named the dish “Mee Mahdin” – likely in honour of Nordin and his wife, Salmah.
 
-<img src="/images/Videos:%20From%20Book%20to%20Cook/2Mee%20Maidin/Mee_Mahdin_Recipe.jpg" style="width:80%">
-<div style="background-color: white;">“Mee mahdin” recipe from Hajjah Asfiah bte Haji Abdullah, <i>Hidangan Warisan Kita</i> (Times Books International, 1986).</div>
+<img src="/images/Videos:%20From%20Book%20to%20Cook/2Mee%20Maidin/mee_mahdin_recipe_cropped.jpg" style="width:80%">
+<div style="background-color: white;">“Mee mahdin” recipe from Hajah Asfiah bte Haji Abdullah, <i>Hidangan Warisan Kita</i> (Times Books International, 1986).</div>
 
-##### Hajjah Asfiah’s ingredients and instructions<br>
+##### Hajah Asfiah’s ingredients and instructions<br>
 600 g yellow noodles, dipped and tossed<br>
 300 g bean sprouts, roots removed, dipped and tossed<br>
 5 red peppers, sliced<br>
@@ -123,6 +123,6 @@ _Belacan. Terasi. Kapi. Bagoong_. These are some of the names that refer to shri
 
 #### **Related Books**
 
-Asfiah Haji Abdullah, Hajjah. _[Hidangan Warisan Kita](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080178)_ (Singapore: Times Books International, 1986). (From National Library, Singapore, via PublicationSG)
+Asfiah Haji Abdullah, Hajah. _[Hidangan Warisan Kita](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080178)_ (Singapore: Times Books International, 1986). (From National Library, Singapore, via PublicationSG)
 
 Khir Johari. _[The Food of Singapore Malays: Gastronomic Travels Through the Archipelago](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205498204)_. Singapore: Marshall Cavendish Editions, 2021. (From National Library, Singapore, call no. RSING 394.120899928 KHI-\[CUS\])

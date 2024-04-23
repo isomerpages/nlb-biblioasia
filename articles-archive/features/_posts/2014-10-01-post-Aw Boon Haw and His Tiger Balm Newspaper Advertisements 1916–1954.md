@@ -5,9 +5,10 @@ permalink: /vol-10/issue-3/oct-dec-2014/aw-boon-haw-tiger-balm-ads/
 image: /images/vol-10-issue-3/tigerbalm/Aw_Boon_Haw.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/tigerbalm/Aw_Boon_Haw.jpg">
 资料来源：傅无闷主编《星洲日报二周年纪念刊》（新加坡：星洲日报社,1931)</div>
 
@@ -19,7 +20,7 @@ Responsible for the construction of Haw Par Villa, Aw Boon Haw was perhaps best-
 
 综上所述，无论在近代的西方与东方社会，报纸的成药广告是研究社会经济史的最佳史料。而新加坡是中西文化交汇处，在现代化的过程中，报纸的成药广告又反映了怎样的情况？
 
-提起新加坡的成药广告，让人想起了20世纪上半叶，享誉全球的万金油大王——胡文虎（King, 1992）以及他在新加坡和香港所建造的万金油花园/虎豹别墅（Brandel & Turbeville, 1998）。20世纪30年代末，胡氏设在新加坡的虎标永安堂总厂，每年营业额达叻币一千万元以上，这样的业绩主要得归功于胡氏的善用广告，这是其他华商所望尘莫及的特长（关楚璞，1940）。在西方，胡文虎也被誉为第一位使用西方广告术的华商（Boorman, 1968）。可见他的广告术是闻名遐迩的，且在其商业中扮演了关键的角色。到了21世纪，虎标万金油仍是新加坡的超强以及最具有价值的品牌之一（StraitsTimes, 20 November 2003），且已成为新加坡的标志之一（Fernandez, 9 August 1992）。有一部英文小说的内容虽然完全与万金油无关，却以它为书名，只因它已成了治愈创伤的象征（Stewart, 1992）。此外，“万金油”还进入了中国人每日的生活，成了拥有特定意义的词汇（罗竹凤，1993）。一个品牌能如此深刻地进入一个国家和民族的集体记忆，的确让人不得不佩服胡文虎的创意。由此亦可见，他擅长为其药品塑造形象，藉此建立虎标药品的品牌，使之成为世代相传、值得信赖的老字号（Toh, 1994）。胡氏的广告术确实有其过人之处，只是一般的文献都未曾深入分析这些报纸广告。
+提起新加坡的成药广告，让人想起了20世纪上半叶，享誉全球的万金油大王——胡文虎（King, 1992）以及他在新加坡和香港所建造的万金油花园/虎豹别墅（Brandel &amp; Turbeville, 1998）。20世纪30年代末，胡氏设在新加坡的虎标永安堂总厂，每年营业额达叻币一千万元以上，这样的业绩主要得归功于胡氏的善用广告，这是其他华商所望尘莫及的特长（关楚璞，1940）。在西方，胡文虎也被誉为第一位使用西方广告术的华商（Boorman, 1968）。可见他的广告术是闻名遐迩的，且在其商业中扮演了关键的角色。到了21世纪，虎标万金油仍是新加坡的超强以及最具有价值的品牌之一（StraitsTimes, 20 November 2003），且已成为新加坡的标志之一（Fernandez, 9 August 1992）。有一部英文小说的内容虽然完全与万金油无关，却以它为书名，只因它已成了治愈创伤的象征（Stewart, 1992）。此外，“万金油”还进入了中国人每日的生活，成了拥有特定意义的词汇（罗竹凤，1993）。一个品牌能如此深刻地进入一个国家和民族的集体记忆，的确让人不得不佩服胡文虎的创意。由此亦可见，他擅长为其药品塑造形象，藉此建立虎标药品的品牌，使之成为世代相传、值得信赖的老字号（Toh, 1994）。胡氏的广告术确实有其过人之处，只是一般的文献都未曾深入分析这些报纸广告。
 
 本研究将探讨胡文虎的虎标药品广告在新加坡广告史中的角色与贡献，他如何说故事、使用了那些现代广告的表达形式，这些又如何显示出新加坡战前与战后的社会与经济面貌。本研究的断限，起自1916年，终于1954年。这样的划分是根据胡氏最早刊登于新加坡华文报纸广告的年份，与其逝世之年份。胡氏在新加坡办报始于1929年1月15日创刊的《星洲日报》，但在那之前他已在其它中英文报纸上刊登广告，英文报纸有Straits Times, Singapore Free Press, Malayan Saturday Post，中文报纸则有《总汇新报》、《叻报》、《新国民日报》、《南洋商报》、《星洲日报》和《星中日报》等。
 
@@ -28,14 +29,14 @@ Responsible for the construction of Haw Par Villa, Aw Boon Haw was perhaps best-
 胡文虎（1882–1954）出生于缅甸仰光，是祖籍中国福建省永定县的客家人。其父胡子钦在缅甸仰光设立了永安堂国药行。因长兄早殇，仅剩他和弟弟文豹两兄弟。他在十岁时被父亲送回侨乡接受私塾教育（吴尔芬、张侃，2005）。四年后，再回到仰光随父专习业务及医术。1908年父亲过世后，胡氏兄弟便继承了永安堂。在两人同心合作下，业务日渐发展。后来，鉴于仰光地处偏僻，不利于业务发展，于是胡氏回中国考察，并到香港、暹罗、日本等地游历，考察各大中西药房。返回仰光后，便着手扩充药行，最后制成万金油、头痛粉、清快水、八卦丹问世。由于药效显著，因此畅销印度、缅甸和马来亚等地，并于1926年正式将虎标永安堂总行与药厂迁至新加坡（关楚璞，1940）。除了在马来亚及南洋各地设立分行外，又到香港设立分行；后来为了供应中国及海外市场，又于汕头设立药厂，并在中国各大城市及南洋各属广设分行。
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/tigerbalm/Malayan_Saturday_Post.jpg">
 Source: <i>Malayan Saturday Post</i>, 21 May 1927 ,p. 32.</div>
 
 胡文虎不仅在商业上有卓越的成就，亦特别致力于文化、教育、慈善与卫生等事业。对于财富，始终秉持着“取之社会，用之社会”的宗旨，并以建立学校、创办医院、设立报馆，为服务社会的三大事业（关楚璞，1940）。1954年9月4日，因心脏病爆发而逝世，享年72岁（Straits Times , 6 September , 1954）。他离世时，也是一名银行家、金融家、实业家和多家报馆的老板，当时他名下的星系报业有限公司，在东南亚共有13家报馆（古玉梁，2005）。他的慈善事业遍布中国、香港、马来亚以及东南亚各地，有人估计他一生中总共捐出超过一千万元；他曾获颁大英帝国勋章（O.B.E.）和圣约翰骑士勋章（Straits Times, 6 September, 1954）。
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/tigerbalm/micky_makes_magic.jpg" style="width:70%;">
 Source: <i>The Straits Times</i>, 13 August 1946, p.3. <i>All rights reserved, Singapore Press Holdings</i>.</div>
 
@@ -52,7 +53,7 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. <i>All rights reserved, S
 万金油的“万能”也体现在“跨越古今、横跨中西”这一方面。《星中日报》，1936年2月4日的广告将古代的仕女和现代的女泳将并列，以中英文强调它的疗效是经得起时间考验的。另外一则广告所描绘的则是来自全球的各族一同指着万金油，再以中英双语标出“全球人士无不公认虎标万金油为治病最有效之圣药/虎标万金油能治百病，用法简便，且又经济”（《星中日报》，1936年5月25日）。这暗示了它的功效是跨越国界的。二战后，最受欢迎的卡通人物米奇老鼠还成为万金油广告的主角。在某种程度上，这不仅反映了新加坡40年代的次文化，也显示出胡文虎对时代潮流的敏锐。
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/tigerbalm/fai_di_sek.jpg" style="width:70%;">
 资料来源：《新国民日报》，1923年5月1日，第16版。</div>
 
@@ -73,7 +74,7 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. <i>All rights reserved, S
 这则广告不仅强调八卦丹能促进夫妻间的感情，还强调其价格廉宜，能解决男女口臭的根本问题（《新国民日报》，1923年9月15日）。在之后的广告中，八卦丹还成了解决离婚案的“圣药”（《叻报》，1923年11月1日）。广告中表示这些夫妻关系间的障碍，归根结底皆是由口臭所造成的，因此只要服用八卦丹，问题就能迎刃而解。演变到后来，此一好消息就连动物界（老鼠）也知晓（《总汇新报》，1924年10月11日）。这类似动物寓言的情节，甚至比迪斯尼更早出现，不得不佩服胡文虎天马行空的想象力。八卦丹的传奇也延伸至其他人际关系以及各行各业：因为口臭不仅拦阻了夫妻间的感情，也阻碍了个人事业的发展，而八卦丹能解决口臭问题，因此继而能促进商业和生意兴隆（《叻报》，1923年12月28日）。这其实也在暗示着八卦丹等于幸福美满的人生，是造福人群的灵丹妙药。由此可见，其实胡文虎卖的不只是药品，而是一种生活方式和理想生活的美好愿景。
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/tigerbalm/ba_gua_dan.jpg" style="width:70%;">
 资料来源：《新国民日报》，1923年9月15日，第15版。</div>
 
@@ -118,7 +119,7 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. <i>All rights reserved, S
 以上的分析虽然只是冰山一角，然而却足以说明胡文虎善用各种现代广告语言来促销虎标药品。相比之下，同时期其他同类广告的表达方式则乏善可陈，十年如一日。例如：20、30年代，市面上曾出现一种与虎标万金油类似的西式止痛药膏——德国鹰标万安油（《总汇新报》，1933年8月16日）。
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/tigerbalm/de_guo_wan_an_you.jpg" style="width:70%;">
 资料来源：《新国民日报》，1923年5月1日，第16版</div>
 
@@ -138,13 +139,13 @@ Source: <i>The Straits Times</i>, 13 August 1946, p.3. <i>All rights reserved, S
 
 Boorman, H.L. (1968). *[Biographical dictionary of Republican China](https://eservice.nlb.gov.sg/item_holding.aspx?bid=669289)* (Vol. 2). New York: Columbia University Press. (Call no.: RCLOS 920.051 BIO)
 
-Brandel, J., & Turbeville, T. (1998). *[Tiger Balm Gardens: A Chinese billionaire’s fantasy environments](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9366974)*. Hongkong: Aw Boon Haw Foundation. (Call no.: RSING 959.57 BRA)
+Brandel, J., &amp; Turbeville, T. (1998). *[Tiger Balm Gardens: A Chinese billionaire’s fantasy environments](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9366974)*. Hongkong: Aw Boon Haw Foundation. (Call no.: RSING 959.57 BRA)
 
 Cochran, S. (2000). Marketing medicine and advertising dreams in China, 1900–1950 (pp. 62–67). In W-H, Yeh, (Ed.), *[Becoming Chinese: Passages to modernity and beyond](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9426550)*. Berkeley: University of California Press. (Call no.: R 951.05 BEC)
 
 Falk, P. (1994). <i>The consuming body</i>. London: Sage. (Not available in NLB holdings)
 
-Fernandez, W. (1992, August 9). [A-Z guide to people & things Singaporean](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920809-1.2.91.3.15). <i>The Straits Times</i>, p. 18. Retrieved from NewspaperSG. 
+Fernandez, W. (1992, August 9). [A-Z guide to people &amp; things Singaporean](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19920809-1.2.91.3.15). <i>The Straits Times</i>, p. 18. Retrieved from NewspaperSG. 
 
 Gerth, K. (2003). *[China made: Consumer culture and the creation of the nation](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12322017)*. Cambridge, MA: Harvard University Asian Center. (Call no.: RBUS 339.4709510904 GER)
 
@@ -156,7 +157,7 @@ Pope, D. (2003, June). Making sense of advertisements. <i>History matters: The U
 
 Richards, T. (1990). <i>The commodity culture of Victorian England: Advertising and spectacle, 1815–1914</i>. London: Verso. (Not available in NLB’s holdings)
 
-Stewart, L. (1992). *[Tiger Balm: Travels in Laos, Vietnam & Cambodia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6327069)*. London: Chatto & Windus. (Call no.: RSEA 959.404 STE)
+Stewart, L. (1992). *[Tiger Balm: Travels in Laos, Vietnam &amp; Cambodia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6327069)*. London: Chatto &amp; Windus. (Call no.: RSEA 959.404 STE)
 
 <i>The Singapore Free Press.</i>
 
@@ -197,7 +198,3 @@ Yeh, W. (2000). Introduction: Chinese modernity, 1900–1950. In W-H, Yeh (Ed), 
 邹红梅、王省民(2006)。〈黑白世界的斑斓 –– 20世纪 初《申报》广告表达形式分析〉。《电影评介》第21期。页 107–108。
 
 黄克武 (1988),〈从申报医药广告看民初上海的医疗文 化与社会生活,1912–1926〉。《中央研究院近代史研 究所集刊》,第17期下册。页 141–194。
-
-#### **NOTES**
-
-1. [http://www.creatingthe21stcentury.org/Intro5-Why-storytelling.html](http://www.creatingthe21stcentury.org/Intro5-Why-storytelling.html)

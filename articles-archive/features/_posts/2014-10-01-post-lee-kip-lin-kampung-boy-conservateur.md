@@ -4,9 +4,10 @@ date: 2014-10-01
 permalink: /vol-10/issue-3/oct-dec-2014/lee-kip-lin/
 image: /images/vol-10-issue-3/leekiplin/Lee_Kip_Lin.jpg
 layout: post
+variant: markdown
 ---
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin.jpg">
 Lee Kip Lin in the early 1960s. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
@@ -21,7 +22,7 @@ Born in 1925, Lee was the fourth of five children[^1] and part of a distinguishe
 Lee had a creative bent from childhood but he was no quiet and self-absorbed artist. Golf and boating, twin passions he inherited from his father, kept him outdoors and active. In fact, some of his early childhood drawings were of passing ships and boats[^3] that he observed while growing up by the sea along Singapore’s East Coast.[^4] The Lee boys were given their own row boats[^5] and the family regularly took a small launch to family gatherings at their grandaunt’s, Mrs Lee Choon Guan (famous for her charity work, lavish parties and her family connections) seaside holiday home in Changi.[^6] Even in adulthood, Lee maintained his own boat, which his architectural students often used on their after-school escapades.[^7] 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/leekiplin/boat.jpg" style="width:70%;">
 Lee Kip Lin (centre) with his brother Kip Lee (right) and a neighbour on a boat just off their family home in Amber Road, Katong, circa 1935. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
@@ -30,12 +31,12 @@ Lee came into his profession almost by accident. His academic records were poor 
 During his six-year study at Bartlett, Lee was influenced by architectural greats such as William Holford (1907–1975), a noteworthy town planner; A. E. Richardson (1880–1964), an expert in the art of architecture especially of the Renaissance period; and Hector Corfiato (1893–1963?),[^10] Richardson’s protégé who later took over as Bartlett’s Professor of Architecture. Lee had expressed regret that much of his time was spent socialising at bars rather than drinking in Europe’s architectural heritage.[^11]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/leekiplin/sketch_of_Carcasonne.jpg">
 Lee Kip Lin’s sketch of Carcasonne, France, copied from Taylor, G.‘s <i>Urban Geography</i> (1951), which shows off some of his drawing skills. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_friends.jpg">
 Lee Kip Lin (right) with friends in Paris circa 1950s. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
@@ -44,7 +45,7 @@ Lee Kip Lin (right) with friends in Paris circa 1950s. <i>Courtesy of Mrs Lee Li
 Lee returned to Singapore in October 1956, a time of political and social unrest as Malaya was actively defining its political boundaries in its bid to gain independence from Britain. With a year’s experience at the Housing Division of the London County Council under his belt, Lee started work in 1957 as an Architectural Assistant to Wee Soo Bee before joining well-known architect Seow Eu Jin in 1958. The following year, in 1959, he married Li-Ming, daughter of H. T. Ong, the first Chief Justice of Malaya. Between 1960 and 1964, Lee worked with one of Singapore’s key architects, Ng Keng Siang who was highly regarded for creating many of the country’s landmark buildings such as the Singapore Badminton Hall (1952) at Guillemard Road and the former Asia Insurance Building (1954) in Finlayson Green (now converted into the serviced apartments Ascott Raffles Place). 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_wife.jpg">
 	Lee Kip Lin and his wife, Ong Li-Ming, married in 1959. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
@@ -59,7 +60,7 @@ Lee began lecturing in architectural studies at Singapore Polytechnic in 1961, w
 Lee’s experience in teaching ran almost concurrently with his years of practice, and he frequently made himself available to his students, seeming to find mentoring more fulfilling than running an architectural firm. In 1976, he was appointed senior lecturer at the Faculty of Architecture at NUS, having left full-time practice. Students regularly visited his home to discuss projects or to just hang out with him. His camaraderie with his students was well-known because of his unassuming nature and his fatherly concern as Tse Swee Ling recalls. Tse had not only been his student but had also been recruited into Lee’s company and followed in his footsteps, lecturing at the same faculty in NUS. Not one for seeking position or limelight, Lee retired two years after he was promoted to associate professor at NUS in 1982.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin_with_students.jpg" style="width:70%;">
 Lee and his architecture students at his Binjai Park home. <i>Courtesy of Mrs Lee Li-Ming.</i></div>
 
@@ -70,7 +71,7 @@ Lee threw himself into the research and conservation of the local architecture h
 After Lee retired, he began systematically photographing, neighbourhood by neighbourhood and street by street, all the buildings that lined the roads in the city as well as landmarks in the outlying areas of the island. By this time, Lee had accumulated an extensive collection of heritage photographs, maps and postcards which he purchased over many years from antique dealers in London and other parts of the world. Lee battled ill health in his later years and passed away in 2011 after a bout of pneumonia. He was 86 years old when he died.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/leekiplin/Report_on_Empress_Place.jpg" style="width:70%;">
 Report on Empress Place by Preservation of Monuments Board, 1973. A unique typescript publication in the Lee Kip Lin collection. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
@@ -87,12 +88,12 @@ Lee purchased much of his heritage books, postcards and photographs from antiqua
 Lee’s map collection of 291 items is particularly valuable as they capture the cartographic narrative of Singapore as reflected by mapmakers over the centuries. One of the oldest maps in his collection, dated 1794[^16] and drawn by the geographer to King George III, Thomas Jefferys, shows details of the Malay Peninsula and Singapore’s surrounding islands extending to the Carimon Islands and beyond. Interestingly the map shows not only how names of Singapore’s surroundings have changed or remained the same across the centuries, but also shows this island at an awkward angle. A large channel seems to cut through Singapore with its southern portion named “Toly”. This was a common error found in the earliest maps of Singapore and its interpretation is discussed at length by scholars like Gibson-Hill.[^17]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Singapore.jpg" style="width:70%;">
 The Straits of Singapore with those of Durion, Sabon and Mandol by Thomas Jefferys, Geographer to the King. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/leekiplin/The_Straits_of_Malacca_and_Malaya.jpg" style="width:70%;">
 A navigational chart showing the Straits of Malacca and Malaya. Created by Bellin, Jacques Nicolas in 1775. <i>From the Lee Kip Lin Collection. All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009.</i></div>
 
@@ -103,30 +104,30 @@ A large number of Lee’s maps date from the 19th century right into the pre-war
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> <b>LEE KIP LIN ON STUDYING ARCHITECTURE</b>
 <br><br>
 I took architecture by accident ... my mother ... wanted me to do agriculture and she promised me that [if I] graduated, [she would] buy a piece of land somewhere...
-<br/><br/>
+<br><br>
 I considered those [as] wasteful years [studying architecture in the UK]. Truly wasteful. I mean there I was drinking away... and Lim Chong Keat [a fellow student] was busily measuring buildings and photographing them. I took the whole thing [architectural studies] as a joke...
-<br/><br/>
+<br><br>
 <span style="display:block; text-align:right;">From an interview with Lee on 26 June 1985 by Tay Kheng Soon</span>
-<br/><br/>
+<br><br>
 <b>PROFESSOR BOBBY WONG'S IMPRESSIONS OF LEE KIP LIN</b>
-<br/><br/>
+<br><br>
 I was assigned to teach with him ... and he said, “Don’t worry, it’s my first time teaching too”. I asked him, “Oh, where were you practising before that?” And he said, “Team 3.” So I was really thrown off [as] Team 3 at that time was really <i>the</i> firm. There was something very informal [about LKL] and yet at the same time, from what he said, they were fairly insightful. He came across with no airs, nothing. But someone, you know who has so much history, so much background and yet so ordinary.
-<br/><br/>
+<br><br>
 I was a young architect in a hurry to do international style of architecture. He [LKL] was someone who placed great importance in imparting to many around us the importance of the geography, the culture, the land and also the social and cultural life that came with this climate and this place. 
-<br/><br/>
+<br><br>
 <span style="display:block; text-align:right;">From an interview with Prof Bobby Wong on 6 June 2012 by Bonny Tan</span>
 <br><br>
 <b>PROFESSOR TSE SWEE LING'S IMPRESSIONS OF LEE KIP LIN</b>
-<br/><br/>
+<br><br>
 I have known him for more than 40 years, from working in Team 3 to teaching in NUS. He’s really a good boss ... whenever there was some argument, unhappiness amongst staff or whatever [in Team 3], he will always help to settle and he’s very good in human relationships. And the staff respect[ed] him.
-<br/><br/>
+<br><br>
 His book, <i>Singapore House</i>, it’s not only about the architecture. He actually took the effort to find out about the lives of the people who lived there. 
-<br/><br/>
+<br><br>
 <span style="display: block; text-align:right;">From an interview with Prof Tse Swee Ling on 6 June 2012 by Bonny Tan</span>
-<br/><br/>
+<br><br>
 The Lee Kip Lin collection can be accessed on PictureSG at http://eresources.nlb.gov.sg/pictures. The publications are located in the donor collection at Level 13, but specific titles can be searched via the online OPAC and accessed directly from Level 11 counter.
 </span>
-<br/>
+<br>
 <img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-10-issue-3/leekiplin/Bonny_Tan.jpg">
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. She has researched the Lee Kip Lin Collection over several years since it was first donated to the National Library Board. Her published work on the Baba Bibliography and the Gibson-Hill Collection amply qualify her to write on Lee’s life and his collection.</p>
 
@@ -140,11 +141,11 @@ Gibson-Hill, C.A. (1954, May). Singapore: Notes on the history of the Old Strait
 
 Lee, K.L. (1995). *[Amber sands: A boyhood memoir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7481472)*. Singapore: Federal Publications. (Call no.: RSING 920.71 LEE)
 
-Low, L.L. (Interviewer). (1984, May 29). *[Oral history interview with Lee Kip Lin](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/decabba1-115d-11e3-83d5-0050568939ad-OHC000016_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=15)* (Transcript of MP3 recording no. 000016/16/01, p. 1). Retrieved from National Archives of Singapore website.
+Low, L.L. (Interviewer). (1984, May 29). *[Oral history interview with Lee Kip Lin](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/decabba1-115d-11e3-83d5-0050568939ad-OHC000016_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* (Transcript of MP3 recording no. 000016/16/01, p. 1). Retrieved from National Archives of Singapore website.
 
 NUS Department of Architecture. (2011). *[NUS design](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13765047)* (p. 322). Singapore: Department of Architecture, School of Design and Environment, National University of Singapore. (Call no.: RSING 720.7115957 NUSDA)
 
-Lim, L., & Humphrey, N. (2005, October 26). [One mad life story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20051026-1.2.57.1). <i>Today</i>, p. 46. Retrieved from NewspaperSG.
+Lim, L., &amp; Humphrey, N. (2005, October 26). [One mad life story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20051026-1.2.57.1). <i>Today</i>, p. 46. Retrieved from NewspaperSG.
 
 National Library. (2011). *[Lee Kip Lin](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1824_2011-08-03.html)* written by Tan, Joanna Hwang Soo. Retrieved from Singapore Infopedia website.
 

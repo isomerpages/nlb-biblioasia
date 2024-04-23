@@ -4,9 +4,10 @@ date: 2015-01-01
 permalink: /vol-10/issue-4/jan-march-2015/points-of-departure/
 image: /images/vol-10-issue-4/pointsofdeparture/ChangiTriptych_1_FP2_re.jpg
 layout: post
+variant: markdown
 ---
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-4/pointsofdeparture/ChangiTriptych_1_FP2_re.jpg">
 School excursion to Changi Point from "Points of Departure" (2014). The original photograph of school boys is in black and white, captioned "Form 4B picnic at Changi date 28 Nov 1957". The artist has overlaid this image onto a more recent shot of Changi Point, © <i>Juria Toramae. All rights reserved.</i>
 </div>
@@ -28,7 +29,7 @@ This painstaking process ultimately led to a photographic series called “Tempo
 With Jerome exploring text and sound as artefacts of memory, we wove together forgotten tales, personal experiences, soundscapes and oral history interviews, forming new narratives in the process. In this way, we began mapping memories on a much larger scale by creating a body of work that includes a series of photographs, stories and installations to be showcased through an exhibition and a publication. 
 
 <div style="background-color: white;padding-bottom:10px;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-4/pointsofdeparture/The_Harbour.jpg">
 “The Harbour” from “Temporality” (2013). The junk is constructed from a number of images from black-and-white archival photographs dating from the mid-1970s, which were taken at The New Harbour (present-day Keppel Harbour). It was inspired by Margaret Leong's poem “The Junk”. © <i>Juria Toramae. All rights reserved.</i> 
 </div>
@@ -61,7 +62,7 @@ Through this collaboration, we hope to create a meaningful connection with and b
 
 
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #FDF5E6">“Points of Departure” – an exhibition of photographs, stones and installation art works – brings together the forgotten and the unfamiliar in the hope of making the past less foreign. The exhibition will take place between April and June 2015 at National Library Building and is part of Singapore’s 50th National Day celebrations. Find out more at: <a href="http://www.pointsofdeparture.sg">http://www.pointsofdeparture.sg</a> or <a href="https://www.facebook.com/PointsOfDepartureSG">https://www.facebook.com/PointsOfDepartureSG</a>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #FDF5E6">“Points of Departure” – an exhibition of photographs, stones and installation art works – brings together the forgotten and the unfamiliar in the hope of making the past less foreign. The exhibition will take place between April and June 2015 at National Library Building and is part of Singapore’s 50th National Day celebrations. Find out more at: <a href="https://www.facebook.com/PointsOfDepartureSG">https://www.facebook.com/PointsOfDepartureSG</a>
 <br><br>This project was supported by the Singapore Memory Project (SMP) irememberSG Fund that aims to encourage organisations and individuals to develop content and initiatives that will collect, interpret, contextualise and showcase Singapore memories. The fund has currently stopped accepting applications. For more information, go to: <a href="https://www.iremember.sg/index.php/fund-intro/">https://www.iremember.sg/index.php/fund-intro/</a></div>
 
 <p style="font-size:15px;"><b>Juria Toramae</b> is a Singapore-based artist and engineer. Her photographic series “Temporality” debuted at Noise Singapore's The Apprenticeship Programme exhibition in 2013. She is an irememberSG fund recipient for her collaborative project titled “Points of Departure”.</p>

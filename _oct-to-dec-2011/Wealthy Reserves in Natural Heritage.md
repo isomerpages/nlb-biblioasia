@@ -4,6 +4,7 @@ permalink: /vol-7/issue-3/oct-dec-2011/natural-heritage-wealthy-reserves/
 description: Senior Librarian Sara Pek shares more about “A Decade of
   Biodiversity Conservation and Discoveries in Singapore”, an exhibition marking
   Singapore’s commitment to biodiversity conservation.
+variant: markdown
 ---
 #### Senior Librarian Sara Pek shares  about “A Decade of Biodiversity Conservation and Discoveries in Singapore”, an exhibition marking Singapore’s commitment to biodiversity conservation.
 
@@ -60,7 +61,7 @@ The unrelenting and persevering efforts of our nature enthusiasts and their adve
 
 #### **FURTHER READING**
 
-The National Parks Board also launched a new one-stop integrated portal on plants and animals in Singapore – Flora &amp; Fauna Web at [http://florafaunaweb.nparks.gov.sg](http://florafaunaweb.nparks.gov.sg). The portal allows searching and provides information on more than 2,500 plant and 1,000 animal species in Singapore.
+The National Parks Board also launched a new one-stop integrated portal on plants and animals in Singapore – Flora &amp; Fauna Web at [https://www.nparks.gov.sg/florafaunaweb](https://www.nparks.gov.sg/florafaunaweb). The portal allows searching and provides information on more than 2,500 plant and 1,000 animal species in Singapore.
 
 Ng, P.K.L., &amp; Corlett, R.T. &amp; Tan, H.T.W. (Eds.). (2011). [_Singapore biodiversity: An encyclopedia of the natural environment and sustainable development_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14100943). Singapore: Editions Didier Millet in association with the Raffles Museum of Biodiversity Research. (Call no.: RSING 333.95095957 SIN)
 

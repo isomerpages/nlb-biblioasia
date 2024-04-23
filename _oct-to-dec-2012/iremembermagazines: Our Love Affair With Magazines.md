@@ -5,6 +5,7 @@ description: In this digital age, the love for print magazines still thrives as
   a reading format to delight readers who browse, borrow, or even buy copies of
   their own. Magazines appeal to readers through visuals and text, offering many
   hours of reading pleasure.
+variant: markdown
 ---
 #### In this digital age, print magazines still thrive as a reading format, delighting readers who browse, borrow or even buy copies of their own. Magazines appeal to readers through visuals and text, offering many hours of reading pleasure
 
@@ -35,7 +36,7 @@ Published in 1959, Malay magazine *Pelita* was a platform for literary and artis
 
 Subsequent displays will highlight other themes such as beauty; style and fashion; popular culture; leisure and living; and the arts.
 
-The magazines on display in the four official languages are truly gems of Singapore’s heritage, carefully preserved over the years. Do take this rare opportunity to view and enjoy this exhibition. Readers who have fond recollections of their favourite magazines can also contribute their memories to the Singapore Memory Portal at <a href="http://www.singaporememory.sg">http://www.singaporememory.sg</a>. 
+The magazines on display in the four official languages are truly gems of Singapore’s heritage, carefully preserved over the years. Do take this rare opportunity to view and enjoy this exhibition. Readers who have fond recollections of their favourite magazines can also contribute their memories to the Singapore Memory Portal at <a href="https://www.singaporememories.gov.sg/">https://www.singaporememories.gov.sg/</a>. 
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>Legal Deposit</b> is a national library function practised in many countries to preserve a nation’s published heritage for posterity. This statutory obligation is currently mandated under the National Library Board Act – Chapter 197 No. 5 of 1995 at Part II, Section 10. It requires all publishers (individuals and organisations, commercial and non-commercial) to deposit two copies of publications that are produced and released in Singapore for sale or public distribution. Through Legal Deposit, Singapore-published materials in all formats are collected from the past, present to the future. More information is available at <a href="https://www.nlb.gov.sg/depositapp/">https://www.nlb.gov.sg/depositapp/</a>. 
 </div>

@@ -5,6 +5,7 @@ description: Founded in 1887, the Methodist Girls’ School (MGS) is among the
   oldest and most established schools in Singapore. Barbara Quek, a former MGS
   student, shares with us the history of the school and memories that left a
   deep imprint on many who passed through its doors.
+variant: markdown
 ---
 #### Founded in 1887, the Methodist Girls’ School (MGS) is among the oldest and most established schools in Singapore. Barbara Quek, a former MGS student, shares with us the history of the school and memories that left a deep imprint on many who passed through its doors.
 
@@ -16,8 +17,7 @@ Memory is a way<br> of holding onto the<br> things you love,<br> the things you 
 
 It was a sentimental Sunday on 3 June 2012 when MGS and the Alumnae Association jointly held an Open House Day and Remembrance Ceremony to bid a final farewell to their former school site at 11 Mount Sophia.
 
-The occasion was a bittersweet homecoming experience for the hundreds of old girls and their families who congregated in the packed hall at the basement area of the former Ellice Handy Building. Since the relocation of MGS in 1992 to 11 Blackmore Drive, succeeding occupants of 11 Sophia included churches and other schools before it was leased to Old School <a href="http://www.oldschool.sg">
-(http://www.oldschool.sg/)</a> in 2007. This unprecedented gathering of the MGS family was prompted by the expiration of the lease for Old School at the end of June 2012. It marked the closing of a chapter in history as the site made way for redevelopment plans under the 2008 Master Plan of the Urban Redevelopment Authority (URA).
+The occasion was a bittersweet homecoming experience for the hundreds of old girls and their families who congregated in the packed hall at the basement area of the former Ellice Handy Building. Since the relocation of MGS in 1992 to 11 Blackmore Drive, succeeding occupants of 11 Sophia included churches and other schools before it was leased to Old School in 2007. This unprecedented gathering of the MGS family was prompted by the expiration of the lease for Old School at the end of June 2012. It marked the closing of a chapter in history as the site made way for redevelopment plans under the 2008 Master Plan of the Urban Redevelopment Authority (URA).
 
 
 #### **Remembering Roots**

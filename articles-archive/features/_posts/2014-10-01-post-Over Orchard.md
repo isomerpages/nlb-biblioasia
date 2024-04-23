@@ -264,7 +264,7 @@ Yeoh, B., &amp; Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view 
 
 #### **NOTES**
 
-[^1]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5b8d5ce-1160-11e3-83d5-0050568939ad-OHC003058_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=1)* [Transcript of MP3 recording no. 003058/07/02, pp. 31–64]. Retrieved from National Archives of Singapore.
+[^1]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5b8d5ce-1160-11e3-83d5-0050568939ad-OHC003058_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no. 003058/07/02, pp. 31–64]. Retrieved from National Archives of Singapore.
 
 [^2]: Tan, J. (1982, July 10). [Demolishers catch up with police station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820710-1.2.69). <i>The Straits Times</i>, p. 12. Retrieved from NewspaperSG.
 
@@ -282,7 +282,7 @@ Yeoh, B., &amp; Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view 
 
 [^9]: Edwards, n., &amp; Keys, P. (1988). *[Singapore: A guide to buildings, street, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 220). Singapore: Times Books International. (Call no.: RSING 915.957 EDW)
 
-[^10]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=34)* [Transcript of MP3 recording no. 003058/07/01, pp. 1–30]. Retrieved from National Archives of Singapore
+[^10]: Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=34)* [Transcript of MP3 recording no. 003058/07/01, pp. 1–30]. Retrieved from National Archives of Singapore
 
 [^11]: Ang, A. (1990, February 17). [Heeren Building has to make way for road project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900217-1.2.32.2.2). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
@@ -300,7 +300,7 @@ Yeoh, B., &amp; Wong, T. (2007). *[Over Singapore: 50 years ago: An aerial view 
 
 [^18]: [Cold storage depot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19050406-1.2.35.2). (1905, April 6). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-[^19]: *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=34)*, 9 Jun 2006.
+[^19]: *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5abd7ab-1160-11e3-83d5-0050568939ad-OHC003058_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=34)*, 9 Jun 2006.
 
 [^20]: [Cold storage plans to move out to Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821126-1.2.180.1). (1982, November 26). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
