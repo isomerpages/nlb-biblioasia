@@ -100,3 +100,13 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 [^3]: Anglo Chinese School Ipoh, _Anglo Chinese School Ipoh Centenary_ (Ipoh: ACS Ipoh, 1995), 67.  
 
 [^4]: Stella Kon, oral history interview by Michelle Low, 9 August 2006, MP3 audio, Reel/Disc 22 of 36, National Archives of Singapore ([accession no. 002996](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002996)), 2:36–39.
+
+[^5]: Stella Kon, oral history interview, 9 August 2006, Reel/Disc 22 of 36, 3:03–16.
+
+[^6]: Stella Kon, oral history interview, 9 August 2006, Reel/Disc 22 of 36, 4:11–21.&nbsp;
+
+[^7]: Stella Kon, “Fact and Fiction in the Play,“ in [_Emily of Emerald Hill: A One-Woman Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114) (Singapore: Stella Kon Pte Ltd, 2017), 60–61. (From National Library, Singapore, call no. RSING S822 KON)
+
+[^8]: Correspondence with Stella Kon, 3 December 2023.
+
+[^9]: Stella Kon, [_Portrait of A Nonya: A Monodrama_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), unpublished manuscript, 1980, 16. (From National Library, Singapore, call no. RCLOS S822 KON)
