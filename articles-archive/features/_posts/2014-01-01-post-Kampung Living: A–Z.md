@@ -84,11 +84,11 @@ It was easy to identify the marble king of a district as he usually strutted aro
 
 One of most exhilarating <i>kampung</i> games, <i>hantam</i> (or <i>hentam</i>) bola or <i>rembat bola</i> (whack ball) is a fiercely competitive and physical game. Speed and power reign supreme; players from one team will chase and hit their opponents with a tennis ball as one player described, “I was very good at <i>hantam bola</i> in my younger days, catch tennis ball with left hand and whack anyone in front with the right hand.” 
 
-If unlucky, the ball would <i>kena</i> (hit) your face or head (followed by “<i>tao pio ah</i>” or “hit lottery”, a euphemism for being doused on the head with bird poop). Playing <i>hantam bola</i> in the rain would send one rolling into muddy puddles but the fun would end immediately when your mother saw your dirty state; she would <i>hantam</i> (whack) you instead![^25]<sup>,</sup> [^26]
+If unlucky, the ball would <i>kena</i> (hit) your face or head (followed by “<i>tao pio ah</i>” or “hit lottery”, a euphemism for being doused on the head with bird poop). Playing <i>hantam bola</i> in the rain would send one rolling into muddy puddles but the fun would end immediately when your mother saw your dirty state; she would <i>hantam</i> (whack) you instead![^25]<sup>,</sup> 
 
 #### **Itinerant Hawkers: Unlicensed Taste**
 
-Street food vendors used to travel from <i>kampung</i> to <i>kampung</i> peddling their signature delicacies. An expectant crowd would gather in anticipation of the tantalising food, such as ice balls, <i>char kway teow</i> (noodles) and satay.[^27] Unfortunately, the “dirt-cheap” hawker food was often dirt-riddled too.[^28] In the 1960s, in a move to improve food hygiene, food peddlers were relocated to centralised hawker centres.[^29]
+Street food vendors used to travel from <i>kampung</i> to <i>kampung</i> peddling their signature delicacies. An expectant crowd would gather in anticipation of the tantalising food, such as ice balls, <i>char kway teow</i> (noodles) and satay.[^26] Unfortunately, the “dirt-cheap” hawker food was often dirt-riddled too.[^27] In the 1960s, in a move to improve food hygiene, food peddlers were relocated to centralised hawker centres.[^28]
 
 <div style="background-color: white;">
 <br>
@@ -116,9 +116,9 @@ The <i>pasang</i> would have to run to the tin and bring it back and shout “I 
 
 #### **Mosquito Buses: Uncontrolled Breeding**
 
-The mosquito bus (1920s–1950s) was a form of public transport that appeared about every half hour. The unregulated growth of these buses invited many complaints, particularly about their horn-happy drivers: “[they made] day and night hideous with their incessant horn-blowing (I could, for instance, recognise from my bed no. 425 by his “signature tune” as he went up or down Bukit Timah road.) In those days, it was common for buses to tootle away, while standing at the end of <i>lorongs</i> in Geylang road, in order to inform potential travellers that they were waiting.”[^30]
+The mosquito bus (1920s–1950s) was a form of public transport that appeared about every half hour. The unregulated growth of these buses invited many complaints, particularly about their horn-happy drivers: “[they made] day and night hideous with their incessant horn-blowing (I could, for instance, recognise from my bed no. 425 by his “signature tune” as he went up or down Bukit Timah road.) In those days, it was common for buses to tootle away, while standing at the end of <i>lorongs</i> in Geylang road, in order to inform potential travellers that they were waiting.”[^29]
 
-For all that ruckus, the mosquito buses could only take six seating passengers and one standing. Little wonder that when bigger motorcars appeared, these buses lost their buzz. By the 1950s, they were allowed to ply only in rural areas and the outer fringes of the city.[^31]
+For all that ruckus, the mosquito buses could only take six seating passengers and one standing. Little wonder that when bigger motorcars appeared, these buses lost their buzz. By the 1950s, they were allowed to ply only in rural areas and the outer fringes of the city.[^30]
 
 <div style="background-color: white;">
 <br>
@@ -131,11 +131,11 @@ Today, when a housewife in the midst of cooking realises she has no salt in her 
 
 #### **Open-air Cinemas = Open Skies Treatment**
 
-Children who lived in rural areas were able to enjoy movies thanks to open-air cinemas. It cost 50 cents to secure a (wooden) seat. Many children caught reruns after school and when it rained, people would huddle to the side for shelter. One movie-goer remembered “patronising the cheap open air cinema called Peking Theatre located opposite the present Macpherson market... [movies were only] 5 cents but [one had] to endure the mosquitoes and there were no refunds if the show was cancelled due to heavy rain or power failure.”[^32]
+Children who lived in rural areas were able to enjoy movies thanks to open-air cinemas. It cost 50 cents to secure a (wooden) seat. Many children caught reruns after school and when it rained, people would huddle to the side for shelter. One movie-goer remembered “patronising the cheap open air cinema called Peking Theatre located opposite the present Macpherson market... [movies were only] 5 cents but [one had] to endure the mosquitoes and there were no refunds if the show was cancelled due to heavy rain or power failure.”[^31]
 
 #### **Police and Thief**
 
-This game of catch comprises two teams: police who chase and the thieves who flee. A spot would be designated as a prison (to hold “arrested” thieves), usually the trunk of a coconut tree. Thieves would not only be busy running from the police, but also freeing their imprisoned mates by infiltrating the prison and tapping them, though this was not always possible: “The captured thieves would be sitting near the tree waiting for some daring thief to tag them ... the tree was tightly guarded ... creating an impenetrable fortress ... even think Alcatraz [was not] this tough.”[^33]
+This game of catch comprises two teams: police who chase and the thieves who flee. A spot would be designated as a prison (to hold “arrested” thieves), usually the trunk of a coconut tree. Thieves would not only be busy running from the police, but also freeing their imprisoned mates by infiltrating the prison and tapping them, though this was not always possible: “The captured thieves would be sitting near the tree waiting for some daring thief to tag them ... the tree was tightly guarded ... creating an impenetrable fortress ... even think Alcatraz [was not] this tough.”[^32]
 
 #### **Queuing at Standpipes**
 
@@ -148,35 +148,35 @@ Women washing laundry at a common standpipe, circa 1960s. <i>Courtesy of Nationa
 
 #### **Rempah and Singapore's Own Spice Girls**
 
-Before there were powdered spices and packaged spice mixes, women used to make their <i>rempah</i> (spice paste) from scratch. They would prepare ingredients such as shallots, lemongrass, garlic and chilli and mix them with dry spices such as coriander seeds, cumin, and cloves. All these would be crushed by stoneware crushers (see “S”) until the ingredients melded into a <i>rempah</i> ready for the frying pan. <i>Rempah</i> is considered the heart and soul of Malay, Eurasian and Peranakan curries and sauces.[^34]
+Before there were powdered spices and packaged spice mixes, women used to make their <i>rempah</i> (spice paste) from scratch. They would prepare ingredients such as shallots, lemongrass, garlic and chilli and mix them with dry spices such as coriander seeds, cumin, and cloves. All these would be crushed by stoneware crushers (see “S”) until the ingredients melded into a <i>rempah</i> ready for the frying pan. <i>Rempah</i> is considered the heart and soul of Malay, Eurasian and Peranakan curries and sauces.[^33]
 
 <i>Rempah</i> was freshly made daily and, in the days before home refrigeration, only what was needed was prepared. Such were the standards that went into the making of fish curries, <i>asam pedas</i> (a sour fish curry with pineapple chunks) and spicy <i>sambal</i> concoctions. For ladies whose fingers were too delicate for the hard work, hired hands were always available for about $1.50 a month. In particular, the Kadayanallur Muslim women, who migrated from Tamil Nadu in India, made this their signature trade, making daily home deliveries from house to house carrying baskets of ground spices on their heads. Some of them also sold fresh spice pastes at the wet market, which they ground with a granite rolling pin and a slab.
 
 #### **Stoneware Sisters: Batu Giling and Batu Tumbuk**
 
-Before blenders and food processors, stoneware ruled the kitchen and came in a few shapes and sizes. One was a bolster-shaped roller that crushed all kinds of spices on a rectangular slab called <i>batu giling</i> by the Malays. The <i>batu giling</i>’s immovable bulk earned it a fixed place in the kitchen, and perhaps also contributed to its earlier demise than the more portable pestle and mortar, called <i>batu lesung</i> or <i>batu tumbuk</i>. The <i>batu lesung</i> is still used in many Singapore kitchens and traditionalists still swear by the shrimp paste and chilli condiment called <i>sambal belacan</i> it makes. This implement is preferred over its electrical counterparts as it “pulverises by crushing hard ingredients into tiny fragments between two hard surfaces.” It is best for coaxing the fragrant oils from hard spices such as peppercorns, cinnamon bark, cardamom, sesame seeds or coriander, “producing flavours superior to bottled or electric-ground spices.”[^35]
+Before blenders and food processors, stoneware ruled the kitchen and came in a few shapes and sizes. One was a bolster-shaped roller that crushed all kinds of spices on a rectangular slab called <i>batu giling</i> by the Malays. The <i>batu giling</i>’s immovable bulk earned it a fixed place in the kitchen, and perhaps also contributed to its earlier demise than the more portable pestle and mortar, called <i>batu lesung</i> or <i>batu tumbuk</i>. The <i>batu lesung</i> is still used in many Singapore kitchens and traditionalists still swear by the shrimp paste and chilli condiment called <i>sambal belacan</i> it makes. This implement is preferred over its electrical counterparts as it “pulverises by crushing hard ingredients into tiny fragments between two hard surfaces.” It is best for coaxing the fragrant oils from hard spices such as peppercorns, cinnamon bark, cardamom, sesame seeds or coriander, “producing flavours superior to bottled or electric-ground spices.”[^34]
 
 #### **Tarik Upih: The Green F1 Race**
 
-The game starts with a child sitting on an <i>upih</i> (dried palm leaf) which is then dragged by his friend with as much speed as he can muster. The team that crosses the finishing line with the “passenger” <i>still</i> on top of the <i>upih</i> wins. Girls, or the leaner ones, almost always enjoyed “priority seating” because it did not pay to have a heavyset player sit on the <i>upih</i> if the team wanted to win. The steeper the slope, the bigger the thrill and the trickier it was to remain on the <i>upih</i>.[^36]
+The game starts with a child sitting on an <i>upih</i> (dried palm leaf) which is then dragged by his friend with as much speed as he can muster. The team that crosses the finishing line with the “passenger” <i>still</i> on top of the <i>upih</i> wins. Girls, or the leaner ones, almost always enjoyed “priority seating” because it did not pay to have a heavyset player sit on the <i>upih</i> if the team wanted to win. The steeper the slope, the bigger the thrill and the trickier it was to remain on the <i>upih</i>.[^35]
 
 #### **Use-first-pay-later: 555 Notebook**
 
-The “555” notebook — with literally these numbers printed on the front cover — was used by businesses to keep a record of customers’ tabs. It was a system built on trust: “When you go [to the provision store], you buy provisions from them... you can just take [items], there’s a little book and then they will write your name, block, your address and all this... And then, [at the] end of the month they will tell you how much you owe them.”[^37] This handy little notebook also went round the <i>kopitiam</i> and <i>warungs</i> (coffeeshops) taking unpaid orders. At the end of the month however, the “owner would wave the 555 notebook; [a reminder] that the bills had not been settled.” [^38]
+The “555” notebook — with literally these numbers printed on the front cover — was used by businesses to keep a record of customers’ tabs. It was a system built on trust: “When you go [to the provision store], you buy provisions from them... you can just take [items], there’s a little book and then they will write your name, block, your address and all this... And then, [at the] end of the month they will tell you how much you owe them.”[^36] This handy little notebook also went round the <i>kopitiam</i> and <i>warungs</i> (coffeeshops) taking unpaid orders. At the end of the month however, the “owner would wave the 555 notebook; [a reminder] that the bills had not been settled.” [^37]
 
 Another debt-reminder that was less pleasant than your sundry shop-owner was the <i>chettiar</i>, or Indian money-lender. Life usually turned bleak after taking a loan from them as come rain or shine, the <i>chettiar</i> would never fail to show up at your doorstep to demand his dues.
 
 #### **Vanishing Trades: The Bhai of Yesteryears**
 
-Several professions were synonymous with men who migrated from India to earn a living in Singapore. For example, the <i>bhai serbat</i> came to Singapore from Uttar Pradesh after the war and dominated the coffeeshop business. Others became laundrymen, security guards or sold <i>chapati</i> (unleavened flatbread).[^39] 
+Several professions were synonymous with men who migrated from India to earn a living in Singapore. For example, the <i>bhai serbat</i> came to Singapore from Uttar Pradesh after the war and dominated the coffeeshop business. Others became laundrymen, security guards or sold <i>chapati</i> (unleavened flatbread).[^38] 
 
-Dhobies were laundrymen who eventually had a street named in their honour. In 2005, a <i>dhoby</i> shop, which had retained its “tossing and slapping” washing method, was found still running on St George Road. The owner of the shop, Mr Suppiah, came to Singapore in 1945 as a starry-eyed 15-year-old with big dreams. Life was hard back then as he used to hand-wash up to 500 articles of clothing a day, toiling from eight in the morning to 10 at night.[^40]
+Dhobies were laundrymen who eventually had a street named in their honour. In 2005, a <i>dhoby</i> shop, which had retained its “tossing and slapping” washing method, was found still running on St George Road. The owner of the shop, Mr Suppiah, came to Singapore in 1945 as a starry-eyed 15-year-old with big dreams. Life was hard back then as he used to hand-wash up to 500 articles of clothing a day, toiling from eight in the morning to 10 at night.[^39]
 
-The <i>sarabat</i> (original) stallholder or <i>bhai serbat</i>’s signature takeaway was <i>teh sarabat</i> (ginger tea) or <i>teh tarik</i> (pulled tea). The most famous <i>sarabat</i> stalls were those along Waterloo Street opposite the old St Joseph Institution’s football field.[^41] Another was at Kerbau Road near Serangoon where at a tender age of 12 in the 1960s, Mr Balbeer Singh was already juggling and pulling tea.[^42] In the laid-back atmosphere of the <i>sarabat</i> stall, Singaporeans from all walks of life met and swapped stories. Even politics was not too grand for the <i>sarabat</i> stall. Kutty Mydeen of the Naval Base Labour Union recalled making an appointment to see lawyer Lee Kuan Yew about the formation of a new political party in the 1950s. Their pre-PAP roundtable talk was just one of the conversations that took place in a <i>sarabat</i> stall one fine morning on Market Street.[^43]
+The <i>sarabat</i> (original) stallholder or <i>bhai serbat</i>’s signature takeaway was <i>teh sarabat</i> (ginger tea) or <i>teh tarik</i> (pulled tea). The most famous <i>sarabat</i> stalls were those along Waterloo Street opposite the old St Joseph Institution’s football field.[^40] Another was at Kerbau Road near Serangoon where at a tender age of 12 in the 1960s, Mr Balbeer Singh was already juggling and pulling tea.[^41] In the laid-back atmosphere of the <i>sarabat</i> stall, Singaporeans from all walks of life met and swapped stories. Even politics was not too grand for the <i>sarabat</i> stall. Kutty Mydeen of the Naval Base Labour Union recalled making an appointment to see lawyer Lee Kuan Yew about the formation of a new political party in the 1950s. Their pre-PAP roundtable talk was just one of the conversations that took place in a <i>sarabat</i> stall one fine morning on Market Street.[^42]
 
-Cattlemen and milkmen were mostly Tamils from South India. Serangoon was a cattle-rearing area in Singapore before the activity was banned in 1936. <i>The Singapore Free Press</i> observed “a herd of 40 or 50 cattle which completely blocked the public thoroughfare [in Victoria Street]. Some of the animals were grazing along the street; others were lying in the centre of the road while the herder, an old Kling man, was comfortably taking a nap on the ground under the shadow of the close hedge of a compound.”[^44]
+Cattlemen and milkmen were mostly Tamils from South India. Serangoon was a cattle-rearing area in Singapore before the activity was banned in 1936. <i>The Singapore Free Press</i> observed “a herd of 40 or 50 cattle which completely blocked the public thoroughfare [in Victoria Street]. Some of the animals were grazing along the street; others were lying in the centre of the road while the herder, an old Kling man, was comfortably taking a nap on the ground under the shadow of the close hedge of a compound.”[^43]
 
-In the 1930s, the area between Cross Street and New Bridge Road was known as Kampong Susu (milk <i>kampung</i>) and the place lived up to its name from the many Indian milk sellers “identified by a tiny top knot of hair”.[^45] These Indian milkmen (or <i>bhai jual susu</i> to the Malays) ran door-to-door delivering fresh milk. Sometimes, the cow was milked on the spot: “[The milkmen came] with a cow and people [would] just buy the adulterated or diluted sort of thing. So fresh milk was really fresh...”[^46]
+In the 1930s, the area between Cross Street and New Bridge Road was known as Kampong Susu (milk <i>kampung</i>) and the place lived up to its name from the many Indian milk sellers “identified by a tiny top knot of hair”.[^44] These Indian milkmen (or <i>bhai jual susu</i> to the Malays) ran door-to-door delivering fresh milk. Sometimes, the cow was milked on the spot: “[The milkmen came] with a cow and people [would] just buy the adulterated or diluted sort of thing. So fresh milk was really fresh...”[^45]
 
 <div style="background-color: white;">
 <br>
@@ -189,19 +189,19 @@ This slim rectangular wooden block was a dirt-crusher that all housewives swore 
 
 #### **"Xtreme" Disasters: Floods and Fires**
 
-<i>Kampungs</i> were subject to frequent flooding that occurred during heavy rainfall. The flood waters often dragged objects in their wake and, once, the residents of Lorong Kinchir were astounded to spot a crocodile in the Kallang River near their <i>kampung</i> after a huge flood – apparently an inmate that had managed to escape from the Lorong Chuan farm.[^47]
+<i>Kampungs</i> were subject to frequent flooding that occurred during heavy rainfall. The flood waters often dragged objects in their wake and, once, the residents of Lorong Kinchir were astounded to spot a crocodile in the Kallang River near their <i>kampung</i> after a huge flood – apparently an inmate that had managed to escape from the Lorong Chuan farm.[^46]
 
-<i>Kampungs</i> were also vulnerable to fires due to their wooden and <i>attap</i> structures. The Bukit Ho Swee fire of 1961 is one that is etched in the nation’s consciousness. The famous 19th-century Malay writer Munsyi Abdullah was living in Kampong Glam when it was gutted by a fire in 1847, robbing him of his valuables and letters. The incident so affected the writer that he was moved to pen his now-famous poem “Syair Kampung Glam Terbakar” (Kampong Gelam On Fire) that was published in the same year.[^48]
+<i>Kampungs</i> were also vulnerable to fires due to their wooden and <i>attap</i> structures. The Bukit Ho Swee fire of 1961 is one that is etched in the nation’s consciousness. The famous 19th-century Malay writer Munsyi Abdullah was living in Kampong Glam when it was gutted by a fire in 1847, robbing him of his valuables and letters. The incident so affected the writer that he was moved to pen his now-famous poem “Syair Kampung Glam Terbakar” (Kampong Gelam On Fire) that was published in the same year.[^47]
 
 #### **Yeh Yeh (Zero-point)**
 
-<i>Yeh yeh</i> requires a rope that is made by stringing rubber bands together. The aim is to jump over the rope as it is hoisted higher and higher by two other players each holding one end of the rope. At the start of the game, the rope is laid flat on the ground with players exclaiming “zero-point” as they jump over. Players then jump across at increasingly “varying heights beginning with the ankle and ending with the head. To compete further, an ‘inch’ above the head is added. The rule of thumb is no part of [your] body can touch the rubber rope. Once any part of [the] body accidentally touch[es] the rope, the jumper <i>‘mati’</i> (‘dies’) and the next person has to jump.”[^49]
+<i>Yeh yeh</i> requires a rope that is made by stringing rubber bands together. The aim is to jump over the rope as it is hoisted higher and higher by two other players each holding one end of the rope. At the start of the game, the rope is laid flat on the ground with players exclaiming “zero-point” as they jump over. Players then jump across at increasingly “varying heights beginning with the ankle and ending with the head. To compete further, an ‘inch’ above the head is added. The rule of thumb is no part of [your] body can touch the rubber rope. Once any part of [the] body accidentally touch[es] the rope, the jumper <i>‘mati’</i> (‘dies’) and the next person has to jump.”[^48]
 
 #### **Zero-watt Nights: Sleeping with the Enemy**
 
-Electricity only reached the <i>kampungs</i> in 1961.[^50] Before this, residents lit up their nights with kerosene lamps. The absence of electricity in retrospect actually forced people to interact more: “There was no radio or television; and certainly no internet or online gaming to keep one away from others. After dark, the most one could do was to read a book by the glow of a kerosene lamp...”[^51]
+Electricity only reached the <i>kampungs</i> in 1961.[^49] Before this, residents lit up their nights with kerosene lamps. The absence of electricity in retrospect actually forced people to interact more: “There was no radio or television; and certainly no internet or online gaming to keep one away from others. After dark, the most one could do was to read a book by the glow of a kerosene lamp...”[^50]
 
-However, many unfortunate villagers became victims of fires as a result of accidentally overturning these oil lamps. One such incident was reported in <i>The Straits Times</i> in 1959, where “[a fire] roared through a <i>kampung</i> about 50 yards from the Alexandra road fire station at 1.35 a.m. and destroyed 30 huts housing about 150 people.”[^52] To stem the hazard, the government introduced the 1963 <i>kampung</i> electricity scheme which promised that all villages would be provided with electricity by 1966.[^53]
+However, many unfortunate villagers became victims of fires as a result of accidentally overturning these oil lamps. One such incident was reported in <i>The Straits Times</i> in 1959, where “[a fire] roared through a <i>kampung</i> about 50 yards from the Alexandra road fire station at 1.35 a.m. and destroyed 30 huts housing about 150 people.”[^51] To stem the hazard, the government introduced the 1963 <i>kampung</i> electricity scheme which promised that all villages would be provided with electricity by 1966.[^52]
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>OH BEY SOM!</b>
@@ -273,8 +273,6 @@ Irahhajerah. (2011, May 1). <i>Ingat tak mainan canggih kita zaman kanak-kanak d
 Lam, C.S. (2006, October 28). My friend Adrian Chua remembers his childhood days. <i>Good Morning Yesterday</i>. Retrieved from Goodmorningyesterday.blogspot.sg website.
 
 Lee, A. (1985, October 13). [From kampong girl to a flat-dweller](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851013-1.2.65.31.7). <i>The Straits Times</i>, p. 36. Retrieved from NewspaperSG.
-
-Leong, S. (2008–2013). Hantam bola. Retrieved from [http://www.singsupplies.com/showthread.php?152987-Hantam-bola](http://www.singsupplies.com/showthread.php?152987-Hantam-bola)
 
 [Lights for all the kampongs by early 1966](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650723-1.2.30). (1965, July 23). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
@@ -373,60 +371,58 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^24]: [Oral history interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ea1e5211-115d-11e3-83d5-0050568939ad-OHC000447_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), 15 Feb 1985, p. 562.
 
-[^25]: Leong, S. (2008–2013). Hantam bola. Retrieved from [http://www.singsupplies.com/showthread.php?152987-Hantam-bola](http://www.singsupplies.com/showthread.php?152987-Hantam-bola)
+[^25]: <i>Tengok tu macam tak ada pape</i>. (2012, October 16). Retrieved from Facebook.com website. 
 
-[^26]: <i>Tengok tu macam tak ada pape</i>. (2012, October 16). Retrieved from Facebook.com website. 
+[^26]: Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mabel Martens](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
 
-[^27]: Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mabel Martens](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
+[^27]: [An upcountry tourist in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491231-1.2.95.1). (1949, December 31). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-[^28]: [An upcountry tourist in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491231-1.2.95.1). (1949, December 31). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+[^28]: Feng, Y. (2008, August 9).  [Makan mash-up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080809-1.2.214.19). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
-[^29]: Feng, Y. (2008, August 9).  [Makan mash-up](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080809-1.2.214.19). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
+[^29]: Farrer, R.J. (1951, November 4). [The bygone mosquito buses: Honking horrors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511104-1.2.22). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
-[^30]: Farrer, R.J. (1951, November 4). [The bygone mosquito buses: Honking horrors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19511104-1.2.22). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+[^30]: [The Chinese bus companies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500606-1.2.80). (1950, June 6). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
 
-[^31]: [The Chinese bus companies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500606-1.2.80). (1950, June 6). <i>The Straits Times</i>, p. 6. Retrieved from NewspaperSG.
+[^31]: Lam, C.S. (2006, October 28). My friend Adrian Chua remembers his childhood days. <i>Good Morning Yesterday</i>. Retrieved from Goodmorningyesterday.blogspot.sg website.
 
-[^32]: Lam, C.S. (2006, October 28). My friend Adrian Chua remembers his childhood days. <i>Good Morning Yesterday</i>. Retrieved from Goodmorningyesterday.blogspot.sg website.
+[^32]: Nor-Afidah Abd Rahman. (2012, June 1). Then and now: Games children play. <i>iremembersg</i>. Retrieved from iremember.sg website.
 
-[^33]: Nor-Afidah Abd Rahman. (2012, June 1). Then and now: Games children play. <i>iremembersg</i>. Retrieved from iremember.sg website.
+[^33]: Tan, S., &amp; Tay, M. (2003). <i>World food: Malaysia &amp; Singapore</i> (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
 
-[^34]: Tan, S., &amp; Tay, M. (2003). <i>World food: Malaysia &amp; Singapore</i> (p. 51). Australia: Lonely Planet. (Not available in NLB holdings)
+[^34]: Tan, L.L. (1983, February 19). [Use that mortar and pestle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830219-1.2.138.5.1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
-[^35]: Tan, L.L. (1983, February 19). [Use that mortar and pestle](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830219-1.2.138.5.1). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
+[^35]: Irahhajerah. (2011, May 1). <i>Ingat tak mainan canggih kita zaman kanak-kanak dulu harga dia 20 sen jer?</i> Retrieved from irahhajerah.blogspot.sg website.
 
-[^36]: Irahhajerah. (2011, May 1). <i>Ingat tak mainan canggih kita zaman kanak-kanak dulu harga dia 20 sen jer?</i> Retrieved from irahhajerah.blogspot.sg website.
+[^36]: Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
 
-[^37]: Tan, C.H. (Interviewer). (2007, April 26). *[Oral history interview with Bryan Richmond](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/274c2a12-1161-11e3-83d5-0050568939ad-OHC003155_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=27)* [Transcript of MP3 recording no. 003155/03/01, p. 23]. Retrieved from National Archives of Singapore website.
+[^37]: Soo, E.J. (2010, August 23). Is the old 555 notebook or the new iPad better. <i>AsiaOne</i>. Retrieve from AsiaOne website. 
 
-[^38]: Soo, E.J. (2010, August 23). Is the old 555 notebook or the new iPad better. <i>AsiaOne</i>. Retrieve from AsiaOne website. 
+[^38]: Aref A. Ghouse. (1999, November 19). [‘Bai serbat’ balik kampong](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19991119-1.2.16.5). <i>Berita Harian</i>, p. 11. Retrieved from NewspaperSG.
 
-[^39]: Aref A. Ghouse. (1999, November 19). [‘Bai serbat’ balik kampong](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19991119-1.2.16.5). <i>Berita Harian</i>, p. 11. Retrieved from NewspaperSG.
+[^39]: Suppiah, P. (2005, January 20). [A clean break? Not yet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050120-1.2.33.9). <i>Today</i>, p. 30. Retrieved from NewspaperSG.
 
-[^40]: Suppiah, P. (2005, January 20). [A clean break? Not yet](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20050120-1.2.33.9). <i>Today</i>, p. 30. Retrieved from NewspaperSG.
+[^40]: Seetoh, K. (2013, May 28). <i>The karipap princess</i>. Retrieved from Makanation website. 
 
-[^41]: Seetoh, K. (2013, May 28). <i>The karipap princess</i>. Retrieved from Makanation website. 
+[^41]: [Teh tarik dan jambatan bawa nostalgia masa silam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19900609-1.2.24.9). (1990, June 9). <i>Berita Harian</i>, p. 10. Retrieved from NewspaperSG.
 
-[^42]: [Teh tarik dan jambatan bawa nostalgia masa silam](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian19900609-1.2.24.9). (1990, June 9). <i>Berita Harian</i>, p. 10. Retrieved from NewspaperSG.
+[^42]: Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
 
-[^43]: Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
+[^43]: [Local](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500809-1.2.5). (1850, August 9). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 4. Retrieved from NewspaperSG.
 
-[^44]: [Local](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500809-1.2.5). (1850, August 9). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 4. Retrieved from NewspaperSG.
+[^44]: [Singapore place names and their meanings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340319-1.2.76). (1934, March 19). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 8. Retrieved from NewspaperSG.
 
-[^45]: [Singapore place names and their meanings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340319-1.2.76). (1934, March 19). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 8. Retrieved from NewspaperSG.
+[^45]: Oral interviews. National Archives of Singapore.
 
-[^46]: Oral interviews. National Archives of Singapore.
+[^46]: Chun, 31 Aug 2008. 
 
-[^47]: Chun, 31 Aug 2008. 
+[^47]: Syair Kampung Gelam Terbakar. <i>Melayu Online</i>. Retrieved from Melayu Online website. 
 
-[^48]: Syair Kampung Gelam Terbakar. <i>Melayu Online</i>. Retrieved from Melayu Online website. 
+[^48]: Ye Ye Orh…sajer, 16 Apr 2009. 
 
-[^49]: Ye Ye Orh…sajer, 16 Apr 2009. 
+[^49]: [Electricity supplies for several kampongs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19611009-1.2.82). (1961, October 9). The <i>Singapore Free Press</i>, p. 13. Retrieved from NewspaperSG.
 
-[^50]: [Electricity supplies for several kampongs](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19611009-1.2.82). (1961, October 9). The <i>Singapore Free Press</i>, p. 13. Retrieved from NewspaperSG.
+[^50]: [From huts to high rises](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20071202-1.2.34.3). (2007, December 2). <i>The Straits Times</i>, p. 30. Retrieved from NewspaperSG.
 
-[^51]: [From huts to high rises](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20071202-1.2.34.3). (2007, December 2). <i>The Straits Times</i>, p. 30. Retrieved from NewspaperSG.
+[^51]: [150 homeless in big kampong blaze](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590722-1.2.7). (1959, July 22). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
-[^52]: [150 homeless in big kampong blaze](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590722-1.2.7). (1959, July 22). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
-
-[^53]: [Lights for all the kampongs by early 1966](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650723-1.2.30). (1965, July 23). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
+[^52]: [Lights for all the kampongs by early 1966](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650723-1.2.30). (1965, July 23). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
