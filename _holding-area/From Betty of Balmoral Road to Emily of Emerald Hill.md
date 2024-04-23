@@ -110,3 +110,17 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 [^8]: Correspondence with Stella Kon, 3 December 2023.
 
 [^9]: Stella Kon, [_Portrait of A Nonya: A Monodrama_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), unpublished manuscript, 1980, 16. (From National Library, Singapore, call no. RCLOS S822 KON)
+
+[^10]: Correspondence with Stella Kon, 18 March 2024.
+
+[^11]: Correspondence with Stella Kon, 18 March 2024.
+
+[^12]: Kon, [_Portrait of A Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 3.
+
+[^13]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114)_,_ 3.
+
+[^14]: Kon, [_Portrait of A Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 7.
+
+[^15]: William Luce, _The Belle of Amherst_ (Boston: Houghton Mifflin Company, 1978), 2.
+
+[^16]: Kon, [_Portrait of a Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 8; 17.
