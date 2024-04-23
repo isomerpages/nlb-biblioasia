@@ -5,7 +5,6 @@ variant: markdown
 description: A study of early drafts of Emily of Emerald Hill reveals
   fascinating choices and paths not taken.
 ---
-
 #### A study of early drafts of Emily of Emerald Hill reveals fascinating choices and paths not taken.
 By Eriko Ogihara-Schuck
 
@@ -138,3 +137,48 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 
 [^22]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114), 29–30.
 
+[^23]: Correspondence with Stella Kon, 20 March 2024.
+
+[^24]: Correspondence with Chin San Sooi, 5 December 2023; “Director’s Chair,” Stella Kon’s Emily of Emerald Hill, https://emilyemerald.tripod.com/directorsays.htm.
+
+[^25]: Correspondence with Ong Su-Ming, 13 November 2023.
+
+[^26]: Correspondence with Chin San Sooi, 5 December 2023. A few years after staging Kon’s _A Breeding Pair in 1974_, Chin impressed the Germany Embassy in Malaysia by successfully staging German playwright Bertolt Brecht’s _The Caucasian Chalk Circle_ in an innovatively minimalist style, using only 10 actors instead of the original 50. In _Lady White_, the very first play Chin wrote and directed in 1976, he creatively turned the audience into a fellow actor by making an actor approach someone in the audience to read his fortune. His _Refugees:_ _Images_, a critique of the Malaysian government’s treatment of refugees, completed in 1980, was meant to become the first Malaysian musical although it was banned from being performed for two decades.
+
+[^27]: Correspondence with Chin San Sooi, 5 December 2023. The premiere was done in an ad hoc manner, with a temporary stage and electricity drawn from the main office for lighting and air conditioning.
+
+[^28]: J.C. Forou, “A Story Told, a Cultural Sub-Type Vitalised,” _New Straits Times_, 2 December 1984.
+
+[^29]: Forou, “A Story Told, a Cultural Sub-Type Vitalised.”
+
+[^30]: “A Woman of Many Faces,” _Asiaweek_, 21–28 December 1984, 33.
+
+[^31]: Correspondence with Max Le Blond, 28 December 2023; Correspondence with Margaret Chan, 5 January 2024.
+
+[^32]: Correspondence with Margaret Chan, 5 January 2024.
+
+[^33]: Rebecca Chua, “[Tears and Smiles Greet Emily](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850906-1.2.83.30.3),” _Straits Times_, 6 September 1985, 21. (From NewsaperSG)
+
+[^34]: Forou, “A Story Told, Cultural Sub-Type Vitalised.”
+
+[^35]: Ong Kian Ming, “Preserving Our Cultural Diversity for Posterity,” _New Straits Times_, 21 October 2002, 10.
+
+[^36]: “Pearlly’s Emily Turns 100,” _Malay Mail_, 10 October 2002, 29.
+
+[^37]: As at July 2005, _Emily of Emerald_ was recorded as the longest-running play in Southeast Asia. See Noor Husna Khalid, “Chua to Reprise Emily Role for 114th Time,” _Malay Mail_, 6 June 2005, 10.&nbsp;
+
+[^38]: “Enough of Emily,” _Malay Mail_, 18 October 2002, 28.
+
+[^39]: Correspondence with Chin San Sooi, 27 December 2023.
+
+[^40]: Tan Gim Ean, “‘Monologues’ Sees 3 Interpretations of ‘Emily of Emerald Hill’ and 17 Key Characters from Shakespeare,” _Options_, 8 July 2019, https://www.optionstheedge.com/topic/culture/monologues-sees-3-interpretations-emily-emerald-hill-and-17-key-characters-shakespeare.
+
+[^41]: Correspondence with Chin San Sooi, 27 December 2023. 
+
+[^42]: “A Moment Please, San Sooi…,” _New Sunday Times_, 1 December 2002, 10.
+
+[^43]: “Emily of Emerald Hill to Be Restaged,” _Malay Mail_, 30 November 1998, 1.
+
+[^44]: Correspondence with Chin San Sooi, 15 July 2023.
+
+[^45]: Correspondence with Woo Yee Saik, 13 March 2024.
