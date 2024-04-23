@@ -17,6 +17,9 @@ While all this would suggest that the 90-minute monodrama is very well known, th
 
 In an early version of the play, Kon also had a very different motivation in mind for a key moment, a moment that would cause Emily’s world to collapse. However, she decided to rewrite that scene to avoid being too clichéd. Perhaps more importantly, Kon also added another event into the play to allow Emily to redeem herself in the eyes of the audience, a scene that did not exist in an early draft.
 
+![](/images/Vol%2020%20Issue%202/Emily/img5.png)
+<div style="background-color:white;"> Stella Kon, the author of <i>Emily of Emerald Hill</i>. <i>Photo by Desmond Moey. Courtesy of Stella Kon.</i></div>
+
 And while very much a Singaporean story – Emily Gan is, after all, a Peranakan matriarch living in the Peranakan enclave of Emerald Hill in Singapore – the play also owes much to Singapore’s northern neighbour. Like many Singaporeans, Emily has many links with Malaysia: playwright Stella Kon was living in Ipoh when she began writing the play, and indeed, Emily first debuted in Malaysia.
 
 ![](/images/Vol%2020%20Issue%202/Emily/img3.png)
