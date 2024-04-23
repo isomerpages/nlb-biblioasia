@@ -92,3 +92,11 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 <b>Dr Eriko Ogihara-Schuck</b>, originally from Japan, is a lecturer in American Studies at Technische Universität Dortmund, Germany. She is the author of <i>Miyazaki’s Animism Abroad: The Reception of Japanese Religious Themes by American and German Audiences (McFarland, 2014)</i>. </div>
 
 #### **Notes**
+
+[^1]: Corrie Tan, “Classic Singapore Plays #3 - Emily of Emerald Hill”, Straits Times, 26 August 2014, https://www.straitstimes.com/lifestyle/entertainment/classic-singapore-plays-3-emily-of-emerald-hill.
+
+[^2]: Correspondence with [Stella Kon](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d6fc85de-85fd-44df-8392-37739955f594), 19 November 2023; Nureza Ahmad, “Stella Kon”, in _Singapore Infopedia_. National Library Board Singapore. Article published 2018. Kon started writing plays while still in school. At age eight, she wrote her first play, _The Fisherman and the King_, while at Raffles Girls’ School (RGS), which was later staged at the school. At age 12, her second play, _The Tragedy of Lo Mee Oh and Tzu Lee_ At, a parody of _Romeo and Juliet_, was again performed in RGS. Kon is a descendant of Lim Boon Keng and Tan Tock Seng, who were her paternal great-grandfather and maternal great-great-grandfather respectively.
+
+[^3]: Anglo Chinese School Ipoh, _Anglo Chinese School Ipoh Centenary_ (Ipoh: ACS Ipoh, 1995), 67.  
+
+[^4]: Stella Kon, oral history interview by Michelle Low, 9 August 2006, MP3 audio, Reel/Disc 22 of 36, National Archives of Singapore ([accession no. 002996](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002996)), 2:36–39.
