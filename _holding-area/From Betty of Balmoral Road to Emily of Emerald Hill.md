@@ -19,6 +19,9 @@ In an early version of the play, Kon also had a very different motivation in min
 
 And while very much a Singaporean story – Emily Gan is, after all, a Peranakan matriarch living in the Peranakan enclave of Emerald Hill in Singapore – the play also owes much to Singapore’s northern neighbour. Like many Singaporeans, Emily has many links with Malaysia: playwright Stella Kon was living in Ipoh when she began writing the play, and indeed, Emily first debuted in Malaysia.
 
+![](/images/Vol%2020%20Issue%202/Emily/img3.png)
+<div style="background-color:white;"> <i>Emily of Emerald Hill</i> is set in a traditional Peranakan mansion based on Oberon at 117 Emerald Hill Road, home of Stella Kon’s grandparents Seow Poh Leng and Polly Tan, c. 1930s –40s. The boy is one of the grandsons. <i>Courtesy of Dr Patricia Lin.</i></div>
+
 The first ever performance of the play took place in 1984 in Seremban, Negri Sembilan. That production by the Five Arts Centre was directed by Malaysian teacher, theatre director and playwright Chin San Sooi with Leow Puay Tin as the first Emily.[^1] The play became so beloved across the Causeway that Pearlly Chua, who first began performing as Emily in 1990, has done so hundreds of times over the last three decades.
 
 #### **Beginnings in Ipoh**
