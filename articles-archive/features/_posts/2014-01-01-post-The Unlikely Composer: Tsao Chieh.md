@@ -5,12 +5,12 @@ permalink: /vol-9/issue-4/jan-march-2014/tsao-chieh-singapore-composer/
 image: /images/vol-9-issue-4/tsaochieh/tsaochieh.jpg
 layout: post
 description: ""
+variant: markdown
 ---
-
 #### Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works. **Jun Zubillaga-Pow** traces the life of this underrated artist.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/tsaochieh/tsaochieh.jpg">
 Tsao Chieh working on a composition in 1986. <i>Courtesy of Vivien Chen.</i></div>
 
@@ -63,7 +63,7 @@ Aligned with his preference for classical forms, the five movements are based on
 Upon his return to Singapore, Tsao Chieh offered the composition to the Singapore Symphony Orchestra (SSO), which had premiered the music of Singaporean composers, such as Leong Yoon Pin, Bernard Tan and Phoon Yew Tien. The Singapore Festival of Arts in 1986 was fixed as an occasion for the premiere and the orchestra went about preparing the music; conductor Choo Hoey remarked that more musicians had to be engaged as a result of the composer’s large-scale orchestration. In addition to the usual array of orchestral instruments, Tsao Chieh requested for an alto flute, a bass clarinet, a double bassoon and a very large percussion section of six timpani, four tom-toms, chimes, vibraphone, piano harp and a water-gong. In accounting for his programming of the work, Choo Hoey quipped, “He’s young, up-and-coming and should be heard.”[^5]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/tsaochieh/mita_collection.jpg" style="width:70%;">
 The student orchestra performing at the official opening of the 1986 Singapore Arts Festival at Kent Ridge. Tsao Chieh’s <i>Singapore</i> premiered on this occasion. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -81,13 +81,13 @@ This characteristic of being “minimalist” can be readily discerned in Tsao C
 
 In late 1990, his work <i>Amidst the sough of winds..., Two Poems by Edwin Thumboo for Narrator and Large Orchestra</i> was performed by the Singapore Symphony Orchestra on two December evenings. Preceding Max Bruch’s <i>First Symphony</i> and Peter Tchaikovsky’s <i>First Piano Concerto</i>, Choo Hoey conducted the premiere at the Victoria Concert Hall with the poet as narrator. In 1986, Tsao Chieh had expressed his intention to compose “a piece for narrator and orchestra based on the poetry of some local poets”, but he was unsure which poem would suit his aesthetics.[^16] Eventually, he found two relevant pieces from the literary anthology <i>The Poetry of Singapore</i>, which was published by the ASEAN Committee on Culture and Information, and fit the text to his music. He contemplated including a chorus, but was advised against the idea by the visiting British composer Alexander Goehr.
 
-<div style="background-color: white; padding-bottom:20px;" >
-<br/>
+<div style="background-color: white; padding-bottom:20px;">
+<br>
 <img src="/images/vol-9-issue-4/tsaochieh/tone_raw.jpg">Tone rows for <i>Amidst the Sough of Winds. Courtesy of Vivien Chen.</i></div>
 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/tsaochieh/mita_collection_2.jpg" style="width:70%;">Several of Tsao Chieh’s pieces were performed by Singapore Symphonic Orchestra performing at the Victoria Concert Hall under the baton of Choo Hoey. <i>MITA collection, courtesy of National Archives of Singapore</i>.</div>
 
 #### **Computer Music**
@@ -107,7 +107,7 @@ Sadly, on 27 October 1996, Tsao Chieh passed away from liver cancer just two mon
 Despite his varied body of work, Tsao Chieh had always lamented that composers remained at the mercy of others. He said, “Of all the different artists, it is quite terrible to be a composer, because your dream has to be realised by other people.”
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/tsaochieh/tsaochieh_2.jpg">Photograph of Tsao Chieh taken in 1990. Source: <i>The Straits Times © Singapore Press Holdings Limited. Reproduced with permission.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
@@ -166,7 +166,7 @@ Phang, M.Y. (1994, March 23). [Music notes](http://eresources.nlb.gov.sg/newspap
 
 Sasitharan, T. (1989, January 9). [Local composers merit patronage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890109-1.2.61.9.1).  <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-Sng, S. (Interviewer). (2006, March 28). *[Oral history interview with Tan Kim Swee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/a/afdec841-1160-11e3-83d5-0050568939ad-OHC002992_027/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=26)* (Transcript of MP3 recording no. 002992/34/27, pp. 713–738). Retrieved from National Archives of Singapore website. 
+Sng, S. (Interviewer). (2006, March 28). *[Oral history interview with Tan Kim Swee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/a/afdec841-1160-11e3-83d5-0050568939ad-OHC002992_027/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* (Transcript of MP3 recording no. 002992/34/27, pp. 713–738). Retrieved from National Archives of Singapore website. 
 
 Stanford University. (1985, April 24). <i>Campus report</i>. Retrieved from Stanford University website. 
 
@@ -200,11 +200,11 @@ Yap, M. (1988, February 23). [SAF chief tells of challenges](http://eresources.n
 
 [^11]: Yap, M. (1988, February 23). [SAF chief tells of challenges](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880223-1.2.24.27). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
-[^12]: Sng, S. (Interviewer). (2006, March 28). *[Oral history interview with Tan Kim Swee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/a/afdec841-1160-11e3-83d5-0050568939ad-OHC002992_027/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=26)* (Transcript of MP3 recording no. 002992/34/27, pp. 713–738). Retrieved from National Archives of Singapore website. 
+[^12]: Sng, S. (Interviewer). (2006, March 28). *[Oral history interview with Tan Kim Swee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/a/afdec841-1160-11e3-83d5-0050568939ad-OHC002992_027/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=26)* (Transcript of MP3 recording no. 002992/34/27, pp. 713–738). Retrieved from National Archives of Singapore website. 
 
 [^13]: Lim, H.F. (1988, March 19). [A young pianist’s Sunday treat and a composer’s static work](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880319-1.2.77.45.6). <i>The Straits Times</i>, p. 39. Retrieved in NewspaperSG.
 
-[^14]: *[Oral history interview with Tan Kim Swee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/a/afdec841-1160-11e3-83d5-0050568939ad-OHC002992_027/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=26)*, 28 Mar 2006.
+[^14]: *[Oral history interview with Tan Kim Swee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/a/afdec841-1160-11e3-83d5-0050568939ad-OHC002992_027/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=26)*, 28 Mar 2006.
 
 [^15]: Sasitharan, T. (1989, January 9). [Local composers merit patronage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890109-1.2.61.9.1). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
