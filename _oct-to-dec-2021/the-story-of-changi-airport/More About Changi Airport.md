@@ -5,6 +5,7 @@ third_nav_title: The Story Of Changi Airport
 description: Built at a cost of $1.5 billion, Changi Airport was the largest
   public project in Singapore when it was completed in 1981. Learn more about
   Changi Airport through these photos from the National Archives of Singapore.
+variant: markdown
 ---
 #### Built at a cost of $1.5 billion, Changi Airport was the largest public project in Singapore when it was completed in 1981. Learn more about Changi Airport through these photos from the National Archives of Singapore.
 
@@ -73,7 +74,7 @@ The design of the iconic 78-metre tall control tower came from a competition hel
 
 The video below shows the radome (the dome-like structure on top of the control tower) and the radar equipment inside it being replaced in 2015.
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/Bjng3mcRUYY" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/Bjng3mcRUYY" frameborder="0" allowfullscreen=""></iframe></div>
 <i>Courtesy of Civil Aviation Authority of Singapore</i>
 
 #### **Further Resources from the National Library and National Archives of Singapore**
@@ -81,7 +82,7 @@ Beyond photos, the National Archives and the National Library have a wealth of o
 
 The transcripts of speeches by key players provide a valuable glimpse into the decision-making process behind the setting up of Changi Airport. In a speech at the airport’s official opening in December 1981, Defence Minister Howe Yoon Chong [explained](https://www.nas.gov.sg/archivesonline/speeches/record-details/70f84311-115d-11e3-83d5-0050568939ad) why the government decided to build the  airport in Changi rather than expand Paya Lebar. At a dinner to celebrate the 25th anniversary of the airport in 2006, Minister Mentor Lee Kuan Yew [recalled](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad) the process from his perspective.
 
-Oral history interviews are another important source of information. In a 1987 interview, former president Ong Teng Cheong [explained](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/06155340-115e-11e3-83d5-0050568939ad) how they were able to switch over from Paya Lebar to Changi overnight. (Ong had been the Communications Minister between 1978 and 1983.) And in an interview in 2001, Bernard Chen Tien Lap, a retired politician who had been a former civil servant in the  Ministry of Finance, [revealed](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/08b14275-115f-11e3-83d5-0050568939ad-OHC002530_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5) that the Finance Ministry had argued for Paya Lebar while the Communications Ministry pushed for Changi.
+Oral history interviews are another important source of information. In a 1987 interview, former president Ong Teng Cheong [explained](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/06155340-115e-11e3-83d5-0050568939ad) how they were able to switch over from Paya Lebar to Changi overnight. (Ong had been the Communications Minister between 1978 and 1983.) And in an interview in 2001, Bernard Chen Tien Lap, a retired politician who had been a former civil servant in the  Ministry of Finance, [revealed](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/08b14275-115f-11e3-83d5-0050568939ad-OHC002530_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) that the Finance Ministry had argued for Paya Lebar while the Communications Ministry pushed for Changi.
 
 On the shelves of the National Library, you can find books such as [<i>Wings Over Singapore: The Story of Singapore Changi Airport</i>](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4080278), which was published for the Department of Civil Aviation at the Ministry of Communications in 1981, and [<i>T2ansformation: The New Changi Airport Terminal 2</i>](http://eservice.nlb.gov.sg/item_holding.aspx?bid=12830267), which was published by the Civil Aviation Authority of Singapore in 2006. The latter focuses on the redevelopment of Changi’s Terminal 2.
 
@@ -95,7 +96,7 @@ The National Archives also has interesting video footage such as “[The Changi 
 
 
 #### **NOTES**
-[^1]: “[Crowds Flock to Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810603-1.2.28),” <i>New Nation</i>, 3 June 1981, 6; “[250,000 Have Visited Airport So Far](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810616-1.2.50.4),” <i>Straits Times</i>, 16 June 1981, 10 (From NewspaperSG); Department of Statistics Singapore, <i>Population Trends 2020</i> (Department of Statistics, Ministry of Trade & Industry, 2020), 37. 
+[^1]: “[Crowds Flock to Airport](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19810603-1.2.28),” <i>New Nation</i>, 3 June 1981, 6; “[250,000 Have Visited Airport So Far](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810616-1.2.50.4),” <i>Straits Times</i>, 16 June 1981, 10 (From NewspaperSG); Department of Statistics Singapore, <i>Population Trends 2020</i> (Department of Statistics, Ministry of Trade &amp; Industry, 2020), 37. 
 
 [^2]: Lee Kuan Yew, “[Speech by Mr Lee Kuan Yew, Minister Mentor, at Changi Airport 25th Anniversary Dinner, 1 July 2006, 8.00 pm at the Raffles Ballroom, Swissotel the Stamford](https://www.nas.gov.sg/archivesonline/speeches/record-details/7eb69f39-115d-11e3-83d5-0050568939ad),” Raffles Ballroom, Swissotel the Stamford, 1 July 2006, transcript. (From National Archives of Singapore, Document no. 20060701991) 
 
