@@ -24,7 +24,7 @@ On the morning of the 15th, Percival had called for a meeting in the Battlebox, 
 
 The war in Malaya had begun with troops of the Japanese 25th Army landing in Kota Bahru in northern Malaya, and Singora and Patani in southern Thailand on 8 December 1941. On the same day, Japanese planes dropped the first bombs on Singapore, killing 61 and injuring 133 people. Two months later, on 8 February 1942, the first Japanese troops landed in Singapore via the northwestern coastline of the island.[^2]
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_9.png)
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/9.png)
 <div style="background-color:white;">Japanese troops crossing the Causeway into Singapore after constructing a girder bridge over the 70-foot (21 m) gap, 1942. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 Now, after a week of intense fighting and bombardment, the battle front had been reduced to a semi-circle about three miles from Singapore’s city centre.[^3] The island had less than 24 hours’ worth of water left, and food and ammunition reserves were running desperately low.[^4] Naval power had been lost with the sinking of the HMS _Prince of Wales_ and HMS _Repulse_ off the coast of Kuantan on 10 December 1941, while Royal Air Force (RAF) planes had been outclassed by Japanese aircraft.[^5] On 9 February 1942, all RAF aircraft were withdrawn to the former Netherlands East Indies.
