@@ -244,7 +244,7 @@ Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Ab
 
 Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/6/6b80a2e1-1160-11e3-83d5-0050568939ad-OHC001461_006/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/06, p. 56]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, May 4). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c85b6cb6-115e-11e3-83d5-0050568939ad-OHC001461_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)* [Transcript of MP3 recording no. 001461/11/11, pp. 105–107]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, May 4). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c85b6cb6-115e-11e3-83d5-0050568939ad-OHC001461_011/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/11, pp. 105–107]. Retrieved from National Archives of Singapore website.
 
 Tang, K.F. (1988, March 1). [Top artistes relax to get their ideas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890301.2.6.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
