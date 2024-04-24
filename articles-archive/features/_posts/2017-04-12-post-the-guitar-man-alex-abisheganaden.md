@@ -4,6 +4,7 @@ date: 2017-04-12
 permalink: /vol-13/issue-1/apr-jun-2017/guitar-man/
 image: /images/Vol-13-issue-1/the-guitar-man/01_guitarman.jpg
 layout: post
+variant: markdown
 ---
 #### Hailed as the “Father of the Guitar”, Alex Abisheganaden, who died on 17 March, 2023, spent the last five decades championing the classical guitar. **Joy Loh** charts his illustrious career.
 
@@ -149,7 +150,7 @@ Chang, T.L. (2007, March 23). [The guitar man](http://eresources.nlb.gov.sg/news
 
 Chang, T.L. (2007, March 27). [The sounds of joyous youth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070327-1.2.67.2.3). *The Straits Times*, p. 49. Retrieved from NewspaperSG.
 
-Chua, C.H. (Interviewer). (1993, March 9). *[Oral history interview with Paul Abisheganaden](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4141501)* [Transcript of MP3 recording no. 001415/48/01, p. 7]. Retrieved from National Archives of Singapore website.
+Chua, C.H. (Interviewer). (1993, March 9). *[Oral history interview with Paul Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2ce1caaf-115e-11e3-83d5-0050568939ad-OHC001415_001/web/html5/index.html)* [Transcript of MP3 recording no. 001415/48/01, p. 7]. Retrieved from National Archives of Singapore website.
 
 Doray, B. (1972, September 25). [Drugs: Call to set up youth service](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720925-1.2.68). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
