@@ -232,9 +232,9 @@ National University of Singapore. (2016). *NUS Guitar Ensemble*. Retrieved from 
 
 Phan, M.Y. (1996, January 20). [Welcome-welcome from the erhu, sitar and guitar](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960120-1.2.75.4.4). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
-Tan, B.L. (Interviewer). (1994, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/722241e1-1160-11e3-83d5-0050568939ad-OHC001461_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* [Transcript of MP3 recording no. 001461/11/01, pp. 3, 5–6, 9]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1994, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/722241e1-1160-11e3-83d5-0050568939ad-OHC001461_001/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/01, pp. 3, 5–6, 9]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c6b3a9c2-115e-11e3-83d5-0050568939ad-OHC001461_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=10)* [Transcript of MP3 recording no. 001461/11/02, p. 19]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c6b3a9c2-115e-11e3-83d5-0050568939ad-OHC001461_002/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/02, p. 19]. Retrieved from National Archives of Singapore website.
 
 Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/747f0063-115e-11e3-83d5-0050568939ad-OHC001461_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=1)* [Transcript of MP3 recording no. 001461/11/03, pp. 20, 22, 27]. Retrieved from National Archives of Singapore website.
 
