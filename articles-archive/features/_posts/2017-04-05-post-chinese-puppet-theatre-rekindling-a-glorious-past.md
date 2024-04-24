@@ -162,7 +162,7 @@ Chua, S.B. (Interviewer). (1988, June 6). *[Oral history interview with Lee Chye
 
 Wang, Z.C. (Interviewer). (1988, January 16). *[Oral history interview with Foo Tiang Soon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/954aa539-115f-11e3-83d5-0050568939ad-OHC000875_001/web/html5/index.html)* [Transcript of MP3 recording no. 000875/03/01, pp. 23–24, 27]. Retrieved from National Archives of Singapore website.
 
-Wang, Z.C. (Interviewer). (1987, December 15). *[Oral history interview with Long Hian Keng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4ac2ee4c-115e-11e3-83d5-0050568939ad-OHC000859_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of MP3 recording no. 000859/06/02, p. 18]. Retrieved from National Archives of Singapore website.
+Wang, Z.C. (Interviewer). (1987, December 15). *[Oral history interview with Long Hian Keng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/4ac2ee4c-115e-11e3-83d5-0050568939ad-OHC000859_002/web/html5/index.html)* [Transcript of MP3 recording no. 000859/06/02, p. 18]. Retrieved from National Archives of Singapore website.
 
 **Personal interviews**
 
