@@ -155,7 +155,7 @@ Ultimately, the decision to surrender was a unanimous one albeit, perhaps, with 
 
 On the 50th anniversary of the fall of Singapore in 1992, this writer, in an article for the _Straits Times_, posed the following question to four historians – two from the National University of Singapore, a historian from Japan and a historian from the United States: Could the British army have held on against the invading Japanese army in 1942 and turned the tide? All four were unanimous in saying that the Japanese would have eventually prevailed.”[^45]
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_11.png)
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/11.png)
 <div style="background-color:white;">The victory photo taken immediately after the surrender of Singapore to the Japanese on 15 February 1942. <i> Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 American military historian Stanley L. Falk said that there was no way the British could have held on and turned the tide: “Singapore was lost from the beginning. Given the preponderance of Japanese military strength and the fact that they could have brought in more military strength if needed, it was inevitable that Singapore would fall.”[^46]
