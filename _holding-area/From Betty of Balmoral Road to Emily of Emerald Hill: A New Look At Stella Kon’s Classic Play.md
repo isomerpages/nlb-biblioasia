@@ -14,9 +14,9 @@ Over the last four decades, few Singaporean plays have occupied the imagination 
 ![](/images/Vol%2020%20Issue%202/Emily/img1.png)
 <div style="background-color:white;">Singaporean actor Ivan Heng’s performance of the titular matriarch in <i>Emily of Emerald Hill</i> in 2019. <i>Courtesy of Wild Rice.</i></div>
 
-While all this would suggest that the 90-minute monodrama is very well known, there are numerous aspects of Emily that few people are familiar with. Who knows, for example, that Kon had, at one point, planned to title the play Betty of Balmoral Road? 
+While all this would suggest that the 90-minute monodrama is very well known, there are numerous aspects of _Emily_ that few people are familiar with. Who knows, for example, that Kon had, at one point, planned to title the play _Betty of Balmoral Road_? 
 
-In an early version of the play, Kon also had a very different motivation in mind for a key moment, a moment that would cause Emily’s world to collapse. However, she decided to rewrite that scene to avoid being too clichéd. Perhaps more importantly, Kon also added another event into the play to allow Emily to redeem herself in the eyes of the audience, a scene that did not exist in an early draft.
+In an early version of the play, Kon also had a very different motivation in mind for a key moment, one that would cause Emily’s world to collapse. However, she decided to rewrite that scene to avoid being too clichéd. Perhaps more importantly, Kon also added another event into the play to allow Emily to redeem herself in the eyes of the audience, a scene that did not exist in early drafts.
 
 ![](/images/Vol%2020%20Issue%202/Emily/img5.png)
 <div style="background-color:white;"> Stella Kon, the author of <i>Emily of Emerald Hill</i>. <i>Photo by Desmond Moey. Courtesy of Stella Kon.</i></div>
@@ -26,7 +26,7 @@ And while very much a Singaporean story – Emily Gan is, after all, a Peranakan
 ![](/images/Vol%2020%20Issue%202/Emily/img3.png)
 <div style="background-color:white;"> <i>Emily of Emerald Hill</i> is set in a traditional Peranakan mansion based on Oberon at 117 Emerald Hill Road, home of Stella Kon’s grandparents Seow Poh Leng and Polly Tan, c. 1930s –40s. The boy is one of the grandsons. <i>Courtesy of Dr Patricia Lin.</i></div>
 
-The first ever performance of the play took place in 1984 in Seremban, Negri Sembilan. That production by the Five Arts Centre was directed by Malaysian teacher, theatre director and playwright Chin San Sooi with Leow Puay Tin as the first Emily.[^1] The play became so beloved across the Causeway that Pearlly Chua, who first began performing as Emily in 1990, has done so hundreds of times over the last three decades.
+The first ever performance of the play took place in 1984 in Seremban, Negri Sembilan. That production by the Five Arts Centre was directed by Malaysian teacher, theatre director and playwright Chin San Sooi with Leow Puay Tin as the first Emily. The play became so beloved across the Causeway that Pearlly Chua, who first began performing as Emily in 1990, has done so hundreds of times over the last three decades.
 
 #### **Beginnings in Ipoh**
 
