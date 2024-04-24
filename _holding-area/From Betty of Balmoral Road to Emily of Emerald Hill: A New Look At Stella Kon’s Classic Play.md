@@ -123,47 +123,47 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 
 [^1]: Correspondence with [Stella Kon](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d6fc85de-85fd-44df-8392-37739955f594), 19 November 2023; Nureza Ahmad, “Stella Kon”, in _Singapore Infopedia_. National Library Board Singapore. Article published 2018. Kon started writing plays while still in school. At age eight, she wrote her first play, _The Fisherman and the King_, while at Raffles Girls’ School (RGS), which was later staged at the school. At age 12, her second play, _The Tragedy of Lo Mee Oh and Tzu Lee_ At, a parody of _Romeo and Juliet_, was again performed in RGS. Kon is a descendant of Lim Boon Keng and Tan Tock Seng, who were her paternal great-grandfather and maternal great-great-grandfather respectively.
 
-[^2]: Anglo Chinese School Ipoh, _Anglo Chinese School Ipoh Centenary_ (Ipoh: ACS Ipoh, 1995), 67.  
+[^2]: Stella Kon, oral history interview by Michelle Low, 9 August 2006, MP3 audio, Reel/Disc 22 of 36, National Archives of Singapore (accession no. 002996), 2:36–39.
 
-[^3]: 
+[^3]: Stella Kon, oral history interview, 9 August 2006, Reel/Disc 22 of 36, 3:03–16.
 
-[^4]: Stella Kon, oral history interview by Michelle Low, 9 August 2006, MP3 audio, Reel/Disc 22 of 36, National Archives of Singapore ([accession no. 002996](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002996)), 2:36–39.
+[^4]: Stella Kon, oral history interview, 9 August 2006, Reel/Disc 22 of 36, 4:11–21.
 
-[^5]: Stella Kon, oral history interview, 9 August 2006, Reel/Disc 22 of 36, 3:03–16.
+[^5]: Stella Kon, “Fact and Fiction in the Play,“ in [_Emily of Emerald Hill: A One-Woman Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114) (Singapore: Stella Kon Pte Ltd, 2017), 60–61. (From National Library, Singapore, call no. RSING S822 KON)
 
-[^6]: Stella Kon, oral history interview, 9 August 2006, Reel/Disc 22 of 36, 4:11–21.&nbsp;
+[^6]: Correspondence with Stella Kon, 3 December 2023.
 
-[^7]: Stella Kon, “Fact and Fiction in the Play,“ in [_Emily of Emerald Hill: A One-Woman Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114) (Singapore: Stella Kon Pte Ltd, 2017), 60–61. (From National Library, Singapore, call no. RSING S822 KON)
+[^7]: Stella Kon, [_Portrait of A Nonya: A Monodrama_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), unpublished manuscript, 1980, 16. (From National Library, Singapore, call no. RCLOS S822 KON)
 
-[^8]: Correspondence with Stella Kon, 3 December 2023.
+[^8]: Correspondence with Stella Kon, 18 March 2024.
 
-[^9]: Stella Kon, [_Portrait of A Nonya: A Monodrama_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), unpublished manuscript, 1980, 16. (From National Library, Singapore, call no. RCLOS S822 KON)
+[^9]: Correspondence with Stella Kon, 18 March 2024.
 
-[^10]: Correspondence with Stella Kon, 18 March 2024.
+[^10]:  Kon, [_Portrait of A Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 3.
 
-[^11]: Correspondence with Stella Kon, 18 March 2024.
+[^11]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114)_,_ 3.
 
-[^12]: Kon, [_Portrait of A Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 3.
+[^12]: Kon, [_Portrait of A Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 7.
 
-[^13]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114)_,_ 3.
+[^13]: Correspondence with Stella Kon, 27 March 2024.
 
-[^14]: Kon, [_Portrait of A Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 7.
+[^14]: William Luce, _The Belle of Amherst_ (Boston: Houghton Mifflin Company, 1978), 2.
 
-[^15]: William Luce, _The Belle of Amherst_ (Boston: Houghton Mifflin Company, 1978), 2.
+[^15]: Kon, [_Portrait of a Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 8; 17..
 
-[^16]: Kon, [_Portrait of a Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 8; 17.
+[^16]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114), 38–39
 
-[^17]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114), 38–39.
+[^17]: Luce, _The Belle of Amherst_, 22–24.
 
-[^18]: Luce, _The Belle of Amherst_, 22–24.
+[^18]: Stella Kon, oral history interview, 9 August 2006, Reel/Disc 22 of 36, 3:23–54.
 
-[^19]: Stella Kon, oral history interview, 9 August 2006, Reel/Disc 22 of 36, 3:23–54.
+[^19]: It was a “superb solution” on the part of William Luce to involve the audience in the play in this manner. Correspondence with Grant Hayter-Menzies, 3 April 2024. For the detailed episode about how Luce came up with this solution, see Grant Hayter-Menzies, _Staging Emily Dickinson:_ _The History and Enduring Influence of William Luce's The Belle of Amherst_. Jeffferson (NC: McFarland, 2023), 119–20.
 
-[^20]: It was a “superb solution” on the part of William Luce to involve the audience in the play in this manner. Correspondence with Grant Hayter-Menzies, 3 April 2024. For the detailed episode about how Luce came up with this solution, see Grant Hayter-Menzies, _Staging Emily Dickinson:_ _The History and Enduring Influence of William Luce's The Belle of Amherst_. Jeffferson (NC: McFarland, 2023), 119–20.
+[^20]: Kon, [_Portrait of a Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 3.
 
-[^21]: Kon, [_Portrait of a Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 3.
+[^21]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114), 3–4.
 
-[^22]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114), 29–30.
+[^22]: 
 
 [^23]: Correspondence with Stella Kon, 20 March 2024.
 
