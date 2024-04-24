@@ -65,7 +65,7 @@ Their reported silence and concurrence can perhaps be understood – within pres
 
 Among the eight, Wild is probably the most interesting. Wild, together with Percival, Newbigging and Torrance, had been members of the surrender party and were photographed walking towards the Ford Factory to meet with Lieutenant-General Tomoyuki Yamashita, commander of the Japanese 25th Army. It was Wild who carried the white flag.
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_8.png)
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/8.png)
 <div style="background-color:white;">Major Cyril Hew Dalrymple Wild testifying before the International Military Tribunal for the Far East in Tokyo. <i>Wegner, U.S. Army Signal Corps, Harry S. Truman Library &amp; Museum. </i></div>
 
 Wild acted as Percival’s interpreter for the occasion. He was fluent in Japanese having studied the language while working for the Rising Sun Petroleum Company in Yokohama in 1931, leaving only in early 1941. Wild rejoined the British army in June 1940. As Heath’s General Staff Officer, he was given the task of speaking to journalists and was on duty at operations headquarters in Kuala Lumpur on 7 December 1941 when he heard the news of Japanese ships heading towards Malaya.[^15]
