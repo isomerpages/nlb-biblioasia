@@ -240,7 +240,7 @@ Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abi
 
 Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/6/637463ee-1160-11e3-83d5-0050568939ad-OHC001461_004/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/04, pp. 34, 38–39].Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c6bbb8ef-115e-11e3-83d5-0050568939ad-OHC001461_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 001461/11/05, pp. 46, 48]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c6bbb8ef-115e-11e3-83d5-0050568939ad-OHC001461_005/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/05, pp. 46, 48]. Retrieved from National Archives of Singapore website.
 
 Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c85b6cb6-115e-11e3-83d5-0050568939ad-OHC001461_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 001461/11/06, p. 56]. Retrieved from National Archives of Singapore website.
 
