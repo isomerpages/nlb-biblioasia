@@ -1,5 +1,5 @@
 ---
-title: "A Longtime Brewing: The Story of Singapore’s Beer Industry"
+title: "A Long Time Brewing: The Story of Singapore’s Beer Industry"
 permalink: /history/2024/4/beer-brewing-production-brewery-singapore/
 variant: markdown
 description: ""
