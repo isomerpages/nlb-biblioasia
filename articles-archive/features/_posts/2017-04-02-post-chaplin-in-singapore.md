@@ -4,6 +4,7 @@ date: 2017-04-02
 permalink: /vol-13/issue-1/apr-jun-2017/chaplininsingapore/
 image: /images/Vol-13-issue-1/chaplin-in-singapore/02_charliechaplin.jpg
 layout: post
+variant: markdown
 ---
 #### One of history’s greatest comic actors, Charlie Chaplin, stops over in Singapore in 1932 and makes a return visit in 1936. **Raphaël Millet** traces these journeys.
 
@@ -175,7 +176,7 @@ On Friday 10 April, Chaplin and Goddard finally sailed from Singapore on the Fre
 
 #### **NOTES**
 
-[^1]:Chaplin, C. (2014). *A comedian sees the world* (Parts IV & V). L. S. Haven (Ed.). Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
+[^1]:Chaplin, C. (2014). *A comedian sees the world* (Parts IV &amp; V). L. S. Haven (Ed.). Columbia, Missouri: University of Missouri Press. (Not available in NLB holdings)
 
 [^2]:Chaplin, C. (2003). *Charles Chaplin: My autobiography* (Chapter 23). London: Penguin Classics. (Not available in NLB holdings)
 
@@ -239,7 +240,7 @@ On Friday 10 April, Chaplin and Goddard finally sailed from Singapore on the Fre
 
 [^32]:Chaplin, 2003, pp. 362–363.
 
-[^33]:[Charlie Chaplin may be married in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19360316-1.2.71). (1936, March 16). *The Malaya Tribune*, p. 11; [Chaplin mysterious about marriage](https://eresources.nlb.gov.sg/newspapers/Digitised/ Article/singfreepressb19360319-1.2.2.1). (1936, March 19). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG; Rumor of Chaplin wedding in Singapore. (1936, March 18). *Barrier Miner*, p. 2.Retrieved from Trove website. [Note: Although both Charles and Paulette remained extremely discreet about their wedding, it seems that they married offshore near Canton, something which Chaplin himself later acknowledged in his autobiography: “During this rip Paulette and I were married”, also adding a few pages later that they divorced six years later in June 1942 in Juarez, Mexico.]
+[^33]:[Charlie Chaplin may be married in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19360316-1.2.71). (1936, March 16). *The Malaya Tribune*, p. 11; [Chaplin mysterious about marriage](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360319-1.2.2.1). (1936, March 19). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG; Rumor of Chaplin wedding in Singapore. (1936, March 18). *Barrier Miner*, p. 2.Retrieved from Trove website. [Note: Although both Charles and Paulette remained extremely discreet about their wedding, it seems that they married offshore near Canton, something which Chaplin himself later acknowledged in his autobiography: “During this rip Paulette and I were married”, also adding a few pages later that they divorced six years later in June 1942 in Juarez, Mexico.]
 
 [^34]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360319-1.2.2.1),* 19 Mar 1936, p. 1.
 
