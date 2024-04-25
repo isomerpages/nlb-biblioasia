@@ -90,9 +90,6 @@ Singaporean director Max Le Blond said he was immediately intrigued on reading t
 Even as _Emily_ grew in cult status in Singapore, the same happened in Malaysia. In Malaysia, the play was first perceived as delving into a “relatively little known Malaysian sub-culture” (referring to Peranakan culture).[^33] But it eventually came to exemplify Malaysia’s cultural diversity,[^34] and earned “a special place in the annals of Malaysian theatre”[^35] as Malaysia’s longest-running play.[^36]
 
 By 2002, Chin had staged _Emily_ a hundred times (21 times with Leow Puay Tin) and the _Malay Mail_ cheekily called the play an “obsession” and “a sheer waste of creative talent and energy to be specialised in the creative paranoia of one play”.[^37] But Chin continued to stage it with Pearlly Chua, who has since performed the role 214 times as at December 2023.[^38] The versatile Chua has also performed the play in Mandarin which, according to her, is “more physically demanding because the language uses different sets of muscles in the mouth and throat compared with English”.[^39]  
-
-![](/images/Vol%2020%20Issue%202/Emily/img6.png)
-<div style="background-color:white;"> A programme from the 1992 production of <i>Emily of Emerald Hill</i> at the Old Town Hall in Kuala Lumpur, performed by Malaysian actress Pearlly Chua. <i> Gift of Stella Kon. Collection of the Peranakan Museum.</i></div>
  
 Their fascination with the play is, of course, a crucial reason for its longevity. Chin calls the play a “gem whose beauty is its universality”,[^40] and credits it for allowing the actor and the director to grow. “It has been a very personal development for myself. Through directing the play, I see more and more of certain things about the play, like life and values,” he said.[^41] Chua feels the same: “It’s a challenging role certainly and although I have done it many times, it is something I find I can discover something new every time I approach it.”[^42]
 
