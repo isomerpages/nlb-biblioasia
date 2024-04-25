@@ -4,10 +4,11 @@ date: 2018-01-08
 permalink: /vol-13/issue-4/jan-mar-2018/ideal-sgporean-female/
 image: /images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png
 layout: post
+variant: markdown
 ---
 #### From cooking, cleaning and becoming a good mother to outsourcing housework as careers for women took off. **Sheere Ng** charts how home economics lessons have evolved over the years.
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/w_d1IQKeguM" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/w_d1IQKeguM" frameborder="0" allowfullscreen=""></iframe></div>
 
 
 Someone once asked me, “What did you learn to cook at home economics classes?”
@@ -106,7 +107,7 @@ In the 1986 *Home Economics Today* for Secondary One students, one chapter title
 
 This was a stark difference from *New Home Economics*, a 1983 textbook that portrayed only women cleaning or cooking, completely leaving out their husbands from the responsibility of homemaking.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/ideal-singaporean-female/06_idealsgfemale.png">An illustration of a woman washing up in the kitchen in a 1983 textbook was indicative of societal norms at the time – the books seldom featured men doing housework. <i>All rights reserved, Hamidah Khalid & Siti Majhar. (Eds.). (1983). New Home Economics (Book 1) (p. 29) Singapore: Longman Singapore. (Call no.: RSING 640.7 NEW).</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/ideal-singaporean-female/06_idealsgfemale.png">An illustration of a woman washing up in the kitchen in a 1983 textbook was indicative of societal norms at the time – the books seldom featured men doing housework. <i>All rights reserved, Hamidah Khalid &amp; Siti Majhar. (Eds.). (1983). New Home Economics (Book 1) (p. 29) Singapore: Longman Singapore. (Call no.: RSING 640.7 NEW).</i></div>
 
 However, this attempt to present a fairer distribution of housework should not be seen as a sign that the government was serious in tackling gender inequality. After all, the home economics textbooks had an insignificant male audience and were unlikely to persuade many future husbands to chip in at home.
 
@@ -130,7 +131,7 @@ Another new development was the proliferation of foreign domestic workers. The g
 
 This transfer of caregiver roles from mothers to others, and the transformation from household production to consumption, rendered many homemaking instructions from the old syllabus excessive and even irrelevant for 21st-century families. Taking the cue from new consumer lifestyles, home economics was renamed Food and Consumer Education in 2014 (while still remaining a compulsory subject for boys and girls in lower secondary), with its syllabus focusing mainly on good consumer decisions and money management.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/ideal-singaporean-female/09_idealsgfemale.png">In the 1990s, home economics textbooks took into consideration busy lifestyles by offering tips on how to use modern convenience foods in home-cooked dishes and suggested dining out occasionally. <i>All rights reserved, Chong, E.S.H., et al. (1997). Home Economics Today Secondary 2 (p. 19) Singapore: Curriculum Planning & Development Division, Ministry of Education. (Call no.: RSING 640.76 HOM).</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/Vol-13-issue-4/ideal-singaporean-female/09_idealsgfemale.png">In the 1990s, home economics textbooks took into consideration busy lifestyles by offering tips on how to use modern convenience foods in home-cooked dishes and suggested dining out occasionally. <i>All rights reserved, Chong, E.S.H., et al. (1997). Home Economics Today Secondary 2 (p. 19) Singapore: Curriculum Planning &amp; Development Division, Ministry of Education. (Call no.: RSING 640.76 HOM).</i></div>
 
 I am a product of the 1997 syllabus, designed with the expectation that I could one day opt out of gender-typed work as my mother did, and outsource homemaking to processed foods, appliances or to other women with lesser means. Indeed, I never pursued cooking outside the classroom as our Filipino helper at home knew better than to add tomato ketchup to spaghetti.
 
@@ -146,11 +147,11 @@ It was only as an adult that I re-acquainted myself with the kitchen when food t
 
 #### **NOTES**
 
-[^1]:Shapiro, L. (1986). *Perfection salad: Women and cooking at the turn of the century* (pp. 26–46). New York: Farrar, Straus and Giroux. (Not available in NLB holdings); Stage, S., & Vincenti, V. B. (1997). *Rethinking home economics: Women and the history of a profession* (pp. 79–95). New York: Cornell University Press. (Not available in NLB holdings)
+[^1]:Shapiro, L. (1986). *Perfection salad: Women and cooking at the turn of the century* (pp. 26–46). New York: Farrar, Straus and Giroux. (Not available in NLB holdings); Stage, S., &amp; Vincenti, V. B. (1997). *Rethinking home economics: Women and the history of a profession* (pp. 79–95). New York: Cornell University Press. (Not available in NLB holdings)
 
-[^2]:Tan, L. (Interviewer). (1982, December 7). *[Oral history interview with Noel Evelyn Norris](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e356c0a5-115d-11e3-83d5-0050568939ad-OHC000221_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of MP3 recording no. 000221/18/16, p. 163]; Chua, C.H.J. (Interviewer). (1993, February 9). *[Oral history interview with Marie Ethel Bong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2a48e380-115e-11e3-83d5-0050568939ad-OHC001390_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* [Transcript of MP3 recording no. 001390/64/20, pp. 190–194]. Retrieved from National Archives of Singapore website.
+[^2]:Tan, L. (Interviewer). (1982, December 7). *[Oral history interview with Noel Evelyn Norris](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e356c0a5-115d-11e3-83d5-0050568939ad-OHC000221_016/web/html5/index.html)* [Transcript of MP3 recording no. 000221/18/16, p. 163]; Chua, C.H.J. (Interviewer). (1993, February 9). *[Oral history interview with Marie Ethel Bong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/22ed108a-115e-11e3-83d5-0050568939ad-OHC001390_020/web/html5/index.html)* [Transcript of MP3 recording no. 001390/64/20, pp. 190–194]. Retrieved from National Archives of Singapore website.
 
-[^3]:Chua, C.H.J. (1993, February 9). *[Oral history interview with Marie Ethel Bong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2a48e380-115e-11e3-83d5-0050568939ad-OHC001390_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* [Transcript of MP3 recording no. 001390/64/16, p. 155]. Retrieved from National Archives of Singapore website.
+[^3]:Chua, C.H.J. (1993, February 9). *[Oral history interview with Marie Ethel Bong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2a48e380-115e-11e3-83d5-0050568939ad-OHC001390_016/web/html5/index.html)* [Transcript of MP3 recording no. 001390/64/16, p. 155]. Retrieved from National Archives of Singapore website.
 
 [^4]:[Girls to learn cooking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490226-1.2.89). (1949, February 26). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
@@ -158,7 +159,7 @@ It was only as an adult that I re-acquainted myself with the kitchen when food t
 
 [^6]:Lee Kuan Yew School of Public Policy. (2016). *Foreign domestic workers in Singapore: Social and historical perspectives* (p. 4). Retrieved from Lee Kuan Yew School of Public Policy website; Kho, E.M. (2013). *[The construction of femininity in a postcolonial state: girls’ education in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200148758)* (p. 57). New York: Cambria Press. (Call no.: RSING 371.822095957 KHO)
 
-[^7]:Wong, K., & Leong, W.K. (Eds.). (1993). *[Singapore women: Three decades of change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6442564)* (p. 89) Singapore: Times Academic Press. (Call no.: RSING 305.42095957 SIN)
+[^7]:Wong, K., &amp; Leong, W.K. (Eds.). (1993). *[Singapore women: Three decades of change](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6442564)* (p. 89) Singapore: Times Academic Press. (Call no.: RSING 305.42095957 SIN)
 
 [^8]:[Kho](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200148758), 2013, pp. 58–59.
 
@@ -188,9 +189,9 @@ It was only as an adult that I re-acquainted myself with the kitchen when food t
 
 [^21]:*[Singapore Monitor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840909-1.2.23.8),* 9 Sep 1984, p. 16.
 
-[^22]:Hamidah Khalid & Siti Majhar. (Eds.). (1983). *[New home economics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614)* (Book 2) (pp. 18–27). Singapore: Longman Singapore. (Call no.: RSING 640.7 NEW); Viswalingam, P. (1987). *[Home economics today 2E](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4687810)* (pp. 3–58). Singapore: Curriculum Development Institute of Singapore. (Call no.: YR 640.76 HOM)
+[^22]:Hamidah Khalid &amp; Siti Majhar. (Eds.). (1983). *[New home economics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614)* (Book 2) (pp. 18–27). Singapore: Longman Singapore. (Call no.: RSING 640.7 NEW); Viswalingam, P. (1987). *[Home economics today 2E](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4687810)* (pp. 3–58). Singapore: Curriculum Development Institute of Singapore. (Call no.: YR 640.76 HOM)
 
-[^23]:[Hamidah & Siti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614), 1983, p. 25; National Library Board. (2014). *[National family planning campaign is launched](http://eresources.nlb.gov.sg/history/events/eea3d96d-93aa-455a-ac8a-1564d1b6d215)*. Retrieved from HistorySG.
+[^23]:[Hamidah &amp; Siti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614), 1983, p. 25; National Library Board. (2014). *[National family planning campaign is launched](http://eresources.nlb.gov.sg/history/events/eea3d96d-93aa-455a-ac8a-1564d1b6d215)*. Retrieved from HistorySG.
 
 [^24]:[Boys need to know about the home too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19841118-1.2.21.5). (1984, November 18). *Singapore Monitor*, p. 13. Retrieved from NewspaperSG.
 
@@ -210,7 +211,7 @@ It was only as an adult that I re-acquainted myself with the kitchen when food t
 
 [^32]:[Boys-, girls-only courses open to all](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960330-1.2.38.1). (1996, March 30). *The Straits Times*, p. 25. Retrieved from NewspaperSG.
 
-[^33]:Chong, E.S.-H., & Kee, M.H., et al. (1996). *[Home economics today. Secondary 1 Special/Express/Normal (Academic)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8083919)* (p. 57). Singapore: Curriculum Development Institute of Singapore. (Call no.: RSING q640.76 HOM); Chong, E.S.H., et al. (1997). *[Home economics today. Secondary 2 special/express/normal, academic](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8888488)* (pp. 16, 119, 140). Singapore: Curriculum Planning & Development, Ministry of Education. (Call no.: RSING 640.76 HOM); [Viswalingam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4687810), 1987, pp. 135–137, 199; [Hamidah & Siti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614), 1983, pp. 13, 102.
+[^33]:Chong, E.S.-H., &amp; Kee, M.H., et al. (1996). *[Home economics today. Secondary 1 Special/Express/Normal (Academic)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8083919)* (p. 57). Singapore: Curriculum Development Institute of Singapore. (Call no.: RSING q640.76 HOM); Chong, E.S.H., et al. (1997). *[Home economics today. Secondary 2 special/express/normal, academic](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8888488)* (pp. 16, 119, 140). Singapore: Curriculum Planning &amp; Development, Ministry of Education. (Call no.: RSING 640.76 HOM); [Viswalingam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4687810), 1987, pp. 135–137, 199; [Hamidah &amp; Siti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614), 1983, pp. 13, 102.
 
 [^34]:Ministry of Information and the Arts. (1995, September 6). *[Statement by Mr Abdullah Tarmugi, Acting Minister for Community Development at the Fourth United Nations World Conference on Women, Beijing, People’s Republic of China, 4-15 September 1995, delivered at the plenary session at 8.00 p.m. on 6 September 1995](http://www.nas.gov.sg/archivesonline/data/pdfdoc/at19950906s.pdf)* (p. 4). Retrieved from National Archives of Singapore website.
 
