@@ -144,7 +144,7 @@ Singapore’s wartime survivors will not be around forever, but their voices wil
 
 [^22]:Wong, M.W.W. (Interviewer). (2010, April 20). *[Oral history interview with Foong Fook Kay (Major)](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c3ca19b3-1161-11e3-83d5-0050568939ad?keywords=Foong%20Fook%20Kay&amp;keywords-type=all)* (Retired) [MP3 recording no. 003506/07/01]. Retrieved from National Archives of Singapore website 
 
-[^23]:Tan, B.L. (Interviewer). (1985, September 5). *[Oral history interview with Ismail bin Zain](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f6367b5a-115d-11e3-83d5-0050568939ad-OHC000601_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* [Transcript of MP3 recording no. 000601/05/02, p. 23]. Retrieved from National Archives of Singapore website. 
+[^23]:Tan, B.L. (Interviewer). (1985, September 5). *[Oral history interview with Ismail bin Zain](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f6367b5a-115d-11e3-83d5-0050568939ad-OHC000601_002/web/html5/index.html)* [Transcript of MP3 recording no. 000601/05/02, p. 23]. Retrieved from National Archives of Singapore website. 
 
 [^24]:Chua, J.C.H. (Interviewer). (1994, February 23). *[Oral history interview with Paul Abisheganaden @ Paul Selvaraj Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/2956b281-115e-11e3-83d5-0050568939ad-OHC001415_013/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=1)* [Transcript of MP3 recording no. 001415/48/13, pp. 166–168]. Retrieved from National Archives of Singapore website.
 
