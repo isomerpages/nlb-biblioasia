@@ -18,7 +18,7 @@ get notified when the next episode drops.</p>
 </div>
 <p></p>
 <h4><strong>Season 2</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/kueh-pie-tee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kueh Pie Tee: A Detective Story" src="/images/Podcast/Christopher_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kueh Pie Tee: A Detective Story</div><div class="isomer-card-description">Dropping on 29 April</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/kueh-pie-tee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kueh Pie Tee: A Detective Story" src="/images/Podcast/Christopher_600_400_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kueh Pie Tee: A Detective Story</div><div class="isomer-card-description">Dropping on 29 April</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/podcast/singapores-first-boxing-superstar-tan-tang-kee/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
