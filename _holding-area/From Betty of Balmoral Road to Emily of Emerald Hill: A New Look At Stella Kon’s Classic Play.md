@@ -121,7 +121,7 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 
 #### **Notes**
 
-[^1]: Correspondence with [Stella Kon](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d6fc85de-85fd-44df-8392-37739955f594), 19 November 2023; Nureza Ahmad, “Stella Kon”, in _Singapore Infopedia_. National Library Board Singapore. Article published 2018. Kon started writing plays while still in school. At age eight, she wrote her first play, _The Fisherman and the King_, while at Raffles Girls’ School (RGS), which was later staged at the school. At age 12, her second play, _The Tragedy of Lo Mee Oh and Tzu Lee_ At, a parody of _Romeo and Juliet_, was again performed in RGS. Kon is a descendant of Lim Boon Keng and Tan Tock Seng, who were her paternal great-grandfather and maternal great-great-grandfather respectively.
+[^1]: Correspondence with [Stella Kon](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d6fc85de-85fd-44df-8392-37739955f594), 19 November 2023; Nureza Ahmad, “Stella Kon”, in _Singapore Infopedia_. National Library Board Singapore. Article published 2018. Kon started writing plays while still in school. At age eight, she wrote her first play, _The Fisherman and the King_, while at Raffles Girls’ School (RGS), which was later staged at the school. At age 12, her second play, _The Tragedy of Lo Mee Oh and Tzu Lee At_, a parody of _Romeo and Juliet_, was again performed in RGS. Kon is a descendant of Lim Boon Keng and Tan Tock Seng, who were her paternal great-grandfather and maternal great-great-grandfather respectively.
 
 [^2]: Stella Kon, oral history interview by Michelle Low, 9 August 2006, MP3 audio, Reel/Disc 22 of 36, National Archives of Singapore (accession no. 002996), 2:36–39.
 
