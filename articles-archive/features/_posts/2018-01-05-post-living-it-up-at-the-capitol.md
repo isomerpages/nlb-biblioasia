@@ -185,7 +185,7 @@ When World War II ended in 1945, Shaw Organisation purchased Capitol Theatre and
 
 [^24]:Lee, L.C. (Interviewer). (1996, July 30). *[Oral history interview with Tham Cheok Fai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/4e9cebf9-115e-11e3-83d5-0050568939ad-OHC001751_019/web/html5/index.html)* [Transcript of MP3 recording no. 001751/19/19, p. 2]. Retrieved from National Archives of Singapore website; *[Oral history interview with Benjamin Khoo Beng Chuan](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/95b71b4d-1160-11e3-83d5-0050568939ad-OHC002911_006/web/html5/index.html)*, 28 Mar 2005, p. 126.
 
-[^25]:Low, M. (Interviewer). (2006, January 10). *[Oral history interview with Ronald Chandran Dudley](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d979d30f-1160-11e3-83d5-0050568939ad-OHC003012_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=23)* [Transcript of MP3 recording no. 003012/22/2, pp. 48–49]. Retrieved from National Archives of Singapore website. 
+[^25]:Low, M. (Interviewer). (2006, January 10). *[Oral history interview with Ronald Chandran Dudley](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/d979d30f-1160-11e3-83d5-0050568939ad-OHC003012_002/web/html5/index.html)* [Transcript of MP3 recording no. 003012/22/2, pp. 48–49]. Retrieved from National Archives of Singapore website. 
 
 [^26]:Chua, A. L. (Interviewer). (1997, February 26). *[Oral history interview with Hilary Vivian Hogan](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/46fafc6d-115e-11e3-83d5-0050568939ad?keywords=capitol&amp;keywords-type=all)* [MP3 recording no. 001778/33/1]. Retrieved from National Archives of Singapore website. 
 
