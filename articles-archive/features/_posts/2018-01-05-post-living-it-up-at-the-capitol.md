@@ -173,7 +173,7 @@ When World War II ended in 1945, Shaw Organisation purchased Capitol Theatre and
 
 [^18]:Chew, D. (Interviewer). (1992, December 23). *[Oral history interview with Goh Heng Chong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5d0f378-115f-11e3-83d5-0050568939ad-OHC001392_002/web/html5/index.html)* [Transcript of MP3 recording no. 001392/2/2, pp. 13–14] Retrieved from National Archives of Singapore website.
 
-[^19]:Chua, C.H.J. (Interviewer). (1998, July 21). *[Oral history interview with Hedwig Anuar Aroozo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f1cfe541-115e-11e3-83d5-0050568939ad-OHC002036_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* [Transcript of MP3 recording no. 002036/44/2, p. 24]. Retrieved from National Archives of Singapore website.
+[^19]:Chua, C.H.J. (Interviewer). (1998, July 21). *[Oral history interview with Hedwig Anuar Aroozo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/4a607c79-115e-11e3-83d5-0050568939ad-OHC001717_002/web/html5/index.html)* [Transcript of MP3 recording no. 002036/44/2, p. 24]. Retrieved from National Archives of Singapore website.
 
 [^20]:‘Shanghai Lass’. (1934, September 29). [Mickey Mouse Club](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19340929-1.2.10). *The Malaya Tribune*, p. 2. Retrieved from NewspaperSG.
 
