@@ -5,10 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Kueh Pie Tee
 ---
-<p><em>Kueh pie tee </em>is not a pie that goes with tea. So where did the
-name (and dish) come from? Award-winning cookbook author Christopher Tan
-combs through old newspapers and cookbooks, in search of the origins of
-the dish. PS: Dates back to 1570!</p>
+<p><em><a href="biblioasia.nlb.gov.sg/videos/kueh-pie-tee/" rel="noopener noreferrer nofollow" target="_blank">Kueh pie tee</a> </em>is
+not a pie that goes with tea. So where did the name (and dish) come from?
+Award-winning cookbook author Christopher Tan combs through old newspapers
+and cookbooks, in search of the origins of the dish.
+<br>PS: Dates back to 1570!</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BQRzTFvAWuk?si=LXr-M3xpiB53sKXR"></iframe>
 </div>
