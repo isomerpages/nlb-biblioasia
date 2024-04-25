@@ -140,7 +140,7 @@ Singapore’s wartime survivors will not be around forever, but their voices wil
 
 [^20]:Ong, S.F. (1997, June 21). [Compelling stories of survival](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970621-1.2.89.8.7.1). *The Straits Times*, p. 26. Retrieved from NewspaperSG.
 
-[^21]:Tan, B.L. (Interviewer). (1984, October 24). *[Oral history interview with Neoh Teik Hong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e0e8fc0f-115d-11e3-83d5-0050568939ad-OHC000107_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* [Transcript of MP3 recording no. 000107/04/01, pp. 7–8]. Retrieved from National Archives of Singapore website.
+[^21]:Tan, B.L. (Interviewer). (1984, October 24). *[Oral history interview with Neoh Teik Hong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e0e8fc0f-115d-11e3-83d5-0050568939ad-OHC000107_001/web/html5/index.html)* [Transcript of MP3 recording no. 000107/04/01, pp. 7–8]. Retrieved from National Archives of Singapore website.
 
 [^22]:Wong, M.W.W. (Interviewer). (2010, April 20). *[Oral history interview with Foong Fook Kay (Major)](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c3ca19b3-1161-11e3-83d5-0050568939ad?keywords=Foong%20Fook%20Kay&amp;keywords-type=all)* (Retired) [MP3 recording no. 003506/07/01]. Retrieved from National Archives of Singapore website 
 
