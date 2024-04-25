@@ -171,7 +171,7 @@ When World War II ended in 1945, Shaw Organisation purchased Capitol Theatre and
  
 [^17]:Chua, C.H.J. (Interviewer). (1996, February 9). *[Oral history interview with Paul Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/855e9612-115e-11e3-83d5-0050568939ad-OHC001415_039/web/html5/index.html)* [Transcript of MP3 recording no. 001415/48/39, p, 468], Retrieved from National Archives of Singapore website.
 
-[^18]:Chew, D. (Interviewer). (1992, December 23). *[Oral history interview with Goh Heng Chong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5d0f378-115f-11e3-83d5-0050568939ad-OHC001392_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of MP3 recording no. 001392/2/2, pp. 13–14] Retrieved from National Archives of Singapore website.
+[^18]:Chew, D. (Interviewer). (1992, December 23). *[Oral history interview with Goh Heng Chong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5d0f378-115f-11e3-83d5-0050568939ad-OHC001392_002/web/html5/index.html)* [Transcript of MP3 recording no. 001392/2/2, pp. 13–14] Retrieved from National Archives of Singapore website.
 
 [^19]:Chua, C.H.J. (Interviewer). (1998, July 21). *[Oral history interview with Hedwig Anuar Aroozo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f1cfe541-115e-11e3-83d5-0050568939ad-OHC002036_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* [Transcript of MP3 recording no. 002036/44/2, p. 24]. Retrieved from National Archives of Singapore website.
 
