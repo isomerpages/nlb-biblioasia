@@ -169,7 +169,7 @@ When World War II ended in 1945, Shaw Organisation purchased Capitol Theatre and
 
 [^16]:Van der Putten, J. (2010, February). Negotiating the Great Depression: The rise of popular culture and consumerism in early 1930s Malaya. *Journal of Southeast Asian Studies, 41* (1), 21–45, pp. 21–23. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website 
  
-[^17]:Chua, C.H.J. (Interviewer). (1996, February 9). *[Oral history interview with Paul Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/8/855e9612-115e-11e3-83d5-0050568939ad-OHC001415_039/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of MP3 recording no. 001415/48/39, p, 468], Retrieved from National Archives of Singapore website.
+[^17]:Chua, C.H.J. (Interviewer). (1996, February 9). *[Oral history interview with Paul Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/855e9612-115e-11e3-83d5-0050568939ad-OHC001415_039/web/html5/index.html)* [Transcript of MP3 recording no. 001415/48/39, p, 468], Retrieved from National Archives of Singapore website.
 
 [^18]:Chew, D. (Interviewer). (1992, December 23). *[Oral history interview with Goh Heng Chong](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5d0f378-115f-11e3-83d5-0050568939ad-OHC001392_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of MP3 recording no. 001392/2/2, pp. 13–14] Retrieved from National Archives of Singapore website.
 
