@@ -179,7 +179,7 @@ When World War II ended in 1945, Shaw Organisation purchased Capitol Theatre and
 
 [^21]:Yeo, G.L. (Interviewer). (1987, July 27). *[Oral history interview with Chan Keong Poh](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe978891-115d-11e3-83d5-0050568939ad?keywords=capitol&amp;keywords-type=all)* [MP3 recording no. 000802/9/2]. Retrieved from National Archives of Singapore website. 
 
-[^22]:Ruzita Zaki. (Interviewer). (1995, August 24. *[Oral history interview with Khatijun Nissan Siraj](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3b69ed83-115e-11e3-83d5-0050568939ad-OHC001663_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)* [Transcript of MP3 recording no. 001663/36/5, p. 70]. Retrieved from National Archives of Singapore website.
+[^22]:Ruzita Zaki. (Interviewer). (1995, August 24. *[Oral history interview with Khatijun Nissan Siraj](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3b69ed83-115e-11e3-83d5-0050568939ad-OHC001663_005/web/html5/index.html)* [Transcript of MP3 recording no. 001663/36/5, p. 70]. Retrieved from National Archives of Singapore website.
 
 [^23]:Sng, S. (Interviewer). (2005, March 28). *[Oral history interview with Benjamin Khoo Beng Chuan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/95b71b4d-1160-11e3-83d5-0050568939ad-OHC002911_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* [Transcript of MP3 recording no. 002911/26/6, p. 127]. Retrieved from National Archives of Singapore website. 
 
