@@ -860,4 +860,14 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: The Other Men Who Surrendered Singapore
+      subtitle: WAR
+      id: infopic
+      description: Eleven other men had taken the decision with Arthur E. Percival to
+        surrender Singapore to the Japanese on 15 February 1942
+      button: NOT BY ONE MAN ALONE
+      url: /vol-20/issue-2/jul-sep-2024/men-surrender-singapore-japanese-occupation/
+      image: /images/Vol-12-issue-4/surviving-japanese-occupation/1-surviving-japanese-occupation.png
+      alt: Image alt text
 ---
