@@ -17,7 +17,7 @@ get notified when the next episode drops.</p>
 <br>11:43 – Why make kueh pie tee shells when they can be bought
 <br>13:29 – Christopher's tips for deep-frying
 <br>13:54 – What's special about Susie Hing's 1956 cookbook <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a> </em>(Mun
-Seong Press, 1956; republished by Landmark Books, forthcoming)
+Seong Press, 1956; republished Landmark Books, forthcoming)
 <br>16:39 – How Christopher connected with Hing's family
 <br>18:03 – Hing's background
 <br>18:55 – Different influences in Hing's recipes
@@ -34,10 +34,12 @@ Books, 2024)
 <br>40:23 – Food is...</p>
 <p></p>
 <h4><strong>About the Guest</strong></h4>
-<p>Dr Nick Aplin is Deputy Director (Sport Heritage) at Sport Singapore.
-He is the author of the <em>Sport in Singapore</em> series:<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042" rel="noopener noreferrer nofollow" target="_blank"><u>The Colonial Legacy</u></a> </em>(2019),
-<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206068467" rel="noopener noreferrer nofollow" target="_blank"><u>The Rocky Road to Kallang Park</u> 
-</a>(2023) and <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300007221" rel="noopener noreferrer nofollow" target="_blank"><u>Visions for Change</u></a> </em>(2023).</p>
+<p>Christopher Tan is an award-winning writer, cooking instructor and photographer.
+His articles, columns, recipes and photographs have appeared in many publications,
+including Singapore's <em>Sunday Times </em>and <em>Straits Times</em>, <em>The Peak</em> magazine,
+and America's <em>Saveur </em>magazine. He has authored and co-authored
+many cookbooks, most recently <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker 2: Tales from the Yeast Indies</a> </em>(Epigram
+Books, 2024). He loves making meaning with words, images and food.&nbsp;</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
 <p>Nick Aplin, “<a href="https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/" rel="noopener noreferrer nofollow" target="_blank"><u>Chia Boon Leong: The Twinkle-Toed Olympian</u></a>,” <em>BiblioAsia </em>19,
