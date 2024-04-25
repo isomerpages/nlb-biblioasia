@@ -49,7 +49,7 @@ The rest, according to Percival, “either remained silent or expressed their co
 
 While the spotlight has typically fallen on Percival, Heath, Bennett and Simmons as the most senior officers in the room, the remaining eight men were also part of the decision-making process. They were Major Cyril Hew Dalrymple Wild,[^13] Brigadier Thomas Kennedy Newbigging, Brigadier-General Kenneth Sanderson Torrance, Brigadier Alec Warren Greenlaw Wildey, Director-General Ivan Simson, Inspector-General Arthur Harold Dickinson, Brigadier Eric Whitlock Goodman and Brigadier Hubert Francis Lucas.
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_7.png)
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7.png)
 <div style="background-color:white;">A diorama of the meeting of the 12 commanders at the Battlebox on 15 February 1942. <i>Courtesy of Global Cultural Alliance.
 </i></div>
 
@@ -76,7 +76,7 @@ In her book about the people buried in Hong Kong Cemetery, teacher and historian
 
 James Bradley, a former prisoner-of-war whose life Wild had saved while they were both working on the infamous Thai-Burma Railway, wrote a biography of his saviour titled _Cyril Wild: The Tall Man Who Never Slept_, first published in 1991. During his internment, Wild put his Japanese language skills to good use and relentlessly interceded on behalf of his fellow prisoners-of-war. This led his Japanese captors to call him _nemuranu se no takai otoko_ (“the tall man who never slept”).[^21]
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_13.jpg)
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/13.jpg)
 <div style="background-color:white;">The Thai-Burma Railway is a 415-kilometre railway stretching from Ban Pong, Thailand, to Thanbyuzayat, Burma (now Myanmar).<i></i></div>
 
 #### **Thomas Kennedy Newbigging (1891–1968)**
@@ -85,7 +85,7 @@ Newbigging has generally been identified as the officer who carried the Union Ja
 
 Newbigging was the Deputy Adjutant-General, Malaya Command, from 1941 to 1942 and had received the Military Cross for his actions during World War I. He had first gone with Wild and Hugh Fraser, colonial secretary of the Straits Settlements, to deliver a letter from Percival to Yamashita following the morning meeting. They met with Colonel Ichiji Sugita (who would serve as Yamashita’s interpreter later that afternoon), who handed a letter to Newbigging requesting that Percival personally meet with Yamashita.[^23]
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_12.png)
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/12.png)
 <div style="background-color:white;">“The Meeting of General Yamashita and General Percival” (1942), an oil painting by Saburo Miyamoto.&nbsp;<i>Image reproduced from Stanley Tan Tik Loong,&nbsp;Reflections &amp; Memories of War Vol 1: Battle for Singapore: Fall of the Impregnable Fortress&nbsp;(Singapore: National Archives of Singapore, 2011),&nbsp;294. (From National Library, Singapore, call no. RSING 940.5425957 TAN).</i></div>
 
 A week after the surrender meeting, and while incarcerated at Changi Prison, Newbigging was said to have spoken to Sugita after British internees realised a massacre of the Chinese population was taking place. He is reported to have said: “I ask that you should not shoot any more Chinese and that you should not ask our men to assist you by burying them.”[^24]
