@@ -5,29 +5,32 @@ variant: tiptap
 description: ""
 third_nav_title: Kueh Pie Tee
 ---
-<p>Kueh pie tee is not a pie that goes with tea. So where did the name (and
-dish) come from? Award-winning cookbook author Christopher Tan combs through
-old newspapers and cookbooks, in search of the origins of the dish. PS:
-Dates back to 1570!</p>
+<p><em>Kueh pie tee </em>is not a pie that goes with tea. So where did the
+name (and dish) come from? Award-winning cookbook author Christopher Tan
+combs through old newspapers and cookbooks, in search of the origins of
+the dish. PS: Dates back to 1570!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BQRzTFvAWuk?si=LXr-M3xpiB53sKXR"></iframe>
+</div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: Spotify, Apple Podcasts, melisten</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Christopher Talked About</strong></h4>
-<p>02:11 – The origins of the dish kueh pie tee
-<br>11:43 – Why make kueh pie tee shells when they can be bought
+<p>02:11 – The origins of the dish <em>kueh pie tee </em>
+<br>11:43 – Why make <em>kueh pie tee</em> shells when they can be bought
 <br>13:29 – Christopher's tips for deep-frying
-<br>13:54 – What's special about Susie Hing's 1956 cookbook <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a></em>
+<br>13:54 – What's special about Susie Hing's 1956 cookbook <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a></em> 
 <br>16:39 – How Christopher connected with Hing's family
 <br>18:03 – Hing's background
 <br>18:55 – Different influences in Hing's recipes
 <br>21:36 – Why Christopher shares old recipes and cookbooks on his Instagram
 account
 <br>23:48 – The value of local vintage cookbooks
-<br>25:20 – Christopher's latest cookbook, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker 2: Tales from the Yeast Indies</a></em>
+<br>25:20 – Christopher's latest cookbook, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker 2: Tales from the Yeast Indies</a></em> 
 <br>29:07 – Why toddy (fermented palm sap) is used in baking
-<br>35:50 – Christopher's dream filling for kueh pie tee
+<br>35:50 – Christopher's dream filling for <em>kueh pie tee </em>
 <br>36:57 – The dish Christopher wishes he can master
 <br>38:21 – How Christopher tests his recipes
 <br>38:58 – What Christopher would rather buy than make on his own
