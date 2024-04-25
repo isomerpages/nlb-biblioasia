@@ -4,7 +4,12 @@ permalink: /topics/war/
 description: ""
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/">Konfrontasi: Singapore’s Experience of an Undeclared War</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/men-surrender-singapore-japanese-occupation/">Eleven other men had taken the decision with Arthur E. Percival to surrender Singapore to the Japanese on 15 February 1942
+
+<img src="/images/Vol-12-issue-4/surviving-japanese-occupation/1-surviving-japanese-occupation.png" style="width:80%; height:80%">
+<hr>
+
+#### </a><a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/">Konfrontasi: Singapore’s Experience of an Undeclared War</a>
 Opposing the formation of the Federation of Malaysia, Indonesia waged a three-year armed conflict against Malaysia and Singapore.
 
 <img src="/images/Vol%2019%20Issue%204/3%20Konfrontasi/konfrontasi_topic.png" style="width:80%; height:80%">
