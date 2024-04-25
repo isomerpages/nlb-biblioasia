@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Kueh Pie Tee
 ---
-<p>Coming on 29 April</p>
-<p></p>
+<p>Kueh pie tee is not a pie that goes with tea. So where did the name (and
+dish) come from? Award-winning cookbook author Christopher Tan combs through
+old newspapers and cookbooks, in search of the origins of the dish. PS:
+Dates back to 1570!</p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: Spotify, Apple Podcasts, melisten</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
@@ -44,16 +46,15 @@ Books, 2024). He loves making meaning with words, images and food.&nbsp;</p>
 <h4><strong>Resources</strong></h4>
 <p>Nick Aplin, “<a href="https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/" rel="noopener noreferrer nofollow" target="_blank"><u>Chia Boon Leong: The Twinkle-Toed Olympian</u></a>,” <em>BiblioAsia </em>19,
 no. 4 (Jan–Mar 2024).</p>
-<p>Nick Aplin, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042" rel="noopener noreferrer nofollow" target="_blank"><u>Sport in Singapore: The Colonial Legacy</u></a></em> (Singapore:
-Sport Singapore, 2019).</p>
-<p>Nick Aplin, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206068467" rel="noopener noreferrer nofollow" target="_blank"><u>Sport in Singapore: The Rocky Road to Kallang Park</u></a></em> (Singapore:
-Sport Singapore, 2023).</p>
-<p>Nick Aplin, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300007221" rel="noopener noreferrer nofollow" target="_blank"><u>Sport in Singapore: Visions for Change: 50 Years of the Singapore Sports Council 1973–2023</u></a></em> (Singapore:
-Sport Singapore, 2023).</p>
-<p>&nbsp;“<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.1" rel="noopener noreferrer nofollow" target="_blank"><u>Twinkle, Twinkle Little Star…</u></a>,”&nbsp;<em>New Nation</em>,
-18 April 1975, 10–11. (From NewspaperSG)&nbsp;</p>
-<p>Sonny Yap, “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750418-1.2.20.1.3" rel="noopener noreferrer nofollow" target="_blank"><u>The Match of His Career…</u></a>,”&nbsp;<em>New Nation</em>,
-18 April 1975, 10–11. (From NewspaperSG)&nbsp;</p>
+<p>Nick ASusie Hing, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a>&nbsp;(Singapore:
+Mun Seong Press, 1956). <em>&nbsp;</em>
+</p>
+<p>Janice Loo, “‘<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/beeton-malaya-women-cookbooks-housewives/" rel="noopener noreferrer nofollow" target="_blank">Mrs Beeton’” in Malaya: Women, Cookbooks and the Makings of the Housewife</a>,” <em>BiblioAsia</em> 9,
+no. 3 (October–December 2013).</p>
+<p>Christopher Tan, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker 2: Tales from the Yeast Indies</a> </em>(Singapore:
+Epigram, 2023).</p>
+<p>“<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19360320-1.2.91" rel="noopener noreferrer nofollow" target="_blank">The Pantry Shelf</a>,”&nbsp;Morning
+Tribune, 20 March 1936, 15.</p>
 <p></p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
