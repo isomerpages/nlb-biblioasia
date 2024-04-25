@@ -4,6 +4,7 @@ date: 2017-04-12
 permalink: /vol-13/issue-1/apr-jun-2017/guitar-man/
 image: /images/Vol-13-issue-1/the-guitar-man/01_guitarman.jpg
 layout: post
+variant: markdown
 ---
 #### Hailed as the “Father of the Guitar”, Alex Abisheganaden, who died on 17 March, 2023, spent the last five decades championing the classical guitar. **Joy Loh** charts his illustrious career.
 
@@ -149,7 +150,7 @@ Chang, T.L. (2007, March 23). [The guitar man](http://eresources.nlb.gov.sg/news
 
 Chang, T.L. (2007, March 27). [The sounds of joyous youth](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070327-1.2.67.2.3). *The Straits Times*, p. 49. Retrieved from NewspaperSG.
 
-Chua, C.H. (Interviewer). (1993, March 9). *[Oral history interview with Paul Abisheganaden](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4141501)* [Transcript of MP3 recording no. 001415/48/01, p. 7]. Retrieved from National Archives of Singapore website.
+Chua, C.H. (Interviewer). (1993, March 9). *[Oral history interview with Paul Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2ce1caaf-115e-11e3-83d5-0050568939ad-OHC001415_001/web/html5/index.html)* [Transcript of MP3 recording no. 001415/48/01, p. 7]. Retrieved from National Archives of Singapore website.
 
 Doray, B. (1972, September 25). [Drugs: Call to set up youth service](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720925-1.2.68). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
@@ -231,19 +232,19 @@ National University of Singapore. (2016). *NUS Guitar Ensemble*. Retrieved from 
 
 Phan, M.Y. (1996, January 20). [Welcome-welcome from the erhu, sitar and guitar](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960120-1.2.75.4.4). *The Straits Times*, p. 16. Retrieved from NewspaperSG.
 
-Tan, B.L. (Interviewer). (1994, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/722241e1-1160-11e3-83d5-0050568939ad-OHC001461_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* [Transcript of MP3 recording no. 001461/11/01, pp. 3, 5–6, 9]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1994, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/722241e1-1160-11e3-83d5-0050568939ad-OHC001461_001/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/01, pp. 3, 5–6, 9]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c6b3a9c2-115e-11e3-83d5-0050568939ad-OHC001461_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=10)* [Transcript of MP3 recording no. 001461/11/02, p. 19]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c6b3a9c2-115e-11e3-83d5-0050568939ad-OHC001461_002/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/02, p. 19]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/747f0063-115e-11e3-83d5-0050568939ad-OHC001461_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=1)* [Transcript of MP3 recording no. 001461/11/03, pp. 20, 22, 27]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/747f0063-115e-11e3-83d5-0050568939ad-OHC001461_003/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/03, pp. 20, 22, 27]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/6/637463ee-1160-11e3-83d5-0050568939ad-OHC001461_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)* [Transcript of MP3 recording no. 001461/11/04, pp. 34, 38–39].Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/6/637463ee-1160-11e3-83d5-0050568939ad-OHC001461_004/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/04, pp. 34, 38–39].Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c6bbb8ef-115e-11e3-83d5-0050568939ad-OHC001461_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 001461/11/05, pp. 46, 48]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c6bbb8ef-115e-11e3-83d5-0050568939ad-OHC001461_005/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/05, pp. 46, 48]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c85b6cb6-115e-11e3-83d5-0050568939ad-OHC001461_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 001461/11/06, p. 56]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, March 16). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/6/6b80a2e1-1160-11e3-83d5-0050568939ad-OHC001461_006/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/06, p. 56]. Retrieved from National Archives of Singapore website.
 
-Tan, B.L. (Interviewer). (1995, May 4). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c85b6cb6-115e-11e3-83d5-0050568939ad-OHC001461_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)* [Transcript of MP3 recording no. 001461/11/11, pp. 105–107]. Retrieved from National Archives of Singapore website.
+Tan, B.L. (Interviewer). (1995, May 4). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c85b6cb6-115e-11e3-83d5-0050568939ad-OHC001461_011/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/11, pp. 105–107]. Retrieved from National Archives of Singapore website.
 
 Tang, K.F. (1988, March 1). [Top artistes relax to get their ideas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890301.2.6.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
@@ -257,7 +258,7 @@ Tsang, S. (1996, September 29). [They strike a chord in each other](http://ereso
 
 #### **NOTES**
 
-[^1]:Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/722241e1-1160-11e3-83d5-0050568939ad-OHC001461_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* [Transcript of MP3 recording no. 001461/11/01, p. 3]. Retrieved from National Archives of Singapore website.
+[^1]:Tan, B.L. (Interviewer). (1995, March 9). *[Oral history interview with Alex Abisheganaden](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/722241e1-1160-11e3-83d5-0050568939ad-OHC001461_001/web/html5/index.html)* [Transcript of MP3 recording no. 001461/11/01, p. 3]. Retrieved from National Archives of Singapore website.
 
 [^2]:Telephone correspondence with Jacintha Abisheganaden, daughter of Alex Abisheganaden, on 24 January 2017.
 

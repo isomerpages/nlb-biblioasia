@@ -11,7 +11,7 @@ By Eriko Ogihara-Schuck
 
 Over the last four decades, few Singaporean plays have occupied the imagination as much as Stella Kon’s _Emily of Emerald Hill_. Possibly the most frequently staged play in Singapore, the powerful script and the notable performances of the likes of Margaret Chan, Neo Swee Lin, Karen Tan, Laura Kee, Ivan Heng and others have inspired audiences to think about Peranakan culture and its place in the evolution of Singapore society.
 
-![](/images/Vol%2020%20Issue%202/Emily/img1.png)
+![](/images/Vol%2020%20Issue%202/Emily/img_1.png)
 <div style="background-color:white;">Singaporean actor Ivan Heng’s performance of the titular matriarch in <i>Emily of Emerald Hill</i> in 2019. <i>Courtesy of Wild Rice.</i></div>
 
 While all this would suggest that the 90-minute monodrama is very well known, there are numerous aspects of _Emily_ that few people are familiar with. Who knows, for example, that Kon had, at one point, planned to title the play _Betty of Balmoral Road_? 
@@ -53,7 +53,7 @@ In _Emily_, the climax of the play is when Emily accepts her daughter’s marria
 
 _Portrait_ and _Emily_ also have different opening scenes. Portrait begins with Emily visiting the market and the audience hearing Emily bawling offstage. “Ah Hoon! Ah Hoon! Open the door! Bring the basket! Call the driver! Tell him nonya besar wants to go to market!” Then she appears on stage and, addressing the audience, says: “Hei, Botak! What are you doing ah! What kind of fish you sent to me yesterday? All rotten ones lah! Yes! You want me to show you, all the ikan parang all stinking rotten lah! How to eat ah? You want my family all go to hospital die ah?”[^10]
 
-![](/images/Vol%2020%20Issue%202/Emily/img8.png)
+![](/images/Vol%2020%20Issue%202/Emily/img_8.png)
 <div style="background-color:white;">Singaporean actress Karen Tan playing the titular role in <i>Emily of Emerald Hill</i>, presented by Esplanade – Theatres on the Bay as part of <i>The Studios: Fifty</i> in 2015. <i>Photo by Tuckys Photography, courtesy of Esplanade – Theatres on the Bay.</i></div>
 
 The final script, however, opens with Emily speaking to people on the phone, starting with her friend Susie. “Susie ah! Emily here ah. This afternoon I’m going to town, anything that you’re needing? I’ve got the chicken you wanted from market; and I saw some good jackfruit, your children love it, so I bought one big one for you. What else you need?” Emily then calls the Adelphi Hotel and speaks “in an upper-class educated voice”.[^11] In _Portrait_, a version of this scene was situated in the middle of Scene Two.[^12] Kon created this new opening in order to bring the audience’s immediate attention to Emily’s linguistic code-switching and make them laugh.[^13]
@@ -72,7 +72,7 @@ Almost from the beginning, _Emily of Emerald Hill_ was recognised as an importan
 
 In Kon’s absence (she had moved to Britain by then), her friend Ong Su-Ming again took the initiative. In April 1984, Ong showed the _Emily_ script to her former ACS Ipoh colleague Chin San Sooi, who had earlier directed Kon’s _A Breeding Pair_.[^23]  This was because, among other things, Ong knew that Chin had innovatively staged a monologue play starring the up-and-coming actress Leow Puay Tin.[^24]
 
-![](/images/Vol%2020%20Issue%202/Emily/img7.png)
+![](/images/Vol%2020%20Issue%202/Emily/img_7.png)
 <div style="background-color:white;">Malaysian actress Leow Puay Tin’s performance of Emily of Emerald Hill in 1987. <i>Courtesy of Leow Puay Tin.</i></div>
 
 Chin immediately saw the potential in _Emily_ and quickly cast around for a producer and a sponsor while starting rehearsals with Leow.[^25] On 17 November 1984, at the Cemara Club House in Seremban, Leow made _Emily_ come alive on stage.[^26] When the play was staged in Kuala Lumpur about two weeks later, it gained widespread coverage and triggered a reviewer to describe the production as “scor[ing] another impressive credit” and a “superb effort”.[^27] He also praised Leow for “captivat[ing] the audience with her near-immaculate nuances of the various periods of her life” and “inject[ing] a fresh enthusiasm into the character of Emily”.[^28] 
@@ -81,7 +81,7 @@ This Malaysian premiere was likely a major factor that prodded Singapore to fina
 
 Singaporean director Max Le Blond said he was immediately intrigued on reading the script.[^30] Actress Margaret Chan was similarly smitten. “I liked it and said yes right after I read it. I memorised the script within two days.”[^31] Chan’s performance mesmerised Kon. After watching it at the 1985 Singapore Drama Festival, Kon told the audience: “Margaret gave it flesh and breath and blood.” Later, she went backstage to congratulate Chan and told her: “I’m exhilarated, I’m over the moon.”[^32]
 
-![](/images/Vol%2020%20Issue%202/Emily/img2.png)
+![](/images/Vol%2020%20Issue%202/Emily/img_2.png)
 <div style="background-color:white;"> Singaporean actress Margaret Chan in the 1985 production of <i>Emily of Emerald Hill</i> for the Singapore Drama Festival. It was directed by university lecturer Max Le Blond. <i>Courtesy of Dr Margaret Chan.</i></div>
 
 #### **Achieving Cult Status**
@@ -121,9 +121,9 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 
 #### **Notes**
 
-[^1]: Correspondence with [Stella Kon](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d6fc85de-85fd-44df-8392-37739955f594), 19 November 2023; Nureza Ahmad, “Stella Kon”, in _Singapore Infopedia_. National Library Board Singapore. Article published 2018. Kon started writing plays while still in school. At age eight, she wrote her first play, _The Fisherman and the King_, while at Raffles Girls’ School (RGS), which was later staged at the school. At age 12, her second play, _The Tragedy of Lo Mee Oh and Tzu Lee_ At, a parody of _Romeo and Juliet_, was again performed in RGS. Kon is a descendant of Lim Boon Keng and Tan Tock Seng, who were her paternal great-grandfather and maternal great-great-grandfather respectively.
+[^1]: Correspondence with [Stella Kon](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d6fc85de-85fd-44df-8392-37739955f594), 19 November 2023; Nureza Ahmad, “Stella Kon”, in _Singapore Infopedia_. National Library Board Singapore. Article published 2018. Kon started writing plays while still in school. At age eight, she wrote her first play, _The Fisherman and the King_, while at Raffles Girls’ School (RGS), which was later staged at the school. At age 12, her second play, _The Tragedy of Lo Mee Oh and Tzu Lee At_, a parody of _Romeo and Juliet_, was again performed in RGS. Kon is a descendant of Lim Boon Keng and Tan Tock Seng, who were her paternal great-grandfather and maternal great-great-grandfather respectively.
 
-[^2]: Stella Kon, oral history interview by Michelle Low, 9 August 2006, MP3 audio, Reel/Disc 22 of 36, National Archives of Singapore (accession no. 002996), 2:36–39.
+[^2]: Stella Kon, oral history interview by Michelle Low, 9 August 2006, MP3 audio, Reel/Disc 22 of 36, National Archives of Singapore ([accession no. 002996](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002996)), 2:36–39.
 
 [^3]: Stella Kon, oral history interview, 9 August 2006, Reel/Disc 22 of 36, 3:03–16.
 
@@ -167,8 +167,7 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 
 [^23]: Correspondence with Chin San Sooi, 5 December 2023; “Director’s Chair,” Stella Kon’s Emily of Emerald Hill, https://emilyemerald.tripod.com/directorsays.htm.
 
-[^24]: Correspondence with Ong Su-Ming, 13 November 2023. The play is
-I Have Not Forgotten the Dumb, a devised piece staged in 1981.
+[^24]: Correspondence with Ong Su-Ming, 13 November 2023. The play is _I Have Not Forgotten the Dumb_, a devised piece staged in 1981.
 
 [^25]: Correspondence with Chin San Sooi, 5 December 2023. A few years after staging Kon’s _A Breeding Pair in 1974_, Chin impressed the Germany Embassy in Malaysia by successfully staging German playwright Bertolt Brecht’s _The Caucasian Chalk Circle_ in an innovatively minimalist style, using only 10 actors instead of the original 50. In _Lady White_, the very first play Chin wrote and directed in 1976, he creatively turned the audience into a fellow actor by making an actor approach someone in the audience to read his fortune. His _Refugees:_ _Images_, a critique of the Malaysian government’s treatment of refugees, completed in 1980, was meant to become the first Malaysian musical although it was banned from being performed for two decades.
 

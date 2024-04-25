@@ -2,6 +2,9 @@ collections:
   podcast:
     output: true
     order:
+      - Kueh Pie Tee/.keep
+      - "Kueh Pie Tee/Kueh Pie Tee: A Detective Story.md"
+      - Kueh Pie Tee/Transcript.md
       - A Boxing Superstar/.keep
       - A Boxing Superstar/The Tragedy of Singapore’s First Boxing Superstar.md
       - A Boxing Superstar/Transcript.md

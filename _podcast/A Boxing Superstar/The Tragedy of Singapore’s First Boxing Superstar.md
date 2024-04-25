@@ -9,7 +9,9 @@ third_nav_title: A Boxing Superstar
 as <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/" rel="noopener noreferrer nofollow" target="_blank">Battling Key</a>,
 the larger-than-life boxer attracted crowds wherever he went. Which makes
 his drastic&nbsp;downfall&nbsp;all the more tragic.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mGhJA7lWmFQ?si=K2OXjrAZ0oWynmmQ"></iframe>
+</div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/episode/1CtCj8pMYp33OOlQiz7eTG" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/the-tragedy-of-singapores-first-boxing-superstar/id1688142751?i=1000652812814" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts </u>
