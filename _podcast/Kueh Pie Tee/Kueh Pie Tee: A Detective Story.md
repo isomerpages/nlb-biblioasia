@@ -8,7 +8,7 @@ third_nav_title: Kueh Pie Tee
 <p>Coming on 29 April</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on:</p>
+<p>Available on: Spotify, Apple Podcasts, melisten</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
@@ -16,8 +16,8 @@ get notified when the next episode drops.</p>
 <p>02:11 – The origins of the dish kueh pie tee
 <br>11:43 – Why make kueh pie tee shells when they can be bought
 <br>13:29 – Christopher's tips for deep-frying
-<br>13:54 – What's special about Susie Hing's 1956 cookbook In a Malayan Kitchen
-(republished by Landmark Books, forthcoming)
+<br>13:54 – What's special about Susie Hing's 1956 cookbook <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a> </em>(Mun
+Seong Press, 1956; republished by Landmark Books, forthcoming)
 <br>16:39 – How Christopher connected with Hing's family
 <br>18:03 – Hing's background
 <br>18:55 – Different influences in Hing's recipes
@@ -36,7 +36,7 @@ Books, 2024)
 <h4><strong>About the Guest</strong></h4>
 <p>Dr Nick Aplin is Deputy Director (Sport Heritage) at Sport Singapore.
 He is the author of the <em>Sport in Singapore</em> series:<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042" rel="noopener noreferrer nofollow" target="_blank"><u>The Colonial Legacy</u></a> </em>(2019),
-<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206068467" rel="noopener noreferrer nofollow" target="_blank"><u>The Rocky Road to Kallang Park</u>
+<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206068467" rel="noopener noreferrer nofollow" target="_blank"><u>The Rocky Road to Kallang Park</u> 
 </a>(2023) and <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300007221" rel="noopener noreferrer nofollow" target="_blank"><u>Visions for Change</u></a> </em>(2023).</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
