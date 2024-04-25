@@ -44,9 +44,7 @@ many cookbooks, most recently <em><a href="https://eservice.nlb.gov.sg/redir/ite
 Books, 2024). He loves making meaning with words, images and food.&nbsp;</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p>Nick Aplin, “<a href="https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/chia-boon-leong-football-soccer/" rel="noopener noreferrer nofollow" target="_blank"><u>Chia Boon Leong: The Twinkle-Toed Olympian</u></a>,” <em>BiblioAsia </em>19,
-no. 4 (Jan–Mar 2024).</p>
-<p>Nick ASusie Hing, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a>&nbsp;(Singapore:
+<p>Susie Hing, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a>&nbsp;(Singapore:
 Mun Seong Press, 1956). <em>&nbsp;</em>
 </p>
 <p>Janice Loo, “‘<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/beeton-malaya-women-cookbooks-housewives/" rel="noopener noreferrer nofollow" target="_blank">Mrs Beeton’” in Malaya: Women, Cookbooks and the Makings of the Housewife</a>,” <em>BiblioAsia</em> 9,
