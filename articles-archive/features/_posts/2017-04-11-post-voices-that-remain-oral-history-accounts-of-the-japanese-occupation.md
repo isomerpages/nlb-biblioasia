@@ -132,7 +132,7 @@ Singapore’s wartime survivors will not be around forever, but their voices wil
 
 [^16]:Morrison, J. H. (1994). Japanese Occupation of Singapore: Oral sources. *Canadian Oral History Association Journal, 14*, 92–95. (Not available in NLB holdings)
 
-[^17]:Low, L.L. (Interviewer). (1984, January 26). *[Oral history interview with De Souza, Mabel (Mrs) @ Mabel Ottzen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e692fa10-115d-11e3-83d5-0050568939ad-OHC000393_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of cassette recording no. 000393/04/01]. Retrieved from National Archives of Singapore website.
+[^17]:Low, L.L. (Interviewer). (1984, January 26). *[Oral history interview with De Souza, Mabel (Mrs) @ Mabel Ottzen](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e692fa10-115d-11e3-83d5-0050568939ad-OHC000393_001/web/html5/index.html)* [Transcript of cassette recording no. 000393/04/01]. Retrieved from National Archives of Singapore website.
 
 [^18]:Eaton, C.K. (2017, February 2). Email correspondence with author. Eaton contributed a vignette based on the OHC’s interview of Mabel de Souza. See Chandler, D.P., Cribb, R., &amp; Li, N. (Eds.). (2016). *[End of empire. 100 days in 1945 that changed Asia and the world](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202486031)* (pp. 130–131). Copenhagen: NIAS Press. (Call no.: RSEA 303.4825052 END); Eaton, C. (n.d.). Mabel’s life goes on. Retrieved from End of Empire website.
 
