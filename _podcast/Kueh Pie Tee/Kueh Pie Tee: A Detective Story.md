@@ -18,16 +18,14 @@ get notified when the next episode drops.</p>
 <p>02:11 – The origins of the dish kueh pie tee
 <br>11:43 – Why make kueh pie tee shells when they can be bought
 <br>13:29 – Christopher's tips for deep-frying
-<br>13:54 – What's special about Susie Hing's 1956 cookbook <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a> </em>(Mun
-Seong Press, 1956; republished Landmark Books, forthcoming)
+<br>13:54 – What's special about Susie Hing's 1956 cookbook <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a></em>
 <br>16:39 – How Christopher connected with Hing's family
 <br>18:03 – Hing's background
 <br>18:55 – Different influences in Hing's recipes
 <br>21:36 – Why Christopher shares old recipes and cookbooks on his Instagram
 account
 <br>23:48 – The value of local vintage cookbooks
-<br>25:20 – Christopher's latest cookbook, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker 2: Tales from the Yeast Indies</a> </em>(Epigram
-Books, 2024)
+<br>25:20 – Christopher's latest cookbook, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker 2: Tales from the Yeast Indies</a></em>
 <br>29:07 – Why toddy (fermented palm sap) is used in baking
 <br>35:50 – Christopher's dream filling for kueh pie tee
 <br>36:57 – The dish Christopher wishes he can master
@@ -44,15 +42,14 @@ many cookbooks, most recently <em><a href="https://eservice.nlb.gov.sg/redir/ite
 Books, 2024). He loves making meaning with words, images and food.&nbsp;</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p>Susie Hing, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a>&nbsp;(Singapore:
-Mun Seong Press, 1956). <em>&nbsp;</em>
-</p>
+<p>Susie Hing, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a>&nbsp;</em>(Singapore:
+Mun Seong Press, 1956). (Call no<em>. RSING </em>641.59595 HIN-[RFL])</p>
 <p>Janice Loo, “‘<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/beeton-malaya-women-cookbooks-housewives/" rel="noopener noreferrer nofollow" target="_blank">Mrs Beeton’” in Malaya: Women, Cookbooks and the Makings of the Housewife</a>,” <em>BiblioAsia</em> 9,
 no. 3 (October–December 2013).</p>
 <p>Christopher Tan, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker 2: Tales from the Yeast Indies</a> </em>(Singapore:
-Epigram, 2023).</p>
-<p>“<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19360320-1.2.91" rel="noopener noreferrer nofollow" target="_blank">The Pantry Shelf</a>,”&nbsp;Morning
-Tribune, 20 March 1936, 15.</p>
+Epigram, 2023). (Call no. RSING 641.815 TAN)</p>
+<p>“<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19360320-1.2.91" rel="noopener noreferrer nofollow" target="_blank">The Pantry Shelf</a>,”&nbsp;<em>Morning Tribune</em>,
+20 March 1936, 15. (From NewspaperSG)</p>
 <p></p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
