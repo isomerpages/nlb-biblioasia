@@ -42,7 +42,7 @@ Heath (1885–1954) commanded the III Indian Corps from 1941 to 1942 as part of 
 
 In Percival’s notes of the meeting, Heath had argued that “there is only one possible course to adopt” and that was to do what Percival ought to have done two days ago, “namely to surrender immediately”. Heath added that the defenders could not “resist another determined Japanese attack and that to sacrifice countless lives by a failure to appreciate the true situation would be an act of extreme folly”.[^10] Bennett agreed with Heath and dismissed Percival’s proposal for a counterattack. When Percival sought the opinion of others, Simmons was recorded to have said that he was “reluctant to surrender”, but could see no other alternative.[^11]
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/image_6.png)
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/6.png)
 <div style="background-color:white;">Lieutenant-General Henry Gordon Bennett (3rd from left), Commander of the 8th Division of the Australian Imperial Force, with a map spread out before him, outlines to newsmen the current situation, 1942. <i>Courtesy of the Australian War Memorial, P01182.009.</i></div>
 
 The rest, according to Percival, “either remained silent or expressed their concurrence” with Simmons. Major Cyril Hew Dalrymple Wild, Heath’s General Staff Officer, recalled in his own notes that the “decision to ask for terms was taken without a dissentient voice”.[^12]
