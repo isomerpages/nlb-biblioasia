@@ -50,10 +50,10 @@ Books, 2024). He loves making meaning with words, images and food.&nbsp;</p>
 Mun Seong Press, 1956). (Call no<em>. </em>RSING 641.59595 HIN-[RFL])</p>
 <p>Janice Loo, “‘<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/beeton-malaya-women-cookbooks-housewives/" rel="noopener noreferrer nofollow" target="_blank">Mrs Beeton’” in Malaya: Women, Cookbooks and the Makings of the Housewife</a>,” <em>BiblioAsia</em> 9,
 no. 3 (October–December 2013).</p>
+<p>Christopher Tan, “<a href="https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/kueh-lapis/" rel="noopener noreferrer nofollow" target="_blank">Love Is a Many-Layered Thing</a>,” <em>BiblioAsia </em>16,
+no. 4 (January–March 2021).</p>
 <p>Christopher Tan, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker 2: Tales from the Yeast Indies</a> </em>(Singapore:
 Epigram, 2023). (Call no. RSING 641.815 TAN)</p>
-<p>Christopher Tan, "<a href="https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/kueh-lapis/" rel="noopener noreferrer nofollow" target="_blank">Love Is a Many-Layered Thing</a>," <em>BiblioAsia </em>16,
-no. 4 (January–March 2021).</p>
 <p>“<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19360320-1.2.91" rel="noopener noreferrer nofollow" target="_blank">The Pantry Shelf</a>,”&nbsp;<em>Morning Tribune</em>,
 20 March 1936, 15. (From NewspaperSG)</p>
 <p></p>
