@@ -195,7 +195,7 @@ When World War II ended in 1945, Shaw Organisation purchased Capitol Theatre and
 
 [^29]:*[Oral history interview with Kartar Singh](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/5cec160e-1160-11e3-83d5-0050568939ad?keywords=capitol&amp;keywords-type=all),* 19 Jul 2002.
 
-[^30]:Chew, D. (Interviewer). (1993, April 14). *[Oral history interview with Maurice Baker](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3e25ebdd-115f-11e3-83d5-0050568939ad-OHC000095_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 000095/6/2, p. 19]. Retrieved from National Archives of Singapore website. 
+[^30]:Chew, D. (Interviewer). (1993, April 14). *[Oral history interview with Maurice Baker](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3e25ebdd-115f-11e3-83d5-0050568939ad-OHC000095_002/web/html5/index.html)* [Transcript of MP3 recording no. 000095/6/2, p. 19]. Retrieved from National Archives of Singapore website. 
 
 [^31]:Tan, B. L. (Interviewer). (1985, April 17). *[Oral history interview with Patrick Hardie](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f4838cd7-115d-11e3-83d5-0050568939ad-OHC000545_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=1)* [Transcript of MP3 recording no. 000545/9/5, p. 63]. Retrieved from National Archives of Singapore website.
 
