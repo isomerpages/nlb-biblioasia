@@ -28,7 +28,7 @@ Among the other 11 men huddled together in the same room as Percival, three were
 Bennett (1887–1962) was Commander of the 8th Division of the Australian Imperial Force and had been assigned the defence of Johor and Melaka. In 1944, he published his account of the Malayan Campaign in a book titled _Why Singapore Fell_.[^6] He had also been called “Australia’s most controversial Second World War Commander”. That was because, among other things, following the surrender, Bennett handed over command of his division and left Singapore, supposedly to “pass on his knowledge about how to fight the Japanese”.[^7]
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/3.png)
-<div style="background-color:white;">Lieutenant General Henry Gordon Bennett was Commander of the 8th Division of the Australian Imperial Force, and assigned the defence of Johor and Melaka. <i>Courtesy of the Australian War Memorial, P01461.002.</i></div>
+<div style="background-color:white;">Lieutenant General Henry Gordon Bennett was Commander of the 8th Division of the Australian Imperial Force, and assigned the defence of Johor and Melaka. <i>Courtesy of the Australian War Memorial, accession no. P01461.002. </i></div>
 
 Simmons (1888–1952) was Commander of the Singapore Fortress and responsible for the defence of Singapore, the adjoining islands and the eastern area of Johor. He was the subject of a biography, _The Story of Major General F.K. Simmons, CEB, MVO, MC, a Man Among Men_, by Percival. In Percival’s eyes, Simmons had a “particularly tactful and courteous manner which was an undoubted asset in his dealings with the civilians of Singapore. He worked unceasingly for the welfare of the troops in that city”.[^8]
 
