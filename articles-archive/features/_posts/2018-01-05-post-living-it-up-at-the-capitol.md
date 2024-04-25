@@ -137,7 +137,7 @@ When World War II ended in 1945, Shaw Organisation purchased Capitol Theatre and
 
 #### **NOTES**
 
-[^1]:Choo, H. (Interviewer). (1982, June 30). *[Oral history interview with Haji Mohamed Javad Namazie](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/34cef2da-115f-11e3-83d5-0050568939ad-OHC000189_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no. 000189/11/3, p. 22]. Retrieved from National Archives of Singapore website.
+[^1]:Choo, H. (Interviewer). (1982, June 30). *[Oral history interview with Haji Mohamed Javad Namazie](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/34cef2da-115f-11e3-83d5-0050568939ad-OHC000189_003/web/html5/index.html)* [Transcript of MP3 recording no. 000189/11/3, p. 22]. Retrieved from National Archives of Singapore website.
 
 [^2]:The Alhambra and Tivoli screened talkies prior to the Capitol but had to undergo some renovations to incorporate sound technology. See [Talkie invasion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19291217-1.2.80). (1929, December 17). *The Singapore Free Press and Mercantile Advertiser*, p. 11. Retrieved from NewspaperSG.
 
