@@ -18,7 +18,7 @@ sections:
       background: /images/Vol 20 Issue 1/Singapore Speedway/Hero_img_Speedway2.jpg
   - infopic:
       title: The Other Men Who Surrendered Singapore
-      subtitle: WAR
+      subtitle: WAR and MilitaryMilitary
       id: infopic
       description: Eleven other men had taken the decision with Arthur E. Percival to
         surrender Singapore to the Japanese on 15 February 1942
