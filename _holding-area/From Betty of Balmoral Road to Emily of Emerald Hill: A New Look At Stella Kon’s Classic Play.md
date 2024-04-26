@@ -32,6 +32,9 @@ The first-ever performance of the play took place in 1984 in Seremban, Negri Sem
 ![](/images/Vol%2020%20Issue%202/Emily/img10.png)
 <div style="background-color:white;"> Malaysian teacher, theatre director and playwright&nbsp;Chin San Sooi directed the first&nbsp;<i>Emily of Emerald Hill</i>&nbsp;in 1984 in Seremban. <i>Courtesy of Chin San Sooi.</i></div>
 
+![](/images/Vol%2020%20Issue%202/Emily/img_7.png)
+<div style="background-color:white;">Malaysian actress Leow Puay Tin’s performance of Emily of Emerald Hill in 1987. <i>Courtesy of Leow Puay Tin.</i></div>
+
 #### **Beginnings in Ipoh**
 
 Kon, who is Peranakan, spent her formative years at 117 Emerald Hill Road and had been exposed to theatre at an early age. She was inspired by her mother, Rosie Lim Guat Kheng, who was an amateur actress, and Kon’s theatre-loving father Lim Kok Ann.[^1] While studying at the University of Singapore (now National University of Singapore), Kon wrote a short play titled _Birds of a Feather_ in 1966 which was staged by the university’s students on an exchange trip to France. 
@@ -75,9 +78,6 @@ Like the telephone scene, this original opening scene also vividly shows Emily�
 Almost from the beginning, _Emily of Emerald Hill_ was recognised as an important work. Kon submitted the play to the 1983 Singapore National Playwriting Competition and won the first prize (for the third time). But the form of the play posed new challenges to the Singapore theatre community. In correspondence with me, Kon speculated that the hesitation was perhaps because the monodrama format was still relatively new to local theatre.[^22]
 
 In Kon’s absence (she had moved to Britain by then), her friend Ong Su-Ming again took the initiative. In April 1984, Ong showed the _Emily_ script to her former ACS Ipoh colleague Chin San Sooi, who had earlier directed Kon’s _A Breeding Pair_.[^23]  This was because, among other things, Ong knew that Chin had innovatively staged a monologue play starring the up-and-coming actress Leow Puay Tin.[^24]
-
-![](/images/Vol%2020%20Issue%202/Emily/img_7.png)
-<div style="background-color:white;">Malaysian actress Leow Puay Tin’s performance of Emily of Emerald Hill in 1987. <i>Courtesy of Leow Puay Tin.</i></div>
 
 Chin immediately saw the potential in _Emily_ and quickly cast around for a producer and a sponsor while starting rehearsals with Leow.[^25] On 17 November 1984, at the Cemara Club House in Seremban, Leow made _Emily_ come alive on stage.[^26] When the play was staged in Kuala Lumpur about two weeks later, it gained widespread coverage and triggered a reviewer to describe the production as “scor[ing] another impressive credit” and a “superb effort”.[^27] He also praised Leow for “captivat[ing] the audience with her near-immaculate nuances of the various periods of her life” and “inject[ing] a fresh enthusiasm into the character of Emily”.[^28] 
 
