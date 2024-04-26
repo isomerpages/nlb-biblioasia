@@ -111,11 +111,11 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <b></b>
-	In 1987, Stella Kon donated early drafts of her iconic play, <i>Emily of Emerald Hill</i>, to the National Library as well as a notebook where she has jotted down some initial thoughts and ideas for the play. These include the very first draft titled <i>Portrait of a Nonya: A Monodrama</i> and the fourth draft, <i>Emily of Emerald Hil</i>. She followed up with another donation in 2015 of 39 manuscripts and typescripts of her other plays. These items can be viewed via walk-in requests at the Level 11 Information Counter of the Lee Kong Chian Reference Library, National Library Building, or upon prior reservation via the catalogue.<br></div>
+	In 1987, Stella Kon donated early drafts of her iconic play, <i>Emily of Emerald Hill</i>, to the National Library as well as a notebook where she has jotted down some initial thoughts and ideas for the play. These include the very first draft titled <i>Portrait of a Nonya: A Monodrama</i> and the fourth draft, <i>Emily of Emerald Hill</i>. She followed up with another donation in 2015 of 39 manuscripts and typescripts of her other plays. These items can be viewed via walk-in requests at the Level 11 Information Counter of the Lee Kong Chian Reference Library, National Library Building, or upon prior reservation via the catalogue.<br></div>
 	
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/Eriko.png">
-<b>Dr Eriko Ogihara-Schuck</b>, originally from Japan, is a lecturer in American Studies at Technische Universität Dortmund, Germany. She is the author of <i>Miyazaki’s Animism Abroad: The Reception of Japanese Religious Themes by American and German Audiences (McFarland, 2014)</i>. </div>
+<b>Dr Eriko Ogihara-Schuck</b>, originally from Japan, is a lecturer in American Studies at TU Dortmund University in Germany. She is the author of <i>Miyazaki’s Animism Abroad: The Reception of Japanese Religious Themes by American and German Audiences (McFarland, 2014).</i> </div>
 
 #### **Notes**
 
