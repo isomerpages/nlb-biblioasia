@@ -189,7 +189,7 @@ In 1987, Stella Kon donated early drafts of her iconic play, <i>Emily of Emerald
 
 [^29]: “A Woman of Many Faces,” _Asiaweek_, 21–28 December 1984, 33.
 
-[^30]: Correspondence with Max Le Blond, 28 December 2023; Correspondence with Margaret Chan, 5 January 2024.
+[^30]: Correspondence with Max Le Blond, 28 December 2023.
 
 [^31]: Correspondence with Margaret Chan, 5 January 2024.
 
