@@ -181,7 +181,7 @@ In 1987, Stella Kon donated early drafts of her iconic play, <i>Emily of Emerald
 
 [^25]: Correspondence with Chin San Sooi, 5 December 2023. A few years after staging Kon’s _A Breeding Pair_, Chin impressed the German Embassy in Malaysia in 1974 by successfully staging German playwright Bertolt Brecht’s _The Caucasian Chalk Circle_ in an innovatively minimalist style, using only 10 actors instead of the original 50. In _Lady White_, the very first play Chin wrote and directed in 1976, he creatively turned the audience into a fellow actor by making an actor approach someone in the audience to read his fortune. His _Refugees:_ _Images_, a critique of the Malaysian government’s treatment of refugees, completed in 1980, was meant to become the first Malaysian musical although it was banned from being performed for two decades.
 
-[^26]: Correspondence with Chin San Sooi, 5 December 2023. The premiere was done in an ad hoc manner, with a temporary stage and electricity drawn from the main office for lighting and air conditioning.
+[^26]: Correspondence with Chin San Sooi, 5 December 2023. The premiere was done in an ad hoc manner, with a temporary stage and electricity drawn from the main office for lighting and air-conditioning.
 
 [^27]: J.C. Forou, “A Story Told, a Cultural Sub-Type Vitalised,” _New Straits Times_, 2 December 1984. (From KLIK) 
 
