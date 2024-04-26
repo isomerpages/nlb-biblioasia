@@ -143,17 +143,17 @@ In 1987, Stella Kon donated early drafts of her iconic play, <i>Emily of Emerald
 
 [^6]: Correspondence with Stella Kon, 3 December 2023.
 
-[^7]: Stella Kon, [_Portrait of A Nonya: A Monodrama_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), unpublished manuscript, 1980, 16. (From National Library, Singapore, call no. RCLOS S822 KON)
+[^7]: Stella Kon, [_Portrait of a Nonya: A Monodrama_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), unpublished manuscript, 1980, 16. (From National Library, Singapore, call no. RCLOS S822 KON)
 
 [^8]: Correspondence with Stella Kon, 18 March 2024.
 
 [^9]: Correspondence with Stella Kon, 18 March 2024.
 
-[^10]:  Kon, [_Portrait of A Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 3.
+[^10]:  Kon, [_Portrait of a Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 3.
 
 [^11]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114)_,_ 3.
 
-[^12]: Kon, [_Portrait of A Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 7.
+[^12]: Kon, [_Portrait of a Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 7.
 
 [^13]: Correspondence with Stella Kon, 27 March 2024.
 
