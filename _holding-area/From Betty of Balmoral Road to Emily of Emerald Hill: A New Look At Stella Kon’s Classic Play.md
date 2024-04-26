@@ -36,6 +36,9 @@ The first-ever performance of the play took place in 1984 in Seremban, Negri Sem
 
 Kon, who is Peranakan, spent her formative years at 117 Emerald Hill Road and had been exposed to theatre at an early age. She was inspired by her mother, Rosie Lim Guat Kheng, who was an amateur actress, and Kon’s theatre-loving father Lim Kok Ann.[^1] While studying at the University of Singapore (now National University of Singapore), Kon wrote a short play titled _Birds of a Feather_ in 1966 which was staged by the university’s students on an exchange trip to France. 
 
+![](/images/Vol%2020%20Issue%202/Emily/img4.png)
+<div style="background-color:white;">Family photograph of Seow Poh Leng and Polly Tan (Stella’s grandmother) with their children, Rosie (later Mrs Lim Kok Ann and Stella Kon’s mother) and Eugene, 1925–35. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
+
 Following her marriage and move to Ipoh in 1967, Kon began writing longer plays. In 1971, her double bill of two science-fiction plays, _A Breeding Pair_, was produced by the Ipoh Players, the resident theatre company of Ipoh’s Anglo-Chinese School. Its director was Chin San Sooi. 
 
 Kon began writing _Emily of Emerald Hill_ in Ipoh in 1982, and completed it in Britain when she moved there for the education of her two sons. The idea for the play originally came from Ong Su-Ming, one of the leaders of the school’s theatre company. On hearing Kon lament that the plays which had earlier won her the first prize at the Singapore Playwriting Competition had not yet been staged in Singapore because they needed a large cast, Ong suggested that she write a play with a single character.[^2]
@@ -45,9 +48,6 @@ Ong told Kon about the American playwright William Luce’s one-woman play, _The
 #### **Two Different Versions**
 
 Kon then began work on what would eventually become _Emily of Emerald Hill_. The original title was _Betty of Balmoral Road_, with Betty being the name of Kon’s aunt who actually did live on Balmoral Road in Singapore. But even at that early stage, the main character was inspired by Kon’s grandmother Polly Tan, who lived on Emerald Hill Road. According to Kon, Polly Tan was “the model for Emily – in character, but not in the events of her life”. Polly was “not an unwanted and abused child, her son did not kill himself”, and Kon had “never heard the slightest hint of trouble in her married life”. But Polly’s “charm, her hospitality and generosity, her robust energy and love of life – the strength of a woman who returned to Singapore as a widow [after the Japanese Occupation]” – all went into _Emily_.[^5] 
-
-![](/images/Vol%2020%20Issue%202/Emily/img4.png)
-<div style="background-color:white;">Family photograph of Seow Poh Leng and Polly Tan (Stella’s grandmother) with their children, Rosie (later Mrs Lim Kok Ann and Stella Kon’s mother) and Eugene, 1925–35. <i>Lee Brothers Studio Collection, courtesy of National Archives of Singapore.</i></div>
 
 By the time Kon started jotting down ideas for the play in 1981, she had changed the titular character’s name to Emily while keeping Balmoral Road as the setting. Kon felt that the name Emily was more fitting than Betty given that the character was born in the 1910s. It was a pure coincidence that the name ended up being the same as the main character of _The Belle of Amherst_.[^6]
 
