@@ -33,7 +33,7 @@ The first-ever performance of the play took place in 1984 in Seremban, Negri Sem
 <div style="background-color:white;"> Malaysian teacher, theatre director and playwright&nbsp;Chin San Sooi directed the first&nbsp;<i>Emily of Emerald Hill</i>&nbsp;in 1984 in Seremban. <i>Courtesy of Chin San Sooi.</i></div>
 
 ![](/images/Vol%2020%20Issue%202/Emily/img_7.png)
-<div style="background-color:white;">Malaysian actress Leow Puay Tin’s performance of Emily of Emerald Hill in 1987. <i>Courtesy of Leow Puay Tin.</i></div>
+<div style="background-color:white;">Malaysian actress Leow Puay Tin’s performance of <i>Emily of Emerald Hill</i> in 1987. <i>Courtesy of Leow Puay Tin.</i></div>
 
 #### **Beginnings in Ipoh**
 
