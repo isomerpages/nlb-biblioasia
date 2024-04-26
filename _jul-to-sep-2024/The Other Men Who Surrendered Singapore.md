@@ -1,6 +1,6 @@
 ---
 title: The Other Men Who Surrendered Singapore
-permalink: /holding-area/test-surrender/
+permalink: /vol-20/issue-2/jul-sep-2024/men-surrender-singapore-japanese-occupation/
 variant: markdown
 description: Arthur E. Percival should not have been made the convenient
   scapegoat for the fall of Singapore on 15 February 1942. Eleven other men had

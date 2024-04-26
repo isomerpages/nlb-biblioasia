@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 1/Singapore Speedway/Hero_img_Speedway2.jpg
   - infopic:
+      title: The Other Men Who Surrendered Singapore
+      subtitle: WAR and Military
+      id: infopic
+      description: Eleven other men had taken the decision with Arthur E. Percival to
+        surrender Singapore to the Japanese on 15 February 1942
+      button: NOT BY ONE MAN ALONE
+      url: /vol-20/issue-2/jul-sep-2024/men-surrender-singapore-japanese-occupation/
+      image: /images/Vol-12-issue-4/surviving-japanese-occupation/1-surviving-japanese-occupation.png
+      alt: Image alt text
+  - infopic:
       title: The Tragedy of Singapore’s First Boxing Superstar
       subtitle: Podcast
       id: infopic
