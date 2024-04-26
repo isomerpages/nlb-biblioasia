@@ -29,6 +29,9 @@ And while very much a Singaporean story – Emily Gan is, after all, a Peranakan
 
 The first-ever performance of the play took place in 1984 in Seremban, Negri Sembilan. This production by Five Arts Centre was directed by Malaysian teacher, theatre director and playwright Chin San Sooi with Leow Puay Tin as the first Emily. The play became so beloved across the Causeway that Pearlly Chua, who first began performing as Emily in 1990, has done so hundreds of times over the last three decades.
 
+![](/images/Vol%2020%20Issue%202/Emily/img10.png)
+<div style="background-color:white;"> Malaysian teacher, theatre director and playwright&nbsp;Chin San Sooi directed the first&nbsp;<i>Emily of Emerald Hill</i>&nbsp;in 1984 in Seremban. <i>Courtesy of Chin San Sooi.</i></div>
+
 #### **Beginnings in Ipoh**
 
 Kon, who is Peranakan, spent her formative years at 117 Emerald Hill Road and had been exposed to theatre at an early age. She was inspired by her mother, Rosie Lim Guat Kheng, who was an amateur actress, and Kon’s theatre-loving father Lim Kok Ann.[^1] While studying at the University of Singapore (now National University of Singapore), Kon wrote a short play titled _Birds of a Feather_ in 1966 which was staged by the university’s students on an exchange trip to France. 
