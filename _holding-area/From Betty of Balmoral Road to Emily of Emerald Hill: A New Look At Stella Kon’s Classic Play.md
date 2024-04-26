@@ -160,7 +160,7 @@ Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also p
 
 [^14]: William Luce, _The Belle of Amherst_ (Boston: Houghton Mifflin Company, 1978), 2.
 
-[^15]: Kon, [_Portrait of a Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 8; 17..
+[^15]: Kon, [_Portrait of a Nonya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6012198), 8; 17.
 
 [^16]: Kon, [_Emily of Emerald Hill_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202831114), 38–39
 
