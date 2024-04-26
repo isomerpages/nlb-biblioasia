@@ -29,7 +29,7 @@ And while very much a Singaporean story – Emily Gan is, after all, a Peranakan
 
 The first-ever performance of the play took place in 1984 in Seremban, Negri Sembilan. This production by Five Arts Centre was directed by Malaysian teacher, theatre director and playwright Chin San Sooi with Leow Puay Tin as the first Emily. The play became so beloved across the Causeway that Pearlly Chua, who first began performing as Emily in 1990, has done so hundreds of times over the last three decades.
 
-![](/images/Vol%2020%20Issue%202/Emily/img10.png)
+![](/images/Vol%2020%20Issue%202/Emily/img_10.png)
 <div style="background-color:white;"> Malaysian teacher, theatre director and playwright&nbsp;Chin San Sooi directed the first&nbsp;<i>Emily of Emerald Hill</i>&nbsp;in 1984 in Seremban. <i>Courtesy of Chin San Sooi.</i></div>
 
 ![](/images/Vol%2020%20Issue%202/Emily/img_7.png)
@@ -60,9 +60,8 @@ In _Emily_, the climax of the play is when Emily accepts her daughter’s marria
 
 _Portrait_ and _Emily_ also have different opening scenes. _Portrait_ begins with Emily visiting the market and the audience hearing Emily bawling offstage. “Ah Hoon! Ah Hoon! Open the door! Bring the basket! Call the driver! Tell him nonya besar wants to go to market!” Then she appears on stage and, addressing the audience, says: “Hei, Botak! What are you doing ah! What kind of fish you sent to me yesterday? All rotten ones lah! Yes! You want me to show you, all the ikan parang all stinking rotten lah! How to eat ah? You want my family all go to hospital die ah?”[^10]
 
-![](/images/Vol%2020%20Issue%202/Emily/img12.png)
+![](/images/Vol%2020%20Issue%202/Emily/img_12.png)
 <div style="background-color:white;"> The opening scene from&nbsp;<i>Portrait of a Nonya</i>, where Emily buys&nbsp;<i>sotong</i>&nbsp;and prawns from Botak, the fishmonger.&nbsp;<i>Image reproduced from Stella Kon, Portrait of A Nonya: A Monodrama, unpublished manuscript, 1980, 3. (From National Library, Singapore, call no. RCLOS S822 KON).</i></div>
-
 
 The final script, however, opens with Emily speaking to people on the phone, starting with her friend Susie. “Susie ah! Emily here ah. This afternoon I’m going to town, anything that you’re needing? I’ve got the chicken you wanted from market; and I saw some good jackfruit, your children love it, so I bought one big one for you. What else you need?” Emily then calls the Adelphi Hotel and speaks “in an upper-class educated voice”.[^11] In _Portrait_, a version of this scene was situated in the middle of Scene Two.[^12] Kon created this new opening in order to bring the audience’s immediate attention to Emily’s linguistic code-switching and make them laugh.[^13]
 
