@@ -105,6 +105,9 @@ Their fascination with the play is, of course, a crucial reason for its longevit
 
 But audience demand is an important factor as well. After all, if no one buys tickets, no theatre company can afford to produce the play. “I stage the play every year because people ask me to do so,” Chin said.[^43] Woo Yee Saik, who produced Chin’s _Emily_ in 2002 in Georgetown, Penang, and would go on to produce four more _Emily_ performances, said that he has met many people, both Peranakans and non-Peranakans, who told him that they have someone similar to Emily in their family – either their mother, grandmother or aunt.[^44]
 
+![](/images/Vol%2020%20Issue%202/Emily/img11.png)
+<div style="background-color:white;"> The programme of a production of <i>Emily of Emerald Hill</i> in 1996 by Singaporean actress Neo Swee Lin. The cover art for the programme features a watercolour painting by renowned Peranakan artist, Martin Loh.&nbsp;<i>Collection of the Peranakan Museum. Gift of Stella Kon.</i></div>
+
 #### **My Personal Experience with Emily**
 
 I watched _Emily_ live on stage for the first time in Kuala Lumpur in July 2023. Watching the play in person was a much more intense experience than watching the online videos (of Pearlly Chua, Margaret Chan and Laura Kee). I remember most vividly the scene where Emily was meant to cry. Chua actually did not cry as the tears did not roll down her face. Instead, the tears just pooled in her eyes which made her eyes shine under the bright stage lights. To me, this was more poignant than if she had actually cried.
