@@ -105,20 +105,16 @@ soy sauce<br>
 
 #### **Related Articles**
 
-[The Role of Foraging in Malay Cuisine](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/theroleofforaging/)
-
+[The Role of Foraging in Malay Cuisine](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/theroleofforaging/)<br>
 From forests to coastlines, the Malay community has foraged for food for centuries. Khir Johari examines this way of life before land reclamation, when food was largely seasonal and indigenous communities had intimate knowledge of their natural world.
 
-[Kampong Glam](https://www.nlb.gov.sg/main/article-detail?cmsuuid=47db69f8-11cf-49ec-b0a8-3e16ca018bb9)
-
+[Kampong Glam](https://www.nlb.gov.sg/main/article-detail?cmsuuid=47db69f8-11cf-49ec-b0a8-3e16ca018bb9)<br>
 Kampong Glam (originally spelt “Campong Gelam” when it was named around 1830) is one of 10 subzones of the Rochor area located in the central region. The road names in Kampong Glam such as Bussorah, Muscat and Kandahar streets – named after places in the Muslim world – were approved by the municipal commissioners at a meeting held on 15 April 1910. On 7 July 1989, Kampong Glam was gazetted as a conservation area, and it is preserved as a historic part of town.
 
-[Belacan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=146f9837-0235-4f66-a847-2a6e2178b9df)
-
+[Belacan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=146f9837-0235-4f66-a847-2a6e2178b9df)<br>
 _Belacan_ is a condiment made of _geragau_ (krill) that has been salted, dried and fermented, and is an essential ingredient in Peranakan and Malay cuisine. It is usually mixed with chili, lime, salt and sugar to create _sambal belacan_, a must-have chili condiment accompanying meals eaten in many Peranakan, Malay and Eurasian households in Singapore and Malaysia.
 
-[Belacan: Caviar? Or Vile and Disgusting?](https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/)
-
+[Belacan: Caviar? Or Vile and Disgusting?](https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/)<br>
 _Belacan. Terasi. Kapi. Bagoong_. These are some of the names that refer to shrimp paste in Southeast Asia. Although early Europeans to the region were repulsed by it, the locals swear that the condiment gives a kick to any dish.
 
 #### **Related Books**
