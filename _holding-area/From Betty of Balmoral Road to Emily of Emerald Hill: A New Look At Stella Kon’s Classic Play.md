@@ -119,7 +119,7 @@ Community bonding also took place within the play between Emily and the audience
 ![](/images/Vol%2020%20Issue%202/Emily/img9.png)
 <div style="background-color:white;">The three Emilys in <i>Emily: The Musical</i> presented by Musical Theatre Ltd in May 2016 and directed by Sonny Lim with music by Desmond Moey. (From left) Karen Lim as old Emily, Melissa Wei-En Hecker as little Emily and April Kong as adult Emily. <i>Image reproduced from the programme booklet of Emily: The Musical.</i></div>
 
-Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also perhaps a good time for me, and for audiences in Malaysia and Singapore, to send birthday wishes to _Emily_, both the character and the play. Happy birthday Emily! Here’s to another 40 years! Or as the Peranakans would say at auspicious occasions: “_Panjang-panjang umor!_ [Long life!]”
+Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also perhaps a good time for me, and for audiences in Malaysia and Singapore, to send birthday wishes to Emily, both the character and the play. Happy birthday _Emily_! Here’s to another 40 years! Or as the Peranakans would say at auspicious occasions: “_Panjang-panjang umor!_ [Long life!]”
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
