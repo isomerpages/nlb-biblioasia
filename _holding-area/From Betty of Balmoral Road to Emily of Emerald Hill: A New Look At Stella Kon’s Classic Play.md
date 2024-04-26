@@ -104,7 +104,7 @@ Their fascination with the play is, of course, a crucial reason for its longevit
 
 But audience demand is an important factor as well. After all, if no one buys tickets, no theatre company can afford to produce the play. “I stage the play every year because people ask me to do so,” Chin said.[^43] Woo Yee Saik, who produced Chin’s _Emily_ in 2002 in Georgetown, Penang, and would go on to produce four more _Emily_ performances, said that he has met many people, both Peranakans and non-Peranakans, who told him that they have someone similar to Emily in their family – either their mother, grandmother or aunt.[^44]
 
-![](/images/Vol%2020%20Issue%202/Emily/img11.png)
+![](/images/Vol%2020%20Issue%202/Emily/img_11.png)
 <div style="background-color:white;"> The programme of a production of <i>Emily of Emerald Hill</i> in 1996 by Singaporean actress Neo Swee Lin. The cover art for the programme features a watercolour painting by renowned Peranakan artist, Martin Loh.&nbsp;<i>Collection of the Peranakan Museum. Gift of Stella Kon.</i></div>
 
 #### **My Personal Experience with Emily**
