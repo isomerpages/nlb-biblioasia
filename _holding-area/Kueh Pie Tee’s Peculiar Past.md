@@ -33,26 +33,22 @@ Christopher used different moulds to make the _pie tee_ shells, including local 
 
 #### **Related Articles**
 
-[Peranakan (Straits Chinese) Community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1138ea9d-9dbe-4f09-9fef-ba2c7105eb91)
-
+[Peranakan (Straits Chinese) Community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1138ea9d-9dbe-4f09-9fef-ba2c7105eb91)<br>
 In Singapore today, the term “Peranakan” generally refers to a person of mixed Chinese and Malay/Indonesian heritage. Many Singapore Peranakans trace their origins to 15th-century Melaka, where their ancestors were thought to be Chinese traders who married local women.
 
-[Babas and Nonyas: The Peranakan Chinese in Singapore](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/baba-nonya-peranakan-chinese/)
-
+[Babas and Nonyas: The Peranakan Chinese in Singapore](https://biblioasia.nlb.gov.sg/vol-2/issue4/jan-2007/baba-nonya-peranakan-chinese/)<br>
 The local Baba community has a social history that is as fascinating as their material culture is colourful. Known as Peranakan (or Peranakan Cina), the Babas are an acculturated community of Southern Chinese domiciled in the Straits Settlements since they first settled in Melaka in the 16th century.
 
-[Love Is a Many-Layered Thing](https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/kueh-lapis)  
+[Love Is a Many-Layered Thing](https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/kueh-lapis)<br>
 What lies in this vale of tiers? Christopher Tan delves into _lapis legit_, the cake as famous for its exacting recipe as for the unparalleled flavour of its buttery layers.
 
-[The Evolution of Straits-born Cuisine](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine/)
-
+[The Evolution of Straits-born Cuisine](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine/)<br>
 Lee Geok Boi looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be.
 
-[“Mrs Beeton” in Malaya: Women, Cookbooks and the Makings of the Housewife](https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/beeton-malaya-women-cookbooks-housewives/)
-
+[“Mrs Beeton” in Malaya: Women, Cookbooks and the Makings of the Housewife](https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/beeton-malaya-women-cookbooks-housewives/)<br>
 Beyond their literal content, cookbooks offer interesting insights into the domestic space of British Malaya, shedding light on how women saw themselves and how feminine ideals from the West were propagated in the colonial era.
 
-[Milestones to the Metric System](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/metric)  
+[Milestones to the Metric System](https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/metric)<br> 
 Prior to the 1970s, Singapore used three different systems of weights and measures. Shereen Tay traces how we transitioned to the metric system.
 
 #### **Related Books**
