@@ -14,7 +14,8 @@ and cookbooks, in search of the origins of the dish.
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BQRzTFvAWuk?si=LXr-M3xpiB53sKXR"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: Spotify, Apple Podcasts, melisten</p>
+<p>Available on: <a href="https://open.spotify.com/episode/4mrQhkh3be2drnsKsIRMhk" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
+Apple Podcasts, melisten</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
