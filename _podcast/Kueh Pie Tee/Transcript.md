@@ -8,7 +8,7 @@ third_nav_title: Kueh Pie Tee
 <p>[Music playing]</p>
 <p><strong>Jimmy</strong> 
 <br>Hi everyone. My name is Jimmy Yap, and I’m the Editor-in-Chief of <em>BiblioAsia</em>,
-a publication of the National Library of Singapore. Today, we know <em>kueh pie tie</em> as
+a publication of the National Library of Singapore. Today, we know <em><a href="https://www.youtube.com/watch?v=yFO2cLUDagE" rel="noopener noreferrer nofollow" target="_blank">kueh pie tee</a></em> as
 a Peranakan dish. A pastry cup, stuffed with delicious <em>popiah</em> filling.
 But what is this <em>pie tie</em>? Is it really a <em>kueh</em>? To help
 us answer this question is Christopher Tan, a writer, photographer and
