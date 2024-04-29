@@ -25,7 +25,7 @@ sections:
         moulds.
       button: A CROQUETTE-LIKE SNACK
       url: /videos/kueh-pie-tee/
-      image: "/images/Videos: From Book to Cook/1Kueh pie tee/1christopher_paddy.jpg"
+      image: "/images/Videos: From Book to Cook/1Kueh pie tee/1kueh_pie_tee_rev.jpg"
       alt: Image alt text
   - infopic:
       title: From Betty of Balmoral Road to Emily of Emerald Hill
