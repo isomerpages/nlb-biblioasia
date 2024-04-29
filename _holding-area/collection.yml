@@ -2,8 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - "From Betty of Balmoral Road to Emily of Emerald Hill: A New Look At
-        Stella Kon’s Classic Play.md"
       - "Sea Snail & Papaya Curry: A Eurasian Specialty.md"
       - The Scoop on Otak Blangah.md
       - Soon Kueh Stories.md
