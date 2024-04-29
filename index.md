@@ -895,10 +895,10 @@ sections:
       title: "Kueh Pie Tee: A Detective Story"
       subtitle: PODCAST
       id: infopic
-      description: Kueh pie tee is not a pie that goes with tea. Award-winning author
-        Christopher Tan combs through old newspapers and cookbooks for the
-        origins of the dish.
+      description: Kueh pie tee is not a pie that goes with tea. So where did the name
+        (and dish) come from?
       button: Listen to BiblioAsia+
       url: /podcast/kueh-pie-tee/
       alt: Image alt text
+      image: /images/Podcast/isomer_Christopher_podcast.jpg
 ---
