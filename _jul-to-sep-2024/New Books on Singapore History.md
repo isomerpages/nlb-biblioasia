@@ -64,3 +64,4 @@ Call no.: RSING 720.95957 TO
 ![](/images/Vol%2020%20Issue%202/New%20Books/Idea.jpg)
 
 _To Draw an Idea_&nbsp;charts W&nbsp;Architects’&nbsp;evolution over the last four decades and the design development of its key projects since its founding in 1981 by pioneer local architect William Lim. Featured in the book are more than 200 conceptual sketches, architectural drawings and artefacts from the firm’s archives, along with behind-the-scenes stories of how the firm realised its creative visions.
+
