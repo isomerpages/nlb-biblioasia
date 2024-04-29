@@ -880,4 +880,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: Kueh Pie Tee or Kwei Patti
+      subtitle: From Book to Cook
+      id: infopic
+      description: What’s in a name? Food writer and cooking instructor Christopher
+        Tan delves into the origins of this crispy snack made using vintage
+        moulds.
+      button: A CROQUETTE-LIKE SNACK
+      url: /videos/kueh-pie-tee/
+      image: "/images/Videos: From Book to Cook/1Kueh pie tee/1christopher_paddy.jpg"
+      alt: Image alt text
 ---
