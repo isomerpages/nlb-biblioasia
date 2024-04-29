@@ -15,7 +15,7 @@ _Bunga kobis_, or “cabbage flower” in Malay, isn’t made of flowers or cabb
 <div style="background-color: white;"><i>Bunga kobis</i> cut open to reveal its many layers, showing its resemblance to a head of cabbage.</div><br>
 <img src="/images/Videos:%20From%20Book%20to%20Cook/3Bunga%20Kobis/Toffa_and_Paddy.jpg" style="width:80%">
 <div style="background-color: white;">Host Paddy (left) and Toffa frying one of the six layers of <i>bunga kobis</i>.
-</div><br>
+</div>
 
 #### **Recipes**
 Making _bunga kobis_ is painstaking work and extremely challenging because of the number of layers it involves. Hajjah Asfiah’s recipe calls for six layers, each fried and nested within the next layer.
