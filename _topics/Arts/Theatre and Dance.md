@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/"> From Betty of Balmoral Road to Emily of Emerald Hill: A New Look at Stella Kon’s Classic Play	</a><br>
+A study of early drafts of&nbsp;_Emily of Emerald Hill_&nbsp;reveals fascinating choices and paths not taken.
+
+<img src="/images/Vol%2020%20Issue%202/Emily/img_2.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/singapore-dance-theatre-ballet"> A Well-Choreographed Move: From Singapore Dance Theatre to Singapore Ballet	</a><br>
 As the history of the company shows, its new name is less about breaking away from the past as it is about leaping confidently into the future.
 
