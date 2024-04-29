@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcycle-racing/
-      button: A Quick History of the Singapore Speedway
+      url: /vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/
+      button: Singapore's Hippie Hysteria and the Ban on Long Hair
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 1/Singapore Speedway/Hero_img_Speedway2.jpg
+      background: /images/Vol 20 Issue 1/Hippie Hysteria/Hero_img_Hippie.jpg
   - infopic:
       title: The Other Men Who Surrendered Singapore
       subtitle: WAR and Military
