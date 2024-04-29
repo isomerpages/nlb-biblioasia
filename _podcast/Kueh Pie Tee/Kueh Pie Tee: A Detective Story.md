@@ -14,7 +14,9 @@ and cookbooks, in search of the origins of the dish.
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BQRzTFvAWuk?si=LXr-M3xpiB53sKXR"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: Spotify, Apple Podcasts, melisten</p>
+<p>Available on: <a href="https://open.spotify.com/episode/4mrQhkh3be2drnsKsIRMhk" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
+<a href="https://podcasts.apple.com/us/podcast/kueh-pie-tee-a-detective-story/id1688142751?i=1000653863068" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>
+</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
@@ -45,6 +47,8 @@ and America's <em>Saveur </em>magazine. He has authored and co-authored
 many cookbooks, most recently <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker 2: Tales from the Yeast Indies</a> </em>(Epigram
 Books, 2024). He loves making meaning with words, images and food.&nbsp;</p>
 <p></p>
+<h4><strong>Christopher Makes Kueh Pie Tee</strong></h4>
+<h4></h4>
 <h4><strong>Resources</strong></h4>
 <p>Susie Hing, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a>&nbsp;</em>(Singapore:
 Mun Seong Press, 1956). (Call no<em>. </em>RSING 641.59595 HIN-[RFL])</p>
@@ -64,6 +68,3 @@ Tanjong Katong" was composed by Osman Ahmad and performed by <a href="https://ww
 Special thanks to Christopher for coming on the show.</p>
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
 of Singapore.</p>
-<p><a href="https://nlb-ba-staging.netlify.app/podcast/singapores-first-boxing-superstar-tan-tang-kee/transcript/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
-<p></p>
