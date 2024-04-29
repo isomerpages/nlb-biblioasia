@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 1/Hippie Hysteria/Hero_img_Hippie.jpg
   - infopic:
+      title: "Kueh Pie Tee: A Detective Story"
+      subtitle: PODCAST
+      id: infopic
+      description: Kueh pie tee is not a pie that goes with tea. So where did the name
+        (and dish) come from?
+      button: Listen to BiblioAsia+
+      url: /podcast/kueh-pie-tee/
+      alt: Image alt text
+      image: /images/Podcast/isomer_Christopher_podcast.jpg
+  - infopic:
       title: Kueh Pie Tee or Kwei Patti
       subtitle: From Book to Cook
       id: infopic
@@ -891,14 +901,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: "Kueh Pie Tee: A Detective Story"
-      subtitle: PODCAST
-      id: infopic
-      description: Kueh pie tee is not a pie that goes with tea. Award-winning author
-        Christopher Tan combs through old newspapers and cookbooks for the
-        origins of the dish.
-      button: Listen to BiblioAsia+
-      url: /podcast/kueh-pie-tee/
-      alt: Image alt text
 ---
