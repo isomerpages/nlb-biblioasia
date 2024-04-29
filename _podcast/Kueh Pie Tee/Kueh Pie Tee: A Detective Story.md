@@ -45,6 +45,8 @@ and America's <em>Saveur </em>magazine. He has authored and co-authored
 many cookbooks, most recently <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker 2: Tales from the Yeast Indies</a> </em>(Epigram
 Books, 2024). He loves making meaning with words, images and food.&nbsp;</p>
 <p></p>
+<h4><strong>Christopher Makes Kueh Pie Tee</strong></h4>
+<h4></h4>
 <h4><strong>Resources</strong></h4>
 <p>Susie Hing, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a>&nbsp;</em>(Singapore:
 Mun Seong Press, 1956). (Call no<em>. </em>RSING 641.59595 HIN-[RFL])</p>
