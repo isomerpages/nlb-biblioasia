@@ -15,7 +15,7 @@ and cookbooks, in search of the origins of the dish.
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/episode/4mrQhkh3be2drnsKsIRMhk" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
-Apple Podcasts, melisten</p>
+<a href="https://podcasts.apple.com/us/podcast/kueh-pie-tee-a-detective-story/id1688142751?i=1000653863068" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, melisten</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
