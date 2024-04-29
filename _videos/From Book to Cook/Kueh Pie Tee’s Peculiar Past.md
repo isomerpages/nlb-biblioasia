@@ -1,8 +1,9 @@
 ---
 title: Kueh Pie Tee’s Peculiar Past
-permalink: /holding-area/kueh-pie-tee/
+permalink: /videos/kueh-pie-tee/
 variant: markdown
 description: ""
+third_nav_title: From Book to Cook
 ---
 #### Where did _kueh pie tee_ get its name? Why is it considered a Peranakan dish? Cookbook author Christopher Tan dives into the mystery of this crispy snack as he makes them using vintage moulds.
 
