@@ -119,7 +119,7 @@ a fish, another one shaped like a slice of pie, and they had standard sort
 of fluted cup shapes which are practically identical to our <em>kueh pie tee</em> moulds.&nbsp;</p>
 <p><strong>Jimmy</strong> 
 <br>Yeah. And these are moulds that are used in the US?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>In Swedish-American cooking. It’s associated with the Swedish community.
 And so, the other name for them was Patty Iron. <em>Aha</em>... Okay. So,
 there’s a couple of other names for them. Some people call them <em>timbale </em>moulds
@@ -128,9 +128,9 @@ It’s a fancy French word for “cup”, basically. And if you go back, dive
 back into our local sources, you do find the words “patty iron” and “patty
 shell” being associated with <em>kueh pie tee</em>. In our local newspapers,
 patty shells were mentioned earlier than <em>kueh pie tee</em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Referring to the same dish?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Referring to <em>a</em> dish. So, we had a couple of American-style recipes,
 and I found this in the clippings from the <em>Morning Tribune</em> in 1936
 and 1937. They mentioned patty shells, no lengthy explanation of what they
@@ -148,9 +148,9 @@ are now, the National Archives, mentioned that someone was selling <em>pie tee</
 the description: “This consists of bits of meat and vegetable packed in
 a tiny pastry cup and bathed in two delicate sauces.”&nbsp;</p>
 <p>That’s all the information we were given.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Right.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>But I, for one, find it interesting the fact that the reporter felt it
 necessary to give a description. In general, people did not encounter [<em>pie tee</em>]
 that often. Okay, but apart from that we have no idea whether this was
@@ -162,27 +162,27 @@ you should stock, what equipment every good cook’s kitchen should have.&nbsp;<
 a kueh patty iron for frying batter.” And it’s spelt P-A-T-T-Y. But the
 word is <em>kueh</em> patty iron. So, this is the earliest concrete link
 we have to the American patty iron.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Back in 1978, the <em>New Nation</em> reported on a shop at Joo Chiat, which
 is still there – Kueh Guan Huat. And it says, I quote, “A shop at 95 Joo
 Chiat Road, which sells freshly made white and egg <em>popiah</em> skins
 as well as <em>kueh pie tee </em>cups (crispy patty shells).” So, it still
 explicitly equates <em>kueh pie tee</em> cups with patty shells, which is,
 you know, another firm link to the American name for them.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>In your episode of <em>From Book to Cook</em> – you made <em>kueh pie tee</em> using
 a recipe from Suzy Hing’s cookbook.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Yes.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br><em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a></em>.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Yeah.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>That was actually published in 1956. So, for the people haven’t watched
 the video yet, how is Suzy Hing’s recipe different from the <em>kueh pie tee</em> that
 we know today?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>So how it’s different from what we know today as <em>pie tee</em> – she
 used milk as the base for the sauce thickened with flour, which has been
 fried in butter first. So, it’s like a classic white sauce, what the British
@@ -196,19 +196,19 @@ you know, until I wrote my book, <em>The Way of Kueh</em>, it never occurred
 to me to delve into the history as deeply as this. And so, all of this,
 you know, the first time I clapped eyes on all this information, it was
 all new to me as well.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Fantastic.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>So, I just find it, you know, some of our heritage foods have such an
 unlikely and unexpected origin.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>You filmed yourself [making <em>pie tee</em>] on Instagram and it looked
 like a lot of work. You take the hot mould and then you dip it in batter
 and you put in hot oil. I was like, okay, it looks really dangerous. I
 mean, it looked really pretty on your video. It looks really dangerous.
 And I’m like, okay, maybe it’s just better to buy these shells, but is
 there a reason to make them on your own these days?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>I mean, okay, I don’t want to impose my priorities on all the cooks out
 there, but I always think if you want to know how good something can really
 be and how good something can really taste, you have to make it for yourself
@@ -226,12 +226,12 @@ the chili sauce, someone picks the coriander, someone makes the <em>pie tee</em>
 <p>So, divide and conquer.&nbsp;</p>
 <p><em>Pie tee</em> is one of these dishes that to me emphasises and embodies
 family ties and community ties.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay, don’t tell anybody. But when I have <em>popiah</em> parties, I order
 it and then they have all the ingredients and all the things. And I make
 it very badly and everything collapses, as I put it in my mouth. But, you
 know, let's just keep this a secret between the two of us.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>As long as your mouth is happy, that’s the most important thing, you know?
 But I encourage everyone, if you’ve never made it, it is quite fun, you
 know? And for people who are scared of dipping things into hot oil, just
@@ -241,10 +241,10 @@ not leap out at you.&nbsp;</p>
 <p>And because you actually keep the heat relatively low, because you have
 to slowly fry the patty shell until it’s crispy. So, it’s not you know,
 other things are fried at much higher temperatures.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>You’re very familiar with old cookbooks. What’s special about this? I
 mean, what stood out for you when you went through this cookbook?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>First thing was the cover. Actually, when I first saw it, you know, the
 fact that it’s called <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a></em>.&nbsp;</p>
 <p>So, this is when Singapore and Malaysia were collectively referred to
@@ -271,20 +271,20 @@ Dutch dishes, including the <em>rissole </em>I mentioned, and you have Dutch-Ind
 dishes which combine both Indonesian and Dutch ingredients and influences.&nbsp;</p>
 <p>And then you have fairly Chinese dishes as well. And then you have some
 dishes which are pure Indonesian.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>It really is a Malayan sort of cookbook.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>And if you look at other cookbooks from around the same time, Ellis Handy’s,
 you know, <em>My Favourite Recipes</em>. They were similarly freewheeling
 in that respect, you know, mixing Malay and Chinese and Eurasian and Peranakan
 and Western dishes.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Up till very, very recently, most people only knew Suzy Hing because of
 the name on that cookbook.</p>
 <p>But then somehow very recently we’ve just come to know a little bit more
 about that. Part of it, you know, is thanks to you. So, give us a little
 bit of an insight into how that happened.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Ah, so, I did previously write about one of Suzy Hing’s recipes in <em>BiblioAsia</em>,
 an article I did about <em><a href="https://biblioasia.nlb.gov.sg/vol-16/issue-4/jan-mar-2021/kueh-lapis/" rel="noopener noreferrer nofollow" target="_blank">kueh lapis legit</a></em> otherwise
 known as <em>spekkoek</em>. A very classic Dutch-slash-Indonesian version
@@ -295,7 +295,7 @@ equipment and recipes in a book. And then someone left a comment on my
 post saying, “I happen to be Suzy Hing’s great-niece.” Social media has
 a lot of pros and cons, but one of the pros is making connections like
 this.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>It’s amazing.&nbsp;</p>
 <p>Actually, what’s happened since is that we’ve done some research on our
 end and I think a lot of people suspected Suzy Hing had a Javanese connection
@@ -312,13 +312,13 @@ sadly, she was widowed at a young age and they had no kids.&nbsp;</p>
 <p>The family is well-connected socially because, you know, Lady Yuen-Peng
 McNiece, you know, wrote a foreword [for] her cookbook. So, knowing all
 this about Suzy, does that give you more insight into her book?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>I think it really explains, you know, why there are so many different
 influences in the book. And man, I wish I had been part of her household
 back in the day and tasting all these things. That’s fascinating that that
 her husband is from British Guyana. Do you know? Guyana is one of the other
 places in the world that has pineapple tarts.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Oh, really? [laughs] We’re all interconnected through food.&nbsp;</p>
 <p>Malcolm said that Suzy had a collection of recipes, all handwritten in
 English and Javanese, and she tested these recipes with her cousins who
@@ -330,7 +330,7 @@ doing it for the money.&nbsp;</p>
 <p>It sounds like she probably did it as a way to gather all these recipes
 and pass them down to future generations. What does that say to you as
 a writer?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>It says to me that she was very forward thinking, for one thing. It was
 usually the matriarchs who spent time in the kitchen, always had a notebook
 of some kind just to collect all their own recipes and newspaper clippings
@@ -347,14 +347,14 @@ most detailed – are pretty precise.&nbsp;</p>
 you know, how to do this and how to do that. The level of detail that she
 put in is really impressive and really speaks of her desire to bequeath
 something valuable.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I think I really like the word, you know, <em>bequeath</em>, because I
 think that’s what it is. Right? We grew up with, you know, cooking that
 our parents did for us. And then eventually, you know, sadly, they pass
 on. And then if you don’t know how to cook that, then you’ve lost that.&nbsp;</p>
 <p>I know you feature a lot of old cookbooks. What’s the point of collecting
 these old cookbooks? You know, there is any value to having these?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>I use Instagram to share knowledge so that everyone can up their game,
 you know, whether it’s related to cookbooks or <em>kueh</em> making or cooking
 in general. I like to highlight especially heritage knowledge that might
@@ -366,9 +366,9 @@ them.&nbsp;</p>
 <p>Some of them are from sort of archive sources. To me, they are the repository
 of a country’s cooking know-how, they are a record of how people used to
 cook and therefore how people used to eat.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>And live.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>And live. And, you know, no cookbook is just a source of recipes.&nbsp;</p>
 <p>If you read between the lines, you can find out all kinds of interesting
 conclusions and deductions about how people used think about food and incorporate
@@ -383,19 +383,19 @@ measurements.&nbsp;</p>
 <p>It’s almost like a time machine. You make a recipe from 50, 60, 100 years
 ago. And in a small but not insignificant way, you step into the shoes
 of the person who wrote the recipe.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I love that. When I look at an old cookbook, it’s a time machine. And
 when you make those dishes – even more so.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Absolutely.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>That’s amazing. So, the book in <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a></em>,
 is actually going to be reissued sometime in the first half of 2024. It
 might even be out by the time this podcast goes out. You know, there’s
 going to be photography, you know, updated measurements, and some detail
 about Suzy Hing and really gorgeous photographs as well.&nbsp;</p>
 <p>How do you feel about this reissue?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>I think it’s fantastic. You know, we have so many locally published cookbooks
 that deserve to be re-celebrated and reissued and re-highlighted from all
 our communities – from the Malay community, from the Indian community,
@@ -406,9 +406,9 @@ Library. Some of them are in too fragile a state to be easily handled.
 But, you know, there is so much treasure there and, you know, you see a
 lot of verbal sparring on social media about what should be considered
 Singapore’s national dish.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Yes, that’s right.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>You know, and there are so many dishes that people have utterly forgotten
 about that could be possible candidates. And we don’t hear about them.
 But they’re there, you know, So I just really feel that, you know, rather
@@ -416,22 +416,22 @@ than chasing after what the chefs in Spain or Scandinavia or the US are
 doing at the moment, we should all just spend a bit more time delving into
 what we had before, and things that have been cooked and enjoyed on our
 soil.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>You seem to be writing like, you know, I’ve lost count of the number of
 cookbooks you’ve written. How many have you written and what are you working
 on now?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>If you count the books that I’ve written solo and those that I’ve also
 co-written with other people, I think it’s something like 14 or 15.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay, that’s crazy. And what are you working on now?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>So, I think by the time this podcast is released, my next book will be
 out on bookshelves. It’s a sequel to my previous cookbook, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201179326" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker</a></em>.
 And this new one is called <em><a href="https://safe.menlosecurity.com/https:/eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker Two: Tales from the Yeast Indies</a></em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Spelled “yeast”.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>And “Indies” is like indie music. During the “indoor years”, as I call
 them, the last few years, all of us were stuck indoors baking and not allowed
 to go out.&nbsp;</p>
@@ -440,17 +440,17 @@ return to my first love, which is baking. And it’s about the very creative
 and independent perspectives that good bakers bring to what they do. So,
 it’s also a look at that very specific local and Southeast Asian style
 of baking.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What is it? What do you mean by a local? Is there a style of baking?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Look at all the Hainanese bakeries that we have. Again, there’s a few
 remaining at Whampoa. And these bakeries, they supply all the <em>kopitiam</em> with
 the bread for the <em>kaya </em>toast. They supply French loaf, you know
 the old days you didn’t – at least in my family and many Peranakan families
 – you didn’t serve chicken curry with rice; you served it with French loaf.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Do you call it a baguette or call it French loaf?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>No, no, no. It’s not a baguette. I must say. That is not a baguette. It’s
 a French loaf. <em>Roti perancis</em>. Okay. All right. Yeah. An orthodox
 Parisian baguette would be far too chewy to serve with our local food.
@@ -469,32 +469,32 @@ example of milk bread now, which again is a colonial legacy in Indonesia.
 But I don’t just talk about baking in my book, although it is called <em>Nerd Baker 2</em>,
 there are all kinds of steamed <em>kueh</em> and sort of pan-fried things
 that we use fermented foods or yeast in.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So, is it like contemporary recipes or are they...&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>They are a mix of things. So, I have a recipe for French loaf. And then
 there’s a recipe for the <em>kopitiam</em>-style bread. I mentioned in the
 book that I was so happy when I finally managed to duplicate that very
 soft, spongy <em>kopitiam</em> bread – I did a dance around my kitchen.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>The bakeries in Whampoa will put a contract out on you.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Yeah, hopefully not. No, no, no. Please support your local bakeries.&nbsp;</p>
 <p>Okay, I want to make that clear. But yeah, so it’s a blend of my own creations
 and some classic things and you know, some which are sort of my riffs on
 things that we’re all familiar with. So, I have a recipe for an <em>anpan</em> bun,
 like a Japanese red bean bun, which is inspired by the original <em>anpan</em> bun
 from Japan, as well as what we used to buy from Yaohan. Remember Yaohan?&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Yes, yes, yes.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>That everyone used to queue up for in the 80s? Yeah, things like that.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>We met a few days ago and you were talking about toddy and baking and
 so this was a bit mind blowing. Why is toddy – I mean, no, I’m sure nobody
 will complain about having a bit of alcohol in their bread – but why is
 toddy a part of baking?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Toddy is fermented palm sap – and it can be extracted from various species
 of palm coconut palms, Palmyra palms. They have a big spadicle, which is
 like a big flower bud. And then if you make cuts in that, they start to
@@ -503,10 +503,10 @@ microbes in the environment, this ferments and becomes toddy. Okay, so
 it becomes slightly fizzy. The sweetness is enhanced a little bit, and
 then the longer you let it ferment, it becomes slightly alcoholic. And
 then other microbes start to turn the alcohol into vinegar eventually.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Eventually people actually buy it because of the alcohol content, isn’t
 it?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Yes, that’s right. I mean, the alcohol content varies a lot depending
 on your terroir. You use a fancy French to it. But in the sort of late
 1800s, early 1900s, fresh yeast from the west was not readily available
@@ -529,15 +529,15 @@ in the local newspapers. And again, you can see all these advertisements
 in <a href="https://eresources.nlb.gov.sg/newspapers/" rel="noopener noreferrer nofollow" target="_blank">NewspaperSG</a>,
 in [NLB’s] e-resources. They set themselves apart by saying no toddy is
 used in our bread.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I have to ask because I just came back from Melaka. And my father, whenever
 he goes back to Melaka he wants to eat, <em>tapai</em>? Is that from rice?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>And I’m very glad you asked me that because I talk all about <em>tapai</em> in
 my book as well.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Oh fantastic!&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>So <em>tapai</em> – which is Malay, what the Indonesian equivalent is, <em>tapay</em> –
 is a fermented starch of some sort. So, you can have <em>tapai pulut</em>,
 which is fermented glutinous rice, which a lot of Malaysia and Indonesia,
@@ -549,14 +549,14 @@ just let them ferment. And then the yeast breaks down the starches into
 sugars and it comes becomes a very sweet and delightful dessert. And if
 you leave it long enough then you get a very, very, very tiny amount of
 alcohol in the whole thing.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So, what’s really interesting was because we’re sitting around a wedding
 dinner table, and my cousin was saying, “I remember when grandmother, you
 know, whenever she made <em>tapai</em>, shooed everybody out of the room.”
 Nobody could speak because if you didn’t do it properly, it would turn
 pink or something. And so, yes, I guess it speaks to the unreliability
 of making.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>And, you know, in the old days before the science of it was fully known,
 people would come up with all kinds of explanations to account for how
 or why something did not turn out well.&nbsp;</p>
@@ -566,9 +566,9 @@ the taboos for <em>tapai </em>were: if you were pregnant or menstruating,
 you could not make the <em>tapai</em>. You had to make it with all the doors
 and windows closed and with preferably no one else in the room. You could
 not wear red while making it because then it would turn red.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Why is that?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Red or pink is a sign of spoilage in many fermented things.&nbsp;</p>
 <p>There’s always some kernel of truth in all this <em>pantang</em>, no matter
 how outlandish to us. And in the old days because <em>raggi</em> was again
@@ -599,7 +599,7 @@ recipes for cakes and breads made with <em>tapai</em>, so if you like <em>tapai<
 there’s a recipe for how to make <em>tapai ubi kayu</em> from scratch. And
 then how to use that <em>tapai ubi kayu</em> to make very interesting traditional
 Indonesian breads and cakes.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I’m really excited to read your book. I love the title, by the way. I
 think it’s so clever.&nbsp;</p>
 <p>You just have to rush to the bookshops to buy this book because it sounds
@@ -607,12 +607,12 @@ very, very interesting. Christopher, I want to thank you for joining us
 on this podcast.&nbsp;</p>
 <p>Before we go, though, it’s now time for our very popular quickfire questions.&nbsp;</p>
 <p>What is your dream filling for <em>kueh pie tee</em>?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>My dream filling would be an extremely super <em>istimewa</em> deluxe version
 of regular <em>pie tee</em> filling.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What would that consist of?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>The basic <em>bankwang</em> as the base but then [cooked] with a really
 rich pork stock. And I could use something fancy like Iberico pork, right,
 to make a really full-flavored stock. And then I would have mantis prawn,
@@ -623,46 +623,46 @@ prawn <em>popiah</em>. So, I will put that on top and then I would have
 crab meat and homemade chili sauce on the side.&nbsp;</p>
 <p>So a really, really deluxe <em>pie tee</em> filling. And then I would use
 an American mould to get extra big <em>pie tee</em> cups.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I think – I fear – Christopher that you’ve just invited a <em>popiah</em> party
 at your house where people would have very, very high expectations.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>You did say a dream filling. So, you know, it may never become reality,
 but here’s hoping.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay, what’s the one dish you wish you could master or you would like
 to master?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br><em>Aiyo</em>, where to start <em>lah</em>? You know, it’s very funny,
 but every few years, my mind will latch onto something, and will get obsessed
 with a dish. And one of those, in fact, was <em>kueh ambon</em>, which is
 on the cover of my new book. Which took me 10, 15 years to really get a
 handle on.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Yeah. It’s a very finicky <em>kueh</em> to make. Okay. The full recipe’s
 in my book, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203962932" rel="noopener noreferrer nofollow" target="_blank">The Way of Kueh</a></em>,
 but that recipe took me over 10 years to perfect.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Wow.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Or to refine, I should say.&nbsp;</p>
 <p>But what is left out there for me to master that I really want to get
 a handle on? I mean, there are too many to choose just one.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>How about something, something local, or baking related?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Again, too many, so many. I think I’d like to get more into rye bread.
 Like the very hearty and complex rye breads that you find in Scandinavia
 and very dense in the sort of region between China and Russia. There are
 very interesting sorts of Eastern European/Asian-style rye breads. So that’s
 something that you need a lot of time [for] and you need very specific
 ingredients. So that’s something.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Do you, like Suzy Hing, test your recipes on your family? Are they the
 guinea pigs for all your dishes?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>I’m sure some of them might say I inflict my recipes on them, but obviously
 if I am post-mortem-ing and sticking my fingers into things, I don’t give
 them to people to taste. But if I have leftovers from my recipe testing,
@@ -671,45 +671,45 @@ listening and might want to leave a comment on my Instagram asking for
 a taste, sorry you’ll have to take a number. A lot of people ask me that.
 I never like to give someone something until I’m at least 80 percent happy
 with it, right?&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Of course. What’s the one thing you would rather buy than cook on your
 own?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Really, really good ice-cream? My kitchen is too hot. Even with an ice-cream
 maker, my kitchen is too hot to make ice-cream. So, I would gladly shell
 out for really good ice-cream.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>And also, kimchi. I don’t have the space and I don’t have the necessary
 ambient temperatures in my kitchen to make good kimchi on my own. But,
 you know, anyone who’s been to Korea and has had really good artisanal
 kimchi that is still alive and fizzy when you eat, will know what I’m talking
 about.&nbsp;</p>
 <p>Like good, fresh, gut-enhancing kimchi.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Because this is audio you cannot see the look on my face when he said
 fizzy kimchi and the look of horror.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>No, really, when you bite into it right there’s a slight little effervescence
 almost like champagne.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Really?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>And the kind of very complex aftertaste and aroma nuances you get from
 a properly made, well-made kimchi is unlike, you know, all those pre-packaged
 kimchi that you see in the supermarkets. They’re functionally dead because
 they’ve been on the shelf for too long. Yeah, all the microbes are dormant.
 You won’t get this. But once you taste the real thing, it’s very easy to
 get converted.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>On my next trip to Korea, that's what I shall look for. Fizzy kimchi.&nbsp;</p>
 <p>Complete the sentence. Food is...&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Love.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay, but explain why. I mean, food is love. Why?&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>You know, as we mentioned earlier, food is a very concrete way of expressing
 your love for someone. By cooking for them, by serving something to them
 that you’ve made with your own two hands and that you’ve made with the
@@ -719,7 +719,7 @@ of showing your devotion to them and showing your appreciation of them.&nbsp;</p
 <p>And, you know, it’s a trope that Asian parents show their love to their
 kids, not by saying so, but by cutting fruit for them or cooking meals
 for them. You know, and it’s a trope, but it’s also a truth.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Well, thank you very much, Christopher, for joining us on this podcast.
 You know, it was wonderful to have you. Please follow Christopher on Instagram.
 He is @thewayofkueh.&nbsp;</p>
@@ -731,7 +731,7 @@ amazing things that we’re doing at <a rel="noopener noreferrer nofollow" targe
 <p>Christopher, thank you once again. I hope to see you soon. I can’t wait
 to buy your book.&nbsp;</p>
 <p>Thank you very much.&nbsp;</p>
-<p><strong>Christopher</strong>
+<p><strong>Christopher</strong> 
 <br>Thank you, Jimmy.&nbsp;</p>
 <p><strong>Jimmy</strong> 
 <br>If you’ve enjoyed this episode,&nbsp;<a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">subscribe to the podcast</a>&nbsp;and
