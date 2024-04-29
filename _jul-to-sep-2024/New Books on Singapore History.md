@@ -72,6 +72,6 @@ By Tony Tan Keng Yam and Leslie Koh
 Straits Times Press (2023), 348 pages <br>
 Call no.: RSING 959.5705092 TAN
 
-
+![](/images/Vol%2020%20Issue%202/New%20Books/Tony Tan.jpg)
 
 After a career in banking, Dr Tony Tan Keng Yam entered politics in 1979, holding at various times the portfolios of education, defence, finance, health, and trade and industry. In 2011, he contested the presidential election and became Singapore’s seventh president (2011–17). Written from Dr Tan’s point of view, this memoir provides his personal insights and deliberations behind key decisions and policy changes in the areas of education, finance, security and defence, such as the 1979 revamp of the education system, the scrapping of the graduate mothers’ priority scheme and the 1986 Central Provident Fund rate cut.
