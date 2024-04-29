@@ -870,4 +870,14 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: From Betty of Balmoral Road to Emily of Emerald Hill
+      subtitle: Theatre and Dance
+      id: infopic
+      description: A study of early drafts of Emily of Emerald Hill reveals
+        fascinating choices and paths not taken.
+      button: A PERANAKAN MATRIARCH
+      url: /vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/
+      image: /images/Vol 20 Issue 2/Emily/img_2.png
+      alt: Image alt text
 ---
