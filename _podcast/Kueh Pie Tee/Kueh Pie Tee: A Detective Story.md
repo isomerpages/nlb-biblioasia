@@ -64,6 +64,3 @@ Tanjong Katong" was composed by Osman Ahmad and performed by <a href="https://ww
 Special thanks to Christopher for coming on the show.</p>
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
 of Singapore.</p>
-<p><a href="https://nlb-ba-staging.netlify.app/podcast/singapores-first-boxing-superstar-tan-tang-kee/transcript/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
-<p></p>
