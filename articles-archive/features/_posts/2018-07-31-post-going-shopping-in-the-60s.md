@@ -288,7 +288,7 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 
 [^49]:[*Oral history interview with Lee Geok Boi*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/a/a7332309-115e-11e3-83d5-0050568939ad-OHC002678_001/web/html5/index.html), 22 Jul 2002, p. 15.
 
-[^50]:[*Oral history interview with Victor Chew Chin Aik*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/f1078164-115e-11e3-83d5-0050568939ad), 3 Nov 1997, p. 51.
+[^50]:[*Oral history interview with Victor Chew Chin Aik*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html), 3 Nov 1997, p. 51.
 
 [^51]:Chia, M. (1987, December 20). [A grand old lady dons new clothes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871220-1.2.97.5.2.1). *The Straits Times*, p. 4. Retrieved from NewspaperSG; Chua, J.C.H. (Interviewer). (1996, May 14). [*Oral history interview with Khoo Kay Chai*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/4cbdc201-115e-11e3-83d5-0050568939ad-OHC001744_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11) [Transcript of MP3 recording no. 001744/18/05, pp. 73–74]. Retrieved from National Archives of Singapore website.
 
