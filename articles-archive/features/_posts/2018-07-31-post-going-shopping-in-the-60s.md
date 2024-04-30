@@ -214,7 +214,7 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 
 [^12]:[*Oral history interview with Victor Chew Chin Aik*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f1078164-115e-11e3-83d5-0050568939ad-OHC001965_005/web/html5/index.html), 3 Nov 1997, p. 45; Chatfield, G.A. (1962). [*Shops and shopping in Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4077895) (p. 8). Singapore: D. Moore for Eastern Universities Press. (Call no.: RCLOS 959.51 CHA)
 
-[^13]:Zaleha bte Osman. (Interviewer). (1999, April 14). [*Oral history interview with Richard Tan Swee Guan*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f60303c6-115f-11e3-83d5-0050568939ad-OHC002108_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=15) [Transcript of MP3 recording no. 002108/08/03, p. 48]. Retrieved from National Archives of Singapore website.
+[^13]:Zaleha bte Osman. (Interviewer). (1999, April 14). [*Oral history interview with Richard Tan Swee Guan*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f60303c6-115f-11e3-83d5-0050568939ad-OHC002108_003/web/html5/index.html) [Transcript of MP3 recording no. 002108/08/03, p. 48]. Retrieved from National Archives of Singapore website.
 
 [^14]:Lee, P. (Interviewer). (1997, November 3). [*Oral history interview with Hugh William Jamieson*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6b3e6166-1161-11e3-83d5-0050568939ad) [MP3 recording no. 001968/02/02]. Retrieved from National Archives of Singapore website.
 
