@@ -244,7 +244,7 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 
 [^27]:[*Oral history interview with James Koh Cher Siang*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html), 16 May 2008, p. 2.
 
-[^28]:[*Oral history interview with Victor Chew Chin Aik*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f1078164-115e-11e3-83d5-0050568939ad-OHC001965_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7), 3 Nov 1997, p. 50.
+[^28]:[*Oral history interview with Victor Chew Chin Aik*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f1078164-115e-11e3-83d5-0050568939ad-OHC001965_005/web/html5/index.html), 3 Nov 1997, p. 50.
 
 [^29]:[*Oral history interview with Tan Pin Ho*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e3059ece-115e-11e3-83d5-0050568939ad-OHC001864_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), 3 Nov 1997, p. 22.
 
