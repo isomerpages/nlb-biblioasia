@@ -206,7 +206,7 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 
 [^8]:For more on the history of department stores, see Whitaker, J. (2011). [*The department store: History, design, display*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14234687). London: Thames &amp; Hudson. (Call no.: RBUS 381.141 WHI-[BIZ]; Blakemore, E. (2017, November 22). *How 19th-century women used department stores to gain their freedom*. Retrieved from History network website; Glancey, J. (2015, March 26). *A history of the department store*. Retrieved from BBC Culture website.
 
-[^9]:Ruzita Zaki. (Interviewer). (1996, November 14). [*Oral history interview with Mrs Mohamed Siraj*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3b69ed83-115e-11e3-83d5-0050568939ad-OHC001663_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=18) [Transcript of MP3 recording no. 001663/36/05, p. 61]. Retrieved from National Archives of Singapore website
+[^9]:Ruzita Zaki. (Interviewer). (1996, November 14). [*Oral history interview with Mrs Mohamed Siraj*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3b69ed83-115e-11e3-83d5-0050568939ad-OHC001663_005/web/html5/index.html) [Transcript of MP3 recording no. 001663/36/05, p. 61]. Retrieved from National Archives of Singapore website
 
 [^10]:The brothers were Hardial Singh, Inder Singh, Harbans Singh, Hira Singh and Balwant Singh. See Sidhu, R.S. (2017). [*Singapore’s early Sikh pioneers: Origins, settlement, contributions and institutions*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202910368) (pp. 130–131). Singapore: Central Sikh Gurdwara Board. (Call no.: RSING 305.8914205957 SID)
 
