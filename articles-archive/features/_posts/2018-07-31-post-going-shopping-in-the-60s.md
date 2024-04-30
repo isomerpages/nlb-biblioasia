@@ -218,7 +218,7 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 
 [^14]:Lee, P. (Interviewer). (1997, November 3). [*Oral history interview with Hugh William Jamieson*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6b3e6166-1161-11e3-83d5-0050568939ad) [MP3 recording no. 001968/02/02]. Retrieved from National Archives of Singapore website.
 
-[^15]:Zaleha bte Osman. (Interviewer). (1997, October 17). [*Oral history interview with Wang Kathleen Chwee Keng (Mrs), Wang Esther*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/50e8570c-115e-11e3-83d5-0050568939ad-OHC001955_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7) [Transcript of MP3 recording no. 001955/04/01, p. 4]. Retrieved from National Archives of Singapore website.
+[^15]:Zaleha bte Osman. (Interviewer). (1997, October 17). [*Oral history interview with Wang Kathleen Chwee Keng (Mrs), Wang Esther*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/50e8570c-115e-11e3-83d5-0050568939ad-OHC001955_001/web/html5/index.html) [Transcript of MP3 recording no. 001955/04/01, p. 4]. Retrieved from National Archives of Singapore website.
 
 [^16]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1116_2010-06-14.html), 4 Aug 2016; [Little’s Building (sold for $28m) to be pulled down](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730422-1.2.60). (1973, April 22). *The Straits Times*, p. 13; Dhaliwal, R. (1987, April 10). [Journey into the past at Raffles Place MRT stop](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870410.2.53.24). *The Straits Times*, p. 32. Retrieved from NewspaperSG.
 
