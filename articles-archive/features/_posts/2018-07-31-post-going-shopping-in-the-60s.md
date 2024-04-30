@@ -248,7 +248,7 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 
 [^29]:[*Oral history interview with Tan Pin Ho*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e3059ece-115e-11e3-83d5-0050568939ad-OHC001864_002/web/html5/index.html), 3 Nov 1997, p. 22.
 
-[^30]:[*Oral history interview with Victor Chew Chin Aik*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f1078164-115e-11e3-83d5-0050568939ad-OHC001965_005/web/html5/index.html), 3 Nov 1997, p. 51; [*Oral history interview with James Koh Cher Siang*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7), 16 May 2008, p. 3; [*Oral history interview with Yuen Andrew Kum Hong*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7b8af33b-1160-11e3-83d5-0050568939ad), 3 Nov 1997.
+[^30]:[*Oral history interview with Victor Chew Chin Aik*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f1078164-115e-11e3-83d5-0050568939ad-OHC001965_005/web/html5/index.html), 3 Nov 1997, p. 51; [*Oral history interview with James Koh Cher Siang*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html), 16 May 2008, p. 3; [*Oral history interview with Yuen Andrew Kum Hong*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7b8af33b-1160-11e3-83d5-0050568939ad), 3 Nov 1997.
 
 [^31]:Boey, K.C. (2013, September 30). *Change Alley: A poem*. Retrieved from Singapore Memory Project website.
 
