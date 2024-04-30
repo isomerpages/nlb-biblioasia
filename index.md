@@ -28,12 +28,11 @@ sections:
       image: /images/Podcast/isomer_Christopher_podcast.jpg
   - infopic:
       title: Kueh Pie Tee or Kwei Patti
-      subtitle: From Book to Cook
+      subtitle: "Video: From Book to Cook"
       id: infopic
       description: What’s in a name? Food writer and cooking instructor Christopher
-        Tan delves into the origins of this crispy snack made using vintage
-        moulds.
-      button: A CROQUETTE-LIKE SNACK
+        Tan delves into the origins of this tasty Peranakan snack.
+      button: watch the video
       url: /videos/kueh-pie-tee/
       image: "/images/Videos: From Book to Cook/1Kueh pie tee/1kueh_pie_tee_rev.jpg"
       alt: Image alt text
