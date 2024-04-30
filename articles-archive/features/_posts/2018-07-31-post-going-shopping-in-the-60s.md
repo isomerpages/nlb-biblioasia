@@ -202,7 +202,7 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 
 [^6]:Makepeace, W., Brooke, G.E., &amp; Braddell, R.St.J. (Eds.). (1991). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (Vol. 1, p. 234). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
 
-[^7]:Chew, D. (Interviewer). (1985, May 27). [*Oral history interview with Joseph Henry Chopard*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/73b45d78-115f-11e3-83d5-0050568939ad-OHC000561_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11) [Transcript of MP3 recording no. 000561/21/05, p. 61]. Retrieved from National Archives of Singapore website.
+[^7]:Chew, D. (Interviewer). (1985, May 27). [*Oral history interview with Joseph Henry Chopard*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/73b45d78-115f-11e3-83d5-0050568939ad-OHC000561_005/web/html5/index.html) [Transcript of MP3 recording no. 000561/21/05, p. 61]. Retrieved from National Archives of Singapore website.
 
 [^8]:For more on the history of department stores, see Whitaker, J. (2011). [*The department store: History, design, display*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14234687). London: Thames &amp; Hudson. (Call no.: RBUS 381.141 WHI-[BIZ]; Blakemore, E. (2017, November 22). *How 19th-century women used department stores to gain their freedom*. Retrieved from History network website; Glancey, J. (2015, March 26). *A history of the department store*. Retrieved from BBC Culture website.
 
