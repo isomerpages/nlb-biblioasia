@@ -284,7 +284,7 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 
 [^47]:[*Oral history interview with Stella Kon*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1e587729-1161-11e3-83d5-0050568939ad), 13 Apr 2006.
 
-[^48]:[*Oral history interview with Victor Chew Chin Aik*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f1078164-115e-11e3-83d5-0050568939ad-OHC001965_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), 3 Nov 1997; [Big new Singapore store](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380724-1.2.2). (1938, July 24). *The Straits Times*, p. 1; [BATA’s new premises](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19400626-1.2.42). (1940, June 26). *The Malaya Tribune*, p. 4. Retrieved from NewspaperSG.
+[^48]:[*Oral history interview with Victor Chew Chin Aik*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html), 3 Nov 1997; [Big new Singapore store](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380724-1.2.2). (1938, July 24). *The Straits Times*, p. 1; [BATA’s new premises](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19400626-1.2.42). (1940, June 26). *The Malaya Tribune*, p. 4. Retrieved from NewspaperSG.
 
 [^49]:[*Oral history interview with Lee Geok Boi*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/a/a7332309-115e-11e3-83d5-0050568939ad-OHC002678_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=15), 22 Jul 2002, p. 15.
 
