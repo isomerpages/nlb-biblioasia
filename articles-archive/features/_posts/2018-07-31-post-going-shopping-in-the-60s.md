@@ -256,7 +256,7 @@ The really swanky eatery at Raffles Place was G.H. Café, a pre-war institution 
 
 [^33]:[Boey](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13230282), 2009, p. 146.
 
-[^34]:[Change Alley to close for good on April 30](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890418.2.30.10). (1989, April 19). *The Straits Times*, p. 19. Retrieved from NewspaperSG; [*Oral history interview with James Koh Cher Siang*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7), 16 May 2008, p. 2.
+[^34]:[Change Alley to close for good on April 30](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890418.2.30.10). (1989, April 19). *The Straits Times*, p. 19. Retrieved from NewspaperSG; [*Oral history interview with James Koh Cher Siang*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html), 16 May 2008, p. 2.
 
 [^35]:High Street was the first to be macadamed or paved with stones, earning it the title of the oldest street in Singapore. See National Library Board. (2018). [*High Street*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_497_2004-12-15.html) written by Cornelius, Vernon. Retrieved from Singapore Infopedia.
 
