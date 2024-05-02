@@ -32,6 +32,12 @@ Christopher used different moulds to make the _pie tee_ shells, including local 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/1Kueh%20pie%20tee/1american_moulds_set.jpg" style="width:80%">
 <div style="background-color: white;">The American moulds by Hirco came in a set of many different shapes and could be unscrewed from the handle.</div>
 
+#### **Related Podcast**
+
+<b><a href="/podcast/kueh-pie-tee/">Kueh Pie Tee: A Detective Story</a></b><br>
+_Kueh pie tee_&nbsp;is not a pie that goes with tea. So where did the name (and dish) come from? Award-winning cookbook author Christopher Tan combs through old newspapers and cookbooks, in search of the origins of the dish.
+
+
 #### **Related Articles**
 
 [Peranakan (Straits Chinese) Community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1138ea9d-9dbe-4f09-9fef-ba2c7105eb91)<br>
