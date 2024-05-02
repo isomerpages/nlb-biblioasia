@@ -157,7 +157,7 @@ This last point about how the same experiences can bridge generations would earn
 
 [^6]:Chua, J.C.H. (1995, November 7). *[Oral history interview with Chan Kai Yau](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/43511c5c-115e-11e3-83d5-0050568939ad-OHC001707_003/web/html5/index.html)* [Transcript of recording no. 001707/36/3]. Retrieved from National Archives of Singapore website.
 
-[^7]:Pitt, K.W. (1984, November 14). *[Oral history interview with Thevathasan, Gnanasundram (Mrs)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e7c9c34d-115d-11e3-83d5-0050568939ad-OHC000345_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000345/70/63, pp. 6–7]. Retrieved from National Archives of Singapore website.
+[^7]:Pitt, K.W. (1984, November 14). *[Oral history interview with Thevathasan, Gnanasundram (Mrs)](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e7c9c34d-115d-11e3-83d5-0050568939ad-OHC000345_063/web/html5/index.html)* [Transcript of recording no. 000345/70/63, pp. 6–7]. Retrieved from National Archives of Singapore website.
 
 [^8]:Chan, K.S. (2005). *[One more story to tell: Memories of Singapore, 1930s–1980s](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12460547)*. Singapore: Landmark Books. (Call no.: RSING 959.5705092 CHA-[HIS])
 
