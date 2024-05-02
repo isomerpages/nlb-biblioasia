@@ -5,6 +5,7 @@ permalink: /vol-15/issue-1/apr-jun-2019/stories-little-people/
 image: /images/Vol-15-issue-1/stories-of-little-people/01_littleppl.png
 layout: post
 description: ""
+variant: markdown
 ---
 #### Oral history is often considered as “little” – personal accounts of humble folk, as opposed to “big” or written history on serious topics. But “little” does not mean negligible or inferior, says **Cheong Suk-Wai**.
 
@@ -68,7 +69,7 @@ Or take Muslim Religious Council of Singapore pioneer Haji Mohamed Sidek Bin Sir
 
 #### **Experiencing**
 
-Beyond a greater understanding of how Singaporeans evolved amid changing circumstances, the vivid, personal insights afforded by oral history allow readers to experience the force of the very human drama that is real life. Plastic surgeon Lee Seng Teik, for one, recounted effectively the horrors of the *Spyros* ship explosion – still one of the worst industrial accidents in Singapore history – when he recalled “truckloads” of victims arriving at the Singapore General Hospital’s newly minted Accident & Emergency wing on 12 October 1978. He said:
+Beyond a greater understanding of how Singaporeans evolved amid changing circumstances, the vivid, personal insights afforded by oral history allow readers to experience the force of the very human drama that is real life. Plastic surgeon Lee Seng Teik, for one, recounted effectively the horrors of the *Spyros* ship explosion – still one of the worst industrial accidents in Singapore history – when he recalled “truckloads” of victims arriving at the Singapore General Hospital’s newly minted Accident &amp; Emergency wing on 12 October 1978. He said:
 
 <div style="background-color: white;"><img style="width:700px" src="/images/Vol-15-issue-1/stories-of-little-people/05_littleppl.png">Injured victims being rushed to hospital after an explosion and fire on board the Greek oil tanker, <i>S.T. Spyros</i>, on 12 October 1978. Seventy-six people died and 69 others were injured in the accident. <i>Ministry of Health Collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -152,36 +153,36 @@ This last point about how the same experiences can bridge generations would earn
 
 [^4]:Thompson, P. (1983, June 6). Oral history and the historian. *History Today, 33* (6).
 
-[^5]:Tan, L. (1984, October 4). *[Oral history interview with Khoo Teng Soon](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f03465e6-115d-11e3-83d5-0050568939ad-OHC000475_007/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000475/21/7, pp. 82–83]. Retrieved from National Archives of Singapore website.
+[^5]:Tan, L. (1984, October 4). *[Oral history interview with Khoo Teng Soon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f03465e6-115d-11e3-83d5-0050568939ad-OHC000475_007/web/html5/index.html)* [Transcript of recording no. 000475/21/7, pp. 82–83]. Retrieved from National Archives of Singapore website.
 
-[^6]:Chua, J.C.H. (1995, November 7). *[Oral history interview with Chan Kai Yau](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/43511c5c-115e-11e3-83d5-0050568939ad-OHC001707_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001707/36/3]. Retrieved from National Archives of Singapore website.
+[^6]:Chua, J.C.H. (1995, November 7). *[Oral history interview with Chan Kai Yau](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/43511c5c-115e-11e3-83d5-0050568939ad-OHC001707_003/web/html5/index.html)* [Transcript of recording no. 001707/36/3]. Retrieved from National Archives of Singapore website.
 
-[^7]:Pitt, K.W. (1984, November 14). *[Oral history interview with Thevathasan, Gnanasundram (Mrs)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e7c9c34d-115d-11e3-83d5-0050568939ad-OHC000345_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000345/70/63, pp. 6–7]. Retrieved from National Archives of Singapore website.
+[^7]:Pitt, K.W. (1984, November 14). *[Oral history interview with Thevathasan, Gnanasundram (Mrs)](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e7c9c34d-115d-11e3-83d5-0050568939ad-OHC000345_063/web/html5/index.html)* [Transcript of recording no. 000345/70/63, pp. 6–7]. Retrieved from National Archives of Singapore website.
 
-[^8]:Chan, K.S. (2005). *[One more story to tell: Memories of Singapore, 1930S–1980s](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12460547)*. Singapore: Landmark Books. (Call no.: RSING 959.5705092 CHA-[HIS])
+[^8]:Chan, K.S. (2005). *[One more story to tell: Memories of Singapore, 1930s–1980s](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12460547)*. Singapore: Landmark Books. (Call no.: RSING 959.5705092 CHA-[HIS])
 
-[^9]:Chew, D. (1993, September 23). *[Oral history interview with Chan Kwee Sung](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/0ca1a158-115e-11e3-83d5-0050568939ad-OHC000962_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000692/11/6, p. 49]. Retrieved from National Archives of Singapore website.
+[^9]:Chew, D. (1993, September 23). *[Oral history interview with Chan Kwee Sung](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/0ca1a158-115e-11e3-83d5-0050568939ad-OHC000962_006/web/html5/index.html)* [Transcript of recording no. 000692/11/6, p. 49]. Retrieved from National Archives of Singapore website.
 
-[^10]:Chew, D. (1991, May 29). *[Oral history interview with Mohamed Sidek bin Siraj (Haji)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/189c3774-115e-11e3-83d5-0050568939ad-OHC001255_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001255/6/5, p. 2]. Retrieved from National Archives of Singapore website.
+[^10]:Chew, D. (1991, May 29). *[Oral history interview with Mohamed Sidek bin Siraj (Haji)](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/189c3774-115e-11e3-83d5-0050568939ad-OHC001255_005/web/html5/index.html)* [Transcript of recording no. 001255/6/5, p. 2]. Retrieved from National Archives of Singapore website.
 
-[^11]:Lee, P. (2002, March 20). *[Oral history interview with Lee Seng Teik (Prof)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/671abed9-1160-11e3-83d5-0050568939ad?keywords=Lee%20Seng%20Teik&keywords-type=all)* [Recording no. 002632/11/6]. Retrieved from National Archives of Singapore website.
+[^11]:Lee, P. (2002, March 20). *[Oral history interview with Lee Seng Teik (Prof)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/671abed9-1160-11e3-83d5-0050568939ad?keywords=Lee%20Seng%20Teik&amp;keywords-type=all)* [Recording no. 002632/11/6]. Retrieved from National Archives of Singapore website.
 
 [^12]:Thompson, P. (2000). *The voice of the past: Oral history* (p. 25). New York: Oxford University Press. Retrieved from NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 
 [^13]:Tan, C.J. (2019, February 13). When history leaps from textbooks onto our streets and into our lives. *The Straits Times*. Retrieved from *The Straits Times* website.
 
-[^14]:Lim, J. (2008, May 16). *[Oral history interview with Koh, James Cher Siang](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 002847/6/1, p. 13]. Retrieved from National Archives of Singapore website.
+[^14]:Lim, J. (2008, May 16). *[Oral history interview with Koh, James Cher Siang](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html)* [Transcript of recording no. 002847/6/1, p. 13]. Retrieved from National Archives of Singapore website.
 
 [^15]:Sook Ching is a Chinese term meaning “purge through cleansing”. Operation Sook Ching was a Japanese military operation aimed at eliminating anti-Japanese elements from the Chinese community in Singapore. From 21 February to 4 March 1942, Chinese males between the ages of 18 and 50 were summoned to report at mass screening centres and those suspected of being anti-Japanese were summarily executed. 
 
-[^16]:Chou, C. (1994, September 1). *[Oral history interview with Felix Chia](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/7779b122-115e-11e3-83d5-0050568939ad-OHC001553_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001553/8/2, pp. 6–7]. Retrieved from National Archives of Singapore website.
+[^16]:Chou, C. (1994, September 1). *[Oral history interview with Felix Chia](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/7779b122-115e-11e3-83d5-0050568939ad-OHC001553_002/web/html5/index.html)* [Transcript of recording no. 001553/8/2, pp. 6–7]. Retrieved from National Archives of Singapore website.
 
-[^17]:Ruzita Zaki. (1995, December 20). *[Oral history interview with Cornelius, Vernon Christopher](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ec8f1ab0-115f-11e3-83d5-0050568939ad-OHC001711_012/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001711/18/12, p. 140]. Retrieved from National Archives of Singapore website.
+[^17]:Ruzita Zaki. (1995, December 20). *[Oral history interview with Cornelius, Vernon Christopher](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ec8f1ab0-115f-11e3-83d5-0050568939ad-OHC001711_012/web/html5/index.html)* [Transcript of recording no. 001711/18/12, p. 140]. Retrieved from National Archives of Singapore website.
 
 [^18]:Mick – James Acaster’s arch enemy? Lee Mack’s traded toddler? Gabby Logan’s cheated child? (2017, December 4). *Would I Lie To You?* (Series 11, episode 3). Retrieved from YouTube. 
 
-[^19]:Tan, A, (2014, May 26). *[Oral history interview with Liak Teng Lit](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/111c4181-ac16-11e4-859c-0050568939ad?keywords=Liak&keywords-type=all)* [Recording no. 003867/36/20]. Retrieved from National Archives of Singapore website.
+[^19]:Tan, A, (2014, May 26). *[Oral history interview with Liak Teng Lit](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/111c4181-ac16-11e4-859c-0050568939ad?keywords=Liak&amp;keywords-type=all)* [Recording no. 003867/36/20]. Retrieved from National Archives of Singapore website.
 
-[^20]:Zaleha Bte Osman. (1999, April 14). *[Oral history interview with Tan, Richard Swee Guan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/6/6293aca5-115e-11e3-83d5-0050568939ad-OHC002108_007/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5)* [Transcript of recording no. 002108/8/7, p. 105). Retrieved from National Archives of Singapore website.
+[^20]:Zaleha Bte Osman. (1999, April 14). *[Oral history interview with Tan, Richard Swee Guan](https://www.nas.gov.sg/archivesonline/flipviewer/publish/6/6293aca5-115e-11e3-83d5-0050568939ad-OHC002108_007/web/html5/index.html)* [Transcript of recording no. 002108/8/7, p. 105). Retrieved from National Archives of Singapore website.
 
-[^21]:Lee, P. (2000, July 7). *[Oral history interview with Chan, Sally (Mrs) @ Sally Liew](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/18a46a0d-1160-11e3-83d5-0050568939ad-OHC002353_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 002353/4/3, p. 33]. Retrieved from National Archives of Singapore website.
+[^21]:Lee, P. (2000, July 7). *[Oral history interview with Chan, Sally (Mrs) @ Sally Liew](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/18a46a0d-1160-11e3-83d5-0050568939ad-OHC002353_003/web/html5/index.html)* [Transcript of recording no. 002353/4/3, p. 33]. Retrieved from National Archives of Singapore website.

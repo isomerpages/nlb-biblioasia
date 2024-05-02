@@ -34,7 +34,7 @@ Christopher used different moulds to make the _pie tee_ shells, including local 
 
 #### **Related Podcast**
 
-<b><a href="/podcast/kueh-pie-tee/">Kueh Pie Tee: A Detective Story</a></b><br>
+<a href="/podcast/kueh-pie-tee/">Kueh Pie Tee: A Detective Story</a><br>
 _Kueh pie tee_&nbsp;is not a pie that goes with tea. So where did the name (and dish) come from? Award-winning cookbook author Christopher Tan combs through old newspapers and cookbooks, in search of the origins of the dish.
 
 
