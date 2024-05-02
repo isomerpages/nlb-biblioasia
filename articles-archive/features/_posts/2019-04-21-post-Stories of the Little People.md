@@ -159,7 +159,7 @@ This last point about how the same experiences can bridge generations would earn
 
 [^7]:Pitt, K.W. (1984, November 14). *[Oral history interview with Thevathasan, Gnanasundram (Mrs)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e7c9c34d-115d-11e3-83d5-0050568939ad-OHC000345_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000345/70/63, pp. 6–7]. Retrieved from National Archives of Singapore website.
 
-[^8]:Chan, K.S. (2005). *[One more story to tell: Memories of Singapore, 1930S–1980s](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12460547)*. Singapore: Landmark Books. (Call no.: RSING 959.5705092 CHA-[HIS])
+[^8]:Chan, K.S. (2005). *[One more story to tell: Memories of Singapore, 1930s–1980s](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12460547)*. Singapore: Landmark Books. (Call no.: RSING 959.5705092 CHA-[HIS])
 
 [^9]:Chew, D. (1993, September 23). *[Oral history interview with Chan Kwee Sung](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/0ca1a158-115e-11e3-83d5-0050568939ad-OHC000962_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000692/11/6, p. 49]. Retrieved from National Archives of Singapore website.
 
