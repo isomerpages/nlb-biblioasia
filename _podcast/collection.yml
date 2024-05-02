@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - Kampong Gelam/Transcript.md
       - "Kampong Gelam/Kampong Gelam: Kitchen of the Malay World.md"
       - Kampong Gelam/.keep
       - Kueh Pie Tee/.keep
