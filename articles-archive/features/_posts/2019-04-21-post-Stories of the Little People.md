@@ -171,7 +171,7 @@ This last point about how the same experiences can bridge generations would earn
 
 [^13]:Tan, C.J. (2019, February 13). When history leaps from textbooks onto our streets and into our lives. *The Straits Times*. Retrieved from *The Straits Times* website.
 
-[^14]:Lim, J. (2008, May 16). *[Oral history interview with Koh, James Cher Siang](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 002847/6/1, p. 13]. Retrieved from National Archives of Singapore website.
+[^14]:Lim, J. (2008, May 16). *[Oral history interview with Koh, James Cher Siang](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/559fa17d-1161-11e3-83d5-0050568939ad-OHC002847_001/web/html5/index.html)* [Transcript of recording no. 002847/6/1, p. 13]. Retrieved from National Archives of Singapore website.
 
 [^15]:Sook Ching is a Chinese term meaning “purge through cleansing”. Operation Sook Ching was a Japanese military operation aimed at eliminating anti-Japanese elements from the Chinese community in Singapore. From 21 February to 4 March 1942, Chinese males between the ages of 18 and 50 were summoned to report at mass screening centres and those suspected of being anti-Japanese were summarily executed. 
 
