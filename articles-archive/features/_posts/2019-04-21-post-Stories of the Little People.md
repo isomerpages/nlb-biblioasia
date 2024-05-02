@@ -163,7 +163,7 @@ This last point about how the same experiences can bridge generations would earn
 
 [^9]:Chew, D. (1993, September 23). *[Oral history interview with Chan Kwee Sung](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/0ca1a158-115e-11e3-83d5-0050568939ad-OHC000962_006/web/html5/index.html)* [Transcript of recording no. 000692/11/6, p. 49]. Retrieved from National Archives of Singapore website.
 
-[^10]:Chew, D. (1991, May 29). *[Oral history interview with Mohamed Sidek bin Siraj (Haji)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/189c3774-115e-11e3-83d5-0050568939ad-OHC001255_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001255/6/5, p. 2]. Retrieved from National Archives of Singapore website.
+[^10]:Chew, D. (1991, May 29). *[Oral history interview with Mohamed Sidek bin Siraj (Haji)](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/189c3774-115e-11e3-83d5-0050568939ad-OHC001255_005/web/html5/index.html)* [Transcript of recording no. 001255/6/5, p. 2]. Retrieved from National Archives of Singapore website.
 
 [^11]:Lee, P. (2002, March 20). *[Oral history interview with Lee Seng Teik (Prof)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/671abed9-1160-11e3-83d5-0050568939ad?keywords=Lee%20Seng%20Teik&amp;keywords-type=all)* [Recording no. 002632/11/6]. Retrieved from National Archives of Singapore website.
 
