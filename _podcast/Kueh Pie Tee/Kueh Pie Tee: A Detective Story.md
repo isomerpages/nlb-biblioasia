@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Kueh Pie Tee
 ---
-<p><em><a href="biblioasia.nlb.gov.sg/videos/kueh-pie-tee/" rel="noopener noreferrer nofollow" target="_blank">Kueh pie tee</a> </em>is
+<p><em><a href="/videos/kueh-pie-tee/" rel="noopener noreferrer nofollow" target="_blank">Kueh pie tee</a> </em>is
 not a pie that goes with tea. So where did the name (and dish) come from?
 Award-winning cookbook author Christopher Tan combs through old newspapers
 and cookbooks, in search of the origins of the dish.
