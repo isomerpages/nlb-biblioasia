@@ -11,6 +11,9 @@ Here you find different curries and bread, <em>nasi padang</em>, <em>sup tulang<
 a Javanese kitchen, Hainanese coffeeshops. Bookstores sell literature and
 newspapers as far away as Cairo. In this episode, Khir tells us about the
 Kampong Gelam (present-day Bugis) he grew up in.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mpvj57An6_k?si=U7RLFIiJy_oovOE4"></iframe>
+</div>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: Spotify, Apple Podcasts, melisten.</p>
