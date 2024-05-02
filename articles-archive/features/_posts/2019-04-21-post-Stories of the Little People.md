@@ -155,7 +155,7 @@ This last point about how the same experiences can bridge generations would earn
 
 [^5]:Tan, L. (1984, October 4). *[Oral history interview with Khoo Teng Soon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f03465e6-115d-11e3-83d5-0050568939ad-OHC000475_007/web/html5/index.html)* [Transcript of recording no. 000475/21/7, pp. 82–83]. Retrieved from National Archives of Singapore website.
 
-[^6]:Chua, J.C.H. (1995, November 7). *[Oral history interview with Chan Kai Yau](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/43511c5c-115e-11e3-83d5-0050568939ad-OHC001707_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001707/36/3]. Retrieved from National Archives of Singapore website.
+[^6]:Chua, J.C.H. (1995, November 7). *[Oral history interview with Chan Kai Yau](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/43511c5c-115e-11e3-83d5-0050568939ad-OHC001707_003/web/html5/index.html)* [Transcript of recording no. 001707/36/3]. Retrieved from National Archives of Singapore website.
 
 [^7]:Pitt, K.W. (1984, November 14). *[Oral history interview with Thevathasan, Gnanasundram (Mrs)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e7c9c34d-115d-11e3-83d5-0050568939ad-OHC000345_063/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000345/70/63, pp. 6–7]. Retrieved from National Archives of Singapore website.
 
