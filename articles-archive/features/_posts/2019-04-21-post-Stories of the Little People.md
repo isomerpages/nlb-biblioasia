@@ -183,6 +183,6 @@ This last point about how the same experiences can bridge generations would earn
 
 [^19]:Tan, A, (2014, May 26). *[Oral history interview with Liak Teng Lit](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/111c4181-ac16-11e4-859c-0050568939ad?keywords=Liak&amp;keywords-type=all)* [Recording no. 003867/36/20]. Retrieved from National Archives of Singapore website.
 
-[^20]:Zaleha Bte Osman. (1999, April 14). *[Oral history interview with Tan, Richard Swee Guan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/6/6293aca5-115e-11e3-83d5-0050568939ad-OHC002108_007/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)* [Transcript of recording no. 002108/8/7, p. 105). Retrieved from National Archives of Singapore website.
+[^20]:Zaleha Bte Osman. (1999, April 14). *[Oral history interview with Tan, Richard Swee Guan](https://www.nas.gov.sg/archivesonline/flipviewer/publish/6/6293aca5-115e-11e3-83d5-0050568939ad-OHC002108_007/web/html5/index.html)* [Transcript of recording no. 002108/8/7, p. 105). Retrieved from National Archives of Singapore website.
 
 [^21]:Lee, P. (2000, July 7). *[Oral history interview with Chan, Sally (Mrs) @ Sally Liew](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/18a46a0d-1160-11e3-83d5-0050568939ad-OHC002353_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 002353/4/3, p. 33]. Retrieved from National Archives of Singapore website.
