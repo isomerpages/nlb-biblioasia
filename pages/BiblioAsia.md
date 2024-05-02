@@ -10,6 +10,9 @@ variant: tiptap
 forgotten, all fascinating. Does Singapore have a stone age? What’s happened
 to the murals at the old Paya Lebar airport? Who was Singapore's first
 boxing superstar?</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Podcast/ad_banner_biblioasia.jpg">
+</div>
 <p></p>
 <h4><strong>Season 2</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="biblioasia.nlb.gov.sg/podcast/kampong-glam-kitchen-malay-world/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kampong Gelam: Kitchen of the Malay World" src="/images/Podcast/Khir.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kampong Gelam: Kitchen of the Malay World</div><div class="isomer-card-description">You hear Malay, Javanese, Tamil and Punjabi as you wander the streets with shops selling colourful textiles and carpets, spices and flowers. In this episode, Khir tells us about the Kampong Gelam (present-day Bugis) he grew up in.</div><div class="isomer-card-link">Coming soon</div></div></a>
