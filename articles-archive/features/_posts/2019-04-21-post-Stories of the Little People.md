@@ -177,7 +177,7 @@ This last point about how the same experiences can bridge generations would earn
 
 [^16]:Chou, C. (1994, September 1). *[Oral history interview with Felix Chia](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/7779b122-115e-11e3-83d5-0050568939ad-OHC001553_002/web/html5/index.html)* [Transcript of recording no. 001553/8/2, pp. 6–7]. Retrieved from National Archives of Singapore website.
 
-[^17]:Ruzita Zaki. (1995, December 20). *[Oral history interview with Cornelius, Vernon Christopher](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ec8f1ab0-115f-11e3-83d5-0050568939ad-OHC001711_012/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001711/18/12, p. 140]. Retrieved from National Archives of Singapore website.
+[^17]:Ruzita Zaki. (1995, December 20). *[Oral history interview with Cornelius, Vernon Christopher](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ec8f1ab0-115f-11e3-83d5-0050568939ad-OHC001711_012/web/html5/index.html)* [Transcript of recording no. 001711/18/12, p. 140]. Retrieved from National Archives of Singapore website.
 
 [^18]:Mick – James Acaster’s arch enemy? Lee Mack’s traded toddler? Gabby Logan’s cheated child? (2017, December 4). *Would I Lie To You?* (Series 11, episode 3). Retrieved from YouTube. 
 
