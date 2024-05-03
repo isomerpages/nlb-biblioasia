@@ -224,7 +224,7 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 [^22]:Lee, P. (Interviewer). (2002, March 15). *[Oral history interview with Mike Ellery](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/d2864a0a-1160-11e3-83d5-0050568939ad)* [MP3 recording no. 001989/4/4]. Retrieved from National Archives of Singapore website.
 
-[^23]:Wong, M.W.W. (Interviewer). (2010, May 25). *[Oral history interview with Amir Samsoedin](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5115a93-1161-11e3-83d5-0050568939ad-OHC003521_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no. 003521/5/5, pp. 262, 265]. Retrieved from National Archives of Singapore website; Ong, P. (1976, June 18). [Dee-Jay Brian gets his mobile disco going](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760618-1.2.63.1). *New Nation*, p. 12. Retrieved from NewspaperSG.
+[^23]:Wong, M.W.W. (Interviewer). (2010, May 25). *[Oral history interview with Amir Samsoedin](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5115a93-1161-11e3-83d5-0050568939ad-OHC003521_005/web/html5/index.html)* [Transcript of MP3 recording no. 003521/5/5, pp. 262, 265]. Retrieved from National Archives of Singapore website; Ong, P. (1976, June 18). [Dee-Jay Brian gets his mobile disco going](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760618-1.2.63.1). *New Nation*, p. 12. Retrieved from NewspaperSG.
 
 [^24]:*[Oral history interview with Mike Ellery](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/d2864a0a-1160-11e3-83d5-0050568939ad),* 15 Mar 2002.
 
