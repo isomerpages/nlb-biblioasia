@@ -7,7 +7,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/men-surrender-singapore-japanese-occupation/">The Other Men Who Surrendered Singapore</a>	
 Arthur E. Percival should not have been made the convenient scapegoat for the fall of Singapore on 15 February 1942. Eleven other men had taken the decision with him to surrender Singapore to the Japanese.
 
-<img src="/images/Vol-12-issue-4/surviving-japanese-occupation/1-surviving-japanese-occupation.png" style="width:80%; height:80%">
+<img src="/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/british_surrender.png" style="width:80%; height:80%">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/singapore-malaysia-indonesia-konfrontasi-confrontation/">Konfrontasi: Singapore’s Experience of an Undeclared War</a>
