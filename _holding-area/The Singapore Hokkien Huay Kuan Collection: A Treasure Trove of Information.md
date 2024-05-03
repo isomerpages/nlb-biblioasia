@@ -26,11 +26,11 @@ The construction cost of the temple was about 37,000 Spanish dollars. This was b
 #### **Thian Hock Keng – More Than Just a Religious Space**
 
 Construction of the present Thian Hock Keng temple at 158 Telok Ayer Street began in 1839 and was completed by 1842.[^6] However, the temple actually traces its roots to a simple prayer house that had been set up in 1821 along the shoreline of Telok Ayer Basin. It was dedicated to the Goddess of the Sea, Mazu  
-(쮜籬), who is the protector of sailors, fishermen, and travellers. Chinese immigrants would go to the prayer house to give thanks for their safe passage to Singapore.  
+(쮜籬), who is the protector of sailors, fishermen, and travellers. Chinese immigrants would go to the prayer house to give thanks for their safe passage to Singapore. &nbsp;
 
 On 28 June 1973, Thian Hock Keng was gazetted as a national monument. The architecture of the temple is consistent with Chinese temple architectural traditions from Minnan (a southern Fujian province in China), such as complex timber posts and beam structures with decorative features like the “swallow tail” roof ridge and intricate carvings.[^7] The temple was repaired and restored to its current state in the mid-1990s and won an honourable mention in the 2001 UNESCO Asia-Pacific Awards for Cultural Heritage Conservation.[^8]
 
-#### **Formation of the Hokkien Huay Kuan **
+#### **Formation of the Hokkien Huay Kuan&nbsp;**
 
 In addition to shedding light on the early history of the temple, the archival materials are also a window into the Hokkien community in Singapore. This is because besides being a place of worship, Thian Hock Keng was also a social centre where Hokkien leaders would gather to make important decisions regarding the Hokkien community, business issues, fund-raising plans, management of burial lands and even registering marriages.[^9]
 
@@ -44,9 +44,9 @@ While Thian Hock Keng’s historical land title deeds are part of the 2021 donat
 
 Eight sets of minutes[^14] provide a detailed look into the Management Council of the Singapore Hokkien Huay Kuan’s decisions from 1950 to 1984, while five other sets of minutes from various departments[^15] of the Huay Kuan offer insights into their specific activities between 1962 and 1987. There is also a dedicated set of minutes that presents meticulously documented motions for discussion and important documents,[^16] as well as records pertaining to amendments of the Huay Kuan’s articles, notices and circulars.[^17]
 
-Also included are official correspondences from 1950 to 1977, which offer glimpses into the clan’s external interactions with entities such as the Housing and Development Board Branch, and Public Works Department Roads Branch.[^18]  
+Also included are official correspondences from 1950 to 1977, which offer glimpses into the clan’s external interactions with entities such as the Housing and Development Board Branch, and Public Works Department Roads Branch.[^18] &nbsp;
 
-Records relating to the schools managed by the Huay Kuan help to illuminate the history of Chinese education in Singapore. Documents such as balance sheets and donation records provide perspectives on the changing educational landscape such as school relocation in the late 1960s.  
+Records relating to the schools managed by the Huay Kuan help to illuminate the history of Chinese education in Singapore. Documents such as balance sheets and donation records provide perspectives on the changing educational landscape such as school relocation in the late 1960s. &nbsp;
 
 Highlights include documents on an exchange of land between Nan Chiau Girls’ High School (comprising both primary and secondary levels) and Chung Cheng High School (Branch), which were both formerly located at Kim Yam Road, and the rebuilding of Nan Chiau’s new campus at the same site. To meet Nan Chiau’s growing student population and to facilitate its reconstruction efforts, the campus of its secondary school was temporarily relocated to Guillemard Road. Its primary school campus continued to function at Kim Yam Road from 1965 to 1968. Nan Chiau at Kim Yam Road was rebuilt and expanded in 1969, and brought both the primary and secondary campuses under one roof.[^19] Chung Cheng High School (Branch), on the other hand, shifted to Guillemard Road in 1969.[^20]
 
@@ -62,3 +62,62 @@ Beyond these property registers and account records are a wealth of papers perta
 The photographs in the collection also provide information about the Huay Kuan and its activities. These showcase past management committees and capture unique moments such as traditional mass weddings, school life, burial grounds – bringing the clan’s past vividly to life.
 
 This brief survey only touches the surface of what is available in the Singapore Hokkien Huay Kuan Collection. Members of the public who wish to find out more about the collection may refer to the respective access information found in the article and consult the Reference Counter on Level 11 of the Lee Kong Chian Reference Library, National Library Buidling, or via email (ref@nlb.gov.sg).
+
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Abhishek_Mehrotra-.png">
+	<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore and Southeast Asian Collection, developing content as well as providing reference and research services relating to Singapore and Southeast Asia.<br> <br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Abhishek_Mehrotra-.png">
+	<b>Seow Peck Ngiam</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include selection, evaluation and management of materials for the Chinese and donor collections. She also conducts research and writes on collection highlights for the library.</div>
+
+#### **Notes**
+
+
+[^1]: “[New Advertisements](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsmaritime18960715-1.2.11.1),” _Straits Maritime Journal and General News_, 15 July 1896, 5. (From Newspaper SG)
+
+[^2]: 
+
+[^3]: 
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
+
+[^11]: 
+
+[^12]: 
+
+[^13]: 
+
+[^14]: 
+
+[^15]: 
+
+[^16]: 
+
+[^17]: 
+
+[^18]: 
+
+[^19]: 
+
+[^20]: 
+
+[^21]: 
+
+[^22]: 
+
+[^23]: 
+
+[^24]: 
