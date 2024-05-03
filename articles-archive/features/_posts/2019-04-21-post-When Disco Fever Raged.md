@@ -5,6 +5,7 @@ permalink: /vol-15/issue-1/apr-jun-2019/disco-fever/
 image: /images/Vol-15-issue-1/when-disco-fever-raged/01_disco.png
 layout: post
 description: ""
+variant: markdown
 ---
 #### Pulsating music, strobe lights and postage-stamp dance floors packed with shimmying bodies. **Tan Chui Hua** gives you the lowdown on the history of the disco scene in Singapore.
 
@@ -213,17 +214,17 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 [^17]:[S’pore gets first mobile discotheque](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700920-1.2.51). (1970, September 20). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-[^18]:Lee, P. (Interviewer). (2002, February 20). *[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no. 002625/14/9, p. 100]. Retrieved from National Archives of Singapore website.
+[^18]:Lee, P. (Interviewer). (2002, February 20). *[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html)* [Transcript of MP3 recording no. 002625/14/9, p. 100]. Retrieved from National Archives of Singapore website.
 
-[^19]:Lee, P. (Interviewer). (2002, February 20). *[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no. 002625/14/8, pp. 92–94]. Retrieved from National Archives of Singapore website.
+[^19]:Lee, P. (Interviewer). (2002, February 20). *[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f69de97d-115e-11e3-83d5-0050568939ad-OHC002625_008/web/html5/index.html)* [Transcript of MP3 recording no. 002625/14/8, pp. 92–94]. Retrieved from National Archives of Singapore website.
 
-[^20]:*[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png),* 20 Feb 2020, p. 102.
+[^20]:*[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html),* 20 Feb 2020, p. 102.
  
-[^21]:*[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png),* 20 Feb 2020, p. 105.
+[^21]:*[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html),* 20 Feb 2020, p. 105.
 
 [^22]:Lee, P. (Interviewer). (2002, March 15). *[Oral history interview with Mike Ellery](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/d2864a0a-1160-11e3-83d5-0050568939ad)* [MP3 recording no. 001989/4/4]. Retrieved from National Archives of Singapore website.
 
-[^23]:Wong, M.W.W. (Interviewer). (2010, May 25). *[Oral history interview with Amir Samsoedin](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c5115a93-1161-11e3-83d5-0050568939ad-OHC003521_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no. 003521/5/5, pp. 262, 265]. Retrieved from National Archives of Singapore website; Ong, P. (1976, June 18). [Dee-Jay Brian gets his mobile disco going](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760618-1.2.63.1). *New Nation*, p. 12. Retrieved from NewspaperSG.
+[^23]:Wong, M.W.W. (Interviewer). (2010, May 25). *[Oral history interview with Amir Samsoedin](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5115a93-1161-11e3-83d5-0050568939ad-OHC003521_005/web/html5/index.html)* [Transcript of MP3 recording no. 003521/5/5, pp. 262, 265]. Retrieved from National Archives of Singapore website; Ong, P. (1976, June 18). [Dee-Jay Brian gets his mobile disco going](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19760618-1.2.63.1). *New Nation*, p. 12. Retrieved from NewspaperSG.
 
 [^24]:*[Oral history interview with Mike Ellery](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/d2864a0a-1160-11e3-83d5-0050568939ad),* 15 Mar 2002.
 
@@ -235,19 +236,19 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 [^28]:‘[High flyers’ who make the scene in coffee houses, discos and bowling alleys](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720709-1.2.45). (1972, July 9). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^29]:Raman, P.M., & Pereira, G. (1973, October 23). [Discos tighten up entry rules after warning by minister](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731023-1.2.106). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
+[^29]:Raman, P.M., &amp; Pereira, G. (1973, October 23). [Discos tighten up entry rules after warning by minister](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731023-1.2.106). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 
 [^30]:Ahmad Osman. (1973, November 18). [Discos lose liquor permits](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731118-1.2.8). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^31]:Chandran, R., & Pereira, G. (1973, November 2). [Govt shuts down 6 discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731102-1.2.16). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^31]:Chandran, R., &amp; Pereira, G. (1973, November 2). [Govt shuts down 6 discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731102-1.2.16). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^32]:D’Rose, R. (Interviewer). (1996, February 28). *[Oral history interview with Mervyn Nonis](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d9222956-115e-11e3-83d5-0050568939ad-OHC001737_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=24)* [Transcript of MP3 recording no. 001737/11/3, p. 63]. Retrieved from National Archives of Singapore website.
+[^32]:D’Rose, R. (Interviewer). (1996, February 28). *[Oral history interview with Mervyn Nonis](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/d9222956-115e-11e3-83d5-0050568939ad-OHC001737_003/web/html5/index.html)* [Transcript of MP3 recording no. 001737/11/3, p. 63]. Retrieved from National Archives of Singapore website.
 
 [^33]:[Final goodbye to the discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19731214-1.2.20.26). (1973, December 14). *New Nation*, p. 7. Retrieved from NewspaperSG.
 
 [^34]:[Boiler Room disco closes down](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731031-1.2.19). (1973, October 31). *The Straits Times*, p. 1; [Final goodbye to the discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19731214-1.2.20.26). (1973, December 14). *New Nation*, p. 7. Retrieved from NewspaperSG.
 
-[^35]:*[Oral history interview with Mervyn Nonis](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d9222956-115e-11e3-83d5-0050568939ad-OHC001737_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=24),* 28 Feb 1996, pp. 68–70.
+[^35]:*[Oral history interview with Mervyn Nonis]https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/d9222956-115e-11e3-83d5-0050568939ad-OHC001737_003/web/html5/index.html),* 28 Feb 1996, pp. 68–70.
 
 [^36]:[Govt eases curbs on nightclubs and discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750215-1.2.51). (1975, February 15). *The Straits Times*, p. 7; [Disco to close shop again](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770624-1.2.27). (1977, June 24). *New Nation*, p. 4. Retrieved from NewspaperSG.
 
@@ -265,7 +266,7 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 [^43]:Ong, P. (1973, February 10). [X’Quisites make it to the nightclub scene](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730210-1.2.48). *New Nation*, p. 7; [Singapore’s young musicians come of age](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710830-1.2.58). (1971, August 30). *New Nation*, p. 9. Retrieved from NewspaperSG.
 
-[^44]:Chua, M., & Pereira, G. (1973, November 3). [Discos may open again, but no music or dancing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731103-1.2.73). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
+[^44]:Chua, M., &amp; Pereira, G. (1973, November 3). [Discos may open again, but no music or dancing](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731103-1.2.73). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
 [^45]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710830-1.2.58)*, 30 Aug 1971, p. 9.
 
