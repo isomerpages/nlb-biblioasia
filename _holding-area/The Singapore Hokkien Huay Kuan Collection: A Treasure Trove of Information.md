@@ -74,7 +74,7 @@ This brief survey only touches the surface of what is available in the Singapore
 #### **Notes**
 
 
-[^1]: “[New Advertisements](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsmaritime18960715-1.2.11.1),” _Straits Maritime Journal and General News_, 15 July 1896, 5. (From Newspaper SG)
+[^1]: The digitised title deeds are available at NL Online: “劤속팃르쉔삔반: 莖르묵豆퍅뒈폡”; Thian Hock Keng Temple: Land Title Deeds, 1828–1838. (From National Library, Singapore, call no. RRARE 346.59570438 THI)
 
 [^2]: 
 
@@ -120,4 +120,4 @@ This brief survey only touches the surface of what is available in the Singapore
 
 [^23]: 
 
-[^24]: 
+[^24]:
