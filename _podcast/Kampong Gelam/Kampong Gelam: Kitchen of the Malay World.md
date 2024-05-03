@@ -21,7 +21,22 @@ the Kampong Gelam (present-day Bugis) that he grew up in.</p>
 get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Khir Talked About</strong></h4>
-<p></p>
+<p>02:32 – The origins of <em>mee maidin</em>, the dish that Khir cooked in
+From Book to Cook
+<br>07:18 – Kampong Gelam as the incubator for the Nusantara (Malay World)
+kitchen
+<br>09:19 – Four main streets in Kampong Gelam selling food, including the
+only place in Singapore that sells <em>mee odong</em>
+<br>14:35 – The origins of <em>mee siam</em>
+<br>17:46 – Three types of <em>mee siam</em> that came out of Kampong Gelam
+<br>18:36 – Khir’s childhood in Kampong Gelam
+<br>20:23 – Publishing houses in Kampong Gelam
+<br>22:51 – Why Khir spent 10 years writing the book&nbsp;<em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205498204" rel="noopener noreferrer nofollow" target="_blank">The Food of Singapore Malays</a></em>
+<br>27:12 – What Khir is working on now
+<br>28:38 – Khir’s dream job if he lived in Kampong Gelam in the 19th century
+<br>29:37 – The most maligned ingredient in Malay cooking
+<br>31:15 – The one recipe in his book Khir wants people to try
+<br>33:07 – Food is…</p>
 <h4><strong>About the Guest</strong></h4>
 <p>Khir Johari was born and raised in historic Kampong Gelam, Singapore.
 He studied mathematics at Santa Clara University in California, and completed
