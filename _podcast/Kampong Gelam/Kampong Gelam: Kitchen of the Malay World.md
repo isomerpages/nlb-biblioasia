@@ -45,7 +45,7 @@ Asia. He is the author of <em><a href="https://eservice.nlb.gov.sg/redir/itemdet
 Cavendish Editions, 2021).</p>
 <p></p>
 <h4><strong>Related Video</strong></h4>
-<p>Watch <a href="biblioasia.nlb.gov.sg/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">Khir makes </a><em><a href="biblioasia.nlb.gov.sg/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">mee maidin</a></em>.</p>
+<p>Watch Khir make <em><a href="biblioasia.nlb.gov.sg/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">mee maidin</a></em>.</p>
 <h4><strong>Resources</strong></h4>
 <p>Khir Johari, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205498204" rel="noopener noreferrer" target="_blank"><u>The Food of Singapore Malays: Gastronomic Travels through the Archipelago</u></a></em> (Marshall
 Cavendish Editions, 2021). (National Library call no. 394.120899928 KHI
