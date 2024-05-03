@@ -103,6 +103,11 @@ soy sauce<br>
 
 13. Assemble and serve with yellow noodles and garnishes.
 
+#### **Related Podcast**
+
+<a href="/podcast/kampong-gelam-kitchen-of-the-malay-world/">Kampong Glam: Kitchen of the Malay World</a><br>
+Here you find different curries and bread, <i>nasi padang</i>, <i>sup tulang</i>, <i>mee siam</i>, a Javanese kitchen, Hainanese coffeeshops and more.
+
 #### **Related Articles**
 
 [The Role of Foraging in Malay Cuisine](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/theroleofforaging/)<br>
