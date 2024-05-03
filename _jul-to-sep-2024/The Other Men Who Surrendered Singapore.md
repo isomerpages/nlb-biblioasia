@@ -82,7 +82,7 @@ In her book about the people buried in Hong Kong Cemetery, teacher and historian
 
 James Bradley, a former prisoner-of-war whose life Wild had saved while they were both working on the infamous Thai-Burma Railway, wrote a biography of his saviour titled _Cyril Wild: The Tall Man Who Never Slept_, first published in 1991. During his internment, Wild put his Japanese language skills to good use and relentlessly interceded on behalf of his fellow prisoners-of-war. This led his Japanese captors to call him _nemuranu se no takai otoko_ (“the tall man who never slept”).[^21]
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/13.jpg)
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/13.png)
 <div style="background-color:white;">The Thai-Burma Railway is a 415-kilometre railway stretching from Ban Pong, Thailand, to Thanbyuzayat, Burma (now Myanmar).<i></i></div>
 
 #### **Thomas Kennedy Newbigging (1891–1968)**
