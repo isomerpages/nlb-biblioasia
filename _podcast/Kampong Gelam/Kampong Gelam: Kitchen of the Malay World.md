@@ -21,7 +21,7 @@ the Kampong Gelam (present-day Bugis) that he grew up in.</p>
 get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Khir Talked About</strong></h4>
-<p>02:32 – The origins of <em>mee maidin</em>, the dish that Khir cooked in <em><a href="biblioasia.nlb.gov.sg/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">From Book to Cook</a></em>
+<p>02:32 – The origins of <em>mee maidin</em>, the dish that Khir cooked in <em><a href="biblioasia.nlb.gov.sg/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">From Book to Cook</a></em> 
 <br>07:18 – Kampong Gelam as the incubator for the Nusantara (Malay World)
 kitchen
 <br>09:19 – Four main streets in Kampong Gelam selling food, including the
@@ -45,8 +45,7 @@ Asia. He is the author of <em><a href="https://eservice.nlb.gov.sg/redir/itemdet
 Cavendish Editions, 2021).</p>
 <p></p>
 <h4><strong>Related Video</strong></h4>
-<p><strong> </strong>
-</p>
+<p>Watch <a href="biblioasia.nlb.gov.sg/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">Khir makes </a><em><a href="biblioasia.nlb.gov.sg/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">mee maidin</a></em>.</p>
 <h4><strong>Resources</strong></h4>
 <p>Khir Johari, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205498204" rel="noopener noreferrer" target="_blank"><u>The Food of Singapore Malays: Gastronomic Travels through the Archipelago</u></a></em> (Marshall
 Cavendish Editions, 2021). (National Library call no. 394.120899928 KHI
