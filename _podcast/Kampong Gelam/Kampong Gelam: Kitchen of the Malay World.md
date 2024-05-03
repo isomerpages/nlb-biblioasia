@@ -23,13 +23,19 @@ get notified when the next episode drops.</p>
 <h4><strong>What Khir Talked About</strong></h4>
 <p></p>
 <h4><strong>About the Guest</strong></h4>
-<p></p>
+<p>Khir Johari was born and raised in historic Kampong Gelam, Singapore.
+He studied mathematics at Santa Clara University in California, and completed
+a masters in education at Stanford University. Since returning to Singapore,
+Khir has focused on research into the food cultures of maritime Southeast
+Asia. He is the author of <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205498204" rel="noopener noreferrer" target="_blank"><u>The Food of Singapore Malays: Gastronomic Travels through the Archipelago</u></a></em> (Marshall
+Cavendish Editions, 2021).</p>
 <p></p>
 <h4><strong>Watch Khir Make <em>Mee Maidin</em></strong></h4>
 <p></p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p></p>
+<p>Khir Johari, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205498204" rel="noopener noreferrer" target="_blank"><u>The Food of Singapore Malays: Gastronomic Travels through the Archipelago</u></a></em> (Marshall
+Cavendish Editions, 2021).</p>
 <p>
 <br>
 </p>
