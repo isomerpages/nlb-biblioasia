@@ -47,11 +47,9 @@ and America's <em>Saveur </em>magazine. He has authored and co-authored
 many cookbooks, most recently <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206134361" rel="noopener noreferrer nofollow" target="_blank">Nerdbaker 2: Tales from the Yeast Indies</a> </em>(Epigram
 Books, 2024). He loves making meaning with words, images and food.&nbsp;</p>
 <p></p>
-<h4><strong>Watch Christopher Make <em>Kueh Pie Tee</em></strong></h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yFO2cLUDagE?si=QD4u6oJoET0O_8At"></iframe>
-</div>
-<h4><strong>Resources</strong></h4>
+<h4><strong>Christopher Makes <em>Kueh Pie Tee</em></strong></h4>
+<p>Watch "<a href="https://biblioasia.nlb.gov.sg/videos/kueh-pie-tee/" rel="noopener noreferrer nofollow" target="_blank">Kueh Pie Tee’s Peculiar Past</a>".</p>
+<h4><br><strong>Resources</strong></h4>
 <p>Susie Hing, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a>&nbsp;</em>(Singapore:
 Mun Seong Press, 1956). (Call no<em>. </em>RSING 641.59595 HIN-[RFL])</p>
 <p>Janice Loo, “‘<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/beeton-malaya-women-cookbooks-housewives/" rel="noopener noreferrer nofollow" target="_blank">Mrs Beeton’” in Malaya: Women, Cookbooks and the Makings of the Housewife</a>,” <em>BiblioAsia</em> 9,
