@@ -218,9 +218,9 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 [^19]:Lee, P. (Interviewer). (2002, February 20). *[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f69de97d-115e-11e3-83d5-0050568939ad-OHC002625_008/web/html5/index.html)* [Transcript of MP3 recording no. 002625/14/8, pp. 92–94]. Retrieved from National Archives of Singapore website.
 
-[^20]:*[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png),* 20 Feb 2020, p. 102.
+[^20]:*[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html),* 20 Feb 2020, p. 102.
  
-[^21]:*[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png),* 20 Feb 2020, p. 105.
+[^21]:*[Oral history interview with Larry Lai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5b07faeb-115f-11e3-83d5-0050568939ad-OHC002625_009/web/html5/index.html),* 20 Feb 2020, p. 105.
 
 [^22]:Lee, P. (Interviewer). (2002, March 15). *[Oral history interview with Mike Ellery](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/d2864a0a-1160-11e3-83d5-0050568939ad)* [MP3 recording no. 001989/4/4]. Retrieved from National Archives of Singapore website.
 
