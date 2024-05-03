@@ -12,9 +12,15 @@ By Phan Ming Yen
 
 Decades after the surrender of Allied forces to the Japanese on 15 February 1942, much of the blame for the fall of Singapore remains associated with Lieutenant-General Arthur E. Percival, General Officer Commanding Malaya. As military historian Clifford Kinvig noted, Percival was not merely associated with the defeat but “he seemed to some commentators to bear a large responsibility for it”.[^1]
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg3.jpg)
+<div style="background-color:white;">Lieutenant-General Arthur Ernest Percival (extreme right) and his party on their way to the Ford Factory in Bukit Timah to surrender Singapore to the Japanese on 15 February 1942. <i>© IWM (HU 2781).</i></div>
+
 While Percival, as the commander in charge of Malaya, was ultimately responsible for making the decision, that decision to surrender was not made alone. On that fateful day, the surrender was decided by Percival in consultation with 11 other men.
 
 On the morning of the 15th, Percival had called for a meeting in the Battlebox, the underground bunker at Fort Canning, which had served as his headquarters in the last days of the Malayan Campaign. The aim of the meeting was to update the key commanders of the dire situation facing Singapore and to decide on the next course of action.
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg2.jpg)
+<div style="background-color:white;">Lieutenant-General Arthur Ernest Percival arriving in Singapore to take up his appointment as General Officer Commanding Malaya, 1941. <i>© IWM (K 652).</i></div>
 
 The war in Malaya had begun with troops of the Japanese 25th Army landing in Kota Bahru in northern Malaya, and Singora and Patani in southern Thailand on 8 December 1941. On the same day, Japanese planes dropped the first bombs on Singapore, killing 61 and injuring 133 people. Two months later, on 8 February 1942, the first Japanese troops landed in Singapore via the northwestern coastline of the island.[^2]
 
@@ -133,6 +139,9 @@ Goodman was senior gunnery advisor to Percival and served as Commander Royal Art
 Goodman’s account of the meeting in his diary is factual in tone, stating that he attended a conference “in which it was decided that it was useless to continue the fight as water and ammunition were failing and food too was running short due to losses by capture. I think too that conditions in the native part of the city were a great anxiety – the numbers of unburied dead lying about”.[^40]
 
 Goodman died on 8 December 1981. In an obituary by Major Frederick James Howard Nelson, Goodman’s Brigade Major in the 9th Indian Division, Nelson remembered Goodman as one who whenever “things looked hopeless he was sure to appear in person and by his apparent unconcern for danger restored the confidence of all ranks”.[^41]
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg1.jpg)
+<div style="background-color:white;">Indian labourers clearing debris in Singapore after a Japanese air raid, 1942.<i>© IWM (HU 57224).</i></div>
 
 #### **Hubert Francis Lucas (1897–1990)**
 
