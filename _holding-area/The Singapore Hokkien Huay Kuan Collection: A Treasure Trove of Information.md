@@ -22,3 +22,18 @@ A document numbered 593 and dated 1828 shows that a Sim Loo-ah had purchased a p
 A quick survey of land title deeds reveals how quickly the price of land in Telok Ayer appreciated in those early years. Just four years later, in 1823, Sim sold the land to a Tan Leng for 100 Spanish silver dollars. Tan Leng in turn sold the same plot to Tan Tock Seng in 1838 for 170 Spanish dollars, and the title deed bears the latter’s signature.
 
 The construction cost of the temple was about 37,000 Spanish dollars. This was borne by wealthy Hokkiens in Singapore and ship-owners from Zhangzhou and Quanzhou in China. Topping the list of donors was Tan Tock Seng, who gave $3,074. He was followed by another local businessman, See Hoot Kee, who contributed $2,400.[^5]
+
+#### **Thian Hock Keng – More Than Just a Religious Space**
+
+Construction of the present Thian Hock Keng temple at 158 Telok Ayer Street began in 1839 and was completed by 1842.[^6] However, the temple actually traces its roots to a simple prayer house that had been set up in 1821 along the shoreline of Telok Ayer Basin. It was dedicated to the Goddess of the Sea, Mazu  
+(쮜籬), who is the protector of sailors, fishermen, and travellers. Chinese immigrants would go to the prayer house to give thanks for their safe passage to Singapore.  
+
+On 28 June 1973, Thian Hock Keng was gazetted as a national monument. The architecture of the temple is consistent with Chinese temple architectural traditions from Minnan (a southern Fujian province in China), such as complex timber posts and beam structures with decorative features like the “swallow tail” roof ridge and intricate carvings.[^7] The temple was repaired and restored to its current state in the mid-1990s and won an honourable mention in the 2001 UNESCO Asia-Pacific Awards for Cultural Heritage Conservation.[^8]
+
+#### **Formation of the Hokkien Huay Kuan **
+
+In addition to shedding light on the early history of the temple, the archival materials are also a window into the Hokkien community in Singapore. This is because besides being a place of worship, Thian Hock Keng was also a social centre where Hokkien leaders would gather to make important decisions regarding the Hokkien community, business issues, fund-raising plans, management of burial lands and even registering marriages.[^9]
+
+Between 1840 and 1915, a small group of merchants and rich Hokkien businessmen such as Khoo Cheng Tiong and Tan Boo Liat helped hold the council elections of Thian Hock Keng Temple. In 1915, the council prepared a constitution to register with the colonial government but was exempted from registration in 1916. The council was renamed Thian Hock Keng Hokkien Huay Kuan (_huay kuan_ means “clan association”).[^10] This marked a new phase of the Huay Kuan as it gained prominence in the Hokkien community. Management of Thian Hock Keng Temple came under the purview of the Huay Kuan, changing the dynamics from when it first started as a social arm of the temple.
+
+In 1937, the Hokkien Huay Kuan was registered as a non-profit organisation under the Companies Ordinance, with a focus on education.[^11] Its affiliated schools include Tao Nan School, Ai Tong School, Chong Hock Girls’ School (today’s Chongfu School), Nan Chiau Primary School, Nan Chiau High School and Kong Hwa School.[^12] The Huay Kuan also led the way in establishing Nanyang University (present day Nanyang Technological University), raising funds and donating 523 acres of land for the university’s campus in Jurong.[^13]
