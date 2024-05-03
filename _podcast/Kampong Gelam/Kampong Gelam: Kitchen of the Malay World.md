@@ -35,14 +35,14 @@ Cavendish Editions, 2021).</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
 <p>Khir Johari, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205498204" rel="noopener noreferrer" target="_blank"><u>The Food of Singapore Malays: Gastronomic Travels through the Archipelago</u></a></em> (Marshall
-Cavendish Editions, 2021).</p>
+Cavendish Editions, 2021). (National Library call no. 394.120899928 KHI
+-[CUS])</p>
 <p>Mazelan Anuar, "<a href="https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/" rel="noopener noreferrer nofollow" target="_blank">Early Malay Printing in Singapore</a>," <em>BiblioAsia </em>13,
 no. 3 (October–December 2017).</p>
 <p>H. A.. Canton, John Lewis Rosedale and Joseph Padua Morris, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4979976" rel="noopener noreferrer nofollow" target="_blank">The Chemical Analysis of Foods of Singapore</a></em> (Singapore:
 Govt. Printer, 1940). (National Library call no. 664.07 CAN)</p>
 <p>Hajjah Asfiah Haji Abdullah, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080178" rel="noopener noreferrer nofollow" target="_blank">Hidangan Warisan Kita</a> (Singapore:
 Times Books International, 1986).</p>
-<p></p>
 <p>Toffa Abdul Wahed, "<a href="https://biblioasia.nlb.gov.sg/podcast/belacan/" rel="noopener noreferrer nofollow" target="_blank">Belacan: Caviar or Vile?</a>"
 BiblioAsia+ podcast, 38:21.</p>
 <p></p>
