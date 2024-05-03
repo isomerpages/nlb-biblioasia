@@ -74,50 +74,57 @@ This brief survey only touches the surface of what is available in the Singapore
 #### **Notes**
 
 
-[^1]: The digitised title deeds are available at NL Online: “劤속팃르쉔삔반: 莖르묵豆퍅뒈폡”; Thian Hock Keng Temple: Land Title Deeds, 1828–1838. (From National Library, Singapore, call no. RRARE 346.59570438 THI)
+[^1]: The digitised title deeds are available at NL Online: “新加坡福建会馆: 天福宫早期地契”; Thian Hock Keng Temple: Land Title Deeds, 1828–1838. (From National Library, Singapore, call no. RRARE 346.59570438 THI)
 
-[^2]: 
 
-[^3]: 
+[^2]: Xie Yanyan 谢燕燕, “Tianfu gong di qi yanjiu” 天福宫地契研究 [Research on the land title of Tin Hock Palace],” in Nanhai mingzhu tianfu gong 南海明珠天福宫 [South China Sea Pearl Thian Hock Temple] (新加坡: 新加坡福建会馆, 2010), 310–13. (From National Library, Singapore, call no. Chinese RSING 203.5095957 NHM)
 
-[^4]: 
+[^3]: Tong Yong Chuan, “Rare China Artefacts To Go on Display Here,” Straits Times, 14 November 2012, 2–3. (From NewspaperSG)
 
-[^5]: 
+[^4]: Straits Settlements, Colonial Secretary’s Office, Annual Report on the Social and Economic Progress of the People of the Straits Settlements, 1937 (Singapore: Straits Settlements. Colonial Secretary's Office, 1937, 84. (From National Library, Singapore, call no. RSING 959.51 SSCSOA)
 
-[^6]: 
+[^5]: Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan (Singapore: Singapore Hokkien Huay Kuan, 2006), 28. (From National Library, Singapore, call no. RSING 369.25957 GUA)
 
-[^7]: 
 
-[^8]: 
+[^6]: “Thian Hock Keng (Temple of Heavenly Fortune),” in Chinese Epigraphy in Singapore 1819–1911, ed. Kenneth Dean and Hue Guan Thye (Singapore: NUS Press; Guilin City: Guangxi Normal University, 2017), 124. (From National Library, Singapore, call no. RSING 495.111 DEA)
 
-[^9]: 
+[^7]: “No. 158 Telok Ayer Street,” Urban Redevelopment Authority, accessed 15 January 2024, https://www.ura.gov.sg/-/media/Corporate/Get-Involved/Conserve-Built-Heritage/AHA/2001/AHA-2001---158-Telok-Ayer-Street.pdf.
 
-[^10]: 
+[^8]: “Project Profiles for 2001 UNESCO Heritage Award Winners,” UNESCO, accessed 15 January 2024, https://articles.unesco.org/sites/default/files/medias/fichiers/2023/06/2001-winners.pdf.
 
-[^11]: 
 
-[^12]: 
+[^9]: Guardian of the South Seas, 144. 
 
-[^13]: 
 
-[^14]: 
+[^10]: Guardian of the South Seas, 48. 
 
-[^15]: 
 
-[^16]: 
+[^11]: Guardian of the South Seas, 68. 
 
-[^17]: 
+[^12]: “About Us,” Singapore Hokkien Huay Kuan, accessed 15 January 2024, https://www.shhkca.com.sg/about.
 
-[^18]: 
+[^13]: Guardian of the South Seas, 89–91. 
 
-[^19]: 
+[^14]: Xinjiapo fujian huiguan zhi jian weiyuanhui huiyi lu, 1950–1984
+新加坡福建会馆执监委员会会议录], 1950–1984 [Minutes of the executive committee of the Singapore Hokkien Huay Kuan, 1950–1984] (Singapore: n.p., 1946–1965). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK])
 
-[^20]: 
+[^15]: Xinjiapo fujian huiguan zhi jian weiyuanhui huiyi lu, 1962–1987
+新加坡福建会馆执监委员会会议录], 1962–1987 [Minutes of the executive committee of the Singapore Hokkien Huay Kuan, 1962–1987] (Singapore: n.p., 1946–1965). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK])
 
-[^21]: 
+[^16]: Yi'an ji zhongyao wenjian, 1948–1971 议案及重要文件, 1948–1971 [Proposals and important documents, 1948–1971] (Singapore: n.p., 1946–1965). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK])   
 
-[^22]: 
+[^17]: Singapore Hokkien Huay Kuan Collection: Amendments to the Association’s Articles, Notices and Circulars (Singapore: n.p., 1981). (From National Library, Singapore, call no. RCLOS 369.25957 SIN [HHK])
 
-[^23]: 
+[^18]: [Xinjiapo fujian huìguan zhencang]: [Xìnjian], 1950–1952 [新加坡福建会馆珍藏]: [信件], 1950–1952 [Singapore Hokkien Huay Kuan Collection]: [Letters], 1950–1952 (Singapore: n.p., 1946–1965). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK]); [Xinjiapo fujian huiguan zhencang]: [Putong zhongwen laiwang wenjian], 1964–1977 [新加坡福建会馆珍藏]: [普通中文来往文件], 1964–1977 [Singapore Hokkien Huay Kuan Collection]: [General Chinese correspondence documents], 1964–1977] (Singapore: n.p., 1964–1977). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK])
 
-[^24]:
+[^19]: Nan qiao nu zhong qingzhu chuang xiao nian sān zhounian ji xin xiaoshe luocheng jinian tekan南桥女中庆祝创校廿三周年暨新校舍落成纪念特刊 [Nanqiao Girls' High School celebrates the 23rd anniversary of the founding of the school and the completion of the new school building special issue] (新加坡: 南桥女子中学校, 1970), 10. (From National Library, Singapore, call no. RCLOS 373.5957 NQN)
+
+[^20]: “School History,” Chung Cheng High School (Yishun), accessed 6 February 2024, https://www.chungchenghighyishun.moe.edu.sg/our-cchy/school-history/. 
+
+[^21]: “Chuantong wenhua liulan – jinlan miao” 传统文化浏览—金兰庙 [Cultural walkabout – Kim Lan Beo Temple], Chuan Deng 传灯, no. 59 (January 2014), 7, shhk.com.sg/wp-content/uploads/2015/12/SHHK-Newsletter-59.pdf. 
+
+[^22]: British Royal Air Force, “Part of a Series of Aerial Photographs Showing Central Singapore,” 17 February 1946, photograph. (From National Archives of Singapore, accession no. 158270)
+
+[^23]: [Xinjiapo fujian huiguan zhencang]: Tianfu gong erzhan qijian chanye dengji ji xiangguan wénjian, 1942–1948 [新加坡福建会馆珍藏]: 天福宫二战期间产业登记及相关文件], 1942–1948 [Singapore Hokkien Huay Kuan Collection]: [Thian Hock Keng Industrial Registration and Related Documents during World War II], 1942–1948 ([新加坡], 1942–1948). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP-[HHK])
+
+[^24]: Ratnala Thulaja Naidu, “Chinese Villages in the North,” in Singapore Infopedia. National Library Board Singapore. Article published 2005.
