@@ -509,24 +509,17 @@ I want to be a collector. Singapore collects and preserves.&nbsp;</p>
 <br>I want to be a librarian. I want to collect and preserve. Yes.&nbsp;</p>
 <p><strong>Jimmy</strong> 
 <br>Wonderful. Wonderful. Let me ask you, you know, I love Malay food, by
-the way. What do you think is the most maligned ingredient in Malay cooking?</p>
-<p>&nbsp;</p>
+the way. What do you think is the most maligned ingredient in Malay cooking?&nbsp;</p>
 <p><strong>Khir</strong>
-</p>
-<p>It has to be the poor coconut. The poor coconut that we enjoy so much.</p>
-<p>&nbsp;</p>
+<br>It has to be the poor coconut. The poor coconut that we enjoy so much.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Why?</p>
-<p>&nbsp;</p>
+<br>Why?&nbsp;</p>
 <p><strong>Khir</strong>
-</p>
-<p>You know there’s all this notion about being unhealthy, about coconut
+<br>You know there’s all this notion about being unhealthy, about coconut
 milk and yet look at the line for Katong <em>laksa</em>. Look at the line
 for <em>nasi lemak</em>. There’s something that’s amiss. Here we are thinking
 that it’s very bad, but you cannot make your <em>laksa</em> with soybean
-or your cow’s milk or almond milk, you can’t do it.</p>
-<p>&nbsp;</p>
+or your cow’s milk or almond milk, you can’t do it.&nbsp;</p>
 <p>What makes it <em>laksa</em>? It’s the <em>lemak</em> that comes from the <em>santan</em>,
 from the coconut cream and folks would also need to read this article great
 that came out of the <em>New York Times</em> some time back. It’s called
@@ -537,96 +530,65 @@ up trying everything in coconut oil. Until the industry tells you this.
 There’s something else. It’s called vegetable oil, which is actually palm
 oil. So, I think it’s been so maligned for coconut. But is it again, the
 coconut? It’s just so wonderful. This from coconut oil, to coconut cream
-and the coconut pulp itself, the kernel, there’s so much you can do.</p>
-<p>&nbsp;</p>
+and the coconut pulp itself, the kernel, there’s so much you can do.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I wouldn’t have thought that coconut was maligned at all because I’m very
+<br>I wouldn’t have thought that coconut was maligned at all because I’m very
 fond of it actually. When people buy your book, what is the one recipe
-you would tell them to try out?</p>
-<p>&nbsp;</p>
+you would tell them to try out?&nbsp;</p>
 <p><strong>Khir</strong>
-</p>
-<p>Wow, that’s a tough one, Jimmy. Very, very, very hard. It’s like you have
-10 kids and I ask you, Jimmy, which kid do you love most?</p>
-<p>&nbsp;</p>
+<br>Wow, that’s a tough one, Jimmy. Very, very, very hard. It’s like you have
+10 kids and I ask you, Jimmy, which kid do you love most?&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, what if it’s for someone who, like, you know, has – I won't name
+<br>Okay, what if it’s for someone who, like, you know, has – I won't name
 names – fried an egg and managed to burn his foot. What recipe would you
-recommend to them to try?</p>
-<p>&nbsp;</p>
+recommend to them to try?&nbsp;</p>
 <p><strong>Khir</strong>
-</p>
-<p>Well, let me see. Let me think. So, no frying involved. Now that you have
+<br>Well, let me see. Let me think. So, no frying involved. Now that you have
 rephrased the question then I got to think of what would be easy to make… <em>mee siam</em>.
 I mean it’s fairly easy. That’s not because you talked about <em>mee siam</em> already
-earlier. So, let’s talk about something else.</p>
-<p>&nbsp;</p>
+earlier. So, let’s talk about something else.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p><em>Nasi lemak</em>. Another one of my favorites.</p>
-<p>&nbsp;</p>
+<br><em>Nasi lemak</em>. Another one of my favorites.&nbsp;</p>
 <p><strong>Khir</strong>
-</p>
-<p>So, lots of them. This bit. Quite a bit of dexterity and practice.</p>
-<p>&nbsp;</p>
+<br>So, lots of them. This bit. Quite a bit of dexterity and practice.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, you know what? I think you’re too much of a perfectionist. I will
+<br>Okay, you know what? I think you’re too much of a perfectionist. I will
 never be able to make any kind of good Malay food because clearly whatever
-you know, your bar is very high.</p>
-<p>&nbsp;</p>
+you know, your bar is very high.&nbsp;</p>
 <p><strong>Khir</strong>
-</p>
-<p>No, no. It’s not that my bar is very high. But I’m just trying to think
+<br>No, no. It’s not that my bar is very high. But I’m just trying to think
 of something that, you know – I keep telling people the recipes have been
 tested, retested and retested such that if you give it to anyone, give
 it to a teenager, he or she should be able to cook and produce the food
-the way it should be.</p>
-<p>&nbsp;</p>
+the way it should be.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. I will take you at your word, Khir, and I will allow your book in
+<br>Okay. I will take you at your word, Khir, and I will allow your book in
 my kitchen and I will make <em>mee siam</em> or <em>mee maidin</em> then and
 if it doesn’t work out well, you know, I’ve got your number here. I’m going
-to be knocking on your door.</p>
-<p>&nbsp;</p>
+to be knocking on your door.&nbsp;</p>
 <p><strong>Khir</strong>
-</p>
-<p>You feel free to do that.</p>
-<p>&nbsp;</p>
+<br>You feel free to do that.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, last question. Complete this sentence. Food is...?</p>
-<p>&nbsp;</p>
+<br>Okay, last question. Complete this sentence. Food is...?&nbsp;</p>
 <p><strong>Khir</strong>
-</p>
-<p>Hmm... Food is nourishment for the body and soul. A universal language
-that brings people together and tells stories of culture and tradition.</p>
-<p>&nbsp;</p>
+<br>Hmm... Food is nourishment for the body and soul. A universal language
+that brings people together and tells stories of culture and tradition.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, that’s beautiful. Yeah. You know, thank you Khir for joining us
+<br>Okay, that’s beautiful. Yeah. You know, thank you Khir for joining us
 on BiblioAsia+. To watch Khir make <em>mee maidin</em> and to get the recipe
 check out <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>,
 and of course check out Khir’s book as well, available in all good bookshops
 and the <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205498204" rel="noopener noreferrer nofollow" target="_blank">National Library</a>.
 Khir, once again, thank you for joining us on this very rainy afternoon.
 It is a pleasure to have you. I’ve learned so much. It is just tremendous
-having you here. Thank you.</p>
-<p>&nbsp;</p>
-<p>Khir</p>
-<p>Thank you so much, Jimmy. Thank you NLB for having me here. Yes, for this
-wonderful and fun kind of programme, BiblioAsia+.</p>
-<p>&nbsp;</p>
-<p><strong>Jimmy</strong>
-</p>
-<p>Thank you, Khir.</p>
-<p>&nbsp;</p>
+having you here. Thank you.&nbsp;</p>
 <p><strong>Khir</strong>
-</p>
-<p>Thank you.</p>
+<br>Thank you so much, Jimmy. Thank you NLB for having me here. Yes, for this
+wonderful and fun kind of programme, BiblioAsia+.&nbsp;</p>
+<p><strong>Jimmy</strong>
+<br>Thank you, Khir.&nbsp;</p>
+<p><strong>Khir</strong>
+<br>Thank you.</p>
 <p><strong>Jimmy</strong> 
 <br>If you’ve enjoyed this episode,&nbsp;<a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">subscribe to the podcast</a>&nbsp;and
 the&nbsp;<em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia</a></em>&nbsp;
