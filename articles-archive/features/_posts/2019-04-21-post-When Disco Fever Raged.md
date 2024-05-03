@@ -242,7 +242,7 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 [^31]:Chandran, R., &amp; Pereira, G. (1973, November 2). [Govt shuts down 6 discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731102-1.2.16). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^32]:D’Rose, R. (Interviewer). (1996, February 28). *[Oral history interview with Mervyn Nonis](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d9222956-115e-11e3-83d5-0050568939ad-OHC001737_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=24)* [Transcript of MP3 recording no. 001737/11/3, p. 63]. Retrieved from National Archives of Singapore website.
+[^32]:D’Rose, R. (Interviewer). (1996, February 28). *[Oral history interview with Mervyn Nonis](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/d9222956-115e-11e3-83d5-0050568939ad-OHC001737_003/web/html5/index.html)* [Transcript of MP3 recording no. 001737/11/3, p. 63]. Retrieved from National Archives of Singapore website.
 
 [^33]:[Final goodbye to the discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19731214-1.2.20.26). (1973, December 14). *New Nation*, p. 7. Retrieved from NewspaperSG.
 
