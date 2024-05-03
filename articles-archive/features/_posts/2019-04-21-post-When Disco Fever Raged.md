@@ -248,7 +248,7 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 [^34]:[Boiler Room disco closes down](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731031-1.2.19). (1973, October 31). *The Straits Times*, p. 1; [Final goodbye to the discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19731214-1.2.20.26). (1973, December 14). *New Nation*, p. 7. Retrieved from NewspaperSG.
 
-[^35]:*[Oral history interview with Mervyn Nonis](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d9222956-115e-11e3-83d5-0050568939ad-OHC001737_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=24),* 28 Feb 1996, pp. 68–70.
+[^35]:*[Oral history interview with Mervyn Nonis]https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/d9222956-115e-11e3-83d5-0050568939ad-OHC001737_003/web/html5/index.html),* 28 Feb 1996, pp. 68–70.
 
 [^36]:[Govt eases curbs on nightclubs and discos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750215-1.2.51). (1975, February 15). *The Straits Times*, p. 7; [Disco to close shop again](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19770624-1.2.27). (1977, June 24). *New Nation*, p. 4. Retrieved from NewspaperSG.
 
