@@ -6,7 +6,7 @@ description: ""
 ---
 #### We are familiar with local Malay favourites such as _mee rebus_ and _mee siam_. But mention _mee maidin_ and you might get puzzled looks. Join author Khir Johari as he recreates this rare dish from Kampong Glam and takes a deep dive into its history and its star ingredient – krill.
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/w_d1IQKeguM" frameborder="0" allowfullscreen=""></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/T0i0lbiblQs" frameborder="0" allowfullscreen=""></iframe></div>
 
 #### **Episode summary** ####
 Khir Johari, food historian and award-winning author of _The_ _Food of Singapore Malays_ (2021), makes _mee maidin_ – a noodle dish based on a krill ragù – and tells us more about its origins. Why does a 1986 cookbook call it “mee mahdin”? And how was krill, once abundant in Singapore’s waters, caught using traditional fishing methods?

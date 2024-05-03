@@ -54,7 +54,8 @@ sections:
         surrender Singapore to the Japanese on 15 February 1942
       button: NOT BY ONE MAN ALONE
       url: /vol-20/issue-2/jul-sep-2024/men-surrender-singapore-japanese-occupation/
-      image: /images/Vol-12-issue-4/surviving-japanese-occupation/1-surviving-japanese-occupation.png
+      image: /images/Vol 20 Issue 2/Men Who Surrendered
+        Singapore/british_surrender.png
       alt: Image alt text
   - infopic:
       title: The Tragedy of Singapore’s First Boxing Superstar
