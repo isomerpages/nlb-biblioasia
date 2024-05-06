@@ -200,7 +200,7 @@ Salt to taste<br>
 
 [^16]:During the Japanese Occupation, the Municipal Building was made the municipal headquarters of the Japanese forces. When Singapore was granted city status on 22 September 1951, the building was renamed City Hall. Today, the former City Hall and the former Supreme Court adjoining it have been converted into the National Gallery Singapore.
 
-[^17]:Low, L.L. (Interviewer). (1983, May 14). *[Oral history interview with Lee Tian Soo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e23b2285-115d-11e3-83d5-0050568939ad-OHC000265_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of recording no. 000265/7/3, p. 31]. Retrieved from National Archives of Singapore website.
+[^17]:Low, L.L. (Interviewer). (1983, May 14). *[Oral history interview with Lee Tian Soo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e23b2285-115d-11e3-83d5-0050568939ad-OHC000265_003/web/html5/index.html)* [Transcript of recording no. 000265/7/3, p. 31]. Retrieved from National Archives of Singapore website.
 
 [^18]:Yeo, G.L. (Interviewer). (1993, October 20). *[Oral history interview with Tan Sock Kern](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/23333745-115e-11e3-83d5-0050568939ad-OHC001427_015/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001427/20/15, p. 225]. Retrieved from National Archives of Singapore website.
 
