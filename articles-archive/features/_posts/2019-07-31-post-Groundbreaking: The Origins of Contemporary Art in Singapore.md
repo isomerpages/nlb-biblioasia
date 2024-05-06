@@ -5,8 +5,8 @@ permalink: /vol-15/issue-2/jul-sep-2019/contemporary-art/
 layout: post
 image: /images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking4.JPG
 description: ""
+variant: markdown
 ---
-
 #### 1988 has been held as the watershed year in which Singapore’s contemporary art took root with the establishment of The Artists Village. **Jeffrey Say** debunks this view, asserting that the contemporary art movement began earlier.
 
 <img src="/images/Vol-15-issue-2/origins-of-art-in-sg/GroundBreaking1.JPG">
@@ -143,11 +143,11 @@ After this event, Goh, Salleh and Chandrasekaran never exhibited collectively ag
 #### **NOTES**
 [^1]:The Artists Village (TAV) is an artist colony founded by artist Tang Da Wu in 1988 at Lorong Gambas in Sembawang. Tang invited young artists such as Wong Shih Yaw, Lee Wen, Amanda Heng and Zai Kuning to set up their studios in a *kampong* setting there. In the following year, TAV became active with open studio shows, installations and performances, held at Lorong Gambas and venues such as the National Museum Art Gallery. In 1990, Lorong Gambas was repossessed by the government for redevelopment and TAV moved to a number of different temporary locations.
 [^2]:Lenzi, I. (c. 2009). The Artists Village and the birth of contemporary art in Singapore: Koh Nguang How in conversation with Iola Lenzi. In I. Lenzi (Ed), *Concept, context, contestation: art and the collective in Southeast Asia* (pp. 190–195). Bangkok: Bangkok Art and Cultural Centre Foundation. (Not available in NLB holdings).
-[^3]:Storer, R. (2016). Melting into air: Tan Teng-Kee in Singapore. In R. Storer, C. Chikiamco & A. Tan (Eds.), [*A fact has no appearance: Art beyond the object*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202388798) (pp. 55–67). Singapore, National Gallery, Singapore. (Call no.: RSING 709.5909047 FAC).
+[^3]:Storer, R. (2016). Melting into air: Tan Teng-Kee in Singapore. In R. Storer, C. Chikiamco &amp; A. Tan (Eds.), [*A fact has no appearance: Art beyond the object*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202388798) (pp. 55–67). Singapore, National Gallery, Singapore. (Call no.: RSING 709.5909047 FAC).
 [^4]:Kwok, K. C. (1996). [*Channels and confluences: A history of Singapore art*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7628104). Singapore, Singapore Art Museum. (Call no.: RSING 709.5957 KWO).
 [^5]:Sabapathy, T.K. (1993, June). Trimurti: Contemporary art in Singapore. *Art and Asia Pacific*, pp. 30–35. (Not available in NLB holdings).
 [^6]:Sabapathy, Jun 1993, pp. 30–35.
-[^7]:Sheares, C. (Interviewer). (1998, April 15). [*Oral history interview with Salleh Japar*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/10bab64f-115f-11e3-83d5-0050568939ad-OHC002018_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9) [Transcript of recording no. 002018/4/1, p. 2]. Retrieved from National Archives of Singapore website. Art history has shown that new movements – from the Impressionists to the Vienna Secessionists – invariably started when students and young artists rebelled against prevailing art practices that they deemed to be conservative, constraining and outmoded.
+[^7]:Sheares, C. (Interviewer). (1998, April 15). [*Oral history interview with Salleh Japar*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/10bab64f-115f-11e3-83d5-0050568939ad-OHC002018_001/web/html5/index.html) [Transcript of recording no. 002018/4/1, p. 2]. Retrieved from National Archives of Singapore website. Art history has shown that new movements – from the Impressionists to the Vienna Secessionists – invariably started when students and young artists rebelled against prevailing art practices that they deemed to be conservative, constraining and outmoded.
 [^8]:Interview with Ahmad Abu Bakar, 16 February 2019.
 [^9]:Interview with Ahmad Abu Bakar, 16 February 2019.
 [^10]:These included Art Commandos, Yin Yang Festival and Cheo Chai-Hiang’s *Gentleman in Tie and Suit*.
