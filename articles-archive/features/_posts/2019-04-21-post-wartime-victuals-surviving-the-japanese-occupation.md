@@ -4,6 +4,7 @@ date: 2019-04-21
 permalink: /vol-15/issue-1/apr-jun-2019/wartime-victuals/
 image: /images/Vol-15-issue-1/wartime-victuals/01_wartime.jpg
 layout: post
+variant: markdown
 ---
 #### Desperate times call for desperate measures. **Lee Geok Boi** trawls the oral history collection of the National Archives to document how people coped with the precious little food they had during the war.
 
@@ -113,7 +114,7 @@ At the end of the Occupation there were some Endau settlers who chose to remain 
 
 #### **Wartime Victuals**
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/R8XTJi9NK4E" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/R8XTJi9NK4E" frameborder="0" allowfullscreen=""></iframe></div>
 
 With rice supplies drying up, tapioca, sweet potato and *ragi* (a type of millet) became the default staples in occupied Singapore. Tapioca and sweet potato were fairly easy to grow, especially tapioca, but it wasn’t pleasant to eat on its own. Tapioca that was made into noodles became rubbery when cooked. Bread was made with non-wheat flours, which yielded a tough loaf that sometimes had to be fried to make it remotely edible.
 
@@ -155,7 +156,7 @@ Salt to taste<br>
 	• Add the <i>kangkong</i> and boil.<br>
 • Adjust the seasoning to taste.
 <br><br>
-<img style="width:400px"  src="/images/Vol-15-issue-1/wartime-victuals/11_wartime.jpg"></span>
+<img style="width:400px" src="/images/Vol-15-issue-1/wartime-victuals/11_wartime.jpg"></span>
 
 <div style="background-color: white;">
 <br>
@@ -167,19 +168,19 @@ Salt to taste<br>
 
 #### **NOTES**
 
-[^1]:Kwa, C.G., Heng, D., & Tan, T.Y. (2009). *[Singapore: A 700-year history: From early emporium to world city](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984)*. Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA-[HIS])
+[^1]:Kwa, C.G., Heng, D., &amp; Tan, T.Y. (2009). *[Singapore: A 700-year history: From early emporium to world city](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13205984)*. Singapore: National Archives of Singapore. (Call no.: RSING 959.5703 KWA-[HIS])
 
 [^2]:Koh, T., et al. (Eds.). (2006). *[Singapore: The encyclopaedia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12768833)* (p. 24). Singapore: Editions Didier Millet in association with National Heritage Board. (Call no.: RSING 959.57003 SIN-[HIS])
 
-[^3]:Singapore. Department of Statistics. (1983). *[Economic & social statistics Singapore 1960–1982](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082508)* (p. 4). Singapore: Dept. of Statistics. (Call no.: RSING q315.957 ECO). The land use figure was taken from 1950. Pre-war figures would have been similar or even less.
+[^3]:Singapore. Department of Statistics. (1983). *[Economic &amp; social statistics Singapore 1960–1982](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082508)* (p. 4). Singapore: Dept. of Statistics. (Call no.: RSING q315.957 ECO). The land use figure was taken from 1950. Pre-war figures would have been similar or even less.
 
 [^4]:[Singapore. Department of Statistics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082508), 1983, p. 7.
 
-[^5]:Huff, G., & Majima, S. (Trans. & Ed.). (2018). *[World War II Singapore: The Chosabu reports on Syonan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361)* (p. 4). Singapore: NUS Press. (Call no.: RSING 959.5703 WOR-[HIS])
+[^5]:Huff, G., &amp; Majima, S. (Trans. &amp; Ed.). (2018). *[World War II Singapore: The Chosabu reports on Syonan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361)* (p. 4). Singapore: NUS Press. (Call no.: RSING 959.5703 WOR-[HIS])
 
 [^6]:The Chosabu was set up in Syonan by a team of Japanese academics and civil servants to collect statistics aimed getting a better understanding of Singapore, a key port city in the region. Such an understanding was critical to Japan’s plans for the realisation of its Greater East Asia Co-Prosperity Sphere, a rationalisation for its military expansionism. 
 
-[^7]:[Huff & Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, p. 4.
+[^7]:[Huff &amp; Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, p. 4.
 
 [^8]:Lee, G.B. (2005). *[The Syonan years: Singapore under Japanese rule 1942–1945](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12661517)* (p. 55). Singapore: National Archives of Singapore and Epigram. (Call no.: RSING q940.53957 LEE-[WAR]). The figure for British troops taken captive varies from about 100,000 to 130,000.
 
@@ -187,26 +188,26 @@ Salt to taste<br>
 
 [^10]:[Singapore. Department of Statistics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082508), 1983, p. 10.
 
-[^11]:Low, L.L. (Interviewer). (1984, April 12). *[Oral history with Tan Cheng Hwee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5dfa9ebc-115f-11e3-83d5-0050568939ad-OHC000416_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* [Transcript of recording no. 000416/14/9, p. 112–113]. Retrieved from National Archives of Singapore website.
+[^11]:Low, L.L. (Interviewer). (1984, April 12). *[Oral history with Tan Cheng Hwee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5dfa9ebc-115f-11e3-83d5-0050568939ad-OHC000416_009/web/html5/index.html)* [Transcript of recording no. 000416/14/9, p. 112–113]. Retrieved from National Archives of Singapore website.
 
 [^12]:The term “banana money” derived its name from the motif of the banana plant stamped on the $10 note. The initial issue of “banana money” had serial numbers and contained safety features such as a watermark and a security thread. Over time, these features were dropped as the Japanese military issued more notes and in larger denominations whenever it ran out of money. This led to hyperinflation and a sharp fall in the value of the currency.
 
-[^13]:Tan, B.L. (Interviewer). (1986, December 14). *[Oral history interview with Chua Eng Cheow](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/0289eef5-115e-11e3-83d5-0050568939ad-OHC000722_010/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7)* [Transcript of recording no. 000722/16/10, p. 133]. Retrieved from National Archives of Singapore website.
+[^13]:Tan, B.L. (Interviewer). (1986, December 14). *[Oral history interview with Chua Eng Cheow](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/0289eef5-115e-11e3-83d5-0050568939ad-OHC000722_010/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of recording no. 000722/16/10, p. 133]. Retrieved from National Archives of Singapore website.
 
-[^14]:Low, L.L. (Interviewer). (1984, April 2). *[Oral history interview with Tan Cheng Hwee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ec7f82a3-115d-11e3-83d5-0050568939ad-OHC000416_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* [Transcript of recording no. 000416/14/6, pp. 72–73]. Retrieved from National Archives of Singapore website.
+[^14]:Low, L.L. (Interviewer). (1984, April 2). *[Oral history interview with Tan Cheng Hwee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ec7f82a3-115d-11e3-83d5-0050568939ad-OHC000416_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9)* [Transcript of recording no. 000416/14/6, pp. 72–73]. Retrieved from National Archives of Singapore website.
 
-[^15]:Low, L.L., & Tan, B.L. (Interviewers). (1984, August 22). *[Oral history interview with Chu Shuen Choo @ Mrs Gay Wan Guay](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ef14170d-115d-11e3-83d5-0050568939ad-OHC000462_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000462/12/5, p. 69]. Retrieved from National Archives of Singapore website.
+[^15]:Low, L.L., &amp; Tan, B.L. (Interviewers). (1984, August 22). *[Oral history interview with Chu Shuen Choo @ Mrs Gay Wan Guay](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ef14170d-115d-11e3-83d5-0050568939ad-OHC000462_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000462/12/5, p. 69]. Retrieved from National Archives of Singapore website.
 
 [^16]:During the Japanese Occupation, the Municipal Building was made the municipal headquarters of the Japanese forces. When Singapore was granted city status on 22 September 1951, the building was renamed City Hall. Today, the former City Hall and the former Supreme Court adjoining it have been converted into the National Gallery Singapore.
 
-[^17]:Low, L.L. (Interviewer). (1983, May 14). *[Oral history interview with Lee Tian Soo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e23b2285-115d-11e3-83d5-0050568939ad-OHC000265_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3)* [Transcript of recording no. 000265/7/3, p. 31]. Retrieved from National Archives of Singapore website.
+[^17]:Low, L.L. (Interviewer). (1983, May 14). *[Oral history interview with Lee Tian Soo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e23b2285-115d-11e3-83d5-0050568939ad-OHC000265_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of recording no. 000265/7/3, p. 31]. Retrieved from National Archives of Singapore website.
 
 [^18]:Yeo, G.L. (Interviewer). (1993, October 20). *[Oral history interview with Tan Sock Kern](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/23333745-115e-11e3-83d5-0050568939ad-OHC001427_015/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001427/20/15, p. 225]. Retrieved from National Archives of Singapore website.
 
-[^19]:Ng, S.Y. (Interviewer). (1983, March 10). *[Oral history interview with Kwang Poh](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/29b7d7ee-115f-11e3-83d5-0050568939ad-OHC000256_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3)* [Transcript of recording no. 000256/14/9, p. 110]. Retrieved from National Archives of Singapore website.
+[^19]:Ng, S.Y. (Interviewer). (1983, March 10). *[Oral history interview with Kwang Poh](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/29b7d7ee-115f-11e3-83d5-0050568939ad-OHC000256_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of recording no. 000256/14/9, p. 110]. Retrieved from National Archives of Singapore website.
 
-[^20]:Low, L.L., & Tan, B.L. (Interviewers). (1985, March 25). *[Oral history interview with Chu Shuen Choo @ Mrs Gay Wan Guay](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f0e69883-115d-11e3-83d5-0050568939ad-OHC000462_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000462/12/9, p. 120–121]. Retrieved from National Archives of Singapore website.
+[^20]:Low, L.L., &amp; Tan, B.L. (Interviewers). (1985, March 25). *[Oral history interview with Chu Shuen Choo @ Mrs Gay Wan Guay](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/f0e69883-115d-11e3-83d5-0050568939ad-OHC000462_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000462/12/9, p. 120–121]. Retrieved from National Archives of Singapore website.
 
-[^21]:Low, L.L., & Tan, B.L. (Interviewers). (1984, August 22). *[Oral history interview with Chu Shuen Choo @ Mrs Gay Wan Guay](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ef14170d-115d-11e3-83d5-0050568939ad-OHC000462_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000462/12/6, p. 79]. Retrieved from National Archives of Singapore website.
+[^21]:Low, L.L., &amp; Tan, B.L. (Interviewers). (1984, August 22). *[Oral history interview with Chu Shuen Choo @ Mrs Gay Wan Guay](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ef14170d-115d-11e3-83d5-0050568939ad-OHC000462_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000462/12/6, p. 79]. Retrieved from National Archives of Singapore website.
 
 [^22]:Low, L.L. (Interviewer). (1984, March 3). *[Oral history interview with Tan Cheng Hwee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5f04b27f-115f-11e3-83d5-0050568939ad-OHC000416_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000416/14/5, p. 63]. Retrieved from National Archives of Singapore website.
