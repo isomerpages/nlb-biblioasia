@@ -96,16 +96,16 @@ This brief survey only touches the surface of what is available in the Singapore
 #### **Notes**
 
 
-[^1]: The digitised title deeds are available at NL Online: “新加坡福建会馆: 天福宫早期地契”; Thian Hock Keng Temple: Land Title Deeds, 1828–1838. (From National Library, Singapore, call no. RRARE 346.59570438 THI)
+[^1]: The digitised title deeds are available at NL Online: “[新加坡福建会馆: 天福宫早期地契](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b51d8c29-ffa6-4b5a-876c-93d13f9f6c4a)”; [Thian Hock Keng Temple: Land Title Deeds, 1828–1838](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205737116). (From National Library, Singapore, call no. RRARE 346.59570438 THI)
 
 
-[^2]: Xie Yanyan 谢燕燕, “Tianfu gong di qi yanjiu” 天福宫地契研究 [Research on the land title of Tin Hock Palace],” in Nanhai mingzhu tianfu gong 南海明珠天福宫 [South China Sea Pearl Thian Hock Temple] (新加坡: 新加坡福建会馆, 2010), 310–13. (From National Library, Singapore, call no. Chinese RSING 203.5095957 NHM)
+[^2]: Xie Yanyan 谢燕燕, “Tianfu gong di qi yanjiu” 天福宫地契研究 [Research on the land title of Tin Hock Palace],” in Nanhai mingzhu tianfu gong [南海明珠天福宫](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13652997) [South China Sea Pearl Thian Hock Temple] (新加坡: 新加坡福建会馆, 2010), 310–13. (From National Library, Singapore, call no. Chinese RSING 203.5095957 NHM)
 
-[^3]: Tong Yong Chuan, “Rare China Artefacts To Go on Display Here,” Straits Times, 14 November 2012, 2–3. (From NewspaperSG)
+[^3]: Tong Yong Chuan, “[Rare China Artefacts To Go on Display Here](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20121114-1.2.8.1),” Straits Times, 14 November 2012, 2–3. (From NewspaperSG)
 
-[^4]: Straits Settlements, Colonial Secretary’s Office, Annual Report on the Social and Economic Progress of the People of the Straits Settlements, 1937 (Singapore: Straits Settlements. Colonial Secretary's Office, 1937, 84. (From National Library, Singapore, call no. RSING 959.51 SSCSOA)
+[^4]: Straits Settlements, Colonial Secretary’s Office, [Annual Report on the Social and Economic Progress of the People of the Straits Settlements, 1937](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5053544) (Singapore: Straits Settlements. Colonial Secretary's Office, 1937, 84. (From National Library, Singapore, call no. RSING 959.51 SSCSOA)
 
-[^5]: Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan (Singapore: Singapore Hokkien Huay Kuan, 2006), 28. (From National Library, Singapore, call no. RSING 369.25957 GUA)
+[^5]: [Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839) (Singapore: Singapore Hokkien Huay Kuan, 2006), 28. (From National Library, Singapore, call no. RSING 369.25957 GUA)
 
 
 [^6]: “Thian Hock Keng (Temple of Heavenly Fortune),” in Chinese Epigraphy in Singapore 1819–1911, ed. Kenneth Dean and Hue Guan Thye (Singapore: NUS Press; Guilin City: Guangxi Normal University, 2017), 124. (From National Library, Singapore, call no. RSING 495.111 DEA)
