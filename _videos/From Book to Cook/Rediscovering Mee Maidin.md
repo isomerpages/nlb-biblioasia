@@ -107,7 +107,7 @@ soy sauce<br>
 #### **Related Podcast**
 
 <a href="/podcast/kampong-glam-kitchen-malay-world/">Kampong Glam: Kitchen of the Malay World</a><br>
-Here you find different curries and bread, <i>nasi padang</i>, <i>sup tulang</i>, <i>mee siam</i>, a Javanese kitchen, Hainanese coffeeshops and more.
+You hear Malay, Javanese, Tamil and Punjabi as you wander the streets with shops selling colourful textiles and carpets, spices and flowers. Here you find different curries and bread,&nbsp;_nasi padang_,&nbsp;_sup tulang_,&nbsp;_mee siam_, a Javanese kitchen, Hainanese coffeeshops and more. Bookstores sell literature and newspapers as far away as Cairo. In this episode, Khir talks about the Kampong Gelam (present-day Bugis) that he grew up in.
 
 #### **Related Articles**
 
