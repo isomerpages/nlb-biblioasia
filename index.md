@@ -919,6 +919,6 @@ sections:
         from Kampong Glam, and reveals its special ingredient ­­– krill.
       button: Watch The Video
       url: /videos/mee-maidin/
-      image: "/images/Videos: From Book to Cook/2Mee Maidin/Mee_Maidin.jpg"
+      image: "/images/Videos: From Book to Cook/2Mee Maidin/Mee_Maidin_homepage.jpg"
       alt: Image alt text
 ---
