@@ -192,7 +192,7 @@ Salt to taste<br>
 
 [^12]:The term “banana money” derived its name from the motif of the banana plant stamped on the $10 note. The initial issue of “banana money” had serial numbers and contained safety features such as a watermark and a security thread. Over time, these features were dropped as the Japanese military issued more notes and in larger denominations whenever it ran out of money. This led to hyperinflation and a sharp fall in the value of the currency.
 
-[^13]:Tan, B.L. (Interviewer). (1986, December 14). *[Oral history interview with Chua Eng Cheow](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/0289eef5-115e-11e3-83d5-0050568939ad-OHC000722_010/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of recording no. 000722/16/10, p. 133]. Retrieved from National Archives of Singapore website.
+[^13]:Tan, B.L. (Interviewer). (1986, December 14). *[Oral history interview with Chua Eng Cheow](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/0289eef5-115e-11e3-83d5-0050568939ad-OHC000722_010/web/html5/index.html)* [Transcript of recording no. 000722/16/10, p. 133]. Retrieved from National Archives of Singapore website.
 
 [^14]:Low, L.L. (Interviewer). (1984, April 2). *[Oral history interview with Tan Cheng Hwee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ec7f82a3-115d-11e3-83d5-0050568939ad-OHC000416_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9)* [Transcript of recording no. 000416/14/6, pp. 72–73]. Retrieved from National Archives of Singapore website.
 
