@@ -25,8 +25,7 @@ The construction cost of the temple was about 37,000 Spanish dollars. This was b
 
 #### **Thian Hock Keng – More Than Just a Religious Space**
 
-Construction of the present Thian Hock Keng temple at 158 Telok Ayer Street began in 1839 and was completed by 1842.[^6] However, the temple actually traces its roots to a simple prayer house that had been set up in 1821 along the shoreline of Telok Ayer Basin. It was dedicated to the Goddess of the Sea, Mazu  
-(쮜籬), who is the protector of sailors, fishermen, and travellers. Chinese immigrants would go to the prayer house to give thanks for their safe passage to Singapore. &nbsp;
+Construction of the present Thian Hock Keng temple at 158 Telok Ayer Street began in 1839 and was completed by 1842.[^6] However, the temple actually traces its roots to a simple prayer house that had been set up in 1821 along the shoreline of Telok Ayer Basin. It was dedicated to the Goddess of the Sea, Mazu (妈祖), who is the protector of sailors, fishermen, and travellers. Chinese immigrants would go to the prayer house to give thanks for their safe passage to Singapore. &nbsp;
 
 On 28 June 1973, Thian Hock Keng was gazetted as a national monument. The architecture of the temple is consistent with Chinese temple architectural traditions from Minnan (a southern Fujian province in China), such as complex timber posts and beam structures with decorative features like the “swallow tail” roof ridge and intricate carvings.[^7] The temple was repaired and restored to its current state in the mid-1990s and won an honourable mention in the 2001 UNESCO Asia-Pacific Awards for Cultural Heritage Conservation.[^8]
 
@@ -52,12 +51,12 @@ Highlights include documents on an exchange of land between Nan Chiau Girls’ H
 
 The materials in the collection also reveal historical insights into the Huay Kuan’s role as the guardian of sacred spaces. For instance, documents from 1949 to 1982 detail the relocation of Kim Lan Beo. Established in 1830, Kim Lan Beo is one of Singapore’s oldest temples and counts prominent Hokkien individuals like Lim Boon Keng and See Tiong Wah in its past management committees.[^21] It was originally at Yan Kit Road in Tanjong Pagar and came under the management of the Singapore Hokkien Huay Kuan in 1960. The documents track the journey of the temple’s eventual relocation to Kim Tian Road in Tiong Bahru, culminating in its reopening in 1984.
 
-Beyond temple stewardship, the collection showcases the Huay Kuan’s management of burial grounds like Kopi Sua (멜碼) near Mount Pleasant Road[^22] (1961–73) and Leng Kee Sua (1951–80, 播션) in Tiong Bahru. Documents reveal the complexities of maintaining these spaces, such as surveying squatter settlements and addressing illegal construction (at Leng Kee Sua) and dealing with land acquisition by the government due to urban planning.
+Beyond temple stewardship, the collection showcases the Huay Kuan’s management of burial grounds like Kopi Sua (羔丕山) near Mount Pleasant Road[^22] (1961–73) and Leng Kee Sua (1951–80, 麟记山) in Tiong Bahru. Documents reveal the complexities of maintaining these spaces, such as surveying squatter settlements and addressing illegal construction (at Leng Kee Sua) and dealing with land acquisition by the government due to urban planning.
 
 The collection also holds materials that document property rentals under Thian Hock Keng dating back to 1942. For example, a detailed rental register sheds light on the shops – such as Eng Aun Tong  
-(湛갛慊) owned by businessman Eu Tong Sen – that leased the temple’s properties from 1942 to 1948.[^23]
+(永安堂) owned by businessman Eu Tong Sen – that leased the temple’s properties from 1942 to 1948.[^23]
 
-Beyond these property registers and account records are a wealth of papers pertaining to land and rental agreements for various properties and villages, including Mandai Tekong Village (拱적燈밟), off Mandai Road.[^24]
+Beyond these property registers and account records are a wealth of papers pertaining to land and rental agreements for various properties and villages, including Mandai Tekong Village (万利泽光), off Mandai Road.[^24]
 
 The photographs in the collection also provide information about the Huay Kuan and its activities. These showcase past management committees and capture unique moments such as traditional mass weddings, school life, burial grounds – bringing the clan’s past vividly to life.
 
