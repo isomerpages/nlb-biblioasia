@@ -5,8 +5,8 @@ permalink: /vol-15/issue-2/jul-sep-2019/georgette-chen/
 image: /images/Vol-15-issue-2/artist-extraordinaire/Artist1.JPG
 layout: post
 description: ""
+variant: markdown
 ---
-
 #### **Sara Siew** examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
 
 <img style="width: 700px; height: 430px;" src="/images/Vol-15-issue-2/artist-extraordinaire/Artist1.JPG">
@@ -55,7 +55,7 @@ Despite their vastly different professions, the two were aligned in their mutual
 
 Despite their 30-year age difference, and the initial disapproval of Chen’s father at their pairing, the couple found in each other “the closest of companions”,[^7] and were married in Paris in 1930. Chen would take on Eugene’s surname and retain it even when she remarried after his death.
 
-The revelatory nature of the written word – even of life at its most mundane – is exemplified in Chen’s writings. The simple, sequestered joys that she shared with Eugene in Paris were rarely mentioned publicly; rather, they were expressed in diaries where she recorded the minutiae of everyday life with her husband – from giving him a haircut to talking a walk together to search for pineapples and avocados for a still-life painting. In one candid entry, she wrote: “Begin small canvas of E portrait. Poses so badly & talks all the time.”[^8]
+The revelatory nature of the written word – even of life at its most mundane – is exemplified in Chen’s writings. The simple, sequestered joys that she shared with Eugene in Paris were rarely mentioned publicly; rather, they were expressed in diaries where she recorded the minutiae of everyday life with her husband – from giving him a haircut to talking a walk together to search for pineapples and avocados for a still-life painting. In one candid entry, she wrote: “Begin small canvas of E portrait. Poses so badly &amp; talks all the time.”[^8]
 
 Chen recorded not just details of her daily life but also, significantly, information on her art and the subjects she was studying or portraying, with descriptions such as “roses still-life 10F” and “nature morte 6F”, terms that likely refer to standard French canvas sizes. On occasion, she would also briefly mention if her painting or study was successful, or if it had to be executed again. These details, which Chen recorded dispassionately and faithfully, offer precious insights into the often hidden and banal aspects of artistic practice, as well as the hard work and dedication behind an artist’s craft.
 
@@ -147,9 +147,9 @@ The book also draws from materials held in the collections of the National Libra
 [^1]:Chen, G. (1974, April 12). *Georgette Chen to Dorothy and Lucille Lee* [Letter]. Retrieved from National Gallery Singapore. Dorothy Lee was the cousin of Eugene Chen, Georgette’s first husband, and Lucille was Dorothy’s daughter. Georgette often addressed Dorothy as her cousin, keeping in touch with her for many years after Eugene Chen’s passing; she once told her stepmother that Dorothy was “just like a sister” to her.
 [^2]:Chen, G. (1953, September 7.) *Chen’s personal transcript of her interview with Radio Malaya*. Retrieved from National Gallery Singapore.
 [^3]:Huang, L. (1959, August 30). [I meet the remarkable Mrs Chen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19590830-1.2.43). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
-[^4]:Sheares, C. (Interviewer). (1988, November 2). [*Oral history interview with Georgette Liying Chen*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/9ed2a0cb-115f-11e3-83d5-0050568939ad-OHC000956_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9) [Transcript of recording no. 000956/6/1, p. 6]. Retrieved from National Archives of Singapore website.
+[^4]:Sheares, C. (Interviewer). (1988, November 2). [*Oral history interview with Georgette Liying Chen*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/9ed2a0cb-115f-11e3-83d5-0050568939ad-OHC000956_001/web/html5/index.html) [Transcript of recording no. 000956/6/1, p. 6]. Retrieved from National Archives of Singapore website.
 [^5]:Chen, G. (1959, October 27). *Georgette Chen to Hsu Mingmeo* [Letter]. Retrieved from National Gallery Singapore. Hsu was a friend of Eugene Chen’s and a medical doctor who modernised medicine in China. He was also the author of *Dr Wu Lien Teh: The Plague Fighter*. In the letter, Georgette was wishing Hsu success with a book he was writing, possibly a novel titled *Five Years in Love*.
-[^6]:Sheares, C. (Interviewer). (1988, November 2). [*Oral history interview with Chen, Georgette Liying*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/0ea9406c-115e-11e3-83d5-0050568939ad-OHC000956_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7) [Transcript of recording no. 000956/6/2, p. 16]. Retrieved from National Archives of Singapore website.
+[^6]:Sheares, C. (Interviewer). (1988, November 2). [*Oral history interview with Chen, Georgette Liying*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/0/0ea9406c-115e-11e3-83d5-0050568939ad-OHC000956_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7) [Transcript of recording no. 000956/6/2, p. 16]. Retrieved from National Archives of Singapore website.
 [^7]:Chen, G. (n.d.). *Recollections of Eugene Chen by his widow, notes for Dr Wu Lien-Teh*’s book. Retrieved from National Gallery Singapore.
 [^8]:Chen, G. (1953, March 25). *Diary of 1953* [Diary]. Retrieved from National Gallery Singapore.
 [^9]:The word “interviews” came from Georgette. See Chen, G. (1961, February 15). *Georgette Chen to Mr and Mrs Kan* [Letter]. Retrieved from National Gallery Singapore.
@@ -169,6 +169,6 @@ The book also draws from materials held in the collections of the National Libra
 [^23]:Chen, G. (1967, May 17). *Georgette Chen to Dorothy Lee* [Letter]. Retrieved from National Gallery Singapore.
 [^24]:Chen, G. (1967, May 17). *Georgette Chen to Dorothy Lee* [Letter]. Retrieved from National Gallery Singapore.
 [^25]:Sheares, C. (1988, November 2–1988, December 1). [*Oral history interview with Chen, Georgette Liying*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/0ea9406c-115e-11e3-83d5-0050568939ad) [Accession no.: 000956, 6 reels]. Retrieved from National Archives of Singapore website.
-[^26]:Cheong, K., & Wang, Z. (2008). [*Georgette Chen, Cultural Medallion recipient 1982 visual arts*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13232604) [Videorecording]. Singapore: Singapore Art Museum for National Library Board. (Call no.: RSING 759.95959 GEO)
+[^26]:Cheong, K., &amp; Wang, Z. (2008). [*Georgette Chen, Cultural Medallion recipient 1982 visual arts*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13232604) [Videorecording]. Singapore: Singapore Art Museum for National Library Board. (Call no.: RSING 759.95959 GEO)
 [^27]:Chia, J. (1997). [*Georgette Chen*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=8379929). Singapore: Singapore Art Museum. (Call no.: RSING q759.95957 CHI).
 [^28]:[*Georgette Chen retrospective, 1985*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4022881). (1985). Singapore: National Museum. (Call no.: RSING 759.95957 CHE).
