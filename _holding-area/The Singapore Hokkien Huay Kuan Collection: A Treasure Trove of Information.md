@@ -7,6 +7,9 @@ description: ""
 #### Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here and the association’s contributions to the nation’s social and cultural landscape.  
 By Ang Seow Leng and Seow Peck Ngiam
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">A painting of Thian Hock Keng titled “Chinese Temple, Singapore” by artist Alfred T. Agate and engraver J.A. Ralph, 1842. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 A title deed dating back to 1838 with pioneer businessman Tan Tock Seng’s signature. Records of schools like Tao Nan, Ai Tong and Nan Chiau. Documents regarding the relocation of temples and cemeteries. These are just some of the more than 4,300 documents that the Singapore Hokkien Huay Kuan donated to the National Library in 2021.
 
 Other documents include land records, rental records, receipts dating back to the Second World War, old business correspondences, photographs and minutes of meetings. All these materials are now part of the National Library’s Singapore Hokkien Huay Kuan Collection.
@@ -18,6 +21,10 @@ From these documents, which were kept in a safe for many decades, we learn that 
 The purchase of land in Singapore during the early 19th century was usually in the form of a 999- or 99-year lease issued by the Straits Settlements government, where the lease or grant was subject to a yearly quit rent.[^4]
 
 A document numbered 593 and dated 1828 shows that a Sim Loo-ah had purchased a plot of land on Telok Ayer Street and paid a quit rent of 1.55 Spanish silver dollars per year. This 1828 land title deed is believed to be the oldest land title deed found in Singapore.
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">This 1828 document is believed to be the oldest land title deed found in Singapore. A Sim Loo-ah had purchased the plot of land on Telok Ayer Street from the United Company of Merchants of England Trading to the East Indies (the precursor of the East India Company) for a quit rent of 1.55 Spanish silver dollars per year. Two of the signatures in the deed belong to Kenneth Murchison, second Resident Councillor of Singapore (1827–33), who was stated as the witness, and Samuel George Bonham, Murchison’s deputy and who later succeeded him as the third Resident Councillor of Singapore (1833–36). <i>Singapore Hokkien Huay Kuan Collection, National Library, Singapore.</i></div>
+
 
 A quick survey of land title deeds reveals how quickly the price of land in Telok Ayer appreciated in those early years. Just four years later, in 1823, Sim sold the land to a Tan Leng for 100 Spanish silver dollars. Tan Leng in turn sold the same plot to Tan Tock Seng in 1838 for 170 Spanish dollars, and the title deed bears the latter’s signature.
 
