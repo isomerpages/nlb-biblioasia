@@ -153,7 +153,7 @@ People’s Restaurants catered primarily to wage earners wanting a mid-day meal 
 
 [^19]:[Social Welfare Department](http://www.nas.gov.sg/archivesonline/government_records/record-details/27cc9198-578e-11e7-9199-0050568939ad), 13 Sep 1946–13 May 1953, pp. 175–176. 
 
-[^20]:Choo, H. (1982, August 4). *[Oral history interview with McNeice, Yuen-Peng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/24a5aa5c-1161-11e3-83d5-0050568939ad-OHC003259_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000190/4/4]. Retrieved from National Archives of Singapore website. 
+[^20]:Choo, H. (1982, August 4). *[Oral history interview with McNeice, Yuen-Peng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e618a293-115d-11e3-83d5-0050568939ad-OHC000190_004/web/html5/index.html)* [Transcript of recording no. 000190/4/4]. Retrieved from National Archives of Singapore website. 
 
 [^21]:[Social Welfare Department](http://www.nas.gov.sg/archivesonline/government_records/record-details/27cc9198-578e-11e7-9199-0050568939ad), 13 Sep 1946–13 May 1953, p. 154. 
 
