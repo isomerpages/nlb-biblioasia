@@ -911,4 +911,14 @@ sections:
       url: /podcast/kampong-gelam-kitchen-of-the-malay-world/
       image: /images/Podcast/isomer_home_khir.jpg
       alt: Image alt text
+  - infopic:
+      title: Unravelling the Mystery of Mee Maidin
+      subtitle: "Video: From Book to Cook"
+      id: infopic
+      description: Food historian and author Khir Johari whips up this noodle dish
+        from Kampong Glam, and reveals its special ingredient ­­– krill.
+      button: Watch The Video
+      url: /videos/mee-maidin/
+      image: "/images/Videos: From Book to Cook/2Mee Maidin/Mee_Maidin.jpg"
+      alt: Image alt text
 ---
