@@ -42,6 +42,10 @@ Construction of the present Thian Hock Keng temple at 158 Telok Ayer Street bega
 <div style="background-color:white;">Devotees worshipping at Thian Hock Keng, 1965. <i>Photo by Wong Ken Foo (K.F. Wong). Courtesy of National Archives of Singapore.</i></div>
 
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">Shrine of Mazu, Goddess of the Sea, at Thian Hock Keng, 2024. <i>Photo by Jimmy Yap.</i></div>
+
+
 On 28 June 1973, Thian Hock Keng was gazetted as a national monument. The architecture of the temple is consistent with Chinese temple architectural traditions from Minnan (a southern Fujian province in China), such as complex timber posts and beam structures with decorative features like the “swallow tail” roof ridge and intricate carvings.[^7] The temple was repaired and restored to its current state in the mid-1990s and won an honourable mention in the 2001 UNESCO Asia-Pacific Awards for Cultural Heritage Conservation.[^8]
 
 #### **Formation of the Hokkien Huay Kuan&nbsp;**
