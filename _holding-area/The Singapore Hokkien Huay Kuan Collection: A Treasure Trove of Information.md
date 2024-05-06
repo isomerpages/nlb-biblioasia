@@ -28,11 +28,19 @@ A document numbered 593 and dated 1828 shows that a Sim Loo-ah had purchased a p
 
 A quick survey of land title deeds reveals how quickly the price of land in Telok Ayer appreciated in those early years. Just four years later, in 1823, Sim sold the land to a Tan Leng for 100 Spanish silver dollars. Tan Leng in turn sold the same plot to Tan Tock Seng in 1838 for 170 Spanish dollars, and the title deed bears the latter’s signature.
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">This 1838 title deed for a plot of land on Telok Ayer Street bears the signature of Tan Tock Seng, who purchased the land from a Tan Leng for 170 Spanish silver dollars. Tan Leng had purchased the land from Sim Loo-ah in 1832 for 100 Spanish silver dollars, who had originally purchased the land from the United Company of Merchants of England Trading to the East Indies (the precursor of the East India Company) for a mere quit rent of 1.55 Spanish silver dollars per year. Today, this land forms part of the premises of Thian Hock Keng. <i>Singapore Hokkien Huay Kuan Collection, National Library, Singapore.</i></div>
+
+
 The construction cost of the temple was about 37,000 Spanish dollars. This was borne by wealthy Hokkiens in Singapore and ship-owners from Zhangzhou and Quanzhou in China. Topping the list of donors was Tan Tock Seng, who gave $3,074. He was followed by another local businessman, See Hoot Kee, who contributed $2,400.[^5]
 
 #### **Thian Hock Keng – More Than Just a Religious Space**
 
 Construction of the present Thian Hock Keng temple at 158 Telok Ayer Street began in 1839 and was completed by 1842.[^6] However, the temple actually traces its roots to a simple prayer house that had been set up in 1821 along the shoreline of Telok Ayer Basin. It was dedicated to the Goddess of the Sea, Mazu (妈祖), who is the protector of sailors, fishermen, and travellers. Chinese immigrants would go to the prayer house to give thanks for their safe passage to Singapore. &nbsp;
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">Devotees worshipping at Thian Hock Keng, 1965. <i>Photo by Wong Ken Foo (K.F. Wong). Courtesy of National Archives of Singapore.</i></div>
+
 
 On 28 June 1973, Thian Hock Keng was gazetted as a national monument. The architecture of the temple is consistent with Chinese temple architectural traditions from Minnan (a southern Fujian province in China), such as complex timber posts and beam structures with decorative features like the “swallow tail” roof ridge and intricate carvings.[^7] The temple was repaired and restored to its current state in the mid-1990s and won an honourable mention in the 2001 UNESCO Asia-Pacific Awards for Cultural Heritage Conservation.[^8]
 
@@ -60,8 +68,12 @@ The materials in the collection also reveal historical insights into the Huay Ku
 
 Beyond temple stewardship, the collection showcases the Huay Kuan’s management of burial grounds like Kopi Sua (羔丕山) near Mount Pleasant Road[^22] (1961–73) and Leng Kee Sua (1951–80, 麟记山) in Tiong Bahru. Documents reveal the complexities of maintaining these spaces, such as surveying squatter settlements and addressing illegal construction (at Leng Kee Sua) and dealing with land acquisition by the government due to urban planning.
 
-The collection also holds materials that document property rentals under Thian Hock Keng dating back to 1942. For example, a detailed rental register sheds light on the shops – such as Eng Aun Tong  
-(永安堂) owned by businessman Eu Tong Sen – that leased the temple’s properties from 1942 to 1948.[^23]
+The collection also holds materials that document property rentals under Thian Hock Keng dating back to 1942. For example, a detailed rental register sheds light on the shops – such as Eng Aun Tong (永安堂) owned by businessman Eu Tong Sen – that leased the temple’s properties from 1942 to 1948.[^23]
+
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">The Hokkien Huay Kuan's Thian Hock Keng House Rent &amp; Ground Rent Register, dating from 1942 to 1948, reveals a fascinating detail. During the Japanese Occupation (1942–45), the register was maintained in black ink. Interestingly, entries were penned in red once British rule resumed in Singapore, marking the period of political transition. <i>Singapore Hokkien Huay Kuan Collection, National Library, Singapore.</i></div>
+
 
 Beyond these property registers and account records are a wealth of papers pertaining to land and rental agreements for various properties and villages, including Mandai Tekong Village (万利泽光), off Mandai Road.[^24]
 
