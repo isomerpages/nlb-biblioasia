@@ -3,6 +3,7 @@ title: "Feeding the Hungry: Children in Post-War Singapore"
 date: 2019-04-21
 permalink: /vol-15/issue-1/apr-jun-2019/feeding-the-hungry/
 layout: post
+variant: markdown
 ---
 #### In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore. **Cheryl-Ann Low** has the details. 
 
@@ -102,7 +103,7 @@ Family Restaurants were one of the communal feeding schemes managed by the Socia
 <br><br>
 People’s Restaurants catered primarily to wage earners wanting a mid-day meal at a reasonable price, while Family Restaurants sought to provide healthy meals at the cheapest possible price to those of lesser means. The Social Welfare Department discontinued feeding schemes from late 1948 onwards as demand had fallen due to improved economic conditions.</span>
 
-*This article was inspired by a collection of government files available on the Singapore Policy History Project website ([www.nas.sg/archivesonline/policyhistory/](http://www.nas.sg/archivesonline/policyhistory/)). This is an ongoing project to present various policies introduced by government departments and agencies over the course of Singapore’s history. The feature on child care in Singapore in the early years (1946–1976) ([www.nas.sg/archivesonline/policyhistory/child-care](http://www.nas.sg/archivesonline/policyhistory/child-care)) includes resources such as files from the Social Welfare Department, newspaper articles, speeches, audiovisual materials and photographs.*
+*This article was inspired by a collection of government files available on the Singapore Policy History Project website ([www.nas.sg/archivesonline/policy_history/](http://www.nas.sg/archivesonline/policy_history/)). This is an ongoing project to present various policies introduced by government departments and agencies over the course of Singapore’s history. The feature on child care in Singapore in the early years (1946–1976) ([www.nas.sg/archivesonline/policyhistory/child-care](http://www.nas.sg/archivesonline/policyhistory/child-care)) includes resources such as files from the Social Welfare Department, newspaper articles, speeches, audiovisual materials and photographs.*
 
 <div style="background-color: white;">
 <br>
@@ -114,7 +115,7 @@ People’s Restaurants catered primarily to wage earners wanting a mid-day meal 
 
 #### **NOTES**
 
-[^1]:Cheng, S.H. (1991). Economic change and industrialization. In E.C.T. Chew & E. Lee (Eds.), *[A history of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5914108)* (p. 182). Singapore: Oxford University Press. (Call no.: RSING 959.57 HIS-[HIS]) 
+[^1]:Cheng, S.H. (1991). Economic change and industrialization. In E.C.T. Chew &amp; E. Lee (Eds.), *[A history of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5914108)* (p. 182). Singapore: Oxford University Press. (Call no.: RSING 959.57 HIS-[HIS]) 
 
 [^2]:Kratoska, P.H. (1988, March). *The post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19* (1), 27–47, pp. 32–33. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
 
