@@ -194,7 +194,7 @@ Salt to taste<br>
 
 [^13]:Tan, B.L. (Interviewer). (1986, December 14). *[Oral history interview with Chua Eng Cheow](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/0289eef5-115e-11e3-83d5-0050568939ad-OHC000722_010/web/html5/index.html)* [Transcript of recording no. 000722/16/10, p. 133]. Retrieved from National Archives of Singapore website.
 
-[^14]:Low, L.L. (Interviewer). (1984, April 2). *[Oral history interview with Tan Cheng Hwee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ec7f82a3-115d-11e3-83d5-0050568939ad-OHC000416_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9)* [Transcript of recording no. 000416/14/6, pp. 72–73]. Retrieved from National Archives of Singapore website.
+[^14]:Low, L.L. (Interviewer). (1984, April 2). *[Oral history interview with Tan Cheng Hwee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ec7f82a3-115d-11e3-83d5-0050568939ad-OHC000416_006/web/html5/index.html)* [Transcript of recording no. 000416/14/6, pp. 72–73]. Retrieved from National Archives of Singapore website.
 
 [^15]:Low, L.L., &amp; Tan, B.L. (Interviewers). (1984, August 22). *[Oral history interview with Chu Shuen Choo @ Mrs Gay Wan Guay](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/ef14170d-115d-11e3-83d5-0050568939ad-OHC000462_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000462/12/5, p. 69]. Retrieved from National Archives of Singapore website.
 
