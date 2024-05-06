@@ -17,7 +17,7 @@ the Kampong Gelam (present-day Bugis) that he grew up in.</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/episode/0tQK0E79lJ1otC0DolQ1F4" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
-Apple Podcasts, me<a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>listen.</p>
+Apple Podcasts, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
@@ -71,6 +71,4 @@ Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;<a href="https
 Special thanks to Khir for coming on the show.</p>
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
 of Singapore.</p>
-<p>
-<br>
-</p>
+<p></p>
