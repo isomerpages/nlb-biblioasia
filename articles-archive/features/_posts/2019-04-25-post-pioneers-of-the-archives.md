@@ -197,7 +197,7 @@ Finally, by providing public servants with access to past official records, they
 
 [^14]:The Toyo Bunko, or “Oriental Library”, is the largest Asian-studies library in Japan.
 
-[^15]:Tregonning mentions this in his interview. See Lim, J. (Interviewer). (2003, July 31). *[Oral history interview with K.G. Tregonning](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/bb5238fa-115e-11e3-83d5-0050568939ad-OHC002783_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)* [Transcript of recording no. 002783/6/5, pp. 55-56]. Retrieved from National Archives of Singapore website.
+[^15]:Tregonning mentions this in his interview. See Lim, J. (Interviewer). (2003, July 31). *[Oral history interview with K.G. Tregonning](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/bb5238fa-115e-11e3-83d5-0050568939ad-OHC002783_005/web/html5/index.html)* [Transcript of recording no. 002783/6/5, pp. 55-56]. Retrieved from National Archives of Singapore website.
 
 [^16]:Verhoeven, F. R. J. (1967). *[Singapore: The national archives and records management, 15 April–14 August 1967](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4401241)*. Paris: UNESCO (Call no.: RCLOS 025.171095957 VER)
 
