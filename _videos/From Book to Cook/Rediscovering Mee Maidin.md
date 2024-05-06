@@ -1,8 +1,9 @@
 ---
 title: Rediscovering Mee Maidin
-permalink: /holding-area/mee-maidin/
+permalink: /videos/mee-maidin/
 variant: markdown
 description: ""
+third_nav_title: From Book to Cook
 ---
 #### We are familiar with local Malay favourites such as _mee rebus_ and _mee siam_. But mention _mee maidin_ and you might get puzzled looks. Join author Khir Johari as he recreates this rare dish from Kampong Glam and takes a deep dive into its history and its star ingredient – krill.
 

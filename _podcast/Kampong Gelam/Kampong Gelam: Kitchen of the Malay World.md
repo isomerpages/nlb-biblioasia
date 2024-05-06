@@ -1,6 +1,6 @@
 ---
 title: "Kampong Gelam: Kitchen of the Malay World"
-permalink: /podcast/kampong-gelam-kitchen-malay-world/
+permalink: /podcast/kampong-glam-kitchen-malay-world/
 variant: tiptap
 description: ""
 third_nav_title: Kampong Gelam
