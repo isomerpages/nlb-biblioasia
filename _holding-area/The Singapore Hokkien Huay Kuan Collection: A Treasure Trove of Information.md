@@ -7,6 +7,9 @@ description: ""
 #### Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here and the association’s contributions to the nation’s social and cultural landscape.  
 By Ang Seow Leng and Seow Peck Ngiam
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">A painting of Thian Hock Keng titled “Chinese Temple, Singapore” by artist Alfred T. Agate and engraver J.A. Ralph, 1842. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 A title deed dating back to 1838 with pioneer businessman Tan Tock Seng’s signature. Records of schools like Tao Nan, Ai Tong and Nan Chiau. Documents regarding the relocation of temples and cemeteries. These are just some of the more than 4,300 documents that the Singapore Hokkien Huay Kuan donated to the National Library in 2021.
 
 Other documents include land records, rental records, receipts dating back to the Second World War, old business correspondences, photographs and minutes of meetings. All these materials are now part of the National Library’s Singapore Hokkien Huay Kuan Collection.
@@ -19,14 +22,29 @@ The purchase of land in Singapore during the early 19th century was usually in t
 
 A document numbered 593 and dated 1828 shows that a Sim Loo-ah had purchased a plot of land on Telok Ayer Street and paid a quit rent of 1.55 Spanish silver dollars per year. This 1828 land title deed is believed to be the oldest land title deed found in Singapore.
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">This 1828 document is believed to be the oldest land title deed found in Singapore. A Sim Loo-ah had purchased the plot of land on Telok Ayer Street from the United Company of Merchants of England Trading to the East Indies (the precursor of the East India Company) for a quit rent of 1.55 Spanish silver dollars per year. Two of the signatures in the deed belong to Kenneth Murchison, second Resident Councillor of Singapore (1827–33), who was stated as the witness, and Samuel George Bonham, Murchison’s deputy and who later succeeded him as the third Resident Councillor of Singapore (1833–36). <i>Singapore Hokkien Huay Kuan Collection, National Library, Singapore.</i></div>
+
+
 A quick survey of land title deeds reveals how quickly the price of land in Telok Ayer appreciated in those early years. Just four years later, in 1823, Sim sold the land to a Tan Leng for 100 Spanish silver dollars. Tan Leng in turn sold the same plot to Tan Tock Seng in 1838 for 170 Spanish dollars, and the title deed bears the latter’s signature.
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">This 1838 title deed for a plot of land on Telok Ayer Street bears the signature of Tan Tock Seng, who purchased the land from a Tan Leng for 170 Spanish silver dollars. Tan Leng had purchased the land from Sim Loo-ah in 1832 for 100 Spanish silver dollars, who had originally purchased the land from the United Company of Merchants of England Trading to the East Indies (the precursor of the East India Company) for a mere quit rent of 1.55 Spanish silver dollars per year. Today, this land forms part of the premises of Thian Hock Keng. <i>Singapore Hokkien Huay Kuan Collection, National Library, Singapore.</i></div>
+
 
 The construction cost of the temple was about 37,000 Spanish dollars. This was borne by wealthy Hokkiens in Singapore and ship-owners from Zhangzhou and Quanzhou in China. Topping the list of donors was Tan Tock Seng, who gave $3,074. He was followed by another local businessman, See Hoot Kee, who contributed $2,400.[^5]
 
 #### **Thian Hock Keng – More Than Just a Religious Space**
 
-Construction of the present Thian Hock Keng temple at 158 Telok Ayer Street began in 1839 and was completed by 1842.[^6] However, the temple actually traces its roots to a simple prayer house that had been set up in 1821 along the shoreline of Telok Ayer Basin. It was dedicated to the Goddess of the Sea, Mazu  
-(쮜籬), who is the protector of sailors, fishermen, and travellers. Chinese immigrants would go to the prayer house to give thanks for their safe passage to Singapore. &nbsp;
+Construction of the present Thian Hock Keng temple at 158 Telok Ayer Street began in 1839 and was completed by 1842.[^6] However, the temple actually traces its roots to a simple prayer house that had been set up in 1821 along the shoreline of Telok Ayer Basin. It was dedicated to the Goddess of the Sea, Mazu (妈祖), who is the protector of sailors, fishermen, and travellers. Chinese immigrants would go to the prayer house to give thanks for their safe passage to Singapore. &nbsp;
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">Devotees worshipping at Thian Hock Keng, 1965. <i>Photo by Wong Ken Foo (K.F. Wong). Courtesy of National Archives of Singapore.</i></div>
+
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">Shrine of Mazu, Goddess of the Sea, at Thian Hock Keng, 2024. <i>Photo by Jimmy Yap.</i></div>
+
 
 On 28 June 1973, Thian Hock Keng was gazetted as a national monument. The architecture of the temple is consistent with Chinese temple architectural traditions from Minnan (a southern Fujian province in China), such as complex timber posts and beam structures with decorative features like the “swallow tail” roof ridge and intricate carvings.[^7] The temple was repaired and restored to its current state in the mid-1990s and won an honourable mention in the 2001 UNESCO Asia-Pacific Awards for Cultural Heritage Conservation.[^8]
 
@@ -52,12 +70,16 @@ Highlights include documents on an exchange of land between Nan Chiau Girls’ H
 
 The materials in the collection also reveal historical insights into the Huay Kuan’s role as the guardian of sacred spaces. For instance, documents from 1949 to 1982 detail the relocation of Kim Lan Beo. Established in 1830, Kim Lan Beo is one of Singapore’s oldest temples and counts prominent Hokkien individuals like Lim Boon Keng and See Tiong Wah in its past management committees.[^21] It was originally at Yan Kit Road in Tanjong Pagar and came under the management of the Singapore Hokkien Huay Kuan in 1960. The documents track the journey of the temple’s eventual relocation to Kim Tian Road in Tiong Bahru, culminating in its reopening in 1984.
 
-Beyond temple stewardship, the collection showcases the Huay Kuan’s management of burial grounds like Kopi Sua (멜碼) near Mount Pleasant Road[^22] (1961–73) and Leng Kee Sua (1951–80, 播션) in Tiong Bahru. Documents reveal the complexities of maintaining these spaces, such as surveying squatter settlements and addressing illegal construction (at Leng Kee Sua) and dealing with land acquisition by the government due to urban planning.
+Beyond temple stewardship, the collection showcases the Huay Kuan’s management of burial grounds like Kopi Sua (羔丕山) near Mount Pleasant Road[^22] (1961–73) and Leng Kee Sua (1951–80, 麟记山) in Tiong Bahru. Documents reveal the complexities of maintaining these spaces, such as surveying squatter settlements and addressing illegal construction (at Leng Kee Sua) and dealing with land acquisition by the government due to urban planning.
 
-The collection also holds materials that document property rentals under Thian Hock Keng dating back to 1942. For example, a detailed rental register sheds light on the shops – such as Eng Aun Tong  
-(湛갛慊) owned by businessman Eu Tong Sen – that leased the temple’s properties from 1942 to 1948.[^23]
+The collection also holds materials that document property rentals under Thian Hock Keng dating back to 1942. For example, a detailed rental register sheds light on the shops – such as Eng Aun Tong (永安堂) owned by businessman Eu Tong Sen – that leased the temple’s properties from 1942 to 1948.[^23]
 
-Beyond these property registers and account records are a wealth of papers pertaining to land and rental agreements for various properties and villages, including Mandai Tekong Village (拱적燈밟), off Mandai Road.[^24]
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/addimg.jpg)
+<div style="background-color:white;">The Hokkien Huay Kuan's Thian Hock Keng House Rent &amp; Ground Rent Register, dating from 1942 to 1948, reveals a fascinating detail. During the Japanese Occupation (1942–45), the register was maintained in black ink. Interestingly, entries were penned in red once British rule resumed in Singapore, marking the period of political transition. <i>Singapore Hokkien Huay Kuan Collection, National Library, Singapore.</i></div>
+
+
+Beyond these property registers and account records are a wealth of papers pertaining to land and rental agreements for various properties and villages, including Mandai Tekong Village (万利泽光), off Mandai Road.[^24]
 
 The photographs in the collection also provide information about the Huay Kuan and its activities. These showcase past management committees and capture unique moments such as traditional mass weddings, school life, burial grounds – bringing the clan’s past vividly to life.
 
@@ -74,16 +96,16 @@ This brief survey only touches the surface of what is available in the Singapore
 #### **Notes**
 
 
-[^1]: The digitised title deeds are available at NL Online: “新加坡福建会馆: 天福宫早期地契”; Thian Hock Keng Temple: Land Title Deeds, 1828–1838. (From National Library, Singapore, call no. RRARE 346.59570438 THI)
+[^1]: The digitised title deeds are available at NL Online: “[新加坡福建会馆: 天福宫早期地契](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b51d8c29-ffa6-4b5a-876c-93d13f9f6c4a)”; [Thian Hock Keng Temple: Land Title Deeds, 1828–1838](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205737116). (From National Library, Singapore, call no. RRARE 346.59570438 THI)
 
 
-[^2]: Xie Yanyan 谢燕燕, “Tianfu gong di qi yanjiu” 天福宫地契研究 [Research on the land title of Tin Hock Palace],” in Nanhai mingzhu tianfu gong 南海明珠天福宫 [South China Sea Pearl Thian Hock Temple] (新加坡: 新加坡福建会馆, 2010), 310–13. (From National Library, Singapore, call no. Chinese RSING 203.5095957 NHM)
+[^2]: Xie Yanyan 谢燕燕, “Tianfu gong di qi yanjiu” 天福宫地契研究 [Research on the land title of Tin Hock Palace],” in Nanhai mingzhu tianfu gong [南海明珠天福宫](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13652997) [South China Sea Pearl Thian Hock Temple] (新加坡: 新加坡福建会馆, 2010), 310–13. (From National Library, Singapore, call no. Chinese RSING 203.5095957 NHM)
 
-[^3]: Tong Yong Chuan, “Rare China Artefacts To Go on Display Here,” Straits Times, 14 November 2012, 2–3. (From NewspaperSG)
+[^3]: Tong Yong Chuan, “[Rare China Artefacts To Go on Display Here](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20121114-1.2.8.1),” Straits Times, 14 November 2012, 2–3. (From NewspaperSG)
 
-[^4]: Straits Settlements, Colonial Secretary’s Office, Annual Report on the Social and Economic Progress of the People of the Straits Settlements, 1937 (Singapore: Straits Settlements. Colonial Secretary's Office, 1937, 84. (From National Library, Singapore, call no. RSING 959.51 SSCSOA)
+[^4]: Straits Settlements, Colonial Secretary’s Office, [Annual Report on the Social and Economic Progress of the People of the Straits Settlements, 1937](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5053544) (Singapore: Straits Settlements. Colonial Secretary's Office, 1937, 84. (From National Library, Singapore, call no. RSING 959.51 SSCSOA)
 
-[^5]: Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan (Singapore: Singapore Hokkien Huay Kuan, 2006), 28. (From National Library, Singapore, call no. RSING 369.25957 GUA)
+[^5]: [Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839) (Singapore: Singapore Hokkien Huay Kuan, 2006), 28. (From National Library, Singapore, call no. RSING 369.25957 GUA)
 
 
 [^6]: “Thian Hock Keng (Temple of Heavenly Fortune),” in Chinese Epigraphy in Singapore 1819–1911, ed. Kenneth Dean and Hue Guan Thye (Singapore: NUS Press; Guilin City: Guangxi Normal University, 2017), 124. (From National Library, Singapore, call no. RSING 495.111 DEA)

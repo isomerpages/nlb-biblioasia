@@ -3,6 +3,7 @@ title: "Feeding the Hungry: Children in Post-War Singapore"
 date: 2019-04-21
 permalink: /vol-15/issue-1/apr-jun-2019/feeding-the-hungry/
 layout: post
+variant: markdown
 ---
 #### In the aftermath of the Japanese Occupation, the colonial government set up feeding centres to address malnutrition among children in Singapore. **Cheryl-Ann Low** has the details. 
 
@@ -102,7 +103,7 @@ Family Restaurants were one of the communal feeding schemes managed by the Socia
 <br><br>
 People’s Restaurants catered primarily to wage earners wanting a mid-day meal at a reasonable price, while Family Restaurants sought to provide healthy meals at the cheapest possible price to those of lesser means. The Social Welfare Department discontinued feeding schemes from late 1948 onwards as demand had fallen due to improved economic conditions.</span>
 
-*This article was inspired by a collection of government files available on the Singapore Policy History Project website ([www.nas.sg/archivesonline/policyhistory/](http://www.nas.sg/archivesonline/policyhistory/)). This is an ongoing project to present various policies introduced by government departments and agencies over the course of Singapore’s history. The feature on child care in Singapore in the early years (1946–1976) ([www.nas.sg/archivesonline/policyhistory/child-care](http://www.nas.sg/archivesonline/policyhistory/child-care)) includes resources such as files from the Social Welfare Department, newspaper articles, speeches, audiovisual materials and photographs.*
+*This article was inspired by a collection of government files available on the Singapore Policy History Project website ([www.nas.gov.sg/archivesonline/policy_history](http://www.nas.gov.sg/archivesonline/policy_history)). This is an ongoing project to present various policies introduced by government departments and agencies over the course of Singapore’s history. The feature on child care in Singapore in the early years (1946–1976) ([www.nas.gov. sg/archivesonline/policyhistory/child-care](https://www.nas.gov.sg/archivesonline/sphpcard7?catId=0)) includes resources such as files from the Social Welfare Department, newspaper articles, speeches, audiovisual materials and photographs.*
 
 <div style="background-color: white;">
 <br>
@@ -114,11 +115,11 @@ People’s Restaurants catered primarily to wage earners wanting a mid-day meal 
 
 #### **NOTES**
 
-[^1]:Cheng, S.H. (1991). Economic change and industrialization. In E.C.T. Chew & E. Lee (Eds.), *[A history of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5914108)* (p. 182). Singapore: Oxford University Press. (Call no.: RSING 959.57 HIS-[HIS]) 
+[^1]:Cheng, S.H. (1991). Economic change and industrialization. In E.C.T. Chew &amp; E. Lee (Eds.), *[A history of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5914108)* (p. 182). Singapore: Oxford University Press. (Call no.: RSING 959.57 HIS-[HIS]) 
 
 [^2]:Kratoska, P.H. (1988, March). *The post-1945 food shortage in British Malaya. Journal of Southeast Asian Studies, 19* (1), 27–47, pp. 32–33. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
 
-[^3]:Ho, C.T. (2013, October–December). Communal feeding in post-war Singapore. *[BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 9* (3), 2–7; Foo, K.L. (1981, December 4). *[Oral history interview with Thomas Percy Ferguson McNeice](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/df4a2687-115d-11e3-83d5-0050568939ad-OHC000099_012/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000099/22/12]. Retrieved from National Archives of Singapore website. 
+[^3]:Ho, C.T. (2013, October–December). Communal feeding in post-war Singapore. *[BiblioAsia](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx), 9* (3), 2–7; Foo, K.L. (1981, December 4). *[Oral history interview with Thomas Percy Ferguson McNeice](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/df4a2687-115d-11e3-83d5-0050568939ad-OHC000099_012/web/html5/index.html)* [Transcript of recording no. 000099/22/12]. Retrieved from National Archives of Singapore website. 
 
 [^4]:Social Welfare Department (SWD). (1945, November 5–1947, April 2). *[Free meals for children](https://www.nas.gov.sg/archivesonline/government_records/record-details/97c75ff9-940f-11e7-843a-0050568939ad)* [RBMA HQ S DIV 432–45, p. 100]. Retrieved from National Archives of Singapore website. 
 
@@ -148,11 +149,11 @@ People’s Restaurants catered primarily to wage earners wanting a mid-day meal 
 
 [^17]:Tan, L. (1982, May 24). *[Oral history interview with Wong, May Nee Hing](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e021c61b-115d-11e3-83d5-0050568939ad)* [Recording no. 000093/18/9]. Retrieved from National Archives of Singapore website.
 
-[^18]:Lee, P. (2008, January 8). *[Oral history interview with McNeice, Yuen-Peng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/24a5aa5c-1161-11e3-83d5-0050568939ad-OHC003259_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 003259/3/2]. Retrieved from National Archives of Singapore website. 
+[^18]:Lee, P. (2008, January 8). *[Oral history interview with McNeice, Yuen-Peng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/24a5aa5c-1161-11e3-83d5-0050568939ad-OHC003259_002/web/html5/index.html)* [Transcript of recording no. 003259/3/2]. Retrieved from National Archives of Singapore website. 
 
 [^19]:[Social Welfare Department](http://www.nas.gov.sg/archivesonline/government_records/record-details/27cc9198-578e-11e7-9199-0050568939ad), 13 Sep 1946–13 May 1953, pp. 175–176. 
 
-[^20]:Choo, H. (1982, August 4). *[Oral history interview with McNeice, Yuen-Peng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/24a5aa5c-1161-11e3-83d5-0050568939ad-OHC003259_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000190/4/4]. Retrieved from National Archives of Singapore website. 
+[^20]:Choo, H. (1982, August 4). *[Oral history interview with McNeice, Yuen-Peng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e618a293-115d-11e3-83d5-0050568939ad-OHC000190_004/web/html5/index.html)* [Transcript of recording no. 000190/4/4]. Retrieved from National Archives of Singapore website. 
 
 [^21]:[Social Welfare Department](http://www.nas.gov.sg/archivesonline/government_records/record-details/27cc9198-578e-11e7-9199-0050568939ad), 13 Sep 1946–13 May 1953, p. 154. 
 

@@ -1,6 +1,6 @@
 ---
 title: "Kampong Gelam: Kitchen of the Malay World"
-permalink: /podcast/kampong-gelam-kitchen-of-the-malay-world/
+permalink: /podcast/kampong-gelam-kitchen-malay-world/
 variant: tiptap
 description: ""
 third_nav_title: Kampong Gelam
@@ -16,7 +16,8 @@ the Kampong Gelam (present-day Bugis) that he grew up in.</p>
 </div>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<p>Available on: <a href="https://open.spotify.com/episode/0tQK0E79lJ1otC0DolQ1F4" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
+<a href="https://podcasts.apple.com/us/podcast/kampong-glam-kitchen-of-the-malay-world/id1688142751?i=1000654623724" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
@@ -45,7 +46,11 @@ Asia. He is the author of <em><a href="https://eservice.nlb.gov.sg/redir/itemdet
 Cavendish Editions, 2021).</p>
 <p></p>
 <h4><strong>Related Video</strong></h4>
-<p>Watch Khir make <em><a href="biblioasia.nlb.gov.sg/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">mee maidin</a></em>.</p>
+<p>We are familiar with local Malay favourites such as <em>mee rebus</em> and <em>mee siam</em>.
+But mention <em>mee maidin</em> and you might get puzzled looks. Join author
+Khir Johari as he recreates this rare dish from Kampong Glam and takes
+a deep dive into its history and its star ingredient – krill. Watch Khir
+make <em><a href="biblioasia.nlb.gov.sg/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">mee maidin</a></em>.</p>
 <h4><strong>Resources</strong></h4>
 <p>Khir Johari, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205498204" rel="noopener noreferrer" target="_blank"><u>The Food of Singapore Malays: Gastronomic Travels through the Archipelago</u></a></em> (Marshall
 Cavendish Editions, 2021). (National Library call no. 394.120899928 KHI
@@ -66,6 +71,4 @@ Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;<a href="https
 Special thanks to Khir for coming on the show.</p>
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
 of Singapore.</p>
-<p>
-<br>
-</p>
+<p></p>
