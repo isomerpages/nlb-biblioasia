@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: From Book to Cook
 ---
-#### We are familiar with local Malay favourites such as _mee rebus_ and _mee siam_. But mention _mee maidin_ and you might get puzzled looks. Join author Khir Johari as he recreates this rare dish from Kampong Glam and takes a deep dive into its history and its star ingredient – krill.
+#### We are familiar with local Malay favourites such as _mee rebus_ and _mee siam_. But mention _mee maidin_ and you might get puzzled looks. Join author Khir Johari as he recreates this rare dish from Kampong Gelam and takes a deep dive into its history and its star ingredient – krill.
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/T0i0lbiblQs" frameborder="0" allowfullscreen=""></iframe></div>
 
@@ -19,9 +19,9 @@ You hear Malay, Javanese, Tamil and Punjabi as you wander the streets with shops
  
 #### **Recipes**
 
-Khir learnt how to make _mee maidin_ from Nordin (whom he called Wak Din), a man who used to sell the dish commercially at 34 Bussorah Street, formerly known as Kampong Kaji, in Kampong Glam.
+Khir learnt how to make _mee maidin_ from Nordin (whom he called Wak Din), a man who used to sell the dish commercially at 34 Bussorah Street, formerly known as Kampong Kaji, in Kampong Gelam.
 
-According Khir’s research, Nordin inherited the recipe from Hussein, a migrant from South India who created the dish when he settled in Kampong Glam. Hajah Asfiah Haji Abdullah, who wrote the 1986 cookbook, _Hidangan Warisan Kita_ (_Our Heritage Dishes_), featured the recipe in her book and named the dish “Mee Mahdin” – likely in honour of Nordin and his wife, Salmah.
+According Khir’s research, Nordin inherited the recipe from Hussein, a migrant from South India who created the dish when he settled in Kampong Gelam. Hajah Asfiah Haji Abdullah, who wrote the 1986 cookbook, _Hidangan Warisan Kita_ (_Our Heritage Dishes_), featured the recipe in her book and named the dish “Mee Mahdin” – likely in honour of Nordin and his wife, Salmah.
 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/2Mee%20Maidin/mee_mahdin_recipe_cropped.jpg" style="width:80%">
 <div style="background-color: white;">“Mee mahdin” recipe from Hajah Asfiah bte Haji Abdullah, <i>Hidangan Warisan Kita</i> (Times Books International, 1986).</div>
@@ -106,7 +106,7 @@ soy sauce<br>
 
 #### **Related Podcast**
 
-<a href="/podcast/kampong-glam-kitchen-malay-world/">Kampong Glam: Kitchen of the Malay World</a><br>
+<a href="/podcast/kampong-glam-kitchen-malay-world/">Kampong Gelam: Kitchen of the Malay World</a><br>
 You hear Malay, Javanese, Tamil and Punjabi as you wander the streets with shops selling colourful textiles and carpets, spices and flowers. Here you find different curries and bread,&nbsp;_nasi padang_,&nbsp;_sup tulang_,&nbsp;_mee siam_, a Javanese kitchen, Hainanese coffeeshops and more. Bookstores sell literature and newspapers as far away as Cairo. In this episode, Khir talks about the Kampong Gelam (present-day Bugis) that he grew up in.
 
 #### **Related Articles**
