@@ -210,4 +210,4 @@ Salt to taste<br>
 
 [^21]:Low, L.L., &amp; Tan, B.L. (Interviewers). (1984, August 22). *[Oral history interview with Chu Shuen Choo @ Mrs Gay Wan Guay](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/ef14170d-115d-11e3-83d5-0050568939ad-OHC000462_006/web/html5/index.html)* [Transcript of recording no. 000462/12/6, p. 79]. Retrieved from National Archives of Singapore website.
 
-[^22]:Low, L.L. (Interviewer). (1984, March 3). *[Oral history interview with Tan Cheng Hwee](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/5f04b27f-115f-11e3-83d5-0050568939ad-OHC000416_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 000416/14/5, p. 63]. Retrieved from National Archives of Singapore website.
+[^22]:Low, L.L. (Interviewer). (1984, March 3). *[Oral history interview with Tan Cheng Hwee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5f04b27f-115f-11e3-83d5-0050568939ad-OHC000416_005/web/html5/index.html)* [Transcript of recording no. 000416/14/5, p. 63]. Retrieved from National Archives of Singapore website.
