@@ -202,7 +202,7 @@ Salt to taste<br>
 
 [^17]:Low, L.L. (Interviewer). (1983, May 14). *[Oral history interview with Lee Tian Soo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e23b2285-115d-11e3-83d5-0050568939ad-OHC000265_003/web/html5/index.html)* [Transcript of recording no. 000265/7/3, p. 31]. Retrieved from National Archives of Singapore website.
 
-[^18]:Yeo, G.L. (Interviewer). (1993, October 20). *[Oral history interview with Tan Sock Kern](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/23333745-115e-11e3-83d5-0050568939ad-OHC001427_015/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of recording no. 001427/20/15, p. 225]. Retrieved from National Archives of Singapore website.
+[^18]:Yeo, G.L. (Interviewer). (1993, October 20). *[Oral history interview with Tan Sock Kern](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/23333745-115e-11e3-83d5-0050568939ad-OHC001427_015/web/html5/index.html)* [Transcript of recording no. 001427/20/15, p. 225]. Retrieved from National Archives of Singapore website.
 
 [^19]:Ng, S.Y. (Interviewer). (1983, March 10). *[Oral history interview with Kwang Poh](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/29b7d7ee-115f-11e3-83d5-0050568939ad-OHC000256_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of recording no. 000256/14/9, p. 110]. Retrieved from National Archives of Singapore website.
 
