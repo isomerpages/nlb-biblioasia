@@ -7,14 +7,16 @@ description: ""
 #### Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here and the association’s contributions to the nation’s social and cultural landscape.  
 By Ang Seow Leng and Seow Peck Ngiam
 
-![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img1.jpg)
-<div style="background-color:white;">A painting of Thian Hock Keng titled “Chinese Temple, Singapore” by artist Alfred T. Agate and engraver J.A. Ralph, 1842. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
-
 A title deed dating back to 1838 with pioneer businessman Tan Tock Seng’s signature. Records of schools like Tao Nan, Ai Tong and Nan Chiau. Documents regarding the relocation of temples and cemeteries. These are just some of the more than 4,300 documents that the Singapore Hokkien Huay Kuan donated to the National Library in 2021.
 
 Other documents include land records, rental records, receipts dating back to the Second World War, old business correspondences, photographs and minutes of meetings. All these materials are now part of the National Library’s Singapore Hokkien Huay Kuan Collection.
 
 This collection is important because these papers shed light on many important institutions in Singapore, especially those related to the Singapore Hokkien Huay Kuan. Among the documents donated, for example, are nine early title deeds for the land that the Thian Hock Keng temple sits on.[^1] Located on Telok Ayer Street, Thian Hock Keng is one of Singapore’s oldest Hokkien temples and also a national monument.
+
+
+![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img1.jpg)
+<div style="background-color:white;">A painting of Thian Hock Keng titled “Chinese Temple, Singapore” by artist Alfred T. Agate and engraver J.A. Ralph, 1842. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 
 From these documents, which were kept in a safe for many decades, we learn that Tan Tock Seng had acquired multiple plots of land in Telok Ayer between 1838 and 1839 at prices ranging from 160 to 200 Spanish silver dollars per plot for the construction of the temple.[^2] He purchased these land parcels from the resellers who had originally bought them from the British East India Company.[^3]
 
@@ -99,39 +101,37 @@ This brief survey only touches the surface of what is available in the Singapore
 [^1]: The digitised title deeds are available at NL Online: “[新加坡福建会馆: 天福宫早期地契](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b51d8c29-ffa6-4b5a-876c-93d13f9f6c4a)”; [Thian Hock Keng Temple: Land Title Deeds, 1828–1838](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205737116). (From National Library, Singapore, call no. RRARE 346.59570438 THI)
 
 
-[^2]: Xie Yanyan 谢燕燕, “Tianfu gong di qi yanjiu” 天福宫地契研究 [Research on the land title of Tin Hock Palace],” in Nanhai mingzhu tianfu gong [南海明珠天福宫](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13652997) [South China Sea Pearl Thian Hock Temple] (新加坡: 新加坡福建会馆, 2010), 310–13. (From National Library, Singapore, call no. Chinese RSING 203.5095957 NHM)
+[^2]: Xie Yanyan 谢燕燕, “Tianfu gong di qi yanjiu” 天福宫地契研究 [Research on the land title of Tin Hock Palace],” in _Nanhai mingzhu tianfu gong_ [南海明珠天福宫](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13652997) [South China Sea Pearl Thian Hock Temple] (新加坡: 新加坡福建会馆, 2010), 310–13. (From National Library, Singapore, call no. Chinese RSING 203.5095957 NHM)
 
-[^3]: Tong Yong Chuan, “[Rare China Artefacts To Go on Display Here](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20121114-1.2.8.1),” Straits Times, 14 November 2012, 2–3. (From NewspaperSG)
+[^3]: Tong Yong Chuan, “[Rare China Artefacts To Go on Display Here](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20121114-1.2.8.1),” _Straits Times_, 14 November 2012, 2–3. (From NewspaperSG)
 
-[^4]: Straits Settlements, Colonial Secretary’s Office, [Annual Report on the Social and Economic Progress of the People of the Straits Settlements, 1937](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5053544) (Singapore: Straits Settlements. Colonial Secretary's Office, 1937, 84. (From National Library, Singapore, call no. RSING 959.51 SSCSOA)
+[^4]: Straits Settlements, Colonial Secretary’s Office, [_Annual Report on the Social and Economic Progress of the People of the Straits Settlements, 1937_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5053544) (Singapore: Straits Settlements. Colonial Secretary's Office, 1937, 84. (From National Library, Singapore, call no. RSING 959.51 SSCSOA)
 
-[^5]: [Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839) (Singapore: Singapore Hokkien Huay Kuan, 2006), 28. (From National Library, Singapore, call no. RSING 369.25957 GUA)
+[^5]: [_Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839) (Singapore: Singapore Hokkien Huay Kuan, 2006), 28. (From National Library, Singapore, call no. RSING 369.25957 GUA)
 
 
-[^6]: “Thian Hock Keng (Temple of Heavenly Fortune),” in [Chinese Epigraphy in Singapore 1819–1911](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202761291), ed. Kenneth Dean and Hue Guan Thye (Singapore: NUS Press; Guilin City: Guangxi Normal University, 2017), 124. (From National Library, Singapore, call no. RSING 495.111 DEA)
+[^6]: “Thian Hock Keng (Temple of Heavenly Fortune),” in [_Chinese Epigraphy in Singapore 1819–1911_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202761291), ed. Kenneth Dean and Hue Guan Thye (Singapore: NUS Press; Guilin City: Guangxi Normal University, 2017), 124. (From National Library, Singapore, call no. RSING 495.111 DEA)
 
 [^7]: “No. 158 Telok Ayer Street,” Urban Redevelopment Authority, accessed 15 January 2024, https://www.ura.gov.sg/-/media/Corporate/Get-Involved/Conserve-Built-Heritage/AHA/2001/AHA-2001---158-Telok-Ayer-Street.pdf.
 
 [^8]: “Project Profiles for 2001 UNESCO Heritage Award Winners,” UNESCO, accessed 15 January 2024, https://articles.unesco.org/sites/default/files/medias/fichiers/2023/06/2001-winners.pdf.
 
 
-[^9]: [Guardian of the South Seas](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839), 144. 
+[^9]: [_Guardian of the South Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839), 144. 
 
 
-[^10]: [Guardian of the South Seas](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839), 48. 
+[^10]: [_Guardian of the South Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839), 48. 
 
 
-[^11]: [Guardian of the South Seas](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839), 68. 
+[^11]: [_Guardian of the South Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839), 68. 
 
 [^12]: “About Us,” Singapore Hokkien Huay Kuan, accessed 15 January 2024, https://www.shhkca.com.sg/about.
 
-[^13]: [Guardian of the South Seas](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839), 89–91. 
+[^13]: [_Guardian of the South Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839), 89–91. 
 
-[^14]: Xinjiapo fujian huiguan zhi jian weiyuanhui huiyi lu, 1950–1984
-[新加坡福建会馆执监委员会会议录, 1950–1984](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205677211) [Minutes of the executive committee of the Singapore Hokkien Huay Kuan, 1950–1984] (Singapore: n.p., 1946–1965). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK])
+[^14]: _Xinjiapo fujian huiguan zhi jian weiyuanhui huiyi lu, 1950–1984_ [新加坡福建会馆执监委员会会议录, 1950–1984](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205677211) [Minutes of the executive committee of the Singapore Hokkien Huay Kuan, 1950–1984] (Singapore: n.p., 1946–1965). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK])
 
-[^15]: Xinjiapo fujian huiguan zhi jian weiyuanhui huiyi lu, 1962–1987
-[新加坡福建会馆执监委员会会议录, 1962–1987](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205677211) [Minutes of the executive committee of the Singapore Hokkien Huay Kuan, 1962–1987] (Singapore: n.p., 1946–1965). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK])
+[^15]: _Xinjiapo fujian huiguan zhi jian weiyuanhui huiyi lu, 1962–1987_ [新加坡福建会馆执监委员会会议录, 1962–1987](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205677211) [Minutes of the executive committee of the Singapore Hokkien Huay Kuan, 1962–1987] (Singapore: n.p., 1946–1965). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK])
 
 [^16]: Yi'an ji zhongyao wenjian, 1948–1971 [议案及重要文件, 1948–1971](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205677211) [Proposals and important documents, 1948–1971] (Singapore: n.p., 1946–1965). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK])   
 
