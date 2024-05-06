@@ -78,7 +78,7 @@ After a career in banking, Dr Tony Tan Keng Yam entered politics in 1979, holdin
 
 #### **[Knowing Singapore: The Evolution of Published Information in Europe, c.1500–1819 ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300036076)**
 
-By&nbsp;Benjamin J. Q. Khoo and Peter Borschberg, with an Introduction by Kwa Chong Guan
+By&nbsp;Benjamin J.Q. Khoo and Peter Borschberg, with an Introduction by Kwa Chong Guan
 
 The Malaysian Branch of the Royal Asiatic Society&nbsp;(2023), 124 pages<br>
 Call no.: RSING&nbsp;303.482595704 KHO
