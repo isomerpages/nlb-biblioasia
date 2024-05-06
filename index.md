@@ -901,4 +901,14 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: "Kampong Gelam: Kitchen of the Malay World"
+      subtitle: Podcast
+      id: infopic
+      description: Here you find different curries and bread, nasi padang, sup tulang,
+        mee siam, a Javanese kitchen, Hainanese coffeeshops and more.
+      button: The cosmopolitan Kampong Gelam
+      url: /podcast/kampong-gelam-kitchen-of-the-malay-world/
+      image: /images/Podcast/isomer_home_khir.jpg
+      alt: Image alt text
 ---
