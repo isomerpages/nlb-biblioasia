@@ -5,6 +5,7 @@ date: 2019-07-31
 layout: post
 image: /images/Vol-15-issue-2/oriental-emporium/Emporium1.JPG
 description: ""
+variant: markdown
 ---
 #### The Emporium chain of department stores entered the scene when the retail market in Singapore was still in its infancy. Kam Kit Geok takes a closer look at a much-loved shopping icon.
 
@@ -68,7 +69,7 @@ Oriental Emporium stores were strategically located in high-density areas in the
 
 #### **Emporium Comes into its Own**
 
-There was no stopping the expansion of the Emporium Holdings Group. On 28 March 1980, it pulled a major feat by opening no less than 10 new outlets on the same day: Oriental Emporium & Supermarket in Clementi, Woodlands, Bukit Timah and Bukit Merah; Oriental Emporium in Bedok; Oriental Restaurants in Ang Mo Kio and Bedok; a Klasse Department Store and Café De Klasse in Peninsula Plaza serving Western and local cuisines; S-Mart Supermarket in Bedok; and Plaza Department Store & Supermarket in Ang Mo Kio.[^14]
+There was no stopping the expansion of the Emporium Holdings Group. On 28 March 1980, it pulled a major feat by opening no less than 10 new outlets on the same day: Oriental Emporium &amp; Supermarket in Clementi, Woodlands, Bukit Timah and Bukit Merah; Oriental Emporium in Bedok; Oriental Restaurants in Ang Mo Kio and Bedok; a Klasse Department Store and Café De Klasse in Peninsula Plaza serving Western and local cuisines; S-Mart Supermarket in Bedok; and Plaza Department Store &amp; Supermarket in Ang Mo Kio.[^14]
 
 <img style="width: 300px; height: 300px;" src="/images/Vol-15-issue-2/oriental-emporium/Emporium6.JPG">
 <div style="background-color: white;">(Left) The paper carrier bag of Emporium Holdings used in the 1980s. Courtesy of National Museum of Singapore, National Heritage Board.<br>
@@ -107,7 +108,7 @@ In September 1996, nine years after the liquidation of Emporium Holdings, ex-emp
 
 #### **Milestones**
 <table>
-  <tr>
+  <tbody><tr>
     <td>1938</td>
     <td>Lim Tow Seng establishes Lim Seng Huat, an import-export trading house specialising in China-made sundry goods, in half of a shophouse space on Pickering Street, before moving to 13 Circular Road later. The Circular Road shophouse later becomes the head office of Emporium Holdings Group.</td>
   </tr>
@@ -133,7 +134,7 @@ In September 1996, nine years after the liquidation of Emporium Holdings, ex-emp
   </tr>
 	  <tr>
     <td>1973</td>
-    <td>Emporium Holdings Group is established and opens a number of stores: Oriental Emporium & Supermarket in People’s Park and Jurong; Katong Emporium & Supermarket, Toa Payoh Emporium; and Sin Hua Emporium at Happy World amusement park.</td>
+    <td>Emporium Holdings Group is established and opens a number of stores: Oriental Emporium &amp; Supermarket in People’s Park and Jurong; Katong Emporium &amp; Supermarket, Toa Payoh Emporium; and Sin Hua Emporium at Happy World amusement park.</td>
   </tr>
 	  <tr>
     <td>1974</td>
@@ -153,16 +154,16 @@ In September 1996, nine years after the liquidation of Emporium Holdings, ex-emp
   </tr>
 	  <tr>
     <td>1980</td>
-    <td>Official opening of eight outlets and two restaurants on the same day on 28 March: Oriental Emporium & Supermarket in Clementi, Woodlands, Bukit Timah and Bukit Merah; Oriental Emporium in Bedok; S-Mart Supermarket in Bedok; Klasse Department Store and Café De Klasse in Peninsula Plaza; Plaza Department Store & Supermarket in Ang Mo Kio; and Oriental Restaurants in Ang Mo Kio and Bedok.<br><br>
-Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium & Supermarket in Holland Village; and Oriental Restaurants in Clementi and Bukit Merah open later in the year.</td>
+    <td>Official opening of eight outlets and two restaurants on the same day on 28 March: Oriental Emporium &amp; Supermarket in Clementi, Woodlands, Bukit Timah and Bukit Merah; Oriental Emporium in Bedok; S-Mart Supermarket in Bedok; Klasse Department Store and Café De Klasse in Peninsula Plaza; Plaza Department Store &amp; Supermarket in Ang Mo Kio; and Oriental Restaurants in Ang Mo Kio and Bedok.<br><br>
+Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium &amp; Supermarket in Holland Village; and Oriental Restaurants in Clementi and Bukit Merah open later in the year.</td>
   </tr>
 	 <tr>
     <td>1981</td>
-    <td>15th anniversary of Emporium Holdings; opening of new head office in Ang Mo Kio; Oriental Emporium & Supermarket opens in Geylang; and Home Furnishing Centre opens in Redhill.</td>
+    <td>15th anniversary of Emporium Holdings; opening of new head office in Ang Mo Kio; Oriental Emporium &amp; Supermarket opens in Geylang; and Home Furnishing Centre opens in Redhill.</td>
   </tr>
 	 <tr>
     <td>1982</td>
-    <td>Oriental Emporium & Supermarket opens in Serangoon.</td>
+    <td>Oriental Emporium &amp; Supermarket opens in Serangoon.</td>
   </tr>
 	 <tr>
     <td>1983</td>
@@ -176,7 +177,7 @@ Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium & Supermarket i
     <td>1987</td>
     <td>Emporium Holdings Group is liquidated.</td>
   </tr>
-</table>
+</tbody></table>
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/oriental-emporium/Emporium7.jpg" style="width: 100px; height: 100px;">
@@ -192,10 +193,10 @@ Oriental Slasher Emporium in Hong Lim Complex; Oriental Emporium & Supermarket i
 [^4]:Raghawan, V. (n.d.). *Emporium’ store*. Retrieved from Singapore Memory Project website.
 [^5]:Tow Seng became the chairman of Emporium Holdings, while Tow Yong was the managing director.
 [^6]:Balasingamchow, Y.-M. (2018, July–September). [Going shopping in the 1960s](https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/going-shopping-in60s/). *BiblioAsia, 14* (2). Retrieved from BiblioAsia website.
-[^7]:Chew, D. (Interviewer). (1984, January 27). [*Oral history interview with Mabel Martin*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e7c838b8-115d-11e3-83d5-0050568939ad-OHC000388_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11) [Transcript of recording no. 000388/6/4, p. 45]. Retrieved from National Archives of Singapore website.
-[^8]:Yap, W.C. (Interviewer). (1997, November 3). [*Oral history interview with Ng Joo Kee*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/92fa0545-115e-11e3-83d5-0050568939ad-OHC001970_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 001970/4/3, pp. 26–29]. Retrieved from National Archives of Singapore website.
+[^7]:Chew, D. (Interviewer). (1984, January 27). [*Oral history interview with Mabel Martin*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e7c838b8-115d-11e3-83d5-0050568939ad-OHC000388_004/web/html5/index.html) [Transcript of recording no. 000388/6/4, p. 45]. Retrieved from National Archives of Singapore website.
+[^8]:Yap, W.C. (Interviewer). (1997, November 3). [*Oral history interview with Ng Joo Kee*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/92fa0545-115e-11e3-83d5-0050568939ad-OHC001970_003/web/html5/index.html) [Transcript of recording no. 001970/4/3, pp. 26–29]. Retrieved from National Archives of Singapore website.
 [^9]:《[东方百货有限公司启业特辑](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200081447)》[Oriental Emporium Limited] (p.1). (1966). Singapore: M.C. (P). (Call no.: RSING q381.141095957 DFB).
-[^10]:Yap, W.C. (Interviewer). (1997, November 3). [*Oral history interview with Ng Joo Kee*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7) [Transcript of recording no. 001970/4/1, p. 7]; Yap, W.C. (Interviewer). (1997, November 3). [*Oral history interview with Ng Joo Kee*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/39b90d01-1160-11e3-83d5-0050568939ad-OHC001970_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=7) [Transcript of recording no. 001970/4/2, pp. 6–7]; [*Oral history interview with Ng Joo Kee*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/92fa0545-115e-11e3-83d5-0050568939ad-OHC001970_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=5),Nov 1997, p. 29.
+[^10]:Yap, W.C. (Interviewer). (1997, November 3). [*Oral history interview with Ng Joo Kee*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html) [Transcript of recording no. 001970/4/1, p. 7]; Yap, W.C. (Interviewer). (1997, November 3). [*Oral history interview with Ng Joo Kee*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/98df3585-115e-11e3-83d5-0050568939ad-OHC001970_001/web/html5/index.html) [Transcript of recording no. 001970/4/2, pp. 6–7]; [*Oral history interview with Ng Joo Kee*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/39b90d01-1160-11e3-83d5-0050568939ad-OHC001970_002/web/html5/index.html),Nov 1997, p. 29.
 [^11]:Lim, B.T. (1968, January 15). [Now the Emporium comes to busy High Street](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680115-1.2.107). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
 [^12]:[Toa Payoh Emporium fulfils a vital need](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730630-1.2.109). (1973, June 30). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 [^13]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730630-1.2.109), 30 Jun 1973, p. 18.

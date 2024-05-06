@@ -75,3 +75,14 @@ Call no.: RSING 959.5705092 TAN
 ![](/images/Vol%2020%20Issue%202/New%20Books/Tony_Tan.png)
 
 After a career in banking, Dr Tony Tan Keng Yam entered politics in 1979, holding at various times the portfolios of education, defence, finance, health, and trade and industry. In 2011, he contested the presidential election and became Singapore’s seventh president (2011–17). Written from Dr Tan’s point of view, this memoir provides his personal insights and deliberations behind key decisions and policy changes in the areas of education, finance, security and defence, such as the 1979 revamp of the education system, the scrapping of the graduate mothers’ priority scheme and the 1986 Central Provident Fund rate cut.
+
+#### **[Knowing Singapore: The Evolution of Published Information in Europe, c.1500–1819 ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300036076)**
+
+By&nbsp;Benjamin J.Q. Khoo and Peter Borschberg, with an Introduction by Kwa Chong Guan
+
+The Malaysian Branch of the Royal Asiatic Society&nbsp;(2023), 124 pages<br>
+Call no.: RSING&nbsp;303.482595704 KHO
+
+<img src="/images/Vol%2020%20Issue%202/New%20Books/knowing_singapore.png" style="width: 50%;">
+
+To find out more about Singapore’s early history, Benjamin Khoo and Peter Borschberg examined more than 400 European travel descriptions of Singapore and the region written in Latin and various vernacular languages. Published between 1500 and the early 1800s in encyclopaedias, dictionaries and compendia, these detailed first-hand accounts reveal Singapore’s early role in regional trade in a fresh light.
