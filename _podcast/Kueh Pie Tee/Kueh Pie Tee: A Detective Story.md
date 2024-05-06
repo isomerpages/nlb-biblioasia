@@ -48,7 +48,9 @@ many cookbooks, most recently <em><a href="https://eservice.nlb.gov.sg/redir/ite
 Books, 2024). He loves making meaning with words, images and food.&nbsp;</p>
 <p></p>
 <h4><strong>Related Video</strong></h4>
-<p>Watch Christopher make <em><a href="https://biblioasia.nlb.gov.sg/videos/kueh-pie-tee/" rel="noopener noreferrer nofollow" target="_blank">kueh pie tee</a></em>.</p>
+<p>How did kueh pie tee get its name? Why is it considered a Peranakan dish?
+Cookbook author Christopher Tan dives into the mystery of this crispy snack
+as he makes them using vintage moulds. Watch him make <em><a href="https://biblioasia.nlb.gov.sg/videos/kueh-pie-tee/" rel="noopener noreferrer nofollow" target="_blank">kueh pie tee</a></em>.</p>
 <h4><br><strong>Resources</strong></h4>
 <p>Susie Hing, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437" rel="noopener noreferrer nofollow" target="_blank">In a Malayan Kitchen</a>&nbsp;</em>(Singapore:
 Mun Seong Press, 1956). (Call no<em>. </em>RSING 641.59595 HIN-[RFL])</p>
