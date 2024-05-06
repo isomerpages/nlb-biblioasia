@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/
-      button: Singapore's Hippie Hysteria and the Ban on Long Hair
+      url: /vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/
+      button: "A Plethora of Tongues: Multilingualism in 1950s Malayan Writing"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 1/Hippie Hysteria/Hero_img_Hippie.jpg
+      background: /images/Online Only Articles/A Plethora of Tongues/plethora_hero_img.png
   - infopic:
       title: "Kueh Pie Tee: A Detective Story"
       subtitle: PODCAST
