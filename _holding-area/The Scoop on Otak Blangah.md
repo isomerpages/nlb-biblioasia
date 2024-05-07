@@ -19,3 +19,74 @@ Join Tanya Pillay-Nair and Aunty Danam as they cook up a storm to make this uniq
 <div style="background-color: white;">The <i>ikan parang</i> (wolf herring) used to make the fish patties.</div><br>
 <img src="/images/Videos:%20From%20Book%20to%20Cook/5Otak%20Blangah/Tanya_and_Paddy.jpg" style="width:80%">
 <div style="background-color: white;">A little tug-of-war with the <i>ikan parang</i> between host Paddy (left), Tanya (right) and her aunt (middle) to severe its bones so that they can be easily removed later on.</div>
+
+#### **Recipes**
+This recipe for <i>otak blangah</i> came from Aunty Danam herself. Originally from the village of Kampung Chetti in Melaka, she learnt to cook after living with relatives in Singapore when she was 16 years old. The <i>neneks</i> (grandmothers) she learnt from were fastidious about their recipes and forbade the use of shortcuts, so traditional tools like the <i>batu giling</i> (grinding stone) were used to make the <i>rempah</i> (spice paste).
+
+The recipe is published in <i>Heritage Food of the Peranakan Indians</i> (2023) by the Peranakan Indian (Chitty Melaka) Association Singapore. Included with the recipe are notes from a <i>nenek</i>, providing additional information about the dish and its preparation.
+
+##### <i>Otak blangah</i>
+
+<b>For the fish paste:</b><br>
+500 g mackerel (or wolf herring)<br>
+2 tsp. anchovies seasoning powder (or white pepper)<br>
+2 tsp. sugar<br>
+1/2 tsp. salt<br>
+2 tbsp. sago/tapioca flour
+
+<b>For the coconut paste:</b><br>
+20 g roasted grated coconut<br>
+40 g finely grated white coconut<br>
+3 tbsp. thick coconut cream extracted from 125 g grated coconut
+
+<b>For the _rempah_ (spice paste):</b><br>
+40 g dried red chillies<br>
+80 g shallots<br>
+80 g garlic<br>
+15 g turmeric<br>
+10 g blue ginger<br>
+10 g or 1 stalk lemongrass<br>
+15 g candlenuts<br>
+40 g red chillies<br>
+1 tsp. toasted <i>belacan</i>
+
+<b>Other ingredients:</b><br>
+500 ml thick coconut milk<br>
+1/2 tsp. salt<br>
+2 tsp. sugar<br>
+10g or a young turmeric leaf, sliced<br>
+10 g or 3 kaffir lime leaves, sliced
+
+1.&nbsp;&nbsp;&nbsp; To make the fish paste, first fillet the mackerel. Then with a wet spoon, scrape the fish down to the bones and skin, depositing the flesh into a large bowl. Remove any bones.
+
+2.&nbsp;&nbsp;&nbsp; Add anchovies seasoning powder or white pepper and sugar to the fish and mix well using a spoon.
+
+3.&nbsp;&nbsp;&nbsp; To bind the fish to make a sticky paste, place the fish into a mortar and sprinkle the sago or tapioca flour. Create a salt water mixture, then dip the pestle into the salt solution and gently pound the fish. The saltwater from the pestle will further season the fish.
+
+4.&nbsp;&nbsp;&nbsp; Using your hands, roll the fish paste into a ball and throw it into the mortar repeatedly for about 10 minutes to get a spongier consistency.
+
+5.&nbsp;&nbsp;&nbsp; With wet hands, shape the fish paste (each about the size of a ping pong ball) into small round patties and set aside on a plate.
+
+6.&nbsp;&nbsp;&nbsp; To make the coconut paste, dry-fry 20 g of fresh coconut in a pan until golden brown. Pound the roasted and freshly grated coconut together with the coconut cream to make a smooth paste. Set aside in a bowl.
+
+7.&nbsp;&nbsp;&nbsp; To make the spice paste, soak the dried red chillies in hot water for 20 minutes, then drain and cut into 3 segments. Peel the shallots, garlic, turmeric and blue ginger, and finely slice them, together with the lemongrass. Pound the sliced aromatics together with the candlenuts, dried and fresh chillies and _belacan_ into a fine paste.
+
+8.&nbsp;&nbsp;&nbsp; Put the coconut and spice paste together with the coconut milk into a large clay pot and bring to a boil. Add the salt and sugar.
+
+9.&nbsp;&nbsp;&nbsp; Add the finely sliced turmeric and kaffir lime leaves and cook for 2 minutes.
+
+10.
+
+10.  Gently slide in the fish paste patties, spreading them around the clay pot and poach until firm.
+
+11.  Lift out slowly, top with the gravy, and serve.
+
+
+
+
+
+#### **Related Podcast**
+
+
+
+#### **Related Article**
