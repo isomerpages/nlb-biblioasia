@@ -10,7 +10,7 @@ third_nav_title: From Book to Cook
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/T0i0lbiblQs" frameborder="0" allowfullscreen=""></iframe></div>
 
 #### **Episode summary** ####
-You hear Malay, Javanese, Tamil and Punjabi as you wander the streets with shops selling colourful textiles and carpets, spices and flowers. Here you find different curries and bread, _nasi padang_, _sup tulang_, _mee siam_, a Javanese kitchen, Hainanese coffeeshops and more. Bookstores sell literature and newspapers as far away as Cairo. In this episode, Khir talks about the Kampong Gelam (present-day Bugis) that he grew up in.
+Khir Johari, food historian and award-winning author of _The_ _Food of Singapore Malays_ (2021), makes _mee maidin_ – a noodle dish based on a krill ragù – and tells us more about its origins. Why does a 1986 cookbook call it “mee mahdin”? And how was krill, once abundant in Singapore’s waters, caught using traditional fishing methods?
 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/2Mee%20Maidin/Mee_Maidin.jpg" style="width:80%">
 <div style="background-color: white;"><i>Mee maidin</i>, served with garnishes like lettuce, bean sprouts, tofu, chillies, eggs and calamansi.</div><br>
