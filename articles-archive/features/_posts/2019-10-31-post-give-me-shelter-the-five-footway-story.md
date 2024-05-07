@@ -4,16 +4,17 @@ date: 2019-10-31
 permalink: /vol-15/issue-3/oct-dec-2019/give-me-shelter-stry/
 image: /images/Vol-15-issue-3/give-me-shelter/Shelter1.JPG
 layout: post
+variant: markdown
 ---
 #### The five-footway – the equivalent to the modern-day pavement or sidewalk – was a hotly contested space in colonial Singapore. **Fiona Lim** relives its colourful history.
 
 <img src="/images/Vol-15-issue-3/give-me-shelter/Shelter1.JPG">
-<div style="background-color: white;">Paintng of a row of shophouses and the fve-footway running along the facade. <i>Image reproduced from Morton-Cameron, W.H., & Feldwick, W. (Eds.). (2012). Present Day Impressions of the Far
-East and Prominent & Progressive Chinese at Home and Abroad: The History, People, Commerce, Industries, and Resources of China, Hong Kong, Indo-China, Malaya, and Netherlands India (vol. 2; facing p. 810). Tokyo: Editon Synapse. (Call no.: RSING 950 PRE).</i></div>
+<div style="background-color: white;">Paintng of a row of shophouses and the fve-footway running along the facade. <i>Image reproduced from Morton-Cameron, W.H., &amp; Feldwick, W. (Eds.). (2012). Present Day Impressions of the Far
+East and Prominent &amp; Progressive Chinese at Home and Abroad: The History, People, Commerce, Industries, and Resources of China, Hong Kong, Indo-China, Malaya, and Netherlands India (vol. 2; facing p. 810). Tokyo: Editon Synapse. (Call no.: RSING 950 PRE).</i></div>
 
 “Crowded, bustling, layered, constantly shifting, and seemingly messy, these sites and activities possess an order and hierarchy often visible and comprehensible only to their participants, thereby escaping common understanding and appreciation”.[^1]
 
-<div style="text-align: right"> – Hou & Chalana, 2016</div>
+<div style="text-align: right"> – Hou &amp; Chalana, 2016</div>
 
 It may seem surprising in today’s context but the concept of a “messy urbanism” as defined by academics Jeffrey Hou and Manish Chalana is an apt description of Singapore in the 19th and mid-20th centuries. Such a phenomenon was played out in the five-footways of the town’s dense Asian quarters, including Chinatown, Little India and Kampong Glam.
 
@@ -32,7 +33,7 @@ In the late 19th and right up to the mid-20th century, an assortment of traders,
 Operating in the five-footway required minimal capital, and thus it was the most viable option for those with little means. In turn, vendors could provide essential goods and services to consumers cheaply. The five-footway came to sustain the economic and social life of a working class of mainly immigrants who had come to Singapore to find work, hoping to give their families back home a better life.
 
 <img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-3/give-me-shelter/Shelter3.JPG">
-<div style="background-color: white;">A photo of China Street showing the rows of shophouses and their five-footways by G.R. Lambert & Co., c. 1890s. <i>Courtesy of Editions Didier Millet.</i></div>
+<div style="background-color: white;">A photo of China Street showing the rows of shophouses and their five-footways by G.R. Lambert &amp; Co., c. 1890s. <i>Courtesy of Editions Didier Millet.</i></div>
 
 Although the lives of Asian migrants in Singapore were steeped in this ecosystem, many Europeans found this vernacular environment appalling. Those who considered this social space as a novelty tended to view it as “exotic”, as John Cameron, former editor of *The Straits Times*, did when he wrote: “[I]n a quiet observant walk through [the five-footways] a very great deal may be learned concerning the peculiar manners and customs of the trading inhabitants.”[^4]
 
@@ -159,8 +160,8 @@ Following a deadly confrontation with the police, the riots were quelled and, on
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:Hou, J., & Chalana, M. (2016). Untangling the ‘messy’ Asian city (p. 3). In J. Hou & M. Chalana (Eds.), [*Messy urbanism: Understanding the “other” cities of Asia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202775474) (pp. 1–21). Hong Kong: Hong Kong University Press. (Call no.: RSEA 307.76095 MES).
-[^2]:Buckley, C.B. (1902). [*An anecdotal history of Singapore*](http://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx) (Vol. 1, p. 84). Singapore: Fraser & Neave, Ltd. Retrieved from BookSG.
+[^1]:Hou, J., &amp; Chalana, M. (2016). Untangling the ‘messy’ Asian city (p. 3). In J. Hou &amp; M. Chalana (Eds.), [*Messy urbanism: Understanding the “other” cities of Asia*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202775474) (pp. 1–21). Hong Kong: Hong Kong University Press. (Call no.: RSEA 307.76095 MES).
+[^2]:Buckley, C.B. (1902). [*An anecdotal history of Singapore*](http://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx) (Vol. 1, p. 84). Singapore: Fraser &amp; Neave, Ltd. Retrieved from BookSG.
 [^3]:Lim, J.S.H. (1993). The ‘Shophouse Rafflesia’: An outline of its Malaysian pedigree and fits subsequent diffusion in Asia. *Journal of the Malaysian Branch of the Royal Asiatic Society, 66* (1) (*264*), *47–66*, pp. 51–52. Retrieved from JSTOR via NLB’s eResources website.
 [^4]:Cameron, J. (1865). [*Our tropical possessions in Malayan India*](http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx) […] (p. 60). London: Smith, Elder and Co. Retrieved from BookSG.
 [^5]:Bird, I. ([1883]; 1967 reprint).  [*The Golden Chersonese and the way thither*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4764597) (p. 150). Singapore: Oxford University Press. (Call no.: RCLOS 959.5 BIR).
@@ -170,9 +171,9 @@ Following a deadly confrontation with the police, the riots were quelled and, on
 [^9]:In the 1890s, the five-footway could be divided up into a maximum of four units and subleased, each paying a monthly rent of between $1 and $15. See [Yeoh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200108247), 2003, p.247.
 [^10]:National Heritage Board. (2012). *Kampong Glam: A heritage trail* (pp. 27, 35). Retrieved from National Heritage Board website.
 [^11]:Yeo, L.F. (Interviewer). (2000, May 13). [*Oral history interview with Song Moh Ngai*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/76f9d2ac-115e-11e3-83d5-0050568939ad) [Recording no. 002304/25/17]. Retrieved from National Archives of Singapore website.
-[^12]:Yeo, L.F. (Interviewer). (1999, October 6). [*Oral history interview with Sew Teng Kwok*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13df35c4-1160-11e3-83d5-0050568939ad) [Recording no. 002209/23/5]; Yeo, G.L. (Interviewer). [*Oral history interview with Kannusamy s/o Pakirisamy*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e0408dfe-115d-11e3-83d5-0050568939ad-OHC000081_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 000081/28/18, pp. 285–286]. Retrieved from National Archives of Singapore website; [Cameron](http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx), 1865, p. 66. 
-[^14]:Singapore. Archives & Oral History Department. (1985). [*Five-foot-way traders*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080651). Singapore: Archives & Oral History Department, p. 36. (Call no.: RDLKL 779.9658870095957 FIV).
-[^15]:Siddique, S., & Shotam, N.P. (1982). [*Singapore’s Little India: Past, present, and future*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082449) (pp. 101–104). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID).
+[^12]:Yeo, L.F. (Interviewer). (1999, October 6). [*Oral history interview with Sew Teng Kwok*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13df35c4-1160-11e3-83d5-0050568939ad) [Recording no. 002209/23/5]; Yeo, G.L. (Interviewer). [*Oral history interview with Kannusamy s/o Pakirisamy*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e041b0bd-115d-11e3-83d5-0050568939ad-OHC000081_018/web/html5/index.html) [Transcript of recording no. 000081/28/18, pp. 285–286]. Retrieved from National Archives of Singapore website; [Cameron](http://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx), 1865, p. 66. 
+[^14]:Singapore. Archives &amp; Oral History Department. (1985). [*Five-foot-way traders*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080651). Singapore: Archives &amp; Oral History Department, p. 36. (Call no.: RDLKL 779.9658870095957 FIV).
+[^15]:Siddique, S., &amp; Shotam, N.P. (1982). [*Singapore’s Little India: Past, present, and future*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082449) (pp. 101–104). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID).
 [^16]:[*Oral history interview with Sew Teng Kwok*](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/13df35c4-1160-11e3-83d5-0050568939ad), 6 Oct 1999.
 [^17]:[Yeoh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200108247), 2003, p. 247.
 [^18]:[The municipal health officer on the verandah question](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18920430-1.2.41). (1892, April 30). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
