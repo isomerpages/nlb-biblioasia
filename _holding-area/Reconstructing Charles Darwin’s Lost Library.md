@@ -37,6 +37,11 @@ Between the 1960s and 1980s, editions of Darwin’s transmutation (evolution) no
 
 In 1990, a volume of the marginalia or annotations in Darwin’s books was published based on the surviving part of Darwin’s library of books housed in Cambridge University Library and Down House. These 1,476 books have since been referred to as “Darwin’s Library”. Having been thus cited and referred to so many times, it has led to the impression that this was the entirety of what Darwin’s library originally contained. Specialist scholars were nevertheless aware that Darwin also had hundreds of volumes of scientific journals and thousands of pamphlets, offprints and book reviews, and these were not on this list of “Darwin’s Library”.&nbsp;
 
+
+![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+<div style="background-color:white;">T.W. Wood's “The Courtship of Birds” in <i>The Student and Intellectual Observer of Science, Literature and Art</i> (vol. V, 1870), a book found in Darwin’s library. <i>From Darwin Online. </i></div>
+
+
 #### **Darwin Online**
 
 In 2002, while a research fellow at the National University of Singapore (NUS), far away from my home in Cambridge, I founded a project that is now called Darwin Online. This was a scholarly project whose website would include all of Darwin’s publications, manuscripts, papers, bibliography, and catalogue of manuscripts and associated materials and introductions. From 2005, major funding was provided by the Arts and Humanities Research Council in the UK to expand the project at the University of Cambridge.&nbsp;
