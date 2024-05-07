@@ -18,4 +18,4 @@ Join Tanya Pillay-Nair and Aunty Danam as they cook up a storm to make this uniq
 <img src="/images/Videos:%20From%20Book%20to%20Cook/5Otak%20Blangah/Ikan_Parang.jpg" style="width:80%">
 <div style="background-color: white;">The <i>ikan parang</i> (wolf herring) used to make the fish patties.</div><br>
 <img src="/images/Videos:%20From%20Book%20to%20Cook/5Otak%20Blangah/Tanya_and_Paddy.jpg" style="width:80%">
-<div style="background-color: white;">Vegetarian _soon kueh_ based on the recipe from 海印古寺90周年特輯 [<i>Haiingu Temple 90th Anniversary Special</i>] (Singapore: Hai Inn Temple, 2018).</div>
+<div style="background-color: white;">A little tug-of-war with the <i>ikan parang</i> between host Paddy (left), Tanya (right) and her aunt (middle) to severe its bones so that they can be easily removed later on.</div>
