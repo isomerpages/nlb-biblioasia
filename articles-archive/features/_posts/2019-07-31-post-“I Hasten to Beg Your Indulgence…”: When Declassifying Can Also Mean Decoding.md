@@ -5,6 +5,7 @@ date: 2019-07-31
 layout: post
 image: /images/Vol-15-issue-2/declassifying-mean-decoding/Decoding1.JPG
 description: ""
+variant: markdown
 ---
 #### When the National Archives embarked on the declassification initiative to unlock documents previously labelled as “secret” and “confidential” for public access, it also had to decipher what was actually written, says **K.U. Menon**.
 
@@ -108,16 +109,16 @@ But is the problem worse today, given the pervasiveness of the internet, social 
 Sadly, one of the causes of the loss of clarity in writing today must surely be the demise of letter writing. As email replaces snail mail, the price of speed is the slide of composition into truncated note. In this age of ephemerality, words appear to be designed to be short-lived. And so it is – given the short screen life of electronic mail, one might well ask, where are the gems of elegant writing to be found today?
 
 Visit the Singapore Policy History Project@
-[https://www.nas.gov.sg/archivesonline/policy_history/](https://www.nas.gov.sg/archivesonline/policy_history/)
+[https://www.nas.gov.sg/archivesonline/policy_history](https://www.nas.gov.sg/archivesonline/policy_history)
 
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-2/declassifying-mean-decoding/Decoding7.jpg" style="width: 100px; height: 100px;">
-<b>Dr K.U. Menon</b> is Senior Consultant at the Ministry of Communications & Information (MCI). After four decades in the Civil Service, he is currently one of the supervisors of the Singapore Policy History Project at MCI and is also as an Associate Trainer at the Civil Service College.
+<b>Dr K.U. Menon</b> is Senior Consultant at the Ministry of Communications &amp; Information (MCI). After four decades in the Civil Service, he is currently one of the supervisors of the Singapore Policy History Project at MCI and is also as an Associate Trainer at the Civil Service College.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 [^1]: Ferguson, N. (2003). [*Empire: How Britain made the modern world*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203099674). London: Allen Lane. (Call no.: RCLOS 909.0971241 FER-[USB]).
-[^2]: Al-Jubouri, F.A.J. (2014). *Milestones on the road to dystopia: Interpreting George Orwell’s self-division in an era of ‘Force & Fraud’*. UK, Cambridge: Cambridge Scholars Publishing. (Not available in NLB holdings).
+[^2]: Al-Jubouri, F.A.J. (2014). *Milestones on the road to dystopia: Interpreting George Orwell’s self-division in an era of ‘Force &amp; Fraud’*. UK, Cambridge: Cambridge Scholars Publishing. (Not available in NLB holdings).
 [^3]: Fong, L. (1971, May 3). [Three newsmen held](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710503-1.2.2). *The Straits Times*, p, 1. Retrieved from NewspaperSG.
