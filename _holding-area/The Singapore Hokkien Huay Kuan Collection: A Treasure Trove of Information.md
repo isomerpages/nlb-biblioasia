@@ -18,7 +18,7 @@ This collection is important because these papers shed light on many important i
 <div style="background-color:white;">A painting of Thian Hock Keng titled “Chinese Temple, Singapore” by artist Alfred T. Agate and engraver J.A. Ralph, 1842. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 
-From these documents, which were kept in a safe for many decades, we learn that merchant and philanthropist Tan Tock Seng had acquired multiple plots of land in Telok Ayer between 1838 and 1839 at prices ranging from 160 to 200 Spanish silver dollars per plot for the construction of the temple.[^2] He purchased these land parcels from the resellers who had originally bought them from the British East India Company.[^3]
+From these documents, which were kept in a safe for many decades, we learn that Tan Tock Seng had acquired multiple plots of land in Telok Ayer between 1838 and 1839 at prices ranging from 160 to 200 Spanish silver dollars per plot for the construction of the temple.[^2] He purchased these land parcels from the resellers who had originally bought them from the British East India Company.[^3]
 
 The purchase of land in Singapore during the early 19th century was usually in the form of a 999- or 99-year lease issued by the Straits Settlements government, where the lease or grant was subject to a yearly quit rent.[^4]
 
