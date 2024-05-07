@@ -64,6 +64,9 @@ In 2014, while in Singapore, we reconstructed and put online the entire 400-volu
 <div style="background-color:white;"> After his voyage on HMS <i>Beagle</i>, Darwin observed that the Galápagos finches with different beak shapes showed that one ancestral species had evolved over time into 13 new species. <i>From Darwin Online. </i></div>
 
 
+![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+<div style="background-color:white;"> Skeleton of the extinct gigantic sloth, <i>Mylodon</i>. It was named by the English comparative anatomist Richard Owen based on a nearly complete lower jaw with teeth discovered by Darwin in 1832 at Bahía Blanca, Argentina, during the survey expedition of HMS <i>Beagle</i>. <i>From Darwin Online. </i></div>
+
 
 In 2021, reviews of all his books were launched on Darwin Online. Numbering over 1,700 in several languages, it is the largest collection of the reviews of the work of any historical scientist. &nbsp;
 
@@ -110,6 +113,11 @@ Many of the works that had not been preserved with the part of the scientific li
 Darwin's devotion to the “water cure” for his ill health is well known, but we did not have a record, until now, that Dr James Manby Gully's book, _The Water Cure in Chronic Disease: An Exposition of the Causes, Progress, and Terminations of Various Chronic Diseases of the Digestive Organs, Lungs, Nerves, Limbs, and Skin, and of Their Treatment by Water and Other Hygienic Means_ (1846), was on Darwin’s shelves. Unsurprisingly, for a man who took such assiduous care of his finances, Darwin had a book on this too – Robert A. Ward’s 1852 work, _A Treatise on Investments_.&nbsp;
 
 We have found that many of the works that were not handed over to Cambridge in 1908 were among the oldest in the collection. This might have been why they were retained by the family and some later sold. These included Edmund Gibson’s _Chronicon Saxonicum_ (1692);&nbsp; Johann Bauhin’s _Historia Plantarvm Vniversalis_ (1651); Joseph Butler’s _The Analogy of Religion, Natural and Revealed_ (1736); Maria Elizabeth Jackson’s _Botanical Dialogues, Between Hortensia and Her Four Children_ (1797); and Thomas Burnet’s _The Theory of the Earth_ (1684).
+
+
+![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+<div style="background-color:white;">Ernst Haeckel's striking 1862 drawings of Radiolaria, a type of plankton. These were found in Darwin’s library. <i>From Darwin Online. </i></div>
+
 
 #### **Digitising the Library**
 
