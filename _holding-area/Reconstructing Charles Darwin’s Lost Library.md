@@ -59,6 +59,12 @@ In 2010, NUS invited me to Singapore to continue my research and zoological hist
 
 In 2014, while in Singapore, we reconstructed and put online the entire 400-volume library that had been aboard Darwin’s ship, HMS _Beagle_. Most of that library’s contents had been reconstructed by the editors of _The Correspondence of Charles Darwin_. I was able to add more titles from my own research, especially from editing _Charles Darwin’s Notebooks from the Voyage of the Beagle_, a book published by Cambridge University Press in 2009.&nbsp;
 
+
+![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+<div style="background-color:white;"> After his voyage on HMS <i>Beagle</i>, Darwin observed that the Galápagos finches with different beak shapes showed that one ancestral species had evolved over time into 13 new species. <i>From Darwin Online. </i></div>
+
+
+
 In 2021, reviews of all his books were launched on Darwin Online. Numbering over 1,700 in several languages, it is the largest collection of the reviews of the work of any historical scientist. &nbsp;
 
 Darwin Online also contains the largest collection of, recollections of, and obituaries of any scientist. With all this material, together with his publications (including hundreds of newly discovered shorter items), notebooks and papers, Darwin Online has become what we believe to be the most comprehensive scholarly website on any historical person in the world, with hundreds of editorial introductions and over 15,000 footnotes.&nbsp;
