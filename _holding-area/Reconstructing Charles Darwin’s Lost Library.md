@@ -9,9 +9,19 @@ description: Almost 20 years of painstaking scouring and sleuth work have
 #### Almost 20 years of painstaking scouring and sleuth work have resulted in what is probably the largest and most comprehensive resource on Charles Darwin.
 By John van Wyhe
 
+
+![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+<div style="background-color:white;"> (Left) The only view of the back wall of&nbsp; Darwin's new study from an 1892 photograph by C.E. Corke. (Right) A week after Darwin's death on 19 April 1882, the family commissioned this copperplate etching (cropped) by Axel H. Haig. By stitching these together, we can see most of the bookshelves in Darwin's study. There were many other bookcases throughout the house. <i>From Darwin Online. </i></div>
+
+
 Charles Darwin (1809–82) is arguably the most influential scientist who ever lived. During his lifetime, he transformed the theory of evolution from ridiculed speculation to an established fact accepted by the international scientific community. The implications of this profound shift in how life on Earth is understood was immeasurable. Discussions of, and reactions to, Darwin remained common for over a century, and not only in biology and palaeontology but also in philosophy, art, literature and much more. Tens of thousands of publications have discussed Darwin’s works in dozens of countries and languages in a continuous stream that has never ceased.
 
 Scholars have been studying Darwin’s life and work ever since _On the Origin of Species by Means of Natural Selection_ was published in 1859, and today, scholarship on Darwin has become a large and sophisticated area of research. Indeed, it is a daunting area for young researchers to enter because the scholarly literature is so vast that it takes years to read and master enough of it to contribute something new. However, despite all this attention on Darwin and his writings, there has been one notable omission: in the 140 years or so since Darwin’s death, a complete list of all the works that he owned, used and cited did not exist.
+
+
+![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+<div style="background-color:white;">The title page of Darwin’s <i>On the Origin of Species by Means of Natural Selection</i>, published in 1859 by John Murray. The top right corner has the call number that is recorded in the original handwritten library catalogue. <i>From Darwin Online. </i></div>
+
 
 This gap has finally been filled. After 18 years of painstaking research – involving scouring numerous obscure lists and consulting unusual sources, as well as extrapolating from vague, fragmentary and handwritten notes – we have finally completed the task of cataloguing the contents of Darwin’s enormous library. We now know that Darwin’s library contained 7,494 unique titles across 13,000 volumes/items. Looking at the list, it is clear that Darwin had one of the most extensive and important private scientific libraries of the 19th century.
 
@@ -34,6 +44,11 @@ In 2002, while a research fellow at the National University of Singapore (NUS), 
 The new site was launched in October 2006 and the news went viral. It was mentioned in hundreds of websites and newspapers around the world, and covered by renowned media outlets such as BBC Radio 4’s Today Programme, BBC Breakfast (TV), the regional BBC stations, CNN and _The Guardian_, etc. Millions of visits to the site brought the servers at Cambridge crashing down multiple times in the first 24 hours. Overnight, Darwin Online had become one of the best-known history of science projects in the world.&nbsp;
 
 That was only the beginning though. Darwin’s manuscripts and private papers were launched in 2008 when 100,000 images from the Darwin Archive in Cambridge became available, and another viral media event followed. Several other viral launches followed over the next few years such as when the diaries of Darwin’s wife, Emma, went online in 2007 for the first time and his newly discovered student bills in 2009.&nbsp;
+
+
+![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+<div style="background-color:white;"> Emma Darwin, aged 31 in 1839, the wife of Darwin. Watercolour by George Richmond. Her diaries were made available on Darwin Online in 2007. <i>Courtesy of the Darwin Heirlooms Trust.</i></div>
+
 
 In 2010, NUS invited me to Singapore to continue my research and zoological historian Dr Kees Rookmaaker, who worked with me on Darwin Online, came with me. Together, we created Wallace Online (wallace-online.org), a complete edition of the writings of the great naturalist, Alfred Russel Wallace, who explored Southeast Asia between 1854 and1862 and independently came up with a theory of evolution by natural selection similar to Darwin’s.
 
