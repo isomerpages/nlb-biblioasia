@@ -75,8 +75,6 @@ The recipe is published in <i>Heritage Food of the Peranakan Indians</i> (2023) 
 
 9.&nbsp;&nbsp;&nbsp; Add the finely sliced turmeric and kaffir lime leaves and cook for 2 minutes.
 
-10.
-
 10.  Gently slide in the fish paste patties, spreading them around the clay pot and poach until firm.
 
 11.  Lift out slowly, top with the gravy, and serve.
@@ -90,3 +88,16 @@ The recipe is published in <i>Heritage Food of the Peranakan Indians</i> (2023) 
 
 
 #### **Related Article**
+[Life Lessons in a Chetty Melaka Kitchen](https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/life-lson-chetty-m-k/)
+Chantal Sajan recalls the legacy of her grandaunt during a time when Chetty Melaka families in Singapore served up Indian Peranakan dishes on tight budgets, using only the simplest of kitchen utensils.
+
+[Belacan: Caviar? Or Vile and Disgusting?](https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/)
+Notorious for its pungent aroma, fermented shrimp is a popular ingredient in many Malay, Eurasian and Peranakan dishes. Toffa Abdul Wahed dives into how it’s made, its reception as far back as the 1830s and the trade it inspired.
+
+[The Evolution of Straits-Born Cuisine](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine/)
+The Straits refers to the territories of the former Straits Settlements of Singapore, Melaka and Penang, as well as the islands that make up the Indonesian archipelago. The centuries of trade and colonisation in Southeast Asia have resulted in hybrid cuisines characteristic of the Straits-born communities – Eurasian, Chitti Melaka, Penang, Melaka and Indonesian Chinese.
+
+#### **Related Books**
+Peranakan Indian (Chitty Melaka) Association Singapore. _[Heritage Food of the Peranakan Indians: In a Chitty Melaka Kitchen](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003913)_. Peranakan Indian (Chitty Melaka) Association Singapore, 2023. (From National Library, Singapore, call no. RSING 641.595951 PER)
+
+Pillay, Gerald Francis. _[The Chitty Melaka Story](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203185357)_. Singapore: Pillay, Gerald Francis, 2018. (From National Library, Singapore, call no. RSING 305.89510595 PIL)
