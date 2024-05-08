@@ -84,10 +84,10 @@ Melissa De Silva mulls over what it is to be Eurasian in this evocative short st
 #### **Related Books**
 Daus, Ronald. _[Portuguese Eurasian Communities in Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5196987)_. Singapore: Institute of Southeast Asian Studies, 1989. (From National Library, Singapore, call no. RCLOS **305.869059 DAU-\[GH\])**
 
-Gomes, Mary. _[The Eurasian Cookbook](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10902933)_. Singapore: Horizon Books, 2001. (From National Library, Singapore, call no. RSING **q641.5 GOM****)**
+Gomes, Mary. _[The Eurasian Cookbook](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10902933)_. Singapore: Horizon Books, 2001. (From National Library, Singapore, call no. RSING q641.5 GOM)
 
-Marbeck, Joan Margaret. _[Kristang Phrasebook: A Revival and Understanding of the Malaysian-Portuguese Creole](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12892246)_. Lisbon: Calouste Gulbenkian Foundation, 2004. (From National Library, Singapore, call no. R **469.7995 KRI****)**
+Marbeck, Joan Margaret. _[Kristang Phrasebook: A Revival and Understanding of the Malaysian-Portuguese Creole](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12892246)_. Lisbon: Calouste Gulbenkian Foundation, 2004. (From National Library, Singapore, call no. R 469.7995 KRI)
 
-Noronha, Theresa. _[The Eurasian Table: Inspiration, Recipes and History](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202537791)_. Singapore: \[publisher not identified\], 2015. (From National Library, Singapore, call no. 641.595957**)**
+Noronha, Theresa. _[The Eurasian Table: Inspiration, Recipes and History](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202537791)_. Singapore: \[publisher not identified\], 2015. (From National Library, Singapore, call no. 641.595957)
 
 Pereira, Quentin. _[Eurasian Heritage Cooking](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14381647)_. Singapore; London: Marshall Cavendish Cuisine, 2012. (From National Library, Singapore, call no. 641.595957 PER)
