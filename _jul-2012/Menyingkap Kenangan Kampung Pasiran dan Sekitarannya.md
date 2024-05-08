@@ -2,6 +2,7 @@
 title: Menyingkap Kenangan Kampung Pasiran dan Sekitarannya
 permalink: /vol-8/issue-2/jul-2012/kampung-pasiran-sekitarannya/
 description: ""
+variant: markdown
 ---
 #### The historical development of Kampung Pasiran and its surrounding areas is traced using primary sources from the National Archives of Singapore as well as interviews with surviving kampong dwellers.
 
@@ -234,7 +235,7 @@ Temubual dengan guru-guru Sekolah Perempuan Melayu Bukit Tunggal:
 
  [^3]: [Hadijah](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12535182), 2005, pp. 34–37.
 
- [^4]: [Haji Buang](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/faa3e0fb-115d-11e3-83d5-0050568939ad-OHC000715_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview, 11 Nov 1986.
+ [^4]: [Haji Buang](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/faa3e0fb-115d-11e3-83d5-0050568939ad-OHC000715_001/web/html5/index.html), oral history interview, 11 Nov 1986.
 
  [^5]: [Mohd. Gani](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20080319-1.2.33.2), 19 Mar 2008, p. 16.
 
