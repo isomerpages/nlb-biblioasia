@@ -53,7 +53,7 @@ In 2002, while a research fellow at the National University of Singapore (NUS), 
 
 The new site was launched in October 2006 and the news went viral. It was mentioned in hundreds of websites and newspapers around the world, and covered by renowned media outlets such as BBC Radio 4’s Today Programme, BBC Breakfast (TV), the regional BBC stations, CNN and _The Guardian_, etc. Millions of visits to the site brought the servers at Cambridge crashing down multiple times in the first 24 hours. Overnight, Darwin Online had become one of the best-known history of science projects in the world.&nbsp;
 
-That was only the beginning though. Darwin’s manuscripts and private papers were launched in 2008 when 100,000 images from the Darwin Archive in Cambridge became available, and another viral media event followed. Several other viral launches followed over the next few years such as when the diaries of Darwin’s wife, Emma, went online in 2007 for the first time and his newly discovered student bills in 2009.&nbsp;
+That was only the beginning though. Darwin’s manuscripts and private papers were launched in 2008 when 100,000 images from the Darwin Archive in Cambridge became available, and another viral media event followed. Several other viral launches followed over the next few years such as when the diaries of Darwin’s wife, Emma, went [online](https://darwin-online.org.uk/EmmaDiaries.html) in 2007 for the first time and his newly discovered student bills in 2009.&nbsp;
 
 
 ![](/images/Vol%2020%20Issue%202/Darwin/darwin_img3.jpg)
@@ -62,7 +62,7 @@ That was only the beginning though. Darwin’s manuscripts and private papers we
 
 In 2010, NUS invited me to Singapore to continue my research and zoological historian Dr Kees Rookmaaker, who worked with me on Darwin Online, came with me. Together, we created Wallace Online (wallace-online.org), a complete edition of the writings of the great naturalist, Alfred Russel Wallace, who explored Southeast Asia between 1854 and1862 and independently came up with a theory of evolution by natural selection similar to Darwin’s.
 
-In 2014, while in Singapore, we reconstructed and put online the entire 400-volume library that had been aboard Darwin’s ship, HMS _Beagle_. Most of that library’s contents had been reconstructed by the editors of _The Correspondence of Charles Darwin_. I was able to add more titles from my own research, especially from editing _Charles Darwin’s Notebooks from the Voyage of the Beagle_, a book published by Cambridge University Press in 2009.&nbsp;
+In 2014, while in Singapore, we reconstructed and put online the entire 400-volume library that had been aboard Darwin’s ship, [HMS _Beagle_](https://darwinonline.org.uk/BeagleLibrary/Beagle_Library_Catalogue.htm). Most of that library’s contents had been reconstructed by the editors of _The Correspondence of Charles Darwin_. I was able to add more titles from my own research, especially from editing _Charles Darwin’s Notebooks from the Voyage of the Beagle_, a book published by Cambridge University Press in 2009.&nbsp;
 
 
 ![](/images/Vol%2020%20Issue%202/Darwin/darwin_img6.jpg)
@@ -73,7 +73,7 @@ In 2014, while in Singapore, we reconstructed and put online the entire 400-volu
 <div style="background-color:white;"> Skeleton of the extinct gigantic sloth, <i>Mylodon</i>. It was named by the English comparative anatomist Richard Owen based on a nearly complete lower jaw with teeth discovered by Darwin in 1832 at Bahía Blanca, Argentina, during the survey expedition of HMS <i>Beagle</i>. <i>From Darwin Online. </i></div>
 
 
-In 2021, reviews of all his books were launched on Darwin Online. Numbering over 1,700 in several languages, it is the largest collection of the reviews of the work of any historical scientist. &nbsp;
+In 2021, reviews of all his books were launched on [Darwin Online](https://darwin-online.org.uk/reviews.html). Numbering over 1,700 in several languages, it is the largest collection of the reviews of the work of any historical scientist. &nbsp;
 
 Darwin Online also contains the largest collection of, recollections of, and obituaries of any scientist. With all this material, together with his publications (including hundreds of newly discovered shorter items), notebooks and papers, Darwin Online has become what we believe to be the most comprehensive scholarly website on any historical person in the world, with hundreds of editorial introductions and over 15,000 footnotes.&nbsp;
 
