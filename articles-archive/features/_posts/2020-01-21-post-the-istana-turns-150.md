@@ -4,6 +4,7 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/istana-turns-150/
 image: /images/Vol-15-issue-4/the-istana-turns-150/Istana1.JPG
 layout: post
+variant: markdown
 ---
 ##### The resplendent Istana – where colonial governors and modern-day presidents once lived – celebrated its 150th anniversary in 2019. **Wong Sher Maine** recounts key moments in its history.
 
@@ -174,7 +175,7 @@ Today, more than 10,000 trees and palms – making up some 260 species – grow 
 <br><br>
 The gardens have naturally become home for a great variety of wildlife, including butterflies like the Lesser Grass Blue Butterfly, which is only one centimeter in size, dragonflies, fish, terrapins, squirrels, bats, flying foxes, monitor lizards, snakes and weaver ants, which are found on trees like the Tembusu.[^37]
 <br><br>
-As a gazetted bird sanctuary, the Istana grounds teem with avian life. A survey carried out in April 2019 registered 89 bird species.[^38] In fact, current Prime Minister Lee Hsien Loong has had a barn owl visit him in his Sri Temasek office in 2013 and 2015. In both cases, the Agri-Food & Veterinary Authority of Singapore and the Jurong Bird Park had to be called in to trap the bird and release it behind Sri Temasek. He saw the bird again in 2017, but this time it was perched in the overhang along the exterior of the Istana.[^39]
+As a gazetted bird sanctuary, the Istana grounds teem with avian life. A survey carried out in April 2019 registered 89 bird species.[^38] In fact, current Prime Minister Lee Hsien Loong has had a barn owl visit him in his Sri Temasek office in 2013 and 2015. In both cases, the Agri-Food &amp; Veterinary Authority of Singapore and the Jurong Bird Park had to be called in to trap the bird and release it behind Sri Temasek. He saw the bird again in 2017, but this time it was perched in the overhang along the exterior of the Istana.[^39]
 <br><br>
 As for larger animals, horses used to be stabled in the Istana, though no longer today. In the 1950s, an elephant was briefly a resident of the Istana’s grounds and it aided the gardeners by supplying bounteous composting material. However, the elephant was apparently sent to Malaya in early 1960.[^40]</span>
 
@@ -192,16 +193,16 @@ As for larger animals, horses used to be stabled in the Istana, though no longer
 [^3]:The First Resident and Commandant of Singapore was William Farquhar (1819–23), who was succeeded by John Crawfurd as Resident (1823–26). Between 1826 and 1867, Singapore was governed by Resident Councillors. When Singapore became part of the Straits Settlements along with Melaka and Penang in 1867, the first governor was Robert Fullerton (1826–30). Singapore’s last governor was William Goode (1957–59). See National Library Board. (2017). [*Past and present leaders of Singapore*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_139_2005-01-19.html) written by Vernon Cornelius. Retrieved from Singapore Infopedia.
 [^4]:Government Hill was initially called Bukit Larangan (“Forbidden Hill” in Malay), When Stamford Raffles built a wooden house with a thatched roof for himself on the hill in 1822, it became known as Government Hill. The house was later used as the residence of the colonial governors of Singapore. When the house was demolished to make way for Fort Canning in 1859, Government Hill was renamed Fort Canning Hill.
 [^5]:Cheah, S. (2019). [*50 best kept secrets of the Istana: Flora and fauna*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889795) (p. 9). Singapore: Published by Epigram for the Istana, the office of the President of the Republic of Singapore. (Call no.:RSING 959.57 CHE-[HIS)
-[^6]:Seet, K.K, & Myddelton, D.R. (2000). [*The Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671) (p. 30). Singapore: Times Editions (Call no.: RSING q725.17095957 IST)
+[^6]:Seet, K.K, &amp; Myddelton, D.R. (2000). [*The Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671) (p. 30). Singapore: Times Editions (Call no.: RSING q725.17095957 IST)
 [^7]:President’s Office. (2018). *The Istana: History*. Retrieved from President of the Republic of Singapore website.
 [^8]:Palladianism or Palladian architecture is a European style of architecture influenced by the 16th-century Venetian architect Andrea Palladio (1508–80). The style is characterised by classical forms, symmetry and strict proportions. Neo-Palladian is English Palladian architecture popular in the 18th century.
 [^9]:National Library Board. (2010). [*The Istana*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_807_2005-02-01.html) written by Vernon Cornelius. Retrieved from Singapore Infopedia.
 [^10]:Hoe, I. (2019). [*50 best kept secrets of the Istana: History and heritage*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889789) (p. 37). Singapore: Published by Epigram for the Istana, the office of the President of the Republic of Singapore. (Call no.: RSING 959.57 HOE-[HIS])
 [^11]:See Tan, B. (2018, Jul–Sep). [Globetrotting mums: Then and now](https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/). *BiblioAsia*, 14 (2). Retrieved from BiblioAsia website.
-[^12]:[Seet & Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, pp. 43, 45.
-[^13]:Lee, P. (Interviewer). (2008, April 21). [*Oral history interview with Morrice, John (Colonel) (Retired)*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/1e2ef03c-1161-11e3-83d5-0050568939ad-OHC003306_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 003306/13/1, p. 4]. Retrieved from National Archives of Singapore website.
-[^14]:[Seet & Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, p. 68; Tan, W.K., et al. (2003). [*Gardens of the Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12102991) (p. 50). Singapore: National Parks Board. (Call no.: RSING q635.095957 GAR)
-[^15]:Chou, C. (Interviewer). (1994, May 30). [*Oral history interview with Mr Abdul Gaffor bin Abdul Hamid*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/ca70daa3-115f-11e3-83d5-0050568939ad-OHC001430_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 001430/2/1, pp. 3–5.] Retrieved from National Archives of Singapore website; [*Seet & Myddelton*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, p. 68.
+[^12]:[Seet &amp; Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, pp. 43, 45.
+[^13]:Lee, P. (Interviewer). (2008, April 21). [*Oral history interview with Morrice, John (Colonel) (Retired)*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/1e2ef03c-1161-11e3-83d5-0050568939ad-OHC003306_001/web/html5/index.html) [Transcript of recording no. 003306/13/1, p. 4]. Retrieved from National Archives of Singapore website.
+[^14]:[Seet &amp; Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, p. 68; Tan, W.K., et al. (2003). [*Gardens of the Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12102991) (p. 50). Singapore: National Parks Board. (Call no.: RSING q635.095957 GAR)
+[^15]:Chou, C. (Interviewer). (1994, May 30). [*Oral history interview with Mr Abdul Gaffor bin Abdul Hamid*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/ca70daa3-115f-11e3-83d5-0050568939ad-OHC001430_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 001430/2/1, pp. 3–5.] Retrieved from National Archives of Singapore website; [*Seet &amp; Myddelton*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, p. 68.
 [^16]:[*Oral history interview with Mr Abdul Gaffor bin Abdul Hamid*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/c/c-115f-11e3-83d5-0050568939ad-OHC001430_001/web/html5/index.hta70daa3ml?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), 30 May 1994, pp. 3–5.
 [^17]:Leong, C. (2011). [*The Istana*](http://eservice.nlb.gov.sg/itemholding_s.aspx?bid=14234555) (p. 129). Singapore: Marshall Cavendish Editions. (Call no.: RSING 725.17095957 LEO); Tan, K.Y.L. (2017). [*Puan Noor Aishah: Singapore’s first lady*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202849953) (p. 68). Singapore: Straits Times Press. (Call no.: RSING 959.5705092 TAN)
 [^18]:[*Our Istana through the years*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024) (p. 30). (2015). Singapore: Office of the President of the Republic of Singapore. (Call no.: RSING 959.57 OUR-[HIS])
@@ -213,7 +214,7 @@ As for larger animals, horses used to be stabled in the Istana, though no longer
 [^24]:Zulaiqah Abdul Rahim. (2019, July 15). Bangga ikut jejak arwah datuk dan ayah jadi ‘butler’ di Istana. *Berita Harian*, p. 1.
 [^25]:[*Our Istana through the years*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 43.
 [^26]:Chua, J.C.H. (2007, August 11). [*Oral history interview with Lee Ah Jee*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/8/8b16461b-115f-11e3-83d5-0050568939ad-OHC003215_001/web/html5/index.html) [Transcript of recording no. 003215/2/1, pp. 23, 29–31]. Retrieved from National Archives of Singapore website.
-[^27]:[Seet & Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, p. 96.
+[^27]:[Seet &amp; Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, p. 96.
 [^28]:[*Our Istana through the years*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 170.
 [^29]:[*Our Istana through the years*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202095024), 2015, p. 28.
 [^30]:[Leong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14234555), 2011, p. 172.
@@ -226,7 +227,7 @@ As for larger animals, horses used to be stabled in the Istana, though no longer
 [^37]:Tan, W.K., et al. (2003). [*Gardens of the Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12102991) (p. 170). Singapore: National Parks Board. (Call no.: RSING q635.095957 GAR)
 [^38]:[Cheah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889795), 2019, p. 69; [*The Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203978341) (p. 97). (2019). Singapore: Marshall Cavendish Editions. (Call no.: RSING 725.17095957 IST)
 [^39]:Tan, A. (2013, November 21). Barn owl a surprise visitor at PM Lee Hsien Loong’s office. *The Straits Times*; Lam, L. (2017, August 26). Barn owl visits Prime Minister Lee Hsien Loong again, for the third time in five years. *The Straits Times*. Retrieved from The Straits Times website.
-[^40]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12102991), 2003, pp. 51 & 55
+[^40]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12102991), 2003, pp. 51 &amp; 55
 [^41]:[Wong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889792), 2019, p. 39.
 [^42]:[Wong](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889792), 2019, p. 55.
 [^43]:[Cheah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889795), 2019, p. 12.
