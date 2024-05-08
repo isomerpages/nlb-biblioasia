@@ -12,7 +12,7 @@ variant: markdown
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/director-note/">Director's Note</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Memory. History. Art: Yip Yew Chong’s “I Paint my Singapore”</a><br>
-Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, mixes memories and research to produce stories about Singapore. *Jimmy Yap*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong.pdf)
+Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, mixes memories and research to produce stories about Singapore. *Jimmy Yap*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/">Singapore’s Hippie Hysteria and the Ban on Long Hair</a><br>
 Hippie culture was seen as a risk to Singapore in the 1960s and 1970s. To reduce its influence, the government began a campaign against men with long hair. *Andrea Kee*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_HippieHysteria.pdf)
