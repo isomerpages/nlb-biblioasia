@@ -88,13 +88,13 @@ The recipe is published in <i>Heritage Food of the Peranakan Indians</i> (2023) 
 
 
 #### **Related Article**
-[Life Lessons in a Chetty Melaka Kitchen](https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/life-lson-chetty-m-k/)
+[Life Lessons in a Chetty Melaka Kitchen](https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/life-lson-chetty-m-k/)<br>
 Chantal Sajan recalls the legacy of her grandaunt during a time when Chetty Melaka families in Singapore served up Indian Peranakan dishes on tight budgets, using only the simplest of kitchen utensils.
 
-[Belacan: Caviar? Or Vile and Disgusting?](https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/)
+[Belacan: Caviar? Or Vile and Disgusting?](https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/shrimp-paste-belacan/)<br>
 Notorious for its pungent aroma, fermented shrimp is a popular ingredient in many Malay, Eurasian and Peranakan dishes. Toffa Abdul Wahed dives into how it’s made, its reception as far back as the 1830s and the trade it inspired.
 
-[The Evolution of Straits-Born Cuisine](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine/)
+[The Evolution of Straits-Born Cuisine](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine/)<br>
 The Straits refers to the territories of the former Straits Settlements of Singapore, Melaka and Penang, as well as the islands that make up the Indonesian archipelago. The centuries of trade and colonisation in Southeast Asia have resulted in hybrid cuisines characteristic of the Straits-born communities – Eurasian, Chitti Melaka, Penang, Melaka and Indonesian Chinese.
 
 #### **Related Books**
