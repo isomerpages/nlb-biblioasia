@@ -4,6 +4,7 @@ date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/wheels-of-change/
 image: /images/Vol-14-issue-3/wheels-of-change/Wheels1.JPG
 layout: post
+variant: markdown
 ---
 #### Advertisements targeting aspiring car owners have come a long way since the first automobile was launched in Singapore in 1896, as **Mazelan Anuar** tells us.
 
@@ -26,7 +27,7 @@ Automobile ads continued to make reference to “horseless carriages” for deca
 The introduction of automobiles was enthusiastically embraced by the who’s who of Singapore and Malaya. A certain B. Frost of the Eastern Extension Telegraph Company and subsequently Charles B. Buckley, publisher and famed author of *An Anecdotal History of Singapore*, were the first to own and drive the Benz in Singapore.[^4] Soon, more automobiles were brought into Singapore. The Benz was followed by the De Dion Bouton and then the Albion.[^5]
 
 <img style="width: 390px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels3.JPG">
-<div style="background-color: white;">Charles B. Buckley in his Benz “Motor-Velociped”, which was advertised as a “horseless carriage”. He and B. Frost of the Eastern Extension Telegraph were the first to own and drive the Benz in Singapore. <i>Image reproduced from Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1921). One Hundred Years of Singapore (Vol. II). London: John Murray. (Call no.: RCLOS 959.51 MAK-[RFL]).</i></div>
+<div style="background-color: white;">Charles B. Buckley in his Benz “Motor-Velociped”, which was advertised as a “horseless carriage”. He and B. Frost of the Eastern Extension Telegraph were the first to own and drive the Benz in Singapore. <i>Image reproduced from Makepeace, W., Brooke, G. E., &amp; Braddell, R. St. J. (1921). One Hundred Years of Singapore (Vol. II). London: John Murray. (Call no.: RCLOS 959.51 MAK-[RFL]).</i></div>
 
 All three models shared a reputation for being very noisy and hence did not require horns to make themselves heard. Buckley dubbed his car “The Coffee Machine” because of the awful grinding noises it made.[^6]
 
@@ -40,7 +41,7 @@ Even more amazing was the fact that Mrs Dare clocked more than 69,000 miles (111
 
 In 1907, the Singapore Automobile Club (SAC) was formed, with Governor John Anderson as its president. Notable members included the Sultan of Johor; Walter John Napier, a lawyer-academic who was the first editor of the *Straits Settlements Law Reports*; and E.G. Broadrick, president of the Singapore Municipality between 1904 and 1910 and later the British Resident of Selangor.[^12] Remarkably, by 1908 – when the world automobile industry was still in its infancy[^13] – there were already 214 individuals in Singapore licensed to drive “motor-cars, motor-bicycles and steam-rollers”.[^14]
 
-In June 1907, *The Straits Times* announced that it was devoting a special column to automobilism.[^15] The column started off as “Motors & Motoring” in 1910, was renamed “The Motoring World” in 1911 and ran until 1928.[^16] Its longevity was testimony to the fascination with cars among the paper’s readers, if not the general population.
+In June 1907, *The Straits Times* announced that it was devoting a special column to automobilism.[^15] The column started off as “Motors &amp; Motoring” in 1910, was renamed “The Motoring World” in 1911 and ran until 1928.[^16] Its longevity was testimony to the fascination with cars among the paper’s readers, if not the general population.
 
 <img src="/images/Vol-14-issue-3/wheels-of-change/Wheels4.JPG">
 <div style="background-color: white;">(Left)The first automobile in Singapore was advertised as a horseless carriage. Its claim as “being quite silent” was most likely an exaggeration. <i>Image reproduced from The Straits Times, 29 August 1896, p. 1.</i><br>
@@ -56,7 +57,7 @@ It was a similar scenario in Singapore. Distributors and agents highlighted both
 
 ##### **Ford in Singapore**
 
-In 1909, just a year after Henry Ford’s iconic Model T was introduced in America and took the world by storm, Ford cars entered the Singapore market.[^21] Initially imported by Gadelius & Company, Ford’s presence grew in Singapore when the Ford Motor Company of Malaya was established in 1926 to supervise the supply and distribution of its products in Malaya, the Dutch East Indies, Siam and Borneo.[^22] It initially carried out car assembly work in a garage on Enggor Street before expanding to larger premises on nearby Prince Edward Road in 1930. In 1941, the company moved to a newly built factory in Bukit Timah.[^23]
+In 1909, just a year after Henry Ford’s iconic Model T was introduced in America and took the world by storm, Ford cars entered the Singapore market.[^21] Initially imported by Gadelius &amp; Company, Ford’s presence grew in Singapore when the Ford Motor Company of Malaya was established in 1926 to supervise the supply and distribution of its products in Malaya, the Dutch East Indies, Siam and Borneo.[^22] It initially carried out car assembly work in a garage on Enggor Street before expanding to larger premises on nearby Prince Edward Road in 1930. In 1941, the company moved to a newly built factory in Bukit Timah.[^23]
 
 <img style="width: 320px; height: 420px;" src="/images/Vol-14-issue-3/wheels-of-change/xy.JPG">
 <div style="background-color: white;">The Ford Factory building along Bukit Timah Road, which was designed in the Art Deco style, opened in 1941. According to this advertisement, the factory was producing an impressive seven models of cars and trucks, and capable of churning out 20 chassis and eight passenger car bodies per day. <i>Image reproduced from AAM News Bulletin, November 1949.</i></div>
@@ -88,7 +89,7 @@ Horse- and pony-drawn carriages were a common form of transportation throughout 
 </b></center>
 
 <img style="width: 350px; height: 450px;" src="/images/Vol-14-issue-3/wheels-of-change/Wheels10.JPG">
-<div style="background-color: white;">Companies that imported automobiles as their core business did not emerge until the mid-20th century. Prior to that, cars were brought into Singapore by general importers such as Guthrie & Co. Ltd. Swift Cars was a manufacturer from Coventry, England. The company began as a sewing machine manufacturer, eventually expanding to bicycle and motorised cycles before finally taking on automobiles. <i>Image reproduced from The Straits Times Annual, 1907.</i></div>
+<div style="background-color: white;">Companies that imported automobiles as their core business did not emerge until the mid-20th century. Prior to that, cars were brought into Singapore by general importers such as Guthrie &amp; Co. Ltd. Swift Cars was a manufacturer from Coventry, England. The company began as a sewing machine manufacturer, eventually expanding to bicycle and motorised cycles before finally taking on automobiles. <i>Image reproduced from The Straits Times Annual, 1907.</i></div>
 
 <center><b>
 1920s
@@ -152,7 +153,7 @@ After World War II, many private cars were used by unlicensed taxi drivers to pl
 In 1970, the National Trades Union Congress started its Comfort taxi service and offered pirate taxi drivers the opportunity to join its operations. A total ban on pirate taxis came into force in July the following year.
 </div>
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
-This essay is reproduced from the book, <i>Between the Lines: Early Print Advertising in Singapore 1830s-1960s</i>. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries [[Call nos.: RSING 659.1095957 BET and SING 659.1095957 BET](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203150558)].
+This essay is reproduced from the book, <i>Between the Lines: Early Print Advertising in Singapore 1830s-1960s</i>. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries [[Call nos.: RSING 659.1095957 BET and SING 659.1095957 BET](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203150558)].
 <br><br>
 The exhibition “Selling Dreams: Early Advertising in Singapore” takes place at  level 10 of the National Library Building on Victoria Street. A variety of print advertisements from the 1830s on subjects such as food, fashion, entertainment, travel and more are on display until 24 February 2019.
 </span>
@@ -171,17 +172,17 @@ The exhibition “Selling Dreams: Early Advertising in Singapore” takes place 
 [^4]:Hope, T. (1935, October 8). [How Singapore has been revolutionised by the modern motor car](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.4.16). *The Singapore Free Press*, p. 20; [An autocar anniversary](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19270813-1.2.27). (1927, August 13). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^5]:Sutton, R.T. (1958, July 5). [Singapore’s first motor car was a problem](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19580705-1.2.94.1). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 [^6]:[*The Singapore Free Press*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19270813-1.2.27), 13 Aug 1927, p. 5.
-[^7]:Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (Vol. 2, p. 364). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
+[^7]:Makepeace, W., Brooke, G.E., &amp; Braddell, R.S.J. (Eds.). (1991). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (Vol. 2, p. 364). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
 [^8]:Davies, D. (1955, March 13). [Mr. Buckley and his coffee machine](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550313-1.2.93). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 [^9]:Groom, P. (1957, November 4). [Famous ‘firsts’ of days gone by in S’pore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19571104-1.2.52). *The Singapore Free Press*, p. 10. Retrieved from NewspaperSG.
-[^10]:[Makepeace, Brooke, & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 364.
+[^10]:[Makepeace, Brooke, &amp; Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 364.
 [^11]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550313-1.2.93), 13 Mar 1955, p. 12.
 [^12]:Yap, J. (2007). [*Motoring beyond 100: Celebrating 100 years of the Automobile Association of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12982445) (p. 15). Singapore: Automobile Association of Singapore. (Call no.: RSING 629.2830605957 YAP)
 [^13]:Eckermann, E. (2001). [*World history of the automobile*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12907795) (p. 25). Warrendale, PA: Society of Automative Engineers. (Call no.: R 629.22209 ECK)
 [^14]:[Yap](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12982445), 2007, p. 3.
 [^15]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070606-1.2.57). (1907, June 6). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
-[^16]:[Motors & motoring](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100514-1.2.85). (1910, May 14). *The Straits Times*, p. 11; [The motoring world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19110106-1.2.89). (1911, January 6). *The Straits Times*, p. 11; [The motoring world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19281215-1.2.130). (1928, December 15). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
-[^17]:[Makepeace, Brooke, & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 362.
+[^16]:[Motors &amp; motoring](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100514-1.2.85). (1910, May 14). *The Straits Times*, p. 11; [The motoring world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19110106-1.2.89). (1911, January 6). *The Straits Times*, p. 11; [The motoring world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19281215-1.2.130). (1928, December 15). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
+[^17]:[Makepeace, Brooke, &amp; Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 362.
 [^18]:[Yap](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12982445), 2007, pp. 53, 58, 73.
 [^19]:Laird, P.W. (1996, October). “The car without a single weakness”: Early automobile advertising. *Technology and Culture, 37* (4), 796–812, p. 797. Retrieved from JSTOR via NLB’s [eResources](http://www.eresources.nlb.gov.sg/) website. 
 [^20]:Scharchburg, R.P. (1993). [*Carriages without horses: J. Frank Duryea and the birth of the American automobile industry*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6632455) (p. 119). Warrendale, PA: Society of Automative Engineers. (Call no.: RBUS 338.7629222 SCH)
