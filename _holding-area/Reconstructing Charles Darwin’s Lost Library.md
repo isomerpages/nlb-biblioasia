@@ -10,16 +10,21 @@ description: Almost 20 years of painstaking scouring and sleuth work have
 By John van Wyhe
 
 
-![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
-<div style="background-color:white;"> (Left) The only view of the back wall of&nbsp; Darwin's new study from an 1892 photograph by C.E. Corke. (Right) A week after Darwin's death on 19 April 1882, the family commissioned this copperplate etching (cropped) by Axel H. Haig. By stitching these together, we can see most of the bookshelves in Darwin's study. There were many other bookcases throughout the house. <i>From Darwin Online. </i></div>
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img1.jpg)
+<div style="background-color:white;"> (Top) The only view of the back wall of&nbsp; Darwin's new study from an 1892 photograph by C.E. Corke. (Bottom) A week after Darwin's death on 19 April 1882, the family commissioned this copperplate etching (cropped) by Axel H. Haig. By stitching these together, we can see most of the bookshelves in Darwin's study. There were many other bookcases throughout the house. <i>From Darwin Online. </i></div>
 
 
 Charles Darwin (1809–82) is arguably the most influential scientist who ever lived. During his lifetime, he transformed the theory of evolution from ridiculed speculation to an established fact accepted by the international scientific community. The implications of this profound shift in how life on Earth is understood was immeasurable. Discussions of, and reactions to, Darwin remained common for over a century, and not only in biology and palaeontology but also in philosophy, art, literature and much more. Tens of thousands of publications have discussed Darwin’s works in dozens of countries and languages in a continuous stream that has never ceased.
 
+
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img2.jpg)
+<div style="background-color:white;"> Photograph of Charles Darwin by Leonard Darwin, 1878. <i>From Darwin Online. </i></div>
+
+
 Scholars have been studying Darwin’s life and work ever since _On the Origin of Species by Means of Natural Selection_ was published in 1859, and today, scholarship on Darwin has become a large and sophisticated area of research. Indeed, it is a daunting area for young researchers to enter because the scholarly literature is so vast that it takes years to read and master enough of it to contribute something new. However, despite all this attention on Darwin and his writings, there has been one notable omission: in the 140 years or so since Darwin’s death, a complete list of all the works that he owned, used and cited did not exist.
 
 
-![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img4.jpg)
 <div style="background-color:white;">The title page of Darwin’s <i>On the Origin of Species by Means of Natural Selection</i>, published in 1859 by John Murray. The top right corner has the call number that is recorded in the original handwritten library catalogue. <i>From Darwin Online. </i></div>
 
 
@@ -38,7 +43,7 @@ Between the 1960s and 1980s, editions of Darwin’s transmutation (evolution) no
 In 1990, a volume of the marginalia or annotations in Darwin’s books was published based on the surviving part of Darwin’s library of books housed in Cambridge University Library and Down House. These 1,476 books have since been referred to as “Darwin’s Library”. Having been thus cited and referred to so many times, it has led to the impression that this was the entirety of what Darwin’s library originally contained. Specialist scholars were nevertheless aware that Darwin also had hundreds of volumes of scientific journals and thousands of pamphlets, offprints and book reviews, and these were not on this list of “Darwin’s Library”.&nbsp;
 
 
-![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img5.jpg)
 <div style="background-color:white;">T.W. Wood's “The Courtship of Birds” in <i>The Student and Intellectual Observer of Science, Literature and Art</i> (vol. V, 1870), a book found in Darwin’s library. <i>From Darwin Online. </i></div>
 
 
@@ -51,7 +56,7 @@ The new site was launched in October 2006 and the news went viral. It was mentio
 That was only the beginning though. Darwin’s manuscripts and private papers were launched in 2008 when 100,000 images from the Darwin Archive in Cambridge became available, and another viral media event followed. Several other viral launches followed over the next few years such as when the diaries of Darwin’s wife, Emma, went online in 2007 for the first time and his newly discovered student bills in 2009.&nbsp;
 
 
-![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img3.jpg)
 <div style="background-color:white;"> Emma Darwin, aged 31 in 1839, the wife of Darwin. Watercolour by George Richmond. Her diaries were made available on Darwin Online in 2007. <i>Courtesy of the Darwin Heirlooms Trust.</i></div>
 
 
@@ -60,11 +65,11 @@ In 2010, NUS invited me to Singapore to continue my research and zoological hist
 In 2014, while in Singapore, we reconstructed and put online the entire 400-volume library that had been aboard Darwin’s ship, HMS _Beagle_. Most of that library’s contents had been reconstructed by the editors of _The Correspondence of Charles Darwin_. I was able to add more titles from my own research, especially from editing _Charles Darwin’s Notebooks from the Voyage of the Beagle_, a book published by Cambridge University Press in 2009.&nbsp;
 
 
-![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img6.jpg)
 <div style="background-color:white;"> After his voyage on HMS <i>Beagle</i>, Darwin observed that the Galápagos finches with different beak shapes showed that one ancestral species had evolved over time into 13 new species. <i>From Darwin Online. </i></div>
 
 
-![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img8.jpg)
 <div style="background-color:white;"> Skeleton of the extinct gigantic sloth, <i>Mylodon</i>. It was named by the English comparative anatomist Richard Owen based on a nearly complete lower jaw with teeth discovered by Darwin in 1832 at Bahía Blanca, Argentina, during the survey expedition of HMS <i>Beagle</i>. <i>From Darwin Online. </i></div>
 
 
@@ -81,6 +86,10 @@ In the past, many of Darwin’s books were scattered throughout the stacks at Ca
 Cambridge University Library had already given Darwin Online permission to include a copy of a newer item-by-item catalogue of the entire Darwin Archive (over 40,000 items) prepared by Gill. The conversion of that very catalogue to an online database was a major challenge and it took years before the library put it online.&nbsp;
 
 To these, we added the records of Darwin’s items found in over 80 other collections around the world, creating the world’s first union catalogue of Darwin’s papers. This enabled me to generate a list of the printed/published items owned by Darwin – there were more than 3,000. These ranged from newspaper clippings to scientific journals that were filed in his subject-specific research portfolios on particular scientific topics that interested him, such as the geographical distribution of species, the expression of emotions or instincts. It seemed to be an arbitrary decision to include a pamphlet that belonged to Darwin on one shelf as part of his library but to designate another in his papers as not part of the library. I decided from the beginning that these printed items should be counted as part of Darwin’s library too.&nbsp;
+
+
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img7.jpg)
+<div style="background-color:white;">Ernst Haeckel's striking 1862 drawings of Radiolaria, a type of plankton. These were found in Darwin’s library. <i>From Darwin Online. </i></div>
 
 #### **Family Documents**
 
@@ -115,9 +124,6 @@ Darwin's devotion to the “water cure” for his ill health is well known, but 
 We have found that many of the works that were not handed over to Cambridge in 1908 were among the oldest in the collection. This might have been why they were retained by the family and some later sold. These included Edmund Gibson’s _Chronicon Saxonicum_ (1692);&nbsp; Johann Bauhin’s _Historia Plantarvm Vniversalis_ (1651); Joseph Butler’s _The Analogy of Religion, Natural and Revealed_ (1736); Maria Elizabeth Jackson’s _Botanical Dialogues, Between Hortensia and Her Four Children_ (1797); and Thomas Burnet’s _The Theory of the Earth_ (1684).
 
 
-![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img-.jpg)
-<div style="background-color:white;">Ernst Haeckel's striking 1862 drawings of Radiolaria, a type of plankton. These were found in Darwin’s library. <i>From Darwin Online. </i></div>
-
 
 #### **Digitising the Library**
 
@@ -133,10 +139,15 @@ It is an immense relief and satisfaction to publish something that has been work
 
 As for Darwin Online, our next major release will be caricatures of Darwin and his theories. In my book, _Darwin: A Companion_ (2021), I published the most comprehensive catalogue of portraits of any scientist – over 1,000 unique Darwin portraits, including 210 oil paintings, watercolours and drawings, more than 600 printed portraits and caricatures, as well as over 240 three-dimensional works such as statues, busts and medallions and all known photographs, including a dozen previously unknown. And, unprecedentedly, it includes details of all known variants of these photographs produced to the early 20th century – more than 340. This is how Darwin's appearance became so well known to the public during the 19th century and after. In February 2023 a revised version of the catalogue of photographs was published in Darwin Online, illustrated with 450 images.
 
+
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img9.jpg)
+<div style="background-color:white;">A caricature of Darwin as an orangutan, published in <i>The Hornet</i> on 22 March 1871. <i>From Darwin Online. </i></div>
+
+
 The caricatures will be a similar release, with new discoveries and hundreds of images of caricatures and satirical images of Darwin’s theories from 1860 to 1939. Historians have come to recognise how important images of this kind are for the public understanding of science – or better put – public ideas about science since almost all of the images about Darwin’s theories are based on stereotypes, misconceptions (such as “Darwin said we come from monkeys”) and much older comic themes that just carried on being used. One of the main parts of this project is the contextual research necessary to explain what the images meant at the time to a modern viewer. That is the tricky part because, as trained historians know, without understanding the context, one cannot understand anything from history.
 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Abhishek_Mehrotra0.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/John_Van_Wyhe.png">
 	<b>Dr John van Wyhe</b> is a historian of science at the National University of Singapore, and the founder and director of Darwin Online (https://darwin-online.org.uk/). He has published 17 books, including _Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin_ (World Scientific Publishing, 2013).</div>
