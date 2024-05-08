@@ -82,7 +82,7 @@ Papia Kristang in Melaka is the only surviving Portuguese-based creole in Southe
 Melissa De Silva mulls over what it is to be Eurasian in this evocative short story that takes her back to the Portuguese Settlement in Melaka.
 
 #### **Related Books**
-Daus, Ronald. _[Portuguese Eurasian Communities in Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5196987)_. Singapore: Institute of Southeast Asian Studies, 1989. (From National Library, Singapore, call no. RCLOS **305.869059 DAU-\[GH\])**
+Daus, Ronald. _[Portuguese Eurasian Communities in Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5196987)_. Singapore: Institute of Southeast Asian Studies, 1989. (From National Library, Singapore, call no. RCLOS 305.869059 DAU-\[GH\])
 
 Gomes, Mary. _[The Eurasian Cookbook](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10902933)_. Singapore: Horizon Books, 2001. (From National Library, Singapore, call no. RSING q641.5 GOM)
 
