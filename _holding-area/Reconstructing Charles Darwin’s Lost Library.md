@@ -150,4 +150,4 @@ The caricatures will be a similar release, with new discoveries and hundreds of 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/John_Van_Wyhe.png">
-	<b>Dr John van Wyhe</b> is a historian of science at the National University of Singapore, and the founder and director of Darwin Online (https://darwin-online.org.uk/). He has published 17 books, including _Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin_ (World Scientific Publishing, 2013).</div>
+	<b>Dr John van Wyhe</b> is a historian of science at the National University of Singapore, and the founder and director of Darwin Online (https://darwin-online.org.uk/). He has published 17 books, including <i>Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin</i> (World Scientific Publishing, 2013).</div>
