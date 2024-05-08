@@ -9,7 +9,7 @@ variant: markdown
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 20-1 cover](/images/covers/ba20_1_cover5.png)[Apr–Jun 2024](https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/)<br>[Apr–Jun 2024 (PDF)](/files/pdf/biblioasia_apr_jun_2024_5mb.pdf)|![](/images/covers/placeholdercover-v2.jpg)|
+| ![BiblioAsia 20-1 cover](/images/covers/ba20_1_cover5.png)[Apr–Jun 2024](https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/)<br>[Apr–Jun 2024 (PDF)](/files/pdf/BiblioAsia_APR_JUN2024_FA_Lowres_8May.pdf)|![](/images/covers/placeholdercover-v2.jpg)|
 
 
 #### Volume 19
