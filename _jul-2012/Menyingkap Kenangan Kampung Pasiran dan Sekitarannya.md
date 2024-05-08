@@ -239,7 +239,7 @@ Temubual dengan guru-guru Sekolah Perempuan Melayu Bukit Tunggal:
 
  [^5]: [Mohd. Gani](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/beritaharian20080319-1.2.33.2), 19 Mar 2008, p. 16.
 
- [^6]: [Haji Buang](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/faa3e0fb-115d-11e3-83d5-0050568939ad-OHC000715_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview, 11 Nov 1986.
+ [^6]: [Haji Buang](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/faa3e0fb-115d-11e3-83d5-0050568939ad-OHC000715_001/web/html5/index.html), oral history interview, 11 Nov 1986.
 
  [^7]: Cikgu Kader, 24 May 2011.
 
