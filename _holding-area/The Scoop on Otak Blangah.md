@@ -75,9 +75,9 @@ The recipe is published in <i>Heritage Food of the Peranakan Indians</i> (2023) 
 
 9.&nbsp;&nbsp;&nbsp; Add the finely sliced turmeric and kaffir lime leaves and cook for 2 minutes.
 
-10.  Gently slide in the fish paste patties, spreading them around the clay pot and poach until firm.
+10.&nbsp;&nbsp;&nbsp; Gently slide in the fish paste patties, spreading them around the clay pot and poach until firm.
 
-11.  Lift out slowly, top with the gravy, and serve.
+11.&nbsp;&nbsp;&nbsp; Lift out slowly, top with the gravy, and serve.
 
 
 
