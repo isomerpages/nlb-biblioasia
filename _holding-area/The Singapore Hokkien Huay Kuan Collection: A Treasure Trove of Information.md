@@ -2,7 +2,10 @@
 title: "The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of Information"
 permalink: /holding-area/huay-kuan-collection/
 variant: markdown
-description: ""
+description: Materials donated by the Singapore Hokkien Huay Kuan offer unique
+  perspectives into the history of the Hokkien community here and the
+  association’s contributions to the nation’s social and cultural landscape.
+image: /images/Vol 20 Issue 2/Hokkien/hokkien_img1.jpg
 ---
 #### Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here and the association’s contributions to the nation’s social and cultural landscape.  
 By Ang Seow Leng and Seow Peck Ngiam
@@ -11,7 +14,7 @@ A title deed dating back to 1838 with pioneer businessman Tan Tock Seng’s sign
 
 Other documents include land records, rental records, receipts dating back to the Second World War, old business correspondences, photographs and minutes of meetings. All these materials are now part of the National Library’s Singapore Hokkien Huay Kuan Collection.
 
-This collection is important because these papers shed light on many important institutions in Singapore, especially those related to the Singapore Hokkien Huay Kuan. Among the documents donated, for example, are nine early title deeds for the land that the Thian Hock Keng temple sits on.[^1] Located on Telok Ayer Street, Thian Hock Keng is one of Singapore’s oldest Hokkien temples and also a national monument.
+This collection is important because these papers shed light on many important institutions in Singapore, especially those relating to the Singapore Hokkien Huay Kuan. Among the documents donated, for example, are nine early title deeds for the land that the Thian Hock Keng temple sits on.[^1] Located on Telok Ayer Street, Thian Hock Keng is one of Singapore’s oldest Hokkien temples and also a national monument.
 
 
 ![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img1.jpg)
@@ -38,7 +41,7 @@ The construction cost of the temple was about 37,000 Spanish dollars. This was b
 
 #### **Thian Hock Keng – More Than Just a Religious Space**
 
-Construction of the present Thian Hock Keng temple at 158 Telok Ayer Street began in 1839 and was completed by 1842.[^6] However, the temple actually traces its roots to a simple prayer house that had been set up in 1821 along the shoreline of Telok Ayer Basin. It was dedicated to the Goddess of the Sea, Mazu (妈祖), who is the protector of sailors, fishermen, and travellers. Chinese immigrants would go to the prayer house to give thanks for their safe passage to Singapore. &nbsp;
+Construction of the present Thian Hock Keng temple at 158 Telok Ayer Street began in 1839 and was completed by 1842.[^6] However, the temple actually traces its roots to a simple prayer house that had been set up in 1821 along the shoreline of Telok Ayer Basin. It was dedicated to the Goddess of the Sea, Mazu (妈祖), who is the protector of sailors, fishermen and travellers. Chinese immigrants would go to the prayer house to give thanks for their safe passage to Singapore. &nbsp;
 
 ![](/images/Vol%2020%20Issue%202/Hokkien/hokkien_img4.jpg)
 <div style="background-color:white;">Devotees worshipping at Thian Hock Keng, 1965. <i>Photo by Wong Ken Foo (K.F. Wong). Courtesy of National Archives of Singapore.</i></div>
@@ -56,7 +59,7 @@ In addition to shedding light on the early history of the temple, the archival m
 
 Between 1840 and 1915, a small group of merchants and rich Hokkien businessmen such as Khoo Cheng Tiong and Tan Boo Liat helped hold the council elections of Thian Hock Keng Temple. In 1915, the council prepared a constitution to register with the colonial government but was exempted from registration in 1916. The council was renamed Thian Hock Keng Hokkien Huay Kuan (_huay kuan_ means “clan association”).[^10] This marked a new phase of the Huay Kuan as it gained prominence in the Hokkien community. Management of Thian Hock Keng Temple came under the purview of the Huay Kuan, changing the dynamics from when it first started as a social arm of the temple.
 
-In 1937, the Hokkien Huay Kuan was registered as a non-profit organisation under the Companies Ordinance, with a focus on education.[^11] Its affiliated schools include Tao Nan School, Ai Tong School, Chong Hock Girls’ School (today’s Chongfu School), Nan Chiau Primary School, Nan Chiau High School and Kong Hwa School.[^12] The Huay Kuan also led the way in establishing Nanyang University (present day Nanyang Technological University), raising funds and donating 523 acres of land for the university’s campus in Jurong.[^13]
+In 1937, the Hokkien Huay Kuan was registered as a non-profit organisation under the Companies Ordinance, with a focus on education.[^11] Its affiliated schools include Tao Nan School, Ai Tong School, Chong Hock Girls’ School (today’s Chongfu School), Nan Chiau Primary School, Nan Chiau High School and Kong Hwa School.[^12] The Huay Kuan also led the way in establishing Nanyang University (present-day Nanyang Technological University), raising funds and donating 523 acres of land for the university’s campus in Jurong.[^13]
 
 #### **Singapore Hokkien Huay Kuan Collection**
 
@@ -105,7 +108,7 @@ This brief survey only touches the surface of what is available in the Singapore
 
 [^3]: Tong Yong Chuan, “[Rare China Artefacts To Go on Display Here](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20121114-1.2.8.1),” _Straits Times_, 14 November 2012, 2–3. (From NewspaperSG)
 
-[^4]: Straits Settlements, Colonial Secretary’s Office, [_Annual Report on the Social and Economic Progress of the People of the Straits Settlements, 1937_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5053544) (Singapore: Straits Settlements. Colonial Secretary's Office, 1937, 84. (From National Library, Singapore, call no. RSING 959.51 SSCSOA)
+[^4]: Straits Settlements, Colonial Secretary’s Office, [_Annual Report on the Social and Economic Progress of the People of the Straits Settlements, 1937_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5053544) (Singapore: Straits Settlements. Colonial Secretary's Office, 1937), 84. (From National Library, Singapore, call no. RSING 959.51 SSCSOA)
 
 [^5]: [_Guardian of the South Seas: Thian Hock Keng and Singapore Hokkien Huay Kuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839) (Singapore: Singapore Hokkien Huay Kuan, 2006), 28. (From National Library, Singapore, call no. RSING 369.25957 GUA)
 
@@ -137,7 +140,7 @@ This brief survey only touches the surface of what is available in the Singapore
 
 [^17]: [_Singapore Hokkien Huay Kuan Collection: Amendments to the Association’s Articles, Notices and Circulars_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205766161) (Singapore: n.p., 1981). (From National Library, Singapore, call no. RCLOS 369.25957 SIN [HHK])
 
-[^18]: [Xinjiapo fujian huìguan zhencang]: [Xìnjian], 1950–1952 [[新加坡福建会馆珍藏]: [信件], 1950–1952](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205676813) [Singapore Hokkien Huay Kuan Collection]: [Letters], 1950–1952 (Singapore: n.p., 1946–1965). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK]); [Xinjiapo fujian huiguan zhencang]: [Putong zhongwen laiwang wenjian], 1964–1977 [[新加坡福建会馆珍藏]: [普通中文来往文件], 1964–1977](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205767208) [Singapore Hokkien Huay Kuan Collection]: [General Chinese correspondence documents], 1964–1977] (Singapore: n.p., 1964–1977). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK])
+[^18]: [Xinjiapo fujian huìguan zhencang] : [Xìnjian], 1950–1952 [[新加坡福建会馆珍藏]: [信件], 1950–1952](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205676813) [Singapore Hokkien Huay Kuan Collection]: [Letters], 1950–1952 (Singapore: n.p., 1946–1965). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK]); [Xinjiapo fujian huiguan zhencang]: [Putong zhongwen laiwang wenjian], 1964–1977 [[新加坡福建会馆珍藏]: [普通中文来往文件], 1964–1977](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205767208) [Singapore Hokkien Huay Kuan Collection]: [General Chinese correspondence documents], 1964–1977] (Singapore: n.p., 1964–1977). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP [HHK])
 
 [^19]: _Nan qiao nu zhong qingzhu chuang xiao nian sān zhounian ji xin xiaoshe luocheng jinian tekan_ [南桥女中庆祝创校廿三周年暨新校舍落成纪念特刊](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12280870) [Nanqiao Girls' High School celebrates the 23rd anniversary of the founding of the school and the completion of the new school building special issue] (新加坡: 南桥女子中学校, 1970), 10. (From National Library, Singapore, call no. RCLOS 373.5957 NQN)
 
@@ -147,6 +150,6 @@ This brief survey only touches the surface of what is available in the Singapore
 
 [^22]: British Royal Air Force, “[Part of a Series of Aerial Photographs Showing Central Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ba2cde3f-1162-11e3-83d5-0050568939ad),” 17 February 1946, photograph. (From National Archives of Singapore, accession no. 158270)
 
-[^23]: [Xinjiapo fujian huiguan zhencang]: Tianfu gong erzhan qijian chanye dengji ji xiangguan wénjian, 1942–1948 [[新加坡福建会馆珍藏]: 天福宫二战期间产业登记及相关文件](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205715476)], 1942–1948 [Singapore Hokkien Huay Kuan Collection]: [Thian Hock Keng Industrial Registration and Related Documents during World War II], 1942–1948 ([新加坡], 1942–1948). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP-[HHK])
+[^23]: [Xinjiapo fujian huiguan zhencang] : Tianfu gong erzhan qijian chanye dengji ji xiangguan wénjian, 1942–1948&nbsp;[\[新加坡福建会馆珍藏\]:&nbsp;天福宫二战期间产业登记及相关文件, 1942–1948](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205715476)&nbsp;\[Singapore Hokkien Huay Kuan Collection\]: Thian Hock Keng Industrial Registration and Related Documents During World War II, 1942–1948 (\[新加坡\], 1942–1948). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP-\[HHK\])
 
 [^24]: Ratnala Thulaja Naidu, “[Chinese Villages in the North](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d9bead6a-36c2-4c51-84f6-027b977d94a1),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2005.
