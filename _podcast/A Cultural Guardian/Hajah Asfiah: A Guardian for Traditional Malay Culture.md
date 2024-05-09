@@ -22,12 +22,12 @@ of the cabbage)
 <br>06:39 – Toffa's special family connection to the dish
 <br>07:36 – How Toffa practised making the dish for the video
 <br>09:43 – When <em>bunga kobis</em> was a trendy dish at Malay weddings
-<br>10:16 – The secret to making <em>bunga kobis</em>
+<br>10:16 – The secret to making <em>bunga kobis</em> 
 <br>12:00 – Garnish and presentation for the dish
 <br>13:42 – Why Cikgu Asfiah is considered a guardian for Malay arts
 <br>15:35 – Cikgu Asfiah's background
 <br>18:07 – Why Cikgu Asfiah was invited to teach at age ten
-<br>18:40 – The significance of her first cookbook <em>Hidangan Warisan Kita</em>
+<br>18:40 – The significance of her first cookbook <em>Hidangan Warisan Kita</em> 
 <br>20:01 – Why she decided to write a cookbook
 <br>23:00 – Why her cookbook had limited reach
 <br>24:08 – Her work as a <em>mak andam </em>(wedding attendant)
@@ -43,9 +43,9 @@ Southeast Asia Collection. She has written about cookbook author <a href="https:
 BiblioAsia.</p>
 <p></p>
 <h4><strong>Related Video</strong></h4>
-<p>Bunga kobis was a dish prepared only for special occasions because of
-how laborious it was to make. In this episode, librarian Toffa Abdul Wahed
-tells us more in her attempt to put together this many-layered pastry.
+<p><em>Bunga kobis</em> was a dish prepared only for special occasions because
+of how laborious it was to make. In this episode, librarian Toffa Abdul
+Wahed tells us more in her attempt to put together this many-layered pastry.
 Watch Toffa make <em><a href="biblioasia.nlb.gov.sg/videos/bunga-kobis/" rel="noopener noreferrer nofollow" target="_blank">bunga kobis</a></em>.</p>
 <h4><strong>Resources</strong></h4>
 <p>Hajjah Asfiah Haji Abdullah, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080178" rel="noopener noreferrer nofollow" target="_blank"><u>Hidangan Warisan Kita</u></a></em> (Singapore:
@@ -55,8 +55,12 @@ PublicationSG)</p>
 Cavendish Editions, 2021). (National Library, Singapore, call no. 394.120899928
 KHI -[CUS])</p>
 <p>Toffa Abdul Wahed, "<a href="https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks/" rel="noopener noreferrer nofollow" target="_blank">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>," <em>BiblioAsia </em>17,
-no. 4 (January–March 2022).
-<br>
-<br>
-</p>
+no. 4 (January–March 2022).</p>
+<h4><br><strong>Credits</strong></h4>
+<p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
+Gek Han. Sound engineering was done by One Dash. The background music "Di
+Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;<a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer" target="_blank"><u>Chords Haven</u></a>.
+Special thanks to Toffa for coming on the show.</p>
+<p>BiblioAsia+ is a podcast about Singapore history by the National Library
+of Singapore.</p>
 <p></p>
