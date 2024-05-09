@@ -117,34 +117,34 @@ The Causeway’s opening in June 1924 was a historic milestone in Singapore-Mala
 [^9]:  “The Causeway: A Great Engineering Work Completed.”
 
 
-[^10]: 
+[^10]: The National Archives, United Kingdom, “Johore State Railway Construction – Johore Singapore Connection Causeway,” 1 January 1916–31 December 1926. (From National Archives of Singapore, accession no. CAOG 10/50 E358/4A), 39–45.
 
 
-[^11]: 
+[^11]: “The King’s Dock,” _Straits Times_, 27 August 1913, 10; “Empire Docks,” _Straits Times_, 7 February 1919, 47; “Empire Dock,” _Straits Times_, 26 October 1917, 10. (From NewspaperSG)
 
 
-[^12]: 
+[^12]: “FMS Railways: Annual Report of the General Manager,” _Straits Times_, 18 October 1921, 11. (From NewspaperSG)
 
 
-[^13]: 
+[^13]: _Federated Malay States Railways Report for the Year 1920_.
 
 
-[^14]: 
+[^14]: The National Archives, United Kingdom, “Colonial Office. Straits Settlements. Original Correspondence. Offices (Except Miscellaneous),” 12 January 1921–7 March 1921. (From National Archives of Singapore, accession no. CO 273/512)
 
 
-[^15]: 
+[^15]: _Proceedings of the Federal Council of the Federated Malay States_, 13 December 1921, C499; “Facts and Figures: Memorandum of the High Commissioner,” _Straits Times_, 24 November 1922, 10. (From NewspaperSG)
 
 
-[^16]: 
+[^16]: Paper No, 4547, “The Johore Causeway”, D. Paterson, 222/1923, _Federated Malay States Annual Report 1923_.
 
 
-[^17]: 
+[^17]: _Federated Malay States Railways Report for the Year 1923_.
 
 
-[^18]: 
+[^18]: “Johore Causeway: Opening to Passenger Traffic To-day,” _Straits Times_, 1 October 1923, 10. (From NewspaperSG)
 
 
-[^19]: 
+[^19]: SS 2170/1923: GA 463/1923.
 
 
-[^20]:
+[^20]: “Johore Causeway: Opening to Passenger Traffic To-day.”
