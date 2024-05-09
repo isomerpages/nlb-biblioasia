@@ -99,22 +99,22 @@ The Causeway’s opening in June 1924 was a historic milestone in Singapore-Mala
 [^3]: Leong Chan Teik, “Second Link at Tuas Opens Without Fanfare,” _Straits Times_, 3 January 1998, 1. (From NewspaperSG)
 
 
-[^4]: 
+[^4]: “The Singapore-Kranji Railway,” _Pinang Gazette and Straits Chronicle_, 16 April 1903, 3. (From NewspaperSG)
 
 
-[^5]: 
+[^5]: The National Archives, United Kingdom, _Johore Annual Report 1910–1913_. (From National Archives of Singapore, accession no. CO 715/1); _Federated Malay States Railways Report for the Year 1912_.
 
 
-[^6]: 
+[^6]:  _Proceedings of the Federal Council of the Federated Malay States for the year 1917_, p. B57.
 
 
-[^7]: 
+[^7]: _Proceedings of the Federal Council of the Federated Malay States_, 13 November 1917, B57;  The National Archives, United Kingdom, Extract of Letter from Messrs Coode, Matthews, Fitzmaurice & Wilson to Crown Agents. (From National Archives of Singapore, accession no. CO 273/462), 267
 
 
-[^8]: 
+[^8]: “The Causeway: A Great Engineering Work Completed,” _Straits Times_, 27 June 1924, 9. (From NewspaperSG)
 
 
-[^9]: 
+[^9]:  “The Causeway: A Great Engineering Work Completed.”
 
 
 [^10]: 
