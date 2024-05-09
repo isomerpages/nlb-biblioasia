@@ -8,7 +8,18 @@ description: When the Causeway was built 100 years ago, it was the largest
 ---
 #### When the Causeway was built 100 years ago, it was the largest engineering project to be undertaken in Malaya. Building it required overcoming significant engineering challenges.
 
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+<div style="background-color:white;">The completed Causeway from the Johor end, June 1924. The lock channel can be seen in the photo. <i>Tessa Mitchell Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 The official opening of the Causeway on 28 June 1924 was a historic event that marked the physical joining of Singapore with the Malay Peninsula, and indeed the rest of continental Asia. The lavish ceremony that took place was presided over by Laurence Nunns Guillemard, Governor of the Straits Settlements and High Commissioner of the Federated Malay States (FMS), in the presence of Sultan Ibrahim of Johor. More than 400 guests – including Malay nobility, dignitaries and prominent government officials – from the FMS, Straits Settlements and Johor attended the event.[^1]
+
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+<div style="background-color:white;">The opening ceremony of the Causeway on 28 June 1924 was presided over by Laurence Nunns Guillemard, Governor of the Straits Settlements and High Commissioner of the Federated Malay States. On his left and facing him is Sultan Ibrahim of Johor with his left hand on the hilt of his sword. <i>Courtesy of National Archives of Malaysia.</i></div>
+
+
 
 Today, a hundred years later, the Causeway has become one of the busiest overland border crossings in the world, with 200,000 travellers daily.[^2] It was the only physical link between Singapore and the Malay Peninsula for almost three quarters of a century until the Second Link – connecting Tuas in Singapore to Tanjung Kupang in Gelang Patah, southwest Johor – opened in 1998.[^3]
 
@@ -17,6 +28,12 @@ Before the Causeway existed, crossing the Strait of Johor was cumbersome. People
 Towards the end of the first decade of the 20th century, the train and ferry services were under increasing pressure to keep pace with the rapidly growing movement of people and goods across the Johor Strait. In 1909, “wagon-ferries” were introduced to help reduce congestion. Also known as train-ferries, these were barges specially outfitted with railway tracks, each capable of transporting up to six train carriages by sea to connect with the railway lines at either end. They complemented the passenger ferry boats and, for the first time, allowed the seamless carriage of goods from ferry to railway without having to unload and load goods.
 
 The wagon-ferries were so successful that demand for its services soon surpassed capacity. In addition to the volume of traffic, the escalating maintenance costs of the wagon-ferries raised concerns about their long-term viability. A better solution was needed.[^5]
+
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+<div style="background-color:white;">The wagon-ferry jetty in Johor Bahru, August 1919. The hauling engine house or powerhouse on the left contained the winding machinery for hauling travellers to and from the wagon-ferries.<i>Courtesy of National Archives of Malaysia. </i></div>
+
+
 
 In 1917, W. Eyre Kenny, the director of public works for the FMS, suggested building a rubble causeway across the strait.[^6] The idea quickly gained traction and the Causeway proposal won the support of Edward Lewis Brockman, Chief Secretary to the FMS, and Arthur Henderson Young, Governor of the Straits Settlements and High Commissioner of the FMS.
 
