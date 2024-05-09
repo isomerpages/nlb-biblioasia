@@ -12,7 +12,7 @@ The official opening of the Causeway on 28 June 1924 was a historic event that m
 
 Today, a hundred years later, the Causeway has become one of the busiest overland border crossings in the world, with 200,000 travellers daily.[^2] It was the only physical link between Singapore and the Malay Peninsula for almost three quarters of a century until the Second Link – connecting Tuas in Singapore to Tanjung Kupang in Gelang Patah, southwest Johor – opened in 1998.[^3]
 
-Before the Causeway existed, crossing the Strait of Johor was cumbersome. People here had to take the train to Woodlands on the Singapore-Kranji Railway, which had opened in 1903,[^4] and then board one of two steam-powered ferry boats – aptly named _Singapore_ and _Johore_ – across the strait to Johor Bahru and vice versa. 
+Before the Causeway existed, crossing the Strait of Johor was cumbersome. People here had to take the train to Woodlands on the Singapore-Kranji Railway, which had opened in 1903,[^4] and then board one of two steam-powered ferry boats – aptly named _Singapore_ and _Johore_ – across the strait to Johor Bahru and vice versa.&nbsp;
 
 Towards the end of the first decade of the 20th century, the train and ferry services were under increasing pressure to keep pace with the rapidly growing movement of people and goods across the Johor Strait. In 1909, “wagon-ferries” were introduced to help reduce congestion. Also known as train-ferries, these were barges specially outfitted with railway tracks, each capable of transporting up to six train carriages by sea to connect with the railway lines at either end. They complemented the passenger ferry boats and, for the first time, allowed the seamless carriage of goods from ferry to railway without having to unload and load goods.
 
@@ -20,11 +20,11 @@ The wagon-ferries were so successful that demand for its services soon surpassed
 
 In 1917, W. Eyre Kenny, the director of public works for the FMS, suggested building a rubble causeway across the strait.[^6] The idea quickly gained traction and the Causeway proposal won the support of Edward Lewis Brockman, Chief Secretary to the FMS, and Arthur Henderson Young, Governor of the Straits Settlements and High Commissioner of the FMS.
 
-The British government appointed consultant engineers Messrs Coode, Matthews, Fitzmaurice & Wilson to prepare detailed plans for the Causeway, which were presented to the FMS, Straits Settlements and Johor governments in 1918. The Straits Settlements government formally approved the Causeway project the next year.[^7] That same year, the Johor government also passed a law to authorise the construction of a causeway.
+The British government appointed consultant engineers Messrs Coode, Matthews, Fitzmaurice &amp; Wilson to prepare detailed plans for the Causeway, which were presented to the FMS, Straits Settlements and Johor governments in 1918. The Straits Settlements government formally approved the Causeway project the next year.[^7] That same year, the Johor government also passed a law to authorise the construction of a causeway.
 
-The consultant engineers proposed a rubble causeway about 18 m wide that would stretch just over a kilometre between the two territories. The raw materials for the rubble would come from granite quarries in nearby Pulau Ubin and Bukit Timah in Singapore. 
+The consultant engineers proposed a rubble causeway about 18 m wide that would stretch just over a kilometre between the two territories. The raw materials for the rubble would come from granite quarries in nearby Pulau Ubin and Bukit Timah in Singapore.&nbsp;
 
-Part of the engineering challenge in building the Causeway was that at the Johor end, it had a channel, also known as a lock, to allow local vessels to pass through. The lock, about 52 m long and 10 m wide at the gate, needed a double set of floodgates as the water flow between the channel would change direction with the tide. A rolling lift-bridge, a kind of drawbridge, was installed to carry the road and railway tracks over the lock. The moving part of the bridge alone weighed 570 tons and raising it took eight and a half minutes. In addition, a tunnel 3.5 m wide and 2.4 m high was built below the lock to allow waterpipes to be run to Singapore.[^8]
+Part of the engineering challenge in building the Causeway was that at the Johor end, it had a channel, also known as a lock, to allow local vessels to pass through. The lock, about 52 m long and 10 m wide at the gate, needed a double set of floodgates as the water flow between the channel would change direction with the tide. A rolling lift-bridge, a kind of drawbridge, was installed to carry the road and railway tracks over the lock. The moving part of the bridge alone weighed 570 tons and raising it took eight and a half minutes. In addition, a tunnel 3.5&nbsp;m wide and 2.4 m high was built below the lock to allow waterpipes to be run to Singapore.[^8]
 
 Construction work began in 1919 and was completed in 1924. Thousands of workers were involved, and the project would eventually cost Johor, the Straits Settlements and the FMS an unprecedented 17 million Straits dollars.
 
@@ -36,9 +36,9 @@ The Causeway project was technically challenging by the standards of its time an
 
 Tidal studies were carried out in 1917, and design features were incorporated to limit changes in the water level at the Causeway to control possible damage to its structure and surroundings, as well as to manage the strength of the currents passing through its lock to allow for safe navigation.[^10]
 
-A detailed plan of the Causeway’s construction site was prepared by Messrs Coode, Matthew, Fitzmaurice & Wilson in 1917, with recommendations to change the Causeway’s orientation. The proposed Causeway would be 3,465 ft long (1,056 m) from bank to bank, with a width of 60 ft (18 m) sufficient to carry two lines of metre-gauge railway tracks, a 26-foot-wide (8 m) roadway, with space reserved for the laying of water mains at a later date.
+A detailed plan of the Causeway’s construction site was prepared by Messrs Coode, Matthew, Fitzmaurice &amp; Wilson in 1917, with recommendations to change the Causeway’s orientation. The proposed Causeway would be 3,465 ft long (1,056 m) from bank to bank, with a width of 60 ft (18 m) sufficient to carry two lines of metre-gauge railway tracks, a 26-foot-wide (8 m) roadway, with space reserved for the laying of water mains at a later date.
 
-The contract to construct the Causeway was awarded on 30 June 1919 to Messrs Topham, Jones & Railton Ltd. of London, a renowned engineering firm that had successfully carried out several major large-scale public projects in Singapore.
+The contract to construct the Causeway was awarded on 30 June 1919 to Messrs Topham, Jones &amp; Railton Ltd. of London, a renowned engineering firm that had successfully carried out several major large-scale public projects in Singapore.
 
 The company was behind the construction of two of colonial Singapore’s most important dockyards – King’s Dock at Keppel Harbour built in 1913, the largest dry dock in Asia, and the massive 24.5-acre Empire Dock at Tanjong Pagar Harbour completed in 1917, the largest wet dock in Singapore. The firm had also taken on major reconstruction work at the Tanjong Pagar wharves in 1917, to the commendation of the colonial government.[^11] It thus had on hand experienced engineers, workmen and the necessary tools and equipment for the job. A period of five years and three months was allowed for the completion of all related works.
 
@@ -81,11 +81,16 @@ On 27 September 1923, the general manager of the FMSR sought the sanction of Sul
 The first passenger train across the Causeway was the night mail, which left Kuala Lumpur on  
 30 September 1923, arriving at Tank Road station at 7.41 am on 1 October. On board was none other than P.A. Anthony, the former general manager of FMSR. The _Straits Times_ described the first passenger train as “a big train, including twelve bogey carriages and forming an imposing display of rolling stock for the auspicious occasion”. And perhaps with a tinge of nostalgia, the _Straits Times_ reporter added: “The ferry across the Straits is now a thing of the past, all trains crossing the Causeway.”[^20] The daily schedule included a day mail and a night mail from both destinations. On 1 October 1923, the Johor Causeway Toll was also introduced for both passenger and goods traffic conveyed over the Causeway, replacing the earlier ferry charges.
 
-The Causeway was officially completed on 11 June 1924. The final phase of the works included finishing touches to the east wing-wall of the lock, repainting the insides of the lock gates, cleaning and painting the capstans, fairleads and machinery pit covers, and grouting the joints of the pitching behind the east end of the lock. The roadway was completed except for a small portion at the Woodlands end, which was deferred until the railway track was moved to its final position — the second railway track had not been laid yet at the time of the opening. The crossing gates were handed over to the Railway Department in June. 
+The Causeway was officially completed on 11 June 1924. The final phase of the works included finishing touches to the east wing-wall of the lock, repainting the insides of the lock gates, cleaning and painting the capstans, fairleads and machinery pit covers, and grouting the joints of the pitching behind the east end of the lock. The roadway was completed except for a small portion at the Woodlands end, which was deferred until the railway track was moved to its final position — the second railway track had not been laid yet at the time of the opening. The crossing gates were handed over to the Railway Department in June.&nbsp;
 
-The successful completion of the Causeway three months ahead of the stipulated date was a creditable reflection on the diligence, expertise and experience of the engineers and contractors. Credit is also due to the staff and labourers, who worked in temperatures that could reach 89 to 90 degrees Fahrenheit (27 to 32 degrees Celsius) and who also bore with rainy spells that accounted for an average loss of two working days a month. 
+The successful completion of the Causeway three months ahead of the stipulated date was a creditable reflection on the diligence, expertise and experience of the engineers and contractors. Credit is also due to the staff and labourers, who worked in temperatures that could reach 89 to 90 degrees Fahrenheit (27 to 32 degrees Celsius) and who also bore with rainy spells that accounted for an average loss of two working days a month.&nbsp;
 
 The Causeway’s opening in June 1924 was a historic milestone in Singapore-Malaya relations. More than a physical link, the opening of the Causeway was a fitting symbol of the close ties and shared history that bound both territories together. This abiding connection would remain long after Malaya – later Malaysia – and Singapore had become separate independent nations.
+
+
+
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+This is an edited extract from <i>The Causeway</i> (2011), jointly published by the National Archives of Malaysia and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos.: RSING 388.132095957 CAU and SING 388.132095957 CAU).<br></div>
 
 #### **Notes**
 
@@ -108,7 +113,7 @@ The Causeway’s opening in June 1924 was a historic milestone in Singapore-Mala
 [^6]:  _Proceedings of the Federal Council of the Federated Malay States for the year 1917_, p. B57.
 
 
-[^7]: _Proceedings of the Federal Council of the Federated Malay States_, 13 November 1917, B57;  The National Archives, United Kingdom, Extract of Letter from Messrs Coode, Matthews, Fitzmaurice & Wilson to Crown Agents. (From National Archives of Singapore, accession no. CO 273/462), 267
+[^7]: _Proceedings of the Federal Council of the Federated Malay States_, 13 November 1917, B57;&nbsp; The National Archives, United Kingdom, Extract of Letter from Messrs Coode, Matthews, Fitzmaurice &amp; Wilson to Crown Agents. (From National Archives of Singapore, accession no. CO 273/462), 267
 
 
 [^8]: “The Causeway: A Great Engineering Work Completed,” _Straits Times_, 27 June 1924, 9. (From NewspaperSG)
