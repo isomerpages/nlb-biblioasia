@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - A Cultural Guardian/.keep
       - Kampong Gelam/.keep
       - "Kampong Gelam/Kampong Gelam: Kitchen of the Malay World.md"
       - Kampong Gelam/Transcript.md
