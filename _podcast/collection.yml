@@ -2,6 +2,8 @@ collections:
   podcast:
     output: true
     order:
+      - "A Cultural Guardian/Hajah Asfiah: A Guardian for Traditional Malay
+        Culture.md"
       - A Cultural Guardian/.keep
       - Kampong Gelam/.keep
       - "Kampong Gelam/Kampong Gelam: Kitchen of the Malay World.md"
