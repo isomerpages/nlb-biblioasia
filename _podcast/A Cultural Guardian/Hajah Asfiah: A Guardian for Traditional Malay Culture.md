@@ -56,6 +56,8 @@ PublicationSG)</p>
 <p>Khir Johari, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205498204" rel="noopener noreferrer" target="_blank"><u>The Food of Singapore Malays: Gastronomic Travels through the Archipelago</u></a></em> (Marshall
 Cavendish Editions, 2021). (National Library, Singapore, call no. 394.120899928
 KHI -[CUS])</p>
+<p>Margaret Sullivan, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=8744384" rel="noopener noreferrer nofollow" target="_blank">“Can Survive Lah” Cottage Industries in High-rise Singapore</a></em> (Singapore:
+G. Brash, 1993).</p>
 <p>Toffa Abdul Wahed, "," <em>BiblioAsia </em>20, no. 2 (October–December
 2024).</p>
 <p>Toffa Abdul Wahed, "<a href="https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks/" rel="noopener noreferrer nofollow" target="_blank">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>," <em>BiblioAsia </em>17,
