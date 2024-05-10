@@ -65,7 +65,7 @@ That was only the beginning though. Darwin’s manuscripts and private papers we
 <div style="background-color:white;"> Emma Darwin, aged 31 in 1839, the wife of Darwin. Watercolour by George Richmond. Her diaries were made available on Darwin Online in 2007. <i>Courtesy of the Darwin Heirlooms Trust.</i></div>
 
 
-In 2010, NUS invited me to Singapore to continue my research and zoological historian Dr Kees Rookmaaker, who worked with me on Darwin Online, came with me. Together, we created Wallace Online (wallace-online.org), a complete edition of the writings of the great naturalist, Alfred Russel Wallace, who explored Southeast Asia between 1854 and1862 and independently came up with a theory of evolution by natural selection similar to Darwin’s.
+In 2010, NUS invited me to Singapore to continue my research and zoological historian Dr Kees Rookmaaker, who worked with me on Darwin Online, came with me. Together, we created [Wallace Online](wallace-online.org), a complete edition of the writings of the great naturalist, Alfred Russel Wallace, who explored Southeast Asia between 1854 and1862 and independently came up with a theory of evolution by natural selection similar to Darwin’s.
 
 In 2014, while in Singapore, we reconstructed and put online the entire 400-volume library that had been aboard Darwin’s ship, [HMS _Beagle_](https://darwin-online.org.uk/BeagleLibrary/Beagle_Library_Catalogue.htm). Most of that library’s contents had been reconstructed by the editors of _The Correspondence of Charles Darwin_. I was able to add more titles from my own research, especially from editing _Charles Darwin’s Notebooks from the Voyage of the Beagle_, a book published by Cambridge University Press in 2009.&nbsp;
 
@@ -74,13 +74,9 @@ In 2014, while in Singapore, we reconstructed and put online the entire 400-volu
 <div style="background-color:white;"> After his voyage on HMS <i>Beagle</i>, Darwin observed that the Galápagos finches with different beak shapes showed that one ancestral species had evolved over time into 13 new species. <i>From Darwin Online. </i></div>
 
 
-![](/images/Vol%2020%20Issue%202/Darwin/darwin_img8.jpg)
-<div style="background-color:white;"> Skeleton of the extinct gigantic sloth, <i>Mylodon</i>. It was named by the English comparative anatomist Richard Owen based on a nearly complete lower jaw with teeth discovered by Darwin in 1832 at Bahía Blanca, Argentina, during the survey expedition of HMS <i>Beagle</i>. <i>From Darwin Online. </i></div>
+In 2021, reviews of all his books were launched on Darwin Online. Numbering over 1,700 in several languages, it is the largest collection of the [reviews](https://darwin-online.org.uk/reviews.html) of the work of any historical scientist. &nbsp;
 
-
-In 2021, reviews of all his books were launched on [Darwin Online](https://darwin-online.org.uk/reviews.html). Numbering over 1,700 in several languages, it is the largest collection of the reviews of the work of any historical scientist. &nbsp;
-
-Darwin Online also contains the largest collection of, recollections of, and [obituaries of any scientist](https://darwin-online.org.uk/obituaries.html). With all this material, together with his publications (including hundreds of newly discovered shorter items), notebooks and papers, Darwin Online has become what we believe to be the most comprehensive scholarly website on any historical person in the world, with hundreds of editorial introductions and over 15,000 footnotes.&nbsp;
+Darwin Online also contains the largest collection of, recollections of, and [obituaries](https://darwin-online.org.uk/obituaries.html) of any scientist. With all this material, together with his publications (including hundreds of newly discovered shorter items), notebooks and papers, Darwin Online has become what we believe to be the most comprehensive scholarly website on any historical person in the world, with hundreds of editorial introductions and over 15,000 footnotes.&nbsp;
 
 Since 2006, while Kees and I were doing all this, we had also been working on collecting and collating sources that reveal the contents of Darwin’s personal library. Every year, I receive letters and emails asking whether Darwin had this or that book or article in his library. I was able to answer many of these by looking them up in our unpublished lists and notes so I knew there would be value in making this list available online.
 
@@ -133,6 +129,10 @@ We have found that many of the works that were not handed over to Cambridge in 1
 #### **Digitising the Library**
 
 Darwin's library was so vast that the reconstructed list is 300 pages long. But it is far more than a catalogue. The library has also been digitised: approximately 10,000 links to electronic copies of the works are provided.&nbsp;
+
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img8.jpg)
+<div style="background-color:white;"> Skeleton of the extinct gigantic sloth, <i>Mylodon</i>. It was named by the English comparative anatomist Richard Owen based on a nearly complete lower jaw with teeth discovered by Darwin in 1832 at Bahía Blanca, Argentina, during the survey expedition of HMS <i>Beagle</i>. <i>From Darwin Online. </i></div>
+
 
 This final phase of the project included digitising further works to add to Darwin Online and linking to the enormous volume we had already digitised over the years. Then, all of the references needed to be checked – three times – and links inserted to freely available online versions of the exact same edition that Darwin had. This was done about 10,000 times. Because Darwin's library is now reunited with his complete publications, manuscripts and papers, it is possible to explore his work in unrestricted new ways.&nbsp;
 
