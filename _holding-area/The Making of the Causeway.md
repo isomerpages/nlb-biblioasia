@@ -161,19 +161,19 @@ This is an edited extract from <i>The Causeway</i> (2011), jointly published by 
 [^10]: The National Archives, United Kingdom, “[Johore State Railway Construction – Johore Singapore Connection Causeway](https://www.nas.gov.sg/archivesonline/private_records/record-details/e4f472fe-115b-11e3-83d5-0050568939ad),” 1 January 1916–31 December 1926. (From National Archives of Singapore, accession no. CAOG 10/50 E358/4A), 39–45.
 
 
-[^11]: “The King’s Dock,” _Straits Times_, 27 August 1913, 10; “Empire Docks,” _Straits Times_, 7 February 1919, 47; “Empire Dock,” _Straits Times_, 26 October 1917, 10. (From NewspaperSG)
+[^11]: “[The King’s Dock](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19130827-1.2.61),” _Straits Times_, 27 August 1913, 10; “[Empire Docks](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19190207-1.2.74.52),” _Straits Times_, 7 February 1919, 47; “[Empire Dock](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19171026-1.2.43),” _Straits Times_, 26 October 1917, 10. (From NewspaperSG)
 
 
-[^12]: “FMS Railways: Annual Report of the General Manager,” _Straits Times_, 18 October 1921, 11. (From NewspaperSG)
+[^12]: “[FMS Railways: Annual Report of the General Manager](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19211018-1.2.81),” _Straits Times_, 18 October 1921, 11. (From NewspaperSG)
 
 
 [^13]: _Federated Malay States Railways Report for the Year 1920_.
 
 
-[^14]: The National Archives, United Kingdom, “Colonial Office. Straits Settlements. Original Correspondence. Offices (Except Miscellaneous),” 12 January 1921–7 March 1921. (From National Archives of Singapore, accession no. CO 273/512)
+[^14]: The National Archives, United Kingdom, “[Colonial Office. Straits Settlements. Original Correspondence. Offices (Except Miscellaneous)](https://www.nas.gov.sg/archivesonline/private_records/record-details/e78fe87e-115b-11e3-83d5-0050568939ad),” 12 January 1921–7 March 1921. (From National Archives of Singapore, accession no. CO 273/512)
 
 
-[^15]: _Proceedings of the Federal Council of the Federated Malay States_, 13 December 1921, C499; “Facts and Figures: Memorandum of the High Commissioner,” _Straits Times_, 24 November 1922, 10. (From NewspaperSG)
+[^15]: _Proceedings of the Federal Council of the Federated Malay States_, 13 December 1921, C499; “[Facts and Figures: Memorandum of the High Commissioner](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19221124-1.2.72),” _Straits Times_, 24 November 1922, 10. (From NewspaperSG)
 
 
 [^16]: Paper No, 4547, “The Johore Causeway”, D. Paterson, 222/1923, _Federated Malay States Annual Report 1923_.
@@ -182,10 +182,10 @@ This is an edited extract from <i>The Causeway</i> (2011), jointly published by 
 [^17]: _Federated Malay States Railways Report for the Year 1923_.
 
 
-[^18]: “Johore Causeway: Opening to Passenger Traffic To-day,” _Straits Times_, 1 October 1923, 10. (From NewspaperSG)
+[^18]: “[Johore Causeway: Opening to Passenger Traffic To-day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231001-1.2.63),” _Straits Times_, 1 October 1923, 10. (From NewspaperSG)
 
 
 [^19]: SS 2170/1923: GA 463/1923.
 
 
-[^20]: “Johore Causeway: Opening to Passenger Traffic To-day.”
+[^20]: “[Johore Causeway: Opening to Passenger Traffic To-day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231001-1.2.63).”
