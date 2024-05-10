@@ -195,23 +195,23 @@ because the tongs would tear the skin. Yeah. But, of course, at that time
 I was like, you know, I already practiced with this, I would just go ahead
 with it. So, that’s why you see, in the episode I stuck to the tongs. I
 stuck to the wok. yeah.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Well, was that what [Cikgu Asfiah] recommended – using tongs or…&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>She did not.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>She expected you to figure it out.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yes. Yeah.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>All right. This recipe was on the cover of <em>Hidangan Warisan Kita</em>.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>That’s right.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>And you had never eaten it, but so did your family enjoy your failed attempts
 at making <em>bunga kobis</em>, the earlier attempts before you went into
 the studio?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Okay, so the first time the pastry became very soggy, right? Because there
 was a breach in the system. But we ended up just eating the filling – the
 minced meat filling. It was good. It was delicious. Okay. Yeah. Perfectly
@@ -220,32 +220,32 @@ large amount of, because it’s very rich, it’s deep fried. It can be greasy.
 So, when I did ask my aunty, like, “How would you eat this dish? How do
 you share it?” She said, “Yeah, you just cut it out. Everyone takes a small
 portion just to taste.” Yeah.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So, no one is expected to eat the whole thing. You just get a small, small
 bit.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yeah. And I mentioned earlier it’s part of, it’s a <em>gubahan</em> dish,
 meaning it comes as a very elaborately prepared dish. So, in Asfiah’s recipe
 she recommends putting tomato flowers as a garnish. So, you would have
 to then know how to make a tomato flower, which I had to practice.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Did you know how to make the tomato flower?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>I didn’t. And she didn’t, she didn’t put any instructions on how to make
 one. So, you know, I had to YouTube it.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Thank God for YouTube.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yes, thank God for YouTube. Learn how to make the different types of flowers.
 And I went for the easiest one. Yeah. And you also need a bed of lettuce
 to kind of form the base.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Ah. Okay.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>To put the beautiful flower cabbage on it.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Is it typically served cut already or as a whole?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>I saw two photos of it. There’s one photo of <em>bunga kobis</em> in the
 National Archives of Singapore. It’s from a collection that covers Malay
 weddings. I think it’s from a personal collection that was donated to National
@@ -253,22 +253,22 @@ Archives. I may be wrong, but the <em>bunga kobis</em> is also cut open already,
 so it looks like it’s blossomed.&nbsp;</p>
 <p>The one that appears in my mum’s wedding photo is also cut open. But the
 garnish is different. It’s not tomato flowers, but it was some chili flowers.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Just to clarify for the people who didn’t, who haven’t watched the video,
 a tomato flower is not like the flower of a tomato. It is a tomato cut
 into the shape of a flower.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yes, you carve the tomato into a flower.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Yes. Which was quite impressive. I was admiring your handiwork with the
 knife. Tell us about Cikgu Asfiah. You know, she sounds like an interesting
 person and clearly an important person in safeguarding and preserving Malay
 culture.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yeah. I think one of the journalists called her an activist of Malay handicraft.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What does that mean? Why?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Because she was so vocal, and she was always voicing out about having
 to preserve, either through documentation or through sharing knowledge,
 the traditional Malay arts for the younger generation. And she appeared
@@ -283,15 +283,15 @@ she would appear at all these avenues related to Malay culture, such as
 the Malay Cultural Fest that was held in the 70s and 80s to appear as the
 person to talk about all these traditional forms of art. She was a teacher
 for the earlier part of her life.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Literally a teacher for a school.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yeah, she was a schoolteacher. And after she retired from being a schoolteacher,
 she continued teaching in other avenues, and she also became a <em>mak andam</em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So what do we know about Cikgu Asfiah? I mean, when was she born? Where
 did she grow up?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>She was born in an area called Kampong Haji, which is today’s Bussorah
 Street. So she was born in 1920, and you know, Kampong Glam in general,
 or the area where Bussorah Street is located, right, was a very cosmopolitan
@@ -299,13 +299,13 @@ area comprising people from different parts of Nusantara or the Malay Archipelag
 from the <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c347e28-5925-4992-8dad-e2d702bfe634" rel="noopener noreferrer nofollow" target="_blank"><u>Baweanese</u></a>,
 the Javanese. She grew up in an area where so many different diverse foods
 coexisted in the same space. Yeah, she herself was Javanese.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>And then what do we know about her early life?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>She started cooking or learning to cook from her mum at the age of six.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Her mum was known for her <em>kueh</em>. And her mum also had a Ramadan
 food stall. Ramadan is the Muslim fasting month, and every Ramadan, once
 a year, her mum would set up a food stall. So, the whole area of Bussorah
@@ -313,57 +313,57 @@ street, where people lived would have makeshift stalls in front of their
 homes. So, each family would have a food stall in front, just to sell food.
 After her mother passed away – I’m not sure what year – she took over the
 business, but as early as like six years old.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>She was already helping her mother?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>She was already helping her mother make the <em>kueh</em>, helping her
 run the business and things like that. And at the age of 10, she was a
 teacher.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What do you mean?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>So, she went to Rochor Malay Girls School, which was not far from her
 house, her home in Bussorah Street, where she learned the art <a rel="noopener noreferrer nofollow" target="_blank">of embroidery and flower arrangement</a>.
 At that time, education for girls was very short. So, after Standard Four,
 you’re done with school.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Standard Four is approximately…&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Primary Four, maybe five. Yeah. So, for a girl at that time, there weren’t
 a lot of options – so she became a teacher after she graduated at the age
 of 10?&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>That’s crazy, right?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Imagine being a teacher when you’re 10. So, she struggled. She struggled
 really hard at the start, and she would have to have her other teachers
 help her, because her students were only a year younger than her and she
 was only 10. But despite being so young, she found love for teaching.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>She must have been very special to become a teacher, to be asked to help
 teach at just the age of 10, right?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yeah, possibly. She was invited to teach because of her skills in embroidery
 and flower management. But not every student is…&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Cut out to be a teacher.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yes, exactly.<strong>&nbsp;</strong>
 </p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Especially at the age of 10.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>So, possibly she was invited to teach and she was a natural teacher who
 would go on for the rest of her life teaching in different avenues and
 platforms.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>That’s amazing. The cookbook was published, I think, in 1986. How well
 was it received?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>It was the first all-Malay cookbook.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What does an all-Malay cookbook mean?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>So Times Books International, the publisher, had by that time been publishing
 cookbooks by different writers about <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=1138ea9d-9dbe-4f09-9fef-ba2c7105eb91" rel="noopener noreferrer nofollow" target="_blank"><u>Straits Chinese</u></a> cuisine,
 Singapore cuisine, Malaysia cuisine and it was all published in Singapore,
@@ -377,10 +377,10 @@ books about Singapore food, and also Mrs Leong Yi Su, who was known for
 her Peranakan cuisine. So, she was the first Malay person, personality,
 and also the first Malay cookbook to be added to the arsenal of, like,
 the collection of Times Books.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Do you know why Cikgu Asfiah decided to put this cookbook together? What
 did she talk about in a foreword or something?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>She truly believed in documenting or capturing traditions and putting
 them into books for future generations. And she was very specific about
 it being hard cover. There was an interview after her book was published,
@@ -389,9 +389,9 @@ very sad and she was teary-eyed and she recalled about, you know, “I’ve
 seen many of my students who would go on to become their own cooking teacher,
 or <em>mak andam</em>, and they tried to disseminate recipes in this very
 like flimsy cyclo-style booklet.” I’m not sure what cyclo-style is.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay, thanks for making me feel old, Toffa.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>It’s an older version of printing, right? They’re not very durable, so
 she really wanted a hardcover book that would, in her mind, last for generations.
 She had this idea since like the 70s to have books published about not
@@ -410,15 +410,15 @@ like yoghurt making. <em>Kueh</em> making. And hence she interviewed Cikgu
 Asfiah for that portion on <em>kueh</em> making. And from that feature in
 her book, that was how Times Books came to know about her and approached
 her to make a book together.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Yeah. That’s fantastic. Yeah.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Cikgu Asfiah’s cookbook came out a year later. So, it took a year of testing
 the recipes and writing. It must have been such a crazy time for her to
 produce a book in one year.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Do you know what impact the book has had in the Malay cooking world?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>So, one of the articles in the newspapers mentioned that if her book did
 well, it would be translated into English. But as far as I know, the book
 was never translated. So perhaps the reach was only within the Malay community
@@ -428,19 +428,19 @@ documenting these Malay dishes that were very traditional and on the verge
 of disappearing.&nbsp;</p>
 <p>So I have to say, you know, if it didn’t make it outside the Malay community,
 maybe her reach wasn’t far enough.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Do we know if her reach extended into the Malay community to sell enough
 to people there?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>There were advertisements about her book until 1991, at least I found
 advertisements up to 1991. In a way because she passed on one year after
 her book was released, more could have been done if she had lived longer,
 more promotion about the book, more public appearances could have been
 done. Because she did appear on the radio after her book and things like
 that.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>She was also a <em>mak andam</em>. Was she like, well known as a <em>mak andam</em>?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yes, she was well known. Very respected. So, she had this regular class.
 She was a member of the Persatuan Kebudayaan Melayu Singapura, which is
 the Society of Malay Culture Singapore. She was also an executive committee
@@ -451,30 +451,30 @@ of the training, the students also had to learn some aspects of being a <em>mak 
 at least the customs and traditions related to the work of a <em>mak andam</em>,
 which includes doing hairdressing in traditional style, doing traditional
 makeup and things like that.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>The people taking these classes are the people who wanted to be <em>mak andam</em>.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>She did have students who would later follow in her footsteps, you know.
 So, she managed to inspire or empower certain groups or women to take on
 this vocation as a <em>mak andam</em>. But her students were mainly housewives,
 and she was also trying to attract the younger crowd, because she was very
 big on passing what she called the knowledge of the old people.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>That’s what she called it.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yes. <em>Kesenian orang lama</em> or veteran, not old people, but more like… <em>Orang lama</em> in
 Malay would translate to literally “old people” or “people of the past”.
 Yeah. And she was very big about continuing the legacy of mothers, and
 I think she had a lot of respect for her own mum and she learned so much
 from her mum, who passed down so much to her that she wanted to pass on
 what she had learned herself to the younger generation.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>And she also passed it down to her own children, right?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yes. So, her own children helped her.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So, tell me about her children.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>So, she had eight children? Yeah, and many grandchildren. But her children
 were very involved in her work as a <em>mak andam</em>, as a teacher and
 things like that. So, she had the help of her family members. especially
@@ -487,20 +487,20 @@ cultural association she was part of.&nbsp;</p>
 the book in her 60s. Maybe she was tired and things like that. And she
 was also, I think, having some kind of illness. But thankfully, her family
 members…&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Pitched in.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Pitched in, yeah. And that’s why she dedicated the book to her family.
 Yeah. And her children were also heavily involved, especially her daughters,
 in the running of the Ramadan food stall, because her stall was huge and
 they sold such a wide variety of <em>kueh</em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Ah okay.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>I think, 50 types of <em>kueh</em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Fifty types of <em>kueh</em>!&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yeah. So, I mean she was known for certain types of <em>kueh</em>, but
 the diversity – and if you were a customer you would be spoiled for choice
 basically. Yeah. So, they helped make the <em>kueh</em>, run the stall and
@@ -509,13 +509,13 @@ her run her classes. So, she would run classes about Malay handicrafts,
 about embroidery and needlework.&nbsp;</p>
 <p>And her daughter actually opened a shop in Eunos in the late 80s, I believe,
 or 80s, selling Malay handicrafts.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>The daughter definitely went on to carry on her mother’s legacy. Yeah.
 So, you’ve talked about her being a <em>mak andam</em> and, you know, all
 the classes that she conducted as well. But for the people who don’t really
 know what a <em>mak andam</em> does, and among those people would include
 me, what is the job of a <em>mak andam</em>?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>So, a <em>mak andam</em>, or I mean, in English, we would call her a wedding
 attendant, has a very, very important role in the whole process before,
 during, and after a wedding. So, she’s in today’s context sometimes, you
@@ -543,13 +543,13 @@ the fruit to each other and things like that. And, also, after the wedding
 sometimes, this custom about the <em>mandi bunga</em>, or the bridal shower,
 like literally a shower of water. Yeah. So, all these different customs,
 the <em>mak andam</em> has to know every single custom.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So the <em>mak andam</em> has to be like this font of culture and tradition.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yes. Yeah.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>But today maybe it’s not as elaborate.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yeah. So the <em>mak andam</em> is also like, you know the person who gives
 the bride away to the groom? Because in traditional Malay custom, it’s
 kind of like what we call the gatecrashing, right? You have to pay money
@@ -557,44 +557,44 @@ to access the bride somehow, but in Malay custom when the groom comes and
 if he wants to go to the bride, the <em>mak andam</em> is the person who’s
 like, wait a minute, we need to exchange some <em>pantuns</em>. I’m not
 sure even today, sometimes people use money.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Last time use <em>pantuns</em>. They were more educated, <em>lah</em>.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yeah, I mean, certain parts of the Malay world still practice this, right?
 But in Singapore some people still do. But you know the art of saying the <em>pantun</em>,
 you know, in a live setting and just exchanging <em>pantun</em> on the spot.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So, it’s not like rehearsed.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Maybe you can come prepared with one stanza, right? You’re just like riffing
 off each other.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Yeah. It’s like a rap battle, <em>pantun</em> style.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>It’s like a rap battle. Yeah. You never know because some people are truly
 talented. Yeah. So, a <em>mak andam</em> has to know and be able to come
 up with <em>pantuns</em> and to <em>balas</em> the <em>pantun</em>, which is
 to reply to the <em>pantun</em> given by the groom’s party. Yeah.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I’m really impressed.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Oh, and interestingly, she was the <em>mak andam</em> of Harun Aminurrashid’s
 daughter. So, if you remember in the past podcast right, I spoke about
 <a href="https://biblioasia.nlb.gov.sg/podcast/belacan/" rel="noopener noreferrer nofollow" target="_blank">Siti Radiah</a>, who was a cookbook author in the 50s and 60s. So, her
 daughter for her marriage had Cikgu Asfiah as her <em>mak andam</em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>That’s such an amazing link!&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>It’s a small world.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>It is indeed a small world. Was it easy to research about Cikgu Asfiah?
 Was there a lot written about her?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Thankfully, there was quite a lot of coverage in the newspapers. Even
 before her cookbook, right, she was already a well-known figure.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Ah okay.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>So, it’s not just the coverage on her cookbook and her finally writing
 the cookbook, but because of her involvement in the Malay associations,
 cultural bodies like, like the Malay Society, and there was also another
@@ -602,10 +602,10 @@ one, Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu, in short, the Central
 Council of Malay Cultural Organisations. So, she was very involved in the
 works of these two associations and the activities of these associations
 were very well reported in <em>Berita Harian</em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So you were able to find lots of references to her in, I guess like NewspaperSG
 or something.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Yes. NewspaperSG is actually our database by the National Library where
 we digitise newspapers, including <em>Berita Harian</em>, from many, many
 years ago. So yeah, that was one of the important resources I had to tap
@@ -619,12 +619,12 @@ of Malay Cultural Organisations.&nbsp;</p>
 Festival in 81. I believe it was 1981, and she was invited to help, you
 know, give her input and also loan her personal collection of handiwork
 and handicraft to the exhibition about Malay handicrafts.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>At this point, however, in the interview I’d like to turn away from focusing
 only on Cikgu Asfiah, and to talk about other things, like, for example,
 you’ve written about <em>belachan</em>, you’ve written about Siti Radiah.&nbsp;</p>
 <p>Why is food history important to you? And why is it important?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Food itself is a lens through which you can understand history, right?
 And food can inform you about the evolution of culture, about women’s activities,
 about trade and commerce and things like that. So, I’m mainly interested
@@ -640,32 +640,32 @@ writers? Who were the people really trying to document recipes and traditions?
 As a librarian, I have access to these materials, so why not just, you
 know, explore and try to write a biography of these women, the best that
 I can with the information I have.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Yeah. Well, that leads us to our next question. What are you going to
 work on next?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>I have no idea. I haven’t decided yet. Possibly about cookbooks, too,
 but whether it’s focused on a personality, I don’t know.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>We’re all waiting to see what else you’re going to work on. Complete the
 sentence. Food is…&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Dynamic.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay. What do you mean?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Food is never static. It’s always changing. You know, that’s why, you
 know, Cikgu Asfiah felt this huge responsibility to serve a community by
 documenting recipes because she saw that a lot of them were dying out.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Actually, you’ve raised a really good point, right? Because actually the <em>bunga kobis</em>,
 if she hadn’t written about that written that recipe, you wouldn’t have
 known about it.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Exactly. Because the <em>bunga kobis</em> today in Malay weddings is gone.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Completely.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Completely. And the <em>hantaran</em> that you see in the photos of perhaps
 your parents’ generation, the 70s, 80s and even the <em>hantaran</em> in
 the 90s is different from the <em>hantaran</em> you get today. Like for example
@@ -673,23 +673,23 @@ from my own wedding right, last year, we didn’t have <em>bunga kobis</em>,
 because it’s fallen out of trend. We did exchange electronic devices, which
 people didn’t do in the past, apart from maybe like a Rolex watch.&nbsp;</p>
 <p>We had like a Nintendo Switch gaming console and things like that.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Was it your <em>hantaran</em> to your husband or your husband to you?&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>My husband to me, yeah. I didn’t give him something similar, like a PlayStation
 or something. But, you know, for us to share anyway. So food is dynamic,
 if Cikgu Asfiah hadn’t documented this dish and made it the cover as well
 right, I wouldn’t have known, and my mum has forgotten that <em>bunga kobis</em> was
 one of the <em>hantaran</em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>At her wedding.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>At her wedding. Yeah. So, I think it’s important to look at the sources,
 newspaper sources of course, but also speak to people who are still alive
 and who are cultural practitioners. Like, you know, my aunt who was a <em>mak andam</em>.
 To get the stories. And they themselves can tell you how food has evolved
 and changed over time.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Toffa, you know, thank you very much for joining us today on BiblioAsia+.
 As I mentioned earlier, to learn more about Hajah Asfiah or Cikgu Asfiah
 and how to make <em>bunga kobis</em>, if you, too, are inspired to make
@@ -698,9 +698,9 @@ and you can find it at <a rel="noopener noreferrer nofollow" target="_blank">bib
 <p>Toffa, once again, thank you for coming on our show. We hope to see you
 again very, very soon, with whatever it is you’re going to write about
 next.&nbsp;</p>
-<p><strong>Toffa</strong>
+<p><strong>Toffa</strong> 
 <br>Thank you, Jimmy, for having me here yet again.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>My pleasure. Always a pleasure.</p>
 <p>If you’ve enjoyed this episode,&nbsp;<a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">subscribe to the podcast</a>&nbsp;and
 the&nbsp;<a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia newsletter</a>.
