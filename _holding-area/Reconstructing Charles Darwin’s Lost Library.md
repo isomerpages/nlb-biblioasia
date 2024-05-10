@@ -10,8 +10,8 @@ description: Almost 20 years of painstaking scouring and sleuth work have
 By John van Wyhe
 
 
-![](/images/Vol%2020%20Issue%202/Darwin/darwin_img1.jpg)
-<div style="background-color:white;"> (Top) The only view of the back wall of&nbsp; Darwin's new study from an 1892 photograph by C.E. Corke. (Bottom) A week after Darwin's death on 19 April 1882, the family commissioned this copperplate etching (cropped) by Axel H. Haig. By stitching these together, we can see most of the bookshelves in Darwin's study. There were many other bookcases throughout the house. <i>From Darwin Online. </i></div>
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img1a.jpg)
+<div style="background-color:white;"> (Left) The only view of the back wall of&nbsp; Darwin's new study from an 1892 photograph by C.E. Corke. (Right) A week after Darwin's death on 19 April 1882, the family commissioned this copperplate etching (cropped) by Axel H. Haig. By stitching these together, we can see most of the bookshelves in Darwin's study. There were many other bookcases throughout the house. <i>From Darwin Online. </i></div>
 
 
 Charles Darwin (1809–82) is arguably the most influential scientist who ever lived. During his lifetime, he transformed the theory of evolution from ridiculed speculation to an established fact accepted by the international scientific community. The implications of this profound shift in how life on Earth is understood was immeasurable. Discussions of, and reactions to, Darwin remained common for over a century, and not only in biology and palaeontology but also in philosophy, art, literature and much more. Tens of thousands of publications have discussed Darwin’s works in dozens of countries and languages in a continuous stream that has never ceased.
@@ -37,7 +37,7 @@ The research that led us to recreate this library was done as part of the projec
 Large collections of Darwin’s letters were first published by his son Francis in the years after his father’s death in 1882. This was followed by two early drafts of Darwin’s theory of evolution in 1909. About the same time, Francis donated much of his father’s scientific library to Darwin’s (and his) alma mater, the University of Cambridge. A catalogue of these books – but not the journals and pamphlets – was published in 1908. In 1929, Darwin’s family home, Down House, was made a public museum and much of his library was transferred back to its original home. (Down House is located in the London Borough of Bromley; its garden and grounds remain open to the public.)
 
 
-![](/images/Vol%2020%20Issue%202/Darwin/darwin_imgs.jpg)
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img10.jpg)
 <div style="background-color:white;">Down House, where Charles Darwin lived from 1842 to 1882, is today a&nbsp;public museum. It was here that he developed his theory of evolution and wrote his groundbreaking work,&nbsp;<i>On the Origin of Species by Means of Natural Selection</i>&nbsp;(1859). <i>From Darwin Online. </i></div>
 
 
@@ -69,7 +69,7 @@ In 2010, NUS invited me to Singapore to continue my research and zoological hist
 
 In 2014, while in Singapore, we reconstructed and put online the entire 400-volume library that had been aboard Darwin’s ship, [HMS _Beagle_](https://darwin-online.org.uk/BeagleLibrary/Beagle_Library_Catalogue.htm). Most of that library’s contents had been reconstructed by the editors of _The Correspondence of Charles Darwin_. I was able to add more titles from my own research, especially from editing _Charles Darwin’s Notebooks from the Voyage of the Beagle_, a book published by Cambridge University Press in 2009.&nbsp;
 
-![](/images/Vol%2020%20Issue%202/Darwin/darwin_img6s.jpg)
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img11.jpg)
 <div style="background-color:white;"> HMS&nbsp;<i>Beagle</i>&nbsp;in the Straits of Magellan, In the distance is&nbsp;Mount Sarmiento. This illustration is the frontispiece of Darwin’s&nbsp;<i>Journal of Researches into the Natural History and Geology of the Various Countries Visited by H.M.S. Beagle etc</i>., the illustrated edition published in 1890 by John Murray. <i>From Darwin Online. </i></div>
 
 
