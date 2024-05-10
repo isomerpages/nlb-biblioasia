@@ -161,24 +161,16 @@ flood the insides of your dish and [make] the dough very soggy. So yes.&nbsp;</p
 the recipe that Cikgu Asfiah put out because she wrote to use either a
 wok or a pot. So, I chose a wok because I didn’t have a deep enough pot
 for this dish. Because when you make the layers right, the <em>kueh</em> itself,
-the <em>bunga kobis</em> will become heavy, and it will become big.</p>
-<p>&nbsp;</p>
+the <em>bunga kobis</em> will become heavy, and it will become big.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>How big? Give us an idea how big it is. Like, okay. A head of a cabbage?</p>
-<p>&nbsp;</p>
+<br>How big? Give us an idea how big it is. Like, okay. A head of a cabbage?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Yeah, it’s like a head on a cabbage. Like, slightly smaller than a rugby
-ball.</p>
-<p>&nbsp;</p>
+<br>Yeah, it’s like a head on a cabbage. Like, slightly smaller than a rugby
+ball.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, Sounds pretty big.</p>
-<p>&nbsp;</p>
+<br>Okay, Sounds pretty big.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Heavier than a rugby ball. Okay. Yeah. So imagine carrying this heavy
+<br>Heavier than a rugby ball. Okay. Yeah. So imagine carrying this heavy
 item while deep frying. You might drop it into the oil. You might hurt
 yourself. So, my aunt, who was the <em>mak andam,</em> when I told her, she
 was like, “What are you using?” So, I told her, “I am using a wok. I’m
@@ -187,15 +179,11 @@ use any of those things, because tongs might break the skin of the dish.
 And that’s how oil got in.” And that’s actually what happened when I tried
 it the first time. She made this dish because at that time in the 80s it
 was very trendy to have this dish or, rather, a collection of dishes called, <em>dua manis dua pedas</em>.</p>
-<p>Two sweet items and two spicy items.</p>
-<p>&nbsp;</p>
+<p>Two sweet items and two spicy items.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>For the <em>hantaran</em>?</p>
-<p>&nbsp;</p>
+<br>For the <em>hantaran</em>?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Yes. So <em>bunga kobis</em> falls under the <em>pedas</em>. Yeah. So, this
+<br>Yes. So <em>bunga kobis</em> falls under the <em>pedas</em>. Yeah. So, this
 was one of the dishes that she would make whenever her client requested
 for <em>dua manis dua pedas</em>. And it was very, very normal to have <em>dua manis dua pedas</em> at
 your wedding. You would need to use a deep pot, and she would use a very
