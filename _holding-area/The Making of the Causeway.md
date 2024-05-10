@@ -149,7 +149,7 @@ This is an edited extract from <i>The Causeway</i> (2011), jointly published by 
 [^6]:  _Proceedings of the Federal Council of the Federated Malay States for the year 1917_, p. B57.
 
 
-[^7]: _Proceedings of the Federal Council of the Federated Malay States_, 13 November 1917, B57;&nbsp; The National Archives, United Kingdom, Extract of Letter from Messrs Coode, Matthews, Fitzmaurice &amp; Wilson to Crown Agents. (From National Archives of Singapore, accession no. CO 273/462), 267
+[^7]: _Proceedings of the Federal Council of the Federated Malay States_, 13 November 1917, B57;&nbsp; The National Archives, United Kingdom, [Extract of Letter from Messrs Coode, Matthews, Fitzmaurice &amp; Wilson to Crown Agents](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/private_records/record-details/26dc86a3-47e7-11e6-b4c5-0050568939ad). (From National Archives of Singapore, accession no. CO 273/462), 267
 
 
 [^8]: “The Causeway: A Great Engineering Work Completed,” _Straits Times_, 27 June 1924, 9. (From NewspaperSG)
