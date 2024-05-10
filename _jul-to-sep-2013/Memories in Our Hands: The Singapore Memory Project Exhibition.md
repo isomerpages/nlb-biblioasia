@@ -4,6 +4,7 @@ permalink: /vol-9/issue-2/jul-sep-2013/singapore-memories-hand/
 description: Memories and history are viewed differently. Find out how the
   Singapore Memory Project captures such memories and provide us with another
   way of looking at Singapore aside from linear historicity.
+variant: markdown
 ---
 #### Memories and history are viewed differently. Find out how the Singapore Memory Project captures such memories and provide us with another way of looking at Singapore aside from linear historicity.
 
@@ -28,7 +29,7 @@ Artist's impression of the Remembering Room in “Hands”. <i>Courtesy of FARM.
 
 This year, aside from collecting, preserving and presenting memories on its digital platform, the SMP team is working on a physical exhibition called “Hands”. Unlike historical exhibitions that are often curated from the viewpoint of historians, memories will take centre stage in this exhibition.
 
-##### <center>**Knowledge and remembering \[are\] in the hands and in the body. <br>— Paul Connerton**[^6]</center>
+##### <center>**Knowledge and remembering [are] in the hands and in the body. <br>— Paul Connerton**[^6]</center>
 
 #### **You’ve Got Mail! Singapore’s First Postmaster General**
 

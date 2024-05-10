@@ -5,8 +5,8 @@ date: 2020-07-01T00:00:00.000Z
 breadcrumb: G.H. Cafe
 third_nav_title: "G.H. Cafe: A Dining Landmark On Battery Road"
 image: /images/Vol-16-issue-2/ghcafe/GHCafe.jpg
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #ffeee1;
@@ -21,7 +21,7 @@ table {
 #### G.H. Cafe was a fashionable eatery in the business district that was popular among Singapore’s well-heeled. **Vandana Aggarwal** relives the history of this landmark institution.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/ghcafe/GHCafe.jpg">
 
 G.H. Cafe on Battery Road, 1962. In its heyday, this was where the affluent dined. Photo by Wong Ken Foo (K.F. Wong). <i>Courtesy of National Archives of Singapore</i>.
@@ -42,7 +42,7 @@ According to a Straits Times report on 13 October 1920, the sweets on display at
 By then, the shop had moved to larger premises at 6 Battery Road, and later to 7 Battery Road next door. The ground floor comprised a cake and tiffin room while the second floor had tea rooms and another tiffin room.[^8] Part of the shop space was rented out for exhibitions of art works. In 1924, G.H. Sweet Shop opened the Tea Kiosk overlooking the lake at the Botanic Gardens.[^9]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/ghcafe/teakiosk.jpg">
 
 An advertisement of The Tea Kiosk, operated by G.H. Sweet Shop, at the Botanic Gardens. <i>Malayan Saturday Post, 19 April 1924, p. 4. Retrieved from NewspaperSG</i>.
@@ -61,7 +61,7 @@ Within two years, however, poor management by the Johannes brothers resulted in 
 Under Mistri, G.H. Cafe continued churning out cakes and confectionery while continuing its restaurant and catering business. In 1932, Raffles Institution held its annual dinner there and the following year, the cafe catered for almost a thousand guests at Mrs Ong Sam Leong’s[^18] 71st birthday celebration held at New World Cabaret.[^19]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/ghcafe/Novroji.jpg">
 
 Navroji R. Mistri (1885–1953) was a businessman and philanthropist who acquired G.H. Cafe in August 1931. The Mistri Wing of the Singapore General Hospital and Mistri Road are named after him. <i>Courtesy of Mr and Mrs Noshir Mistri</i>.
@@ -72,7 +72,7 @@ Navroji R. Mistri (1885–1953) was a businessman and philanthropist who acquire
 With business doing well, Mistri decided that the restaurant needed a face lift. When G.H. Cafe reopened in 1935 after an extensive refurbishment, it featured a lounge with terrazzo flooring and comfortable low chairs upholstered in green. The main hall, tastefully painted in shades of grey and green, had 40 tables that could accommodate up to 200 diners and ceiling fans to cool the place. Tea and dinner dances could now be held on the spanking new dance floor, accompanied by music played on an automatic electric gramophone.[^20]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/ghcafe/Plate.jpg">
 
 A porcelain plate bearing the logo of G.H. Cafe, 1980s. <i>Courtesy of National Museum of Singapore, National Heritage Board</i>.
@@ -107,7 +107,7 @@ The cafe had a large repertoire of dishes catering to different tastes. In 1935,
 G.H. Cafe was well patronised at breakfast, lunch and afternoon tea. The day would begin with morning shoppers who dined and relaxed in the cafe before the lunchtime crowd descended. According to prominent Indian businessman Rajabali Jumabhoy, “at 11 o’clock most shipping and insurance people used to go for coffee or a drink at G.H. Cafe and bargains for cargo and insurance… [were] often made there.”[^33] Tea-drinking crowds thronged the cafe in the late afternoons. However, the cafe was generally closed in the late afternoons unless an event was held there.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/ghcafe/Farewell.jpg">
 
 A farewell tea party hosted by the Indian Chamber of Commerce at G.H. Cafe for founding member Jamnadas Purshotam. <i>The Singapore Free Press and Mercantile Advertiser, 16 April 1936, p. 2. Retrieved from NewspaperSG</i>.
@@ -115,16 +115,16 @@ A farewell tea party hosted by the Indian Chamber of Commerce at G.H. Cafe for f
 </div>
 
 #### **Post-Mistri Era**
-Following Mistri’s death in 1953, G.H. Cafe continued to operate under the same name. Peter Chua Hock Seng, a well-known racehorse owner, became a partner and the managing director of G.H. Cafe until his demise in 1960.[^34] The cafe remained a trendy place for hosting visitors, club meetings, office parties and all manner of celebrations. Nicolas Tang, who was then a salaried partner with law firm Allen & Gledhill, recalls that G.H. Cafe was a popular haunt for lawyers in the 1970s:
+Following Mistri’s death in 1953, G.H. Cafe continued to operate under the same name. Peter Chua Hock Seng, a well-known racehorse owner, became a partner and the managing director of G.H. Cafe until his demise in 1960.[^34] The cafe remained a trendy place for hosting visitors, club meetings, office parties and all manner of celebrations. Nicolas Tang, who was then a salaried partner with law firm Allen &amp; Gledhill, recalls that G.H. Cafe was a popular haunt for lawyers in the 1970s:
 
 “When we went to the High Court on summons in chambers days, we would walk back to Raffles Place, and have coffee at the G.H. Cafe in Battery Road... together with its sinfully delicious kaya cake. If we missed coffee, we could always go there for lunch and sit at a table reserved for lawyers (a sort of ‘mess table’).”[^35]
 
 #### **A Quick Decline**
-By the mid-1970s, however, the cafe’s accounts were in the red. The management attempted to reinvent the cafe as a nightclub and cocktail lounge in a bid to save the business. In 1973, G.H. Cafe became known as Singapore Kitchen & Cocktail Lounge. The next year saw the space being transformed into a nightclub called Singapore Mini Nite-Club.[^36] In 1975, the night club was renamed Golden Lucky Cocktail Lounge and, a few months later, Seven-Up Restaurant and Cocktail Lounge.[^37] Despite the series of makeovers and rebranding, the business failed to revive and went into liquidation in 1981.[^38] While G.H. Cafe no longer exists today, it remains a fond memory for an older generation of Singaporeans.
+By the mid-1970s, however, the cafe’s accounts were in the red. The management attempted to reinvent the cafe as a nightclub and cocktail lounge in a bid to save the business. In 1973, G.H. Cafe became known as Singapore Kitchen &amp; Cocktail Lounge. The next year saw the space being transformed into a nightclub called Singapore Mini Nite-Club.[^36] In 1975, the night club was renamed Golden Lucky Cocktail Lounge and, a few months later, Seven-Up Restaurant and Cocktail Lounge.[^37] Despite the series of makeovers and rebranding, the business failed to revive and went into liquidation in 1981.[^38] While G.H. Cafe no longer exists today, it remains a fond memory for an older generation of Singaporeans.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-2/authors/VandanaAggarwal.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-2/authors/VandanaAggarwal.png" style="width: 100px; height: 100px;">
 
 <b>Vandana Aggarwal</b> is a teacher and a freelance journalist. An active citizen archivist for the National Archives of Singapore, she is the author of the book <i>Voice of Indian Women: The Kamala Club Singapore</i> (2018). She enjoys reading and researching about history.
 
@@ -154,7 +154,7 @@ By the mid-1970s, however, the cafe’s accounts were in the red. The management
 [^19]:  [Birthday party: Mother Of Ong brothers honoured](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19331222-1.2.143). (1933, December 22). *The Malaya Tribune*, p. 12. Retrieved from NewspaperSG.
 [^20]: [Around the town](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19350215-1.2.25.1). (1935, February 15). *The Singapore Free Press and Mercantile Advertiser*, p. 4. Retrieved from NewspaperSG.
 [^21]: [Lotus Club jubilee dinner on Saturday](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350513-1.2.95). (1935, May 13). *The Straits Times*, p. 12. Retrieved from NewspaperSG. 
-[^22]: Tan, B. L. (Interviewer). (1985, July 3). *[Oral history interview with Segeram, Myna Ruth (Mrs)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/7572519f-115f-11e3-83d5-0050568939ad-OHC000580_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=15)* [Recording no. 000580/7/2, p. 31]. Retrieved from National Archives of Singapore website.
+[^22]: Tan, B. L. (Interviewer). (1985, July 3). *[Oral history interview with Segeram, Myna Ruth (Mrs)](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/7572519f-115f-11e3-83d5-0050568939ad-OHC000580_002/web/html5/index.html)* [Recording no. 000580/7/2, p. 31]. Retrieved from National Archives of Singapore website.
 [^23]: Chew, D. (Interviewer). (1984, November 30). *[Oral history interview with Hale, Trevelyan James Ruthven](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ed85a4ab-115d-11e3-83d5-0050568939ad)* [Recording no. 000476/27/22]. Retrieved from National Archives of Singapore website.
 [^24]: Lee, P. (Interviewer). (1997, November 3). *[Oral history interview with Jamieson, Hugh William](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6b3e6166-1161-11e3-83d5-0050568939ad)* [Recording no. 001968/2/2]. Retrieved from National Archives of Singapore website.
 [^25]: [They were drinking coffee when the wall fell down](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19481013-1.2.4). (1948, October 13). *Morning Tribune*, p. 1. Retrieved from NewspaperSG.
@@ -164,8 +164,8 @@ By the mid-1970s, however, the cafe’s accounts were in the red. The management
 [^29]: Mrs J.T.N. Handy was a founding member of the Indian and Ceylonese Ladies’ Club, which was the first club for Indian women in Singapore.
 [^30]: [Women’s interest: Indian dinner](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19350719-1.2.41). (1935, July 19). *The Singapore Free Press and Mercantile Advertiser*, p. 4. Retrieved from NewspaperSG.
 [^31]: [The social spotlight: Rijstafel tiffin](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350616-1.2.44). (1935, June 16). *The Straits Times*, p. 8. Retrieved from NewspaperSG. [Note: A creation of the Dutch colonists, Rijsttafel is a meal comprising several Indonesian dishes served buffet style, with rice being the centrepiece of the menu.]
-[^32]: Lee-Koh, A.M.C. (Interviewer) (1981, August 21) *[Oral History Interview with Nair, Chengara Veetil Devan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/df05e7ff-115d-11e3-83d5-0050568939ad-OHC000049_012/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=1)*. [Transcript of recording no. 000049/26/12, p. 113]. Retrieved from National Archives of Singapore website.
-[^33]: Lim, H.S. (Interviewer). (1981, July 2). *[Oral history interview with Jumabhoy, Rajabali](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/dfa0f8f1-115d-11e3-83d5-0050568939ad-OHC000074_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=1)*. [Transcript of recording no. 000074/37/5, p. 37]. Retrieved from National Archives of Singapore website.
+[^32]: Lee-Koh, A.M.C. (Interviewer) (1981, August 21) *[Oral History Interview with Nair, Chengara Veetil Devan](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/df05e7ff-115d-11e3-83d5-0050568939ad-OHC000049_012/web/html5/index.html)*. [Transcript of recording no. 000049/26/12, p. 113]. Retrieved from National Archives of Singapore website.
+[^33]: Lim, H.S. (Interviewer). (1981, July 2). *[Oral history interview with Jumabhoy, Rajabali](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/dfa0f8f1-115d-11e3-83d5-0050568939ad-OHC000074_005/web/html5/index.html)*. [Transcript of recording no. 000074/37/5, p. 37]. Retrieved from National Archives of Singapore website.
 [^34]: [Partner in cafe, lorry driver die in spate of crashes on roads](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19601226-1.2.8). (1960, December 26). *The Singapore Free Press*, p. 1. Retrieved from NewspaperSG.
 [^35]: Tang, N. (2013, June 28). Singapore legal practice in the 70’s [Blogpost]. Retrieved from nicolastang.com website.
 [^36]: [Page 1 advertisements column 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730425-1.2.10.4). (1973, April 25). *New Nation*, p. 1; [Page 10 advertisements column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741017-1.2.18.2). (1974, October 17). *New Nation*, p. 10. Retrieved from NewspaperSG.

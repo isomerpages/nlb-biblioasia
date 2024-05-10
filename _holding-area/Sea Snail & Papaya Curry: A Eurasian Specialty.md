@@ -6,7 +6,7 @@ description: ""
 ---
 #### MasterChef Singapore judge Damian D’Silva tells us what it’s like foraging for food on the beach as a young boy, while making an uncommon Kristang dish that combines two very unlikely ingredients: sea snail and papaya.
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/NfaTNrXJgHA" frameborder="0" allowfullscreen=""></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/bzQuPlNBqnE" frameborder="0" allowfullscreen=""></iframe></div>
 
 #### **Episode summary** ####
 For MasterChef Singapore judge Damian D’Silva, sea snail and papaya curry – known in the Kristang language as <i>cari papair cung siput chupaku</i> –  is a dish that brings back fond memories of foraging at the beach and cooking with his grandfather.

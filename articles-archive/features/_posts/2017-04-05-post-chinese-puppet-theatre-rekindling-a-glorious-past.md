@@ -138,7 +138,7 @@ Kraus, R.C. (2012). *[The cultural revolution: A very short introduction](http:/
 
 **Book chapter**
 
-Chia, C. (2015). Potehi in Singapore, survival and change. In K. Fushiki &amp; R. Ruizendaal (Eds.), *[Potehi: Glove puppet theatre in Southeast Asia and Taiwan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202888873)*. Taiwan: Taiyuan Publishing. (Call no.: RSEA 791.530951249 POT)
+Chia, C. (2015). Potehi in Singapore, survival and change. In K. Fushiki &amp; R. Ruizendaal (Eds.), *[Potehi: Glove puppet theatre in Southeast Asia and Taiwan](http://eservice.nlb.gov.sg/redir/itemdetails?bid=202888873)*. Taiwan: Taiyuan Publishing. (Call no.: RSEA 791.530951249 POT)
 
 **Journal article**
 

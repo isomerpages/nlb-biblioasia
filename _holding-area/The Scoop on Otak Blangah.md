@@ -6,7 +6,7 @@ description: ""
 ---
 #### Cracking fish bones and throwing fish patties – making _otak blangah_ is a workout! How does this uncommon Peranakan dish taste in comparison to the all-familiar _otak-otak_? Tanya Pillay-Nair from the Peranakan Indian Association of Singapore revives this old recipe with her aunt.
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/NfaTNrXJgHA" frameborder="0" allowfullscreen=""></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/ovW-iPVyj6w" frameborder="0" allowfullscreen=""></iframe></div>
 
 #### **Episode summary** ####
 You’ve most likely eaten _otak-otak_ wrapped in banana leaves, but have you tried _otak blangah_ – fishcake cooked in a clay pot? _Blangah_ in Malay means “clay cooking pot”, hence the name of the dish.
