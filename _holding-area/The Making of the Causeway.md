@@ -90,7 +90,7 @@ By then, the construction of the lock at the Johor end was well advanced and the
 
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
-<div style="background-color:white;"> Construction of cofferdam (temporary enclosure for workers to work in a waterlogged environment) at the east end of the lock and concreting of apron in progress, June 1921. Both locals and Europeans worked together to complete the Causeway <i>Courtesy of National Archives of Malaysia. </i></div>
+<div style="background-color:white;"> Construction of cofferdam (temporary enclosure for workers to work in a waterlogged environment) at the east end of the lock and concreting of apron in progress, June 1921. Both locals and Europeans worked together to complete the Causeway. <i>Courtesy of National Archives of Malaysia. </i></div>
 
 
 
@@ -100,11 +100,15 @@ At the end of 1921, all excavation and concrete works had been completed on the 
 
 By July 1922, rubble deposits on both sides of the Causeway had reduced the gap remaining in the superstructure to just 1,300 ft (396 m) at low tide. At this point, a coating of rubble was deposited over the gap to prevent any scouring of the bottom due to the increased velocity of currents in the narrowing channel. Work on the superstructure of the Causeway resumed after this precautionary measure had been taken.
 
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+<div style="background-color:white;"> View of the Bukit Timah quarry from the top showing the incline and arrangement of roads, January 1922. This quarry opened towards the end of 1921 and began supplying to the Woodlands end of the Causeway from January 1922 onwards. <i>Courtesy of National Archives of Malaysia. </i></div>
+
+
 On 1 January 1923, the lock was handed over to the Federated Malay States Railways (FMSR) to begin operations, and all shipping through the Johor Strait were subsequently diverted through the lock as the advanced stage of construction had made it increasingly hazardous for ships to navigate the strait. To prevent unauthorised entry of vessels, chain defences were placed at both ends of the lock. In addition, red and green navigation lights were placed on either side of the entrances to indicate whether the lock was closed or opened to traffic. It has been recorded that at least 30 vessels passed through the lock during the first month of its operation and 13,513 craft passed through the lock in 1923. With the opening of the lock to traffic in January 1923, construction work on the Causeway’s superstructure resumed.[^16]
 
 The installation of the rolling lift-bridge was completed in January 1923, and the channel between Johor and Singapore was sealed up on 1 June 1923.
 
-The Causeway Opens
+#### **The Causeway Opens**
 
 The year 1923 was a milestone of sorts in the history of the Causeway. The Causeway was first opened to goods trains on 17 September 1923,[^17] and the wagon-ferry service between Johor Bahru and Woodlands was withdrawn from that date. By this time, the wagon-ferries were running more than 11,000 trips a year with 7,777 trips recorded from 1 January to 16 September 1923, the final year of its operations.[^18]
 
