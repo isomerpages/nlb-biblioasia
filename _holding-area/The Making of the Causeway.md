@@ -47,11 +47,14 @@ Construction work began in 1919 and was completed in 1924. Thousands of workers 
 
 In 2011, the National Archives of Malaysia and the National Archives of Singapore jointly published _The Causeway_, a book about the history of the land bridge between the two countries. The following extract, mainly from chapter three of the book, details the construction challenges involved in building the Causeway.
 
-The Grand Plan – Engineering the Causeway (1919–23)
+#### **The Grand Plan – Engineering the Causeway (1919–23)**
 
 The Causeway project was technically challenging by the standards of its time and would be the largest engineering project in Malaya at the time. Construction would take an estimated four to five years, and would require the labour of over 2,000 workers as well millions of tons of stone and other building matertials.[^9]
 
 Tidal studies were carried out in 1917, and design features were incorporated to limit changes in the water level at the Causeway to control possible damage to its structure and surroundings, as well as to manage the strength of the currents passing through its lock to allow for safe navigation.[^10]
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+<div style="background-color:white;"> Tidal studies showed that the construction of the Causeway would effectively convert the Johor Strait into two separate tidal compartments and give rise to differences in water levels on either side of the Causeway once it was completed. As a result, the consultant engineers incorporated a creative design feature to outfit the Causeway’s lock channel with a double set of floodgates to control the tides that alternated on either side of the Causeway.<i>Courtesy of The National Archives (UK), CAOG 10/50 (56). </i></div>
 
 A detailed plan of the Causeway’s construction site was prepared by Messrs Coode, Matthew, Fitzmaurice &amp; Wilson in 1917, with recommendations to change the Causeway’s orientation. The proposed Causeway would be 3,465 ft long (1,056 m) from bank to bank, with a width of 60 ft (18 m) sufficient to carry two lines of metre-gauge railway tracks, a 26-foot-wide (8 m) roadway, with space reserved for the laying of water mains at a later date.
 
