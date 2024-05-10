@@ -54,7 +54,7 @@ The Causeway project was technically challenging by the standards of its time an
 Tidal studies were carried out in 1917, and design features were incorporated to limit changes in the water level at the Causeway to control possible damage to its structure and surroundings, as well as to manage the strength of the currents passing through its lock to allow for safe navigation.[^10]
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
-<div style="background-color:white;"> Tidal studies showed that the construction of the Causeway would effectively convert the Johor Strait into two separate tidal compartments and give rise to differences in water levels on either side of the Causeway once it was completed. As a result, the consultant engineers incorporated a creative design feature to outfit the Causeway’s lock channel with a double set of floodgates to control the tides that alternated on either side of the Causeway.<i>Courtesy of The National Archives (UK), CAOG 10/50 (56). </i></div>
+<div style="background-color:white;"> Tidal studies showed that the construction of the Causeway would effectively convert the Johor Strait into two separate tidal compartments and give rise to differences in water levels on either side of the Causeway once it was completed. As a result, the consultant engineers incorporated a creative design feature to outfit the Causeway’s lock channel with a double set of floodgates to control the tides that alternated on either side of the Causeway. <i>Courtesy of The National Archives (UK), CAOG 10/50 (56). </i></div>
 
 A detailed plan of the Causeway’s construction site was prepared by Messrs Coode, Matthew, Fitzmaurice &amp; Wilson in 1917, with recommendations to change the Causeway’s orientation. The proposed Causeway would be 3,465 ft long (1,056 m) from bank to bank, with a width of 60 ft (18 m) sufficient to carry two lines of metre-gauge railway tracks, a 26-foot-wide (8 m) roadway, with space reserved for the laying of water mains at a later date.
 
@@ -64,13 +64,19 @@ The company was behind the construction of two of colonial Singapore’s most im
 
 Construction on the Causeway commenced in August 1919 in Johor Bahru, beginning with the excavation of the lock channel.[^12] The governments involved decided to complete the lock first to minimise disruption to shipping during the rest of the construction. The lock was placed at the Johor end of the Causeway because it had more suitable approaches than the Woodlands side, and the approach would also cause less disruption to the existing ferry services.
 
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+<div style="background-color:white;"> 
+A close-up view of the Causeway’s lock channel in use by small ships, c. 1925. It is in the open position. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore </i></div>
+
+
 Since the lock would occupy the site of the pontoon landing stage for the passenger ferry launches at Johor Bahru station, it was necessary to first provide a new landing stage. The pontoon and connecting bridge were removed and reinstalled on 14 August 1919 at the new site, located clear of the works at the west end of the west wing-wall of the lock. For the convenience of train passengers, a temporary covered walkway was built between the railway station and the new site of the pontoon. This transfer was achieved without causing any interruption to passenger ferry traffic.
 
 The quarry at Pulau Ubin, which was about 16 miles (26 km) away and had been opened in 1907 for the Singapore harbour-works, was reopened in 1919 to supply rubble and crushed stone for the Causeway. Four of the ten hopper barges ordered from England for the transport of stone from quarries in Singapore to the Causeway had been delivered during the year, along with one of two large steam tugs also ordered from England, which were designed to pull those barges. A smaller tug and a steam launch had also been purchased locally in 1919 to expedite the transportation of stone.
 
 The 1919 Johor Annual Report proudly reported that work on the Causeway is “destined to connect Johor with Singapore by road and rail proceeds day and night”.[^13]
 
-Laying the Foundation Stone
+#### **Laying the Foundation Stone**
 
 In 1920, with work on the Causeway progressing satisfactorily, it was deemed proper to hold a ceremony to mark the laying of its foundation stone. Governor Laurence Nunns Guillemard and the chief secretary agreed to have the ceremony on 24 April 1920. It was to be conducted from on board the steam yacht _Sea Belle_, anchored in the middle of the Johor Strait. The occasion would also coincide with Guillemard’s first official visit to Johor.
 
