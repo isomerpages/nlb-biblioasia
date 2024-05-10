@@ -67,7 +67,7 @@ Construction on the Causeway commenced in August 1919 in Johor Bahru, beginning 
 
 ![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
 <div style="background-color:white;"> 
-A close-up view of the Causeway’s lock channel in use by small ships, c. 1925. It is in the open position. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore </i></div>
+A close-up view of the Causeway’s lock channel in use by small ships, c. 1925. It is in the open position. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i></div>
 
 
 Since the lock would occupy the site of the pontoon landing stage for the passenger ferry launches at Johor Bahru station, it was necessary to first provide a new landing stage. The pontoon and connecting bridge were removed and reinstalled on 14 August 1919 at the new site, located clear of the works at the west end of the west wing-wall of the lock. For the convenience of train passengers, a temporary covered walkway was built between the railway station and the new site of the pontoon. This transfer was achieved without causing any interruption to passenger ferry traffic.
@@ -87,6 +87,12 @@ However, a sudden unexpected worldwide economic depression hit in mid-1920, whic
 At around the same time, the British Admiralty raised objections to the dimensions of the lock channel, proposing that it be expanded to at least 400 ft (122 m) in length and 75 ft (23 m) in breadth – about double its originally planned size – to accommodate passage of large British warships. Although this suggestion was eventually dropped because of the engineering difficulties and hefty additional costs involved,[^14] these two factors almost convinced the FMS and Straits Settlements governments to abandon the Causeway project.
 
 By then, the construction of the lock at the Johor end was well advanced and the north wall of the lock was half completed. In addition, the first two lengths of the east and west wing-walls of the lock had been built, and the eastern portion of the watertight cofferdam enclosing the south wall of the lock was ready for closing, allowing workers to work on the lock in dry conditions.
+
+
+![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+<div style="background-color:white;"> Construction of cofferdam (temporary enclosure for workers to work in a waterlogged environment) at the east end of the lock and concreting of apron in progress, June 1921. Both locals and Europeans worked together to complete the Causeway <i>Courtesy of National Archives of Malaysia. </i></div>
+
+
 
 In addition, output from the granite quarry on Pulau Ubin had improved significantly, and from February 1921 additional supplies started arriving from the Bukit Timah quarry. In June the same year, the depositing of rubble commenced on the Johor side of the works, allowing the construction of the Causeway’s superstructure to proceed from both sides of the strait. Some 2,337 men were engaged in the Causeway’s construction that year.[^15]
 
