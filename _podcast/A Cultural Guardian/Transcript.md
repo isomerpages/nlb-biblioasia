@@ -188,8 +188,8 @@ was one of the dishes that she would make whenever her client requested
 for <em>dua manis dua pedas</em>. And it was very, very normal to have <em>dua manis dua pedas</em> at
 your wedding. You would need to use a deep pot, and she would use a very
 small rolling pin, of wooden rolling pin, that you use for making your <em>pao</em>,
-the very thin ones.&nbsp;</p>
-<p>To use it as like a backbone of the dish and to use it as something easy
+the very thin ones.&nbsp;
+<br>To use it as like a backbone of the dish and to use it as something easy
 to grab on to remove the big cabbage head from the hot oil. Yeah. No tongs,
 because the tongs would tear the skin. Yeah. But, of course, at that time
 I was like, you know, I already practiced with this, I would just go ahead
