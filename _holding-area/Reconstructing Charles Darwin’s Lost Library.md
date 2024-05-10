@@ -30,11 +30,16 @@ Scholars have been studying Darwin’s life and work ever since _On the Origin o
 
 This gap has finally been filled. After 18 years of painstaking research – involving scouring numerous obscure lists and consulting unusual sources, as well as extrapolating from vague, fragmentary and handwritten notes – we have finally completed the task of cataloguing the contents of Darwin’s enormous library. We now know that Darwin’s library contained 7,494 unique titles across 13,000 volumes/items. Looking at the list, it is clear that Darwin had one of the most extensive and important private scientific libraries of the 19th century.
 
-The research that led us to recreate this library was done as part of the project, The Complete Work of Charles Darwin Online (darwin-online.org.uk), or Darwin Online for short. Darwin Online has gone beyond merely cataloguing Darwin’s library; it has also reassembled this library virtually, allowing anyone to examine the works in detail. The result is an indispensable tool for scholars, scientists, researchers and students interested in the history of Victorian science.
+The research that led us to recreate this library was done as part of the project, The Complete Work of Charles [Darwin Online](https://darwin-online.org.uk), or Darwin Online for short. Darwin Online has gone beyond merely cataloguing Darwin’s library; it has also reassembled this library virtually, allowing anyone to examine the works in detail. The result is an indispensable tool for scholars, scientists, researchers and students interested in the history of Victorian science.
 
 #### **On the Origin of Darwin Scholarship**
 
 Large collections of Darwin’s letters were first published by his son Francis in the years after his father’s death in 1882. This was followed by two early drafts of Darwin’s theory of evolution in 1909. About the same time, Francis donated much of his father’s scientific library to Darwin’s (and his) alma mater, the University of Cambridge. A catalogue of these books – but not the journals and pamphlets – was published in 1908. In 1929, Darwin’s family home, Down House, was made a public museum and much of his library was transferred back to its original home. (Down House is located in the London Borough of Bromley; its garden and grounds remain open to the public.)
+
+
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_imgs.jpg)
+<div style="background-color:white;">Down House, where Charles Darwin lived from 1842 to 1882, is today a&nbsp;public museum. It was here that he developed his theory of evolution and wrote his groundbreaking work,&nbsp;<i>On the Origin of Species by Means of Natural Selection</i>&nbsp;(1859). <i>From Darwin Online. </i></div>
+
 
 The modern age of Darwin scholarship is said to have begun with work on the enormous body of Darwin’s manuscripts and private papers acquired by Cambridge University Library in the 1940s. These were broadly catalogued in 1960, and in the mid-1970s, an ambitious project was conceived by Frederick Burkhardt, former president of the American Council of Learned Societies, to publish all the letters from and to Darwin. The 30-volume endeavour, _The Correspondence of Charles Darwin_, was finally completed in 2023 and published by Cambridge University Press.
 
@@ -53,7 +58,7 @@ In 2002, while a research fellow at the National University of Singapore (NUS), 
 
 The new site was launched in October 2006 and the news went viral. It was mentioned in hundreds of websites and newspapers around the world, and covered by renowned media outlets such as BBC Radio 4’s Today Programme, BBC Breakfast (TV), the regional BBC stations, CNN and _The Guardian_, etc. Millions of visits to the site brought the servers at Cambridge crashing down multiple times in the first 24 hours. Overnight, Darwin Online had become one of the best-known history of science projects in the world.&nbsp;
 
-That was only the beginning though. Darwin’s manuscripts and private papers were launched in 2008 when 100,000 images from the Darwin Archive in Cambridge became available, and another viral media event followed. Several other viral launches followed over the next few years such as when the diaries of Darwin’s wife, Emma, went [online](https://darwin-online.org.uk/EmmaDiaries.html) in 2007 for the first time and his newly discovered student bills in 2009.&nbsp;
+That was only the beginning though. Darwin’s manuscripts and private papers were launched in 2008 when 100,000 images from the Darwin Archive in Cambridge became available, and another viral media event followed. Several other viral launches followed over the next few years such as when the [diaries](https://darwin-online.org.uk/EmmaDiaries.html) of Darwin’s wife, Emma, went online in 2007 for the first time and his newly discovered student bills in 2009.&nbsp;
 
 
 ![](/images/Vol%2020%20Issue%202/Darwin/darwin_img3.jpg)
