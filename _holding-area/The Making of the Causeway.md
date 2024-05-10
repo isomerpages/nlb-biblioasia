@@ -9,14 +9,14 @@ description: When the Causeway was built 100 years ago, it was the largest
 #### When the Causeway was built 100 years ago, it was the largest engineering project to be undertaken in Malaya. Building it required overcoming significant engineering challenges.
 
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img1.jpg)
 <div style="background-color:white;">The completed Causeway from the Johor end, June 1924. The lock channel can be seen in the photo. <i>Tessa Mitchell Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 The official opening of the Causeway on 28 June 1924 was a historic event that marked the physical joining of Singapore with the Malay Peninsula, and indeed the rest of continental Asia. The lavish ceremony that took place was presided over by Laurence Nunns Guillemard, Governor of the Straits Settlements and High Commissioner of the Federated Malay States (FMS), in the presence of Sultan Ibrahim of Johor. More than 400 guests – including Malay nobility, dignitaries and prominent government officials – from the FMS, Straits Settlements and Johor attended the event.[^1]
 
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img2.jpg)
 <div style="background-color:white;">The opening ceremony of the Causeway on 28 June 1924 was presided over by Laurence Nunns Guillemard, Governor of the Straits Settlements and High Commissioner of the Federated Malay States. On his left and facing him is Sultan Ibrahim of Johor with his left hand on the hilt of his sword. <i>Courtesy of National Archives of Malaysia.</i></div>
 
 
@@ -30,7 +30,7 @@ Towards the end of the first decade of the 20th century, the train and ferry ser
 The wagon-ferries were so successful that demand for its services soon surpassed capacity. In addition to the volume of traffic, the escalating maintenance costs of the wagon-ferries raised concerns about their long-term viability. A better solution was needed.[^5]
 
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img3.jpg)
 <div style="background-color:white;">The wagon-ferry jetty in Johor Bahru, August 1919. The hauling engine house or powerhouse on the left contained the winding machinery for hauling travellers to and from the wagon-ferries.<i>Courtesy of National Archives of Malaysia. </i></div>
 
 
@@ -53,7 +53,7 @@ The Causeway project was technically challenging by the standards of its time an
 
 Tidal studies were carried out in 1917, and design features were incorporated to limit changes in the water level at the Causeway to control possible damage to its structure and surroundings, as well as to manage the strength of the currents passing through its lock to allow for safe navigation.[^10]
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img4.jpg)
 <div style="background-color:white;"> Tidal studies showed that the construction of the Causeway would effectively convert the Johor Strait into two separate tidal compartments and give rise to differences in water levels on either side of the Causeway once it was completed. As a result, the consultant engineers incorporated a creative design feature to outfit the Causeway’s lock channel with a double set of floodgates to control the tides that alternated on either side of the Causeway. <i>Courtesy of The National Archives (UK), CAOG 10/50 (56). </i></div>
 
 A detailed plan of the Causeway’s construction site was prepared by Messrs Coode, Matthew, Fitzmaurice &amp; Wilson in 1917, with recommendations to change the Causeway’s orientation. The proposed Causeway would be 3,465 ft long (1,056 m) from bank to bank, with a width of 60 ft (18 m) sufficient to carry two lines of metre-gauge railway tracks, a 26-foot-wide (8 m) roadway, with space reserved for the laying of water mains at a later date.
@@ -65,7 +65,7 @@ The company was behind the construction of two of colonial Singapore’s most im
 Construction on the Causeway commenced in August 1919 in Johor Bahru, beginning with the excavation of the lock channel.[^12] The governments involved decided to complete the lock first to minimise disruption to shipping during the rest of the construction. The lock was placed at the Johor end of the Causeway because it had more suitable approaches than the Woodlands side, and the approach would also cause less disruption to the existing ferry services.
 
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img5.jpg)
 <div style="background-color:white;"> 
 A close-up view of the Causeway’s lock channel in use by small ships, c. 1925. It is in the open position. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i></div>
 
@@ -89,7 +89,7 @@ At around the same time, the British Admiralty raised objections to the dimensio
 By then, the construction of the lock at the Johor end was well advanced and the north wall of the lock was half completed. In addition, the first two lengths of the east and west wing-walls of the lock had been built, and the eastern portion of the watertight cofferdam enclosing the south wall of the lock was ready for closing, allowing workers to work on the lock in dry conditions.
 
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img6.jpg)
 <div style="background-color:white;"> Construction of cofferdam (temporary enclosure for workers to work in a waterlogged environment) at the east end of the lock and concreting of apron in progress, June 1921. Both locals and Europeans worked together to complete the Causeway. <i>Courtesy of National Archives of Malaysia. </i></div>
 
 
@@ -100,7 +100,7 @@ At the end of 1921, all excavation and concrete works had been completed on the 
 
 By July 1922, rubble deposits on both sides of the Causeway had reduced the gap remaining in the superstructure to just 1,300 ft (396 m) at low tide. At this point, a coating of rubble was deposited over the gap to prevent any scouring of the bottom due to the increased velocity of currents in the narrowing channel. Work on the superstructure of the Causeway resumed after this precautionary measure had been taken.
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img7.jpg)
 <div style="background-color:white;"> View of the Bukit Timah quarry from the top showing the incline and arrangement of roads, January 1922. This quarry opened towards the end of 1921 and began supplying to the Woodlands end of the Causeway from January 1922 onwards. <i>Courtesy of National Archives of Malaysia. </i></div>
 
 
@@ -118,6 +118,12 @@ The first passenger train across the Causeway was the night mail, which left Kua
 30 September 1923, arriving at Tank Road station at 7.41 am on 1 October. On board was none other than P.A. Anthony, the former general manager of FMSR. The _Straits Times_ described the first passenger train as “a big train, including twelve bogey carriages and forming an imposing display of rolling stock for the auspicious occasion”. And perhaps with a tinge of nostalgia, the _Straits Times_ reporter added: “The ferry across the Straits is now a thing of the past, all trains crossing the Causeway.”[^20] The daily schedule included a day mail and a night mail from both destinations. On 1 October 1923, the Johor Causeway Toll was also introduced for both passenger and goods traffic conveyed over the Causeway, replacing the earlier ferry charges.
 
 The Causeway was officially completed on 11 June 1924. The final phase of the works included finishing touches to the east wing-wall of the lock, repainting the insides of the lock gates, cleaning and painting the capstans, fairleads and machinery pit covers, and grouting the joints of the pitching behind the east end of the lock. The roadway was completed except for a small portion at the Woodlands end, which was deferred until the railway track was moved to its final position — the second railway track had not been laid yet at the time of the opening. The crossing gates were handed over to the Railway Department in June.&nbsp;
+
+
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img8.jpg)
+<div style="background-color:white;">The lock channel at the Johor Bahru end of the Causeway showing the rolling lift-bridge in open position, level-crossing gates and the operating cabin, June 1924. The lift-bridge was electrically operated by a 35-horsepower motor but could also be manually operated. The level-crossing gates placed on both sides of the lock were mechanically operated and were controlled from the operating cabin. The speed limit in 1924 was 10 mph. <i>Courtesy of National Archives of Malaysia.</i></div>
+
+
 
 The successful completion of the Causeway three months ahead of the stipulated date was a creditable reflection on the diligence, expertise and experience of the engineers and contractors. Credit is also due to the staff and labourers, who worked in temperatures that could reach 89 to 90 degrees Fahrenheit (27 to 32 degrees Celsius) and who also bore with rainy spells that accounted for an average loss of two working days a month.&nbsp;
 
