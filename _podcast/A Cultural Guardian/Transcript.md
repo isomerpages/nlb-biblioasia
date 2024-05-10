@@ -6,11 +6,8 @@ description: ""
 third_nav_title: A Cultural Guardian
 ---
 <p>[Music playing]</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>In 1986, Times Books published a Malay cookbook titled <em>Hidangan Warisan Kita</em>.
+<br>In 1986, Times Books published a Malay cookbook titled <em>Hidangan Warisan Kita</em>.
 The name, which translates as “Our Heritage Dishes”, was an important book,
 because it was the publisher’s first all-Malay cookbook. The book contains
 178 traditional recipes and was written by Hajah Asfiah Haji Abdullah,
@@ -18,237 +15,149 @@ who’s also known as Cikgu Asfiah. Cikgu Asfiah has been described as a
 teacher and guardian of traditional Malay culture. In addition to writing
 a cookbook, she was a well-known <em>mak andam</em>, which is a Malay wedding
 attendant, and her stall was a regular fixture at the annual Ramadan food
-fare at Bussorrah Street. In addition, she was a teacher all her life.</p>
-<p>&nbsp;</p>
-<p>I’m Jimmy Yap, and Toffa Abdul Wahed is with me to talk about Cikgu Asfiah.
+fare at Bussorrah Street. In addition, she was a teacher all her life.&nbsp;
+<br>
+<br>I’m Jimmy Yap, and Toffa Abdul Wahed is with me to talk about Cikgu Asfiah.
 Toffa is a Librarian at the National Library of Singapore, and she was
 also a guest in an episode of the National Library’s cooking show “From
 Book to Cook”. In that episode, she made a dish from Cikgu Asfiah’s cookbook
-called <em>bunga kobis.</em>
-</p>
-<p>&nbsp;</p>
-<p>Hi Toffa, welcome to BiblioAsia+.</p>
-<p>&nbsp;</p>
+called <em>bunga kobis.</em>&nbsp;</p>
+<p>Hi Toffa, welcome to BiblioAsia+.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Hi, Jimmy.</p>
-<p>&nbsp;</p>
+<br>Hi, Jimmy.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Thank you for joining us today. I’m very excited that you’re here with
+<br>Thank you for joining us today. I’m very excited that you’re here with
 us again to talk about – this time about another cookbook author, Cikgu
 Asfiah. And you know, what I’m really intrigued about is that, you know,
 you took a dish from Cikgu Asfiah’s cookbook and made it for the National
-Library’s cooking show. What’s it called?</p>
-<p>&nbsp;</p>
+Library’s cooking show. What’s it called?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>It’s called <em>bunga kobis</em>.</p>
-<p>&nbsp;</p>
+<br>It’s called <em>bunga kobis</em>.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Ah it’s called <em>bunga kobis</em>. And it’s actually a dish I’ve never
+<br>Ah it’s called <em>bunga kobis</em>. And it’s actually a dish I’ve never
 heard of. You know, tell us a bit about this dish, what is <em>bunga kobis</em>.
-Is it really a flower of the cabbage?</p>
-<p>&nbsp;</p>
+Is it really a flower of the cabbage?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Yes. Okay, so <em>bunga</em> in Malay means flower. <em>Kobis</em> means cabbage.
+<br>Yes. Okay, so <em>bunga</em> in Malay means flower. <em>Kobis</em> means cabbage.
 So, when you look at the finished dish, once you’ve made it – a laboriously
 long process of making the <em>bunga kobis</em> – you’re supposed to cut
-it open, and it will appear as a blossoming flower.</p>
-<p>&nbsp;</p>
+it open, and it will appear as a blossoming flower.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wow. Okay.</p>
-<p>&nbsp;</p>
+<br>Wow. Okay.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Like a flower – <em>bunga</em>. Yeah.</p>
-<p>&nbsp;</p>
+<br>Like a flower – <em>bunga</em>. Yeah.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That sounds very pretty. Can you describe it?</p>
-<p>&nbsp;</p>
+<br>That sounds very pretty. Can you describe it?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Okay, like you, I hadn’t heard of the dish before. So <em>bunga kobis</em> is
-what Cikgu Asfiah classifies under <em>gubahan</em>.</p>
-<p>&nbsp;</p>
+<br>Okay, like you, I hadn’t heard of the dish before. So <em>bunga kobis</em> is
+what Cikgu Asfiah classifies under <em>gubahan</em>.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>What does that mean?</p>
-<p>&nbsp;</p>
+<br>What does that mean?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p><em>Gubahan</em> is the Malay word for a composition or an arrangement.
+<br><em>Gubahan</em> is the Malay word for a composition or an arrangement.
 And in the culinary context, it could refer to an elaborately arranged
 or prepared dish that consists of several components from garnish to decorative
-items. To create, in a sense, a dish that is complete and visually appealing.</p>
-<p>&nbsp;</p>
+items. To create, in a sense, a dish that is complete and visually appealing.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Was it a special dish?</p>
-<p>&nbsp;</p>
+<br>Was it a special dish?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>It was. <em>Gubahan</em> is usually used as part of the <em>hantaran</em>.
+<br>It was. <em>Gubahan</em> is usually used as part of the <em>hantaran</em>.
 So <em>hantaran</em> in Malay means “a gift”. Okay the word <em>hantar</em> is
 to deliver or to send something. So, for instance, at a wedding, the bridal
 party would send gifts or <em>hantaran</em> to the groom and vice versa.
 So <em>bunga kobis</em> was, at a certain point of time, a popular and trendy
-dish to include in your <em>hantaran</em>.</p>
-<p>&nbsp;</p>
+dish to include in your <em>hantaran</em>.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>How would you describe this dish?</p>
-<p>&nbsp;</p>
+<br>How would you describe this dish?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>It is a multi-layered <em>murtabak</em>, not pan fried or griddle fried,
+<br>It is a multi-layered <em>murtabak</em>, not pan fried or griddle fried,
 but deep fried. So, it consists of making dough – pastry dough – and then
 making your filling. So, in this case, it’s minced beef or minced meat
 that’s been stir fried and cooked with aromatics – cumin, coriander seed,
 fennel, some onion, chili and Chinese celery. Yeah. And then, you would
 then put the filling in, wrap the dough up into, like, a parcel, and then
-fry it, deep fry it.</p>
-<p>&nbsp;</p>
+fry it, deep fry it.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p>&nbsp;</p>
+<br>Okay.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>But that’s not where it stops, because you have to do this process another
+<br>But that’s not where it stops, because you have to do this process another
 five times to create six layers. So, it’s like inception. It’s a puzzle
-within a puzzle.</p>
-<p>&nbsp;</p>
+within a puzzle.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah. Okay. That sounds quite cool.</p>
-<p>&nbsp;</p>
+<br>Yeah. Okay. That sounds quite cool.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>And when you cut it open, it looks like the layers of a cabbage.</p>
-<p>&nbsp;</p>
+<br>And when you cut it open, it looks like the layers of a cabbage.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Hence the name.</p>
-<p>&nbsp;</p>
+<br>Hence the name.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Yes. Hence the <em>bunga kobis</em> name.</p>
-<p>&nbsp;</p>
+<br>Yes. Hence the <em>bunga kobis</em> name.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You’ve never made this dish before until, you know, we asked you to.</p>
-<p>&nbsp;</p>
+<br>You’ve never made this dish before until, you know, we asked you to.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>That’s right.</p>
-<p>&nbsp;</p>
+<br>That’s right.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Why did you pick this dish? It sounds very hard, I would say.</p>
-<p>&nbsp;</p>
+<br>Why did you pick this dish? It sounds very hard, I would say.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Yeah. It would be the last dish I would pick. I chose this dish after
+<br>Yeah. It would be the last dish I would pick. I chose this dish after
 much deliberation and actually after speaking to Khir Johari, the author
 of <em>The Food of Singapore Malays</em>, which was published in 2021. I
 spoke to him to learn more about Hajah Asfiah, or Cikgu Asfiah, right.
 And talked about, you know, possibly which dish to make. And he was like,
 “You’ve got to make this. <em>Bunga kobis</em>, this is the pièce de résistance
 of, you know, Malay wedding <em>hantaran</em>. This dish is actually on
-the book cover of <em>Hidangan Warisan Kita</em>.</p>
-<p>&nbsp;</p>
+the book cover of <em>Hidangan Warisan Kita</em>.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I see.</p>
-<p>&nbsp;</p>
+<br>I see.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>But before I agreed or rather decided to make this dish for the episode
+<br>But before I agreed or rather decided to make this dish for the episode
 of “From Book to Cook”, I asked my mum whether she knew anything about
 it. And my mum was like, “I’m not sure, you should ask your aunty, who
 was a <em>mak andam</em>, like Asfiah.” Yeah. So, I asked my aunt and she
 was like, “Oh, I made it for your mum’s wedding. How could she forget?”
 So, I went to find the photos of my parents’ wedding. And, yeah, there
-it was. Her bridal party.</p>
-<p>&nbsp;</p>
+it was. Her bridal party.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Your mum’s bridal party?</p>
-<p>&nbsp;</p>
+<br>Your mum’s bridal party?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Yeah. She had given this as one of the <em>hantaran</em> gifts to my dad’s
-side.</p>
-<p>&nbsp;</p>
+<br>Yeah. She had given this as one of the <em>hantaran</em> gifts to my dad’s
+side.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And so you actually have a photograph in the family album? The wedding
-album?</p>
-<p>&nbsp;</p>
+<br>And so you actually have a photograph in the family album? The wedding
+album?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Yes. There in the corner, the blossoming cabbage.</p>
-<p>&nbsp;</p>
+<br>Yes. There in the corner, the blossoming cabbage.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>How amazing.</p>
-<p>&nbsp;</p>
+<br>How amazing.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Yeah.</p>
-<p>&nbsp;</p>
+<br>Yeah.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Was that what convinced you to make it?</p>
-<p>&nbsp;</p>
+<br>Was that what convinced you to make it?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>I think so. I was like, okay, this was a dish that was present at my parents’
+<br>I think so. I was like, okay, this was a dish that was present at my parents’
 wedding, and I would like to give it a go, taste it for myself. And yeah,
-honour that, you know, as a homage to my parents in a way.</p>
-<p>&nbsp;</p>
+honour that, you know, as a homage to my parents in a way.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s wonderful. Was it a hard dish to master?</p>
-<p>&nbsp;</p>
+<br>That’s wonderful. Was it a hard dish to master?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>It put me totally out of my comfort zone, because, firstly, [of] two very
+<br>It put me totally out of my comfort zone, because, firstly, [of] two very
 technical things. Firstly, deep frying, and secondly making pastry dough.
-Yeah. I practiced it three times before I had to cook it for the episode.</p>
-<p>&nbsp;</p>
+Yeah. I practiced it three times before I had to cook it for the episode.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Did you get better each time? I hope you did.</p>
-<p>&nbsp;</p>
+<br>Did you get better each time? I hope you did.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Yeah. The first time was a total failure. I was like, “Why did I choose
-this dish? Maybe I should change it to another dish.”</p>
-<p>&nbsp;</p>
+<br>Yeah. The first time was a total failure. I was like, “Why did I choose
+this dish? Maybe I should change it to another dish.”&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>What happened?</p>
-<p>&nbsp;</p>
+<br>What happened?&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Okay, so in the process of making the layers right, you must make sure
+<br>Okay, so in the process of making the layers right, you must make sure
 that you do not tear any of the layers once there’s a hole or a breach
 in the structure of this <em>bunga kobis</em>, oil would seep in and basically
-flood the insides of your dish and [make] the dough very soggy. So yes.</p>
-<p>&nbsp;</p>
+flood the insides of your dish and [make] the dough very soggy. So yes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, so that was attempt number one.</p>
-<p>&nbsp;</p>
+<br>Okay, so that was attempt number one.&nbsp;</p>
 <p><strong>Toffa</strong>
-</p>
-<p>Yeah. And also, like the equipment I used – not ideal. But I did follow
+<br>Yeah. And also, like the equipment I used – not ideal. But I did follow
 the recipe that Cikgu Asfiah put out because she wrote to use either a
 wok or a pot. So, I chose a wok because I didn’t have a deep enough pot
 for this dish. Because when you make the layers right, the <em>kueh</em> itself,
