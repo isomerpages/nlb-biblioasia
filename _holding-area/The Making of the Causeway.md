@@ -152,13 +152,13 @@ This is an edited extract from <i>The Causeway</i> (2011), jointly published by 
 [^7]: _Proceedings of the Federal Council of the Federated Malay States_, 13 November 1917, B57;&nbsp; The National Archives, United Kingdom, [Extract of Letter from Messrs Coode, Matthews, Fitzmaurice &amp; Wilson to Crown Agents](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/private_records/record-details/26dc86a3-47e7-11e6-b4c5-0050568939ad). (From National Archives of Singapore, accession no. CO 273/462), 267
 
 
-[^8]: “The Causeway: A Great Engineering Work Completed,” _Straits Times_, 27 June 1924, 9. (From NewspaperSG)
+[^8]: “[The Causeway: A Great Engineering Work Completed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240627-1.2.63),” _Straits Times_, 27 June 1924, 9. (From NewspaperSG)
 
 
-[^9]:  “The Causeway: A Great Engineering Work Completed.”
+[^9]:  “[The Causeway: A Great Engineering Work Completed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240627-1.2.63).”
 
 
-[^10]: The National Archives, United Kingdom, “Johore State Railway Construction – Johore Singapore Connection Causeway,” 1 January 1916–31 December 1926. (From National Archives of Singapore, accession no. CAOG 10/50 E358/4A), 39–45.
+[^10]: The National Archives, United Kingdom, “[Johore State Railway Construction – Johore Singapore Connection Causeway](https://www.nas.gov.sg/archivesonline/private_records/record-details/e4f472fe-115b-11e3-83d5-0050568939ad),” 1 January 1916–31 December 1926. (From National Archives of Singapore, accession no. CAOG 10/50 E358/4A), 39–45.
 
 
 [^11]: “The King’s Dock,” _Straits Times_, 27 August 1913, 10; “Empire Docks,” _Straits Times_, 7 February 1919, 47; “Empire Dock,” _Straits Times_, 26 October 1917, 10. (From NewspaperSG)
