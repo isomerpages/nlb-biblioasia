@@ -150,6 +150,6 @@ This brief survey only touches the surface of what is available in the Singapore
 
 [^22]: British Royal Air Force, “[Part of a Series of Aerial Photographs Showing Central Singapore](https://www.nas.gov.sg/archivesonline/photographs/record-details/ba2cde3f-1162-11e3-83d5-0050568939ad),” 17 February 1946, photograph. (From National Archives of Singapore, accession no. 158270)
 
-[^23]: [Xinjiapo fujian huiguan zhencang]: Tianfu gong erzhan qijian chanye dengji ji xiangguan wénjian, 1942–1948&nbsp;[\[新加坡福建会馆珍藏\]:&nbsp;天福宫二战期间产业登记及相关文件, 1942–1948](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205715476)&nbsp;\[Singapore Hokkien Huay Kuan Collection\]: Thian Hock Keng Industrial Registration and Related Documents During World War II, 1942–1948 (\[新加坡\], 1942–1948). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP-\[HHK\])
+[^23]: [Xinjiapo fujian huiguan zhencang] : Tianfu gong erzhan qijian chanye dengji ji xiangguan wénjian, 1942–1948&nbsp;[\[新加坡福建会馆珍藏\]:&nbsp;天福宫二战期间产业登记及相关文件, 1942–1948](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205715476)&nbsp;\[Singapore Hokkien Huay Kuan Collection\]: Thian Hock Keng Industrial Registration and Related Documents During World War II, 1942–1948 (\[新加坡\], 1942–1948). (From National Library, Singapore, call no. Chinese RCLOS 369.25957 XJP-\[HHK\])
 
 [^24]: Ratnala Thulaja Naidu, “[Chinese Villages in the North](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d9bead6a-36c2-4c51-84f6-027b977d94a1),” in _Singapore Infopedia_. National Library Board Singapore. Article published 2005.
