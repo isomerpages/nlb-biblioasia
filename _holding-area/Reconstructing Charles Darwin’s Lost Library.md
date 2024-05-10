@@ -65,7 +65,7 @@ That was only the beginning though. Darwin’s manuscripts and private papers we
 <div style="background-color:white;"> Emma Darwin, aged 31 in 1839, the wife of Darwin. Watercolour by George Richmond. Her diaries were made available on Darwin Online in 2007. <i>Courtesy of the Darwin Heirlooms Trust.</i></div>
 
 
-In 2010, NUS invited me to Singapore to continue my research and zoological historian Dr Kees Rookmaaker, who worked with me on Darwin Online, came with me. Together, we created [Wallace Online](wallace-online.org), a complete edition of the writings of the great naturalist, Alfred Russel Wallace, who explored Southeast Asia between 1854 and1862 and independently came up with a theory of evolution by natural selection similar to Darwin’s.
+In 2010, NUS invited me to Singapore to continue my research and zoological historian Dr Kees Rookmaaker, who worked with me on Darwin Online, came with me. Together, we created [Wallace Online](https://wallace-online.org), a complete edition of the writings of the great naturalist, Alfred Russel Wallace, who explored Southeast Asia between 1854 and1862 and independently came up with a theory of evolution by natural selection similar to Darwin’s.
 
 In 2014, while in Singapore, we reconstructed and put online the entire 400-volume library that had been aboard Darwin’s ship, [HMS _Beagle_](https://darwin-online.org.uk/BeagleLibrary/Beagle_Library_Catalogue.htm). Most of that library’s contents had been reconstructed by the editors of _The Correspondence of Charles Darwin_. I was able to add more titles from my own research, especially from editing _Charles Darwin’s Notebooks from the Voyage of the Beagle_, a book published by Cambridge University Press in 2009.&nbsp;
 
