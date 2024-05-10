@@ -69,6 +69,10 @@ In 2010, NUS invited me to Singapore to continue my research and zoological hist
 
 In 2014, while in Singapore, we reconstructed and put online the entire 400-volume library that had been aboard Darwin’s ship, [HMS _Beagle_](https://darwin-online.org.uk/BeagleLibrary/Beagle_Library_Catalogue.htm). Most of that library’s contents had been reconstructed by the editors of _The Correspondence of Charles Darwin_. I was able to add more titles from my own research, especially from editing _Charles Darwin’s Notebooks from the Voyage of the Beagle_, a book published by Cambridge University Press in 2009.&nbsp;
 
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img6s.jpg)
+<div style="background-color:white;"> HMS&nbsp;<i>Beagle</i>&nbsp;in the Straits of Magellan, In the distance is&nbsp;Mount Sarmiento. This illustration is the frontispiece of Darwin’s&nbsp;<i>Journal of Researches into the Natural History and Geology of the Various Countries Visited by H.M.S. Beagle etc</i>., the illustrated edition published in 1890 by John Murray. <i>From Darwin Online. </i></div>
+
+
 
 ![](/images/Vol%2020%20Issue%202/Darwin/darwin_img6.jpg)
 <div style="background-color:white;"> After his voyage on HMS <i>Beagle</i>, Darwin observed that the Galápagos finches with different beak shapes showed that one ancestral species had evolved over time into 13 new species. <i>From Darwin Online. </i></div>
