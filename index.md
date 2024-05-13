@@ -943,4 +943,13 @@ sections:
       url: /videos/bunga-kobis/
       image: "/images/Videos: From Book to Cook/3Bunga Kobis/Bunga_Kobis.jpg"
       alt: Image alt text
+  - infopic:
+      title: "Hajah Asfiah: A Guardian for Traditional Malay Culture   "
+      subtitle: Podcast
+      id: infopic
+      description: "A tireless steward of Malay culture, Hajah Asfiah worked all her
+        life to preserve and pass on Malay crafts.  "
+      button: Listen to BiblioAsia+
+      url: /podcast/hajah-asfiah-guardian-traditional-malay-culture/
+      alt: Image alt text
 ---
