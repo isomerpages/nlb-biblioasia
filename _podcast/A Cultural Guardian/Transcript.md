@@ -7,7 +7,7 @@ third_nav_title: A Cultural Guardian
 ---
 <p>[Music playing]</p>
 <p><strong>Jimmy</strong> 
-<br>In 1986, Times Books published a Malay cookbook titled <em>Hidangan Warisan Kita</em>.
+<br>In 1986, Times Books published a Malay cookbook titled <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080178" rel="noopener noreferrer nofollow" target="_blank"><u>Hidangan Warisan Kita</u></a></em>.
 The name, which translates as “Our Heritage Dishes”, was an important book,
 because it was the publisher’s first all-Malay cookbook. The book contains
 178 traditional recipes and was written by Hajah Asfiah Haji Abdullah,
