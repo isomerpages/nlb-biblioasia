@@ -17,7 +17,7 @@ This book represented many firsts. It was the first time that Times had publishe
 
 After the book was published, _Straits Times_ journalist Haron Abdul Rahman noted that this was possibly the first of its kind – a Malay cookbook in hardcover no less. This achievement was, he suggested, not so surprising given that “Hajah Asfiah Haji Abdullah, the authoress of _Hidangan Warisan Kita_, is a rare woman where preserving Malay heritage and upholding Malay culture and traditions are concerned”.6
 
-A Champion of Malay Culture, Tradition and Artistry
+#### **A Champion of Malay Culture, Tradition and Artistry**
 
 Born in 1920 in Kampong Gelam, Asfiah began learning the art of making Malay _kuih_ from her mother when she was just 6 years old. She also helped out at her mother’s food stall in front of their house on Bussorah Street, directly behind Sultan Mosque, during the Muslim fasting month of Ramadan. “My mother taught me how to bake Malay cakes which she herself was very good at. Then I was sent to Rochore Malay Girls’ School, where I learnt handicrafts like embroidery and flower-making,” she told the _Straits Times_ in an interview in June 1986.7
 
@@ -36,3 +36,37 @@ Asfiah developed a profound interest in _kesenian Melayu lama_ (traditional Mala
 Asfiah went on to become a well-known and esteemed _mak andam_, a role that she performed for some 20 years. “I must have been a _Mak Andam_ for more than 1,000 brides,” she told the _Straits Times_ in 1986. “I have many fond memories of these occasions, like when I refused to let the best man bring in the groom unless he could answer my _pantun_ (rhyming riddle).” She revealed there had been instances when the best man became so irritated that he would stomp off, leaving the hapless groom behind.15
 
 Asfiah’s remarkable skills and knowledge as a _mak andam_ also led to numerous engagements and invitations from cultural organisations. These include Persatuan Kebudayaan Melayu Singapura (PKMS; Society of Malay Culture, Singapore) and Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu Singapura (Central Council of Malay Cultural Organisations Singapore), who recognised her as a valuable advocate for preserving Malay heritage and culture.
+
+#### **Membership in Malay Organisations and Associations**
+
+Asfiah's involvement in PKMS dates back to the early 1960s when she joined as a dedicated member. She was elected as the vice-chairperson in 1971, making her the sole female member on the executive committee at the time. This role allowed her to work alongside prominent figures within the Malay community, including Mahmud Ahmad, the chairperson, and Abdul Ghani Hamid, the secretary.16
+
+Notably, in 1973, Asfiah played a pivotal role in the establishment of the Women’s Wing of PKMS, which aimed to promote and advance traditional handicrafts among local women. She was also elected as its vice-chairperson.17
+
+Within PKMS, one of her major contributions was a regular course she ran for women titled “Seni Usaha Daya” (The Art of Effort and Ability) at Jalan Eunos in the early 1970s. The course, which was offered at $30 and open to the public, consisted of 12 weekly classes on Malay handicrafts, including embroidery and needlework, flower arrangement, making flowers from craft materials, and arranging the _tepak sirih_ (ceremonial betel box used in Malay weddings) and _sirih dara_ (an arrangement of betel leaves and flowers to symbolise a bride’s chastity). Every participant received a certificate upon passing the course.18
+
+The course revived interest in Malay traditional arts and empowered the participants, many of whom subsequently pursued a career as a _mak andam_. The popular course could have as many as 100 students. Most of those who enrolled were housewives.19  
+
+The PKMS also organised exhibitions showcasing the students’ handiwork. For instance, after the completion of a course in 1972, Asfiah hosted a small exhibition at her residence which ran for two days. Visitors lauded the women's resourcefulness in producing captivating works on a budget. In an interview with _Berita Harian_, Asfiah reiterated that there was a need to pass down ancestral knowledge to younger generations, as many lacked the skills to create these traditional pieces particularly items for weddings. She emphasised the rarity of such items and proposed updating them to appeal to modern tastes, especially tourists unfamiliar with these cultural treasures.20
+
+Asfiah’s association with Majlis Pusat and its women’s department began in the early 1980s. Despite not holding any leadership positions in this organisation, she participated in numerous activities from conducting classes on the cultural arts to organising exhibitions, just like she did with PKMS. 
+
+In 1981, she had about 30 of her _sanggul_ (embellished hairbun) creations displayed in an exhibition by Majlis Pusat titled “Pameran Seni Budaya” (Cultural Arts Exhibition) held at the National Museum. The exhibition was one of the programmes offered as part of the inaugural Pesta Budaya Melayu (Malay Culture Festival), also organised by Majlis Pusat, from 6 to 15 March. It was touted as the “first large-scale Malay cultural festival in Singapore”.21
+
+Kasminah Bakron, a 24-year-old clerk who visited the exhibition, was amazed by the artistry of the products and went on to enrol in a course taught by Asfiah and organised by the women’s wing of Majlis Pusat. She said: “Saya terpesona melihat kehalusan orang-orang Melayu lama dalam kerja-kerja tangan seperti menggubah, tekad-menekad \[_sic_\] dan adat-adat lain, seperti bilik pengantin, yang kita mungkin tidak tahu erti sebenarnya jika tidak mengikuti kursus seperti ini.” (“I am fascinated by the finesse of the Malays from the older generations in handiwork such as flower arrangement, _tekat_ and other customs, such as \[those related to\] the bridal chamber, which we may not truly understand if we do not attend courses like this.”)22
+
+#### **A Dream Come True**
+
+Since the 1970s, Asfiah had been advocating for books to be written on various aspects of Malay culture. Speaking at a Hari Raya Aidilfitri gathering organised by the women’s wing of Majlis Pusat in August 1980, Asfiah emphasised the need to document the types and methods of cooking Malay dishes, and preserve traditional makeup techniques to ensure that traditions of the Malay community would not fade into obscurity. She said: “Kalau wanita-wanita muda hari ini tidak mahu belajar cara masakan kita kerana dianggapnya leceh, maka dengan sendirinya masakan Melayu akan hilang ditelan zaman.” (“If young women today do not wish to learn \[how to cook\] our dishes because they perceive them as troublesome \[to make\], then on its own Malay cuisine will be lost to time.”)23
+
+Asfiah had wanted to publish a Malay cookbook for many years before her dream came true in 1986. “I have always wanted to place on record some aspects of Malay culture, such as our food and customs. This is a chance to keep some of this for posterity,” she said in an interview.24 
+
+Prior to _Hidangan Warisan Kita_, _Berita Harian_ reported in July 1971 that Asfiah had compiled three manuscripts aimed at providing general guidance to women.  
+
+The first, titled _Seni Usaha_ (The Art of Effort), has instructions on creating handmade items and is accompanied with illustrations. The second, _Seni Usaha Daya_ (The Art of Effort and Ability), delves into the realm of handicrafts and household management. The last, _Seni Ayu Pusaka Ibu_ (Gentle Art Inherited from Mothers), is a tribute to ancestral art and values.25 It is likely that Asfiah never got a publisher for these manuscripts, or that they were only reproduced cheaply for use in her classes as teaching aids.
+
+Speaking to the _Straits Times_ in August 1986, Asfiah said with tears in her eyes: “I feel very sad when I see my former students compiling recipes and selling them in a cyclostyled booklet form. How long can such booklets last? How effective are such efforts? No, that wouldn’t do. A book has to be published, preferably with a hard cover, so as to give such efforts a chance for permanency.”26
+
+Asfiah began writing _Hidangan Warisan Kita_ in 1984. On top of facing difficulties typing and concentrating due to her age, she also could not find help initially in the writing of the manuscript. Her family eventually played a crucial role in bringing her dream to fruition when her daughter Salamah, son Khairul Anuar and grandson Asrin, became involved in the book's production. Margaret Sullivan’s feature about Asfiah in her book also caught the attention of Times Books, which eventually became her publisher, leading to the realisation of her dream at the age of 65.27
+
+In her dedication, Asfiah wrote: “Buat suami, anak-anak dan cucu-cucu yang banyak memberi perangsang dan galakan dan buat semua anak bangsa yang gemarkan masakan tradisi kita.” (“\[To\] my husband, children and grandchildren who had given me a lot of encouragement and to all Malays who love our traditional cuisine.”)28 Slightly more than a year after the publication of the book, Asfiah died at her home on Bussorah Street in August 1987.29 Through her perseverance and dedication, Asfiah’s dream of sharing her heritage with future generations lives on in the pages of _Hidangan Warisan Kita_.
