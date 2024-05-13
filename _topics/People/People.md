@@ -9,7 +9,7 @@ variant: markdown
 
 Almost 20 years of painstaking scouring and sleuth work have resulted in what is probably the largest and most comprehensive resource on Charles Darwin.
 
-<img src="/images/Vol%2020%20Issue%202/Darwin/van_Wyhe_library_.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%202/Darwin/van_Wyhe_library_right.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/">Pioneering Local Journalist R.B. Ooi</a>
