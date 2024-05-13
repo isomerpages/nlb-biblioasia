@@ -922,4 +922,14 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: The Singapore Hokkien Huay Kuan Collection
+      subtitle: Collection Highlights
+      id: infopic
+      description: Materials donated by the Singapore Hokkien Huay Kuan offer unique
+        perspectives into the history of the Hokkien community here.
+      button: An 1828 land title deed
+      url: /vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/
+      image: /images/Vol 20 Issue 2/Hokkien/hokkien_img3.jpg
+      alt: Image alt text
 ---
