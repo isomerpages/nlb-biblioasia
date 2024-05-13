@@ -18,6 +18,17 @@ sections:
       background: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/conquering_everest_hero_img.png
   - infopic:
+      title: Reconstructing Charles Darwin’s Lost Library
+      subtitle: People
+      id: infopic
+      description: Almost 20 years of painstaking scouring and sleuth work have
+        resulted in what is probably the largest and most comprehensive resource
+        on Charles Darwin.
+      button: Uncovering Hidden Gems
+      url: /vol-20/issue-2/jul-sep-2024/charles-darwin-library/
+      image: /images/Vol 20 Issue 2/Darwin/van_Wyhe_library_.jpg
+      alt: Image alt text
+  - infopic:
       title: "Hajah Asfiah: A Guardian for Traditional Malay Culture"
       subtitle: Podcast
       id: infopic
@@ -953,15 +964,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: Reconstructing Charles Darwin’s Lost Library
-      subtitle: People
-      id: infopic
-      description: Almost 20 years of painstaking scouring and sleuth work have
-        resulted in what is probably the largest and most comprehensive resource
-        on Charles Darwin.
-      button: Uncovering Hidden Gems
-      url: /vol-20/issue-2/jul-sep-2024/charles-darwin-library/
-      image: /images/Vol 20 Issue 2/Darwin/van_Wyhe_library_.jpg
-      alt: Image alt text
 ---
