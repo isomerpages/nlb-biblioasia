@@ -31,7 +31,7 @@ The wagon-ferries were so successful that demand for its services soon surpassed
 
 
 ![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img3.jpg)
-<div style="background-color:white;">The wagon-ferry jetty in Johor Bahru, August 1919. The hauling engine house or powerhouse on the left contained the winding machinery for hauling travellers to and from the wagon-ferries.<i>Courtesy of National Archives of Malaysia. </i></div>
+<div style="background-color:white;">The wagon-ferry jetty in Johor Bahru, August 1919. The hauling engine house or powerhouse on the left contained the winding machinery for hauling travellers to and from the wagon-ferries. <i>Courtesy of National Archives of Malaysia. </i></div>
 
 
 
