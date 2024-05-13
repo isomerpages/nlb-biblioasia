@@ -7,7 +7,7 @@ third_nav_title: A Cultural Guardian
 ---
 <p>[Music playing]</p>
 <p><strong>Jimmy</strong> 
-<br>In 1986, Times Books published a Malay cookbook titled <em>Hidangan Warisan Kita</em>.
+<br>In 1986, Times Books published a Malay cookbook titled <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080178" rel="noopener noreferrer nofollow" target="_blank"><u>Hidangan Warisan Kita</u></a></em>.
 The name, which translates as “Our Heritage Dishes”, was an important book,
 because it was the publisher’s first all-Malay cookbook. The book contains
 178 traditional recipes and was written by Hajah Asfiah Haji Abdullah,
@@ -19,9 +19,8 @@ fare at Bussorrah Street. In addition, she was a teacher all her life.&nbsp;
 <br>
 <br>I’m Jimmy Yap, and Toffa Abdul Wahed is with me to talk about Cikgu Asfiah.
 Toffa is a Librarian at the National Library of Singapore, and she was
-also a guest in an episode of the National Library’s cooking show “From
-Book to Cook”. In that episode, she made a dish from Cikgu Asfiah’s cookbook
-called <em>bunga kobis.</em>&nbsp;</p>
+also a guest in an episode of the National Library’s cooking show <em>From Book to Cook</em>.
+In that episode, she made a dish from Cikgu Asfiah’s cookbook called <em><a href="https://biblioasia.nlb.gov.sg/videos/bunga-kobis/" rel="noopener noreferrer nofollow" target="_blank">bunga kobis</a>.</em>&nbsp;</p>
 <p>Hi Toffa, welcome to BiblioAsia+.&nbsp;</p>
 <p><strong>Toffa</strong> 
 <br>Hi, Jimmy.&nbsp;</p>

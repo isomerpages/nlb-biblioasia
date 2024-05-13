@@ -5,12 +5,13 @@ variant: markdown
 description: Almost 20 years of painstaking scouring and sleuth work have
   resulted in what is probably the largest and most comprehensive resource on
   Charles Darwin.
+image: /images/Vol 20 Issue 2/Darwin/darwin_img1b.jpg
 ---
 #### Almost 20 years of painstaking scouring and sleuth work have resulted in what is probably the largest and most comprehensive resource on Charles Darwin.
 By John van Wyhe
 
 
-![](/images/Vol%2020%20Issue%202/Darwin/darwin_img1a.jpg)
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img1b.jpg)
 <div style="background-color:white;"> (Left) The only view of the back wall of&nbsp; Darwin's new study from an 1892 photograph by C.E. Corke. (Right) A week after Darwin's death on 19 April 1882, the family commissioned this copperplate etching (cropped) by Axel H. Haig. By stitching these together, we can see most of the bookshelves in Darwin's study. There were many other bookcases throughout the house. <i>From Darwin Online. </i></div>
 
 
@@ -30,7 +31,7 @@ Scholars have been studying Darwin’s life and work ever since _On the Origin o
 
 This gap has finally been filled. After 18 years of painstaking research – involving scouring numerous obscure lists and consulting unusual sources, as well as extrapolating from vague, fragmentary and handwritten notes – we have finally completed the task of cataloguing the contents of Darwin’s enormous library. We now know that Darwin’s library contained 7,494 unique titles across 13,000 volumes/items. Looking at the list, it is clear that Darwin had one of the most extensive and important private scientific libraries of the 19th century.
 
-The research that led us to recreate this library was done as part of the project, The Complete Work of Charles [Darwin Online](https://darwin-online.org.uk), or Darwin Online for short. Darwin Online has gone beyond merely cataloguing Darwin’s library; it has also reassembled this library virtually, allowing anyone to examine the works in detail. The result is an indispensable tool for scholars, scientists, researchers and students interested in the history of Victorian science.
+The research that led us to recreate this library was done as part of the project, [The Complete Work of Charles Darwin Online](https://darwin-online.org.uk), or Darwin Online for short. Darwin Online has gone beyond merely cataloguing Darwin’s library; it has also reassembled this library virtually, allowing anyone to examine the works in detail. The result is an indispensable tool for scholars, scientists, researchers and students interested in the history of Victorian science.
 
 #### **On the Origin of Darwin Scholarship**
 

@@ -23,7 +23,8 @@ lives on.
 </div>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<p>Available on: <a href="https://open.spotify.com/episode/4kSvlSQUpzOHIGVEYKv8hV" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
+<a href="https://podcasts.apple.com/us/podcast/hajah-asfiah-a-guardian-for-traditional-malay-culture/id1688142751?i=1000655363656" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, melisten.</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
@@ -71,7 +72,7 @@ KHI -[CUS])</p>
 <p>Margaret Sullivan, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=8744384" rel="noopener noreferrer nofollow" target="_blank">“Can Survive Lah” Cottage Industries in High-rise Singapore</a></em> (Singapore:
 G. Brash, 1993).</p>
 <p>Toffa Abdul Wahed, "Hajjah Asfiah Haji Abdullah," <em>BiblioAsia </em>20,
-no. 2 (October–December 2024).</p>
+no. 3 (October–December 2024).</p>
 <p>Toffa Abdul Wahed, "<a href="https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks/" rel="noopener noreferrer nofollow" target="_blank">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>," <em>BiblioAsia </em>17,
 no. 4 (January–March 2022).</p>
 <h4><br><strong>Credits</strong></h4>
