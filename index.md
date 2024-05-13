@@ -932,4 +932,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: Peeling Back the Layers of Bunga Kobis
+      subtitle: "VIDEO: FROM BOOK TO COOK"
+      id: infopic
+      description: What is bunga kobis and why was it prepared only for special
+        occasions? Join librarian Toffa Abdul Wahed as she puts together this
+        many-layered pastry.
+      button: WATCH THE VIDEO
+      url: /videos/bunga-kobis/
+      image: "/images/Videos: From Book to Cook/3Bunga Kobis/Bunga_Kobis.jpg"
+      alt: Image alt text
 ---
