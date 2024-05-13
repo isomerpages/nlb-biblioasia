@@ -4,6 +4,7 @@ permalink: /podcast/chia-boon-leong-homegrown-football-olympian/
 variant: tiptap
 description: ""
 third_nav_title: A Local Olympian
+image: /images/Podcast/isomer_Nick.jpg
 ---
 <p>Nicknamed “Twinkle Toes” for his agility, Chia Boon Leong (1925–2022)
 is widely regarded as one of Singapore‘s most talented football players.

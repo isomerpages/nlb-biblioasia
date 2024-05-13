@@ -4,6 +4,7 @@ permalink: /podcast/singapore-bands-wartime-vietnam/
 variant: tiptap
 description: ""
 third_nav_title: Wartime Entertainers
+image: /images/Podcast/isomer_Boonlai.jpg
 ---
 <p>In the 1960s and ’70s, lured by adventure and money, Singaporean musicians
 went to South Vietnam to perform for American troops during the war. They

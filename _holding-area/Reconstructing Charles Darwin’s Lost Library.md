@@ -10,8 +10,8 @@ description: Almost 20 years of painstaking scouring and sleuth work have
 By John van Wyhe
 
 
-![](/images/Vol%2020%20Issue%202/Darwin/darwin_img1.jpg)
-<div style="background-color:white;"> (Top) The only view of the back wall of&nbsp; Darwin's new study from an 1892 photograph by C.E. Corke. (Bottom) A week after Darwin's death on 19 April 1882, the family commissioned this copperplate etching (cropped) by Axel H. Haig. By stitching these together, we can see most of the bookshelves in Darwin's study. There were many other bookcases throughout the house. <i>From Darwin Online. </i></div>
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img1a.jpg)
+<div style="background-color:white;"> (Left) The only view of the back wall of&nbsp; Darwin's new study from an 1892 photograph by C.E. Corke. (Right) A week after Darwin's death on 19 April 1882, the family commissioned this copperplate etching (cropped) by Axel H. Haig. By stitching these together, we can see most of the bookshelves in Darwin's study. There were many other bookcases throughout the house. <i>From Darwin Online. </i></div>
 
 
 Charles Darwin (1809–82) is arguably the most influential scientist who ever lived. During his lifetime, he transformed the theory of evolution from ridiculed speculation to an established fact accepted by the international scientific community. The implications of this profound shift in how life on Earth is understood was immeasurable. Discussions of, and reactions to, Darwin remained common for over a century, and not only in biology and palaeontology but also in philosophy, art, literature and much more. Tens of thousands of publications have discussed Darwin’s works in dozens of countries and languages in a continuous stream that has never ceased.
@@ -30,11 +30,16 @@ Scholars have been studying Darwin’s life and work ever since _On the Origin o
 
 This gap has finally been filled. After 18 years of painstaking research – involving scouring numerous obscure lists and consulting unusual sources, as well as extrapolating from vague, fragmentary and handwritten notes – we have finally completed the task of cataloguing the contents of Darwin’s enormous library. We now know that Darwin’s library contained 7,494 unique titles across 13,000 volumes/items. Looking at the list, it is clear that Darwin had one of the most extensive and important private scientific libraries of the 19th century.
 
-The research that led us to recreate this library was done as part of the project, The Complete Work of Charles Darwin Online (darwin-online.org.uk), or Darwin Online for short. Darwin Online has gone beyond merely cataloguing Darwin’s library; it has also reassembled this library virtually, allowing anyone to examine the works in detail. The result is an indispensable tool for scholars, scientists, researchers and students interested in the history of Victorian science.
+The research that led us to recreate this library was done as part of the project, The Complete Work of Charles [Darwin Online](https://darwin-online.org.uk), or Darwin Online for short. Darwin Online has gone beyond merely cataloguing Darwin’s library; it has also reassembled this library virtually, allowing anyone to examine the works in detail. The result is an indispensable tool for scholars, scientists, researchers and students interested in the history of Victorian science.
 
 #### **On the Origin of Darwin Scholarship**
 
 Large collections of Darwin’s letters were first published by his son Francis in the years after his father’s death in 1882. This was followed by two early drafts of Darwin’s theory of evolution in 1909. About the same time, Francis donated much of his father’s scientific library to Darwin’s (and his) alma mater, the University of Cambridge. A catalogue of these books – but not the journals and pamphlets – was published in 1908. In 1929, Darwin’s family home, Down House, was made a public museum and much of his library was transferred back to its original home. (Down House is located in the London Borough of Bromley; its garden and grounds remain open to the public.)
+
+
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img10.jpg)
+<div style="background-color:white;">Down House, where Charles Darwin lived from 1842 to 1882, is today a&nbsp;public museum. It was here that he developed his theory of evolution and wrote his groundbreaking work,&nbsp;<i>On the Origin of Species by Means of Natural Selection</i>&nbsp;(1859). <i>From Darwin Online. </i></div>
+
 
 The modern age of Darwin scholarship is said to have begun with work on the enormous body of Darwin’s manuscripts and private papers acquired by Cambridge University Library in the 1940s. These were broadly catalogued in 1960, and in the mid-1970s, an ambitious project was conceived by Frederick Burkhardt, former president of the American Council of Learned Societies, to publish all the letters from and to Darwin. The 30-volume endeavour, _The Correspondence of Charles Darwin_, was finally completed in 2023 and published by Cambridge University Press.
 
@@ -53,29 +58,29 @@ In 2002, while a research fellow at the National University of Singapore (NUS), 
 
 The new site was launched in October 2006 and the news went viral. It was mentioned in hundreds of websites and newspapers around the world, and covered by renowned media outlets such as BBC Radio 4’s Today Programme, BBC Breakfast (TV), the regional BBC stations, CNN and _The Guardian_, etc. Millions of visits to the site brought the servers at Cambridge crashing down multiple times in the first 24 hours. Overnight, Darwin Online had become one of the best-known history of science projects in the world.&nbsp;
 
-That was only the beginning though. Darwin’s manuscripts and private papers were launched in 2008 when 100,000 images from the Darwin Archive in Cambridge became available, and another viral media event followed. Several other viral launches followed over the next few years such as when the diaries of Darwin’s wife, Emma, went [online](https://darwin-online.org.uk/EmmaDiaries.html) in 2007 for the first time and his newly discovered student bills in 2009.&nbsp;
+That was only the beginning though. Darwin’s manuscripts and private papers were launched in 2008 when 100,000 images from the Darwin Archive in Cambridge became available, and another viral media event followed. Several other viral launches followed over the next few years such as when the [diaries](https://darwin-online.org.uk/EmmaDiaries.html) of Darwin’s wife, Emma, went online in 2007 for the first time and his newly discovered student bills in 2009.&nbsp;
 
 
 ![](/images/Vol%2020%20Issue%202/Darwin/darwin_img3.jpg)
 <div style="background-color:white;"> Emma Darwin, aged 31 in 1839, the wife of Darwin. Watercolour by George Richmond. Her diaries were made available on Darwin Online in 2007. <i>Courtesy of the Darwin Heirlooms Trust.</i></div>
 
 
-In 2010, NUS invited me to Singapore to continue my research and zoological historian Dr Kees Rookmaaker, who worked with me on Darwin Online, came with me. Together, we created Wallace Online (wallace-online.org), a complete edition of the writings of the great naturalist, Alfred Russel Wallace, who explored Southeast Asia between 1854 and1862 and independently came up with a theory of evolution by natural selection similar to Darwin’s.
+In 2010, NUS invited me to Singapore to continue my research and zoological historian Dr Kees Rookmaaker, who worked with me on Darwin Online, came with me. Together, we created [Wallace Online](https://wallace-online.org), a complete edition of the writings of the great naturalist, Alfred Russel Wallace, who explored Southeast Asia between 1854 and1862 and independently came up with a theory of evolution by natural selection similar to Darwin’s.
 
 In 2014, while in Singapore, we reconstructed and put online the entire 400-volume library that had been aboard Darwin’s ship, [HMS _Beagle_](https://darwin-online.org.uk/BeagleLibrary/Beagle_Library_Catalogue.htm). Most of that library’s contents had been reconstructed by the editors of _The Correspondence of Charles Darwin_. I was able to add more titles from my own research, especially from editing _Charles Darwin’s Notebooks from the Voyage of the Beagle_, a book published by Cambridge University Press in 2009.&nbsp;
+
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img11.jpg)
+<div style="background-color:white;"> HMS&nbsp;<i>Beagle</i>&nbsp;in the Straits of Magellan, In the distance is&nbsp;Mount Sarmiento. This illustration is the frontispiece of Darwin’s&nbsp;<i>Journal of Researches into the Natural History and Geology of the Various Countries Visited by H.M.S. Beagle etc</i>., the illustrated edition published in 1890 by John Murray. <i>From Darwin Online. </i></div>
+
 
 
 ![](/images/Vol%2020%20Issue%202/Darwin/darwin_img6.jpg)
 <div style="background-color:white;"> After his voyage on HMS <i>Beagle</i>, Darwin observed that the Galápagos finches with different beak shapes showed that one ancestral species had evolved over time into 13 new species. <i>From Darwin Online. </i></div>
 
 
-![](/images/Vol%2020%20Issue%202/Darwin/darwin_img8.jpg)
-<div style="background-color:white;"> Skeleton of the extinct gigantic sloth, <i>Mylodon</i>. It was named by the English comparative anatomist Richard Owen based on a nearly complete lower jaw with teeth discovered by Darwin in 1832 at Bahía Blanca, Argentina, during the survey expedition of HMS <i>Beagle</i>. <i>From Darwin Online. </i></div>
+In 2021, reviews of all his books were launched on Darwin Online. Numbering over 1,700 in several languages, it is the largest collection of the [reviews](https://darwin-online.org.uk/reviews.html) of the work of any historical scientist. &nbsp;
 
-
-In 2021, reviews of all his books were launched on [Darwin Online](https://darwin-online.org.uk/reviews.html). Numbering over 1,700 in several languages, it is the largest collection of the reviews of the work of any historical scientist. &nbsp;
-
-Darwin Online also contains the largest collection of, recollections of, and [obituaries of any scientist](https://darwin-online.org.uk/obituaries.html). With all this material, together with his publications (including hundreds of newly discovered shorter items), notebooks and papers, Darwin Online has become what we believe to be the most comprehensive scholarly website on any historical person in the world, with hundreds of editorial introductions and over 15,000 footnotes.&nbsp;
+Darwin Online also contains the largest collection of, recollections of, and [obituaries](https://darwin-online.org.uk/obituaries.html) of any scientist. With all this material, together with his publications (including hundreds of newly discovered shorter items), notebooks and papers, Darwin Online has become what we believe to be the most comprehensive scholarly website on any historical person in the world, with hundreds of editorial introductions and over 15,000 footnotes.&nbsp;
 
 Since 2006, while Kees and I were doing all this, we had also been working on collecting and collating sources that reveal the contents of Darwin’s personal library. Every year, I receive letters and emails asking whether Darwin had this or that book or article in his library. I was able to answer many of these by looking them up in our unpublished lists and notes so I knew there would be value in making this list available online.
 
@@ -85,7 +90,7 @@ In the past, many of Darwin’s books were scattered throughout the stacks at Ca
 
 Cambridge University Library had already given Darwin Online permission to include a copy of a newer item-by-item catalogue of the entire Darwin Archive (over 40,000 items) prepared by Gill. The conversion of that very catalogue to an online database was a major challenge and it took years before the library put it online.&nbsp;
 
-To these, we added the records of Darwin’s items found in over 80 other collections around the world, creating the [world’s first union catalogue of Darwin’s](https://darwin-online.org.uk/manuscripts.html) papers. This enabled me to generate a list of the printed/published items owned by Darwin – there were more than 3,000. These ranged from newspaper clippings to scientific journals that were filed in his subject-specific research portfolios on particular scientific topics that interested him, such as the geographical distribution of species, the expression of emotions or instincts. It seemed to be an arbitrary decision to include a pamphlet that belonged to Darwin on one shelf as part of his library but to designate another in his papers as not part of the library. I decided from the beginning that these printed items should be counted as part of Darwin’s library too.&nbsp;
+To these, we added the records of Darwin’s items found in over 80 other collections around the world, creating the world’s first union catalogue of Darwin’s [papers](https://darwin-online.org.uk/manuscripts.html). This enabled me to generate a list of the printed/published items owned by Darwin – there were more than 3,000. These ranged from newspaper clippings to scientific journals that were filed in his subject-specific research portfolios on particular scientific topics that interested him, such as the geographical distribution of species, the expression of emotions or instincts. It seemed to be an arbitrary decision to include a pamphlet that belonged to Darwin on one shelf as part of his library but to designate another in his papers as not part of the library. I decided from the beginning that these printed items should be counted as part of Darwin’s library too.&nbsp;
 
 
 ![](/images/Vol%2020%20Issue%202/Darwin/darwin_img7.jpg)
@@ -93,7 +98,7 @@ To these, we added the records of Darwin’s items found in over 80 other collec
 
 #### **Family Documents**
 
-Vitally important were the records that Darwin kept of his library as it was in his lifetime. In 1875, he had a handwritten 426-page catalogue, _Catalogue of the Library of Charles Darwin, Esq. M.A., F.R.S._, of his library prepared by Thomas William Newton, Assistant Librarian of the Museum of Geology. (This was only published in 2011, in [Darwin Online](https://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=CULDAR240&amp;viewtype=text).) Going through this independently, Kees and I identified over 400 works that had once been in Darwin’s library but were not in the surviving collections.&nbsp;
+Vitally important were the records that Darwin kept of his library as it was in his lifetime. In 1875, he had a handwritten 426-page catalogue, [_Catalogue of the Library of Charles Darwin, Esq. M.A., F.R.S._](https://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=CUL-DAR240&amp;viewtype=text), of his library prepared by Thomas William Newton, Assistant Librarian of the Museum of Geology. (This was only published in 2011, in Darwin Online.) Going through this independently, Kees and I identified over 400 works that had once been in Darwin’s library but were not in the surviving collections.&nbsp;
 
 In the 1870s, Darwin and his son Francis also prepared catalogues of the thousands of pamphlets, offprints and book reviews in the library. Unlike the leather-bound _Catalogue of the Library of Charles Darwin_, these catalogues were made mostly from thousands of strips of paper, recording an item in one or two lines, in an extremely abbreviated form. These were transcribed and original entries expanded somewhat by Darwin scholar, P.J. Vorzimmer, in 1963. A photocopy of his work was placed in the Manuscripts Reading room at Cambridge University Library, where it still resides.&nbsp;
 
@@ -129,6 +134,10 @@ We have found that many of the works that were not handed over to Cambridge in 1
 
 Darwin's library was so vast that the reconstructed list is 300 pages long. But it is far more than a catalogue. The library has also been digitised: approximately 10,000 links to electronic copies of the works are provided.&nbsp;
 
+![](/images/Vol%2020%20Issue%202/Darwin/darwin_img8.jpg)
+<div style="background-color:white;"> Skeleton of the extinct gigantic sloth, <i>Mylodon</i>. It was named by the English comparative anatomist Richard Owen based on a nearly complete lower jaw with teeth discovered by Darwin in 1832 at Bahía Blanca, Argentina, during the survey expedition of HMS <i>Beagle</i>. <i>From Darwin Online. </i></div>
+
+
 This final phase of the project included digitising further works to add to Darwin Online and linking to the enormous volume we had already digitised over the years. Then, all of the references needed to be checked – three times – and links inserted to freely available online versions of the exact same edition that Darwin had. This was done about 10,000 times. Because Darwin's library is now reunited with his complete publications, manuscripts and papers, it is possible to explore his work in unrestricted new ways.&nbsp;
 
 #### **The Voyage of Darwin Online**
@@ -137,7 +146,7 @@ Once all the lists had been done, all the catalogues of rare books that can be f
 
 It is an immense relief and satisfaction to publish something that has been worked on for so long and which builds on the work of so many scholars. Along the way, so many discoveries sparked new opportunities for footnotes or cross references in Darwin Online, and many of the revelations would form the basis for research articles and news stories of their own. That is for the future.&nbsp;
 
-As for Darwin Online, our next major release will be caricatures of Darwin and his theories. In my book, _Darwin: A Companion_ (2021), I published the most comprehensive catalogue of portraits of any scientist – over 1,000 unique Darwin portraits, including 210 oil paintings, watercolours and drawings, more than 600 printed portraits and caricatures, as well as over 240 three-dimensional works such as statues, busts and medallions and all known photographs, including a dozen previously unknown. And, unprecedentedly, it includes details of all known variants of these photographs produced to the early 20th century – more than 340. This is how Darwin's appearance became so well known to the public during the 19th century and after. In February 2023 a revised version of the [catalogue of photographs](https://darwin-online.org.uk/EditorialIntroductions/vanWyhe_Complete_Photographs_of_Darwin.html) was published in Darwin Online, illustrated with 450 images.
+As for Darwin Online, our next major release will be caricatures of Darwin and his theories. In my book, _Darwin: A Companion_ (2021), I published the most comprehensive catalogue of portraits of any scientist – over 1,000 unique Darwin portraits, including 210 oil paintings, watercolours and drawings, more than 600 printed portraits and caricatures, as well as over 240 three-dimensional works such as statues, busts and medallions and all known photographs, including a dozen previously unknown. And, unprecedentedly, it includes details of all known variants of these photographs produced to the early 20th century – more than 340. This is how Darwin's appearance became so well known to the public during the 19th century and after. In February 2023 a revised version of the catalogue of [photographs](https://darwin-online.org.uk/EditorialIntroductions/vanWyhe_Complete_Photographs_of_Darwin.html) was published in Darwin Online, illustrated with 450 images.
 
 
 ![](/images/Vol%2020%20Issue%202/Darwin/darwin_img9.jpg)
@@ -150,4 +159,4 @@ The caricatures will be a similar release, with new discoveries and hundreds of 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/John_Van_Wyhe.png">
-	<b>Dr John van Wyhe</b> is a historian of science at the National University of Singapore, and the founder and director of Darwin Online (https://darwin-online.org.uk/). He has published 17 books, including <i>Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin</i> (World Scientific Publishing, 2013).</div>
+	<b>Dr John van Wyhe</b> is a historian of science at the National University of Singapore, and the founder and director of <a href="https://darwin-online.org.uk"> Darwin Online </a>. He has published 17 books, including <i>Dispelling the Darkness: Voyage in the Malay Archipelago and the Discovery of Evolution by Wallace and Darwin</i> (World Scientific Publishing, 2013).</div>

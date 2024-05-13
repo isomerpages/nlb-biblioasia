@@ -7,6 +7,7 @@ description: The Kranji War Cemetery and the Singapore Memorial commemorate
   defence of Singapore.
 third_nav_title: Kranji War Cemetery
 variant: markdown
+image: /images/Podcast/Kranji_war.jpg
 ---
 The Kranji War Cemetery and the Singapore Memorial commemorate those who died while fighting the Japanese during World War II. Librarian Janice Loo looks at the lives of the people who paid the ultimate price in the defence of Singapore.
 

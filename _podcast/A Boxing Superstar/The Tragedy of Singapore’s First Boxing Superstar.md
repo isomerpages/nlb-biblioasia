@@ -4,6 +4,7 @@ permalink: /podcast/singapores-first-boxing-superstar-tan-tang-kee/
 variant: tiptap
 description: ""
 third_nav_title: A Boxing Superstar
+image: /images/Podcast/isomer_abhishek.jpg
 ---
 <p>Tan Teng Kee was the Mike Tyson of Singapore boxing in the 1920s. Known
 as <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/" rel="noopener noreferrer nofollow" target="_blank">Battling Key</a>,

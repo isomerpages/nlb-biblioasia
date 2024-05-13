@@ -4,6 +4,7 @@ permalink: /podcast/kueh-pie-tee/
 variant: tiptap
 description: ""
 third_nav_title: Kueh Pie Tee
+image: /images/Podcast/isomer_Christopher_podcast.jpg
 ---
 <p><em><a href="/videos/kueh-pie-tee/" rel="noopener noreferrer nofollow" target="_blank">Kueh pie tee</a> </em>is
 not a pie that goes with tea. So where did the name (and dish) come from?

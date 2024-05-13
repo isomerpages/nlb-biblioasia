@@ -9,14 +9,14 @@ description: When the Causeway was built 100 years ago, it was the largest
 #### When the Causeway was built 100 years ago, it was the largest engineering project to be undertaken in Malaya. Building it required overcoming significant engineering challenges.
 
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img1.jpg)
 <div style="background-color:white;">The completed Causeway from the Johor end, June 1924. The lock channel can be seen in the photo. <i>Tessa Mitchell Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 The official opening of the Causeway on 28 June 1924 was a historic event that marked the physical joining of Singapore with the Malay Peninsula, and indeed the rest of continental Asia. The lavish ceremony that took place was presided over by Laurence Nunns Guillemard, Governor of the Straits Settlements and High Commissioner of the Federated Malay States (FMS), in the presence of Sultan Ibrahim of Johor. More than 400 guests – including Malay nobility, dignitaries and prominent government officials – from the FMS, Straits Settlements and Johor attended the event.[^1]
 
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img2.jpg)
 <div style="background-color:white;">The opening ceremony of the Causeway on 28 June 1924 was presided over by Laurence Nunns Guillemard, Governor of the Straits Settlements and High Commissioner of the Federated Malay States. On his left and facing him is Sultan Ibrahim of Johor with his left hand on the hilt of his sword. <i>Courtesy of National Archives of Malaysia.</i></div>
 
 
@@ -30,7 +30,7 @@ Towards the end of the first decade of the 20th century, the train and ferry ser
 The wagon-ferries were so successful that demand for its services soon surpassed capacity. In addition to the volume of traffic, the escalating maintenance costs of the wagon-ferries raised concerns about their long-term viability. A better solution was needed.[^5]
 
 
-![](/images/Vol%2020%20Issue%202/Men%20Who%20Surrendered%20Singapore/7-.png)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img3.jpg)
 <div style="background-color:white;">The wagon-ferry jetty in Johor Bahru, August 1919. The hauling engine house or powerhouse on the left contained the winding machinery for hauling travellers to and from the wagon-ferries.<i>Courtesy of National Archives of Malaysia. </i></div>
 
 
@@ -47,11 +47,14 @@ Construction work began in 1919 and was completed in 1924. Thousands of workers 
 
 In 2011, the National Archives of Malaysia and the National Archives of Singapore jointly published _The Causeway_, a book about the history of the land bridge between the two countries. The following extract, mainly from chapter three of the book, details the construction challenges involved in building the Causeway.
 
-The Grand Plan – Engineering the Causeway (1919–23)
+#### **The Grand Plan – Engineering the Causeway (1919–23)**
 
 The Causeway project was technically challenging by the standards of its time and would be the largest engineering project in Malaya at the time. Construction would take an estimated four to five years, and would require the labour of over 2,000 workers as well millions of tons of stone and other building matertials.[^9]
 
 Tidal studies were carried out in 1917, and design features were incorporated to limit changes in the water level at the Causeway to control possible damage to its structure and surroundings, as well as to manage the strength of the currents passing through its lock to allow for safe navigation.[^10]
+
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img4.jpg)
+<div style="background-color:white;"> Tidal studies showed that the construction of the Causeway would effectively convert the Johor Strait into two separate tidal compartments and give rise to differences in water levels on either side of the Causeway once it was completed. As a result, the consultant engineers incorporated a creative design feature to outfit the Causeway’s lock channel with a double set of floodgates to control the tides that alternated on either side of the Causeway. <i>Courtesy of The National Archives (UK), CAOG 10/50 (56). </i></div>
 
 A detailed plan of the Causeway’s construction site was prepared by Messrs Coode, Matthew, Fitzmaurice &amp; Wilson in 1917, with recommendations to change the Causeway’s orientation. The proposed Causeway would be 3,465 ft long (1,056 m) from bank to bank, with a width of 60 ft (18 m) sufficient to carry two lines of metre-gauge railway tracks, a 26-foot-wide (8 m) roadway, with space reserved for the laying of water mains at a later date.
 
@@ -61,13 +64,19 @@ The company was behind the construction of two of colonial Singapore’s most im
 
 Construction on the Causeway commenced in August 1919 in Johor Bahru, beginning with the excavation of the lock channel.[^12] The governments involved decided to complete the lock first to minimise disruption to shipping during the rest of the construction. The lock was placed at the Johor end of the Causeway because it had more suitable approaches than the Woodlands side, and the approach would also cause less disruption to the existing ferry services.
 
+
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img5.jpg)
+<div style="background-color:white;"> 
+A close-up view of the Causeway’s lock channel in use by small ships, c. 1925. It is in the open position. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore. </i></div>
+
+
 Since the lock would occupy the site of the pontoon landing stage for the passenger ferry launches at Johor Bahru station, it was necessary to first provide a new landing stage. The pontoon and connecting bridge were removed and reinstalled on 14 August 1919 at the new site, located clear of the works at the west end of the west wing-wall of the lock. For the convenience of train passengers, a temporary covered walkway was built between the railway station and the new site of the pontoon. This transfer was achieved without causing any interruption to passenger ferry traffic.
 
 The quarry at Pulau Ubin, which was about 16 miles (26 km) away and had been opened in 1907 for the Singapore harbour-works, was reopened in 1919 to supply rubble and crushed stone for the Causeway. Four of the ten hopper barges ordered from England for the transport of stone from quarries in Singapore to the Causeway had been delivered during the year, along with one of two large steam tugs also ordered from England, which were designed to pull those barges. A smaller tug and a steam launch had also been purchased locally in 1919 to expedite the transportation of stone.
 
 The 1919 Johor Annual Report proudly reported that work on the Causeway is “destined to connect Johor with Singapore by road and rail proceeds day and night”.[^13]
 
-Laying the Foundation Stone
+#### **Laying the Foundation Stone**
 
 In 1920, with work on the Causeway progressing satisfactorily, it was deemed proper to hold a ceremony to mark the laying of its foundation stone. Governor Laurence Nunns Guillemard and the chief secretary agreed to have the ceremony on 24 April 1920. It was to be conducted from on board the steam yacht _Sea Belle_, anchored in the middle of the Johor Strait. The occasion would also coincide with Guillemard’s first official visit to Johor.
 
@@ -79,17 +88,27 @@ At around the same time, the British Admiralty raised objections to the dimensio
 
 By then, the construction of the lock at the Johor end was well advanced and the north wall of the lock was half completed. In addition, the first two lengths of the east and west wing-walls of the lock had been built, and the eastern portion of the watertight cofferdam enclosing the south wall of the lock was ready for closing, allowing workers to work on the lock in dry conditions.
 
+
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img6.jpg)
+<div style="background-color:white;"> Construction of cofferdam (temporary enclosure for workers to work in a waterlogged environment) at the east end of the lock and concreting of apron in progress, June 1921. Both locals and Europeans worked together to complete the Causeway. <i>Courtesy of National Archives of Malaysia. </i></div>
+
+
+
 In addition, output from the granite quarry on Pulau Ubin had improved significantly, and from February 1921 additional supplies started arriving from the Bukit Timah quarry. In June the same year, the depositing of rubble commenced on the Johor side of the works, allowing the construction of the Causeway’s superstructure to proceed from both sides of the strait. Some 2,337 men were engaged in the Causeway’s construction that year.[^15]
 
 At the end of 1921, all excavation and concrete works had been completed on the lock, along with construction on most of its north wall. Good progress was also made on the lock’s south wall, east wing-wall and on the installation of the lock’s double set of floodgates. The first of the 5-foot-diameter (1.5 m) culverts was also completed at the Johor end, and groundwork commenced on the rolling lift-bridge.
 
 By July 1922, rubble deposits on both sides of the Causeway had reduced the gap remaining in the superstructure to just 1,300 ft (396 m) at low tide. At this point, a coating of rubble was deposited over the gap to prevent any scouring of the bottom due to the increased velocity of currents in the narrowing channel. Work on the superstructure of the Causeway resumed after this precautionary measure had been taken.
 
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img7.jpg)
+<div style="background-color:white;"> View of the Bukit Timah quarry from the top showing the incline and arrangement of roads, January 1922. This quarry opened towards the end of 1921 and began supplying to the Woodlands end of the Causeway from January 1922 onwards. <i>Courtesy of National Archives of Malaysia. </i></div>
+
+
 On 1 January 1923, the lock was handed over to the Federated Malay States Railways (FMSR) to begin operations, and all shipping through the Johor Strait were subsequently diverted through the lock as the advanced stage of construction had made it increasingly hazardous for ships to navigate the strait. To prevent unauthorised entry of vessels, chain defences were placed at both ends of the lock. In addition, red and green navigation lights were placed on either side of the entrances to indicate whether the lock was closed or opened to traffic. It has been recorded that at least 30 vessels passed through the lock during the first month of its operation and 13,513 craft passed through the lock in 1923. With the opening of the lock to traffic in January 1923, construction work on the Causeway’s superstructure resumed.[^16]
 
 The installation of the rolling lift-bridge was completed in January 1923, and the channel between Johor and Singapore was sealed up on 1 June 1923.
 
-The Causeway Opens
+#### **The Causeway Opens**
 
 The year 1923 was a milestone of sorts in the history of the Causeway. The Causeway was first opened to goods trains on 17 September 1923,[^17] and the wagon-ferry service between Johor Bahru and Woodlands was withdrawn from that date. By this time, the wagon-ferries were running more than 11,000 trips a year with 7,777 trips recorded from 1 January to 16 September 1923, the final year of its operations.[^18]
 
@@ -99,6 +118,12 @@ The first passenger train across the Causeway was the night mail, which left Kua
 30 September 1923, arriving at Tank Road station at 7.41 am on 1 October. On board was none other than P.A. Anthony, the former general manager of FMSR. The _Straits Times_ described the first passenger train as “a big train, including twelve bogey carriages and forming an imposing display of rolling stock for the auspicious occasion”. And perhaps with a tinge of nostalgia, the _Straits Times_ reporter added: “The ferry across the Straits is now a thing of the past, all trains crossing the Causeway.”[^20] The daily schedule included a day mail and a night mail from both destinations. On 1 October 1923, the Johor Causeway Toll was also introduced for both passenger and goods traffic conveyed over the Causeway, replacing the earlier ferry charges.
 
 The Causeway was officially completed on 11 June 1924. The final phase of the works included finishing touches to the east wing-wall of the lock, repainting the insides of the lock gates, cleaning and painting the capstans, fairleads and machinery pit covers, and grouting the joints of the pitching behind the east end of the lock. The roadway was completed except for a small portion at the Woodlands end, which was deferred until the railway track was moved to its final position — the second railway track had not been laid yet at the time of the opening. The crossing gates were handed over to the Railway Department in June.&nbsp;
+
+
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img8.jpg)
+<div style="background-color:white;">The lock channel at the Johor Bahru end of the Causeway showing the rolling lift-bridge in open position, level-crossing gates and the operating cabin, June 1924. The lift-bridge was electrically operated by a 35-horsepower motor but could also be manually operated. The level-crossing gates placed on both sides of the lock were mechanically operated and were controlled from the operating cabin. The speed limit in 1924 was 10 mph. <i>Courtesy of National Archives of Malaysia.</i></div>
+
+
 
 The successful completion of the Causeway three months ahead of the stipulated date was a creditable reflection on the diligence, expertise and experience of the engineers and contractors. Credit is also due to the staff and labourers, who worked in temperatures that could reach 89 to 90 degrees Fahrenheit (27 to 32 degrees Celsius) and who also bore with rainy spells that accounted for an average loss of two working days a month.&nbsp;
 
@@ -112,49 +137,49 @@ This is an edited extract from <i>The Causeway</i> (2011), jointly published by 
 #### **Notes**
 
 
-[^1]: “The Causeway,” _Straits Times_, 28 June 1924, 9. (From NewspaperSG)
+[^1]: “[The Causeway](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240628-1.2.65),” _Straits Times_, 28 June 1924, 9. (From NewspaperSG)
 
 
 [^2]: Amir Yusof, “Johor-Singapore SEZ: Passport-free Travel Hailed As ‘Game-changer’ But Observers Debate Size, Scope of Proposed Zone,” CNA, 12 January 2024, https://www.channelnewsasia.com/asia/malaysia-johor-singapore-special-economic-zone-passport-free-clearance-land-borders-4042601.
 
 
-[^3]: Leong Chan Teik, “Second Link at Tuas Opens Without Fanfare,” _Straits Times_, 3 January 1998, 1. (From NewspaperSG)
+[^3]: Leong Chan Teik, “[Second Link at Tuas Opens Without Fanfare](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980103-1.2.2),” _Straits Times_, 3 January 1998, 1. (From NewspaperSG)
 
 
-[^4]: “The Singapore-Kranji Railway,” _Pinang Gazette and Straits Chronicle_, 16 April 1903, 3. (From NewspaperSG)
+[^4]: “[The Singapore-Kranji Railway](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19030416-1.2.13),” _Pinang Gazette and Straits Chronicle_, 16 April 1903, 3. (From NewspaperSG)
 
 
-[^5]: The National Archives, United Kingdom, _Johore Annual Report 1910–1913_. (From National Archives of Singapore, accession no. CO 715/1); _Federated Malay States Railways Report for the Year 1912_.
+[^5]: The National Archives, United Kingdom, [_Johore Annual Report 1910–1913_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e583085f-115b-11e3-83d5-0050568939ad). (From National Archives of Singapore, accession no. CO 715/1); _Federated Malay States Railways Report for the Year 1912_.
 
 
 [^6]:  _Proceedings of the Federal Council of the Federated Malay States for the year 1917_, p. B57.
 
 
-[^7]: _Proceedings of the Federal Council of the Federated Malay States_, 13 November 1917, B57;&nbsp; The National Archives, United Kingdom, Extract of Letter from Messrs Coode, Matthews, Fitzmaurice &amp; Wilson to Crown Agents. (From National Archives of Singapore, accession no. CO 273/462), 267
+[^7]: _Proceedings of the Federal Council of the Federated Malay States_, 13 November 1917, B57;&nbsp; The National Archives, United Kingdom, [Extract of Letter from Messrs Coode, Matthews, Fitzmaurice &amp; Wilson to Crown Agents](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/private_records/record-details/26dc86a3-47e7-11e6-b4c5-0050568939ad). (From National Archives of Singapore, accession no. CO 273/462), 267
 
 
-[^8]: “The Causeway: A Great Engineering Work Completed,” _Straits Times_, 27 June 1924, 9. (From NewspaperSG)
+[^8]: “[The Causeway: A Great Engineering Work Completed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240627-1.2.63),” _Straits Times_, 27 June 1924, 9. (From NewspaperSG)
 
 
-[^9]:  “The Causeway: A Great Engineering Work Completed.”
+[^9]:  “[The Causeway: A Great Engineering Work Completed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240627-1.2.63).”
 
 
-[^10]: The National Archives, United Kingdom, “Johore State Railway Construction – Johore Singapore Connection Causeway,” 1 January 1916–31 December 1926. (From National Archives of Singapore, accession no. CAOG 10/50 E358/4A), 39–45.
+[^10]: The National Archives, United Kingdom, “[Johore State Railway Construction – Johore Singapore Connection Causeway](https://www.nas.gov.sg/archivesonline/private_records/record-details/e4f472fe-115b-11e3-83d5-0050568939ad),” 1 January 1916–31 December 1926. (From National Archives of Singapore, accession no. CAOG 10/50 E358/4A), 39–45.
 
 
-[^11]: “The King’s Dock,” _Straits Times_, 27 August 1913, 10; “Empire Docks,” _Straits Times_, 7 February 1919, 47; “Empire Dock,” _Straits Times_, 26 October 1917, 10. (From NewspaperSG)
+[^11]: “[The King’s Dock](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19130827-1.2.61),” _Straits Times_, 27 August 1913, 10; “[Empire Docks](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19190207-1.2.74.52),” _Straits Times_, 7 February 1919, 47; “[Empire Dock](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19171026-1.2.43),” _Straits Times_, 26 October 1917, 10. (From NewspaperSG)
 
 
-[^12]: “FMS Railways: Annual Report of the General Manager,” _Straits Times_, 18 October 1921, 11. (From NewspaperSG)
+[^12]: “[FMS Railways: Annual Report of the General Manager](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19211018-1.2.81),” _Straits Times_, 18 October 1921, 11. (From NewspaperSG)
 
 
 [^13]: _Federated Malay States Railways Report for the Year 1920_.
 
 
-[^14]: The National Archives, United Kingdom, “Colonial Office. Straits Settlements. Original Correspondence. Offices (Except Miscellaneous),” 12 January 1921–7 March 1921. (From National Archives of Singapore, accession no. CO 273/512)
+[^14]: The National Archives, United Kingdom, “[Colonial Office. Straits Settlements. Original Correspondence. Offices (Except Miscellaneous)](https://www.nas.gov.sg/archivesonline/private_records/record-details/e78fe87e-115b-11e3-83d5-0050568939ad),” 12 January 1921–7 March 1921. (From National Archives of Singapore, accession no. CO 273/512)
 
 
-[^15]: _Proceedings of the Federal Council of the Federated Malay States_, 13 December 1921, C499; “Facts and Figures: Memorandum of the High Commissioner,” _Straits Times_, 24 November 1922, 10. (From NewspaperSG)
+[^15]: _Proceedings of the Federal Council of the Federated Malay States_, 13 December 1921, C499; “[Facts and Figures: Memorandum of the High Commissioner](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19221124-1.2.72),” _Straits Times_, 24 November 1922, 10. (From NewspaperSG)
 
 
 [^16]: Paper No, 4547, “The Johore Causeway”, D. Paterson, 222/1923, _Federated Malay States Annual Report 1923_.
@@ -163,10 +188,10 @@ This is an edited extract from <i>The Causeway</i> (2011), jointly published by 
 [^17]: _Federated Malay States Railways Report for the Year 1923_.
 
 
-[^18]: “Johore Causeway: Opening to Passenger Traffic To-day,” _Straits Times_, 1 October 1923, 10. (From NewspaperSG)
+[^18]: “[Johore Causeway: Opening to Passenger Traffic To-day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231001-1.2.63),” _Straits Times_, 1 October 1923, 10. (From NewspaperSG)
 
 
 [^19]: SS 2170/1923: GA 463/1923.
 
 
-[^20]: “Johore Causeway: Opening to Passenger Traffic To-day.”
+[^20]: “[Johore Causeway: Opening to Passenger Traffic To-day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231001-1.2.63).”

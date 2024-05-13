@@ -6,6 +6,7 @@ description: Stone tools have been found in and around Singapore since the late
   and archaeologist Foo Shu Tieng.
 third_nav_title: Stone Age in Singapore
 variant: markdown
+image: /images/Podcast/edm content for 12 jul (eps 6-7).jpg
 ---
 Stone tools have been found in and around Singapore since the late 19th century, but much about them remains a mystery, according to librarian and archaeologist Foo Shu Tieng.
 

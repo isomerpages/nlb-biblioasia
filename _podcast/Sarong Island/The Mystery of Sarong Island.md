@@ -6,6 +6,7 @@ description: Librarian Lim Tin Seng rediscovers Singapore’s first island resor
   Island is now.
 third_nav_title: Sarong Island
 variant: markdown
+image: /images/Podcast/tinseng-sarong island.jpg
 ---
 Librarian Lim Tin Seng rediscovers Singapore’s first island resort getaway and solves various mysteries surrounding it, including where Sarong Island is now.
 

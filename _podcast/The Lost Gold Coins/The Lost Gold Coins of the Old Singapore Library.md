@@ -4,6 +4,7 @@ permalink: /podcast/lost-gold-coins/
 variant: tiptap
 description: ""
 third_nav_title: The Lost Gold Coins
+image: /images/Podcast/isomer_Shu.jpg
 ---
 <p>In the mid-19th century, two ancient gold coins were uncovered near present-day
 Keppel Harbour. Unfortunately, the Acehnese coins vanished before they

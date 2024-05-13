@@ -4,6 +4,7 @@ permalink: /podcast/yip-yew-chong/
 variant: tiptap
 description: ""
 third_nav_title: A 60-metre-long Painting
+image: /images/Podcast/Yew_Chong_600_400.jpg
 ---
 <p>Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, drew crowds
 when it went on display at the Raffles City Convention Centre. Comprising

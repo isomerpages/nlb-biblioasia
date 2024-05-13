@@ -2,7 +2,7 @@
 title: "The Great Reclamation: A Singaporean Historical Epic"
 permalink: /podcast/the-great-reclamation/
 description: ""
-image: /images/Podcast/ep 13 (rachel heng).jpg
+image: /images/Podcast/rachel heng website.jpg
 third_nav_title: A Singaporean Historical Epic
 variant: tiptap
 ---

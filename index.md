@@ -9,13 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/
-      button: "A Plethora of Tongues: Multilingualism in 1950s Malayan Writing"
+      url: /vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/
+      button: Conquering Everest, the World’s Tallest Mountain
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/A Plethora of Tongues/plethora_hero_img.png
+      background: /images/Online Only Articles/Conquer Tallest
+        Mountain_12_23/conquering_everest_hero_img.png
+  - infopic:
+      title: The Singapore Hokkien Huay Kuan Collection
+      subtitle: Collection Highlights
+      id: infopic
+      description: Materials donated by the association shed light on its
+        contributions to the nation's social and cultural landscape.
+      button: An 1828 land title deed
+      url: /vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/
+      image: /images/Vol 20 Issue 2/Hokkien/hokkien_img3.jpg
+      alt: Image alt text
   - infopic:
       title: Unravelling the Mystery of Mee Maidin
       subtitle: "Video: From Book to Cook"

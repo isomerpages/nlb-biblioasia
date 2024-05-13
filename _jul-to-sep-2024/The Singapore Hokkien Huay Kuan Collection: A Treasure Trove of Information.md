@@ -1,6 +1,6 @@
 ---
 title: "The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of Information"
-permalink: /holding-area/huay-kuan-collection/
+permalink: /vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/
 variant: markdown
 description: Materials donated by the Singapore Hokkien Huay Kuan offer unique
   perspectives into the history of the Hokkien community here and the

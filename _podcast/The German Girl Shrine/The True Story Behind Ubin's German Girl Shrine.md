@@ -4,6 +4,7 @@ permalink: /podcast/german-girl-shrine/
 variant: tiptap
 description: ""
 third_nav_title: The German Girl Shrine
+image: /images/Podcast/isomer_home_william.jpg
 ---
 <p>A young German girl met an untimely end on Pulau Ubin in 1914. A shrine
 set up in her honour becomes Internet-famous. Following a deep search into

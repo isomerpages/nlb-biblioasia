@@ -6,6 +6,7 @@ description: Writer and researcher William L. Gibson undertakes a pilgrimage
   of the main island of Singapore.
 third_nav_title: Shrines on Kusu Island
 variant: markdown
+image: /images/Podcast/william episode 9.jpg
 ---
 Writer and researcher William L. Gibson undertakes a pilgrimage into the archives to uncover the history of the *keramat* on Kusu Island, south of the main island of Singapore.
 

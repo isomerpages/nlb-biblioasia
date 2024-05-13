@@ -4,6 +4,7 @@ permalink: /podcast/saving-singapores-film-heritage/
 variant: tiptap
 description: ""
 third_nav_title: Film Heritage
+image: /images/Podcast/isomer_teepao.jpg
 ---
 <p>Thanks to restoration, classic films like <em>The Teenage Textbook Movie </em>(1998)
 can still be shown on a big screen 20 years after its cinema run. On a

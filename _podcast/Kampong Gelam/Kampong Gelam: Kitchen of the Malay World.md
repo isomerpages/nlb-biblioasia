@@ -4,6 +4,7 @@ permalink: /podcast/kampong-glam-kitchen-malay-world/
 variant: tiptap
 description: ""
 third_nav_title: Kampong Gelam
+image: /images/Podcast/isomer_home_khir.jpg
 ---
 <p>You hear Malay, Javanese, Tamil and Punjabi as you wander the streets
 with shops selling colourful textiles and carpets, spices and flowers.

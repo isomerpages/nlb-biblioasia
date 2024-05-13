@@ -1,8 +1,9 @@
 ---
 title: Peeling Back the Layers of Bunga Kobis
-permalink: /holding-area/bunga-kobis/
+permalink: /videos/bunga-kobis/
 variant: markdown
 description: ""
+third_nav_title: From Book to Cook
 ---
 #### _Bunga kobis_ was a dish prepared only for special occasions because of how laborious it was to make. In this episode, librarian Toffa Abdul Wahed tells us more in her attempt to put together this many-layered pastry.
 
@@ -75,6 +76,11 @@ lettuce (leaves separated)<br>
 7.&nbsp;&nbsp;&nbsp; Work with the second portion of dough and filling. Pour in the egg mixture, then place the first portion that was fried earlier on top of the egg mixture. Wrap and fry until crisp and cooked. Repeat this process until all six portions are done. Remember to fry on medium heat. If the oil is too hot, the dough will burn but the filling inside will remain raw.
 
 8.&nbsp;&nbsp;&nbsp; To serve, arrange lettuce leaves on a plate. Place the _bunga kobis_ in the middle of the plate and cut into 8 pieces/petals, beginning from the same point in the middle (like how you would cut a round cake). Open the petals so the dish looks like a flower. Place the tomato flowers in between the petals.
+
+#### **Related Podcast**
+
+<a href="/podcast/hajah-asfiah-guardian-traditional-malay-culture/">Hajah Asfiah: A Guardian for Traditional Malay Culture</a><br>
+A tireless steward of Malay culture, Hajah Asfiah worked all her life to preserve and pass on Malay crafts. When she was just 10, she began teaching embroidery and flower arrangement in school. Later in life, she was a&nbsp;_mak andam_&nbsp;(wedding attendant) for more than 20 years and worked with more than 1,000 brides. At age 65, she got her cookbook&nbsp;_Hidangan Warisan Kita_&nbsp;(Our Heritage Dishes; 1986) published by Times Books International; it was the publisher’s first cookbook, written in Malay by a Malay person. The book had recipes for dishes that have since become extinct. Sadly, she died a year later, but thanks to the book she wrote and the many courses she taught, her memory lives on.
 
 #### **Related Articles**
 

@@ -7,6 +7,7 @@ description: One of the indigenous peoples of Singapore, the nomadic, seafaring
   links to Singapore. @katrinnada_
 third_nav_title: Orang Seletar
 variant: markdown
+image: /images/Podcast/ilya ep12.jpg
 ---
 Writer and educator Ilya Katrinnada interviewed the Orang Seletar who resettled in Johor to learn about their lives, and their links to Singapore.
 

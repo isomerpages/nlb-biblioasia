@@ -1,11 +1,23 @@
 ---
-title: "Hajah Asfiah: A Guardian of Traditional Malay Culture"
+title: "Hajah Asfiah: A Guardian for Traditional Malay Culture"
 permalink: /podcast/hajah-asfiah-guardian-traditional-malay-culture/
 variant: tiptap
 description: ""
 third_nav_title: A Cultural Guardian
+image: /images/Podcast/isomer_toffa.jpg
 ---
-<p></p>
+<p>A tireless steward of Malay culture, Hajah Asfiah worked all her life
+to preserve and pass on Malay crafts. When she was just 10, she began teaching
+embroidery and flower arrangement in school. Later in life, she was a <em>mak andam</em> (wedding
+attendant) for more than 20 years and worked with more than 1,000 brides.
+At age 65, she got her cookbook <em>Hidangan Warisan Kita</em> (Our Heritage
+Dishes; 1986) published by Times Books International; it was the publisher’s
+first cookbook, written in Malay by a Malay person. The book had recipes
+for dishes that have since become extinct. Sadly, she died a year later,
+but thanks to the book she wrote and the many courses she taught, her memory
+lives on.
+<br>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oDLqIDuvEgQ?si=U2UHRb1ByU7fQuNa"></iframe>
 </div>
@@ -16,7 +28,7 @@ third_nav_title: A Cultural Guardian
 get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Toffa Talked About</strong></h4>
-<p>00:26 – About the dish Toffa made in Season Two of <em>From Book to Cook</em>, <em>bunga kobis</em> (flower
+<p>00:26 – About the dish Toffa made in Season Two of <em>From Book to Cook</em>, <em><a href="https://biblioasia.nlb.gov.sg/videos/bunga-kobis/" rel="noopener noreferrer nofollow" target="_blank">bunga kobis</a> </em>(flower
 of the cabbage)
 <br>03:57 – Why <em>bunga kobis</em> is a special dish
 <br>04:30 – The complicated process of making the six-layer dish
@@ -48,7 +60,7 @@ BiblioAsia.</p>
 <p><em>Bunga kobis</em> was a dish prepared only for special occasions because
 of how laborious it was to make. In this episode, librarian Toffa Abdul
 Wahed tells us more in her attempt to put together this many-layered pastry.
-Watch Toffa make <em><a href="biblioasia.nlb.gov.sg/videos/bunga-kobis/" rel="noopener noreferrer nofollow" target="_blank">bunga kobis</a></em>.</p>
+Watch Toffa make <em><a href="https://biblioasia.nlb.gov.sg/videos/bunga-kobis/" rel="noopener noreferrer nofollow" target="_blank">bunga kobis</a></em>.</p>
 <h4><strong>Resources</strong></h4>
 <p>Hajjah Asfiah Haji Abdullah, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080178" rel="noopener noreferrer nofollow" target="_blank"><u>Hidangan Warisan Kita</u></a></em> (Singapore:
 Times Books International, 1986). (From National Library, Singapore, via
@@ -58,8 +70,8 @@ Cavendish Editions, 2021). (National Library, Singapore, call no. 394.120899928
 KHI -[CUS])</p>
 <p>Margaret Sullivan, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=8744384" rel="noopener noreferrer nofollow" target="_blank">“Can Survive Lah” Cottage Industries in High-rise Singapore</a></em> (Singapore:
 G. Brash, 1993).</p>
-<p>Toffa Abdul Wahed, "," <em>BiblioAsia </em>20, no. 2 (October–December
-2024).</p>
+<p>Toffa Abdul Wahed, "Hajjah Asfiah Haji Abdullah," <em>BiblioAsia </em>20,
+no. 2 (October–December 2024).</p>
 <p>Toffa Abdul Wahed, "<a href="https://biblioasia.nlb.gov.sg/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks/" rel="noopener noreferrer nofollow" target="_blank">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>," <em>BiblioAsia </em>17,
 no. 4 (January–March 2022).</p>
 <h4><br><strong>Credits</strong></h4>
