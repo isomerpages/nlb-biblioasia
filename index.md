@@ -26,7 +26,7 @@ sections:
         on Charles Darwin.
       button: Uncovering Hidden Gems
       url: /vol-20/issue-2/jul-sep-2024/charles-darwin-library/
-      image: /images/Vol 20 Issue 2/Darwin/van_Wyhe_library_.jpg
+      image: /images/Vol 20 Issue 2/Darwin/van_Wyhe_library_right.jpg
       alt: Image alt text
   - infopic:
       title: "Hajah Asfiah: A Guardian for Traditional Malay Culture"
