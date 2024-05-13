@@ -76,6 +76,11 @@ lettuce (leaves separated)<br>
 
 8.&nbsp;&nbsp;&nbsp; To serve, arrange lettuce leaves on a plate. Place the _bunga kobis_ in the middle of the plate and cut into 8 pieces/petals, beginning from the same point in the middle (like how you would cut a round cake). Open the petals so the dish looks like a flower. Place the tomato flowers in between the petals.
 
+#### **Related Podcast**
+
+[Hajah Asfiah: A Guardian for Traditional Malay Culture ](/podcast/hajah-asfiah-guardian-traditional-malay-culture/)<br>
+A tireless steward of Malay culture, Hajah Asfiah worked all her life to preserve and pass on Malay crafts. When she was just 10, she began teaching embroidery and flower arrangement in school. Later in life, she was a&nbsp;_mak andam_&nbsp;(wedding attendant) for more than 20 years and worked with more than 1,000 brides. At age 65, she got her cookbook&nbsp;_Hidangan Warisan Kita_&nbsp;(Our Heritage Dishes; 1986) published by Times Books International; it was the publisher’s first cookbook, written in Malay by a Malay person. The book had recipes for dishes that have since become extinct. Sadly, she died a year later, but thanks to the book she wrote and the many courses she taught, her memory lives on.
+
 #### **Related Articles**
 
 [Malay-Muslim Weddings: Keeping Up with the Times](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/malay-weddings/)<br>
