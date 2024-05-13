@@ -96,17 +96,23 @@ By then, the construction of the lock at the Johor end was well advanced and the
 
 In addition, output from the granite quarry on Pulau Ubin had improved significantly, and from February 1921 additional supplies started arriving from the Bukit Timah quarry. In June the same year, the depositing of rubble commenced on the Johor side of the works, allowing the construction of the Causeway’s superstructure to proceed from both sides of the strait. Some 2,337 men were engaged in the Causeway’s construction that year.[^15]
 
-At the end of 1921, all excavation and concrete works had been completed on the lock, along with construction on most of its north wall. Good progress was also made on the lock’s south wall, east wing-wall and on the installation of the lock’s double set of floodgates. The first of the 5-foot-diameter (1.5 m) culverts was also completed at the Johor end, and groundwork commenced on the rolling lift-bridge.
-
-By July 1922, rubble deposits on both sides of the Causeway had reduced the gap remaining in the superstructure to just 1,300 ft (396 m) at low tide. At this point, a coating of rubble was deposited over the gap to prevent any scouring of the bottom due to the increased velocity of currents in the narrowing channel. Work on the superstructure of the Causeway resumed after this precautionary measure had been taken.
-
 ![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img7.jpg)
 <div style="background-color:white;"> View of the Bukit Timah quarry from the top showing the incline and arrangement of roads, January 1922. This quarry opened towards the end of 1921 and began supplying to the Woodlands end of the Causeway from January 1922 onwards. <i>Courtesy of National Archives of Malaysia. </i></div>
 
 
+At the end of 1921, all excavation and concrete works had been completed on the lock, along with construction on most of its north wall. Good progress was also made on the lock’s south wall, east wing-wall and on the installation of the lock’s double set of floodgates. The first of the 5-foot-diameter (1.5 m) culverts was also completed at the Johor end, and groundwork commenced on the rolling lift-bridge.
+
+By July 1922, rubble deposits on both sides of the Causeway had reduced the gap remaining in the superstructure to just 1,300 ft (396 m) at low tide. At this point, a coating of rubble was deposited over the gap to prevent any scouring of the bottom due to the increased velocity of currents in the narrowing channel. Work on the superstructure of the Causeway resumed after this precautionary measure had been taken.
+
 On 1 January 1923, the lock was handed over to the Federated Malay States Railways (FMSR) to begin operations, and all shipping through the Johor Strait were subsequently diverted through the lock as the advanced stage of construction had made it increasingly hazardous for ships to navigate the strait. To prevent unauthorised entry of vessels, chain defences were placed at both ends of the lock. In addition, red and green navigation lights were placed on either side of the entrances to indicate whether the lock was closed or opened to traffic. It has been recorded that at least 30 vessels passed through the lock during the first month of its operation and 13,513 craft passed through the lock in 1923. With the opening of the lock to traffic in January 1923, construction work on the Causeway’s superstructure resumed.[^16]
 
 The installation of the rolling lift-bridge was completed in January 1923, and the channel between Johor and Singapore was sealed up on 1 June 1923.
+
+
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img8.jpg)
+<div style="background-color:white;">The lock channel at the Johor Bahru end of the Causeway showing the rolling lift-bridge in open position, level-crossing gates and the operating cabin, June 1924. The lift-bridge was electrically operated by a 35-horsepower motor but could also be manually operated. The level-crossing gates placed on both sides of the lock were mechanically operated and were controlled from the operating cabin. The speed limit in 1924 was 10 mph. <i>Courtesy of National Archives of Malaysia.</i></div>
+
+
 
 #### **The Causeway Opens**
 
@@ -118,11 +124,6 @@ The first passenger train across the Causeway was the night mail, which left Kua
 30 September 1923, arriving at Tank Road station at 7.41 am on 1 October. On board was none other than P.A. Anthony, the former general manager of FMSR. The _Straits Times_ described the first passenger train as “a big train, including twelve bogey carriages and forming an imposing display of rolling stock for the auspicious occasion”. And perhaps with a tinge of nostalgia, the _Straits Times_ reporter added: “The ferry across the Straits is now a thing of the past, all trains crossing the Causeway.”[^20] The daily schedule included a day mail and a night mail from both destinations. On 1 October 1923, the Johor Causeway Toll was also introduced for both passenger and goods traffic conveyed over the Causeway, replacing the earlier ferry charges.
 
 The Causeway was officially completed on 11 June 1924. The final phase of the works included finishing touches to the east wing-wall of the lock, repainting the insides of the lock gates, cleaning and painting the capstans, fairleads and machinery pit covers, and grouting the joints of the pitching behind the east end of the lock. The roadway was completed except for a small portion at the Woodlands end, which was deferred until the railway track was moved to its final position — the second railway track had not been laid yet at the time of the opening. The crossing gates were handed over to the Railway Department in June.&nbsp;
-
-
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img8.jpg)
-<div style="background-color:white;">The lock channel at the Johor Bahru end of the Causeway showing the rolling lift-bridge in open position, level-crossing gates and the operating cabin, June 1924. The lift-bridge was electrically operated by a 35-horsepower motor but could also be manually operated. The level-crossing gates placed on both sides of the lock were mechanically operated and were controlled from the operating cabin. The speed limit in 1924 was 10 mph. <i>Courtesy of National Archives of Malaysia.</i></div>
-
 
 
 The successful completion of the Causeway three months ahead of the stipulated date was a creditable reflection on the diligence, expertise and experience of the engineers and contractors. Credit is also due to the staff and labourers, who worked in temperatures that could reach 89 to 90 degrees Fahrenheit (27 to 32 degrees Celsius) and who also bore with rainy spells that accounted for an average loss of two working days a month.&nbsp;
