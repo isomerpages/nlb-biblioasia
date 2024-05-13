@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/
-      button: "A Plethora of Tongues: Multilingualism in 1950s Malayan Writing"
+      url: /vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/
+      button: Conquering Everest, the World’s Tallest Mountain
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/A Plethora of Tongues/plethora_hero_img.png
+      background: /images/Online Only Articles/Conquer Tallest
+        Mountain_12_23/conquering_everest_hero_img.png
   - infopic:
       title: Unravelling the Mystery of Mee Maidin
       subtitle: "Video: From Book to Cook"
