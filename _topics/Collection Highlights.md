@@ -8,7 +8,7 @@ description: ""
 
 Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here and the association’s contributions to the nation’s social and cultural landscape.
   
-<img src="/images/Online%20Only%20Articles/Liesel_Trishaws/with_passenger.png" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%202/Hokkien/hokkien_img3.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/collection-highlights/2024/2/trishaws-cargo-tricycle-transport-singapore/">The Trishaws and Tricycles of Singapore: Selected Photos by Liesel Strauss</a>
