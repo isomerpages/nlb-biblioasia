@@ -20,7 +20,7 @@ fare at Bussorrah Street. In addition, she was a teacher all her life.&nbsp;
 <br>I’m Jimmy Yap, and Toffa Abdul Wahed is with me to talk about Cikgu Asfiah.
 Toffa is a Librarian at the National Library of Singapore, and she was
 also a guest in an episode of the National Library’s cooking show <em>From Book to Cook</em>.
-In that episode, she made a dish from Cikgu Asfiah’s cookbook called <em>bunga kobis.</em>&nbsp;</p>
+In that episode, she made a dish from Cikgu Asfiah’s cookbook called <em><a href="https://biblioasia.nlb.gov.sg/videos/bunga-kobis/" rel="noopener noreferrer nofollow" target="_blank">bunga kobis</a>.</em>&nbsp;</p>
 <p>Hi Toffa, welcome to BiblioAsia+.&nbsp;</p>
 <p><strong>Toffa</strong> 
 <br>Hi, Jimmy.&nbsp;</p>
