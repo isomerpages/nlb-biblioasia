@@ -4,6 +4,13 @@ permalink: /topics/collection-highlights/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/">The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of Information</a>
+
+Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here and the association’s contributions to the nation’s social and cultural landscape.
+  
+<img src="/images/Online%20Only%20Articles/Liesel_Trishaws/with_passenger.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/collection-highlights/2024/2/trishaws-cargo-tricycle-transport-singapore/">The Trishaws and Tricycles of Singapore: Selected Photos by Liesel Strauss</a>
 
 These photos by Liesel Strauss spotlight the humble trishaw and cargo tricycle and remind of us of how Singapore used to be not too long ago.
