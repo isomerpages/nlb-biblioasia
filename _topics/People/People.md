@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/charles-darwin-library/">Reconstructing Charles Darwin’s Lost Library</a>
+
+Almost 20 years of painstaking scouring and sleuth work have resulted in what is probably the largest and most comprehensive resource on Charles Darwin.
+
+<img src="/images/Vol%2020%20Issue%202/Darwin/van_Wyhe_library_.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/">Pioneering Local Journalist R.B. Ooi</a>
 
 As a journalist, R.B. Ooi always had his finger on the pulse of Malaya, bringing to the fore issues at the heart of the nation.
