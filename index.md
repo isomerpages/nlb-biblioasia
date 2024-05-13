@@ -926,8 +926,8 @@ sections:
       title: The Singapore Hokkien Huay Kuan Collection
       subtitle: Collection Highlights
       id: infopic
-      description: Materials donated by the Singapore Hokkien Huay Kuan offer unique
-        perspectives into the history of the Hokkien community here.
+      description: Materials donated by the association shed light on its
+        contributions to the nation's social and cultural landscape.
       button: An 1828 land title deed
       url: /vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/
       image: /images/Vol 20 Issue 2/Hokkien/hokkien_img3.jpg
