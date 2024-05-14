@@ -5,11 +5,12 @@ permalink: /vol-10/issue-2/jul-sep-2014/nation-building-women-singapore/
 image: /images/vol-10-issue-2/women/washing.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 #### The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked. **Janice Loo** examines the impact that women have had on the nation’s development.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/women/washing.jpg" style="width:70%;">
 Women washing clothes at the <i>kampung’</i>s standpipe in the 1960s. Before Independence, women were mostly engaged in domestic activities. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -30,7 +31,7 @@ For the majority who were economically inactive, life revolved around the home a
 The situation soon changed. Between 1970 and 1980, the FLFPR rose impressively from 29.5 percent to 44.3 percent.[^10] By 1990, the figure had reached 53 percent, meaning that 1 out of every 2 women was in the labour force.[^11] Singapore’s “working woman” had emerged in the span of one generation amid rapid economic development and tremendous social change. With education and employment, she had created a “quiet revolution”[^12] that challenged the gender order. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/women/roxy_electric.jpg" style="width:70%;">
 Women working in the factory of Roxy Electric Company Ltd in 1966. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -59,7 +60,7 @@ The entry of women into the workforce on such an unprecedented scale was attribu
 Conversely, government policies on education, housing and family planning, coupled with official encouragement of women’s employment, spurred female labour participation in both intended and inadvertent ways. Age, marital status, educational attainment, and socioeconomic background determined the extent to which women have contributed and benefitted from economic development.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/women/tancho_corporation.jpg" style="width:70%;">
 Workers at the factory of Tancho Corporation Limited at Little Road in 1967. Tancho was a sticky pomade that men used to style their hair. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -72,14 +73,14 @@ Demand for female labour consequently accelerated as industrialisation proceeded
 The severe labour shortage prompted the government not only to relax regulations on the employment of temporary foreign workers, but also to mobilise the economically inactive female population.[^30] In general, single women in their early twenties had the highest rate of economic activity; this decreased with advancing age as many pulled out of work after marriage and childbirth to focus on family responsibilities.[^31] Only 1 in 7 married women, as compared with 1 in 3 single women, were economically active in 1970.[^32]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/women/setron_limited.jpg" style="width:70%;">
 A female worker at Setron Limited – which manufactured television sets – at Tanglin Halt in 1966. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
 For a country that prizes human capital as its sole asset, the high proportion of economically inactive women represented a critically under-utilised resource. As such, housewives and young unmarried women who stayed home to help with domestic chores were identified by the state in 1971 as “the largest source for potential increase of the labour force.”[^33] Official measures taken to attract and retain women in the workforce included providing additional public childcare facilities, locating light-manufacturing industries within housing estates, and urging employers to offer part-time work arrangements.[^34]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/women/Child_care_centre.jpg" style="width:70%;">
 People’s Association Child Care Centre at Queen’s Street in 1985. Child care was and is a pressing concern of many working mothers. <i>MITA collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -93,7 +94,7 @@ At the same time, those who could not obtain employment in the industrial and co
 
 #### **Changes on the Home Front**
 
-The costs of urban, high-rise living have rendered women’s employment a matter of financial necessity. In 1964, four years after the state public housing programme was launched, the <i>New Lives in New Homes</i> survey by the Persatuan Wanita Singapura found that respondents were of the unanimous opinion that life was costlier in Housing & Development Board (HDB) flats than in <i>kampungs</i> and pre-war tenements in the city centre.[^40] The additional expenditure was chiefly met by increased income through the wife’s efforts, for example, through making cakes for sale and taking in sewing jobs, or increases in the husband’s income as well as more careful budgeting and by working in small factories in the estate.[^41] At the time, about 20 percent of the population lived in HDB flats.[^42] By 1980, the figure had risen to 67.8 percent.[^43]
+The costs of urban, high-rise living have rendered women’s employment a matter of financial necessity. In 1964, four years after the state public housing programme was launched, the <i>New Lives in New Homes</i> survey by the Persatuan Wanita Singapura found that respondents were of the unanimous opinion that life was costlier in Housing &amp; Development Board (HDB) flats than in <i>kampungs</i> and pre-war tenements in the city centre.[^40] The additional expenditure was chiefly met by increased income through the wife’s efforts, for example, through making cakes for sale and taking in sewing jobs, or increases in the husband’s income as well as more careful budgeting and by working in small factories in the estate.[^41] At the time, about 20 percent of the population lived in HDB flats.[^42] By 1980, the figure had risen to 67.8 percent.[^43]
 
 Mass resettlement and home ownership propelled more women into the workforce to help cover daily expenses such as food and utilities, and the purchase of home appliances, furnishings, consumer goods and other trappings of the new lifestyle.[^44] When interviewed in the mid-1970s on her reasons for working, Ah Geok, who worked in an electronics assembly, replied, “Prices and inflation are so high nowadays that I have to work.”[^45] Faced with rising cash needs, the gainful employment of women became increasingly essential for the maintenance and improvement of family living standards. 
 
@@ -102,7 +103,7 @@ In the meantime, the National Productivity Board, in its recommendations for inc
 The adoption of the two-child family norm, brought about by an intensive national family planning campaign in 1972, reduced the time and effort required for childbearing, nursing and housework, thus facilitating the employment of women.[^48] Even so, the problem of childcare has been a major obstacle to the participation of women in the labour force after marriage.[^49]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/women/studio_photograph.jpg">
 A studio photograph of a family of eight taken in 1940. Families were later encouraged to have a maximum of two children. <i>Courtesy of National Archives of Singapore.</i></div>
 
@@ -135,11 +136,11 @@ Ghim, P. (1994, March). The Singapore Council of Women and the women’s movemen
 
 Khoo, C.K. (1981). *[Census of population 1980 Singapore. Release No. 4, Economic characteristics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181626)*. Singapore: Department of Statistics. (Call no.: RSING 312.095957 CEN)
 
-Lai, A.E. (Interviewer). (1985, April 18). *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=13)* [Transcript of MP3 recording no. 001632/04/01, p. 8]. Retrieved from National Archives of Singapore website.
+Lai, A.E. (Interviewer). (1985, April 18). *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html)* [Transcript of MP3 recording no. 001632/04/01, p. 8]. Retrieved from National Archives of Singapore website.
 
 Lim, L.Y.C. (1982). *[Women in the Singapore economy](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080228)*. Singapore: Chopmen Publishers. (Call no.: RSING 331.4095957 LIM)
 
-Lim, L., & Pang, E.F. (1986). *[Trade, employment and industrialisation in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139357)*. Geneva, Switzerland: International Labour Organisation. (Call no.: RSING 330.95957 LIM)
+Lim, L., &amp; Pang, E.F. (1986). *[Trade, employment and industrialisation in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139357)*. Geneva, Switzerland: International Labour Organisation. (Call no.: RSING 330.95957 LIM)
 
 Lyons, L. (2004). *[A state of ambivalence: The feminist movement in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008)*. Leiden: Brill. (Call no.: RSING 305.42095957 LYO)
 
@@ -147,15 +148,15 @@ Lyons, L. (2004). *[A state of ambivalence: The feminist movement in Singapore](
 
 Ong, K.B. (1972, June 6). [Housewife by day, worker by night](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720606-1.2.115.1). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
-Purushotam, N. (2003). Silent witnesses: The ‘woman’ in the photograph. In K.B. Chan & C.K. Tong (Eds.), *[Past times: A social history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570)* (pp. 33–55). Singapore: Times Editions. (Call no.: RSING 959.57 PAS)
+Purushotam, N. (2003). Silent witnesses: The ‘woman’ in the photograph. In K.B. Chan &amp; C.K. Tong (Eds.), *[Past times: A social history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570)* (pp. 33–55). Singapore: Times Editions. (Call no.: RSING 959.57 PAS)
 
-Purushotam, N. (2004). Women and knowledge/power: Notes on the Singaporean dilemma. In K.C. Ban, A. Pakir & C.K. Tong (Eds.), *[Imagining Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896)* (pp. 328–364). Singapore: Eastern Universities Press. (Call no.: RSING 959.57 IMA)
+Purushotam, N. (2004). Women and knowledge/power: Notes on the Singaporean dilemma. In K.C. Ban, A. Pakir &amp; C.K. Tong (Eds.), *[Imagining Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896)* (pp. 328–364). Singapore: Eastern Universities Press. (Call no.: RSING 959.57 IMA)
 
-Pwu, L.J., Campbell, K., & Chia-Chan, A. (1999). *[The 3 paradoxes: Working women in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9379053)*. Singapore: Association of Women for Action and Research. (Call no.: RSING 305.4 LEE)
+Pwu, L.J., Campbell, K., &amp; Chia-Chan, A. (1999). *[The 3 paradoxes: Working women in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9379053)*. Singapore: Association of Women for Action and Research. (Call no.: RSING 305.4 LEE)
 
 Salaff, J.W. (1988). *[State and family in Singapore: Restructuring an industrial society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4493502)*. Ithaca: Cornell University Press. (Call no.: RSING 406.85095957 SAL)
 
-Salaff, J.W., & Wong, A.K. (1984). Women’s work: Factory, family and social class in an industrialising order (pp. 189–214). In G.W. Jones (Ed.), *[Women in the urban and industrial workforce: Southeast and East Asia. Canberra: Australian National University](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446995)*. (Call no.: RSING 331.40949 WOM)
+Salaff, J.W., &amp; Wong, A.K. (1984). Women’s work: Factory, family and social class in an industrialising order (pp. 189–214). In G.W. Jones (Ed.), *[Women in the urban and industrial workforce: Southeast and East Asia. Canberra: Australian National University](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446995)*. (Call no.: RSING 331.40949 WOM)
 
 Saw, S.H. (2012). *[The population of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14383911)*. Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 
@@ -163,9 +164,9 @@ Seow, P.L. (1965). *[Report of new life in new homes](https://eservice.nlb.gov.s
 
 Singapore. Ministry of Social Affairs. Research Branch. (1984). *[Report on national survey on married women, their role in the family and society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082439)*. Singapore: Research Branch, Ministry of Social Affairs. (Call no.: RSING 301.412095957 REP)
 
-Singapore. Department of Statistics. (1996). <i>Singapore, 1965–1995 statistical highlights: A review of 30 years’ development</i>. Singapore: Department of Statistics, Ministry of Trade & Industry. (Not available in NLB holdings)
+Singapore. Department of Statistics. (1996). <i>Singapore, 1965–1995 statistical highlights: A review of 30 years’ development</i>. Singapore: Department of Statistics, Ministry of Trade &amp; Industry. (Not available in NLB holdings)
 
-Singapore. Department of Statistics. (2014). <i>Households & housing (table) key demographic indicators, 1970–2013</i>. Retrieved from Singapore Department of Statistics website. 
+Singapore. Department of Statistics. (2014). <i>Households &amp; housing (table) key demographic indicators, 1970–2013</i>. Retrieved from Singapore Department of Statistics website. 
 
 Toh, T.S. (1971). *[Increasing Singapore’s effective supply of labour](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4412856)*. Singapore: National Productivity Centre. (Call no.: RCLOS 331.12095957 TOH)
 
@@ -175,13 +176,13 @@ Wee, C. (1980, May 25). [Why housewives are opting for part-time work](http://er
 
 Wong, A.K. (1975). *[Women in modern Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=875315)*, Singapore: Singapore University Education Press. (Call no.: RSING 301.412095957 WON)
 
-Wong, A.K. (1979). Women’s status and changing family values. In E. Kuo & A.K. Wong (Eds.), *[The contemporary family in Singapore: Structure and change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081987)* (pp. 40–61). Singapore: Singapore University Press. (Call no.: RSING 301.42095957 CON)
+Wong, A.K. (1979). Women’s status and changing family values. In E. Kuo &amp; A.K. Wong (Eds.), *[The contemporary family in Singapore: Structure and change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081987)* (pp. 40–61). Singapore: Singapore University Press. (Call no.: RSING 301.42095957 CON)
 
 Wong, A.K. (1980). *[Economic development and women’s place: Women in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4138744)*. London: Change International Report. (Call no.: RSING 301.412095957 WON)
 
 Wong, A.K. (1981, Winter). Planned development, social stratification, and the sexual division of labour in Singapore. <i>Signs</i>, 7 (2), 434–452. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Wong, A.K., & Leong, W.K. (Eds.). (1993). *[Singapore women: Three decades of change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564)*. Singapore: Times Academic Press. (Call no.: RSING 305.42095957 SIN)
+Wong, A.K., &amp; Leong, W.K. (Eds.). (1993). *[Singapore women: Three decades of change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564)*. Singapore: Times Academic Press. (Call no.: RSING 305.42095957 SIN)
 
 Wong, L.W. (1972, October 29). [Quiet revolution in modern homes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721029-1.2.84.1). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
@@ -199,41 +200,41 @@ Wong, L.W. (1972, October 29). [Quiet revolution in modern homes](http://eresour
 
 [^6]: Arumainathan, P. (1973). *[Report on the census of population 1970 Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4648614)* (Vol. 1, pp. 180, 182). Singapore: Department of Statistics. (Call no.: RSING 312.095957 SIN)
 
-[^7]: Lai, A.E. (Interviewer). (1985, April 18). *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=13)* [Transcript of MP3 recording no. 001632/04/01, p. 8]. Retrieved from National Archives of Singapore website.
+[^7]: Lai, A.E. (Interviewer). (1985, April 18). *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=13)* [Transcript of MP3 recording no. 001632/04/01, p. 8]. Retrieved from National Archives of Singapore website.
 
-[^8]: *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&&pn=13)*, 18 Apr 1985, p. 7.
+[^8]: *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=13)*, 18 Apr 1985, p. 7.
 
-[^9]: Purushotam, N. (2003). Silent witnesses: The ‘woman’ in the photograph (pp. 39–41). In K.B. Chan & C.K. Tong (Eds.), *[Past times: A social history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570)*. Singapore: Times Editions. (Call no.: RSING 959.57 PAS)
+[^9]: Purushotam, N. (2003). Silent witnesses: The ‘woman’ in the photograph (pp. 39–41). In K.B. Chan &amp; C.K. Tong (Eds.), *[Past times: A social history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570)*. Singapore: Times Editions. (Call no.: RSING 959.57 PAS)
 
-[^10]: Singapore. Department of Statistics. (1996). <i>Singapore, 1965–1995 statistical highlights: A review of 30 years’ development</i> (p. 20). Singapore: Department of Statistics, Ministry of Trade & Industry. (Not available in NLB holdings)
+[^10]: Singapore. Department of Statistics. (1996). <i>Singapore, 1965–1995 statistical highlights: A review of 30 years’ development</i> (p. 20). Singapore: Department of Statistics, Ministry of Trade &amp; Industry. (Not available in NLB holdings)
 
 [^11]: Singapore. Department of Statistics, 1996, p. 20.
 
-[^12]: Pwu, L.J., Campbell, K., & Chia-Chan, A. (1999). *[The 3 paradoxes: Working women in Singapore ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9379053)*(p. 3).  Singapore: Association of Women for Action and Research. (Call no.: RSING 305.4 LEE)
+[^12]: Pwu, L.J., Campbell, K., &amp; Chia-Chan, A. (1999). *[The 3 paradoxes: Working women in Singapore ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9379053)*(p. 3).  Singapore: Association of Women for Action and Research. (Call no.: RSING 305.4 LEE)
 
 [^13]: People’s Action Party. (1959). <i>The tasks ahead, PAP’s five year plan 1959–1964</i> (Part 1, p. 7). Singapore: The Party. (Not available in NLB holdings)
 
 [^14]: Ghim, P. (1994, March). The Singapore Council of Women and the women’s movement. <i>Journal of Southeast Asian Studies</i>, 25 (1), 112–140, p. 134. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^15]: [Pwu, Campbell & Chia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9379053), 1999, p. 39.
+[^15]: [Pwu, Campbell &amp; Chia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9379053), 1999, p. 39.
 
 [^16]: Lyons, L. (2004). *[A state of ambivalence: The feminist movement in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12349008)* (p. 27). Leiden: Brill. (Call no.: RSING 305.42095957 LYO)
 
-[^17]: Wong, A.K., & Leong, W.K. (Eds.). (1993). *[Singapore women: Three decades of change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564)* (pp. 256–257). Singapore: Times Academic Press. (Call no.: RSING 305.42095957 SIN)
+[^17]: Wong, A.K., &amp; Leong, W.K. (Eds.). (1993). *[Singapore women: Three decades of change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564)* (pp. 256–257). Singapore: Times Academic Press. (Call no.: RSING 305.42095957 SIN)
 
-[^18]: [Wong & Leong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564), 1993, pp. 256–257.
+[^18]: [Wong &amp; Leong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442564), 1993, pp. 256–257.
 
-[^19]: [Pwu, Campbell & Chia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9379053), 1999, p. 13.
+[^19]: [Pwu, Campbell &amp; Chia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9379053), 1999, p. 13.
 
 [^20]: [‘Come out of your domestic shells’ call to women](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680314-1.2.32). (1968, March 14). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
 [^21]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680314-1.2.32)*, 14 Mar 1968, p. 5.
 
-[^22]: Lim, L., & Pang, E.F. (1986). *[Trade, employment and industrialisation in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139357)* (p. 17). Geneva, Switzerland: International Labour Organisation. (Call no.: RSING 330.95957 LIM)
+[^22]: Lim, L., &amp; Pang, E.F. (1986). *[Trade, employment and industrialisation in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139357)* (p. 17). Geneva, Switzerland: International Labour Organisation. (Call no.: RSING 330.95957 LIM)
 
-[^23]: [Lim & Pang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139357), 1986, p. 5.
+[^23]: [Lim &amp; Pang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139357), 1986, p. 5.
 
-[^24]: [Lim & Pang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139357), 1986, p. 7.
+[^24]: [Lim &amp; Pang](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4139357), 1986, p. 7.
 
 [^25]: Khoo, C.K. (1981). *[Census of population 1980 Singapore. Release No. 4, Economic characteristics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181626)* (p. 13). Singapore: Department of Statistics. (Call no.: RSING 312.095957 CEN)
 
@@ -271,11 +272,11 @@ Wong, L.W. (1972, October 29). [Quiet revolution in modern homes](http://eresour
 
 [^42]: [Seow](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980835), 1965, p. 42.
 
-[^43]: Singapore. Department of Statistics. (2014). *Households & housing (table) key demographic indicators*, 1970–2013. Retrieved from Singapore Department of Statistics website. 
+[^43]: Singapore. Department of Statistics. (2014). *Households &amp; housing (table) key demographic indicators*, 1970–2013. Retrieved from Singapore Department of Statistics website. 
 
 [^44]: Salaff, J.W. (1988). *[State and family in Singapore: Restructuring an industrial society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4493502)* (p. 30). Ithaca: Cornell University Press. (Call no.: RSING 406.85095957 SAL)
 
-[^45]: Salaff, J.W., & Wong, A.K. (1984). Women’s work: Factory, family and social class in an industrialising order (pp. 189–214). In G.W. Jones (Ed.), *[Women in the urban and industrial workforce: Southeast and East Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446995)*. Canberra: Australian National University. (Call no.: RSING 331.40949 WOM)
+[^45]: Salaff, J.W., &amp; Wong, A.K. (1984). Women’s work: Factory, family and social class in an industrialising order (pp. 189–214). In G.W. Jones (Ed.), *[Women in the urban and industrial workforce: Southeast and East Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446995)*. Canberra: Australian National University. (Call no.: RSING 331.40949 WOM)
 
 [^46]: [Toh](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4648614), 1971, p. 16.
 
@@ -283,20 +284,20 @@ Wong, L.W. (1972, October 29). [Quiet revolution in modern homes](http://eresour
 
 [^48]: [Lim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080228), 1982, p. 5.
 
-[^49]: Wong, A.K. (1979). Women’s status and changing family values (pp. 44–55). In E. Kuo & A.K. Wong (Eds.), *[The contemporary family in Singapore: Structure and change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081987)* (pp. 40–61). Singapore: Singapore University Press. (Call no.: RSING 301.42095957 CON); Singapore. Ministry of Social Affairs. Research Branch. (1984). *[Report on national survey on married women, their role in the family and society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082439)* (p. 138). Singapore: Research Branch, Ministry of Social Affairs. (Call no.: RSING 301.412095957 REP)
+[^49]: Wong, A.K. (1979). Women’s status and changing family values (pp. 44–55). In E. Kuo &amp; A.K. Wong (Eds.), *[The contemporary family in Singapore: Structure and change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081987)* (pp. 40–61). Singapore: Singapore University Press. (Call no.: RSING 301.42095957 CON); Singapore. Ministry of Social Affairs. Research Branch. (1984). *[Report on national survey on married women, their role in the family and society](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082439)* (p. 138). Singapore: Research Branch, Ministry of Social Affairs. (Call no.: RSING 301.412095957 REP)
 
-[^50]: [Salaff & Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446995), 1984, pp. 202–203.
+[^50]: [Salaff &amp; Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446995), 1984, pp. 202–203.
 
-[^51]: [Salaff & Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446995), 1984, pp. 200, 209, 213.
+[^51]: [Salaff &amp; Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446995), 1984, pp. 200, 209, 213.
 
 [^52]: [Men and women share the same views on night work](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800505-1.2.38). (1980, May 5). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
 [^53]: Ong, K.B. (1972, June 6). [Housewife by day, worker by night](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720606-1.2.115.1). <i>The Straits Times</i>, p. 14; Wee, C. (1980, May 25). [Why housewives are opting for part-time work](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800525-1.2.36). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-[^54]: [Salaff & Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446995), 1984, p. 213.
+[^54]: [Salaff &amp; Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3446995), 1984, p. 213.
 
 [^55]: [Women here have important role, says Puan Aishah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19620427-1.2.36). (1962, April 27). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
 [^56]: *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680727-1.2.30)*, 27 Jul 1968, p. 4.
 
-[^57]: Purushotam, N. (2004). Women and knowledge/power: Notes on the Singaporean dilemma (p. 329). In K.C. Ban, A. Pakir & C.K. Tong (Eds.), *[Imagining Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896)* (pp. 328–364). Singapore: Eastern Universities Press. (Call no.: RSING 959.57 IMA)
+[^57]: Purushotam, N. (2004). Women and knowledge/power: Notes on the Singaporean dilemma (p. 329). In K.C. Ban, A. Pakir &amp; C.K. Tong (Eds.), *[Imagining Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12272896)* (pp. 328–364). Singapore: Eastern Universities Press. (Call no.: RSING 959.57 IMA)
