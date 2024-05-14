@@ -79,7 +79,13 @@ On 8 October 1985, Hasnah Ani and Amanah Mustafi, scriptwriters with the former 
 <br><br>Asfiah also shared her expertise on a variety of Malay dishes, how to make them and how they had evolved over time. The dishes mentioned include <i>kuih coro</i> (also known as <i>kuih bakar manis</i>), <i>kuih telumba</i>, <i>kuih selang madu nikmat</i> (also known as <i>baulu terenang</i>), <i>sambal goreng pengantin</i>, <i>serondeng</i> (<i>dendeng ageh</i>), <i>rojak</i> and <i>nasi rampadan</i>.&nbsp;
 <br><br>
 The National Library of Singapore has the nine-page interview transcript (in Malay) in its holdings, thanks to the kind donation by Amanah Mustafi who still works in television and broadcasting today. If you wish to read the transcript, do make a request at Level 11 of the  
-Lee Kong Chian Reference Library, National Library Building. <br></div>
+Lee Kong Chian Reference Library, National Library Building. <br>
+<br>
+<b>REFERENCES</b><br><br>
+“<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270707-1.2.101">Football: Batavia’s Narrow Win</a>,”<i>Singapore Free Press and Mercantile Advertiser</i>, 7 July 1927, 16. (From NewspaperSG)<br><br>
+“<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220106-1.2.46.aspx">Malaya-Borneo Exhibition</a>,” <i>Singapore Free Press and Mercantile Advertiser (1884–1942),</i> 6 January 1922, 12. (From NewspaperSG)<br><br>
+“<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19270718-1.2.89">Malaya Cup</a>,” <i>Straits Times</i>, 18 July 1927, 12. (From NewspaperSG)<br><br>
+“<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220106-1.2.46.aspx">Malaya-Borneo Exhibition</a>,” <i>Singapore Free Press and Mercantile Advertiser (1884–1942),</i> 6 January 1922, 12. (From NewspaperSG)</div>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yen-.png">
