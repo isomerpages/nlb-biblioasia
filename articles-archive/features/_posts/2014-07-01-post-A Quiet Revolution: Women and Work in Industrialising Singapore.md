@@ -200,7 +200,7 @@ Wong, L.W. (1972, October 29). [Quiet revolution in modern homes](http://eresour
 
 [^6]: Arumainathan, P. (1973). *[Report on the census of population 1970 Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4648614)* (Vol. 1, pp. 180, 182). Singapore: Department of Statistics. (Call no.: RSING 312.095957 SIN)
 
-[^7]: Lai, A.E. (Interviewer). (1985, April 18). *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=13)* [Transcript of MP3 recording no. 001632/04/01, p. 8]. Retrieved from National Archives of Singapore website.
+[^7]: Lai, A.E. (Interviewer). (1985, April 18). *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html)* [Transcript of MP3 recording no. 001632/04/01, p. 8]. Retrieved from National Archives of Singapore website.
 
 [^8]: *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=13)*, 18 Apr 1985, p. 7.
 
