@@ -71,10 +71,6 @@ Asfiah began writing _Hidangan Warisan Kita_ in 1984. On top of facing difficult
 
 In her dedication, Asfiah wrote: “Buat suami, anak-anak dan cucu-cucu yang banyak memberi perangsang dan galakan dan buat semua anak bangsa yang gemarkan masakan tradisi kita.” (“\[To\] my husband, children and grandchildren who had given me a lot of encouragement and to all Malays who love our traditional cuisine.”)28 Slightly more than a year after the publication of the book, Asfiah died at her home on Bussorah Street in August 1987.29 Through her perseverance and dedication, Asfiah’s dream of sharing her heritage with future generations lives on in the pages of _Hidangan Warisan Kita_.
 
-<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-The writer thanks her mother, Aunty Fatimah, Amanah Mustafi and Khir Johari for their assistance and advice. All English translations in this article were provided by the writer.
-</div>
-
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <b>ASFIAH ABDULLAH’S INTERVIEW WITH HASNAH ANI AND AMANAH MUSTAFI </b><br><br>
@@ -86,6 +82,12 @@ Lee Kong Chian Reference Library, National Library Building. <br>
 <br>
 <b>REFERENCES</b><br><br>
  The transcript titled “Temuramah dengan Che Asfiah Abdullah Tentang Serba Sedikit Adat-adat Melayu Serta Jenis-jenis Makanannya” (Interview with Madam Asfiah Abdullah regarding some Malay customs and types of food\] is kept under this record: <i>The Malay Costume (1959–1983/4); Asal Usul Brunei; Jalan-Jalan Cari Makan Jakarta; Research on the Malays in Sri Lanka</i>, manuscript. (From National Library, Singapore, call no. RCLOS 305.89928 MAL)</div>
+
+
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+The writer thanks her mother, Aunty Fatimah, Amanah Mustafi and Khir Johari for their assistance and advice. All English translations in this article were provided by the writer.
+</div>
+
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yen-.png">
