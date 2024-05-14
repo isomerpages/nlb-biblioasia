@@ -82,10 +82,7 @@ The National Library of Singapore has the nine-page interview transcript (in Mal
 Lee Kong Chian Reference Library, National Library Building. <br>
 <br>
 <b>REFERENCES</b><br><br>
-“<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270707-1.2.101">Football: Batavia’s Narrow Win</a>,”<i>Singapore Free Press and Mercantile Advertiser</i>, 7 July 1927, 16. (From NewspaperSG)<br><br>
-“<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220106-1.2.46.aspx">Malaya-Borneo Exhibition</a>,” <i>Singapore Free Press and Mercantile Advertiser (1884–1942),</i> 6 January 1922, 12. (From NewspaperSG)<br><br>
-“<a href="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19270718-1.2.89">Malaya Cup</a>,” <i>Straits Times</i>, 18 July 1927, 12. (From NewspaperSG)<br><br>
-“<a href="https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220106-1.2.46.aspx">Malaya-Borneo Exhibition</a>,” <i>Singapore Free Press and Mercantile Advertiser (1884–1942),</i> 6 January 1922, 12. (From NewspaperSG)</div>
+ The transcript titled “Temuramah dengan Che Asfiah Abdullah Tentang Serba Sedikit Adat-adat Melayu Serta Jenis-jenis Makanannya” (Interview with Madam Asfiah Abdullah regarding some Malay customs and types of food\] is kept under this record: <i>The Malay Costume (1959–1983/4); Asal Usul Brunei; Jalan-Jalan Cari Makan Jakarta; Research on the Malays in Sri Lanka</i>, manuscript. (From National Library, Singapore, call no. RCLOS 305.89928 MAL)</div>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yen-.png">
