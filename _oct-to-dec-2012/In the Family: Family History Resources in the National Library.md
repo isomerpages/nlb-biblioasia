@@ -4,6 +4,7 @@ permalink: /vol-8/issue-3/oct-dec-2012/family-history-national-library/
 description: Tracing our family history can be a slow and laborious process. The
   National Library has various resources to help the researcher complete the
   journey of discovering one’s roots.
+variant: markdown
 ---
 #### Tracing our family history can be a slow and laborious process. The National Library has various resources to help the researcher complete the journey of discovering one’s roots.
 
@@ -97,7 +98,7 @@ The Shepherdson story is an example of family history coming full circle, where 
 
 福建会馆. (1948). [福建会馆磷记山, 老山, 羔丕山地租部, 民国三十七年四月份立](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199253). &nbsp;未出版手稿. &nbsp;(Call no.: Chinese RRARE 333.5095957 FJH; Microfilm no.: NL30213)
 
-黄美萍, 钟伟耀 &amp; 林永美 &nbsp;(编者).&nbsp;&nbsp; (2007). [新加坡宗乡会馆出版书刊目录 = A bibliography on the publications of Singapore Chinese Clan Associations](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922844). 新加坡: 新加坡国家图书馆管理局. (Call no.: Chinese RSING 016.95957 BIB). Also available from [http://libguides.nl.sg/ChineseClans](http://libguides.nl.sg/ChineseClans).
+黄美萍, 钟伟耀 &amp; 林永美 &nbsp;(编者).&nbsp;&nbsp; (2007). [新加坡宗乡会馆出版书刊目录 = A bibliography on the publications of Singapore Chinese Clan Associations](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12922844). 新加坡: 新加坡国家图书馆管理局. (Call no.: Chinese RSING 016.95957 BIB)
 
 新加坡福建会馆 . (1963). [新加坡福建会馆仁记山逐日迁冢纪录底, 自一九六三年五月十八日起至\[一九六三年六月十七日\], _No. 4230__至__8250_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13199224). 未出版手稿. (Call no.: Chinese RRARE 929.5095957 XJP; Microfilm no.: NL30216)
 
