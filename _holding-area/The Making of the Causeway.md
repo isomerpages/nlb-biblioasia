@@ -10,7 +10,7 @@ image: /images/Vol 20 Issue 2/Causeaway/causeaway_img1.jpg
 #### When the Causeway was built 100 years ago, it was the largest engineering project to be undertaken in Malaya. Building it required overcoming significant engineering challenges.
 
 
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img1.jpg)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img1b.jpg)
 <div style="background-color:white;">The completed Causeway from the Johor end, June 1924. The lock channel can be seen in the photo. <i>Tessa Mitchell Collection, courtesy of National Archives of Singapore.</i></div>
 
 
@@ -54,7 +54,7 @@ The Causeway project was technically challenging by the standards of its time an
 
 Tidal studies were carried out in 1917, and design features were incorporated to limit changes in the water level at the Causeway to control possible damage to its structure and surroundings, as well as to manage the strength of the currents passing through its lock to allow for safe navigation.[^10]
 
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img4.jpg)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img4b.jpg)
 <div style="background-color:white;"> Tidal studies showed that the construction of the Causeway would effectively convert the Johor Strait into two separate tidal compartments and give rise to differences in water levels on either side of the Causeway once it was completed. As a result, the consultant engineers incorporated a creative design feature to outfit the Causeway’s lock channel with a double set of floodgates to control the tides that alternated on either side of the Causeway. <i>Courtesy of The National Archives (UK), CAOG 10/50 (56). </i></div>
 
 A detailed plan of the Causeway’s construction site was prepared by Messrs Coode, Matthew, Fitzmaurice &amp; Wilson in 1917, with recommendations to change the Causeway’s orientation. The proposed Causeway would be 3,465 ft long (1,056 m) from bank to bank, with a width of 60 ft (18 m) sufficient to carry two lines of metre-gauge railway tracks, a 26-foot-wide (8 m) roadway, with space reserved for the laying of water mains at a later date.
