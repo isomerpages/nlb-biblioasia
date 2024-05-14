@@ -87,4 +87,62 @@ Lee Kong Chian Reference Library, National Library Building. <br></div>
 
 #### **Notes**
 
-[^1]:
+[^1]:  Her name has also been spelled “Aspiah”. For this article, I have used “Asfiah” which is how it is spelt in her cookbook. The honorific “Hajah” (or “Hajjah”) and “Haji” are titles given to women and men respectively who have performed the pilgrimage to Mecca. I am using the current spelling “Hajah”, which is recommended by _Kamus Dewan_, 4th edition (Dewan Bahasa dan Pustaka, 2005).
+
+[^2]: Malay food here refers to dishes from various communities and subgroups found within the Malay ethnic group. Immigrants from other parts of the Nusantara (the Malay World), such as Java, Sumatra, Sulawesi, Banjar and Malaya, came to trade, work as well as settle in the bustling, cosmopolitan port of Kampong Gelam. Asfiah herself was of Javanese descent.
+
+[^3]:  According to food writer and cooking instructor Christopher Tan, the word _kueh_ or _kuih_ refers to a diverse variety of sweet and savoury foods and snacks. _Kuih_ is the formal spelling used in Malay today. See Christopher Tan, _The Way of Kueh: Savouring &amp; Saving Singapore’s Heritage Desserts_ (Singapore: National Heritage Board, 2019), 2. (From National Library, Singapore, call no. RSING 641.595957 TAN)
+
+[^4]:  
+
+[^5]:  
+
+[^6]:  
+
+[^7]:  
+
+[^8]:  
+
+[^9]:  
+
+[^10]:  
+
+[^11]:  
+
+[^12]:  
+
+[^13]:  
+
+[^14]:  
+
+[^15]:  
+
+[^16]:  
+
+[^17]:  
+
+[^18]:  
+
+[^19]:  
+
+[^20]:  
+
+[^21]:  
+
+[^22]:  
+
+[^23]:  
+
+[^24]:  
+
+[^25]:  
+
+[^26]:  
+
+[^27]:  
+
+[^28]:  
+
+[^29]:  
+
+
