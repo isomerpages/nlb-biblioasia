@@ -133,14 +133,14 @@ Lee Kong Chian Reference Library, National Library Building. <br></div>
 
 [^23]:  Zawiyah Salleh, “Cara Pendidikan Yang Baik Untuk Anak2 Kita,” \[Good way of educating our children\], _Berita Harian_, 30 August 1980, 5. (From NewspaperSG)
 
-[^24]:  
+[^24]: Ang, “Guardian of Malay Culture.”
 
-[^25]:  
+[^25]: Maniseh Haji Siraj, “Chinta Terhadap Seni Pusaka Bangsa Menjadi Darah Daging Chegu Aspiah Abdullah.”
 
-[^26]:  
+[^26]: Haron Abdul Rahman, “A Dream Comes True for ‘Guardian of Culture’.”
 
-[^27]:  
+[^27]: Haron Abdul Rahman, “A Dream Comes True for ‘Guardian of Culture’.”
 
-[^28]:  
+[^28]: Hajah Asfiah Haji Abdullah, _Hidangan Warisan Kita_, n.p.
 
-[^29]:
+[^29]: “Asfiah Meninggal.”
