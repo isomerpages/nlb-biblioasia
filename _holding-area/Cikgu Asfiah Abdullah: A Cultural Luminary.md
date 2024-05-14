@@ -115,23 +115,23 @@ Lee Kong Chian Reference Library, National Library Building. <br></div>
 
 [^14]:  For more information about Malay wedding customs, see Asrina Tanuri and Nadya Suradi, “Malay-Muslim Weddings: Keeping Up with the Times,” _BiblioAsia 17_, no. 2 (July–September 2021): 16–21.
 
-[^15]:  
+[^15]: Ang, “Guardian of Malay Culture.”
 
-[^16]:  
+[^16]:  “PKMS Tak Jadi Keluar Dari MPH Tetapi Ada Sharat,” \[PKMS did not leave MPH but had conditions\], _Berita Harian_, 6 April 1971, 2. (From NewspaperSG). PKMS was registered as a society on 5 August 1953. Founding members include Othman Kalam (advisor), Harun Aminurrashid (president), Othman Haji Omar (vice-president) and Sufiah Yusof (vice-president). For more information on PKMS and its founding, see Persatuan Kebudayaan Melayu Singapura, _Siri Budaya_ (Singapore: Pustaka Melayu, 1960), 45. (From National Library, Singapore, call no. RCLOS 959.5 PER)
 
-[^17]:  
+[^17]:  Zawiyah Salleh, “Badan Wanita Bagi Majukan Seni Kerajinan Tangan,” \[Women's body to advance the art of handicrafts\], _Berita Harian_, 23 September 1973, 6. (From NewspaperSG)
 
-[^18]:  
+[^18]: Maniseh Haji Siraj, “Chinta Terhadap Seni Pusaka Bangsa Menjadi Darah Daging Chegu Aspiah Abdullah,” \[Love towards Malay heritage art becomes part of Chegu Aspiah Abdullah\], _Berita Harian_, 18 July 1971, 9. (From NewspaperSG)
 
-[^19]:  
+[^19]:  “Seni Usaha Daya Membaharui Barang2 Lama,” \[The Art of Effort and Ability updates old things\], _Berita Harian_, 25 April 1972, 7. (From NewspaperSG)
 
-[^20]:  
+[^20]:  “Seni Usaha Daya Membaharui Barang2 Lama.”
 
-[^21]:  
+[^21]: “Lebih 30 Jenis Pakaian Tradisional Diperaga,” \[More than 30 kinds of traditional clothing shown\], _Berita Harian_, 3 March 1981, 3; “1,500 to Take Part in Malay Festival,” _Straits Times_, 23 February 1981, 11. (From NewspaperSG)
 
-[^22]:  
+[^22]:  Zawiyah Salleh, “Peluang Pelajar Seni Lama Sentiasa Terbuka,” \[Opportunities for traditional art students are always open\], _Berita Harian_, 18 July 1981, 7. (From NewspaperSG)
 
-[^23]:  
+[^23]:  Zawiyah Salleh, “Cara Pendidikan Yang Baik Untuk Anak2 Kita,” \[Good way of educating our children\], _Berita Harian_, 30 August 1980, 5. (From NewspaperSG)
 
 [^24]:  
 
