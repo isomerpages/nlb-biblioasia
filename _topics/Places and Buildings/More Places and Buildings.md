@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway">The Making of the Causeway</a>
 
-When the Causeway was built 100 years ago, it was the largest engineering project to be undertaken in Malaya. Building it required overcoming significant challenges.
+The Causeway was built 100 years ago, being the largest engineering project to be undertaken in Malaya. 
 
 <img src="/images/Vol%2020%20Issue%202/Causeaway/causeway.png" style="width:80%;">
 <hr>
