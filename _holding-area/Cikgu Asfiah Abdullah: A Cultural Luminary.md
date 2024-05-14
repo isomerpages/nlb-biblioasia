@@ -75,8 +75,8 @@ In her dedication, Asfiah wrote: “Buat suami, anak-anak dan cucu-cucu yang ban
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <b>ASFIAH ABDULLAH’S INTERVIEW WITH HASNAH ANI AND AMANAH MUSTAFI </b><br><br>
-On 8 October 1985, Hasnah Ani and Amanah Mustafi, scriptwriters with the former Singapore Broadcasting Corporation, interviewed Asfiah Abdullah for a television programme. They asked her various questions about Malay customs, ranging from engagement ceremonies and wedding customs to customary feasts. She talked about customs she was very familiar with such as being a _mak andam_, _suap-suapan_ (the bride and groom feeding each other yellow glutinous rice), _khatam quran_ (completion of Quran recitation) and _makan berdamai_ (bride and groom eating together).
-<br><br>Asfiah also shared her expertise on a variety of Malay dishes, how to make them and how they had evolved over time. The dishes mentioned include _kuih coro_ (also known as _kuih bakar manis_), _kuih telumba_, _kuih selang madu nikmat_ (also known as _baulu terenang_), _sambal goreng pengantin_, _serondeng_ (_dendeng ageh_), _rojak_ and _nasi rampadan_.&nbsp;
+On 8 October 1985, Hasnah Ani and Amanah Mustafi, scriptwriters with the former Singapore Broadcasting Corporation, interviewed Asfiah Abdullah for a television programme. They asked her various questions about Malay customs, ranging from engagement ceremonies and wedding customs to customary feasts. She talked about customs she was very familiar with such as being a <i>mak andam</i>, <i>suap-suapan</i> (the bride and groom feeding each other yellow glutinous rice), <i>khatam quran</i> (completion of Quran recitation) and <i>makan berdamai</i> (bride and groom eating together).
+<br><br>Asfiah also shared her expertise on a variety of Malay dishes, how to make them and how they had evolved over time. The dishes mentioned include <i>kuih coro</i> (also known as <i>kuih bakar manis</i>), <i>kuih telumba</i>, <i>kuih selang madu nikmat</i> (also known as <i>baulu terenang</i>), <i>sambal goreng pengantin</i>, <i>serondeng</i> (<i>dendeng ageh</i>), <i>rojak</i> and <i>nasi rampadan</i>.&nbsp;
 <br><br>
 The National Library of Singapore has the nine-page interview transcript (in Malay) in its holdings, thanks to the kind donation by Amanah Mustafi who still works in television and broadcasting today. If you wish to read the transcript, do make a request at Level 11 of the  
 Lee Kong Chian Reference Library, National Library Building. <br></div>
@@ -87,4 +87,4 @@ Lee Kong Chian Reference Library, National Library Building. <br></div>
 
 #### **Notes**
 
-[^1]: 
+[^1]:
