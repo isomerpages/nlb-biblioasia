@@ -18,6 +18,17 @@ sections:
       background: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/conquering_everest_hero_img.png
   - infopic:
+      title: The Making of the Causeway
+      subtitle: Places and Buildings
+      id: infopic
+      description: The Causeway was built 100 years ago, being the largest engineering
+        project to be undertaken in Malaya. Building it required overcoming
+        significant challenges.
+      button: AN ENGINEERING FEAT
+      url: /vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway/
+      alt: Image alt text
+      image: /images/Vol 20 Issue 2/Causeaway/causeway.png
+  - infopic:
       title: Reconstructing Charles Darwin’s Lost Library
       subtitle: People
       id: infopic
@@ -964,15 +975,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: The Making of the Causeway
-      subtitle: Places and Buildings
-      id: infopic
-      description: The Causeway was built 100 years ago, being the largest engineering
-        project to be undertaken in Malaya. Building it required overcoming
-        significant challenges.
-      button: AN ENGINEERING FEAT
-      url: /vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway/
-      alt: Image alt text
-      image: /images/Vol 20 Issue 2/Causeaway/causeway.png
 ---
