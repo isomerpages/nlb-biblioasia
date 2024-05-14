@@ -82,8 +82,8 @@ The National Library of Singapore has the nine-page interview transcript (in Mal
 Lee Kong Chian Reference Library, National Library Building. <br></div>
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yen.png">
-<b>Phan Ming Yen</b> is an independent writer, researcher and producer. A former journalist and arts manager, his current areas of research are on the Malayan Campaign and Japanese Occupation in Singapore. He has written about 19th-century music in Singapore and also on the Syonan Symphony Orchestra during the Occupation.</div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yen-.png">
+<b>Toffa Abdul Wahed</b>  is a Librarian with the National Library, Singapore. She works with the Singapore and Southeast Asia Collection.</div>
 
 #### **Notes**
 
