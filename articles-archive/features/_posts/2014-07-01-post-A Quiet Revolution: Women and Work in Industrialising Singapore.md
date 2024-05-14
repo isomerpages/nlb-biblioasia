@@ -260,7 +260,7 @@ Wong, L.W. (1972, October 29). [Quiet revolution in modern homes](http://eresour
 
 [^36]: [Girls urged to work as hard as the boys](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680727-1.2.30). (1968, July 27). <i>The Straits Times</i>, p. 4. Retrieved from NewspaperSG.
 
-[^37]: Lai, A.E. (Interviewer). (1985, April 18). *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/d7dbdfea-115f-11e3-83d5-0050568939ad-OHC001632_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no. 001632/04/04, p. 66]. Retrieved from National Archives of Singapore website.
+[^37]: Lai, A.E. (Interviewer). (1985, April 18). *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/d7dbdfea-115f-11e3-83d5-0050568939ad-OHC001632_004/web/html5/index.html)* [Transcript of MP3 recording no. 001632/04/04, p. 66]. Retrieved from National Archives of Singapore website.
 
 [^38]: Prevailing gender segregation in education where young females tended to pass up technical training, which was a stream dominated by males, in favour of academic or commercial studies. See Wong, winter 1981, p. 445.
 
