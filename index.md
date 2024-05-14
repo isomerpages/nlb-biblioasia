@@ -974,4 +974,5 @@ sections:
       button: AN ENGINEERING FEAT
       url: /vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway/
       alt: Image alt text
+      image: /images/Vol 20 Issue 2/Causeaway/causeway.png
 ---
