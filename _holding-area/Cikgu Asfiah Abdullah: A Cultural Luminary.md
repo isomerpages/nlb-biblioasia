@@ -93,27 +93,27 @@ Lee Kong Chian Reference Library, National Library Building. <br></div>
 
 [^3]:  According to food writer and cooking instructor Christopher Tan, the word _kueh_ or _kuih_ refers to a diverse variety of sweet and savoury foods and snacks. _Kuih_ is the formal spelling used in Malay today. See Christopher Tan, _The Way of Kueh: Savouring &amp; Saving Singapore’s Heritage Desserts_ (Singapore: National Heritage Board, 2019), 2. (From National Library, Singapore, call no. RSING 641.595957 TAN)
 
-[^4]:  
+[^4]: Hajah Asfiah Haji Abdullah, _Hidangan Warisan Kita_ (Singapore: Times Books International, 1986), xii. (From National Library, Singapore, via PublicationSG).
 
-[^5]:  
+[^5]: Ang Lay Wah, “Guardian of Malay Culture,” _Straits Times_, 1 June 1986, 12. (From NewspaperSG). The English titles published by Times Books International include Terry Tan, _Straits Chinese Cookbook_ (Singapore: Times Books International, 1981). (From National Library, Singapore, call no. RSING 641.5929505957 TAN); Betty Yew, _Rasa Malaysia_ (Singapore: Times Books International, 1982). (From National Library, Singapore, call no. RSING 641.59595 YEW); Terry Tan, _Oriental Kitchen_ (Singapore: Times Books International, 1982). (From National Library, Singapore, call no. RSING 641.595 TAN); Terry Tan, _Cooking with Chinese Herbs_ (Singapore: Times Books International, 1983). (From National Library, Singapore, call no. RSING 641.5951 TAN); and Wendy Hutton, _Singapore Food_ (Singapore: Times Books International, 1989). (From National Library, Singapore, via PublicationSG)
 
-[^6]:  
+[^6]:  Haron Abdul Rahman, “A Dream Comes True for ‘Guardian of Culture’,” _Straits Times_, 14 August 1986, 7. (From NewspaperSG)
 
-[^7]:  
+[^7]:  Ang, “Guardian of Malay Culture.”
 
-[^8]:  
+[^8]:  Ang, “Guardian of Malay Culture.”
 
-[^9]:  
+[^9]: Zakaria Buang, “Suasana Bussorah St Tak Semeriah Dulu?” \[Atmosphere of Bussorah St is not as lively as it used to be?\], _Berita Harian_, 27 July 1980, 2; “‘Food Fair’ Street Springs to Life Again at Ramadan,” _Straits Times_, 16 August 1978, 9. (From NewspaperSG)
 
-[^10]:  
+[^10]: Ang, “Guardian of Malay Culture.”
 
-[^11]:  
+[^11]:  Margaret Sullivan, “_Can Survive, La”: Cottage Industries in High-Rise Singapore_ (Singapore: G. Brash, 1985), 55–56. (From National Library, Singapore, call no. RSING 338.634095957 SUL)
 
-[^12]:  
+[^12]:  Asfiah Meninggal,” \[Asfiah dies\], _Berita Harian_, 5 August 1987, 8. (From NewspaperSG)
 
-[^13]:  
+[^13]:  Zawiyah Salleh, “Pertunjokan Pakaian Pengantin Wanita Melayu 1800 Menarek Penonton2,” \[Show of Malay bridal attire from 1800 attracts audiences\], _Berita Harian_, 2 April 1972, 9. (From NewspaperSG)
 
-[^14]:  
+[^14]:  For more information about Malay wedding customs, see Asrina Tanuri and Nadya Suradi, “Malay-Muslim Weddings: Keeping Up with the Times,” _BiblioAsia 17_, no. 2 (July–September 2021): 16–21.
 
 [^15]:  
 
@@ -143,6 +143,4 @@ Lee Kong Chian Reference Library, National Library Building. <br></div>
 
 [^28]:  
 
-[^29]:  
-
-
+[^29]:
