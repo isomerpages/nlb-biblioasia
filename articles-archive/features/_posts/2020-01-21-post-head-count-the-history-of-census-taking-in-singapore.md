@@ -4,6 +4,7 @@ date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/head-count-history/
 image: /images/Vol-15-issue-4/history-of-census-taking-in-sg/HeadCount1.JPG
 layout: post
+variant: markdown
 ---
 #### The very first census here was conducted in 1824. **Ang Seow Leng** reveals how doing a headcount has evolved over the last 200 years.
 
@@ -76,7 +77,7 @@ The census in 1980 saw new data collected, for instance, income from work, addre
 The Census (Amendment) Bill that was passed on 28 March 1990 allowed for the exchange of information between government bodies in order to facilitate data gathering during population census exercises, and thus avoid duplication of efforts. To preserve confidentiality and prevent the misuse of information, only the Superintendent of  Census is able to obtain and  share information.[^45]
 
 <img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/Poster.JPG">
-<div style="background-color: white;" style="text-align: center">Publicity poster for Census 2000. <i>Courtesy of Singapore Department of Statistics.</i></div>
+<div style="background-color: white;">Publicity poster for Census 2000. <i>Courtesy of Singapore Department of Statistics.</i></div>
 
 Then Minister for Trade and Industry Mah Bow Tan chaired the 1990 Census Planning Committee, with Lau Kak En as Superintendent. With the support of more than 2,000 people employed to conduct the census exercise during the peak period, it was the first time when details of Singaporeans and permanent residents abroad were included. This was also the first time a country used a census form that had been pre-printed with relevant particulars from various government databases.[^46] Six statistical releases and six census monographs were published between 1991 and 1996, covering almost the same topics as the 1980 census.
 
@@ -89,7 +90,7 @@ The Chairman for the Census 2000 Planning Committee was then Permanent Secretary
 As the fifth census since independence, the exercise in 2010 also adopted a register-based approach in which the basic population count and characteristics were compiled from administrative sources. Hence, there was a reduction of field interviewers to only 140, with 20 field supervisors across 10 regional offices in the country. These interviewers also made use of mobile personal computers to carry out their enumeration on the go, thus removing the need for hardcopy survey forms. Another 400 daily-rated staff were recruited to support day-to-day operations. Ravi Menon, then Permanent Secretary of the Ministry of Trade and Industry, was the Chairman of the 2010 Census Planning Committee, with Chief Statistician Wong Wee Kim as Superintendent.[^51] In 2011, three statistical releases were releases were published on demographic characteristics, education, language and religion, households and housing, and geographic distribution and transport.
 
 <img style="width: 300px; height: 400px;" src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/Census.JPG">
-<div style="background-color: white;" style="text-align: center">Publicity poster for Census 2010. <i>Courtesy of Singapore Department of Statistics.</i></div>
+<div style="background-color: white;">Publicity poster for Census 2010. <i>Courtesy of Singapore Department of Statistics.</i></div>
 
 #### **The Future of Census**
 
@@ -158,7 +159,7 @@ The official report of the 1947 census – released in October 1949 – gave Sin
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-15-issue-4/history-of-census-taking-in-sg/ASL.jpg" style="width: 100px; height: 100px;">
-<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore & Southeast Asian Collection, developing content as well as providing reference and research services related to Singapore and Southeast Asia.
+<b>Ang Seow Leng</b> is a Senior Librarian with the National Library, Singapore. Her responsibilities include managing the Singapore &amp; Southeast Asian Collection, developing content as well as providing reference and research services related to Singapore and Southeast Asia.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/"><center>Back to Issue</center></a>
@@ -168,7 +169,7 @@ The official report of the 1947 census – released in October 1949 – gave Sin
 [^2]:United Nations. Department of Economic and Social Affairs, Statistics Division. (2016). *Handbook on the Management of Population and Housing Censuses*. Retrieved from United Nations website.
 [^3]:United Nations. Department of Economic and Social Affairs, Statistics Division. (2019). *Population and Vital Statistics Report* (p. 1). Retrieved from United Nations website.
 [^4]:McKeown, A. (2004, June). Global migration, 1846–1940. *Journal of World History*, <i>15</i> (2), p. 156. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
-[^5]:Marriott, H. (1991). The peoples of Singapore: inhabitants and population. In Brooke, G.E., Makepeace, W. & Braddell, R. St. John, Sir. (Eds.). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (p. 341). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
+[^5]:Marriott, H. (1991). The peoples of Singapore: inhabitants and population. In Brooke, G.E., Makepeace, W. &amp; Braddell, R. St. John, Sir. (Eds.). [*One hundred years of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718) (p. 341). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE)
 [^6]:Bastin, J. (2014). [*Raffles and Hastings: Private exchanges behind the founding of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200867141) (p. 148). Singapore: National Library Board Singapore [and] Marshall Cavendish Editions. (Call no.: RSING 959.5703 BAS). According to Saw Swee Hock, “the enthusiasm of Raffles had led him to exaggerate somewhat” the population of Singapore. Thomas Braddell reported that the total population was 5,874 in 1821. See Saw, S. (2012). [*The population of Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911) (p. 8) (3rd Ed.). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 304.6095957 SAW)
 [^7]:Buckley, C.B. (1984). [*An anecdotal history of old times in Singapore 1819–1867*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239) (p. 154). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)
 [^8]:Tables listing the figures for each of the early census from 1824 till 1911 are provided by Marriot from pages 355 to 362. Please note that census figures for years 1823 to 1828 can also be found in [Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18290212-1.2.7). (1829, February 12). *The Singapore Chronicle and Commercial Register*, p. 1. Retrieved from NewspaperSG.
@@ -197,9 +198,9 @@ The official report of the 1947 census – released in October 1949 – gave Sin
 [^31]:[Police escorts for census workers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470924-1.2.9). (1947, September 24). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 [^32]:[Singapore census winding up today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470926-1.2.42). (1947, September 26). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 [^33]:[S’pore doubles population in sixteen years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribue19491010-1.2.11). (1949, October 10). *The Malaya Tribune*, p. 1. Retrieved from NewspaperSG.
-[^34]:Huff, G., & Majima, S. (Eds.; Trans.). (2018). [*World War II Singapore: The Chōsabu reports on Syonan*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361) (p. 3). Singapore: NUS Press. (Call no.: RSING 959.5703 WOR)
-[^35]:[Huff & Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, pp. 133, 135.
-[^36]:National Library Board. (2013). [*Operation Sook Ching*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html) written by Stephanie Ho. Retrieved from Singapore Infopedia; [Huff & Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, p. 133.
+[^34]:Huff, G., &amp; Majima, S. (Eds.; Trans.). (2018). [*World War II Singapore: The Chōsabu reports on Syonan*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361) (p. 3). Singapore: NUS Press. (Call no.: RSING 959.5703 WOR)
+[^35]:[Huff &amp; Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, pp. 133, 135.
+[^36]:National Library Board. (2013). [*Operation Sook Ching*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html) written by Stephanie Ho. Retrieved from Singapore Infopedia; [Huff &amp; Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, p. 133.
 [^37]:[Census enumerators out tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470823-1.2.19). (1947, August 23). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^38]:[Census has nothing to do with tax](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470307-1.2.29.13). (1947, March 7). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^39]:[Del Tufo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4500010), 1949, p. 19.
@@ -207,14 +208,14 @@ The official report of the 1947 census – released in October 1949 – gave Sin
 [^41]:[Singapore census for 1957: 1,445,930](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19581128-1.2.37). (1958, November 28). *The Straits Times*, p. 4; [People of Singapore will be counted in 1957](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19560427-1.2.23). (1956, April 27). *The Singapore Free Press*, p. 3; Pillay, T. (1957, February 1). [Singapore census is set for June, 1957](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19570201-1.2.25). *Singapore Standard*, p. 2. Retrieved from NewspaperSG.
 [^42]:United Nations. Department of Economic and Social Affairs. (1969). *Principles and recommendations for the 1970 population censuses*. Second printing with changes of a non-substantive nature. Series M, No. 4. (p. 2). New York: United Nations. Retrieved from United Nations website.
 [^43]:Arumainathan, P. (1973). [*Report on the census of population 1970, Singapore (p. 2). Singapore*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4648614): Govt. Print. Off. (Call no.: RSING 312.095957 SIN); Sam, J. (1969, April 26). [Census of S’pore next year: a $2.3 m. operation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690426-1.2.32). *The Straits Times*, p. 5. Retrieved from NewspaperSG; Saw, 2012, p. 342.
-[^44]:[Saw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911), 2012, p. 343; [Census to begin on May 20](http://eservice.nlb.gov.sg/newspapers/Digitised/Article/biztimes19800514-1.2.13.5). (1980, May 14). *The Business Times*, p. 2; [*All set for the count*](http://eservice.nlb.gov.sg/newspapers/Digitised/Article/newnation19800513-1.2.2). (1980, May 13). New Nation, p. 1. Retrieved from NewspaperSG.
+[^44]:[Saw](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911), 2012, p. 343; [Census to begin on May 20](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19800514-1.2.13.5). (1980, May 14). *The Business Times*, p. 2; [*All set for the count*](http://eservice.nlb.gov.sg/newspapers/Digitised/Article/newnation19800513-1.2.2). (1980, May 13). New Nation, p. 1. Retrieved from NewspaperSG.
 [^45]:Republic of Singapore. [*Government gazette. Bills supplement*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4891326). (1990, March 3). Census (Amendment) Bill (B 10/1990) (pp. 2–3). Singapore: [s.n.]. (Call no.: RSING 348.5957 SGGBS); [Census officer can now swop information](http://eservice.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900329-1.2.32.7). (1990, March 29). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 [^46]:Singapore. Dept. of Statistics. Census of Population Office. (1991). [*Census of population 1990: Advance data release*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5945775) (p. 2). Singapore: SNP Publishers. (Call no.: RSING 304.6021095957 CEN); [1990 census details to be released tomorrow](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19910517-1.2.38.14). (1991, May 17). *The Straits Times*, p. 28. Retrieved from NewspaperSG.
 [^47]:[Plans for Y2K census](http://eservice.nlb.gov.sg/newspapers/Digitised/Article/biztimes20000229-1.2.17.8.2). (2000, February 29). *The Business Times*, p. 9. Retrieved from NewspaperSG.
 [^48]:Singapore Department of Statistics. (2002, June 19–21). *Singapore’s new approach to census taking. At Conference on Chinese population and socioeconomic studies: Utilizing the 2000/2001 round census data. Hong Kong University of Science and Technology.* Retrieved from United Nations Statistics Division website. 
 [^49]:Chuah, A. (2001, January 30). [Minister pays tribute to chief statistician Paul Cheung](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20010130-1.2.15.6). *The Business Times*, p. 6. Retrieved from NewspaperSG.
 [^50]:Leow, B.G.; Singapore. Department of Statistics. (2002). [*Census of population 2000: Administrative report*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11503990) (pp. 6–7). Singapore: Dept. of Statistics, Ministry of Trade and Industry. (Call no.: RSING q304.6021095957 CEN)
-[^51]:Singapore. Department of Statistics. (2011). [*Census of population 2010: Administrative report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11503990) (pp. i, 6, 35, 50). Singapore: Dept. of Statistics, Ministry of Trade & Industry. (Call no.: RSING 304.6021095957 CEN)
+[^51]:Singapore. Department of Statistics. (2011). [*Census of population 2010: Administrative report*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11503990) (pp. i, 6, 35, 50). Singapore: Dept. of Statistics, Ministry of Trade &amp; Industry. (Call no.: RSING 304.6021095957 CEN)
 [^52]:Coleman, D. (2012). Twilight of the census. *Population and Development Review*, 38, 334–351, pp. 334–335. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^53]:Leviathan’s spyglass. (2010, July 17). *The Economist*. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^54]:Department of Statistics Singapore. (2019, October 4). *Statistics Singapore Newsletter* (Issue 2, 2019,p. 14). Retrieved from Department of Statistics Singapore website.
