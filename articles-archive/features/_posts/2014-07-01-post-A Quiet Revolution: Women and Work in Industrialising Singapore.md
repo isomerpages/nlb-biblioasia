@@ -202,7 +202,7 @@ Wong, L.W. (1972, October 29). [Quiet revolution in modern homes](http://eresour
 
 [^7]: Lai, A.E. (Interviewer). (1985, April 18). *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html)* [Transcript of MP3 recording no. 001632/04/01, p. 8]. Retrieved from National Archives of Singapore website.
 
-[^8]: *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;&amp;pn=13)*, 18 Apr 1985, p. 7.
+[^8]: *[Oral history interview with Chua Hui Neo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3c70eb03-115e-11e3-83d5-0050568939ad-OHC001632_001/web/html5/index.html)*, 18 Apr 1985, p. 7.
 
 [^9]: Purushotam, N. (2003). Silent witnesses: The ‘woman’ in the photograph (pp. 39–41). In K.B. Chan &amp; C.K. Tong (Eds.), *[Past times: A social history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800570)*. Singapore: Times Editions. (Call no.: RSING 959.57 PAS)
 
