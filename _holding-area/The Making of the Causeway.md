@@ -133,7 +133,7 @@ The Causeway’s opening in June 1924 was a historic milestone in Singapore-Mala
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-This is an edited extract from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=14251528"> <i>The Causeway</i> </a> (2011), jointly published by the National Archives of Malaysia and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos.: RSING 388.132095957 CAU and SING 388.132095957 CAU).<br><br><img src="/images/Vol%2020%20Issue%202/Causeaway/causeaway_imgcover.png"><br></div>
+<br><img src="/images/Vol%2020%20Issue%202/Causeaway/causeaway_imgcover.png"><br>This is an edited extract from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=14251528"> <i>The Causeway</i> </a> (2011), jointly published by the National Archives of Malaysia and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos.: RSING 388.132095957 CAU and SING 388.132095957 CAU).<br><br></div>
 
 #### **Notes**
 
