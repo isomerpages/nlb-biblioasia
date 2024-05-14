@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway">The Making of the Causeway</a>
+
+The Causeway was built 100 years ago, being the largest engineering project to be undertaken in Malaya. 
+
+<img src="/images/Vol%2020%20Issue%202/Causeaway/causeway.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/1/singapore-street-names-victor-savage/">Interview with Victor Savage, Co-author of Singapore Street Names: A Study of Toponymics</a>
 
 From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation’s history.

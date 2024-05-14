@@ -1,15 +1,16 @@
 ---
 title: The Making of the Causeway
-permalink: /the-making-of-the-causeway/
+permalink: /vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway/
 variant: markdown
 description: When the Causeway was built 100 years ago, it was the largest
   engineering project to be undertaken in Malaya. Building it required
   overcoming significant engineering challenges.
+image: /images/Vol 20 Issue 2/Causeaway/causeaway_img1.jpg
 ---
 #### When the Causeway was built 100 years ago, it was the largest engineering project to be undertaken in Malaya. Building it required overcoming significant engineering challenges.
 
 
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img1.jpg)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img1b.jpg)
 <div style="background-color:white;">The completed Causeway from the Johor end, June 1924. The lock channel can be seen in the photo. <i>Tessa Mitchell Collection, courtesy of National Archives of Singapore.</i></div>
 
 
@@ -53,7 +54,7 @@ The Causeway project was technically challenging by the standards of its time an
 
 Tidal studies were carried out in 1917, and design features were incorporated to limit changes in the water level at the Causeway to control possible damage to its structure and surroundings, as well as to manage the strength of the currents passing through its lock to allow for safe navigation.[^10]
 
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img4.jpg)
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img4b.jpg)
 <div style="background-color:white;"> Tidal studies showed that the construction of the Causeway would effectively convert the Johor Strait into two separate tidal compartments and give rise to differences in water levels on either side of the Causeway once it was completed. As a result, the consultant engineers incorporated a creative design feature to outfit the Causeway’s lock channel with a double set of floodgates to control the tides that alternated on either side of the Causeway. <i>Courtesy of The National Archives (UK), CAOG 10/50 (56). </i></div>
 
 A detailed plan of the Causeway’s construction site was prepared by Messrs Coode, Matthew, Fitzmaurice &amp; Wilson in 1917, with recommendations to change the Causeway’s orientation. The proposed Causeway would be 3,465 ft long (1,056 m) from bank to bank, with a width of 60 ft (18 m) sufficient to carry two lines of metre-gauge railway tracks, a 26-foot-wide (8 m) roadway, with space reserved for the laying of water mains at a later date.
@@ -120,8 +121,7 @@ The year 1923 was a milestone of sorts in the history of the Causeway. The Cause
 
 On 27 September 1923, the general manager of the FMSR sought the sanction of Sultan Ibrahim to open the Causeway and the railway for the public carriage of passengers from 1 October 1923. Approval was granted on 30 September 1923, followed by the publication of Gazette Notification No. 489 in the Johore Government Gazette.[^19] On 1 October 1923, the passenger steam launch ferry service across the strait between Johor Bahru and Woodlands was withdrawn after over a decade of service.
 
-The first passenger train across the Causeway was the night mail, which left Kuala Lumpur on  
-30 September 1923, arriving at Tank Road station at 7.41 am on 1 October. On board was none other than P.A. Anthony, the former general manager of FMSR. The _Straits Times_ described the first passenger train as “a big train, including twelve bogey carriages and forming an imposing display of rolling stock for the auspicious occasion”. And perhaps with a tinge of nostalgia, the _Straits Times_ reporter added: “The ferry across the Straits is now a thing of the past, all trains crossing the Causeway.”[^20] The daily schedule included a day mail and a night mail from both destinations. On 1 October 1923, the Johor Causeway Toll was also introduced for both passenger and goods traffic conveyed over the Causeway, replacing the earlier ferry charges.
+The first passenger train across the Causeway was the night mail, which left Kuala Lumpur on 30 September 1923, arriving at Tank Road station at 7.41 am on 1 October. On board was none other than P.A. Anthony, the former general manager of FMSR. The _Straits Times_ described the first passenger train as “a big train, including twelve bogey carriages and forming an imposing display of rolling stock for the auspicious occasion”. And perhaps with a tinge of nostalgia, the _Straits Times_ reporter added: “The ferry across the Straits is now a thing of the past, all trains crossing the Causeway.”[^20] The daily schedule included a day mail and a night mail from both destinations. On 1 October 1923, the Johor Causeway Toll was also introduced for both passenger and goods traffic conveyed over the Causeway, replacing the earlier ferry charges.
 
 The Causeway was officially completed on 11 June 1924. The final phase of the works included finishing touches to the east wing-wall of the lock, repainting the insides of the lock gates, cleaning and painting the capstans, fairleads and machinery pit covers, and grouting the joints of the pitching behind the east end of the lock. The roadway was completed except for a small portion at the Woodlands end, which was deferred until the railway track was moved to its final position — the second railway track had not been laid yet at the time of the opening. The crossing gates were handed over to the Railway Department in June.&nbsp;
 
@@ -133,7 +133,7 @@ The Causeway’s opening in June 1924 was a historic milestone in Singapore-Mala
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-This is an edited extract from <i>The Causeway</i> (2011), jointly published by the National Archives of Malaysia and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos.: RSING 388.132095957 CAU and SING 388.132095957 CAU).<br></div>
+<br><img src="/images/Vol%2020%20Issue%202/Causeaway/causeaway_imgcover.png"><br>This is an edited extract from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=14251528"> <i>The Causeway</i> </a> (2011), jointly published by the National Archives of Malaysia and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos.: RSING 388.132095957 CAU and SING 388.132095957 CAU).<br><br></div>
 
 #### **Notes**
 
@@ -156,7 +156,7 @@ This is an edited extract from <i>The Causeway</i> (2011), jointly published by 
 [^6]:  _Proceedings of the Federal Council of the Federated Malay States for the year 1917_, p. B57.
 
 
-[^7]: _Proceedings of the Federal Council of the Federated Malay States_, 13 November 1917, B57;&nbsp; The National Archives, United Kingdom, [Extract of Letter from Messrs Coode, Matthews, Fitzmaurice &amp; Wilson to Crown Agents](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/private_records/record-details/26dc86a3-47e7-11e6-b4c5-0050568939ad). (From National Archives of Singapore, accession no. CO 273/462), 267
+[^7]: _Proceedings of the Federal Council of the Federated Malay States_, 13 November 1917, B57;&nbsp; The National Archives, United Kingdom, [_Extract of Letter from Messrs Coode, Matthews, Fitzmaurice &amp; Wilson to Crown Agents_](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/private_records/record-details/26dc86a3-47e7-11e6-b4c5-0050568939ad). (From National Archives of Singapore, accession no. CO 273/462), 267.
 
 
 [^8]: “[The Causeway: A Great Engineering Work Completed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240627-1.2.63),” _Straits Times_, 27 June 1924, 9. (From NewspaperSG)

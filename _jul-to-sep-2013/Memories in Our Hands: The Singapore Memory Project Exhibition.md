@@ -95,8 +95,6 @@ Climo, J., &amp; Cattell, M. (2002). Introduction: Meaning in social memory and 
 
 Crane, S. (Ed.). (2000). _Museums and memory_ (pp. 1–16). California: Stanford University Press. (Not available in NLB holdings)
 
-Foster, J. (2009). [_Memory: A very short introduction_](https://web-b-ebscohost-com.proxy.lib.sg/ehost/detail/detail?vid=0&amp;sid=2ae43bd8-307e-4a48-8648-3c76fd69abb0%40pdc-v-sessmgr02&amp;bdata=JkF1dGhUeXBlPWlwLHVybCx1aWQmc2l0ZT1laG9zdC1saXZl#AN=264958&amp;db=nlebk). UK: Oxford University Press. Retrieved from EBSCOhost website.
-
 Hall, S. (2012). _Theatres of memory: Past and present in contemporary culture_ (pp. 3–50). London: Verso. (Not available in NLB holdings)
 
 Hodgkin, K., &amp; Radstone, S. (Eds.). (2003). [_Contested pasts: The politics of memory_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074) (pp. 1–22). London: Routledge. (Call no.: R 153.12 CON)

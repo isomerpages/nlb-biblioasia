@@ -1,11 +1,11 @@
 ---
-title: "Milestones to the Metric System"
+title: Milestones to the Metric System
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/metric/
-third_nav_title: "Milestones to the Metric System"
+third_nav_title: Milestones to the Metric System
 image: /images/Vol-16-issue-1/metric/Metrication-title.jpg
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #e0dde8;
@@ -25,7 +25,7 @@ table {
 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/metric/Metrication-title.jpg">
 
 A metric information stall set up at Circuit Road Market to educate residents during the Zonal Metric Educational Programme for the MacPherson constituency in 1979. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
@@ -78,7 +78,7 @@ Lim, L. (2018, January 18). How catty and tael entered the English language, alo
 The public sector set the pace for adopting the metric system because any changes implemented by government departments and statutory bodies would cause ripple effects in the private sector and among the general population. All households in Singapore, for example, would be affected when the Public Utilities Board converted to the metric system when billing consumers for water usage. Similarly, the adoption of the metric system by the Housing and Development Board (HDB) would spur the construction industry to follow suit.[^10]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/metric/Think-metric-and-books.png">
 
 In the 1970s, the Singapore Metrication Board published a variety of posters with different themes to educate the public on the new metric system. Posters in four languages were displayed at government departments, schools, offices, factories, bus stops and even in coffee shops to reach out to as many people as possible. <i>Think Metric, Use Celsius and Think Metric, Metric is International are from the collection of the National Library, Singapore (Accession nos.: B21228880I; B15913223D). Learn the Metric Volume is from the Singapore Metrication Board Collection, courtesy of National Archives of Singapore</i>.
@@ -100,7 +100,7 @@ But not all retail sectors were cooperative. Although the textile sector had agr
 Vegetable sellers, however, were more recalcitrant. The same survey found that 30 percent of stallholders still refused to sell in kilograms. One of the main reasons was the unwillingness to learn, with one vegetable seller complaining, “I am too old to change and I think it is easier to use the daching.” Market stallholders, in general, also wanted to shift the responsibility of adopting metric to wholesalers and suppliers; nobody wanted to be the first to change.[^17]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/metric/fishmonger-daching.jpg">
 
 A fishmonger using a <i>daching</i>, 1960s. The <i>daching</i> was used to weigh items in <i>pikul</i>, <i>kati</i> and <i>tahil</i>. Metrication in Singapore made the traditional measuring scale obsolete. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
@@ -128,7 +128,7 @@ Riding on the success of the Inter-School Metric Drama Competition, in 1977, the
 From 1977 to 1980, the board conducted the Zonal Metric Educational Programme where staff visited constituencies and set up metric information stalls at selected markets to educate the public.[^22] The board also produced a free magazine in English and Chinese, *Our Metric Way* (available for reference at the Lee Kong Chian Reference Library), and distributed it to households in various housing estates.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/metric/Metric-conversion-tables.png">
 
 (Left) <i>Metric Conversion Tables</i> is a handy pocket-size booklet providing conversions for a variety of measurements, such as inches to millimetres, <i>tahils</i> to grams, gallons to litres, and even Fahrenheit to Celsius.<br><br>(Right) <i>A Metric Guide for Consumers</i> provides illustrations to help consumers learn and visualise in metric. For example, 1 kilogram is equivalent to the weight of four blocks of butter, and two normal-size tomatoes weigh about 100 grams. It also teaches consumers how to read a metric <i>daching</i> and spring scale. Both publications were produced in the 1970s. <i>Collection of the National Library, Singapore (Accession no.: B15913223D)</i>.
@@ -140,8 +140,8 @@ By 1978, surveys revealed that 79 percent of consumers knew about the metric sys
 To complete the metrication process in Singapore, the board legislated standard sizes of commodities. This was introduced on 1 July 1979 under the Weights and Measures Act for butter, rice, cooking salt, plain wheat flour and granulated white sugar. The next year, this was extended to edible oil, margarine, milk powder and powdered detergent.[^24] On 1 April 1981, the Weights and Measures (Sale of Goods in Metric Units) Order came into effect, requiring the loose sale of textiles, groceries, bean sprouts, noodles, meat products, seafood products, fruits and vegetables to be conducted solely in metric.[^25]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/metric/documentry.jpg ">
+<br>
+<img src="/images/Vol-16-issue-1/metric/documentry.jpg">
 
 <i>It’s Happening in Singapore: Weights and Measures</i> is a 13-minute documentary produced by Radio and Television Singapore in May 1971 introducing the public to metric measurements and the benefits of the metric system. This programme can be viewed on Archives Online. <i>Mediacorp Pte Ltd, courtesy of National Archives of Singapore</i>.
 
@@ -154,8 +154,8 @@ After 11 years, the Singapore Metrication Board was dissolved on 31 December 198
 There were two areas that the Singapore Metrication Board did not convert to metric: existing property and land leases as these contracts spanned long periods of time, and Chinese medicine as the conversion might affect the calibration of herbs required for different uses.[^28]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/metric/Metrication-Digest.png ">
+<br>
+<img src="/images/Vol-16-issue-1/metric/Metrication-Digest.png">
 
 The Singapore Metrication Board produced two newsletters about metrication. <i>Metrication Digest</i> (1971) was printed primarily for the industrial, commercial and manufacturing sectors, providing up-to-date news on technical aspects such as standards, conversions and programmes for implementation. Copies were distributed to teachers, trade associations, professional institutes and chambers of commerce. <i>Our Metric Way</i> (1973–1981) was written in a simple and light-hearted manner with pictures, cartoons and articles to educate the general public on metrication. Copies were distributed to residents in housing estates across Singapore. <i>Collection of the National Library, Singapore (Accession nos.: B28825720A and B17562025F)</i>.
 
@@ -175,8 +175,8 @@ A campaign poster produced in 1980. *Singapore Metrication Board Collection, cou
 The National Library and National Archives of Singapore are the custodians of Singapore's published materials and government records. Primary material such as publicity posters, educational booklets and newsletters produced by the Singapore Metrication Board have been deposited with the two institutions and are available to researchers interested in this aspect of Singapore's economic history.|
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/authors/Shereen_Tay.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-1/authors/Shereen_Tay.png" style="width: 100px; height: 100px;">
 
 <b>Shereen Tay</b> is an Associate Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions of the National Library Board, in particular, web archiving.
 
@@ -209,7 +209,7 @@ The National Library and National Archives of Singapore are the custodians of Si
 [^22]: Singapore Metrication Board. (1978). *[Annual report 1977/78](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182053)* (pp. 26–28). Singapore: The Board. (Call no.: RSING 389.1520615957 SMBAR); Singapore Metrication Board. (1979). *[Annual report 1978/79](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182053)* (p. 24). Singapore: The Board. (Call no.: RSING 389.1520615957 SMBAR)
 [^23]: Singapore Metrication Board. (1978). Metric awareness up. *[Metrication Digest](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4584529)*, *7* (2), p. 1. (Call no.: RSING 389.152 MD)
 [^24]: Singapore Metrication Board. (1980). *[Annual report 1979/80](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182053)* (pp. 2, 5). Singapore: The Board. (Call no.: RSING 389.1520615957 SMBAR); Singapore Metrication Board. (1981). *[Annual report 1980/81](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4182053)* (p. 4). Singapore: The Board. (Call no.: RSING 389.1520615957 SMBAR)
-[^25]: Singapore Metrication Board. (1981). *[Annual report 1980/81](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4182053)* (p. 2). Singapore: The Board. (Call no.: RCLOS 389.1520615957 SMBAR); Singapore Metrication Board. (1981, February 20). *[Weights and Measures (Sale of Goods in Metric Units) Order 1981](http://www.nas.gov.sg/archivesonline/data/pdfdoc/099-1981-02-20.pdf)* [Press release]. Retrieved from National Archives of Singapore website; [Deadlines for going metric...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810217-1.2.62) (1981, February 17). *The Straits Times*, p. 11. Retrieved from NewspaperSG. [testing](https://www.ktph.com.sg//uploads/aha/documents/13031_AHA%20Jan-Feb%202020.PDF)
+[^25]: Singapore Metrication Board. (1981). *[Annual report 1980/81](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4182053)* (p. 2). Singapore: The Board. (Call no.: RCLOS 389.1520615957 SMBAR); Singapore Metrication Board. (1981, February 20). *[Weights and Measures (Sale of Goods in Metric Units) Order 1981](http://www.nas.gov.sg/archivesonline/data/pdfdoc/099-1981-02-20.pdf)* [Press release]. Retrieved from National Archives of Singapore website; [Deadlines for going metric...](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810217-1.2.62) (1981, February 17). *The Straits Times*, p. 11. Retrieved from NewspaperSG. 
 [^26]: [Metric board to dissolve in year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810213-1.2.115). (1981, February 13). *The Straits Times*, p. 34. Retrieved from NewspaperSG.
 [^27]: Enterprise Singapore. (2019, July 16). *Weights and Measures Programme – Frequently asked questions*. Retrieved from Enterprise Singapore website.
 [^28]: [Ooi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200165779), 2013, p. 53.

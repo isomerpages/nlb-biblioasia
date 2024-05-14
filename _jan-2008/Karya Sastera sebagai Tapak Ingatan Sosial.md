@@ -5,6 +5,7 @@ description: "Memory plays an important role in our life. It forms a bridge
   between the past and the present. Places, events and characters in literary
   works are some elements that can trigger social memories. This is illustrated
   in three novels: Atas Nama Cinta, Mail Mau Kawin and Batas Langit."
+variant: markdown
 ---
 #### Memory plays an important role in our life. It forms a bridge between the past and the present. Places, events and characters in literary works are some elements that can trigger social memories. This is illustrated in three novels:&nbsp;_Atas Nama Cinta_,&nbsp;_Mail Mau Kawin_&nbsp;and&nbsp;_Batas Langit_.
 
@@ -129,7 +130,7 @@ Mas, [_Mail Mau Kawin_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=414046
 
 Mohamed Latiff Mohamed, [_Batas Langit_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11721585) (Singapura: Pustaka Nasional, 2002). (Call no. Malay RSING 899.283 MOH)
 
-Muhammad Farouq Osman, “[Upset Over MM Lee’s Re-Merger Comments](https://eresources.nlb.gov.sghttps:/eresources.nlb.gov.sg/newspapers/digitised/articles/straitstimes20071020-2.2.72.1),” _Straits Times_, 20 October 2007, 60. (From NewspaperSG)
+Muhammad Farouq Osman, “[Upset Over MM Lee’s Re-Merger Comments](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20071020-1.2.72.1),” _Straits Times_, 20 October 2007, 60. (From NewspaperSG)
 
 Patrick L. O’ Connell, “Individual and Collective Identity Through Memory in Three Novels of Argentina’s ‘El Proceso’,” _Hispania_ 81, no. 1 (March 1998): 31–41. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 

@@ -3,6 +3,7 @@ title: Textbooks We Remember
 date: 2018-01-14
 permalink: /vol-13/issue-4/jan-mar-2018/textbooks-we-remember/
 layout: post
+variant: markdown
 ---
 #### **Shereen Tay** pores through the National Library’s collection of old primary school English textbooks, and uncovers some classics in the process.
 
@@ -96,7 +97,7 @@ This was one of two series of English textbooks developed by the Curriculum Deve
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>WHAT IS THE LEGAL DEPOSIT?</b>
 <br><br>
-One of the statutory functions of the National Library Board Act is Legal Deposit. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The Legal Deposit function ensures that Singapore’s published heritage is preserved for future generations. Legal Deposit also acts as a repository for published materials, providing exposure via the online catalogue, PublicationSG: <a href="http://www.catalogue.nlb.gov.sg/publicationsg">catalogue.nlb.gov.sg/publicationsg</a>. For more information, please visit <a href="http://www.nlb.gov.sg/Deposit">www.nlb.gov.sg/Deposit</a>.</span>
+One of the statutory functions of the National Library Board Act is Legal Deposit. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The Legal Deposit function ensures that Singapore’s published heritage is preserved for future generations. Legal Deposit also acts as a repository for published materials, providing exposure via the online catalogue, PublicationSG: <a href="https://eresources.nlb.gov.sg/publicationsg/">catalogue.nlb.gov.sg/publicationsg</a>. For more information, please visit <a href="https://www.nlb.gov.sg/main/services/For-Publishers/Legal-Deposit">https://www.nlb.gov.sg/main/services/For-Publishers/Legal-Deposit</a>.</span>
 
 <div style="background-color: white;">
 <br>
@@ -112,7 +113,7 @@ One of the statutory functions of the National Library Board Act is Legal Deposi
 
 [^2]:Ministry of Education. (1959). *[Annual report 1959](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5049326)* [Microfilm: NL 9335]. Singapore: Printed at the Govt. Print. Off; Ministry of Education. (1960). *[Annual report 1960](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5049326)* [Microfilm: NL 9335]. Singapore: Printed at the Govt. Print. Off. Microfilm no.: NL 9335.
 
-[^3]:Yip, J. S. K., & Sim, W. K. (1990). *[Evolution of educational excellence: 25 years of education in the Republic of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5645647)* (pp. 85–99). Singapore: Longman Singapore. (Call no.: RSING 370.95957 EVO); Chew, G. L. P. (2005). Change and continuity: English language teaching in Singapore. *Asian EFL Journal, 7* (4), 1–21, pp 5–8. Retrieved from Asian EFL Journal website.
+[^3]:Yip, J. S. K., &amp; Sim, W. K. (1990). *[Evolution of educational excellence: 25 years of education in the Republic of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5645647)* (pp. 85–99). Singapore: Longman Singapore. (Call no.: RSING 370.95957 EVO); Chew, G. L. P. (2005). Change and continuity: English language teaching in Singapore. *Asian EFL Journal, 7* (4), 1–21, pp 5–8. Retrieved from Asian EFL Journal website.
 
 [^4]:[Ho](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12212999), 2003, pp. 221–224, Chew, 2005, pp. 10–12.
 

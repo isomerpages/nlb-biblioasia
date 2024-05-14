@@ -19,7 +19,7 @@ lives on.
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oDLqIDuvEgQ?si=U2UHRb1ByU7fQuNa"></iframe>
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oDLqIDuvEgQ?si=U2UHRb1ByU7fQuNa"></iframe>
 </div>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
