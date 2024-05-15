@@ -61,6 +61,11 @@ Notably, in 1973, Asfiah played a pivotal role in the establishment of the Women
 
 Within PKMS, one of her major contributions was a regular course she ran for women titled “Seni Usaha Daya” (The Art of Effort and Ability) at Jalan Eunos in the early 1970s. The course, which was offered at $30 and open to the public, consisted of 12 weekly classes on Malay handicrafts, including embroidery and needlework, flower arrangement, making flowers from craft materials, and arranging the _tepak sirih_ (ceremonial betel box used in Malay weddings) and _sirih dara_ (an arrangement of betel leaves and flowers to symbolise a bride’s chastity). Every participant received a certificate upon passing the course.[^18]
 
+
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
+<div style="background-color:white;">Asfiah Abdullah putting together a <i>sirih dara</i> (arrangement of betel leaves and flowers to symbolise a bride’s chastity). <i>Source: Berita Harian, 18 July 1971. © SPH Media Limited. Permission required for reproduction. </i></div>
+
+
 The course revived interest in Malay traditional arts and empowered the participants, many of whom subsequently pursued a career as a _mak andam_. The popular course could have as many as 100 students. Most of those who enrolled were housewives.[^19] &nbsp;
 
 The PKMS also organised exhibitions showcasing the students’ handiwork. For instance, after the completion of a course in 1972, Asfiah hosted a small exhibition at her residence which ran for two days. Visitors lauded the women's resourcefulness in producing captivating works on a budget. In an interview with _Berita Harian_, Asfiah reiterated that there was a need to pass down ancestral knowledge to younger generations, as many lacked the skills to create these traditional pieces particularly items for weddings. She emphasised the rarity of such items and proposed updating them to appeal to modern tastes, especially tourists unfamiliar with these cultural treasures.[^20]
