@@ -170,18 +170,18 @@ The writer thanks her mother, Aunty Fatimah, Amanah Mustafi and Khir Johari for 
 
 [^21]: “[Lebih 30 Jenis Pakaian Tradisional Diperaga](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19810303-1.2.25),” \[More than 30 kinds of traditional clothing shown\], _Berita Harian_, 3 March 1981, 3; “[1,500 to Take Part in Malay Festival](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810223-1.2.59),” _Straits Times_, 23 February 1981, 11. (From NewspaperSG)
 
-[^22]:  Zawiyah Salleh, “Peluang Pelajar Seni Lama Sentiasa Terbuka,” \[Opportunities for traditional art students are always open\], _Berita Harian_, 18 July 1981, 7. (From NewspaperSG)
+[^22]:  Zawiyah Salleh, “[Peluang Pelajar Seni Lama Sentiasa Terbuka](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19810718-1.2.54.1),” \[Opportunities for traditional art students are always open\], _Berita Harian_, 18 July 1981, 7. (From NewspaperSG)
 
-[^23]:  Zawiyah Salleh, “Cara Pendidikan Yang Baik Untuk Anak2 Kita,” \[Good way of educating our children\], _Berita Harian_, 30 August 1980, 5. (From NewspaperSG)
+[^23]:  Zawiyah Salleh, “[Cara Pendidikan Yang Baik Untuk Anak2 Kita](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19800830-1.2.36.2),” \[Good way of educating our children\], _Berita Harian_, 30 August 1980, 5. (From NewspaperSG)
 
-[^24]: Ang, “Guardian of Malay Culture.”
+[^24]: Ang, “[Guardian of Malay Culture](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860601-1.2.67.21.2).”
 
-[^25]: Maniseh Haji Siraj, “Chinta Terhadap Seni Pusaka Bangsa Menjadi Darah Daging Chegu Aspiah Abdullah.”
+[^25]: Maniseh Haji Siraj, “[Chinta Terhadap Seni Pusaka Bangsa Menjadi Darah Daging Chegu Aspiah Abdullah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19710718-1.2.53.2).”
 
-[^26]: Haron Abdul Rahman, “A Dream Comes True for ‘Guardian of Culture’.”
+[^26]: Haron Abdul Rahman, “[A Dream Comes True for ‘Guardian of Culture’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860814-1.2.59.12.1).”
 
-[^27]: Haron Abdul Rahman, “A Dream Comes True for ‘Guardian of Culture’.”
+[^27]: Haron Abdul Rahman, “[A Dream Comes True for ‘Guardian of Culture’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860814-1.2.59.12.1).”
 
-[^28]: Hajah Asfiah Haji Abdullah, _Hidangan Warisan Kita_, n.p.
+[^28]: Hajah Asfiah Haji Abdullah, [_Hidangan Warisan Kita_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080178), n.p.
 
-[^29]: “Asfiah Meninggal.”
+[^29]: “[Asfiah Meninggal](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19870805-1.2.23.2).”
