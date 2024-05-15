@@ -11,11 +11,11 @@ By Toffa Abdul Wahed
 
 In 1986, a cookbook titled _Hidangan Warisan Kita_ (Our Heritage Dishes) was published by Times Books International. Written by Hajah Asfiah Haji Abdullah,[^1] a matriarch revered for her expertise in the cultural arts, the book was priced at $18 and showcased 178 recipes for a wide array of traditional Malay food,[^2] namely _kuih-muih_ (an assortment of sweet or savoury snacks), noodles, rice, accompaniments to rice (_lauk-pauk_) and _gubahan_ (elaborately prepared dishes for special occasions such as weddings and engagement ceremonies).[^3]
 
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img1.jpg)
 <div style="background-color:white;"> Asfiah Abdullah’s cookbook, <i>Hidangan Warisan Kita</i>, features several dishes on the cover, including  <i>bunga kobis </i> (main image). <i>From Hajah Asfiah Haji Abdullah, Hidangan Warisan Kita (Singapore: Times Books International, 1986). (From National Library, Singapore, via PublicationSG). </i></div>
 
 
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img2.jpg)
 <div style="background-color:white;">An array of Malay  <i>kuih</i> is featured in <i>Hidangan Warisan Kita</i>. On the left-hand page (clockwise from the top) are <i>kuih halwa maskat</i>, <i>baulu terenang</i>, <i>sesagun</i> and <i>deram-deram</i>. On the right-hand page is <i>kuih telumba</i>. <i>Images reproduced from Hajah Asfiah Haji Abdullah, Hidangan Warisan Kita (Singapore: Times Books International, 1986), 18–19. (From National Library, Singapore, via PublicationSG). </i></div>
 
 
@@ -24,8 +24,8 @@ In her preface, Asfiah invited readers to embark on a journey to discover the au
 This book represented many firsts. It was the first time that Times had published a cookbook written in the Malay language by a Malay author, and in doing so, the publisher had put Asfiah in the company of familiar household names like Terry Tan and Betty Yew, who had written several cookbooks about Singaporean cuisine, Malaysian cuisine and Peranakan Chinese cuisine for the same publisher.[^5]&nbsp;
 
 
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
-<div style="background-color:white;"> An uncommon dish of <i>mee maidin</i> prepared by award-winning author Khir Johari. The recipe is featured in _Hidangan Warisan Kita_. <i>Photo by Woo Pei Qi. </i></div>
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img3.jpg)
+<div style="background-color:white;"> An uncommon dish of <i>mee maidin</i> prepared by award-winning author Khir Johari. The recipe is featured in <i>Hidangan Warisan Kita</i>. <i>Photo by Woo Pei Qi. </i></div>
 
 
 
@@ -35,11 +35,11 @@ After the book was published, _Straits Times_ journalist Haron Abdul Rahman note
 
 Born in 1920 in Kampong Gelam, Asfiah began learning the art of making Malay _kuih_ from her mother when she was just 6 years old. She also helped out at her mother’s food stall in front of their house on Bussorah Street, directly behind Sultan Mosque, during the Muslim fasting month of Ramadan. “My mother taught me how to bake Malay cakes which she herself was very good at. Then I was sent to Rochore Malay Girls’ School, where I learnt handicrafts like embroidery and flower-making,” she told the _Straits Times_ in an interview in June 1986.[^7]
 
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img4.jpg)
 <div style="background-color:white;">Asfiah Abdullah with her cookbook, <i>Hidangan Warisan Kita</i>, published in 1986. <i>Source: The Straits Times, 14 August 1986. © SPH Media Limited. Permission required for reproduction. </i></div>
 
 
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img5.jpg)
 <div style="background-color:white;"> Members of Asfiah Abdullah’s family at their stall at the food fair held every year on Bussorah Street during Ramadan. <i> Image reproduced from Margaret Sullivan, “Can Survive, La”: Cottage Industries in High-rise Singapore (Singapore: G. Brash, 1985), 55. (From National Library, Singapore, call no. RSING 338.634095957 SUL). </i></div>
 
 
@@ -68,7 +68,7 @@ Notably, in 1973, Asfiah played a pivotal role in the establishment of the Women
 Within PKMS, one of her major contributions was a regular course she ran for women titled “Seni Usaha Daya” (The Art of Effort and Ability) at Jalan Eunos in the early 1970s. The course, which was offered at $30 and open to the public, consisted of 12 weekly classes on Malay handicrafts, including embroidery and needlework, flower arrangement, making flowers from craft materials, and arranging the _tepak sirih_ (ceremonial betel box used in Malay weddings) and _sirih dara_ (an arrangement of betel leaves and flowers to symbolise a bride’s chastity). Every participant received a certificate upon passing the course.[^18]
 
 
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img6.jpg)
 <div style="background-color:white;">Asfiah Abdullah putting together a <i>sirih dara</i> (arrangement of betel leaves and flowers to symbolise a bride’s chastity). <i>Source: Berita Harian, 18 July 1971. © SPH Media Limited. Permission required for reproduction. </i></div>
 
 
@@ -81,7 +81,7 @@ Asfiah’s association with Majlis Pusat and its women’s department began in t
 In 1981, she had about 30 of her _sanggul_ (embellished hairbun) creations displayed in an exhibition by Majlis Pusat titled “Pameran Seni Budaya” (Cultural Arts Exhibition) held at the National Museum. The exhibition was one of the programmes offered as part of the inaugural Pesta Budaya Melayu (Malay Culture Festival), also organised by Majlis Pusat, from 6 to 15 March. It was touted as the “first large-scale Malay cultural festival in Singapore”.[^21]
 
 
-![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img7.jpg)
 <div style="background-color:white;"> Asfiah Abdullah (extreme right) examining her students’ handiwork at a showcase organised by the Women’s Wing of the Majlis Pusat. The event was held to mark the end of the cultural arts course that she had conducted. <i>Source: Berita Harian, 18 July 1981. © SPH Media Limited. Permission required for reproduction. </i></div>
 
 
