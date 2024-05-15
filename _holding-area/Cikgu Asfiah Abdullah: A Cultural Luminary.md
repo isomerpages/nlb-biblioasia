@@ -11,6 +11,10 @@ By Toffa Abdul Wahed
 
 In 1986, a cookbook titled _Hidangan Warisan Kita_ (Our Heritage Dishes) was published by Times Books International. Written by Hajah Asfiah Haji Abdullah,[^1] a matriarch revered for her expertise in the cultural arts, the book was priced at $18 and showcased 178 recipes for a wide array of traditional Malay food,[^2] namely _kuih-muih_ (an assortment of sweet or savoury snacks), noodles, rice, accompaniments to rice (_lauk-pauk_) and _gubahan_ (elaborately prepared dishes for special occasions such as weddings and engagement ceremonies).[^3]
 
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
+<div style="background-color:white;"> Asfiah Abdullah’s cookbook, <i>Hidangan Warisan Kita</i>, features several dishes on the cover, including _bunga kobis_ (main image). <i>From Hajah Asfiah Haji Abdullah, Hidangan Warisan Kita (Singapore: Times Books International, 1986). (From National Library, Singapore, via PublicationSG). </i></div>
+
+
 In her preface, Asfiah invited readers to embark on a journey to discover the authentic ways of preparing traditional Malay dishes. “I sincerely hope that with the publication of this book, all our heritage cuisines and dishes will continue to be cherished, not lost to time, and will become a treasure in our kitchens for generations to come,” she wrote.[^4]
 
 This book represented many firsts. It was the first time that Times had published a cookbook written in the Malay language by a Malay author, and in doing so, the publisher had put Asfiah in the company of familiar household names like Terry Tan and Betty Yew, who had written several cookbooks about Singaporean cuisine, Malaysian cuisine and Peranakan Chinese cuisine for the same publisher.[^5]&nbsp;
