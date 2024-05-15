@@ -33,6 +33,10 @@ Born in 1920 in Kampong Gelam, Asfiah began learning the art of making Malay _ku
 <div style="background-color:white;">Asfiah Abdullah with her cookbook, <i>Hidangan Warisan Kita</i>, published in 1986. <i>Source: The Straits Times, 14 August 1986. © SPH Media Limited. Permission required for reproduction. </i></div>
 
 
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
+<div style="background-color:white;"> Members of Asfiah Abdullah’s family at their stall at the food fair held every year on Bussorah Street during Ramadan. <i> Image reproduced from Margaret Sullivan, “Can Survive, La”: Cottage Industries in High-rise Singapore (Singapore: G. Brash, 1985), 55. (From National Library, Singapore, call no. RSING 338.634095957 SUL). </i></div>
+
+
 The skills that Asfiah acquired in school further enriched her repertoire. In 1931, after completing Standard Four at age 10, she began teaching Malay handicrafts at the school. “It was difficult at first,” she said. “Many of the girls were only a year younger than me and I could not control them sometimes. I kept having to go to the headmistress for help.”[^8] Despite her initial challenges, Asfiah found joy in teaching and continued to impart her skills and knowledge to others throughout her life.
 
 After her mother’s death, Asfiah took over the business and the stall remained a regular fixture at the annual food fair in Kampong Gelam. During this time, Bussorah Street would be lined with rows of makeshift stalls that attracted people from all over Singapore for the delicious food. She enticed customers with a smorgasbord comprising _kuih_ and dishes like _mee siam_ and _laksa_. In 1980, Asfiah passed the torch of running the business to her daughters, Salamah, Rasidah and Masita, but continued to help in the preparation of the _kuih_.[^9] Later, her youngest son also took an interest in learning to run her _kuih_ and _tekat_ (a type of traditional Malay embroidery used to decorate ceremonial items made of velvet with designs created using gold threads) business.[^10]
