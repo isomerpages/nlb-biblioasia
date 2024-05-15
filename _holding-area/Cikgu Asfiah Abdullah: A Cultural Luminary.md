@@ -164,11 +164,11 @@ The writer thanks her mother, Aunty Fatimah, Amanah Mustafi and Khir Johari for 
 
 [^18]: Maniseh Haji Siraj, “[Chinta Terhadap Seni Pusaka Bangsa Menjadi Darah Daging Chegu Aspiah Abdullah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19710718-1.2.53.2),” \[Love towards Malay heritage art becomes part of Chegu Aspiah Abdullah\], _Berita Harian_, 18 July 1971, 9. (From NewspaperSG)
 
-[^19]:  “Seni Usaha Daya Membaharui Barang2 Lama,” \[The Art of Effort and Ability updates old things\], _Berita Harian_, 25 April 1972, 7. (From NewspaperSG)
+[^19]:  “[Seni Usaha Daya Membaharui Barang2 Lama](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19720425-1.2.47.4),” \[The Art of Effort and Ability updates old things\], _Berita Harian_, 25 April 1972, 7. (From NewspaperSG)
 
-[^20]:  “Seni Usaha Daya Membaharui Barang2 Lama.”
+[^20]:  “[Seni Usaha Daya Membaharui Barang2 Lama](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19720425-1.2.47.4).”
 
-[^21]: “Lebih 30 Jenis Pakaian Tradisional Diperaga,” \[More than 30 kinds of traditional clothing shown\], _Berita Harian_, 3 March 1981, 3; “1,500 to Take Part in Malay Festival,” _Straits Times_, 23 February 1981, 11. (From NewspaperSG)
+[^21]: “[Lebih 30 Jenis Pakaian Tradisional Diperaga](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19810303-1.2.25),” \[More than 30 kinds of traditional clothing shown\], _Berita Harian_, 3 March 1981, 3; “[1,500 to Take Part in Malay Festival](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810223-1.2.59),” _Straits Times_, 23 February 1981, 11. (From NewspaperSG)
 
 [^22]:  Zawiyah Salleh, “Peluang Pelajar Seni Lama Sentiasa Terbuka,” \[Opportunities for traditional art students are always open\], _Berita Harian_, 18 July 1981, 7. (From NewspaperSG)
 
