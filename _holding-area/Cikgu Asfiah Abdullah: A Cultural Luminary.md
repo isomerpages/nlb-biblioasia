@@ -25,7 +25,7 @@ This book represented many firsts. It was the first time that Times had publishe
 
 
 ![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
-<div style="background-color:white;"> An uncommon dish of _mee maidin_ prepared by award-winning author Khir Johari. The recipe is featured in _Hidangan Warisan Kita_. <i>Photo by Woo Pei Qi. </i></div>
+<div style="background-color:white;"> An uncommon dish of <i>mee maidin</i> prepared by award-winning author Khir Johari. The recipe is featured in _Hidangan Warisan Kita_. <i>Photo by Woo Pei Qi. </i></div>
 
 
 
