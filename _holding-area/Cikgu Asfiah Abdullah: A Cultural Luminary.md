@@ -123,7 +123,7 @@ The writer thanks her mother, Aunty Fatimah, Amanah Mustafi and Khir Johari for 
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yen-.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/ToffaAbdulWahed.png">
 <b>Toffa Abdul Wahed</b>  is a Librarian with the National Library, Singapore. She works with the Singapore and Southeast Asia Collection.</div>
 
 #### **Notes**
