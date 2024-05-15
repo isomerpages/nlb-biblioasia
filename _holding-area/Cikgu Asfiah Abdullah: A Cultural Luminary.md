@@ -23,6 +23,12 @@ In her preface, Asfiah invited readers to embark on a journey to discover the au
 
 This book represented many firsts. It was the first time that Times had published a cookbook written in the Malay language by a Malay author, and in doing so, the publisher had put Asfiah in the company of familiar household names like Terry Tan and Betty Yew, who had written several cookbooks about Singaporean cuisine, Malaysian cuisine and Peranakan Chinese cuisine for the same publisher.[^5]&nbsp;
 
+
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
+<div style="background-color:white;"> An uncommon dish of _mee maidin_ prepared by award-winning author Khir Johari. The recipe is featured in _Hidangan Warisan Kita_. <i>Photo by Woo Pei Qi. </i></div>
+
+
+
 After the book was published, _Straits Times_ journalist Haron Abdul Rahman noted that this was possibly the first of its kind – a Malay cookbook in hardcover no less. This achievement was, he suggested, not so surprising given that “Hajah Asfiah Haji Abdullah, the authoress of _Hidangan Warisan Kita_, is a rare woman where preserving Malay heritage and upholding Malay culture and traditions are concerned”.[^6]
 
 #### **A Champion of Malay Culture, Tradition and Artistry**
