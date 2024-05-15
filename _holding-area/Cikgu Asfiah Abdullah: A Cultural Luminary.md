@@ -74,6 +74,12 @@ Asfiah’s association with Majlis Pusat and its women’s department began in t
 
 In 1981, she had about 30 of her _sanggul_ (embellished hairbun) creations displayed in an exhibition by Majlis Pusat titled “Pameran Seni Budaya” (Cultural Arts Exhibition) held at the National Museum. The exhibition was one of the programmes offered as part of the inaugural Pesta Budaya Melayu (Malay Culture Festival), also organised by Majlis Pusat, from 6 to 15 March. It was touted as the “first large-scale Malay cultural festival in Singapore”.[^21]
 
+
+![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
+<div style="background-color:white;"> Asfiah Abdullah (extreme right) examining her students’ handiwork at a showcase organised by the Women’s Wing of the Majlis Pusat. The event was held to mark the end of the cultural arts course that she had conducted.<i>Source: Berita Harian, 18 July 1981. © SPH Media Limited. Permission required for reproduction. </i></div>
+
+
+
 Kasminah Bakron, a 24-year-old clerk who visited the exhibition, was amazed by the artistry of the products and went on to enrol in a course taught by Asfiah and organised by the women’s wing of Majlis Pusat. She said: “Saya terpesona melihat kehalusan orang-orang Melayu lama dalam kerja-kerja tangan seperti menggubah, tekad-menekad \[_sic_\] dan adat-adat lain, seperti bilik pengantin, yang kita mungkin tidak tahu erti sebenarnya jika tidak mengikuti kursus seperti ini.” (“I am fascinated by the finesse of the Malays from the older generations in handiwork such as flower arrangement, _tekat_ and other customs, such as \[those related to\] the bridal chamber, which we may not truly understand if we do not attend courses like this.”)[^22]
 
 #### **A Dream Come True**
