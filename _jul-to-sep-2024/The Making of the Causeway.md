@@ -141,7 +141,7 @@ The Causeway’s opening in June 1924 was a historic milestone in Singapore-Mala
 [^1]: “[The Causeway](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240628-1.2.65),” _Straits Times_, 28 June 1924, 9. (From NewspaperSG)
 
 
-[^2]: “Woodlands Checkpoint to Be Redeveloped in Phases; Construction to Commence in 2025,” Immigration &amp; Checkpoint Authority, 29 January 2024,&nbsp;[https://www.ica.gov.sg/news-and-publications/newsroom/media-release/woodlands-checkpoint-to-be-redeveloped-in-phases-construction-to-commence-in-2025](https://www.ica.gov.sg/news-and-publications/newsroom/media-release/woodlands-checkpoint-to-be-redeveloped-in-phases-construction-to-commence-in-2025).
+[^2]: “Woodlands Checkpoint to Be Redeveloped in Phases; Construction to Commence in 2025,” Immigration &amp; Checkpoint Authority, 29 January 2024, https://www.ica.gov.sg/news-and-publications/newsroom/media-release/woodlands-checkpoint-to-be-redeveloped-in-phases-construction-to-commence-in-2025.
 
 
 [^3]: Leong Chan Teik, “[Second Link at Tuas Opens Without Fanfare](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980103-1.2.2),” _Straits Times_, 3 January 1998, 1. (From NewspaperSG)
