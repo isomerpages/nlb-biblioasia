@@ -24,7 +24,7 @@ In her preface, Asfiah invited readers to embark on a journey to discover the au
 This book represented many firsts. It was the first time that Times had published a cookbook written in the Malay language by a Malay author, and in doing so, the publisher had put Asfiah in the company of familiar household names like Terry Tan and Betty Yew, who had written several cookbooks about Singaporean cuisine, Malaysian cuisine and Peranakan Chinese cuisine for the same publisher.[^5]&nbsp;
 
 
-![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img3.jpg)
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img3a.jpg)
 <div style="background-color:white;"> An uncommon dish of <i>mee maidin</i> prepared by award-winning author Khir Johari. The recipe is featured in <i>Hidangan Warisan Kita</i>. <i>Photo by Woo Pei Qi. </i></div>
 
 
