@@ -22,7 +22,7 @@ The official opening of the Causeway on 28 June 1924 was a historic event that m
 
 
 
-Today, a hundred years later, the Causeway has become one of the busiest overland border crossings in the world, with 200,000 travellers daily.[^2] It was the only physical link between Singapore and the Malay Peninsula for almost three quarters of a century until the Second Link – connecting Tuas in Singapore to Tanjung Kupang in Gelang Patah, southwest Johor – opened in 1998.[^3]
+Today, a hundred years later, the Causeway has become one of the busiest overland border crossings in the world, with 300,000 travellers daily.[^2] It was the only physical link between Singapore and the Malay Peninsula for almost three quarters of a century until the Second Link – connecting Tuas in Singapore to Tanjung Kupang in Gelang Patah, southwest Johor – opened in 1998.[^3]
 
 Before the Causeway existed, crossing the Straits of Johor was cumbersome. People here had to take the train to Woodlands on the Singapore-Kranji Railway, which had opened in 1903,[^4] and then board one of two steam-powered ferry boats – aptly named _Singapore_ and _Johore_ – across the strait to Johor Bahru and vice versa.&nbsp;
 
