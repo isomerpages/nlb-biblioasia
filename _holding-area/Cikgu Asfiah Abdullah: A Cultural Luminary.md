@@ -138,13 +138,13 @@ The writer thanks her mother, Aunty Fatimah, Amanah Mustafi and Khir Johari for 
 
 [^5]: Ang Lay Wah, “[Guardian of Malay Culture](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860601-1.2.67.21.2),” _Straits Times_, 1 June 1986, 12. (From NewspaperSG). The English titles published by Times Books International include Terry Tan, [_Straits Chinese Cookbook_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84581971) (Singapore: Times Books International, 1981). (From National Library, Singapore, call no. RSING 641.5929505957 TAN); Betty Yew, [_Rasa Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8962453) (Singapore: Times Books International, 1982). (From National Library, Singapore, call no. RSING 641.59595 YEW); Terry Tan, [_Oriental Kitchen_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3444153) (Singapore: Times Books International, 1982). (From National Library, Singapore, call no. RSING 641.595 TAN); Terry Tan, [_Cooking with Chinese Herbs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082326) (Singapore: Times Books International, 1983). (From National Library, Singapore, call no. RSING 641.5951 TAN); and Wendy Hutton, [_Singapore Food_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7121815) (Singapore: Times Books International, 1989). (From National Library, Singapore, via PublicationSG)
 
-[^6]:  Haron Abdul Rahman, “A Dream Comes True for ‘Guardian of Culture’,” _Straits Times_, 14 August 1986, 7. (From NewspaperSG)
+[^6]:  Haron Abdul Rahman, “[A Dream Comes True for ‘Guardian of Culture’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860814-1.2.59.12.1),” _Straits Times_, 14 August 1986, 7. (From NewspaperSG)
 
-[^7]:  Ang, “Guardian of Malay Culture.”
+[^7]:  Ang, “[Guardian of Malay Culture](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860601-1.2.67.21.2).”
 
-[^8]:  Ang, “Guardian of Malay Culture.”
+[^8]:  Ang, “[Guardian of Malay Culture](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860601-1.2.67.21.2).”
 
-[^9]: Zakaria Buang, “Suasana Bussorah St Tak Semeriah Dulu?” \[Atmosphere of Bussorah St is not as lively as it used to be?\], _Berita Harian_, 27 July 1980, 2; “‘Food Fair’ Street Springs to Life Again at Ramadan,” _Straits Times_, 16 August 1978, 9. (From NewspaperSG)
+[^9]: Zakaria Buang, “[Suasana Bussorah St Tak Semeriah Dulu?](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19800727-1.2.18)” \[Atmosphere of Bussorah St is not as lively as it used to be?\], _Berita Harian_, 27 July 1980, 2; “‘[Food Fair’ Street Springs to Life Again at Ramadan](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780816-1.2.57),” _Straits Times_, 16 August 1978, 9. (From NewspaperSG)
 
 [^10]: Ang, “Guardian of Malay Culture.”
 
