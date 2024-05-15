@@ -146,15 +146,15 @@ The writer thanks her mother, Aunty Fatimah, Amanah Mustafi and Khir Johari for 
 
 [^9]: Zakaria Buang, “[Suasana Bussorah St Tak Semeriah Dulu?](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19800727-1.2.18)” \[Atmosphere of Bussorah St is not as lively as it used to be?\], _Berita Harian_, 27 July 1980, 2; “‘[Food Fair’ Street Springs to Life Again at Ramadan](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780816-1.2.57),” _Straits Times_, 16 August 1978, 9. (From NewspaperSG)
 
-[^10]: Ang, “Guardian of Malay Culture.”
+[^10]: Ang, “[Guardian of Malay Culture](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860601-1.2.67.21.2).”
 
-[^11]:  Margaret Sullivan, “_Can Survive, La”: Cottage Industries in High-Rise Singapore_ (Singapore: G. Brash, 1985), 55–56. (From National Library, Singapore, call no. RSING 338.634095957 SUL)
+[^11]:  Margaret Sullivan, [“_Can Survive, La”: Cottage Industries in High-Rise Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082532) (Singapore: G. Brash, 1985), 55–56. (From National Library, Singapore, call no. RSING 338.634095957 SUL)
 
-[^12]:  “Asfiah Meninggal,” \[Asfiah dies\], _Berita Harian_, 5 August 1987, 8. (From NewspaperSG)
+[^12]:  “[Asfiah Meninggal](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19870805-1.2.23.2),” \[Asfiah dies\], _Berita Harian_, 5 August 1987, 8. (From NewspaperSG)
 
-[^13]:  Zawiyah Salleh, “Pertunjokan Pakaian Pengantin Wanita Melayu 1800 Menarek Penonton2,” \[Show of Malay bridal attire from 1800 attracts audiences\], _Berita Harian_, 2 April 1972, 9. (From NewspaperSG)
+[^13]:  Zawiyah Salleh, “[Pertunjokan Pakaian Pengantin Wanita Melayu 1800 Menarek Penonton2](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19720402-1.2.35.1),” \[Show of Malay bridal attire from 1800 attracts audiences\], _Berita Harian_, 2 April 1972, 9. (From NewspaperSG)
 
-[^14]:  For more information about Malay wedding customs, see Asrina Tanuri and Nadya Suradi, “Malay-Muslim Weddings: Keeping Up with the Times,” _BiblioAsia 17_, no. 2 (July–September 2021): 16–21.
+[^14]:  For more information about Malay wedding customs, see Asrina Tanuri and Nadya Suradi, “[Malay-Muslim Weddings: Keeping Up with the Times](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/malay-weddings/),” _BiblioAsia 17_, no. 2 (July–September 2021): 16–21.
 
 [^15]: Ang, “Guardian of Malay Culture.”
 
