@@ -76,7 +76,7 @@ In 1981, she had about 30 of her _sanggul_ (embellished hairbun) creations displ
 
 
 ![](/images/Vol%2020%20Issue%202/Causeaway/causeaway_img.jpg)
-<div style="background-color:white;"> Asfiah Abdullah (extreme right) examining her students’ handiwork at a showcase organised by the Women’s Wing of the Majlis Pusat. The event was held to mark the end of the cultural arts course that she had conducted.<i>Source: Berita Harian, 18 July 1981. © SPH Media Limited. Permission required for reproduction. </i></div>
+<div style="background-color:white;"> Asfiah Abdullah (extreme right) examining her students’ handiwork at a showcase organised by the Women’s Wing of the Majlis Pusat. The event was held to mark the end of the cultural arts course that she had conducted. <i>Source: Berita Harian, 18 July 1981. © SPH Media Limited. Permission required for reproduction. </i></div>
 
 
 
