@@ -22,7 +22,7 @@ The official opening of the Causeway on 28 June 1924 was a historic event that m
 
 
 
-Today, a hundred years later, the Causeway has become one of the busiest overland border crossings in the world, with 200,000 travellers daily.[^2] It was the only physical link between Singapore and the Malay Peninsula for almost three quarters of a century until the Second Link – connecting Tuas in Singapore to Tanjung Kupang in Gelang Patah, southwest Johor – opened in 1998.[^3]
+Today, a hundred years later, the Causeway has become one of the busiest overland border crossings in the world, with 300,000 travellers daily.[^2] It was the only physical link between Singapore and the Malay Peninsula for almost three quarters of a century until the Second Link – connecting Tuas in Singapore to Tanjung Kupang in Gelang Patah, southwest Johor – opened in 1998.[^3]
 
 Before the Causeway existed, crossing the Straits of Johor was cumbersome. People here had to take the train to Woodlands on the Singapore-Kranji Railway, which had opened in 1903,[^4] and then board one of two steam-powered ferry boats – aptly named _Singapore_ and _Johore_ – across the strait to Johor Bahru and vice versa.&nbsp;
 
@@ -141,7 +141,7 @@ The Causeway’s opening in June 1924 was a historic milestone in Singapore-Mala
 [^1]: “[The Causeway](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240628-1.2.65),” _Straits Times_, 28 June 1924, 9. (From NewspaperSG)
 
 
-[^2]: Amir Yusof, “Johor-Singapore SEZ: Passport-free Travel Hailed As ‘Game-changer’ But Observers Debate Size, Scope of Proposed Zone,” CNA, 12 January 2024, https://www.channelnewsasia.com/asia/malaysia-johor-singapore-special-economic-zone-passport-free-clearance-land-borders-4042601.
+[^2]: “Woodlands Checkpoint to Be Redeveloped in Phases; Construction to Commence in 2025,” Immigration &amp; Checkpoint Authority, 29 January 2024,&nbsp;[https://www.ica.gov.sg/news-and-publications/newsroom/media-release/woodlands-checkpoint-to-be-redeveloped-in-phases-construction-to-commence-in-2025](https://www.ica.gov.sg/news-and-publications/newsroom/media-release/woodlands-checkpoint-to-be-redeveloped-in-phases-construction-to-commence-in-2025).
 
 
 [^3]: Leong Chan Teik, “[Second Link at Tuas Opens Without Fanfare](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980103-1.2.2),” _Straits Times_, 3 January 1998, 1. (From NewspaperSG)
