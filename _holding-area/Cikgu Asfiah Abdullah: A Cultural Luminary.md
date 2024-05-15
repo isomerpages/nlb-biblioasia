@@ -132,7 +132,7 @@ The writer thanks her mother, Aunty Fatimah, Amanah Mustafi and Khir Johari for 
 
 [^2]: Malay food here refers to dishes from various communities and subgroups found within the Malay ethnic group. Immigrants from other parts of the Nusantara (the Malay World), such as Java, Sumatra, Sulawesi, Banjar and Malaya, came to trade, work as well as settle in the bustling, cosmopolitan port of Kampong Gelam. Asfiah herself was of Javanese descent.
 
-[^3]:  According to food writer and cooking instructor Christopher Tan, the word _kueh_ or _kuih_ refers to a diverse variety of sweet and savoury foods and snacks. _Kuih_ is the formal spelling used in Malay today. See Christopher Tan, _The Way of Kueh: Savouring &amp; Saving Singapore’s Heritage Desserts_ (Singapore: National Heritage Board, 2019), 2. (From National Library, Singapore, call no. RSING 641.595957 TAN)
+[^3]:  According to food writer and cooking instructor Christopher Tan, the word _kueh_ or _kuih_ refers to a diverse variety of sweet and savoury foods and snacks. _Kuih_ is the formal spelling used in Malay today. See Christopher Tan, [_The Way of Kueh: Savouring &amp; Saving Singapore’s Heritage Desserts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203962932) (Singapore: National Heritage Board, 2019), 2. (From National Library, Singapore, call no. RSING 641.595957 TAN)
 
 [^4]: Hajah Asfiah Haji Abdullah, _Hidangan Warisan Kita_ (Singapore: Times Books International, 1986), xii. (From National Library, Singapore, via PublicationSG).
 
