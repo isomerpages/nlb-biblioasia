@@ -156,11 +156,11 @@ The writer thanks her mother, Aunty Fatimah, Amanah Mustafi and Khir Johari for 
 
 [^14]:  For more information about Malay wedding customs, see Asrina Tanuri and Nadya Suradi, “[Malay-Muslim Weddings: Keeping Up with the Times](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/malay-weddings/),” _BiblioAsia 17_, no. 2 (July–September 2021): 16–21.
 
-[^15]: Ang, “Guardian of Malay Culture.”
+[^15]: Ang, “[Guardian of Malay Culture](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860601-1.2.67.21.2).”
 
-[^16]:  “PKMS Tak Jadi Keluar Dari MPH Tetapi Ada Sharat,” \[PKMS did not leave MPH but had conditions\], _Berita Harian_, 6 April 1971, 2. (From NewspaperSG). PKMS was registered as a society on 5 August 1953. Founding members include Othman Kalam (advisor), Harun Aminurrashid (president), Othman Haji Omar (vice-president) and Sufiah Yusof (vice-president). For more information on PKMS and its founding, see Persatuan Kebudayaan Melayu Singapura, _Siri Budaya_ (Singapore: Pustaka Melayu, 1960), 45. (From National Library, Singapore, call no. RCLOS 959.5 PER)
+[^16]:  “[PKMS Tak Jadi Keluar Dari MPH Tetapi Ada Sharat](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19710406-1.2.18),” \[PKMS did not leave MPH but had conditions\], _Berita Harian_, 6 April 1971, 2. (From NewspaperSG). PKMS was registered as a society on 5 August 1953. Founding members include Othman Kalam (advisor), Harun Aminurrashid (president), Othman Haji Omar (vice-president) and Sufiah Yusof (vice-president). For more information on PKMS and its founding, see Persatuan Kebudayaan Melayu Singapura, [_Siri Budaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5825175) (Singapore: Pustaka Melayu, 1960), 45. (From National Library, Singapore, call no. RCLOS 959.5 PER)
 
-[^17]:  Zawiyah Salleh, “Badan Wanita Bagi Majukan Seni Kerajinan Tangan,” \[Women's body to advance the art of handicrafts\], _Berita Harian_, 23 September 1973, 6. (From NewspaperSG)
+[^17]:  Zawiyah Salleh, “[Badan Wanita Bagi Majukan Seni Kerajinan Tangan](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19730923-1.2.33.4),” \[Women's body to advance the art of handicrafts\], _Berita Harian_, 23 September 1973, 6. (From NewspaperSG)
 
 [^18]: Maniseh Haji Siraj, “Chinta Terhadap Seni Pusaka Bangsa Menjadi Darah Daging Chegu Aspiah Abdullah,” \[Love towards Malay heritage art becomes part of Chegu Aspiah Abdullah\], _Berita Harian_, 18 July 1971, 9. (From NewspaperSG)
 
