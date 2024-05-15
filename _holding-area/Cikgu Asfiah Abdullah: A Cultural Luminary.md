@@ -113,8 +113,8 @@ On 8 October 1985, Hasnah Ani and Amanah Mustafi, scriptwriters with the former 
 The National Library of Singapore has the nine-page interview transcript (in Malay) in its holdings, thanks to the kind donation by Amanah Mustafi who still works in television and broadcasting today. If you wish to read the transcript, do make a request at Level 11 of the  
 Lee Kong Chian Reference Library, National Library Building. <br>
 <br>
-<b>REFERENCES</b><br><br>
- The transcript titled “Temuramah dengan Che Asfiah Abdullah Tentang Serba Sedikit Adat-adat Melayu Serta Jenis-jenis Makanannya” (Interview with Madam Asfiah Abdullah regarding some Malay customs and types of food\] is kept under this record: <i>The Malay Costume (1959–1983/4); Asal Usul Brunei; Jalan-Jalan Cari Makan Jakarta; Research on the Malays in Sri Lanka</i>, manuscript. (From National Library, Singapore, call no. RCLOS 305.89928 MAL)</div>
+<b>REFERENCE</b><br><br>
+ The transcript titled “Temuramah dengan Che Asfiah Abdullah Tentang Serba Sedikit Adat-adat Melayu Serta Jenis-jenis Makanannya” (Interview with Madam Asfiah Abdullah regarding some Malay customs and types of food] is kept under this record: <i>The Malay Costume (1959–1983/4); Asal Usul Brunei; Jalan-Jalan Cari Makan Jakarta; Research on the Malays in Sri Lanka</i>, manuscript. (From National Library, Singapore, call no. RCLOS 305.89928 MAL)</div>
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
@@ -150,7 +150,7 @@ The writer thanks her mother, Aunty Fatimah, Amanah Mustafi and Khir Johari for 
 
 [^11]:  Margaret Sullivan, “_Can Survive, La”: Cottage Industries in High-Rise Singapore_ (Singapore: G. Brash, 1985), 55–56. (From National Library, Singapore, call no. RSING 338.634095957 SUL)
 
-[^12]:  Asfiah Meninggal,” \[Asfiah dies\], _Berita Harian_, 5 August 1987, 8. (From NewspaperSG)
+[^12]:  “Asfiah Meninggal,” \[Asfiah dies\], _Berita Harian_, 5 August 1987, 8. (From NewspaperSG)
 
 [^13]:  Zawiyah Salleh, “Pertunjokan Pakaian Pengantin Wanita Melayu 1800 Menarek Penonton2,” \[Show of Malay bridal attire from 1800 attracts audiences\], _Berita Harian_, 2 April 1972, 9. (From NewspaperSG)
 
