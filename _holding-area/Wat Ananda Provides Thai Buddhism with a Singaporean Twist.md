@@ -77,6 +77,13 @@ The most recent, and most noticeable, addition took place in 2014, when a five-s
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/futuristic_cuboid.png" style="width: 60%;">
 <div style="background-color: white;">The futuristic cuboid five-storey extension was erected in 2014. <i>Photo by Jimmy Yap.</i></div>
 
+Even as the temple expanded physically, it continued to do outreach as well. In 1966, the temple established the Ananda Metyarama Buddhist Youth Circle as the first Buddhist youth circle in Singapore. In 2006, on its 40th anniversary, it was renamed Wat Ananda Youth. The majority of its activities are held in the temple. Since its inception, the youth group has organised events to help spread the tenets of Buddhism and to preserve the Thai Theravada tradition in Singapore.[^10]
+
+  
+
+* * *
+
+
   
 
 * * *
@@ -108,6 +115,8 @@ The most recent, and most noticeable, addition took place in 2014, when a five-s
 [^8]: “History.”
 
 [^9]: Tay Suan Chiang, “[Standing Tall](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20140712-1.2.29.3.1),” _Business Times_, 12 July 2014, 8–9. (From NewspaperSG); Janice Seow, “Wat Ananda Metyarama Thai Buddhist Temple,” InDesignLive, 24 April 2014, https://www.indesignlive.com/singapore/project-news/wat-ananda-metyarama-thai-buddhist-temple.
+
+[^10]: “About Us,” Wat Ananda Youth, accessed 27 March 2024, http://way.org.sg/?page\_id=26.
 
 
 
