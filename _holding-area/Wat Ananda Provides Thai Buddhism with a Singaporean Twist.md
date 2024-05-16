@@ -23,8 +23,8 @@ After you’ve made the 37 steps up the hill to reach the ornate gateway of Wat 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/ornate_temple.jpg" style="width: 55%;">
 <div style="background-color: white;">The ornate gateway of Wat Ananda Metyarama with its distinctive Thai motifs, 2024. <i>Photo by Jimmy Yap.</i></div><br>
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/temple_distinctive_feature.jpg" style="width: 60%;">
-<div style="background-color: white;">Note the distinctive Thai features along the steps that lead up to Wat Ananda from Jalan Bukit Merah, 2024. <i>Photo by Jimmy Yap.</i></div><br>
+<img src="/images/Online%20Only%20Articles/Wat%20Ananda/main_hall_of_temple.jpg" style="width: 60%;">
+<div style="background-color: white;">The main hall of the temple is housed in a single-storey building, 2024. <i>Photo by Jimmy Yap.</i></div><br>
 
 * * *
 
