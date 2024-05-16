@@ -23,7 +23,7 @@ After you’ve made the 37 steps up the hill to reach the ornate gateway of Wat 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/ornate_temple.jpg" style="width: 55%;">
 <div style="background-color: white;">The ornate gateway of Wat Ananda Metyarama with its distinctive Thai motifs, 2024. <i>Photo by Jimmy Yap.</i></div><br>
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/main_hall_of_temple.jpg" style="width: 60%;">
+<img src="/images/Online%20Only%20Articles/Wat%20Ananda/main_hall_of_temple.jpg" style="width: 80%;">
 <div style="background-color: white;">The main hall of the temple is housed in a single-storey building, 2024. <i>Photo by Jimmy Yap.</i></div><br>
 
 * * *
