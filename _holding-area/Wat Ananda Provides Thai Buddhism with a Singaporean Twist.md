@@ -62,7 +62,7 @@ The unique way that Loy Krathong is celebrated in Wat Ananda encapsulates how th
 The temple’s roots go back to the early decades of the 20th century. It was founded in 1918 by a monk, Venerable Luang Phor Hong Dhammaratano (Phra Dhammaratano Bandit).[^2] Originally from Bangkok, Dhammaratano had lived in Pulau Tikus in Penang, Ceylon (now Sri Lanka), India and Burma (now Myanmar), and was a polyglot proficient in Sinhalese and Mandarin.[^3]
 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/luang_phor_hong.png" style="width: 60%;">
-<div style="background-color: white;">The mustard-coloured inflatable pool holding the <i>krathong</i>, 2023. <i>Photo by Jimmy Yap.</i></div>
+<div style="background-color: white;">The statute of Venerable Luang Phor Hong Dhammaratano between the doorways leading to the main shrine. <i>Photo by Jimmy Yap.</i></div>
 
   
 
