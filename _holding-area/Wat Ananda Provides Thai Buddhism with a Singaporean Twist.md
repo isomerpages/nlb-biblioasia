@@ -40,7 +40,7 @@ Then there are the many statues of Guanyin, the Chinese Goddess of Mercy, that h
 <div style="background-color: white;">The golden figure of Guanyin flanked by statues of two monks, 2024. <i>Photo by Jimmy Yap.</i></div><br>
 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/guanyin_statue_outside.png" style="width: 60%;">
-<div style="background-color: white;">This large white statue of Guanyin is housed in a separate building that is on the right of the main hall, 2024. <i>Photo by Jimmy Yap.</i></div><br>
+<div style="background-color: white;">A statue of Guanyin outside the main shrine, 2024. <i>Photo by Jimmy Yap.</i></div><br>
 
 * * *
 
