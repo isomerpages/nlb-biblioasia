@@ -84,6 +84,9 @@ A tireless steward of Malay culture, Hajah Asfiah worked all her life to preserv
 
 #### **Related Articles**
 
+[Cikgu Asfiah Abdullah: A Cultural Luminary](https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/)<br>
+A former teacher and&nbsp;_mak andam_&nbsp;fulfils her dream by writing a book on Malay recipes in 1986, the first all-Malay cookbook from Times Books International.
+
 [Malay-Muslim Weddings: Keeping Up with the Times](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/malay-weddings/)<br>
 How have Malay-Muslim weddings in Singapore evolved since the 1950s? Asrina Tanuri and Nadya Suradi tell us about these changes large and small.
 

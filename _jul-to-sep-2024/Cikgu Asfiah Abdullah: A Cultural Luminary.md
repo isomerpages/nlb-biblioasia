@@ -1,6 +1,6 @@
 ---
 title: "Cikgu Asfiah Abdullah: A Cultural Luminary"
-permalink: /holding-area/permalink/cikgu-asfiah-abdullah-a-cultural-luminary/
+permalink: /vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/
 variant: markdown
 description: A former teacher and mak andam fulfils her dream by writing a book
   on Malay recipes in 1986, the first all-Malay cookbook from Times Books
@@ -11,22 +11,17 @@ By Toffa Abdul Wahed
 
 In 1986, a cookbook titled _Hidangan Warisan Kita_ (Our Heritage Dishes) was published by Times Books International. Written by Hajah Asfiah Haji Abdullah,[^1] a matriarch revered for her expertise in the cultural arts, the book was priced at $18 and showcased 178 recipes for a wide array of traditional Malay food,[^2] namely _kuih-muih_ (an assortment of sweet or savoury snacks), noodles, rice, accompaniments to rice (_lauk-pauk_) and _gubahan_ (elaborately prepared dishes for special occasions such as weddings and engagement ceremonies).[^3]
 
-![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img1.jpg)
-<div style="background-color:white;"> Asfiah Abdullah’s cookbook, <i>Hidangan Warisan Kita</i>, features several dishes on the cover, including  <i>bunga kobis </i> (main image). <i>From Hajah Asfiah Haji Abdullah, Hidangan Warisan Kita (Singapore: Times Books International, 1986). (From National Library, Singapore, via PublicationSG). </i></div>
 
-
-![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img2.jpg)
-<div style="background-color:white;">An array of Malay  <i>kuih</i> is featured in <i>Hidangan Warisan Kita</i>. On the left-hand page (clockwise from the top) are <i>kuih halwa maskat</i>, <i>baulu terenang</i>, <i>sesagun</i> and <i>deram-deram</i>. On the right-hand page is <i>kuih telumba</i>. <i>Images reproduced from Hajah Asfiah Haji Abdullah, Hidangan Warisan Kita (Singapore: Times Books International, 1986), 18–19. (From National Library, Singapore, via PublicationSG). </i></div>
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img4.jpg)
+<div style="background-color:white;">Asfiah Abdullah with her cookbook, <i>Hidangan Warisan Kita</i>, published in 1986. <i>Source: The Straits Times, 14 August 1986. © SPH Media Limited. Permission required for reproduction. </i></div>
 
 
 In her preface, Asfiah invited readers to embark on a journey to discover the authentic ways of preparing traditional Malay dishes. “I sincerely hope that with the publication of this book, all our heritage cuisines and dishes will continue to be cherished, not lost to time, and will become a treasure in our kitchens for generations to come,” she wrote.[^4]
 
 This book represented many firsts. It was the first time that Times had published a cookbook written in the Malay language by a Malay author, and in doing so, the publisher had put Asfiah in the company of familiar household names like Terry Tan and Betty Yew, who had written several cookbooks about Singaporean cuisine, Malaysian cuisine and Peranakan Chinese cuisine for the same publisher.[^5]&nbsp;
 
-
-![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img3a.jpg)
-<div style="background-color:white;"> An uncommon dish of <i>mee maidin</i> prepared by award-winning author Khir Johari. The recipe is featured in <i>Hidangan Warisan Kita</i>. <i>Photo by Woo Pei Qi. </i></div>
-
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img1.jpg)
+<div style="background-color:white;"> Asfiah Abdullah’s cookbook, <i>Hidangan Warisan Kita</i>, features several dishes on the cover, including  <i>bunga kobis </i> (main image). <i>From Hajah Asfiah Haji Abdullah, Hidangan Warisan Kita (Singapore: Times Books International, 1986). (From National Library, Singapore, via PublicationSG). </i></div>
 
 
 After the book was published, _Straits Times_ journalist Haron Abdul Rahman noted that this was possibly the first of its kind – a Malay cookbook in hardcover no less. This achievement was, he suggested, not so surprising given that “Hajah Asfiah Haji Abdullah, the authoress of _Hidangan Warisan Kita_, is a rare woman where preserving Malay heritage and upholding Malay culture and traditions are concerned”.[^6]
@@ -35,17 +30,13 @@ After the book was published, _Straits Times_ journalist Haron Abdul Rahman note
 
 Born in 1920 in Kampong Gelam, Asfiah began learning the art of making Malay _kuih_ from her mother when she was just 6 years old. She also helped out at her mother’s food stall in front of their house on Bussorah Street, directly behind Sultan Mosque, during the Muslim fasting month of Ramadan. “My mother taught me how to bake Malay cakes which she herself was very good at. Then I was sent to Rochore Malay Girls’ School, where I learnt handicrafts like embroidery and flower-making,” she told the _Straits Times_ in an interview in June 1986.[^7]
 
-![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img4.jpg)
-<div style="background-color:white;">Asfiah Abdullah with her cookbook, <i>Hidangan Warisan Kita</i>, published in 1986. <i>Source: The Straits Times, 14 August 1986. © SPH Media Limited. Permission required for reproduction. </i></div>
+The skills that Asfiah acquired in school further enriched her repertoire. In 1931, after completing Standard Four at age 10, she began teaching Malay handicrafts at the school. “It was difficult at first,” she said. “Many of the girls were only a year younger than me and I could not control them sometimes. I kept having to go to the headmistress for help.”[^8] Despite her initial challenges, Asfiah found joy in teaching and continued to impart her skills and knowledge to others throughout her life.
 
+After her mother’s death, Asfiah took over the business and the stall remained a regular fixture at the annual food fair in Kampong Gelam. During this time, Bussorah Street would be lined with rows of makeshift stalls that attracted people from all over Singapore for the delicious food. She enticed customers with a smorgasbord comprising _kuih_ and dishes like _mee siam_ and _laksa_. In 1980, Asfiah passed the torch of running the business to her daughters, Salamah, Rasidah and Masita, but continued to help in the preparation of the _kuih_.[^9] Later, her youngest son also took an interest in learning to run her _kuih_ and _tekat_ (a type of traditional Malay embroidery used to decorate ceremonial items made of velvet with designs created using gold threads) business.[^10]
 
 ![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img5.jpg)
 <div style="background-color:white;"> Members of Asfiah Abdullah’s family at their stall at the food fair held every year on Bussorah Street during Ramadan. <i> Image reproduced from Margaret Sullivan, “Can Survive, La”: Cottage Industries in High-rise Singapore (Singapore: G. Brash, 1985), 55. (From National Library, Singapore, call no. RSING 338.634095957 SUL). </i></div>
 
-
-The skills that Asfiah acquired in school further enriched her repertoire. In 1931, after completing Standard Four at age 10, she began teaching Malay handicrafts at the school. “It was difficult at first,” she said. “Many of the girls were only a year younger than me and I could not control them sometimes. I kept having to go to the headmistress for help.”[^8] Despite her initial challenges, Asfiah found joy in teaching and continued to impart her skills and knowledge to others throughout her life.
-
-After her mother’s death, Asfiah took over the business and the stall remained a regular fixture at the annual food fair in Kampong Gelam. During this time, Bussorah Street would be lined with rows of makeshift stalls that attracted people from all over Singapore for the delicious food. She enticed customers with a smorgasbord comprising _kuih_ and dishes like _mee siam_ and _laksa_. In 1980, Asfiah passed the torch of running the business to her daughters, Salamah, Rasidah and Masita, but continued to help in the preparation of the _kuih_.[^9] Later, her youngest son also took an interest in learning to run her _kuih_ and _tekat_ (a type of traditional Malay embroidery used to decorate ceremonial items made of velvet with designs created using gold threads) business.[^10]
 
 Known affectionately as Cikgu Asfiah (_cikgu_ in Malay is a title for teacher), she dedicated her life to serving the community and imparting her vast knowledge of Malay culture to the younger generations through not only her cookbook but also via classes at her home on Bussorah Street, demonstrations, talks and exhibitions. The publication of _Hidangan Warisan Kita_ was her crowning achievement, but her contributions to the Malay community extended beyond the culinary realm.
 
@@ -102,7 +93,18 @@ Speaking to the _Straits Times_ in August 1986, Asfiah said with tears in her ey
 
 Asfiah began writing _Hidangan Warisan Kita_ in 1984. On top of facing difficulties typing and concentrating due to her age, she also could not find help initially in the writing of the manuscript. Her family eventually played a crucial role in bringing her dream to fruition when her daughter Salamah, son Khairul Anuar and grandson Asrin, became involved in the book's production. Margaret Sullivan’s feature about Asfiah in her book also caught the attention of Times Books, which eventually became her publisher, leading to the realisation of her dream at the age of 65.[^27]
 
+
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img2.jpg)
+<div style="background-color:white;">An array of Malay  <i>kuih</i> is featured in <i>Hidangan Warisan Kita</i>. On the left-hand page (clockwise from the top) are <i>kuih halwa maskat</i>, <i>baulu terenang</i>, <i>sesagun</i> and <i>deram-deram</i>. On the right-hand page is <i>kuih telumba</i>. <i>Images reproduced from Hajah Asfiah Haji Abdullah, Hidangan Warisan Kita (Singapore: Times Books International, 1986), 18–19. (From National Library, Singapore, via PublicationSG). </i></div>
+
+
+
 In her dedication, Asfiah wrote: “Buat suami, anak-anak dan cucu-cucu yang banyak memberi perangsang dan galakan dan buat semua anak bangsa yang gemarkan masakan tradisi kita.” (“\[To\] my husband, children and grandchildren who had given me a lot of encouragement and to all Malays who love our traditional cuisine.”)[^28] Slightly more than a year after the publication of the book, Asfiah died at her home on Bussorah Street in August 1987.[^29] Through her perseverance and dedication, Asfiah’s dream of sharing her heritage with future generations lives on in the pages of _Hidangan Warisan Kita_.
+
+
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img3b.jpg)
+<div style="background-color:white;"> An uncommon dish of <i>mee maidin</i> prepared by award-winning author Khir Johari. The recipe is featured in <i>Hidangan Warisan Kita</i>. <i>Photo by Woo Pei Qi. </i></div>
+
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">

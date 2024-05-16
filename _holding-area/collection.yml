@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - "Cikgu Asfiah Abdullah: A Cultural Luminary.md"
       - "Sea Snail & Papaya Curry: A Eurasian Specialty.md"
       - The Scoop on Otak Blangah.md
       - Soon Kueh Stories.md
