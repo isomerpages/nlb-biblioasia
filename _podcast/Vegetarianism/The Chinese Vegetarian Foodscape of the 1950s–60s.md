@@ -38,9 +38,10 @@ Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional
 Socio-cultural Linkage” funded by the National Heritage Board.</p>
 <p></p>
 <h4><strong>Related Video</strong></h4>
-<p>What does a soon kueh recipe have to do with a Buddhist temple? Find out
-as researcher Kelvin Tan conquers sticky dough to make this humble vegetarian
-snack. Watch Kelvin make <em><a href="https:// biblioasia.nlb.gov.sg/videos/soon-kueh/" rel="noopener noreferrer nofollow" target="_blank">soon kueh</a></em>.</p>
+<p>What does a<em> soon kueh</em> recipe have to do with a Buddhist temple?
+Find out as researcher Kelvin Tan conquers sticky dough to make this humble
+vegetarian snack. Watch Kelvin make <em><a href="https:// biblioasia.nlb.gov.sg/videos/soon-kueh/" rel="noopener noreferrer nofollow" target="_blank">soon kueh</a></em>.</p>
+<p></p>
 <h4><strong>Resources</strong></h4>
 <p>Kelvin Tan, “<a href="https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore/" rel="noopener noreferrer nofollow" target="_blank">How Chinese Buddhist Women Shaped the Food Landscape in Singapore</a>,” <em>BiblioAsia</em> 18,
 no. 2 (July–September 2022).</p>
