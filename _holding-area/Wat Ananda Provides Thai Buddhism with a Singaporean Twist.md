@@ -109,8 +109,3 @@ The most recent, and most noticeable, addition took place in 2014, when a five-s
 
 
 ***
-
-
-
-
-
