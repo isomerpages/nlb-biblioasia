@@ -20,7 +20,7 @@ On a little hill, sandwiched between Block 140 Jalan Bukit Merah to the east and
 
 After you’ve made the 37 steps up the hill to reach the ornate gateway of Wat Ananda, a small Buddhist shrine lies on your left. Go up further and you’ll arrive at the entrance of Julamee Prasat, which is described as a Theravada columbarium (Theravada Buddhism is one of three major schools of Buddhism, and the predominant school in Thailand[^1]. This columbarium occupies the first floor of the building with the stupa on top. Go past the columbarium and you will be greeted by the main shrine: a large, single-storey building with gold trimmings on the roof in the distinctive Thai style.
 
-~~~~
+
 
 * * *
 
