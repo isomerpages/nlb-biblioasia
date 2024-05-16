@@ -4,6 +4,13 @@ permalink: /topics/food/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary</a>
+
+A former teacher and&nbsp;_mak andam_&nbsp;fulfils her dream by writing a book on Malay recipes in 1986, the first all-Malay cookbook from Times Books International.
+
+<img src="/images/Vol%2020%20Issue%202/Asfiah/asfiah_img4.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign">Going Against the (Rice) Grain: The “Eat More Wheat” Campaign</a>
 The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government.
 
