@@ -53,7 +53,11 @@ At the 2023 celebration of the festival on 26 November, Luang Phor Amnuay – �
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/mustard_coloured_pool.png" style="width: 60%;">
 <div style="background-color: white;">The mustard-coloured inflatable pool holding the <i>krathong</i>, 2023. <i>Photo by Jimmy Yap.</i></div>
 
+On that day, Thais visited Wat Ananda to socialise and make some merit, while Singaporeans, mostly of Chinese descent, seem more focused on attaining better fortune by praying in front of the inflatable pool. &nbsp;&nbsp;A carnival-like atmosphere hung over Wat Ananda, similar to the temples in provincial Thailand.
 
+“<i>Lai, lai,</i> boy,<i>lai</i>,” urged Luang Phor Amnuay. “Come, float _krathong_. Come for good luck. You, also daddy and mummy for _zuo gong_.” (_lai_ means “to come” and _zuo gong_ means “work” in Mandarin.) His rapid mishmash of Mandarin and Singlish phrases were targeted at the Singaporeans present, and not at the Thais who were at the temple that day. Noticeably, too, he did not incorporate Thai into Sanskrit chants, knowing perhaps that Thais did not see Loy Krathong as an occasion to connect with Buddhism. On that day, the Thais in attendance could be seen dancing to Thai traditional music and cheering on heavily made-up beauty pageant contestants in the parking lot. The Thais were mainly families who wanted to show their Singapore-raised children how Loy Krathong is celebrated, as well as dating couples who floated the _krathong_ for happiness and everlasting love.
+
+The unique way that Loy Krathong is celebrated in Wat Ananda encapsulates how the temple merges both its Thai and Singaporean influences to create a final product that is neither either Thai nor entirely Singaporean.
 
 * * *
 
