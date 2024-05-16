@@ -2,9 +2,9 @@ collections:
   podcast:
     output: true
     order:
-      - Vegetarianism/Transcript.md
-      - Vegetarianism/The Chinese Vegetarian Foodscape of the 1950s–60s.md
       - Vegetarianism/.keep
+      - Vegetarianism/The Chinese Vegetarian Foodscape of the 1950s–60s.md
+      - Vegetarianism/Transcript.md
       - A Cultural Guardian/.keep
       - "A Cultural Guardian/Hajah Asfiah: A Guardian for Traditional Malay
         Culture.md"
