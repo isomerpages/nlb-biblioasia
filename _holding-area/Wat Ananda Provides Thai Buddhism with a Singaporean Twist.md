@@ -64,6 +64,22 @@ The temple’s roots go back to the early decades of the 20th century. It was fo
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/luang_phor_hong.png" style="width: 60%;">
 <div style="background-color: white;">The statute of Venerable Luang Phor Hong Dhammaratano between the doorways leading to the main shrine. <i>Photo by Jimmy Yap.</i></div>
 
+The Thai consulate offered Dhammaratano land beside the Thai Embassy, along today’s Orchard Road, so that he could build a temple. But as Orchard Road was not easily accessible at the time, Dhammaratano declined as he felt that it was too far from the town centre. Instead, he decided to set it up on Silat Road in what is now the Bukit Merah area.[^4] Wat Ananda Metyarama was completed in 1923, largely from the financial support of the Chinese in Singapore.
+
+Even in the early years, while it was clearly had Thai influences, the temple also served other Theravada Buddhists, notably the Buddhists among the Ceylonese community in Singapore. According to Anne M. Blackburn, who has written about Ceylonese Buddhism in colonial Singapore, “\[i\]t is likely that some among Singapore Ceylonese Buddhist population attended rituals at Wat Ananda during the 1920s”. She noted that “Wat Ananda was located close to the Spottiswoode Park and Outram Park area of Singapore, core residential areas for the city’s Ceylonese. Moreover, since Dhammaratano apparently knew Sinhala and was familiar with Ceylon’s Buddhist environment thanks to his travels, he would have been a reassuring figure to Singapore’s Ceylonese Buddhists”.[^5]
+
+However, due to the differences between Thai (then known as Siamese) and Sinhala Pali chanting styles, that would have “reduced somewhat the comfort offered by Dhammaratatano’s ritual work”. As a result, the Ceylonese decided to worship at the Sakya Muni Buddha Gaya Temple instead, which was established on Race Course Road in 1927. Chinese Buddhists, who were more likely to have been following the Mahayana style of Buddhism, began to worship at Wat Ananda,[^6] importing the Mahayana culture and growing the temple’s Sinification.
+
+When Dhammaratano died in 1952, Venerable Phra Rajayankavee succeeded him as chief abbot and renovated the temple in 1953. After Venerable Chao Khun Phra Tepsiddhivides became chief abbot in 1974 (he is still the chief abbot today), he saw to the temple’s expansion. In 1979, a pagoda and a three-storey residential block for monks was constructed. The pagoda was officially declared open by Princess Maha Chakri Sirindhorn, the second daughter of King Bhumibol Adulyadej, on 27 June 1985.[^7] The temple continued with more additions and expansions over the years. In 1995, the temple erected the gold statue of Guanyin. More facilities were completed in 1997, such as the three-storey building now housing the temple’s office, library and columbarium.[^8]
+
+The most recent, and most noticeable, addition took place in 2014, when a five-storey extension – in the shape of a futuristic, cube-like structure – was completed for the temple’s 90th anniversary. Instead of a traditional Thai Buddhist style design, “the temple wanted a different look to attract younger devotees,” said its architect, Carl Lim of Czarl Architects. The new building houses monks’ quarters, prayer halls, meditation centres, classrooms, a museum, and a dining hall.[^9]
+
+  
+
+* * *
+
+
+
   
 
 * * *
@@ -77,3 +93,24 @@ The temple’s roots go back to the early decades of the 20th century. It was fo
 [^2]:  Ng Jun Sen, “Oldest Thai Buddhist Temple in Singapore Turns 100; PM Lee Attends Celebration,” _Straits Times_, 13 May 2018, https://www.straitstimes.com/singapore/oldest-thai-buddhist-temple-in-singapore-turns-100-pm-lee-attends-celebration.
 
 [^3]:  Anne M. Blackburn, “Ceylonese Buddhism in Colonial Singapore: New Ritual Spaces and Specialists, 1895–1935,” _ARI Working Paper_ no. 184 (May 2012): 16–17, &nbsp;https://ari.nus.edu.sg/publications/wps-184-ceylonese-buddhism-in-colonial-singapore-new-ritual-spaces-specialists-1895-1935/.
+
+[^4]: Wat Ananda Metyarama Singapore, _Wat Ananda Metyarama Thai Buddhist Temple 100th Anniversary 1918–2018_; Blackburn, “Ceylonese Buddhism in Colonial Singapore,” 17.
+
+[^5]: Blackburn, “Ceylonese Buddhism in Colonial Singapore,” 17.
+
+[^6]: Blackburn, “Ceylonese Buddhism in Colonial Singapore,” 17.
+
+[^7]: “History,” Wat Ananda Metyarama Thai Buddhist Temple, accessed 27 March 2024, https://watananda.org/about-us/history/.
+
+[^8]: “History.”
+
+[^9]: Tay Suan Chiang, “[Standing Tall](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20140712-1.2.29.3.1),” _Business Times_, 12 July 2014, 8–9. (From NewspaperSG); Janice Seow, “Wat Ananda Metyarama Thai Buddhist Temple,” InDesignLive, 24 April 2014, https://www.indesignlive.com/singapore/project-news/wat-ananda-metyarama-thai-buddhist-temple.
+
+
+
+***
+
+
+
+
+
