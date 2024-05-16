@@ -30,13 +30,13 @@ After the book was published, _Straits Times_ journalist Haron Abdul Rahman note
 
 Born in 1920 in Kampong Gelam, Asfiah began learning the art of making Malay _kuih_ from her mother when she was just 6 years old. She also helped out at her mother’s food stall in front of their house on Bussorah Street, directly behind Sultan Mosque, during the Muslim fasting month of Ramadan. “My mother taught me how to bake Malay cakes which she herself was very good at. Then I was sent to Rochore Malay Girls’ School, where I learnt handicrafts like embroidery and flower-making,” she told the _Straits Times_ in an interview in June 1986.[^7]
 
-![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img5.jpg)
-<div style="background-color:white;"> Members of Asfiah Abdullah’s family at their stall at the food fair held every year on Bussorah Street during Ramadan. <i> Image reproduced from Margaret Sullivan, “Can Survive, La”: Cottage Industries in High-rise Singapore (Singapore: G. Brash, 1985), 55. (From National Library, Singapore, call no. RSING 338.634095957 SUL). </i></div>
-
-
 The skills that Asfiah acquired in school further enriched her repertoire. In 1931, after completing Standard Four at age 10, she began teaching Malay handicrafts at the school. “It was difficult at first,” she said. “Many of the girls were only a year younger than me and I could not control them sometimes. I kept having to go to the headmistress for help.”[^8] Despite her initial challenges, Asfiah found joy in teaching and continued to impart her skills and knowledge to others throughout her life.
 
 After her mother’s death, Asfiah took over the business and the stall remained a regular fixture at the annual food fair in Kampong Gelam. During this time, Bussorah Street would be lined with rows of makeshift stalls that attracted people from all over Singapore for the delicious food. She enticed customers with a smorgasbord comprising _kuih_ and dishes like _mee siam_ and _laksa_. In 1980, Asfiah passed the torch of running the business to her daughters, Salamah, Rasidah and Masita, but continued to help in the preparation of the _kuih_.[^9] Later, her youngest son also took an interest in learning to run her _kuih_ and _tekat_ (a type of traditional Malay embroidery used to decorate ceremonial items made of velvet with designs created using gold threads) business.[^10]
+
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img5.jpg)
+<div style="background-color:white;"> Members of Asfiah Abdullah’s family at their stall at the food fair held every year on Bussorah Street during Ramadan. <i> Image reproduced from Margaret Sullivan, “Can Survive, La”: Cottage Industries in High-rise Singapore (Singapore: G. Brash, 1985), 55. (From National Library, Singapore, call no. RSING 338.634095957 SUL). </i></div>
+
 
 Known affectionately as Cikgu Asfiah (_cikgu_ in Malay is a title for teacher), she dedicated her life to serving the community and imparting her vast knowledge of Malay culture to the younger generations through not only her cookbook but also via classes at her home on Bussorah Street, demonstrations, talks and exhibitions. The publication of _Hidangan Warisan Kita_ was her crowning achievement, but her contributions to the Malay community extended beyond the culinary realm.
 
