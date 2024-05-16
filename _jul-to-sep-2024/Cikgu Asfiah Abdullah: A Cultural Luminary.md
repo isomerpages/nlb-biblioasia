@@ -20,7 +20,7 @@ In her preface, Asfiah invited readers to embark on a journey to discover the au
 
 This book represented many firsts. It was the first time that Times had published a cookbook written in the Malay language by a Malay author, and in doing so, the publisher had put Asfiah in the company of familiar household names like Terry Tan and Betty Yew, who had written several cookbooks about Singaporean cuisine, Malaysian cuisine and Peranakan Chinese cuisine for the same publisher.[^5]&nbsp;
 
-![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img1.jpg)
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img1b.jpg)
 <div style="background-color:white;"> Asfiah Abdullah’s cookbook, <i>Hidangan Warisan Kita</i>, features several dishes on the cover, including  <i>bunga kobis </i> (main image). <i>From Hajah Asfiah Haji Abdullah, Hidangan Warisan Kita (Singapore: Times Books International, 1986). (From National Library, Singapore, via PublicationSG). </i></div>
 
 
