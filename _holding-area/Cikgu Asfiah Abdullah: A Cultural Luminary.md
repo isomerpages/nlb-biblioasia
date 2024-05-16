@@ -102,7 +102,7 @@ Asfiah began writing _Hidangan Warisan Kita_ in 1984. On top of facing difficult
 In her dedication, Asfiah wrote: “Buat suami, anak-anak dan cucu-cucu yang banyak memberi perangsang dan galakan dan buat semua anak bangsa yang gemarkan masakan tradisi kita.” (“\[To\] my husband, children and grandchildren who had given me a lot of encouragement and to all Malays who love our traditional cuisine.”)[^28] Slightly more than a year after the publication of the book, Asfiah died at her home on Bussorah Street in August 1987.[^29] Through her perseverance and dedication, Asfiah’s dream of sharing her heritage with future generations lives on in the pages of _Hidangan Warisan Kita_.
 
 
-![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img3a.jpg)
+![](/images/Vol%2020%20Issue%202/Asfiah/asfiah_img3b.jpg)
 <div style="background-color:white;"> An uncommon dish of <i>mee maidin</i> prepared by award-winning author Khir Johari. The recipe is featured in <i>Hidangan Warisan Kita</i>. <i>Photo by Woo Pei Qi. </i></div>
 
 
