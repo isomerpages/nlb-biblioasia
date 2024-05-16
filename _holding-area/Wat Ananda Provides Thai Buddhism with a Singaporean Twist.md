@@ -44,6 +44,15 @@ Then there are the many statues of Guanyin, the Chinese Goddess of Mercy, that h
 
 Wat Ananda may be known as a Thai temple but it definitely shows signs of being localised. Although older Thais still show up in traditional Thai costume on religious occasions, the temple has become a place for Singaporeans to get a dose of Theravada Buddhism and the Land of Smiles all at once. Even what the temple celebrates and how it celebrates those occasions have been adapted to local culture and customs, and Singaporeans’ cravings for blessings.
 
+#### **Loy Krathong**
+
+Take the festival of Loy Krathong, which is celebrated all over Thailand and usually falls in November. On the evening of the full moon in the 12th month of the Thai lunar calendar, a small _krathong_ (meaning “basket” or “boat”) – constructed from a slice of the trunk of the banana plant and bearing flowers, incense sticks and a lit candle – is floated on a river to honour and thank the Goddess of Water. This festival is also celebrated at Wat Ananda as well, though not in a way it would typically be celebrated in Thailand.
+
+At the 2023 celebration of the festival on 26 November, Luang Phor Amnuay – “Luang Phor” means “Venerable Father” and is a title used for senior monks – invited visitors to buy and float _krathong_ costing $20 each in a large, mustard-coloured inflatable pool. Swirling around in the pool under clear, blue skies, the _krathong_ felt no tug of a natural stream. This was in sharp contrast to the _krathong_ in Thailand that were floated that evening under darker skies, riding on currents towards the mouth of the Chao Phraya River.
+
+<img src="/images/Online%20Only%20Articles/Wat%20Ananda/mustard_coloured_pool.png" style="width: 60%;">
+<div style="background-color: white;">A statue of Guanyin outside the main shrine, 2024. <i>Photo by Jimmy Yap.</i></div>
+
 
 
 * * *
