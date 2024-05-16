@@ -19,12 +19,12 @@ lives on.
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oDLqIDuvEgQ?si=U2UHRb1ByU7fQuNa"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oDLqIDuvEgQ?si=U2UHRb1ByU7fQuNa"></iframe>
 </div>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/episode/4kSvlSQUpzOHIGVEYKv8hV" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
-<a href="https://podcasts.apple.com/us/podcast/hajah-asfiah-a-guardian-for-traditional-malay-culture/id1688142751?i=1000655363656" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia+-2115156" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
+<a href="https://podcasts.apple.com/us/podcast/hajah-asfiah-a-guardian-for-traditional-malay-culture/id1688142751?i=1000655363656" rel="noopener noreferrer nofollow" target="_blank">Apple Podcasts</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Hajah-Asfiah--A-Guardian-for-Traditional-Malay-Culture-2460371" rel="noopener noreferrer nofollow" target="_blank">melisten</a>.</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
