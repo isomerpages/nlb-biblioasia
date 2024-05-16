@@ -79,15 +79,26 @@ The most recent, and most noticeable, addition took place in 2014, when a five-s
 
 Even as the temple expanded physically, it continued to do outreach as well. In 1966, the temple established the Ananda Metyarama Buddhist Youth Circle as the first Buddhist youth circle in Singapore. In 2006, on its 40th anniversary, it was renamed Wat Ananda Youth. The majority of its activities are held in the temple. Since its inception, the youth group has organised events to help spread the tenets of Buddhism and to preserve the Thai Theravada tradition in Singapore.[^10]
 
+#### **Links to Thailand**
+
+Wat Ananda is not Singapore’s only Thai temple, but it is possibly the most well-known one. It is the only temple outside of Thailand to be recognised by Thai royalty. In 2016, on the occasion of the 70th anniversary of King Bhumibol Adulyadej’s accession to the throne, celebrations were held at the temple on 9 June. Thongchai Chasawath, then Ambassador of Thailand to Singapore, accompanied by government officials, and family and staff of the Royal Thai Embassy, along with more than 100 Thais and foreigners in Singapore, meditated and prayed for the king at the temple.[^11] When the king died later the same year on 13 October, both Thais and Singaporeans turned up at the temple on 15 October to pray for the late king. The mood was sombre as the crowd of almost 100, mostly dressed in black, clasped their hands together and chanted prayers in front of the late king's portrait.[^12]
+
+The temple’s monks themselves are also mostly from Thailand. Back in 1976, the former prime minister of Thailand, Thanom Kittikachorn, was even ordained as a Buddhist monk at the temple after being ousted from the country in bloody student riots in 1973. He returned to the temple in February 1986 for the Nimitta Sima ceremony to lay nine 100-kilogram sacred stones to consecrate the part of the temple that can be used for the ordination of monks.[^13]
+
   
 
 * * *
 
+[\[1\]](#_ftnref1) “The Seventieth Anniversary Celebrations of His Majesty the King’s Accession to the Throne,” Ministry of Foreign Affairs, Kingdom of Thailand, 19 June 2016, https://www.mfa.go.th/en/content/5d5bd00815e39c306001cf0f?cate=5d5bcb4e15e39c3060006838
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[\[2\]](#_ftnref2) Yeo Sam Jo, “Thais and Singaporeans pray for late Thai King Bhumibol Adulyadej,” _Straits Times_, 15 October 2016, https://www.straitstimes.com/singapore/thais-and-singaporeans-pray-for-late-thai-king.
+============================================================================================================================================================================================================================
+
+[\[3\]](#_ftnref3) “[Former Thai PM at Temple Ceremony](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860224-1.2.18.23),” _Straits Times_, 24 February 1986, 11. (From NwspaperSG); Wat Ananda Metyarama Singapore, _Wat Ananda Metyarama Thai Buddhist Temple 100th Anniversary 1918–2018._
+=======================================================================================================================================================================================================================================================================================================================
 
   
-
-* * *
-
 
 
   
