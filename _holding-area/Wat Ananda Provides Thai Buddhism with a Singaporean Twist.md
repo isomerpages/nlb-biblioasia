@@ -87,20 +87,6 @@ The temple’s monks themselves are also mostly from Thailand. Back in 1976, the
 
   
 
-* * *
-
-[\[1\]](#_ftnref1) “The Seventieth Anniversary Celebrations of His Majesty the King’s Accession to the Throne,” Ministry of Foreign Affairs, Kingdom of Thailand, 19 June 2016, https://www.mfa.go.th/en/content/5d5bd00815e39c306001cf0f?cate=5d5bcb4e15e39c3060006838
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[\[2\]](#_ftnref2) Yeo Sam Jo, “Thais and Singaporeans pray for late Thai King Bhumibol Adulyadej,” _Straits Times_, 15 October 2016, https://www.straitstimes.com/singapore/thais-and-singaporeans-pray-for-late-thai-king.
-============================================================================================================================================================================================================================
-
-[\[3\]](#_ftnref3) “[Former Thai PM at Temple Ceremony](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860224-1.2.18.23),” _Straits Times_, 24 February 1986, 11. (From NwspaperSG); Wat Ananda Metyarama Singapore, _Wat Ananda Metyarama Thai Buddhist Temple 100th Anniversary 1918–2018._
-=======================================================================================================================================================================================================================================================================================================================
-
-  
-
-
   
 
 * * *
@@ -128,6 +114,12 @@ The temple’s monks themselves are also mostly from Thailand. Back in 1976, the
 [^9]: Tay Suan Chiang, “[Standing Tall](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes20140712-1.2.29.3.1),” _Business Times_, 12 July 2014, 8–9. (From NewspaperSG); Janice Seow, “Wat Ananda Metyarama Thai Buddhist Temple,” InDesignLive, 24 April 2014, https://www.indesignlive.com/singapore/project-news/wat-ananda-metyarama-thai-buddhist-temple.
 
 [^10]: “About Us,” Wat Ananda Youth, accessed 27 March 2024, http://way.org.sg/?page\_id=26.
+
+[^11]: “The Seventieth Anniversary Celebrations of His Majesty the King’s Accession to the Throne,” Ministry of Foreign Affairs, Kingdom of Thailand, 19 June 2016, https://www.mfa.go.th/en/content/5d5bd00815e39c306001cf0f?cate=5d5bcb4e15e39c3060006838
+ 
+[^12]: Yeo Sam Jo, “Thais and Singaporeans pray for late Thai King Bhumibol Adulyadej,” _Straits Times_, 15 October 2016, https://www.straitstimes.com/singapore/thais-and-singaporeans-pray-for-late-thai-king.
+
+[^13]: “[Former Thai PM at Temple Ceremony](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860224-1.2.18.23),” _Straits Times_, 24 February 1986, 11. (From NwspaperSG); Wat Ananda Metyarama Singapore, _Wat Ananda Metyarama Thai Buddhist Temple 100th Anniversary 1918–2018._
 
 
 
