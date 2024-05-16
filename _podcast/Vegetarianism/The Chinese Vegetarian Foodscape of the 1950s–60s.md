@@ -5,8 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Vegetarianism
 ---
-<p></p>
-<p></p>
+<p>Set up by five Buddhist women in 1946, Loke Woh Yuen was the first <a href="https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore/" rel="noopener noreferrer nofollow" target="_blank">Chinese vegetarian restaurant</a> in
+Singapore. It employed an all-female staff, was known for its popular shark’s
+fin made from maize, and was sometimes so packed that it had to set up
+dining tents that stretched to the main road. Its efforts to spread vegetarianism
+were complemented by other Buddhist women and nuns who wrote cookbooks
+and fundraised for charity.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Gf90N5hEH5c?si=hAVWhyliAL8CD_eh"></iframe>
 </div>
