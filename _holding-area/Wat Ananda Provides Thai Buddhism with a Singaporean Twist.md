@@ -59,6 +59,20 @@ On that day, Thais visited Wat Ananda to socialise and make some merit, while Si
 
 The unique way that Loy Krathong is celebrated in Wat Ananda encapsulates how the temple merges both its Thai and Singaporean influences to create a final product that is neither either Thai nor entirely Singaporean.
 
+#### **The Early Years**
+
+The temple’s roots go back to the early decades of the 20th century. It was founded in 1918 by a monk, Venerable Luang Phor Hong Dhammaratano (Phra Dhammaratano Bandit).[^2] Originally from Bangkok, Dhammaratano had lived in Pulau Tikus in Penang, Ceylon (now Sri Lanka), India and Burma (now Myanmar), and was a polyglot proficient in Sinhalese and Mandarin.[^3]
+
+  
+
 * * *
 
+
+
+
+
 [^1]:  Buddhism has three major schools: Theravada, Mahayana and Vajrayana. Theravada Buddhism is the dominant form of Buddhism in Sri Lanka, Cambodia, Thailand, Laos and Myanmar. It is the official religion of Thailand.
+
+[^2]:  Ng Jun Sen, “Oldest Thai Buddhist Temple in Singapore Turns 100; PM Lee Attends Celebration,” _Straits Times_, 13 May 2018, https://www.straitstimes.com/singapore/oldest-thai-buddhist-temple-in-singapore-turns-100-pm-lee-attends-celebration.
+
+[^3]:  Anne M. Blackburn, “Ceylonese Buddhism in Colonial Singapore: New Ritual Spaces and Specialists, 1895–1935,” _ARI Working Paper_ no. 184 (May 2012): 16–17, &nbsp;https://ari.nus.edu.sg/publications/wps-184-ceylonese-buddhism-in-colonial-singapore-new-ritual-spaces-specialists-1895-1935/.
