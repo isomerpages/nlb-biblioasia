@@ -48,7 +48,7 @@ Take the festival of Loy Krathong, which is celebrated all over Thailand and usu
 At the 2023 celebration of the festival on 26 November, Luang Phor Amnuay – “Luang Phor” means “Venerable Father” and is a title used for senior monks – invited visitors to buy and float _krathong_ costing $20 each in a large, mustard-coloured inflatable pool. Swirling around in the pool under clear, blue skies, the _krathong_ felt no tug of a natural stream. This was in sharp contrast to the _krathong_ in Thailand that were floated that evening under darker skies, riding on currents towards the mouth of the Chao Phraya River.
 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/mustard_coloured_pool.png" style="width: 60%;">
-<div style="background-color: white;">The mustard-coloured inflatable pool holding the <i>krathong</i>, 2023. <i>Photo by Jimmy Yap.</i></div>
+<div style="background-color: white;">The mustard-coloured inflatable pool holding the <i>krathong</i>, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
 On that day, Thais visited Wat Ananda to socialise and make some merit, while Singaporeans, mostly of Chinese descent, seem more focused on attaining better fortune by praying in front of the inflatable pool. &nbsp;&nbsp;A carnival-like atmosphere hung over Wat Ananda, similar to the temples in provincial Thailand.
 
