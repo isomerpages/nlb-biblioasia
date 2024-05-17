@@ -107,7 +107,7 @@ Wat Ananda celebrates Buddhist festivals such as Vesak Day – which commemorate
 Hand-painted murals by two Thai artists in 2015 adorn every single one of the main shrine’s inner walls.&nbsp;At first glance, some of these seem nothing out of the ordinary as they depict Buddha’s life and teachings, and his path to enlightenment. But on closer scrutiny, familiar landscapes of Singapore can be seen.
 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/golden_statue_buddha.png" style="width: 60%;">
-<div style="background-color: white;">One of the sacred stones installed in 1986. <i></i></div>
+<div style="background-color: white;">The golden statue of Buddha in the main hall is surrounded by hand-painted wall murals, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 
   
