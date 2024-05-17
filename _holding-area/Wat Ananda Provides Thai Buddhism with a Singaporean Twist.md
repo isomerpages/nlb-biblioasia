@@ -111,7 +111,7 @@ Hand-painted murals by two Thai artists in 2015 adorn every single one of the ma
 
 For instance, behind the huge golden statue of Buddha in the main shrine – which looms on a platform the height of a grown man – the artists have incorporated scenes of Singapore. In a mural titled “Planes of Rebirth_”_ depicting the different possible planes of existence in which Buddhist rebirth may take place, artists have painted the famous row of Koon Seng Road shophouses in all its various hues. This scene represents human activities and human desires as depicted by the people exercising in fashionable athletic wear, and children in superhero costumes.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/shophouses_koon_seng.png" style="width: 60%;">
+<img src="/images/Online%20Only%20Articles/Wat%20Ananda/shophouses_koon_seng.png" style="width: 70%;">
 <div style="background-color: white;">The mural with the row of colourful Koon Seng Road shophouses, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
 
