@@ -102,6 +102,14 @@ During Ullambana in September 2023, Luang Phor Amnuay invited devotees to write 
 
 Wat Ananda celebrates Buddhist festivals such as Vesak Day – which commemorates the birth, enlightenment and attainment of Nirvana of Buddha – and the annual Kathina Festival which celebrates the end of Vassa, an intensive three-month long retreat for monks, in the same way as temples in Thailand. On these occasions, the temple is packed to the brim, and those who make it to the main hall may chance upon more signs of the temple’s “Singaporeanisation”, if they know where to look.
 
+#### **Main Shrine and Temple Murals**
+
+Hand-painted murals by two Thai artists in 2015 adorn every single one of the main shrine’s inner walls.&nbsp;At first glance, some of these seem nothing out of the ordinary as they depict Buddha’s life and teachings, and his path to enlightenment. But on closer scrutiny, familiar landscapes of Singapore can be seen.
+
+<img src="/images/Online%20Only%20Articles/Wat%20Ananda/golden_statue_buddha.png" style="width: 60%;">
+<div style="background-color: white;">One of the sacred stones installed in 1986. <i></i></div>
+
+
   
 
 
