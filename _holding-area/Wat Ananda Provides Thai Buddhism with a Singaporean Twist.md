@@ -194,8 +194,7 @@ Liow Kok Ann, who has been a volunteer treasurer with the temple for nine years,
 
 [^18]: Correspondence with Panalee Choosri, 19 January 2024.
 
-[^19]: Suhaimi Yusof Instagram, 21 June 2022, https://www.instagram.com/p/CfEJYa5JfPm/?utm\_source=ig\_web\_copy\_link; Charissa Yong, “Religious Leaders from Indonesia, Singapore Call for Greater Interaction to Strengthen Harmony,” _Straits Times_, 11 July 2017,
-https://www.straitstimes.com/singapore/religious-leaders-from-indonesia-singapore-call-for-greater-interaction-to-strengthen.
+[^19]: Suhaimi Yusof Instagram, 21 June 2022, https://www.instagram.com/p/CfEJYa5JfPm/?utm\_source=ig\_web\_copy\_link; Charissa Yong, “Religious Leaders from Indonesia, Singapore Call for Greater Interaction to Strengthen Harmony,” _Straits Times_, 11 July 2017, https://www.straitstimes.com/singapore/religious-leaders-from-indonesia-singapore-call-for-greater-interaction-to-strengthen.
 
 [^20]: Whatsapp messaging with Liow Kok Ann, 23 February 2024
 
