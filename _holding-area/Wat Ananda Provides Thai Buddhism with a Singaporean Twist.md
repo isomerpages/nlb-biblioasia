@@ -107,7 +107,7 @@ Wat Ananda celebrates Buddhist festivals such as Vesak Day – which commemorate
 
 Hand-painted murals by two Thai artists in 2015 adorn every single one of the main shrine’s inner walls.&nbsp;At first glance, some of these seem nothing out of the ordinary as they depict Buddha’s life and teachings, and his path to enlightenment. But on closer scrutiny, familiar landscapes of Singapore can be seen.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/golden_statue_buddha.png" style="width: 60%;">
+<img src="/images/Online%20Only%20Articles/Wat%20Ananda/Picture4.jpg" style="width: 80%;">
 <div style="background-color: white;">The golden statue of Buddha in the main hall is surrounded by hand-painted wall murals, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 For instance, behind the huge golden statue of Buddha in the main shrine – which looms on a platform the height of a grown man – the artists have incorporated scenes of Singapore. In a mural titled “Planes of Rebirth_”_ depicting the different possible planes of existence in which Buddhist rebirth may take place, artists have painted the famous row of Koon Seng Road shophouses in all its various hues. This scene represents human activities and human desires as depicted by the people exercising in fashionable athletic wear, and children in superhero costumes.
