@@ -186,31 +186,31 @@ But if we open the cookbook and see the foreword she penned, her main purpose
 was actually to share the secrets of living healthily and longevity to
 as many people as possible in her own words, because she believed that
 renewed concentration and vitality helps healthy aging.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So vegetarianism wasn’t just a question of religious principle, but also
 it had health benefits as well.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>So interestingly, she wrote another book, which was an account of her
 life, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12833802" rel="noopener noreferrer nofollow" target="_blank">A Life for Others</a></em>.
 She also gave cooking classes to housewives. It was written that she even
 downplayed religion, but more to focus on conserving her temples, cooking
 techniques, recipes so that they could be shared widely.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay, so I mean that’s very important because cookbooks and cooking classes
 are ways in which people can spread knowledge and get other people also
 to start cooking vegetarian food, right?&nbsp;</p>
 <p>In the episode of <em>From Book to Cook</em>, where you were a guest cook,
 you made a vegetarian <em>soon kueh</em>, which was originally produced
 by abbess of the temple Hai Inn See. So, tell us about it.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>First of all, Hai Inn See was a Minnan vegetarian hall.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Where was it located?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>In Nam Sam village area.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Is it still there?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Yeah, it’s still there. So today it’s run by monks mostly. Yeah. Because,
 I think, the third abbess passed on, and then it was transferred to the
 monk community.&nbsp;</p>
@@ -227,11 +227,11 @@ shop at a price, quite cheap, at about 5 cents.&nbsp;</p>
 but a hit with the local residents. So, from the records in the periodical,
 it was said that the former devotees and customers always have fond memories
 of this <em>kueh</em>. A taste of nostalgia.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Those three vegetarian restaurants you talk about in your <a href="https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore/" rel="noopener noreferrer nofollow" target="_blank">article</a> in <em>BiblioAsia</em>,
 they're not around anymore. What can we say has been the legacy? Now that
 you've studied them, we know what has happened since.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>One for sure is that the most important legacy will be their strong beliefs
 in Buddhist philanthropy, in education, not just Nantah, but in Buddhist
 education. They were proponents of reforming Buddhist education in Singapore.
@@ -246,15 +246,15 @@ first Buddhist [school]. I mean, according to this, today’s context, primary
 school, the other one was the first female Buddhist seminary in Singapore
 for higher education, Buddhist education, which was the Singapore Girls’
 Buddhist Institute, or what we call <em>xinjiapo nüzi fo xueyuan</em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Where was that?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Maha Bodhi School was opened in 1946, due for expansion in 1958. For the <em>xinjiapo nüzi fo xueyuan</em>,
 or the Singapore Girls’ Buddhist Institute, it was opened in 1962.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Tell me a little bit about your research process. I mean, obviously you
 managed to interview the nuns and all that. What resources did you use?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>The Mapping the Female Religious Heritage project was quite difficult
 because some of the temples and nuns were quite hesitant. They were in
 their old age, the surviving vegetarian nuns, and some of them preferred
@@ -269,9 +269,9 @@ another new repository for me. Cookbooks, like I said previously, <em>Top 100 Ve
 Venerable Ho’s accounts like<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12833802" rel="noopener noreferrer nofollow" target="_blank"><u>A Life for Others</u></a></em> by
 <a rel="noopener noreferrer nofollow" target="_blank">Uma Rajan</a>and also some other vegetarian temples in Singapore.<strong>&nbsp;</strong>
 </p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Oh okay.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>We already found cookbooks, we found temple periodicals, which could help
 to map the heritage of Chinese female, sort of, religious heritage in Singapore.
 What about we hear personally, from the surviving nuns themselves? Then
@@ -284,9 +284,9 @@ Restaurant, which was one of the last surviving traditional restaurants
 that was opened by Chinese Buddhist women. So, inheriting her legacy from
 Venerable Ho. You could park the Ru Yi Restaurant as part of the heritage
 of Chinese female restaurateurs of a Buddhist tradition.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Right.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Because for Chinese Buddhist women we know that they led a very pious,
 celibate as well as a very autonomous life. The late 19th and early 20th
 centuries were a time of female oppression. So, the lack of female voice
@@ -296,10 +296,10 @@ because for vegetarian nuns and <em>majies</em>, they observe a sort of
 hair-combing ceremony, the So Hei ceremony, whereby they observe a vow
 of celibacy. So, they vow not to have any marital relations. Hence, some
 of the <em>majie </em>actually converted to become vegetarian nuns.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I see. There’s a very strong Cantonese element in all of this. Why is
 that? Because the <em>majie</em> are Cantonese also, right?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Yeah. Hence, like I said, to give you some possible explanation. One is
 that some of the <em>majie</em> eventually became Cantonese vegetarian nuns.
 And then we know the <em>majie</em> came from Guangdong province in the 1930s.
@@ -309,15 +309,15 @@ to the householder tradition. So, since they hailed from that province,
 they also got some of the Cantonese heritage and infused it into the cuisines.
 So, there’s actually a stark comparison to the restaurant halls that were
 part of the Minnan or Hokkien heritage.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>That’s very interesting. What are you doing now?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Well, I’m a researcher at the Singapore Chinese Cultural Centre researching
 Singapore’s Chinese history. But in my free time, I’m aiming to contribute
 a piece to <em>BiblioAsia</em> again. Hopefully the readers will like it.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What will this one be about?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>So, I was doing the research for the first article. Then I thought about
 it, I read the newspaper articles of Fut Sai Kai, Loke Woh Yuen, Bodhi
 Lin, and interestingly, in the 1980s, they faded away in popular memory.
@@ -334,16 +334,16 @@ as well as affluent lifestyles.&nbsp;</p>
 sort of lifestyle changes in Chinese Singaporeans and also the Singaporean
 community at large.&nbsp;</p>
 <p>I hope the readers will like it.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I’m sure they will. Okay. We’ve come to the end of the main interview.
 We always end our interviews by asking, you know, light-hearted questions.
 So, let me ask you now that you are a <em>soon kueh</em> expert, what is
 the next vegetarian dish that you are planning to make?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>I’m thinking of vegetarian chicken curry.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay. Why vegetarian chicken curry?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>I was inspired by another cookbook again from Madam Lew Nyok Thye, a proponent
 of nutritive vegetarianism. So, like I said you know in the 1980s we had
 a generation of vegetarian converts or, what you call practicing vegetarians.
@@ -356,17 +356,17 @@ One of the recipes was vegetarian curry chicken. So, I thought, “Hmm vegetaria
 curry chicken. What would it be made of?” I suppose soy will come in; I
 suppose gluten flour will come in. I just wanted to see, to try my hand
 in the future.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Yeah, well, not just the expectations of Madam Lew. Your mother also.
 Yeah, well, we’ll be expecting you to make something delicious.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Beyond <em>soon kueh</em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Because she’s sick of <em>soon kueh</em>.
 <br>Complete this sentence. Food is…&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Eclectic.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Eclectic. Okay. All right. Well, it is because especially in Singapore,
 we have so many choices that we can go to.&nbsp;</p>
 <p>Kelvin, thank you for joining me on BiblioAsia+. So, read his <a href="https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore/" rel="noopener noreferrer nofollow" target="_blank">article</a> on
@@ -375,9 +375,9 @@ make the best ever vegetarian <em>soon kueh</em> ever made, on <em><a href="http
 YouTube. All links and all the information about the show can be found
 in the show notes or on the <em>BiblioAsia</em> website at <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>.&nbsp;</p>
 <p>Okay, So Kelvin, thank you once again.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Thank you. It’s my pleasure.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>If you’ve enjoyed this episode,&nbsp;<a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">subscribe to the podcast</a>&nbsp;and
 the&nbsp;<a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia newsletter</a>.
 Thank you for joining me on BiblioAsia+.</p>
