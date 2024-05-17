@@ -62,7 +62,7 @@ The unique way that Loy Krathong is celebrated in Wat Ananda encapsulates how th
 The temple’s roots go back to the early decades of the 20th century. It was founded in 1918 by a monk, Venerable Luang Phor Hong Dhammaratano (Phra Dhammaratano Bandit).[^2] Originally from Bangkok, Dhammaratano had lived in Pulau Tikus in Penang, Ceylon (now Sri Lanka), India and Burma (now Myanmar), and was a polyglot proficient in Sinhalese and Mandarin.[^3]
 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/luang_phor_hong.png" style="width: 60%;">
-<div style="background-color: white;">The statute of Venerable Luang Phor Hong Dhammaratano between the doorways leading to the main shrine. <i>Photo by Jimmy Yap.</i></div>
+<div style="background-color: white;">The statue of Venerable Luang Phor Hong Dhammaratano between the doorways leading to the main shrine. <i>Photo by Jimmy Yap.</i></div>
 
 The Thai consulate offered Dhammaratano land beside the Thai Embassy, along today’s Orchard Road, so that he could build a temple. But as Orchard Road was not easily accessible at the time, Dhammaratano declined as he felt that it was too far from the town centre. Instead, he decided to set it up on Silat Road in what is now the Bukit Merah area.[^4] Wat Ananda Metyarama was completed in 1923, largely from the financial support of the Chinese in Singapore.
 
@@ -122,7 +122,7 @@ To the right of the houses is a large colonial-style bungalow, with luxury cars 
 And to the right of this is the seemingly innocuous scene of people in a local _kopitiam_ (coffeeshop) having a meal and drinking beer. This scene reminds us again of what Buddhism defines as a vice: alcohol. Vices, on this plane of birth, are everywhere.
 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/mural_kopitiam.png" style="width: 70%;">
-<div style="background-color: white;">This mural of a local _kopitiam_ conveys the message that drinking alcohol is considered a vice in Buddhism, 2023. <i>Photo by Thammika Songkaeo.</i></div>
+<div style="background-color: white;">This mural of a local <i>kopitiam</i> conveys the message that drinking alcohol is considered a vice in Buddhism, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
   
 
@@ -170,5 +170,3 @@ And to the right of this is the seemingly innocuous scene of people in a local _
 [^15]: Wat Ananda Facebook, 9 September 2023, https://www.facebook.com/Watananda/videos/838135267602336.
 
 [^16]: Wat Ananda Facebook, 9 September 2023, video, 26:10, https://www.facebook.com/Watananda/videos/838135267602336.
-
-
