@@ -139,6 +139,22 @@ Just outside the space where the rows of urns are kept is a space for ancestral 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/columbarium.png" style="width: 60%;">
 <div style="background-color: white;">The columbarium with the statute of Kṣitigarbha, the ruler of the underworld, and the ancestral tablets in glass cases, 2023.<i>Photo by Thammika Songkaeo.</i></div>
 
+#### **A Place for All**
+
+Wat Ananda commemorated its centenary in 2018, and its celebration lunch on 13 May was attended by Prime Minister Lee Hsien Loong, along with a delegation of some 630 Buddhist monks from Asia, Europe and America who were in Singapore for a monks’ conference.[^17]
+
+Today, both Thais and Singaporeans visit the temple to learn about Theravada Buddhism and participate in its activities. “I’ve been to Wat Ananda several times participating in religious activities, Thai cultural events and community events organised by the temple,” said Panalee Choosri, a Thai resident of Singapore and Counsellor at the Royal Thai Embassy. “It made me feel that Thai temples are an integral part of the local community in Singapore, benefiting and playing a role in uplifting the spirits and developing the Singaporean society,” she said.
+
+She also noted how “Wat Ananda plays a crucial role in inviting the Thai and other ambassadors in Singapore, representing Buddhist countries such as Laos, Cambodia, and Sri Lanka, to visit the temple. This helps foster collaboration and unity among countries that follow the Buddhist faith”.[^18]
+
+Choosri is not alone in seeing Wat Ananda as place for promoting religious harmony and helping the underprivileged in Singapore. In fact, the temple readily welcomes non-Buddhists to participate in its events. For instance, its regular durian parties are attended by people of various faiths, all bonded together by their love for the fruit.[^19]
+
+“The temple has a relationship with Singaporeans, encouraging cooperation and mutual understanding through activities such as banquets for the elderly. The Thais residing and working in Singapore would come to serve the food, sing and create an ambience that fosters camaraderie.&nbsp;Every three months, the temple organises special activities. Volunteers bring food and rice to distribute to the elderly. Volunteers write to them to ask what they need, and the temple provides the supplies according to their wishes,” said Phramaha Rian&nbsp;Manone Yang, Assistant Chief Abbott and Temple Honorary Secretary.[^20]
+
+Liow Kok Ann, who has been a volunteer treasurer with the temple for nine years, nicely summarises the sentiments of regular temple-goers when he said: “It is a safe spiritual space not only for the Thais but also for the local communities to come together and appreciate and explore the different aspects of Thai culture and Buddhism.”[^21]&nbsp;
+
+  
+
 
 
 
@@ -188,3 +204,14 @@ Just outside the space where the rows of urns are kept is a space for ancestral 
 [^15]: Wat Ananda Facebook, 9 September 2023, https://www.facebook.com/Watananda/videos/838135267602336.
 
 [^16]: Wat Ananda Facebook, 9 September 2023, video, 26:10, https://www.facebook.com/Watananda/videos/838135267602336.
+
+[^17]: Ng, “Oldest Thai Buddhist Temple in Singapore Turns 100; PM Lee Attends Celebration.”
+
+[^18]: Correspondence with Panalee Choosri, 19 January 2024.
+
+[^19]: Suhaimi Yusof Instagram, 21 June 2022, https://www.instagram.com/p/CfEJYa5JfPm/?utm\_source=ig\_web\_copy\_link; Charissa Yong, “Religious Leaders from Indonesia, Singapore Call for Greater Interaction to Strengthen Harmony,” _Straits Times_, 11 July 2017,
+https://www.straitstimes.com/singapore/religious-leaders-from-indonesia-singapore-call-for-greater-interaction-to-strengthen.
+
+[^20]: Whatsapp messaging with Liow Kok Ann, 23 February 2024
+
+[^21]: Whatsapp messaging with Liow Kok Ann, 22 February 2024.
