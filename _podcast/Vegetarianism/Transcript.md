@@ -52,12 +52,12 @@ a syncretic mix of Taoism and Confucianism. But there’s a long answer to
 it; hence it’s actually a very complex but a very fascinating story.&nbsp;</p>
 <p><strong>Jimmy</strong> 
 <br>But they were Chinese, and they were Buddhists, and they were women.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Yeah. So, actually, they sort of traversed between, like you said, the
 three categories.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What do we know about that restaurant?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Loke Woh Yuen was actually set up by five Buddhist women in 1946, or in
 the postwar period in the immediate years. They found it very hard to,
 sort of, find breakfast items because they [were] vegetarians, unlike other
@@ -78,26 +78,26 @@ As well as Bhikkhunis, or what we call ordained nuns. So, these are usually
 nuns of an institutional order or monastic order as well as some non-institutional
 affiliation. They set up this restaurant and then even down to the cashiers,
 the cooks, they were all just women.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>It’s very interesting. I guess not many women went into business. Yeah,
 during that period. And then suddenly these women set up a business and
 only employ women.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Yeah, they only employed women. So, the most famous one was a chief cook,
 Madam Wong Sin Fong. She was quite well known in the local Buddhist circles
 and the local Chinese community for her eclectic cooking skills.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Tell me about this restaurant. What was it known for? I mean, obviously
 vegetarian food, but what kind of vegetarian food? Like is it Cantonese
 style or…&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>The pioneers of Chinese vegetarian restaurants actually specialised in
 Cantonese cuisines.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>They were hungry, and there was no place to eat vegetarian food. So, they
 decided to set up a restaurant. And how did they do? Did the restaurant
 do well?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>It was a success, at least from the earliest newspaper article that I
 saw in <em>Nanyang Siang Pau</em> in 1948, so two years after its inception.
 There are a few signature items that they sort of describe in the article,
@@ -109,19 +109,19 @@ they had to set up tents outside of the five-foot-way onto the main road
 along Tanjong Pagar Road.&nbsp;</p>
 <p>It was quite popular among tourists, among the local Buddhist circles,
 that they coined it the master of Chinese vegetarian cuisine.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Subsequently other restaurants came up as well. Fut Sai Kai, right?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br><em>Fo Shi Jie</em> is the translation in Mandarin.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Okay. So how was this restaurant different from Loke Woh Yuen?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>So interestingly, Loke Woh Yuen was known for the restaurant standard.
 The traditional bearer of Chinese vegetarian cuisine. So Fut Sai Kai came
 in in 1953, aiming at a more price-conscious clientele.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Just like me.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>In one of the articles that I read in <em>Nanyang Siang Pau</em>, in 1953
 the menu offered <em>dim sum</em>, noodles and some other dishes. They were
 actually priced quite cheaply, like a few cents to a dollar plus. So, it’s
@@ -130,76 +130,51 @@ of Violet Oon, a food reviewer for <em>Straits Times</em> and [writer of]
 some of the newspaper articles, Loke Woh Yuen was quite expensive in terms
 of the menu, in terms of the banquet. But Fut Sai Kai came in with a more
 price-conscious mindset. It was actually set up by a group of vegetarian
-nuns led by Kao Tian-gu, or Gao Tian Gu.</p>
-<p>&nbsp;</p>
+nuns led by Kao Tian-gu, or Gao Tian Gu.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Who was she?</p>
-<p>&nbsp;</p>
+<br>Who was she?&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>She was quite an interesting figure. So, the restaurant opened, let’s
+<br>She was quite an interesting figure. So, the restaurant opened, let’s
 say at 11 a.m., she would wake up early in the morning, go to the markets
 to buy the freshest ingredients and then when she came to work, she’d work
-an entire day.</p>
-<p>&nbsp;</p>
+an entire day.&nbsp;</p>
 <p>From what I read, she only started having her meals at 3 pm. So, imagine
 how hectic and how passionate she was about her career. She started her
 vegetarian diet at the age of 16. So, she came from Guangdong province
-[China] She later founded Fu Shan Tang, this temple, in Guangdong.</p>
-<p>&nbsp;</p>
+[China] She later founded Fu Shan Tang, this temple, in Guangdong.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, so before she came to Singapore?</p>
-<p>&nbsp;</p>
+<br>Oh, so before she came to Singapore?&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>Yeah, it was said she came to Singapore at the age of 20, so I’m not quite
+<br>Yeah, it was said she came to Singapore at the age of 20, so I’m not quite
 sure. But we know that she founded this temple, and then when she came
 to Singapore, she was working. It was said that her business fortunes failed,
 and then she had to recoup her losses or savings again. Then she ventured
 with the other vegetarian nuns to open this restaurant in 1953, when she
-had enough savings to open this restaurant.</p>
-<p>&nbsp;</p>
+had enough savings to open this restaurant.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And where was this restaurant located?</p>
-<p>&nbsp;</p>
+<br>And where was this restaurant located?&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>Kitchener Road.</p>
-<p>&nbsp;</p>
+<br>Kitchener Road.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, in having these restaurants, obviously, it serves the Chinese Buddhist
+<br>So, in having these restaurants, obviously, it serves the Chinese Buddhist
 community because they want to eat vegetarian food. And, you know, it’s
 now available in these restaurants for them to eat. But that helps obviously
 to spread vegetarianism. But apart from restaurants, they published cookbooks
 as well, which of course makes sense. Maybe you can tell us a bit about
-that.</p>
-<p>&nbsp;</p>
+that.&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>I hoped I could find cookbooks from the three restaurants that I [mentioned]
+<br>I hoped I could find cookbooks from the three restaurants that I [mentioned]
 earlier but unfortunately none [that I could find]. But yes, cookbooks
 by Chinese Buddhist women who were abbesses of the temples. So, one prominent
-one I can raise is <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=200060754" rel="noopener noreferrer nofollow" target="_blank">Top 100 Vegetarian Delights</a></em>.</p>
-<p>&nbsp;</p>
+one I can raise is <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=200060754" rel="noopener noreferrer nofollow" target="_blank">Top 100 Vegetarian Delights</a></em>.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Who was it by?</p>
-<p>&nbsp;</p>
+<br>Who was it by?&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>By Venerable Ho Yuen Hoe. He Ren Hao.</p>
-<p>&nbsp;</p>
+<br>By Venerable Ho Yuen Hoe. He Ren Hao.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And which temple was she from?</p>
-<p>&nbsp;</p>
+<br>And which temple was she from?&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>Ling Chee Cheng Sia in Kovan. So Venerable Ho, like I said, joined the
+<br>Ling Chee Cheng Sia in Kovan. So Venerable Ho, like I said, joined the
 ranks of Chinese female pioneers in Singapore. She was known as Singapore’s
 grand dame of charity. It means that she advocated for charitable causes.
 And she actually came up with the idea of Man Fut Tong nursing home. Man
