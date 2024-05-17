@@ -73,7 +73,7 @@ When Dhammaratano died in 1952, Venerable Phra Rajayankavee succeeded him as chi
 
 The most recent, and most noticeable, addition took place in 2014, when a five-storey extension – in the shape of a futuristic, cube-like structure – was completed for the temple’s 90th anniversary. Instead of a traditional Thai Buddhist style design, “the temple wanted a different look to attract younger devotees,” said its architect, Carl Lim of Czarl Architects. The new building houses monks’ quarters, prayer halls, meditation centres, classrooms, a museum, and a dining hall.[^9]
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/futuristic_cuboid.png" style="width: 60%;">
+<img src="/images/Online%20Only%20Articles/Wat%20Ananda/futuristic_cuboid.png" style="width: 70%;">
 <div style="background-color: white;">The futuristic cuboid five-storey extension was erected in 2014. <i>Photo by Jimmy Yap.</i></div>
 
 Even as the temple expanded physically, it continued to do outreach as well. In 1966, the temple established the Ananda Metyarama Buddhist Youth Circle as the first Buddhist youth circle in Singapore. In 2006, on its 40th anniversary, it was renamed Wat Ananda Youth. The majority of its activities are held in the temple. Since its inception, the youth group has organised events to help spread the tenets of Buddhism and to preserve the Thai Theravada tradition in Singapore.[^10]
