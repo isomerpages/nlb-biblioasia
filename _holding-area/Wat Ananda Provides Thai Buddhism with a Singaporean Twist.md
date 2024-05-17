@@ -153,25 +153,7 @@ Choosri is not alone in seeing Wat Ananda as place for promoting religious harmo
 
 Liow Kok Ann, who has been a volunteer treasurer with the temple for nine years, nicely summarises the sentiments of regular temple-goers when he said: “It is a safe spiritual space not only for the Thais but also for the local communities to come together and appreciate and explore the different aspects of Thai culture and Buddhism.”[^21]&nbsp;
 
-  
-
-
-
-
-  
-
-
-
-
-  
-
-  
-
-* * *
-
-
-
-
+#### **Notes**
 
 [^1]:  Buddhism has three major schools: Theravada, Mahayana and Vajrayana. Theravada Buddhism is the dominant form of Buddhism in Sri Lanka, Cambodia, Thailand, Laos and Myanmar. It is the official religion of Thailand.
 
