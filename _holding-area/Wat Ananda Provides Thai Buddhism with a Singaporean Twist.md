@@ -114,6 +114,10 @@ For instance, behind the huge golden statue of Buddha in the main shrine – whi
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/shophouses_koon_seng.png" style="width: 70%;">
 <div style="background-color: white;">The mural with the row of colourful Koon Seng Road shophouses, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
+To the right of the houses is a large colonial-style bungalow, with luxury cars parked in front and a woman with her husband carrying a child. This reminds the viewer to reflect on materialism, which seems trivial compared to the larger meaning of life exemplified by the other characters within the scene: two little girls in hijab holding hands, a grey-haired woman in a wheelchair and an old man walking on his own with a walking stick. The life stages of birth, ageing, sickness and death, also known as the “four sufferings” in Buddhism, are conveyed in this scene against the backdrop of Singapore.
+
+<img src="/images/Online%20Only%20Articles/Wat%20Ananda/mural_four_sufferings.png" style="width: 70%;">
+<div style="background-color: white;">This mural depicts the life stages of birth, ageing, sickness and death – also known as the “four sufferings” in Buddhism, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
   
 
