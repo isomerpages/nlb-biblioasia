@@ -85,6 +85,28 @@ Wat Ananda is not Singapore’s only Thai temple, but it is possibly the most we
 
 The temple’s monks themselves are also mostly from Thailand. Back in 1976, the former prime minister of Thailand, Thanom Kittikachorn, was even ordained as a Buddhist monk at the temple after being ousted from the country in bloody student riots in 1973. He returned to the temple in February 1986 for the Nimitta Sima ceremony to lay nine 100-kilogram sacred stones to consecrate the part of the temple that can be used for the ordination of monks.[^13]
 
+<img src="/images/Online%20Only%20Articles/Wat%20Ananda/sacred_stones.png" style="width: 60%;">
+<div style="background-color: white;">One of the sacred stones installed in 1986. <i></i></div>
+
+#### **Festivals and Celebrations**
+
+These Thai links do not erase the many Chinese influences one can see. The local Chinese community has been closely associated with the temple from the outset, evidenced by the large number of Chinese donor names on the walls. Due to the popularity of the temple with Chinese devotees, the temple celebrates non-Thai and also non-Buddhist festivals.
+
+During the 2024 Lunar New Year period, for instance, monks conducted chanting sessions and after each session, wished temple-goers “新年快乐,身体健康” (_xin nian kuai le, shen ti jian kang_; “happy new year and good health” in Mandarin). The monks then invited those who wished to receive a _hong bao_ (“red packet”) to approach them. According to Chio Khee Teng, president of Wat Ananda Youth, monks at the temple give red packets to children. This is not practised in temples in Thailand though.
+
+Then, there is the celebration of Ullambana on the 15th day of the seventh month of the lunar calendar, known as the Hungry Ghost Festival in Singapore. It is called Zhong Yuan Jie (中元节) in Taoism and the Yu Lan Pen (盂兰盆) festival in Buddhism (Yu Lan Pen being a transliteration of the Sanskrit name Ullambana).[^14]
+
+As the festival has its origins in the Mahayana scripture about filial piety known as the&nbsp;Yulanpen Sutra or Ullambana Sutra, Ullambana is not commonly observed in Thailand, where Theravada Buddhism is the official religion. At Wat Ananda, however, Ullambana is a big celebration during which devotees make donations for the monks to conduct special chanting sessions. Food items placed on altars are also offered to ancestors, and bulletin boards are covered in yellow.[^15]
+
+During Ullambana in September 2023, Luang Phor Amnuay invited devotees to write the names of their ancestors on a slip of paper and to drop this into a bowl (“But Chinese I cannot read” he nevertheless admitted, hinting perhaps that they should write the names in English so that he could include them in the chants .[^16] After the chanting, the monks individually accepted red packets from worshippers.
+
+Wat Ananda celebrates Buddhist festivals such as Vesak Day – which commemorates the birth, enlightenment and attainment of Nirvana of Buddha – and the annual Kathina Festival which celebrates the end of Vassa, an intensive three-month long retreat for monks, in the same way as temples in Thailand. On these occasions, the temple is packed to the brim, and those who make it to the main hall may chance upon more signs of the temple’s “Singaporeanisation”, if they know where to look.
+
+  
+
+
+
+
   
 
   
@@ -120,6 +142,12 @@ The temple’s monks themselves are also mostly from Thailand. Back in 1976, the
 [^12]: Yeo Sam Jo, “Thais and Singaporeans pray for late Thai King Bhumibol Adulyadej,” _Straits Times_, 15 October 2016, https://www.straitstimes.com/singapore/thais-and-singaporeans-pray-for-late-thai-king.
 
 [^13]: “[Former Thai PM at Temple Ceremony](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860224-1.2.18.23),” _Straits Times_, 24 February 1986, 11. (From NwspaperSG); Wat Ananda Metyarama Singapore, _Wat Ananda Metyarama Thai Buddhist Temple 100th Anniversary 1918–2018._
+
+[^14]: Cheryl Sim, “[Zhong Yuan Jie (Hungry Ghost Festival)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=fe14c69f-7d05-4844-abae-de842064f5ce),” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2020.
+
+[^15]: Wat Ananda Facebook, 9 September 2023, https://www.facebook.com/Watananda/videos/838135267602336.
+
+[^16]: Wat Ananda Facebook, 9 September 2023, video, 26:10, https://www.facebook.com/Watananda/videos/838135267602336.
 
 
 
