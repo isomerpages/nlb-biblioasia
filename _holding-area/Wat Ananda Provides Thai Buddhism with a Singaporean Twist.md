@@ -154,7 +154,7 @@ Choosri is not alone in seeing Wat Ananda as place for promoting religious harmo
 Liow Kok Ann, who has been a volunteer treasurer with the temple for nine years, nicely summarises the sentiments of regular temple-goers when he said: “It is a safe spiritual space not only for the Thais but also for the local communities to come together and appreciate and explore the different aspects of Thai culture and Buddhism.”[^21]&nbsp;<br>
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Cats/siesie1.png"><b>Thammika Songkaeo</b> is a Thai resident of Singapore and the creative producer of&nbsp;Changing Room&nbsp;(www.twoglasses.org), a dance film and interactive screening experience. Thammika holds a Master of Fine Arts degree in creative writing from Vermont College of Fine Arts. She is also an alumna of Williams College in Massachusetts and the University of Pennsylvania.</div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/thammika.png"><b>Thammika Songkaeo</b> is a Thai resident of Singapore and the creative producer of&nbsp;Changing Room&nbsp;(www.twoglasses.org), a dance film and interactive screening experience. Thammika holds a Master of Fine Arts degree in creative writing from Vermont College of Fine Arts. She is also an alumna of Williams College in Massachusetts and the University of Pennsylvania.</div>
 
 #### **Notes**
 
