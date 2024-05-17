@@ -119,6 +119,11 @@ To the right of the houses is a large colonial-style bungalow, with luxury cars 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/mural_four_sufferings.png" style="width: 70%;">
 <div style="background-color: white;">This mural depicts the life stages of birth, ageing, sickness and death – also known as the “four sufferings” in Buddhism, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
+And to the right of this is the seemingly innocuous scene of people in a local _kopitiam_ (coffeeshop) having a meal and drinking beer. This scene reminds us again of what Buddhism defines as a vice: alcohol. Vices, on this plane of birth, are everywhere.
+
+<img src="/images/Online%20Only%20Articles/Wat%20Ananda/mural_kopitiam.png" style="width: 70%;">
+<div style="background-color: white;">This mural of a local _kopitiam_ conveys the message that drinking alcohol is considered a vice in Buddhism, 2023. <i>Photo by Thammika Songkaeo.</i></div>
+
   
 
 
@@ -167,5 +172,3 @@ To the right of the houses is a large colonial-style bungalow, with luxury cars 
 [^16]: Wat Ananda Facebook, 9 September 2023, video, 26:10, https://www.facebook.com/Watananda/videos/838135267602336.
 
 
-
-***
