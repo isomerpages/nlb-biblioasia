@@ -131,9 +131,9 @@ some of the newspaper articles, Loke Woh Yuen was quite expensive in terms
 of the menu, in terms of the banquet. But Fut Sai Kai came in with a more
 price-conscious mindset. It was actually set up by a group of vegetarian
 nuns led by Kao Tian-gu, or Gao Tian Gu.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Who was she?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>She was quite an interesting figure. So, the restaurant opened, let’s
 say at 11 a.m., she would wake up early in the morning, go to the markets
 to buy the freshest ingredients and then when she came to work, she’d work
@@ -142,38 +142,38 @@ an entire day.&nbsp;</p>
 how hectic and how passionate she was about her career. She started her
 vegetarian diet at the age of 16. So, she came from Guangdong province
 [China] She later founded Fu Shan Tang, this temple, in Guangdong.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Oh, so before she came to Singapore?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Yeah, it was said she came to Singapore at the age of 20, so I’m not quite
 sure. But we know that she founded this temple, and then when she came
 to Singapore, she was working. It was said that her business fortunes failed,
 and then she had to recoup her losses or savings again. Then she ventured
 with the other vegetarian nuns to open this restaurant in 1953, when she
 had enough savings to open this restaurant.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>And where was this restaurant located?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Kitchener Road.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>So, in having these restaurants, obviously, it serves the Chinese Buddhist
 community because they want to eat vegetarian food. And, you know, it’s
 now available in these restaurants for them to eat. But that helps obviously
 to spread vegetarianism. But apart from restaurants, they published cookbooks
 as well, which of course makes sense. Maybe you can tell us a bit about
 that.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>I hoped I could find cookbooks from the three restaurants that I [mentioned]
 earlier but unfortunately none [that I could find]. But yes, cookbooks
 by Chinese Buddhist women who were abbesses of the temples. So, one prominent
 one I can raise is <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=200060754" rel="noopener noreferrer nofollow" target="_blank">Top 100 Vegetarian Delights</a></em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Who was it by?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>By Venerable Ho Yuen Hoe. He Ren Hao.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>And which temple was she from?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Ling Chee Cheng Sia in Kovan. So Venerable Ho, like I said, joined the
 ranks of Chinese female pioneers in Singapore. She was known as Singapore’s
 grand dame of charity. It means that she advocated for charitable causes.
