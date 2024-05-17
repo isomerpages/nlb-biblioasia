@@ -7,7 +7,7 @@ third_nav_title: Vegetarianism
 ---
 <p>[Music playing]<strong>&nbsp;</strong>
 </p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Before Impossible meatballs and oatmeal lattes were here, vegetarianism
 in Singapore was promoted by Buddhist nuns through their restaurants, temples
 and cookbooks. Through their efforts, they made vegetarian food more accessible
@@ -17,30 +17,30 @@ promoted vegetarianism is Kelvin Tan. Kelvin wrote about these nuns in <em>Bibli
 was a guest in an episode of the National Library’s cooking show <em><a href="https://biblioasia.nlb.gov.sg/videos/soon-kueh/" rel="noopener noreferrer nofollow" target="_blank">From Book to Cook</a></em>.
 In that episode he made vegetarian <em>soon kueh</em> using a recipe from
 the temple Hai Inn See. Welcome to BiblioAsia+, Kelvin. How are you?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>I’m good. Hi, Jimmy. Thanks for having me today.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>My pleasure. Nowadays, you know, vegetarianism is very popular. We have
 dairy-free milk, we have <em>tempeh</em> burgers, we have lots of meat substitutes.
 But it wasn’t always like this, right? Vegetarianism didn’t used to be
 mainstream. And, you know, the first few Chinese vegetarian restaurants
 were set up in the 1940s and 50s. But tell me about, you know, these restaurants
 and the people who set them up.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>So, in the 1940s and 50s, you’re right, you have a sort of – pioneers
 of Chinese vegetarian restaurants that came up, but of course, we know
 from records the earliest one was actually opened by South Asians, or Indians.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>These are vegetarian restaurants?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Yes, vegetarian restaurants.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>But the earliest Chinese vegetarian restaurants were in the 1940s.&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Yeah. The earliest we can trace is 1946, at 25 Tanjong Pagar Road.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What was the name of the restaurant?&nbsp;</p>
-<p><strong>Kelvin</strong>
+<p><strong>Kelvin</strong> 
 <br>Loke Woh Yuen Vegetarian Restaurant or known as Liu He Yuan. Yeah. So
 of course, the women behind these restaurants were actually prominent figures,
 abbesses of vegetarian temples and nunneries. So, in religious studies,
@@ -50,34 +50,26 @@ as Chinese Buddhist women. They were a closeknit sisterhood of Chinese
 women who practiced the tradition of Mahayana Buddhism, some of them practicing
 a syncretic mix of Taoism and Confucianism. But there’s a long answer to
 it; hence it’s actually a very complex but a very fascinating story.&nbsp;</p>
-<p><strong>Jimmy</strong>
-<br>But they were Chinese, and they were Buddhists, and they were women.</p>
-<p>&nbsp;</p>
+<p><strong>Jimmy</strong> 
+<br>But they were Chinese, and they were Buddhists, and they were women.&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>Yeah. So, actually, they sort of traversed between, like you said, the
-three categories.</p>
-<p>&nbsp;</p>
+<br>Yeah. So, actually, they sort of traversed between, like you said, the
+three categories.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>What do we know about that restaurant?</p>
-<p>&nbsp;</p>
+<br>What do we know about that restaurant?&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>Loke Woh Yuen was actually set up by five Buddhist women in 1946, or in
+<br>Loke Woh Yuen was actually set up by five Buddhist women in 1946, or in
 the postwar period in the immediate years. They found it very hard to,
 sort of, find breakfast items because they [were] vegetarians, unlike other
 non-vegetarians who could easily sort of buy breakfast items, let’s say,<em> kopi</em> [and]
-toast, from the nearby Tanjong Pagar area.</p>
-<p>&nbsp;</p>
+toast, from the nearby Tanjong Pagar area.&nbsp;</p>
 <p>Hence, they came up with this idea of setting up a restaurant. But they
 had a find a place, so they actually saw this coffee shop, called Yi Tsi.
 Yi [refers to] Yi Pao, the Yi, that means Ipoh. And then Tsi is just a
 shop. So, Yi Tsi cafe. So, they got this premises from a fellow Buddhist
 – I think that they had connections with and then sort of bought over the
 rights from this fellow Buddhist – and then they opened this restaurant
-in 1946 at 25 Tangong Pagar Road.</p>
-<p>&nbsp;</p>
+in 1946 at 25 Tangong Pagar Road.&nbsp;</p>
 <p>So, what made this restaurant distinct from the others that came on board
 later? It was coined as the master of Chinese vegetarian restaurants. It
 was managed and owned by Chinese Buddhist women, in particular, not the
@@ -85,40 +77,28 @@ vegetarian nuns that we know. It’s mostly householders or Chi Tze Buddhists.
 As well as Bhikkhunis, or what we call ordained nuns. So, these are usually
 nuns of an institutional order or monastic order as well as some non-institutional
 affiliation. They set up this restaurant and then even down to the cashiers,
-the cooks, they were all just women.</p>
-<p>&nbsp;</p>
+the cooks, they were all just women.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s very interesting. I guess not many women went into business. Yeah,
+<br>It’s very interesting. I guess not many women went into business. Yeah,
 during that period. And then suddenly these women set up a business and
-only employ women.</p>
-<p>&nbsp;</p>
+only employ women.&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>Yeah, they only employed women. So, the most famous one was a chief cook,
+<br>Yeah, they only employed women. So, the most famous one was a chief cook,
 Madam Wong Sin Fong. She was quite well known in the local Buddhist circles
-and the local Chinese community for her eclectic cooking skills.</p>
-<p>&nbsp;</p>
+and the local Chinese community for her eclectic cooking skills.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Tell me about this restaurant. What was it known for? I mean, obviously
+<br>Tell me about this restaurant. What was it known for? I mean, obviously
 vegetarian food, but what kind of vegetarian food? Like is it Cantonese
-style or…</p>
-<p>&nbsp;</p>
+style or…&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>The pioneers of Chinese vegetarian restaurants actually specialised in
-Cantonese cuisines.</p>
-<p>&nbsp;</p>
+<br>The pioneers of Chinese vegetarian restaurants actually specialised in
+Cantonese cuisines.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>They were hungry, and there was no place to eat vegetarian food. So, they
+<br>They were hungry, and there was no place to eat vegetarian food. So, they
 decided to set up a restaurant. And how did they do? Did the restaurant
-do well?</p>
-<p>&nbsp;</p>
+do well?&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>It was a success, at least from the earliest newspaper article that I
+<br>It was a success, at least from the earliest newspaper article that I
 saw in <em>Nanyang Siang Pau</em> in 1948, so two years after its inception.
 There are a few signature items that they sort of describe in the article,
 but I think one was vegetarian shark fin, made of, interestingly, maize
@@ -126,36 +106,23 @@ as well as asparagus. So, I think it was popular. It was said that the
 restaurant was occasionally quite packed, for example, during of course
 traditional Chinese gatherings, weddings, banquets, to the extent that
 they had to set up tents outside of the five-foot-way onto the main road
-along Tanjong Pagar Road.</p>
-<p>&nbsp;</p>
+along Tanjong Pagar Road.&nbsp;</p>
 <p>It was quite popular among tourists, among the local Buddhist circles,
-that they coined it the master of Chinese vegetarian cuisine.</p>
-<p>&nbsp;</p>
+that they coined it the master of Chinese vegetarian cuisine.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Subsequently other restaurants came up as well. Fut Sai Kai, right?</p>
-<p>&nbsp;</p>
+<br>Subsequently other restaurants came up as well. Fut Sai Kai, right?&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p><em>Fo Shi Jie</em> is the translation in Mandarin.</p>
-<p>&nbsp;</p>
+<br><em>Fo Shi Jie</em> is the translation in Mandarin.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. So how was this restaurant different from Loke Woh Yuen?</p>
-<p>&nbsp;</p>
+<br>Okay. So how was this restaurant different from Loke Woh Yuen?&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>So interestingly, Loke Woh Yuen was known for the restaurant standard.
+<br>So interestingly, Loke Woh Yuen was known for the restaurant standard.
 The traditional bearer of Chinese vegetarian cuisine. So Fut Sai Kai came
-in in 1953, aiming at a more price-conscious clientele.</p>
-<p>&nbsp;</p>
+in in 1953, aiming at a more price-conscious clientele.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Just like me.</p>
-<p>&nbsp;</p>
+<br>Just like me.&nbsp;</p>
 <p><strong>Kelvin</strong>
-</p>
-<p>In one of the articles that I read in <em>Nanyang Siang Pau</em>, in 1953
+<br>In one of the articles that I read in <em>Nanyang Siang Pau</em>, in 1953
 the menu offered <em>dim sum</em>, noodles and some other dishes. They were
 actually priced quite cheaply, like a few cents to a dollar plus. So, it’s
 actually aimed at street food prices compared to the more… In the words
