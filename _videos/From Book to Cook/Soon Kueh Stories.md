@@ -23,7 +23,7 @@ Researcher Kelvin Tan explores how Chinese Buddhist women like her shaped the ve
 #### **Recipes**
 Although Kelvin followed the temple’s recipe closely, he added radish and black fungus to the filling, which are popular in <i>soon kueh</i> recipes today. For the dough skin, he added 20 g of glutinous rice flour and used smaller quantities of wheat starch and tapioca flour (300 g and 170 g respectively).
 
-In the old days when rice flour was not as readily available, the nuns at Hai Inn See used a stone mortar and pestle to grind rice into rice milk to make the dough skin. Leaves from <i>simpoh air (Dillenia suffruticosa</i>), a native plant, were used to pack the <i>kueh</i> for takeaways.
+In the old days when rice flour was not as readily available, the nuns at Hai Inn See used a stone mill to grind rice into rice milk to make the dough skin. Leaves from <i>simpoh air (Dillenia suffruticosa</i>), a native plant, were used to pack the <i>kueh</i> for takeaways.
 
 <img src="/images/Videos:%20From%20Book%20to%20Cook/4Soon%20Kueh/Soon_Kueh_Recipe.jpg" style="width:80%">
 <div style="background-color: white;"><i>Soon kueh</i>&nbsp;recipe reproduced from 海印古寺90周年特輯 [<i>Haiingu Temple 90th Anniversary Special</i>] (Singapore: Hai Inn Temple, 2018).</div>
@@ -43,4 +43,4 @@ Kelvin Tan tells us about the women who practised Buddhism and set up popular ve
 
 Lew, Nyok Thye. [坐月素食谱=<i>The Vegetarian Confinement Recipes</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205292461). Singapore: Imperial Chef, n.d. (From National Library, Singapore, call no. R 641.5636 LNT)
 
-Shi, Chin Yam,. [百味菜根香=<i>Top 100 Vegetarian Delights</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200060754). Singapore: Man Fut Tong Old People’s Home, 1998. (From National Library, Singapore, via PublicationSG)
+Shi, Chin Yam. [百味菜根香=<i>Top 100 Vegetarian Delights</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200060754). Singapore: Man Fut Tong Old People’s Home, 1998. (From National Library, Singapore, via PublicationSG)
