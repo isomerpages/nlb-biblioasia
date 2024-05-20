@@ -80,20 +80,21 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/gohleekim.png" style="width: 100px; height: 100px;">
-	<b>Goh Lee Kim</b> is a Senior Librarian with the National Library, Singapore. She is part of the team that curates and promotes access to the library’s digital collections.</div>
+<img src="/images/Authors/gohleekim-.png" style="width: 100px; height: 100px;">
+	<b>Joanna Tan</b> is a Senior Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection. Her responsibilities include collection management and content development as well as providing reference and research services.</div>
 
 
 #### **Notes**
-[^1]: 
+[^1]: Goh Keng Swee, “Speech by Dr Goh Keng Swee, Deputy Prime Minister and Minister of Defence at the Official Opening Ceremony of the Cable Car System on Friday, 15th February, 1974 at 4.30 pm at Mount Faber,” transcript, National Archives of Singapore (document no. PressR19740215a)
 
-[^2]: 
+[^2]: Bailyne Sung, “Cable Car No 1 Takes Goh Over to Sentosa,” _Straits Times_, 16 February 1974, 1. (From NewspaperSG)
 
-[^3]: 
+[^3]: “First Major Project in Sentosa Resort Completed,” _Straits Times_,  
+15 February 1974, 8; “1,000 Take Cable Car Rides on First Day,” _Straits Times_, 17 February 1974, 4. (From NewspaperSG)
 
-[^4]: 
+[^4]:  “‘Don’t Lose Faith’ Call by Goh,” _Straits Times_, 16 February 1974, 7. (From NewspaperSG)
 
-[^5]: 
+[^5]:  “Singapore Orders a Dozen More Cable Cars,” _New Nation_, 10 April 1974, 3. (From NewspaperSG); Marcus Ng Fu Chuan, _A Ride to Remember: The Story of Mount Faber and Singapore Cable Car_ (Singapore: Mount Faber Leisure Group, 2012), 38. (From National Library, Singapore, call no. RSING 915.957 NG-TRA\])
 
 [^6]: 
 
