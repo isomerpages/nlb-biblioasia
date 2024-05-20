@@ -15,6 +15,12 @@ To people back then, it must have seemed futuristic, to be suspended some 60 m i
 
 “We have a magnificent natural harbour, one of the finest in the world,” noted Deputy Prime Minister and Minister for Defence Goh Keng Swee when he officially opened the service on 15 February 1974. “A ride in a cable car – and I must not detain you longer than is necessary before you experience this for yourself – will provide the visitor with a magnificent panorama of the harbour. It will, I hope, at the same time make Singaporeans more conscious and more proud of their city state, whose economic life blood flows through this great port of ours.”[^1]
 
+
+![](/images/Vol%2020%20Issue%202/IceMaking/image0.jpg)
+<div style="background-color: white;">Cable cars along the Mount Faber Line linking Mount Faber and Sentosa, c. 1975. These are the first- generation cars. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+
 After his speech, Goh and his wife rode in the bright yellow Cable Car No. 1 across the harbour to Sentosa and was all smiles as he looked down at the panoramic view below. At the end of the journey, he told the _Straits Times_ that “he had enjoyed the ride very much and that it was as good as any he had taken abroad”.[^2] &nbsp;
 
 Such was the novelty of the ride that his endorsement was probably unnecessary. The next day, when it opened to the public, more than 1,000 people jostled for the opportunity to get into a cable car cabin and ride it for the 8.5 minutes it took to get from Mount Faber to Sentosa.[^3] They paid $4 for a round trip.[^4]
@@ -80,7 +86,7 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/gohleekim-.png" style="width: 100px; height: 100px;">
+<img src="/images/Authors/JoannaTan.png" style="width: 100px; height: 100px;">
 	<b>Joanna Tan</b> is a Senior Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection. Her responsibilities include collection management and content development as well as providing reference and research services.</div>
 
 
