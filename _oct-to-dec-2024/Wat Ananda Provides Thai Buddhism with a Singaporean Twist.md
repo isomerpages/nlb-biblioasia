@@ -62,7 +62,7 @@ The unique way that Loy Krathong is celebrated in Wat Ananda encapsulates how th
 
 The temple’s roots go back to the early decades of the 20th century. It was founded in 1918 by a monk, Venerable Luang Phor Hong Dhammaratano (Phra Dhammaratano Bandit).[^2] Originally from Bangkok, Dhammaratano had lived in Pulau Tikus in Penang, Ceylon (now Sri Lanka), India and Burma (now Myanmar), and was a polyglot proficient in Sinhalese and Mandarin.[^3]
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/luang_phor_hong.png" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/luang_phor_hong_x.jpg" style="width: 60%;">
 <div style="background-color: white;">The statue of Venerable Luang Phor Hong Dhammaratano between the doorways leading to the main shrine. <i>Photo by Jimmy Yap.</i></div>
 
 The Thai consulate offered Dhammaratano land beside the Thai Embassy, along today’s Orchard Road, so that he could build a temple. But as Orchard Road was not easily accessible at the time, Dhammaratano declined as he felt that it was too far from the town centre. Instead, he decided to set it up on Silat Road in what is now the Bukit Merah area.[^4] Wat Ananda Metyarama was completed in 1923, largely from the financial support of the Chinese in Singapore.
