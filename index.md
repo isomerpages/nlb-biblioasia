@@ -1011,8 +1011,7 @@ sections:
       subtitle: Podcast
       id: infopic
       description: Set up by five Buddhist women in 1946, Loke Woh Yuen was the first
-        Chinese vegetarian restaurant in Singapore, popular for it's shark’s fin
-        made from maize.
+        Chinese vegetarian restaurant in Singapore.
       button: Women spreading vegetarianism
       url: https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/
       image: /images/Podcast/isomer_kelvin.jpg
