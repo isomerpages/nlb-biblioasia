@@ -136,7 +136,7 @@ https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
 
 [^12]: “[Faber-Sentosa Car Link Will Be Bi-Cable](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730510-1.2.37),” _New Nation_, 10 May 1973, 5. (From NewspaperSG); “[Buildings Designed With Local Skills](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740215-1.2.45.7).”
 
-[^13]:  Ng, _A Ride to Remember_, 28; “Buildings Designed With Local Skills”; Chia Poteik, “$2.9 Million Cable Car Contract,” _Straits Times_, 14 August 1971, 19. (From NewspaperSG)
+[^13]:  Ng, [_A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 28; “[Buildings Designed With Local Skills](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740215-1.2.45.7)”; Chia Poteik, “[$2.9 Million Cable Car Contract](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710814-1.2.121),” _Straits Times_, 14 August 1971, 19. (From NewspaperSG)
 
 [^14]:  “Overview,” Sentosa Development Corporation, last updated 26 October 2023, https://www.sentosa.gov.sg/who-we-are/overview/.
 
