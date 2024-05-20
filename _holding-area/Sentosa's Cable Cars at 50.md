@@ -110,9 +110,9 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 
 #### **Notes**
-[^1]: Goh Keng Swee, “Speech by Dr Goh Keng Swee, Deputy Prime Minister and Minister of Defence at the Official Opening Ceremony of the Cable Car System on Friday, 15th February, 1974 at 4.30 pm at Mount Faber,” transcript, National Archives of Singapore (document no. PressR19740215a)
+[^1]: Goh Keng Swee, “[Speech by Dr Goh Keng Swee, Deputy Prime Minister and Minister of Defence at the Official Opening Ceremony of the Cable Car System on Friday, 15th February, 1974 at 4.30 pm at Mount Faber](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c3d7e2f-115d-11e3-83d5-0050568939ad),” transcript, National Archives of Singapore (document no. PressR19740215a)
 
-[^2]: Bailyne Sung, “Cable Car No 1 Takes Goh Over to Sentosa,” _Straits Times_, 16 February 1974, 1. (From NewspaperSG)
+[^2]: Bailyne Sung, “[Cable Car No 1 Takes Goh Over to Sentosa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740216-1.2.16),” _Straits Times_, 16 February 1974, 1. (From NewspaperSG)
 
 [^3]: “First Major Project in Sentosa Resort Completed,” _Straits Times_,  
 15 February 1974, 8; “1,000 Take Cable Car Rides on First Day,” _Straits Times_, 17 February 1974, 4. (From NewspaperSG)
