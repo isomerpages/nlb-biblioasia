@@ -17,6 +17,27 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Online Only Articles/Wat Ananda/Hero_banner_Wat_Ananda.jpg
   - infopic:
+      title: The Chinese Vegetarian Foodscape of the 1950s–60s
+      subtitle: Podcast
+      id: infopic
+      description: Set up by five Buddhist women in 1946, Loke Woh Yuen was the first
+        Chinese vegetarian restaurant in Singapore.
+      button: Women spreading vegetarianism
+      url: https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/
+      image: /images/Podcast/isomer_kelvin.jpg
+      alt: Image alt text
+  - infopic:
+      title: Soon Kueh Stories
+      subtitle: "VIDEO: FROM BOOK TO COOK"
+      id: infopic
+      description: What does a soon kueh recipe have to do with a Buddhist temple?
+        Find out as researcher Kelvin Tan conquers sticky dough to make this
+        humble vegetarian snack.
+      button: WATCH THE VIDEO
+      url: /videos/soon-kueh/
+      image: "/images/Videos: From Book to Cook/4Soon Kueh/Soon_Kueh.jpg"
+      alt: Image alt text
+  - infopic:
       title: Wat Ananda Provides Thai Buddhism with a Singaporean Twist
       subtitle: Worship
       id: infopic
@@ -995,25 +1016,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: Soon Kueh Stories
-      subtitle: "VIDEO: FROM BOOK TO COOK"
-      id: infopic
-      description: What does a soon kueh recipe have to do with a Buddhist temple?
-        Find out as researcher Kelvin Tan conquers sticky dough to make this
-        humble vegetarian snack.
-      button: WATCH THE VIDEO
-      url: /videos/soon-kueh/
-      image: "/images/Videos: From Book to Cook/4Soon Kueh/Soon_Kueh.jpg"
-      alt: Image alt text
-  - infopic:
-      title: The Chinese Vegetarian Foodscape of the 1950s–60s
-      subtitle: Podcast
-      id: infopic
-      description: Set up by five Buddhist women in 1946, Loke Woh Yuen was the first
-        Chinese vegetarian restaurant in Singapore.
-      button: Women spreading vegetarianism
-      url: https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/
-      image: /images/Podcast/isomer_kelvin.jpg
-      alt: Image alt text
 ---
