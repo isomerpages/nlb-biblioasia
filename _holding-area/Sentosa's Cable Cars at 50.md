@@ -162,13 +162,13 @@ https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
 
 [^25]:  Yong Li Xuan, “Sentosa Cable Car Tragedy: Helicopter Co-pilot in Rescue Mission was Only 19,” _Straits Times_, 29 January 2023, https://www.straitstimes.com/singapore/sentosa-cable-car-tragedy-helicopter-co-pilot-in-rescue-mission-was-only-19.
 
-[^26]: Philip Lee, et al., “PM Orders Full Inquiry,” _Straits Times_, 31 January 1983, 1. (From NewspaperSG); Marine Department (Singapore), _Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_, 1; “The Straits Times Says Thundering But Fair Report,” _Straits Times_, 16 January 1984, 16. (From NewspaperSG)
+[^26]: Philip Lee, et al., “[PM Orders Full Inquiry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830131-1.2.5),” _Straits Times_, 31 January 1983, 1. (From NewspaperSG); Marine Department (Singapore), _Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_, 1; “[The Straits Times Says Thundering But Fair Report](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840116-1.2.28),” _Straits Times_, 16 January 1984, 16. (From NewspaperSG)
 
-[^27]:  Tsang So-Yin, “Cable Cars Roll Again,” _Straits Times_, 16 August 1983, 1. (From NewspaperSG)
+[^27]:  Tsang So-Yin, “[Cable Cars Roll Again](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830816-1.2.5),” _Straits Times_, 16 August 1983, 1. (From NewspaperSG)
 
-[^28]:  Ng, _A Ride to Remember_, 45.
+[^28]:  Ng, [_A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 45.
 
-[^29]:  Jessica Lim, “Cable Car Rides Shut Down for Upgrading Works,” _Straits Times_, 11 September 2009, 43; “Fresh Look,” _The New Paper_, 21 July 2010, 8. (From NewspaperSG)
+[^29]:  Jessica Lim, “[Cable Car Rides Shut Down for Upgrading Works](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20090911-1.2.44.13),” _Straits Times_, 11 September 2009, 43; “Fresh Look,” _The New Paper_, 21 July 2010, 8. (From NewspaperSG)
 
 [^30]: Jessica Lim, “Sentosa to Build New Cable Car Line,” _Straits Times_, 14 June 2012, 2–3. (From NewspaperSG)
 
