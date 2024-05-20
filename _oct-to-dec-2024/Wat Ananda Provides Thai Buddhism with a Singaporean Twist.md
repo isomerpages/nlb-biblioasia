@@ -32,7 +32,7 @@ Wat Ananda has been in Singapore for more than 100 years and that time here has 
 
 Then there are the many statues of Guanyin, the Chinese Goddess of Mercy, that have been placed in positions of honour. A large white statue of Guanyin is the central figure in a low building to the right of the main shrine. Next to this building is a covered porch where a smaller, but still tall, golden figure of Guanyin resides, flanked by statues of two monks. Guanyin, however, is a more common feature of Mahayana Buddhism, the school of Buddhism commonly found in countries like China, Korea and Japan.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/guanyin.png" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/white_statue_x.jpg" style="width: 60%;">
 <div style="background-color: white;">This large white statue of Guanyin is housed in a separate building that is on the right of the main hall, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/golden_guanyins.png" style="width: 60%;">
