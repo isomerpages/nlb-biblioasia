@@ -39,7 +39,7 @@ It also lent itself to betting. In a remarkably short span of time, boxing bouts
 
 #### **Pulling No Punches**
 
-The first local hero was an unlikely one – a Straits Chinese named Tan Teng Kee. Born in 1898 to a respected family whose head was a _sinseh_ (traditional Chinese physician), Tan had attended the venerable St Joseph’s Institution – a natural stepping stone to a “respectable” white-collar profession.[^9] To the family’s shock though, Tan decided to don boxing gloves. His nom de guerre: Battling Key.
+The first local hero was an unlikely one – a Straits Chinese named Tan Teng Kee. Born in 1898 to a respected family whose head was a _sinseh_ (traditional Chinese physician), Tan had attended the venerable St Joseph’s Institution – a natural stepping stone to a “respectable” white-collar profession.[^9] To the family’s shock though, Tan decided to don boxing gloves. His <i>nom de guerre</i>: Battling Key.
 
 ![](/images/Vol%2020%20Issue%202/Boxing/Image2a.jpg)
 <div style="background-color: white;">Battling Key, the lightweight champion. <i>Image reproduced from Malayan Saturday Post, 30 July 1927, 32. (From NewspaperSG).</i></div>

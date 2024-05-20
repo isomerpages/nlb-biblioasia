@@ -88,7 +88,7 @@ Beyond these property registers and account records are a wealth of papers perta
 
 The photographs in the collection also provide information about the Huay Kuan and its activities. These showcase past management committees and capture unique moments such as traditional mass weddings, school life, burial grounds – bringing the clan’s past vividly to life.
 
-This brief survey only touches the surface of what is available in the Singapore Hokkien Huay Kuan Collection. Members of the public who wish to find out more about the collection may refer to the respective access information found in the article and consult the Reference Counter on Level 11 of the Lee Kong Chian Reference Library, National Library Buidling, or via email (ref@nlb.gov.sg).
+This brief survey only touches the surface of what is available in the Singapore Hokkien Huay Kuan Collection. You can request to view the materials highlighted in this article (access information can be found in the Notes listed below), or find out more by consulting us (via email at&nbsp;<a href="ref@nlb.gov.sg">ref@nlb.gov.sg</a>&nbsp;or at the reference counter on Level 11 of the Lee Kong Chian Reference Library, National Library Building).
 
 
 <div style="background-color: white;">

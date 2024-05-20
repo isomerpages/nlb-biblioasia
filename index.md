@@ -9,14 +9,45 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/
-      button: Conquering Everest, the World’s Tallest Mountain
+      url: /vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
+      button: Wat Ananda Provides Thai Buddhism with a Singaporean Twist
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/Conquer Tallest
-        Mountain_12_23/conquering_everest_hero_img.png
+      background: /images/Online Only Articles/Wat Ananda/Hero_banner_Wat_Ananda.jpg
+  - infopic:
+      title: The Chinese Vegetarian Foodscape of the 1950s–60s
+      subtitle: Podcast
+      id: infopic
+      description: Set up by five Buddhist women in 1946, Loke Woh Yuen was the first
+        Chinese vegetarian restaurant in Singapore.
+      button: Women spreading vegetarianism
+      url: https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/
+      image: /images/Podcast/isomer_kelvin.jpg
+      alt: Image alt text
+  - infopic:
+      title: Soon Kueh Stories
+      subtitle: "VIDEO: FROM BOOK TO COOK"
+      id: infopic
+      description: What does a soon kueh recipe have to do with a Buddhist temple?
+        Find out as researcher Kelvin Tan conquers sticky dough to make this
+        humble vegetarian snack.
+      button: WATCH THE VIDEO
+      url: /videos/soon-kueh/
+      image: "/images/Videos: From Book to Cook/4Soon Kueh/Soon_Kueh.jpg"
+      alt: Image alt text
+  - infopic:
+      title: Wat Ananda Provides Thai Buddhism with a Singaporean Twist
+      subtitle: Worship
+      id: infopic
+      description: Despite the golden stupa and ornate roofs that indicate this is a
+        Thai Buddhist temple, the Singaporean influences are not hard to spot at
+        Wat Ananda Metyarama.
+      button: A slice of Thailand in Bukit Merah
+      url: /vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
+      image: /images/Online Only Articles/Wat Ananda/Picture3.png
+      alt: Image alt text
   - infopic:
       title: "Cikgu Asfiah Abdullah: A Cultural Luminary"
       subtitle: People

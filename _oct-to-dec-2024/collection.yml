@@ -1,4 +1,5 @@
 collections:
   oct-to-dec-2024:
     output: true
-    order: []
+    order:
+      - Wat Ananda Provides Thai Buddhism with a Singaporean Twist.md

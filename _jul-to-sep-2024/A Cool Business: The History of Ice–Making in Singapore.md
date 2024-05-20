@@ -104,7 +104,7 @@ Given Singapore’s tropical climate, ice manufacturers will never face a chilly
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/gohleekim.png" style="width: 100px; height: 100px;">
-	<b>Goh Lee Kim</b> is a Librarian with the National Library, Singapore. She is part of the team that curates and promotes access to the library’s digital collections.</div>
+	<b>Goh Lee Kim</b> is a Senior Librarian with the National Library, Singapore. She is part of the team that curates and promotes access to the library’s digital collections.</div>
 
 
 #### **Notes**

@@ -1,6 +1,6 @@
 ---
 title: Wat Ananda Provides Thai Buddhism with a Singaporean Twist
-permalink: /holding-area/wat-ananda/
+permalink: /vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
 variant: markdown
 description: ""
 ---
@@ -38,7 +38,7 @@ Then there are the many statues of Guanyin, the Chinese Goddess of Mercy, that h
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/golden_guanyins.png" style="width: 60%;">
 <div style="background-color: white;">The golden figure of Guanyin flanked by statues of two monks, 2024. <i>Photo by Jimmy Yap.</i></div>
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/guanyin_statue_outside.png" style="width: 60%;">
+<img src="/images/Online%20Only%20Articles/Wat%20Ananda/guanyin_statue_outside_x.png" style="width: 60%;">
 <div style="background-color: white;">A statue of Guanyin outside the main shrine, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 Wat Ananda may be known as a Thai temple but it definitely shows signs of being localised. Although older Thais still show up in traditional Thai costume on religious occasions, the temple has become a place for Singaporeans to get a dose of Theravada Buddhism and the Land of Smiles all at once. Even what the temple celebrates and how it celebrates those occasions have been adapted to local culture and customs, and Singaporeans’ cravings for blessings.
@@ -86,9 +86,6 @@ Wat Ananda is not Singapore’s only Thai temple, but it is possibly the most we
 
 The temple’s monks themselves are also mostly from Thailand. Back in 1976, the former prime minister of Thailand, Thanom Kittikachorn, was even ordained as a Buddhist monk at the temple after being ousted from the country in bloody student riots in 1973. He returned to the temple in February 1986 for the Nimitta Sima ceremony to lay nine 100-kilogram sacred stones to consecrate the part of the temple that can be used for the ordination of monks.[^13]
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/sacred_stones.png" style="width: 60%;">
-<div style="background-color: white;">One of the sacred stones installed in 1986. <i>Photo by Jimmy Yap.</i></div>
-
 #### **Festivals and Celebrations**
 
 These Thai links do not erase the many Chinese influences one can see. The local Chinese community has been closely associated with the temple from the outset, evidenced by the large number of Chinese donor names on the walls. Due to the popularity of the temple with Chinese devotees, the temple celebrates non-Thai and also non-Buddhist festivals.
@@ -110,7 +107,7 @@ Hand-painted murals by two Thai artists in 2015 adorn every single one of the ma
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/Picture4.jpg" style="width: 80%;">
 <div style="background-color: white;">The golden statue of Buddha in the main hall is surrounded by hand-painted wall murals, 2024. <i>Photo by Jimmy Yap.</i></div>
 
-For instance, behind the huge golden statue of Buddha in the main shrine – which looms on a platform the height of a grown man – the artists have incorporated scenes of Singapore. In a mural titled “Planes of Rebirth_”_ depicting the different possible planes of existence in which Buddhist rebirth may take place, artists have painted the famous row of Koon Seng Road shophouses in all its various hues. This scene represents human activities and human desires as depicted by the people exercising in fashionable athletic wear, and children in superhero costumes.
+For instance, behind the huge golden statue of Buddha in the main shrine – which looms on a platform the height of a grown man – the artists have incorporated scenes of Singapore. In a mural titled “Planes of Rebirth” depicting the different possible planes of existence in which Buddhist rebirth may take place, artists have painted the famous row of Koon Seng Road shophouses in all its various hues. This scene represents human activities and human desires as depicted by the people exercising in fashionable athletic wear, and children in superhero costumes.
 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/shophouses_koon_seng.png" style="width: 70%;">
 <div style="background-color: white;">The mural with the row of colourful Koon Seng Road shophouses, 2023. <i>Photo by Thammika Songkaeo.</i></div>
@@ -129,7 +126,7 @@ And to the right of this is the seemingly innocuous scene of people in a local _
 <div style="background-color: white;">A mural of the wheel of life found inside the main hall of the temple. It shows (from innermost to outermost layer) the three poisons of attachment, ignorance and aversion; karma or cause and effect; the six realms of existence; and the twelve links of Dependent Origination. <i>Photo by Jimmy Yap.</i></div>
 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/mural_wheel_of_life_4th_segment.png" style="width: 60%;">
-<div style="background-color: white;">This detail from the wheel of life mural is from the fourth segment (clockwise) of the outermost layer. The scene with two men in a boat symbolises _namarupa_ (“name and form”) or the constituent elements of mental and physical existence. Marina Bay Sands was added in as a local detail. <i>Photo by Jimmy Yap.</i></div>
+<div style="background-color: white;">This detail from the wheel of life mural is from the fourth segment (clockwise) of the outermost layer. The scene with two men in a boat symbolises <i>namarupa</i> (“name and form”) or the constituent elements of mental and physical existence. Marina Bay Sands was added in as a local detail. <i>Photo by Jimmy Yap.</i></div>
 
 #### **Chinese-Style Columbarium**
 

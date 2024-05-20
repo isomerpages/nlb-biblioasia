@@ -2,10 +2,8 @@ collections:
   holding-area:
     output: true
     order:
-      - Wat Ananda Provides Thai Buddhism with a Singaporean Twist.md
       - "Sea Snail & Papaya Curry: A Eurasian Specialty.md"
       - The Scoop on Otak Blangah.md
-      - Soon Kueh Stories.md
       - Example Title.md
       - Test2.md
       - Test page.md

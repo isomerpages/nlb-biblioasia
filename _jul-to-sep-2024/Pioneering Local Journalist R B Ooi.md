@@ -93,11 +93,11 @@ As much as Ooi was critical of Western attitudes and some Westernised Asians, he
 
 #### **Curtailing Press Freedom**
 
-Ooi was a consummate newspaperman and believed that freedom of the press was essential.[^13] He had spent most of his journalistic career in Singapore and saw the independence of Singapore’s newspapers being eroded.
+Ooi was a consummate newspaperman and believed that freedom of the press was essential.[^13] He had spent most of his journalistic career in Singapore and believed that the independence of Singapore’s newspapers was being eroded.
 
 He revealed in an interview that during his two-year tenure at the <i>Eastern Sun</i> between 1966 and 1968, he had experienced run-ins with then Singapore Prime Minister Lee Kuan Yew. Lee had “on several occasions, in front of all the other editors in Singapore (he called us up as a group very often), accused me of being an MCA [Malaysian Chinese Association] or UMNO [United Malays National Organisation] spy. Also, he often sent his political commissars to our office to see what we were doing, PAP [People’s Action Party] agents were put on our staff and morale was very low”.[^14] This was one of the major reasons why Ooi subsequently left Singapore in 1968 and moved to Kuala Lumpur.
 
-In that same interview, Ooi described 1971 as a “disastrous year” for journalism in Singapore. That was the year Lee had shut down the <i>Eastern Sun</i> and the <i>Singapore Herald</i>, and also jailed the owner and editors of the <i>Nanyang Siang Pau</i> Chinese newspaper without trial. Ooi attributed these actions to Lee suspecting that the press in Singapore was “being financed by foreign interests to gain control of Singapore”. The end result was that “[w]hatever his bogeys are, the press in Singapore is a docile and commercial one controlled by him”.[^15] In an unpublished work in 1971 donated to the National Library, Ooi detailed the history of English-language newspapers in Malaya.
+In that same interview, Ooi described 1971 as a “disastrous year” for journalism in Singapore. That was the year Lee had shut down the <i>Eastern Sun</i> and the <i>Singapore Herald</i>, and also jailed the owner and editors of the <i>Nanyang Siang Pau</i> Chinese newspaper without trial. In an unpublished 1971 manuscript about the history of English-language newspapers in Malaya,&nbsp;Ooi attributed Lee's actions to his suspicions that the press was "being financed by foreign interests to gain control of Singapore... \[w\]hatever his bogeys are, the press in Singapore is a docile and commercial one controlled by him”.[^15] 
 
 In a 1972 commentary in the <i>Straits Echo</i>, Ooi called for newspapers in Singapore and Malaysia to be separated. “If Singapore does not want foreign capital in and foreign control of its newspapers, why should Malaysia allow Singapore capital to control Malaysian newspapers?” he argued. “Malaysia should have her own independent Press.”[^16]
 
@@ -111,7 +111,7 @@ Ooi’s descendants have fared well. His grandchildren and great-grandchildren i
 family language, as are Western attire, music and other “cultural” habits.
 
 <img style="width: 85%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/family.png">
-<div style="background-color:white;">The engagement of Nadia Azahari (centre), daughter of Eric Ooi and Julia Daham (first row extreme left), to Megat Muzaffar Shah bin Datuk Mohamad Nor in Kuala Lumpur, 2010. <i>Courtesy of Irene Lim.</i></div>
+<div style="background-color:white;">R.B. Ooi’s descendants in Malaysia have married across ethnicities and cultures. <i>Courtesy of Irene Lim.</i></div>
 
 I’m sure my grandfather would be pleased that scholarly research on Straits Chinese history and culture is flourishing today, and that there has been a revival of Straits Chinese arts and culture in both Singapore and Malaysia, with thriving Peranakan associations, cuisine, performing arts and literature. Explorations of local history and “heritage” that formed such a large part of his writing have become popular, even entrenched, in both countries.
 
