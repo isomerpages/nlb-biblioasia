@@ -996,4 +996,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: Soon Kueh Stories
+      subtitle: "VIDEO: FROM BOOK TO COOK"
+      id: infopic
+      description: What does a soon kueh recipe have to do with a Buddhist temple?
+        Find out as researcher Kelvin Tan conquers sticky dough to make this
+        humble vegetarian snack.
+      button: WATCH THE VIDEO
+      url: /videos/soon-kueh/
+      image: "/images/Videos: From Book to Cook/4Soon Kueh/Soon_Kueh.jpg"
+      alt: Image alt text
 ---
