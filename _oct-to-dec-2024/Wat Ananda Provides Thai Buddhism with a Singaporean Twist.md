@@ -104,12 +104,12 @@ Wat Ananda celebrates Buddhist festivals such as Vesak Day – which commemorate
 
 Hand-painted murals by two Thai artists in 2015 adorn every single one of the main shrine’s inner walls.&nbsp;At first glance, some of these seem nothing out of the ordinary as they depict Buddha’s life and teachings, and his path to enlightenment. But on closer scrutiny, familiar landscapes of Singapore can be seen.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/Picture4.jpg" style="width: 80%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/golden_statue_buddha_x.jpg" style="width: 80%;">
 <div style="background-color: white;">The golden statue of Buddha in the main hall is surrounded by hand-painted wall murals, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 For instance, behind the huge golden statue of Buddha in the main shrine – which looms on a platform the height of a grown man – the artists have incorporated scenes of Singapore. In a mural titled “Planes of Rebirth” depicting the different possible planes of existence in which Buddhist rebirth may take place, artists have painted the famous row of Koon Seng Road shophouses in all its various hues. This scene represents human activities and human desires as depicted by the people exercising in fashionable athletic wear, and children in superhero costumes.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/shophouses_koon_seng.png" style="width: 70%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mural_koon_seng_x.png" style="width: 70%;">
 <div style="background-color: white;">The mural with the row of colourful Koon Seng Road shophouses, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
 To the right of the houses is a large colonial-style bungalow, with luxury cars parked in front and a woman with her husband carrying a child. This reminds the viewer to reflect on materialism, which seems trivial compared to the larger meaning of life exemplified by the other characters within the scene: two little girls in hijab holding hands, a grey-haired woman in a wheelchair and an old man walking on his own with a walking stick. The life stages of birth, ageing, sickness and death, also known as the “four sufferings” in Buddhism, are conveyed in this scene against the backdrop of Singapore.
