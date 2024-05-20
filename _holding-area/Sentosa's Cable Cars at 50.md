@@ -94,6 +94,12 @@ The opening of Resorts World Sentosa and Universal Studios in 2010 led to a spik
 
 In March 2024, seven futuristic-looking cabins were added to the existing fleet of 67 on the Mount Faber Line connecting Mount Faber and Sentosa. Called SkyOrb cabins, these have a transparent glass bottom and were made exclusively for Singapore.[^31]
 
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img4.jpg)
+<div style="background-color: white;">Cable cars along the Mount Faber Line linking Mount Faber and Sentosa, 2024. Seen here are the new SkyOrb cabins and other cars dressed in the Pokémon motif. <i>Photo by Jimmy Yap.</i></div>
+
+
+
 Over the last five decades, Sentosa’s cable cars have established themselves as a familiar landmark to those who pass along Telok Blangah Road. Yet despite the familiarity, it is still a major draw, offering as it does, a unique perspective of the harbour and Singapore’s coastline. The service’s commitment to constant upgrading and improvement will undoubtedly enable these cable cars to continue soaring.
 
 
