@@ -134,7 +134,7 @@ In Thailand, columbaria are typically found outdoors, where the ashes are stored
 
 Just outside the space where the rows of urns are kept is a space for ancestral tablets that are lined up in glass cases behind the statue of Kṣitigarbha, the ruler of the underworld and a common deity placed among ancestral tablets in Chinese temples. In front of the statue are offerings of fruit such as persimmons and oranges, common in traditional Chinese ancestral worship. On any given day, a filial descendant may be spotted burning joss paper in a designated area near the columbarium.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/columbarium.png" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/columbarium_x.png" style="width: 60%;">
 <div style="background-color: white;">The columbarium with the statute of Kṣitigarbha, the ruler of the underworld, and the ancestral tablets in glass cases, 2023.<i>Photo by Thammika Songkaeo.</i></div>
 
 #### **A Place for All**
