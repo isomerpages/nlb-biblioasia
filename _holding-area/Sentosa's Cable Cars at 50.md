@@ -170,6 +170,6 @@ https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
 
 [^29]:  Jessica Lim, “[Cable Car Rides Shut Down for Upgrading Works](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20090911-1.2.44.13),” _Straits Times_, 11 September 2009, 43; “[Fresh Look](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper20100721-1.2.8.1),” _The New Paper_, 21 July 2010, 8. (From NewspaperSG)
 
-[^30]: Jessica Lim, “Sentosa to Build New Cable Car Line,” _Straits Times_, 14 June 2012, 2–3. (From NewspaperSG)
+[^30]: Jessica Lim, “[Sentosa to Build New Cable Car Line](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20120614-1.2.7.3),” _Straits Times_, 14 June 2012, 2–3. (From NewspaperSG)
 
 [^31]:  Chin Soo Fang, “Futuristic Cabins to Join Singapore Cable Car’s Fleet As It Turns 50,” _Straits Times_, 3 December 2023, https://www.straitstimes.com/singapore/futuristic-fleet-to-join-s-pore-s-cable-cars-in-2024-as-it-turns-50.
