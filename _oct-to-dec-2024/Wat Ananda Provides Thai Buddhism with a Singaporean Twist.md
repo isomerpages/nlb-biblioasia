@@ -22,7 +22,7 @@ After you’ve made the 37 steps up the hill to reach the ornate gateway of Wat 
 
 <img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/ornate_gateway_x.jpg" style="width: 65%;">
 <div style="background-color: white;">The ornate gateway of Wat Ananda Metyarama with its distinctive Thai motifs, 2024. <i>Photo by Jimmy Yap.</i></div>
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/main_hall_of_temple.jpg" style="width: 80%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/main_hall_x.jpg" style="width: 80%;">
 <div style="background-color: white;">The main hall of the temple is housed in a single-storey building, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 Wat Ananda has been in Singapore for more than 100 years and that time here has left its mark. All around the temple’s compound are elements that would not normally be found in a Buddhist temple in Thailand. One obvious sign is the round, red Chinese lanterns that liberally adorn the ceilings in the compound.
