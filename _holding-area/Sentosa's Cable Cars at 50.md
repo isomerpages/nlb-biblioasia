@@ -111,40 +111,40 @@ https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
 
 [^12]: “Faber-Sentosa Car Link Will Be Bi-Cable,” _New Nation_, 10 May 1973, 5. (From NewspaperSG); “Buildings Designed With Local Skills.”
 
-[^13]: 
+[^13]:  Ng, _A Ride to Remember_, 28; “Buildings Designed With Local Skills”; Chia Poteik, “$2.9 Million Cable Car Contract,” _Straits Times_, 14 August 1971, 19. (From NewspaperSG)
 
-[^14]: 
+[^14]:  “Overview,” Sentosa Development Corporation, last updated 26 October 2023, https://www.sentosa.gov.sg/who-we-are/overview/.
 
-[^15]: 
+[^15]:  “Buildings Designed With Local Skills”; Chia, “$2.9 Million Cable Car Contract.”
 
-[^16]: 
+[^16]:  “Faber-Sentosa Car Link Will Be Bi-Cable”; “Work on Cable Car Wire Installation Starts Today”; Teresa Ooi, “Swiss Experts Will Install Cable Cars,” _New Nation_, 5 May 1973, 3; “First Major Project in Sentosa Resort Completed,” _Straits Times_, 15 February 1974, 8. (From NewspaperSG)
 
-[^17]: 
+[^17]:  “Two Islands to Link with Sentosa,” _Straits Times_, 2 February 1978, 28. (From NewspaperSG)
 
-[^18]: 
+[^18]:  Ng, _A Ride to Remember_, 28.
 
-[^19]: 
+[^19]:  Ng, _A Ride to Remember_, 38; “Lord M Takes a Cable Car to Sentosa,” _New Nation_, 7 March 1974, 3. (From NewspaperSG)
 
-[^20]: 
+[^20]:  “Stand-ins Take Over for Five-0 Cable Car Stunt,” _Straits Times_, 13 May 1978, 6; Bailyne Sung, “Year of the Horse Leaves Five-O Fans High and Dry,” _Straits Times_, 20 January 1979, 2. (From NewspaperSG)
 
-[^21]: 
+[^21]:  Yong Li Xuan, “Sentosa Cable Car Tragedy: 40 Years On,” _Straits Times_, 29 January 2023, https://www.straitstimes.com/singapore/sentosa-cable-car-tragedy-he-still-has-flashbacks-of-his-family-falling-out-of-cable-car; Chia Chong Jin, “Daring Rescue: 1983 Sentosa Cable Car Accident,” _Pioneer_, 27 January 2023, mindef.gov.sg/web/portal/pioneer/article/regular-article-detail/ops-and-training/2023-Q1/27jan23\_news2; Marine Department (Singapore), _Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_, 33.
 
-[^22]: 
+[^22]:   Chia, “Daring Rescue”; Conrad Raj, “Using Commandos,” _Straits Times_, 6 February 1983, 18; “Four Options, Then the Go-Ahead for Choppers,” _Straits Times_, 31 January 1983, 8. (From NewspaperSG)
 
-[^23]: 
+[^23]:  “Plucked From the Jaws of Death,” _Straits Times_, 31 January 1983, 1. (From NewspaperSG)
 
-[^24]: 
+[^24]:  Cynthia Choo and Albert Wai, “Aussie Hero of Sentosa Cable Car Rescue Recalls ‘Harrowing’ Night,” _Today_, 13 October 2016, 8. (From NewspaperSG)
 
-[^25]: 
+[^25]:  Yong Li Xuan, “Sentosa Cable Car Tragedy: Helicopter Co-pilot in Rescue Mission was Only 19,” _Straits Times_, 29 January 2023, https://www.straitstimes.com/singapore/sentosa-cable-car-tragedy-helicopter-co-pilot-in-rescue-mission-was-only-19.
 
-[^26]: 
+[^26]: Philip Lee, et al., “PM Orders Full Inquiry,” _Straits Times_, 31 January 1983, 1. (From NewspaperSG); Marine Department (Singapore), _Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_, 1; “The Straits Times Says Thundering But Fair Report,” _Straits Times_, 16 January 1984, 16. (From NewspaperSG)
 
-[^27]: 
+[^27]:  Tsang So-Yin, “Cable Cars Roll Again,” _Straits Times_, 16 August 1983, 1. (From NewspaperSG)
 
-[^28]: 
+[^28]:  Ng, _A Ride to Remember_, 45.
 
-[^29]: 
+[^29]:  Jessica Lim, “Cable Car Rides Shut Down for Upgrading Works,” _Straits Times_, 11 September 2009, 43; “Fresh Look,” _The New Paper_, 21 July 2010, 8. (From NewspaperSG)
 
-[^30]: 
+[^30]: Jessica Lim, “Sentosa to Build New Cable Car Line,” _Straits Times_, 14 June 2012, 2–3. (From NewspaperSG)
 
-[^31]:
+[^31]:  Chin Soo Fang, “Futuristic Cabins to Join Singapore Cable Car’s Fleet As It Turns 50,” _Straits Times_, 3 December 2023, https://www.straitstimes.com/singapore/futuristic-fleet-to-join-s-pore-s-cable-cars-in-2024-as-it-turns-50.
