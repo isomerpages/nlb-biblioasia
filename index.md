@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/
-      button: Conquering Everest, the World’s Tallest Mountain
+      url: /vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
+      button: Wat Ananda Provides Thai Buddhism with a Singaporean Twist
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/Conquer Tallest
-        Mountain_12_23/conquering_everest_hero_img.png
+      background: /images/Online Only Articles/Wat Ananda/Hero_banner_Wat_Ananda.jpg
   - infopic:
       title: Wat Ananda Provides Thai Buddhism with a Singaporean Twist
       subtitle: Worship
