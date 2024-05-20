@@ -16,7 +16,7 @@ To people back then, it must have seemed futuristic, to be suspended some 60 m i
 “We have a magnificent natural harbour, one of the finest in the world,” noted Deputy Prime Minister and Minister for Defence Goh Keng Swee when he officially opened the service on 15 February 1974. “A ride in a cable car – and I must not detain you longer than is necessary before you experience this for yourself – will provide the visitor with a magnificent panorama of the harbour. It will, I hope, at the same time make Singaporeans more conscious and more proud of their city state, whose economic life blood flows through this great port of ours.”[^1]
 
 
-![](/images/Vol%2020%20Issue%202/IceMaking/image0.jpg)
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img1.jpg)
 <div style="background-color: white;">Cable cars along the Mount Faber Line linking Mount Faber and Sentosa, c. 1975. These are the first- generation cars. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 
@@ -76,6 +76,14 @@ While the accident was a major tragedy, the cable car system was eventually able
 The system saw a major overhaul a decade and a half later. Between September 2009 and July 2010, the service was shut down and the old double-cable ropeway was replaced with a monocable one. In addition, it was raised to stand around 100 m above sea level. This accommodated the new fleet of 67 black-and-chrome cabins that were bigger, wheelchair-friendly and could take up to eight passengers each instead of the usual six.[^29]
 
 The opening of Resorts World Sentosa and Universal Studios in 2010 led to a spike in visitor numbers, prompting Sentosa Development Corporation to set up a cable car service that would run within the island between Merlion Plaza, Imbiah Lookout and Siloso Point. Officially opened on 14 July 2015, the 860-metre-long Sentosa Line can move some 1,600 people per hour in one direction with a waiting time of just 18 seconds.[^30] &nbsp;
+
+
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img1.jpg)
+<div style="background-color: white;">Completed in 2015, the Sentosa Line serves passengers within Sentosa with three stations: Merlion Plaza, Imbiah Lookout and Siloso Point. <i>Photo by Jimmy Yap. </i></div>
+
+
+
 
 #### **Soaring to New Heights**
 
