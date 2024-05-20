@@ -81,7 +81,7 @@ sections:
       image: /images/Vol 20 Issue 2/Darwin/van_Wyhe_library_right.jpg
       alt: Image alt text
   - infopic:
-      title: "Hajah Asfiah: A Guardian for Traditional Malay Culture"
+      title: "Hajah Asfiah: A Guardian of Traditional Malay Culture"
       subtitle: Podcast
       id: infopic
       description: A tireless steward of Malay culture, Hajah Asfiah worked all her

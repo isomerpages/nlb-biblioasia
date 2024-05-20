@@ -15,9 +15,9 @@ and fundraised for charity.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Gf90N5hEH5c?si=hAVWhyliAL8CD_eh"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
-<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u> 
-</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia+-2115156" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u></a>.</p>
+<p>Available on: <a href="https://open.spotify.com/episode/1FsrEOgCuVK0oOo3N8I6RF" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
+<a href="https://podcasts.apple.com/us/podcast/the-chinese-vegetarian-foodscape-of-the-1950s-60s/id1688142751?i=1000656095995" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts</u> 
+</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/The-Chinese-Vegetarian-Foodscape-of-the-1950s%E2%80%9360s-2478211" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u></a>.</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>

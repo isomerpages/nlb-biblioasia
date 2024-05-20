@@ -9,36 +9,36 @@ By Thammika Songkaeo
 
 On a little hill, sandwiched between Block 140 Jalan Bukit Merah to the east and the cars speeding over the Bukit Merah Flyover to the west, is a little piece of Thailand. On top of the knoll lies Wat Ananda Metyarama, Singapore’s oldest Thai Buddhist temple. The temple’s Thai characteristics are unmistakable. If you are approaching the temple from the entrance facing Jalan Bukit Merah, you will need to walk up the stairs whose sides are adorned with Thai motifs. At the top of the slope, you can spy a tall golden stupa perched on the roof of the building.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/temple_entrance.jpg" style="width: 70%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/entrance_wat_ananda_x.jpg" style="width: 65%;">
 <div style="background-color: white;">The entrance to Wat Ananda Metyarama facing Jalan Bukit Merah, 2024. On the temple roof is a golden stupa. <i>Photo by Jimmy Yap.</i></div>
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/temple_near_bukit_merah.jpg" style="width: 70%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/temple_nearby_flats_x.jpg" style="width: 65%;">
 <div style="background-color: white;">The temple as seen from the nearby flats in Bukit Merah, 2024. <i>Photo by Jimmy Yap.</i></div>
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/temple_distinctive_feature_x.jpg" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/distinctive_temple_x.png" style="width: 65%;">
 <div style="background-color: white;">Note the distinctive Thai features along the steps that lead up to Wat Ananda from Jalan Bukit Merah, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 After you’ve made the 37 steps up the hill to reach the ornate gateway of Wat Ananda, a small Buddhist shrine lies on your left. Go up further and you’ll arrive at the entrance of Julamee Prasat, which is described as a Theravada columbarium (Theravada Buddhism is one of three major schools of Buddhism, and the predominant school in Thailand[^1]). This columbarium occupies the first floor of the building with the stupa on top. Go past the columbarium and you will be greeted by the main shrine: a large, single-storey building with gold trimmings on the roof in the distinctive Thai style.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/ornate_temple.jpg" style="width: 55%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/ornate_gateway_x.jpg" style="width: 65%;">
 <div style="background-color: white;">The ornate gateway of Wat Ananda Metyarama with its distinctive Thai motifs, 2024. <i>Photo by Jimmy Yap.</i></div>
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/main_hall_of_temple.jpg" style="width: 80%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/main_hall_x.jpg" style="width: 80%;">
 <div style="background-color: white;">The main hall of the temple is housed in a single-storey building, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 Wat Ananda has been in Singapore for more than 100 years and that time here has left its mark. All around the temple’s compound are elements that would not normally be found in a Buddhist temple in Thailand. One obvious sign is the round, red Chinese lanterns that liberally adorn the ceilings in the compound.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/red_lanterns_of_temple.jpg" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/red_lanterns_x.jpg" style="width: 60%;">
 <div style="background-color: white;">Red Chinese lanterns hanging from the ceiling in front of the main hall, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 Then there are the many statues of Guanyin, the Chinese Goddess of Mercy, that have been placed in positions of honour. A large white statue of Guanyin is the central figure in a low building to the right of the main shrine. Next to this building is a covered porch where a smaller, but still tall, golden figure of Guanyin resides, flanked by statues of two monks. Guanyin, however, is a more common feature of Mahayana Buddhism, the school of Buddhism commonly found in countries like China, Korea and Japan.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/guanyin.png" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/white_statue_x.jpg" style="width: 65%;">
 <div style="background-color: white;">This large white statue of Guanyin is housed in a separate building that is on the right of the main hall, 2024. <i>Photo by Jimmy Yap.</i></div>
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/golden_guanyins.png" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/golden_statue_x.jpg" style="width: 65%;">
 <div style="background-color: white;">The golden figure of Guanyin flanked by statues of two monks, 2024. <i>Photo by Jimmy Yap.</i></div>
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/guanyin_statue_outside_x.png" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/guangyin_statue_x.jpg" style="width: 65%;">
 <div style="background-color: white;">A statue of Guanyin outside the main shrine, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 Wat Ananda may be known as a Thai temple but it definitely shows signs of being localised. Although older Thais still show up in traditional Thai costume on religious occasions, the temple has become a place for Singaporeans to get a dose of Theravada Buddhism and the Land of Smiles all at once. Even what the temple celebrates and how it celebrates those occasions have been adapted to local culture and customs, and Singaporeans’ cravings for blessings.
@@ -49,7 +49,7 @@ Take the festival of Loy Krathong, which is celebrated all over Thailand and usu
 
 At the 2023 celebration of the festival on 26 November, Luang Phor Amnuay – “Luang Phor” means “Venerable Father” and is a title used for senior monks – invited visitors to buy and float _krathong_ costing $20 each in a large, mustard-coloured inflatable pool. Swirling around in the pool under clear, blue skies, the _krathong_ felt no tug of a natural stream. This was in sharp contrast to the _krathong_ in Thailand that were floated that evening under darker skies, riding on currents towards the mouth of the Chao Phraya River.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/mustard_coloured_pool.png" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mustard_pool_x.jpg" style="width: 65%;">
 <div style="background-color: white;">The mustard-coloured inflatable pool holding the <i>krathong</i>, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
 On that day, Thais visited Wat Ananda to socialise and make some merit, while Singaporeans, mostly of Chinese descent, seem more focused on attaining better fortune by praying in front of the inflatable pool. &nbsp;&nbsp;A carnival-like atmosphere hung over Wat Ananda, similar to the temples in provincial Thailand.
@@ -62,7 +62,7 @@ The unique way that Loy Krathong is celebrated in Wat Ananda encapsulates how th
 
 The temple’s roots go back to the early decades of the 20th century. It was founded in 1918 by a monk, Venerable Luang Phor Hong Dhammaratano (Phra Dhammaratano Bandit).[^2] Originally from Bangkok, Dhammaratano had lived in Pulau Tikus in Penang, Ceylon (now Sri Lanka), India and Burma (now Myanmar), and was a polyglot proficient in Sinhalese and Mandarin.[^3]
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/luang_phor_hong.png" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/luang_phor_hong_x.jpg" style="width: 60%;">
 <div style="background-color: white;">The statue of Venerable Luang Phor Hong Dhammaratano between the doorways leading to the main shrine. <i>Photo by Jimmy Yap.</i></div>
 
 The Thai consulate offered Dhammaratano land beside the Thai Embassy, along today’s Orchard Road, so that he could build a temple. But as Orchard Road was not easily accessible at the time, Dhammaratano declined as he felt that it was too far from the town centre. Instead, he decided to set it up on Silat Road in what is now the Bukit Merah area.[^4] Wat Ananda Metyarama was completed in 1923, largely from the financial support of the Chinese in Singapore.
@@ -75,7 +75,7 @@ When Dhammaratano died in 1952, Venerable Phra Rajayankavee succeeded him as chi
 
 The most recent, and most noticeable, addition took place in 2014, when a five-storey extension – in the shape of a futuristic, cube-like structure – was completed for the temple’s 90th anniversary. Instead of a traditional Thai Buddhist style design, “the temple wanted a different look to attract younger devotees,” said its architect, Carl Lim of Czarl Architects. The new building houses monks’ quarters, prayer halls, meditation centres, classrooms, a museum, and a dining hall.[^9]
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/futuristic_cuboid.png" style="width: 70%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/cuboid_x.jpg" style="width: 70%;">
 <div style="background-color: white;">The futuristic cuboid five-storey extension was erected in 2014. <i>Photo by Jimmy Yap.</i></div>
 
 Even as the temple expanded physically, it continued to do outreach as well. In 1966, the temple established the Ananda Metyarama Buddhist Youth Circle as the first Buddhist youth circle in Singapore. In 2006, on its 40th anniversary, it was renamed Wat Ananda Youth. The majority of its activities are held in the temple. Since its inception, the youth group has organised events to help spread the tenets of Buddhism and to preserve the Thai Theravada tradition in Singapore.[^10]
@@ -104,28 +104,28 @@ Wat Ananda celebrates Buddhist festivals such as Vesak Day – which commemorate
 
 Hand-painted murals by two Thai artists in 2015 adorn every single one of the main shrine’s inner walls.&nbsp;At first glance, some of these seem nothing out of the ordinary as they depict Buddha’s life and teachings, and his path to enlightenment. But on closer scrutiny, familiar landscapes of Singapore can be seen.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/Picture4.jpg" style="width: 80%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/golden_statue_buddha_x.jpg" style="width: 80%;">
 <div style="background-color: white;">The golden statue of Buddha in the main hall is surrounded by hand-painted wall murals, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 For instance, behind the huge golden statue of Buddha in the main shrine – which looms on a platform the height of a grown man – the artists have incorporated scenes of Singapore. In a mural titled “Planes of Rebirth” depicting the different possible planes of existence in which Buddhist rebirth may take place, artists have painted the famous row of Koon Seng Road shophouses in all its various hues. This scene represents human activities and human desires as depicted by the people exercising in fashionable athletic wear, and children in superhero costumes.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/shophouses_koon_seng.png" style="width: 70%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mural_koon_seng_x.png" style="width: 70%;">
 <div style="background-color: white;">The mural with the row of colourful Koon Seng Road shophouses, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
 To the right of the houses is a large colonial-style bungalow, with luxury cars parked in front and a woman with her husband carrying a child. This reminds the viewer to reflect on materialism, which seems trivial compared to the larger meaning of life exemplified by the other characters within the scene: two little girls in hijab holding hands, a grey-haired woman in a wheelchair and an old man walking on his own with a walking stick. The life stages of birth, ageing, sickness and death, also known as the “four sufferings” in Buddhism, are conveyed in this scene against the backdrop of Singapore.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/mural_four_sufferings.png" style="width: 70%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mural_four_sufferings_x.png" style="width: 70%;">
 <div style="background-color: white;">This mural depicts the life stages of birth, ageing, sickness and death – also known as the “four sufferings” in Buddhism, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
 And to the right of this is the seemingly innocuous scene of people in a local _kopitiam_ (coffeeshop) having a meal and drinking beer. This scene reminds us again of what Buddhism defines as a vice: alcohol. Vices, on this plane of birth, are everywhere.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/mural_kopitiam.png" style="width: 70%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mural_kopitiam_x.png" style="width: 70%;">
 <div style="background-color: white;">This mural of a local <i>kopitiam</i> conveys the message that drinking alcohol is considered a vice in Buddhism, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/mural_wheel_of_life.png" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mural_wheel_x.jpg" style="width: 60%;">
 <div style="background-color: white;">A mural of the wheel of life found inside the main hall of the temple. It shows (from innermost to outermost layer) the three poisons of attachment, ignorance and aversion; karma or cause and effect; the six realms of existence; and the twelve links of Dependent Origination. <i>Photo by Jimmy Yap.</i></div>
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/mural_wheel_of_life_4th_segment.png" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/wheeloflife_mural_x.jpg" style="width: 60%;">
 <div style="background-color: white;">This detail from the wheel of life mural is from the fourth segment (clockwise) of the outermost layer. The scene with two men in a boat symbolises <i>namarupa</i> (“name and form”) or the constituent elements of mental and physical existence. Marina Bay Sands was added in as a local detail. <i>Photo by Jimmy Yap.</i></div>
 
 #### **Chinese-Style Columbarium**
@@ -134,7 +134,7 @@ In Thailand, columbaria are typically found outdoors, where the ashes are stored
 
 Just outside the space where the rows of urns are kept is a space for ancestral tablets that are lined up in glass cases behind the statue of Kṣitigarbha, the ruler of the underworld and a common deity placed among ancestral tablets in Chinese temples. In front of the statue are offerings of fruit such as persimmons and oranges, common in traditional Chinese ancestral worship. On any given day, a filial descendant may be spotted burning joss paper in a designated area near the columbarium.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/columbarium.png" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/columbarium_x.png" style="width: 60%;">
 <div style="background-color: white;">The columbarium with the statute of Kṣitigarbha, the ruler of the underworld, and the ancestral tablets in glass cases, 2023.<i>Photo by Thammika Songkaeo.</i></div>
 
 #### **A Place for All**
