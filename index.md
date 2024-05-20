@@ -985,4 +985,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: Wat Ananda Provides Thai Buddhism with a Singaporean Twist
+      subtitle: Worship
+      id: infopic
+      description: Despite the golden stupa and ornate roofs that indicate this is a
+        Thai Buddhist temple, the Singaporean influences are not hard to spot at
+        Wat Ananda Metyarama.
+      button: A slice of Thailand in Bukit Merah
+      url: /vol-20/issue-2/jul-sep-2024/wat-ananda-metyarama-thai-buddhist-temple/
+      image: /images/Online Only Articles/Wat Ananda/Picture3.png
+      alt: Image alt text
 ---
