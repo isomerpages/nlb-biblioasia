@@ -25,13 +25,13 @@ Of course, things were not always smooth sailing. Irene Chee was one of those wh
 
 In the last 50 years, more than 60 million passengers have taken rides on the cable car. Besides playing host to visiting dignitaries and heads of state, the cable car has also been a venue for sky-high fine dining, Valentine’s Day dinners and even marriage proposals.&nbsp;
 
-A Tourist Attraction
+#### **A Tourist Attraction**
 
 Interestingly, the cable car system owes its existence to the British military pullout from Singapore. Before the 1970s, Pulau Blakang Mati was used mainly as a British military base, though it was also home to a small population of non-military personnel.8 In 1967, Britain’s announcement that it would withdraw its troops from Singapore by the 1970s presented opportunities for the government to redevelop and repurpose the island for other uses.9 The following year, the government approved the recommendation by the Urban Renewal Department (URD; today’s Urban Redevelopment Authority) to turn the island into a tourist resort.10&nbsp;
 
 As part of the planned transformation of the island, the URD conceived the cable car system as a tourist attraction as well as a mode of transportation to and from Sentosa.11 Officials visited Switzerland, Spain and Japan to obtain a working knowledge of the cable car systems in these countries.12 In July 1970, Singapore Cable Car Private Limited (SCC) was incorporated to manage and operate the cable car service.13 (SCC now comes under the management of Mount Faber Leisure Group Pte Ltd, a wholly owned subsidiary of Sentosa Development Corporation.14)
 
-Building the Cable Car
+#### **Building the Cable Car**
 
 The development of the 1.75-kilometre-long cable car system linking Mount Faber with Sentosa was awarded to Swiss company Von Roll at a contractual sum of $2.94 million in August 1971. The initial plan was for the company to also erect the station buildings and supporting towers but it was deemed too costly, and a decision was made for these structures to be designed and constructed by local firms.15
 
@@ -41,7 +41,7 @@ The cable car system was an immediate hit and within three years, it clocked mor
 
 The cable car was also featured on the popular TV series _Hawaii Five-O_. In an episode, which aired in 1979, Steve McGarrett, the main protagonist played by Jack Lord, is in hot pursuit of a villain, and this chase involved swinging precariously from the cable car wire.20
 
-The Eniwetok Accident
+#### **The Eniwetok Accident**
 
 For the first nine years, the system operated without any major incidents. But that streak of good fortune ended on Saturday, 29 January 1983. Shortly after 6&nbsp;pm, the _Eniwetok_, an oil-drilling ship, broke free from its tugboats and drifted with the tide after unberthing from the nearby oil wharf in Keppel Harbour.&nbsp;
 
@@ -63,7 +63,7 @@ The day after the collision, Prime Minister Lee Kuan Yew ordered a Commission of
 
 After almost seven months of rigorous tests and repairs, the cable car service resumed operations on 15 August 1983.27
 
-Lofty Winds of Change
+#### **Lofty Winds of Change**
 
 While the accident was a major tragedy, the cable car system was eventually able to regain public trust. By 1990s, the cable car service was straining to accommodate the high ridership which could see around 8,000 passengers on weekends and public holidays. To cope with demand, the cars were replaced with 81 roomier cabins at a cost of $11 million in 1994. The system could now accommodate 1,400 passengers per hour, almost doubling the previous capacity.28
 
@@ -71,7 +71,7 @@ The system saw a major overhaul a decade and a half later. Between September 200
 
 The opening of Resorts World Sentosa and Universal Studios in 2010 led to a spike in visitor numbers, prompting Sentosa Development Corporation to set up a cable car service that would run within the island between Merlion Plaza, Imbiah Lookout and Siloso Point. Officially opened on 14 July 2015, the 860-metre-long Sentosa Line can move some 1,600 people per hour in one direction with a waiting time of just 18 seconds.30 &nbsp;
 
-Soaring to New Heights
+#### **Soaring to New Heights**
 
 In March 2024, seven futuristic-looking cabins were added to the existing fleet of 67 on the Mount Faber Line connecting Mount Faber and Sentosa. Called SkyOrb cabins, these have a transparent glass bottom and were made exclusively for Singapore.31
 
@@ -145,4 +145,4 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 [^30]: 
 
-[^31]: 
+[^31]:
