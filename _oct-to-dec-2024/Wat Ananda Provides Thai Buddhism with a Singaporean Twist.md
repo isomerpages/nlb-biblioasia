@@ -27,7 +27,7 @@ After you’ve made the 37 steps up the hill to reach the ornate gateway of Wat 
 
 Wat Ananda has been in Singapore for more than 100 years and that time here has left its mark. All around the temple’s compound are elements that would not normally be found in a Buddhist temple in Thailand. One obvious sign is the round, red Chinese lanterns that liberally adorn the ceilings in the compound.
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/red_lanterns_of_temple.jpg" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/red_lanterns_x.jpg" style="width: 60%;">
 <div style="background-color: white;">Red Chinese lanterns hanging from the ceiling in front of the main hall, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 Then there are the many statues of Guanyin, the Chinese Goddess of Mercy, that have been placed in positions of honour. A large white statue of Guanyin is the central figure in a low building to the right of the main shrine. Next to this building is a covered porch where a smaller, but still tall, golden figure of Guanyin resides, flanked by statues of two monks. Guanyin, however, is a more common feature of Mahayana Buddhism, the school of Buddhism commonly found in countries like China, Korea and Japan.
