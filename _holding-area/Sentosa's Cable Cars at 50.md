@@ -114,12 +114,12 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 [^2]: Bailyne Sung, “[Cable Car No 1 Takes Goh Over to Sentosa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740216-1.2.16),” _Straits Times_, 16 February 1974, 1. (From NewspaperSG)
 
-[^3]: “First Major Project in Sentosa Resort Completed,” _Straits Times_,  
-15 February 1974, 8; “1,000 Take Cable Car Rides on First Day,” _Straits Times_, 17 February 1974, 4. (From NewspaperSG)
+[^3]: “[First Major Project in Sentosa Resort Completed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740215-1.2.45.1),” _Straits Times_,  
+15 February 1974, 8; “[1,000 Take Cable Car Rides on First Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740217-1.2.42),” _Straits Times_, 17 February 1974, 4. (From NewspaperSG)
 
-[^4]:  “‘Don’t Lose Faith’ Call by Goh,” _Straits Times_, 16 February 1974, 7. (From NewspaperSG)
+[^4]:  “‘[Don’t Lose Faith’ Call by Goh](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740216-1.2.32),” _Straits Times_, 16 February 1974, 7. (From NewspaperSG)
 
-[^5]:  “Singapore Orders a Dozen More Cable Cars,” _New Nation_, 10 April 1974, 3. (From NewspaperSG); Marcus Ng Fu Chuan, _A Ride to Remember: The Story of Mount Faber and Singapore Cable Car_ (Singapore: Mount Faber Leisure Group, 2012), 38. (From National Library, Singapore, call no. RSING 915.957 NG-TRA\])
+[^5]:  “[Singapore Orders a Dozen More Cable Cars](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740410-1.2.21.17),” _New Nation_, 10 April 1974, 3. (From NewspaperSG); Marcus Ng Fu Chuan, [_A Ride to Remember: The Story of Mount Faber and Singapore Cable Car_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674) (Singapore: Mount Faber Leisure Group, 2012), 38. (From National Library, Singapore, call no. RSING 915.957 NG-TRA\])
 
 [^6]: Lim Yann Ling, “_A Ropeway of Special Memories_,” _Straits Times_, 1 March 2014, 3. (From NewspaperSG)
 
