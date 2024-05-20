@@ -51,6 +51,11 @@ The cable car was also featured on the popular TV series _Hawaii Five-O_. In an 
 
 For the first nine years, the system operated without any major incidents. But that streak of good fortune ended on Saturday, 29 January 1983. Shortly after 6&nbsp;pm, the _Eniwetok_, an oil-drilling ship, broke free from its tugboats and drifted with the tide after unberthing from the nearby oil wharf in Keppel Harbour.&nbsp;
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img3.jpg)
+<div style="background-color: white;">The <i>Eniwetok</i> after its collision with the cableway, 1983. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+
+
+
 The top of its derrick (the tower) collided with the cableway causing two cable cars, numbers 20 and 35, to dislodge and fall 55 metres into the waters below. Two other cars were stranded precariously over land while another two were suspended over water.&nbsp;
 
 One of them, car number 26, was half-way across the harbour when the accident happened. The force of the collision shook the car violently and two adults and a 22-month-old toddler were flung out, leaving four more passengers in the cabin.[^21] Seven people died as a result of the accident, but another 13 remained trapped in four cabins suspended in the air.
@@ -79,7 +84,7 @@ The opening of Resorts World Sentosa and Universal Studios in 2010 led to a spik
 
 
 
-![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img1.jpg)
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img2.jpg)
 <div style="background-color: white;">Completed in 2015, the Sentosa Line serves passengers within Sentosa with three stations: Merlion Plaza, Imbiah Lookout and Siloso Point. <i>Photo by Jimmy Yap. </i></div>
 
 
