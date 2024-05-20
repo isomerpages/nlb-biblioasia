@@ -1007,4 +1007,15 @@ sections:
       url: /videos/soon-kueh/
       image: "/images/Videos: From Book to Cook/4Soon Kueh/Soon_Kueh.jpg"
       alt: Image alt text
+  - infopic:
+      title: The Chinese Vegetarian Foodscape of the 1950s–60s
+      subtitle: Podcast
+      id: infopic
+      description: Set up by five Buddhist women in 1946, Loke Woh Yuen was the first
+        Chinese vegetarian restaurant in Singapore, popular for it's shark’s fin
+        made from maize.
+      button: Women spreading vegetarianism
+      url: https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/
+      image: /images/Podcast/isomer_kelvin.jpg
+      alt: Image alt text
 ---
