@@ -121,7 +121,7 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 [^5]:  “[Singapore Orders a Dozen More Cable Cars](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740410-1.2.21.17),” _New Nation_, 10 April 1974, 3. (From NewspaperSG); Marcus Ng Fu Chuan, [_A Ride to Remember: The Story of Mount Faber and Singapore Cable Car_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674) (Singapore: Mount Faber Leisure Group, 2012), 38. (From National Library, Singapore, call no. RSING 915.957 NG-TRA\])
 
-[^6]: Lim Yann Ling, “_A Ropeway of Special Memories_,” _Straits Times_, 1 March 2014, 3. (From NewspaperSG)
+[^6]: Lim Yann Ling, “[_A Ropeway of Special Memories_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140301-1.2.111.2),” _Straits Times_, 1 March 2014, 3. (From NewspaperSG)
 
 [^7]: Correspondence with Irene Chee, 5 April 2024.
 
