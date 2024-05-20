@@ -110,7 +110,7 @@ Hand-painted murals by two Thai artists in 2015 adorn every single one of the ma
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/Picture4.jpg" style="width: 80%;">
 <div style="background-color: white;">The golden statue of Buddha in the main hall is surrounded by hand-painted wall murals, 2024. <i>Photo by Jimmy Yap.</i></div>
 
-For instance, behind the huge golden statue of Buddha in the main shrine – which looms on a platform the height of a grown man – the artists have incorporated scenes of Singapore. In a mural titled “Planes of Rebirth_”_ depicting the different possible planes of existence in which Buddhist rebirth may take place, artists have painted the famous row of Koon Seng Road shophouses in all its various hues. This scene represents human activities and human desires as depicted by the people exercising in fashionable athletic wear, and children in superhero costumes.
+For instance, behind the huge golden statue of Buddha in the main shrine – which looms on a platform the height of a grown man – the artists have incorporated scenes of Singapore. In a mural titled “Planes of Rebirth” depicting the different possible planes of existence in which Buddhist rebirth may take place, artists have painted the famous row of Koon Seng Road shophouses in all its various hues. This scene represents human activities and human desires as depicted by the people exercising in fashionable athletic wear, and children in superhero costumes.
 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/shophouses_koon_seng.png" style="width: 70%;">
 <div style="background-color: white;">The mural with the row of colourful Koon Seng Road shophouses, 2023. <i>Photo by Thammika Songkaeo.</i></div>
@@ -129,7 +129,7 @@ And to the right of this is the seemingly innocuous scene of people in a local _
 <div style="background-color: white;">A mural of the wheel of life found inside the main hall of the temple. It shows (from innermost to outermost layer) the three poisons of attachment, ignorance and aversion; karma or cause and effect; the six realms of existence; and the twelve links of Dependent Origination. <i>Photo by Jimmy Yap.</i></div>
 
 <img src="/images/Online%20Only%20Articles/Wat%20Ananda/mural_wheel_of_life_4th_segment.png" style="width: 60%;">
-<div style="background-color: white;">This detail from the wheel of life mural is from the fourth segment (clockwise) of the outermost layer. The scene with two men in a boat symbolises _namarupa_ (“name and form”) or the constituent elements of mental and physical existence. Marina Bay Sands was added in as a local detail. <i>Photo by Jimmy Yap.</i></div>
+<div style="background-color: white;">This detail from the wheel of life mural is from the fourth segment (clockwise) of the outermost layer. The scene with two men in a boat symbolises <i>namarupa</i> (“name and form”) or the constituent elements of mental and physical existence. Marina Bay Sands was added in as a local detail. <i>Photo by Jimmy Yap.</i></div>
 
 #### **Chinese-Style Columbarium**
 
