@@ -96,19 +96,20 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 [^5]:  “Singapore Orders a Dozen More Cable Cars,” _New Nation_, 10 April 1974, 3. (From NewspaperSG); Marcus Ng Fu Chuan, _A Ride to Remember: The Story of Mount Faber and Singapore Cable Car_ (Singapore: Mount Faber Leisure Group, 2012), 38. (From National Library, Singapore, call no. RSING 915.957 NG-TRA\])
 
-[^6]: 
+[^6]: Lim Yann Ling, “_A Ropeway of Special Memories_,” _Straits Times_, 1 March 2014, 3. (From NewspaperSG)
 
-[^7]: 
+[^7]: Correspondence with Irene Chee, 5 April 2024.
 
-[^8]: 
+[^8]:  National Heritage Board, “Sentosa: A Slice of Paradise: From Military Base to Leisure Island,” Roots, last updated 25 October 2023,  
+https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
 
-[^9]: 
+[^9]:  National Heritage Board, _Sentosa Heritage Trail: A Companion Guide_ (Singapore: National Heritage Board, 2022), 51–53, https://www.roots.gov.sg/-/media/Roots/Files/Sentosa-Heritage-Trails/NHB-Sentosa-Trail\_Companion-Guide.ashx.
 
-[^10]: 
+[^10]:  National Heritage Board, _Sentosa Heritage Trail_, 55.
 
-[^11]: 
+[^11]:   “Buildings Designed With Local Skills,” _Straits Times_, 15 February 1974, 11; “Work on Cable Car Wire Installation Starts Today,” _Straits Times_, 21 October 1973, 7. (From NewspaperSG); Ng, _A Ride to Remember_, 28.
 
-[^12]: 
+[^12]: “Faber-Sentosa Car Link Will Be Bi-Cable,” _New Nation_, 10 May 1973, 5. (From NewspaperSG); “Buildings Designed With Local Skills.”
 
 [^13]: 
 
