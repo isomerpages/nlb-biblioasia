@@ -29,6 +29,10 @@ In the old days when rice flour was not as readily available, the nuns at Hai In
 
 #### **Related Podcast**
 
+<a href="/podcast/chinese-vegetarian-foodscape/">The Chinese Vegetarian Foodscape of the 1950s–60s</a><br>
+Set up by five Buddhist women in 1946, Loke Woh Yuen was the first Chinese vegetarian restaurant in Singapore. It employed an all-female staff, was known for its popular shark’s fin made from maize, and was sometimes so packed that it had to set up dining tents that stretched to the main road. Its efforts to spread vegetarianism were complemented by other Buddhist women and nuns who wrote cookbooks and fundraised for charity.
+
+
 #### **Related Article**
 
 [How Chinese Buddhist Women Shaped the Food Landscape in Singapore](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore)<br>
