@@ -140,7 +140,7 @@ https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
 
 [^14]:  “Overview,” Sentosa Development Corporation, last updated 26 October 2023, https://www.sentosa.gov.sg/who-we-are/overview/.
 
-[^15]:  “Buildings Designed With Local Skills”; Chia, “$2.9 Million Cable Car Contract.”
+[^15]:  “[Buildings Designed With Local Skills](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740215-1.2.45.7)”; Chia, “[$2.9 Million Cable Car Contract](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710814-1.2.121).”
 
 [^16]:  “Faber-Sentosa Car Link Will Be Bi-Cable”; “Work on Cable Car Wire Installation Starts Today”; Teresa Ooi, “Swiss Experts Will Install Cable Cars,” _New Nation_, 5 May 1973, 3; “First Major Project in Sentosa Resort Completed,” _Straits Times_, 15 February 1974, 8. (From NewspaperSG)
 
