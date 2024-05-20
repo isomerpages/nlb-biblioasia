@@ -86,9 +86,6 @@ Wat Ananda is not Singapore’s only Thai temple, but it is possibly the most we
 
 The temple’s monks themselves are also mostly from Thailand. Back in 1976, the former prime minister of Thailand, Thanom Kittikachorn, was even ordained as a Buddhist monk at the temple after being ousted from the country in bloody student riots in 1973. He returned to the temple in February 1986 for the Nimitta Sima ceremony to lay nine 100-kilogram sacred stones to consecrate the part of the temple that can be used for the ordination of monks.[^13]
 
-<img src="/images/Online%20Only%20Articles/Wat%20Ananda/sacred_stones.png" style="width: 60%;">
-<div style="background-color: white;">One of the sacred stones installed in 1986. <i>Photo by Jimmy Yap.</i></div>
-
 #### **Festivals and Celebrations**
 
 These Thai links do not erase the many Chinese influences one can see. The local Chinese community has been closely associated with the temple from the outset, evidenced by the large number of Chinese donor names on the walls. Due to the popularity of the temple with Chinese devotees, the temple celebrates non-Thai and also non-Buddhist festivals.
