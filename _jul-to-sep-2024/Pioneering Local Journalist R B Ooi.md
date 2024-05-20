@@ -111,7 +111,7 @@ Ooi’s descendants have fared well. His grandchildren and great-grandchildren i
 family language, as are Western attire, music and other “cultural” habits.
 
 <img style="width: 85%;" height="auto" width="100%" src="/images/Online%20Only%20Articles/Pioneering%20Journalist%20RB%20Ooi/family.png">
-<div style="background-color:white;">The engagement of Nadia Azahari (centre), daughter of Eric Ooi and Julia Daham (first row extreme left), to Megat Muzaffar Shah bin Datuk Mohamad Nor in Kuala Lumpur, 2010. <i>Courtesy of Irene Lim.</i></div>
+<div style="background-color:white;">R.B. Ooi’s descendants in Malaysia have married across ethnicities and cultures. <i>Courtesy of Irene Lim.</i></div>
 
 I’m sure my grandfather would be pleased that scholarly research on Straits Chinese history and culture is flourishing today, and that there has been a revival of Straits Chinese arts and culture in both Singapore and Malaysia, with thriving Peranakan associations, cuisine, performing arts and literature. Explorations of local history and “heritage” that formed such a large part of his writing have become popular, even entrenched, in both countries.
 
