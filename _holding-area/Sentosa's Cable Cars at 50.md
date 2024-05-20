@@ -142,13 +142,13 @@ https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
 
 [^15]:  “[Buildings Designed With Local Skills](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740215-1.2.45.7)”; Chia, “[$2.9 Million Cable Car Contract](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710814-1.2.121).”
 
-[^16]:  “Faber-Sentosa Car Link Will Be Bi-Cable”; “Work on Cable Car Wire Installation Starts Today”; Teresa Ooi, “Swiss Experts Will Install Cable Cars,” _New Nation_, 5 May 1973, 3; “First Major Project in Sentosa Resort Completed,” _Straits Times_, 15 February 1974, 8. (From NewspaperSG)
+[^16]:  “[Faber-Sentosa Car Link Will Be Bi-Cable](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730510-1.2.37)”; “[Work on Cable Car Wire Installation Starts Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19731021-1.2.44)”; Teresa Ooi, “[Swiss Experts Will Install Cable Cars](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730505-1.2.24),” _New Nation_, 5 May 1973, 3; “[First Major Project in Sentosa Resort Completed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740215-1.2.45.1),” _Straits Times_, 15 February 1974, 8. (From NewspaperSG)
 
-[^17]:  “Two Islands to Link with Sentosa,” _Straits Times_, 2 February 1978, 28. (From NewspaperSG)
+[^17]:  “[Two Islands to Link with Sentosa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780202-1.2.125),” _Straits Times_, 2 February 1978, 28. (From NewspaperSG)
 
-[^18]:  Ng, _A Ride to Remember_, 28.
+[^18]:  Ng,[ _A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 28.
 
-[^19]:  Ng, _A Ride to Remember_, 38; “Lord M Takes a Cable Car to Sentosa,” _New Nation_, 7 March 1974, 3. (From NewspaperSG)
+[^19]:  Ng, [_A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 38; “Lord M Takes a Cable Car to Sentosa,” _New Nation_, 7 March 1974, 3. (From NewspaperSG)
 
 [^20]:  “Stand-ins Take Over for Five-0 Cable Car Stunt,” _Straits Times_, 13 May 1978, 6; Bailyne Sung, “Year of the Horse Leaves Five-O Fans High and Dry,” _Straits Times_, 20 January 1979, 2. (From NewspaperSG)
 
