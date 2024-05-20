@@ -148,17 +148,17 @@ https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
 
 [^18]:  Ng,[ _A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 28.
 
-[^19]:  Ng, [_A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 38; “Lord M Takes a Cable Car to Sentosa,” _New Nation_, 7 March 1974, 3. (From NewspaperSG)
+[^19]:  Ng, [_A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 38; “[Lord M Takes a Cable Car to Sentosa](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740307-1.2.19.21),” _New Nation_, 7 March 1974, 3. (From NewspaperSG)
 
-[^20]:  “Stand-ins Take Over for Five-0 Cable Car Stunt,” _Straits Times_, 13 May 1978, 6; Bailyne Sung, “Year of the Horse Leaves Five-O Fans High and Dry,” _Straits Times_, 20 January 1979, 2. (From NewspaperSG)
+[^20]:  “[Stand-ins Take Over for Five-0 Cable Car Stunt](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780513-1.2.28),” _Straits Times_, 13 May 1978, 6; Bailyne Sung, “[Year of the Horse Leaves Five-O Fans High and Dry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19790120-1.2.145.3.3),” _Straits Times_, 20 January 1979, 2. (From NewspaperSG)
 
-[^21]:  Yong Li Xuan, “Sentosa Cable Car Tragedy: 40 Years On,” _Straits Times_, 29 January 2023, https://www.straitstimes.com/singapore/sentosa-cable-car-tragedy-he-still-has-flashbacks-of-his-family-falling-out-of-cable-car; Chia Chong Jin, “Daring Rescue: 1983 Sentosa Cable Car Accident,” _Pioneer_, 27 January 2023, mindef.gov.sg/web/portal/pioneer/article/regular-article-detail/ops-and-training/2023-Q1/27jan23\_news2; Marine Department (Singapore), _Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_, 33.
+[^21]:  Yong Li Xuan, “Sentosa Cable Car Tragedy: 40 Years On,” _Straits Times_, 29 January 2023, https://www.straitstimes.com/singapore/sentosa-cable-car-tragedy-he-still-has-flashbacks-of-his-family-falling-out-of-cable-car; Chia Chong Jin, “[Daring Rescue: 1983 Sentosa Cable Car Accident](https://www.mindef.gov.sg/web/portal/pioneer/article/regular-article-detail/ops-and-training/2023-Q1/27jan23_news2),” _Pioneer_, 27 January 2023, mindef.gov.sg/web/portal/pioneer/article/regular-article-detail/ops-and-training/2023-Q1/27jan23\_news2; Marine Department (Singapore), _Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_, 33.
 
-[^22]:   Chia, “Daring Rescue”; Conrad Raj, “Using Commandos,” _Straits Times_, 6 February 1983, 18; “Four Options, Then the Go-Ahead for Choppers,” _Straits Times_, 31 January 1983, 8. (From NewspaperSG)
+[^22]:   Chia, “Daring Rescue”; Conrad Raj, “[Using Commandos](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830206-1.2.58),” _Straits Times_, 6 February 1983, 18; “[Four Options, Then the Go-Ahead for Choppers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830131-1.2.30),” _Straits Times_, 31 January 1983, 8. (From NewspaperSG)
 
-[^23]:  “Plucked From the Jaws of Death,” _Straits Times_, 31 January 1983, 1. (From NewspaperSG)
+[^23]:  “[Plucked From the Jaws of Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830131-1.2.4),” _Straits Times_, 31 January 1983, 1. (From NewspaperSG)
 
-[^24]:  Cynthia Choo and Albert Wai, “Aussie Hero of Sentosa Cable Car Rescue Recalls ‘Harrowing’ Night,” _Today_, 13 October 2016, 8. (From NewspaperSG)
+[^24]:  Cynthia Choo and Albert Wai, “[Aussie Hero of Sentosa Cable Car Rescue Recalls ‘Harrowing’ Night](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20161013-1.2.8.2.3),” _Today_, 13 October 2016, 8. (From NewspaperSG)
 
 [^25]:  Yong Li Xuan, “Sentosa Cable Car Tragedy: Helicopter Co-pilot in Rescue Mission was Only 19,” _Straits Times_, 29 January 2023, https://www.straitstimes.com/singapore/sentosa-cable-car-tragedy-helicopter-co-pilot-in-rescue-mission-was-only-19.
 
