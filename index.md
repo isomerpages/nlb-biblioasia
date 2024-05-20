@@ -25,7 +25,7 @@ sections:
         Thai Buddhist temple, the Singaporean influences are not hard to spot at
         Wat Ananda Metyarama.
       button: A slice of Thailand in Bukit Merah
-      url: /vol-20/issue-2/jul-sep-2024/wat-ananda-metyarama-thai-buddhist-temple/
+      url: /vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
       image: /images/Online Only Articles/Wat Ananda/Picture3.png
       alt: Image alt text
   - infopic:
