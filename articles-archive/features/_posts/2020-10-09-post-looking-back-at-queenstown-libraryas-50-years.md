@@ -1,12 +1,12 @@
 ---
-title: 'Looking Back at Queenstown Library’s 50 Years'
+title: Looking Back at Queenstown Library’s 50 Years
 permalink: /vol-16/issue-3/oct-dec-2020/queenstown/
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: Queenstown Library
 image: /images/Vol-16-issue-3/queenstown/queenstown-libopening.jpg
-third_nav_title: 'Looking Back at Queenstown Library’s 50 Years'
+third_nav_title: Looking Back at Queenstown Library’s 50 Years
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #d9ddda;
@@ -21,7 +21,7 @@ table {
 #### **Paddy Jonathan Ong** traces the history and development of Singapore’s first branch library since it opened its doors in 1970.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/queenstown/queenstown-libopening.jpg">
 
 Queenstown Branch Library on the night of its official opening, 30 April 1970. The ceremony
@@ -31,10 +31,10 @@ began at 8.15 pm. Crowds are seen waiting to enter the library. <i>Ministry of I
 
 Fringed by tall palms and old rain trees, a modest, two-storey building nestles in the quiet street that is Margaret Drive. With its characteristic bowtie arches and floor-to-ceiling glass windows, the Queenstown Public Library has been a neighbourhood landmark for half a century. Although not a grand edifice, this humble building has played a significant role in the social and cultural life of a young nation.
 
-Queenstown is Singapore’s first satellite town, and the prototype for the country’s housing and urban development.[^1] Named after Queen Elizabeth II in commemoration of her coronation in 1953,[^2] the housing estate was built by the Housing & Development Board in the early 1960s.[^3] On 30 April 1970, Queenstown Branch Library, Singapore’s first branch library, was officially opened by founding Prime Minister Lee Kuan Yew.
+Queenstown is Singapore’s first satellite town, and the prototype for the country’s housing and urban development.[^1] Named after Queen Elizabeth II in commemoration of her coronation in 1953,[^2] the housing estate was built by the Housing &amp; Development Board in the early 1960s.[^3] On 30 April 1970, Queenstown Branch Library, Singapore’s first branch library, was officially opened by founding Prime Minister Lee Kuan Yew.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/queenstown/queenstown-leekuanyew.jpg">
 
 Prime Minister Lee Kuan Yew is taken on a tour of Queenstown Branch Library by Mrs Hedwig Anuar, Director of the National Library, during its official opening on 30 April 1970. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
@@ -54,7 +54,7 @@ In a memo dated 20 April 1967 to the Ministry of Culture, Prime Minister Lee thr
 
 Once funding was approved, the librarians began drawing up a plan for the building, working closely with government architects from the Public Works Department. Chan Thye Seng, who was then Head of the Library Extension Service, was appointed the Head Planner for the library. In an interview with the Oral History Centre, he recalled: “Kenneth Rosario was the lead architect. He was a very friendly architect and easily accessible. His office was in Kallang and any time, I could go to see him, go over details with him and make amendments and so on. It was a very happy working relationship.”[^10]
 
-The new library’s design was austere and modernist, and took into consideration the climate and the technology at the time. Each floor was designed to have high ceilings to provide good air circulation as there was no air-conditioning. Floor-to-ceiling windows helped with ambient lighting and ventilation, while the glass windows were tinted to counteract the bright sunlight. These windows also enabled those passing by to look in. The library was built to accommodate 200,000 books and had a seating capacity for 280. The Children’s Room was on the first floor, while the Adult & Young People’s Room and Reference Section were on the second floor.[^11]
+The new library’s design was austere and modernist, and took into consideration the climate and the technology at the time. Each floor was designed to have high ceilings to provide good air circulation as there was no air-conditioning. Floor-to-ceiling windows helped with ambient lighting and ventilation, while the glass windows were tinted to counteract the bright sunlight. These windows also enabled those passing by to look in. The library was built to accommodate 200,000 books and had a seating capacity for 280. The Children’s Room was on the first floor, while the Adult &amp; Young People’s Room and Reference Section were on the second floor.[^11]
 
 Books were acquired from the United Kingdom, Malaysia, India, Taiwan and Hong Kong, while the library furniture had to be custom built and procured through the central supply arm of the government. Recalled Chan: “We had to draw the diagrams out for adult and children’s reading tables to differentiate them; the sloped and flat trolleys, and catalogue cabinet stands. It was not uncommon for existing staff to measure dimensions of various furniture and draw them out on paper with the measurements, to send an order to the manufacturers.”[^12]
 
@@ -66,7 +66,7 @@ At the opening, Prime Minister Lee described Queenstown Branch Library as “a m
 The library’s popularity was evident in the snaking queues at the counter that formed on Saturdays as people borrowed and returned books. Additional staff had to be deployed to handle the crowd, many of them students in their early teens or younger. The library was so popular that by the end of 1972, it had achieved 97 percent of its membership target of 24,000. The number of books borrowed that year also saw a 15.9 percent increase to 1.76 million, compared with 1.5 million loans in 1971.[^15]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/queenstown/queenstown-queeingup.jpg">
 
 Patrons queuing up for library services at Queenstown Branch Library, 1970s. The counter is manned by three teenagers. <i>PictureSG, National Library, Singapore</i>.
@@ -86,7 +86,7 @@ But the most important validation came from regular Singaporeans. Iris Lim, a fo
 Hedwig Anuar, then Director of the National Library, was particularly pleased with the library’s success in attracting non-English educated patrons. “Some make use of the library as a club. They come regularly to read, meet their friends and attend the various activities. They even know the librarians by name and the librarians too know their names,” she said.[^21]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/queenstown/queenstown-reading.jpg">
 
 The packed reading room of Queenstown Branch Library, 1970s. <i>PictureSG, National Library, Singapore</i>.
@@ -114,7 +114,7 @@ To keep pace with technological advancements, Queenstown Branch Library upgraded
 One of the biggest upgrades was not made to the physical infrastructure though. In 1987, Queenstown became the first branch library in the National Library’s network to computerise its loan and membership services, and to have a computerised public access catalogue.[^29] Books and periodicals were barcoded, and patrons could now borrow these items using just one credit card-size library card with a unique barcode on it (i.e. the library membership number). Using the computerised catalogue system, patrons could also search for books throughout the National Library’s network.[^30]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/queenstown/queenstown-libstaffscanbarcodee.jpg">
 
 A patron watches as the library staff scans the barcode on his new library membership card, 1980s. <i>PictureSG, National Library, Singapore</i>.
@@ -141,7 +141,7 @@ In the following two decades, a number of iconic landmarks and buildings in Quee
 In 2013, the URA announced that three buildings in the area – Queenstown Library, the former Commonwealth Avenue Wet Market and Alexandra Hospital – would be gazetted for conservation under its 2014 Master Plan.[^38] While the library was now safe from the wrecking ball, many old buildings in Queenstown made way for the new Dawson housing estate and other private residential projects. The library became a quieter place, still busy on weekends and averaging hundreds of thousands of loans every year, but a far cry from the snaking queues and packed reading rooms of yesteryear. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/queenstown/queenstown-publiclib2020.jpg">
 
 An exterior view of Queenstown Public Library, 2020. The bow-tie canopies and lattices on the facade have not changed since the library opened in 1970. <i>Photo by Paddy Jonathan Ong</i>.
@@ -153,7 +153,7 @@ In 2014, an underused foot reflexology path behind the library was removed and a
 The library continues to support the community, which includes students from two nearby schools for the disabled: Rainbow Centre and the Movement for the Intellectually Disabled of Singapore Lee Kong Chian Gardens School (MINDS LGS). Students from Rainbow Centre help to create book displays, while those from MINDS LGS tend to the garden and have reading sessions in the library. Clients served by the Society for the Physically Disabled also visit the library to learn about library services, the history and heritage of the library, and to attend activities such as movie screenings, book talks, and arts and crafts sessions. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/queenstown/queenstown-halloweenstorytelling.jpg">
 
 A library officer at Queenstown Public Library conducting a storytelling session, 2017. Such programmes are usually very well received by the public. <i>Photo by Paddy Jonathan Ong</i>.
@@ -165,8 +165,8 @@ Initiatives to reinvent the library to keep up with the changing needs of librar
 Although most of the old flats in Margaret Drive have been torn down, with those in nearby Tanglin Halt and Commonwealth Drive on the demolition list, upcoming housing developments in the area will, undoubtedly, bring new patrons to the library. Von Tjong, an educator and artist-designer in her 40s, is waiting to move into her new flat in Dawson, but has already begun volunteering with the library. She is presently conducting free art jamming sessions for adults and is looking forward to living just across the road from Queenstown Library because it “provides us with simple pleasures; doing some gardening or just having some quiet time and a sense of peace”.[^39]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/authors/PaddyOng.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol-16-issue-3/authors/PaddyOng.png" style="width: 100px; height: 100px;">
 
 <b>Paddy Jonathan Ong</b> has been an Associate Librarian with Queenstown Public Library since 2017. He manages its community garden and the adults’ collection, and also creates services and programmes to help adults rediscover their love for reading and learning.
 
@@ -179,23 +179,23 @@ Although most of the old flats in Margaret Drive have been torn down, with those
 [^1]: Urban Redevelopment Authority (Singapore). (1994). *[Queenstown planning area: Planning report 1994](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7263598)*  (pp. 4, 8). Singapore: The Authority. (Call no.: RSING 711.4095957 SIN)
 [^2]: [What’s in a name?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050809-1.2.123.182) (2005, August 9). *The Straits Times*, p. 114. Retrieved from NewspaperSG; National Library Board. (2014, April 8). *[Queen Elizabeth II’s coronation celebrations in Singapore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-04-09_112610.html)*. Retrieved from Singapore Infopedia website. 
 [^3]: Asad Latif. (2009). *[Lim Kim San: A builder of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13368871)* (pp. 60–61). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 363.585092 ASA)
-[^4]: National Library Board. (2020, April 30). *[History of National Library Singapore](http://www.nlb.gov.sg/About/HistoryofNationalLibrarySingapore.aspx)*. Retrieved from National Library Board website; Seet, K.K. (1983). *[A place for the people](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082325)* (p. 18). Singapore: Times Books International. (Call no.: RSING 027.55957 SEE); Lim, P.H. (2010, August). The history of an emerging multilingual public library system and the role of mobile libraries in post colonial Singapore, 1956–1991. *Malaysian Journal of Library & Information Science*, *15* (2), 85–108. Retrieved from University of Malaya website.
+[^4]: National Library Board. (2020, April 30). *[History of National Library Singapore](http://www.nlb.gov.sg/About/HistoryofNationalLibrarySingapore.aspx)*. Retrieved from National Library Board website; Seet, K.K. (1983). *[A place for the people](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082325)* (p. 18). Singapore: Times Books International. (Call no.: RSING 027.55957 SEE); Lim, P.H. (2010, August). The history of an emerging multilingual public library system and the role of mobile libraries in post colonial Singapore, 1956–1991. *Malaysian Journal of Library &amp; Information Science*, *15* (2), 85–108. Retrieved from University of Malaya website.
 [^5]: [Upper Serangoon folk will soon have their own library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19511006-1.2.62). (1951, October 6). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
 [^6]: Singapore. (1960). *[1960 Supplement to the laws of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13557876)* (p. 1). Raffles National Library (Change of Name) Ordinance 1960 (Ord. 66 of 1960). Singapore: Government Printing Office. (Call no.: RCLOS 348.5957 SIN); [Cultural awakening](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601113-1.2.35). (1960, November 13). *The Straits Times*, p. 5; [Out goes the name Raffles](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601121-1.2.88). (1960, November 21). *The Straits Times*, p. 9; [Raffles’ name will live on: Rajaratnam](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19601201-1.2.60). (1960, December 1). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
-[^7]: National Library Board. (1999). *[Mobile Library Services (1960–1991)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_885_2004-12-27.html)* written by Wong Heng & Thulaja Naidu. Retrieved from Singapore Infopedia website. 
-[^8]: Lim, J. (Interviewer). (2000, May 10). *[Oral history interview with Chan Thye Seng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=9)* [Transcript of MP3 recording no.: 002265/15/9, pp. 96–102]. Retrieved from National Archives of Singapore website.
+[^7]: National Library Board. (1999). *[Mobile Library Services (1960–1991)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_885_2004-12-27.html)* written by Wong Heng &amp; Thulaja Naidu. Retrieved from Singapore Infopedia website. 
+[^8]: Lim, J. (Interviewer). (2000, May 10). *[Oral history interview with Chan Thye Seng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html)* [Transcript of MP3 recording no.: 002265/15/9, pp. 96–102]. Retrieved from National Archives of Singapore website.
 [^9]: National Library (Singapore). (1963–1965). *[Annual report 1963](https://eservice.nlb.gov.sg/item_holding.aspx?bid=3408747)*. Singapore: The Library. (Call no.: RCLOS 027.55957 RLSAR); [N-Library: The first branch at Queenstown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19661221-1.2.184). (1966, December 21). *The Straits Times*, p. 24. Retrieved from NewspaperSG.
-[^10]: *[Oral history interview with Chan Thye Seng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)*, 10 May 2000. 
+[^10]: *[Oral history interview with Chan Thye Seng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)*, 10 May 2000. 
 [^11]: My Community. (2017). Queenstown Public Library 10. Retrieved from My Community website; Chan, T.S. (1971). A branch library for the people. *[Singapore Libraries](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183443)*, 1, 63–66. (Call no.: RCLOS q020.5 SL); National Library Board. (2000). *[Queenstown Community Library](https://eresources.nlb.gov.sg/infopedia/articles/SIP_934_2004-12-13.html)* written by Wong Heng. Retrieved from Singapore Infopedia website.
-[^12]: *[Oral history interview with Chan Thye Seng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)*, 10 May 2000. 
-[^13]: *[Oral history interview with Chan Thye Seng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)*, 10 May 2000. 
+[^12]: *[Oral history interview with Chan Thye Seng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)*, 10 May 2000. 
+[^13]: *[Oral history interview with Chan Thye Seng](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)*, 10 May 2000. 
 [^14]: Ministry of Culture. (1970, April 30). *[Address by the Prime Minister at the opening of the Queenstown Branch Library on Thursday,30th April 1970](https://www.nas.gov.sg/archivesonline/speeches/record-details/737a4b1d-115d-11e3-83d5-0050568939ad)* (pp. 2–3) [Speech]. Retrieved from National Archives of Singapore website.
 [^15]: [The queue up in Queenstown](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19780403-1.2.25). (1978, April 3). *New Nation*, p. 5; [More are taking to reading, says library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730124-1.2.34). (1973, January 24). *New Nation*, p. 3; [A record rise in library members](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730124-1.2.42). (1973, January 24). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
-[^16]: Lim, J. (Interviewer). (2007, April 17). *[Oral history interview with Chan Soo Sen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/11adfa55-1161-11e3-83d5-0050568939ad-OHC003151_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=13)* [Transcript of MP3 recording no.: 003151/01/01, p. 9]. Retrieved from National Archives of Singapore website.
+[^16]: Lim, J. (Interviewer). (2007, April 17). *[Oral history interview with Chan Soo Sen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/11adfa55-1161-11e3-83d5-0050568939ad-OHC003151_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=13)* [Transcript of MP3 recording no.: 003151/01/01, p. 9]. Retrieved from National Archives of Singapore website.
 [^17]: Lim, J. (Interviewer). (2007, April 4). *[Oral history interview with Dr Ng Eng Hen](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/ffc8dd51-1160-11e3-83d5-0050568939ad-OHC003143/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* [Transcript of MP3 recording no.: 003143/01/01, pp. 8–15]. Retrieved from National Archives of Singapore website.
-[^18]: Lim, J. (Interviewer). (2007, Apr 3). *[Oral history interview with Heng Chee How](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/10513022-1161-11e3-83d5-0050568939ad-OHC003142_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)* [Transcript of MP3 recording no.: 003142/01/01, p. 6]. Retrieved from National Archives of Singapore website.
+[^18]: Lim, J. (Interviewer). (2007, Apr 3). *[Oral history interview with Heng Chee How](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/10513022-1161-11e3-83d5-0050568939ad-OHC003142_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* [Transcript of MP3 recording no.: 003142/01/01, p. 6]. Retrieved from National Archives of Singapore website.
 [^19]: [High praise for library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710313-1.2.21). (1971, March 13). *New Nation*, p. 3. Retrieved from NewspaperSG.
-[^20]: Kiang-Koh, L.L. (Interviewer). (2016, October 13). *[Oral history interview with Iris Lim Ai Keng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/29e9fd23-8fba-11e6-9af5-0050568939ad?keywords=Iris%20Lim%20Ai%20Keng&keywords-type=all)* [MP3 recording no.: 004089/04/01]. Retrieved from National Archives of Singapore website.
+[^20]: Kiang-Koh, L.L. (Interviewer). (2016, October 13). *[Oral history interview with Iris Lim Ai Keng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/29e9fd23-8fba-11e6-9af5-0050568939ad?keywords=Iris%20Lim%20Ai%20Keng&amp;keywords-type=all)* [MP3 recording no.: 004089/04/01]. Retrieved from National Archives of Singapore website.
 [^21]: Ismail Kassim. (1974, May 21). [Making libraries social and cultural centres](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740521-1.2.18.1). *New Nation*, p. 4. Retrieved from NewspaperSG.
 [^22]: [TV replace reading?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720428-1.2.85) (1972, April 28). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 [^23]: [Karate thrills for 200 kids](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721030-1.2.33). (1972, October 30). *The Straits Times*, p. 7; Schoon, J. (1973, October 15). [A sound of music at the library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19731015-1.2.27.1). *New Nation*, p. 4. Retrieved from NewspaperSG.
@@ -208,10 +208,10 @@ Although most of the old flats in Margaret Drive have been torn down, with those
 [^30]: Lim, R. (1987, October 24). [Queenstown Library goes on-line](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19871024-1.2.31.14). *The Straits Times*, p. 17; Rohaniah Saini. (1988, May 20). [On-line system boon to library users](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880520-1.2.40.2). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 [^31]: Tan, C.N. (1994). *[Library 2000: Investing in a learning nation: Report of the Library 2000 Review Committee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6731571)* (pp. 9, 22, 74, 102). Singapore: Ministry of Information and the Arts. (Call no.: RSING 027.05957 SIN)
 [^32]: National Library Board. (1999). *[Annual report FY1998](https://www.nlb.gov.sg/Portals/0/Reports/fy98/libraryFuture.htm)*. Retrieved from National Library Board website; National Library Board. (2018). *World class libraries and archives for a knowledgeable nation* (pp. 22, 105–106). Singapore: National Library Board. [Note: RFID is an electronic system for automatically identifying items. It uses RFID tags, or transponders, which are contained in smart labels consisting of a silicon chip and coiled antenna. The Electronic Library Management System is an integrated system comprising self-check machines, automated bookdrops and sorting machines. 
-[^33]: Ramchand, A., Devadoss, P.R, & Pan, S.L (2005). The impact of ubiquitous computing technologies on business process change and management: The case of Singapore’s National Library Board (pp. 139–152). In C. Sørenson, Y. Yoo, K., Lyytinen & J.I. DeGross. (Eds.), Designing ubiquitous information evironments: Socio-technical issues and challenges. *IFIP – The International Federation for Information Processing Digital Library, 185*. Boston, M.A.: Springer. Retrieved from Springer website. 
+[^33]: Ramchand, A., Devadoss, P.R, &amp; Pan, S.L (2005). The impact of ubiquitous computing technologies on business process change and management: The case of Singapore’s National Library Board (pp. 139–152). In C. Sørenson, Y. Yoo, K., Lyytinen &amp; J.I. DeGross. (Eds.), Designing ubiquitous information evironments: Socio-technical issues and challenges. *IFIP – The International Federation for Information Processing Digital Library, 185*. Boston, M.A.: Springer. Retrieved from Springer website. 
 [^34]: [Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6731571), 1994, pp. 9, 22, 74, 102.
 [^35]: Personal interview with Goh Siew Han, 1 June 2020. 
-[^36]: Kwek, L.Y., & Lee, J. (2015). *[My Queenstown heritage trail](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202271668)* (p. 7). Singapore: My Community. (Call no.: RSING 915.95704 KWE); [Urban Redevelopment Authority, Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7263598), 1994, p. 14; Tan, H.Y. (1996, May 1). [Queenstown flats selected for en-bloc redevelopment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960501-1.2.3). *The Straits Times*, p. 1; Hooi, A. (2005, December 30). [3 Queenstown blocks to be redeveloped](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20051230-1.2.50.16). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
+[^36]: Kwek, L.Y., &amp; Lee, J. (2015). *[My Queenstown heritage trail](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202271668)* (p. 7). Singapore: My Community. (Call no.: RSING 915.95704 KWE); [Urban Redevelopment Authority, Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7263598), 1994, p. 14; Tan, H.Y. (1996, May 1). [Queenstown flats selected for en-bloc redevelopment](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960501-1.2.3). *The Straits Times*, p. 1; Hooi, A. (2005, December 30). [3 Queenstown blocks to be redeveloped](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20051230-1.2.50.16). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
 [^37]: Personal interview with Goh Siew Han, 1 June 2020.
 [^38]: Saifulbahri Ismail. (2013, October 3). [Three buildings in Queenstown to be conserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20131004-2.2.39.3). *Today*, p. 32. Retrieved from NewspaperSG.
-[^39]: Personal interview with Von Tjong, 20 June 2020. 
+[^39]: Personal interview with Von Tjong, 20 June 2020.
