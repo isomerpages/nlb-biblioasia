@@ -5,8 +5,8 @@ date: 2020-10-01T00:00:00.000Z
 breadcrumb: Gunpoint
 image: /images/Vol-16-issue-3/gunpoint/openinggun-gunpoint-01.jpg
 third_nav_title: "At Gunpoint: Wiping Out Illegal Firearms in Singapore"
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #ffe19c;
@@ -22,7 +22,7 @@ table {
 #### Street shootouts, bank robberies and armed kidnappings used to be common here. **Tan Chui Hua** zeroes in on how the city’s gun-toting criminals were eliminated.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-gunpoint-01.jpg">
 (From the left) In the 1950s and 60s, kidnappings of wealthy individuals for ransom at gunpoint occurred frequently in Singapore. The victims included “curio king” C.K. Tang and Shaw Vee Ming, the eldest son of cinema tycoon Run Run Shaw. To capture the infamous kidnapper Loh Ngut Fong in 1968, some 350 policemen and members of the Gurkha contingent were deployed. In June 1946, an innocent Indian man was accidentally killed on Robinson Road when police and armed robbers exchanged fire. <i>The Sunday Times, 17 July 1960, p. 1; The Straits Times, 6 February 1964, p. 1; The Straits Times, 11 November 1968, p. 11; The Singapore Free Press, 19 June 1946, p. 1. Retrieved from NewspaperSG</i>.
 </div>
@@ -44,9 +44,9 @@ One of the earliest accounts of the use of firearms in criminal activity is foun
 While robbers and gangsters were responsible for many of the violent crimes committed in Singapore in the 19th century, many of the incidents involved knives rather than guns. The proliferation of firearm use on the island picked up dramatically at the turn of the 20th century and escalated sharply by the 1920s to the point that, according to *The Malaya Tribune*, “Singapore can be likened to notorious Chicago in that it tops the crime list in the Straits Settlements and Malaya”.[^2] Street shootouts and reports of police wounded or even killed in the line of duty were common.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-gunpoint-02.jpg">
-In the early 1900s in Singapore, firearms could be purchased at department stores such as John Little & Co. <i>The Straits Times, 10 August 1920, p. 8. Retrieved from NewspaperSG</i>.
+In the early 1900s in Singapore, firearms could be purchased at department stores such as John Little &amp; Co. <i>The Straits Times, 10 August 1920, p. 8. Retrieved from NewspaperSG</i>.
 </div>
 
 While guns and firearms could be legally sold in Singapore, and indeed were available in department stores such as John Little, the root of the problem lay in the unlicensed weapons that were illegally imported into the island. The situation became so severe that in 1924, *The Straits Times* reported that:
@@ -64,7 +64,7 @@ In 1939, according to *The Straits Times*, “[i]t is estimated that there are i
 During the Japanese Occupation of Singapore (1942–45), gun crimes came to a halt as strict controls over movement of persons and swift, harsh punishments on criminals were carried out by the Japanese Military Administration. This lull lasted only as long as the Occupation years though.[^7]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-tattoohand.jpg">
 Secret society members in Singapore were responsible for committing various acts of violence and crime on the island during colonial times. Gang members usually sport tattoos on their bodies, like this snake tattoo, to symbolise their affiliation to a particular gang. <i>Singapore Police Force Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -80,7 +80,7 @@ In its 1948 annual report, the police reported that the state of security was su
 In that same year, however, the police managed to score a big win. After a year of undercover work, Singapore police officers in cooperation with Dutch authorities raided a gun-smuggling ring on Airabu island in the Dutch East Indies (present-day Indonesia). The operation led to the seizure of three-and-a-half tonnes of arms and ammunition, and the crackdown of an international syndicate supplying weapons to different parts of Southeast Asia, India and the Middle East. The seized items included submachine guns, Browning automatic rifles, aircraft machine guns and ammunition. The arrests, which took place in Airabu and Singapore, included three Americans, a Filipino, four Britons, an Irishman, a Eurasian, and a woman believed to be an Australian.[^13]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-policecadets.jpg">
 Police cadets of “B” Company at the Police Training School, 1941. <i>Singapore Police Force Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -98,7 +98,7 @@ In 1946 alone, 260 automatics and revolvers, 22 rifles, six Verey light pistols,
 In 1948, the police launched the “999” telephone service that enabled the public to call the Radio Control Room, which was in constant communication with police radio cars. Such cars could be quickly deployed if needed.[^18]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-policecar.jpg">
 In 1948, the police launched the “999” telephone service that put callers in touch with the Radio Control Room, which was in constant communication with police radio cars. Such radio cars allowed the force to respond more quickly and efficiently on the ground, c. 1950s. <i>Singapore Police Force Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -132,7 +132,7 @@ were seized.[^29]
 The killing of Detective Police Constable Ong Poh Heng in July 1973 – he was shot while intervening in an argument between an armed motorist and a bus driver over who had the right of way[^30] – appeared to have been the catalyst that led to stiffer penalties imposed for offences committed using firearms.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-policediscoverygear.jpg">
 Police discovery of a cache of abandoned firearms and gear, 1960. <i>David Ng Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -146,7 +146,7 @@ The new legislation had an immediate impact, seeing a dip in the number of armed
 The first gunman sentenced to death under the new act was Sha Bakar Dawood in September 1975. He had shot and wounded three people at a brothel and opened fire on a police squad along Thiam Siew Avenue. Just a month later, the first man sentenced to death for being an accomplice to two armed gang robberies was hawker Talib bin Haji Hamzah.[^33] The latter case demonstrated that even accomplices to armed robberies would face the full force of the law.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-shabakar.jpg">
 The first gunman sentenced to death under the Arms Offences Act was Sha Bakar Dawood in September 1975. He had shot and wounded three people at a brothel and opened fire on a police squad along Thiam Siew Avenue. <i>The Straits Times, 3 September 1975, p. 8. Retrieved from NewspaperSG</i>.
 </div>
@@ -157,7 +157,7 @@ into Singapore.[^34]
 At the same time, there was greater collaboration among ASEAN countries to stem arms trafficking. During the ASEANPOL Conference held in Jakarta in 1983, ASEAN police chiefs pushed for the adoption of several measures, including enhanced penalties for those caught having firearms and the updating of laws to tighten licensing and control of firearms. Concerted efforts were also put in place to enforce gun laws, particularly at entry and exit points, border areas and coastlines. There was also greater exchange of information among the police forces of the different ASEAN countries.[^35]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/gunpoint/openinggun-policetraining.jpg">
 Police officers undergoing training at the Police Training School, 1990. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -170,7 +170,7 @@ Although gun violence was effectively contained in Singapore during the 1980s an
 
 |**FROM SPECIAL SQUADS TO SHOOTING STYLES**|
 
-|<img src="/images/Vol-16-issue-3/gunpoint/openinggun-limbanlim.jpg" style="width: 200px; height: 267px;"/>|
+|<img src="/images/Vol-16-issue-3/gunpoint/openinggun-limbanlim.jpg" style="width: 200px; height: 267px;">|
 
 |Wanted man Lim Ban Lim was one of the first gunmen to be slain by the new FBI shooting technique adopted by the Singapore Police Force. *The Sunday Times, 26 November 1972, p. 1. Retrieved from NewspaperSG*.|
 
@@ -191,8 +191,8 @@ Although gun violence was effectively contained in Singapore during the 1980s an
 |The FBI shooting method was so effective that by 1975, it was announced that all regular members of the police force would switch to the new style within two years.[^44]|
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/authors/TanChuiHua.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol-16-issue-3/authors/TanChuiHua.png" style="width: 100px; height: 100px;">
 <b>Tan Chui Hua</b> is a researcher and writer who has worked on various projects documenting the heritage of Singapore, including a number of heritage trails and publications. She is a regular contributor to <i>BiblioAsia</i>.
 </div>
 
@@ -205,29 +205,29 @@ Although gun violence was effectively contained in Singapore during the 1980s an
 [^4]: *[The Malaya Tribune](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19251231-1.2.40)*, 31 Dec 1925, p. 6.
 [^5]: [The Singapore gunman](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280822-1.2.83). (1928, August 22). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 [^6]: [Straits-born youths join city crime gangs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390118-1.2.90). (1939, January 18). *The Straits Times*, p. 14. Retrieved from NewspaperSG.
-[^7]: The low crime rate in Singapore during the Japanese Occupation is referred to in various oral history interviews and accounts of survivors. For instance, former Prime Minister Lee Kuan Yew wrote in his autobiography, *The Singapore Story*, that “the Japanese Military Administration governed by spreading fear… punishment was so severe that crime was very rare”. See Lee, K.Y. (1998). *[The Singapore story: Memoirs of Lee Kuan Yew](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200175845)* (p. 74). Singapore: Simon & Schuster. (Call no.: RCLOS 959.57 LEE)
+[^7]: The low crime rate in Singapore during the Japanese Occupation is referred to in various oral history interviews and accounts of survivors. For instance, former Prime Minister Lee Kuan Yew wrote in his autobiography, *The Singapore Story*, that “the Japanese Military Administration governed by spreading fear… punishment was so severe that crime was very rare”. See Lee, K.Y. (1998). *[The Singapore story: Memoirs of Lee Kuan Yew](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200175845)* (p. 74). Singapore: Simon &amp; Schuster. (Call no.: RCLOS 959.57 LEE)
 [^8]: University of London. School of Oriental and African Studies. Library. (1945–1954). *[PPMS 31/File 36, 1945-1954: Singapore Central Intelligence Department, Monthly Crime Reports](https://www.nas.gov.sg/archivesonline/private_records/record-details/e357a728-115b-11e3-83d5-0050568939ad)*. Accessible from National Archives of Singapore. (Microfilm no.: NAB 1490)
 [^9]: [8 months’ looting cost $4½ million](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470417-1.2.26). (1947, April 17). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^10]: [1946 was worst year for crime: S’pore had 960 hold-ups](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470112-1.2.26). (1947, January 12). *The Straits Times*, p. 3; [Gun battle fought in S’pore city](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19460619-1.2.2). (1946, June 19). *The Singapore Free Press*, p. 1. Retrieved from NewspaperSG.
 [^11]: Singapore Police Force. (1949). *[Annual report 1948](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826214)* (p. 2). Singapore: Government Printing Office. (Call no.: RCLOS 354.59570074 SIN)
 [^12]: [Singapore Police Force](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826214), 1949, p. 19. 
 [^13]: [Singapore gun runners caught](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480918-1.2.2). (1948, September 18). *The Straits Times*, p. 1; [Dutch probe on Airabu isle arms seizure ending](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19481027-1.2.30). (1948, October 27). *The Malaya Tribune*, p. 2; [Arms worth $340,000](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19481221-1.2.61). (1948, December 21). *The Malaya Tribune*, p. 8; [Arms ring aimed at huge profits](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19480924-1.2.27). (1948, September 24). *The Malaya Tribune*, p. 2. Retrieved from NewspaperSG.
-[^14]: Yong, W.W.E., & Syam Roslan. (2020, February 19). *Police nerve centre*. Retrieved from Singapore Police Force website. 
-[^15]: [Smashing gangsterdom in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19460407-1.2.28). (1946, April 7). *Sunday Tribune (Singapore)*, p. 3; [C.I.D. men armed day & night to shoot it out with city gunmen](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460623-1.2.46). (1946, June 23). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
+[^14]: Yong, W.W.E., &amp; Syam Roslan. (2020, February 19). *Police nerve centre*. Retrieved from Singapore Police Force website. 
+[^15]: [Smashing gangsterdom in Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19460407-1.2.28). (1946, April 7). *Sunday Tribune (Singapore)*, p. 3; [C.I.D. men armed day &amp; night to shoot it out with city gunmen](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460623-1.2.46). (1946, June 23). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 [^16]: [Police recover 40 guns in big drive](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460715-1.2.35). (1946, July 15). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 [^17]: *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470112-1.2.26)*, 12 Jan 1947, p. 3; [1,095 grenades seized by police](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470509-1.2.2). (1947, May 9). *The Straits Times*, p. 1. Retrieved from NewspaperSG; [Singapore Police Force](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826214), 1949, p. 18.
 [^18]: [999 sends police to your aid](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480719-1.2.35.13). (1948, July 19). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG.
-[^19]: [New doubt in kidnap case](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530806-1.2.18). (1953, August 6). *The Straits Times*, p. 1; Sit, Y.F. (1957, August 30). [Kidnap-rescue drama ](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570830-1.2.2). *The Straits Times*, p. 1; [$5,000 reward for news of abducted man ](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19571016-1.2.108). (1957, October 16). *The Straits Times*, p. 9; [Box was his ‘cell’ for 13 days](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570924-1.2.8). (1957, September 24). *The Straits Times*, p. 1; [Millionaire’s nephew is kidnapped](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19571115-1.2.3). (1957, November 15). *The Singapore Free Press*, p. 1; Sam, J. (1960, July 17). [C.K. Tang kidnapped](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600717-1.2.2). *The Straits Times*, p. 1; [Murder of the ‘biscuit king’: A vengeance killing, says father](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600425-1.2.4). (1960, April 25). *The Singapore Free Press*, p. 1; Sam, J., & Cheong, Y.S. (1964, February 6). [Cinema magnate Shaw’s son is kidnapped](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640206-1.2.3). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^19]: [New doubt in kidnap case](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530806-1.2.18). (1953, August 6). *The Straits Times*, p. 1; Sit, Y.F. (1957, August 30). [Kidnap-rescue drama ](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570830-1.2.2). *The Straits Times*, p. 1; [$5,000 reward for news of abducted man ](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19571016-1.2.108). (1957, October 16). *The Straits Times*, p. 9; [Box was his ‘cell’ for 13 days](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570924-1.2.8). (1957, September 24). *The Straits Times*, p. 1; [Millionaire’s nephew is kidnapped](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19571115-1.2.3). (1957, November 15). *The Singapore Free Press*, p. 1; Sam, J. (1960, July 17). [C.K. Tang kidnapped](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600717-1.2.2). *The Straits Times*, p. 1; [Murder of the ‘biscuit king’: A vengeance killing, says father](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19600425-1.2.4). (1960, April 25). *The Singapore Free Press*, p. 1; Sam, J., &amp; Cheong, Y.S. (1964, February 6). [Cinema magnate Shaw’s son is kidnapped](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640206-1.2.3). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 [^20]: Ah Hiap was a member of the dreaded kidnapping ring operated by Loh Ngut Fong, who later died in a dramatic shootout with police in 1968.
-[^21]: Gupta, S. (Interviewer). (2015, January 6). *[Oral history interview with Lionel Jerome de Souza](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/40eb88db-ac20-11e4-859c-0050568939ad-OHC003961_007/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=3)*. [Transcript of MP3 recording no. 003961/10/7, p. 236] Retrieved from National Archives of Singapore website.
+[^21]: Gupta, S. (Interviewer). (2015, January 6). *[Oral history interview with Lionel Jerome de Souza](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/40eb88db-ac20-11e4-859c-0050568939ad-OHC003961_007/web/html5/index.html)*. [Transcript of MP3 recording no. 003961/10/7, p. 236] Retrieved from National Archives of Singapore website.
 [^22]: Rutherfurd, N. (1957, November 24). [Plan to beat kidnappers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19571124-1.2.3). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 [^23]: [Top sleuths to stop robberies](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19591222-1.2.106). (1959, December 22). *The Straits Times*, p. 11; [Special ‘crime busters’ squad to fight pay grabs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640203-1.2.83). (1964, February 3). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 [^24]: Singapore Police Force. (1961). *[Annual report 1960 and 1961](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826214)* (pp. 4–5). Singapore: Government Printing Office. (Call no.: RCLOS 354.59570074 SIN); Singapore Statutes Online. (2020, June 4). *Kidnapping act*. Retrieved from Singapore Statutes Online website .
 [^25]: [Death for the trigger happy gunmen now](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731201-1.2.56.1). (1973, December 1). *The Straits Times*, p. 7; Kutty, N.G. (1971, December 17). [$31,000 payroll grab](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19711217-1.2.10). (1971, December 17). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 [^26]: Basapa, L. (1970, May 18). [Fighting the illegal gun trade](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700518-1.2.62). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
-[^27]: Chua, J.C.H. (Interviewer). (1995, June 15). *[Oral history interview with Neivelle Tan (Reverend)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/411cdcaf-115e-11e3-83d5-0050568939ad-OHC001600_033/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=11)* [Transcript of MP3 recording no. 001600/47/33, p. 393]. Retrieved from National Archives of Singapore website.
-[^28]: Chua, J.C.H. (Interviewer). (1995, June 15). *[Oral history interview with Neivelle Tan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/41218e2a-115e-11e3-83d5-0050568939ad-OHC001600_034/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&pn=1) (Reverend)* [Transcript of MP3 recording no. 001600/47/34, p. 236.] Retrieved from National Archives of Singapore website.
-[^29]: Kutty, N.G. (1972, December 18). [Betrayal led to death for Hassan brothers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721218-1.2.8). *The Straits Times*, p. 1; [More robbers take to use of guns](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19731214-1.2.20.2?ST=1&AT=search&SortBy=Oldest&k=arms+trafficking+singapore&P=2&Display=0&filterS=0&QT=arms,trafficking,singapore&oref=article). (1973, December 14). *New Nation*, p. 2. Retrieved from NewspaperSG.
+[^27]: Chua, J.C.H. (Interviewer). (1995, June 15). *[Oral history interview with Neivelle Tan (Reverend)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/411cdcaf-115e-11e3-83d5-0050568939ad-OHC001600_033/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* [Transcript of MP3 recording no. 001600/47/33, p. 393]. Retrieved from National Archives of Singapore website.
+[^28]: Chua, J.C.H. (Interviewer). (1995, June 15). *[Oral history interview with Neivelle Tan](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/41218e2a-115e-11e3-83d5-0050568939ad-OHC001600_034/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=1) (Reverend)* [Transcript of MP3 recording no. 001600/47/34, p. 236.] Retrieved from National Archives of Singapore website.
+[^29]: Kutty, N.G. (1972, December 18). [Betrayal led to death for Hassan brothers](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721218-1.2.8). *The Straits Times*, p. 1; [More robbers take to use of guns](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19731214-1.2.20.2?ST=1&amp;AT=search&amp;SortBy=Oldest&amp;k=arms+trafficking+singapore&amp;P=2&amp;Display=0&amp;filterS=0&amp;QT=arms,trafficking,singapore&amp;oref=article). (1973, December 14). *New Nation*, p. 2. Retrieved from NewspaperSG.
 [^30]: Wee, B.H. (1973, July 14). [Anger grips the police](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730714-1.2.4). *New Nation*, p. 1. Retrieved from NewspaperSG.
 [^31]: *[The Straits Times](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19731201-1.2.56.1)*, 1 Dec 1973, p. 7; [‘Death for gunmen’ law in force](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740211-1.2.63). (1974, February 11). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 [^32]: Singapore Statutes Online. (2020, June 4). *Arms Offences Act*. Retrieved from the Singapore Statutes Online website. 
@@ -243,5 +243,3 @@ Although gun violence was effectively contained in Singapore during the 1980s an
 [^42]: [Shooting from the hip FBI style….](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19711119-1.2.20) (1971, November 19). *New Nation*, p. 2. Retrieved from NewspaperSG. 
 [^43]: Kutty, N.G. (1973, January 21). [Fewer crimes but more murders: FBI-style shooting helps the cops get their men](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19730121-1.2.50.2). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 [^44]: [Shooting FBI-way for all PCs](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750819-1.2.6.11). (1975, August 19). *New Nation*, p. 4. Retrieved from NewspaperSG.
-
-
