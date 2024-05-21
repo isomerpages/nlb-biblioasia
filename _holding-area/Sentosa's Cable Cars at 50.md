@@ -15,6 +15,12 @@ To people back then, it must have seemed futuristic, to be suspended some 60 m i
 
 “We have a magnificent natural harbour, one of the finest in the world,” noted Deputy Prime Minister and Minister for Defence Goh Keng Swee when he officially opened the service on 15 February 1974. “A ride in a cable car – and I must not detain you longer than is necessary before you experience this for yourself – will provide the visitor with a magnificent panorama of the harbour. It will, I hope, at the same time make Singaporeans more conscious and more proud of their city state, whose economic life blood flows through this great port of ours.”[^1]
 
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img1.jpg)
+<div style="background-color: white;">Cable cars along the Mount Faber Line linking Mount Faber and Sentosa, c. 1975. These are the first- generation cars. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+
 After his speech, Goh and his wife rode in the bright yellow Cable Car No. 1 across the harbour to Sentosa and was all smiles as he looked down at the panoramic view below. At the end of the journey, he told the _Straits Times_ that “he had enjoyed the ride very much and that it was as good as any he had taken abroad”.[^2] &nbsp;
 
 Such was the novelty of the ride that his endorsement was probably unnecessary. The next day, when it opened to the public, more than 1,000 people jostled for the opportunity to get into a cable car cabin and ride it for the 8.5 minutes it took to get from Mount Faber to Sentosa.[^3] They paid $4 for a round trip.[^4]
@@ -45,6 +51,11 @@ The cable car was also featured on the popular TV series _Hawaii Five-O_. In an 
 
 For the first nine years, the system operated without any major incidents. But that streak of good fortune ended on Saturday, 29 January 1983. Shortly after 6&nbsp;pm, the _Eniwetok_, an oil-drilling ship, broke free from its tugboats and drifted with the tide after unberthing from the nearby oil wharf in Keppel Harbour.&nbsp;
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img3.jpg)
+<div style="background-color: white;">The <i>Eniwetok</i> after its collision with the cableway, 1983. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+
+
+
 The top of its derrick (the tower) collided with the cableway causing two cable cars, numbers 20 and 35, to dislodge and fall 55 metres into the waters below. Two other cars were stranded precariously over land while another two were suspended over water.&nbsp;
 
 One of them, car number 26, was half-way across the harbour when the accident happened. The force of the collision shook the car violently and two adults and a 22-month-old toddler were flung out, leaving four more passengers in the cabin.[^21] Seven people died as a result of the accident, but another 13 remained trapped in four cabins suspended in the air.
@@ -71,32 +82,46 @@ The system saw a major overhaul a decade and a half later. Between September 200
 
 The opening of Resorts World Sentosa and Universal Studios in 2010 led to a spike in visitor numbers, prompting Sentosa Development Corporation to set up a cable car service that would run within the island between Merlion Plaza, Imbiah Lookout and Siloso Point. Officially opened on 14 July 2015, the 860-metre-long Sentosa Line can move some 1,600 people per hour in one direction with a waiting time of just 18 seconds.[^30] &nbsp;
 
+
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img2.jpg)
+<div style="background-color: white;">Completed in 2015, the Sentosa Line serves passengers within Sentosa with three stations: Merlion Plaza, Imbiah Lookout and Siloso Point. <i>Photo by Jimmy Yap. </i></div>
+
+
+
+
 #### **Soaring to New Heights**
 
 In March 2024, seven futuristic-looking cabins were added to the existing fleet of 67 on the Mount Faber Line connecting Mount Faber and Sentosa. Called SkyOrb cabins, these have a transparent glass bottom and were made exclusively for Singapore.[^31]
+
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img4.jpg)
+<div style="background-color: white;">Cable cars along the Mount Faber Line linking Mount Faber and Sentosa, 2024. Seen here are the new SkyOrb cabins and other cars dressed in the Pokémon motif. <i>Photo by Jimmy Yap.</i></div>
+
+
 
 Over the last five decades, Sentosa’s cable cars have established themselves as a familiar landmark to those who pass along Telok Blangah Road. Yet despite the familiarity, it is still a major draw, offering as it does, a unique perspective of the harbour and Singapore’s coastline. The service’s commitment to constant upgrading and improvement will undoubtedly enable these cable cars to continue soaring.
 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/gohleekim-.png" style="width: 100px; height: 100px;">
+<img src="/images/Authors/JoannaTan.png" style="width: 100px; height: 100px;">
 	<b>Joanna Tan</b> is a Senior Librarian with the National Library, Singapore, and works with the Singapore and Southeast Asia Collection. Her responsibilities include collection management and content development as well as providing reference and research services.</div>
 
 
 #### **Notes**
-[^1]: Goh Keng Swee, “Speech by Dr Goh Keng Swee, Deputy Prime Minister and Minister of Defence at the Official Opening Ceremony of the Cable Car System on Friday, 15th February, 1974 at 4.30 pm at Mount Faber,” transcript, National Archives of Singapore (document no. PressR19740215a)
+[^1]: Goh Keng Swee, “[Speech by Dr Goh Keng Swee, Deputy Prime Minister and Minister of Defence at the Official Opening Ceremony of the Cable Car System on Friday, 15th February, 1974 at 4.30 pm at Mount Faber](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c3d7e2f-115d-11e3-83d5-0050568939ad),” transcript, National Archives of Singapore (document no. PressR19740215a)
 
-[^2]: Bailyne Sung, “Cable Car No 1 Takes Goh Over to Sentosa,” _Straits Times_, 16 February 1974, 1. (From NewspaperSG)
+[^2]: Bailyne Sung, “[Cable Car No 1 Takes Goh Over to Sentosa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740216-1.2.16),” _Straits Times_, 16 February 1974, 1. (From NewspaperSG)
 
-[^3]: “First Major Project in Sentosa Resort Completed,” _Straits Times_,  
-15 February 1974, 8; “1,000 Take Cable Car Rides on First Day,” _Straits Times_, 17 February 1974, 4. (From NewspaperSG)
+[^3]: “[First Major Project in Sentosa Resort Completed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740215-1.2.45.1),” _Straits Times_,  
+15 February 1974, 8; “[1,000 Take Cable Car Rides on First Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740217-1.2.42),” _Straits Times_, 17 February 1974, 4. (From NewspaperSG)
 
-[^4]:  “‘Don’t Lose Faith’ Call by Goh,” _Straits Times_, 16 February 1974, 7. (From NewspaperSG)
+[^4]:  “‘[Don’t Lose Faith’ Call by Goh](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740216-1.2.32),” _Straits Times_, 16 February 1974, 7. (From NewspaperSG)
 
-[^5]:  “Singapore Orders a Dozen More Cable Cars,” _New Nation_, 10 April 1974, 3. (From NewspaperSG); Marcus Ng Fu Chuan, _A Ride to Remember: The Story of Mount Faber and Singapore Cable Car_ (Singapore: Mount Faber Leisure Group, 2012), 38. (From National Library, Singapore, call no. RSING 915.957 NG-TRA\])
+[^5]:  “[Singapore Orders a Dozen More Cable Cars](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740410-1.2.21.17),” _New Nation_, 10 April 1974, 3. (From NewspaperSG); Marcus Ng Fu Chuan, [_A Ride to Remember: The Story of Mount Faber and Singapore Cable Car_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674) (Singapore: Mount Faber Leisure Group, 2012), 38. (From National Library, Singapore, call no. RSING 915.957 NG-TRA\])
 
-[^6]: Lim Yann Ling, “_A Ropeway of Special Memories_,” _Straits Times_, 1 March 2014, 3. (From NewspaperSG)
+[^6]: Lim Yann Ling, “[_A Ropeway of Special Memories_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140301-1.2.111.2),” _Straits Times_, 1 March 2014, 3. (From NewspaperSG)
 
 [^7]: Correspondence with Irene Chee, 5 April 2024.
 
@@ -107,44 +132,44 @@ https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
 
 [^10]:  National Heritage Board, _Sentosa Heritage Trail_, 55.
 
-[^11]:   “Buildings Designed With Local Skills,” _Straits Times_, 15 February 1974, 11; “Work on Cable Car Wire Installation Starts Today,” _Straits Times_, 21 October 1973, 7. (From NewspaperSG); Ng, _A Ride to Remember_, 28.
+[^11]:   “[Buildings Designed With Local Skills](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740215-1.2.45.7),” _Straits Times_, 15 February 1974, 11; “[Work on Cable Car Wire Installation Starts Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19731021-1.2.44),” _Straits Times_, 21 October 1973, 7. (From NewspaperSG); Ng, [_A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 28.
 
-[^12]: “Faber-Sentosa Car Link Will Be Bi-Cable,” _New Nation_, 10 May 1973, 5. (From NewspaperSG); “Buildings Designed With Local Skills.”
+[^12]: “[Faber-Sentosa Car Link Will Be Bi-Cable](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730510-1.2.37),” _New Nation_, 10 May 1973, 5. (From NewspaperSG); “[Buildings Designed With Local Skills](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740215-1.2.45.7).”
 
-[^13]:  Ng, _A Ride to Remember_, 28; “Buildings Designed With Local Skills”; Chia Poteik, “$2.9 Million Cable Car Contract,” _Straits Times_, 14 August 1971, 19. (From NewspaperSG)
+[^13]:  Ng, [_A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 28; “[Buildings Designed With Local Skills](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740215-1.2.45.7)”; Chia Poteik, “[$2.9 Million Cable Car Contract](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710814-1.2.121),” _Straits Times_, 14 August 1971, 19. (From NewspaperSG)
 
 [^14]:  “Overview,” Sentosa Development Corporation, last updated 26 October 2023, https://www.sentosa.gov.sg/who-we-are/overview/.
 
-[^15]:  “Buildings Designed With Local Skills”; Chia, “$2.9 Million Cable Car Contract.”
+[^15]:  “[Buildings Designed With Local Skills](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740215-1.2.45.7)”; Chia, “[$2.9 Million Cable Car Contract](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710814-1.2.121).”
 
-[^16]:  “Faber-Sentosa Car Link Will Be Bi-Cable”; “Work on Cable Car Wire Installation Starts Today”; Teresa Ooi, “Swiss Experts Will Install Cable Cars,” _New Nation_, 5 May 1973, 3; “First Major Project in Sentosa Resort Completed,” _Straits Times_, 15 February 1974, 8. (From NewspaperSG)
+[^16]:  “[Faber-Sentosa Car Link Will Be Bi-Cable](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730510-1.2.37)”; “[Work on Cable Car Wire Installation Starts Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19731021-1.2.44)”; Teresa Ooi, “[Swiss Experts Will Install Cable Cars](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730505-1.2.24),” _New Nation_, 5 May 1973, 3; “[First Major Project in Sentosa Resort Completed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740215-1.2.45.1),” _Straits Times_, 15 February 1974, 8. (From NewspaperSG)
 
-[^17]:  “Two Islands to Link with Sentosa,” _Straits Times_, 2 February 1978, 28. (From NewspaperSG)
+[^17]:  “[Two Islands to Link with Sentosa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780202-1.2.125),” _Straits Times_, 2 February 1978, 28. (From NewspaperSG)
 
-[^18]:  Ng, _A Ride to Remember_, 28.
+[^18]:  Ng,[ _A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 28.
 
-[^19]:  Ng, _A Ride to Remember_, 38; “Lord M Takes a Cable Car to Sentosa,” _New Nation_, 7 March 1974, 3. (From NewspaperSG)
+[^19]:  Ng, [_A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 38; “[Lord M Takes a Cable Car to Sentosa](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740307-1.2.19.21),” _New Nation_, 7 March 1974, 3. (From NewspaperSG)
 
-[^20]:  “Stand-ins Take Over for Five-0 Cable Car Stunt,” _Straits Times_, 13 May 1978, 6; Bailyne Sung, “Year of the Horse Leaves Five-O Fans High and Dry,” _Straits Times_, 20 January 1979, 2. (From NewspaperSG)
+[^20]:  “[Stand-ins Take Over for Five-0 Cable Car Stunt](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780513-1.2.28),” _Straits Times_, 13 May 1978, 6; Bailyne Sung, “[Year of the Horse Leaves Five-O Fans High and Dry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19790120-1.2.145.3.3),” _Straits Times_, 20 January 1979, 2. (From NewspaperSG)
 
-[^21]:  Yong Li Xuan, “Sentosa Cable Car Tragedy: 40 Years On,” _Straits Times_, 29 January 2023, https://www.straitstimes.com/singapore/sentosa-cable-car-tragedy-he-still-has-flashbacks-of-his-family-falling-out-of-cable-car; Chia Chong Jin, “Daring Rescue: 1983 Sentosa Cable Car Accident,” _Pioneer_, 27 January 2023, mindef.gov.sg/web/portal/pioneer/article/regular-article-detail/ops-and-training/2023-Q1/27jan23\_news2; Marine Department (Singapore), _Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_, 33.
+[^21]:  Yong Li Xuan, “Sentosa Cable Car Tragedy: 40 Years On,” _Straits Times_, 29 January 2023, https://www.straitstimes.com/singapore/sentosa-cable-car-tragedy-he-still-has-flashbacks-of-his-family-falling-out-of-cable-car; Chia Chong Jin, “[Daring Rescue: 1983 Sentosa Cable Car Accident](https://www.mindef.gov.sg/web/portal/pioneer/article/regular-article-detail/ops-and-training/2023-Q1/27jan23_news2),” _Pioneer_, 27 January 2023, mindef.gov.sg/web/portal/pioneer/article/regular-article-detail/ops-and-training/2023-Q1/27jan23\_news2; Marine Department (Singapore), _Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_, 33.
 
-[^22]:   Chia, “Daring Rescue”; Conrad Raj, “Using Commandos,” _Straits Times_, 6 February 1983, 18; “Four Options, Then the Go-Ahead for Choppers,” _Straits Times_, 31 January 1983, 8. (From NewspaperSG)
+[^22]:   Chia, “Daring Rescue”; Conrad Raj, “[Using Commandos](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830206-1.2.58),” _Straits Times_, 6 February 1983, 18; “[Four Options, Then the Go-Ahead for Choppers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830131-1.2.30),” _Straits Times_, 31 January 1983, 8. (From NewspaperSG)
 
-[^23]:  “Plucked From the Jaws of Death,” _Straits Times_, 31 January 1983, 1. (From NewspaperSG)
+[^23]:  “[Plucked From the Jaws of Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830131-1.2.4),” _Straits Times_, 31 January 1983, 1. (From NewspaperSG)
 
-[^24]:  Cynthia Choo and Albert Wai, “Aussie Hero of Sentosa Cable Car Rescue Recalls ‘Harrowing’ Night,” _Today_, 13 October 2016, 8. (From NewspaperSG)
+[^24]:  Cynthia Choo and Albert Wai, “[Aussie Hero of Sentosa Cable Car Rescue Recalls ‘Harrowing’ Night](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20161013-1.2.8.2.3),” _Today_, 13 October 2016, 8. (From NewspaperSG)
 
 [^25]:  Yong Li Xuan, “Sentosa Cable Car Tragedy: Helicopter Co-pilot in Rescue Mission was Only 19,” _Straits Times_, 29 January 2023, https://www.straitstimes.com/singapore/sentosa-cable-car-tragedy-helicopter-co-pilot-in-rescue-mission-was-only-19.
 
-[^26]: Philip Lee, et al., “PM Orders Full Inquiry,” _Straits Times_, 31 January 1983, 1. (From NewspaperSG); Marine Department (Singapore), _Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_, 1; “The Straits Times Says Thundering But Fair Report,” _Straits Times_, 16 January 1984, 16. (From NewspaperSG)
+[^26]: Philip Lee, et al., “[PM Orders Full Inquiry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830131-1.2.5),” _Straits Times_, 31 January 1983, 1. (From NewspaperSG); Marine Department (Singapore), _Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_, 1; “[The Straits Times Says Thundering But Fair Report](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840116-1.2.28),” _Straits Times_, 16 January 1984, 16. (From NewspaperSG)
 
-[^27]:  Tsang So-Yin, “Cable Cars Roll Again,” _Straits Times_, 16 August 1983, 1. (From NewspaperSG)
+[^27]:  Tsang So-Yin, “[Cable Cars Roll Again](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830816-1.2.5),” _Straits Times_, 16 August 1983, 1. (From NewspaperSG)
 
-[^28]:  Ng, _A Ride to Remember_, 45.
+[^28]:  Ng, [_A Ride to Remember_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674), 45.
 
-[^29]:  Jessica Lim, “Cable Car Rides Shut Down for Upgrading Works,” _Straits Times_, 11 September 2009, 43; “Fresh Look,” _The New Paper_, 21 July 2010, 8. (From NewspaperSG)
+[^29]:  Jessica Lim, “[Cable Car Rides Shut Down for Upgrading Works](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20090911-1.2.44.13),” _Straits Times_, 11 September 2009, 43; “[Fresh Look](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper20100721-1.2.8.1),” _The New Paper_, 21 July 2010, 8. (From NewspaperSG)
 
-[^30]: Jessica Lim, “Sentosa to Build New Cable Car Line,” _Straits Times_, 14 June 2012, 2–3. (From NewspaperSG)
+[^30]: Jessica Lim, “[Sentosa to Build New Cable Car Line](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20120614-1.2.7.3),” _Straits Times_, 14 June 2012, 2–3. (From NewspaperSG)
 
 [^31]:  Chin Soo Fang, “Futuristic Cabins to Join Singapore Cable Car’s Fleet As It Turns 50,” _Straits Times_, 3 December 2023, https://www.straitstimes.com/singapore/futuristic-fleet-to-join-s-pore-s-cable-cars-in-2024-as-it-turns-50.

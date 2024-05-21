@@ -38,7 +38,7 @@ sections:
       image: "/images/Videos: From Book to Cook/4Soon Kueh/Soon_Kueh.jpg"
       alt: Image alt text
   - infopic:
-      title: Wat Ananda Provides Thai Buddhism with a Singaporean Twist
+      title: At Wat Ananda, Thai Buddhism with a Singaporean Twist
       subtitle: Worship
       id: infopic
       description: Despite the golden stupa and ornate roofs that indicate this is a

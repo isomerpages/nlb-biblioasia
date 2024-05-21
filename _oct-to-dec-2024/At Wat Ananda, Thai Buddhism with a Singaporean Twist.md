@@ -1,5 +1,5 @@
 ---
-title: Wat Ananda Provides Thai Buddhism with a Singaporean Twist
+title: At Wat Ananda, Thai Buddhism with a Singaporean Twist
 permalink: /vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
 variant: markdown
 description: ""

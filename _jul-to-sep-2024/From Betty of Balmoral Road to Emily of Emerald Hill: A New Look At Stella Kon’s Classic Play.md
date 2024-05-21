@@ -61,7 +61,7 @@ In _Emily_, the climax of the play is when Emily accepts her daughter’s marria
 
 _Portrait_ and _Emily_ also have different opening scenes. _Portrait_ begins with Emily visiting the market and the audience hearing Emily bawling offstage. “Ah Hoon! Ah Hoon! Open the door! Bring the basket! Call the driver! Tell him nonya besar wants to go to market!” Then she appears on stage and, addressing the audience, says: “Hei, Botak! What are you doing ah! What kind of fish you sent to me yesterday? All rotten ones lah! Yes! You want me to show you, all the ikan parang all stinking rotten lah! How to eat ah? You want my family all go to hospital die ah?”[^10]
 
-![](/images/Vol%2020%20Issue%202/Emily/img_12.png)
+<img src="/images/Vol%2020%20Issue%202/Emily/opening_scene.jpg" style="width: 85%;">
 <div style="background-color:white;"> The opening scene from&nbsp;<i>Portrait of a Nonya</i>, where Emily buys&nbsp;<i>sotong</i>&nbsp;and prawns from Botak, the fishmonger.&nbsp;<i>Image reproduced from Stella Kon, Portrait of A Nonya: A Monodrama, unpublished manuscript, 1980, 3. (From National Library, Singapore, call no. RCLOS S822 KON).</i></div>
 
 The final script, however, opens with Emily speaking to people on the phone, starting with her friend Susie. “Susie ah! Emily here ah. This afternoon I’m going to town, anything that you’re needing? I’ve got the chicken you wanted from market; and I saw some good jackfruit, your children love it, so I bought one big one for you. What else you need?” Emily then calls the Adelphi Hotel and speaks “in an upper-class educated voice”.[^11] In _Portrait_, a version of this scene was situated in the middle of Scene Two.[^12] Kon created this new opening in order to bring the audience’s immediate attention to Emily’s linguistic code-switching and make them laugh.[^13]
@@ -117,13 +117,16 @@ One of the attractions of the play is its ability to foster community bonding. I
 Community bonding also took place within the play between Emily and the audience as well as among the audience, and it left a deep impression on me. I was thrilled to see Emily suddenly approaching the audience during the market scene. In another scene, during the birthday party for Richard, the entire audience was invited to sing “Happy Birthday” to him. It was truly amazing to feel that, by seeing Emily coming down to us and by singing for her son, I was being included in her huge multiracial and multicultural community. 
 
 ![](/images/Vol%2020%20Issue%202/Emily/img9.png)
-<div style="background-color:white;">The three Emilys in <i>Emily: The Musical</i> presented by Musical Theatre Ltd in May 2016 and directed by Sonny Lim with music by Desmond Moey. (From left) Karen Lim as old Emily, Melissa Wei-En Hecker as little Emily and April Kong as adult Emily. <i>Image reproduced from the programme booklet of Emily: The Musical.</i></div> 
+<div style="background-color:white;">The three Emilys in <i>Emily: The Musical</i> presented by Musical Theatre Ltd in May 2016 and directed by Sonny Lim with music by Desmond Moey. (From left) Karen Lim as old Emily, Melissa Wei-En Hecker as little Emily and April Kong as adult Emily. <i>Image reproduced from the programme booklet of Emily: The Musical.</i></div>
+
+<img src="/images/Vol%2020%20Issue%202/Emily/music_score_2.jpg" style="width: 90%;">
+<div style="background-color: white;">The first two pages of the music score for “Love Was I All Wanted”, the theme song of&nbsp;<i>Emily: The Musical</i>&nbsp;presented by Musical Theatre Ltd in May 2016. Music by Desmond Moey and lyrics by Stella Kon.&nbsp;<i>Image reproduced from the programme booklet of Emily: The Musical.</i></div>
 
 Since 2024 is the 40th anniversary of Emily’s debut on the stage, it is also perhaps a good time for me, and for audiences in Malaysia and Singapore, to send birthday wishes to Emily, both the character and the play. Happy birthday _Emily_! Here’s to another 40 years! Or as the Peranakans would say at auspicious occasions: “_Panjang-panjang umor!_ [Long life!]”
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <b></b>
-In 1987, Stella Kon donated early drafts of her iconic play, <i>Emily of Emerald Hill</i>, to the National Library as well as a notebook in which she had jotted down some initial thoughts and ideas for the play. These include the very first draft titled <i>Portrait of a Nonya: A Monodrama</i> and the fourth draft, <i>Emily of Emerald Hill</i>. She followed up with another donation in 2015 of 39 manuscripts and typescripts of her other plays. These items can be viewed via walk-in requests at the Level 11 Information Counter of the Lee Kong Chian Reference Library, National Library Building, or upon prior reservation via the catalogue.<br></div>
+In 1987, Stella Kon donated early drafts of her iconic play, <i>Emily of Emerald Hill</i>, to the National Library as well as a notebook in which she had jotted down some initial thoughts and ideas for the play. These include the very first draft titled <i>Portrait of a Nonya: A Monodrama</i> and the fourth draft, <i>Emily of Emerald Hill</i>. She followed up with another donation in 2015 of 39 manuscripts and typescripts of her other plays. These items can be viewed via walk-in requests at the Level 11 Information Counter of the Lee Kong Chian Reference Library, National Library Building, or upon prior reservation via the catalogue.<br>
 	
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/Eriko.png">
@@ -217,4 +220,4 @@ In 1987, Stella Kon donated early drafts of her iconic play, <i>Emily of Emerald
 
 [^43]: Correspondence with Chin San Sooi, 15 July 2023.
 
-[^44]: Correspondence with Woo Yee Saik, 13 March 2024.
+[^44]: Correspondence with Woo Yee Saik, 13 March 2024.</div>
