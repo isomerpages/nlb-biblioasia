@@ -6,6 +6,7 @@ description: The 1970s are often remembered as a time of rapid economic
   transformation and progress for Singapore, but this period also saw communist
   bombings, assassination plots and covert information wars.
 image: /images/Vol 18 Issue 2/Red terror/Red terror - Image 1.png
+variant: markdown
 ---
 #### The 1970s are often remembered as a time of rapid economic transformation and progress for Singapore, but this period also saw communist bombings, assassination plots and covert information wars. 
 By Choo Ruizhi
@@ -181,7 +182,7 @@ The communist threat, though diminished, persisted until 2 December 1989 when th
 
 [^33]: Chin, Ward and Miraflor, [*My Side of History*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12106841), 450.
 
-[^34]: [Eu Chooi Yip (余柱业)](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/2/21c329bd-115e-11e3-83d5-0050568939ad-OHC001359_019/web/html5/index.html), oral history interview by 林孝胜, 25 September 1992, transcript and MP3 audio, Reel 19 of 23, 30:32, National Archives of Singapore (accession no. 001359).
+[^34]: [Eu Chooi Yip (余柱业)](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/21c329bd-115e-11e3-83d5-0050568939ad-OHC001359_019/web/html5/index.html), oral history interview by 林孝胜, 25 September 1992, transcript and MP3 audio, Reel 19 of 23, 30:32, National Archives of Singapore (accession no. 001359).
 
 [^35]: Eddie C.Y. Kuo, “Multilingualism and Mass Media Communications in Singapore”, *Asian Survey* 18, no. 10 (October 1978): 1067–83. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
