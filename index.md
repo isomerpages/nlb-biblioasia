@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
-      button: Wat Ananda Provides Thai Buddhism with a Singaporean Twist
+      button: At Wat Ananda, Thai Buddhism with a Singaporean Twist
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
