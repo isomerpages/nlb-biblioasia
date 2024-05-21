@@ -11,13 +11,13 @@ By Joanna Tan
 
 Back in 1974, Singapore was a very different place. At the time, Benjamin Sheares was president, Changi Airport didn’t exist, and colour TV was just getting started. That was what things were like when the first cable cars began operations here, shuttling people from Mount Faber to Sentosa.
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img1.jpg)
+<div style="background-color: white;">Cable cars along the Mount Faber Line linking Mount Faber and Sentosa, c. 1975. These are the first- generation cars. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 To people back then, it must have seemed futuristic, to be suspended some 60 m in the air, travelling across the sea to get to a small island that, only three years before, had been known as Pulau Blakang Mati. Even if one discounted the novelty of the ride, the cable car offered something quite unique: an unmatched view.
 
 “We have a magnificent natural harbour, one of the finest in the world,” noted Deputy Prime Minister and Minister for Defence Goh Keng Swee when he officially opened the service on 15 February 1974. “A ride in a cable car – and I must not detain you longer than is necessary before you experience this for yourself – will provide the visitor with a magnificent panorama of the harbour. It will, I hope, at the same time make Singaporeans more conscious and more proud of their city state, whose economic life blood flows through this great port of ours.”[^1]
-
-
-![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img1.jpg)
-<div style="background-color: white;">Cable cars along the Mount Faber Line linking Mount Faber and Sentosa, c. 1975. These are the first- generation cars. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 
@@ -110,12 +110,11 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 
 #### **Notes**
-[^1]: Goh Keng Swee, “[Speech by Dr Goh Keng Swee, Deputy Prime Minister and Minister of Defence at the Official Opening Ceremony of the Cable Car System on Friday, 15th February, 1974 at 4.30 pm at Mount Faber](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c3d7e2f-115d-11e3-83d5-0050568939ad),” transcript, National Archives of Singapore (document no. PressR19740215a)
+[^1]: Goh Keng Swee, “[Speech by Dr Goh Keng Swee, Deputy Prime Minister and Minister of Defence at the Official Opening Ceremony of the Cable Car System on Friday, 15th February, 1974 at 4.30 pm at Mount Faber,](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c3d7e2f-115d-11e3-83d5-0050568939ad)” transcript, National Archives of Singapore (document no. PressR19740215a)
 
 [^2]: Bailyne Sung, “[Cable Car No 1 Takes Goh Over to Sentosa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740216-1.2.16),” _Straits Times_, 16 February 1974, 1. (From NewspaperSG)
 
-[^3]: “[First Major Project in Sentosa Resort Completed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740215-1.2.45.1),” _Straits Times_,  
-15 February 1974, 8; “[1,000 Take Cable Car Rides on First Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740217-1.2.42),” _Straits Times_, 17 February 1974, 4. (From NewspaperSG)
+[^3]: “[First Major Project in Sentosa Resort Completed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740215-1.2.45.1),” _Straits Times_, 15 February 1974, 8; “[1,000 Take Cable Car Rides on First Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740217-1.2.42),” _Straits Times_, 17 February 1974, 4. (From NewspaperSG)
 
 [^4]:  “‘[Don’t Lose Faith’ Call by Goh](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740216-1.2.32),” _Straits Times_, 16 February 1974, 7. (From NewspaperSG)
 
@@ -125,8 +124,7 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 [^7]: Correspondence with Irene Chee, 5 April 2024.
 
-[^8]:  National Heritage Board, “Sentosa: A Slice of Paradise: From Military Base to Leisure Island,” Roots, last updated 25 October 2023,  
-https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
+[^8]:  National Heritage Board, “Sentosa: A Slice of Paradise: From Military Base to Leisure Island,” Roots, last updated 25 October 2023, https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
 
 [^9]:  National Heritage Board, _Sentosa Heritage Trail: A Companion Guide_ (Singapore: National Heritage Board, 2022), 51–53, https://www.roots.gov.sg/-/media/Roots/Files/Sentosa-Heritage-Trails/NHB-Sentosa-Trail\_Companion-Guide.ashx.
 
