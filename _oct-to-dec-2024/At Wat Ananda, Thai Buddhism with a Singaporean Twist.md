@@ -27,7 +27,7 @@ After you’ve made the 37 steps up the hill to reach the ornate gateway of Wat 
 
 Wat Ananda has been in Singapore for more than 100 years and that time here has left its mark. All around the temple’s compound are elements that would not normally be found in a Buddhist temple in Thailand. One obvious sign is the round, red Chinese lanterns that liberally adorn the ceilings in the compound.
 
-<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/red_lanterns_x.jpg" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/red_lanterns_xyz.jpg" style="width: 65%;">
 <div style="background-color: white;">Red Chinese lanterns hanging from the ceiling in front of the main hall, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 Then there are the many statues of Guanyin, the Chinese Goddess of Mercy, that have been placed in positions of honour. A large white statue of Guanyin is the central figure in a low building to the right of the main shrine. Next to this building is a covered porch where a smaller, but still tall, golden figure of Guanyin resides, flanked by statues of two monks. Guanyin, however, is a more common feature of Mahayana Buddhism, the school of Buddhism commonly found in countries like China, Korea and Japan.
@@ -49,7 +49,7 @@ Take the festival of Loy Krathong, which is celebrated all over Thailand and usu
 
 At the 2023 celebration of the festival on 26 November, Luang Phor Amnuay – “Luang Phor” means “Venerable Father” and is a title used for senior monks – invited visitors to buy and float _krathong_ costing $20 each in a large, mustard-coloured inflatable pool. Swirling around in the pool under clear, blue skies, the _krathong_ felt no tug of a natural stream. This was in sharp contrast to the _krathong_ in Thailand that were floated that evening under darker skies, riding on currents towards the mouth of the Chao Phraya River.
 
-<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mustard_pool_x.jpg" style="width: 65%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mustard_coloured_pool_xyz.png" style="width: 65%;">
 <div style="background-color: white;">The mustard-coloured inflatable pool holding the <i>krathong</i>, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
 On that day, Thais visited Wat Ananda to socialise and make some merit, while Singaporeans, mostly of Chinese descent, seem more focused on attaining better fortune by praying in front of the inflatable pool. &nbsp;&nbsp;A carnival-like atmosphere hung over Wat Ananda, similar to the temples in provincial Thailand.
