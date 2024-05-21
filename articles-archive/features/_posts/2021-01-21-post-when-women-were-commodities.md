@@ -3,10 +3,11 @@ title: When Women Were Commodities
 date: 2021-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/women-w-commodities/
 layout: post
+variant: markdown
 ---
 #### Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. **Adeline Foo** examines the lives of the unfortunate girls and women who were sold into prostitution.
 
-<img   style="width: 320px; height: 420px;" src="/images/Vol-15-issue-4/when-women-were-commodities/w1.JPG">
+<img style="width: 320px; height: 420px;" src="/images/Vol-15-issue-4/when-women-were-commodities/w1.JPG">
 <div style="background-color: white;">A late-19th century portrait of a <i>pipa tsai</i> (Cantonese for “little pipa player”). The <i>pipa</i>, or Chinese lute, is a pear-shaped four-stringed musical instrument made of wood. These girls were trained to play the instrument and sing to entertain men in clubs and brothels in Singapore. In some cases, the <i>pipa tsai</i> were forced into prostitution. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 “I went a few times because of my youthful follies, to see those girls being sold to the brothels. The auction took place in front of the go-downs at the port. The *zegen* [pimp] took the girls out of the hold, ordered them to change their clothes and lined them up in front of a warehouse. The brothel-owners bought them on the spot in [the] auction. Good looking girls were priced between one and two thousand yen, and ordinary girls from four to five hundred yen.”[^1]
@@ -41,7 +42,7 @@ Japanese prostitutes, known as *karayuki-san*, operated within the Japanese encl
 
 In the Kreta Ayer/Chinatown area, Chinese brothels catered to a largely different clientele. In addition to brothels that served the average worker, there were high-class ones that were visited by rich patrons who had their favourite prostitutes.
 
-<img  style="width: 300px; height: 420px;" src="/images/Vol-15-issue-4/when-women-were-commodities/redxx.JPG">
+<img style="width: 300px; height: 420px;" src="/images/Vol-15-issue-4/when-women-were-commodities/redxx.JPG">
 <div style="background-color: white;">A portrait of a <i>karayuki-san</i> with her hair let down, 1890s. <i>Gretchen Liu Collection, courtesy of National Archives of Singapore. </i></div>
 
 Historian James Warren’s in-depth study of life in Singapore brothels pieced together the practices of women in the profession by, among other things, examining information from coroner’s records and inquests as well as interviewing people who lived close to where the brothels were. His research unveiled intimate details such as how older women in the brothel prepared virgins for their first sexual experience. Warren also learned of their beauty secrets that included washing one’s face with powder ground from raw rice instead of cheap scented soap.
@@ -172,7 +173,7 @@ is a scriptwriter and an adjunct lecturer. Her research interests include women,
 [^13]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 358.
 [^14]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 366–367.
 [^15]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 258.
-[^16]:Lim, H.S. (Interviewer). (1980, February 5). [*Oral history interview with Choong Keow Chye 钟桥才*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/d/dff1fea4-115d-11e3-83d5-0050568939ad-OHC000015_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)  [Transcript of recording no. 000015/2/1, p. 8]. Retrieved from National Archives of Singapore website. 
+[^16]:Lim, H.S. (Interviewer). (1980, February 5). [*Oral history interview with Choong Keow Chye 钟桥才*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/dff1fea4-115d-11e3-83d5-0050568939ad-OHC000015_001/web/html5/index.html)  [Transcript of recording no. 000015/2/1, p. 8]. Retrieved from National Archives of Singapore website. 
 [^17]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, pp. 60–61. 
 [^18]:[Warren](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11827062), 2003, p. 279.
 [^19]:Koh, C.C. (1994). Implementing government policy for the protection of women and girls in Singapore: Recollections of a social worker (p. 125). In M. Jaschok &amp; S. Miers. (Eds.). (1994). [*Women &amp; Chinese patriarchy: Submission, servitude, and escape*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7193205). Hong Kong: Hong Kong University Press: London; Atlantic Highlands, N.J.: Zed Books. (Call no.: RSING 305.420951 WOM)
