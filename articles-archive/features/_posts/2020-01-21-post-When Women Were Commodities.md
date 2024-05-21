@@ -1,9 +1,11 @@
 ---
 title: When Women Were Commodities
-date: 2021-01-21
+date: 2020-01-21
 permalink: /vol-15/issue-4/jan-mar-2020/women-w-commodities/
 layout: post
 variant: markdown
+description: ""
+image: ""
 ---
 #### Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. **Adeline Foo** examines the lives of the unfortunate girls and women who were sold into prostitution.
 
