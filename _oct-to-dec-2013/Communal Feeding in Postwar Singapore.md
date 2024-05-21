@@ -6,6 +6,7 @@ description: The colonial government’s communal feeding programme was a novel
   Japanese Occupation, and laid the foundation for the basis of social welfare
   schemes in Singapore.
 image: /images/vol-9-issue-3/communal-feeding/C2.jpg
+variant: markdown
 ---
 #### The colonial government’s communal feeding programme was a novel response to chronic food shortages and malnutrition in the aftermath of the Japanese Occupation, and laid the foundation for social welfare schemes in Singapore.
 
@@ -200,8 +201,8 @@ Zhou, M. (1996). [*The life and family planning pioneer, Constance Goh: Point of
 [^2]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460627-1.2.15), 27 Jun 1946, p. 2; Malayan Union. The wages and cost of living committee. (1946). *The interim report of the wages and cost of living committee*. Singapore: G.P.O. 
 [^3]:Vernon, J. (2007). *Hunger: A modern history* (pp. 160–161). England: The Belknap Press of Harvard University Press. (Not available in NLB holdings)
 [^4]:Vernon, 2007, pp. 181, 187.
-[^5]:Tan, L. (Interviewer). (1984, April 17). [*Oral history interview with Tan Beng Neo*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/44a93e59-115f-11e3-83d5-0050568939ad-OHC000371_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=15) [Transcript of MP3 recording no. 000371/26/16, p. 249]. Retrieved from National Archives of Singapore website; Wong, H.S. (2009). [*Wartime kitchen: Food and eating in Singapore 1942–1950*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872) (p. 83). Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON).
-[^6]:[*Oral history interview with Tan Beng Neo*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/4/44a93e59-115f-11e3-83d5-0050568939ad-OHC000371_016/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=15), 17 Apr 1984; [Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872), 2009, p. 83.
+[^5]:Tan, L. (Interviewer). (1984, April 17). [*Oral history interview with Tan Beng Neo*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/44a93e59-115f-11e3-83d5-0050568939ad-OHC000371_016/web/html5/index.html) [Transcript of MP3 recording no. 000371/26/16, p. 249]. Retrieved from National Archives of Singapore website; Wong, H.S. (2009). [*Wartime kitchen: Food and eating in Singapore 1942–1950*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872) (p. 83). Singapore: National Museum of Singapore and Editions Didier Millet. (Call no.: RSING 641.30095957 WON).
+[^6]:[*Oral history interview with Tan Beng Neo*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/44a93e59-115f-11e3-83d5-0050568939ad-OHC000371_016/web/html5/index.html), 17 Apr 1984; [Wong](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13158872), 2009, p. 83.
 [^7]:[Cheap lunch from today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460629-1.2.55). (1946, June 29). *The Straits Times*, p. 5. Retrieved from NewspaperSG. 
 [^8]:Singapore. Department of Social Welfare. (1947). [*Beginnings: The first report of the Singapore Department of Social Welfare, June to December 1946*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461) (p. 22). Singapore: Department of Social Welfare. (Call no.: RRARE 361.6 SIN; Microfilm no.: NL28506).
 [^9]:[Singapore. Department of Social Welfare](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12447461), 1947, pp. 23–24.

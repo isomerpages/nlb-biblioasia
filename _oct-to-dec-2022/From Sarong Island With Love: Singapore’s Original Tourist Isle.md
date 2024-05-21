@@ -174,7 +174,7 @@ Survey Department, Singapore, <i><a href="https://www.nas.gov.sg/archivesonline/
 
 [^16]: R. Chandran, “[All Set for Opening of Sarong Island](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670920-1.2.31),” *Straits Times*, 20 September 1967, 7; “[Page 6 Advertisements Column 2](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671118-1.2.50.2),” *Straits Times*, 18 November 1967, 6 (From NewspaperSG); “[Brilliant Backdrop Sets Mood](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670923-1.2.61).”
 
-[^17]: [Mrs Santha Baskar](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/b/b9e0760c-1161-11e3-83d5-0050568939ad-OHC003390_005/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=1), oral history interview by Nur Azlin Salem, 23 September 2009, transcript and MP3 audio, Reel/Disc 5 of 8, 56:48, National Archives of Singapore (accession no. 004011), 166–67.
+[^17]: [Mrs Santha Baskar](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/b9e0760c-1161-11e3-83d5-0050568939ad-OHC003390_005/web/html5/index.html), oral history interview by Nur Azlin Salem, 23 September 2009, transcript and MP3 audio, Reel/Disc 5 of 8, 56:48, National Archives of Singapore (accession no. 003390), 166–67.
 
 [^18]: [Daniel Koh Yew Bin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e9434feb-d77c-11e4-859c-0050568939ad), oral history interview by Mark Wong, 24 March 2015, MP3 audio, Reel/Disc 6 of 13, 39:19, National Archives of Singapore (accession no. 004011).
 
