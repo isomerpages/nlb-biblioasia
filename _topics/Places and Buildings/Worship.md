@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/">Wat Ananda Provides Thai Buddhism with a Singaporean Twist</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/">**At Wat Ananda, Thai Buddhism with a Singaporean Twist**</a>
 
 Despite the golden stupa and ornate roofs that indicate this is a Thai Buddhist temple, the Singaporean influences are not hard to spot at Wat Ananda Metyarama.
 
