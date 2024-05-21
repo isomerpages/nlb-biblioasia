@@ -114,8 +114,7 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 [^2]: Bailyne Sung, “[Cable Car No 1 Takes Goh Over to Sentosa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740216-1.2.16),” _Straits Times_, 16 February 1974, 1. (From NewspaperSG)
 
-[^3]: “[First Major Project in Sentosa Resort Completed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740215-1.2.45.1),” _Straits Times_,  
-15 February 1974, 8; “[1,000 Take Cable Car Rides on First Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740217-1.2.42),” _Straits Times_, 17 February 1974, 4. (From NewspaperSG)
+[^3]: “[First Major Project in Sentosa Resort Completed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19740215-1.2.45.1),” _Straits Times_, 15 February 1974, 8; “[1,000 Take Cable Car Rides on First Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740217-1.2.42),” _Straits Times_, 17 February 1974, 4. (From NewspaperSG)
 
 [^4]:  “‘[Don’t Lose Faith’ Call by Goh](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740216-1.2.32),” _Straits Times_, 16 February 1974, 7. (From NewspaperSG)
 
@@ -125,8 +124,7 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 [^7]: Correspondence with Irene Chee, 5 April 2024.
 
-[^8]:  National Heritage Board, “Sentosa: A Slice of Paradise: From Military Base to Leisure Island,” Roots, last updated 25 October 2023,  
-https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
+[^8]:  National Heritage Board, “Sentosa: A Slice of Paradise: From Military Base to Leisure Island,” Roots, last updated 25 October 2023, https://www.roots.gov.sg/stories-landing/stories/sentosa/story.
 
 [^9]:  National Heritage Board, _Sentosa Heritage Trail: A Companion Guide_ (Singapore: National Heritage Board, 2022), 51–53, https://www.roots.gov.sg/-/media/Roots/Files/Sentosa-Heritage-Trails/NHB-Sentosa-Trail\_Companion-Guide.ashx.
 
