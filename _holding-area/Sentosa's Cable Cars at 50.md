@@ -11,13 +11,13 @@ By Joanna Tan
 
 Back in 1974, Singapore was a very different place. At the time, Benjamin Sheares was president, Changi Airport didn’t exist, and colour TV was just getting started. That was what things were like when the first cable cars began operations here, shuttling people from Mount Faber to Sentosa.
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img1.jpg)
+<div style="background-color: white;">Cable cars along the Mount Faber Line linking Mount Faber and Sentosa, c. 1975. These are the first- generation cars. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 To people back then, it must have seemed futuristic, to be suspended some 60 m in the air, travelling across the sea to get to a small island that, only three years before, had been known as Pulau Blakang Mati. Even if one discounted the novelty of the ride, the cable car offered something quite unique: an unmatched view.
 
 “We have a magnificent natural harbour, one of the finest in the world,” noted Deputy Prime Minister and Minister for Defence Goh Keng Swee when he officially opened the service on 15 February 1974. “A ride in a cable car – and I must not detain you longer than is necessary before you experience this for yourself – will provide the visitor with a magnificent panorama of the harbour. It will, I hope, at the same time make Singaporeans more conscious and more proud of their city state, whose economic life blood flows through this great port of ours.”[^1]
-
-
-![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img1.jpg)
-<div style="background-color: white;">Cable cars along the Mount Faber Line linking Mount Faber and Sentosa, c. 1975. These are the first- generation cars. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 
