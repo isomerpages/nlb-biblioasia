@@ -47,6 +47,10 @@ The development of the 1.75-kilometre-long cable car system linking Mount Faber 
 
 Three stations were constructed: on Mount Faber, at Jardine Steps (now known as HarbourFront Tower 2) and on Sentosa island. Two supporting towers were also built to support the station buildings – one on Seah Im Road and the other on Pulau Selegu.[^16] (Today, this island is no longer visible as together with Sarong Island, it was merged with Sentosa through a land reclamation project in the late 1970s.[^17]) The cost of constructing the infrastructures and facilities for the system came up to about $5.8 million.[^18]
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img7.jpg)
+<div style="background-color: white;">View of the supporting tower Pulau Selugu from a SkyOrb cabin fitted with a glass-bottomed floor, 2024. <i>Photo by Jimmy Yap.</i></div>
+
+
 The cable car system was an immediate hit and within three years, it clocked more than 2.3 million riders. Besides tourists and Singaporeans from all walks of life, foreign dignitaries were also treated to a ride on the cable car. Lord Louis Mountbatten, the last Viceroy of British India, hopped into one in March 1974.[^19]
 
 The cable car was also featured on the popular TV series _Hawaii Five-O_. In an episode, which aired in 1979, Steve McGarrett, the main protagonist played by Jack Lord, is in hot pursuit of a villain, and this chase involved swinging precariously from the cable car wire.[^20]
@@ -106,6 +110,10 @@ In March 2024, seven futuristic-looking cabins were added to the existing fleet 
 
 ![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img4.jpg)
 <div style="background-color: white;">Cable cars along the Mount Faber Line linking Mount Faber and Sentosa, 2024. Seen here are the new SkyOrb cabins and other cars dressed in the Pokémon motif. <i>Photo by Jimmy Yap.</i></div>
+
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img8.jpg)
+<div style="background-color: white;">View of Adventure Cove Waterpark from a SkyOrb cabin fitted with a glass-bottomed floor, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 
 
