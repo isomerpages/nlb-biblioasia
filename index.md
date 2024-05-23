@@ -1016,4 +1016,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: Sentosa’s Cable Cars at 50
+      subtitle: Local Icons
+      id: infopic
+      description: As Singapore’s cable car system commemorates 50 years of service,
+        we look back at the journey of this iconic attraction that has brought
+        joy to many a rider.
+      button: AN AERIAL RIDE
+      url: /vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/
+      image: /images/Vol 20 Issue 2/Cable Cars/mt_faber_cable_car.jpg
+      alt: Image alt text
 ---
