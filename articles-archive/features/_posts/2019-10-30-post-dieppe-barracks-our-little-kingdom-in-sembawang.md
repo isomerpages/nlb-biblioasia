@@ -3,6 +3,7 @@ title: "Dieppe Barracks: “Our Little Kingdom” in Sembawang"
 date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/dieppe-barracks/
 layout: post
+variant: markdown
 ---
 #### Military camps and training areas comprise a significant portion of Singapore’s land use. What can a single camp tell us about Singapore’s geopolitical history? A lot, as it turns out, says **Chua Jun Yan**.
 
@@ -103,7 +104,7 @@ I myself completed national service in Dieppe Barracks from 2018 to 2019, and in
 [^5]:Schreiner, C.W., Jr. (1973). The Dieppe Raid: Its origins, aims, and results. *Naval War College Review, 25* (5), 83–97. Retrieved from JSTOR via NLB’s [eResoruces](https://eresources.nlb.gov.sg/main) website.
 [^6]:The Normandy landings, codenamed Operation Neptune and commonly known as D-Day, refer to the Allied invasion of Normandy on the northern coast of France on 6 June 1944. The operation liberated France and later western Europe from Nazi control.
 [^7]:Churchill, W. (1950). [*The hinge of fate*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203024968) (p. 459). Boston: Houghton Mifflin. (Call no.: RCLOS 940.53 CHU-[JSB]). The other titles in the six-volume series, “The Second World War”, are: *The Gathering Storm* (vol. 1), *Their Finest Hour* (vol. 2), *The Grand Alliance* (vol. 3), *Closing the Ring* (vol. 5), and *Triumph and Tragedy* (vol. 6).
-[^8]:Lim, I.A.L. (Interviewer). (1990, January 16). [*Oral history interview with Chris Manning-Press (Lieutenant-Colonel)*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/1/1e89d79f-115e-11e3-83d5-0050568939ad-OHC001146_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 001146/3/2, p. 32]. Retrieved from National Archives of Singapore website.
+[^8]:Lim, I.A.L. (Interviewer). (1990, January 16). [*Oral history interview with Chris Manning-Press (Lieutenant-Colonel)*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/984840a4-115f-11e3-83d5-0050568939ad-OHC001146_002/web/html5/index.html) [Transcript of recording no. 001146/3/2, p. 32]. Retrieved from National Archives of Singapore website.
 [^9]:Ministry of Culture. (1975, April 7). [*Transcript of question-and-answer session following the prime minister’s address to the New Zealand National Press Club in Wellington on 7 April 1975.*](http://www.nas.gov.sg/archivesonline/speeches/record-details/73b14518-115d-11e3-83d5-0050568939ad) Retrieved from National Archives of Singapore website.
 [^10]:McCraw, D. (2012). Staying in Singapore? New Zealand’s Third Labour Government and the retention of military Forces in Southeast Asia. *New Zealand Journal of Asian Studies, 14* (1), 1–17. Retrieved from New Zealand Journal of Asian Studies website.
 [^11]:Kutty, N.G. (1979, April 15). [Treat for 51 Viet refugees on their way to Auckland](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790415-1.2.37). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
