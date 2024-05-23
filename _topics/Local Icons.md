@@ -4,6 +4,12 @@ permalink: /topics/local-icons/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/">Sentosa’s Cable Cars at 50</a>
+As Singapore’s cable car system commemorates 50 years of service, we look back at the journey of this iconic attraction that has brought joy to many a rider.
+
+<img src="/images/Vol%2019%20Issue%204/Salvation%20Army/salvationarmy.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/salvation-army-singapore/">The Salvation Army in Singapore</a>
 The history of the Salvation Army in Singapore goes back to at least 1935.
 
