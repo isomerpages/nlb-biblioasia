@@ -1026,5 +1026,5 @@ sections:
       button: AN AERIAL RIDE
       url: /vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/
       image: /images/Vol 20 Issue 2/Cable Cars/mt_faber_cable_car.jpg
-      alt: Image alt text
+      alt: Cable Cars
 ---
