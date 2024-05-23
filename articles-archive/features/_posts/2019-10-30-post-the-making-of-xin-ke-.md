@@ -3,6 +3,7 @@ title: The Making of Xin Ke (新客)
 date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/the-making-of-xin-ke/
 layout: post
+variant: markdown
 ---
 #### This 1927 silent Chinese movie is the first feature film to be made in Singapore and Malaya. **Jocelyn Lau** traces its genesis with researcher Toh Hun Ping and translation editor Lucien Low.
 
@@ -278,8 +279,8 @@ However, even before the screening began, an announcement was made, causing much
 <img style="width: 550px; height: 350px;" src="/images/Vol-15-issue-3/the-making-of-xin-ke/XinKe8.JPG">
 <div style="background-color: white;">The only extant still from <i>Xin Ke</i> showing Shen Huaqiang playing the flute while sisters Zhang Huimei and Zhang Huizhen look on admiringly, all three oblivious to the fuming Gan Fusheng (standing). <i>Sin Kuo Min Press</i>, 5 February 1927, p. 15. <i>Courtesy of NUS Libraries.</i></div>
  
-<table span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
-	<tr>
+<table span="" style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block;">
+	<tbody><tr>
     <td><b>THE CAST OF CHARACTERS</b></td>
   </tr>
 	<tr>
@@ -359,7 +360,7 @@ However, even before the screening began, an announcement was made, causing much
 <td>Zhang Qinghua (张清华)</td>
 <td>Guest (贺客)</td>
 </tr>
-	</table>
+	</tbody></table>
 
 For silent films produced in the 1920s, one standard reel of 1,000 ft (305 m) of 35 mm film ran at approximately 16 frames per second, which meant that each reel was around 15 minutes long. The exclusion of three entire reels caused about 45 minutes of the film to be excised. Not surprisingly, the removal of the film’s conclusion affected the storyline and cast a pall on the viewing experience.
 
@@ -394,7 +395,7 @@ This essay is abridged from the recently published book, <i>Xin Ke: The Story of
 [^6]:Vinegar is a diluted form of acetic acid that was added to latex so that it would coagulate.
 [^7]:The Istana Besar, also known as the Grand Palace, was the 19th- and early 20th-century residence of the Sultan of Johor. Built in 1866 by Sultan Abu Bakar (1833–95), the palace overlooks the straits of Johor and Singapore.
 [^8]:Peranakan men are known as *baba*, while the women are referred to as *nonya*. In this context, the reference is to Peranakans in general.
-[^9]:Tan, B.L. (Interviewer). (1982, December 30). [*Oral history interview with Liu Kang 刘抗*](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/e/e0716362-115d-11e3-83d5-0050568939ad-OHC000171_032/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) [Transcript of recording no. 000171/74/32, pp. 293–297]. Retrieved from National Archives of Singapore website.
+[^9]:Tan, B.L. (Interviewer). (1982, December 30). [*Oral history interview with Liu Kang 刘抗*](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e0716362-115d-11e3-83d5-0050568939ad-OHC000171_032/web/html5/index.html) [Transcript of recording no. 000171/74/32, pp. 293–297]. Retrieved from National Archives of Singapore website.
 [^10]:Liu, B.J. (1926, July 20). 《破天荒:南洋刘贝锦自制影片公司宣言》 [Manifesto: A public notice by Nanyang Liu Beijin Independent Film Production Company]. *Sin Kuo Min Press*, p. 12. (Microfilm no.: NL33031)
 [^11]:《南洋刘贝锦自制影片公司启事》 [Notice from Nanyang Liu Beijin Independent Film Production Company]. (1927, March 1). *Sin Kuo Min Press*, p. 6. (Microfilm no.: NL33031) Preview or test screenings were usually held prior to the general release of a film to gauge audience response and might lead to changes in the film, such as the title, music and scenes. However, the “preview” screening of *Xin Ke* functioned more like a premiere as it was held in a grand venue with the cast, crew and press in attendance.
 [^12]:*Sin Kuo Min Press*, 1 Mar 1927, p. 6; Extract from 《显微镜》 [Microscope]. (1927, March 12). The Joke of Xin Ke. *Marlborough Weekly*, 23, p. 2 (Part 1); 《显微镜》 [Microscope]. (1927, March 19). *Marlborough Weekly*, 24, p. 2 (Part 2). (Not available in NLB holdings)

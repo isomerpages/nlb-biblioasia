@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Sentosa's Cable Cars at 50.md
       - "Sea Snail & Papaya Curry: A Eurasian Specialty.md"
       - The Scoop on Otak Blangah.md
       - Example Title.md

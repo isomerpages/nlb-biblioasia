@@ -1,6 +1,6 @@
 ---
 title: Sentosa's Cable Cars at 50
-permalink: /holding-area/permalink/sentosascablecar/
+permalink: /vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/
 variant: markdown
 description: As Singapore’s cable car system commemorates 50 years of service,
   we look back at the journey of this iconic attraction that has brought joy to
@@ -23,6 +23,10 @@ To people back then, it must have seemed futuristic, to be suspended some 60 m i
 
 After his speech, Goh and his wife rode in the bright yellow Cable Car No. 1 across the harbour to Sentosa and was all smiles as he looked down at the panoramic view below. At the end of the journey, he told the _Straits Times_ that “he had enjoyed the ride very much and that it was as good as any he had taken abroad”.[^2] &nbsp;
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+<div style="background-color: white;">Deputy Prime Minister and Minister for Defence Goh Keng Swee taking the cable car to Sentosa, 1974. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 Such was the novelty of the ride that his endorsement was probably unnecessary. The next day, when it opened to the public, more than 1,000 people jostled for the opportunity to get into a cable car cabin and ride it for the 8.5 minutes it took to get from Mount Faber to Sentosa.[^3] They paid $4 for a round trip.[^4]
 
 By the end of 1974, close to 750,000 people had taken a ride on it and long snaking queues around the cable car station were a common sight.[^5] “Coming from a small town in Malaysia on a night train then, riding on the cable car was like an airplane ride for me back in the 1970s,” recalled Chan Sook Han.[^6]
@@ -43,6 +47,10 @@ The development of the 1.75-kilometre-long cable car system linking Mount Faber 
 
 Three stations were constructed: on Mount Faber, at Jardine Steps (now known as HarbourFront Tower 2) and on Sentosa island. Two supporting towers were also built to support the station buildings – one on Seah Im Road and the other on Pulau Selegu.[^16] (Today, this island is no longer visible as together with Sarong Island, it was merged with Sentosa through a land reclamation project in the late 1970s.[^17]) The cost of constructing the infrastructures and facilities for the system came up to about $5.8 million.[^18]
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img7.jpg)
+<div style="background-color: white;">View of the supporting tower on Pulau Selugu from a SkyOrb cabin fitted with a glass-bottomed floor, 2024. <i>Photo by Jimmy Yap.</i></div>
+
+
 The cable car system was an immediate hit and within three years, it clocked more than 2.3 million riders. Besides tourists and Singaporeans from all walks of life, foreign dignitaries were also treated to a ride on the cable car. Lord Louis Mountbatten, the last Viceroy of British India, hopped into one in March 1974.[^19]
 
 The cable car was also featured on the popular TV series _Hawaii Five-O_. In an episode, which aired in 1979, Steve McGarrett, the main protagonist played by Jack Lord, is in hot pursuit of a villain, and this chase involved swinging precariously from the cable car wire.[^20]
@@ -57,6 +65,11 @@ For the first nine years, the system operated without any major incidents. But t
 
 
 The top of its derrick (the tower) collided with the cableway causing two cable cars, numbers 20 and 35, to dislodge and fall 55 metres into the waters below. Two other cars were stranded precariously over land while another two were suspended over water.&nbsp;
+
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img6.jpg)
+<div style="background-color: white;">The derrick of the&nbsp;<i>Eniwetok</i>&nbsp;became entangled with the cableway after the collision, 1983. <i>Captain R.F. Short Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 One of them, car number 26, was half-way across the harbour when the accident happened. The force of the collision shook the car violently and two adults and a 22-month-old toddler were flung out, leaving four more passengers in the cabin.[^21] Seven people died as a result of the accident, but another 13 remained trapped in four cabins suspended in the air.
 
@@ -99,6 +112,10 @@ In March 2024, seven futuristic-looking cabins were added to the existing fleet 
 <div style="background-color: white;">Cable cars along the Mount Faber Line linking Mount Faber and Sentosa, 2024. Seen here are the new SkyOrb cabins and other cars dressed in the Pokémon motif. <i>Photo by Jimmy Yap.</i></div>
 
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img8.jpg)
+<div style="background-color: white;">View of Adventure Cove Waterpark from a SkyOrb cabin fitted with a glass-bottomed floor, 2024. <i>Photo by Jimmy Yap.</i></div>
+
+
 
 Over the last five decades, Sentosa’s cable cars have established themselves as a familiar landmark to those who pass along Telok Blangah Road. Yet despite the familiarity, it is still a major draw, offering as it does, a unique perspective of the harbour and Singapore’s coastline. The service’s commitment to constant upgrading and improvement will undoubtedly enable these cable cars to continue soaring.
 
@@ -110,7 +127,7 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 
 #### **Notes**
-[^1]: Goh Keng Swee, “[Speech by Dr Goh Keng Swee, Deputy Prime Minister and Minister of Defence at the Official Opening Ceremony of the Cable Car System on Friday, 15th February, 1974 at 4.30 pm at Mount Faber,](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c3d7e2f-115d-11e3-83d5-0050568939ad)” transcript, National Archives of Singapore (document no. PressR19740215a)
+[^1]: Goh Keng Swee, “[Speech by Dr Goh Keng Swee, Deputy Prime Minister and Minister of Defence at the Official Opening Ceremony of the Cable Car System on Friday, 15th February, 1974 at 4.30 pm at Mount Faber](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c3d7e2f-115d-11e3-83d5-0050568939ad),” transcript, National Archives of Singapore (document no. PressR19740215a)
 
 [^2]: Bailyne Sung, “[Cable Car No 1 Takes Goh Over to Sentosa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740216-1.2.16),” _Straits Times_, 16 February 1974, 1. (From NewspaperSG)
 
@@ -120,7 +137,7 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 [^5]:  “[Singapore Orders a Dozen More Cable Cars](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740410-1.2.21.17),” _New Nation_, 10 April 1974, 3. (From NewspaperSG); Marcus Ng Fu Chuan, [_A Ride to Remember: The Story of Mount Faber and Singapore Cable Car_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13698674) (Singapore: Mount Faber Leisure Group, 2012), 38. (From National Library, Singapore, call no. RSING 915.957 NG-TRA\])
 
-[^6]: Lim Yann Ling, “[_A Ropeway of Special Memories_](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140301-1.2.111.2),” _Straits Times_, 1 March 2014, 3. (From NewspaperSG)
+[^6]: Lim Yann Ling, “[A Ropeway of Special Memories](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140301-1.2.111.2),” _Straits Times_, 1 March 2014, 3. (From NewspaperSG)
 
 [^7]: Correspondence with Irene Chee, 5 April 2024.
 
