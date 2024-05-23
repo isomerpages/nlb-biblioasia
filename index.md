@@ -25,7 +25,7 @@ sections:
         joy to many a rider.
       button: AN AERIAL RIDE
       url: /vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/
-      image: /images/Vol 20 Issue 2/Cable Cars/mt_faber_cable_car.jpg
+      image: /images/Vol 20 Issue 2/Cable Cars/mt_faber_cable_car_topics.jpg
       alt: Cable Cars
   - infopic:
       title: The Chinese Vegetarian Foodscape of the 1950s–60s
