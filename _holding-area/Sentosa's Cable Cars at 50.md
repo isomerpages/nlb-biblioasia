@@ -62,6 +62,11 @@ For the first nine years, the system operated without any major incidents. But t
 
 The top of its derrick (the tower) collided with the cableway causing two cable cars, numbers 20 and 35, to dislodge and fall 55 metres into the waters below. Two other cars were stranded precariously over land while another two were suspended over water.&nbsp;
 
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img6.jpg)
+<div style="background-color: white;">The derrick of the&nbsp;<i>Eniwetok</i>&nbsp;became entangled with the cableway after the collision, 1983. <i>Captain R.F. Short Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 One of them, car number 26, was half-way across the harbour when the accident happened. The force of the collision shook the car violently and two adults and a 22-month-old toddler were flung out, leaving four more passengers in the cabin.[^21] Seven people died as a result of the accident, but another 13 remained trapped in four cabins suspended in the air.
 
 The rescue team, led by Colonel Lee Hsien Loong, Chief of Staff of the Singapore Armed Forces (SAF) (he would later become prime minister), weighed various options to reach the trapped passengers. These included the use of a fire brigade snorkel ladder for the cars over land and a floating crane for the two over water; deploying commandos to crawl along the cableway and attach pulleys to the cables to lower the passengers individually; and using military helicopters in a mid-air rescue. As the ladder and crane were not tall enough, the team rescue decided on the helicopters to lower winchmen into the cable cars to bring the passengers up. The commandos were the backup plan in case this option failed.[^22]
