@@ -4,6 +4,7 @@ permalink: /vol-18/issue-3/oct-dec-2022/family-planning-singapore/
 description: Singapore’s family planning programme did not start with the “Stop
   at Two” policy in 1972, but goes back even earlier to 1949.
 image: /images/Vol 18 Issue 3/Family Planning/Cover.png
+variant: markdown
 ---
 #### Singapore’s family planning programme did not start with the “Stop at Two” policy in 1972, but goes back even earlier to 1949. 
 By Andrea Kee
@@ -151,7 +152,7 @@ The falling birth rate continues to be a matter of concern, engendering issues o
 
 [^14]: [Mrs Uma Rajan](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3e2fc594-1160-11e3-83d5-0050568939ad), oral history interview by Patricia Lee, 11 December 1999, MP3 audio, Reel/Disc 2 of 4, 31:36, National Archives of Singapore, accession no. 001985)
 
-[^15]: [Mary Hee Sook Yin](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/f/ff38d619-115f-11e3-83d5-0050568939ad-OHC002206_008/web/html5/index.html), oral history interview by Patricia Lee, 20 September 1999, transcript and MP3 audio, Reel/Disc 8 of 11, 29:12, National Archives of Singapore, accession no. 002206), 135–36. 
+[^15]: [Mary Hee Sook Yin](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/ff38d619-115f-11e3-83d5-0050568939ad-OHC002206_008/web/html5/index.html), oral history interview by Patricia Lee, 20 September 1999, transcript and MP3 audio, Reel/Disc 8 of 11, 29:12, National Archives of Singapore, accession no. 002206), 135–36. 
 
 [^16]: [Mary Hee Sook Yin](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/5/520c876f-115e-11e3-83d5-0050568939ad-OHC002206_009/web/html5/index.html), oral history interview by Patricia Lee, 20 September 1999, transcript and MP3 audio, Reel/Disc 9 of 11, 30:25, National Archives of Singapore, accession no. 002206), 141–42. 
 
