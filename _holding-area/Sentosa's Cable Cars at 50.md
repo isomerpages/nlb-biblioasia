@@ -23,6 +23,10 @@ To people back then, it must have seemed futuristic, to be suspended some 60 m i
 
 After his speech, Goh and his wife rode in the bright yellow Cable Car No. 1 across the harbour to Sentosa and was all smiles as he looked down at the panoramic view below. At the end of the journey, he told the _Straits Times_ that “he had enjoyed the ride very much and that it was as good as any he had taken abroad”.[^2] &nbsp;
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+<div style="background-color: white;">Deputy Prime Minister and Minister for Defence Goh Keng Swee taking the cable car to Sentosa, 1974. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 Such was the novelty of the ride that his endorsement was probably unnecessary. The next day, when it opened to the public, more than 1,000 people jostled for the opportunity to get into a cable car cabin and ride it for the 8.5 minutes it took to get from Mount Faber to Sentosa.[^3] They paid $4 for a round trip.[^4]
 
 By the end of 1974, close to 750,000 people had taken a ride on it and long snaking queues around the cable car station were a common sight.[^5] “Coming from a small town in Malaysia on a night train then, riding on the cable car was like an airplane ride for me back in the 1970s,” recalled Chan Sook Han.[^6]
