@@ -11,16 +11,16 @@ variant: markdown
 
 <a style="text-decoration: none; font-weight: bold;" href="/holding-area/director-note/">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">From Betty of Balmoral Road to Emily of Emerald Hill: A New Look at Stella Kon’s Classic Play</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/">From Betty of Balmoral Road to Emily of Emerald Hill: A New Look at Stella Kon’s Classic Play</a><br>
 A study of early drafts of Emily of Emerald Hil
 reveals fascinating choices and paths not taken. *Eriko Ogihara-Schuck*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Sentosa’s Cable Cars at 50</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/">Sentosa’s Cable Cars at 50</a><br>
 As Singapore’s cable car system commemorates 50 years of service, we look back at the journey of this iconic attraction. *Joanna Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">The Making of the Causeway</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-malaysia-johor-causeway/">The Making of the Causeway</a><br>
 The official opening of the Causeway in 1924 marked the completion of the largest engineering project to be undertaken in Malaya at the time. 
  [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
 
