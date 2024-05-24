@@ -27,7 +27,7 @@ get notified when the next episode drops.</p>
 <br>04:32 – How the Chetti Melaka are different from and similar to other
 communities
 <br>05:19 – The importance of food culture especially in ancestor worship
-known as <em>parachu</em>
+known as <em>parachu</em> 
 <br>10:04 – The language spoken by Chetti Melaka
 <br>10:37 – The musicality of the community and a version of the song <em>Di Tanjong Katong</em> commissioned
 by the Chetti Melaka (Peranakan Indians) Association (used with permission)
@@ -38,7 +38,7 @@ about
 <br>19:59 – Tanya’s background as a Chetti Melaka
 <br>23:11 – Classic Chetti Melaka dishes
 <br>24:44 – How the Chetti Melaka <em>otak blangah</em> is different from the
-usual <em>otak-otak</em>
+usual <em>otak-otak</em> 
 <br>26:29 – Reception of the book
 <br>29:06 – A must-try and simple dish in the cookbook
 <br>29:30 – The importance of preserving heritage food
@@ -52,6 +52,11 @@ Peranakan Indian recipes, from everyday dishes to festive fare.</p>
 <h4><strong>About the Guest</strong></h4>
 <p></p>
 <h4><strong>Related Video</strong></h4>
+<p>Cracking fish bones and throwing fish patties – making <em>otak blangah</em> is
+a workout! How does this uncommon Peranakan dish taste in comparison to
+the all-familiar <em>otak-otak</em>? Tanya Pillay-Nair from the Peranakan
+Indian Association of Singapore <a href="https://biblioasia.nlb.gov.sg/videos/otak-blangah/" rel="noopener noreferrer nofollow" target="_blank">revives this old recipe</a> with
+her aunt.</p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by One Dash. The background music "Di
