@@ -57,7 +57,13 @@ Indian Association of Singapore <a href="https://biblioasia.nlb.gov.sg/videos/ot
 her aunt.</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p></p>
+<p>Peranakan Indian (Chitty Melaka) Association Singapore, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003913" rel="noopener noreferrer nofollow" target="_blank"><u>Heritage Food of the Peranakan Indians in a Chitty Melaka Kitchen</u></a></em> (Peranakan
+Indian (Chitty Melaka) Association Singapore, 2023). (From National Library,
+Singapore, call no. RSING 641.595951 PER)</p>
+<p>Chantal Sajan, “<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/life-lson-chetty-m-k/" rel="noopener noreferrer nofollow" target="_blank">Life Lessons in a Chetty Melaka Kitchen</a>,” <em>BiblioAsia</em> 14,
+no. 4 (January–March 2019).</p>
+<p>Dhoraisingam S. Samuel, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12687570" rel="noopener noreferrer nofollow" target="_blank">Peranakan Indians of Singapore and Melaka: Indian Babas and Nonyas—Chitty Melaka</a></em> (Singapore:
+Institute of Southeast Asian Studies, 2006).</p>
 <p></p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
