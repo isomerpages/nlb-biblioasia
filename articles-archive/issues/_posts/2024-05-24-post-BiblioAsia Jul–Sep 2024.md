@@ -18,3 +18,12 @@ reveals fascinating choices and paths not taken. *Eriko Ogihara-Schuck*. [(PDF)]
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Sentosa’s Cable Cars at 50</a><br>
 As Singapore’s cable car system commemorates 50 years of service, we look back at the journey of this iconic attraction. *Joanna Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">The Making of the Causeway</a><br>
+The official opening of the Causeway in 1924 marked the completion of the largest engineering project to be undertaken in Malaya at the time. 
+ [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Battling Key, Yeo Choon Song and the Roaring 20s of Singapore Boxing </a><br>
+This “noble art” became wildly popular in Singapore thanks to two Straits Chinese boxers who took on all-comers. *Abhishek Mehrotra*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
