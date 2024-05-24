@@ -2,6 +2,7 @@
 title: "The Straits Chinese Magazine: A Malayan Voice"
 permalink: /vol-7/issue-2/jul-2011/straits-chinese-magazine-malayan/
 description: ""
+variant: markdown
 ---
 #### Senior Librarian *Bonny Tan* traces the history of the influential *Straits Chinese Magazine*.
 
@@ -116,7 +117,7 @@ Chen, M.H. (1967). [_The early Chinese newspapers of Singapore 1881–1912_](htt
 
 Frost, M.R. (2005, February). Emporium in imperio: Nanyang networks and the Straits Chinese in Singapore, 1819–1914. _Journal of Southeast Asian Studies, 36_ (1), 29–66. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Frost, M.R. (2003, August). Transcultural diaspora: The Straits Chinese in Singapore, 1819–1918. _Working paper series, 10_. Retrieved from [http://www.ari.nus.edu.sg/publication\_details.asp?pubtypeid=WP&amp;pubid=169](http://www.ari.nus.edu.sg/publication_details.asp?pubtypeid=WP&amp;pubid=169)
+Frost, M.R. (2003, August). Transcultural diaspora: The Straits Chinese in Singapore, 1819–1918. _Working paper series, 10_. Retrieved from http://www.ari.nus.edu.sg/publication_details.asp?pubtypeid=WP&amp;pubid=169.
 
 Holden, P. (2009). Colonial fiction, hybrid lives: Early Singaporean fiction in The Straits Chinese Magazine (pp. 85–97). In A. Poon, P. Holden &amp; S.G.L. Lim, [_Writing Singapore: An historical anthology of Singapore literature_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13180645). Singapore: NUS Press: National Arts Council Singapore. (Call no.: RSING S820.8 WRI)
 
