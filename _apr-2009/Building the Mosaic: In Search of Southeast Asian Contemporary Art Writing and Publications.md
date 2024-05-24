@@ -85,9 +85,7 @@ Other useful web resources, which may be called “e-magazines”, have emerged 
 
 Artists themselves may have created their own websites, and these, at their best, can serve a purpose similar to personal journals or scrapbooks. Artists may also use the web as a simple shop front to promote and sell artworks, which is potentially 	useful for the collector but less so for the researcher. Online shop fronts of galleries sometimes yield important information, for example, the *Thavibu Gallery* website (<a href="https://www.thavibu.com">https://www.thavibu.com</a>) provides links to articles on Thai, Vietnamese and Burmese art, including ones from reputable print publications. The underlying purpose, of course, is to promote certain artworks and artists.
 	
-The internet also provides a platform for the amateur historian and critic via blogs, wikis and informal information collectives. These sources are the most difficult to assess in terms of authority and informativeness. It requires the researcher to know the subject well already, and be able to sift through possibly irrelevant or erroneous information to find useful areas to investigate further. It also requires the researcher to be familiar with local languages, dialects and cultural references. An interesting example of an informal information collective is the *Singapore Art* website (<a href="http://www.singaporeart.org/">http://www.singaporeart.org/</a>), which introduces itself as follows:	
-	
-*“SingaporeArt.org emerged from an artist who realized that an online art resource would be appreciated by the Singapore Arts Community, because a significant proportion of electronically posted articles and press releases were deleted over time.” (Singaporeart.org, 2007)*
+The internet also provides a platform for the amateur historian and critic via blogs, wikis and informal information collectives. These sources are the most difficult to assess in terms of authority and informativeness. It requires the researcher to know the subject well already, and be able to sift through possibly irrelevant or erroneous information to find useful areas to investigate further. It also requires the researcher to be familiar with local languages, dialects and cultural references. 
 	
 This type of web community effort is useful for information leads, but unfortunately for the researcher, its anonymous nature makes the cross-checking of information much more difficult.
 	
@@ -106,7 +104,7 @@ Secondly, all organisations producing art writing can make a concerted effort to
 Together, these two strategies focus on improving access to information, by improving the quality of the materials themselves and by making them easily available to readers. As Southeast Asian contemporary art writing and publishing evolves over time, access to this information will remain the key to its continued survival.
 
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/roberta%20balagopal.JPG">
+<img style="width: 100px; height: 100px;" src="/images/Vol%205%20Issue%201/BuildingMosaic/roberta_balagopal.png">
 <center><b>Roberta Balagopal</b><br> Senior Librarian<br>  Lee Kong Chian Reference Library<br>  National Library</center>
 
 
