@@ -162,8 +162,6 @@ Purita Kalaw-Ledesma and Amadis Ma. Guerrero, _[Edades: National Artist](https:/
 
 Richard Lim, ed., _[Singapore Artists Speak](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9080579)_ (Singapore: Raffles Editions, 1998). (Call no. RART 709.5957 SIN)
 
-Singapore Art (n.d.)., accessed 16 March 2007, [http://www.singaporeart.org/](http://www.singaporeart.org/).
-
 Singapore Art Museum, _[Modernity and Beyond: Themes in Southeast Asia Art](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8709048)_ (Singapore: Singapore Art Museum, 1996). (Call no. RART 709.59 MOD)
 
 _[South East Asian Art: A New Spirit](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8758756)_ (Singapore: Art &amp; Artist Speak, 1997). (Call no. RART 709.59 SOU)
