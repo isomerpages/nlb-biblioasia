@@ -110,7 +110,7 @@ Together, these two strategies focus on improving access to information, by impr
 
 #### **REFERENCES**
 
-“A Foot in the Malaysian Arts Scene!” _Kakiseni_ (2001–), [http://www.kakiseni.com/](http://www.kakiseni.com/).
+“A Foot in the Malaysian Arts Scene!” _Kakiseni_ (2001–), http://www.kakiseni.com/.
 
 Abdul Ghani Haji Bujang et al., _[Visual Arts in ASEAN: Continuity and Change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11327885)_ (Kuala Lumpur: ASEAN Committee on Culture and Information, 2001). (Call no. RSING 709.59 VIS)
 
