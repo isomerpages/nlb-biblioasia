@@ -4,6 +4,7 @@ date: 2017-01-06
 permalink: /vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/
 image: /images/Vol-12-issue-4/claudius-henry-thomsen/1-claudies-henry-thomsen.jpg
 layout: post
+variant: markdown
 ---
 #### Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula. **Bonny Tan** sheds light on this pioneer printer.
 
@@ -154,7 +155,7 @@ The author wishes to thank Dr John Bastin and Reverend Malcolm Tan for reviewing
 
 [^3]:Today, Lower Saxony is part of Germany although for some time in the 19th century, it was part of Denmark. This is why Thomsen is sometimes referred to as German and at other times, Danish.
 [^4]:According to A.H. Hill, Thomsen was in the Dutch East Indies prior to his arrival in Malacca in 1815 and had likely picked up Indonesian Malay there, which is distinct from the Malay spoken in the Peninsula. This may account for Thomsen’s claims in having prior knowledge of the Malay language and Abdullah’s frustrations in teaching him the language. See [Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), Jun 1955, p. 291.
-[^5]:Milner, A.C. (1981, June). [Notes on C.H. Thomsen: Missionary to the Malays](http://eresources.nlb.gov.sg/ISI/ContentPage.aspx?UUID=94ae6ca0-9c92-4f12-b0f0-9d57ea63567f). *Indonesia Circle*, 25, p. 45. Call no.: RCLOS 959.8 IC
+[^5]:Milner, A.C. (1981, June). Notes on C.H. Thomsen: Missionary to the Malays. *Indonesia Circle*, 25. Retrieved Francis and Taylor Online.
 [^6]:Philip, R. (1840). *[The life and opinions of the Rev William Milne, D.D. missionary to China](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=202651488)* (p. 197). Philadelphia: Herman Hooker. Call no.: RRARE 266.02341051 PHI
 [^7]:Morrison, E. (1839). *[Memoirs of the life and labours of Robert Morrison](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=201924906)* (Vol 1, p. 355). London: Longman, Orme, Brown, Green and Longmans. Call no.: RRARE 266.02341051092 MOR
 [^8]:[Hill](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4982709), Jun 1955, p. 17.
