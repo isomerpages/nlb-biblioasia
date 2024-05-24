@@ -9,7 +9,7 @@ variant: markdown
 ---
 <img src="/images/Vol%2020%20Issue%201/Biblioasia_20_1_cover.-png">
 
-<a style="text-decoration: none; font-weight: bold;" href="/holding-area/director-note/">Director's Note</a>
+<a style="text-decoration: none; font-weight: bold;" href="/holding-area/director-s-note/">Director's Note</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/">From Betty of Balmoral Road to Emily of Emerald Hill: A New Look at Stella Kon’s Classic Play</a><br>
 A study of early drafts of Emily of Emerald Hil
