@@ -4,6 +4,7 @@ permalink: /podcast/chinese-vegetarian-foodscape/
 variant: tiptap
 description: ""
 third_nav_title: Vegetarianism
+image: /images/Podcast/isomer_kelvin.jpg
 ---
 <p>Set up by five Buddhist women in 1946, Loke Woh Yuen was the first <a href="https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore/" rel="noopener noreferrer nofollow" target="_blank">Chinese vegetarian restaurant</a> in
 Singapore. It employed an all-female staff, was known for its popular shark’s

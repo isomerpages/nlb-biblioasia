@@ -2,6 +2,9 @@ collections:
   podcast:
     output: true
     order:
+      - Peranakan Indians/.keep
+      - Peranakan Indians/Food of the Peranakan Indians.md
+      - Peranakan Indians/Transcript.md
       - Vegetarianism/.keep
       - Vegetarianism/The Chinese Vegetarian Foodscape of the 1950s–60s.md
       - Vegetarianism/Transcript.md

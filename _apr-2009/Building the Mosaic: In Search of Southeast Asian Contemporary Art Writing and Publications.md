@@ -6,8 +6,9 @@ description: Senior Librarian and Lee Kong Chian Research Fellow Roberta
   Balagopal considers the dearth of critical published information on Southeast
   Asian contemporary visual art and artists and how to fill in that gap.
 image: /images/Vol 5 Issue 1/BuildingMosaic/contemporary indonesian painters.jpg
+variant: markdown
 ---
-#### Senior Librarian and Lee Kong Chian Research Fellow *Roberta Balagopal* considers the dearth of critical published information on Southeast Asian contemporary visual art and artists and how to fill that gap.
+#### Senior Librarian *Roberta Balagopal* considers the dearth of critical published information on Southeast Asian contemporary visual art and artists and how to fill that gap.
 
 <img src="/images/Vol%205%20Issue%201/BuildingMosaic/visualarts%20.jpg" style="width:50%;">
  <div style="background-color: white;"><i>All rights reserved, ASEAN Committee on Culture and Information, 2001.</i></div>
@@ -84,9 +85,7 @@ Other useful web resources, which may be called “e-magazines”, have emerged 
 
 Artists themselves may have created their own websites, and these, at their best, can serve a purpose similar to personal journals or scrapbooks. Artists may also use the web as a simple shop front to promote and sell artworks, which is potentially 	useful for the collector but less so for the researcher. Online shop fronts of galleries sometimes yield important information, for example, the *Thavibu Gallery* website (<a href="https://www.thavibu.com">https://www.thavibu.com</a>) provides links to articles on Thai, Vietnamese and Burmese art, including ones from reputable print publications. The underlying purpose, of course, is to promote certain artworks and artists.
 	
-The internet also provides a platform for the amateur historian and critic via blogs, wikis and informal information collectives. These sources are the most difficult to assess in terms of authority and informativeness. It requires the researcher to know the subject well already, and be able to sift through possibly irrelevant or erroneous information to find useful areas to investigate further. It also requires the researcher to be familiar with local languages, dialects and cultural references. An interesting example of an informal information collective is the *Singapore Art* website (<a href="http://www.singaporeart.org/">http://www.singaporeart.org/</a>), which introduces itself as follows:	
-	
-*“SingaporeArt.org emerged from an artist who realized that an online art resource would be appreciated by the Singapore Arts Community, because a significant proportion of electronically posted articles and press releases were deleted over time.” (Singaporeart.org, 2007)*
+The internet also provides a platform for the amateur historian and critic via blogs, wikis and informal information collectives. These sources are the most difficult to assess in terms of authority and informativeness. It requires the researcher to know the subject well already, and be able to sift through possibly irrelevant or erroneous information to find useful areas to investigate further. It also requires the researcher to be familiar with local languages, dialects and cultural references. 
 	
 This type of web community effort is useful for information leads, but unfortunately for the researcher, its anonymous nature makes the cross-checking of information much more difficult.
 	
@@ -105,13 +104,13 @@ Secondly, all organisations producing art writing can make a concerted effort to
 Together, these two strategies focus on improving access to information, by improving the quality of the materials themselves and by making them easily available to readers. As Southeast Asian contemporary art writing and publishing evolves over time, access to this information will remain the key to its continued survival.
 
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/roberta%20balagopal.JPG">
+<img style="width: 100px; height: 100px;" src="/images/Vol%205%20Issue%201/BuildingMosaic/roberta_balagopal.png">
 <center><b>Roberta Balagopal</b><br> Senior Librarian<br>  Lee Kong Chian Reference Library<br>  National Library</center>
 
 
 #### **REFERENCES**
 
-“A Foot in the Malaysian Arts Scene!” _Kakiseni_ (2001–), [http://www.kakiseni.com/](http://www.kakiseni.com/).
+“A Foot in the Malaysian Arts Scene!” _Kakiseni_ (2001–), http://www.kakiseni.com/.
 
 Abdul Ghani Haji Bujang et al., _[Visual Arts in ASEAN: Continuity and Change](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11327885)_ (Kuala Lumpur: ASEAN Committee on Culture and Information, 2001). (Call no. RSING 709.59 VIS)
 
@@ -125,7 +124,7 @@ Apinan Poshyananda, _[Modern Art in Thailand: Nineteenth and Twentieth Centuries
 
 [_Art and AsiaPacific Quarterly Journal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6581536) (1993–). (Call no. RART 709.5 AAQJ)
 
-_Asia Art Archive_, (n.d.), accessed 16 March 2007, [http://www.aaa.org.hk/](http://www.aaa.org.hk/).
+_Asia Art Archive_, (n.d.), accessed 16 March 2007, http://www.aaa.org.hk/.
 
 _[AsianArtNews](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11017630)_ (1991–2020). (Call no. RART 709.505 AAN)
 
@@ -162,8 +161,6 @@ Peter Timms, _[What’s Wrong With Contemporary Art?](https://eservice.nlb.gov.s
 Purita Kalaw-Ledesma and Amadis Ma. Guerrero, _[Edades: National Artist](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4117439)_ (Manila: Filipinas Foundation, 1979). (Call no. RSEA 759.9599 EDA)
 
 Richard Lim, ed., _[Singapore Artists Speak](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9080579)_ (Singapore: Raffles Editions, 1998). (Call no. RART 709.5957 SIN)
-
-Singapore Art (n.d.)., accessed 16 March 2007, [http://www.singaporeart.org/](http://www.singaporeart.org/).
 
 Singapore Art Museum, _[Modernity and Beyond: Themes in Southeast Asia Art](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8709048)_ (Singapore: Singapore Art Museum, 1996). (Call no. RART 709.59 MOD)
 
