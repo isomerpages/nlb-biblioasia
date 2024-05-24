@@ -27,3 +27,31 @@ The official opening of the Causeway in 1924 marked the completion of the larges
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Battling Key, Yeo Choon Song and the Roaring 20s of Singapore Boxing </a><br>
 This “noble art” became wildly popular in Singapore thanks to two Straits Chinese boxers who took on all-comers. *Abhishek Mehrotra*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Reconstructing Charles Darwin’s Lost Library </a><br>
+Tracking down every book, academic paper and article that the great scientist had owned or used was no easy task. *John van Wyhe*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">A Cool Business: The History of Ice-Making in Singapore</a><br>
+The early ice importing companies saw their profits melt away swiftly. An ice making factory, however, eventually created a business that generated sufficient cold, hard cash. *Goh Lee Kim*.
+ [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of Information About a Unique Institution  </a><br>
+Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here. *Ang Seow Leng and Seow Peck Ngiam*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Cikgu Asfiah Abdullah: A Cultural Luminary </a><br>
+This “noble art” became wildly popular in Singapore thanks to two Straits Chinese boxers who took on all-comers. *Abhishek Mehrotra*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Reconstructing Charles Darwin’s Lost Library </a><br>
+*Hidangan Warisan Kita* allowed Hajah Asfiah to achieve her dream of preserving traditional Malay recipes for posterity. *Toffa Abdul Wahed*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">A Cool Business: The History of Ice-Making in Singapore</a><br>
+The early ice importing companies saw their profits melt away swiftly. An ice making factory, however, eventually created a business that generated sufficient cold, hard cash. *Goh Lee Kim*.
+ [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of Information About a Unique Institution  </a><br>
+Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here. *Ang Seow Leng and Seow Peck Ngiam*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
