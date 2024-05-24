@@ -124,7 +124,7 @@ Apinan Poshyananda, _[Modern Art in Thailand: Nineteenth and Twentieth Centuries
 
 [_Art and AsiaPacific Quarterly Journal_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6581536) (1993–). (Call no. RART 709.5 AAQJ)
 
-_Asia Art Archive_, (n.d.), accessed 16 March 2007, [http://www.aaa.org.hk/](http://www.aaa.org.hk/).
+_Asia Art Archive_, (n.d.), accessed 16 March 2007, http://www.aaa.org.hk/.
 
 _[AsianArtNews](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11017630)_ (1991–2020). (Call no. RART 709.505 AAN)
 
