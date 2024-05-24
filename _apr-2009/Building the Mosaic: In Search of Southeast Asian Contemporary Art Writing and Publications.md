@@ -6,8 +6,9 @@ description: Senior Librarian and Lee Kong Chian Research Fellow Roberta
   Balagopal considers the dearth of critical published information on Southeast
   Asian contemporary visual art and artists and how to fill in that gap.
 image: /images/Vol 5 Issue 1/BuildingMosaic/contemporary indonesian painters.jpg
+variant: markdown
 ---
-#### Senior Librarian and Lee Kong Chian Research Fellow *Roberta Balagopal* considers the dearth of critical published information on Southeast Asian contemporary visual art and artists and how to fill that gap.
+#### Senior Librarian *Roberta Balagopal* considers the dearth of critical published information on Southeast Asian contemporary visual art and artists and how to fill that gap.
 
 <img src="/images/Vol%205%20Issue%201/BuildingMosaic/visualarts%20.jpg" style="width:50%;">
  <div style="background-color: white;"><i>All rights reserved, ASEAN Committee on Culture and Information, 2001.</i></div>
