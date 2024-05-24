@@ -45,11 +45,9 @@ usual <em>otak-otak</em>
 <br>30:11 – Food is…</p>
 <p></p>
 <h4><strong>About the Guest</strong></h4>
-<p>An Indian Peranakan, Tanya Pillay-Nair is the coordinator of the cookbook <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003913" rel="noopener noreferrer nofollow" target="_blank">Heritage Food of the Peranakan Indians in a Chitty Melaka Kitchen</a> </em>(Peranakan
+<p>A Peranakan Indian, Tanya Pillay-Nair is the coordinator of the cookbook <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003913" rel="noopener noreferrer nofollow" target="_blank">Heritage Food of the Peranakan Indians in a Chitty Melaka Kitchen</a> </em>(Peranakan
 Indian Association of Singapore, 2023). The book contains close to 100
 Peranakan Indian recipes, from everyday dishes to festive fare.</p>
-<p></p>
-<h4><strong>About the Guest</strong></h4>
 <p></p>
 <h4><strong>Related Video</strong></h4>
 <p>Cracking fish bones and throwing fish patties – making <em>otak blangah</em> is
@@ -57,6 +55,10 @@ a workout! How does this uncommon Peranakan dish taste in comparison to
 the all-familiar <em>otak-otak</em>? Tanya Pillay-Nair from the Peranakan
 Indian Association of Singapore <a href="https://biblioasia.nlb.gov.sg/videos/otak-blangah/" rel="noopener noreferrer nofollow" target="_blank">revives this old recipe</a> with
 her aunt.</p>
+<p></p>
+<h4><strong>Resources</strong></h4>
+<p></p>
+<p></p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by One Dash. The background music "Di
