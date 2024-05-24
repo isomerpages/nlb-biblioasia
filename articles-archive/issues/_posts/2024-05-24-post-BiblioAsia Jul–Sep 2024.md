@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Vol%2020%20Issue%201/Biblioasia_20_1_cover.-png">
+<img src="/images/Vol%2020%20Issue%202/Biblioasia_20_2_cover.jpg">
 
 <a style="text-decoration: none; font-weight: bold;" href="/director-s-note/">Director's Note</a>
 
