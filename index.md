@@ -1028,7 +1028,7 @@ sections:
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
   - infopic:
-      title: "Food of the Peranakan Indians "
+      title: Food of the Peranakan Indians
       subtitle: Podcast
       id: infopic
       description: Tanya Pillay-Nair talks about ancestor worship in the Chetti Melaka
@@ -1037,5 +1037,15 @@ sections:
       button: Listen to the episode
       url: /podcast/food-peranakan-indians/
       image: /images/Podcast/isomer_tanya.jpg
+      alt: Image alt text
+  - infopic:
+      title: The Scoop on Otak Blangah
+      subtitle: "VIDEO: FROM BOOK TO COOK"
+      id: infopic
+      description: How does this unique Peranakan dish compare with the all-familiar
+        otak-otak? Tanya Pillay-Nair revives this old recipe with her aunt.
+      button: WATCH THE VIDEO
+      url: /videos/otak-blangah/
+      image: "/images/Videos: From Book to Cook/5Otak Blangah/Otak_Blangah.jpg"
       alt: Image alt text
 ---
