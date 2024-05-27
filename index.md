@@ -1042,8 +1042,9 @@ sections:
       title: The Scoop on Otak Blangah
       subtitle: "VIDEO: FROM BOOK TO COOK"
       id: infopic
-      description: How does this unique Peranakan dish compare with the all-familiar
-        otak-otak? Tanya Pillay-Nair revives this old recipe with her aunt.
+      description: How does this Peranakan dish compare with otak-otak? Tanya
+        Pillay-Nair from the Peranakan Indian Association of Singapore revives
+        this old recipe with her aunt.
       button: WATCH THE VIDEO
       url: /videos/otak-blangah/
       image: "/images/Videos: From Book to Cook/5Otak Blangah/Otak_Blangah.jpg"
