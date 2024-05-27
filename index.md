@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
-      button: At Wat Ananda, Thai Buddhism with a Singaporean Twist
+      url: /vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/
+      button: Joseph Conrad’s Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/Wat Ananda/Hero_banner_Wat_Ananda.jpg
+      background: /images/Vol 20 Issue 1/Joseph Conrad/Hero_img_Joseph_Conrad.jpg
   - infopic:
       title: Sentosa’s Cable Cars at 50
       subtitle: Local Icons
