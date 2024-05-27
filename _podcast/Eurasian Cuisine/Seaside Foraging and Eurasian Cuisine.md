@@ -24,7 +24,7 @@ award La Liste.</p>
 get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Damian Talked About</strong></h4>
-<p>02:15 – Why Damian chose to cook sea snail and papaya curry on <em><a href="https://biblioasia.nlb.gov.sg/videos/sea-snail-papaya-curry/" rel="noopener noreferrer" target="_blank"><u>From Book to Cook</u></a></em>
+<p>02:15 – Why Damian chose to cook sea snail and papaya curry on <em><a href="https://biblioasia.nlb.gov.sg/videos/sea-snail-papaya-curry/" rel="noopener noreferrer" target="_blank"><u>From Book to Cook</u></a></em> 
 <br>04:26 – Foraging in the sea and on land
 <br>07:46 – His fascination with Western culture and food as a teenager
 <br>08:28 – The Malay and Peranakan version of the sea snail and papaya curry
@@ -59,13 +59,13 @@ for food on the beach as a young boy, while making an uncommon Kristang
 dish that combines two very unlikely ingredients: <a href="https://biblioasia.nlb.gov.sg/videos/sea-snail-papaya-curry/" rel="noopener noreferrer nofollow" target="_blank">sea snail and papaya</a>.</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
-<p>Peranakan Indian (Chitty Melaka) Association Singapore, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300003913" rel="noopener noreferrer nofollow" target="_blank"><u>Heritage Food of the Peranakan Indians in a Chitty Melaka Kitchen</u></a></em> (Peranakan
-Indian (Chitty Melaka) Association Singapore, 2023). (From National Library,
-Singapore, call no. RSING 641.595951 PER)</p>
-<p>Chantal Sajan, “<a href="https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/life-lson-chetty-m-k/" rel="noopener noreferrer nofollow" target="_blank"><u>Life Lessons in a Chetty Melaka Kitchen</u></a>,” <em>BiblioAsia</em> 14,
-no. 4 (January–March 2019).</p>
-<p>Dhoraisingam S. Samuel, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12687570" rel="noopener noreferrer nofollow" target="_blank"><u>Peranakan Indians of Singapore and Melaka: Indian Babas and Nonyas—Chitty Melaka</u></a></em> (Singapore:
-Institute of Southeast Asian Studies, 2006).</p>
+<p>Melissa De Silva, "<a href="https://biblioasia.nlb.gov.sg/vol-13/issue-1/apr-jun-2017/meetingwiththesea/" rel="noopener noreferrer nofollow" target="_blank">Meeting with the Sea</a>," <em>BiblioAsia </em>13
+no. 1 (April–June 2017).</p>
+<p>João Oliveira, "<a href="https://biblioasia.nlb.gov.sg/vol-19/issue-1/apr-jun-2023/portuguese-legacy-southeast-asia/" rel="noopener noreferrer nofollow" target="_blank">Portugal's Linguistic Legacy in Southeast Asia</a>," <em>BiblioAsia </em>19,
+no. 1 (April–June 2023).</p>
+<p>Quentin Pereira, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=14381647" rel="noopener noreferrer nofollow" target="_blank">Eurasian Heritage Cooking</a></em> (Singapore:
+Marshall Cavendish Cuisine, 2012). (From National Library, Singapore, call
+no. RSEA</p>
 <p></p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
