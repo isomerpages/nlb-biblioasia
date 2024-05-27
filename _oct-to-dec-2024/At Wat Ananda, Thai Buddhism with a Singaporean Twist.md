@@ -122,10 +122,10 @@ And to the right of this is the seemingly innocuous scene of people in a local _
 <img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mural_kopitiam_x.png" style="width: 70%;">
 <div style="background-color: white;">This mural of a local <i>kopitiam</i> conveys the message that drinking alcohol is considered a vice in Buddhism, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
-<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mural_wheel_x.jpg" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/WheelofLife_xyz_.jpg" style="width: 60%;">
 <div style="background-color: white;">A mural of the wheel of life found inside the main hall of the temple. It shows (from innermost to outermost layer) the three poisons of attachment, ignorance and aversion; karma or cause and effect; the six realms of existence; and the twelve links of Dependent Origination. <i>Photo by Jimmy Yap.</i></div>
 
-<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/wheeloflife_mural_x.jpg" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/WheelofLife_mural_xyz_.jpg" style="width: 60%;">
 <div style="background-color: white;">This detail from the wheel of life mural is from the fourth segment (clockwise) of the outermost layer. The scene with two men in a boat symbolises <i>namarupa</i> (“name and form”) or the constituent elements of mental and physical existence. Marina Bay Sands was added in as a local detail. <i>Photo by Jimmy Yap.</i></div>
 
 #### **Chinese-Style Columbarium**
