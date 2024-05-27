@@ -7,7 +7,7 @@ third_nav_title: Eurasian Cuisine
 ---
 <p>MasterChef Singapore judge Damian D’Silva grew up by the sea&nbsp;and
 spent many happy hours foraging&nbsp;for horseshoe crabs, shellfish and
-sea snails&nbsp;that would end up in the cooking pot. In this&nbsp;episode,
+<a href="https://biblioasia.nlb.gov.sg/videos/sea-snail-papaya-curry/" rel="noopener noreferrer nofollow" target="_blank">sea snails</a>&nbsp;that would end up in the cooking pot. In this&nbsp;episode,
 he talks about how his childhood and grandfather influenced his cooking
 philosophy, when he found his&nbsp;calling in the kitchen&nbsp;(later than
 you'd expect), and what's left for him after winning the prestigious culinary
