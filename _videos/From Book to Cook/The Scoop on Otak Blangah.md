@@ -1,8 +1,9 @@
 ---
 title: The Scoop on Otak Blangah
-permalink: /holding-area/otak-blangah/
+permalink: /videos/otak-blangah/
 variant: markdown
 description: ""
+third_nav_title: From Book to Cook
 ---
 #### Cracking fish bones and throwing fish patties – making _otak blangah_ is a workout! How does this uncommon Peranakan dish taste in comparison to the all-familiar _otak-otak_? Tanya Pillay-Nair from the Peranakan Indian Association of Singapore revives this old recipe with her aunt.
 
@@ -84,6 +85,9 @@ The recipe is published in <i>Heritage Food of the Peranakan Indians</i> (2023) 
 
 
 #### **Related Podcast**
+
+<a href="/podcast/food-peranakan-indians/">Food of the Peranakan Indians</a><br>
+Tanya Pillay-Nair talks about ancestor worship in the Chetti Melaka culture, when the community serve the dishes that the ancestors enjoyed the most.
 
 
 

@@ -9,13 +9,35 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
-      button: At Wat Ananda, Thai Buddhism with a Singaporean Twist
+      url: /vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/
+      button: Joseph Conrad’s Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/Wat Ananda/Hero_banner_Wat_Ananda.jpg
+      background: /images/Vol 20 Issue 1/Joseph Conrad/Hero_img_Joseph_Conrad.jpg
+  - infopic:
+      title: The Scoop on Otak Blangah
+      subtitle: "VIDEO: FROM BOOK TO COOK"
+      id: infopic
+      description: How does this Peranakan dish compare with otak-otak? Tanya
+        Pillay-Nair from the Peranakan Indian Association of Singapore revives
+        this old recipe with her aunt.
+      button: WATCH THE VIDEO
+      url: /videos/otak-blangah/
+      image: "/images/Videos: From Book to Cook/5Otak Blangah/Otak_Blangah.jpg"
+      alt: Image alt text
+  - infopic:
+      title: Food of the Peranakan Indians
+      subtitle: Podcast
+      id: infopic
+      description: Tanya Pillay-Nair talks about ancestor worship in the Chetti Melaka
+        culture, when the community serve the dishes that the ancestors enjoyed
+        the most.
+      button: Listen to the episode
+      url: /podcast/food-peranakan-indians/
+      image: /images/Podcast/isomer_tanya.jpg
+      alt: Image alt text
   - infopic:
       title: Sentosa’s Cable Cars at 50
       subtitle: Local Icons
