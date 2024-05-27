@@ -56,7 +56,7 @@ On that day, Thais visited Wat Ananda to socialise and make some merit, while Si
 
 “<i>Lai, lai,</i> boy,<i>lai</i>,” urged Luang Phor Amnuay. “Come, float _krathong_. Come for good luck. You, also daddy and mummy for _zuo gong_.” (_lai_ means “to come” and _zuo gong_ means “work” in Mandarin.) His rapid mishmash of Mandarin and Singlish phrases were targeted at the Singaporeans present, and not at the Thais who were at the temple that day. Noticeably, too, he did not incorporate Thai into Sanskrit chants, knowing perhaps that Thais did not see Loy Krathong as an occasion to connect with Buddhism. On that day, the Thais in attendance could be seen dancing to Thai traditional music and cheering on heavily made-up beauty pageant contestants in the parking lot. The Thais were mainly families who wanted to show their Singapore-raised children how Loy Krathong is celebrated, as well as dating couples who floated the _krathong_ for happiness and everlasting love.
 
-The unique way that Loy Krathong is celebrated in Wat Ananda encapsulates how the temple merges both its Thai and Singaporean influences to create a final product that is neither either Thai nor entirely Singaporean.
+The unique way that Loy Krathong is celebrated in Wat Ananda encapsulates how the temple merges both its Thai and Singaporean influences to create a final product that is neither Thai nor entirely Singaporean.
 
 #### **The Early Years**
 
@@ -67,7 +67,7 @@ The temple’s roots go back to the early decades of the 20th century. It was fo
 
 The Thai consulate offered Dhammaratano land beside the Thai Embassy, along today’s Orchard Road, so that he could build a temple. But as Orchard Road was not easily accessible at the time, Dhammaratano declined as he felt that it was too far from the town centre. Instead, he decided to set it up on Silat Road in what is now the Bukit Merah area.[^4] Wat Ananda Metyarama was completed in 1923, largely from the financial support of the Chinese in Singapore.
 
-Even in the early years, while it was clearly had Thai influences, the temple also served other Theravada Buddhists, notably the Buddhists among the Ceylonese community in Singapore. According to Anne M. Blackburn, who has written about Ceylonese Buddhism in colonial Singapore, “\[i\]t is likely that some among Singapore Ceylonese Buddhist population attended rituals at Wat Ananda during the 1920s”. She noted that “Wat Ananda was located close to the Spottiswoode Park and Outram Park area of Singapore, core residential areas for the city’s Ceylonese. Moreover, since Dhammaratano apparently knew Sinhala and was familiar with Ceylon’s Buddhist environment thanks to his travels, he would have been a reassuring figure to Singapore’s Ceylonese Buddhists”.[^5]
+Even in the early years, while it clearly had Thai influences, the temple also served other Theravada Buddhists, notably the Buddhists among the Ceylonese community in Singapore. According to Anne M. Blackburn, who has written about Ceylonese Buddhism in colonial Singapore, “\[i\]t is likely that some among Singapore Ceylonese Buddhist population attended rituals at Wat Ananda during the 1920s”. She noted that “Wat Ananda was located close to the Spottiswoode Park and Outram Park area of Singapore, core residential areas for the city’s Ceylonese. Moreover, since Dhammaratano apparently knew Sinhala and was familiar with Ceylon’s Buddhist environment thanks to his travels, he would have been a reassuring figure to Singapore’s Ceylonese Buddhists”.[^5]
 
 However, due to the differences between Thai (then known as Siamese) and Sinhala Pali chanting styles, that would have “reduced somewhat the comfort offered by Dhammaratatano’s ritual work”. As a result, the Ceylonese decided to worship at the Sakya Muni Buddha Gaya Temple instead, which was established on Race Course Road in 1927. Chinese Buddhists, who were more likely to have been following the Mahayana style of Buddhism, began to worship at Wat Ananda,[^6] importing the Mahayana culture and growing the temple’s Sinification.
 
@@ -122,10 +122,10 @@ And to the right of this is the seemingly innocuous scene of people in a local _
 <img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mural_kopitiam_x.png" style="width: 70%;">
 <div style="background-color: white;">This mural of a local <i>kopitiam</i> conveys the message that drinking alcohol is considered a vice in Buddhism, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
-<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mural_wheel_x.jpg" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/WheelofLife_xyz_.jpg" style="width: 60%;">
 <div style="background-color: white;">A mural of the wheel of life found inside the main hall of the temple. It shows (from innermost to outermost layer) the three poisons of attachment, ignorance and aversion; karma or cause and effect; the six realms of existence; and the twelve links of Dependent Origination. <i>Photo by Jimmy Yap.</i></div>
 
-<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/wheeloflife_mural_x.jpg" style="width: 60%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/WheelofLife_mural_xyz_.jpg" style="width: 60%;">
 <div style="background-color: white;">This detail from the wheel of life mural is from the fourth segment (clockwise) of the outermost layer. The scene with two men in a boat symbolises <i>namarupa</i> (“name and form”) or the constituent elements of mental and physical existence. Marina Bay Sands was added in as a local detail. <i>Photo by Jimmy Yap.</i></div>
 
 #### **Chinese-Style Columbarium**

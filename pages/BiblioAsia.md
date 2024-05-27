@@ -15,94 +15,95 @@ boxing superstar?</p>
 </div>
 <p></p>
 <h4><strong>Season 2</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.biblioasia.nlb.gov.sg/podcast/food-peranakan-indians/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Food of the Peranakan Indians" src="/images/Podcast/Tanya_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Food of the Peranakan Indians</div><div class="isomer-card-description">Growing up as a Chetti Melaka (Peranakan Indian), Tanya Pillay-Nair realised her family was different when she was seven or eight years old. Her family spoke Malay at home, ate sambal belacan, and had huge parties with a lot of unusual food.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/sea-foraging-eurasian-cuisine/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Seaside Foraging and Eurasian Cuisine" src="/images/Podcast/damian_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Seaside Foraging and Eurasian Cuisine</div><div class="isomer-card-description">MasterChef Singapore judge Damian D’Silva talks about how his childhood and grandfather influenced his cooking philosophy, when he found his calling in the kitchen (later than you'd expect), and what's left for him after winning the prestigious culinary award La Liste.</div><div class="isomer-card-link">Coming soon</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/food-peranakan-indians/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Chinese Vegetarian Foodscape of the 1950s–60s" src="/images/Podcast/Kelvin_Tan_600_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Food of the Peranakan Indians" src="/images/Podcast/Tanya_600_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">The Chinese Vegetarian Foodscape of the 1950s–60s</div>
-<div class="isomer-card-description">Abbess Yang Qincai of the temple Hai Inn See in Choa Chu Kang was one
-of the Buddhist women who spread vegetarianism before it became mainstream,
-though others did it through restaurants and cookbooks.</div>
+<div class="isomer-card-title">Food of the Peranakan Indians</div>
+<div class="isomer-card-description">Growing up as a Chetti Melaka (Peranakan Indian), Tanya Pillay-Nair realised
+her family was different when she was seven or eight years old. Her family
+spoke Malay at home, ate sambal belacan, and had huge parties with a lot
+of unusual food.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/hajah-asfiah-guardian-traditional-malay-culture/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hajah Asfiah: A Guardian of Traditional Malay Culture" src="/images/Podcast/Toffa_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hajah Asfiah: A Guardian of Traditional Malay Culture</div><div class="isomer-card-description">A tireless steward of Malay culture, Hajah Asfiah (1920–87) worked all her life to preserve and pass on Malay crafts.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/kampong-glam-kitchen-malay-world/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Chinese Vegetarian Foodscape of the 1950s–60s" src="/images/Podcast/Kelvin_Tan_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Chinese Vegetarian Foodscape of the 1950s–60s</div><div class="isomer-card-description">Abbess Yang Qincai of the temple Hai Inn See in Choa Chu Kang was one of the Buddhist women who spread vegetarianism before it became mainstream, though others did it through restaurants and cookbooks.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/hajah-asfiah-guardian-traditional-malay-culture/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kampong Gelam: Kitchen of the Malay World" src="/images/Podcast/Khir.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Hajah Asfiah: A Guardian of Traditional Malay Culture" src="/images/Podcast/Toffa_600_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Kampong Gelam: Kitchen of the Malay World</div>
-<div class="isomer-card-description">You hear Malay, Javanese, Tamil and Punjabi as you wander the streets
-with shops selling colourful textiles and carpets, spices and flowers.
-In this episode, Khir tells us about the Kampong Gelam (present-day Bugis)
-he grew up in.</div>
+<div class="isomer-card-title">Hajah Asfiah: A Guardian of Traditional Malay Culture</div>
+<div class="isomer-card-description">A tireless steward of Malay culture, Hajah Asfiah (1920–87) worked all
+her life to preserve and pass on Malay crafts.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/kueh-pie-tee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kueh Pie Tee: A Detective Story" src="/images/Podcast/Christopher_600_400_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kueh Pie Tee: A Detective Story</div><div class="isomer-card-description">Kueh pie tee is not a pie that goes with tea. So where did the name (and dish) come from? Award-winning cookbook author Christopher Tan combs through old newspapers and cookbooks, in search of the origins of the dish. PS: Dates back to 1570!</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/podcast/singapores-first-boxing-superstar-tan-tang-kee/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/kampong-glam-kitchen-malay-world/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kampong Gelam: Kitchen of the Malay World" src="/images/Podcast/Khir.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kampong Gelam: Kitchen of the Malay World</div><div class="isomer-card-description">You hear Malay, Javanese, Tamil and Punjabi as you wander the streets with shops selling colourful textiles and carpets, spices and flowers. In this episode, Khir tells us about the Kampong Gelam (present-day Bugis) he grew up in.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/kueh-pie-tee/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Tragedy of Singapore’s First Boxing Superstar" src="/images/Podcast/Abhishek_season2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Kueh Pie Tee: A Detective Story" src="/images/Podcast/Christopher_600_400_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">The Tragedy of Singapore’s First Boxing Superstar</div>
-<div class="isomer-card-description">Tan Teng Kee was the Mike Tyson of Singapore boxing in the 1920s. Known
-as Battling Key, the larger-than-life boxer attracted crowds wherever he
-went. Which makes his drastic downfall all the more tragic.</div>
+<div class="isomer-card-title">Kueh Pie Tee: A Detective Story</div>
+<div class="isomer-card-description">Kueh pie tee is not a pie that goes with tea. So where did the name (and
+dish) come from? Award-winning cookbook author Christopher Tan combs through
+old newspapers and cookbooks, in search of the origins of the dish. PS:
+Dates back to 1570!</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/podcast/chia-boon-leong-homegrown-football-olympian/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chia Boon Leong: The Homegrown Football Olympian" src="/images/Podcast/nick_600_400_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chia Boon Leong: The Homegrown Football Olympian</div><div class="isomer-card-description">Nicknamed “Twinkle Toes” for his agility, Chia Boon Leong (1925–2022) is widely regarded as one of Singapore‘s most talented football players. Academic and sports historian Nick Aplin talks about the footballer’s sporting achievements, his character and their friendship.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/singapore-bands-wartime-vietnam/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/podcast/singapores-first-boxing-superstar-tan-tang-kee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Tragedy of Singapore’s First Boxing Superstar" src="/images/Podcast/Abhishek_season2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Tragedy of Singapore’s First Boxing Superstar</div><div class="isomer-card-description">Tan Teng Kee was the Mike Tyson of Singapore boxing in the 1920s. Known as Battling Key, the larger-than-life boxer attracted crowds wherever he went. Which makes his drastic downfall all the more tragic.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/podcast/chia-boon-leong-homegrown-football-olympian/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore Bands in Wartime Vietnam" src="/images/Podcast/boonlai_600_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Chia Boon Leong: The Homegrown Football Olympian" src="/images/Podcast/nick_600_400_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Singapore Bands in Wartime Vietnam</div>
-<div class="isomer-card-description">In the 1960s and ’70s, lured by adventure and money, Singaporean musicians
-went to South Vietnam to perform for American troops during the war. They
-were met with cheers, bullets and assault.</div>
+<div class="isomer-card-title">Chia Boon Leong: The Homegrown Football Olympian</div>
+<div class="isomer-card-description">Nicknamed “Twinkle Toes” for his agility, Chia Boon Leong (1925–2022)
+is widely regarded as one of Singapore‘s most talented football players.
+Academic and sports historian Nick Aplin talks about the footballer’s sporting
+achievements, his character and their friendship.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Saving Singapore's Film Heritage" src="/images/Podcast/teepao.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Saving Singapore's Film Heritage</div><div class="isomer-card-description">Thanks to restoration, classic films like The Teenage Textbook Movie (1998) can still be shown on a big screen 20 years after its cinema run. On a mission to preserve Singapore's film heritage, film archivist Chew Tee Pao saves important movies and gives them a second life.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/singapore-bands-wartime-vietnam/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Bands in Wartime Vietnam" src="/images/Podcast/boonlai_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Bands in Wartime Vietnam</div><div class="isomer-card-description">In the 1960s and ’70s, lured by adventure and money, Singaporean musicians went to South Vietnam to perform for American troops during the war. They were met with cheers, bullets and assault.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Lost Gold Coins of the Old Singapore Library" src="/images/Podcast/Shu_600_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Saving Singapore's Film Heritage" src="/images/Podcast/teepao.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">The Lost Gold Coins of the Old Singapore Library</div>
-<div class="isomer-card-description">In the mid-19th century, two ancient gold coins were found near present-day
-Keppel Harbour. Unfortunately, the coins vanished before they were studied
-carefully. Their Jawi inscriptions were recorded, though they didn’t make
-sense. More than 180 years later, Foo Shu Tieng tries to solve the case.</div>
+<div class="isomer-card-title">Saving Singapore's Film Heritage</div>
+<div class="isomer-card-description">Thanks to restoration, classic films like The Teenage Textbook Movie (1998)
+can still be shown on a big screen 20 years after its cinema run. On a
+mission to preserve Singapore's film heritage, film archivist Chew Tee
+Pao saves important movies and gives them a second life.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/german-girl-shrine/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The True Story Behind Ubin's German Girl Shrine" src="/images/Podcast/william600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The True Story Behind Ubin's German Girl Shrine</div><div class="isomer-card-description">A young German girl met an untimely end on Pulau Ubin in 1914. A shrine set up in her honour becomes Internet-famous. Following a deep search into the historical records, writer and researcher William Gibson discovers some inconvenient truths behind one of Singapore’s best-known shrines.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Lost Gold Coins of the Old Singapore Library" src="/images/Podcast/Shu_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Lost Gold Coins of the Old Singapore Library</div><div class="isomer-card-description">In the mid-19th century, two ancient gold coins were found near present-day Keppel Harbour. Unfortunately, the coins vanished before they were studied carefully. Their Jawi inscriptions were recorded, though they didn’t make sense. More than 180 years later, Foo Shu Tieng tries to solve the case.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/german-girl-shrine/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artist Yip Yew Chong Paints His Story in History" src="/images/Podcast/Yew_Chong_600_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The True Story Behind Ubin's German Girl Shrine" src="/images/Podcast/william600_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Artist Yip Yew Chong Paints His Story in History</div>
-<div class="isomer-card-description">Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore” comprises 27
-scenes of 1970s–1980s Singapore, merging history, memory and nostalgia.
-Yew Chong explains how he created this work and reveals what he would love
-to paint but has not.</div>
+<div class="isomer-card-title">The True Story Behind Ubin's German Girl Shrine</div>
+<div class="isomer-card-description">A young German girl met an untimely end on Pulau Ubin in 1914. A shrine
+set up in her honour becomes Internet-famous. Following a deep search into
+the historical records, writer and researcher William Gibson discovers
+some inconvenient truths behind one of Singapore’s best-known shrines.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/yip-yew-chong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Artist Yip Yew Chong Paints His Story in History" src="/images/Podcast/Yew_Chong_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Artist Yip Yew Chong Paints His Story in History</div><div class="isomer-card-description">Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore” comprises 27 scenes of 1970s–1980s Singapore, merging history, memory and nostalgia. Yew Chong explains how he created this work and reveals what he would love to paint but has not.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 </div>
 <h4></h4>
 <h4><strong>Season 1</strong></h4>

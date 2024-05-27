@@ -2,6 +2,9 @@ collections:
   podcast:
     output: true
     order:
+      - Eurasian Cuisine/.keep
+      - Eurasian Cuisine/Seaside Foraging and Eurasian Cuisine.md
+      - Eurasian Cuisine/Transcript.md
       - Peranakan Indians/.keep
       - Peranakan Indians/Food of the Peranakan Indians.md
       - Peranakan Indians/Transcript.md
