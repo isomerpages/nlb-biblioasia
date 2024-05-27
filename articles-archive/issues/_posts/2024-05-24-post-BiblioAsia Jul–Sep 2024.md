@@ -59,8 +59,8 @@ The finger has often been pointed at Arthur E. Percival for the decision to surr
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/">Pioneering Local Journalist R.B. Ooi</a><br>
 As a reporter and editor, R.B. Ooi had numerous close brushes with death. *Linda Lim*.
- [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+[(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_RBOoi.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/new-books-singapore-history/">New Books on Singapore History</a><br>
-*An Unfinished Canvas, Singaporean Creatures* and *Knowing Singapore* are some of the new books available   at the National Library. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+*An Unfinished Canvas, Singaporean Creatures* and *Knowing Singapore* are some of the new books available   at the National Library. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_NewBooks.pdf)
