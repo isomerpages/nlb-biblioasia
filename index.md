@@ -1027,4 +1027,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: "Food of the Peranakan Indians "
+      subtitle: Podcast
+      id: infopic
+      description: Tanya Pillay-Nair talks about ancestor worship in the Chetti Melaka
+        culture, when the community serve the dishes that the ancestors enjoyed
+        the most.
+      button: Listen to the episode
+      url: /podcast/food-peranakan-indians/
+      image: /images/Podcast/isomer_tanya.jpg
+      alt: Image alt text
 ---
