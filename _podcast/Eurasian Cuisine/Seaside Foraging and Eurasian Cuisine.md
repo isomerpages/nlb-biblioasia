@@ -50,10 +50,7 @@ to be awarded the prestigious culinary prize Artisan &amp; Authenticity
 Award 2024 from La Liste, a French ranking and restaurants guide. An advocate
 for local culinary heritage, he helms Rempapa, a multicultural restaurant
 serving dishes from the ethnicities in Singapore.</p>
-<p>
-<br>
-</p>
-<h4><strong>Related Video</strong></h4>
+<h4><br><strong>Related Video</strong></h4>
 <p>MasterChef Singapore judge Damian D’Silva tells us what it’s like foraging
 for food on the beach as a young boy, while making an uncommon Kristang
 dish that combines two very unlikely ingredients: <a href="https://biblioasia.nlb.gov.sg/videos/sea-snail-papaya-curry/" rel="noopener noreferrer nofollow" target="_blank">sea snail and papaya</a>.</p>
