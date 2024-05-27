@@ -22,9 +22,9 @@ the cookbook containing traditional recipes of the Chetti Melaka community.&nbsp
 </div>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
-<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts </u>
-</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia+-2115156" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u></a>.</p>
+<p>Available on: <a href="https://open.spotify.com/episode/6zKQ6rZ3Gypb3uQhO5m4Qk" rel="noopener noreferrer nofollow" target="_blank"><u>Spotify</u></a>,
+<a href="https://podcasts.apple.com/us/podcast/food-of-the-peranakan-indians/id1688142751?i=1000656849529" rel="noopener noreferrer nofollow" target="_blank"><u>Apple Podcasts </u>
+</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Food-of-the-Peranakan-Indians-2495586" rel="noopener noreferrer nofollow" target="_blank"><u>melisten</u></a>.</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
