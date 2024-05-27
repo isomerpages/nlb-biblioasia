@@ -46,15 +46,16 @@ The early ice importing companies saw their profits melt away swiftly. An ice ma
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/">The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of Information About a Unique Institution  </a><br>
-Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here. *Ang Seow Leng and Seow Peck Ngiam*. 
+Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here. *Ang Seow Leng and Seow Peck Ngiam*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_HokkienHuayKuanCollection.pdf)
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary </a><br>
-*Hidangan Warisan Kita* allowed Hajah Asfiah to achieve her dream of preserving traditional Malay recipes for posterity. *Toffa Abdul Wahed*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+*Hidangan Warisan Kita* allowed Hajah Asfiah to achieve her dream of preserving traditional Malay recipes for posterity. *Toffa Abdul Wahed*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_Asfiah.pdf)
+
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/men-surrender-singapore-japanese-occupation/">The Other Men Who Surrendered Singapore </a><br>
-The finger has often been pointed at Arthur E. Percival for the decision to surrender on 15 February 1942. However, he did not make the decision alone. *Phan Ming Yen*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
+The finger has often been pointed at Arthur E. Percival for the decision to surrender on 15 February 1942. However, he did not make the decision alone. *Phan Ming Yen*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_MenWhoSurrenderedSingapore.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/">Pioneering Local Journalist R.B. Ooi</a><br>
