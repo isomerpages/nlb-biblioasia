@@ -33,7 +33,8 @@ This year, aside from collecting, preserving and presenting memories on its digi
 
 #### **You’ve Got Mail! Singapore’s First Postmaster General**
 
-<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg"><div style="background-color: white;"> (Left) Mr Bala Supramaniam, Singapore’s first Postmaster General, with his wife during the interview. (Right) Mr Supramaniam's hands.</div>	 <br><br>	
+<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg">
+<div style="background-color:white;"> (Left) Mr Bala Supramaniam, Singapore’s first Postmaster General, with his wife during the interview. (Right) Mr Supramaniam's hands.</div><br><br>	
 
 “<i>I started in 1936 when I joined the post office. At that time, Singapore was under the Postmaster General based at the headquarters in Kuala Lumpur. During the Japanese Occupation, there was no foreign mail service, only internal mail service or to Malaysia. The mail to Malaysia was censored. We had nothing to do with the censorship. The censorship was carried out by the Japanese officers. The savings bank service was continued and we continued to withdraw money from the post office savings bank but we were paid in Japanese Yen</i>.
       <br><br>
