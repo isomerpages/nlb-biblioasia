@@ -149,7 +149,7 @@ Choosri is not alone in seeing Wat Ananda as place for promoting religious harmo
 
 “The temple has a relationship with Singaporeans, encouraging cooperation and mutual understanding through activities such as banquets for the elderly. The Thais residing and working in Singapore would come to serve the food, sing and create an ambience that fosters camaraderie.&nbsp;Every three months, the temple organises special activities. Volunteers bring food and rice to distribute to the elderly. Volunteers write to them to ask what they need, and the temple provides the supplies according to their wishes,” said Phramaha Rian&nbsp;Manone Yang, Assistant Chief Abbott and the temple's Honorary Secretary.[^20]
 
-Liow Kok Ann, a volunteer treasurer with the temple for nine years said: “It is a safe spiritual space not only for the Thais but also for the local communities to come together and appreciate and explore the different aspects of Thai culture and Buddhism.”[^21]&nbsp;<br>
+Said Liow Kok Ann, a volunteer treasurer with the temple for nine years: “It is a safe spiritual space not only for the Thais but also for the local communities to come together and appreciate and explore the different aspects of Thai culture and Buddhism.”[^21]&nbsp;<br>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/thammika.png"><b>Thammika Songkaeo</b> is a Thai resident of Singapore and the creative producer of Changing Room (www.twoglasses.org), a dance film and interactive screening experience. Thammika holds a Master of Fine Arts degree in creative writing from Vermont College of Fine Arts. She is also an alumna of Williams College in Massachusetts and the University of Pennsylvania.</div>
