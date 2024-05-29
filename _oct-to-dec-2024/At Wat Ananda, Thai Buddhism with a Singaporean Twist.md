@@ -41,7 +41,7 @@ Then there are the many statues of Guanyin, the Chinese Goddess of Mercy, that h
 <img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/guangyin_statue_x.jpg" style="width: 65%;">
 <div style="background-color: white;">A statue of Guanyin outside the main shrine, 2024. <i>Photo by Jimmy Yap.</i></div>
 
-Wat Ananda may be known as a Thai temple but it definitely shows signs of being localised. Although older Thais still show up in traditional Thai costume on religious occasions, the temple has become a place for Singaporeans to get a dose of Theravada Buddhism and the Land of Smiles all at once. Even <i>what</i> the temple celebrates and how it celebrates those occasions have been adapted to local culture and customs, and Singaporeans’ cravings for blessings.
+Wat Ananda may be known as a Thai temple but it definitely shows signs of being localised. Although older Thais still show up in traditional Thai costume on religious occasions, the temple has become a place for Singaporeans to get a dose of Theravada Buddhism and the Land of Smiles all at once. Even <i>what</i> the temple celebrates and <i>how</i> it celebrates those occasions have been adapted to local culture and customs, and Singaporeans’ cravings for blessings.
 
 #### **Loy Krathong**
 
