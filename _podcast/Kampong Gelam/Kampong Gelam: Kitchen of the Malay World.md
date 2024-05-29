@@ -6,10 +6,10 @@ description: ""
 third_nav_title: Kampong Gelam
 image: /images/Podcast/isomer_home_khir.jpg
 ---
-<p>You hear Malay, Javanese, Tamil and Punjabi as you wander the streets
-with shops selling colourful textiles and carpets, spices and flowers.
-Here you find different curries and bread, <em>nasi padang</em>, <em>sup tulang</em>, <em>mee siam</em>,
-a Javanese kitchen, Hainanese coffeeshops and more. Bookstores sell literature
+<p>You would hear Malay, Javanese, Tamil and Punjabi as you wandered the
+streets with shops selling colourful textiles and carpets, spices and flowers.
+Here you would find different curries and bread, <em>nasi padang</em>, <em>sup tulang</em>, <em>mee siam</em>,
+a Javanese kitchen, Hainanese coffeeshops and more. Bookstores sold literature
 and newspapers as far away as Cairo. In this episode, award-winning author
 Khir Johari talks about the Kampong Gelam that he grew up in.</p>
 <div class="iframe-wrapper">
