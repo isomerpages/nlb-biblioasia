@@ -35,7 +35,7 @@ Born in Singapore, Miao Xiu (under the pseudonym Wen Renjun) clearly expressed s
 
 The majority of dialect segments in Chinese fiction from this period appear in dialogues, in apparent mimicry of the parole of locals, although they were occasionally found in the main narrative. Cantonese was frequently used, likely because it was one of the most widely spoken dialects among the ethnic Chinese in Malaya. Miao Xiu’s family, for instance, hailed from Canton (Guangzhou today) and was almost certainly conversant in Cantonese. Cantonese is also more readily representable in writing as compared to, say, Hokkien, as it has its own unique set of characters used alongside standard characters. Cantonese words were often peppered throughout the text, although it was not uncommon for entire stretches of dialogue to be in Cantonese, particularly for characters from the working class (characters who were intellectuals generally did not converse in Chinese dialects). Apart from Cantonese, Hokkien and colloquial Malay words also popped up, contributing to the rich linguistic texture of the literary language.
 
-  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/Miao_Xiu_1_edited.jpg" style="width: 65%;">
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/Miao_Xiu_1_edited.jpg" style="width: 45%;">
 
 <div style="background-color: white;">Miao Xiu’s writings often feature Chinese dialects and colloquial expressions. <i>Image reproduced from Singapore Literary Pioneers Gallery Guide (Singapore: National Library Board Singapore, 2006), 43. (From National Library, Singapore, call no. S809 SIN).</i></div>
 
