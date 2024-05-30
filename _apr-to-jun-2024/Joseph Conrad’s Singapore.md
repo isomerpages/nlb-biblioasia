@@ -158,7 +158,7 @@ These characters and places eventually end up populating _Almayer’s Folly_, Co
 
 [^10]: Joseph Conrad, _The Rescue: A Romance of the Shallows_ (London; Toronto: J.M. Dent &amp; Sons Ltd., 1920), 95. (From National Library, Singapore, call no. RCLOS 823.912 CON-\[SEA\])&nbsp; Norman Sherry, “Conrad and the S.S.Vidar,” _Review of English Studies_ 14, no. 54 (May, 1963): 158. (From JSTOR via NLB’s eResources website)
 
-[^11]: Norman Sherry, “Conrad and the S.S.Vidar,” [_Review of English Studies_](https://eservice.nlb.gov.sg/main) 14, no. 54 (May, 1963): 158. (From JSTOR via NLB’s eResources website)
+[^11]: Norman Sherry, “Conrad and the S.S.Vidar,” [_Review of English Studies_](https://eresources.nlb.gov.sg/main) 14, no. 54 (May, 1963): 158. (From JSTOR via NLB’s eResources website)
 
 [^12]: “Vidar,” Tyne Built Ships, last accessed 30 November 2023, http://www.tynebuiltships.co.uk/V-Ships/vidar1871.html.
 
@@ -166,7 +166,7 @@ These characters and places eventually end up populating _Almayer’s Folly_, Co
 
 [^14]: Conrad, [_Tales of an Eastern Port_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205931254), 139.
 
-[^15]: Norman Sherry, “‘Exact Biography’ and The Shadow-Line,” _PMLA_ 79, no. 5 (December 1964): 620–25. (From JSTOR via NLB’s [eResources](https://eservice.nlb.gov.sg/main) website); “Joseph Conrad Collection,” Archives at Yale, last accessed 3 January 2024, https://archives.yale.edu/repositories/11/resources/588.
+[^15]: Norman Sherry, “‘Exact Biography’ and The Shadow-Line,” _PMLA_ 79, no. 5 (December 1964): 620–25. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website); “Joseph Conrad Collection,” Archives at Yale, last accessed 3 January 2024, https://archives.yale.edu/repositories/11/resources/588.
 
 [^16]: Conrad, [_Tales of an Eastern Port_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205931254), 142.
 
