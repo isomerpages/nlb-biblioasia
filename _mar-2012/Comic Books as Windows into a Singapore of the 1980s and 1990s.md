@@ -217,12 +217,12 @@ Troy Chin’s <em>The Resident Tourist</em>, then <em>Mr Kiasu</em> highlights
 the commercial viability of doing comics in Singapore. This viability is
 further underscored by the current success of Sonny Liew, who makes a more
 than decent living by drawing for DC and Marvel Comics, and also that of
-Otto Fong and his <em>Adventures in Science</em> series. &lt;br&gt;</p>
+Otto Fong and his <em>Adventures in Science</em> series. </p>
 <p>Both <em>Unfortunate Lives</em> and <em>Mr Kiasu</em> present a slice of the
 political and social milieu of Singapore in the late 1980s and 1990s. The
 Singapore Memory Project, spearheaded by the National Library Board, was
 launched last year to capture and document the memories of Singapore and
-Singaporeans. Comic books are a natural medium to do just that. &lt;br&gt;</p>
+Singaporeans. Comic books are a natural medium to do just that. </p>
 <p>The National Library Board started building its comics collection in 1999
 with the opening of library@orchard on the top floor of Ngee Ann City.
 The idea for starting such a collection came out of a desire to offer something
@@ -230,7 +230,7 @@ different at the new library in the heart of Orchard Road, and capturing
 the youth market was a key consideration. Following the successful introduction
 of comics in the library@orchard, comics collections were rolled out at
 other public libraries islandwide and the genre has steadily risen in popularity
-among library users. &lt;br&gt;
+among library users. 
 <br>
 <br>
 </p>
@@ -261,7 +261,7 @@ reviewing this article.</p>
 <p><strong>Lim Cheng Tju</strong>
 <br>Country Editor (Singapore), <em>International Journal of Comic Art</em>
 </p>
-<h4><strong>REFERENCES</strong></h4>
+<h4><strong>REFERENCE</strong></h4>
 <p>Lim, C.T. (1995). <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=7679709" rel="noopener noreferrer nofollow" target="_blank">Cartoons of lives, mirrors of our times: History of political cartoons in Singapore 1959–1995</a>.</em> Singapore:
 Department of History, National University of Singapore. (Call no.: RSING
 q741.595957 LIM)</p>
