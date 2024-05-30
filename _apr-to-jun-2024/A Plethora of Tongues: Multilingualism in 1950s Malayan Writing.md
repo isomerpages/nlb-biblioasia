@@ -57,7 +57,7 @@ In a forum article published in the *Nanyang Siang Pau* on 7 July 1954, one read
 
 Chinese writers were not alone in experimenting with the linguistic medium of the literary arts. In the realm of Anglophone writing in Malaya, a similar development was taking place. Amid the rise of a Malayan consciousness, a group of young students at the University of Malaya came up with the novel idea of amalgamating the various languages spoken in the region to create a synthetic medium for English-language poetry. Most prominent among these young advocates was Wang Gungwu, who would later become one of the most influential historians of the Chinese diaspora.
 
-  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/wgw_mu_1950.jpg" style="width: 75%;">
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/wgw_mu_1950.jpg" style="width: 55%;">
 
 <div style="background-color: white;">Wang Gungwu (pictured here in 1950) is the author of <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/pulse-malayan-literature-wang-gung-wu/"><i>Pulse</i></a>&nbsp;and a much-lauded scholar today. <i>Courtesy of Professor Wang Gungwu.</i></div>
 
