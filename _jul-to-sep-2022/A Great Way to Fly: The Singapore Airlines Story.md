@@ -177,7 +177,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^23]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 5 Sep 2000, 16.
 
-[^24]: Lee Kuan Yew, [*From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=9981172) (Singapore: Times Editions: Singapore Press Holdings, 2000), 229. (From National Library, Singapore, call no. RSING 959.57092 LEE); [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
+[^24]: Lee Kuan Yew, [*From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=9981172) (Singapore: Times Editions: Singapore Press Holdings, 2000), 229. (From National Library, Singapore, call no. RSING 959.57092 LEE); [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
 
 [^25]: Ken Hickson, [*Mr SIA: Fly Past*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=201057444) (Singapore: World Scientific Publishing, 2014), 83–84; [Lim](https://www.nas.gov.sg/archivesonline/Flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 17.
 
