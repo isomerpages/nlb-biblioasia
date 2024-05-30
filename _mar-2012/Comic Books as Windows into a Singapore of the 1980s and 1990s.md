@@ -244,14 +244,14 @@ Aoyama dominated the top 30 most-read lists in the earlier years together
 with a smattering of English titles such as <em>Garfield</em> and <em>Hellboy</em>.
 However, in 2009 and 2010, English-language comics such as <em>The Amazing Spider-Man</em>, <em>The Mighty Avengers</em> and
 game-based adaptations like <em>World of Warcraft</em> began appearing in
-the lists of popular comics. &lt;br&gt;
+the lists of popular comics. 
 <br>
 </p>
 <p>Besides building its print collection, the National Library Board has
 also been offering comics electronically through databases such as I-Manga
 and OverDrive, which are available from its eResources website (http://eresources.nlb.gov.sg).
 Although library@orchard closed in 2007, comics have become a staple of
-the National Library Board’s collection. &lt;br&gt;
+the National Library Board’s collection.
 <br>
 <br><em>Sebastian Song, Lynn Koh, Roy See and Reena Kandoth, National Library Board</em>
 </p>
