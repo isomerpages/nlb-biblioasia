@@ -119,7 +119,7 @@ To the right of the houses is a large colonial-style bungalow, with luxury cars 
 
 And to the right of this is the seemingly innocuous scene of people in a local _kopitiam_ (coffeeshop) having a meal and drinking beer. This scene reminds us again of what Buddhism defines as a vice: alcohol. Vices, on this plane of birth, are everywhere.
 
-<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/mural_kopitiam_x.png" style="width: 70%;">
+<img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/new_Mural_kopitiam_xyz.jpg" style="width: 70%;">
 <div style="background-color: white;">This mural of a local <i>kopitiam</i> conveys the message that drinking alcohol is considered a vice in Buddhism, 2023. <i>Photo by Thammika Songkaeo.</i></div>
 
 <img src="/images/Vol%2020%20Issue%203/Wat%20Ananda/WheelofLife_xyz_.jpg" style="width: 60%;">
