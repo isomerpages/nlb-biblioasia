@@ -334,17 +334,17 @@ this sea snail curry, how to cook it? And somebody somehow has got this
 recipe right from, you know, National Library [and National] Archives.&nbsp;</p>
 <p><strong>Jimmy</strong> 
 <br>Or the BiblioAsia website.&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>Exactly. There’s so much about Singapore that you can go, you know, especially
 the coastal areas. Walk to the mudflats and wait for the low tide. Just
 go walk and see what you can find, right? And you can forage and you find
 something, you know, get excited even if it’s one gastropod, it doesn’t
 matter.&nbsp;</p>
 <p>That’s why I do what I do, Jimmy.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>You know, you set up a restaurant, Rempapa. It specialises in heritage
 cuisine. Why is heritage cuisine important?&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>It’s who we are. It’s what comprises the different ethnicities that, you
 know, that embrace Singapore: Chinese, Malay, Indian, Peranakan and Eurasian.
 I mean, Eurasian wasn’t there, you know, maybe up to the ’80s, because
@@ -370,11 +370,11 @@ When I went to my Indian friends’ homes, I would eat <em>putu mayam</em> with
 curry. Occasionally I ate it with brown sugar. I wanted to understand their
 culture, right? To the extent, right, that during seventh month right,
 I would actually be involved sometimes in the festivities.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Even right now we don’t see that many Eurasian restaurants in Singapore.
 How would you describe or define Eurasian cuisine? How would you distinguish
 it from Malay or Peranakan cuisine?&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>I think there are many facets of Eurasian cuisine, right? And it depends
 how far back you go, right? If you look at Eurasian, I think what you need
 to establish is what is the ethnicity, what is his background. So, for
@@ -405,11 +405,11 @@ I mean, it’s been there long enough. And I always tell people, you know,
 if it’s a sea, if it’s a food that’s derived from the sea, you can rest
 assured that it’s been there for quite a long time because that was the
 predominant protein that was eaten 400 or 500 years ago.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>You’re the judge on MasterChef Singapore. You run this very famous restaurant
 Rempapa and you’re the first person to win a prestigious artisanal and
 authenticity award from La Liste. So, what is left for Damian De Silva?&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>Make money. Because if Damian doesn’t make money, the restaurant cannot
 continue. You know, there are people out there that don’t understand how
 much is required to run a restaurant. It’s a lot of money, trust me. You
@@ -441,11 +441,11 @@ if I want to make sure Rempapa lasts another 10, 20, 30 years down the
 road, even when I’m not around, I have to instill a sense of pride, a sense
 of dedication, a sense of love in the team that I have, to ensure that
 this is going to continue for another 30, 40 years.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>One way to preserve that legacy that you have, Damian, is to unlock all
 that knowledge and put it in a book. Is that something that you’ve ever
 considered doing?&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>Jimmy, you know, people have been asking me for the last 30 years, you
 know, why don’t you write a book? I don’t think it’s about writing the
 book, I think it is about making sure that when the book is written, right,
@@ -459,27 +459,27 @@ a recipe into the book and to ensure that out of 10 people that execute
 it, at least eight of them execute the same recipe with almost maybe 90
 percent of the flavour. That, to me, is the most difficult thing, because
 otherwise it’s just another cookbook.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Damian, you know, it’s been really great talking to you. I just want to
 turn, you know, this part of this podcast to really just to talk about
 possibly – depending on how you take it – lighter topics. So maybe I can
 ask you, you know, what is the hardest thing about being a chef?&nbsp;</p>
 <p>If someone wanted to be a chef and said, “Mr. De Silva? I’ve eaten at
 a restaurant. I really want to be a chef, too.” What would you say to him?&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>I think the hardest thing of being a chef, is the mad part. I think if
 you’re not mad enough, you don’t waste your time being a chef.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What element of insanity is required?&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>Okay, so mad is working to a point, right, where you are so tired that
 whatever you do doesn’t make sense anymore. Right? And you tell yourself
 you need to sleep, and you go and sleep for two hours, and you wake up
 and you continue doing what you need to do and you continue this for maybe,
 I don’t know, you know, the next two to three years.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>That’s part of the whole learning curve?&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>How hard is working hard as a chef, you never know, right? To some people,
 working hard as a chef is 10 hours a day. That’s it. And five days a week,
 some even four days a week. I’m not saying that’s wrong. I’m not saying
@@ -492,13 +492,13 @@ become famous. They only become famous after they die, right? But that
 learning curve, that madness that they have to go through, I think that’s
 very important. And before you do anything, you have to ask yourself that,
 “Have I got it? Can I go through?” You don’t have to, right.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>You’ve plenty of options.&nbsp;</p>
 <p>I think that, you know, anybody listening would be like, “Okay, why am
 I doing this now in my life?” And I hope that they will, you know, think
 about what they’re doing in their lives, because it’s not just about being
 a chef, right?&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>No. Anything. Anything? Yeah, anything. Look, you could be a dishwasher
 and you could be a damn good dishwasher. You’re on time every day. You
 go back on time, you clean the plates, super clean, right? You do things
@@ -507,39 +507,39 @@ it’s break time. You go and look at the chefs and say, “Can I help you?”
 And the chef is like, “Hygiene course.” Yes. And then you like I need to
 go. Okay. And then you come back. “Chef, I got hygiene course. Can I help?”
 You know, that is what is needed.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Passion.&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>Passion is not enough. Passion. That madness to want to succeed beyond
 passion. Yes, beyond passion. Passion is not enough. Passion eventually
 will tire you. Madness will always be there in your head. And that’s where
 you differ from the other person.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I can definitely see that. And you know, it’s clearly – I don’t want to
 say you are mad, but I see a little madness in you.&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>I am a little bit <em>lah</em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>I don’t know if it’s an insult, but what is the one thing that you would
 rather buy than cook on your own.&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>Rather buy than cook on my own?&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Maybe because it’s too much work or maybe because it’s…&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>If it’s too much work, then don’t do it <em>lah</em>. Okay, I would eat
 anything. Honestly, a lot of people don’t realise that chefs are not fussy.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>They’re not?&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>They’re not. You see, hunger is not that important to me, if you can understand
 that, because I can always go home and cook something up very quickly.
 It could be just scrambled eggs with some…The one thing that I always have
 in my fridge is cheese. Don’t ask me why. I know I’m a heritage chef, but
 I love my cheese.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What kind of cheese do you have in your fridge?&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>I have at least four or five cheeses, different types of cheeses, mainly
 goat, sheep. But you know, I can have cheese and crackers. Without anything
 in my head, I would just go in and order something because I don’t have
@@ -547,20 +547,20 @@ to do the work at home. Yeah, but I would definitely on many occasions
 wake up in the morning and tell myself I want to eat this, and then go
 to the market, buy the things, bring it to work, and then after I finish
 work, bring it back home and the next day, prepare it.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Damian, listening to you, I realise I will never even make you a peanut
 butter sandwich because you know, you’d just throw it back in my face.&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>I won’t <em>lah</em>. If you use the right bread, because that’s the most
 important thing in the peanut butter sandwich – the right bread. And of
 course, the peanut butter.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Complete the sentence… Food is…&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>Food is life.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>What does that mean?&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>If you know food, you know enough. You’re so educated in terms of ingredients.
 And that is something in itself, it’s an education. And it gives you so
 much more life, to be able to understand all these different ingredients,
@@ -581,14 +581,14 @@ people want to know. But for me it is,&nbsp; because it tells you, it educates
 you about the dish. Right. About, you know, is there more than just one <em>rendang</em>?
 There is. There’s probably about, I don’t know, 15, 20 different types
 of <em>rendang</em>.&nbsp;</p>
-<p><strong>Jimmy</strong>
+<p><strong>Jimmy</strong> 
 <br>Wow. Okay, I’m hungry already. Damian, thank you very much for joining
 us on BiblioAsia+.&nbsp;</p>
 <p>To watch Damian make sea snail and papaya curry – it’s much, much more
 delicious than what it sounds, I have to say – and to get the recipe for
 this delicious dish, please check out the BiblioAsia website at <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>&nbsp;</p>
 <p>Once again, thank you very much for coming on the podcast.&nbsp;</p>
-<p><strong>Damian</strong>
+<p><strong>Damian</strong> 
 <br>Thank you for having me, Jimmy.&nbsp;</p>
 <p><strong>Jimmy</strong> 
 <br>If you’ve enjoyed this episode,&nbsp;<a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank">subscribe to the podcast</a>&nbsp;and
