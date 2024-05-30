@@ -244,14 +244,14 @@ Aoyama dominated the top 30 most-read lists in the earlier years together
 with a smattering of English titles such as <em>Garfield</em> and <em>Hellboy</em>.
 However, in 2009 and 2010, English-language comics such as <em>The Amazing Spider-Man</em>, <em>The Mighty Avengers</em> and
 game-based adaptations like <em>World of Warcraft</em> began appearing in
-the lists of popular comics.
+the lists of popular comics. &lt;br&gt;
 <br>
 </p>
 <p>Besides building its print collection, the National Library Board has
 also been offering comics electronically through databases such as I-Manga
 and OverDrive, which are available from its eResources website (http://eresources.nlb.gov.sg).
 Although library@orchard closed in 2007, comics have become a staple of
-the National Library Board’s collection.
+the National Library Board’s collection. &lt;br&gt;
 <br>
 <br><em>Sebastian Song, Lynn Koh, Roy See and Reena Kandoth, National Library Board</em>
 </p>
@@ -276,8 +276,7 @@ October). A brief history of woodcuts in Singapore. <em><a href="https://www.nlb
 at the old National Library at Stamford Road in 1966. For more information,
 see <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12824746" rel="noopener noreferrer nofollow" target="_blank">Imprints of the past: Remembering the 1966 Woodcut Exhibition</a></em>,
 2006, found at the Lee Kong Chian Reference Library.</p>
-<p>[^3]: Nureza Ahmad. (2004, May 10). <em><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_132_2005-01-26.html" rel="noopener noreferrer nofollow" target="_blank">First multilingual play</a></em>
-<a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_132_2005-01-26.html" rel="noopener noreferrer nofollow" target="_blank"></a><em><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_132_2005-01-26.html" rel="noopener noreferrer nofollow" target="_blank">in Singapore</a></em>.
+<p>[^3]: Nureza Ahmad. (2004, May 10). <em><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_132_2005-01-26.html" rel="noopener noreferrer nofollow" target="_blank">First multilingual playin Singapore</a></em>.
 Retrieved from Singapore Infopedia. In 1988, the Ong Teng Cheong Advisory
 Council on Art and Culture completed its extended study and recommended
 the setting up of the National Arts Council and the building of the Esplanade.</p>
