@@ -35,7 +35,7 @@ Born in Singapore, Miao Xiu (under the pseudonym Wen Renjun) clearly expressed s
 
 The majority of dialect segments in Chinese fiction from this period appear in dialogues, in apparent mimicry of the parole of locals, although they were occasionally found in the main narrative. Cantonese was frequently used, likely because it was one of the most widely spoken dialects among the ethnic Chinese in Malaya. Miao Xiu’s family, for instance, hailed from Canton (Guangzhou today) and was almost certainly conversant in Cantonese. Cantonese is also more readily representable in writing as compared to, say, Hokkien, as it has its own unique set of characters used alongside standard characters. Cantonese words were often peppered throughout the text, although it was not uncommon for entire stretches of dialogue to be in Cantonese, particularly for characters from the working class (characters who were intellectuals generally did not converse in Chinese dialects). Apart from Cantonese, Hokkien and colloquial Malay words also popped up, contributing to the rich linguistic texture of the literary language.
 
-  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/Miao_Xiu_1_edited.jpg" style="width: 65%;">
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/Miao_Xiu_xyz.jpg" style="width: 45%;">
 
 <div style="background-color: white;">Miao Xiu’s writings often feature Chinese dialects and colloquial expressions. <i>Image reproduced from Singapore Literary Pioneers Gallery Guide (Singapore: National Library Board Singapore, 2006), 43. (From National Library, Singapore, call no. S809 SIN).</i></div>
 
@@ -43,7 +43,7 @@ To take an example from Miao Xiu’s well-known novella 《新加坡屋顶下》
 
 Here we see a succession of terms (in bold) that would surely baffle the non-local Chinese reader – and, for that matter, even a contemporary Chinese reader today. These include the name of a triad (七0七, or “707”), the informal term for someone who runs errands for triads (草鞋, literally “straw sandal”), the slang for “protection money” (包爺費, literally “fee for reserving the master”), the Malay term for “bully” (卡周, or _kacau_), the colloquial word for “five dollars” (一巴掌, literally “one slap”), and the term 扣 in Hokkien/Teochew for counting cash dollars.
 
-  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/undersingaporeroof_img.jpg" style="width: 75%; height:75%;">
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/undersingaporeroof_img.jpg" style="width: 45%; height:55%;">
 
 <div style="background-color: white;">Cover of《新加坡屋顶下》(<i>Xinjiapo Wuding Xia</i>; <i>Under Singapore's Roof</i>) by Miao Xiu (1951). (<i>From National Library, Singapore, call no. Chinese C813.4 MX</i>).</div>
 
@@ -57,7 +57,7 @@ In a forum article published in the *Nanyang Siang Pau* on 7 July 1954, one read
 
 Chinese writers were not alone in experimenting with the linguistic medium of the literary arts. In the realm of Anglophone writing in Malaya, a similar development was taking place. Amid the rise of a Malayan consciousness, a group of young students at the University of Malaya came up with the novel idea of amalgamating the various languages spoken in the region to create a synthetic medium for English-language poetry. Most prominent among these young advocates was Wang Gungwu, who would later become one of the most influential historians of the Chinese diaspora.
 
-  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/wgw_mu_1950.jpg" style="width: 75%;">
+  <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/wgw_mu_1950.jpg" style="width: 55%;">
 
 <div style="background-color: white;">Wang Gungwu (pictured here in 1950) is the author of <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/pulse-malayan-literature-wang-gung-wu/"><i>Pulse</i></a>&nbsp;and a much-lauded scholar today. <i>Courtesy of Professor Wang Gungwu.</i></div>
 
