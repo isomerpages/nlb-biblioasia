@@ -71,6 +71,9 @@ water
 
 #### **Related Podcast**
 
+<a href="/podcast/sea-foraging-eurasian-cuisine/">Seaside Foraging and Eurasian Cuisine</a><br>
+MasterChef Singapore judge Damian D’Silva grew up by the sea and spent many happy hours foraging for horseshoe crabs, shellfish and sea snails that would end up in the cooking pot. In this episode, he talks about how his childhood and grandfather influenced his cooking philosophy, when he found his calling in the kitchen (later than you'd expect), and what's left for him after winning the prestigious culinary award La Liste.
+
 #### **Related Article**
 [Eurasian Community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=45dd95f2-31e0-4f7c-b264-dabc79907fbe)<br>
 The Eurasian community is a small but influential ethnic group that has been present in Singapore since the early 19th century. Eurasians are persons with mixed European and Asian lineage. Most Eurasians in Singapore can trace the European part of their ancestry to the Portuguese, Dutch or British, while others are of Danish, French, German, Italian or Spanish descent. The Asian component of their ancestry is usually derived from the Chinese, Malays or Indians.
