@@ -2,6 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - "Gloved Gods: Battling Key, Yeo Choon Song and the Roaring 20s of
+        Singapore Boxing.md"
       - "Sea Snail & Papaya Curry: A Eurasian Specialty.md"
       - Example Title.md
       - Test2.md
