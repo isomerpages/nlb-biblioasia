@@ -12,6 +12,12 @@ description: In the aftermath of World War I, the “noble art” became wildly
 
 On 15 July 1896, an advertisement in the _Straits Times Maritime Journal and General News_ invited readers in Singapore to witness what it promised would be a marvellous exhibition of boxing by “The Wonder of the Age – ‘Peter Jackson’”. 1
 
+![](/images/Vol%2020%20Issue%202/Boxing/Image7_a.jpg)
+
+    p.p1 {margin: 0.0px 0.0px 5.7px 0.0px; text-align: justify; font: 8.0px Helvetica; color: #6d6e70} span.s1 {letter-spacing: -0.1px} span.s2 {letter-spacing: -0.3px}
+
+The match between Battling Key and Johnny Carvalho on 3 August 1922 was over in 105 seconds, with Key emerging victorious. _Image reproduced from Malaya Tribune, 21 July 1922, 8. (From NewspaperSG)._
+
 This would normally not have caught the attention of this 21st-century researcher had it not been for a singular fact: Peter Jackson was a boxing kangaroo. It had arrived in Singapore from Fremantle, Western Australia, on the steamship _Sultan_ in June.2
 
 It would take another quarter of a century before human beings replaced sparring marsupials in newspaper ads and the public imagination.
