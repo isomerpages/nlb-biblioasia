@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/
-      button: Joseph Conrad’s Singapore
+      url: /vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/
+      button: "Gloved Gods: Battling Key, Yeo Choon Song and the Roaring 20s of
+        Singapore Boxing"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 1/Joseph Conrad/Hero_img_Joseph_Conrad.jpg
+      background: /images/Vol 20 Issue 3/Boxing/Hero_img_boxing.jpg
   - infopic:
       title: The Scoop on Otak Blangah
       subtitle: "VIDEO: FROM BOOK TO COOK"
