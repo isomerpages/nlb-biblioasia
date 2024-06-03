@@ -150,68 +150,68 @@ After three and a half decades, Singapore Ballet has become a part of the nation
 
 [^3]: "[Two Gohs With Twinkle Toes Are Returning](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550309-1.2.82),"<i>Straits Times</i>, 9 March 1955, 5;  “[Malaya to Have Ballet Company](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19560114-1.2.56),”&nbsp;_Singapore Free Press_, 14 January 1956, 7; Anthony Oei, “[Two Ballet Schools Merge to Form an Academy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19580427-1.2.76),”&nbsp;_Straits Times_, 27 April 1958, 11. (From NewspaperSG)
 
-[^3]: “Her World Woman of the Year 2008: Goh Soo Khim,” *Her World*, 17 August 2008, https://www.herworld.com/gallery/woman-of-the-year/goh-soo-khim-woman-of-the-year-2008/.
+[^4]: “Her World Woman of the Year 2008: Goh Soo Khim,” *Her World*, 17 August 2008, https://www.herworld.com/gallery/woman-of-the-year/goh-soo-khim-woman-of-the-year-2008/.
 
-[^4]: [Goh-Lee Soonee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/eebba42d-1162-11e3-83d5-0050568939ad), oral history interview, Reel/Disc 2 of 4. 
+[^5]: [Goh-Lee Soonee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/eebba42d-1162-11e3-83d5-0050568939ad), oral history interview, Reel/Disc 2 of 4. 
 
-[^5]: Janek Schergen, interview, 21 December 2022.
+[^6]: Janek Schergen, interview, 21 December 2022.
 
-[^6]: Rohina Katoch Sehra, “How Ballerinas of Colour are Changing the Palette of Dance,” *HuffPost*, 10 February 2020, https://www.huffpost.com/entry/ballet-dancers-of-color_l_5e14b343c5b66361cb5b6b5f.
+[^7]: Rohina Katoch Sehra, “How Ballerinas of Colour are Changing the Palette of Dance,” *HuffPost*, 10 February 2020, https://www.huffpost.com/entry/ballet-dancers-of-color_l_5e14b343c5b66361cb5b6b5f.
 
-[^7]: “The Co-Founder – Ms Goh Soo Khim (1944),” Singapore Ballet, last accessed 7 April 2023, https://singaporeballet.org/interview-goh-soo-khim/.
+[^8]: “The Co-Founder – Ms Goh Soo Khim (1944),” Singapore Ballet, last accessed 7 April 2023, https://singaporeballet.org/interview-goh-soo-khim/.
 
-[^8]: “[The Ascent of Goh Choo San](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840605-1.2.25.4),” *Singapore Monitor*, 5 June 1984, 18. (From NewspaperSG)
+[^9]: “[The Ascent of Goh Choo San](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840605-1.2.25.4),” *Singapore Monitor*, 5 June 1984, 18. (From NewspaperSG)
 
-[^9]: “The Dancer and the Dance (1982) (Mikhail Baryshnikov Documentary - Full HQ),” Youtube, 9 September 2022, https://www.youtube.com/watch?v=9piDxc-CWiE.
+[^10]: “The Dancer and the Dance (1982) (Mikhail Baryshnikov Documentary - Full HQ),” Youtube, 9 September 2022, https://www.youtube.com/watch?v=9piDxc-CWiE.
 
-[^10]: Janek Schergen and Goh Soo Khim, [*Goh Choo San: Master Craftsman in Dance*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8721539) (Singapore: Singapore Dance Theatre, 1997). (From National Library Singapore, call no. RSING 792.82 SCH)
+[^11]: Janek Schergen and Goh Soo Khim, [*Goh Choo San: Master Craftsman in Dance*](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8721539) (Singapore: Singapore Dance Theatre, 1997). (From National Library Singapore, call no. RSING 792.82 SCH)
 
-[^11]: Sharon Teng, “[Goh Choo San](https://www.nlb.gov.sg/main/article-detail?cmsuuid=eacf40a8-a446-46a8-9803-729b4899fe94),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
+[^12]: Sharon Teng, “[Goh Choo San](https://www.nlb.gov.sg/main/article-detail?cmsuuid=eacf40a8-a446-46a8-9803-729b4899fe94),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
 
-[^12]: Francis Kim Leng Yeoh, “The Singapore National Dance Company: Reminiscences of an Artistic Director,” *SPAFA Journal* 3 (19 September 2019), https://www.spafajournal.org/index.php/spafajournal/article/view/610. 
+[^13]: Francis Kim Leng Yeoh, “The Singapore National Dance Company: Reminiscences of an Artistic Director,” *SPAFA Journal* 3 (19 September 2019), https://www.spafajournal.org/index.php/spafajournal/article/view/610. 
 
-[^13]: “Goh Choo San,” Off Stage, 12 October 2016, https://www.esplanade.com/offstage/arts/goh-choo-san.
+[^14]: “Goh Choo San,” Off Stage, 12 October 2016, https://www.esplanade.com/offstage/arts/goh-choo-san.
 
-[^14]: Janek Schergen, interview, 21 December 2022.
+[^15]: Janek Schergen, interview, 21 December 2022.
 
-[^15]: Janek Schergen, interview, 21 December 2022; “[Goh Choo San Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19871201-1.2.58.aspx),” *Business Times*, 1 December 1987, 20. (From NewspaperSG)
+[^16]: Janek Schergen, interview, 21 December 2022; “[Goh Choo San Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19871201-1.2.58.aspx),” *Business Times*, 1 December 1987, 20. (From NewspaperSG)
 
-[^16]: Janek Schergen, interview, 21 December 2022; Singapore Dance Theatre, [*Touches: 10 Years of the Singapore Dance Theatre*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9248084) (Singapore: Singapore Dance Theatre, 1988), 13. (From National Library, call no. RSING 792.8095957 TOU)
+[^17]: Janek Schergen, interview, 21 December 2022; Singapore Dance Theatre, [*Touches: 10 Years of the Singapore Dance Theatre*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9248084) (Singapore: Singapore Dance Theatre, 1988), 13. (From National Library, call no. RSING 792.8095957 TOU)
 
-[^17]: Ong Teng Cheong, “[Official Launch of the Singapore Dance Theatre](https://www.nas.gov.sg/archivesonline/speeches/record-details/725e950c-115d-11e3-83d5-0050568939ad),” speech, Royal Pavilion Ballroom, Inter-Continental Singapore, 4 March 1988, transcript, National Archives of Singapore (document no. otc19880304s).
+[^18]: Ong Teng Cheong, “[Official Launch of the Singapore Dance Theatre](https://www.nas.gov.sg/archivesonline/speeches/record-details/725e950c-115d-11e3-83d5-0050568939ad),” speech, Royal Pavilion Ballroom, Inter-Continental Singapore, 4 March 1988, transcript, National Archives of Singapore (document no. otc19880304s).
 
-[^18]: Germaine Cheng, [*Momentum: 25 Years of Singapore Dance Theatre*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201653273) (Singapore: Singapore Dance Theatre, 2015), 1. (From PublicationSG) 
+[^19]: Germaine Cheng, [*Momentum: 25 Years of Singapore Dance Theatre*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201653273) (Singapore: Singapore Dance Theatre, 2015), 1. (From PublicationSG) 
 
-[^19]: Lisa Lee, “[All for the Love of Dance](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19880321-1.2.39.1),” *Business Times*, 21 March 1988, 11. (From NewspaperSG) 
+[^20]: Lisa Lee, “[All for the Love of Dance](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19880321-1.2.39.1),” *Business Times*, 21 March 1988, 11. (From NewspaperSG) 
 
-[^20]: Lee, “[All for the Love of Dance](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19880321-1.2.39.1).”
+[^21]: Lee, “[All for the Love of Dance](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19880321-1.2.39.1).”
 
-[^21]: Ong Soh Chin, “[Singapore Dance Theatre to Move into Fort Canning Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900330-1.2.39.10),” *Straits Times*, 30 March 1990, 31. (From NewspaperSG); Cheng, [*Momentum: 25 Years of Singapore Dance Theatre*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201653273), 1.
+[^22]: Ong Soh Chin, “[Singapore Dance Theatre to Move into Fort Canning Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900330-1.2.39.10),” *Straits Times*, 30 March 1990, 31. (From NewspaperSG); Cheng, [*Momentum: 25 Years of Singapore Dance Theatre*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201653273), 1.
 
-[^22]: Ong, “[Singapore Dance Theatre to Move into Fort Canning Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900330-1.2.39.10).”
+[^23]: Ong, “[Singapore Dance Theatre to Move into Fort Canning Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900330-1.2.39.10).”
 
-[^23]: “[Singapore Dance Theatre Co-founder Anthony Then Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951219-1.2.33.7),” *Straits Times*, 19 December 1995, 24. (From NewspaperSG)
-
-[^24]: Janek Schergen, interview, 21 December 2022.
+[^24]: “[Singapore Dance Theatre Co-founder Anthony Then Dies](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951219-1.2.33.7),” *Straits Times*, 19 December 1995, 24. (From NewspaperSG)
 
 [^25]: Janek Schergen, interview, 21 December 2022.
 
 [^26]: Janek Schergen, interview, 21 December 2022.
 
-[^27]: Jennifer Dunning, “Choo San Goh, a Choreographer Hailed for Inventive Dance Forms,” *New York Times*, 30 November 1987, https://www.nytimes.com/1987/11/30/obituaries/choo-san-goh-a-choreographer-hailed-for-inventive-dance-forms.html.
+[^27]: Janek Schergen, interview, 21 December 2022.
 
-[^28]: Janek Schergen, interview, 21 December 2022.
+[^28]: Jennifer Dunning, “Choo San Goh, a Choreographer Hailed for Inventive Dance Forms,” *New York Times*, 30 November 1987, https://www.nytimes.com/1987/11/30/obituaries/choo-san-goh-a-choreographer-hailed-for-inventive-dance-forms.html.
 
-[^29]: Jennifer Koh, “[And Now, a Professional Dance Group](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880305-1.2.19.21),” *Straits Times*, 5 March 1988, 13. (From NewspaperSG)
+[^29]: Janek Schergen, interview, 21 December 2022.
 
-[^30]: Janek Schergen, interview, 21 December 2022.
+[^30]: Jennifer Koh, “[And Now, a Professional Dance Group](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880305-1.2.19.21),” *Straits Times*, 5 March 1988, 13. (From NewspaperSG)
 
-[^31]: “Janek Schergen,” Singapore Ballet, last accessed 5 May 2023, https://singaporeballet.org/artistic-team/janek-schergen/.
+[^31]: Janek Schergen, interview, 21 December 2022.
 
-[^32]: Michelle Sciarrotta, “Janek Schergen: Interview with Singapore Dance Theatre’s AD,” TheatreArtLife, 25 December 2020, https://www.theatreartlife.com/dance/janek-schergen-interview-with-singapore-dance-theatres-ad/.
+[^32]: “Janek Schergen,” Singapore Ballet, last accessed 5 May 2023, https://singaporeballet.org/artistic-team/janek-schergen/.
 
-[^33]: Huang Lijie, “[New Home for Singapore Dance Theatre](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121231-1.2.44.2.1),” *Straits Times*, 31 December 2012, 6. (From NewspaperSG)
+[^33]: Michelle Sciarrotta, “Janek Schergen: Interview with Singapore Dance Theatre’s AD,” TheatreArtLife, 25 December 2020, https://www.theatreartlife.com/dance/janek-schergen-interview-with-singapore-dance-theatres-ad/.
 
-[^34]: Dewi Nurjuwita, “Singapore Dance Theatre Unveils Its New Name,” *Timeout*, 13 December 2021, https://www.timeout.com/singapore/news/singapore-dance-theatre-unveils-its-new-name-121321.
+[^34]: Huang Lijie, “[New Home for Singapore Dance Theatre](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20121231-1.2.44.2.1),” *Straits Times*, 31 December 2012, 6. (From NewspaperSG)
 
-[^35]: “Singapore Ballet 2023 Season,” *Ballet Herald*, 17 December 2022, https://www.balletherald.com/singapore-ballet-2023-season/.
+[^35]: Dewi Nurjuwita, “Singapore Dance Theatre Unveils Its New Name,” *Timeout*, 13 December 2021, https://www.timeout.com/singapore/news/singapore-dance-theatre-unveils-its-new-name-121321.
+
+[^36]: “Singapore Ballet 2023 Season,” *Ballet Herald*, 17 December 2022, https://www.balletherald.com/singapore-ballet-2023-season/.
