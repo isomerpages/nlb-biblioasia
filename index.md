@@ -1050,4 +1050,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: Seaside Foraging and Eurasian Cuisine
+      subtitle: Podcast
+      id: infopic
+      description: MasterChef Singapore judge Damian D’Silva talks about the
+        influences in his cooking philosophy and the importance of heritage
+        cuisine.
+      button: Listen to the episode
+      url: /podcast/sea-foraging-eurasian-cuisine/
+      image: /images/Podcast/isomer_Damian.jpg
+      alt: Image alt text
 ---
