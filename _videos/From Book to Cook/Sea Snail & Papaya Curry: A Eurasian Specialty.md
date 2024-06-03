@@ -1,8 +1,9 @@
 ---
 title: "Sea Snail & Papaya Curry: A Eurasian Specialty"
-permalink: /holding-area/sea-snail-papaya-curry/
+permalink: /videos/sea-snail-papaya-curry/
 variant: markdown
 description: ""
+third_nav_title: From Book to Cook
 ---
 #### MasterChef Singapore judge Damian D’Silva tells us what it’s like foraging for food on the beach as a young boy, while making an uncommon Kristang dish that combines two very unlikely ingredients: sea snail and papaya.
 

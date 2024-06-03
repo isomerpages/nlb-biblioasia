@@ -9,13 +9,37 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/
-      button: Joseph Conrad’s Singapore
+      url: /vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/
+      button: "Gloved Gods: Battling Key, Yeo Choon Song and the Roaring 20s of
+        Singapore Boxing"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 1/Joseph Conrad/Hero_img_Joseph_Conrad.jpg
+      background: /images/Vol 20 Issue 3/Boxing/Hero_img_boxing.jpg
+  - infopic:
+      title: "Sea Snail & Papaya Curry: A Eurasian Delight"
+      subtitle: From Book To Cook
+      id: infopic
+      description: "MasterChef Singapore judge Damian D’Silva makes this uncommon
+        Kristang curry that combines two very unlikely ingredients: sea snail
+        and papaya."
+      button: WATCH THE VIDEO
+      url: /videos/sea-snail-papaya-curry/
+      image: "/images/Videos: From Book to Cook/6Sea
+        Snail/Sea_Snail___Papaya_Curry.jpg"
+      alt: Image alt text
+  - infopic:
+      title: Seaside Foraging and Eurasian Cuisine
+      subtitle: Podcast
+      id: infopic
+      description: MasterChef Singapore judge Damian D’Silva talks about the
+        influences in his cooking philosophy and the importance of heritage
+        cuisine.
+      button: Listen to the episode
+      url: /podcast/sea-foraging-eurasian-cuisine/
+      image: /images/Podcast/isomer_Damian.jpg
+      alt: Image alt text
   - infopic:
       title: The Scoop on Otak Blangah
       subtitle: "VIDEO: FROM BOOK TO COOK"
