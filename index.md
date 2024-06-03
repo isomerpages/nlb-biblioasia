@@ -1061,4 +1061,16 @@ sections:
       url: /podcast/sea-foraging-eurasian-cuisine/
       image: /images/Podcast/isomer_Damian.jpg
       alt: Image alt text
+  - infopic:
+      title: "Sea Snail & Papaya Curry: A Eurasian Delight"
+      subtitle: From Book To Cook
+      id: infopic
+      description: "MasterChef Singapore judge Damian D’Silva makes this uncommon
+        Kristang curry that combines two very unlikely ingredients: sea snail
+        and papaya."
+      button: WATCH THE VIDEO
+      url: /videos/sea-snail-papaya-curry/
+      image: "/images/Videos: From Book to Cook/6Sea
+        Snail/Sea_Snail___Papaya_Curry.jpg"
+      alt: Image alt text
 ---
