@@ -21,7 +21,7 @@ Hippie culture was seen as a risk to Singapore in the 1960s and 1970s. To reduce
 Lured by the prospects of money and adventure, local performers braved the dangers of the Vietnam War to provide entertainment to American troops. *Boon Lai*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_SingaporeBands.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcycle-racing/">A Quick History of the Singapore Speedway</a><br>
-The history of the Singapore Speedway was as fast and furious as the races it hosted. *Yap Jo Lin*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_SingaporeSpeedway.pdf)
+The history of the Singapore Speedway was as fast and furious as the races it hosted. *Yap Jo Lin*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_SingaporeSpeedwayX.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/">Photo Studios and Photography During the Japanese Occupation</a><br>
 During the Japanese Occupation, local photographers worked under challenging conditions. *Zhuang Wubin*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_PhotoStudios.pdf)
@@ -30,7 +30,7 @@ During the Japanese Occupation, local photographers worked under challenging con
 From the melting pot of cultures and languages in postwar Singapore came the search for a Malayan identity, negotiated and presented through multilingualism. *Lee Tong King*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_APlethoraofTongues.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/">Joseph Conrad’s Singapore</a><br>
-Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as _Lord Jim_, _The End of the Tether_ and _The Shadow-Line_. *Ian Burnet*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_JosephConrad.pdf)
+Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as _Lord Jim_, _The End of the Tether_ and _The Shadow-Line_. *Ian Burnet*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_JosephConradX.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/">By the Public and for the Public: Contemporary Collecting at the National Library</a><br>
 Singapore’s National Library is collecting new forms of documentary materials today for the sake of future generations. *Janice Loo and Lee Meiyu*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_ContemporaryCollecting.pdf)
