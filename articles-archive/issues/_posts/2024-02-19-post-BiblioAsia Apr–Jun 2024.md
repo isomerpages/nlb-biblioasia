@@ -21,7 +21,7 @@ Hippie culture was seen as a risk to Singapore in the 1960s and 1970s. To reduce
 Lured by the prospects of money and adventure, local performers braved the dangers of the Vietnam War to provide entertainment to American troops. *Boon Lai*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_SingaporeBands.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcycle-racing/">A Quick History of the Singapore Speedway</a><br>
-The history of the Singapore Speedway was as fast and furious as the races it hosted. *Yap Jo Lin*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_SingaporeSpeedway.pdf)
+The history of the Singapore Speedway was as fast and furious as the races it hosted. *Yap Jo Lin*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_SingaporeSpeedwayX.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/">Photo Studios and Photography During the Japanese Occupation</a><br>
 During the Japanese Occupation, local photographers worked under challenging conditions. *Zhuang Wubin*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_PhotoStudios.pdf)
