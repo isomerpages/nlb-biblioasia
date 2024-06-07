@@ -4,6 +4,13 @@ permalink: /topics/local-icons/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway/">The Making of the Causeway</a>
+
+When the Causeway was built 100 years ago, it was the largest engineering project to be undertaken in Malaya. Building it required overcoming significant engineering challenges.
+
+<img src="/images/Vol%2019%20Issue%204/Salvation%20Army/salvationarmy.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/">Sentosa’s Cable Cars at 50</a>
 As Singapore’s cable car system commemorates 50 years of service, we look back at the journey of this iconic attraction that has brought joy to many a rider.
 
