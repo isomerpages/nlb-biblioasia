@@ -4,6 +4,14 @@ permalink: /topics/food/
 description: ""
 variant: markdown
 ---
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/videos/otak-blangah/">The Scoop on Otak Blangah</a>
+
+Cracking fish bones and throwing fish patties – making&nbsp;_otak blangah_&nbsp;is a workout! How does this uncommon Peranakan dish taste in comparison to the all-familiar&nbsp;_otak-otak_? Tanya Pillay-Nair from the Peranakan Indian Association of Singapore revives this old recipe with her aunt.
+
+<img src="/images/Videos:%20From%20Book%20to%20Cook/5Otak%20Blangah/Otak_Blangah.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary</a>
 
 A former teacher and&nbsp;_mak andam_&nbsp;fulfils her dream by writing a book on Malay recipes in 1986, the first all-Malay cookbook from Times Books International.
