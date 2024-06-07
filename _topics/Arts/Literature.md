@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/">Joseph Conrad’s Singapore</a>
+
+Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as&nbsp;_Lord Jim_,&nbsp;_The End of the Tether_&nbsp;and&nbsp;_The Shadow-Line_.
+
+<img src="/images/Vol%2020%20Issue%201/Joseph%20Conrad/josephconrad_topic.png" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/culture/2023/11/multilingual-languages-malayan-writing-sg/">A Plethora of Tongues: Multilingualism in 1950s Malayan Writing</a>
 From the melting pot of cultures and languages in postwar Singapore emerged the search for a Malayan identity, negotiated and presented through multilingualism in Malayan literature.
 
