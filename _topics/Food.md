@@ -39,6 +39,13 @@ A tireless steward of Malay culture, Hajah Asfiah worked all her life to preserv
 <img src="/images/Podcast/isomer_toffa.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/videos/bunga-kobis/">Peeling Back the Layers of Bunga Kobis</a>
+
+ _Bunga kobis_&nbsp;was a dish prepared only for special occasions because of how laborious it was to make. In this episode, librarian Toffa Abdul Wahed tells us more in her attempt to put together this many-layered pastry.
+
+<img src="/images/Videos:%20From%20Book%20to%20Cook/3Bunga%20Kobis/Bunga_Kobis.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary</a>
 
 A former teacher and&nbsp;_mak andam_&nbsp;fulfils her dream by writing a book on Malay recipes in 1986, the first all-Malay cookbook from Times Books International.
