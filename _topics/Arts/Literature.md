@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/">From Betty of Balmoral Road to Emily of Emerald Hill: A New Look At Stella Kon’s Classic Play</a>
+
+A study of early drafts of&nbsp;_Emily of Emerald Hill_&nbsp;reveals fascinating choices and paths not taken.
+
+<img src="/images/Vol%2020%20Issue%202/Emily/img_1.png" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/">Joseph Conrad’s Singapore</a>
 
 Joseph Conrad’s visits to Singapore in the late 19th century are immortalised in some of his novels, such as&nbsp;_Lord Jim_,&nbsp;_The End of the Tether_&nbsp;and&nbsp;_The Shadow-Line_.
