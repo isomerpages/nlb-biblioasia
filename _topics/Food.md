@@ -53,6 +53,13 @@ We are familiar with local Malay favourites such as&nbsp;_mee rebus_&nbsp;and&nb
 <img src="/images/Videos:%20From%20Book%20to%20Cook/2Mee%20Maidin/Mee_Maidin_homepage.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/podcast/kampong-glam-kitchen-malay-world/">Kampong Gelam: Kitchen of the Malay World</a>
+
+You would hear Malay, Javanese, Tamil and Punjabi as you wandered the streets with shops selling colourful textiles and carpets, spices and flowers. Here you would find different curries and bread,&nbsp;_nasi padang_,&nbsp;_sup tulang_,&nbsp;_mee siam_, a Javanese kitchen, Hainanese coffeeshops and more. Bookstores sold literature and newspapers as far away as Cairo. In this episode, award-winning author Khir Johari talks about the Kampong Gelam that he grew up in.
+
+<img src="/images/Podcast/isomer_home_khir.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary</a>
 
 A former teacher and&nbsp;_mak andam_&nbsp;fulfils her dream by writing a book on Malay recipes in 1986, the first all-Malay cookbook from Times Books International.
