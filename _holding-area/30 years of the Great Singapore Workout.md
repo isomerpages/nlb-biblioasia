@@ -73,8 +73,6 @@ The official launch of the Great Singapore Workout in 1993 marked the inaugural 
 
 The explosion in the number of gyms around Singapore is just one very visible example of how people in Singapore are taking exercise more seriously now compared to four decades ago. Perhaps enough Singaporeans gave the workout a try and discovered that the song’s closing lyrics were true:
 
-_Just give it a go_
-
-_And what do you know_
-
+_Just give it a go_<br>
+_And what do you know_<br>
 _Soon you’ll be feeling just fine_
