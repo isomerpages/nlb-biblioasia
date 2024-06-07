@@ -8,7 +8,7 @@ variant: markdown
 
 When the Causeway was built 100 years ago, it was the largest engineering project to be undertaken in Malaya. Building it required overcoming significant engineering challenges.
 
-<img src="/images/Vol%2019%20Issue%204/Salvation%20Army/salvationarmy.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%202/Causeaway/causeway.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/">Sentosa’s Cable Cars at 50</a>
