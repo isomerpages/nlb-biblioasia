@@ -68,10 +68,11 @@ PS: Dates back to 1570!
 <img src="/images/Podcast/isomer_Christopher_podcast.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign">Going Against the (Rice) Grain: The “Eat More Wheat” Campaign</a>
-The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government.
+#### <a style="text-decoration: none; font-weight: bold;" href="/videos/kueh-pie-tee/">Kueh Pie Tee’s Peculiar Past</a>
 
-<img src="/images/Vol%2019%20Issue%203/Wheat/image1.png" style="width:80%;">
+How did&nbsp;_kueh pie tee_&nbsp;get its name? Why is it considered a Peranakan dish? Cookbook author Christopher Tan dives into the mystery of this crispy snack as he makes them using vintage moulds.
+
+<img src="/images/Videos:%20From%20Book%20to%20Cook/1Kueh%20pie%20tee/1kueh_pie_tee.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary</a>
