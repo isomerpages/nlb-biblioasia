@@ -108,3 +108,17 @@ To mark its centenary, a Chinese clan association recently donated its archives 
   
 <img src="/images/Vol-14-issue-4/when-there-were-farms/farm_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
+
+To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library.&nbsp;**Jessie Yak**&nbsp;shares highlights from the collection.
+  
+<img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting_topic.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/when-there-wre-farms/">When There Were Farms</a>
+
+To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library.&nbsp;**Jessie Yak**&nbsp;shares highlights from the collection.
+  
+<img src="/images/Vol-14-issue-4/when-there-were-farms/farm_topic.png" style="width:80%;">
+<hr>
