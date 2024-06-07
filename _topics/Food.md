@@ -46,6 +46,13 @@ A tireless steward of Malay culture, Hajah Asfiah worked all her life to preserv
 <img src="/images/Videos:%20From%20Book%20to%20Cook/3Bunga%20Kobis/Bunga_Kobis.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/videos/mee-maidin/">Rediscovering Mee Maidin</a>
+
+We are familiar with local Malay favourites such as&nbsp;_mee rebus_&nbsp;and&nbsp;_mee siam_. But mention&nbsp;_mee maidin_&nbsp;and you might get puzzled looks. Join author Khir Johari as he recreates this rare dish from Kampong Gelam and takes a deep dive into its history and its star ingredient – krill.
+
+<img src="/images/Videos:%20From%20Book%20to%20Cook/2Mee%20Maidin/Mee_Maidin_homepage.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary</a>
 
 A former teacher and&nbsp;_mak andam_&nbsp;fulfils her dream by writing a book on Malay recipes in 1986, the first all-Malay cookbook from Times Books International.
