@@ -120,5 +120,5 @@ To mark its centenary, a Chinese clan association recently donated its archives 
 
 Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula.&nbsp;**Bonny Tan**&nbsp;sheds light on this pioneer printer.
   
-<img src="/images/Vol-14-issue-4/when-there-were-farms/farm_topic.png" style="width:80%;">
+<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/2b_claudies_henry_thomsen_topic.png" style="width:80%;">
 <hr>
