@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/podcast/german-girl-shrine/">The True Story Behind Ubin's German Girl Shrine</a>
+
+A young German girl met an untimely end on Pulau Ubin in 1914. A shrine set up in her honour becomes Internet-famous. Following a deep search into the historical records, writer and researcher William Gibson discovers some inconvenient truths behind one of Singapore’s best-known shrines.
+
+<img src="/images/Podcast/isomer_home_william.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/">**At Wat Ananda, Thai Buddhism with a Singaporean Twist**</a>
 
 Despite the golden stupa and ornate roofs that indicate this is a Thai Buddhist temple, the Singaporean influences are not hard to spot at Wat Ananda Metyarama.
