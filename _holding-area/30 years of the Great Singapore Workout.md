@@ -76,3 +76,44 @@ The explosion in the number of gyms around Singapore is just one very visible ex
 _Just give it a go_<br>
 _And what do you know_<br>
 _Soon you’ll be feeling just fine_
+
+
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+<b>The Great Singapore Workout Song Lyrics</b><br> Get out of your seat<br> 
+On to your feet<br> 
+Get your body moving like mine<br> 
+It’s Singapore, Singapore&nbsp;<br> 
+Workout Time
+<br> <br> 
+So don’t be shy<br> 
+Give it a try<br> 
+Stretch your arms<br> 
+Your legs and your spine<br> 
+It's Singapore, Singapore&nbsp;<br> 
+Workout Time
+<br> <br> 
+Granny and Grandpa<br> 
+Children too&nbsp;<br> 
+We’ll show you all what you gotta do<br> 
+Come on, Dad<br> 
+Come on, Mum<br> 
+Family fitness is so much fun
+<br> <br> 
+Just give it a go<br> 
+And what do you know<br> 
+Soon you’ll be feeling just fine<br> 
+It's Singapore, Singapore&nbsp;<br> 
+Workout Time<br><br>
+<img src="/images/Vol%2020%20Issue%201/Vietnam%20War/Image_book/.png">
+ <br> 
+Scan this QR code to watch the original video.</div>
+			
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai.png">
+	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of Roots: <i>Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>. </div>
+
+#### **Notes**
+
+[^1]: 
