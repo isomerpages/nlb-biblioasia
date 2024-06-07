@@ -60,6 +60,20 @@ You would hear Malay, Javanese, Tamil and Punjabi as you wandered the streets wi
 <img src="/images/Podcast/isomer_home_khir.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/podcast/kueh-pie-tee/">Kueh Pie Tee: A Detective Story</a>
+
+_[Kueh pie tee](https://biblioasia.nlb.gov.sg/videos/kueh-pie-tee/)_&nbsp;is not a pie that goes with tea. So where did the name (and dish) come from? Award-winning cookbook author Christopher Tan combs through old newspapers and cookbooks, in search of the origins of the dish.  
+PS: Dates back to 1570!
+
+<img src="/images/Podcast/isomer_Christopher_podcast.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign">Going Against the (Rice) Grain: The “Eat More Wheat” Campaign</a>
+The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government.
+
+<img src="/images/Vol%2019%20Issue%203/Wheat/image1.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary</a>
 
 A former teacher and&nbsp;_mak andam_&nbsp;fulfils her dream by writing a book on Malay recipes in 1986, the first all-Malay cookbook from Times Books International.
