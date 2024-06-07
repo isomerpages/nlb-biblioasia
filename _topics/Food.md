@@ -32,6 +32,13 @@ What does a&nbsp;_soon kueh_&nbsp;recipe have to do with a Buddhist temple? Find
 <img src="/images/Videos:%20From%20Book%20to%20Cook/4Soon%20Kueh/Soon_Kueh.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/podcast/hajah-asfiah-guardian-traditional-malay-culture/">Hajah Asfiah: A Guardian of Traditional Malay Culture</a>
+
+A tireless steward of Malay culture, Hajah Asfiah worked all her life to preserve and pass on Malay crafts. When she was just 10, she began teaching embroidery and flower arrangement in school. Later in life, she was a&nbsp;_mak andam_&nbsp;(wedding attendant) for more than 20 years and worked with more than 1,000 brides. At age 65, she got her cookbook&nbsp;_Hidangan Warisan Kita_&nbsp;(Our Heritage Dishes; 1986) published by Times Books International; it was the publisher’s first cookbook, written in Malay by a Malay person. The book had recipes for dishes that have since become extinct. Sadly, she died a year later, but thanks to the book she wrote and the many courses she taught, her memory lives on.
+
+<img src="/images/Podcast/isomer_toffa.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary</a>
 
 A former teacher and&nbsp;_mak andam_&nbsp;fulfils her dream by writing a book on Malay recipes in 1986, the first all-Malay cookbook from Times Books International.
