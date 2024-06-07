@@ -30,3 +30,17 @@ Theemithi is much more than just the firewalking festival. It is a cycle of ritu
 
 <img src="/images/Vol%2018%20Issue%203/Theemithi/1_cover.png" style="width:80%;"> 
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/podcast/german-girl-shrine/">The True Story Behind Ubin's German Girl Shrine</a>
+
+A young German girl met an untimely end on Pulau Ubin in 1914. A shrine set up in her honour becomes Internet-famous. Following a deep search into the historical records, writer and researcher William Gibson discovers some inconvenient truths behind one of Singapore’s best-known shrines.
+
+<img src="/images/Podcast/isomer_home_william.jpg" style="width:80%;">  
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine/">Unravelling the Mystery of Ubin's German Girl Shrine</a>
+
+What is the truth behind the German girl shrine on Pulau Ubin?&nbsp;**William L. Gibson**&nbsp;investigates the history of Pulau Ubin to uncover the origin of the tale.
+
+<img src="/images/vol-17-issue-3/ubin-shrine/Cover2.jpg" style="width:80%;">  
+<hr>

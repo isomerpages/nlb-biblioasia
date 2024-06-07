@@ -108,3 +108,17 @@ To mark its centenary, a Chinese clan association recently donated its archives 
   
 <img src="/images/Vol-14-issue-4/when-there-were-farms/farm_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
+
+<b>Mazelan Anuar</b>&nbsp;tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
+  
+<img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting_topic.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/">Claudius Henry Thomsen: A Pioneer in Malay Printing</a>
+
+Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula.&nbsp;**Bonny Tan**&nbsp;sheds light on this pioneer printer.
+  
+<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/2b_claudies_henry_thomsen_topic.png" style="width:80%;">
+<hr>
