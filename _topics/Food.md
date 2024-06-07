@@ -4,7 +4,6 @@ permalink: /topics/food/
 description: ""
 variant: markdown
 ---
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/videos/otak-blangah/">The Scoop on Otak Blangah</a>
 
 Cracking fish bones and throwing fish patties – making&nbsp;_otak blangah_&nbsp;is a workout! How does this uncommon Peranakan dish taste in comparison to the all-familiar&nbsp;_otak-otak_? Tanya Pillay-Nair from the Peranakan Indian Association of Singapore revives this old recipe with her aunt.
