@@ -20,9 +20,9 @@ Growing up as a Chetti Melaka (Peranakan Indian),&nbsp;Tanya&nbsp;realised her f
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/podcast/chinese-vegetarian-foodscape/">The Chinese Vegetarian Foodscape of the 1950s–60s</a>
 
-The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government.
+Set up by five Buddhist women in 1946, Loke Woh Yuen was the first&nbsp;[Chinese vegetarian restaurant](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/buddhist-women-vegetarian-food-singapore/)&nbsp;in Singapore. It employed an all-female staff, was known for its popular shark’s fin made from maize, and was sometimes so packed that it had to set up dining tents that stretched to the main road. Its efforts to spread vegetarianism were complemented by other Buddhist women and nuns who wrote cookbooks and fundraised for charity.
 
-<img src="/images/Vol%2019%20Issue%203/Wheat/image1.png" style="width:80%;">
+<img src="/images/Podcast/isomer_kelvin.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary</a>
