@@ -21,13 +21,13 @@ _It’s Singapore, Singapore_ 
 _Workout Time_
 
 
-And with those words, the Great Singapore Workout was officially launched on 3 October 1993. On that day, Prime Minister Goh Chok Tong, dressed in a pink T-shirt and crisp white shorts – together with some 26,000 similarly clad individuals – took to the Padang to do a dance workout in a bid to get Singaporeans to exercise and keep fit. Goh told reporters that he had enjoyed the session. “It is a good exercise,” he said. “I recommend this to everybody.” Goh had undergone two training sessions and then practised on his own a few times before his public debut.1  
+And with those words, the Great Singapore Workout was officially launched on 3 October 1993. On that day, Prime Minister Goh Chok Tong, dressed in a pink T-shirt and crisp white shorts – together with some 26,000 similarly clad individuals – took to the Padang to do a dance workout in a bid to get Singaporeans to exercise and keep fit. Goh told reporters that he had enjoyed the session. “It is a good exercise,” he said. “I recommend this to everybody.” Goh had undergone two training sessions and then practised on his own a few times before his public debut.[^1]  
 
 #### **Why a National Workout?**
 
-The workout was first unveiled on 1 September 1993 as the highlight of the second National Healthy Lifestyle Campaign.2 The Healthy Lifestyle Committee headed by Kwa Soon Bee, the permanent secretary of the Ministry of Health, was the brainchild behind the workout. The committee hoped to “popularise the Great Singapore Workout as a Singapore exercise which everyone can do in the schools, homes and workplaces even after the campaign”.3 “It is a simple exercise routine which Singaporeans of all ages could learn and enjoy,” said Kwa.
+The workout was first unveiled on 1 September 1993 as the highlight of the second National Healthy Lifestyle Campaign.[^2] The Healthy Lifestyle Committee headed by Kwa Soon Bee, the permanent secretary of the Ministry of Health, was the brainchild behind the workout. The committee hoped to “popularise the Great Singapore Workout as a Singapore exercise which everyone can do in the schools, homes and workplaces even after the campaign”.[^3] “It is a simple exercise routine which Singaporeans of all ages could learn and enjoy,” said Kwa.
 
-The 1992 National Health Survey had revealed that only 13.6 percent of Singaporeans aged 18 to 69 were actively engaging in regular exercise of light or moderate intensity.4 This was a worrying statistic for the Health Ministry. “This is a matter for concern as physical inactivity is an important risk factor that predisposes an individual to lifestyle-related diseases such as high-blood pressure, heart disease and strokes,” said Kwa.5 
+The 1992 National Health Survey had revealed that only 13.6 percent of Singaporeans aged 18 to 69 were actively engaging in regular exercise of light or moderate intensity.[^4] This was a worrying statistic for the Health Ministry. “This is a matter for concern as physical inactivity is an important risk factor that predisposes an individual to lifestyle-related diseases such as high-blood pressure, heart disease and strokes,” said Kwa.[^5] 
 
 #### **Creating a “Fun” Workout**
 
