@@ -11,13 +11,9 @@ By Lim Tin Seng
 
 
 _Get out of your seat_
-
 _On to your feet_
-
 _Get your body moving like mine_
-
 _It’s Singapore, Singapore_ 
-
 _Workout Time_
 
 
