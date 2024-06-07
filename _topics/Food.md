@@ -11,6 +11,20 @@ Cracking fish bones and throwing fish patties – making&nbsp;_otak blangah_&nbs
 <img src="/images/Videos:%20From%20Book%20to%20Cook/5Otak%20Blangah/Otak_Blangah.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/podcast/food-peranakan-indians/">Food of the Peranakan Indians</a>
+
+Growing up as a Chetti Melaka (Peranakan Indian),&nbsp;Tanya&nbsp;realised her family was different when she was seven or eight years old. Her family spoke Malay at home, ate&nbsp;_sambal belacan_, and had huge parties with a lot of unusual food. In this episode,&nbsp;Tanya&nbsp;talks with pride about the rituals of the ancestor worship known&nbsp;_parachu_&nbsp;and the cookbook containing traditional recipes of the Chetti Melaka community.
+
+<img src="/images/Podcast/isomer_tanya.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/podcast/chinese-vegetarian-foodscape/">The Chinese Vegetarian Foodscape of the 1950s–60s</a>
+
+The call for Singaporeans to switch from eating rice to eating wheat in 1967 did not take root despite best efforts by the government.
+
+<img src="/images/Vol%2019%20Issue%203/Wheat/image1.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary</a>
 
 A former teacher and&nbsp;_mak andam_&nbsp;fulfils her dream by writing a book on Malay recipes in 1986, the first all-Malay cookbook from Times Books International.
