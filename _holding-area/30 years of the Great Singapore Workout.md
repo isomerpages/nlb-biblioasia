@@ -76,3 +76,9 @@ While familiar moves from the 1993 version were retained in the refreshed iterat
 The official launch of the Great Singapore Workout in 1993 marked the inaugural Healthy Lifestyle Day, signalling the commencement of the month-long National Healthy Lifestyle Campaign. The push by the Health Ministry to get people to exercise has borne fruit. The 2021 National Population Health Survey revealed that 32.5 percent of Singapore residents aged 18 to 74 years engaged in regular exercise during their leisure time, a significant improvement from the 13.6 percent in 1992.24
 
 The explosion in the number of gyms around Singapore is just one very visible example of how people in Singapore are taking exercise more seriously now compared to four decades ago. Perhaps enough Singaporeans gave the workout a try and discovered that the song’s closing lyrics were true:
+
+_Just give it a go_
+
+_And what do you know_
+
+_Soon you’ll be feeling just fine_
