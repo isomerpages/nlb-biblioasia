@@ -54,6 +54,13 @@ Chinese food in Singapore is a product of the country’s history and geography,
 <img src="/images/Vol%2018%20Issue%201/Chinese%20Food/hokkien%20mee.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine/">Unravelling the Mystery of Ubin's German Girl Shrine</a>
+
+What is the truth behind the German girl shrine on Pulau Ubin?&nbsp;**William L. Gibson**&nbsp;investigates the history of Pulau Ubin to uncover the origin of the tale.
+
+<img src="/images/vol-17-issue-3/ubin-shrine/Cover2.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/betel-chewing/">A Bite of History: Betel Chewing in Singapore</a>
 
 **Fiona Lim** and **Geoffrey Pakiam** look at a time-honoured tradition that is no longer fashionable.
