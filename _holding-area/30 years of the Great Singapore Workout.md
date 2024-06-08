@@ -63,6 +63,10 @@ On 30 September and 1 October 1993, during ACES (All Children Exercising Simulta
 <div style="background-color: white;"> The poster for the launch of the Great Singapore Workout at the Padang on 3 October 1993.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+<div style="background-color: white;">School children doing the Great Singapore Workout on ACES (All Children Exercising Simultaneously) Day in 1993.<i> Image from Ministry of Health Singapore, Annual Report 1993 (Singapore: Ministry of Health, 1994), 30. (From National Library, Singapore, call no. RCLOS 354.59570677 SMHAR-[AR]).</i></div>
+
+
 #### **Variations of the Workout**
 
 Between 1993 and 1998, the Great Singapore Workout was a mass event. However, from 1999, the workout was decentralised. It was also used by schools and the community as a warm-up programme before any sports events.[^15]&nbsp;
