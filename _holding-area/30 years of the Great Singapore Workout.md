@@ -139,28 +139,28 @@ Scan this QR code to watch the original video.</div>
 
 [^11]:  Lum, “The Making of a Great Workout.”
 
-[^12]:
+[^12]:  Ministry of Health, “Great Singapore Workout,” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807)
 
-[^13]:
+[^13]: Lum, “The Making of a Great Workout.”
 
-[^14]:
+[^14]: Lum, “The Making of a Great Workout”; “Page 23 Advertisements Column 1: Great Singapore Workout,” _Straits Times_, 19 September, 1993, 23; “Do the Singapore Workout – At Home,” Straits Times, 9 September 1993, 20; “No Sweat for Daryl,” _Straits Times_, 20 September 1993, 24; “Warming Up to the Workout,” _Straits Times_, 26 September 1993, 26. (From NewspaperSG)
 
-[^15]:
+[^15]: “Exercise: The Office Workout,” _Straits Times_, 11 September 1999, 60. (From NewspaperSG)
 
-[^16]:
+[^16]:  Ginnie Teo, “PM Goh to Kick Off Healthy Lifestyle Drive on Sunday,” _Straits Times_, 6 September 1994, 3. (From NewspaperSG)
 
-[^17]:
+[^17]:  “Move to a New Workout Beat,” _Straits Times_, 7 September 1996, 29. (From NewspaperSG)
 
-[^18]:
+[^18]:  “60 Companies Now Have Health Facilitators for Staff,” _Straits Times_, 13 October 1994, 23; “Easy Exercises for the Wheelchair-Bound,” _Straits Times_, 20 February 1995, 20. (From NewspaperSG)
 
-[^19]:
+[^19]: “Get a Quick Fix in the Office With Work Fit,” _Straits Times_, 9 September 2001, 4; Working to Fitness,” _Straits Times_, 9 September 2001, 5. (From NewspaperSG)
 
-[^20]:
+[^20]:  Health Promotion Board, Singapore, “Singapore Comes Together to Celebrate 20 Years of Healthy Lifestyle,” press release, 27 October 2012. (From National Archives of Singapore, document no. 20121103001); “Have a Go at the New Great Singapore Workout,” _Straits Times_, 26 July 2012, 8. (From NewspaperSG)
 
-[^21]:
+[^21]:  Jalelah Abu Baker, “POSB Puts Its Own Spin on the Great Singapore Workout in a Fun Video,” _Straits Times_, 7 August 2015, https://www.straitstimes.com/singapore/posb-puts-its-own-spin-on-the-great-singapore-workout-in-a-fun-video.
 
-[^22]:
+[^22]:  Health Promotion Board, “Refreshed Version of ‘The Great Singapore Workout’ Rolled Out at the 2018 Healthy Lifestyle Festival SG, Marking 25 Years of Its Creation,” press release, 11 November 2018, https://www.hpb.gov.sg/newsroom/article/refreshed-version-of-the-great-singapore-workout-rolled-out-at-the-2018-healthy-lifestyle-festival-sg-marking-25-years-of-its-creation.
 
-[^23]:
+[^23]: Health Promotion Board, _Annual Report 2018/2019_ (Singapore: Health Promotion Board, 2020), 27–28, https://www.hpb.gov.sg/docs/default-source/annual-reports/hpb-annual-report-2018\_2019.pdf; Health Promotion Board, “National Steps Challenge™ Presents The Greater Singapore Workout!”, 11 November 2018, _hpbsg_, YouTube video, 5:53, https://youtu.be/rRt3tXSg-U8?si=MkKm4nWbvFcfr2-k.
 
-[^24]:
+[^24]:  Ministry of Health, _National Population Health Survey 2021 Report_&nbsp; (Singapore: Ministry of Health, 2022), 3–10, https://www.moh.gov.sg/resources-statistics/reports/nphs-2020-21.
