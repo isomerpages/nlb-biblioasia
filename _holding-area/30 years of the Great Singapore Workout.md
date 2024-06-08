@@ -71,10 +71,14 @@ On 30 September and 1 October 1993, during ACES (All Children Exercising Simulta
 
 Between 1993 and 1998, the Great Singapore Workout was a mass event. However, from 1999, the workout was decentralised. It was also used by schools and the community as a warm-up programme before any sports events.[^15]&nbsp;
 
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+<div style="background-color: white;">Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1995 National Healthy Lifestyle Campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 Over the years, there have been variations to the original routine to suit different fitness levels and purposes. In 1994, for Prisons Healthy Lifestyle Day, Changi Prison inmates performed a _taiji_ version of the workout in a slower beat followed by the actual workout. “By doing two versions of the workout, we are mixing Eastern and Western styles. The _taiji_ style also helps us to warm up first before exerting ourselves for the actual workout,” said an inmate.[^16] &nbsp;
 
 ![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
-<div style="background-color: white;">Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1995 National Healthy Lifestyle Campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">A screengrab from the “Great Singapore Workout” video showing instructors performing the steps of the exercise routine. <i>Image from Ministry of Health, “Great Singapore Workout,” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807).</i></div>
 
 
 In 1996, schools adopted the Fun and Fitness Workout, a more energetic and upbeat version estimated to be three times more vigorous than the original workout. The 15-minute routine, choreographed by the Singapore Fitness Instructors’ Association, consisted of three parts – warm-up, an aerobic segment and a cool-down.[^17]&nbsp;
@@ -88,6 +92,10 @@ Eight years later, in 2009, the HPB created the New Great Singapore Workout whic
 Local bank POSB put its own spin on things. In 2015, it rolled out “The Neighbourhood Workout” consisting of six moves “synonymous with Singapore”: “selfie snap”, “prata flip”, “kaya spread”, “shopping bag drag”, “MRT squeeze” and “bus balance”. The video showed people performing the moves in different parts of Singapore such as at a lift landing, in a corridor and at a hawker centre. Within two weeks of the video being uploaded on POSB’s Facebook page, it had received more than 100,000 views.[^21]&nbsp;
 
 To commemorate the 25th anniversary of the original workout in 2018, the HPB launched a new version, calling it “The Greater Singapore Workout”. Comprising 11 exercises, the workout, like the original, is “made simple, fun and engaging” so that it could be followed by “anyone, young or old”, and performed “in any setting”.[^22] &nbsp;
+
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+<div style="background-color: white;"> A screengrab from Health Promotion Board’s “Greater Singapore Workout” video showing instructors performing “The Kiasu Chope” move, 2018. <i>Image from “National Steps Challenge™ Presents The Greater Singapore Workout!” hpbsg, 11 November 2018, YouTube video, 5:53.</i></div>
+
 
 While familiar moves from the 1993 version were retained in the refreshed iteration, the new workout had a more upbeat tune and featured different sets of upper body, lower body and full body movements. It also included new moves “inspired by everyday actions to strike a chord with Singaporeans” such as “Mozzie Clap”, “Puddle Hop”, “Kiasu Chope” and “Teh Tarik”.[^23]&nbsp;
 
