@@ -19,6 +19,11 @@ _Workout Time_
 
 And with those words, the Great Singapore Workout was officially launched on 3 October 1993. On that day, Prime Minister Goh Chok Tong, dressed in a pink T-shirt and crisp white shorts – together with some 26,000 similarly clad individuals – took to the Padang to do a dance workout in a bid to get Singaporeans to exercise and keep fit. Goh told reporters that he had enjoyed the session. “It is a good exercise,” he said. “I recommend this to everybody.” Goh had undergone two training sessions and then practised on his own a few times before his public debut.[^1] &nbsp;
 
+
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+<div style="background-color: white;"> Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1993 National Healthy Lifestyle Campaign. <i> Image from Ministry of Health Singapore, Annual Report 1993 (Singapore: Ministry of Health, 1994), 30. (From National Library, Singapore, call no. RCLOS 354.59570677 SMHAR-[AR]).</i></div>
+
+
 #### **Why a National Workout?**
 
 The workout was first unveiled on 1 September 1993 as the highlight of the second National Healthy Lifestyle Campaign.[^2] The Healthy Lifestyle Committee headed by Kwa Soon Bee, the permanent secretary of the Ministry of Health, was the brainchild behind the workout. The committee hoped to “popularise the Great Singapore Workout as a Singapore exercise which everyone can do in the schools, homes and workplaces even after the campaign”.[^3] “It is a simple exercise routine which Singaporeans of all ages could learn and enjoy,” said Kwa.
@@ -52,6 +57,10 @@ On 30 September and 1 October 1993, during ACES (All Children Exercising Simulta
 Between 1993 and 1998, the Great Singapore Workout was a mass event. However, from 1999, the workout was decentralised. It was also used by schools and the community as a warm-up programme before any sports events.[^15]&nbsp;
 
 Over the years, there have been variations to the original routine to suit different fitness levels and purposes. In 1994, for Prisons Healthy Lifestyle Day, Changi Prison inmates performed a _taiji_ version of the workout in a slower beat followed by the actual workout. “By doing two versions of the workout, we are mixing Eastern and Western styles. The _taiji_ style also helps us to warm up first before exerting ourselves for the actual workout,” said an inmate.[^16] &nbsp;
+
+![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+<div style="background-color: white;">Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1995 National Healthy Lifestyle Campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 In 1996, schools adopted the Fun and Fitness Workout, a more energetic and upbeat version estimated to be three times more vigorous than the original workout. The 15-minute routine, choreographed by the Singapore Fitness Instructors’ Association, consisted of three parts – warm-up, an aerobic segment and a cool-down.[^17]&nbsp;
 
