@@ -116,19 +116,19 @@ Scan this QR code to watch the original video.</div>
 
 #### **Notes**
 
-[^1]: “Great Singapore Workout Theme Song,” _Straits Times_, 1 October 1993, 5; “60,000 Huge Turnout at Great Workout,” _Straits Times_, 4 October 1993, 1. (From NewspaperSG)
+[^1]: “[Great Singapore Workout Theme Song](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19931001-1.2.137.11),” _Straits Times_, 1 October 1993, 5; “[60,000 Huge Turnout at Great Workout](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19931004-1.2.3),” _Straits Times_, 4 October 1993, 1. (From NewspaperSG)
 
-[^2]: Brendan Pereira, “15-Minute Five-Step Way to Lose 100 Calories,” _Straits Times_, 1 September 1993, 19. (From NewspaperSG)
+[^2]: Brendan Pereira, “[15-Minute Five-Step Way to Lose 100 Calories](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19930901-1.2.32.3),” _Straits Times_, 1 September 1993, 19. (From NewspaperSG)
 
-[^3]: Magdalene Lum, “The Making of a Great Workout,” _Straits Times_, 26 September 1993, 9; “Message from the Permanent Secretary, Ministry of Health, Dr Kwa Soon Bee,” _Straits Times_, 1 October 1993, 1. (From NewspaperSG)
+[^3]: Magdalene Lum, “[The Making of a Great Workout](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19930926-1.2.84.9.5),” _Straits Times_, 26 September 1993, 9; “[Message from the Permanent Secretary, Ministry of Health, Dr Kwa Soon Bee](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19931001-1.2.137.2),” _Straits Times_, 1 October 1993, 1. (From NewspaperSG)
 
-[^4]: Ministry of Health, _National Health Survey 1992: Highlights of Main Survey Findings_ (Singapore: Singapore: Research and Evaluation Department, Ministry of Health, 1993), 2–3. (From National Library, Singapore, call no. RSING 614.425957 NAT)
+[^4]: Ministry of Health, [_National Health Survey 1992: Highlights of Main Survey Findings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200019406) (Singapore: Singapore: Research and Evaluation Department, Ministry of Health, 1993), 2–3. (From National Library, Singapore, call no. RSING 614.425957 NAT)
 
-[^5]: “Message from the Permanent Secretary, Ministry of Health, Dr Kwa Soon Bee.”
+[^5]: “[Message from the Permanent Secretary, Ministry of Health, Dr Kwa Soon Bee](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19931001-1.2.137.2).”
 
-[^6]: Lum, “The Making of a Great Workout.”
+[^6]: Lum, “[The Making of a Great Workout](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19930926-1.2.84.9.5).”
 
-[^7]: Pereira, “The Great S’pore Workout”;&nbsp; Lum, “The Making of a Great Workout.”
+[^7]: Pereira, “[The Great S’pore Workout](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19930726-1.2.3)”;&nbsp; Lum, “[The Making of a Great Workout](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19930926-1.2.84.9.5).”
 
 [^8]: Lum, “The Making of a Great Workout.”
 
