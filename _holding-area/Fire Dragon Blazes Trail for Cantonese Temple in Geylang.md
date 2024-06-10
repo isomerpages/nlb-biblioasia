@@ -82,9 +82,12 @@ Although the Fire Dragon dance was first performed in the temple in 1989, it was
 
 The Sar Kong Mun San Fook Tuck Chee Temple was established during the early 1860s according to an inscription on a stele that is dated to 1901. The temple was originally located in the Kallang Basin and its name, Sar Kong, meaning “sand dune”, was the name of a village there. The village got its name from sandy deposits in the area that attracted the earliest brick kiln operators to set up their kilns in the vicinity.[^2]&nbsp;The temple moved to its present site at Sims Drive in 1901.[^3]&nbsp;
 
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Sar_kong_mun_san_fook_tuck_chee.jpg" style="width: 80%;">
+<div style="background-color: white;">The Sar Kong Mun Fook Tuck Chee Temple at Sims Drive, 2007. <i>Courtesy of Ang Yik Han.</i></div>
+
   
 
-* * *
+
 
 
 
