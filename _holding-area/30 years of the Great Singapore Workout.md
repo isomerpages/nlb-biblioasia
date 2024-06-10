@@ -77,7 +77,7 @@ Between 1993 and 1998, the Great Singapore Workout was a mass event. However, fr
 
 Over the years, there have been variations to the original routine to suit different fitness levels and purposes. In 1994, for Prisons Healthy Lifestyle Day, Changi Prison inmates performed a _taiji_ version of the workout in a slower beat followed by the actual workout. “By doing two versions of the workout, we are mixing Eastern and Western styles. The _taiji_ style also helps us to warm up first before exerting ourselves for the actual workout,” said an inmate.[^16] &nbsp;
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img6.jpg)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img6a.jpg)
 <div style="background-color: white;">A screengrab from the “Great Singapore Workout” video showing instructors performing the steps of the exercise routine. <i>Image from Ministry of Health, “Great Singapore Workout,” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807).</i></div>
 
 
