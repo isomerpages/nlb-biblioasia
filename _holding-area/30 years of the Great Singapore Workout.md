@@ -10,7 +10,7 @@ description: Launched in 1993, the Great Singapore Workout has spawned
 By Lim Tin Seng
 
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img5.jpg)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img5a.jpg)
 <div style="background-color: white;">Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1995 National Healthy Lifestyle Campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 
