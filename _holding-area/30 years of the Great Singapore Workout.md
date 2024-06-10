@@ -94,7 +94,7 @@ Local bank POSB put its own spin on things. In 2015, it rolled out “The Neighb
 To commemorate the 25th anniversary of the original workout in 2018, the HPB launched a new version, calling it “The Greater Singapore Workout”. Comprising 11 exercises, the workout, like the original, is “made simple, fun and engaging” so that it could be followed by “anyone, young or old”, and performed “in any setting”.[^22] &nbsp;
 
 ![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7.jpg)
-<div style="background-color: white;"> A screengrab from Health Promotion Board’s “Greater Singapore Workout” video showing instructors performing “The Kiasu Chope” move, 2018. <i>Image from “National Steps Challenge™ Presents The Greater Singapore Workout!” hpbsg, 11 November 2018, YouTube video, 5:53.</i></div>
+<div style="background-color: white;"> A screengrab from Health Promotion Board’s “Greater Singapore Workout” video showing instructors performing “The Kiasu Chope” move, 2018. <i>Image from “National Steps Challenge</i>™ <i>Presents The Greater Singapore Workout!” hpbsg, 11 November 2018, YouTube video, 5:53.</i></div>
 
 
 While familiar moves from the 1993 version were retained in the refreshed iteration, the new workout had a more upbeat tune and featured different sets of upper body, lower body and full body movements. It also included new moves “inspired by everyday actions to strike a chord with Singaporeans” such as “Mozzie Clap”, “Puddle Hop”, “Kiasu Chope” and “Teh Tarik”.[^23]&nbsp;
