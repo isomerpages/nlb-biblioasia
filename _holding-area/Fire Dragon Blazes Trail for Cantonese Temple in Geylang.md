@@ -85,7 +85,7 @@ The Sar Kong Mun San Fook Tuck Chee Temple was established during the early 1860
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Sar_kong_mun_san_fook_tuck_chee.jpg" style="width: 80%;">
 <div style="background-color: white;">The Sar Kong Mun Fook Tuck Chee Temple at Sims Drive, 2007. <i>Courtesy of Ang Yik Han.</i></div>
 
-The main deity worshipped at the temple is Tu Di Gong (also known as the Earth Deity, Tu Di Ye Ye, Toh Teh Ye Ye or Bo Gong), likely due to the numerous brick kilns in the area. The workers of these kilns were either Cantonese or Hakka and they brought their custom of worshiping Tu Di Gong along with them.[\[1\]](#_ftn1) As a mark of respect to Tu Di Gong, prayers were routinely offered prior to the firing of the kilns. The birthday celebrations of this deity, which falls on the second day of the second lunar month, is the most important occasion in the calendar of events for the temple.
+The main deity worshipped at the temple is Tu Di Gong (also known as the Earth Deity, Tu Di Ye Ye, Toh Teh Ye Ye or Bo Gong), likely due to the numerous brick kilns in the area. The workers of these kilns were either Cantonese or Hakka and they brought their custom of worshiping Tu Di Gong along with them.[^4] As a mark of respect to Tu Di Gong, prayers were routinely offered prior to the firing of the kilns. The birthday celebrations of this deity, which falls on the second day of the second lunar month, is the most important occasion in the calendar of events for the temple.
 
 A few lesser-known deities are also worshipped at the temple, which is known as a Cantonese temple. One such deity is Jin Hua Fu Ren (金花夫人 or Kam Fa Leung Leung), a female deity unique to the Cantonese. She is a protector of women and a goddess of fertility and childbirth. The deities Hua Gong Hua Po (花公花婆 or Fa Kung Fa Po) are Jin Hua Fu Ren’s subordinates who are in charge of matrimony and childbirth.&nbsp;
 
@@ -102,7 +102,7 @@ Chin remembers an idyllic childhood with “everyone sitting outside their house
 
 A temporary opera stage would be set up across the temple, where opera shows would be staged on temple feast days. The temporary opera stage also provided shelter and a place for Chinese coolies to rest. Chinese migrants who found work at the nearby brick kilns sometimes also slept under the opera stage.
 
-The temple was also active within the community. In 1942, it established Meng Yang School and the Sar Kong Sports Association.[\[1\]](#_ftn1) In fact, the temple’s current historical museum hall was once a sports hall used for table tennis and martial arts practices. The temple also used to have a huge pot to cook plain, white rice, which was distributed to the needy as well as Chinese workers living near the temple. “We just added a pinch of salt to make it more palatable,” said Chin.
+The temple was also active within the community. In 1942, it established Meng Yang School and the Sar Kong Sports Association.[^5] In fact, the temple’s current historical museum hall was once a sports hall used for table tennis and martial arts practices. The temple also used to have a huge pot to cook plain, white rice, which was distributed to the needy as well as Chinese workers living near the temple. “We just added a pinch of salt to make it more palatable,” said Chin.
 
 In keeping with the temple’s commitment to safeguarding the Fire Dragon, Master Zhen hopes to pass down his knowledge to the next generation. He wants to educate the public about the Fire Dragon and conduct classes for those keen to learn the art form – and in doing ensure the longevity and legacy of the dragon.
 
@@ -110,7 +110,7 @@ In keeping with the temple’s commitment to safeguarding the Fire Dragon, Maste
 
 * * *
 
-[\[1\]](#_ftnref1) Lü, [投桃之报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009)_,_ 40.
+
 
   
 
@@ -135,3 +135,5 @@ In keeping with the temple’s commitment to safeguarding the Fire Dragon, Maste
 [^3]:  Ang, [乡情祠韵](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176), 28.
 
 [^4]:  Lü Shicong 吕世聪, Tou tao zhi bao : Wanshan Gang Fude Ci li shi su yuan [投桃之报 : 万山港福德祠历史溯源](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009) \[A boon returned : the history of Mun San Fook Tuck Chee\] (Singapore : 石叻学会, 2008), 44. (Call no. RSING 203.5095957 LSC)
+
+[^5]:  Lü, [投桃之报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009)_,_ 40.
