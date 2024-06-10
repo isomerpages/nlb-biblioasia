@@ -108,23 +108,6 @@ In keeping with the temple’s commitment to safeguarding the Fire Dragon, Maste
 
   
 
-* * *
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-
-
-* * *
 
 #### **Notes**
 
