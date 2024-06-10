@@ -20,7 +20,7 @@ _Workout Time_
 And with those words, the Great Singapore Workout was officially launched on 3 October 1993. On that day, Prime Minister Goh Chok Tong, dressed in a pink T-shirt and crisp white shorts – together with some 26,000 similarly clad individuals – took to the Padang to do a dance workout in a bid to get Singaporeans to exercise and keep fit. Goh told reporters that he had enjoyed the session. “It is a good exercise,” he said. “I recommend this to everybody.” Goh had undergone two training sessions and then practised on his own a few times before his public debut.[^1] &nbsp;
 
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img1.jpg)
 <div style="background-color: white;"> Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1993 National Healthy Lifestyle Campaign. <i> Image from Ministry of Health Singapore, Annual Report 1993 (Singapore: Ministry of Health, 1994), 30. (From National Library, Singapore, call no. RCLOS 354.59570677 SMHAR-[AR]).</i></div>
 
 
@@ -51,7 +51,7 @@ Miller worked with cameraman Geoff Oliver and the production crew from Panorama 
 In the lead-up to the official launch of the workout, a marketing blitz was carried out to promote it and encourage the public to learn the steps. The workout video and audio tapes were distributed free-of-charge to schools and organisations and sold in retail outlets, while instructional spreads showing the workout steps were published in local newspapers. Additionally, a series of “warm-up” events were organised throughout September to introduce the workout to the public.[^14]&nbsp;
 
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img2.jpg)
 <div style="background-color: white;"> An instructional page from <i>Lianhe Zaobao</i> showing the steps of the Great Singapore Workout, 3 October 1993.<i> Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 
@@ -59,11 +59,11 @@ In the lead-up to the official launch of the workout, a marketing blitz was carr
 On 30 September and 1 October 1993, during ACES (All Children Exercising Simultaneously) Day, approximately half a million students across primary and secondary schools, junior colleges and kindergartens did the workout (those from the primary and kindergarten levels were given a shorter 10-minute “shape-up kids” routine that combined simpler and lighter movements such as stretching and jogging on the spot).&nbsp;
 
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img3.jpg)
 <div style="background-color: white;"> The poster for the launch of the Great Singapore Workout at the Padang on 3 October 1993.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img4.jpg)
 <div style="background-color: white;">School children doing the Great Singapore Workout on ACES (All Children Exercising Simultaneously) Day in 1993.<i> Image from Ministry of Health Singapore, Annual Report 1993 (Singapore: Ministry of Health, 1994), 30. (From National Library, Singapore, call no. RCLOS 354.59570677 SMHAR-[AR]).</i></div>
 
 
@@ -71,13 +71,13 @@ On 30 September and 1 October 1993, during ACES (All Children Exercising Simulta
 
 Between 1993 and 1998, the Great Singapore Workout was a mass event. However, from 1999, the workout was decentralised. It was also used by schools and the community as a warm-up programme before any sports events.[^15]&nbsp;
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img5.jpg)
 <div style="background-color: white;">Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1995 National Healthy Lifestyle Campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 Over the years, there have been variations to the original routine to suit different fitness levels and purposes. In 1994, for Prisons Healthy Lifestyle Day, Changi Prison inmates performed a _taiji_ version of the workout in a slower beat followed by the actual workout. “By doing two versions of the workout, we are mixing Eastern and Western styles. The _taiji_ style also helps us to warm up first before exerting ourselves for the actual workout,” said an inmate.[^16] &nbsp;
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img6.jpg)
 <div style="background-color: white;">A screengrab from the “Great Singapore Workout” video showing instructors performing the steps of the exercise routine. <i>Image from Ministry of Health, “Great Singapore Workout,” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807).</i></div>
 
 
@@ -93,7 +93,7 @@ Local bank POSB put its own spin on things. In 2015, it rolled out “The Neighb
 
 To commemorate the 25th anniversary of the original workout in 2018, the HPB launched a new version, calling it “The Greater Singapore Workout”. Comprising 11 exercises, the workout, like the original, is “made simple, fun and engaging” so that it could be followed by “anyone, young or old”, and performed “in any setting”.[^22] &nbsp;
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7.jpg)
 <div style="background-color: white;"> A screengrab from Health Promotion Board’s “Greater Singapore Workout” video showing instructors performing “The Kiasu Chope” move, 2018. <i>Image from “National Steps Challenge™ Presents The Greater Singapore Workout!” hpbsg, 11 November 2018, YouTube video, 5:53.</i></div>
 
 
@@ -137,7 +137,7 @@ And what do you know<br>
 Soon you’ll be feeling just fine<br> 
 It's Singapore, Singapore&nbsp;<br> 
 Workout Time<br><br>
-<img src="/images/Vol%2020%20Issue%201/Vietnam%20War/Image_book/.png">
+<img src="/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_qr.png">
  <br> 
 Scan this QR code to watch the original video.</div>
 			
