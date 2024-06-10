@@ -35,7 +35,19 @@ Creating the dragon is a painstaking, tedious process – just constructing the 
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Sewing_of_the_dried_straw_closing_up_of_string.jpg" style="width: 80%;">
 <div style="background-color: white;">(Left) Sewing of dried straw to form the dragon. (Right) Close-up of string used to sew the straw together, 2023. <i>Courtesy of Edmund Lau.</i></div>
 
+The straw that is used for the dragon is specially obtained from farmers in Xiamen, China. “They do not charge us a fee, but we do provide gratuity for the labour as well as arrange for the dried straw to be packed into a container, then shipped to Singapore,” said Chin. “It is a tedious process, but it has to be done as Singapore doesn’t have paddy fields to produce dried straw for us to use.” To prevent the straw from disintegrating due to Singapore’s heat, it is sprayed with water when in storage.
 
+The younger members of the dragon dance troupe help to construct the body of the dragon, while Fong and Zhen take on the more difficult tasks of crafting the dragon’s head and tail.
+
+Securing the straw to the head of the dragon requires skill. A needle in a shape of a metal hook is used to secure the bunches of straw to the frame of the dragon’s head. Zhen has a special technique for sewing on the straw. “Just like a seamstress or a tailor who has a method to work with, I have a method which I have adopted to sew the straw,” he said. “It’s not easy as I need to ensure the right tension is used so that the straw will not unravel during the dance of the Fire Dragon.”
+
+Making the antlers of the dragon is particularly challenging because it requires pulling excess straw into “the ends of the antlers of the dragon”, cutting and then tucking them back into themselves to make clean, sharp edges. “Making it neat and looking sharp takes years of skill,” said Zhen.
+
+Some parts of the dragon’s head, like its mouth and teeth, are made by attaching a _base layer of gauze, with paper layered on. Colour is added after the layers dry. Other parts are fashioned out of painted paper and wood cut-outs._ The eyes of the dragon are made from plastic light bulbs.&nbsp;
+
+They used to use wire to secure the rattan together to make the frame, but the wire would cut Zhen’s hands and fingers, so they switched to plastic cable ties instead, which was also faster and easier to use.
+
+Changes in the quality of rattan have presented challenges for the dragon-makers. The rattan they receive is already stripped of its bark, which makes it less malleable, and a lot of effort and a longer time is needed to get it to bend. To use it, they must first be soaked in water to make it more flexible. A hairdryer is then used to heat up spots to bend the rattan into the desired shape.
   
 
 * * *
