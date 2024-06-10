@@ -10,6 +10,10 @@ description: Launched in 1993, the Great Singapore Workout has spawned
 By Lim Tin Seng
 
 
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img5.jpg)
+<div style="background-color: white;">Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1995 National Healthy Lifestyle Campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 _Get out of your seat_ <br>
 _On to your feet_<br>
 _Get your body moving like mine_<br>
@@ -22,10 +26,6 @@ And with those words, the Great Singapore Workout was officially launched on 3 O
 
 ![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img1.jpg)
 <div style="background-color: white;"> Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1993 National Healthy Lifestyle Campaign. <i> Image from Ministry of Health Singapore, Annual Report 1993 (Singapore: Ministry of Health, 1994), 30. (From National Library, Singapore, call no. RCLOS 354.59570677 SMHAR-[AR]).</i></div>
-
-
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img5.jpg)
-<div style="background-color: white;">Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1995 National Healthy Lifestyle Campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 #### **Why a National Workout?**
