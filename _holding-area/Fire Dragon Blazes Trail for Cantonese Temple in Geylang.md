@@ -85,6 +85,19 @@ The Sar Kong Mun San Fook Tuck Chee Temple was established during the early 1860
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Sar_kong_mun_san_fook_tuck_chee.jpg" style="width: 80%;">
 <div style="background-color: white;">The Sar Kong Mun Fook Tuck Chee Temple at Sims Drive, 2007. <i>Courtesy of Ang Yik Han.</i></div>
 
+The main deity worshipped at the temple is Tu Di Gong (also known as the Earth Deity, Tu Di Ye Ye, Toh Teh Ye Ye or Bo Gong), likely due to the numerous brick kilns in the area. The workers of these kilns were either Cantonese or Hakka and they brought their custom of worshiping Tu Di Gong along with them.[\[1\]](#_ftn1) As a mark of respect to Tu Di Gong, prayers were routinely offered prior to the firing of the kilns. The birthday celebrations of this deity, which falls on the second day of the second lunar month, is the most important occasion in the calendar of events for the temple.
+
+A few lesser-known deities are also worshipped at the temple, which is known as a Cantonese temple. One such deity is Jin Hua Fu Ren (金花夫人 or Kam Fa Leung Leung), a female deity unique to the Cantonese. She is a protector of women and a goddess of fertility and childbirth. The deities Hua Gong Hua Po (花公花婆 or Fa Kung Fa Po) are Jin Hua Fu Ren’s subordinates who are in charge of matrimony and childbirth.&nbsp;
+
+Jin Hua Fu Ren also has assistants or attendant deities, known as Shi Er Nai Niang (十二奶娘). These are 12 nannies who bless children, and women for fertility, conception and smooth deliveries.&nbsp;Women praying to conceive children often tie red strings onto the infants held by these nannies.&nbsp;
+
+  
+
+* * *
+
+
+
+
   
 
 
@@ -101,3 +114,5 @@ The Sar Kong Mun San Fook Tuck Chee Temple was established during the early 1860
 [^2]:  Ang, [乡情祠韵](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176), 42.
 
 [^3]:  Ang, [乡情祠韵](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176), 28.
+
+[^4]:  Lü Shicong 吕世聪, Tou tao zhi bao : Wanshan Gang Fude Ci li shi su yuan [投桃之报 : 万山港福德祠历史溯源](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009) \[A boon returned : the history of Mun San Fook Tuck Chee\] (Singapore : 石叻学会, 2008), 44. (Call no. RSING 203.5095957 LSC)
