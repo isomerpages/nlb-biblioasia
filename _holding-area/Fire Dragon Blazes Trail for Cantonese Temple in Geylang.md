@@ -15,7 +15,7 @@ The Straw Fire Dragon (稻草香火龍) has a body that is made from straw wrapp
 
 This particular dragon dance is only performed once every three years, on the second day of the second lunar month to celebrate the birthday of the Earth Deity or Tu Di Ye Ye (土地爷爷). It is organised by the Sar Kong Mun San Fook Tuck Chee Temple (沙岡萬山福德祠) in Sims Drive in Geylang. The Fire Dragon dance originated in Guangdong province in China and the temple decided to perform this dance in the late 1980s.[^1]
 
-<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Suspended_body_of_fire_dragon_at_the_Sar_Kong_Heritage_Room.jpg" style="width: 85%;">
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Suspended_body_of_fire_dragon_at_the_Sar_Kong_Heritage_Room.jpg" style="width: 80%;">
 <div style="background-color: white;">A Fire Dragon at the Sar Kong Heritage Room.<i>Courtesy of Edmund Lau 2023.</i></div>
 
 #### **The Making of a Dragon**
@@ -26,9 +26,9 @@ The Fire Dragon’s first performance was in 1989, on the 15th day of the eighth
 
 Creating the dragon is a painstaking, tedious process – just constructing the head alone can take up to two months while the whole dragon from head-to-claws can take almost half a year. There are only two craftsmen in Singapore who can make the dragon – Fong Keng Yan (冯景源) and Zhen Meng Chye (甄明仔). Fong had travelled to Hetang, Xinhui County in China’s Guangdong Province to learn the art of making the fire dragon. Zhen, in turn, picked up his skills by observing Fong at work on the temple grounds.
 
-<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Master_Fong_working_on_a_dragon_frame.jpg" style="width: 55%;">
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Master_Fong_working_on_a_dragon_frame.jpg" style="width: 80%;">
 <div style="background-color: white;">Fong Keng Yan working on a dragon frame. <i>Courtesy of Man San Fook Tuck Chee.</i></div><br>
-<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Sewing_with_a_metal_hook.jpg" style="width: 55%;">
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Sewing_with_a_metal_hook.jpg" style="width: 80%;">
 <div style="background-color: white;">Zhen Meng Chye attaches bunches of straw to the rattan frame with a metal hook, 2023. <i>Courtesy of Edmund Lau.</i></div><br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Closing_up_of_frame_sewn_bundles.jpg" style="width: 80%;">
 <div style="background-color: white;">(Left) Close-up of the rattan frame and straw for the antlers. <i>Courtesy of Edmund Lau</i>. (Right) Detail of the bundles of straw sewn together, 2023. <i>Courtesy of ANTZ.</i></div><br>
