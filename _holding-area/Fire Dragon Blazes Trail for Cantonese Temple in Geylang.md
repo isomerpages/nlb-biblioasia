@@ -49,7 +49,8 @@ They used to use wire to secure the rattan together to make the frame, but the w
 
 Changes in the quality of rattan have presented challenges for the dragon-makers. The rattan they receive is already stripped of its bark, which makes it less malleable, and a lot of effort and a longer time is needed to get it to bend. To use it, they must first be soaked in water to make it more flexible. A hairdryer is then used to heat up spots to bend the rattan into the desired shape.
   
-
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/details_of_dragon_face.jpg" style="width: 80%;">
+<div style="background-color: white;">(Left) Sewing of dried straw to form the dragon. (Right) Close-up of string used to sew the straw together, 2023. <i>Courtesy of Edmund Lau.</i></div>
 * * *
 
 #### **Notes**
