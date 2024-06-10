@@ -63,6 +63,20 @@ Once the entire dragon has been constructed, all that is left is the performance
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/segment_of_body_with_lit_incense.jpg" style="width: 80%;">
 <div style="background-color: white;">(Right) A section of the body with lit incense. (Left) Joss sticks adorning the pearl of wisdom.  <i>Courtesy of Yeo GT 2023.</i></div>
 
+The Fire Dragon, at more than 60 m long and festooned with thousands of burning joss sticks, is a striking sight as it manoeuvres through the smoke. The parade of the dragon begins in the temple before going through the nearby streets. The procession is believed to help dissipate anger caused by the disturbance of the land around the temple felt by the temple’s deities.
+
+The dragon is brought to life by about 80 to 100 dancers (including fire throwers) from the temple’s lion dance troupe which was established in 1983. Weighing in at a total of 65 kg, performing with the dragon is exhausting work – just the head alone requires three dancers who take turns to it hold up.
+
+The joss sticks take between three and four hours to burn through which means the performance will need to be concluded by that time. Eventually, the lit joss sticks burn to the point where they are buried into the straw and the straw catches fire. At that point, the dragon is left to rest on the ground to be devoured by the flames. The Fire Dragon ends its sojourn in this world surrounded by smoke and fire, ascending to the heavens bearing the wishes and prayers of its devotees.&nbsp;When the time comes for the next performance, an invitation ritual must be held to invite the dragon to descend from the heavens once again.
+
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Fire_dragon_paraded_Sims_Drive.jpg" style="width: 80%;">
+<div style="background-color: white;">The Fire Dragon parading down Sims Drive, 2023. <i>Courtesy of Yeo GT.</i></div><br>
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Fire_dragon_in_flames.jpg" style="width: 80%;">
+<div style="background-color: white;">The Fire Dragon in flames, c.1990s. <i>Courtesy of Mun San Fook Tuck Chee.</i></div>
+
+#### **The Sar Kong Mun San Fook Tuck Chee Temple**
+
+
 
 
 
