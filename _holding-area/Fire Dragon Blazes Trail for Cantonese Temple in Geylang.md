@@ -91,9 +91,28 @@ A few lesser-known deities are also worshipped at the temple, which is known as 
 
 Jin Hua Fu Ren also has assistants or attendant deities, known as Shi Er Nai Niang (十二奶娘). These are 12 nannies who bless children, and women for fertility, conception and smooth deliveries.&nbsp;Women praying to conceive children often tie red strings onto the infants held by these nannies.&nbsp;
 
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/deities.png" style="width: 80%;">
+<div style="background-color: white;">(Left) Jin Hua Fu Ren and her two attendants; (middle) one of Jin Hua Fu Ren’s Shi Er Nai Niang; and (right) Hua Tuo Xian Shi, 2008. <i>Courtesy of Ang Yik Han.</i></div>
+
+The temple is also home to Hua Tuo Xian Shi (华陀先师or Wah To), who was a legendary physician in the _Annals of the Three Kingdoms_. He is the patron deity of physicians and many immigrants prayed to him to resolve medical issues in the absence of access to healthcare.
+
+The temple used to be the centre of _kampung_ life.&nbsp;Chin, who is also the Vice-Chairman of the Taoist Federation Singapore, has lived most of his life near the temple. The temple owned much of the land surrounding it, which it rented out.&nbsp;
+
+Chin remembers an idyllic childhood with “everyone sitting outside their houses and chatting in the early evenings when it was too hot to be indoors. \[They\] were always together beside the river and that was the true _kampung_ spirit.”
+
+A temporary opera stage would be set up across the temple, where opera shows would be staged on temple feast days. The temporary opera stage also provided shelter and a place for Chinese coolies to rest. Chinese migrants who found work at the nearby brick kilns sometimes also slept under the opera stage.
+
+The temple was also active within the community. In 1942, it established Meng Yang School and the Sar Kong Sports Association.[\[1\]](#_ftn1) In fact, the temple’s current historical museum hall was once a sports hall used for table tennis and martial arts practices. The temple also used to have a huge pot to cook plain, white rice, which was distributed to the needy as well as Chinese workers living near the temple. “We just added a pinch of salt to make it more palatable,” said Chin.
+
+In keeping with the temple’s commitment to safeguarding the Fire Dragon, Master Zhen hopes to pass down his knowledge to the next generation. He wants to educate the public about the Fire Dragon and conduct classes for those keen to learn the art form – and in doing ensure the longevity and legacy of the dragon.
+
   
 
 * * *
+
+[\[1\]](#_ftnref1) Lü, [投桃之报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009)_,_ 40.
+
+  
 
 
 
