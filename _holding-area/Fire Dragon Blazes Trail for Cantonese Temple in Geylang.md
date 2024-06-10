@@ -76,7 +76,15 @@ The joss sticks take between three and four hours to burn through which means th
 
 #### **The Sar Kong Mun San Fook Tuck Chee Temple**
 
+         
 
+Although the Fire Dragon dance was first performed in the temple in 1989, it was performed irregularly until 2015 when the temple celebrated its 150th anniversary. Since then, the temple has put up the performance in the neighbourhood every three years. However, outside that schedule, they have also performed during the Chingay parade, most recently in 2024.
+
+The Sar Kong Mun San Fook Tuck Chee Temple was established during the early 1860s according to an inscription on a stele that is dated to 1901. The temple was originally located in the Kallang Basin and its name, Sar Kong, meaning “sand dune”, was the name of a village there. The village got its name from sandy deposits in the area that attracted the earliest brick kiln operators to set up their kilns in the vicinity.[^2]&nbsp;The temple moved to its present site at Sims Drive in 1901.[^3]&nbsp;
+
+  
+
+* * *
 
 
 
@@ -86,3 +94,7 @@ The joss sticks take between three and four hours to burn through which means th
 #### **Notes**
 
 [^1]:  Ang Yik Han 洪毅瀚, Xiang qing ci yun : Shagang Cun he wan shan fu de ci de liu bian yu chuan cheng [乡情祠韵 : 沙冈村和万山福德祠的流变与传承](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176) \[A kampong and its temple: change and tradition in kampong Sar Kong and the Mun San Fook Tuck Chee\] (Singapore: 万山福德祠, 2016), 107. (Call no. RSING 203.5095957 HYH)
+
+[^2]:  Ang, [乡情祠韵](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176), 42.
+
+[^3]:  Ang, [乡情祠韵](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176), 28.
