@@ -137,7 +137,7 @@ And what do you know<br>
 Soon you’ll be feeling just fine<br> 
 It's Singapore, Singapore&nbsp;<br> 
 Workout Time<br><br>
-<img src="/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_qr.png">
+<img src="/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_qr2.png">
  <br> 
 Scan this QR code to watch the original video.</div>
 			
