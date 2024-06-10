@@ -109,9 +109,6 @@ In keeping with the temple’s commitment to safeguarding the Fire Dragon, Maste
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Angela_photo.jpg"><b>Angela Sim </b>is a researcher of Asian heritage and culture. She uses her platform as a media content creator to explore areas such as folk religion, Peranakan culture, and sunset industries including Chinese woodblock printing, effigy restoration, and lantern making. Angela is a Singapore native and promotes the nation as a cultural destination. She has a Bachelor of Arts majoring in Japanese Art History and currently resides in Brisbane, Australia. Her work can be found on [YouTube](https://www.youtube.com/c/HakkaMoi/about) under the handle Hakka Moi.</div>
 
-  
-
-
 #### **Notes**
 
 [^1]:  Ang Yik Han 洪毅瀚, Xiang qing ci yun : Shagang Cun he wan shan fu de ci de liu bian yu chuan cheng [乡情祠韵 : 沙冈村和万山福德祠的流变与传承](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176) \[A kampong and its temple: change and tradition in kampong Sar Kong and the Mun San Fook Tuck Chee\] (Singapore: 万山福德祠, 2016), 107. (Call no. RSING 203.5095957 HYH)
