@@ -9,14 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/
-      button: "Gloved Gods: Battling Key, Yeo Choon Song and the Roaring 20s of
-        Singapore Boxing"
+      url: /vol-2/issue-3/oct-dec-2006/haj-pilgrimage-malay-archipelago/
+      button: "Journey of Faith: Haj Pilgrimage in the Malay Archipelago Before the
+        20th Century"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Boxing/Hero_img_boxing.jpg
+      background: /images/Vol 2 Issue 3/Hero_Banner_kaabar.jpg
   - infopic:
       title: "Sea Snail & Papaya Curry: A Eurasian Delight"
       subtitle: From Book To Cook
