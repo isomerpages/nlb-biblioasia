@@ -139,7 +139,7 @@ Just give it a go<br>
 And what do you know<br> 
 Soon you’ll be feeling just fine<br> 
 It's Singapore, Singapore&nbsp;<br> 
-Workout Time<br>
+Workout Time<br><br>
 
 To watch the original video, see&nbsp;Ministry of Health, "<a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/47020cfc-1164-11e3-83d5-0050568939ad),” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807">Great Singapore Workout</a>,” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807).
 </div>
