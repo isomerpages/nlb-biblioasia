@@ -43,11 +43,11 @@ Securing the straw to the head of the dragon requires skill. A needle in a shape
 
 Making the antlers of the dragon is particularly challenging because it requires pulling excess straw into “the ends of the antlers of the dragon”, cutting and then tucking them back into themselves to make clean, sharp edges. “Making it neat and looking sharp takes years of skill,” said Zhen.
 
-Some parts of the dragon’s head, like its mouth and teeth, are made by attaching a _base layer of gauze, with paper layered on. Colour is added after the layers dry. Other parts are fashioned out of painted paper and wood cut-outs._ The eyes of the dragon are made from plastic light bulbs.&nbsp;
+Some parts of the dragon’s head, like its mouth and teeth, are made by attaching a *base layer of gauze, with paper layered on. Colour is added after the layers dry. Other parts are fashioned out of painted paper and wood cut-outs.* The eyes of the dragon are made from plastic light bulbs.&nbsp;
 
-They used to use wire to secure the rattan together to make the frame, but the wire would cut Zhen’s hands and fingers, so they switched to plastic cable ties instead, which was also faster and easier to use.
+Wire was previously used to secure the rattan together to make the frame, but the wire would cut Zhen’s hands and fingers, so they switched to plastic cable ties instead, which was also faster and easier to use.
 
-Changes in the quality of rattan have presented challenges for the dragon-makers. The rattan they receive is already stripped of its bark, which makes it less malleable, and a lot of effort and a longer time is needed to get it to bend. To use it, they must first be soaked in water to make it more flexible. A hairdryer is then used to heat up spots to bend the rattan into the desired shape.
+Changes in the quality of rattan have also presented challenges for the dragon-makers. The rattan they receive is already stripped of its bark, which makes it less malleable, and a lot of effort and a longer time is needed to get it to bend. To use it, the rattan must first be soaked in water to make it more flexible. A hairdryer is then used to heat up spots to bend the rattan into the desired shape.
   
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/details_of_dragon_face.jpg" style="width: 80%;">
 <div style="background-color: white;">Details of the dragon’s face, eyes, mouth and nose, 2023. <i>Courtesy of Edmund Lau.</i></div><br>
@@ -94,7 +94,7 @@ Jin Hua Fu Ren also has assistants or attendant deities, known as Shi Er Nai Nia
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/deities.png" style="width: 80%;">
 <div style="background-color: white;">(Left) Jin Hua Fu Ren and her two attendants; (middle) one of Jin Hua Fu Ren’s Shi Er Nai Niang; and (right) Hua Tuo Xian Shi, 2008. <i>Courtesy of Ang Yik Han.</i></div>
 
-The temple is also home to Hua Tuo Xian Shi (华陀先师or Wah To), who was a legendary physician in the _Annals of the Three Kingdoms_. He is the patron deity of physicians and many immigrants prayed to him to resolve medical issues in the absence of access to healthcare.
+The temple is also home to Hua Tuo Xian Shi (华陀先师 or Wah To), who was a legendary physician in the _Annals of the Three Kingdoms_. He is the patron deity of physicians and many immigrants prayed to him to resolve medical issues in the absence of access to healthcare.
 
 The temple used to be the centre of _kampung_ life.&nbsp;Chin, who is also the Vice-Chairman of the Taoist Federation Singapore, has lived most of his life near the temple. The temple owned much of the land surrounding it, which it rented out.&nbsp;
 
