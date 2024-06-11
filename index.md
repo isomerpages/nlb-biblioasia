@@ -912,7 +912,7 @@ sections:
       subtitle: Food
       description: The call for Singaporeans to switch from eating rice to eating
         wheat in 1967 did not take root despite best efforts by the government.
-      button: The “Eat More Wheat” Campaign
+      button: Wheat is Neat
       url: /vol-19/issue-3/oct-dec-2023/eat-more-wheat-campaign/
       image: /images/Vol 19 Issue 3/Wheat/19980005442 - img0104v2.jpg
       alt: eat more wheat
