@@ -23,7 +23,7 @@ Khir Johari talks about the Kampong Gelam that he grew up in.</p>
 get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Khir Talked About</strong></h4>
-<p>02:32 – The origins of <em>mee maidin</em>, the dish that Khir cooked in <em><a href="biblioasia.nlb.gov.sg/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">From Book to Cook</a></em> 
+<p>02:32 – The origins of <em>mee maidin</em>, the dish that Khir cooked in <em><a href="/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">From Book to Cook</a></em> 
 <br>07:18 – Kampong Gelam as the incubator for the Nusantara (Malay World)
 kitchen
 <br>09:19 – Four main streets in Kampong Gelam selling food, including the
