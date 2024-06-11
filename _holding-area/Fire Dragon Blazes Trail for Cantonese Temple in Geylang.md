@@ -91,7 +91,7 @@ A few lesser-known deities are also worshipped at the temple, which is known as 
 
 Jin Hua Fu Ren also has assistants or attendant deities, known as Shi Er Nai Niang (十二奶娘). These are 12 nannies who bless children, and women for fertility, conception and smooth deliveries.&nbsp;Women praying to conceive children often tie red strings onto the infants held by these nannies.&nbsp;
 
-<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/deities_square.png" style="width: 80%;">
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/deities_square.png" style="width: 60%;">
 <div style="background-color: white;">(Clockwise from top left) Jin Hua Fu Ren and her two attendants; one of Jin Hua Fu Ren’s Shi Er Nai Niang; Hua Gong and Hua Po, and Hua Tuo Xian Shi, 2008. <i>Courtesy of Ang Yik Han.</i></div>
 
 The temple is also home to Hua Tuo Xian Shi (华陀先师 or Wah To), who was a legendary physician in the _Annals of the Three Kingdoms_. He is the patron deity of physicians and many immigrants prayed to him to resolve medical issues in the absence of access to healthcare.
