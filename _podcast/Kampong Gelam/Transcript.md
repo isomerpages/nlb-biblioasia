@@ -20,7 +20,7 @@ today. Khir Johari is an educator, food historian and author of an award-winning
 book<em> The Food of Singapore Malays: Gastronomic Travels Through the</em>  <em>Archipelago </em>published
 in 2021. Since then, the book has won, among other things, the “Best of
 the Best Book” at the 28th Gourmand World Cookbook Awards, known as the
-Oscars of the cookbook world. Khir was a guest chef on season two of <em><a href="biblioasia.nlb.gov.sg/podcast/kampong-glam-kitchen-malay-world/" rel="noopener noreferrer nofollow" target="_blank">From Book to Cook</a></em>,
+Oscars of the cookbook world. Khir was a guest chef on season two of <em><a href="/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">From Book to Cook</a></em>,
 the video series produced by the National Library of Singapore.&nbsp;</p>
 <p><strong>Jimmy</strong> 
 <br>Welcome to BiblioAsia+, Khir. How are you?&nbsp;</p>
@@ -192,8 +192,7 @@ over at Jalan Sultan. And over at Jalan Sultan as well they were selling
 the popular <em>sup kambing</em>. Interestingly directly across there’s
 also a Hainanese version of <em>sup kambing</em>.&nbsp;</p>
 <p><strong>Jimmy</strong> 
-<br>Really?&nbsp;</p>
-<p>&nbsp;</p>
+<br>Really?&nbsp;&nbsp;</p>
 <p><strong>Khir</strong> 
 <br>With different spicing. And you’ll know the roles played by the Hainanese
 in various, you know, the restaurants and homes. It’s interesting in Jalan
@@ -363,8 +362,7 @@ Mohammed Hanafiah.&nbsp;</p>
 <p><strong>Jimmy</strong> 
 <br>You’re a serious book collector.&nbsp;</p>
 <p><strong>Khir</strong>
-</p>
-<p>I think it’s important because it’s part of writing this book on food.
+<br>I think it’s important because it’s part of writing this book on food.
 There’s a whole chapter on looking at food through <em>pantuns</em> and classic
 text to understand food. I am really working on getting my hands on the
 copy of <em>Hikayat Binatang</em>.&nbsp;</p>

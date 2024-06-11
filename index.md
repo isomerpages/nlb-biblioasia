@@ -18,6 +18,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 2 Issue 3/Hero_Banner_kaabar.jpg
   - infopic:
+      title: 30 Years of The Great Singapore Workout
+      subtitle: Sports
+      id: infopic
+      description: Launched in 1993, the Great Singapore Workout has spawned
+        variations and helped to make Singaporeans lead a more physically active
+        life.
+      button: WORKING UP A SWEAT
+      url: /vol-20/issue-3/oct-dec-2024/great-singapore-workout/
+      image: /images/Vol 20 Issue 3/Singapore Workout/workout_img5a.jpg
+      alt: Image alt text
+  - infopic:
       title: "Sea Snail & Papaya Curry: A Eurasian Delight"
       subtitle: From Book To Cook
       id: infopic

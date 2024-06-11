@@ -1,13 +1,18 @@
 ---
-title: 30 years of the Great Singapore Workout
-permalink: /30-years-of-the-great-singapore-workout/
+title: 30 Years of The Great Singapore Workout
+permalink: /vol-20/issue-3/oct-dec-2024/great-singapore-workout/
 variant: markdown
 description: Launched in 1993, the Great Singapore Workout has spawned
   variations and helped to make Singaporeans lead a more physically active life.
+image: /images/Vol 20 Issue 3/Singapore Workout/workout_img5a.jpg
 ---
 #### Launched in 1993, the Great Singapore Workout has spawned variations and helped to make Singaporeans lead a more physically active life.&nbsp;
 
 By Lim Tin Seng
+
+
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img5a.jpg)
+<div style="background-color: white;">Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1995 National Healthy Lifestyle Campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 _Get out of your seat_ <br>
@@ -20,7 +25,7 @@ _Workout Time_
 And with those words, the Great Singapore Workout was officially launched on 3 October 1993. On that day, Prime Minister Goh Chok Tong, dressed in a pink T-shirt and crisp white shorts – together with some 26,000 similarly clad individuals – took to the Padang to do a dance workout in a bid to get Singaporeans to exercise and keep fit. Goh told reporters that he had enjoyed the session. “It is a good exercise,” he said. “I recommend this to everybody.” Goh had undergone two training sessions and then practised on his own a few times before his public debut.[^1] &nbsp;
 
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img1.jpg)
 <div style="background-color: white;"> Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1993 National Healthy Lifestyle Campaign. <i> Image from Ministry of Health Singapore, Annual Report 1993 (Singapore: Ministry of Health, 1994), 30. (From National Library, Singapore, call no. RCLOS 354.59570677 SMHAR-[AR]).</i></div>
 
 
@@ -46,24 +51,22 @@ To inject vigour into the workout and widen its reach, the Health Ministry engag
 
 Miller worked with cameraman Geoff Oliver and the production crew from Panorama Films to create the exercise video. Filmed over four days in July 1993 at various locations across Singapore, the video featured fitness instructors doing the workout who were also joined by Singaporeans of different ages, professions and ethnicities.[^12] The video ended with a mass workout involving some 200 people, including cameos by sports personalities Joscelin Yeo and Ang Peng Siong, comedians Moe Alkaff and Wang Sa, and television stars Zaleha Hamid and Chen Liping.[^13]
 
+
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img6a.jpg)
+<div style="background-color: white;">A screengrab from the “Great Singapore Workout” video showing instructors performing the steps of the exercise routine. <i>Image from Ministry of Health, “Great Singapore Workout,” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807).</i></div>
+
+
 #### **It’s Workout Time**
 
 In the lead-up to the official launch of the workout, a marketing blitz was carried out to promote it and encourage the public to learn the steps. The workout video and audio tapes were distributed free-of-charge to schools and organisations and sold in retail outlets, while instructional spreads showing the workout steps were published in local newspapers. Additionally, a series of “warm-up” events were organised throughout September to introduce the workout to the public.[^14]&nbsp;
 
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
-<div style="background-color: white;"> An instructional page from <i>Lianhe Zaobao</i> showing the steps of the Great Singapore Workout, 3 October 1993.<i> Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 
 
 On 30 September and 1 October 1993, during ACES (All Children Exercising Simultaneously) Day, approximately half a million students across primary and secondary schools, junior colleges and kindergartens did the workout (those from the primary and kindergarten levels were given a shorter 10-minute “shape-up kids” routine that combined simpler and lighter movements such as stretching and jogging on the spot).&nbsp;
 
-
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
-<div style="background-color: white;"> The poster for the launch of the Great Singapore Workout at the Padang on 3 October 1993.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
-
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img4.jpg)
 <div style="background-color: white;">School children doing the Great Singapore Workout on ACES (All Children Exercising Simultaneously) Day in 1993.<i> Image from Ministry of Health Singapore, Annual Report 1993 (Singapore: Ministry of Health, 1994), 30. (From National Library, Singapore, call no. RCLOS 354.59570677 SMHAR-[AR]).</i></div>
 
 
@@ -71,14 +74,7 @@ On 30 September and 1 October 1993, during ACES (All Children Exercising Simulta
 
 Between 1993 and 1998, the Great Singapore Workout was a mass event. However, from 1999, the workout was decentralised. It was also used by schools and the community as a warm-up programme before any sports events.[^15]&nbsp;
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
-<div style="background-color: white;">Prime Minister Goh Chok Tong doing the Great Singapore Workout with participants at the Padang during the launch of the 1995 National Healthy Lifestyle Campaign. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
-
 Over the years, there have been variations to the original routine to suit different fitness levels and purposes. In 1994, for Prisons Healthy Lifestyle Day, Changi Prison inmates performed a _taiji_ version of the workout in a slower beat followed by the actual workout. “By doing two versions of the workout, we are mixing Eastern and Western styles. The _taiji_ style also helps us to warm up first before exerting ourselves for the actual workout,” said an inmate.[^16] &nbsp;
-
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
-<div style="background-color: white;">A screengrab from the “Great Singapore Workout” video showing instructors performing the steps of the exercise routine. <i>Image from Ministry of Health, “Great Singapore Workout,” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807).</i></div>
 
 
 In 1996, schools adopted the Fun and Fitness Workout, a more energetic and upbeat version estimated to be three times more vigorous than the original workout. The 15-minute routine, choreographed by the Singapore Fitness Instructors’ Association, consisted of three parts – warm-up, an aerobic segment and a cool-down.[^17]&nbsp;
@@ -87,14 +83,14 @@ Private companies also introduced their own workout such as the Great Motorola W
 
 In 2001, the Health Promotion Board (HPB) introduced a new workout to complement the original version. Called “Work Fit”, the 20-minute routine targeted the body’s major muscle groups by combining movements from different sports and games, including bowling, boxing, tennis and even golf. Developed by fitness consultants from the private sector and the Singapore Sports Council, the workout could be done “by almost anyone, anywhere” or “as a quick exercise fix in the office”.[^19] &nbsp;
 
-Eight years later, in 2009, the HPB created the New Great Singapore Workout which incorporated “strength training and aerobic movements which were better suited to Singapore’s multiracial culture”. These included resistance band exercises and moves inspired by _qigon_g, hip-hop, Malay dance, Indian dance and Chinese _taiji_.[^20] &nbsp;
+Eight years later, in 2009, the HPB created the New Great Singapore Workout which incorporated “strength training and aerobic movements which were better suited to Singapore’s multiracial culture”. These included resistance band exercises and moves inspired by _qigong_, hip-hop, Malay dance, Indian dance and Chinese _taiji_.[^20] &nbsp;
 
 Local bank POSB put its own spin on things. In 2015, it rolled out “The Neighbourhood Workout” consisting of six moves “synonymous with Singapore”: “selfie snap”, “prata flip”, “kaya spread”, “shopping bag drag”, “MRT squeeze” and “bus balance”. The video showed people performing the moves in different parts of Singapore such as at a lift landing, in a corridor and at a hawker centre. Within two weeks of the video being uploaded on POSB’s Facebook page, it had received more than 100,000 views.[^21]&nbsp;
 
 To commemorate the 25th anniversary of the original workout in 2018, the HPB launched a new version, calling it “The Greater Singapore Workout”. Comprising 11 exercises, the workout, like the original, is “made simple, fun and engaging” so that it could be followed by “anyone, young or old”, and performed “in any setting”.[^22] &nbsp;
 
-![](/images/Vol%2020%20Issue%201/Vietnam%20War/Image10_edit-.png)
-<div style="background-color: white;"> A screengrab from Health Promotion Board’s “Greater Singapore Workout” video showing instructors performing “The Kiasu Chope” move, 2018. <i>Image from “National Steps Challenge™ Presents The Greater Singapore Workout!” hpbsg, 11 November 2018, YouTube video, 5:53.</i></div>
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7.jpg)
+<div style="background-color: white;"> A screengrab from Health Promotion Board’s “Greater Singapore Workout” video showing instructors performing “The Kiasu Chope” move, 2018. <i>Image from “National Steps Challenge</i>™ <i>Presents The Greater Singapore Workout!” hpbsg, 11 November 2018, YouTube video, 5:53.</i></div>
 
 
 While familiar moves from the 1993 version were retained in the refreshed iteration, the new workout had a more upbeat tune and featured different sets of upper body, lower body and full body movements. It also included new moves “inspired by everyday actions to strike a chord with Singaporeans” such as “Mozzie Clap”, “Puddle Hop”, “Kiasu Chope” and “Teh Tarik”.[^23]&nbsp;
@@ -102,6 +98,11 @@ While familiar moves from the 1993 version were retained in the refreshed iterat
 #### **Soon You’ll Be Feeling Just Fine**
 
 The official launch of the Great Singapore Workout in 1993 marked the inaugural Healthy Lifestyle Day, signalling the commencement of the month-long National Healthy Lifestyle Campaign. The push by the Health Ministry to get people to exercise has borne fruit. The 2021 National Population Health Survey revealed that 32.5 percent of Singapore residents aged 18 to 74 years engaged in regular exercise during their leisure time, a significant improvement from the 13.6 percent in 1992.[^24]
+
+
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img3a.jpg)
+<div style="background-color: white;"> The poster for the launch of the Great Singapore Workout at the Padang on 3 October 1993.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 The explosion in the number of gyms around Singapore is just one very visible example of how people in Singapore are taking exercise more seriously now compared to four decades ago. Perhaps enough Singaporeans gave the workout a try and discovered that the song’s closing lyrics were true:
 
@@ -112,7 +113,7 @@ _Soon you’ll be feeling just fine_
 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-<b>The Great Singapore Workout Song Lyrics</b><br> Get out of your seat<br> 
+<b>THE GREAT SINGAPORE WORKOUT SONG LYRICS</b><br><br>  Get out of your seat<br> 
 On to your feet<br> 
 Get your body moving like mine<br> 
 It’s Singapore, Singapore&nbsp;<br> 
@@ -137,13 +138,13 @@ And what do you know<br>
 Soon you’ll be feeling just fine<br> 
 It's Singapore, Singapore&nbsp;<br> 
 Workout Time<br><br>
-<img src="/images/Vol%2020%20Issue%201/Vietnam%20War/Image_book/.png">
- <br> 
-Scan this QR code to watch the original video.</div>
+
+To watch the original video, see&nbsp;Ministry of Health, "<a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/47020cfc-1164-11e3-83d5-0050568939ad),” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807">Great Singapore Workout</a>,” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807).
+</div>
 			
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai-.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/LimTinSeng.png">
 	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library, Singapore. He is the co-editor of Roots: <i>Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>. </div>
 
 #### **Notes**
