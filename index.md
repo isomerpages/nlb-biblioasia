@@ -1073,4 +1073,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: 30 Years of The Great Singapore Workout
+      subtitle: Sports
+      id: infopic
+      description: "Launched in 1993, the Great Singapore Workout has spawned
+        variations and helped to make Singaporeans lead a more physically active
+        life. "
+      button: WORKING UP A SWEAT
+      url: /vol-20/issue-3/oct-dec-2024/great-singapore-workout/
+      image: /images/Vol 20 Issue 3/Singapore Workout/workout_img5a.jpg
+      alt: Image alt text
 ---
