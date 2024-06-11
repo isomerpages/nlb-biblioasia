@@ -43,7 +43,7 @@ Securing the straw to the head of the dragon requires skill. A needle in a shape
 
 Making the antlers of the dragon is particularly challenging because it requires pulling excess straw into “the ends of the antlers of the dragon”, cutting and then tucking them back into themselves to make clean, sharp edges. “Making it neat and looking sharp takes years of skill,” said Zhen.
 
-Some parts of the dragon’s head, like its mouth and teeth, are made by attaching a *base layer of gauze, with paper layered on. Colour is added after the layers dry. Other parts are fashioned out of painted paper and wood cut-outs.* The eyes of the dragon are made from plastic light bulbs.&nbsp;
+Some parts of the dragon’s head, like its mouth and teeth, are made by attaching a base layer of gauze, with paper layered on. Colour is added after the layers dry. Other parts are fashioned out of painted paper and wood cut-outs. The eyes of the dragon are made from plastic light bulbs.&nbsp;
 
 Wire was previously used to secure the rattan together to make the frame, but the wire would cut Zhen’s hands and fingers, so they switched to plastic cable ties instead, which was also faster and easier to use.
 
