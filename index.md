@@ -1077,9 +1077,9 @@ sections:
       title: 30 Years of The Great Singapore Workout
       subtitle: Sports
       id: infopic
-      description: "Launched in 1993, the Great Singapore Workout has spawned
+      description: Launched in 1993, the Great Singapore Workout has spawned
         variations and helped to make Singaporeans lead a more physically active
-        life. "
+        life.
       button: WORKING UP A SWEAT
       url: /vol-20/issue-3/oct-dec-2024/great-singapore-workout/
       image: /images/Vol 20 Issue 3/Singapore Workout/workout_img5a.jpg
