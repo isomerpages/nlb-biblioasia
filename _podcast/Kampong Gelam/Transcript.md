@@ -192,8 +192,7 @@ over at Jalan Sultan. And over at Jalan Sultan as well they were selling
 the popular <em>sup kambing</em>. Interestingly directly across there’s
 also a Hainanese version of <em>sup kambing</em>.&nbsp;</p>
 <p><strong>Jimmy</strong> 
-<br>Really?&nbsp;</p>
-<p>&nbsp;</p>
+<br>Really?&nbsp;&nbsp;</p>
 <p><strong>Khir</strong> 
 <br>With different spicing. And you’ll know the roles played by the Hainanese
 in various, you know, the restaurants and homes. It’s interesting in Jalan
