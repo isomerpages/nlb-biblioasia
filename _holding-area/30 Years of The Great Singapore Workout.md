@@ -51,6 +51,11 @@ To inject vigour into the workout and widen its reach, the Health Ministry engag
 
 Miller worked with cameraman Geoff Oliver and the production crew from Panorama Films to create the exercise video. Filmed over four days in July 1993 at various locations across Singapore, the video featured fitness instructors doing the workout who were also joined by Singaporeans of different ages, professions and ethnicities.[^12] The video ended with a mass workout involving some 200 people, including cameos by sports personalities Joscelin Yeo and Ang Peng Siong, comedians Moe Alkaff and Wang Sa, and television stars Zaleha Hamid and Chen Liping.[^13]
 
+
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img6a.jpg)
+<div style="background-color: white;">A screengrab from the “Great Singapore Workout” video showing instructors performing the steps of the exercise routine. <i>Image from Ministry of Health, “Great Singapore Workout,” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807).</i></div>
+
+
 #### **It’s Workout Time**
 
 In the lead-up to the official launch of the workout, a marketing blitz was carried out to promote it and encourage the public to learn the steps. The workout video and audio tapes were distributed free-of-charge to schools and organisations and sold in retail outlets, while instructional spreads showing the workout steps were published in local newspapers. Additionally, a series of “warm-up” events were organised throughout September to introduce the workout to the public.[^14]&nbsp;
@@ -63,11 +68,6 @@ In the lead-up to the official launch of the workout, a marketing blitz was carr
 
 On 30 September and 1 October 1993, during ACES (All Children Exercising Simultaneously) Day, approximately half a million students across primary and secondary schools, junior colleges and kindergartens did the workout (those from the primary and kindergarten levels were given a shorter 10-minute “shape-up kids” routine that combined simpler and lighter movements such as stretching and jogging on the spot).&nbsp;
 
-
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img3a.jpg)
-<div style="background-color: white;"> The poster for the launch of the Great Singapore Workout at the Padang on 3 October 1993.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
-
 ![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img4.jpg)
 <div style="background-color: white;">School children doing the Great Singapore Workout on ACES (All Children Exercising Simultaneously) Day in 1993.<i> Image from Ministry of Health Singapore, Annual Report 1993 (Singapore: Ministry of Health, 1994), 30. (From National Library, Singapore, call no. RCLOS 354.59570677 SMHAR-[AR]).</i></div>
 
@@ -77,9 +77,6 @@ On 30 September and 1 October 1993, during ACES (All Children Exercising Simulta
 Between 1993 and 1998, the Great Singapore Workout was a mass event. However, from 1999, the workout was decentralised. It was also used by schools and the community as a warm-up programme before any sports events.[^15]&nbsp;
 
 Over the years, there have been variations to the original routine to suit different fitness levels and purposes. In 1994, for Prisons Healthy Lifestyle Day, Changi Prison inmates performed a _taiji_ version of the workout in a slower beat followed by the actual workout. “By doing two versions of the workout, we are mixing Eastern and Western styles. The _taiji_ style also helps us to warm up first before exerting ourselves for the actual workout,” said an inmate.[^16] &nbsp;
-
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img6a.jpg)
-<div style="background-color: white;">A screengrab from the “Great Singapore Workout” video showing instructors performing the steps of the exercise routine. <i>Image from Ministry of Health, “Great Singapore Workout,” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807).</i></div>
 
 
 In 1996, schools adopted the Fun and Fitness Workout, a more energetic and upbeat version estimated to be three times more vigorous than the original workout. The 15-minute routine, choreographed by the Singapore Fitness Instructors’ Association, consisted of three parts – warm-up, an aerobic segment and a cool-down.[^17]&nbsp;
@@ -103,6 +100,11 @@ While familiar moves from the 1993 version were retained in the refreshed iterat
 #### **Soon You’ll Be Feeling Just Fine**
 
 The official launch of the Great Singapore Workout in 1993 marked the inaugural Healthy Lifestyle Day, signalling the commencement of the month-long National Healthy Lifestyle Campaign. The push by the Health Ministry to get people to exercise has borne fruit. The 2021 National Population Health Survey revealed that 32.5 percent of Singapore residents aged 18 to 74 years engaged in regular exercise during their leisure time, a significant improvement from the 13.6 percent in 1992.[^24]
+
+
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img3a.jpg)
+<div style="background-color: white;"> The poster for the launch of the Great Singapore Workout at the Padang on 3 October 1993.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 The explosion in the number of gyms around Singapore is just one very visible example of how people in Singapore are taking exercise more seriously now compared to four decades ago. Perhaps enough Singaporeans gave the workout a try and discovered that the song’s closing lyrics were true:
 
