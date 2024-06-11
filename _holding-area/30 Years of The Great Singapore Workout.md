@@ -61,8 +61,6 @@ Miller worked with cameraman Geoff Oliver and the production crew from Panorama 
 In the lead-up to the official launch of the workout, a marketing blitz was carried out to promote it and encourage the public to learn the steps. The workout video and audio tapes were distributed free-of-charge to schools and organisations and sold in retail outlets, while instructional spreads showing the workout steps were published in local newspapers. Additionally, a series of “warm-up” events were organised throughout September to introduce the workout to the public.[^14]&nbsp;
 
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img2.jpg)
-<div style="background-color: white;"> An instructional page from <i>Lianhe Zaobao</i> showing the steps of the Great Singapore Workout, 3 October 1993.<i> Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 
 
