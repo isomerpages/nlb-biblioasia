@@ -362,8 +362,7 @@ Mohammed Hanafiah.&nbsp;</p>
 <p><strong>Jimmy</strong> 
 <br>You’re a serious book collector.&nbsp;</p>
 <p><strong>Khir</strong>
-</p>
-<p>I think it’s important because it’s part of writing this book on food.
+<br>I think it’s important because it’s part of writing this book on food.
 There’s a whole chapter on looking at food through <em>pantuns</em> and classic
 text to understand food. I am really working on getting my hands on the
 copy of <em>Hikayat Binatang</em>.&nbsp;</p>
