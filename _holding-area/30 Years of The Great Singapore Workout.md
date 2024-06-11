@@ -115,7 +115,7 @@ _Soon you’ll be feeling just fine_
 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-<b>The Great Singapore Workout Song Lyrics</b><br> Get out of your seat<br> 
+<b>THE GREAT SINGAPORE WORKOUT SONG LYRICS</b><br> Get out of your seat<br> 
 On to your feet<br> 
 Get your body moving like mine<br> 
 It’s Singapore, Singapore&nbsp;<br> 
@@ -139,10 +139,10 @@ Just give it a go<br>
 And what do you know<br> 
 Soon you’ll be feeling just fine<br> 
 It's Singapore, Singapore&nbsp;<br> 
-Workout Time<br><br>
-<img src="/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_qr2.png">
- <br> 
-Scan this QR code to watch the original video.</div>
+Workout Time<br>
+
+To watch the original video, see&nbsp;Ministry of Health, "<a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/47020cfc-1164-11e3-83d5-0050568939ad),” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807">Great Singapore Workout</a>,” 11 July 1994, video, 32:54. (From National Archives of Singapore, accession no. 1995000807).
+</div>
 			
 <div style="background-color: white;">
 <br>
