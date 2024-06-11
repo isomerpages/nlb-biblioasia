@@ -115,7 +115,7 @@ _Soon you’ll be feeling just fine_
 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-<b>THE GREAT SINGAPORE WORKOUT SONG LYRICS</b><br> Get out of your seat<br> 
+<b>THE GREAT SINGAPORE WORKOUT SONG LYRICS</b><br><br>  Get out of your seat<br> 
 On to your feet<br> 
 Get your body moving like mine<br> 
 It’s Singapore, Singapore&nbsp;<br> 
