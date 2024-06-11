@@ -20,7 +20,7 @@ today. Khir Johari is an educator, food historian and author of an award-winning
 book<em> The Food of Singapore Malays: Gastronomic Travels Through the</em>  <em>Archipelago </em>published
 in 2021. Since then, the book has won, among other things, the “Best of
 the Best Book” at the 28th Gourmand World Cookbook Awards, known as the
-Oscars of the cookbook world. Khir was a guest chef on season two of <em><a href="/podcast/kampong-glam-kitchen-malay-world/" rel="noopener noreferrer nofollow" target="_blank">From Book to Cook</a></em>,
+Oscars of the cookbook world. Khir was a guest chef on season two of <em><a href="/videos/mee-maidin/" rel="noopener noreferrer nofollow" target="_blank">From Book to Cook</a></em>,
 the video series produced by the National Library of Singapore.&nbsp;</p>
 <p><strong>Jimmy</strong> 
 <br>Welcome to BiblioAsia+, Khir. How are you?&nbsp;</p>
