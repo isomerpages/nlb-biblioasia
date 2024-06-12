@@ -5,6 +5,7 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/singapore-changing-wet-markets/
 description: Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks
   at how these markets have changed over time.
 image: /images/Vol 18 Issue 1/Wet Market/8ed6060f-1162-11e3-83d5-0050568939ad.png
+variant: markdown
 ---
 #### Wet markets have existed in Singapore since 1825. **Zoe Yeo** looks at how these markets have changed over time.
 
@@ -211,7 +212,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^31]: “[You Could Eat Bats &amp; Lizards Here in the Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20041016-1.2.12.3),” *New Paper*, 16 October 2004, 9. (From NewspaperSG)
 
-[^32]: “[Wet Market Slaughtering To Be Phased Out by ’92](Wet Market Slaughtering To Be Phased Out by ’92),” *Straits Times*, 6 July 1990, 3; Tan Ban Huat, “[Call for Study on Slaughter of Chickens at One Place](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820112-1.2.42),” *Straits Times*, 12 January 1982, 10. (From NewspaperSG)
+[^32]: “[Wet Market Slaughtering To Be Phased Out by ’92](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900706-1.2.7.5-1.2.7.5),” *Straits Times*, 6 July 1990, 3; Tan Ban Huat, “[Call for Study on Slaughter of Chickens at One Place](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820112-1.2.42),” *Straits Times*, 12 January 1982, 10. (From NewspaperSG)
 
 [^33]: L.E. Prema, “[Cuppage Market to Sell Dressed Fowls Only](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870819-1.2.26.28),” *Straits Times*, 19 August 1987, 16. (From NewspaperSG) 
 
