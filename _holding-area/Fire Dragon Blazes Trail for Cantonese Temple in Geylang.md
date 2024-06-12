@@ -16,7 +16,7 @@ The Straw Fire Dragon (稻草香火龍) has a body that is made from straw wrapp
 This particular dragon dance is only performed once every three years, on the second day of the second lunar month to celebrate the birthday of the Earth Deity or Tu Di Ye Ye (土地爷爷). It is organised by the Sar Kong Mun San Fook Tuck Chee Temple (沙岡萬山福德祠) in Sims Drive in Geylang. The Fire Dragon dance originated in Guangdong province in China and the temple decided to perform this dance in the late 1980s.[^1]
 
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Suspended_body_of_fire_dragon_at_the_Sar_Kong_Heritage_Room.jpg" style="width: 80%;">
-<div style="background-color: white;">A Fire Dragon at the Sar Kong Heritage Room.<i>Courtesy of Edmund Lau 2023.</i></div>
+<div style="background-color: white;">A Fire Dragon at the Sar Kong Heritage Room, 2023. <i>Courtesy of Edmund Lau.</i></div>
 
 #### **The Making of a Dragon**
 
