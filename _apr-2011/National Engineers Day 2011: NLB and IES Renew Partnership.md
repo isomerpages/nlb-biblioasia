@@ -6,6 +6,7 @@ description: On 24 March 2011, the National Library Board and The Institution of
   dedication to working together to promote knowledge and learning in the field
   of engineering, and to enhance of the engineering collection at the National
   Library.
+variant: markdown
 ---
 #### On 24 March 2011, the National Library Board and the Institution of Engineers, Singapore signed a memorandum of understanding signalling their dedication to working together to promote knowledge and learning in the field of engineering, and to enhance of the Engineering Collection at the National Library.
 
@@ -44,7 +45,7 @@ Newman concluded her keynote address by stating that “the world’s space-fari
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>About the Institution of Engineers, Singapore (IES)</b><br><br>
 Formally established in 1986, the IES is the national society of engineers in Singapore. Well represented by faculty members of the major engineering institutions of high learning in Singapore and in close collaboration with the local universities and polytechnics, the IES organises courses, seminars and talks for engineers and IES members to advance and ensure the continual development of the engineering field. The institution also maintains close links with professional organisations of engineers regionally and throughout the world, including those in Australia, China, Japan, the United Kingdom and the United States.</div>
 
-For more information on the BioSuit™, visit <a href="mvl.mit.edu/ EVA/biosuit/index.html">mvl.mit.edu/ EVA/biosuit/index.html</a>
+For more information on the BioSuit™, visit mvl.mit.edu/ EVA/biosuit/index.html
 
 <br>
 <div style="background-color: white;">
