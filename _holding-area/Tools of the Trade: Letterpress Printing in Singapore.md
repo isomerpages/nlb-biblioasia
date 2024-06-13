@@ -134,3 +134,11 @@ The printing block below with Chan Kong Thye’s branding was used to print bott
 
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_16.jpg" style="width: 80%;">
 <div style="background-color:white;">Printing block for a bottle label with Chan Kong Thye’s branding, 1970.</div>
+
+Printing blocks are often made using zinc, magnesium or brass plates. The plate is combined with a wooden base to bring the printing surface to the standard type height of 0.918 inch.
+
+To produce a label in colour, multiple printing blocks were created for each colour based on the CMYK colour model. Each block is then precisely aligned and used separately with the printing press, with the different colours printed in quick succession to produce secondary colours.
+
+<img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/Vinegar.jpg" style="width: 60%;">
+<div style="background-color:white;">The brand can still be found today in supermarkets like NTUC. <i>Photo by Veronica Chee.</i></div>
+
