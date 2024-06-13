@@ -67,7 +67,7 @@ In the lead-up to the official launch of the workout, a marketing blitz was carr
 
 On 30 September and 1 October 1993, during ACES (All Children Exercising Simultaneously) Day, approximately half a million students across primary and secondary schools, junior colleges and kindergartens did the workout (those from the primary and kindergarten levels were given a shorter 10-minute “shape-up kids” routine that combined simpler and lighter movements such as stretching and jogging on the spot).&nbsp;
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img4b.jpg)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img4c.jpg)
 <div style="background-color: white;">School children doing the Great Singapore Workout on ACES (All Children Exercising Simultaneously) Day in 1993.<i> Image from Ministry of Health Singapore, Annual Report 1993 (Singapore: Ministry of Health, 1994), 30. (From National Library, Singapore, call no. RCLOS 354.59570677 SMHAR-[AR]).</i></div>
 
 
