@@ -144,7 +144,35 @@ To produce a label in colour, multiple printing blocks were created for each col
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>TYPESETTING TYPES </b><br><br>
 A typesetter, who arranges type for printing, would use tools such as the following to lay out type:<br><br>
+	
+<ul>
 
-	1. <b>Composing stick</b> - 
-
+1. <b>Composing stick</b> - a tray-like tool with an adjustable slide used to arrange metal type into words and lines when setting type by hand; each type is placed upside down, from left to right
+	
+2. <b>Chase</b> - a heavy metal frame used to hold type in place; the size of a chase is matched to a specific press
+	
+3. <b>Lead/Slug</b> - a thin strip of metal used to produce the spacing between lines
+	
+4. <b>Reglets</b> -  wooden spacers used to create larger gaps between lines and paragraphs
+	
+5. <b>Furniture</b> - largest spacing material made of wood or metal, used to surround the type to hold it in place
+	
+6. <b>Quoins</b> - a clamp-like device tightened with a key to lock the type in place within a chase; typically, at least two are used – one to secure the type vertically and the other horizontally
+	
+</ul>
+	
+<img style="width: 80%;" src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_7.jpg">
+<div style="background-color: #fff6ba;">Munshi Abdullah Walk is named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay. <i>Photo by Sharon Teng.</i>
+</div><br>
 </div>
+
+<i>Unless otherwise stated, the photos in this collection are courtesy of Sun Yao Yu. Yao Yu is a traditional letterpress educator and a founding member of the International Association of Printing Museums.</i>
+	
+#### **Related Articles**
+
+Early Malay Printing in Singapore<br>
+[https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/)
+
+The History of Early Printing in Singapore<br>
+[https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/](https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/)
+	
