@@ -87,7 +87,7 @@ For the most part, as it was impractical for printers to keep their type, leads,
 A flong is made by pressing papier-mâché over a forme. The flong is then used as a mould to cast a stereotype plate from hot metal. Stereotype plates kept type from wearing down and were widely used for short-lived tasks such as newspaper and advertising printing. After printing, flongs were burned and stereotypes were melted down to plate metal to be reused.
 
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_10.jpg" style="width: 80%;">
-<div style="background-color:white;">Flong for _Sin Chew Daily_ (星洲日报), 1967.</div><br>
+<div style="background-color:white;">Flong for <i>Sin Chew Daily</i> (星洲日报), 1967.</div><br>
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/GYvONtxJFeo?si=PBBLlpCbvVh2o3Kx" frameborder="0" allowfullscreen=""></iframe></div>
 
