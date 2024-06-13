@@ -18,6 +18,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 2 Issue 3/Hero_Banner_kaabar.jpg
   - infopic:
+      title: Traditional Letterpress Printing in Singapore
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Typesettingsg founder Sun Yao Yu shares more about this printing
+        technique – once the main commercial printing method here in the 19th
+        century.
+      button: Watch the video
+      url: https://youtu.be/GYvONtxJFeo?si=klBE1LAxMWW2tJEu
+      image: "/images/Videos: BiblioAsia Reels/Letterpress_standfirst.png"
+      alt: Image alt text
+  - infopic:
       title: 30 Years of The Great Singapore Workout
       subtitle: Sports
       id: infopic

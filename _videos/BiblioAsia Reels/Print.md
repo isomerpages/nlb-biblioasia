@@ -5,6 +5,13 @@ variant: markdown
 description: ""
 third_nav_title: BiblioAsia Reels
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="https://youtu.be/GYvONtxJFeo?si=klBE1LAxMWW2tJEu"> Traditional Letterpress Printing in Singapore</a>
+
+Typesettingsg founder Sun Yao Yu shares more about this printing technique – once the main commercial printing method here in the 19th century.
+
+<img src="/images/Videos:%20BiblioAsia%20Reels/Letterpress_standfirst.png" style="width:80%;">
+<hr>
+
 #### <b>Singapore’s Early Publications</b>
  
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/Bfx3g3Xjqf0" frameborder="0" allowfullscreen=""></iframe></div>
