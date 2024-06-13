@@ -175,3 +175,22 @@ Early Malay Printing in Singapore<br>
 
 The History of Early Printing in Singapore<br>
 [https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/](https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/)
+
+#### **Further Readings**
+
+British Letterpress<br>
+https://britishletterpress.co.uk/
+
+Colclough, Joanna. “The Linotype: The Machine that Revolutionized Movable Type.” Library of Congress Blogs, 8 June 2022. https://blogs.loc.gov/headlinesandheroes/2022/06the-linotype-the-machine-that-revolutionized-movable-type/.
+
+
+Fleishman, Glenn. “Flong Time, No See: How a Paper Mold Transformed the Growth of Newspapers.” Medium, 25 April 2019. https://glennf.medium.com/flong-time-no-see-2b54438027dd.
+
+
+Letterpress Commons<br>
+https://letterpresscommons.com
+
+Melbourne Museum of Printing<br>
+https://www.mmop.org.au/showroom/show03.htm
+
+<i>Straits Times</i>, “[The New Malay Linotype](https://eresources.nlb.gov.shttps:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240710-1.2.58g/newspapers/digitised/article/straitstimes19240710-1.2.58).” 10 July 1924, 9. (From NewspaperSG)
