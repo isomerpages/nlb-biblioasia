@@ -125,7 +125,7 @@ Type specimen books contain collections of typefaces and design layout examples,
 
 The MPH type specimen book below showcases Linotype, monotype and wood type faces, and includes a rare Jawi script specimen. It is likely the only surviving copy of the 1950 edition and was salvaged from a local heritage shop in Fook Hai Building.
 
-<img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_15.jpg" style="width: 80%;">
+<img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_15a.jpg" style="width: 80%;">
 <div style="background-color:white;">MPH type specimen book, 1950.</div>
 
 MPH was originally established in 1890 by William Girdlestone Shellabear, a Methodist missionary and former army officer. It was first known as Amelia Bishop Press, then American Mission Press, before it was renamed Methodist Publishing House in 1906. It changed its name to Malaya Publishing House in 1927 and then to Malaysia Publishing House in 1963.
@@ -142,7 +142,7 @@ To produce a label in colour, multiple printing blocks were created for each col
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/Vinegar.jpg" style="width: 60%;">
 <div style="background-color:white;">The brand can still be found today in supermarkets like NTUC. <i>Photo by Veronica Chee.</i></div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>TYPESETTING TYPES </b><br><br>	
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>TYPESETTING TOOLS </b><br><br>	
 A typesetter, who arranges type for printing, would use tools such as the following to lay out type:<br>
 
 <ul>
