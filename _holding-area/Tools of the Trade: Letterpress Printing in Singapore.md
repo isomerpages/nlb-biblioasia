@@ -13,4 +13,4 @@ A form of relief printing where ink is applied to a raised surface which is then
 This article showcases some of the letterpress printing equipment used here between the 1950s and 1980s. These equipment from a bygone era were salvaged by Sun Yao Yu, founder of Typesettingsg, a studio he set up in 2014 to preserve and document Singapore’s printing heritage. From hand-carved wooden type to manually operated presses, these items showcase the technology and craftsmanship that once formed the backbone of Singapore’s printing industry.
 
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Trade/sun_yao_yu.jpg" style="width: 80%;">
-<div style="background-color:white;"> Stella Kon, the author of <i>Emily of Emerald Hill</i>. <i>Photo by Jimmy Yap.</i></div>
+<div style="background-color:white;">Sun Yao Yu, a traditional letterpress educator and Typesettingsg’s founder. <i>Courtesy of Sun Yao Yu.</i></div>
