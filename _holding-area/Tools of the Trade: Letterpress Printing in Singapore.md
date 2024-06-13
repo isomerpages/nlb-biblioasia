@@ -162,8 +162,7 @@ A typesetter, who arranges type for printing, would use tools such as the follow
 </ul>
 	
 <img style="width: 80%;" src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_7.jpg">
-<div style="background-color: #fff6ba;">Munshi Abdullah Walk is named after Munshi Abdullah (1797–1854), the “Father of Modern Malay Literature”. He was a language teacher, interpreter and scribe who tutored Stamford Raffles in Malay. <i>Photo by Sharon Teng.</i>
-</div><br>
+<br>
 </div>
 
 <i>Unless otherwise stated, the photos in this collection are courtesy of Sun Yao Yu. Yao Yu is a traditional letterpress educator and a founding member of the International Association of Printing Museums.</i>
