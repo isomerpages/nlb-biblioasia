@@ -175,4 +175,3 @@ Early Malay Printing in Singapore<br>
 
 The History of Early Printing in Singapore<br>
 [https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/](https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/)
-	
