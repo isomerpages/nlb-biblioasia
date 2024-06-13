@@ -1088,9 +1088,9 @@ sections:
       title: Traditional Letterpress Printing in Singapore
       subtitle: BiblioAsia Reels
       id: infopic
-      description: "Typesettingsg founder Sun Yao Yu shares more about this printing
+      description: Typesettingsg founder Sun Yao Yu shares more about this printing
         technique – once the main commercial printing method here in the 19th
-        century.  "
+        century.
       button: Watch the video
       url: https://youtu.be/GYvONtxJFeo?si=klBE1LAxMWW2tJEu
       image: "/images/Videos: BiblioAsia Reels/Letterpress_standfirst.png"
