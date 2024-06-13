@@ -55,8 +55,8 @@ Changes in the quality of rattan have also presented challenges for the dragon-m
   
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Close_up_face.jpg" style="width: 80%;">
 <div style="background-color: white;">Details of the dragon’s eyes, 2023. <i>Courtesy of Edmund Lau.</i></div>
-<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/details_of_dragon_face.jpg" style="width: 80%;">
-<div style="background-color: white;">Details of the dragon’s face, eyes, mouth and nose, 2023. <i>Courtesy of Edmund Lau.</i></div>
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Mouth_and_nose_details.jpg" style="width: 80%;">
+<div style="background-color: white;">The dragon’s snout, 2023. <i>Courtesy of Edmund Lau.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Claws_of_the_dragon.jpg" style="width: 80%;">
 <div style="background-color: white;">Claws of the dragon with metal nail tips, 2023. <i>Courtesy of Edmund Lau.</i></div>
 
@@ -64,8 +64,12 @@ Changes in the quality of rattan have also presented challenges for the dragon-m
 
 Once the entire dragon has been constructed, all that is left is the performance. Before the procession begins, more than 4,000 lit joss sticks are inserted into the body of the dragon, from head to tail. These joss sticks, which are thicker than the usual ones used for prayers at the temple, must be properly embedded in the dragon to ensure no one gets hurt when the Fire Dragon comes alive during the dance ritual. Inserting the joss stick into the tightly packed straw requires some force.
 
-<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/devotees_inserting_lit_joss_sticks.jpg" style="width: 80%;">
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/A_devotee_squints_.png" style="width: 80%;">
+<div style="background-color: white;">A devotee carefully inserting a lit joss stick into the dragon, 2023. <i>Courtesy of Yeo GT.</i></div>
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Inserting_lighted_incense_into_the_head.jpg" style="width: 80%;">
 <div style="background-color: white;">Devotees inserting lit joss sticks into the dragon before the procession, 2023. <i>Courtesy of Yeo GT.</i></div><br>
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/segment_of_body_with_lit_incense.jpg" style="width: 80%;">
+<div style="background-color: white;">(Right) A section of the body with lit incense. (Left) Joss sticks adorning the pearl of wisdom.  <i>Courtesy of Yeo GT 2023.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/segment_of_body_with_lit_incense.jpg" style="width: 80%;">
 <div style="background-color: white;">(Right) A section of the body with lit incense. (Left) Joss sticks adorning the pearl of wisdom.  <i>Courtesy of Yeo GT 2023.</i></div>
 
