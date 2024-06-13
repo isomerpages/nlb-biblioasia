@@ -135,6 +135,6 @@ In keeping with the temple’s commitment to safeguarding the Fire Dragon, Maste
 
 [^3]:  Ang, [乡情祠韵](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176), 28.
 
-[^4]:  Lü Shicong 吕世聪, Tou tao zhi bao: Wanshan Gang Fude Ci li shi su yuan [投桃之报 : 万山港福德祠历史溯源](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009) \[A boon returned: the history of Mun San Fook Tuck Chee\] (Singapore : 石叻学会, 2008), 44. (Call no. RSING 203.5095957 LSC)
+[^4]:  Lü Shicong 吕世聪, Tou tao zhi bao: Wanshan Gang Fude Ci li shi su yuan [投桃之报 : 万山港福德祠历史溯源](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009) \[A boon returned: The history of Mun San Fook Tuck Chee\] (Singapore : 石叻学会, 2008), 44. (From National Library, Singapore, call no. RSING 203.5095957 LSC)
 
 [^5]:  Lü, [投桃之报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009)_,_ 40.
