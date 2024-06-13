@@ -14,3 +14,10 @@ This article showcases some of the letterpress printing equipment used here betw
 
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Trade/sun_yao_yu.jpg" style="width: 80%;">
 <div style="background-color:white;">Sun Yao Yu, a traditional letterpress educator and Typesettingsg’s founder. <i>Courtesy of Sun Yao Yu.</i></div>
+
+#### Wood Type
+
+
+
+
+
