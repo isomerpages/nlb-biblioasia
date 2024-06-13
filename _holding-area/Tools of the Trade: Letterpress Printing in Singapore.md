@@ -157,7 +157,7 @@ A typesetter, who arranges type for printing, would use tools such as the follow
 	
 5. <b>Furniture</b> - largest spacing material made of wood or metal, used to surround the type to hold it in place<br><br>
 	
-6. <b>Quoins</b> - a clamp-like device tightened with a key to lock the type in place within a chase; typically, at least two are used – one to secure the type vertically and the other horizontally<br><br>
+6. <b>Quoins</b> - a clamp-like device tightened with a key to lock the type in place within a chase; typically, at least two are used – one to secure the type vertically and the other horizontally<br>
 	
 </ul>
 	
