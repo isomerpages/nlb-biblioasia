@@ -1084,4 +1084,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: Traditional Letterpress Printing in Singapore
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: "Typesettingsg founder Sun Yao Yu shares more about this printing
+        technique – once the main commercial printing method here in the 19th
+        century.  "
+      button: Watch the video
+      url: https://youtu.be/GYvONtxJFeo?si=klBE1LAxMWW2tJEu
+      image: "/images/Videos: BiblioAsia Reels/Letterpress_standfirst.png"
+      alt: Image alt text
 ---
