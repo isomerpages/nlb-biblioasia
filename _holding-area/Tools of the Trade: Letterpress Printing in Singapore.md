@@ -147,17 +147,17 @@ A typesetter, who arranges type for printing, would use tools such as the follow
 
 <ul>
 
-1. <b>Composing stick</b> - a tray-like tool with an adjustable slide used to arrange metal type into words and lines when setting type by hand; each type is placed upside down, from left to right<br>
+1. <b>Composing stick</b> - a tray-like tool with an adjustable slide used to arrange metal type into words and lines when setting type by hand; each type is placed upside down, from left to right<br><br>
 	
-2. <b>Chase</b> - a heavy metal frame used to hold type in place; the size of a chase is matched to a specific press<br>
+2. <b>Chase</b> - a heavy metal frame used to hold type in place; the size of a chase is matched to a specific press<br><br>
 	
-3. <b>Lead/Slug</b> - a thin strip of metal used to produce the spacing between lines<br>
+3. <b>Lead/Slug</b> - a thin strip of metal used to produce the spacing between lines<br><br>
 	
-4. <b>Reglets</b> -  wooden spacers used to create larger gaps between lines and paragraphs<br>
+4. <b>Reglets</b> -  wooden spacers used to create larger gaps between lines and paragraphs<br><br>
 	
-5. <b>Furniture</b> - largest spacing material made of wood or metal, used to surround the type to hold it in place<br>
+5. <b>Furniture</b> - largest spacing material made of wood or metal, used to surround the type to hold it in place<br><br>
 	
-6. <b>Quoins</b> - a clamp-like device tightened with a key to lock the type in place within a chase; typically, at least two are used – one to secure the type vertically and the other horizontally<br>
+6. <b>Quoins</b> - a clamp-like device tightened with a key to lock the type in place within a chase; typically, at least two are used – one to secure the type vertically and the other horizontally<br><br>
 	
 </ul>
 	
@@ -167,13 +167,7 @@ A typesetter, who arranges type for printing, would use tools such as the follow
 
 <i>Unless otherwise stated, the photos in this collection are courtesy of Sun Yao Yu. Yao Yu is a traditional letterpress educator and a founding member of the International Association of Printing Museums.</i>
 	
-#### **Related Articles**
 
-Early Malay Printing in Singapore<br>
-[https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/)
-
-The History of Early Printing in Singapore<br>
-[https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/](https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/)
 
 #### **Further Readings**
 
