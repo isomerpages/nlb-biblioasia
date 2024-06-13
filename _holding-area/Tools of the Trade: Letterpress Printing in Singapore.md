@@ -111,4 +111,3 @@ The Heidelberg press was famed for its speed and efficiency, thanks to its revol
 
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_13.jpg" style="width: 80%;">
 <div style="background-color:white;">Heidelberg cylinder press at the Singapore National Printer’s General Printing Office, 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
