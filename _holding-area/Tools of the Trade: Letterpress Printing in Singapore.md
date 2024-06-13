@@ -145,6 +145,6 @@ To produce a label in colour, multiple printing blocks were created for each col
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>TYPESETTING TYPES </b><br><br>
 A typesetter, who arranges type for printing, would use tools such as the following to lay out type:<br><br>
 
-	(1)<b>Composing stick</b> - 
+	1. <b>Composing stick</b> - 
 
 </div>
