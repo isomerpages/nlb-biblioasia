@@ -111,3 +111,10 @@ The Heidelberg press was famed for its speed and efficiency, thanks to its revol
 
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_13.jpg" style="width: 80%;">
 <div style="background-color:white;">Heidelberg cylinder press at the Singapore National Printer’s General Printing Office, 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+Popular with hobbyists today, table-top platen presses are operated manually to print items like business cards and invites. Before printing, ink is deposited on the disk and evenly distributed on its surface by rollers when the handle is repeatedly pressed down and released. After the ink is evenly spread and the handle is in its resting position with the clamshell platen open, the forme and paper are put in place.
+
+To start the printing process, the handle is firmly pressed down once. This recharges the rollers with ink, transfers the ink to the forme, and closes the platen, bringing the paper into contact with the forme. Releasing the handle reopens the platen, and the printed sheet can be removed and replaced with a fresh sheet.
+
+<img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_14.jpg" style="width: 80%;">
+<div style="background-color:white;">Heidelberg cylinder press at the Singapore National Printer’s General Printing Office, 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
