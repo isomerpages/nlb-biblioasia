@@ -61,12 +61,13 @@ Miller worked with cameraman Geoff Oliver and the production crew from Panorama 
 In the lead-up to the official launch of the workout, a marketing blitz was carried out to promote it and encourage the public to learn the steps. The workout video and audio tapes were distributed free-of-charge to schools and organisations and sold in retail outlets, while instructional spreads showing the workout steps were published in local newspapers. Additionally, a series of “warm-up” events were organised throughout September to introduce the workout to the public.[^14]&nbsp;
 
 
-
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img2.jpg)
+<div style="background-color: white;">An instructional page from&nbsp;<i>Lianhe Zaobao</i>&nbsp;showing the steps of the Great Singapore Workout, 3 October 1993.<i> Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 
 On 30 September and 1 October 1993, during ACES (All Children Exercising Simultaneously) Day, approximately half a million students across primary and secondary schools, junior colleges and kindergartens did the workout (those from the primary and kindergarten levels were given a shorter 10-minute “shape-up kids” routine that combined simpler and lighter movements such as stretching and jogging on the spot).&nbsp;
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img4a.jpg)
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img4b.jpg)
 <div style="background-color: white;">School children doing the Great Singapore Workout on ACES (All Children Exercising Simultaneously) Day in 1993.<i> Image from Ministry of Health Singapore, Annual Report 1993 (Singapore: Ministry of Health, 1994), 30. (From National Library, Singapore, call no. RCLOS 354.59570677 SMHAR-[AR]).</i></div>
 
 
