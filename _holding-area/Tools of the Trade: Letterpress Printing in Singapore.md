@@ -127,3 +127,10 @@ The MPH type specimen book below showcases Linotype, monotype and wood type face
 
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_15.jpg" style="width: 80%;">
 <div style="background-color:white;">MPH type specimen book, 1950.</div>
+
+MPH was originally established in 1890 by William Girdlestone Shellabear, a Methodist missionary and former army officer. It was first known as Amelia Bishop Press, then American Mission Press, before it was renamed Methodist Publishing House in 1906. It changed its name to Malaya Publishing House in 1927 and then to Malaysia Publishing House in 1963.
+
+The printing block below with Chan Kong Thye’s branding was used to print bottle labels in the 1970s. It is likely the only surviving printing block with this design and branding.
+
+<img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_16.jpg" style="width: 80%;">
+<div style="background-color:white;">Printing block for a bottle label with Chan Kong Thye’s branding, 1970.</div>
