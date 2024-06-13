@@ -31,11 +31,13 @@ Creating the dragon is a painstaking, tedious process – just constructing the 
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Sewing_with_a_metal_hook.jpg" style="width: 80%;">
 <div style="background-color: white;">Zhen Meng Chye attaches bunches of straw to the rattan frame with a metal hook, 2023. <i>Courtesy of Edmund Lau.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Close_up_of_rattan_frame.jpg" style="width: 80%;">
-<div style="background-color: white;">Close-up of the rattan frame and straw for the antlers. <i>Courtesy of Edmund Lau</i>.</div>
+<div style="background-color: white;">Close-up of the rattan frame and straw for the antlers, 2023. <i>Courtesy of Edmund Lau</i>.</div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Close_up_of_sewn_bundles.jpg" style="width: 80%;">
 <div style="background-color: white;">Detail of the bundles of straw sewn together, 2023. <i>Courtesy of ANTZ.</i></div>
-<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Sewing_of_the_dried_straw_closing_up_of_string.jpg" style="width: 80%;">
-<div style="background-color: white;">(Left) Sewing of dried straw to form the dragon. (Right) Close-up of string used to sew the straw together, 2023. <i>Courtesy of Edmund Lau.</i></div>
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Sewing_of_the_dried_straw_to_form_the_dragon.jpg" style="width: 80%;">
+<div style="background-color: white;">Sewing of dried straw to form the dragon, 2023. <i>Courtesy of Edmund Lau.</i></div>
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Close_up_of_rope_used.jpg" style="width: 80%;">
+<div style="background-color: white;">Close-up of string used to sew the straw together, 2023. <i>Courtesy of Edmund Lau.</i></div>
 
 The straw that is used for the dragon is specially obtained from farmers in Xiamen, China. “They do not charge us a fee, but we do provide gratuity for the labour as well as arrange for the dried straw to be packed into a container, then shipped to Singapore,” said Chin. “It is a tedious process, but it has to be done as Singapore doesn’t have paddy fields to produce dried straw for us to use.” To prevent the straw from disintegrating due to Singapore’s heat, it is sprayed with water when in storage.
 
