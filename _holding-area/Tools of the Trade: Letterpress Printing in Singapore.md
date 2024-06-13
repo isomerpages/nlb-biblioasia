@@ -119,3 +119,11 @@ To start the printing process, the handle is firmly pressed down once. This rech
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_14.jpg" style="width: 80%;">
 <div style="background-color:white;">Adana 8 x 5 printing presses. These printing presses were salvaged from various print shops in Singapore that have shuttered.</div>
 
+#### **Type Specimen Books and Printing Blocks**
+
+Type specimen books contain collections of typefaces and design layout examples, and are used to demonstrate a printer’s services and capabilities.
+
+The MPH type specimen book below showcases Linotype, monotype and wood type faces, and includes a rare Jawi script specimen. It is likely the only surviving copy of the 1950 edition and was salvaged from a local heritage shop in Fook Hai Building.
+
+<img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_15.jpg" style="width: 80%;">
+<div style="background-color:white;">MPH type specimen book, 1950.</div>
