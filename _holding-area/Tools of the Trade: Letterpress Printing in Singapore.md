@@ -117,4 +117,5 @@ Popular with hobbyists today, table-top platen presses are operated manually to 
 To start the printing process, the handle is firmly pressed down once. This recharges the rollers with ink, transfers the ink to the forme, and closes the platen, bringing the paper into contact with the forme. Releasing the handle reopens the platen, and the printed sheet can be removed and replaced with a fresh sheet.
 
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_14.jpg" style="width: 80%;">
-<div style="background-color:white;">Heidelberg cylinder press at the Singapore National Printer’s General Printing Office, 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color:white;">Adana 8 x 5 printing presses. These printing presses were salvaged from various print shops in Singapore that have shuttered.</div>
+
