@@ -4,13 +4,6 @@ permalink: /topics/print/
 description: ""
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="https://youtu.be/GYvONtxJFeo?si=klBE1LAxMWW2tJEu"> Traditional Letterpress Printing in Singapore</a>
-
-Typesettingsg founder Sun Yao Yu shares more about this printing technique – once the main commercial printing method here in the 19th century.
-
-<img src="/images/Videos:%20BiblioAsia%20Reels/Letterpress_standfirst.png" style="width:80%;">
-<hr>
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/early-malay-comics/"> Kaboom! Early Malay Comic Books Make an Impact</a>
 The 1950s was the heyday for Malay comic books published in Singapore.
 
