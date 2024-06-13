@@ -67,7 +67,7 @@ Once the entire dragon has been constructed, all that is left is the performance
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/A_devotee_squints_.png" style="width: 80%;">
 <div style="background-color: white;">A devotee carefully inserting a lit joss stick into the dragon, 2023. <i>Courtesy of Yeo GT.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Inserting_lighted_incense_into_the_head.jpg" style="width: 80%;">
-<div style="background-color: white;">Devotees inserting lit joss sticks into the dragon before the procession, 2023. <i>Courtesy of Yeo GT.</i></div><br>
+<div style="background-color: white;">Devotees inserting lit joss sticks into the dragon before the procession, 2023. <i>Courtesy of Yeo GT.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Segment_of_body_festooned_with_lighted_incense.jpg" style="width: 80%;">
 <div style="background-color: white;">A section of the body with lit incense, 2023. <i>Courtesy of Yeo GT.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Incense_studded_pearl.jpg" style="width: 80%;">
