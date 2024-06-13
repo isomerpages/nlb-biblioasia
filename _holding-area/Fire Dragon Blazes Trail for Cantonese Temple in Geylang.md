@@ -53,6 +53,8 @@ Wire was previously used to secure the rattan together to make the frame, but th
 
 Changes in the quality of rattan have also presented challenges for the dragon-makers. The rattan they receive is already stripped of its bark, which makes it less malleable, and a lot of effort and a longer time is needed to get it to bend. To use it, the rattan must first be soaked in water to make it more flexible. A hairdryer is then used to heat up spots to bend the rattan into the desired shape.
   
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Close_up_face.jpg" style="width: 80%;">
+<div style="background-color: white;">Details of the dragon’s eyes, 2023. <i>Courtesy of Edmund Lau.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/details_of_dragon_face.jpg" style="width: 80%;">
 <div style="background-color: white;">Details of the dragon’s face, eyes, mouth and nose, 2023. <i>Courtesy of Edmund Lau.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Claws_of_the_dragon.jpg" style="width: 80%;">
