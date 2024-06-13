@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Tools of the Trade.md
       - Fire Dragon Blazes Trail for Cantonese Temple in Geylang.md
       - Example Title.md
       - Test2.md
