@@ -142,22 +142,22 @@ To produce a label in colour, multiple printing blocks were created for each col
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/Vinegar.jpg" style="width: 60%;">
 <div style="background-color:white;">The brand can still be found today in supermarkets like NTUC. <i>Photo by Veronica Chee.</i></div>
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>TYPESETTING TYPES </b><br><br>
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>TYPESETTING TYPES </b><br><br>	
 A typesetter, who arranges type for printing, would use tools such as the following to lay out type:<br>
-	
+
 <ul>
 
-1. <b>Composing stick</b> - a tray-like tool with an adjustable slide used to arrange metal type into words and lines when setting type by hand; each type is placed upside down, from left to right
+1. <b>Composing stick</b> - a tray-like tool with an adjustable slide used to arrange metal type into words and lines when setting type by hand; each type is placed upside down, from left to right<br>
 	
-2. <b>Chase</b> - a heavy metal frame used to hold type in place; the size of a chase is matched to a specific press
+2. <b>Chase</b> - a heavy metal frame used to hold type in place; the size of a chase is matched to a specific press<br>
 	
-3. <b>Lead/Slug</b> - a thin strip of metal used to produce the spacing between lines
+3. <b>Lead/Slug</b> - a thin strip of metal used to produce the spacing between lines<br>
 	
-4. <b>Reglets</b> -  wooden spacers used to create larger gaps between lines and paragraphs
+4. <b>Reglets</b> -  wooden spacers used to create larger gaps between lines and paragraphs<br>
 	
-5. <b>Furniture</b> - largest spacing material made of wood or metal, used to surround the type to hold it in place
+5. <b>Furniture</b> - largest spacing material made of wood or metal, used to surround the type to hold it in place<br>
 	
-6. <b>Quoins</b> - a clamp-like device tightened with a key to lock the type in place within a chase; typically, at least two are used – one to secure the type vertically and the other horizontally
+6. <b>Quoins</b> - a clamp-like device tightened with a key to lock the type in place within a chase; typically, at least two are used – one to secure the type vertically and the other horizontally<br>
 	
 </ul>
 	
