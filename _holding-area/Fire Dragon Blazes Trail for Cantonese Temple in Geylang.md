@@ -68,10 +68,10 @@ Once the entire dragon has been constructed, all that is left is the performance
 <div style="background-color: white;">A devotee carefully inserting a lit joss stick into the dragon, 2023. <i>Courtesy of Yeo GT.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Inserting_lighted_incense_into_the_head.jpg" style="width: 80%;">
 <div style="background-color: white;">Devotees inserting lit joss sticks into the dragon before the procession, 2023. <i>Courtesy of Yeo GT.</i></div><br>
-<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/segment_of_body_with_lit_incense.jpg" style="width: 80%;">
-<div style="background-color: white;">(Right) A section of the body with lit incense. (Left) Joss sticks adorning the pearl of wisdom.  <i>Courtesy of Yeo GT 2023.</i></div>
-<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/segment_of_body_with_lit_incense.jpg" style="width: 80%;">
-<div style="background-color: white;">(Right) A section of the body with lit incense. (Left) Joss sticks adorning the pearl of wisdom.  <i>Courtesy of Yeo GT 2023.</i></div>
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Segment_of_body_festooned_with_lighted_incense.jpg" style="width: 80%;">
+<div style="background-color: white;">A section of the body with lit incense, 2023. <i>Courtesy of Yeo GT.</i></div>
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Incense_studded_pearl.jpg" style="width: 80%;">
+<div style="background-color: white;">Joss sticks adorning the pearl of wisdom, 2023.  <i>Courtesy of Yeo GT.</i></div>
 
 The Fire Dragon, at more than 60 m long and festooned with thousands of burning joss sticks, is a striking sight as it manoeuvres through the smoke. The parade of the dragon begins in the temple before going through the nearby streets. The procession is believed to help dissipate anger caused by the disturbance of the land around the temple felt by the temple’s deities.
 
