@@ -111,7 +111,7 @@ In keeping with the temple’s commitment to safeguarding the Fire Dragon, Maste
 
 #### **Notes**
 
-[^1]:  Ang Yik Han 洪毅瀚, Xiang qing ci yun : Shagang Cun he wan shan fu de ci de liu bian yu chuan cheng [乡情祠韵 : 沙冈村和万山福德祠的流变与传承](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176) \[A kampong and its temple: change and tradition in kampong Sar Kong and the Mun San Fook Tuck Chee\] (Singapore: 万山福德祠, 2016), 107. (Call no. RSING 203.5095957 HYH)
+[^1]:  Ang Yik Han 洪毅瀚, Xiang qing ci yun: Shagang Cun he wan shan fu de ci de liu bian yu chuan cheng [乡情祠韵 : 沙冈村和万山福德祠的流变与传承](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176) \[A kampong and its temple: Change and tradition in kampong Sar Kong and the Mun San Fook Tuck Chee\] (Singapore: 万山福德祠, 2016), 107. (From National Library, Singapore, call no. RSING 203.5095957 HYH)
 
 [^2]:  Ang, [乡情祠韵](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176), 42.
 
