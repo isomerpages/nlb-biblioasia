@@ -30,8 +30,10 @@ Creating the dragon is a painstaking, tedious process – just constructing the 
 <div style="background-color: white;">Fong Keng Yan working on a dragon frame. <i>Courtesy of Man San Fook Tuck Chee.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Sewing_with_a_metal_hook.jpg" style="width: 80%;">
 <div style="background-color: white;">Zhen Meng Chye attaches bunches of straw to the rattan frame with a metal hook, 2023. <i>Courtesy of Edmund Lau.</i></div>
-<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Closing_up_of_frame_sewn_bundles.jpg" style="width: 80%;">
-<div style="background-color: white;">(Left) Close-up of the rattan frame and straw for the antlers. <i>Courtesy of Edmund Lau</i>. (Right) Detail of the bundles of straw sewn together, 2023. <i>Courtesy of ANTZ.</i></div>
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Close_up_of_rattan_frame.jpg" style="width: 80%;">
+<div style="background-color: white;">Close-up of the rattan frame and straw for the antlers. <i>Courtesy of Edmund Lau</i>.</div>
+<img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Close_up_of_sewn_bundles.jpg" style="width: 80%;">
+<div style="background-color: white;">Detail of the bundles of straw sewn together, 2023. <i>Courtesy of ANTZ.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Sewing_of_the_dried_straw_closing_up_of_string.jpg" style="width: 80%;">
 <div style="background-color: white;">(Left) Sewing of dried straw to form the dragon. (Right) Close-up of string used to sew the straw together, 2023. <i>Courtesy of Edmund Lau.</i></div>
 
