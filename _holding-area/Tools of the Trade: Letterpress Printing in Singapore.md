@@ -141,4 +141,3 @@ To produce a label in colour, multiple printing blocks were created for each col
 
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/Vinegar.jpg" style="width: 60%;">
 <div style="background-color:white;">The brand can still be found today in supermarkets like NTUC. <i>Photo by Veronica Chee.</i></div>
-
