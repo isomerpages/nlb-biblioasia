@@ -4,6 +4,13 @@ permalink: /topics/print/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/ba-reels-print/2024/6/tools-of-the-trade/">Tools of the Trade: Letterpress Printing in Singapore</a>
+
+Letterpress printing may be obsolete today but the tools involved continue to be objects of fascination.
+
+<img src="/images/Videos:%20BiblioAsia%20Reels/Letterpress_standfirst.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/early-malay-comics/"> Kaboom! Early Malay Comic Books Make an Impact</a>
 The 1950s was the heyday for Malay comic books published in Singapore.
 

@@ -1,6 +1,6 @@
 ---
 title: "Tools of the Trade: Letterpress Printing in Singapore"
-permalink: /holding-area/tools-of-the-trade/
+permalink: /ba-reels-print/2024/6/tools-of-the-trade/
 variant: markdown
 description: ""
 ---

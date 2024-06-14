@@ -18,6 +18,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 2 Issue 3/Hero_Banner_kaabar.jpg
   - infopic:
+      title: "Tools of the Trade: Letterpress Printing in Singapore"
+      subtitle: Print
+      id: infopic
+      description: Letterpress printing may be obsolete today but the tools involved
+        continue to be objects of fascination.
+      button: EQUIPMENT FROM A BYGONE ERA
+      url: /ba-reels-print/2024/6/tools-of-the-trade/
+      image: "/images/Videos: BiblioAsia Reels/Letterpress_standfirst.png"
+      alt: Image alt text
+  - infopic:
       title: Fire Dragon Blazes Trail for Cantonese Temple in Geylang
       subtitle: Culture
       id: infopic
