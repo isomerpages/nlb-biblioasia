@@ -8,6 +8,13 @@ variant: tiptap
 <h3><strong>A Reel-ly Good Story: History in Five Minutes</strong></h3>
 <p><em>BiblioAsia Reels</em> turns a <em>BiblioAsia</em> story into a short
 video. Take five to learn interesting things about Singapore history.</p>
+<h4><strong>Traditional Letterpress Printing in Singapore</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GYvONtxJFeo?si=PBBLlpCbvVh2o3Kx"></iframe>
+</div>
+<p>Typesettingsg founder Sun Yao Yu shares more about this printing technique
+– once the main commercial printing method here in the 19th century.</p>
+<p></p>
 <h4><strong>Yip Yew Chong’s “I Paint my Singapore”</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UIF61oX7im0?si=3GFNXy5rMAWMFIcp"></iframe>
