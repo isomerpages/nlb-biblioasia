@@ -18,6 +18,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 2 Issue 3/Hero_Banner_kaabar.jpg
   - infopic:
+      title: Fire Dragon Blazes Trail for Cantonese Temple in Geylang
+      subtitle: Culture
+      id: infopic
+      description: Mun San Fook Tuck Chee Temple is the guardian of the Fire Dragon in
+        Singapore.
+      button: Dance of a dragon
+      url: /culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/
+      image: /images/Online Only Articles/Cantonese Fire
+        Dragon/Fire_dragon_paraded_Sims_Drive.jpg
+      alt: Fire Dragon
+  - infopic:
       title: Traditional Letterpress Printing in Singapore
       subtitle: BiblioAsia Reels
       id: infopic
@@ -1094,15 +1105,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: Fire Dragon Blazes Trail for Cantonese Temple in Geylang
-      subtitle: Culture
-      id: infopic
-      description: Mun San Fook Tuck Chee Temple is the guardian of the Fire Dragon in
-        Singapore.
-      button: Dance of a dragon
-      url: /culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/
-      image: /images/Online Only Articles/Cantonese Fire
-        Dragon/Fire_dragon_paraded_Sims_Drive.jpg
-      alt: Fire Dragon
 ---
