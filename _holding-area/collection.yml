@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - "Tools of the Trade: Letterpress Printing in Singapore.md"
       - Example Title.md
       - Test2.md
       - Test page.md
