@@ -80,7 +80,7 @@ The dragon is brought to life by about 80 to 100 dancers (including fire thrower
 The joss sticks take between three and four hours to burn through which means the performance will need to be concluded by that time. Eventually, the lit joss sticks burn to the point where they are buried into the straw and the straw catches fire. At that point, the dragon is left to rest on the ground to be devoured by the flames. The Fire Dragon ends its sojourn in this world surrounded by smoke and fire, ascending to the heavens bearing the wishes and prayers of its devotees.&nbsp;When the time comes for the next performance, an invitation ritual must be held to invite the dragon to descend from the heavens once again.
 
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Fire_dragon_paraded_Sims_Drive.jpg" style="width: 80%;">
-<div style="background-color: white;">The Fire Dragon parading down Sims Drive, 2023. <i>Courtesy of Yeo GT.</i></div><br>
+<div style="background-color: white;">The Fire Dragon parading down Sims Drive, 2023. <i>Courtesy of Yeo GT.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Fire_dragon_in_flames.jpg" style="width: 80%;">
 <div style="background-color: white;">The Fire Dragon in flames, c.1990s. <i>Courtesy of Mun San Fook Tuck Chee.</i></div>
 
