@@ -1105,4 +1105,14 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: "Tools of the Trade: Letterpress Printing in Singapore"
+      subtitle: Print
+      id: infopic
+      description: Letterpress printing may be obsolete today but the tools involved
+        continue to be objects of fascination.
+      button: EQUIPMENT FROM A BYGONE ERA
+      url: /ba-reels-print/2024/6/tools-of-the-trade/
+      image: "/images/Videos: BiblioAsia Reels/Letterpress_standfirst.png"
+      alt: Image alt text
 ---
