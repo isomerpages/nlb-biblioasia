@@ -5,13 +5,13 @@ variant: markdown
 description: ""
 third_nav_title: BiblioAsia Reels
 ---
-#### **Traditional Letterpress Printing in Singapore**
+#### <b>Traditional Letterpress Printing in Singapore</b>
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/GYvONtxJFeo?si=PBBLlpCbvVh2o3Kx" frameborder="0" allowfullscreen=""></iframe></div>
 
 Typesettingsg founder Sun Yao Yu shares more about this printing technique – once the main commercial printing method here in the 19th century.
 
-<b>Related articles<b><br>
+<b>Related articles</b><br>
 
 Early Malay Printing in Singapore<br>
 [https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/)
@@ -31,4 +31,4 @@ Printing in Singapore dates back about 200 years when Christian missionaries est
 [The Early History of Printing in Singapore](/vol-19/issue-3/oct-dec-2023/singapore-early-printing/)
 
 
-<hr></b></b>
+<hr>
