@@ -1,6 +1,6 @@
 ---
 title: Fire Dragon Blazes Trail for Cantonese Temple in Geylang
-permalink: /holding-area/fire-dragon/
+permalink: /culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/
 variant: markdown
 description: Cantonese Fire Dragon
 image: /images/Online Only Articles/Cantonese Fire
@@ -67,7 +67,7 @@ Once the entire dragon has been constructed, all that is left is the performance
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/A_devotee_squints_.png" style="width: 80%;">
 <div style="background-color: white;">A devotee carefully inserting a lit joss stick into the dragon, 2023. <i>Courtesy of Yeo GT.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Inserting_lighted_incense_into_the_head.jpg" style="width: 80%;">
-<div style="background-color: white;">Devotees inserting lit joss sticks into the dragon before the procession, 2023. <i>Courtesy of Yeo GT.</i></div><br>
+<div style="background-color: white;">Devotees inserting lit joss sticks into the dragon before the procession, 2023. <i>Courtesy of Yeo GT.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Segment_of_body_festooned_with_lighted_incense.jpg" style="width: 80%;">
 <div style="background-color: white;">A section of the body with lit incense, 2023. <i>Courtesy of Yeo GT.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Incense_studded_pearl.jpg" style="width: 80%;">
@@ -80,7 +80,7 @@ The dragon is brought to life by about 80 to 100 dancers (including fire thrower
 The joss sticks take between three and four hours to burn through which means the performance will need to be concluded by that time. Eventually, the lit joss sticks burn to the point where they are buried into the straw and the straw catches fire. At that point, the dragon is left to rest on the ground to be devoured by the flames. The Fire Dragon ends its sojourn in this world surrounded by smoke and fire, ascending to the heavens bearing the wishes and prayers of its devotees.&nbsp;When the time comes for the next performance, an invitation ritual must be held to invite the dragon to descend from the heavens once again.
 
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Fire_dragon_paraded_Sims_Drive.jpg" style="width: 80%;">
-<div style="background-color: white;">The Fire Dragon parading down Sims Drive, 2023. <i>Courtesy of Yeo GT.</i></div><br>
+<div style="background-color: white;">The Fire Dragon parading down Sims Drive, 2023. <i>Courtesy of Yeo GT.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Fire_dragon_in_flames.jpg" style="width: 80%;">
 <div style="background-color: white;">The Fire Dragon in flames, c.1990s. <i>Courtesy of Mun San Fook Tuck Chee.</i></div>
 
@@ -95,7 +95,7 @@ The Sar Kong Mun San Fook Tuck Chee Temple was established during the early 1860
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/T1_004.jpg" style="width: 80%;">
 <div style="background-color: white;">The Sar Kong Mun Fook Tuck Chee Temple at Sims Drive, 2007. <i>Courtesy of Ang Yik Han.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/T1_005.jpg" style="width: 80%;">
-<div style="background-color: white;">The temple moved to it's current location in 1901., 2007. <i>Courtesy of Ang Yik Han.</i></div>
+<div style="background-color: white;">The temple was originally located in the Kallang Basin, 2007. <i>Courtesy of Ang Yik Han.</i></div>
 
 The main deity worshipped at the temple is Tu Di Gong (also known as the Earth Deity, Tu Di Ye Ye, Toh Teh Ye Ye or Bo Gong), likely due to the numerous brick kilns in the area. The workers of these kilns were either Cantonese or Hakka and they brought their custom of worshiping Tu Di Gong along with them.[^4] As a mark of respect to Tu Di Gong, prayers were routinely offered prior to the firing of the kilns. The birthday celebrations of this deity, which falls on the second day of the second lunar month, is the most important occasion in the calendar of events for the temple.
 
@@ -135,6 +135,6 @@ In keeping with the temple’s commitment to safeguarding the Fire Dragon, Maste
 
 [^3]:  Ang, [乡情祠韵](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670176), 28.
 
-[^4]:  Lü Shicong 吕世聪, Tou tao zhi bao: Wanshan Gang Fude Ci li shi su yuan [投桃之报 : 万山港福德祠历史溯源](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009) \[A boon returned: the history of Mun San Fook Tuck Chee\] (Singapore : 石叻学会, 2008), 44. (Call no. RSING 203.5095957 LSC)
+[^4]:  Lü Shicong 吕世聪, Tou tao zhi bao: Wanshan Gang Fude Ci li shi su yuan [投桃之报 : 万山港福德祠历史溯源](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009) \[A boon returned: The history of Mun San Fook Tuck Chee\] (Singapore : 石叻学会, 2008), 44. (From National Library, Singapore, call no. RSING 203.5095957 LSC)
 
 [^5]:  Lü, [投桃之报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009)_,_ 40.

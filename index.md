@@ -18,6 +18,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 2 Issue 3/Hero_Banner_kaabar.jpg
   - infopic:
+      title: Fire Dragon Blazes Trail for Cantonese Temple in Geylang
+      subtitle: Culture
+      id: infopic
+      description: Mun San Fook Tuck Chee Temple is the guardian of the Fire Dragon in
+        Singapore.
+      button: Dance of a dragon
+      url: /culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/
+      image: /images/Online Only Articles/Cantonese Fire
+        Dragon/Fire_dragon_paraded_Sims_Drive.jpg
+      alt: Fire Dragon
+  - infopic:
       title: Traditional Letterpress Printing in Singapore
       subtitle: BiblioAsia Reels
       id: infopic
@@ -401,10 +412,9 @@ sections:
       title: A History of the Singapore Chin Woo (Athletic) Association
       subtitle: Collection Highlights
       id: infopic
-      description: |-
-        One of Singapore’s oldest martial arts associations
-        donated its unique collection of photographs and
-        materials to the National Library, Singapore.
+      description: One of Singapore’s oldest martial arts associations donated its
+        unique collection of photographs and materials to the National Library,
+        Singapore.
       button: An enduring martial arts association
       url: /vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/
       image: /images/Vol 20 Issue 1/Chin Woo/chin_woo.png

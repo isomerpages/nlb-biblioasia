@@ -10,6 +10,14 @@ third_nav_title: BiblioAsia Reels
 Typesettingsg founder Sun Yao Yu shares more about this printing technique – once the main commercial printing method here in the 19th century.
 
 <img src="/images/Videos:%20BiblioAsia%20Reels/Letterpress_standfirst.png" style="width:80%;">
+
+#### **Related Articles**
+
+Early Malay Printing in Singapore<br>
+[https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/)
+
+The History of Early Printing in Singapore<br>
+[https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/](https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/)
 <hr>
 
 #### <b>Singapore’s Early Publications</b>
