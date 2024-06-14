@@ -1104,5 +1104,5 @@ sections:
       url: /culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/
       image: /images/Online Only Articles/Cantonese Fire
         Dragon/Fire_dragon_paraded_Sims_Drive.jpg
-      alt: Image alt text
+      alt: Fire Dragon
 ---
