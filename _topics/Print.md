@@ -8,7 +8,7 @@ variant: markdown
 
 Letterpress printing may be obsolete today but the tools involved continue to be objects of fascination.
 
-<img src="/images/Videos:%20BiblioAsia%20Reels/Letterpress_standfirst.png" style="width:80%;">
+<img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_2.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/early-malay-comics/"> Kaboom! Early Malay Comic Books Make an Impact</a>
