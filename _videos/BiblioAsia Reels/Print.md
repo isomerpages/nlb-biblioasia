@@ -15,7 +15,7 @@ Typesettingsg founder Sun Yao Yu shares more about this printing technique – o
 
 * <a href="https://biblioasia.nlb.gov.sg/ba-reels-print/2024/6/tools-of-the-trade/">Tools of the Trade: Letterpress Printing in Singapore</a><br>
 
-* <a href="https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/">The History of Early Printing in Singapore</a><br>
+* <a href="https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/">The History of Early Printing in Singapore</a><br>
    
 * <a href="https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a><br>
 
