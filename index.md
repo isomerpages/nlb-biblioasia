@@ -25,7 +25,7 @@ sections:
         continue to be objects of fascination.
       button: EQUIPMENT FROM A BYGONE ERA
       url: /ba-reels-print/2024/6/tools-of-the-trade/
-      image: "/images/Videos: BiblioAsia Reels/Letterpress_standfirst.png"
+      image: "/images/Videos: BiblioAsia Reels/Tools of the Tradev2/A2___Photo_2.jpg"
       alt: Image alt text
   - infopic:
       title: Fire Dragon Blazes Trail for Cantonese Temple in Geylang
