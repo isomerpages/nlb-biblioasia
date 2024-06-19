@@ -39,6 +39,10 @@ Although many of these private zoos did not survive for long due to high financi
 
 In 1967, the Public Utilities Board (PUB) began to explore ways to better utilise the water bodies under its management for recreational purposes. Several thousand acres of land in the Seletar, Peirce and MacRitchie catchments were still closed off to the public. “One of the things considered was a zoo,” recalled PUB chairman Ong Swee Law.[^11]
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+<div style="background-color: white;">Public Utilities Board chairman Ong Swee Law (centre) visiting the Longleat Zoological Park in England, 1969. <i>Image reproduced from Ilsa Sharp, The First 21 Years: The Singapore Zoological Gardens Story (Singapore: Singapore Zoological Gardens, 1994), 7. (From National Library, Singapore, call no. RSING q590.7445957 SHA-[LKY]).</i></div>
+
+
 In late 1968, Ong assembled a steering committee of 12 PUB officials to drive the project. As the team comprised officials who were “without previous experience or knowledge of planning zoos”, they drew instead on the opinions and advice of experts and zoo directors from Europe, North America and Australia.[^12] In September 1969, the committee submitted a report to the government, recommending the establishment of a zoological gardens for the country. This was approved a month later, and Singapore Zoological Gardens, a $5 million public company, was formed to design, construct and manage the zoo, with Ong as chairman.[^13]
 
 After a visit to the Dehiwala Zoo in Ceylon (Sri Lanka today), Ong invited its director, Lyn de Alwis, to be the consultant-director of the Singapore Zoo on a one-year secondment. “They \[Singapore authorities\] knew what they wanted, having toured many zoos, particularly in the US and Europe. They saw what we had at Dehiwala and decided to give us the job,” de Alwis recalled.[^14]
