@@ -118,6 +118,14 @@ Lee’s final animal was a gold-plated origami paper crane, which was inspired b
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19930228.jpg" style="width: 75%;">
 <div style="background-color: white;">Lee with his granddaughters. The idea for the metal origami crane came to him when his granddaughter asked him for a crane that would last. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
+While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;it has extended its product line to include other items like chopsticks (with gold-plated tips) and penholders (with mounted golden flowers).&nbsp;Its gold animals of the Chinese zodiac also remain for sale: a&nbsp;resin dragon with 24K gold-plating that stands at 29 cm and weighs 5.5kg retails for $7,388. Its gold-plated eggs are still available and have grown even larger – according to its website, a 24K gold-plated ostrich egg weighing 5kg goes for $1,988.[^51] The national prominence of RISIS might have waned but RISIS and its products remind us of the aspirations of the once newly-industrialising Singapore and how far we have come since then.
+
+  
+
+* * *
+
+
+
 
 
 
@@ -250,3 +258,5 @@ Lee’s final animal was a gold-plated origami paper crane, which was inspired b
 [^49]:  “[Page 3 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19891209-1.2.75.1),” _Straits Times_, 9 December 1989, 3. (From NewspaperSG)
 
 [^50]:  “[Risis Orchid Man Comes Out with Origami Crane in Precious Metals](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19930228-1.2.25.24),” _Straits Times_, 28 February 1993, 22. (From NewspaperSG)
+
+[^51]:  “Home &amp; Lifestyle,” RISIS, accessed 14 June 2024, https://risis.com/collections/home-lifestyle.
