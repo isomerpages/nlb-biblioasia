@@ -105,9 +105,20 @@ In response to the fake eggs scandal, Setsco sent warning letters to 10 stores k
 
 In 1986, as part of the government’s larger privatisation thrust, Setco sold its subsidiary RISIS Pte Ltd to private companies.[^45] Lee, however, remained Director and Consultant to RISIS until 1990.[^46]
 
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19890526.jpg" style="width: 55%;">
+<div style="background-color: white;">Dr Lee Kum Tatt with some of his creations, 1989. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+
+From the mid-80s, RISIS started emphasising Chinese culture in both the items sold and the narratives deployed. These included walnuts[^47] and gold-plated figurines celebrating the year’s Chinese Zodiac animal (of course, without live animal encased within). For the Year of the Snake in 1989, RISIS released a gold-plated snake curled to resemble the Chinese character for patience, its advertisement announcing “Virtue Captured in Gold.”[^48] This trend reached its zenith in 1990, the year of the Golden Horse. Golden horses inspired by the paintings of renowned Chinese artist Xu Beihong were sold by RISIS, this time with the declaration that horses, not dogs, were Man’s best friend.[^49]
+
   
 
 * * *
+
+
+
+  
+
+
 
 
 
@@ -231,3 +242,9 @@ In 1986, as part of the government’s larger privatisation thrust, Setco sold i
 [^45]:  Singapore Institute of Standards and Industrial Research, _[Annual Report 198](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308)_5/86 (Singapore: The Institute), 5 (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); Hsung Bee Hwa, “[Risis Now Owned by Two Private Firms](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19861104-1.2.38.26),” _Straits Times_, 4 November 1986, 22. (From NewspaperSG)
 
 [^46]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 95; “[The Risis Golden Horse is Crafted as a Tribute to Civilisation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900114-1.2.48.56.5),” _Straits Times_, 14 January 1990, 56. (From NewspaperSG)
+
+[^47]:  “[Cash Carriers and Stress Relievers](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851212-1.2.59.2),” _Business Times_, 12 December 1985, 28; _“_[Page 7 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851108-1.2.89.14.1),_” Straits Times,_ 8 November 1985, 7. (From NewspaperSG)
+
+[^48]:  “[Page 5 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19881230-1.2.18.1),” _Business Times_, 30 December 1988, 5. (From NewspaperSG)
+
+[^49]:  “[Page 3 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19891209-1.2.75.1),” _Straits Times_, 9 December 1989, 3. (From NewspaperSG)
