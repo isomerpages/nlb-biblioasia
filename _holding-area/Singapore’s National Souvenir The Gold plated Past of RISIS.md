@@ -90,21 +90,34 @@ In 1984, RISIS launched gold-plated eggs for Chinese New Year. Positioning the e
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_gold_eggs.jpg" style="width: 80%;">
 <div style="background-color: white;">(Left) Advertisement promoting RISIS’s gold egg in 1984. <i>Image reproduced “Page 40 Advertisements Column 1,” Straits Times, 28 January 1984, 40. (From NewspaperSG)</i> (Right) Assortment of RISIS gold eggs. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
+These eggs soon became an addition to the ongoing diplomatic practice of gifting gold-plated orchids – visiting dignitaries were now gifted commemorative eggs, too. For example, in 1983, Tsutako Nakasone, the Japanese Prime Minister’s wife, was given a tour of Setsco’s facility at River Valley Road and presented with a 22-carat gold-plated goose egg at the end of the tour. The next day she visited the Singapore Botanic Garden, where she was given a golden orchid.[^40] Just as the orchids came from local nurseries, local farms supplied Setsco with goose, quail, and chicken eggs.[^41]
 
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/19980001401_IMG0014.jpg" style="width: 80%;">
+<div style="background-color: white;">Tsutako Nakasone (with glasses), wife of Japanese Prime Minister Yasuhiro Nakasone, observes RISIS’ creations at the Setsco facility in 1983. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+Imitation might be the highest form of flattery, but in the commercial world, it is also illegal. Forgeries of RISIS products did not just reduce sales, they also threatened its reputation. In 1985, for example, a curious Japanese tourist hammered open a gold-plated egg he bought, only to find a rotten raw egg inside. Furious at having shelled out more than a hundred dollars for his eggs, he marched to Setsco to complain.
+
+Fortunately for Setsco (but unfortunately for the Japanese tourist), he had bought imitation eggs. Genuine RISIS eggs were always emptied before being gold-plated. In fact, Lee had complained that when they started making these eggs, he “had to eat omelette for the next 20 days.”[^42]
+
+In response to the fake eggs scandal, Setsco sent warning letters to 10 stores known to be selling them.[^43] Setsco also urged the public to be vigilant and ensure the authenticity of their RISIS eggs by making sure “RISIS” was inscribed on base of the eggs. In addition, they could carry out a little test – real RISIS eggs could supposedly balance upright on their own, while fakes just rolled over.[^44]
 
   
 
 * * *
 
 
-  
-
-* * *
-
 
 
 
   
+
+
+
+
+
+
+  
+
   
 
 
@@ -195,3 +208,13 @@ In 1984, RISIS launched gold-plated eggs for Chinese New Year. Positioning the e
 [^38]:  Singapore Institute of Standards and Industrial Research, [Annual Report 1980/81](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 33. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\])
 
 [^39]:  “[Page 40 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840128-1.2.65.1),” _Straits Times_, 28 January 1984, 40. (From NewspaperSG)
+
+[^40]:  “[Touch of Gold](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830505-1.2.131),” _Straits Times_, 5 May 1983, 40. (From NewspaperSG)
+
+[^41]:  Lisa Lee, “[Risis Seeks To Transfer Its ‘Midas Touch’](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19860925-1.2.8),” _Business Times_, 25 September 1986, 1. (From NewspaperSG)
+
+[^42]:  “[Raya Isteri Visits Risis Factory and Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900215-1.2.27.5).”
+
+[^43]:  Gillian Pow Chong, “[When a Golden Egg Stinks](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850120-1.2.2),” _Straits Times_, 20 January 1985, 1. (From NewspaperSG)
+
+[^44]:  “[How to Tell If That Golden Egg is Real](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850123-1.2.24.4),” _Straits Times_, 23 January 1985, 9. (From NewspaperSG)
