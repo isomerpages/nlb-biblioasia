@@ -61,9 +61,26 @@ Perhaps the most vivid sign of how central RISIS had become to the Singaporean i
 
 Orchids have been an important diplomatic tool for Singapore since the mid-20th century. “Orchid diplomacy” saw prominent foreign visitors – heads of state, heads of government, celebrities – treated to an orchid from the Singapore Botanic Garden named after them.[^29] With the creation of RISIS, it also became customary to give these VIPs a gold-plated version of their namesake orchid.[^30]
 
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/RISIS_page_21.jpg" style="width: 80%;">
+<div style="background-color: white;">An illustration showcasing the large number of orchids named after celebrities, 1984. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 21. (From National Library, Singapore, call no. RSING 739.27095957 JOF)</i></div>
+
+During Queen Elizabeth’s inaugural visit to Singapore in February 1972, she chose a yellow <i>Dendrobium</i> at the Singapore Botanic Garden to be named after her.[^31] In May 1984, 12 years later, she was presented with “a spray of orchids preserved in gold” during the International Garden Festival in Liverpool. The orchid presented was, of course, the <i>Elizabeth Dendrobium</i>.[^32]
+
+In 1990, the royal consort of the Sultan of Brunei, Raja Isteri Pengiran Anak, was not just gifted a gold-plated _Dendrobium Saleha_, she was also told that if she wanted other gold-plated souvenirs for her friends, RISIS could have them made for her.[^33]
+
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19840505.jpg" style="width: 70%;">
+<div style="background-color: white;">Lord Aberconway presents Queen Elizabeth with her namesake RISIS gold-plated orchids at a garden festival in 1984. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+
   
 
 * * *
+
+
+
+
+
+  
+
 
 
 
@@ -146,3 +163,9 @@ Orchids have been an important diplomatic tool for Singapore since the mid-20th 
 [^29]:  Rebecca Tan, “[Flower Power: Singapore’s Orchid Diplomacy](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/),” _BiblioAsia_, 18, no. 1 (Apr-Jun 2022); Ang Seow Leng, “[More than Just a Flower: The Orchid’s Manifold Faces](https://biblioasia.nlb.gov.sg/vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/),” _BiblioAsia_, 7, no. 3 (Oct–Dec 2011).
 
 [^30]:  E Jofel, [T_he RISIS Orchid_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080144) (Singapore: Times Books International, 1984), 21. (From National Library, Singapore, call no. RSING 739.27095957 JOF)
+
+[^31]:  P.M. Raman, “[Big Welcome for Queen Elizabeth](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720218-1.2.142.1),” _Straits Times_, 18 February 1972, 25; “[A Saffron Spray Gets the Royal Vote](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720221-1.2.8.8),” _Straits Times_, 21 February 1972, 5. (From NewspaperSG)
+
+[^32]:  Teresa Ooi, “[Orchids in Gold for the Queen](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840415-1.2.55),” _Straits Times_, 14 April 1984, 14; [Singapore Orchid Display Wins Top Awards in Britain](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840526-1.2.72),” _Straits Times_, 26 May 1984, 49. (From NewspaperSG)
+
+[^33]:  “[Raya Isteri Visits Risis Factory and Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900215-1.2.27.5),” _Straits Times_, 15 February 1990, 16. (From NewspaperSG)
