@@ -9,13 +9,13 @@ description: The zoo was able to overcome major setbacks in its formative years
 By Choo Ruizhi
 
 
-![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img11.jpg)
 <div style="background-color: white;">A Javan langur cuddling her baby at the Primate Kingdom in the Singapore Zoo. <i>Courtesy of Mandai Wildlife Group.</i></div>
 
 
 It was a little after 5 pm on 27 June 1973 when Deputy Prime Minister Goh Keng Swee was invited to shake hands with an orangutan.[^1] The primate was Susie, and the occasion was the official opening of the Singapore Zoological Gardens (known as the Singapore Zoo today). In his opening speech, Goh declared that the zoo was the latest “welcome addition to the amenities available to residents of Singapore”, a new recreational space for stressed, urbanised Singaporeans to relax. Spread over 28 hectares of land, the zoo featured about 270 animals from around 72 different species, many displayed in naturalistic enclosures.[^2]
 
-![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img5.jpg)
 <div style="background-color: white;">Deputy Prime Minister Goh Keng Swee interacting with Sumatran orangutan Susie at the Singapore Zoo’s opening day on 27 June 1973. Today, interactions with animals at the zoo and its related institutions involve encouraging natural behaviour. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 
@@ -98,6 +98,9 @@ Under Harrison, the zoo pioneered “Breakfast with an Orangutan” in 1982, whe
 Ah Meng was chosen as a replacement because she was photogenic, “well-groomed” and comfortable with humans, having been raised as a household pet before being given to the zoo. Docile and personable, Ah Meng was photographed with many visiting celebrities and foreign dignitaries, and grew to become a household name among Singaporeans. According to Harrison, Singapore’s third president Devan Nair supposedly once remarked that “After Lee Kuan Yew, \[Ah Meng is\] the most well-known Singaporean in the world”.[^34] In 1992, Ah Meng became the first only non-human recipient of the Special Tourism Ambassador award by the then Singapore Tourist Promotion Board.[^35]
 
 The internationalisation of the Singapore Zoo continued into the 1990s and 2000s. On 26 December 1990, the zoo welcomed the birth of Inuka, the world’s first (and perhaps only) polar bear to be born in the tropics. Like Ah Meng, Inuka endeared himself to Singaporeans and international visitors alike, becoming a mascot for the zoo’s marketing efforts. But as a creature poorly adapted to the tropics, the polar bear also provoked many difficult conversations about animal welfare and zoological exhibits in Singapore. Such debates were led by the Animal Concerns Research and Education Society (ACRES), a local animal welfare group.[^36] (The zoo later said in 2006 that it would not bring any more polar bears to Singapore.[^37])
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+<div style="background-color: white;">Inuka, born on 26 December 1990, and his mother Sheba when he was less than a year old. <i>Courtesy of Mandai Wildlife Group.</i></div>
 
 #### **New Attractions**
 
