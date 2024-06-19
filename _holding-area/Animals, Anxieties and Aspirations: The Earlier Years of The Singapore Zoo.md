@@ -32,7 +32,7 @@ In 1881, citing financial constraints, the colonial government withdrew all fina
 
 In 1928, the animal trader William Lawrence Soma Basapa established Punggol Zoo at 10 Mile Punggol Road. His collections featured Malayan tigers, Australian cassowaries and African lions. In early 1942, however, as the Japanese invasion of Singapore loomed, British authorities ordered the zoo’s dangerous animals killed and the harmless ones released into the wild.[^6]
 
-![](/images/Vol%2020%20Issue%203/Zoo/zoo_img13.jpg)
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img13a.jpg)
 <div style="background-color: white;">Animal trader William Lawrence Soma Basapa established Punggol Zoo at 10 Mile Punggol Road. He is seen here with his favourite pet Bengal tiger, Apay. <i>Courtesy of the Basapa Family.</i></div>
 
 
@@ -56,6 +56,10 @@ The committee had envisioned that it would feature an “open concept” archite
 
 By 1971, development work on the 28-hectare zoo, including the construction of a metalled access road and sewage facilities, was underway.[^16] Some 2,000 trees were specially selected to replace “less desired” vegetation and to provide better shade and attract birds.[^17] Construction took 18 months and cost the government about $9 million. But despite efforts to create a modern, “wonder world of animals set amid the sparkling reservoir waters”, gaps remained – in some cases literally.[^18] Three months before the new zoo was slated to open, a series of dramatic animal escapes made headline news.
 
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img9.jpg)
+<div style="background-color: white;">A sloth at the Fragile Forest in the Singapore Zoo. The biodome mimics a tropical rainforest habitat. <i>Courtesy of Mandai Wildlife Group.</i></div>
+
+
 #### **Animal Escapees**
 
 It started with the sun bears. On 5 March 1973, two “tame and less than half grown” bears squeezed their way out of a narrow gap in their cages. One was “re-captured immediately”, while the other eluded capture until it was shot dead two days later in the surrounding forested area, about 45 m from its enclosure.[^19]
@@ -63,10 +67,6 @@ It started with the sun bears. On 5 March 1973, two “tame and less than half g
 The next day, a three-year-old panther, the “youngest and smallest” of the zoo’s five panthers, slipped out of its cage, and escaped into the surrounding jungle. Zookeepers had named the panther “Twiggy” after the supermodel of the same name, as “it was slim and had thin legs”. The young feline had been locked in one of the “standard cages” in a quarantine area. The restless, frightened animal managed to escape by squeezing through the bars, which were each “about five inches apart”.[^20]
 
 Twiggy’s escape triggered a massive search effort. In addition to policemen, zoo staff and experienced hunters, three Reserve Unit troops totalling about 150 men were sent into the rainforests of Mandai, Seletar and Sembawang with a “shoot-to-kill” order. These personnel continued the search even amid heavy rain and darkness.[^21] Although armed patrols failed to locate the panther, a search party “spotted movement” in the thick vegetation surrounding the zoo shortly before noon on 7 March and shot dead the remaining fugitive sun bear.[^22]
-
-![](/images/Vol%2020%20Issue%203/Zoo/zoo_img9.jpg)
-<div style="background-color: white;">A sloth at the Fragile Forest in the Singapore Zoo. The biodome mimics a tropical rainforest habitat. <i>Courtesy of Mandai Wildlife Group.</i></div>
-
 
 Reports of the runaway panther provoked widespread fear and excitement among Singaporeans. "We are worried about the children and are taking all precautions,” said Tan Thow Lar, a farmer. Nightlife in the nearby Sembawang Hills Estate slowed to a standstill as shops and households locked themselves in. Police warned students to keep away from the Seletar and Peirce reservoirs, while nearby schools shortened their teaching hours.[^23]
 
