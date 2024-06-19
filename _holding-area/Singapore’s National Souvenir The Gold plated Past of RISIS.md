@@ -78,6 +78,17 @@ Orchids were also used to promote tourism. When Singapore received its two milli
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/Sing_Travel.jpg" style="width: 60%;">
 <div style="background-color: white;">Singapore’s &nbsp;second-millionth tourist Iris Harris being interviewed in front of a stage decorated with $40,000 worth of RISIS flowers. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=8939fd5f-759f-4d34-84c1-ab6cb86799a1">Singapore Travel: Official Publication of the Singapore Tourist Promotion Board, Feb 1979</a> (Singapore: Singapore National Printers, 1979). (From National Library Online)</i></div>
 
+#### **Beyond Orchids**
+
+The success of the RISIS orchid inspired SISIR to gold-plate other items. The first addition was tropical leaves and ferns, which were chosen for the RISIS Floral Collection in July 1979.[^37] Following the success of the Floral Collection, SISIR designed pendants, bracelets and cufflinks which incorporated gold-plated coins.[^38]
+
+  
+
+* * *
+
+
+
+
   
   
 
@@ -163,3 +174,7 @@ Orchids were also used to promote tourism. When Singapore received its two milli
 [^35]:  “[Risis Sparkles With a Jewelled Collection](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19860516-1.2.10.14),” _Business Times_, 16 May 1986, 3. (From NewspaperSG)
 
 [^36]:  Singapore Institute of Standards and Industrial Research, [Annual Report 1978/79](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 7 (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); “[The 2 Millionth Visitor](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.5),” _Straits Times_, 23 December 1978, 1; “[S’pore Crosses the Two Millionth Visitor Mark](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.137.24.1),” _Straits Times_, 23 December 1978, 9; “[She Dines Like an Empress](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19781224-1.2.6),” _New Nation_, 24 December 1978, 2. (From NewspaperSG)
+
+[^37]:  Singapore Institute of Standards and Industrial Research, _[Annual Report 1979/80](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308)_ (Singapore: The Institute), 38. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\])
+
+[^38]:  Singapore Institute of Standards and Industrial Research, [Annual Report 1980/81](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 33. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\])
