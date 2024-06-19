@@ -15,6 +15,10 @@ By Choo Ruizhi
 
 It was a little after 5 pm on 27 June 1973 when Deputy Prime Minister Goh Keng Swee was invited to shake hands with an orangutan.[^1] The primate was Susie, and the occasion was the official opening of the Singapore Zoological Gardens (known as the Singapore Zoo today). In his opening speech, Goh declared that the zoo was the latest “welcome addition to the amenities available to residents of Singapore”, a new recreational space for stressed, urbanised Singaporeans to relax. Spread over 28 hectares of land, the zoo featured about 270 animals from around 72 different species, many displayed in naturalistic enclosures.[^2]
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+<div style="background-color: white;">Deputy Prime Minister Goh Keng Swee interacting with Sumatran orangutan Susie at the Singapore Zoo’s opening day on 27 June 1973. Today, interactions with animals at the zoo and its related institutions involve encouraging natural behaviour. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
+
+
 The idea of a zoo was conceived as early as 1967, just two years after Singapore’s independence. Amid significant sociopolitical and economic challenges, why did the leaders of this new nation dedicate significant financial, intellectual and material resources to the creation of a zoo when there were other more pressing matters of national development at hand? To better understand the origins of the Singapore Zoo, and why Goh found himself shaking hands with an orangutan on a Wednesday evening in 1973, we need to look back at Singapore’s early fascination for collecting, exhibiting and visiting exotic animal displays.&nbsp;
 
 #### **Singapore’s Early Zoos**
