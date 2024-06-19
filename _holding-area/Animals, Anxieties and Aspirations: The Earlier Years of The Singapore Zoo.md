@@ -106,6 +106,10 @@ The internationalisation of the Singapore Zoo continued into the 1990s and 2000s
 
 The 1990s also witnessed the launch of the world’s first Night Safari, which officially opened on 26 May 1994. Described as the first of its kind in the world, it allowed (and continues to allow) visitors to observe animals in nocturnal naturalistic settings, with even some free-ranging herbivores in certain parts of the park. At 40 hectares, it was nearly twice as large as the Singapore Zoo when it opened, and featured a collection of 1,200 animals from 100 different species, and “animals never before seen in Singapore”, such as a one-horned rhinoceros from India.&nbsp;
 
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img3.jpg)
+<div style="background-color: white;">Spotted hyenas, also known as laughing hyenas, at the Night Safari. They make a wide variety of sounds, including the “laughing” associated with their name. <i>Courtesy of Mandai Wildlife Group.</i></div>
+
+
 “Few people realise that 90 per cent of tropical animals are in fact nocturnal,” Ong Swee Law, by then executive chairman of the Singapore Zoo, wrote in a statement. “Night Safari gives visitors the opportunity to study this twilight world in complete safety and comfort.”[^38] There have been no animal escapes since its opening, reflecting the growing confidence in designing and operating “open zoo” enclosures.&nbsp;
 
 The sheer novelty of the night zoo made it wildly popular with both local and international visitors. Open from 7.30 pm to midnight, the park added another highlight to Singapore’s burgeoning nightlife.[^39] Just a month after its opening, “overwhelming response” forced the Night Safari to suspend advance ticket sales and appeal to visitors to avoid coming on Saturday nights.[^40] An initial forecast of 180,000 visitors was exceeded fourfold, with 760,000 visitors flocking to its gates in the first year alone.[^41]
