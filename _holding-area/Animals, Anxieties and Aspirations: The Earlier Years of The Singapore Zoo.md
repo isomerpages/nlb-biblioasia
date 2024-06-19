@@ -178,16 +178,16 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 [^30]: “[Zoo Will Get Its Millionth Visitor in October](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19740628-1.2.19.4),” _New Nation_, 28 June 1974, 2. (From NewspaperSG)
 
 
-[^31]: “De Alwis – Man Who Planned the Mandai Zoo.”
+[^31]: “[De Alwis – Man Who Planned the Mandai Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730708-1.2.16.2).”
 
 
-[^32]: For comparison, zoo directors typically attain their posts at around the age of 50. Bernard Ming-Deh Harrison, oral history interview by Jason Lim, 6 March 2008, transcript and MP3 audio, Reel/Disc 4 of 5, 64–84, National Archives of Singapore (accession no. 003217); “Gift of White Rhinos Raises Zoo’s Hope,” _Straits Times_, 27 October 1981, 9. (From NewspaperSG)&nbsp;
+[^32]: For comparison, zoo directors typically attain their posts at around the age of 50. Bernard Ming-Deh Harrison, oral history interview by Jason Lim, 6 March 2008, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5f90b871-1161-11e3-83d5-0050568939ad-OHC003217_004/web/html5/index.html) and MP3 audio, Reel/Disc 4 of 5, 64–84, National Archives of Singapore ([accession no. 003217](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003217)); “[Gift of White Rhinos Raises Zoo’s Hope](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811027-1.2.42),” _Straits Times_, 27 October 1981, 9. (From NewspaperSG)&nbsp;
 
 
-[^33]: Sandra Davie, “Million-Dollar Monkeys,” _Straits Times_, 22 April 1987, 24; “Rare White Tigers to Go on Show at Zoo,” _Straits Times_, 15 April 1988, 16. (From NewspaperSG); Harrison, oral history interview, 6 March 2008, Reel/Disc 4 of 5, 64–84.&nbsp;
+[^33]: Sandra Davie, “[Million-Dollar Monkeys](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19870422-1.2.51),” _Straits Times_, 22 April 1987, 24; “[Rare White Tigers to Go on Show at Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880415-1.2.24.17.1),” _Straits Times_, 15 April 1988, 16. (From NewspaperSG); [Harrison](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5f90b871-1161-11e3-83d5-0050568939ad-OHC003217_004/web/html5/index.html), oral history interview, 6 March 2008, Reel/Disc 4 of 5, 64–84.&nbsp;
 
 
-[^34]: Bernard Ming-Deh Harrison, oral history interview by Jason Lim, 6 March 2008, transcript and MP3 audio, Reel/Disc 3 of 5, 49–51, National Archives of Singapore (accession no. 003217).
+[^34]: Bernard Ming-Deh Harrison, oral history interview by Jason Lim, 6 March 2008, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3ad74159-1161-11e3-83d5-0050568939ad-OHC003217_003/web/html5/index.html) and MP3 audio, Reel/Disc 3 of 5, 49–51, National Archives of Singapore ([accession no. 003217](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003217)).
 
 
 [^35]: K.C. Vijayan, “Ah Meng Dies,” _Straits Times_, 9 February 2008, https://www.straitstimes.com/singapore/ah-meng-dies.
@@ -199,10 +199,10 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 [^37]: “Singapore Zoo’s Inuka the Polar Bear Put Down at 27 on ‘Humane and Welfare Grounds’,” _Straits Times_, 25 April 2018, https://www.straitstimes.com/singapore/singapore-zoos-inuka-the-polar-bear-put-down-at-27-on-humane-and-welfare-grounds.
 
 
-[^38]: “$60m Night Zoo Opens,” _Straits Times_, 29 April 1994, 2. (From NewspaperSG)
+[^38]: “[$60m Night Zoo Opens](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940429-1.2.78.2.1),” _Straits Times_, 29 April 1994, 2. (From NewspaperSG)
 
 
-[^39]: Rohaniah Saini, “'Make Them Happy and They Will Breed',” _Straits Times_, 29 April 1994, 3. (From NewspaperSG)
+[^39]: Rohaniah Saini, “['Make Them Happy and They Will Breed'](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940429-1.2.78.2.3),” _Straits Times_, 29 April 1994, 3. (From NewspaperSG)
 
 
 [^40]: Ginnie Teo, “Safari Stops Sale of Advance Tickets,” _Straits Times_, 22 June 1994, 22. (From NewspaperSG)
