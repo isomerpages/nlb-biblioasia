@@ -44,6 +44,14 @@ Days before the official launch of RISIS in April 1976, SISIR created a subsidia
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_orchids.jpg" style="width: 80%;">
 <div style="background-color: white;">RISIS orchids were manufactured into tie and lapel pins and cufflinks for men (left) as well as jewelry for women (right). <i>Images reproduced from “Page 5 Advertisements Column 1”, New Nation, 9 June 1977, 5. (From NewspaperSG) and “Page 8 Advertisements Column 1,” Straits Times, 13 November 1976. 8. (From NewspaperSG)</i></div>
 
+The orchid was advertised in newspapers as a suitable gift for everyone and for every festive occasion.[^16] This strategy struck gold: all 3,000 orchids were sold out within days, despite each customer being limited to only one piece.[^17] On 3 May, Setsco published an advertisement apologising for their entire stock being sold out due to “overwhelming public response” – an apology which also conveniently doubled as great publicity.[^18] By the end of its first year, 100,000 RISIS orchids had been sold, accounting for nearly $2 million in sales.[^19]
+
+  
+
+* * *
+
+
+
   
 
 
@@ -92,3 +100,11 @@ Days before the official launch of RISIS in April 1976, SISIR created a subsidia
 [^14]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 157–58.
 
 [^15]:  “[S’pore Orchids Don the ‘Golden’ Look](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760420-1.2.73),” _Straits Times_, 20 April 1976, 12. (From NewspaperSG)
+
+[^16]:  “[Page 25 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760812-1.2.120.1),” _Straits Times_, 12 August 1976, 25. (From NewspaperSG)
+
+[^17]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 158.
+
+[^18]:  “[Page 19 Advertisements Column 3: RISIS Gold Orchids](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760503-1.2.110.3),” _Straits Times_, 3 May 1976, 19. (From NewspaperSG)
+
+[^19]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 159.
