@@ -123,7 +123,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^5]: Timothy P. Barnard, [Nature’s Colony: Empire, _Nation and Environment in the Singapore Botanic Gardens_](https://nlb.overdrive.com/media/6452A8DB-30F9-419F-AD6A-E72ADD17C242) (Singapore: NUS Press, 2016), 110. (From NLB OverDrive)
 
-[^6]: “S’pore Zoo Starts from Scratch,” _Straits Times_, 20 October 1946, 5. (From NewspaperSG)
+[^6]: “[S’pore Zoo Starts from Scratch](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19461020-1.2.61),” _Straits Times_, 20 October 1946, 5. (From NewspaperSG)
 
 [^7]: Melody Zaccheus, “We Bought a Zoo: Singapore’s Small Havens for Wild Animals,” _Straits Times_, 3 June 2014, https://www.straitstimes.com/singapore/we-bought-a-zoo-singapores-small-havens-for-wild-animals.
 
